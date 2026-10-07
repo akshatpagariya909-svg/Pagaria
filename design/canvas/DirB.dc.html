@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Direction B — Playful Digital Archive</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;700;800&amp;family=DM+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#111}a:hover{color:#E2531B}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background: #D8D8D2; color: #111; font-family: 'DM Mono', monospace">
+  <div style="position: absolute; inset: 0; background-image: linear-gradient(#C9C9C2 1px, transparent 1px), linear-gradient(90deg, #C9C9C2 1px, transparent 1px); background-size: 40px 40px; opacity: 0.6"></div>
+  <div style="position: absolute; left: 28px; top: 24px; font-family: 'Syne', sans-serif; font-weight: 800; font-size: 64px; line-height: 0.85; letter-spacing: -0.03em">dé<br>ri<br>ve.</div>
+  <div style="position: absolute; left: 28px; top: 210px; width: 170px; font-size: 12px; line-height: 1.5">an open drawer of 100 buildings. pick things up. put them down. see what sticks.</div>
+  <div style="position: absolute; right: 28px; top: 28px; display: flex; gap: 8px">
+    <a href="#" style="text-decoration: none; border: 1.5px solid #111; padding: 10px 14px; font-size: 13px; background: #E2531B; color: #fff; border-color: #E2531B">[ surprise ]</a>
+    <a href="#" style="text-decoration: none; border: 1.5px solid #111; padding: 10px 14px; font-size: 13px">[ shuffle ]</a>
+    <a href="#" style="text-decoration: none; border: 1.5px solid #111; padding: 10px 14px; font-size: 13px">[ filter ]</a>
+    <a href="#" style="text-decoration: none; border: 1.5px solid #111; padding: 10px 14px; font-size: 13px">[ search ]</a>
+  </div>
+  <sc-for list="{{tiles}}" as="t" hint-placeholder-count="16">
+    <div style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: {{t.w}}px; transform: rotate({{t.r}}deg); background: #F4F4F0; padding: 6px 6px 8px; box-shadow: 0 1px 0 rgba(0,0,0,0.15)">
+      <img src="{{t.img}}" alt="{{t.name}}" style="width: 100%; height: {{t.h}}px; object-fit: cover; display: block">
+      <div style="display: flex; justify-content: space-between; font-size: 10px; padding-top: 5px; letter-spacing: 0.02em"><span>{{t.n}}</span><span>{{t.tag}}</span></div>
+    </div>
+  </sc-for>
+  <div style="position: absolute; left: 744px; top: 318px; width: 300px; transform: rotate(-6deg); background: #F4F4F0; padding: 8px 8px 12px; box-shadow: 0 28px 50px rgba(0,0,0,0.35), 0 6px 12px rgba(0,0,0,0.2); z-index: 5">
+    <img src="/_blob/ada1c23b6c6fd9be5a216c363944c790" alt="La Muralla Roja" style="width: 100%; height: 360px; object-fit: cover; display: block">
+    <div style="font-family: 'Syne', sans-serif; font-weight: 800; font-size: 26px; line-height: 1; padding-top: 10px">La Muralla Roja</div>
+    <div style="font-size: 11px; padding-top: 6px">ricardo bofill · calpe, es · 1973</div>
+    <div style="display: flex; gap: 6px; padding-top: 10px">
+      <span style="background: #111; color: #fff; font-size: 10px; padding: 4px 6px">#stairs</span>
+      <span style="background: #111; color: #fff; font-size: 10px; padding: 4px 6px">#colour</span>
+      <span style="background: #111; color: #fff; font-size: 10px; padding: 4px 6px">#labyrinth</span>
+    </div>
+  </div>
+  <svg width="34" height="34" viewBox="0 0 24 24" style="position: absolute; left: 1010px; top: 470px; z-index: 6" fill="#fff" stroke="#111" stroke-width="1.4" stroke-linejoin="round"><path d="M8 13V5.5a1.5 1.5 0 0 1 3 0V12m0-1.5v-2a1.5 1.5 0 0 1 3 0V12m0-1a1.5 1.5 0 0 1 3 0v1m0 0a1.5 1.5 0 0 1 3 0V16a6 6 0 0 1-6 6h-2c-2.5 0-4-1.5-5.5-3.5L4 15c-.8-1.2.5-2.6 1.7-1.8L8 15"/></svg>
+  <div style="position: absolute; right: 28px; bottom: 28px; width: 240px; height: 150px; border: 1.5px dashed #111; display: flex; flex-direction: column; justify-content: space-between; padding: 12px; box-sizing: border-box">
+    <div style="font-size: 11px">drop here → your pile (3)</div>
+    <div style="display: flex; gap: 4px">
+      <img src="/_blob/e1d5b048f55ac0d50b7ffc1f5608575a" alt="Chand Baori" style="width: 56px; height: 56px; object-fit: cover; transform: rotate(-4deg)">
+      <img src="/_blob/b04b0d3fdfc18dfcdc79d88e3b71474c" alt="Casa Gilardi" style="width: 56px; height: 56px; object-fit: cover; transform: rotate(3deg)">
+      <img src="/_blob/5fa0f7cf2e3d4dffcb0f9e136409df24" alt="Cuadra San Cristóbal" style="width: 56px; height: 56px; object-fit: cover; transform: rotate(-2deg)">
+    </div>
+  </div>
+  <div style="position: absolute; left: 28px; bottom: 28px; width: 300px; font-size: 12px; line-height: 1.5; background: #111; color: #F4F4F0; padding: 14px 16px">
+    <div style="color: #E2531B">signature interaction</div>
+    pick a tile up and it shows its tags. toss it on the pile and the pile becomes a collection you can share.
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const T = (img, x, y, w, h, r, n, tag) => ({ img: B + img, x, y, w, h, r, n, tag, name: n });
+    return {
+      tiles: [
+        T('7808c6f5438936b491a834d37ee760a2', 230, 40, 300, 190, -2, '031 salk', '#water'),
+        T('3e3eb3ef4bee0afa4edbe7b642a69193', 560, 70, 170, 210, 3, '077 hawa mahal', '#screen'),
+        T('20e207ee40e30a3431ff249d15458d41', 760, 30, 150, 190, -4, '058 light', '#light'),
+        T('2905b17d62dd48f00292ace0468e1f17', 960, 110, 280, 170, 2, '012 masp', '#lifted'),
+        T('ad7236eb2882e0f57ccfbad2f4f9e236', 1250, 160, 150, 190, -3, '063 nakagin', '#modular'),
+        T('e1d5b048f55ac0d50b7ffc1f5608575a', 60, 300, 210, 210, 4, '047 chand baori', '#stairs'),
+        T('4573b087446a051355b94c1e52c91f3a', 300, 280, 280, 170, -1, '052 djenné', '#earth'),
+        T('ec5c33af48e612bd3262b10e3af2a9da', 600, 330, 160, 200, 5, '015 barbican', '#concrete'),
+        T('ccaf7086dec1f08ded4c4ff8927b49de', 1090, 380, 200, 200, -5, '036 lalibela', '#carved'),
+        T('faba44bed0c130a2b9b71ab8b5260399', 230, 500, 290, 180, 2, '066 gando', '#roof'),
+        T('553cc3169e71d9e4bde1f53d46e718c1', 540, 560, 180, 180, -3, '038 ima', '#screen'),
+        T('32a48ac7ef4374cb674b436a4b6a396a', 1100, 600, 240, 150, 4, '089 superkilen', '#public'),
+        T('6dbf3b6fae36882a71eb03067fbd09a8', 980, 640, 120, 190, -6, '091 stacking', '#green'),
+        T('37f86573c9f3a4abe116652ad37fb911', 360, 700, 240, 150, -2, '019 sangath', '#vault'),
+        T('e8074e6f2563fcb528aa7c3d979680df', 640, 740, 260, 150, 3, '082 ningbo', '#reuse')
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

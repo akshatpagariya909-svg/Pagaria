@@ -1,0 +1,47 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:05:00Z"},
+  "title": "Dérive — Architecture Discovery Engine",
+  "launch": {"view": "canvas"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html": {"x": 0, "y": 0, "w": 1440, "h": 900, "title": "00 Cover — the brief in one screen"},
+    "DirA.dc.html": {"x": 1520, "y": 0, "w": 1440, "h": 900, "title": "Direction A — Editorial Architecture"},
+    "DirB.dc.html": {"x": 3040, "y": 0, "w": 1440, "h": 900, "title": "Direction B — Playful Digital Archive"},
+    "DirC.dc.html": {"x": 4560, "y": 0, "w": 1440, "h": 900, "title": "Direction C — Digital Museum"},
+    "DirD.dc.html": {"x": 6080, "y": 0, "w": 1440, "h": 900, "title": "Direction D — Architecture Playground"},
+    "Walls.dc.html": {"x": 0, "y": 1300, "w": 1440, "h": 900, "title": "Compare — four tile walls"},
+    "Type.dc.html": {"x": 1520, "y": 1300, "w": 1440, "h": 900, "title": "Compare — four type directions"},
+    "Hovers.dc.html": {"x": 3040, "y": 1300, "w": 1440, "h": 900, "title": "Compare — four hover behaviours"},
+    "Details.dc.html": {"x": 4560, "y": 1300, "w": 1440, "h": 900, "title": "Compare — four building pages"},
+    "System.dc.html": {"x": 0, "y": 2600, "w": 1440, "h": 1100, "title": "Dérive — mini design system"},
+    "Home.dc.html": {"x": 0, "y": 4100, "w": 1440, "h": 900, "title": "MVP 01 — Homepage (playable)", "is_interactive": true},
+    "Hover.dc.html": {"x": 1520, "y": 4100, "w": 1440, "h": 900, "title": "MVP 02 — Hover state"},
+    "ZoomOut.dc.html": {"x": 3040, "y": 4100, "w": 1440, "h": 900, "title": "MVP 03 — Zoomed out: all 100"},
+    "Building.dc.html": {"x": 4560, "y": 4100, "w": 1440, "h": 2600, "title": "MVP 04 — Building page", "expand": "fill"},
+    "RabbitHole.dc.html": {"x": 6080, "y": 4100, "w": 1440, "h": 1000, "title": "MVP 05 — The rabbit hole"},
+    "Search.dc.html": {"x": 7600, "y": 4100, "w": 1440, "h": 900, "title": "MVP 06 — Search & filter"},
+    "Surprise.dc.html": {"x": 9120, "y": 4100, "w": 1440, "h": 900, "title": "MVP 07 — Surprise me"},
+    "Universe.dc.html": {"x": 0, "y": 6740, "w": 1440, "h": 900, "title": "Future 01 — 10,000-building universe"},
+    "ForYou.dc.html": {"x": 1520, "y": 6740, "w": 1440, "h": 900, "title": "Future 02 — Personal drift & collections"},
+    "Atlas.dc.html": {"x": 3040, "y": 6740, "w": 1440, "h": 900, "title": "Future 03 — Atlas & visual search"}
+  },
+  "order": [
+    "Main.dc.html", "DirA.dc.html", "DirB.dc.html", "DirC.dc.html", "DirD.dc.html",
+    "Walls.dc.html", "Type.dc.html", "Hovers.dc.html", "Details.dc.html",
+    "System.dc.html",
+    "Home.dc.html", "Hover.dc.html", "ZoomOut.dc.html", "Building.dc.html", "RabbitHole.dc.html", "Search.dc.html", "Surprise.dc.html",
+    "Universe.dc.html", "ForYou.dc.html", "Atlas.dc.html"
+  ],
+  "notes": {
+    "t_explore": {"x": 0, "y": -300, "text": "1 · Four directions for the homepage", "kind": "title1", "maxW": 7520},
+    "t_compare": {"x": 0, "y": 1000, "text": "2 · Comparing walls, type, hover and building pages", "kind": "title1", "maxW": 5960},
+    "s_compare": {"x": 6080, "y": 1300, "w": 420, "text": "Pick: D's mechanics (zoomable field, shuffle, trail, Surprise) wearing A's editorial restraint (strict grid, big type, one accent).\n\nB is fun but noisy at 100 buildings. C is beautiful but slow: one building at a time kills the 'one more' loop.", "fill": "blue"},
+    "t_system": {"x": 0, "y": 2300, "text": "3 · Chosen direction: Dérive, an editorial playground", "kind": "title1", "maxW": 2960},
+    "s_system": {"x": 1520, "y": 2600, "w": 420, "text": "Three rules:\n1. Architecture is the only colour. The UI stays black, white and grey, with one signal blue for things that move you somewhere new.\n2. Every surface is a door. Tiles, chips and concepts all click through.\n3. Remember the path. The trail turns browsing into a story you can retrace.", "fill": "gray"},
+    "t_mvp": {"x": 0, "y": 3800, "text": "4 · MVP: 100 buildings, seven screens", "kind": "title1", "maxW": 10560},
+    "s_mvp": {"x": 10640, "y": 4100, "w": 380, "text": "01 Homepage is playable. Hover tiles, click to open, try Shuffle, Surprise me and the zoom buttons.", "fill": "green"},
+    "t_future": {"x": 0, "y": 6440, "text": "5 · Future vision: 1,000 → 10,000+ buildings", "kind": "title1", "maxW": 4480}
+  },
+  "designSystems": []
+}
