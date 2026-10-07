@@ -110,9 +110,9 @@ if [[ "$MODE" == "lite" ]]; then
 elif build project.yml full; then
   ok "Full build succeeded (Screen Time on)"
 else
-  if grep -qiE "family.?controls" build/xcodebuild-full.log && [[ "$MODE" == "auto" ]]; then
+  if grep -qiE "error:.*family.?controls" build/xcodebuild-full.log && [[ "$MODE" == "auto" ]]; then
     printf "\n\033[33m! Family Controls couldn't be signed for team %s.\033[0m\n" "$TEAM"
-    grep -iE "family.?controls" build/xcodebuild-full.log | sort -u | head -5
+    grep -iE "error:.*family.?controls" build/xcodebuild-full.log | sort -u | head -5
     echo "  Falling back to the lite build: Screen Time targets OFF."
     build project-lite.yml lite || { tail -30 build/xcodebuild-lite.log; fail "Lite build failed too (log: build/xcodebuild-lite.log)."; }
     DISABLED="yes"
