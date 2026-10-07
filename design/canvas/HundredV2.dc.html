@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — the first 100</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+.m-print{background-image:repeating-linear-gradient(135deg, rgba(17,17,16,.06) 0 1px, transparent 1px 7px)}
+.m-drawing{background-image:linear-gradient(rgba(45,59,240,.09) 1px, transparent 1px), linear-gradient(90deg, rgba(45,59,240,.09) 1px, transparent 1px);background-size:16px 16px}
+.m-archive{background-image:radial-gradient(rgba(60,40,20,.10) 1px, transparent 1px);background-size:5px 5px}
+</style>
+</helmet>
+<div style="width: 1440px; box-sizing: border-box; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif; padding: 48px 48px 56px; display: flex; flex-direction: column; gap: 34px">
+  <div style="display: grid; grid-template-columns: 1fr 520px; gap: 40px; align-items: end; border-bottom: 2px solid #111110; padding-bottom: 20px">
+    <div style="display: flex; flex-direction: column; gap: 12px">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.06em; color: #2D3BF0">THE FIRST 100</span>
+      <h1 style="margin: 0; font-size: 72px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em; line-height: 0.9">ONE BUILDING,<br>ONE WORK, ONE STORY</h1>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px">
+      <p style="margin: 0; font-family: 'Newsreader', serif; font-style: italic; font-size: 22px; line-height: 1.25">Half the wall is photographs. The other half is how painters, printmakers, architects and early photographers saw these buildings.</p>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.05em; color: #5D5C57; line-height: 1.6">EVERY WORK IS PUBLIC DOMAIN OR CREATIVE COMMONS, CREDITED ON ITS TILE. MAIN SOURCES: WIKIMEDIA COMMONS, LIBRARY OF CONGRESS, MUSEUM OPEN-ACCESS COLLECTIONS.</span>
+    </div>
+  </div>
+
+  <sc-for list="{{groups}}" as="g" hint-placeholder-count="5">
+    <section style="display: flex; flex-direction: column; gap: 14px">
+      <div style="display: flex; align-items: center; gap: 14px">
+        <span class="{{g.cls}}" style="width: 22px; height: 22px; background-color: {{g.bg}}; border: 1px solid rgba(17,17,16,0.25)"></span>
+        <span style="font-weight: 850; font-stretch: 125%; font-size: 24px; letter-spacing: -0.01em">{{g.label}}</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">{{g.n}}</span>
+        <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 18px; color: #3E3D39">{{g.note}}</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 6px">
+        <sc-for list="{{g.items}}" as="b" hint-placeholder-count="10">
+          <div class="{{g.cls}}" style="background-color: {{g.bg}}; padding: 10px 11px 11px; display: flex; flex-direction: column; gap: 3px; min-height: {{g.mh}}px; box-sizing: border-box">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.05em; color: #3E3D39">{{b.no}}</span>
+            <span style="font-size: 13.5px; font-weight: 800; line-height: 1.15">{{b.name}}</span>
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.03em; color: #3E3D39">{{b.meta}}</span>
+            <sc-if value="{{b.hasWork}}" hint-placeholder-val="{{true}}">
+              <span style="margin-top: auto; padding-top: 6px; font-family: 'Newsreader', serif; font-style: italic; font-size: 14px; line-height: 1.15">{{b.work}}</span>
+              <span style="font-family: 'IBM Plex Mono', monospace; font-size: 9.5px; letter-spacing: 0.03em; color: #3E3D39">{{b.credit}}</span>
+            </sc-if>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+  </sc-for>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":2250}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const photos = [
+      ['Salk Institute','La Jolla, US','1965'],['National Assembly of Bangladesh','Dhaka, BD','1982'],['IIM Ahmedabad','Ahmedabad, IN','1974'],['Palace of Assembly','Chandigarh, IN','1962'],['National Museum of Western Art','Tokyo, JP','1959'],
+      ['Fallingwater','Mill Run, US','1939'],['Solomon R. Guggenheim Museum','New York, US','1959'],['Seagram Building','New York, US','1958'],['Farnsworth House','Plano, US','1951'],['Barcelona Pavilion','Barcelona, ES','1929'],
+      ['Bauhaus Dessau','Dessau, DE','1926'],['Villa Tugendhat','Brno, CZ','1930'],['Sydney Opera House','Sydney, AU','1973'],['Guggenheim Bilbao','Bilbao, ES','1997'],['Barbican Estate','London, UK','1982'],
+      ['Habitat 67','Montréal, CA','1967'],['Cathedral of Brasília','Brasília, BR','1970'],['MASP','São Paulo, BR','1968'],['Yoyogi National Gymnasium','Tokyo, JP','1964'],['Nakagin Capsule Tower','Tokyo, JP','1972'],
+      ['Church of the Light','Ibaraki, JP','1989'],['Tate Modern','London, UK','2000'],['Sagrada Família','Barcelona, ES','1882–'],['Casa Batlló','Barcelona, ES','1906'],['Casa Milà','Barcelona, ES','1912'],
+      ['Hawa Mahal','Jaipur, IN','1799'],['Chand Baori','Abhaneri, IN','c. 800'],['Nasir al-Mulk Mosque','Shiraz, IR','1888'],['Shibam','Hadhramaut, YE','16th c.'],['Church of St George','Lalibela, ET','c. 1200'],
+      ['Great Mosque of Kairouan','Kairouan, TN','836'],['Mosque–Cathedral of Córdoba','Córdoba, ES','785'],['Sainte-Chapelle','Paris, FR','1248'],['Mont-Saint-Michel','Normandy, FR','8th–16th c.'],['Leaning Tower of Pisa','Pisa, IT','1372'],
+      ['Florence Cathedral','Florence, IT','1436'],['Hōryū-ji','Nara, JP','607'],['Himeji Castle','Himeji, JP','1609'],['Kinkaku-ji','Kyoto, JP','1397'],['Chrysler Building','New York, US','1930'],
+      ['Forbidden City','Beijing, CN','1420'],['Shwedagon Pagoda','Yangon, MM','14th c.'],['Wat Arun','Bangkok, TH','19th c.'],['Lotus Temple','New Delhi, IN','1986'],['Burj Khalifa','Dubai, AE','2010'],
+      ['Petronas Towers','Kuala Lumpur, MY','1998'],['Dancing House','Prague, CZ','1996'],['Great Zimbabwe','Masvingo, ZW','11th–15th c.'],['Borgund Stave Church','Lærdal, NO','c. 1200'],['Church of the Transfiguration','Kizhi, RU','1714']
+    ];
+    const works = {
+      painting: [
+        ['Houses of Parliament','London, UK','1870','The Houses of Parliament, Sunset','Claude Monet, 1903'],
+        ['Rouen Cathedral','Rouen, FR','1506','Rouen Cathedral, the Portal (Sunlight)','Claude Monet, 1894'],
+        ['Church at Auvers','Auvers-sur-Oise, FR','13th c.','The Church at Auvers','Vincent van Gogh, 1890'],
+        ['Pantheon','Rome, IT','125','Interior of the Pantheon, Rome','G. P. Panini, c. 1734'],
+        ['St Peter’s Basilica','Vatican City','1626','Interior of Saint Peter’s, Rome','G. P. Panini, 1754'],
+        ['St Mark’s Basilica','Venice, IT','1092','Piazza San Marco','Canaletto, late 1720s'],
+        ['Santa Maria della Salute','Venice, IT','1687','The Dogana and Santa Maria della Salute','J. M. W. Turner, 1843'],
+        ['Westminster Abbey','London, UK','1269','Westminster Abbey with a Procession of Knights of the Bath','Canaletto, 1749'],
+        ['Salisbury Cathedral','Salisbury, UK','1258','Salisbury Cathedral from the Bishop’s Grounds','John Constable, 1823'],
+        ['Chartres Cathedral','Chartres, FR','1220','Chartres Cathedral','Camille Corot, 1830'],
+        ['Parthenon','Athens, GR','438 BC','The Parthenon','Frederic Edwin Church, 1871'],
+        ['Eiffel Tower','Paris, FR','1889','The Eiffel Tower','Georges Seurat, 1889'],
+        ['Palace of Versailles','Versailles, FR','1682','View of the Château and Gardens of Versailles','Pierre Patel, 1668'],
+        ['Tintern Abbey','Monmouthshire, UK','1301','Interior of Tintern Abbey','J. M. W. Turner, 1794'],
+        ['Stonehenge','Wiltshire, UK','c. 2500 BC','Stonehenge','John Constable, 1835'],
+        ['Doge’s Palace','Venice, IT','1340','The Doge’s Palace','Claude Monet, 1908'],
+        ['Gare Saint-Lazare','Paris, FR','1837','La Gare Saint-Lazare','Claude Monet, 1877'],
+        ['Crystal Palace','London, UK','1851','The Crystal Palace','Camille Pissarro, 1871']
+      ],
+      print: [
+        ['Colosseum','Rome, IT','80','Veduta dell’Anfiteatro Flavio','G. B. Piranesi, etching, c. 1757'],
+        ['Notre-Dame de Paris','Paris, FR','1260','Le Stryge','Charles Meryon, etching, 1853'],
+        ['Hagia Sophia','Istanbul, TR','537','Aya Sofia, Constantinople','Louis Haghe after Fossati, lithograph, 1852'],
+        ['Taj Mahal','Agra, IN','1653','The Taje Mahel, Agra','T. & W. Daniell, aquatint, 1801'],
+        ['Al-Khazneh','Petra, JO','1st c.','El Khasne, Petra','David Roberts, lithograph, 1839'],
+        ['Pyramids of Giza','Giza, EG','c. 2560 BC','The Pyramids of Gizeh','David Roberts, lithograph, 1839'],
+        ['Abu Simbel','Nubia, EG','c. 1264 BC','The Great Temple of Abu Simbel','David Roberts, lithograph, 1838'],
+        ['El Castillo, Chichen Itza','Yucatán, MX','c. 1000','Castillo at Chichen Itza','F. Catherwood, lithograph, 1844'],
+        ['Alhambra','Granada, ES','14th c.','Plans, Elevations, Sections and Details of the Alhambra','Owen Jones, chromolithograph, 1842–45'],
+        ['Kiyomizu-dera','Kyoto, JP','1633','Kiyomizu Temple','Utagawa Hiroshige, woodblock, c. 1834'],
+        ['Sensō-ji','Tokyo, JP','645 / 1958','Kinryūzan Temple, Asakusa','Utagawa Hiroshige, woodblock, 1856'],
+        ['Itsukushima Shrine','Miyajima, JP','1168','Aki Province: Itsukushima','Utagawa Hiroshige, woodblock, 1853'],
+        ['Shah Mosque','Isfahan, IR','1629','Monuments modernes de la Perse','Pascal Coste, 1867'],
+        ['Royal Pavilion','Brighton, UK','1823','Views of the Royal Pavilion','John Nash, aquatint, 1826'],
+        ['Villa La Rotonda','Vicenza, IT','1592','I Quattro Libri dell’Architettura','Andrea Palladio, woodcut, 1570'],
+        ['Tempietto','Rome, IT','1502','I Quattro Libri, Book IV','Andrea Palladio, woodcut, 1570']
+      ],
+      drawing: [
+        ['Neuschwanstein Castle','Bavaria, DE','1886','Design for Neuschwanstein','Christian Jank, 1869'],
+        ['Robie House','Chicago, US','1910','Measured drawings','Historic American Buildings Survey'],
+        ['Unity Temple','Oak Park, US','1908','Measured drawings','Historic American Buildings Survey'],
+        ['Monticello','Charlottesville, US','1809','First elevation of Monticello','Thomas Jefferson, c. 1771'],
+        ['United States Capitol','Washington, US','1800 / 1866','Section of the new dome','Thomas U. Walter, 1859'],
+        ['Château de Chambord','Loir-et-Cher, FR','1547','Les plus excellents bastiments de France','J. Androuet du Cerceau, 1576'],
+        ['St Paul’s Cathedral','London, UK','1710','The Warrant Design','Christopher Wren, 1675'],
+        ['Einstein Tower','Potsdam, DE','1921','Sketches for the Einstein Tower','Erich Mendelsohn, 1917–20']
+      ],
+      archive: [
+        ['Flatiron Building','New York, US','1902','The Flat Iron','Alfred Stieglitz, 1903'],
+        ['Empire State Building','New York, US','1931','Construction photographs','Lewis Hine, 1930–31'],
+        ['Machu Picchu','Cusco Region, PE','c. 1450','Photograph of Machu Picchu','Hiram Bingham III, 1912'],
+        ['Angkor Wat','Siem Reap, KH','c. 1150','Photograph of Angkor Wat','John Thomson, 1866'],
+        ['Borobudur','Central Java, ID','c. 825','Photograph of Borobudur','Isidore van Kinsbergen, 1873'],
+        ['Great Mosque of Djenné','Djenné, ML','1907','Postcard photograph of Djenné','Edmond Fortier, c. 1906'],
+        ['Tower Bridge','London, UK','1894','Construction photograph','Unknown photographer, 1892'],
+        ['Potala Palace','Lhasa, Tibet','1649','Photograph of the Potala','John Claude White, 1904']
+      ]
+    };
+    let n = 0;
+    const no = () => String(++n).padStart(3, '0');
+    const G = (key, label, bg, note, items, mh) => ({ cls: 'm-' + key, label, bg, note, n: String(items.length).padStart(2, '0'), items, mh });
+    const pItems = photos.map(r => ({ no: no(), name: r[0], meta: (r[1] + ' · ' + r[2]).toUpperCase(), hasWork: false }));
+    const wItems = rows => rows.map(r => ({ no: no(), name: r[0], meta: (r[1] + ' · ' + r[2]).toUpperCase(), hasWork: true, work: r[3], credit: r[4].toUpperCase() }));
+    return {
+      groups: [
+        G('photo', 'Photographs', '#D4D2CC', 'Modern buildings, and places painters never reached.', pItems, 70),
+        G('painting', 'Paintings', '#DCD1BE', 'Monet, Van Gogh, Turner, Constable, Canaletto, Seurat, Pissarro.', wItems(works.painting), 132),
+        G('print', 'Prints', '#E4DFD3', 'Piranesi, Hiroshige, David Roberts, Palladio’s own woodcuts.', wItems(works.print), 132),
+        G('drawing', 'Drawings', '#EAE9E3', 'Architects’ own designs and US government measured drawings.', wItems(works.drawing), 132),
+        G('archive', 'Archive photos', '#C8C1B2', 'The first photographs: Stieglitz, Hine, Bingham, Thomson.', wItems(works.archive), 132)
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

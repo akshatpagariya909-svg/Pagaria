@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — open a building</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+.m-print{background-image:repeating-linear-gradient(135deg, rgba(17,17,16,.06) 0 1px, transparent 1px 7px)}
+.m-drawing{background-image:linear-gradient(rgba(45,59,240,.09) 1px, transparent 1px), linear-gradient(90deg, rgba(45,59,240,.09) 1px, transparent 1px);background-size:16px 16px}
+.m-archive{background-image:radial-gradient(rgba(60,40,20,.10) 1px, transparent 1px);background-size:5px 5px}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif">
+  <sc-for list="{{bgTiles}}" as="t" hint-placeholder-count="40">
+    <div class="{{t.cls}}" style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: {{t.w}}px; height: {{t.h}}px; background-color: {{t.bg}}"></div>
+  </sc-for>
+  <div style="position: absolute; left: 0; right: 0; top: 0; height: 60px; display: flex; align-items: center; padding: 0 20px; gap: 18px">
+    <span style="font-size: 26px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em">Dérive</span>
+  </div>
+  <div style="position: absolute; inset: 0; background: rgba(14,14,13,0.5)"></div>
+
+  <div style="position: absolute; left: 60px; top: 50px; width: 1320px; height: 800px; background: #F7F7F5; display: grid; grid-template-columns: 470px 1fr; box-shadow: 0 30px 90px rgba(0,0,0,0.45)">
+    <div style="position: relative; background-color: #DCD1BE">
+      <div style="position: absolute; inset: 16px; border: 1px dashed rgba(17,17,16,0.25)"></div>
+      <div style="position: absolute; left: 30px; top: 28px; right: 30px; display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #3E3D39"><span>PAINTING · 1889</span><span>IMAGE PENDING</span></div>
+      <div style="position: absolute; left: 30px; right: 30px; bottom: 30px; display: flex; flex-direction: column; gap: 8px">
+        <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 44px; line-height: 1">The Eiffel Tower</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.04em; color: #3E3D39">GEORGES SEURAT · OIL ON PANEL · 24 × 15 CM</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.04em; color: #3E3D39">FINE ARTS MUSEUMS OF SAN FRANCISCO · PUBLIC DOMAIN</span>
+      </div>
+    </div>
+
+    <div style="padding: 32px 40px 30px; display: flex; flex-direction: column; gap: 20px; min-width: 0">
+      <div style="display: flex; justify-content: space-between; align-items: center">
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">062/100 · TOLD THROUGH A PAINTING</span>
+        <span style="width: 44px; height: 44px; display: flex; align-items: center; justify-content: center"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#111110" stroke-width="2"><path d="M5 5l14 14M19 5 5 19"/></svg></span>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 10px">
+        <h1 style="margin: 0; font-size: 60px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em; line-height: 0.9">EIFFEL TOWER</h1>
+        <div style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.05em; color: #5D5C57">GUSTAVE EIFFEL, MAURICE KOECHLIN, ÉMILE NOUGUIER, STEPHEN SAUVESTRE · PARIS · 1889</div>
+      </div>
+      <p style="margin: 0; font-family: 'Newsreader', serif; font-style: italic; font-size: 27px; line-height: 1.22; max-width: 720px">In 1887 the city's leading artists signed a protest against "this useless and monstrous tower". Two years later, Seurat painted it in dots before it was even finished.</p>
+
+      <div style="display: flex; flex-direction: column; gap: 14px; border-top: 1px solid #111110; padding-top: 16px">
+        <div style="display: flex; justify-content: space-between; align-items: baseline">
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em">THROUGH TIME</span>
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: #5D5C57">4 WORKS · 1887 → TODAY</span>
+        </div>
+        <div style="position: relative; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px">
+          <div style="position: absolute; left: 0; right: 0; top: 168px; height: 1px; background: #111110"></div>
+          <sc-for list="{{timeline}}" as="s" hint-placeholder-count="4">
+            <div style="display: flex; flex-direction: column; gap: 8px">
+              <div class="{{s.cls}}" style="height: 160px; background-color: {{s.bg}}; position: relative; outline: {{s.ol}}; outline-offset: 2px">
+                <span style="position: absolute; left: 9px; top: 8px; font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.06em; color: #3E3D39">{{s.kind}}</span>
+              </div>
+              <span style="width: 9px; height: 9px; background: {{s.dot}}; margin-top: 0px"></span>
+              <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #2D3BF0">{{s.y}}</span>
+              <span style="font-size: 14px; font-weight: 700; line-height: 1.2">{{s.cap}}</span>
+              <span style="font-size: 12.5px; color: #5D5C57; line-height: 1.35">{{s.by}}</span>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+
+      <div style="margin-top: auto; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)) auto; gap: 8px; align-items: stretch; border-top: 1px solid #CFCDC6; padding-top: 14px">
+        <sc-for list="{{res}}" as="r" hint-placeholder-count="3">
+          <a href="#" style="text-decoration: none; color: #111110; background: #FFFFFF; border: 1px solid #CFCDC6; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: #5D5C57">{{r.kind}}</span>
+            <span style="font-weight: 800; font-stretch: 112%; font-size: 15px">{{r.src}} ↗</span>
+          </a>
+        </sc-for>
+        <a href="#" style="text-decoration: none; background: #2D3BF0; color: #fff; padding: 0 20px; display: flex; align-items: center; font-size: 14px; font-weight: 700">Drift onward →</a>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const M = { photo: '#D4D2CC', painting: '#DCD1BE', print: '#E4DFD3', drawing: '#EAE9E3', archive: '#C8C1B2' };
+    const K = { photo: 'PHOTOGRAPH', painting: 'PAINTING', print: 'PRINT', drawing: 'DRAWING', archive: 'ARCHIVE PHOTO' };
+    const kinds = ['photo', 'painting', 'photo', 'print', 'photo', 'archive', 'photo', 'drawing'];
+    const bgTiles = [];
+    const U = 150, G = 10;
+    const spans = [[2,1],[1,2],[2,2],[1,1],[3,2],[1,2],[2,1],[1,1]];
+    const heights = new Array(10).fill(0);
+    for (let k = 0; k < 40; k++) {
+      const [w, h] = spans[k % spans.length];
+      let best = 0, top = Infinity;
+      for (let c = 0; c <= 10 - w; c++) { let t = 0; for (let q = c; q < c + w; q++) t = Math.max(t, heights[q]); if (t < top) { top = t; best = c; } }
+      for (let q = best; q < best + w; q++) heights[q] = top + h;
+      const m = kinds[(k * 3) % kinds.length];
+      bgTiles.push({ x: 20 + best * (U + G), y: 70 + top * (U + G), w: w * U + (w - 1) * G, h: h * U + (h - 1) * G, bg: M[m], cls: 'm-' + m });
+    }
+    const T = (y, m, cap, by, hero) => ({ y, cap, by, kind: K[m], bg: M[m], cls: 'm-' + m, ol: hero ? '2px solid #2D3BF0' : 'none', dot: hero ? '#2D3BF0' : '#111110' });
+    return {
+      bgTiles,
+      timeline: [
+        T('1887–89', 'archive', 'Construction photographs', 'Louis-Émile Durandelle. The tower rising from the Champ de Mars, stage by stage.', false),
+        T('1889', 'painting', 'The Eiffel Tower', 'Georges Seurat. The work on this tile.', true),
+        T('1911', 'painting', 'Champs de Mars: The Red Tower', 'Robert Delaunay. Twenty years on, the tower as a symbol of modern life.', false),
+        T('Today', 'photo', 'Photograph', 'Best free photograph on Wikimedia Commons.', false)
+      ],
+      res: [
+        { kind: 'READ', src: 'Wikipedia' },
+        { kind: 'SEE THE PAINTING', src: 'FAMSF collection' },
+        { kind: 'WATCH', src: 'Documentary' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>
