@@ -1,0 +1,7 @@
+# Full build: app + widgets + Screen Time extensions.
+# Generate with:  xcodegen --spec project.yml
+# (scripts/setup.sh does this for you and falls back to project-lite.yml
+#  if your team can't sign the Family Controls entitlement.)
+include:
+  - project-core.yml
+  - project-screentime.yml

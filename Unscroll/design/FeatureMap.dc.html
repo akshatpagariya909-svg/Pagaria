@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Unscroll — Feature map</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
+<style>
+body{margin:0}
+a{color:#C2471F}a:hover{color:#8F3215}
+</style>
+</helmet>
+<div style="width: 1440px; height: 844px; box-sizing: border-box; padding: 48px 56px; background: #F1EADF; color: #221B16; font-family: 'Bricolage Grotesque', 'Avenir Next', system-ui, sans-serif; display: flex; flex-direction: column; gap: 28px">
+  <div style="display: flex; justify-content: space-between; align-items: flex-end">
+    <h2 style="margin: 0; font-size: 44px; font-weight: 800; letter-spacing: -0.03em">What we build, in what order</h2>
+    <div style="display: flex; gap: 18px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em">
+      <span style="display: flex; gap: 8px; align-items: center"><span style="width: 12px; height: 12px; border-radius: 50%; background: #4F5B2E"></span>Native API</span>
+      <span style="display: flex; gap: 8px; align-items: center"><span style="width: 12px; height: 12px; border-radius: 50%; background: #B07A1E"></span>Workaround</span>
+      <span style="display: flex; gap: 8px; align-items: center"><span style="width: 12px; height: 12px; border-radius: 50%; border: 2px solid #221B16; box-sizing: border-box"></span>Needs validation</span>
+    </div>
+  </div>
+
+  <div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1.35fr); gap: 20px; flex: 1; min-height: 0">
+
+    <div style="background: #221B16; color: #FBF7F0; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 12px">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 6px">
+        <span style="font-size: 26px; font-weight: 800">MVP</span>
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #C9BBA8">v0.1 · ship this</span>
+      </div>
+      <div style="background: rgba(255,248,240,0.08); border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #B07A1E; flex: none"></span>Visit counter</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #E3D7C7">Counts every open of a watched app via a Shortcuts automation. "Visit 25 today."</span>
+      </div>
+      <div style="background: rgba(255,248,240,0.08); border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #8FA05A; flex: none"></span>Live session pill</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #E3D7C7">Dynamic Island timer that starts when you enter a watched app and stays until you leave.</span>
+      </div>
+      <div style="background: rgba(255,248,240,0.08); border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #8FA05A; flex: none"></span>Escalating shield</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #E3D7C7">Custom Screen Time shield past your limit. New line of copy on every return.</span>
+      </div>
+      <div style="background: rgba(255,248,240,0.08); border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #8FA05A; flex: none"></span>Today widget</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #E3D7C7">Home + lock screen: visits, minutes, estimated thumb distance.</span>
+      </div>
+      <div style="background: rgba(255,248,240,0.08); border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #8FA05A; flex: none"></span>Voice picker</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #E3D7C7">Gentle, witty or blunt. Sets the tone of every nudge.</span>
+      </div>
+    </div>
+
+    <div style="background: #FBF7F0; border: 1px solid #DDD2C1; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 12px">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 6px">
+        <span style="font-size: 26px; font-weight: 800">Next</span>
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #6B5E52">v0.2 · after feedback</span>
+      </div>
+      <div style="background: #F1EADF; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #4F5B2E; flex: none"></span>Weekly receipt</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">A shareable, receipt-style recap of your scroll week.</span>
+      </div>
+      <div style="background: #F1EADF; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #4F5B2E; flex: none"></span>Risky hours</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Learns when you usually spiral (11 pm, post-lunch) and arms nudges earlier then.</span>
+      </div>
+      <div style="background: #F1EADF; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #4F5B2E; flex: none"></span>Swap card</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Shield suggests one 2-minute thing from your own list: water, stretch, text a friend.</span>
+      </div>
+      <div style="background: #F1EADF; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+        <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #B07A1E; flex: none"></span>Grayscale creep</span>
+        <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Past your limit the screen fades to grayscale. Reels are a lot less fun in grey.</span>
+      </div>
+    </div>
+
+    <div style="background: #E4D9C7; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 12px">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 6px">
+        <span style="font-size: 26px; font-weight: 800">Out-of-the-box</span>
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #5B4F44">to debate</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px">
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #B07A1E; flex: none"></span>Thumb odometer</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Distance turned into landmarks: "You scrolled past Qutub Minar 5 times today."</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; border: 2px solid #221B16; box-sizing: border-box; flex: none"></span>Scroll buddy</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">A friend gets a soft ping when you're 2× over. They send back one tap: "come back."</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; border: 2px solid #221B16; box-sizing: border-box; flex: none"></span>Chai pact</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">A friend group league. Whoever scrolls most this week buys the chai.</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #B07A1E; flex: none"></span>Intention gate</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Type one word for why you're opening it. At minute 10 we read it back to you.</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #4F5B2E; flex: none"></span>Doom weather</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">A lock screen forecast: "High scroll risk after 10 pm. Bring a book."</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; background: #4F5B2E; flex: none"></span>Quiet hour</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">One tap turns on a Focus with a calm, text-only home screen for an hour.</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; border: 2px solid #221B16; box-sizing: border-box; flex: none"></span>Walk-away score</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">We celebrate exits, not limits: each close within 60 s of a nudge is a point.</span>
+        </div>
+        <div style="background: #FBF7F0; border-radius: 18px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px">
+          <span style="display: flex; gap: 8px; align-items: center; font-size: 17px; font-weight: 700"><span style="width: 10px; height: 10px; border-radius: 50%; border: 2px solid #221B16; box-sizing: border-box; flex: none"></span>Android: true overlay</span>
+          <span style="font-size: 14px; line-height: 1.4; color: #4A3F36">Real floating bubble with live reel and scroll counts, where the OS allows it.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

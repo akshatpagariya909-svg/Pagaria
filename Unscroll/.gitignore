@@ -1,0 +1,7 @@
+Unscroll.xcodeproj/
+Generated/
+build/
+.team
+*.xcuserstate
+xcuserdata/
+DerivedData/

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Unscroll — Pick a voice</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
+<style>
+body{margin:0}
+a{color:#C2471F}a:hover{color:#8F3215}
+</style>
+</helmet>
+<div style="width: 390px; height: 844px; box-sizing: border-box; padding: 72px 20px 36px; background: #F1EADF; color: #221B16; font-family: 'Bricolage Grotesque', 'Avenir Next', system-ui, sans-serif; display: flex; flex-direction: column; gap: 22px">
+  <div style="display: flex; gap: 6px">
+    <span style="flex: 1; height: 4px; border-radius: 2px; background: #221B16"></span>
+    <span style="flex: 1; height: 4px; border-radius: 2px; background: #221B16"></span>
+    <span style="flex: 1; height: 4px; border-radius: 2px; background: #DDD2C1"></span>
+    <span style="flex: 1; height: 4px; border-radius: 2px; background: #DDD2C1"></span>
+  </div>
+  <div style="display: flex; flex-direction: column; gap: 8px">
+    <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: #6B5E52">Step 2 of 4</span>
+    <h1 style="margin: 0; font-size: 38px; line-height: 1; font-weight: 800; letter-spacing: -0.03em">How should I talk to you?</h1>
+    <p style="margin: 0; font-size: 16px; line-height: 1.4; color: #4A3F36">This is what you'll see at visit 25. Pick the one you won't mute.</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; gap: 12px">
+    <button type="button" style="text-align: left; border: 1px solid #DDD2C1; background: #FBF7F0; border-radius: 26px; padding: 18px 20px; font: inherit; color: inherit; display: flex; flex-direction: column; gap: 6px">
+      <span style="font-size: 18px; font-weight: 700">Gentle</span>
+      <span style="font-size: 15px; line-height: 1.35; color: #4A3F36">"Hey, it's been a while. Maybe a little break?"</span>
+    </button>
+    <button type="button" aria-pressed="true" style="text-align: left; border: 2px solid #C2471F; background: #FFF6EE; border-radius: 26px; padding: 18px 20px; font: inherit; color: inherit; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 10px 24px rgba(194,71,31,0.14)">
+      <span style="display: flex; justify-content: space-between; align-items: center; width: 100%"><span style="font-size: 18px; font-weight: 700">Witty friend</span><span style="width: 24px; height: 24px; border-radius: 50%; background: #C2471F; display: flex; align-items: center; justify-content: center"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#FFF8F0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l5 5 9-10"/></svg></span></span>
+      <span style="font-size: 15px; line-height: 1.35; color: #4A3F36">"Visit 25. We're basically roommates now."</span>
+    </button>
+    <button type="button" style="text-align: left; border: 1px solid #DDD2C1; background: #FBF7F0; border-radius: 26px; padding: 18px 20px; font: inherit; color: inherit; display: flex; flex-direction: column; gap: 6px">
+      <span style="font-size: 18px; font-weight: 700">Blunt</span>
+      <span style="font-size: 15px; line-height: 1.35; color: #4A3F36">"38 minutes. Put it down."</span>
+    </button>
+  </div>
+
+  <div style="background: #E4D9C7; border-radius: 22px; padding: 14px 16px; display: grid; grid-template-columns: 22px 1fr; gap: 12px; align-items: start">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#221B16" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 8v5"/><path d="M12 16.5v.01"/></svg>
+    <span style="font-size: 14px; line-height: 1.4; color: #3A3029">I get a little more honest the longer you stay. You can switch voices anytime.</span>
+  </div>
+
+  <button type="button" style="margin-top: auto; height: 56px; border: 0; border-radius: 28px; background: #221B16; color: #FBF7F0; font: inherit; font-size: 17px; font-weight: 700">Continue</button>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":390,"height":844}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>

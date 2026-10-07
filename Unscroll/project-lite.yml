@@ -1,0 +1,5 @@
+# Lite build: app + widgets only. Screen Time targets (monitor, shield
+# configuration, shield action) are left out and the SCREEN_TIME flag is off.
+# Generate with:  xcodegen --spec project-lite.yml
+include:
+  - project-core.yml

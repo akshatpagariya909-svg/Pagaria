@@ -1,0 +1,98 @@
+# Screen Time layer. Needs the Family Controls entitlement, which may require a
+# paid Apple Developer Program membership.
+targets:
+  Unscroll:
+    entitlements:
+      properties:
+        com.apple.developer.family-controls: true
+    settings:
+      base:
+        SWIFT_ACTIVE_COMPILATION_CONDITIONS: "$(inherited) SCREEN_TIME"
+    dependencies:
+      - target: UnscrollMonitor
+      - target: UnscrollShieldConfig
+      - target: UnscrollShieldAction
+
+  UnscrollMonitor:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: Monitor
+      - path: Shared
+      - path: SharedScreenTime
+    info:
+      path: Generated/UnscrollMonitor-Info.plist
+      properties:
+        CFBundleDisplayName: Unscroll Monitor
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UnscrollAppGroup: $(UNSCROLL_APP_GROUP)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.deviceactivity.monitor-extension
+          NSExtensionPrincipalClass: $(PRODUCT_MODULE_NAME).DeviceActivityMonitorExtension
+    entitlements:
+      path: Generated/UnscrollMonitor.entitlements
+      properties:
+        com.apple.developer.family-controls: true
+        com.apple.security.application-groups:
+          - $(UNSCROLL_APP_GROUP)
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(UNSCROLL_BUNDLE_ID).monitor
+        APPLICATION_EXTENSION_API_ONLY: YES
+
+  UnscrollShieldConfig:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: ShieldConfig
+      - path: Shared
+      - path: SharedScreenTime
+    info:
+      path: Generated/UnscrollShieldConfig-Info.plist
+      properties:
+        CFBundleDisplayName: Unscroll Shield
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UnscrollAppGroup: $(UNSCROLL_APP_GROUP)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.ManagedSettingsUI.shield-configuration-service
+          NSExtensionPrincipalClass: $(PRODUCT_MODULE_NAME).ShieldConfigurationExtension
+    entitlements:
+      path: Generated/UnscrollShieldConfig.entitlements
+      properties:
+        com.apple.developer.family-controls: true
+        com.apple.security.application-groups:
+          - $(UNSCROLL_APP_GROUP)
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(UNSCROLL_BUNDLE_ID).shieldconfig
+        APPLICATION_EXTENSION_API_ONLY: YES
+
+  UnscrollShieldAction:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: ShieldAction
+      - path: Shared
+      - path: SharedScreenTime
+    info:
+      path: Generated/UnscrollShieldAction-Info.plist
+      properties:
+        CFBundleDisplayName: Unscroll Shield Action
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UnscrollAppGroup: $(UNSCROLL_APP_GROUP)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.ManagedSettings.shield-action-service
+          NSExtensionPrincipalClass: $(PRODUCT_MODULE_NAME).ShieldActionExtension
+    entitlements:
+      path: Generated/UnscrollShieldAction.entitlements
+      properties:
+        com.apple.developer.family-controls: true
+        com.apple.security.application-groups:
+          - $(UNSCROLL_APP_GROUP)
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: $(UNSCROLL_BUNDLE_ID).shieldaction
+        APPLICATION_EXTENSION_API_ONLY: YES

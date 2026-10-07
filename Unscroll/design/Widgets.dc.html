@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Unscroll — Widgets</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
+<style>
+body{margin:0}
+a{color:#C2471F}a:hover{color:#8F3215}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; box-sizing: border-box; padding: 48px 56px; background: #F1EADF; color: #221B16; font-family: 'Bricolage Grotesque', 'Avenir Next', system-ui, sans-serif; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 32px">
+
+  <div style="display: flex; flex-direction: column; gap: 16px">
+    <div style="display: flex; justify-content: space-between; align-items: baseline"><h2 style="margin: 0; font-size: 32px; font-weight: 800; letter-spacing: -0.02em">Home screen</h2><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #6B5E52">default · clear glass</span></div>
+    <div style="position: relative; flex: 1; border-radius: 40px; overflow: hidden; background: #C9AE8C; padding: 36px; box-sizing: border-box">
+      <div style="position: absolute; left: -60px; top: -40px; width: 380px; height: 380px; border-radius: 50%; background: #B0532D; filter: blur(70px)"></div>
+      <div style="position: absolute; right: -80px; bottom: -60px; width: 420px; height: 420px; border-radius: 50%; background: #5E6E3C; filter: blur(80px)"></div>
+      <div style="position: relative; display: grid; grid-template-columns: 170px 170px 170px; grid-template-rows: 170px 170px 170px; gap: 28px">
+
+        <div style="border-radius: 32px; background: #FBF7F0; padding: 18px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 10px 24px rgba(50,30,10,0.18)">
+          <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: #6B5E52">Visits today</span>
+          <span style="font-size: 72px; font-weight: 800; line-height: 0.85; letter-spacing: -0.05em; color: #C2471F">25</span>
+          <span style="font-size: 13px; font-weight: 600; line-height: 1.2">Roommates at this point.</span>
+        </div>
+
+        <div style="grid-column: span 2; border-radius: 32px; background: #221B16; color: #FBF7F0; padding: 18px 20px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; box-shadow: 0 10px 24px rgba(50,30,10,0.22)">
+          <div style="display: flex; justify-content: space-between"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: #C9BBA8">Thumb odometer</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #C9BBA8">est.</span></div>
+          <div style="display: flex; align-items: baseline; gap: 6px"><span style="font-size: 54px; font-weight: 800; line-height: 0.9; letter-spacing: -0.04em">412 m</span><span style="font-size: 14px; color: #E9A184; font-weight: 600">5½ Qutub Minars</span></div>
+          <div style="position: relative; height: 10px; border-radius: 5px; background: #3A2F28">
+            <div style="width: 68%; height: 10px; border-radius: 5px; background: #E9A184"></div>
+            <span style="position: absolute; left: 30%; top: -3px; width: 2px; height: 16px; background: #FBF7F0"></span>
+            <span style="position: absolute; left: 60%; top: -3px; width: 2px; height: 16px; background: #FBF7F0"></span>
+          </div>
+          <div style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; color: #C9BBA8"><span>0</span><span>yesterday</span><span>your limit</span><span>600 m</span></div>
+        </div>
+
+        <div style="border-radius: 32px; background: rgba(255,250,242,0.22); backdrop-filter: blur(18px) saturate(1.6); -webkit-backdrop-filter: blur(18px) saturate(1.6); border: 1px solid rgba(255,255,255,0.55); box-shadow: inset 0 1px 0 rgba(255,255,255,0.7); padding: 18px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; color: #FFFBF4">
+          <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em">Walk-aways</span>
+          <span style="font-size: 72px; font-weight: 800; line-height: 0.85; letter-spacing: -0.05em">9</span>
+          <span style="font-size: 13px; font-weight: 600; line-height: 1.2">Each one counts. Literally.</span>
+        </div>
+
+        <div style="border-radius: 32px; background: #FBF7F0; padding: 18px; box-sizing: border-box; display: flex; flex-direction: column; gap: 10px; box-shadow: 0 10px 24px rgba(50,30,10,0.18)">
+          <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: #6B5E52">Doom weather</span>
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#221B16" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17h10a4 4 0 0 0 0-8 6 6 0 0 0-11.5 2A3 3 0 0 0 7 17z"/><path d="M9 20l-1 2"/><path d="M13 20l-1 2"/></svg>
+          <span style="font-size: 15px; font-weight: 700; line-height: 1.2">High risk after 10 pm. Bring a book.</span>
+        </div>
+
+        <div style="grid-column: span 2; border-radius: 32px; background: rgba(255,250,242,0.22); backdrop-filter: blur(18px) saturate(1.6); -webkit-backdrop-filter: blur(18px) saturate(1.6); border: 1px solid rgba(255,255,255,0.55); box-shadow: inset 0 1px 0 rgba(255,255,255,0.7); padding: 18px 20px; box-sizing: border-box; color: #FFFBF4; display: flex; flex-direction: column; justify-content: space-between">
+          <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em">This week · minutes per day</span>
+          <div style="display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 10px; align-items: end; height: 78px">
+            <span style="height: 60%; border-radius: 6px; background: rgba(255,251,244,0.85)"></span>
+            <span style="height: 100%; border-radius: 6px; background: #FFFBF4"></span>
+            <span style="height: 72%; border-radius: 6px; background: rgba(255,251,244,0.85)"></span>
+            <span style="height: 48%; border-radius: 6px; background: rgba(255,251,244,0.85)"></span>
+            <span style="height: 66%; border-radius: 6px; background: rgba(255,251,244,0.85)"></span>
+            <span style="height: 84%; border-radius: 6px; background: rgba(255,251,244,0.85)"></span>
+            <span style="height: 40%; border-radius: 6px; background: rgba(255,251,244,0.4); border: 1.5px dashed #FFFBF4; box-sizing: border-box"></span>
+          </div>
+          <div style="display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 10px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; text-align: center"><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span><span>S</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-direction: column; gap: 16px">
+    <div style="display: flex; justify-content: space-between; align-items: baseline"><h2 style="margin: 0; font-size: 32px; font-weight: 800; letter-spacing: -0.02em">Lock screen</h2><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #6B5E52">+ Live Activity</span></div>
+    <div style="position: relative; flex: 1; border-radius: 40px; overflow: hidden; background: #2B231D; padding: 40px 32px; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; gap: 18px; color: #FBF2E6">
+      <div style="position: absolute; left: -60px; bottom: -40px; width: 320px; height: 320px; border-radius: 50%; background: #7A3418; filter: blur(70px)"></div>
+      <div style="position: absolute; right: -60px; top: 80px; width: 260px; height: 260px; border-radius: 50%; background: #3F4A25; filter: blur(70px)"></div>
+      <span style="position: relative; font-size: 15px; font-weight: 600; display: flex; gap: 8px; align-items: center"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Unscroll · 412 m today</span>
+      <span style="position: relative; font-size: 104px; font-weight: 700; line-height: 0.9; letter-spacing: -0.04em">11:04</span>
+      <div style="position: relative; display: flex; gap: 14px; align-items: center">
+        <div style="width: 76px; height: 76px; border-radius: 50%; background: rgba(255,250,242,0.16); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); display: flex; align-items: center; justify-content: center; position: relative">
+          <svg width="68" height="68" viewBox="0 0 36 36" aria-hidden="true" style="position: absolute; transform: rotate(-90deg)"><circle cx="18" cy="18" r="15" fill="none" stroke="rgba(255,250,242,0.25)" stroke-width="3"/><circle cx="18" cy="18" r="15" fill="none" stroke="#FBF2E6" stroke-width="3" stroke-linecap="round" stroke-dasharray="64 94.2"/></svg>
+          <span style="font-size: 16px; font-weight: 800">68%</span>
+        </div>
+        <div style="width: 170px; height: 76px; border-radius: 20px; background: rgba(255,250,242,0.16); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); padding: 10px 14px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; gap: 2px">
+          <span style="font-size: 20px; font-weight: 800">Visit 25</span>
+          <span style="font-size: 12px; opacity: 0.85">1 h 48 m · 9 walk-aways</span>
+        </div>
+      </div>
+      <div style="position: relative; margin-top: auto; width: 100%; border-radius: 30px; background: rgba(251,246,238,0.7); backdrop-filter: blur(26px) saturate(1.4); -webkit-backdrop-filter: blur(26px) saturate(1.4); border: 1px solid rgba(255,255,255,0.6); color: #221B16; padding: 16px 18px; box-sizing: border-box; display: grid; grid-template-columns: 44px 1fr auto; gap: 14px; align-items: center">
+        <span style="width: 44px; height: 44px; border-radius: 14px; background: #C2471F; display: flex; align-items: center; justify-content: center"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF8F0" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M8 10h.01"/><path d="M16 10h.01"/><path d="M8 15c2 2 6 2 8 0"/></svg></span>
+        <div style="display: flex; flex-direction: column; gap: 2px">
+          <span style="font-size: 15px; font-weight: 700">Minute 23 in a reels app</span>
+          <span style="font-size: 13px; color: #4A3F36">Still fun? Honest answers only.</span>
+        </div>
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 17px; font-weight: 500">23:10</span>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>
