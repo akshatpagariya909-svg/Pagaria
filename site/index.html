@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Discover Architecture</title>
+<meta name="description" content="A wall of 100 buildings told through photographs, paintings, prints, drawings and archive photos. No search needed: just wander.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<!--
+  Analytics (free): create a site at https://www.goatcounter.com, then uncomment
+  and replace YOURCODE. No cookies, no consent banner needed.
+  <script data-goatcounter="https://YOURCODE.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+-->
+</head>
+<body>
+<header class="bar">
+  <a class="mark" href="#" id="home">Discover<br>Architecture</a>
+  <div class="bar-mid">
+    <label class="search">
+      <span class="sr">Search buildings</span>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="q" type="search" placeholder="Search a building, architect, city…" autocomplete="off">
+    </label>
+    <button type="button" class="btn ghost" id="filterBtn" aria-expanded="false" aria-controls="filters">Filter <span id="filterCount"></span></button>
+  </div>
+  <div class="bar-end">
+    <span class="count" id="count">100 buildings</span>
+  </div>
+</header>
+
+<section class="filters" id="filters" hidden>
+  <div class="filters-inner" id="filterGroups"></div>
+  <div class="filters-foot">
+    <button type="button" class="btn ghost" id="clearFilters">Clear all</button>
+  </div>
+</section>
+
+<main class="field" id="field" aria-label="Wall of buildings. Scroll or drag to move, pinch or Ctrl and scroll to zoom.">
+  <div class="world" id="world"></div>
+  <p class="empty" id="empty" hidden>Nothing matches. <button type="button" id="emptyClear">Clear the search</button></p>
+</main>
+
+<nav class="dock" aria-label="Wall controls">
+  <button type="button" id="shuffle">Shuffle</button>
+  <button type="button" class="go" id="surprise">Surprise me</button>
+  <button type="button" id="fit">See all</button>
+  <span class="sep" aria-hidden="true"></span>
+  <button type="button" id="zoomOut" aria-label="Zoom out">−</button>
+  <span class="zoom" id="zoomPct">100%</span>
+  <button type="button" id="zoomIn" aria-label="Zoom in">+</button>
+</nav>
+<p class="hint" id="hint">Scroll or drag to wander · pinch or Ctrl/⌘ + scroll to zoom · click to open</p>
+
+<div class="sheet" id="sheet" hidden>
+  <button type="button" class="veil" id="veil" aria-label="Close"></button>
+  <article class="card" role="dialog" aria-modal="true" aria-labelledby="bName" tabindex="-1" id="card">
+    <figure class="hero" id="hero"></figure>
+    <div class="info">
+      <div class="info-top">
+        <span class="kicker" id="bKicker"></span>
+        <button type="button" class="close" id="close" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></svg></button>
+      </div>
+      <h1 id="bName"></h1>
+      <p class="meta" id="bMeta"></p>
+      <div class="chips" id="bChips"></div>
+      <p class="credit" id="bCredit"></p>
+      <section id="thenWrap" hidden>
+        <h2>Through time</h2>
+        <div class="then" id="then"></div>
+      </section>
+      <section>
+        <h2>Explore elsewhere</h2>
+        <div class="links" id="links"></div>
+      </section>
+      <section>
+        <h2>Drift onward</h2>
+        <div class="rel" id="rel"></div>
+      </section>
+    </div>
+  </article>
+</div>
+
+<script src="data/buildings.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
