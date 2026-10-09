@@ -1,42 +1,40 @@
 #!/usr/bin/env python3
-"""Try each architecture site's own search for a few known buildings, to see which can be queried directly.
+"""Look closer at the search endpoints that answered: ArchDaily's JSON API, Bing RSS, Divisare and Architectuul pages.
 Writes tools/harvest/probe_sites.txt. Run on GitHub Actions (run-tool.yml)."""
-import json, sys, urllib.parse
+import json, re, sys, urllib.parse
+import xml.etree.ElementTree as ET
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fetch_images import fetch  # noqa: E402
 
 OUT = Path(__file__).resolve().parent / 'harvest' / 'probe_sites.txt'
-TESTS = ['Salk Institute', 'Villa Savoye', 'Sendai Mediatheque']
-ENDPOINTS = {
-    'wikiarquitectura (wp-json)': 'https://en.wikiarquitectura.com/wp-json/wp/v2/search?per_page=5&search={q}',
-    'dezeen (wp-json)': 'https://www.dezeen.com/wp-json/wp/v2/search?per_page=5&search={q}',
-    'archdaily (api)': 'https://www.archdaily.com/search/api/v1/us/projects?q={q}',
-    'archdaily (html)': 'https://www.archdaily.com/search/all?q={q}',
-    'divisare (html)': 'https://divisare.com/search?q={q}',
-    'architectuul (html)': 'https://architectuul.com/search?q={q}',
-    'arquitecturaviva (html)': 'https://arquitecturaviva.com/search?q={q}',
-    'domus (html)': 'https://www.domusweb.it/en/search.html?q={q}',
-    'architectural-review (wp-json)': 'https://www.architectural-review.com/wp-json/wp/v2/search?per_page=5&search={q}',
-    'bing rss': 'https://www.bing.com/search?format=rss&q={q}+site%3Aarchdaily.com',
-    'duckduckgo html': 'https://html.duckduckgo.com/html/?q={q}+site%3Aarchdaily.com',
-}
 lines = []
-for name, url in ENDPOINTS.items():
-    for q in TESTS[:2]:
-        u = url.format(q=urllib.parse.quote(q))
-        try:
-            body = fetch(u, timeout=30).decode('utf-8', 'ignore')
-            snippet = body[:600].replace('\n', ' ')
-            if body.lstrip().startswith('[') or body.lstrip().startswith('{'):
-                try:
-                    data = json.loads(body)
-                    snippet = json.dumps(data)[:600]
-                except Exception:
-                    pass
-            lines.append(f'== {name} | {q} | OK {len(body)} bytes\n{snippet}\n')
-        except Exception as e:
-            lines.append(f'== {name} | {q} | ERROR {e}\n')
-        print(lines[-1][:200], flush=True)
-OUT.parent.mkdir(parents=True, exist_ok=True)
-OUT.write_text('\n'.join(lines))
+def log(s):
+    lines.append(s); print(s[:300], flush=True)
+
+for q in ['Salk Institute', 'Sendai Mediatheque']:
+    d = json.loads(fetch('https://www.archdaily.com/search/api/v1/us/projects?q=' + urllib.parse.quote(q), timeout=60))
+    log(f'== archdaily api keys: {list(d.keys())}')
+    for k, v in d.items():
+        if isinstance(v, list) and v and isinstance(v[0], dict):
+            log(f'   list {k} ({len(v)}): keys {list(v[0].keys())[:30]}')
+            for it in v[:4]:
+                log('     ' + json.dumps({kk: it.get(kk) for kk in ('title', 'name', 'url', 'link', 'slug', 'id', 'year', 'offices')}, ensure_ascii=False)[:400])
+        elif isinstance(v, dict):
+            log(f'   dict {k}: keys {list(v.keys())[:20]}')
+            for kk, vv in v.items():
+                if isinstance(vv, list) and vv and isinstance(vv[0], dict):
+                    log(f'     list {kk} ({len(vv)}): keys {list(vv[0].keys())[:25]}')
+                    for it in vv[:3]:
+                        log('       ' + json.dumps({x: it.get(x) for x in ('title', 'name', 'url', 'link', 'slug', 'year')}, ensure_ascii=False)[:400])
+    for site in ('archdaily.com', 'dezeen.com', 'divisare.com'):
+        rss = fetch('https://www.bing.com/search?format=rss&count=10&q=' + urllib.parse.quote(f'{q} site:{site}'), timeout=30)
+        items = [(i.findtext('title'), i.findtext('link')) for i in ET.fromstring(rss).iter('item')]
+        log(f'== bing {site} | {q}: {len(items)} items')
+        for t, l in items[:5]:
+            log(f'     {t} | {l}')
+    for name, url in (('divisare', 'https://divisare.com/search?q={q}'), ('architectuul', 'https://architectuul.com/search?q={q}')):
+        page = fetch(url.format(q=urllib.parse.quote(q)), timeout=30).decode('utf-8', 'ignore')
+        hrefs = sorted(set(re.findall(r'href="(/(?:projects|architecture)/[^"#?]+)"', page)))[:12]
+        log(f'== {name} | {q}: {hrefs}')
+OUT.write_text('\n'.join(lines) + '\n')
