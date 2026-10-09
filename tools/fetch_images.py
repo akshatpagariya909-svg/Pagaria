@@ -12,7 +12,7 @@ marks as Featured or Quality images score higher; near-duplicates and logos are 
 Only public-domain, CC0, CC BY and CC BY-SA files are used. Each photo keeps its credit.
 
 Steer the picks in tools/image_choices.json:
-  {"salk-institute": {"category": "Category:Salk Institute",
+  {"salk-institute": {"category": "Category:Salk Institute", "more": ["Category:Another folder"],
                       "add": ["File:Some good photo.jpg"],
                       "skip": ["File:A bad pick.jpg"]}}
 
@@ -129,15 +129,15 @@ def commons_category(b):
     return None, lead
 
 
-def probe(b):
+def probe(b, extra=()):
     """Prints candidate categories with their file counts, for choosing overrides by hand."""
     cat, lead = commons_category(b)
     seen, out = [], []
-    for q in (b['name'], f"{b['name']} {b['by'].split()[-1]}", f"{b['name']} {b['place'].split(',')[0]}"):
+    for q in (b['name'], f"{b['name']} {b['by'].split()[-1]}", f"{b['name']} {b['place'].split(',')[0]}", *extra):
         for h in api(CM, action='query', list='search', srnamespace=14, srlimit=6, srsearch=q).get('query', {}).get('search', []):
             if h['title'] not in seen:
                 seen.append(h['title'])
-    for t in ([cat] if cat else []) + [t for t in seen if t != cat][:10]:
+    for t in ([cat] if cat else []) + [t for t in seen if t != cat][:10 + 4 * len(extra)]:
         ci = api(CM, action='query', prop='categoryinfo', titles=t)['query']['pages'][0].get('categoryinfo', {})
         out.append(f"    {'*' if t == cat else ' '} {t}  files={ci.get('files', 0)} subcats={ci.get('subcats', 0)}")
     return f"{b['id']}  lead={lead}\n" + '\n'.join(out)
@@ -291,7 +291,7 @@ CAND_N, TW, TH = 24, 250, 188
 def candidates(b, ch):
     auto, lead = commons_category(b)
     cat = ch.get('category') or auto
-    files = (candidate_files(cat) if cat else []) + [(t, '') for t in ch.get('add', []) + ([lead] if lead else [])]
+    files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in ch.get('add', []) + ([lead] if lead else [])]
     pool = eligible(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(ch.get('add', []) + ([lead] if lead else [])))
     return cat, pool[:CAND_N]
 
@@ -385,7 +385,7 @@ def main():
         for b in items:
             if not only or b['id'] in only:
                 try:
-                    report.append(probe(b))
+                    report.append(probe(b, choices.get(b['id'], {}).get('q', [])))
                 except Exception as e:
                     report.append(f"{b['id']}  error: {e}")
                 print(report[-1])
@@ -420,7 +420,7 @@ def main():
             cat = ch.get('category') or auto
             print('    category:', cat, '| lead:', lead)
             add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
-            files = (candidate_files(cat) if cat else []) + [(t, '') for t in add]
+            files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
             if ch.get('pick'):
                 picks = picked(b, ch)
             else:

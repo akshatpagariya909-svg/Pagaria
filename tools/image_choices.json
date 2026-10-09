@@ -1,1 +1,184 @@
-{}
+{
+ "unite-dhabitation": {
+  "category": "Category:Cité radieuse, Marseille",
+  "add": [
+   "File:Unité_d'habitation_Marseille,_France.jpg"
+  ]
+ },
+ "barcelona-pavilion": {
+  "category": "Category:Barcelona-Pavillon"
+ },
+ "bauhaus-dessau": {
+  "category": "Category:Bauhaus Dessau",
+  "more": [
+   "Category:Werkstattflügel, Bauhaus Dessau",
+   "Category:Ateliergebäude, Bauhaus Dessau",
+   "Category:Festsaal, Bauhaus Dessau"
+  ]
+ },
+ "villa-mairea": {
+  "category": "Category:Villa Mairea",
+  "more": [
+   "Category:Interior of Villa Mairea"
+  ]
+ },
+ "casa-luis-barragan": {
+  "category": "Category:Luis Barragán House and Studio"
+ },
+ "cathedral-of-brasilia": {
+  "category": "Category:Catedral Metropolitana de Brasília",
+  "more": [
+   "Category:Catedral de Brasília (exterior)",
+   "Category:Interior of the Catedral de Brasília"
+  ]
+ },
+ "hiroshima-peace-memorial-museum": {
+  "category": "Category:Hiroshima Peace Memorial Museum"
+ },
+ "national-assembly-of-bangladesh": {
+  "category": "Category:National Parliament Building of Bangladesh",
+  "more": [
+   "Category:National Assembly of Bangladesh interior"
+  ]
+ },
+ "yale-art-and-architecture-building": {
+  "category": "Category:Yale Art and Architecture Building"
+ },
+ "new-gourna-village": {
+  "category": "Category:New Gourna"
+ },
+ "gando-primary-school": {
+  "category": "Category:Primary School, Gando"
+ },
+ "leca-swimming-pools": {
+  "category": "Category:Piscinas de Marés de Leça da Palmeira"
+ },
+ "therme-vals": {
+  "category": "Category:Therme Vals"
+ },
+ "bruder-klaus-field-chapel": {
+  "category": "Category:Feldkapelle (Wachendorf)"
+ },
+ "ningbo-history-museum": {
+  "category": "Category:Ningbo Museum"
+ },
+ "row-house-in-sumiyoshi": {
+  "category": "Category:Azuma House"
+ },
+ "sendai-mediatheque": {
+  "category": "Category:Sendai Mediatheque"
+ },
+ "21st-century-museum-of-contemporary-art-kanazawa": {
+  "category": "Category:21st Century Museum of Contemporary Art, Kanazawa",
+  "more": [
+   "Category:Interior of the 21st Century Museum of Contemporary Art, Kanazawa"
+  ]
+ },
+ "beijing-national-stadium": {
+  "category": "Category:Beijing National Stadium",
+  "more": [
+   "Category:Exterior of Beijing National Stadium",
+   "Category:Interior of Beijing National Stadium"
+  ]
+ },
+ "louvre-abu-dhabi": {
+  "category": "Category:Louvre Abu Dhabi"
+ },
+ "sancaklar-mosque": {
+  "category": "Category:Sancaklar Camii",
+  "more": [
+   "Category:Minaret of the Sancaklar Mosque"
+  ]
+ },
+ "golconde": {
+  "q": [
+   "Golconde Pondicherry",
+   "Golconde dormitory",
+   "Golconde Puducherry Sri Aurobindo Ashram"
+  ]
+ },
+ "gandhi-smarak-sangrahalaya": {
+  "q": [
+   "Gandhi Smarak Sangrahalaya Ahmedabad",
+   "Sabarmati Ashram museum",
+   "Sabarmati Ashram"
+  ]
+ },
+ "sangath": {
+  "q": [
+   "Sangath",
+   "Sangath Ahmedabad",
+   "Doshi studio Ahmedabad"
+  ]
+ },
+ "aranya-low-cost-housing": {
+  "q": [
+   "Aranya Indore",
+   "Aranya housing",
+   "Aranya Community Housing"
+  ]
+ },
+ "kanchanjunga-apartments": {
+  "q": [
+   "Kanchanjunga Apartments",
+   "Kanchanjunga Mumbai",
+   "Kanchenjunga Apartments Cumballa Hill"
+  ]
+ },
+ "centre-for-development-studies": {
+  "q": [
+   "Centre for Development Studies Thiruvananthapuram",
+   "Laurie Baker",
+   "Centre for Development Studies Kerala"
+  ]
+ },
+ "heritance-kandalama": {
+  "q": [
+   "Kandalama",
+   "Kandalama Hotel",
+   "Geoffrey Bawa hotel"
+  ]
+ },
+ "kait-workshop": {
+  "q": [
+   "KAIT Workshop",
+   "Kanagawa Institute of Technology",
+   "KAIT Kobo"
+  ]
+ },
+ "icd-itke-research-pavilion-2012": {
+  "q": [
+   "ICD ITKE Research Pavilion",
+   "ICD/ITKE Research Pavilion 2012",
+   "Research Pavilion Stuttgart"
+  ]
+ },
+ "stacking-green": {
+  "q": [
+   "Stacking Green",
+   "Vo Trong Nghia",
+   "Vo Trong Nghia Architects"
+  ]
+ },
+ "quinta-monroy": {
+  "q": [
+   "Quinta Monroy",
+   "Elemental Iquique",
+   "Quinta Monroy Iquique"
+  ]
+ },
+ "moriyama-house": {
+  "q": [
+   "Moriyama House",
+   "Ryue Nishizawa",
+   "Moriyama House Ota Tokyo"
+  ]
+ },
+ "house-na": {
+  "q": [
+   "House NA Sou Fujimoto",
+   "Sou Fujimoto",
+   "House NA Tokyo"
+  ]
+ }
+}
