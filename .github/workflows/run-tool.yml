@@ -1,0 +1,38 @@
+# Runs one script from tools/ on GitHub's servers (open internet) and commits what it writes.
+# Trigger: change tools/run_request.txt on this branch. Its first line is the command, for example
+#   python -u tools/harvest.py
+name: Run tool
+on:
+  push:
+    branches: ['claude/awesome-clarke-vqongx']
+    paths: ['tools/run_request.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-images  # one writer at a time, shared with the image and link jobs
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Run
+        run: |
+          CMD=$(head -n1 tools/run_request.txt)
+          case "$CMD" in "python -u tools/"*.py*) ;; *) echo "Refusing: $CMD"; exit 1;; esac
+          $CMD
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A site tools
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Tool results: $(head -n1 tools/run_request.txt | cut -c1-60)"
+          git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+          git push
