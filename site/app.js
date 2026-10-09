@@ -99,19 +99,29 @@
   }
 
   // Deal tiles into the shortest column, so every column ends at about the same height.
+  // Tiles are added a batch at a time as the reader nears the bottom, so 1,000 buildings stay quick.
+  const BATCH = 60;
+  const feedState = { list: [], next: 0, heights: [], colEls: [] };
+  function addBatch() {
+    const f = feedState, end = Math.min(f.list.length, f.next + BATCH);
+    for (; f.next < end; f.next++) {
+      const b = f.list[f.next];
+      const c = f.heights.indexOf(Math.min(...f.heights));
+      f.colEls[c].appendChild(tileEl(b));
+      f.heights[c] += ratioOf(b) + 0.06;
+    }
+    $('more').hidden = f.next >= f.list.length;
+  }
   function render(toTop) {
     const list = shuffled(visible(), rng(state.seed));
     const C = columnCount();
     state.ncols = C;
-    const heights = new Array(C).fill(0);
-    const colEls = Array.from({ length: C }, () => { const d = document.createElement('div'); d.className = 'col'; return d; });
-    list.forEach(b => {
-      const c = heights.indexOf(Math.min(...heights));
-      colEls[c].appendChild(tileEl(b));
-      heights[c] += ratioOf(b) + 0.06;
-    });
+    feedState.list = list; feedState.next = 0;
+    feedState.heights = new Array(C).fill(0);
+    feedState.colEls = Array.from({ length: C }, () => { const d = document.createElement('div'); d.className = 'col'; return d; });
     cols.style.setProperty('--n', C);
-    cols.replaceChildren(...colEls);
+    cols.replaceChildren(...feedState.colEls);
+    addBatch();
     $('empty').hidden = list.length > 0;
     $('count').textContent = list.length === TOTAL ? `${TOTAL} buildings` : `${list.length} of ${TOTAL}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0);
@@ -119,6 +129,7 @@
     renderIdeas();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
   }
+  new IntersectionObserver(entries => { if (entries.some(en => en.isIntersecting)) addBatch(); }, { rootMargin: '1200px 0px' }).observe($('more'));
   let resizeTimer;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);

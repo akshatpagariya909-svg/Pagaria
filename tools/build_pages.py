@@ -33,6 +33,11 @@ e = lambda s: html.escape(str(s or ''), quote=True)
 q = lambda s: urllib.parse.quote(str(s))
 
 
+def at(base, path):
+    """Our own files are relative to the site; photos served by Wikimedia are full URLs."""
+    return path if path.startswith('http') else base + path
+
+
 def load():
     text = (SITE / 'data' / 'buildings.js').read_text()
     items = json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
@@ -135,27 +140,27 @@ def building_page(b, items):
     url = f"{BASE}buildings/{b['id']}/"
     desc = summary(b)
     ims = b.get('images') or []
-    og = BASE + ims[0]['src'] if ims else BASE + 'og.jpg'
+    og = at(BASE, ims[0]['src']) if ims else BASE + 'og.jpg'
     ld = {'@context': 'https://schema.org', '@type': 'LandmarksOrHistoricalBuildings', 'name': b['name'], 'description': desc, 'url': url,
           'address': place_full(b),
-          'image': [{'@type': 'ImageObject', 'contentUrl': BASE + im['src'], 'creditText': im.get('credit') or '', 'license': im.get('license') or '',
+          'image': [{'@type': 'ImageObject', 'contentUrl': at(BASE, im['src']), 'creditText': im.get('credit') or '', 'license': im.get('license') or '',
                      'acquireLicensePage': im.get('source') or ''} for im in ims]}
     head = HEAD.format(title=e(f"{b['name']}, {b['by']} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
                        ogtitle=e(f"{b['name']} — {b['by']}, {b['year']}"), image=e(og), up=up, wallhash='#' + b['id'],
                        extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>')
     if ims:
         figs = ''.join(
-            f'<figure id="photo-{k + 1}"><img src="{up}{e(im["src"])}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
+            f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
             f'<figcaption><b>{k + 1}/{len(ims)} · {e(im["caption"])}</b><span>{("Photo: " + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
             f'{(" · <a href=" + chr(34) + e(im["source"]) + chr(34) + ">source</a>") if im.get("source") else ""}</span></figcaption></figure>'
             for k, im in enumerate(ims))
-        thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{up}{e(im["thumb"])}" alt="Photo {k + 1}: {e(im["caption"])}" loading="lazy"></a>' for k, im in enumerate(ims))
+        thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{e(at(up, im["thumb"]))}" alt="Photo {k + 1}: {e(im["caption"])}" loading="lazy"></a>' for k, im in enumerate(ims))
         gallery = f'<div class="gallery"><div class="slides">{figs}</div><div class="thumbs">{thumbs}</div></div>' + GALLERY_JS
     else:
         gallery = '<div class="gallery none"><p>No free photos yet. Use the links to see photos and drawings elsewhere.</p></div>'
     facts = [('Architect', b['by']), ('Place', place_full(b)), ('Year', b['year']), ('Typology', b['type']), ('Movement', b['movement']), ('Region', b['region'])]
     rel_html = ''.join(
-        f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{up}{e(x["images"][0]["thumb"])}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
+        f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>' for x in related(b, items))
     body = f"""<main class="page">
   {gallery}
@@ -182,7 +187,7 @@ def index_page(items):
     head = HEAD.format(title=f'All 100 buildings · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
                        ogtitle='All 100 buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='')
     rows = ''.join(
-        f'<a href="{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{up}{e(x["images"][0]["thumb"])}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
+        f'<a href="{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>'
         for x in sorted(items, key=lambda x: x['name'].lower()))
     body = f'<main class="index"><h1>All 100 buildings</h1><p class="lede">{e(desc)}</p><div class="grid">{rows}</div></main>\n'
