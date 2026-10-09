@@ -84,8 +84,8 @@ def distinctive(b):
 
 
 def fits(b, title):
-    d = distinctive(b)
-    return bool(d) and bool(d & tokens(title))
+    d = distinctive(b) or tokens(b['name']) - GENERIC
+    return bool(d & tokens(title))
 
 
 def wiki_article(b):
@@ -93,6 +93,7 @@ def wiki_article(b):
     q = api(WP, action='query', prop='pageprops|pageimages', piprop='name', titles=b['name'], redirects=1)
     page = q['query']['pages'][0]
     if 'missing' not in page and 'disambiguation' not in page.get('pageprops', {}):
+        page['exact'] = True  # the article carries the building's own name, so trust its category
         return page
     q = api(WP, action='query', list='search', srsearch=f"{b['name']} {b['by'].split()[-1]}", srlimit=5)
     for hit in q.get('query', {}).get('search', []):
@@ -104,9 +105,9 @@ def wiki_article(b):
 
 def commons_category(b):
     """Returns (category, lead file). The category must name the building, not its city or architect."""
-    lead, cat = None, None
+    lead, cat, page = None, None, {}
     try:
-        page = wiki_article(b)
+        page = wiki_article(b) or {}
         if page:
             lead = 'File:' + page['pageimage'] if page.get('pageimage') else None
             qid = page.get('pageprops', {}).get('wikibase_item')
@@ -117,7 +118,7 @@ def commons_category(b):
                     cat = 'Category:' + claims[0]['mainsnak']['datavalue']['value']
     except Exception as e:  # Wikidata may be unreachable; fall back to a Commons search
         print('    wikipedia/wikidata lookup failed:', e)
-    if cat and fits(b, cat):
+    if cat and (page.get('exact') or fits(b, cat)):
         return cat, lead
     if cat:
         print('    rejected category', cat)
@@ -169,10 +170,24 @@ def candidate_files(category):
     return uniq[:450]
 
 
+def batches(titles, n=50, chars=4000):
+    """Groups of up to n titles whose encoded length stays well under URL limits."""
+    group, size = [], 0
+    for t in titles:
+        cost = len(urllib.parse.quote(t)) + 3
+        if group and (len(group) == n or size + cost > chars):
+            yield group
+            group, size = [], 0
+        group.append(t)
+        size += cost
+    if group:
+        yield group
+
+
 def infos(titles):
     out = {}
-    for k in range(0, len(titles), 50):
-        q = api(CM, action='query', titles='|'.join(titles[k:k + 50]), prop='imageinfo', iiprop='url|size|mime|extmetadata', iiurlwidth=1600)
+    for group in batches(titles):
+        q = api(CM, action='query', titles='|'.join(group), prop='imageinfo', iiprop='url|size|mime|extmetadata', iiurlwidth=1600)
         for p in q.get('query', {}).get('pages', []):
             if 'imageinfo' in p:
                 out[p['title']] = p['imageinfo'][0]
@@ -313,11 +328,11 @@ def tile(p, k):
     return im
 
 
-def write_sheets(rows):
+def write_sheets(rows, prefix='sheet'):
     """Two buildings per sheet, 6 x 4 numbered tiles each."""
     from PIL import Image, ImageDraw
     CAND.mkdir(parents=True, exist_ok=True)
-    for f in CAND.glob('sheet-*.jpg'):
+    for f in CAND.glob(prefix + '-*.jpg'):
         f.unlink()
     for s in range(0, len(rows), 2):
         part = rows[s:s + 2]
@@ -328,7 +343,7 @@ def write_sheets(rows):
             d.text((6, y + 8), f"{b['n']:03d} {b['name']} | {b['by']} | {cat}", fill=(0, 0, 0))
             for k, im in enumerate(tiles):
                 sheet.paste(im, ((k % 6) * TW, y + 30 + (k // 6) * TH))
-        sheet.save(CAND / f"sheet-{part[0][0]['n']:03d}.jpg", quality=78)
+        sheet.save(CAND / f"{prefix}-{part[0][0]['n']:03d}.jpg", quality=78)
 
 
 # ---------- saving ----------
@@ -405,8 +420,11 @@ def main():
             print(f'    {cat}: {len(pool)} candidates')
             manifest[b['id']] = [[p['title'], p['kind']] for p in pool]
             rows.append((b, cat, [tile(p, k) for k, p in enumerate(pool)]))
-        write_sheets(rows)
-        (CAND / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + '\n')
+        write_sheets(rows, 'redo' if only else 'sheet')  # a partial run keeps the earlier sheets
+        mf = CAND / 'manifest.json'
+        if only and mf.exists():
+            manifest = {**json.loads(mf.read_text()), **manifest}
+        mf.write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + '\n')
         return
     for b in items:
         if only and b['id'] not in only:

@@ -1,2 +1,2 @@
---candidates
-Render numbered candidate sheets for all 100 buildings, for choosing photos by hand.
+--candidates --only eames-house,iim-ahmedabad,national-assembly-of-bangladesh,fau-usp-building,masp,kanchanjunga-apartments,mill-owners-association-building,church-of-the-light,villa-savoye
+Redo candidate sheets for buildings that failed.
