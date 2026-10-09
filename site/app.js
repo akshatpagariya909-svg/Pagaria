@@ -266,6 +266,19 @@
     $('gPrev').hidden = $('gNext').hidden = ims.length < 2;
   }
 
+  // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
+  const CORE = [['Projects & drawings', 'ArchDaily', 'archdaily.com'], ['Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'], ['News & features', 'Dezeen', 'dezeen.com']];
+  function linksFor(b) {
+    const name = b.name, city = b.place.split(',')[0], found = b.links || [];
+    const lucky = (domain) => 'https://duckduckgo.com/?q=' + q('\\ site:' + domain + ' ' + name + ' ' + b.by);
+    const out = found.map((l) => [l.kind, l.site, l.url, true]);
+    for (const [k, n, domain] of CORE) if (!found.some((l) => l.site === n)) out.push([k, n, lucky(domain), false]);
+    out.push(['Read', 'Wikipedia', b.wiki || 'https://en.wikipedia.org/w/index.php?search=' + q(name + ' ' + city), !!b.wiki]);
+    out.push(['Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(name + ' ' + b.by + ' architecture'), true]);
+    out.push(['More photos', 'Wikimedia Commons', b.commons ? 'https://commons.wikimedia.org/wiki/' + q(b.commons.replace(/ /g, '_')) : 'https://commons.wikimedia.org/w/index.php?search=' + q(name), true]);
+    return out;
+  }
+
   function openBuilding(id, surprise, fromEl) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
@@ -286,15 +299,8 @@
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
 
-    const name = b.name, city = b.place.split(',')[0];
-    $('links').innerHTML = [
-      ['Plans & sections', 'WikiArquitectura', 'https://en.wikiarquitectura.com/?s=' + q(name)],
-      ['Projects & drawings', 'ArchDaily', 'https://www.archdaily.com/search/all?q=' + q(name)],
-      ['Read', 'Wikipedia', 'https://en.wikipedia.org/w/index.php?search=' + q(name + ' ' + city)],
-      ['News & features', 'Dezeen', 'https://www.dezeen.com/?s=' + q(name)],
-      ['Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(name + ' ' + b.by + ' architecture')],
-      ['More photos', 'Wikimedia Commons', b.commons ? 'https://commons.wikimedia.org/wiki/' + q(b.commons.replace(/ /g, '_')) : 'https://commons.wikimedia.org/w/index.php?search=' + q(name)]
-    ].map(([k, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
+    $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
+      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
 
     $('rel').innerHTML = related(b).map(({ x, why }) => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(why)}</small></button>`).join('');
 

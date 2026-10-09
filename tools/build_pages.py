@@ -61,16 +61,21 @@ def related(b, items, n=6):
     return sorted((x for x in items if x['id'] != b['id']), key=score, reverse=True)[:n]
 
 
+CORE = [('Projects & drawings', 'ArchDaily', 'archdaily.com'), ('Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'),
+        ('News & features', 'Dezeen', 'dezeen.com')]
+
+
 def links(b):
-    name, city = b['name'], b['place'].split(',')[0]
+    """(kind, site, url, direct): verified pages from tools/find_links.py, then the core sites' top search result."""
+    name, city, found = b['name'], b['place'].split(',')[0], b.get('links') or []
+    out = [(l['kind'], l['site'], l['url'], True) for l in found]
+    out += [(k, n, 'https://duckduckgo.com/?q=' + q(f"\\ site:{d} {name} {b['by']}"), False)
+            for k, n, d in CORE if not any(l['site'] == n for l in found)]
     commons = 'https://commons.wikimedia.org/wiki/' + q(b['commons'].replace(' ', '_')) if b.get('commons') else 'https://commons.wikimedia.org/w/index.php?search=' + q(name)
-    return [
-        ('Plans & sections', 'WikiArquitectura', 'https://en.wikiarquitectura.com/?s=' + q(name)),
-        ('Projects & drawings', 'ArchDaily', 'https://www.archdaily.com/search/all?q=' + q(name)),
-        ('Read', 'Wikipedia', 'https://en.wikipedia.org/w/index.php?search=' + q(f'{name} {city}')),
-        ('News & features', 'Dezeen', 'https://www.dezeen.com/?s=' + q(name)),
-        ('Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(f"{name} {b['by']} architecture")),
-        ('More photos', 'Wikimedia Commons', commons),
+    return out + [
+        ('Read', 'Wikipedia', b.get('wiki') or 'https://en.wikipedia.org/w/index.php?search=' + q(f'{name} {city}'), bool(b.get('wiki'))),
+        ('Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(f"{name} {b['by']} architecture"), True),
+        ('More photos', 'Wikimedia Commons', commons, True),
     ]
 
 
@@ -161,7 +166,7 @@ def building_page(b, items):
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
   </article>
 </main>
-<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u in links(b))}</div></section>
+<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u, d in links(b))}</div></section>
 <section class="block"><h2>Drift onward</h2><div class="rel">{rel_html}</div></section>
 """
     return head + body + FOOT.format(up=up)

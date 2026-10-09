@@ -56,6 +56,7 @@ img { max-width: 100%; display: block; }
 .links { display: flex; flex-wrap: wrap; gap: 8px; }
 .links a { text-decoration: none; color: var(--ink); background: #fff; border: 1px solid var(--hair); padding: 11px 14px; font-size: 15px; font-weight: 700; }
 .links a:hover { border-color: var(--ink); }
+.links a.guess { border-style: dashed; }
 .links a span { display: block; font: 400 10px var(--mono); letter-spacing: 0.06em; color: var(--graphite); margin-bottom: 2px; }
 .rel, .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }
 .rel a, .grid a { text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 6px; font-size: 14px; line-height: 1.25; }

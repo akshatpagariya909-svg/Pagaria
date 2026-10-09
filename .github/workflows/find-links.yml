@@ -1,0 +1,36 @@
+# Finds each building's own page on architecture websites and commits the links back.
+# Runs when tools/links_request.txt changes on this branch, or by hand from the Actions tab.
+name: Find links
+on:
+  push:
+    branches: ['claude/awesome-clarke-vqongx']
+    paths: ['tools/links_request.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-images  # shares the queue with the image fetcher: both write site/data/buildings.js
+  cancel-in-progress: false
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Find links
+        # A first line like "--only id1,id2" in tools/links_request.txt limits the run to those buildings.
+        run: |
+          ARGS=$(head -n1 tools/links_request.txt | grep '^--' || true)
+          python -u tools/find_links.py $ARGS
+      - name: Commit links
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A site tools
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Update building links"
+          git pull --rebase
+          git push

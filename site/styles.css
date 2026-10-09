@@ -160,6 +160,7 @@ a:hover { color: var(--signal-ink); }
 .links { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 6px; }
 .links a { text-decoration: none; color: var(--ink); background: #fff; border: 1px solid var(--hair); padding: 9px 11px; font-size: 14px; font-weight: 700; }
 .links a:hover { border-color: var(--ink); }
+.links a.guess { border-style: dashed; }
 .links a span { display: block; font: 400 10px var(--mono); letter-spacing: 0.04em; color: var(--graphite); margin-bottom: 2px; }
 .rel { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
 .rel button { all: unset; cursor: pointer; display: flex; flex-direction: column; gap: 5px; font-size: 12px; font-weight: 700; line-height: 1.2; }
