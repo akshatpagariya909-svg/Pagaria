@@ -91,94 +91,58 @@
   ]
  },
  "golconde": {
-  "q": [
-   "Golconde Pondicherry",
-   "Golconde dormitory",
-   "Golconde Puducherry Sri Aurobindo Ashram"
-  ]
+  "category": "Category:Antonin Raymond"
  },
  "gandhi-smarak-sangrahalaya": {
-  "q": [
-   "Gandhi Smarak Sangrahalaya Ahmedabad",
-   "Sabarmati Ashram museum",
-   "Sabarmati Ashram"
-  ]
+  "category": "Category:Sabarmati Ashram"
  },
  "sangath": {
-  "q": [
-   "Sangath",
-   "Sangath Ahmedabad",
-   "Doshi studio Ahmedabad"
-  ]
+  "category": "Category:Balkrishna Doshi"
  },
  "aranya-low-cost-housing": {
-  "q": [
-   "Aranya Indore",
-   "Aranya housing",
-   "Aranya Community Housing"
-  ]
+  "category": "Category:Balkrishna Doshi"
  },
  "kanchanjunga-apartments": {
-  "q": [
-   "Kanchanjunga Apartments",
-   "Kanchanjunga Mumbai",
-   "Kanchenjunga Apartments Cumballa Hill"
-  ]
+  "category": "Category:Charles Correa"
  },
  "centre-for-development-studies": {
-  "q": [
-   "Centre for Development Studies Thiruvananthapuram",
-   "Laurie Baker",
-   "Centre for Development Studies Kerala"
+  "category": "Category:Laurie Baker",
+  "more": [
+   "Category:Laurie Scott Baker",
+   "Category:Laurie Baker Workshop"
   ]
  },
  "heritance-kandalama": {
-  "q": [
-   "Kandalama",
-   "Kandalama Hotel",
-   "Geoffrey Bawa hotel"
-  ]
+  "category": "Category:Geoffrey Bawa"
  },
  "kait-workshop": {
-  "q": [
-   "KAIT Workshop",
-   "Kanagawa Institute of Technology",
-   "KAIT Kobo"
+  "category": "Category:Kanagawa Institute of Technology",
+  "more": [
+   "Category:Junya Ishigami"
   ]
  },
  "icd-itke-research-pavilion-2012": {
-  "q": [
-   "ICD ITKE Research Pavilion",
-   "ICD/ITKE Research Pavilion 2012",
-   "Research Pavilion Stuttgart"
+  "category": "Category:ICD/ITKE Research Pavilion",
+  "more": [
+   "Category:Achim Menges"
   ]
  },
  "stacking-green": {
-  "q": [
-   "Stacking Green",
-   "Vo Trong Nghia",
-   "Vo Trong Nghia Architects"
+  "category": "Category:Vo Trong Nghia Architects",
+  "more": [
+   "Category:Võ Trọng Nghĩa"
   ]
  },
  "quinta-monroy": {
-  "q": [
-   "Quinta Monroy",
-   "Elemental Iquique",
-   "Quinta Monroy Iquique"
-  ]
+  "category": "Category:Alejandro Aravena"
  },
  "moriyama-house": {
-  "q": [
-   "Moriyama House",
-   "Ryue Nishizawa",
-   "Moriyama House Ota Tokyo"
+  "category": "Category:Ryue Nishizawa",
+  "more": [
+   "Category:SANAA"
   ]
  },
  "house-na": {
-  "q": [
-   "House NA Sou Fujimoto",
-   "Sou Fujimoto",
-   "House NA Tokyo"
-  ]
+  "category": "Category:Sou Fujimoto"
  }
 }

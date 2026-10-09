@@ -1,2 +1,2 @@
---probe --only golconde,gandhi-smarak-sangrahalaya,sangath,aranya-low-cost-housing,kanchanjunga-apartments,centre-for-development-studies,heritance-kandalama,kait-workshop,icd-itke-research-pavilion-2012,stacking-green,quinta-monroy,moriyama-house,house-na
-Second probe: buildings with no Commons category found yet.
+--candidates
+Render numbered candidate sheets for all 100 buildings, for choosing photos by hand.
