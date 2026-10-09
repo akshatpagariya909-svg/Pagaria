@@ -1,2 +1,2 @@
-python -u tools/probe_sites.py
-Probe 2: result structure.
+python -u tools/resolve_list.py
+Resolve the 410 hand-picked additions to Wikidata items.
