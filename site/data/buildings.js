@@ -15,11 +15,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/salk-institute.jpg",
+  "credit": "Codera23",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Salk Institute for Biological Studies"
+  "wiki": "Salk Institute for Biological Studies",
+  "thumb": "images/thumbs/salk-institute.jpg",
+  "w": 4032,
+  "h": 3024,
+  "source": "https://commons.wikimedia.org/wiki/File:Salk_Institute_2.jpg",
+  "file": "File:Salk Institute 2.jpg"
  },
  {
   "id": "national-assembly-of-bangladesh",
