@@ -1,383 +1,687 @@
 001 Villa Savoye
+    Official website: https://www.villa-savoye.fr/
+    Map: https://www.openstreetmap.org/?mlat=48.92444&mlon=2.02833#map=17/48.92444/2.02833
     Structurae: https://structurae.net/structures/20004719
     archINFORM: https://www.archinform.net/projekte/1960.htm
+    ArchDaily: https://www.archdaily.com/84524/ad-classics-villa-savoye-le-corbusier
+    Divisare: https://divisare.com/projects/423660-le-corbusier-mary-gaudin-villa-savoye
     wikidata ids: freebase id=/m/07zp_; mérimée id=IA78000395; geonames id=8394037; viaf cluster id=121149294304180521579; structurae structure id=20004719; pss-archi id=FR-78498-3472; quora topic id=Villa-Savoye; encyclopædia universalis id=le-corbusier-villa-savoye; cultural objects names authority id=700008660; encyclopædia britannica online id=place/Villa-Savoye; archinform project id=1960; world heritage site id=1321-006; idref id=083804986; museum of modern art work id=82339; great norwegian encyclopedia id=Villa_Savoye; ignrando' id=253954; encyclopedia of china (second edition) id=227359; wolfram language entity code=Entity["Building", "VillaSavoye::y3872"]; openstreetmap relation id=13244093; encyclopedia of china (third edition) old id (2021)=316709; gnd id=4541621-7; smarthistory id=le-corbusier-villa-savoye; kulturenvanteri monument id=327591; lex id=Villa_Savoye; encyclopedia of china (third edition) id (2026)=2tVooj
 
 002 Unité d'Habitation
+    Map: https://www.openstreetmap.org/?mlat=43.26130&mlon=5.39630#map=17/43.26130/5.39630
+    ArchDaily: https://www.archdaily.com/85971/ad-classics-unite-d-habitation-le-corbusier
+    Divisare: https://divisare.com/projects/198381-le-corbusier-cemal-emden-unite-d-habitation-marseille
     wikidata ids: babelnet id=03325485n; archinform keyword id=2570
 
 003 Notre-Dame du Haut
+    Official website: http://www.collinenotredameduhaut.com
+    Map: https://www.openstreetmap.org/?mlat=47.70451&mlon=6.62057#map=17/47.70451/6.62057
     archINFORM: https://www.archinform.net/projekte/1946.htm
     Structurae: https://structurae.net/structures/20011386
+    ArchDaily: https://www.archdaily.com/973079/notre-dame-le-borgne-rizk-architecture
+    WikiArquitectura: https://en.wikiarquitectura.com/building/chapel-of-notre-dame-du-haut/
+    Divisare: https://divisare.com/projects/197373-le-corbusier-cemal-emden-chapelle-notre-dame-du-haut
     wikidata ids: freebase id=/m/058y4n; mérimée id=PA00102263; viaf cluster id=167423284; pss-archi id=FR-70451-7265; getty thesaurus of geographic names id=1100086; world heritage site id=1321-012; observatoire du patrimoine religieux id=143055; clochers de france id=70/accueil_70451; babelnet id=00757133n; archinform project id=1946; encyclopædia britannica online id=place/Church-of-Notre-Dame-du-Haut; library of congress authorities id=n88670726; gcatholic church id=6046; fondation du patrimoine id=chapelle-notre-dame-du-haut-de-ronchamp; j9u entity id=987007603409705171; encyclopedia of china (third edition) old id (2021)=316711; nl cr aut id=ko20201076516; great norwegian encyclopedia id=Notre-Dame-du-Haut; openstreetmap way id=34915920; encyclopedia of china (second edition) id=215727; wolfram language entity code=Entity["Building", "NotreDameDuHaut::v5kj5"]; inventory of french sanctuaries id=622; cantic id=981058614983706706; gnd id=4234305-7; bibsys id=90087030; isni=0000000121050128; canadiana name authority id=ncf11137760; fast id=641819; larousse id=divers/wd/181293; worldcat entities id=E39QQPVp7TGTcrQdpRwDqFyYJt; kulturenvanteri monument id=373010; ‎yale lux id=group/f415462e-1f10-4492-b953-461debc1a0c4; lex id=Notre-Dame_du_Haut; encyclopedia of china (third edition) id (2026)=2frfQG; structurae structure id=20011386; musicbrainz place id=5b5b4638-f974-4469-b11b-7bdb480c5f22
 
 004 Sainte-Marie de La Tourette
+    Official website: http://www.couventdelatourette.fr
+    Map: https://www.openstreetmap.org/?mlat=45.81944&mlon=4.62250#map=17/45.81944/4.62250
     archINFORM: https://www.archinform.net/projekte/1945.htm
     Structurae: https://structurae.net/structures/20013314
+    Divisare: https://divisare.com/projects/197436-le-corbusier-cemal-emden-couvent-sainte-marie-de-la-tourette
     wikidata ids: freebase id=/m/05qzk2; mérimée id=PA00117761; pss-archi id=FR-69083-3007; world heritage site id=1321-015; babelnet id=00960272n; isni=0000000121800013; library of congress authorities id=n85319193; encyclopædia britannica online id=place/Sainte-Marie-de-la-Tourette; viaf cluster id=147291158; j9u entity id=987007599554105171; idref id=028895320; university of barcelona authority id=981058614758806706; cantic id=981058614758806706; archinform project id=1945; openstreetmap relation id=1952778; #sosbrutalism id=15890813; structurae structure id=20013314; fast id=610184; bibliothèque nationale de france id=120636273; bibsys id=4007940; canadiana name authority id=ncf12149176; libraries australia id=63539221; worldcat entities id=E39QH7JmmQyKJQY4f7d77bwGB6; google maps customer id=6687977906312824905; apple maps "auid" identifier=10609063845612359499; mapy.com id=osm&id=1072273947; tripadvisor id=566238; kulturenvanteri monument id=407116; ‎yale lux id=group/26a9ccff-7358-4fe3-b993-a146af19958b; wolfram language entity code=Entity["Building", "SainteMarieDeLaTouretteConvent::639sx"]; gnd id=1047352346
 
 005 Palace of Assembly
+    Map: https://www.openstreetmap.org/?mlat=30.76111&mlon=76.80306#map=17/30.76111/76.80306
     archINFORM: https://www.archinform.net/projekte/1939.htm
+    ArchDaily: https://www.archdaily.com/155922/ad-classics-ad-classics-palace-of-the-assembly-le-corbusier
     wikidata ids: archinform project id=1939; freebase id=/m/0qfvmhh; #sosbrutalism id=18983396
 
 006 Mill Owners' Association Building
+    Map: https://www.openstreetmap.org/?mlat=23.03250&mlon=72.57083#map=17/23.03250/72.57083
     archINFORM: https://www.archinform.net/projekte/1928.htm
     Archnet: https://archnet.org/sites/4952
+    ArchDaily: https://www.archdaily.com/464142/ad-classics-mill-owners-association-building-le-corbusier
+    Divisare: https://divisare.com/projects/373468-le-corbusier-cemal-emden-mill-owners-association
     wikidata ids: archinform project id=1928; freebase id=/m/03npxcj; archnet site id=4952; #sosbrutalism id=15889777; museum of modern art work id=83523; wolfram language entity code=Entity["Building", "MillOwnersAssociationBuilding::ffvv3"]; gnd id=136407964X
 
 007 Barcelona Pavilion
+    Official website: https://miesbcn.com/ca/el-pavello
+    Map: https://www.openstreetmap.org/?mlat=41.37056&mlon=2.15000#map=17/41.37056/2.15000
     Docomomo: https://www.docomomoiberico.com/index.php?option=com_k2&view=item&id=1487&lang=en
     archINFORM: https://www.archinform.net/projekte/2095.htm
+    ArchDaily: https://www.archdaily.com/109135/ad-classics-barcelona-pavilion-mies-van-der-rohe
+    WikiArquitectura: https://en.wikiarquitectura.com/building/german-pavilion-in-barcelona/
+    Divisare: https://divisare.com/projects/324907-ludwig-mies-van-der-rohe-gili-merin-barcelona-pavilion-1929
     wikidata ids: freebase id=/m/02pg50; asset of cultural interest code=RI-51-0010902; catalan object of cultural interest id=1978-MH; inventari del patrimoni arquitectònic de catalunya code=21762; docomomo ibérico id=1487; archinform project id=2095; encyclopædia britannica online id=place/German-Pavilion; library of congress authorities id=n94060789; gnd id=4386701-7; viaf cluster id=316750733; j9u entity id=987007604134605171; nl cr aut id=ko20221151965; idref id=121239241; barcelona city council heritage catalog id=3127; university of barcelona authority id=981058609493706706; cantic id=981058609493706706; fast id=698253; national library of spain spmabn id=XX4843262; geonames id=10278661; poblesdecatalunya.cat id=10323; ‎yale lux id=group/a909e16d-34e1-450b-ad37-8457d0efa09b
 
 008 Villa Tugendhat
+    Official website: https://www.tugendhat.eu
+    Map: https://www.openstreetmap.org/?mlat=49.20722&mlon=16.61583#map=17/49.20722/16.61583
     Structurae: https://structurae.net/structures/20039659
     archINFORM: https://www.archinform.net/projekte/2094.htm
+    ArchDaily: https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe
+    Divisare: https://divisare.com/projects/341037-ludwig-mies-van-der-rohe-alex-shoots-buildings-villa-tugendhat
     wikidata ids: world heritage site id=1052; freebase id=/m/01tc80; geonames id=6639889; emporis building id=1191869; viaf cluster id=156669087; czech cultural heritage id=16079/7-98; structurae structure id=20039659; czech monument catalogue number=1000126603; encyclopædia britannica online id=place/Tugendhat-House; national library of israel id (old)=000594927; idref id=165645571; bibliothèque nationale de france id=13616418f; nl cr aut id=kn20010710662; archinform project id=2094; abart institution id=8969; mapy.com id=base&id=1914639; bhcl uuid=97967ff7-6c1e-4858-8102-a800dd27904d; j9u entity id=987007291427305171; idu theatre building id=6404; library of congress authorities id=sh97002093; gnd id=4211362-3; czech structural object id=19119623; instagram username=villatugendhat; facebook username=VillaTugendhat; youtube channel id=UCmIk9S7sWTalXmIlSOr3_TA; openstreetmap way id=50555386; bildindex der kunst und architektur pid=0001391523; bildindex der kunst und architektur id=20333622; ‎yale lux id=place/3eb4887c-aae4-4f7a-b4f4-cce80ad7cd31; youtube handle=villatugendhat; national cultural monument of czechia id=215; svkkl authority id=0203247-Vila-Tugendhat; fes digital collections entity id=388692
 
 009 Farnsworth House
+    Map: https://www.openstreetmap.org/?mlat=41.63500&mlon=-88.53569#map=17/41.63500/-88.53569
     archINFORM: https://www.archinform.net/projekte/2096.htm
+    ArchDaily: https://www.archdaily.com/59719/ad-classics-the-farnsworth-house-mies-van-der-rohe
+    Divisare: https://divisare.com/projects/397743-ludwig-mies-van-der-rohe-yorgos-efthymiadis-farnsworth-house
     wikidata ids: nrhp reference number=04000867; freebase id=/m/03_qdh; gnd id=4544395-6; archinform project id=2096; national trust for historic preservation id=farnsworth-house; encyclopædia britannica online id=topic/Farnsworth-House; museum of modern art work id=1006; nl cr aut id=osa20241234823; atlas obscura place id=the-farnsworth-house-plano-illinois; openstreetmap way id=184780920
 
 010 S. R. Crown Hall
+    Map: https://www.openstreetmap.org/?mlat=41.83306&mlon=-87.62722#map=17/41.83306/-87.62722
     archINFORM: https://www.archinform.net/projekte/2091.htm
     Structurae: https://structurae.net/structures/20039819
+    Divisare: https://divisare.com/projects/396852-ludwig-mies-van-der-rohe-davide-adamo-s-r-crown-hall
     wikidata ids: nrhp reference number=01001049; freebase id=/m/08_223; geonames id=4908380; archinform project id=2091; chicago landmarks id=1284; gnis feature id=1833075; quora topic id=IIT-R; structurae structure id=20039819; iconoteca dell'accademia di architettura id=3192; openstreetmap way id=157657436
 
 011 Seagram Building
+    Official website: http://www.375parkavenue.com
+    Map: https://www.openstreetmap.org/?mlat=40.75844&mlon=-73.97214#map=17/40.75844/-73.97214
     Structurae: https://structurae.net/structures/20000291
     archINFORM: https://www.archinform.net/projekte/2099.htm
+    ArchDaily: https://www.archdaily.com/59412/ad-classics-seagram-building-mies-van-der-rohe
+    Divisare: https://divisare.com/projects/382675-ludwig-mies-van-der-rohe-inaki-bergera-seagram-building
     wikidata ids: freebase id=/m/01y94c; structurae structure id=20000291; viaf cluster id=231159954; ctbuh skyscraper center building id=3529; emporis building id=115572; nrhp reference number=06000056; encyclopædia britannica online id=topic/Seagram-Building; archinform project id=2099; nl cr aut id=ko2016909805; gnd id=7715090-9; new york city landmarks preservation commission id=1664; skyscraperpage building id=2386; grove art online id=T2271614; museum of modern art work id=101880; nyc building identification number (bin)=1036465; smarthistory id=ludwig-mies-van-der-rohe-seagram-building-new-york-city; cris unique site number=06101.010696; wolfram language entity code=Entity["Building", "SeagramBuilding::y86jj"]; openstreetmap way id=145341258
 
 012 Neue Nationalgalerie
+    Official website: http://www.smb.museum/museen-und-einrichtungen/neue-nationalgalerie/home.html
+    Map: https://www.openstreetmap.org/?mlat=52.50694&mlon=13.36778#map=17/52.50694/13.36778
+    ArchDaily: https://www.archdaily.com/960604/neue-nationalgalerie-david-chipperfield-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/neue-nationalgalerie/
+    Divisare: https://divisare.com/projects/297030-ludwig-mies-van-der-rohe-rory-gardiner-neue-nationalgalerie
     wikidata ids: freebase id=/m/02xtzr; geonames id=7911201; gnd id=5298136-8; isil=DE-MUS-019514; te papa agent id=34882; quora topic id=Neue-Nationalgalerie; viaf cluster id=142711389; isni=0000000119455804; sotheby's museum network id=neue-nationalgalerie; artist-info location id=2193; library of congress authorities id=n92076661; resident advisor club id=98756; lex id=Neue_Nationalgalerie; j9u entity id=987007265951805171; cantic id=981058513542506706; university of barcelona authority id=981058513542506706; great russian encyclopedia online id (2017)=2666204; museum-digital person/organization id=40879; idai.gazetteer id=2087394; arachne entity id=1204217; münzkabinett id=corporation/12995; ddb institution id=NW5WWAFV5YOZHMVHLLCQO7SQTEERTK47; kalliope-verbund (gnd) id=5298136-8; ‎yale lux id=place/bfb54520-9eed-4624-896c-157f12377db6; musicbrainz place id=a2789d4b-b435-4040-8466-86009709a992; wellcome collection concept id=gwxc2mfs
 
 013 Fallingwater
+    Official website: http://www.fallingwater.org/
+    Map: https://www.openstreetmap.org/?mlat=39.90639&mlon=-79.46806#map=17/39.90639/-79.46806
     archINFORM: https://www.archinform.net/projekte/974.htm
     Structurae: https://structurae.net/structures/20018690
+    ArchDaily: https://www.archdaily.com/60022/ad-classics-fallingwater-frank-lloyd-wright
     wikidata ids: nrhp reference number=74001781; freebase id=/m/01zh2s; quora topic id=Fallingwater; babelnet id=02875609n; archinform project id=974; encyclopædia britannica online id=place/Fallingwater; world heritage site id=1496rev-005; cultural objects names authority id=700008425; viaf cluster id=174148996005659752204; instagram username=visitfallingwater; atlas obscura place id=fallingwater; structurae structure id=20018690; museum of modern art work id=980; library of congress authorities id=sh85046975; fast id=631627; nl cr aut id=ko20221143267; j9u entity id=987007295322305171; openstreetmap way id=354728127; lex id=Fallingwater; gnd id=4602486-4; smarthistory id=frank-lloyd-wright-fallingwater; reddit topic id (obsolete)=fallingwater; sah archipedia building id=PA-01-FA28; worldcat entities id=E39QH7Jmp3wQThkBKMJKTCDGgg; american heritage place id=fallingwater; tclf id=landscapes/fallingwater; apple maps "auid" identifier=9318645660251406810; yelp id=fallingwater-mill-run; youtube channel id=UC8fK-SBpN1jaSGDV7a8gdLw; facebook username=VisitFallingwater; aaa attraction id=500170; bibsys id=90502814; ‎yale lux id=place/71e03bd2-7037-41f7-af35-c7e94504bbce; youtube handle=visitfallingwater; wolfram language entity code=Entity["Building", "Fallingwater::57g2g"]
 
 014 Johnson Wax Headquarters
+    Map: https://www.openstreetmap.org/?mlat=42.71361&mlon=-87.79083#map=17/42.71361/-87.79083
     archINFORM: https://www.archinform.net/projekte/1022.htm
+    ArchDaily: https://www.archdaily.com/544911/ad-classics-sc-johnson-wax-research-tower-frank-lloyd-wright
     wikidata ids: nrhp reference number=74002275; freebase id=/m/04r1pz; archinform project id=1022; wisconsin national or state registers record id=NR1805; skyscraperpage building id=85780; wolfram language entity code=Entity["Building", "JohnsonWaxHeadquarters::674wg"]; openstreetmap relation id=7088265; wisconsin architecture and history inventory id=HI17035
 
 015 Solomon R. Guggenheim Museum
+    Official website: https://www.guggenheim.org/
+    Map: https://www.openstreetmap.org/?mlat=40.78306&mlon=-73.95889#map=17/40.78306/-73.95889
     Structurae: https://structurae.net/structures/20003319
     archINFORM: https://www.archinform.net/projekte/1021.htm
+    ArchDaily: https://www.archdaily.com/60392/ad-classics-solomon-r-guggenheim-museum-frank-lloyd-wright
+    Divisare: https://divisare.com/projects/332497-frank-lloyd-wright-laurian-ghinitoiu-the-solomon-r-guggenheim-museum
     wikidata ids: gnd id=4075350-5; nrhp reference number=05000443; freebase id=/m/0q9h2; geonames id=6944380; structurae structure id=20003319; encyclopædia britannica online id=topic/Guggenheim-Museum-art-museum-New-York-City; instagram username=guggenheim; new york times topic id=organization/solomon-r-guggenheim-museum; ringgold id=101593; cultureel woordenboek id=bouwkunde/solomon-r-guggenheim-museum; selibr id=288180; cultural objects names authority id=700008658; google arts & culture partner id=solomon-r-guggenheim-museum; encyclopædia universalis id=guggenheim-musee; grid id=grid.447562.6; archinform project id=1021; isni=0000000406261789; viaf cluster id=141479275; bibliothèque nationale de france id=11878602d; idref id=026561859; artist-info location id=140; national trust for historic preservation id=solomon-r-guggenheim-museum; sotheby's museum network id=solomon-r-guggenheim-museum; gnis feature id=951894; nl cr aut id=kn20090604008; microsoft academic id (discontinued)=2800724396; library of congress authorities id=n79065486; ror id=02wq67465; world heritage site id=1496rev-008; union list of artist names id=500303631; x (twitter) username=guggenheim; facebook username=guggenheimmuseum; youtube channel id=UChrvkZPNMeC6nwMzoD6Gj6w; artic artist id=79037; songkick venue id=50840; philadelphia museum of art entity id=14280; libris-uri=gdsw0n605tmtljh; google maps customer id=333297768485043384; tripadvisor id=108687; proveana id=act10002656; new york city landmarks preservation commission id=1774; alexander turnbull library id=235599; cantic id=981058514427106706; openalex id=I2800724396; lex id=Guggenheim_Museum; encyclopedia of china (third edition) old id (2021)=54172; j9u entity id=987007268409205171; online pwn encyclopedia id=3944748; cinii research id=1140845216523211136; nacsis-cat author id=DA00746717; great norwegian encyclopedia id=Guggenheim_Museum; university of barcelona authority id=981058514427106706; sk cinema authority id=0151296; openstreetmap way id=170149134; smarthistory id=frank-lloyd-wright-solomon-r-guggenheim-museum-new-york-city; vikidia article id=fr:Musée_Guggenheim_de_New_York; treccani id=guggenheim-museum; kalliope-verbund (gnd) id=4075350-5; skyscraperpage building id=74155; ‎yale lux id=group/d093542f-7a28-4f76-89c4-761a36778b90; archinform person/group id=36852; musicbrainz place id=48699c09-b076-4ad8-867a-8563f5024263; cris unique site number=06101.008546; kisti id=K000343407; nyc building identification number (bin)=1046946; japan search name id=グッゲンハイム美術館; ‎scilit organization id=38561; wolfram language entity code=Entity["Building", "SolomonRGuggenheimMuseum::67ysx"]; tabakalera id=50557; encyclopedia of china (third edition) id (2026)=2fVzDw; harper's tag=guggenheim-museum
 
 016 Bauhaus Dessau
+    Official website: https://www.bauhaus-dessau.de/de/index.html
+    Map: https://www.openstreetmap.org/?mlat=51.83920&mlon=12.22670#map=17/51.83920/12.22670
     archINFORM: https://www.archinform.net/projekte/3084.htm
+    ArchDaily: https://www.archdaily.com/925649/bauhaus-museum-dessau-addenda-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/bauhaus-building-in-dessau/
+    Divisare: https://divisare.com/projects/290972-pca-studio-arturo-cucciolla-francesco-farella-sante-cutecchia-bauhaus-museum-dessau
     wikidata ids: gnd id=1049357531; library of congress authorities id=no99047700; archinform project id=3084; viaf cluster id=136175948; world heritage site id=729-004; google knowledge graph id=/g/122pwdl7; factgrid item id=Q195229; openstreetmap relation id=3310964; j9u entity id=987007258221505171; museum-digital person/organization id=39852; ‎yale lux id=place/fcb3d918-b132-4522-b105-6630f988df5c
 
 017 Rietveld Schröder House
+    Official website: https://www.rietveldschroderhuis.nl/
+    Map: https://www.openstreetmap.org/?mlat=52.08533&mlon=5.14760#map=17/52.08533/5.14760
     archINFORM: https://www.archinform.net/projekte/1157.htm
+    ArchDaily: https://www.archdaily.com/99698/ad-classics-rietveld-schroder-house-gerrit-rietveld
+    WikiArquitectura: https://en.wikiarquitectura.com/building/rietveld-schroeder-house/
+    Divisare: https://divisare.com/projects/397203-gerrit-rietveld-davide-adamo-rietveld-schroder-house
+    ArchitectureLab: https://www.architecturelab.net/rietveld-schroder-house-gerrit-rietveld/
     wikidata ids: world heritage site id=965; freebase id=/m/05jfpf; rijksmonument id=18329; architectuurgids building id=615; cultureel woordenboek id=bouwkunde/rietveld-schroderhuis; archinform project id=1157; world heritage tentative list id=965; encyclopædia britannica online id=place/Schroeder-House; atlas obscura place id=rietveld-schroder-house; rkd thesaurus id=86584; openstreetmap way id=191005050; wolfram language entity code=Entity["Building", "RietveldSchroderHouse::354r5"]; encyclopedia of china (third edition) old id (2021)=579095; wikikids id=Rietveld_Schröderhuis; gnd id=4201872-9; lex id=Schröders_Huis; encyclopedia of china (third edition) id (2026)=1sdWgu
 
 018 Paimio Sanatorium
+    Map: https://www.openstreetmap.org/?mlat=60.46506&mlon=22.73477#map=17/60.46506/22.73477
     archINFORM: https://www.archinform.net/projekte/310.htm
+    WikiArquitectura: https://en.wikiarquitectura.com/building/paimio-sanatorium/
+    Divisare: https://divisare.com/projects/386217-alvar-aalto-fabrice-fouillet-paimio-sanatorium
     wikidata ids: freebase id=/m/0f8zzq; rky national built heritage environment id=1795; protected buildings register in finland id=201035; archinform project id=310; world heritage tentative list id=1864; viaf cluster id=313476191; bibsys id=15001674; bibliothèque nationale de france id=16982478q; idref id=183437527; gnd id=1066496757; nls geographic names register place id=12014277; yle topic id=18-128638; google knowledge graph id=/g/11c1q96bbp; museum of modern art work id=3182; wiki loves monuments id=P4009/1795
 
 019 Villa Mairea
+    Official website: http://www.villamairea.fi/en
+    Map: https://www.openstreetmap.org/?mlat=61.59745&mlon=21.87451#map=17/61.59745/21.87451
     archINFORM: https://www.archinform.net/projekte/299.htm
+    ArchDaily: https://www.archdaily.com/85390/ad-classics-villa-mairea-alvar-aalto
+    Divisare: https://divisare.com/projects/311000-alvar-aalto-ake-e-son-lindman-villa-mairea
     wikidata ids: freebase id=/m/0f3rw3; archinform project id=299; viaf cluster id=428144783075386996703; uppslagsverket finland id=VillaMairea; yso id=1785; nls geographic names register place id=10228626; yle topic id=18-195338; wolfram language entity code=Entity["Building", "VillaMairea::q62w9"]; openstreetmap way id=959169859
 
 020 Säynätsalo Town Hall
+    Map: https://www.openstreetmap.org/?mlat=62.14025&mlon=25.76917#map=17/62.14025/25.76917
     archINFORM: https://www.archinform.net/projekte/306.htm
+    ArchDaily: https://www.archdaily.com/783392/ad-classics-saynatsalo-town-hall-alvar-aalto
+    Divisare: https://divisare.com/projects/317793-alvar-aalto-nico-saieh-saynatsalo-town-hall-1951
     wikidata ids: freebase id=/m/02rlv77; protected buildings register in finland id=201846; archinform project id=306; protected buildings register in finland building id=306318; permanent building number vtj-prt=1029954230; nls geographic names register place id=12014158; #sosbrutalism id=15868253; google maps customer id=12346262372051513898; openstreetmap way id=165019314; instagram username=saynatsalotownhall
 
 021 Eames House
+    Official website: https://eamesfoundation.org/
+    Map: https://www.openstreetmap.org/?mlat=34.02972&mlon=-118.51944#map=17/34.02972/-118.51944
     archINFORM: https://www.archinform.net/projekte/661.htm
+    ArchDaily: https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames
+    WikiArquitectura: https://en.wikiarquitectura.com/building/eames-house-csh-no8/
     wikidata ids: nrhp reference number=06000978; geonames id=7304718; archinform project id=661; viaf cluster id=4102149198295074940002; freebase id=/m/01k_88; california office of historic preservation id=N2341; ‎los angeles historic-cultural monument number=381; lex id=Case_Study_House_no._8
 
 022 Glass House
+    Map: https://www.openstreetmap.org/?mlat=41.14243&mlon=-73.52940#map=17/41.14243/-73.52940
     archINFORM: https://www.archinform.net/projekte/2565.htm
     wikidata ids: nrhp reference number=97000341; freebase id=/m/08nxk0; archinform project id=2565; national trust for historic preservation id=glass-house; sotheby's museum network id=glass-house; encyclopædia britannica online id=place/Glass-House; viaf cluster id=316594127; museum of modern art work id=1029; openstreetmap way id=364907964; worldcat entities id=E39PBJfcRbHtpD6CXk4rt8kMT3; atlas obscura place id=phillip-johnson-s-estate; gnd id=7581711-1
 
 023 Casa Luis Barragán
+    Official website: http://www.casaluisbarragan.org
+    Map: https://www.openstreetmap.org/?mlat=19.41111&mlon=-99.19250#map=17/19.41111/-99.19250
     archINFORM: https://www.archinform.net/projekte/2136.htm
+    ArchDaily: https://www.archdaily.com/102599/ad-classics-casa-barragan-luis-barragan
     wikidata ids: world heritage site id=1136; freebase id=/m/043kl9q; viaf cluster id=135946674; archinform project id=2136; idref id=137121148; sotheby's museum network id=luis-barragan-house-and-studio; library of congress authorities id=nr2004033687; flanders arts institute organisation id (former scheme)=379471; openstreetmap way id=199693850; gnd id=6529270-4; j9u entity id=987011549271005171; kunstenpunt knowledge graph id=Q169750; wolfram language entity code=Entity["Building", "LuisBarraganHouseAndStudio::m5jtg"]; encyclopedia of china (third edition) old id (2021)=576318; ‎yale lux id=group/d35e8e0e-bcf3-4d20-9cf9-3eb6c1ddc0d6; museum id from mexico sic directory of museums=478; encyclopedia of china (third edition) id (2026)=3ilOP3
 
 024 Cathedral of Brasília
+    Official website: http://catedral.org.br/
+    Map: https://www.openstreetmap.org/?mlat=-15.79833&mlon=-47.87556#map=17/-15.79833/-47.87556
     archINFORM: https://www.archinform.net/projekte/4449.htm
     Structurae: https://structurae.net/structures/20028721
+    ArchDaily: https://www.archdaily.com/101516/ad-classics-cathedral-of-brasilia-oscar-niemeyer
+    WikiArquitectura: https://en.wikiarquitectura.com/building/brasilia-cathedral/
     wikidata ids: freebase id=/m/0g4xqw; babelnet id=03487141n; archinform project id=4449; ipatrimônio id=brasilia-catedral-metropolitana; gcatholic church id=2687; atlas obscura place id=cathedral-of-brasilia; structurae structure id=20028721; openstreetmap way id=66379902; iphan id=672; wolfram language entity code=Entity["Building", "CathedralOfBrasilia::35cgv"]
 
 025 Hiroshima Peace Memorial Museum
+    Official website: http://www.pcf.city.hiroshima.jp/top_e.html
+    Map: https://www.openstreetmap.org/?mlat=34.39147&mlon=132.45306#map=17/34.39147/132.45306
     archINFORM: https://www.archinform.net/projekte/9256.htm
+    ArchDaily: https://www.archdaily.com/160170/ad-classics-hiroshima-peace-center-and-memorial-park-kenzo-tange
+    WikiArquitectura: https://en.wikiarquitectura.com/building/hiroshima-peace-memorial-museum/
     wikidata ids: freebase id=/m/025tsky; viaf cluster id=153640639; idref id=052659801; isni=0000000121121360; ringgold id=84078; archinform project id=9256; library of congress authorities id=n83034559; google arts & culture partner id=hiroshima-peace-memorial-museum; ndl authority id=00727159; nacsis-cat author id=DA08392243; tripadvisor id=320360; hkcan id=9811115422903406; j9u entity id=987007459477405171; japanese database of national cultural properties id=102/00004081; japan search name id=広島平和記念資料館; cinii research id=1140282266772213888; isil=JP-2003519; sk cinema authority id=0148622; openstreetmap relation id=9521566; gnd id=3045631-9; jta sightseeing database id=R1-00475; nsk (viaf) id=000599602; bibliothèque nationale de france id=13572551n; rero id (legacy)=A024008730; canadiana name authority id=ncf10759794; libraries australia id=35197110; union list of artist names id=500300350; kulturenvanteri monument id=315026; ‎yale lux id=group/32be69ac-6731-4cef-bf51-ad7b7ce54984; nsk id=981005712353209366
 
 026 Golconde
+    Map: https://www.openstreetmap.org/?mlat=11.93813&mlon=79.83404#map=17/11.93813/79.83404
     wikidata ids: google knowledge graph id=/g/11ghsj9m12
 
 027 Salk Institute
+    Official website: https://www.salk.edu/
+    Map: https://www.openstreetmap.org/?mlat=32.88750&mlon=-117.24639#map=17/32.88750/-117.24639
+    ArchDaily: https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn
+    WikiArquitectura: https://en.wikiarquitectura.com/building/salk-institute-for-biological-studies/
+    Divisare: https://divisare.com/projects/304796-louis-kahn-xavier-de-jaureguiberry-salk-institute-for-biological-studies
     wikidata ids: freebase id=/m/015z98; viaf cluster id=133659552; isni=0000000106627144; ringgold id=7120; quora topic id=Salk-Institute-for-Biological-Studies-1; charity navigator id (obsolete)=4419; irs employer identification number=95-2160097; encyclopædia britannica online id=topic/Salk-Institute-for-Biological-Studies; grid id=grid.250671.7; microsoft academic id (discontinued)=1307098950; library of congress authorities id=n50058912; ror id=03xez1567; x (twitter) username=salkinstitute; instagram username=salkinstitute; facebook username=salkinstitute; youtube channel id=UC6z7j9Ycp-HuiCcp9LKcbFg; golden id (archived)=Salk_Institute_for_Biological_Studies-DKMVG; j9u entity id=987007267400105171; gateway to research organization id=A3C8BDDA-C539-4B60-B80C-EFD9B1165849; gnd id=813030-9; kisti id=K000215720; linkedin company or organization id=salk-institute-for-biological-studies; snac ark id=w64f6gjs; scimago institutions rankings id=25115; ‎yale lux id=group/ce5d4b59-ea1e-41fd-a0a9-779f9e95363a; littlesis organization id=39559; fast id=514728; canadiana name authority id=ncf12085945; idref id=250958651; cantic id=981058611898106706; bibsys id=90155094; nacsis-cat author id=DA0681678X; google maps customer id=7767675612423375712; threads username=salkinstitute; openstreetmap way id=60735906; wellcome collection concept id=qpabvv92; dpla subject term=Salk Institute for Biological Studies; worldcat entities id=E39QQPVp7YMcm6MjhkPtqqDGgg; nla trove people id=1190196; cinii research id=1980023484818724409; ‎scilit organization id=2320
 
 028 Phillips Exeter Academy Library
+    Map: https://www.openstreetmap.org/?mlat=42.97890&mlon=-70.94940#map=17/42.97890/-70.94940
     archINFORM: https://www.archinform.net/projekte/2038.htm
+    WikiArquitectura: https://en.wikiarquitectura.com/building/phillips-exeter-academy-library/
+    Divisare: https://divisare.com/projects/304785-louis-kahn-xavier-de-jaureguiberry-library-at-phillips-exeter-academy
     wikidata ids: freebase id=/m/063fbb; archinform project id=2038; library of congress authorities id=n78003875; viaf cluster id=152420344; j9u entity id=987007456822705171; ‎yale lux id=group/6bcc70b3-3806-4024-8ed3-4665ad31196c; libraries.org id=259; openstreetmap way id=291867088
 
 029 Kimbell Art Museum
+    Official website: https://www.kimbellart.org/
+    Map: https://www.openstreetmap.org/?mlat=32.74861&mlon=-97.36500#map=17/32.74861/-97.36500
     archINFORM: https://www.archinform.net/projekte/2049.htm
+    ArchDaily: https://www.archdaily.com/123761/ad-classics-kimbell-art-museum-louis-kahn
+    WikiArquitectura: https://en.wikiarquitectura.com/building/kimbell-art-museum/
+    Divisare: https://divisare.com/projects/546498-louis-kahn-marco-petrini-kimbell-art-museum
     wikidata ids: freebase id=/m/03f_l8; gnd id=1048275-1; viaf cluster id=148545856; union list of artist names id=500305329; bibliothèque nationale de france id=11990209c; geonames id=4703252; library of congress authorities id=n79021847; libraries australia id=35270928; instagram username=kimbellartmuseum; ringgold id=3400; quora topic id=Kimbell-Art-Museum-1; encyclopædia britannica online id=topic/Kimbell-Art-Museum; encyclopædia universalis id=kimbell-art-museum; archinform project id=2049; isni=000000040402048X; idref id=027973417; share catalogue author id=327099; nl cr aut id=ko2003164467; google arts & culture partner id=kimbell-art-museum; pontificia università della santa croce id=130211; sotheby's museum network id=kimbell-art-museum; facebook username=kimbellart; x (twitter) username=kimbellart; youtube channel id=UCL8ffIgYlqX3P0JwrrnNjFA; songkick venue id=2532294; vatican library vcba id=494/8278; cantic id=981058510235806706; j9u entity id=987007263693005171; cinii research id=1140845216705934720; nacsis-cat author id=DA02489364; university of barcelona authority id=981058510235806706; openstreetmap relation id=7301044; thesaurus linguae aegyptiae id=2MX4SHHP5BBD7NACPFWSYBT5LE; ‎yale lux id=group/38a73ed9-60de-45ed-ac6d-cdf9803b0dc2; wellcome collection concept id=bmg8xzez; artic artist id=78503
 
 030 IIM Ahmedabad
+    Official website: https://www.iima.ac.in
+    Map: https://www.openstreetmap.org/?mlat=23.03167&mlon=72.53611#map=17/23.03167/72.53611
     wikidata ids: freebase id=/m/02m9nl; viaf cluster id=135501066; facebook username=iimahd; isni=0000000092441719; ringgold id=28985; quora topic id=Indian-Institute-of-Management-Ahmedabad; babelnet id=03327071n; open funder registry funder id=501100002381; grid id=grid.418226.b; idref id=090401123; microsoft academic id (discontinued)=150870154; library of congress authorities id=n82127213; ror id=02egcpy68; hal structure id=232077; aishe code=S-8890; x (twitter) username=IIMAhmedabad; openalex id=I150870154; j9u entity id=987007599126705171; arwu university id=indian-institute-of-management-ahmedabad; domain name=iima.ac.in; google scholar organization id=16262952406350404226; ‎yale lux id=group/8315008b-88b1-457b-a174-327222f468ce; ‎scilit organization id=10887; gnd id=1053236-5
 
 031 National Assembly of Bangladesh
+    Official website: https://www.parliament.gov.bd/
+    ArchDaily: https://www.archdaily.com/83071/ad-classics-national-assembly-building-of-bangladesh-louis-kahn
+    WikiArquitectura: https://en.wikiarquitectura.com/building/national-assembly-of-bangladesh/
     wikidata ids: freebase id=/m/02rv1j; gnd id=4714651-5; viaf cluster id=77144647643789532114; library of congress authorities id=n84195469; encyclopædia britannica online id=topic/Jatiya-Sangsad; banglapedia id (bangla edition)=জাতীয়_সংসদ; banglapedia id (english edition)=Jatiya_Sangsad; facebook username=Jatiyoshangsad; bbc things id=f39b8fd5-f317-45fb-8a52-34b5d7d727a4; fast id=598259; ipu chamber id=bd?chamber_id=13332
 
 032 Yale Art and Architecture Building
+    Map: https://www.openstreetmap.org/?mlat=41.31230&mlon=-72.92400#map=17/41.31230/-72.92400
     archINFORM: https://www.archinform.net/projekte/2495.htm
+    ArchDaily: https://www.archdaily.com/123171/yale-art-architecture-building-gwathmey-siegel-associates-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/yale-university-art-gallery/
+    Divisare: https://divisare.com/projects/295306-zoboki-design-architecture-nanshan-cultural-sport-centre-and-art-museum
     wikidata ids: freebase id=/m/0bdb1p; archinform project id=2495; nl cr aut id=kn20100506005; viaf cluster id=125983262; #sosbrutalism id=15891665; openstreetmap way id=224889715
 
 033 Boston City Hall
+    Map: https://www.openstreetmap.org/?mlat=42.36030&mlon=-71.05800#map=17/42.36030/-71.05800
     archINFORM: https://www.archinform.net/projekte/1658.htm
+    ArchDaily: https://www.archdaily.com/117442/ad-classics-boston-city-hall-kallmann-mckinnell-knowles
     wikidata ids: freebase id=/m/07jlxs; geonames id=4930968; viaf cluster id=254073895; archinform project id=1658; library of congress authorities id=sh2014100239; j9u entity id=987007407415505171; wolfram language entity code=Entity["Building", "BostonCityHall::96t3t"]; gnis feature id=599954; skyscraperpage building id=50213; emporis building id=119179; sah archipedia building id=MA-01-GC16; gnd id=1179736850; vatican library vcba id=494/66866; vatican library id (former scheme)=ADV12280221; fast id=1920937; worldcat entities id=E39PBJrgKGHqWRqPYRk6p7PPcP; google maps customer id=9091703104877970778; loc habs/haer/hals place id=ma1243; tripadvisor id=8809420; #sosbrutalism id=15891257; musicbrainz place id=e9d80d5f-6aeb-4d88-98c1-343e90a29fb0; openstreetmap way id=788015166
 
 034 Yoyogi National Gymnasium
+    Official website: http://www.naash.go.jp/yoyogi
+    Map: https://www.openstreetmap.org/?mlat=35.66750&mlon=139.70028#map=17/35.66750/139.70028
     archINFORM: https://www.archinform.net/projekte/9254.htm
+    ArchDaily: https://www.archdaily.com/109138/ad-classics-yoyogi-national-gymnasium-kenzo-tange
+    WikiArquitectura: https://en.wikiarquitectura.com/building/tokyo-national-gymnasium/
     wikidata ids: freebase id=/m/07h74l; musicbrainz place id=38c64b31-c3b4-48f4-b840-d2cc2b9de6e7; archinform project id=9254; tripadvisor id=5979639; geonames id=10866693; carthalia id=6100; wolfram language entity code=Entity["Stadium", "YoyogiNationalGymnasium::2w54z"]; babelnet id=01830425n; japan search name id=国立代々木競技場; mapy.com id=base&id=2340042; gns unique feature id=13296565
 
 035 Habitat 67
+    Official website: http://www.habitat67.com
+    Map: https://www.openstreetmap.org/?mlat=45.50000&mlon=-73.54389#map=17/45.50000/-73.54389
     archINFORM: https://www.archinform.net/projekte/6685.htm
     Structurae: https://structurae.net/structures/20065523
+    ArchDaily: https://www.archdaily.com/404803/ad-classics-habitat-67-moshe-safdie
+    WikiArquitectura: https://en.wikiarquitectura.com/building/habitat-67/
+    Divisare: https://divisare.com/projects/274626-safdie-architects-habitat-67
     wikidata ids: canadian register of historic places id=12446; quebec cultural heritage directory id=98890; freebase id=/m/01f_02; quora topic id=Habitat-67; banque de noms de lieux du québec id=404656; cultural objects names authority id=700008662; encyclopædia britannica online id=place/Habitat-67; archinform project id=6685; imtl.org id=223; canadian encyclopedia article id=habitat-67; atlas obscura place id=habitat-67; structurae structure id=20065523; skyscraperpage building id=7889; #sosbrutalism id=15891689; wolfram language entity code=Entity["Building", "Habitat67::73f6y"]; gnd id=7710000-1
 
 036 FAU-USP Building
 
 037 MASP
+    ArchDaily: https://www.archdaily.com/1026123/pietro-maria-bardi-masp-building-metro-arquitetos
+    Divisare: https://divisare.com/projects/279154-lina-bo-bardi-inigo-bujedo-aguirre-masp-museu-de-arte-de-sao-paulo
     wikidata ids: freebase id=/m/0121lmys
 
 038 SESC Pompéia
+    Map: https://www.openstreetmap.org/?mlat=-23.52581&mlon=-46.68299#map=17/-23.52581/-46.68299
     archINFORM: https://www.archinform.net/projekte/11779.htm
+    WikiArquitectura: https://en.wikiarquitectura.com/building/sesc-pompeia-factory/
+    Divisare: https://divisare.com/projects/279160-lina-bo-bardi-inigo-bujedo-aguirre-sesc-pompeia
     wikidata ids: ipatrimônio id=sao-paulo-sesc-pompeia; euta theatre id=410; encyclopædia britannica online id=topic/SESC-Pompeia; quora topic id=SESC-Pompeia; itaú cultural id=instituicao636205/sesc-pompeia; arquivo arq id=sesc-pompia; archinform project id=11779; library of congress authorities id=no2004119962; viaf cluster id=199467662; google knowledge graph id=/g/121vx29l; musicbrainz place id=a577ff22-d3ac-469d-b728-b8e5c7cae0dd; university of barcelona authority id=981058614872406706; cantic id=981058614872406706; artic artist id=115539
 
 039 Trellick Tower
+    Map: https://www.openstreetmap.org/?mlat=51.52378&mlon=-0.20550#map=17/51.52378/-0.20550
     archINFORM: https://www.archinform.net/projekte/12131.htm
+    ArchDaily: https://www.archdaily.com/151227/ad-classics-trellick-tower-erno-goldfinger
     wikidata ids: freebase id=/m/028x46; national heritage list for england number=1246688; ctbuh skyscraper center building id=12042; babelnet id=03193492n; archinform project id=12131; library of congress authorities id=sh2015001500; j9u entity id=987007412509705171; british listed buildings id=101246688; atlas obscura place id=trellick-tower; #sosbrutalism id=15888709; wolfram language entity code=Entity["Building", "TrellickTower::j8673"]
 
 040 Barbican Estate
+    Official website: http://www.cityoflondon.gov.uk/services/barbican-estate/Pages/default.aspx
+    Map: https://www.openstreetmap.org/?mlat=51.51919&mlon=-0.09461#map=17/51.51919/-0.09461
     Structurae: https://structurae.net/structures/10000317
     archINFORM: https://www.archinform.net/projekte/16561.htm
+    ArchDaily: https://www.archdaily.com/790453/ad-classics-barbican-estate-london-chamberlin-powell-bon
+    Divisare: https://divisare.com/projects/416176-chamberlin-powell-and-bon-lorenzo-zandri-the-barbican-estate
     wikidata ids: freebase id=/m/01dtm4; national heritage list for england number=1352667; structurae structure id=10000317; ctbuh skyscraper center building complex id=785; geonames id=6690593; early modern letters online location id=0a0d0406-8fe9-4626-9395-81e72b6f63d1; archinform project id=16561; encyclopædia britannica online id=place/Barbican-neighbourhood-London; who's on first id=85860887; factgrid item id=Q387990; j9u entity id=987007542614405171; british listed buildings id=101352667; snarc id=Q45629; atlas obscura place id=the-barbican-estate; domain name=barbican.org.uk; #sosbrutalism id=15891235; ‎yale lux id=place/47de058a-d57a-4fa2-a302-b5392f1b26d8; bbc things id=23980f65-586c-4a47-a98f-9c553a968be0; gnd id=1179841492
 
 041 Sydney Opera House
+    Official website: https://sydneyoperahouse.com
+    Map: https://www.openstreetmap.org/?mlat=-33.85706&mlon=151.21490#map=17/-33.85706/151.21490
     Structurae: https://structurae.net/structures/20000073
     archINFORM: https://www.archinform.net/projekte/1752.htm
+    ArchDaily: https://www.archdaily.com/65218/ad-classics-sydney-opera-house-j%25c3%25b8rn-utzon
+    WikiArquitectura: https://en.wikiarquitectura.com/building/sydney-opera-house/
     wikidata ids: library of congress authorities id=n50061031; viaf cluster id=133659957; gnd id=4409293-3; isni=0000000122878349; world heritage site id=166rev; freebase id=/m/06_nm; musicbrainz place id=a24c9284-a9d2-428b-bacd-fa79cf9a9108; geonames id=8645188; libraries australia id=35093977; structurae structure id=20000073; encyclopædia britannica online id=topic/Sydney-Opera-House; australian heritage database place id=105738; british museum person or institution id=116180; theatricalia theatre id=2h3; nsw heritage database id=5054880; quora topic id=Sydney-Opera-House; cultureel woordenboek id=bouwkunde/sydney-opera-house; google maps customer id=3545450935484072529; dictionary of sydney id=building/sydney_opera_house; x (twitter) username=SydOperaHouse; getty thesaurus of geographic names id=7032355; google doodle=35th-anniversary-of-the-opening-of-the-sydney-opera-house; google arts & culture partner id=sydney-opera-house; archinform project id=1752; bibliothèque nationale de france id=124210970; idref id=033334692; carthalia id=778; tripadvisor id=257278; ausstage venue id=153; songkick venue id=35565; kbpedia id=SydneyOperaHouse; alexander turnbull library id=114938; spap id=o/ee1edafb-921b-445c-8b76-580f8152584c; zhihu topic id=19982894; facebook username=sydneyoperahouse; instagram username=sydneyoperahouse; weibo user id=sydoperahouse; youtube channel id=UCvzqRBw-s63GzEaI4q4Y8dg; flanders arts institute venue id (former scheme)=136484; j9u entity id=987007605288405171; australian music centre artist id=sydney-opera-house; yle topic id=18-136170; encyclopedia of china (third edition) old id (2021)=285008; nl cr aut id=kv20191049276; great norwegian encyclopedia id=Sydney_Opera_House; openstreetmap relation id=9596872; wikikids id=Sydney_Opera_House; gns unique feature id=11864327; kunstenpunt knowledge graph id=Q190838; vikidia article id=fr:Opéra_de_Sydney; hikr waypoint id=74408; kisti id=K000344338; world historical gazetteer place id=12374030; bbc things id=918fab3b-c628-4fbc-a8a0-539dbf080245; spotify user id=sydneyoperahouse; skyscraperpage building id=3758; ‎yale lux id=place/49329d97-5c28-4f1d-823b-bc74cf2a0190; snarc id=Q160331; fast id=515343; canadiana name authority id=ncf11089351; oxford reference overview id=20110803100546491; national library of ireland id=vtls001114395; wellcome collection concept id=p3aqz6fj; the guardian topic id=australia-news/sydney-opera-house; encyclopedia of china (third edition) id (2026)=1SBAem
 
 042 Bagsværd Church
+    Official website: http://bagsvaerdkirke.dk/
+    Map: https://www.openstreetmap.org/?mlat=55.76180&mlon=12.44450#map=17/55.76180/12.44450
     archINFORM: https://www.archinform.net/projekte/1753.htm
     Structurae: https://structurae.net/structures/20029041
+    ArchDaily: https://www.archdaily.com/160390/ad-classics-bagsvaerd-church-jorn-utzon
+    ArchitectureLab: https://www.architecturelab.net/bagsvaerd-church-jorn-utzon/
     wikidata ids: freebase id=/m/0h68gm5; viaf cluster id=136112319; babelnet id=02666943n; archinform project id=1753; structurae structure id=20029041; lex id=Bagsværd_Kirke; openstreetmap way id=109898887; library of congress authorities id=n85228504
 
 043 Nakagin Capsule Tower
+    Map: https://www.openstreetmap.org/?mlat=35.66564&mlon=139.76345#map=17/35.66564/139.76345
     archINFORM: https://www.archinform.net/projekte/1867.htm
     Structurae: https://structurae.net/structures/20028506
+    ArchDaily: https://www.archdaily.com/110745/ad-classics-nakagin-capsule-tower-kisho-kurokawa
+    WikiArquitectura: https://en.wikiarquitectura.com/building/nagakin-capsule-tower/
+    Divisare: https://divisare.com/projects/17032-kisho-kurokawa-architect-and-associates-fala-nakagin-capsule-tower-1972
     wikidata ids: freebase id=/m/026_99c; ctbuh skyscraper center building id=15131; encyclopædia britannica online id=place/Nakagin-Capsule-Tower; archinform project id=1867; emporis building id=105133; skyscraperpage building id=29528; structurae structure id=20028506; viaf cluster id=316751214; atlas obscura place id=nakagin-capsule-tower; tripadvisor id=21018493; ndl authority id=001224064; cantic id=981058615029906706; library of congress authorities id=n2022066654; idref id=19286159X; gnd id=1075558425; worldcat entities id=E39QH7JmqH887PTvPJmJtYybtg; ‎yale lux id=group/5f2193d2-053e-4f43-88ed-85098f8058e5; wolfram language entity code=Entity["Building", "NakaginCapsuleTower::37x9n"]
 
 044 Gandhi Smarak Sangrahalaya
     wikidata ids: freebase id=/m/0flscx; gujarati vishwakosh entry=ગાંધી-સ્મારક-સંગ્રહાલય-અ
 
 045 CEPT University
+    Official website: http://www.cept.ac.in
+    Map: https://www.openstreetmap.org/?mlat=23.03750&mlon=72.54972#map=17/23.03750/72.54972
+    ArchDaily: https://www.archdaily.com/1011363/cept-university-foundation-hall-lecture-hall-and-kund-ccba-designs
     wikidata ids: freebase id=/m/0d4v9k; isni=0000000108134730; ringgold id=29004; grid id=grid.448790.6; library of congress authorities id=n89241248; x (twitter) username=CEPTUniversity1; facebook username=CEPTUniversity1; instagram username=ceptuniversity1; ror id=03tv2xh81; aishe code=U-0127; viaf cluster id=160611978; microsoft academic id (discontinued)=25880638; crunchbase organization id=cept-university; snarc id=Q46485; kisti id=K000199497; ‎scilit organization id=39734; gnd id=1096768070
 
 046 Sangath
+    ArchDaily: https://www.archdaily.com/158300/ad-classics-sangath-balkrishna-doshi
+    Divisare: https://divisare.com/projects/381252-vsf-balkrishna-doshi-edmund-sumner-sangath-architect-s-studio
 
 047 Aranya Low Cost Housing
+    ArchDaily: https://www.archdaily.com/440170/low-cost-house-jya-rchitects
+    Divisare: https://divisare.com/projects/381258-vsf-balkrishna-doshi-aranya-low-cost-housing
 
 048 Kanchanjunga Apartments
+    ArchDaily: https://www.archdaily.com/151844/ad-classics-kanchanjunga-apartments-charles-correa
 
 049 Jawahar Kala Kendra
+    Map: https://www.openstreetmap.org/?mlat=26.87630&mlon=75.80917#map=17/26.87630/75.80917
     wikidata ids: encyclopædia britannica online id=topic/Jawahar-Kala-Kendra; sotheby's museum network id=jawahar-kala-kendra; quora topic id=Jawahar-Kala-Kendra; freebase id=/m/0bx_f6q
 
 050 Centre for Development Studies
+    Official website: http://www.cds.edu
     wikidata ids: freebase id=/m/02w4f0w; isni=0000000095750015; ringgold id=29358; quora topic id=Centre-for-Development-Studies; nla trove people id=808538; grid id=grid.433028.e; microsoft academic id (discontinued)=157886920; ror id=02dteh969; viaf cluster id=312948155; aishe code=C-59912; openalex id=I157886920; ‎scilit organization id=24766
 
 051 Heritance Kandalama
+    Map: https://www.openstreetmap.org/?mlat=7.93778&mlon=80.70750#map=17/7.93778/80.70750
+    Divisare: https://divisare.com/projects/477175-geoffrey-bawa-alberto-sinigaglia-kandalama-heritance-hotel
 
 052 New Gourna Village
 
 053 Gando Primary School
+    ArchDaily: https://www.archdaily.com/785955/primary-school-in-gando-kere-architecture
 
 054 Leça Swimming Pools
+    Map: https://www.openstreetmap.org/?mlat=41.19286&mlon=-8.70778#map=17/41.19286/-8.70778
     archINFORM: https://www.archinform.net/projekte/343.htm
+    ArchDaily: https://www.archdaily.com/150272/ad-classics-leca-swimming-pools-alvaro-siza
+    Divisare: https://divisare.com/projects/336380-alvaro-siza-vieira-atelier-xyz-leca-swimming-pool
     wikidata ids: dgpc id=328649; sipa id=20880; wiki loves monuments id=DGPC-328649; freebase id=/m/0_9b3bd; archinform project id=343; atlas obscura place id=tidal-pools-of-leca-da-palmeira
 
 055 Can Lis
+    Official website: http://canlis.dk/
+    Map: https://www.openstreetmap.org/?mlat=39.35278&mlon=3.20694#map=17/39.35278/3.20694
     archINFORM: https://www.archinform.net/projekte/9181.htm
     wikidata ids: freebase id=/m/0h64r4v; archinform project id=9181; lex id=Can_Lis
 
 056 Castelvecchio Museum
+    Official website: http://museodicastelvecchio.comune.verona.it
+    Map: https://www.openstreetmap.org/?mlat=45.44000&mlon=10.98778#map=17/45.44000/10.98778
     archINFORM: https://www.archinform.net/projekte/645.htm
+    ArchDaily: https://www.archdaily.com/1182688/ad-classics-castelvecchio-museum-restoration-carlo-scarpa
     wikidata ids: freebase id=/m/0b0qlp; isni=0000000121810940; ringgold id=18182; athenaeum museum id=2366; archinform project id=645; carthalia id=2530; share catalogue author id=216402; dbunico mibact id=101151; wiki loves monuments id=05L7810028; library of congress authorities id=n82028296; viaf cluster id=123837618; atlas obscura place id=castelvecchio-museum; j9u entity id=987007265762305171; openstreetmap node id=3210974287; thesaurus linguae aegyptiae id=G4JJQJFTHNF4VLPR2W6TEZO6P4; ‎yale lux id=group/b5e01347-486c-4021-89bb-aa7f6cb15b01; ‎hand id=7282-2C51-78FD-6B63-706C
 
 057 Brion Cemetery
+    Map: https://www.openstreetmap.org/?mlat=45.75132&mlon=11.91334#map=17/45.75132/11.91334
     archINFORM: https://www.archinform.net/projekte/639.htm
     wikidata ids: freebase id=/m/0c17g6; archinform project id=639; find a grave cemetery id=2183656; fondoambiente.it id=memoriale-brion; openstreetmap node id=2962562096; viaf cluster id=301369331; idref id=198211392; bibliothèque nationale de france id=166852024; library of congress authorities id=n80019765; fast id=541412; j9u entity id=987007449167905171; wiki loves monuments id=05A2370009; ‎yale lux id=group/2cd5fe51-ce90-43ad-b8ad-d90f04a4a28a; #sosbrutalism id=15891949; atlas obscura place id=brion-tomb; gnd id=4226059-0
 
 058 Therme Vals
+    Official website: http://www.therme-vals.ch/en/
+    Map: https://www.openstreetmap.org/?mlat=46.62200&mlon=9.18100#map=17/46.62200/9.18100
     archINFORM: https://www.archinform.net/projekte/2555.htm
+    ArchDaily: https://www.archdaily.com/13358/the-therme-vals
+    Divisare: https://divisare.com/projects/273885-peter-zumthor-helene-binet-therme-vals
     wikidata ids: freebase id=/m/0gkssz; encyclopædia britannica online id=place/Therme-Vals; archinform project id=2555; viaf cluster id=88144647639442203511; pss-archi id=CH-3603-36845
 
 059 Bruder Klaus Field Chapel
+    ArchDaily: https://www.archdaily.com/37921/field-chapel-in-boedigheim-students-of-the-college-of-architecture-at-the-illinois-institute-of-technology-ecker-architekten
+    WikiArquitectura: https://en.wikiarquitectura.com/building/bruder-klaus-field-chapel/
+    Divisare: https://divisare.com/projects/328515-peter-zumthor-aldo-amoretti-bruder-klaus-field-chapel
 
 060 Kolumba Museum
+    Official website: http://www.kolumba.de/
+    Map: https://www.openstreetmap.org/?mlat=50.93842&mlon=6.95428#map=17/50.93842/6.95428
+    ArchDaily: https://www.archdaily.com/72192/kolumba-musuem-peter-zumthor
+    Divisare: https://divisare.com/projects/273884-peter-zumthor-helene-binet-kolumba-diocesan-museum
     wikidata ids: gnd id=2044624-X; freebase id=/m/0g5pn78; x (twitter) username=Kolumba_Museum; sotheby's museum network id=kolumba-kunstmuseum; library of congress authorities id=n2006055047; viaf cluster id=154257346; pontificia università della santa croce id=125219; isil=DE-MUS-078117; bibsys id=90641868; bibliothèque nationale de france id=12294051h; isni=0000000121892245; j9u entity id=987007605087805171; union list of artist names id=500305240; nukat id=n2004058173; national library of poland mms id=9811283491105606; rero id (legacy)=A008818677; idref id=174730063; vatican library vcba id=494/69349; nacsis-cat author id=DA1036504X; nl cr aut id=ko2004233467; libraries australia id=35179282; cinii research id=1140845216796971392; idai.gazetteer id=2090280; arachne entity id=1205038; kalliope-verbund (gnd) id=2044624-X; ‎yale lux id=group/9f4c4ab6-30d1-4bec-9674-4974db2cd1fe; fes digital collections entity id=429516
 
 061 Ningbo History Museum
+    Official website: http://www.nbmuseum.cn/
+    Map: https://www.openstreetmap.org/?mlat=29.81739&mlon=121.54122#map=17/29.81739/121.54122
     wikidata ids: freebase id=/m/0j42mj_; encyclopædia britannica online id=place/Ningbo-History-Museum; openstreetmap way id=251731104
 
 062 Quinta Monroy
+    Map: https://www.openstreetmap.org/?mlat=-20.22679&mlon=-70.13617#map=17/-20.22679/-70.13617
+    ArchDaily: https://www.archdaily.com/10775/quinta-monroy-elemental
+    Divisare: https://divisare.com/projects/109887-elemental-alejandro-aravena-cristobal-palma-estudio-palma-quinta-monroy
     wikidata ids: google knowledge graph id=/g/11h1t_v6g
 
 063 Row House in Sumiyoshi
+    Map: https://www.openstreetmap.org/?mlat=34.61052&mlon=135.49229#map=17/34.61052/135.49229
     archINFORM: https://www.archinform.net/projekte/2918.htm
     wikidata ids: freebase id=/m/0gttlg1; archinform project id=2918; #sosbrutalism id=15889491
 
 064 Church of the Light
+    Official website: http://ibaraki-kasugaoka-church.jp/index.html
+    Map: https://www.openstreetmap.org/?mlat=34.81861&mlon=135.53694#map=17/34.81861/135.53694
     archINFORM: https://www.archinform.net/projekte/2911.htm
+    ArchDaily: https://www.archdaily.com/101260/ad-classics-church-of-the-light-tadao-ando
     wikidata ids: freebase id=/m/0h0m7c; archinform project id=2911; encyclopædia britannica online id=place/Church-of-Light; art in the christian tradition id=55848; museum of modern art work id=340; openstreetmap way id=597276853
 
 065 Sendai Mediatheque
+    Official website: https://www.smt.jp/
+    Map: https://www.openstreetmap.org/?mlat=38.26556&mlon=140.86556#map=17/38.26556/140.86556
     archINFORM: https://www.archinform.net/projekte/7349.htm
     Structurae: https://structurae.net/structures/20018558
+    ArchDaily: https://www.archdaily.com/118627/ad-classics-sendai-mediatheque-toyo-ito-and-associates-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/sendai-mediatheque/
+    Divisare: https://divisare.com/projects/322293-toyo-ito-associates-rasmus-hjortshoj-coast-sendai-mediatheque
     wikidata ids: freebase id=/m/0gg5dvq; viaf cluster id=131819028; archinform project id=7349; nl cr aut id=xx0210326; japan search name id=せんだいメディアテーク; encyclopædia britannica online id=topic/Sendai-Mediatheque; idref id=093971737; structurae structure id=20018558; university of barcelona authority id=981058614741906706; cantic id=981058614741906706; isil=JP-1005387; library of congress authorities id=nr2002030210; hkcan id=9811114087703406; ‎yale lux id=group/e6561559-a1e2-4f4a-b8fc-74dd2d566b6c; ndl authority id=00840169; cinii research id=1981712334689491640; nacsis-cat author id=DA17229946; j9u entity id=987013961700105171
 
 066 21st Century Museum of Contemporary Art, Kanazawa
+    Official website: https://www.kanazawa21.jp/
+    Map: https://www.openstreetmap.org/?mlat=36.56080&mlon=136.65800#map=17/36.56080/136.65800
     archINFORM: https://www.archinform.net/projekte/9351.htm
+    WikiArquitectura: https://en.wikiarquitectura.com/building/21st-century-museum-contemprary-art-kanazawa/
+    Divisare: https://divisare.com/projects/322209-sanaa-kazuyo-sejima-ryue-nishizawa-rasmus-hjortshoj-coast-21st-century-museum
     wikidata ids: freebase id=/m/09g7j62; isni=0000000107033612; viaf cluster id=148744235; idref id=19025727X; gnd id=5567996-1; ndl authority id=01010332; library of congress authorities id=nr2005027869; nacsis-cat author id=DA15132027; encyclopædia britannica online id=place/21st-Century-Museum-of-Contemporary-Art-Kanazawa; archinform project id=9351; japan search name id=金沢21世紀美術館; ringgold id=92013; x (twitter) username=Kanazawa_21; facebook username=kanazawa21; youtube channel id=UCUK_3Or4NF5sd1DlpoYOtcA; tripadvisor id=1439759; hkcan id=9811113729803406; bibsys id=10043367; wolfram language entity code=Entity["Museum", "21stCenturyMuseumOfContemporaryArt::jr7h7"]; instagram username=21_kanazawa; flanders arts institute organisation id (former scheme)=381472; instagram location id=378918127; cinii research id=1140282266553038976; isil=JP-2001918; musicbrainz place id=82a763d0-34b3-421f-b42f-5eba0cbc4f18; encyclopedia of china (third edition) old id (2021)=556077; openstreetmap way id=197980653; j9u entity id=987007431561005171; kunstenpunt knowledge graph id=Q157732; ‎yale lux id=group/fde7d81b-52ca-4a88-ba68-d85f6b8a28ec; youtube handle=21stcenturymuseumofcontemp51; threads username=21_kanazawa; ‎japan location database id=170100055; fast id=1628008; canadiana name authority id=ncf11115178; encyclopedia of china (third edition) id (2026)=3mlvXn
 
 067 Moriyama House
+    Divisare: https://divisare.com/projects/342292-sanaa-kazuyo-sejima-ryue-nishizawa-jeroen-verrecht-moriyama-house
     wikidata ids: mubi film numeric id=186511
 
 068 KAIT Workshop
+    Divisare: https://divisare.com/projects/322287-junya-ishigami-associates-rasmus-hjortshoj-coast-kait-workshop
 
 069 Teshima Art Museum
+    Official website: https://benesse-artsite.jp/en/art/teshima-artmuseum.html
+    Map: https://www.openstreetmap.org/?mlat=34.48984&mlon=134.09031#map=17/34.48984/134.09031
     archINFORM: https://www.archinform.net/projekte/44256.htm
+    ArchDaily: https://www.archdaily.com/151535/teshima-art-museum
+    Divisare: https://divisare.com/projects/244725-ryue-nishizawa-teshima-art-museum
     wikidata ids: library of congress authorities id=n2018051314; viaf cluster id=260668767; ndl authority id=01228216; tripadvisor id=1936007; freebase id=/m/0t_dfks; openstreetmap node id=1844349941; archinform project id=44256; gnd id=133634654X; worldcat entities id=E39QH7JmqGWpMbmWh778yPQRWt
 
 070 House NA
+    ArchDaily: https://www.archdaily.com/793967/house-in-a-house-plural
+    WikiArquitectura: https://en.wikiarquitectura.com/building/donaldson-house/
+    Divisare: https://divisare.com/projects/260205-manuel-aires-mateus-juan-rodriguez-house-in-fontinha-melides-portugal
 
 071 Centre Pompidou
+    Official website: https://centrepompidou.fr
+    Map: https://www.openstreetmap.org/?mlat=48.86064&mlon=2.35224#map=17/48.86064/2.35224
     Structurae: https://structurae.net/structures/20000148
     archINFORM: https://www.archinform.net/projekte/2659.htm
+    ArchDaily: https://www.archdaily.com/64028/ad-classics-centre-georges-pompidou-renzo-piano-richard-rogers
+    Divisare: https://divisare.com/projects/328127-rpbw-rogers-stirk-harbour-partners-fritz-brunier-david-hiepler-hiepler-brunier-centre-georges-pompidou
     wikidata ids: gnd id=1038030-9; freebase id=/m/0f32p; bibliothèque nationale de france id=11874536g; idref id=027229769; musicbrainz place id=6c949a9f-a2a9-4824-a44f-67a80651f078; geonames id=6269530; union list of artist names id=500271088; x (twitter) username=CentrePompidou; facebook username=centrepompidou.fr; gran enciclopèdia catalana id (former scheme)=0016971; structurae structure id=20000148; library of congress authorities id=n80126139; libraries australia id=35026900; vatican library id (former scheme)=ADV10309701; nl cr aut id=ko2003204757; national library of spain spmabn id=XX132041; nukat id=n96101638; national library of portugal id=90012; ndl authority id=00927966; pss-archi id=FR-75056-216; emporis building id=110380; selibr id=266493; national library of greece id=266264; cultureel woordenboek id=bouwkunde/centre-pompidou; data.gouv.fr organisation id=534fff5fa3a7292c64a77d44; photographers' identities catalog id=327344; itaú cultural id=instituicao2027/centre-georges-pompidou-paris-franca; encyclopædia britannica online id=topic/Pompidou-Centre; encyclopædia universalis id=centre-national-d-art-et-de-culture-georges-pompidou; minneapolis institute of art constituent id=10197; compart institution id=196; archinform project id=2659; isni=0000000121947533; share catalogue author id=215505; youtube channel id=UCMmB6sRDf_aka92CTX--Trw; viaf cluster id=159020814; ne.se id=centre-pompidou; babelio author id=34241; athenaeum museum id=27; le delarge artist id=64_artiste_CENTRE_GEORGES_POMPIDOU; sotheby's museum network id=centre-pompidou; jorfsearch organization id=Q178065; grid id=grid.503095.a; ringgold id=55675; ror id=05e357p42; great russian encyclopedia online id (2017)=2253644; eu participant identification code=918141473; songkick venue id=1074396; rkd thesaurus id=89927; atlas obscura place id=centre-pompidou; philadelphia museum of art entity id=26008; hrvatska enciklopedija id=11230; libris-uri=khwz2z630w54phr; instagram username=centrepompidou; linkedin company or organization id=centre-pompidou; proveana id=act10002721; spap id=a/c5453ad6-48f0-41f9-b20c-be9dd6f79674; cantic id=981058511677206706; j9u entity id=987007259523505171; japan search name id=ポンピドゥ・センター; musicbrainz label id=25a01813-2f56-454e-9d5e-444a7df73de3; golden id (archived)=Centre_Georges_Pompidou-6A5Y6; yle topic id=18-98358; online pwn encyclopedia id=3945844; university of barcelona authority id=981058511677206706; great russian encyclopedia portal id=tsentr-pompidu-a60ce7; radio france person id=centre-pompidou; routard.com place id=3760; openstreetmap way id=55503397; larousse id=divers/Centre_national_dart_et_de_culture_Georges-Pompidou/112349; nsk (viaf) id=000367500; national library of poland mms id=9810585097505606; rero id (legacy)=A000032385; national library of iceland id=000098347; gran enciclopèdia catalana id=centre-national-dart-et-de-culture-georges-pompidou; siret number=18004602100028; iconoteca dell'accademia di architettura id=4902; vikidia article id=fr:Centre_national_d'art_et_de_culture_Georges-Pompidou; j. paul getty museum agent id=group/104RKA; kalliope-verbund (gnd) id=1038030-9; skyscraperpage building id=24496; ‎yale lux id=place/0428aa55-3c54-424d-aa1b-e45003e79f90; babelio subject id=116838; vatican library vcba id=494/10473; national library of brazil id=000206959; canadiana name authority id=ncf10148481; elmcip id=1206; ‎scilit organization id=92781; nsk id=981005794266309366; wolfram language entity code=Entity["Building", "CentreGeorgesPompidou::th82v"]; tabakalera id=47568; francearchives agent id=280546914; harper's tag=centre-georges-pompidou-paris-france
 
 072 Lloyd's Building
+    Official website: http://www.lloyds.com
+    Map: https://www.openstreetmap.org/?mlat=51.51306&mlon=-0.08250#map=17/51.51306/-0.08250
     Structurae: https://structurae.net/structures/20000299
     archINFORM: https://www.archinform.net/projekte/2731.htm
+    ArchDaily: https://www.archdaily.com/90668/ad-classics-lloyds-of-london-building-richard-rogers
+    Divisare: https://divisare.com/projects/367752-rogers-stirk-harbour-partners-gili-merin-lloyd-s-of-london
     wikidata ids: freebase id=/m/02g8cq; national heritage list for england number=1405493; emporis building id=110694; structurae structure id=20000299; ctbuh skyscraper center building id=9575; archinform project id=2731; viaf cluster id=169320666; microsoft academic id (discontinued)=2910528568; british listed buildings id=101405493; domain name=lloyds.com; skyscraperpage building id=5586; wolfram language entity code=Entity["Building", "LloydsBuilding::f3zr8"]; gnd id=1336153911
 
 073 HSBC Main Building
+    Map: https://www.openstreetmap.org/?mlat=22.28027&mlon=114.15953#map=17/22.28027/114.15953
     Structurae: https://structurae.net/structures/20000037
     archINFORM: https://www.archinform.net/projekte/2352.htm
     wikidata ids: structurae structure id=20000037; freebase id=/m/022z_1; geonames id=7733354; emporis building id=121011; ctbuh skyscraper center building id=2408; archinform project id=2352; atlas obscura place id=hsbc-building-feng-shui-cannons; wikikids id=HSBC_Building_Hongkong; wolfram language entity code=Entity["Building", "HSBCMainBuilding::wrqx8"]; gnd id=1336153156
 
 074 Vitra Fire Station
+    Map: https://www.openstreetmap.org/?mlat=47.60036&mlon=7.61463#map=17/47.60036/7.61463
     archINFORM: https://www.archinform.net/projekte/3154.htm
     Structurae: https://structurae.net/structures/20043566
+    ArchDaily: https://www.archdaily.com/785760/ad-classics-vitra-fire-station-zaha-hadid-weil-am-rhein-germany
+    WikiArquitectura: https://en.wikiarquitectura.com/building/vitra-fire-station/
+    Divisare: https://divisare.com/projects/288355-patrik-schumacher-zha-helene-binet-christian-richters-vitra-fire-station
     wikidata ids: google knowledge graph id=/g/11b_2wqv4b; archinform project id=3154; encyclopædia britannica online id=topic/Vitra-Fire-Station; viaf cluster id=316596074; structurae structure id=20043566; gnd id=1336153725
 
 075 Guggenheim Bilbao
+    Official website: https://www.guggenheim-bilbao.eus/
+    Map: https://www.openstreetmap.org/?mlat=43.26883&mlon=-2.93410#map=17/43.26883/-2.93410
     Structurae: https://structurae.net/structures/20001746
     archINFORM: https://www.archinform.net/projekte/6296.htm
+    ArchDaily: https://www.archdaily.com/422470/ad-classics-the-guggenheim-museum-bilbao-frank-gehry
+    WikiArquitectura: https://en.wikiarquitectura.com/building/guggenheim-bilbao/
+    Divisare: https://divisare.com/projects/304078-frank-gehry-guggenheim-museum-bilbao
     wikidata ids: gnd id=5210044-3; freebase id=/m/0m86f; musicbrainz place id=bbaa0873-3afc-42f7-b336-e7efbfda34ee; geonames id=6452771; structurae structure id=20001746; gran enciclopèdia catalana id (former scheme)=0244165; encyclopædia britannica online id=topic/Guggenheim-Museum-Bilbao; instagram username=museoguggenheim; x (twitter) username=MuseoGuggenheim; quora topic id=Guggenheim-Museum; ringgold id=223368; nukat id=n02011059; union list of artist names id=500304557; national library of latvia id=000022205; selibr id=357018; bibsys id=99006876; national library of spain spmabn id=XX114466; library of congress authorities id=n95006602; national library of israel id (old)=000096579; athenaeum museum id=2885; facebook username=guggenheimbilbaomuseo; archinform project id=6296; isni=0000000417758168; idref id=052502554; bibliothèque nationale de france id=135589733; viaf cluster id=128744734; sotheby's museum network id=guggenheim-bilbao; google arts & culture partner id=guggenheim-bilbao; pacific coast architecture database building id=475; songkick venue id=465816; libris-uri=20dhps8l1ptgm5h; j9u entity id=987007265610705171; dialnet author id=2423026; bvmc organization id=82725; great norwegian encyclopedia id=Guggenheim_Museum_Bilbao; cantic id=981058511903306706; university of barcelona authority id=981058511903306706; bbc things id=06cafe2c-1ddd-4e25-8e4c-62e2a43381e1; encyclopedia of china (third edition) old id (2021)=553811; openstreetmap way id=118499485; gran enciclopèdia catalana id=guggenheim-bilbao-museoa; directorio de museos y colecciones de españa id=1476; vikidia article id=fr:Musée_Guggenheim_de_Bilbao; nl cr aut id=ko20241234015; j. paul getty museum agent id=group/1054MN; kalliope-verbund (gnd) id=5210044-3; kulturenvanteri monument id=323705; ‎yale lux id=group/63ff8b81-7067-40c2-acd0-b876ce8ba41e; tabakalera id=52726; artic artist id=88685; wolfram language entity code=Entity["Building", "GuggenheimBilbaoMuseoa::3cy82"]; eu vat number=ESB66045345; encyclopedia of china (third edition) id (2026)=2umGc1
 
 076 Tate Modern
+    Official website: http://www.tate.org.uk/modern
+    Map: https://www.openstreetmap.org/?mlat=51.50778&mlon=-0.09944#map=17/51.50778/-0.09944
     archINFORM: https://www.archinform.net/projekte/3867.htm
+    ArchDaily: https://www.archdaily.com/788076/tate-modern-switch-house-herzog-and-de-meuron
+    WikiArquitectura: https://en.wikiarquitectura.com/building/tate-modern/
+    Divisare: https://divisare.com/projects/316291-herzog-de-meuron-iwan-baan-luc-boegly-sergio-grazia-radu-malasincu-the-new-tate-modern
     wikidata ids: gnd id=5514913-3; library of congress authorities id=nr00020575; viaf cluster id=158340263; freebase id=/m/07nb5; bibliothèque nationale de france id=135582150; encyclopædia britannica online id=topic/Tate-Modern; quora topic id=Tate-Modern; babelnet id=02463500n; encyclopædia universalis id=tate-modern-londres; ndl authority id=00924591; isni=0000000123755359; x (twitter) username=tate; idref id=055317065; sotheby's museum network id=tate-modern; gran enciclopèdia catalana id (former scheme)=0262853; union list of artist names id=500266826; google arts & culture partner id=tate-modern; microsoft academic id (discontinued)=1311327854; tripadvisor id=187677; songkick venue id=113187; libris-uri=sq46949b45mf1bj; uk parliament thesaurus id=82558; ringgold id=145308; cantic id=981058521381306706; j9u entity id=987007312163405171; lex id=Tate_Modern; nla trove people id=1458520; great norwegian encyclopedia id=Tate_Modern; kallías id=KS00031398; bibsys id=1042204; national library of brazil id=000397291; national library of spain spmabn id=XX4592170; canadiana name authority id=ncf12087238; national library of lithuania id=LNB:C5YO;=BM; national library of latvia id=000069279; national library of ireland id=vtls002416894; nl cr aut id=ko2007248426; libraries australia id=42891327; nukat id=n2005038264; national library of poland mms id=9810585021105606; rero id (legacy)=A012598792; mapping museums id=mm.ace.1136; yle topic id=18-127713; university of barcelona authority id=981058521381306706; bbc things id=4863818c-e613-45c4-b979-d1b93e7d0bd1; bbc news topic id=c152ne5qpvnt; openstreetmap way id=24642569; archinform project id=3867; gran enciclopèdia catalana id=tate-modern-gallery; vikidia article id=fr:Tate_Modern; apple maps "auid" identifier=6705630511945253121; museum data service museum id=Q193375; kalliope-verbund (gnd) id=5514913-3; ávvir topic id=tate-modern; skyscraperpage building id=5461; ‎yale lux id=group/17045624-488c-4e4d-a16e-98afd90dc555; the guardian topic id=artanddesign/tate-modern; dialnet author id=4467653; eu vat number=GB674945388; tabakalera id=114199
 
 077 Jewish Museum Berlin
+    Official website: https://www.jmberlin.de/
+    Map: https://www.openstreetmap.org/?mlat=52.50231&mlon=13.39545#map=17/52.50231/13.39545
     archINFORM: https://www.archinform.net/projekte/709.htm
     Structurae: https://structurae.net/structures/20009601
+    ArchDaily: https://www.archdaily.com/91273/ad-classics-jewish-museum-berlin-daniel-libeskind
+    Divisare: https://divisare.com/projects/120551-daniel-libeskind-michele-nastasi-berlin-jewish-museum
     wikidata ids: gnd id=5252342-1; freebase id=/m/02s49b; geonames id=6944075; viaf cluster id=131503560; bibliothèque nationale de france id=124662309; idref id=034244255; instagram username=jmberlin.de; x (twitter) username=jmberlin; isni=0000000119412732; isil=DE-MUS-975919; ark name assigning authority number=10261; encyclopædia britannica online id=topic/Jewish-Museum-Berlin; google arts & culture partner id=jewish-museum-berlin; grid id=grid.461722.4; instagram location id=1273011; archinform project id=709; nl cr aut id=kn20021113004; microsoft academic id (discontinued)=2801875606; ror id=01kp9rn35; structurae structure id=20009601; gran enciclopèdia catalana id (former scheme)=0282093; ringgold id=163128; quora topic id=Jüdisches-Museum-Berlin; setlist.fm venue id=1bd7fda0; great norwegian encyclopedia id=Jüdisches_Museum_Berlin; national library of portugal id=1172751; proveana id=act10004120; bibsys id=90881467; canadiana name authority id=ncf12086780; union list of artist names id=500277987; library of congress authorities id=n94053898; national library of lithuania id=LNB:eAm;=Bj; rero id (legacy)=A005458509; rism id=institutions/51003740; j9u entity id=987007263454805171; national library of latvia id=000067878; nukat id=n2005032959; national library of poland mms id=9810565272105606; libris-uri=rp36fbz9488sbzj; cantic id=981058510144506706; lex id=Jødisk_Museum_Berlin; university of barcelona authority id=981058510144506706; openstreetmap way id=24649550; ddb item id=4A757ENGAUSSJNGVFN5FHSZFNESEZSQA; facebook username=jmberlin; youtube channel id=UChbqUZJuk_GE_2k41iylPPQ; gran enciclopèdia catalana id=judisches-museum-berlin; museum-digital person/organization id=41435; jewish museum berlin person id=jmb-pers-158968; ddb institution id=4A757ENGAUSSJNGVFN5FHSZFNESEZSQA; factgrid item id=Q957692; kalliope-verbund (gnd) id=5252342-1; yle topic id=18-140902; ‎yale lux id=group/bcff343d-d474-4a5a-bc85-11fcac5686e4; youtube handle=jmberlintube; ‎scilit organization id=52335; wellcome collection concept id=sybrh3s8; ehri institution id=de-002433
 
 078 Seattle Central Library
+    Official website: https://www.spl.org/hours-and-locations/central-library
+    Map: https://www.openstreetmap.org/?mlat=47.60610&mlon=-122.33300#map=17/47.60610/-122.33300
     archINFORM: https://www.archinform.net/projekte/13534.htm
+    ArchDaily: https://www.archdaily.com/11651/seattle-central-library-oma-lmn
+    Divisare: https://divisare.com/projects/16873-oma-gili-merin-seattle-central-library
     wikidata ids: freebase id=/m/030xr8; geonames id=7200219; foursquare city guide venue id=42a78680f964a52011251fe3; viaf cluster id=140923157; bibsys id=6082543; library of congress authorities id=n2004010742; national library of israel id (old)=004074731; archinform project id=13534; j9u entity id=987007443719205171; historylink essay number=4303; skyscraperpage building id=8791; ‎yale lux id=group/efb82f3f-5e19-4803-b1e0-1d801d8fb024; wolfram language entity code=Entity["Building", "SeattleCentralLibrary::2228t"]; libraries.org id=1758; openstreetmap way id=37056442; gnd id=1046714880
 
 079 Casa da Música
+    Official website: https://www.casadamusica.com/
+    Map: https://www.openstreetmap.org/?mlat=41.15889&mlon=-8.63071#map=17/41.15889/-8.63071
     archINFORM: https://www.archinform.net/projekte/9084.htm
     Structurae: https://structurae.net/structures/20030301
+    ArchDaily: https://www.archdaily.com/619294/casa-da-musica-oma
+    WikiArquitectura: https://en.wikiarquitectura.com/building/casa-da-musica-in-porto/
+    Divisare: https://divisare.com/projects/16869-oma-philippe-ruault-casa-da-musica
     wikidata ids: freebase id=/m/05vpxp; gnd id=7500716-2; viaf cluster id=130738287; cooper hewitt person id=18065107; quora topic id=Casa-Da-Música; dgpc id=5894463; sipa id=21031; babelnet id=01011929n; archinform project id=9084; musicbrainz place id=108c0677-51ab-4c70-a589-76dc469aef74; library of congress authorities id=nb2016024664; wiki loves monuments id=DGPC-5894463; carthalia id=7894; setlist.fm venue id=3bd67cac; structurae structure id=20030301; openstreetmap way id=603359226; wikimapia id=5272; ror id=05775sm20; ‎yale lux id=place/8c531cde-0d03-4e36-be37-07c67c3258f8; ‎scilit organization id=115471; eu vat number=PT507636295; ‎hand id=7D97-6AEA-1E86-2217-DFE8
 
 080 Beijing National Stadium
+    Official website: http://www.n-s.cn/en/
+    Map: https://www.openstreetmap.org/?mlat=39.99154&mlon=116.39048#map=17/39.99154/116.39048
     Structurae: https://structurae.net/structures/20013675
     archINFORM: https://www.archinform.net/projekte/12579.htm
+    ArchDaily: https://www.archdaily.com/234031/warsaw-national-stadium-gmp-architekten
     wikidata ids: freebase id=/m/05y3q4; geonames id=6695794; structurae structure id=20013675; quora topic id=Beijing-National-Stadium; archinform project id=12579; stadiumdb id=chn/beijing_national_stadium; viaf cluster id=316597577; setlist.fm venue id=73d63205; encyclopedia of china (third edition) old id (2021)=23764; encyclopedia of china (third edition) id (2026)=28383G; gnd id=7626867-6
 
 081 Oslo Opera House
+    Official website: https://www.operaen.no/
+    Map: https://www.openstreetmap.org/?mlat=59.90694&mlon=10.75361#map=17/59.90694/10.75361
     archINFORM: https://www.archinform.net/projekte/7245.htm
     Structurae: https://structurae.net/structures/20011436
+    ArchDaily: https://www.archdaily.com/440/oslo-opera-house-snohetta
+    WikiArquitectura: https://en.wikiarquitectura.com/building/oslo-opera-house/
     wikidata ids: kulturminne id=158591; freebase id=/m/02vtcxp; musicbrainz place id=d12ebe8b-615b-45d9-af0f-dedafa6c0683; geonames id=6692407; archinform project id=7245; carthalia id=528; wolfram language entity code=Entity["Building", "OsloOperaHouse::974hn"]; gnd id=7674881-9; viaf cluster id=4145244333174481339; euta theatre id=425; atlas obscura place id=oslo-opera-house; spap id=o/d780d233-a001-4936-861d-1ead75481190; museum of modern art work id=150211; structurae structure id=20011436; nl cr aut id=kn20031113017; great norwegian encyclopedia id=Operahuset_i_Bjørvika; hikr waypoint id=238; skyscraperpage building id=93338
 
 082 8 House
+    Official website: http://www.8tallet.dk/
+    Map: https://www.openstreetmap.org/?mlat=55.61743&mlon=12.57179#map=17/55.61743/12.57179
+    Divisare: https://divisare.com/projects/143454-big-bjarke-ingels-group-julien-lanoo-8-house
     wikidata ids: freebase id=/m/0n5wl69; openstreetmap relation id=910959
 
 083 CCTV Headquarters
+    Map: https://www.openstreetmap.org/?mlat=39.91384&mlon=116.45798#map=17/39.91384/116.45798
     archINFORM: https://www.archinform.net/projekte/19629.htm
     Structurae: https://structurae.net/structures/20013674
+    ArchDaily: https://www.archdaily.com/236175/cctv-headquarters-oma
+    WikiArquitectura: https://en.wikiarquitectura.com/building/cctv-headquarters/
+    Divisare: https://divisare.com/projects/16857-oma-julien-lanoo-cctv-station-and-headquarters
     wikidata ids: freebase id=/m/0cw7ww; ctbuh skyscraper center building id=1068; archinform project id=19629; structurae structure id=20013674; wolfram language entity code=Entity["Building", "ChinaCentralTelevisionHeadquarters::3mtwz"]; emporis building id=172398; skyscraperpage building id=8094; museum of modern art work id=91577; fandom article id=zh.securebroadcast:中央电视台总部大楼; encyclopædia britannica online id=place/China-Central-Television-Building
 
 084 Elbphilharmonie
+    Official website: https://www.elbphilharmonie.de/
+    Map: https://www.openstreetmap.org/?mlat=53.54142&mlon=9.98419#map=17/53.54142/9.98419
     Structurae: https://structurae.net/structures/20019907
     archINFORM: https://www.archinform.net/projekte/24694.htm
+    ArchDaily: https://www.archdaily.com/802093/elbphilharmonie-hamburg-herzog-and-de-meuron
+    Divisare: https://divisare.com/projects/179234-herzog-de-meuron-iwan-baan-jose-campos-oliver-heissner-mi-chenxing-elbphilharmonie
     wikidata ids: emporis building id=190178; freebase id=/m/05pcn0v; gnd id=7554320-5; viaf cluster id=248310810; library of congress authorities id=sh2007004047; ctbuh skyscraper center building id=9293; musicbrainz place id=8da8cd3d-6162-4714-ad96-6d7c276f4f8a; x (twitter) username=elbphilharmonie; structurae structure id=20019907; facebook username=elbphilharmonie.hamburg; archinform project id=24694; carthalia id=1869; instagram username=elbphilharmonie; flanders arts institute venue id (former scheme)=140651; j9u entity id=987007287138005171; der spiegel topic id=elbphilharmonie; google arts & culture partner id=elbphilharmonie; google maps customer id=1341792717893698397; idref id=204097045; skyscraperpage building id=28777; kunstenpunt knowledge graph id=Q184487; hikr waypoint id=114912; ‎yale lux id=group/a0b5a506-dc4a-4dc3-9146-f8194b81ca5a; fast id=1680846; openstreetmap relation id=16348025
 
 085 Louvre Abu Dhabi
+    Official website: https://www.louvreabudhabi.ae/
+    Map: https://www.openstreetmap.org/?mlat=24.53300&mlon=54.40001#map=17/24.53300/54.40001
     Structurae: https://structurae.net/structures/20031025
+    ArchDaily: https://www.archdaily.com/793182/in-progress-louvre-abu-dhabi-jean-nouvel
+    Divisare: https://divisare.com/projects/371170-ateliers-jean-nouvel-roland-halbe-marc-domage-louvre-abu-dhabi
     wikidata ids: freebase id=/m/03cd2_w; x (twitter) username=LouvreAbuDhabi; facebook username=LouvreAbuDhabi; instagram username=louvreabudhabi; youtube channel id=UCCkLcDuvikAAmwN7G7MKjXw; google maps customer id=4762873243859500537; tripadvisor id=12927120; instagram location id=384454378305606; library of congress authorities id=nb2014017316; structurae structure id=20031025; sotheby's museum network id=louvre-abu-dhabi; viaf cluster id=305230521; setlist.fm venue id=2bd26c6a; kbpedia id=LouvreAbuDhabi; nl cr aut id=osa20211126565; j9u entity id=987007395811705171; geonames id=11777660; openstreetmap way id=498046180; wikimapia id=15691944; kisti id=K000343768; ror id=00t5ccq33; ‎yale lux id=group/045d4774-bcd1-407c-8341-d0063a6fc2fa; app store app id=1300130209; app store developer id=721678557; google play store app id=com.nous.ladguide.prod; ‎scilit organization id=110431; wolfram language entity code=Entity["Building", "LouvreAbuDhabi::chr63"]; biblissima authority id=Q267591; gnd id=1177311852
 
 086 MAXXI
+    Official website: http://www.fondazionemaxxi.it
+    Map: https://www.openstreetmap.org/?mlat=41.92807&mlon=12.46648#map=17/41.92807/12.46648
     Structurae: https://structurae.net/structures/20017182
     archINFORM: https://www.archinform.net/projekte/16370.htm
+    ArchDaily: https://www.archdaily.com/43822/maxxi-museum-zaha-hadid-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/maxxi-national-museum-of-xxi-century-arts-in-rome/
     wikidata ids: freebase id=/m/09gjjsy; geonames id=7667759; structurae structure id=20017182; x (twitter) username=Museo_MAXXI; encyclopædia britannica online id=place/MAXXI; babelnet id=15261992n; isni=0000000121592381; archinform project id=16370; dbunico mibact id=20361; sotheby's museum network id=maxxi-museo-nazionale-delle-arti-del-xxi-secolo; grid id=grid.500540.4; library of congress authorities id=nr2004028923; ror id=02c74qd93; ringgold id=424662; viaf cluster id=131794055; gnd id=10070606-X; songkick venue id=3917009; j9u entity id=987007461886605171; sbn author id=VEAV063260; google arts & culture partner id=maxxi-museo-nazionale-delle-arti-del-xxi-secolo; bibsys id=11041349; national library of brazil id=001463142; cantic id=981058524738206706; bibliothèque nationale de france id=15578321w; canadiana name authority id=ncf11132836; union list of artist names id=500290198; national library of ireland id=vtls000332360; nacsis-cat author id=DA18741917; nsk (viaf) id=000692592; nukat id=n2010036804; national library of poland mms id=9810672667605606; rero id (legacy)=A018944806; idref id=081194382; flanders arts institute organisation id (former scheme)=386723; cinii research id=1140845216629541504; university of barcelona authority id=981058524738206706; lex id=MAXXI; share catalogue author id=568899; openstreetmap relation id=8748353; kunstenpunt knowledge graph id=Q171404; wiki loves monuments id=12H5010899; bhmpi object id=08111523; kulturenvanteri monument id=342851; artist-info location id=18626; ‎yale lux id=group/cda27ece-2a78-4dae-a3f1-bed181ac7768; ‎scilit organization id=90301; nsk id=981005658121009366; tabakalera id=117999; ‎hand id=C90C-58BF-2D60-D808-75DE
 
 087 Metropol Parasol
+    Official website: http://setasdesevilla.com
+    Map: https://www.openstreetmap.org/?mlat=37.39325&mlon=-5.99188#map=17/37.39325/-5.99188
     Structurae: https://structurae.net/structures/20058376
     archINFORM: https://www.archinform.net/projekte/30882.htm
+    WikiArquitectura: https://en.wikiarquitectura.com/building/metropol-parasol/
+    Divisare: https://divisare.com/projects/166459-j-mayer-h-arup-hufton-crow-metropol-parasol
     wikidata ids: freebase id=/m/0h3nzb2; geonames id=7602989; structurae structure id=20058376; archinform project id=30882; atlas obscura place id=metropol-parasol; openstreetmap way id=138602581; skyscraperpage building id=99676; wolfram language entity code=Entity["Building", "MetropolParasol::9755b"]
 
 088 Heydar Aliyev Center
+    Official website: http://heydaraliyevcenter.az/
+    Map: https://www.openstreetmap.org/?mlat=40.39528&mlon=49.86694#map=17/40.39528/49.86694
     Structurae: https://structurae.net/structures/20058448
+    ArchDaily: https://www.archdaily.com/448774/heydar-aliyev-center-zaha-hadid-architects
+    WikiArquitectura: https://en.wikiarquitectura.com/building/heydar-aliyev-cultural-center/
+    Divisare: https://divisare.com/projects/244590-zha-hufton-crow-helene-binet-heydar-aliyev-center
     wikidata ids: freebase id=/m/0465g7f; viaf cluster id=305291630; idref id=176475796; library of congress authorities id=n2014045725; skyscraperpage building id=95652; emporis building id=1207838; google arts & culture partner id=heydar-aliyev-center; atlas obscura place id=heydar-aliyev-center; structurae structure id=20058448; ‎yale lux id=group/663cb4c0-ccbc-4dac-ac95-a7b5dc6cb7f9; wolfram language entity code=Entity["Building", "HeydarAliyevCenter::866s5"]
 
 089 ICD/ITKE Research Pavilion 2012
+    ArchDaily: https://www.archdaily.com/340374/icditke-research-pavilion-university-of-stuttgart-faculty-of-architecture-and-urban-planning
 
 090 High Line
+    Official website: https://www.thehighline.org/
+    Map: https://www.openstreetmap.org/?mlat=40.74830&mlon=-74.00500#map=17/40.74830/-74.00500
     Structurae: https://structurae.net/structures/20056772
+    ArchDaily: https://www.archdaily.com/929604/high-line-park-building-arquea-arquitetos
+    WikiArquitectura: https://en.wikiarquitectura.com/building/high-line-23/
     wikidata ids: freebase id=/m/07jwwf; new york times topic id=subject/high-line-nyc; encyclopædia britannica online id=place/High-Line; structurae structure id=20056772; library of congress authorities id=sh2011002384; atlas obscura place id=highline; nl cr aut id=ge1130269; j9u entity id=987007599913605171; bgci garden id=4412; reddit topic id (obsolete)=high_line; inaturalist place id=92193; ‎yale lux id=place/98c7d230-5fc7-4a54-8e5b-a2eb7d23e92b; instagram username=highlinenyc; openstreetmap relation id=7141751; gnd id=7691117-2
 
 091 Stacking Green
+    ArchDaily: https://www.archdaily.com/199755/stacking-green-vo-trong-nghia
 
 092 Superkilen
+    Map: https://www.openstreetmap.org/?mlat=55.70083&mlon=12.54270#map=17/55.70083/12.54270
+    ArchDaily: https://www.archdaily.com/161389/superkilen-big
+    Divisare: https://divisare.com/projects/204075-superflex-big-bjarke-ingels-group-topotek-1-hanns-joosten-iwan-baan-urban-revitalization-superkilen
     wikidata ids: freebase id=/m/0n8_cy9; atlas obscura place id=superkilen; gnd id=1047619393
 
 093 Sancaklar Mosque
+    Map: https://www.openstreetmap.org/?mlat=41.08900&mlon=28.60158#map=17/41.08900/28.60158
+    ArchDaily: https://www.archdaily.com/516205/sancaklar-mosque-emre-arolat-architects
+    Divisare: https://divisare.com/projects/221217-eaa-emre-arolat-architecture-cemal-emden-thomas-mayer-sancaklar-mosque-istanbul-turkey
     wikidata ids: geonames id=11874781; google knowledge graph id=/g/11c3q1hlnv; openstreetmap way id=355941429
 
 094 Bosco Verticale
+    Map: https://www.openstreetmap.org/?mlat=45.48583&mlon=9.19028#map=17/45.48583/9.19028
+    ArchDaily: https://www.archdaily.com/777498/bosco-verticale-stefano-boeri-architetti
+    Divisare: https://divisare.com/projects/271386-stefano-boeri-architetti-gianandrea-barreca-giovanni-la-varra-paolo-rosselli-simon-garcia-bosco-verticale
     wikidata ids: freebase id=/m/0nb212f; gnd id=1127665898; viaf cluster id=4171148997686059870007; atlas obscura place id=bosco-verticale
 
 095 Zeitz MOCAA
+    Official website: https://www.zeitzmocaa.museum/
+    Map: https://www.openstreetmap.org/?mlat=-33.90833&mlon=18.42278#map=17/-33.90833/18.42278
+    Divisare: https://divisare.com/projects/366648-heatherwick-studio-iwan-baan-zeitz-mocaa
     wikidata ids: x (twitter) username=ZeitzMOCAA; facebook username=ZeitzMOCAA; instagram username=zeitzmocaa; sotheby's museum network id=zeitz-mocaa; viaf cluster id=5156009901349582076; bibliothèque nationale de france id=178105003; google knowledge graph id=/g/11c5bhq3td; flanders arts institute organisation id (former scheme)=385867; openstreetmap way id=36852808; kunstenpunt knowledge graph id=Q181910; library of congress authorities id=no2019141253; ‎yale lux id=group/94b05473-408a-44f9-9327-0534192d8282; j9u entity id=987012658438905171
 
 096 Pantheon
+    ArchDaily: https://www.archdaily.com/802201/ad-classics-roman-pantheon-emperor-hadrian
 
 097 Katsura Imperial Villa
+    Official website: https://sankan.kunaicho.go.jp/guide/katsura.html
+    Map: https://www.openstreetmap.org/?mlat=34.98389&mlon=135.70944#map=17/34.98389/135.70944
     wikidata ids: freebase id=/m/03py_1; gnd id=4110042-6; viaf cluster id=148296651; ndl authority id=00953909; encyclopædia britannica online id=topic/Katsura-Imperial-Villa; idref id=172658756; who's on first id=1259835901; tripadvisor id=321460; openstreetmap way id=1230302126; google maps customer id=5324769514712559736; miraheze article id=shinto:Katsura Imperial Villa; wolfram language entity code=Entity["Building", "KatsuraImperialPalace::g4c39"]; fandom article id=shinto:Katsura Imperial Villa
 
 098 Alhambra
+    Official website: http://www.alhambra-patronato.es
+    Map: https://www.openstreetmap.org/?mlat=37.17634&mlon=-3.58821#map=17/37.17634/-3.58821
     Structurae: https://structurae.net/structures/10000807
     archINFORM: https://www.archinform.net/projekte/11697.htm
     wikidata ids: freebase id=/m/07h_j; geonames id=7302839; gnd id=4093883-9; structurae structure id=10000807; viaf cluster id=127461768; library of congress authorities id=sh86000112; gran enciclopèdia catalana id (former scheme)=0002589; encyclopædia britannica online id=topic/Alhambra-fortress-Granada-Spain; union list of artist names id=500306857; national library of spain spmabn id=XX84113; vatican library id (former scheme)=ADV10111427; national library of israel id (old)=000008609; selibr id=332561; nl cr aut id=kn20050112004; guía digital del patrimonio cultural de andalucía id=i14929; british museum thesaurus id=x56901; bibsys id=90191752; great russian encyclopedia online id (2017)=1815553; asset of cultural interest code=RI-51-0010966; archinform project id=11697; wolfram language entity code=Entity["Castle", "AlhambraDeGranada"]; who's on first id=85863845; tdv encyclopedia of islam id=elhamra-sarayi; treccani's dizionario di storia id=alhambra; ne.se id=alhambra; grove art online id=T2287679; iaph code=01180870177; vatican library vcba id=494/4247; interlingual index id=i49930; quora topic id=Alhambra-Granada-Spain; de agostini id=Alhambra+(Granada); libris-uri=tr58fnvc4h5x2pz; wordnet 3.1 synset id=02699528-n; instagram username=alhambra_oficial; pinterest username=alhambragranada; x (twitter) username=alhambracultura; cantic id=981058522768706706; j9u entity id=987007287162005171; lex id=Alhambra_-_citadel_og_paladsby_i_Granada; isni=0000000121540012; fast id=631429; national library of ireland id=vtls000134047; bibliothèque nationale de france id=15184063j; google maps customer id=9263290833302561407; krugosvet article (archived)=kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ALGAMBRA.html; brockhaus enzyklopädie online id=alhambra; great norwegian encyclopedia id=Alhambra; skyscraperpage building id=99684; bvmc organization id=28856; online pwn encyclopedia id=3867814; openstreetmap way id=92528618; university of barcelona authority id=981058522768706706; gran enciclopèdia catalana id=alhambra-0; museum-digital place id=59195; vikidia article id=fr:Alhambra_(Grenade); rkd thesaurus id=89606; madain project id=alhambra; yle topic id=18-146330; kulturenvanteri monument id=323539; pleiades id=720436836; ‎yale lux id=place/2bcd3cdd-d5d7-4f98-80cf-d8c0d910ca2e; arab encyclopedia concept id=4526; world heritage site id=314; wellcome collection concept id=ekky6uxd; svkkl authority id=0319650-Alhambra-Granada-spanelsko; fes digital collections entity id=346747; harper's tag=alhambra-granada-spain
 
 099 Chand Baori
+    Official website: https://jaipurtourism.co.in/chand-baori-abhaneri-step-well-jaipur
+    Map: https://www.openstreetmap.org/?mlat=27.00729&mlon=76.60639#map=17/27.00729/76.60639
     wikidata ids: freebase id=/m/04gncgp; stepwell atlas id=IN7; asi monument id=N-RJ-73; atlas obscura place id=ancient-stepwells-india; openstreetmap relation id=8102876
 
 100 Villa La Rotonda
+    Map: https://www.openstreetmap.org/?mlat=45.53152&mlon=11.56027#map=17/45.53152/11.56027
     archINFORM: https://www.archinform.net/projekte/362.htm
     Structurae: https://structurae.net/structures/20035095
+    Divisare: https://divisare.com/projects/277785-andrea-palladio-atelier-xyz-villa-la-rotonda
     wikidata ids: world heritage site id=712-004; freebase id=/m/03jjdw; geonames id=8015004; viaf cluster id=235261764; archinform project id=362; library of congress authorities id=sh85143351; encyclopædia britannica online id=place/Villa-Rotonda; gnd id=4221902-4; j9u entity id=987007287165605171; lex id=Villa_Rotonda_-_Vicenza; great norwegian encyclopedia id=Villa_Rotonda; openstreetmap way id=114818965; worldcat entities id=E39PBJckJHmJYYgHbVPBYmTbVC; iconoteca dell'accademia di architettura id=3840; wiki loves monuments id=05L8400102; online pwn encyclopedia id=3992823; structurae structure id=20035095; quora topic id=Palladio-Rotonda
