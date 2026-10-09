@@ -1,2 +1,2 @@
 python -u tools/resolve_list.py
-Resolve the 410 hand-picked additions to Wikidata items.
+Retry the unresolved additions with looser place matching.
