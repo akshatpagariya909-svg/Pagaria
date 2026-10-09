@@ -19,7 +19,7 @@ Steer the picks in tools/image_choices.json:
 Writes WebP images to site/images/<id>/ and a review sheet to tools/review.html.
 Needs network access to Wikipedia, Wikidata, Wikimedia Commons and upload.wikimedia.org.
 """
-import argparse, html, io, json, re, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, html, io, json, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -27,6 +27,7 @@ DATA = ROOT / 'site' / 'data' / 'buildings.js'
 IMG = ROOT / 'site' / 'images'
 CHOICES = ROOT / 'tools' / 'image_choices.json'
 REVIEW = ROOT / 'tools' / 'review.html'
+PROBE = ROOT / 'tools' / 'category_probe.txt'
 UA = 'DiscoverArchitecture/0.2 (https://github.com/akshatpagariya909-svg/Pagaria; image curation script)'
 WP = 'https://en.wikipedia.org/w/api.php'
 CM = 'https://commons.wikimedia.org/w/api.php'
@@ -69,23 +70,77 @@ def api(base, **params):
 
 
 # ---------- finding a building's Commons category ----------
+GENERIC = set('the of de la le du da des del di and for in at an a house building museum centre center church hall new villa casa'.split())
+
+
+def tokens(text):
+    t = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode().lower()
+    return {w for w in re.findall(r'[a-z0-9]+', t) if len(w) > 2 or w.isdigit()}
+
+
+def distinctive(b):
+    """Words that name the building itself, not its city or architect."""
+    return tokens(b['name']) - GENERIC - tokens(b['place']) - tokens(b['by'])
+
+
+def fits(b, title):
+    d = distinctive(b)
+    return bool(d) and bool(d & tokens(title))
+
+
+def wiki_article(b):
+    """The building's English Wikipedia article: its own title first, then a search that must match the name."""
+    q = api(WP, action='query', prop='pageprops|pageimages', piprop='name', titles=b['name'], redirects=1)
+    page = q['query']['pages'][0]
+    if 'missing' not in page and 'disambiguation' not in page.get('pageprops', {}):
+        return page
+    q = api(WP, action='query', list='search', srsearch=f"{b['name']} {b['by'].split()[-1]}", srlimit=5)
+    for hit in q.get('query', {}).get('search', []):
+        if fits(b, hit['title']):
+            q = api(WP, action='query', prop='pageprops|pageimages', piprop='name', titles=hit['title'], redirects=1)
+            return q['query']['pages'][0]
+    return None
+
+
 def commons_category(b):
+    """Returns (category, lead file). The category must name the building, not its city or architect."""
+    lead, cat = None, None
     try:
-        q = api(WP, action='query', list='search', srsearch=f"{b['name']} {b['place'].split(',')[0]}", srlimit=1)
-        hits = q.get('query', {}).get('search', [])
-        if hits:
-            p = api(WP, action='query', prop='pageprops', ppprop='wikibase_item', titles=hits[0]['title'], redirects=1)
-            qid = (p['query']['pages'][0].get('pageprops') or {}).get('wikibase_item')
+        page = wiki_article(b)
+        if page:
+            lead = 'File:' + page['pageimage'] if page.get('pageimage') else None
+            qid = page.get('pageprops', {}).get('wikibase_item')
             if qid:
                 c = api(WD, action='wbgetclaims', entity=qid, property='P373')
                 claims = c.get('claims', {}).get('P373', [])
                 if claims:
-                    return 'Category:' + claims[0]['mainsnak']['datavalue']['value']
+                    cat = 'Category:' + claims[0]['mainsnak']['datavalue']['value']
     except Exception as e:  # Wikidata may be unreachable; fall back to a Commons search
-        print('    wikidata lookup failed:', e)
-    q = api(CM, action='query', list='search', srnamespace=14, srlimit=3, srsearch=b['name'])
-    hits = q.get('query', {}).get('search', [])
-    return hits[0]['title'] if hits else None
+        print('    wikipedia/wikidata lookup failed:', e)
+    if cat and fits(b, cat):
+        return cat, lead
+    if cat:
+        print('    rejected category', cat)
+    for q in (b['name'], f"{b['name']} {b['place'].split(',')[0]}"):
+        hits = api(CM, action='query', list='search', srnamespace=14, srlimit=8, srsearch=q).get('query', {}).get('search', [])
+        for h in hits:
+            if fits(b, h['title']):
+                return h['title'], lead
+    return None, lead
+
+
+def probe(b):
+    """Prints candidate categories with their file counts, for choosing overrides by hand."""
+    cat, lead = commons_category(b)
+    seen, out = [], []
+    for q in (b['name'], f"{b['name']} {b['by'].split()[-1]}", f"{b['name']} {b['place'].split(',')[0]}"):
+        for h in api(CM, action='query', list='search', srnamespace=14, srlimit=6, srsearch=q).get('query', {}).get('search', []):
+            if h['title'] not in seen:
+                seen.append(h['title'])
+    for t in ([cat] if cat else []) + [t for t in seen if t != cat][:10]:
+        ci = api(CM, action='query', prop='categoryinfo', titles=t)['query']['pages'][0].get('categoryinfo', {})
+        out.append(f"    {'*' if t == cat else ' '} {t}  files={ci.get('files', 0)} subcats={ci.get('subcats', 0)}")
+    return f"{b['id']}  lead={lead}\n" + '\n'.join(out)
 
 
 def members(category, kind):
@@ -146,16 +201,24 @@ def caption(kind, meta, b):
     return f'{kind} · {d.rstrip(".")}'
 
 
-def score(info):
+JUNK = re.compile(r'(\bsign(post|board)?\b|plaque|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster)', re.I)
+
+
+def score(info, b=None, title=''):
     meta = info.get('extmetadata', {})
     a = strip(meta.get('Assessments')).lower()
     s = (6 if 'featured' in a or 'poty' in a else 0) + (4 if 'quality' in a else 0) + (3 if 'valued' in a else 0)
     s += min(3, info.get('width', 0) * info.get('height', 0) / 6e6)
     r = info.get('width', 1) / max(1, info.get('height', 1))
-    return s - (2 if r > 2.2 or r < 0.5 else 0)  # panoramas and slivers crop badly
+    s -= 2 if r > 2.2 or r < 0.5 else 0  # panoramas and slivers crop badly
+    if b:
+        text = title + ' ' + strip(meta.get('ImageDescription'))[:300]
+        s += 2 if distinctive(b) & tokens(text) else 0  # the file names the building
+        s -= 6 if JUNK.search(text) else 0
+    return s
 
 
-def choose(b, files, info, skip):
+def choose(b, files, info, skip, boost=()):
     pool = []
     for t, hint in files:
         i = info.get(t)
@@ -167,7 +230,7 @@ def choose(b, files, info, skip):
             continue
         if not OK_LICENSE.search(lic) or i.get('size', 0) > 45_000_000:
             continue
-        pool.append({'title': t, 'info': i, 'kind': describe(t, hint, meta), 'score': score(i),
+        pool.append({'title': t, 'info': i, 'kind': describe(t, hint, meta), 'score': score(i, b, t) + (100 if t in boost else 0),
                      'credit': strip(meta.get('Artist'))[:100] or strip(meta.get('Credit'))[:100], 'license': lic})
     pool.sort(key=lambda p: -p['score'])
     picks, per_author, stems, kinds = [], {}, {}, {}
@@ -240,11 +303,23 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--force', action='store_true')
     ap.add_argument('--only', default='')
+    ap.add_argument('--probe', action='store_true', help='list candidate categories instead of downloading')
     args = ap.parse_args()
     only = set(filter(None, args.only.split(',')))
     choices = json.loads(CHOICES.read_text()) if CHOICES.exists() else {}
     head, items = load()
     thin = []
+    if args.probe:
+        report = []
+        for b in items:
+            if not only or b['id'] in only:
+                try:
+                    report.append(probe(b))
+                except Exception as e:
+                    report.append(f"{b['id']}  error: {e}")
+                print(report[-1])
+        PROBE.write_text('\n\n'.join(report) + '\n')
+        return
     for b in items:
         if only and b['id'] not in only:
             continue
@@ -253,12 +328,14 @@ def main():
         ch = choices.get(b['id'], {})
         print(f"{b['n']:>3} {b['name']}")
         try:
-            cat = ch.get('category') or commons_category(b)
-            print('    category:', cat)
-            files = (candidate_files(cat) if cat else []) + [(t, '') for t in ch.get('add', [])]
+            auto, lead = commons_category(b)
+            cat = ch.get('category') or auto
+            print('    category:', cat, '| lead:', lead)
+            add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
+            files = (candidate_files(cat) if cat else []) + [(t, '') for t in add]
             info = infos([t for t, _ in files])
-            picks = choose(b, files, info, set(ch.get('skip', [])))
-            for t in reversed(ch.get('add', [])):  # files added by hand always go in, first
+            picks = choose(b, files, info, set(ch.get('skip', [])), set(add))
+            for t in reversed(add):  # files added by hand, then Wikipedia's lead photo, go first
                 p = next((p for p in picks if p['title'] == t), None)
                 if p:
                     picks.remove(p)
