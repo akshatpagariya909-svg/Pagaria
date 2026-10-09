@@ -291,13 +291,13 @@
     sheet.hidden = false;
     card.scrollTop = 0; card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
-    history.replaceState(null, '', '#' + b.id);
+    try { history.replaceState(null, '', '#' + b.id); } catch (e) { /* some embedded frames forbid it */ }
   }
 
   function closeBuilding() {
     sheet.hidden = true;
     state.open = null;
-    history.replaceState(null, '', location.pathname + location.search);
+    try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ }
     if (state.lastTile && !state.lastTile.hidden) state.lastTile.focus({ preventScroll: true });
   }
 
