@@ -1,2 +1,2 @@
---force
-Download the hand-picked galleries for all 100 buildings.
+--minutes 300
+Fetch photos for the new buildings (thumbnails hosted, full photos from Wikimedia). Rerun to continue.
