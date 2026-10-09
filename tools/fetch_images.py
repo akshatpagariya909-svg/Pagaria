@@ -17,7 +17,7 @@ tools/review.html so a person can check it before launch: search hits can be wro
 Needs network access to en.wikipedia.org, commons.wikimedia.org and upload.wikimedia.org,
 and Pillow (pip install pillow) for the small thumbnails.
 """
-import argparse, html, io, json, re, sys, time, urllib.parse, urllib.request
+import argparse, html, io, json, re, sys, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -28,15 +28,29 @@ REVIEW = ROOT / 'tools' / 'review.html'
 UA = 'DiscoverArchitecture/0.1 (https://github.com/akshatpagariya909-svg/Pagaria; image curation script)'
 OK_LICENSE = re.compile(r'(public domain|^pd|cc0|cc[ -]by(?![ -]?nc)(?![ -]?nd))', re.I)
 FULL_W, THUMB_W = 1600, 640
+NOT_A_PICTURE = re.compile(r'(logo|map|locator|flag|coat of arms|seal|icon|\.svg$)', re.I)
+
+
+def fetch(url, timeout=60):
+    """GET with polite retries: Wikimedia answers 429 when a shared connection is busy."""
+    for attempt in range(7):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                data = r.read()
+            time.sleep(0.5)
+            return data
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 500, 502, 503, 504) or attempt == 6:
+                raise
+            wait = int(e.headers.get('Retry-After') or 0) or min(60, 2 ** (attempt + 1))
+            print(f'    {e.code}, retrying in {wait}s')
+            time.sleep(wait)
 
 
 def api(base, **params):
     params.update(format='json', formatversion=2)
-    req = urllib.request.Request(base + '?' + urllib.parse.urlencode(params), headers={'User-Agent': UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        out = json.load(r)
-    time.sleep(0.2)  # be polite to the Wikimedia APIs
-    return out
+    return json.loads(fetch(base + '?' + urllib.parse.urlencode(params), timeout=30))
 
 
 def wiki_lead_image(title):
@@ -55,25 +69,29 @@ def commons_search(text):
 
 def file_info(file_title):
     q = api('https://commons.wikimedia.org/w/api.php', action='query', titles=file_title, prop='imageinfo',
-            iiprop='url|size|mime|extmetadata', iiurlwidth=FULL_W)
+            iiprop='url|size|mime|extmetadata')
     pages = q.get('query', {}).get('pages', [])
     if not pages or 'imageinfo' not in pages[0]:
         return None
     ii = pages[0]['imageinfo'][0]
+    # Originals come from upload.wikimedia.org; resized copies live on thumb.wikimedia.org, which we don't use.
+    if ii.get('mime') not in ('image/jpeg', 'image/png') or ii.get('width', 0) < 700 or ii.get('size', 0) > 45_000_000:
+        return None
     meta = ii.get('extmetadata', {})
     strip = lambda v: html.unescape(re.sub(r'<[^>]+>', '', (v or {}).get('value', ''))).strip()
     return {
-        'file': pages[0]['title'], 'url': ii.get('thumburl') or ii['url'], 'w': ii.get('thumbwidth') or ii['width'],
-        'h': ii.get('thumbheight') or ii['height'], 'page': ii.get('descriptionurl'),
+        'file': pages[0]['title'], 'url': ii['url'], 'w': ii['width'], 'h': ii['height'], 'page': ii.get('descriptionurl'),
         'license': strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms')),
         'credit': strip(meta.get('Artist'))[:120] or strip(meta.get('Credit'))[:120],
     }
 
 
 def pick(candidates):
+    seen = set()
     for title in candidates:
-        if not title:
+        if not title or title in seen or NOT_A_PICTURE.search(title):
             continue
+        seen.add(title)
         info = file_info(title)
         if info and OK_LICENSE.search(info['license'] or ''):
             return info
@@ -83,9 +101,7 @@ def pick(candidates):
 
 
 def download(info, stem):
-    req = urllib.request.Request(info['url'], headers={'User-Agent': UA})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
+    data = fetch(info['url'], timeout=120)
     IMG.mkdir(parents=True, exist_ok=True)
     (IMG / 'thumbs').mkdir(exist_ok=True)
     full, thumb = IMG / f'{stem}.jpg', IMG / 'thumbs' / f'{stem}.jpg'
@@ -145,7 +161,8 @@ def main():
         print(f"{b['n']:>3} {b['name']}")
         try:
             if b['media'] == 'photo':
-                cands = [choices.get(b['id']), wiki_lead_image(b['wiki'])]
+                city = b['place'].split(',')[0]
+                cands = [choices.get(b['id']), wiki_lead_image(b['wiki'])] + list(commons_search(f"{b['name']} {city}"))
             else:
                 w = b['work']
                 cands = [choices.get(b['id'])] + list(commons_search(f"{w['title']} {w['by']}"))
