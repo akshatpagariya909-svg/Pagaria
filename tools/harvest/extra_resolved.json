@@ -1,0 +1,8930 @@
+[
+{
+"name": "Capuchinas Chapel",
+"by": "Luis Barragán",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1960",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Light & shadow",
+"Colour",
+"Courtyard"
+],
+"features": "A hidden window of yellow glass tints the nave gold; a slatted cross throws its shadow across the floor.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Torres de Satélite",
+"by": "Luis Barragán, Mathias Goeritz",
+"city": "Naucalpan",
+"cc": "MX",
+"year": "1958",
+"type": "Public space",
+"movement": "Modernism",
+"concepts": [
+"Sculptural form",
+"Colour",
+"Monumentality"
+],
+"features": "Five hollow triangular concrete towers of different heights and colours mark a highway as urban sculpture.",
+"keep": 2,
+"list": "americas",
+"qid": "Q3353239",
+"commons": "Torres de Satélite",
+"image": "Torres de Satélite - 2.jpg",
+"coords": [
+19.49925,
+-99.236861
+]
+},
+{
+"name": "Museo Soumaya",
+"by": "Fernando Romero",
+"city": "Mexico City",
+"cc": "MX",
+"year": "2011",
+"type": "Museum",
+"movement": "Parametric",
+"concepts": [
+"Parametric",
+"Facade as skin",
+"Sculptural form"
+],
+"features": "Twisting shell of curved steel columns clad in some 16,000 hexagonal aluminium tiles, skylit top gallery.",
+"keep": 2,
+"list": "americas",
+"qid": "Q2097646",
+"commons": "Museo Soumaya",
+"image": "Museo Soumaya, Ciudad de México, México, 2015-07-18, DD 12.JPG",
+"coords": [
+19.44066,
+-99.20462
+]
+},
+{
+"name": "Museo Jumex",
+"by": "David Chipperfield",
+"city": "Mexico City",
+"cc": "MX",
+"year": "2013",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Stone",
+"Public space"
+],
+"features": "Travertine block over a recessed glass ground floor, topped by a saw-tooth roof bringing in north light.",
+"keep": 2,
+"list": "americas",
+"qid": "Q5142722",
+"commons": "Museo Jumex",
+"image": "Museo Júmex front.jpg",
+"coords": [
+19.4406,
+-99.2033
+]
+},
+{
+"name": "Museo Tamayo",
+"by": "Teodoro González de León, Abraham Zabludovsky",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1981",
+"type": "Museum",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Landscape",
+"Monumentality"
+],
+"features": "Bush-hammered concrete with marble aggregate, in stepped platform-like masses set low in the park.",
+"keep": 3,
+"list": "americas",
+"qid": "Q3330551",
+"commons": "Museo Tamayo, Mexico City",
+"image": "Museo Rufino Tamayo - Mexico 2024.jpg",
+"coords": [
+19.42552,
+-99.18173
+]
+},
+{
+"name": "Los Manantiales Restaurant",
+"by": "Félix Candela",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1958",
+"type": "Hospitality",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Geometry",
+"Vault"
+],
+"features": "Four intersecting hyperbolic paraboloids form an eight-lobed concrete shell only centimetres thick.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Church of La Medalla Milagrosa",
+"by": "Félix Candela",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1955",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Geometry",
+"Light & shadow"
+],
+"features": "Thin hyperbolic paraboloid shells twist into columns and roof as one continuous concrete structure.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Torre Latinoamericana",
+"by": "Augusto H. Álvarez",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1956",
+"type": "Office & tower",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Steel & glass",
+"Section"
+],
+"features": "Steel frame on deep piles through soft lakebed clay, engineered to ride out the city's major earthquakes.",
+"keep": 2,
+"list": "americas",
+"qid": "Q947870",
+"commons": "Torre Latinoamericana",
+"image": "Mexico df - Torre Latinoamerica.jpg",
+"coords": [
+19.433888888889,
+-99.140555555556
+]
+},
+{
+"name": "Centro Urbano Presidente Alemán",
+"by": "Mario Pani",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1949",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Section",
+"Community",
+"Circulation"
+],
+"features": "Zigzag slabs with corridors on every third floor serve over a thousand duplex flats amid open ground.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5062892",
+"commons": "Centro Urbano Benito Juárez",
+"image": "MX-MAF-DGCSGDF-002439-006 (33499302535).jpg",
+"coords": [
+19.40967222,
+-99.15749167
+]
+},
+{
+"name": "Museo de Arte Moderno, Mexico City",
+"by": "Pedro Ramírez Vázquez, Rafael Mijares",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1964",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Landscape",
+"Light from above",
+"Steel & glass"
+],
+"features": "Rounded low pavilions under domed lattice ceilings, with glass walls opening the galleries to the park.",
+"keep": 2,
+"list": "americas",
+"qid": "Q3032842",
+"commons": "Museo de Arte Moderno, Mexico City",
+"image": "Museo de Arte Moderno DSC0023 (35557149325).jpg",
+"coords": [
+19.42274,
+-99.17954
+]
+},
+{
+"name": "Diego Rivera and Frida Kahlo House-Studios",
+"by": "Juan O'Gorman",
+"city": "Mexico City",
+"cc": "MX",
+"year": "1932",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Colour",
+"Pilotis",
+"Low cost"
+],
+"features": "Two functionalist studio-houses, one red, one blue, linked by a roof bridge, with services and stairs exposed.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2663377",
+"commons": "Museo Frida Kahlo",
+"image": "Museo Frida Kahlo.JPG",
+"coords": [
+19.355143,
+-99.162525
+]
+},
+{
+"name": "Church of Saint Francis of Assisi, Pampulha",
+"by": "Oscar Niemeyer",
+"city": "Belo Horizonte",
+"cc": "BR",
+"year": "1943",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Vault",
+"Sculptural form",
+"Colour"
+],
+"features": "A row of parabolic concrete vaults, with a painted tile mural covering the rear wall facing the lake.",
+"keep": 3,
+"list": "americas",
+"qid": "Q636642",
+"commons": "Igreja de São Francisco de Assis (Belo Horizonte)",
+"image": "IgrejaPampulha.jpg",
+"coords": [
+-19.858363888889,
+-43.978975
+]
+},
+{
+"name": "Niterói Contemporary Art Museum",
+"by": "Oscar Niemeyer",
+"city": "Niterói",
+"cc": "BR",
+"year": "1996",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Sculptural form",
+"Cantilever",
+"Promenade"
+],
+"features": "Flared saucer on one central cylinder above a reflecting pool, reached by a red ramp, with wide bay views.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1573239",
+"commons": "Museu de Arte Contemporânea de Niterói",
+"image": "Museu de Arte Contemporânea.jpg",
+"coords": [
+-22.907777777778,
+-43.126111111111
+]
+},
+{
+"name": "Gustavo Capanema Palace",
+"by": "Lúcio Costa, Oscar Niemeyer",
+"city": "Rio de Janeiro",
+"cc": "BR",
+"year": "1945",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Brise-soleil",
+"Pilotis",
+"Public space"
+],
+"features": "Office slab on tall pilotis, with adjustable brise-soleil on the sun facade and tile murals at ground level.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2598551",
+"commons": "Edifício Gustavo Capanema",
+"image": "MESP4.jpg",
+"coords": [
+-22.9092,
+-43.17382778
+]
+},
+{
+"name": "Pedregulho Housing",
+"by": "Affonso Eduardo Reidy",
+"city": "Rio de Janeiro",
+"cc": "BR",
+"year": "c. 1955",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Landscape",
+"Section",
+"Community"
+],
+"features": "Serpentine slab follows the hillside contour, entered by bridges at an open middle floor screened by cobogo.",
+"keep": 3,
+"list": "americas",
+"qid": "Q18480281",
+"commons": "Conjunto Residencial Mendes de Moraes (Pedregulho)",
+"image": "Pedregulho3.jpg",
+"coords": [
+-22.89244798484734,
+-43.233475038084386
+]
+},
+{
+"name": "Brazilian Museum of Sculpture (MuBE)",
+"by": "Paulo Mendes da Rocha",
+"city": "São Paulo",
+"cc": "BR",
+"year": "1995",
+"type": "Museum",
+"movement": "Brutalism",
+"concepts": [
+"Structure as expression",
+"Landscape",
+"Exposed concrete"
+],
+"features": "A single 60-metre concrete beam shades a plaza over galleries sunk into the sloping garden site.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Pinacoteca do Estado de São Paulo",
+"by": "Paulo Mendes da Rocha",
+"city": "São Paulo",
+"cc": "BR",
+"year": "1998",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Light from above",
+"Brick"
+],
+"features": "Glass roofs over the old brick courtyards and steel bridges across them reorganise a former academy.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2095209",
+"commons": "Pinacoteca do Estado de São Paulo",
+"image": "Pinacoteca de São Paulo, Brazil.jpg",
+"coords": [
+-23.534444444444,
+-46.633888888889
+]
+},
+{
+"name": "SESC 24 de Maio",
+"by": "Paulo Mendes da Rocha, MMBB",
+"city": "São Paulo",
+"cc": "BR",
+"year": "2017",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Circulation",
+"Public space"
+],
+"features": "Ramps wind up through a gutted department store to a new rooftop pool and terrace above downtown.",
+"keep": 2,
+"list": "americas",
+"qid": "Q55154350",
+"commons": "SESC 24 de Maio",
+"image": "Inauguração do Sesc (35905520983).jpg",
+"coords": [
+-23.54422222222222,
+-46.640055555555556
+]
+},
+{
+"name": "Casa de Vidro",
+"by": "Lina Bo Bardi",
+"city": "São Paulo",
+"cc": "BR",
+"year": "1951",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Pilotis",
+"Steel & glass",
+"Landscape"
+],
+"features": "Glass-walled living floor on slender pilotis over a forested slope, with a tree rising through a central void.",
+"keep": 3,
+"list": "americas",
+"qid": "Q28105029",
+"commons": "Casa de Vidro",
+"image": "Casa de Vidro 13.jpg",
+"coords": [
+-23.613078,
+-46.711947
+]
+},
+{
+"name": "Sarah Kubitschek Hospital Salvador",
+"by": "João Filgueiras Lima (Lelé)",
+"city": "Salvador",
+"cc": "BR",
+"year": "1994",
+"type": "Health",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Prefabrication",
+"Human comfort"
+],
+"features": "Curved steel sheds and prefabricated ferrocement parts drive natural ventilation and daylight into wards.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Iberê Camargo Foundation",
+"by": "Álvaro Siza",
+"city": "Porto Alegre",
+"cc": "BR",
+"year": "2008",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Promenade",
+"Exposed concrete",
+"Void"
+],
+"features": "White concrete volume with enclosed ramps looping outside its walls around a full-height atrium.",
+"keep": 3,
+"list": "americas",
+"qid": "Q4175872",
+"commons": "Fundação Iberê Camargo",
+"image": "FundacaoIbereCamargo (cropped).jpg",
+"coords": [
+-30.07791,
+-51.245712
+]
+},
+{
+"name": "Bank of London and South America",
+"by": "Clorindo Testa, SEPRA",
+"city": "Buenos Aires",
+"cc": "AR",
+"year": "1966",
+"type": "Workplace",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Facade as skin",
+"Void"
+],
+"features": "Pierced concrete screen walls on the street wrap a tall banking hall layered with open mezzanines.",
+"keep": 3,
+"list": "americas",
+"qid": "Q806199",
+"commons": "Banco de Londres, Buenos Aires",
+"image": "Banco hipótecario - Ex Banco de Londres.jpg",
+"coords": [
+-34.60647222,
+-58.37202778
+]
+},
+{
+"name": "National Library of Argentina",
+"by": "Clorindo Testa, Francisco Bullrich",
+"city": "Buenos Aires",
+"cc": "AR",
+"year": "1992",
+"type": "Library",
+"movement": "Brutalism",
+"concepts": [
+"Cantilever",
+"Exposed concrete",
+"Public space"
+],
+"features": "Reading rooms lifted on four massive concrete supports above a park, with the book stacks buried below.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1319177",
+"commons": "Biblioteca Nacional de la República Argentina",
+"image": "Vista aérea de la Biblioteca Nacional de la República Argentina Mariano Moreno 02.jpg",
+"coords": [
+-34.58444444,
+-58.39805556
+]
+},
+{
+"name": "Casa sobre el Arroyo",
+"by": "Amancio Williams",
+"city": "Mar del Plata",
+"cc": "AR",
+"year": "1946",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Landscape",
+"Water"
+],
+"features": "A single-storey house carried on a concrete arched bridge spanning the stream through its wooded site.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5755550",
+"commons": "Casa del Puente",
+"image": "Casa del Puente - Amancio Williams.jpg",
+"coords": [
+-38.008707,
+-57.573648
+]
+},
+{
+"name": "Teatro General San Martín",
+"by": "Mario Roberto Álvarez, Macedonio Ruiz",
+"city": "Buenos Aires",
+"cc": "AR",
+"year": "1960",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Steel & glass",
+"Section",
+"Public space"
+],
+"features": "Glass curtain wall fronting several stacked auditoriums and a public lobby opening onto the avenue.",
+"keep": 2,
+"list": "americas",
+"qid": "Q7691915",
+"commons": "Teatro General San Martín",
+"image": "Teatro san martin en av corrientes.jpg",
+"coords": [
+-34.6044,
+-58.3886
+]
+},
+{
+"name": "Benedictine Monastery Chapel",
+"by": "Gabriel Guarda, Martín Correa",
+"city": "Santiago",
+"cc": "CL",
+"year": "1964",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Light & shadow",
+"Geometry",
+"Light from above"
+],
+"features": "Two interlocked white masonry cubes, rotated against each other, lit by hidden slots of indirect light.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "UC Innovation Center Anacleto Angelini",
+"by": "Alejandro Aravena, Elemental",
+"city": "Santiago",
+"cc": "CL",
+"year": "2014",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Exposed concrete",
+"Void"
+],
+"features": "Massive concrete shell with deep-set openings keeps out western sun, glazing set back around a hollow atrium.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "ECLAC Building",
+"by": "Emilio Duhart",
+"city": "Santiago",
+"cc": "CL",
+"year": "1966",
+"type": "Civic",
+"movement": "Brutalism",
+"concepts": [
+"Pilotis",
+"Courtyard",
+"Exposed concrete"
+],
+"features": "Raised square ring of concrete offices around a courtyard, beside a spiral ramp and a conical council chamber.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Termas Geométricas",
+"by": "Germán del Sol",
+"city": "Coñaripe",
+"cc": "CL",
+"year": "2004",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Landscape",
+"Water"
+],
+"features": "A red timber walkway threads along a forested ravine, linking a chain of hot-spring pools and huts.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Ciudad Abierta",
+"by": "Alberto Cruz, Godofredo Iommi",
+"city": "Ritoque",
+"cc": "CL",
+"year": "1971",
+"type": "Public space",
+"movement": "Late modernism",
+"concepts": [
+"Landscape",
+"Community",
+"Incremental"
+],
+"features": "Experimental hand-built guest houses, agora and cemetery on coastal dunes, made by teachers and students.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Casa Poli",
+"by": "Pezo von Ellrichshausen",
+"city": "Coliumo",
+"cc": "CL",
+"year": "2005",
+"type": "House",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Section",
+"Landscape"
+],
+"features": "Concrete cube on a cliff whose thick hollow perimeter wall holds stairs, services and deep window bays.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Julio Herrera y Obes Port Warehouse",
+"by": "Eladio Dieste",
+"city": "Montevideo",
+"cc": "UY",
+"year": "1979",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Vault",
+"Brick",
+"Structure as expression"
+],
+"features": "Long-span Gaussian vaults of reinforced brick, waved in section, roof the dockside warehouse.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Faculty of Engineering, University of the Republic",
+"by": "Julio Vilamajó",
+"city": "Montevideo",
+"cc": "UY",
+"year": "1945",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Exposed concrete",
+"Pilotis",
+"Landscape"
+],
+"features": "Long reinforced-concrete teaching block with a raised wing over an open ground floor, facing the park.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Palacio Salvo",
+"by": "Mario Palanti",
+"city": "Montevideo",
+"cc": "UY",
+"year": "1928",
+"type": "Office & tower",
+"movement": "Historic precedent",
+"concepts": [
+"Monumentality",
+"Geometry",
+"Axis"
+],
+"features": "Eclectic concrete tower with a stepped crown, the twin of Buenos Aires' Palacio Barolo, on the main square.",
+"keep": 2,
+"list": "americas",
+"qid": "Q1519373",
+"commons": "Palacio Salvo",
+"image": "Palaciosalvouruguay.jpg",
+"coords": [
+-34.906725,
+-56.198308
+]
+},
+{
+"name": "Torres del Parque",
+"by": "Rogelio Salmona",
+"city": "Bogotá",
+"cc": "CO",
+"year": "1970",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Landscape",
+"Public space"
+],
+"features": "Three curved brick towers step down in terraces to wrap the bullring and open onto the park.",
+"keep": 3,
+"list": "americas",
+"qid": "Q9089120",
+"commons": "Torres del Parque",
+"image": "Torres del parque - Plaza de toros.jpg",
+"coords": [
+4.613447,
+-74.067356
+]
+},
+{
+"name": "Virgilio Barco Library",
+"by": "Rogelio Salmona",
+"city": "Bogotá",
+"cc": "CO",
+"year": "2001",
+"type": "Library",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Promenade",
+"Water"
+],
+"features": "Brick ramps, circular courts and water channels make the library a walkable landscape in the park.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2901319",
+"commons": "Biblioteca Pública Virgilio Barco",
+"image": "Lateral Virgilio Barco día.jpg",
+"coords": [
+4.65619,
+-74.0886
+]
+},
+{
+"name": "Orquideorama, Medellín Botanical Garden",
+"by": "Plan B Arquitectos, JPRCR",
+"city": "Medellín",
+"cc": "CO",
+"year": "2006",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Modular",
+"Planting"
+],
+"features": "Hexagonal timber 'flower-tree' modules join into a canopy that shades the gardens and collects rain.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5926838",
+"commons": "Jardín botánico de Medellín",
+"image": "Orchidiarium - Medellin Botanical Gardens.jpg",
+"coords": [
+6.27083333,
+-75.56416667
+]
+},
+{
+"name": "Parque Biblioteca España",
+"by": "Giancarlo Mazzanti",
+"city": "Medellín",
+"cc": "CO",
+"year": "2007",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Sculptural form",
+"Public space",
+"Community"
+],
+"features": "Three dark boulder-like volumes on a steep hillside, reached by cable car, frame a new public square.",
+"keep": 2,
+"list": "americas",
+"qid": "Q2901246",
+"commons": "Biblioteca España",
+"image": "Biblioteca España(1)-Medellin.JPG",
+"coords": [
+6.29466,
+-75.54418972222223
+]
+},
+{
+"name": "Aula Magna, Central University of Venezuela",
+"by": "Carlos Raúl Villanueva",
+"city": "Caracas",
+"cc": "VE",
+"year": "1953",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Colour",
+"Detail",
+"Human comfort"
+],
+"features": "Calder's coloured acoustic panels float below the ceiling of the fan-shaped hall to tune its sound.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5711801",
+"commons": "Aula Magna (UCV)",
+"image": "Aula Magna-Calder-UCV.JPG",
+"coords": [
+10.490833333333,
+-66.890555555556
+]
+},
+{
+"name": "23 de Enero Superblocks",
+"by": "Carlos Raúl Villanueva",
+"city": "Caracas",
+"cc": "VE",
+"year": "1957",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Megastructure",
+"Section",
+"Community"
+],
+"features": "Fifteen-storey slab blocks with skip-floor corridors house thousands on the hills above downtown.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "El Helicoide",
+"by": "Jorge Romero Gutiérrez, Dirk Bornhorst",
+"city": "Caracas",
+"cc": "VE",
+"year": "1961",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Circulation",
+"Megastructure",
+"Landscape"
+],
+"features": "A double spiral of drive-up ramps wraps a rocky hill, planned as a shopping centre reached by car.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "University of Engineering and Technology (UTEC)",
+"by": "Grafton Architects",
+"city": "Lima",
+"cc": "PE",
+"year": "2015",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Climate response",
+"Exposed concrete"
+],
+"features": "A stepped concrete cliff of terraces and open-air circulation faces the highway, planted on its levels.",
+"keep": 3,
+"list": "americas",
+"qid": "Q6156772",
+"commons": "Universidad de Ingeniería y Tecnología",
+"image": "Campus UTEC Lima.png",
+"coords": [
+-12.1349312,
+-77.021722
+]
+},
+{
+"name": "PREVI Experimental Housing",
+"by": "Peter Land (coordinator)",
+"city": "Lima",
+"cc": "PE",
+"year": "c. 1978",
+"type": "Housing",
+"movement": "Late modernism",
+"concepts": [
+"Incremental",
+"Low cost",
+"Courtyard"
+],
+"features": "Low-rise, high-density patio houses by international teams, designed to be extended by residents.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Nueva Esperanza School",
+"by": "Al Borde",
+"city": "Cabuyal",
+"cc": "EC",
+"year": "2009",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Low cost",
+"Community"
+],
+"features": "Raised classroom of cane, timber and thatch, built by the community with locally available materials.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Teletón Children's Rehabilitation Centre",
+"by": "Solano Benítez",
+"city": "Asunción",
+"cc": "PY",
+"year": "2010",
+"type": "Health",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Low cost",
+"Light & shadow"
+],
+"features": "Prefabricated triangular panels of brick lattice fold into screens and spans that filter light.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "National Art Schools",
+"by": "Ricardo Porro, Vittorio Garatti",
+"city": "Havana",
+"cc": "CU",
+"year": "1965",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Vault",
+"Brick",
+"Landscape"
+],
+"features": "Catalan brick vaults and domes in low, curving pavilions laid across a former golf course.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Coppelia Ice Cream Parlour",
+"by": "Mario Girona",
+"city": "Havana",
+"cc": "CU",
+"year": "1966",
+"type": "Hospitality",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Public space",
+"Exposed concrete"
+],
+"features": "Raised round concrete pavilion with a radiating ribbed roof, set in a park as a public ice-cream hall.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Tropicana Arcos de Cristal",
+"by": "Max Borges Recio",
+"city": "Havana",
+"cc": "CU",
+"year": "1952",
+"type": "Hospitality",
+"movement": "Modernism",
+"concepts": [
+"Vault",
+"Structure as expression",
+"Steel & glass"
+],
+"features": "Five thin concrete arches of descending height, with glass bands between, roof the nightclub hall.",
+"keep": 2,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Columbus Lighthouse",
+"by": "J. L. Gleave",
+"city": "Santo Domingo Este",
+"cc": "DO",
+"year": "1992",
+"type": "Memorial",
+"movement": "Brutalism",
+"concepts": [
+"Monumentality",
+"Axis",
+"Light & shadow"
+],
+"features": "Cross-shaped concrete mausoleum whose roof lamps project a cross of light into the night sky.",
+"keep": 2,
+"list": "americas",
+"qid": "Q2983646",
+"commons": "Faro a Colón",
+"image": "Faro colon.jpg",
+"coords": [
+18.4786,
+-69.868155555556
+]
+},
+{
+"name": "Biomuseo",
+"by": "Frank Gehry",
+"city": "Panama City",
+"cc": "PA",
+"year": "2014",
+"type": "Museum",
+"movement": "Deconstructivism",
+"concepts": [
+"Colour",
+"Sculptural form",
+"Climate response"
+],
+"features": "Cluster of brightly coloured folded metal roofs on steel supports over shaded open-air galleries.",
+"keep": 2,
+"list": "americas",
+"qid": "Q6034184",
+"commons": "Biomuseo",
+"image": "Biomuseo rear stereo pair R.agr (cropped).jpg",
+"coords": [
+8.93189,
+-79.54473
+]
+},
+{
+"name": "Miguel Ángel Asturias National Theatre",
+"by": "Efraín Recinos",
+"city": "Guatemala City",
+"cc": "GT",
+"year": "1978",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Sculptural form",
+"Colour",
+"Monumentality"
+],
+"features": "Sculptural concrete theatre clad in blue and white tile, set on a hill within the Civic Centre.",
+"keep": 2,
+"list": "americas",
+"qid": "Q5062806",
+"commons": "Centro Cultural Miguel Ángel Asturias",
+"image": "Teatro al Aire Libre Centro Cultural Miguel Angel Asturias Guatemala.jpg",
+"coords": [
+14.62708889,
+-90.51784167
+]
+},
+{
+"name": "Iglesia El Rosario",
+"by": "Rubén Martínez",
+"city": "San Salvador",
+"cc": "SV",
+"year": "1971",
+"type": "Religious",
+"movement": "Late modernism",
+"concepts": [
+"Light & shadow",
+"Colour",
+"Structure as expression"
+],
+"features": "One sloping arched roof with bands of coloured glass casting rainbow light across the open nave.",
+"keep": 3,
+"list": "americas",
+"qid": "Q42808859",
+"commons": "Iglesia El Rosario",
+"image": "Iglesia El Rosario.JPG",
+"coords": [
+13.697372222222223,
+-89.18851111111111
+]
+},
+{
+"name": "Carpenter Center for the Visual Arts",
+"by": "Le Corbusier",
+"city": "Cambridge",
+"cc": "US",
+"year": "1963",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Promenade",
+"Brise-soleil",
+"Pilotis"
+],
+"features": "A ramp passes right through the building between curved studios; concrete brise-soleil and pilotis.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2940137",
+"commons": "Carpenter Center",
+"image": "2023-0323-Harvard-Carpenter Center for the Visual Arts-02-East view.jpg",
+"coords": [
+42.373133,
+-71.114628
+]
+},
+{
+"name": "Baker House",
+"by": "Alvar Aalto",
+"city": "Cambridge",
+"cc": "US",
+"year": "1949",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Brick",
+"Geometry",
+"Circulation"
+],
+"features": "Serpentine brick dormitory gives every room an angled river view; stairs cascade down the rear facade.",
+"keep": 3,
+"list": "americas",
+"qid": "Q3714312",
+"commons": "Baker House (MIT)",
+"image": "Baker House, MIT, Cambridge, Massachusetts.JPG",
+"coords": [
+42.3566,
+-71.0958
+]
+},
+{
+"name": "Washington Dulles Airport Terminal",
+"by": "Eero Saarinen",
+"city": "Chantilly",
+"cc": "US",
+"year": "1962",
+"type": "Infrastructure",
+"movement": "Late modernism",
+"concepts": [
+"Tensile structure",
+"Structure as expression",
+"Monumentality"
+],
+"features": "Concrete roof hung in a catenary curve between two rows of outward-leaning pylons.",
+"keep": 3,
+"list": "americas",
+"qid": "Q136544402",
+"commons": "Main terminal of Washington Dulles International Airport",
+"image": "Washington Dulles International Airport at Dusk.jpg",
+"coords": [
+38.952777777777776,
+-77.44777777777777
+]
+},
+{
+"name": "TWA Flight Center",
+"by": "Eero Saarinen",
+"city": "New York",
+"cc": "US",
+"year": "1962",
+"type": "Infrastructure",
+"movement": "Expressionism",
+"concepts": [
+"Sculptural form",
+"Structure as expression",
+"Circulation"
+],
+"features": "Four thin concrete shells meet on Y-shaped piers, curving into a fluid interior lit by skylight seams.",
+"keep": 3,
+"list": "americas",
+"qid": "Q29257",
+"commons": "TWA Flight Center",
+"image": "Jfkairport.jpg",
+"coords": [
+40.645828,
+-73.777539
+]
+},
+{
+"name": "Gateway Arch",
+"by": "Eero Saarinen",
+"city": "St. Louis",
+"cc": "US",
+"year": "1965",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Monumentality",
+"Structure as expression"
+],
+"features": "Weighted catenary arch of triangular stainless-steel-clad sections, with tram cars running up its legs.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2027162",
+"commons": "Gateway Arch",
+"image": "St Louis Gateway Arch.jpg",
+"coords": [
+38.62461111111111,
+-90.18497222222223
+]
+},
+{
+"name": "Vietnam Veterans Memorial",
+"by": "Maya Lin",
+"city": "Washington, D.C.",
+"cc": "US",
+"year": "1982",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Landscape",
+"Stone",
+"Axis"
+],
+"features": "Two black granite walls cut into the ground meet at an angle, carrying the names of the dead.",
+"keep": 3,
+"list": "americas",
+"qid": "Q713628",
+"commons": "Vietnam Veterans Memorial",
+"image": "Vietnam Memorial Wall with Washington Monument.jpg",
+"coords": [
+38.891111111111,
+-77.047777777778
+]
+},
+{
+"name": "National Gallery of Art East Building",
+"by": "I. M. Pei",
+"city": "Washington, D.C.",
+"cc": "US",
+"year": "1978",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Light from above",
+"Stone"
+],
+"features": "Plan of two triangles cut from a trapezoid site, with a skylit atrium under a tetrahedral space frame.",
+"keep": 3,
+"list": "americas",
+"qid": "Q214867",
+"commons": "National Gallery of Art",
+"image": "National Gallery of Art - West Building.JPG",
+"coords": [
+38.89138888888889,
+-77.02
+]
+},
+{
+"name": "Menil Collection",
+"by": "Renzo Piano",
+"city": "Houston",
+"cc": "US",
+"year": "1987",
+"type": "Museum",
+"movement": "High-tech",
+"concepts": [
+"Light from above",
+"Climate response",
+"Detail"
+],
+"features": "Curved ferrocement 'leaves' under the glass roof diffuse the Texas sun into the galleries.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1888308",
+"commons": "Menil Collection",
+"image": "MenilCollection.JPG",
+"coords": [
+29.73734,
+-95.39851
+]
+},
+{
+"name": "California Academy of Sciences",
+"by": "Renzo Piano",
+"city": "San Francisco",
+"cc": "US",
+"year": "2008",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Climate response",
+"Light from above"
+],
+"features": "Undulating planted roof over two domes, with porthole skylights and a central glazed piazza.",
+"keep": 2,
+"list": "americas",
+"qid": "Q965731",
+"commons": "California Academy of Sciences",
+"image": "CaliforniaAcademyofSciences.jpg",
+"coords": [
+37.77,
+-122.46638888889
+]
+},
+{
+"name": "Robie House",
+"by": "Frank Lloyd Wright",
+"city": "Chicago",
+"cc": "US",
+"year": "1910",
+"type": "House",
+"movement": "Historic precedent",
+"concepts": [
+"Cantilever",
+"Brick",
+"Free plan"
+],
+"features": "Long cantilevered roofs and Roman brick bands, with living spaces flowing around a central hearth.",
+"keep": 3,
+"list": "americas",
+"qid": "Q929965",
+"commons": "Robie House",
+"image": "La prairie house de -franklloydwright -chicago -robiehouse (33934116221).jpg",
+"coords": [
+41.789833,
+-87.595917
+]
+},
+{
+"name": "Unity Temple",
+"by": "Frank Lloyd Wright",
+"city": "Oak Park",
+"cc": "US",
+"year": "1908",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Exposed concrete",
+"Light from above",
+"Geometry"
+],
+"features": "Poured-concrete cube with a coffered skylit ceiling and clerestories, entered through low cloisters.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1680814",
+"commons": "Unity Temple",
+"image": "Oak Park Il Unity Temple9.jpg",
+"coords": [
+41.888333,
+-87.796667
+]
+},
+{
+"name": "Chrysler Building",
+"by": "William Van Alen",
+"city": "New York",
+"cc": "US",
+"year": "1930",
+"type": "Office & tower",
+"movement": "Art Deco",
+"concepts": [
+"Detail",
+"Geometry",
+"Monumentality"
+],
+"features": "Stainless-steel crown of stacked sunburst arches above setbacks, with metal ornaments on the brick shaft.",
+"keep": 3,
+"list": "americas",
+"qid": "Q11274",
+"commons": "Chrysler Building",
+"image": "Chrysler Building by David Shankbone Retouched.jpg",
+"coords": [
+40.751430555556,
+-73.975719444444
+]
+},
+{
+"name": "860-880 Lake Shore Drive",
+"by": "Ludwig Mies van der Rohe",
+"city": "Chicago",
+"cc": "US",
+"year": "1951",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Steel & glass",
+"Structure as expression",
+"Modular"
+],
+"features": "Two steel-and-glass towers set at right angles, with applied I-beam mullions expressing the frame.",
+"keep": 3,
+"list": "americas",
+"qid": "Q273155",
+"commons": "860–880 Lake Shore Drive",
+"image": "860-880 Lake Shore Drive.jpg",
+"coords": [
+41.898611,
+-87.618611
+]
+},
+{
+"name": "Toronto-Dominion Centre",
+"by": "Ludwig Mies van der Rohe",
+"city": "Toronto",
+"cc": "CA",
+"year": "1967",
+"type": "Office & tower",
+"movement": "Modernism",
+"concepts": [
+"Steel & glass",
+"Public space",
+"Modular"
+],
+"features": "Black steel and bronze-glass towers on a granite plaza, with a single-storey banking pavilion.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1239847",
+"commons": "Toronto Dominion Centre",
+"image": "Mies van der rohe 3-6-2006.jpg",
+"coords": [
+43.6479,
+-79.3808
+]
+},
+{
+"name": "John Hancock Center",
+"by": "Bruce Graham, Fazlur Khan",
+"city": "Chicago",
+"cc": "US",
+"year": "1969",
+"type": "Office & tower",
+"movement": "Late modernism",
+"concepts": [
+"Structure as expression",
+"Steel & glass",
+"Section"
+],
+"features": "Tapering tower whose exterior X-braced tube resists wind, stacking shops, offices and flats.",
+"keep": 3,
+"list": "americas",
+"qid": "Q217727",
+"commons": "875 North Michigan Avenue",
+"image": "Hancock from Navy Pier.jpg",
+"coords": [
+41.898889,
+-87.623056
+]
+},
+{
+"name": "Willis Tower",
+"by": "Bruce Graham, Fazlur Khan",
+"city": "Chicago",
+"cc": "US",
+"year": "1974",
+"type": "Office & tower",
+"movement": "Late modernism",
+"concepts": [
+"Structure as expression",
+"Modular",
+"Steel & glass"
+],
+"features": "Nine bundled steel tubes stop at different heights, producing the stepped setbacks of the tower.",
+"keep": 2,
+"list": "americas",
+"qid": "Q29294",
+"commons": "Willis Tower",
+"image": "Chicago Sears Tower.jpg",
+"coords": [
+41.878611,
+-87.635833
+]
+},
+{
+"name": "PSFS Building",
+"by": "George Howe, William Lescaze",
+"city": "Philadelphia",
+"cc": "US",
+"year": "1932",
+"type": "Office & tower",
+"movement": "Modernism",
+"concepts": [
+"Cantilever",
+"Steel & glass",
+"Section"
+],
+"features": "T-shaped office slab cantilevered beyond its columns, over a raised banking hall and curved base.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1548457",
+"commons": "PSFS Building",
+"image": "PSFSBuilding1985.jpg",
+"coords": [
+39.951666666667,
+-75.160555555556
+]
+},
+{
+"name": "Guild House",
+"by": "Robert Venturi",
+"city": "Philadelphia",
+"cc": "US",
+"year": "1963",
+"type": "Housing",
+"movement": "Postmodernism",
+"concepts": [
+"Brick",
+"Facade as skin",
+"Detail"
+],
+"features": "Brick housing for the elderly with a signboard facade, a big arched window and a mock antenna on top.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5615728",
+"commons": null,
+"image": "Venturi Guild House.jpg",
+"coords": [
+39.9618,
+-75.1507
+]
+},
+{
+"name": "Sea Ranch Condominium One",
+"by": "Moore Lyndon Turnbull Whitaker",
+"city": "Sea Ranch",
+"cc": "US",
+"year": "1965",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Cluster",
+"Climate response"
+],
+"features": "Timber-clad cluster of units under shed roofs angled against the coastal wind on a headland meadow.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5159315",
+"commons": null,
+"image": "Condominium 1, 110-128 Sea Walk Dr., Sea Ranch, CA 7-5-2010 7-07-18 PM.JPG",
+"coords": [
+38.679167,
+-123.427778
+]
+},
+{
+"name": "Yale University Art Gallery",
+"by": "Louis Kahn",
+"city": "New Haven",
+"cc": "US",
+"year": "1953",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Free plan",
+"Exposed concrete"
+],
+"features": "Tetrahedral concrete ceiling holds the services; open loft galleries surround a cylindrical stair.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1568434",
+"commons": "Yale University Art Gallery",
+"image": "Yale University Art Gallery exterior.jpg",
+"coords": [
+41.30839,
+-72.930958
+]
+},
+{
+"name": "Trenton Bath House",
+"by": "Louis Kahn",
+"city": "Ewing",
+"cc": "US",
+"year": "1955",
+"type": "Pavilion",
+"movement": "Modernism",
+"concepts": [
+"Geometry",
+"Modular",
+"Courtyard"
+],
+"features": "Hollow square piers carry four pyramid roofs around an open court, separating served and servant spaces.",
+"keep": 3,
+"list": "americas",
+"qid": "Q7838548",
+"commons": "Trenton Bath House",
+"image": "T bath house light.JPG",
+"coords": [
+40.2592,
+-74.7994
+]
+},
+{
+"name": "Ford Foundation Building",
+"by": "Kevin Roche, John Dinkeloo",
+"city": "New York",
+"cc": "US",
+"year": "1967",
+"type": "Workplace",
+"movement": "Late modernism",
+"concepts": [
+"Planting",
+"Void",
+"Steel & glass"
+],
+"features": "L-shaped offices look onto a full-height glazed garden atrium set inside the block.",
+"keep": 3,
+"list": "americas",
+"qid": "Q5467785",
+"commons": "Ford Foundation Building",
+"image": "Ford foundation building 1.JPG",
+"coords": [
+40.749722222222225,
+-73.97111111111111
+]
+},
+{
+"name": "Breuer Building",
+"by": "Marcel Breuer",
+"city": "New York",
+"cc": "US",
+"year": "1966",
+"type": "Museum",
+"movement": "Brutalism",
+"concepts": [
+"Stone",
+"Monumentality",
+"Section"
+],
+"features": "Inverted stepped granite block with a trapezoid window, overhanging a sunken sculpture court.",
+"keep": 3,
+"list": "americas",
+"qid": "Q105724647",
+"commons": "945 Madison Avenue",
+"image": "MET Breuer (48377070386).jpg",
+"coords": [
+40.773411,
+-73.963837
+]
+},
+{
+"name": "St. John's Abbey Church",
+"by": "Marcel Breuer",
+"city": "Collegeville",
+"cc": "US",
+"year": "1961",
+"type": "Religious",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Light & shadow",
+"Structure as expression"
+],
+"features": "Folded concrete walls and a vast honeycomb window wall, fronted by a freestanding slab bell banner.",
+"keep": 3,
+"list": "americas",
+"qid": "Q2820565",
+"commons": "Saint John's Abbey",
+"image": "2009-0522-MN-SJU-abbeychurch.jpg",
+"coords": [
+45.580278,
+-94.392222
+]
+},
+{
+"name": "Wainwright Building",
+"by": "Louis Sullivan",
+"city": "St. Louis",
+"cc": "US",
+"year": "1891",
+"type": "Office & tower",
+"movement": "Historic precedent",
+"concepts": [
+"Structure as expression",
+"Detail",
+"Brick"
+],
+"features": "Steel-frame office block with tall brick piers, a two-storey base and a deep terracotta frieze.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1143548",
+"commons": "Wainwright Building",
+"image": "Wainwright building st louis USA.jpg",
+"coords": [
+38.626944,
+-90.192222
+]
+},
+{
+"name": "Glass Pavilion, Toledo Museum of Art",
+"by": "SANAA",
+"city": "Toledo",
+"cc": "US",
+"year": "2006",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Steel & glass",
+"Free plan",
+"Climate response"
+],
+"features": "Curved glass-walled rooms float in a square plan, separated by air cavities that buffer heat.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1743116",
+"commons": "Toledo Museum of Art",
+"image": "Toledo Museum of Art exterior 02.jpg",
+"coords": [
+41.65833333333333,
+-83.55944444444444
+]
+},
+{
+"name": "Milwaukee Art Museum Quadracci Pavilion",
+"by": "Santiago Calatrava",
+"city": "Milwaukee",
+"cc": "US",
+"year": "2001",
+"type": "Museum",
+"movement": "High-tech",
+"concepts": [
+"Brise-soleil",
+"Sculptural form",
+"Structure as expression"
+],
+"features": "Movable steel brise-soleil wings open and close over a glass reception hall reached by a cable bridge.",
+"keep": 2,
+"list": "americas",
+"qid": "Q325712",
+"commons": "Milwaukee Art Museum",
+"image": "Milwaukee Art Museum 1 (Mulad).jpg",
+"coords": [
+43.04,
+-87.89722222222223
+]
+},
+{
+"name": "Modern Art Museum of Fort Worth",
+"by": "Tadao Ando",
+"city": "Fort Worth",
+"cc": "US",
+"year": "2002",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Water",
+"Exposed concrete",
+"Steel & glass"
+],
+"features": "Five glass-wrapped concrete pavilions with Y-shaped columns stand in a large reflecting pond.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1414796",
+"commons": "Modern Art Museum of Fort Worth",
+"image": "Fort Worth Texas Modern Art Museum 2003.jpg",
+"coords": [
+32.749287,
+-97.363069
+]
+},
+{
+"name": "Pulitzer Arts Foundation",
+"by": "Tadao Ando",
+"city": "St. Louis",
+"cc": "US",
+"year": "2001",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Water",
+"Light & shadow"
+],
+"features": "Two parallel concrete bars frame a shallow water court, with daylight drawn in through slots.",
+"keep": 2,
+"list": "americas",
+"qid": "Q6372886",
+"commons": null,
+"image": "Pulitzerfoundation.jpg",
+"coords": [
+38.6404,
+-90.2344
+]
+},
+{
+"name": "Ray and Maria Stata Center",
+"by": "Frank Gehry",
+"city": "Cambridge",
+"cc": "US",
+"year": "2004",
+"type": "Education",
+"movement": "Deconstructivism",
+"concepts": [
+"Sculptural form",
+"Circulation",
+"Public space"
+],
+"features": "Tilting, colliding volumes of brick and metal over a public interior street on the ground floor.",
+"keep": 2,
+"list": "americas",
+"qid": "Q3312712",
+"commons": "Stata Center (MIT Building 32)",
+"image": "Ray and Maria Stata Center - MIT, Cambridge (16868722144).jpg",
+"coords": [
+42.36154,
+-71.09056
+]
+},
+{
+"name": "Chapel of St. Ignatius",
+"by": "Steven Holl",
+"city": "Seattle",
+"cc": "US",
+"year": "1997",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Colour",
+"Exposed concrete"
+],
+"features": "Tilt-up concrete box under curved roof lanterns, each with coloured lenses and baffles for a liturgy.",
+"keep": 3,
+"list": "americas",
+"qid": "Q114630227",
+"commons": "Chapel of St. Ignatius, Seattle University",
+"image": "Seattle U St Ignatius 44.jpg",
+"coords": [
+47.61138888888889,
+-122.31805555555555
+]
+},
+{
+"name": "Washington Metro stations",
+"by": "Harry Weese",
+"city": "Washington, D.C.",
+"cc": "US",
+"year": "1976",
+"type": "Infrastructure",
+"movement": "Brutalism",
+"concepts": [
+"Vault",
+"Exposed concrete",
+"Light & shadow"
+],
+"features": "Coffered concrete barrel vaults span the platforms column-free, washed by indirect light.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Simon Fraser University",
+"by": "Arthur Erickson, Geoffrey Massey",
+"city": "Burnaby",
+"cc": "CA",
+"year": "1965",
+"type": "Education",
+"movement": "Brutalism",
+"concepts": [
+"Megastructure",
+"Landscape",
+"Public space"
+],
+"features": "Linear concrete campus on a mountain ridge, with a covered central mall under a glazed space-frame roof.",
+"keep": 3,
+"list": "americas",
+"qid": "Q201603",
+"commons": "Simon Fraser University",
+"image": "Academic quad at sfu.jpg",
+"coords": [
+49.278175782049374,
+-122.91939382818825
+]
+},
+{
+"name": "Canadian Museum of History",
+"by": "Douglas Cardinal",
+"city": "Gatineau",
+"cc": "CA",
+"year": "1989",
+"type": "Museum",
+"movement": "Expressionism",
+"concepts": [
+"Sculptural form",
+"Stone",
+"Landscape"
+],
+"features": "Curving layered stone walls read as wind-shaped landforms; a glazed Grand Hall faces the river.",
+"keep": 3,
+"list": "americas",
+"qid": "Q1032269",
+"commons": "Canadian Museum of History",
+"image": "Gatineau - QC - Museum of Civilisation3.jpg",
+"coords": [
+45.429722222222,
+-75.708888888889
+]
+},
+{
+"name": "Sharp Centre for Design",
+"by": "Will Alsop",
+"city": "Toronto",
+"cc": "CA",
+"year": "2004",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Pilotis",
+"Colour",
+"Cantilever"
+],
+"features": "Chequered black-and-white box on tall coloured steel legs hovers over the older art school.",
+"keep": 3,
+"list": "americas",
+"qid": "Q111798791",
+"commons": "Sharp Centre for Design",
+"image": "Toronto - ON - Ontario College of Art & Design3.jpg",
+"coords": [
+43.65301306099481,
+-79.39112313812355
+]
+},
+{
+"name": "Calgary Central Library",
+"by": "Snøhetta, DIALOG",
+"city": "Calgary",
+"cc": "CA",
+"year": "2018",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Geometry",
+"Public space"
+],
+"features": "Lens-shaped volume arching over a light-rail line, with hexagonal cladding and a timber-lined atrium.",
+"keep": 3,
+"list": "americas",
+"qid": "Q24262318",
+"commons": "Central Library (Calgary)",
+"image": "Central Library - Calgary Public Library.jpg",
+"coords": [
+51.0453,
+-114.0549
+]
+},
+{
+"name": "Fogo Island Inn",
+"by": "Todd Saunders",
+"city": "Fogo Island",
+"cc": "CA",
+"year": "2013",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Pilotis",
+"Landscape"
+],
+"features": "X-shaped timber inn raised on slender stilts over the rocky Atlantic shore, furnished by local crafts.",
+"keep": 3,
+"list": "americas",
+"qid": null
+},
+{
+"name": "Montreal Olympic Stadium",
+"by": "Roger Taillibert",
+"city": "Montreal",
+"cc": "CA",
+"year": "1976",
+"type": "Culture & sport",
+"movement": "Brutalism",
+"concepts": [
+"Tensile structure",
+"Exposed concrete",
+"Megastructure"
+],
+"features": "Ribbed concrete bowl beside an inclined tower built to suspend a retractable fabric roof by cables.",
+"keep": 2,
+"list": "americas",
+"qid": "Q285467",
+"commons": "Olympic Stadium (Montreal)",
+"image": "Aerial view of Olympic Stadium of Montreal.jpg",
+"coords": [
+45.55781,
+-73.55164
+]
+},
+{
+"name": "Kagawa Prefectural Government Office",
+"by": "Kenzo Tange",
+"city": "Takamatsu",
+"cc": "JP",
+"year": "1958",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Exposed concrete",
+"Structure as expression",
+"Public space"
+],
+"features": "Concrete beam ends under the balconies echo timber framing; the ground floor and court are open to the public.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q4448812",
+"commons": "Kagawa Prefectural Government Office",
+"image": "Kagawa Prefectural Office Main Building.JPG",
+"coords": [
+34.34015,
+134.043444
+]
+},
+{
+"name": "Yamanashi Press and Broadcasting Center",
+"by": "Kenzo Tange",
+"city": "Kofu",
+"cc": "JP",
+"year": "1966",
+"type": "Office & tower",
+"movement": "Metabolism",
+"concepts": [
+"Megastructure",
+"Modular",
+"Circulation"
+],
+"features": "Sixteen cylindrical service shafts carry office floors bridged between them, leaving gaps for growth.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Oita Prefectural Library (Art Plaza)",
+"by": "Arata Isozaki",
+"city": "Oita",
+"cc": "JP",
+"year": "1966",
+"type": "Library",
+"movement": "Metabolism",
+"concepts": [
+"Exposed concrete",
+"Structure as expression",
+"Section"
+],
+"features": "Hollow precast concrete beams project from the facade as tubes, expressing structure and services.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Gunma Museum of Modern Art",
+"by": "Arata Isozaki",
+"city": "Takasaki",
+"cc": "JP",
+"year": "1974",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Modular",
+"Water"
+],
+"features": "Open cubic frames clad in square aluminium panels; one wing turns off the grid over a pool.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q11609688",
+"commons": "The Museum of Modern Art, Gunma",
+"image": "The Museum of Modern Art, Gunma.JPG",
+"coords": [
+36.298722,
+139.078639
+]
+},
+{
+"name": "Tsukuba Center Building",
+"by": "Arata Isozaki",
+"city": "Tsukuba",
+"cc": "JP",
+"year": "1983",
+"type": "Civic",
+"movement": "Postmodernism",
+"concepts": [
+"Public space",
+"Geometry",
+"Void"
+],
+"features": "A sunken oval plaza inverts the Campidoglio, framed by blocks that quote fragments of past architecture.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q4448816",
+"commons": "Tsukuba Center Building",
+"image": "Tsukuba Center Building 2008.jpg",
+"coords": [
+36.081944,
+140.114056
+]
+},
+{
+"name": "Hillside Terrace",
+"by": "Fumihiko Maki",
+"city": "Tokyo",
+"cc": "JP",
+"year": "1992",
+"type": "Housing",
+"movement": "Late modernism",
+"concepts": [
+"Incremental",
+"Public space",
+"Courtyard"
+],
+"features": "Low mixed-use blocks built in phases along a street, with small courts and passages open to the sidewalk.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Kaze-no-Oka Crematorium",
+"by": "Fumihiko Maki",
+"city": "Nakatsu",
+"cc": "JP",
+"year": "1997",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Landscape",
+"Promenade",
+"Light & shadow"
+],
+"features": "A brick octagon, Cor-ten hall and concrete wing sit in a landscaped park, sequenced by controlled light.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Water Temple (Honpuku-ji)",
+"by": "Tadao Ando",
+"city": "Awaji",
+"cc": "JP",
+"year": "1991",
+"type": "Religious",
+"movement": "Late modernism",
+"concepts": [
+"Water",
+"Promenade",
+"Light & shadow"
+],
+"features": "A stair splits an oval lotus pond and descends to a red-lit hall beneath the water.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Church on the Water",
+"by": "Tadao Ando",
+"city": "Tomamu",
+"cc": "JP",
+"year": "1988",
+"type": "Religious",
+"movement": "Late modernism",
+"concepts": [
+"Water",
+"Landscape",
+"Light & shadow"
+],
+"features": "A glass wall slides fully open onto a shallow pool holding a steel cross against the forest.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q11548172",
+"commons": "Church on the Water",
+"image": "Church on the Water Exterior1.jpg",
+"coords": [
+43.064992,
+142.623361
+]
+},
+{
+"name": "Rokko Housing",
+"by": "Tadao Ando",
+"city": "Kobe",
+"cc": "JP",
+"year": "1983",
+"type": "Housing",
+"movement": "Late modernism",
+"concepts": [
+"Landscape",
+"Modular",
+"Exposed concrete"
+],
+"features": "Concrete units on a regular grid step down a steep slope, each terrace on the roof of the unit below.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Benesse House Museum",
+"by": "Tadao Ando",
+"city": "Naoshima",
+"cc": "JP",
+"year": "1992",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Landscape",
+"Exposed concrete",
+"Light from above"
+],
+"features": "Concrete galleries cut into a hillside above the sea, combining museum rooms with guest rooms.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q11337013",
+"commons": "Benesse House",
+"image": "Benesse Art House (6900628038).jpg",
+"coords": [
+34.445,
+133.990889
+]
+},
+{
+"name": "Tama Art University Library",
+"by": "Toyo Ito",
+"city": "Hachioji",
+"cc": "JP",
+"year": "2007",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Vault",
+"Free plan"
+],
+"features": "Thin concrete-encased steel arches in varying spans cross on a gently sloping ground floor.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q28154423",
+"commons": "Tama Art University Library",
+"image": "Tama bijutsu daigaku library.jpg",
+"coords": [
+35.61138889,
+139.35111111
+]
+},
+{
+"name": "Tod's Omotesando Building",
+"by": "Toyo Ito",
+"city": "Tokyo",
+"cc": "JP",
+"year": "2004",
+"type": "Office & tower",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Structure as expression",
+"Exposed concrete"
+],
+"features": "Overlapping concrete branches form the load-bearing facade, thinning as they rise like zelkova trees.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Minna no Mori Gifu Media Cosmos",
+"by": "Toyo Ito",
+"city": "Gifu",
+"cc": "JP",
+"year": "2015",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Climate response",
+"Light from above"
+],
+"features": "An undulating cypress lattice roof with fabric globes that draw in daylight and exhaust warm air.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Musashino Art University Library",
+"by": "Sou Fujimoto",
+"city": "Kodaira",
+"cc": "JP",
+"year": "2010",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Circulation",
+"Geometry",
+"Timber"
+],
+"features": "A spiral of tall timber bookshelf walls, cut with openings, defines the rooms and routes.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Naoshima Ferry Terminal",
+"by": "SANAA",
+"city": "Naoshima",
+"cc": "JP",
+"year": "2006",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Steel & glass",
+"Free plan",
+"Public space"
+],
+"features": "A thin flat roof on slender steel columns covers glass boxes and an open waiting space by the quay.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Art Biotop Water Garden",
+"by": "Junya Ishigami",
+"city": "Nasu",
+"cc": "JP",
+"year": "2018",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Water",
+"Planting"
+],
+"features": "Over 300 trees moved from a nearby site stand among about 160 shallow ponds on a moss floor.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Oita Prefectural Art Museum",
+"by": "Shigeru Ban",
+"city": "Oita",
+"cc": "JP",
+"year": "2015",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Public space",
+"Facade as skin"
+],
+"features": "Folding glass doors open the ground floor to the street; a timber lattice wraps the upper floor.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q11432891",
+"commons": "Oita Prefectural Art Museum",
+"image": "Oita OPAM 1.jpg",
+"coords": [
+33.23947222,
+131.60138889
+]
+},
+{
+"name": "Yusuhara Wooden Bridge Museum",
+"by": "Kengo Kuma",
+"city": "Yusuhara",
+"cc": "JP",
+"year": "2010",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Cantilever",
+"Structure as expression"
+],
+"features": "Stacked cedar brackets cantilever out from a single central pier to carry a bridge gallery.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Nakagawa-machi Bato Hiroshige Museum",
+"by": "Kengo Kuma",
+"city": "Nakagawa",
+"cc": "JP",
+"year": "2000",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Light & shadow",
+"Earth & local material"
+],
+"features": "Local cedar louvres cover roof and walls alike, filtering light into galleries lined with washi paper.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q42704985",
+"commons": "Nakagawa-machi Bato Hiroshige Museum of Art",
+"image": "Bato Hiroshige Museum 2009.jpg",
+"coords": [
+36.739111,
+140.170944
+]
+},
+{
+"name": "National Museum of Ethnology",
+"by": "Kisho Kurokawa",
+"city": "Suita",
+"cc": "JP",
+"year": "1977",
+"type": "Museum",
+"movement": "Metabolism",
+"concepts": [
+"Modular",
+"Courtyard",
+"Cluster"
+],
+"features": "Square exhibition blocks cluster around courtyards, planned so wings can be added as the collection grows.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q147157",
+"commons": "National Museum of Ethnology, Osaka",
+"image": "National museum of ethnology Japan.jpg",
+"coords": [
+34.81286111,
+135.5296833
+]
+},
+{
+"name": "Centennial Hall, Tokyo Institute of Technology",
+"by": "Kazuo Shinohara",
+"city": "Tokyo",
+"cc": "JP",
+"year": "1987",
+"type": "Education",
+"movement": "Postmodernism",
+"concepts": [
+"Sculptural form",
+"Geometry",
+"Steel & glass"
+],
+"features": "A half-cylinder of aluminium cuts diagonally across stacked boxes above a glazed hall.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Kyoto Station Building",
+"by": "Hiroshi Hara",
+"city": "Kyoto",
+"cc": "JP",
+"year": "1997",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Circulation",
+"Steel & glass"
+],
+"features": "A long atrium under a steel space-frame roof, flanked by stepped terraces rising to a skyway.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q108813858",
+"commons": "Kyoto Station building (1997)",
+"image": "130609 Kyoto Station Kyoto Japan03s3.jpg",
+"coords": null
+},
+{
+"name": "Gallery of Horyuji Treasures",
+"by": "Yoshio Taniguchi",
+"city": "Tokyo",
+"cc": "JP",
+"year": "1999",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Water",
+"Facade as skin",
+"Detail"
+],
+"features": "A thin steel canopy and layered glass, metal and stone screens reflected in a shallow pool.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q123195811",
+"commons": "The Gallery of Horyuji Treasures",
+"image": "2018 The Gallery of Horyuji Treasures 03.jpg",
+"coords": [
+35.71866,
+139.77408
+]
+},
+{
+"name": "Hotakubo Housing",
+"by": "Riken Yamamoto",
+"city": "Kumamoto",
+"cc": "JP",
+"year": "1991",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Community",
+"Public space"
+],
+"features": "Public housing units ring a common court that can only be entered through the dwellings.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Jinchokan Moriya Historical Museum",
+"by": "Terunobu Fujimori",
+"city": "Chino",
+"cc": "JP",
+"year": "1991",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Timber",
+"Stone"
+],
+"features": "Rough plaster walls, hand-split stone roofing and raw timber posts give a hand-made surface.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q11591010",
+"commons": "Jinchoukan-Moriya-shiryoukan",
+"image": "神長官守矢史料館 (51790275588).jpg",
+"coords": [
+35.995528,
+138.128
+]
+},
+{
+"name": "Fuji Kindergarten",
+"by": "Tezuka Architects",
+"city": "Tachikawa",
+"cc": "JP",
+"year": "2007",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Landscape",
+"Community"
+],
+"features": "A single-storey oval ring whose roof deck is a continuous playground around a yard and trees.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Toba Sea-Folk Museum",
+"by": "Hiroshi Naito",
+"city": "Toba",
+"cc": "JP",
+"year": "1992",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Climate response",
+"Earth & local material"
+],
+"features": "Long tiled-roof storehouses and laminated-timber exhibition halls built for a humid, salty coast.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q11558616",
+"commons": "Toba Sea-Folk Museum",
+"image": "Toba Sea-Folk Museum01.jpg",
+"coords": [
+34.449208,
+136.899872
+]
+},
+{
+"name": "Inujima Seirensho Art Museum",
+"by": "Hiroshi Sambuichi",
+"city": "Inujima",
+"cc": "JP",
+"year": "2008",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Climate response",
+"Reclaimed material"
+],
+"features": "A ruined copper refinery's chimney and slag-brick tunnels drive passive ventilation through galleries.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Ise Grand Shrine",
+"by": "Shinto shrine carpenters",
+"city": "Ise",
+"cc": "JP",
+"year": "2013",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Timber",
+"Detail",
+"Incremental"
+],
+"features": "Unpainted cypress shrine rebuilt on an adjacent plot every 20 years, keeping the craft alive.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q687168",
+"commons": "Ise Shrine",
+"image": "Ise-Shrine Itagaki-minami-gomon.jpg",
+"coords": [
+34.455,
+136.72583333333
+]
+},
+{
+"name": "China Academy of Art, Xiangshan Campus",
+"by": "Wang Shu, Lu Wenyu",
+"city": "Hangzhou",
+"cc": "CN",
+"year": "2007",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Reclaimed material",
+"Earth & local material",
+"Landscape"
+],
+"features": "Walls and roofs laid with tiles and bricks salvaged from demolished houses, set loosely around a hill.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Suzhou Museum",
+"by": "I. M. Pei",
+"city": "Suzhou",
+"cc": "CN",
+"year": "2006",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Light from above",
+"Water"
+],
+"features": "White walls with grey stone-trimmed roofs around a water garden; geometric skylights light the galleries.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q998042",
+"commons": "Suzhou Museum",
+"image": "Suzhou Museum - new buildings.jpg",
+"coords": [
+31.32514,
+120.62354
+]
+},
+{
+"name": "Galaxy SOHO",
+"by": "Zaha Hadid Architects",
+"city": "Beijing",
+"cc": "CN",
+"year": "2012",
+"type": "Office & tower",
+"movement": "Parametric",
+"concepts": [
+"Sculptural form",
+"Circulation",
+"Public space"
+],
+"features": "Four domed volumes linked by stretched bridges, with continuous curved floor bands around open courts.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q15913208",
+"commons": "Galaxy SOHO",
+"image": "Galaxy SOHO+.jpg",
+"coords": [
+39.919151,
+116.426799
+]
+},
+{
+"name": "Beijing Daxing International Airport",
+"by": "Zaha Hadid Architects",
+"city": "Beijing",
+"cc": "CN",
+"year": "2019",
+"type": "Infrastructure",
+"movement": "Parametric",
+"concepts": [
+"Light from above",
+"Circulation",
+"Structure as expression"
+],
+"features": "Piers radiate from a central hall to shorten walking distances, under a roof on C-shaped skylit supports.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q1139574",
+"commons": "Beijing Daxing International Airport",
+"image": "北京大兴机场航站楼, 2023-02-20 (20240113195424).jpg",
+"coords": [
+39.511944,
+116.410556
+]
+},
+{
+"name": "Harbin Opera House",
+"by": "MAD Architects",
+"city": "Harbin",
+"cc": "CN",
+"year": "2015",
+"type": "Culture & sport",
+"movement": "Parametric",
+"concepts": [
+"Sculptural form",
+"Landscape",
+"Timber"
+],
+"features": "White aluminium-clad volumes rise from the wetland; the main hall is lined in carved Manchurian ash.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Long Museum West Bund",
+"by": "Atelier Deshaus",
+"city": "Shanghai",
+"cc": "CN",
+"year": "2014",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Vault",
+"Adaptive reuse",
+"Exposed concrete"
+],
+"features": "Cantilevered concrete umbrella vaults rise over a retained coal-hopper bridge from the old wharf.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q18712414",
+"commons": "Long Museum",
+"image": "20251129 Long Museum West Bund (II).jpg",
+"coords": [
+31.21811,
+121.569761
+]
+},
+{
+"name": "UCCA Dune Art Museum",
+"by": "OPEN Architecture",
+"city": "Qinhuangdao",
+"cc": "CN",
+"year": "2018",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Light from above",
+"Exposed concrete"
+],
+"features": "Cave-like concrete galleries buried under a sand dune, lit by skylights and openings toward the sea.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Tulou Collective Housing",
+"by": "Urbanus",
+"city": "Guangzhou",
+"cc": "CN",
+"year": "2008",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Low cost",
+"Courtyard",
+"Community"
+],
+"features": "A ring of low-cost rental units around a court reinterprets the Hakka earthen roundhouse.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Liyuan Library",
+"by": "Li Xiaodong",
+"city": "Beijing",
+"cc": "CN",
+"year": "2011",
+"type": "Library",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Earth & local material",
+"Light & shadow"
+],
+"features": "A glass box wrapped in local firewood sticks that filter daylight onto stepped reading platforms.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Bridge School",
+"by": "Li Xiaodong",
+"city": "Xiashi",
+"cc": "CN",
+"year": "2009",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Structure as expression",
+"Community",
+"Timber"
+],
+"features": "Two steel trusses span a creek between two tulou, holding classrooms with a hung footbridge below.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Forbidden City",
+"by": "Kuai Xiang",
+"city": "Beijing",
+"cc": "CN",
+"year": "1420",
+"type": "Palace",
+"movement": "Historic precedent",
+"concepts": [
+"Axis",
+"Courtyard",
+"Monumentality"
+],
+"features": "Halls and courts in a strict north-south axial sequence, enclosed by walls and a moat.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q80290",
+"commons": "Forbidden City",
+"image": "Hall of Supreme Harmony (20241127120000).jpg",
+"coords": [
+39.91583333333333,
+116.39083333333333
+]
+},
+{
+"name": "Temple of Heaven",
+"by": "Ming imperial builders",
+"city": "Beijing",
+"cc": "CN",
+"year": "1420",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Geometry",
+"Axis",
+"Timber"
+],
+"features": "Triple-roofed circular timber hall on a three-tier marble terrace, reached by a raised axial walkway.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Humble Administrator's Garden",
+"by": "Wang Xianchen",
+"city": "Suzhou",
+"cc": "CN",
+"year": "c. 1513",
+"type": "Public space",
+"movement": "Historic precedent",
+"concepts": [
+"Water",
+"Landscape",
+"Promenade"
+],
+"features": "Pavilions, galleries and rockeries set around ponds so views unfold along a winding path.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q1076650",
+"commons": "Humble Administrator's Garden",
+"image": "Suzhou Zhuozheng Yuan 2015.04.23 08-13-49.jpg",
+"coords": [
+31.325833333333,
+120.62444444444
+]
+},
+{
+"name": "Chengqi Lou (Fujian Tulou)",
+"by": "Hakka builders",
+"city": "Yongding",
+"cc": "CN",
+"year": "1709",
+"type": "Housing",
+"movement": "Historic precedent",
+"concepts": [
+"Earth & local material",
+"Courtyard",
+"Community"
+],
+"features": "Concentric rings of rooms inside a thick rammed-earth outer wall around an ancestral hall.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Tai Kwun",
+"by": "Herzog & de Meuron",
+"city": "Hong Kong",
+"cc": "HK",
+"year": "2018",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Courtyard",
+"Facade as skin"
+],
+"features": "A restored police compound with two new blocks clad in cast-aluminium bricks, one raised over the yard.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "M+",
+"by": "Herzog & de Meuron",
+"city": "Hong Kong",
+"cc": "HK",
+"year": "2021",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Section",
+"Public space"
+],
+"features": "A slim tower clad in green terracotta louvres on a broad podium built over a rail tunnel.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q10851500",
+"commons": "M+",
+"image": "WKCD M+, 2021.11.jpg",
+"coords": [
+22.300958,
+114.159645
+]
+},
+{
+"name": "Jockey Club Innovation Tower",
+"by": "Zaha Hadid Architects",
+"city": "Hong Kong",
+"cc": "HK",
+"year": "2014",
+"type": "Education",
+"movement": "Parametric",
+"concepts": [
+"Sculptural form",
+"Facade as skin",
+"Circulation"
+],
+"features": "Horizontal aluminium fins wrap a fluid tower with internal courtyards and open stairs.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q6036183",
+"commons": "Jockey Club Innovation Tower, Hong Kong Polytechnic University",
+"image": "Jockey Club Innovation Tower, Hong Kong Polytechnic University, August 2013.jpg",
+"coords": [
+22.3056,
+114.179
+]
+},
+{
+"name": "Hong Kong City Hall",
+"by": "Ron Phillips, Alan Fitch",
+"city": "Hong Kong",
+"cc": "HK",
+"year": "1962",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Public space",
+"Courtyard",
+"Steel & glass"
+],
+"features": "Low and high blocks linked by a memorial garden court, with a clean concrete frame and glazing.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Morpheus Hotel",
+"by": "Zaha Hadid Architects",
+"city": "Macau",
+"cc": "MO",
+"year": "2018",
+"type": "Hospitality",
+"movement": "Parametric",
+"concepts": [
+"Structure as expression",
+"Void",
+"Steel & glass"
+],
+"features": "A free-form steel exoskeleton braces a tower pierced by three voids through its centre.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q55697013",
+"commons": "Morpheus Macau",
+"image": "Macau Morpheus Hotel 2024 dllu.webp",
+"coords": [
+22.14984,
+113.56658
+]
+},
+{
+"name": "Luce Memorial Chapel",
+"by": "I. M. Pei, Chen Chi-kwan",
+"city": "Taichung",
+"cc": "TW",
+"year": "1963",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Sculptural form",
+"Light from above",
+"Structure as expression"
+],
+"features": "Four curved concrete shells clad in yellow tile lean together, split by a skylight along the ridge.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q6415390",
+"commons": "Luce Memorial Chapel",
+"image": "路思義的理念.jpg",
+"coords": [
+24.1787924,
+120.600518
+]
+},
+{
+"name": "Beitou Public Library",
+"by": "Bio-architecture Formosana",
+"city": "Taipei",
+"cc": "TW",
+"year": "2006",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Climate response",
+"Planting"
+],
+"features": "A timber library with deep balconies, a green roof and rainwater collection, set in a hot-spring park.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Lanyang Museum",
+"by": "Kris Yao",
+"city": "Yilan",
+"cc": "TW",
+"year": "2010",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Geometry",
+"Stone"
+],
+"features": "A tilted wedge rising like the coast's cuesta rocks, clad in varied stone and glass panels.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q13518182",
+"commons": "Lanyang Museum",
+"image": "宜蘭 蘭陽博物館 I-lan LanYang Museum Taiwan.jpg",
+"coords": [
+24.86861111,
+121.8325
+]
+},
+{
+"name": "Taipei Performing Arts Center",
+"by": "OMA",
+"city": "Taipei",
+"cc": "TW",
+"year": "2022",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Circulation",
+"Sculptural form"
+],
+"features": "Three theatres plug into a central cube, with a public loop route running through the backstage.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Kyungdong Presbyterian Church",
+"by": "Kim Swoo-geun",
+"city": "Seoul",
+"cc": "KR",
+"year": "1981",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Light from above",
+"Sculptural form"
+],
+"features": "Walls of broken-faced brick fold upward around a windowless sanctuary lit from above.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Space Group Building",
+"by": "Kim Swoo-geun",
+"city": "Seoul",
+"cc": "KR",
+"year": "1977",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Section",
+"Courtyard"
+],
+"features": "A dark brick office of split levels, low ceilings and small linked rooms, wrapped in ivy beside a hanok.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Leeum, Samsung Museum of Art",
+"by": "Mario Botta, Jean Nouvel",
+"city": "Seoul",
+"cc": "KR",
+"year": "2004",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Geometry",
+"Landscape"
+],
+"features": "Three buildings on a slope: a terracotta-clad inverted cone, rusted steel and glass boxes, black concrete.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q487498",
+"commons": "Leeum Museum of Art",
+"image": "Leeum, Samsung Museum of Art.jpg",
+"coords": [
+37.537969,
+126.99949
+]
+},
+{
+"name": "Mimesis Art Museum",
+"by": "Alvaro Siza",
+"city": "Paju",
+"cc": "KR",
+"year": "2009",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Light & shadow",
+"Sculptural form",
+"Exposed concrete"
+],
+"features": "A curving white concrete body around a courtyard, its galleries lit by indirect daylight from above.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "National Museum of Modern and Contemporary Art, Seoul",
+"by": "Minsuk Cheon",
+"city": "Seoul",
+"cc": "KR",
+"year": "2013",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Public space",
+"Adaptive reuse"
+],
+"features": "Low galleries arranged around open courtyards (madang) beside a restored historic military building.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Ewha Campus Complex",
+"by": "Dominique Perrault",
+"city": "Seoul",
+"cc": "KR",
+"year": "2008",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Void",
+"Section"
+],
+"features": "A sunken ramped valley splits the hill and lights several levels buried under a green roof.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "French Embassy in Seoul",
+"by": "Kim Chung-up",
+"city": "Seoul",
+"cc": "KR",
+"year": "1962",
+"type": "Civic",
+"movement": "Regionalism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Landscape"
+],
+"features": "A concrete roof with upturned eaves floats over the ambassador's office, recalling hanok rooflines.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Jongmyo Shrine",
+"by": "Joseon builders",
+"city": "Seoul",
+"cc": "KR",
+"year": "1395",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Monumentality",
+"Incremental",
+"Stone"
+],
+"features": "A long low hall of repeated bays on a broad stone platform, extended as ancestral tablets accumulated.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Golden Mile Complex",
+"by": "Design Partnership",
+"city": "Singapore",
+"cc": "SG",
+"year": "1973",
+"type": "Housing",
+"movement": "Brutalism",
+"concepts": [
+"Megastructure",
+"Section",
+"Exposed concrete"
+],
+"features": "A stepped, terraced slab of flats over a shopping podium, its sloping section facing the sea.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q14874437",
+"commons": null,
+"image": "Golden Mile Complex 4, Aug 07.jpg",
+"coords": [
+1.30272,
+103.865
+]
+},
+{
+"name": "Kampung Admiralty",
+"by": "WOHA",
+"city": "Singapore",
+"cc": "SG",
+"year": "2017",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Community",
+"Section"
+],
+"features": "A layered section: hawker centre and clinic below, a community park on the roof, flats for seniors above.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Parkroyal Collection Pickering",
+"by": "WOHA",
+"city": "Singapore",
+"cc": "SG",
+"year": "2013",
+"type": "Hospitality",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Climate response",
+"Landscape"
+],
+"features": "Contoured planted terraces and sky gardens wrap a hotel, giving more green area than the site itself.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q30535579",
+"commons": "Parkroyal on Pickering",
+"image": "Parkroyal on Pickering (8579805153).crop.jpg",
+"coords": [
+1.285777,
+103.846476
+]
+},
+{
+"name": "Gardens by the Bay Cooled Conservatories",
+"by": "WilkinsonEyre",
+"city": "Singapore",
+"cc": "SG",
+"year": "2012",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Steel & glass",
+"Climate response",
+"Structure as expression"
+],
+"features": "Glass gridshells on external steel arches enclose cooled Mediterranean and cloud-forest climates.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q630135",
+"commons": "Gardens by the Bay",
+"image": "Supertree Grove, Gardens by the Bay, Singapore - 20120712-02.jpg",
+"coords": [
+1.283319,
+103.86527
+]
+},
+{
+"name": "National Gallery Singapore",
+"by": "studioMilou",
+"city": "Singapore",
+"cc": "SG",
+"year": "2015",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Light from above",
+"Public space"
+],
+"features": "Two colonial courts joined under a perforated metal canopy on tree-like columns, with a roof bridge.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q6970475",
+"commons": "National Gallery Singapore",
+"image": "Padang Atrium, National Gallery Singapore - 20151127-03.jpg",
+"coords": [
+1.29049,
+103.85186
+]
+},
+{
+"name": "Pinnacle@Duxton",
+"by": "ARC Studio Architecture + Urbanism",
+"city": "Singapore",
+"cc": "SG",
+"year": "2009",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Community",
+"Megastructure"
+],
+"features": "Seven 50-storey public housing towers linked by continuous sky gardens on the 26th and 50th floors.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q7757213",
+"commons": "The Pinnacle@Duxton",
+"image": "Pinnacle@Duxton, Singapore - 20100101.jpg",
+"coords": [
+1.2766666666667,
+103.84138888889
+]
+},
+{
+"name": "Masjid Negara",
+"by": "Baharuddin Abu Kassim, Howard Ashley",
+"city": "Kuala Lumpur",
+"cc": "MY",
+"year": "1965",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Geometry",
+"Water",
+"Climate response"
+],
+"features": "A folded concrete roof in an 18-point star covers the prayer hall, ringed by shaded verandahs and pools.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q1356818",
+"commons": "Masjid Negara",
+"image": "Kuala Lumpur Malaysia National-Mosque-04.jpg",
+"coords": [
+3.1419444444444,
+101.69166666667
+]
+},
+{
+"name": "Menara Mesiniaga",
+"by": "Ken Yeang",
+"city": "Subang Jaya",
+"cc": "MY",
+"year": "1992",
+"type": "Office & tower",
+"movement": "High-tech",
+"concepts": [
+"Climate response",
+"Planting",
+"Brise-soleil"
+],
+"features": "Spiralling sky gardens, sunshades on hot facades and a rooftop sun-roof frame cool a round tower.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q6816459",
+"commons": "Mesiniaga Tower",
+"image": "Menara Mesiniaga aerial view.jpg",
+"coords": [
+3.08257,
+101.59251
+]
+},
+{
+"name": "Kuala Lumpur International Airport",
+"by": "Kisho Kurokawa",
+"city": "Sepang",
+"cc": "MY",
+"year": "1998",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Planting",
+"Light from above"
+],
+"features": "Repeated shell roof modules on tapered columns with skylights, and a rainforest planted inside.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q500253",
+"commons": "Kuala Lumpur International Airport",
+"image": "KLIA MTB&Tower.jpg",
+"coords": [
+2.745556,
+101.709722
+]
+},
+{
+"name": "Green School Bali",
+"by": "IBUKU",
+"city": "Sibang Kaja",
+"cc": "ID",
+"year": "2008",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Climate response",
+"Earth & local material"
+],
+"features": "Open-sided bamboo classrooms and a spiralling bamboo main hall without walls, cooled by moving air.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Salman Mosque",
+"by": "Achmad Noe'man",
+"city": "Bandung",
+"cc": "ID",
+"year": "1972",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Light & shadow",
+"Climate response"
+],
+"features": "A domeless concrete prayer hall under a concave slab roof, with no columns inside the hall.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Microlibrary Taman Bima",
+"by": "SHAU",
+"city": "Bandung",
+"cc": "ID",
+"year": "2016",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Reclaimed material",
+"Low cost",
+"Facade as skin"
+],
+"features": "A raised reading room whose facade of recycled ice-cream buckets spells a message in binary.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Borobudur",
+"by": "Sailendra builders",
+"city": "Magelang",
+"cc": "ID",
+"year": "c. 825",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Promenade",
+"Stone",
+"Geometry"
+],
+"features": "A stone stupa-mountain of square terraces and round platforms, climbed along carved clockwise galleries.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q42798",
+"commons": "Borobudur",
+"image": "Borobudur-Nothwest-view.jpg",
+"coords": [
+-7.60793,
+110.20384
+]
+},
+{
+"name": "Kantana Institute",
+"by": "Boonserm Premthada",
+"city": "Nakhon Pathom",
+"cc": "TH",
+"year": "2011",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Light & shadow",
+"Climate response"
+],
+"features": "Long curving walls of hand-laid brick with gaps that admit slivers of light and air.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Thammasat University Rooftop Farm",
+"by": "LANDPROCESS",
+"city": "Pathum Thani",
+"cc": "TH",
+"year": "2019",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Water",
+"Climate response"
+],
+"features": "A green roof stepped like rice terraces slows stormwater and grows food on top of the building.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Robot Building",
+"by": "Sumet Jumsai",
+"city": "Bangkok",
+"cc": "TH",
+"year": "1986",
+"type": "Office & tower",
+"movement": "Postmodernism",
+"concepts": [
+"Sculptural form",
+"Colour",
+"Facade as skin"
+],
+"features": "A bank office styled as a robot, with eyes, antennae and bolt-like discs on its stepped facade.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q783806",
+"commons": "Robot Building",
+"image": "Robot Building (UOB Bank, Bangkok) 2022 Dec.jpg",
+"coords": [
+13.720448,
+100.527311
+]
+},
+{
+"name": "Farming Kindergarten",
+"by": "Vo Trong Nghia",
+"city": "Bien Hoa",
+"cc": "VN",
+"year": "2013",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Courtyard",
+"Climate response"
+],
+"features": "A looping triple-ring green roof forms a sloping vegetable garden around three playgrounds.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "wNw Bar",
+"by": "Vo Trong Nghia",
+"city": "Thu Dau Mot",
+"cc": "VN",
+"year": "2008",
+"type": "Hospitality",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Climate response",
+"Water"
+],
+"features": "Bamboo arches form a dome with a top opening; air cooled over the surrounding lake flows through.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Cultural Center of the Philippines",
+"by": "Leandro Locsin",
+"city": "Pasay",
+"cc": "PH",
+"year": "1969",
+"type": "Culture & sport",
+"movement": "Brutalism",
+"concepts": [
+"Cantilever",
+"Monumentality",
+"Water"
+],
+"features": "A travertine-clad block cantilevers over a reflecting pool, set on a podium approached by ramps.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q30590052",
+"commons": "Cultural Center of the Philippines Complex",
+"image": null,
+"coords": [
+14.55825,
+120.98579
+]
+},
+{
+"name": "Church of the Holy Sacrifice",
+"by": "Leandro Locsin",
+"city": "Quezon City",
+"cc": "PH",
+"year": "1955",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Light from above",
+"Exposed concrete"
+],
+"features": "A thin concrete shell dome on perimeter columns over a round plan, with a skylight above the altar.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q7137447",
+"commons": "Parish of the Holy Sacrifice (Quezon City)",
+"image": "UPChapeljf9392 03.JPG",
+"coords": [
+14.65888889,
+121.07111111
+]
+},
+{
+"name": "National Olympic Stadium",
+"by": "Vann Molyvann",
+"city": "Phnom Penh",
+"cc": "KH",
+"year": "1964",
+"type": "Culture & sport",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Water",
+"Monumentality"
+],
+"features": "Seating on raised earth embankments, with moats and basins that drain and cool the site.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q2021522",
+"commons": "Phnom Penh Olympic Stadium",
+"image": "A football match at the Olympic Stadium, Phnom Penh (Chetra Chap, 2015). (19104466005).jpg",
+"coords": [
+11.558361,
+104.912083
+]
+},
+{
+"name": "Institute of Foreign Languages",
+"by": "Vann Molyvann",
+"city": "Phnom Penh",
+"cc": "KH",
+"year": "1972",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Brise-soleil",
+"Exposed concrete"
+],
+"features": "Brise-soleil walls, raised blocks and shaded walkways designed for cross-ventilation in the tropics.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Angkor Wat",
+"by": "Khmer builders",
+"city": "Siem Reap",
+"cc": "KH",
+"year": "c. 1150",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Axis",
+"Monumentality",
+"Stone"
+],
+"features": "Concentric galleries and a wide moat lead along a west-facing axis to a quincunx of towers.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q43473",
+"commons": "Angkor Wat",
+"image": "Angkor Wat.jpg",
+"coords": [
+13.4125,
+103.86666666667
+]
+},
+{
+"name": "Rose Seidler House",
+"by": "Harry Seidler",
+"city": "Wahroonga",
+"cc": "AU",
+"year": "1950",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Free plan",
+"Cantilever",
+"Colour"
+],
+"features": "A raised open-plan box on a stone base, with a ramp to a deck and a mural on the terrace wall.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q7367931",
+"commons": "Rose Seidler House",
+"image": "RoseSeidlerHouse.jpg",
+"coords": [
+-33.70977,
+151.14209
+]
+},
+{
+"name": "Sirius Building",
+"by": "Tao Gofers",
+"city": "Sydney",
+"cc": "AU",
+"year": "1980",
+"type": "Housing",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Modular",
+"Community"
+],
+"features": "Stacked concrete units step and stagger above The Rocks, giving flats terraces and harbour views.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Dr Chau Chak Wing Building",
+"by": "Frank Gehry",
+"city": "Sydney",
+"cc": "AU",
+"year": "2015",
+"type": "Education",
+"movement": "Deconstructivism",
+"concepts": [
+"Brick",
+"Sculptural form",
+"Detail"
+],
+"features": "An undulating facade of custom bricks laid to curve, with faceted glass panels on the other side.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q5304516",
+"commons": "Dr Chau Chak Wing Building",
+"image": "Frank Gehry's Dr Chau Chak Wing Building (4).jpg",
+"coords": [
+-33.8811,
+151.201
+]
+},
+{
+"name": "One Central Park",
+"by": "Jean Nouvel",
+"city": "Sydney",
+"cc": "AU",
+"year": "2014",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Planting",
+"Cantilever",
+"Light & shadow"
+],
+"features": "Vertical gardens climb two towers; a cantilevered heliostat redirects sunlight into the shaded park.",
+"keep": 2,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Arthur and Yvonne Boyd Education Centre",
+"by": "Glenn Murcutt, Wendy Lewin",
+"city": "Riversdale",
+"cc": "AU",
+"year": "1999",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Landscape",
+"Brise-soleil"
+],
+"features": "A long dormitory wing with blade walls and timber shutters controlling sun and views to the river.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Australian Islamic Centre",
+"by": "Glenn Murcutt, Hakan Elevli",
+"city": "Melbourne",
+"cc": "AU",
+"year": "2016",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Colour",
+"Geometry"
+],
+"features": "Roof lanterns of coloured glass bring light into the prayer hall in place of a dome and minaret.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "Shine Dome",
+"by": "Roy Grounds",
+"city": "Canberra",
+"cc": "AU",
+"year": "1959",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Structure as expression",
+"Water",
+"Geometry"
+],
+"features": "A shallow concrete dome resting on arches that dip into a surrounding moat.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q27493197",
+"commons": "Shine Dome",
+"image": "Shine dome.jpg",
+"coords": [
+-35.283686,
+149.122654
+]
+},
+{
+"name": "High Court of Australia",
+"by": "Edwards Madigan Torzillo Briggs",
+"city": "Canberra",
+"cc": "AU",
+"year": "1980",
+"type": "Civic",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Monumentality",
+"Void"
+],
+"features": "Bush-hammered concrete and a tall glazed public hall with ramps linking the courtrooms.",
+"keep": 3,
+"list": "asiapac",
+"qid": null
+},
+{
+"name": "National Museum of Australia",
+"by": "Ashton Raggatt McDougall",
+"city": "Canberra",
+"cc": "AU",
+"year": "2001",
+"type": "Museum",
+"movement": "Postmodernism",
+"concepts": [
+"Sculptural form",
+"Colour",
+"Landscape"
+],
+"features": "Coloured volumes knot around a courtyard garden, with a giant looping form aimed toward Uluru.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q1967496",
+"commons": "National Museum of Australia",
+"image": "NatMusAus Main Entrance Strip.jpg",
+"coords": [
+-35.2931,
+149.121
+]
+},
+{
+"name": "Federation Square",
+"by": "Lab Architecture Studio, Bates Smart",
+"city": "Melbourne",
+"cc": "AU",
+"year": "2002",
+"type": "Public space",
+"movement": "Deconstructivism",
+"concepts": [
+"Public space",
+"Facade as skin",
+"Geometry"
+],
+"features": "Pinwheel-tiled facades of sandstone, zinc and glass frame a sloping paved square built over rail lines.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q923304",
+"commons": "Federation Square",
+"image": "Fed Square August 2007.jpg",
+"coords": [
+-37.817798,
+144.968714
+]
+},
+{
+"name": "RMIT Storey Hall",
+"by": "Ashton Raggatt McDougall",
+"city": "Melbourne",
+"cc": "AU",
+"year": "1995",
+"type": "Education",
+"movement": "Postmodernism",
+"concepts": [
+"Geometry",
+"Colour",
+"Adaptive reuse"
+],
+"features": "A green and purple Penrose-tile facade and folded hall ceiling added to a 19th-century hall.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q7620004",
+"commons": "Storey Hall",
+"image": "Storeyhall1.JPG",
+"coords": [
+-37.8103232,
+144.964082
+]
+},
+{
+"name": "Sidney Myer Music Bowl",
+"by": "Yuncken Freeman",
+"city": "Melbourne",
+"cc": "AU",
+"year": "1959",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Tensile structure",
+"Landscape",
+"Structure as expression"
+],
+"features": "A plywood-and-aluminium canopy hung on cables between two masts over a lawn amphitheatre.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q7509252",
+"commons": "Sidney Myer Music Bowl",
+"image": "Sidney Myer Music Bowl Aerial View.jpg",
+"coords": [
+-37.82367,
+144.97463
+]
+},
+{
+"name": "Adelaide Festival Centre",
+"by": "Hassell, McConnell, Smith & Johnson",
+"city": "Adelaide",
+"cc": "AU",
+"year": "1973",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Public space",
+"Landscape"
+],
+"features": "Faceted white-tiled forms on the River Torrens bank, set on a raised public plaza.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q4681712",
+"commons": "Adelaide Festival Centre",
+"image": "Adelaide Festival Centre at Night.jpg",
+"coords": [
+-34.9194,
+138.598
+]
+},
+{
+"name": "Cardboard Cathedral",
+"by": "Shigeru Ban",
+"city": "Christchurch",
+"cc": "NZ",
+"year": "2013",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Low cost",
+"Structure as expression",
+"Light & shadow"
+],
+"features": "Large cardboard tubes form an A-frame on shipping containers, ending in a triangular coloured-glass wall.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q15207543",
+"commons": "Cardboard Cathedral",
+"image": "Cardboard Cathedral 03.JPG",
+"coords": [
+-43.5324,
+172.643
+]
+},
+{
+"name": "Len Lye Centre",
+"by": "Pattersons",
+"city": "New Plymouth",
+"cc": "NZ",
+"year": "2015",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Light & shadow",
+"Sculptural form"
+],
+"features": "A fluted, mirror-polished stainless steel facade wraps the galleries like a curtain.",
+"keep": 2,
+"list": "asiapac",
+"qid": "Q5589805",
+"commons": "Govett-Brewster Art Gallery/Len Lye Centre",
+"image": "GovettBrewster20090806.jpg",
+"coords": [
+-39.05861111,
+174.06972222
+]
+},
+{
+"name": "Jean-Marie Tjibaou Cultural Centre",
+"by": "Renzo Piano",
+"city": "Noumea",
+"cc": "NC",
+"year": "1998",
+"type": "Culture & sport",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Climate response",
+"Cluster"
+],
+"features": "Ten curved iroko-ribbed cases recall Kanak huts, their double skins venting the trade winds.",
+"keep": 3,
+"list": "asiapac",
+"qid": "Q1521577",
+"commons": "Jean-Marie Tjibaou Cultural Centre",
+"image": "Kanak house.jpg",
+"coords": [
+-22.256388888889,
+166.48166666667
+]
+},
+{
+"name": "Royal College of Physicians",
+"by": "Denys Lasdun",
+"city": "London",
+"cc": "GB",
+"year": "1964",
+"type": "Civic",
+"movement": "Late modernism",
+"concepts": [
+"Sculptural form",
+"Circulation",
+"Double height"
+],
+"features": "Mosaic-clad block raised on columns over a ceremonial stair hall, beside a dark brick lecture theatre.",
+"keep": 3,
+"list": "europe",
+"qid": "Q16003969",
+"commons": "Royal College of Physicians",
+"image": "Lasdun Royal College of Physicians front Dec 2005.jpg",
+"coords": [
+51.525833333333,
+-0.145
+]
+},
+{
+"name": "Royal National Theatre",
+"by": "Denys Lasdun",
+"city": "London",
+"cc": "GB",
+"year": "1976",
+"type": "Culture & sport",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Public space",
+"Section"
+],
+"features": "Board-marked concrete terraces step toward the Thames, linking three auditoria through open foyers.",
+"keep": 3,
+"list": "europe",
+"qid": "Q511108",
+"commons": "National Theatre, London",
+"image": "National Theatre, London.jpg",
+"coords": [
+51.5071,
+-0.1141
+]
+},
+{
+"name": "Smithdon High School",
+"by": "Alison and Peter Smithson",
+"city": "Hunstanton",
+"cc": "GB",
+"year": "1954",
+"type": "Education",
+"movement": "Brutalism",
+"concepts": [
+"Steel & glass",
+"Detail",
+"Courtyard"
+],
+"features": "Exposed steel frame, brick infill and visible services arranged symmetrically around two courts.",
+"keep": 3,
+"list": "europe",
+"qid": "Q7545452",
+"commons": "Smithdon High School",
+"image": "Smithdon School, Hunstanton-geograph.org.uk-2341065.jpg",
+"coords": [
+52.9363,
+0.496378
+]
+},
+{
+"name": "Sainsbury Centre for Visual Arts",
+"by": "Norman Foster",
+"city": "Norwich",
+"cc": "GB",
+"year": "1978",
+"type": "Museum",
+"movement": "High-tech",
+"concepts": [
+"Structure as expression",
+"Free plan",
+"Modular"
+],
+"features": "Deep steel trusses hold services within the walls and roof, leaving one column-free gallery shed.",
+"keep": 3,
+"list": "europe",
+"qid": "Q7400532",
+"commons": "Sainsbury Centre for Visual Arts",
+"image": "Sainsbury Centre for Visual Arts.jpg",
+"coords": [
+52.6203,
+1.2347
+]
+},
+{
+"name": "Willis Building",
+"by": "Norman Foster",
+"city": "Ipswich",
+"cc": "GB",
+"year": "1975",
+"type": "Workplace",
+"movement": "High-tech",
+"concepts": [
+"Facade as skin",
+"Free plan",
+"Planting"
+],
+"features": "Frameless dark glass wall follows the curving street line; a roof garden sits above open office floors.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1134093",
+"commons": "Willis Building, Ipswich",
+"image": "Willis01.jpg",
+"coords": [
+52.0556,
+1.1507
+]
+},
+{
+"name": "Stansted Airport Terminal",
+"by": "Norman Foster",
+"city": "Stansted",
+"cc": "GB",
+"year": "1991",
+"type": "Infrastructure",
+"movement": "High-tech",
+"concepts": [
+"Light from above",
+"Structure as expression",
+"Modular"
+],
+"features": "Steel tree columns carry a light roof grid with skylights; baggage and services run in an undercroft.",
+"keep": 3,
+"list": "europe",
+"qid": "Q8709",
+"commons": "London Stansted Airport",
+"image": "Stansted Airport - geograph.org.uk - 1710808.jpg",
+"coords": [
+51.885,
+0.235
+]
+},
+{
+"name": "Leicester University Engineering Building",
+"by": "James Stirling, James Gowan",
+"city": "Leicester",
+"cc": "GB",
+"year": "1963",
+"type": "Education",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Section",
+"Brick"
+],
+"features": "Red brick and tile towers with cantilevered lecture halls, beside workshops under diagonal glazed roofs.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Park Hill",
+"by": "Jack Lynn, Ivor Smith",
+"city": "Sheffield",
+"cc": "GB",
+"year": "1961",
+"type": "Housing",
+"movement": "Brutalism",
+"concepts": [
+"Megastructure",
+"Circulation",
+"Exposed concrete"
+],
+"features": "Long concrete-framed slabs with wide deck 'streets in the sky' that follow the slope to meet the ground.",
+"keep": 3,
+"list": "europe",
+"qid": "Q7137779",
+"commons": "Park Hill",
+"image": "Parkhill2.jpg",
+"coords": [
+53.38,
+-1.458
+]
+},
+{
+"name": "Isokon Building",
+"by": "Wells Coates",
+"city": "London",
+"cc": "GB",
+"year": "1934",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Exposed concrete",
+"Cantilever",
+"Modular"
+],
+"features": "Compact reinforced concrete flats reached by cantilevered external access galleries and an end stair.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3296317",
+"commons": "Isokon building",
+"image": "Lawn Road and the Isokon building - geograph.org.uk - 673726.jpg",
+"coords": [
+51.551841666667,
+-0.16208333333333
+]
+},
+{
+"name": "Sir John Soane's Museum",
+"by": "John Soane",
+"city": "London",
+"cc": "GB",
+"year": "1824",
+"type": "Museum",
+"movement": "Historic precedent",
+"concepts": [
+"Light from above",
+"Void",
+"Section"
+],
+"features": "Domes, lanterns and hidden skylights draw daylight down through narrow, layered rooms full of casts.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2060860",
+"commons": "Soane Museum",
+"image": "Sir John Soane Museum (13952611347).jpg",
+"coords": [
+51.517102777778,
+-0.11691388888889
+]
+},
+{
+"name": "Coventry Cathedral",
+"by": "Basil Spence",
+"city": "Coventry",
+"cc": "GB",
+"year": "1962",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Light & shadow",
+"Colour",
+"Monumentality"
+],
+"features": "Sawtooth nave walls angle stained glass toward the altar; a glass screen faces the bombed old cathedral.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1138070",
+"commons": "Coventry Cathedral",
+"image": "Coventry Cathedral 2018.jpg",
+"coords": [
+52.40833333333333,
+-1.5072222222222222
+]
+},
+{
+"name": "Byker Wall",
+"by": "Ralph Erskine",
+"city": "Newcastle upon Tyne",
+"cc": "GB",
+"year": "1982",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Community",
+"Colour",
+"Climate response"
+],
+"features": "A long perimeter block with small north windows shelters colourful low-rise housing and timber balconies.",
+"keep": 3,
+"list": "europe",
+"qid": "Q5004106",
+"commons": "Byker Wall",
+"image": "Byker Wall Erskine.jpg",
+"coords": [
+54.975,
+-1.578
+]
+},
+{
+"name": "Busáras",
+"by": "Michael Scott",
+"city": "Dublin",
+"cc": "IE",
+"year": "1953",
+"type": "Infrastructure",
+"movement": "Modernism",
+"concepts": [
+"Cantilever",
+"Structure as expression",
+"Detail"
+],
+"features": "Thin undulating concrete canopy over the bus concourse, below a glazed office slab with mosaic detail.",
+"keep": 2,
+"list": "europe",
+"qid": "Q924495",
+"commons": "Busáras",
+"image": "Busaras.jpg",
+"coords": [
+53.34972222,
+-6.25194444
+]
+},
+{
+"name": "Maison La Roche",
+"by": "Le Corbusier, Pierre Jeanneret",
+"city": "Paris",
+"cc": "FR",
+"year": "1925",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Promenade",
+"Double height",
+"Pilotis"
+],
+"features": "A curved gallery on pilotis and a triple-height hall with bridges form an architectural promenade.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3278824",
+"commons": "Maison La Roche",
+"image": null,
+"coords": [
+48.8519,
+2.2653
+]
+},
+{
+"name": "Pavillon Suisse",
+"by": "Le Corbusier",
+"city": "Paris",
+"cc": "FR",
+"year": "1933",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Pilotis",
+"Stone",
+"Steel & glass"
+],
+"features": "Student room slab raised on massive concrete pilotis, with a curved rubble-stone stair block behind.",
+"keep": 3,
+"list": "europe",
+"qid": "Q646264",
+"commons": "Fondation suisse",
+"image": null,
+"coords": [
+48.81819490380273,
+2.342275276654621
+]
+},
+{
+"name": "Institut du Monde Arabe",
+"by": "Jean Nouvel",
+"city": "Paris",
+"cc": "FR",
+"year": "1987",
+"type": "Culture & sport",
+"movement": "High-tech",
+"concepts": [
+"Facade as skin",
+"Light & shadow",
+"Geometry"
+],
+"features": "South facade of metal diaphragms that open and close like camera apertures to filter daylight.",
+"keep": 3,
+"list": "europe",
+"qid": "Q860166",
+"commons": "Institut du monde arabe",
+"image": "Institut du Monde Arabe au bord de la Seine.jpg",
+"coords": [
+48.84890322895971,
+2.3570409679305495
+]
+},
+{
+"name": "Fondation Cartier",
+"by": "Jean Nouvel",
+"city": "Paris",
+"cc": "FR",
+"year": "1994",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Steel & glass",
+"Facade as skin",
+"Landscape"
+],
+"features": "Free-standing glass screens extend past the building, blurring its edges with the garden trees.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1284688",
+"commons": "Fondation Cartier pour l'art contemporain",
+"image": "La Fondation Cartier pour l'art contemporain (15907035710).jpg",
+"coords": [
+48.863055555555555,
+2.3369444444444443
+]
+},
+{
+"name": "Bibliothèque nationale de France",
+"by": "Dominique Perrault",
+"city": "Paris",
+"cc": "FR",
+"year": "1996",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Void",
+"Landscape",
+"Steel & glass"
+],
+"features": "Four L-shaped glass towers mark the corners of a raised timber plaza around a sunken forest garden.",
+"keep": 3,
+"list": "europe",
+"qid": "Q193563",
+"commons": "Bibliothèque nationale de France",
+"image": "Bibliothèque Mitterrand Mai 2022.jpg",
+"coords": [
+48.833611111111,
+2.3758333333333
+]
+},
+{
+"name": "Grande Arche",
+"by": "Johan Otto von Spreckelsen",
+"city": "Puteaux",
+"cc": "FR",
+"year": "1989",
+"type": "Office & tower",
+"movement": "Late modernism",
+"concepts": [
+"Axis",
+"Geometry",
+"Monumentality"
+],
+"features": "A hollow marble-clad cube with offices in its sides frames the end of the Paris historic axis.",
+"keep": 3,
+"list": "europe",
+"qid": "Q216357",
+"commons": "Grande Arche",
+"image": "Grande Arche, France - April 2011.jpg",
+"coords": [
+48.8928,
+2.2358305555556
+]
+},
+{
+"name": "Lille Grand Palais",
+"by": "OMA",
+"city": "Lille",
+"cc": "FR",
+"year": "1994",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Geometry",
+"Circulation"
+],
+"features": "Ovoid shell wraps a concert hall, congress halls and exhibition space under one roof by the rail hub.",
+"keep": 2,
+"list": "europe",
+"qid": "Q3240881",
+"commons": "Lille Grand Palais",
+"image": null,
+"coords": [
+50.632573,
+3.078014
+]
+},
+{
+"name": "Tour Bois-le-Prêtre Transformation",
+"by": "Lacaton & Vassal, Frédéric Druot",
+"city": "Paris",
+"cc": "FR",
+"year": "2011",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Low cost",
+"Facade as skin"
+],
+"features": "Prefabricated winter gardens and balconies added to a 1960s tower enlarge flats without moving tenants.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Bibliothèque Sainte-Geneviève",
+"by": "Henri Labrouste",
+"city": "Paris",
+"cc": "FR",
+"year": "1850",
+"type": "Library",
+"movement": "Historic precedent",
+"concepts": [
+"Structure as expression",
+"Vault",
+"Stone"
+],
+"features": "Twin barrel vaults of cast-iron arches on slender columns span a reading room inside a masonry box.",
+"keep": 3,
+"list": "europe",
+"qid": "Q51298904",
+"commons": "Bibliothèque Sainte-Geneviève",
+"image": "Façade de la Bibliothèque Sainte-Geneviève, sud-est.JPG",
+"coords": [
+48.847083333333,
+2.3458333333333
+]
+},
+{
+"name": "Millau Viaduct",
+"by": "Norman Foster, Michel Virlogeux",
+"city": "Millau",
+"cc": "FR",
+"year": "2004",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Tensile structure",
+"Landscape"
+],
+"features": "Tapering concrete piers and cable-stayed masts carry a thin steel deck high across the Tarn valley.",
+"keep": 3,
+"list": "europe",
+"qid": "Q99236",
+"commons": "Viaduc de Millau",
+"image": "00 0237 Millau - Département Aveyron.jpg",
+"coords": [
+44.08027777777778,
+3.0225
+]
+},
+{
+"name": "Centrosoyuz Building",
+"by": "Le Corbusier",
+"city": "Moscow",
+"cc": "RU",
+"year": "1936",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Facade as skin",
+"Pilotis",
+"Circulation"
+],
+"features": "Red tuff-clad office slabs with long glazed walls, partly raised on pilotis and linked by internal ramps.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2454624",
+"commons": "Tsentrosoyuz building",
+"image": "Moscow SakharovaStreet37 1468.jpg",
+"coords": [
+55.767611111111,
+37.641125
+]
+},
+{
+"name": "Pavillon Le Corbusier",
+"by": "Le Corbusier",
+"city": "Zurich",
+"cc": "CH",
+"year": "1967",
+"type": "Pavilion",
+"movement": "Late modernism",
+"concepts": [
+"Prefabrication",
+"Colour",
+"Steel & glass"
+],
+"features": "A bolted steel parasol roof hovers over a pavilion of coloured enamelled panels and glass.",
+"keep": 3,
+"list": "europe",
+"qid": "Q638236",
+"commons": "Centre Le Corbusier",
+"image": "Pavillon Le Corbusier, Zurichhorn (Ank Kumar) 13.jpg",
+"coords": [
+47.35635,
+8.5511194444444
+]
+},
+{
+"name": "Park Güell",
+"by": "Antoni Gaudí",
+"city": "Barcelona",
+"cc": "ES",
+"year": "1914",
+"type": "Public space",
+"movement": "Art Nouveau",
+"concepts": [
+"Landscape",
+"Colour",
+"Sculptural form"
+],
+"features": "Leaning rubble viaducts follow the hillside; a serpentine tiled bench edges a terrace over a column hall.",
+"keep": 3,
+"list": "europe",
+"qid": "Q212867",
+"commons": "Parc Güell",
+"image": "Güell BCN edited.jpg",
+"coords": [
+41.41361111111111,
+2.1527777777777777
+]
+},
+{
+"name": "Igualada Cemetery",
+"by": "Enric Miralles, Carme Pinós",
+"city": "Igualada",
+"cc": "ES",
+"year": "1994",
+"type": "Memorial",
+"movement": "Deconstructivism",
+"concepts": [
+"Landscape",
+"Exposed concrete",
+"Promenade"
+],
+"features": "A descending path cut into a former quarry, lined with concrete niche walls and stone-filled gabions.",
+"keep": 3,
+"list": "europe",
+"qid": "Q5994387",
+"commons": "New cemetery of Igualada",
+"image": "Igualada 8.JPG",
+"coords": [
+41.59194444,
+1.63722222
+]
+},
+{
+"name": "Santa Caterina Market",
+"by": "Enric Miralles, Benedetta Tagliabue",
+"city": "Barcelona",
+"cc": "ES",
+"year": "2005",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Colour",
+"Timber"
+],
+"features": "Undulating timber-vaulted roof clad in coloured ceramic hexagons over the retained old market walls.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Torres Blancas",
+"by": "Francisco Javier Sáenz de Oiza",
+"city": "Madrid",
+"cc": "ES",
+"year": "1969",
+"type": "Housing",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Sculptural form",
+"Cantilever"
+],
+"features": "Concrete tower of clustered cylinders with rounded cantilevered terraces and planted balconies.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3995702",
+"commons": "Torres Blancas",
+"image": "Torres Blancas (Madrid) 04.jpg",
+"coords": [
+40.4397,
+-3.67201
+]
+},
+{
+"name": "Gimnasio Maravillas",
+"by": "Alejandro de la Sota",
+"city": "Madrid",
+"cc": "ES",
+"year": "1962",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Section",
+"Structure as expression",
+"Light & shadow"
+],
+"features": "A gym under a school playground on a steep slope, with curved steel trusses that house classrooms.",
+"keep": 3,
+"list": "europe",
+"qid": "Q5142874",
+"commons": "Colegio Nuestra Señora de las Maravillas, Madrid",
+"image": "Madrid - Colegio La Salle Maravillas 1.jpg",
+"coords": [
+40.44666667,
+-3.68722222
+]
+},
+{
+"name": "Zarzuela Hippodrome",
+"by": "Eduardo Torroja, Carlos Arniches",
+"city": "Madrid",
+"cc": "ES",
+"year": "1941",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Cantilever",
+"Structure as expression",
+"Exposed concrete"
+],
+"features": "Thin hyperboloid concrete shells cantilever about 13 metres over the grandstand from one row of supports.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Madrid-Barajas Airport Terminal 4",
+"by": "Richard Rogers, Estudio Lamela",
+"city": "Madrid",
+"cc": "ES",
+"year": "2006",
+"type": "Infrastructure",
+"movement": "High-tech",
+"concepts": [
+"Light from above",
+"Colour",
+"Modular"
+],
+"features": "Wavy bamboo-lined roof on colour-graded steel trees, with light wells reaching the lower floors.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Fundació Joan Miró",
+"by": "Josep Lluís Sert",
+"city": "Barcelona",
+"cc": "ES",
+"year": "1975",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Light from above",
+"Courtyard",
+"Exposed concrete"
+],
+"features": "White concrete galleries arranged around patios and lit by quarter-cylinder roof lights.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Faculty of Architecture, University of Porto",
+"by": "Álvaro Siza",
+"city": "Porto",
+"cc": "PT",
+"year": "1996",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Cluster",
+"Landscape",
+"Light & shadow"
+],
+"features": "Studio pavilions lined along a terrace above the Douro, framing a triangular courtyard.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Boa Nova Tea House",
+"by": "Álvaro Siza",
+"city": "Leça da Palmeira",
+"cc": "PT",
+"year": "1963",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Timber",
+"Detail"
+],
+"features": "Low tiled roofs and timber interiors set among rocks above the sea, reached by steps through boulders.",
+"keep": 3,
+"list": "europe",
+"qid": "Q9698266",
+"commons": "Casa de Chá da Boa Nova",
+"image": "Boa Nova Tea House Renovation.jpg",
+"coords": [
+41.202932,
+-8.715131
+]
+},
+{
+"name": "Casa das Histórias Paula Rego",
+"by": "Eduardo Souto de Moura",
+"city": "Cascais",
+"cc": "PT",
+"year": "2009",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Colour",
+"Light from above",
+"Geometry"
+],
+"features": "Red concrete volumes with two pyramidal towers that bring light into galleries set among trees.",
+"keep": 2,
+"list": "europe",
+"qid": "Q9698241",
+"commons": "Casa das Histórias Paula Rego",
+"image": "Casa das Histórias Paula Rego.JPG",
+"coords": [
+38.695277777777775,
+-9.42388888888889
+]
+},
+{
+"name": "Casa del Fascio",
+"by": "Giuseppe Terragni",
+"city": "Como",
+"cc": "IT",
+"year": "1936",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Geometry",
+"Light from above",
+"Stone"
+],
+"features": "Marble-clad concrete frame on a half-cube plan around a central hall under a glass-block roof.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2719120",
+"commons": "Casa del Fascio (Como)",
+"image": "Casa del Fascio (Como) 02.jpg",
+"coords": [
+45.812315,
+9.085934
+]
+},
+{
+"name": "Palazzetto dello Sport",
+"by": "Pier Luigi Nervi, Annibale Vitellozzi",
+"city": "Rome",
+"cc": "IT",
+"year": "1957",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Structure as expression",
+"Prefabrication",
+"Geometry"
+],
+"features": "Ribbed dome of prefabricated ferrocement pieces carried on Y-shaped raking concrete buttresses.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2033373",
+"commons": "Palazzetto dello Sport (Rome)",
+"image": "Palazzetto Dello Sport - panoramio.jpg",
+"coords": [
+41.929617,
+12.470732
+]
+},
+{
+"name": "Lingotto",
+"by": "Giacomo Mattè-Trucco",
+"city": "Turin",
+"cc": "IT",
+"year": "1923",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Circulation",
+"Exposed concrete",
+"Adaptive reuse"
+],
+"features": "Five-storey concrete car factory with helical ramps up to a rooftop test track, now in mixed use.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1478414",
+"commons": "Lingotto",
+"image": "Lingotto.JPG",
+"coords": [
+45.02893,
+7.66443
+]
+},
+{
+"name": "San Cataldo Cemetery",
+"by": "Aldo Rossi, Gianni Braghieri",
+"city": "Modena",
+"cc": "IT",
+"year": "1978",
+"type": "Memorial",
+"movement": "Postmodernism",
+"concepts": [
+"Geometry",
+"Axis",
+"Monumentality"
+],
+"features": "A roofless cubic ossuary and a conical tower on an axis framed by long ranges of burial niches.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Fondazione Prada",
+"by": "OMA",
+"city": "Milan",
+"cc": "IT",
+"year": "2015",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Geometry",
+"Colour"
+],
+"features": "Former distillery buildings joined by new galleries, a tower and a small house clad in gold leaf.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3747208",
+"commons": "Fondazione Prada (Milan)",
+"image": "Fondazione Prada, Milan.jpg",
+"coords": [
+45.444042,
+9.204773
+]
+},
+{
+"name": "Fondazione Querini Stampalia",
+"by": "Carlo Scarpa",
+"city": "Venice",
+"cc": "IT",
+"year": "1963",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Water",
+"Detail",
+"Courtyard"
+],
+"features": "Ground floor designed to admit high tide, with a footbridge, stepped canal entry and water garden.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3747209",
+"commons": "Pinacoteca Querini Stampalia (Venice)",
+"image": "Palazzo Querini Stampalia (Venice).jpg",
+"coords": [
+45.436278,
+12.341069
+]
+},
+{
+"name": "Firenze Santa Maria Novella Station",
+"by": "Giovanni Michelucci",
+"city": "Florence",
+"cc": "IT",
+"year": "1935",
+"type": "Infrastructure",
+"movement": "Modernism",
+"concepts": [
+"Light from above",
+"Stone",
+"Steel & glass"
+],
+"features": "Low stone-clad station whose stepped glass roof spills down the facade to light the ticket hall.",
+"keep": 2,
+"list": "europe",
+"qid": "Q800761",
+"commons": "Firenze Santa Maria Novella train station",
+"image": "Florence, Santa Maria Novella railway station, Gruppo Toscano, 1934 2.jpg",
+"coords": [
+43.776338,
+11.247527
+]
+},
+{
+"name": "Nordic Pavilion",
+"by": "Sverre Fehn",
+"city": "Venice",
+"cc": "IT",
+"year": "1962",
+"type": "Pavilion",
+"movement": "Modernism",
+"concepts": [
+"Light from above",
+"Structure as expression",
+"Planting"
+],
+"features": "Two layers of thin concrete beams diffuse light and let trees grow through the roof of an open hall.",
+"keep": 3,
+"list": "europe",
+"qid": "Q31890235",
+"commons": "Venice Biennale pavilions (Nordic countries)",
+"image": "Le pavillon des pays nordiques (Giardini, Venise) (6440931233).jpg",
+"coords": [
+45.4285,
+12.3582
+]
+},
+{
+"name": "Weissenhof Estate",
+"by": "Mies van der Rohe",
+"city": "Stuttgart",
+"cc": "DE",
+"year": "1927",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Free plan",
+"Prefabrication",
+"Community"
+],
+"features": "Exhibition estate of white flat-roofed houses by many architects, testing new plans and construction.",
+"keep": 3,
+"list": "europe",
+"qid": "Q704665",
+"commons": "Weißenhofsiedlung",
+"image": "Weissenhof Haus Scharoun 1.jpg",
+"coords": [
+48.8006,
+9.1775
+]
+},
+{
+"name": "Zollverein Shaft XII",
+"by": "Fritz Schupp, Martin Kremmer",
+"city": "Essen",
+"cc": "DE",
+"year": "1932",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Brick",
+"Axis",
+"Adaptive reuse"
+],
+"features": "Steel frame with red brick infill repeated on every building, around an axial court below the headframe.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Zollverein School of Management and Design",
+"by": "SANAA",
+"city": "Essen",
+"cc": "DE",
+"year": "2006",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Geometry",
+"Climate response"
+],
+"features": "Thin concrete cube with randomly sized square openings, warmed by mine water piped through its walls.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Chilehaus",
+"by": "Fritz Höger",
+"city": "Hamburg",
+"cc": "DE",
+"year": "1924",
+"type": "Office & tower",
+"movement": "Expressionism",
+"concepts": [
+"Brick",
+"Sculptural form",
+"Detail"
+],
+"features": "Ship-prow corner and curving street wall of dark clinker brick, with stepped-back upper floors.",
+"keep": 3,
+"list": "europe",
+"qid": "Q542783",
+"commons": "Chilehaus",
+"image": "Chilehaus - Hamburg.jpg",
+"coords": [
+53.5482,
+10.0016
+]
+},
+{
+"name": "Neues Museum",
+"by": "David Chipperfield",
+"city": "Berlin",
+"cc": "DE",
+"year": "2009",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Reclaimed material",
+"Brick"
+],
+"features": "War-damaged walls conserved as found, with missing parts rebuilt in reclaimed brick and precast concrete.",
+"keep": 3,
+"list": "europe",
+"qid": "Q157316",
+"commons": "Neues Museum (Berlin)",
+"image": "Neues Museum - Joy of Museums.jpg",
+"coords": [
+52.5202,
+13.3976
+]
+},
+{
+"name": "Neviges Pilgrimage Church",
+"by": "Gottfried Böhm",
+"city": "Velbert",
+"cc": "DE",
+"year": "1968",
+"type": "Religious",
+"movement": "Brutalism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Light & shadow"
+],
+"features": "Folded concrete roof like a rock mass over a cave-like nave lit by red stained glass.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Memorial to the Murdered Jews of Europe",
+"by": "Peter Eisenman",
+"city": "Berlin",
+"cc": "DE",
+"year": "2005",
+"type": "Memorial",
+"movement": "Contemporary",
+"concepts": [
+"Geometry",
+"Landscape",
+"Void"
+],
+"features": "A field of 2,711 concrete stelae of varying height on undulating ground, forming narrow aisles.",
+"keep": 3,
+"list": "europe",
+"qid": "Q160700",
+"commons": "Memorial to the Murdered Jews of Europe",
+"image": "Berlin Holocaust-Mahnmal in Mitte 1.jpg",
+"coords": [
+52.513888888889,
+13.378888888889
+]
+},
+{
+"name": "Museum Abteiberg",
+"by": "Hans Hollein",
+"city": "Mönchengladbach",
+"cc": "DE",
+"year": "1982",
+"type": "Museum",
+"movement": "Postmodernism",
+"concepts": [
+"Landscape",
+"Light from above",
+"Cluster"
+],
+"features": "Galleries stepped into a hillside under sawtooth roofs, with a stone-clad tower and terraced garden.",
+"keep": 3,
+"list": "europe",
+"qid": "Q206346",
+"commons": "Museum Abteiberg",
+"image": "Mönchengladbach museum mit skulpturengarten.jpg",
+"coords": [
+51.192778,
+6.433056
+]
+},
+{
+"name": "Multihalle Mannheim",
+"by": "Frei Otto, Carlfried Mutschler",
+"city": "Mannheim",
+"cc": "DE",
+"year": "1975",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Timber",
+"Structure as expression",
+"Geometry"
+],
+"features": "Double-curved timber lath gridshell, laid flat then pushed up into shape, covering a free-form hall.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Van Nelle Factory",
+"by": "Brinkman & Van der Vlugt",
+"city": "Rotterdam",
+"cc": "NL",
+"year": "1931",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Steel & glass",
+"Facade as skin",
+"Structure as expression"
+],
+"features": "Mushroom-column concrete frame behind continuous curtain walls, with glazed conveyor bridges.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2328849",
+"commons": "Van Nelle Factory, Rotterdam",
+"image": "Rotterdam van nelle fabriek.jpg",
+"coords": [
+51.922778,
+4.433611
+]
+},
+{
+"name": "Zonnestraal Sanatorium",
+"by": "Jan Duiker, Bernard Bijvoet",
+"city": "Hilversum",
+"cc": "NL",
+"year": "1928",
+"type": "Health",
+"movement": "Modernism",
+"concepts": [
+"Human comfort",
+"Structure as expression",
+"Steel & glass"
+],
+"features": "Thin concrete frame with cantilevered floor edges and full glazing to give patients light and air.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2743329",
+"commons": "Zonnestraal, Hilversum",
+"image": "Landgoed Zonnestraal-3875.jpg",
+"coords": [
+52.200556,
+5.153889
+]
+},
+{
+"name": "Amsterdam Orphanage",
+"by": "Aldo van Eyck",
+"city": "Amsterdam",
+"cc": "NL",
+"year": "1960",
+"type": "Housing",
+"movement": "Late modernism",
+"concepts": [
+"Cluster",
+"Modular",
+"Community"
+],
+"features": "Repeated domed square units around inner courts form a small city of rooms for children.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2643125",
+"commons": null,
+"image": "Amsterdam Zentrum 20091106 029.JPG",
+"coords": null
+},
+{
+"name": "Centraal Beheer",
+"by": "Herman Hertzberger",
+"city": "Apeldoorn",
+"cc": "NL",
+"year": "1972",
+"type": "Workplace",
+"movement": "Late modernism",
+"concepts": [
+"Modular",
+"Community",
+"Void"
+],
+"features": "Grid of concrete-block office islands linked by bridges across top-lit voids, left for users to fit out.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2200376",
+"commons": "Centraal Beheer building, Herman Hertzberger",
+"image": "Hertzberger Centraal Beheer1.jpg",
+"coords": [
+52.20929,
+5.96007
+]
+},
+{
+"name": "Het Schip",
+"by": "Michel de Klerk",
+"city": "Amsterdam",
+"cc": "NL",
+"year": "1921",
+"type": "Housing",
+"movement": "Expressionism",
+"concepts": [
+"Brick",
+"Sculptural form",
+"Detail"
+],
+"features": "Social housing block in sculpted brick and tile, with a tower and a former post office at its prow.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1616115",
+"commons": "Het Schip",
+"image": "Amsterdam Het Schip 006.JPG",
+"coords": [
+52.390514,
+4.873233
+]
+},
+{
+"name": "Educatorium",
+"by": "OMA",
+"city": "Utrecht",
+"cc": "NL",
+"year": "1997",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Circulation",
+"Exposed concrete"
+],
+"features": "One concrete floor plane folds from ground into roof, joining canteen and lecture halls on one route.",
+"keep": 3,
+"list": "europe",
+"qid": "Q76177764",
+"commons": "Educatorium",
+"image": "Uithof, 3584 Utrecht, Netherlands - panoramio (19).jpg",
+"coords": [
+52.08583333,
+5.17222222
+]
+},
+{
+"name": "WoZoCo",
+"by": "MVRDV",
+"city": "Amsterdam",
+"cc": "NL",
+"year": "1997",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Cantilever",
+"Colour",
+"Section"
+],
+"features": "Flats that did not fit the slab hang off the north side as large timber-clad cantilevered boxes.",
+"keep": 3,
+"list": "europe",
+"qid": "Q12779219",
+"commons": "WoZoCo Osdorp",
+"image": "WoZoCo Osdorp(Amsterdam)-msu-9247-.jpg",
+"coords": [
+52.36388888888889,
+4.794444444444444
+]
+},
+{
+"name": "Horta House",
+"by": "Victor Horta",
+"city": "Brussels",
+"cc": "BE",
+"year": "1901",
+"type": "House",
+"movement": "Art Nouveau",
+"concepts": [
+"Light from above",
+"Detail",
+"Steel & glass"
+],
+"features": "Iron, glass and wood shaped into whiplash curves around a stair lit by a glass roof.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Saint Benedict Chapel",
+"by": "Peter Zumthor",
+"city": "Sumvitg",
+"cc": "CH",
+"year": "1988",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Geometry",
+"Light from above"
+],
+"features": "Leaf-shaped timber chapel clad in larch shingles, with a band of clerestory windows below the roof.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1034723",
+"commons": "Sogn Benedetg, Sumvitg",
+"image": "Sogn Benedetg1.jpg",
+"coords": [
+46.7348,
+8.93906
+]
+},
+{
+"name": "Signal Box Auf dem Wolf",
+"by": "Herzog & de Meuron",
+"city": "Basel",
+"cc": "CH",
+"year": "1994",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Detail",
+"Light & shadow"
+],
+"features": "Concrete box wrapped in copper strips, twisted in places to admit daylight, acting as a Faraday cage.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Fondation Beyeler",
+"by": "Renzo Piano",
+"city": "Riehen",
+"cc": "CH",
+"year": "1997",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Stone",
+"Landscape"
+],
+"features": "Long porphyry walls under a floating glass roof that filters daylight into galleries beside a pond.",
+"keep": 3,
+"list": "europe",
+"qid": "Q673833",
+"commons": "Fondation Beyeler",
+"image": "Switzerland riehen fondation beyeler.jpg",
+"coords": [
+47.588055555555556,
+7.651111111111112
+]
+},
+{
+"name": "Austrian Postal Savings Bank",
+"by": "Otto Wagner",
+"city": "Vienna",
+"cc": "AT",
+"year": "1906",
+"type": "Workplace",
+"movement": "Art Nouveau",
+"concepts": [
+"Light from above",
+"Detail",
+"Stone"
+],
+"features": "Stone plates fixed with aluminium-capped bolts, and a banking hall under a glass roof with glass floor.",
+"keep": 3,
+"list": "europe",
+"qid": "Q877570",
+"commons": "Österreichische Postsparkasse (building by Otto Wagner)",
+"image": "Wien - Österreichische Postsparkasse, Georg-Coch-Platz.JPG",
+"coords": [
+48.21,
+16.3803
+]
+},
+{
+"name": "Secession Building",
+"by": "Joseph Maria Olbrich",
+"city": "Vienna",
+"cc": "AT",
+"year": "1898",
+"type": "Museum",
+"movement": "Art Nouveau",
+"concepts": [
+"Geometry",
+"Light from above",
+"Detail"
+],
+"features": "White cubic exhibition hall with top-lit galleries, crowned by a dome of gilded iron laurel leaves.",
+"keep": 3,
+"list": "europe",
+"qid": "Q265129",
+"commons": "Secession Hall (Austria)",
+"image": "Wien - Secessionsgebäude.JPG",
+"coords": [
+48.200395,
+16.365934
+]
+},
+{
+"name": "Karl-Marx-Hof",
+"by": "Karl Ehn",
+"city": "Vienna",
+"cc": "AT",
+"year": "1930",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Courtyard",
+"Community",
+"Monumentality"
+],
+"features": "Over a kilometre of social housing around large green courts, with arched gateways and flagpole towers.",
+"keep": 3,
+"list": "europe",
+"qid": "Q513211",
+"commons": "Karl-Marx-Hof",
+"image": "Döbling (Wien) - Karl-Marx-Hof.JPG",
+"coords": [
+48.24945,
+16.363719444444445
+]
+},
+{
+"name": "Wohnpark Alt-Erlaa",
+"by": "Harry Glück",
+"city": "Vienna",
+"cc": "AT",
+"year": "1985",
+"type": "Housing",
+"movement": "Late modernism",
+"concepts": [
+"Planting",
+"Megastructure",
+"Community"
+],
+"features": "Stepped slabs with planted terraces on the lower floors and rooftop swimming pools for all residents.",
+"keep": 2,
+"list": "europe",
+"qid": "Q2588054",
+"commons": "Wohnpark Alterlaa",
+"image": "Wohnpark Alterlaa Dachblick von Block C1.jpg",
+"coords": [
+48.1519,
+16.3131
+]
+},
+{
+"name": "Grundtvig's Church",
+"by": "Peder Vilhelm Jensen-Klint",
+"city": "Copenhagen",
+"cc": "DK",
+"year": "1940",
+"type": "Religious",
+"movement": "Expressionism",
+"concepts": [
+"Brick",
+"Monumentality",
+"Geometry"
+],
+"features": "Organ-pipe stepped west front and tall Gothic-inspired vaults built entirely of yellow brick.",
+"keep": 3,
+"list": "europe",
+"qid": "Q650849",
+"commons": "Grundtvigs Kirke",
+"image": "Grundtvigs Kirke Copenhagen.jpg",
+"coords": [
+55.71658333,
+12.53361111
+]
+},
+{
+"name": "Kingo Houses",
+"by": "Jørn Utzon",
+"city": "Helsingør",
+"cc": "DK",
+"year": "1958",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Cluster",
+"Brick"
+],
+"features": "L-shaped yellow brick courtyard houses stepped along rolling ground, each walled garden facing the sun.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3428102",
+"commons": "Kingo Houses",
+"image": "Romerhusene02.jpg",
+"coords": [
+56.03210833,
+12.57844444
+]
+},
+{
+"name": "CopenHill",
+"by": "BIG",
+"city": "Copenhagen",
+"cc": "DK",
+"year": "2019",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Landscape",
+"Section"
+],
+"features": "Waste-to-energy plant whose sloping roof is a public ski slope, with a climbing wall on the facade.",
+"keep": 3,
+"list": "europe",
+"qid": "Q16002749",
+"commons": "Amager Bakke",
+"image": "Amager Bakke Copenhagen 1.jpg",
+"coords": [
+55.68474,
+12.62055
+]
+},
+{
+"name": "Woodland Cemetery",
+"by": "Gunnar Asplund, Sigurd Lewerentz",
+"city": "Stockholm",
+"cc": "SE",
+"year": "1940",
+"type": "Memorial",
+"movement": "Modernism",
+"concepts": [
+"Landscape",
+"Promenade",
+"Monumentality"
+],
+"features": "Pine forest landscape where a long path passes a granite cross toward the crematorium portico.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "St. Peter's Church",
+"by": "Sigurd Lewerentz",
+"city": "Klippan",
+"cc": "SE",
+"year": "1966",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Brick",
+"Light & shadow",
+"Detail"
+],
+"features": "Dark church built of uncut bricks with wide mortar joints, around a rusted steel T-shaped column.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Hedmark Museum",
+"by": "Sverre Fehn",
+"city": "Hamar",
+"cc": "NO",
+"year": "1979",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Adaptive reuse",
+"Promenade",
+"Timber"
+],
+"features": "Concrete ramps and bridges thread through a medieval barn ruin under a new timber roof and glass.",
+"keep": 3,
+"list": "europe",
+"qid": "Q5697531",
+"commons": "Domkirkeodden",
+"image": "2013-07-13 Hamar 47.jpg",
+"coords": [
+60.79253,
+11.03991
+]
+},
+{
+"name": "Norwegian Wild Reindeer Pavilion",
+"by": "Snøhetta",
+"city": "Hjerkinn",
+"cc": "NO",
+"year": "2011",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Digital fabrication",
+"Landscape"
+],
+"features": "Glass box with a milled pine wall shaped like eroded rock, facing across the Dovrefjell mountains.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Steilneset Memorial",
+"by": "Peter Zumthor, Louise Bourgeois",
+"city": "Vardø",
+"cc": "NO",
+"year": "2011",
+"type": "Memorial",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Tensile structure",
+"Light & shadow"
+],
+"features": "A silk-membrane corridor hung in a long timber frame, with one window and bulb for each victim.",
+"keep": 2,
+"list": "europe",
+"qid": "Q1260955",
+"commons": "Witch-hunt memorial in Steilneset",
+"image": "Steglneset.jpg",
+"coords": [
+70.369525,
+31.09179444
+]
+},
+{
+"name": "Dipoli",
+"by": "Reima Pietilä, Raili Pietilä",
+"city": "Espoo",
+"cc": "FI",
+"year": "1966",
+"type": "Education",
+"movement": "Expressionism",
+"concepts": [
+"Sculptural form",
+"Landscape",
+"Stone"
+],
+"features": "Copper roofs and rough boulder walls follow the rocky site in a cave-like student union building.",
+"keep": 3,
+"list": "europe",
+"qid": "Q3029170",
+"commons": "Dipoli",
+"image": "Dipoli käpyovi.jpg",
+"coords": [
+60.185,
+24.8325
+]
+},
+{
+"name": "Otaniemi Chapel",
+"by": "Kaija Siren, Heikki Siren",
+"city": "Espoo",
+"cc": "FI",
+"year": "1957",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Landscape",
+"Timber",
+"Brick"
+],
+"features": "The wall behind the altar is fully glazed onto a forest holding a cross, under a timber truss roof.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2957158",
+"commons": "Otaniemi Chapel",
+"image": "Otaniemen kappeli ulkoa.jpg",
+"coords": [
+60.1894,
+24.8372
+]
+},
+{
+"name": "Helsinki Central Station",
+"by": "Eliel Saarinen",
+"city": "Helsinki",
+"cc": "FI",
+"year": "1919",
+"type": "Infrastructure",
+"movement": "Art Nouveau",
+"concepts": [
+"Stone",
+"Vault",
+"Monumentality"
+],
+"features": "Granite station with a clock tower and lamp-bearing figures framing a vaulted main hall.",
+"keep": 2,
+"list": "europe",
+"qid": "Q1044613",
+"commons": "Helsinki Central railway station",
+"image": "Helsinki Central railway station in Finland, 2021 July.jpg",
+"coords": [
+60.17104832,
+24.94144874
+]
+},
+{
+"name": "Estonian National Museum",
+"by": "Dorell Ghotmeh Tane",
+"city": "Tartu",
+"cc": "EE",
+"year": "2016",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Facade as skin",
+"Axis"
+],
+"features": "Long low wedge rising from the end of a disused Soviet airfield runway, wrapped in fritted glass.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "National Library of Latvia",
+"by": "Gunnar Birkerts",
+"city": "Riga",
+"cc": "LV",
+"year": "2014",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Monumentality",
+"Section",
+"Light from above"
+],
+"features": "Stepped gable of glass and grey metal rising from the riverbank, with a tall atrium wall of books.",
+"keep": 2,
+"list": "europe",
+"qid": "Q1133733",
+"commons": "National Library of Latvia",
+"image": "National Bibliothek Lettlands 1.jpg",
+"coords": [
+56.94134,
+24.09664
+]
+},
+{
+"name": "Szczecin Philharmonic",
+"by": "Barozzi Veiga",
+"city": "Szczecin",
+"cc": "PL",
+"year": "2014",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Light & shadow",
+"Geometry"
+],
+"features": "Translucent glass skin with sharp gabled peaks that glows at night, around a gold-lined concert hall.",
+"keep": 3,
+"list": "europe",
+"qid": "Q11815195",
+"commons": "Szczecin Philharmonic",
+"image": "Szczecin Philharmonic Hall 3304.jpg",
+"coords": [
+53.4377,
+14.5418
+]
+},
+{
+"name": "European Solidarity Centre",
+"by": "Fort Architekci",
+"city": "Gdańsk",
+"cc": "PL",
+"year": "2014",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Planting",
+"Monumentality"
+],
+"features": "Rusted steel walls lean like ship hulls around a planted winter garden at the shipyard gate.",
+"keep": 2,
+"list": "europe",
+"qid": "Q534403",
+"commons": "European Solidarity Centre",
+"image": "Gdansk Shipyard aerial photograph 2019 P03.jpg",
+"coords": [
+54.361234,
+18.649421
+]
+},
+{
+"name": "Ještěd Tower",
+"by": "Karel Hubáček",
+"city": "Liberec",
+"cc": "CZ",
+"year": "1973",
+"type": "Hospitality",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Landscape",
+"Sculptural form"
+],
+"features": "Hyperboloid summit tower combining a TV transmitter, hotel and restaurant, clad in aluminium panels.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1129608",
+"commons": "Ještěd Tower",
+"image": "Jested 002.JPG",
+"coords": [
+50.732628,
+14.984592
+]
+},
+{
+"name": "Veletržní palác",
+"by": "Oldřich Tyl, Josef Fuchs",
+"city": "Prague",
+"cc": "CZ",
+"year": "1928",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Free plan",
+"Void",
+"Steel & glass"
+],
+"features": "Concrete frame with ribbon windows around a large galleried atrium, now housing the national gallery.",
+"keep": 2,
+"list": "europe",
+"qid": "Q496259",
+"commons": "Veletržní palác",
+"image": "Praha Veletržní palác jih.jpg",
+"coords": [
+50.10111111111111,
+14.4325
+]
+},
+{
+"name": "Church of the Most Sacred Heart of Our Lord",
+"by": "Jože Plečnik",
+"city": "Prague",
+"cc": "CZ",
+"year": "1932",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Brick",
+"Monumentality",
+"Geometry"
+],
+"features": "Wide slab tower with a large glass clock face, above dark brick walls studded with granite blocks.",
+"keep": 2,
+"list": "europe",
+"qid": "Q1164329",
+"commons": "Church of the Sacred Heart (Prague-Vinohrady)",
+"image": "Praha kostel NSP bok 1.jpg",
+"coords": [
+50.078035,
+14.4507539
+]
+},
+{
+"name": "Slovak Radio Building",
+"by": "Štefan Svetko, Štefan Ďurkovič",
+"city": "Bratislava",
+"cc": "SK",
+"year": "1983",
+"type": "Workplace",
+"movement": "Brutalism",
+"concepts": [
+"Geometry",
+"Structure as expression",
+"Sculptural form"
+],
+"features": "Inverted steel-framed pyramid of offices standing on its point above a base of studios.",
+"keep": 2,
+"list": "europe",
+"qid": "Q7541547",
+"commons": "Slovak Radio Building",
+"image": "Upside down Pyramid, Bratislava 01.jpg",
+"coords": [
+48.15416667,
+17.11416667
+]
+},
+{
+"name": "Paks Catholic Church",
+"by": "Imre Makovecz",
+"city": "Paks",
+"cc": "HU",
+"year": "1991",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Sculptural form",
+"Earth & local material"
+],
+"features": "Timber-framed church with a shingled roof and three spires, its form drawn from Hungarian folk motifs.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "National and University Library",
+"by": "Jože Plečnik",
+"city": "Ljubljana",
+"cc": "SI",
+"year": "1941",
+"type": "Library",
+"movement": "Modernism",
+"concepts": [
+"Stone",
+"Brick",
+"Light & shadow"
+],
+"features": "Facade patterned in brick and rough stone; a dark stair climbs to a reading room with glazed end walls.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1520466",
+"commons": "National and University Library of Slovenia",
+"image": "Ljubljana city view (11330258683).jpg",
+"coords": [
+46.04694444444444,
+14.50388888888889
+]
+},
+{
+"name": "Sea Organ",
+"by": "Nikola Bašić",
+"city": "Zadar",
+"cc": "HR",
+"year": "2005",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Water",
+"Stone",
+"Public space"
+],
+"features": "Marble steps into the sea with pipes below that sound as waves push air through them.",
+"keep": 3,
+"list": "europe",
+"qid": "Q2268940",
+"commons": "Sea organ in Zadar",
+"image": "Sea organ Zadar 3.JPG",
+"coords": [
+44.11722222,
+15.22
+]
+},
+{
+"name": "Museum of Contemporary Art Belgrade",
+"by": "Ivan Antić, Ivanka Raspopović",
+"city": "Belgrade",
+"cc": "RS",
+"year": "1965",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Light from above",
+"Landscape"
+],
+"features": "Cluster of crystalline volumes turned at 45 degrees with sloping glass roof prisms, set in a riverside park.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1290510",
+"commons": "Belgrade Contemporary Art Museum",
+"image": "Beograd - Muzej Savremene Umetnosti (MoCAB) (crop).jpg",
+"coords": [
+44.819444444444,
+20.442222222222
+]
+},
+{
+"name": "Skopje Telecommunications Centre",
+"by": "Janko Konstantinov",
+"city": "Skopje",
+"cc": "MK",
+"year": "1981",
+"type": "Infrastructure",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Sculptural form",
+"Cluster"
+],
+"features": "Rhythmic concrete towers with flared crowns above a long podium of postal and service halls.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Partisan Memorial Cemetery",
+"by": "Bogdan Bogdanović",
+"city": "Mostar",
+"cc": "BA",
+"year": "1965",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Stone",
+"Landscape",
+"Promenade"
+],
+"features": "Terraced paths and retaining walls of cut stone climb a hillside, with tombstones set along the levels.",
+"keep": 2,
+"list": "europe",
+"qid": "Q85181",
+"commons": "Partisan cemetery in Mostar",
+"image": "Mostar – Partizansko groblje (2022) 01.jpg",
+"coords": [
+43.341254,
+17.79636
+]
+},
+{
+"name": "Buzludzha Monument",
+"by": "Georgi Stoilov",
+"city": "Kazanlak",
+"cc": "BG",
+"year": "1981",
+"type": "Memorial",
+"movement": "Brutalism",
+"concepts": [
+"Monumentality",
+"Sculptural form",
+"Exposed concrete"
+],
+"features": "Saucer-shaped concrete hall and a tall star tower on a mountain peak, now a stabilised ruin.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Acropolis and Philopappou Hill Paths",
+"by": "Dimitris Pikionis",
+"city": "Athens",
+"cc": "GR",
+"year": "1957",
+"type": "Public space",
+"movement": "Regionalism",
+"concepts": [
+"Stone",
+"Reclaimed material",
+"Promenade"
+],
+"features": "Paths paved with reused marble and stone fragments in irregular patterns, framing views of the Acropolis.",
+"keep": 3,
+"list": "europe",
+"qid": null
+},
+{
+"name": "Zuev Workers' Club",
+"by": "Ilya Golosov",
+"city": "Moscow",
+"cc": "RU",
+"year": "1929",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Geometry",
+"Steel & glass",
+"Circulation"
+],
+"features": "Glazed cylinder holding the stair, clamped by the projecting concrete volumes of the club rooms above.",
+"keep": 3,
+"list": "europe",
+"qid": "Q4165516",
+"commons": "Zuev Workers' Club",
+"image": "Zuev Workers' Club in MSK.jpg",
+"coords": [
+55.779166666667,
+37.59
+]
+},
+{
+"name": "Mayakovskaya Station",
+"by": "Alexey Dushkin",
+"city": "Moscow",
+"cc": "RU",
+"year": "1938",
+"type": "Infrastructure",
+"movement": "Art Deco",
+"concepts": [
+"Light from above",
+"Detail",
+"Structure as expression"
+],
+"features": "Shallow lit domes with mosaics carried on slender arches faced in stainless steel and rhodonite.",
+"keep": 3,
+"list": "europe",
+"qid": "Q1190921",
+"commons": "Mayakovskaya (Moscow Metro station)",
+"image": "Vertical panorama of the Mayakovskaya Metro Station.jpg",
+"coords": [
+55.76898261,
+37.59695602
+]
+},
+{
+"name": "Bridge of Peace",
+"by": "Michele De Lucchi",
+"city": "Tbilisi",
+"cc": "GE",
+"year": "2010",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Steel & glass",
+"Light & shadow",
+"Public space"
+],
+"features": "Pedestrian steel bridge under a wave-shaped glass canopy fitted with LEDs, crossing the Kura river.",
+"keep": 2,
+"list": "europe",
+"qid": "Q27574",
+"commons": "Peace Bridge, Tbilisi",
+"image": "Tbilisi Peace Bridge and Kura River by Falco.jpg",
+"coords": [
+41.693611111111,
+44.808333333333
+]
+},
+{
+"name": "Sevan Writers' Resort",
+"by": "Gevorg Kochar, Mikael Mazmanyan",
+"city": "Sevan",
+"cc": "AM",
+"year": "1963",
+"type": "Hospitality",
+"movement": "Modernism",
+"concepts": [
+"Cantilever",
+"Landscape",
+"Steel & glass"
+],
+"features": "A dining hall cantilevers off the slope toward Lake Sevan, beside earlier constructivist guest blocks.",
+"keep": 2,
+"list": "europe",
+"qid": null
+},
+{
+"name": "National Library of Belarus",
+"by": "Mikhail Vinogradov, Viktor Kramarenko",
+"city": "Minsk",
+"cc": "BY",
+"year": "2006",
+"type": "Library",
+"movement": "Contemporary",
+"concepts": [
+"Geometry",
+"Monumentality",
+"Facade as skin"
+],
+"features": "Glass rhombicuboctahedron on a podium, its faces lit at night by LED arrays.",
+"keep": 2,
+"list": "europe",
+"qid": "Q971450",
+"commons": "National Library of Belarus",
+"image": "5 50 64 2f - Belarus National Library, Minsk 2009 (3901618837).jpg",
+"coords": [
+53.931421,
+27.645844
+]
+},
+{
+"name": "Indian Institute of Management Bangalore",
+"by": "Balkrishna Doshi",
+"city": "Bengaluru",
+"cc": "IN",
+"year": "1983",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Circulation",
+"Light from above"
+],
+"features": "Long corridors under open pergolas link courts and classrooms built of rough granite and concrete.",
+"keep": 3,
+"list": "south",
+"qid": "Q46021",
+"commons": "Indian Institute of Management Bangalore",
+"image": "IIM Bangalore Bennarghatta road Main gate.JPG",
+"coords": [
+12.89569444,
+77.60227778
+]
+},
+{
+"name": "Tagore Memorial Hall",
+"by": "Balkrishna Doshi",
+"city": "Ahmedabad",
+"cc": "IN",
+"year": "1967",
+"type": "Culture & sport",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Structure as expression",
+"Sculptural form"
+],
+"features": "Folded-plate concrete walls and roof enclose a column-free auditorium.",
+"keep": 2,
+"list": "south",
+"qid": "Q106695972",
+"commons": "Tagore Memorial Hall",
+"image": "Tagore Hall Ahmedabad 3.jpg",
+"coords": [
+23.0129,
+72.5711
+]
+},
+{
+"name": "Vidhan Bhavan",
+"by": "Charles Correa",
+"city": "Bhopal",
+"cc": "IN",
+"year": "1996",
+"type": "Civic",
+"movement": "Regionalism",
+"concepts": [
+"Geometry",
+"Courtyard",
+"Promenade"
+],
+"features": "A circular wall encloses a mandala-like grid of courts, gardens and chambers for the state assembly.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Bharat Bhavan",
+"by": "Charles Correa",
+"city": "Bhopal",
+"cc": "IN",
+"year": "1982",
+"type": "Culture & sport",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Courtyard",
+"Section"
+],
+"features": "Terraced courts step down a hill toward the lake, with galleries set partly below ground.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Belapur Artists' Village",
+"by": "Charles Correa",
+"city": "Navi Mumbai",
+"cc": "IN",
+"year": "1986",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Incremental",
+"Cluster",
+"Low cost"
+],
+"features": "Detached houses grouped around a hierarchy of shared courts, each plot free to be extended.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Asian Games Village",
+"by": "Raj Rewal",
+"city": "New Delhi",
+"cc": "IN",
+"year": "1982",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Cluster",
+"Courtyard",
+"Community"
+],
+"features": "Clustered low-rise houses linked by narrow pedestrian lanes and gateways, recalling old Indian towns.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "IIT Kanpur Academic Area",
+"by": "Achyut Kanvinde",
+"city": "Kanpur",
+"cc": "IN",
+"year": "c. 1966",
+"type": "Education",
+"movement": "Brutalism",
+"concepts": [
+"Circulation",
+"Brick",
+"Exposed concrete"
+],
+"features": "Lecture halls, labs and library in brick and concrete joined by a continuous covered walkway system.",
+"keep": 2,
+"list": "south",
+"qid": "Q782682",
+"commons": "IIT Kanpur",
+"image": "IITKLibrary.jpg",
+"coords": [
+26.511383,
+80.23493
+]
+},
+{
+"name": "Government Museum and Art Gallery",
+"by": "Le Corbusier",
+"city": "Chandigarh",
+"cc": "IN",
+"year": "1968",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Light from above",
+"Brick",
+"Promenade"
+],
+"features": "Brick-clad gallery block on a concrete frame, a version of the square museum of unlimited growth.",
+"keep": 2,
+"list": "south",
+"qid": "Q3112812",
+"commons": "Government Museum and Art Gallery, Chandigarh",
+"image": "Arch Museum 46.JPG",
+"coords": [
+30.748875,
+76.787425
+]
+},
+{
+"name": "Gandhi Bhawan",
+"by": "Pierre Jeanneret",
+"city": "Chandigarh",
+"cc": "IN",
+"year": "1962",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Sculptural form",
+"Water",
+"Exposed concrete"
+],
+"features": "A sculptural concrete hall with angled roof planes rising from a reflecting pool on the campus.",
+"keep": 2,
+"list": "south",
+"qid": "Q5520689",
+"commons": "Gandhi Bhawan",
+"image": "Gandhi Bhawan at Punjab University.jpg",
+"coords": [
+30.76187265175862,
+76.77141049559206
+]
+},
+{
+"name": "Indian Coffee House",
+"by": "Laurie Baker",
+"city": "Thiruvananthapuram",
+"cc": "IN",
+"year": "c. 1958",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Low cost",
+"Circulation"
+],
+"features": "A cylindrical brick tower with a ramp of tables spiralling up inside perforated jali walls.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Indian Institute of Forest Management",
+"by": "Anant Raje",
+"city": "Bhopal",
+"cc": "IN",
+"year": "1988",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Stone",
+"Landscape",
+"Courtyard"
+],
+"features": "Stone-clad blocks follow the hill contours, with courts, cylinders and arcades along a ridge.",
+"keep": 2,
+"list": "south",
+"qid": "Q3783811",
+"commons": null,
+"image": "IIFM arc.jpg",
+"coords": [
+23.2084,
+77.3844
+]
+},
+{
+"name": "India International Centre",
+"by": "Joseph Allen Stein",
+"city": "New Delhi",
+"cc": "IN",
+"year": "1962",
+"type": "Culture & sport",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Stone",
+"Detail"
+],
+"features": "Stone and concrete wings with blue tile and jali screens open onto the Lodhi Gardens.",
+"keep": 2,
+"list": "south",
+"qid": "Q15228643",
+"commons": null,
+"image": "India International Centre.jpg",
+"coords": [
+28.593383,
+77.222257
+]
+},
+{
+"name": "India Habitat Centre",
+"by": "Joseph Allen Stein",
+"city": "New Delhi",
+"cc": "IN",
+"year": "1993",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Climate response",
+"Brick"
+],
+"features": "Brick and concrete blocks around linked courts shaded by high space-frame canopies.",
+"keep": 3,
+"list": "south",
+"qid": "Q6019319",
+"commons": "India Habitat Centre",
+"image": "IndiaHabitatCentre.jpg",
+"coords": [
+28.589695,
+77.224906
+]
+},
+{
+"name": "Pearl Academy of Fashion",
+"by": "Morphogenesis",
+"city": "Jaipur",
+"cc": "IN",
+"year": "2008",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Climate response",
+"Courtyard"
+],
+"features": "A detached jali skin and a sunken, water-cooled courtyard cut heat in the desert climate.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "National Institute of Design",
+"by": "Gautam Sarabhai, Gira Sarabhai",
+"city": "Ahmedabad",
+"cc": "IN",
+"year": "1961",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Free plan",
+"Modular",
+"Exposed concrete"
+],
+"features": "A modular concrete frame of open studios that can be reconfigured, set in a riverside campus.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Rock Garden of Chandigarh",
+"by": "Nek Chand",
+"city": "Chandigarh",
+"cc": "IN",
+"year": "1976",
+"type": "Public space",
+"movement": "Regionalism",
+"concepts": [
+"Reclaimed material",
+"Landscape",
+"Promenade"
+],
+"features": "Outdoor rooms and passages built from broken ceramics, rubble and scrap, linked by narrow paths.",
+"keep": 2,
+"list": "south",
+"qid": "Q3041915",
+"commons": "Rock Garden, Chandigarh",
+"image": "Chandigarh Rock Garden 4.jpg",
+"coords": [
+30.752,
+76.807
+]
+},
+{
+"name": "Jantar Mantar, Jaipur",
+"by": "Sawai Jai Singh II",
+"city": "Jaipur",
+"cc": "IN",
+"year": "c. 1734",
+"type": "Public space",
+"movement": "Historic precedent",
+"concepts": [
+"Geometry",
+"Light & shadow",
+"Sculptural form"
+],
+"features": "Masonry astronomical instruments at architectural scale, shaped to read the sun's shadow.",
+"keep": 3,
+"list": "south",
+"qid": "Q508634",
+"commons": "Jantar Mantar (Jaipur)",
+"image": "Jantar Mantar at Jaipur.jpg",
+"coords": [
+26.924722222222,
+75.825
+]
+},
+{
+"name": "Rani ki Vav",
+"by": "Chaulukya builders",
+"city": "Patan",
+"cc": "IN",
+"year": "c. 1063",
+"type": "Infrastructure",
+"movement": "Historic precedent",
+"concepts": [
+"Section",
+"Water",
+"Stone"
+],
+"features": "A stepwell descending seven levels through carved stone galleries to the water table.",
+"keep": 3,
+"list": "south",
+"qid": "Q7293002",
+"commons": "Rani ki vav",
+"image": "Rani ki vav 02.jpg",
+"coords": [
+23.85892,
+72.10162
+]
+},
+{
+"name": "Faculty of Fine Arts, University of Dhaka",
+"by": "Muzharul Islam",
+"city": "Dhaka",
+"cc": "BD",
+"year": "1956",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Climate response",
+"Brick",
+"Courtyard"
+],
+"features": "Brick walls, deep verandas and louvred openings shade studios set around a tree-filled court.",
+"keep": 3,
+"list": "south",
+"qid": "Q4796888",
+"commons": "Faculty of Fine Arts, University of Dhaka",
+"image": "Institute of Fine Art 1 .A.M.R.jpg",
+"coords": [
+23.7357,
+90.3948
+]
+},
+{
+"name": "Bait ur Rouf Mosque",
+"by": "Marina Tabassum",
+"city": "Dhaka",
+"cc": "BD",
+"year": "2012",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Brick",
+"Light & shadow"
+],
+"features": "A brick cylinder inside a square, lit by skylights and perforated brick walls instead of a dome.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Friendship Centre",
+"by": "Kashef Mahboob Chowdhury",
+"city": "Gaibandha",
+"cc": "BD",
+"year": "2011",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Brick",
+"Courtyard",
+"Planting"
+],
+"features": "Low brick pavilions behind an earth embankment, with green roofs, courts and pools on flood-prone land.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "METI School",
+"by": "Anna Heringer, Eike Roswag",
+"city": "Rudrapur",
+"cc": "BD",
+"year": "2006",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Earth & local material",
+"Timber",
+"Low cost"
+],
+"features": "Earth ground floor with cave-like niches under a light bamboo upper floor of open classrooms.",
+"keep": 3,
+"list": "south",
+"qid": "Q6715478",
+"commons": "METI Handmade School",
+"image": "Heringer meti school.jpg",
+"coords": [
+25.726,
+88.5491
+]
+},
+{
+"name": "Arcadia Education Project",
+"by": "Saif Ul Haque",
+"city": "South Kanarchar",
+"cc": "BD",
+"year": "2016",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Water",
+"Timber",
+"Low cost"
+],
+"features": "A bamboo school on a pontoon of steel drums that floats when the site floods in the monsoon.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Aga Khan University Hospital",
+"by": "Payette Associates",
+"city": "Karachi",
+"cc": "PK",
+"year": "1985",
+"type": "Health",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Water",
+"Climate response"
+],
+"features": "Hospital wings around shaded courts with fountains, screens and arcades in buff concrete and marble.",
+"keep": 3,
+"list": "south",
+"qid": "Q4690948",
+"commons": "Aga Khan Hospital, Karachi",
+"image": "Aga Khan Hospital Private Wing.JPG",
+"coords": [
+24.8933,
+67.0744
+]
+},
+{
+"name": "Alhamra Arts Council",
+"by": "Nayyar Ali Dada",
+"city": "Lahore",
+"cc": "PK",
+"year": "1992",
+"type": "Culture & sport",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Geometry",
+"Monumentality"
+],
+"features": "Solid red brick volumes of auditoriums and galleries with few, deep-set openings against the heat.",
+"keep": 2,
+"list": "south",
+"qid": "Q558496",
+"commons": "Alhamra Art Centre",
+"image": "Alhamra Art Centre.JPG",
+"coords": [
+31.5582766,
+74.3290015
+]
+},
+{
+"name": "Mazar-e-Quaid",
+"by": "Yahya Merchant",
+"city": "Karachi",
+"cc": "PK",
+"year": "1970",
+"type": "Memorial",
+"movement": "Modernism",
+"concepts": [
+"Monumentality",
+"Stone",
+"Geometry"
+],
+"features": "A white marble cube with pointed arches and a shallow dome, raised on a platform in a large park.",
+"keep": 2,
+"list": "south",
+"qid": "Q2571455",
+"commons": "Mazar-e-Quaid",
+"image": "PK Karachi asv2020-02 img52 Mazar-e-Quaid.jpg",
+"coords": [
+24.875277777778,
+67.040833333333
+]
+},
+{
+"name": "Parliament of Sri Lanka",
+"by": "Geoffrey Bawa",
+"city": "Sri Jayawardenepura Kotte",
+"cc": "LK",
+"year": "1982",
+"type": "Civic",
+"movement": "Regionalism",
+"concepts": [
+"Water",
+"Landscape",
+"Cluster"
+],
+"features": "Pavilions with stacked copper roofs grouped on an island in an artificial lake.",
+"keep": 3,
+"list": "south",
+"qid": "Q1450753",
+"commons": "Parliament of Sri Lanka",
+"image": null,
+"coords": null
+},
+{
+"name": "Lunuganga",
+"by": "Geoffrey Bawa",
+"city": "Bentota",
+"cc": "LK",
+"year": "c. 1998",
+"type": "House",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Promenade",
+"Planting"
+],
+"features": "A country estate reshaped over decades into a sequence of garden rooms, terraces and framed views.",
+"keep": 3,
+"list": "south",
+"qid": "Q126694884",
+"commons": "Lunuganga Estate",
+"image": "Lunuganga, Bentota, Sri Lanka. Interieur 2.jpg",
+"coords": [
+6.403333333333333,
+80.02194444444444
+]
+},
+{
+"name": "University of Ruhuna",
+"by": "Geoffrey Bawa",
+"city": "Matara",
+"cc": "LK",
+"year": "1988",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Cluster",
+"Landscape",
+"Circulation"
+],
+"features": "Pavilions with tiled roofs linked by covered walkways across hilltops overlooking the sea.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Seema Malaka",
+"by": "Geoffrey Bawa",
+"city": "Colombo",
+"cc": "LK",
+"year": "1978",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Water",
+"Timber",
+"Cluster"
+],
+"features": "Three timber-roofed platforms float on Beira Lake, linked to the shore by walkways.",
+"keep": 2,
+"list": "south",
+"qid": "Q24239464",
+"commons": "Seema Malaka",
+"image": "Seema Malaka temple.JPG",
+"coords": [
+6.917623,
+79.853257
+]
+},
+{
+"name": "Patan Museum",
+"by": "Götz Hagmüller",
+"city": "Lalitpur",
+"cc": "NP",
+"year": "1997",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Courtyard",
+"Timber"
+],
+"features": "Galleries fitted into a restored Malla palace wing around its courtyard, with discreet new structure.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Shushtar New Town",
+"by": "Kamran Diba",
+"city": "Shushtar",
+"cc": "IR",
+"year": "1978",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Courtyard",
+"Climate response"
+],
+"features": "Brick courtyard houses along narrow shaded lanes and a pedestrian spine, tuned to the hot climate.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Niavaran Cultural Center",
+"by": "Kamran Diba",
+"city": "Tehran",
+"cc": "IR",
+"year": "1978",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Public space",
+"Landscape",
+"Brick"
+],
+"features": "Library, gallery and theatre around sunken plazas and gardens set into a sloping park.",
+"keep": 2,
+"list": "south",
+"qid": "Q5959034",
+"commons": "Niavaran Cultural Center",
+"image": "Vahid Yarmohammadi Niavaran House if Culture.jpg",
+"coords": [
+35.808069,
+51.469696
+]
+},
+{
+"name": "Tabiat Bridge",
+"by": "Leila Araghian",
+"city": "Tehran",
+"cc": "IR",
+"year": "2014",
+"type": "Infrastructure",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Structure as expression",
+"Circulation"
+],
+"features": "A three-level steel truss footbridge over a highway, with seating and cafes along its decks.",
+"keep": 3,
+"list": "south",
+"qid": "Q5691633",
+"commons": "Tabiat Bridge",
+"image": "Tabiat-Bridge-by-DIBA-group.jpg",
+"coords": [
+35.754416666666664,
+51.4205
+]
+},
+{
+"name": "City Theater of Tehran",
+"by": "Ali Sardar Afkhami",
+"city": "Tehran",
+"cc": "IR",
+"year": "1972",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Brick",
+"Monumentality"
+],
+"features": "A cylindrical theatre ringed by tall columns and a tiled frieze, set in a park on a busy crossroads.",
+"keep": 2,
+"list": "south",
+"qid": "Q2276437",
+"commons": "City Theater of Tehran",
+"image": "TitSh1.jpg",
+"coords": [
+35.70011111111111,
+51.4055
+]
+},
+{
+"name": "Shah Mosque, Isfahan",
+"by": "Ali Akbar Isfahani",
+"city": "Isfahan",
+"cc": "IR",
+"year": "1629",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Axis",
+"Courtyard",
+"Detail"
+],
+"features": "The plan turns 45 degrees behind the portal so the courtyard and halls face Mecca, not the square.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Majara Residence",
+"by": "ZAV Architects",
+"city": "Hormuz Island",
+"cc": "IR",
+"year": "2021",
+"type": "Hospitality",
+"movement": "Contemporary",
+"concepts": [
+"Colour",
+"Earth & local material",
+"Cluster"
+],
+"features": "Clusters of colourful domes built from sandbags and local earth, housing guest rooms and a cafe.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Social Security Complex, Zeyrek",
+"by": "Sedad Hakkı Eldem",
+"city": "Istanbul",
+"cc": "TR",
+"year": "1970",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Cluster",
+"Detail",
+"Cantilever"
+],
+"features": "Small linked blocks with projecting upper floors and a concrete frame fit the old street scale.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Hilton Istanbul",
+"by": "SOM, Sedad Hakkı Eldem",
+"city": "Istanbul",
+"cc": "TR",
+"year": "1955",
+"type": "Hospitality",
+"movement": "Modernism",
+"concepts": [
+"Pilotis",
+"Brise-soleil",
+"Landscape"
+],
+"features": "A slab on pilotis with a honeycomb of deep balconies facing the Bosphorus, entered under a wavy canopy.",
+"keep": 2,
+"list": "south",
+"qid": "Q4806513",
+"commons": "Hilton Istanbul",
+"image": "Istanbul Hilton.JPG",
+"coords": [
+41.0446,
+28.9899
+]
+},
+{
+"name": "Turkish Historical Society",
+"by": "Turgut Cansever, Ertur Yener",
+"city": "Ankara",
+"cc": "TR",
+"year": "1966",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Stone",
+"Light from above",
+"Courtyard"
+],
+"features": "A red andesite stone envelope around a skylit central hall lined with carved wooden screens.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "METU Faculty of Architecture",
+"by": "Altuğ Çinici, Behruz Çinici",
+"city": "Ankara",
+"cc": "TR",
+"year": "1963",
+"type": "Education",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Courtyard",
+"Light from above"
+],
+"features": "Board-marked concrete studios around courts and a skylit hall, on the campus pedestrian spine.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Grand National Assembly Mosque",
+"by": "Behruz Çinici, Can Çinici",
+"city": "Ankara",
+"cc": "TR",
+"year": "1989",
+"type": "Religious",
+"movement": "Postmodernism",
+"concepts": [
+"Landscape",
+"Light from above",
+"Geometry"
+],
+"features": "A stepped roof replaces the dome, and a glazed qibla wall opens onto a terraced garden.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Faculty of Languages, History and Geography",
+"by": "Bruno Taut",
+"city": "Ankara",
+"cc": "TR",
+"year": "1940",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Stone",
+"Brick",
+"Axis"
+],
+"features": "Banded stone and brick walls blend Anatolian masonry with a symmetrical modern plan.",
+"keep": 2,
+"list": "south",
+"qid": "Q6088281",
+"commons": "Faculty of Humanities, Ankara University",
+"image": "Ankara University Faculty of Humanities (16034968319).jpg",
+"coords": [
+39.92965278,
+32.85551389
+]
+},
+{
+"name": "İstanbul Manifaturacılar Çarşısı",
+"by": "Doğan Tekeli, Sami Sisa",
+"city": "Istanbul",
+"cc": "TR",
+"year": "1967",
+"type": "Workplace",
+"movement": "Modernism",
+"concepts": [
+"Cluster",
+"Public space",
+"Landscape"
+],
+"features": "Low blocks of wholesale shops step down a slope around shared terraces, stairs and passages.",
+"keep": 2,
+"list": "south",
+"qid": "Q6089529",
+"commons": "Istanbul Drapers Bazaar",
+"image": "Streets in Istanbul.20220806 184935.jpg",
+"coords": [
+41.018447,
+28.958733
+]
+},
+{
+"name": "İpekyol Textile Factory",
+"by": "Emre Arolat",
+"city": "Edirne",
+"cc": "TR",
+"year": "2006",
+"type": "Workplace",
+"movement": "Contemporary",
+"concepts": [
+"Light from above",
+"Courtyard",
+"Human comfort"
+],
+"features": "One large factory roof with long skylights and interior gardens that bring daylight to the workers.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Süleymaniye Mosque",
+"by": "Mimar Sinan",
+"city": "Istanbul",
+"cc": "TR",
+"year": "1557",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Light from above",
+"Structure as expression",
+"Monumentality"
+],
+"features": "A central dome buttressed by half-domes, with tiers of windows filling the prayer hall with light.",
+"keep": 3,
+"list": "south",
+"qid": "Q178643",
+"commons": "Süleymaniye Mosque",
+"image": "SüleymaniyeMosqueIstanbul (cropped).jpg",
+"coords": [
+41.016111111111,
+28.963888888889
+]
+},
+{
+"name": "Selimiye Mosque",
+"by": "Mimar Sinan",
+"city": "Edirne",
+"cc": "TR",
+"year": "1575",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Structure as expression",
+"Light from above",
+"Geometry"
+],
+"features": "Eight piers in an octagon carry one wide dome over a single, unified prayer space.",
+"keep": 3,
+"list": "south",
+"qid": "Q184534",
+"commons": "Selimiye Mosque",
+"image": "Edirne 7333 Nevit.JPG",
+"coords": [
+41.678056,
+26.559444
+]
+},
+{
+"name": "Supreme Court of Israel",
+"by": "Ram Karmi, Ada Karmi-Melamede",
+"city": "Jerusalem",
+"cc": "IL",
+"year": "1992",
+"type": "Civic",
+"movement": "Regionalism",
+"concepts": [
+"Stone",
+"Light from above",
+"Promenade"
+],
+"features": "Stone walls, a stepped entry stair and slots of light frame a walk between courtrooms and library.",
+"keep": 3,
+"list": "south",
+"qid": "Q12404648",
+"commons": "Israel supreme court building",
+"image": "Israel Supreme Court.jpg",
+"coords": [
+31.780833333333,
+35.203611111111
+]
+},
+{
+"name": "Tel Aviv Museum of Art, Herta and Paul Amir Building",
+"by": "Preston Scott Cohen",
+"city": "Tel Aviv",
+"cc": "IL",
+"year": "2011",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Geometry",
+"Light from above",
+"Void"
+],
+"features": "Twisting hyperbolic surfaces form a tall light-filled atrium that connects galleries on offset floors.",
+"keep": 3,
+"list": "south",
+"qid": "Q1267958",
+"commons": "Tel Aviv Museum of Art",
+"image": "TelAM.jpg",
+"coords": [
+32.0775,
+34.78666666666667
+]
+},
+{
+"name": "Knesset",
+"by": "Joseph Klarwein",
+"city": "Jerusalem",
+"cc": "IL",
+"year": "1966",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Monumentality",
+"Stone",
+"Axis"
+],
+"features": "A square stone-clad block with a ring of tall rectangular piers, set on a hilltop.",
+"keep": 2,
+"list": "south",
+"qid": "Q16129617",
+"commons": "Knesset building",
+"image": "New National Library of Israel Complex 4 (cropped2).jpg",
+"coords": [
+31.776666666666667,
+35.205555555555556
+]
+},
+{
+"name": "Bat Yam City Hall",
+"by": "Alfred Neumann, Zvi Hecker",
+"city": "Bat Yam",
+"cc": "IL",
+"year": "1963",
+"type": "Civic",
+"movement": "Brutalism",
+"concepts": [
+"Geometry",
+"Exposed concrete",
+"Courtyard"
+],
+"features": "An inverted stepped pyramid of concrete around an inner court, with a faceted polyhedral roof.",
+"keep": 2,
+"list": "south",
+"qid": "Q18191410",
+"commons": "Bat Yam City Hall",
+"image": "Bat-Yam-municipality.jpg",
+"coords": [
+32.01611111,
+34.74138889
+]
+},
+{
+"name": "Palestinian Museum",
+"by": "Heneghan Peng",
+"city": "Birzeit",
+"cc": "PS",
+"year": "2016",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Stone",
+"Geometry"
+],
+"features": "Angular stone-clad galleries follow terraced hillside gardens planted with local species.",
+"keep": 3,
+"list": "south",
+"qid": "Q18211128",
+"commons": "The Palestinian Museum",
+"image": "The Palestinian Museum.jpg",
+"coords": [
+31.962968,
+35.18345
+]
+},
+{
+"name": "Darat al Funun",
+"by": "Ammar Khammash",
+"city": "Amman",
+"cc": "JO",
+"year": "1993",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Landscape",
+"Stone"
+],
+"features": "Three 1920s houses and Byzantine ruins on a hillside converted into galleries, studios and gardens.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "SOS Children's Village Aqaba",
+"by": "Jafar Tukan",
+"city": "Aqaba",
+"cc": "JO",
+"year": "1991",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Climate response",
+"Cluster"
+],
+"features": "Family houses clustered like a small town around shaded courts and lanes in the desert heat.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Rachid Karami International Fair",
+"by": "Oscar Niemeyer",
+"city": "Tripoli",
+"cc": "LB",
+"year": "1975",
+"type": "Public space",
+"movement": "Modernism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Public space"
+],
+"features": "A boomerang-shaped concrete canopy and scattered sculptural pavilions on a vast unfinished fairground.",
+"keep": 3,
+"list": "south",
+"qid": "Q168954",
+"commons": "Tripoli, Lebanon",
+"image": "The skyline of Tripoli, Lebanon.jpg",
+"coords": [
+34.43666666666667,
+35.83444444444444
+]
+},
+{
+"name": "Issam Fares Institute",
+"by": "Zaha Hadid Architects",
+"city": "Beirut",
+"cc": "LB",
+"year": "2014",
+"type": "Education",
+"movement": "Parametric",
+"concepts": [
+"Cantilever",
+"Exposed concrete",
+"Circulation"
+],
+"features": "A concrete volume cantilevers over existing campus paths, leaving the walkways and trees below open.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Hajj Terminal, King Abdulaziz International Airport",
+"by": "SOM, Fazlur Rahman Khan",
+"city": "Jeddah",
+"cc": "SA",
+"year": "1981",
+"type": "Infrastructure",
+"movement": "High-tech",
+"concepts": [
+"Tensile structure",
+"Climate response",
+"Modular"
+],
+"features": "Hundreds of fibreglass tent modules on steel pylons shade a vast open-air terminal.",
+"keep": 3,
+"list": "south",
+"qid": "Q153592",
+"commons": "King Abdulaziz International Airport",
+"image": "King Abdul Aziz International Airport- South Terminal and Terminal 1 (2020-02-16).jpeg",
+"coords": [
+21.661694444444443,
+39.173027777777776
+]
+},
+{
+"name": "National Commercial Bank",
+"by": "Gordon Bunshaft",
+"city": "Jeddah",
+"cc": "SA",
+"year": "1983",
+"type": "Office & tower",
+"movement": "Late modernism",
+"concepts": [
+"Void",
+"Climate response",
+"Geometry"
+],
+"features": "A triangular tower with blank outer walls and huge cut-out sky courts; offices face inward.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Ministry of Foreign Affairs, Riyadh",
+"by": "Henning Larsen",
+"city": "Riyadh",
+"cc": "SA",
+"year": "1984",
+"type": "Civic",
+"movement": "Late modernism",
+"concepts": [
+"Courtyard",
+"Light from above",
+"Climate response"
+],
+"features": "A closed outer wall with offices facing a central triangular atrium and smaller inner courts.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Tuwaiq Palace",
+"by": "Frei Otto, Buro Happold",
+"city": "Riyadh",
+"cc": "SA",
+"year": "1985",
+"type": "Civic",
+"movement": "Contemporary",
+"concepts": [
+"Tensile structure",
+"Landscape",
+"Climate response"
+],
+"features": "A long curving stone wall on the wadi edge, with white tensile tents for halls and shaded gardens.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "King Abdullah Petroleum Studies and Research Center",
+"by": "Zaha Hadid Architects",
+"city": "Riyadh",
+"cc": "SA",
+"year": "2017",
+"type": "Workplace",
+"movement": "Parametric",
+"concepts": [
+"Modular",
+"Climate response",
+"Courtyard"
+],
+"features": "Hexagonal cells grow from a honeycomb grid, with shaded facades and courtyards against the desert sun.",
+"keep": 2,
+"list": "south",
+"qid": "Q6411209",
+"commons": "KAPSARC, Riad, Saudi Arabia",
+"image": null,
+"coords": [
+24.87539829453836,
+46.72192490217368
+]
+},
+{
+"name": "Qasr Al Hokm Justice Palace and Grand Mosque",
+"by": "Rasem Badran",
+"city": "Riyadh",
+"cc": "SA",
+"year": "1992",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Public space",
+"Courtyard",
+"Earth & local material"
+],
+"features": "Mosque, palace and plazas in Najdi forms with thick walls, small openings and shaded arcades.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Corniche Mosque",
+"by": "Abdel-Wahed El-Wakil",
+"city": "Jeddah",
+"cc": "SA",
+"year": "1986",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Vault",
+"Geometry",
+"Water"
+],
+"features": "A small domed mosque on the seafront, built with load-bearing masonry domes and vaults.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Burj Al Arab",
+"by": "Tom Wright, Atkins",
+"city": "Dubai",
+"cc": "AE",
+"year": "1999",
+"type": "Hospitality",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Facade as skin",
+"Sculptural form"
+],
+"features": "A sail-shaped hotel on an artificial island, with an exposed steel frame and a fabric-clad atrium wall.",
+"keep": 2,
+"list": "south",
+"qid": "Q62939",
+"commons": "Burj Al Arab",
+"image": "Burj Al Arab and Jumeirah Beach (9601659067).jpg",
+"coords": [
+25.14138888888889,
+55.18527777777778
+]
+},
+{
+"name": "Al Bahar Towers",
+"by": "Aedas",
+"city": "Abu Dhabi",
+"cc": "AE",
+"year": "2012",
+"type": "Office & tower",
+"movement": "Parametric",
+"concepts": [
+"Facade as skin",
+"Climate response",
+"Parametric"
+],
+"features": "Computer-controlled mashrabiya umbrellas open and close with the sun to shade the glazing.",
+"keep": 3,
+"list": "south",
+"qid": "Q15707433",
+"commons": null,
+"image": "Fountain and Al Bahr Towers - panoramio.jpg",
+"coords": [
+24.456611111111,
+54.400861111111
+]
+},
+{
+"name": "Masdar Institute",
+"by": "Foster + Partners",
+"city": "Abu Dhabi",
+"cc": "AE",
+"year": "2010",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Facade as skin",
+"Circulation"
+],
+"features": "Narrow shaded streets, a wind tower and terracotta screens cool a dense campus of labs and housing.",
+"keep": 3,
+"list": "south",
+"qid": "Q4117960",
+"commons": "Masdar Institute",
+"image": null,
+"coords": [
+24.4325,
+54.6186
+]
+},
+{
+"name": "Jameel Arts Centre",
+"by": "Serie Architects",
+"city": "Dubai",
+"cc": "AE",
+"year": "2018",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Planting",
+"Facade as skin"
+],
+"features": "Galleries arranged around small desert-garden courts, clad in white panels on the Dubai Creek.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Cultural Foundation",
+"by": "The Architects Collaborative",
+"city": "Abu Dhabi",
+"cc": "AE",
+"year": "1981",
+"type": "Culture & sport",
+"movement": "Late modernism",
+"concepts": [
+"Courtyard",
+"Climate response",
+"Light & shadow"
+],
+"features": "Low white blocks with arcades and shaded courtyards beside the Qasr Al Hosn fort.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Education City Mosque",
+"by": "Mangera Yvars Architects",
+"city": "Doha",
+"cc": "QA",
+"year": "2015",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Water",
+"Light from above"
+],
+"features": "A prayer hall raised on five columns over a water garden, with two calligraphy-clad minarets.",
+"keep": 2,
+"list": "south",
+"qid": "Q116196848",
+"commons": "Education City Mosque",
+"image": "View from Education City Mosque Qatar.jpg",
+"coords": [
+25.3171,
+51.4469
+]
+},
+{
+"name": "Qatar University",
+"by": "Kamal El Kafrawi",
+"city": "Doha",
+"cc": "QA",
+"year": "1985",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Modular",
+"Light from above"
+],
+"features": "Octagonal modules topped by wind towers bring air and filtered daylight into a low, dense campus.",
+"keep": 3,
+"list": "south",
+"qid": "Q1574578",
+"commons": "Qatar University",
+"image": "QatarUniversityEastView.jpg",
+"coords": [
+25.3746,
+51.4902
+]
+},
+{
+"name": "Kuwait Water Towers (Mushroom Towers)",
+"by": "VBB, Sune Lindström",
+"city": "Kuwait City",
+"cc": "KW",
+"year": "1976",
+"type": "Infrastructure",
+"movement": "Late modernism",
+"concepts": [
+"Structure as expression",
+"Modular",
+"Sculptural form"
+],
+"features": "Groups of mushroom-shaped concrete water towers with tapering shafts and wide dished tanks.",
+"keep": 2,
+"list": "south",
+"qid": "Q1335640",
+"commons": "Kuwait Towers",
+"image": "Kuwait towers.jpg",
+"coords": [
+29.39,
+48.003055555555555
+]
+},
+{
+"name": "Bahrain National Museum",
+"by": "Krohn & Hartvig Rasmussen",
+"city": "Manama",
+"cc": "BH",
+"year": "1988",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Water",
+"Stone"
+],
+"features": "Linked white travertine-clad volumes set on the waterfront around a central hall.",
+"keep": 2,
+"list": "south",
+"qid": "Q869788",
+"commons": "Bahrain National Museum",
+"image": "Bahrain National Museum Exterior.jpg",
+"coords": [
+26.24138888888889,
+50.5975
+]
+},
+{
+"name": "Pearling Path Visitor Centre",
+"by": "Valerio Olgiati",
+"city": "Muharraq",
+"cc": "BH",
+"year": "2019",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Public space",
+"Light & shadow"
+],
+"features": "A tall concrete canopy pierced with openings shades a public space at the start of a heritage trail.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Sultan Qaboos Grand Mosque",
+"by": "Mohammed Saleh Makiya, Quad Design",
+"city": "Muscat",
+"cc": "OM",
+"year": "2001",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Axis",
+"Monumentality"
+],
+"features": "Prayer halls, arcaded courtyards and five minarets on a raised platform with axial gardens.",
+"keep": 2,
+"list": "south",
+"qid": "Q1548443",
+"commons": "Sultan Qaboos Grand Mosque",
+"image": "Sultan Qaboos Grand Mosque (1).jpg",
+"coords": [
+23.583888888889,
+58.389166666667
+]
+},
+{
+"name": "Le Corbusier Gymnasium",
+"by": "Le Corbusier",
+"city": "Baghdad",
+"cc": "IQ",
+"year": "1980",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Exposed concrete",
+"Sculptural form",
+"Structure as expression"
+],
+"features": "A concrete sports hall with a sloping roof and a wall that opens toward outdoor tiered seating.",
+"keep": 2,
+"list": "south",
+"qid": "Q7397664",
+"commons": "Baghdad Gymnasium",
+"image": "Gymnase le Corbusier.png",
+"coords": [
+33.32638889,
+44.43777778
+]
+},
+{
+"name": "Al-Shaheed Monument",
+"by": "Saman Kamal, Ismail Fatah Al Turk",
+"city": "Baghdad",
+"cc": "IQ",
+"year": "1983",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Sculptural form",
+"Water",
+"Monumentality"
+],
+"features": "A turquoise-tiled dome split into two offset halves, set in a lake above an underground museum.",
+"keep": 3,
+"list": "south",
+"qid": "Q310023",
+"commons": "Al-Shaheed Monument",
+"image": null,
+"coords": [
+33.3433,
+44.4459
+]
+},
+{
+"name": "Freedom Monument",
+"by": "Jawad Saleem, Rifat Chadirji",
+"city": "Baghdad",
+"cc": "IQ",
+"year": "1961",
+"type": "Memorial",
+"movement": "Modernism",
+"concepts": [
+"Public space",
+"Monumentality",
+"Stone"
+],
+"features": "A long travertine slab raised on two legs carries a frieze of bronze reliefs above Tahrir Square.",
+"keep": 2,
+"list": "south",
+"qid": "Q12248479",
+"commons": "Freedom Monument (Baghdad)",
+"image": null,
+"coords": [
+33.328246,
+44.409206
+]
+},
+{
+"name": "Shibam",
+"by": "Hadhrami builders",
+"city": "Shibam",
+"cc": "YE",
+"year": "c. 1550",
+"type": "Housing",
+"movement": "Historic precedent",
+"concepts": [
+"Earth & local material",
+"Climate response",
+"Monumentality"
+],
+"features": "A walled town of multi-storey mud-brick tower houses packed closely for shade and defence.",
+"keep": 3,
+"list": "south",
+"qid": "Q192518",
+"commons": "Shibam",
+"image": "مدينة شبام حضرموت.jpg",
+"coords": [
+15.926944444444445,
+48.626666666666665
+]
+},
+{
+"name": "New Baris",
+"by": "Hassan Fathy",
+"city": "Kharga Oasis",
+"cc": "EG",
+"year": "1967",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Vault",
+"Climate response"
+],
+"features": "Mud-brick vaults and domes with wind catchers and underground air ducts for an unfinished desert market.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Ramses Wissa Wassef Art Centre",
+"by": "Ramses Wissa Wassef",
+"city": "Harrania",
+"cc": "EG",
+"year": "1974",
+"type": "Workplace",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Vault",
+"Courtyard"
+],
+"features": "Mud-brick domed and vaulted workshops and houses for weavers, built with Nubian techniques.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Al-Azhar Park",
+"by": "Sites International",
+"city": "Cairo",
+"cc": "EG",
+"year": "2005",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Public space",
+"Water"
+],
+"features": "A park built on a centuries-old rubble mound, with water gardens and the restored Ayyubid wall at its edge.",
+"keep": 2,
+"list": "south",
+"qid": "Q286446",
+"commons": "Al-Azhar Park (Cairo)",
+"image": "Al Azhar Park Egypt (cropped).jpg",
+"coords": [
+30.0405,
+31.2646
+]
+},
+{
+"name": "Nubia Museum",
+"by": "Mahmoud El-Hakim",
+"city": "Aswan",
+"cc": "EG",
+"year": "1997",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Landscape",
+"Stone",
+"Earth & local material"
+],
+"features": "Sandstone and granite volumes stepped into a hillside, with an outdoor garden of Nubian houses and water.",
+"keep": 2,
+"list": "south",
+"qid": "Q2354677",
+"commons": "Nubia Museum, Aswan",
+"image": "GD-EG-Musée Nubien001.JPG",
+"coords": [
+24.079576,
+32.889311
+]
+},
+{
+"name": "Carrières Centrales",
+"by": "ATBAT-Afrique, Michel Écochard",
+"city": "Casablanca",
+"cc": "MA",
+"year": "1953",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Courtyard",
+"Climate response",
+"Modular"
+],
+"features": "Stacked patio dwellings, the Nid d'Abeille and Semiramis blocks, give each family a court in the air.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Mausoleum of Mohammed V",
+"by": "Eric Vo Toan",
+"city": "Rabat",
+"cc": "MA",
+"year": "1971",
+"type": "Memorial",
+"movement": "Regionalism",
+"concepts": [
+"Monumentality",
+"Detail",
+"Axis"
+],
+"features": "A white marble pavilion with a green-tiled pyramid roof on a platform facing the Hassan Tower.",
+"keep": 2,
+"list": "south",
+"qid": "Q219028",
+"commons": "Mausoleum of Mohammed V",
+"image": "Morocco - Mausoleum of Mohammed V.jpg",
+"coords": [
+34.02261389,
+-6.82194722
+]
+},
+{
+"name": "Musée Yves Saint Laurent Marrakech",
+"by": "Studio KO",
+"city": "Marrakesh",
+"cc": "MA",
+"year": "2017",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Brick",
+"Facade as skin",
+"Courtyard"
+],
+"features": "Terracotta brick walls laid in woven patterns wrap galleries around a circular courtyard.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Climat de France",
+"by": "Fernand Pouillon",
+"city": "Algiers",
+"cc": "DZ",
+"year": "1957",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Courtyard",
+"Stone",
+"Monumentality"
+],
+"features": "A massive stone housing block encloses a long public courtyard lined by a colonnade of tall square piers.",
+"keep": 3,
+"list": "south",
+"qid": "Q90905442",
+"commons": null,
+"image": "2012-Climat de france 01.jpg",
+"coords": [
+36.78403055555555,
+3.047086111111111
+]
+},
+{
+"name": "University of Constantine",
+"by": "Oscar Niemeyer",
+"city": "Constantine",
+"cc": "DZ",
+"year": "1972",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Exposed concrete",
+"Sculptural form",
+"Cantilever"
+],
+"features": "A long concrete classroom slab on few supports beside a curved auditorium and a tall prismatic tower.",
+"keep": 2,
+"list": "south",
+"qid": "Q3551442",
+"commons": "Constantine 1 University",
+"image": null,
+"coords": [
+36.341388888888886,
+6.618055555555555
+]
+},
+{
+"name": "Maqam Echahid",
+"by": "Bashir Yellès, Marian Konieczny",
+"city": "Algiers",
+"cc": "DZ",
+"year": "1982",
+"type": "Memorial",
+"movement": "Late modernism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Monumentality"
+],
+"features": "Three tall concrete palm fronds meet at the top to shelter an eternal flame above a museum.",
+"keep": 2,
+"list": "south",
+"qid": "Q3056085",
+"commons": "Martyrs' Memorial, Algiers",
+"image": "Alger Memorial-du-Martyr IMG 1160.JPG",
+"coords": [
+36.745833333333,
+3.0697222222222
+]
+},
+{
+"name": "Aéro-Habitat",
+"by": "Louis Miquel, Pierre Bourlier",
+"city": "Algiers",
+"cc": "DZ",
+"year": "1955",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Pilotis",
+"Circulation",
+"Section"
+],
+"features": "Slab blocks of duplex apartments on a hillside with interior streets and a shopping level part-way up.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Lycée Schorge",
+"by": "Diébédo Francis Kéré",
+"city": "Koudougou",
+"cc": "BF",
+"year": "2016",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Earth & local material",
+"Climate response",
+"Courtyard"
+],
+"features": "Laterite stone classrooms ring a courtyard, with wind towers and a screen of eucalyptus poles.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Burkina Institute of Technology",
+"by": "Diébédo Francis Kéré",
+"city": "Koudougou",
+"cc": "BF",
+"year": "2020",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Earth & local material",
+"Climate response",
+"Planting"
+],
+"features": "Long classroom blocks of cast earth walls under a raised metal roof that lets heat escape.",
+"keep": 2,
+"list": "south",
+"qid": "Q121072791",
+"commons": "Burkina Institute of Technology",
+"image": "Burkina Institute of Technology students at laboratory.jpg",
+"coords": null
+},
+{
+"name": "Surgical Clinic and Health Centre",
+"by": "Diébédo Francis Kéré",
+"city": "Léo",
+"cc": "BF",
+"year": "2014",
+"type": "Health",
+"movement": "Contemporary",
+"concepts": [
+"Earth & local material",
+"Climate response",
+"Colour"
+],
+"features": "Compressed earth brick wards under a floating double roof, with coloured windows and shaded courts.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Great Mosque of Djenné",
+"by": "Ismaïla Traoré",
+"city": "Djenné",
+"cc": "ML",
+"year": "1907",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Earth & local material",
+"Monumentality",
+"Structure as expression"
+],
+"features": "A vast mud-brick mosque whose projecting palm-wood beams act as fixed scaffolding for re-plastering.",
+"keep": 3,
+"list": "south",
+"qid": "Q683632",
+"commons": "Great Mosque of Djenné",
+"image": "Great Mosque of Djenné 1.jpg",
+"coords": [
+13.905277777778,
+-4.5555555555556
+]
+},
+{
+"name": "Great Mosque of Niono",
+"by": "Lassina Minta",
+"city": "Niono",
+"cc": "ML",
+"year": "1973",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Low cost",
+"Structure as expression"
+],
+"features": "A mud-brick prayer hall built and extended by a local master mason using Sahelian techniques.",
+"keep": 2,
+"list": "south",
+"qid": "Q3115100",
+"commons": "Great Mosque of Niono",
+"image": "Grande Mosquée du Vendredi de Niono (Mali).JPG",
+"coords": [
+14.250722222222223,
+-5.999916666666667
+]
+},
+{
+"name": "Kahere Eila Poultry Farming School",
+"by": "Heikkinen-Komonen",
+"city": "Koliagbe",
+"cc": "GN",
+"year": "1999",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Earth & local material",
+"Timber",
+"Courtyard"
+],
+"features": "Compressed earth block walls and timber screens frame shaded courts under light roofs.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Thread Artist Residency",
+"by": "Toshiko Mori",
+"city": "Sinthian",
+"cc": "SN",
+"year": "2015",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Water",
+"Earth & local material",
+"Courtyard"
+],
+"features": "Inverted thatched roofs collect rainwater for the village, over courtyards for artists and events.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Alioune Diop University Teaching and Research Unit",
+"by": "IDOM",
+"city": "Bambey",
+"cc": "SN",
+"year": "2017",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Facade as skin",
+"Brick"
+],
+"features": "A large double roof and a perforated brick lattice shade the classrooms and let air flow through.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Hikma Religious and Secular Complex",
+"by": "Atelier Masomi, Mariam Kamara",
+"city": "Dandaji",
+"cc": "NE",
+"year": "2018",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Earth & local material",
+"Community"
+],
+"features": "An old earth mosque reused as a library beside a new compressed-earth mosque around shared courts.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "University of Ibadan",
+"by": "Maxwell Fry, Jane Drew",
+"city": "Ibadan",
+"cc": "NG",
+"year": "c. 1955",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Climate response",
+"Brise-soleil",
+"Courtyard"
+],
+"features": "Raised blocks with louvred and pierced screens cross-ventilate classrooms and halls in tropical heat.",
+"keep": 3,
+"list": "south",
+"qid": "Q1169487",
+"commons": "University of Ibadan",
+"image": "University of Ibadan gate, Ibadan4.jpg",
+"coords": [
+7.4433,
+3.9003
+]
+},
+{
+"name": "Obafemi Awolowo University",
+"by": "Arieh Sharon",
+"city": "Ile-Ife",
+"cc": "NG",
+"year": "c. 1972",
+"type": "Education",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Brise-soleil",
+"Public space"
+],
+"features": "Inverted stepped concrete faculty buildings overhang and shade the walkways and plazas below.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Dominican Chapel, Ibadan",
+"by": "Demas Nwoko",
+"city": "Ibadan",
+"cc": "NG",
+"year": "1970",
+"type": "Religious",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Light & shadow",
+"Detail"
+],
+"features": "Thick walls, a shaded ambulatory and carved timber details keep the chapel cool and dim.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "La Pyramide",
+"by": "Rinaldo Olivieri",
+"city": "Abidjan",
+"cc": "CI",
+"year": "1973",
+"type": "Workplace",
+"movement": "Brutalism",
+"concepts": [
+"Exposed concrete",
+"Section",
+"Sculptural form"
+],
+"features": "A stepped concrete pyramid of offices and shops with planted terraces around a central light well.",
+"keep": 2,
+"list": "south",
+"qid": "Q3212063",
+"commons": "La Pyramide, Abidjan",
+"image": null,
+"coords": [
+5.32228,
+-4.01644
+]
+},
+{
+"name": "Bolgatanga Library",
+"by": "J. Max Bond Jr.",
+"city": "Bolgatanga",
+"cc": "GH",
+"year": "1966",
+"type": "Library",
+"movement": "Modernism",
+"concepts": [
+"Climate response",
+"Brise-soleil",
+"Light & shadow"
+],
+"features": "A raised, wing-like roof and perforated block walls let breezes and filtered light into the reading rooms.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Africa Hall",
+"by": "Arturo Mezzèdimi",
+"city": "Addis Ababa",
+"cc": "ET",
+"year": "1961",
+"type": "Civic",
+"movement": "Modernism",
+"concepts": [
+"Monumentality",
+"Colour",
+"Light & shadow"
+],
+"features": "Conference hall of the UN Economic Commission for Africa with a huge stained-glass window by Afewerk Tekle.",
+"keep": 2,
+"list": "south",
+"qid": "Q2826149",
+"commons": "Africa Hall (Addis Ababa)",
+"image": "Aankomst in Afrika Hall nr 18 , nr 17 Beatrix en Claus lopen door het geb, Bestanddeelnr 922-0446.jpg",
+"coords": [
+9.014529,
+38.766267
+]
+},
+{
+"name": "Church of Saint George, Lalibela",
+"by": "Zagwe builders",
+"city": "Lalibela",
+"cc": "ET",
+"year": "c. 1200",
+"type": "Religious",
+"movement": "Historic precedent",
+"concepts": [
+"Stone",
+"Void",
+"Geometry"
+],
+"features": "A cross-shaped church carved downward from a single block of volcanic rock inside a sunken trench.",
+"keep": 3,
+"list": "south",
+"qid": "Q7971367",
+"commons": "Biete Ghiorgis",
+"image": "Lalibela, san giorgio, esterno 24.jpg",
+"coords": [
+12.031625,
+39.041147222222
+]
+},
+{
+"name": "Salam Centre for Cardiac Surgery",
+"by": "Studio Tamassociati",
+"city": "Khartoum",
+"cc": "SD",
+"year": "2007",
+"type": "Health",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Courtyard",
+"Planting"
+],
+"features": "Wards around a garden of mango trees, under double roofs, cooled by air drawn through filtering chambers.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Butaro District Hospital",
+"by": "MASS Design Group",
+"city": "Butaro",
+"cc": "RW",
+"year": "2011",
+"type": "Health",
+"movement": "Contemporary",
+"concepts": [
+"Human comfort",
+"Earth & local material",
+"Climate response"
+],
+"features": "Local volcanic stone walls, cross-ventilated wards and outdoor waiting areas reduce airborne infection.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Women's Opportunity Center",
+"by": "Sharon Davis Design",
+"city": "Kayonza",
+"cc": "RW",
+"year": "2013",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Brick",
+"Community",
+"Low cost"
+],
+"features": "Clusters of round classrooms in perforated locally fired brick, made by the women who use them.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Uganda Martyrs Shrine",
+"by": "Justus Dahinden",
+"city": "Namugongo",
+"cc": "UG",
+"year": "1975",
+"type": "Religious",
+"movement": "Late modernism",
+"concepts": [
+"Structure as expression",
+"Sculptural form",
+"Light from above"
+],
+"features": "Twenty-two steel columns form a tall conical roof that recalls a traditional Ugandan hut.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Michenzani Blocks",
+"by": "Hubert Scholz",
+"city": "Zanzibar City",
+"cc": "TZ",
+"year": "c. 1976",
+"type": "Housing",
+"movement": "Modernism",
+"concepts": [
+"Prefabrication",
+"Megastructure",
+"Modular"
+],
+"features": "Long prefabricated concrete apartment slabs cut a new axis across the town, built with East German aid.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Leão que Ri (Smiling Lion)",
+"by": "Pancho Guedes",
+"city": "Maputo",
+"cc": "MZ",
+"year": "1958",
+"type": "Housing",
+"movement": "Expressionism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Colour"
+],
+"features": "An apartment block with jagged concrete forms, toothed parapets and sculpted balconies.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Saipal Bakery",
+"by": "Pancho Guedes",
+"city": "Maputo",
+"cc": "MZ",
+"year": "1954",
+"type": "Workplace",
+"movement": "Expressionism",
+"concepts": [
+"Sculptural form",
+"Exposed concrete",
+"Geometry"
+],
+"features": "A bakery with spiky concrete fins and curving walls composed as a fantastical sculpture.",
+"keep": 2,
+"list": "south",
+"qid": "Q17325605",
+"commons": "Padaria Saipal",
+"image": "Padaria Saipal, Maputo.JPG",
+"coords": [
+-25.960476,
+32.574605
+]
+},
+{
+"name": "Cine Flamingo",
+"by": "Francisco Castro Rodrigues",
+"city": "Lobito",
+"cc": "AO",
+"year": "1963",
+"type": "Culture & sport",
+"movement": "Modernism",
+"concepts": [
+"Climate response",
+"Brise-soleil",
+"Public space"
+],
+"features": "An open-air cinema whose louvred concrete walls let sea breezes through while screening the light.",
+"keep": 2,
+"list": "south",
+"qid": null
+},
+{
+"name": "Eastgate Centre",
+"by": "Mick Pearce",
+"city": "Harare",
+"cc": "ZW",
+"year": "1996",
+"type": "Office & tower",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Section",
+"Exposed concrete"
+],
+"features": "Thermal mass and chimneys, modelled on termite mounds, cool offices without conventional air-conditioning.",
+"keep": 3,
+"list": "south",
+"qid": "Q1278256",
+"commons": "Eastgate Centre (Harare)",
+"image": "Eastgate Centre, Harare, Zimbabwe.jpg",
+"coords": [
+-17.8315,
+31.05258333
+]
+},
+{
+"name": "Constitutional Court of South Africa",
+"by": "OMM Design Workshop, Urban Solutions",
+"city": "Johannesburg",
+"cc": "ZA",
+"year": "2004",
+"type": "Civic",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Light & shadow",
+"Public space"
+],
+"features": "Built on a former prison site from its bricks, with slanting columns and dappled light in the foyer.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Apartheid Museum",
+"by": "GAPP Architects, Mashabane Rose",
+"city": "Johannesburg",
+"cc": "ZA",
+"year": "2001",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Promenade",
+"Landscape",
+"Monumentality"
+],
+"features": "A raw concrete, brick and steel route begins at segregated entrances and climbs through walled courts.",
+"keep": 2,
+"list": "south",
+"qid": "Q617810",
+"commons": "Apartheid Museum",
+"image": "South Africa-Johannesburg-Apartheid Museum001.jpg",
+"coords": [
+-26.23805556,
+28.00888889
+]
+},
+{
+"name": "Red Location Museum",
+"by": "Noero Wolff Architects",
+"city": "Gqeberha",
+"cc": "ZA",
+"year": "2006",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Community",
+"Public space",
+"Detail"
+],
+"features": "Sawtooth-roofed industrial sheds in a township hold rusted steel memory boxes of personal stories.",
+"keep": 3,
+"list": "south",
+"qid": "Q7304546",
+"commons": "Red Location Museum",
+"image": "Red Location Museum Exterior.jpg",
+"coords": [
+-33.898134,
+25.605708
+]
+},
+{
+"name": "Mapungubwe Interpretation Centre",
+"by": "Peter Rich Architects",
+"city": "Mapungubwe National Park",
+"cc": "ZA",
+"year": "2009",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Vault",
+"Earth & local material",
+"Landscape"
+],
+"features": "Thin timbrel vaults of local stabilised-earth tiles rise from the landscape like rock outcrops.",
+"keep": 3,
+"list": "south",
+"qid": null
+},
+{
+"name": "Registan",
+"by": "Timurid and Shaybanid builders",
+"city": "Samarkand",
+"cc": "UZ",
+"year": "1660",
+"type": "Public space",
+"movement": "Historic precedent",
+"concepts": [
+"Public space",
+"Axis",
+"Detail"
+],
+"features": "Three madrasas with tiled portals frame three sides of a public square in a symmetrical ensemble.",
+"keep": 3,
+"list": "south",
+"qid": "Q1373583",
+"commons": "Registan",
+"image": "Registan 01.jpg",
+"coords": [
+39.654722222222,
+66.975555555556
+]
+},
+{
+"name": "Nur Alem",
+"by": "Adrian Smith + Gordon Gill",
+"city": "Astana",
+"cc": "KZ",
+"year": "2017",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Geometry",
+"Steel & glass",
+"Climate response"
+],
+"features": "A glass sphere with integrated photovoltaics and wind turbines, built as the Expo 2017 national pavilion.",
+"keep": 2,
+"list": "south",
+"qid": null
+}
+]
