@@ -1,2 +1,2 @@
-python -u tools/harvest.py
-Harvest Wikidata candidates for the 1,000.
+python -u tools/probe_sites.py
+Probe architecture sites own search.
