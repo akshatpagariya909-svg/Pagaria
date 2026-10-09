@@ -373,6 +373,10 @@
   buildFilters();
   render(false);
   startView();
-  const fromHash = decodeURIComponent(location.hash.slice(1));
-  if (fromHash) openBuilding(fromHash);
+  const openFromHash = () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (id && (!state.open || state.open.id !== id)) openBuilding(id);
+  };
+  window.addEventListener('hashchange', openFromHash);
+  openFromHash();
 })();
