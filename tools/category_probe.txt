@@ -1,0 +1,244 @@
+villa-savoye  lead=File:VillaSavoye.jpg
+    * Category:Villa Savoye  files=9 subcats=0
+      Category:Ville-Savoye  files=4 subcats=2
+      Category:Maps of Ville-Savoye  files=3 subcats=0
+      Category:French FOP cases/deleted  files=0 subcats=4
+      Category:Residences of the Royal House of Savoy  files=9 subcats=26
+      Category:Portraits of Le Corbusier  files=27 subcats=0
+      Category:Le Corbusier  files=56 subcats=10
+      Category:Architectural Work of Le Corbusier (World Heritage Sites)  files=14 subcats=16
+      Category:Buildings by Le Corbusier  files=0 subcats=14
+      Category:Undelete in 2036  files=0 subcats=1
+
+unite-dhabitation  lead=File:Unité_d'habitation_Marseille,_France.jpg
+    * Category:Unité d'habitation  files=0 subcats=5
+      Category:Unité d'Habitation  files=0 subcats=0
+      Category:Unité d'habitation de Briey  files=1 subcats=0
+      Category:Unité d'habitation de Firminy-Vert  files=8 subcats=0
+      Category:Cité radieuse, Marseille  files=2 subcats=2
+      Category:Corbusierhaus, Berlin  files=53 subcats=6
+      Category:Cité radieuse, Rezé  files=9 subcats=1
+      Category:Views of Marseille from the Cité radieuse  files=17 subcats=0
+      Category:Portraits of Le Corbusier  files=27 subcats=0
+      Category:Buildings by Le Corbusier  files=0 subcats=14
+      Category:Architectural Work of Le Corbusier (World Heritage Sites)  files=14 subcats=16
+
+barcelona-pavilion  lead=File:The_Barcelona_Pavilion,_Barcelona,_2010.jpg
+    * Category:Zoo de Barcelona Dolphin Pavilion  files=23 subcats=0
+      Category:Barcelona-Pavillon  files=178 subcats=4
+      Category:Arbres bessons (Arata Isozaki)  files=21 subcats=0
+      Category:Pavelló Ciutat de Barcelona  files=10 subcats=1
+      Category:Palau Nacional (Barcelona)  files=356 subcats=7
+      Category:Palau de les Belles Arts de Barcelona  files=180 subcats=2
+      Category:Lilly Reich  files=3 subcats=8
+      Category:Morgen (Barcelona-Pavillon)  files=19 subcats=0
+
+bauhaus-dessau  lead=File:Dessau_Bauhaus-Gebäude_asv2024-06_img1.jpg
+    * Category:Bauhaus Dessau  files=32 subcats=7
+      Category:Bauhaus Museum Dessau  files=27 subcats=0
+      Category:Stiftung Bauhaus Dessau  files=10 subcats=0
+      Category:Ateliergebäude, Bauhaus Dessau  files=41 subcats=0
+      Category:Festsaal, Bauhaus Dessau  files=11 subcats=0
+      Category:Werkstattflügel, Bauhaus Dessau  files=71 subcats=0
+      Category:Gewerbliche Berufsschule, Bauhaus Dessau  files=20 subcats=0
+      Category:Festebene, Bauhaus Dessau  files=17 subcats=1
+      Category:Meisterhaus Gropius  files=24 subcats=0
+      Category:Bauhaus and its sites in Weimar and Dessau  files=2 subcats=7
+      Category:Stahlhaus Dessau  files=9 subcats=0
+
+villa-mairea  lead=File:4Y1A7841_Alvar_Aalto,_Finland_(26710745140).jpg
+    * Category:Villa Mairea  files=40 subcats=1
+      Category:Interior of Villa Mairea  files=5 subcats=0
+      Category:Harry Gullichsen  files=1 subcats=0
+      Category:Aalto Works  files=0 subcats=13
+      Category:Aino Aalto  files=2 subcats=1
+      Category:Maire Gullichsen  files=4 subcats=1
+
+casa-luis-barragan  lead=File:Luis_Barragán_House_and_Studio-115242.jpg
+      Category:Luis Barragán House and Studio  files=39 subcats=0
+      Category:Casa Gilardi  files=3 subcats=0
+
+cathedral-of-brasilia  lead=File:Catedral_Metropolitana_de_Brasilia.jpg
+    * Category:Pietà in Brasilia's Cathedral  files=20 subcats=0
+      Category:Catedral Metropolitana de Brasília  files=136 subcats=3
+      Category:Roman Catholic Archdiocese of Brasília  files=1 subcats=2
+      Category:Catedral Militar Rainha da Paz  files=31 subcats=0
+      Category:Catedral de Brasília (exterior)  files=166 subcats=3
+      Category:Interior of the Catedral de Brasília  files=201 subcats=3
+      Category:Oscar Niemeyer  files=70 subcats=15
+      Category:Buildings by Oscar Niemeyer  files=28 subcats=21
+      Category:Catedral Metropolitana de Belo Horizonte  files=2 subcats=0
+      Category:Catedral Metropolitana de Palmas  files=2 subcats=0
+
+hiroshima-peace-memorial-museum  lead=File:Hiroshima_Peace_Memorial_Museum_2009.jpg
+    * Category:Hiroshima Peace Memorial Museum  files=67 subcats=6
+      Category:Hiroshima Peace Memorial Park  files=146 subcats=15
+      Category:Peace Watch  files=9 subcats=0
+      Category:Schmoe House  files=3 subcats=0
+      Category:Human Shadow Etched in Stone  files=11 subcats=0
+      Category:International Conference Center Hiroshima  files=16 subcats=1
+      Category:Hiroshima Panels  files=5 subcats=0
+
+golconde  lead=None
+    * Category:Carte particulière de la coste de Golconde, avec les sondes - btv1b53253761x  files=2 subcats=0
+      Category:Qutb Shahi dynasty  files=15 subcats=6
+      Category:Golconda Sultanate  files=7 subcats=7
+      Category:Golconda monarchs  files=13 subcats=5
+      Category:Aline, reine de Golconde. Opéra en trois actes. Paroles de MMrs Vial & Favière - btv1b100722008  files=148 subcats=0
+      Category:Châssis de décors pour l'opéra "Aline, reine de Golconde" - quatre esquisses de décors - btv1b53113223r  files=5 subcats=0
+
+national-assembly-of-bangladesh  lead=File:Emblem_of_the_Jatiya_Sangsad.svg
+    * Category:National Parliament of Bangladesh  files=17 subcats=6
+      Category:National Assembly of Bangladesh  files=0 subcats=0
+      Category:National Parliament Building of Bangladesh  files=173 subcats=7
+      Category:National Assembly of Bangladesh interior  files=17 subcats=0
+      Category:National Assembly of Bangladesh illuminated  files=91 subcats=0
+      Category:Replicas of National Assembly of Bangladesh  files=1 subcats=0
+      Category:Abul Fateh  files=7 subcats=0
+      Category:Lotay Tshering  files=46 subcats=0
+
+yale-art-and-architecture-building  lead=File:Rudolph_Hall.png
+    * Category:Yale Art and Architecture Building  files=55 subcats=0
+      Category:Swartwout Building, Yale University Art Gallery  files=5 subcats=0
+      Category:Yale University Art Gallery  files=37 subcats=7
+      Category:Kahn Building, Yale University Art Gallery  files=10 subcats=0
+      Category:Yale Center for British Art  files=28 subcats=2
+      Category:Exterior of the Yale University Art Gallery  files=2 subcats=0
+      Category:Paul Rudolph (architect)  files=50 subcats=26
+      Category:King's Mews, Charing Cross  files=8 subcats=0
+
+gandhi-smarak-sangrahalaya  lead=File:Gandhi_Ashram_1227.JPG
+    * Category:Gandhi Memorial Museum, Barrackpore  files=25 subcats=1
+      Category:Gandhi Smarak Sangrahalaya, Barrackpore  files=0 subcats=0
+
+sangath  lead=None
+
+
+aranya-low-cost-housing  lead=None
+
+
+kanchanjunga-apartments  lead=None
+
+
+centre-for-development-studies  lead=None
+    * Category:Netaji Museum and Centre for Studies in Himalayan Languages Society & Culture  files=20 subcats=2
+      Category:Centre d'élaboration de matériaux et d'études structurales  files=6 subcats=0
+      Category:Marleen Dekker  files=1 subcats=0
+      Category:Ton Dietz  files=3 subcats=1
+      Category:Center for Studies of the Holocaust and Religious Minorities  files=116 subcats=1
+      Category:William Rappard Center, Geneva  files=49 subcats=1
+      Category:Photographs by Judgefloro, 2019, 2  files=69 subcats=0
+
+heritance-kandalama  lead=File:Heritance_Kandalama_logo.png
+
+
+new-gourna-village  lead=None
+    * Category:New Gourna  files=49 subcats=0
+
+gando-primary-school  lead=None
+    * Category:Primary School, Gando  files=7 subcats=0
+
+leca-swimming-pools  lead=File:Swimmingpool_on_the_Beach_at_Leça_da_Palmeira_by_Christian_Gänshirt.JPG
+    * Category:Piscinas de Marés de Leça da Palmeira  files=23 subcats=0
+
+can-lis  lead=File:Utzon_Can_Lis.jpg
+    * Category:Can Lis, Mallorca  files=2 subcats=0
+      Category:Fleur-de-lis in heraldry  files=132 subcats=39
+      Category:Lis e Lena  files=11 subcats=0
+      Category:Fleur-de-lis ermine  files=0 subcats=1
+      Category:Fleur-de-lis or  files=11 subcats=8
+      Category:5 fleurs-de-lis or in heraldry  files=46 subcats=5
+
+therme-vals  lead=File:7132_Thermal_Baths_&_Hotels.png
+    * Category:Therme Vals  files=40 subcats=0
+
+bruder-klaus-field-chapel  lead=None
+      Category:Feldkapelle (Wachendorf)  files=57 subcats=0
+
+ningbo-history-museum  lead=File:South_Gate_of_Ningbo_Museum.jpg
+      Category:Ningbo Museum  files=32 subcats=6
+      Category:Morris Chang  files=1 subcats=19
+
+quinta-monroy  lead=None
+      Category:Alejandro Aravena  files=10 subcats=1
+
+row-house-in-sumiyoshi  lead=File:Azuma_house.JPG
+      Category:Azuma House  files=4 subcats=0
+      Category:Buildings by Andō Tadao  files=42 subcats=60
+      Category:Andō Tadao  files=30 subcats=2
+
+sendai-mediatheque  lead=File:Sendai_Mediatheque_2009.jpg
+    * Category:Sendai Mediatheque  files=24 subcats=0
+      Category:Buildings by Toyo Ito  files=1 subcats=32
+      Category:Toyo Ito  files=17 subcats=3
+
+21st-century-museum-of-contemporary-art-kanazawa  lead=File:21st_Century_Museum_of_Contemporary_Art,_Kanazawa011.jpg
+    * Category:21st Century Museum of Contemporary Art, Kanazawa  files=23 subcats=7
+      Category:21st Century Museum of Contemporary Art, Kanazawa in snow  files=8 subcats=0
+      Category:Interior of the 21st Century Museum of Contemporary Art, Kanazawa  files=13 subcats=0
+      Category:Kanazawa Noh Museum  files=7 subcats=1
+      Category:San'u-tei  files=1 subcats=0
+      Category:Shōtō-an  files=3 subcats=0
+
+moriyama-house  lead=None
+    * Category:Hiroshi Moriyama  files=12 subcats=1
+      Category:Masahito Moriyama  files=1 subcats=3
+      Category:Hiroyuki Moriyama  files=3 subcats=0
+      Category:Kinji Moriyama  files=8 subcats=0
+      Category:Mayumi Moriyama  files=4 subcats=0
+      Category:Images from Archives of Ontario - F 4449 Raymond Moriyama fonds  files=29 subcats=0
+
+kait-workshop  lead=None
+
+
+house-na  lead=None
+      Category:House Na Bělišti  files=8 subcats=0
+      Category:Old house (Bahay na Puti)  files=18 subcats=0
+      Category:Vodojem na Vyhlídkách  files=5 subcats=0
+      Category:House 17 Na Grobli street (Wrocław)  files=2 subcats=0
+      Category:Na Schodkach Houses in Kraków  files=14 subcats=0
+      Category:Cedars House (Horta)  files=1 subcats=0
+      Category:Tokyo Detention House  files=54 subcats=1
+      Category:Embassy of Ireland, Tokyo  files=2 subcats=1
+      Category:Members of the House of Representatives from Tokyo  files=95 subcats=140
+      Category:Members of the House of Councillors from Tokyo  files=17 subcats=34
+
+beijing-national-stadium  lead=File:Beijing_China_Beijing-National-Stadium-01.jpg
+    * Category:Beijing National Stadium  files=72 subcats=10
+      Category:Beijing National Indoor Stadium  files=24 subcats=1
+      Category:Interior of Beijing National Stadium  files=56 subcats=2
+      Category:Exterior of Beijing National Stadium  files=195 subcats=1
+      Category:National Olympic Sports Center Stadium  files=7 subcats=0
+      Category:Bingu National Stadium  files=1 subcats=0
+      Category:National Olympic Sports Center  files=13 subcats=3
+      Category:Beijing Royal Fighters  files=0 subcats=1
+
+louvre-abu-dhabi  lead=File:LouvreAD_exterior.jpg
+    * Category:Louvre Abu Dhabi  files=42 subcats=1
+      Category:Rustam recovers Rakhsh from Afrasiyab’s herd  files=28 subcats=0
+      Category:Collections of the Louvre Abu Dhabi  files=0 subcats=8
+      Category:Paintings in the Louvre Abu Dhabi  files=2 subcats=2
+      Category:Antiquities in the Louvre Abu Dhabi  files=21 subcats=5
+      Category:European paintings in the Louvre Abu Dhabi  files=95 subcats=5
+      Category:Jean Nouvel  files=25 subcats=3
+
+icd-itke-research-pavilion-2012  lead=None
+
+
+stacking-green  lead=None
+    * Category:Green and white chevron stacks  files=1 subcats=0
+      Category:Blue and white chevron stacks  files=1 subcats=0
+      Category:Red and white chevron stacks  files=7 subcats=0
+      Category:Black and white chevron stacks  files=3 subcats=0
+      Category:Black and yellow chevron stacks  files=7 subcats=0
+      Category:Paintings of wheat fields by Vincent van Gogh  files=1 subcats=23
+
+sancaklar-mosque  lead=File:Sancaklar_Mosque_and_its_minaret.jpg
+    * Category:Sancaklar Camii  files=7 subcats=1
+      Category:Minaret of the Sancaklar Mosque  files=4 subcats=0
+
+bosco-verticale  lead=File:Bosco_Verticale_Milano.jpg
+    * Category:Bosco Verticale  files=2 subcats=0
+      Category:Via Quadronno 24 (Milan)  files=1 subcats=0
+      Category:Italian FOP cases/deleted  files=0 subcats=0
+      Category:Stefano Boeri  files=12 subcats=2
