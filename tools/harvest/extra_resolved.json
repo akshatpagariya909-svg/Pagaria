@@ -585,7 +585,13 @@
 "features": "Two interlocked white masonry cubes, rotated against each other, lit by hidden slots of indirect light.",
 "keep": 3,
 "list": "americas",
-"qid": null
+"qid": "Q6021236",
+"commons": "Monasterio Benedictino de la Santísima Trinidad de Las Condes",
+"image": "Monasterio Benedictinos.JPG",
+"coords": [
+-33.384302,
+-70.513543
+]
 },
 {
 "name": "UC Innovation Center Anacleto Angelini",
@@ -891,7 +897,13 @@
 "features": "A double spiral of drive-up ramps wraps a rocky hill, planned as a shopping centre reached by car.",
 "keep": 2,
 "list": "americas",
-"qid": null
+"qid": "Q3144635",
+"commons": "El Helicoide",
+"image": "Helicoide roca tarpeya caracas.jpg",
+"coords": [
+10.4892,
+-66.9101
+]
 },
 {
 "name": "University of Engineering and Technology (UTEC)",
@@ -987,7 +999,13 @@
 "features": "Catalan brick vaults and domes in low, curving pavilions laid across a former golf course.",
 "keep": 3,
 "list": "americas",
-"qid": null
+"qid": "Q6970485",
+"commons": "National Art Schools (Cuba)",
+"image": null,
+"coords": [
+23.08805556,
+-82.44805556
+]
 },
 {
 "name": "Coppelia Ice Cream Parlour",
@@ -1881,7 +1899,10 @@
 "features": "Coffered concrete barrel vaults span the platforms column-free, washed by indirect light.",
 "keep": 3,
 "list": "americas",
-"qid": null
+"qid": "Q3254775",
+"commons": "Washington Metro stations",
+"image": null,
+"coords": null
 },
 {
 "name": "Simon Fraser University",
@@ -1995,7 +2016,13 @@
 "features": "X-shaped timber inn raised on slender stilts over the rocky Atlantic shore, furnished by local crafts.",
 "keep": 3,
 "list": "americas",
-"qid": null
+"qid": "Q113148621",
+"commons": "Fogo Island Inn",
+"image": null,
+"coords": [
+49.73048,
+-54.17835
+]
 },
 {
 "name": "Montreal Olympic Stadium",
@@ -2145,7 +2172,13 @@
 "features": "Low mixed-use blocks built in phases along a street, with small courts and passages open to the sidewalk.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q11288985",
+"commons": "Hillside Terrace",
+"image": "Hillside Terrace A B 2010.jpg",
+"coords": [
+35.647222222222226,
+139.70147222222224
+]
 },
 {
 "name": "Kaze-no-Oka Crematorium",
@@ -2469,7 +2502,13 @@
 "features": "A half-cylinder of aluminium cuts diagonally across stacked boxes above a glazed hall.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q587326",
+"commons": "Tokyo Institute of Technology",
+"image": "Titech2.jpg",
+"coords": [
+35.605,
+139.6838888888889
+]
 },
 {
 "name": "Kyoto Station Building",
@@ -2616,7 +2655,13 @@
 "features": "A ruined copper refinery's chimney and slag-brick tunnels drive passive ventilation through galleries.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q6059267",
+"commons": "Inujima Seirensho Art Museum",
+"image": "犬島アートプロジェクト - panoramio.jpg",
+"coords": [
+34.566777777778,
+134.10527777778
+]
 },
 {
 "name": "Ise Grand Shrine",
@@ -2748,7 +2793,13 @@
 "features": "White aluminium-clad volumes rise from the wetland; the main hall is lined in carved Manchurian ash.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q24838343",
+"commons": "Harbin Grand Theatre",
+"image": "Harbin Grand Theatre Pano 201609.jpg",
+"coords": [
+45.8071,
+126.57865
+]
 },
 {
 "name": "Long Museum West Bund",
@@ -2886,7 +2937,13 @@
 "features": "Triple-roofed circular timber hall on a three-tier marble terrace, reached by a raised axial walkway.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q125445",
+"commons": "Temple of Heaven",
+"image": "Temple of Heaven 20160323 01.jpg",
+"coords": [
+39.8822,
+116.4066
+]
 },
 {
 "name": "Humble Administrator's Garden",
@@ -2946,7 +3003,13 @@
 "features": "A restored police compound with two new blocks clad in cast-aluminium bricks, one raised over the yard.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q10871919",
+"commons": "Tai Kwun",
+"image": "Tai Kwun Parade Ground 201806.jpg",
+"coords": [
+22.281262,
+114.154045
+]
 },
 {
 "name": "M+",
@@ -3012,7 +3075,13 @@
 "features": "Low and high blocks linked by a memorial garden court, with a clean concrete frame and glazing.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q837115",
+"commons": "City Hall, Hong Kong",
+"image": "Hong Kong City Hall 2017.jpg",
+"coords": [
+22.282,
+114.16128
+]
 },
 {
 "name": "Morpheus Hotel",
@@ -3078,7 +3147,13 @@
 "features": "A timber library with deep balconies, a green roof and rainwater collection, set in a hot-spring park.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q618353",
+"commons": "Taipei Public Library Beitou Branch",
+"image": "Beitou Hot Spring Museum and TPL Beitou Branch aerial photograph 20210818.jpg",
+"coords": [
+25.136388888889,
+121.50638888889
+]
 },
 {
 "name": "Lanyang Museum",
@@ -3120,7 +3195,13 @@
 "features": "Three theatres plug into a central cube, with a public loop route running through the backstage.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q10914395",
+"commons": "Taipei Performing Arts Center",
+"image": null,
+"coords": [
+25.08511111,
+121.52419444
+]
 },
 {
 "name": "Kyungdong Presbyterian Church",
@@ -3216,7 +3297,13 @@
 "features": "Low galleries arranged around open courtyards (madang) beside a restored historic military building.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q27207690",
+"commons": "National Museum of Modern and Contemporary Art - Seoul",
+"image": "MMCA Seoul 2016.jpg",
+"coords": [
+37.579166666666666,
+126.98055555555555
+]
 },
 {
 "name": "Ewha Campus Complex",
@@ -3270,7 +3357,13 @@
 "features": "A long low hall of repeated bays on a broad stone platform, extended as ancestral tablets accumulated.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q490497",
+"commons": "Jongmyo",
+"image": "Jongmyo-Jeongjeon.jpg",
+"coords": [
+37.57472222222222,
+126.99361111111111
+]
 },
 {
 "name": "Golden Mile Complex",
@@ -3516,7 +3609,13 @@
 "features": "A domeless concrete prayer hall under a concave slab roof, with no columns inside the hall.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q26258414",
+"commons": "Salman Mosque",
+"image": "Salman Mosque.jpg",
+"coords": [
+11.569111111111111,
+43.15322222222222
+]
 },
 {
 "name": "Microlibrary Taman Bima",
@@ -3810,7 +3909,13 @@
 "features": "Stacked concrete units step and stagger above The Rocks, giving flats terraces and harbour views.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q14917281",
+"commons": "Sirius building",
+"image": "Siruis apartment complex sydney martin pueschel.jpg",
+"coords": [
+-33.8577,
+151.208
+]
 },
 {
 "name": "Dr Chau Chak Wing Building",
@@ -3852,7 +3957,13 @@
 "features": "Vertical gardens climb two towers; a cantilevered heliostat redirects sunlight into the shaded park.",
 "keep": 2,
 "list": "asiapac",
-"qid": null
+"qid": "Q25182912",
+"commons": "One Central Park",
+"image": "(1)Central building Broadway Sydney-1.jpg",
+"coords": [
+-33.8843,
+151.2003
+]
 },
 {
 "name": "Arthur and Yvonne Boyd Education Centre",
@@ -3930,7 +4041,13 @@
 "features": "Bush-hammered concrete and a tall glazed public hall with ramps linking the courtrooms.",
 "keep": 3,
 "list": "asiapac",
-"qid": null
+"qid": "Q1358798",
+"commons": "High Court of Australia",
+"image": "High Court of Australia (6769096715).jpg",
+"coords": [
+-35.29888888888889,
+149.13583333333332
+]
 },
 {
 "name": "National Museum of Australia",
@@ -4860,7 +4977,13 @@
 "features": "Wavy bamboo-lined roof on colour-graded steel trees, with light wells reaching the lower floors.",
 "keep": 3,
 "list": "europe",
-"qid": null
+"qid": "Q166276",
+"commons": "Madrid-Barajas Airport",
+"image": "Barajas overview1.jpg",
+"coords": [
+40.472222222222,
+-3.5608333333333
+]
 },
 {
 "name": "Fundació Joan Miró",
@@ -4878,7 +5001,13 @@
 "features": "White concrete galleries arranged around patios and lit by quarter-cylinder roof lights.",
 "keep": 3,
 "list": "europe",
-"qid": null
+"qid": "Q867072",
+"commons": "Fundació Joan Miró",
+"image": "Fundació Miró.JPG",
+"coords": [
+41.368611111111115,
+2.16
+]
 },
 {
 "name": "Faculty of Architecture, University of Porto",
@@ -5172,7 +5301,13 @@
 "features": "Steel frame with red brick infill repeated on every building, around an axial court below the headframe.",
 "keep": 3,
 "list": "europe",
-"qid": null
+"qid": "Q122026",
+"commons": "Zollverein Coal Mine industrial complex",
+"image": "Zeche Zollverein abends.jpg",
+"coords": [
+51.4865,
+7.04408
+]
 },
 {
 "name": "Zollverein School of Management and Design",
@@ -5190,7 +5325,13 @@
 "features": "Thin concrete cube with randomly sized square openings, warmed by mine water piped through its walls.",
 "keep": 2,
 "list": "europe",
-"qid": null
+"qid": "Q218797",
+"commons": "Zollverein School of Management and Design",
+"image": "Zollverein School of Management and Design 3116754.jpg",
+"coords": [
+51.488142,
+7.047671
+]
 },
 {
 "name": "Chilehaus",
@@ -5931,7 +6072,10 @@
 "features": "Long low wedge rising from the end of a disused Soviet airfield runway, wrapped in fritted glass.",
 "keep": 3,
 "list": "europe",
-"qid": null
+"qid": "Q1370397",
+"commons": "Estonian National Museum",
+"image": "Eesti Rahva Muuseumi peahoone 13.jpg",
+"coords": null
 },
 {
 "name": "National Library of Latvia",
@@ -6249,7 +6393,13 @@
 "features": "Saucer-shaped concrete hall and a tall star tower on a mountain peak, now a stabilised ruin.",
 "keep": 2,
 "list": "europe",
-"qid": null
+"qid": "Q1058720",
+"commons": "Buzludzha monument",
+"image": "Бузлуджа IMG6338.jpg",
+"coords": [
+42.73581,
+25.39385
+]
 },
 {
 "name": "Acropolis and Philopappou Hill Paths",
@@ -6465,7 +6615,13 @@
 "features": "Terraced courts step down a hill toward the lake, with galleries set partly below ground.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q2767116",
+"commons": "Bharat Bhavan",
+"image": "Bharat Bhavan Bhopal inside-1.JPG",
+"coords": [
+23.247024,
+77.39233
+]
 },
 {
 "name": "Belapur Artists' Village",
@@ -6591,7 +6747,13 @@
 "features": "A cylindrical brick tower with a ramp of tables spiralling up inside perforated jali walls.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q3595301",
+"commons": "Indian Coffee House",
+"image": "Outside board of Indian Coffee House at ernakulam.jpg",
+"coords": [
+19.12515,
+72.87499167
+]
 },
 {
 "name": "Indian Institute of Forest Management",
@@ -6699,7 +6861,10 @@
 "features": "A modular concrete frame of open studios that can be reconfigured, set in a riverside campus.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q2121215",
+"commons": "National Institutes of Design",
+"image": null,
+"coords": null
 },
 {
 "name": "Rock Garden of Chandigarh",
@@ -6813,7 +6978,13 @@
 "features": "A brick cylinder inside a square, lit by skylights and perforated brick walls instead of a dome.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q85744953",
+"commons": "Baitur Rauf Jame Mosque",
+"image": "বায়তুর রউফ মসজিদ.jpg",
+"coords": [
+23.8811395,
+90.414576
+]
 },
 {
 "name": "Friendship Centre",
@@ -6831,7 +7002,10 @@
 "features": "Low brick pavilions behind an earth embankment, with green roofs, courts and pools on flood-prone land.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q2946124",
+"commons": "Native Friendship Centre",
+"image": null,
+"coords": null
 },
 {
 "name": "METI School",
@@ -7008,7 +7182,13 @@
 "features": "Pavilions with tiled roofs linked by covered walkways across hilltops overlooking the sea.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q12975239",
+"commons": "University of Ruhuna",
+"image": "Ruhuna University air view.jpg",
+"coords": [
+5.939203780671851,
+80.57621983058517
+]
 },
 {
 "name": "Seema Malaka",
@@ -7050,7 +7230,13 @@
 "features": "Galleries fitted into a restored Malla palace wing around its courtyard, with discreet new structure.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q17013603",
+"commons": "Patan Museum",
+"image": "Patan museum-Patan Durbar Square-2054.jpg",
+"coords": [
+27.673444444444446,
+85.32522222222222
+]
 },
 {
 "name": "Shushtar New Town",
@@ -7158,7 +7344,13 @@
 "features": "The plan turns 45 degrees behind the portal so the courtyard and halls face Mecca, not the square.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q643098",
+"commons": "Shah Mosque (Isfahan)",
+"image": "Naghsh-e-jahan masjed-e-shah esfahan.jpg",
+"coords": [
+32.654805555555555,
+51.67777777777778
+]
 },
 {
 "name": "Majara Residence",
@@ -7176,7 +7368,10 @@
 "features": "Clusters of colourful domes built from sandbags and local earth, housing guest rooms and a cafe.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q107410690",
+"commons": null,
+"image": "Tahmineh Monzavi Photo Majara Residence Hormuz Iran View from the sea 2020.jpg",
+"coords": null
 },
 {
 "name": "Social Security Complex, Zeyrek",
@@ -7236,7 +7431,10 @@
 "features": "A red andesite stone envelope around a skylit central hall lined with carved wooden screens.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q374071",
+"commons": "Turkish Historical Society",
+"image": null,
+"coords": null
 },
 {
 "name": "METU Faculty of Architecture",
@@ -7662,7 +7860,13 @@
 "features": "A long curving stone wall on the wadi edge, with white tensile tents for halls and shaded gardens.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q7857153",
+"commons": "Tuwaiq Palace",
+"image": "Tuwaiq Palace.jpg",
+"coords": [
+24.6885,
+46.6195
+]
 },
 {
 "name": "King Abdullah Petroleum Studies and Research Center",
@@ -8082,7 +8286,13 @@
 "features": "Mud-brick vaults and domes with wind catchers and underground air ducts for an unfinished desert market.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q14216230",
+"commons": "New Baris",
+"image": "NewBarisSoukBuilding.jpg",
+"coords": [
+24.693330555556,
+30.596019444444
+]
 },
 {
 "name": "Ramses Wissa Wassef Art Centre",
@@ -8166,7 +8376,13 @@
 "features": "Stacked patio dwellings, the Nid d'Abeille and Semiramis blocks, give each family a court in the air.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q65118011",
+"commons": null,
+"image": "Patrimoine casablanca hay mohammadi 1.jpg",
+"coords": [
+33.583,
+-7.564
+]
 },
 {
 "name": "Mausoleum of Mohammed V",
@@ -8517,7 +8733,13 @@
 "features": "Inverted stepped concrete faculty buildings overhang and shade the walkways and plazas below.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q2008672",
+"commons": "Obafemi Awolowo University",
+"image": "Obafemi Awolowo University campus gate view.jpg",
+"coords": [
+7.51833333,
+4.52277778
+]
 },
 {
 "name": "Dominican Chapel, Ibadan",
@@ -8661,7 +8883,13 @@
 "features": "Local volcanic stone walls, cross-ventilated wards and outdoor waiting areas reduce airborne infection.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q16954676",
+"commons": "Butaro Hospital",
+"image": "Butaro Hospital.jpg",
+"coords": [
+-1.40978,
+29.8399
+]
 },
 {
 "name": "Women's Opportunity Center",
@@ -8697,7 +8925,13 @@
 "features": "Twenty-two steel columns form a tall conical roof that recalls a traditional Ugandan hut.",
 "keep": 2,
 "list": "south",
-"qid": null
+"qid": "Q6962116",
+"commons": null,
+"image": "Namugongo Martyrs Shrine exterior view.jpg",
+"coords": [
+0.38527778,
+32.65138889
+]
 },
 {
 "name": "Michenzani Blocks",
@@ -8817,7 +9051,13 @@
 "features": "Built on a former prison site from its bricks, with slanting columns and dappled light in the foyer.",
 "keep": 3,
 "list": "south",
-"qid": null
+"qid": "Q1133886",
+"commons": "Constitutional Court of South Africa",
+"image": "Constitutional Court of South Africa.jpg",
+"coords": [
+-26.188611111111,
+28.043333333333
+]
 },
 {
 "name": "Apartheid Museum",
