@@ -1628,14 +1628,9 @@ window.BUILDINGS = [
   "type": "Tower",
   "region": "Europe",
   "era": "1800s",
-  "media": "painting",
+  "media": "photo",
   "aspect": "p",
-  "work": {
-   "title": "The Eiffel Tower",
-   "by": "Georges Seurat",
-   "date": "1889",
-   "holder": "Fine Arts Museums of San Francisco"
-  },
+  "work": null,
   "image": "images/eiffel-tower.jpg",
   "credit": "Jorge Royan",
   "license": "CC BY-SA 3.0",
@@ -1650,6 +1645,13 @@ window.BUILDINGS = [
     "credit": "Louis-Emile Durandelle",
     "source": "https://commons.wikimedia.org/wiki/File:Louis-Emile_Durandelle,_The_Eiffel_Tower_-_State_of_the_Construction,_1888.jpg",
     "file": "File:Louis-Emile Durandelle, The Eiffel Tower - State of the Construction, 1888.jpg"
+   },
+   {
+    "date": "1889",
+    "media": "painting",
+    "title": "The Eiffel Tower",
+    "by": "Georges Seurat",
+    "image": null
    },
    {
     "date": "1911",
@@ -1711,14 +1713,9 @@ window.BUILDINGS = [
   "type": "Sacred",
   "region": "Europe",
   "era": "Medieval",
-  "media": "painting",
+  "media": "photo",
   "aspect": "p",
-  "work": {
-   "title": "Interior of Tintern Abbey",
-   "by": "J. M. W. Turner",
-   "date": "1794",
-   "holder": "Wikimedia Commons"
-  },
+  "work": null,
   "image": null,
   "credit": null,
   "license": null,
@@ -2293,14 +2290,9 @@ window.BUILDINGS = [
   "type": "Palace & castle",
   "region": "Europe",
   "era": "1800s",
-  "media": "print",
+  "media": "photo",
   "aspect": "l",
-  "work": {
-   "title": "Views of the Royal Pavilion",
-   "by": "John Nash",
-   "date": "1826",
-   "holder": "Wikimedia Commons"
-  },
+  "work": null,
   "image": "images/royal-pavilion.jpg",
   "credit": "Txllxt TxllxT",
   "license": "CC BY-SA 4.0",
@@ -2383,14 +2375,9 @@ window.BUILDINGS = [
   "type": "Palace & castle",
   "region": "Europe",
   "era": "1800s",
-  "media": "drawing",
+  "media": "photo",
   "aspect": "p",
-  "work": {
-   "title": "Design for Neuschwanstein",
-   "by": "Christian Jank",
-   "date": "1869",
-   "holder": "Wikimedia Commons"
-  },
+  "work": null,
   "image": "images/neuschwanstein-castle.jpg",
   "credit": "C.Stadler/Bwag (talk / email)",
   "license": "CC BY-SA 4.0",
@@ -2413,10 +2400,10 @@ window.BUILDINGS = [
   "type": "Home",
   "region": "Americas",
   "era": "1900–1970",
-  "media": "drawing",
+  "media": "archive",
   "aspect": "l",
   "work": {
-   "title": "Measured drawings",
+   "title": "Exterior photograph",
    "by": "Historic American Buildings Survey",
    "date": "—",
    "holder": "Library of Congress"
@@ -2443,14 +2430,9 @@ window.BUILDINGS = [
   "type": "Sacred",
   "region": "Americas",
   "era": "1900–1970",
-  "media": "drawing",
+  "media": "photo",
   "aspect": "s",
-  "work": {
-   "title": "Measured drawings",
-   "by": "Historic American Buildings Survey",
-   "date": "—",
-   "holder": "Library of Congress"
-  },
+  "work": null,
   "image": null,
   "credit": null,
   "license": null,
@@ -2468,14 +2450,9 @@ window.BUILDINGS = [
   "type": "Home",
   "region": "Americas",
   "era": "1800s",
-  "media": "drawing",
+  "media": "photo",
   "aspect": "l",
-  "work": {
-   "title": "First elevation of Monticello",
-   "by": "Thomas Jefferson",
-   "date": "c. 1771",
-   "holder": "Massachusetts Historical Society"
-  },
+  "work": null,
   "image": null,
   "credit": null,
   "license": null,
@@ -2553,14 +2530,9 @@ window.BUILDINGS = [
   "type": "Sacred",
   "region": "Europe",
   "era": "1400–1800",
-  "media": "drawing",
+  "media": "photo",
   "aspect": "p",
-  "work": {
-   "title": "The Warrant Design",
-   "by": "Christopher Wren",
-   "date": "1675",
-   "holder": "Wikimedia Commons"
-  },
+  "work": null,
   "image": null,
   "credit": null,
   "license": null,
@@ -2773,7 +2745,7 @@ window.BUILDINGS = [
   "media": "archive",
   "aspect": "l",
   "work": {
-   "title": "Postcard photograph of Djenné",
+   "title": "Ruins of the old mosque, before the 1907 rebuild",
    "by": "Edmond Fortier",
    "date": "c. 1906",
    "holder": "Wikimedia Commons"
