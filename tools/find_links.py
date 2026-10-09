@@ -139,10 +139,11 @@ def about(b, url, title):
     need = min(2, len(d))
     if len(d & text) < need:
         return False
-    if len(d) == 1:  # a single word like "Pavilion" or "Golconde" needs the architect or city too
-        extra = (tokens(b['by']) | tokens(b['place'].split(',')[0])) - GENERIC
-        return bool(extra & text)
-    return True
+    # Names repeat across the world ("National Stadium", "Notre-Dame"), so the page must also
+    # name the architect, or name the building in full and its city.
+    by = tokens(b['by']) - GENERIC
+    city = tokens(b['place'].split(',')[0]) - GENERIC
+    return bool(by & text) or (d <= text and bool(city & text))
 
 
 def pick(b, hits, domain):

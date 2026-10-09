@@ -19,7 +19,6 @@
   const cols = $('cols'), sheet = $('sheet'), card = $('card');
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-  const pad = n => String(n).padStart(3, '0');
 
   const state = {
     q: '', seed: 11, ncols: 0,
@@ -123,7 +122,7 @@
     cols.replaceChildren(...feedState.colEls);
     addBatch();
     $('empty').hidden = list.length > 0;
-    $('count').textContent = list.length === TOTAL ? `${TOTAL} buildings` : `${list.length} of ${TOTAL}`;
+    $('count').textContent = list.length === TOTAL ? `${TOTAL.toLocaleString('en')} buildings` : `${list.length.toLocaleString('en')} of ${TOTAL.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
@@ -202,11 +201,11 @@
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${pad(b.n)}/${TOTAL} · ${b.type} · ${b.movement}`;
+    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${b.type} · ${b.movement}`;
     kick.classList.toggle('surprise', !!surprise);
     $('bName').textContent = b.name;
     $('bMeta').textContent = `${b.by} · ${b.place} · ${b.year}`;
-    $('bStudy').innerHTML = `<span>Study it for</span>${esc(b.study)}`;
+    $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
