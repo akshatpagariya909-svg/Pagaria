@@ -439,11 +439,11 @@ def main():
             print('    category:', cat, '| lead:', lead)
             add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
             files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
-            if ch.get('pick'):
+            if 'pick' in ch:  # an empty pick means no suitable free photos
                 picks = picked(b, ch)
             else:
                 picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(add))
-            for t in ([] if ch.get('pick') else reversed(add)):  # files added by hand, then Wikipedia's lead photo, go first
+            for t in ([] if 'pick' in ch else reversed(add)):  # files added by hand, then Wikipedia's lead photo, go first
                 p = next((p for p in picks if p['title'] == t), None)
                 if p:
                     picks.remove(p)
