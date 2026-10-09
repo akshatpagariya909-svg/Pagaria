@@ -1,2 +1,2 @@
---only tintern-abbey,unity-temple,monticello,st-pauls-cathedral
-Fetch photographs for the four buildings with no free artwork. Edit this file to trigger a run.
+--force
+Download the hand-picked galleries for all 100 buildings.

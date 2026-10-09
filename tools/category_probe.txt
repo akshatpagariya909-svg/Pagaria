@@ -1,0 +1,106 @@
+golconde  lead=None
+    * Category:Carte particulière de la coste de Golconde, avec les sondes - btv1b53253761x  files=2 subcats=0
+      Category:Qutb Shahi dynasty  files=15 subcats=6
+      Category:Golconda Sultanate  files=7 subcats=7
+      Category:Golconda monarchs  files=13 subcats=5
+      Category:Aline, reine de Golconde. Opéra en trois actes. Paroles de MMrs Vial & Favière - btv1b100722008  files=148 subcats=0
+      Category:Châssis de décors pour l'opéra "Aline, reine de Golconde" - quatre esquisses de décors - btv1b53113223r  files=5 subcats=0
+
+gandhi-smarak-sangrahalaya  lead=File:Gandhi_Ashram_1227.JPG
+    * Category:Gandhi Memorial Museum, Barrackpore  files=25 subcats=1
+      Category:Gandhi Smarak Sangrahalaya, Barrackpore  files=0 subcats=0
+      Category:Sabarmati Ashram  files=153 subcats=9
+      Category:Exhibits at the Sabarmati Ashram  files=110 subcats=0
+      Category:Sabarmati Ashram Gaushala  files=2 subcats=0
+      Category:People at the Sabarmati Ashram  files=33 subcats=1
+      Category:Statues at Sabarmati Ashram  files=11 subcats=0
+      Category:Three monkeys in Sabarmati Ashram  files=13 subcats=0
+
+sangath  lead=None
+
+
+aranya-low-cost-housing  lead=None
+
+
+kanchanjunga-apartments  lead=None
+
+
+centre-for-development-studies  lead=None
+    * Category:Netaji Museum and Centre for Studies in Himalayan Languages Society & Culture  files=20 subcats=2
+      Category:Centre d'élaboration de matériaux et d'études structurales  files=6 subcats=0
+      Category:Marleen Dekker  files=1 subcats=0
+      Category:Ton Dietz  files=3 subcats=1
+      Category:Center for Studies of the Holocaust and Religious Minorities  files=116 subcats=1
+      Category:William Rappard Center, Geneva  files=49 subcats=1
+      Category:Photographs by Judgefloro, 2019, 2  files=69 subcats=0
+      Category:Laurie Baker  files=4 subcats=2
+      Category:Laurie Scott Baker  files=6 subcats=0
+      Category:Laurie Baker Workshop  files=18 subcats=0
+      Category:Indian Coffee House, Thiruvananthapuram  files=13 subcats=0
+      Category:Gregory House (fictional character)  files=3 subcats=1
+      Category:Mainline Corporation  files=0 subcats=1
+      Category:Thomas Isaac  files=7 subcats=0
+
+heritance-kandalama  lead=File:Heritance_Kandalama_logo.png
+      Category:Kandalama Reservoir  files=18 subcats=0
+      Category:Kaludiya Pokuna  files=12 subcats=0
+
+quinta-monroy  lead=None
+      Category:Alejandro Aravena  files=10 subcats=1
+
+moriyama-house  lead=None
+    * Category:Hiroshi Moriyama  files=12 subcats=1
+      Category:Masahito Moriyama  files=1 subcats=3
+      Category:Kinji Moriyama  files=8 subcats=0
+      Category:Hiroyuki Moriyama  files=3 subcats=0
+      Category:Mayumi Moriyama  files=4 subcats=0
+      Category:Images from Archives of Ontario - F 4449 Raymond Moriyama fonds  files=29 subcats=0
+      Category:Ryue Nishizawa  files=3 subcats=3
+      Category:SANAA  files=3 subcats=20
+      Category:Aizuma Center  files=6 subcats=0
+      Category:Kunstlinie Almere Flevoland  files=9 subcats=0
+      Category:Teshima Art Museum  files=23 subcats=0
+      Category:Ogasawara Museum  files=1 subcats=0
+
+kait-workshop  lead=None
+      Category:Kanagawa Institute of Technology  files=6 subcats=0
+      Category:Tokyo Institute of Technology  files=34 subcats=14
+      Category:Atsugi City Plaza  files=7 subcats=0
+      Category:Japan Agency for Marine-Earth Science and Technology  files=17 subcats=7
+      Category:Toshiba Science Museum  files=2 subcats=2
+      Category:Research institutes in Kanagawa prefecture  files=11 subcats=4
+
+house-na  lead=None
+      Category:House Na Bělišti  files=8 subcats=0
+      Category:Old house (Bahay na Puti)  files=18 subcats=0
+      Category:Vodojem na Vyhlídkách  files=5 subcats=0
+      Category:House 17 Na Grobli street (Wrocław)  files=2 subcats=0
+      Category:Na Schodkach Houses in Kraków  files=14 subcats=0
+      Category:Cedars House (Horta)  files=1 subcats=0
+      Category:Tokyo Detention House  files=54 subcats=1
+      Category:Embassy of Ireland, Tokyo  files=2 subcats=1
+      Category:Members of the House of Representatives from Tokyo  files=95 subcats=140
+      Category:Members of the House of Councillors from Tokyo  files=17 subcats=34
+      Category:Minka in Tokyo  files=2 subcats=11
+      Category:Members of the House of Representatives for the Tokyo PR block  files=14 subcats=60
+      Category:Sou Fujimoto  files=27 subcats=7
+      Category:SQUARE (2022, Sou Fujimoto)  files=2 subcats=0
+      Category:Grand Ring, Expo 2025  files=26 subcats=4
+      Category:The Tokyo Toilet, Nishisando  files=2 subcats=0
+      Category:Serpentine Gallery Pavilion 2013  files=14 subcats=0
+      Category:House of Music, Hungary  files=123 subcats=3
+
+icd-itke-research-pavilion-2012  lead=None
+      Category:ICD/ITKE Research Pavilion  files=4 subcats=0
+
+stacking-green  lead=None
+    * Category:Green and white chevron stacks  files=1 subcats=0
+      Category:Blue and white chevron stacks  files=1 subcats=0
+      Category:Red and white chevron stacks  files=7 subcats=0
+      Category:Black and white chevron stacks  files=3 subcats=0
+      Category:Black and yellow chevron stacks  files=7 subcats=0
+      Category:Paintings of wheat fields by Vincent van Gogh  files=1 subcats=23
+      Category:Võ Trọng Nghĩa  files=2 subcats=1
+      Category:Vo Trong Nghia Architects  files=6 subcats=2
+      Category:Vietnam Pavilion of Expo 2010  files=3 subcats=0
+      Category:Vietnam Pavilion of Expo 2015  files=14 subcats=0
