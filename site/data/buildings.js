@@ -1716,11 +1716,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/tintern-abbey.jpg",
+  "credit": "Martinvl",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Tintern Abbey"
+  "wiki": "Tintern Abbey",
+  "thumb": "images/thumbs/tintern-abbey.jpg",
+  "w": 4678,
+  "h": 3374,
+  "source": "https://commons.wikimedia.org/wiki/File:TinternAbbey_WestEnd.jpg",
+  "file": "File:TinternAbbey WestEnd.jpg"
  },
  {
   "id": "stonehenge",
@@ -2433,11 +2438,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "s",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/unity-temple.jpg",
+  "credit": "IvoShandor",
+  "license": "CC BY 2.5",
   "then": [],
-  "wiki": "Unity Temple"
+  "wiki": "Unity Temple",
+  "thumb": "images/thumbs/unity-temple.jpg",
+  "w": 2048,
+  "h": 1536,
+  "source": "https://commons.wikimedia.org/wiki/File:Oak_Park_Il_Unity_Temple8.jpg",
+  "file": "File:Oak Park Il Unity Temple8.jpg"
  },
  {
   "id": "monticello",
@@ -2453,11 +2463,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/monticello.jpg",
+  "credit": "No machine-readable author provided. Moofpocket assumed (based on copyright claims).",
+  "license": "CC BY 2.5",
   "then": [],
-  "wiki": "Monticello"
+  "wiki": "Monticello",
+  "thumb": "images/thumbs/monticello.jpg",
+  "w": 2592,
+  "h": 1944,
+  "source": "https://commons.wikimedia.org/wiki/File:Monticello_reflected.JPG",
+  "file": "File:Monticello reflected.JPG"
  },
  {
   "id": "united-states-capitol",
@@ -2533,11 +2548,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/st-pauls-cathedral.jpg",
+  "credit": "Mark Fosh",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "St Paul's Cathedral"
+  "wiki": "St Paul's Cathedral",
+  "thumb": "images/thumbs/st-pauls-cathedral.jpg",
+  "w": 1833,
+  "h": 1259,
+  "source": "https://commons.wikimedia.org/wiki/File:St_Pauls_aerial_(cropped).jpg",
+  "file": "File:St Pauls aerial (cropped).jpg"
  },
  {
   "id": "einstein-tower",
