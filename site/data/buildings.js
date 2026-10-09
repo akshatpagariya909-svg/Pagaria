@@ -40,11 +40,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/national-assembly-of-bangladesh.jpg",
+  "credit": "Saiful Aopu & Nahid Sultan",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Jatiya Sangsad Bhaban"
+  "wiki": "Jatiya Sangsad Bhaban",
+  "thumb": "images/thumbs/national-assembly-of-bangladesh.jpg",
+  "w": 6957,
+  "h": 4311,
+  "source": "https://commons.wikimedia.org/wiki/File:National_Assembly_of_Bangladesh_(10).jpg",
+  "file": "File:National Assembly of Bangladesh (10).jpg"
  },
  {
   "id": "iim-ahmedabad",
@@ -60,11 +65,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/iim-ahmedabad.jpg",
+  "credit": "Mahargh Shah",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Indian Institute of Management Ahmedabad"
+  "wiki": "Indian Institute of Management Ahmedabad",
+  "thumb": "images/thumbs/iim-ahmedabad.jpg",
+  "w": 3395,
+  "h": 1166,
+  "source": "https://commons.wikimedia.org/wiki/File:Indian_Institute_of_Management_Ahmedabad,_panorama.jpg",
+  "file": "File:Indian Institute of Management Ahmedabad, panorama.jpg"
  },
  {
   "id": "palace-of-assembly",
@@ -80,11 +90,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/palace-of-assembly.jpg",
+  "credit": "duncid",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Palace of Assembly (Chandigarh)"
+  "wiki": "Palace of Assembly (Chandigarh)",
+  "thumb": "images/thumbs/palace-of-assembly.jpg",
+  "w": 4760,
+  "h": 1990,
+  "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg",
+  "file": "File:Palace of Assembly Chandigarh 2006.jpg"
  },
  {
   "id": "national-museum-of-western-art",
@@ -100,11 +115,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "s",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/national-museum-of-western-art.jpg",
+  "credit": "663highland",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "National Museum of Western Art"
+  "wiki": "National Museum of Western Art",
+  "thumb": "images/thumbs/national-museum-of-western-art.jpg",
+  "w": 3872,
+  "h": 2592,
+  "source": "https://commons.wikimedia.org/wiki/File:National_museum_of_western_art05s3200.jpg",
+  "file": "File:National museum of western art05s3200.jpg"
  },
  {
   "id": "fallingwater",
@@ -120,9 +140,9 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/fallingwater.jpg",
+  "credit": "lachrimae72",
+  "license": "CC0",
   "then": [
    {
     "date": "—",
@@ -132,7 +152,12 @@ window.BUILDINGS = [
     "image": null
    }
   ],
-  "wiki": "Fallingwater"
+  "wiki": "Fallingwater",
+  "thumb": "images/thumbs/fallingwater.jpg",
+  "w": 2048,
+  "h": 1345,
+  "source": "https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg",
+  "file": "File:Fallingwater3.jpg"
  },
  {
   "id": "solomon-r-guggenheim-museum",
@@ -148,11 +173,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/solomon-r-guggenheim-museum.jpg",
+  "credit": "Ajay Suresh from New York, NY, USA",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Solomon R. Guggenheim Museum"
+  "wiki": "Solomon R. Guggenheim Museum",
+  "thumb": "images/thumbs/solomon-r-guggenheim-museum.jpg",
+  "w": 5265,
+  "h": 2962,
+  "source": "https://commons.wikimedia.org/wiki/File:Solomon_R._Guggenheim_Museum_(48059131351).jpg",
+  "file": "File:Solomon R. Guggenheim Museum (48059131351).jpg"
  },
  {
   "id": "seagram-building",
@@ -168,11 +198,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "t",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/seagram-building.jpg",
+  "credit": "Ken OHYAMA from FUNABASHI, Japan",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Seagram Building"
+  "wiki": "Seagram Building",
+  "thumb": "images/thumbs/seagram-building.jpg",
+  "w": 5617,
+  "h": 5617,
+  "source": "https://commons.wikimedia.org/wiki/File:Seagram_Building_(35098307116).jpg",
+  "file": "File:Seagram Building (35098307116).jpg"
  },
  {
   "id": "farnsworth-house",
@@ -188,11 +223,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/farnsworth-house.jpg",
+  "credit": "Victor Grigas",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Farnsworth House"
+  "wiki": "Farnsworth House",
+  "thumb": "images/thumbs/farnsworth-house.jpg",
+  "w": 5456,
+  "h": 3638,
+  "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg",
+  "file": "File:Farnsworth House by Mies Van Der Rohe - exterior-8.jpg"
  },
  {
   "id": "barcelona-pavilion",
@@ -208,11 +248,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/barcelona-pavilion.jpg",
+  "credit": "Ashley Pomeroy at English Wikipedia",
+  "license": "CC BY 3.0",
   "then": [],
-  "wiki": "Barcelona Pavilion"
+  "wiki": "Barcelona Pavilion",
+  "thumb": "images/thumbs/barcelona-pavilion.jpg",
+  "w": 5466,
+  "h": 3658,
+  "source": "https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion,_Barcelona,_2010.jpg",
+  "file": "File:The Barcelona Pavilion, Barcelona, 2010.jpg"
  },
  {
   "id": "bauhaus-dessau",
@@ -228,11 +273,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/bauhaus-dessau.jpg",
+  "credit": "Lorkan",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Bauhaus Dessau"
+  "wiki": "Bauhaus Dessau",
+  "thumb": "images/thumbs/bauhaus-dessau.jpg",
+  "w": 1471,
+  "h": 1103,
+  "source": "https://commons.wikimedia.org/wiki/File:Bauhaus_3_Chair.jpg",
+  "file": "File:Bauhaus 3 Chair.jpg"
  },
  {
   "id": "villa-tugendhat",
@@ -248,11 +298,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/villa-tugendhat.jpg",
+  "credit": "Petr1987",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Villa Tugendhat"
+  "wiki": "Villa Tugendhat",
+  "thumb": "images/thumbs/villa-tugendhat.jpg",
+  "w": 6016,
+  "h": 4000,
+  "source": "https://commons.wikimedia.org/wiki/File:Vila_Tugendhat_exterior_Dvorak2.JPG",
+  "file": "File:Vila Tugendhat exterior Dvorak2.JPG"
  },
  {
   "id": "sydney-opera-house",
@@ -268,11 +323,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/sydney-opera-house.jpg",
+  "credit": "Bernard Spragg. NZ from Christchurch, New Zealand",
+  "license": "CC0",
   "then": [],
-  "wiki": "Sydney Opera House"
+  "wiki": "Sydney Opera House",
+  "thumb": "images/thumbs/sydney-opera-house.jpg",
+  "w": 3201,
+  "h": 1965,
+  "source": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
+  "file": "File:Sydney Australia. (21339175489).jpg"
  },
  {
   "id": "guggenheim-bilbao",
@@ -288,11 +348,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/guggenheim-bilbao.jpg",
+  "credit": "Naotake Murayama",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Guggenheim Museum Bilbao"
+  "wiki": "Guggenheim Museum Bilbao",
+  "thumb": "images/thumbs/guggenheim-bilbao.jpg",
+  "w": 4272,
+  "h": 2848,
+  "source": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg",
+  "file": "File:Museo Guggenheim, Bilbao (31273245344).jpg"
  },
  {
   "id": "barbican-estate",
@@ -308,11 +373,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/barbican-estate.jpg",
+  "credit": "Riodamascus",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Barbican Estate"
+  "wiki": "Barbican Estate",
+  "thumb": "images/thumbs/barbican-estate.jpg",
+  "w": 2354,
+  "h": 1932,
+  "source": "https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg",
+  "file": "File:Barbican towers.jpg"
  },
  {
   "id": "habitat-67",
@@ -328,11 +398,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/habitat-67.jpg",
+  "credit": "Dllu",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Habitat 67"
+  "wiki": "Habitat 67",
+  "thumb": "images/thumbs/habitat-67.jpg",
+  "w": 7362,
+  "h": 6045,
+  "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_01.jpg",
+  "file": "File:Habitat 67 2019 dllu 01.jpg"
  },
  {
   "id": "cathedral-of-brasilia",
@@ -348,11 +423,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "s",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/cathedral-of-brasilia.jpg",
+  "credit": "Tissiana de A. de Souza",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Cathedral of Brasília"
+  "wiki": "Cathedral of Brasília",
+  "thumb": "images/thumbs/cathedral-of-brasilia.jpg",
+  "w": 3000,
+  "h": 2800,
+  "source": "https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Brasilia.jpg",
+  "file": "File:Catedral Metropolitana de Brasilia.jpg"
  },
  {
   "id": "masp",
@@ -368,11 +448,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/masp.jpg",
+  "credit": "ProtoplasmaKid",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "São Paulo Museum of Art"
+  "wiki": "São Paulo Museum of Art",
+  "thumb": "images/thumbs/masp.jpg",
+  "w": 8064,
+  "h": 4536,
+  "source": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Avenida_Paulista_de_S%C3%A3o_Paulo_05.jpg",
+  "file": "File:Vista aérea de la Avenida Paulista de São Paulo 05.jpg"
  },
  {
   "id": "yoyogi-national-gymnasium",
@@ -388,11 +473,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/yoyogi-national-gymnasium.jpg",
+  "credit": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
   "then": [],
-  "wiki": "Yoyogi National Gymnasium"
+  "wiki": "Yoyogi National Gymnasium",
+  "thumb": "images/thumbs/yoyogi-national-gymnasium.jpg",
+  "w": 4412,
+  "h": 2941,
+  "source": "https://commons.wikimedia.org/wiki/File:Kokuritsu_Yoyogi_Ky%C5%8Dgij%C5%8D_1.jpg",
+  "file": "File:Kokuritsu Yoyogi Kyōgijō 1.jpg"
  },
  {
   "id": "nakagin-capsule-tower",
@@ -408,11 +498,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/nakagin-capsule-tower.jpg",
+  "credit": "Jordy Meow",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Nakagin Capsule Tower"
+  "wiki": "Nakagin Capsule Tower",
+  "thumb": "images/thumbs/nakagin-capsule-tower.jpg",
+  "w": 3278,
+  "h": 4912,
+  "source": "https://commons.wikimedia.org/wiki/File:Nakagin.jpg",
+  "file": "File:Nakagin.jpg"
  },
  {
   "id": "church-of-the-light",
@@ -428,11 +523,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/church-of-the-light.jpg",
+  "credit": "taken by Bergmann",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Church of the Light"
+  "wiki": "Church of the Light",
+  "thumb": "images/thumbs/church-of-the-light.jpg",
+  "w": 1070,
+  "h": 803,
+  "source": "https://commons.wikimedia.org/wiki/File:Ibaraki_Kasugaoka_Church_light_cross.jpg",
+  "file": "File:Ibaraki Kasugaoka Church light cross.jpg"
  },
  {
   "id": "tate-modern",
@@ -448,11 +548,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/tate-modern.jpg",
+  "credit": "Acabashi",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Tate Modern"
+  "wiki": "Tate Modern",
+  "thumb": "images/thumbs/tate-modern.jpg",
+  "w": 4000,
+  "h": 3000,
+  "source": "https://commons.wikimedia.org/wiki/File:Tate_Modern_-_Bankside_Power_Station.jpg",
+  "file": "File:Tate Modern - Bankside Power Station.jpg"
  },
  {
   "id": "sagrada-familia",
@@ -468,19 +573,28 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "t",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/sagrada-familia.jpg",
+  "credit": "Canaan",
+  "license": "CC BY-SA 4.0",
   "then": [
    {
     "date": "c. 1915",
     "media": "archive",
     "title": "Construction photograph",
     "by": "Unknown photographer",
-    "image": null
+    "image": "images/thumbs/sagrada-familia-then0.jpg",
+    "license": "Public domain",
+    "credit": "unknown",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitchell_Library_in_course_of_construction_(photograph),_March_1907_(32006347500).jpg",
+    "file": "File:Mitchell Library in course of construction (photograph), March 1907 (32006347500).jpg"
    }
   ],
-  "wiki": "Sagrada Família"
+  "wiki": "Sagrada Família",
+  "thumb": "images/thumbs/sagrada-familia.jpg",
+  "w": 1227,
+  "h": 1786,
+  "source": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+  "file": "File:SF maig 2 cropped.jpg"
  },
  {
   "id": "casa-batllo",
@@ -496,11 +610,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/casa-batllo.jpg",
+  "credit": "ChristianSchd",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Casa Batlló"
+  "wiki": "Casa Batlló",
+  "thumb": "images/thumbs/casa-batllo.jpg",
+  "w": 2244,
+  "h": 2765,
+  "source": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+  "file": "File:Casa Batllo Overview Barcelona Spain cut.jpg"
  },
  {
   "id": "casa-mila",
@@ -516,11 +635,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/casa-mila.jpg",
+  "credit": "Thomas Ledl",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Casa Milà"
+  "wiki": "Casa Milà",
+  "thumb": "images/thumbs/casa-mila.jpg",
+  "w": 4299,
+  "h": 3348,
+  "source": "https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0,_general_view.jpg",
+  "file": "File:Casa Milà, general view.jpg"
  },
  {
   "id": "hawa-mahal",
@@ -536,11 +660,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/hawa-mahal.jpg",
+  "credit": "Chainwit.",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Hawa Mahal"
+  "wiki": "Hawa Mahal",
+  "thumb": "images/thumbs/hawa-mahal.jpg",
+  "w": 3345,
+  "h": 2509,
+  "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+  "file": "File:East facade Hawa Mahal Jaipur from ground level (July 2022) - img 01.jpg"
  },
  {
   "id": "chand-baori",
@@ -556,11 +685,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "s",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/chand-baori.jpg",
+  "credit": "Chainwit.",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Chand Baori"
+  "wiki": "Chand Baori",
+  "thumb": "images/thumbs/chand-baori.jpg",
+  "w": 2187,
+  "h": 901,
+  "source": "https://commons.wikimedia.org/wiki/File:Chand_Baori_perspective_panorama_(July_2022).jpg",
+  "file": "File:Chand Baori perspective panorama (July 2022).jpg"
  },
  {
   "id": "nasir-al-mulk-mosque",
@@ -576,11 +710,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/nasir-al-mulk-mosque.jpg",
+  "credit": "Matt Biddulph from UK",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Nasir al-Mulk Mosque"
+  "wiki": "Nasir al-Mulk Mosque",
+  "thumb": "images/thumbs/nasir-al-mulk-mosque.jpg",
+  "w": 4714,
+  "h": 3143,
+  "source": "https://commons.wikimedia.org/wiki/File:Nasir_ol_Molk_Mosque_(31233739431).jpg",
+  "file": "File:Nasir ol Molk Mosque (31233739431).jpg"
  },
  {
   "id": "shibam",
@@ -596,11 +735,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/shibam.jpg",
+  "credit": "Bkar6190",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Shibam"
+  "wiki": "Shibam",
+  "thumb": "images/thumbs/shibam.jpg",
+  "w": 6000,
+  "h": 4000,
+  "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg",
+  "file": "File:مدينة شبام حضرموت.jpg"
  },
  {
   "id": "church-of-st-george",
@@ -616,11 +760,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "s",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/church-of-st-george.jpg",
+  "credit": "Sailko",
+  "license": "CC BY 3.0",
   "then": [],
-  "wiki": "Church of Saint George, Lalibela"
+  "wiki": "Church of Saint George, Lalibela",
+  "thumb": "images/thumbs/church-of-st-george.jpg",
+  "w": 6748,
+  "h": 5848,
+  "source": "https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg",
+  "file": "File:Lalibela, san giorgio, esterno 24.jpg"
  },
  {
   "id": "great-mosque-of-kairouan",
@@ -636,11 +785,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/great-mosque-of-kairouan.jpg",
+  "credit": "MAREK SZAREJKO from CLONMEL, IRELAND  -  POLAND",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Great Mosque of Kairouan"
+  "wiki": "Great Mosque of Kairouan",
+  "thumb": "images/thumbs/great-mosque-of-kairouan.jpg",
+  "w": 1024,
+  "h": 709,
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg",
+  "file": "File:Great Mosque of Kairouan Panorama - Grande Mosquée de Kairouan Panorama.jpg"
  },
  {
   "id": "mosque-cathedral-of-cordoba",
@@ -656,11 +810,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/mosque-cathedral-of-cordoba.jpg",
+  "credit": "Toni Castillo Quero",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Mosque–Cathedral of Córdoba"
+  "wiki": "Mosque–Cathedral of Córdoba",
+  "thumb": "images/thumbs/mosque-cathedral-of-cordoba.jpg",
+  "w": 4288,
+  "h": 2848,
+  "source": "https://commons.wikimedia.org/wiki/File:Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg",
+  "file": "File:Mezquita de Córdoba desde el aire (Córdoba, España).jpg"
  },
  {
   "id": "sainte-chapelle",
@@ -676,11 +835,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/sainte-chapelle.jpg",
+  "credit": "Didier B (Sam67fr)",
+  "license": "CC BY-SA 2.5",
   "then": [],
-  "wiki": "Sainte-Chapelle"
+  "wiki": "Sainte-Chapelle",
+  "thumb": "images/thumbs/sainte-chapelle.jpg",
+  "w": 989,
+  "h": 1961,
+  "source": "https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg",
+  "file": "File:Sainte Chapelle - Upper level 1.jpg"
  },
  {
   "id": "mont-saint-michel",
@@ -696,11 +860,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/mont-saint-michel.jpg",
+  "credit": "Amaustan",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Mont-Saint-Michel"
+  "wiki": "Mont-Saint-Michel",
+  "thumb": "images/thumbs/mont-saint-michel.jpg",
+  "w": 4000,
+  "h": 2250,
+  "source": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+  "file": "File:Mont-Saint-Michel vu du ciel.jpg"
  },
  {
   "id": "leaning-tower-of-pisa",
@@ -716,11 +885,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/leaning-tower-of-pisa.jpg",
+  "credit": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
   "then": [],
-  "wiki": "Leaning Tower of Pisa"
+  "wiki": "Leaning Tower of Pisa",
+  "thumb": "images/thumbs/leaning-tower-of-pisa.jpg",
+  "w": 3257,
+  "h": 4544,
+  "source": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+  "file": "File:Italy - Pisa - Leaning Tower.jpg"
  },
  {
   "id": "florence-cathedral",
@@ -736,11 +910,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/florence-cathedral.jpg",
+  "credit": "Gary Campbell-Hall",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Florence Cathedral"
+  "wiki": "Florence Cathedral",
+  "thumb": "images/thumbs/florence-cathedral.jpg",
+  "w": 3872,
+  "h": 2592,
+  "source": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+  "file": "File:Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg"
  },
  {
   "id": "hory-ji",
@@ -756,11 +935,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/hory-ji.jpg",
+  "credit": "663highland",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Hōryū-ji"
+  "wiki": "Hōryū-ji",
+  "thumb": "images/thumbs/hory-ji.jpg",
+  "w": 3720,
+  "h": 2480,
+  "source": "https://commons.wikimedia.org/wiki/File:Horyu-ji11s3200.jpg",
+  "file": "File:Horyu-ji11s3200.jpg"
  },
  {
   "id": "himeji-castle",
@@ -776,11 +960,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/himeji-castle.jpg",
+  "credit": "Nikos Kitsakis",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Himeji Castle"
+  "wiki": "Himeji Castle",
+  "thumb": "images/thumbs/himeji-castle.jpg",
+  "w": 5632,
+  "h": 3754,
+  "source": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+  "file": "File:Himeji castle in may 2015.jpg"
  },
  {
   "id": "kinkaku-ji",
@@ -796,11 +985,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/kinkaku-ji.jpg",
+  "credit": "Nacaru",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Kinkaku-ji"
+  "wiki": "Kinkaku-ji",
+  "thumb": "images/thumbs/kinkaku-ji.jpg",
+  "w": 4000,
+  "h": 6000,
+  "source": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
+  "file": "File:Golden Pavilion Kinkaku-ji water mirror 2024.jpg"
  },
  {
   "id": "chrysler-building",
@@ -816,11 +1010,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "t",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/chrysler-building.jpg",
+  "credit": "Dmitry Avdeev",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Chrysler Building"
+  "wiki": "Chrysler Building",
+  "thumb": "images/thumbs/chrysler-building.jpg",
+  "w": 4335,
+  "h": 1200,
+  "source": "https://commons.wikimedia.org/wiki/File:Manhattan_from_Weehawken,_NJ.jpg",
+  "file": "File:Manhattan from Weehawken, NJ.jpg"
  },
  {
   "id": "forbidden-city",
@@ -836,11 +1035,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/forbidden-city.jpg",
+  "credit": "Pixelflake",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Forbidden City"
+  "wiki": "Forbidden City",
+  "thumb": "images/thumbs/forbidden-city.jpg",
+  "w": 4092,
+  "h": 2046,
+  "source": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+  "file": "File:The Forbidden City - View from Coal Hill.jpg"
  },
  {
   "id": "shwedagon-pagoda",
@@ -856,11 +1060,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/shwedagon-pagoda.jpg",
+  "credit": "Bjørn Christian Tørrissen",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Shwedagon Pagoda"
+  "wiki": "Shwedagon Pagoda",
+  "thumb": "images/thumbs/shwedagon-pagoda.jpg",
+  "w": 5184,
+  "h": 3328,
+  "source": "https://commons.wikimedia.org/wiki/File:Shwedagon_Pagoda_2017.jpg",
+  "file": "File:Shwedagon Pagoda 2017.jpg"
  },
  {
   "id": "wat-arun",
@@ -876,11 +1085,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/wat-arun.jpg",
+  "credit": "Mastertongapollo",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Wat Arun"
+  "wiki": "Wat Arun",
+  "thumb": "images/thumbs/wat-arun.jpg",
+  "w": 8192,
+  "h": 5464,
+  "source": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+  "file": "File:เจดีย์ประธานทรงปรางค์วัดอรุณ2.jpg"
  },
  {
   "id": "lotus-temple",
@@ -896,11 +1110,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/lotus-temple.jpg",
+  "credit": "Vandelizer",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Lotus Temple"
+  "wiki": "Lotus Temple",
+  "thumb": "images/thumbs/lotus-temple.jpg",
+  "w": 1014,
+  "h": 626,
+  "source": "https://commons.wikimedia.org/wiki/File:LotusDelhi.jpg",
+  "file": "File:LotusDelhi.jpg"
  },
  {
   "id": "burj-khalifa",
@@ -916,11 +1135,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "t",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/burj-khalifa.jpg",
+  "credit": "imran shahabuddin",
+  "license": "CC BY 2.0",
   "then": [],
-  "wiki": "Burj Khalifa"
+  "wiki": "Burj Khalifa",
+  "thumb": "images/thumbs/burj-khalifa.jpg",
+  "w": 5496,
+  "h": 3670,
+  "source": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg",
+  "file": "File:Burj Khalifa (worlds tallest building) and the Dubai skyline (25781049892).jpg"
  },
  {
   "id": "petronas-towers",
@@ -936,11 +1160,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "t",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/petronas-towers.jpg",
+  "credit": "Dcubillas",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Petronas Towers"
+  "wiki": "Petronas Towers",
+  "thumb": "images/thumbs/petronas-towers.jpg",
+  "w": 2848,
+  "h": 4288,
+  "source": "https://commons.wikimedia.org/wiki/File:Petronas_Towers_at_Night_-_from_the_base_upwards.jpg",
+  "file": "File:Petronas Towers at Night - from the base upwards.jpg"
  },
  {
   "id": "dancing-house",
@@ -956,11 +1185,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/dancing-house.jpg",
+  "credit": "Danny Alexander Lettkemann, Architekt",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Dancing House"
+  "wiki": "Dancing House",
+  "thumb": "images/thumbs/dancing-house.jpg",
+  "w": 3000,
+  "h": 3000,
+  "source": "https://commons.wikimedia.org/wiki/File:Tanzendes_Haus_2023.jpg",
+  "file": "File:Tanzendes Haus 2023.jpg"
  },
  {
   "id": "great-zimbabwe",
@@ -976,11 +1210,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "l",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/great-zimbabwe.jpg",
+  "credit": "Andrew Moore from Johannesburg, South Africa",
+  "license": "CC BY-SA 2.0",
   "then": [],
-  "wiki": "Great Zimbabwe"
+  "wiki": "Great Zimbabwe",
+  "thumb": "images/thumbs/great-zimbabwe.jpg",
+  "w": 5472,
+  "h": 3648,
+  "source": "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+  "file": "File:Conical Tower - Great Enclosure III (33736918448).jpg"
  },
  {
   "id": "borgund-stave-church",
@@ -996,11 +1235,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/borgund-stave-church.jpg",
+  "credit": "Ximonic (Simo Räsänen)",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Borgund Stave Church"
+  "wiki": "Borgund Stave Church",
+  "thumb": "images/thumbs/borgund-stave-church.jpg",
+  "w": 2260,
+  "h": 3500,
+  "source": "https://commons.wikimedia.org/wiki/File:Borgund_Stave_Church_in_L%C3%A6rdalen,_2013_June.jpg",
+  "file": "File:Borgund Stave Church in Lærdalen, 2013 June.jpg"
  },
  {
   "id": "church-of-the-transfiguration",
@@ -1016,11 +1260,16 @@ window.BUILDINGS = [
   "media": "photo",
   "aspect": "p",
   "work": null,
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/church-of-the-transfiguration.jpg",
+  "credit": "User:MatthiasKabel",
+  "license": "CC BY-SA 3.0",
   "then": [],
-  "wiki": "Kizhi Pogost"
+  "wiki": "Kizhi Pogost",
+  "thumb": "images/thumbs/church-of-the-transfiguration.jpg",
+  "w": 2276,
+  "h": 3414,
+  "source": "https://commons.wikimedia.org/wiki/File:Kishi_church_2.jpg",
+  "file": "File:Kishi church 2.jpg"
  },
  {
   "id": "houses-of-parliament",
@@ -1041,11 +1290,16 @@ window.BUILDINGS = [
    "date": "1903",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/houses-of-parliament.jpg",
+  "credit": "Claude Monet",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Palace of Westminster"
+  "wiki": "Palace of Westminster",
+  "thumb": "images/thumbs/houses-of-parliament.jpg",
+  "w": 1200,
+  "h": 1084,
+  "source": "https://commons.wikimedia.org/wiki/File:Monet_w1604.jpg",
+  "file": "File:Monet w1604.jpg"
  },
  {
   "id": "rouen-cathedral",
@@ -1066,11 +1320,16 @@ window.BUILDINGS = [
    "date": "1894",
    "holder": "The Met"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/rouen-cathedral.jpg",
+  "credit": "Claude Monet",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Rouen Cathedral"
+  "wiki": "Rouen Cathedral",
+  "thumb": "images/thumbs/rouen-cathedral.jpg",
+  "w": 2311,
+  "h": 3596,
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral_-_The_Portal_(Sunlight).jpg",
+  "file": "File:Claude Monet - Rouen Cathedral - The Portal (Sunlight).jpg"
  },
  {
   "id": "church-at-auvers",
@@ -1091,11 +1350,16 @@ window.BUILDINGS = [
    "date": "1890",
    "holder": "Musée d’Orsay"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/church-at-auvers.jpg",
+  "credit": "Vincent van Gogh",
+  "license": "Public domain",
   "then": [],
-  "wiki": "The Church at Auvers"
+  "wiki": "The Church at Auvers",
+  "thumb": "images/thumbs/church-at-auvers.jpg",
+  "w": 3434,
+  "h": 4433,
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg",
+  "file": "File:Vincent van Gogh - The Church in Auvers-sur-Oise, View from the Chevet - Google Art Project.jpg"
  },
  {
   "id": "pantheon",
@@ -1116,19 +1380,28 @@ window.BUILDINGS = [
    "date": "c. 1734",
    "holder": "National Gallery of Art"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/pantheon.jpg",
+  "credit": "Giovanni Paolo Panini",
+  "license": "Public domain",
   "then": [
    {
     "date": "c. 1761",
     "media": "print",
     "title": "Veduta del Pantheon",
     "by": "Giovanni Battista Piranesi",
-    "image": null
+    "image": "images/thumbs/pantheon-then0.jpg",
+    "license": "CC0",
+    "credit": "Giovanni Battista Piranesi",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Pantheon_exterior_(Veduta_del_Pantheon_d%27Agrippa_oggi_Chiesa_di_S._Maria_ad_Martyres)_MET_DP828229.jpg",
+    "file": "File:The Pantheon exterior (Veduta del Pantheon d'Agrippa oggi Chiesa di S. Maria ad Martyres) MET DP828229.jpg"
    }
   ],
-  "wiki": "Pantheon, Rome"
+  "wiki": "Pantheon, Rome",
+  "thumb": "images/thumbs/pantheon.jpg",
+  "w": 5401,
+  "h": 7045,
+  "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg",
+  "file": "File:Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project.jpg"
  },
  {
   "id": "st-peters-basilica",
@@ -1149,11 +1422,16 @@ window.BUILDINGS = [
    "date": "1754",
    "holder": "National Gallery of Art"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/st-peters-basilica.jpg",
+  "credit": "Didier Descouens",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "St. Peter's Basilica"
+  "wiki": "St. Peter's Basilica",
+  "thumb": "images/thumbs/st-peters-basilica.jpg",
+  "w": 8603,
+  "h": 6607,
+  "source": "https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_-_Interno_della_basilica_di_San_Pietro_a_Roma_-_Giampaolo_Pannini.jpg",
+  "file": "File:Ca' Rezzonico - Interno della basilica di San Pietro a Roma - Giampaolo Pannini.jpg"
  },
  {
   "id": "st-marks-basilica",
@@ -1174,11 +1452,16 @@ window.BUILDINGS = [
    "date": "late 1720s",
    "holder": "The Met"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/st-marks-basilica.jpg",
+  "credit": "Giovanni Antonio Canal",
+  "license": "Public domain",
   "then": [],
-  "wiki": "St Mark's Basilica"
+  "wiki": "St Mark's Basilica",
+  "thumb": "images/thumbs/st-marks-basilica.jpg",
+  "w": 3971,
+  "h": 2448,
+  "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_Piazza_San_Marco_-_WGA03883.jpg",
+  "file": "File:Giovanni Antonio Canal, il Canaletto - Piazza San Marco - WGA03883.jpg"
  },
  {
   "id": "santa-maria-della-salute",
@@ -1199,11 +1482,16 @@ window.BUILDINGS = [
    "date": "1843",
    "holder": "National Gallery of Art"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/santa-maria-della-salute.jpg",
+  "credit": "Didier Descouens",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Santa Maria della Salute"
+  "wiki": "Santa Maria della Salute",
+  "thumb": "images/thumbs/santa-maria-della-salute.jpg",
+  "w": 6698,
+  "h": 4682,
+  "source": "https://commons.wikimedia.org/wiki/File:(Barcelona)_Santa_Maria_della_Salute_and_the_Dogana,_Venice,_at_Sunset,_across_the_Bacino_-_1840_-_William_Turner_Tate_Britain.jpg",
+  "file": "File:(Barcelona) Santa Maria della Salute and the Dogana, Venice, at Sunset, across the Bacino - 1840 - William Turner Tate Britain.jpg"
  },
  {
   "id": "westminster-abbey",
@@ -1224,11 +1512,16 @@ window.BUILDINGS = [
    "date": "1749",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/westminster-abbey.jpg",
+  "credit": "Giovanni Antonio Canal",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Westminster Abbey"
+  "wiki": "Westminster Abbey",
+  "thumb": "images/thumbs/westminster-abbey.jpg",
+  "w": 1008,
+  "h": 984,
+  "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Canal,_il_Canaletto_-_London_-_Westminster_Abbey,_with_a_Procession_of_Knights_of_the_Bath_-_WGA03950.jpg",
+  "file": "File:Giovanni Antonio Canal, il Canaletto - London - Westminster Abbey, with a Procession of Knights of the Bath - WGA03950.jpg"
  },
  {
   "id": "salisbury-cathedral",
@@ -1249,11 +1542,16 @@ window.BUILDINGS = [
    "date": "1823",
    "holder": "V&A"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/salisbury-cathedral.jpg",
+  "credit": "John Constable",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Salisbury Cathedral"
+  "wiki": "Salisbury Cathedral",
+  "thumb": "images/thumbs/salisbury-cathedral.jpg",
+  "w": 3176,
+  "h": 2472,
+  "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_Salisbury_Cathedral_from_the_Bishop%27s_Grounds.jpg",
+  "file": "File:John Constable - Salisbury Cathedral from the Bishop's Grounds.jpg"
  },
  {
   "id": "chartres-cathedral",
@@ -1274,11 +1572,16 @@ window.BUILDINGS = [
    "date": "1830",
    "holder": "Louvre"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/chartres-cathedral.jpg",
+  "credit": "Jean-Baptiste Camille Corot",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Chartres Cathedral"
+  "wiki": "Chartres Cathedral",
+  "thumb": "images/thumbs/chartres-cathedral.jpg",
+  "w": 1000,
+  "h": 1260,
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Camille_Corot_-_The_Cathedral_of_Chartres_-_WGA5282.jpg",
+  "file": "File:Jean-Baptiste-Camille Corot - The Cathedral of Chartres - WGA5282.jpg"
  },
  {
   "id": "parthenon",
@@ -1299,11 +1602,16 @@ window.BUILDINGS = [
    "date": "1871",
    "holder": "The Met"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/parthenon.jpg",
+  "credit": "Frederic Edwin Church",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Parthenon"
+  "wiki": "Parthenon",
+  "thumb": "images/thumbs/parthenon.jpg",
+  "w": 5898,
+  "h": 3627,
+  "source": "https://commons.wikimedia.org/wiki/File:Parthenon_(1871)_Frederic_Edwin_Church.jpg",
+  "file": "File:Parthenon (1871) Frederic Edwin Church.jpg"
  },
  {
   "id": "eiffel-tower",
@@ -1324,26 +1632,39 @@ window.BUILDINGS = [
    "date": "1889",
    "holder": "Fine Arts Museums of San Francisco"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/eiffel-tower.jpg",
+  "credit": "Jorge Royan",
+  "license": "CC BY-SA 3.0",
   "then": [
    {
     "date": "1887–89",
     "media": "archive",
     "title": "Construction photographs",
     "by": "Louis-Émile Durandelle",
-    "image": null
+    "image": "images/thumbs/eiffel-tower-then0.jpg",
+    "license": "Public domain",
+    "credit": "Louis-Emile Durandelle",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis-Emile_Durandelle,_The_Eiffel_Tower_-_State_of_the_Construction,_1888.jpg",
+    "file": "File:Louis-Emile Durandelle, The Eiffel Tower - State of the Construction, 1888.jpg"
    },
    {
     "date": "1911",
     "media": "painting",
     "title": "Champs de Mars: The Red Tower",
     "by": "Robert Delaunay",
-    "image": null
+    "image": "images/thumbs/eiffel-tower-then1.jpg",
+    "license": "CC BY-SA 3.0",
+    "credit": "Jorge Royan",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+    "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg"
    }
   ],
-  "wiki": "Eiffel Tower"
+  "wiki": "Eiffel Tower",
+  "thumb": "images/thumbs/eiffel-tower.jpg",
+  "w": 4368,
+  "h": 2912,
+  "source": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+  "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg"
  },
  {
   "id": "palace-of-versailles",
@@ -1364,11 +1685,16 @@ window.BUILDINGS = [
    "date": "1668",
    "holder": "Château de Versailles"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/palace-of-versailles.jpg",
+  "credit": "Pierre Patel",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Palace of Versailles"
+  "wiki": "Palace of Versailles",
+  "thumb": "images/thumbs/palace-of-versailles.jpg",
+  "w": 2866,
+  "h": 2081,
+  "source": "https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_Patel.jpg",
+  "file": "File:Chateau de Versailles 1668 Pierre Patel.jpg"
  },
  {
   "id": "tintern-abbey",
@@ -1414,11 +1740,16 @@ window.BUILDINGS = [
    "date": "1835",
    "holder": "V&A"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/stonehenge.jpg",
+  "credit": "John Constable",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Stonehenge"
+  "wiki": "Stonehenge",
+  "thumb": "images/thumbs/stonehenge.jpg",
+  "w": 5421,
+  "h": 3524,
+  "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_Stonehenge_at_Sunset_-_Google_Art_Project.jpg",
+  "file": "File:John Constable - Stonehenge at Sunset - Google Art Project.jpg"
  },
  {
   "id": "doges-palace",
@@ -1439,11 +1770,16 @@ window.BUILDINGS = [
    "date": "1908",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/doges-palace.jpg",
+  "credit": "Claude Monet",
+  "license": "CC0",
   "then": [],
-  "wiki": "Doge's Palace"
+  "wiki": "Doge's Palace",
+  "thumb": "images/thumbs/doges-palace.jpg",
+  "w": 3811,
+  "h": 2712,
+  "source": "https://commons.wikimedia.org/wiki/File:The_Doge%27s_Palace_Seen_from_San_Giorgio_Maggiore_MET_DT1904.jpg",
+  "file": "File:The Doge's Palace Seen from San Giorgio Maggiore MET DT1904.jpg"
  },
  {
   "id": "gare-saint-lazare",
@@ -1464,11 +1800,16 @@ window.BUILDINGS = [
    "date": "1877",
    "holder": "Musée d’Orsay"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/gare-saint-lazare.jpg",
+  "credit": "Claude Monet",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Gare Saint-Lazare"
+  "wiki": "Gare Saint-Lazare",
+  "thumb": "images/thumbs/gare-saint-lazare.jpg",
+  "w": 3708,
+  "h": 2757,
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Saint-Lazare_Station_-_Google_Art_Project.jpg",
+  "file": "File:Claude Monet - The Saint-Lazare Station - Google Art Project.jpg"
  },
  {
   "id": "crystal-palace",
@@ -1489,26 +1830,39 @@ window.BUILDINGS = [
    "date": "1871",
    "holder": "Art Institute of Chicago"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/crystal-palace.jpg",
+  "credit": "Camille Pissarro",
+  "license": "Public domain",
   "then": [
    {
     "date": "1851",
     "media": "print",
     "title": "Comprehensive Pictures of the Great Exhibition",
     "by": "Dickinson Brothers",
-    "image": null
+    "image": "images/thumbs/crystal-palace-then0.jpg",
+    "license": "Public domain",
+    "credit": "Dickinson Brothers",
+    "source": "https://commons.wikimedia.org/wiki/File:Crystal_Palace_from_the_northeast_from_Dickinson%27s_Comprehensive_Pictures_of_the_Great_Exhibition_of_1851._1854.jpg",
+    "file": "File:Crystal Palace from the northeast from Dickinson's Comprehensive Pictures of the Great Exhibition of 1851. 1854.jpg"
    },
    {
     "date": "1850s",
     "media": "archive",
     "title": "Photographs at Sydenham",
     "by": "Philip Henry Delamotte",
-    "image": null
+    "image": "images/thumbs/crystal-palace-then1.jpg",
+    "license": "CC0",
+    "credit": "Philip Henry Delamotte / Henry Negretti",
+    "source": "https://commons.wikimedia.org/wiki/File:Progress_of_the_Crystal_Palace_at_Sydenham_MET_DP109625.jpg",
+    "file": "File:Progress of the Crystal Palace at Sydenham MET DP109625.jpg"
    }
   ],
-  "wiki": "The Crystal Palace"
+  "wiki": "The Crystal Palace",
+  "thumb": "images/thumbs/crystal-palace.jpg",
+  "w": 3000,
+  "h": 1898,
+  "source": "https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Le_Crystal_Palace,_Londres.jpg",
+  "file": "File:Camille Pissarro - Le Crystal Palace, Londres.jpg"
  },
  {
   "id": "colosseum",
@@ -1529,11 +1883,16 @@ window.BUILDINGS = [
    "date": "c. 1757",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/colosseum.jpg",
+  "credit": "Giovanni Battista Piranesi",
+  "license": "CC0",
   "then": [],
-  "wiki": "Colosseum"
+  "wiki": "Colosseum",
+  "thumb": "images/thumbs/colosseum.jpg",
+  "w": 3757,
+  "h": 2638,
+  "source": "https://commons.wikimedia.org/wiki/File:Veduta_dell%27Anfiteatro_Flavio_detto_il_Colosseo,_from-_%27Vedute_di_Roma%27_(Views_of_Rome)_MET_DP104275.jpg",
+  "file": "File:Veduta dell'Anfiteatro Flavio detto il Colosseo, from- 'Vedute di Roma' (Views of Rome) MET DP104275.jpg"
  },
  {
   "id": "notre-dame-de-paris",
@@ -1554,11 +1913,16 @@ window.BUILDINGS = [
    "date": "1853",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/notre-dame-de-paris.jpg",
+  "credit": "Charles Meryon",
+  "license": "CC0",
   "then": [],
-  "wiki": "Notre-Dame de Paris"
+  "wiki": "Notre-Dame de Paris",
+  "thumb": "images/thumbs/notre-dame-de-paris.jpg",
+  "w": 3041,
+  "h": 3956,
+  "source": "https://commons.wikimedia.org/wiki/File:Charles_Meryon,_Le_stryge_(The_Vampire),_1853,_NGA_32138.jpg",
+  "file": "File:Charles Meryon, Le stryge (The Vampire), 1853, NGA 32138.jpg"
  },
  {
   "id": "hagia-sophia",
@@ -1588,7 +1952,11 @@ window.BUILDINGS = [
     "media": "print",
     "title": "Interior view",
     "by": "Guillaume-Joseph Grelot",
-    "image": null
+    "image": "images/thumbs/hagia-sophia-then0.jpg",
+    "license": "Public domain",
+    "credit": "Guillaume-Joseph Grelot",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Hagia_Sophia_in_Istanbul_(from_the_central_nave_to_the_narthex)_-_Grelot_Guillaume-joseph_-_1680.jpg",
+    "file": "File:Interior view of Hagia Sophia in Istanbul (from the central nave to the narthex) - Grelot Guillaume-joseph - 1680.jpg"
    }
   ],
   "wiki": "Hagia Sophia"
@@ -1612,19 +1980,28 @@ window.BUILDINGS = [
    "date": "1801",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/taj-mahal.jpg",
+  "credit": "Popular Graphic Arts",
+  "license": "Public domain",
   "then": [
    {
     "date": "c. 1865",
     "media": "archive",
     "title": "Photograph",
     "by": "Samuel Bourne",
-    "image": null
+    "image": "images/thumbs/taj-mahal-then0.jpg",
+    "license": "CC0",
+    "credit": "Yale Center for British Art",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Bourne_-_Caves_of_Elora_-_B2018.3.2_-_Yale_Center_for_British_Art.jpg",
+    "file": "File:Samuel Bourne - Caves of Elora - B2018.3.2 - Yale Center for British Art.jpg"
    }
   ],
-  "wiki": "Taj Mahal"
+  "wiki": "Taj Mahal",
+  "thumb": "images/thumbs/taj-mahal.jpg",
+  "w": 10257,
+  "h": 7044,
+  "source": "https://commons.wikimedia.org/wiki/File:The_Taje_Mahel,_Agra._No._I_-_drawn_%26_engraved_by_Thomas_and_William_Daniell._LCCN2003665020.jpg",
+  "file": "File:The Taje Mahel, Agra. No. I - drawn & engraved by Thomas and William Daniell. LCCN2003665020.jpg"
  },
  {
   "id": "al-khazneh",
@@ -1645,11 +2022,16 @@ window.BUILDINGS = [
    "date": "1839",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/al-khazneh.jpg",
+  "credit": "Haghe, Louis, 1806-1885, lithographer; Roberts, David, 1796-1864, artist",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Al-Khazneh"
+  "wiki": "Al-Khazneh",
+  "thumb": "images/thumbs/al-khazneh.jpg",
+  "w": 1158,
+  "h": 1477,
+  "source": "https://commons.wikimedia.org/wiki/File:Temple_called_El_Khasne_Petra_March_7th_1839_-_David_Roberts,_R.A._LCCN2002717540.jpg",
+  "file": "File:Temple called El Khasne Petra March 7th 1839 - David Roberts, R.A. LCCN2002717540.jpg"
  },
  {
   "id": "pyramids-of-giza",
@@ -1670,11 +2052,16 @@ window.BUILDINGS = [
    "date": "1839",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/pyramids-of-giza.jpg",
+  "credit": "David Roberts",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Giza pyramid complex"
+  "wiki": "Giza pyramid complex",
+  "thumb": "images/thumbs/pyramids-of-giza.jpg",
+  "w": 2560,
+  "h": 1626,
+  "source": "https://commons.wikimedia.org/wiki/File:The_Great_Sphinx,_Pyramids_of_Gizeh-1839)_by_David_Roberts,_RA.jpg",
+  "file": "File:The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA.jpg"
  },
  {
   "id": "abu-simbel",
@@ -1695,11 +2082,16 @@ window.BUILDINGS = [
    "date": "1838",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/abu-simbel.jpg",
+  "credit": "Diego Delso",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Abu Simbel"
+  "wiki": "Abu Simbel",
+  "thumb": "images/thumbs/abu-simbel.jpg",
+  "w": 8234,
+  "h": 4787,
+  "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_74-76_HDR.jpg",
+  "file": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg"
  },
  {
   "id": "el-castillo-chichen-itza",
@@ -1720,11 +2112,16 @@ window.BUILDINGS = [
    "date": "1844",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/el-castillo-chichen-itza.jpg",
+  "credit": "Frederick Catherwood",
+  "license": "Public domain",
   "then": [],
-  "wiki": "El Castillo, Chichen Itza"
+  "wiki": "El Castillo, Chichen Itza",
+  "thumb": "images/thumbs/el-castillo-chichen-itza.jpg",
+  "w": 1017,
+  "h": 712,
+  "source": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_Castillo_(Catherwood).jpg",
+  "file": "File:Chichen Itza Castillo (Catherwood).jpg"
  },
  {
   "id": "alhambra",
@@ -1745,11 +2142,16 @@ window.BUILDINGS = [
    "date": "1842–45",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/alhambra.jpg",
+  "credit": "Owen Jones",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Alhambra"
+  "wiki": "Alhambra",
+  "thumb": "images/thumbs/alhambra.jpg",
+  "w": 1570,
+  "h": 2279,
+  "source": "https://commons.wikimedia.org/wiki/File:Alhambra_1,24.jpeg",
+  "file": "File:Alhambra 1,24.jpeg"
  },
  {
   "id": "kiyomizu-dera",
@@ -1795,11 +2197,16 @@ window.BUILDINGS = [
    "date": "1856",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/senso-ji.jpg",
+  "credit": "Utagawa Hiroshige",
+  "license": "CC0",
   "then": [],
-  "wiki": "Sensō-ji"
+  "wiki": "Sensō-ji",
+  "thumb": "images/thumbs/senso-ji.jpg",
+  "w": 2678,
+  "h": 4000,
+  "source": "https://commons.wikimedia.org/wiki/File:%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E6%B5%85%E8%8D%89_%E9%87%91%E9%BE%8D%E5%B1%B1-The_Kinryusan_Temple_at_Asakusa_MET_DP122116.jpg",
+  "file": "File:名所江戸百景 浅草 金龍山-The Kinryusan Temple at Asakusa MET DP122116.jpg"
  },
  {
   "id": "itsukushima-shrine",
@@ -1820,11 +2227,16 @@ window.BUILDINGS = [
    "date": "1853",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/itsukushima-shrine.jpg",
+  "credit": "Utagawa Hiroshige",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Itsukushima Shrine"
+  "wiki": "Itsukushima Shrine",
+  "thumb": "images/thumbs/itsukushima-shrine.jpg",
+  "w": 1536,
+  "h": 1205,
+  "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Itsukushima_in_Aki_Province_-_Utagawa_Hiroshige_(Ando).jpg",
+  "file": "File:Brooklyn Museum - Itsukushima in Aki Province - Utagawa Hiroshige (Ando).jpg"
  },
  {
   "id": "shah-mosque",
@@ -1845,11 +2257,16 @@ window.BUILDINGS = [
    "date": "1867",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/shah-mosque.jpg",
+  "credit": "Pascal Coste",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Shah Mosque (Isfahan)"
+  "wiki": "Shah Mosque (Isfahan)",
+  "thumb": "images/thumbs/shah-mosque.jpg",
+  "w": 1719,
+  "h": 2702,
+  "source": "https://commons.wikimedia.org/wiki/File:Hasht_Behesht,_Detail_of_the_dome_by_Pascal_Coste.jpg",
+  "file": "File:Hasht Behesht, Detail of the dome by Pascal Coste.jpg"
  },
  {
   "id": "royal-pavilion",
@@ -1870,11 +2287,16 @@ window.BUILDINGS = [
    "date": "1826",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/royal-pavilion.jpg",
+  "credit": "Txllxt TxllxT",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Royal Pavilion"
+  "wiki": "Royal Pavilion",
+  "thumb": "images/thumbs/royal-pavilion.jpg",
+  "w": 2592,
+  "h": 3873,
+  "source": "https://commons.wikimedia.org/wiki/File:Brighton_-_Royal_Pavilion_1823_John_Nash_-_View_WNW.jpg",
+  "file": "File:Brighton - Royal Pavilion 1823 John Nash - View WNW.jpg"
  },
  {
   "id": "villa-la-rotonda",
@@ -1895,11 +2317,16 @@ window.BUILDINGS = [
    "date": "1570",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/villa-la-rotonda.jpg",
+  "credit": "Andrea Palladio",
+  "license": "CC0",
   "then": [],
-  "wiki": "Villa La Rotonda"
+  "wiki": "Villa La Rotonda",
+  "thumb": "images/thumbs/villa-la-rotonda.jpg",
+  "w": 1840,
+  "h": 1406,
+  "source": "https://commons.wikimedia.org/wiki/File:I_quattro_libri_dell%27architettura_di_Andrea_Palladio_._._._MET_li120.32P17_P17.R.jpg",
+  "file": "File:I quattro libri dell'architettura di Andrea Palladio . . . MET li120.32P17 P17.R.jpg"
  },
  {
   "id": "tempietto",
@@ -2045,11 +2472,16 @@ window.BUILDINGS = [
    "date": "1859",
    "holder": "Architect of the Capitol"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/united-states-capitol.jpg",
+  "credit": "Walter, Thomas Ustick, 1804-1887, architect",
+  "license": "Public domain",
   "then": [],
-  "wiki": "United States Capitol"
+  "wiki": "United States Capitol",
+  "thumb": "images/thumbs/united-states-capitol.jpg",
+  "w": 834,
+  "h": 1536,
+  "source": "https://commons.wikimedia.org/wiki/File:Capitol,_section_of_new_dome_LCCN2009631505.jpg",
+  "file": "File:Capitol, section of new dome LCCN2009631505.jpg"
  },
  {
   "id": "ch-teau-de-chambord",
@@ -2070,11 +2502,16 @@ window.BUILDINGS = [
    "date": "1576",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/ch-teau-de-chambord.jpg",
+  "credit": "Jacques I Androuet du Cerceau",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Château de Chambord"
+  "wiki": "Château de Chambord",
+  "thumb": "images/thumbs/ch-teau-de-chambord.jpg",
+  "w": 1221,
+  "h": 1798,
+  "source": "https://commons.wikimedia.org/wiki/File:Fountain_of_Diana_of_Anet,_from_the_second_volume_of_%27Les_plus_excellents_bastiments_de_France%27_by_Jacques_Androuet_du_Cerceau_(adjusted).jpg",
+  "file": "File:Fountain of Diana of Anet, from the second volume of 'Les plus excellents bastiments de France' by Jacques Androuet du Cerceau (adjusted).jpg"
  },
  {
   "id": "st-pauls-cathedral",
@@ -2145,19 +2582,28 @@ window.BUILDINGS = [
    "date": "1903",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/flatiron-building.jpg",
+  "credit": "Alfred Stieglitz (American, 1864 - 1946) (1864 - 1946) – photographer (American) Details on Google Art Project",
+  "license": "Public domain",
   "then": [
    {
     "date": "1904",
     "media": "archive",
     "title": "The Flatiron",
     "by": "Edward Steichen",
-    "image": null
+    "image": "images/thumbs/flatiron-building-then0.jpg",
+    "license": "Public domain",
+    "credit": "Edward Steichen",
+    "source": "https://commons.wikimedia.org/wiki/File:Steichen_flatiron.jpg",
+    "file": "File:Steichen flatiron.jpg"
    }
   ],
-  "wiki": "Flatiron Building"
+  "wiki": "Flatiron Building",
+  "thumb": "images/thumbs/flatiron-building.jpg",
+  "w": 1685,
+  "h": 3485,
+  "source": "https://commons.wikimedia.org/wiki/File:Alfred_Stieglitz_-_The_Flatiron_Building_-_Google_Art_Project_(cropped).jpg",
+  "file": "File:Alfred Stieglitz - The Flatiron Building - Google Art Project (cropped).jpg"
  },
  {
   "id": "empire-state-building",
@@ -2178,11 +2624,16 @@ window.BUILDINGS = [
    "date": "1930–31",
    "holder": "NYPL"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/empire-state-building.jpg",
+  "credit": "Lewis Hine",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Empire State Building"
+  "wiki": "Empire State Building",
+  "thumb": "images/thumbs/empire-state-building.jpg",
+  "w": 1180,
+  "h": 1500,
+  "source": "https://commons.wikimedia.org/wiki/File:Lewis_Hine_Tri_nytovaci.jpg",
+  "file": "File:Lewis Hine Tri nytovaci.jpg"
  },
  {
   "id": "machu-picchu",
@@ -2203,11 +2654,16 @@ window.BUILDINGS = [
    "date": "1912",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/machu-picchu.jpg",
+  "credit": "Hiram Bingham III",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Machu Picchu"
+  "wiki": "Machu Picchu",
+  "thumb": "images/thumbs/machu-picchu.jpg",
+  "w": 3072,
+  "h": 1910,
+  "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu.png",
+  "file": "File:Machu Picchu.png"
  },
  {
   "id": "angkor-wat",
@@ -2228,11 +2684,16 @@ window.BUILDINGS = [
    "date": "1866",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/angkor-wat.jpg",
+  "credit": "Unknown authorUnknown author",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Angkor Wat"
+  "wiki": "Angkor Wat",
+  "thumb": "images/thumbs/angkor-wat.jpg",
+  "w": 3020,
+  "h": 3742,
+  "source": "https://commons.wikimedia.org/wiki/File:Thomson,_Angkor_Wat.jpg",
+  "file": "File:Thomson, Angkor Wat.jpg"
  },
  {
   "id": "borobudur",
@@ -2253,11 +2714,16 @@ window.BUILDINGS = [
    "date": "1873",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/borobudur.jpg",
+  "credit": "en:Isidore van Kinsbergen",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Borobudur"
+  "wiki": "Borobudur",
+  "thumb": "images/thumbs/borobudur.jpg",
+  "w": 1000,
+  "h": 764,
+  "source": "https://commons.wikimedia.org/wiki/File:Borobudur_photograph_by_van_kinsbergen.jpg",
+  "file": "File:Borobudur photograph by van kinsbergen.jpg"
  },
  {
   "id": "great-mosque-of-djenne",
@@ -2303,11 +2769,16 @@ window.BUILDINGS = [
    "date": "1892",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/tower-bridge.jpg",
+  "credit": "unknown",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Tower Bridge"
+  "wiki": "Tower Bridge",
+  "thumb": "images/thumbs/tower-bridge.jpg",
+  "w": 4516,
+  "h": 1388,
+  "source": "https://commons.wikimedia.org/wiki/File:Mitchell_Library_in_course_of_construction_(photograph),_March_1907_(32006347500).jpg",
+  "file": "File:Mitchell Library in course of construction (photograph), March 1907 (32006347500).jpg"
  },
  {
   "id": "potala-palace",
