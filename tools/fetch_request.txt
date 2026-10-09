@@ -1,1 +1,2 @@
-Request an image download run. Edit this line to trigger again: 2026-10-09T15:57:36Z
+--only bauhaus-dessau,kinkaku-ji,chrysler-building,forbidden-city,eiffel-tower,stonehenge,abu-simbel,el-castillo-chichen-itza,shah-mosque,royal-pavilion,villa-la-rotonda,ch-teau-de-chambord,tower-bridge,tintern-abbey,hagia-sophia,kiyomizu-dera,tempietto,neuschwanstein-castle,robie-house,unity-temple,monticello,st-pauls-cathedral,einstein-tower,great-mosque-of-djenne,potala-palace,fallingwater
+Re-pick the images above with better searches (tools/image_choices.json). Edit this file to trigger a run.

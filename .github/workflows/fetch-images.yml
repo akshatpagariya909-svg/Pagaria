@@ -22,7 +22,10 @@ jobs:
           python-version: '3.12'
       - run: pip install pillow
       - name: Download images
-        run: python -u tools/fetch_images.py
+        # A first line like "--only id1,id2" in tools/fetch_request.txt limits the run to those buildings.
+        run: |
+          ARGS=$(head -n1 tools/fetch_request.txt | grep '^--' || true)
+          python -u tools/fetch_images.py $ARGS
       - name: Commit images
         run: |
           git config user.name "github-actions[bot]"

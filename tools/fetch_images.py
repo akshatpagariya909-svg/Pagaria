@@ -6,7 +6,8 @@
   python3 tools/fetch_images.py --only eiffel-tower,taj-mahal
 
 How each image is picked:
-  * a choice in tools/image_choices.json always wins, e.g. {"eiffel-tower": "File:Georges Seurat 043.jpg"}
+  * a choice in tools/image_choices.json always wins: either an exact file,
+    {"eiffel-tower": "File:Some file.jpg"}, or a better search, {"eiffel-tower": "search:Seurat Tour Eiffel"}
     (use "<id>#then0", "<id>#then1" … for the Through-time works);
   * photographs: the lead image of the building's Wikipedia article;
   * paintings, prints, drawings, archive photos: the top Wikimedia Commons search hit for "<title> <artist>".
@@ -86,6 +87,15 @@ def file_info(file_title):
     }
 
 
+def chosen(choice):
+    """Expand a tools/image_choices.json entry into candidate files."""
+    if not choice:
+        return []
+    if choice.startswith('search:'):
+        return list(commons_search(choice[len('search:'):]))
+    return [choice]
+
+
 def pick(candidates):
     seen = set()
     for title in candidates:
@@ -162,10 +172,10 @@ def main():
         try:
             if b['media'] == 'photo':
                 city = b['place'].split(',')[0]
-                cands = [choices.get(b['id']), wiki_lead_image(b['wiki'])] + list(commons_search(f"{b['name']} {city}"))
+                cands = chosen(choices.get(b['id'])) or [wiki_lead_image(b['wiki'])] + list(commons_search(f"{b['name']} {city}"))
             else:
                 w = b['work']
-                cands = [choices.get(b['id'])] + list(commons_search(f"{w['title']} {w['by']}"))
+                cands = chosen(choices.get(b['id'])) or list(commons_search(f"{w['title']} {w['by']}"))
             info = pick(cands)
             if info:
                 b['image'], b['thumb'] = download(info, b['id'])
@@ -173,7 +183,9 @@ def main():
             else:
                 missing.append(b['name'])
             for k, t in enumerate(b.get('then', [])):
-                info = pick([choices.get(f"{b['id']}#then{k}")] + list(commons_search(f"{t['title']} {t['by']}")))
+                if t.get('image') and not args.force and b['id'] not in only:
+                    continue
+                info = pick(chosen(choices.get(f"{b['id']}#then{k}")) or list(commons_search(f"{t['title']} {t['by']}")))
                 if info:
                     t['image'] = download(info, f"{b['id']}-then{k}")[1]
                     t.update(license=info['license'], credit=info['credit'], source=info['page'], file=info['file'])
