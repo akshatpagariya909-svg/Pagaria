@@ -1,2 +1,2 @@
---candidates --only masp,fau-usp-building
-Redo candidate sheets for MASP and FAU-USP with their own categories.
+--force
+Download the hand-picked galleries for all 100 buildings.

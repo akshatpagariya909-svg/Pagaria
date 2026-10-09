@@ -3,10 +3,62 @@
   "category": "Category:Cité radieuse, Marseille",
   "add": [
    "File:Unité_d'habitation_Marseille,_France.jpg"
+  ],
+  "pick": [
+   [
+    "File:France, Bouches-du-Rhône (13), Marseille, 8ème arr. jardin de la Magalone.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Marseille Le Corbusier.jpg",
+    "Detail"
+   ],
+   [
+    "File:Cité radieuse vue sur la mer.jpg",
+    "Context"
+   ],
+   [
+    "File:Le Corbusier Experimental Housing Project, Marseille - DPLA - 9c28f44cf8ed56689ab51b78069b1b7b.jpg",
+    "Context"
+   ]
   ]
  },
  "barcelona-pavilion": {
-  "category": "Category:Barcelona-Pavillon"
+  "category": "Category:Barcelona-Pavillon",
+  "pick": [
+   [
+    "File:The Barcelona Pavilion, Barcelona, 2010.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona Pavilion pool.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona-Pavillon, July 2014 (08).JPG",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona (4727846915).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barcelona Pavilion photo Christian Gänshirt 2012.JPG",
+    "Interior"
+   ],
+   [
+    "File:Barcelona-Pavillon, July 2014 (03).JPG",
+    "Interior"
+   ],
+   [
+    "File:Barcelona-Pavillon, July 2014 (14).JPG",
+    "Detail"
+   ],
+   [
+    "File:Barcelona-Pavillon, July 2014 (04).JPG",
+    "Detail"
+   ]
+  ]
  },
  "bauhaus-dessau": {
   "category": "Category:Bauhaus Dessau",
@@ -14,64 +66,564 @@
    "Category:Werkstattflügel, Bauhaus Dessau",
    "Category:Ateliergebäude, Bauhaus Dessau",
    "Category:Festsaal, Bauhaus Dessau"
+  ],
+  "pick": [
+   [
+    "File:Meisterhäuser-Bauhaus - panoramio.jpg",
+    "Exterior"
+   ],
+   [
+    "File:6262 Dessau.JPG",
+    "Exterior"
+   ],
+   [
+    "File:6215 Dessau.jpg",
+    "Exterior"
+   ],
+   [
+    "File:6290 Dessau.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Bauhaus Aula.jpg",
+    "Interior"
+   ],
+   [
+    "File:Dessau Bauhaus Werkstattflügel Fassade innen.jpg",
+    "Interior"
+   ],
+   [
+    "File:6274 Dessau 01.JPG",
+    "Detail"
+   ],
+   [
+    "File:2020-09-18-Dessau-Bauhaus-Fassade.jpg",
+    "Detail"
+   ]
   ]
  },
  "villa-mairea": {
   "category": "Category:Villa Mairea",
   "more": [
    "Category:Interior of Villa Mairea"
+  ],
+  "pick": [
+   [
+    "File:4Y1A7858 Finland (26915865761).jpg",
+    "Exterior"
+   ],
+   [
+    "File:4Y1A7841 Alvar Aalto, Finland (26710745140).jpg",
+    "Exterior"
+   ],
+   [
+    "File:4Y1A7861 (26915869281).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Villa Mairea Noormarkku.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Mairea bookshelves.jpg",
+    "Interior"
+   ],
+   [
+    "File:Villa Mairea living room.jpg",
+    "Interior"
+   ],
+   [
+    "File:Villa Mairea, Noormarkku, Finland (26915873731).jpg",
+    "Interior"
+   ],
+   [
+    "File:4Y1A7857 (26710769820).jpg",
+    "Detail"
+   ]
   ]
  },
  "casa-luis-barragan": {
-  "category": "Category:Luis Barragán House and Studio"
+  "category": "Category:Luis Barragán House and Studio",
+  "pick": [
+   [
+    "File:Luis Barragán House and Studio-115239.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Luis Barragán House facade looking north along General Francisco Ramirez.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Overhanging plants on roof of Luis Barragán House, Mexico City.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Luis Barragán House and Studio-115242.jpg",
+    "Interior"
+   ],
+   [
+    "File:Luis Barragan House Garden.jpg",
+    "Context"
+   ],
+   [
+    "File:Luis Barragán House and Studio-115241.jpg",
+    "Detail"
+   ],
+   [
+    "File:Water outlet and pool on exterior of Luis Barragàn House, Mexico City.jpg",
+    "Detail"
+   ],
+   [
+    "File:Casa Barragan-Torre del agua - panoramio.jpg",
+    "Exterior"
+   ]
+  ]
  },
  "cathedral-of-brasilia": {
   "category": "Category:Catedral Metropolitana de Brasília",
   "more": [
    "Category:Catedral de Brasília (exterior)",
    "Category:Interior of the Catedral de Brasília"
+  ],
+  "pick": [
+   [
+    "File:Catedral de Brasilia em meados de novembro de 2023 (8).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cathedral of Brasilia.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Catedral21 8.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cathedral of Brasilia int July 2009.jpg",
+    "Interior"
+   ],
+   [
+    "File:Brasília - Catedral metropolitana (19).jpg",
+    "Interior"
+   ],
+   [
+    "File:Catedral de Brasilia em meados de novembro de 2023 (5).jpg",
+    "Detail"
+   ],
+   [
+    "File:Sinos da Catedral Metropolitana de Brasília visto do interior do monumento.jpg",
+    "Detail"
+   ],
+   [
+    "File:Brasília - Catedral metropolitana (28).jpg",
+    "Context"
+   ]
   ]
  },
  "hiroshima-peace-memorial-museum": {
-  "category": "Category:Hiroshima Peace Memorial Museum"
+  "category": "Category:Hiroshima Peace Memorial Museum",
+  "pick": [
+   [
+    "File:Hiroshima Peace Memorial Museum 20170310-5.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fountain in front of Hiroshima Peace Memorial Museum 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:The Hiroshima Peace Museum (53621075658).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Hiroshima Peace Memorial Museum, G7 Hiroshima 001.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Hiroshima Peace Memorial Museum 2023 Aug 20 various 14 46 40 798000.jpeg",
+    "Interior"
+   ],
+   [
+    "File:Hiroshima Peace Memorial Museum 2023 Aug 20 various 14 46 31 073000.jpeg",
+    "Interior"
+   ],
+   [
+    "File:Between the columns of the Hiroshima Peace Museum, the Genbaku Dome can be seen in the far distance (53621315930).jpg",
+    "Detail"
+   ],
+   [
+    "File:Hiroshima Cenotaph and Pond of Peace.jpg",
+    "Context"
+   ]
+  ]
  },
  "national-assembly-of-bangladesh": {
   "category": "Category:National Parliament Building of Bangladesh",
   "more": [
    "Category:National Assembly of Bangladesh interior"
+  ],
+  "pick": [
+   [
+    "File:National Assembly of Bangladesh (10).jpg",
+    "Exterior"
+   ],
+   [
+    "File:National Assembly of Bangladesh (08).jpg",
+    "Exterior"
+   ],
+   [
+    "File:National Assembly of Bangladesh (09).jpg",
+    "Exterior"
+   ],
+   [
+    "File:National parliament.jpg",
+    "Exterior"
+   ],
+   [
+    "File:The National Parliament of Bangladesh 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2.জাতীয় সংসদ ভবন.jpg",
+    "Context"
+   ],
+   [
+    "File:National Parliament House,Dhaka,Bangladesh. Designed by architect Louis Kahn,.jpg",
+    "Context"
+   ]
   ]
  },
  "yale-art-and-architecture-building": {
-  "category": "Category:Yale Art and Architecture Building"
+  "category": "Category:Yale Art and Architecture Building",
+  "pick": [
+   [
+    "File:Rudolph Hall.png",
+    "Exterior"
+   ],
+   [
+    "File:Yale Art and Architecture Building.1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Rudolph Art Architecture.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Yale Art and Architecture Building.2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Rudolph Hall Review Pit.jpg",
+    "Interior"
+   ],
+   [
+    "File:Yale Art & Architecture Library 7, October 20, 2008.jpg",
+    "Interior"
+   ],
+   [
+    "File:Yale Art & Architecture Library 2, October 20, 2008.jpg",
+    "Interior"
+   ],
+   [
+    "File:Messy Student Desks at the Yale School of Architecture Photo 2, 2018.jpg",
+    "Interior"
+   ]
+  ]
  },
  "new-gourna-village": {
-  "category": "Category:New Gourna"
+  "category": "Category:New Gourna",
+  "pick": [
+   [
+    "File:Gurna Mosque R01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Gurna Mosque R02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:New Gourna R01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:NewQurnaHouses.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Gurna Mosque R05.jpg",
+    "Interior"
+   ],
+   [
+    "File:NewQurnaMosqueInside.jpg",
+    "Interior"
+   ],
+   [
+    "File:NewQurnaMarketArcade.jpg",
+    "Detail"
+   ],
+   [
+    "File:NewQurnaHouseCourt.jpg",
+    "Detail"
+   ]
+  ]
  },
  "gando-primary-school": {
-  "category": "Category:Primary School, Gando"
+  "category": "Category:Primary School, Gando",
+  "pick": [
+   [
+    "File:Gando-School-Burkina-Faso.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Primary School Gando.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Kere primary school extension gando.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Kere library gando.jpg",
+    "Interior"
+   ]
+  ]
  },
  "leca-swimming-pools": {
-  "category": "Category:Piscinas de Marés de Leça da Palmeira"
+  "category": "Category:Piscinas de Marés de Leça da Palmeira",
+  "pick": [
+   [
+    "File:Piscina das Marés.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Leça da Palmeira Piscina de Marés (25277692377).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Swimming Pool Piscinas de Marés Leça da Palmeira by Álvaro Siza foto Christian Gänshirt.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Piscinas Leça da Palmeira Portugal.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Piscina das marès (27437903916).jpg",
+    "Detail"
+   ],
+   [
+    "File:Piscina das marès (27472312935).jpg",
+    "Detail"
+   ],
+   [
+    "File:Matosinhos e Leça da Palmeira - Piscinas de Marés de Leça da Palmeira - 2025-10-27 16-11-10 001.jpg",
+    "Context"
+   ],
+   [
+    "File:Swimmingpool on the Beach at Leça da Palmeira by Christian Gänshirt.JPG",
+    "Context"
+   ]
+  ]
  },
  "therme-vals": {
-  "category": "Category:Therme Vals"
+  "category": "Category:Therme Vals",
+  "pick": [
+   [
+    "File:Felipe camus - 6892635292.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2005-08-06-Therme-Vals-Peter-Zumthor 08.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Therme Vals wall structure, Vals, Graubünden, Switzerland - 20040530.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Felipe camus - 6892624822.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Therme Vals Zimmer.JPG",
+    "Interior"
+   ],
+   [
+    "File:Therme Vals wall structure, Vals, Graubünden, Switzerland - 2007.jpg",
+    "Detail"
+   ],
+   [
+    "File:Therme Vals Winter.JPG",
+    "Context"
+   ],
+   [
+    "File:Therme Vals um 1910.jpg",
+    "Context"
+   ]
+  ]
  },
  "bruder-klaus-field-chapel": {
-  "category": "Category:Feldkapelle (Wachendorf)"
+  "category": "Category:Feldkapelle (Wachendorf)",
+  "pick": [
+   [
+    "File:Bruder Klaus Feldkapelle (18833789670).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bruder-Klaus-Feldkapelle Wachendorf 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bruder Klaus Kapelle4.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2017-08-20-mechernich-bruder-klaus-kapelle-03.jpg",
+    "Interior"
+   ],
+   [
+    "File:2017-08-20-mechernich-bruder-klaus-kapelle-04.jpg",
+    "Interior"
+   ],
+   [
+    "File:2017-08-20-mechernich-bruder-klaus-kapelle-05.jpg",
+    "Detail"
+   ],
+   [
+    "File:2017-08-20-mechernich-bruder-klaus-kapelle-08.jpg",
+    "Detail"
+   ],
+   [
+    "File:Bruder Klaus Kapelle1.jpg",
+    "Context"
+   ]
+  ]
  },
  "ningbo-history-museum": {
-  "category": "Category:Ningbo Museum"
+  "category": "Category:Ningbo Museum",
+  "pick": [
+   [
+    "File:Ningbo Museum - 87234923675.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Ningbo Museum - 55494430897.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Ningbo Museum - 55495801930.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Huge stairs in NBM (1).JPG",
+    "Exterior"
+   ],
+   [
+    "File:Huge stairs inside Ningbo Museum.JPG",
+    "Interior"
+   ],
+   [
+    "File:Huge stairs in NBM (3).JPG",
+    "Detail"
+   ],
+   [
+    "File:Ningbo Museum - 55495586174.jpg",
+    "Context"
+   ]
+  ]
  },
  "row-house-in-sumiyoshi": {
-  "category": "Category:Azuma House"
+  "category": "Category:Azuma House",
+  "pick": [
+   [
+    "File:Azuma house.JPG",
+    "Exterior"
+   ],
+   [
+    "File:住吉の長屋 - panoramio.jpg",
+    "Exterior"
+   ],
+   [
+    "File:住吉の長屋.JPG",
+    "Context"
+   ]
+  ]
  },
  "sendai-mediatheque": {
-  "category": "Category:Sendai Mediatheque"
+  "category": "Category:Sendai Mediatheque",
+  "pick": [
+   [
+    "File:Sendai Mediatheque 2009.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SendaiMediatheque.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sendai Mediateque ac (1).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sendai Mediatheque 3F.jpg",
+    "Interior"
+   ],
+   [
+    "File:Interior of Sendai Mediatheque 202512.jpg",
+    "Interior"
+   ],
+   [
+    "File:Vertical tube steel lattice columns, interior of Sendai Mediatheque.jpg",
+    "Detail"
+   ],
+   [
+    "File:Sendai Pageant of Starlight 2025g.jpg",
+    "Context"
+   ],
+   [
+    "File:Render sendai mediatheque fammid.jpg",
+    "Drawing"
+   ]
+  ]
  },
  "21st-century-museum-of-contemporary-art-kanazawa": {
   "category": "Category:21st Century Museum of Contemporary Art, Kanazawa",
   "more": [
    "Category:Interior of the 21st Century Museum of Contemporary Art, Kanazawa"
+  ],
+  "pick": [
+   [
+    "File:金沢21世紀美術館001.jpg",
+    "Exterior"
+   ],
+   [
+    "File:21st Century Museum of Contemporary Art, Kanazawa009.jpg",
+    "Exterior"
+   ],
+   [
+    "File:21st Century Museum of Contemporary Art in Kanazawa - Takeshi DSC 1132 (3872661475).jpg",
+    "Exterior"
+   ],
+   [
+    "File:21st Century Museum of Contemporary Art, Kanazawa010.jpg",
+    "Detail"
+   ],
+   [
+    "File:美術館 (47983252343).jpg",
+    "Interior"
+   ],
+   [
+    "File:Blue Planet Sky at 21st Century Museum Kanazawa daytime.jpg",
+    "Interior"
+   ],
+   [
+    "File:Skylight at the 21st Century Museum of Contemporary Art, Kanazawa.jpg",
+    "Interior"
+   ],
+   [
+    "File:21st Century Museum Of Contemporary Art Kanazawa (118930731).jpeg",
+    "Context"
+   ]
   ]
  },
  "beijing-national-stadium": {
@@ -79,76 +631,2358 @@
   "more": [
    "Category:Exterior of Beijing National Stadium",
    "Category:Interior of Beijing National Stadium"
+  ],
+  "pick": [
+   [
+    "File:Beijing China Beijing-National-Stadium-02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Beijing national stadium 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Beijing China Beijing-National-Stadium-01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:20200109 Beijing National Stadium-3.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Beijing China Beijing-National-Stadium-03.jpg",
+    "Detail"
+   ],
+   [
+    "File:Beijing National Stadium from Hujing East Rd (20211124114921).jpg",
+    "Context"
+   ]
   ]
  },
  "louvre-abu-dhabi": {
-  "category": "Category:Louvre Abu Dhabi"
+  "category": "Category:Louvre Abu Dhabi",
+  "pick": [
+   [
+    "File:Louvre abu dhabi, esterno 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:LouvreAD water.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Louvre abu dhabi, interno, cortile coperto 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Louvre abu dhabi, interno, cortile coperto 03.jpg",
+    "Interior"
+   ],
+   [
+    "File:LouvreAD tree.jpg",
+    "Interior"
+   ],
+   [
+    "File:Visitors Louvre Abu Dhabi.jpg",
+    "Interior"
+   ],
+   [
+    "File:LouvreAD calligraphy.jpg",
+    "Detail"
+   ],
+   [
+    "File:Jean nouvel, modellino del louvre abu dhabi.jpg",
+    "Drawing"
+   ]
+  ]
  },
  "sancaklar-mosque": {
   "category": "Category:Sancaklar Camii",
   "more": [
    "Category:Minaret of the Sancaklar Mosque"
+  ],
+  "pick": [
+   [
+    "File:04 EAA Sancaklar-Mosque ph-Cemal-Emden full.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sancaklar Mosque and its minaret.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sancaklar Camii Minaresi.jpg",
+    "Detail"
+   ],
+   [
+    "File:Minaret of the Sancaklar Mosque II.jpg",
+    "Detail"
+   ]
   ]
  },
  "golconde": {
-  "category": "Category:Antonin Raymond"
+  "category": "Category:Antonin Raymond",
+  "pick": []
  },
  "gandhi-smarak-sangrahalaya": {
-  "category": "Category:Sabarmati Ashram"
+  "category": "Category:Sabarmati Ashram",
+  "pick": [
+   [
+    "File:Museum at Sabarmati Ashram (68841).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Gandhi Ashram - Gujarat - 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Museum at Sabarmati Ashram (57066).jpg",
+    "Interior"
+   ]
+  ]
  },
  "sangath": {
-  "category": "Category:Balkrishna Doshi"
+  "category": "Category:Balkrishna Doshi",
+  "pick": []
  },
  "aranya-low-cost-housing": {
-  "category": "Category:Balkrishna Doshi"
+  "category": "Category:Balkrishna Doshi",
+  "pick": []
  },
  "kanchanjunga-apartments": {
-  "category": "Category:Charles Correa"
+  "category": "Category:Charles Correa",
+  "pick": []
  },
  "centre-for-development-studies": {
   "category": "Category:Laurie Baker",
   "more": [
    "Category:Laurie Scott Baker",
    "Category:Laurie Baker Workshop"
-  ]
+  ],
+  "pick": []
  },
  "heritance-kandalama": {
-  "category": "Category:Geoffrey Bawa"
+  "category": "Category:Geoffrey Bawa",
+  "pick": [
+   [
+    "File:Heritance Kandalama Exterior View.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Kandalama Hotel, Dambulla-Arch.GeoffreyBawa-SriLanka.jpg",
+    "Exterior"
+   ]
+  ]
  },
  "kait-workshop": {
   "category": "Category:Kanagawa Institute of Technology",
   "more": [
    "Category:Junya Ishigami"
-  ]
+  ],
+  "pick": []
  },
  "icd-itke-research-pavilion-2012": {
   "category": "Category:ICD/ITKE Research Pavilion",
   "more": [
    "Category:Achim Menges"
-  ]
+  ],
+  "pick": []
  },
  "stacking-green": {
   "category": "Category:Vo Trong Nghia Architects",
   "more": [
    "Category:Võ Trọng Nghĩa"
-  ]
+  ],
+  "pick": []
  },
  "quinta-monroy": {
-  "category": "Category:Alejandro Aravena"
+  "category": "Category:Alejandro Aravena",
+  "pick": []
  },
  "moriyama-house": {
   "category": "Category:Ryue Nishizawa",
   "more": [
    "Category:SANAA"
-  ]
+  ],
+  "pick": []
  },
  "house-na": {
-  "category": "Category:Sou Fujimoto"
+  "category": "Category:Sou Fujimoto",
+  "pick": [
+   [
+    "File:House NA.jpg",
+    "Exterior"
+   ]
+  ]
  },
  "masp": {
-  "category": "Category:Museu de Arte de São Paulo"
+  "category": "Category:Museu de Arte de São Paulo",
+  "pick": [
+   [
+    "File:MASP Brazil.jpg",
+    "Exterior"
+   ],
+   [
+    "File:MASP São Paulo 2018 03.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Museu de Arte de São Paulo (MASP), São Paulo (SP).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Museu de Arte de São Paulo Assis Chateaubriand em Julho de 2025- Prédios novo e antigo do MASP.jpg",
+    "Exterior"
+   ],
+   [
+    "File:MASP São Paulo 2018 07.jpg",
+    "Interior"
+   ],
+   [
+    "File:MASP 2018 07.jpg",
+    "Context"
+   ],
+   [
+    "File:MASP 2018 09.jpg",
+    "Context"
+   ],
+   [
+    "File:Vista de São Paulo a partir do MASP em 31 de Julho de 2025.jpg",
+    "Context"
+   ]
+  ]
  },
  "fau-usp-building": {
-  "category": "Category:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo"
+  "category": "Category:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+  "pick": [
+   [
+    "File:Faculdade de Arquitetura e Urbanismo - USP 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:At Cidade Universitária Armando de Salles Oliveira 2023 098.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Edifício Vilanova Artigas (FAU-USP) 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Architecture and Urbanism College of University of São Paulo 2016 04.jpg",
+    "Interior"
+   ],
+   [
+    "File:Vista do Piso Caramelo FAU-USP.jpg",
+    "Interior"
+   ],
+   [
+    "File:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU ou FAUUSP), João Batista Vilanova Artigas (5878181762).jpg",
+    "Interior"
+   ],
+   [
+    "File:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU ou FAUUSP), João Batista Vilanova Artigas (5878179748).jpg",
+    "Detail"
+   ],
+   [
+    "File:At Cidade Universitária Armando de Salles Oliveira 2023 100.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "villa-savoye": {
+  "pick": [
+   [
+    "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg",
+    "Interior"
+   ],
+   [
+    "File:Villa Savoye (8237925975).jpg",
+    "Interior"
+   ],
+   [
+    "File:Les heures claires...^1 - Flickr - Biscarotte.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "notre-dame-du-haut": {
+  "pick": [
+   [
+    "File:Notre-Dame du Haut (86745712).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 26.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle intérieure rouge de la chapelle de Ronchamp octobre 2019.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle intérieure de la chapelle de Ronchamp octobre 2019.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 45.jpg",
+    "Interior"
+   ],
+   [
+    "File:Notre-Dame du Haut (86746486).jpg",
+    "Context"
+   ]
+  ]
+ },
+ "sainte-marie-de-la-tourette": {
+  "pick": [
+   [
+    "File:Koster La Tourette, Substruktion.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sainte-Marie de la Tourette, Untergeschoss. 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sainte-Marie de la Tourette, Untergeschoss. 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Nasrine Seraji.jpg",
+    "Interior"
+   ],
+   [
+    "File:La Tourette, Loggia Innenfassade, 1998.jpg",
+    "Interior"
+   ],
+   [
+    "File:Eveux - Couvent de La Tourette - Ceiling of the Church.jpg",
+    "Detail"
+   ],
+   [
+    "File:Kloster La Tourette, brise-soleil (1997).jpg",
+    "Detail"
+   ],
+   [
+    "File:La Tourette, Sections East-West, Plan + Axon.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "palace-of-assembly": {
+  "pick": [
+   [
+    "File:Palace of Assembly Chandigarh.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Chandigarh assembly building 01.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Palace of Assembly rear.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Palace of Assembly above.jpg",
+    "Context"
+   ],
+   [
+    "File:Corridor of legislative assembly.jpg",
+    "Interior"
+   ],
+   [
+    "File:Corbu's Entrance Palace of Assembly.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chandigarh Assembly Hall.jpg",
+    "Interior"
+   ],
+   [
+    "File:Corbu's Door Palace of Assembly.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "villa-tugendhat": {
+  "pick": [
+   [
+    "File:Brno, Vila Tugendhat.jpg",
+    "Exterior"
+   ],
+   [
+    "File:131027 Vila Tugendhat Brno 0545.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vila Tugendhat 198.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vila Tugendhat exterior Dvorak3.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Innenaufnahmen aus der Villa Tugendhat (05).jpg",
+    "Interior"
+   ],
+   [
+    "File:Innenaufnahmen aus der Villa Tugendhat (08).jpg",
+    "Interior"
+   ],
+   [
+    "File:Innenaufnahmen aus der Villa Tugendhat (03).jpg",
+    "Interior"
+   ],
+   [
+    "File:Innenaufnahmen aus der Villa Tugendhat (01).jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "farnsworth-house": {
+  "pick": [
+   [
+    "File:Farnsworth House by Mies Van Der Rohe - exterior-10.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Farnsworth House by Mies Van Der Rohe - exterior-5.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Farnsworth House 2006.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Farnsworth House by Mies Van Der Rohe - exterior-2.jpg",
+    "Interior"
+   ],
+   [
+    "File:Farnsworth House by Mies Van Der Rohe - exterior-4 (cropped).jpg",
+    "Detail"
+   ],
+   [
+    "File:Approaching Farnsworth House by Mies Van Der Rohe-3.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "s-r-crown-hall": {
+  "pick": [
+   [
+    "File:Crown Hall 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:S.R. Crown Hall.jpg",
+    "Exterior"
+   ],
+   [
+    "File:IIT SR Crown Building.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SR Crown Hall, IIT, Mies van der Rohe, 1957 (14160275072).jpg",
+    "Interior"
+   ],
+   [
+    "File:Interior Crown Hall.jpg",
+    "Interior"
+   ],
+   [
+    "File:Interior Crown Hall (Primera planta).jpg",
+    "Interior"
+   ],
+   [
+    "File:Crown Hall 1.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "seagram-building": {
+  "pick": [
+   [
+    "File:Seagram Building (35098307116).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Park Av May 2022 49.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Seagram Building. LOC gsc.5a16908.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Park Av May 2022 48.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Park Av May 2022 44.jpg",
+    "Detail"
+   ],
+   [
+    "File:Park Av May 2022 38.jpg",
+    "Detail"
+   ],
+   [
+    "File:Park Av Nov 2025 01.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "neue-nationalgalerie": {
+  "pick": [
+   [
+    "File:Neue Nationalgalerie-msu-2023-0I9A-8466-.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Die Neue Nationalgalerie - Flickr - abbilder.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Neue Nationalgalerie 2023 during renovation 02.jpg",
+    "Interior"
+   ],
+   [
+    "File:Neue Nationalgalerie 2023 during renovation 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Berlin - Neue Nationalgalerie (1).jpg",
+    "Detail"
+   ],
+   [
+    "File:Neue Nationalgalerie und Baugrube Museum des 20. Jahrhunderts Berlin-1798.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "fallingwater": {
+  "pick": [
+   [
+    "File:Fallingwater3.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fallingwater - DSC05613.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Fallingwater rear.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fallingwater - obývací pokoj 4.png",
+    "Interior"
+   ],
+   [
+    "File:Fallingwater - obývací pokoj 7.png",
+    "Interior"
+   ],
+   [
+    "File:Fallingwater - obývací pokoj 6.png",
+    "Detail"
+   ],
+   [
+    "File:Fallingwater, Mill Run, PA.jpg",
+    "Context"
+   ],
+   [
+    "File:Frank lloyd wright, modellino per fallingwater, 1935, 03.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "johnson-wax-headquarters": {
+  "pick": [
+   [
+    "File:Building, globe, and grounds of the S.C. Johnson and son headquarters building, designed by Frank Lloyd Wright, Racine, Wisconsin LCCN2011634906.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (A).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (Q).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Johnson Wax Company - 51333401027.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (D).jpg",
+    "Detail"
+   ],
+   [
+    "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (H).jpg",
+    "Detail"
+   ],
+   [
+    "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (N).jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "solomon-r-guggenheim-museum": {
+  "pick": [
+   [
+    "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (A).jpg",
+    "Exterior"
+   ],
+   [
+    "File:5 Av Sep 2022 118.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (L).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (U).jpg",
+    "Interior"
+   ],
+   [
+    "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (Q).jpg",
+    "Interior"
+   ],
+   [
+    "File:Guggenheim Ceiling (4688708110).jpg",
+    "Interior"
+   ],
+   [
+    "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (K).jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "rietveld-schroder-house": {
+  "pick": [
+   [
+    "File:Rietveld Schröder House.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Rietveld-Schroderhuis - 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Rietveld-Schroderhuis - 7.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Utrecht PrinsHendriklaan50 018 2308.jpg",
+    "Interior"
+   ],
+   [
+    "File:Utrecht PrinsHendriklaan50 018 2318.jpg",
+    "Interior"
+   ],
+   [
+    "File:Utrecht PrinsHendriklaan50 018 2313.jpg",
+    "Detail"
+   ],
+   [
+    "File:SchroderMaquette.jpg",
+    "Drawing"
+   ],
+   [
+    "File:RietveldSchroderPlans.png",
+    "Drawing"
+   ]
+  ]
+ },
+ "paimio-sanatorium": {
+  "pick": [
+   [
+    "File:Paimion parantolan päärakennus 2025 Marit Henriksson.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Unesco 2026 Paimion parantola Alvar Aalto.jpg",
+    "Context"
+   ],
+   [
+    "File:Paimio Sanatorium entrance.jpg",
+    "Exterior"
+   ],
+   [
+    "File:The terrace of Paimio Sanatorium.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Paimion parantola ravintola.jpg",
+    "Interior"
+   ],
+   [
+    "File:Paimion parantolan päärakennuksen ala-aula.jpg",
+    "Interior"
+   ],
+   [
+    "File:Paimion parantola room.jpg",
+    "Interior"
+   ],
+   [
+    "File:Alvar Aalto, Paimio Sanatorium, Bedroom lamp.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "saynatsalo-town-hall": {
+  "pick": [
+   [
+    "File:Säynätsalon kunnantalo.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Säynätsalo town hall grass stairs.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SaynatsaloTownHall3.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Säynätsalo town hall courtyard.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Säynätsalo Town Hall council chamber towards front.jpg",
+    "Interior"
+   ],
+   [
+    "File:Säynätsalon kunnantalo1.jpg",
+    "Interior"
+   ],
+   [
+    "File:Säynätsalo Town Hall council chamber rafters.jpg",
+    "Detail"
+   ],
+   [
+    "File:賽于奈察洛市政廳模型.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "glass-house": {
+  "pick": [
+   [
+    "File:Relacion con la quebrada.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Glass House 2006.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Glasshouse-philip-johnson.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Glass house front.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Phillip Johnson Glass House Window.jpg",
+    "Interior"
+   ],
+   [
+    "File:Philip johnson dining area.jpg",
+    "Interior"
+   ],
+   [
+    "File:MOMA Johnson Glass House2.jpg",
+    "Drawing"
+   ],
+   [
+    "File:Planta de la casa.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "salk-institute": {
+  "pick": [
+   [
+    "File:Louis Kahn's Salk Institute - 3040455466.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Salk Institute for Biological Studies and a seagull dllu.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Salk Institute Highsmith.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2019 Salk Institute north building from east.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2019 Salk Institute south building exterior passageway.jpg",
+    "Interior"
+   ],
+   [
+    "File:2019 Salk Institute north building stairs and skylight.jpg",
+    "Interior"
+   ],
+   [
+    "File:Salk Institute for Biological Studies and Bill Nye Quote dllu.jpg",
+    "Detail"
+   ],
+   [
+    "File:Chairs and table at Salk Institute dllu.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "phillips-exeter-academy-library": {
+  "pick": [
+   [
+    "File:Phillips-Exeter-Academy-Library-Exterior-Exeter-New-Hampshire-Apr-2014-b.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Phillips-Exeter-Academy-Library-Exterior-Exeter-New-Hampshire-Apr-2014-a.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Exeter Library Atrium 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Phillips Exeter Library, New Hampshire - Louis I. Kahn (1972)c.jpg",
+    "Interior"
+   ],
+   [
+    "File:Exeter Library Entrance 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Exeter Library Stair 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Exeter Library Arcade 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Exeter Library Facade 01.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "kimbell-art-museum": {
+  "pick": [
+   [
+    "File:Kimbell Art Museum Dusk Highsmith.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Fort Worth Cultural District June 2016 13 (Kimbell Art Museum).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Kimbell Art Museum Highsmith.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Kimbell Art Museum Fort Worth 02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Kimbell Art Museum January 2017 3.jpg",
+    "Interior"
+   ],
+   [
+    "File:Kimbell Art Museum interior 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:Kimbell Art Museum interior 04.jpg",
+    "Interior"
+   ],
+   [
+    "File:Fort Worth Cultural District June 2016 20 (Kimbell Art Museum).jpg",
+    "Context"
+   ]
+  ]
+ },
+ "boston-city-hall": {
+  "pick": [
+   [
+    "File:Boston City Hall May 2026.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Boston city hall.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Boston City Hall at night north side March 2025.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Boston City Hall courtyard at night northwest corner March 2025 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Boston City Hall at night west side March 2025 1.jpg",
+    "Detail"
+   ],
+   [
+    "File:Boston City Hall at night southwest corner March 2025 4.jpg",
+    "Detail"
+   ],
+   [
+    "File:Boston City Hall aerial 2019 P1020786.jpg",
+    "Context"
+   ],
+   [
+    "File:Boston City Hall 01.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "yoyogi-national-gymnasium": {
+  "pick": [
+   [
+    "File:Yoyogi National Gymnasium in Tobu World Square.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Gym stadium @ Harajuku (8972770585).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Yoyogi-National-Gymnasium-01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:屹立 - Flickr - sgryjp.jpg",
+    "Detail"
+   ],
+   [
+    "File:Construção em Shibuya.jpg",
+    "Detail"
+   ],
+   [
+    "File:Views from Shibuya Scramble Square 20200113-2.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "habitat-67": {
+  "pick": [
+   [
+    "File:Habitat 67 2019 dllu 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Habitat 67 @ Cité du Havre @ Montréal (29906899563).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Habitat 67 @ Cité du Havre @ Montréal (29906846283).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Habitat 67 @ Cité du Havre @ Montréal (29909577124).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Habitat 67 (8126651971).jpg",
+    "Detail"
+   ],
+   [
+    "File:Habitat 67 (8126524016).jpg",
+    "Detail"
+   ],
+   [
+    "File:Habitat 67 (8126560925).jpg",
+    "Detail"
+   ],
+   [
+    "File:Habitat 67 @ Cité du Havre @ Montréal (29909599964).jpg",
+    "Context"
+   ]
+  ]
+ },
+ "sesc-pompeia": {
+  "pick": [
+   [
+    "File:Sesc Pompeia.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SESC Pompéia, Arq. Lina Bo Bardi (11227340744).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sesc Pompéia - panoramio.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SESC Pompeia - São Paulo - 20220726142228.jpg",
+    "Exterior"
+   ],
+   [
+    "File:SESC Pompeia - São Paulo - 20220726141521.jpg",
+    "Interior"
+   ],
+   [
+    "File:SESC Pompeia - São Paulo - 20220726141931.jpg",
+    "Context"
+   ],
+   [
+    "File:SESC Pompéia, Arq. Lina Bo Bardi (11256675433).jpg",
+    "Detail"
+   ],
+   [
+    "File:Vista inferior das passarelas do Sesc Pompeia.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "trellick-tower": {
+  "pick": [
+   [
+    "File:Greater London - Trellick Tower - 2025-09-21 23-50-45 001.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2002-05-Trellick-Tower-London.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Trellick Tower 05.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Trellick Tower 03.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Trellick Tower 07.JPG",
+    "Detail"
+   ],
+   [
+    "File:Trellick Tower 2.jpg",
+    "Detail"
+   ],
+   [
+    "File:Trellick Tower, North Kensington - geograph.org.uk - 7636452.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "barbican-estate": {
+  "pick": [
+   [
+    "File:1352667 II BARBICAN, Brandon Mews City of London London 20250613 0003.jpg",
+    "Exterior"
+   ],
+   [
+    "File:1352667 II BARBICAN, City of London School for girls City of London London 20250613 0002.jpg",
+    "Exterior"
+   ],
+   [
+    "File:1352667 II BARBICAN, Defoe House City of London London 20250613 0005.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barbican Estate 2018-09-22.jpg",
+    "Context"
+   ],
+   [
+    "File:1352667 II BARBICAN, Frobisher Crecsent City of London London 20250613 0001.jpg",
+    "Interior"
+   ],
+   [
+    "File:1352667 II BARBICAN, Frobisher Crecsent City of London London 20250613 0003.jpg",
+    "Interior"
+   ],
+   [
+    "File:1352667 II BARBICAN, Defoe House, Defoe House City of London London 20250613 0008.jpg",
+    "Detail"
+   ],
+   [
+    "File:1001668 II Star BARBICAN, Lake City of London London 20250613 0001.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "sydney-opera-house": {
+  "pick": [
+   [
+    "File:Sydney Opera House (Back).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sydney Opera House (Front 2).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sydney Opera House (30111403413).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sydney Opera House 5 (30049535703).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sydney Opera House interior tour, 2023, 11.jpg",
+    "Interior"
+   ],
+   [
+    "File:Sydney Opera House interior tour, 2023, 07.jpg",
+    "Interior"
+   ],
+   [
+    "File:Opera from close.jpg",
+    "Detail"
+   ],
+   [
+    "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "bagsvaerd-church": {
+  "pick": [
+   [
+    "File:Bagsværd Church.11.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bagsværd Church.12.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bagsværd Kirke - Jørn Utzon - 1973-1976 - panoramio (1).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bagsv1.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Bagsværd Church vaults.jpg",
+    "Interior"
+   ],
+   [
+    "File:Bagsværd Church interior July 2007.jpg",
+    "Interior"
+   ],
+   [
+    "File:Bagsværd Church- Corridor.jpg",
+    "Interior"
+   ],
+   [
+    "File:Jørn utzon, bagsværd kirke - bagsvaerd church, copenhagen 1967-1976. detail of door. (5929927094).jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "nakagin-capsule-tower": {
+  "pick": [
+   [
+    "File:Nakagin.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51473787673).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51473243302).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51472770407).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51474017466).jpg",
+    "Detail"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51473711146).jpg",
+    "Detail"
+   ],
+   [
+    "File:Nakagin Capsule Tower (51473249937).jpg",
+    "Context"
+   ]
+  ]
+ },
+ "cept-university": {
+  "pick": [
+   [
+    "File:CEPT SBST.JPG",
+    "Exterior"
+   ],
+   [
+    "File:CEPT University.JPG",
+    "Exterior"
+   ],
+   [
+    "File:CEPT - 1, Ahmedabad.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Cept.JPG",
+    "Exterior"
+   ],
+   [
+    "File:CEPT Campus, entrance area near sagra basement.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CEPT Upperstairs ....JPG",
+    "Interior"
+   ],
+   [
+    "File:CEPT.JPG",
+    "Detail"
+   ],
+   [
+    "File:Campus-cept.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "jawahar-kala-kendra": {
+  "pick": [
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 13.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 12.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 19.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 16.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 14.jpg",
+    "Interior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 09.jpg",
+    "Interior"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 05.jpg",
+    "Detail"
+   ],
+   [
+    "File:2022 July - JawaharKalaKendra Jaipur 07.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "can-lis": {
+  "pick": [
+   [
+    "File:Can Lis2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Utzon Can Lis.jpg",
+    "Exterior"
+   ]
+  ]
+ },
+ "castelvecchio-museum": {
+  "pick": [
+   [
+    "File:Castelvecchio-XE3F2356a.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Castelvecchio-Esterno Museo-XE3F2477a.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Verona, castelvecchio, museo 12.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 04.jpg",
+    "Detail"
+   ],
+   [
+    "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 05.jpg",
+    "Detail"
+   ],
+   [
+    "File:Museo castelvecchio IMG 5671.jpg",
+    "Interior"
+   ],
+   [
+    "File:Museo Castelvecchio Interni.jpg",
+    "Interior"
+   ],
+   [
+    "File:Museo castelvecchio 170151.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "brion-cemetery": {
+  "pick": [
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 021.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 005.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 017.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 003.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 023.jpg",
+    "Interior"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 004.jpg",
+    "Detail"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 007.jpg",
+    "Detail"
+   ],
+   [
+    "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 014.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "kolumba-museum": {
+  "pick": [
+   [
+    "File:St. Kolumba Köln - Diözesanmuseum - Ausgrabungen 1.jpg",
+    "Interior"
+   ],
+   [
+    "File:Sankta Kolumba Church.jpg",
+    "Interior"
+   ],
+   [
+    "File:Kolumba (museum) Treppe.jpg",
+    "Interior"
+   ],
+   [
+    "File:Treppe im Kolumba von Peter Zumthor.jpg",
+    "Interior"
+   ],
+   [
+    "File:Kolumba Köln - Raum 21 (Südturm).jpg",
+    "Interior"
+   ],
+   [
+    "File:Gottfried böhm, kolumba chapel extension 1956 (3460863882).jpg",
+    "Detail"
+   ],
+   [
+    "File:Kolumba, Köln, Ausstellung 2023-24, Raum 18.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "mill-owners-association-building": {
+  "pick": [
+   [
+    "File:ATMA House 186.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Mill Owners' Association Building.jpeg",
+    "Exterior"
+   ],
+   [
+    "File:Lucien Hervé Mill Owners' Association Building.jpg",
+    "Interior"
+   ],
+   [
+    "File:03016 - AHMEDABAD - Asociación hilanderos (arq. LE CORBUSIER).jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "eames-house": {
+  "pick": [
+   [
+    "File:Case Study House 8 (Eames House) (49842597642).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Case Study House 8 (Eames House) (49841752358).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Eames House (14202727352).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Case Study House 8 (Eames House) (49842292831).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Eames House (14018569787).jpg",
+    "Detail"
+   ],
+   [
+    "File:Case Study House 8 (Eames House) (49842290206).jpg",
+    "Context"
+   ],
+   [
+    "File:Isometricas Casa Eames.jpg",
+    "Drawing"
+   ],
+   [
+    "File:Taller Casa Eames.JPG",
+    "Drawing"
+   ]
+  ]
+ },
+ "iim-ahmedabad": {
+  "pick": [
+   [
+    "File:Fauna on campus 7.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Fauna on campus 5.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Indian Institute of Management Ahmedabad, entrance stairs.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Indian Institute of Management Ahmedabad, corridor in old campus classroom block.jpg",
+    "Interior"
+   ],
+   [
+    "File:IIM-INDIAN INSTITUTE OF MANAGEMENT.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "church-of-the-light": {
+  "pick": [
+   [
+    "File:Ibaraki Kasugaoka Church 20080914.jpg",
+    "Interior"
+   ],
+   [
+    "File:Church of Light.JPG",
+    "Interior"
+   ],
+   [
+    "File:Church of the Light.jpg",
+    "Detail"
+   ],
+   [
+    "File:Church of the Light model.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "teshima-art-museum": {
+  "pick": [
+   [
+    "File:Teshima Art Museum (8797572559).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Teshima Art Museum 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Teshima Art Museum 06.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Teshima Museum Ryue Nishizawa Rei Naito 3.JPG",
+    "Interior"
+   ],
+   [
+    "File:Teshima Museum Ryue Nishizawa Rei Naito 2.JPG",
+    "Interior"
+   ],
+   [
+    "File:Teshima Art Museum 05.jpg",
+    "Detail"
+   ],
+   [
+    "File:Teshima Art Museum - panoramio.jpg",
+    "Context"
+   ],
+   [
+    "File:Teshima Art Museum (8808173754).jpg",
+    "Context"
+   ]
+  ]
+ },
+ "centre-pompidou": {
+  "pick": [
+   [
+    "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Centre Pompidou @ Jardin Anne-Frank.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Lüftungsrohre Place George Pompidou Paris.jpg",
+    "Detail"
+   ],
+   [
+    "File:Interior of the Centre Georges-Pompidou, Paris 15 August 2021.jpg",
+    "Interior"
+   ],
+   [
+    "File:Interior of the Centre Georges-Pompidou (26635176448).jpg",
+    "Interior"
+   ],
+   [
+    "File:Place Georges-Pompidou (29564030112).jpg",
+    "Context"
+   ],
+   [
+    "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 2.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "lloyds-building": {
+  "pick": [
+   [
+    "File:Lloyd's Building, London.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Lloyd's (15150004935).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Lloyd's building (17016743592).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Lloyd's building entrance 2025-02-10.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Lloyd's Building - Atrium 11th floor looking at the Walkie-Talkie.jpg",
+    "Interior"
+   ],
+   [
+    "File:Lloyd's Building - Escalators fisheye.jpg",
+    "Interior"
+   ],
+   [
+    "File:Lloyd's building windows 2025-02-10.jpg",
+    "Detail"
+   ],
+   [
+    "File:London MMB »2D8 Lloyds Building.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "hsbc-main-building": {
+  "pick": [
+   [
+    "File:HSBC HK Headquarters.jpg",
+    "Exterior"
+   ],
+   [
+    "File:HSBC Building 2016.jpg",
+    "Exterior"
+   ],
+   [
+    "File:HSBC Building (Hong Kong) 20170808.jpg",
+    "Exterior"
+   ],
+   [
+    "File:HSBC Building & Bank of China Tower 20170808.jpg",
+    "Context"
+   ],
+   [
+    "File:Hong Kong HSBC headquarters building IMG 5376.JPG",
+    "Interior"
+   ],
+   [
+    "File:Hong Kong HSBC headquarters building IMG 5379.JPG",
+    "Interior"
+   ],
+   [
+    "File:Hong Kong HSBC headquarters building IMG 5371.JPG",
+    "Interior"
+   ],
+   [
+    "File:13-08-08-hongkong-by-RalfR-087.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "vitra-fire-station": {
+  "pick": [
+   [
+    "File:Baden-Württemberg Weil am Rhein Vitra Fire station 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Feuerwehrhaus von Zaha Hadid bei Vitra in Weil am Rhein an der Álvaro-Siza-Promenade 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vitra Feuerwehrhaus von Zaha Hadid in Weil am Rhein 4.jpg",
+    "Exterior"
+   ],
+   [
+    "File:VitraFireStation-pjt1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2025-04-02 GV RegBas Fuehrung Vitra 042.jpg",
+    "Interior"
+   ],
+   [
+    "File:2025-04-02 GV RegBas Fuehrung Vitra 041.jpg",
+    "Interior"
+   ],
+   [
+    "File:VitraCampus HadidFireStation-pjt2.jpg",
+    "Detail"
+   ],
+   [
+    "File:Feuerwehrhaus von Zaha Hadid bei Vitra in Weil am Rhein, rechts Fabrikgebäude von Álvaro Siza.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "guggenheim-bilbao": {
+  "pick": [
+   [
+    "File:Bilbao - Museo Guggenheim 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bilbao - Ria.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bilbao Guggenheim 3.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bilbao Guggenheim 1190433.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Detail of the Guggenheim Museum staircase, Bilbao, Spain (PPL3-Altered) julesvernex2.jpg",
+    "Interior"
+   ],
+   [
+    "File:Detail of the Guggenheim Museum entrance, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg",
+    "Detail"
+   ],
+   [
+    "File:Detail of the Guggenheim Museum titanium façade, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg",
+    "Detail"
+   ],
+   [
+    "File:Dusk at Bilbao.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "tate-modern": {
+  "pick": [
+   [
+    "File:Tate Modern London June 2016.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Tate Modern art gallery.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Tate Modern, Londres, Inglaterra, 2014-08-11, DD 124.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Entrance to the Tate Modern art gallery.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Tate Modern - 2017-04-02.jpg",
+    "Interior"
+   ],
+   [
+    "File:Exterior of Tate Modern (January 2024) 05.jpg",
+    "Detail"
+   ],
+   [
+    "File:Tate Modern, London, United Kingdom (Unsplash Cpua1M7HJ9I).jpg",
+    "Detail"
+   ],
+   [
+    "File:Tate Modern and Millennium Bridge 2025-09-20.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "jewish-museum-berlin": {
+  "pick": [
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 082.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 084.jpg",
+    "Exterior"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 076.jpg",
+    "Context"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 083.jpg",
+    "Context"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 078.jpg",
+    "Detail"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 018.jpg",
+    "Interior"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 024.jpg",
+    "Interior"
+   ],
+   [
+    "File:2026-04-26 Juedisches Museum Berlin 012.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "seattle-central-library": {
+  "pick": [
+   [
+    "File:Seattle Library 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Seattle Central Library (5763011359).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Seattle Central Library from Fourth & Madison Building - Nov 2024.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Seattle Central Library 03.jpg",
+    "Interior"
+   ],
+   [
+    "File:Seattle Central Library 05.jpg",
+    "Interior"
+   ],
+   [
+    "File:Seattle Central Library 08.jpg",
+    "Interior"
+   ],
+   [
+    "File:Seattle Public Library-Central Library, Seattle, United States (Unsplash).jpg",
+    "Detail"
+   ],
+   [
+    "File:Seattle Central Library at Night.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "casa-da-m-sica": {
+  "pick": [
+   [
+    "File:Casa da Música - Porto, Portugal, 2012 - 001.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória - Casa da Música - 2025-10-27 23-20-51 001.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória - Casa da Música - 2025-10-27 23-33-38 004.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Casa da Música 2026 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Casa da Música (9999283364) (2).jpg",
+    "Interior"
+   ],
+   [
+    "File:Staircase Detail at Casa da Música, Porto, Portugal (54830746945).jpg",
+    "Interior"
+   ],
+   [
+    "File:Casa da Música (9999416633) (2).jpg",
+    "Detail"
+   ],
+   [
+    "File:Linhas na Casa da Música.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "oslo-opera-house": {
+  "pick": [
+   [
+    "File:Oslo Opera House 2023 2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Oslo Opera 2019-09.jpg",
+    "Exterior"
+   ],
+   [
+    "File:New Opera in Oslo.jpg",
+    "Exterior"
+   ],
+   [
+    "File:People walking up the Oslo Opera House slopped roof (29879239065).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Entrance to the Oslo Opera House.jpg",
+    "Detail"
+   ],
+   [
+    "File:Den Norske Opera og Ballett Oslo 2026-01-14 01.jpg",
+    "Context"
+   ],
+   [
+    "File:Oslo Opera House (Den Norske Opera & Ballett), Norway.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "8-house": {
+  "pick": [
+   [
+    "File:CPH - 8 House.jpg",
+    "Exterior"
+   ],
+   [
+    "File:København - 8Tallet (30911190821).jpg",
+    "Exterior"
+   ],
+   [
+    "File:8-tallet (16720752420).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Bjarke ingels group, BIG, bighouse or 8-tallet, copenhagen 2006-2010 (4580622163).jpg",
+    "Exterior"
+   ],
+   [
+    "File:8 House.jpg",
+    "Exterior"
+   ],
+   [
+    "File:8-tallet (16720800390).jpg",
+    "Detail"
+   ],
+   [
+    "File:København - 8Tallet (30911198421).jpg",
+    "Detail"
+   ],
+   [
+    "File:København - 8Tallet (30964308766).jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "cctv-headquarters": {
+  "pick": [
+   [
+    "File:Beijing CCTV building.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CCTV Headquarters 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:CCTV Tower (11523985946).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Chinese Central Television Headquarters (9870574736).jpg",
+    "Exterior"
+   ],
+   [
+    "File:CCTV Headquarters.jpg",
+    "Context"
+   ],
+   [
+    "File:CCTV Guanghualu Building with sunset through (20220920175511).jpg",
+    "Context"
+   ],
+   [
+    "File:China Central Television HQ, from China World Trade Centre.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "elbphilharmonie": {
+  "pick": [
+   [
+    "File:Elbphilharmonie 17.jpg",
+    "Exterior"
+   ],
+   [
+    "File:\"Cap San Diego\" & Elbphilharmonie (Hamburg, 2019).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Elbphilharmonie, Hamburg (39622566014).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Observation Deck, Elbphilharmonie, Hamburg (48831304563).jpg",
+    "Detail"
+   ],
+   [
+    "File:Elbphilharmonie2026.jpg",
+    "Context"
+   ],
+   [
+    "File:Elbphilharmonie Eastside View With Sandtorkai Quay Magellan Terraces Sandtorpark 2022-06-04 16-32.jpg",
+    "Context"
+   ]
+  ]
+ },
+ "maxxi": {
+  "pick": [
+   [
+    "File:Roma - MAXXI - Museo nazionale delle arti del XXI secolo - Atrio.jpeg",
+    "Exterior"
+   ],
+   [
+    "File:MAXXI Museum interior 05.JPG",
+    "Interior"
+   ],
+   [
+    "File:MAXXI Museum interior 04.JPG",
+    "Interior"
+   ],
+   [
+    "File:MAXXI Museum interior 06.JPG",
+    "Interior"
+   ],
+   [
+    "File:MAXXI Museum interior 09.JPG",
+    "Interior"
+   ],
+   [
+    "File:Roma - MAXXI - Museo nazionale delle arti del XXI secolo - Curve.jpeg",
+    "Detail"
+   ],
+   [
+    "File:Roma - MAXXI - Museo nazionale delle arti del XXI secolo - Passi di danza.jpeg",
+    "Detail"
+   ]
+  ]
+ },
+ "metropol-parasol": {
+  "pick": [
+   [
+    "File:Metropol Parasol Plaza de la Encarnación 1.jpg",
+    "Exterior"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 06.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Sevilla - Metropol Parasol & Iglesia de la Anunciación.jpg",
+    "Exterior"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 09.jpg",
+    "Exterior"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 16.jpg",
+    "Context"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 18.jpg",
+    "Context"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 12.jpg",
+    "Context"
+   ],
+   [
+    "File:\"Das größte Holzbauwerk der Welt\". 03.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "heydar-aliyev-center": {
+  "pick": [
+   [
+    "File:HEIDAR ALIYEV CENTER WIDE ANGLE.זווית רחבה מרכז היידר אלייב.jpg",
+    "Exterior"
+   ],
+   [
+    "File:HEIDAR ALIYEV CENTER AND GARDENS.מרכז היידר אלייב והדשא.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Heydar Aliyev Center, Baku - HyderAliyevCenter8319.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Heydar Aliev Center Interior1.jpg",
+    "Interior"
+   ],
+   [
+    "File:Heydar Aliev Interior 2.jpg",
+    "Interior"
+   ],
+   [
+    "File:Heydar Aliev Interior 3.jpg",
+    "Interior"
+   ],
+   [
+    "File:Heydar Aliyev Center 1.2.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "high-line": {
+  "pick": [
+   [
+    "File:New York City High Line - Urban Forestry - 20150915-OSEC-LSC-0172 (20976525663).jpg",
+    "Exterior"
+   ],
+   [
+    "File:High Line New York City 2018 03.jpg",
+    "Exterior"
+   ],
+   [
+    "File:High Line New York City 2018 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:30th St 10h Av td (2018-08-16) 05 - High Line Spur.jpg",
+    "Exterior"
+   ],
+   [
+    "File:High Line New York City 2018 02.jpg",
+    "Detail"
+   ],
+   [
+    "File:23rd St 10th Av td (2018-11-27) 24 - High Line.jpg",
+    "Context"
+   ],
+   [
+    "File:At New York City 2023 028.jpg",
+    "Context"
+   ],
+   [
+    "File:Sanborn Manhattan V. 1 Plate 064 publ. 1905.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "superkilen": {
+  "pick": [
+   [
+    "File:Superkilen2.JPG",
+    "Exterior"
+   ],
+   [
+    "File:København - Superkilen (22820623908).jpg",
+    "Exterior"
+   ],
+   [
+    "File:København - Superkilen (30697532790).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Copenhagen is my favourite place. This is Nørrebro and Superkilen (explore) - Flickr - Maria Eklind.jpg",
+    "Detail"
+   ],
+   [
+    "File:Superkilen - Busstoppested fra Kazakhstan 01.jpg",
+    "Detail"
+   ],
+   [
+    "File:Lonely basketball - panoramio.jpg",
+    "Context"
+   ],
+   [
+    "File:Superkilen plan.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "bosco-verticale": {
+  "pick": [
+   [
+    "File:ComplessoPortaNuova.JPG",
+    "Context"
+   ]
+  ]
+ },
+ "zeitz-mocaa": {
+  "pick": [
+   [
+    "File:Zeitz Museum of Contemporary Art Africa.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cape Town (ZA), Waterfront, Zeitz Museum of Contemporary Art Africa -- 2024 -- 2980.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Exterior Zeitz MOCAA - Museum of Contermporary Art Africa.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Skylights inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg",
+    "Interior"
+   ],
+   [
+    "File:Cross-section of the shafts inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg",
+    "Interior"
+   ],
+   [
+    "File:Corridors leading from shaft inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg",
+    "Interior"
+   ],
+   [
+    "File:Zeitz Museum of Contemporary Art Kapstadt.jpg",
+    "Context"
+   ],
+   [
+    "File:Cosmic Letter-Zeitz.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "pantheon": {
+  "pick": [
+   [
+    "File:Roma - Pantheon at dusk - in 2024.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Pantheon portico and dome, Rome.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Πάνθεον Ρώμης 2025-10-12 1987.jpg",
+    "Context"
+   ],
+   [
+    "File:Roma - Pantheon - in 2024 v05.jpg",
+    "Interior"
+   ],
+   [
+    "File:Roma - Pantheon - in 2024 v06.jpg",
+    "Interior"
+   ],
+   [
+    "File:Roma - Pantheon - in 2024 v04.jpg",
+    "Interior"
+   ],
+   [
+    "File:Πάνθεον Ρώμης 2025-10-14 0377.jpg",
+    "Detail"
+   ],
+   [
+    "File:Πάνθεον Ρώμης 2025-10-14 0387.jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "katsura-imperial-villa": {
+  "pick": [
+   [
+    "File:Katsura Rikyu (3264691732).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Katsura Rikyu (3263863817).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Katsura Rikyu (3263873905).jpg",
+    "Context"
+   ],
+   [
+    "File:Katsura Rikyu (3263860073).jpg",
+    "Context"
+   ],
+   [
+    "File:(Wooden structure in pond outside Shōkintei in Katsura Imperial Villa, Japan) - DPLA - 4dae02e5e8d1dd21841f166bee7d9aec.jpg",
+    "Detail"
+   ],
+   [
+    "File:Manji tei.png",
+    "Interior"
+   ],
+   [
+    "File:Katsura-Plan.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "alhambra": {
+  "pick": [
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 15.jpg",
+    "Exterior"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 22.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Barrio Castrense, Alhambra 2025.jpg",
+    "Context"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 19.jpg",
+    "Interior"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 08.jpg",
+    "Interior"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 13.jpg",
+    "Interior"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 32.jpg",
+    "Detail"
+   ],
+   [
+    "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 07.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "chand-baori": {
+  "pick": [
+   [
+    "File:Abaneri-Chand Baori PN-20131018.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-12-Stufenbrunnen-2018-gje.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-17b-Stufenbrunnen-2018-gje.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-08-Stufenbrunnen-2018-gje.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-02-Galerie-2018-gje.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-06-Galerie-2018-gje.jpg",
+    "Interior"
+   ],
+   [
+    "File:Abhaneri-Chand Baori-20-Stufenbrunnen-2018-gje.jpg",
+    "Detail"
+   ],
+   [
+    "File:Chand baori stepwell.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "villa-la-rotonda": {
+  "pick": [
+   [
+    "File:Vicenza - Villa Almerico Capra (La Rotonda) -.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vicenza, La Rotonda (4).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vicenza, La Rotonda (3).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vicenza, La Rotonda, interno (06).jpg",
+    "Interior"
+   ],
+   [
+    "File:Vicenza, La Rotonda, interno (05).jpg",
+    "Interior"
+   ],
+   [
+    "File:Vicenza, La Rotonda, interno (08).jpg",
+    "Interior"
+   ],
+   [
+    "File:Vicenza - Villa Almerico Capra (La Rotonda) - interno.jpg",
+    "Interior"
+   ],
+   [
+    "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg",
+    "Drawing"
+   ]
+  ]
  }
 }
