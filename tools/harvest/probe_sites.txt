@@ -1,0 +1,57 @@
+== wikiarquitectura (wp-json) | Salk Institute | OK 1939 bytes
+[{"id": 128060, "title": "Salk Institute for Biological Studies", "url": "https://en.wikiarquitectura.com/building/salk-institute-for-biological-studies/", "type": "post", "subtype": "building", "_links": {"self": [{"embeddable": true, "href": "https://en.wikiarquitectura.com/wp-json/wp/v2/building/128060", "targetHints": {"allow": ["GET"]}}], "about": [{"href": "https://en.wikiarquitectura.com/wp-json/wp/v2/types/building"}], "collection": [{"href": "https://en.wikiarquitectura.com/wp-json/wp/v2/search"}]}}, {"id": 216210, "title": "Barcelona Biomedical Research Park", "url": "https://en.wiki
+
+== wikiarquitectura (wp-json) | Villa Savoye | OK 2355 bytes
+[{"id": 186485, "title": "Villa Savoye", "url": "https://en.wikiarquitectura.com/building/villa-savoye/", "type": "post", "subtype": "building", "_links": {"self": [{"embeddable": true, "href": "https://en.wikiarquitectura.com/wp-json/wp/v2/building/186485", "targetHints": {"allow": ["GET"]}}], "about": [{"href": "https://en.wikiarquitectura.com/wp-json/wp/v2/types/building"}], "collection": [{"href": "https://en.wikiarquitectura.com/wp-json/wp/v2/search"}]}}, {"id": 316967, "title": "Villa Figini", "url": "https://en.wikiarquitectura.com/building/villa-figini/", "type": "post", "subtype": "bu
+
+== dezeen (wp-json) | Salk Institute | ERROR HTTP Error 403: Forbidden
+
+== dezeen (wp-json) | Villa Savoye | ERROR HTTP Error 403: Forbidden
+
+== archdaily (api) | Salk Institute | OK 819178 bytes
+{"aggregations": {"materials": [{"name": "Concrete", "doc_count": 5290}, {"name": "Steel", "doc_count": 3689}, {"name": "Wood", "doc_count": 3390}, {"name": "Glass", "doc_count": 2709}, {"name": "Brick", "doc_count": 1080}, {"name": "Other", "doc_count": 793}, {"name": "Stone", "doc_count": 635}, {"name": "Fabric", "doc_count": 96}, {"name": "Plastic", "doc_count": 93}], "year": [{"name": "2019", "doc_count": 1017}, {"name": "2018", "doc_count": 940}, {"name": "2017", "doc_count": 847}, {"name": "2021", "doc_count": 827}, {"name": "2020", "doc_count": 778}, {"name": "2022", "doc_count": 760}, 
+
+== archdaily (api) | Villa Savoye | OK 796648 bytes
+{"aggregations": {"materials": [{"name": "Concrete", "doc_count": 3452}, {"name": "Wood", "doc_count": 2799}, {"name": "Steel", "doc_count": 1699}, {"name": "Glass", "doc_count": 1347}, {"name": "Brick", "doc_count": 915}, {"name": "Stone", "doc_count": 672}, {"name": "Other", "doc_count": 438}, {"name": "Plastic", "doc_count": 53}, {"name": "Fabric", "doc_count": 28}], "year": [{"name": "2016", "doc_count": 752}, {"name": "2019", "doc_count": 658}, {"name": "2018", "doc_count": 565}, {"name": "2020", "doc_count": 551}, {"name": "2017", "doc_count": 530}, {"name": "2021", "doc_count": 516}, {"
+
+== archdaily (html) | Salk Institute | OK 863955 bytes
+<!DOCTYPE html> <html lang="en-US" >   <head>      <!-- Google Tag Manager -->     <script>       window.dataLayer = window.dataLayer || [];       window.dataLayer.push({         platform: "ad",         appId: "search"       });        // Read userId from cookie and add to dataLayer before GTM loads       function getCookie(name) {         var nameEQ = name + "=";         var ca = document.cookie.split(';');         for (var i = 0; i < ca.length; i++) {           var c = ca[i];           while (c.charAt(0) == ' ') c = c.substring(1, c.length);           if (c.indexOf(nameEQ) == 0) return c.sub
+
+== archdaily (html) | Villa Savoye | OK 863949 bytes
+<!DOCTYPE html> <html lang="en-US" >   <head>      <!-- Google Tag Manager -->     <script>       window.dataLayer = window.dataLayer || [];       window.dataLayer.push({         platform: "ad",         appId: "search"       });        // Read userId from cookie and add to dataLayer before GTM loads       function getCookie(name) {         var nameEQ = name + "=";         var ca = document.cookie.split(';');         for (var i = 0; i < ca.length; i++) {           var c = ca[i];           while (c.charAt(0) == ' ') c = c.substring(1, c.length);           if (c.indexOf(nameEQ) == 0) return c.sub
+
+== divisare (html) | Salk Institute | OK 101731 bytes
+<!DOCTYPE html> <html lang="en"> <head>   <meta charset="utf-8" />   <meta name="viewport" content="width=device-width, initial-scale=1.0" />   <title>Search · Divisare </title>   <meta name="description" content="Since 1998 the Web Atlas of Contemporary Architecture">            <meta name="keywords" content="Divisare, divisare.com, Europaconcorsi, europaconcorsi.com, architecture, architect, architects, project, projects, competition, competitions, design, designer, designers">   <link rel="stylesheet" media="all" href="/assets/application-fc191d9c89317bacebb21c94304c053cb388df7a622ced604af6
+
+== divisare (html) | Villa Savoye | OK 107628 bytes
+<!DOCTYPE html> <html lang="en"> <head>   <meta charset="utf-8" />   <meta name="viewport" content="width=device-width, initial-scale=1.0" />   <title>Search · Divisare </title>   <meta name="description" content="Since 1998 the Web Atlas of Contemporary Architecture">            <meta name="keywords" content="Divisare, divisare.com, Europaconcorsi, europaconcorsi.com, architecture, architect, architects, project, projects, competition, competitions, design, designer, designers">   <link rel="stylesheet" media="all" href="/assets/application-fc191d9c89317bacebb21c94304c053cb388df7a622ced604af6
+
+== architectuul (html) | Salk Institute | OK 49658 bytes
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><title>Search | Architectuul</title><meta name="description" content=""><meta name="robots" content="index,follow"><meta name="googlebot" content="index,follow"><meta http-equiv="x-ua-compatible" content="ie=edge"><link rel="stylesheet" href="https://architectuul.com/src/css/site.css"><link rel="icon" sizes="192x192" href="https://architectuul.com/src/gfx/favicon.png"><meta property="og:url" content="https://architectuul.com/search?q=Salk%20Inst
+
+== architectuul (html) | Villa Savoye | OK 49654 bytes
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><title>Search | Architectuul</title><meta name="description" content=""><meta name="robots" content="index,follow"><meta name="googlebot" content="index,follow"><meta http-equiv="x-ua-compatible" content="ie=edge"><link rel="stylesheet" href="https://architectuul.com/src/css/site.css"><link rel="icon" sizes="192x192" href="https://architectuul.com/src/gfx/favicon.png"><meta property="og:url" content="https://architectuul.com/search?q=Villa%20Sav
+
+== arquitecturaviva (html) | Salk Institute | ERROR HTTP Error 404: Not Found
+
+== arquitecturaviva (html) | Villa Savoye | ERROR HTTP Error 404: Not Found
+
+== domus (html) | Salk Institute | ERROR HTTP Error 404: Not Found
+
+== domus (html) | Villa Savoye | ERROR HTTP Error 404: Not Found
+
+== architectural-review (wp-json) | Salk Institute | ERROR HTTP Error 403: Forbidden
+
+== architectural-review (wp-json) | Villa Savoye | ERROR HTTP Error 403: Forbidden
+
+== bing rss | Salk Institute | OK 5428 bytes
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0"><channel><title>Bing: Salk Institute site:archdaily.com</title><link>http://www.bing.com:80/search?q=Salk+Institute+site%3aarchdaily.com</link><description>Search results</description><image><url>http://www.bing.com:80/s/a/rsslogo.gif</url><title>Salk Institute site:archdaily.com</title><link>http://www.bing.com:80/search?q=Salk+Institute+site%3aarchdaily.com</link></image><copyright>Copyright © 2026 Microsoft. All rights reserved. These XML results may not be used, reproduced or transmitted in any manner or for any purpose other than r
+
+== bing rss | Villa Savoye | OK 5105 bytes
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0"><channel><title>Bing: Villa Savoye site:archdaily.com</title><link>http://www.bing.com:80/search?q=Villa+Savoye+site%3aarchdaily.com</link><description>Search results</description><image><url>http://www.bing.com:80/s/a/rsslogo.gif</url><title>Villa Savoye site:archdaily.com</title><link>http://www.bing.com:80/search?q=Villa+Savoye+site%3aarchdaily.com</link></image><copyright>Copyright © 2026 Microsoft. All rights reserved. These XML results may not be used, reproduced or transmitted in any manner or for any purpose other than rendering
+
+== duckduckgo html | Salk Institute | OK 14264 bytes
+<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> --> <!DOCTYPE html> <html lang="en">  <head>     <link rel="canonical" href="https://duckduckgo.com/">     <meta http-equiv="content-type" content="text/html; charset=UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1">     <meta name="referrer" content="origin">     <title>         DuckDuckGo     </title>     <link rel="preload" href="/font/ProximaNova-Reg-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous"
+
+== duckduckgo html | Villa Savoye | OK 14242 bytes
+<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> --> <!DOCTYPE html> <html lang="en">  <head>     <link rel="canonical" href="https://duckduckgo.com/">     <meta http-equiv="content-type" content="text/html; charset=UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1">     <meta name="referrer" content="origin">     <title>         DuckDuckGo     </title>     <link rel="preload" href="/font/ProximaNova-Reg-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous"
