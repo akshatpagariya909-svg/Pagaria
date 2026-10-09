@@ -3,7 +3,7 @@
 
   python3 tools/build_pages.py
 
-Run it again whenever site/data/buildings.js changes. Pages are plain HTML (no JavaScript),
+Run it again whenever site/data/buildings.js or site/data/links.js changes. Pages are plain HTML (no JavaScript),
 so search engines and link previews see everything. Output:
   site/buildings/<id>/index.html   one page per building, with its photo gallery
   site/buildings/index.html        A–Z list of all buildings
@@ -35,7 +35,10 @@ q = lambda s: urllib.parse.quote(str(s))
 
 def load():
     text = (SITE / 'data' / 'buildings.js').read_text()
-    return json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
+    items = json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
+    links = SITE / 'data' / 'links.js'  # from tools/find_links.py
+    found = json.loads(links.read_text().split('window.LINKS = ', 1)[1].rstrip().rstrip(';')) if links.exists() else {}
+    return [{**b, **found.get(b['id'], {})} for b in items]
 
 
 def place_full(b):

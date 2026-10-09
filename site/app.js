@@ -3,7 +3,8 @@
 (() => {
   'use strict';
 
-  const ALL = window.BUILDINGS || [];
+  const LINKS = window.LINKS || {};
+  const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
   const TOTAL = ALL.length;
   const GROUPS = [
     { key: 'concepts', title: 'Idea', multi: true },
