@@ -39,7 +39,7 @@ a:hover { color: var(--signal-ink); }
 .count { font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); white-space: nowrap; }
 
 .btn { all: unset; cursor: pointer; height: 44px; padding: 0 16px; display: inline-flex; align-items: center; gap: 6px; font-size: 14px; font-weight: 600; }
-.btn.ghost { border: 1px solid var(--hair); background: transparent; }
+.btn.ghost { border: 1px solid var(--hair); background: transparent; color: var(--ink); text-decoration: none; }
 .btn.ghost:hover, .btn.ghost[aria-expanded="true"] { border-color: var(--ink); background: #fff; }
 #filterCount { font-family: var(--mono); font-weight: 400; color: var(--signal); }
 
@@ -126,6 +126,7 @@ a:hover { color: var(--signal-ink); }
 .meta { margin: 0; font: 400 12px/1.6 var(--mono); letter-spacing: 0.05em; text-transform: uppercase; color: var(--graphite); }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .credit { margin: 0; padding: 12px 14px; background: #fff; border: 1px solid var(--hair); font-size: 13px; line-height: 1.5; }
+.page-link { align-self: flex-start; font-size: 14px; font-weight: 700; }
 .credit em { font-family: var(--serif); font-size: 17px; }
 .credit .lic { display: block; font: 400 10px/1.6 var(--mono); letter-spacing: 0.05em; text-transform: uppercase; color: var(--graphite); margin-top: 4px; }
 .info h2 { margin: 6px 0 8px; font: 500 11px var(--mono); letter-spacing: 0.08em; text-transform: uppercase; border-top: 1px solid var(--hair); padding-top: 12px; }

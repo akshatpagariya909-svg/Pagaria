@@ -264,6 +264,7 @@
     kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${String(b.n).padStart(3, '0')}/${TOTAL} · told through a ${m.kind.toLowerCase()}`;
     kick.classList.toggle('surprise', !!surprise);
     $('bName').textContent = b.name;
+    $('pageLink').href = 'buildings/' + b.id + '/';
     $('bMeta').textContent = `${b.by} · ${b.place} · ${b.year}`;
 
     $('bChips').innerHTML = GROUPS.map(g => `<button type="button" class="chip" data-g="${g.key}" data-v="${esc(b[g.key])}">${esc(g.label(b[g.key]))} <span class="n">→</span></button>`).join('');
