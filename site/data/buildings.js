@@ -149,7 +149,11 @@ window.BUILDINGS = [
     "media": "drawing",
     "title": "Measured drawings",
     "by": "Historic American Buildings Survey",
-    "image": null
+    "image": "images/thumbs/fallingwater-then0.jpg",
+    "license": "Public domain",
+    "credit": "Jack E Boucher, HABS staff photographer",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_-_Living_Room_from_Kitchen_-_HABS_PA,26-OHPY.V,1-48.jpg",
+    "file": "File:Fallingwater - Living Room from Kitchen - HABS PA,26-OHPY.V,1-48.jpg"
    }
   ],
   "wiki": "Fallingwater",
@@ -274,15 +278,15 @@ window.BUILDINGS = [
   "aspect": "l",
   "work": null,
   "image": "images/bauhaus-dessau.jpg",
-  "credit": "Lorkan",
-  "license": "CC BY 2.0",
+  "credit": "Aufbacksalami",
+  "license": "CC BY-SA 4.0",
   "then": [],
   "wiki": "Bauhaus Dessau",
   "thumb": "images/thumbs/bauhaus-dessau.jpg",
-  "w": 1471,
-  "h": 1103,
-  "source": "https://commons.wikimedia.org/wiki/File:Bauhaus_3_Chair.jpg",
-  "file": "File:Bauhaus 3 Chair.jpg"
+  "w": 3930,
+  "h": 2358,
+  "source": "https://commons.wikimedia.org/wiki/File:Bauhaus_Dessau_2018.jpg",
+  "file": "File:Bauhaus Dessau 2018.jpg"
  },
  {
   "id": "villa-tugendhat",
@@ -986,15 +990,15 @@ window.BUILDINGS = [
   "aspect": "l",
   "work": null,
   "image": "images/kinkaku-ji.jpg",
-  "credit": "Nacaru",
+  "credit": "Basile Morin",
   "license": "CC BY-SA 4.0",
   "then": [],
   "wiki": "Kinkaku-ji",
   "thumb": "images/thumbs/kinkaku-ji.jpg",
-  "w": 4000,
-  "h": 6000,
-  "source": "https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg",
-  "file": "File:Golden Pavilion Kinkaku-ji water mirror 2024.jpg"
+  "w": 5928,
+  "h": 3335,
+  "source": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg",
+  "file": "File:Water reflection of Kinkaku-ji Temple a sunny day, Kyoto, Japan.jpg"
  },
  {
   "id": "chrysler-building",
@@ -1011,15 +1015,15 @@ window.BUILDINGS = [
   "aspect": "t",
   "work": null,
   "image": "images/chrysler-building.jpg",
-  "credit": "Dmitry Avdeev",
-  "license": "CC BY-SA 3.0",
+  "credit": "Carol M. Highsmith",
+  "license": "Public domain",
   "then": [],
   "wiki": "Chrysler Building",
   "thumb": "images/thumbs/chrysler-building.jpg",
-  "w": 4335,
-  "h": 1200,
-  "source": "https://commons.wikimedia.org/wiki/File:Manhattan_from_Weehawken,_NJ.jpg",
-  "file": "File:Manhattan from Weehawken, NJ.jpg"
+  "w": 2344,
+  "h": 4284,
+  "source": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_spire,_Manhattan,_by_Carol_Highsmith_(LOC_highsm.04444).png",
+  "file": "File:Chrysler Building spire, Manhattan, by Carol Highsmith (LOC highsm.04444).png"
  },
  {
   "id": "forbidden-city",
@@ -1036,15 +1040,15 @@ window.BUILDINGS = [
   "aspect": "l",
   "work": null,
   "image": "images/forbidden-city.jpg",
-  "credit": "Pixelflake",
-  "license": "CC BY-SA 3.0",
+  "credit": "Marcin Białek",
+  "license": "CC BY-SA 4.0",
   "then": [],
   "wiki": "Forbidden City",
   "thumb": "images/thumbs/forbidden-city.jpg",
-  "w": 4092,
-  "h": 2046,
-  "source": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
-  "file": "File:The Forbidden City - View from Coal Hill.jpg"
+  "w": 8811,
+  "h": 1736,
+  "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_2010.jpg",
+  "file": "File:Hall of Supreme Harmony 2010.jpg"
  },
  {
   "id": "shwedagon-pagoda",
@@ -1746,10 +1750,10 @@ window.BUILDINGS = [
   "then": [],
   "wiki": "Stonehenge",
   "thumb": "images/thumbs/stonehenge.jpg",
-  "w": 5421,
-  "h": 3524,
-  "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_Stonehenge_at_Sunset_-_Google_Art_Project.jpg",
-  "file": "File:John Constable - Stonehenge at Sunset - Google Art Project.jpg"
+  "w": 2046,
+  "h": 1356,
+  "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_Stonehenge_-_Google_Art_Project.jpg",
+  "file": "File:John Constable - Stonehenge - Google Art Project.jpg"
  },
  {
   "id": "doges-palace",
@@ -1943,9 +1947,9 @@ window.BUILDINGS = [
    "date": "1852",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/hagia-sophia.jpg",
+  "credit": "Haghe, Louis, 1806-1885, lithographer; Fossati, Gaspare, 1809-1883, artist",
+  "license": "Public domain",
   "then": [
    {
     "date": "1680",
@@ -1959,7 +1963,12 @@ window.BUILDINGS = [
     "file": "File:Interior view of Hagia Sophia in Istanbul (from the central nave to the narthex) - Grelot Guillaume-joseph - 1680.jpg"
    }
   ],
-  "wiki": "Hagia Sophia"
+  "wiki": "Hagia Sophia",
+  "thumb": "images/thumbs/hagia-sophia.jpg",
+  "w": 4099,
+  "h": 5132,
+  "source": "https://commons.wikimedia.org/wiki/File:Aya_Sofia,_Constantinople,_as_recently_restored_by_order_of_H.M._the_sultan_Abdul_Medjid_-_from_the_original_drawings_by_Chevalier_Gaspard_Fossati_;_lithographed_by_Louis_Haghe,_esq._LCCN2004666281.jpg",
+  "file": "File:Aya Sofia, Constantinople, as recently restored by order of H.M. the sultan Abdul Medjid - from the original drawings by Chevalier Gaspard Fossati ; lithographed by Louis Haghe, esq. LCCN2004666281.jpg"
  },
  {
   "id": "taj-mahal",
@@ -2083,15 +2092,15 @@ window.BUILDINGS = [
    "holder": "Wikimedia Commons"
   },
   "image": "images/abu-simbel.jpg",
-  "credit": "Diego Delso",
-  "license": "CC BY-SA 4.0",
+  "credit": "https://wellcomeimages.org/indexplus/obf_images/9d/cd/7f91c813d20a9ef43dad644aa279.jpg\n\nGallery: https://wellcomeimages.",
+  "license": "CC BY 4.0",
   "then": [],
   "wiki": "Abu Simbel",
   "thumb": "images/thumbs/abu-simbel.jpg",
-  "w": 8234,
-  "h": 4787,
-  "source": "https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_74-76_HDR.jpg",
-  "file": "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg"
+  "w": 3141,
+  "h": 2258,
+  "source": "https://commons.wikimedia.org/wiki/File:Colossal_statues_excavated_at_Abu_Simbel,_seen_from_the_Nile_Wellcome_V0049352.jpg",
+  "file": "File:Colossal statues excavated at Abu Simbel, seen from the Nile Wellcome V0049352.jpg"
  },
  {
   "id": "el-castillo-chichen-itza",
@@ -2172,11 +2181,16 @@ window.BUILDINGS = [
    "date": "c. 1834",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/kiyomizu-dera.jpg",
+  "credit": "歌川広重（東京国立博物館所蔵）",
+  "license": "CC BY 4.0",
   "then": [],
-  "wiki": "Kiyomizu-dera"
+  "wiki": "Kiyomizu-dera",
+  "thumb": "images/thumbs/kiyomizu-dera.jpg",
+  "w": 905,
+  "h": 553,
+  "source": "https://commons.wikimedia.org/wiki/File:Famous_Places_of_Kyoto-Kiyomizu-by_Utagawa_Hiroshige-Tokyo_National_Museum.jpg",
+  "file": "File:Famous Places of Kyoto-Kiyomizu-by Utagawa Hiroshige-Tokyo National Museum.jpg"
  },
  {
   "id": "senso-ji",
@@ -2263,10 +2277,10 @@ window.BUILDINGS = [
   "then": [],
   "wiki": "Shah Mosque (Isfahan)",
   "thumb": "images/thumbs/shah-mosque.jpg",
-  "w": 1719,
-  "h": 2702,
-  "source": "https://commons.wikimedia.org/wiki/File:Hasht_Behesht,_Detail_of_the_dome_by_Pascal_Coste.jpg",
-  "file": "File:Hasht Behesht, Detail of the dome by Pascal Coste.jpg"
+  "w": 2709,
+  "h": 1752,
+  "source": "https://commons.wikimedia.org/wiki/File:Masjid_Shah,_view_of_the_courtyard_by_Pascal_Coste.jpg",
+  "file": "File:Masjid Shah, view of the courtyard by Pascal Coste.jpg"
  },
  {
   "id": "royal-pavilion",
@@ -2323,10 +2337,10 @@ window.BUILDINGS = [
   "then": [],
   "wiki": "Villa La Rotonda",
   "thumb": "images/thumbs/villa-la-rotonda.jpg",
-  "w": 1840,
-  "h": 1406,
-  "source": "https://commons.wikimedia.org/wiki/File:I_quattro_libri_dell%27architettura_di_Andrea_Palladio_._._._MET_li120.32P17_P17.R.jpg",
-  "file": "File:I quattro libri dell'architettura di Andrea Palladio . . . MET li120.32P17 P17.R.jpg"
+  "w": 2534,
+  "h": 3761,
+  "source": "https://commons.wikimedia.org/wiki/File:Villa_Almerico_(Villa_Rotunda),_from_I_quattro_libri_dell%27architettura_di_Andrea_Palladio_(Book_2,_page_19)_MET_DP109542.jpg",
+  "file": "File:Villa Almerico (Villa Rotunda), from I quattro libri dell'architettura di Andrea Palladio (Book 2, page 19) MET DP109542.jpg"
  },
  {
   "id": "tempietto",
@@ -2347,11 +2361,16 @@ window.BUILDINGS = [
    "date": "1570",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/tempietto.jpg",
+  "credit": "Andrea Palladio",
+  "license": "Public domain",
   "then": [],
-  "wiki": "San Pietro in Montorio"
+  "wiki": "San Pietro in Montorio",
+  "thumb": "images/thumbs/tempietto.jpg",
+  "w": 984,
+  "h": 1359,
+  "source": "https://commons.wikimedia.org/wiki/File:PalladioBramanteTempietto1570.jpg",
+  "file": "File:PalladioBramanteTempietto1570.jpg"
  },
  {
   "id": "neuschwanstein-castle",
@@ -2372,11 +2391,16 @@ window.BUILDINGS = [
    "date": "1869",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/neuschwanstein-castle.jpg",
+  "credit": "C.Stadler/Bwag (talk / email)",
+  "license": "CC BY-SA 4.0",
   "then": [],
-  "wiki": "Neuschwanstein Castle"
+  "wiki": "Neuschwanstein Castle",
+  "thumb": "images/thumbs/neuschwanstein-castle.jpg",
+  "w": 5100,
+  "h": 3400,
+  "source": "https://commons.wikimedia.org/wiki/File:Schwangau_-_Schloss_Neuschwanstein_(b).JPG",
+  "file": "File:Schwangau - Schloss Neuschwanstein (b).JPG"
  },
  {
   "id": "robie-house",
@@ -2397,11 +2421,16 @@ window.BUILDINGS = [
    "date": "—",
    "holder": "Library of Congress"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/robie-house.jpg",
+  "credit": "Photocopy of Plate #12, Frank Lloyd Wright, Ausgefuherte Baute, Berlin: Ernst Wasmuth A-G, 1911",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Frederick C. Robie House"
+  "wiki": "Frederick C. Robie House",
+  "thumb": "images/thumbs/robie-house.jpg",
+  "w": 834,
+  "h": 562,
+  "source": "https://commons.wikimedia.org/wiki/File:Robie_House_exterior_HABS_ILL,16-CHIG,33-1.jpg",
+  "file": "File:Robie House exterior HABS ILL,16-CHIG,33-1.jpg"
  },
  {
   "id": "unity-temple",
@@ -2508,10 +2537,10 @@ window.BUILDINGS = [
   "then": [],
   "wiki": "Château de Chambord",
   "thumb": "images/thumbs/ch-teau-de-chambord.jpg",
-  "w": 1221,
-  "h": 1798,
-  "source": "https://commons.wikimedia.org/wiki/File:Fountain_of_Diana_of_Anet,_from_the_second_volume_of_%27Les_plus_excellents_bastiments_de_France%27_by_Jacques_Androuet_du_Cerceau_(adjusted).jpg",
-  "file": "File:Fountain of Diana of Anet, from the second volume of 'Les plus excellents bastiments de France' by Jacques Androuet du Cerceau (adjusted).jpg"
+  "w": 5801,
+  "h": 4389,
+  "source": "https://commons.wikimedia.org/wiki/File:Bastiments_v1_(Gregg_1972_p30)_-_Chambord_plan.jpg",
+  "file": "File:Bastiments v1 (Gregg 1972 p30) - Chambord plan.jpg"
  },
  {
   "id": "st-pauls-cathedral",
@@ -2557,11 +2586,16 @@ window.BUILDINGS = [
    "date": "1917–20",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/einstein-tower.jpg",
+  "credit": "Erich Mendelsohn",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Einstein Tower"
+  "wiki": "Einstein Tower",
+  "thumb": "images/thumbs/einstein-tower.jpg",
+  "w": 4291,
+  "h": 3344,
+  "source": "https://commons.wikimedia.org/wiki/File:Skizze.Einsteinturm.Erich.Mendelsohn.P1185961.jpg",
+  "file": "File:Skizze.Einsteinturm.Erich.Mendelsohn.P1185961.jpg"
  },
  {
   "id": "flatiron-building",
@@ -2744,11 +2778,16 @@ window.BUILDINGS = [
    "date": "c. 1906",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/great-mosque-of-djenne.jpg",
+  "credit": "Edmond Fortier (1862-1928)",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Great Mosque of Djenné"
+  "wiki": "Great Mosque of Djenné",
+  "thumb": "images/thumbs/great-mosque-of-djenne.jpg",
+  "w": 1000,
+  "h": 635,
+  "source": "https://commons.wikimedia.org/wiki/File:Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg",
+  "file": "File:Djenne Fortier 413 - Ruines de l'ancienne Mosquée.jpg"
  },
  {
   "id": "tower-bridge",
@@ -2770,15 +2809,15 @@ window.BUILDINGS = [
    "holder": "Wikimedia Commons"
   },
   "image": "images/tower-bridge.jpg",
-  "credit": "unknown",
+  "credit": "Unknown authorUnknown author",
   "license": "Public domain",
   "then": [],
   "wiki": "Tower Bridge",
   "thumb": "images/thumbs/tower-bridge.jpg",
-  "w": 4516,
-  "h": 1388,
-  "source": "https://commons.wikimedia.org/wiki/File:Mitchell_Library_in_course_of_construction_(photograph),_March_1907_(32006347500).jpg",
-  "file": "File:Mitchell Library in course of construction (photograph), March 1907 (32006347500).jpg"
+  "w": 1024,
+  "h": 766,
+  "source": "https://commons.wikimedia.org/wiki/File:Tower_bridge_works_1892.jpg",
+  "file": "File:Tower bridge works 1892.jpg"
  },
  {
   "id": "potala-palace",
@@ -2799,10 +2838,15 @@ window.BUILDINGS = [
    "date": "1904",
    "holder": "Wikimedia Commons"
   },
-  "image": null,
-  "credit": null,
-  "license": null,
+  "image": "images/potala-palace.jpg",
+  "credit": "Ovshe Norzunov",
+  "license": "Public domain",
   "then": [],
-  "wiki": "Potala Palace"
+  "wiki": "Potala Palace",
+  "thumb": "images/thumbs/potala-palace.jpg",
+  "w": 4949,
+  "h": 3448,
+  "source": "https://commons.wikimedia.org/wiki/File:Lhasa,_Amban%27s_Yamen_from_Southeast.jpg",
+  "file": "File:Lhasa, Amban's Yamen from Southeast.jpg"
  }
 ];
