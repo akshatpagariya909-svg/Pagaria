@@ -19,7 +19,57 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "Le Corbusier's Five Points of Architecture in a single house.",
-  "images": []
+  "images": [
+   {
+    "src": "images/villa-savoye/0.webp",
+    "thumb": "images/villa-savoye/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Cartello che indica l'appartenenza di Villa Savoye alla lista dei monumenti Architettonici Francesi",
+    "credit": "Ing.Manga",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartello_Patrimonio_xx_secolo.jpg",
+    "file": "File:Cartello Patrimonio xx secolo.jpg"
+   },
+   {
+    "src": "images/villa-savoye/1.webp",
+    "thumb": "images/villa-savoye/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ing.Manga",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartello_stradale_in_Rue_de_Villiers.jpg",
+    "file": "File:Cartello stradale in Rue de Villiers.jpg"
+   },
+   {
+    "src": "images/villa-savoye/2.webp",
+    "thumb": "images/villa-savoye/thumbs/2.webp",
+    "w": 1400,
+    "h": 936,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Le Corbusier and Charlotte Perriand : LC4 Chaise longue in the Villa Savoye",
+    "credit": "jeanbaptisteparis  from Cambridge, MA, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Savoye_(8237925975).jpg",
+    "file": "File:Villa Savoye (8237925975).jpg"
+   },
+   {
+    "src": "images/villa-savoye/3.webp",
+    "thumb": "images/villa-savoye/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Savoye te Poissy, Frankrijk",
+    "credit": "Wasily",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Savoye_3.JPG",
+    "file": "File:Savoye 3.JPG"
+   }
+  ],
+  "commons": "Category:Villa Savoye"
  },
  {
   "id": "unite-dhabitation",
@@ -39,7 +89,8 @@ window.BUILDINGS = [
    "Brise-soleil"
   ],
   "study": "A vertical neighbourhood: interlocking duplex flats served by internal streets.",
-  "images": []
+  "images": [],
+  "commons": "Category:Unité d'habitation"
  },
  {
   "id": "notre-dame-du-haut",
@@ -59,7 +110,105 @@ window.BUILDINGS = [
    "Exposed concrete"
   ],
   "study": "Thick walls punched with deep, coloured windows that model the light.",
-  "images": []
+  "images": [
+   {
+    "src": "images/notre-dame-du-haut/0.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Peugeot 308 B GT Line, 2020, engine 1.5 BlueHDi 130 hp in front of the Notre-Dame-du Haut de Ronchamp chapel",
+    "credit": "A.BourgeoisP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_-_Peugeot_308_II_(B)_-_67.jpg",
+    "file": "File:2020 - Peugeot 308 II (B) - 67.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/1.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Peugeot 308 B GT Line, 2020, engine 1.5 BlueHDi 130 hp in front of the Notre-Dame-du Haut de Ronchamp chapel",
+    "credit": "A.BourgeoisP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_-_Peugeot_308_II_(B)_-_68.jpg",
+    "file": "File:2020 - Peugeot 308 II (B) - 68.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/2.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapelle Notre-Dame-du Haut de Ronchamp",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du_Haut_de_Ronchamp_60000_25.jpg",
+    "file": "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 25.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/3.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapelle Notre-Dame-du Haut de Ronchamp",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du_Haut_de_Ronchamp_60000_26.jpg",
+    "file": "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 26.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/4.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/4.webp",
+    "w": 740,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Objects in the convent oratory in Ronchamp (Haute-Saône, France)",
+    "credit": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oratoire_-_int%C3%A9rieur_-_objets_(1).jpg",
+    "file": "File:Oratoire - intérieur - objets (1).jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/5.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/5.webp",
+    "w": 754,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Objects in the convent oratory in Ronchamp (Haute-Saône, France)",
+    "credit": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oratoire_-_int%C3%A9rieur_-_objets_(2).jpg",
+    "file": "File:Oratoire - intérieur - objets (2).jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/6.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "A.BourgeoisP",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-02_-_Aerial_view_of_puits_Arthur-de-Buyer_-_032.jpg",
+    "file": "File:2026-02 - Aerial view of puits Arthur-de-Buyer - 032.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/7.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/7.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "丘崈",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%BB%8A%E9%A6%99%E6%95%99%E5%A0%82%E6%A8%A1%E5%9E%8B.jpg",
+    "file": "File:廊香教堂模型.jpg"
+   }
+  ],
+  "commons": "Category:Chapelle Notre-Dame-du Haut de Ronchamp"
  },
  {
   "id": "sainte-marie-de-la-tourette",
@@ -79,7 +228,105 @@ window.BUILDINGS = [
    "Pilotis"
   ],
   "study": "A monastery on a slope: cells, cloister and church around a courtyard.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sainte-marie-de-la-tourette/0.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/0.webp",
+    "w": 1400,
+    "h": 900,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the former farm and the village of L'Arbresle",
+    "credit": "Peter Christian Riemann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tourette,_Blick_von_der_Dachterrasse.jpg",
+    "file": "File:La Tourette, Blick von der Dachterrasse.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/1.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Nasrine Seraji at La Tourette",
+    "credit": "Archedumilleun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasrine_Seraji.jpg",
+    "file": "File:Nasrine Seraji.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/2.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/2.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "丘崈",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%8B%89%E5%9C%96%E9%9B%B7%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E6%A8%A1%E5%9E%8B.jpg",
+    "file": "File:拉圖雷特修道院模型.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/3.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/3.webp",
+    "w": 892,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Peter Christian Riemann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kloster_La_Tourette,_1998,_Schlupft%C3%BCr_zur_Kirche.jpg",
+    "file": "File:Kloster La Tourette, 1998, Schlupftür zur Kirche.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/4.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Fred Romero",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eveux_-_Couvent_de_La_Tourette_-_Ceiling_of_the_Church.jpg",
+    "file": "File:Eveux - Couvent de La Tourette - Ceiling of the Church.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/5.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Flibust1er",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Couvent_Sainte-Marie_de_La_Tourette_Detail_1.jpg",
+    "file": "File:Couvent Sainte-Marie de La Tourette Detail 1.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/6.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/6.webp",
+    "w": 911,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Construction damage to the parapet of the roof garden above the residential tract",
+    "credit": "Peter Christian Riemann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kloster_La_Tourette,_Attika_des_Dachgartens.jpg",
+    "file": "File:Kloster La Tourette, Attika des Dachgartens.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/7.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/7.webp",
+    "w": 1400,
+    "h": 982,
+    "kind": "Drawing",
+    "caption": "Drawing · Plan Nr",
+    "credit": "Santiago Carvajal (permission granted by mail 28.03.2024, 18:32",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tourette,_Sections_East-West,_Plan_%2B_Axon.jpg",
+    "file": "File:La Tourette, Sections East-West, Plan + Axon.jpg"
+   }
+  ],
+  "commons": "Category:Couvent Sainte-Marie de La Tourette"
  },
  {
   "id": "palace-of-assembly",
@@ -99,7 +346,105 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "A parliament built for the Punjab sun: portico, brise-soleil and a hyperboloid chamber.",
-  "images": []
+  "images": [
+   {
+    "src": "images/palace-of-assembly/0.webp",
+    "thumb": "images/palace-of-assembly/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Assembly building of Haryana and Punjab",
+    "credit": "Shanmugamp7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Assembly_Building_Chandigarh.jpg",
+    "file": "File:Assembly Building Chandigarh.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/1.webp",
+    "thumb": "images/palace-of-assembly/thumbs/1.webp",
+    "w": 1400,
+    "h": 1120,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "UnpetitproleX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh.jpg",
+    "file": "File:Palace of Assembly Chandigarh.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/2.webp",
+    "thumb": "images/palace-of-assembly/thumbs/2.webp",
+    "w": 1400,
+    "h": 586,
+    "kind": "Exterior",
+    "caption": "Exterior · Assembly building, Chandigarh , India, probably inspired by a Submarine pen",
+    "credit": "duncid",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_Chandigarh_2006.jpg",
+    "file": "File:Palace of Assembly Chandigarh 2006.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/3.webp",
+    "thumb": "images/palace-of-assembly/thumbs/3.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior · by Le Corbusier",
+    "credit": "Aleksandr Zykov  from Russia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_above.jpg",
+    "file": "File:Palace of Assembly above.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/4.webp",
+    "thumb": "images/palace-of-assembly/thumbs/4.webp",
+    "w": 1400,
+    "h": 1038,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Nk8595",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor_of_legislative_assembly.jpg",
+    "file": "File:Corridor of legislative assembly.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/5.webp",
+    "thumb": "images/palace-of-assembly/thumbs/5.webp",
+    "w": 1400,
+    "h": 1038,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Nk8595",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_surrounding_from_the_corridor_of_legislative_assembly.jpg",
+    "file": "File:View of the surrounding from the corridor of legislative assembly.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/6.webp",
+    "thumb": "images/palace-of-assembly/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Corbu's Door",
+    "credit": "Eduardo Guiot",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corbu%27s_Door_Palace_of_Assembly.jpg",
+    "file": "File:Corbu's Door Palace of Assembly.jpg"
+   },
+   {
+    "src": "images/palace-of-assembly/7.webp",
+    "thumb": "images/palace-of-assembly/thumbs/7.webp",
+    "w": 1200,
+    "h": 797,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Nicholas.iyadurai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_the_Assembly_-_Chandigarh_-_Le_Corbusier_-_view_from_the_plaza.jpg",
+    "file": "File:Palace of the Assembly - Chandigarh - Le Corbusier - view from the plaza.jpg"
+   }
+  ],
+  "commons": "Category:Palace of Assembly (Chandigarh)"
  },
  {
   "id": "mill-owners-association-building",
@@ -119,7 +464,57 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "Angled concrete fins and a ramp turn a small office into a lesson in shading.",
-  "images": []
+  "images": [
+   {
+    "src": "images/mill-owners-association-building/0.webp",
+    "thumb": "images/mill-owners-association-building/thumbs/0.webp",
+    "w": 1400,
+    "h": 928,
+    "kind": "Exterior",
+    "caption": "Exterior · DSC_3332",
+    "credit": "Kiwi 3rd",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mill_Owners%27_Association_Building.jpeg",
+    "file": "File:Mill Owners' Association Building.jpeg"
+   },
+   {
+    "src": "images/mill-owners-association-building/1.webp",
+    "thumb": "images/mill-owners-association-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Mill Owners' Association Building, Ahmedabad Photo by Lucien Hervé",
+    "credit": "Lucien Hervé",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lucien_Herv%C3%A9_Mill_Owners%27_Association_Building.jpg",
+    "file": "File:Lucien Hervé Mill Owners' Association Building.jpg"
+   },
+   {
+    "src": "images/mill-owners-association-building/2.webp",
+    "thumb": "images/mill-owners-association-building/thumbs/2.webp",
+    "w": 1252,
+    "h": 835,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sanyambahga  at  English Wikipedia",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ATMA_House_186.jpg",
+    "file": "File:ATMA House 186.jpg"
+   },
+   {
+    "src": "images/mill-owners-association-building/3.webp",
+    "thumb": "images/mill-owners-association-building/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Mill Owners Association Building, Ahmedabad, India",
+    "credit": "Adrián MALLOL i MORETTI",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:03016_-_AHMEDABAD_-_Asociaci%C3%B3n_hilanderos_(arq._LE_CORBUSIER).jpg",
+    "file": "File:03016 - AHMEDABAD - Asociación hilanderos (arq. LE CORBUSIER).jpg"
+   }
+  ],
+  "commons": "Category:Mill Owners' Association Building"
  },
  {
   "id": "barcelona-pavilion",
@@ -139,7 +534,105 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "Free-standing walls under a floating roof: space that flows instead of rooms.",
-  "images": []
+  "images": [
+   {
+    "src": "images/barcelona-pavilion/0.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/0.webp",
+    "w": 985,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Jurado: Teresa Pamies, Joaquim Horta, Mª Aurelia Campmany, Josep Ferrert, Montserrat Roig",
+    "credit": "Bases II concurso literario SAGREA",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:1975_-_II_CONCURSO_LITERARIO_SAGREGA_(BASES).jpg",
+    "file": "File:1975 - II CONCURSO LITERARIO SAGREGA (BASES).jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/1.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/1.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · An electricity pole in Barcelona",
+    "credit": "Adityaoberai",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_electricity_pole_in_Barcelona.jpg",
+    "file": "File:An electricity pole in Barcelona.jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/2.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/2.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Exterior",
+    "caption": "Exterior · A view of Barcelona from Montjuïc",
+    "credit": "AnDr0 Gr0zNy",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_View.jpg",
+    "file": "File:Barcelona View.jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/3.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/3.webp",
+    "w": 1400,
+    "h": 859,
+    "kind": "Exterior",
+    "caption": "Exterior · BMW 1-Series (F40) 118i (2022)",
+    "credit": "Charles  from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_1-Series_(F40)_118i_(2022)_(53937963077).jpg",
+    "file": "File:BMW 1-Series (F40) 118i (2022) (53937963077).jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/4.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/4.webp",
+    "w": 1209,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Columnes de l'Avinguda de la Llum de Barcelona, visibles des de l'interior d'una botiga",
+    "credit": "Pilardenou999",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avinguda_de_la_Llum_de_Barcelona._columnes_2.jpg",
+    "file": "File:Avinguda de la Llum de Barcelona. columnes 2.jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/5.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/5.webp",
+    "w": 1086,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Spencer Means  from New York City, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Artistic_license_An_asymmetrically_framed_doorway,_Barcelona_(uncropped_to_show_balcony_and_rounded_oriel_on_right)_(37243468154).jpg",
+    "file": "File:Artistic license An asymmetrically framed doorway, Barcelona (uncropped to show balcony and rounded oriel on right) (37243468154).jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/6.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Montjuic - Avinguda dels Montanyans City view from Montjuic hill",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_(37344768636).jpg",
+    "file": "File:Barcelona (37344768636).jpg"
+   },
+   {
+    "src": "images/barcelona-pavilion/7.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/7.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Training casteller la Model",
+    "credit": "Cumbiaboicat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Assaig_model_porta.jpg",
+    "file": "File:Assaig model porta.jpg"
+   }
+  ],
+  "commons": "Category:Barcelona"
  },
  {
   "id": "villa-tugendhat",
@@ -159,7 +652,105 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "The open plan in a family home, with glass walls that drop away to the garden.",
-  "images": []
+  "images": [
+   {
+    "src": "images/villa-tugendhat/0.webp",
+    "thumb": "images/villa-tugendhat/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Vít Švajcr ,   Dobré světlo.com",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:131027_Tugendhat_Brno_-_luminografie_0142_a.jpg",
+    "file": "File:131027 Tugendhat Brno - luminografie 0142 a.jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/1.webp",
+    "thumb": "images/villa-tugendhat/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Vít Švajcr ,   Dobré světlo.com",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:131027_Tugendhat_Brno_-_luminografie_0571.jpg",
+    "file": "File:131027 Tugendhat Brno - luminografie 0571.jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/2.webp",
+    "thumb": "images/villa-tugendhat/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Vít Švajcr ,   Dobré světlo.com",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:131027_Vila_Tugendhat_Brno_0205.jpg",
+    "file": "File:131027 Vila Tugendhat Brno 0205.jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/3.webp",
+    "thumb": "images/villa-tugendhat/thumbs/3.webp",
+    "w": 1400,
+    "h": 702,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Tugendhat, Brno",
+    "credit": "Petr1987",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brno,_Vila_Tugendhat.jpg",
+    "file": "File:Brno, Vila Tugendhat.jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/4.webp",
+    "thumb": "images/villa-tugendhat/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Interior shots from Villa Tugendhat",
+    "credit": "JensKunstfreund",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Innenaufnahmen_aus_der_Villa_Tugendhat_(01).jpg",
+    "file": "File:Innenaufnahmen aus der Villa Tugendhat (01).jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/5.webp",
+    "thumb": "images/villa-tugendhat/thumbs/5.webp",
+    "w": 1269,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior shots from Villa Tugendhat",
+    "credit": "JensKunstfreund",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Innenaufnahmen_aus_der_Villa_Tugendhat_(02).jpg",
+    "file": "File:Innenaufnahmen aus der Villa Tugendhat (02).jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/6.webp",
+    "thumb": "images/villa-tugendhat/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "131027 Vila Tugendhat Brno 0205.jpg :  Vít Švajcr ,   Dobré světlo.com             \n derivative work",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:131027_Vila_Tugendhat_Brno_0205_with_no_FoP.jpg",
+    "file": "File:131027 Vila Tugendhat Brno 0205 with no FoP.jpg"
+   },
+   {
+    "src": "images/villa-tugendhat/7.webp",
+    "thumb": "images/villa-tugendhat/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Mike Duchstein",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tugendhat_Brno_Br%C3%BCnn_Bauhaus_classic_modern_model_south-east_view_MD284.jpg",
+    "file": "File:Villa Tugendhat Brno Brünn Bauhaus classic modern model south-east view MD284.jpg"
+   }
+  ],
+  "commons": "Category:Villa Tugendhat"
  },
  {
   "id": "farnsworth-house",
@@ -179,7 +770,105 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "A single glass room lifted above a floodplain on eight steel columns.",
-  "images": []
+  "images": [
+   {
+    "src": "images/farnsworth-house/0.webp",
+    "thumb": "images/farnsworth-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Barnsworth Gallery at Farnsworth House, Plano, Illinois",
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barnsworth_Gallery_at_Farnsworth_House_Plano-0007.jpg",
+    "file": "File:Barnsworth Gallery at Farnsworth House Plano-0007.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/1.webp",
+    "thumb": "images/farnsworth-house/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Access drive to Farnsworth House, Plano, Illinois",
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_Access_Drive_Plano-0005.jpg",
+    "file": "File:Farnsworth House Access Drive Plano-0005.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/2.webp",
+    "thumb": "images/farnsworth-house/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Tree with mushrooms by Farnsworth house",
+    "credit": "Victor Grigas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tree_with_mushrooms_by_Farnsworth_house.jpg",
+    "file": "File:Tree with mushrooms by Farnsworth house.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/3.webp",
+    "thumb": "images/farnsworth-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Farnsworth House , Plano, Illinois",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_2006.jpg",
+    "file": "File:Farnsworth House 2006.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/4.webp",
+    "thumb": "images/farnsworth-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Farnsworth House by Mies Van Der Rohe",
+    "credit": "Victor Grigas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_interior_fireplace.jpg",
+    "file": "File:Farnsworth House by Mies Van Der Rohe - interior fireplace.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/5.webp",
+    "thumb": "images/farnsworth-house/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Farnsworth House by Mies Van Der Rohe",
+    "credit": "Victor Grigas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_interior_kitchen.jpg",
+    "file": "File:Farnsworth House by Mies Van Der Rohe - interior kitchen.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/6.webp",
+    "thumb": "images/farnsworth-house/thumbs/6.webp",
+    "w": 1400,
+    "h": 869,
+    "kind": "Interior",
+    "caption": "Interior · The interior of the Farnsworth House, designed by Ludwig Mies van der Rohe",
+    "credit": "Lessismore2020",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_Interior.jpg",
+    "file": "File:Farnsworth House Interior.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/7.webp",
+    "thumb": "images/farnsworth-house/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Outdoor furniture, walking path of Farnsworth House, Plano, Illinois",
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Farnsworth_House_Walking_Path_Plano-9969.jpg",
+    "file": "File:Farnsworth House Walking Path Plano-9969.jpg"
+   }
+  ],
+  "commons": "Category:Farnsworth House"
  },
  {
   "id": "s-r-crown-hall",
@@ -199,7 +888,57 @@ window.BUILDINGS = [
    "Free plan"
   ],
   "study": "A clear-span hall for architecture students, its roof hung from four exposed girders.",
-  "images": []
+  "images": [
+   {
+    "src": "images/s-r-crown-hall/0.webp",
+    "thumb": "images/s-r-crown-hall/thumbs/0.webp",
+    "w": 1400,
+    "h": 944,
+    "kind": "Interior",
+    "caption": "Interior · S",
+    "credit": "Joe Ravi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Crown_Hall_2.jpg",
+    "file": "File:Crown Hall 2.jpg"
+   },
+   {
+    "src": "images/s-r-crown-hall/1.webp",
+    "thumb": "images/s-r-crown-hall/thumbs/1.webp",
+    "w": 1400,
+    "h": 726,
+    "kind": "Interior",
+    "caption": "Interior · S",
+    "credit": "Joe Ravi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Crown_Hall_1.jpg",
+    "file": "File:Crown Hall 1.jpg"
+   },
+   {
+    "src": "images/s-r-crown-hall/2.webp",
+    "thumb": "images/s-r-crown-hall/thumbs/2.webp",
+    "w": 1400,
+    "h": 844,
+    "kind": "Interior",
+    "caption": "Interior · SR Crown Hall, IIT, Mies van der Rohe, 1957",
+    "credit": "Timothy Brown",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SR_Crown_Hall,_IIT,_Mies_van_der_Rohe,_1957_(14160275072).jpg",
+    "file": "File:SR Crown Hall, IIT, Mies van der Rohe, 1957 (14160275072).jpg"
+   },
+   {
+    "src": "images/s-r-crown-hall/3.webp",
+    "thumb": "images/s-r-crown-hall/thumbs/3.webp",
+    "w": 1400,
+    "h": 967,
+    "kind": "Interior",
+    "caption": "Interior · Zona de les escales per pujar a la segona planta",
+    "credit": "Claudia Floress",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_Crown_Hall.jpg",
+    "file": "File:Interior Crown Hall.jpg"
+   }
+  ],
+  "commons": "Category:Crown Hall"
  },
  {
   "id": "seagram-building",
@@ -219,7 +958,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "Set back behind a plaza, with bronze mullions that express the frame.",
-  "images": []
+  "images": [
+   {
+    "src": "images/seagram-building/0.webp",
+    "thumb": "images/seagram-building/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Anthony DELANOIX 2015",
+    "credit": "Anthony DELANOIX  anthonydelanoix",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Office_buildings_under_clouds_(Unsplash).jpg",
+    "file": "File:Office buildings under clouds (Unsplash).jpg"
+   },
+   {
+    "src": "images/seagram-building/1.webp",
+    "thumb": "images/seagram-building/thumbs/1.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken OHYAMA  from FUNABASHI, Japan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seagram_Building_(35098307116).jpg",
+    "file": "File:Seagram Building (35098307116).jpg"
+   },
+   {
+    "src": "images/seagram-building/2.webp",
+    "thumb": "images/seagram-building/thumbs/2.webp",
+    "w": 822,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken OHYAMA  from FUNABASHI, Japan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seagram_Building_(35098307116)_(cropped).jpg",
+    "file": "File:Seagram Building (35098307116) (cropped).jpg"
+   },
+   {
+    "src": "images/seagram-building/3.webp",
+    "thumb": "images/seagram-building/thumbs/3.webp",
+    "w": 982,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: Seagram Building",
+    "credit": "Gottscho-Schleisner Collection",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Seagram_Building._LOC_gsc.5a16908.jpg",
+    "file": "File:Seagram Building. LOC gsc.5a16908.jpg"
+   },
+   {
+    "src": "images/seagram-building/4.webp",
+    "thumb": "images/seagram-building/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · The Seagram Building's lobby in Manhattan, New York, seen in March 2021 from the 52nd Street side",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Av_53_St_Mar_2021_41.jpg",
+    "file": "File:Park Av 53 St Mar 2021 41.jpg"
+   },
+   {
+    "src": "images/seagram-building/5.webp",
+    "thumb": "images/seagram-building/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · The Seagram Building's lobby in Manhattan, New York, seen in March 2021 from the 52nd Street side",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Av_53_St_Mar_2021_43.jpg",
+    "file": "File:Park Av 53 St Mar 2021 43.jpg"
+   },
+   {
+    "src": "images/seagram-building/6.webp",
+    "thumb": "images/seagram-building/thumbs/6.webp",
+    "w": 1400,
+    "h": 938,
+    "kind": "Detail",
+    "caption": "Detail · Sculpture",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sculpture_(4706159135).jpg",
+    "file": "File:Sculpture (4706159135).jpg"
+   },
+   {
+    "src": "images/seagram-building/7.webp",
+    "thumb": "images/seagram-building/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Buildings on Park Avenue as seen from the Seagram Building plaza in November 2025",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Av_Nov_2025_01.jpg",
+    "file": "File:Park Av Nov 2025 01.jpg"
+   }
+  ],
+  "commons": "Category:Seagram Building"
  },
  {
   "id": "neue-nationalgalerie",
@@ -239,7 +1076,105 @@ window.BUILDINGS = [
    "Free plan"
   ],
   "study": "One column-free glass hall under a steel roof resting on eight columns.",
-  "images": []
+  "images": [
+   {
+    "src": "images/neue-nationalgalerie/0.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/0.webp",
+    "w": 1400,
+    "h": 810,
+    "kind": "Exterior",
+    "caption": "Exterior · Berlin-Tiergarten, the Neue Nationalgalerie with an exhibition of Andy Warhol",
+    "credit": "Michielverbeek",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin-Tiergarten,_de_Neue_Nationalgalerie_met_een_expositie_van_Andy_Warhol_IMG_5718_2024-09-07_09.58.jpg",
+    "file": "File:Berlin-Tiergarten, de Neue Nationalgalerie met een expositie van Andy Warhol IMG 5718 2024-09-07 09.58.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/1.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/1.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Berlin, Neue Nationalgalerie",
+    "credit": "DrKssn",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Neue_Nationalgalerie_dk0876.jpg",
+    "file": "File:Berlin Neue Nationalgalerie dk0876.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/2.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Ludwig Mies van der Rohe 1968 Berlin",
+    "credit": "Marmontel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_(51702796811).jpg",
+    "file": "File:Neue Nationalgalerie (51702796811).jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/3.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/3.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inside of the Neue Nationalgalerie during renovation in 2023",
+    "credit": "Flibust1er",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_2023_during_renovation_01.jpg",
+    "file": "File:Neue Nationalgalerie 2023 during renovation 01.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/4.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/4.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inside of the Neue Nationalgalerie during renovation in 2023",
+    "credit": "Flibust1er",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neue_Nationalgalerie_2023_during_renovation_02.jpg",
+    "file": "File:Neue Nationalgalerie 2023 during renovation 02.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/5.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/5.webp",
+    "w": 1400,
+    "h": 920,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Singlespeedfahrer",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skulpturengarten_Neue_Nationalgalerie_Berlin-Tiergarten.jpg",
+    "file": "File:Skulpturengarten Neue Nationalgalerie Berlin-Tiergarten.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/6.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/6.webp",
+    "w": 1400,
+    "h": 700,
+    "kind": "Context",
+    "caption": "Context · Kugelpanorama von der Neuen Nationalgalerie in Berlin",
+    "credit": "Tim Rademacher",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021-12-25_121520_Berlin_Neue_Nationalgalerie.jpg",
+    "file": "File:2021-12-25 121520 Berlin Neue Nationalgalerie.jpg"
+   },
+   {
+    "src": "images/neue-nationalgalerie/7.webp",
+    "thumb": "images/neue-nationalgalerie/thumbs/7.webp",
+    "w": 1400,
+    "h": 700,
+    "kind": "Context",
+    "caption": "Context · Kugelpanorama von der Neuen Nationalgalerie in Berlin",
+    "credit": "Tim Rademacher",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021-12-25_122010_Berlin_Neue_Nationalgalerie.jpg",
+    "file": "File:2021-12-25 122010 Berlin Neue Nationalgalerie.jpg"
+   }
+  ],
+  "commons": "Category:Neue Nationalgalerie"
  },
  {
   "id": "fallingwater",
@@ -259,7 +1194,105 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "Concrete terraces cantilevered over a waterfall: building and site as one.",
-  "images": []
+  "images": [
+   {
+    "src": "images/fallingwater/0.webp",
+    "thumb": "images/fallingwater/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Fallingwater (Kaufmann Residence) by Frank Lloyd Wright",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_-_DSC05598.JPG",
+    "file": "File:Fallingwater - DSC05598.JPG"
+   },
+   {
+    "src": "images/fallingwater/1.webp",
+    "thumb": "images/fallingwater/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Fallingwater (Kaufmann Residence) by Frank Lloyd Wright",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_-_DSC05613.JPG",
+    "file": "File:Fallingwater - DSC05613.JPG"
+   },
+   {
+    "src": "images/fallingwater/2.webp",
+    "thumb": "images/fallingwater/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_during_dogwood_and_redbud_time_(9211043603).jpg",
+    "file": "File:Fallingwater during dogwood and redbud time (9211043603).jpg"
+   },
+   {
+    "src": "images/fallingwater/3.webp",
+    "thumb": "images/fallingwater/thumbs/3.webp",
+    "w": 1400,
+    "h": 890,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ruhrfisch",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_rear.jpg",
+    "file": "File:Fallingwater rear.jpg"
+   },
+   {
+    "src": "images/fallingwater/4.webp",
+    "thumb": "images/fallingwater/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_(11454396173).jpg",
+    "file": "File:Fallingwater (11454396173).jpg"
+   },
+   {
+    "src": "images/fallingwater/5.webp",
+    "thumb": "images/fallingwater/thumbs/5.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Interior",
+    "caption": "Interior · Fallingwater - obývací pokoj včetně původního vybavení",
+    "credit": "Sakul9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_-_ob%C3%BDvac%C3%AD_pokoj_2.png",
+    "file": "File:Fallingwater - obývací pokoj 2.png"
+   },
+   {
+    "src": "images/fallingwater/6.webp",
+    "thumb": "images/fallingwater/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Jwfmorris",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Falling_Water_view_from_entrance.jpg",
+    "file": "File:Falling Water view from entrance.jpg"
+   },
+   {
+    "src": "images/fallingwater/7.webp",
+    "thumb": "images/fallingwater/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing · A miniature replica of the Fallingwater building at MRRV, Carnegie Science Center in Pittsburgh",
+    "credit": "Raunaq Gupta",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_miniature_model_at_MRRV,_Carnegie_Science_Center.JPG",
+    "file": "File:Fallingwater miniature model at MRRV, Carnegie Science Center.JPG"
+   }
+  ],
+  "commons": "Category:Fallingwater"
  },
  {
   "id": "johnson-wax-headquarters",
@@ -279,7 +1312,81 @@ window.BUILDINGS = [
    "Double height"
   ],
   "study": "A forest of slender 'lily pad' columns under a glowing glass-tube roof.",
-  "images": []
+  "images": [
+   {
+    "src": "images/johnson-wax-headquarters/0.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/0.webp",
+    "w": 1400,
+    "h": 1093,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: Building, globe, and grounds of the S.C",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Building,_globe,_and_grounds_of_the_S.C._Johnson_and_son_headquarters_building,_designed_by_Frank_Lloyd_Wright,_Racine,_Wisconsin_LCCN2011634906.jpg",
+    "file": "File:Building, globe, and grounds of the S.C. Johnson and son headquarters building, designed by Frank Lloyd Wright, Racine, Wisconsin LCCN2011634906.jpg"
+   },
+   {
+    "src": "images/johnson-wax-headquarters/1.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/1.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Frank Lloyd Wright",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Racine,_WI_-_Johnson_Wax_Headquarters_(A).jpg",
+    "file": "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (A).jpg"
+   },
+   {
+    "src": "images/johnson-wax-headquarters/2.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/2.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Research Tower designed by Frank Lloyd Wright in 1944 and opened in 1950",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Racine,_WI_-_Johnson_Wax_Headquarters_(B).jpg",
+    "file": "File:Frank Lloyd Wright - Racine, WI - Johnson Wax Headquarters (B).jpg"
+   },
+   {
+    "src": "images/johnson-wax-headquarters/3.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Johnson Wax Company building",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Johnson_Wax_Company_-_51333400307.jpg",
+    "file": "File:Johnson Wax Company - 51333400307.jpg"
+   },
+   {
+    "src": "images/johnson-wax-headquarters/4.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/4.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Exterior SC Johnson Administration Building courtyard sculpture Winnebago Women and Child, Racine, Wisconsin",
+    "credit": "gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FLW_SC_Johnson_Admin_Bldg_5534.jpg",
+    "file": "File:FLW SC Johnson Admin Bldg 5534.jpg"
+   },
+   {
+    "src": "images/johnson-wax-headquarters/5.webp",
+    "thumb": "images/johnson-wax-headquarters/thumbs/5.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Exterior SC Johnson Administration Building courtyard sculpture Winnebago Man and Child",
+    "credit": "gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FLW_SC_Johnson_Admin_Bldg_5538.jpg",
+    "file": "File:FLW SC Johnson Admin Bldg 5538.jpg"
+   }
+  ],
+  "commons": "Category:Johnson Wax Headquarters"
  },
  {
   "id": "solomon-r-guggenheim-museum",
@@ -299,7 +1406,105 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "One continuous spiral ramp around a skylit atrium replaces floors and rooms.",
-  "images": []
+  "images": [
+   {
+    "src": "images/solomon-r-guggenheim-museum/0.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · by https://www.flickr.com/photos/villagehero/",
+    "credit": "VillageHero  from Ulm, Germany",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Solomon_Guggenheim_Museum_-_Yeans_knee_(New_York)_(44330064155).jpg",
+    "file": "File:Solomon Guggenheim Museum - Yeans knee (New York) (44330064155).jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/1.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The Solomon R",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5_Av_Sep_2022_118.jpg",
+    "file": "File:5 Av Sep 2022 118.jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/2.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/2.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Opened in 1959",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_New_York,_NY_-_Solomon_R._Guggenheim_Museum_(P).jpg",
+    "file": "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (P).jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/3.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Opened in 1959",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_New_York,_NY_-_Solomon_R._Guggenheim_Museum_(Q).jpg",
+    "file": "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (Q).jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/4.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 1311,
+    "kind": "Interior",
+    "caption": "Interior · Guggenheim Ceiling",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guggenheim_Ceiling_(4688708110).jpg",
+    "file": "File:Guggenheim Ceiling (4688708110).jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/5.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/5.webp",
+    "w": 1400,
+    "h": 1283,
+    "kind": "Interior",
+    "caption": "Interior · Guggenheim Ceiling 2",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guggenheim_Ceiling_2_(4688683478).jpg",
+    "file": "File:Guggenheim Ceiling 2 (4688683478).jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/6.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Close-up of the monitor/Thannhauser Collection wing at The Solomon R",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5_Av_Sep_2022_145.jpg",
+    "file": "File:5 Av Sep 2022 145.jpg"
+   },
+   {
+    "src": "images/solomon-r-guggenheim-museum/7.webp",
+    "thumb": "images/solomon-r-guggenheim-museum/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing · Legoland California's Miniland features this model of the Guggenheim Museum",
+    "credit": "mliu92  from San Mateo",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guggenheim_Museum_-_Legoland_California_(2897811006).jpg",
+    "file": "File:Guggenheim Museum - Legoland California (2897811006).jpg"
+   }
+  ],
+  "commons": "Category:Solomon R. Guggenheim Museum"
  },
  {
   "id": "bauhaus-dessau",
@@ -319,7 +1524,45 @@ window.BUILDINGS = [
    "Free plan"
   ],
   "study": "A pinwheel plan, with a glass curtain wall wrapping the workshops.",
-  "images": []
+  "images": [
+   {
+    "src": "images/bauhaus-dessau/0.webp",
+    "thumb": "images/bauhaus-dessau/thumbs/0.webp",
+    "w": 1400,
+    "h": 817,
+    "kind": "Exterior",
+    "caption": "Exterior · Blick vom Rathaus in Dessau auf die Stadt, Juni 1932",
+    "credit": "Q140185287",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dessau-01-Rudolf-Knobloch-1932.jpg",
+    "file": "File:Dessau-01-Rudolf-Knobloch-1932.jpg"
+   },
+   {
+    "src": "images/bauhaus-dessau/1.webp",
+    "thumb": "images/bauhaus-dessau/thumbs/1.webp",
+    "w": 1400,
+    "h": 444,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dessau-1650-Merian.jpg",
+    "file": "File:Dessau-1650-Merian.jpg"
+   },
+   {
+    "src": "images/bauhaus-dessau/2.webp",
+    "thumb": "images/bauhaus-dessau/thumbs/2.webp",
+    "w": 1400,
+    "h": 227,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "M_H.DE",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dessau,_Alter_R%C3%A4ucherturm,_Panorama_vom_Aussichtsplattform.jpg",
+    "file": "File:Dessau, Alter Räucherturm, Panorama vom Aussichtsplattform.jpg"
+   }
+  ],
+  "commons": "Category:Dessau-Roßlau"
  },
  {
   "id": "rietveld-schroder-house",
@@ -339,7 +1582,105 @@ window.BUILDINGS = [
    "Cantilever"
   ],
   "study": "De Stijl in three dimensions: floating planes and sliding partitions.",
-  "images": []
+  "images": [
+   {
+    "src": "images/rietveld-schroder-house/0.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · image of the house in winter",
+    "credit": "Luis Guillermo R.",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_winter_2014-15_02.JPG",
+    "file": "File:Rietveld Schröderhuis winter 2014-15 02.JPG"
+   },
+   {
+    "src": "images/rietveld-schroder-house/1.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · image of the house in winter",
+    "credit": "Luis Guillermo R.",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_winter_2014-15_03.JPG",
+    "file": "File:Rietveld Schröderhuis winter 2014-15 03.JPG"
+   },
+   {
+    "src": "images/rietveld-schroder-house/2.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 923,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Joop Elsinga",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Straatbeeld_waaronder_Rietveld_Schr%C3%B6derhuis_Tussen_ongeveer_de_jaren_1960_en_1990_heeft_de_Afdeling_-_RAA-DMGA-01509_-_RAA_Elsinga.jpg",
+    "file": "File:Straatbeeld waaronder Rietveld Schröderhuis Tussen ongeveer de jaren 1960 en 1990 heeft de Afdeling - RAA-DMGA-01509 - RAA Elsinga.jpg"
+   },
+   {
+    "src": "images/rietveld-schroder-house/3.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Utrecht",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Utrecht_143.jpg",
+    "file": "File:Utrecht 143.jpg"
+   },
+   {
+    "src": "images/rietveld-schroder-house/4.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 949,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Joanbanjo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Recreaci%C3%B3_de_part_de_la_cuina_de_la_casa_Schr%C3%B6der,_col%C2%B7lecci%C3%B3_Alfaro_Hofmann.jpg",
+    "file": "File:Recreació de part de la cuina de la casa Schröder, col·lecció Alfaro Hofmann.jpg"
+   },
+   {
+    "src": "images/rietveld-schroder-house/5.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Rietveld Schroeder Huis Utrecht",
+    "credit": "Olivermal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rietveld_Schroeder_Huis_Utrecht_Interior.jpg",
+    "file": "File:Rietveld Schroeder Huis Utrecht Interior.jpg"
+   },
+   {
+    "src": "images/rietveld-schroder-house/6.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Het Rietveld Schröderhuis is het architectonische hoogtepunt van de kunststroming De Stijl",
+    "credit": "John Boers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JB.Utrecht.RietveldSchroderhuis.Spreekbuis.jpg",
+    "file": "File:JB.Utrecht.RietveldSchroderhuis.Spreekbuis.jpg"
+   },
+   {
+    "src": "images/rietveld-schroder-house/7.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/7.webp",
+    "w": 939,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Gerrit Rietveld, Maison Schröder, plan étage avec variante parois repoussées",
+    "credit": "Jchancerel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RietveldSchroderPlans.png",
+    "file": "File:RietveldSchroderPlans.png"
+   }
+  ],
+  "commons": "Category:Rietveld Schröder House"
  },
  {
   "id": "paimio-sanatorium",
@@ -359,7 +1700,105 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "Ceilings, basins and door handles all designed around patients lying in bed.",
-  "images": []
+  "images": [
+   {
+    "src": "images/paimio-sanatorium/0.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Paimio Sanatorium is a former tuberculosis sanatorium designed by Alvar Aalto and his wife Aino Aalto",
+    "credit": "Tero Karppinen  from Finland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:-Paimio_Sanatorium_20230627-A7201681.JPG-_(53006235979).jpg",
+    "file": "File:-Paimio Sanatorium 20230627-A7201681.JPG- (53006235979).jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/1.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Unesco 2026 Paimion parantola Alvar Aalto",
+    "credit": "Aurorakiitäjä",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unesco_2026_Paimion_parantola_Alvar_Aalto.jpg",
+    "file": "File:Unesco 2026 Paimion parantola Alvar Aalto.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/2.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The terrace of the Paimio Sanatorium",
+    "credit": "Saandraaa",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_terrace_of_Paimio_Sanatorium.jpg",
+    "file": "File:The terrace of Paimio Sanatorium.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/3.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Remote view of the Paimio Sanatorium",
+    "credit": "Ypsilon from Finland",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paimio_sanatorium_covered_by_trees.jpg",
+    "file": "File:Paimio sanatorium covered by trees.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/4.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Finland identified by the ID 'Paimio Sanatorium' (Q368706) - RKY: 1795",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paimion_parantola_aula.jpg",
+    "file": "File:Paimion parantola aula.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/5.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Finland identified by the ID 'Paimio Sanatorium' (Q368706) - RKY: 1795",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paimion_parantola_neuvonta.jpg",
+    "file": "File:Paimion parantola neuvonta.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/6.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Finland identified by the ID 'Paimio Sanatorium' (Q368706) - RKY: 1795",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paimion_parantola_ravintola.jpg",
+    "file": "File:Paimion parantola ravintola.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/7.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Alvar Aalto, Paimio Sanatorium, Patient bedroom lamp",
+    "credit": "TTKK",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto,_Paimio_Sanatorium,_Bedroom_lamp.jpg",
+    "file": "File:Alvar Aalto, Paimio Sanatorium, Bedroom lamp.jpg"
+   }
+  ],
+  "commons": "Category:Paimio Sanatorium"
  },
  {
   "id": "villa-mairea",
@@ -379,7 +1818,69 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "Modernism softened with timber, a forest of poles and an L-shaped courtyard.",
-  "images": []
+  "images": [
+   {
+    "src": "images/villa-mairea/0.webp",
+    "thumb": "images/villa-mairea/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Löytänejärveä Noormsrkussa Porissa elokuussa 2016 nähtynä luoteesta",
+    "credit": "Urjanhai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%B6yt%C3%A4nej%C3%A4rvi.jpg",
+    "file": "File:Löytänejärvi.jpg"
+   },
+   {
+    "src": "images/villa-mairea/1.webp",
+    "thumb": "images/villa-mairea/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Haukijärvi Porin Noormarkussa",
+    "credit": "Nr3 datacom",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haukij%C3%A4rven_ranta.jpg",
+    "file": "File:Haukijärven ranta.jpg"
+   },
+   {
+    "src": "images/villa-mairea/2.webp",
+    "thumb": "images/villa-mairea/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Haukijärvi Porin Noormarkussa",
+    "credit": "Nr3 datacom",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haukij%C3%A4rvi_ja_m%C3%B6kki.jpg",
+    "file": "File:Haukijärvi ja mökki.jpg"
+   },
+   {
+    "src": "images/villa-mairea/3.webp",
+    "thumb": "images/villa-mairea/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Inhottujärvi Porin Noormarkussa",
+    "credit": "Nr3 datacom",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inhottuj%C3%A4rvi.jpg",
+    "file": "File:Inhottujärvi.jpg"
+   },
+   {
+    "src": "images/villa-mairea/4.webp",
+    "thumb": "images/villa-mairea/thumbs/4.webp",
+    "w": 1400,
+    "h": 722,
+    "kind": "Context",
+    "caption": "Context · Aerial view of Noormarkku",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noormarkku.jpg",
+    "file": "File:Noormarkku.jpg"
+   }
+  ],
+  "commons": "Category:Noormarkku"
  },
  {
   "id": "saynatsalo-town-hall",
@@ -399,7 +1900,93 @@ window.BUILDINGS = [
    "Timber"
   ],
   "study": "A brick town hall around a raised grass courtyard, with timber trusses over the council.",
-  "images": []
+  "images": [
+   {
+    "src": "images/saynatsalo-town-hall/0.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A4yn%C3%A4tsalon_kunnantalo1.jpg",
+    "file": "File:Säynätsalon kunnantalo1.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/1.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A4yn%C3%A4tsalon_kunnantalo2.jpg",
+    "file": "File:Säynätsalon kunnantalo2.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/2.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A4yn%C3%A4tsalo_kunnantalo.jpg",
+    "file": "File:Säynätsalo kunnantalo.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/3.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/3.webp",
+    "w": 929,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Kaipio safe in the Taipuu Gallery in Säynätsalo Town Hall, Jyväskylä, Finland",
+    "credit": "Antti Leppänen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaipio_safe_S%C3%A4yn%C3%A4tsalo_Town_Hall.jpg",
+    "file": "File:Kaipio safe Säynätsalo Town Hall.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/4.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/4.webp",
+    "w": 1400,
+    "h": 929,
+    "kind": "Interior",
+    "caption": "Interior · Meeting room in Säynätsalo Town Hall, Jyväskylä, Finland",
+    "credit": "Antti Leppänen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meeting_room_S%C3%A4yn%C3%A4tsalo_Town_Hall.jpg",
+    "file": "File:Meeting room Säynätsalo Town Hall.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/5.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/5.webp",
+    "w": 1400,
+    "h": 929,
+    "kind": "Interior",
+    "caption": "Interior · Chair's table at the council chamber of Säynätsalo Town Hall in Jyväskylä, Finland",
+    "credit": "Antti Leppänen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%A4yn%C3%A4tsalo_Town_Hall_council_chamber_chair%27s_table.jpg",
+    "file": "File:Säynätsalo Town Hall council chamber chair's table.jpg"
+   },
+   {
+    "src": "images/saynatsalo-town-hall/6.webp",
+    "thumb": "images/saynatsalo-town-hall/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "丘崈",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%B3%BD%E4%BA%8E%E5%A5%88%E5%AF%9F%E6%B4%9B%E5%B8%82%E6%94%BF%E5%BB%B3%E6%A8%A1%E5%9E%8B.jpg",
+    "file": "File:賽于奈察洛市政廳模型.jpg"
+   }
+  ],
+  "commons": "Category:Säynätsalo town hall"
  },
  {
   "id": "eames-house",
@@ -419,7 +2006,81 @@ window.BUILDINGS = [
    "Colour"
   ],
   "study": "A Case Study House assembled from off-the-shelf industrial parts.",
-  "images": []
+  "images": [
+   {
+    "src": "images/eames-house/0.webp",
+    "thumb": "images/eames-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 1085,
+    "kind": "Exterior",
+    "caption": "Exterior · Taller Casa Eames",
+    "credit": "Canela.colores",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taller_Casa_Eames.JPG",
+    "file": "File:Taller Casa Eames.JPG"
+   },
+   {
+    "src": "images/eames-house/1.webp",
+    "thumb": "images/eames-house/thumbs/1.webp",
+    "w": 702,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · wireframe de isometricas Casa Eames",
+    "credit": "Canela.colores",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Isometricas_Casa_Eames.jpg",
+    "file": "File:Isometricas Casa Eames.jpg"
+   },
+   {
+    "src": "images/eames-house/2.webp",
+    "thumb": "images/eames-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 717,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "edward stojakovic",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eames_House_(14018491468).jpg",
+    "file": "File:Eames House (14018491468).jpg"
+   },
+   {
+    "src": "images/eames-house/3.webp",
+    "thumb": "images/eames-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kyle",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Case_Study_House_8_(Eames_House)_(49841752358).jpg",
+    "file": "File:Case Study House 8 (Eames House) (49841752358).jpg"
+   },
+   {
+    "src": "images/eames-house/4.webp",
+    "thumb": "images/eames-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Eames House Interior",
+    "credit": "edward stojakovic",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eames_House_Interior.jpg",
+    "file": "File:Eames House Interior.jpg"
+   },
+   {
+    "src": "images/eames-house/5.webp",
+    "thumb": "images/eames-house/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "edward stojakovic",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eames_House_from_above_(14205168324).jpg",
+    "file": "File:Eames House from above (14205168324).jpg"
+   }
+  ],
+  "commons": "Category:Eames House"
  },
  {
   "id": "glass-house",
@@ -439,7 +2100,105 @@ window.BUILDINGS = [
    "Free plan"
   ],
   "study": "A glass box whose walls are the landscape; only the bathroom is enclosed.",
-  "images": []
+  "images": [
+   {
+    "src": "images/glass-house/0.webp",
+    "thumb": "images/glass-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 1002,
+    "kind": "Exterior",
+    "caption": "Exterior · Glass House (aka Johnson house) in New Canaan, Connecticut, US",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Glass_House_2006.jpg",
+    "file": "File:Glass House 2006.jpg"
+   },
+   {
+    "src": "images/glass-house/1.webp",
+    "thumb": "images/glass-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 1101,
+    "kind": "Exterior",
+    "caption": "Exterior · este es un esquema de ventilación de la casa",
+    "credit": "Edelteil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Esquema_de_ventilaci%C3%B3n_de_la_casa.jpg",
+    "file": "File:Esquema de ventilación de la casa.jpg"
+   },
+   {
+    "src": "images/glass-house/2.webp",
+    "thumb": "images/glass-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 1127,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Da Monsta\" (gate house) at Philip Johnson's Glass House, New Canaan, CT USA",
+    "credit": "Staib",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Da-monsta-philip-johnson-glass-house.jpg",
+    "file": "File:Da-monsta-philip-johnson-glass-house.jpg"
+   },
+   {
+    "src": "images/glass-house/3.webp",
+    "thumb": "images/glass-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · The Phillip Johnson Glass House in New Canaan, CT",
+    "credit": "Mds08011",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillip_Johnson_Glass_House_Window.jpg",
+    "file": "File:Phillip Johnson Glass House Window.jpg"
+   },
+   {
+    "src": "images/glass-house/4.webp",
+    "thumb": "images/glass-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Sculpture Gallery (interior) at Philip Johnson's Glass House, New Canaan, CT, USA",
+    "credit": "Staib",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sculpture-gallery-interior-philip-johnson-glass-house.jpg",
+    "file": "File:Sculpture-gallery-interior-philip-johnson-glass-house.jpg"
+   },
+   {
+    "src": "images/glass-house/5.webp",
+    "thumb": "images/glass-house/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · The Glass House Visitors Center glass door located at 199 Elm Street, New Canaan, Connecticut",
+    "credit": "Christoper Peterson",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glass_house_philip_johnson_architecture.jpg",
+    "file": "File:Glass house philip johnson architecture.jpg"
+   },
+   {
+    "src": "images/glass-house/6.webp",
+    "thumb": "images/glass-house/thumbs/6.webp",
+    "w": 1400,
+    "h": 895,
+    "kind": "Context",
+    "caption": "Context · this is the location",
+    "credit": "Edelteil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Emplazamiento_con_vistas.jpg",
+    "file": "File:Emplazamiento con vistas.jpg"
+   },
+   {
+    "src": "images/glass-house/7.webp",
+    "thumb": "images/glass-house/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing · A model of the Glass House by architect Philip Johnson in display at the MOMA in NYC",
+    "credit": "Petri Krohn  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MOMA_Johnson_Glass_House2.jpg",
+    "file": "File:MOMA Johnson Glass House2.jpg"
+   }
+  ],
+  "commons": "Category:Glass House, New Canaan"
  },
  {
   "id": "casa-luis-barragan",
@@ -459,7 +2218,57 @@ window.BUILDINGS = [
    "Courtyard"
   ],
   "study": "A blank wall to the street, and colour, light and gardens within.",
-  "images": []
+  "images": [
+   {
+    "src": "images/casa-luis-barragan/0.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alaniarq",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louise_Noelle_Gras_Gras_dictando_una_ponencia_sobre_Luis_Barrag%C3%A1n.jpg",
+    "file": "File:Louise Noelle Gras Gras dictando una ponencia sobre Luis Barragán.jpg"
+   },
+   {
+    "src": "images/casa-luis-barragan/1.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa ITESO Clavijero en Guadalajara, obra de Luis Barragán en 1930",
+    "credit": "Mario Yaír TS",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_ITESO_Clavijero_en_Guadalajara.jpg",
+    "file": "File:Casa ITESO Clavijero en Guadalajara.jpg"
+   },
+   {
+    "src": "images/casa-luis-barragan/2.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/2.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Luis Barragan house in Chapala, Jalisco",
+    "credit": "AlejandroLinaresGarcia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapala174.JPG",
+    "file": "File:Chapala174.JPG"
+   },
+   {
+    "src": "images/casa-luis-barragan/3.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/3.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Luis Barragan house in Chapala, Jalisco",
+    "credit": "AlejandroLinaresGarcia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapala175.JPG",
+    "file": "File:Chapala175.JPG"
+   }
+  ],
+  "commons": "Category:Luis Barragán"
  },
  {
   "id": "cathedral-of-brasilia",
@@ -479,7 +2288,105 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "Sixteen curved concrete columns around a sunken, light-filled nave.",
-  "images": []
+  "images": [
+   {
+    "src": "images/cathedral-of-brasilia/0.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Grupo Menos é Mais",
+    "credit": "Taissa rodrigues",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:-%2B_CINEL%C3%82NDIA-82.jpg",
+    "file": "File:-+ CINELÂNDIA-82.jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/1.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Agência Brasília  from Brasília, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:07_12_2023_-_-TBT_Bras%C3%ADlia,_h%C3%A1_36_anos_Patrim%C3%B4nio_Mundial_pela_Unesco_(53380561112).jpg",
+    "file": "File:07 12 2023 - -TBT Brasília, há 36 anos Patrimônio Mundial pela Unesco (53380561112).jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/2.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Agência Brasília  from Brasília, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:07_12_2023_-_-TBT_Bras%C3%ADlia,_h%C3%A1_36_anos_Patrim%C3%B4nio_Mundial_pela_Unesco_(53380561597).jpg",
+    "file": "File:07 12 2023 - -TBT Brasília, há 36 anos Patrimônio Mundial pela Unesco (53380561597).jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/3.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Palácio do Planalto  from Brasilia, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:23_07_2021_Foto_do_dia_(51331451864).jpg",
+    "file": "File:23 07 2021 Foto do dia (51331451864).jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/4.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/4.webp",
+    "w": 1400,
+    "h": 949,
+    "kind": "Interior",
+    "caption": "Interior · Official program (leaflet) of the Rotary Music Bands Contest , promoted by Rotary Districts 4530 and 4610",
+    "credit": "Rotary International / Distritos 4530 e 4610 (obra institucional, utilitária e factual)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1997-Concurso_Rotary_de_Bandas_de_M%C3%BAsica_02.jpg",
+    "file": "File:1997-Concurso Rotary de Bandas de Música 02.jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/5.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/5.webp",
+    "w": 1400,
+    "h": 655,
+    "kind": "Context",
+    "caption": "Context · South Axis, Brasilia DF",
+    "credit": "mariordo59  from Santo Domingo, Dominican Republic",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brasilia_Panorama_Exao_Sul_02_2006_44_(24445902648).jpg",
+    "file": "File:Brasilia Panorama Exao Sul 02 2006 44 (24445902648).jpg"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/6.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing · One of the first plans of Brasília",
+    "credit": "Uri Rosenheck ( User:R.uri ;  he:משתמש:אורי ר. )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brasilia_-_Plan.JPG",
+    "file": "File:Brasilia - Plan.JPG"
+   },
+   {
+    "src": "images/cathedral-of-brasilia/7.webp",
+    "thumb": "images/cathedral-of-brasilia/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Brasília plan on a stela",
+    "credit": "ACrush",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BSB-CityPlan.jpg",
+    "file": "File:BSB-CityPlan.jpg"
+   }
+  ],
+  "commons": "Category:Brasília"
  },
  {
   "id": "hiroshima-peace-memorial-museum",
@@ -499,7 +2406,105 @@ window.BUILDINGS = [
    "Axis"
   ],
   "study": "Raised on pilotis and aligned on an axis with the A-Bomb Dome.",
-  "images": []
+  "images": [
+   {
+    "src": "images/hiroshima-peace-memorial-museum/0.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The Hiroshima Peace Memorial, also known as the Atomic Bomb Dome, in Hiroshima Peace Memorial Park",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20181111_Atomic_Bomb_Dome-5.jpg",
+    "file": "File:20181111 Atomic Bomb Dome-5.jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/1.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 1000,
+    "kind": "Exterior",
+    "caption": "Exterior · A south view of the Atomic Bomb Dome, Hiroshima",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome,_Hiroshima,_South_view_20190417_1.jpg",
+    "file": "File:Atomic Bomb Dome, Hiroshima, South view 20190417 1.jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/2.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · Hiroshima Peace Memorial (Genbaku Dome)",
+    "credit": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome),_20240817_1036_4219.jpg",
+    "file": "File:Hiroshima Peace Memorial (Genbaku Dome), 20240817 1036 4219.jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/3.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/3.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior · Hiroshima Peace Memorial (Genbaku Dome)",
+    "credit": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_(Genbaku_Dome),_20240817_1050_4229.jpg",
+    "file": "File:Hiroshima Peace Memorial (Genbaku Dome), 20240817 1050 4229.jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/4.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Interior",
+    "caption": "Interior · Ruin of the Hiroshima Prefectural Industrial Promotion Hall at the Hiroshima Peace Memorial",
+    "credit": "ConnerRJD",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CD405167.jpg",
+    "file": "File:CD405167.jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/5.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/5.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Interior",
+    "caption": "Interior · Sign pointing to the Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims",
+    "credit": "shankar s.  from Poona (pune), India, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sign_pointing_to_the_Hiroshima_Peace_Memorial_Hall_(49495736587).jpg",
+    "file": "File:Sign pointing to the Hiroshima Peace Memorial Hall (49495736587).jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/6.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "shankar s.  from Poona (pune), India, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Genbaku_Dome_again-_I_was_feeling_sick_in_the_stomach_(49494970223).jpg",
+    "file": "File:The Genbaku Dome again- I was feeling sick in the stomach (49494970223).jpg"
+   },
+   {
+    "src": "images/hiroshima-peace-memorial-museum/7.webp",
+    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/7.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Context",
+    "caption": "Context · 18/05/2023",
+    "credit": "Number 10",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Rishi_Sunak_attends_G7_Summit_in_Hiroshima_Japan_(52907950772).jpg",
+    "file": "File:Prime Minister Rishi Sunak attends G7 Summit in Hiroshima Japan (52907950772).jpg"
+   }
+  ],
+  "commons": "Category:Hiroshima Peace Memorial (Genbaku Dome)"
  },
  {
   "id": "golconde",
@@ -519,7 +2524,81 @@ window.BUILDINGS = [
    "Timber"
   ],
   "study": "Often called India's first modernist building: a dormitory cooled by pivoting louvres.",
-  "images": []
+  "images": [
+   {
+    "src": "images/golconde/0.webp",
+    "thumb": "images/golconde/thumbs/0.webp",
+    "w": 959,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rijksmuseum",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Bara_Malik_hij_is_eerst_vizier_geweest_van_de_sultan_die_over_de_stad_Bidar_regeerde_later_werd_hij_heerser_van_Golconda_en_heeft_hij_Golconda_gesticht,_RP-T-00-3186-19A.jpg",
+    "file": "File:Portret van Bara Malik hij is eerst vizier geweest van de sultan die over de stad Bidar regeerde later werd hij heerser van Golconda en heeft hij Golconda gesticht, RP-T-00-3186-19A.jpg"
+   },
+   {
+    "src": "images/golconde/1.webp",
+    "thumb": "images/golconde/thumbs/1.webp",
+    "w": 957,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rijksmuseum",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Muhammad-Quli,_zoon_van_Ibrahim_na_zijn_vader_heeft_hij_over_Golconda_geregeerd,_RP-T-00-3186-20.jpg",
+    "file": "File:Portret van Muhammad-Quli, zoon van Ibrahim na zijn vader heeft hij over Golconda geregeerd, RP-T-00-3186-20.jpg"
+   },
+   {
+    "src": "images/golconde/2.webp",
+    "thumb": "images/golconde/thumbs/2.webp",
+    "w": 966,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rijksmuseum",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Sultan_Abdullah,_zoon_van_Sultan_Muhammad-Quli_na_zijn_vader_heeft_hij_over_Golconda_geregeerd,_RP-T-00-3186-22.jpg",
+    "file": "File:Portret van Sultan Abdullah, zoon van Sultan Muhammad-Quli na zijn vader heeft hij over Golconda geregeerd, RP-T-00-3186-22.jpg"
+   },
+   {
+    "src": "images/golconde/3.webp",
+    "thumb": "images/golconde/thumbs/3.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dhimant Chovatia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arches_at_the_tomb_of_Abdullah_Qutub_Shah.jpg",
+    "file": "File:Arches at the tomb of Abdullah Qutub Shah.jpg"
+   },
+   {
+    "src": "images/golconde/4.webp",
+    "thumb": "images/golconde/thumbs/4.webp",
+    "w": 1400,
+    "h": 1376,
+    "kind": "Interior",
+    "caption": "Interior · unfinished Tomb inside seven tombs from the qutub shahi dynasty",
+    "credit": "Mhahasanat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unfinished_Tomb_of_Qutub_Shahi.jpg",
+    "file": "File:Unfinished Tomb of Qutub Shahi.jpg"
+   },
+   {
+    "src": "images/golconde/5.webp",
+    "thumb": "images/golconde/thumbs/5.webp",
+    "w": 1400,
+    "h": 937,
+    "kind": "Interior",
+    "caption": "Interior · This is the interior of the unfinished tomb that was made for the last Qutub Shahi Sultan Abdullah Qutub Shah",
+    "credit": "Dhimant Chovatia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unfinished_Tomb_of_Abul_Hasan_Tanashah.jpg",
+    "file": "File:Unfinished Tomb of Abul Hasan Tanashah.jpg"
+   }
+  ],
+  "commons": "Category:Qutb Shahi dynasty"
  },
  {
   "id": "salk-institute",
@@ -539,7 +2618,105 @@ window.BUILDINGS = [
    "Courtyard"
   ],
   "study": "Laboratories with service floors between them, around a travertine plaza open to the Pacific.",
-  "images": []
+  "images": [
+   {
+    "src": "images/salk-institute/0.webp",
+    "thumb": "images/salk-institute/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Some chairs and a table at the Salk Institute for Biological Studies ",
+    "credit": "Daniel L. Lu (user:dllu)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chairs_and_table_at_Salk_Institute_dllu.jpg",
+    "file": "File:Chairs and table at Salk Institute dllu.jpg"
+   },
+   {
+    "src": "images/salk-institute/1.webp",
+    "thumb": "images/salk-institute/thumbs/1.webp",
+    "w": 1400,
+    "h": 700,
+    "kind": "Exterior",
+    "caption": "Exterior · The Salk Institute for Biological Studies is a famous modernist design by Louis Kahn , built in 1966",
+    "credit": "Daniel L. Lu (user:dllu)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salk_Institute_for_Biological_Studies_and_a_seagull_dllu.jpg",
+    "file": "File:Salk Institute for Biological Studies and a seagull dllu.jpg"
+   },
+   {
+    "src": "images/salk-institute/2.webp",
+    "thumb": "images/salk-institute/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Christopher Michel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr_Joanne_Chory.jpg",
+    "file": "File:Dr Joanne Chory.jpg"
+   },
+   {
+    "src": "images/salk-institute/3.webp",
+    "thumb": "images/salk-institute/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Salk_Institute_north_building_stairs_and_skylight.jpg",
+    "file": "File:2019 Salk Institute north building stairs and skylight.jpg"
+   },
+   {
+    "src": "images/salk-institute/4.webp",
+    "thumb": "images/salk-institute/thumbs/4.webp",
+    "w": 1400,
+    "h": 1103,
+    "kind": "Interior",
+    "caption": "Interior · Salk Institute from interior courtyard in La Jolla, CA",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Salk_Institute_Highsmith.jpg",
+    "file": "File:Salk Institute Highsmith.jpg"
+   },
+   {
+    "src": "images/salk-institute/5.webp",
+    "thumb": "images/salk-institute/thumbs/5.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the Salk Institute for Biological Studies , a modernist design by Louis Kahn, built in 1966",
+    "credit": "Daniel L. Lu (user:dllu)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salk_Institute_for_Biological_Studies_and_Bill_Nye_Quote_dllu.jpg",
+    "file": "File:Salk Institute for Biological Studies and Bill Nye Quote dllu.jpg"
+   },
+   {
+    "src": "images/salk-institute/6.webp",
+    "thumb": "images/salk-institute/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Salk_Institute_and_cafe_from_west.jpg",
+    "file": "File:2019 Salk Institute and cafe from west.jpg"
+   },
+   {
+    "src": "images/salk-institute/7.webp",
+    "thumb": "images/salk-institute/thumbs/7.webp",
+    "w": 1176,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Salk_Institute_south_building_chalk_drawing_on_door.jpg",
+    "file": "File:2019 Salk Institute south building chalk drawing on door.jpg"
+   }
+  ],
+  "commons": "Category:Salk Institute for Biological Studies"
  },
  {
   "id": "phillips-exeter-academy-library",
@@ -559,7 +2736,105 @@ window.BUILDINGS = [
    "Double height"
   ],
   "study": "Books around a central atrium framed by huge circles; reading carrels at the brick edge.",
-  "images": []
+  "images": [
+   {
+    "src": "images/phillips-exeter-academy-library/0.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Exeter Library",
+    "credit": "Rohmer  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_library.jpg",
+    "file": "File:Exeter library.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/1.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcade on ground floor of Phillips Exeter Academy Library",
+    "credit": "Cysj1024",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Arcade_01.jpg",
+    "file": "File:Exeter Library Arcade 01.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/2.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/2.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Exeter",
+    "credit": "Naquib Hossain  from Montreal, Philadelphia, Dhaka",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_(15101433156).jpg",
+    "file": "File:Exeter (15101433156).jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/3.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/3.webp",
+    "w": 1080,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Phillips Exeter Library atrium",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillips_Exeter_Library_atrium_Highsmith.jpg",
+    "file": "File:Phillips Exeter Library atrium Highsmith.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/4.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Phillips Exeter Library, New Hampshire - Louis I",
+    "credit": "Pablo Sanchez  from Prague, Czech Republic",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillips_Exeter_Library,_New_Hampshire_-_Louis_I._Kahn_(1972)c.jpg",
+    "file": "File:Phillips Exeter Library, New Hampshire - Louis I. Kahn (1972)c.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/5.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Atrium corner of Phillips Exeter Academy Library",
+    "credit": "Cysj1024",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Atrium_01.jpg",
+    "file": "File:Exeter Library Atrium 01.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/6.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/6.webp",
+    "w": 466,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Phillips Exeter Library, New Hampshire - Louis I",
+    "credit": "Pablo Sanchez  from Prague, Czech Republic",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillips_Exeter_Library,_New_Hampshire_-_Louis_I._Kahn_(1972).jpg",
+    "file": "File:Phillips Exeter Library, New Hampshire - Louis I. Kahn (1972).jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/7.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Cysj1024",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Facade_01.jpg",
+    "file": "File:Exeter Library Facade 01.jpg"
+   }
+  ],
+  "commons": "Category:Phillips Exeter Academy Library"
  },
  {
   "id": "kimbell-art-museum",
@@ -579,7 +2854,105 @@ window.BUILDINGS = [
    "Exposed concrete"
   ],
   "study": "Cycloid vaults split by a slot of daylight bounced off reflectors.",
-  "images": []
+  "images": [
+   {
+    "src": "images/kimbell-art-museum/0.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The Kimbell Art Museum in Fort Worth , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Cultural_District_June_2016_12_(Kimbell_Art_Museum).jpg",
+    "file": "File:Fort Worth Cultural District June 2016 12 (Kimbell Art Museum).jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/1.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The Kimbell Art Museum in Fort Worth , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Cultural_District_June_2016_13_(Kimbell_Art_Museum).jpg",
+    "file": "File:Fort Worth Cultural District June 2016 13 (Kimbell Art Museum).jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/2.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Kimbell Art Museum, Fort Worth, United States",
+    "credit": "Víctor Hugo  huggomena",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_(Unsplash).jpg",
+    "file": "File:Kimbell Art Museum (Unsplash).jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/3.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/3.webp",
+    "w": 1400,
+    "h": 1106,
+    "kind": "Exterior",
+    "caption": "Exterior · South wing of the Kimbell Art Museum at dusk, Fort Worth, Texas",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_Dusk_Highsmith.jpg",
+    "file": "File:Kimbell Art Museum Dusk Highsmith.jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/4.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Interior, Kimbell Art Museum, Fort Worth, Texas",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_interior_01.jpg",
+    "file": "File:Kimbell Art Museum interior 01.jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/5.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Interior, Kimbell Art Museum, Fort Worth, Texas",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_interior_02.jpg",
+    "file": "File:Kimbell Art Museum interior 02.jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/6.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · The interior of the Kimbell Art Museum in Fort Worth , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_January_2017_1.jpg",
+    "file": "File:Kimbell Art Museum January 2017 1.jpg"
+   },
+   {
+    "src": "images/kimbell-art-museum/7.webp",
+    "thumb": "images/kimbell-art-museum/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · Kimbell Art Museum exterior with Figure in a Shelter by Henry Moore",
+    "credit": "Kevin Muncie",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_with_Moore_sculpture.jpg",
+    "file": "File:Kimbell Art Museum with Moore sculpture.jpg"
+   }
+  ],
+  "commons": "Category:Kimbell Art Museum"
  },
  {
   "id": "iim-ahmedabad",
@@ -599,7 +2972,105 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "Brick arches tied with concrete, and deep shaded spaces against the Gujarat heat.",
-  "images": []
+  "images": [
+   {
+    "src": "images/iim-ahmedabad/0.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Musical performance during IIM Ahmedabad's cultural festival",
+    "credit": "Perspectives - The Photography Club, IIM Ahmedabad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chaos_2017,_IIM_Ahmedabad.jpg",
+    "file": "File:Chaos 2017, IIM Ahmedabad.jpg"
+   },
+   {
+    "src": "images/iim-ahmedabad/1.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Performance by IIMACTS, IIM Ahmedabad's dramatics society",
+    "credit": "Perspectives - The Photography Club, IIM Ahmedabad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IIMACTS_Performance,_IIM_Ahmedabad.jpg",
+    "file": "File:IIMACTS Performance, IIM Ahmedabad.jpg"
+   },
+   {
+    "src": "images/iim-ahmedabad/2.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · The entrance of CIIE headquarter at IIM Ahmedabad",
+    "credit": "Rohit Kesarwani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CIIE,_IIM_Ahmedabad.jpg",
+    "file": "File:CIIE, IIM Ahmedabad.jpg"
+   },
+   {
+    "src": "images/iim-ahmedabad/3.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/3.webp",
+    "w": 1400,
+    "h": 787,
+    "kind": "Interior",
+    "caption": "Interior · Indian Institute of Management Ahmedabad Classroom",
+    "credit": "Envision Studio",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IIM_Ahmedabad_Classroom_During_2012,_Photo1.jpg",
+    "file": "File:IIM Ahmedabad Classroom During 2012, Photo1.jpg"
+   },
+   {
+    "src": "images/iim-ahmedabad/4.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/4.webp",
+    "w": 1400,
+    "h": 787,
+    "kind": "Interior",
+    "caption": "Interior · Indian Institute of Management Ahmedabad, Classroom",
+    "credit": "Envision Studio",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IIM_Ahmedabad_Classroom_During_2012.jpg",
+    "file": "File:IIM Ahmedabad Classroom During 2012.jpg"
+   },
+   {
+    "src": "images/iim-ahmedabad/5.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · Close up of metallic sculpture in IMDC entrance",
+    "credit": "Students of IIMA",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Close_up_of_metallic_sculpture_in_IMDC_entrance.JPG",
+    "file": "File:Close up of metallic sculpture in IMDC entrance.JPG"
+   },
+   {
+    "src": "images/iim-ahmedabad/6.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Old Campus at night - Vikram Sarabhai Library is on right",
+    "credit": "Students of IIMA",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_Campus_at_night_-_Vikram_Sarabhai_Library_is_on_right.JPG",
+    "file": "File:Old Campus at night - Vikram Sarabhai Library is on right.JPG"
+   },
+   {
+    "src": "images/iim-ahmedabad/7.webp",
+    "thumb": "images/iim-ahmedabad/thumbs/7.webp",
+    "w": 1400,
+    "h": 345,
+    "kind": "Drawing",
+    "caption": "Drawing · Panorama image from class room of old campus at the Indian Institute of Management, Ahmedabad, Gujarat, India",
+    "credit": "Lauri Kymäläinen ( Lauri Kymäläinen ),",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Iima_oldcampus_class.png",
+    "file": "File:Iima oldcampus class.png"
+   }
+  ],
+  "commons": "Category:Indian Institute of Management Ahmedabad"
  },
  {
   "id": "national-assembly-of-bangladesh",
@@ -619,7 +3090,8 @@ window.BUILDINGS = [
    "Light & shadow"
   ],
   "study": "Geometric cut-outs carve light into a concrete citadel set in a lake.",
-  "images": []
+  "images": [],
+  "commons": "Category:Khalilur Rahman (economist)"
  },
  {
   "id": "yale-art-and-architecture-building",
@@ -639,7 +3111,69 @@ window.BUILDINGS = [
    "Double height"
   ],
   "study": "Dozens of interlocking levels and corduroy concrete: a design studio built in section.",
-  "images": []
+  "images": [
+   {
+    "src": "images/yale-art-and-architecture-building/0.webp",
+    "thumb": "images/yale-art-and-architecture-building/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Lampe à huile fitula Population Sorko / Bozo, Mali 19e s",
+    "credit": "",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lampe_%C3%A0_huile_fitula-Bozo-Mali_(d%C3%A9tail).jpg",
+    "file": "File:Lampe à huile fitula-Bozo-Mali (détail).jpg"
+   },
+   {
+    "src": "images/yale-art-and-architecture-building/1.webp",
+    "thumb": "images/yale-art-and-architecture-building/thumbs/1.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Yale Art Gallery, summer 2016",
+    "credit": "Karl Thomas Moore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yale_Art_Gallery_IV.jpg",
+    "file": "File:Yale Art Gallery IV.jpg"
+   },
+   {
+    "src": "images/yale-art-and-architecture-building/2.webp",
+    "thumb": "images/yale-art-and-architecture-building/thumbs/2.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Yale Art Gallery, summer 2016",
+    "credit": "Karl Thomas Moore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yale_Art_Gallery_XIV.jpg",
+    "file": "File:Yale Art Gallery XIV.jpg"
+   },
+   {
+    "src": "images/yale-art-and-architecture-building/3.webp",
+    "thumb": "images/yale-art-and-architecture-building/thumbs/3.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Yale Art Gallery, first floor",
+    "credit": "Karl Thomas Moore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yale_Art_Gallery_XVII.jpg",
+    "file": "File:Yale Art Gallery XVII.jpg"
+   },
+   {
+    "src": "images/yale-art-and-architecture-building/4.webp",
+    "thumb": "images/yale-art-and-architecture-building/thumbs/4.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Apextrancelike",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Doomed_1917_Onorio_Ruotolo.jpg",
+    "file": "File:The Doomed 1917 Onorio Ruotolo.jpg"
+   }
+  ],
+  "commons": "Category:Yale University Art Gallery"
  },
  {
   "id": "boston-city-hall",
@@ -659,7 +3193,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "An inverted ziggurat whose form shows the city government's functions from outside.",
-  "images": []
+  "images": [
+   {
+    "src": "images/boston-city-hall/0.webp",
+    "thumb": "images/boston-city-hall/thumbs/0.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "City of Boston Archives  from West Roxbury, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Employees_of_the_Inspectional_Services_Department,_Animal_Control_and_Protection_Unit_(9516902359).jpg",
+    "file": "File:Employees of the Inspectional Services Department, Animal Control and Protection Unit (9516902359).jpg"
+   },
+   {
+    "src": "images/boston-city-hall/1.webp",
+    "thumb": "images/boston-city-hall/thumbs/1.webp",
+    "w": 1400,
+    "h": 981,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: Mayor Raymond L",
+    "credit": "City of Boston Archives  from West Roxbury, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mayor_Raymond_L._Flynn_on_parade_review_stand_(9614721173).jpg",
+    "file": "File:Mayor Raymond L. Flynn on parade review stand (9614721173).jpg"
+   },
+   {
+    "src": "images/boston-city-hall/2.webp",
+    "thumb": "images/boston-city-hall/thumbs/2.webp",
+    "w": 1400,
+    "h": 774,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_city_hall.jpg",
+    "file": "File:Boston city hall.jpg"
+   },
+   {
+    "src": "images/boston-city-hall/3.webp",
+    "thumb": "images/boston-city-hall/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · View from One Beacon Street of Boston City Hall",
+    "credit": "NewtonCourt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_aerial_2019_P1020786.jpg",
+    "file": "File:Boston City Hall aerial 2019 P1020786.jpg"
+   },
+   {
+    "src": "images/boston-city-hall/4.webp",
+    "thumb": "images/boston-city-hall/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · View of City Hall Plaza from One Beacon Street",
+    "credit": "NewtonCourt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_City_Hall_Plaza_2019_P1020783.jpg",
+    "file": "File:Boston City Hall Plaza 2019 P1020783.jpg"
+   },
+   {
+    "src": "images/boston-city-hall/5.webp",
+    "thumb": "images/boston-city-hall/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · The Big Apple Circus tent on Boston City Hall Plaza, 2016",
+    "credit": "NewtonCourt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Apple_Circus_and_Boston_City_Hall,_P1000080.JPG",
+    "file": "File:Big Apple Circus and Boston City Hall, P1000080.JPG"
+   },
+   {
+    "src": "images/boston-city-hall/6.webp",
+    "thumb": "images/boston-city-hall/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Court Street, Boston",
+    "credit": "Reading Tom  from Reading, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Government_Center_(2639451490).jpg",
+    "file": "File:Government Center (2639451490).jpg"
+   },
+   {
+    "src": "images/boston-city-hall/7.webp",
+    "thumb": "images/boston-city-hall/thumbs/7.webp",
+    "w": 1400,
+    "h": 1157,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "City of Boston Archives  from West Roxbury, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Group_of_school_children_viewing_model_of_City_of_Boston_in_Boston_City_Hall_with_BRA_Director_Stephen_Coyle_at_far_right_(9504752322).jpg",
+    "file": "File:Group of school children viewing model of City of Boston in Boston City Hall with BRA Director Stephen Coyle at far right (9504752322).jpg"
+   }
+  ],
+  "commons": "Category:Boston City Hall"
  },
  {
   "id": "yoyogi-national-gymnasium",
@@ -679,7 +3311,69 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "A suspension roof hung from two concrete masts, built for the 1964 Olympics.",
-  "images": []
+  "images": [
+   {
+    "src": "images/yoyogi-national-gymnasium/0.webp",
+    "thumb": "images/yoyogi-national-gymnasium/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Construção em Shibuya",
+    "credit": "Dmitri Popov",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Constru%C3%A7%C3%A3o_em_Shibuya.jpg",
+    "file": "File:Construção em Shibuya.jpg"
+   },
+   {
+    "src": "images/yoyogi-national-gymnasium/1.webp",
+    "thumb": "images/yoyogi-national-gymnasium/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Shibuya Sky",
+    "credit": "Wei-Te Wong  from Taipei City, Taiwan, Republic of China",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shibuya_Sky_(49286902766).jpg",
+    "file": "File:Shibuya Sky (49286902766).jpg"
+   },
+   {
+    "src": "images/yoyogi-national-gymnasium/2.webp",
+    "thumb": "images/yoyogi-national-gymnasium/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Views from Shibuya Scramble Square",
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Views_from_Shibuya_Scramble_Square_20200113-2.jpg",
+    "file": "File:Views from Shibuya Scramble Square 20200113-2.jpg"
+   },
+   {
+    "src": "images/yoyogi-national-gymnasium/3.webp",
+    "thumb": "images/yoyogi-national-gymnasium/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · 2015",
+    "credit": "Syced",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ICC_Silent_Generator.jpg",
+    "file": "File:ICC Silent Generator.jpg"
+   },
+   {
+    "src": "images/yoyogi-national-gymnasium/4.webp",
+    "thumb": "images/yoyogi-national-gymnasium/thumbs/4.webp",
+    "w": 1400,
+    "h": 982,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Unknown author Unknown author",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xx1164_-_Wheelchair_basketball_Tokyo_Games_-_3b_-_Scan.jpg",
+    "file": "File:Xx1164 - Wheelchair basketball Tokyo Games - 3b - Scan.jpg"
+   }
+  ],
+  "commons": "Category:Yoyogi National Gymnasium"
  },
  {
   "id": "habitat-67",
@@ -699,7 +3393,105 @@ window.BUILDINGS = [
    "Prefabrication"
   ],
   "study": "354 prefabricated modules stacked so each flat gets a garden on a neighbour's roof.",
-  "images": []
+  "images": [
+   {
+    "src": "images/habitat-67/0.webp",
+    "thumb": "images/habitat-67/thumbs/0.webp",
+    "w": 1400,
+    "h": 1150,
+    "kind": "Exterior",
+    "caption": "Exterior · Ground level view of Habitat 67 in Montreal",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_01.jpg",
+    "file": "File:Habitat 67 2019 dllu 01.jpg"
+   },
+   {
+    "src": "images/habitat-67/1.webp",
+    "thumb": "images/habitat-67/thumbs/1.webp",
+    "w": 1400,
+    "h": 996,
+    "kind": "Exterior",
+    "caption": "Exterior · Ground level view of Habitat 67 in Montreal",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_2019_dllu_02.jpg",
+    "file": "File:Habitat 67 2019 dllu 02.jpg"
+   },
+   {
+    "src": "images/habitat-67/2.webp",
+    "thumb": "images/habitat-67/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Habitat 67 @ Cité du Havre @ Montréal",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_@_Cit%C3%A9_du_Havre_@_Montr%C3%A9al_(29906846283).jpg",
+    "file": "File:Habitat 67 @ Cité du Havre @ Montréal (29906846283).jpg"
+   },
+   {
+    "src": "images/habitat-67/3.webp",
+    "thumb": "images/habitat-67/thumbs/3.webp",
+    "w": 1280,
+    "h": 957,
+    "kind": "Interior",
+    "caption": "Interior · you never see shots of the interiors",
+    "credit": "dee em  from austin, usa",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_%2767_interior_-_Flickr_-_deeelem.jpg",
+    "file": "File:Habitat '67 interior - Flickr - deeelem.jpg"
+   },
+   {
+    "src": "images/habitat-67/4.webp",
+    "thumb": "images/habitat-67/thumbs/4.webp",
+    "w": 1400,
+    "h": 404,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Patrick  from Merrimack, NH, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cubed_Living_(3608131181).jpg",
+    "file": "File:Cubed Living (3608131181).jpg"
+   },
+   {
+    "src": "images/habitat-67/5.webp",
+    "thumb": "images/habitat-67/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · View walking across Pont de la Concorde, Montreal, Quebec",
+    "credit": "Bohemian Baltimore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Pont_de_la_Concorde_Montreal_13.jpg",
+    "file": "File:View from Pont de la Concorde Montreal 13.jpg"
+   },
+   {
+    "src": "images/habitat-67/6.webp",
+    "thumb": "images/habitat-67/thumbs/6.webp",
+    "w": 1400,
+    "h": 928,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Matias Garabedian  from Montreal, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_(8126485497).jpg",
+    "file": "File:Habitat 67 (8126485497).jpg"
+   },
+   {
+    "src": "images/habitat-67/7.webp",
+    "thumb": "images/habitat-67/thumbs/7.webp",
+    "w": 1400,
+    "h": 928,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Matias Garabedian  from Montreal, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitat_67_(8126494920).jpg",
+    "file": "File:Habitat 67 (8126494920).jpg"
+   }
+  ],
+  "commons": "Category:Habitat 67"
  },
  {
   "id": "fau-usp-building",
@@ -719,7 +3511,69 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "An architecture school under one great roof, joined by ramps and open to the city.",
-  "images": []
+  "images": [
+   {
+    "src": "images/fau-usp-building/0.webp",
+    "thumb": "images/fau-usp-building/thumbs/0.webp",
+    "w": 916,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Cidade_Universit%C3%A1ria_Armando_de_Salles_Oliveira_2023_096.jpg",
+    "file": "File:At Cidade Universitária Armando de Salles Oliveira 2023 096.jpg"
+   },
+   {
+    "src": "images/fau-usp-building/1.webp",
+    "thumb": "images/fau-usp-building/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Architecture and Urbanism College, University of São Paulo, São Paulo, Brazil",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Architecture_and_Urbanism_College_of_University_of_S%C3%A3o_Paulo_2016_04.jpg",
+    "file": "File:Architecture and Urbanism College of University of São Paulo 2016 04.jpg"
+   },
+   {
+    "src": "images/fau-usp-building/2.webp",
+    "thumb": "images/fau-usp-building/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Cidade_Universit%C3%A1ria_Armando_de_Salles_Oliveira_2023_071.jpg",
+    "file": "File:At Cidade Universitária Armando de Salles Oliveira 2023 071.jpg"
+   },
+   {
+    "src": "images/fau-usp-building/3.webp",
+    "thumb": "images/fau-usp-building/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · edifício tombado em São Paulo, São Paulo, Brasil",
+    "credit": "Thaismay",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Vilanova_Artigas_(FAU-USP)_01.jpg",
+    "file": "File:Edifício Vilanova Artigas (FAU-USP) 01.jpg"
+   },
+   {
+    "src": "images/fau-usp-building/4.webp",
+    "thumb": "images/fau-usp-building/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Vista do interior da Faculdade de Arquitetura e Urbanismo da USP",
+    "credit": "OS2Warp",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Faculdade_de_Arquitetura_e_Urbanismo_da_Cidade_de_S%C3%A3o_Paulo._1.jpg",
+    "file": "File:Faculdade de Arquitetura e Urbanismo da Cidade de São Paulo. 1.jpg"
+   }
+  ],
+  "commons": "Category:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo"
  },
  {
   "id": "masp",
@@ -739,7 +3593,105 @@ window.BUILDINGS = [
    "Exposed concrete"
   ],
   "study": "A 74-metre span lifts the galleries to keep the plaza and the view open.",
-  "images": []
+  "images": [
+   {
+    "src": "images/masp/0.webp",
+    "thumb": "images/masp/thumbs/0.webp",
+    "w": 1400,
+    "h": 900,
+    "kind": "Exterior",
+    "caption": "Exterior · Cadeira do MASP que fica no Vão Livre",
+    "credit": "Boaventuravinicius",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cadeira_do_MASP_que_fica_no_V%C3%A3o_Livre.jpg",
+    "file": "File:Cadeira do MASP que fica no Vão Livre.jpg"
+   },
+   {
+    "src": "images/masp/1.webp",
+    "thumb": "images/masp/thumbs/1.webp",
+    "w": 1400,
+    "h": 1314,
+    "kind": "Exterior",
+    "caption": "Exterior · Museu de Arte de São Paulo Assis Chateaubriand",
+    "credit": "Pribruder",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_-_Museu_de_Arte_de_S%C3%A3o_Paulo_(2022).jpg",
+    "file": "File:MASP - Museu de Arte de São Paulo (2022).jpg"
+   },
+   {
+    "src": "images/masp/2.webp",
+    "thumb": "images/masp/thumbs/2.webp",
+    "w": 1400,
+    "h": 1012,
+    "kind": "Exterior",
+    "caption": "Exterior · camera: olympus pen EE-2",
+    "credit": "dfactory",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Masps._(33177001241).jpg",
+    "file": "File:Masps. (33177001241).jpg"
+   },
+   {
+    "src": "images/masp/3.webp",
+    "thumb": "images/masp/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · MASP, São Paulo, Brasil",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_S%C3%A3o_Paulo_2018_07.jpg",
+    "file": "File:MASP São Paulo 2018 07.jpg"
+   },
+   {
+    "src": "images/masp/4.webp",
+    "thumb": "images/masp/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · MASP, São Paulo, Brasil",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_S%C3%A3o_Paulo_2018_08.jpg",
+    "file": "File:MASP São Paulo 2018 08.jpg"
+   },
+   {
+    "src": "images/masp/5.webp",
+    "thumb": "images/masp/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP,_lina_bo_bardi,_sao_paulo_april_2006_(493921305).jpg",
+    "file": "File:MASP, lina bo bardi, sao paulo april 2006 (493921305).jpg"
+   },
+   {
+    "src": "images/masp/6.webp",
+    "thumb": "images/masp/thumbs/6.webp",
+    "w": 1400,
+    "h": 927,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Mural by João Eduardo, photo by  Wilfredor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mural_com_refer%C3%AAncias_a_Lisboa_e_S%C3%A3o_Paulo_no_emp%C3%B3rio_Arte_Nata_na_Rua_Frei_Caneca,_1380_-_bem_perto_da_Avenida_Paulista.jpg",
+    "file": "File:Mural com referências a Lisboa e São Paulo no empório Arte Nata na Rua Frei Caneca, 1380 - bem perto da Avenida Paulista.jpg"
+   },
+   {
+    "src": "images/masp/7.webp",
+    "thumb": "images/masp/thumbs/7.webp",
+    "w": 1400,
+    "h": 898,
+    "kind": "Context",
+    "caption": "Context · MASP, São Paulo Museum of Art view from NW /SO Av",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:MASP_Brazil.jpg",
+    "file": "File:MASP Brazil.jpg"
+   }
+  ],
+  "commons": "Category:Museu de Arte de São Paulo"
  },
  {
   "id": "sesc-pompeia",
@@ -759,7 +3711,69 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "A drum factory kept as a leisure centre, with new concrete towers linked by bridges.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sesc-pompeia/0.webp",
+    "thumb": "images/sesc-pompeia/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Centro de cultura e lazer localizado no bairro Pompeia, em São Paulo",
+    "credit": "Clarissa Sá",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sesc_Pompeia.jpg",
+    "file": "File:Sesc Pompeia.jpg"
+   },
+   {
+    "src": "images/sesc-pompeia/1.webp",
+    "thumb": "images/sesc-pompeia/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · São Paulo, SP, Brasil",
+    "credit": "paulisson miura  from Cuiabá, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SESC_Pomp%C3%A9ia,_Arq._Lina_Bo_Bardi_(11256675433).jpg",
+    "file": "File:SESC Pompéia, Arq. Lina Bo Bardi (11256675433).jpg"
+   },
+   {
+    "src": "images/sesc-pompeia/2.webp",
+    "thumb": "images/sesc-pompeia/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "CORRETOR-CARVALHO",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sesc_Pomp%C3%A9ia_-_panoramio.jpg",
+    "file": "File:Sesc Pompéia - panoramio.jpg"
+   },
+   {
+    "src": "images/sesc-pompeia/3.webp",
+    "thumb": "images/sesc-pompeia/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · centro cultural em São Paulo",
+    "credit": "Joalpe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SESC_Pompeia_-_S%C3%A3o_Paulo_-_20220726141521.jpg",
+    "file": "File:SESC Pompeia - São Paulo - 20220726141521.jpg"
+   },
+   {
+    "src": "images/sesc-pompeia/4.webp",
+    "thumb": "images/sesc-pompeia/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Molina",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beattle_Juice_S_Tower_(109992543).jpeg",
+    "file": "File:Beattle Juice S Tower (109992543).jpeg"
+   }
+  ],
+  "commons": "Category:SESC Pompeia"
  },
  {
   "id": "trellick-tower",
@@ -779,7 +3793,105 @@ window.BUILDINGS = [
    "Section"
   ],
   "study": "Lifts in a separate tower, bridging to the flats every third floor.",
-  "images": []
+  "images": [
+   {
+    "src": "images/trellick-tower/0.webp",
+    "thumb": "images/trellick-tower/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments United Kingdom\" ",
+    "credit": "ThePerfidiousAlbion",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Greater_London_-_Trellick_Tower_-_2025-09-21_23-50-45_001.jpg",
+    "file": "File:Greater London - Trellick Tower - 2025-09-21 23-50-45 001.jpg"
+   },
+   {
+    "src": "images/trellick-tower/1.webp",
+    "thumb": "images/trellick-tower/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Elkstone Rd: Trellick Tower NW532",
+    "credit": "Paul The Archivist",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elkstone_Rd_Trellick_Tower_NW532_(26619036544).jpg",
+    "file": "File:Elkstone Rd Trellick Tower NW532 (26619036544).jpg"
+   },
+   {
+    "src": "images/trellick-tower/2.webp",
+    "thumb": "images/trellick-tower/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Elkstone Rd: Trellick Tower NW532",
+    "credit": "Paul The Archivist",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elkstone_Rd_Trellick_Tower_NW532_(26620228263).jpg",
+    "file": "File:Elkstone Rd Trellick Tower NW532 (26620228263).jpg"
+   },
+   {
+    "src": "images/trellick-tower/3.webp",
+    "thumb": "images/trellick-tower/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Edwardx",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trellick_Tower_01.JPG",
+    "file": "File:Trellick Tower 01.JPG"
+   },
+   {
+    "src": "images/trellick-tower/4.webp",
+    "thumb": "images/trellick-tower/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · As part of the House London event, I went on a guided tour of Trellick Tower in North Kensington",
+    "credit": "damo1977",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trellick_Tower_alarms.jpg",
+    "file": "File:Trellick Tower alarms.jpg"
+   },
+   {
+    "src": "images/trellick-tower/5.webp",
+    "thumb": "images/trellick-tower/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "damo1977",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trellick_Tower_interior_4.jpg",
+    "file": "File:Trellick Tower interior 4.jpg"
+   },
+   {
+    "src": "images/trellick-tower/6.webp",
+    "thumb": "images/trellick-tower/thumbs/6.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Interior",
+    "caption": "Interior · Reception and lobby of the Trellick Tower, Kensington, London",
+    "credit": "Banalities",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trellick_Tower_lobby_3.jpg",
+    "file": "File:Trellick Tower lobby 3.jpg"
+   },
+   {
+    "src": "images/trellick-tower/7.webp",
+    "thumb": "images/trellick-tower/thumbs/7.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "damo1977",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Trellick_Tower_into_adjascent_Holmefield_House.jpg",
+    "file": "File:View from Trellick Tower into adjascent Holmefield House.jpg"
+   }
+  ],
+  "commons": "Category:Trellick Tower"
  },
  {
   "id": "barbican-estate",
@@ -799,7 +3911,105 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "A walkway city of housing, arts centre, lake and conservatory above the street.",
-  "images": []
+  "images": [
+   {
+    "src": "images/barbican-estate/0.webp",
+    "thumb": "images/barbican-estate/thumbs/0.webp",
+    "w": 1400,
+    "h": 912,
+    "kind": "Exterior",
+    "caption": "Exterior · London: BARBICAN, Lake City of London",
+    "credit": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1001668_II_Star_BARBICAN,_Lake_City_of_London_London_20250613_0001.jpg",
+    "file": "File:1001668 II Star BARBICAN, Lake City of London London 20250613 0001.jpg"
+   },
+   {
+    "src": "images/barbican-estate/1.webp",
+    "thumb": "images/barbican-estate/thumbs/1.webp",
+    "w": 1400,
+    "h": 912,
+    "kind": "Exterior",
+    "caption": "Exterior · London: BARBICAN, Andrewes House, Brandon Mews City of London",
+    "credit": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1352667_II_BARBICAN,_Andrewes_House,_Brandon_Mews_City_of_London_London_20250613_0001.jpg",
+    "file": "File:1352667 II BARBICAN, Andrewes House, Brandon Mews City of London London 20250613 0001.jpg"
+   },
+   {
+    "src": "images/barbican-estate/2.webp",
+    "thumb": "images/barbican-estate/thumbs/2.webp",
+    "w": 921,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · London: BARBICAN, Guildhall School of Music and Drama City of London",
+    "credit": "Tilman2007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1352667_II_BARBICAN,_Guildhall_School_of_Music_and_Drama_City_of_London_London_20250613_0001.jpg",
+    "file": "File:1352667 II BARBICAN, Guildhall School of Music and Drama City of London London 20250613 0001.jpg"
+   },
+   {
+    "src": "images/barbican-estate/3.webp",
+    "thumb": "images/barbican-estate/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mikey  from Wythenshawe, Manchester, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican_Estate,_City_of_London_(8649139240).jpg",
+    "file": "File:Barbican Estate, City of London (8649139240).jpg"
+   },
+   {
+    "src": "images/barbican-estate/4.webp",
+    "thumb": "images/barbican-estate/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Matt Brown",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doors,_Barbican_Estate.jpg",
+    "file": "File:Doors, Barbican Estate.jpg"
+   },
+   {
+    "src": "images/barbican-estate/5.webp",
+    "thumb": "images/barbican-estate/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Julian Herzog  ( Website )",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_City_of_London_2026_07.jpg",
+    "file": "File:Barbican Estate City of London 2026 07.jpg"
+   },
+   {
+    "src": "images/barbican-estate/6.webp",
+    "thumb": "images/barbican-estate/thumbs/6.webp",
+    "w": 1400,
+    "h": 583,
+    "kind": "Context",
+    "caption": "Context · Barbican Estate towers from the terrace of the White Collar Factory, Old Street",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_2018-09-22.jpg",
+    "file": "File:Barbican Estate 2018-09-22.jpg"
+   },
+   {
+    "src": "images/barbican-estate/7.webp",
+    "thumb": "images/barbican-estate/thumbs/7.webp",
+    "w": 1400,
+    "h": 1052,
+    "kind": "Drawing",
+    "caption": "Drawing · BARBICAN REDEVELOPMENT GENERAL LAYOUT ROOF PLAN",
+    "credit": "Jonathan Platteau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BARBICAN_REDEVELOPMENT_GENERAL_LAYOUT_ROOF_PLAN.jpg",
+    "file": "File:BARBICAN REDEVELOPMENT GENERAL LAYOUT ROOF PLAN.jpg"
+   }
+  ],
+  "commons": "Category:Barbican Estate"
  },
  {
   "id": "sydney-opera-house",
@@ -819,7 +4029,105 @@ window.BUILDINGS = [
    "Prefabrication"
   ],
   "study": "Shells cut from one sphere so they could be prefabricated, on a stepped podium.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sydney-opera-house/0.webp",
+    "thumb": "images/sydney-opera-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 772,
+    "kind": "Exterior",
+    "caption": "Exterior · Sydney, Australia, January 2019",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NZ7_2333_(46296662914).jpg",
+    "file": "File:NZ7 2333 (46296662914).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/1.webp",
+    "thumb": "images/sydney-opera-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 774,
+    "kind": "Exterior",
+    "caption": "Exterior · Sydney, Australia, January 2019",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NZ7_2340_(40056091673).jpg",
+    "file": "File:NZ7 2340 (40056091673).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/2.webp",
+    "thumb": "images/sydney-opera-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Kashu j nai",
+    "credit": "Glinted framora",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Opera_from_close.jpg",
+    "file": "File:Opera from close.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/3.webp",
+    "thumb": "images/sydney-opera-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_2980.jpg",
+    "file": "File:Sydney (AU), Opera House -- 2019 -- 2980.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/4.webp",
+    "thumb": "images/sydney-opera-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_2994.jpg",
+    "file": "File:Sydney (AU), Opera House -- 2019 -- 2994.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/5.webp",
+    "thumb": "images/sydney-opera-house/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sydney Opera House interior tour, 2023",
+    "credit": "Chris Olszewski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_interior_tour,_2023,_11.jpg",
+    "file": "File:Sydney Opera House interior tour, 2023, 11.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/6.webp",
+    "thumb": "images/sydney-opera-house/thumbs/6.webp",
+    "w": 1400,
+    "h": 804,
+    "kind": "Detail",
+    "caption": "Detail · U.S",
+    "credit": "Chairman of the Joint Chiefs of Staff  from Washington D.C, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:181021-D-SW162-2097_(31592885728).jpg",
+    "file": "File:181021-D-SW162-2097 (31592885728).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/7.webp",
+    "thumb": "images/sydney-opera-house/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · This is a photo of a cultural heritage monument of Australia with id: 105738",
+    "credit": "Boyd159",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_From_Botanic_Garden.jpg",
+    "file": "File:Sydney Opera House From Botanic Garden.jpg"
+   }
+  ],
+  "commons": "Category:Sydney Opera House"
  },
  {
   "id": "bagsvaerd-church",
@@ -839,7 +4147,105 @@ window.BUILDINGS = [
    "Exposed concrete"
   ],
   "study": "A plain industrial shell outside; inside, a billowing concrete ceiling washed with daylight.",
-  "images": []
+  "images": [
+   {
+    "src": "images/bagsvaerd-church/0.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/0.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior · Bagsværd Kirke - Jørn Utzon - 1973-1976",
+    "credit": "Jens Cederskjold",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Kirke_-_J%C3%B8rn_Utzon_-_1973-1976_-_panoramio_(1).jpg",
+    "file": "File:Bagsværd Kirke - Jørn Utzon - 1973-1976 - panoramio (1).jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/1.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/1.webp",
+    "w": 1400,
+    "h": 814,
+    "kind": "Exterior",
+    "caption": "Exterior · Bagsværd Kirke - Jørn Utzon - 1973-1976",
+    "credit": "Jens Cederskjold",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Kirke_-_J%C3%B8rn_Utzon_-_1973-1976_-_panoramio.jpg",
+    "file": "File:Bagsværd Kirke - Jørn Utzon - 1973-1976 - panoramio.jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/2.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/2.webp",
+    "w": 1400,
+    "h": 937,
+    "kind": "Exterior",
+    "caption": "Exterior · Bagsvaerd Church - Denmark",
+    "credit": "Erik Christensen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Kirke_2009.jpg",
+    "file": "File:Bagsværd Kirke 2009.jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/3.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Church of Bagsværd",
+    "credit": "Erik Christensen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Church.11.jpg",
+    "file": "File:Bagsværd Church.11.jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/4.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/4.webp",
+    "w": 1209,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · bagsværd kirke - bagsvaerd church, copenhagen, denmark 1967-1976",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%B8rn_utzon,_bagsv%C3%A6rd_kirke_-_bagsvaerd_church,_copenhagen_1967-1976_(5897654850).jpg",
+    "file": "File:Jørn utzon, bagsværd kirke - bagsvaerd church, copenhagen 1967-1976 (5897654850).jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/5.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/5.webp",
+    "w": 1234,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · bagsværd kirke - bagsvaerd church, copenhagen, denmark 1967-1976",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%B8rn_utzon,_bagsv%C3%A6rd_kirke_-_bagsvaerd_church,_copenhagen_1967-1976_(5958688179).jpg",
+    "file": "File:Jørn utzon, bagsværd kirke - bagsvaerd church, copenhagen 1967-1976 (5958688179).jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/6.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/6.webp",
+    "w": 1161,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of Bagsvær Church, Denmark, constructed by Jørn Utzon",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Church_vaults.jpg",
+    "file": "File:Bagsværd Church vaults.jpg"
+   },
+   {
+    "src": "images/bagsvaerd-church/7.webp",
+    "thumb": "images/bagsvaerd-church/thumbs/7.webp",
+    "w": 1400,
+    "h": 783,
+    "kind": "Interior",
+    "caption": "Interior · Bagsværd Kirke - church interior - Jørn Utzon",
+    "credit": "Jens Cederskjold",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagsv%C3%A6rd_Kirke_-_church_interior_-_J%C3%B8rn_Utzon_-_panoramio.jpg",
+    "file": "File:Bagsværd Kirke - church interior - Jørn Utzon - panoramio.jpg"
+   }
+  ],
+  "commons": "Category:Bagsværd Kirke"
  },
  {
   "id": "nakagin-capsule-tower",
@@ -859,7 +4265,105 @@ window.BUILDINGS = [
    "Megastructure"
   ],
   "study": "Prefabricated capsules bolted to two cores: the Metabolist idea of replaceable parts.",
-  "images": []
+  "images": [
+   {
+    "src": "images/nakagin-capsule-tower/0.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakagin_Capsule_Tower_(51472769217).jpg",
+    "file": "File:Nakagin Capsule Tower (51472769217).jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/1.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/1.webp",
+    "w": 1042,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · IMG_4069",
+    "credit": "Ken OHYAMA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%B5%A6%E5%92%8C_(15063042285).jpg",
+    "file": "File:北浦和 (15063042285).jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/2.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Capsule of the Nakagin Capsule Tower Building in Kita-Urawa Park",
+    "credit": "ゆっかりーん",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capsule_of_Nakagin_Capsule_Tower_In_Kita-Urawa_park.jpg",
+    "file": "File:Capsule of Nakagin Capsule Tower In Kita-Urawa park.jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/3.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Edson Chilundo  from Mozambique",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakagin_Capsule_Tower_-_Flickr_-_edson.ac.png",
+    "file": "File:Nakagin Capsule Tower - Flickr - edson.ac.png"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/4.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakagin_Capsule_Tower_(51473145737).jpg",
+    "file": "File:Nakagin Capsule Tower (51473145737).jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/5.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Nakagin kapsula erreplika Donostia 2019 Mugak 01",
+    "credit": "Josugoni",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakagin_kapsula_erreplika_Donostia_2019_Mugak_01.jpg",
+    "file": "File:Nakagin kapsula erreplika Donostia 2019 Mugak 01.jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/6.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/6.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kestrel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capsule_from_Nakagin_Capsule_Tower_Building_DSCN0159.jpg",
+    "file": "File:Capsule from Nakagin Capsule Tower Building DSCN0159.jpg"
+   },
+   {
+    "src": "images/nakagin-capsule-tower/7.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/7.webp",
+    "w": 1400,
+    "h": 1013,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the Nakagin Capsule Tower , demolished in 2022",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capsules_of_the_Nakagin_Capsule_Tower_dllu.jpg",
+    "file": "File:Capsules of the Nakagin Capsule Tower dllu.jpg"
+   }
+  ],
+  "commons": "Category:Nakagin Capsule Tower"
  },
  {
   "id": "gandhi-smarak-sangrahalaya",
@@ -879,7 +4383,57 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "A grid of tiled pavilions around a water court, open to the breeze and able to grow.",
-  "images": []
+  "images": [
+   {
+    "src": "images/gandhi-smarak-sangrahalaya/0.webp",
+    "thumb": "images/gandhi-smarak-sangrahalaya/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "SMITA DUTTA",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gandhi_Museam_Building.jpg",
+    "file": "File:Gandhi Museam Building.jpg"
+   },
+   {
+    "src": "images/gandhi-smarak-sangrahalaya/1.webp",
+    "thumb": "images/gandhi-smarak-sangrahalaya/thumbs/1.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior · Photographed at the Gandhi Memorial Museum, Kolkata",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gandhi_Memorial_Museum_-_14_Riverside_Road_-_Barrackpore_-_Kolkata_2017-03-30_0959.JPG",
+    "file": "File:Gandhi Memorial Museum - 14 Riverside Road - Barrackpore - Kolkata 2017-03-30 0959.JPG"
+   },
+   {
+    "src": "images/gandhi-smarak-sangrahalaya/2.webp",
+    "thumb": "images/gandhi-smarak-sangrahalaya/thumbs/2.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Interior",
+    "caption": "Interior · Photographed at the Gandhi Memorial Museum, Kolkata",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Washroom_-_Gandhi_Memorial_Museum_Compound_-_Barrackpore_-_Kolkata_2017-03-31_1147.JPG",
+    "file": "File:Washroom - Gandhi Memorial Museum Compound - Barrackpore - Kolkata 2017-03-31 1147.JPG"
+   },
+   {
+    "src": "images/gandhi-smarak-sangrahalaya/3.webp",
+    "thumb": "images/gandhi-smarak-sangrahalaya/thumbs/3.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Interior",
+    "caption": "Interior · Photographed at the Gandhi Memorial Museum, Kolkata",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Books_From_Phoenix_Publications_-_Gandhi_Memorial_Museum_-_Barrackpore_-_Kolkata_2017-03-30_1013.JPG",
+    "file": "File:Books From Phoenix Publications - Gandhi Memorial Museum - Barrackpore - Kolkata 2017-03-30 1013.JPG"
+   }
+  ],
+  "commons": "Category:Gandhi Memorial Museum, Barrackpore"
  },
  {
   "id": "cept-university",
@@ -899,7 +4453,105 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "An architecture school of brick and concrete, open to the campus at every level.",
-  "images": []
+  "images": [
+   {
+    "src": "images/cept-university/0.webp",
+    "thumb": "images/cept-university/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · cept uni",
+    "credit": "Palash Dugar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cept_uni..JPG",
+    "file": "File:Cept uni..JPG"
+   },
+   {
+    "src": "images/cept-university/1.webp",
+    "thumb": "images/cept-university/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · cept again",
+    "credit": "Palash Dugar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cept.JPG",
+    "file": "File:Cept.JPG"
+   },
+   {
+    "src": "images/cept-university/2.webp",
+    "thumb": "images/cept-university/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · amdavad ni gufa",
+    "credit": "Jaimil joshi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zen_cafe.JPG",
+    "file": "File:Zen cafe.JPG"
+   },
+   {
+    "src": "images/cept-university/3.webp",
+    "thumb": "images/cept-university/thumbs/3.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance area near sagra basement at CEPT Campus",
+    "credit": "Dhruvdhakan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CEPT_Campus,_entrance_area_near_sagra_basement.jpg",
+    "file": "File:CEPT Campus, entrance area near sagra basement.jpg"
+   },
+   {
+    "src": "images/cept-university/4.webp",
+    "thumb": "images/cept-university/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Students of CEPT are done some terrifice painting in the way of classroom ",
+    "credit": "Mananshah1008",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CEPT_Upperstairs_....JPG",
+    "file": "File:CEPT Upperstairs ....JPG"
+   },
+   {
+    "src": "images/cept-university/5.webp",
+    "thumb": "images/cept-university/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The school of interior design which @ the CEPT is design their symbol in some innovative way !!",
+    "credit": "Mananshah1008",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:School_of_interior_design.JPG",
+    "file": "File:School of interior design.JPG"
+   },
+   {
+    "src": "images/cept-university/6.webp",
+    "thumb": "images/cept-university/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · the school of interior design with its creative name and the superb staircase make a complete creative package",
+    "credit": "Umang Todi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Creative_name_%2B_ladder.jpg",
+    "file": "File:Creative name + ladder.jpg"
+   },
+   {
+    "src": "images/cept-university/7.webp",
+    "thumb": "images/cept-university/thumbs/7.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · CEPT Campus view from Sagra basement",
+    "credit": "Dhruvdhakan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cept_2.jpg",
+    "file": "File:Cept 2.jpg"
+   }
+  ],
+  "commons": "Category:CEPT University"
  },
  {
   "id": "sangath",
@@ -919,7 +4571,105 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "Half-buried vaults clad in broken china, cooled by earth, water channels and steps.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sangath/0.webp",
+    "thumb": "images/sangath/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · The image was taken in ahmedabad in the beautiful evening",
+    "credit": "Maharshi trivedi",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_evening_in_Ahmedabad,_Gujarat,_India_(2017).jpg",
+    "file": "File:An evening in Ahmedabad, Gujarat, India (2017).jpg"
+   },
+   {
+    "src": "images/sangath/1.webp",
+    "thumb": "images/sangath/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Leon performed at Arijit Singh live world tour for one year",
+    "credit": "Dev en dra31",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leon_live_with_Arijit_Singh_in_Ahmedabad_.jpg",
+    "file": "File:Leon live with Arijit Singh in Ahmedabad .jpg"
+   },
+   {
+    "src": "images/sangath/2.webp",
+    "thumb": "images/sangath/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · PATOTSAV-2019 AT SURYA MANDIR SHREE BHETADIYA BHAN TIRTH DHAM, MOTI BORU, DHOLKA, AHMEDABAD, GUJARAT, INDIA",
+    "credit": "Jay bhetadiya bhan tirth dham",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SURYA_DEVAY_1.jpg",
+    "file": "File:SURYA DEVAY 1.jpg"
+   },
+   {
+    "src": "images/sangath/3.webp",
+    "thumb": "images/sangath/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · PATOTSAV-2019 AT SURYA MANDIR SHREE BHETADIYA BHAN TIRTH DHAM, MOTI BORU, DHOLKA, AHMEDABAD, GUJARAT, INDIA",
+    "credit": "Jay bhetadiya bhan tirth dham",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SURYA_DEVAY.jpg",
+    "file": "File:SURYA DEVAY.jpg"
+   },
+   {
+    "src": "images/sangath/4.webp",
+    "thumb": "images/sangath/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Its every bikers dream",
+    "credit": "Yash Y. Vadiwala",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harley_Davidson_Showroom(1).JPG",
+    "file": "File:Harley Davidson Showroom(1).JPG"
+   },
+   {
+    "src": "images/sangath/5.webp",
+    "thumb": "images/sangath/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Silverrays",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Locks_of_Faith.jpg",
+    "file": "File:Locks of Faith.jpg"
+   },
+   {
+    "src": "images/sangath/6.webp",
+    "thumb": "images/sangath/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · An aerial view from a flight above Ahmedabad city",
+    "credit": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flight_above_Ahmedabad_city_2.jpg",
+    "file": "File:Flight above Ahmedabad city 2.jpg"
+   },
+   {
+    "src": "images/sangath/7.webp",
+    "thumb": "images/sangath/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · An aerial view from a flight above Ahmedabad city",
+    "credit": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flight_above_Ahmedabad_city_3.jpg",
+    "file": "File:Flight above Ahmedabad city 3.jpg"
+   }
+  ],
+  "commons": "Category:Ahmedabad"
  },
  {
   "id": "aranya-low-cost-housing",
@@ -939,7 +4689,57 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "Plots and a service core for 80,000 people, which families extend over time.",
-  "images": []
+  "images": [
+   {
+    "src": "images/aranya-low-cost-housing/0.webp",
+    "thumb": "images/aranya-low-cost-housing/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Ar",
+    "credit": "Kamalpassi2102",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ar._B.V._Doshi_in_conversation_with_the_Director_of_the_Le_Corbusier_Centre,_Ar._Deepika_Gandhi,_in_Chandigarh_on_October_26,_2016.jpg",
+    "file": "File:Ar. B.V. Doshi in conversation with the Director of the Le Corbusier Centre, Ar. Deepika Gandhi, in Chandigarh on October 26, 2016.jpg"
+   },
+   {
+    "src": "images/aranya-low-cost-housing/1.webp",
+    "thumb": "images/aranya-low-cost-housing/thumbs/1.webp",
+    "w": 1180,
+    "h": 1239,
+    "kind": "Exterior",
+    "caption": "Exterior · Balkrishna Doshi and Le Corbusier at Le Corbusier's Shodhan House, Ahmedabad, India",
+    "credit": "Unknown author Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_Balkrishna_Doshi_Shodhan_House.jpg",
+    "file": "File:Le Corbusier Balkrishna Doshi Shodhan House.jpg"
+   },
+   {
+    "src": "images/aranya-low-cost-housing/2.webp",
+    "thumb": "images/aranya-low-cost-housing/thumbs/2.webp",
+    "w": 1200,
+    "h": 800,
+    "kind": "Exterior",
+    "caption": "Exterior · Dhirubhai Thakar Saraswat Award",
+    "credit": "Gujarat Vishw Kosh Trust",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:27_June_2017_Balkrishna_Doshi_(Sthapatya)_Saraswat_Award.jpg",
+    "file": "File:27 June 2017 Balkrishna Doshi (Sthapatya) Saraswat Award.jpg"
+   },
+   {
+    "src": "images/aranya-low-cost-housing/3.webp",
+    "thumb": "images/aranya-low-cost-housing/thumbs/3.webp",
+    "w": 1200,
+    "h": 797,
+    "kind": "Exterior",
+    "caption": "Exterior · Dhirubhai Thakar Saraswat Award",
+    "credit": "Gujarat Vishw Kosh Trust",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:27_june_2013_Narayanbhai_Desai_(Sahitya)_saraswat_award.jpg",
+    "file": "File:27 june 2013 Narayanbhai Desai (Sahitya) saraswat award.jpg"
+   }
+  ],
+  "commons": "Category:Balkrishna Doshi"
  },
  {
   "id": "kanchanjunga-apartments",
@@ -959,7 +4759,8 @@ window.BUILDINGS = [
    "Double height"
   ],
   "study": "Interlocking duplexes with two-storey garden verandas instead of balconies.",
-  "images": []
+  "images": [],
+  "commons": null
  },
  {
   "id": "jawahar-kala-kendra",
@@ -979,7 +4780,81 @@ window.BUILDINGS = [
    "Colour"
   ],
   "study": "A nine-square plan based on the navagraha mandala and the city plan of Jaipur.",
-  "images": []
+  "images": [
+   {
+    "src": "images/jawahar-kala-kendra/0.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Jawahar Kala Kendra, Jaipur",
+    "credit": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_July_-_JawaharKalaKendra_Jaipur_13.jpg",
+    "file": "File:2022 July - JawaharKalaKendra Jaipur 13.jpg"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/1.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Jawahar Kala Kendra, Jaipur",
+    "credit": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_July_-_JawaharKalaKendra_Jaipur_01.jpg",
+    "file": "File:2022 July - JawaharKalaKendra Jaipur 01.jpg"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/2.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · This photo was taken at Jawahar Kala Kendra, Jaipur",
+    "credit": "Author Rijhjham Raga",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Raga_in_2022.jpg",
+    "file": "File:Raga in 2022.jpg"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/3.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/3.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A series of oil lamps, wheel throne, Molela, 20th century, 103cm",
+    "credit": "Arjuncm3",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_series_of_oil_lamps(deepasthambham).JPG",
+    "file": "File:A series of oil lamps(deepasthambham).JPG"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/4.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Entrance Foyer,Jawahar Kala Kendra",
+    "credit": "Quietsong",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling,_Entrance_Foyer,_Jwahar_Kala_Kendra.JPG",
+    "file": "File:Ceiling, Entrance Foyer, Jwahar Kala Kendra.JPG"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/5.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/5.webp",
+    "w": 1400,
+    "h": 1038,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Quietsong",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan,_Jawahar_Kala_Kendra,_Jaipur,_Rajasthan.JPG",
+    "file": "File:Plan, Jawahar Kala Kendra, Jaipur, Rajasthan.JPG"
+   }
+  ],
+  "commons": "Category:Jawahar Kala Kendra, Jaipur"
  },
  {
   "id": "centre-for-development-studies",
@@ -999,7 +4874,57 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "Rat-trap bond and perforated brick jalis: cheap, cool and built by local masons.",
-  "images": []
+  "images": [
+   {
+    "src": "images/centre-for-development-studies/0.webp",
+    "thumb": "images/centre-for-development-studies/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Guy BSP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Bola_del_CEMES.jpg",
+    "file": "File:La Bola del CEMES.jpg"
+   },
+   {
+    "src": "images/centre-for-development-studies/1.webp",
+    "thumb": "images/centre-for-development-studies/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · The CEMES sphere in Toulouse (1958)",
+    "credit": "Frédéric Neupont",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toulouse_-_Boule_du_CEMES.jpg",
+    "file": "File:Toulouse - Boule du CEMES.jpg"
+   },
+   {
+    "src": "images/centre-for-development-studies/2.webp",
+    "thumb": "images/centre-for-development-studies/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Centre d'élaboration de matériaux et d'études structurales, 29 rue Jeanne-Marvig (Toulouse)",
+    "credit": "Abdoucondorcet",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_d%27%C3%A9laboration_de_mat%C3%A9riaux_et_d%27%C3%A9tudes_structurales,_29_rue_Jeanne-Marvig_(Toulouse).jpg",
+    "file": "File:Centre d'élaboration de matériaux et d'études structurales, 29 rue Jeanne-Marvig (Toulouse).jpg"
+   },
+   {
+    "src": "images/centre-for-development-studies/3.webp",
+    "thumb": "images/centre-for-development-studies/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Colonne de microscope électronique dit l'\"ancêtre\"",
+    "credit": "Equipe PATSTEC",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colonne_du_microscope_%C3%A9lectronique_dit_L%27Anc%C3%AAtre_(inv._CNRS.CEMES.015).jpg",
+    "file": "File:Colonne du microscope électronique dit L'Ancêtre (inv. CNRS.CEMES.015).jpg"
+   }
+  ],
+  "commons": "Category:Centre d'élaboration de matériaux et d'études structurales"
  },
  {
   "id": "heritance-kandalama",
@@ -1019,7 +4944,8 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "A hotel laid along a rock face, so overgrown it disappears into the jungle.",
-  "images": []
+  "images": [],
+  "commons": null
  },
  {
   "id": "new-gourna-village",
@@ -1039,7 +4965,57 @@ window.BUILDINGS = [
    "Low cost"
   ],
   "study": "Mud-brick vaults and domes revived to house villagers cheaply.",
-  "images": []
+  "images": [
+   {
+    "src": "images/new-gourna-village/0.webp",
+    "thumb": "images/new-gourna-village/thumbs/0.webp",
+    "w": 1400,
+    "h": 981,
+    "kind": "Exterior",
+    "caption": "Exterior · Map of the city of Luxor and surrounding area in 1943",
+    "credit": "Egyptian General Survey Authority (Maṣlaḥat al-Misāḥah)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxor_1943.jpg",
+    "file": "File:Luxor 1943.jpg"
+   },
+   {
+    "src": "images/new-gourna-village/1.webp",
+    "thumb": "images/new-gourna-village/thumbs/1.webp",
+    "w": 1400,
+    "h": 1062,
+    "kind": "Exterior",
+    "caption": "Exterior · Map sheet of part of Egypt",
+    "credit": "Army Map Service",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Txu-oclc-6949452-ng-36-10-3rd-ed.jpg",
+    "file": "File:Txu-oclc-6949452-ng-36-10-3rd-ed.jpg"
+   },
+   {
+    "src": "images/new-gourna-village/2.webp",
+    "thumb": "images/new-gourna-village/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Qurna in Theben-West nordwestlich von Luxor, Ägypten",
+    "credit": "Olaf Tausch",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Qurna_04.jpg",
+    "file": "File:Qurna 04.jpg"
+   },
+   {
+    "src": "images/new-gourna-village/3.webp",
+    "thumb": "images/new-gourna-village/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Scheich Abd el-Qurna in Theben-West nordwestlich von Luxor, Ägypten",
+    "credit": "Olaf Tausch",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Qurna_07.jpg",
+    "file": "File:Qurna 07.jpg"
+   }
+  ],
+  "commons": "Category:Qurna"
  },
  {
   "id": "gando-primary-school",
@@ -1059,7 +5035,45 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "Compressed-earth walls under a raised tin roof, built by the village.",
-  "images": []
+  "images": [
+   {
+    "src": "images/gando-primary-school/0.webp",
+    "thumb": "images/gando-primary-school/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Gando village",
+    "credit": "Schulbausteine",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gando_village.jpg",
+    "file": "File:Gando village.jpg"
+   },
+   {
+    "src": "images/gando-primary-school/1.webp",
+    "thumb": "images/gando-primary-school/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Gando/Mugger crocodile from Southern Persia (Iran) - Photo: Mazyar Moshtagh Gohari",
+    "credit": "MazyarMG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gando-Mugger_crocodile_from_Southern_Persia.jpg",
+    "file": "File:Gando-Mugger crocodile from Southern Persia.jpg"
+   },
+   {
+    "src": "images/gando-primary-school/2.webp",
+    "thumb": "images/gando-primary-school/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Giardino scolastico Gando",
+    "credit": "Kéré Architecture",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gando_school_garden.jpg",
+    "file": "File:Gando school garden.jpg"
+   }
+  ],
+  "commons": "Category:Gando"
  },
  {
   "id": "leca-swimming-pools",
@@ -1079,7 +5093,81 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "Concrete walls slipped between the rocks so the ocean pools seem natural.",
-  "images": []
+  "images": [
+   {
+    "src": "images/leca-swimming-pools/0.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Cartel da parada de Telheira en Matosinhos",
+    "credit": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartel_parada_de_Telheira.jpg",
+    "file": "File:Cartel parada de Telheira.jpg"
+   },
+   {
+    "src": "images/leca-swimming-pools/1.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Exemplo de uma das 54 industrias conserveiras",
+    "credit": "Pedrofangueiro",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ConserveiraMatosinhos.jpg",
+    "file": "File:ConserveiraMatosinhos.jpg"
+   },
+   {
+    "src": "images/leca-swimming-pools/2.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Porto, Portugal - December 2023",
+    "credit": "Sergei Gussev",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matosinhos_(53421901033).jpg",
+    "file": "File:Matosinhos (53421901033).jpg"
+   },
+   {
+    "src": "images/leca-swimming-pools/3.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Porto, Portugal - December 2023",
+    "credit": "Sergei Gussev",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matosinhos_(53422062814).jpg",
+    "file": "File:Matosinhos (53422062814).jpg"
+   },
+   {
+    "src": "images/leca-swimming-pools/4.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Port de Leixões",
+    "credit": "Pere López Brosa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Port_de_Leix%C3%B5es_-_20190729_103944.jpg",
+    "file": "File:Port de Leixões - 20190729 103944.jpg"
+   },
+   {
+    "src": "images/leca-swimming-pools/5.webp",
+    "thumb": "images/leca-swimming-pools/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Port de Leixões",
+    "credit": "Pere López Brosa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Port_de_Leix%C3%B5es_-_20190729_103947.jpg",
+    "file": "File:Port de Leixões - 20190729 103947.jpg"
+   }
+  ],
+  "commons": "Category:Matosinhos"
  },
  {
   "id": "can-lis",
@@ -1099,7 +5187,33 @@ window.BUILDINGS = [
    "Light & shadow"
   ],
   "study": "Pavilions of local sandstone, with deep window frames that set the sea like pictures.",
-  "images": []
+  "images": [
+   {
+    "src": "images/can-lis/0.webp",
+    "thumb": "images/can-lis/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Can Lis near Portpetro on the island of Majorca",
+    "credit": "Frans Drewniak",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Can_Lis2.jpg",
+    "file": "File:Can Lis2.jpg"
+   },
+   {
+    "src": "images/can-lis/1.webp",
+    "thumb": "images/can-lis/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Can Lis, Jørn Utzon's house on Mallorca",
+    "credit": "drz image",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Utzon_Can_Lis.jpg",
+    "file": "File:Utzon Can Lis.jpg"
+   }
+  ],
+  "commons": "Category:Can Lis, Mallorca"
  },
  {
   "id": "castelvecchio-museum",
@@ -1119,7 +5233,105 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "A medieval castle reworked with precise new joints, cuts and display stands.",
-  "images": []
+  "images": [
+   {
+    "src": "images/castelvecchio-museum/0.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 895,
+    "kind": "Exterior",
+    "caption": "Exterior · The Scaliger Bridge and the Tower of Castelvecchio at sunset",
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Scaliger_Bridge_and_the_Tower_of_Castelvecchio_at_sunset._Verona,_Italy.jpg",
+    "file": "File:The Scaliger Bridge and the Tower of Castelvecchio at sunset. Verona, Italy.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/1.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 1103,
+    "kind": "Exterior",
+    "caption": "Exterior · Walls and the tower of Castelvecchio",
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walls_and_the_tower_of_Castelvecchio._Verona,_Italy.jpg",
+    "file": "File:Walls and the tower of Castelvecchio. Verona, Italy.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/2.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 1047,
+    "kind": "Exterior",
+    "caption": "Exterior · The Keep of Castelvecchio and Ponte Scaligero",
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Keep_of_Castelvecchio_and_Ponte_Scaligero_Verona_Italy.jpg",
+    "file": "File:The Keep of Castelvecchio and Ponte Scaligero Verona Italy.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/3.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · The Adige river at the Castelvecchio, in Verona",
+    "credit": "Syrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Adige_a_Castelvecchio.jpg",
+    "file": "File:Adige a Castelvecchio.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/4.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Falk2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L04_040_Verona,_Ponte_Scaligero.jpg",
+    "file": "File:L04 040 Verona, Ponte Scaligero.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/5.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Castelvecchio",
+    "credit": "Sailko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verona,_castelvecchio,_cortile_interno_01.jpg",
+    "file": "File:Verona, castelvecchio, cortile interno 01.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/6.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/6.webp",
+    "w": 774,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Detail of an iron drawbridge chain and wooden lifting beam at the entrance to Castelvecchio",
+    "credit": "NorbertNagel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelvecchio,_Verona_-_drawbridge_chain,_tower_and_moat_-_2026.jpg",
+    "file": "File:Castelvecchio, Verona - drawbridge chain, tower and moat - 2026.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/7.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/7.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "NorbertNagel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castelvecchio_-_Verona_-_Italy_-_2026_-_01.jpg",
+    "file": "File:Castelvecchio - Verona - Italy - 2026 - 01.jpg"
+   }
+  ],
+  "commons": "Category:Castelvecchio (Verona)"
  },
  {
   "id": "brion-cemetery",
@@ -1139,7 +5351,57 @@ window.BUILDINGS = [
    "Exposed concrete"
   ],
   "study": "Concrete, water and interlocking circles: a lesson in detail and procession.",
-  "images": []
+  "images": [
+   {
+    "src": "images/brion-cemetery/0.webp",
+    "thumb": "images/brion-cemetery/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · tomba Brion",
+    "credit": "Viaggiamocela",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altivole_-_Tomba_Brion_-_2024-09-28_20-27-56_001.jpg",
+    "file": "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 001.jpg"
+   },
+   {
+    "src": "images/brion-cemetery/1.webp",
+    "thumb": "images/brion-cemetery/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · tomba Brion",
+    "credit": "Viaggiamocela",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altivole_-_Tomba_Brion_-_2024-09-28_20-27-56_002.jpg",
+    "file": "File:Altivole - Tomba Brion - 2024-09-28 20-27-56 002.jpg"
+   },
+   {
+    "src": "images/brion-cemetery/2.webp",
+    "thumb": "images/brion-cemetery/thumbs/2.webp",
+    "w": 1108,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · cimitero di San Vito di Altivole",
+    "credit": "Maiacard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altivole_-_cimitero_di_San_Vito_di_Altivole_-_2026-09-23_00-02-13_003.jpg",
+    "file": "File:Altivole - cimitero di San Vito di Altivole - 2026-09-23 00-02-13 003.jpg"
+   },
+   {
+    "src": "images/brion-cemetery/3.webp",
+    "thumb": "images/brion-cemetery/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · cimitero di San Vito di Altivole",
+    "credit": "Maiacard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altivole_-_cimitero_di_San_Vito_di_Altivole_-_2026-09-23_00-02-13_004.jpg",
+    "file": "File:Altivole - cimitero di San Vito di Altivole - 2026-09-23 00-02-13 004.jpg"
+   }
+  ],
+  "commons": "Category:Tomba Brion"
  },
  {
   "id": "therme-vals",
@@ -1159,7 +5421,105 @@ window.BUILDINGS = [
    "Light from above"
   ],
   "study": "Stacked layers of local quartzite, with slots of light between the roof slabs.",
-  "images": []
+  "images": [
+   {
+    "src": "images/therme-vals/0.webp",
+    "thumb": "images/therme-vals/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Vals in Graubünden, Switzerland",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:8.7._2019_Besuch_in_Vals,_Graub%C3%BCnden._03.jpg",
+    "file": "File:8.7. 2019 Besuch in Vals, Graubünden. 03.jpg"
+   },
+   {
+    "src": "images/therme-vals/1.webp",
+    "thumb": "images/therme-vals/thumbs/1.webp",
+    "w": 700,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Vals in Graubünden, Switzerland",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:8.7._2019_Besuch_in_Vals,_Graub%C3%BCnden._04.jpg",
+    "file": "File:8.7. 2019 Besuch in Vals, Graubünden. 04.jpg"
+   },
+   {
+    "src": "images/therme-vals/2.webp",
+    "thumb": "images/therme-vals/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Alp lake close to Vals",
+    "credit": "Tatiana Tolstova",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stausee._Vals.jpg",
+    "file": "File:Stausee. Vals.jpg"
+   },
+   {
+    "src": "images/therme-vals/3.webp",
+    "thumb": "images/therme-vals/thumbs/3.webp",
+    "w": 1400,
+    "h": 913,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ernst Klöti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Solothurn_Ernst_Kl%C3%B6ti_2288_Vals.jpg",
+    "file": "File:Zentralbibliothek Solothurn Ernst Klöti 2288 Vals.jpg"
+   },
+   {
+    "src": "images/therme-vals/4.webp",
+    "thumb": "images/therme-vals/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · inside of the factory",
+    "credit": "Roxaneweb",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VALS_usine_Valser_2.jpg",
+    "file": "File:VALS usine Valser 2.jpg"
+   },
+   {
+    "src": "images/therme-vals/5.webp",
+    "thumb": "images/therme-vals/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · this factory is situated in Switzerland near by the thermal baths inside the small mountain village",
+    "credit": "Roxaneweb",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VALS_usine_Valser.jpg",
+    "file": "File:VALS usine Valser.jpg"
+   },
+   {
+    "src": "images/therme-vals/6.webp",
+    "thumb": "images/therme-vals/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · View from the dam of Zervreila non far from Vals",
+    "credit": "Roxaneweb",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ZERVREILASEE_en_hiver.jpg",
+    "file": "File:ZERVREILASEE en hiver.jpg"
+   },
+   {
+    "src": "images/therme-vals/7.webp",
+    "thumb": "images/therme-vals/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Photo of Vals from above",
+    "credit": "ZorkNika",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vals_Switzerland.jpg",
+    "file": "File:Vals Switzerland.jpg"
+   }
+  ],
+  "commons": "Category:Vals, Switzerland"
  },
  {
   "id": "bruder-klaus-field-chapel",
@@ -1179,7 +5539,57 @@ window.BUILDINGS = [
    "Timber"
   ],
   "study": "Concrete rammed around a tent of tree trunks, then burned out to leave a charred interior.",
-  "images": []
+  "images": [
+   {
+    "src": "images/bruder-klaus-field-chapel/0.webp",
+    "thumb": "images/bruder-klaus-field-chapel/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · En av tre bygg tegnet av Peter Zumptor for det nye museet om gruvehistorien i Allmannajuvet",
+    "credit": "Fredrik Fløgstad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A8bygget_i_Allmannajuvet.jpg",
+    "file": "File:Cafèbygget i Allmannajuvet.jpg"
+   },
+   {
+    "src": "images/bruder-klaus-field-chapel/1.webp",
+    "thumb": "images/bruder-klaus-field-chapel/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Peter Zumthor and Wim Wenders , 83rd Venice International Film Festival",
+    "credit": "CaseyJNewell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wim_Wenders_and_Peter_Zumthor-09201.jpg",
+    "file": "File:Wim Wenders and Peter Zumthor-09201.jpg"
+   },
+   {
+    "src": "images/bruder-klaus-field-chapel/2.webp",
+    "thumb": "images/bruder-klaus-field-chapel/thumbs/2.webp",
+    "w": 1400,
+    "h": 932,
+    "kind": "Exterior",
+    "caption": "Exterior · Kylpylä Sveitsin Valsissa",
+    "credit": "fcamusd",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892624822.jpg",
+    "file": "File:Felipe camus - 6892624822.jpg"
+   },
+   {
+    "src": "images/bruder-klaus-field-chapel/3.webp",
+    "thumb": "images/bruder-klaus-field-chapel/thumbs/3.webp",
+    "w": 1400,
+    "h": 932,
+    "kind": "Exterior",
+    "caption": "Exterior · Kylpylä Sveitsin Valsissa",
+    "credit": "fcamusd",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Felipe_camus_-_6892635292.jpg",
+    "file": "File:Felipe camus - 6892635292.jpg"
+   }
+  ],
+  "commons": "Category:Peter Zumthor"
  },
  {
   "id": "kolumba-museum",
@@ -1199,7 +5609,69 @@ window.BUILDINGS = [
    "Light & shadow"
   ],
   "study": "A perforated brick veil built over the ruins of a Gothic church.",
-  "images": []
+  "images": [
+   {
+    "src": "images/kolumba-museum/0.webp",
+    "thumb": "images/kolumba-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Kolumba,Köln",
+    "credit": "MenkinAlRire",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kolumba,_K%C3%B6ln,_Ausstellung_2023-24,_Raum_18.jpg",
+    "file": "File:Kolumba, Köln, Ausstellung 2023-24, Raum 18.jpg"
+   },
+   {
+    "src": "images/kolumba-museum/1.webp",
+    "thumb": "images/kolumba-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Kolumba,Köln",
+    "credit": "MenkinAlRire",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kolumba,K%C3%B6ln._Ausstellung_2023-24,_Raum_19.jpg",
+    "file": "File:Kolumba,Köln. Ausstellung 2023-24, Raum 19.jpg"
+   },
+   {
+    "src": "images/kolumba-museum/2.webp",
+    "thumb": "images/kolumba-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sankta_Kolumba_Church.jpg",
+    "file": "File:Sankta Kolumba Church.jpg"
+   },
+   {
+    "src": "images/kolumba-museum/3.webp",
+    "thumb": "images/kolumba-museum/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kolumba (museum) Treppe",
+    "credit": "Akiramifune",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kolumba_(museum)_Treppe.jpg",
+    "file": "File:Kolumba (museum) Treppe.jpg"
+   },
+   {
+    "src": "images/kolumba-museum/4.webp",
+    "thumb": "images/kolumba-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "MenkinAlRire",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cologne,_Br%C3%BCckengasse_seen_from_Offenbachplatz.jpg",
+    "file": "File:Cologne, Brückengasse seen from Offenbachplatz.jpg"
+   }
+  ],
+  "commons": "Category:Kolumba (museum)"
  },
  {
   "id": "ningbo-history-museum",
@@ -1219,7 +5691,81 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "Walls laid in 'wapan' from tiles and bricks salvaged from demolished villages.",
-  "images": []
+  "images": [
+   {
+    "src": "images/ningbo-history-museum/0.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Siyuwj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bird_view_of_Zhenhai,_2015-05-09_02.jpg",
+    "file": "File:Bird view of Zhenhai, 2015-05-09 02.jpg"
+   },
+   {
+    "src": "images/ningbo-history-museum/1.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Siyuwj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:State_Grid_Company,_Zhenhai,_2020-05-05.jpg",
+    "file": "File:State Grid Company, Zhenhai, 2020-05-05.jpg"
+   },
+   {
+    "src": "images/ningbo-history-museum/2.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Siyuwj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zhenhai_EPA,_2020-01-30_01.jpg",
+    "file": "File:Zhenhai EPA, 2020-01-30 01.jpg"
+   },
+   {
+    "src": "images/ningbo-history-museum/3.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nbfreeh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%95%87%E6%B5%B7%E6%96%B0%E5%9F%8E%E5%8C%97%E5%8C%BA_2017-07-19.jpg",
+    "file": "File:镇海新城北区 2017-07-19.jpg"
+   },
+   {
+    "src": "images/ningbo-history-museum/4.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Context",
+    "caption": "Context · Zhenhai Library at night",
+    "credit": "Nbfreeh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zhenhai_Library_at_night_2020-04-07.jpg",
+    "file": "File:Zhenhai Library at night 2020-04-07.jpg"
+   },
+   {
+    "src": "images/ningbo-history-museum/5.webp",
+    "thumb": "images/ningbo-history-museum/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Nbfreeh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_Ningbo_Botanical_Garden_(Gate_1).jpg",
+    "file": "File:Entrance of Ningbo Botanical Garden (Gate 1).jpg"
+   }
+  ],
+  "commons": "Category:Zhenhai District"
  },
  {
   "id": "quinta-monroy",
@@ -1239,7 +5785,33 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "'Half a good house': the state builds half and families build the rest.",
-  "images": []
+  "images": [
+   {
+    "src": "images/quinta-monroy/0.webp",
+    "thumb": "images/quinta-monroy/thumbs/0.webp",
+    "w": 1400,
+    "h": 1065,
+    "kind": "Exterior",
+    "caption": "Exterior · Architect Alejandro Aravena and Presedent of Chile Michelle Bachelet",
+    "credit": "Gobierno de Chile",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alejandro_Aravena_and_Michelle_Bachelet_2015.jpg",
+    "file": "File:Alejandro Aravena and Michelle Bachelet 2015.jpg"
+   },
+   {
+    "src": "images/quinta-monroy/1.webp",
+    "thumb": "images/quinta-monroy/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · St",
+    "credit": "IsaacShin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Building_stair.jpg",
+    "file": "File:Main Building stair.jpg"
+   }
+  ],
+  "commons": "Category:Alejandro Aravena"
  },
  {
   "id": "row-house-in-sumiyoshi",
@@ -1259,7 +5831,45 @@ window.BUILDINGS = [
    "Light from above"
   ],
   "study": "A concrete box split by an open courtyard you cross to get to bed, even in the rain.",
-  "images": []
+  "images": [
+   {
+    "src": "images/row-house-in-sumiyoshi/0.webp",
+    "thumb": "images/row-house-in-sumiyoshi/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Row House (Azuma House), Sumiyoshi, Osaka, in Japan, 1976",
+    "credit": "Oiuysdfg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Azuma_house.JPG",
+    "file": "File:Azuma house.JPG"
+   },
+   {
+    "src": "images/row-house-in-sumiyoshi/1.webp",
+    "thumb": "images/row-house-in-sumiyoshi/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "alonfloc",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%BD%8F%E5%90%89%E3%81%AE%E9%95%B7%E5%B1%8B_-_panoramio.jpg",
+    "file": "File:住吉の長屋 - panoramio.jpg"
+   },
+   {
+    "src": "images/row-house-in-sumiyoshi/2.webp",
+    "thumb": "images/row-house-in-sumiyoshi/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Professional archi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%BD%8F%E5%90%89%E3%81%AE%E9%95%B7%E5%B1%8B.JPG",
+    "file": "File:住吉の長屋.JPG"
+   }
+  ],
+  "commons": "Category:Azuma House"
  },
  {
   "id": "church-of-the-light",
@@ -1279,7 +5889,57 @@ window.BUILDINGS = [
    "Geometry"
   ],
   "study": "A cross cut into a concrete wall: light as the only ornament.",
-  "images": []
+  "images": [
+   {
+    "src": "images/church-of-the-light/0.webp",
+    "thumb": "images/church-of-the-light/thumbs/0.webp",
+    "w": 1400,
+    "h": 937,
+    "kind": "Exterior",
+    "caption": "Exterior · Church of the Light by Tadao Ando",
+    "credit": "Chun-Hung Eric Cheng",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Light.jpg",
+    "file": "File:Church of the Light.jpg"
+   },
+   {
+    "src": "images/church-of-the-light/1.webp",
+    "thumb": "images/church-of-the-light/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "荻野目さん",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ibaraki_Kasugaoka_Church_20080914.jpg",
+    "file": "File:Ibaraki Kasugaoka Church 20080914.jpg"
+   },
+   {
+    "src": "images/church-of-the-light/2.webp",
+    "thumb": "images/church-of-the-light/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Church of the Light, designed by Tadao Ando, in Ibaraki, Osaka Prefecture",
+    "credit": "The original uploader was  Bujatt  at  English Wikipedia .",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_Light.JPG",
+    "file": "File:Church of Light.JPG"
+   },
+   {
+    "src": "images/church-of-the-light/3.webp",
+    "thumb": "images/church-of-the-light/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Model of Church of the Light by Tadao Ando",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Light_model.jpg",
+    "file": "File:Church of the Light model.jpg"
+   }
+  ],
+  "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)"
  },
  {
   "id": "sendai-mediatheque",
@@ -1299,7 +5959,105 @@ window.BUILDINGS = [
    "Steel & glass"
   ],
   "study": "Thirteen lattice tubes carry thin floor plates, like seaweed in a tank.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sendai-mediatheque/0.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Left_entrance,_Rakuten_Seimei_Park.jpg",
+    "file": "File:Left entrance, Rakuten Seimei Park.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/1.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rakuten_Seimei_Park_Miyagi_at_dusk_20220910a.jpg",
+    "file": "File:Rakuten Seimei Park Miyagi at dusk 20220910a.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/2.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Sendai Airport Station platforms",
+    "credit": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Station_platforms_1.jpg",
+    "file": "File:Sendai Airport Station platforms 1.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/3.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Sendai Airport Station platforms",
+    "credit": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Airport_Station_platforms_2.jpg",
+    "file": "File:Sendai Airport Station platforms 2.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/4.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/4.webp",
+    "w": 1400,
+    "h": 910,
+    "kind": "Interior",
+    "caption": "Interior · Visitors approaching the main hall of a Shinto shrine decorated with red and white paper lanterns",
+    "credit": "lumoplank",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_-_Sendai6174.jpg",
+    "file": "File:Sendai - Sendai6174.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/5.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Sendai Station at night",
+    "credit": "Cheng-en Cheng  from Taichung City, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_interior_2016-10-10_(30597716581).jpg",
+    "file": "File:Sendai Station interior 2016-10-10 (30597716581).jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/6.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clis_Road_(Sendai)_at_night_202512.jpg",
+    "file": "File:Clis Road (Sendai) at night 202512.jpg"
+   },
+   {
+    "src": "images/sendai-mediatheque/7.webp",
+    "thumb": "images/sendai-mediatheque/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Sendai Station, October 2016",
+    "credit": "Cheng-en Cheng  from Taichung City, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sendai_Station_2016-10-09_bus_station_at_night_(30038482043).jpg",
+    "file": "File:Sendai Station 2016-10-09 bus station at night (30038482043).jpg"
+   }
+  ],
+  "commons": "Category:Sendai, Miyagi"
  },
  {
   "id": "21st-century-museum-of-contemporary-art-kanazawa",
@@ -1319,7 +6077,69 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "A round glass perimeter with no front, holding the galleries as separate boxes.",
-  "images": []
+  "images": [
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/0.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Koshinami",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sentokuji_Cemetery(%E5%B0%82%E5%BE%B3%E5%AF%BA%E9%9C%8A%E5%9C%92).jpg",
+    "file": "File:Sentokuji Cemetery(専徳寺霊園).jpg"
+   },
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/1.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Koshinami",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tanoshimatown_Stone_Monument(%E7%94%B0%E5%B3%B6%E7%94%BA%E7%9F%B3%E7%A2%91).jpg",
+    "file": "File:Tanoshimatown Stone Monument(田島町石碑).jpg"
+   },
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/2.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/2.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "経済特区",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B2%A2%E5%B8%82%EF%BC%8820211121%EF%BC%89_02.jpg",
+    "file": "File:金沢市（20211121） 02.jpg"
+   },
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/3.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/3.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "経済特区",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B2%A2%E5%B8%82%EF%BC%8820211121%EF%BC%89_03.jpg",
+    "file": "File:金沢市（20211121） 03.jpg"
+   },
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/4.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "lumoplank",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kanazawa_-_Kanazawa769.jpg",
+    "file": "File:Kanazawa - Kanazawa769.jpg"
+   }
+  ],
+  "commons": "Category:Kanazawa, Ishikawa"
  },
  {
   "id": "moriyama-house",
@@ -1339,7 +6159,69 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "A house split into ten white boxes, with gardens and paths between the rooms.",
-  "images": []
+  "images": [
+   {
+    "src": "images/moriyama-house/0.webp",
+    "thumb": "images/moriyama-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Exhibition by Daido Moriyama, Daido Tokyo, Cartier Foundation for Contemporary Art, Paris (2016)",
+    "credit": "Ssirdeck",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exhibition_by_Daido_Moriyama_Daido_Tokyo.jpg",
+    "file": "File:Exhibition by Daido Moriyama Daido Tokyo.jpg"
+   },
+   {
+    "src": "images/moriyama-house/1.webp",
+    "thumb": "images/moriyama-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tokumeigakarinoaoshima",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_rearview_of_Mercedes-Benz_S550_4MATIC_Coupe_(C217)_The_Stray_Dogmobile_by_Daido_Moriyama.JPG",
+    "file": "File:The rearview of Mercedes-Benz S550 4MATIC Coupe (C217) The Stray Dogmobile by Daido Moriyama.JPG"
+   },
+   {
+    "src": "images/moriyama-house/2.webp",
+    "thumb": "images/moriyama-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 1038,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tokumeigakarinoaoshima",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_frontview_of_Mercedes-Benz_S550_4MATIC_Coup%C3%A9_(C217)_The_Stray_Dogmobile_by_Daido_Moriyama.JPG",
+    "file": "File:The frontview of Mercedes-Benz S550 4MATIC Coupé (C217) The Stray Dogmobile by Daido Moriyama.JPG"
+   },
+   {
+    "src": "images/moriyama-house/3.webp",
+    "thumb": "images/moriyama-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · daido moriyama",
+    "credit": "Barry  Silver  from Tokyo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daido_moriyama.jpg",
+    "file": "File:Daido moriyama.jpg"
+   },
+   {
+    "src": "images/moriyama-house/4.webp",
+    "thumb": "images/moriyama-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "pedro alves  from S. Domingos de Rana, Portugal",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Street%26Repeat_-19_(30394810634).jpg",
+    "file": "File:Street&Repeat -19 (30394810634).jpg"
+   }
+  ],
+  "commons": "Category:Daidō Moriyama"
  },
  {
   "id": "kait-workshop",
@@ -1359,7 +6241,8 @@ window.BUILDINGS = [
    "Steel & glass"
   ],
   "study": "305 thin steel columns of different sizes, scattered like a forest instead of a grid.",
-  "images": []
+  "images": [],
+  "commons": null
  },
  {
   "id": "teshima-art-museum",
@@ -1379,7 +6262,69 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "One concrete shell with two openings, cast over a mound of earth.",
-  "images": []
+  "images": [
+   {
+    "src": "images/teshima-art-museum/0.webp",
+    "thumb": "images/teshima-art-museum/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Teshima Art Museum in Teshima, Japan",
+    "credit": "Bea Phi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Teshima_Art_Museum.jpg",
+    "file": "File:Exterior of the Teshima Art Museum.jpg"
+   },
+   {
+    "src": "images/teshima-art-museum/1.webp",
+    "thumb": "images/teshima-art-museum/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Teshima",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teshima_Art_Museum_(8797572559).jpg",
+    "file": "File:Teshima Art Museum (8797572559).jpg"
+   },
+   {
+    "src": "images/teshima-art-museum/2.webp",
+    "thumb": "images/teshima-art-museum/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kentaro Ohno  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teshima_Art_Museum_exterior_view_201310.jpg",
+    "file": "File:Teshima Art Museum exterior view 201310.jpg"
+   },
+   {
+    "src": "images/teshima-art-museum/3.webp",
+    "thumb": "images/teshima-art-museum/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kentaro Ohno  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teshima_Art_Museum_exterior_view1_201310.jpg",
+    "file": "File:Teshima Art Museum exterior view1 201310.jpg"
+   },
+   {
+    "src": "images/teshima-art-museum/4.webp",
+    "thumb": "images/teshima-art-museum/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · view from the walkway to the museum",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teshima_Art_Museum_(8808158244).jpg",
+    "file": "File:Teshima Art Museum (8808158244).jpg"
+   }
+  ],
+  "commons": "Category:Teshima Art Museum"
  },
  {
   "id": "house-na",
@@ -1399,7 +6344,57 @@ window.BUILDINGS = [
    "Free plan"
   ],
   "study": "A glass house of 21 floor plates at different heights, like living in a tree.",
-  "images": []
+  "images": [
+   {
+    "src": "images/house-na/0.webp",
+    "thumb": "images/house-na/thumbs/0.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Jirka Dl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:House_Na_B%C4%9Bli%C5%A1ti.JPG",
+    "file": "File:House Na Bělišti.JPG"
+   },
+   {
+    "src": "images/house-na/1.webp",
+    "thumb": "images/house-na/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDelezn%C3%BD_Brod,_Muzeum_B%C4%9Bli%C5%A1t%C4%9B_(1).jpg",
+    "file": "File:Železný Brod, Muzeum Běliště (1).jpg"
+   },
+   {
+    "src": "images/house-na/2.webp",
+    "thumb": "images/house-na/thumbs/2.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDelezn%C3%BD_Brod,_Muzeum_B%C4%9Bli%C5%A1t%C4%9B_(2).jpg",
+    "file": "File:Železný Brod, Muzeum Běliště (2).jpg"
+   },
+   {
+    "src": "images/house-na/3.webp",
+    "thumb": "images/house-na/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Muzeum, Na Bělišti, Železný Brod",
+    "credit": "Miloslav Rejha",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDelezn%C3%BD_Brod_2019-04_03.jpg",
+    "file": "File:Železný Brod 2019-04 03.jpg"
+   }
+  ],
+  "commons": "Category:House Na Bělišti"
  },
  {
   "id": "centre-pompidou",
@@ -1419,7 +6414,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "Structure and services moved outside and colour-coded, leaving free floors and a public piazza.",
-  "images": []
+  "images": [
+   {
+    "src": "images/centre-pompidou/0.webp",
+    "thumb": "images/centre-pompidou/thumbs/0.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · La fontaine du Palmier depuis le quai de l'Horloge, Paris, France",
+    "credit": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fontaine_du_Palmier_@_Quai_de_l%27Horloge.jpg",
+    "file": "File:Fontaine du Palmier @ Quai de l'Horloge.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/1.webp",
+    "thumb": "images/centre-pompidou/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · View of Eiffel Tower from Centre Pompidou in November 2019",
+    "credit": "Jami430",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Eiffel_Tower_and_neighborhood_from_Centre_Pompidou.jpg",
+    "file": "File:View of Eiffel Tower and neighborhood from Centre Pompidou.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/2.webp",
+    "thumb": "images/centre-pompidou/thumbs/2.webp",
+    "w": 1400,
+    "h": 753,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Centre_Georges-Pompidou,_Paris_15_August_2021.jpg",
+    "file": "File:Interior of the Centre Georges-Pompidou, Paris 15 August 2021.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/3.webp",
+    "thumb": "images/centre-pompidou/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Kill For Total Peace, 2011",
+    "credit": "Fabien Jallot",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kill_For_Total_Peace.JPG",
+    "file": "File:Kill For Total Peace.JPG"
+   },
+   {
+    "src": "images/centre-pompidou/4.webp",
+    "thumb": "images/centre-pompidou/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · Le centre Pompidou depuis le jardin Anne-Frank, Paris, France",
+    "credit": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_Pompidou_@_Jardin_Anne-Frank.jpg",
+    "file": "File:Centre Pompidou @ Jardin Anne-Frank.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/5.webp",
+    "thumb": "images/centre-pompidou/thumbs/5.webp",
+    "w": 1400,
+    "h": 798,
+    "kind": "Context",
+    "caption": "Context · View from Sacré-Cœur de Montmartre , Paris , France",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris,_Sacr%C3%A9-C%C5%93ur_de_Montmartre_--_2014_--_1197.jpg",
+    "file": "File:Paris, Sacré-Cœur de Montmartre -- 2014 -- 1197.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/6.webp",
+    "thumb": "images/centre-pompidou/thumbs/6.webp",
+    "w": 939,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Roofs and chimneys, as seen from Beaubourg towards the Eiffel Tower, Paris (4th arr.)",
+    "credit": "JLPC",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Toits_ouest_depuis_Beaubourg_2014.jpg",
+    "file": "File:Paris Toits ouest depuis Beaubourg 2014.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/7.webp",
+    "thumb": "images/centre-pompidou/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Drawing",
+    "caption": "Drawing · Toits de Paris vus depuis le Centre Pompidou (Beaubourg)",
+    "credit": "Juliette Jourdan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toits_de_Paris_vus_depuis_Beaubourg.jpg",
+    "file": "File:Toits de Paris vus depuis Beaubourg.jpg"
+   }
+  ],
+  "commons": "Category:Centre Georges-Pompidou"
  },
  {
   "id": "lloyds-building",
@@ -1439,7 +6532,105 @@ window.BUILDINGS = [
    "Prefabrication"
   ],
   "study": "Lifts, stairs and ducts as plug-in towers around a 60-metre atrium.",
-  "images": []
+  "images": [
+   {
+    "src": "images/lloyds-building/0.webp",
+    "thumb": "images/lloyds-building/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · City of London - Lloyd's and Willis buldings",
+    "credit": "It's No Game",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_in_perspective_(51303615109).jpg",
+    "file": "File:City in perspective (51303615109).jpg"
+   },
+   {
+    "src": "images/lloyds-building/1.webp",
+    "thumb": "images/lloyds-building/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · City of London: Lloyds of London",
+    "credit": "Michael Garlick",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_London,_Lloyds_of_London_-_geograph.org.uk_-_7911280.jpg",
+    "file": "File:City of London, Lloyds of London - geograph.org.uk - 7911280.jpg"
+   },
+   {
+    "src": "images/lloyds-building/2.webp",
+    "thumb": "images/lloyds-building/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Looking straight ahead, \"The Walkie-Talkie\" ( 20 Fenchurch Street ) fills the view",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_Building_-_Atrium_11th_floor_looking_at_the_Walkie-Talkie.jpg",
+    "file": "File:Lloyd's Building - Atrium 11th floor looking at the Walkie-Talkie.jpg"
+   },
+   {
+    "src": "images/lloyds-building/3.webp",
+    "thumb": "images/lloyds-building/thumbs/3.webp",
+    "w": 921,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_Building_-_Escalators_fisheye.jpg",
+    "file": "File:Lloyd's Building - Escalators fisheye.jpg"
+   },
+   {
+    "src": "images/lloyds-building/4.webp",
+    "thumb": "images/lloyds-building/thumbs/4.webp",
+    "w": 833,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Lloyd's building exterior staircase, taken from the glass lift",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_Building_-_Exterior_Staircase.jpg",
+    "file": "File:Lloyd's Building - Exterior Staircase.jpg"
+   },
+   {
+    "src": "images/lloyds-building/5.webp",
+    "thumb": "images/lloyds-building/thumbs/5.webp",
+    "w": 1400,
+    "h": 1051,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Tom Page",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_building_windows_2025-02-10.jpg",
+    "file": "File:Lloyd's building windows 2025-02-10.jpg"
+   },
+   {
+    "src": "images/lloyds-building/6.webp",
+    "thumb": "images/lloyds-building/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Some of the pipes on the northern face of the Lloyds Building in London",
+    "credit": "mattbuck    ( category )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB2D8_Lloyds_Building.jpg",
+    "file": "File:London MMB »2D8 Lloyds Building.jpg"
+   },
+   {
+    "src": "images/lloyds-building/7.webp",
+    "thumb": "images/lloyds-building/thumbs/7.webp",
+    "w": 910,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Floor plan of the 1928 Lloyd's building, designed by Sir Edwin Cooper",
+    "credit": "Sir Edwin Cooper",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lloyd%27s_of_London_floor_plan.png",
+    "file": "File:Lloyd's of London floor plan.png"
+   }
+  ],
+  "commons": "Category:Lloyd's building"
  },
  {
   "id": "hsbc-main-building",
@@ -1459,7 +6650,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "Floors hung from suspension trusses, freeing a public plaza beneath.",
-  "images": []
+  "images": [
+   {
+    "src": "images/hsbc-main-building/0.webp",
+    "thumb": "images/hsbc-main-building/thumbs/0.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior · Hong Kong, Tsim Sha Tsui (Kowloon), viev from 30th floor of \"iSQUARE\" to West",
+    "credit": "Ralf Roletschek",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13-08-08-hongkong-by-RalfR-087.jpg",
+    "file": "File:13-08-08-hongkong-by-RalfR-087.jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/1.webp",
+    "thumb": "images/hsbc-main-building/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The HSBC Building in Hong Kong in 2016",
+    "credit": "Choinowski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building_2016.jpg",
+    "file": "File:HSBC Building 2016.jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/2.webp",
+    "thumb": "images/hsbc-main-building/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "张元柏",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_%E9%A6%99%E6%B8%AF_-_panoramio_(1).jpg",
+    "file": "File:2011 香港 - panoramio (1).jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/3.webp",
+    "thumb": "images/hsbc-main-building/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · HK Central The Henderson main lobby window view nearby n red sculpture in March 2025",
+    "credit": "Honagum Suwnoo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:HK_Central_The_Henderson_main_lobby_window_view_nearby_n_red_sculpture_March_2025_R12S_01.jpg",
+    "file": "File:HK Central The Henderson main lobby window view nearby n red sculpture March 2025 R12S 01.jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/4.webp",
+    "thumb": "images/hsbc-main-building/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Chong Fat",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:HK_OldCityHall_LocationPlate.jpg",
+    "file": "File:HK OldCityHall LocationPlate.jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/5.webp",
+    "thumb": "images/hsbc-main-building/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · BrickCon 2012, Seattle, Washington",
+    "credit": "Bill Ward  from El Cerrito, CA, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:P1010509_(8061815352).jpg",
+    "file": "File:P1010509 (8061815352).jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/6.webp",
+    "thumb": "images/hsbc-main-building/thumbs/6.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Context",
+    "caption": "Context · Hong Kong; View from Victoria Peak to Victoria Harbour and Kowloon",
+    "credit": "Ralf Roletschek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13-08-09-peak-by-RalfR-01.jpg",
+    "file": "File:13-08-09-peak-by-RalfR-01.jpg"
+   },
+   {
+    "src": "images/hsbc-main-building/7.webp",
+    "thumb": "images/hsbc-main-building/thumbs/7.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Hong Kong; View from Victoria Peak to Victoria Harbour and Kowloon",
+    "credit": "Ralf Roletschek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13-08-09-peak-by-RalfR-01a.jpg",
+    "file": "File:13-08-09-peak-by-RalfR-01a.jpg"
+   }
+  ],
+  "commons": "Category:HSBC Hong Kong headquarters building"
  },
  {
   "id": "vitra-fire-station",
@@ -1479,7 +6768,105 @@ window.BUILDINGS = [
    "Cantilever"
   ],
   "study": "Zaha Hadid's first built work: sharp concrete planes caught in motion.",
-  "images": []
+  "images": [
+   {
+    "src": "images/vitra-fire-station/0.webp",
+    "thumb": "images/vitra-fire-station/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Architekturführung durchs Vitra Campus, im Rahmen der 62",
+    "credit": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-04-02_GV_RegBas_Fuehrung_Vitra_033.jpg",
+    "file": "File:2025-04-02 GV RegBas Fuehrung Vitra 033.jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/1.webp",
+    "thumb": "images/vitra-fire-station/thumbs/1.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · Bade-Wurtemberg Weil am Rhein Vitra Fire Station (Zaha Hadid)",
+    "credit": "Calips",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baden-W%C3%BCrttemberg_Weil_am_Rhein_Vitra_Fire_station_01.jpg",
+    "file": "File:Baden-Württemberg Weil am Rhein Vitra Fire station 01.jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/2.webp",
+    "thumb": "images/vitra-fire-station/thumbs/2.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · The Fire Station is the very first building complex designed by Zaha Hadid, 1993",
+    "credit": "Mondo79",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire_Station,_Vitra_Campus,_Weil_am_Rhein_-_Flickr_-_Mondo79.jpg",
+    "file": "File:Fire Station, Vitra Campus, Weil am Rhein - Flickr - Mondo79.jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/3.webp",
+    "thumb": "images/vitra-fire-station/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Architekturführung durchs Vitra Campus, im Rahmen der 62",
+    "credit": "Ahmet Düz, Dreiländer- & Oberrheinfotograf",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-04-02_GV_RegBas_Fuehrung_Vitra_038.jpg",
+    "file": "File:2025-04-02 GV RegBas Fuehrung Vitra 038.jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/4.webp",
+    "thumb": "images/vitra-fire-station/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weil_am_Rhein_-_Vitra_Feuerwehrhaus_(26950072874).jpg",
+    "file": "File:Weil am Rhein - Vitra Feuerwehrhaus (26950072874).jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/5.webp",
+    "thumb": "images/vitra-fire-station/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weil_am_Rhein_-_Vitra_Feuerwehrhaus_(26950074624).jpg",
+    "file": "File:Weil am Rhein - Vitra Feuerwehrhaus (26950074624).jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/6.webp",
+    "thumb": "images/vitra-fire-station/thumbs/6.webp",
+    "w": 821,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Vitra fire station by Zaha Hadid, Weil am Rhein, Germany",
+    "credit": "Pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-mail to pjt56@gmx.ne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VitraCampus_HadidFireStation-pjt2.jpg",
+    "file": "File:VitraCampus HadidFireStation-pjt2.jpg"
+   },
+   {
+    "src": "images/vitra-fire-station/7.webp",
+    "thumb": "images/vitra-fire-station/thumbs/7.webp",
+    "w": 1400,
+    "h": 850,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Magdalena Roeseler",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:500px_photo_(186624183).jpeg",
+    "file": "File:500px photo (186624183).jpeg"
+   }
+  ],
+  "commons": "Category:Fire Station (Zaha Hadid)"
  },
  {
   "id": "guggenheim-bilbao",
@@ -1499,7 +6886,105 @@ window.BUILDINGS = [
    "Parametric"
   ],
   "study": "Titanium curves designed with CATIA, software from the aerospace industry.",
-  "images": []
+  "images": [
+   {
+    "src": "images/guggenheim-bilbao/0.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/0.webp",
+    "w": 1400,
+    "h": 1014,
+    "kind": "Exterior",
+    "caption": "Exterior · Guggenheim Museum in Bilbao",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilbao_Guggenheim_1190433.jpg",
+    "file": "File:Bilbao Guggenheim 1190433.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/1.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/1.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · La Salve Bridge, behind the Guggenheim, Museum, behind the Iberdrola Tower",
+    "credit": "Basotxerri",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilbao_-_Puente_La_Salve,_Guggenheim,_Torre_Iberdrola_01.jpg",
+    "file": "File:Bilbao - Puente La Salve, Guggenheim, Torre Iberdrola 01.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/2.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/2.webp",
+    "w": 1400,
+    "h": 1111,
+    "kind": "Exterior",
+    "caption": "Exterior · Guggenheim Museum",
+    "credit": "Basotxerri",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilbao_-_Museo_Guggenheim_01.jpg",
+    "file": "File:Bilbao - Museo Guggenheim 01.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/3.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/3.webp",
+    "w": 915,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Detail of the Guggenheim Museum staircase, Bilbao, Spain (PPL3-Altered)",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_the_Guggenheim_Museum_staircase,_Bilbao,_Spain_(PPL3-Altered)_julesvernex2.jpg",
+    "file": "File:Detail of the Guggenheim Museum staircase, Bilbao, Spain (PPL3-Altered) julesvernex2.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/4.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/4.webp",
+    "w": 942,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Bilbao-2020",
+    "credit": "Alberto-g-rovi",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guggemheim-2020_(10).jpg",
+    "file": "File:Guggemheim-2020 (10).jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/5.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/5.webp",
+    "w": 1400,
+    "h": 919,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the Guggenheim Museum entrance, Bilbao, Spain (PPL1-Corrected)",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_the_Guggenheim_Museum_entrance,_Bilbao,_Spain_(PPL1-Corrected)_julesvernex2.jpg",
+    "file": "File:Detail of the Guggenheim Museum entrance, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/6.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/6.webp",
+    "w": 1400,
+    "h": 1342,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the Guggenheim Museum in Bilbao",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilbao_Guggenheim_1190400.jpg",
+    "file": "File:Bilbao Guggenheim 1190400.jpg"
+   },
+   {
+    "src": "images/guggenheim-bilbao/7.webp",
+    "thumb": "images/guggenheim-bilbao/thumbs/7.webp",
+    "w": 1400,
+    "h": 932,
+    "kind": "Context",
+    "caption": "Context · Guggenheim Bilbao museum, aerial view",
+    "credit": "Mikel Arrazola",
+    "license": "CC BY 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Guggenheim_Bilbao_aerial_view.jpg",
+    "file": "File:Guggenheim Bilbao aerial view.jpg"
+   }
+  ],
+  "commons": "Category:Guggenheim Museum Bilbao"
  },
  {
   "id": "tate-modern",
@@ -1519,7 +7004,105 @@ window.BUILDINGS = [
    "Brick"
   ],
   "study": "A power station turned museum; the Turbine Hall became an indoor street.",
-  "images": []
+  "images": [
+   {
+    "src": "images/tate-modern/0.webp",
+    "thumb": "images/tate-modern/thumbs/0.webp",
+    "w": 951,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Tate Modern, London, England",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tate_Modern,_Londres,_Inglaterra,_2014-08-11,_DD_124.JPG",
+    "file": "File:Tate Modern, Londres, Inglaterra, 2014-08-11, DD 124.JPG"
+   },
+   {
+    "src": "images/tate-modern/1.webp",
+    "thumb": "images/tate-modern/thumbs/1.webp",
+    "w": 1400,
+    "h": 875,
+    "kind": "Exterior",
+    "caption": "Exterior · In London, United Kingdom",
+    "credit": "chris.rycroft",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Tate_Modern_art_gallery.jpg",
+    "file": "File:Entrance to the Tate Modern art gallery.jpg"
+   },
+   {
+    "src": "images/tate-modern/2.webp",
+    "thumb": "images/tate-modern/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior of Tate Modern in London, England",
+    "credit": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Tate_Modern_(January_2024)_03.jpg",
+    "file": "File:Exterior of Tate Modern (January 2024) 03.jpg"
+   },
+   {
+    "src": "images/tate-modern/3.webp",
+    "thumb": "images/tate-modern/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · London",
+    "credit": "Luca Sartoni  from Vienna, Austria",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_(48583708836).jpg",
+    "file": "File:London (48583708836).jpg"
+   },
+   {
+    "src": "images/tate-modern/4.webp",
+    "thumb": "images/tate-modern/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Tate Modern in London, England",
+    "credit": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Tate_Modern_(January_2024)_01.jpg",
+    "file": "File:Interior of Tate Modern (January 2024) 01.jpg"
+   },
+   {
+    "src": "images/tate-modern/5.webp",
+    "thumb": "images/tate-modern/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Tate Modern in London, England",
+    "credit": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Tate_Modern_(January_2024)_03.jpg",
+    "file": "File:Interior of Tate Modern (January 2024) 03.jpg"
+   },
+   {
+    "src": "images/tate-modern/6.webp",
+    "thumb": "images/tate-modern/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Stefan Wloch",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_of_Radios,_Tate_Modern_2017-11-25.jpg",
+    "file": "File:Tower of Radios, Tate Modern 2017-11-25.jpg"
+   },
+   {
+    "src": "images/tate-modern/7.webp",
+    "thumb": "images/tate-modern/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Tate Modern , as seen from the Thames , London ",
+    "credit": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tate_Modern_London_June_2016.jpg",
+    "file": "File:Tate Modern London June 2016.jpg"
+   }
+  ],
+  "commons": "Category:Tate Modern"
  },
  {
   "id": "jewish-museum-berlin",
@@ -1539,7 +7122,105 @@ window.BUILDINGS = [
    "Light & shadow"
   ],
   "study": "A zigzag plan cut through by empty 'voids' that visitors can see but not enter.",
-  "images": []
+  "images": [
+   {
+    "src": "images/jewish-museum-berlin/0.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/0.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Eingang im Jüdischen Museum Berlin",
+    "credit": "GodeNehler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdisches_Museum_Berlin-5855.jpg",
+    "file": "File:Jüdisches Museum Berlin-5855.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/1.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/1.webp",
+    "w": 1365,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maquette_du_mus%C3%A9e_juif_(Berlin)_(6317915053).jpg",
+    "file": "File:Maquette du musée juif (Berlin) (6317915053).jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/2.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/2.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ziko van Dijk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_006.jpg",
+    "file": "File:2026-04-26 Juedisches Museum Berlin 006.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/3.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Berlin in june 2008",
+    "credit": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:200806_Berlin_529.JPG",
+    "file": "File:200806 Berlin 529.JPG"
+   },
+   {
+    "src": "images/jewish-museum-berlin/4.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A window of the Jewish Museum Berlin",
+    "credit": "Mark Ahsmann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:200806_Berlin_532.JPG",
+    "file": "File:200806 Berlin 532.JPG"
+   },
+   {
+    "src": "images/jewish-museum-berlin/5.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/5.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ziko van Dijk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_076.jpg",
+    "file": "File:2026-04-26 Juedisches Museum Berlin 076.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/6.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/6.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Context",
+    "caption": "Context · Stelen im \"Garten des Exils\"",
+    "credit": "Ansgar Wernst",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%BCdisches_Museum_Berlin_GLAM_2026_33.jpg",
+    "file": "File:Jüdisches Museum Berlin GLAM 2026 33.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/7.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Drawing",
+    "caption": "Drawing · Model of Jüdisches Museum Berlin (Jewish Museum Berlin) by Daniel Libeskind",
+    "credit": "Naotake Murayama",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_J%C3%BCdisches_Museum_Berlin_(Jewish_Museum_Berlin).jpg",
+    "file": "File:Model of Jüdisches Museum Berlin (Jewish Museum Berlin).jpg"
+   }
+  ],
+  "commons": "Category:Jewish Museum Berlin"
  },
  {
   "id": "seattle-central-library",
@@ -1559,7 +7240,105 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "Platforms stacked and shifted inside a diamond-mesh skin; the book spiral is one continuous ramp.",
-  "images": []
+  "images": [
+   {
+    "src": "images/seattle-central-library/0.webp",
+    "thumb": "images/seattle-central-library/thumbs/0.webp",
+    "w": 1400,
+    "h": 873,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_02.jpg",
+    "file": "File:Seattle Central Library 02.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/1.webp",
+    "thumb": "images/seattle-central-library/thumbs/1.webp",
+    "w": 1400,
+    "h": 1006,
+    "kind": "Exterior",
+    "caption": "Exterior · Main Seattle library",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Library_01.jpg",
+    "file": "File:Seattle Library 01.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/2.webp",
+    "thumb": "images/seattle-central-library/thumbs/2.webp",
+    "w": 1400,
+    "h": 1113,
+    "kind": "Exterior",
+    "caption": "Exterior · Main Seattle library",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Library.jpg",
+    "file": "File:Seattle Library.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/3.webp",
+    "thumb": "images/seattle-central-library/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Seattle metropolitan area",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_metropolitan_area,_April_2023_-_144.jpg",
+    "file": "File:Seattle metropolitan area, April 2023 - 144.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/4.webp",
+    "thumb": "images/seattle-central-library/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Seattle metropolitan area",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_metropolitan_area,_April_2023_-_149.jpg",
+    "file": "File:Seattle metropolitan area, April 2023 - 149.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/5.webp",
+    "thumb": "images/seattle-central-library/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "brewbooks  from near Seattle, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_-_Flickr_-_brewbooks.jpg",
+    "file": "File:Seattle Central Library - Flickr - brewbooks.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/6.webp",
+    "thumb": "images/seattle-central-library/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · A view of the Seattle Central Library at night",
+    "credit": "Visitor7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_at_Night.jpg",
+    "file": "File:Seattle Central Library at Night.jpg"
+   },
+   {
+    "src": "images/seattle-central-library/7.webp",
+    "thumb": "images/seattle-central-library/thumbs/7.webp",
+    "w": 1400,
+    "h": 1167,
+    "kind": "Drawing",
+    "caption": "Drawing · A small section of the exterior glass wall at Seattle Central Library",
+    "credit": "Andrew Smith  from Seattle, WA, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grid_System_(5613157595).jpg",
+    "file": "File:Grid System (5613157595).jpg"
+   }
+  ],
+  "commons": "Category:Seattle Central Library"
  },
  {
   "id": "casa-da-m-sica",
@@ -1579,7 +7358,105 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "A faceted concrete solid with the concert hall cut straight through it, glazed at both ends.",
-  "images": []
+  "images": [
+   {
+    "src": "images/casa-da-m-sica/0.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa da música - Porto",
+    "credit": "Paulo Gomes  from Portugal",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_da_m%C3%BAsica_-_Porto_(51946436585).jpg",
+    "file": "File:Casa da música - Porto (51946436585).jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/1.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa da música ",
+    "credit": "Paulo Gomes  from Portugal",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_da_m%C3%BAsica_._Porto_(51946440290).jpg",
+    "file": "File:Casa da música . Porto (51946440290).jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/2.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Porto Portugal",
+    "credit": "Joseolgon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_da_M%C3%BAsica_2026_1.jpg",
+    "file": "File:Casa da Música 2026 1.jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/3.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Porto Portugal",
+    "credit": "Joseolgon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_da_M%C3%BAsica_2026_2.jpg",
+    "file": "File:Casa da Música 2026 2.jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/4.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/4.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dale Cruse - 10M views  from San Francisco, CA, USA",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Staircase_Detail_at_Casa_da_M%C3%BAsica,_Porto,_Portugal_(54830746945).jpg",
+    "file": "File:Staircase Detail at Casa da Música, Porto, Portugal (54830746945).jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/5.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · 22.4.14 Porto 20",
+    "credit": "Donald Judge  from England",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:22.4.14_Porto_20_(14007768711).jpg",
+    "file": "File:22.4.14 Porto 20 (14007768711).jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/6.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/6.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Interior",
+    "caption": "Interior · 22.4.14 Porto 37",
+    "credit": "Donald Judge  from England",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:22.4.14_Porto_37_(14011542944).jpg",
+    "file": "File:22.4.14 Porto 37 (14011542944).jpg"
+   },
+   {
+    "src": "images/casa-da-m-sica/7.webp",
+    "thumb": "images/casa-da-m-sica/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · 500px provided description: ?\"Casa da Musica\" A \"must see\" building with a fantastic architectural beauty",
+    "credit": "Sergio Miranda",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Why_Looking_Outside_(82266803).jpeg",
+    "file": "File:Why Looking Outside (82266803).jpeg"
+   }
+  ],
+  "commons": "Category:Casa da Música"
  },
  {
   "id": "beijing-national-stadium",
@@ -1599,7 +7476,69 @@ window.BUILDINGS = [
    "Steel & glass"
   ],
   "study": "A 'bird's nest' of steel where structure, facade and roof are one tangle.",
-  "images": []
+  "images": [
+   {
+    "src": "images/beijing-national-stadium/0.webp",
+    "thumb": "images/beijing-national-stadium/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · SLK6118?",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A03263D_at_Workers%27_Stadium_West_Gate_(20250719174554).jpg",
+    "file": "File:A03263D at Workers' Stadium West Gate (20250719174554).jpg"
+   },
+   {
+    "src": "images/beijing-national-stadium/1.webp",
+    "thumb": "images/beijing-national-stadium/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · SLK6118?",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A03263D_at_Workers%27_Stadium_West_Gate_(20250719174609).jpg",
+    "file": "File:A03263D at Workers' Stadium West Gate (20250719174609).jpg"
+   },
+   {
+    "src": "images/beijing-national-stadium/2.webp",
+    "thumb": "images/beijing-national-stadium/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Arrival of Beijing Guo'an for tonight's match against Henan FC",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ALM590_at_Workers%27_Stadium_West_Gate_(20250425160030).jpg",
+    "file": "File:ALM590 at Workers' Stadium West Gate (20250425160030).jpg"
+   },
+   {
+    "src": "images/beijing-national-stadium/3.webp",
+    "thumb": "images/beijing-national-stadium/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Beijing Guoan players after an away game against Shanghai Port on1 May 2025",
+    "credit": "IDontHaveSkype",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_Guoan_players_2025-05-01.jpg",
+    "file": "File:Beijing Guoan players 2025-05-01.jpg"
+   },
+   {
+    "src": "images/beijing-national-stadium/4.webp",
+    "thumb": "images/beijing-national-stadium/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "TurnOnTheNight",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_030141_Beijing_Guoan_theme_train_20260405155804.jpg",
+    "file": "File:Interior of 030141 Beijing Guoan theme train 20260405155804.jpg"
+   }
+  ],
+  "commons": "Category:Beijing Guoan"
  },
  {
   "id": "oslo-opera-house",
@@ -1619,7 +7558,105 @@ window.BUILDINGS = [
    "Stone"
   ],
   "study": "A marble roof that slopes into the fjord, open for anyone to walk on.",
-  "images": []
+  "images": [
+   {
+    "src": "images/oslo-opera-house/0.webp",
+    "thumb": "images/oslo-opera-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_2023_2.jpg",
+    "file": "File:Oslo Opera House 2023 2.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/1.webp",
+    "thumb": "images/oslo-opera-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 556,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Pierre Blaché",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_-_2025.jpg",
+    "file": "File:Oslo Opera House - 2025.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/2.webp",
+    "thumb": "images/oslo-opera-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior · Bulding of Opera in Oslo by night",
+    "credit": "Pudelek  (Marcin Szala)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Opera_in_Oslo.jpg",
+    "file": "File:New Opera in Oslo.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/3.webp",
+    "thumb": "images/oslo-opera-house/thumbs/3.webp",
+    "w": 1400,
+    "h": 910,
+    "kind": "Interior",
+    "caption": "Interior · Opernhaus Oslo",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-09-27-Operahuset-Oslo-4.jpg",
+    "file": "File:2025-09-27-Operahuset-Oslo-4.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/4.webp",
+    "thumb": "images/oslo-opera-house/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Inside The Opera House in Oslo",
+    "credit": "Teri Jacobs  / Gatsbyeffect.com",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Oslo_Opera_2.JPG",
+    "file": "File:Inside Oslo Opera 2.JPG"
+   },
+   {
+    "src": "images/oslo-opera-house/5.webp",
+    "thumb": "images/oslo-opera-house/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Oslo (Norge)",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oslo_148.jpg",
+    "file": "File:Oslo 148.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/6.webp",
+    "thumb": "images/oslo-opera-house/thumbs/6.webp",
+    "w": 1400,
+    "h": 700,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_(Den_Norske_Opera_%26_Ballett),_Norway.jpg",
+    "file": "File:Oslo Opera House (Den Norske Opera & Ballett), Norway.jpg"
+   },
+   {
+    "src": "images/oslo-opera-house/7.webp",
+    "thumb": "images/oslo-opera-house/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Åshild Telle",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Opera_red_alert1.jpg",
+    "file": "File:Opera red alert1.jpg"
+   }
+  ],
+  "commons": "Category:Oslo Opera house"
  },
  {
   "id": "8-house",
@@ -1639,7 +7676,81 @@ window.BUILDINGS = [
    "Section"
   ],
   "study": "A figure-eight block with a continuous path you can cycle to the top.",
-  "images": []
+  "images": [
+   {
+    "src": "images/8-house/0.webp",
+    "thumb": "images/8-house/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mykyta Nikiforov",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:8_House.jpg",
+    "file": "File:8 House.jpg"
+   },
+   {
+    "src": "images/8-house/1.webp",
+    "thumb": "images/8-house/thumbs/1.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · bighouse or 8-tallet, housing and offices, ørestad, copenhagen, denmark",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bjarke_ingels_group,_BIG,_bighouse_or_8-tallet,_copenhagen_2006-2010_(4580622163).jpg",
+    "file": "File:Bjarke ingels group, BIG, bighouse or 8-tallet, copenhagen 2006-2010 (4580622163).jpg"
+   },
+   {
+    "src": "images/8-house/2.webp",
+    "thumb": "images/8-house/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Heavy residential construction in the southernmost part of Ørestad Syd",
+    "credit": "Jens Cederskjold",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Heavy_residential_construction_in_the_southernmost_part_of_%C3%98restad_Syd_-_panoramio.jpg",
+    "file": "File:Heavy residential construction in the southernmost part of Ørestad Syd - panoramio.jpg"
+   },
+   {
+    "src": "images/8-house/3.webp",
+    "thumb": "images/8-house/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 8-tallet",
+    "credit": "Susanne Nilsson",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:8-tallet_(16285793604).jpg",
+    "file": "File:8-tallet (16285793604).jpg"
+   },
+   {
+    "src": "images/8-house/4.webp",
+    "thumb": "images/8-house/thumbs/4.webp",
+    "w": 1386,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kubrick_moment._bjarke_ingels_group,_BIG,_bighouse_or_8-tallet,_copenhagen_2006-2010_(4582584432).jpg",
+    "file": "File:Kubrick moment. bjarke ingels group, BIG, bighouse or 8-tallet, copenhagen 2006-2010 (4582584432).jpg"
+   },
+   {
+    "src": "images/8-house/5.webp",
+    "thumb": "images/8-house/thumbs/5.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Interior",
+    "caption": "Interior · bighouse or 8-tallet, housing and offices, ørestad, copenhagen, denmark",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bathroom_detail,_bjarke_ingels_group,_BIG,_bighouse_or_8-tallet,_copenhagen_2006-2010_(4609307345).jpg",
+    "file": "File:Bathroom detail, bjarke ingels group, BIG, bighouse or 8-tallet, copenhagen 2006-2010 (4609307345).jpg"
+   }
+  ],
+  "commons": "Category:8 House"
  },
  {
   "id": "cctv-headquarters",
@@ -1659,7 +7770,69 @@ window.BUILDINGS = [
    "Megastructure"
   ],
   "study": "A loop of two leaning towers joined by a 75-metre cantilever.",
-  "images": []
+  "images": [
+   {
+    "src": "images/cctv-headquarters/0.webp",
+    "thumb": "images/cctv-headquarters/thumbs/0.webp",
+    "w": 1400,
+    "h": 984,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "CNHowey",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_CCTV_building.jpg",
+    "file": "File:Beijing CCTV building.jpg"
+   },
+   {
+    "src": "images/cctv-headquarters/1.webp",
+    "thumb": "images/cctv-headquarters/thumbs/1.webp",
+    "w": 1400,
+    "h": 979,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "HoweyYuan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_Central_Business_District_(20240826163226).jpg",
+    "file": "File:Beijing Central Business District (20240826163226).jpg"
+   },
+   {
+    "src": "images/cctv-headquarters/2.webp",
+    "thumb": "images/cctv-headquarters/thumbs/2.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Taken from Ciyunsi",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCTV_Guanghualu_Building_with_sunset_through_(20220920175511).jpg",
+    "file": "File:CCTV Guanghualu Building with sunset through (20220920175511).jpg"
+   },
+   {
+    "src": "images/cctv-headquarters/3.webp",
+    "thumb": "images/cctv-headquarters/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matt Ming  from Beijing, China",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCTV_Tower_Beijing_(11853516135).jpg",
+    "file": "File:CCTV Tower Beijing (11853516135).jpg"
+   },
+   {
+    "src": "images/cctv-headquarters/4.webp",
+    "thumb": "images/cctv-headquarters/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Wanchunting_Pavilion_in_Jingshan_Park_(east).jpg",
+    "file": "File:View from Wanchunting Pavilion in Jingshan Park (east).jpg"
+   }
+  ],
+  "commons": "Category:CCTV Headquarters (2010)"
  },
  {
   "id": "elbphilharmonie",
@@ -1679,7 +7852,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "A glass crown on a brick warehouse, with a public plaza between old and new.",
-  "images": []
+  "images": [
+   {
+    "src": "images/elbphilharmonie/0.webp",
+    "thumb": "images/elbphilharmonie/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Reflections of the Elbphilharmonie in the Kehrwiederfleet in Hamburg",
+    "credit": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_01.jpg",
+    "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 01.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/1.webp",
+    "thumb": "images/elbphilharmonie/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Reflections of the Elbphilharmonie in the Kehrwiederfleet",
+    "credit": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflections_of_the_Elbphilharmonie_in_the_Kehrwiederfleet_02.jpg",
+    "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 02.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/2.webp",
+    "thumb": "images/elbphilharmonie/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Hamburg, Hafencity, half-gantry cranes at Elbphilharmonie",
+    "credit": "KaiBorgeest",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburg_Elphi_Half-Gantry-Cranes.jpg",
+    "file": "File:Hamburg Elphi Half-Gantry-Cranes.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/3.webp",
+    "thumb": "images/elbphilharmonie/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Tender Werra (A 514) at Reiherstieg, Hamburg",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_514,_Hamburg_(1X7A7978).jpg",
+    "file": "File:A 514, Hamburg (1X7A7978).jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/4.webp",
+    "thumb": "images/elbphilharmonie/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Hamburg - Elbe Philharmonic Hall",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburg_Filharmonia_Labska_10.jpg",
+    "file": "File:Hamburg Filharmonia Labska 10.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/5.webp",
+    "thumb": "images/elbphilharmonie/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Hamburg - Elbe Philharmonic Hall",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburg_Filharmonia_Labska_11.jpg",
+    "file": "File:Hamburg Filharmonia Labska 11.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/6.webp",
+    "thumb": "images/elbphilharmonie/thumbs/6.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburg,_HafenCity,_Elbphilharmonie_--_2016_--_3043-9_--_bw.jpg",
+    "file": "File:Hamburg, HafenCity, Elbphilharmonie -- 2016 -- 3043-9 -- bw.jpg"
+   },
+   {
+    "src": "images/elbphilharmonie/7.webp",
+    "thumb": "images/elbphilharmonie/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Conro freighter Atlantic Sun towed by ZP Bison in the port of Hamburg, seen from Elbphilharmonie Plaza",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantic_Sun,_Hamburg_(1X7A7969).jpg",
+    "file": "File:Atlantic Sun, Hamburg (1X7A7969).jpg"
+   }
+  ],
+  "commons": "Category:Elbphilharmonie"
  },
  {
   "id": "louvre-abu-dhabi",
@@ -1699,7 +7970,105 @@ window.BUILDINGS = [
    "Water"
   ],
   "study": "A 180-metre dome of layered stars casts a 'rain of light' over a museum town.",
-  "images": []
+  "images": [
+   {
+    "src": "images/louvre-abu-dhabi/0.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/0.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · traffic sign in Abu Dhabi",
+    "credit": "Ralf Roletschek",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13-08-06-abu-dhabi-by-RalfR-102.jpg",
+    "file": "File:13-08-06-abu-dhabi-by-RalfR-102.jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/1.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/1.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Exterior",
+    "caption": "Exterior · Two women in traditional Emirati attire weave palm fronds, honoring a cherished cultural tradition",
+    "credit": "Liwa Sports Club",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A1_Two_Emirati_women.jpg",
+    "file": "File:A1 Two Emirati women.jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/2.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · UAE native plant",
+    "credit": "Asima Bibi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calotropis_procera_%22Apple_of_Sodom%22.jpg",
+    "file": "File:Calotropis procera \"Apple of Sodom\".jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/3.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · thander storm",
+    "credit": "greeeen2008",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thander_storm_-_panoramio.jpg",
+    "file": "File:Thander storm - panoramio.jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/4.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/4.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Riaksharma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Liwa_Oasis_fort.jpg",
+    "file": "File:Inside the Liwa Oasis fort.jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/5.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Visitors to park can attend the educational workshops on UAE's agricultural history and native plants",
+    "credit": "Hamzabilal.3093",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Educational_Workshop_Room.jpg",
+    "file": "File:Educational Workshop Room.jpg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/6.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · 500px provided description: Dubai Desert Tour",
+    "credit": "Kimin Kang",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Time_In_The_Desert_(217029973).jpeg",
+    "file": "File:Time In The Desert (217029973).jpeg"
+   },
+   {
+    "src": "images/louvre-abu-dhabi/7.webp",
+    "thumb": "images/louvre-abu-dhabi/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Dallah plays a very important role in the identity of gulf region",
+    "credit": "Hamzabilal.3093",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallah_in_north_garden.jpg",
+    "file": "File:Dallah in north garden.jpg"
+   }
+  ],
+  "commons": "Category:Emirate of Abu Dhabi"
  },
  {
   "id": "maxxi",
@@ -1719,7 +8088,105 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "Braided concrete galleries and black stairs under a roof of light fins.",
-  "images": []
+  "images": [
+   {
+    "src": "images/maxxi/0.webp",
+    "thumb": "images/maxxi/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Opening night of the MAXXI museum for contemporary arts in Rome, Italy",
+    "credit": "Commonurbock23",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MAXXI_Museum_opening_night_01.JPG",
+    "file": "File:MAXXI Museum opening night 01.JPG"
+   },
+   {
+    "src": "images/maxxi/1.webp",
+    "thumb": "images/maxxi/thumbs/1.webp",
+    "w": 1400,
+    "h": 915,
+    "kind": "Exterior",
+    "caption": "Exterior · il cinema è il modo più diretto per entrare in competizione con Dio",
+    "credit": "Bruno  from Roma, Italia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(i)il_cinema_%C3%A8_il_modo_pi%C3%B9_diretto_per_entrare_in_competizione_con_Dio.(-i)_(b)Federico_Fellini(-b)_-_Flickr_-_Pek.jpg",
+    "file": "File:(i)il cinema è il modo più diretto per entrare in competizione con Dio.(-i) (b)Federico Fellini(-b) - Flickr - Pek.jpg"
+   },
+   {
+    "src": "images/maxxi/2.webp",
+    "thumb": "images/maxxi/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · MAXXI - Museo nazionale delle arti del XXI secolo",
+    "credit": "Vcorsi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_-_MAXXI_-_Museo_nazionale_delle_arti_del_XXI_secolo_-_2024-09-18_11-21-07_001.jpg",
+    "file": "File:Roma - MAXXI - Museo nazionale delle arti del XXI secolo - 2024-09-18 11-21-07 001.jpg"
+   },
+   {
+    "src": "images/maxxi/3.webp",
+    "thumb": "images/maxxi/thumbs/3.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Exhibition at Maxxi, Rome",
+    "credit": "urbzoo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exhibition_at_Maxxi,_Rome_(27740385060).jpg",
+    "file": "File:Exhibition at Maxxi, Rome (27740385060).jpg"
+   },
+   {
+    "src": "images/maxxi/4.webp",
+    "thumb": "images/maxxi/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the MAXXI museum for contemporary arts in Rome, Italy",
+    "credit": "Commonurbock23",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MAXXI_Museum_interior_04.JPG",
+    "file": "File:MAXXI Museum interior 04.JPG"
+   },
+   {
+    "src": "images/maxxi/5.webp",
+    "thumb": "images/maxxi/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the MAXXI museum for contemporary arts in Rome, Italy",
+    "credit": "Commonurbock23",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MAXXI_Museum_interior_05.JPG",
+    "file": "File:MAXXI Museum interior 05.JPG"
+   },
+   {
+    "src": "images/maxxi/6.webp",
+    "thumb": "images/maxxi/thumbs/6.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Interior",
+    "caption": "Interior · MAXXI - Museo nazionale delle arti del XXI secolo",
+    "credit": "MAXXI Museo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interno_D.JPG",
+    "file": "File:Interno D.JPG"
+   },
+   {
+    "src": "images/maxxi/7.webp",
+    "thumb": "images/maxxi/thumbs/7.webp",
+    "w": 1400,
+    "h": 1135,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Magdalena Roeseler",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:500px_photo_(157871817).jpeg",
+    "file": "File:500px photo (157871817).jpeg"
+   }
+  ],
+  "commons": "Category:MAXXI"
  },
  {
   "id": "metropol-parasol",
@@ -1739,7 +8206,105 @@ window.BUILDINGS = [
    "Public space"
   ],
   "study": "Giant timber parasols over a market and Roman ruins, with a walkway on top.",
-  "images": []
+  "images": [
+   {
+    "src": "images/metropol-parasol/0.webp",
+    "thumb": "images/metropol-parasol/thumbs/0.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Seville (Andalusia, Spain) - View of Iglesia de la Anunciación from under Metropol Parasol",
+    "credit": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sevilla_-_Metropol_Parasol_%26_Iglesia_de_la_Anunciaci%C3%B3n.jpg",
+    "file": "File:Sevilla - Metropol Parasol & Iglesia de la Anunciación.jpg"
+   },
+   {
+    "src": "images/metropol-parasol/1.webp",
+    "thumb": "images/metropol-parasol/thumbs/1.webp",
+    "w": 808,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Metropol Parasol in Sevilla",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Das_gr%C3%B6%C3%9Fte_Holzbauwerk_der_Welt%22._03.jpg",
+    "file": "File:\"Das größte Holzbauwerk der Welt\". 03.jpg"
+   },
+   {
+    "src": "images/metropol-parasol/2.webp",
+    "thumb": "images/metropol-parasol/thumbs/2.webp",
+    "w": 759,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Metropol Parasol in Sevilla",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Das_gr%C3%B6%C3%9Fte_Holzbauwerk_der_Welt%22._04.jpg",
+    "file": "File:\"Das größte Holzbauwerk der Welt\". 04.jpg"
+   },
+   {
+    "src": "images/metropol-parasol/3.webp",
+    "thumb": "images/metropol-parasol/thumbs/3.webp",
+    "w": 1400,
+    "h": 937,
+    "kind": "Interior",
+    "caption": "Interior · New architecture inside old Seville",
+    "credit": "Wilomanso",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_in_Metropol_Parasol_-_Seville.JPG",
+    "file": "File:Sunset in Metropol Parasol - Seville.JPG"
+   },
+   {
+    "src": "images/metropol-parasol/4.webp",
+    "thumb": "images/metropol-parasol/thumbs/4.webp",
+    "w": 1400,
+    "h": 937,
+    "kind": "Interior",
+    "caption": "Interior · New architecture inside old Seville",
+    "credit": "Wilomanso",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Metropol_Parasol_at_night_-_Seville.JPG",
+    "file": "File:Metropol Parasol at night - Seville.JPG"
+   },
+   {
+    "src": "images/metropol-parasol/5.webp",
+    "thumb": "images/metropol-parasol/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Bauwerk in Sevilla des Architekten Jürgen Mayer H",
+    "credit": "Michimaya",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_St%C3%BCtze_Parasol_Metropol.JPG",
+    "file": "File:Detail Stütze Parasol Metropol.JPG"
+   },
+   {
+    "src": "images/metropol-parasol/6.webp",
+    "thumb": "images/metropol-parasol/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Metropol Parasol, Seville, Spain",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metropol_Parasol_Plaza_de_la_Encarnaci%C3%B3n_1.jpg",
+    "file": "File:Metropol Parasol Plaza de la Encarnación 1.jpg"
+   },
+   {
+    "src": "images/metropol-parasol/7.webp",
+    "thumb": "images/metropol-parasol/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "ZAINEB HACHAMI",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metropol_Parasol_-_Sevilla_12.jpg",
+    "file": "File:Metropol Parasol - Sevilla 12.jpg"
+   }
+  ],
+  "commons": "Category:Metropol Parasol"
  },
  {
   "id": "heydar-aliyev-center",
@@ -1759,7 +8324,105 @@ window.BUILDINGS = [
    "Facade as skin"
   ],
   "study": "One continuous surface folds from plaza to roof, with no line between wall and ground.",
-  "images": []
+  "images": [
+   {
+    "src": "images/heydar-aliyev-center/0.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/0.webp",
+    "w": 1400,
+    "h": 931,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Khalilov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E2%80%9CAr%C5%9F%C4%B1n_mal_alan%E2%80%9D_filminin_r%C9%99ngli_formatda_premyeras%C4%B1.jpg",
+    "file": "File:“Arşın mal alan” filminin rəngli formatda premyerası.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/1.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Heydar Aliev Center - I love Baku",
+    "credit": "Gasan Dzhalal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%93%D0%B5%D0%B9%D0%B4%D0%B0%D1%80%D0%B0_%D0%90%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0_-_%D0%AF_%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E_%D0%91%D0%B0%D0%BA%D1%83.jpg",
+    "file": "File:Центр Гейдара Алиева - Я люблю Баку.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/2.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/2.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior · BIBLE BOOK- EXHIBITION IN HEIDAR ALIYEV CENTER BAKU",
+    "credit": "Avisadehh",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:BIBLE_BOOK.HEIDAR_ALIYEV_CENTER_BAKU.%D7%A1%D7%A4%D7%A8_%D7%AA%D7%A0%D7%9A_%D7%91%D7%AA%D7%A6%D7%95%D7%92%D7%AA_%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91.jpg",
+    "file": "File:BIBLE BOOK.HEIDAR ALIYEV CENTER BAKU.ספר תנך בתצוגת מרכז היידר אלייב.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/3.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/3.webp",
+    "w": 1400,
+    "h": 976,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Heydar Aliyev Cultural Center",
+    "credit": "Mahmoodrezamo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliev_Center_Interior1.jpg",
+    "file": "File:Heydar Aliev Center Interior1.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/4.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Heydar Aliyev Cultural Center",
+    "credit": "Mahmoodrezamo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliev_Interior_2.jpg",
+    "file": "File:Heydar Aliev Interior 2.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/5.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/5.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Detail",
+    "caption": "Detail · HEIDAR ALIYEV CENTER AND OUTDOOR GREEN GRASS",
+    "credit": "Avisadehh",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:HEIDAR_ALIYEV_CENTER_AND_GARDENS.%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91_%D7%95%D7%94%D7%93%D7%A9%D7%90.jpg",
+    "file": "File:HEIDAR ALIYEV CENTER AND GARDENS.מרכז היידר אלייב והדשא.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/6.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/6.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Detail",
+    "caption": "Detail · HEYDAR ALIYEV CENTER MODERN INDOORS",
+    "credit": "Avisadehh",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:HEYDAR_ALIYEV_CENTER_INDOORS.%D7%97%D7%9C%D7%9C_%D7%A4%D7%A0%D7%99%D7%9E%D7%99_%D7%9E%D7%95%D7%93%D7%A8%D7%A0%D7%99_%D7%91%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91.jpg",
+    "file": "File:HEYDAR ALIYEV CENTER INDOORS.חלל פנימי מודרני במרכז היידר אלייב.jpg"
+   },
+   {
+    "src": "images/heydar-aliyev-center/7.webp",
+    "thumb": "images/heydar-aliyev-center/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · The Heydar Aliyev Center illuminated at night",
+    "credit": "lumoplank",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Heydar_Aliyev_Center,_Baku_-_HyderAliyevCenter8319.jpg",
+    "file": "File:Heydar Aliyev Center, Baku - HyderAliyevCenter8319.jpg"
+   }
+  ],
+  "commons": "Category:Heydar Aliyev Cultural Center"
  },
  {
   "id": "icd-itke-research-pavilion-2012",
@@ -1779,7 +8442,57 @@ window.BUILDINGS = [
    "Structure as expression"
   ],
   "study": "Robot-wound glass and carbon fibre, modelled on a lobster's shell.",
-  "images": []
+  "images": [
+   {
+    "src": "images/icd-itke-research-pavilion-2012/0.webp",
+    "thumb": "images/icd-itke-research-pavilion-2012/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Joachim Köhler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mannheim-BUGA-Spinelli-Park-Bionischer-Holzpavillon-IMG_5838-x3B-02-06-2023.jpg",
+    "file": "File:Mannheim-BUGA-Spinelli-Park-Bionischer-Holzpavillon-IMG 5838-x3B-02-06-2023.jpg"
+   },
+   {
+    "src": "images/icd-itke-research-pavilion-2012/1.webp",
+    "thumb": "images/icd-itke-research-pavilion-2012/thumbs/1.webp",
+    "w": 1400,
+    "h": 930,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Joachim Köhler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mannheim-BUGA-Spinelli-Park-Bionischer-Holzpavillon-IMG_5823-x3B-02-06-2023.jpg",
+    "file": "File:Mannheim-BUGA-Spinelli-Park-Bionischer-Holzpavillon-IMG 5823-x3B-02-06-2023.jpg"
+   },
+   {
+    "src": "images/icd-itke-research-pavilion-2012/2.webp",
+    "thumb": "images/icd-itke-research-pavilion-2012/thumbs/2.webp",
+    "w": 1400,
+    "h": 779,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ICD_ITKE_Research_Pavilion_3.jpg",
+    "file": "File:ICD ITKE Research Pavilion 3.jpg"
+   },
+   {
+    "src": "images/icd-itke-research-pavilion-2012/3.webp",
+    "thumb": "images/icd-itke-research-pavilion-2012/thumbs/3.webp",
+    "w": 1400,
+    "h": 835,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ICD_ITKE_Research_Pavilion_4.jpg",
+    "file": "File:ICD ITKE Research Pavilion 4.jpg"
+   }
+  ],
+  "commons": "Category:Achim Menges"
  },
  {
   "id": "high-line",
@@ -1799,7 +8512,105 @@ window.BUILDINGS = [
    "Promenade"
   ],
   "study": "An abandoned elevated railway turned into a park in the air.",
-  "images": []
+  "images": [
+   {
+    "src": "images/high-line/0.webp",
+    "thumb": "images/high-line/thumbs/0.webp",
+    "w": 1400,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the 11th Avenue from High Line, New York City",
+    "credit": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:11th_Avenue_from_High_Line,_New_York_City,_20231001_1716_1455.jpg",
+    "file": "File:11th Avenue from High Line, New York City, 20231001 1716 1455.jpg"
+   },
+   {
+    "src": "images/high-line/1.webp",
+    "thumb": "images/high-line/thumbs/1.webp",
+    "w": 849,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Hudson Yards, New York City, USA",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York,_USA_2017_197.jpg",
+    "file": "File:At New York, USA 2017 197.jpg"
+   },
+   {
+    "src": "images/high-line/2.webp",
+    "thumb": "images/high-line/thumbs/2.webp",
+    "w": 1055,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Processed with VSCO with b5pro preset",
+    "credit": "MonikaMurren  from Beacon, NY, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NYC_-_Flickr_-_MonikaMurren.jpg",
+    "file": "File:NYC - Flickr - MonikaMurren.jpg"
+   },
+   {
+    "src": "images/high-line/3.webp",
+    "thumb": "images/high-line/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Tdorante10",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:23rd_St_10th_Av_td_(2018-11-23)_16_-_FDNY_EMS_Station_7.jpg",
+    "file": "File:23rd St 10th Av td (2018-11-23) 16 - FDNY EMS Station 7.jpg"
+   },
+   {
+    "src": "images/high-line/4.webp",
+    "thumb": "images/high-line/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York,_USA_2017_213.jpg",
+    "file": "File:At New York, USA 2017 213.jpg"
+   },
+   {
+    "src": "images/high-line/5.webp",
+    "thumb": "images/high-line/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Looking north on the High Line at Diane Furstenberg building at night",
+    "credit": "Jim.henderson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Furstenberg_windows_hi_line_nite_jeh.jpg",
+    "file": "File:Furstenberg windows hi line nite jeh.jpg"
+   },
+   {
+    "src": "images/high-line/6.webp",
+    "thumb": "images/high-line/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · View of 28th Street from the High Line, New York City",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2023_028.jpg",
+    "file": "File:At New York City 2023 028.jpg"
+   },
+   {
+    "src": "images/high-line/7.webp",
+    "thumb": "images/high-line/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Tdorante10",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:15th_St_10th_Av_td_(2018-08-16)_04_-_High_Line.jpg",
+    "file": "File:15th St 10th Av td (2018-08-16) 04 - High Line.jpg"
+   }
+  ],
+  "commons": "Category:High Line (New York City)"
  },
  {
   "id": "stacking-green",
@@ -1819,7 +8630,105 @@ window.BUILDINGS = [
    "Facade as skin"
   ],
   "study": "A narrow tube house fronted by stacked planters that shade and cool it.",
-  "images": []
+  "images": [
+   {
+    "src": "images/stacking-green/0.webp",
+    "thumb": "images/stacking-green/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Hue, Vietnam: Old floor tile in an unrenovated part of the Imperial palace in Hue",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-17.jpg",
+    "file": "File:Hue Vietnam Citadel-of-Huế-17.jpg"
+   },
+   {
+    "src": "images/stacking-green/1.webp",
+    "thumb": "images/stacking-green/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_C%E1%BB%95ng-Trai-cung-01.jpg",
+    "file": "File:Hue Vietnam Cổng-Trai-cung-01.jpg"
+   },
+   {
+    "src": "images/stacking-green/2.webp",
+    "thumb": "images/stacking-green/thumbs/2.webp",
+    "w": 1400,
+    "h": 925,
+    "kind": "Exterior",
+    "caption": "Exterior · Hue, Vietnam: Gate within the Imperial palace complex in Hue",
+    "credit": "This Photo was taken by    Supanut Arunoprayote   .\n \n Feel free to use any of my images, but please",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gate_in_Imperial_City,_Hu%E1%BA%BF_(III).jpg",
+    "file": "File:Gate in Imperial City, Huế (III).jpg"
+   },
+   {
+    "src": "images/stacking-green/3.webp",
+    "thumb": "images/stacking-green/thumbs/3.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Hue, Vietnam: Lion sculpture on a stair of the Imperial palace in Hue",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hue_Vietnam_Citadel-of-Hu%E1%BA%BF-09.jpg",
+    "file": "File:Hue Vietnam Citadel-of-Huế-09.jpg"
+   },
+   {
+    "src": "images/stacking-green/4.webp",
+    "thumb": "images/stacking-green/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mig Gilbert  from Brighton",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Hu%E1%BA%BF_Citadel_(40434364852).jpg",
+    "file": "File:Inside Huế Citadel (40434364852).jpg"
+   },
+   {
+    "src": "images/stacking-green/5.webp",
+    "thumb": "images/stacking-green/thumbs/5.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "HCCB3947",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pillar_Detail_of_Tr%C6%B0%E1%BB%9Dng_An_M%C3%B4n,_Hu%E1%BA%BF.jpg",
+    "file": "File:Pillar Detail of Trường An Môn, Huế.jpg"
+   },
+   {
+    "src": "images/stacking-green/6.webp",
+    "thumb": "images/stacking-green/thumbs/6.webp",
+    "w": 1400,
+    "h": 1026,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Unknown author Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hu%C3%A9,_1932_%E2%80%93_La_Ville_Imp%C3%A9riale_%E2%80%93_Vue_a%C3%A9rienne.jpg",
+    "file": "File:Hué, 1932 – La Ville Impériale – Vue aérienne.jpg"
+   },
+   {
+    "src": "images/stacking-green/7.webp",
+    "thumb": "images/stacking-green/thumbs/7.webp",
+    "w": 1400,
+    "h": 1026,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Unknown photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AP1923-Despierres_Hu%C3%A9,_1932_%E2%80%93_La_Ville_Imp%C3%A9riale_%E2%80%93_Vue_a%C3%A9rienne.jpg",
+    "file": "File:AP1923-Despierres Hué, 1932 – La Ville Impériale – Vue aérienne.jpg"
+   }
+  ],
+  "commons": "Category:Imperial City, Huế"
  },
  {
   "id": "superkilen",
@@ -1839,7 +8748,105 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "A park furnished with objects chosen by neighbours from some 60 countries.",
-  "images": []
+  "images": [
+   {
+    "src": "images/superkilen/0.webp",
+    "thumb": "images/superkilen/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Copenhagen, Denmark Fotosöndag - Min favoritplats/My favourite place",
+    "credit": "Maria  Eklind",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copenhagen_is_my_favourite_place._This_is_N%C3%B8rrebro_and_Superkilen_(explore)_-_Flickr_-_Maria_Eklind.jpg",
+    "file": "File:Copenhagen is my favourite place. This is Nørrebro and Superkilen (explore) - Flickr - Maria Eklind.jpg"
+   },
+   {
+    "src": "images/superkilen/1.webp",
+    "thumb": "images/superkilen/thumbs/1.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Superkilen in the Nørrebro district of Copenhagen, Denmark",
+    "credit": "Ramblersen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_-_Russian_pavilion.JPG",
+    "file": "File:Superkilen - Russian pavilion.JPG"
+   },
+   {
+    "src": "images/superkilen/2.webp",
+    "thumb": "images/superkilen/thumbs/2.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Superkilen Park, Copenhagen",
+    "credit": "mike  from New York, NY, US",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_Park,_Copenhagen_(39688100743).jpg",
+    "file": "File:Superkilen Park, Copenhagen (39688100743).jpg"
+   },
+   {
+    "src": "images/superkilen/3.webp",
+    "thumb": "images/superkilen/thumbs/3.webp",
+    "w": 1400,
+    "h": 944,
+    "kind": "Exterior",
+    "caption": "Exterior · Lonely basketball",
+    "credit": "Jens Cederskjold",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lonely_basketball_-_panoramio.jpg",
+    "file": "File:Lonely basketball - panoramio.jpg"
+   },
+   {
+    "src": "images/superkilen/4.webp",
+    "thumb": "images/superkilen/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Bus shelter of Kazakhstan at Mimersgade in the recreative area Superkilen in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_-_Busstoppested_fra_Kazakhstan_02.jpg",
+    "file": "File:Superkilen - Busstoppested fra Kazakhstan 02.jpg"
+   },
+   {
+    "src": "images/superkilen/5.webp",
+    "thumb": "images/superkilen/thumbs/5.webp",
+    "w": 1400,
+    "h": 1037,
+    "kind": "Context",
+    "caption": "Context · Bus shelter of Kazakhstan at Mimersgade in the recreative area Superkilen in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_-_Busstoppested_fra_Kazakhstan_01.jpg",
+    "file": "File:Superkilen - Busstoppested fra Kazakhstan 01.jpg"
+   },
+   {
+    "src": "images/superkilen/6.webp",
+    "thumb": "images/superkilen/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Drawing",
+    "caption": "Drawing · (Nørrebro) Nørrebroruten Superkilen public park - the green section",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B8benhavn_-_Superkilen_(22820623908).jpg",
+    "file": "File:København - Superkilen (22820623908).jpg"
+   },
+   {
+    "src": "images/superkilen/7.webp",
+    "thumb": "images/superkilen/thumbs/7.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Drawing",
+    "caption": "Drawing · (Nørrebro) Nørrebroruten Superkilen public park - the green section",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B8benhavn_-_Superkilen_(30697532790).jpg",
+    "file": "File:København - Superkilen (30697532790).jpg"
+   }
+  ],
+  "commons": "Category:Superkilen"
  },
  {
   "id": "sancaklar-mosque",
@@ -1859,7 +8866,45 @@ window.BUILDINGS = [
    "Stone"
   ],
   "study": "A mosque dug into a hillside, its prayer hall lit by slits in the stepped roof.",
-  "images": []
+  "images": [
+   {
+    "src": "images/sancaklar-mosque/0.webp",
+    "thumb": "images/sancaklar-mosque/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sancaklar Mosgue Essence by Emre Arolat in Turkish",
+    "credit": "Bjelica",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sancaklar_Yeralt%C4%B1_Camii_%C3%96z,_Emre_Arolat.jpg",
+    "file": "File:Sancaklar Yeraltı Camii Öz, Emre Arolat.jpg"
+   },
+   {
+    "src": "images/sancaklar-mosque/1.webp",
+    "thumb": "images/sancaklar-mosque/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sancaklar Mosque and its minaret",
+    "credit": "Bjelica",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sancaklar_Mosque_and_its_minaret.jpg",
+    "file": "File:Sancaklar Mosque and its minaret.jpg"
+   },
+   {
+    "src": "images/sancaklar-mosque/2.webp",
+    "thumb": "images/sancaklar-mosque/thumbs/2.webp",
+    "w": 1400,
+    "h": 779,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Miraydwerri",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:04_EAA_Sancaklar-Mosque_ph-Cemal-Emden_full.jpg",
+    "file": "File:04 EAA Sancaklar-Mosque ph-Cemal-Emden full.jpg"
+   }
+  ],
+  "commons": "Category:Sancaklar Camii"
  },
  {
   "id": "bosco-verticale",
@@ -1879,7 +8924,33 @@ window.BUILDINGS = [
    "Cantilever"
   ],
   "study": "Two towers carrying about 900 trees on staggered balconies.",
-  "images": []
+  "images": [
+   {
+    "src": "images/bosco-verticale/0.webp",
+    "thumb": "images/bosco-verticale/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jeronimo Alcala",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Il_Bosco_Verticale_Milano_Px_(137734459).jpeg",
+    "file": "File:Il Bosco Verticale Milano Px (137734459).jpeg"
+   },
+   {
+    "src": "images/bosco-verticale/1.webp",
+    "thumb": "images/bosco-verticale/thumbs/1.webp",
+    "w": 1400,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior · La Torre Unicredit e il Bosco Verticale visti dal passaggio pedonale che collega la piazza Gae Aulenti",
+    "credit": "Kokky92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ComplessoPortaNuova.JPG",
+    "file": "File:ComplessoPortaNuova.JPG"
+   }
+  ],
+  "commons": "Category:Bosco Verticale"
  },
  {
   "id": "zeitz-mocaa",
@@ -1899,7 +8970,105 @@ window.BUILDINGS = [
    "Sculptural form"
   ],
   "study": "A grain silo carved into an atrium shaped like a single grain of corn.",
-  "images": []
+  "images": [
+   {
+    "src": "images/zeitz-mocaa/0.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/0.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Zeitz Museum of Contemporary Art Africa, Cape Town",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeitz_Museum_of_Contemporary_Art_Africa,_Cape_Town_(_1050775).jpg",
+    "file": "File:Zeitz Museum of Contemporary Art Africa, Cape Town ( 1050775).jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/1.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Zeitz_Museum_of_Contemporary_Art_Africa_--_2024_--_2980.jpg",
+    "file": "File:Cape Town (ZA), Waterfront, Zeitz Museum of Contemporary Art Africa -- 2024 -- 2980.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/2.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/2.webp",
+    "w": 1101,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Grain Silo, V&A Waterfront, Cape Town",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Cape_Town_(MP)_2018_115.jpg",
+    "file": "File:At Cape Town (MP) 2018 115.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/3.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Cape Town",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Cape_Town_(MP)_2018_104.jpg",
+    "file": "File:At Cape Town (MP) 2018 104.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/4.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Looking up at the corridors leading from the shafts of the Zeitz MOCAA - Museum of Contermporary Art Africa",
+    "credit": "Michael Rowe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridors_leading_from_shaft_inside_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
+    "file": "File:Corridors leading from shaft inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/5.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Looking up towards the skylights from the foyer of the Zeitz MOCAA - Museum of Contermporary Art Africa",
+    "credit": "Michael Rowe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skylights_inside_the_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
+    "file": "File:Skylights inside the Zeitz MOCAA - Museum of Contermporary Art Africa.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/6.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "lumoplank",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cape_Town_architecture,_Part_II_-_20240912_135259.jpg",
+    "file": "File:Cape Town architecture, Part II - 20240912 135259.jpg"
+   },
+   {
+    "src": "images/zeitz-mocaa/7.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · View of Table Mountain from the ceiling of the Zeitz MOCAA - Museum of Contemporary Art Africa",
+    "credit": "Michael Rowe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Table_Mountain_from_the_ceiling_of_Zeitz_MOCAA.jpg",
+    "file": "File:Table Mountain from the ceiling of Zeitz MOCAA.jpg"
+   }
+  ],
+  "commons": "Category:Zeitz Museum of Contemporary Art Africa"
  },
  {
   "id": "pantheon",
@@ -1919,7 +9088,105 @@ window.BUILDINGS = [
    "Vault"
   ],
   "study": "A concrete dome as wide as it is high, lit only by the oculus.",
-  "images": []
+  "images": [
+   {
+    "src": "images/pantheon/0.webp",
+    "thumb": "images/pantheon/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Portico of the Pantheon in Rome",
+    "credit": "Nhartmannphotos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon_portico_and_dome,_Rome.jpg",
+    "file": "File:Pantheon portico and dome, Rome.jpg"
+   },
+   {
+    "src": "images/pantheon/1.webp",
+    "thumb": "images/pantheon/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Thomas_Fuhrmann_Jakobsthal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_-_Pantheon_-_in_2024_v01.jpg",
+    "file": "File:Roma - Pantheon - in 2024 v01.jpg"
+   },
+   {
+    "src": "images/pantheon/2.webp",
+    "thumb": "images/pantheon/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Thomas_Fuhrmann_Jakobsthal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_-_Pantheon_-_in_2024_v02.jpg",
+    "file": "File:Roma - Pantheon - in 2024 v02.jpg"
+   },
+   {
+    "src": "images/pantheon/3.webp",
+    "thumb": "images/pantheon/thumbs/3.webp",
+    "w": 1400,
+    "h": 957,
+    "kind": "Interior",
+    "caption": "Interior · Above the main altar, choir vault of the Pantheon in Rome, Italy",
+    "credit": "Jebulon",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Above_main_altar,_Pantheon,_Rome,_Italy.jpg",
+    "file": "File:Above main altar, Pantheon, Rome, Italy.jpg"
+   },
+   {
+    "src": "images/pantheon/4.webp",
+    "thumb": "images/pantheon/thumbs/4.webp",
+    "w": 1400,
+    "h": 928,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Paolo Villa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:10_2023_-_Pantheon;Santa_Maria_dei_Martiri,_Piazza_della_Rotonda,_Colonna,_Municipio_Roma_I,_Roma,_Lazio,_00186,_Italia_-_Arte_Romana_(Cupola,_Corinzio,_Cassettoni,_Lacunari_Colonne_trabeazioni)_Photo_Paolo_Villa_FO232081_privacy_ombre.jpg",
+    "file": "File:10 2023 - Pantheon;Santa Maria dei Martiri, Piazza della Rotonda, Colonna, Municipio Roma I, Roma, Lazio, 00186, Italia - Arte Romana (Cupola, Corinzio, Cassettoni, Lacunari Colonne trabeazioni) Photo Paolo Villa FO232081 privacy ombre.jpg"
+   },
+   {
+    "src": "images/pantheon/5.webp",
+    "thumb": "images/pantheon/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Corinthian column at the Pantheon , Rome, Italy",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corinthian_column_in_Rome_Pantheon.jpg",
+    "file": "File:Corinthian column in Rome Pantheon.jpg"
+   },
+   {
+    "src": "images/pantheon/6.webp",
+    "thumb": "images/pantheon/thumbs/6.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Context",
+    "caption": "Context · Patheon vista notturna",
+    "credit": "Jfabrix101",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190406-DSC5193_Panteon.jpg",
+    "file": "File:20190406-DSC5193 Panteon.jpg"
+   },
+   {
+    "src": "images/pantheon/7.webp",
+    "thumb": "images/pantheon/thumbs/7.webp",
+    "w": 1089,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Collection Ornament & Architecture; drawing; Drawings",
+    "credit": "Anonymous  Unknown author",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon,_portico,_plan_(recto)_Pantheon,_portico,_details_and_perspective_(verso)_MET_MM43609.jpg",
+    "file": "File:Pantheon, portico, plan (recto) Pantheon, portico, details and perspective (verso) MET MM43609.jpg"
+   }
+  ],
+  "commons": "Category:Pantheon (Rome)"
  },
  {
   "id": "katsura-imperial-villa",
@@ -1939,7 +9206,93 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "Tatami-module rooms and sliding screens that inspired Taut, Gropius and Tange.",
-  "images": []
+  "images": [
+   {
+    "src": "images/katsura-imperial-villa/0.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/0.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Katsura Rikyu",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katsura_Rikyu_(3263780873).jpg",
+    "file": "File:Katsura Rikyu (3263780873).jpg"
+   },
+   {
+    "src": "images/katsura-imperial-villa/1.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Katsura Rikyu",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katsura_Rikyu_(3263785269).jpg",
+    "file": "File:Katsura Rikyu (3263785269).jpg"
+   },
+   {
+    "src": "images/katsura-imperial-villa/2.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/2.webp",
+    "w": 1255,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "佐藤辰三",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Manji_tei.png",
+    "file": "File:Manji tei.png"
+   },
+   {
+    "src": "images/katsura-imperial-villa/3.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/3.webp",
+    "w": 1400,
+    "h": 739,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "佐藤辰三",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Katsura_River_and_the_forest_in_Katsura-Riky%C5%AB_-_around_1952.png",
+    "file": "File:Katsura River and the forest in Katsura-Rikyū - around 1952.png"
+   },
+   {
+    "src": "images/katsura-imperial-villa/4.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/4.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Detail",
+    "caption": "Detail · Replica of the Katsura Imperial Villa in the Window of the World",
+    "credit": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20231005_Replica_of_the_Katsura_Imperial_Villa_in_the_Window_of_the_World.jpg",
+    "file": "File:20231005 Replica of the Katsura Imperial Villa in the Window of the World.jpg"
+   },
+   {
+    "src": "images/katsura-imperial-villa/5.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/5.webp",
+    "w": 1400,
+    "h": 992,
+    "kind": "Drawing",
+    "caption": "Drawing · Katsura, villa impériale, Japon, Plan du site (image commons modifiée)",
+    "credit": "Jchancerel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KatsuraSite.png",
+    "file": "File:KatsuraSite.png"
+   },
+   {
+    "src": "images/katsura-imperial-villa/6.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/6.webp",
+    "w": 1149,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Layout of Katsura Villa",
+    "credit": "Fraxinus2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katsura-Plan.jpg",
+    "file": "File:Katsura-Plan.jpg"
+   }
+  ],
+  "commons": "Category:Katsura Imperial Villa"
  },
  {
   "id": "alhambra",
@@ -1959,7 +9312,93 @@ window.BUILDINGS = [
    "Detail"
   ],
   "study": "A sequence of courtyards, water and pattern, each room opening to the sky.",
-  "images": []
+  "images": [
+   {
+    "src": "images/alhambra/0.webp",
+    "thumb": "images/alhambra/thumbs/0.webp",
+    "w": 1400,
+    "h": 1054,
+    "kind": "Exterior",
+    "caption": "Exterior · Tour of the Alhambra",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._02.jpg",
+    "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 02.jpg"
+   },
+   {
+    "src": "images/alhambra/1.webp",
+    "thumb": "images/alhambra/thumbs/1.webp",
+    "w": 784,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Tour of the Alhambra",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._04.jpg",
+    "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 04.jpg"
+   },
+   {
+    "src": "images/alhambra/2.webp",
+    "thumb": "images/alhambra/thumbs/2.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
+    "credit": "Wikiolo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
+    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
+   },
+   {
+    "src": "images/alhambra/3.webp",
+    "thumb": "images/alhambra/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Work in progress at the Alhambra",
+    "credit": "Thoughtfortheday",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alhambra.Scaffolding.jpg",
+    "file": "File:Alhambra.Scaffolding.jpg"
+   },
+   {
+    "src": "images/alhambra/4.webp",
+    "thumb": "images/alhambra/thumbs/4.webp",
+    "w": 1400,
+    "h": 260,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ericreads",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Ambassadors_Ceiling_Panorama.jpg",
+    "file": "File:Hall of Ambassadors Ceiling Panorama.jpg"
+   },
+   {
+    "src": "images/alhambra/5.webp",
+    "thumb": "images/alhambra/thumbs/5.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Detail",
+    "caption": "Detail · Alhambra Grenada",
+    "credit": "Rob Hodgkins",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alhambra_detail_1_(46473422152).jpg",
+    "file": "File:Alhambra detail 1 (46473422152).jpg"
+   },
+   {
+    "src": "images/alhambra/6.webp",
+    "thumb": "images/alhambra/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "M-nemat",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%B6wenhofs_(Patio_de_los_Leones)_im_Palast_der_L%C3%B6wen_innerhalb_der_Alhambra_Mohammad_Nemat_Zadeh.jpg",
+    "file": "File:Löwenhofs (Patio de los Leones) im Palast der Löwen innerhalb der Alhambra Mohammad Nemat Zadeh.jpg"
+   }
+  ],
+  "commons": "Category:Alhambra"
  },
  {
   "id": "chand-baori",
@@ -1979,7 +9418,105 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "A stepwell thirteen storeys deep: architecture as a climate machine.",
-  "images": []
+  "images": [
+   {
+    "src": "images/chand-baori/0.webp",
+    "thumb": "images/chand-baori/thumbs/0.webp",
+    "w": 1400,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chand Baori seen to North",
+    "credit": "Daniel VILLAFRUELA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abaneri-Chand_Baori_PN-20131018.jpg",
+    "file": "File:Abaneri-Chand Baori PN-20131018.jpg"
+   },
+   {
+    "src": "images/chand-baori/1.webp",
+    "thumb": "images/chand-baori/thumbs/1.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Northern Buildings.h",
+    "credit": "Daniel VILLAFRUELA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abaneri-Chand_Baori-North_terrace-20181018.jpg",
+    "file": "File:Abaneri-Chand Baori-North terrace-20181018.jpg"
+   },
+   {
+    "src": "images/chand-baori/2.webp",
+    "thumb": "images/chand-baori/thumbs/2.webp",
+    "w": 1400,
+    "h": 932,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of ASI monument number",
+    "credit": "Adityavijayavargia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chand_Baori_2,_Abaneri.jpg",
+    "file": "File:Chand Baori 2, Abaneri.jpg"
+   },
+   {
+    "src": "images/chand-baori/3.webp",
+    "thumb": "images/chand-baori/thumbs/3.webp",
+    "w": 1400,
+    "h": 932,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of ASI monument number",
+    "credit": "Adityavijayavargia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chand_Baori_3,_Abaneri.jpg",
+    "file": "File:Chand Baori 3, Abaneri.jpg"
+   },
+   {
+    "src": "images/chand-baori/4.webp",
+    "thumb": "images/chand-baori/thumbs/4.webp",
+    "w": 1400,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Krishna sculpture at Chand Baori",
+    "credit": "Daniel VILLAFRUELA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abaneri-Chand_Baori-Staircase_degrees-20181018.jpg",
+    "file": "File:Abaneri-Chand Baori-Staircase degrees-20181018.jpg"
+   },
+   {
+    "src": "images/chand-baori/5.webp",
+    "thumb": "images/chand-baori/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of ASI monument number",
+    "credit": "Arpita Roy08",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_corridor_surrounding_the_magnificent_Chand_Baori.jpg",
+    "file": "File:The corridor surrounding the magnificent Chand Baori.jpg"
+   },
+   {
+    "src": "images/chand-baori/6.webp",
+    "thumb": "images/chand-baori/thumbs/6.webp",
+    "w": 1400,
+    "h": 773,
+    "kind": "Context",
+    "caption": "Context · Aerial view of World Famous Chand Baori at Rajasthan",
+    "credit": "Architguptaaviatorflight",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chand_Baori.png",
+    "file": "File:Chand Baori.png"
+   },
+   {
+    "src": "images/chand-baori/7.webp",
+    "thumb": "images/chand-baori/thumbs/7.webp",
+    "w": 1255,
+    "h": 697,
+    "kind": "Context",
+    "caption": "Context · Aerial view of Chand Baori at Rajasthan",
+    "credit": "Architguptaaviatorflight",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Chand_Baori.png",
+    "file": "File:Aerial view of Chand Baori.png"
+   }
+  ],
+  "commons": "Category:Chand Baori"
  },
  {
   "id": "villa-la-rotonda",
@@ -1999,6 +9536,104 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "A square plan with four porticoes: the villa that later classical houses copied.",
-  "images": []
+  "images": [
+   {
+    "src": "images/villa-la-rotonda/0.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/0.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Almerico Capra (La Rotonda)",
+    "credit": "Matteo_Pappadopoli",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza_-_Villa_Almerico_Capra_(La_Rotonda)_-.jpg",
+    "file": "File:Vicenza - Villa Almerico Capra (La Rotonda) -.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/1.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/1.webp",
+    "w": 923,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Palladio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pianta,_prospetto_e_spaccato_di_villa_Almerico_Capra_detta_La_Rotonda,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_66_28_027.jpg",
+    "file": "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/2.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/2.webp",
+    "w": 926,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Andrea Palladio, Progetto per Villa Almerico Capra, 1570 - [Incisione]",
+    "credit": "Andrea Palladio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Progetto_per_Villa_Almerico_Capra,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_64_05_093.jpg",
+    "file": "File:Progetto per Villa Almerico Capra, 1570 - Archivio Accademia delle Scienze Torino, Millon 64 05 093.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/3.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/3.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Exterior",
+    "caption": "Exterior · Vicenza , Veneto, Italy",
+    "credit": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza,_La_Rotonda_(2).jpg",
+    "file": "File:Vicenza, La Rotonda (2).jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/4.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/4.webp",
+    "w": 1400,
+    "h": 934,
+    "kind": "Interior",
+    "caption": "Interior · Villa Almerico Capra (La Rotonda) La cupola vista dall'interno",
+    "credit": "Matteo_Pappadopoli",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza_-_Villa_Almerico_Capra_(La_Rotonda)_-_interno.jpg",
+    "file": "File:Vicenza - Villa Almerico Capra (La Rotonda) - interno.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/5.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/5.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Interior",
+    "caption": "Interior · Vicenza , Veneto, Italy",
+    "credit": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza,_La_Rotonda,_interno_(03).jpg",
+    "file": "File:Vicenza, La Rotonda, interno (03).jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/6.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Vicenza , Veneto, Italy",
+    "credit": "WikiSteVi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Almerico_Capra_(La_Rotonda)_3.jpg",
+    "file": "File:Villa Almerico Capra (La Rotonda) 3.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/7.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/7.webp",
+    "w": 1400,
+    "h": 1050,
+    "kind": "Context",
+    "caption": "Context · Vicenza , Veneto, Italy",
+    "credit": "Palickap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza,_La_Rotonda,_giardino_(2).jpg",
+    "file": "File:Vicenza, La Rotonda, giardino (2).jpg"
+   }
+  ],
+  "commons": "Category:Villa Capra \"La Rotonda\""
  }
 ];
