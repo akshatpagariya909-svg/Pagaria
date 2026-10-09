@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site tools/category_probe.txt 2>/dev/null || git add site
+          git add -A site tools
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           git commit -m "Update building images from Wikimedia"
           git pull --rebase

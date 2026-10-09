@@ -218,7 +218,8 @@ def score(info, b=None, title=''):
     return s
 
 
-def choose(b, files, info, skip, boost=()):
+def eligible(b, files, info, skip=(), boost=()):
+    """Free, large-enough photos from the candidates, scored."""
     pool = []
     for t, hint in files:
         i = info.get(t)
@@ -233,6 +234,11 @@ def choose(b, files, info, skip, boost=()):
         pool.append({'title': t, 'info': i, 'kind': describe(t, hint, meta), 'score': score(i, b, t) + (100 if t in boost else 0),
                      'credit': strip(meta.get('Artist'))[:100] or strip(meta.get('Credit'))[:100], 'license': lic})
     pool.sort(key=lambda p: -p['score'])
+    return pool
+
+
+def choose(b, files, info, skip, boost=()):
+    pool = eligible(b, files, info, skip, boost)
     picks, per_author, stems, kinds = [], {}, {}, {}
 
     def stem_of(p):
@@ -259,6 +265,70 @@ def choose(b, files, info, skip, boost=()):
             take(p)
     order = {'Exterior': 0, 'Interior': 1, 'Detail': 2, 'Context': 3, 'Drawing': 4}
     return picks[:1] + sorted(picks[1:], key=lambda p: order[p['kind']])
+
+
+def picked(b, ch):
+    """Photos chosen by hand in image_choices.json "pick": "File:…" or ["File:…", "Interior"], in order."""
+    want = [(x, None) if isinstance(x, str) else (x[0], x[1]) for x in ch['pick']]
+    info = infos([t for t, _ in want])
+    pool = {p['title']: p for p in eligible(b, [(t, '') for t, _ in want], info)}
+    out = []
+    for t, kind in want:
+        if t in pool:
+            if kind:
+                pool[t]['kind'] = kind
+            out.append(pool[t])
+        else:
+            print('    not usable:', t)
+    return out
+
+
+# ---------- candidate sheets for choosing by hand ----------
+CAND = ROOT / 'tools' / 'candidates'
+CAND_N, TW, TH = 24, 250, 188
+
+
+def candidates(b, ch):
+    auto, lead = commons_category(b)
+    cat = ch.get('category') or auto
+    files = (candidate_files(cat) if cat else []) + [(t, '') for t in ch.get('add', []) + ([lead] if lead else [])]
+    pool = eligible(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(ch.get('add', []) + ([lead] if lead else [])))
+    return cat, pool[:CAND_N]
+
+
+def tile(p, k):
+    from PIL import Image, ImageDraw
+    url = p['info'].get('thumburl') or p['info']['url']
+    url = re.sub(r'/\d+px-', '/330px-', url) if '/thumb/' in url else url
+    im = Image.new('RGB', (TW, TH), (40, 40, 40))
+    try:
+        t = Image.open(io.BytesIO(fetch(url, timeout=120))).convert('RGB')
+        t.thumbnail((TW, TH - 18))
+        im.paste(t, ((TW - t.width) // 2, 0))
+    except Exception as e:
+        print('    thumb failed:', e)
+    d = ImageDraw.Draw(im)
+    d.rectangle([0, TH - 18, TW, TH], fill=(255, 255, 255))
+    d.text((4, TH - 15), f"{k}  {p['kind'][:3]}  {p['title'][5:40]}", fill=(0, 0, 0))
+    return im
+
+
+def write_sheets(rows):
+    """Two buildings per sheet, 6 x 4 numbered tiles each."""
+    from PIL import Image, ImageDraw
+    CAND.mkdir(parents=True, exist_ok=True)
+    for f in CAND.glob('sheet-*.jpg'):
+        f.unlink()
+    for s in range(0, len(rows), 2):
+        part = rows[s:s + 2]
+        sheet = Image.new('RGB', (6 * TW, len(part) * (4 * TH + 30)), (255, 255, 255))
+        d = ImageDraw.Draw(sheet)
+        for r, (b, cat, tiles) in enumerate(part):
+            y = r * (4 * TH + 30)
+            d.text((6, y + 8), f"{b['n']:03d} {b['name']} | {b['by']} | {cat}", fill=(0, 0, 0))
+            for k, im in enumerate(tiles):
+                sheet.paste(im, ((k % 6) * TW, y + 30 + (k // 6) * TH))
+        sheet.save(CAND / f"sheet-{part[0][0]['n']:03d}.jpg", quality=78)
 
 
 # ---------- saving ----------
@@ -304,6 +374,7 @@ def main():
     ap.add_argument('--force', action='store_true')
     ap.add_argument('--only', default='')
     ap.add_argument('--probe', action='store_true', help='list candidate categories instead of downloading')
+    ap.add_argument('--candidates', action='store_true', help='render numbered candidate sheets to tools/candidates/')
     args = ap.parse_args()
     only = set(filter(None, args.only.split(',')))
     choices = json.loads(CHOICES.read_text()) if CHOICES.exists() else {}
@@ -320,6 +391,23 @@ def main():
                 print(report[-1])
         PROBE.write_text('\n\n'.join(report) + '\n')
         return
+    if args.candidates:
+        rows, manifest = [], {}
+        for b in items:
+            if only and b['id'] not in only:
+                continue
+            print(f"{b['n']:>3} {b['name']}")
+            try:
+                cat, pool = candidates(b, choices.get(b['id'], {}))
+            except Exception as e:
+                print('    error:', e)
+                cat, pool = None, []
+            print(f'    {cat}: {len(pool)} candidates')
+            manifest[b['id']] = [[p['title'], p['kind']] for p in pool]
+            rows.append((b, cat, [tile(p, k) for k, p in enumerate(pool)]))
+        write_sheets(rows)
+        (CAND / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + '\n')
+        return
     for b in items:
         if only and b['id'] not in only:
             continue
@@ -333,9 +421,11 @@ def main():
             print('    category:', cat, '| lead:', lead)
             add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
             files = (candidate_files(cat) if cat else []) + [(t, '') for t in add]
-            info = infos([t for t, _ in files])
-            picks = choose(b, files, info, set(ch.get('skip', [])), set(add))
-            for t in reversed(add):  # files added by hand, then Wikipedia's lead photo, go first
+            if ch.get('pick'):
+                picks = picked(b, ch)
+            else:
+                picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(add))
+            for t in ([] if ch.get('pick') else reversed(add)):  # files added by hand, then Wikipedia's lead photo, go first
                 p = next((p for p in picks if p['title'] == t), None)
                 if p:
                     picks.remove(p)
