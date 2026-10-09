@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — the rabbit hole</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+</style>
+</helmet>
+<div style="width: 1440px; height: 1000px; position: relative; overflow: hidden; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif">
+  <header style="position: absolute; left: 0; right: 0; top: 0; height: 60px; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-sizing: border-box; border-bottom: 1px solid #CFCDC6">
+    <div style="display: flex; align-items: baseline; gap: 18px">
+      <span style="font-size: 26px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em">Dérive</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">YOUR DRIFT · 6 STEPS DOWN</span>
+    </div>
+    <div style="display: flex; gap: 10px; font-size: 13px; font-weight: 600">
+      <a href="#" style="color: #111110; border: 1px solid #111110; padding: 9px 12px; text-decoration: none">Copy link to this drift</a>
+      <a href="Home.dc.html" style="color: #EDEDE9; background: #111110; padding: 10px 12px; text-decoration: none">Back to the wall</a>
+    </div>
+  </header>
+
+  <div style="position: absolute; right: 40px; top: 96px; width: 470px; display: flex; flex-direction: column; gap: 14px">
+    <h1 style="margin: 0; font-size: 64px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em; line-height: 0.88">DOWN THE<br>RABBIT HOLE</h1>
+    <p style="margin: 0; font-family: 'Newsreader', serif; font-style: italic; font-size: 24px; line-height: 1.2">You opened a pink house in Mexico City. A few clicks later you were in a stepwell in Rajasthan, and then back with Barragán.</p>
+    <div style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.05em; line-height: 1.8; color: #3E3D39">CASA GILARDI → MEXICAN MODERNISM → COLOUR → COURTYARD → WATER → LUIS BARRAGÁN → ?</div>
+  </div>
+
+  <svg width="1440" height="1000" viewBox="0 0 1440 1000" style="position: absolute; left: 0; top: 0; pointer-events: none" fill="none" stroke="#111110" stroke-width="1.5">
+    <path d="{{stairPath}}"/>
+  </svg>
+
+  <sc-for list="{{steps}}" as="s" hint-placeholder-count="6">
+    <div style="position: absolute; left: {{s.x}}px; top: {{s.y}}px; width: 168px; display: flex; flex-direction: column; gap: 6px">
+      <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: {{s.kc}}">{{s.n}} · {{s.kind}}</div>
+      <a href="#" style="font-weight: 850; font-stretch: 118%; font-size: 18px; line-height: 1.05; color: #111110; text-decoration: none">{{s.label}}</a>
+      <div style="display: flex; gap: 4px; padding-top: 2px">
+        <sc-for list="{{s.thumbs}}" as="t" hint-placeholder-count="3">
+          <img src="{{t.img}}" alt="{{t.name}}" style="width: {{t.w}}px; height: {{t.h}}px; object-fit: cover; outline: {{t.ol}}; outline-offset: 1px">
+        </sc-for>
+      </div>
+      <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #5D5C57">{{s.more}}</div>
+    </div>
+  </sc-for>
+
+  <div style="position: absolute; left: 1150px; top: 700px; width: 250px; background: #2D3BF0; color: #fff; padding: 14px 16px; display: flex; flex-direction: column; gap: 8px">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em">07 · WHERE IT LED</span>
+    <span style="font-weight: 850; font-stretch: 118%; font-size: 20px; line-height: 1.05">Six buildings that share three or more of your steps</span>
+    <span style="font-size: 13px">↙ see them below</span>
+  </div>
+
+  <div style="position: absolute; left: 40px; bottom: 36px; width: 1000px; display: flex; flex-direction: column; gap: 12px">
+    <div style="display: flex; align-items: baseline; gap: 14px; border-bottom: 2px solid #111110; padding-bottom: 8px">
+      <span style="font-weight: 850; font-stretch: 125%; font-size: 26px; letter-spacing: -0.02em">RELATED</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: #5D5C57">RANKED BY HOW MANY STEPS OF YOUR DRIFT THEY SHARE</span>
+    </div>
+    <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 6px">
+      <sc-for list="{{related}}" as="r" hint-placeholder-count="6">
+        <a href="#" style="text-decoration: none; color: #111110; display: flex; flex-direction: column; gap: 5px">
+          <img src="{{r.img}}" alt="" style="width: 100%; height: 130px; object-fit: cover; display: block">
+          <span style="font-size: 13px; font-weight: 700; line-height: 1.15">{{r.name}}</span>
+          <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #2D3BF0">{{r.why}}</span>
+        </a>
+      </sc-for>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":1000}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const T = (id, name, on) => ({ img: B + id, name, w: on ? 64 : 48, h: on ? 64 : 48, ol: on ? '2px solid #2D3BF0' : 'none' });
+    const raw = [
+      { kind: 'START', label: 'Casa Gilardi', more: 'MEXICO CITY · 1976', thumbs: [T('b04b0d3fdfc18dfcdc79d88e3b71474c', 'Casa Gilardi', true)] },
+      { kind: 'STYLE', label: 'Mexican Modernism', more: '6 IN THE 100', thumbs: [T('5fa0f7cf2e3d4dffcb0f9e136409df24', 'Cuadra San Cristóbal', false), T('2905b17d62dd48f00292ace0468e1f17', 'MASP', false)] },
+      { kind: 'CONCEPT', label: 'Colour', more: '9 IN THE 100', thumbs: [T('ada1c23b6c6fd9be5a216c363944c790', 'La Muralla Roja', true), T('8257a396a6bfb43f86d4ca5886e904de', 'Nasir al-Mulk', false), T('3e3eb3ef4bee0afa4edbe7b642a69193', 'Hawa Mahal', false)] },
+      { kind: 'CONCEPT', label: 'Courtyard', more: '7 IN THE 100', thumbs: [T('7808c6f5438936b491a834d37ee760a2', 'Salk Institute', false), T('e2fc6cc6a38dd5c5c4e8c5b429b467d8', 'Jawahar Kala Kendra', true), T('e9a64336b6d61f8d38e4d42a62dde6ea', 'Moriyama House', false)] },
+      { kind: 'CONCEPT', label: 'Water', more: '14 IN THE 100', thumbs: [T('e1d5b048f55ac0d50b7ffc1f5608575a', 'Chand Baori', true), T('18fb6493da869868420270b541752d13', 'Therme Vals', false), T('143e7f077def6d7c5a3d10010f869fda', 'Barcelona Pavilion', false)] },
+      { kind: 'ARCHITECT', label: 'Luis Barragán', more: '3 IN THE 100', thumbs: [T('5fa0f7cf2e3d4dffcb0f9e136409df24', 'Cuadra San Cristóbal', true), T('b04b0d3fdfc18dfcdc79d88e3b71474c', 'Casa Gilardi', false)] }
+    ];
+    const x0 = 40, y0 = 96, dx = 182, dy = 100;
+    const steps = raw.map((s, i) => Object.assign({}, s, { n: '0' + (i + 1), x: x0 + i * dx, y: y0 + i * dy, kc: i === 0 ? '#111110' : '#2D3BF0' }));
+    let d = '';
+    for (let i = 0; i < steps.length; i++) {
+      const x = x0 + i * dx - 10, y = y0 + i * dy - 12;
+      d += (i === 0 ? 'M' + x + ' ' + y : ' L' + x + ' ' + y) + ' L' + (x + dx) + ' ' + y + ' L' + (x + dx) + ' ' + (y + dy);
+    }
+    d += ' L' + (x0 + steps.length * dx + 30) + ' ' + (y0 + steps.length * dy - 12);
+    return {
+      steps, stairPath: d,
+      related: [
+        { img: B + 'ada1c23b6c6fd9be5a216c363944c790', name: 'La Muralla Roja', why: 'COLOUR · COURTYARD · STAIRS' },
+        { img: B + '5fa0f7cf2e3d4dffcb0f9e136409df24', name: 'Cuadra San Cristóbal', why: 'BARRAGÁN · COLOUR · WATER' },
+        { img: B + 'e2fc6cc6a38dd5c5c4e8c5b429b467d8', name: 'Jawahar Kala Kendra', why: 'COLOUR · COURTYARD' },
+        { img: B + '8257a396a6bfb43f86d4ca5886e904de', name: 'Nasir al-Mulk Mosque', why: 'COLOUR · LIGHT · COURTYARD' },
+        { img: B + '7808c6f5438936b491a834d37ee760a2', name: 'Salk Institute', why: 'COURTYARD · WATER' },
+        { img: B + 'e1d5b048f55ac0d50b7ffc1f5608575a', name: 'Chand Baori', why: 'WATER · GEOMETRY' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

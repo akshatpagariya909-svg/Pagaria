@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Direction A — Editorial Architecture</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;900&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#111}a:hover{color:#E1251B}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; box-sizing: border-box; background: #FFFFFF; color: #111111; font-family: 'Schibsted Grotesk', sans-serif; padding: 0 40px; display: flex; flex-direction: column; overflow: hidden">
+  <header style="height: 76px; display: flex; align-items: center; justify-content: space-between; border-bottom: 2px solid #111">
+    <div style="display: flex; align-items: baseline; gap: 20px">
+      <span style="font-size: 30px; font-weight: 900; letter-spacing: -0.03em">DÉRIVE</span>
+      <span style="font-size: 13px; color: #555">A daily edition of architecture, 12 buildings at a time</span>
+    </div>
+    <nav style="display: flex; gap: 28px; font-size: 14px; font-weight: 500">
+      <a href="#" style="text-decoration: none">Surprise me →</a>
+      <a href="#" style="text-decoration: none">Filter</a>
+      <a href="#" style="text-decoration: none">Search</a>
+      <a href="#" style="text-decoration: none; color: #888">Archive 100</a>
+    </nav>
+  </header>
+  <div style="display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: 24px; padding-top: 24px">
+    <div style="grid-column: span 8; display: flex; flex-direction: column; gap: 14px">
+      <div style="position: relative">
+        <img src="/_blob/7808c6f5438936b491a834d37ee760a2" alt="Salk Institute courtyard" style="width: 100%; height: 440px; object-fit: cover; display: block">
+        <div style="position: absolute; left: 0; top: 0; background: #E1251B; color: #fff; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; padding: 8px 12px">TODAY'S LEAD</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 120px 1fr; gap: 24px; align-items: start">
+        <div style="font-size: 12px; line-height: 1.5; color: #555; border-top: 1px solid #111; padding-top: 8px">Nº 031<br>La Jolla, USA<br>1965</div>
+        <div style="border-top: 1px solid #111; padding-top: 8px">
+          <div style="font-size: 36px; font-weight: 900; letter-spacing: -0.02em; line-height: 1">Salk Institute <span style="font-weight: 400">— Louis Kahn</span></div>
+          <div style="font-family: 'Newsreader', serif; font-style: italic; font-size: 24px; line-height: 1.25; margin-top: 8px; color: #222">A courtyard of travertine, a line of water and the Pacific as the fourth wall.</div>
+        </div>
+      </div>
+    </div>
+    <aside style="grid-column: span 4; display: flex; flex-direction: column">
+      <div style="display: flex; justify-content: space-between; font-size: 12px; font-weight: 700; letter-spacing: 0.08em; padding-bottom: 8px; border-bottom: 1px solid #111">
+        <span>INDEX · 12 OF 100</span><span style="color: #E1251B">SHUFFLE ↻</span>
+      </div>
+      <sc-for list="{{index}}" as="r" hint-placeholder-count="12">
+        <div style="display: grid; grid-template-columns: 34px 1fr auto; gap: 10px; align-items: baseline; padding: 9px {{r.pad}}; border-bottom: 1px solid #DDD; background: {{r.bg}}; color: {{r.fg}}">
+          <span style="font-size: 11px; opacity: 0.7">{{r.n}}</span>
+          <span style="font-size: 16px; font-weight: 700">{{r.name}}</span>
+          <span style="font-size: 12px; opacity: 0.7">{{r.y}}</span>
+        </div>
+      </sc-for>
+      <div style="margin-top: 14px; font-size: 12px; line-height: 1.5; color: #E1251B; font-weight: 700">SIGNATURE INTERACTION</div>
+      <div style="font-family: 'Newsreader', serif; font-size: 18px; line-height: 1.3; color: #222">Scrub down the index and the lead image follows your cursor. You read architecture like a contents page.</div>
+    </aside>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 24px; padding-top: 22px; margin-top: 18px; border-top: 2px solid #111">
+    <sc-for list="{{strip}}" as="s" hint-placeholder-count="6">
+      <figure style="margin: 0">
+        <img src="{{s.img}}" alt="{{s.name}}" style="width: 100%; height: 130px; object-fit: cover; display: block">
+        <figcaption style="font-size: 12px; line-height: 1.35; padding-top: 6px"><b>{{s.name}}</b><br><span style="color: #666">{{s.meta}}</span></figcaption>
+      </figure>
+    </sc-for>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const rows = [
+      ['024', 'Barcelona Pavilion', '1929'], ['031', 'Salk Institute', '1965'], ['047', 'Chand Baori', 'c. 800'],
+      ['052', 'Great Mosque of Djenné', '1907'], ['058', 'Church of the Light', '1989'], ['063', 'Nakagin Capsule Tower', '1972'],
+      ['066', 'Gando Primary School', '2001'], ['071', 'Casa Gilardi', '1976'], ['077', 'Hawa Mahal', '1799'],
+      ['082', 'Ningbo History Museum', '2008'], ['089', 'Superkilen', '2012'], ['094', 'Bruder Klaus Chapel', '2007']
+    ];
+    return {
+      index: rows.map((r, i) => ({ n: r[0], name: r[1], y: r[2], bg: i === 1 ? '#111111' : 'transparent', fg: i === 1 ? '#FFFFFF' : '#111111', pad: i === 1 ? '10px' : '0px' })),
+      strip: [
+        { img: B + 'e1d5b048f55ac0d50b7ffc1f5608575a', name: 'Chand Baori', meta: 'Abhaneri · c. 800' },
+        { img: B + '4573b087446a051355b94c1e52c91f3a', name: 'Great Mosque of Djenné', meta: 'Mali · 1907' },
+        { img: B + '20e207ee40e30a3431ff249d15458d41', name: 'Church of the Light', meta: 'Tadao Ando · 1989' },
+        { img: B + 'faba44bed0c130a2b9b71ab8b5260399', name: 'Gando Primary School', meta: 'Francis Kéré · 2001' },
+        { img: B + 'e8074e6f2563fcb528aa7c3d979680df', name: 'Ningbo History Museum', meta: 'Wang Shu · 2008' },
+        { img: B + '32a48ac7ef4374cb674b436a4b6a396a', name: 'Superkilen', meta: 'BIG + Topotek 1 · 2012' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

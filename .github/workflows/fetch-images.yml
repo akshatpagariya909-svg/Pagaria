@@ -1,0 +1,37 @@
+# Downloads free building images from Wikimedia on GitHub's servers and commits them back.
+# Runs when tools/fetch_request.txt changes on this branch, or by hand from the Actions tab.
+name: Fetch images
+on:
+  push:
+    branches: ['claude/awesome-clarke-vqongx']
+    paths: ['tools/fetch_request.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-images
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Download images
+        # A first line like "--only id1,id2" in tools/fetch_request.txt limits the run to those buildings.
+        run: |
+          ARGS=$(head -n1 tools/fetch_request.txt | grep '^--' || true)
+          python -u tools/fetch_images.py $ARGS
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Add building images downloaded from Wikimedia"
+          git pull --rebase
+          git push

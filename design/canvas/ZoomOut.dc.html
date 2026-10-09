@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — zoomed out</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background: #E4E4DF; color: #111110; font-family: 'Archivo', sans-serif">
+  <svg width="1440" height="900" viewBox="0 0 1440 900" style="position: absolute; left: 0; top: 0" fill="none" stroke="#B7B5AE" stroke-width="1" stroke-dasharray="3 5">
+    <path d="M250 250 L620 220 L1010 240 L1300 350"/><path d="M250 250 L330 580"/><path d="M620 220 L700 540"/><path d="M1010 240 L1040 580"/><path d="M330 580 L700 540 L1040 580 L1300 700"/><path d="M620 220 L330 580"/><path d="M1010 240 L700 540"/>
+  </svg>
+  <header style="position: absolute; left: 0; right: 0; top: 0; height: 60px; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-sizing: border-box; z-index: 5">
+    <div style="display: flex; align-items: baseline; gap: 18px">
+      <span style="font-size: 26px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em">Dérive</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">ZOOM 4 · ALL 100 · 8 ISLANDS</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600">
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57; padding-right: 6px">ARRANGE BY</span>
+      <span style="background: #111110; color: #EDEDE9; padding: 8px 12px">Concept</span>
+      <span style="border: 1px solid #111110; padding: 7px 12px">Colour</span>
+      <span style="border: 1px solid #111110; padding: 7px 12px">Era</span>
+      <span style="border: 1px solid #111110; padding: 7px 12px">Place</span>
+    </div>
+  </header>
+
+  <sc-for list="{{labels}}" as="l" hint-placeholder-count="8">
+    <div style="position: absolute; left: {{l.x}}px; top: {{l.y}}px; display: flex; align-items: baseline; gap: 8px; z-index: 2">
+      <span style="font-weight: 850; font-stretch: 125%; font-size: 19px; letter-spacing: -0.01em">{{l.name}}</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: #5D5C57">{{l.n}}</span>
+    </div>
+  </sc-for>
+  <sc-for list="{{tiles}}" as="t" hint-placeholder-count="100">
+    <img src="{{t.img}}" alt="" style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: 50px; height: 50px; object-fit: cover; opacity: {{t.op}}">
+  </sc-for>
+
+  <div style="position: absolute; left: {{hx}}px; top: {{hy}}px; width: 50px; height: 50px; outline: 2px solid #111110; z-index: 6; transform: scale(1.7); box-shadow: 0 10px 24px rgba(0,0,0,0.3)">
+    <img src="/_blob/8257a396a6bfb43f86d4ca5886e904de" alt="Nasir al-Mulk Mosque" style="width: 50px; height: 50px; object-fit: cover; display: block">
+  </div>
+  <div style="position: absolute; left: {{lx}}px; top: {{ly}}px; z-index: 7; background: #111110; color: #EDEDE9; padding: 8px 10px 9px">
+    <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #8E95FF">057/100 · ALSO IN: LIGHT, SACRED</div>
+    <div style="font-weight: 850; font-stretch: 125%; font-size: 15px">NASIR AL-MULK MOSQUE</div>
+    <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #BDBDB6">SHIRAZ, IR · 1888</div>
+  </div>
+
+  <div style="position: absolute; left: 20px; bottom: 26px; width: 300px; z-index: 5; display: flex; flex-direction: column; gap: 6px">
+    <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 24px; line-height: 1.15">Every building lives on an island. Some live on several.</span>
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: #5D5C57">DASHED LINES = BUILDINGS SHARED BETWEEN ISLANDS</span>
+  </div>
+  <div style="position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); display: flex; background: #111110; color: #EDEDE9; font-size: 14px; font-weight: 600; box-shadow: 0 10px 30px rgba(0,0,0,0.25); z-index: 8">
+    <span style="padding: 15px 18px; display: flex; gap: 9px; align-items: center"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>Shuffle</span>
+    <span style="padding: 15px 22px; background: #2D3BF0; color: #fff">Surprise me</span>
+    <span style="padding: 15px 18px">Filter</span>
+    <span style="padding: 15px 16px; display: flex; align-items: center"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg></span>
+    <span style="width: 1px; background: #3A3A37; margin: 10px 0"></span>
+    <span style="padding: 15px 16px; font-family: 'IBM Plex Mono', monospace">+</span>
+    <span style="padding: 15px 4px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: #BDBDB6; display: flex; align-items: center">ISLANDS</span>
+    <span style="padding: 15px 16px; font-family: 'IBM Plex Mono', monospace; color: #5D5C57">−</span>
+  </div>
+  <div style="position: absolute; right: 20px; bottom: 26px; width: 190px; z-index: 5; font-family: 'IBM Plex Mono', monospace; font-size: 10px; line-height: 1.7; letter-spacing: 0.04em; color: #3E3D39; text-align: right">SCROLL TO DIVE INTO AN ISLAND<br>DRAG TO DRIFT<br>CLICK A NAME TO FILTER BY IT</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const I = {
+      casa:'b04b0d3fdfc18dfcdc79d88e3b71474c', cuadra:'5fa0f7cf2e3d4dffcb0f9e136409df24', masp:'2905b17d62dd48f00292ace0468e1f17', sesc:'1f01946ebcc9ec607db97186d00b4071', brasilia:'e2fc5c7f1c207376973b124c730da059', torres:'f0bc254bfe41bd7de738e3476dc7bdac', hawa:'3e3eb3ef4bee0afa4edbe7b642a69193', iim:'c564573035a920737d8574a222e1c18b', chandigarh:'b10ac8336573d6c4b99be41eb5e42117', baori:'e1d5b048f55ac0d50b7ffc1f5608575a', jkk:'e2fc6cc6a38dd5c5c4e8c5b429b467d8', sangath:'37f86573c9f3a4abe116652ad37fb911', baker:'d5fd19b2a62dcd565830eef3481c41fa', light:'20e207ee40e30a3431ff249d15458d41', nakagin:'ad7236eb2882e0f57ccfbad2f4f9e236', moriyama:'e9a64336b6d61f8d38e4d42a62dde6ea', teshima:'ad44a40cef1fa544143a1a7d66697f4a', katsura:'1ab4c5e4e572e711cbd7689aa141c9c4', yoyogi:'a8915a5fa2cb57d621ce78c45638a180', barbican:'ec5c33af48e612bd3262b10e3af2a9da', unite:'d96145d88e426c05207e8307a8ea265c', ronchamp:'10704c4517c4461d44f1fab84b846ddf', vals:'18fb6493da869868420270b541752d13', brion:'9e29646a54530bda4dfc1d5c53e57490', barcelona:'143e7f077def6d7c5a3d10010f869fda', trellick:'6c8da5a2716e9fbe026e175edd25ee50', kolumba:'e041a7d37159e8c5ad2389e9b73ad9ba', tate:'2644c607933c2f6621a08245f958fe40', canlis:'b1b72df513955b03b665ae1025ce1443', habitat:'25d468c57ef67ed6c216baab781934bb', salk:'7808c6f5438936b491a834d37ee760a2', gando:'faba44bed0c130a2b9b71ab8b5260399', djenne:'4573b087446a051355b94c1e52c91f3a', kicc:'e25f91328830ca80335ed93784765fd4', zeitz:'0e84e07fdd45f2d8040689cf1af84ca0', lalibela:'ccaf7086dec1f08ded4c4ff8927b49de', nasir:'8257a396a6bfb43f86d4ca5886e904de', ima:'553cc3169e71d9e4bde1f53d46e718c1', azadi:'453cfcc7ca0c7605680d16b4f6c5e808', qatar:'3751cdd85d8906b7ec5a8bc0e09a8b26', gourna:'50cfdc2e9e17b49b27021c66d06230a8', shibam:'2bb38eaf9abec9407fb21c9e0ed45deb', bruder:'edb1ff179712604a92e19b8d373275d4', superkilen:'32a48ac7ef4374cb674b436a4b6a396a', malaparte:'7a530fd9a1b600570bd214c6a78d4222', muralla:'ada1c23b6c6fd9be5a216c363944c790', stacking:'6dbf3b6fae36882a71eb03067fbd09a8', ningbo:'e8074e6f2563fcb528aa7c3d979680df'
+    };
+    const C = [
+      { name: 'Water', cx: 250, cy: 250, n: 14, ks: ['casa','salk','vals','teshima','barcelona','brion','cuadra','baori','sangath','barbican','chandigarh'] },
+      { name: 'Colour', cx: 620, cy: 220, n: 13, ks: ['muralla','casa','hawa','nasir','jkk','superkilen','unite','cuadra','ronchamp','malaparte','masp'] },
+      { name: 'Concrete', cx: 1010, cy: 240, n: 16, ks: ['barbican','trellick','unite','light','salk','sesc','habitat','chandigarh','brasilia','bruder','brion','zeitz'] },
+      { name: 'Light from above', cx: 1290, cy: 360, n: 12, ks: ['light','ronchamp','teshima','vals','nasir','bruder','kolumba','ima','brasilia','iim'] },
+      { name: 'Brick & earth', cx: 330, cy: 580, n: 15, ks: ['djenne','gando','gourna','shibam','iim','baker','torres','kolumba','tate','ningbo'] },
+      { name: 'Stairs & geometry', cx: 700, cy: 540, n: 10, ks: ['baori','muralla','malaparte','lalibela','azadi','qatar','hawa','jkk','ima'] },
+      { name: 'Second lives', cx: 1040, cy: 590, n: 11, ks: ['tate','zeitz','sesc','kolumba','ningbo','masp','katsura'] },
+      { name: 'Roofs & vaults', cx: 1300, cy: 690, n: 9, ks: ['yoyogi','gando','sangath','qatar','gourna','katsura','kicc','moriyama','stacking','nakagin','canlis'] }
+    ];
+    const T = 50, G = 4;
+    const tiles = [], labels = [];
+    let hx = 0, hy = 0;
+    C.forEach((c, ci) => {
+      const cols = Math.ceil(Math.sqrt(c.n * 1.5));
+      const rows = Math.ceil(c.n / cols);
+      const w = cols * (T + G) - G, h = rows * (T + G) - G;
+      const x0 = c.cx - w / 2, y0 = c.cy - h / 2;
+      labels.push({ name: c.name, n: String(c.n).padStart(2, '0'), x: Math.round(x0), y: Math.round(y0 - 30) });
+      for (let k = 0; k < c.n; k++) {
+        const r = Math.floor(k / cols), col = k % cols;
+        const inRow = Math.min(cols, c.n - r * cols);
+        const off = (cols - inRow) * (T + G) / 2;
+        const key = c.ks[k % c.ks.length];
+        const x = Math.round(x0 + off + col * (T + G)), y = Math.round(y0 + r * (T + G));
+        if (ci === 1 && key === 'nasir') { hx = x; hy = y; }
+        tiles.push({ img: B + I[key], x, y, op: ci === 1 ? 1 : 0.92 });
+      }
+    });
+    return { tiles, labels, hx, hy, lx: hx + 54, ly: hy + 46 };
+  }
+}
+</script>
+</body>
+</html>

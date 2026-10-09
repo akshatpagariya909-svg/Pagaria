@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Compare — four tile walls</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; box-sizing: border-box; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif; padding: 40px 48px; display: flex; flex-direction: column; gap: 24px">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid #111110; padding-bottom: 14px">
+    <h1 style="margin: 0; font-size: 34px; font-weight: 800; font-stretch: 115%; letter-spacing: -0.02em">Four ways to build the wall</h1>
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">SAME 100 BUILDINGS · DIFFERENT PULL</span>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 40px; flex-grow: 1">
+    <div style="display: flex; flex-direction: column; gap: 10px">
+      <div style="height: 270px; background: #FFFFFF; position: relative; overflow: hidden; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; padding: 14px; box-sizing: border-box; align-content: start">
+        <sc-for list="{{a}}" as="t" hint-placeholder-count="12">
+          <div><img src="{{t}}" alt="" style="width: 100%; height: 80px; object-fit: cover; display: block"><div style="height: 4px; width: 70%; background: #111; margin-top: 6px"></div><div style="height: 3px; width: 45%; background: #BBB; margin-top: 4px"></div></div>
+        </sc-for>
+      </div>
+      <div style="display: flex; gap: 14px; align-items: baseline"><span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">A</span><b style="font-size: 18px">Contact sheet</b><span style="font-size: 14px; color: #3E3D39">Equal tiles, captions always on. Calm and legible, but every building weighs the same.</span></div>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px">
+      <div style="height: 270px; background: #D8D8D2; position: relative; overflow: hidden">
+        <sc-for list="{{b}}" as="t" hint-placeholder-count="10">
+          <img src="{{t.img}}" alt="" style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: {{t.w}}px; height: {{t.h}}px; object-fit: cover; transform: rotate({{t.r}}deg); border: 4px solid #F4F4F0; box-shadow: 0 2px 6px rgba(0,0,0,0.2)">
+        </sc-for>
+      </div>
+      <div style="display: flex; gap: 14px; align-items: baseline"><span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">B</span><b style="font-size: 18px">Pinboard</b><span style="font-size: 14px; color: #3E3D39">Rotated, overlapping, tactile. Charming at 15 tiles, chaotic at 100.</span></div>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px">
+      <div style="height: 270px; background: #1C1B19; position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center; gap: 22px">
+        <img src="/_blob/e041a7d37159e8c5ad2389e9b73ad9ba" alt="" style="width: 110px; height: 140px; object-fit: cover; opacity: 0.3">
+        <img src="/_blob/ccaf7086dec1f08ded4c4ff8927b49de" alt="" style="width: 130px; height: 170px; object-fit: cover; opacity: 0.5">
+        <img src="/_blob/18fb6493da869868420270b541752d13" alt="" style="width: 190px; height: 240px; object-fit: cover">
+        <img src="/_blob/edb1ff179712604a92e19b8d373275d4" alt="" style="width: 130px; height: 170px; object-fit: cover; opacity: 0.5">
+        <img src="/_blob/20e207ee40e30a3431ff249d15458d41" alt="" style="width: 110px; height: 140px; object-fit: cover; opacity: 0.3">
+      </div>
+      <div style="display: flex; gap: 14px; align-items: baseline"><span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">C</span><b style="font-size: 18px">Gallery corridor</b><span style="font-size: 14px; color: #3E3D39">One work in the spotlight at a time. Gorgeous, but slow, and you can't scan.</span></div>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px">
+      <div style="height: 270px; background-color: #F1F1EC; background-image: radial-gradient(#C8C8C0 1px, transparent 1px); background-size: 12px 12px; position: relative; overflow: hidden">
+        <sc-for list="{{d}}" as="t" hint-placeholder-count="40">
+          <img src="{{t.img}}" alt="" style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: 44px; height: 44px; object-fit: cover; transform: scale({{t.s}}); z-index: {{t.z}}">
+        </sc-for>
+      </div>
+      <div style="display: flex; gap: 14px; align-items: baseline"><span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #5D5C57">D</span><b style="font-size: 18px">Lens field</b><span style="font-size: 14px; color: #3E3D39">A uniform field you pan and zoom, with a lens that swells nearby tiles. Very playable, but monotonous.</span></div>
+    </div>
+  </div>
+  <div style="display: grid; grid-template-columns: 220px 1fr 300px; gap: 24px; align-items: center; background: #111110; color: #EDEDE9; padding: 16px 20px">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #8E95FF">CHOSEN → MOSAIC</span>
+    <span style="font-size: 15px; line-height: 1.4">A packed 12-column mosaic. Mixed tile sizes give it rhythm and a strict grid gives it order. It zooms out into a field (D) without breaking the editorial grid (A).</span>
+    <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); grid-auto-rows: 14px; gap: 3px">
+      <div style="grid-column: span 2; grid-row: span 2; background: #EDEDE9"></div><div style="background: #8E95FF"></div><div style="grid-column: span 2; background: #EDEDE9"></div><div style="grid-row: span 2; background: #EDEDE9"></div><div style="background: #EDEDE9"></div><div style="grid-column: span 2; background: #5D5C57"></div><div style="background: #EDEDE9"></div><div style="grid-column: span 3; background: #5D5C57"></div><div style="background: #EDEDE9"></div><div style="grid-column: span 2; background: #EDEDE9"></div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const ids = ['3e3eb3ef4bee0afa4edbe7b642a69193','7808c6f5438936b491a834d37ee760a2','e1d5b048f55ac0d50b7ffc1f5608575a','b04b0d3fdfc18dfcdc79d88e3b71474c','ada1c23b6c6fd9be5a216c363944c790','4573b087446a051355b94c1e52c91f3a','2905b17d62dd48f00292ace0468e1f17','20e207ee40e30a3431ff249d15458d41','ad7236eb2882e0f57ccfbad2f4f9e236','ec5c33af48e612bd3262b10e3af2a9da','faba44bed0c130a2b9b71ab8b5260399','553cc3169e71d9e4bde1f53d46e718c1','ccaf7086dec1f08ded4c4ff8927b49de','32a48ac7ef4374cb674b436a4b6a396a','e8074e6f2563fcb528aa7c3d979680df','37f86573c9f3a4abe116652ad37fb911','e2fc5c7f1c207376973b124c730da059','d96145d88e426c05207e8307a8ea265c','10704c4517c4461d44f1fab84b846ddf','18fb6493da869868420270b541752d13','143e7f077def6d7c5a3d10010f869fda','25d468c57ef67ed6c216baab781934bb','2644c607933c2f6621a08245f958fe40','3751cdd85d8906b7ec5a8bc0e09a8b26'];
+    const a = ids.slice(0, 12).map(i => B + i);
+    const bp = [[10,14,150,110,-4],[150,30,110,140,3],[270,6,170,110,-2],[440,24,140,120,5],[20,140,130,130,3],[160,170,170,110,-3],[340,140,120,150,4],[470,160,140,100,-5],[90,250,150,100,2],[300,240,160,110,-1]];
+    const b = bp.map((p, k) => ({ img: B + ids[(k + 5) % ids.length], x: p[0], y: p[1], w: p[2], h: p[3], r: p[4] }));
+    const d = [];
+    let k = 0;
+    for (let r = 0; r < 5; r++) for (let c = 0; c < 11; c++) {
+      const d2 = (c - 5.2) * (c - 5.2) + (r - 2) * (r - 2);
+      const s = 1 + 0.9 * Math.exp(-d2 / 2.2);
+      d.push({ img: B + ids[(k * 5) % ids.length], x: 20 + c * 56, y: 20 + r * 56, s: s.toFixed(2), z: Math.round(s * 10) });
+      k++;
+    }
+    return { a, b, d };
+  }
+}
+</script>
+</body>
+</html>

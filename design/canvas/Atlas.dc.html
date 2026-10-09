@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — atlas and visual search</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif">
+  <header style="position: absolute; left: 0; right: 0; top: 0; height: 64px; display: flex; align-items: center; justify-content: space-between; padding: 0 24px; box-sizing: border-box; border-bottom: 1px solid #CFCDC6">
+    <div style="display: flex; align-items: baseline; gap: 18px">
+      <span style="font-size: 26px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em">Dérive</span>
+      <span style="font-weight: 850; font-stretch: 125%; font-size: 18px; letter-spacing: -0.01em">ATLAS</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">WHERE AND WHEN · 10,482 BUILDINGS</span>
+    </div>
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #8E95FF; background: #111110; padding: 6px 8px">FUTURE · EXPLORE BY PLACE, TIME, SHAPE</span>
+  </header>
+
+  <sc-for list="{{land}}" as="p" hint-placeholder-count="600">
+    <div style="position: absolute; left: {{p.x}}px; top: {{p.y}}px; width: 4px; height: 4px; background: {{p.c}}"></div>
+  </sc-for>
+  <sc-for list="{{pins}}" as="p" hint-placeholder-count="14">
+    <div style="position: absolute; left: {{p.x}}px; top: {{p.y}}px; transform: translate(-50%, -50%); display: flex; align-items: center; gap: 4px">
+      <img src="{{p.img}}" alt="{{p.name}}" style="width: {{p.s}}px; height: {{p.s}}px; object-fit: cover; outline: 2px solid #111110; display: block">
+      <sc-if value="{{p.hasN}}" hint-placeholder-val="{{false}}"><span style="background: #111110; color: #EDEDE9; font-family: 'IBM Plex Mono', monospace; font-size: 10px; padding: 2px 4px">{{p.n}}</span></sc-if>
+    </div>
+  </sc-for>
+
+  <svg width="1020" height="560" viewBox="0 0 1020 560" style="position: absolute; left: 0; top: 0" fill="none" stroke="#111110" stroke-width="1.5"><path d="{{line}}"/></svg>
+  <div style="position: absolute; left: {{popX}}px; top: {{popY}}px; width: 300px; background: #111110; color: #EDEDE9; padding: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); display: flex; flex-direction: column; gap: 8px">
+    <div style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em"><span style="color: #8E95FF">RAJASTHAN + GUJARAT</span><span>128 BUILDINGS</span></div>
+    <div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 3px">
+      <img src="/_blob/3e3eb3ef4bee0afa4edbe7b642a69193" alt="Hawa Mahal" style="width: 100%; height: 60px; object-fit: cover">
+      <img src="/_blob/e1d5b048f55ac0d50b7ffc1f5608575a" alt="Chand Baori" style="width: 100%; height: 60px; object-fit: cover">
+      <img src="/_blob/e2fc6cc6a38dd5c5c4e8c5b429b467d8" alt="Jawahar Kala Kendra" style="width: 100%; height: 60px; object-fit: cover">
+      <img src="/_blob/37f86573c9f3a4abe116652ad37fb911" alt="Sangath" style="width: 100%; height: 60px; object-fit: cover">
+    </div>
+    <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 17px; line-height: 1.2">A day trip from Jaipur: a palace screen, a stepwell and a mandala.</span>
+    <span style="font-size: 13px; font-weight: 600; color: #8E95FF">Plan a drift through this region →</span>
+  </div>
+
+  <div style="position: absolute; left: 40px; top: 560px; width: 940px; display: flex; flex-direction: column; gap: 8px">
+    <div style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em"><span>WHEN · DRAG TO SET A WINDOW</span><span style="color: #2D3BF0">1950–1980 · 2,311 BUILDINGS</span></div>
+    <div style="display: flex; align-items: flex-end; gap: 2px; height: 90px; border-bottom: 1px solid #111110; position: relative">
+      <sc-for list="{{bars}}" as="b" hint-placeholder-count="80">
+        <div style="flex: 1 1 0; height: {{b.h}}px; background: {{b.c}}"></div>
+      </sc-for>
+    </div>
+    <div style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #5D5C57"><span>800</span><span>1200</span><span>1600</span><span>1800</span><span>1900</span><span>1950</span><span>2000</span><span>2026</span></div>
+  </div>
+
+  <div style="position: absolute; left: 40px; top: 730px; width: 940px; display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 6px">
+    <sc-for list="{{era}}" as="e" hint-placeholder-count="6">
+      <div style="display: flex; flex-direction: column; gap: 4px">
+        <img src="{{e.img}}" alt="" style="width: 100%; height: 96px; object-fit: cover; display: block">
+        <span style="font-size: 12px; font-weight: 700">{{e.name}} <span style="font-family: 'IBM Plex Mono', monospace; font-weight: 400; color: #5D5C57">{{e.y}}</span></span>
+      </div>
+    </sc-for>
+  </div>
+
+  <aside style="position: absolute; right: 0; top: 64px; bottom: 0; width: 420px; background: #F7F7F5; border-left: 1px solid #CFCDC6; padding: 24px; box-sizing: border-box; display: flex; flex-direction: column; gap: 14px">
+    <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">SEARCH BY SHAPE</span>
+    <span style="font-weight: 850; font-stretch: 125%; font-size: 26px; letter-spacing: -0.02em; line-height: 1">DRAW IT. OR DROP A PHOTO.</span>
+    <div style="height: 200px; border: 1.5px dashed #111110; background: #fff; position: relative">
+      <svg width="370" height="196" viewBox="0 0 370 196" fill="none" stroke="#111110" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" style="position: absolute; left: 0; top: 0">
+        <path d="M95 160 L95 90 Q95 40 185 38 Q275 40 275 90 L275 160"/>
+        <path d="M130 160 L130 100 Q130 70 185 68 Q240 70 240 100 L240 160"/>
+        <path d="M60 175 L110 175 L110 165 L150 165 L150 155 L220 155 L220 165 L260 165 L260 175 L310 175"/>
+      </svg>
+      <span style="position: absolute; right: 8px; bottom: 6px; font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #5D5C57">YOUR SKETCH</span>
+    </div>
+    <div style="font-size: 14px; line-height: 1.4"><span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #2D3BF0">READ AS ·</span> a deep arch over a few steps</div>
+    <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px">
+      <sc-for list="{{shape}}" as="s" hint-placeholder-count="6">
+        <div style="display: flex; flex-direction: column; gap: 4px">
+          <img src="{{s.img}}" alt="" style="width: 100%; height: 92px; object-fit: cover; display: block">
+          <span style="display: flex; justify-content: space-between; font-size: 11px; font-weight: 700"><span>{{s.name}}</span><span style="font-family: 'IBM Plex Mono', monospace; font-weight: 400; color: #2D3BF0">{{s.s}}</span></span>
+        </div>
+      </sc-for>
+    </div>
+    <span style="margin-top: auto; font-family: 'Newsreader', serif; font-style: italic; font-size: 18px; line-height: 1.25; color: #3E3D39">Find buildings by shape, not by name, for when you remember what it looked like but not what it was called.</span>
+  </aside>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const R = {
+      75: [[-120,-75],[-70,-20],[15,25],[60,140]],
+      70: [[-165,-140],[-140,-60],[-55,-20],[15,30],[30,180]],
+      65: [[-165,-140],[-140,-95],[-80,-62],[-50,-25],[-25,-15],[10,30],[30,180]],
+      60: [[-160,-140],[-140,-95],[-78,-65],[-50,-42],[5,30],[30,165]],
+      55: [[-130,-92],[-80,-60],[-8,0],[8,40],[40,160]],
+      50: [[-125,-55],[-5,0],[0,40],[40,140],[140,145]],
+      45: [[-125,-65],[-5,28],[40,135],[140,145]],
+      40: [[-125,-75],[-10,0],[10,28],[26,45],[45,120],[125,130],[138,142]],
+      35: [[-120,-77],[-10,10],[35,50],[45,62],[60,75],[75,122],[130,140]],
+      30: [[-115,-82],[-10,32],[32,50],[48,62],[62,90],[90,122]],
+      25: [[-110,-97],[-15,35],[36,56],[66,92],[92,120]],
+      20: [[-105,-87],[-85,-75],[-17,38],[40,58],[72,87],[92,110]],
+      15: [[-92,-84],[-17,42],[43,52],[74,80],[97,108],[120,125]],
+      10: [[-85,-77],[-75,-60],[-15,50],[76,80],[98,106],[122,126]],
+      5: [[-78,-50],[-10,48],[100,104],[110,118]],
+      0: [[-80,-50],[10,42],[95,105],[110,118],[120,125]],
+      '-5': [[-80,-35],[12,40],[105,115],[132,150]],
+      '-10': [[-78,-37],[13,40],[115,125],[130,142]],
+      '-15': [[-76,-39],[12,40],[44,50],[125,145]],
+      '-20': [[-70,-40],[13,35],[44,48],[114,150]],
+      '-25': [[-70,-45],[15,33],[114,153]],
+      '-30': [[-72,-50],[17,31],[115,153]],
+      '-35': [[-72,-55],[18,25],[117,150],[173,178]],
+      '-40': [[-73,-62],[145,148],[172,176]],
+      '-45': [[-75,-65],[167,171]],
+      '-50': [[-75,-68]]
+    };
+    const X0 = 40, Y0 = 96, S = 13;
+    const px = lon => X0 + (lon + 180) / 5 * S * 1.0;
+    const py = lat => Y0 + (75 - lat) / 5 * S;
+    const land = [];
+    Object.keys(R).forEach(k => {
+      const lat = Number(k);
+      R[k].forEach(([a, b]) => {
+        for (let lon = a; lon < b; lon += 2.5) {
+          for (let sub = 0; sub < 2; sub++) {
+            land.push({ x: Math.round(px(lon)), y: Math.round(py(lat - sub * 2.5)), c: '#B9B7B0' });
+          }
+        }
+      });
+    });
+    const B = '/_blob/';
+    const P = (lat, lon, id, name, n, s) => ({ x: Math.round(px(lon)), y: Math.round(py(lat)), img: B + id, name, n: n || '', hasN: !!n, s: s || 26 });
+    const pins = [
+      P(19.4, -99.1, 'b04b0d3fdfc18dfcdc79d88e3b71474c', 'Casa Gilardi', '212', 30),
+      P(-23.5, -46.6, '2905b17d62dd48f00292ace0468e1f17', 'MASP', '340', 30),
+      P(4.6, -74.1, 'f0bc254bfe41bd7de738e3476dc7bdac', 'Torres del Parque', '96'),
+      P(32.9, -117.2, '7808c6f5438936b491a834d37ee760a2', 'Salk Institute', '1.2K', 30),
+      P(45.5, -73.6, '25d468c57ef67ed6c216baab781934bb', 'Habitat 67', '180'),
+      P(51.5, -0.1, 'ec5c33af48e612bd3262b10e3af2a9da', 'Barbican', '2.4K', 34),
+      P(13.9, -4.5, '4573b087446a051355b94c1e52c91f3a', 'Djenné', '75'),
+      P(12.0, -0.4, 'faba44bed0c130a2b9b71ab8b5260399', 'Gando', ''),
+      P(-1.3, 36.8, 'e25f91328830ca80335ed93784765fd4', 'KICC', '64'),
+      P(-33.9, 18.4, '0e84e07fdd45f2d8040689cf1af84ca0', 'Zeitz MOCAA', '88'),
+      P(29.6, 52.5, '8257a396a6bfb43f86d4ca5886e904de', 'Nasir al-Mulk', '230'),
+      P(26.9, 75.8, '3e3eb3ef4bee0afa4edbe7b642a69193', 'Hawa Mahal', '128', 34),
+      P(35.7, 139.7, 'ad7236eb2882e0f57ccfbad2f4f9e236', 'Nakagin', '890', 30),
+      P(29.9, 121.6, 'e8074e6f2563fcb528aa7c3d979680df', 'Ningbo', '410'),
+      P(10.8, 106.7, '6dbf3b6fae36882a71eb03067fbd09a8', 'Stacking Green', '57')
+    ];
+    const hw = pins[11];
+    const bars = [];
+    for (let i = 0; i < 80; i++) {
+      const t = i / 79;
+      let h = 6 + Math.pow(t, 3) * 70 + (i % 7) * 1.5;
+      if (i >= 66 && i <= 72) h += 14;
+      bars.push({ h: Math.round(Math.min(88, h)), c: i >= 66 && i <= 72 ? '#2D3BF0' : '#9C9B95' });
+    }
+    return {
+      land, pins, popX: 700, popY: 318, line: 'M' + hw.x + ' ' + (hw.y + 16) + ' L760 318', bars,
+      era: [
+        { img: B + 'd96145d88e426c05207e8307a8ea265c', name: 'Unité', y: '1952' },
+        { img: B + '10704c4517c4461d44f1fab84b846ddf', name: 'Ronchamp', y: '1955' },
+        { img: B + 'b10ac8336573d6c4b99be41eb5e42117', name: 'Chandigarh', y: '1962' },
+        { img: B + 'a8915a5fa2cb57d621ce78c45638a180', name: 'Yoyogi', y: '1964' },
+        { img: B + '2905b17d62dd48f00292ace0468e1f17', name: 'MASP', y: '1968' },
+        { img: B + '6c8da5a2716e9fbe026e175edd25ee50', name: 'Trellick', y: '1972' }
+      ],
+      shape: [
+        { img: B + 'c564573035a920737d8574a222e1c18b', name: 'IIM', s: '.91' },
+        { img: B + '453cfcc7ca0c7605680d16b4f6c5e808', name: 'Azadi', s: '.88' },
+        { img: B + '50cfdc2e9e17b49b27021c66d06230a8', name: 'New Gourna', s: '.86' },
+        { img: B + 'ec5c33af48e612bd3262b10e3af2a9da', name: 'Barbican', s: '.79' },
+        { img: B + 'e041a7d37159e8c5ad2389e9b73ad9ba', name: 'Kolumba', s: '.74' },
+        { img: B + 'e1d5b048f55ac0d50b7ffc1f5608575a', name: 'Chand Baori', s: '.71' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

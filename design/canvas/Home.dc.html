@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dérive — homepage</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#2D3BF0}a:hover{color:#1A24B8}
+.wall .tile{transition:opacity .2s ease, filter .2s ease}
+.wall:hover .tile{opacity:.35;filter:grayscale(.7)}
+.wall .tile:hover{opacity:1;filter:none}
+.tile img{transition:transform .4s ease}
+.tile:hover img{transform:scale(1.03)}
+.tile .lab{opacity:0;transform:translateY(6px);transition:opacity .12s ease, transform .12s ease}
+.tile:hover .lab{opacity:1;transform:none}
+.tile button:focus-visible{outline:3px solid #2D3BF0;outline-offset:-3px}
+.dock button:hover,.dock a:hover{background:#2A2A28}
+.dock .go:hover{background:#1A24B8}
+.chip:hover{background:#fff}
+.rel:hover img{opacity:.8}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background: #EDEDE9; color: #111110; font-family: 'Archivo', sans-serif">
+  <header style="position: absolute; left: 0; right: 0; top: 0; height: 60px; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-sizing: border-box">
+    <div style="display: flex; align-items: baseline; gap: 18px">
+      <span style="font-size: 26px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.04em">Dérive</span>
+      <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">100 BUILDINGS · NO AGENDA</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 18px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em">
+      <div style="display: flex; align-items: center; gap: 4px">
+        <span style="color: #5D5C57; padding-right: 6px">TRAIL</span>
+        <sc-for list="{{trail}}" as="tr" hint-placeholder-count="0"><img src="{{tr.img}}" alt="{{tr.name}}" style="width: 26px; height: 26px; object-fit: cover"></sc-for>
+        <span style="width: 26px; height: 26px; border: 1.5px dashed #2D3BF0; box-sizing: border-box"></span>
+      </div>
+      <span>SEEN <b>{{seenTxt}}</b>/100</span>
+      <a href="#" style="color: #111110; text-decoration: none">ABOUT</a>
+    </div>
+  </header>
+
+  <sc-if value="{{isNear}}" hint-placeholder-val="{{false}}">
+    <div class="wall" style="position: absolute; left: 12px; right: 12px; top: 60px; bottom: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: 400px; gap: 6px; overflow: hidden">
+      <sc-for list="{{tiles}}" as="t" hint-placeholder-count="8">
+        <div class="tile" style="position: relative; overflow: hidden; background: #D9D8D3">
+          <button type="button" aria-label="Open {{t.name}}" onClick="{{t.onOpen}}" style="all: unset; position: absolute; inset: 0; cursor: pointer; display: block">
+            <img src="{{t.img}}" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block">
+          </button>
+          <div style="position: absolute; left: 0; bottom: 0; background: #111110; color: #EDEDE9; padding: 8px 12px 10px; pointer-events: none">
+            <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #8E95FF">{{t.no}}/100 · {{t.typeU}}</div>
+            <div style="font-weight: 850; font-stretch: 125%; font-size: 16px">{{t.nameU}}</div>
+            <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #BDBDB6">{{t.placeU}} · {{t.year}}</div>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{isWall}}" hint-placeholder-val="{{true}}">
+    <div class="wall" style="position: absolute; left: 12px; right: 12px; top: 60px; height: 820px; display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); grid-template-rows: repeat(7, 112px); gap: 6px; overflow: hidden">
+      <div style="grid-column: 4 / span 2; grid-row: 1 / span 1; background: #111110; color: #EDEDE9; padding: 14px 16px; display: flex; flex-direction: column; justify-content: space-between">
+        <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 28px; line-height: 1">{{prompt}}</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: #8E95FF">{{promptSub}}</span>
+      </div>
+      <sc-for list="{{tiles}}" as="t" hint-placeholder-count="22">
+        <div class="tile" style="grid-column: {{t.gc}}; grid-row: {{t.gr}}; position: relative; overflow: hidden; background: #D9D8D3">
+          <button type="button" aria-label="Open {{t.name}}" onClick="{{t.onOpen}}" style="all: unset; position: absolute; inset: 0; cursor: pointer; display: block">
+            <img src="{{t.img}}" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block">
+          </button>
+          <div class="lab" style="position: absolute; left: 0; bottom: 0; max-width: 100%; box-sizing: border-box; background: #111110; color: #EDEDE9; padding: 7px 10px 8px; pointer-events: none">
+            <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #8E95FF; white-space: nowrap">{{t.no}}/100 · {{t.typeU}}</div>
+            <div style="font-weight: 850; font-stretch: 125%; font-size: 14px; line-height: 1.15">{{t.nameU}}</div>
+            <div style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #BDBDB6; white-space: nowrap">{{t.placeU}} · {{t.year}}</div>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{isField}}" hint-placeholder-val="{{false}}">
+    <div class="wall" style="position: absolute; left: 12px; right: 12px; top: 60px; height: 820px; display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); grid-auto-rows: 95px; gap: 6px; overflow: hidden">
+      <div style="grid-column: span 2; background: #111110; color: #EDEDE9; padding: 10px 12px; display: flex; flex-direction: column; justify-content: space-between">
+        <span style="font-family: 'Newsreader', serif; font-style: italic; font-size: 22px; line-height: 1">All of it.</span>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: #8E95FF">ZOOM 3 · FIELD</span>
+      </div>
+      <sc-for list="{{tiles}}" as="t" hint-placeholder-count="98">
+        <div class="tile" style="position: relative; overflow: hidden; background: #D9D8D3">
+          <button type="button" aria-label="Open {{t.name}}" onClick="{{t.onOpen}}" style="all: unset; position: absolute; inset: 0; cursor: pointer; display: block">
+            <img src="{{t.img}}" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block">
+          </button>
+        </div>
+      </sc-for>
+    </div>
+  </sc-if>
+
+  <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 120px; background: linear-gradient(rgba(237,237,233,0), #EDEDE9); pointer-events: none"></div>
+
+  <div class="dock" style="position: absolute; left: 50%; bottom: 22px; transform: translateX(-50%); display: flex; background: #111110; color: #EDEDE9; font-size: 14px; font-weight: 600; box-shadow: 0 10px 30px rgba(0,0,0,0.25)">
+    <button type="button" onClick="{{shuffle}}" style="all: unset; padding: 15px 18px; display: flex; gap: 9px; align-items: center; cursor: pointer"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5M4 20 21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>Shuffle</button>
+    <button type="button" class="go" onClick="{{surprise}}" style="all: unset; padding: 15px 22px; background: #2D3BF0; color: #fff; cursor: pointer">Surprise me</button>
+    <a href="Search.dc.html" style="color: #EDEDE9; text-decoration: none; padding: 15px 18px">Filter</a>
+    <a href="Search.dc.html" aria-label="Search" style="color: #EDEDE9; text-decoration: none; padding: 15px 16px; display: flex; align-items: center"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg></a>
+    <span style="width: 1px; background: #3A3A37; margin: 10px 0"></span>
+    <button type="button" aria-label="Zoom in" onClick="{{zoomIn}}" style="all: unset; padding: 15px 16px; cursor: pointer; font-family: 'IBM Plex Mono', monospace">+</button>
+    <span style="padding: 15px 4px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: #BDBDB6; display: flex; align-items: center">{{zoomTxt}}</span>
+    <button type="button" aria-label="Zoom out" onClick="{{zoomOut}}" style="all: unset; padding: 15px 16px; cursor: pointer; font-family: 'IBM Plex Mono', monospace">−</button>
+  </div>
+
+  <sc-if value="{{hasOpen}}" hint-placeholder-val="{{false}}">
+    <div style="position: absolute; inset: 0; z-index: 20">
+      <button type="button" aria-label="Close" onClick="{{close}}" style="all: unset; position: absolute; inset: 0; background: {{veil}}; cursor: zoom-out"></button>
+      <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 1120px; height: 700px; background: #F7F7F5; display: grid; grid-template-columns: 520px 1fr; box-shadow: 0 30px 80px rgba(0,0,0,0.4)">
+        <img src="{{o.img}}" alt="{{o.name}}" style="width: 520px; height: 700px; object-fit: cover; display: block">
+        <div style="padding: 34px 40px; display: flex; flex-direction: column; gap: 16px; overflow: hidden">
+          <div style="display: flex; justify-content: space-between; align-items: center">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: {{o.kickerColor}}">{{o.kicker}}</span>
+            <button type="button" aria-label="Close" onClick="{{close}}" style="all: unset; cursor: pointer; width: 44px; height: 44px; display: flex; align-items: center; justify-content: center"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#111110" stroke-width="2"><path d="M5 5l14 14M19 5 5 19"/></svg></button>
+          </div>
+          <h2 style="margin: 0; font-size: 46px; font-weight: 850; font-stretch: 125%; letter-spacing: -0.03em; line-height: 0.95">{{o.nameU}}</h2>
+          <div style="font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.05em; color: #5D5C57">{{o.archU}} · {{o.placeU}} · {{o.year}}</div>
+          <p style="margin: 0; font-family: 'Newsreader', serif; font-style: italic; font-size: 28px; line-height: 1.2">{{o.hook}}</p>
+          <div style="display: flex; gap: 6px; flex-wrap: wrap">
+            <sc-for list="{{o.tags}}" as="g" hint-placeholder-count="3">
+              <button type="button" class="chip" onClick="{{g.go}}" style="all: unset; cursor: pointer; border: 1px solid #111110; padding: 9px 12px; font-size: 13px; font-weight: 600">{{g.label}} ↗</button>
+            </sc-for>
+          </div>
+          <div style="display: flex; gap: 10px; align-items: center">
+            <a href="Building.dc.html" style="background: #111110; color: #EDEDE9; text-decoration: none; padding: 13px 18px; font-size: 14px; font-weight: 600">Open the building</a>
+            <sc-if value="{{o.isSurprise}}" hint-placeholder-val="{{false}}">
+              <button type="button" onClick="{{surprise}}" style="all: unset; cursor: pointer; background: #2D3BF0; color: #fff; padding: 13px 18px; font-size: 14px; font-weight: 600">Again ↻</button>
+            </sc-if>
+          </div>
+          <div style="margin-top: auto; border-top: 1px solid #CFCDC6; padding-top: 14px; display: flex; flex-direction: column; gap: 10px">
+            <span style="font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.06em; color: #5D5C57">DRIFT ONWARD — {{o.relWhy}}</span>
+            <div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px">
+              <sc-for list="{{o.rel}}" as="r" hint-placeholder-count="4">
+                <button type="button" class="rel" onClick="{{r.go}}" style="all: unset; cursor: pointer; display: flex; flex-direction: column; gap: 6px">
+                  <img src="{{r.img}}" alt="" style="width: 100%; height: 96px; object-fit: cover; display: block">
+                  <span style="font-size: 12px; font-weight: 700; line-height: 1.2">{{r.name}}</span>
+                </button>
+              </sc-for>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  db() {
+    if (this._db) return this._db;
+    const B = '/_blob/';
+    const raw = [
+      ['casa_gilardi','b04b0d3fdfc18dfcdc79d88e3b71474c','071','Casa Gilardi','Luis Barragán','Mexico City, MX','1976','House','A house where colour, water and light become one experience.','colour,water,light,courtyard,house'],
+      ['cuadra','5fa0f7cf2e3d4dffcb0f9e136409df24','072','Cuadra San Cristóbal','Luis Barragán','Los Clubes, MX','1968','Stable','A stable for horses that feels like a painting you can walk through.','colour,water,landscape'],
+      ['masp','2905b17d62dd48f00292ace0468e1f17','012','MASP','Lina Bo Bardi','São Paulo, BR','1968','Museum','A museum lifted eight metres so the city keeps its view and its plaza.','public,concrete,colour'],
+      ['sesc','1f01946ebcc9ec607db97186d00b4071','013','SESC Pompéia','Lina Bo Bardi','São Paulo, BR','1986','Leisure centre','A drum factory turned public living room, with windows punched like cave mouths.','concrete,reuse,public'],
+      ['brasilia','e2fc5c7f1c207376973b124c730da059','014','Cathedral of Brasília','Oscar Niemeyer','Brasília, BR','1970','Cathedral','Sixteen concrete ribs that read as hands opening toward the sky.','sacred,light,concrete,geometry'],
+      ['torres','f0bc254bfe41bd7de738e3476dc7bdac','016','Torres del Parque','Rogelio Salmona','Bogotá, CO','1970','Housing','Brick towers that bend around a bullring and a hillside park.','brick,tower,landscape,housing'],
+      ['hawa','3e3eb3ef4bee0afa4edbe7b642a69193','077','Hawa Mahal','Lal Chand Ustad','Jaipur, IN','1799','Palace','A façade of 953 windows built so royal women could watch the street unseen.','screen,colour,geometry'],
+      ['iim','c564573035a920737d8574a222e1c18b','040','IIM Ahmedabad','Louis Kahn','Ahmedabad, IN','1974','Campus','Brick and concrete arguing politely, with circles cut deep into solid walls.','brick,geometry,light'],
+      ['chandigarh','b10ac8336573d6c4b99be41eb5e42117','041','Palace of Assembly','Le Corbusier','Chandigarh, IN','1962','Parliament','A parliament with a concrete hyperboloid for a chamber and a door painted by its architect.','concrete,public,geometry,water'],
+      ['chand_baori','e1d5b048f55ac0d50b7ffc1f5608575a','047','Chand Baori','Unknown builders','Abhaneri, IN','c. 800','Stepwell','3,500 steps folded into a geometry that looks infinite.','stairs,water,geometry,stone'],
+      ['jkk','e2fc6cc6a38dd5c5c4e8c5b429b467d8','043','Jawahar Kala Kendra','Charles Correa','Jaipur, IN','1991','Arts centre','A cultural centre planned as a nine-square mandala in red sandstone.','colour,geometry,stone,courtyard'],
+      ['sangath','37f86573c9f3a4abe116652ad37fb911','019','Sangath','B. V. Doshi','Ahmedabad, IN','1981','Studio','Low vaults clad in broken china, half-sunk into a garden of water steps.','vault,water,landscape'],
+      ['baker','d5fd19b2a62dcd565830eef3481c41fa','044','Centre for Development Studies','Laurie Baker','Thiruvananthapuram, IN','1971','Campus','Brick walls full of holes that cool the air and cost almost nothing.','brick,screen,light'],
+      ['church_light','20e207ee40e30a3431ff249d15458d41','058','Church of the Light','Tadao Ando','Ibaraki, JP','1989','Church','A concrete box, a cross cut out of the wall, and nothing else needed.','light,concrete,sacred'],
+      ['nakagin','ad7236eb2882e0f57ccfbad2f4f9e236','063','Nakagin Capsule Tower','Kisho Kurokawa','Tokyo, JP','1972','Housing','140 replaceable capsules plugged into two towers: the future that wasn’t.','modular,tower,housing'],
+      ['moriyama','e9a64336b6d61f8d38e4d42a62dde6ea','064','Moriyama House','Ryue Nishizawa','Tokyo, JP','2005','House','A house split into ten white boxes, with the garden running between rooms.','house,modular,courtyard'],
+      ['teshima','ad44a40cef1fa544143a1a7d66697f4a','065','Teshima Art Museum','Ryue Nishizawa, Rei Naito','Teshima, JP','2010','Museum','A concrete shell where droplets of water wander across the floor all day.','water,landscape,light'],
+      ['katsura','1ab4c5e4e572e711cbd7689aa141c9c4','060','Katsura Imperial Villa','Prince Toshihito','Kyoto, JP','17th c.','Villa','The villa that taught modernists about grids, screens and walking through a garden.','timber,landscape,screen'],
+      ['yoyogi','a8915a5fa2cb57d621ce78c45638a180','061','Yoyogi National Gymnasium','Kenzo Tange','Tokyo, JP','1964','Arena','A suspended roof that swoops like a tent made of steel.','roof,public'],
+      ['barbican','ec5c33af48e612bd3262b10e3af2a9da','015','Barbican Estate','Chamberlin, Powell & Bon','London, UK','1982','Housing','A brutalist village in the City of London, complete with lake and conservatory.','concrete,water,housing'],
+      ['unite','d96145d88e426c05207e8307a8ea265c','020','Unité d’Habitation','Le Corbusier','Marseille, FR','1952','Housing','A vertical town of 337 flats, with a shopping street halfway up.','concrete,housing,colour'],
+      ['ronchamp','10704c4517c4461d44f1fab84b846ddf','021','Notre-Dame du Haut','Le Corbusier','Ronchamp, FR','1955','Chapel','A hilltop chapel with a roof like a hull and walls pierced by coloured light.','sacred,light,colour'],
+      ['vals','18fb6493da869868420270b541752d13','023','Therme Vals','Peter Zumthor','Vals, CH','1996','Baths','Thermal baths carved as if from a single quarry of layered stone.','stone,water,light'],
+      ['brion','9e29646a54530bda4dfc1d5c53e57490','025','Brion Cemetery','Carlo Scarpa','San Vito d’Altivole, IT','1978','Memorial','A family tomb that becomes a garden of water, concrete and interlocking circles.','water,concrete,geometry'],
+      ['barcelona','143e7f077def6d7c5a3d10010f869fda','024','Barcelona Pavilion','Mies van der Rohe, Lilly Reich','Barcelona, ES','1929','Pavilion','A pavilion of planes and precious stone, built to be looked through.','stone,water,light'],
+      ['trellick','6c8da5a2716e9fbe026e175edd25ee50','026','Trellick Tower','Ernő Goldfinger','London, UK','1972','Housing','A tower with its lifts pulled out into a separate spine, linked every third floor.','concrete,tower,housing'],
+      ['kolumba','e041a7d37159e8c5ad2389e9b73ad9ba','027','Kolumba Museum','Peter Zumthor','Cologne, DE','2007','Museum','A museum woven over the ruins of a Gothic church with a veil of perforated brick.','brick,reuse,screen,light'],
+      ['tate','2644c607933c2f6621a08245f958fe40','028','Tate Modern','Herzog & de Meuron','London, UK','2000','Museum','A power station that now generates looking.','brick,reuse,tower'],
+      ['can_lis','b1b72df513955b03b665ae1025ce1443','029','Can Lis','Jørn Utzon','Mallorca, ES','1972','House','A house on a cliff where every window is a framed piece of sea.','stone,house,landscape'],
+      ['habitat','25d468c57ef67ed6c216baab781934bb','030','Habitat 67','Moshe Safdie','Montréal, CA','1967','Housing','354 prefabricated boxes stacked so every flat gets a garden on a neighbour’s roof.','modular,housing,concrete'],
+      ['salk','7808c6f5438936b491a834d37ee760a2','031','Salk Institute','Louis Kahn','La Jolla, US','1965','Laboratory','A courtyard of travertine, a line of water and the Pacific as the fourth wall.','concrete,water,courtyard,light'],
+      ['gando','faba44bed0c130a2b9b71ab8b5260399','066','Gando Primary School','Diébédo Francis Kéré','Gando, BF','2001','School','A school built by its village, cooled by a roof that floats above it.','roof,earth,brick'],
+      ['djenne','4573b087446a051355b94c1e52c91f3a','052','Great Mosque of Djenné','Ismaila Traoré','Djenné, ML','1907','Mosque','The largest mud-brick building on earth, re-plastered by the whole town each year.','earth,sacred'],
+      ['kicc','e25f91328830ca80335ed93784765fd4','053','Kenyatta Int’l Convention Centre','Karl Henrik Nøstvik','Nairobi, KE','1973','Civic centre','A cylinder tower crowned with a saucer: the skyline of a newly independent Kenya.','tower,public'],
+      ['zeitz','0e84e07fdd45f2d8040689cf1af84ca0','054','Zeitz MOCAA','Heatherwick Studio','Cape Town, ZA','2017','Museum','A grain silo carved from the inside out to become a museum.','reuse,concrete'],
+      ['lalibela','ccaf7086dec1f08ded4c4ff8927b49de','036','Church of St George','Unknown builders','Lalibela, ET','c. 1200','Church','A church cut down into solid rock in the shape of a single cross.','stone,sacred,geometry'],
+      ['nasir','8257a396a6bfb43f86d4ca5886e904de','057','Nasir al-Mulk Mosque','Mohammad Hasan-e-Memar','Shiraz, IR','1888','Mosque','A mosque made for the hour after sunrise, when the floor turns into colour.','colour,light,sacred'],
+      ['ima','553cc3169e71d9e4bde1f53d46e718c1','038','Institut du Monde Arabe','Jean Nouvel','Paris, FR','1987','Cultural centre','A façade of metal irises that open and close with the sun, like camera lenses.','screen,light,geometry'],
+      ['azadi','453cfcc7ca0c7605680d16b4f6c5e808','056','Azadi Tower','Hossein Amanat','Tehran, IR','1971','Monument','A gateway that folds Iranian vaulting into poured concrete and marble.','geometry,public'],
+      ['qatar','3751cdd85d8906b7ec5a8bc0e09a8b26','059','National Museum of Qatar','Jean Nouvel','Doha, QA','2019','Museum','A museum of 316 interlocking discs, grown from a desert rose crystal.','geometry,roof'],
+      ['gourna','50cfdc2e9e17b49b27021c66d06230a8','050','New Gourna Village','Hassan Fathy','Luxor, EG','1948','Village','A village of mud domes and vaults built to prove earth can house a nation.','earth,vault,housing'],
+      ['shibam','2bb38eaf9abec9407fb21c9e0ed45deb','051','Shibam','Hadhrami builders','Hadhramaut, YE','16th c.','Town','Mud-brick towers up to eleven storeys, standing for five centuries.','earth,tower,housing'],
+      ['bruder','edb1ff179712604a92e19b8d373275d4','094','Bruder Klaus Field Chapel','Peter Zumthor','Mechernich, DE','2007','Chapel','A chapel cast around 112 tree trunks, then burned hollow from the inside.','sacred,light,concrete'],
+      ['superkilen','32a48ac7ef4374cb674b436a4b6a396a','089','Superkilen','BIG, Topotek 1, Superflex','Copenhagen, DK','2012','Public space','A park furnished with objects from the 60 nationalities living around it.','public,colour,landscape'],
+      ['malaparte','7a530fd9a1b600570bd214c6a78d4222','032','Casa Malaparte','Adalberto Libera','Capri, IT','1937','House','A red house on a cliff whose roof is a staircase to nowhere but the sea.','stairs,house,landscape,colour'],
+      ['muralla','ada1c23b6c6fd9be5a216c363944c790','033','La Muralla Roja','Ricardo Bofill','Calpe, ES','1973','Housing','A labyrinth of pink walls and blue stairs that turns housing into a fortress.','stairs,colour,housing,geometry'],
+      ['stacking','6dbf3b6fae36882a71eb03067fbd09a8','091','Stacking Green','Vo Trong Nghia','Ho Chi Minh City, VN','2011','House','A narrow house whose façade is a vertical garden of planters.','house,landscape,screen'],
+      ['ningbo','e8074e6f2563fcb528aa7c3d979680df','082','Ningbo History Museum','Wang Shu','Ningbo, CN','2008','Museum','A museum built from tiles and bricks salvaged from demolished villages.','reuse,brick,stone']
+    ];
+    const list = raw.map((r, i) => ({ i, key: r[0], img: B + r[1], no: r[2], name: r[3], arch: r[4], place: r[5], year: r[6], type: r[7], hook: r[8], tags: r[9].split(',') }));
+    const byKey = {};
+    list.forEach(b => { byKey[b.key] = b.i; });
+    const slots = [
+      [1,1,3,3,'casa_gilardi'],[6,1,2,3,'church_light'],[8,1,3,2,'masp'],[11,1,2,2,'chand_baori'],[4,2,2,2,'salk'],
+      [8,3,1,2,'muralla'],[9,3,2,1,'superkilen'],[11,3,2,3,'hawa'],[1,4,2,1,'gando'],[3,4,1,2,'nakagin'],
+      [4,4,2,3,'barbican'],[6,4,2,1,'teshima'],[9,4,2,2,'djenne'],[6,5,2,2,'ima'],[8,5,1,1,'lalibela'],
+      [1,5,2,2,'sangath'],[3,6,1,1,'kolumba'],[8,6,1,2,'trellick'],[9,6,3,2,'qatar'],[12,6,1,2,'stacking'],
+      [1,7,3,1,'cuadra'],[4,7,4,1,'unite']
+    ];
+    this._db = { list, byKey, slots, initial: slots.map(s => byKey[s[4]]) };
+    return this._db;
+  }
+
+  openB(i, surprise) {
+    const st = this.state || {};
+    const trail = (st.trail || []).filter(x => x !== i).concat([i]).slice(-5);
+    const seen = Object.assign({}, st.seen || {});
+    seen[i] = true;
+    this.setState({ open: i, surprise: !!surprise, trail, seen, via: null });
+  }
+
+  renderVals() {
+    const { list, slots, initial } = this.db();
+    const st = this.state || {};
+    const zoom = st.zoom == null ? 2 : st.zoom;
+    const pick = st.pick || initial;
+    const prompts = [['Start anywhere.', '22 OF 100 · HOVER, THEN CLICK'], ['Today: thick walls.', 'SHUFFLED · 22 NEW BUILDINGS'], ['Look for the water.', 'SHUFFLED · 22 NEW BUILDINGS'], ['Find the oldest one.', 'SHUFFLED · 22 NEW BUILDINGS'], ['Something red.', 'SHUFFLED · 22 NEW BUILDINGS']];
+    const pr = prompts[(st.prompt || 0) % prompts.length];
+    const U = s => s.toUpperCase();
+    const mk = (b, extra) => Object.assign({ name: b.name, nameU: U(b.name), img: b.img, no: b.no, typeU: U(b.type), placeU: U(b.place), year: b.year, onOpen: () => this.openB(b.i, false) }, extra || {});
+    let tiles;
+    if (zoom === 2) tiles = slots.map((s, k) => mk(list[pick[k]], { gc: s[0] + ' / span ' + s[2], gr: s[1] + ' / span ' + s[3] }));
+    else if (zoom === 1) tiles = pick.slice(0, 8).map(i => mk(list[i]));
+    else { tiles = []; for (let k = 0; k < 98; k++) tiles.push(mk(list[(k * 13 + 5) % list.length])); }
+
+    const seenN = Object.keys(st.seen || {}).length;
+    const trail = (st.trail || []).map(i => ({ img: list[i].img, name: list[i].name }));
+
+    let o = {}, hasOpen = false;
+    if (st.open != null && st.open > -1) {
+      hasOpen = true;
+      const b = list[st.open];
+      const focus = st.via || null;
+      const scored = list.filter(x => x.i !== b.i).map(x => {
+        let s = x.tags.filter(t => b.tags.indexOf(t) > -1).length;
+        if (focus && x.tags.indexOf(focus) > -1) s += 5;
+        if (x.arch === b.arch) s += 2;
+        return { x, s: s + ((x.i * 7 + b.i * 3) % 10) / 100 };
+      }).sort((p, q) => q.s - p.s).slice(0, 4);
+      o = {
+        img: b.img, name: b.name, nameU: U(b.name), archU: U(b.arch), placeU: U(b.place), year: b.year, hook: b.hook,
+        kicker: st.surprise ? 'YOU CAME LOOKING FOR NOTHING. YOU FOUND:' : b.no + '/100 · ' + U(b.type),
+        kickerColor: st.surprise ? '#2D3BF0' : '#5D5C57',
+        isSurprise: !!st.surprise,
+        relWhy: focus ? 'MORE ' + U(focus) : 'SHARES ' + U(b.tags.slice(0, 2).join(' + ')),
+        tags: b.tags.map(t => ({ label: t.charAt(0).toUpperCase() + t.slice(1), go: () => this.setState({ via: t }) })),
+        rel: scored.map(p => ({ img: p.x.img, name: p.x.name, go: () => this.openB(p.x.i, false) }))
+      };
+    }
+
+    return {
+      isNear: zoom === 1, isWall: zoom === 2, isField: zoom === 3,
+      tiles, prompt: pr[0], promptSub: pr[1],
+      zoomTxt: ['NEAR', 'WALL', 'FIELD'][zoom - 1],
+      seenTxt: (seenN < 10 ? '0' : '') + seenN, trail,
+      hasOpen, o, veil: st.surprise ? 'rgba(14,14,13,0.92)' : 'rgba(14,14,13,0.72)',
+      shuffle: () => {
+        const idx = list.map(b => b.i);
+        for (let k = idx.length - 1; k > 0; k--) { const j = Math.floor(Math.random() * (k + 1)); const t = idx[k]; idx[k] = idx[j]; idx[j] = t; }
+        this.setState({ pick: idx.slice(0, 22), prompt: (st.prompt || 0) + 1 });
+      },
+      surprise: () => {
+        const seen = st.seen || {};
+        const pool = list.filter(b => !seen[b.i] && b.i !== st.open);
+        const src = pool.length ? pool : list;
+        this.openB(src[Math.floor(Math.random() * src.length)].i, true);
+      },
+      close: () => this.setState({ open: -1, surprise: false, via: null }),
+      zoomIn: () => this.setState({ zoom: Math.max(1, zoom - 1) }),
+      zoomOut: () => this.setState({ zoom: Math.min(3, zoom + 1) })
+    };
+  }
+}
+</script>
+</body>
+</html>

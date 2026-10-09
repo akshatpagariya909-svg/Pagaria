@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Direction D — Architecture Playground</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+a{color:#111}a:hover{color:#FF4A1C}
+</style>
+</helmet>
+<div style="width: 1440px; height: 900px; position: relative; overflow: hidden; background-color: #F1F1EC; background-image: radial-gradient(#C8C8C0 1px, transparent 1px); background-size: 18px 18px; color: #111; font-family: 'Bricolage Grotesque', sans-serif">
+  <div style="position: absolute; left: 32px; top: 26px; display: flex; align-items: center; gap: 16px">
+    <span style="font-weight: 800; font-size: 30px; letter-spacing: -0.03em">dérive</span>
+    <span style="font-family: 'JetBrains Mono', monospace; font-size: 11px; background: #111; color: #F1F1EC; padding: 5px 8px">FIELD · ZOOM 1.0×</span>
+  </div>
+  <div style="position: absolute; right: 32px; top: 24px; width: 360px">
+    <div style="display: flex; justify-content: space-between; font-family: 'JetBrains Mono', monospace; font-size: 11px; padding-bottom: 6px"><span>DISCOVERED</span><span><b>07</b> / 100</span></div>
+    <div style="display: grid; grid-template-columns: repeat(50, minmax(0, 1fr)); gap: 2px">
+      <sc-for list="{{ticks}}" as="k" hint-placeholder-count="100"><div style="height: 6px; background: {{k}}"></div></sc-for>
+    </div>
+  </div>
+  <sc-for list="{{tiles}}" as="t" hint-placeholder-count="72">
+    <div style="position: absolute; left: {{t.x}}px; top: {{t.y}}px; width: 96px; height: 96px; transform: scale({{t.s}}); z-index: {{t.z}}; box-shadow: {{t.sh}}; background: #ddd">
+      <img src="{{t.img}}" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block">
+      <sc-if value="{{t.seen}}" hint-placeholder-val="{{false}}"><div style="position: absolute; right: 4px; top: 4px; width: 8px; height: 8px; background: #FF4A1C"></div></sc-if>
+    </div>
+  </sc-for>
+  <div style="position: absolute; left: 812px; top: 456px; z-index: 50; background: #111; color: #F1F1EC; padding: 10px 12px; width: 220px; font-size: 13px; line-height: 1.3">
+    <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #FF4A1C">Nº 063 · NEW</div>
+    <div style="font-weight: 800; font-size: 19px; padding-top: 3px">Nakagin Capsule Tower</div>
+    <div style="opacity: 0.75; padding-top: 2px">Kisho Kurokawa · Tokyo · 1972</div>
+  </div>
+  <svg width="22" height="22" viewBox="0 0 24 24" style="position: absolute; left: 756px; top: 372px; z-index: 60" fill="none" stroke="#111" stroke-width="2"><path d="M12 2v20M2 12h20"/></svg>
+  <div style="position: absolute; left: 50%; transform: translateX(-50%); bottom: 26px; display: flex; gap: 8px; z-index: 70; font-family: 'JetBrains Mono', monospace; font-size: 12px">
+    <a href="#" style="text-decoration: none; display: flex; gap: 10px; align-items: center; background: #FF4A1C; color: #fff; padding: 12px 16px; border-bottom: 3px solid #B32E0E"><span style="border: 1px solid rgba(255,255,255,0.7); padding: 1px 6px">S</span>DEAL ME A BUILDING</a>
+    <a href="#" style="text-decoration: none; display: flex; gap: 10px; align-items: center; background: #fff; padding: 12px 16px; border: 1px solid #111; border-bottom-width: 3px"><span style="border: 1px solid #111; padding: 1px 6px">␣</span>SHUFFLE</a>
+    <a href="#" style="text-decoration: none; display: flex; gap: 10px; align-items: center; background: #fff; padding: 12px 16px; border: 1px solid #111; border-bottom-width: 3px"><span style="border: 1px solid #111; padding: 1px 6px">F</span>FILTER</a>
+    <a href="#" style="text-decoration: none; display: flex; gap: 10px; align-items: center; background: #fff; padding: 12px 16px; border: 1px solid #111; border-bottom-width: 3px"><span style="border: 1px solid #111; padding: 1px 6px">/</span>SEARCH</a>
+    <a href="#" aria-label="Zoom out" style="text-decoration: none; background: #fff; padding: 12px 16px; border: 1px solid #111; border-bottom-width: 3px">−</a>
+    <a href="#" aria-label="Zoom in" style="text-decoration: none; background: #fff; padding: 12px 16px; border: 1px solid #111; border-bottom-width: 3px">+</a>
+  </div>
+  <div style="position: absolute; right: 32px; bottom: 26px; width: 150px; height: 96px; background: rgba(255,255,255,0.85); border: 1px solid #111; z-index: 70">
+    <div style="position: absolute; inset: 8px; background-image: radial-gradient(#9A9A92 1.2px, transparent 1.2px); background-size: 7px 7px"></div>
+    <div style="position: absolute; left: 44px; top: 26px; width: 46px; height: 32px; border: 2px solid #FF4A1C"></div>
+  </div>
+  <div style="position: absolute; left: 32px; bottom: 26px; width: 290px; z-index: 70; font-size: 14px; line-height: 1.35; background: #fff; border: 1px solid #111; padding: 12px 14px">
+    <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: #FF4A1C; padding-bottom: 4px">SIGNATURE INTERACTION</div>
+    A magnifying lens. Tiles swell as your cursor nears, the way a dock does. Every building you open gets a mark and fills your progress bar.
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":900}}'>
+class Component extends DCLogic {
+  renderVals() {
+    const B = '/_blob/';
+    const ids = ['3e3eb3ef4bee0afa4edbe7b642a69193','7808c6f5438936b491a834d37ee760a2','e1d5b048f55ac0d50b7ffc1f5608575a','b04b0d3fdfc18dfcdc79d88e3b71474c','ada1c23b6c6fd9be5a216c363944c790','4573b087446a051355b94c1e52c91f3a','2905b17d62dd48f00292ace0468e1f17','20e207ee40e30a3431ff249d15458d41','ad7236eb2882e0f57ccfbad2f4f9e236','ec5c33af48e612bd3262b10e3af2a9da','faba44bed0c130a2b9b71ab8b5260399','553cc3169e71d9e4bde1f53d46e718c1','ccaf7086dec1f08ded4c4ff8927b49de','32a48ac7ef4374cb674b436a4b6a396a','e8074e6f2563fcb528aa7c3d979680df','37f86573c9f3a4abe116652ad37fb911','e2fc5c7f1c207376973b124c730da059','d96145d88e426c05207e8307a8ea265c','10704c4517c4461d44f1fab84b846ddf','18fb6493da869868420270b541752d13','143e7f077def6d7c5a3d10010f869fda','25d468c57ef67ed6c216baab781934bb','2644c607933c2f6621a08245f958fe40','3751cdd85d8906b7ec5a8bc0e09a8b26','50cfdc2e9e17b49b27021c66d06230a8','2bb38eaf9abec9407fb21c9e0ed45deb','edb1ff179712604a92e19b8d373275d4','7a530fd9a1b600570bd214c6a78d4222','6dbf3b6fae36882a71eb03067fbd09a8','1f01946ebcc9ec607db97186d00b4071','f0bc254bfe41bd7de738e3476dc7bdac','c564573035a920737d8574a222e1c18b','b10ac8336573d6c4b99be41eb5e42117','e2fc6cc6a38dd5c5c4e8c5b429b467d8','d5fd19b2a62dcd565830eef3481c41fa','e9a64336b6d61f8d38e4d42a62dde6ea','ad44a40cef1fa544143a1a7d66697f4a','1ab4c5e4e572e711cbd7689aa141c9c4','a8915a5fa2cb57d621ce78c45638a180','9e29646a54530bda4dfc1d5c53e57490','6c8da5a2716e9fbe026e175edd25ee50','e041a7d37159e8c5ad2389e9b73ad9ba','b1b72df513955b03b665ae1025ce1443','e25f91328830ca80335ed93784765fd4','0e84e07fdd45f2d8040689cf1af84ca0','8257a396a6bfb43f86d4ca5886e904de','453cfcc7ca0c7605680d16b4f6c5e808','5fa0f7cf2e3d4dffcb0f9e136409df24'];
+    const tiles = [];
+    const fx = 6.3, fy = 2.4;
+    const seen = [3, 14, 22, 31, 40, 47, 58];
+    let k = 0;
+    for (let r = 0; r < 6; r++) {
+      for (let c = 0; c < 12; c++) {
+        const d2 = (c - fx) * (c - fx) + (r - fy) * (r - fy);
+        const s = 1 + 0.95 * Math.exp(-d2 / 2.4);
+        tiles.push({
+          x: 72 + c * 108, y: 118 + r * 108,
+          s: s.toFixed(3), z: Math.round(s * 10),
+          sh: s > 1.3 ? '0 18px 36px rgba(0,0,0,0.28)' : 'none',
+          img: B + ids[(k * 7 + r) % ids.length], seen: seen.indexOf(k) > -1
+        });
+        k++;
+      }
+    }
+    const ticks = [];
+    for (let i = 0; i < 100; i++) ticks.push(i < 7 ? '#FF4A1C' : '#D2D2CB');
+    return { tiles, ticks };
+  }
+}
+</script>
+</body>
+</html>

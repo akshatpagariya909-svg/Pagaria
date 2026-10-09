@@ -1,0 +1,305 @@
+{
+ "v": 3,
+ "attachments": {},
+ "boards": {
+  "Atlas.dc.html": {
+   "h": 900,
+   "title": "Future 03 — Atlas & visual search",
+   "w": 1440,
+   "x": 3040,
+   "y": 6740
+  },
+  "Building.dc.html": {
+   "expand": "fill",
+   "h": 2600,
+   "title": "MVP 04 — Building page",
+   "w": 1440,
+   "x": 4560,
+   "y": 4100
+  },
+  "Details.dc.html": {
+   "h": 900,
+   "title": "Compare — four building pages",
+   "w": 1440,
+   "x": 4560,
+   "y": 1300
+  },
+  "DirA.dc.html": {
+   "h": 900,
+   "title": "Direction A — Editorial Architecture",
+   "w": 1440,
+   "x": 1520,
+   "y": 0
+  },
+  "DirB.dc.html": {
+   "h": 900,
+   "title": "Direction B — Playful Digital Archive",
+   "w": 1440,
+   "x": 3040,
+   "y": 0
+  },
+  "DirC.dc.html": {
+   "h": 900,
+   "title": "Direction C — Digital Museum",
+   "w": 1440,
+   "x": 4560,
+   "y": 0
+  },
+  "DirD.dc.html": {
+   "h": 900,
+   "title": "Direction D — Architecture Playground",
+   "w": 1440,
+   "x": 6080,
+   "y": 0
+  },
+  "ForYou.dc.html": {
+   "h": 900,
+   "title": "Future 02 — Personal drift & collections",
+   "w": 1440,
+   "x": 1520,
+   "y": 6740
+  },
+  "Home.dc.html": {
+   "h": 900,
+   "is_interactive": true,
+   "title": "MVP 01 — Homepage (playable)",
+   "w": 1440,
+   "x": 0,
+   "y": 4100
+  },
+  "Hover.dc.html": {
+   "h": 900,
+   "title": "MVP 02 — Hover state",
+   "w": 1440,
+   "x": 1520,
+   "y": 4100
+  },
+  "Hovers.dc.html": {
+   "h": 900,
+   "title": "Compare — four hover behaviours",
+   "w": 1440,
+   "x": 3040,
+   "y": 1300
+  },
+  "Main.dc.html": {
+   "h": 900,
+   "title": "00 Cover — the brief in one screen",
+   "w": 1440,
+   "x": 0,
+   "y": 0
+  },
+  "RabbitHole.dc.html": {
+   "h": 1000,
+   "title": "MVP 05 — The rabbit hole",
+   "w": 1440,
+   "x": 6080,
+   "y": 4100
+  },
+  "Search.dc.html": {
+   "h": 900,
+   "title": "MVP 06 — Search & filter",
+   "w": 1440,
+   "x": 7600,
+   "y": 4100
+  },
+  "Surprise.dc.html": {
+   "h": 900,
+   "title": "MVP 07 — Surprise me",
+   "w": 1440,
+   "x": 9120,
+   "y": 4100
+  },
+  "System.dc.html": {
+   "h": 1100,
+   "title": "Dérive — mini design system",
+   "w": 1440,
+   "x": 0,
+   "y": 2600
+  },
+  "Type.dc.html": {
+   "h": 900,
+   "title": "Compare — four type directions",
+   "w": 1440,
+   "x": 1520,
+   "y": 1300
+  },
+  "Universe.dc.html": {
+   "h": 900,
+   "title": "Future 01 — 10,000-building universe",
+   "w": 1440,
+   "x": 0,
+   "y": 6740
+  },
+  "Walls.dc.html": {
+   "h": 900,
+   "title": "Compare — four tile walls",
+   "w": 1440,
+   "x": 0,
+   "y": 1300
+  },
+  "ZoomOut.dc.html": {
+   "h": 900,
+   "title": "MVP 03 — Zoomed out: all 100",
+   "w": 1440,
+   "x": 3040,
+   "y": 4100
+  },
+  "WallV2.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 1440,
+   "h": 900,
+   "page": "v2",
+   "is_interactive": true,
+   "title": "v2 · 01 Homepage — whiteboard wall (playable)"
+  },
+  "OpenV2.dc.html": {
+   "x": 1520,
+   "y": 0,
+   "w": 1440,
+   "h": 900,
+   "page": "v2",
+   "title": "v2 · 02 Open a building — then & now"
+  },
+  "HundredV2.dc.html": {
+   "x": 3040,
+   "y": 0,
+   "w": 1440,
+   "h": 2250,
+   "page": "v2",
+   "title": "v2 · 03 The first 100 — what every tile will show"
+  }
+ },
+ "createdOnFiles": {
+  "at": "2026-10-07T12:05:00Z",
+  "v": 1
+ },
+ "designSystems": [],
+ "launch": {
+  "view": "canvas",
+  "page": "v2"
+ },
+ "notes": {
+  "s_compare": {
+   "fill": "blue",
+   "text": "Pick: D's mechanics (zoomable field, shuffle, trail, Surprise) wearing A's editorial restraint (strict grid, big type, one accent).\n\nB is fun but noisy at 100 buildings. C is beautiful but slow: one building at a time kills the 'one more' loop.",
+   "w": 420,
+   "x": 6080,
+   "y": 1300
+  },
+  "s_mvp": {
+   "fill": "green",
+   "text": "01 Homepage is playable. Hover tiles, click to open, try Shuffle, Surprise me and the zoom buttons.",
+   "w": 380,
+   "x": 10640,
+   "y": 4100
+  },
+  "s_system": {
+   "fill": "gray",
+   "text": "Three rules:\n1. Architecture is the only colour. The UI stays black, white and grey, with one signal blue for things that move you somewhere new.\n2. Every surface is a door. Tiles, chips and concepts all click through.\n3. Remember the path. The trail turns browsing into a story you can retrace.",
+   "w": 420,
+   "x": 1520,
+   "y": 2600
+  },
+  "t_compare": {
+   "kind": "title1",
+   "maxW": 5960,
+   "text": "2 · Comparing walls, type, hover and building pages",
+   "w": 240,
+   "x": 0,
+   "y": 1000
+  },
+  "t_explore": {
+   "kind": "title1",
+   "maxW": 7520,
+   "text": "1 · Four directions for the homepage",
+   "w": 240,
+   "x": 0,
+   "y": -300
+  },
+  "t_future": {
+   "kind": "title1",
+   "maxW": 4480,
+   "text": "5 · Future vision: 1,000 → 10,000+ buildings",
+   "w": 240,
+   "x": 0,
+   "y": 6440
+  },
+  "t_mvp": {
+   "kind": "title1",
+   "maxW": 8000,
+   "text": "4 · MVP: 100 buildings, seven screens",
+   "w": 240,
+   "x": 0,
+   "y": 3800
+  },
+  "t_system": {
+   "kind": "title1",
+   "maxW": 2960,
+   "text": "3 · Chosen direction: Dérive, an editorial playground",
+   "w": 240,
+   "x": 0,
+   "y": 2300
+  },
+  "v2_title": {
+   "x": 0,
+   "y": -300,
+   "text": "v2 · Real works, real stories",
+   "kind": "title1",
+   "maxW": 4480,
+   "page": "v2"
+  },
+  "v2_how": {
+   "x": 0,
+   "y": 980,
+   "w": 440,
+   "page": "v2",
+   "fill": "green",
+   "text": "Press Play on 01.\nScroll or two-finger swipe: pan up, down, left and right.\nDrag anywhere: pan.\nPinch, or Ctrl/⌘ + scroll: zoom.\nClick a tile: open it over the wall.\n\nIf you'd rather plain scroll zoom (like Google Maps), switch 'Wheel' to zoom in the artboard's Tweaks."
+  },
+  "v2_slots": {
+   "x": 520,
+   "y": 980,
+   "w": 440,
+   "page": "v2",
+   "fill": "orange",
+   "text": "Every tile is an empty slot captioned with the exact work it will hold: 50 photographs + 50 paintings, prints, drawings and archive photos, all public domain or Creative Commons. They fill in once the environment can reach Wikimedia Commons and the Library of Congress."
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "DirA.dc.html",
+  "DirB.dc.html",
+  "DirC.dc.html",
+  "DirD.dc.html",
+  "Walls.dc.html",
+  "Type.dc.html",
+  "Hovers.dc.html",
+  "Details.dc.html",
+  "System.dc.html",
+  "Home.dc.html",
+  "Hover.dc.html",
+  "ZoomOut.dc.html",
+  "Building.dc.html",
+  "RabbitHole.dc.html",
+  "Search.dc.html",
+  "Surprise.dc.html",
+  "Universe.dc.html",
+  "ForYou.dc.html",
+  "Atlas.dc.html",
+  "WallV2.dc.html",
+  "OpenV2.dc.html",
+  "HundredV2.dc.html"
+ ],
+ "pages": [
+  {
+   "id": "v1",
+   "name": "v1 · Exploration"
+  },
+  {
+   "id": "v2",
+   "name": "v2 · Real works"
+  }
+ ],
+ "title": "Dérive — Architecture Discovery Engine"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akshatpagariya909-svg.github.io/Pagaria/sitemap.xml
