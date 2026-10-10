@@ -1,2 +1,2 @@
 Find each building's own page on architecture websites. Edit this file to trigger a run.
-Run 3: site APIs + one Bing search per building.
+Run 4: all 926 buildings, with the stricter architect-or-city match.
