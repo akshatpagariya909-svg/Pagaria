@@ -169,7 +169,11 @@
     k = (k + ims.length) % ims.length;
     state.shot = k;
     const im = ims[k];
-    stage.innerHTML = `<img src="${esc(im.src)}" alt="${esc(b.name)}: ${esc(im.caption)}">`;
+    // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
+    stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(im.caption)}">`;
+    const full = new Image();
+    full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
+    full.src = im.src;
     const credit = (im.credit || '').replace(/\.$/, '');
     $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length} · ${esc(im.caption)}</span>` +
       `<span class="l">${credit ? 'Photo: ' + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;

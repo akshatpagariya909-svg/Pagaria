@@ -1,0 +1,37 @@
+# Dropped from the wall for now: their Commons categories show exhibits or events, not the building.
+# Bring them back with hand-picked photos in tools/image_choices.json.
+Africa Hall | Q2826149
+Apartheid Museum | Q617810
+Beijing Daxing International Airport | Q1139574
+Bharat Bhavan | Q2767116
+Bibliothèque Sainte-Geneviève | Q51298904
+Bilbao Metro | Q325309
+Cultural Center of the Philippines | Q30590052
+Diego Rivera and Frida Kahlo House-Studios | Q2663377
+Fondazione Querini Stampalia | Q3747209
+Forbidden City | Q80290
+Freedom Monument | Q12248479
+Israel Museum | Q46815
+Karlsplatz Stadtbahn Pavilions | Q335894
+Lingotto | Q1478414
+M+ | Q10851500
+Madrid-Barajas Airport Terminal 4 | Q166276
+Mausoleum of Mohammed V | Q219028
+Museo Jumex | Q5142722
+Museo de Arte Moderno, Mexico City | Q3032842
+Museum Tinguely | Q180904
+Museum of Contemporary Art Belgrade | Q1290510
+National Museum of Anthropology | Q524249
+National Museum of Australia | Q1967496
+National Museum of Ethnology | Q147157
+National Museum of Modern and Contemporary Art, Seoul | Q27207690
+National and University Library | Q1520466
+New Parliament House | Q106103956
+Obafemi Awolowo University | Q2008672
+Qatar University | Q1574578
+Salman Mosque | Q26258414
+Seema Malaka | Q24239464
+Vietnam Veterans Memorial | Q713628
+Winnipeg Art Gallery | Q3813414
+Yale University Art Gallery | Q1568434
+İstanbul Manifaturacılar Çarşısı | Q6089529
