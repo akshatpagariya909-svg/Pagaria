@@ -1,2 +1,2 @@
 Find each building's own page on architecture websites. Edit this file to trigger a run.
-Run 4: all 926 buildings, with the stricter architect-or-city match.
+Run 4b: all 926 buildings, with the stricter architect-or-city match (longer time limit).
