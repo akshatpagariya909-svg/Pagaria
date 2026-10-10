@@ -1,0 +1,2 @@
+python -u tools/resolve_list.py
+Retry the unresolved additions with looser place matching.

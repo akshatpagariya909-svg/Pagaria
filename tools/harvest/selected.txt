@@ -1,0 +1,1400 @@
+   Q379080   1.6   1593 Africa    Kenya          | Fort Jesus Museum — Giovanni Battista Cairati | fort, national park
+  Q3527878   0.6   1853 Africa    Algeria        | Algerian National Theater Mahieddine Bachtarzi — Charles Frédéric Chassériau | theatre building
+  Q2088381   0.6   1872 Africa    Algeria        | Basilica of Notre-Dame-d'Afrique — Jean-Eugène Fromageau | Catholic pilgrimage church, minor basilica
+  Q3527872   4.5   1902 Africa    Tunisia        | Théâtre municipal de Tunis — Jean-Émile Resplandy | theatre building
+  Q2440344   2.7   1903 Africa    Algeria        | cathédrale du Sacré-Cœur d'Oran — Albert Ballu | public library, Catholic cathedral
+  Q3497294   4.2   1907 Africa    Kenya          | State House — Herbert Baker | building
+  Q7877613   4.5   1908 Africa    Uganda         | Uganda Museum — Ernst May | museum
+   Q316851   2.0   1909 Africa    Namibia        | Duwisib Castle — Wilhelm Sander | fortress
+  Q2264091   5.2   1913 Africa    South Africa   | Union Buildings — Herbert Baker | building of public administration
+  Q2061047   2.9   1923 Africa    Eritrea        | Church of Our Lady of the Rosary — Oreste Scanavini | Catholic church building
+  Q6749385   2.2   1925 Africa    Ghana          | Manhyia Palace — Government of the United Kingdom | palace, museum
+  Q2415827   2.9   1930 Africa    Morocco        | Casablanca Cathedral — Paul Tournon | Catholic church building
+   Q127722   4.0   1936 Africa    Mozambique     | Cathedral of Our Lady of the Immaculate Conception — Marcial Simões de Freitas e Costa | Catholic cathedral, cultural heritage
+  Q3115134   2.3   1937 Africa    Tunisia        | Great Synagogue of Tunis — Victor Valensi | synagogue
+ Q11957212   4.9   1938 Africa    Eritrea        | Great Mosque of Asmara — Guido Ferrazza | mosque
+  Q1410651  -0.4   1938 Africa    Eritrea        | Fiat Tagliero Building — Guido Ferrazza | filling station
+   Q773980   1.3   1939 Africa    Libya          | Benghazi Cathedral — Q17379570, Guido Ferrazza | cathedral
+  Q3277765   3.6   1940 Africa    South Africa   | Mahlamba Ndlopfu — Gerard Moerdijk | official residence, architectural landmark
+ Q10270271   5.3   1947 Africa    Mozambique     | Maputo City Hall — Carlos César dos Santos | cultural heritage, city hall
+  Q1542959   6.1   1954 Africa    Mozambique     | Grande Hotel Beira — Francisco de Castro | cultural heritage, human settlement
+  Q2942908   7.0   1956 Africa    Algeria        | Cathedral of the Sacred Heart of Jesus, Algiers — Paul Herbé, Jean Le Couteur | Catholic cathedral
+ Q18210338   5.3   1958 Africa    South Africa   | Cathedral of Christ the King — David O'Leary | Catholic cathedral
+  Q3089460  -0.0   1958 Africa    Tunisia        | Stade Mustapha Ben Jannet — Olivier-Clément Cacoub | stadium
+  Q3301839   5.5   1963 Africa    Tunisia        | Bourguiba Mausoleum — Olivier-Clément Cacoub | mausoleum
+ Q10275759  -1.3   1963 Africa    Mozambique     | Beira railway station — João Garizo de Carmo, Paulo de Melo Sampaio | railway station, dead-end railway station
+  Q2829383   0.3   1964 Africa    Sudan          | Al-Merrikh Stadium — Abdel-Moneim Mustafa | stadium
+ Q17624316   6.8   1966 Africa    Angola         | Our Lady of the Conception Cathedral, Sumbe — Francisco Castro Rodrigues | Catholic cathedral
+  Q2742927   5.8   1969 Africa    Tunisia        | Carthage Palace — Olivier-Clément Cacoub | palace
+  Q7598177   4.7   1970 Africa    South Africa   | Standard Bank Centre — Hubert Petschnigg | skyscraper
+   Q308329   5.7   1971 Africa    Niger          | Université Abdou Moumouni — Kalt Pouradier-Duteil Vignal | university, quarter of Niger
+  Q3272625   5.8   1973 Africa    Kenya          | Kenyatta International Convention Centre — Karl Henrik Nøstvik | skyscraper
+ Q27670825   3.6   1973 Africa    Tunisia        | Hôtel du Lac — Raffaele Contigiani | hotel
+  Q1812844   5.8   1975 Africa    South Africa   | Ponte City Apartments — Manfred Hermer | skyscraper
+ Q23777901   2.8   1977 Africa    Nigeria        | Eko Hotels and Suites — Oluwole Olumuyiwa | enterprise, hotel
+  Q2441417   5.7   1985 Africa    Ivory Coast    | St. Paul's Cathedral — Aldo Spirito | Catholic cathedral
+   Q815584   8.1   1989 Africa    Ivory Coast    | Basilica of Our Lady of Peace of Yamoussoukro — Pierre Fakhoury | minor basilica, Catholic church building
+  Q6978924   6.2   1992 Africa    Ghana          | National Theatre of Ghana — Cheng Taining | theatre building
+    Q41346   8.8   1993 Africa    Morocco        | Hassan II Mosque — Michel Pinseau | mosque
+  Q2743636  11.2 * 1999 Africa    Morocco        | Casablanca Twin Center — Ricardo Bofill | building complex
+  Q4384864   4.0   2000 Africa    Kenya          | Times Tower — Triad Architects | skyscraper
+  Q1848770   1.5   2001 Africa    Tunisia        | Olympic Stadium of Radès — Rob Schuurman | stadium
+  Q4817535   5.6   2003 Africa    South Africa   | Cape Town International Convention Centre — R&L Architects | convention center
+  Q1578430   1.8   2003 Africa    Morocco        | Marrakesh Stadium — Vittorio Gregotti | association football venue
+   Q335765   1.5   2003 Africa    Nigeria        | Abuja Stadium — Schlaich Bergermann Partner | association football venue, FIFA
+   Q187087   2.6   2007 Africa    South Africa   | Mbombela Stadium — R&L Architects | association football venue, rugby union venue
+  Q1412311   5.8   2008 Africa    Namibia        | State House of Namibia — Mansudae Overseas Projects | building of public administration
+  Q2385498   0.7   2010 Africa    Zambia         | Levy Mwanawasa Stadium — Shanghai Construction Group | stadium
+ Q28087475   3.3   2013 Africa    Morocco        | Maroc Telecom HQ — Jean-Paul Viguier | skyscraper
+ Q28196088   5.8   2014 Africa    Namibia        | Independence Memorial Museum — Mansudae Overseas Projects | history museum
+  Q7232412   3.1   2014 Africa    South Africa   | Portside Tower — Louis Karol | skyscraper
+ Q28457050   0.5   2017 Africa    Malawi         | Bingu National Stadium — Beijing Institute of Architectural Design | stadium
+ Q23012984   7.8   2019 Africa    Algeria        | Djamaa El Djazaïr — China State Construction Engineering Group Co. Ltd. | mosque
+    Q49117   7.4 * 1740 Americas  United States  | University of Pennsylvania — Louis Kahn, Wilson Eyre | private university, research university
+   Q617433   8.6 * 1870 Americas  United States  | Syracuse University — Horatio Nelson White, SHoP Architects | private university, research university
+    Q49133   8.5 * 1870 Americas  United States  | Museum of Fine Arts Boston — Guy Lowell, Hugh Stubbins | art museum, nonprofit organization
+  Q1760539   7.1 * 1879 Americas  United States  | Saint Louis Art Museum — Cass Gilbert, David Chipperfield | art museum, museum
+  Q1700481   7.5 * 1883 Americas  United States  | Minneapolis Institute of Art — McKim, Mead & White, Kenzō Tange | art museum, art academy
+  Q1201549   7.9 * 1885 Americas  United States  | Detroit Institute of Arts — Paul Philippe Cret, Michael Graves | art museum, movie theater
+  Q1189960   7.6 * 1893 Americas  United States  | Denver Art Museum — Gio Ponti | art museum, museum
+  Q1470276   7.6 * 1894 Americas  United States  | M. H. de Young Memorial Museum — Q6686906, Herzog & de Meuron | art museum
+  Q1565911  10.6 * 1900 Americas  United States  | Museum of Fine Arts, Houston — Ludwig Mies van der Rohe, Isamu Noguchi | art museum, nonprofit organization
+  Q2321891   4.0   1900 Americas  Mexico         | Palacio de Lecumberri — Lorenzo de la Hidalga | building of public administration, defunct prison
+  Q2297627   5.3   1903 Americas  Brazil         | Municipal Theater of São Paulo — Ramos de Azevedo | theatre building, opera house
+  Q2663377   5.9   1904 Americas  Mexico         | Frida Kahlo Museum — Frida Kahlo, Juan O'Gormann | art museum, museum
+   Q953345  10.0 * 1905 Americas  United States  | High Museum of Art — Richard Meier, Renzo Piano | art museum
+  Q1166906   8.8 * 1905 Americas  United States  | Darwin D. Martin House — Frank Lloyd Wright | single-family detached home
+   Q646142   5.6   1906 Americas  Argentina      | Palace of the Argentine National Congress — Vittorio Meano | public building, legislative building
+  Q2940775   4.9   1906 Americas  Colombia       | Casa de Nariño — Gaston Lelarge, Julián Lombana | official residence
+   Q827401   6.2   1908 Americas  Argentina      | Colón Theater — Luca Pierotti, Francesco Tamburini | opera house
+  Q4135250   4.0   1908 Americas  Canada         | Art Gallery of Nova Scotia — David Stirling | art museum
+  Q9068257   4.0   1908 Americas  Uruguay        | Residencia de Suárez y Reyes — Juan María Aubriot | official residence
+   Q172732   6.4   1909 Americas  United States  | Indianapolis Motor Speedway — Carl G. Fisher, James A. Allison | motorsport racing track
+   Q148554   6.5   1910 Americas  United States  | National Museum of Natural History — Hornblower & Marshall, Charles Follen McKim | natural history museum
+  Q1134587   4.0   1910 Americas  Argentina      | Parque Centenario — Carlos Thays | park
+  Q3813414   4.5   1912 Americas  Canada         | Winnipeg Art Gallery — Gustavo da Roza | art museum, collection
+   Q657415  11.0 * 1913 Americas  United States  | Cleveland Museum of Art — Marcel Breuer, Hubbell & Benes | art museum, publishing house
+  Q1046446   5.4   1914 Americas  Canada         | Casa Loma — E. J. Lennox | villa, historic house museum
+  Q2630111  11.2 * 1917 Americas  Venezuela      | Caracas Museum of Fine Arts — Carlos Raúl Villanueva | art museum, art museum
+  Q3816734   9.2 * 1917 Americas  United States  | Allen Memorial Art Museum — Denise Scott Brown, Robert Venturi | art museum
+  Q1238099   4.6   1918 Americas  Canada         | Dominion Astrophysical Observatory — Edgar Lewis Horwood | astronomical observatory
+  Q6750086   4.0   1920 Americas  Canada         | Manitoba Legislative Building — Frank Worthington Simon | parliament building
+  Q2144588   9.7 * 1921 Americas  United States  | Hollyhock House — Frank Lloyd Wright | single-family detached home, historic site
+  Q1932041  10.1 * 1922 Americas  United States  | Schindler House — Rudolph Schindler | single-family detached home
+   Q705545   4.5   1924 Americas  Canada         | Art Gallery of Alberta — Randall Stout | art museum
+  Q2937493   4.7   1926 Americas  Colombia       | National Capitol — Thomas Reed | capitol building
+  Q1352908   5.5   1927 Americas  Cuba           | El Capitolio — Eugenio Rayneri Piedra | parliament building, capitol building
+  Q5062237   4.5   1927 Americas  Canada         | Centre Block — John A. Pearson, Jean-Omer Marchand | parliament building
+  Q1370163   4.2   1928 Americas  Argentina      | Hotel Castelar — Mario Palanti | building
+  Q3360763   4.0   1928 Americas  Argentina      | Buenos Aires Central Post Office — Norbert Maillart | building
+   Q188740  12.1 * 1929 Americas  United States  | Museum of Modern Art — Yoshio Taniguchi, Edward Durell Stone | museum, museum of modern art
+  Q1133967   5.1   1930 Americas  Uruguay        | Palacio Lapido — Juan Antonio Aubriot | building
+  Q4833194   4.6   1931 Americas  Argentina      | Buenos Aires City Legislature Palace — Eduardo Le Monnier | legislative building
+  Q1976985  10.5 * 1933 Americas  United States  | The Nelson-Atkins Museum of Art — Steven Holl | art museum, museum
+  Q1139081   6.1   1934 Americas  Mexico         | Palace of Fine arts — Adamo Boari, Federico Ernesto Mariscal Piña | concert hall, arts center
+  Q2418266   4.9   1934 Americas  Mexico         | Complejo Cultural Los Pinos — Martínez del Río family | official residence, museum
+   Q375910   4.1   1934 Americas  Argentina      | Kavanagh building — Lagos y De la Torre Sánchez | skyscraper
+   Q913672  11.0 * 1935 Americas  United States  | San Francisco Museum of Modern Art — Mario Botta, Snøhetta | museum of modern art, publishing house
+  Q3152226   9.0 * 1936 Americas  United States  | Institute of Contemporary Art, Boston — Diller Scofidio + Renfro | art museum, art gallery
+   Q831389   5.6   1936 Americas  Argentina      | Obelisco de Buenos Aires — Alberto Prebisch | obelisk
+  Q1208310  10.1 * 1937 Americas  United States  | Taliesin West — Frank Lloyd Wright | artist's house, school building
+  Q4179781  10.5 * 1938 Americas  United States  | Gropius House — Walter Gropius | single-family detached home
+  Q2419314   6.8   1938 Americas  United States  | Oregon State Capitol — Trowbridge & Livingston | capitol building
+  Q5201385   4.3   1939 Americas  Peru           | Legislative Palace of Peru — Ricardo de Jaxa Malachowski | building
+    Q11208   6.2   1941 Americas  United States  | The Pentagon — George Bergstrom | headquarters, government building
+  Q1574280   4.0   1941 Americas  Uruguay        | Palacio Municipal — Mauricio Cravotto | building of public administration, cultural property
+  Q6378695  10.3 * 1946 Americas  United States  | Kaufmann Desert House — Richard Neutra | single-family detached home
+  Q2901276   6.4   1946 Americas  United States  | Dag Hammarskjöld Library — Harrison & Abramovitz | library, library building
+  Q2942784   5.7   1946 Americas  Argentina      | Cathedral of Our Lady of Nahuel Huapi — Alejandro Bustillo | cathedral
+  Q1954743   7.6   1947 Americas  Canada         | Museum of Anthropology at UBC — Arthur Erickson, Nick Milkovich | museum, archives
+  Q1431995  12.8 * 1948 Americas  Brazil         | Museum of Modern Art, Rio de Janeiro — Affonso Eduardo Reidy | museum of modern art
+  Q1190282   6.4   1948 Americas  United States  | Independence National Historical Park — Charles E. Peterson, Grant Miles Simon | museum, archaeological site
+  Q2982737  12.9 * 1949 Americas  Argentina      | Curutchet House — Le Corbusier | single-family detached home, historic house
+  Q7982128  10.1 * 1949 Americas  United States  | Weltzheimer/Johnson House — Frank Lloyd Wright | single-family detached home
+  Q2227269   7.5   1949 Americas  Colombia       | Las Lajas Sanctuary — Lucindo Espinosa | church building
+  Q1369553   9.8 * 1950 Americas  Venezuela      | Estadio Olímpico — Carlos Raúl Villanueva | stadium
+  Q1689682   6.6   1951 Americas  United States  | Wayfarers Chapel — Lloyd Wright | church building
+ Q18785504   5.1   1951 Americas  Canada         | St Joseph Cathedral — Lucien Sarra-Bournet | Catholic cathedral
+    Q11297  14.6 * 1952 Americas  United States  | Headquarters of the United Nations — Oscar Niemeyer, Le Corbusier | building complex, office building
+   Q632566  13.9 * 1952 Americas  Brazil         | Edifício Copan — Oscar Niemeyer, Carlos Lemos | skyscraper, multifamily residential
+  Q1821821  13.2 * 1952 Americas  United States  | Lever House — Gordon Bunshaft | skyscraper
+   Q286179  11.0 * 1952 Americas  Mexico         | Auditorio Nacional — Teodoro González de León, Abraham Zabludovsky | multi-purpose hall, concert hall
+  Q2576232  10.1 * 1952 Americas  Venezuela      | Estadio Universitario — Carlos Raúl Villanueva | baseball venue
+  Q5009284   6.1   1952 Americas  United States  | Television City — Pereira & Luckman | television studio
+   Q130025   7.2   1954 Americas  Mexico         | Ciudad Universitaria — Mario Pani, Enrique del Moral | campus
+   Q583299   6.4   1954 Americas  United States  | Islamic Center of Washington — Mario Rossi | built structure
+   Q165316  12.2 * 1955 Americas  United States  | Pruitt–Igoe — Minoru Yamasaki | public housing
+  Q2886950   6.7   1955 Americas  Brazil         | Basilica of the National Shrine of Our Lady of Aparecida — Benedito Calixto Neto | minor basilica, cathedral
+  Q3113018   6.2   1955 Americas  United States  | Miami Seaquarium — Charles Foster McKirahan | zoo, oceanarium
+   Q352679  12.0 * 1956 Americas  United States  | Beth Sholom Congregation — Frank Lloyd Wright | synagogue
+  Q4260261  10.7 * 1956 Americas  United States  | Price Tower — Frank Lloyd Wright | hotel building
+  Q2886887   6.0   1957 Americas  Canada         | Cathedral Basilica of St Michael, Sherbrooke — Louis-Napoléon Audet, Jean-Paul Audet | cathedral, minor basilica
+  Q2330391  13.6 * 1958 Americas  Brazil         | Palácio da Alvorada — Oscar Niemeyer | palace
+  Q1344856  12.6 * 1958 Americas  Canada         | Place Ville Marie — I. M. Pei, Henry N. Cobb | skyscraper, shopping center
+ Q26721344  11.9 * 1958 Americas  Uruguay        | Church of Cristo Obrero y Nuestra Señora de Lourdes — Eladio Dieste | church building, cultural property
+   Q727277  11.4 * 1958 Americas  United States  | Asian Art Museum of San Francisco — Gae Aulenti, Kulapat Yantrasast | art museum
+  Q1708874   6.1   1958 Americas  Cuba           | José Martí Memorial — Enrique Luis Varela | built structure
+   Q175665   6.5   1959 Americas  United States  | Welcome to Fabulous Las Vegas sign — Betty Willis | neon sign, built structure
+  Q3137182   6.2   1959 Americas  Puerto Rico    | Museo de Arte de Ponce — Edward Durell Stone | art museum
+  Q1620098   5.5   1959 Americas  Brazil         | Hipodromo do Cristal — Roman Fresnedo Siri | horse racing venue
+   Q496950  14.1 * 1960 Americas  Brazil         | Palácio do Planalto — Oscar Niemeyer | palace, official residence
+  Q4155889  13.4 * 1960 Americas  Brazil         | National Congress Palace — Oscar Niemeyer | parliament building
+  Q1150950  11.8 * 1960 Americas  United States  | Marin County Civic Center — Frank Lloyd Wright | office building
+    Q42258   7.7   1960 Americas  Brazil         | Mirante do Vale — Waldomiro Zarzur, Aron Kogan | skyscraper
+  Q2302468   5.3   1960 Americas  Canada         | Sony Centre for the Performing Arts — Peter Dickinson | performing arts building, performing arts center
+ Q18844812   5.1   1960 Americas  Canada         | St. John Eudes Cathedral, Baie-Comeau — Claude Parent, Roger Moranville | Catholic cathedral
+     Q5317   8.0   1961 Americas  United States  | Space Needle — John Graham & Company | observation tower
+    Q82387   7.4   1961 Americas  United States  | Basilica of the National Shrine of the Immaculate Conception — Maginnis & Walsh | national shrine
+  Q1056326   7.0   1961 Americas  United States  | Shea Stadium — Emil Praeger | defunct sports venue
+  Q5425102   6.3   1961 Americas  United States  | George Bush Center for Intelligence — SmithGroup | building of public administration, headquarters
+  Q3533035   4.3   1961 Americas  Canada         | Tour CIBC — Peter Dickinson | skyscraper
+  Q3020254  13.0 * 1962 Americas  Brazil         | Itamaraty Palace — Oscar Niemeyer | palace, government office building
+  Q1967614  12.2 * 1962 Americas  United States  | National Portrait Gallery — Robert Mills, Norman Foster | art museum, art museum
+  Q7889201   7.0   1962 Americas  United States  | United States Air Force Academy Cadet Chapel — Walter Netsch | chapel, military building
+  Q2004262   6.6   1962 Americas  United States  | USS Arizona Memorial — Alfred Preis | military museum, National Memorial of the United States
+   Q790654   6.3   1962 Americas  United States  | David Geffen Hall — Max Abramovitz | concert hall
+   Q814779  13.5 * 1963 Americas  United States  | Beinecke Rare Book & Manuscript Library — Gordon Bunshaft | academic library, academic archive
+  Q2178401  11.6 * 1963 Americas  United States  | Sheats Goldstein Residence — John Lautner | single-family detached home
+   Q464482   6.6   1963 Americas  United States  | MetLife Building — The Architects Collaborative, Pietro Belluschi | skyscraper
+  Q2916280   6.6   1963 Americas  United States  | Berkeley Art Museum and Pacific Film Archive — Mario Ciampi | art museum, cinematheque
+  Q7272367   5.3   1963 Americas  Chile          | Quinta Vergara Amphitheater — Borja Huidobro | sylvan theater
+  Q2640560  12.7 * 1964 Americas  United States  | CBS Building — Eero Saarinen | skyscraper
+  Q1702873  12.5 * 1964 Americas  Canada         | Tour de la Bourse — Luigi Moretti | skyscraper
+  Q2060721  12.2 * 1964 Americas  United States  | Vanna Venturi House — Robert Venturi | single-family detached home
+   Q653584  11.5 * 1964 Americas  United States  | Marina City — Bertrand Goldberg | tower block
+   Q524249   7.9   1964 Americas  Mexico         | National Museum of Anthropology — Pedro Ramírez Vázquez, Rafael Mijares Alcérreca | national museum, museum building
+   Q148584   7.4   1964 Americas  United States  | National Museum of American History — McKim, Mead & White, Walker O. Cain | history museum, national museum
+  Q3151381   6.8   1964 Americas  Canada         | Innis College — Jack Diamond, Barton Myers Associates | university college, constituent college
+   Q675877   5.8   1964 Americas  Mexico         | Anahuacalli Museum — Juan O'Gormann | museum
+  Q1163206   5.5   1964 Americas  Uruguay        | Edificio Panamericano — Raúl A. Sichero Bouret | built structure
+  Q2886971   5.5   1964 Americas  Canada         | Basilica of Our Lady of the Cape — Adrien Dufresne | minor basilica, national shrine
+  Q5457206  11.2 * 1965 Americas  Brazil         | Flamengo Park — Lota de Macedo Soares, Roberto Burle Marx | sports venue, park
+   Q176205  11.0 * 1965 Americas  United States  | Vivian Beaumont Theater — Eero Saarinen | performance hall, Broadway theatre
+  Q1093941   8.4   1965 Americas  Canada         | Toronto City Hall — Viljo Revell | city hall
+   Q170610   7.1   1965 Americas  Brazil         | Edifício Itália — Adolf Franz Heep | skyscraper, cultural heritage
+  Q1208032   7.0   1965 Americas  Canada         | Skylon Tower — B+H Architects | observation tower
+  Q1270936   6.1   1965 Americas  Brazil         | Brasilia TV Tower — Lucio Costa | transmitter mast
+  Q9054624   5.5   1965 Americas  Brazil         | Bandeirantes Palace — Marcello Piacentini | museum, palace
+  Q2264019   5.1   1965 Americas  Canada         | Manitoba Museum — Herbert Henry Gatenby Moody | museum, charitable organization
+  Q3462810  12.7 * 1966 Americas  Brazil         | Cláudio Santoro National Theater — Oscar Niemeyer | theatre building
+  Q6352575  12.6 * 1966 Americas  United States  | Yale Center for British Art — Louis Kahn | art museum
+  Q2795889  10.1 * 1966 Americas  United States  | Fairmont Century Plaza — Minoru Yamasaki | hotel
+   Q167479   8.0   1966 Americas  United States  | J. Edgar Hoover Building — Charles Murphy | building of public administration
+   Q284716   6.7   1967 Americas  Canada         | Saint Joseph's Oratory — Dalbé Viau, Lucien Parent | national shrine, minor basilica
+   Q118142   6.6   1967 Americas  United States  | Museum of Contemporary Art, Chicago — Josef Paul Kleihues | art museum, nonprofit organization
+  Q3114610   6.6   1967 Americas  Canada         | Grand Théâtre de Québec — Victor Prus | performing arts building
+   Q864789   6.5   1967 Americas  Canada         | Montreal Biosphère — Q102289, Shoji Sadao | geodesic dome, building
+   Q903403  10.7 * 1968 Americas  United States  | Studio Museum in Harlem — Bond Ryder & Associates, J. Max Bond, Jr. | art museum, African-American museum
+   Q301937   9.6 * 1968 Americas  Mexico         | Palacio de los Deportes — Félix Candela | indoor arena
+   Q571755   6.1   1968 Americas  United States  | Futuro — Matti Suuronen | type of building, architectural project
+   Q877714  12.5 * 1969 Americas  United States  | Oakland Museum of California — Kevin Roche, Dan Kiley | art museum
+  Q1290002   7.9   1969 Americas  United States  | Hawaii State Capitol — John Carl Warnecke | capitol building
+   Q713204   6.3   1969 Americas  United States  | Norman Rockwell Museum — Robert A. M. Stern | art museum, nonprofit organization
+  Q1500067   5.3   1969 Americas  Canada         | Ontario Science Centre — Raymond Moriyama | science museum
+  Q2942898   5.1   1969 Americas  Canada         | Christ the King Cathedral, Gaspé — Gérard Notebaert | Catholic cathedral
+ Q20445370  11.1 * 1970 Americas  United States  | 1 World Trade Center — Minoru Yamasaki | skyscraper
+  Q4868422   7.5   1970 Americas  Dominican Repu | Basílica Catedral Nuestra Señora de la Altagracia — André Jacques Dunoyer de Segonzac | cathedral, minor basilica
+   Q962291   7.5   1970 Americas  United States  | Geisel Library — William Pereira | library, library building
+  Q1325913   6.8   1970 Americas  United States  | Electric Lady Studios — John Storyk | recording studio, mixing studio
+  Q2915273   6.5   1970 Americas  United States  | Wisconsin State Capitol — George B. Post | capitol building
+  Q2956755  12.7 * 1971 Americas  United States  | Rothko Chapel — Philip Johnson, Q17194320 | art museum, chapel
+  Q4347013  12.6 * 1971 Americas  United States  | Cathedral of Saint Mary of the Assumption — Pier Luigi Nervi, Pietro Belluschi | Catholic cathedral
+  Q1853779  11.4 * 1971 Americas  United States  | Lyndon Baines Johnson Library and Museum — Gordon Bunshaft | museum, library
+  Q1131230  10.5 * 1971 Americas  United States  | Norfolk Scope — Pier Luigi Nervi | multi-purpose hall, music venue
+  Q1631981   7.4   1971 Americas  United States  | John F. Kennedy Center for the Performing Arts — Edward Durell Stone | performing arts center, music venue
+  Q2919960   6.6   1971 Americas  United States  | Disney's Contemporary Resort — Walt Disney Imagineering | convention center, resort
+   Q632329   6.4   1971 Americas  United States  | U.S. Steel Tower — Harrison & Abramovitz | built structure
+  Q2211847  11.6 * 1972 Americas  United States  | Martin Luther King Jr. Memorial Library — Ludwig Mies van der Rohe, Mecanoo | public library, library building
+  Q1515007   6.3   1972 Americas  United States  | Gershwin Theatre — Ralph Alswang | theatre building, Broadway theatre
+  Q2942774   5.8   1972 Americas  Canada         | Saint Boniface Cathedral — Étienne Gaboury | cathedral, minor basilica
+  Q5062803   5.7   1972 Americas  Chile          | Centro Cultural Gabriela Mistral — Cristián Fernández Eyzaguirre | cultural center, museum building
+   Q273781   4.7   1972 Americas  Canada         | Édifice Marie-Guyart — Édouard Fiset | skyscraper
+   Q225731  11.4 * 1973 Americas  United States  | 330 North Wabash — Ludwig Mies van der Rohe | tower block
+  Q4596012   7.0   1973 Americas  United States  | 1 Police Plaza — Gruzen and Partners | building
+  Q8342818   7.0   1973 Americas  Brazil         | Cathedral Basilica of the Good Lord Jesus — Benedito Calixto Neto | Catholic cathedral, minor basilica
+  Q2156146   6.8   1973 Americas  Canada         | John P. Robarts Library — Mathers & Haldenby, Warner Burns Toan & Lunde | academic library, built structure
+  Q3062716   6.3   1973 Americas  United States  | Minskoff Theatre — Ely Jacques Kahn, Der Scutt | theatre building, Broadway theatre
+   Q632019  13.5 * 1974 Americas  United States  | Solow Building — Gordon Bunshaft | skyscraper, workplace
+   Q731126  12.8 * 1974 Americas  United States  | J. Paul Getty Museum — Richard Meier | art museum, publishing house
+   Q685377  12.6 * 1974 Americas  United States  | W. R. Grace Building — Gordon Bunshaft | skyscraper
+  Q1620553  12.0 * 1974 Americas  United States  | Hirshhorn Museum and Sculpture Garden — Gordon Bunshaft | sculpture garden, art museum
+  Q2058889  10.5 * 1974 Americas  United States  | Kluczynski Federal Building — Ludwig Mies van der Rohe | skyscraper, federal building
+   Q305419   8.6   1974 Americas  Mexico         | Basilica of Our Lady of Guadalupe — Pedro Ramírez Vázquez | minor basilica, church building
+  Q4801118   5.3   1974 Americas  Uruguay        | Artigas Mausoleum — Lucas Ríos Demaldé | mausoleum
+  Q2142820   5.1   1974 Americas  Peru           | San Pedro prison — Fernando Belaúnde | prison
+  Q1982044  10.3 * 1975 Americas  United States  | Century Plaza Towers — Minoru Yamasaki | twin towers
+   Q924172   9.5 * 1975 Americas  Brazil         | Estádio Serra Dourada — Paulo Mendes da Rocha | association football venue
+  Q1052475   6.4   1975 Americas  Canada         | First Canadian Place — B+H Architects, Edward Durell Stone | skyscraper
+ Q15072543   5.3   1975 Americas  Ecuador        | New Cathedral of Cuenca — Johannes Bautista Stiehle | cathedral
+  Q4694507   5.3   1975 Americas  Mexico         | Aguascalientes Museum — Refugio Reyes Rivas | art museum, museum
+   Q798416  13.4 * 1976 Americas  United States  | John Hancock Tower — Henry N. Cobb, I. M. Pei | skyscraper
+  Q3500463  11.8 * 1976 Americas  United States  | BOK Tower — Minoru Yamasaki | skyscraper
+   Q134883   8.8   1976 Americas  Canada         | CN Tower — John Andrews | television tower, observation tower
+  Q5374148   7.0   1976 Americas  United States  | Empire State Plaza — Wallace Harrison | building complex, square
+  Q1051217  13.6 * 1977 Americas  United States  | Crystal Cathedral — Philip Johnson | cathedral, Catholic cathedral
+  Q1156823  11.8 * 1977 Americas  United States  | New Museum — Kazuyo Sejima, Ryue Nishizawa | art museum, arts venue
+  Q7284914  10.1 * 1977 Americas  United States  | Rainier Tower — Minoru Yamasaki | skyscraper
+  Q1541365   6.1   1977 Americas  United States  | Renaissance Center — John C. Portman Jr. | building complex, skyscraper
+   Q522913  10.5 * 1978 Americas  Argentina      | Recoleta Cultural Center — Jacques Bedel, Luis Fernando Benedit | cultural center
+  Q1029132   6.2   1978 Americas  United States  | Louis Armstrong Stadium — Rossetti Architects | tennis venue
+  Q1248619   6.2   1978 Americas  United States  | Reunion Tower — Welton Becket | observation tower
+  Q5758613   6.0   1978 Americas  Mexico         | Toluca Cathedral — Vicente Mendiola Quezada | Catholic cathedral
+  Q9297635   5.5   1978 Americas  Brazil         | St. Joseph's Cathedral, Fortaleza — Georges Henry Munier | Catholic cathedral, cultural heritage
+  Q1134646  12.0 * 1979 Americas  United States  | Museum of Contemporary Art, Los Angeles — Arata Isozaki | art museum, museum building
+  Q2411716   8.7   1979 Americas  Brazil         | Rio de Janeiro Cathedral — Edgar de Oliveira da Fonseca | cathedral
+  Q1136273   7.3   1980 Americas  United States  | Thorncrown Chapel — E. Fay Jones | chapel
+   Q861608   7.6   1981 Americas  United States  | National Museum of Women in the Arts — Waddy Butler Wood | art museum, nonprofit organization
+  Q1357650  13.6 * 1982 Americas  United States  | Williams Tower — Philip Johnson | skyscraper
+  Q7231890  11.8 * 1982 Americas  United States  | Portland Building — Michael Graves | tower block
+   Q674427   6.5   1982 Americas  United States  | Salvador Dalí Museum — HOK | art museum, nonprofit organization
+  Q1138147   5.2   1982 Americas  Mexico         | Museo Nacional de Arte — Q97698988 | art museum, national museum
+   Q179191  13.5 * 1983 Americas  United States  | Rock and Roll Hall of Fame — I. M. Pei | music museum, museum building
+   Q806669  13.1 * 1983 Americas  United States  | TC Energy Center — Philip Johnson | skyscraper
+  Q2476712   5.5   1983 Americas  Canada         | Palais des congrès de Montréal — Victor Prus, Claude Cormier | convention center
+  Q9293120   5.1   1983 Americas  Canada         | Robson Square — Arthur Erickson | square, courthouse
+  Q1477826  13.4 * 1984 Americas  United States  | 550 Madison Avenue — Philip Johnson, John Burgee | skyscraper
+  Q1705530  12.3 * 1984 Americas  Canada         | Musée de la civilisation — Moshe Safdie | museum building, museum
+  Q2817725  10.1 * 1987 Americas  United States  | 580 California Street — John Burgee, Philip Johnson | skyscraper
+  Q1327514   5.9   1988 Americas  Canada         | Scotia Plaza — WZMH Architects | skyscraper
+   Q247887  13.3 * 1989 Americas  United States  | 60 Wall Street — Kevin Roche | skyscraper, office building
+  Q2556762  12.3 * 1989 Americas  United States  | Leo Burnett Building — Kevin Roche | tower block
+  Q2527311  11.1 * 1989 Americas  United States  | Wexner Center for the Arts — Peter Eisenman | art museum, art gallery
+  Q2860532  10.3 * 1989 Americas  Colombia       | General Archive of the Nation of Colombia — Rogelio Salmona | national library, national archives
+    Q57900   6.8   1989 Americas  United States  | U.S. Bank Tower — Pei Cobb Freed & Partners | skyscraper
+  Q3409012  10.6 * 1990 Americas  United States  | Walt Disney World Dolphin — Michael Graves | convention center, hotel
+  Q2734953   8.4   1990 Americas  United States  | Salesforce Tower — KlingStubbins | built structure
+   Q677561   6.9   1990 Americas  United States  | Hammer Museum — Edward Larrabee Barnes | art museum, nonprofit organization
+  Q3151521   6.5   1990 Americas  Canada         | Montréal Insectarium — Kuehn Malvezzi | insectarium, natural history museum
+   Q164877   5.7   1990 Americas  Canada         | 1000 de La Gauchetière — Dimitri Dimakopoulos | skyscraper
+  Q2746067  12.8 * 1991 Americas  United States  | 191 Peachtree Tower — John Burgee, Philip Johnson | tower block
+  Q6940538  11.0 * 1991 Americas  Mexico         | Museo de Arte Contemporáneo de Monterrey — Ricardo Legorreta | art museum, art gallery
+  Q1432360   7.2   1991 Americas  United States  | Ronald Reagan Presidential Library — Hugh Stubbins | built structure, museum
+  Q1674095   6.2   1991 Americas  United States  | Islamic Cultural Center of New York — Q459464 | mosque
+   Q499486  14.5 * 1992 Americas  United States  | Bank of America Plaza — Kevin Roche | skyscraper
+   Q268559  12.8 * 1992 Americas  United States  | 77 West Wacker Drive — Ricardo Bofill | skyscraper, office building
+   Q929051   8.6   1992 Americas  Canada         | Brookfield Place — B+H Architects | building complex
+  Q1706824   6.1   1992 Americas  United States  | SunTrust Plaza — John C. Portman Jr. | tower block, skyscraper
+  Q1496027   5.8   1992 Americas  Canada         | Pointe-à-Callière Museum — John Ostell, Dan Hanganu | museum building, archaeological museum
+   Q544545   5.6   1992 Americas  Canada         | Fields Institute — KPMB Architects | research institute, university building
+  Q3124927  13.0 * 1993 Americas  United States  | One Detroit Center — Philip Johnson, John Burgee | building
+  Q6825038  11.0 * 1993 Americas  Nicaragua      | Immaculate Conception Cathedral, Managua — Ricardo Legorreta | cathedral
+   Q238990   8.2   1993 Americas  United States  | United States Holocaust Memorial Museum — James Ingo Freed | memorial, museum
+ Q14875453   5.6   1993 Americas  Canada         | meridian arts centre — Eberhard Zeidler | performing arts building, event venue
+   Q432105   8.5   1995 Americas  United States  | TD Garden — Ellerbe Becket | built structure, music venue
+   Q810693   7.0   1995 Americas  Canada         | Bata Shoe Museum — Raymond Moriyama | museum
+  Q1150936   7.4   1996 Americas  United States  | Turner Field — Heery International | built structure
+  Q1539206   6.5   1996 Americas  United States  | Van Andel Arena — Rossetti Architects | event venue
+    Q29247  13.4 * 1997 Americas  United States  | Getty Center — Richard Meier | architectural ensemble, museum
+  Q1507065   6.6   1997 Americas  United States  | George Bush Presidential Library — HOK | museum, library
+   Q839985   6.2   1997 Americas  United States  | Museum of Jewish Heritage — Roche-Dinkeloo | museum, nonprofit organization
+  Q1068011   7.5   1998 Americas  United States  | Chase Field — Ellerbe Becket | building, baseball venue
+  Q5477291   6.2   1998 Americas  United States  | Lyric Theatre — Richard Lewis Blinder, Victor Hugo Koehler | theatre building, Broadway theatre
+  Q1138057   5.8   1998 Americas  Uruguay        | World Trade Center Montevideo — Isidoro Singer, Ernesto Kimelman | building complex
+ Q24502406   5.8   1999 Americas  Mexico         | Desert Museum — Francisco López-Guerra Almada | museum
+  Q1797977   6.8   2000 Americas  United States  | LDS Conference Center — ZGF Architects LLP | built structure
+  Q1427761   6.7   2000 Americas  United States  | Indian Wells Tennis Garden — Rossetti Architects | tennis venue
+  Q1810424   6.0   2000 Americas  United States  | Park Tower — Lucien Lagrange Architects | skyscraper
+  Q1974769  10.8 * 2001 Americas  United States  | Guggenheim Hermitage Museum — Rem Koolhaas | art museum
+   Q180615   8.7   2001 Americas  United States  | Dolby Theatre — David Rockwell | theatre building, concert hall
+  Q1339293   7.4   2001 Americas  United States  | American Family Field — HKS | built structure
+  Q5504731   7.1   2001 Americas  United States  | Frist Art Museum — Marr & Holman | art museum
+   Q683915   5.7   2001 Americas  Canada         | One Wall Centre — Perkins & Will | skyscraper
+  Q1631067  13.8 * 2002 Americas  United States  | Cathedral of Our Lady of the Angels — Rafael Moneo | Catholic cathedral
+  Q2298630   4.2   2002 Americas  Uruguay        | Torre de las Comunicaciones — Carlos Ott | tower block
+   Q474326  14.7 * 2003 Americas  United States  | Walt Disney Concert Hall — Frank Gehry | concert hall
+  Q3073495  13.9 * 2003 Americas  United States  | National Museum of African American History and Culture — David Adjaye, Phil Freelon | African-American museum, museum building
+  Q2781067  11.7 * 2003 Americas  United States  | 425 Fifth Avenue — Michael Graves | skyscraper
+  Q1207917   6.0   2003 Americas  United States  | Dia Beacon — Robert Irwin | art museum
+  Q5419995  12.1 * 2004 Americas  United States  | Exelon Pavilions — Renzo Piano | built structure
+   Q912770   7.7   2004 Americas  United States  | Citizens Bank Park — EwingCole | baseball venue
+   Q763076   4.0   2004 Americas  Canada         | Rogers Tower — James K. M. Cheng | skyscraper
+  Q1109555  12.3 * 2005 Americas  United States  | San José City Hall — Richard Meier | city hall, skyscraper
+   Q983870   7.7   2005 Americas  United States  | Spectrum Center — Ellerbe Becket | built structure, venue
+   Q371973   6.9   2005 Americas  United States  | Bill Gates's house — Bohlin Cywinski Jackson | mansion, earth shelter
+   Q756433  10.9 * 2006 Americas  United States  | State Farm Stadium — Peter Eisenman | stadium
+  Q6294156   7.4   2006 Americas  Mexico         | Vasconcelos Library — Alberto Kalach, Juan Palomar Verea | library, public library
+  Q2614377   6.2   2006 Americas  Canada         | Four Seasons Centre for the Performing Arts — Diamond Schmitt Architects | opera house, performing arts building
+   Q192680  15.0 * 2007 Americas  United States  | New York Times Building — Renzo Piano | skyscraper, office building
+  Q2446907  13.5 * 2007 Americas  United States  | 53W53 — Jean Nouvel | skyscraper
+  Q3146488  13.1 * 2007 Americas  United States  | IAC Building — Frank Gehry, Adamson Associates | office building
+  Q7414007  12.5 * 2007 Americas  United States  | San Francisco Federal Building — Thom Mayne | skyscraper
+   Q226246   6.3   2007 Americas  United States  | 340 on the Park — Solomon Cordwell Buenz | built structure
+  Q1514587   6.2   2007 Americas  United States  | The Palazzo — HKS | skyscraper
+   Q751824   5.2   2007 Americas  Brazil         | Eldorado Business Tower — Aflalo & Gasperini | skyscraper
+  Q1351208  14.4 * 2008 Americas  United States  | 4 World Trade Center — Fumihiko Maki | skyscraper, office building
+   Q722744   7.3   2008 Americas  United States  | Cathedral of Christ the Light — Craig W. Hartman | Catholic cathedral
+  Q1108956   6.2   2008 Americas  Argentina      | AMALITA Collection — Rafael Viñoly | art museum, museum
+  Q1785026   5.9   2008 Americas  Canada         | Living Shangri-La — James K. M. Cheng | skyscraper
+   Q753529   8.3   2009 Americas  United States  | Yankee Stadium — Populous | baseball venue
+   Q812062   7.8   2009 Americas  Canada         | Bay Adelaide Centre — WZMH Architects | building complex
+   Q328505   7.4   2009 Americas  United States  | Bank of America Tower — Cookfox | skyscraper
+   Q622895   6.6   2009 Americas  United States  | Aqua — Jeanne Gang | skyscraper
+  Q1558449   6.0   2009 Americas  United States  | Silver Towers — Costas Kondylis | twin towers
+  Q2668183   6.0   2009 Americas  Chile          | Agustín Ross Cultural Centre — Agustín Ross | building, cultural property
+  Q3285980   4.6   2009 Americas  Canada         | Manitoba Hydro Place — KPMB Architects | skyscraper
+  Q4121126  12.7 * 2010 Americas  El Salvador    | Torre El Pedregal — Ricardo Legorreta | skyscraper
+   Q595460   7.9   2010 Americas  United States  | PPG Paints Arena — Populous | multi-purpose hall, ice rink
+  Q1053550   7.1   2010 Americas  Canada         | Centennial Place — WZMH Architects | building complex
+  Q1443089   6.3   2010 Americas  United States  | NASCAR Hall of Fame — Pei Cobb Freed & Partners | building, hall of fame
+  Q4120770   5.6   2010 Americas  Canada         | Beaty Biodiversity Museum — Patricia Patkau | museum
+   Q274916  14.2 * 2011 Americas  United States  | 8 Spruce Street — Frank Gehry | skyscraper
+  Q1136137  13.1 * 2011 Americas  United States  | National September 11 Memorial & Museum — Michael Arad, Handel Architects | museum, memorial
+ Q11884284  12.5 * 2011 Americas  United States  | New World Center — Frank Gehry | performing arts center
+  Q1142334  11.8 * 2011 Americas  United States  | Crystal Bridges Museum of American Art — Moshe Safdie | art museum, museum
+  Q5360357  11.2 * 2012 Americas  United States  | Eli and Edythe Broad Art Museum — Zaha Hadid Architects | art museum
+    Q74980  11.2 * 2012 Americas  United States  | Franklin D. Roosevelt Four Freedoms Park — Louis Kahn | New York state park, cenotaph
+  Q2582536   7.1   2012 Americas  Brazil         | Cidade das Artes Bibi Ferreira — Christian de Portzamparc | built structure, cultural center
+  Q2276983   5.5   2012 Americas  Canada         | Shangri-La Toronto — James K. M. Cheng | skyscraper
+   Q593320   4.8   2012 Americas  Canada         | Four Seasons Hotel and Residences Toronto — Peter Clewes, architectsAlliance | skyscraper, building complex
+ Q10862504   3.8   2012 Americas  Argentina      | Alvear Tower — Q11439844 | skyscraper
+  Q7092848  12.8 * 2013 Americas  United States  | One Madison — Cetra/Ruddy, Rem Koolhaas | skyscraper, residential building
+  Q1508430   6.9   2013 Americas  United States  | George W. Bush Presidential Center — Robert A. M. Stern | museum, Presidential libraries system
+  Q1128578   6.0   2013 Americas  Canada         | McCord Stewart Museum — Percy Erskine Nobbs | building, history museum
+    Q11245  15.7 * 2014 Americas  United States  | One World Trade Center — David Childs, Q459464 | skyscraper, office building
+   Q780392  12.5 * 2014 Americas  Canada         | L Tower — Daniel Libeskind | skyscraper
+  Q4690937  12.0 * 2014 Americas  Canada         | The Aga Khan Museum — Fumihiko Maki | art museum, museum building
+ Q20711578  11.3 * 2014 Americas  United States  | Lucas Museum of Narrative Art — Ma Yansong | museum, art museum
+ Q22981426  11.0 * 2014 Americas  Mexico         | International Museum of the Baroque — Toyo Ito | art museum, museum
+   Q774178   5.3   2014 Americas  Canada         | Aura — Graziani + Corazza | skyscraper
+ Q10333874  13.3 * 2015 Americas  Brazil         | Museum of Tomorrow — Santiago Calatrava | science museum
+  Q6150039  11.2 * 2015 Americas  Mexico         | Torre BBVA Mexico — Rogers Stirk Harbour + Partners, Legorreta Arquitectos | skyscraper
+  Q7089145   7.2   2015 Americas  Brazil         | Olympic Tennis Center — Gerkan, Marg and Partners | tennis venue
+   Q244358  13.7 * 2016 Americas  United States  | 56 Leonard Street — Herzog & de Meuron | skyscraper
+  Q7984220  11.3 * 2016 Americas  United States  | Via 57 West — BIG | skyscraper
+  Q7011384   7.2   2016 Americas  United States  | Golden 1 Center — AECOM | sports venue
+   Q713932   6.5   2016 Americas  United States  | Arts and Industries Building — Adolf Cluss | museum, museum building
+ Q42908448   6.3   2016 Americas  Chile          | Bahá'í House of Worship for the South American continent — Siamak Hariri | Bahá'í temple
+   Q224126   6.1   2016 Americas  United States  | 30 Park Place — Robert A.M. Stern Architects | skyscraper
+  Q2155353   5.5   2016 Americas  Canada         | Paradox Vancouver — Arthur Erickson | skyscraper
+ Q18154984   7.7   2017 Americas  United States  | Little Caesars Arena — HOK | sports venue
+ Q19833951   7.7   2017 Americas  United States  | Madison Square Park Tower — Kohn Pedersen Fox | building
+   Q533365   6.2   2017 Americas  United States  | Beth Hamedrash Hagadol — Schneider & Herter | synagogue, religious building ruin
+ Q15789968   4.8   2017 Americas  Canada         | Brookfield Place — Dialog | skyscraper
+   Q941908  14.6 * 2018 Americas  United States  | 3 World Trade Center — Richard Rogers | skyscraper
+ Q48596158   6.2   2018 Americas  United States  | Amazon Spheres — NBBJ | conservatory
+ Q15264301  13.3 * 2019 Americas  United States  | 15 Hudson Yards — Kohn Pedersen Fox, Diller Scofidio + Renfro | skyscraper
+ Q55636956  12.1 * 2019 Americas  Canada         | Vancouver House — BIG | skyscraper
+ Q21609043   6.2   2019 Americas  United States  | NEMA Chicago — Rafael Viñoly | built structure
+ Q30641786  10.8 * 2020 Americas  United States  | 130 William — David Adjaye | building
+ Q19817578   6.2   2020 Americas  United States  | St. Regis Chicago — Studio Gang, Jeanne Gang | skyscraper, residential building
+ Q60749353   7.9   2023 Americas  United States  | Sphere — Populous | music venue, built structure
+ Q18152059   6.5   2023 Americas  United States  | Perelman Performing Arts Center — Joshua Ramus | opera house, performing arts center
+Q135550309   6.8   2025 Americas  United States  | White House State Ballroom — James C. McCrery, II, Shalom Baranes Associates | building
+   Q147286   7.6 * 1897 East Asia Japan          | Kyoto National Museum — Katayama Tōkuma, Yoshio Taniguchi | national museum
+   Q709900   6.6 * 1900 East Asia Taiwan         | Kaohsiung main station — Mecanoo | railway station, underground station
+  Q7304386   3.6   1908 East Asia Taiwan         | The Red House — Juro Kondo | cultural heritage monument in Taipei, building
+  Q6518233   4.0   1912 East Asia People's Repub | Court of Final Appeal Building — Aston Webb, Ingress Bell | building
+ Q15903989   8.8 * 1914 East Asia People's Repub | Tianjin Natural History Museum — Shin Takamatsu, Mamoru Kawaguchi | museum, cultural institution
+    Q55601   5.1   1919 East Asia Taiwan         | Presidential Office Building — Uheiji Nagano, Matsunosuke Moriyama | building, cultural heritage monument in Taipei
+   Q287165   6.1   1920 East Asia Japan          | Meiji Jingū — Itō Chūta | jingū, chokusaisha
+   Q864957  10.2 * 1926 East Asia Japan          | Tokyo Metropolitan Art Museum — Kunio Maekawa | art museum, prefectural museum
+   Q857752   4.5   1927 East Asia People's Repub | Henan Museum — Qi Kang | history museum
+  Q1047097   9.5 * 1940 East Asia Japan          | Nezu Museum — Kengo Kuma | art museum
+   Q717882   6.8   1947 East Asia Taiwan         | Taipei Grand Mosque — Yang Cho-cheng | mosque
+   Q477675   8.6   1948 East Asia Japan          | National Diet Library — Maekawa Associates, Architects & Engineers | national library, parliamentary library
+  Q4425941  11.6 * 1950 East Asia Japan          | Assumption of Mary Cathedral, Hiroshima — Togo Murano, Kenzō Tange | Catholic cathedral
+  Q1359908  12.0 * 1952 East Asia Japan          | The National Museum of Modern Art — Yoshirō Taniguchi, Kunio Maekawa | art museum, national museum
+   Q990603   6.0   1954 East Asia People's Repub | Beijing Exhibition Center — Viktor Andreyev, Dai Nianci | convention center
+  Q1148463   7.0   1955 East Asia Japan          | Tsūtenkaku — Tachū Naitō | observation tower
+  Q1099077   6.9   1955 East Asia Japan          | Nagasaki Atomic Bomb Museum — Kume Sekkei | military museum, peace museum
+  Q1066903  12.1 * 1956 East Asia Japan          | Tokyo Metropolitan Gymnasium — Fumihiko Maki | sports venue
+  Q5942029  11.1 * 1956 East Asia People's Repub | Hunan Museum — Arata Isozaki | museum
+   Q183536   8.6   1957 East Asia Japan          | Tokyo Tower — Tachū Naitō | observation tower, transmitter mast
+  Q1063319   6.7   1957 East Asia Japan          | Sapporo TV Tower — Tachū Naitō | television tower
+  Q1362629  14.1 * 1959 East Asia Japan          | National Museum of Western Art — Le Corbusier, Kunio Maekawa | art museum, museum building
+    Q72891   8.0   1959 East Asia People's Repub | Great Hall of the People — Zhang Bo | building of public administration
+  Q3200978  11.6 * 1960 East Asia Japan          | Rohm Theatre Kyoto — Kunio Maekawa, Hisao Kōyama | concert hall
+  Q3892342  11.8 * 1961 East Asia Japan          | Tokyo Bunka Kaikan — Kunio Maekawa | concert hall, auditorium
+ Q11249110  10.8 * 1961 East Asia Japan          | Suntory Museum of Art — Kengo Kuma | art museum
+  Q1207989   6.6   1961 East Asia Japan          | Yokohama Marine Tower — Shimizu Corporation | lighthouse, observation tower
+  Q1055628  11.5 * 1963 East Asia Japan          | National Museum of Modern Art, Kyoto — Fumihiko Maki | art museum, national museum
+   Q798766   7.0   1963 East Asia Japan          | Kobe Port Tower — Nikken Sekkei, Q65248663 | observation tower, hyperboloid structure
+   Q233705   6.8   1963 East Asia People's Repub | National Art Museum of China — Dai Nianci | art museum, national museum
+   Q496884   5.8   1963 East Asia South Korea    | Jangchung Arena — Kim Jeong-su | built structure
+  Q7270340   5.5   1963 East Asia People's Repub | Queen Elizabeth Hospital — Architectural Services Department | hospital
+  Q1193480  12.2 * 1964 East Asia Japan          | St. Mary's Cathedral — Kenzō Tange | cathedral, church building
+  Q1201304   6.9   1964 East Asia Japan          | Kyoto Tower — Mamoru Yamada | observation tower
+  Q4229116   6.2   1964 East Asia Japan          | Komazawa Olympic Park Stadium — Masachika Murata | Q121072018
+   Q114295   8.4   1966 East Asia Japan          | Fukushima Daiichi Nuclear Power Plant — Ebasco Services | nuclear power plant
+  Q1795135   7.3   1966 East Asia Japan          | Kyoto International Conference Center — Sachio Otani | convention center
+  Q1369225   6.5   1966 East Asia Japan          | National Theatre of Japan — Takenaka Corporation | performing arts center, national theatre
+  Q5116271   5.1   1966 East Asia Taiwan         | Chung-Shan Building — Xiu Zelan | built structure
+  Q3329874  10.5 * 1968 East Asia Japan          | Japanese Sword Museum — Fumihiko Maki | military museum
+  Q1134422   6.5   1968 East Asia Japan          | Hakone Open-Air Museum — Bukichi Inoue | sculpture garden, open-air museum
+  Q6371422   7.2   1970 East Asia Japan          | Saga Prefectural Museum — Teiichi Takahashi, Yoshichika Uchida | prefectural museum, museum building
+   Q492442  12.8 * 1972 East Asia Japan          | United Nations University — Kenzō Tange | international university, research university
+  Q4556482  10.8 * 1976 East Asia Japan          | Kumamoto Prefectural Museum of Art — Kunio Maekawa | art museum, prefectural museum
+ Q11469731  10.1 * 1978 East Asia Japan          | Yamanashi Prefectural Museum of Art — Kunio Maekawa | art museum, prefectural museum
+  Q3073273  11.1 * 1979 East Asia Japan          | Fukuoka Art Museum — Kunio Maekawa | art museum
+ Q11577460  10.3 * 1979 East Asia Japan          | Tanabe Art Museum — Kiyonori Kikutake | art museum
+   Q685328   6.6   1979 East Asia Japan          | 109 — Minoru Takeyama | fashion building
+ Q11453791  10.3 * 1981 East Asia Japan          | Miyagi Museum of Art — Kunio Maekawa | art museum, prefectural museum
+  Q3330690   6.5   1981 East Asia Japan          | National Museum of Japanese History — Yoshinobu Ashihara | national museum, history museum
+  Q6157886  10.5 * 1982 East Asia Japan          | Japan Ukiyo-e Museum — Kazuo Shinohara | art museum
+   Q209676   7.5   1982 East Asia North Korea    | Arch of Triumph — Baikdoosan Architects & Engineers | triumphal arch
+ Q11440555   6.1   1982 East Asia Japan          | Museum of Oriental Ceramics, Osaka — Ryūichi Yokogawa | ceramics museum, museum of Asian art
+  Q3539675  10.3 * 1983 East Asia Japan          | Ken Domon Museum of Photography — Yoshio Taniguchi | photography museum, biographical museum
+  Q1138457   6.1   1983 East Asia Japan          | National Noh Theatre — Hiroshi Ōe | national theatre, noh stage
+  Q1138857  12.5 * 1984 East Asia Japan          | National Bunraku Theatre — Kisho Kurokawa | national theatre, puppetry company
+ Q24877101  10.3 * 1985 East Asia Japan          | Asakusa Culture Tourist Information Center — Kengo Kuma | tourism office
+   Q904037  10.1 * 1985 East Asia Japan          | Spiral — Fumihiko Maki | building
+    Q32391   6.0   1985 East Asia People's Repub | Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders — Qi Kang | cultural heritage, military museum
+   Q700387   5.5   1986 East Asia Taiwan         | Taipei World Trade Center — Haigo T. H. Shen | convention center
+   Q555332   6.2   1987 East Asia Taiwan         | National Theater and Concert Hall — Yang Cho-cheng | opera house, concert hall
+  Q2618145  12.6 * 1988 East Asia People's Repub | Lippo Centre — Paul Rudolph | twin towers
+  Q3061837   5.5   1988 East Asia People's Repub | Exchange Square — P&T Architects & Engineers Ltd. | twin towers
+  Q4925165  12.0 * 1989 East Asia Japan          | Tokyo Sea Life Park — Yoshio Taniguchi | public aquarium
+    Q93425  11.1 * 1989 East Asia Japan          | Hiroshima City Museum of Contemporary Art — Kisho Kurokawa | art museum, contemporary art museum
+   Q214855  13.5 * 1990 East Asia People's Repub | Bank of China Tower — I. M. Pei | skyscraper, bank building
+   Q705767  11.6 * 1990 East Asia Japan          | Art Tower Mito — Arata Isozaki, Q59186430 | art gallery
+  Q1191885   7.3   1990 East Asia Japan          | Osaka Aquarium Kaiyukan — Peter Chermayeff | public aquarium
+  Q1133851   6.6   1990 East Asia Japan          | Sanrio Puroland — Azusa Sekkei | theme park
+  Q1956181   6.2   1990 East Asia Japan          | Tokyo Metropolitan Theatre — Yoshinobu Ashihara | theatre building, concert hall
+  Q9600912   6.2   1990 East Asia Japan          | Kumagaya Rugby Stadium — Shimizu Corporation, MHS Planners, Architects and Engineers | rugby union venue
+   Q111973  14.4 * 1991 East Asia Japan          | Tokyo Metropolitan Government Building — Kenzō Tange | building complex, prefectural office building
+  Q5965394   6.2   1991 East Asia Japan          | Sakamoto Ryōma Memorial Museum — Akiko Takahashi | biographical museum
+   Q112640   7.2   1992 East Asia People's Repub | Central Plaza — DLN Architects | skyscraper
+  Q3269665   6.2   1992 East Asia People's Repub | Three Garden Road, Central — Rocco Yim | building complex
+  Q1151808  12.6 * 1993 East Asia Japan          | Umeda Sky Building — Hiroshi Hara | skyscraper
+  Q1191042  12.1 * 1993 East Asia Japan          | Edo-Tokyo Museum — Kiyonori Kikutake | history museum, museum building
+  Q3011415  11.5 * 1993 East Asia Japan          | DN Tower 21 — Kevin Roche | tower block, office building
+  Q6148001   7.4   1993 East Asia Japan          | Tokyo Tatsumi International Swimming Centre — Environment Design Institute, Mitsuru Senda | Q11548891, swimming center
+   Q587108   7.2   1993 East Asia Japan          | Yokohama Landmark Tower — Hugh Stubbins, Mitsubishi Estate | skyscraper
+  Q1348023  12.1 * 1994 East Asia Japan          | Shinjuku Park Tower — Kenzō Tange | tower block, skyscraper
+  Q4557237  11.0 * 1994 East Asia Japan          | Osaka Prefectural Chikatsu Asuka Museum — Tadao Ando | archaeological museum, prefectural museum
+  Q1086088  12.7 * 1995 East Asia Japan          | Nagaragawa Convention Center — Tadao Ando | convention center
+  Q4461630  11.2 * 1995 East Asia Japan          | Toyota Municipal Museum of Art — Yoshio Taniguchi | art museum
+  Q1359125   8.8   1995 East Asia Japan          | Tokyo Big Sight — AXS Satow | convention center, event venue
+  Q1490655   7.3   1995 East Asia North Korea    | Monument to Party Founding — Mansudae Art Studio | built structure
+  Q1649688   6.6   1995 East Asia Japan          | Museum of Contemporary Art Tokyo — Takahiko Yanagisawa | art museum, art gallery
+  Q3298536   6.6   1995 East Asia Japan          | Miyazaki Prefectural Art Museum — Shin'ichi Okada | art museum, prefectural museum
+  Q1359892   7.5   1996 East Asia Japan          | Tokyo International Forum — Rafael Viñoly | cultural center, exhibition park
+   Q842535   7.3   1997 East Asia People's Repub | Peak Tower — Farrells | building
+  Q1056064   6.9   1997 East Asia Japan          | New National Theatre Tokyo — Takahiko Yanagisawa | national theatre, opera house
+   Q597725   6.7   1997 East Asia People's Repub | Hong Kong Convention and Exhibition Centre — Larry Oltmanns | built structure, facility
+   Q245246   5.9   1997 East Asia People's Repub | CITIC Plaza — DLN Architects | skyscraper
+   Q337631   5.8   1997 East Asia Taiwan         | Tuntex Sky Tower — C. Y. Lee | skyscraper
+  Q5011918   5.6   1997 East Asia People's Repub | CITIC Tower — P&T Architects & Engineers Ltd. | building
+   Q494860  11.2 * 1998 East Asia Japan          | Sapporo Dome — Hiroshi Hara | Multi-purpose stadium, music venue
+  Q1179272   7.7   1998 East Asia Japan          | Osamu Dazai Memorial Museum — Horie Sakichi | biographical museum, birth house
+  Q1325611   7.5   1998 East Asia People's Repub | Shanghai Grand Theatre — Jean-Marie Charpentier | theatre building, opera house
+ Q17210881   6.3   1998 East Asia Japan          | Matsumoto Seicho Memorial Museum — Tadanaga Miyamoto | biographical museum, literary museum
+   Q223207   6.2   1998 East Asia People's Repub | Oriental Pearl Tower — East China Architectural Design & Research Institute | skyscraper, observation tower
+    Q80813   6.2   1998 East Asia People's Repub | Jin Mao Tower — Q459464 | skyscraper
+   Q867148   6.2   1998 East Asia Japan          | Osaka Maritime Museum — Paul Andreu | maritime museum
+  Q3788883  11.3 * 1999 East Asia Japan          | National Showa Memorial Museum — Kiyonori Kikutake | national museum
+  Q2655425  11.0 * 1999 East Asia Japan          | Shimane Art Museum — Kiyonori Kikutake | art museum, prefectural museum
+   Q606350   5.6   1999 East Asia People's Repub | Kwai Tsing Theatre — Architectural Services Department | theatre building
+  Q3247157  11.5 * 2000 East Asia Japan          | Fukui Prefectural Dinosaur Museum — Kisho Kurokawa | paleontological museum, prefectural museum
+  Q2960179  11.0 * 2000 East Asia Japan          | Awaji Yumebutai — Tadao Ando | resort
+  Q1710283   7.9   2000 East Asia Japan          | Tokyo Mosque — Hilmi Şenalp | mosque
+   Q947907   7.7   2001 East Asia Japan          | Ghibli Museum — Nihon Sekkei | art museum
+   Q656957   7.1   2001 East Asia Japan          | Miraikan — Nikken Sekkei, Kume Sekkei | technology museum, national museum
+  Q4391562   6.3   2001 East Asia Japan          | Ishinomori Manga Museum — Nihon Sekkei | comics museum, biographical museum
+  Q3329607  11.7 * 2002 East Asia Japan          | Hyōgo Prefectural Museum of Art — Tadao Ando | art museum, prefectural museum
+  Q1540258  11.0 * 2002 East Asia Taiwan         | National Museum of Prehistory — Michael Graves | national museum
+   Q133628   6.2   2002 East Asia Japan          | Nagasaki National Peace Memorial Hall for the Atomic Bomb Victims — Akira Kuryu | war memorial, peace museum
+  Q2913644  12.1 * 2003 East Asia Japan          | Nittele Tower — Richard Rogers, Mitsubishi Jisho Design | skyscraper
+  Q1134566  11.6 * 2003 East Asia Japan          | Shiodome City Center — Kevin Roche | skyscraper, office building
+   Q705614  10.6 * 2003 East Asia Japan          | Toki Messe — Fumihiko Maki | skyscraper, convention center
+   Q869784  10.6 * 2003 East Asia Japan          | Riverwalk Kitakyushu — Jon Jerde, Michael Graves | shopping center
+  Q1074318   8.5   2003 East Asia People's Repub | National Museum of China — Gerkan, Marg and Partners | square, national museum
+    Q15246   8.1   2003 East Asia People's Repub | International Finance Centre — César Pelli, Rocco Yim | building complex
+   Q241648   5.6   2003 East Asia People's Repub | Victoria Towers — Rocco Yim | skyscraper, private housing estate in Hong Kong
+  Q4556499  11.6 * 2004 East Asia Japan          | Chichu Art Museum — Tadao Ando | art museum, art gallery
+   Q118003   8.0   2004 East Asia People's Repub | Langham Place — Wong & Ouyang (HK) Ltd. | building complex
+  Q2823796   7.5   2004 East Asia Japan          | Acty Shiodome — Takenaka Corporation | residential tower
+    Q23825   6.2   2004 East Asia People's Repub | Shanghai Oriental Art Center — Paul Andreu | performing arts center
+   Q782435  13.3 * 2005 East Asia People's Repub | Bank of Shanghai Headquarters — Kenzō Tange | skyscraper
+   Q148543  12.2 * 2005 East Asia Japan          | Kyushu National Museum — Kiyonori Kikutake, Kume Sekkei | national museum, history museum
+  Q1076070  11.2 * 2005 East Asia Japan          | Omotesando Hills — Tadao Ando | shopping center, multifamily residential
+ Q11652770  11.0 * 2005 East Asia Japan          | Nagasaki Prefectural Art Museum — Kengo Kuma, Nihon Sekkei | art museum, prefectural museum
+    Q83101   8.4   2005 East Asia Taiwan         | Taipei 101 — C. Y. Lee | skyscraper
+   Q864817   6.7   2005 East Asia People's Repub | Grand Gateway Shanghai — Callison | building complex
+  Q1362638  12.8 * 2006 East Asia Japan          | National Art Center, Tokyo — Kisho Kurokawa, Nihon Sekkei | art museum, national museum
+ Q11662266  11.3 * 2006 East Asia Japan          | Aomori Museum of Art — Jun Aoki | art museum, prefectural museum
+   Q520839   3.9   2006 East Asia People's Repub | Nina Tower — Q140400896 | skyscraper
+   Q863044  11.2 * 2007 East Asia Japan          | 21 21 DESIGN SIGHT — Tadao Ando | design museum
+ Q11543551  10.6 * 2007 East Asia Japan          | Yokosuka Museum of Art — Riken Yamamoto | art museum
+   Q860188   9.6   2007 East Asia People's Repub | National Centre for the Performing Arts — Paul Andreu | theatre building, opera house
+  Q7273221   4.8   2007 East Asia People's Repub | R&F Centre — Aedas | skyscraper
+   Q995564   4.0   2007 East Asia People's Repub | MGM Macau — Wong Tung & Partners | hotel
+ Q11404944  10.8 * 2008 East Asia Japan          | Towada Art Center — Ryue Nishizawa | contemporary art museum
+   Q244877   9.8   2008 East Asia People's Repub | Beijing National Aquatics Center — PTW Architects | sports venue
+  Q1431112   8.5   2008 East Asia People's Repub | The Cullinan — Wong & Ouyang (HK) Ltd. | twin towers
+  Q3244952   8.5   2008 East Asia People's Repub | China National Convention Center — RMJM | convention center
+  Q1030463   8.4   2008 East Asia Japan          | Mode Gakuen Cocoon Tower — Tange Associates | skyscraper, vertical campus building
+    Q80852   7.9   2008 East Asia People's Repub | Shanghai World Financial Center — Kohn Pedersen Fox | skyscraper
+  Q2894000   6.2   2008 East Asia People's Repub | Beijing Yintai Centre — John C. Portman Jr. | building complex
+  Q1820001  12.8 * 2009 East Asia People's Repub | Beijing Television Cultural Center — Rem Koolhaas | skyscraper
+  Q3241606  11.2 * 2009 East Asia People's Repub | Linked Hybrid — Steven Holl | building
+   Q406446   8.0   2009 East Asia People's Repub | Shanghai IFC — César Pelli | twin towers
+  Q3084238   7.2   2009 East Asia People's Repub | Macao Science Center — Pei  Architects | museum
+  Q3354553  13.7 * 2010 East Asia People's Repub | Guangzhou Opera House — Zaha Hadid | opera house
+   Q168400  10.2   2010 East Asia People's Repub | Canton Tower — Information Based Architecture | observation tower, television tower
+   Q604455   7.7   2010 East Asia People's Repub | Global 188 — East China Architectural Design & Research Institute | twin towers
+  Q1158530   7.3   2010 East Asia People's Repub | Daming Palace — Yan Liben | archaeological site, palace
+  Q1043438   7.2   2010 East Asia People's Repub | Guangzhou International Finance Center — WilkinsonEyre | tower block, skyscraper
+  Q1277964   7.0   2010 East Asia People's Repub | East Pacific Center — Wong & Ouyang (HK) Ltd. | building complex
+  Q3373088   5.6   2010 East Asia People's Repub | China Pavilion — He Jingtang | pavilion, national pavillon
+  Q5295847  13.4 * 2011 East Asia South Korea    | Dongdaemun Design Plaza & Park — Zaha Hadid | built structure
+  Q5638300  12.8 * 2011 East Asia South Korea    | Haeundae I Park — Daniel Libeskind | building complex, skyscraper
+ Q14020347  11.3 * 2011 East Asia South Korea    | Busan Cinema Center — Coop Himmelb(l)au | movie theater, theatre building
+ Q11377188  10.8 * 2011 East Asia Japan          | Toyo Ito Museum of Architecture — Toyo Ito | architectural museum, biographical museum
+ Q11648713  10.6 * 2011 East Asia Japan          | D. T. Suzuki Museum — Yoshio Taniguchi | biographical museum
+   Q249319   6.5   2011 East Asia People's Repub | Pearl River Tower — Adrian Smith + Gordon Gill Architecture | tower block
+  Q1470046   5.5   2011 East Asia People's Repub | Kingkey 100 — Terry Farrell | skyscraper
+ Q55908607  11.6 * 2012 East Asia People's Repub | Raffles City Chongqing — Moshe Safdie | skyscraper, building complex
+    Q57965  10.7   2012 East Asia Japan          | Tokyo Skytree — Nikken Sekkei | observation tower, television tower
+   Q589779   9.0   2012 East Asia People's Repub | Leatop Plaza — Francisco Gonzalez Pulido | building
+  Q7451664   6.5   2012 East Asia South Korea    | International Finance Centre Seoul — Arquitectonica | building complex
+ Q16725813   5.8   2012 East Asia Taiwan         | China Steel Corporation Headquarters — Kris Yao | building
+  Q1092242   5.5   2012 East Asia People's Repub | Yingli Tower — AECOM | skyscraper
+   Q143235   5.1   2012 East Asia People's Repub | Wuhan Greenland Center — Adrian Smith + Gordon Gill Architecture | tower block, skyscraper
+ Q14498348  11.7 * 2013 East Asia People's Repub | Sheraton Huzhou Hot Spring Resort — Ma Yansong | skyscraper, hotel
+ Q15456024   7.2   2013 East Asia People's Repub | Guangzhou Circle — Joseph di Pasquale | building
+  Q1076137   4.0   2013 East Asia People's Repub | Chongqing Poly Tower — East China Architectural Design & Research Institute | skyscraper
+    Q18547   7.9   2014 East Asia People's Repub | Shanghai Tower — Gensler | skyscraper
+ Q15933386   6.0   2014 East Asia Taiwan         | Kaohsiung Exhibition Center — Philip Cox | convention center
+  Q2717933   5.8   2014 East Asia People's Repub | Zhongzhou Holdings Financial Center — Adrian Smith | skyscraper
+  Q1076144   4.7   2014 East Asia People's Repub | Chongqing World Financial Center — C. Y. Lee | skyscraper
+  Q1558596   3.8   2014 East Asia People's Repub | Wuxi IFS — Aedas | skyscraper
+ Q15855324  13.1 * 2015 East Asia People's Repub | Nanjing International Youth Cultural Centre — Zaha Hadid | building complex
+   Q555338  11.3 * 2015 East Asia Taiwan         | Taichung Metropolitan Opera House — Toyo Ito | theatre building
+  Q1552767   5.8   2015 East Asia People's Repub | Fortune Center — South China University of Technology | skyscraper
+  Q2676828   5.2   2015 East Asia People's Repub | Diwang International Fortune Center — AECOM | skyscraper
+ Q21449366   3.5   2015 East Asia Taiwan         | Cathay Landmark — Kris Yao | skyscraper
+ Q17220332  10.8 * 2016 East Asia Japan          | Sumida Hokusai Museum — Kazuyo Sejima | art museum, biographical museum
+ Q15855239   5.5   2016 East Asia People's Repub | Xiamen International Centre — Gensler | skyscraper
+ Q28685888  12.3 * 2017 East Asia Japan          | GINZA SIX — Yoshio Taniguchi | commercial building, shopping center
+ Q21019690   7.2   2017 East Asia Japan          | Keio Arena Tokyo — Nihon Sekkei | sports venue
+  Q5410187   6.0   2017 East Asia People's Repub | Changsha IFS — Wong Tung & Partners | tower block, skyscraper
+ Q30275918   5.8   2017 East Asia South Korea    | Seoullo 7017 — Winy Maas | linear park, elevated park
+ Q18348250  11.6 * 2018 East Asia People's Repub | Hanking Center — Morphosis | skyscraper
+  Q5648127   6.6   2018 East Asia People's Repub | Hangzhou Olympic Sports Expo Center — NBBJ | sports complex, exhibition park
+ Q14779193   5.8   2018 East Asia Taiwan         | National Kaohsiung Center for the Arts — Francine Houben | arts center
+ Q14862239  11.4 * 2019 East Asia Japan          | Japan National Stadium — Kengo Kuma, Zaha Hadid Architects | Olympic stadium, Multi-purpose stadium
+  Q1774820  11.3 * 2020 East Asia South Korea    | Parc1 — Richard Rogers | skyscraper
+ Q65038183   7.2   2020 East Asia Japan          | Tokyo Aquatics Centre — Tokyo Metropolitan Government Bureau of Finance, Yamashita Sekkei | swimming center
+ Q28121712   5.8   2022 East Asia People's Repub | Hong Kong Palace Museum — Rocco Design Architects | museum
+Q132176507  10.6 * 2023 East Asia Japan          | Simose Art Museum — Shigeru Ban | art museum
+Q125906525  10.6 * 2024 East Asia Japan          | Toyota City Museum — Shigeru Ban | museum, art museum
+Q136721227  10.6 * 2025 East Asia Taiwan         | Taichung Main Public Library — SANAA | public library, main library
+  Q1075988   7.8 * 1190 Europe    France         | Louvre Palace — Pierre Lescot, Jacques Lemercier | palace, château
+     Q5471   7.2 * 1778 Europe    Italy          | La Scala — Giuseppe Piermarini, Alessandro Sanquirico | opera house, Italian theater
+    Q19675   8.4 * 1793 Europe    France         | Louvre Museum — Pierre Lescot, Claude Perrault | art museum, national museum
+  Q2506798   7.3 * 1855 Europe    Russia         | Red Banner Textile Factory — Erich Mendelsohn | factory, building complex
+   Q573975   6.9 * 1860 Europe    Germany        | Bauhaus-Universität Weimar — Henry van de Velde | public university
+   Q461371  10.2 * 1877 Europe    Spain          | Casa Batlló — Antoni Gaudí | multifamily residential, residential building
+    Q48435  11.3 * 1882 Europe    Spain          | Basilica and Expiatory Church of the Holy Family — Antoni Gaudí | minor basilica, expiatory temple
+   Q851200   8.1 * 1884 Europe    Netherlands    | Beurs van Berlage — Hendrik Petrus Berlage | concert hall, theatre building
+   Q892727   7.0 * 1884 Europe    Netherlands    | Bonnefanten Museum — Aldo Rossi | art museum
+   Q153951   9.9 * 1891 Europe    Germany        | Kaiser-Wilhelm-Gedächtniskirche — Franz Schwechten, Egon Eiermann | church building, Protestant church building
+   Q151897  10.7 * 1894 Europe    Germany        | Reichstag — Paul Wallot, Norman Foster | government building, parliament building
+  Q1881679   7.5 * 1894 Europe    Belgium        | Hôtel Tassel — Victor Horta | townhouse, manor house
+  Q1818182   7.0 * 1895 Europe    Belgium        | Hôtel van Eetvelde — Victor Horta | manor house, single-family detached home
+   Q355486   6.8 * 1898 Europe    Austria        | Wiener Stadtbahn — Otto Wagner | rapid transit, railway
+   Q815935  11.6 * 1900 Europe    Spain          | Bellesguard — Antoni Gaudí | mansion
+  Q1371375   9.9 * 1900 Europe    Sweden         | Museum of Ethnography — Jan Gezelius, Gunnar Mattsson | ethnographic museum
+  Q3579100   8.8 * 1900 Europe    France         | Paris Métro entrances by Hector Guimard — Hector Guimard | type of architectural structure
+  Q1467113   7.7 * 1900 Europe    France         | Palais Royal - Musée du Louvre — Hector Guimard | metro station, underground station
+   Q457318   6.7   1900 Europe    France         | Grand Palais — Charles Girault | event venue, convention center
+  Q2326886  11.1 * 1901 Europe    Spain          | Bodegas Güell — Antoni Gaudí, Francesc Berenguer i Mestres | building
+  Q1630844   9.3 * 1901 Europe    Poland         | Hotel Bristol — Otto Wagner, Władysław Marconi | hotel, hotel building
+   Q314559   9.0 * 1902 Europe    Germany        | Osthaus-Museum Hagen — Henry van de Velde | art museum
+  Q2525048   8.6 * 1902 Europe    Germany        | Villa Esche — Henry van de Velde | villa, single-family detached home
+  Q3609412   9.3 * 1903 Europe    Finland        | Hvitträsk — Eliel Saarinen, Gesellius, Lindgren, and Saarinen | artist's home, artist's-home museum
+  Q1537781   9.0 * 1903 Europe    United Kingdom | Willow Tearooms — Charles Rennie Mackintosh | tea house
+    Q11819   6.8   1904 Europe    Hungary        | Hungarian Parliament Building — Imre Steindl | parliament building
+   Q239028  11.5 * 1905 Europe    Belgium        | Stoclet Palace — Josef Hoffmann | mansion
+   Q507282   7.7   1905 Europe    Spain          | Hospital de Sant Pau — Lluís Domènech i Montaner, Pere Domènech i Roura | former hospital, hospital building
+   Q207870  13.2 * 1906 Europe    Spain          | Casa Milà — Antoni Gaudí | multifamily residential
+  Q7435656   8.6 * 1906 Europe    United Kingdom | Scotland Street School Museum — Charles Rennie Mackintosh | education museum, museum
+   Q441668  10.2 * 1907 Europe    Austria        | Kirche am Steinhof — Otto Wagner | church building
+   Q291123   9.6 * 1908 Europe    Germany        | AEG’s Turbine factory — Peter Behrens | building complex, factory
+   Q327940   8.0   1908 Europe    Spain          | Palau de la Música Catalana — Lluís Domènech i Montaner | concert hall
+  Q4891653  10.5 * 1909 Europe    Spain          | Sagrada Família schools — Antoni Gaudí | school building
+   Q157298   6.9   1910 Europe    Germany        | Pergamon Museum — Alfred Messel | art museum, museum
+   Q685476  11.1 * 1911 Europe    Germany        | Fagus Factory — Walter Gropius, Adolf Meyer | factory
+   Q694760   9.8 * 1911 Europe    Austria        | Looshaus — Adolf Loos, Ernst Epstein | office building
+  Q5369699   9.2 * 1911 Europe    Russia         | Embassy of Germany, Saint Petersburg — Peter Behrens | building
+   Q155743   8.1   1911 Europe    Poland         | Centennial Hall — Max Berg | multi-purpose hall, hall
+   Q380270   6.7   1911 Europe    Ukraine        | Stanislav-Adziogol Lighthouse — Vladimir Shukhov | leading lights, hyperboloid structure
+ Q11874375   8.6 * 1912 Europe    Finland        | Lahti Town Hall — Eliel Saarinen | Rathaus
+   Q726531  10.9 * 1913 Europe    France         | Théâtre des Champs-Élysées — Auguste Perret, Henry van de Velde | theatre building, music venue
+   Q551256   9.3 * 1913 Europe    Germany        | Falkenberg garden city — Bruno Taut, Heinrich Tessenow | group of houses, garden city
+  Q2160663  10.2 * 1914 Europe    Spain          | Church of Colònia Güell — Antoni Gaudí | crypt, church building
+  Q1567790   9.2 * 1914 Europe    France         | Agoudas Hakehilos Synagogue — Hector Guimard | synagogue
+  Q4390833   8.6 * 1914 Europe    Finland        | Joensuu Town Hall — Eliel Saarinen | Rathaus, theatre building
+    Q39082   8.8 * 1915 Europe    Netherlands    | Hilversum town hall — Willem Marinus Dudok | city hall
+   Q689293   6.7 * 1915 Europe    Germany        | Bernauer Straße station — Peter Behrens, Alfred Grenander | underground station, Berlin U-Bahn station
+   Q321789  12.4 * 1919 Europe    Germany        | Einstein Tower — Erich Mendelsohn | tower, astronomical observatory
+ Q11886254   9.5 * 1919 Europe    Estonia        | St. Paul’s Church — Eliel Saarinen | church building
+  Q2033759   9.9 * 1920 Europe    Spain          | Plaza de Toros de Pamplona — Francisco Urcola Lazcanotegui, Rafael Moneo | bullring, first class bullring
+  Q3133600   9.7 * 1921 Europe    Norway         | Lillehammer Art Museum — Snøhetta | art museum
+   Q662367   7.4   1922 Europe    Russia         | Shukhov Tower — Vladimir Shukhov | lattice tower, hyperboloid structure
+  Q3246466  10.7 * 1923 Europe    France         | Église Notre-Dame du Raincy — Auguste Perret | church building
+  Q1574432  10.7 * 1924 Europe    France         | Villa Noailles — Robert Mallet-Stevens | villa
+   Q659654  12.2 * 1925 Europe    Switzerland    | Goetheanum — Rudolf Steiner | administrative building, multi-purpose hall
+   Q644490  11.4 * 1925 Europe    Germany        | Hufeisensiedlung — Bruno Taut, Martin Wagner | housing estate
+  Q3558702  10.1 * 1925 Europe    France         | Villa Paul Poiret — Robert Mallet-Stevens | villa
+  Q1975624   6.9   1925 Europe    Ukraine        | Derzhprom — Sergei Savvich Serafimov | building
+  Q2377891  11.8 * 1927 Europe    Russia         | Vyborg Library — Alvar Aalto | library building, architectural landmark
+  Q4165336  10.7 * 1927 Europe    Russia         | Melnikov House — Konstantin Melnikov | heritage site, museum
+  Q2465440  10.5 * 1927 Europe    Russia         | Rusakov Workers' Club — Konstantin Melnikov | palace of culture, theatre building
+  Q1246991  10.6 * 1928 Europe    Sweden         | Stockholm Public Library — Gunnar Asplund | public library, library building
+   Q159884  10.2 * 1928 Europe    Italy          | Stadio Olimpico — Enrico Del Debbio, Luigi Moretti | Olympic stadium, association football venue
+  Q2285837   9.6 * 1928 Europe    Belgium        | Centre for Fine Arts — Victor Horta | arts center
+  Q1778179   9.3 * 1928 Europe    Belgium        | Musée des Beaux-Arts de Tournai — Victor Horta | art museum
+   Q551347   9.3 * 1928 Europe    Germany        | Wohnstadt Carl Legien — Bruno Taut, Franz Hillinger | group of houses
+   Q839251   9.3 * 1928 Europe    France         | Maison de Verre — Bernard Bijvoet, Pierre Chareau | single-family detached home
+   Q100008   9.0 * 1928 Europe    Italy          | Central Funicular — Pier Luigi Nervi | funicular
+  Q1329277   8.6 * 1929 Europe    Russia         | Novo-Ryazanskaya Street Garage — Konstantin Melnikov | parking garage, architectural landmark
+  Q1742238   8.6 * 1929 Europe    Germany        | Kino Babylon — Hans Poelzig | movie theater
+  Q1468582  11.2 * 1930 Europe    Czech Republic | Villa Müller — Adolf Loos, Karel Lhota | villa
+   Q671311  10.5 * 1930 Europe    Russia         | Narkomfin building — Moisei Ginzburg | multifamily residential, architectural landmark
+   Q663140  10.0 * 1930 Europe    Germany        | IG Farben Building — Hans Poelzig, Marlene Poelzig | office building, steel frame construction
+  Q1505892   9.2 * 1930 Europe    Netherlands    | Rijksmuseum Twenthe — Ben van Berkel, Q2062078 | art museum, national museum
+   Q316021   8.8 * 1930 Europe    Germany        | Haus des Rundfunks — Hans Poelzig, Max H. Berling | broadcasting house
+   Q191414   7.0   1930 Europe    Russia         | Lenin's Mausoleum — Alexey Shchusev | mausoleum, architectural landmark
+   Q518747  10.7 * 1932 Europe    France         | Villa Cavrois — Robert Mallet-Stevens | villa, fonds
+  Q2095725   7.0   1932 Europe    Norway         | Skaugum — Arnstein Arneberg | geographical feature, farm
+   Q876474  10.3 * 1933 Europe    Germany        | Lemke House — Ludwig Mies van der Rohe | single-family detached home, historic house museum
+   Q160385  10.1 * 1933 Europe    Germany        | Villa Schminke — Hans Scharoun | single-family detached home, museum
+  Q2444521   8.6 * 1933 Europe    Italy          | Torre Branca — Gio Ponti, Cesare Chiodi | tower
+  Q1180081  10.1 * 1935 Europe    United Kingdom | De La Warr Pavilion — Erich Mendelsohn, Serge Chermayeff | arts center
+  Q2240878  10.7 * 1936 Europe    Belgium        | Boekentoren — Henry van de Velde | library building
+   Q707377  10.6 * 1936 Europe    Germany        | Mercedes-Benz Museum — Q2062078, Ben van Berkel | automobile museum
+   Q815963   9.2 * 1936 Europe    Denmark        | Bellevue Teatret — Arne Jacobsen | theatre building
+  Q1848828   7.7 * 1936 Europe    Denmark        | Skovshoved Petrol Station — Arne Jacobsen | filling station
+   Q800588   8.8 * 1937 Europe    Belgium        | Brussels-Central railway station — Victor Horta, Maxime Brunfaut | central station, underground railway station
+   Q728399   7.9   1937 Europe    Italy          | Cinecittà — Gino Peressutti | film studio
+  Q1051928  11.0 * 1938 Europe    Netherlands    | Kröller-Müller Museum — Henry van de Velde, Wim Quist | sculpture garden, art museum
+   Q164264   9.7 * 1938 Europe    Italy          | Torino Esposizioni — Ettore Sottsass, Pier Luigi Nervi | convention center
+  Q1323311  11.8 * 1941 Europe    Denmark        | Aarhus City Hall — Arne Jacobsen | Rathaus
+  Q1507772   9.7 * 1944 Europe    Sweden         | Malmö Opera — Sigurd Lewerentz, David Helldén | opera house, architectural ensemble
+   Q856462   7.5   1944 Europe    Kosovo         | National Library of Kosovo — Andrija Mutnjaković | library, academic library
+  Q2053935   7.3   1946 Europe    Poland         | St. Roch's Church in Białystok — Oskar Sosnowski | church building, architectural heritage monument
+   Q565670   7.0   1947 Europe    Germany        | Friedrichstadt-Palast — Manfred Prasser, Dieter Bankert | theatre building
+    Q19824   7.5   1948 Europe    Italy          | Royal Palace of Turin — Ascanio Vitozzi, Carlo di Castellamonte | royal palace, religious museum
+  Q3533158  12.0 * 1949 Europe    France         | Tour Perret — Auguste Perret | tower block, skyscraper
+  Q1062726  10.7 * 1949 Europe    France         | Chapelle du Rosaire de Vence — Auguste Perret, Louis-Bertrand Rayssiguier | chapel, tourist attraction
+  Q1415972   7.1   1949 Europe    Norway         | Kon-Tiki Museum — F. S. Platou, Otto Torgersen | museum, nonprofit organization
+  Q2387534   6.7   1949 Europe    Russia         | main building of Moscow State University — Lev Rudnev, Boris Iofan | Seven Sisters, architectural landmark
+   Q373850   8.9   1950 Europe    Norway         | Oslo City Hall — Arnstein Arneberg, Magnus Poulsson | city hall
+   Q698140   7.7   1950 Europe    Austria        | Wiener Stadthalle — Roland Rainer, Dietrich Untertrifaller Architekten | multi-purpose hall
+   Q647390   8.6   1951 Europe    United Kingdom | Royal Festival Hall — Robert Matthew, Leslie Martin | concert hall, local business
+  Q3363242  10.5 * 1952 Europe    Denmark        | Svaneke Water Tower — Jørn Utzon | water tower
+   Q880789   8.1 * 1952 Europe    Sweden         | Blackeberg metro station — Peter Celsing | metro station, station located on surface
+   Q613201   7.3   1952 Europe    Serbia         | Nikola Tesla Museum, Belgrade, Serbia — Dragiša Brašovan | museum, science museum
+   Q668264   6.9   1953 Europe    Germany        | Islamic Centre Hamburg — Jürgen Elingius, Gottfried Schramm | mosque
+  Q3888740  10.8 * 1954 Europe    Italy          | Padiglione d'Arte Contemporanea — Ignazio Gardella | art museum, art gallery
+   Q176936   6.7   1954 Europe    Germany        | Federal Labour Court of Germany — Gesine Weinmiller | supreme court, Federal courts (Germany)
+  Q6305770  12.3 * 1955 Europe    Finland        | Kulttuuritalo — Alvar Aalto | concert hall, arts center
+   Q180901   8.2   1955 Europe    Belgium        | Atomium — André and Jean Polak | architectural landmark
+  Q1367970   7.4   1955 Europe    Spain          | Palace of Moncloa — Diego Méndez | palace
+  Q1931303   7.0   1955 Europe    Italy          | Gesù Divino Lavoratore — Raffaello Fagnoni | church building
+   Q588555  12.7 * 1956 Europe    France         | St. Joseph's Church — Auguste Perret | church building
+  Q1132023  12.0 * 1956 Europe    Germany        | Unité d'Habitation of Berlin — Le Corbusier | tower block, multifamily residential
+  Q1234768  11.8 * 1956 Europe    Netherlands    | World Forum Convention Center — J. J. P. Oud, Hans Oud | convention center
+    Q14058   8.2   1956 Europe    Germany        | Fernsehturm Stuttgart — Fritz Leonhardt | television tower, observation tower
+   Q890127   7.9   1956 Europe    Norway         | Bodø Cathedral — Gudolf Blakstad | cultural property, Lutheran cathedral
+  Q3674365  12.8 * 1957 Europe    Finland        | Church of the Three Crosses — Alvar Aalto | church building
+ Q11874486  12.3 * 1957 Europe    Finland        | Lakeuden Risti Church — Alvar Aalto | church building
+  Q3074840   7.3   1957 Europe    Serbia         | Belgrade Fair — Branko Žeželj | auto show, exhibition
+  Q4302175   7.2   1957 Europe    Russia         | Russia-Bashkir Monument of Friendship — Yevgeny Kutyrev | built structure
+   Q704933   7.0   1957 Europe    Germany        | Haus der Kulturen der Welt — Hugh Stubbins | multi-purpose hall, arts center
+  Q3126017   6.8   1957 Europe    Serbia         | Belgrade Fair – Hall 1 — Branko Žeželj | convention center
+  Q1156274  13.1 * 1958 Europe    Italy          | Torre Velasca — BBPR | skyscraper, office building
+  Q1274511  12.4 * 1958 Europe    Sweden         | Moderna Museet — Rafael Moneo | art museum, Q10444897
+   Q431326  11.9 * 1958 Europe    France         | Center of New Industries and Technologies — Robert Camelot, Jean de Mailly | convention center, shopping mall
+   Q119882   9.3 * 1958 Europe    Italy          | Palazzo dello Sport — Marcello Piacentini, Massimiliano Fuksas | Multi-purpose stadium
+   Q969215   8.6   1958 Europe    Netherlands    | Euromast — Hugh Maaskant | observation tower
+   Q192247   8.4   1958 Europe    Luxembourg     | European Investment Bank — Christoph Ingenhoven | international financial institution, body of the European Union
+   Q810101   7.6   1958 Europe    France         | Basilica of St. Pius X — Pierre Vago | minor basilica
+  Q1410617   7.4   1958 Europe    Denmark        | Louisiana Museum of Modern Art — Vilhelm Wohlert, Jørgen Bo | art museum, sculpture garden
+  Q2033910   8.5   1959 Europe    Russia         | State Kremlin Palace — Mikhail Posokhin, Ashot Mndoyants | palace, architectural landmark
+  Q1346124   7.7   1959 Europe    Italy          | Santi Fabiano e Venanzio a Villa Fiorelli — Busiri Vici | church building
+   Q912711   7.5   1959 Europe    Serbia         | Palace of Serbia — Mihailo Janković | built structure
+   Q971129   7.2   1959 Europe    Italy          | San Giovanni Bosco — Gaetano Rapisardi | parish church, minor basilica
+   Q920809  13.7 * 1960 Europe    Italy          | Pirelli Tower — Gio Ponti | skyscraper
+   Q811389  13.4 * 1960 Europe    Germany        | Bauhaus-Archiv — Walter Gropius, Volker Staab | art museum, archives
+   Q666331  11.6 * 1960 Europe    Switzerland    | Foundation E.G. Bührle Collection — David Chipperfield, Karl Moser | art museum, memory institution
+  Q1798826  11.6 * 1960 Europe    Sweden         | Markuskyrkan — Sigurd Lewerentz | church building, architectural ensemble
+  Q1698446  11.3 * 1960 Europe    Denmark        | Radisson Collection Royal Hotel — Arne Jacobsen | hotel
+   Q181324   8.4   1960 Europe    Russia         | Ostankino Tower — Nikolai Nikitin, Leonid Batalov | television tower, concert hall
+  Q3668767   6.8   1960 Europe    Italy          | San Giovanni Battista, Highway A11 — Giovanni Michelucci | church building
+   Q459416  12.8 * 1961 Europe    Germany        | Bundeswehr Military History Museum — Daniel Libeskind, HG Merz | military museum, history museum
+   Q640412   7.5   1961 Europe    United Kingdom | Baden-Powell House — Ralph Tubbs | built structure
+   Q637834   7.2   1961 Europe    Germany        | Deutsche Oper Berlin — Fritz Bornemann | opera house
+  Q2027900   7.0   1961 Europe    Finland        | Hyvinkää Church — Aarno Ruusuvuori | church building
+   Q281339   6.8   1961 Europe    Germany        | Henninger Turm — Karl Lieser | silo
+   Q871581   6.8   1961 Europe    Germany        | Ernst Barlach House — Werner Kallmorgen | artist museum, art museum
+  Q4356728  11.0 * 1962 Europe    Sweden         | Swedish Centre for Architecture and Design — Rafael Moneo | museum, Swedish government agency
+  Q1470975   8.6   1962 Europe    United Kingdom | Liverpool Metropolitan Cathedral — Edwin Lutyens, Frederick Gibberd | Catholic cathedral
+  Q3669407   7.7   1962 Europe    Italy          | Nostra Signora del Santissimo Sacramento e Santi Martiri Canadesi — Bruno Maria Apollonj Ghetti | church building
+    Q23212   7.2   1962 Europe    Netherlands    | Evoluon — Louis Christiaan Kalff, Leo de Bever | museum, event venue
+  Q1355638   6.9   1962 Europe    Russia         | Saint Petersburg TV Tower — Vladimir Vasilkovsky | television tower
+ Q32653910  13.7 * 1963 Europe    Germany        | Berliner Philharmonie — Hans Scharoun | concert hall, philharmonic society
+  Q1435689  11.3 * 1964 Europe    France         | Fondation Maeght — Josep Lluís Sert | art museum
+   Q797085   8.6   1964 Europe    United Kingdom | BT Tower — Eric Bedford | television tower, observation tower
+   Q686544   7.3   1964 Europe    Austria        | Donauturm — Hannes Lintl, Robert Krapfenbauer | observation tower, revolving restaurant
+   Q318235   7.2   1964 Europe    Germany        | State Council Building — Roland Korn, Hans Erich Bogatzky | building
+ Q34034755  11.8 * 1965 Europe    Finland        | Rovaniemi Library — Alvar Aalto | library building
+  Q6824538  10.1 * 1965 Europe    United Kingdom | Metro Central Heights — Ernő Goldfinger | building
+  Q1319441   8.9   1965 Europe    Norway         | Arctic Cathedral — Jan Inge Hovig | cultural property, church building
+   Q703289   8.2   1965 Europe    Germany        | Europa-Center — Helmut Hentrich, Hubert Petschnigg | building complex, architectural landmark
+  Q8060369   7.5   1965 Europe    Serbia         | Yugoslav Ministry of Defence building — Nikola Dobrovic | built structure
+  Q3585343   7.3   1965 Europe    Italy          | San Giovanni Battista de Rossi — Tullio Rossi | church building
+  Q3735583   6.8   1965 Europe    Finland        | Meilahti Tower Hospital — Jaakko Paatela, Reino Koivula | hospital
+  Q4295229   6.8   1965 Europe    Belarus        | Planetarium in Minsk — Natallya Afanasyeva | planetarium
+   Q959018   6.8   1965 Europe    France         | Église Notre-Dame-de-la-Salette de Paris — Henri Colboc | church building
+  Q1067909   6.8   1965 Europe    United Kingdom | Chartwell — Philip Tilden | historic house museum, English country house
+  Q2577991  12.5 * 1966 Europe    Finland        | Kaleva Church — Reima Pietilä, Raili Pietilä | church building
+ Q11995516  10.3 * 1966 Europe    Norway         | Petter Dass Museum — Snøhetta | museum
+  Q2223786   7.3   1966 Europe    Italy          | Madonna delle Lacrime Sanctuary — Michel Andrault, Pierre Parat | Catholic pilgrimage church, minor basilica
+  Q3669314   6.8   1966 Europe    Italy          | Gesù Divino Maestro alla Pineta Sacchetti — Carlo Bevilacqua | church building
+  Q1142522  12.4 * 1967 Europe    Finland        | Finlandia Hall — Alvar Aalto | concert hall, convention center
+   Q804926  12.3 * 1967 Europe    United Kingdom | Balfron Tower — Ernő Goldfinger | tower block, residential building
+  Q1721899   8.1   1967 Europe    Sweden         | Kaknästornet — Hans Borgström, Bengt Lindroos | observation tower, transmitter mast
+  Q7219457   7.3   1967 Europe    Russia         | Ostankino Technical Center — Leonid Batalov | television studio, architectural landmark
+  Q4341311   7.0   1967 Europe    Soviet Union   | Moscow Pavilion — Mikhail Posokhin | architectural landmark, exhibition park
+   Q833759   6.8   1967 Europe    Germany        | Brücke Museum — Werner Düttmann | art museum
+   Q151356   8.4   1968 Europe    Germany        | Fernsehturm Berlin — Hermann Henselmann, Günter Franke | television tower, observation tower
+   Q779736   7.8   1968 Europe    United Kingdom | Hayward Gallery — Ron Herron | art institution, art museum
+   Q854548   6.8   1968 Europe    Croatia        | Kockica — Ivan Vitić | building, cultural property
+  Q1887677   6.7   1968 Europe    Sweden         | Malmö Isstadion — Fritz Jaenecke, Sten Samuelson | indoor ice rink, sports venue
+   Q884122  11.0 * 1969 Europe    Germany        | Langer Eugen — Egon Eiermann, Q51841207 | office building
+  Q3572189  10.1 * 1969 Europe    Spain          | Iglesia de Nuestra Señora del Pilar — Miguel Fisac | Catholic church building, Monument (Spain)
+  Q1132809   8.8   1969 Europe    Finland        | Temppeliaukio Church — Tuomo Suomalainen, Timo Suomalainen | cave church, Lutheran church
+  Q1141915   7.3   1969 Europe    United Kingdom | Crucible Theatre — RHWL | theatre building, sports venue
+   Q211262   7.2   1969 Europe    Portugal       | Calouste Gulbenkian Museum — Rui Jervis Atouguia, Pedro Cid | museum building, museum
+ Q28766950   7.2   1970 Europe    Czech Republic | Transgas — Václav Aulický, Jiří Eisenreich | building complex
+  Q2936056   7.0   1970 Europe    Belgium        | Brusilia — Jacques Cuisinier | residential tower
+   Q465591   6.8   1970 Europe    France         | Palace of Europe — Henry Bernard | parliament building
+   Q736993  11.7 * 1971 Europe    Vatican City   | Paul VI Audience Hall — Pier Luigi Nervi | hall
+   Q667858  11.2 * 1971 Europe    Switzerland    | Bodmer Foundation — Mario Botta | museum, memory institution
+  Q1051683   7.4   1971 Europe    Poland         | Spodek — Maciej Gintowt | event venue, multi-purpose hall
+  Q1138447   7.4   1971 Europe    Sweden         | Scandinavium — Poul Hultberg | multi-purpose hall
+  Q1026835   7.3   1971 Europe    France         | Val Thorens — Pierre Schnebelen | ski resort
+   Q179426   7.3   1971 Europe    Netherlands    | Rotterdam Ahoy — Ernest Groosman, Marnix Pinnoo | event venue, performing arts building
+  Q7931195   7.0   1971 Europe    Lithuania      | Vilnius Palace of Concerts and Sports — Eduardas Chlomauskas | sports venue, music venue
+  Q1190334   6.8   1971 Europe    Finland        | Näsinneula tower — Pekka Ilveskoski | observation tower
+   Q131610  12.8 * 1972 Europe    Germany        | Munich Olympic Stadium — Frei Otto, Behnisch & Partner | Olympic stadium, association football venue
+  Q1758749   8.1   1972 Europe    North Macedoni | Church of St. Clement of Ohrid — Slavko Brezoski | cathedral, Eastern Orthodox church building
+  Q3570014   7.3   1972 Europe    Belgium        | World Trade Center — Groupe Structures | building complex
+   Q224124  13.4 * 1973 Europe    Netherlands    | Van Gogh Museum — Gerrit Rietveld, Kisho Kurokawa | art museum, museum
+  Q1885884  11.0 * 1973 Europe    Greece         | Porto Carras — Walter Gropius | resort
+  Q3043523  10.7 * 1973 Europe    Spain          | Walden 7 — Ricardo Bofill, Anna Bofill Leví | apartment building
+  Q3329265   7.7   1973 Europe    France         | musée Marc-Chagall — André Hermant | art museum, national museum
+   Q526650   7.7   1973 Europe    United Kingdom | Clifton Cathedral — Percy Thomas Partnership | Catholic cathedral
+   Q367802   6.9   1973 Europe    Serbia         | Aleksandar Nikolić Hall — Ljiljana Bakić | sports venue, building
+   Q204298  11.4 * 1974 Europe    Sweden         | The House of Culture — Peter Celsing, Celsing Arkitekter | building, house of culture
+   Q190271   8.4   1974 Europe    Czech Republic | Prague Metro — Jaroslav Otruba, Evžen Kyllar | rapid transit
+ Q10534724   6.8   1974 Europe    Sweden         | Immanuel Church, Stockholm — Sture Frölén | church building
+   Q683489   6.8   1974 Europe    Switzerland    | International Museum of Horology — Pierre Zoelly, Georges-Jacques Haefeli | international museum, horological museum
+   Q700222   6.9   1975 Europe    Germany        | Berlinische Galerie — Joerg Fricke | art museum, nonprofit organization
+  Q1024946  12.8 * 1976 Europe    Andorra        | Our Lady of Meritxell — Ricardo Bofill | shrine of Our Lady, minor basilica
+   Q519613   8.6   1976 Europe    Germany        | Gewandhaus — Rudolf Skoda | concert hall
+   Q520281   7.7   1976 Europe    Germany        | Bierpinsel — Ralf Schüler, Ursulina Schüler-Witte | tower, restaurant
+   Q684334   7.7   1976 Europe    Austria        | Wotruba Church — Fritz Wotruba, Fritz Gerhard Mayr | church building
+  Q3375948   7.3   1976 Europe    Denmark        | Herlev Hospital — Gehrdt Bornebusch | hospital
+   Q835542   7.3   1976 Europe    Germany        | Kathedrale Maria Schutz und St. Andreas — Erwin Schleich | cathedral
+   Q328623   7.2   1976 Europe    Germany        | Nunos porsche Museum — Delugan Meissl | automobile museum
+  Q1682845   6.7   1976 Europe    Belgium        | Charleroi light rail — Jean Yernaux | light rail
+  Q1811339   8.6   1977 Europe    United Kingdom | London Central Mosque — Frederick Gibberd | mosque
+  Q4263117  11.6 * 1978 Europe    Finland        | Ristinkirkko — Alvar Aalto | church building
+   Q335894   9.0 * 1978 Europe    Austria        | Karlsplatz — Otto Wagner | metro station, underground station
+  Q1341892   8.6   1978 Europe    Norway         | Grieg Hall — Knud Munk | concert hall
+  Q1311686   8.2 * 1978 Europe    Austria        | Schwedenplatz — Otto Wagner | metro station, underground station
+  Q4720740   7.0   1978 Europe    United Kingdom | Alexandra Road Estate — Neave Brown | compound, housing estate
+   Q246448  12.6 * 1979 Europe    France         | parc de la Villette — Bernard Tschumi | urban park
+   Q820164   7.9   1979 Europe    Germany        | Internationales Congress Centrum Berlin — Ralf Schüler, Ursulina Schüler-Witte | convention center
+  Q1278216   7.7   1979 Europe    Serbia         | Sava Centar — Stojan Maksimović | convention center, multi-purpose hall
+  Q3585083   7.2   1979 Europe    France         | Church of St Joan of Arc — Louis Arretche | church building
+   Q144515   7.0   1979 Europe    Faroe Islands  | National Library of the Faroe Islands — Jákup Pauli Gregoriussen | national library
+  Q1810907   8.7   1980 Europe    Estonia        | Linnahall — Raine Karp | multi-purpose hall, ice rink
+   Q685484   8.5   1980 Europe    Serbia         | Genex Tower — Mihajlo Mitrović | built structure
+  Q3331436   7.6   1980 Europe    Lithuania      | Seimas Palace — Algimantas Nasvytis | built structure
+  Q1049033   7.1   1980 Europe    Italy          | Peggy Guggenheim Collection — Lorenzo Boschetti | art museum, museum of modern art
+   Q205945   7.0   1980 Europe    Russia         | Yekaterinburg Circus — Nikolai Nikitin | circus building
+    Q13397  12.9 * 1981 Europe    France         | Louvre Pyramid — I. M. Pei | pyramid
+  Q4907651  12.4 * 1981 Europe    Sweden         | Bildmuseet — Henning Larsen Architects, White (architecture firm) | museum
+   Q844124   9.3   1981 Europe    Russia         | White House — Dmitry Chechulin, Pavel Shteller | government building, architectural landmark
+  Q1734022   8.2 * 1981 Europe    Austria        | Ober St. Veit — Otto Wagner | metro station, station located in a cut
+  Q3269914   8.1   1981 Europe    Bulgaria       | National Palace of Culture — Alexander Barov | convention center, house of culture
+ Q62669101   6.8   1981 Europe    Germany        | Forschungseinrichtung für experimentelle Medizin — Gerd Hänska | laboratory
+   Q653858   9.2   1982 Europe    United Kingdom | Barbican Centre — Chamberlin, Powell and Bon | performing arts center, art museum
+   Q989733   7.7   1982 Europe    Spain          | Torrespaña — Emilio Fernández Martínez de Velasco | television tower
+  Q3058350  12.2 * 1983 Europe    France         | Espaces d'Abraxas — Ricardo Bofill, Peter Hodgkinson | building complex
+  Q1054339  10.1 * 1983 Europe    Portugal       | Centro de Arte Moderna Gulbenkian — Leslie Martin, Kengo Kuma | art museum, museum of modern art
+   Q316242  10.8 * 1984 Europe    Germany        | Neue Staatsgalerie — James Stirling | art museum
+  Q4677222  10.3 * 1984 Europe    Finland        | Myyrmäki church — Juha Leiviskä | church building
+   Q493126   9.2   1984 Europe    Austria        | Hundertwasserhaus — Friedensreich Hundertwasser, Peter Pelikan | multifamily residential, Gemeindebau
+   Q641676   7.0   1984 Europe    Netherlands    | Naturalis Biodiversity Center — Neutelings Riedijk Architects, Fons Verheijen | research institute, national museum
+    Q19844   6.7   1984 Europe    Italy          | Castle of Rivoli — Ascanio Vitozzi, Amedeo di Castellamonte | art museum, castle
+   Q164150   8.0   1985 Europe    Romania        | Palace of the Parliament — Anca Petrescu | palace, parliament building
+   Q743206   7.8   1985 Europe    France         | Musée Picasso — Jean-François Bodin | art museum, national museum
+  Q3115759   6.8   1985 Europe    Portugal       | Lisbon Central Mosque — António Maria Braga, João Paulo Conceição | mosque
+  Q3330685  11.0 * 1986 Europe    Spain          | National Museum of Roman Art — Rafael Moneo | art museum, national museum
+ Q11896298  10.8 * 1986 Europe    Finland        | Main Library of Tampere City Library — Raili Pietilä, Reima Pietilä | public library, cultural property
+    Q23402   9.4   1986 Europe    France         | Musée d'Orsay — Victor Laloux | art museum, national museum
+   Q271466   9.4   1986 Europe    Iceland        | Hallgrímskirkja — Guðjón Samúelsson | church building
+    Q32926   8.1   1986 Europe    Sweden         | Avicii Arena — Berg Arkitektkontor | multi-purpose hall
+   Q830319   7.6   1986 Europe    Latvia         | Riga Radio and TV Tower — Gunārs Asaris | television tower
+   Q688335  12.4 * 1987 Europe    Germany        | Deutsches Historisches Museum — I. M. Pei | history museum, museum
+  Q1668856  11.4 * 1987 Europe    Netherlands    | Kunsthal — Rem Koolhaas, Office for Metropolitan Architecture | exhibition space, art museum
+   Q642603  11.1 * 1987 Europe    Italy          | Museum of Modern and Contemporary Art of Trento and Rovereto — Mario Botta | art museum, cultural center
+  Q1364394  13.7 * 1988 Europe    Spain          | Torre Picasso — Minoru Yamasaki | skyscraper
+   Q517612  11.5 * 1988 Europe    United Kingdom | Tate Liverpool — James Stirling | art museum, museum building
+   Q700747  13.4 * 1989 Europe    Germany        | Vitra Design Museum — Frank Gehry | design museum, museum building
+   Q202530  13.3 * 1989 Europe    Spain          | Montjuïc Communications Tower — Santiago Calatrava | television tower
+   Q957236  11.4 * 1989 Europe    Finland        | Mäntyniemi — Reima Pietilä, Raili Pietilä | estate
+  Q1164109  10.8 * 1989 Europe    Sweden         | Lilla Bommen — Ralph Erskine | tower block, office building
+  Q1954380  10.7 * 1989 Europe    Portugal       | Serralves Museum of Contemporary Art — Álvaro Siza Vieira | art museum, museum building
+   Q638423   7.9   1989 Europe    France         | Opéra Bastille — Carlos Ott | opera house
+  Q3497809   7.7 * 1989 Europe    Sweden         | Cityterminalen — Ralph Erskine | bus station
+   Q377592   7.2   1989 Europe    France         | Parc Astérix — Jean-Michel Ruols | amusement park
+   Q571249   6.8   1989 Europe    United Kingdom | Design Museum — Terence Conran | design museum, independent museum
+  Q1633361  12.8 * 1990 Europe    Finland        | Kiasma — Steven Holl | contemporary art museum
+  Q2349903   7.8   1990 Europe    France         | Cœur Défense — Jean-Paul Viguier | tower, building complex
+  Q1538681   7.5   1990 Europe    Finland        | Tampere Hall — Sakari Aartelo, Esa Piironen | convention center, concert hall
+  Q3058615   7.4   1990 Europe    France         | Le Golf National — Robert von Hagge | golf course
+   Q705353   7.4   1990 Europe    Germany        | Max-Schmeling-Halle — Albert Dietz, Anett-Maud Joppien | multi-purpose hall, athletics track
+   Q156198   7.3   1990 Europe    Germany        | Messeturm — Helmut Jahn | skyscraper
+  Q2706867   7.2   1990 Europe    Italy          | Galleria Ferrari — Tiziano Lugli | automobile museum, industry museum
+  Q1508325   7.0   1990 Europe    Norway         | Oslo Spektrum — LPO arkitekter | multi-purpose hall, concert hall
+   Q582203   9.0   1991 Europe    Greece         | Athens Concert Hall — Emmanouil Vourekas, Ilias Skroumbelos | concert hall, convention center
+   Q176251  13.2 * 1992 Europe    Spain          | Thyssen-Bornemisza Museum — Rafael Moneo | art museum, museum
+   Q749525  13.2 * 1992 Europe    France         | Évry Cathedral — Mario Botta | Catholic cathedral
+   Q632043  13.1 * 1992 Europe    Switzerland    | Church of San Giovanni Battista, Mogno — Mario Botta | Catholic church building
+  Q2279511  10.8 * 1992 Europe    France         | Disney Hotel New York - The Art of Marvel — Michael Graves | hotel
+ Q15488008  10.6 * 1992 Europe    Finland        | Männistö Church — Juha Leiviskä | church building
+  Q1413217   9.4   1992 Europe    Czech Republic | Žižkov Television Tower — Václav Aulický | observation tower, television tower
+   Q460889   8.5   1992 Europe    Spain          | Museo Nacional Centro de Arte Reina Sofía — Francesco Sabatini | art museum, national museum
+  Q1054277   8.2   1992 Europe    Portugal       | Belém Cultural Center — Vittorio Gregotti, Manuel Salgado | convention center, cultural center
+   Q632041   7.5   1992 Europe    Norway         | Lysgårdsbakken — Økaw Arkitekter | ski jumping complex
+  Q1138724   7.5   1992 Europe    Poland         | Orthodox church of the Holy Trinity in Hajnówka — Aleksander Grygorowicz | Eastern Orthodox church building
+  Q2051953   7.2   1992 Europe    France         | Parc André Citroën — Gilles Clément, Allain Provost | urban park, natural heritage
+   Q761048  11.7 * 1993 Europe    Norway         | Astrup Fearnley Museum of Modern Art — Renzo Piano | art museum, art gallery
+   Q598646   8.2   1993 Europe    Switzerland    | Olympic Museum — Pedro Ramírez Vázquez | sports museum, memory institution
+  Q1928413   7.5   1993 Europe    United Kingdom | Poundbury — Léon Krier | model village
+   Q945251   7.3   1993 Europe    France         | parc de Bercy — Bernard Huet | urban park
+Q108117496   7.1   1993 Europe    Spain          | Faculty of Communication of Pontevedra — José Carlos Arrojo Lois | faculty, public building
+  Q9374700   6.7   1993 Europe    Poland         | Museum of Zakopane Style at Villa Koliba — Stanisław Witkiewicz | villa, museum building
+   Q842004  12.5 * 1994 Europe    Italy          | Padre Pio Pilgrimage Church — Renzo Piano | Catholic pilgrimage church
+   Q198536   8.2   1994 Europe    United Kingdom | SIS Building — Terry Farrell | building of public administration
+  Q1789776  14.5 * 1995 Europe    Italy          | Moschea di Roma — Paolo Portoghesi | mosque
+   Q325309  13.2 * 1995 Europe    Spain          | Metro Bilbao — Norman Foster | rapid transit
+  Q3329855  11.7 * 1995 Europe    Spain          | Casa del Hombre (La Coruña) — Arata Isozaki | science museum
+Q111713330   6.9   1995 Europe    France         | Cité de la musique — Christian de Portzamparc | cultural center, building
+   Q244816  15.1 * 1996 Europe    Czech Republic | Dancing House — Vlado Milunić, Frank Gehry | office building
+  Q1141262  14.2 * 1996 Europe    Spain          | Gate of Europe — Philip Johnson | twin towers, skyscraper
+   Q180904  11.7 * 1996 Europe    Switzerland    | Museum Tinguely — Mario Botta | art museum, memory institution
+  Q1320197  11.6 * 1996 Europe    Spain          | Teatre Nacional de Catalunya — Ricardo Bofill | musical theater building, theatre building
+   Q641108   9.0   1996 Europe    Germany        | Sony Center — Helmut Jahn | architectural ensemble, built structure
+   Q121198   8.6   1996 Europe    Russia         | Qol Şärif Mosque — İskändär Säyfullin, Aivar Sattarov | mosque
+   Q584756   7.5   1996 Europe    Germany        | Hamburger Bahnhof — Josef Paul Kleihues | art museum, museum building
+   Q673346   7.2   1996 Europe    Denmark        | Arken Museum of Contemporary Art — Søren Robert Lund | art museum, nonprofit organization
+   Q151765  14.9 * 1997 Europe    Germany        | Commerzbank Tower — Norman Foster | skyscraper, office building
+  Q2980424  13.4 * 1997 Europe    United Kingdom | SEC Armadillo — Norman Foster | convention center, auditorium
+  Q2741526  13.0 * 1997 Europe    Netherlands    | De Rotterdam — Rem Koolhaas, Reinier de Graaf | skyscraper
+  Q2637994  12.1 * 1997 Europe    Netherlands    | Muziekgebouw aan 't IJ — 3XN, Kim Herforth Nielsen | concert hall
+   Q675326  11.8 * 1997 Europe    Austria        | Kunsthaus Bregenz — Peter Zumthor | art museum, museum
+  Q3648782  11.5 * 1997 Europe    Sweden         | Söder Torn — Henning Larsen | tower block
+   Q670209   7.5   1997 Europe    Germany        | New Synagogue (Dresden) — Wandel Lorch Götze Wach | synagogue
+  Q1557685   7.4   1997 Europe    France         | Guédelon Castle — Jacques Moulin | castle, open-air museum
+  Q7725501   6.9   1997 Europe    United Kingdom | Shakespeare's Globe — Pentagram | theatre building, reconstructed structure
+  Q1506922   6.8   1997 Europe    Sweden         | Gustavianum — Carl Hårleman, Ove Hidemark | university museum, anatomical theatre
+   Q574114   6.7   1997 Europe    Germany        | Deutsche Guggenheim — Gluckman Tang Architects | art museum
+   Q239935  14.8 * 1998 Europe    Spain          | City of Arts and Sciences — Santiago Calatrava | tourist destination, building complex
+   Q475708  12.7 * 1998 Europe    Germany        | Ufa-Kristallpalast, Dresden — Coop Himmelb(l)au | movie theater
+ Q10422447  11.6 * 1998 Europe    Sweden         | Aula Magna — Ralph Erskine | assembly hall
+  Q1892495  11.0 * 1998 Europe    Portugal       | Pavilhão de Portugal — Álvaro Siza Vieira, Eduardo Souto de Moura | cultural heritage, national pavillon
+   Q160659   9.3   1998 Europe    United Kingdom | London Eye — Julia Barfield, David Marks | Ferris wheel, tourist attraction
+  Q1633842   8.0   1998 Europe    United Kingdom | National Museum of Scotland — Benson & Forsyth | museum
+  Q1144643   7.1   1998 Europe    United Kingdom | Edinburgh Central Mosque — Basil Al Bayati | mosque
+   Q652806   7.1   1998 Europe    Portugal       | Lisbon Oceanarium — Peter Chermayeff, Peter Chermayeff LLC | public aquarium, cultural heritage
+Q115605754   7.1   1998 Europe    Spain          | Ciudad de la Justicia de Pontevedra — Fernando Martínez Sarandeses | courthouse, building complex
+   Q176278  13.1 * 1999 Europe    Netherlands    | Montevideo — Mecanoo, Francine Houben | tower, skyscraper
+  Q2349872  12.3 * 1999 Europe    Spain          | Kursaal convention centre — Rafael Moneo | convention center, auditorium
+  Q2713088  11.5 * 1999 Europe    Spain          | L'Auditori — Rafael Moneo | concert hall
+  Q7747302  10.8 * 1999 Europe    United Kingdom | The Lighthouse — Charles Rennie Mackintosh | art museum
+   Q936830   8.4   1999 Europe    Poland         | Divine Mercy Sanctuary — Witold Cęckiewicz | minor basilica, international shrine
+  Q2423937   8.1   1999 Europe    France         | Seat of the European Parliament in Strasbourg — Architecture-Studio | parliament building, building complex
+  Q1142174   7.7   1999 Europe    Denmark        | Black Diamond — Schmidt Hammer Lassen | library, library building
+  Q1671011   6.8   1999 Europe    France         | Lille Cathedral — Charles Leroy, Arthur Martin | Catholic cathedral, minor basilica
+    Q29014  14.2 * 2000 Europe    United Kingdom | Millennium Dome — Richard Rogers | built structure, event venue
+  Q1792561  12.4 * 2000 Europe    Liechtenstein  | Kunstmuseum Liechtenstein — Morger & Degelo, Christian Kerez | art museum, national museum
+  Q7783471  11.6 * 2000 Europe    Greece         | Thessaloniki Concert Hall — Arata Isozaki | concert hall, convention center
+ Q12063591  10.6 * 2000 Europe    Denmark        | NaturBornholm — Henning Larsen | natural history museum
+   Q596642   9.5   2000 Europe    United Kingdom | Eden Project — Nicholas Grimshaw | greenhouse, botanical garden
+  Q3038298   7.8   2000 Europe    Greece         | National Museum of Contemporary Art — Takis Ch. Zenetos | art museum, museum
+   Q125432   7.5   2000 Europe    Germany        | SAP Arena — Hubert Petschnigg | multi-purpose hall, sports venue
+  Q3490630   7.3   2000 Europe    Czech Republic | New City Hall — František Kolář | Rathaus
+   Q879736   7.3   2000 Europe    Germany        | Herz-Jesu-Kirche — Allmann Sattler Wappner | parish church
+  Q1193675   7.2   2000 Europe    Sweden         | Stockholm Mosque — Ferdinand Boberg | mosque
+   Q640184   7.1   2000 Europe    Austria        | Donau City Church — Heinz Tesar | church building
+   Q133635   7.0   2000 Europe    Germany        | Waldspirale — Friedensreich Hundertwasser | built structure
+  Q1296434   6.8   2000 Europe    Hungary        | Hungarian University of Agriculture and Life Sciences — K. Róbert Kertész, Gyula Sváb | university
+   Q879819   6.7   2000 Europe    Germany        | Moritzburg — Conrad Pflüger | castle, museum building
+   Q555142  13.1 * 2001 Europe    Germany        | Cologne Tower — Jean Nouvel | tower block, skyscraper
+   Q190010  11.6 * 2001 Europe    Switzerland    | St. Jakob-Park — Herzog & de Meuron | association football venue
+   Q874387  11.3 * 2001 Europe    Austria        | Vienna Twin Tower — Massimiliano Fuksas | skyscraper
+   Q320459   8.8   2001 Europe    Germany        | German Chancellery in Berlin — Axel Schultes, Charlotte Frank | building, architectural ensemble
+    Q59435   7.6   2001 Europe    Austria        | Leopold Museum — Laurids Ortner, Manfred Ortner | art museum
+   Q619832   7.1   2001 Europe    Netherlands    | AFAS Live — Frits van Dongen | concert hall, event venue
+  Q1586277   7.0   2001 Europe    Netherlands    | Mevlana Mosque — Bert Toorman | mosque
+  Q1093950  14.4 * 2002 Europe    United Kingdom | Old City Hall — Norman Foster, Foster and Partners | city hall, Rathaus
+   Q572887  14.2 * 2002 Europe    United Kingdom | 8 Canada Square — Foster and Partners | skyscraper, office building
+  Q1393304  11.6 * 2002 Europe    United Kingdom | Imperial War Museum North — Daniel Libeskind | military museum, museum
+  Q1131522  11.0 * 2002 Europe    Italy          | Teatro degli Arcimboldi — Vittorio Gregotti, Mario Botta | theatre building, opera house
+  Q6062641  10.8 * 2002 Europe    Spain          | Parc de Diagonal Mar — Benedetta Tagliabue, Enric Miralles | park
+  Q1621858  10.6 * 2002 Europe    Austria        | Hochhaus Neue Donau — Harry Seidler | multi-story urban building, skyscraper
+   Q516226   8.2   2002 Europe    Germany        | Transparent Factory — Gunter Henn | assembly plant
+   Q162481   7.6 * 2002 Europe    Portugal       | Trindade metro station — Eduardo Souto de Moura | metro station, underground station
+ Q12131081   7.5   2002 Europe    Ukraine        | International Exhibition Centre — Yanush Wig | convention center
+  Q1283696   7.5   2002 Europe    North Macedoni | Saint Panteleimon — Clement of Ohrid | monastery, church building
+  Q2342322   7.5   2002 Europe    Ukraine        | Patriarchal Cathedral of the Resurrection of Christ — Mykola Levchuk | Catholic cathedral, Greek Catholic church
+   Q250195   7.4   2002 Europe    Germany        | Pinakothek der Moderne — Stephan Braunfels | national museum, pinacotheca
+   Q897556   7.2   2002 Europe    Hungary        | Müpa Budapest — Gábor Zoboki | art museum, concert hall
+    Q28964  15.2 * 2003 Europe    Spain          | Auditorio de Tenerife — Santiago Calatrava | opera house, concert hall
+  Q1226760  13.8 * 2003 Europe    Italy          | Jubilee Church — Richard Meier | church building
+  Q2447851  12.0 * 2003 Europe    Spain          | L'Oceanogràfic — Félix Candela, Santiago Calatrava | public aquarium
+   Q849239  11.0 * 2003 Europe    Portugal       | Estádio Municipal de Braga — Eduardo Souto de Moura | stadium, cultural heritage
+  Q5436764  10.8 * 2003 Europe    United Kingdom | Fashion and Textile Museum — Ricardo Legorreta | museum, building
+   Q597137   7.4   2003 Europe    Austria        | Kunsthaus Graz — Peter Cook, Colin Fournier | art museum
+   Q191161  15.1 * 2004 Europe    United Kingdom | 30 St Mary Axe — Norman Foster, Foster and Partners | skyscraper
+  Q2746031  13.7 * 2004 Europe    United Kingdom | Scottish Parliament Building — Enric Miralles, Benedetta Tagliabue | parliament building
+  Q2414046  13.1 * 2004 Europe    United Kingdom | The Glasshouse — Foster and Partners | thin-shell structure, concert hall
+   Q872947  12.5 * 2004 Europe    Denmark        | Danish Jewish Museum — Daniel Libeskind | Jewish museum, public space
+  Q3327230  12.0 * 2004 Europe    Netherlands    | Market Hall — Winy Maas, Jacob van Rijs | built structure
+  Q1479961  11.2 * 2004 Europe    Germany        | Museum Frieder Burda — Richard Meier | art museum
+   Q810129   9.5   2004 Europe    Poland         | Basilica of Our Lady of Licheń — Barbara Bielecka | church building
+   Q330385   8.6   2004 Europe    Serbia         | Church of Saint Sava — Aleksandar Deroko | Eastern Orthodox cathedral
+  Q2307557   8.0   2004 Europe    Portugal       | Basilica of the Holy Trinity, Fátima — Alexandros Tombazis | minor basilica, cultural heritage
+   Q296962   7.0   2004 Europe    Denmark        | ARoS Aarhus Kunstmuseum — Schmidt Hammer Lassen | art museum
+   Q166893   6.8   2004 Europe    Germany        | Skyper — JSK Architekten | building complex
+  Q2631977   6.8   2004 Europe    United Kingdom | Wales Millennium Centre — Percy Thomas Partnership | convention center, arts center
+   Q206435  15.0 * 2005 Europe    Sweden         | Turning Torso — Santiago Calatrava | skyscraper, apartment building
+   Q336246  14.8 * 2005 Europe    Spain          | Torre Glòries — Jean Nouvel | skyscraper
+   Q838297  14.4 * 2005 Europe    Denmark        | Copenhagen Opera House — Henning Larsen | opera house
+   Q127429  13.8 * 2005 Europe    Germany        | Allianz Arena — Herzog & de Meuron | Multi-purpose stadium, stadium
+   Q265695  13.4 * 2005 Europe    Germany        | Phaeno Science Center — Zaha Hadid | science center
+   Q941120  12.7 * 2005 Europe    Norway         | Nobel Peace Center — David Adjaye | museum, nonprofit organization
+   Q459531  12.7 * 2005 Europe    Germany        | MARTa Herford — Frank Gehry | design museum
+   Q747342  12.5 * 2005 Europe    Spain          | Palau de les Arts Reina Sofia — Santiago Calatrava | opera house, opera company
+  Q5338037  12.1 * 2005 Europe    Spain          | Edifici Gas Natural — Enric Miralles, Benedetta Tagliabue | tower block
+  Q7907325  10.8 * 2005 Europe    Denmark        | VM Houses — PLOT, BIG | apartment building
+  Q2269636  10.6 * 2005 Europe    Netherlands    | Ito-toren — Toyo Ito | office building, skyscraper
+  Q3364989  10.6 * 2005 Europe    Denmark        | Gemini Residence — MVRDV | residential building
+   Q429069   9.4   2005 Europe    Poland         | Museum of the History of Polish Jews — Rainer Mahlamäki, Ilmari Lahdelma | Jewish museum, museum building
+  Q4392418   8.0   2005 Europe    Russia         | Putin's Palace — Lanfranco Cirillo | palace, estate
+   Q388677   7.1   2005 Europe    Germany        | Şehitlik Mosque — Hilmi Şenalp | mosque
+  Q1956218   6.9   2005 Europe    Poland         | Museum of Modern Art in Warsaw — Thomas Phifer and Partners | museum of modern art, cultural institution
+   Q167863  14.7 * 2006 Europe    France         | Musée du quai Branly — Jean Nouvel | art museum, national museum
+  Q3099270  12.5 * 2006 Europe    France         | Saint-Pierre church — Le Corbusier, José Oubrerie | church building
+   Q441928  11.2 * 2006 Europe    Germany        | Museum of Modern Literature — David Chipperfield | literary museum
+  Q3044181  11.0 * 2006 Europe    Spain          | Hyatt Regency Barcelona Tower — Richard Rogers | skyscraper, hotel building
+  Q3038292  10.8 * 2006 Europe    Spain          | America's Cup Building — David Chipperfield | built structure
+  Q3375940  10.8 * 2006 Europe    Denmark        | Tietgenkollegiet — Lundgaard & Tranberg, Lene Tranberg | university dormitory
+   Q201013   8.8   2006 Europe    Norway         | Svalbard Global Seed Vault — Peter W. Søderman | seed bank, built structure
+  Q3532921   7.6   2006 Europe    France         | Toulouse School of Economics — Grafton Architects | university
+  Q2251720   6.7   2006 Europe    Croatia        | Eurotower — Marijan Hržić | building
+   Q699614  14.2 * 2007 Europe    Germany        | BMW Welt — Coop Himmelb(l)au, Wolf D. Prix | music venue, Q1940855
+  Q2522995  13.0 * 2007 Europe    Netherlands    | New Orleans — Álvaro Siza Vieira | tower block
+  Q1344004   7.7   2007 Europe    Russia         | Naberezhnaya Tower — RTKL Associates | building complex
+  Q5425725   6.7   2007 Europe    Switzerland    | FIFA headquarters — Tilla Theus | building complex
+   Q519568  14.5 * 2008 Europe    Spain          | Torre Moeve — Norman Foster | skyscraper
+  Q3489939  12.5 * 2008 Europe    Czech Republic | City Tower — Richard Meier | skyscraper
+  Q4504054  11.9 * 2008 Europe    Russia         | Garage Center for Contemporary Culture — Rem Koolhaas | art museum, book publisher
+  Q4568402  11.5 * 2008 Europe    Denmark        | Royal Danish Playhouse — Lundgaard & Tranberg | theatre building
+  Q1026041  11.3 * 2008 Europe    Spain          | CaixaForum Madrid — Herzog & de Meuron | museum, cultural center
+  Q2738281  11.3 * 2008 Europe    Spain          | Isozaki Atea — Arata Isozaki | office building
+ Q12062128  10.6 * 2008 Europe    Denmark        | Mountain Dwellings — BIG | parking garage, apartment building
+  Q1434077  10.6 * 2008 Europe    Denmark        | Utzon Center — Jørn Utzon, Kim Utzon | building, museum
+   Q525190   7.2   2008 Europe    Germany        | Ozeaneum — Behnisch Architekten | public aquarium, natural history museum
+  Q2303063   7.1   2008 Europe    Croatia        | Varaždin Arena — Max Bögl | sports venue
+Q106618731   7.1   2008 Europe    Spain          | Administrative building of the Xunta de Galicia in Pontevedra — Manuel Gallego Jorreto | administrative building, building of public administration
+ Q99436819   7.1   2008 Europe    Italy          | Palazzo Bocconi — Shelley McNamara, Yvonne Farrell | building
+   Q967234   6.8   2008 Europe    Croatia        | Krešimir Ćosić Hall — Marijan Hržić | multi-purpose hall
+   Q421084  14.7 * 2009 Europe    Greece         | Acropolis Museum — Bernard Tschumi, Michael Photiadis | archaeological museum, museum
+  Q2634180  13.0 * 2009 Europe    Spain          | L'Àgora — Santiago Calatrava | multi-purpose hall
+  Q2648632  13.0 * 2009 Europe    Spain          | W Barcelona — Ricardo Bofill | skyscraper, hotel building
+  Q6000580  12.1 * 2009 Europe    United Kingdom | One Hyde Park — Rogers Stirk Harbour + Partners | mixed-use development, tower block
+  Q1189521  11.2 * 2009 Europe    Spain          | Torre Realia BCN — Toyo Ito | skyscraper
+  Q1020211  11.0 * 2009 Europe    Denmark        | Bølgen — Henning Larsen Architects | building
+  Q1383197  11.0 * 2009 Europe    Germany        | MyZeil — Massimiliano Fuksas | shopping center
+  Q1140025  10.8 * 2009 Europe    Norway         | Knut Hamsun Centre — Steven Holl, Steven Holl Architects | museum, exhibition park
+   Q371585   7.3   2009 Europe    Spain          | Caja Mágica — Dominique Perrault | sports venue
+  Q3824294   7.1   2009 Europe    Spain          | Cerdanyola Art Museum. Can Domènech — Eduard Maria Balcells i Buïgas, Gaietà Buïgas i Monravà | building, museum
+  Q1547331   6.8   2009 Europe    Belgium        | Musée Hergé — Christian de Portzamparc | museum
+  Q1054169  13.8 * 2010 Europe    France         | Centre Pompidou-Metz — Shigeru Ban, Jean de Gastines | art museum
+  Q3916709  13.1 * 2010 Europe    Ireland        | Convention Centre Dublin — Kevin Roche | convention center
+  Q1189944  13.0 * 2010 Europe    Spain          | Hotel Porta Fira — Toyo Ito | skyscraper, hotel building
+  Q3030047  12.7 * 2010 Europe    Switzerland    | Rolex Learning Center — SANAA | building
+   Q405543  12.1 * 2010 Europe    France         | Louvre-Lens — Kazuyo Sejima | art museum
+  Q3297039   6.8   2010 Europe    Sweden         | Kristianstad Arena — Tengbom | sports venue
+   Q308874  13.1 * 2011 Europe    United Kingdom | London Aquatics Centre — Zaha Hadid | built structure
+  Q3533034  13.1 * 2011 Europe    France         | CMA CGM Tower — Zaha Hadid | skyscraper
+   Q545283  11.3 * 2011 Europe    Denmark        | Bella Sky Hotel — 3XN | hotel
+   Q683345  11.2 * 2011 Europe    Switzerland    | Prime Tower — Gigon/Guyer | skyscraper
+  Q1783706   8.9   2011 Europe    Iceland        | Harpa — Ólafur Elíasson | concert hall
+   Q816241   7.9   2011 Europe    United Kingdom | London Velopark — Hopkins Architects | sports venue
+   Q392794   7.2   2011 Europe    Lithuania      | Švyturys Arena — Kaunas | sports venue
+    Q18536  15.4 * 2012 Europe    United Kingdom | The Shard — Renzo Piano | skyscraper, office building
+  Q3995200  13.4 * 2012 Europe    Italy          | Allianz Tower — Arata Isozaki, Andrea Maffei | skyscraper
+  Q4991994  12.7 * 2012 Europe    Norway         | Kilden Performing Arts Centre — ALA Architects, Q55223968 | performing arts center, theatre building
+ Q14388827  10.6 * 2012 Europe    Norway         | Buen kulturhus — 3XN | arts center, building
+   Q631871   7.3   2012 Europe    United Kingdom | ArcelorMittal Orbit — Anish Kapoor | sculpture, observation tower
+   Q322921   6.9   2012 Europe    Finland        | Kamppi Chapel — K2S Architects | chapel
+   Q924254   6.8   2012 Europe    United Kingdom | Titanic Belfast — Eric Kuhne | convention center
+  Q6542576  13.7 * 2013 Europe    United Kingdom | Library of Birmingham — Francine Houben, Mecanoo | public library, library building
+  Q5219764  11.2 * 2013 Europe    Denmark        | Danish Maritime Museum — Bjarke Ingels | maritime museum
+ Q41061028  10.8 * 2013 Europe    Netherlands    | Depot Boijmans van Beuningen — MVRDV, John Körmeling | storage building, museum storage
+  Q2743819   7.5   2013 Europe    Sweden         | ABBA: The Museum — Celsing Arkitekter | museum
+  Q2808698   7.5   2013 Europe    France         | Museum of European and Mediterranean Civilisations — Rudy Ricciotti | museum
+   Q658743   7.4   2013 Europe    Montenegro     | Cathedral of the Resurrection of Christ — Predrag Ristić | Eastern Orthodox cathedral
+    Q59483   7.4   2013 Europe    Russia         | Mercury City Tower — Frank Williams | skyscraper
+ Q12318605   7.1   2013 Europe    Denmark        | Isbjerget — CEBRA | housing estate
+  Q5289183   7.1   2013 Europe    Belarus        | Royal Plaza, Minsk — Barys Škoĺnikaŭ | building
+ Q13668666   6.7   2013 Europe    Belarus        | Independence Palace, Minsk — Q58191421, Q104621690 | official residence
+   Q321040  13.8 * 2014 Europe    Germany        | Seat of the European Central Bank — Wolf D. Prix, Coop Himmelb(l)au | architectural ensemble, office building
+  Q2742547  13.6 * 2014 Europe    United Kingdom | 122 Leadenhall Street — Richard Rogers | skyscraper
+  Q3075489  13.2 * 2014 Europe    France         | Louis Vuitton Foundation — Frank Gehry | art museum
+     Q8352  11.2 * 2014 Europe    France         | Musée des Confluences — Coop Himmelb(l)au | science museum
+ Q18408321   8.8   2014 Europe    Russia         | Last Address — Alexander Brodsky | community action group
+  Q4332610   7.9   2014 Europe    Russia         | OKO — Q459464 | building complex
+ Q15982300   7.4   2014 Europe    Sweden         | Kulturväven — White (architecture firm) | cultural center
+ Q17347241   7.3   2014 Europe    Belgium        | UP-site — Yves Lion, A2RC Architects | housing estate
+ Q16957737   6.8   2014 Europe    Denmark        | Grand Mosque of Copenhagen — Metin Lindved Aydin | mosque
+ Q19882533  13.9 * 2015 Europe    Malta          | Parliament House — Renzo Piano | building of public administration
+ Q15712780  12.7 * 2015 Europe    Switzerland    | Roche Tower — Herzog & de Meuron | office building
+   Q252481  11.5 * 2015 Europe    France         | Stade Atlantique — Herzog & de Meuron | Multi-purpose stadium
+ Q19818184   7.6   2015 Europe    Russia         | CSKA Arena — SPEECH architectural office, Sergei Enwerowitsch Tchoban | sports venue
+  Q6972777   7.1   2015 Europe    Poland         | National Forum of Music — Stefan Kuryłowicz | concert hall
+  Q1374287   6.8   2015 Europe    Russia         | Eurasia — Swanke Hayden Connell Architects | skyscraper
+ Q20032692   6.7   2015 Europe    Poland         | International Conference Centre — JEMS Architekci | convention center
+   Q249053  13.7 * 2016 Europe    Poland         | Złota 44 — Daniel Libeskind | skyscraper, residential building
+ Q17511186  11.8 * 2016 Europe    Greece         | Stavros Niarchos Foundation Cultural Center — Renzo Piano | cultural center, park
+Q107141506  10.6 * 2016 Europe    Netherlands    | Sluishuis — BIG, Barcode Architects | building
+  Q3496849  10.6 * 2016 Europe    United Kingdom | Riverside South — Rogers Stirk Harbour + Partners | tower block
+    Q94193   9.9   2016 Europe    Russia         | Federation Tower — Sergei Enwerowitsch Tchoban, Peter P. Schweger | building complex
+ Q23785329   6.9   2016 Europe    Germany        | Museum Barberini — Hilmer & Sattler und Albrecht | art museum, reconstructed structure
+ Q19944990  14.2 * 2017 Europe    France         | La Seine Musicale — Shigeru Ban | performing arts center
+   Q836059  14.0 * 2017 Europe    Germany        | Cologne Central Mosque — Gottfried Böhm | mosque
+  Q3995195  13.0 * 2017 Europe    Italy          | Generali Tower — Zaha Hadid | skyscraper
+ Q19908995  12.2 * 2017 Europe    Russia         | Zaryadye Park — Diller Scofidio + Renfro | urban park, Q78497631
+   Q722970  11.9 * 2017 Europe    Russia         | Gazprom Arena — Kisho Kurokawa | association football venue
+ Q22087791  11.0 * 2017 Europe    Denmark        | Lego House — BIG | building
+Q104922833  10.8 * 2017 Europe    Belgium        | De Krook — Coussée en Goris Architecten, RCR Arquitectes | public building, library building
+  Q5168452  10.2 * 2017 Europe    Denmark        | Royal Arena — 3XN | arena
+  Q7108439   8.8 * 2017 Europe    Finland        | Aalto University metro station — ALA Architects | metro station, underground station
+  Q5487773   8.6 * 2017 Europe    Finland        | Keilaniemi metro station — ALA Architects | metro station, underground station
+ Q18334510   7.3   2017 Europe    Germany        | Rottweil elevator test tower — Helmut Jahn, Werner Sobek | elevator test tower
+ Q18659999  12.4 * 2018 Europe    Finland        | Helsinki Central Library Oodi — ALA Architects | library building, public library
+ Q43674688  11.5 * 2018 Europe    United Kingdom | V&A Dundee — Kengo Kuma | museum, national museum
+   Q664484  11.8 * 2019 Europe    Germany        | James Simon Gallery — David Chipperfield | art museum
+  Q3775875  11.2 * 2019 Europe    Italy          | Piedmont Region Headquarters — Massimiliano Fuksas | skyscraper
+ Q26723916  10.8 * 2019 Europe    Finland        | Mall of Tripla — Office for Metropolitan Architecture | shopping center
+ Q85860389  10.6 * 2019 Europe    Italy          | Campus Bocconi University — SANAA, Kazuyo Sejima | architectural ensemble, campus
+ Q56409092   7.2   2019 Europe    Norway         | Mjøstårnet — Voll Arkitekter | mixed-use building, plyscraper
+ Q28320872  14.1 * 2020 Europe    Poland         | Varso — Foster and Partners, HRA Architekci | building complex
+  Q3995204  12.7 * 2020 Europe    Italy          | Libeskind Tower — Daniel Libeskind | skyscraper
+  Q6546023  10.8 * 2020 Europe    Denmark        | Lighthouse — 3XN | skyscraper, residential tower
+ Q20196262   7.7   2020 Europe    Germany        | Humboldt Forum — Franco Stella | museum, museum building
+  Q3533204  12.2 * 2021 Europe    France         | Triangle — Herzog & de Meuron | proposed tower, skyscraper
+  Q3716326   8.0 * 2021 Europe    Italy          | Duomo — Massimiliano Fuksas | metro station, underground station
+Q105200341   7.5   2021 Europe    France         | Grand Palais Éphémère — Jean-Michel Wilmotte | temporary structure
+ Q17640070  14.1 * 2022 Europe    France         | Tour Hekla — Jean Nouvel | tower block, office building
+Q111663933  10.8 * 2022 Europe    Malta          | Mercury Tower — Zaha Hadid Architects | building
+ Q18660079   8.6 * 2022 Europe    Finland        | Kivenlahti metro station — ALA Architects | metro station, underground station
+  Q3462074   8.8 * 2024 Europe    France         | Saint-Denis Pleyel — Kengo Kuma | metro station, underground station
+ Q30739928   7.5   2024 Europe    France         | Saint-Denis Olympic Swimming Stadium — VenhoevenCS | swimming center
+   Q538548   6.8   2024 Europe    Hungary        | Rác Thermal Bath — Miklós Ybl | spa, medicinal bath
+ Q64825395  12.5 * 2026 Europe    Italy          | Unipol Dome — David Chipperfield | indoor ice rink, building or structure under construction
+   Q276569   6.9 * 622 Middle Ea Saudi Arabia   | Quba Mosque — Abdel-Wahed El-Wakil | mosque
+  Q1322278   6.5   1921 Middle Ea Armenia        | Matenadaran — Mark Grigorian | art museum, archives
+   Q737835   8.2   1934 Middle Ea Iran           | University of Tehran — André Godard | public university, campus
+  Q2559128   6.6   1936 Middle Ea Azerbaijan     | National Art Museum of Azerbaijan — Nikolaus von der Nonne | art museum
+  Q5952145   6.4   1951 Middle Ea Iran           | Avicenna Mausoleum — Hooshang Seyhoun | mausoleum, tower
+  Q1288138   7.6   1952 Middle Ea Egypt          | The Mogamma — Mohamed Kamal Ismail | administrative building
+  Q2347389   6.7   1952 Middle Ea Azerbaijan     | Government House — Lev Rudnev | building, administrative building
+   Q156591  13.5 * 1953 Middle Ea Israel         | Yad Vashem — Moshe Safdie | research institute, archives
+   Q615404   8.2   1953 Middle Ea Turkey         | Anıtkabir — Emin Onat, Orhan Arda | mausoleum, national museum
+   Q830746   6.7   1955 Middle Ea Israel         | Church of the Visitation — Antonio Barluzzi | Catholic church building
+  Q7278533   6.6   1957 Middle Ea Israel         | Rabbi Dr. I. Goldstein Synagogue — David Resnick, Heinrich Rau | synagogue
+   Q614684   7.3   1961 Middle Ea Egypt          | Cairo Tower — Naoum Shebib | television tower
+    Q33224   7.3   1963 Middle Ea Israel         | International Convention Center — Zeev Rechter | convention center
+   Q781491   7.0   1963 Middle Ea Israel         | Menora Mivtachim Arena — Zeev Porath | built structure
+  Q6794054   6.6   1963 Middle Ea Iran           | Omar Khayyam Mausoleum — Hooshang Seyhoun | mausoleum, tower
+  Q5957084   6.5   1963 Middle Ea Iran           | Nader Shah Mausoleum — Hooshang Seyhoun | mausoleum, biographical museum
+    Q46815   9.0   1965 Middle Ea Israel         | Israel Museum — Alfred Mansfeld | art museum, national museum
+   Q174527   7.2   1965 Middle Ea Israel         | Shrine of the Book — Armand Phillip Bartos, Frederick John Kiesler | building, literary museum
+  Q2904108   7.3   1966 Middle Ea Israel         | Tel Aviv City Hall — Menachem Cohen | Rathaus
+   Q154775   7.7   1967 Middle Ea Armenia        | Tsitsernakaberd — Arthur Tarkhanyan | museum, memorial
+  Q1136822   7.4   1967 Middle Ea Azerbaijan     | Azerbaijan Carpet Museum — Franz Janz | art museum
+  Q1477289   7.1   1968 Middle Ea Egypt          | Saint Mark's Coptic Orthodox Cathedral — Michel Bakhoum, Awad Kamil Fahmy | Eastern Orthodox cathedral
+   Q130815   8.9   1969 Middle Ea Israel         | Basilica of the Annunciation — Giovanni Muzio | minor basilica
+   Q551685   6.7   1969 Middle Ea Turkey         | Atatürk Cultural Center — Hayati Tabanlıoğlu, Tabanlıoğlu Architects | cultural center, built structure
+  Q2082848   6.5   1970 Middle Ea Iran           | Saint Sarkis Cathedral — Eugene Aftandelians | cathedral, cultural property
+  Q1140026  13.1 * 1971 Middle Ea Iran           | Azadi Tower — Hossein Amanat | tower, cultural property
+   Q555919   7.6   1971 Middle Ea Israel         | Jerusalem Theater — Shulamit Nadler, Michael Nadler | performing arts center, theatre building
+  Q2894046   6.5   1971 Middle Ea Israel         | Beit HaNassi — Abba Elhanani | official residence
+ Q17001787   6.6   1972 Middle Ea Israel         | Clal Center — Dan Eytan | building
+  Q6564766   7.0   1973 Middle Ea Iran           | Pearl Palace — William Wesley Peters, Taliesin Associated Architects | palace, cultural property
+  Q1544120   7.5   1975 Middle Ea Georgia        | Bank of Georgia headquarters — George Chakhava | building of public administration, cultural property
+  Q2905581   7.2   1975 Middle Ea Israel         | Atarim Square — Yaakov Rechter | square, building
+   Q970335   6.7   1976 Middle Ea Iran           | Carpet Museum of Iran — Abdol Aziz Farmanfarmaian | national museum, textile museum
+  Q1756399  13.8 * 1977 Middle Ea Iran           | Tehran Museum of Contemporary Art — Kamran Diba | contemporary art museum
+  Q1335640   7.7   1977 Middle Ea Kuwait         | Kuwait Towers — Sune Lindström, Malene Bjørn | building complex, architectural landmark
+ Q15239238   6.8   1977 Middle Ea Armenia        | Komitas Chamber Music Hall — Stepan Kurkchyan | concert hall, cultural property
+   Q796764   7.4   1978 Middle Ea Israel         | Museum of the Jewish People at Beit Hatfutsot — Yitzhak Yashar | museum, online database
+  Q2940844   7.3   1980 Middle Ea Armenia        | Yerevan Cascade — Alexander Tamanian, Sargis Gurzadyan | stairs
+ Q15156679  10.8 * 1982 Middle Ea Kuwait         | Kuwait National Assembly Building — Jørn Utzon | building of public administration
+  Q4273758   7.9   1982 Middle Ea Azerbaijan     | Vagif Mausoleum — Abdulvahab Salamzadeh | mausoleum
+  Q2628988  11.4 * 1987 Middle Ea Saudi Arabia   | King Saud Mosque — Abdel-Wahed El-Wakil | mosque
+   Q853935   7.8   1987 Middle Ea Turkey         | Kocatepe Mosque — Hüsrev Tayla, Fatin Uluengin | mosque
+ Q23894294   8.9   1990 Middle Ea Israel         | Museum of Philistine Culture — Gil Minster | museum
+  Q2778760   6.5   1992 Middle Ea Qatar          | Khalifa International Tennis and Squash Complex — Nussli Group | tennis venue
+  Q5461957   7.5   1993 Middle Ea Turkey         | Florya Atatürk Marine Mansion — Seyfi Arkan | historic house museum
+   Q555356   6.7   1994 Middle Ea Israel         | Tel Aviv Performing Arts Center — Yaakov Rechter | opera house
+   Q339168   6.7   1996 Middle Ea Azerbaijan     | Mausoleum of Huseyn Javid — Ömer Eldarov, Rasim Aliyev | mausoleum
+  Q2942349   7.8   1997 Middle Ea Armenia        | Saint Gregory the Illuminator Cathedral — Stepan Kurkchyan | cathedral
+  Q3043695   6.5   1997 Middle Ea Turkmenistan   | Oguzhan Palace — Bouygues Turkmen | presidential palace
+  Q2916014  11.7 * 1998 Middle Ea Israel         | Cymbalista Synagogue and Jewish Heritage Center — Mario Botta | synagogue
+  Q2912208  11.0 * 1998 Middle Ea Israel         | David Citadel Hotel — Moshe Safdie | hotel
+   Q993863   7.4   1998 Middle Ea Turkmenistan   | Ertuğrul Gazi Mosque — Hilmi Şenalp | mosque
+  Q1343912   7.2   1999 Middle Ea Saudi Arabia   | National Museum of Saudi Arabia — Raymond Moriyama | national museum
+   Q845182   7.1   1999 Middle Ea United Arab Em | Emirates Office Tower — Hazel Wong | skyscraper
+  Q4343512   6.6   1999 Middle Ea Turkey         | Iğdır Genocide Memorial and Museum — Cafer Giyasi | museum, monument
+  Q2303314  14.1 * 2000 Middle Ea Saudi Arabia   | Al Faisaliah Centre — Foster and Partners | skyscraper, architectural landmark
+   Q344564   8.3   2000 Middle Ea Turkey         | Isbank Tower 1 — Swanke Hayden Connell Architects | built structure
+   Q501851  15.1 * 2002 Middle Ea Egypt          | Bibliotheca Alexandrina — Snøhetta | national library, library building
+  Q2744462   6.9   2002 Middle Ea Israel         | Belz Beis HaMedrash HaGadol — Aaron Ostreicher | synagogue
+  Q2620812   7.7   2003 Middle Ea Israel         | Domus Galilaeae — Kiko Argüello | school
+  Q1463961   7.5   2003 Middle Ea Turkey         | İstanbul Modern — Tabanlıoğlu Architects | art museum, art gallery
+    Q12495   7.6   2004 Middle Ea United Arab Em | Burj Khalifa — Adrian Smith, Marshall Strabala | skyscraper, architectural landmark
+   Q573362   6.6   2004 Middle Ea Kazakhstan     | Kazakhstan Central Concert Hall — Manfredi Nicoletti | concert hall
+   Q172743   8.4   2005 Middle Ea Turkey         | Istanbul Park — Hermann Tilke | motorsport racing track
+  Q2119741  14.2 * 2006 Middle Ea Kazakhstan     | Palace of Peace and Reconciliation — Foster and Partners | creative work, national symbol
+   Q695604   8.8   2007 Middle Ea United Arab Em | Sheikh Zayed Mosque — Yusef Abdelki | mosque
+  Q1609839   8.4   2007 Middle Ea Azerbaijan     | Church of the Immaculate Conception — Józef Plośko | church building, pro-cathedral
+ Q10413351  13.7 * 2008 Middle Ea Qatar          | Doha Tower — Jean Nouvel | skyscraper
+  Q1148353  12.8 * 2008 Middle Ea Qatar          | Museum of Islamic Art — I. M. Pei | art museum
+   Q622796   8.7   2008 Middle Ea Iran           | Milad Tower — Mohammad Reza Hafezi | observation tower, communication tower
+  Q1133309   6.8   2008 Middle Ea United Arab Em | Dubai Mall — DP Architects | shopping center
+   Q172869   8.4   2009 Middle Ea United Arab Em | Yas Marina Circuit — Hermann Tilke | motorsport racing track
+   Q838780   7.3   2009 Middle Ea United Arab Em | Almas Tower — Atkins | skyscraper
+  Q2705343   7.3   2009 Middle Ea Turkey         | Şakirin Mosque — Hüsrev Tayla | mosque
+  Q1470076   6.7   2009 Middle Ea United Arab Em | HHHR Tower — Al Hashemi | skyscraper
+  Q1034660   6.5   2009 Middle Ea United Arab Em | Capital Gate — RMJM | skyscraper
+  Q3653173   6.5   2009 Middle Ea Georgia        | Ceremonial Palace of Georgia — Michele De Lucchi, Giorgi Batiashvili | palace
+   Q671484  14.2 * 2010 Middle Ea Kazakhstan     | Khan Shatyr Entertainment Center — Foster and Partners | building
+ Q28155053  10.8 * 2010 Middle Ea Saudi Arabia   | Ithra — Snøhetta | cultural center
+   Q673656   7.7   2010 Middle Ea United Arab Em | Ferrari World Abu Dhabi — Benoy | theme park
+  Q2297982   7.6   2010 Middle Ea Israel         | Design Museum Holon — Ron Arad | art museum
+   Q134124   6.8   2010 Middle Ea United Arab Em | Ocean Heights — Andrew Bromberg | tower block, skyscraper
+  Q2472804   8.3   2011 Middle Ea United Arab Em | Ubora Towers — Aedas | building
+   Q189476   7.9   2011 Middle Ea Saudi Arabia   | Abraj Al Bait — Dar Al-Handasah, Mahmoud Bodo Rasch | building complex, skyscraper
+  Q1361436  12.2 * 2012 Middle Ea Qatar          | Qatar National Library — Rem Koolhaas | national library
+   Q216264   7.2   2012 Middle Ea United Arab Em | 23 Marina — Hafeez Contractor | skyscraper, residential building
+  Q6066268  11.6 * 2013 Middle Ea Turkey         | Zorlu Center — Emre Arolat, Tabanlıoğlu Architects | building complex
+ Q15727593   7.8   2013 Middle Ea Armenia        | Elite Plaza — Hovhannes Mutafyan | built structure
+  Q3500331   7.5   2013 Middle Ea Iraq           | Basra Sports City — 360 Architecture | sports venue
+ Q15790479   6.4   2013 Middle Ea Saudi Arabia   | Burj Rafal — P&T Architects & Engineers Ltd. | skyscraper
+   Q615950  14.0 * 2014 Middle Ea United Arab Em | Central Market Project — Foster and Partners | skyscraper
+ Q18324962   8.2   2014 Middle Ea Turkey         | Presidential Palace of Turkey — Şefik Birkiye | presidential palace
+  Q2061935   7.1   2014 Middle Ea Saudi Arabia   | Lamar Towers — RMJM | building complex
+ Q40894456   6.6   2014 Middle Ea Turkey         | Presidential Complex of Turkey — Şefik Birkiye | compound, facility
+ Q12841927   6.5   2014 Middle Ea Azerbaijan     | National Gymnastics Arena — Broadway Malyan | sports venue
+  Q2913336   7.0   2016 Middle Ea United Arab Em | Dubai Opera House — Atkins | opera house
+ Q20386392   7.5   2018 Middle Ea United Arab Em | Dubai Frame — Hyder Consulting | work of art, built structure
+  Q3084218  12.6 * 2019 Middle Ea Qatar          | National Museum of Qatar — Jean Nouvel | museum
+ Q22948398   7.5   2022 Middle Ea United Arab Em | Museum of the Future — Killa Architecture | museum, built structure
+  Q2583681   8.6   2025 Middle Ea Egypt          | Grand Egyptian Museum — Heneghan Peng, Roisin Heneghan | museum building, archaeological museum
+   Q758657   2.0   1852 Oceania   New Zealand    | Auckland War Memorial Museum Tāmaki Paenga Hira — Grierson, Aimer and Draffin | museum, military museum
+  Q1200052   2.3   1854 Oceania   Australia      | State Library Victoria — Joseph Reed | state library, library building
+  Q1464509   3.0   1861 Oceania   Australia      | National Gallery of Victoria — Mario Bellini | art museum, national museum
+  Q7108347   1.2   1865 Oceania   New Zealand    | Otago Museum — David Ross (architect) | museum, historic building
+  Q1033769   2.0   1870 Oceania   New Zealand    | Canterbury Museum — Benjamin Mountfort | museum, nonprofit organization
+  Q2053641   0.8   1874 Oceania   Australia      | Parliament House of South Australia — Edmund Wright | parliament building
+  Q7084116   0.8   1876 Oceania   New Zealand    | Old Government Buildings, Wellington — William Henry Clayton | building
+   Q695935   3.5   1879 Oceania   Australia      | Royal Exhibition Building — Joseph Reed | exhibition park, historical cultural heritage site
+   Q705551   2.6   1880 Oceania   Australia      | Art Gallery of New South Wales — John Horbury Hunt | art museum
+  Q4819492   2.0   1887 Oceania   New Zealand    | Auckland Art Gallery — John Harry Grainger, Charles D'Ebro | art museum
+  Q5532119   1.0   1891 Oceania   Australia      | General Post Office, Sydney — James Barnet | post office
+  Q1391825   4.2   1911 Oceania   New Zealand    | Auckland Town Hall — John James Clark | Rathaus, concert hall
+   Q565494   3.8   1914 Oceania   New Zealand    | Opera House — William Pitt | opera house
+ Q18328073   3.6   1922 Oceania   New Zealand    | Parliament House, Wellington — John Campbell | built structure
+   Q607293   2.2   1922 Oceania   Australia      | Cathedral of St Stephen, Brisbane — Benjamin Backhouse | cathedral
+  Q1671102   2.0   1922 Oceania   New Zealand    | St Mary of the Angels — Frederick de Jersey Clere | church building
+   Q782783   5.5   1925 Oceania   Australia      | Australian War Memorial — Emil Sodersten | military museum, memorial
+ Q19875559   1.6   1925 Oceania   New Zealand    | Cathedral of the Holy Spirit — Frederick de Jersey Clere | Catholic cathedral
+  Q1467835   4.5   1927 Oceania   Australia      | Old Parliament House — John Smith Murdoch | capitol building, Government body of Australia
+  Q1464314   4.2   1929 Oceania   Australia      | Parliament House — Knight & Kerr | parliament building
+   Q844556   4.9   1934 Oceania   Australia      | Anzac Memorial — Bruce Dellit | war memorial, military museum
+ Q21236459   1.8   1938 Oceania   Australia      | St Francis Xavier's Cathedral, Geraldton — John Hawes | Catholic cathedral, heritage site
+  Q5510583   5.5   1961 Oceania   New Zealand    | Futuna Chapel — John Scott | church building, historic building
+  Q2872154  10.1 * 1964 Oceania   Australia      | Australia Square — Harry Seidler | building complex
+   Q795228   7.4   1967 Oceania   Australia      | National Gallery of Australia — Colin Madigan | art museum, national museum
+  Q5109102   7.8   1972 Oceania   New Zealand    | Christchurch Town Hall — Miles Warren, Maurice Mahoney | performing arts center, theatre building
+   Q599363  11.3 * 1977 Oceania   Australia      | MLC Centre — Harry Seidler | skyscraper
+   Q960951   0.7   1977 Oceania   Australia      | Nauru House — Perrott Lyon Timlock & Kesa | office building, skyscraper
+  Q1794839   7.7   1981 Oceania   New Zealand    | Beehive — Basil Spence | building
+   Q827268   7.5   1981 Oceania   Australia      | Sydney Tower — Donald Crone | transmitter mast, hyperboloid structure
+  Q4801443   5.5   1984 Oceania   Australia      | Arts Centre Melbourne — Roy Grounds | performing arts center
+  Q7960003   5.1   1987 Oceania   New Zealand    | Waikato Museum — Ivan Mercep | museum
+  Q1858105   8.8   1988 Oceania   Australia      | Parliament House — Romaldo Giurgola | parliament building, art museum
+   Q222878   1.1   1988 Oceania   Australia      | Rod Laver Arena — Peddle Thorp | arena
+   Q844329   6.6   1990 Oceania   Australia      | Australian National Maritime Museum — Philip Cox | maritime museum, national museum
+   Q165506  12.2 * 1991 Oceania   Australia      | 101 Collins Street — Denton Corker Marshall | skyscraper
+   Q172402   4.8   1991 Oceania   Australia      | 120 Collins Street — Hassell | skyscraper
+ Q10323215   3.1   1991 Oceania   New Zealand    | Majestic Centre — Jack Manning | skyscraper
+   Q915603   8.0   1992 Oceania   New Zealand    | Museum of New Zealand Te Papa Tongarewa — Jasmax | national museum, museum
+    Q54507  11.2 * 1993 Oceania   Australia      | Governor Phillip Tower — Denton Corker Marshall | tower block
+  Q1145115   1.1   1994 Oceania   Australia      | Crown Melbourne — Daryl Jackson | skyscraper, casino
+  Q2362445  10.6 * 1998 Oceania   Australia      | Horizon Apartments — Harry Seidler | multifamily residential
+  Q1489633   6.6   1998 Oceania   Australia      | National Portrait Gallery — Richard Johnson | art museum, government agency
+  Q1339937   6.2   1999 Oceania   New Zealand    | Hundertwasser Toilets — Friedensreich Hundertwasser | public toilet, toilet
+   Q456302   3.0   2000 Oceania   New Zealand    | Vero Centre — PTW Architects | office building
+  Q1245311   0.9   2000 Oceania   Australia      | John Cain Arena — Peddle Thorp | arena
+ Q14935006   5.8   2003 Oceania   Australia      | St Patrick's Cathedral, Parramatta — Romaldo Giurgola | cathedral
+    Q54492  13.1 * 2005 Oceania   Australia      | Deutsche Bank Place — Norman Foster | skyscraper
+   Q597184  11.0 * 2005 Oceania   Australia      | Riparian Plaza — Harry Seidler | skyscraper
+   Q125846   5.9   2005 Oceania   Australia      | Q1 Tower — Sunland Group | skyscraper
+   Q270407   7.3   2006 Oceania   Australia      | Eureka Tower — Fender Katsalidis Architects | tower block
+  Q2050653   6.6   2006 Oceania   Australia      | State Library of Queensland — Donovan Hill, Peddle Thorp | reference library, research library
+  Q7270943   6.5   2006 Oceania   Australia      | Gallery of Modern Art — Kerry Clare, Lindsay Clare | art museum
+  Q3622077   0.8   2009 Oceania   New Zealand    | Spark Arena — Peddle Thorp | arena
+  Q2353030   6.3   2011 Oceania   Australia      | Museum of Old and New Art — Fender Katsalidis Architects | art museum
+  Q2035401   0.8   2012 Oceania   Australia      | Perth Arena — Ashton Raggatt McDougall | stadium
+ Q14934843  10.8 * 2016 Oceania   Australia      | International Towers Sydney — Richard Rogers | skyscraper, office building
+  Q4596031   7.1   2016 Oceania   Australia      | 1 William Street, Brisbane — Woods Bagot | building
+  Q7170896   1.4   2017 Oceania   Australia      | Perth Stadium — Hassell | stadium
+ Q16890775   6.8   2020 Oceania   Australia      | Crown Sydney — WilkinsonEyre | building, business
+  Q5269090   1.1   1825 South Asi Nepal          | Dharahara — Bhimsen Thapa | tower
+  Q3530048   1.2   1855 South Asi India          | Napier Museum — Robert Chisholm | art museum
+  Q1640876   2.6   1865 South Asi Pakistan       | Lahore Museum — Ganga Ram | museum
+  Q5182895   1.6   1869 South Asi India          | Crawford Market — William Emerson | market, commercial area
+  Q7285587   1.3   1878 South Asi India          | Rajabai Clock Tower — George Gilbert Scott | clock tower
+  Q5295579   0.6   1890 South Asi Sri Lanka      | Dondra Head Lighthouse — James Nicholas Douglass | lighthouse
+  Q3764208   1.2   1891 South Asi India          | State Central Library — Vincent Esch | public library, Heritage structures in Hyderabad, India
+  Q3536643  -2.3   1908 South Asi India          | Chennai Egmore railway station — Henry Irwin | railway station, station located on surface
+  Q2667449   2.8   1909 South Asi Sri Lanka      | Jami Ul-Alfar Mosque — H. L. Saibo Lebbe | mosque
+ Q12061007   4.2   1911 South Asi India          | King Kothi Palace — Kamal Khan | built structure
+   Q456575   3.9   1912 South Asi India          | Mysore Palace — Henry Irwin | palace
+  Q1356352   6.0   1921 South Asi India          | Victoria Memorial — William Emerson | memorial, museum
+ Q22712275   5.3   1921 South Asi India          | Dargah-e-Aala Hazrat — Sunni Islam | dargah, grave
+  Q1071500   5.2   1922 South Asi India          | Chhatrapati Shivaji Maharaj Vastu Sangrahalaya — George Wittet | museum, museum building
+   Q864862   6.5   1924 South Asi India          | Gateway of India — George Wittet | triumphal arch
+  Q2771350   4.2   1926 South Asi India          | Lalgarh Palace — Samuel Swinton Jacob | building
+ Q15275136   5.5   1927 South Asi India          | Old Parliament House — Edwin Lutyens, Herbert Baker | parliament building
+ Q15275798   4.8   1927 South Asi India          | Secretariat Building — Herbert Baker | building
+   Q677555   6.6   1929 South Asi India          | Rashtrapati Bhavan — Edwin Lutyens | official residence
+  Q3595320   4.7   1930 South Asi India          | Teen Murti Bhavan — Robert Tor Russell | museum
+  Q1089554   2.9   1930 South Asi India          | Sacred Heart Cathedral, New Delhi — Henry Medd | cathedral
+ Q15707404   1.2   1931 South Asi India          | The Imperial, New Delhi — F.B. Blomfield | hotel
+  Q2307382   5.8   1943 South Asi India          | Umaid Bhawan Palace — Vidyadhar Bhattacharya | built structure
+  Q1356138   7.3   1949 South Asi India          | National Museum — Ganesh Bhikaji Deolalikar | art museum, national museum
+  Q7444209  12.5 * 1953 South Asi India          | Secretariat Building — Le Corbusier | building of public administration
+ Q25931399  12.0 * 1953 South Asi India          | Chandigarh Capitol Complex — Le Corbusier | architectural ensemble
+  Q1181803   5.8   1953 South Asi Bhutan         | Dechencholing Palace — Jigme Dorji Wangchuck | palace
+    Q16374  12.2 * 1954 South Asi India          | Sanskar Kendra — Le Corbusier | local museum, museum
+  Q1338832   6.7   1954 South Asi India          | National Gallery of Modern Art — Arthur Blomfield | art museum, national museum
+   Q283257   5.7   1956 South Asi India          | Vidhana Soudha — Kengal Hanumanthaiah | legislative building
+  Q1050042   7.1   1963 South Asi Nepal          | Narayanhiti Palace — Benjamin Polk | museum
+   Q804009   7.8   1968 South Asi Bangladesh     | Baitul Mukarram National Mosque — Abdulhusein M. Thariani | mosque
+   Q996962   7.5   1968 South Asi Pakistan       | Minar-e-Pakistan — Nasreddin Murat-Khan | built structure
+  Q6355669  -0.9   1968 South Asi Bangladesh     | Kamalapur railway station — Robert Boughey, Daniel Dunham | central station, station located on surface
+ Q15268599   5.8   1970 South Asi Pakistan       | Prime Minister's Secretariat — Capital Development Authority | built structure
+   Q505286   6.1   1971 South Asi India          | Matrimandir — Mirra Alfassa | building
+  Q5636763   5.3   1972 South Asi Pakistan       | Habib Bank Plaza — Leo A Daly | building
+  Q6974137   6.5   1973 South Asi Bangladesh     | National Library of Bangladesh — Muzharul Islam | national library
+  Q1191166   6.8   1974 South Asi India          | University of Hyderabad — Walter Ferner | central university
+  Q3172573   5.1   1974 South Asi India          | Air India Building — John Burgee | building
+  Q2509435   5.5   1976 South Asi India          | Valluvar Kottam — V. Ganapati Sthapati | built structure
+  Q3351595   6.8   1982 South Asi Bangladesh     | Jatiyo Smriti Soudho — Syed Mainul Hossain | built structure
+   Q940843   9.8   1986 South Asi India          | Lotus Temple — Fariborz Sahba | temple
+   Q500983   8.2   1986 South Asi Pakistan       | Faisal Mosque — Vedat Dalokay | mosque
+  Q1744232  10.6 * 1995 South Asi India          | Amdavad ni Gufa — Balkrishna Doshi | art museum
+  Q7042028   6.0   1998 South Asi India          | Niyamasabha Mandiram — Kerala Public Works Department | legislative building
+  Q1182325   7.6   2001 South Asi India          | Deekshabhoomi — Sheo Dan Mal | built structure, tourist destination
+  Q7681366   5.6   2008 South Asi India          | Tamil Nadu Government Multi Super Speciality Hospital — Gerkan, Marg and Partners | hospital
+   Q576952   7.8   2010 South Asi India          | Antilia — Perkins & Will | residential building
+  Q2458919   6.9   2010 South Asi India          | The Imperial — Hafeez Contractor | twin towers
+ Q25587621   5.6   2013 South Asi Bangladesh     | Swadhinata Stambha — Marina Tabassum | built structure
+ Q94695875   5.8   2017 South Asi Bangladesh     | Gulshan Society Mosque — Kashef Mahboob Chowdhury | mosque
+ Q96401169   8.4   2020 South Asi India          | Ram Mandir — Chandrakant Sompura | Hindu temple
+Q110936223  -0.4   2022 South Asi Bangladesh     | Bashundhara Kings Arena — Mohammad Foyez Ullah | association football venue
+Q106103956   7.2   2023 South Asi India          | Parliament House — Bimal Patel | parliament building
+   Q864758   3.4   1906 Southeast Vietnam        | Presidential Palace of Vietnam — Auguste Henri Vildieu | palace
+  Q2165719   5.7   1911 Southeast Thailand       | Wat Benchamabophit — Narisara Nuwattiwong | wat
+  Q4022393   3.8   1912 Southeast Indonesia      | Cut Mutiah Mosque — Pieter Moojen | mosque
+   Q485954   4.6   1915 Southeast Thailand       | Ananta Samakhom Throne Hall — Mario Tamagno | built structure
+  Q2556297   5.2   1924 Southeast Cambodia       | National Library of Cambodia — Louis Chauchon | national library, library building
+  Q7475825   4.0   1929 Southeast Indonesia      | Bandung Geological Museum — Henri Menalda van Schouwenburg | museum
+   Q190668   4.5   1930 Southeast Cambodia       | Central Market — Jean Desbois | market hall
+  Q1639613   4.0   1931 Southeast Philippines    | Manila Metropolitan Theatre — Juan M. Arellano | theatre building
+  Q1907146   3.5   1932 Southeast Singapore      | Masjid Sultan — Swan & Maclaren Architects | mosque
+  Q2430151   4.0   1933 Southeast Indonesia      | Villa Isola — Wolff Schoemaker | villa
+  Q4271636   4.3   1935 Southeast Indonesia      | Sonobudoyo Museum — Thomas Karsten | museum, museum building
+   Q219047   4.7   1938 Southeast Thailand       | National Stadium — Sarot Sukkhayang | sports complex
+ Q17198574   5.3   1954 Southeast Philippines    | Santo Domingo Church — José María Zaragoza | Catholic parish church
+   Q933384   6.8   1955 Southeast Vietnam        | Independence Palace — Ngô Viết Thụ | presidential palace
+   Q773443   7.0   1958 Southeast Philippines    | Manila Cathedral — Fernando H. Ocampo | Catholic cathedral, minor basilica
+  Q5370414   4.5   1958 Southeast Vietnam        | National Museum of Vietnamese History — Ernest Hébrard, Q55623520 | museum
+   Q917630   8.6   1963 Southeast Malaysia       | National Museum of Malaysia — Ho Kok Hoe | national museum
+   Q806555   6.0   1963 Southeast Malaysia       | Malaysian Houses of Parliament — Malaysian Public Works Department | building complex
+ Q48732944   5.7   1973 Southeast Indonesia      | Jakarta International Velodrome — Philip Cox | sports venue
+   Q475379   9.4   1978 Southeast Indonesia      | Istiqlal Mosque — Friedrich Silaban | mosque
+  Q3384923   5.5   1978 Southeast Philippines    | Coconut Palace — Francisco Mañosa | built structure
+  Q5205958   5.8   1983 Southeast Indonesia      | Parliamentary Complex of Indonesia — Soejoedi Wirjoatmodjo | built structure
+  Q1323932   7.2   1984 Southeast Brunei         | Istana Nurul Iman — Leandro Locsin | palace, official residence
+   Q333305  13.7 * 1986 Southeast Singapore      | One Raffles Place — Kenzō Tange | skyscraper
+  Q1343055  12.8 * 1986 Southeast Singapore      | Swissôtel The Stamford — I. M. Pei | skyscraper, hotel
+  Q3305737   3.9   1986 Southeast Malaysia       | KOMTAR — Lim Chong Keat | skyscraper
+  Q2745033   3.9   1987 Southeast Malaysia       | Tun Perak Tower — Hijjas Kasturi Associates | skyscraper
+ Q20011078   3.8   1990 Southeast Thailand       | Sathorn Unique Tower — Rangsan Torsuwan | skyscraper, unfinished building
+    Q83063   8.5   1993 Southeast Malaysia       | Petronas Towers — César Pelli, Adamson Associates | twin towers, skyscraper
+   Q587586  12.3 * 1995 Southeast Singapore      | Republic Plaza — Kisho Kurokawa | skyscraper
+   Q888068  11.7 * 1995 Southeast Singapore      | UOB Plaza — Kenzō Tange | building complex
+  Q2361543   8.7   1996 Southeast Indonesia      | Wisma 46 — Zeidler Roberts, DP Architects | building
+   Q172738   8.5   1997 Southeast Malaysia       | Sepang International Circuit — Hermann Tilke | motorsport racing track
+   Q496543   7.6   1997 Southeast Thailand       | Wat Rong Khun — Chalermchai Kositpipat | wat
+  Q1584276   4.1   1997 Southeast Malaysia       | Alor Setar Tower — Hijjas Kasturi Associates | skyscraper, moonsighting location in Malaysia
+  Q1571863   3.5   1997 Southeast Thailand       | Elephant Building — Ong-ard Satrabhandhu | tower block
+  Q5260261   4.0   1998 Southeast Malaysia       | Maxis Tower — Roche-Dinkeloo | skyscraper
+  Q4925369   7.0   1999 Southeast Malaysia       | Perdana Putra — Putrajaya Corporation | palace
+  Q7138913   5.8   1999 Southeast Singapore      | Parliament House — Urban Redevelopment Authority | architectural landmark, capitol building
+ Q13094984   6.5   2000 Southeast Indonesia      | Al-Akbar Mosque — Sepuluh Nopember Institute of Technology | mosque
+   Q118214   7.0   2001 Southeast Malaysia       | Telekom Tower — Hijjas Kasturi | skyscraper
+   Q559113   7.2   2002 Southeast Singapore      | Esplanade – Theatres on the Bay — DP Architects | opera house
+  Q1674825   5.6   2002 Southeast Malaysia       | Istana Melawati — Putrajaya Corporation | palace
+  Q3365482   3.3   2002 Southeast Singapore      | Parkview Square — DP Architects | skyscraper
+  Q7937930  11.2 * 2006 Southeast Singapore      | VivoCity — Toyo Ito | shopping center
+  Q1435577   4.2   2006 Southeast Philippines    | SM Mall of Asia — Arquitectonica | shopping center
+ Q12497335   6.8   2007 Southeast Indonesia      | Grand Mosque of West Sumatra — Rizal Muslimin | grand mosque, mosque
+    Q82994   6.8   2007 Southeast Singapore      | The Float at Marina Bay — Defence Science and Technology Agency | built structure
+   Q752407  13.2 * 2008 Southeast Singapore      | Singapore Flyer — Kisho Kurokawa | Ferris wheel
+  Q1426419  10.6 * 2009 Southeast Thailand       | The Met — WOHA | skyscraper
+  Q2218604   7.2   2009 Southeast Indonesia      | Aceh Tsunami Museum — Ridwan Kamil | museum, cultural property
+   Q608474   6.7   2009 Southeast Myanmar        | Uppatasanti Pagoda — Than Shwe | pagoda
+  Q3146786   4.3   2009 Southeast Singapore      | ION Orchard — Benoy | shopping center
+   Q548679  13.4 * 2010 Southeast Singapore      | Marina Bay Sands — Moshe Safdie | hotel, casino hotel
+ Q19117247   5.8   2010 Southeast Malaysia       | National Textile Museum — Arthur Benison Hubback | textile museum
+   Q638512   5.5   2010 Southeast Vietnam        | Bitexco Financial Tower — Carlos Zapata | skyscraper
+  Q6088543   6.9   2011 Southeast Malaysia       | Istana Negara, Jalan Tuanku Abdul Halim — Malaysian Public Works Department | built structure
+   Q609140   6.7   2011 Southeast Vietnam        | AON Hanoi Landmark Tower — Carlos Zapata | skyscraper
+  Q6743990   7.5   2012 Southeast Philippines    | SM Mall of Asia Arena — Arquitectonica | sports venue
+  Q4855206   6.5   2012 Southeast Thailand       | Bangkok Arena — King Mongkut's University of Technology Thonburi | sports venue
+  Q1364856   6.2   2012 Southeast Thailand       | The River — Raimon Land | building complex
+ Q23838605   5.8   2013 Southeast Singapore      | The Interlace — Ole Scheeren | building complex
+  Q6684904   4.3   2014 Southeast Vietnam        | Lotte Center Hanoi — Callison | skyscraper
+ Q21190741   6.3   2015 Southeast Malaysia       | Kota Iskandar Mosque — UEM Group | mosque
+  Q1640197   9.2   2016 Southeast Thailand       | King Power Mahanakhon — Ole Scheeren | building
+ Q17142266   5.8   2017 Southeast Philippines    | Trump Tower Manila — Broadway Malyan | built structure
+ Q18640924   7.4   2018 Southeast Vietnam        | Landmark 81 — Atkins | skyscraper
+ Q28419359  13.2 * 2019 Southeast Singapore      | Jewel Changi Airport — Moshe Safdie | shopping center
+Q128034832   6.0   2022 Southeast Indonesia      | Garuda Palace — I Nyoman Nuarta | presidential palace
+  Q7969454   5.8   2023 Southeast Malaysia       | Merdeka 118 — Fender Katsalidis Architects | skyscraper, supertall building

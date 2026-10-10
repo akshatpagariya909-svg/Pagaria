@@ -32,5 +32,5 @@ jobs:
           git add -A site tools
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           git commit -m "Update building links"
-          git pull --rebase
+          git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
           git push

@@ -42,7 +42,7 @@ KINDS = [
     ('Context', re.compile(r'(aerial|from above|skyline|panorama|view from|seen from|at night|night view|landscape|garden|plaza|street)', re.I)),
 ]
 WANT = {'Exterior': 3, 'Interior': 3, 'Detail': 1, 'Context': 1, 'Drawing': 1}
-MAX_PICKS, MIN_PICKS = 8, 4
+MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6
 FULL, THUMB = 1400, 520
 
 
@@ -105,6 +105,8 @@ def wiki_article(b):
 
 def commons_category(b):
     """Returns (category, lead file). The category must name the building, not its city or architect."""
+    if b.get('qid'):  # matched to a Wikidata item already; trust its category and photo
+        return b.get('commons'), b.get('lead')
     lead, cat, page = None, None, {}
     try:
         page = wiki_article(b) or {}
@@ -187,7 +189,7 @@ def batches(titles, n=50, chars=4000):
 def infos(titles):
     out = {}
     for group in batches(titles):
-        q = api(CM, action='query', titles='|'.join(group), prop='imageinfo', iiprop='url|size|mime|extmetadata', iiurlwidth=1600)
+        q = api(CM, action='query', titles='|'.join(group), prop='imageinfo', iiprop='url|size|mime|extmetadata', iiurlwidth=1280)
         for p in q.get('query', {}).get('pages', []):
             if 'imageinfo' in p:
                 out[p['title']] = p['imageinfo'][0]
@@ -347,13 +349,14 @@ def write_sheets(rows, prefix='sheet'):
 
 
 # ---------- saving ----------
-def save_image(data, folder, k):
+def save_image(data, folder, k, thumb_only=False):
     from PIL import Image
     (folder / 'thumbs').mkdir(parents=True, exist_ok=True)
     im = Image.open(io.BytesIO(data)).convert('RGB')
     im.thumbnail((FULL, FULL))
     w, h = im.size
-    im.save(folder / f'{k}.webp', 'WEBP', quality=80, method=5)
+    if not thumb_only:
+        im.save(folder / f'{k}.webp', 'WEBP', quality=80, method=5)
     im.thumbnail((THUMB, THUMB))
     im.save(folder / 'thumbs' / f'{k}.webp', 'WEBP', quality=72, method=5)
     return w, h
@@ -388,6 +391,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--force', action='store_true')
     ap.add_argument('--only', default='')
+    ap.add_argument('--minutes', type=float, default=0, help='stop starting new buildings after this long')
     ap.add_argument('--probe', action='store_true', help='list candidate categories instead of downloading')
     ap.add_argument('--candidates', action='store_true', help='render numbered candidate sheets to tools/candidates/')
     args = ap.parse_args()
@@ -395,6 +399,7 @@ def main():
     choices = json.loads(CHOICES.read_text()) if CHOICES.exists() else {}
     head, items = load()
     thin = []
+    started = time.time()
     if args.probe:
         report = []
         for b in items:
@@ -429,8 +434,11 @@ def main():
     for b in items:
         if only and b['id'] not in only:
             continue
-        if b.get('images') and not args.force and not only:
+        if 'images' in b and not args.force and not only:  # [] means no free photos were found
             continue
+        if args.minutes and time.time() - started > args.minutes * 60:
+            print(f'\nStopping after {args.minutes:g} minutes; run again to continue.')
+            break
         ch = choices.get(b['id'], {})
         print(f"{b['n']:>3} {b['name']}")
         try:
@@ -451,10 +459,20 @@ def main():
             folder = IMG / b['id']
             for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
                 f.unlink()
+            # The first hundred host their photos; later buildings host only the small wall
+            # thumbnail and show the full photo from Wikimedia, to stay under the Pages size limit.
+            hot = b.get('hotlink', False)
+            picks = picks[:HOT_PICKS if hot else MAX_PICKS]
+            def get(kp):
+                k, p = kp
+                url = p['info'].get('thumburl') or p['info']['url']
+                return save_image(fetch(url, timeout=120), folder, k, thumb_only=hot), url
+            from concurrent.futures import ThreadPoolExecutor
+            with ThreadPoolExecutor(4) as pool:
+                sizes = list(pool.map(get, enumerate(picks)))
             images = []
-            for k, p in enumerate(picks[:MAX_PICKS]):
-                w, h = save_image(fetch(p['info'].get('thumburl') or p['info']['url'], timeout=120), folder, k)
-                images.append({'src': f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
+            for k, (p, ((w, h), url)) in enumerate(zip(picks, sizes)):
+                images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
             b['images'] = images

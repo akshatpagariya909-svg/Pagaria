@@ -1,0 +1,114 @@
+== archdaily api keys: ['aggregations', 'results', 'total_docs', 'main_aggregations', 'metadata', 'sponsored_content']
+   dict aggregations: keys ['materials', 'year', 'country', 'companies', 'area', 'categories_tree', 'categories', 'offices']
+     list materials (9): keys ['name', 'doc_count']
+       {"title": null, "name": "Concrete", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "Steel", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "Wood", "url": null, "link": null, "slug": null, "year": null}
+     list year (81): keys ['name', 'doc_count']
+       {"title": null, "name": "2019", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "2018", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "2017", "url": null, "link": null, "slug": null, "year": null}
+     list country (151): keys ['name', 'slug', 'doc_count']
+       {"title": null, "name": "China", "url": null, "link": null, "slug": "china", "year": null}
+       {"title": null, "name": "United States", "url": null, "link": null, "slug": "united-states", "year": null}
+       {"title": null, "name": "Spain", "url": null, "link": null, "slug": "spain", "year": null}
+     list companies (2718): keys ['name', 'slug', 'doc_count']
+       {"title": null, "name": "GRAPHISOFT", "url": null, "link": null, "slug": "graphisoft", "year": null}
+       {"title": null, "name": "Sika", "url": null, "link": null, "slug": "sika", "year": null}
+       {"title": null, "name": "hansgrohe", "url": null, "link": null, "slug": "hansgrohe", "year": null}
+     list categories_tree (33): keys ['name', 'slug', 'level', 'doc_count', 'sub_categories']
+       {"title": null, "name": "Residential Architecture", "url": null, "link": null, "slug": "residential-architecture", "year": null}
+       {"title": null, "name": "Interior Design", "url": null, "link": null, "slug": "interior-design", "year": null}
+       {"title": null, "name": "Refurbishment", "url": null, "link": null, "slug": "refurbishment", "year": null}
+     list categories (250): keys ['name', 'slug', 'level', 'doc_count', 'sub_categories']
+       {"title": null, "name": "Residential Architecture", "url": null, "link": null, "slug": "residential-architecture", "year": null}
+       {"title": null, "name": "Houses", "url": null, "link": null, "slug": "houses", "year": null}
+       {"title": null, "name": "Commercial & Offices", "url": null, "link": null, "slug": "commercial-and-offices", "year": null}
+     list offices (1681): keys ['name', 'slug', 'doc_count', 'image_url', 'url']
+       {"title": null, "name": "Perkins&Will", "url": "https://www.archdaily.com/office/perkins-and-will", "link": null, "slug": "perkins-and-will", "year": null}
+       {"title": null, "name": "Zaha Hadid Architects", "url": "https://www.archdaily.com/office/zaha-hadid-architects", "link": null, "slug": "zaha-hadid-architects", "year": null}
+       {"title": null, "name": "Schmidt Hammer Lassen Architects", "url": "https://www.archdaily.com/office/schmidt-hammer-lassen-architects", "link": null, "slug": "schmidt-hammer-lassen-architects", "year": null}
+   list results (18): keys ['author', 'bookmarked_products_count', 'categories', 'company', 'document_id', 'document_type', 'featured_images', 'location', 'meta_description', 'miniatures', 'offices', 'photographers', 'products', 'project_type', 'source', 'tags', 'title', 'year', 'bim', 'images_alt', 'active_products_count', 'bim_files_count', 'product_type', 'linked_projects_count', 'project_area', 'publication_date', 'popularity_score', 'url']
+     {"title": "AD Classics: AD Classics: Salk Institute / Louis Kahn", "name": null, "url": "https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "1965", "offices": [{"name": "Louis Kahn", "url": "https://www.archdaily.com/office/louis-kahn"}]}
+     {"title": "Sanford Consortium for Regenerative Medicine / Fentress Architects", "name": null, "url": "https://www.archdaily.com/189545/sanford-consortium-for-regenerative-medicina-fentress-architects?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": null, "offices": [{"name": "Fentress Architects", "url": "https://www.archdaily.com/office/fentress-architects
+     {"title": "AD Round Up: Classics Part II / ", "name": null, "url": "https://www.archdaily.com/100173/ad-round-up-classics-part-ii?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": null, "offices": []}
+     {"title": "The Gate  / Hyunjoon Yoo + Partners", "name": null, "url": "https://www.archdaily.com/801547/the-gate-hyunjoon-yoo-architects?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "2016", "offices": [{"name": "Hyunjoon Yoo + Partners", "url": "https://www.archdaily.com/office/hyunjoon-yoo-architects"}]}
+   dict main_aggregations: keys ['all', 'articles', 'article_archive', 'folders', 'products', 'projects', 'competitions', 'events', 'images']
+   dict metadata: keys ['title', 'description', 'keywords', 'metadescription', 'landing_title']
+== bing archdaily.com | Salk Institute: 10 items
+     Salk Institute – Where Cures Begin | https://www.salk.edu/
+     Home – Salk Institute | https://www.salk.edu/home-3/
+     Salk Institute for Biological Studies - Wikipedia | https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies
+     Salk Institute / Louis Kahn | Classics on Architecture Lab | https://www.architecturelab.net/salk-institute-louis-kahn/
+     AD Classics: AD Classics: Salk Institute / Louis Kahn | https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn
+== bing dezeen.com | Salk Institute: 10 items
+     Salk Institute – Where Cures Begin | https://www.salk.edu/
+     Home – Salk Institute | https://www.salk.edu/home-3/
+     Salk Institute for Biological Studies - Wikipedia | https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies
+     Salk Institute / Louis Kahn | Classics on Architecture Lab | https://www.architecturelab.net/salk-institute-louis-kahn/
+     AD Classics: AD Classics: Salk Institute / Louis Kahn | https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn
+== bing divisare.com | Salk Institute: 10 items
+     Salk Institute – Where Cures Begin | https://www.salk.edu/
+     Home – Salk Institute | https://www.salk.edu/home-3/
+     Salk Institute for Biological Studies - Wikipedia | https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies
+     Salk Institute / Louis Kahn | Classics on Architecture Lab | https://www.architecturelab.net/salk-institute-louis-kahn/
+     AD Classics: AD Classics: Salk Institute / Louis Kahn | https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn
+== divisare | Salk Institute: ['/projects/304796-louis-kahn-xavier-de-jaureguiberry-salk-institute-for-biological-studies', '/projects/348478-louis-kahn-agnes-clotis-salk-institute', '/projects/375164-louis-kahn-leonid-furmansky-louis-kahn-salk-institute-mist']
+== architectuul | Salk Institute: ['/architecture/amsterdam-centre-for-architecture', '/architecture/babylon-cinema-mitte', '/architecture/chrysler-building', '/architecture/church-of-the-light', '/architecture/city-of-chandigarh', '/architecture/hoechst-administration-building', '/architecture/nakagin-capsule-tower', '/architecture/national-theatre-philippines', '/architecture/new-museum-of-contemporary-art', '/architecture/st-pierre-de-firminy', '/architecture/sydney-opera-house', '/architecture/the-dancing-house']
+== archdaily api keys: ['aggregations', 'results', 'total_docs', 'main_aggregations', 'metadata', 'sponsored_content']
+   dict aggregations: keys ['materials', 'year', 'country', 'companies', 'area', 'categories_tree', 'categories', 'offices']
+     list materials (8): keys ['name', 'doc_count']
+       {"title": null, "name": "Concrete", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "Wood", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "Steel", "url": null, "link": null, "slug": null, "year": null}
+     list year (29): keys ['name', 'doc_count']
+       {"title": null, "name": "2019", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "2015", "url": null, "link": null, "slug": null, "year": null}
+       {"title": null, "name": "2020", "url": null, "link": null, "slug": null, "year": null}
+     list country (53): keys ['name', 'slug', 'doc_count']
+       {"title": null, "name": "United States", "url": null, "link": null, "slug": "united-states", "year": null}
+       {"title": null, "name": "Japan", "url": null, "link": null, "slug": "japan", "year": null}
+       {"title": null, "name": "China", "url": null, "link": null, "slug": "china", "year": null}
+     list companies (275): keys ['name', 'slug', 'doc_count']
+       {"title": null, "name": "Interface", "url": null, "link": null, "slug": "interface", "year": null}
+       {"title": null, "name": "Seele", "url": null, "link": null, "slug": "seele", "year": null}
+       {"title": null, "name": "ASSA ABLOY", "url": null, "link": null, "slug": "assa-abloy", "year": null}
+     list categories_tree (24): keys ['name', 'slug', 'level', 'doc_count', 'sub_categories']
+       {"title": null, "name": "Residential Architecture", "url": null, "link": null, "slug": "residential-architecture", "year": null}
+       {"title": null, "name": "Interior Design", "url": null, "link": null, "slug": "interior-design", "year": null}
+       {"title": null, "name": "Refurbishment", "url": null, "link": null, "slug": "refurbishment", "year": null}
+     list categories (128): keys ['name', 'slug', 'level', 'doc_count', 'sub_categories']
+       {"title": null, "name": "Residential Architecture", "url": null, "link": null, "slug": "residential-architecture", "year": null}
+       {"title": null, "name": "Houses", "url": null, "link": null, "slug": "houses", "year": null}
+       {"title": null, "name": "Cultural Architecture", "url": null, "link": null, "slug": "cultural-architecture", "year": null}
+     list offices (322): keys ['name', 'slug', 'doc_count', 'image_url', 'url']
+       {"title": null, "name": "Sanjay Puri Architects", "url": "https://www.archdaily.com/office/sanjay-puri-architects", "link": null, "slug": "sanjay-puri-architects", "year": null}
+       {"title": null, "name": "penda", "url": "https://www.archdaily.com/office/penda", "link": null, "slug": "penda", "year": null}
+       {"title": null, "name": "Aamer Architects", "url": "https://www.archdaily.com/office/aamer-architects", "link": null, "slug": "aamer-architects", "year": null}
+   list results (18): keys ['author', 'bookmarked_products_count', 'categories', 'company', 'document_id', 'document_type', 'featured_images', 'location', 'meta_description', 'miniatures', 'offices', 'photographers', 'products', 'project_type', 'source', 'tags', 'title', 'year', 'bim', 'images_alt', 'active_products_count', 'bim_files_count', 'product_type', 'linked_projects_count', 'project_area', 'publication_date', 'popularity_score', 'url']
+     {"title": "AD Classics: Sendai Mediatheque / Toyo Ito & Associates, Architects", "name": null, "url": "https://www.archdaily.com/118627/ad-classics-sendai-mediatheque-toyo-ito-and-associates-architects?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "2000", "offices": [{"name": "Toyo Ito & Associates, Architects", "url": "https://www.archdaily.com/office/t
+     {"title": "AD Classics: White U / Toyo Ito & Associates, Architects", "name": null, "url": "https://www.archdaily.com/345857/ad-classics-white-u-toyo-ito?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "1976", "offices": [{"name": "Toyo Ito & Associates, Architects", "url": "https://www.archdaily.com/office/toyo-ito-and-associates"}]}
+     {"title": "WOW Sendai / Upsetters Architects", "name": null, "url": "https://www.archdaily.com/103064/wow-sendai-upsetters-architects?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "2010", "offices": [{"name": "Upsetters Architects", "url": "https://www.archdaily.com/office/upsetters-architects"}]}
+     {"title": "Médiatheque de Monterblanc / Studio 02", "name": null, "url": "https://www.archdaily.com/557705/mediatheque-de-monterblanc-studio-02?ad_source=search&ad_medium=projects_tab", "link": null, "slug": null, "id": null, "year": "2014", "offices": [{"name": "Studio 02", "url": "https://www.archdaily.com/office/studio-02"}]}
+   dict main_aggregations: keys ['all', 'articles', 'article_archive', 'folders', 'products', 'projects', 'competitions', 'events', 'images']
+   dict metadata: keys ['title', 'description', 'keywords', 'metadescription', 'landing_title']
+== bing archdaily.com | Sendai Mediatheque: 10 items
+     Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.architecturelab.net/sendai-mediatheque-toyo-ito-and-associates-architects/
+     AD Classics: Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.archdaily.com/118627/ad-classics-sendai-mediatheque-toyo-ito-and-associates-architects
+     Sendai Mediatheque - Data, Photos & Plans - WikiArquitectura | https://en.wikiarquitectura.com/building/Sendai-Mediatheque/
+     Sendai Mediatheque - Wikipedia | https://en.wikipedia.org/wiki/Sendai_Mediatheque
+     Toyo Ito & Associates, Rasmus Hjortshøj - COAST · Sendai Mediatheque | https://divisare.com/projects/322293-toyo-ito-associates-rasmus-hjortshoj-sendai-mediatheque
+== bing dezeen.com | Sendai Mediatheque: 10 items
+     Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.architecturelab.net/sendai-mediatheque-toyo-ito-and-associates-architects/
+     AD Classics: Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.archdaily.com/118627/ad-classics-sendai-mediatheque-toyo-ito-and-associates-architects
+     Sendai Mediatheque - Data, Photos & Plans - WikiArquitectura | https://en.wikiarquitectura.com/building/Sendai-Mediatheque/
+     Sendai Mediatheque - Wikipedia | https://en.wikipedia.org/wiki/Sendai_Mediatheque
+     Toyo Ito & Associates, Rasmus Hjortshøj - COAST · Sendai Mediatheque | https://divisare.com/projects/322293-toyo-ito-associates-rasmus-hjortshoj-sendai-mediatheque
+== bing divisare.com | Sendai Mediatheque: 10 items
+     Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.architecturelab.net/sendai-mediatheque-toyo-ito-and-associates-architects/
+     AD Classics: Sendai Mediatheque / Toyo Ito & Associates, Architects | https://www.archdaily.com/118627/ad-classics-sendai-mediatheque-toyo-ito-and-associates-architects
+     Sendai Mediatheque - Data, Photos & Plans - WikiArquitectura | https://en.wikiarquitectura.com/building/Sendai-Mediatheque/
+     Sendai Mediatheque - Wikipedia | https://en.wikipedia.org/wiki/Sendai_Mediatheque
+     Toyo Ito & Associates, Rasmus Hjortshøj - COAST · Sendai Mediatheque | https://divisare.com/projects/322293-toyo-ito-associates-rasmus-hjortshoj-sendai-mediatheque
+== divisare | Sendai Mediatheque: ['/projects/322293-toyo-ito-associates-rasmus-hjortshoj-coast-sendai-mediatheque']
+== architectuul | Sendai Mediatheque: ['/architecture/amsterdam-centre-for-architecture', '/architecture/babylon-cinema-mitte', '/architecture/chrysler-building', '/architecture/church-of-the-light', '/architecture/city-of-chandigarh', '/architecture/hoechst-administration-building', '/architecture/nakagin-capsule-tower', '/architecture/national-theatre-philippines', '/architecture/new-museum-of-contemporary-art', '/architecture/st-pierre-de-firminy', '/architecture/sydney-opera-house', '/architecture/the-dancing-house']

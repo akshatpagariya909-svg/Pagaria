@@ -66,6 +66,7 @@ a:hover { color: var(--signal-ink); }
 /* ---------- wall: equal-width columns, scrolling down ---------- */
 .feed { padding: 8px 20px calc(110px + env(safe-area-inset-bottom, 0px)); }
 .cols { display: grid; grid-template-columns: repeat(var(--n, 5), minmax(0, 1fr)); gap: 16px; align-items: start; max-width: 1800px; margin: 0 auto; }
+.more { margin: 24px 0 0; text-align: center; font: 400 11px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
 .col { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
 
 .t { position: relative; background: var(--slot); overflow: hidden; transition: transform .18s ease, box-shadow .18s ease; }

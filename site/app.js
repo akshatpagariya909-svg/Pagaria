@@ -3,7 +3,8 @@
 (() => {
   'use strict';
 
-  const ALL = window.BUILDINGS || [];
+  const LINKS = window.LINKS || {};
+  const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
   const TOTAL = ALL.length;
   const GROUPS = [
     { key: 'concepts', title: 'Idea', multi: true },
@@ -18,7 +19,6 @@
   const cols = $('cols'), sheet = $('sheet'), card = $('card');
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
-  const pad = n => String(n).padStart(3, '0');
 
   const state = {
     q: '', seed: 11, ncols: 0,
@@ -98,26 +98,37 @@
   }
 
   // Deal tiles into the shortest column, so every column ends at about the same height.
+  // Tiles are added a batch at a time as the reader nears the bottom, so 1,000 buildings stay quick.
+  const BATCH = 60;
+  const feedState = { list: [], next: 0, heights: [], colEls: [] };
+  function addBatch() {
+    const f = feedState, end = Math.min(f.list.length, f.next + BATCH);
+    for (; f.next < end; f.next++) {
+      const b = f.list[f.next];
+      const c = f.heights.indexOf(Math.min(...f.heights));
+      f.colEls[c].appendChild(tileEl(b));
+      f.heights[c] += ratioOf(b) + 0.06;
+    }
+    $('more').hidden = f.next >= f.list.length;
+  }
   function render(toTop) {
     const list = shuffled(visible(), rng(state.seed));
     const C = columnCount();
     state.ncols = C;
-    const heights = new Array(C).fill(0);
-    const colEls = Array.from({ length: C }, () => { const d = document.createElement('div'); d.className = 'col'; return d; });
-    list.forEach(b => {
-      const c = heights.indexOf(Math.min(...heights));
-      colEls[c].appendChild(tileEl(b));
-      heights[c] += ratioOf(b) + 0.06;
-    });
+    feedState.list = list; feedState.next = 0;
+    feedState.heights = new Array(C).fill(0);
+    feedState.colEls = Array.from({ length: C }, () => { const d = document.createElement('div'); d.className = 'col'; return d; });
     cols.style.setProperty('--n', C);
-    cols.replaceChildren(...colEls);
+    cols.replaceChildren(...feedState.colEls);
+    addBatch();
     $('empty').hidden = list.length > 0;
-    $('count').textContent = list.length === TOTAL ? `${TOTAL} buildings` : `${list.length} of ${TOTAL}`;
+    $('count').textContent = list.length === TOTAL ? `${TOTAL.toLocaleString('en')} buildings` : `${list.length.toLocaleString('en')} of ${TOTAL.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
   }
+  new IntersectionObserver(entries => { if (entries.some(en => en.isIntersecting)) addBatch(); }, { rootMargin: '1200px 0px' }).observe($('more'));
   let resizeTimer;
   window.addEventListener('resize', () => {
     clearTimeout(resizeTimer);
@@ -158,7 +169,11 @@
     k = (k + ims.length) % ims.length;
     state.shot = k;
     const im = ims[k];
-    stage.innerHTML = `<img src="${esc(im.src)}" alt="${esc(b.name)}: ${esc(im.caption)}">`;
+    // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
+    stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(im.caption)}">`;
+    const full = new Image();
+    full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
+    full.src = im.src;
     const credit = (im.credit || '').replace(/\.$/, '');
     $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length} · ${esc(im.caption)}</span>` +
       `<span class="l">${credit ? 'Photo: ' + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
@@ -190,11 +205,11 @@
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${pad(b.n)}/${TOTAL} · ${b.type} · ${b.movement}`;
+    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${b.type} · ${b.movement}`;
     kick.classList.toggle('surprise', !!surprise);
     $('bName').textContent = b.name;
     $('bMeta').textContent = `${b.by} · ${b.place} · ${b.year}`;
-    $('bStudy').innerHTML = `<span>Study it for</span>${esc(b.study)}`;
+    $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
