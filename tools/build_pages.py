@@ -113,7 +113,7 @@ HEAD = """<!doctype html>
 </head>
 <body>
 <header class="top">
-  <a class="mark" href="{up}">Discover<br>Architecture</a>
+  <a class="mark" href="{up}">Discover<br><span class="accent">Architecture.</span></a>
   <nav><a href="{up}buildings/">All {total}</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
