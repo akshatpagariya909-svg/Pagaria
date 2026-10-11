@@ -37,8 +37,14 @@ def main():
     out += table('No free photo at all', 'Commons has no usable free photo. Target later with licensed photos (owner decides how).', none)
     out += table('No exterior photo', 'They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.', no_ext)
     out += table('Fewer than 4 photos', 'They show, but the gallery is thin.', thin)
+    dropped = [l.split(' | ') for l in (ROOT / 'tools' / 'harvest' / 'needs_photos.txt').read_text(encoding='utf-8').splitlines()
+               if l.strip() and not l.startswith('#')]
+    out += ['', f'## Left off the wall for now ({len(dropped)})', '',
+            'Their Commons folders show exhibits or events, not the building. Bring them back with hand-picked photos in `tools/image_choices.json`.', '',
+            '| Building | Wikidata |', '|---|---|']
+    out += [f'| {name} | [{qid}](https://www.wikidata.org/wiki/{qid}) |' for name, qid in dropped]
     (ROOT / 'tools' / 'photo_gaps.md').write_text('\n'.join(out) + '\n', encoding='utf-8')
-    print(f'{len(none)} with no photo, {len(no_ext)} with no exterior, {len(thin)} with fewer than 4 photos')
+    print(f'{len(none)} with no photo, {len(no_ext)} with no exterior, {len(thin)} with fewer than 4 photos, {len(dropped)} left off the wall')
 
 
 if __name__ == '__main__':

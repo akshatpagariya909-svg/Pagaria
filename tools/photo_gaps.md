@@ -83,3 +83,45 @@ They show, but the gallery is thin.
 | 888 | Capital Gate | RMJM | Abu Dhabi, AE | Exterior | [Category:Capital Gate, Abu Dhabi](https://commons.wikimedia.org/wiki/Category:Capital_Gate%2C_Abu_Dhabi) |
 | 907 | Coconut Palace | Francisco Manosa | Pasay, PH | Exterior, Exterior | [Category:Coconut Palace](https://commons.wikimedia.org/wiki/Category:Coconut_Palace) |
 | 926 | Beira railway station | Paulo de Melo Sampaio, Francisco Castro | Beira, MZ | Exterior, Exterior, Exterior | [Category:Beira train station](https://commons.wikimedia.org/wiki/Category:Beira_train_station) |
+
+## Left off the wall for now (35)
+
+Their Commons folders show exhibits or events, not the building. Bring them back with hand-picked photos in `tools/image_choices.json`.
+
+| Building | Wikidata |
+|---|---|
+| Africa Hall | [Q2826149](https://www.wikidata.org/wiki/Q2826149) |
+| Apartheid Museum | [Q617810](https://www.wikidata.org/wiki/Q617810) |
+| Beijing Daxing International Airport | [Q1139574](https://www.wikidata.org/wiki/Q1139574) |
+| Bharat Bhavan | [Q2767116](https://www.wikidata.org/wiki/Q2767116) |
+| Bibliothèque Sainte-Geneviève | [Q51298904](https://www.wikidata.org/wiki/Q51298904) |
+| Bilbao Metro | [Q325309](https://www.wikidata.org/wiki/Q325309) |
+| Cultural Center of the Philippines | [Q30590052](https://www.wikidata.org/wiki/Q30590052) |
+| Diego Rivera and Frida Kahlo House-Studios | [Q2663377](https://www.wikidata.org/wiki/Q2663377) |
+| Fondazione Querini Stampalia | [Q3747209](https://www.wikidata.org/wiki/Q3747209) |
+| Forbidden City | [Q80290](https://www.wikidata.org/wiki/Q80290) |
+| Freedom Monument | [Q12248479](https://www.wikidata.org/wiki/Q12248479) |
+| Israel Museum | [Q46815](https://www.wikidata.org/wiki/Q46815) |
+| Karlsplatz Stadtbahn Pavilions | [Q335894](https://www.wikidata.org/wiki/Q335894) |
+| Lingotto | [Q1478414](https://www.wikidata.org/wiki/Q1478414) |
+| M+ | [Q10851500](https://www.wikidata.org/wiki/Q10851500) |
+| Madrid-Barajas Airport Terminal 4 | [Q166276](https://www.wikidata.org/wiki/Q166276) |
+| Mausoleum of Mohammed V | [Q219028](https://www.wikidata.org/wiki/Q219028) |
+| Museo Jumex | [Q5142722](https://www.wikidata.org/wiki/Q5142722) |
+| Museo de Arte Moderno, Mexico City | [Q3032842](https://www.wikidata.org/wiki/Q3032842) |
+| Museum Tinguely | [Q180904](https://www.wikidata.org/wiki/Q180904) |
+| Museum of Contemporary Art Belgrade | [Q1290510](https://www.wikidata.org/wiki/Q1290510) |
+| National Museum of Anthropology | [Q524249](https://www.wikidata.org/wiki/Q524249) |
+| National Museum of Australia | [Q1967496](https://www.wikidata.org/wiki/Q1967496) |
+| National Museum of Ethnology | [Q147157](https://www.wikidata.org/wiki/Q147157) |
+| National Museum of Modern and Contemporary Art, Seoul | [Q27207690](https://www.wikidata.org/wiki/Q27207690) |
+| National and University Library | [Q1520466](https://www.wikidata.org/wiki/Q1520466) |
+| New Parliament House | [Q106103956](https://www.wikidata.org/wiki/Q106103956) |
+| Obafemi Awolowo University | [Q2008672](https://www.wikidata.org/wiki/Q2008672) |
+| Qatar University | [Q1574578](https://www.wikidata.org/wiki/Q1574578) |
+| Salman Mosque | [Q26258414](https://www.wikidata.org/wiki/Q26258414) |
+| Seema Malaka | [Q24239464](https://www.wikidata.org/wiki/Q24239464) |
+| Vietnam Veterans Memorial | [Q713628](https://www.wikidata.org/wiki/Q713628) |
+| Winnipeg Art Gallery | [Q3813414](https://www.wikidata.org/wiki/Q3813414) |
+| Yale University Art Gallery | [Q1568434](https://www.wikidata.org/wiki/Q1568434) |
+| İstanbul Manifaturacılar Çarşısı | [Q6089529](https://www.wikidata.org/wiki/Q6089529) |
