@@ -1,2 +1,2 @@
-python -u tools/harvest_archinform.py
-Pull every Wikidata building archINFORM lists, fetch its signals, then rescore everything (tools/score.py).
+python -u tools/batch_facts.py batch1
+Fetch Wikidata years, architect birth years and country codes for batch 1, to check the curated years.
