@@ -19,7 +19,7 @@ Commons has no usable free photo. The site shows our own line drawing where one 
 | 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | Drawing | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
 | 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | Drawing | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
 
-## No exterior photo (17)
+## No exterior photo (19)
 
 They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.
 
@@ -42,8 +42,10 @@ They have photos, but none of the outside. Check Commons by hand first: some may
 | 1342 | Garden of Fine Arts, Kyoto | Tadao Ando | Kyoto, JP | Context, Context | [Category:Garden of Fine Art, Kyoto](https://commons.wikimedia.org/wiki/Category:Garden_of_Fine_Art%2C_Kyoto) |
 | 1371 | Hallfield Primary School | Denys Lasdun | London, GB | Interior, Interior, Interior | [Category:Hallfield Primary School](https://commons.wikimedia.org/wiki/Category:Hallfield_Primary_School) |
 | 1374 | Constance Perkins House | Richard Neutra | Pasadena, US | Context | none found |
+| 1523 | Chaktomuk Conference Hall | Vann Molyvann | Phnom Penh, KH | Interior, Interior | [Category:Chaktomuk Conference Hall](https://commons.wikimedia.org/wiki/Category:Chaktomuk_Conference_Hall) |
+| 1544 | Bahrain National Theatre | Architecture-Studio | Manama, BH | Context, Context | [Category:National Theatre of Bahrain](https://commons.wikimedia.org/wiki/Category:National_Theatre_of_Bahrain) |
 
-## Fewer than 4 photos (85)
+## Fewer than 4 photos (103)
 
 They show, but the gallery is thin.
 
@@ -134,8 +136,26 @@ They show, but the gallery is thin.
 | 1375 | Jardinette Apartments | Richard Neutra | Los Angeles, US | Exterior, Exterior, Context | [Category:Jardinette Apartments](https://commons.wikimedia.org/wiki/Category:Jardinette_Apartments) |
 | 1388 | West Japan General Exhibition Center | Arata Isozaki | Kitakyushu, JP | Exterior | none found |
 | 1433 | Gavina Showroom | Carlo Scarpa | Bologna, IT | Exterior, Exterior, Exterior | [Category:Gavina shop (Bologna)](https://commons.wikimedia.org/wiki/Category:Gavina_shop_%28Bologna%29) |
+| 1454 | Cuadra San Cristóbal | Luis Barragán | Atizapán de Zaragoza, MX | Exterior | none found |
+| 1455 | Casa Gilardi | Luis Barragán | Mexico City, MX | Exterior, Exterior, Interior | [Category:Casa Gilardi](https://commons.wikimedia.org/wiki/Category:Casa_Gilardi) |
+| 1463 | Ariston Club | Marcel Breuer | Mar del Plata, AR | Exterior, Exterior | [Category:Parador Ariston](https://commons.wikimedia.org/wiki/Category:Parador_Ariston) |
+| 1464 | Church of Saint Anthony of Polana | Nuno Craveiro Lopes | Maputo, MZ | Exterior, Exterior | [Category:Igreja da Polana](https://commons.wikimedia.org/wiki/Category:Igreja_da_Polana) |
+| 1470 | Entebbe Children's Surgical Hospital | Renzo Piano | Entebbe, UG | Exterior | none found |
+| 1478 | Diamond Ranch High School | Morphosis, Thom Mayne | Pomona, US | Exterior | [Category:Diamond Ranch High School](https://commons.wikimedia.org/wiki/Category:Diamond_Ranch_High_School) |
+| 1487 | L'Arbre Blanc | Sou Fujimoto, Nicolas Laisné, Manal Rachdi | Montpellier, FR | Exterior | none found |
+| 1489 | Lamune Onsen | Terunobu Fujimori | Taketa, JP | Exterior, Exterior, Exterior | [Category:Lamune Onsenkan](https://commons.wikimedia.org/wiki/Category:Lamune_Onsenkan) |
+| 1490 | Triveni Kala Sangam | Joseph Allen Stein | New Delhi, IN | Exterior | none found |
+| 1491 | Sardar Vallabhbhai Patel Stadium | Charles Correa, Mahendra Raj | Ahmedabad, IN | Exterior, Exterior, Exterior | [Category:Sardar Vallabhbhai Patel Stadium, Ahmedabad](https://commons.wikimedia.org/wiki/Category:Sardar_Vallabhbhai_Patel_Stadium%2C_Ahmedabad) |
+| 1508 | CapitaSpring | BIG, Carlo Ratti Associati | Singapore, SG | Exterior, Exterior, Exterior | [Category:CapitaSpring](https://commons.wikimedia.org/wiki/Category:CapitaSpring) |
+| 1512 | Al-Irsyad Mosque | Ridwan Kamil | Padalarang, ID | Exterior, Exterior | [Category:Al-Irsyad Mosque](https://commons.wikimedia.org/wiki/Category:Al-Irsyad_Mosque) |
+| 1527 | Vietnam National Convention Center | gmp Architekten | Hanoi, VN | Exterior, Exterior | [Category:Convention centers in Vietnam](https://commons.wikimedia.org/wiki/Category:Convention_centers_in_Vietnam) |
+| 1542 | SALT Galata | Han Tümertekin | Istanbul, TR | Exterior | none found |
+| 1546 | W Abu Dhabi – Yas Island | Asymptote Architecture | Abu Dhabi, AE | Exterior, Exterior, Exterior | [Category:Yas Marina Hotel](https://commons.wikimedia.org/wiki/Category:Yas_Marina_Hotel) |
+| 1562 | Praça das Artes | Brasil Arquitetura | São Paulo, BR | Exterior | [Category:Praça das Artes](https://commons.wikimedia.org/wiki/Category:Pra%C3%A7a_das_Artes) |
+| 1565 | Wohl Centre | Daniel Libeskind | Ramat Gan, IL | Exterior, Exterior, Exterior | [Category:Wohl Centre](https://commons.wikimedia.org/wiki/Category:Wohl_Centre) |
+| 1567 | Dudhsagar Dairy | Achyut Kanvinde | Mehsana, IN | Exterior, Exterior, Exterior | [Category:Dudhsagar Dairy plant](https://commons.wikimedia.org/wiki/Category:Dudhsagar_Dairy_plant) |
 
-## Left off the wall for now (44)
+## Left off the wall for now (49)
 
 Their Commons folders show exhibits or events, not the building. Bring them back with hand-picked photos in `tools/image_choices.json`.
 
@@ -185,3 +205,8 @@ Their Commons folders show exhibits or events, not the building. Bring them back
 | Beirut Terraces | [Q56295859](https://www.wikidata.org/wiki/Q56295859) |
 | Kumano Kodo Nakahechi Museum of Art | [Q11568880](https://www.wikidata.org/wiki/Q11568880) |
 | Disney Ice (Anaheim Ice) | [Q4750883](https://www.wikidata.org/wiki/Q4750883) |
+| Iberê Camargo Foundation | [Q141503945](https://www.wikidata.org/wiki/Q141503945) |
+| Newton Suites | [Q3339164](https://www.wikidata.org/wiki/Q3339164) |
+| San Francisco Federal Building | [Q7414007](https://www.wikidata.org/wiki/Q7414007) |
+| Embassy of Belgium, New Delhi | [Q15216557](https://www.wikidata.org/wiki/Q15216557) |
+| Jetwing Lighthouse | [Q24883195](https://www.wikidata.org/wiki/Q24883195) |

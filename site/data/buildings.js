@@ -135934,36 +135934,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "ibere-camargo-foundation",
-  "n": 1446,
-  "name": "Iberê Camargo Foundation",
-  "by": "Álvaro Siza",
-  "place": "Porto Alegre, BR",
-  "year": "2008",
-  "y": 2008,
-  "type": "Museum",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "2005–today",
-  "concepts": [
-   "Promenade",
-   "Exposed concrete",
-   "Void"
-  ],
-  "study": "White concrete galleries around a full-height atrium, with enclosed ramps looping outside the facade.",
-  "qid": "Q141503945",
-  "commons": null,
-  "lead": "File:FundacaoIbereCamargo (cropped).jpg",
-  "coords": [
-   -30.07791,
-   -51.24562
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "41-cooper-square",
-  "n": 1447,
+  "n": 1446,
   "name": "41 Cooper Square",
   "by": "Morphosis, Thom Mayne",
   "place": "New York, US",
@@ -136064,7 +136036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "norwegian-glacier-museum",
-  "n": 1448,
+  "n": 1447,
   "name": "Norwegian Glacier Museum",
   "by": "Sverre Fehn",
   "place": "Fjærland, NO",
@@ -136165,7 +136137,7 @@ window.BUILDINGS = [
  },
  {
   "id": "solar-do-unhao",
-  "n": 1449,
+  "n": 1448,
   "name": "Solar do Unhão",
   "by": "Lina Bo Bardi",
   "place": "Salvador, BR",
@@ -136266,7 +136238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-congiunta",
-  "n": 1450,
+  "n": 1449,
   "name": "La Congiunta",
   "by": "Peter Märkli",
   "place": "Giornico, CH",
@@ -136367,7 +136339,7 @@ window.BUILDINGS = [
  },
  {
   "id": "taj-mahal",
-  "n": 1451,
+  "n": 1450,
   "name": "Taj Mahal",
   "by": "Ustad Ahmad Lahauri",
   "place": "Agra, IN",
@@ -136468,7 +136440,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mosque-madrasa-of-sultan-hassan",
-  "n": 1452,
+  "n": 1451,
   "name": "Mosque-Madrasa of Sultan Hassan",
   "by": "Muhammad ibn Baylik al-Muhsini",
   "place": "Cairo, EG",
@@ -136569,7 +136541,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dome-of-soltaniyeh",
-  "n": 1453,
+  "n": 1452,
   "name": "Dome of Soltaniyeh",
   "by": "Ilkhanid builders",
   "place": "Soltaniyeh, IR",
@@ -136670,7 +136642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheikh-lotfollah-mosque",
-  "n": 1454,
+  "n": 1453,
   "name": "Sheikh Lotfollah Mosque",
   "by": "Mohammad-Reza Isfahani",
   "place": "Isfahan, IR",
@@ -136771,7 +136743,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cuadra-san-cristobal",
-  "n": 1455,
+  "n": 1454,
   "name": "Cuadra San Cristóbal",
   "by": "Luis Barragán",
   "place": "Atizapán de Zaragoza, MX",
@@ -136809,7 +136781,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-gilardi",
-  "n": 1456,
+  "n": 1455,
   "name": "Casa Gilardi",
   "by": "Luis Barragán",
   "place": "Mexico City, MX",
@@ -136871,7 +136843,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-library-unam",
-  "n": 1457,
+  "n": 1456,
   "name": "Central Library (UNAM)",
   "by": "Juan O'Gorman, Gustavo Saavedra, Juan Martínez de Velasco",
   "place": "Mexico City, MX",
@@ -136948,7 +136920,7 @@ window.BUILDINGS = [
  },
  {
   "id": "latin-america-memorial",
-  "n": 1458,
+  "n": 1457,
   "name": "Latin America Memorial",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -137049,7 +137021,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-federal-court",
-  "n": 1459,
+  "n": 1458,
   "name": "Supreme Federal Court",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -137150,7 +137122,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-baizeau",
-  "n": 1460,
+  "n": 1459,
   "name": "Villa Baizeau",
   "by": "Le Corbusier",
   "place": "Carthage, TN",
@@ -137227,7 +137199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qatar-national-convention-centre",
-  "n": 1461,
+  "n": 1460,
   "name": "Qatar National Convention Centre",
   "by": "Arata Isozaki",
   "place": "Doha, QA",
@@ -137316,7 +137288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmach-museum",
-  "n": 1462,
+  "n": 1461,
   "name": "Palmach Museum",
   "by": "Zvi Hecker and Rafi Segal",
   "place": "Tel Aviv, IL",
@@ -137416,36 +137388,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "newton-suites",
-  "n": 1463,
-  "name": "Newton Suites",
-  "by": "WOHA",
-  "place": "Singapore, SG",
-  "year": "2007",
-  "y": 2007,
-  "type": "Housing",
-  "movement": "Contemporary",
-  "region": "Southeast Asia",
-  "era": "2005–today",
-  "concepts": [
-   "Planting",
-   "Climate response",
-   "Facade as skin"
-  ],
-  "study": "Residential tower with sky gardens, green walls and perforated metal sunshades worked into its facade.",
-  "qid": "Q3339164",
-  "commons": null,
-  "lead": "File:Newton Suites.jpg",
-  "coords": [
-   1.31783,
-   103.84218
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "museo-jumex",
-  "n": 1464,
+  "n": 1462,
   "name": "Museo Jumex",
   "by": "David Chipperfield",
   "place": "Mexico City, MX",
@@ -137546,7 +137490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ariston-club",
-  "n": 1465,
+  "n": 1463,
   "name": "Ariston Club",
   "by": "Marcel Breuer",
   "place": "Mar del Plata, AR",
@@ -137599,7 +137543,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-saint-anthony-of-polana",
-  "n": 1466,
+  "n": 1464,
   "name": "Church of Saint Anthony of Polana",
   "by": "Nuno Craveiro Lopes",
   "place": "Maputo, MZ",
@@ -137652,7 +137596,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-barolo",
-  "n": 1467,
+  "n": 1465,
   "name": "Palacio Barolo",
   "by": "Mario Palanti",
   "place": "Buenos Aires, AR",
@@ -137753,7 +137697,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-cultural-de-cali",
-  "n": 1468,
+  "n": 1466,
   "name": "Centro Cultural de Cali",
   "by": "Rogelio Salmona",
   "place": "Cali, CO",
@@ -137854,7 +137798,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tomb-of-hafez",
-  "n": 1469,
+  "n": 1467,
   "name": "Tomb of Hafez",
   "by": "André Godard",
   "place": "Shiraz, IR",
@@ -137955,7 +137899,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rockefeller-museum",
-  "n": 1470,
+  "n": 1468,
   "name": "Rockefeller Museum",
   "by": "Austen Harrison",
   "place": "Jerusalem, IL",
@@ -138056,7 +138000,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-modernista",
-  "n": 1471,
+  "n": 1469,
   "name": "Casa Modernista",
   "by": "Gregori Warchavchik",
   "place": "São Paulo, BR",
@@ -138157,7 +138101,7 @@ window.BUILDINGS = [
  },
  {
   "id": "entebbe-children-s-surgical-hospital",
-  "n": 1472,
+  "n": 1470,
   "name": "Entebbe Children's Surgical Hospital",
   "by": "Renzo Piano",
   "place": "Entebbe, UG",
@@ -138198,7 +138142,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hadassah-hospital-mount-scopus",
-  "n": 1473,
+  "n": 1471,
   "name": "Hadassah Hospital, Mount Scopus",
   "by": "Erich Mendelsohn",
   "place": "Jerusalem, IL",
@@ -138299,7 +138243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "memorial-to-the-deportees-yad-vashem",
-  "n": 1474,
+  "n": 1472,
   "name": "Memorial to the Deportees, Yad Vashem",
   "by": "Moshe Safdie",
   "place": "Jerusalem, IL",
@@ -138376,7 +138320,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yad-kennedy",
-  "n": 1475,
+  "n": 1473,
   "name": "Yad Kennedy",
   "by": "David Resnick",
   "place": "Jerusalem, IL",
@@ -138477,7 +138421,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-israel",
-  "n": 1476,
+  "n": 1474,
   "name": "National Library of Israel",
   "by": "Herzog & de Meuron",
   "place": "Jerusalem, IL",
@@ -138575,7 +138519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-oficina",
-  "n": 1477,
+  "n": 1475,
   "name": "Teatro Oficina",
   "by": "Lina Bo Bardi and Edson Elito",
   "place": "São Paulo, BR",
@@ -138664,7 +138608,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-regional-del-biobio",
-  "n": 1478,
+  "n": 1476,
   "name": "Teatro Regional del Biobío",
   "by": "Smiljan Radić",
   "place": "Concepción, CL",
@@ -138741,7 +138685,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caltrans-district-7-headquarters",
-  "n": 1479,
+  "n": 1477,
   "name": "Caltrans District 7 Headquarters",
   "by": "Morphosis, Thom Mayne",
   "place": "Los Angeles, US",
@@ -138830,7 +138774,7 @@ window.BUILDINGS = [
  },
  {
   "id": "diamond-ranch-high-school",
-  "n": 1480,
+  "n": 1478,
   "name": "Diamond Ranch High School",
   "by": "Morphosis, Thom Mayne",
   "place": "Pomona, US",
@@ -138870,36 +138814,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "san-francisco-federal-building",
-  "n": 1481,
-  "name": "San Francisco Federal Building",
-  "by": "Morphosis, Thom Mayne",
-  "place": "San Francisco, US",
-  "year": "2007",
-  "y": 2007,
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "2005–today",
-  "concepts": [
-   "Climate response",
-   "Facade as skin",
-   "Human comfort"
-  ],
-  "study": "Thin naturally ventilated slab with a perforated-steel sunscreen and a sky garden cut through it.",
-  "qid": "Q7414007",
-  "commons": "Category:United States Federal Building (San Francisco, California)",
-  "lead": "File:San Francisco Federal Building.jpg",
-  "coords": [
-   37.77917,
-   -122.41194
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "mcgregor-memorial-conference-center",
-  "n": 1482,
+  "n": 1479,
   "name": "McGregor Memorial Conference Center",
   "by": "Minoru Yamasaki",
   "place": "Detroit, US",
@@ -138976,7 +138892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pacific-science-center",
-  "n": 1483,
+  "n": 1480,
   "name": "Pacific Science Center",
   "by": "Minoru Yamasaki",
   "place": "Seattle, US",
@@ -139077,7 +138993,7 @@ window.BUILDINGS = [
  },
  {
   "id": "century-plaza-towers",
-  "n": 1484,
+  "n": 1481,
   "name": "Century Plaza Towers",
   "by": "Minoru Yamasaki",
   "place": "Los Angeles, US",
@@ -139166,7 +139082,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pousada-de-santa-marinha",
-  "n": 1485,
+  "n": 1482,
   "name": "Pousada de Santa Marinha",
   "by": "Fernando Távora",
   "place": "Guimarães, PT",
@@ -139267,7 +139183,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saitama-prefectural-university",
-  "n": 1486,
+  "n": 1483,
   "name": "Saitama Prefectural University",
   "by": "Riken Yamamoto",
   "place": "Koshigaya, JP",
@@ -139344,7 +139260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "future-university-hakodate",
-  "n": 1487,
+  "n": 1484,
   "name": "Future University Hakodate",
   "by": "Riken Yamamoto",
   "place": "Hakodate, JP",
@@ -139433,7 +139349,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-coach-museum",
-  "n": 1488,
+  "n": 1485,
   "name": "National Coach Museum",
   "by": "Paulo Mendes da Rocha",
   "place": "Lisbon, PT",
@@ -139534,7 +139450,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atelier-bardill",
-  "n": 1489,
+  "n": 1486,
   "name": "Atelier Bardill",
   "by": "Valerio Olgiati",
   "place": "Scharans, CH",
@@ -139611,7 +139527,7 @@ window.BUILDINGS = [
  },
  {
   "id": "l-arbre-blanc",
-  "n": 1490,
+  "n": 1487,
   "name": "L'Arbre Blanc",
   "by": "Sou Fujimoto, Nicolas Laisné, Manal Rachdi",
   "place": "Montpellier, FR",
@@ -139652,7 +139568,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-music-hungary",
-  "n": 1491,
+  "n": 1488,
   "name": "House of Music Hungary",
   "by": "Sou Fujimoto",
   "place": "Budapest, HU",
@@ -139753,7 +139669,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lamune-onsen",
-  "n": 1492,
+  "n": 1489,
   "name": "Lamune Onsen",
   "by": "Terunobu Fujimori",
   "place": "Taketa, JP",
@@ -139817,33 +139733,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "embassy-of-belgium-new-delhi",
-  "n": 1493,
-  "name": "Embassy of Belgium, New Delhi",
-  "by": "Satish Gujral",
-  "place": "New Delhi, IN",
-  "year": "1983",
-  "y": 1983,
-  "type": "Civic",
-  "movement": "Expressionism",
-  "region": "South Asia",
-  "era": "1970–1990",
-  "concepts": [
-   "Brick",
-   "Sculptural form",
-   "Landscape"
-  ],
-  "study": "Sculpted brick and granite forms half sunk into landscaped mounds, like an excavated ruin.",
-  "qid": "Q15216557",
-  "commons": null,
-  "lead": "File:Embassy of Belgium in New Delhi.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "triveni-kala-sangam",
-  "n": 1494,
+  "n": 1490,
   "name": "Triveni Kala Sangam",
   "by": "Joseph Allen Stein",
   "place": "New Delhi, IN",
@@ -139884,7 +139775,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sardar-vallabhbhai-patel-stadium",
-  "n": 1495,
+  "n": 1491,
   "name": "Sardar Vallabhbhai Patel Stadium",
   "by": "Charles Correa, Mahendra Raj",
   "place": "Ahmedabad, IN",
@@ -139949,7 +139840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bihar-museum",
-  "n": 1496,
+  "n": 1492,
   "name": "Bihar Museum",
   "by": "Maki and Associates, Opolis",
   "place": "Patna, IN",
@@ -140050,7 +139941,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chhatrapati-shivaji-maharaj-international-airport-terminal-2",
-  "n": 1497,
+  "n": 1493,
   "name": "Chhatrapati Shivaji Maharaj International Airport Terminal 2",
   "by": "Skidmore, Owings & Merrill",
   "place": "Mumbai, IN",
@@ -140151,7 +140042,7 @@ window.BUILDINGS = [
  },
  {
   "id": "badshahi-mosque",
-  "n": 1498,
+  "n": 1494,
   "name": "Badshahi Mosque",
   "by": "Mughal builders",
   "place": "Lahore, PK",
@@ -140252,7 +140143,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pakistan-monument",
-  "n": 1499,
+  "n": 1495,
   "name": "Pakistan Monument",
   "by": "Arif Masoud",
   "place": "Islamabad, PK",
@@ -140353,7 +140244,7 @@ window.BUILDINGS = [
  },
  {
   "id": "minar-e-pakistan",
-  "n": 1500,
+  "n": 1496,
   "name": "Minar-e-Pakistan",
   "by": "Nasreddin Murat-Khan",
   "place": "Lahore, PK",
@@ -140454,7 +140345,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baitul-mukarram",
-  "n": 1501,
+  "n": 1497,
   "name": "Baitul Mukarram",
   "by": "Abdulhusein M. Thariani",
   "place": "Dhaka, BD",
@@ -140554,33 +140445,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "jetwing-lighthouse",
-  "n": 1502,
-  "name": "Jetwing Lighthouse",
-  "by": "Geoffrey Bawa",
-  "place": "Galle, LK",
-  "year": "1997",
-  "y": 1997,
-  "type": "Hospitality",
-  "movement": "Regionalism",
-  "region": "South Asia",
-  "era": "1990–2005",
-  "concepts": [
-   "Circulation",
-   "Landscape",
-   "Detail"
-  ],
-  "study": "Hotel on a rocky headland; its spiral stair winds round Laki Senanayake's bronze battle sculpture.",
-  "qid": "Q24883195",
-  "commons": null,
-  "lead": "File:Ocean view from Galle Light House Hotel, Sri Lanka.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "independence-memorial-hall",
-  "n": 1503,
+  "n": 1498,
   "name": "Independence Memorial Hall",
   "by": "Tom Neville Wynne-Jones",
   "place": "Colombo, LK",
@@ -140681,7 +140547,7 @@ window.BUILDINGS = [
  },
  {
   "id": "punakha-dzong",
-  "n": 1504,
+  "n": 1499,
   "name": "Punakha Dzong",
   "by": "Zhabdrung Ngawang Namgyal",
   "place": "Punakha, BT",
@@ -140782,7 +140648,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nyatapola",
-  "n": 1505,
+  "n": 1500,
   "name": "Nyatapola",
   "by": "Newar builders",
   "place": "Bhaktapur, NP",
@@ -140883,7 +140749,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oasia-hotel-downtown",
-  "n": 1506,
+  "n": 1501,
   "name": "Oasia Hotel Downtown",
   "by": "WOHA",
   "place": "Singapore, SG",
@@ -140984,7 +140850,7 @@ window.BUILDINGS = [
  },
  {
   "id": "school-of-the-arts-singapore",
-  "n": 1507,
+  "n": 1502,
   "name": "School of the Arts, Singapore",
   "by": "WOHA",
   "place": "Singapore, SG",
@@ -141073,7 +140939,7 @@ window.BUILDINGS = [
  },
  {
   "id": "people-s-park-complex",
-  "n": 1508,
+  "n": 1503,
   "name": "People's Park Complex",
   "by": "Design Partnership",
   "place": "Singapore, SG",
@@ -141174,7 +141040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singapore-conference-hall",
-  "n": 1509,
+  "n": 1504,
   "name": "Singapore Conference Hall",
   "by": "Malayan Architects Co-Partnership",
   "place": "Singapore, SG",
@@ -141275,7 +141141,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-building",
-  "n": 1510,
+  "n": 1505,
   "name": "National Library Building",
   "by": "T. R. Hamzah & Yeang",
   "place": "Singapore, SG",
@@ -141376,7 +141242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helix-bridge",
-  "n": 1511,
+  "n": 1506,
   "name": "Helix Bridge",
   "by": "Cox Architecture, Architects 61, Arup",
   "place": "Singapore, SG",
@@ -141477,7 +141343,7 @@ window.BUILDINGS = [
  },
  {
   "id": "artscience-museum",
-  "n": 1512,
+  "n": 1507,
   "name": "ArtScience Museum",
   "by": "Safdie Architects",
   "place": "Singapore, SG",
@@ -141578,7 +141444,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capitaspring",
-  "n": 1513,
+  "n": 1508,
   "name": "CapitaSpring",
   "by": "BIG, Carlo Ratti Associati",
   "place": "Singapore, SG",
@@ -141643,7 +141509,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malaysian-houses-of-parliament",
-  "n": 1514,
+  "n": 1509,
   "name": "Malaysian Houses of Parliament",
   "by": "William Ivor Shipley",
   "place": "Kuala Lumpur, MY",
@@ -141744,7 +141610,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-malaysia",
-  "n": 1515,
+  "n": 1510,
   "name": "National Museum (Malaysia)",
   "by": "Ho Kwong Yew",
   "place": "Kuala Lumpur, MY",
@@ -141845,7 +141711,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-monument-indonesia",
-  "n": 1516,
+  "n": 1511,
   "name": "National Monument (Indonesia)",
   "by": "Frederich Silaban, R. M. Soedarsono",
   "place": "Jakarta, ID",
@@ -141946,7 +141812,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-irsyad-mosque",
-  "n": 1517,
+  "n": 1512,
   "name": "Al-Irsyad Mosque",
   "by": "Ridwan Kamil",
   "place": "Padalarang, ID",
@@ -141996,7 +141862,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ho-chi-minh-mausoleum",
-  "n": 1518,
+  "n": 1513,
   "name": "Ho Chi Minh Mausoleum",
   "by": "Garol Isakovich",
   "place": "Hanoi, VN",
@@ -142097,7 +141963,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bitexco-financial-tower",
-  "n": 1519,
+  "n": 1514,
   "name": "Bitexco Financial Tower",
   "by": "Carlos Zapata",
   "place": "Ho Chi Minh City, VN",
@@ -142198,7 +142064,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hanoi-museum",
-  "n": 1520,
+  "n": 1515,
   "name": "Hanoi Museum",
   "by": "gmp Architekten",
   "place": "Hanoi, VN",
@@ -142299,7 +142165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "elephant-building",
-  "n": 1521,
+  "n": 1516,
   "name": "Elephant Building",
   "by": "Ong-ard Satrabhandhu",
   "place": "Bangkok, TH",
@@ -142376,7 +142242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bangkok-art-and-culture-centre",
-  "n": 1522,
+  "n": 1517,
   "name": "Bangkok Art and Culture Centre",
   "by": "Robert G. Boughey & Associates",
   "place": "Bangkok, TH",
@@ -142477,7 +142343,7 @@ window.BUILDINGS = [
  },
  {
   "id": "suvarnabhumi-airport",
-  "n": 1523,
+  "n": 1518,
   "name": "Suvarnabhumi Airport",
   "by": "Murphy/Jahn",
   "place": "Samut Prakan, TH",
@@ -142578,7 +142444,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chulalongkorn-university-centenary-park",
-  "n": 1524,
+  "n": 1519,
   "name": "Chulalongkorn University Centenary Park",
   "by": "Landprocess",
   "place": "Bangkok, TH",
@@ -142679,7 +142545,7 @@ window.BUILDINGS = [
  },
  {
   "id": "philippine-international-convention-center",
-  "n": 1525,
+  "n": 1520,
   "name": "Philippine International Convention Center",
   "by": "Leandro Locsin",
   "place": "Pasay, PH",
@@ -142780,7 +142646,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edsa-shrine",
-  "n": 1526,
+  "n": 1521,
   "name": "EDSA Shrine",
   "by": "Francisco Mañosa",
   "place": "Quezon City, PH",
@@ -142881,7 +142747,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quezon-memorial-shrine",
-  "n": 1527,
+  "n": 1522,
   "name": "Quezon Memorial Shrine",
   "by": "Federico Ilustre",
   "place": "Quezon City, PH",
@@ -142982,7 +142848,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chaktomuk-conference-hall",
-  "n": 1528,
+  "n": 1523,
   "name": "Chaktomuk Conference Hall",
   "by": "Vann Molyvann",
   "place": "Phnom Penh, KH",
@@ -143035,7 +142901,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wat-xieng-thong",
-  "n": 1529,
+  "n": 1524,
   "name": "Wat Xieng Thong",
   "by": "Lao builders",
   "place": "Luang Prabang, LA",
@@ -143136,7 +143002,7 @@ window.BUILDINGS = [
  },
  {
   "id": "folk-arts-theater",
-  "n": 1530,
+  "n": 1525,
   "name": "Folk Arts Theater",
   "by": "Leandro Locsin",
   "place": "Pasay, PH",
@@ -143213,7 +143079,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-stadium-singapore",
-  "n": 1531,
+  "n": 1526,
   "name": "National Stadium, Singapore",
   "by": "Arup Associates, DP Architects",
   "place": "Singapore, SG",
@@ -143314,7 +143180,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vietnam-national-convention-center",
-  "n": 1532,
+  "n": 1527,
   "name": "Vietnam National Convention Center",
   "by": "gmp Architekten",
   "place": "Hanoi, VN",
@@ -143367,7 +143233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-lagos",
-  "n": 1533,
+  "n": 1528,
   "name": "National Theatre, Lagos",
   "by": "Stefan Kolchev, Technoexportstroy",
   "place": "Lagos, NG",
@@ -143468,7 +143334,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kwame-nkrumah-mausoleum",
-  "n": 1534,
+  "n": 1529,
   "name": "Kwame Nkrumah Mausoleum",
   "by": "Don Arthur",
   "place": "Accra, GH",
@@ -143569,7 +143435,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kariakoo-market",
-  "n": 1535,
+  "n": 1530,
   "name": "Kariakoo Market",
   "by": "Beda Amuli",
   "place": "Dar es Salaam, TZ",
@@ -143670,7 +143536,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinema-impero",
-  "n": 1536,
+  "n": 1531,
   "name": "Cinema Impero",
   "by": "Mario Messina",
   "place": "Asmara, ER",
@@ -143771,7 +143637,7 @@ window.BUILDINGS = [
  },
  {
   "id": "voortrekker-monument",
-  "n": 1537,
+  "n": 1532,
   "name": "Voortrekker Monument",
   "by": "Gerard Moerdijk",
   "place": "Pretoria, ZA",
@@ -143872,7 +143738,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hector-pieterson-museum",
-  "n": 1538,
+  "n": 1533,
   "name": "Hector Pieterson Museum",
   "by": "Mashabane Rose Associates",
   "place": "Soweto, ZA",
@@ -143973,7 +143839,7 @@ window.BUILDINGS = [
  },
  {
   "id": "djinguereber-mosque",
-  "n": 1539,
+  "n": 1534,
   "name": "Djinguereber Mosque",
   "by": "Abu Ishaq es-Sahili",
   "place": "Timbuktu, ML",
@@ -144074,7 +143940,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unknown-soldier-memorial-cairo",
-  "n": 1540,
+  "n": 1535,
   "name": "Unknown Soldier Memorial, Cairo",
   "by": "Sami Rafi",
   "place": "Cairo, EG",
@@ -144175,7 +144041,7 @@ window.BUILDINGS = [
  },
  {
   "id": "diar-es-saada",
-  "n": 1541,
+  "n": 1536,
   "name": "Diar es Saâda",
   "by": "Fernand Pouillon",
   "place": "Algiers, DZ",
@@ -144252,7 +144118,7 @@ window.BUILDINGS = [
  },
  {
   "id": "basilica-of-our-lady-of-peace-of-yamoussoukro",
-  "n": 1542,
+  "n": 1537,
   "name": "Basilica of Our Lady of Peace of Yamoussoukro",
   "by": "Pierre Fakhoury",
   "place": "Yamoussoukro, CI",
@@ -144329,7 +144195,7 @@ window.BUILDINGS = [
  },
  {
   "id": "djamaa-el-djazair",
-  "n": 1543,
+  "n": 1538,
   "name": "Djamaa el Djazaïr",
   "by": "KSP Jürgen Engel Architekten",
   "place": "Algiers, DZ",
@@ -144430,7 +144296,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ataturk-library",
-  "n": 1544,
+  "n": 1539,
   "name": "Atatürk Library",
   "by": "Sedad Hakkı Eldem",
   "place": "Istanbul, TR",
@@ -144531,7 +144397,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kanyon",
-  "n": 1545,
+  "n": 1540,
   "name": "Kanyon",
   "by": "Jerde Partnership, Tabanlıoğlu Architects",
   "place": "Istanbul, TR",
@@ -144632,7 +144498,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ankara-railway-station",
-  "n": 1546,
+  "n": 1541,
   "name": "Ankara Railway Station",
   "by": "Şekip Akalın",
   "place": "Ankara, TR",
@@ -144733,7 +144599,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salt-galata",
-  "n": 1547,
+  "n": 1542,
   "name": "SALT Galata",
   "by": "Han Tümertekin",
   "place": "Istanbul, TR",
@@ -144774,7 +144640,7 @@ window.BUILDINGS = [
  },
  {
   "id": "odunpazar-modern-museum",
-  "n": 1548,
+  "n": 1543,
   "name": "Odunpazarı Modern Museum",
   "by": "Kengo Kuma and Associates",
   "place": "Eskişehir, TR",
@@ -144851,7 +144717,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bahrain-national-theatre",
-  "n": 1549,
+  "n": 1544,
   "name": "Bahrain National Theatre",
   "by": "Architecture-Studio",
   "place": "Manama, BH",
@@ -144904,7 +144770,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abrahamic-family-house",
-  "n": 1550,
+  "n": 1545,
   "name": "Abrahamic Family House",
   "by": "Adjaye Associates",
   "place": "Abu Dhabi, AE",
@@ -144981,7 +144847,7 @@ window.BUILDINGS = [
  },
  {
   "id": "w-abu-dhabi-yas-island",
-  "n": 1551,
+  "n": 1546,
   "name": "W Abu Dhabi – Yas Island",
   "by": "Asymptote Architecture",
   "place": "Abu Dhabi, AE",
@@ -145046,7 +144912,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheikh-zayed-grand-mosque",
-  "n": 1552,
+  "n": 1547,
   "name": "Sheikh Zayed Grand Mosque",
   "by": "Yusef Abdelki",
   "place": "Abu Dhabi, AE",
@@ -145147,7 +145013,7 @@ window.BUILDINGS = [
  },
  {
   "id": "etihad-museum",
-  "n": 1553,
+  "n": 1548,
   "name": "Etihad Museum",
   "by": "Moriyama & Teshima Architects",
   "place": "Dubai, AE",
@@ -145248,7 +145114,7 @@ window.BUILDINGS = [
  },
  {
   "id": "negev-brigade-monument",
-  "n": 1554,
+  "n": 1549,
   "name": "Negev Brigade Monument",
   "by": "Dani Karavan",
   "place": "Beersheba, IL",
@@ -145349,7 +145215,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-universitario-arte-contemporaneo",
-  "n": 1555,
+  "n": 1550,
   "name": "Museo Universitario Arte Contemporáneo",
   "by": "Teodoro González de León",
   "place": "Mexico City, MX",
@@ -145450,7 +145316,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-reforma",
-  "n": 1556,
+  "n": 1551,
   "name": "Torre Reforma",
   "by": "L. Benjamín Romano",
   "place": "Mexico City, MX",
@@ -145551,7 +145417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-experimental-el-eco",
-  "n": 1557,
+  "n": 1552,
   "name": "Museo Experimental El Eco",
   "by": "Mathias Goeritz",
   "place": "Mexico City, MX",
@@ -145652,7 +145518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hospicio-cabanas",
-  "n": 1558,
+  "n": 1553,
   "name": "Hospicio Cabañas",
   "by": "Manuel Tolsá",
   "place": "Guadalajara, MX",
@@ -145753,7 +145619,7 @@ window.BUILDINGS = [
  },
  {
   "id": "focsa-building",
-  "n": 1559,
+  "n": 1554,
   "name": "FOCSA Building",
   "by": "Ernesto Gómez Sampera, Martín Domínguez Esteban",
   "place": "Havana, CU",
@@ -145854,7 +145720,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bacardi-building",
-  "n": 1560,
+  "n": 1555,
   "name": "Bacardi Building",
   "by": "Esteban Rodríguez-Castells, Rafael Fernández Ruenes",
   "place": "Havana, CU",
@@ -145955,7 +145821,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teresa-carreno-cultural-complex",
-  "n": 1561,
+  "n": 1556,
   "name": "Teresa Carreño Cultural Complex",
   "by": "Tomás Lugo Marcano, Jesús Sandoval, Dietrich Kunckel",
   "place": "Caracas, VE",
@@ -146056,7 +145922,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-humboldt",
-  "n": 1562,
+  "n": 1557,
   "name": "Hotel Humboldt",
   "by": "Tomás Sanabria",
   "place": "Caracas, VE",
@@ -146157,7 +146023,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gabriel-garcia-marquez-cultural-center",
-  "n": 1563,
+  "n": 1558,
   "name": "Gabriel García Márquez Cultural Center",
   "by": "Rogelio Salmona",
   "place": "Bogotá, CO",
@@ -146246,7 +146112,7 @@ window.BUILDINGS = [
  },
  {
   "id": "place-of-memory-tolerance-and-social-inclusion",
-  "n": 1564,
+  "n": 1559,
   "name": "Place of Memory, Tolerance and Social Inclusion",
   "by": "Barclay & Crousse",
   "place": "Lima, PE",
@@ -146347,7 +146213,7 @@ window.BUILDINGS = [
  },
  {
   "id": "somisa-building",
-  "n": 1565,
+  "n": 1560,
   "name": "SOMISA Building",
   "by": "Mario Roberto Álvarez",
   "place": "Buenos Aires, AR",
@@ -146448,7 +146314,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parque-guinle",
-  "n": 1566,
+  "n": 1561,
   "name": "Parque Guinle",
   "by": "Lúcio Costa",
   "place": "Rio de Janeiro, BR",
@@ -146525,7 +146391,7 @@ window.BUILDINGS = [
  },
  {
   "id": "praca-das-artes",
-  "n": 1567,
+  "n": 1562,
   "name": "Praça das Artes",
   "by": "Brasil Arquitetura",
   "place": "São Paulo, BR",
@@ -146563,7 +146429,7 @@ window.BUILDINGS = [
  },
  {
   "id": "juscelino-kubitschek-bridge",
-  "n": 1568,
+  "n": 1563,
   "name": "Juscelino Kubitschek Bridge",
   "by": "Alexandre Chan",
   "place": "Brasília, BR",
@@ -146664,7 +146530,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schocken-library",
-  "n": 1569,
+  "n": 1564,
   "name": "Schocken Library",
   "by": "Erich Mendelsohn",
   "place": "Jerusalem, IL",
@@ -146741,7 +146607,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wohl-centre",
-  "n": 1570,
+  "n": 1565,
   "name": "Wohl Centre",
   "by": "Daniel Libeskind",
   "place": "Ramat Gan, IL",
@@ -146806,7 +146672,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moses-mabhida-stadium",
-  "n": 1571,
+  "n": 1566,
   "name": "Moses Mabhida Stadium",
   "by": "gmp Architects",
   "place": "Durban, ZA",
@@ -146907,7 +146773,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dudhsagar-dairy",
-  "n": 1572,
+  "n": 1567,
   "name": "Dudhsagar Dairy",
   "by": "Achyut Kanvinde",
   "place": "Mehsana, IN",
@@ -146972,7 +146838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capitagreen",
-  "n": 1573,
+  "n": 1568,
   "name": "CapitaGreen",
   "by": "Toyo Ito",
   "place": "Singapore, SG",
@@ -147061,7 +146927,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bahrain-world-trade-center",
-  "n": 1574,
+  "n": 1569,
   "name": "Bahrain World Trade Center",
   "by": "Atkins",
   "place": "Manama, BH",
@@ -147162,7 +147028,7 @@ window.BUILDINGS = [
  },
  {
   "id": "papalote-children-s-museum",
-  "n": 1575,
+  "n": 1570,
   "name": "Papalote Children's Museum",
   "by": "Ricardo Legorreta",
   "place": "Mexico City, MX",
@@ -147263,7 +147129,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santo-andre-civic-centre",
-  "n": 1576,
+  "n": 1571,
   "name": "Santo André Civic Centre",
   "by": "Rino Levi",
   "place": "Santo André, BR",
@@ -147340,7 +147206,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-baba-taher",
-  "n": 1577,
+  "n": 1572,
   "name": "Mausoleum of Baba Taher",
   "by": "Mohsen Foroughi",
   "place": "Hamadan, IR",
@@ -147441,7 +147307,7 @@ window.BUILDINGS = [
  },
  {
   "id": "11-diagonal-street",
-  "n": 1578,
+  "n": 1573,
   "name": "11 Diagonal Street",
   "by": "Helmut Jahn (Murphy/Jahn)",
   "place": "Johannesburg, ZA",
@@ -147518,7 +147384,7 @@ window.BUILDINGS = [
  },
  {
   "id": "camlca-tower",
-  "n": 1579,
+  "n": 1574,
   "name": "Çamlıca Tower",
   "by": "Melike Altınışık Architects",
   "place": "Istanbul, TR",
@@ -147619,7 +147485,7 @@ window.BUILDINGS = [
  },
  {
   "id": "max-liebling-house",
-  "n": 1580,
+  "n": 1575,
   "name": "Max Liebling House",
   "by": "Dov Karmi",
   "place": "Tel Aviv, IL",
@@ -147696,7 +147562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "civic-center-of-lima",
-  "n": 1581,
+  "n": 1576,
   "name": "Civic Center of Lima",
   "by": "Adolfo Córdova and team",
   "place": "Lima, PE",
@@ -147785,7 +147651,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-de-arte-moderno",
-  "n": 1582,
+  "n": 1577,
   "name": "Museo de Arte Moderno",
   "by": "Pedro Ramírez Vázquez and Rafael Mijares",
   "place": "Mexico City, MX",
@@ -147886,7 +147752,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kafd-metro-station",
-  "n": 1583,
+  "n": 1578,
   "name": "KAFD Metro Station",
   "by": "Zaha Hadid Architects",
   "place": "Riyadh, SA",
