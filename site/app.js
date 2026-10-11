@@ -62,7 +62,9 @@
   const tiles = new Map();
   function tileImage(b, k) {
     const im = (b.images || [])[k];
-    return im ? `<img src="${esc(im.thumb)}" alt="" loading="lazy" decoding="async">` : '';
+    if (!im) return '';
+    const tag = im.kind === 'Drawing' ? '<span class="dtag">Drawing, not a photo</span>' : '';
+    return `<img src="${esc(im.thumb)}" alt="" loading="lazy" decoding="async">${tag}`;
   }
   function tileEl(b) {
     let el = tiles.get(b.id);
@@ -176,7 +178,7 @@
     full.src = im.src;
     const credit = (im.credit || '').replace(/\.$/, '');
     $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length} · ${esc(im.caption)}</span>` +
-      `<span class="l">${credit ? 'Photo: ' + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
+      `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
     $('gPrev').hidden = $('gNext').hidden = ims.length < 2;
   }
