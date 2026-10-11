@@ -1,2 +1,2 @@
 --minutes 300
-Fetch photos for the 35 approved batch 2 buildings (rerun after the review-page fix).
+Fetch photos for batch 3 (142 new buildings in the thin regions and by missing architects).
