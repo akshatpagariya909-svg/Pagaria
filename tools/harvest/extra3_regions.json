@@ -1,0 +1,1464 @@
+[
+ {
+  "name": "National Theatre, Lagos",
+  "by": "Stefan Kolchev, Technoexportstroy",
+  "city": "Lagos",
+  "cc": "NG",
+  "year": "1976",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Saddle-shaped concrete hall with a folded rim, often likened to a general's cap, on an open site.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Kwame Nkrumah Mausoleum",
+  "by": "Don Arthur",
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1992",
+  "type": "Memorial",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Stone"
+  ],
+  "features": "Marble-clad tomb shaped like an upturned sword, topped by a black star and set in a pool.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Dakar International Fair",
+  "by": "Jean-François Lamoureux, Jean-Louis Marin",
+  "city": "Dakar",
+  "cc": "SN",
+  "year": "1974",
+  "type": "Pavilion",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Modular",
+   "Cluster"
+  ],
+  "features": "Exhibition pavilions composed of repeated triangular concrete modules set out on a geometric grid.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Centre for Earth Architecture",
+  "by": "Diébédo Francis Kéré",
+  "city": "Mopti",
+  "cc": "ML",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Community"
+  ],
+  "features": "Compressed-earth walls and earth roofs, a modern model for building in mud beside Mopti's mosque.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Dano Secondary School",
+  "by": "Diébédo Francis Kéré",
+  "city": "Dano",
+  "cc": "BF",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Low cost"
+  ],
+  "features": "Laterite stone walls under a lifted metal roof, with eucalyptus screens shading the outdoor spaces.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Regional Market, Dandaji",
+  "by": "Atelier Masomi, Mariam Kamara, Yasaman Esmaili",
+  "city": "Dandaji",
+  "cc": "NE",
+  "year": "2018",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Reclaimed material",
+   "Colour"
+  ],
+  "features": "Compressed-earth market stalls under steel 'trees' whose coloured metal discs give shade.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Kigali Convention Centre",
+  "by": "Roland Dieterle",
+  "city": "Kigali",
+  "cc": "RW",
+  "year": "2016",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Colour"
+  ],
+  "features": "Spiral-patterned dome inspired by the roof of the royal palace at Nyanza, lit in colour at night.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "University of Global Health Equity",
+  "by": "MASS Design Group",
+  "city": "Butaro",
+  "cc": "RW",
+  "year": "2019",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Rammed-earth and local-stone buildings stepped into a terraced hillside, built by local craftspeople.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Kasungu Maternity Waiting Village",
+  "by": "MASS Design Group",
+  "city": "Kasungu",
+  "cc": "MW",
+  "year": "2015",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Community",
+   "Courtyard"
+  ],
+  "features": "Small houses grouped in clusters around shared courtyards, where expectant mothers wait near the hospital.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Children's Surgical Hospital, Entebbe",
+  "by": "Renzo Piano Building Workshop, TAMassociati",
+  "city": "Entebbe",
+  "cc": "UG",
+  "year": "2021",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Landscape"
+  ],
+  "features": "Rammed-earth walls under a floating roof of solar panels, on a site sloping to Lake Victoria.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Kariakoo Market",
+  "by": "Beda Amuli",
+  "city": "Dar es Salaam",
+  "cc": "TZ",
+  "year": "1974",
+  "type": "Public space",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Roof of repeated concrete inverted umbrellas on columns, shading a busy open market floor.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Addis Ababa City Hall",
+  "by": "Arturo Mezzèdimi",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Modernist slab and tower set at the top of Churchill Avenue, closing its long axis.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Cinema Impero",
+  "by": "Mario Messina",
+  "city": "Asmara",
+  "cc": "ER",
+  "year": "1937",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Art Deco front with tall windows framed by rows of round lamps, on Asmara's main avenue.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Voortrekker Monument",
+  "by": "Gerard Moerdijk",
+  "city": "Pretoria",
+  "cc": "ZA",
+  "year": "1949",
+  "type": "Memorial",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Stone"
+  ],
+  "features": "Granite block whose dome oculus sends a single sunbeam onto the cenotaph once a year.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Hector Pieterson Museum",
+  "by": "Mashabane Rose Associates",
+  "city": "Soweto",
+  "cc": "ZA",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Promenade",
+   "Void"
+  ],
+  "features": "Face-brick museum whose windows frame the streets where the student uprising took place.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Moses Mabhida Stadium",
+  "by": "gmp Architekten",
+  "city": "Durban",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Monumentality"
+  ],
+  "features": "Steel arch that splits into two legs at one end, carrying a cable-hung membrane roof.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Djinguereber Mosque",
+  "by": "Abu Ishaq es-Sahili",
+  "city": "Timbuktu",
+  "cc": "ML",
+  "year": "1327",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Earth & local material",
+   "Courtyard",
+   "Structure as expression"
+  ],
+  "features": "Mud and limestone mosque with a tapering earthen minaret and timber beams projecting from its walls.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Mosque-Madrasa of Sultan Hassan",
+  "by": "Muhammad ibn Baylik al-Muhsini",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1363",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "Four vast vaulted iwans opening onto a central courtyard, enclosed by towering stone walls.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "Villa Majorelle",
+  "by": "Paul Sinoir",
+  "city": "Marrakesh",
+  "cc": "MA",
+  "year": "1931",
+  "type": "House",
+  "movement": "Art Deco",
+  "concepts": [
+   "Colour",
+   "Planting",
+   "Geometry"
+  ],
+  "features": "Cubist studio painted intense cobalt blue, set among cacti, bamboo and pools.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Unknown Soldier Memorial, Cairo",
+  "by": "Sami Rafi",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1975",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Hollow pyramid of four separate concrete walls leaning together over the tomb of the unknown soldier.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Halawa House",
+  "by": "Abdel-Wahed El-Wakil",
+  "city": "Agamy",
+  "cc": "EG",
+  "year": "1975",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Vault",
+   "Climate response"
+  ],
+  "features": "Courtyard house of domes and vaults built by traditional masons, with a shaded loggia facing the court.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Diar es Saâda",
+  "by": "Fernand Pouillon",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1953",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Load-bearing cut-stone housing blocks stepped down a hillside around public squares.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Basilica of Our Lady of Peace of Yamoussoukro",
+  "by": "Pierre Fakhoury",
+  "city": "Yamoussoukro",
+  "cc": "CI",
+  "year": "1989",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Light & shadow"
+  ],
+  "features": "Dome and colonnade modelled on St Peter's in Rome, with walls of stained glass.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Djamaa el Djazaïr",
+  "by": "KSP Jürgen Engel Architekten",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "2019",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Axis"
+  ],
+  "features": "Square prayer hall under a dome, beside a slender square minaret that also houses a museum.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Houari Boumediene University of Science and Technology",
+  "by": "Oscar Niemeyer",
+  "city": "Bab Ezzouar",
+  "cc": "DZ",
+  "year": "1974",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Campus of long concrete slabs, curved canopies and open plazas linking the faculties.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Basilica of Sainte-Anne du Congo",
+  "by": "Roger Erell",
+  "city": "Brazzaville",
+  "cc": "CG",
+  "year": "1949",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Structure as expression"
+  ],
+  "features": "Tall pointed concrete arches like spearheads, under a roof of green glazed tiles.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Atatürk Library",
+  "by": "Sedad Hakkı Eldem",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1976",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Brise-soleil"
+  ],
+  "features": "Concrete library with overhanging upper floors and screens, echoing Ottoman wooden houses.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "The Museum Hotel Antakya",
+  "by": "Emre Arolat Architecture",
+  "city": "Antakya",
+  "cc": "TR",
+  "year": "2019",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Adaptive reuse"
+  ],
+  "features": "Hotel raised on a steel deck above excavated Roman mosaics, with rooms as prefabricated modules.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Kanyon",
+  "by": "Jerde Partnership, Tabanlıoğlu Architects",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2006",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Public space",
+   "Section"
+  ],
+  "features": "Open-air canyon of curving terraces and ramps carved through a shopping and office block.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Grand National Assembly of Turkey",
+  "by": "Clemens Holzmeister",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1961",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Stone-clad parliament with a tall colonnaded front set on a monumental axis.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Ankara Railway Station",
+  "by": "Şekip Akalın",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1937",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Symmetrical Art Deco station whose entrance is a tall hall framed by square piers.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Vakko Fashion Center",
+  "by": "REX",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2010",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Mirrored glass 'showcase' box slotted inside the concrete frame of an unfinished hotel.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "SALT Galata",
+  "by": "Han Tümertekin",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Ottoman bank opened up as a public library, archive and gallery with minimal new insertions.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "B2 House",
+  "by": "Han Tümertekin",
+  "city": "Ayvacık",
+  "cc": "TR",
+  "year": "2001",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Concrete frame filled with local stone, opening one face fully to the view of the Aegean.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Odunpazarı Modern Museum",
+  "by": "Kengo Kuma and Associates",
+  "city": "Eskişehir",
+  "cc": "TR",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Stacked timber boxes echoing the Ottoman houses around it, around a skylit central atrium.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Tomb of Nader Shah",
+  "by": "Houshang Seyhoun",
+  "city": "Mashhad",
+  "cc": "IR",
+  "year": "1959",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Rough granite mass under a sharp angular canopy, with bronze riders of the shah's army.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Sharifi-ha House",
+  "by": "Next Office, Alireza Taghaboni",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "2013",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Timber"
+  ],
+  "features": "Townhouse whose rooms in timber boxes turn outward or inward to open or close the facade.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Dome of Soltaniyeh",
+  "by": "Ilkhanid builders",
+  "city": "Soltaniyeh",
+  "cc": "IR",
+  "year": "1312",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Octagonal brick tomb under a vast double-shell dome, ringed by eight minarets.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "Sheikh Lotfollah Mosque",
+  "by": "Mohammad-Reza Isfahani",
+  "city": "Isfahan",
+  "cc": "IR",
+  "year": "1619",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Dome lit by a ring of windows over tiled walls; a bending corridor turns the entrance toward Mecca.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "Bahrain World Trade Center",
+  "by": "Atkins",
+  "city": "Manama",
+  "cc": "BH",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Twin sail-shaped towers joined by three bridges, each carrying a wind turbine.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Bahrain National Theatre",
+  "by": "Architecture-Studio",
+  "city": "Manama",
+  "cc": "BH",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Water",
+   "Detail"
+  ],
+  "features": "Glass foyer under a wide golden aluminium canopy, set at the water's edge.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Abrahamic Family House",
+  "by": "Adjaye Associates",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2023",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Community"
+  ],
+  "features": "Three cubic houses of worship, each with its own screen of columns or arches, on a shared garden plinth.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Al Wasl Plaza",
+  "by": "Adrian Smith + Gordon Gill Architecture",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2020",
+  "type": "Public space",
+  "movement": "Parametric",
+  "concepts": [
+   "Public space",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Open steel trellis dome that doubles as a wraparound projection screen above a plaza.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "W Abu Dhabi – Yas Island",
+  "by": "Asymptote Architecture",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2009",
+  "type": "Hospitality",
+  "movement": "Parametric",
+  "concepts": [
+   "Facade as skin",
+   "Parametric",
+   "Steel & glass"
+  ],
+  "features": "Two hotel blocks under a gridshell of diamond-shaped glass panels, straddling a race track.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Sheikh Zayed Grand Mosque",
+  "by": "Yusef Abdelki",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2007",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Detail"
+  ],
+  "features": "White marble mosque of many domes around a vast courtyard, with floral inlay and reflecting pools.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Etihad Museum",
+  "by": "Moriyama & Teshima Architects",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Void",
+   "Landscape"
+  ],
+  "features": "Pavilion shaped like an open manuscript on columns like pens, over galleries set below ground.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Bee'ah Headquarters",
+  "by": "Zaha Hadid Architects",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "2022",
+  "type": "Workplace",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Climate response",
+   "Parametric"
+  ],
+  "features": "Dune-shaped offices of linked curving domes, shaped to the prevailing desert winds.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Sheraton Grand Doha",
+  "by": "William Pereira",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "1982",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Double height"
+  ],
+  "features": "Stepped pyramid hotel whose sloping terraces wrap a tall central atrium.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Qatar National Convention Centre",
+  "by": "Arata Isozaki",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2011",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Long glass facade under a roof held by two giant steel trees modelled on the Sidra tree.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "King Fahd National Library",
+  "by": "Gerber Architekten",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Facade as skin",
+   "Adaptive reuse"
+  ],
+  "features": "Old library wrapped in a cube of white tensile fabric diamonds held by steel cables.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Aïshti Foundation",
+  "by": "Adjaye Associates",
+  "city": "Jal el Dib",
+  "cc": "LB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Colour"
+  ],
+  "features": "Galleries and shops wrapped in a red aluminium lattice screen that filters coastal light.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "B018",
+  "by": "Bernard Khoury",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1998",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Void",
+   "Steel & glass"
+  ],
+  "features": "Sunken nightclub whose hinged roof panels open to the sky, on a site scarred by war.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Negev Brigade Monument",
+  "by": "Dani Karavan",
+  "city": "Beersheba",
+  "cc": "IL",
+  "year": "1968",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Concrete sculptural landscape of a tower, dome, tunnel and water channel in the desert.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Cuadra San Cristóbal",
+  "by": "Luis Barragán",
+  "city": "Atizapán de Zaragoza",
+  "cc": "MX",
+  "year": "1968",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Pink and purple walls framing a horse pool fed by a water spout, for riders and horses.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "Casa Gilardi",
+  "by": "Luis Barragán",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1976",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Water"
+  ],
+  "features": "Indoor pool with a freestanding red column, lit through a yellow-glazed corridor.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "El Colegio de México",
+  "by": "Teodoro González de León, Abraham Zabludovsky",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Bush-hammered concrete blocks with marble chips stepping around a large terraced courtyard.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Museo Universitario Arte Contemporáneo",
+  "by": "Teodoro González de León",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "Long sloping glass facade under a concrete roof, opening the galleries to a plaza.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Camino Real Hotel, Mexico City",
+  "by": "Ricardo Legorreta",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1968",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "Magenta lattice wall screens a sequence of courtyards and pools from the street.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Cosmic Rays Pavilion",
+  "by": "Félix Candela, Jorge González Reyna",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1951",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Section"
+  ],
+  "features": "Twin hyperbolic-paraboloid shells so thin they let cosmic rays through to the instruments.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "La Tallera",
+  "by": "Frida Escobedo",
+  "city": "Cuernavaca",
+  "cc": "MX",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Concrete lattice walls and a new plaza, with Siqueiros's murals turned to face the street.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Torre Reforma",
+  "by": "L. Benjamín Romano",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2016",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Two exposed-concrete walls carry the tower; a diagonal steel frame holds the glass sides.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Museo Experimental El Eco",
+  "by": "Mathias Goeritz",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1953",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Promenade",
+   "Colour",
+   "Light & shadow"
+  ],
+  "features": "Narrowing corridor, coloured walls and a courtyard sculpture, built as 'emotional architecture'.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Estadio Azteca",
+  "by": "Pedro Ramírez Vázquez, Rafael Mijares",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1966",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Circulation"
+  ],
+  "features": "Steep bowl of concrete stands under a cantilevered roof, ringed by ramps.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Central Library (UNAM)",
+  "by": "Juan O'Gorman, Gustavo Saavedra, Juan Martínez de Velasco",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1956",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Colour"
+  ],
+  "features": "Windowless book tower wrapped in a stone mosaic mural of Mexican history.",
+  "keep": 3,
+  "list": "regions"
+ },
+ {
+  "name": "Hospicio Cabañas",
+  "by": "Manuel Tolsá",
+  "city": "Guadalajara",
+  "cc": "MX",
+  "year": "1810",
+  "type": "Health",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "Neoclassical hospice of many courtyards, its chapel dome painted with Orozco's murals.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "FOCSA Building",
+  "by": "Ernesto Gómez Sampera, Martín Domínguez Esteban",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1956",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Megastructure",
+   "Community"
+  ],
+  "features": "Reinforced-concrete apartment slab with a small city of shops and services at its base.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Bacardi Building",
+  "by": "Esteban Rodríguez-Castells, Rafael Fernández Ruenes",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1930",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Art Deco tower clad in coloured granite and glazed terracotta, topped by a bat.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "GHESKIO Cholera Treatment Center",
+  "by": "MASS Design Group",
+  "city": "Port-au-Prince",
+  "cc": "HT",
+  "year": "2015",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Brick",
+   "Courtyard"
+  ],
+  "features": "Perforated brick screens and courtyards for cross ventilation, with water treated on site.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Teresa Carreño Cultural Complex",
+  "by": "Tomás Lugo Marcano, Jesús Sandoval, Dietrich Kunckel",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Exposed concrete volumes with deep terraces and a monumental fly tower over open plazas.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Hotel Humboldt",
+  "by": "Tomás Sanabria",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1956",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Cylindrical tower on top of the Ávila mountain ridge, reached by cable car.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Gabriel García Márquez Cultural Center",
+  "by": "Rogelio Salmona",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Promenade",
+   "Courtyard"
+  ],
+  "features": "Brick terraces, ramps and a circular courtyard, open as a public route through the block.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Casa de Huéspedes Ilustres de Colombia",
+  "by": "Rogelio Salmona",
+  "city": "Cartagena",
+  "cc": "CO",
+  "year": "1981",
+  "type": "Palace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Water"
+  ],
+  "features": "Coral-stone walls, courtyards and water channels, built around the ruins of a colonial fort.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Place of Memory, Tolerance and Social Inclusion",
+  "by": "Barclay & Crousse",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "Concrete volume folded into the sea cliff, with ramps descending toward the ocean.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Teatro Regional del Biobío",
+  "by": "Smiljan Radić",
+  "city": "Concepción",
+  "cc": "CL",
+  "year": "2018",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Tensile structure",
+   "Light & shadow"
+  ],
+  "features": "Steel-framed box wrapped in a translucent fabric skin that glows at night.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Siamese Towers",
+  "by": "Alejandro Aravena",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2005",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Steel & glass"
+  ],
+  "features": "Glass-skinned tower splitting into two at the top, with a ventilated double skin.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Unidad Vecinal Portales",
+  "by": "Bresciani, Valdés, Castillo, Huidobro",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1966",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Circulation",
+   "Community",
+   "Exposed concrete"
+  ],
+  "features": "Housing blocks linked by elevated walkways and bridges over shared gardens.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "SOMISA Building",
+  "by": "Mario Roberto Álvarez",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1977",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "Welded steel frame with an aluminium and glass curtain wall on a narrow corner site.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Church of Saint Peter, Durazno",
+  "by": "Eladio Dieste",
+  "city": "Durazno",
+  "cc": "UY",
+  "year": "1971",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "Reinforced-brick walls and a folded brick roof spanning the nave without columns.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Saint Peter Chapel, Campos do Jordão",
+  "by": "Paulo Mendes da Rocha",
+  "city": "Campos do Jordão",
+  "cc": "BR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Glass box built around a single central concrete column, entered from a bridge on the hillside.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Paulistano Athletic Club Gymnasium",
+  "by": "Paulo Mendes da Rocha",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Tensile structure",
+   "Structure as expression"
+  ],
+  "features": "Circular concrete stands under a roof hung by steel cables from radial concrete pillars.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Parque Guinle",
+  "by": "Lúcio Costa",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1954",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Brise-soleil",
+   "Landscape"
+  ],
+  "features": "Apartment slabs on pilotis with cobogó and brise-soleil screens facing a park.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Solar do Unhão",
+  "by": "Lina Bo Bardi",
+  "city": "Salvador",
+  "cc": "BR",
+  "year": "1963",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Timber",
+   "Detail"
+  ],
+  "features": "Colonial sugar mill restored with a timber spiral stair of interlocking wedged joints.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Teatro Oficina",
+  "by": "Lina Bo Bardi, Edson Elito",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1993",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Section",
+   "Adaptive reuse"
+  ],
+  "features": "Theatre as a long street with scaffolding galleries and a retractable roof.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Instituto Moreira Salles Paulista",
+  "by": "Andrade Morettin Arquitetos",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Section"
+  ],
+  "features": "Translucent glass box with the street lifted into an open public level halfway up.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Praça das Artes",
+  "by": "Brasil Arquitetura",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Colour"
+  ],
+  "features": "Pigmented concrete volumes threaded between old buildings, opening a passage through the block.",
+  "keep": 2,
+  "list": "regions"
+ },
+ {
+  "name": "Juscelino Kubitschek Bridge",
+  "by": "Alexandre Chan",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "2002",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Three asymmetric steel arches crossing the deck diagonally like a skipping stone.",
+  "keep": 2,
+  "list": "regions"
+ }
+]
