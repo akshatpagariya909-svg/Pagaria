@@ -105098,5 +105098,869 @@ window.BUILDINGS = [
     "file": "File:Pavillon Pierre-Lassonde, Auditorium.jpg"
    }
   ]
+ },
+ {
+  "id": "palace-of-justice-punjab-and-haryana-high-court",
+  "n": 1108,
+  "name": "Palace of Justice (Punjab and Haryana High Court)",
+  "by": "Le Corbusier",
+  "place": "Chandigarh, IN",
+  "year": "1955",
+  "y": 1955,
+  "type": "Civic",
+  "movement": "Brutalism",
+  "region": "South Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Monumentality"
+  ],
+  "study": "A huge concrete parasol roof shades the courts, with colossal coloured pylons framing the entrance.",
+  "qid": "Q130502",
+  "commons": "Category:Punjab and Haryana High Court",
+  "lead": "File:Chandigarh High Court.jpg",
+  "coords": [
+   30.7573,
+   76.8066
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "galleria-vittorio-emanuele-ii",
+  "n": 1109,
+  "name": "Galleria Vittorio Emanuele II",
+  "by": "Giuseppe Mengoni",
+  "place": "Milan, IT",
+  "year": "1877",
+  "y": 1877,
+  "type": "Public space",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Vault",
+   "Light from above",
+   "Public space"
+  ],
+  "study": "Two glazed iron-vaulted arcades cross under a glass dome, forming a covered street.",
+  "qid": "Q51112",
+  "commons": "Category:Galleria Vittorio Emanuele II (Milan)",
+  "lead": "File:Veduta della Galleria Vittorio Emanuele II da piazza del Duomo, Milano.jpg",
+  "coords": [
+   45.46564,
+   9.19
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "whitney-museum-of-american-art",
+  "n": 1110,
+  "name": "Whitney Museum of American Art",
+  "by": "Renzo Piano Building Workshop",
+  "place": "New York, US",
+  "year": "2015",
+  "y": 2015,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Section",
+   "Public space",
+   "Cantilever"
+  ],
+  "study": "An asymmetric steel-clad block steps back in outdoor terraces toward the Hudson beside the High Line.",
+  "qid": "Q639791",
+  "commons": "Category:Whitney Museum of American Art",
+  "lead": "File:Whitney Museum of American Art (49051573133).jpg",
+  "coords": [
+   40.7396,
+   -74.0089
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "art-institute-of-chicago-modern-wing",
+  "n": 1111,
+  "name": "Art Institute of Chicago, Modern Wing",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Chicago, US",
+  "year": "2009",
+  "y": 2009,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Detail"
+  ],
+  "study": "A floating 'flying carpet' of aluminium blades filters north light into the top-floor galleries.",
+  "qid": "Q239303",
+  "commons": "Category:Art Institute of Chicago",
+  "lead": "File:Art Institute of Chicago (51575570710).jpg",
+  "coords": [
+   41.87944,
+   -87.62389
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "san-francisco-museum-of-modern-art",
+  "n": 1112,
+  "name": "San Francisco Museum of Modern Art",
+  "by": "Mario Botta",
+  "place": "San Francisco, US",
+  "year": "1995",
+  "y": 1995,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Geometry"
+  ],
+  "study": "A stepped brick-clad block split by a striped stone cylinder that lights the atrium from above.",
+  "qid": "Q913672",
+  "commons": "Category:San Francisco Museum of Modern Art",
+  "lead": "File:San Francisco Museum of Modern Art.jpg",
+  "coords": [
+   37.78572,
+   -122.40105
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-folkwang",
+  "n": 1113,
+  "name": "Museum Folkwang",
+  "by": "David Chipperfield Architects",
+  "place": "Essen, DE",
+  "year": "2010",
+  "y": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Facade as skin"
+  ],
+  "study": "Pavilions and courtyards linked by glazed walkways, clad in translucent panels of recycled glass.",
+  "qid": "Q125634",
+  "commons": "Category:Museum Folkwang",
+  "lead": "File:Frontansicht Museum Folkwang.JPG",
+  "coords": [
+   51.4417,
+   7.00417
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bellesguard",
+  "n": 1114,
+  "name": "Bellesguard",
+  "by": "Antoni Gaudí",
+  "place": "Barcelona, ES",
+  "year": "1909",
+  "y": 1909,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Brick",
+   "Vault"
+  ],
+  "study": "A slate-clad neo-Gothic villa with brick-vaulted attics and a tower topped by a cross.",
+  "qid": "Q815935",
+  "commons": "Category:Bellesguard",
+  "lead": "File:Torre Bellesguard (4).jpg",
+  "coords": [
+   41.40956,
+   2.12686
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "de-young-museum",
+  "n": 1115,
+  "name": "de Young Museum",
+  "by": "Herzog & de Meuron",
+  "place": "San Francisco, US",
+  "year": "2005",
+  "y": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "study": "A perforated, dimpled copper skin wraps low galleries and a twisting tower in Golden Gate Park.",
+  "qid": "Q1470276",
+  "commons": "Category:De Young Museum",
+  "lead": "File:M. H. de Young Memorial Museum.jpg",
+  "coords": [
+   37.77147,
+   -122.46868
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "high-museum-of-art",
+  "n": 1116,
+  "name": "High Museum of Art",
+  "by": "Richard Meier",
+  "place": "Atlanta, US",
+  "year": "1983",
+  "y": 1983,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Light from above",
+   "Circulation",
+   "Geometry"
+  ],
+  "study": "White enamel-panelled galleries wrap a quarter-circle atrium lit from above and climbed by ramps.",
+  "qid": "Q953345",
+  "commons": "Category:High Museum of Art",
+  "lead": "File:10 The High.jpg",
+  "coords": [
+   33.79005,
+   -84.38557
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bergisel-ski-jump",
+  "n": 1117,
+  "name": "Bergisel Ski Jump",
+  "by": "Zaha Hadid Architects",
+  "place": "Innsbruck, AT",
+  "year": "2002",
+  "y": 2002,
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Structure as expression"
+  ],
+  "study": "A concrete tower carries a café and ramp that merge into one continuous, flowing form.",
+  "qid": "Q672833",
+  "commons": "Category:Bergiselschanze",
+  "lead": "File:Bergisel-N.jpg",
+  "coords": [
+   47.24889,
+   11.39917
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "sony-center",
+  "n": 1118,
+  "name": "Sony Center",
+  "by": "Helmut Jahn",
+  "place": "Berlin, DE",
+  "year": "2000",
+  "y": 2000,
+  "type": "Public space",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Tensile structure",
+   "Public space",
+   "Steel & glass"
+  ],
+  "study": "Glass and steel buildings ring an oval forum under a tent-like roof of fabric and glass.",
+  "qid": "Q641108",
+  "commons": "Category:Sony Center",
+  "lead": "File:SonyCenterAtNight.jpg",
+  "coords": [
+   52.51,
+   13.37361
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "guthrie-theater",
+  "n": 1119,
+  "name": "Guthrie Theater",
+  "by": "Ateliers Jean Nouvel",
+  "place": "Minneapolis, US",
+  "year": "2006",
+  "y": 2006,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Cantilever",
+   "Colour",
+   "Facade as skin"
+  ],
+  "study": "Dark blue volumes with a long cantilevered bridge reaching toward the Mississippi.",
+  "qid": "Q2027239",
+  "commons": "Category:Guthrie Theater",
+  "lead": "File:2023-0902-Guthrie Theater-Sunset.jpg",
+  "coords": [
+   44.9781,
+   -93.2553
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "m",
+  "n": 1120,
+  "name": "M+",
+  "by": "Herzog & de Meuron",
+  "place": "Hong Kong, HK",
+  "year": "2021",
+  "y": 2021,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Public space"
+  ],
+  "study": "A slim tower clad in green terracotta sits on a broad podium cut open to show a rail tunnel below.",
+  "qid": "Q10851500",
+  "commons": "Category:M+",
+  "lead": "File:WKCD M+, 2021.11.jpg",
+  "coords": [
+   22.30096,
+   114.15964
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "rock-and-roll-hall-of-fame",
+  "n": 1121,
+  "name": "Rock and Roll Hall of Fame",
+  "by": "I. M. Pei",
+  "place": "Cleveland, US",
+  "year": "1995",
+  "y": 1995,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "study": "A glass tent-like atrium leans on a white tower with cantilevered drum and box volumes over the lake.",
+  "qid": "Q179191",
+  "commons": "Category:Rock and Roll Hall of Fame",
+  "lead": "File:Rock-and-roll-hall-of-fame-sunset.jpg",
+  "coords": [
+   41.50861,
+   -81.69556
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-modern-art",
+  "n": 1122,
+  "name": "Museum of Modern Art",
+  "by": "Yoshio Taniguchi",
+  "place": "New York, US",
+  "year": "2004",
+  "y": 2004,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Double height",
+   "Light & shadow",
+   "Courtyard"
+  ],
+  "study": "Galleries layered around a tall atrium look onto the sculpture garden through refined glass and stone.",
+  "qid": "Q188740",
+  "commons": "Category:Museum of Modern Art (New York City)",
+  "lead": "File:MoMa NY USA 1.jpg",
+  "coords": [
+   40.76167,
+   -73.9775
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "art-gallery-of-ontario",
+  "n": 1123,
+  "name": "Art Gallery of Ontario",
+  "by": "Frank Gehry",
+  "place": "Toronto, CA",
+  "year": "2008",
+  "y": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Facade as skin"
+  ],
+  "study": "A long curved glass-and-Douglas-fir galleria wraps the old museum; a sculptural timber stair spirals up.",
+  "qid": "Q670250",
+  "commons": "Category:Art Gallery of Ontario",
+  "lead": "File:Art Gallery of Ontario entrance.jpg",
+  "coords": [
+   43.65361,
+   -79.39278
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pergamon-museum",
+  "n": 1124,
+  "name": "Pergamon Museum",
+  "by": "Alfred Messel and Ludwig Hoffmann",
+  "place": "Berlin, DE",
+  "year": "1930",
+  "y": 1930,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Axis"
+  ],
+  "study": "A three-winged neoclassical block built around reconstructed ancient monuments like the Pergamon Altar.",
+  "qid": "Q157298",
+  "commons": "Category:Pergamonmuseum",
+  "lead": "File:Pergamonmuseum Front.jpg",
+  "coords": [
+   52.521,
+   13.396
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-pop-culture",
+  "n": 1125,
+  "name": "Museum of Pop Culture",
+  "by": "Frank Gehry",
+  "place": "Seattle, US",
+  "year": "2000",
+  "y": 2000,
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Digital fabrication"
+  ],
+  "study": "Colourful blobs of painted aluminium and stainless steel shingles flow around the passing monorail.",
+  "qid": "Q1384356",
+  "commons": "Category:Museum of Pop Culture",
+  "lead": "File:Aerial view of EMPSFM.jpg",
+  "coords": [
+   47.6215,
+   -122.3486
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-morgan-library-museum",
+  "n": 1126,
+  "name": "The Morgan Library & Museum",
+  "by": "McKim, Mead & White",
+  "place": "New York, US",
+  "year": "1906",
+  "y": 1906,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Light from above"
+  ],
+  "study": "Marble Renaissance-style library, now joined to its neighbours by Renzo Piano's glass-roofed court.",
+  "qid": "Q1478423",
+  "commons": "Category:Morgan Library & Museum",
+  "lead": "File:Morgan Library & Museum, New York 2017 02.jpg",
+  "coords": [
+   40.7488,
+   -73.98156
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "athens-olympic-stadium-roof",
+  "n": 1127,
+  "name": "Athens Olympic Stadium roof",
+  "by": "Santiago Calatrava",
+  "place": "Athens, GR",
+  "year": "2004",
+  "y": 2004,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Steel & glass"
+  ],
+  "study": "Two giant tubular steel arches hang a translucent roof over an existing stadium bowl.",
+  "qid": "Q387989",
+  "commons": "Category:Athens Olympic Sports Complex",
+  "lead": "File:Athens, Greece (7651367324).jpg",
+  "coords": [
+   38.03861,
+   23.78583
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "saint-louis-art-museum-east-building",
+  "n": 1128,
+  "name": "Saint Louis Art Museum, East Building",
+  "by": "David Chipperfield Architects",
+  "place": "St. Louis, US",
+  "year": "2013",
+  "y": 2013,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Geometry"
+  ],
+  "study": "Low pavilion of dark polished concrete with a deep coffered ceiling that admits daylight.",
+  "qid": "Q1760539",
+  "commons": "Category:Saint Louis Art Museum",
+  "lead": "File:St louis Art Museum.jpg",
+  "coords": [
+   38.63931,
+   -90.29449
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kurashiki-city-art-museum-former-city-hall",
+  "n": 1129,
+  "name": "Kurashiki City Art Museum (former City Hall)",
+  "by": "Kenzō Tange",
+  "place": "Kurashiki, JP",
+  "year": "1960",
+  "y": 1960,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "region": "East Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Adaptive reuse",
+   "Monumentality"
+  ],
+  "study": "Heavy concrete beams stacked like a log storehouse; Tange's former city hall now holds galleries.",
+  "qid": "Q11386746",
+  "commons": "Category:Kurashiki City Art Museum",
+  "lead": "File:Kurashiki City Art Museam.JPG",
+  "coords": [
+   34.59469,
+   133.76894
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "neue-pinakothek",
+  "n": 1130,
+  "name": "Neue Pinakothek",
+  "by": "Alexander von Branca",
+  "place": "Munich, DE",
+  "year": "1981",
+  "y": 1981,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Light from above",
+   "Stone",
+   "Monumentality"
+  ],
+  "study": "Low stone-clad gallery block of arched bays, with paintings lit by daylight from above.",
+  "qid": "Q170152",
+  "commons": "Category:Neue Pinakothek",
+  "lead": "File:Ausstellungsraum Neue Pinakothek.JPG",
+  "coords": [
+   48.14989,
+   11.57111
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hearst-castle",
+  "n": 1131,
+  "name": "Hearst Castle",
+  "by": "Julia Morgan",
+  "place": "San Simeon, US",
+  "year": "1947",
+  "y": 1947,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Monumentality"
+  ],
+  "study": "Spanish Revival main house with twin bell towers above terraces, pools and guest cottages.",
+  "qid": "Q378143",
+  "commons": "Category:Hearst Castle",
+  "lead": "File:Hearst Castle Casa Grande1.jpg",
+  "coords": [
+   35.68528,
+   -121.16778
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "arc-de-triomf",
+  "n": 1132,
+  "name": "Arc de Triomf",
+  "by": "Josep Vilaseca i Casanovas",
+  "place": "Barcelona, ES",
+  "year": "1888",
+  "y": 1888,
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Brick",
+   "Axis",
+   "Detail"
+  ],
+  "study": "Red-brick triumphal arch in Mudéjar style, with sculpted friezes, at the head of a wide promenade.",
+  "qid": "Q631075",
+  "commons": "Category:Arc de Triomf de Barcelona",
+  "lead": "File:Arc de Triomf Barcelona.jpg",
+  "coords": [
+   41.39111,
+   2.18056
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lyon-museum-of-contemporary-art",
+  "n": 1133,
+  "name": "Lyon Museum of Contemporary Art",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Lyon, FR",
+  "year": "1995",
+  "y": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Free plan"
+  ],
+  "study": "Flexible galleries built behind the kept 1930s facade of the old exhibition hall in the Cité Internationale.",
+  "qid": "Q8330",
+  "commons": "Category:Musée d'art contemporain de Lyon",
+  "lead": "File:General view - Parc de la Tête d'Or - DSC05248.jpg",
+  "coords": [
+   45.78417,
+   4.8525
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mikhailovsky-palace-russian-museum",
+  "n": 1134,
+  "name": "Mikhailovsky Palace (Russian Museum)",
+  "by": "Carlo Rossi",
+  "place": "Saint Petersburg, RU",
+  "year": "1825",
+  "y": 1825,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "study": "Neoclassical palace with a Corinthian portico behind a forecourt, set on the square Rossi planned with it.",
+  "qid": "Q211043",
+  "commons": "Category:Russian Museum",
+  "lead": "File:Spb 06-2012 MichaelPalace.jpg",
+  "coords": [
+   59.93859,
+   30.33222
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "state-historical-museum",
+  "n": 1135,
+  "name": "State Historical Museum",
+  "by": "Vladimir Sherwood",
+  "place": "Moscow, RU",
+  "year": "1883",
+  "y": 1883,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Public space"
+  ],
+  "study": "Red brick Russian Revival museum with tent-roofed towers closing the north end of Red Square.",
+  "qid": "Q1140429",
+  "commons": "Category:Moscow State Historical Museum",
+  "lead": "File:Moscow July 2011-1a.jpg",
+  "coords": [
+   55.755,
+   37.61806
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "philadelphia-museum-of-art",
+  "n": 1136,
+  "name": "Philadelphia Museum of Art",
+  "by": "Horace Trumbauer; Zantzinger, Borie and Medary",
+  "place": "Philadelphia, US",
+  "year": "1928",
+  "y": 1928,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Colour"
+  ],
+  "study": "Neoclassical temple wings atop grand steps on a hill, with coloured glazed terracotta in the pediments.",
+  "qid": "Q510324",
+  "commons": "Category:Philadelphia Art Museum",
+  "lead": "File:Philadelphia Museum of Art, main building.jpg",
+  "coords": [
+   39.96583,
+   -75.18139
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "vienna-city-hall",
+  "n": 1137,
+  "name": "Vienna City Hall",
+  "by": "Friedrich von Schmidt",
+  "place": "Vienna, AT",
+  "year": "1883",
+  "y": 1883,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Stone"
+  ],
+  "study": "Neo-Gothic town hall with a tall central tower over arcaded courtyards, facing a park on the Ringstrasse.",
+  "qid": "Q686468",
+  "commons": "Category:Vienna City Hall",
+  "lead": "File:Wien Rathaus hochauflösend.jpg",
+  "coords": [
+   48.2108,
+   16.3574
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-contemporary-art-chicago",
+  "n": 1138,
+  "name": "Museum of Contemporary Art Chicago",
+  "by": "Josef Paul Kleihues",
+  "place": "Chicago, US",
+  "year": "1996",
+  "y": 1996,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Axis",
+   "Geometry",
+   "Vault"
+  ],
+  "study": "A gridded block of cast aluminium on a limestone base above a broad stair, with barrel-vaulted top galleries.",
+  "qid": "Q118142",
+  "commons": "Category:Museum of Contemporary Art, Chicago",
+  "lead": "File:MCA Chicago 060930.jpg",
+  "coords": [
+   41.89721,
+   -87.62099
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "asian-art-museum-of-san-francisco",
+  "n": 1139,
+  "name": "Asian Art Museum of San Francisco",
+  "by": "Gae Aulenti",
+  "place": "San Francisco, US",
+  "year": "2003",
+  "y": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Circulation"
+  ],
+  "study": "A Beaux-Arts library converted into galleries, its grand stair kept and a top-lit court added.",
+  "qid": "Q727277",
+  "commons": "Category:Asian Art Museum (San Francisco)",
+  "lead": "File:Terracotta Warriors Exhibition San Francisco 2013.jpg",
+  "coords": [
+   37.78016,
+   -122.4162
+  ],
+  "hotlink": true
  }
 ];
