@@ -1,0 +1,112 @@
+Pritzker winners and their buildings, from Wikidata. Made by tools/pritzker.py.
+
+Winners: 59
+All buildings credited to them or their firms: 1678
+  with a free photo or Commons folder: 1323
+  with coordinates: 1586
+  already on the wall: 188
+Well known (Wikipedia in 6+ languages): 537
+  with a free photo or Commons folder: 529
+  already on the wall: 171
+  new, with a photo: 358
+
+How many buildings have each fact (all / well known):
+  height       182 / 124
+  floors       314 / 166
+  area         105 / 53
+  materials     96 / 47
+  engineer     108 / 76
+  awards        90 / 45
+  heritage     217 / 86
+  state          2 / 1
+  coords      1586 / 534
+  image       1278 / 520
+  commons     1181 / 523
+
+What the items are (top 25):
+    208  building
+    138  skyscraper
+    125  art museum
+     65  office building
+     62  single-family detached home
+     47  built structure
+     43  museum
+     38  tower block
+     35  church building
+     28  building complex
+     25  theatre building
+     23  hotel
+     22  residential building
+     20  concert hall
+     20  metro station
+     19  university building
+     17  cultural center
+     17  convention center
+     17  housing estate
+     16  shopping center
+     14  architectural ensemble
+     13  railway station
+     13  house
+     13  multifamily residential
+     12  museum building
+
+Per winner: year | name | all | with photo | well known | already on wall | firms found
+1979 | Philip Johnson | 53 | 49 | 25 | 7 | Johnson Burgee Architects
+1980 | Luis Barragán | 8 | 4 | 1 | 0 | -
+1981 | James Stirling | 12 | 10 | 2 | 2 | -
+1982 | Kevin Roche | 33 | 31 | 14 | 3 | Roche-Dinkeloo
+1983 | I. M. Pei | 96 | 88 | 42 | 8 | Pei Cobb Freed & Partners
+1984 | Richard Meier | 52 | 29 | 10 | 2 | Meier Partners
+1985 | Hans Hollein | 12 | 9 | 3 | 1 | -
+1986 | Gottfried Böhm | 59 | 57 | 2 | 1 | -
+1987 | Kenzō Tange | 50 | 48 | 20 | 4 | -
+1988 | Gordon Bunshaft | 15 | 15 | 6 | 2 | -
+1988 | Oscar Niemeyer | 144 | 123 | 44 | 12 | Instituto Paula Saldanha
+1989 | Frank Gehry | 70 | 56 | 32 | 12 | -
+1990 | Aldo Rossi | 21 | 15 | 1 | 1 | -
+1991 | Robert Venturi | 23 | 8 | 2 | 1 | -
+1992 | Álvaro Siza Vieira | 62 | 32 | 3 | 4 | -
+1993 | Fumihiko Maki | 26 | 23 | 10 | 3 | -
+1994 | Christian de Portzamparc | 24 | 18 | 9 | 3 | -
+1995 | Tadao Ando | 67 | 51 | 18 | 11 | Tadao Ando Architects & Associates
+1996 | Rafael Moneo | 34 | 33 | 13 | 5 | -
+1997 | Sverre Fehn | 10 | 9 | 0 | 0 | -
+1998 | Renzo Piano | 80 | 71 | 39 | 10 | Renzo Piano Building Workshop
+1999 | Norman Foster | 159 | 127 | 78 | 16 | Foster and Partners, Team 4
+2000 | Rem Koolhaas | 67 | 46 | 13 | 8 | Office for Metropolitan Architecture
+2001 | Herzog & de Meuron | 73 | 38 | 16 | 7 | -
+2001 | Jacques Herzog | 76 | 41 | 18 | 7 | Herzog & de Meuron
+2001 | Pierre de Meuron | 75 | 40 | 18 | 7 | Herzog & de Meuron
+2002 | Glenn Murcutt | 0 | 0 | 0 | 0 | -
+2003 | Jørn Utzon | 17 | 15 | 6 | 7 | -
+2004 | Zaha Hadid | 77 | 62 | 31 | 10 | The Zaha Hadid Foundation, Zaha Hadid Architects
+2005 | Thom Mayne | 8 | 6 | 2 | 0 | -
+2006 | Paulo Mendes da Rocha | 5 | 5 | 2 | 0 | -
+2007 | Richard Rogers | 30 | 25 | 13 | 3 | Q138703468, Team 4
+2008 | Jean Nouvel | 61 | 46 | 22 | 8 | -
+2009 | Peter Zumthor | 14 | 4 | 2 | 1 | -
+2010 | Kazuyo Sejima | 25 | 20 | 6 | 5 | Sejima & Associates, Kazuyo
+2010 | Ryue Nishizawa | 17 | 13 | 5 | 6 | -
+2010 | SANAA | 21 | 16 | 4 | 2 | -
+2011 | Eduardo Souto de Moura | 18 | 12 | 2 | 2 | -
+2012 | Wang Shu | 2 | 2 | 1 | 0 | -
+2013 | Toyo Ito | 37 | 30 | 10 | 6 | Toyo Ito & Associates, Architects
+2014 | Shigeru Ban | 17 | 16 | 6 | 5 | -
+2015 | Frei Otto | 12 | 11 | 1 | 1 | -
+2016 | Alejandro Alavena | 2 | 1 | 0 | 0 | -
+2017 | Carme Pigem | 7 | 1 | 0 | 0 | -
+2017 | RCR Arquitectes | 10 | 5 | 1 | 1 | RCR Bunka
+2017 | Rafael Aranda | 7 | 1 | 0 | 0 | -
+2017 | Ramón Vilalta | 7 | 1 | 0 | 0 | -
+2018 | Balkrishna Doshi | 3 | 2 | 1 | 2 | -
+2019 | Arata Isozaki | 44 | 39 | 16 | 4 | -
+2020 | Shelley McNamara | 4 | 3 | 2 | 2 | Grafton Architects
+2020 | Yvonne Farrell | 4 | 3 | 2 | 2 | Grafton Architects
+2021 | Anne Lacaton | 2 | 1 | 0 | 0 | Lacaton & Vassal
+2021 | Jean-Philippe Vassal | 3 | 2 | 1 | 0 | Lacaton & Vassal
+2021 | Lacaton & Vassal | 1 | 0 | 0 | 0 | -
+2022 | Diébédo Francis Kéré | 3 | 2 | 0 | 0 | -
+2023 | David Chipperfield | 28 | 19 | 8 | 4 | David Chipperfield Architects
+2024 | Riken Yamamoto | 5 | 4 | 1 | 1 | Riken Yamamoto Architects
+2025 | Liu Jiakun | 0 | 0 | 0 | 0 | -
+2026 | Smiljan Radic | 1 | 1 | 0 | 0 | -
