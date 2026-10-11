@@ -1,2 +1,2 @@
-python -u tools/resolve_list.py
-Retry the unresolved additions with looser place matching.
+python -u tools/build_pages.py
+Rebuild building pages after replacing the Millau Viaduct lead photo (the old lead showed a church in Peyre).

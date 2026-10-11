@@ -1,0 +1,34 @@
+# Held back by merge_batch.py, approved by the owner on 11 October 2026 with the curated years:
+# Wikidata gives the institution's year, not the building's (or lists Hong Kong under China).
+Q130502  # Palace of Justice (Punjab and Haryana High Court), 1955
+Q51112  # Galleria Vittorio Emanuele II, 1877
+Q639791  # Whitney Museum of American Art, 2015
+Q239303  # Art Institute of Chicago, Modern Wing, 2009
+Q913672  # San Francisco Museum of Modern Art, 1995
+Q125634  # Museum Folkwang, 2010
+Q815935  # Bellesguard, 1909
+Q1470276  # de Young Museum, 2005
+Q953345  # High Museum of Art, 1983
+Q672833  # Bergisel Ski Jump, 2002
+Q641108  # Sony Center, 2000
+Q2027239  # Guthrie Theater, 2006
+Q10851500  # M+, 2021
+Q179191  # Rock and Roll Hall of Fame, 1995
+Q188740  # Museum of Modern Art, 2004
+Q670250  # Art Gallery of Ontario, 2008
+Q157298  # Pergamon Museum, 1930
+Q1384356  # Museum of Pop Culture, 2000
+Q1478423  # The Morgan Library & Museum, 1906
+Q387989  # Athens Olympic Stadium roof, 2004
+Q1760539  # Saint Louis Art Museum, East Building, 2013
+Q11386746  # Kurashiki City Art Museum (former City Hall), 1960
+Q170152  # Neue Pinakothek, 1981
+Q378143  # Hearst Castle, 1947
+Q631075  # Arc de Triomf, 1888
+Q8330  # Lyon Museum of Contemporary Art, 1995
+Q211043  # Mikhailovsky Palace (Russian Museum), 1825
+Q1140429  # State Historical Museum, 1883
+Q510324  # Philadelphia Museum of Art, 1928
+Q686468  # Vienna City Hall, 1883
+Q118142  # Museum of Contemporary Art Chicago, 1996
+Q727277  # Asian Art Museum of San Francisco, 2003

@@ -35,3 +35,6 @@ Vietnam Veterans Memorial | Q713628
 Winnipeg Art Gallery | Q3813414
 Yale University Art Gallery | Q1568434
 İstanbul Manifaturacılar Çarşısı | Q6089529
+San Francisco Federal Building | Q7414007
+The Index | Q1264855
+Palace of Justice (Punjab and Haryana High Court) | Q130502

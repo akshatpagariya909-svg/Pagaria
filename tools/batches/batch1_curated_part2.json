@@ -1,0 +1,1442 @@
+[
+ {
+  "qid": "Q3018029",
+  "keep": 2,
+  "name": "David H. Koch Theater",
+  "by": "Philip Johnson",
+  "city": "New York",
+  "cc": "US",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Travertine colonnade on Lincoln Center plaza fronts a gilded promenade hall ringed by balconies.",
+  "note": ""
+ },
+ {
+  "qid": "Q11283175",
+  "keep": 1,
+  "name": "Asahi Group Oyamazaki Villa Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Oyamazaki",
+  "cc": "JP",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Adaptive reuse"
+  ],
+  "features": "A buried concrete cylinder gallery is reached by a stair from an older English-style hillside villa.",
+  "note": "Credited to Tadao Ando, who added the underground gallery in 1996; the villa itself was built for Shotaro Kaga."
+ },
+ {
+  "qid": "Q19675",
+  "keep": 0,
+  "name": "Louvre Museum",
+  "by": "Pierre Lescot",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "An institution spanning centuries of building; the key modern work is I. M. Pei's pyramid, a separate entry."
+ },
+ {
+  "qid": "Q200959",
+  "keep": 1,
+  "name": "Carnegie Hall",
+  "by": "William Burnet Tuthill",
+  "city": "New York",
+  "cc": "US",
+  "year": "1891",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Renaissance-style brick and terracotta hall with a tiered main auditorium famed for its acoustics.",
+  "note": ""
+ },
+ {
+  "qid": "Q4872",
+  "keep": 0,
+  "name": "Pushkin Museum of Fine Arts",
+  "by": "Roman Klein",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "1912",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Light from above"
+  ],
+  "features": "",
+  "note": "Neoclassical museum of limited design interest for students."
+ },
+ {
+  "qid": "Q820892",
+  "keep": 1,
+  "name": "Petit Palais",
+  "by": "Charles Girault",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1900",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "Beaux-Arts palace on a trapezoid plan around a semicircular garden court, with top-lit galleries.",
+  "note": ""
+ },
+ {
+  "qid": "Q218305",
+  "keep": 0,
+  "name": "40 Wall Street",
+  "by": "H. Craig Severance",
+  "city": "New York",
+  "cc": "US",
+  "year": "1930",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Detail"
+  ],
+  "features": "",
+  "note": "Generic office skyscraper with little design interest for students."
+ },
+ {
+  "qid": "Q1351208",
+  "keep": 1,
+  "name": "4 World Trade Center",
+  "by": "Fumihiko Maki",
+  "city": "New York",
+  "cc": "US",
+  "year": "2013",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Minimal flush glass tower whose parallelogram lower floors become a trapezoid plan higher up.",
+  "note": "Year corrected to completion (2013)."
+ },
+ {
+  "qid": "Q49135",
+  "keep": 1,
+  "name": "Isabella Stewart Gardner Museum",
+  "by": "Willard T. Sears",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1903",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Planting"
+  ],
+  "features": "Venetian-style palazzo of galleries wrapped around a glass-roofed garden courtyard.",
+  "note": ""
+ },
+ {
+  "qid": "Q147286",
+  "keep": 1,
+  "name": "Kyoto National Museum",
+  "by": "Katayama Tokuma",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": "1895",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Brick Meiji-era hall in French baroque style, an early Western-style museum in Japan.",
+  "note": "Year is the Katayama building's completion (opened 1897)."
+ },
+ {
+  "qid": "Q1985903",
+  "keep": 1,
+  "name": "Evolution Tower",
+  "by": "RMJM",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Two tower strands twist around each other as each floor plate rotates slightly on the one below.",
+  "note": ""
+ },
+ {
+  "qid": "Q798766",
+  "keep": 1,
+  "name": "Kobe Port Tower",
+  "by": "Nikken Sekkei",
+  "city": "Kobe",
+  "cc": "JP",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Red steel-pipe lattice tower in a hyperboloid hourglass form standing on the harbour.",
+  "note": ""
+ },
+ {
+  "qid": "Q1264855",
+  "keep": 1,
+  "name": "The Index",
+  "by": "Foster + Partners",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Facade as skin"
+  ],
+  "features": "Slim slab tower with service cores at its ends shielding low sun, and shaded long facades.",
+  "note": ""
+ },
+ {
+  "qid": "Q4991927",
+  "keep": 2,
+  "name": "Oscar Niemeyer Museum",
+  "by": "Oscar Niemeyer",
+  "city": "Curitiba",
+  "cc": "BR",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Exposed concrete"
+  ],
+  "features": "A raised eye-shaped gallery on a single yellow pier above a pool, beside an earlier long concrete block.",
+  "note": ""
+ },
+ {
+  "qid": "Q225731",
+  "keep": 2,
+  "name": "330 North Wabash",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Dark curtain wall with applied steel I-section mullions above a recessed glass-walled lobby by the river.",
+  "note": ""
+ },
+ {
+  "qid": "Q697572",
+  "keep": 2,
+  "name": "Haas House",
+  "by": "Hans Hollein",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1990",
+  "type": "Workplace",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Curved glass and stone facade with a projecting cylinder mirrors St Stephen's Cathedral across the square.",
+  "note": ""
+ },
+ {
+  "qid": "Q3180096",
+  "keep": 2,
+  "name": "Jay Pritzker Pavilion",
+  "by": "Frank Gehry",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "2004",
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Stainless steel ribbons burst around the stage while a steel pipe trellis carries sound over the lawn.",
+  "note": ""
+ },
+ {
+  "qid": "Q663110",
+  "keep": 2,
+  "name": "Immeuble Clarté",
+  "by": "Le Corbusier",
+  "city": "Geneva",
+  "cc": "CH",
+  "year": "1932",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Prefabrication",
+   "Double height"
+  ],
+  "features": "Dry-assembled steel-framed flats with full-height glazing, duplexes and glass-block stair landings.",
+  "note": ""
+ },
+ {
+  "qid": "Q1370993",
+  "keep": 2,
+  "name": "Hungerburgbahn stations",
+  "by": "Zaha Hadid Architects",
+  "city": "Innsbruck",
+  "cc": "AT",
+  "year": "2007",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Digital fabrication",
+   "Landscape"
+  ],
+  "features": "Double-curved glass shells float over concrete plinths at each funicular station like frozen ice.",
+  "note": ""
+ },
+ {
+  "qid": "Q2211847",
+  "keep": 2,
+  "name": "Martin Luther King Jr. Memorial Library",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Washington",
+  "cc": "US",
+  "year": "1972",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Free plan",
+   "Detail"
+  ],
+  "features": "Black steel and glass box over a recessed, fully glazed ground floor with a column-lined loggia.",
+  "note": ""
+ },
+ {
+  "qid": "Q6452137",
+  "keep": 1,
+  "name": "Kyoto Concert Hall",
+  "by": "Arata Isozaki",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": "1995",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Circulation",
+   "Geometry",
+   "Promenade"
+  ],
+  "features": "A cylindrical entrance hall with a slow spiral ramp leads visitors up to the main concert hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q632682",
+  "keep": 0,
+  "name": "Brooklyn Museum",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": "1897",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "Unfinished Beaux-Arts museum of limited design interest for this list."
+ },
+ {
+  "qid": "Q328505",
+  "keep": 1,
+  "name": "Bank of America Tower",
+  "by": "Cookfox",
+  "city": "New York",
+  "cc": "US",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Faceted crystalline glass tower with angled planes and a spire, planned around green-building systems.",
+  "note": ""
+ },
+ {
+  "qid": "Q656743",
+  "keep": 1,
+  "name": "Kingdom Centre",
+  "by": "Ellerbe Becket with Omrania",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2002",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Tapering tower crowned by an open parabolic arch with a skybridge spanning its top.",
+  "note": "Year corrected to completion (2002); Omrania added as local architect."
+ },
+ {
+  "qid": "Q285531",
+  "keep": 1,
+  "name": "Al Janoub Stadium",
+  "by": "Zaha Hadid Architects",
+  "city": "Al Wakrah",
+  "cc": "QA",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Climate response",
+   "Parametric"
+  ],
+  "features": "Curved ribbed shell inspired by dhow hulls, with a retractable roof over a cooled seating bowl.",
+  "note": ""
+ },
+ {
+  "qid": "Q3907993",
+  "keep": 0,
+  "name": "Polcevera Viaduct",
+  "by": "Riccardo Morandi",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "1967",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Tensile structure"
+  ],
+  "features": "",
+  "note": "Collapsed in 2018 and was demolished; it no longer stands."
+ },
+ {
+  "qid": "Q756433",
+  "keep": 1,
+  "name": "State Farm Stadium",
+  "by": "Peter Eisenman with HOK Sport",
+  "city": "Glendale",
+  "cc": "US",
+  "year": "2006",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Ribbed metal and glass skin wraps a bowl with a retractable roof and a pitch that rolls outdoors.",
+  "note": ""
+ },
+ {
+  "qid": "Q861252",
+  "keep": 0,
+  "name": "Museu Nacional d'Art de Catalunya",
+  "by": "Eugenio Cendoya and Enric Catà",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1929",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "",
+  "note": "Expo palace of limited design interest; year given is not the building's."
+ },
+ {
+  "qid": "Q753437",
+  "keep": 2,
+  "name": "Radio City Music Hall",
+  "by": "Edward Durell Stone and Donald Deskey",
+  "city": "New York",
+  "cc": "US",
+  "year": "1932",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Auditorium ceiling of nested semicircular arches radiates from the stage like a setting sun.",
+  "note": ""
+ },
+ {
+  "qid": "Q2023928",
+  "keep": 1,
+  "name": "One57",
+  "by": "Christian de Portzamparc",
+  "city": "New York",
+  "cc": "US",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Cascading curved roofs and two-tone vertically striped glass break down a slender tower.",
+  "note": ""
+ },
+ {
+  "qid": "Q637834",
+  "keep": 1,
+  "name": "Deutsche Oper Berlin",
+  "by": "Fritz Bornemann",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Exposed concrete"
+  ],
+  "features": "A near-windowless street front of pebble-faced concrete panels over a glazed foyer.",
+  "note": ""
+ },
+ {
+  "qid": "Q1032842",
+  "keep": 2,
+  "name": "Canary Wharf Underground Station",
+  "by": "Foster + Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Light from above",
+   "Exposed concrete",
+   "Section"
+  ],
+  "features": "Glass canopies pour daylight into a vast concrete hall dug into a former dock.",
+  "note": ""
+ },
+ {
+  "qid": "Q325712",
+  "keep": 3,
+  "name": "Milwaukee Art Museum, Quadracci Pavilion",
+  "by": "Santiago Calatrava",
+  "city": "Milwaukee",
+  "cc": "US",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brise-soleil",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "A winged sunscreen of steel fins opens and folds above a glass reception hall on the lakefront.",
+  "note": "Year corrected from the museum's founding to Calatrava's pavilion (2001)."
+ },
+ {
+  "qid": "Q250195",
+  "keep": 2,
+  "name": "Pinakothek der Moderne",
+  "by": "Stephan Braunfels",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Axis",
+   "Circulation"
+  ],
+  "features": "A central rotunda under a glazed dome links four museums along top-lit gallery axes.",
+  "note": ""
+ },
+ {
+  "qid": "Q3533060",
+  "keep": 1,
+  "name": "Tour Duo",
+  "by": "Ateliers Jean Nouvel",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2021",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Two leaning glass towers of different heights share a base beside the railway tracks.",
+  "note": ""
+ },
+ {
+  "qid": "Q2462521",
+  "keep": 2,
+  "name": "Fountain Place",
+  "by": "Henry N. Cobb (Pei Cobb Freed & Partners)",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Steel & glass"
+  ],
+  "features": "Faceted green-glass prism tower over a Dan Kiley water garden of cypress trees and fountains.",
+  "note": ""
+ },
+ {
+  "qid": "Q5263501",
+  "keep": 1,
+  "name": "Des Moines Art Center",
+  "by": "Eliel Saarinen, I. M. Pei and Richard Meier",
+  "city": "Des Moines",
+  "cc": "US",
+  "year": "1948",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Saarinen's low stone wings around a court gain a Pei sculpture wing and a white Meier pavilion.",
+  "note": "Credit corrected: the 1948 building is by Eliel Saarinen; Pei (1968) and Meier (1985) added wings."
+ },
+ {
+  "qid": "Q7414007",
+  "keep": 2,
+  "name": "San Francisco Federal Building",
+  "by": "Morphosis",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "2007",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "Narrow slab with a perforated steel sunscreen, natural ventilation and skip-stop lifts.",
+  "note": ""
+ },
+ {
+  "qid": "Q2790093",
+  "keep": 1,
+  "name": "OCBC Centre",
+  "by": "I. M. Pei",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1976",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Section"
+  ],
+  "features": "Concrete slab tower whose office floors hang in stacked blocks between two half-cylinder cores.",
+  "note": ""
+ },
+ {
+  "qid": "Q160236",
+  "keep": 0,
+  "name": "Metropolitan Museum of Art",
+  "by": "Richard Morris Hunt",
+  "city": "New York",
+  "cc": "US",
+  "year": "1902",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "",
+  "note": "An institution of many buildings by many architects, not one building."
+ },
+ {
+  "qid": "Q841506",
+  "keep": 0,
+  "name": "Galleria Borghese",
+  "by": "Flaminio Ponzio",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "",
+  "note": "Year given is the museum's, not the villa's; baroque villa of limited relevance here."
+ },
+ {
+  "qid": "Q270066",
+  "keep": 0,
+  "name": "7 World Trade Center",
+  "by": "SOM (David Childs)",
+  "city": "New York",
+  "cc": "US",
+  "year": "2006",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "",
+  "note": "Generic office tower with little design interest for students."
+ },
+ {
+  "qid": "Q688704",
+  "keep": 1,
+  "name": "Natural History Museum, Vienna",
+  "by": "Gottfried Semper and Carl von Hasenauer",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1889",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Domed neo-Renaissance museum mirroring its twin across a square in Semper's imperial forum plan.",
+  "note": ""
+ },
+ {
+  "qid": "Q840886",
+  "keep": 0,
+  "name": "Museum of Fine Arts, Budapest",
+  "by": "Albert Schickedanz and Fülöp Herzog",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "1906",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "Eclectic museum of limited design interest for students."
+ },
+ {
+  "qid": "Q699448",
+  "keep": 1,
+  "name": "Monument to the Battle of the Nations",
+  "by": "Bruno Schmitz",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "1913",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Water"
+  ],
+  "features": "Massive stepped stone monument over a pool, with a crypt of giant guardians and a domed hall.",
+  "note": "Credit corrected to architect Bruno Schmitz; Clemens Thieme led the building association."
+ },
+ {
+  "qid": "Q597051",
+  "keep": 3,
+  "name": "Palau Güell",
+  "by": "Antoni Gaudí",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1890",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Parabolic-arched gates and a central hall under a perforated dome, topped by mosaic chimneys.",
+  "note": ""
+ },
+ {
+  "qid": "Q503477",
+  "keep": 0,
+  "name": "One Canada Square",
+  "by": "César Pelli",
+  "city": "London",
+  "cc": "GB",
+  "year": "1991",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "Generic office tower with little design interest for students."
+ },
+ {
+  "qid": "Q1418136",
+  "keep": 1,
+  "name": "National Museum of Finland",
+  "by": "Gesellius, Lindgren and Saarinen",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1910",
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Stone",
+   "Earth & local material",
+   "Detail"
+  ],
+  "features": "Church-like asymmetric massing and a tall tower blend Finnish medieval and national romantic motifs.",
+  "note": "Year is the building's completion (opened 1916)."
+ },
+ {
+  "qid": "Q1478423",
+  "keep": 1,
+  "name": "The Morgan Library & Museum",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": "1906",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Light from above"
+  ],
+  "features": "Marble Renaissance-style library, now joined to its neighbours by Renzo Piano's glass-roofed court.",
+  "note": "Year corrected from 1924 (museum founding) to the McKim library (1906)."
+ },
+ {
+  "qid": "Q656296",
+  "keep": 0,
+  "name": "Jeu de Paume",
+  "by": "",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Stone",
+   "Adaptive reuse"
+  ],
+  "features": "",
+  "note": "No usable architect credit and limited design interest."
+ },
+ {
+  "qid": "Q801115",
+  "keep": 2,
+  "name": "Gare do Oriente",
+  "by": "Santiago Calatrava",
+  "city": "Lisbon",
+  "cc": "PT",
+  "year": "1998",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Steel and glass canopy of tree-like branching columns shelters raised platforms above the station hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q641108",
+  "keep": 2,
+  "name": "Sony Center",
+  "by": "Helmut Jahn",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Public space",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "Glass and steel buildings ring an oval forum under a tent-like roof of fabric and glass.",
+  "note": "Year corrected to the opening (2000)."
+ },
+ {
+  "qid": "Q1321116",
+  "keep": 0,
+  "name": "Guggenheim Abu Dhabi",
+  "by": "Frank Gehry",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Cluster",
+   "Climate response"
+  ],
+  "features": "",
+  "note": "Not confirmed as complete; cannot describe the built building truthfully."
+ },
+ {
+  "qid": "Q1359125",
+  "keep": 1,
+  "name": "Tokyo Big Sight",
+  "by": "AXS Satow",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1996",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "features": "Four inverted pyramids raised on legs above a plaza hold the conference halls.",
+  "note": "Year corrected to the opening (1996)."
+ },
+ {
+  "qid": "Q387989",
+  "keep": 1,
+  "name": "Athens Olympic Stadium roof",
+  "by": "Santiago Calatrava",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "2004",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Steel & glass"
+  ],
+  "features": "Two giant tubular steel arches hang a translucent roof over an existing stadium bowl.",
+  "note": "Credit is Calatrava's 2004 roof; the 1982 stadium is by others, so year changed."
+ },
+ {
+  "qid": "Q7888512",
+  "keep": 3,
+  "name": "United Nations Secretariat Building",
+  "by": "Wallace K. Harrison with Le Corbusier and Oscar Niemeyer",
+  "city": "New York",
+  "cc": "US",
+  "year": "1952",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "Slab tower with glass curtain-wall long faces and windowless stone-clad ends beside the East River.",
+  "note": "Credit corrected: Harrison led the design board that included Le Corbusier; year is completion."
+ },
+ {
+  "qid": "Q1783715",
+  "keep": 2,
+  "name": "DR Koncerthuset",
+  "by": "Jean Nouvel",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Light & shadow"
+  ],
+  "features": "A blue translucent screen box hides a vineyard-style hall shell, lit with projections at night.",
+  "note": ""
+ },
+ {
+  "qid": "Q1431431",
+  "keep": 2,
+  "name": "Weisman Art Museum",
+  "by": "Frank Gehry",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Brick",
+   "Facade as skin"
+  ],
+  "features": "Plain brick box to the campus, a cascade of folded stainless steel forms facing the river.",
+  "note": "Year corrected to Gehry's building (1993)."
+ },
+ {
+  "qid": "Q2092357",
+  "keep": 2,
+  "name": "Soreq Nuclear Research Center",
+  "by": "Philip Johnson",
+  "city": "Yavne",
+  "cc": "IL",
+  "year": "1960",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Battered concrete reactor block fronting a colonnaded courtyard with a long reflecting pool.",
+  "note": "Year corrected to completion (1960)."
+ },
+ {
+  "qid": "Q4347013",
+  "keep": 2,
+  "name": "Cathedral of Saint Mary of the Assumption",
+  "by": "Pietro Belluschi and Pier Luigi Nervi",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1971",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Four hyperbolic paraboloid concrete shells rise from a square base to meet in a cross of glass.",
+  "note": "Pietro Belluschi added as design architect with Nervi."
+ },
+ {
+  "qid": "Q147157",
+  "keep": 1,
+  "name": "National Museum of Ethnology",
+  "by": "Kisho Kurokawa",
+  "city": "Suita",
+  "cc": "JP",
+  "year": "1977",
+  "type": "Museum",
+  "movement": "Metabolism",
+  "concepts": [
+   "Cluster",
+   "Modular",
+   "Courtyard"
+  ],
+  "features": "Clustered gallery blocks around a central courtyard, planned to grow in modular units.",
+  "note": "Year corrected to the building's opening (1977)."
+ },
+ {
+  "qid": "Q1802939",
+  "keep": 2,
+  "name": "Kunsten Museum of Modern Art Aalborg",
+  "by": "Alvar and Elissa Aalto with Jean-Jacques Baruël",
+  "city": "Aalborg",
+  "cc": "DK",
+  "year": "1972",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Roof monitors bounce daylight off curved reflectors into white galleries set in a wooded hollow.",
+  "note": ""
+ },
+ {
+  "qid": "Q16925182",
+  "keep": 1,
+  "name": "Wangjing SOHO",
+  "by": "Zaha Hadid Architects",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Parametric",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Three mountain-like towers wrapped in continuous flowing bands of white aluminium and glass.",
+  "note": ""
+ },
+ {
+  "qid": "Q194004",
+  "keep": 2,
+  "name": "Binoculars Building",
+  "by": "Frank Gehry with Claes Oldenburg and Coosje van Bruggen",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1991",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Giant binoculars form the car entrance between a ship-like white wing and a copper tree-like wing.",
+  "note": ""
+ },
+ {
+  "qid": "Q11331095",
+  "keep": 0,
+  "name": "Beppu B-Con Plaza",
+  "by": "Arata Isozaki",
+  "city": "Beppu",
+  "cc": "JP",
+  "year": "1995",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "",
+  "note": "Not known well enough to describe truthfully."
+ },
+ {
+  "qid": "Q868772",
+  "keep": 0,
+  "name": "Trump Tower",
+  "by": "Der Scutt",
+  "city": "New York",
+  "cc": "US",
+  "year": "1983",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Planting"
+  ],
+  "features": "",
+  "note": "Generic commercial tower with little design interest."
+ },
+ {
+  "qid": "Q317034",
+  "keep": 0,
+  "name": "International Commerce Centre",
+  "by": "Kohn Pedersen Fox",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "",
+  "note": "Generic commercial tower with little design interest."
+ },
+ {
+  "qid": "Q834448",
+  "keep": 0,
+  "name": "Peace Palace",
+  "by": "Louis Marie Cordonnier",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Brick"
+  ],
+  "features": "",
+  "note": "Neo-Renaissance palace of limited interest; year given was the start of building (finished 1913)."
+ },
+ {
+  "qid": "Q388448",
+  "keep": 0,
+  "name": "Bargello",
+  "by": "Lapo Tedesco",
+  "city": "Florence",
+  "cc": "IT",
+  "year": "",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "Medieval palace; year given is the museum's opening and the building's credit is uncertain."
+ },
+ {
+  "qid": "Q942713",
+  "keep": 0,
+  "name": "Scottish National Gallery",
+  "by": "William Henry Playfair",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1859",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "Neoclassical gallery of limited design interest for this list."
+ },
+ {
+  "qid": "Q80499",
+  "keep": 1,
+  "name": "Flame Towers",
+  "by": "HOK",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Three flame-shaped glass towers whose LED-covered facades show moving flames at night.",
+  "note": ""
+ },
+ {
+  "qid": "Q152979",
+  "keep": 1,
+  "name": "New Town Hall, Munich",
+  "by": "Georg von Hauberrisser",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1909",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Long neo-Gothic facade on Marienplatz with a tall tower holding a mechanical Glockenspiel.",
+  "note": ""
+ },
+ {
+  "qid": "Q1138183",
+  "keep": 1,
+  "name": "Philadelphia City Hall",
+  "by": "John McArthur Jr.",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1901",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Load-bearing masonry block around a central court, its tower crowned by a statue of William Penn.",
+  "note": ""
+ },
+ {
+  "qid": "Q584756",
+  "keep": 2,
+  "name": "Hamburger Bahnhof",
+  "by": "Josef Paul Kleihues",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "A former railway terminus turned gallery, its iron-and-glass train hall kept as the main space.",
+  "note": ""
+ },
+ {
+  "qid": "Q657979",
+  "keep": 0,
+  "name": "Westendstrasse 1",
+  "by": "Kohn Pedersen Fox",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1993",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "Generic office tower with little design interest."
+ },
+ {
+  "qid": "Q1752085",
+  "keep": 0,
+  "name": "Norton Simon Museum",
+  "by": "Ladd & Kelsey",
+  "city": "Pasadena",
+  "cc": "US",
+  "year": "1969",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Brick"
+  ],
+  "features": "",
+  "note": "Credit wrong: the building is by Ladd & Kelsey (1969); Gehry only remodelled galleries in 1999."
+ },
+ {
+  "qid": "Q806676",
+  "keep": 0,
+  "name": "Miami Tower",
+  "by": "Pei Cobb Freed & Partners",
+  "city": "Miami",
+  "cc": "US",
+  "year": "1987",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Generic commercial tower with little design interest."
+ },
+ {
+  "qid": "Q1760539",
+  "keep": 1,
+  "name": "Saint Louis Art Museum, East Building",
+  "by": "David Chipperfield Architects",
+  "city": "St. Louis",
+  "cc": "US",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Low pavilion of dark polished concrete with a deep coffered ceiling that admits daylight.",
+  "note": "Credit changed to Chipperfield's 2013 wing; the 1904 Cass Gilbert building is the older part."
+ },
+ {
+  "qid": "Q1519685",
+  "keep": 2,
+  "name": "Villa Le Lac",
+  "by": "Le Corbusier",
+  "city": "Corseaux",
+  "cc": "CH",
+  "year": "1924",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Water"
+  ],
+  "features": "A long low lakeside house with one strip window and a garden wall pierced to frame the lake.",
+  "note": ""
+ },
+ {
+  "qid": "Q3090555",
+  "keep": 0,
+  "name": "Tour EDF (Tour Légende)",
+  "by": "Pei Cobb Freed & Partners",
+  "city": "Courbevoie",
+  "cc": "FR",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Void"
+  ],
+  "features": "",
+  "note": "Generic office tower; not known well enough to describe truthfully."
+ }
+]
