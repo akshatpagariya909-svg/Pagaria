@@ -10,6 +10,7 @@ Reads tools/batches/:
                             movement, three ideas and the Key features line
   batch1_facts.json         Wikidata years, architects' birth years and country codes (tools/batch_facts.py)
   batch1_approved.txt       optional: Wikidata IDs the owner checked by hand, merged without the checks
+  batch1_nophoto.txt        written by --trim: buildings dropped for having no free photo, never merged again
 Writes tools/batches/batch1_report.md: what was added, held back for a check by hand, or turned down.
 
 A building is held back when its year doesn't hold up: earlier than its architect's twentieth
@@ -52,9 +53,15 @@ def main():
     batch = json.loads((B / f'{args.batch}.json').read_text(encoding='utf-8'))
     qids = {b['qid'] for b in batch}
 
+    nophoto = B / f'{args.batch}_nophoto.txt'
+    dropped = {l.split('#')[0].strip() for l in nophoto.read_text(encoding='utf-8').splitlines()} - {''} if nophoto.exists() else set()
     if args.trim:
         keep = [b for b in items if b.get('qid') not in qids or b.get('images')]
-        print(f'{len(items) - len(keep)} batch buildings dropped for having no free photos')
+        gone = [b for b in items if b not in keep]
+        if gone:  # remember them, so a later merge doesn't bring them back
+            with nophoto.open('a', encoding='utf-8') as f:
+                f.writelines(f"{b['qid']}  # {b['name']}\n" for b in gone)
+        print(f'{len(gone)} batch buildings dropped for having no free photos')
         for n, b in enumerate(keep, 1):
             b['n'] = n
         save(head, keep)
@@ -74,6 +81,9 @@ def main():
             continue
         if c['qid'] in have or fold(c['name']) in have:
             continue  # added by an earlier run of this batch, or already there
+        if c['qid'] in dropped:
+            down.append((c, 'no free photo found'))
+            continue
         why = None if c['qid'] in approved else check(c, facts.get(c['qid'], {}))
         if why:
             held.append((c, why))

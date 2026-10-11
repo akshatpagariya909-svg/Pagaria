@@ -1,9 +1,9 @@
 # batch1
 
 - Curated: 319
-- On the wall from this batch: 213 (3 added in the latest run, 32 of them approved by hand)
+- On the wall from this batch: 210 (0 added in the latest run, 31 of them approved by hand)
 - Held back for a check by hand: 0
-- Turned down: 106
+- Turned down: 109
 
 ## Held back
 
@@ -14,6 +14,9 @@
 
 | Building | Architect | Year | Place | Why |
 |---|---|---|---|---|
+| Palace of Justice (Punjab and Haryana High Court) | Le Corbusier | 1955 | Chandigarh, IN | no free photo found |
+| San Francisco Federal Building | Morphosis | 2007 | San Francisco, US | no free photo found |
+| The Index | Foster + Partners | 2010 | Dubai, AE | no free photo found |
 | Ibirapuera Park | Oscar Niemeyer | 1954 | São Paulo, BR | a park; better to add its buildings (Oca, Bienal Pavilion, Marquise) one by one |
 | Abeno Harukas | Pelli Clarke Pelli Architects | 2014 | Osaka, JP | commercial supertall of limited design interest |
 | JPMorgan Chase Tower | I. M. Pei & Partners | 1982 | Houston, US | commercial office tower of limited study interest |
@@ -335,6 +338,3 @@
 | 1134 | Vienna City Hall | Friedrich von Schmidt | 1883 | Vienna, AT | Civic | Historic precedent |
 | 1135 | Museum of Contemporary Art Chicago | Josef Paul Kleihues | 1996 | Chicago, US | Museum | Late modernism |
 | 1136 | Asian Art Museum of San Francisco | Gae Aulenti | 2003 | San Francisco, US | Museum | Contemporary |
-| 1137 | Palace of Justice (Punjab and Haryana High Court) | Le Corbusier | 1955 | Chandigarh, IN | Civic | Brutalism |
-| 1138 | San Francisco Federal Building | Morphosis | 2007 | San Francisco, US | Civic | Contemporary |
-| 1139 | The Index | Foster + Partners | 2010 | Dubai, AE | Office & tower | High-tech |
