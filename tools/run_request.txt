@@ -1,2 +1,2 @@
-python -u tools/harvest_regions.py
-Pull Wikidata buildings in the thin regions, one country at a time (the single query timed out), fetch signals, rescore.
+python -u tools/resolve_list.py extra3_architects extra3_south extra3_regions
+Match the three batch 3 hand lists to Wikidata (qid, Commons folder, photo, coordinates).
