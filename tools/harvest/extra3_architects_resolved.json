@@ -1,0 +1,1466 @@
+[
+{
+"name": "Magney House",
+"by": "Glenn Murcutt",
+"city": "Bingie Point",
+"cc": "AU",
+"year": "1984",
+"type": "House",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Landscape",
+"Section"
+],
+"features": "Long single-room-deep pavilion under a folded corrugated-steel roof, with louvres along the north side.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Marika-Alderton House",
+"by": "Glenn Murcutt",
+"city": "Yirrkala",
+"cc": "AU",
+"year": "1994",
+"type": "House",
+"movement": "Regionalism",
+"concepts": [
+"Climate response",
+"Timber",
+"Prefabrication"
+],
+"features": "Stilted timber-and-steel house with hinged plywood flaps and roof vents that let sea breezes through.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Xylem",
+"by": "Diébédo Francis Kéré",
+"city": "Fishtail",
+"cc": "US",
+"year": "2019",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Light & shadow",
+"Landscape"
+],
+"features": "Ring of timber benches under a canopy of hexagonal bundles of thin pine logs on steel columns.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Startup Lions Campus",
+"by": "Diébédo Francis Kéré",
+"city": "Turkana",
+"cc": "KE",
+"year": "2021",
+"type": "Education",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Climate response",
+"Stone"
+],
+"features": "Local stone classrooms with tall ventilation towers, inspired by termite mounds, drawing hot air out.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Siamese Towers",
+"by": "Alejandro Aravena",
+"city": "Santiago",
+"cc": "CL",
+"year": "2005",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Climate response",
+"Steel & glass"
+],
+"features": "Tower that splits into twin tops, wrapped in a glass skin with a ventilated cavity behind it.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Monterrey Housing",
+"by": "Alejandro Aravena, Elemental",
+"city": "Santa Catarina",
+"cc": "MX",
+"year": "2010",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Incremental",
+"Low cost",
+"Community"
+],
+"features": "Half-built row houses stacked as duplexes, leaving empty bays for families to fill in over time.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Villa Verde Housing",
+"by": "Alejandro Aravena, Elemental",
+"city": "Constitución",
+"cc": "CL",
+"year": "2013",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Incremental",
+"Low cost",
+"Timber"
+],
+"features": "Timber-framed gabled half-houses, one half built and the other left under the roof for owners to finish.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Vertical Courtyard Apartments",
+"by": "Wang Shu, Amateur Architecture Studio",
+"city": "Hangzhou",
+"cc": "CN",
+"year": "2007",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Courtyard",
+"Double height",
+"Section"
+],
+"features": "Housing towers with two-storey courtyards stacked into the facade, giving each flat a garden in the air.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Wencun Village",
+"by": "Wang Shu, Amateur Architecture Studio",
+"city": "Hangzhou",
+"cc": "CN",
+"year": "2016",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Community",
+"Stone"
+],
+"features": "New village houses of rammed earth, stone and grey tile, set among restored old houses along a stream.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Luyeyuan Stone Sculpture Art Museum",
+"by": "Liu Jiakun",
+"city": "Chengdu",
+"cc": "CN",
+"year": "2002",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Exposed concrete",
+"Brick",
+"Promenade"
+],
+"features": "Rough fair-faced concrete cast over shale-brick walls, reached by a long bridge across a pond.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "West Village",
+"by": "Liu Jiakun",
+"city": "Chengdu",
+"cc": "CN",
+"year": "2015",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Circulation",
+"Courtyard"
+],
+"features": "Perimeter block wrapped around a public field, with a ramped path for walking and cycling up to the roof.",
+"keep": 3,
+"list": "architects",
+"qid": "Q1191048",
+"commons": "West Village",
+"image": "West Village.jpg",
+"coords": [
+40.7358,
+-74.0036
+]
+},
+{
+"name": "Hu Huishan Memorial",
+"by": "Liu Jiakun",
+"city": "Anren",
+"cc": "CN",
+"year": "2009",
+"type": "Memorial",
+"movement": "Contemporary",
+"concepts": [
+"Reclaimed material",
+"Brick",
+"Colour"
+],
+"features": "Tent-shaped hut of bricks made from earthquake rubble, lined in pink and filled with a girl's belongings.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Teatro Regional del Biobío",
+"by": "Smiljan Radić",
+"city": "Concepción",
+"cc": "CL",
+"year": "2018",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Tensile structure",
+"Light & shadow"
+],
+"features": "Box of steel frames wrapped in translucent PTFE fabric that glows like a lantern at night.",
+"keep": 2,
+"list": "architects",
+"qid": "Q6139847",
+"commons": "Teatro Biobío",
+"image": "Teatro Regional del Biobío 02.jpg",
+"coords": [
+-36.83336,
+-73.064598
+]
+},
+{
+"name": "Mestizo Restaurant",
+"by": "Smiljan Radić",
+"city": "Santiago",
+"cc": "CL",
+"year": "2007",
+"type": "Hospitality",
+"movement": "Contemporary",
+"concepts": [
+"Stone",
+"Exposed concrete",
+"Structure as expression"
+],
+"features": "Long black concrete roof slab resting on huge granite boulders at the edge of a park.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "41 Cooper Square",
+"by": "Morphosis, Thom Mayne",
+"city": "New York",
+"cc": "US",
+"year": "2009",
+"type": "Education",
+"movement": "Deconstructivism",
+"concepts": [
+"Facade as skin",
+"Circulation",
+"Void"
+],
+"features": "Perforated steel skin torn open over the entrance, with a grand stair rising through a lattice atrium.",
+"keep": 3,
+"list": "architects",
+"qid": "Q4637601",
+"commons": "41 Cooper Square",
+"image": "Cooper Union New Academic Building from north.jpg",
+"coords": [
+40.7285,
+-73.9903
+]
+},
+{
+"name": "Caltrans District 7 Headquarters",
+"by": "Morphosis, Thom Mayne",
+"city": "Los Angeles",
+"cc": "US",
+"year": "2004",
+"type": "Office & tower",
+"movement": "Deconstructivism",
+"concepts": [
+"Facade as skin",
+"Climate response",
+"Steel & glass"
+],
+"features": "Office slab wrapped in a perforated aluminium skin whose panels open and close with the sun.",
+"keep": 2,
+"list": "architects",
+"qid": "Q5024011",
+"commons": "Caltrans District 7 Headquarters",
+"image": "Caltrans District 7 Headquarters, Los Angeles, California, US.jpg",
+"coords": [
+34.0514,
+-118.244
+]
+},
+{
+"name": "Perot Museum of Nature and Science",
+"by": "Morphosis, Thom Mayne",
+"city": "Dallas",
+"cc": "US",
+"year": "2012",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Sculptural form",
+"Landscape",
+"Circulation"
+],
+"features": "Textured concrete cube on a landscaped plinth, with a glass escalator tube projecting from the facade.",
+"keep": 2,
+"list": "architects",
+"qid": "Q7169478",
+"commons": "Perot Museum of Nature and Science",
+"image": "Perot Museum of Nature and Science 03.jpg",
+"coords": [
+32.78704,
+-96.80601
+]
+},
+{
+"name": "Diamond Ranch High School",
+"by": "Morphosis, Thom Mayne",
+"city": "Pomona",
+"cc": "US",
+"year": "2000",
+"type": "Education",
+"movement": "Deconstructivism",
+"concepts": [
+"Landscape",
+"Geometry",
+"Public space"
+],
+"features": "Fragmented folded metal roofs either side of a long open-air street cut into a hillside.",
+"keep": 2,
+"list": "architects",
+"qid": "Q5270901",
+"commons": "Diamond Ranch High School",
+"image": "DiamondRanchHS - CarolHighsmith - 4.jpg",
+"coords": [
+34.021826,
+-117.779725
+]
+},
+{
+"name": "San Francisco Federal Building",
+"by": "Morphosis, Thom Mayne",
+"city": "San Francisco",
+"cc": "US",
+"year": "2007",
+"type": "Office & tower",
+"movement": "Contemporary",
+"concepts": [
+"Climate response",
+"Facade as skin",
+"Human comfort"
+],
+"features": "Thin naturally ventilated slab with a perforated-steel sunscreen and a sky garden cut through it.",
+"keep": 2,
+"list": "architects",
+"qid": "Q7414007",
+"commons": "United States Federal Building (San Francisco, California)",
+"image": "San Francisco Federal Building.jpg",
+"coords": [
+37.779166666667,
+-122.41194444444
+]
+},
+{
+"name": "St. Louis Lambert International Airport Terminal 1",
+"by": "Hellmuth, Yamasaki & Leinweber",
+"city": "St. Louis",
+"cc": "US",
+"year": "1956",
+"type": "Infrastructure",
+"movement": "Modernism",
+"concepts": [
+"Vault",
+"Exposed concrete",
+"Structure as expression"
+],
+"features": "Repeated thin-shell concrete groin vaults over a column-free hall, with glazed walls between them.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "McGregor Memorial Conference Center",
+"by": "Minoru Yamasaki",
+"city": "Detroit",
+"cc": "US",
+"year": "1958",
+"type": "Education",
+"movement": "Modernism",
+"concepts": [
+"Light from above",
+"Water",
+"Geometry"
+],
+"features": "White travertine pavilion with a skylit atrium, triangulated concrete ceilings and a reflecting pool.",
+"keep": 2,
+"list": "architects",
+"qid": "Q6801459",
+"commons": "McGregor Memorial Conference Center",
+"image": "2025-07-23 - McGregor Memorial Conference Center in Detroit MI US 4.jpg",
+"coords": [
+42.359167,
+-83.070833
+]
+},
+{
+"name": "Pacific Science Center",
+"by": "Minoru Yamasaki",
+"city": "Seattle",
+"cc": "US",
+"year": "1962",
+"type": "Museum",
+"movement": "Modernism",
+"concepts": [
+"Water",
+"Courtyard",
+"Geometry"
+],
+"features": "White pavilions with pointed Gothic-like arches around shallow pools and raised walkways.",
+"keep": 2,
+"list": "architects",
+"qid": "Q3848341",
+"commons": "Pacific Science Center",
+"image": "Pacific Science Center at night 04.jpg",
+"coords": [
+47.6192,
+-122.351
+]
+},
+{
+"name": "Century Plaza Towers",
+"by": "Minoru Yamasaki",
+"city": "Los Angeles",
+"cc": "US",
+"year": "1975",
+"type": "Office & tower",
+"movement": "Late modernism",
+"concepts": [
+"Geometry",
+"Facade as skin",
+"Monumentality"
+],
+"features": "Twin triangular towers clad in aluminium with narrow vertical windows.",
+"keep": 2,
+"list": "architects",
+"qid": "Q1982044",
+"commons": "Century Plaza Towers",
+"image": "Century Plaza Towers Century Park (15572334135).jpg",
+"coords": [
+34.0589,
+-118.413
+]
+},
+{
+"name": "Quinta da Conceição Tennis Pavilion",
+"by": "Fernando Távora",
+"city": "Matosinhos",
+"cc": "PT",
+"year": "1960",
+"type": "Pavilion",
+"movement": "Regionalism",
+"concepts": [
+"Stone",
+"Timber",
+"Landscape"
+],
+"features": "Small tennis pavilion blending granite piers, timber and a pitched tile roof with an open modern plan.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Santa Maria da Feira Municipal Market",
+"by": "Fernando Távora",
+"city": "Santa Maria da Feira",
+"cc": "PT",
+"year": "1959",
+"type": "Civic",
+"movement": "Regionalism",
+"concepts": [
+"Courtyard",
+"Public space",
+"Exposed concrete"
+],
+"features": "Butterfly-roofed concrete stalls stepping down a sloping site around an open courtyard.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Pousada de Santa Marinha",
+"by": "Fernando Távora",
+"city": "Guimarães",
+"cc": "PT",
+"year": "1985",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Adaptive reuse",
+"Stone",
+"Courtyard"
+],
+"features": "Monastery turned hotel, with a new granite wing of rooms added beside the old cloister.",
+"keep": 2,
+"list": "architects",
+"qid": "Q10352203",
+"commons": "Mosteiro de Santa Marinha da Costa",
+"image": "Pousada de Guimarães - Santa Marinha - Portugal (8024277134).jpg",
+"coords": [
+41.443522,
+-8.276686
+]
+},
+{
+"name": "Mater Misericordiae Church",
+"by": "Angelo Mangiarotti, Bruno Morassutti",
+"city": "Baranzate",
+"cc": "IT",
+"year": "1957",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Prefabrication",
+"Light & shadow",
+"Structure as expression"
+],
+"features": "Glass box of double translucent panels on four concrete columns carrying prestressed beams.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Corpus Christi Church, Aachen",
+"by": "Rudolf Schwarz",
+"city": "Aachen",
+"cc": "DE",
+"year": "1930",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Light & shadow",
+"Monumentality",
+"Void"
+],
+"features": "Stark white hall with high windows and almost no ornament, beside a slender separate bell tower.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "St. Anna, Düren",
+"by": "Rudolf Schwarz",
+"city": "Düren",
+"cc": "DE",
+"year": "1956",
+"type": "Religious",
+"movement": "Modernism",
+"concepts": [
+"Reclaimed material",
+"Stone",
+"Light & shadow"
+],
+"features": "L-shaped church whose walls are built from the rubble stone of the bombed medieval church.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Nantes School of Architecture",
+"by": "Lacaton & Vassal",
+"city": "Nantes",
+"cc": "FR",
+"year": "2009",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Free plan",
+"Circulation",
+"Section"
+],
+"features": "Concrete frame with extra-high floors linked by a ramp, leaving open unprogrammed spaces and a rooftop.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "FRAC Nord-Pas de Calais",
+"by": "Lacaton & Vassal",
+"city": "Dunkirk",
+"cc": "FR",
+"year": "2013",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Facade as skin",
+"Prefabrication"
+],
+"features": "Transparent twin of an old shipyard hall, clad in polycarbonate beside the preserved original hall.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Grand Parc Bordeaux Transformation",
+"by": "Lacaton & Vassal, Frédéric Druot, Christophe Hutin",
+"city": "Bordeaux",
+"cc": "FR",
+"year": "2016",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Adaptive reuse",
+"Prefabrication",
+"Human comfort"
+],
+"features": "Social housing blocks extended with prefabricated winter gardens and balconies added across the facades.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Latapie House",
+"by": "Lacaton & Vassal",
+"city": "Floirac",
+"cc": "FR",
+"year": "1993",
+"type": "House",
+"movement": "Contemporary",
+"concepts": [
+"Low cost",
+"Climate response",
+"Facade as skin"
+],
+"features": "Simple box with one side a polycarbonate greenhouse that opens fully in summer.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Town House, Kingston University",
+"by": "Grafton Architects",
+"city": "Kingston upon Thames",
+"cc": "GB",
+"year": "2020",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Circulation",
+"Public space"
+],
+"features": "Stacked terraces and open stairs climbing behind a deep concrete colonnade along the street.",
+"keep": 2,
+"list": "architects",
+"qid": "Q2503809",
+"commons": "Kingston University",
+"image": "Knights Park Campus.jpg",
+"coords": [
+51.4035,
+-0.3039
+]
+},
+{
+"name": "Saitama Prefectural University",
+"by": "Riken Yamamoto",
+"city": "Koshigaya",
+"cc": "JP",
+"year": "1999",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Modular",
+"Courtyard",
+"Steel & glass"
+],
+"features": "Low glass-and-steel buildings with gridded facades, linked by long decks and courtyards.",
+"keep": 2,
+"list": "architects",
+"qid": "Q4802788",
+"commons": "Saitama Prefectural University",
+"image": "Saitama Prefectural University.jpg",
+"coords": [
+35.92997222,
+139.75522222
+]
+},
+{
+"name": "Future University Hakodate",
+"by": "Riken Yamamoto",
+"city": "Hakodate",
+"cc": "JP",
+"year": "2000",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Prefabrication",
+"Section",
+"Steel & glass"
+],
+"features": "Huge glass hall of stepped studio terraces under one roof, built from precast concrete frames.",
+"keep": 2,
+"list": "architects",
+"qid": "Q835738",
+"commons": "Future University Hakodate",
+"image": "Future University Hakodate 202411a.jpg",
+"coords": [
+41.84180556,
+140.767
+]
+},
+{
+"name": "Pangyo Housing",
+"by": "Riken Yamamoto",
+"city": "Seongnam",
+"cc": "KR",
+"year": "2010",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Community",
+"Cluster",
+"Steel & glass"
+],
+"features": "Housing with glass-walled ground rooms opening onto a shared raised deck that links the blocks.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Soulages Museum",
+"by": "RCR Arquitectes",
+"city": "Rodez",
+"cc": "FR",
+"year": "2014",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Facade as skin",
+"Landscape",
+"Cantilever"
+],
+"features": "Row of Corten steel boxes cantilevered from a slope, with gallery light through glazed ends.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Tossols-Basil Athletics Track",
+"by": "RCR Arquitectes",
+"city": "Olot",
+"cc": "ES",
+"year": "2000",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Planting",
+"Public space"
+],
+"features": "Running track threaded through an oak wood, with trees left standing inside the field.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "La Lira Theatre Public Space",
+"by": "RCR Arquitectes",
+"city": "Ripoll",
+"cc": "ES",
+"year": "2011",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Light & shadow",
+"Water"
+],
+"features": "Open Corten steel canopy framing a public square on the site of a demolished theatre by the river.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Bell-Lloc Winery",
+"by": "RCR Arquitectes",
+"city": "Palamós",
+"cc": "ES",
+"year": "2007",
+"type": "Workplace",
+"movement": "Contemporary",
+"concepts": [
+"Reclaimed material",
+"Light & shadow",
+"Landscape"
+],
+"features": "Underground winery of Corten and recycled steel strips, with light slipping in through the slats.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Norwegian Glacier Museum",
+"by": "Sverre Fehn",
+"city": "Fjærland",
+"cc": "NO",
+"year": "1991",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Exposed concrete",
+"Landscape",
+"Promenade"
+],
+"features": "Long concrete block in the valley, with stairs on both sides leading up to a roof viewing deck.",
+"keep": 3,
+"list": "architects",
+"qid": "Q2530322",
+"commons": "Norwegian Glacier Museum",
+"image": "Museo Glaciar Fjaerland.jpg",
+"coords": [
+61.4232522,
+6.7628574
+]
+},
+{
+"name": "National Museum – Architecture",
+"by": "Sverre Fehn",
+"city": "Oslo",
+"cc": "NO",
+"year": "2008",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Steel & glass",
+"Exposed concrete",
+"Light from above"
+],
+"features": "Square glass-walled pavilion under a heavy concrete roof, set beside a neoclassical bank building.",
+"keep": 2,
+"list": "architects",
+"qid": "Q1132918",
+"commons": "Nasjonalmuseet for kunst, arkitektur og design",
+"image": "Nasjonalgalleriet oslo.jpg",
+"coords": [
+59.91166666666667,
+10.729166666666666
+]
+},
+{
+"name": "National Coach Museum",
+"by": "Paulo Mendes da Rocha",
+"city": "Lisbon",
+"cc": "PT",
+"year": "2015",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Pilotis",
+"Public space",
+"Exposed concrete"
+],
+"features": "Raised white exhibition box on concrete pillars, linked by a ramp bridge to an annex across a plaza.",
+"keep": 2,
+"list": "architects",
+"qid": "Q1659559",
+"commons": "Museu Nacional dos Coches",
+"image": "Museu Nacional dos Coches (Novo).tif",
+"coords": [
+38.696685,
+-9.198172
+]
+},
+{
+"name": "Praça do Patriarca Canopy",
+"by": "Paulo Mendes da Rocha",
+"city": "São Paulo",
+"cc": "BR",
+"year": "2002",
+"type": "Public space",
+"movement": "Contemporary",
+"concepts": [
+"Public space",
+"Structure as expression",
+"Cantilever"
+],
+"features": "Thin steel canopy hung from a giant portal frame over the entrance to an underground passage.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Solar do Unhão",
+"by": "Lina Bo Bardi",
+"city": "Salvador",
+"cc": "BR",
+"year": "1963",
+"type": "Museum",
+"movement": "Regionalism",
+"concepts": [
+"Adaptive reuse",
+"Timber",
+"Detail"
+],
+"features": "Colonial sugar estate turned museum, with a timber spiral stair joined like an ox cart.",
+"keep": 3,
+"list": "architects",
+"qid": "Q66315986",
+"commons": "Solar do Unhão e Capela de Nossa Senhora da Conceição",
+"image": "Entrada do Solar do Unhão 1.jpg",
+"coords": [
+-12.9826332,
+-38.5202652
+]
+},
+{
+"name": "Teatro Oficina",
+"by": "Lina Bo Bardi, Edson Elito",
+"city": "São Paulo",
+"cc": "BR",
+"year": "1993",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Promenade",
+"Section",
+"Adaptive reuse"
+],
+"features": "Long narrow theatre run like a street, with scaffold galleries, a glass wall and an opening roof.",
+"keep": 2,
+"list": "architects",
+"qid": "Q7691937",
+"commons": "Teatro Oficina",
+"image": "O riso, o choro e a vida - Teatro Oficina.jpg",
+"coords": [
+-23.555127,
+-46.6412327
+]
+},
+{
+"name": "Flower Kiosk, Malmö Eastern Cemetery",
+"by": "Sigurd Lewerentz",
+"city": "Malmö",
+"cc": "SE",
+"year": "1969",
+"type": "Pavilion",
+"movement": "Late modernism",
+"concepts": [
+"Detail",
+"Exposed concrete",
+"Light & shadow"
+],
+"features": "Tiny concrete shed with a tilted roof and frameless glazing clipped to the outside of the walls.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Gipsoteca Canoviana",
+"by": "Carlo Scarpa",
+"city": "Possagno",
+"cc": "IT",
+"year": "1957",
+"type": "Museum",
+"movement": "Late modernism",
+"concepts": [
+"Light from above",
+"Detail",
+"Geometry"
+],
+"features": "White extension where glass corner cubes cut into the walls, washing Canova's plaster casts in light.",
+"keep": 3,
+"list": "architects",
+"qid": "Q3768553",
+"commons": "Gipsoteca canoviana",
+"image": "Sale Gipsoteca canoviana 09.jpg",
+"coords": [
+45.85175,
+11.87491
+]
+},
+{
+"name": "La Congiunta",
+"by": "Peter Märkli",
+"city": "Giornico",
+"cc": "CH",
+"year": "1992",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Light from above",
+"Monumentality"
+],
+"features": "Windowless concrete gallery of linked rooms lit only from above, housing bronze sculptures.",
+"keep": 3,
+"list": "architects",
+"qid": "Q1751306",
+"commons": "La Congiunta",
+"image": null,
+"coords": [
+46.4055,
+8.87053
+]
+},
+{
+"name": "Paspels School",
+"by": "Valerio Olgiati",
+"city": "Paspels",
+"cc": "CH",
+"year": "1998",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Geometry",
+"Landscape"
+],
+"features": "Concrete block whose slightly skewed corridors and windows frame views of the valley.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Swiss National Park Visitor Centre",
+"by": "Valerio Olgiati",
+"city": "Zernez",
+"cc": "CH",
+"year": "2008",
+"type": "Museum",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Geometry",
+"Circulation"
+],
+"features": "Two interlocking white concrete cubes with identical windows and a looping stair between them.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Atelier Bardill",
+"by": "Valerio Olgiati",
+"city": "Scharans",
+"cc": "CH",
+"year": "2007",
+"type": "Workplace",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Courtyard",
+"Void"
+],
+"features": "Red-brown concrete studio around a courtyard open to the sky through a large oval hole.",
+"keep": 2,
+"list": "architects",
+"qid": "Q107360957",
+"commons": "Haus Bardill",
+"image": "Haus Bardill a.JPG",
+"coords": [
+46.716258,
+9.4596292
+]
+},
+{
+"name": "Leutschenbach School",
+"by": "Christian Kerez",
+"city": "Zurich",
+"cc": "CH",
+"year": "2009",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Steel & glass",
+"Section"
+],
+"features": "Stacked floors carried on exposed steel trusses, with a glazed gym crowning the top.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Oberrealta Chapel",
+"by": "Christian Kerez, Rudolf Fontana",
+"city": "Cazis",
+"cc": "CH",
+"year": "1993",
+"type": "Religious",
+"movement": "Contemporary",
+"concepts": [
+"Exposed concrete",
+"Landscape",
+"Geometry"
+],
+"features": "Tiny concrete chapel shaped like a child's drawing of a house, alone on an alpine meadow.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "KAIT Plaza",
+"by": "Junya Ishigami",
+"city": "Atsugi",
+"cc": "JP",
+"year": "2020",
+"type": "Education",
+"movement": "Contemporary",
+"concepts": [
+"Structure as expression",
+"Light from above",
+"Public space"
+],
+"features": "Vast thin steel-plate roof sagging over open ground, pierced with rectangular openings to the sky.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Park Vijversburg Visitor Centre",
+"by": "Junya Ishigami",
+"city": "Koostertille",
+"cc": "NL",
+"year": "2017",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Steel & glass",
+"Free plan"
+],
+"features": "Glass walls curling through the park beneath a thin flat roof, blurring inside and garden.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "L'Arbre Blanc",
+"by": "Sou Fujimoto, Nicolas Laisné, Manal Rachdi",
+"city": "Montpellier",
+"cc": "FR",
+"year": "2019",
+"type": "Housing",
+"movement": "Contemporary",
+"concepts": [
+"Cantilever",
+"Climate response",
+"Sculptural form"
+],
+"features": "White tower bristling with long cantilevered balconies and sunshades like branches.",
+"keep": 2,
+"list": "architects",
+"qid": "Q124718917",
+"commons": null,
+"image": "LArbreBlancEtLeLez.jpg",
+"coords": [
+43.60589,
+3.89809
+]
+},
+{
+"name": "House of Music Hungary",
+"by": "Sou Fujimoto",
+"city": "Budapest",
+"cc": "HU",
+"year": "2022",
+"type": "Culture & sport",
+"movement": "Contemporary",
+"concepts": [
+"Landscape",
+"Steel & glass",
+"Light from above"
+],
+"features": "Glass hall under a thin roof pierced by holes for trees, with a leaf-patterned golden ceiling.",
+"keep": 2,
+"list": "architects",
+"qid": "Q108325313",
+"commons": "House of Music, Hungary",
+"image": "House of Hungarian Music (3).jpg",
+"coords": [
+47.5126351,
+19.081858
+]
+},
+{
+"name": "Final Wooden House",
+"by": "Sou Fujimoto",
+"city": "Kumamoto",
+"cc": "JP",
+"year": "2008",
+"type": "Pavilion",
+"movement": "Contemporary",
+"concepts": [
+"Timber",
+"Geometry",
+"Section"
+],
+"features": "Hut made entirely of stacked solid cedar beams that act as floor, seat and wall at once.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Children's Centre for Psychiatric Rehabilitation",
+"by": "Sou Fujimoto",
+"city": "Date",
+"cc": "JP",
+"year": "2006",
+"type": "Health",
+"movement": "Contemporary",
+"concepts": [
+"Cluster",
+"Free plan",
+"Community"
+],
+"features": "Scattered white boxes set at angles, leaving nooks and alleys between rooms like a small town.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Pilotis in a Forest",
+"by": "Go Hasegawa",
+"city": "Gunma",
+"cc": "JP",
+"year": "2010",
+"type": "House",
+"movement": "Contemporary",
+"concepts": [
+"Pilotis",
+"Landscape",
+"Timber"
+],
+"features": "Small gabled house lifted high on thin columns, leaving the forest floor as a shaded outdoor room.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "House & Atelier Bow-Wow",
+"by": "Atelier Bow-Wow",
+"city": "Tokyo",
+"cc": "JP",
+"year": "2005",
+"type": "House",
+"movement": "Contemporary",
+"concepts": [
+"Section",
+"Circulation",
+"Double height"
+],
+"features": "Narrow house of split floor levels stepping around a central stair, open to the street by big windows.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "House in White",
+"by": "Kazuo Shinohara",
+"city": "Tokyo",
+"cc": "JP",
+"year": "1966",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Geometry",
+"Timber",
+"Void"
+],
+"features": "Square white house under a pyramidal roof, with a single cedar column standing in the main room.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Umbrella House (Kasa no Ie)",
+"by": "Kazuo Shinohara",
+"city": "Weil am Rhein",
+"cc": "DE",
+"year": "1961",
+"type": "House",
+"movement": "Modernism",
+"concepts": [
+"Timber",
+"Geometry",
+"Structure as expression"
+],
+"features": "Small square house under a timber umbrella roof of rafters radiating from the centre.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "House in Uehara",
+"by": "Kazuo Shinohara",
+"city": "Tokyo",
+"cc": "JP",
+"year": "1976",
+"type": "House",
+"movement": "Late modernism",
+"concepts": [
+"Exposed concrete",
+"Structure as expression",
+"Sculptural form"
+],
+"features": "Concrete house where massive column-and-brace forms cross the rooms like branches.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Tanikawa House",
+"by": "Kazuo Shinohara",
+"city": "Naganohara",
+"cc": "JP",
+"year": "1974",
+"type": "House",
+"movement": "Late modernism",
+"concepts": [
+"Earth & local material",
+"Timber",
+"Void"
+],
+"features": "Summer house with a raw sloping earth floor in a tall timber hall under a steep roof.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Takasugi-an",
+"by": "Terunobu Fujimori",
+"city": "Chino",
+"cc": "JP",
+"year": "2004",
+"type": "Pavilion",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Earth & local material",
+"Sculptural form"
+],
+"features": "Tiny tea house perched high on two chestnut tree trunks, reached by a ladder.",
+"keep": 3,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Lamune Onsen",
+"by": "Terunobu Fujimori",
+"city": "Taketa",
+"cc": "JP",
+"year": "2005",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Planting",
+"Timber",
+"Sculptural form"
+],
+"features": "Bathhouse of charred cedar and plaster, with pine trees sprouting from its rooftop towers.",
+"keep": 2,
+"list": "architects",
+"qid": "Q135551122",
+"commons": "Lamune Onsenkan",
+"image": "RamuneOnsenExterior.JPG",
+"coords": [
+33.06829166666667,
+131.38035
+]
+},
+{
+"name": "La Collina Omihachiman",
+"by": "Terunobu Fujimori",
+"city": "Omihachiman",
+"cc": "JP",
+"year": "2014",
+"type": "Hospitality",
+"movement": "Regionalism",
+"concepts": [
+"Planting",
+"Landscape",
+"Sculptural form"
+],
+"features": "Sweets shop and café buried under a sweeping roof planted with grass.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Wall House",
+"by": "Anupama Kundoo",
+"city": "Auroville",
+"cc": "IN",
+"year": "2000",
+"type": "House",
+"movement": "Regionalism",
+"concepts": [
+"Brick",
+"Earth & local material",
+"Climate response"
+],
+"features": "Brick and terracotta house with rooms opening between thick walls onto a tropical garden.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Volontariat Homes for Homeless Children",
+"by": "Anupama Kundoo",
+"city": "Pondicherry",
+"cc": "IN",
+"year": "2010",
+"type": "Housing",
+"movement": "Regionalism",
+"concepts": [
+"Earth & local material",
+"Cluster",
+"Low cost"
+],
+"features": "Cluster of small domed houses of mud brick fired in place, glazed like ceramic.",
+"keep": 2,
+"list": "architects",
+"qid": null
+},
+{
+"name": "Palmyra House",
+"by": "Studio Mumbai, Bijoy Jain",
+"city": "Alibag",
+"cc": "IN",
+"year": "2007",
+"type": "House",
+"movement": "Regionalism",
+"concepts": [
+"Timber",
+"Climate response",
+"Light & shadow"
+],
+"features": "Two timber volumes wrapped in louvres of split palmyra palm trunks, set in a coconut grove.",
+"keep": 2,
+"list": "architects",
+"qid": null
+}
+]

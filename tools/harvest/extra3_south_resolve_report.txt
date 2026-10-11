@@ -1,0 +1,70 @@
+-- Parliament Library Building   (last: Parliament Library Building building in New Delhi, India | New Delhi, India, New Delhi tehsil)
+OK L. D. Institute of Indology Q6480225
+-- British Council, New Delhi   (last: British Council, India  | India)
+OK National Crafts Museum Q3630755
+OK Kala Academy Q16851397
+-- Jeevan Bharati Building 
+-- Villa Sarabhai   (last: Villa Sarabhai modernist villa located in Ahmedabad, India | Ahmedabad, India, Ahmedabad district)
+OK Open Hand Monument Q16854086
+-- Wall House   (last: Wall House thatched farmhouse in Stoke Abbott, West Dorset,  | Stoke Abbott, United Kingdom, Dorset)
+-- Palmyra House 
+OK Embassy of Belgium, New Delhi Q15216557
+OK Triveni Kala Sangam Q17088054
+OK Sardar Vallabhbhai Patel Stadium Q7423742
+OK Bihar Museum Q15961638
+OK Chhatrapati Shivaji Maharaj International Airport Terminal 2 Q504368
+OK Taj Mahal Q9141
+OK Badshahi Mosque Q330872
+OK Pakistan Monument Q3695640
+OK Minar-e-Pakistan Q996962
+-- Friendship Hospital Satkhira   (last: Friendship non-governmental organization | Bangladesh)
+OK Shaheed Minar, Dhaka Q2425991
+-- Anandaloy 
+OK Baitul Mukarram Q804009
+-- Heritance Ahungalla   (last: Heritance Ahungalla building in Ahungalla, Sri Lanka | Sri Lanka)
+OK Jetwing Lighthouse Q24883195
+OK Independence Memorial Hall Q6016118
+OK Punakha Dzong Q4383728
+-- Hukuru Miskiy   (last: Hukuru Miskiy Mosque mosque in Felidhu, Maldives | Felidhoo, Maldives, Vaavu Atoll)
+OK Nyatapola Q1513892
+OK Oasia Hotel Downtown Q24036204
+OK School of the Arts, Singapore Q7432604
+OK People's Park Complex Q7165657
+OK Singapore Conference Hall Q7522937
+OK National Library Building Q890364
+OK Supertree Grove Q630135
+OK Helix Bridge Q2681107
+OK ArtScience Museum Q2744014
+OK LASALLE College of the Arts Q6457112
+-- The Hive, Nanyang Technological University   (last: University of British Columbia public research university in | Metro Vancouver A, Kelowna, Canada)
+OK CapitaSpring Q105702331
+OK Malaysian Houses of Parliament Q806555
+-- Menara Tabung Haji   (last: Tabung Haji Tower offices in Kuala Lumpur, Malaysia | Malaysia)
+OK National Museum (Malaysia) Q917630
+-- Menara UMNO 
+-- Potato Head Beach Club   (last: Potato Head Beach Club beach club in Seminyak, Kabupaten Bad | Indonesia)
+-- Kampung Kali Code 
+OK National Monument (Indonesia) Q145151
+OK Al-Irsyad Mosque Q4702554
+-- House for Trees 
+-- Bamboo Wing 
+OK Ho Chi Minh Mausoleum Q874234
+OK Bitexco Financial Tower Q638512
+OK Hanoi Museum Q1835176
+OK Elephant Building Q1571863
+OK Bangkok Art and Culture Centre Q1130188
+OK Suvarnabhumi Airport Q194316
+OK Jim Thompson House Q2916351
+OK Chulalongkorn University Centenary Park Q61361132
+OK Philippine International Convention Center Q7185137
+OK EDSA Shrine Q2914138
+-- San Miguel Corporation Building   (last: San Miguel Corporation largest corporation in the Philippine | )
+OK Quezon Memorial Shrine Q28401967
+OK Chaktomuk Conference Hall Q5068437
+OK Independence Monument (Cambodia) Q1108673
+OK Wat Xieng Thong Q2671118
+OK Ananda Temple Q485727
+OK Kempegowda International Airport Terminal 2 Q503364
+OK Folk Arts Theater Q30590406
+OK National Stadium, Singapore Q4201688
+OK Vietnam National Convention Center Q10828427
