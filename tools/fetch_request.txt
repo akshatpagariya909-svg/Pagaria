@@ -1,2 +1,2 @@
 --minutes 300
-Fetch photos for the new buildings (thumbnails hosted, full photos from Wikimedia). Rerun to continue.
+Fetch photos for batch 1 (181 new buildings): wall thumbnails hosted, full photos from Wikimedia.
