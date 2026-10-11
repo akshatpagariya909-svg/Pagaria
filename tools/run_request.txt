@@ -1,2 +1,2 @@
 python -u tools/harvest_regions.py
-Pull Wikidata buildings in Africa, South and Southeast Asia, the Middle East and Latin America (low fame bar), fetch their signals, rescore.
+Pull Wikidata buildings in the thin regions, one country at a time (the single query timed out), fetch signals, rescore.

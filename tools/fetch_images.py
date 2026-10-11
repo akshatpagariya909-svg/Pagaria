@@ -378,7 +378,7 @@ def write_review(items):
     for b in items:
         cells = ''.join(
             f'<figure><img src="../site/{html.escape(x["thumb"])}" loading="lazy"><figcaption>{k + 1}. {html.escape(x["caption"])}<br>'
-            f'<small>{html.escape(x["file"])} · {html.escape(x["license"])}</small></figcaption></figure>'
+            f'<small>{html.escape(x.get("file") or x.get("credit") or "")} · {html.escape(x["license"])}</small></figcaption></figure>'
             for k, x in enumerate(b.get('images', []))) or '<p class="miss">No free photos found</p>'
         rows.append(f'<section><h2>{b["n"]:03d} · {html.escape(b["name"])} <small>({len(b.get("images", []))})</small></h2><div>{cells}</div></section>')
     REVIEW.write_text('<!doctype html><meta charset="utf-8"><title>Gallery review</title><style>body{font:13px system-ui;margin:24px}'
