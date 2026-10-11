@@ -170,11 +170,12 @@ def main():
         found, notes, wiki = {}, [], None
         try:
             page = wiki_article(b)
-            if page and 'missing' not in page:
+            qid = b.get('qid')  # buildings added from Wikidata already know their item
+            if page and 'missing' not in page and (not qid or page.get('pageprops', {}).get('wikibase_item') == qid):
                 wiki = 'https://en.wikipedia.org/wiki/' + urllib.parse.quote(page['title'].replace(' ', '_'))
-                qid = page.get('pageprops', {}).get('wikibase_item')
-                if qid:
-                    found, notes = wikidata_links(qid)
+                qid = qid or page.get('pageprops', {}).get('wikibase_item')
+            if qid:
+                found, notes = wikidata_links(qid)
         except Exception as e:
             print('    wikipedia/wikidata failed:', e)
         surname = b['by'].split(',')[0].split()[-1]
