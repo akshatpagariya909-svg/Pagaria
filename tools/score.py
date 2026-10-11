@@ -10,7 +10,8 @@ tools/signals.py has run on GitHub Actions; without it the score uses fame, era 
 A building must pass the gates (a building, a named architect, a free photo, a year).
 Then it scores 0-100:
   fame        up to 30  Wikipedia language editions
-  experts     up to 20  listed in archINFORM, Structurae, Docomomo, #SOSBrutalism, Archnet;
+  experts     up to 20  listed in archINFORM, Docomomo, #SOSBrutalism, Archnet (Structurae
+                        counts little: it lists every tower and stadium);
                         many outside identifiers
   architect   up to 15  a Pritzker winner (15) or an architect students study (10)
   awards      up to 10  architecture awards (8), heritage listing (4), World Heritage (6)
@@ -35,8 +36,8 @@ BATCH = 1000
 GOOD = 40  # the floor: nothing under 40 goes on the wall; set properly once signals.json is in
 
 IS_BUILDING = re.compile(r'building|house|museum|church|library|hall|tower|pavilion|school|university|theatre|theater|chapel|villa|centre|center|skyscraper|block', re.I)
-ARCH_AWARD = re.compile(r'aga khan|mies van der rohe|stirling|riba|aia |american institute of architects|european union prize|alvar aalto medal|driehaus|praemium|architecture award|prize for architecture|architectural award|design award|emporis|ctbuh|wan award|world architecture', re.I)
-EXPERTS = {'archinform': 6, 'structurae': 3, 'docomomo': 5, 'sosbrutalism': 3, 'archnet': 4}
+ARCH_AWARD = re.compile(r'architect|aga khan|mies van der rohe|stirling|riba|\baia\b|bcs prize|aij prize|public buildings award|kasper salin|good design|european union prize|alvar aalto medal|driehaus|praemium|emporis|ctbuh|wan award', re.I)
+EXPERTS = {'archinform': 6, 'structurae': 1, 'docomomo': 5, 'sosbrutalism': 3, 'archnet': 4}
 PER_ARCHITECT = 8  # most buildings any one architect gets in a single batch
 
 
@@ -129,7 +130,7 @@ def score(r, sig, pritzker):
     era = min(20, era)
 
     penalty = 0
-    generic = TRANSIT.search(inst) or SPORT.search(inst) or COMMERCE.search(inst) or (OLD_GENERIC.search(inst) and y < 1945)
+    generic = TRANSIT.search(inst) or SPORT.search(inst) or re.search(r'racing|circuit|race track', inst, re.I) or COMMERCE.search(inst) or (OLD_GENERIC.search(inst) and y < 1945)
     if generic:
         penalty += 10 if star else 20
         why.append('generic type')
