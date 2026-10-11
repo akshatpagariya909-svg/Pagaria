@@ -1,2 +1,2 @@
 --minutes 300
-Fetch photos for the 32 approved batch 1 buildings.
+Fetch photos for batch 2 (276 new buildings).

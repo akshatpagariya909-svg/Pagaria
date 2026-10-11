@@ -107969,5 +107969,7451 @@ window.BUILDINGS = [
     "file": "File:The Buddhist deity Vajradhara.jpg"
    }
   ]
+ },
+ {
+  "id": "villa-shodhan",
+  "n": 1137,
+  "name": "Villa Shodhan",
+  "by": "Le Corbusier",
+  "place": "Ahmedabad, IN",
+  "year": "1956",
+  "y": 1956,
+  "type": "House",
+  "movement": "Brutalism",
+  "region": "South Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Brise-soleil",
+   "Exposed concrete",
+   "Double height"
+  ],
+  "study": "A concrete cube under a parasol roof slab, with brise-soleil faces and stacked double-height terraces.",
+  "qid": "Q2275530",
+  "commons": "Category:Villa Shodhan",
+  "lead": "File:Shodhan Villa2.jpg",
+  "coords": [
+   23.0252,
+   72.5675
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-das-canoas",
+  "n": 1138,
+  "name": "Casa das Canoas",
+  "by": "Oscar Niemeyer",
+  "place": "Rio de Janeiro, BR",
+  "year": "1953",
+  "y": 1953,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Sculptural form"
+  ],
+  "study": "A free-form roof slab floats over glass walls beside a pool, with a granite boulder entering the house.",
+  "qid": "Q6816788",
+  "commons": "Category:Casa das Canoas",
+  "lead": "File:Casa das canoas.jpg",
+  "coords": [
+   -22.9859,
+   -43.27288
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gropius-house",
+  "n": 1139,
+  "name": "Gropius House",
+  "by": "Walter Gropius",
+  "place": "Lincoln, US",
+  "year": "1938",
+  "y": 1938,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Steel & glass"
+  ],
+  "study": "New England clapboard, fieldstone and brick meet glass block, steel posts and an angled screened porch.",
+  "qid": "Q4179781",
+  "commons": "Category:Gropius House",
+  "lead": "File:Gropius House, Lincoln, Massachusetts - Front View.JPG",
+  "coords": [
+   42.42708,
+   -71.32639
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "amsterdam-orphanage-burgerweeshuis",
+  "n": 1140,
+  "name": "Amsterdam Orphanage (Burgerweeshuis)",
+  "by": "Aldo van Eyck",
+  "place": "Amsterdam, NL",
+  "year": "1960",
+  "y": 1960,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Modular",
+   "Community"
+  ],
+  "study": "Repeated domed units clustered along diagonal internal streets make the orphanage a small city.",
+  "qid": "Q2787387",
+  "commons": "Category:Burgerweeshuis (IJsbaanpad, Amsterdam)",
+  "lead": "File:Binnenplaats met zitcirkel - Amsterdam - 20355878 - RCE.jpg",
+  "coords": [
+   52.34056,
+   4.85611
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "marin-county-civic-center",
+  "n": 1141,
+  "name": "Marin County Civic Center",
+  "by": "Frank Lloyd Wright",
+  "place": "San Rafael, US",
+  "year": "1962",
+  "y": 1962,
+  "type": "Civic",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Colour"
+  ],
+  "study": "Long arcaded wings under a blue roof bridge between hills, meeting at a dome beside a gold spire.",
+  "qid": "Q1150950",
+  "commons": "Category:Marin County Civic Center",
+  "lead": "File:Marin Civic Center.jpg",
+  "coords": [
+   37.9975,
+   -122.53028
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lovell-beach-house",
+  "n": 1142,
+  "name": "Lovell Beach House",
+  "by": "Rudolph Schindler",
+  "place": "Newport Beach, US",
+  "year": "1926",
+  "y": 1926,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Pilotis"
+  ],
+  "study": "Five concrete frames lift the house above the beach, with living spaces hung between them.",
+  "qid": "Q746490",
+  "commons": "Category:Lovell Beach House",
+  "lead": "File:Lovell beach house.jpg",
+  "coords": [
+   33.6059,
+   -117.918
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "st-peter-s-church-klippan",
+  "n": 1143,
+  "name": "St Peter's Church, Klippan",
+  "by": "Sigurd Lewerentz",
+  "place": "Klippan, SE",
+  "year": "1966",
+  "y": 1966,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Light & shadow"
+  ],
+  "study": "Dark brick, never cut, forms floor, walls and vaults; a split steel column holds the roof in the dim nave.",
+  "qid": "Q10661481",
+  "commons": "Category:Sankt Petri kyrka, Klippan",
+  "lead": "File:Lewerentz St Petri kyrka Klikppan.JPG",
+  "coords": [
+   56.13303,
+   13.14208
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-gallery-of-art-east-building",
+  "n": 1144,
+  "name": "National Gallery of Art, East Building",
+  "by": "I. M. Pei",
+  "place": "Washington, US",
+  "year": "1978",
+  "y": 1978,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Stone"
+  ],
+  "study": "A trapezoid site split into two triangles, with knife-edge marble corners and a skylit triangular atrium.",
+  "qid": "Q118314575",
+  "commons": "Category:East Building of the National Gallery of Art",
+  "lead": "File:East Building of the National Gallery of Art.jpg",
+  "coords": [
+   38.8913,
+   -77.017
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "california-academy-of-sciences",
+  "n": 1145,
+  "name": "California Academy of Sciences",
+  "by": "Renzo Piano",
+  "place": "San Francisco, US",
+  "year": "2008",
+  "y": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Light from above"
+  ],
+  "study": "A living roof of rolling planted domes, pierced by portholes, covers a planetarium and rainforest sphere.",
+  "qid": "Q134486471",
+  "commons": "Category:Main building of the California Academy of Sciences",
+  "lead": "File:CaliforniaAcademyofSciences.jpg",
+  "coords": [
+   37.76982,
+   -122.46609
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "guild-house",
+  "n": 1146,
+  "name": "Guild House",
+  "by": "Venturi and Rauch",
+  "place": "Philadelphia, US",
+  "year": "1963",
+  "y": 1963,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Axis"
+  ],
+  "study": "Symmetric brick front with a big arched window and white band, once topped by a gilded TV antenna.",
+  "qid": "Q5615728",
+  "commons": null,
+  "lead": "File:Venturi Guild House.jpg",
+  "coords": [
+   39.9618,
+   -75.1507
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "notre-dame-du-raincy",
+  "n": 1147,
+  "name": "Notre-Dame du Raincy",
+  "by": "Auguste Perret",
+  "place": "Le Raincy, FR",
+  "year": "1923",
+  "y": 1923,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Prefabrication"
+  ],
+  "study": "A reinforced-concrete church on slender columns, its walls made of precast screens of coloured glass.",
+  "qid": "Q3246466",
+  "commons": "Category:Église Notre-Dame du Raincy",
+  "lead": "File:Le Raincy.Eglise Notre-Dame.jpg",
+  "coords": [
+   48.89574,
+   2.51354
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kresge-auditorium",
+  "n": 1148,
+  "name": "Kresge Auditorium",
+  "by": "Eero Saarinen",
+  "place": "Cambridge, US",
+  "year": "1955",
+  "y": 1955,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "study": "One-eighth of a sphere: a thin concrete shell resting on three points, with glass walls between.",
+  "qid": "Q6436787",
+  "commons": "Category:Kresge Auditorium",
+  "lead": "File:Kresge Auditorium, MIT (view with Green Building).JPG",
+  "coords": [
+   42.3581,
+   -71.0951
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-bianchi",
+  "n": 1149,
+  "name": "Casa Bianchi",
+  "by": "Mario Botta",
+  "place": "Riva San Vitale, CH",
+  "year": "1973",
+  "y": 1973,
+  "type": "House",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Landscape"
+  ],
+  "study": "A concrete-block tower house entered at the top by a red steel bridge from the hillside.",
+  "qid": "Q29527503",
+  "commons": "Category:Bianchi House (Via Formeggie 6, Riva San Vitale)",
+  "lead": "File:Κατοικία Μπιάντσι (Bianchi House).jpg",
+  "coords": [
+   45.91725,
+   8.96936
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "japan-pavilion-expo-2000",
+  "n": 1150,
+  "name": "Japan Pavilion, Expo 2000",
+  "by": "Shigeru Ban with Frei Otto",
+  "place": "Hanover, DE",
+  "year": "2000",
+  "y": 2000,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Low cost"
+  ],
+  "study": "A long gridshell of paper tubes under a paper membrane roof, designed to be recycled afterwards.",
+  "qid": "Q6055705",
+  "commons": "Category:Pavilion of Japan (Expo 2000)",
+  "lead": "File:Pabellón-Japón.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "sanatorium-purkersdorf",
+  "n": 1151,
+  "name": "Sanatorium Purkersdorf",
+  "by": "Josef Hoffmann",
+  "place": "Purkersdorf, AT",
+  "year": "1904",
+  "y": 1904,
+  "type": "Health",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Colour"
+  ],
+  "study": "Flat-roofed white cube on a concrete frame, with flush windows edged in blue-and-white chequer tiles.",
+  "qid": "Q873309",
+  "commons": "Category:Sanatorium Purkersdorf",
+  "lead": "File:Purkersdorf Sanatorium Ostseite.jpg",
+  "coords": [
+   48.20444,
+   16.19733
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mit-chapel",
+  "n": 1152,
+  "name": "MIT Chapel",
+  "by": "Eero Saarinen",
+  "place": "Cambridge, US",
+  "year": "1955",
+  "y": 1955,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Light from above",
+   "Brick",
+   "Water"
+  ],
+  "study": "Brick cylinder in a moat: water light glints through low arches, a skylight falls on Bertoia's metal screen.",
+  "qid": "Q6716291",
+  "commons": "Category:MIT Chapel",
+  "lead": "File:MIT Chapel, Cambridge, Massachusetts - exterior.JPG",
+  "coords": [
+   42.3583,
+   -71.0941
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "rosenthal-center-for-contemporary-art",
+  "n": 1153,
+  "name": "Rosenthal Center for Contemporary Art",
+  "by": "Zaha Hadid",
+  "place": "Cincinnati, US",
+  "year": "2003",
+  "y": 2003,
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Promenade",
+   "Section",
+   "Public space"
+  ],
+  "study": "The pavement curls up into the back wall as an 'urban carpet' beneath a jigsaw of stacked gallery boxes.",
+  "qid": "Q127608708",
+  "commons": "Category:Rosenthal Contemporary Arts Center",
+  "lead": "File:Contemporary Arts Center, Cincinnati, 2019.jpg",
+  "coords": [
+   39.1029,
+   -84.5122
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "galeries-lafayette-berlin",
+  "n": 1154,
+  "name": "Galeries Lafayette Berlin",
+  "by": "Jean Nouvel",
+  "place": "Berlin, DE",
+  "year": "1996",
+  "y": 1996,
+  "type": "Workplace",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Steel & glass",
+   "Void",
+   "Light from above"
+  ],
+  "study": "Glass department store cored by two glass cones that reflect daylight down through every floor.",
+  "qid": "Q1406145",
+  "commons": "Category:Quartier 207",
+  "lead": "File:GaleriesLafayetteBerlin.jpg",
+  "coords": [
+   52.5144,
+   13.39
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mccormick-tribune-campus-center",
+  "n": 1155,
+  "name": "McCormick Tribune Campus Center",
+  "by": "OMA / Rem Koolhaas",
+  "place": "Chicago, US",
+  "year": "2003",
+  "y": 2003,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Circulation",
+   "Public space",
+   "Steel & glass"
+  ],
+  "study": "A steel tube wraps the elevated train above a low hall whose diagonal paths follow students' shortcuts.",
+  "qid": "Q6800589",
+  "commons": "Category:McCormick Tribune Campus Center",
+  "lead": "File:MTCCfront.jpg",
+  "coords": [
+   41.8357,
+   -87.6258
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "olivetti-showroom",
+  "n": 1156,
+  "name": "Olivetti Showroom",
+  "by": "Carlo Scarpa",
+  "place": "Venice, IT",
+  "year": "1958",
+  "y": 1958,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Water"
+  ],
+  "study": "Narrow shop on St Mark's Square with a floating stone stair, glass-mosaic floors and a water basin.",
+  "qid": "Q3874260",
+  "commons": "Category:Negozio Olivetti (Venice)",
+  "lead": "File:Le magasin Olivetti de Carlo Scarpa (Venise) (8068024216).jpg",
+  "coords": [
+   45.43415,
+   12.33757
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "geisel-library",
+  "n": 1157,
+  "name": "Geisel Library",
+  "by": "William Pereira",
+  "place": "San Diego, US",
+  "year": "1970",
+  "y": 1970,
+  "type": "Library",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Exposed concrete"
+  ],
+  "study": "Reading floors stack out like an inverted stepped pyramid on splayed concrete piers above a glazed base.",
+  "qid": "Q962291",
+  "commons": "Category:Geisel Library",
+  "lead": "File:Geisel Library, UCSD.jpg",
+  "coords": [
+   32.88116,
+   -117.23765
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-du-peuple-clichy",
+  "n": 1158,
+  "name": "Maison du Peuple, Clichy",
+  "by": "Beaudouin & Lods with Jean Prouvé",
+  "place": "Clichy, FR",
+  "year": "1939",
+  "y": 1939,
+  "type": "Civic",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Free plan"
+  ],
+  "study": "Prefabricated light steel panels, a sliding roof and a movable floor let a market turn into a hall.",
+  "qid": "Q3280045",
+  "commons": "Category:Maison du Peuple (Clichy)",
+  "lead": "File:Vue de Maison du Peuple, Clichy.jpg",
+  "coords": [
+   48.9013,
+   2.3147
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "netherlands-pavilion-expo-2000",
+  "n": 1159,
+  "name": "Netherlands Pavilion, Expo 2000",
+  "by": "MVRDV",
+  "place": "Hanover, DE",
+  "year": "2000",
+  "y": 2000,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Landscape",
+   "Section",
+   "Planting"
+  ],
+  "study": "Stacked Dutch landscapes, from dunes and flowers to a forest floor, pile up into a vertical park.",
+  "qid": "Q39494701",
+  "commons": "Category:Pavilion of the Netherlands (Expo 2000)",
+  "lead": "File:Holländischer Pavillon 2017-09 Foto 9293.jpg",
+  "coords": [
+   52.31917,
+   9.82028
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "adgb-trade-union-school",
+  "n": 1160,
+  "name": "ADGB Trade Union School",
+  "by": "Hannes Meyer and Hans Wittwer",
+  "place": "Bernau bei Berlin, DE",
+  "year": "1930",
+  "y": 1930,
+  "type": "Education",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Circulation",
+   "Landscape",
+   "Brick"
+  ],
+  "study": "Staggered residential blocks step down a wooded slope along a glazed corridor to communal halls.",
+  "qid": "Q1006702",
+  "commons": "Category:ADGB Schule Bernau",
+  "lead": "File:Bernau bei Berlin ADGB Schule Wohntrakte vorne.jpg",
+  "coords": [
+   52.7065,
+   13.544
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "dz-bank-building",
+  "n": 1161,
+  "name": "DZ Bank Building",
+  "by": "Frank Gehry",
+  "place": "Berlin, DE",
+  "year": "2001",
+  "y": 2001,
+  "type": "Office & tower",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Void"
+  ],
+  "study": "A sober stone front on Pariser Platz hides a glass-roofed atrium holding a curving steel-clad conference hall.",
+  "qid": "Q1156269",
+  "commons": "Category:DG Bank Building",
+  "lead": "File:La DZ Bank AG (Berlin).jpg",
+  "coords": [
+   52.51556,
+   13.37889
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cube-houses",
+  "n": 1162,
+  "name": "Cube Houses",
+  "by": "Piet Blom",
+  "place": "Rotterdam, NL",
+  "year": "1984",
+  "y": 1984,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Pilotis",
+   "Cluster"
+  ],
+  "study": "Cubes tilted onto one corner sit on hexagonal pylons, forming a raised 'forest' of homes over a street.",
+  "qid": "Q1790954",
+  "commons": "Category:Cube houses",
+  "lead": "File:Rotterdam Cube House street view.jpg",
+  "coords": [
+   51.92028,
+   4.49056
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-malaparte",
+  "n": 1163,
+  "name": "Casa Malaparte",
+  "by": "Adalberto Libera and Curzio Malaparte",
+  "place": "Capri, IT",
+  "year": "1942",
+  "y": 1942,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Colour"
+  ],
+  "study": "Red masonry block on a cliff, with a wedge-shaped stair rising to a flat roof terrace and a curved white wall.",
+  "qid": "Q2165447",
+  "commons": "Category:Villa Malaparte (Capri)",
+  "lead": "File:Villa Malaparte 2.jpg",
+  "coords": [
+   40.54694,
+   14.25917
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "25-bis-rue-franklin",
+  "n": 1164,
+  "name": "25 bis rue Franklin",
+  "by": "Auguste Perret",
+  "place": "Paris, FR",
+  "year": "1904",
+  "y": 1904,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Detail"
+  ],
+  "study": "A concrete frame shown on the facade, filled with floral ceramic tiles, set around a U-shaped recessed front.",
+  "qid": "Q22922227",
+  "commons": "Category:25bis rue Benjamin-Franklin, Paris",
+  "lead": "File:Paris - 25bis rue Franklin (27669226167).jpg",
+  "coords": [
+   48.86071,
+   2.28586
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kagawa-prefectural-government-office",
+  "n": 1165,
+  "name": "Kagawa Prefectural Government Office",
+  "by": "Kenzō Tange",
+  "place": "Takamatsu, JP",
+  "year": "1958",
+  "y": 1958,
+  "type": "Civic",
+  "movement": "Brutalism",
+  "region": "East Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Pilotis",
+   "Structure as expression"
+  ],
+  "study": "Concrete balcony beam-ends echo timber joinery on every floor of the tower above an open pilotis lobby.",
+  "qid": "Q113547282",
+  "commons": "Category:Kagawa Prefectural Government Office East Building",
+  "lead": "File:4 Chome Banchō, Takamatsu-shi, Kagawa-ken 760-0017, Japan - panoramio.jpg",
+  "coords": [
+   34.3401,
+   134.0432
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tower-house",
+  "n": 1166,
+  "name": "Tower House",
+  "by": "Takamitsu Azuma",
+  "place": "Tokyo, JP",
+  "year": "1966",
+  "y": 1966,
+  "type": "House",
+  "movement": "Brutalism",
+  "region": "East Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Geometry"
+  ],
+  "study": "A slim exposed-concrete tower on a tiny triangular lot stacks its rooms around an open stair.",
+  "qid": "Q23044797",
+  "commons": null,
+  "lead": "File:Towerhouse 1.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "marugame-genichiro-inokuma-museum-of-contemporary-art-mimoca",
+  "n": 1167,
+  "name": "Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA)",
+  "by": "Yoshio Taniguchi",
+  "place": "Marugame, JP",
+  "year": "1991",
+  "y": 1991,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Public space",
+   "Monumentality",
+   "Geometry"
+  ],
+  "study": "A deep canopied forecourt facing the station is backed by a vast facade wall carrying Inokuma's mural.",
+  "qid": "Q11367991",
+  "commons": "Category:Marugame Genichiro-Inokuma Museum of Contemporary Art",
+  "lead": "File:Marugame Genichiro-Inokuma Museum of Contemporary Art exterior ac.jpg",
+  "coords": [
+   34.29122,
+   133.7921
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "keeling-house",
+  "n": 1168,
+  "name": "Keeling House",
+  "by": "Denys Lasdun",
+  "place": "London, GB",
+  "year": "1957",
+  "y": 1957,
+  "type": "Housing",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Exposed concrete",
+   "Community"
+  ],
+  "study": "Four maisonette towers fan out like butterfly wings from a central service core linked by bridges.",
+  "qid": "Q6382807",
+  "commons": "Category:Keeling House",
+  "lead": "File:Keeling House.jpg",
+  "coords": [
+   51.5309,
+   -0.06108
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "church-of-saint-nicolas-heremence",
+  "n": 1169,
+  "name": "Church of Saint-Nicolas, Hérémence",
+  "by": "Walter Maria Förderer",
+  "place": "Hérémence, CH",
+  "year": "1971",
+  "y": 1971,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "study": "A craggy cluster of rough concrete volumes rises like a rock outcrop above the mountain village.",
+  "qid": "Q16028671",
+  "commons": "Category:Roman Catholic parish church of Hérémence",
+  "lead": "File:Heremence Kirche-5.jpg",
+  "coords": [
+   46.18039,
+   7.40448
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "immeuble-molitor",
+  "n": 1170,
+  "name": "Immeuble Molitor",
+  "by": "Le Corbusier and Pierre Jeanneret",
+  "place": "Paris, FR",
+  "year": "1934",
+  "y": 1934,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Facade as skin",
+   "Vault",
+   "Steel & glass"
+  ],
+  "study": "A glass and glass-block facade on a party-wall flat block, topped by Le Corbusier's vaulted studio home.",
+  "qid": "Q3796698",
+  "commons": "Category:Immeuble Molitor",
+  "lead": null,
+  "coords": [
+   48.84339,
+   2.25129
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cite-de-refuge-salvation-army-hostel",
+  "n": 1171,
+  "name": "Cité de Refuge (Salvation Army Hostel)",
+  "by": "Le Corbusier",
+  "place": "Paris, FR",
+  "year": "1933",
+  "y": 1933,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Promenade",
+   "Brise-soleil",
+   "Facade as skin"
+  ],
+  "study": "An entry route of gateway, bridge and drum leads to a long slab whose glass wall later gained brise-soleil.",
+  "qid": "Q10453586",
+  "commons": "Category:Cité-refuge de l'Armée du Salut",
+  "lead": "File:Paris Rue du Chevaleret Armée du salut 001.jpg",
+  "coords": [
+   48.82667,
+   2.37667
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-museum-of-the-republic",
+  "n": 1172,
+  "name": "National Museum of the Republic",
+  "by": "Oscar Niemeyer",
+  "place": "Brasília, BR",
+  "year": "2006",
+  "y": 2006,
+  "type": "Museum",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Circulation",
+   "Geometry"
+  ],
+  "study": "A white concrete dome sits on the open esplanade, entered by a ramp curling out from its side.",
+  "qid": "Q10333582",
+  "commons": "Category:Museu Nacional Honestino Guimarães",
+  "lead": "File:Museu Nacional da República.jpg",
+  "coords": [
+   -15.79715,
+   -47.87868
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "matthauskirche-pforzheim",
+  "n": 1173,
+  "name": "Matthäuskirche Pforzheim",
+  "by": "Egon Eiermann",
+  "place": "Pforzheim, DE",
+  "year": "1953",
+  "y": 1953,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Light & shadow",
+   "Colour",
+   "Facade as skin"
+  ],
+  "study": "Walls of a concrete honeycomb grid infilled with coloured glass blocks fill the church with tinted light.",
+  "qid": "Q1543101",
+  "commons": "Category:Matthäuskirche (Pforzheim)",
+  "lead": "File:Eingangsseite mit kirchturm.jpg",
+  "coords": [
+   48.889,
+   8.65739
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "alvar-aalto-cultural-centre",
+  "n": 1174,
+  "name": "Alvar Aalto Cultural Centre",
+  "by": "Alvar Aalto",
+  "place": "Wolfsburg, DE",
+  "year": "1962",
+  "y": 1962,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Section",
+   "Courtyard",
+   "Stone"
+  ],
+  "study": "Stepped, fan-shaped lecture halls clad in striped marble rise over a library and a roof-level courtyard.",
+  "qid": "Q319194",
+  "commons": "Category:Alvar-Aalto-Kulturhaus",
+  "lead": "File:AlvarAaltoKulturhaus011.JPG",
+  "coords": [
+   52.4198,
+   10.786
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "morton-h-meyerson-symphony-center",
+  "n": 1175,
+  "name": "Morton H. Meyerson Symphony Center",
+  "by": "I. M. Pei",
+  "place": "Dallas, US",
+  "year": "1989",
+  "y": 1989,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "study": "A curved glass lobby wraps a shoebox concert hall set at an angle to the street grid.",
+  "qid": "Q670323",
+  "commons": "Category:Morton H. Meyerson Symphony Center",
+  "lead": "File:Dallas Meyerson Center 02.jpg",
+  "coords": [
+   32.7898,
+   -96.7986
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "aalto-hochhaus",
+  "n": 1176,
+  "name": "Aalto-Hochhaus",
+  "by": "Alvar Aalto",
+  "place": "Bremen, DE",
+  "year": "1962",
+  "y": 1962,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Geometry",
+   "Human comfort",
+   "Free plan"
+  ],
+  "study": "A fan-shaped tower plan spreads each flat's living room wide toward the west from a narrow corridor.",
+  "qid": "Q300972",
+  "commons": "Category:Aalto-Hochhaus",
+  "lead": "File:AaltoVahr-02.jpg",
+  "coords": [
+   53.0817,
+   8.8933
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bmw-central-building",
+  "n": 1177,
+  "name": "BMW Central Building",
+  "by": "Zaha Hadid",
+  "place": "Leipzig, DE",
+  "year": "2005",
+  "y": 2005,
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Circulation",
+   "Section",
+   "Exposed concrete"
+  ],
+  "study": "Cascading office floors sit under an overhead conveyor carrying car bodies through the open workspace.",
+  "qid": "Q4836031",
+  "commons": "Category:BMW Central Building",
+  "lead": "File:BMW Leipzig.JPG",
+  "coords": [
+   51.4081,
+   12.4435
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "villa-schwob-villa-turque",
+  "n": 1178,
+  "name": "Villa Schwob (Villa Turque)",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier)",
+  "place": "La Chaux-de-Fonds, CH",
+  "year": "1917",
+  "y": 1917,
+  "type": "House",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Brick",
+   "Axis"
+  ],
+  "study": "Concrete frame clad in brick, with apsidal side bays and a famous blank panel on the street front.",
+  "qid": "Q7930495",
+  "commons": "Category:Villa Anatole Schwob",
+  "lead": "File:CF05.jpg",
+  "coords": [
+   47.09961,
+   6.81705
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-louis-carre",
+  "n": 1179,
+  "name": "Maison Louis Carré",
+  "by": "Alvar Aalto",
+  "place": "Bazoches-sur-Guyonne, FR",
+  "year": "1959",
+  "y": 1959,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Section"
+  ],
+  "study": "A sloping slate roof follows the hillside over a hall with a wave-like timber ceiling.",
+  "qid": "Q3278852",
+  "commons": "Category:Maison Louis Carré",
+  "lead": "File:Maison louis carré sud est.jpg",
+  "coords": [
+   48.7699,
+   1.85421
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "christ-church-lutheran",
+  "n": 1180,
+  "name": "Christ Church Lutheran",
+  "by": "Eliel Saarinen",
+  "place": "Minneapolis, US",
+  "year": "1949",
+  "y": 1949,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Detail"
+  ],
+  "study": "A plain brick nave where a hidden side window washes the chancel wall in light.",
+  "qid": "Q281123",
+  "commons": "Category:Christ Church Lutheran",
+  "lead": "File:Christ Church Lutheran NE.jpg",
+  "coords": [
+   44.94361,
+   -93.22333
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "case-study-house-21-bailey-house",
+  "n": 1181,
+  "name": "Case Study House #21 (Bailey House)",
+  "by": "Pierre Koenig",
+  "place": "Los Angeles, US",
+  "year": "1959",
+  "y": 1959,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Water",
+   "Modular"
+  ],
+  "study": "A steel-framed glass pavilion ringed by reflecting pools, with an open court at its centre.",
+  "qid": "Q803799",
+  "commons": "Category:Bailey House (Los Angeles)",
+  "lead": "File:Case Study 21.jpg",
+  "coords": [
+   34.1166,
+   -118.392
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "french-communist-party-headquarters",
+  "n": 1182,
+  "name": "French Communist Party Headquarters",
+  "by": "Oscar Niemeyer",
+  "place": "Paris, FR",
+  "year": "1971",
+  "y": 1971,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "A curving glass office wall rises behind a white dome capping an underground assembly hall.",
+  "qid": "Q496060",
+  "commons": "Category:Headquarters of the French Communist Party",
+  "lead": "File:Communist Party HQ, Place du Colonel Fabien, Paris July 2014.jpg",
+  "coords": [
+   48.87778,
+   2.37167
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pennzoil-place",
+  "n": 1183,
+  "name": "Pennzoil Place",
+  "by": "Philip Johnson and John Burgee",
+  "place": "Houston, US",
+  "year": "1975",
+  "y": 1975,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "study": "Two trapezoidal dark-glass towers with sloped tops nearly touch across a narrow slot.",
+  "qid": "Q3512622",
+  "commons": "Category:Pennzoil Place",
+  "lead": "File:Pennzoil Place in Houston.JPG",
+  "coords": [
+   29.7603,
+   -95.3657
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "fuji-television-building",
+  "n": 1184,
+  "name": "Fuji Television Building",
+  "by": "Kenzō Tange",
+  "place": "Tokyo, JP",
+  "year": "1996",
+  "y": 1996,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Megastructure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "study": "Two blocks joined by a lattice of sky corridors that holds a titanium-clad sphere.",
+  "qid": "Q10954019",
+  "commons": "Category:FCG Headquarters Building",
+  "lead": "File:FCG Headquarters Building.JPG",
+  "coords": [
+   35.62694,
+   139.77444
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "sheats-goldstein-residence",
+  "n": 1185,
+  "name": "Sheats-Goldstein Residence",
+  "by": "John Lautner",
+  "place": "Los Angeles, US",
+  "year": "1963",
+  "y": 1963,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Light from above"
+  ],
+  "study": "A coffered concrete roof studded with glass tumblers as skylights shelters a frameless glass living room.",
+  "qid": "Q2178401",
+  "commons": "Category:Sheats Goldstein Residence",
+  "lead": "File:USA CA Sheats-Goldstein 08.jpg",
+  "coords": [
+   34.0936,
+   -118.435
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ikmz-library-btu-cottbus",
+  "n": 1186,
+  "name": "IKMZ Library, BTU Cottbus",
+  "by": "Herzog & de Meuron",
+  "place": "Cottbus, DE",
+  "year": "2004",
+  "y": 2004,
+  "type": "Library",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Sculptural form"
+  ],
+  "study": "An amoeba-plan tower wrapped in glass printed with overlapping letters, with a brightly coloured spiral stair.",
+  "qid": "Q1662515",
+  "commons": "Category:IKMZ Cottbus",
+  "lead": "File:IKMZ.jpg",
+  "coords": [
+   51.7672,
+   14.3294
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bakhmetevsky-bus-garage",
+  "n": 1187,
+  "name": "Bakhmetevsky Bus Garage",
+  "by": "Konstantin Melnikov with Vladimir Shukhov",
+  "place": "Moscow, RU",
+  "year": "1928",
+  "y": 1928,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Structure as expression",
+   "Circulation",
+   "Geometry"
+  ],
+  "study": "A parallelogram plan lets buses drive through without reversing, under Shukhov's steel trusses.",
+  "qid": "Q1976364",
+  "commons": "Category:Bakhmetevsky Bus Garage",
+  "lead": "File:Moscow BakhmetevskyGarage 191 8304.jpg",
+  "coords": [
+   55.78925,
+   37.60811
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kentuck-knob",
+  "n": 1188,
+  "name": "Kentuck Knob",
+  "by": "Frank Lloyd Wright",
+  "place": "Chalk Hill, US",
+  "year": "1956",
+  "y": 1956,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Earth & local material",
+   "Geometry",
+   "Landscape"
+  ],
+  "study": "A hexagon-module Usonian house of local sandstone and cypress under an overhanging copper roof.",
+  "qid": "Q283587",
+  "commons": "Category:Kentuck Knob",
+  "lead": "File:Kentuck Knob 20190516 (24) - \"Courtyard-Carport\".jpg",
+  "coords": [
+   39.86944,
+   -79.52
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "humana-building",
+  "n": 1189,
+  "name": "Humana Building",
+  "by": "Michael Graves",
+  "place": "Louisville, US",
+  "year": "1985",
+  "y": 1985,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Stone",
+   "Colour",
+   "Monumentality"
+  ],
+  "study": "A layered granite tower with a colonnaded loggia at its base and a cantilevered terrace high up.",
+  "qid": "Q650028",
+  "commons": "Category:Humana Building",
+  "lead": "File:HumanaBuilding1.jpg",
+  "coords": [
+   38.2565,
+   -85.7587
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "berlin-state-library-haus-potsdamer-strae",
+  "n": 1190,
+  "name": "Berlin State Library (Haus Potsdamer Straße)",
+  "by": "Hans Scharoun",
+  "place": "Berlin, DE",
+  "year": "1978",
+  "y": 1978,
+  "type": "Library",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Free plan",
+   "Light from above",
+   "Section"
+  ],
+  "study": "Terraced reading platforms flow through one vast hall lit from above by many skylights.",
+  "qid": "Q1675021",
+  "commons": "Category:Staatsbibliothek zu Berlin (Kulturforum)",
+  "lead": "File:Staatsbibliothek zu Berlin Haus 2.jpg",
+  "coords": [
+   52.5075,
+   13.3707
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "aalto-house-riihitie",
+  "n": 1191,
+  "name": "Aalto House (Riihitie)",
+  "by": "Alvar Aalto and Aino Aalto",
+  "place": "Helsinki, FI",
+  "year": "1936",
+  "y": 1936,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Landscape"
+  ],
+  "study": "Whitewashed brick and dark timber cladding wrap a house and studio stepped toward the garden.",
+  "qid": "Q17405833",
+  "commons": "Category:Villa Aalto (Helsinki)",
+  "lead": "File:Alvar Aallon kotitalo.jpg",
+  "coords": [
+   60.19673,
+   24.87647
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "2-willow-road",
+  "n": 1192,
+  "name": "2 Willow Road",
+  "by": "Ernő Goldfinger",
+  "place": "London, GB",
+  "year": "1939",
+  "y": 1939,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Free plan",
+   "Detail"
+  ],
+  "study": "A concrete-framed brick terrace with a spiral stair core and a long first-floor window band.",
+  "qid": "Q222881",
+  "commons": "Category:2 Willow Road",
+  "lead": "File:1-3 Willow Road.jpg",
+  "coords": [
+   51.55722,
+   -0.16917
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "co-cathedral-of-the-great-mother-of-god-gran-madre-di-dio",
+  "n": 1193,
+  "name": "Co-Cathedral of the Great Mother of God (Gran Madre di Dio)",
+  "by": "Gio Ponti",
+  "place": "Taranto, IT",
+  "year": "1970",
+  "y": 1970,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Light & shadow"
+  ],
+  "study": "A pierced, sail-like white screen rises above the church and is reflected in pools below.",
+  "qid": "Q3685974",
+  "commons": "Category:Concattedrale Gran Madre di Dio",
+  "lead": "File:Taranto - Concattedrale Gran Madre di Dio - 2024-09-18 21-55-18 001.jpg",
+  "coords": [
+   40.46189,
+   17.27032
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-hermes",
+  "n": 1194,
+  "name": "Maison Hermès",
+  "by": "Renzo Piano",
+  "place": "Tokyo, JP",
+  "year": "2001",
+  "y": 2001,
+  "type": "Workplace",
+  "movement": "High-tech",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Detail"
+  ],
+  "study": "A skin of custom glass blocks glows like a lantern, its frame designed to flex in earthquakes.",
+  "qid": "Q12286421",
+  "commons": "Category:Maison Hermès, Tokyo",
+  "lead": "File:Hermes Ginza 2018.jpg",
+  "coords": [
+   35.67189,
+   139.76328
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "milam-residence",
+  "n": 1195,
+  "name": "Milam Residence",
+  "by": "Paul Rudolph",
+  "place": "Ponte Vedra Beach, US",
+  "year": "1961",
+  "y": 1961,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Brise-soleil",
+   "Geometry",
+   "Climate response"
+  ],
+  "study": "A deep concrete-block grid of frames and planes screens the house from the ocean sun.",
+  "qid": "Q110722976",
+  "commons": "Category:Arthur Milam House",
+  "lead": "File:FL Ponte Vedra Beach Arthur Milam House02.jpg",
+  "coords": [
+   30.17389,
+   -81.35944
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "haus-des-rundfunks",
+  "n": 1196,
+  "name": "Haus des Rundfunks",
+  "by": "Hans Poelzig",
+  "place": "Berlin, DE",
+  "year": "1931",
+  "y": 1931,
+  "type": "Workplace",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Facade as skin"
+  ],
+  "study": "A long dark clinker-brick front wraps a triangular plan, with the sound studios shielded inside it.",
+  "qid": "Q316021",
+  "commons": "Category:Haus des Rundfunks",
+  "lead": "File:Berlin - Haus des Rundfunks.jpg",
+  "coords": [
+   52.508,
+   13.2769
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mausebunker",
+  "n": 1197,
+  "name": "Mäusebunker",
+  "by": "Gerd and Magdalena Hänska",
+  "place": "Berlin, DE",
+  "year": "1981",
+  "y": 1981,
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "study": "A battleship-like concrete wedge of sloped walls bristling with blue ventilation pipes and angled windows.",
+  "qid": "Q62669101",
+  "commons": "Category:Forschungseinrichtung für experimentelle Medizin",
+  "lead": "File:Zentrale-Tierlaboratorien-Krahmerstr-Berlin-Lichterfelde-03-2017b.jpg",
+  "coords": [
+   52.43659,
+   13.31696
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maria-regina-martyrum",
+  "n": 1198,
+  "name": "Maria Regina Martyrum",
+  "by": "Hans Schädel and Friedrich Ebert",
+  "place": "Berlin, DE",
+  "year": "1963",
+  "y": 1963,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Section"
+  ],
+  "study": "A high grey wall encloses a memorial forecourt; the church sits as a raised box above a lower crypt.",
+  "qid": "Q1896259",
+  "commons": "Category:Maria Regina Martyrum (Berlin)",
+  "lead": "File:Berlin-ChbgN Maria Regina Martyrum asv2022-11 img1.jpg",
+  "coords": [
+   52.54032,
+   13.2985
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "vdl-research-house",
+  "n": 1199,
+  "name": "VDL Research House",
+  "by": "Richard Neutra",
+  "place": "Los Angeles, US",
+  "year": "1932",
+  "y": 1932,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Steel & glass",
+   "Water",
+   "Planting"
+  ],
+  "study": "A compact glass house layered with screens, roof garden and reflecting pool, facing Silver Lake.",
+  "qid": "Q1693486",
+  "commons": "Category:Neutra VDL Studio and Residences",
+  "lead": "File:NeutraHouse004 cropped sm.jpg",
+  "coords": [
+   34.09845,
+   -118.26046
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-planells",
+  "n": 1200,
+  "name": "Casa Planells",
+  "by": "Josep Maria Jujol",
+  "place": "Barcelona, ES",
+  "year": "1924",
+  "y": 1924,
+  "type": "Housing",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "study": "A narrow corner block on the Diagonal whose curved facade and wavy balconies turn the corner.",
+  "qid": "Q3661146",
+  "commons": "Category:Casa Planells",
+  "lead": "File:Jujol casa Planells 9867.jpg",
+  "coords": [
+   41.40057,
+   2.17457
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "city-hall-and-central-library-the-hague",
+  "n": 1201,
+  "name": "City Hall and Central Library, The Hague",
+  "by": "Richard Meier",
+  "place": "The Hague, NL",
+  "year": "1995",
+  "y": 1995,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Light from above",
+   "Double height",
+   "Circulation"
+  ],
+  "study": "Two white slabs enclose a vast glass-roofed atrium crossed by bridges, nicknamed the Ice Palace.",
+  "qid": "Q7474100",
+  "commons": "Category:The Hague City Hall",
+  "lead": "File:GraphyArchy - Wikipedia 00821 crop.jpg",
+  "coords": [
+   52.0779,
+   4.31722
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mube-brazilian-museum-of-sculpture",
+  "n": 1202,
+  "name": "MuBE – Brazilian Museum of Sculpture",
+  "by": "Paulo Mendes da Rocha",
+  "place": "São Paulo, BR",
+  "year": "1995",
+  "y": 1995,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "study": "A single huge concrete beam spans a sunken plaza, with the galleries buried under the garden.",
+  "qid": "Q2923400",
+  "commons": "Category:Museu Brasileiro da Escultura",
+  "lead": "File:Museu Brasileiro da Escultura, MuBE.jpg",
+  "coords": [
+   -23.57327,
+   -46.67671
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-jean-prouve",
+  "n": 1203,
+  "name": "Maison Jean Prouvé",
+  "by": "Jean Prouvé",
+  "place": "Nancy, FR",
+  "year": "1954",
+  "y": 1954,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Prefabrication",
+   "Reclaimed material",
+   "Modular"
+  ],
+  "study": "Leftover factory panels, some with porthole windows, form a long low house set into a steep slope.",
+  "qid": "Q3279404",
+  "commons": "Category:Maison de Jean Prouvé",
+  "lead": "File:Maison de Jean Prouvé 04.jpg",
+  "coords": [
+   48.70076,
+   6.16149
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "house-of-the-black-madonna",
+  "n": 1204,
+  "name": "House of the Black Madonna",
+  "by": "Josef Gočár",
+  "place": "Prague, CZ",
+  "year": "1912",
+  "y": 1912,
+  "type": "Museum",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "study": "Cubist facade of crystalline window frames and a faceted mansard, keeping a baroque Madonna at the corner.",
+  "qid": "Q2717859",
+  "commons": "Category:House of the Black Madonna",
+  "lead": "File:Praha dům U Černé Matky Boží 1.jpg",
+  "coords": [
+   50.087,
+   14.42545
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "nebraska-state-capitol",
+  "n": 1205,
+  "name": "Nebraska State Capitol",
+  "by": "Bertram Goodhue",
+  "place": "Lincoln, US",
+  "year": "1932",
+  "y": 1932,
+  "type": "Civic",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Courtyard"
+  ],
+  "study": "A tall tower rises from a low square base wrapped around four courtyards, rich with carved stone.",
+  "qid": "Q1683354",
+  "commons": "Category:Nebraska State Capitol",
+  "lead": "File:Nebraska State Capitol, K Street, Lincoln, NE - 53709344071.jpg",
+  "coords": [
+   40.80806,
+   -96.69972
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "muuratsalo-experimental-house",
+  "n": 1206,
+  "name": "Muuratsalo Experimental House",
+  "by": "Alvar Aalto",
+  "place": "Jyväskylä, FI",
+  "year": "1953",
+  "y": 1953,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Detail"
+  ],
+  "study": "Courtyard walls patched with dozens of brick and tile test panels around a central fire pit.",
+  "qid": "Q5755595",
+  "commons": "Category:Muuratsalo Experimental House",
+  "lead": "File:Inner court Muuratsalo Experimental House.jpg",
+  "coords": [
+   62.11476,
+   25.74496
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "darwin-d-martin-house",
+  "n": 1207,
+  "name": "Darwin D. Martin House",
+  "by": "Frank Lloyd Wright",
+  "place": "Buffalo, US",
+  "year": "1905",
+  "y": 1905,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Axis",
+   "Free plan"
+  ],
+  "study": "Long Prairie house of Roman brick under low hipped roofs, linked by a pergola to a conservatory.",
+  "qid": "Q1166906",
+  "commons": "Category:Darwin D. Martin House",
+  "lead": "File:Darwin D. Martin House.jpg",
+  "coords": [
+   42.93611,
+   -78.84806
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "rdovre-town-hall",
+  "n": 1208,
+  "name": "Rødovre Town Hall",
+  "by": "Arne Jacobsen",
+  "place": "Rødovre, DK",
+  "year": "1956",
+  "y": 1956,
+  "type": "Civic",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Facade as skin"
+  ],
+  "study": "A precise curtain-wall slab with dark end walls; inside, a stair hangs from thin steel rods.",
+  "qid": "Q7386717",
+  "commons": "Category:Rødovre Town Hall",
+  "lead": "File:Rødovre town hall, 1952-1956.jpg",
+  "coords": [
+   55.68135,
+   12.45596
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "millard-house-la-miniatura",
+  "n": 1209,
+  "name": "Millard House (La Miniatura)",
+  "by": "Frank Lloyd Wright",
+  "place": "Pasadena, US",
+  "year": "1923",
+  "y": 1923,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Prefabrication",
+   "Detail",
+   "Landscape"
+  ],
+  "study": "Wright's first textile-block house: patterned cast concrete blocks rise in a tall cube over a ravine.",
+  "qid": "Q965011",
+  "commons": "Category:Millard House",
+  "lead": "File:Millard House, Pasadena.JPG",
+  "coords": [
+   34.15544,
+   -118.16178
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "jacobs-ii-house-solar-hemicycle",
+  "n": 1210,
+  "name": "Jacobs II House (Solar Hemicycle)",
+  "by": "Frank Lloyd Wright",
+  "place": "Middleton, US",
+  "year": "1948",
+  "y": 1948,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Climate response",
+   "Stone",
+   "Earth & local material"
+  ],
+  "study": "A curved stone house bermed into earth on the north opens a glazed arc to a sunken south garden.",
+  "qid": "Q14714454",
+  "commons": "Category:Herbert and Katherine Jacobs Second House",
+  "lead": "File:Herbert and Katherine Jacobs Second House - panoramio.jpg",
+  "coords": [
+   43.0739,
+   -89.5347
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "romeo-und-julia",
+  "n": 1211,
+  "name": "Romeo und Julia",
+  "by": "Hans Scharoun and Wilhelm Frank",
+  "place": "Stuttgart, DE",
+  "year": "1959",
+  "y": 1959,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Sculptural form"
+  ],
+  "study": "A tower and a stepped horseshoe block of flats with angled walls and jutting balconies, few right angles.",
+  "qid": "Q28858459",
+  "commons": "Category:Romeo und Julia (Stuttgart-Rot)",
+  "lead": "File:Scharoun RomeoJulia-pjt.jpg",
+  "coords": [
+   48.83069,
+   9.18428
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "fisher-house",
+  "n": 1212,
+  "name": "Fisher House",
+  "by": "Louis Kahn",
+  "place": "Hatboro, US",
+  "year": "1967",
+  "y": 1967,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Detail"
+  ],
+  "study": "Two cypress-clad cubes set at 45 degrees on a stone base, one for living and one for sleeping.",
+  "qid": "Q5454810",
+  "commons": "Category:Fisher House (Hatboro, Pennsylvania)",
+  "lead": "File:DOCTOR NORMAN AND DORIS FISHER HOUSE, MONTGOMERY COUNTY, PA.jpg",
+  "coords": [
+   40.16695,
+   -75.10839
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "umbrella-house-hiss-residence",
+  "n": 1213,
+  "name": "Umbrella House (Hiss Residence)",
+  "by": "Paul Rudolph",
+  "place": "Sarasota, US",
+  "year": "1953",
+  "y": 1953,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Light & shadow"
+  ],
+  "study": "A slatted timber umbrella roof floats above the house and pool, shading both from the Florida sun.",
+  "qid": "Q60358118",
+  "commons": "Category:Hiss Residence",
+  "lead": "File:Umbrella House (Paul Rudolph, Architect, FAIA).jpg",
+  "coords": [
+   27.32889,
+   -82.58361
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "musikverein",
+  "n": 1214,
+  "name": "Musikverein",
+  "by": "Theophil Hansen",
+  "place": "Vienna, AT",
+  "year": "1870",
+  "y": 1870,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Monumentality"
+  ],
+  "study": "A gilded shoebox hall lined with caryatids under a coffered ceiling, a benchmark for concert acoustics.",
+  "qid": "Q686720",
+  "commons": "Category:Musikverein, Vienna",
+  "lead": "File:Wien - Haus des Wiener Musikvereins (1).JPG",
+  "coords": [
+   48.20049,
+   16.37274
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "liege-guillemins-station",
+  "n": 1215,
+  "name": "Liège-Guillemins Station",
+  "by": "Santiago Calatrava",
+  "place": "Liège, BE",
+  "year": "2009",
+  "y": 2009,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Vault"
+  ],
+  "study": "A vast white steel-and-glass vault spans the tracks with no closed facade, open toward the city.",
+  "qid": "Q801116",
+  "commons": "Category:Liège-Guillemins train station",
+  "lead": "File:Station Luik-Guillemins Zijkant.jpg",
+  "coords": [
+   50.6247,
+   5.56697
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "villa-goth",
+  "n": 1216,
+  "name": "Villa Göth",
+  "by": "Bengt Edman and Lennart Holm",
+  "place": "Uppsala, SE",
+  "year": "1950",
+  "y": 1950,
+  "type": "House",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Detail"
+  ],
+  "study": "Bare brick walls and exposed concrete beams left raw inside: the house that prompted the word brutalism.",
+  "qid": "Q10715473",
+  "commons": "Category:Villa Göth",
+  "lead": "File:Villa Göth crop.jpg",
+  "coords": [
+   59.84398,
+   17.62979
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "church-on-the-wind",
+  "n": 1217,
+  "name": "Church on the Wind",
+  "by": "Tadao Ando",
+  "place": "Kobe, JP",
+  "year": "1986",
+  "y": 1986,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "region": "East Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Promenade",
+   "Light & shadow"
+  ],
+  "study": "A long frosted-glass colonnade leads to a concrete chapel framing a view of the hillside.",
+  "qid": "Q11665348",
+  "commons": "Category:Church of the Wind",
+  "lead": "File:Kaze no kyokai05n2048.jpg",
+  "coords": [
+   34.75639,
+   135.24556
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "monte-amiata-housing-gallaratese",
+  "n": 1218,
+  "name": "Monte Amiata Housing (Gallaratese)",
+  "by": "Carlo Aymonino and Aldo Rossi",
+  "place": "Milan, IT",
+  "year": "1974",
+  "y": 1974,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Community",
+   "Colour",
+   "Circulation"
+  ],
+  "study": "Red blocks gather around open-air theatres, beside Rossi's long white gallery block on blade walls.",
+  "qid": "Q890463",
+  "commons": "Category:Monte Amiata housing estate",
+  "lead": "File:Complesso abitativo gallaratese Monte Amiata 3.jpg",
+  "coords": [
+   45.49962,
+   9.10097
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "scharoun-theatre-wolfsburg",
+  "n": 1219,
+  "name": "Scharoun Theatre Wolfsburg",
+  "by": "Hans Scharoun",
+  "place": "Wolfsburg, DE",
+  "year": "1973",
+  "y": 1973,
+  "type": "Culture & sport",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Circulation",
+   "Free plan"
+  ],
+  "study": "Fan-shaped auditorium and flowing, asymmetric foyer levels in Scharoun's organic plan.",
+  "qid": "Q2415996",
+  "commons": "Category:Theater Wolfsburg",
+  "lead": "File:Scharoun, Hans - Theater (Wolfsburg) 1600px.jpg",
+  "coords": [
+   52.4158,
+   10.7806
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "prado-museum-extension",
+  "n": 1220,
+  "name": "Prado Museum extension",
+  "by": "Rafael Moneo",
+  "place": "Madrid, ES",
+  "year": "2007",
+  "y": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Brick"
+  ],
+  "study": "A brick cube wraps the rebuilt Jerónimos cloister, joined to the Villanueva building by an underground hall.",
+  "qid": "Q47529298",
+  "commons": "Category:Extension of Museo del Prado",
+  "lead": "File:® MADRID E.U.S. ARTECTURA MUSEO DEL PRADO - panoramio (1).jpg",
+  "coords": [
+   40.4139,
+   -3.6919
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "robert-c-weaver-federal-building",
+  "n": 1221,
+  "name": "Robert C. Weaver Federal Building",
+  "by": "Marcel Breuer",
+  "place": "Washington, D.C., US",
+  "year": "1968",
+  "y": 1968,
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Prefabrication",
+   "Pilotis",
+   "Exposed concrete"
+  ],
+  "study": "Curved X-shaped plan raised on sculpted concrete pilotis, its precast window grid repeated on every face.",
+  "qid": "Q7342666",
+  "commons": "Category:Robert C. Weaver Federal Building",
+  "lead": "File:Department of Housing and Urban Development.JPG",
+  "coords": [
+   38.88389,
+   -77.02278
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "torre-de-la-creu",
+  "n": 1222,
+  "name": "Torre de la Creu",
+  "by": "Josep Maria Jujol",
+  "place": "Sant Joan Despí, ES",
+  "year": "1916",
+  "y": 1916,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Geometry"
+  ],
+  "study": "Interlocking cylinders capped by trencadís-tiled domes, one rising as a tower crowned by a cross.",
+  "qid": "Q9088974",
+  "commons": "Category:Torre de la Creu",
+  "lead": "File:Torre de la Creu.JPG",
+  "coords": [
+   41.3681,
+   2.06039
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "auditorium-niccolo-paganini",
+  "n": 1223,
+  "name": "Auditorium Niccolò Paganini",
+  "by": "Renzo Piano",
+  "place": "Parma, IT",
+  "year": "2001",
+  "y": 2001,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "study": "A disused sugar factory shell opened with glass end walls so the concert hall looks out onto the park.",
+  "qid": "Q3629506",
+  "commons": "Category:Auditorium Niccolò Paganini",
+  "lead": "File:0340271236 auditorium paganini 2.JPG",
+  "coords": [
+   44.80162,
+   10.3432
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "herbert-f-johnson-museum-of-art",
+  "n": 1224,
+  "name": "Herbert F. Johnson Museum of Art",
+  "by": "I. M. Pei",
+  "place": "Ithaca, US",
+  "year": "1973",
+  "y": 1973,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Void",
+   "Landscape"
+  ],
+  "study": "A concrete block with a huge open void cut through it, framing views over Cayuga Lake.",
+  "qid": "Q136422811",
+  "commons": "Category:Herbert F. Johnson Museum of Art",
+  "lead": "File:Johnson-museum-of-art-cornell.JPG",
+  "coords": [
+   42.4508,
+   -76.4865
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lake-point-tower",
+  "n": 1225,
+  "name": "Lake Point Tower",
+  "by": "Schipporeit-Heinrich",
+  "place": "Chicago, US",
+  "year": "1968",
+  "y": 1968,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "Three-winged curving tower in bronze-tinted glass, built on Mies's 1922 glass skyscraper idea.",
+  "qid": "Q1801054",
+  "commons": "Category:Lake Point Tower (Chicago)",
+  "lead": "File:Lake Point Tower.jpg",
+  "coords": [
+   41.89167,
+   -87.61222
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-applied-arts-frankfurt",
+  "n": 1226,
+  "name": "Museum of Applied Arts Frankfurt",
+  "by": "Richard Meier",
+  "place": "Frankfurt, DE",
+  "year": "1985",
+  "y": 1985,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Light & shadow"
+  ],
+  "study": "White panelled blocks take their grid from the old Villa Metzler, linked by ramps along the Main.",
+  "qid": "Q198418",
+  "commons": "Category:Museum für Angewandte Kunst, Frankfurt",
+  "lead": "File:Frankfurt Museum Angewandte Kunst 2011.jpg",
+  "coords": [
+   50.1064,
+   8.68139
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cadet-chapel-us-air-force-academy",
+  "n": 1227,
+  "name": "Cadet Chapel, US Air Force Academy",
+  "by": "Walter Netsch (SOM)",
+  "place": "Colorado Springs, US",
+  "year": "1962",
+  "y": 1962,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "study": "A row of aluminium-clad tetrahedra forms folded spires with strips of coloured glass between them.",
+  "qid": "Q7889201",
+  "commons": "Category:United States Air Force Academy Cadet Chapel",
+  "lead": "File:Air Force Academy Chapel, Colorado Springs, CO 04090u original.jpg",
+  "coords": [
+   39.00845,
+   -104.89038
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "documentation-center-nazi-party-rally-grounds",
+  "n": 1228,
+  "name": "Documentation Center Nazi Party Rally Grounds",
+  "by": "Günther Domenig",
+  "place": "Nuremberg, DE",
+  "year": "2001",
+  "y": 2001,
+  "type": "Memorial",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Steel & glass"
+  ],
+  "study": "A glass-and-steel shaft stabs diagonally through the unfinished Nazi Congress Hall.",
+  "qid": "Q877333",
+  "commons": "Category:Reichsparteitagsgelände",
+  "lead": "File:Documentation center entrance nuernberg may2011.jpg",
+  "coords": [
+   49.4339,
+   11.1128
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "herz-jesu-kirche",
+  "n": 1229,
+  "name": "Herz-Jesu-Kirche",
+  "by": "Allmann Sattler Wappner",
+  "place": "Munich, DE",
+  "year": "2000",
+  "y": 2000,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Light & shadow",
+   "Facade as skin",
+   "Timber"
+  ],
+  "study": "A glass cube around an inner box of timber louvres, its whole front opening on giant blue glass doors.",
+  "qid": "Q879736",
+  "commons": "Category:Herz Jesu (München)",
+  "lead": "File:Muenchen-Herz-Jesu-bjs-2.jpg",
+  "coords": [
+   48.1563,
+   11.5287
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bundeskunsthalle",
+  "n": 1230,
+  "name": "Bundeskunsthalle",
+  "by": "Gustav Peichl",
+  "place": "Bonn, DE",
+  "year": "1992",
+  "y": 1992,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Planting"
+  ],
+  "study": "A square gallery block whose roof garden carries three blue-tiled cones that light the halls below.",
+  "qid": "Q879960",
+  "commons": "Category:Kunst- und Ausstellungshalle der Bundesrepublik Deutschland",
+  "lead": "File:Kunst- und Ausstellungshalle der Bundesrepublik Deutschland - Bundeskunsthalle-9245.jpg",
+  "coords": [
+   50.7142,
+   7.12203
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "munkegaard-school",
+  "n": 1231,
+  "name": "Munkegaard School",
+  "by": "Arne Jacobsen",
+  "place": "Gentofte, DK",
+  "year": "1957",
+  "y": 1957,
+  "type": "Education",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Courtyard",
+   "Modular",
+   "Light from above"
+  ],
+  "study": "Single-storey classrooms, each with its own small garden courtyard, laid out on a chequerboard grid.",
+  "qid": "Q15260263",
+  "commons": "Category:Munkegårdsskolen",
+  "lead": "File:Munkegårdsskolen Arne Jacobsen.jpg",
+  "coords": [
+   55.73528,
+   12.52194
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "asilo-sant-elia",
+  "n": 1232,
+  "name": "Asilo Sant'Elia",
+  "by": "Giuseppe Terragni",
+  "place": "Como, IT",
+  "year": "1937",
+  "y": 1937,
+  "type": "Education",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Courtyard",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "study": "Kindergarten around a courtyard, its glazed classrooms shaded by a free concrete frame with awnings.",
+  "qid": "Q3625124",
+  "commons": "Category:Asilo Sant'Elia (Como)",
+  "lead": "File:Asilosantelia.jpg",
+  "coords": [
+   45.79849,
+   9.08866
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "agora-theatre",
+  "n": 1233,
+  "name": "Agora Theatre",
+  "by": "UNStudio",
+  "place": "Lelystad, NL",
+  "year": "2007",
+  "y": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "study": "A faceted, folded skin of orange and yellow panels wraps the stage tower and foyers.",
+  "qid": "Q5364010",
+  "commons": "Category:Agoratheater",
+  "lead": "File:Agoratheater - exterieur.jpg",
+  "coords": [
+   52.51083,
+   5.47583
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "nantes-courthouse",
+  "n": 1234,
+  "name": "Nantes Courthouse",
+  "by": "Jean Nouvel",
+  "place": "Nantes, FR",
+  "year": "2000",
+  "y": 2000,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "study": "A black grid of slender columns and a vast dark hall give a severe image of justice by the Loire.",
+  "qid": "Q3361014",
+  "commons": "Category:Palais de justice de Nantes",
+  "lead": "File:Palais de Justice @ Nantes (7899234144).jpg",
+  "coords": [
+   47.2076,
+   -1.56147
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "sheldon-museum-of-art",
+  "n": 1235,
+  "name": "Sheldon Museum of Art",
+  "by": "Philip Johnson",
+  "place": "Lincoln, US",
+  "year": "1963",
+  "y": 1963,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "study": "A travertine temple of tapered columns and arches around a grand central hall.",
+  "qid": "Q7493533",
+  "commons": "Category:Sheldon Museum of Art (Lincoln, Nebraska)",
+  "lead": "File:Sheldon Gallery (Lincoln, NE) from NE 1.JPG",
+  "coords": [
+   40.81755,
+   -96.70447
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "wittgenstein-house",
+  "n": 1236,
+  "name": "Wittgenstein House",
+  "by": "Ludwig Wittgenstein and Paul Engelmann",
+  "place": "Vienna, AT",
+  "year": "1928",
+  "y": 1928,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "study": "Austere plastered cubes with tall steel doors and windows, every proportion refined by Wittgenstein.",
+  "qid": "Q874557",
+  "commons": "Category:Haus Wittgenstein",
+  "lead": "File:HauswittgenAug93.jpg",
+  "coords": [
+   48.2034,
+   16.3942
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "burrell-collection",
+  "n": 1237,
+  "name": "Burrell Collection",
+  "by": "Barry Gasson, John Meunier and Brit Andresen",
+  "place": "Glasgow, GB",
+  "year": "1983",
+  "y": 1983,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Stone"
+  ],
+  "study": "A glass gallery runs along a woodland edge, with medieval stone portals set into its sandstone walls.",
+  "qid": "Q1016909",
+  "commons": "Category:Burrell Collection",
+  "lead": "File:Wfm burrell collection.jpg",
+  "coords": [
+   55.83094,
+   -4.30773
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hotel-marques-de-riscal",
+  "n": 1238,
+  "name": "Hotel Marqués de Riscal",
+  "by": "Frank Gehry",
+  "place": "Elciego, ES",
+  "year": "2006",
+  "y": 2006,
+  "type": "Hospitality",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Landscape"
+  ],
+  "study": "Ribbons of pink, gold and silver titanium swirl over a sandstone hotel block among the vineyards.",
+  "qid": "Q1630957",
+  "commons": "Category:Hotel Marqués de Riscal",
+  "lead": "File:Bodega Marqués de Riscal en Elciego (Álava) - panoramio.jpg",
+  "coords": [
+   42.51161,
+   -2.61801
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "villa-bloemenwerf",
+  "n": 1239,
+  "name": "Villa Bloemenwerf",
+  "by": "Henry van de Velde",
+  "place": "Brussels, BE",
+  "year": "1895",
+  "y": 1895,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Geometry"
+  ],
+  "study": "Van de Velde's own gabled house, designed with its furniture, fabrics and fittings as one work of art.",
+  "qid": "Q957722",
+  "commons": "Category:Villa Bloemenwerf",
+  "lead": "File:Villa Bloemenwerf (front).JPG",
+  "coords": [
+   50.79583,
+   4.34333
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "abbey-of-st-benedictusberg",
+  "n": 1240,
+  "name": "Abbey of St. Benedictusberg",
+  "by": "Dom Hans van der Laan",
+  "place": "Vaals, NL",
+  "year": "1968",
+  "y": 1968,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Brick"
+  ],
+  "study": "Plain grey volumes proportioned by van der Laan's plastic number, with stark, carefully lit interiors.",
+  "qid": "Q2820746",
+  "commons": "Category:Sint Benedictusberg, Mamelis",
+  "lead": "File:Lemiers-Abdij St.Benedictusberg (2).JPG",
+  "coords": [
+   50.80139,
+   5.9725
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hotel-guimard",
+  "n": 1241,
+  "name": "Hôtel Guimard",
+  "by": "Hector Guimard",
+  "place": "Paris, FR",
+  "year": "1912",
+  "y": 1912,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Geometry"
+  ],
+  "study": "Guimard's own house on a triangular plot, with oval rooms and a flowing, carved-stone facade.",
+  "qid": "Q3145517",
+  "commons": "Category:Hôtel Guimard",
+  "lead": "File:Hotel Guimard.JPG",
+  "coords": [
+   48.8498,
+   2.26652
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "anzeiger-hochhaus",
+  "n": 1242,
+  "name": "Anzeiger-Hochhaus",
+  "by": "Fritz Höger",
+  "place": "Hanover, DE",
+  "year": "1928",
+  "y": 1928,
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Detail"
+  ],
+  "study": "Dark clinker-brick tower with vertical piers, topped by a copper dome that once held a planetarium.",
+  "qid": "Q614321",
+  "commons": "Category:Anzeiger-Hochhaus",
+  "lead": "File:Hannover Anzeigerhochhaus-HAZ.jpg",
+  "coords": [
+   52.3769,
+   9.73139
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "dutch-pavilion-venice-biennale",
+  "n": 1243,
+  "name": "Dutch Pavilion, Venice Biennale",
+  "by": "Gerrit Rietveld",
+  "place": "Venice, IT",
+  "year": "1954",
+  "y": 1954,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Free plan"
+  ],
+  "study": "A plain cubic gallery in the Giardini, lit by high clerestory windows in its raised centre.",
+  "qid": "Q63769545",
+  "commons": "Category:Venice Biennale pavilions (Netherlands)",
+  "lead": "File:Le pavillon national des Pays-Bas (Biennale de Venise 2019) (48105010111).jpg",
+  "coords": [
+   45.4289,
+   12.3586
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "jachthuis-sint-hubertus",
+  "n": 1244,
+  "name": "Jachthuis Sint Hubertus",
+  "by": "Hendrik Petrus Berlage",
+  "place": "Otterlo, NL",
+  "year": "1920",
+  "y": 1920,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Geometry"
+  ],
+  "study": "Brick hunting lodge with wings spread like antlers around a tall tower, each room with its own colour scheme.",
+  "qid": "Q1678308",
+  "commons": "Category:Jachthuis Sint-Hubertus",
+  "lead": "File:St. Hubertus.jpg",
+  "coords": [
+   52.12154,
+   5.83284
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "steinhaus",
+  "n": 1245,
+  "name": "Steinhaus",
+  "by": "Günther Domenig",
+  "place": "Steindorf am Ossiacher See, AT",
+  "year": "2008",
+  "y": 2008,
+  "type": "House",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "study": "Shards of concrete, steel and glass break out of a lakeside slope, a built autobiography of rock and fissure.",
+  "qid": "Q38174849",
+  "commons": "Category:Steinhaus Domenig",
+  "lead": "File:Steindorf am Ossiacher See Uferweg 31 Steinhaus 20042016 1674.jpg",
+  "coords": [
+   46.69584,
+   14.00558
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-atheneum",
+  "n": 1246,
+  "name": "The Atheneum",
+  "by": "Richard Meier",
+  "place": "New Harmony, US",
+  "year": "1979",
+  "y": 1979,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Promenade",
+   "Geometry",
+   "Circulation"
+  ],
+  "study": "White panelled visitor centre where a ramp winds up through grids skewed to the town and the river.",
+  "qid": "Q17065002",
+  "commons": "Category:The Atheneum, New Harmony",
+  "lead": "File:The Atheneum, New Harmony, Indiana, 1979.jpg",
+  "coords": [
+   38.13181,
+   -87.93855
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "liederhalle",
+  "n": 1247,
+  "name": "Liederhalle",
+  "by": "Rolf Gutbrod and Adolf Abel",
+  "place": "Stuttgart, DE",
+  "year": "1956",
+  "y": 1956,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Colour"
+  ],
+  "study": "Concert halls with free, non-rectangular plans, the walls faced in mosaics of mixed stone and glass.",
+  "qid": "Q1735459",
+  "commons": "Category:Liederhalle Stuttgart",
+  "lead": "File:Liederhalle Stuttgart pjt4.jpg",
+  "coords": [
+   48.7792,
+   9.16949
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "utzon-house-hellebk",
+  "n": 1248,
+  "name": "Utzon House, Hellebæk",
+  "by": "Jørn Utzon",
+  "place": "Hellebæk, DK",
+  "year": "1952",
+  "y": 1952,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Free plan",
+   "Landscape"
+  ],
+  "study": "Long low house: a solid brick north wall and a fully glazed south side open to the beech forest.",
+  "qid": "Q7903509",
+  "commons": "Category:Utzon's House in Hellebæk",
+  "lead": "File:Jørn utzon, architects own house, hellebæk, 1950-1952.jpg",
+  "coords": [
+   56.0619,
+   12.5607
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mannesmann-hochhaus",
+  "n": 1249,
+  "name": "Mannesmann-Hochhaus",
+  "by": "Paul Schneider-Esleben",
+  "place": "Düsseldorf, DE",
+  "year": "1958",
+  "y": 1958,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "study": "Slim steel-framed slab on the Rhine with a fine glass curtain wall, a pioneer of German high-rise.",
+  "qid": "Q1314000",
+  "commons": "Category:Vodafone-Hochhaus",
+  "lead": "File:Düsseldorf (DerHexer) 2010-08-13 212.jpg",
+  "coords": [
+   51.22061,
+   6.76805
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "diozesanmuseum-paderborn",
+  "n": 1250,
+  "name": "Diözesanmuseum Paderborn",
+  "by": "Gottfried Böhm",
+  "place": "Paderborn, DE",
+  "year": "1975",
+  "y": 1975,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Facade as skin",
+   "Section",
+   "Double height"
+  ],
+  "study": "Lead-clad block beside the cathedral, holding one tall hall of stepped gallery platforms.",
+  "qid": "Q1363869",
+  "commons": "Category:Diözesanmuseum Paderborn",
+  "lead": "File:Paderborn Dioezesanmuseum.jpg",
+  "coords": [
+   51.7185,
+   8.75514
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "muse-science-museum",
+  "n": 1251,
+  "name": "MUSE Science Museum",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Trento, IT",
+  "year": "2013",
+  "y": 2013,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Void",
+   "Landscape",
+   "Climate response"
+  ],
+  "study": "Sharp sloping roofs echo the mountains; a tall central void hangs animal specimens in mid-air.",
+  "qid": "Q15057316",
+  "commons": "Category:MUSE - Science Museum",
+  "lead": "File:MuSe esterno 1.JPG",
+  "coords": [
+   46.06263,
+   11.11448
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "municipal-house-obecni-dum",
+  "n": 1252,
+  "name": "Municipal House (Obecní dům)",
+  "by": "Antonín Balšánek and Osvald Polívka",
+  "place": "Prague, CZ",
+  "year": "1912",
+  "y": 1912,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Monumentality"
+  ],
+  "study": "Art Nouveau civic palace with a mosaic entrance arch and a concert hall under a glass dome.",
+  "qid": "Q2334312",
+  "commons": "Category:Municipal House (Prague)",
+  "lead": "File:Casa municipal, Praga, República Checa, 2022-07-02, DD 09.jpg",
+  "coords": [
+   50.08762,
+   14.42824
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "parliament-house-eduskuntatalo",
+  "n": 1253,
+  "name": "Parliament House (Eduskuntatalo)",
+  "by": "J. S. Sirén",
+  "place": "Helsinki, FI",
+  "year": "1931",
+  "y": 1931,
+  "type": "Civic",
+  "movement": "Art Deco",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "study": "A red granite colonnade fronts a stripped-classical block with a circular session hall at its heart.",
+  "qid": "Q2744984",
+  "commons": "Category:Parliament House, Helsinki",
+  "lead": "File:Helsinki July 2013-21.jpg",
+  "coords": [
+   60.1726,
+   24.933
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tribune-tower",
+  "n": 1254,
+  "name": "Tribune Tower",
+  "by": "John Mead Howells and Raymond Hood",
+  "place": "Chicago, US",
+  "year": "1925",
+  "y": 1925,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "study": "Gothic-revival tower crowned by flying buttresses, with stones from famous buildings set into its base.",
+  "qid": "Q2143136",
+  "commons": "Category:Tribune Tower",
+  "lead": "File:Tribune Tower, Chicago, Illinois (9181667444) (cropped).jpg",
+  "coords": [
+   41.89039,
+   -87.62369
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-building-museum",
+  "n": 1255,
+  "name": "National Building Museum",
+  "by": "Montgomery C. Meigs",
+  "place": "Washington, US",
+  "year": "1887",
+  "y": 1887,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Brick",
+   "Void",
+   "Monumentality"
+  ],
+  "study": "Brick hall ringed by a sculpted frieze; giant Corinthian columns rise through its vast atrium.",
+  "qid": "Q624008",
+  "commons": "Category:National Building Museum",
+  "lead": "File:National Building Museum - November 2023 - 2.jpg",
+  "coords": [
+   38.8975,
+   -77.01806
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tribunal-de-paris",
+  "n": 1256,
+  "name": "Tribunal de Paris",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Paris, FR",
+  "year": "2018",
+  "y": 2018,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Planting",
+   "Public space",
+   "Steel & glass"
+  ],
+  "study": "Glass courthouse of three stacked, stepped blocks with planted terraces above a vast public hall.",
+  "qid": "Q2974817",
+  "commons": "Category:Tribunal de Paris",
+  "lead": "File:Rue du Bastion Paris.jpg",
+  "coords": [
+   48.89465,
+   2.31066
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "centro-botin",
+  "n": 1257,
+  "name": "Centro Botín",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Santander, ES",
+  "year": "2017",
+  "y": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Pilotis",
+   "Facade as skin",
+   "Water"
+  ],
+  "study": "Two volumes on stilts over the bay, clad in pearly ceramic discs and linked by steel walkways.",
+  "qid": "Q5402606",
+  "commons": "Category:Centro Botín",
+  "lead": "File:Centro Botín (37578627575).jpg",
+  "coords": [
+   43.46055,
+   -3.80388
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "acros-fukuoka",
+  "n": 1258,
+  "name": "ACROS Fukuoka",
+  "by": "Emilio Ambasz with Nihon Sekkei",
+  "place": "Fukuoka, JP",
+  "year": "1995",
+  "y": 1995,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Planting",
+   "Landscape",
+   "Climate response"
+  ],
+  "study": "The stepped south face is a terraced garden that climbs from the park up to the roof.",
+  "qid": "Q2819057",
+  "commons": "Category:Acros Fukuoka",
+  "lead": "File:Acrosfukuoka01.jpg",
+  "coords": [
+   33.59153,
+   130.40247
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "l-illa-diagonal",
+  "n": 1259,
+  "name": "L'Illa Diagonal",
+  "by": "Rafael Moneo and Manuel de Solà-Morales",
+  "place": "Barcelona, ES",
+  "year": "1993",
+  "y": 1993,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Stone",
+   "Megastructure",
+   "Geometry"
+  ],
+  "study": "A 'horizontal skyscraper' block running along the Diagonal, stepped in height and faced in travertine.",
+  "qid": "Q47166175",
+  "commons": "Category:L'illa Diagonal",
+  "lead": "File:Vista de l'Illa Diagonal.jpg",
+  "coords": [
+   41.38972,
+   2.135
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "weltstadthaus-peek-cloppenburg",
+  "n": 1260,
+  "name": "Weltstadthaus Peek & Cloppenburg",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Cologne, DE",
+  "year": "2005",
+  "y": 2005,
+  "type": "Workplace",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Timber",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "study": "A curved glass shell held on laminated timber ribs wraps a department store along the street.",
+  "qid": "Q2558678",
+  "commons": "Category:Weltstadthaus (Köln)",
+  "lead": "File:Weltstadthaus Köln - Ansicht von der Schildergasse (4013-15).jpg",
+  "coords": [
+   50.9356,
+   6.95299
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "house-for-an-art-lover",
+  "n": 1261,
+  "name": "House for an Art Lover",
+  "by": "Charles Rennie Mackintosh",
+  "place": "Glasgow, GB",
+  "year": "1996",
+  "y": 1996,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Detail",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "study": "A Mackintosh competition design built long after his death: white harled walls and a bright music room.",
+  "qid": "Q1631389",
+  "commons": "Category:House for an Art Lover",
+  "lead": "File:HouseForAnArtLover.jpg",
+  "coords": [
+   55.8474,
+   -4.31394
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "fiera-milano",
+  "n": 1262,
+  "name": "Fiera Milano",
+  "by": "Massimiliano Fuksas",
+  "place": "Rho, IT",
+  "year": "2005",
+  "y": 2005,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Circulation"
+  ],
+  "study": "A wavy glass-and-steel canopy runs over the long central walkway, dipping into funnels and craters.",
+  "qid": "Q3744627",
+  "commons": "Category:Fieramilano Rho Pero",
+  "lead": "File:Fieramilano Rho Pero 02.JPG",
+  "coords": [
+   45.5203,
+   9.07886
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palazzo-del-lavoro",
+  "n": 1263,
+  "name": "Palazzo del Lavoro",
+  "by": "Pier Luigi Nervi with Gio Ponti",
+  "place": "Turin, IT",
+  "year": "1961",
+  "y": 1961,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Modular"
+  ],
+  "study": "Giant concrete columns each carry a square umbrella of steel ribs, parted by strips of skylight.",
+  "qid": "Q3891308",
+  "commons": "Category:Palazzo del Lavoro",
+  "lead": "File:Paolo Monti - Servizio fotografico (Torino, 1961) - BEIC 6337387.jpg",
+  "coords": [
+   45.01913,
+   7.66759
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hagen-crematorium",
+  "n": 1264,
+  "name": "Hagen Crematorium",
+  "by": "Peter Behrens",
+  "place": "Hagen, DE",
+  "year": "1907",
+  "y": 1907,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Monumentality"
+  ],
+  "study": "Temple-like crematorium faced in black and white marble geometry, after Florentine Romanesque.",
+  "qid": "Q1287806",
+  "commons": "Category:Eduard-Müller-Krematorium",
+  "lead": "File:Krematorium Hagen-Delstern.jpg",
+  "coords": [
+   51.3452,
+   7.5111
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pavilion-for-japanese-art-lacma",
+  "n": 1265,
+  "name": "Pavilion for Japanese Art, LACMA",
+  "by": "Bruce Goff and Bart Prince",
+  "place": "Los Angeles, US",
+  "year": "1988",
+  "y": 1988,
+  "type": "Museum",
+  "movement": "Expressionism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Light & shadow",
+   "Circulation",
+   "Sculptural form"
+  ],
+  "study": "Ramps wind around a central core, and translucent panels light the scrolls softly like shoji.",
+  "qid": "Q14683622",
+  "commons": "Category:Pavilion for Japanese Art, Los Angeles County Museum of Art",
+  "lead": "File:LACMA 01.jpg",
+  "coords": [
+   34.0633,
+   -118.358
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "de-vonk",
+  "n": 1266,
+  "name": "De Vonk",
+  "by": "J. J. P. Oud",
+  "place": "Noordwijkerhout, NL",
+  "year": "1918",
+  "y": 1918,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Axis"
+  ],
+  "study": "Symmetrical brick holiday house with Van Doesburg's coloured brick and tile patterns at door and hall.",
+  "qid": "Q2570696",
+  "commons": "Category:Vakantiehuis De Vonk",
+  "lead": "File:De Vonk vacation hostel Noordwijkerhout 1.jpg",
+  "coords": [
+   52.24417,
+   4.45583
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hubertus-house",
+  "n": 1267,
+  "name": "Hubertus House",
+  "by": "Aldo van Eyck",
+  "place": "Amsterdam, NL",
+  "year": "1978",
+  "y": 1978,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Colour",
+   "Community",
+   "Steel & glass"
+  ],
+  "study": "A rainbow-coloured steel and glass infill for single parents, stepping in among old street houses.",
+  "qid": "Q61968061",
+  "commons": "Category:Plantage Middenlaan 33, Amsterdam",
+  "lead": "File:Exterieur VOORGEVEL - Amsterdam - 20306339 - RCE.jpg",
+  "coords": [
+   52.36681,
+   4.91131
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "atlanta-central-library",
+  "n": 1268,
+  "name": "Atlanta Central Library",
+  "by": "Marcel Breuer",
+  "place": "Atlanta, US",
+  "year": "1980",
+  "y": 1980,
+  "type": "Library",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "study": "A stepped, overhanging concrete mass with few deep-set windows crowns a downtown corner.",
+  "qid": "Q105751960",
+  "commons": "Category:Atlanta Central Library",
+  "lead": "File:Atlanta-Fulton-County Central Library viewed from Georgia Pacific Center Plaza.jpg",
+  "coords": [
+   33.75778,
+   -84.38841
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "austrian-parliament-building",
+  "n": 1269,
+  "name": "Austrian Parliament Building",
+  "by": "Theophil Hansen",
+  "place": "Vienna, AT",
+  "year": "1883",
+  "y": 1883,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "study": "A Greek Revival temple portico and ramps lead to a columned central hall between the two debating chambers.",
+  "qid": "Q702121",
+  "commons": "Category:Austrian Parliament Building",
+  "lead": "File:Wien - Parlament, Tag der offenen Tür (14.1.2023).JPG",
+  "coords": [
+   48.20805,
+   16.3587
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "thomas-jefferson-building-library-of-congress",
+  "n": 1270,
+  "name": "Thomas Jefferson Building, Library of Congress",
+  "by": "Smithmeyer & Pelz",
+  "place": "Washington, D.C., US",
+  "year": "1897",
+  "y": 1897,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Detail"
+  ],
+  "study": "A Beaux-Arts dome rises over an octagonal reading room ringed by alcoves, beyond a marble great hall.",
+  "qid": "Q2615945",
+  "commons": "Category:Thomas Jefferson Building",
+  "lead": "File:ThomasJeffersonBuildingLOC.jpg",
+  "coords": [
+   38.88872,
+   -77.00553
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "caixaforum-barcelona",
+  "n": 1271,
+  "name": "CaixaForum Barcelona",
+  "by": "Josep Puig i Cadafalch; Arata Isozaki (entrance)",
+  "place": "Barcelona, ES",
+  "year": "2002",
+  "y": 2002,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Steel & glass"
+  ],
+  "study": "A Modernista brick textile mill with crenellated towers, entered under Isozaki's glass and steel tree canopy.",
+  "qid": "Q960115",
+  "commons": "Category:CaixaForum Barcelona",
+  "lead": "File:PiC-Casarramona-0294.JPG",
+  "coords": [
+   41.37133,
+   2.14975
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mcgraw-hill-building",
+  "n": 1272,
+  "name": "McGraw-Hill Building",
+  "by": "Raymond Hood",
+  "place": "New York City, US",
+  "year": "1931",
+  "y": 1931,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "Blue-green glazed terracotta bands alternate with ribbon windows, stepping back to a lettered crown.",
+  "qid": "Q3303658",
+  "commons": "Category:330 West 42nd Street",
+  "lead": "File:Mcgraw-hill-42nd-st.jpg",
+  "coords": [
+   40.75722,
+   -73.99111
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "eli-and-edythe-broad-art-museum",
+  "n": 1273,
+  "name": "Eli and Edythe Broad Art Museum",
+  "by": "Zaha Hadid Architects",
+  "place": "East Lansing, US",
+  "year": "2012",
+  "y": 2012,
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "study": "Pleated stainless steel and glass fins fold diagonally across a low, wedge-shaped gallery building.",
+  "qid": "Q5360357",
+  "commons": "Category:Eli and Edythe Broad Art Museum",
+  "lead": "File:MSU Broad Art Museum exterior 1.jpg",
+  "coords": [
+   42.7327,
+   -84.4768
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "centre-de-cultura-contemporania-de-barcelona-cccb",
+  "n": 1274,
+  "name": "Centre de Cultura Contemporània de Barcelona (CCCB)",
+  "by": "Viaplana i Piñón",
+  "place": "Barcelona, ES",
+  "year": "1994",
+  "y": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Steel & glass"
+  ],
+  "study": "A glass wall folds out over an old courtyard, mirroring views across the city to those standing below.",
+  "qid": "Q2945260",
+  "commons": "Category:Centre de Cultura Contemporània de Barcelona",
+  "lead": "File:Edifici CCCB.jpg",
+  "coords": [
+   41.38361,
+   2.16667
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cathedral-of-christ-the-light",
+  "n": 1275,
+  "name": "Cathedral of Christ the Light",
+  "by": "Craig W. Hartman (SOM)",
+  "place": "Oakland, US",
+  "year": "2008",
+  "y": 2008,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Timber",
+   "Light & shadow",
+   "Structure as expression"
+  ],
+  "study": "Glulam timber ribs and glass louvres form a vesica-shaped shell of light above a concrete base.",
+  "qid": "Q722744",
+  "commons": "Category:Cathedral of Christ the Light",
+  "lead": "File:Oak Cathdrl 2.jpg",
+  "coords": [
+   37.8105,
+   -122.263
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "istituto-marchiondi-spagliardi",
+  "n": 1276,
+  "name": "Istituto Marchiondi Spagliardi",
+  "by": "Vittoriano Viganò",
+  "place": "Milan, IT",
+  "year": "1957",
+  "y": 1957,
+  "type": "Education",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "study": "A boys' reformatory with a raw concrete frame, stairs and walkways left bare and fully expressed.",
+  "qid": "Q3803629",
+  "commons": "Category:Istituto Marchiondi Spagliardi",
+  "lead": "File:Paolo Monti - Servizio fotografico - BEIC 6365924.jpg",
+  "coords": [
+   45.45816,
+   9.08377
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "78-derngate",
+  "n": 1277,
+  "name": "78 Derngate",
+  "by": "Charles Rennie Mackintosh",
+  "place": "Northampton, GB",
+  "year": "1917",
+  "y": 1917,
+  "type": "House",
+  "movement": "Art Deco",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Adaptive reuse"
+  ],
+  "study": "A Georgian terrace house remodelled with a black hall of stencilled triangles and a stepped rear bay.",
+  "qid": "Q4643664",
+  "commons": "Category:78 Derngate",
+  "lead": "File:78 Derngate Charles Rennie Mackintosh house.jpg",
+  "coords": [
+   52.2355,
+   -0.89003
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hyogo-children-s-museum",
+  "n": 1278,
+  "name": "Hyogo Children's Museum",
+  "by": "Tadao Ando",
+  "place": "Himeji, JP",
+  "year": "1989",
+  "y": 1989,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "region": "East Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Water"
+  ],
+  "study": "Concrete pavilions linked by a long walled path past columns and water through a lakeside park.",
+  "qid": "Q11392907",
+  "commons": "Category:Hyogo Children's Center",
+  "lead": "File:兵庫県立こどもの館・本館.JPG",
+  "coords": [
+   34.85372,
+   134.62375
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "notre-dame-de-royan",
+  "n": 1279,
+  "name": "Notre-Dame de Royan",
+  "by": "Guillaume Gillet",
+  "place": "Royan, FR",
+  "year": "1958",
+  "y": 1958,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "study": "Thin V-section concrete shells rise in a crown of fins, with tall coloured glass between them.",
+  "qid": "Q3580651",
+  "commons": "Category:Église Notre-Dame de Royan",
+  "lead": "File:Royan conche 1.JPG",
+  "coords": [
+   45.6235,
+   -1.03266
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "beirut-terraces",
+  "n": 1280,
+  "name": "Beirut Terraces",
+  "by": "Herzog & de Meuron",
+  "place": "Beirut, LB",
+  "year": "2017",
+  "y": 2017,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "region": "Middle East",
+  "era": "2005–today",
+  "concepts": [
+   "Climate response",
+   "Cantilever",
+   "Planting"
+  ],
+  "study": "Offset floor slabs of differing depth leave deep, shaded and planted terraces around every side.",
+  "qid": "Q56295859",
+  "commons": "Category:Beirut Terraces",
+  "lead": null,
+  "coords": [
+   33.8997,
+   35.49621
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "musiktheater-im-revier",
+  "n": 1281,
+  "name": "Musiktheater im Revier",
+  "by": "Werner Ruhnau",
+  "place": "Gelsenkirchen, DE",
+  "year": "1959",
+  "y": 1959,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Colour",
+   "Steel & glass",
+   "Public space"
+  ],
+  "study": "A fully glazed foyer facade puts Yves Klein's vast blue sponge reliefs on show to the street.",
+  "qid": "Q1666920",
+  "commons": "Category:Musiktheater im Revier (Gelsenkirchen)",
+  "lead": "File:MiR außen ganz.jpg",
+  "coords": [
+   51.5142,
+   7.09111
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "shukhov-tower-on-the-oka-river",
+  "n": 1282,
+  "name": "Shukhov Tower on the Oka River",
+  "by": "Vladimir Shukhov",
+  "place": "Dzerzhinsk, RU",
+  "year": "1929",
+  "y": 1929,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Low cost"
+  ],
+  "study": "Stacked hyperboloid sections made only of straight steel bars form a light, twisting lattice mast.",
+  "qid": "Q1778398",
+  "commons": "Category:Shukhov Oka Towers",
+  "lead": "File:Опора ЛЭП Шухова 2.jpg",
+  "coords": [
+   56.1934,
+   43.54373
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gromarkthalle",
+  "n": 1283,
+  "name": "Großmarkthalle",
+  "by": "Martin Elsaesser",
+  "place": "Frankfurt, DE",
+  "year": "1928",
+  "y": 1928,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Vault",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "study": "A long row of thin concrete shell barrel vaults spans the market hall between two end blocks.",
+  "qid": "Q195220",
+  "commons": "Category:Großmarkthalle, Frankfurt",
+  "lead": "File:Grossmarkthalle Frankfurt Panorama 1.jpg",
+  "coords": [
+   50.10944,
+   8.7025
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kpn-tower",
+  "n": 1284,
+  "name": "KPN Tower",
+  "by": "Renzo Piano Building Workshop",
+  "place": "Rotterdam, NL",
+  "year": "2000",
+  "y": 2000,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "study": "A forward-tilted glass facade propped by a long steel strut doubles as a giant screen of green lights.",
+  "qid": "Q2443922",
+  "commons": "Category:KPN Building (Rotterdam)",
+  "lead": "File:KPN Building (Rotterdam) IMG 5109.jpg",
+  "coords": [
+   51.90722,
+   4.48917
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "haus-der-kulturen-der-welt-kongresshalle",
+  "n": 1285,
+  "name": "Haus der Kulturen der Welt (Kongresshalle)",
+  "by": "Hugh Stubbins",
+  "place": "Berlin, DE",
+  "year": "1957",
+  "y": 1957,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "study": "A saddle-shaped roof sweeps up between two outer arches over an auditorium set on a broad podium.",
+  "qid": "Q895566",
+  "commons": "Category:Kongresshalle Berlin",
+  "lead": "File:Berlin Kongresshalle BW 1.jpg",
+  "coords": [
+   52.5189,
+   13.3653
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "nemausus",
+  "n": 1286,
+  "name": "Nemausus",
+  "by": "Jean Nouvel",
+  "place": "Nîmes, FR",
+  "year": "1987",
+  "y": 1987,
+  "type": "Housing",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Low cost",
+   "Double height",
+   "Pilotis"
+  ],
+  "study": "Two ship-like aluminium-clad slabs on pilotis with open access galleries and generous double-height flats.",
+  "qid": "Q3337995",
+  "commons": "Category:Nemausus 1",
+  "lead": "File:Nemausus.jpg",
+  "coords": [
+   43.82769,
+   4.37298
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "diagoon-houses",
+  "n": 1287,
+  "name": "Diagoon Houses",
+  "by": "Herman Hertzberger",
+  "place": "Delft, NL",
+  "year": "1970",
+  "y": 1970,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Incremental",
+   "Section",
+   "Modular"
+  ],
+  "study": "Split-level 'unfinished' houses of two cores and half-floors that residents can enclose and extend.",
+  "qid": "Q47468262",
+  "commons": "Category:Diagoonwoningen Delft",
+  "lead": "File:Diagoon Delft 3b.Herman Hertzberger.jpg",
+  "coords": [
+   51.98857,
+   4.3419
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "rufer-house",
+  "n": 1288,
+  "name": "Rufer House",
+  "by": "Adolf Loos",
+  "place": "Vienna, AT",
+  "year": "1922",
+  "y": 1922,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Section",
+   "Geometry",
+   "Detail"
+  ],
+  "study": "A near-cubic plain block whose freely placed windows follow an early Raumplan of split-level rooms.",
+  "qid": "Q7377885",
+  "commons": "Category:Haus Rufer",
+  "lead": "File:Haus Rufer, Adolf Loos 2.jpg",
+  "coords": [
+   48.1894,
+   16.2907
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "retti-candle-shop",
+  "n": 1289,
+  "name": "Retti Candle Shop",
+  "by": "Hans Hollein",
+  "place": "Vienna, AT",
+  "year": "1965",
+  "y": 1965,
+  "type": "Workplace",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "A tiny shop front of polished aluminium with a narrow keyhole-like door and mirrors that enlarge the interior.",
+  "qid": "Q111494533",
+  "commons": "Category:Kerzengeschäft Retti",
+  "lead": "File:Kohlmarkt 8-10, Vienna Kerzenshop Retti.jpg",
+  "coords": [
+   48.20891,
+   16.36765
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hans-otto-theater",
+  "n": 1290,
+  "name": "Hans Otto Theater",
+  "by": "Gottfried Böhm",
+  "place": "Potsdam, DE",
+  "year": "2006",
+  "y": 2006,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Water"
+  ],
+  "study": "Three red curved shell roofs cantilever over a glazed foyer and auditorium on the shore of a lake.",
+  "qid": "Q113714891",
+  "commons": "Category:Hans Otto Theater (Schiffbauergasse)",
+  "lead": "File:Hans-Otto-Theater3.jpg",
+  "coords": [
+   52.4031,
+   13.0753
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "andrew-melville-hall",
+  "n": 1291,
+  "name": "Andrew Melville Hall",
+  "by": "James Stirling",
+  "place": "St Andrews, GB",
+  "year": "1968",
+  "y": 1968,
+  "type": "Education",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Prefabrication",
+   "Circulation",
+   "Landscape"
+  ],
+  "study": "Precast concrete residence whose splayed wings step down the slope toward the sea, joined by a glazed walkway.",
+  "qid": "Q4758008",
+  "commons": "Category:Andrew Melville Hall",
+  "lead": "File:Andrew Melville Hall.jpg",
+  "coords": [
+   56.3406,
+   -2.8175
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "clore-gallery-tate-britain",
+  "n": 1292,
+  "name": "Clore Gallery, Tate Britain",
+  "by": "James Stirling, Michael Wilford",
+  "place": "London, GB",
+  "year": "1987",
+  "y": 1987,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Colour",
+   "Light from above",
+   "Detail"
+  ],
+  "study": "An L-shaped gallery wing with a gridded stone-and-render front, green window frames and a bright stair hall.",
+  "qid": "Q98929280",
+  "commons": "Category:Clore Gallery",
+  "lead": "File:Clore Gallery London Dec07.JPG",
+  "coords": [
+   51.49087,
+   -0.12718
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-applied-arts",
+  "n": 1293,
+  "name": "Museum of Applied Arts",
+  "by": "Ödön Lechner and Gyula Pártos",
+  "place": "Budapest, HU",
+  "year": "1896",
+  "y": 1896,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Colour",
+   "Light from above",
+   "Detail"
+  ],
+  "study": "Zsolnay ceramic roofs and folk ornament outside; inside, a white glass-roofed hall of Moorish-style arcades.",
+  "qid": "Q1088467",
+  "commons": "Category:Budapest Museum of Applied Arts",
+  "lead": "File:Museum of Applied Arts. Main facade from south. BudapestDSCN3639.jpg",
+  "coords": [
+   47.48611,
+   19.06833
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palace-of-justice",
+  "n": 1294,
+  "name": "Palace of Justice",
+  "by": "Joseph Poelaert",
+  "place": "Brussels, BE",
+  "year": "1883",
+  "y": 1883,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "study": "Colossal eclectic courthouse of stacked classical orders crowned by a dome over a vast central hall.",
+  "qid": "Q850537",
+  "commons": "Category:Palace of Justice, Brussels",
+  "lead": "File:BrüsselJustizpalast.jpg",
+  "coords": [
+   50.83667,
+   4.35167
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "el-capricho",
+  "n": 1295,
+  "name": "El Capricho",
+  "by": "Antoni Gaudí",
+  "place": "Comillas, ES",
+  "year": "1885",
+  "y": 1885,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Colour",
+   "Brick",
+   "Detail"
+  ],
+  "study": "Brick villa banded with green sunflower tiles, entered under a slender minaret-like tower on stone columns.",
+  "qid": "Q2096776",
+  "commons": "Category:El Capricho (Gaudí)",
+  "lead": "File:Palacio de Gaudí - Comillas (España).JPG",
+  "coords": [
+   43.38368,
+   -4.29274
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "euskalduna-conference-centre-and-concert-hall",
+  "n": 1296,
+  "name": "Euskalduna Conference Centre and Concert Hall",
+  "by": "Federico Soriano and Dolores Palacios",
+  "place": "Bilbao, ES",
+  "year": "1999",
+  "y": 1999,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Water"
+  ],
+  "study": "A ship-like hull clad in rusting steel plates rises on the old shipyard site beside the river.",
+  "qid": "Q1783240",
+  "commons": "Category:Palacio Euskalduna",
+  "lead": "File:Bilbao - Euskalduna 1.JPG",
+  "coords": [
+   43.26694,
+   -2.94472
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "majolikahaus",
+  "n": 1297,
+  "name": "Majolikahaus",
+  "by": "Otto Wagner",
+  "place": "Vienna, AT",
+  "year": "1899",
+  "y": 1899,
+  "type": "Housing",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Detail"
+  ],
+  "study": "A flat apartment front covered in weatherproof majolica tiles printed with a spreading floral pattern.",
+  "qid": "Q19951120",
+  "commons": "Category:Majolikahaus",
+  "lead": "File:Majolikahaus gesamt 2.jpg",
+  "coords": [
+   48.19742,
+   16.35925
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mirador",
+  "n": 1298,
+  "name": "Mirador",
+  "by": "MVRDV with Blanca Lleó",
+  "place": "Madrid, ES",
+  "year": "2005",
+  "y": 2005,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Void",
+   "Colour",
+   "Community"
+  ],
+  "study": "A slab of stacked, differently clad housing blocks frames a huge raised void used as a shared sky garden.",
+  "qid": "Q4176912",
+  "commons": "Category:Edificio Mirador, Madrid",
+  "lead": "File:Hortaleza-Edificio Mirador08.jpg",
+  "coords": [
+   40.4874,
+   -3.65486
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "siedlung-halen",
+  "n": 1299,
+  "name": "Siedlung Halen",
+  "by": "Atelier 5",
+  "place": "Kirchlindach, CH",
+  "year": "1961",
+  "y": 1961,
+  "type": "Housing",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Community",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "study": "Dense terraced row houses of exposed concrete step down a wooded slope around a shared village square.",
+  "qid": "Q1563609",
+  "commons": "Category:Siedlung Halen",
+  "lead": "File:Halen 002.jpg",
+  "coords": [
+   46.97264,
+   7.41312
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "aula-tu-delft",
+  "n": 1300,
+  "name": "Aula TU Delft",
+  "by": "Van den Broek en Bakema",
+  "place": "Delft, NL",
+  "year": "1966",
+  "y": 1966,
+  "type": "Education",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "study": "The concrete auditorium's raked underside cantilevers out as a great angled wedge above a glazed foyer.",
+  "qid": "Q18812998",
+  "commons": "Category:Aula, TU Delft",
+  "lead": "File:TU-Delft-Aula.jpg",
+  "coords": [
+   52.00218,
+   4.37347
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bankinter-building",
+  "n": 1301,
+  "name": "Bankinter Building",
+  "by": "Rafael Moneo and Ramón Bescós",
+  "place": "Madrid, ES",
+  "year": "1977",
+  "y": 1977,
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Geometry"
+  ],
+  "study": "A sharp-edged brick office block rises behind a preserved 19th-century mansion, with deep-set windows.",
+  "qid": "Q29016759",
+  "commons": "Category:Bankinter building, Madrid",
+  "lead": "File:Edificio Bankinter (Madrid) 01.jpg",
+  "coords": [
+   40.43085,
+   -3.69001
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "messner-mountain-museum-corones",
+  "n": 1302,
+  "name": "Messner Mountain Museum Corones",
+  "by": "Zaha Hadid Architects",
+  "place": "Bruneck, IT",
+  "year": "2015",
+  "y": 2015,
+  "type": "Museum",
+  "movement": "Parametric",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Cantilever"
+  ],
+  "study": "Museum buried in a mountain summit, with only curving concrete canopies and a jutting viewing window showing.",
+  "qid": "Q60533061",
+  "commons": "Category:Messner Mountain Museum Corones",
+  "lead": null,
+  "coords": [
+   46.73729,
+   11.95433
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "sant-antoni-joan-oliver-library",
+  "n": 1303,
+  "name": "Sant Antoni-Joan Oliver Library",
+  "by": "RCR Arquitectes",
+  "place": "Barcelona, ES",
+  "year": "2007",
+  "y": 2007,
+  "type": "Library",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Courtyard",
+   "Public space",
+   "Steel & glass"
+  ],
+  "study": "A library and elderly centre straddle a passage that opens an Eixample block's inner garden to the street.",
+  "qid": "Q85693417",
+  "commons": "Category:Biblioteca Sant Antoni-Joan Oliver",
+  "lead": "File:Barcelona - Biblioteca Sant Antoni-Joan Oliver 3.jpg",
+  "coords": [
+   41.3773,
+   2.16273
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "international-house-of-japan",
+  "n": 1304,
+  "name": "International House of Japan",
+  "by": "Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura",
+  "place": "Tokyo, JP",
+  "year": "1955",
+  "y": 1955,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "region": "East Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Courtyard"
+  ],
+  "study": "A low concrete frame of horizontal bands opens its lounges onto a historic Japanese garden.",
+  "qid": "Q11422449",
+  "commons": "Category:International House of Japan",
+  "lead": "File:International House of Japan.jpg",
+  "coords": [
+   35.65823,
+   139.7335
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-blanche",
+  "n": 1305,
+  "name": "Maison Blanche",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier)",
+  "place": "La Chaux-de-Fonds, CH",
+  "year": "1912",
+  "y": 1912,
+  "type": "House",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Detail"
+  ],
+  "study": "The young Jeanneret's white rendered villa for his parents, a compact block set into a sloping garden.",
+  "qid": "Q3277871",
+  "commons": "Category:Maison Blanche, La Chaux-de-Fonds",
+  "lead": "File:20251018 La-Chaux-de-Fonds-7.tif",
+  "coords": [
+   47.10611,
+   6.81583
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "green-building-mit-building-54",
+  "n": 1306,
+  "name": "Green Building (MIT Building 54)",
+  "by": "I. M. Pei",
+  "place": "Cambridge, US",
+  "year": "1964",
+  "y": 1964,
+  "type": "Education",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Pilotis",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "study": "A slab-like concrete research tower with a gridded window wall, raised over an open, windy ground floor.",
+  "qid": "Q5602382",
+  "commons": "Category:Green Building (MIT Building 54)",
+  "lead": "File:Green Building, MIT, Cambridge, Massachusetts.JPG",
+  "coords": [
+   42.3603,
+   -71.0893
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "maison-planeix",
+  "n": 1307,
+  "name": "Maison Planeix",
+  "by": "Le Corbusier",
+  "place": "Paris, FR",
+  "year": "1928",
+  "y": 1928,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Facade as skin"
+  ],
+  "study": "A symmetrical street front with a projecting central box and a big studio window above a recessed base.",
+  "qid": "Q3278943",
+  "commons": "Category:Maison Planeix",
+  "lead": "File:Maison Planeix IMG 2005.jpg",
+  "coords": [
+   48.82333,
+   2.37389
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ara-pacis-museum",
+  "n": 1308,
+  "name": "Ara Pacis Museum",
+  "by": "Richard Meier",
+  "place": "Rome, IT",
+  "year": "2006",
+  "y": 2006,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Steel & glass",
+   "Stone",
+   "Light & shadow"
+  ],
+  "study": "A white travertine, plaster and glass pavilion encloses the Augustan altar in a daylit glass hall.",
+  "qid": "Q3867996",
+  "commons": "Category:Ara Pacis museum (Rome)",
+  "lead": null,
+  "coords": [
+   41.90765,
+   12.47474
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-gateway",
+  "n": 1309,
+  "name": "The Gateway",
+  "by": "I. M. Pei",
+  "place": "Singapore, SG",
+  "year": "1990",
+  "y": 1990,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Southeast Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "study": "Two trapezoid-plan glass towers read as thin flat blades from some angles, framing a gateway.",
+  "qid": "Q7735941",
+  "commons": "Category:The Gateway, Singapore",
+  "lead": "File:The Gateway Singapore.jpg",
+  "coords": [
+   1.2988,
+   103.859
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "society-hill-towers",
+  "n": 1310,
+  "name": "Society Hill Towers",
+  "by": "I. M. Pei",
+  "place": "Philadelphia, US",
+  "year": "1964",
+  "y": 1964,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Cluster"
+  ],
+  "study": "Three concrete-grid apartment towers with deep-set windows stand above rows of low townhouses.",
+  "qid": "Q7552028",
+  "commons": "Category:Society Hill Towers",
+  "lead": "File:Society Hill Towers.jpg",
+  "coords": [
+   39.9455,
+   -75.1447
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "united-states-supreme-court-building",
+  "n": 1311,
+  "name": "United States Supreme Court Building",
+  "by": "Cass Gilbert",
+  "place": "Washington, D.C., US",
+  "year": "1935",
+  "y": 1935,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "study": "A white marble Corinthian temple front raised above a broad plaza and stair on an axis to the Capitol.",
+  "qid": "Q1579670",
+  "commons": "Category:United States Supreme Court Building",
+  "lead": "File:USSupremeCourtWestFacade.JPG",
+  "coords": [
+   38.8905,
+   -77.0045
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "holyoke-center-smith-campus-center",
+  "n": 1312,
+  "name": "Holyoke Center (Smith Campus Center)",
+  "by": "Josep Lluís Sert",
+  "place": "Cambridge, US",
+  "year": "1966",
+  "y": 1966,
+  "type": "Education",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Public space"
+  ],
+  "study": "A long concrete slab with a public arcade cut through its base between two streets.",
+  "qid": "Q18749200",
+  "commons": "Category:Holyoke Center",
+  "lead": "File:Holyoke Center, Harvard Square, Cambridge, MA - IMG 4376.JPG",
+  "coords": [
+   42.37278,
+   -71.11861
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "akino-fuku-art-museum",
+  "n": 1313,
+  "name": "Akino Fuku Art Museum",
+  "by": "Terunobu Fujimori",
+  "place": "Hamamatsu, JP",
+  "year": "1998",
+  "y": 1998,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Earth & local material",
+   "Timber",
+   "Detail"
+  ],
+  "study": "A hand-built hilltop museum of rough plastered walls, timber details and a small lookout tower.",
+  "qid": "Q77806922",
+  "commons": "Category:Akino Fuku Museum",
+  "lead": "File:AkinoFukuMuseum Um 2019091501 01.jpg",
+  "coords": [
+   34.86486,
+   137.81928
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "urania",
+  "n": 1314,
+  "name": "Urania",
+  "by": "Max Fabiani",
+  "place": "Vienna, AT",
+  "year": "1910",
+  "y": 1910,
+  "type": "Education",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Water",
+   "Geometry",
+   "Detail"
+  ],
+  "study": "A Jugendstil corner building on the Danube Canal, crowned by an observatory dome.",
+  "qid": "Q259553",
+  "commons": "Category:Urania, Vienna",
+  "lead": "File:Urania Vienna June 2006 295.jpg",
+  "coords": [
+   48.2117,
+   16.3836
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palmolive-building",
+  "n": 1315,
+  "name": "Palmolive Building",
+  "by": "Holabird & Root",
+  "place": "Chicago, US",
+  "year": "1929",
+  "y": 1929,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "study": "A limestone Art Deco tower of stepped setbacks rising to a beacon mast.",
+  "qid": "Q3387206",
+  "commons": "Category:Palmolive Building",
+  "lead": "File:Palmolive Building.jpg",
+  "coords": [
+   41.89983,
+   -87.62343
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "villa-fallet",
+  "n": 1316,
+  "name": "Villa Fallet",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier) with René Chapallaz",
+  "place": "La Chaux-de-Fonds, CH",
+  "year": "1907",
+  "y": 1907,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Earth & local material"
+  ],
+  "study": "Jeanneret's first house: a steep chalet roof and sgraffito facades with fir-tree motifs.",
+  "qid": "Q7930318",
+  "commons": "Category:Villa Fallet",
+  "lead": "File:Villa Fallet, construite sur les plans de Charles-Édouard Jeanneret et René Chapallaz, 1906, La Chaux-de-Fonds (photographie d'Aline Henchoz).tif",
+  "coords": [
+   47.1051,
+   6.81669
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lehmbruck-museum",
+  "n": 1317,
+  "name": "Lehmbruck Museum",
+  "by": "Manfred Lehmbruck",
+  "place": "Duisburg, DE",
+  "year": "1964",
+  "y": 1964,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "study": "A glass sculpture hall opens to the park beside a closed exposed-concrete wing.",
+  "qid": "Q315753",
+  "commons": "Category:Lehmbruck-Museum",
+  "lead": "File:Duisburg wilh lehmbruck museum außen.jpg",
+  "coords": [
+   51.43028,
+   6.76611
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kino-international",
+  "n": 1318,
+  "name": "Kino International",
+  "by": "Josef Kaiser",
+  "place": "Berlin, DE",
+  "year": "1963",
+  "y": 1963,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Public space"
+  ],
+  "study": "A glazed upper foyer floats above the street over a cinema box decorated with relief panels.",
+  "qid": "Q1670774",
+  "commons": "Category:Kino International Berlin",
+  "lead": "File:Kino International, Berlin-msu-2021-3439-.jpg",
+  "coords": [
+   52.5203,
+   13.4228
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "four-domes-pavilion",
+  "n": 1319,
+  "name": "Four Domes Pavilion",
+  "by": "Hans Poelzig",
+  "place": "Wrocław, PL",
+  "year": "1913",
+  "y": 1913,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Courtyard",
+   "Exposed concrete",
+   "Vault"
+  ],
+  "study": "Four domed halls frame a courtyard in an early reinforced-concrete exhibition pavilion.",
+  "qid": "Q11814615",
+  "commons": "Category:Four Domes Pavilion, Wrocław",
+  "lead": "File:Pawilon Czterech Kopuł po remoncie.jpg",
+  "coords": [
+   51.1083,
+   17.0761
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "watari-museum-of-contemporary-art-watari-um",
+  "n": 1320,
+  "name": "Watari Museum of Contemporary Art (Watari-um)",
+  "by": "Mario Botta",
+  "place": "Tokyo, JP",
+  "year": "1990",
+  "y": 1990,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Facade as skin"
+  ],
+  "study": "A narrow wedge-plan building with a banded black-and-white facade split by a central vertical slot.",
+  "qid": "Q3915469",
+  "commons": "Category:Watari Museum of Contemporary Art",
+  "lead": "File:Watarium.jpg",
+  "coords": [
+   35.67072,
+   139.71339
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cartagena-roman-theatre-museum",
+  "n": 1321,
+  "name": "Cartagena Roman Theatre Museum",
+  "by": "Rafael Moneo",
+  "place": "Cartagena, ES",
+  "year": "2008",
+  "y": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Promenade",
+   "Adaptive reuse",
+   "Circulation"
+  ],
+  "study": "A route through a palace, a tunnel and a ruined church climbs to the restored Roman theatre.",
+  "qid": "Q2361695",
+  "commons": "Category:Museo del Teatro Romano de Cartagena",
+  "lead": "File:Museo Teatro Romano Cartagena2.jpg",
+  "coords": [
+   37.59889,
+   -0.98539
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "manhattan-municipal-building",
+  "n": 1322,
+  "name": "Manhattan Municipal Building",
+  "by": "McKim, Mead & White",
+  "place": "New York, US",
+  "year": "1914",
+  "y": 1914,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Public space"
+  ],
+  "study": "A Beaux-Arts tower straddling a street on a vaulted arch, crowned by a gilded statue.",
+  "qid": "Q1156778",
+  "commons": "Category:Manhattan Municipal Building",
+  "lead": "File:Municipal Building - New York City.jpg",
+  "coords": [
+   40.71292,
+   -74.00354
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tempodrom",
+  "n": 1323,
+  "name": "Tempodrom",
+  "by": "gmp (von Gerkan, Marg and Partners)",
+  "place": "Berlin, DE",
+  "year": "2001",
+  "y": 2001,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "study": "A pointed concrete tent roof recalls the circus tent the venue began in.",
+  "qid": "Q896180",
+  "commons": "Category:Tempodrom",
+  "lead": "File:Tempodrom.jpg",
+  "coords": [
+   52.5017,
+   13.3811
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "groes-festspielhaus",
+  "n": 1324,
+  "name": "Großes Festspielhaus",
+  "by": "Clemens Holzmeister",
+  "place": "Salzburg, AT",
+  "year": "1960",
+  "y": 1960,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Monumentality"
+  ],
+  "study": "A wide festival hall cut partly into the Mönchsberg rock sits behind the old court-stables facade.",
+  "qid": "Q669768",
+  "commons": "Category:Großes Festspielhaus (Salzburg)",
+  "lead": "File:Karajanplatz Salzburg.jpg",
+  "coords": [
+   47.7986,
+   13.0411
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "grady-gammage-memorial-auditorium",
+  "n": 1325,
+  "name": "Grady Gammage Memorial Auditorium",
+  "by": "Frank Lloyd Wright",
+  "place": "Tempe, US",
+  "year": "1964",
+  "y": 1964,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Sculptural form"
+  ],
+  "study": "A round hall ringed by slender columns rising into arches, with long pedestrian bridges reaching out.",
+  "qid": "Q5520334",
+  "commons": "Category:Gammage Memorial Auditorium",
+  "lead": "File:FLW Gammage Auditorium ASU PHX AZ 20186.JPG",
+  "coords": [
+   33.4163,
+   -111.93808
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "fisher-center-for-the-performing-arts",
+  "n": 1326,
+  "name": "Fisher Center for the Performing Arts",
+  "by": "Frank Gehry",
+  "place": "Annandale-on-Hudson, US",
+  "year": "2003",
+  "y": 2003,
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "study": "Billowing stainless-steel canopies drape over a plain theatre box and sweep out over the entrance.",
+  "qid": "Q7323850",
+  "commons": "Category:Richard B. Fisher Center for the Performing Arts",
+  "lead": "File:Fisher at Bard College.jpg",
+  "coords": [
+   42.0313,
+   -73.9027
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "igrejinha-nossa-senhora-de-fatima",
+  "n": 1327,
+  "name": "Igrejinha Nossa Senhora de Fátima",
+  "by": "Oscar Niemeyer",
+  "place": "Brasília, BR",
+  "year": "1958",
+  "y": 1958,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "study": "A thin concrete roof shaped like a nun's hat rests on three points over a tiny chapel with tile murals.",
+  "qid": "Q10300978",
+  "commons": "Category:Igreja Nossa Senhora de Fátima (Brasília)",
+  "lead": "File:Igreja Nossa Senhora de Fátima brasilia.jpg",
+  "coords": [
+   -15.81398,
+   -47.90374
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "de-kunstlinie",
+  "n": 1328,
+  "name": "De Kunstlinie",
+  "by": "SANAA",
+  "place": "Almere, NL",
+  "year": "2007",
+  "y": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Free plan",
+   "Courtyard",
+   "Steel & glass"
+  ],
+  "study": "One flat glass-edged box packs theatre halls, studios and small courtyards side by side by the lake.",
+  "qid": "Q2131209",
+  "commons": "Category:Kunstlinie Almere Flevoland",
+  "lead": "File:Kunstlinie Almere 20220210 123350.jpg",
+  "coords": [
+   52.36714,
+   5.21903
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "chiesa-del-santo-volto",
+  "n": 1329,
+  "name": "Chiesa del Santo Volto",
+  "by": "Mario Botta",
+  "place": "Turin, IT",
+  "year": "2006",
+  "y": 2006,
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Adaptive reuse"
+  ],
+  "study": "Seven towers ring a central church; an old steelworks chimney becomes its bell tower.",
+  "qid": "Q518528",
+  "commons": "Category:Chiesa del Santo Volto (Turin)",
+  "lead": "File:Santo volto campane.jpg",
+  "coords": [
+   45.0927,
+   7.66203
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "messe-torhaus",
+  "n": 1330,
+  "name": "Messe Torhaus",
+  "by": "Oswald Mathias Ungers",
+  "place": "Frankfurt, DE",
+  "year": "1984",
+  "y": 1984,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Monumentality"
+  ],
+  "study": "An office block split in two and joined at the top, forming a gate over the tracks into the fair.",
+  "qid": "Q471340",
+  "commons": "Category:Messe Torhaus",
+  "lead": "File:Messe-Torhaus, Frankfurt.jpg",
+  "coords": [
+   50.11139,
+   8.64278
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bodegas-ysios",
+  "n": 1331,
+  "name": "Bodegas Ysios",
+  "by": "Santiago Calatrava",
+  "place": "Laguardia, ES",
+  "year": "2001",
+  "y": 2001,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Timber",
+   "Landscape"
+  ],
+  "study": "An undulating aluminium roof over cedar-clad walls echoes the mountain ridge behind the winery.",
+  "qid": "Q2893608",
+  "commons": "Category:Bodegas Ysios",
+  "lead": "File:Ysios Winery near Laguardia, Álava, Spain - panoramio.jpg",
+  "coords": [
+   42.56861,
+   -2.59083
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "rainier-tower",
+  "n": 1332,
+  "name": "Rainier Tower",
+  "by": "Minoru Yamasaki",
+  "place": "Seattle, US",
+  "year": "1977",
+  "y": 1977,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Cantilever"
+  ],
+  "study": "An office tower balanced on a narrow tapering concrete pedestal, freeing the ground around it.",
+  "qid": "Q7284914",
+  "commons": "Category:Rainier Tower",
+  "lead": "File:Rainier Tower Seattle Washington.jpg",
+  "coords": [
+   47.609,
+   -122.334
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "christi-auferstehung",
+  "n": 1333,
+  "name": "Christi Auferstehung",
+  "by": "Gottfried Böhm",
+  "place": "Cologne, DE",
+  "year": "1970",
+  "y": 1970,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Brick",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "study": "Stacked brick walls and angular concrete roof slabs build a rugged, cave-like church with a tower.",
+  "qid": "Q1078598",
+  "commons": "Category:Christi Auferstehung (Köln-Lindenthal)",
+  "lead": "File:Christus auferstehung 2009.jpg",
+  "coords": [
+   50.9352,
+   6.91652
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "weizmann-house",
+  "n": 1334,
+  "name": "Weizmann House",
+  "by": "Erich Mendelsohn",
+  "place": "Rehovot, IL",
+  "year": "1937",
+  "y": 1937,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Middle East",
+  "era": "1900–1945",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Water"
+  ],
+  "study": "A white house around an inner courtyard pool, with a rounded stair tower rising over flat roofs.",
+  "qid": "Q2903120",
+  "commons": "Category:Beit Weizmann",
+  "lead": "File:PikiWiki Israel 1262 House of Dr. Haim Weizman Rehovot - Israel בית הנשיא חיים ויצמן ברחובות.jpg",
+  "coords": [
+   31.90645,
+   34.81856
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "westmount-square",
+  "n": 1335,
+  "name": "Westmount Square",
+  "by": "Ludwig Mies van der Rohe",
+  "place": "Montreal, CA",
+  "year": "1967",
+  "y": 1967,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Modular"
+  ],
+  "study": "Dark steel-and-glass towers and a low glass pavilion stand on a plaza above an underground mall.",
+  "qid": "Q3567539",
+  "commons": "Category:Westmount Square",
+  "lead": "File:Westmount Square.jpg",
+  "coords": [
+   45.4873,
+   -73.5877
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "san-francisco-city-hall",
+  "n": 1336,
+  "name": "San Francisco City Hall",
+  "by": "Arthur Brown Jr.",
+  "place": "San Francisco, US",
+  "year": "1915",
+  "y": 1915,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "study": "A Beaux-Arts dome rises over a grand rotunda and sweeping marble staircase.",
+  "qid": "Q1093944",
+  "commons": "Category:San Francisco City Hall",
+  "lead": "File:San Francisco City Hall 2.JPG",
+  "coords": [
+   37.77928,
+   -122.41928
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "chicago-board-of-trade-building",
+  "n": 1337,
+  "name": "Chicago Board of Trade Building",
+  "by": "Holabird & Root",
+  "place": "Chicago, US",
+  "year": "1930",
+  "y": 1930,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "study": "A stepped Art Deco tower closes the end of LaSalle Street, crowned by an aluminium statue of Ceres.",
+  "qid": "Q2224700",
+  "commons": "Category:Chicago Board of Trade Building",
+  "lead": "File:Chicago Board Of Trade Building (altered filtration version).jpg",
+  "coords": [
+   41.87812,
+   -87.63225
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "katuaq",
+  "n": 1338,
+  "name": "Katuaq",
+  "by": "Schmidt Hammer Lassen",
+  "place": "Nuuk, GL",
+  "year": "1997",
+  "y": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "study": "An undulating wooden wall, inspired by the northern lights, wraps the halls behind a glass front.",
+  "qid": "Q2745935",
+  "commons": "Category:Katuaq",
+  "lead": "File:Katuaq2008.JPG",
+  "coords": [
+   64.1775,
+   -51.73917
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "fisher-building",
+  "n": 1339,
+  "name": "Fisher Building",
+  "by": "Albert Kahn",
+  "place": "Detroit, US",
+  "year": "1928",
+  "y": 1928,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Vault",
+   "Colour"
+  ],
+  "study": "An Art Deco tower whose barrel-vaulted shopping arcade is covered in painted ceilings and mosaics.",
+  "qid": "Q933431",
+  "commons": "Category:Fisher Building (Detroit)",
+  "lead": "File:Fisherb straighten.jpg",
+  "coords": [
+   42.36966,
+   -83.07698
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-bow",
+  "n": 1340,
+  "name": "The Bow",
+  "by": "Foster + Partners",
+  "place": "Calgary, CA",
+  "year": "2012",
+  "y": 2012,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Structure as expression",
+   "Climate response",
+   "Steel & glass"
+  ],
+  "study": "A crescent tower bowed toward the sun, braced by a steel diagrid with tall atria inside the curve.",
+  "qid": "Q1229086",
+  "commons": "Category:The Bow (skyscraper)",
+  "lead": "File:The Bow in Calgary.jpg",
+  "coords": [
+   51.04778,
+   -114.06222
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "timberline-lodge",
+  "n": 1341,
+  "name": "Timberline Lodge",
+  "by": "W. I. Turner and Gilbert Stanley Underwood (WPA)",
+  "place": "Government Camp, US",
+  "year": "1937",
+  "y": 1937,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Timber",
+   "Stone",
+   "Earth & local material"
+  ],
+  "study": "A heavy timber and stone lodge whose hexagonal head-house gathers around a central stone chimney.",
+  "qid": "Q1574090",
+  "commons": "Category:Timberline Lodge",
+  "lead": "File:Timlodge.jpg",
+  "coords": [
+   45.33122,
+   -121.71125
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tancredo-neves-pantheon-of-the-fatherland",
+  "n": 1342,
+  "name": "Tancredo Neves Pantheon of the Fatherland",
+  "by": "Oscar Niemeyer",
+  "place": "Brasília, BR",
+  "year": "1986",
+  "y": 1986,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "study": "A dove-like white form of curved wings floats over a memorial hall on the Three Powers Plaza.",
+  "qid": "Q2049869",
+  "commons": "Category:Panteão da Pátria e da Liberdade Tancredo Neves",
+  "lead": "File:Panteão da Pátria Tancredo Neves.jpg",
+  "coords": [
+   -15.80158,
+   -47.86035
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "villa-esche",
+  "n": 1343,
+  "name": "Villa Esche",
+  "by": "Henry van de Velde",
+  "place": "Chemnitz, DE",
+  "year": "1903",
+  "y": 1903,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Human comfort"
+  ],
+  "study": "A calm villa whose rooms, furniture and fittings van de Velde designed as one flowing whole.",
+  "qid": "Q2525048",
+  "commons": "Category:Villa Esche",
+  "lead": "File:Chemnitz Villa Esche Rueckseite 2005.jpg",
+  "coords": [
+   50.815,
+   12.9011
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "perret-tower",
+  "n": 1344,
+  "name": "Perret Tower",
+  "by": "Auguste Perret",
+  "place": "Grenoble, FR",
+  "year": "1925",
+  "y": 1925,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "study": "One of the first reinforced-concrete towers: a slender shaft of openwork concrete built for an exhibition.",
+  "qid": "Q2446035",
+  "commons": "Category:Tour Perret in Grenoble",
+  "lead": "File:Expo8-Grenoble.jpg",
+  "coords": [
+   45.18472,
+   5.73528
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cafe-seerose",
+  "n": 1345,
+  "name": "Café Seerose",
+  "by": "Ulrich Müther",
+  "place": "Potsdam, DE",
+  "year": "1983",
+  "y": 1983,
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "study": "Thin hyperbolic concrete shells fold out like water-lily petals over a café on the Havel.",
+  "qid": "Q28086472",
+  "commons": "Category:Seerose Potsdam",
+  "lead": "File:Restaurant Seerose Potsdam.jpg",
+  "coords": [
+   52.39582,
+   13.04628
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "garden-of-fine-arts-kyoto",
+  "n": 1346,
+  "name": "Garden of Fine Arts, Kyoto",
+  "by": "Tadao Ando",
+  "place": "Kyoto, JP",
+  "year": "1994",
+  "y": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Promenade",
+   "Water",
+   "Exposed concrete"
+  ],
+  "study": "Concrete walls, ramps and water planes frame ceramic copies of paintings in a sunken open-air garden.",
+  "qid": "Q11375286",
+  "commons": "Category:Garden of Fine Art, Kyoto",
+  "lead": "File:LastSupper-GardenOfFineArtKyoto.jpg",
+  "coords": [
+   35.05111,
+   135.76531
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "glaspalast-sindelfingen",
+  "n": 1347,
+  "name": "Glaspalast Sindelfingen",
+  "by": "Behnisch & Partner",
+  "place": "Sindelfingen, DE",
+  "year": "1977",
+  "y": 1977,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Public space"
+  ],
+  "study": "Glass-walled steel hall whose transparent skin opens the sports and events floor to the town.",
+  "qid": "Q1528893",
+  "commons": "Category:Glaspalast Sindelfingen",
+  "lead": "File:Glaspalast Sindelfingen 40.jpg",
+  "coords": [
+   48.71596,
+   8.98366
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "muziekcentrum-vredenburg",
+  "n": 1348,
+  "name": "Muziekcentrum Vredenburg",
+  "by": "Herman Hertzberger",
+  "place": "Utrecht, NL",
+  "year": "1979",
+  "y": 1979,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Modular",
+   "Community",
+   "Structure as expression"
+  ],
+  "study": "Concert hall with the audience on all sides, set in a structuralist frame of repeated concrete units.",
+  "qid": "Q2429975",
+  "commons": "Category:Muziekcentrum Vredenburg",
+  "lead": "File:NL-Utrecht-muziekcentrum-Vr.png",
+  "coords": [
+   52.09222,
+   5.11333
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "skagen-odde-nature-centre",
+  "n": 1349,
+  "name": "Skagen Odde Nature Centre",
+  "by": "Jørn Utzon",
+  "place": "Skagen, DK",
+  "year": "2000",
+  "y": 2000,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Cluster"
+  ],
+  "study": "Clustered white halls with tall roof lanterns sit low among the dunes.",
+  "qid": "Q7533722",
+  "commons": "Category:Skagen Odde Naturcenter",
+  "lead": "File:Skagen Odde Naturcenter da 080707.jpg",
+  "coords": [
+   57.7399,
+   10.5953
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "skopje-railway-station",
+  "n": 1350,
+  "name": "Skopje Railway Station",
+  "by": "Kenzō Tange",
+  "place": "Skopje, MK",
+  "year": "1981",
+  "y": 1981,
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Megastructure",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "study": "Tracks raised on a long concrete deck over massive piers, part of Tange's post-earthquake city plan.",
+  "qid": "Q3097759",
+  "commons": "Category:Skopje train station",
+  "lead": "File:Skopje Train Station from Mount Vodno.JPG",
+  "coords": [
+   41.9912,
+   21.4459
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "transparent-factory",
+  "n": 1351,
+  "name": "Transparent Factory",
+  "by": "Gunter Henn",
+  "place": "Dresden, DE",
+  "year": "2002",
+  "y": 2002,
+  "type": "Workplace",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "study": "A glass car-assembly hall with parquet floors, letting the public watch production from the city park.",
+  "qid": "Q516226",
+  "commons": "Category:Gläserne Manufaktur",
+  "lead": "File:Glaeserne manufaktur dresden.jpg",
+  "coords": [
+   51.04444,
+   13.75556
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "louise-weiss-building-european-parliament",
+  "n": 1352,
+  "name": "Louise Weiss Building, European Parliament",
+  "by": "Architecture-Studio",
+  "place": "Strasbourg, FR",
+  "year": "1999",
+  "y": 1999,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Courtyard",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "study": "A curved glass wall wraps a round tower deliberately left looking unfinished around an open court.",
+  "qid": "Q2423937",
+  "commons": "Category:European Parliament, Strasbourg",
+  "lead": "File:European Parliament Strasbourg Hemicycle - Diliff.jpg",
+  "coords": [
+   48.5974,
+   7.76958
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gehry-tower",
+  "n": 1353,
+  "name": "Gehry Tower",
+  "by": "Frank Gehry",
+  "place": "Hanover, DE",
+  "year": "2001",
+  "y": 2001,
+  "type": "Office & tower",
+  "movement": "Deconstructivism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "A small office tower that twists as it rises, clad in stainless-steel panels.",
+  "qid": "Q661168",
+  "commons": "Category:Gehry-Tower",
+  "lead": "File:Hannover Gehry-Tower.jpg",
+  "coords": [
+   52.3747,
+   9.73065
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hohenhof",
+  "n": 1354,
+  "name": "Hohenhof",
+  "by": "Henry van de Velde",
+  "place": "Hagen, DE",
+  "year": "1908",
+  "y": 1908,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Landscape",
+   "Colour"
+  ],
+  "study": "A total work of art: house, garden, furniture and fittings designed together for Karl Ernst Osthaus.",
+  "qid": "Q1623733",
+  "commons": "Category:Hohenhof",
+  "lead": "File:Hagen - Hohenhof ex 30 ies.jpg",
+  "coords": [
+   51.35917,
+   7.51306
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tour-de-lille",
+  "n": 1355,
+  "name": "Tour de Lille",
+  "by": "Christian de Portzamparc",
+  "place": "Lille, FR",
+  "year": "1995",
+  "y": 1995,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "study": "An L-shaped office tower straddling Lille Europe station, nicknamed the ski boot.",
+  "qid": "Q3533359",
+  "commons": null,
+  "lead": "File:Tour de Lille 2.jpg",
+  "coords": [
+   50.6386,
+   3.07639
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kumano-kodo-nakahechi-museum-of-art",
+  "n": 1356,
+  "name": "Kumano Kodo Nakahechi Museum of Art",
+  "by": "SANAA",
+  "place": "Tanabe, JP",
+  "year": "1997",
+  "y": 1997,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Free plan"
+  ],
+  "study": "A thin-roofed single-storey box wrapped in layers of clear and milky glass.",
+  "qid": "Q11568880",
+  "commons": "Category:Kumanokodo Nakahechi Museum of Art",
+  "lead": "File:Nakahechi artsalon exterior.jpg",
+  "coords": [
+   33.81344,
+   135.60617
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "graduate-house-university-of-toronto",
+  "n": 1357,
+  "name": "Graduate House, University of Toronto",
+  "by": "Morphosis with Teeple Architects",
+  "place": "Toronto, CA",
+  "year": "2000",
+  "y": 2000,
+  "type": "Housing",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Cantilever",
+   "Courtyard",
+   "Sculptural form"
+  ],
+  "study": "A dormitory block whose lettered beam cantilevers over the street as a gateway to the campus.",
+  "qid": "Q7896487",
+  "commons": "Category:Graduate House, Toronto",
+  "lead": "File:U of T Graduate House.JPG",
+  "coords": [
+   43.6635,
+   -79.4018
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kunstmuseum-stuttgart",
+  "n": 1358,
+  "name": "Kunstmuseum Stuttgart",
+  "by": "Hascher Jehle Architektur",
+  "place": "Stuttgart, DE",
+  "year": "2005",
+  "y": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Steel & glass",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "study": "A glass cube around a stone-clad core, with most galleries in old road tunnels below the square.",
+  "qid": "Q317398",
+  "commons": "Category:Kunstmuseum Stuttgart",
+  "lead": "File:KunstmuseumStuttgart-pjt.jpg",
+  "coords": [
+   48.7783,
+   9.1776
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "state-council-building",
+  "n": 1359,
+  "name": "State Council Building",
+  "by": "Roland Korn and Hans-Erich Bogatzky",
+  "place": "Berlin, DE",
+  "year": "1964",
+  "y": 1964,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Reclaimed material",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "study": "A modernist government block with a baroque portal saved from the Berlin Palace set into its facade.",
+  "qid": "Q318235",
+  "commons": "Category:Staatsratsgebäude",
+  "lead": "File:Berlín Státní rada 4.jpg",
+  "coords": [
+   52.51556,
+   13.40111
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lisbon-port-control-tower",
+  "n": 1360,
+  "name": "Lisbon Port Control Tower",
+  "by": "Gonçalo Byrne",
+  "place": "Lisbon, PT",
+  "year": "2001",
+  "y": 2001,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Water"
+  ],
+  "study": "A leaning dark prism at the mouth of the Tagus, with the glazed control room at its tilted top.",
+  "qid": "Q6558626",
+  "commons": "Category:Torre de Controle do Porto de Lisboa",
+  "lead": "File:Lisbon harbour control tower (1355221302).jpg",
+  "coords": [
+   38.694,
+   -9.2343
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "concord-pavilion",
+  "n": 1361,
+  "name": "Concord Pavilion",
+  "by": "Frank Gehry",
+  "place": "Concord, US",
+  "year": "1975",
+  "y": 1975,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Public space"
+  ],
+  "study": "Open-air amphitheatre: one broad steel-truss roof over the seats, with a lawn rising up the hill behind.",
+  "qid": "Q7539731",
+  "commons": null,
+  "lead": "File:Sleep Train Pavilion.jpg",
+  "coords": [
+   37.9597,
+   -121.946
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ceramic-park-mino",
+  "n": 1362,
+  "name": "Ceramic Park Mino",
+  "by": "Arata Isozaki",
+  "place": "Tajimi, JP",
+  "year": "2002",
+  "y": 2002,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Geometry"
+  ],
+  "study": "A ceramics museum tucked into a wooded valley, with terraces and a viewing deck stepping over the slope.",
+  "qid": "Q11314499",
+  "commons": "Category:Ceramics Park MINO",
+  "lead": "File:Ceramics Park MINO2007-1.jpg",
+  "coords": [
+   35.33086,
+   137.15489
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gosstrakh-apartments",
+  "n": 1363,
+  "name": "Gosstrakh Apartments",
+  "by": "Moisei Ginzburg",
+  "place": "Moscow, RU",
+  "year": "1927",
+  "y": 1927,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Community",
+   "Facade as skin"
+  ],
+  "study": "Early Constructivist flats: a plain block with long window bands and corner balconies, a step to Narkomfin.",
+  "qid": "Q29461859",
+  "commons": "Category:Gosstrakh Building",
+  "lead": "File:Moscow GosstrakhBuilding 0771.jpg",
+  "coords": [
+   55.76264,
+   37.59482
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "disney-ice-anaheim-ice",
+  "n": 1364,
+  "name": "Disney Ice (Anaheim Ice)",
+  "by": "Frank Gehry",
+  "place": "Anaheim, US",
+  "year": "1995",
+  "y": 1995,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "study": "An ice rink under a roof of curving laminated-timber arches, with the arches showing inside.",
+  "qid": "Q4750883",
+  "commons": "Category:Anaheim Ice",
+  "lead": "File:Anaheimice.jpg",
+  "coords": [
+   33.83391,
+   -117.91742
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tripolis",
+  "n": 1365,
+  "name": "Tripolis",
+  "by": "Aldo van Eyck and Hannie van Eyck",
+  "place": "Amsterdam, NL",
+  "year": "1994",
+  "y": 1994,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Cluster",
+   "Detail",
+   "Timber"
+  ],
+  "study": "Three office blocks with finely framed timber-and-glass facades, set beside Van Eyck's orphanage.",
+  "qid": "Q67521781",
+  "commons": "Category:Tripolis, Amsterdam",
+  "lead": "File:Tripolis300.jpg",
+  "coords": [
+   52.33969,
+   4.85598
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "555-california-street",
+  "n": 1366,
+  "name": "555 California Street",
+  "by": "Wurster, Bernardi & Emmons and SOM, with Pietro Belluschi",
+  "place": "San Francisco, US",
+  "year": "1969",
+  "y": 1969,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "Dark red granite tower whose facade is folded into rows of sawtooth bay windows.",
+  "qid": "Q243921",
+  "commons": "Category:555 California Street",
+  "lead": "File:Bank of America Tower San Francisco.jpg",
+  "coords": [
+   37.79208,
+   -122.40376
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "new-york-state-capitol",
+  "n": 1367,
+  "name": "New York State Capitol",
+  "by": "Thomas Fuller, Leopold Eidlitz, H. H. Richardson, Isaac Perry",
+  "place": "Albany, US",
+  "year": "1899",
+  "y": 1899,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "study": "Several architects' styles meet in one granite capitol; see the carved sandstone Great Western Staircase.",
+  "qid": "Q1510431",
+  "commons": "Category:New York State Capitol",
+  "lead": "File:NYSCapitolPanorama.jpg",
+  "coords": [
+   42.6526,
+   -73.7574
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "funkturm-berlin",
+  "n": 1368,
+  "name": "Funkturm Berlin",
+  "by": "Heinrich Straumer",
+  "place": "Berlin, DE",
+  "year": "1926",
+  "y": 1926,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "study": "A steel lattice radio tower with a restaurant hung partway up and a viewing platform at the top.",
+  "qid": "Q699724",
+  "commons": "Category:Berliner Funkturm",
+  "lead": "File:Berliner Funkturm.jpg",
+  "coords": [
+   52.50506,
+   13.27818
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "l-agora",
+  "n": 1369,
+  "name": "L'Àgora",
+  "by": "Santiago Calatrava",
+  "place": "Valencia, ES",
+  "year": "2009",
+  "y": 2009,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "study": "A tall elliptical hall framed by curved steel ribs, the last piece of the City of Arts and Sciences.",
+  "qid": "Q2634180",
+  "commons": "Category:L'Àgora",
+  "lead": "File:Agora y Pont de l'Assut de l'Or.jpg",
+  "coords": [
+   39.45361,
+   -0.35
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "langer-eugen",
+  "n": 1370,
+  "name": "Langer Eugen",
+  "by": "Egon Eiermann",
+  "place": "Bonn, DE",
+  "year": "1969",
+  "y": 1969,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Facade as skin",
+   "Brise-soleil",
+   "Detail"
+  ],
+  "study": "Slim office tower wrapped in Eiermann's outer layer of walkways and sunshades.",
+  "qid": "Q884122",
+  "commons": "Category:Langer Eugen",
+  "lead": "File:Langer Eugen.jpg",
+  "coords": [
+   50.7183,
+   7.12755
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ppg-place",
+  "n": 1371,
+  "name": "PPG Place",
+  "by": "Philip Johnson and John Burgee",
+  "place": "Pittsburgh, US",
+  "year": "1984",
+  "y": 1984,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "study": "Mirror-glass towers bristling with Gothic-style spires and pinnacles around a public plaza.",
+  "qid": "Q1322398",
+  "commons": "Category:PPG Place",
+  "lead": "File:Pittsburgh-pennsylvania-ppg-place-2007.jpg",
+  "coords": [
+   40.4398,
+   -80.0032
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "staatstheater-cottbus",
+  "n": 1372,
+  "name": "Staatstheater Cottbus",
+  "by": "Bernhard Sehring",
+  "place": "Cottbus, DE",
+  "year": "1908",
+  "y": 1908,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Monumentality"
+  ],
+  "study": "Art Nouveau theatre with a domed stage house and a richly sculpted, curving stone frontage.",
+  "qid": "Q1804142",
+  "commons": "Category:Staatstheater Cottbus",
+  "lead": "File:Cottbus 07-2017 img16 Staatstheater.jpg",
+  "coords": [
+   51.7572,
+   14.3256
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ahwahnee-hotel",
+  "n": 1373,
+  "name": "Ahwahnee Hotel",
+  "by": "Gilbert Stanley Underwood",
+  "place": "Yosemite Valley, US",
+  "year": "1927",
+  "y": 1927,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "study": "Granite walls and concrete stained to look like redwood, with Native American motifs inside.",
+  "qid": "Q4696448",
+  "commons": "Category:Ahwahnee Hotel",
+  "lead": "File:Ahwahnee Hotel Half Dome.jpg",
+  "coords": [
+   37.74574,
+   -119.57419
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "st-johann-von-capistran",
+  "n": 1374,
+  "name": "St. Johann von Capistran",
+  "by": "Sep Ruf",
+  "place": "Munich, DE",
+  "year": "1960",
+  "y": 1960,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Geometry"
+  ],
+  "study": "A round brick church whose flat roof rests on slim columns, with a large skylight over the altar.",
+  "qid": "Q2319174",
+  "commons": "Category:St. Johann von Capistran (München)",
+  "lead": "File:St Capistran Muenchen.jpg",
+  "coords": [
+   48.14,
+   11.6241
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "okanoyama-museum-of-art",
+  "n": 1375,
+  "name": "Okanoyama Museum of Art",
+  "by": "Arata Isozaki",
+  "place": "Nishiwaki, JP",
+  "year": "1984",
+  "y": 1984,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "region": "East Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Circulation"
+  ],
+  "study": "Tile-clad gallery boxes set in a straight line like train carriages beside the railway.",
+  "qid": "Q11471937",
+  "commons": "Category:Okanoyama Museum of Art Nishiwaki",
+  "lead": "File:Nihon-heso-koen Station ag10 14.JPG",
+  "coords": [
+   35.00208,
+   134.99792
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "garage-with-chauffeur-s-flat",
+  "n": 1376,
+  "name": "Garage with Chauffeur's Flat",
+  "by": "Gerrit Rietveld",
+  "place": "Utrecht, NL",
+  "year": "1928",
+  "y": 1928,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Prefabrication",
+   "Modular",
+   "Structure as expression"
+  ],
+  "study": "A steel frame with bolted precast concrete panels: an early test of prefabricated building.",
+  "qid": "Q17455644",
+  "commons": "Category:Waldeck Pyrmontkade 20, Utrecht",
+  "lead": "File:Rijksmonument-46957-20111002120539.jpg",
+  "coords": [
+   52.0845,
+   5.13943
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hallfield-primary-school",
+  "n": 1377,
+  "name": "Hallfield Primary School",
+  "by": "Denys Lasdun",
+  "place": "London, GB",
+  "year": "1954",
+  "y": 1954,
+  "type": "Education",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Free plan",
+   "Light & shadow"
+  ],
+  "study": "Classrooms are clustered like petals along a curving corridor, freeing the plan from a rigid grid.",
+  "qid": "Q17550164",
+  "commons": "Category:Hallfield Primary School",
+  "lead": "File:Hallfield Primary School, entrance and curving corridor.jpg",
+  "coords": [
+   51.5149,
+   -0.1866
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "san-francesco-al-fopponino",
+  "n": 1378,
+  "name": "San Francesco al Fopponino",
+  "by": "Gio Ponti",
+  "place": "Milan, IT",
+  "year": "1964",
+  "y": 1964,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "study": "White-tiled facade pierced by Ponti's signature hexagonal openings, set back from the street.",
+  "qid": "Q17624866",
+  "commons": "Category:San Francesco d'Assisi (Milan)",
+  "lead": null,
+  "coords": [
+   45.4626,
+   9.16262
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "joieria-roca",
+  "n": 1379,
+  "name": "Joieria Roca",
+  "by": "Josep Lluís Sert",
+  "place": "Barcelona, ES",
+  "year": "1934",
+  "y": 1934,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Geometry"
+  ],
+  "study": "A rationalist jewellery shop whose glazed shopfront and white walls turn a Passeig de Gràcia corner.",
+  "qid": "Q47171113",
+  "commons": "Category:Joieria Roca",
+  "lead": "File:Joieria Roca.jpg",
+  "coords": [
+   41.3899,
+   2.16826
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "constance-perkins-house",
+  "n": 1380,
+  "name": "Constance Perkins House",
+  "by": "Richard Neutra",
+  "place": "Pasadena, US",
+  "year": "1955",
+  "y": 1955,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Water",
+   "Timber",
+   "Landscape"
+  ],
+  "study": "Small timber-and-glass house for a professor, its garden pond reaching in beneath the living room glass.",
+  "qid": "Q5163575",
+  "commons": null,
+  "lead": "File:Constance Perkins House.jpg",
+  "coords": [
+   34.1308,
+   -118.179
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "jardinette-apartments",
+  "n": 1381,
+  "name": "Jardinette Apartments",
+  "by": "Richard Neutra",
+  "place": "Los Angeles, US",
+  "year": "1928",
+  "y": 1928,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Exposed concrete",
+   "Free plan",
+   "Facade as skin"
+  ],
+  "study": "Neutra's first American building: a concrete frame wrapped in continuous horizontal bands of windows.",
+  "qid": "Q6159852",
+  "commons": "Category:Jardinette Apartments",
+  "lead": "File:Jardinette Apartments aka Marathon Apartments from northwest 2015-05-03.jpg",
+  "coords": [
+   34.08472,
+   -118.30889
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pennsylvania-state-capitol",
+  "n": 1382,
+  "name": "Pennsylvania State Capitol",
+  "by": "Joseph Miller Huston",
+  "place": "Harrisburg, US",
+  "year": "1906",
+  "y": 1906,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Colour"
+  ],
+  "study": "A green-tiled dome modelled on St Peter's crowns a granite Beaux-Arts capitol and its painted rotunda.",
+  "qid": "Q2915393",
+  "commons": "Category:Pennsylvania State Capitol",
+  "lead": "File:Pennsylvania State Capitol East Side.jpg",
+  "coords": [
+   40.26444,
+   -76.88361
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "markisches-museum",
+  "n": 1383,
+  "name": "Märkisches Museum",
+  "by": "Ludwig Hoffmann",
+  "place": "Berlin, DE",
+  "year": "1908",
+  "y": 1908,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Detail"
+  ],
+  "study": "A brick collage of Brandenburg Gothic and Renaissance quotes, with a tower modelled on a medieval keep.",
+  "qid": "Q573672",
+  "commons": "Category:Märkisches Museum Berlin",
+  "lead": "File:Märkisches Museum Berlin.jpg",
+  "coords": [
+   52.5136,
+   13.4147
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "wrigley-building",
+  "n": 1384,
+  "name": "Wrigley Building",
+  "by": "Graham, Anderson, Probst & White",
+  "place": "Chicago, US",
+  "year": "1924",
+  "y": 1924,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Monumentality"
+  ],
+  "study": "Twin white terracotta towers linked by bridges, with a clock tower drawing on Seville's Giralda.",
+  "qid": "Q1464592",
+  "commons": "Category:Wrigley Building",
+  "lead": "File:Wrigley Building - Chicago, Illinois.JPG",
+  "coords": [
+   41.88971,
+   -87.62486
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "bodegas-guell",
+  "n": 1385,
+  "name": "Bodegas Güell",
+  "by": "Francesc Berenguer with Antoni Gaudí",
+  "place": "Sitges, ES",
+  "year": "1901",
+  "y": 1901,
+  "type": "Workplace",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "study": "A steep stone wedge of a winery on the Garraf coast, with parabolic arches and a chapel under the roof.",
+  "qid": "Q2326886",
+  "commons": "Category:Celler Güell",
+  "lead": "File:Celler Güell01.jpg",
+  "coords": [
+   41.25586,
+   1.90543
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "festspielhaus-baden-baden",
+  "n": 1386,
+  "name": "Festspielhaus Baden-Baden",
+  "by": "Wilhelm Holzbauer",
+  "place": "Baden-Baden, DE",
+  "year": "1998",
+  "y": 1998,
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Monumentality"
+  ],
+  "study": "The town's old railway station is reused as the entrance foyer to a large new festival hall behind it.",
+  "qid": "Q176342",
+  "commons": "Category:Festspielhaus Baden-Baden",
+  "lead": "File:Baden-Baden, Festspielhaus am Ernst-Schlapper-Platz.jpg",
+  "coords": [
+   48.7669,
+   8.23229
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "capitol-records-building",
+  "n": 1387,
+  "name": "Capitol Records Building",
+  "by": "Welton Becket (Louis Naidorf)",
+  "place": "Los Angeles, US",
+  "year": "1956",
+  "y": 1956,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Brise-soleil",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "study": "A round tower ringed by projecting sunshade fins and topped by a spire, often likened to a stack of records.",
+  "qid": "Q2937482",
+  "commons": "Category:Capitol Records Building",
+  "lead": "File:Capitol Records sunset.jpg",
+  "coords": [
+   34.1031,
+   -118.326
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kollhoff-tower",
+  "n": 1388,
+  "name": "Kollhoff Tower",
+  "by": "Hans Kollhoff",
+  "place": "Berlin, DE",
+  "year": "1999",
+  "y": 1999,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "study": "A dark brick tower with a sharp wedge corner and setbacks, recalling 1920s American skyscrapers.",
+  "qid": "Q1779433",
+  "commons": "Category:Kollhoff-Tower",
+  "lead": "File:Potsdamer Platz - Kollhoff-Tower, 20060603.jpg",
+  "coords": [
+   52.5089,
+   13.375
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palmenhaus-burggarten",
+  "n": 1389,
+  "name": "Palmenhaus, Burggarten",
+  "by": "Friedrich Ohmann",
+  "place": "Vienna, AT",
+  "year": "1906",
+  "y": 1906,
+  "type": "Pavilion",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Steel & glass",
+   "Planting",
+   "Detail"
+  ],
+  "study": "A long Jugendstil glasshouse of iron and glass bays held between stone end and centre pavilions.",
+  "qid": "Q2048203",
+  "commons": "Category:Palmenhaus (Burggarten)",
+  "lead": "File:AT-13768 Palmenhaus Burggarten 05.JPG",
+  "coords": [
+   48.20507,
+   16.36683
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "james-a-farley-building-moynihan-train-hall",
+  "n": 1390,
+  "name": "James A. Farley Building (Moynihan Train Hall)",
+  "by": "McKim, Mead & White; SOM (train hall)",
+  "place": "New York City, US",
+  "year": "1914",
+  "y": 1914,
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Monumentality"
+  ],
+  "study": "A Corinthian colonnade fronts the old mail hall, now a skylit train hall under its exposed steel trusses.",
+  "qid": "Q2466300",
+  "commons": "Category:James Farley Post Office",
+  "lead": "File:James A. Farley Building (51878872365).jpg",
+  "coords": [
+   40.75122,
+   -73.99518
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kulturpalast-dresden",
+  "n": 1391,
+  "name": "Kulturpalast Dresden",
+  "by": "Wolfgang Hänsch",
+  "place": "Dresden, DE",
+  "year": "1969",
+  "y": 1969,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Colour"
+  ],
+  "study": "A long glass-walled hall under a broad flat roof, with a socialist-realist mural across one end.",
+  "qid": "Q1791798",
+  "commons": "Category:Kulturpalast, Dresden",
+  "lead": "File:Kulturpalast von der Kreuzkirche Dresden-1.jpg",
+  "coords": [
+   51.051,
+   13.7385
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "shinjuku-ns-building",
+  "n": 1392,
+  "name": "Shinjuku NS Building",
+  "by": "Nikken Sekkei (Shōji Hayashi)",
+  "place": "Tokyo, JP",
+  "year": "1982",
+  "y": 1982,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "region": "East Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Void",
+   "Light from above",
+   "Circulation"
+  ],
+  "study": "Offices wrap a full-height glass-roofed atrium spanned by a bridge high up near the roof.",
+  "qid": "Q863639",
+  "commons": "Category:Shinjuku NS Building",
+  "lead": "File:Shinjuku NS Building -01.jpg",
+  "coords": [
+   35.69333,
+   139.69319
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hochhaus-an-der-weberwiese",
+  "n": 1393,
+  "name": "Hochhaus an der Weberwiese",
+  "by": "Hermann Henselmann",
+  "place": "Berlin, DE",
+  "year": "1952",
+  "y": 1952,
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Detail"
+  ],
+  "study": "A tiled Socialist Classicist housing block with a pillared base and cornice, the prototype for Stalinallee.",
+  "qid": "Q1428812",
+  "commons": "Category:Hochhaus Weberwiese",
+  "lead": "File:Weberwiese Berlin April 2006 147.jpg",
+  "coords": [
+   52.515,
+   13.4439
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "west-japan-general-exhibition-center",
+  "n": 1394,
+  "name": "West Japan General Exhibition Center",
+  "by": "Arata Isozaki",
+  "place": "Kitakyushu, JP",
+  "year": "1977",
+  "y": 1977,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "East Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "study": "Masts and cables suspend a long exhibition hall roof, recalling the cranes of the nearby port.",
+  "qid": "Q11628410",
+  "commons": null,
+  "lead": "File:West Japan Convention Center Panoramic.jpg",
+  "coords": [
+   33.89053,
+   130.88625
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "weesperflat",
+  "n": 1395,
+  "name": "Weesperflat",
+  "by": "Herman Hertzberger",
+  "place": "Amsterdam, NL",
+  "year": "1966",
+  "y": 1966,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Community",
+   "Circulation",
+   "Exposed concrete"
+  ],
+  "study": "A raised internal street partway up gives student flats a shared deck for meeting and eating.",
+  "qid": "Q2406587",
+  "commons": "Category:Weesperflat",
+  "lead": "File:Weesperflat Amsterdam.jpg",
+  "coords": [
+   52.36583,
+   4.90556
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "chasse-theater",
+  "n": 1396,
+  "name": "Chassé Theater",
+  "by": "Herman Hertzberger",
+  "place": "Breda, NL",
+  "year": "1995",
+  "y": 1995,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Circulation"
+  ],
+  "study": "A single undulating roof sweeps over fly towers and foyers, gathering several halls into one form.",
+  "qid": "Q2792743",
+  "commons": "Category:Chassé Theater",
+  "lead": "File:0954Chassetheater.jpg",
+  "coords": [
+   51.58694,
+   4.78194
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "new-town-hall-hanover",
+  "n": 1397,
+  "name": "New Town Hall, Hanover",
+  "by": "Hermann Eggert and Gustav Halmhuber",
+  "place": "Hanover, DE",
+  "year": "1913",
+  "y": 1913,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Circulation",
+   "Stone"
+  ],
+  "study": "An eclectic palace-like town hall with a central dome climbed by a curved, inclined lift.",
+  "qid": "Q573618",
+  "commons": "Category:Neues Rathaus (Hannover)",
+  "lead": "File:Neues Rathaus Hannover 2013.jpg",
+  "coords": [
+   52.36725,
+   9.73736
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "helsinki-music-centre",
+  "n": 1398,
+  "name": "Helsinki Music Centre",
+  "by": "LPR Architects",
+  "place": "Helsinki, FI",
+  "year": "2011",
+  "y": 2011,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Public space",
+   "Steel & glass",
+   "Section"
+  ],
+  "study": "A vineyard-terraced concert hall sits at the core, wrapped by foyers behind glass and patinated copper.",
+  "qid": "Q1888459",
+  "commons": "Category:Helsinki Music Centre",
+  "lead": "File:Centro Musical de Helsinki, Finlandia, 2012-08-14, DD 01.JPG",
+  "coords": [
+   60.17361,
+   24.935
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-fuster",
+  "n": 1399,
+  "name": "Casa Fuster",
+  "by": "Lluís Domènech i Montaner",
+  "place": "Barcelona, ES",
+  "year": "1911",
+  "y": 1911,
+  "type": "Housing",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Colour"
+  ],
+  "study": "A white marble facade with slender pink columns and rounded bays wraps a curved street corner.",
+  "qid": "Q2518066",
+  "commons": "Category:Casa Fuster",
+  "lead": "File:Casa Fuster 13-05-2009 18-54-56.JPG",
+  "coords": [
+   41.398,
+   2.15787
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lasipalatsi",
+  "n": 1400,
+  "name": "Lasipalatsi",
+  "by": "Viljo Revell, Niilo Kokko and Heimo Riihimäki",
+  "place": "Helsinki, FI",
+  "year": "1936",
+  "y": 1936,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Public space"
+  ],
+  "study": "A low white functionalist block of shops and cinema; skylight domes of a museum below now dot its yard.",
+  "qid": "Q630304",
+  "commons": "Category:Lasipalatsi",
+  "lead": "File:Lasipalatsi - Marit Henriksson.jpg",
+  "coords": [
+   60.17028,
+   24.93694
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "paula-modersohn-becker-museum",
+  "n": 1401,
+  "name": "Paula Modersohn-Becker Museum",
+  "by": "Bernhard Hoetger",
+  "place": "Bremen, DE",
+  "year": "1927",
+  "y": 1927,
+  "type": "Museum",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Detail"
+  ],
+  "study": "Expressionist brick museum on Böttcherstrasse with curving walls and sculpted brickwork inside and out.",
+  "qid": "Q318983",
+  "commons": "Category:Paula Modersohn-Becker Museum",
+  "lead": "File:PMB museum.jpg",
+  "coords": [
+   53.07519,
+   8.80619
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "hypo-haus",
+  "n": 1402,
+  "name": "Hypo-Haus",
+  "by": "Walther and Bea Betz",
+  "place": "Munich, DE",
+  "year": "1981",
+  "y": 1981,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "study": "Aluminium-clad office floors hang from a mid-height platform carried by four round concrete towers.",
+  "qid": "Q896364",
+  "commons": "Category:Hypo-Haus",
+  "lead": "File:GraphyArchy - Wiki00002.jpg",
+  "coords": [
+   48.15003,
+   11.61718
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "notre-dame-de-l-arche-d-alliance",
+  "n": 1403,
+  "name": "Notre-Dame-de-l'Arche-d'Alliance",
+  "by": "Architecture-Studio",
+  "place": "Paris, FR",
+  "year": "1998",
+  "y": 1998,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Pilotis",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "study": "A cubic church raised on pilotis and wrapped in an open steel grid frame, with the nave lifted off the street.",
+  "qid": "Q1751669",
+  "commons": "Category:Église Notre-Dame-de-l'Arche-d'Alliance",
+  "lead": "File:Eglise Notre Dame de l'Arche d'Alliance @ Paris (34522534110).jpg",
+  "coords": [
+   48.8367,
+   2.30847
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gosplan-garage",
+  "n": 1404,
+  "name": "Gosplan Garage",
+  "by": "Konstantin Melnikov",
+  "place": "Moscow, RU",
+  "year": "1936",
+  "y": 1936,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "study": "A constructivist garage whose street front is a glazed grid framing a large circular window.",
+  "qid": "Q4133524",
+  "commons": "Category:Gosplan garage",
+  "lead": "File:Gosplan car garage- Konstantin Melnikov, 1934-1936 (11985312565).jpg",
+  "coords": [
+   55.73963,
+   37.72208
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "stadsschouwburg-utrecht",
+  "n": 1405,
+  "name": "Stadsschouwburg Utrecht",
+  "by": "Willem Marinus Dudok",
+  "place": "Utrecht, NL",
+  "year": "1941",
+  "y": 1941,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "study": "A brick theatre of stacked cubic volumes with a tall fly tower and long horizontal lines.",
+  "qid": "Q2485688",
+  "commons": "Category:Stadsschouwburg Utrecht",
+  "lead": "File:StadsschUtrecht.JPG",
+  "coords": [
+   52.09306,
+   5.12722
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-space-centre",
+  "n": 1406,
+  "name": "National Space Centre",
+  "by": "Nicholas Grimshaw",
+  "place": "Leicester, GB",
+  "year": "2001",
+  "y": 2001,
+  "type": "Museum",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "study": "A semi-transparent tower of ETFE cushions holds upright rockets beside the low museum hall.",
+  "qid": "Q3873189",
+  "commons": "Category:National Space Centre, Leicester",
+  "lead": "File:National Space Centre, Leicester. - geograph.org.uk - 70250.jpg",
+  "coords": [
+   52.65361,
+   -1.13222
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "sakamoto-ryoma-memorial-museum",
+  "n": 1407,
+  "name": "Sakamoto Ryōma Memorial Museum",
+  "by": "Workshop (Hiroshi and Akiko Takahashi)",
+  "place": "Kōchi, JP",
+  "year": "1991",
+  "y": 1991,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Cantilever",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "study": "A glazed gallery box cantilevers from a clifftop toward the Pacific Ocean.",
+  "qid": "Q5965394",
+  "commons": "Category:Sakamoto Ryoma Memorial Museum",
+  "lead": "File:View from Sea Side of Sakamoto Ryoma Memorial Museum.jpg",
+  "coords": [
+   33.49642,
+   133.57183
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "roche-tower-2",
+  "n": 1408,
+  "name": "Roche Tower 2",
+  "by": "Herzog & de Meuron",
+  "place": "Basel, CH",
+  "year": "2022",
+  "y": 2022,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Section"
+  ],
+  "study": "A white tower that steps back in a series of setbacks, banded by horizontal floor edges and terraces.",
+  "qid": "Q24037787",
+  "commons": "Category:Roche Tower 2",
+  "lead": "File:RocheBau2Basel 06-19.jpg",
+  "coords": [
+   47.55937,
+   7.60749
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "place-bonaventure",
+  "n": 1409,
+  "name": "Place Bonaventure",
+  "by": "ARCOP",
+  "place": "Montreal, CA",
+  "year": "1967",
+  "y": 1967,
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Megastructure",
+   "Exposed concrete",
+   "Circulation"
+  ],
+  "study": "A ribbed-concrete megastructure stacks exhibition halls, offices and a rooftop hotel over rail tracks.",
+  "qid": "Q3389734",
+  "commons": "Category:Place Bonaventure",
+  "lead": "File:Place Bonaventure extérieur.jpg",
+  "coords": [
+   45.4994,
+   -73.5651
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-lowry",
+  "n": 1410,
+  "name": "The Lowry",
+  "by": "Michael Wilford and Partners",
+  "place": "Salford, GB",
+  "year": "2000",
+  "y": 2000,
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Water"
+  ],
+  "study": "An arts centre of colliding metal-clad volumes on a waterfront point, with brightly coloured interiors.",
+  "qid": "Q3521692",
+  "commons": "Category:The Lowry",
+  "lead": "File:LowryArtsCentre.JPG",
+  "coords": [
+   53.4707,
+   -2.2964
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cafe-moskau",
+  "n": 1411,
+  "name": "Café Moskau",
+  "by": "Josef Kaiser",
+  "place": "Berlin, DE",
+  "year": "1964",
+  "y": 1964,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Colour",
+   "Public space"
+  ],
+  "study": "A low glazed pavilion on Karl-Marx-Allee with a mosaic frieze and a Sputnik model on the roof.",
+  "qid": "Q1025640",
+  "commons": "Category:Café Moskau (Berlin)",
+  "lead": "File:Cafe Moskau B-Mitte 08-2017.jpg",
+  "coords": [
+   52.5194,
+   13.4228
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "terneuzen-city-hall",
+  "n": 1412,
+  "name": "Terneuzen City Hall",
+  "by": "Van den Broek en Bakema",
+  "place": "Terneuzen, NL",
+  "year": "1972",
+  "y": 1972,
+  "type": "Civic",
+  "movement": "Brutalism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Water"
+  ],
+  "study": "Stacked concrete office floors cantilever in terraces toward the Westerschelde around the council chamber.",
+  "qid": "Q52771144",
+  "commons": "Category:Stadhuis van Terneuzen",
+  "lead": "File:Stadhuis Terneuzen - Totaalaanzicht 4.jpg",
+  "coords": [
+   51.33778,
+   3.83139
+  ],
+  "hotlink": true
  }
 ];
