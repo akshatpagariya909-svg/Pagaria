@@ -1,2 +1,2 @@
-python -u tools/signals.py
-Fetch expert-database, identifier and award signals for every candidate, then rescore (tools/score.py).
+python -u tools/harvest_archinform.py
+Pull every Wikidata building archINFORM lists, fetch its signals, then rescore everything (tools/score.py).

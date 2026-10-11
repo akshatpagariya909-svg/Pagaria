@@ -3,7 +3,8 @@
 
   python tools/score.py        # writes tools/harvest/scored.json and tools/score_report.md
 
-Pool: tools/harvest/candidates.json (Wikidata, architect named, Wikipedia in 6+ languages)
+Pool: tools/harvest/candidates.json (Wikidata, architect named, Wikipedia in 6+ languages),
+tools/harvest/archinform.json (every Wikidata building archINFORM lists, from harvest_archinform.py)
 plus tools/pritzker/buildings.json. Extra signals come from tools/harvest/signals.json when
 tools/signals.py has run on GitHub Actions; without it the score uses fame, era and type only.
 
@@ -65,8 +66,12 @@ def on_wall(r, wall):
 
 
 def pool():
-    """Candidates and Pritzker buildings, one record per Wikidata item."""
+    """Candidates, archINFORM-listed and Pritzker buildings, one record per Wikidata item."""
     recs = {r['qid']: r for r in json.loads((H / 'candidates.json').read_text(encoding='utf-8'))}
+    ai = H / 'archinform.json'
+    if ai.exists():
+        for r in json.loads(ai.read_text(encoding='utf-8')):
+            recs.setdefault(r['qid'], r)['archinform'] = True
     pz = ROOT / 'tools' / 'pritzker' / 'buildings.json'
     pritzker = set()
     if pz.exists():
@@ -106,7 +111,7 @@ def score(r, sig, pritzker):
     fame = 30 * min(1, math.log(max(r.get('sitelinks', 0), 6) / 6) / math.log(60 / 6))
     experts = 0
     for name, pts in EXPERTS.items():
-        if name in sig.get('ids', []):
+        if name in sig.get('ids', []) or (name == 'archinform' and r.get('archinform')):
             experts += pts
             why.append(name)
     experts += 6 * min(1, sig.get('n_ids', 0) / 40)
