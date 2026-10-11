@@ -19,7 +19,7 @@ Commons has no usable free photo. Target later with licensed photos (owner decid
 | 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | none | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
 | 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | none | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
 
-## No exterior photo (7)
+## No exterior photo (9)
 
 They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.
 
@@ -32,8 +32,10 @@ They have photos, but none of the outside. Check Commons by hand first: some may
 | 388 | Tabiat Bridge | Leila Araghian | Tehran, IR | Interior, Context, Context | [Category:Tabiat Bridge](https://commons.wikimedia.org/wiki/Category:Tabiat_Bridge) |
 | 573 | Scotland Street School | Charles Rennie Mackintosh | Glasgow, GB | Interior, Interior, Interior, Interior, Context, Context | [Category:Scotland Street School](https://commons.wikimedia.org/wiki/Category:Scotland_Street_School) |
 | 714 | Tagore Memorial Hall | Balkrishna Doshi | Ahmedabad, IN | Interior, Interior | [Category:Tagore Memorial Hall](https://commons.wikimedia.org/wiki/Category:Tagore_Memorial_Hall) |
+| 1010 | Salerno Maritime Terminal | Zaha Hadid Architects | Salerno, IT | Interior, Interior, Context | [Category:Salerno Maritime Terminal](https://commons.wikimedia.org/wiki/Category:Salerno_Maritime_Terminal) |
+| 1048 | Kyoto Concert Hall | Arata Isozaki | Kyoto, JP | Interior, Interior, Interior, Interior | [Category:Kyoto Concert Hall](https://commons.wikimedia.org/wiki/Category:Kyoto_Concert_Hall) |
 
-## Fewer than 4 photos (44)
+## Fewer than 4 photos (57)
 
 They show, but the gallery is thin.
 
@@ -83,8 +85,21 @@ They show, but the gallery is thin.
 | 888 | Capital Gate | RMJM | Abu Dhabi, AE | Exterior | [Category:Capital Gate, Abu Dhabi](https://commons.wikimedia.org/wiki/Category:Capital_Gate%2C_Abu_Dhabi) |
 | 907 | Coconut Palace | Francisco Manosa | Pasay, PH | Exterior, Exterior | [Category:Coconut Palace](https://commons.wikimedia.org/wiki/Category:Coconut_Palace) |
 | 926 | Beira railway station | Paulo de Melo Sampaio, Francisco Castro | Beira, MZ | Exterior, Exterior, Exterior | [Category:Beira train station](https://commons.wikimedia.org/wiki/Category:Beira_train_station) |
+| 933 | Cabanon de Le Corbusier | Le Corbusier | Roquebrune-Cap-Martin, FR | Context, Exterior, Exterior | [Category:Pavillon le Corbusier](https://commons.wikimedia.org/wiki/Category:Pavillon_le_Corbusier) |
+| 934 | Maisons Jaoul | Le Corbusier | Neuilly-sur-Seine, FR | Exterior, Detail | [Category:Maisons Jaoul](https://commons.wikimedia.org/wiki/Category:Maisons_Jaoul) |
+| 935 | Renault Distribution Centre | Foster + Partners | Swindon, GB | Exterior | [Category:The Spectrum Building](https://commons.wikimedia.org/wiki/Category:The_Spectrum_Building) |
+| 946 | Woolworth Building | Cass Gilbert | New York, US | Exterior | [Category:Woolworth Building](https://commons.wikimedia.org/wiki/Category:Woolworth_Building) |
+| 956 | Museum für Moderne Kunst | Hans Hollein | Frankfurt, DE | Exterior, Exterior, Exterior | [Category:Museum MMK für Moderne Kunst](https://commons.wikimedia.org/wiki/Category:Museum_MMK_f%C3%BCr_Moderne_Kunst) |
+| 963 | Hungerburgbahn stations | Zaha Hadid Architects | Innsbruck, AT | Exterior, Context | [Category:Hungerburgbahn](https://commons.wikimedia.org/wiki/Category:Hungerburgbahn) |
+| 985 | Maison du Brésil | Le Corbusier and Lúcio Costa | Paris, FR | Exterior, Exterior, Drawing | [Category:Maison du Brésil](https://commons.wikimedia.org/wiki/Category:Maison_du_Br%C3%A9sil) |
+| 1004 | Team Disney Building | Arata Isozaki | Lake Buena Vista, US | Context, Exterior | [Category:Team Disney Orlando](https://commons.wikimedia.org/wiki/Category:Team_Disney_Orlando) |
+| 1051 | Al Janoub Stadium | Zaha Hadid Architects | Al Wakrah, QA | Exterior, Exterior, Exterior | [Category:Al Janoub Stadium](https://commons.wikimedia.org/wiki/Category:Al_Janoub_Stadium) |
+| 1104 | Shiba Ryotaro Memorial Museum | Tadao Ando | Higashiōsaka, JP | Exterior, Exterior, Exterior | [Category:Shiba Ryotaro Memorial Museum](https://commons.wikimedia.org/wiki/Category:Shiba_Ryotaro_Memorial_Museum) |
+| 1124 | Athens Olympic Stadium roof | Santiago Calatrava | Athens, GR | Detail, Exterior | [Category:Athens Olympic Sports Complex](https://commons.wikimedia.org/wiki/Category:Athens_Olympic_Sports_Complex) |
+| 1126 | Kurashiki City Art Museum (former City Hall) | Kenzō Tange | Kurashiki, JP | Exterior, Interior, Interior | [Category:Kurashiki City Art Museum](https://commons.wikimedia.org/wiki/Category:Kurashiki_City_Art_Museum) |
+| 1132 | State Historical Museum | Vladimir Sherwood | Moscow, RU | Exterior, Exterior | [Category:Moscow State Historical Museum](https://commons.wikimedia.org/wiki/Category:Moscow_State_Historical_Museum) |
 
-## Left off the wall for now (35)
+## Left off the wall for now (38)
 
 Their Commons folders show exhibits or events, not the building. Bring them back with hand-picked photos in `tools/image_choices.json`.
 
@@ -125,3 +140,6 @@ Their Commons folders show exhibits or events, not the building. Bring them back
 | Winnipeg Art Gallery | [Q3813414](https://www.wikidata.org/wiki/Q3813414) |
 | Yale University Art Gallery | [Q1568434](https://www.wikidata.org/wiki/Q1568434) |
 | İstanbul Manifaturacılar Çarşısı | [Q6089529](https://www.wikidata.org/wiki/Q6089529) |
+| San Francisco Federal Building | [Q7414007](https://www.wikidata.org/wiki/Q7414007) |
+| The Index | [Q1264855](https://www.wikidata.org/wiki/Q1264855) |
+| Palace of Justice (Punjab and Haryana High Court) | [Q130502](https://www.wikidata.org/wiki/Q130502) |

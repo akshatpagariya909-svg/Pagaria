@@ -1,7 +1,7 @@
 # batch1
 
 - Curated: 319
-- On the wall from this batch: 213 (0 added in the latest run, 32 of them approved by hand)
+- On the wall from this batch: 213 (3 added in the latest run, 32 of them approved by hand)
 - Held back for a check by hand: 0
 - Turned down: 106
 
@@ -167,174 +167,174 @@
 | 966 | Canary Wharf Underground Station | Foster + Partners | 1999 | London, GB | Infrastructure | High-tech |
 | 967 | Pinakothek der Moderne | Stephan Braunfels | 2002 | Munich, DE | Museum | Contemporary |
 | 968 | Fountain Place | Henry N. Cobb (Pei Cobb Freed & Partners) | 1986 | Dallas, US | Office & tower | Late modernism |
-| 969 | San Francisco Federal Building | Morphosis | 2007 | San Francisco, US | Civic | Contemporary |
-| 970 | Gare do Oriente | Santiago Calatrava | 1998 | Lisbon, PT | Infrastructure | Contemporary |
-| 971 | DR Koncerthuset | Jean Nouvel | 2009 | Copenhagen, DK | Culture & sport | Contemporary |
-| 972 | Weisman Art Museum | Frank Gehry | 1993 | Minneapolis, US | Museum | Deconstructivism |
-| 973 | Soreq Nuclear Research Center | Philip Johnson | 1960 | Yavne, IL | Workplace | Late modernism |
-| 974 | Cathedral of Saint Mary of the Assumption | Pietro Belluschi and Pier Luigi Nervi | 1971 | San Francisco, US | Religious | Late modernism |
-| 975 | Kunsten Museum of Modern Art Aalborg | Alvar and Elissa Aalto with Jean-Jacques Baruël | 1972 | Aalborg, DK | Museum | Modernism |
-| 976 | Binoculars Building | Frank Gehry with Claes Oldenburg and Coosje van Bruggen | 1991 | Los Angeles, US | Workplace | Deconstructivism |
-| 977 | Hamburger Bahnhof | Josef Paul Kleihues | 1996 | Berlin, DE | Museum | Contemporary |
-| 978 | Villa Le Lac | Le Corbusier | 1924 | Corseaux, CH | House | Modernism |
-| 979 | Museu de les Ciències Príncipe Felipe | Santiago Calatrava | 2000 | Valencia, ES | Museum | Contemporary |
-| 980 | Kitakyushu Municipal Museum of Art | Arata Isozaki | 1974 | Kitakyushu, JP | Museum | Late modernism |
-| 981 | Knights of Columbus Building | Kevin Roche John Dinkeloo and Associates | 1969 | New Haven, US | Office & tower | Brutalism |
-| 982 | Natural History Museum | Alfred Waterhouse | 1881 | London, GB | Museum | Historic precedent |
-| 983 | Alte Nationalgalerie | Friedrich August Stüler | 1876 | Berlin, DE | Museum | Historic precedent |
-| 984 | One Chase Manhattan Plaza (28 Liberty Street) | SOM (Gordon Bunshaft) | 1961 | New York City, US | Office & tower | Modernism |
-| 985 | Hollyhock House | Frank Lloyd Wright | 1921 | Los Angeles, US | House | Regionalism |
-| 986 | Maison du Brésil | Le Corbusier and Lúcio Costa | 1959 | Paris, FR | Housing | Brutalism |
-| 987 | Ibirapuera Auditorium | Oscar Niemeyer | 2005 | São Paulo, BR | Culture & sport | Modernism |
-| 988 | Kitakyushu Central Library | Arata Isozaki | 1975 | Kitakyushu, JP | Library | Late modernism |
-| 989 | Royal Albert Hall | Francis Fowke and Henry Y. D. Scott | 1871 | London, GB | Culture & sport | Historic precedent |
-| 990 | Porsche Museum | Delugan Meissl Associated Architects | 2009 | Stuttgart, DE | Museum | Contemporary |
-| 991 | Felix Nussbaum Haus | Daniel Libeskind | 1998 | Osnabrück, DE | Museum | Deconstructivism |
-| 992 | Antwerp Law Courts | Richard Rogers Partnership | 2006 | Antwerp, BE | Civic | High-tech |
-| 993 | Semperoper | Gottfried Semper | 1878 | Dresden, DE | Culture & sport | Historic precedent |
-| 994 | Concertgebouw | Adolf Leonard van Gendt | 1888 | Amsterdam, NL | Culture & sport | Historic precedent |
-| 995 | 30 Rockefeller Plaza | Raymond Hood | 1933 | New York City, US | Office & tower | Art Deco |
-| 996 | Mole Antonelliana | Alessandro Antonelli | 1889 | Turin, IT | Museum | Historic precedent |
-| 997 | National Museum of the American Indian | Douglas Cardinal | 2004 | Washington, D.C., US | Museum | Regionalism |
-| 998 | Casa Calvet | Antoni Gaudí | 1900 | Barcelona, ES | Housing | Art Nouveau |
-| 999 | Federal Chancellery | Axel Schultes and Charlotte Frank | 2001 | Berlin, DE | Civic | Contemporary |
-| 1000 | ICC Berlin | Ralf Schüler and Ursulina Schüler-Witte | 1979 | Berlin, DE | Culture & sport | High-tech |
-| 1001 | Crystal Bridges Museum of American Art | Safdie Architects | 2011 | Bentonville, US | Museum | Contemporary |
-| 1002 | Maison Guiette | Le Corbusier | 1927 | Antwerp, BE | House | Modernism |
-| 1003 | Pinacoteca Giovanni e Marella Agnelli | Renzo Piano Building Workshop | 2002 | Turin, IT | Museum | High-tech |
-| 1004 | Langen Foundation | Tadao Ando | 2004 | Neuss, DE | Museum | Contemporary |
-| 1005 | Team Disney Building | Arata Isozaki | 1991 | Lake Buena Vista, US | Workplace | Postmodernism |
-| 1006 | Al Hamra Tower | Skidmore, Owings & Merrill | 2011 | Kuwait City, KW | Office & tower | Contemporary |
-| 1007 | Nordic House | Alvar Aalto | 1968 | Reykjavík, IS | Culture & sport | Modernism |
-| 1008 | L'Hemisfèric | Santiago Calatrava | 1998 | Valencia, ES | Culture & sport | Contemporary |
-| 1009 | Studio Aalto | Alvar Aalto | 1955 | Helsinki, FI | Workplace | Modernism |
-| 1010 | Shizuoka Press and Broadcasting Center | Kenzō Tange | 1967 | Tokyo, JP | Workplace | Metabolism |
-| 1011 | Salerno Maritime Terminal | Zaha Hadid Architects | 2016 | Salerno, IT | Infrastructure | Parametric |
-| 1012 | Bordeaux Law Courts | Richard Rogers Partnership | 1998 | Bordeaux, FR | Civic | High-tech |
-| 1013 | Aalto Theatre | Alvar Aalto | 1988 | Essen, DE | Culture & sport | Modernism |
-| 1014 | McLaren Technology Centre | Foster + Partners | 2004 | Woking, GB | Workplace | High-tech |
-| 1015 | Yamanashi Press and Broadcasting Centre | Kenzō Tange | 1966 | Kofu, JP | Workplace | Metabolism |
-| 1016 | Wembley Stadium | Foster + Partners | 2007 | London, GB | Culture & sport | High-tech |
-| 1017 | Mode Gakuen Cocoon Tower | Tange Associates | 2008 | Tokyo, JP | Education | Contemporary |
-| 1018 | Space Needle | John Graham & Company | 1962 | Seattle, US | Infrastructure | Modernism |
-| 1019 | Palau Sant Jordi | Arata Isozaki | 1990 | Barcelona, ES | Culture & sport | Late modernism |
-| 1020 | Opéra Bastille | Carlos Ott | 1989 | Paris, FR | Culture & sport | Late modernism |
-| 1021 | Palazzo Lombardia | Pei Cobb Freed & Partners | 2010 | Milan, IT | Civic | Contemporary |
-| 1022 | Tokyo Tower | Tachū Naitō | 1958 | Tokyo, JP | Infrastructure | Modernism |
-| 1023 | Bode Museum | Ernst von Ihne | 1904 | Berlin, DE | Museum | Historic precedent |
-| 1024 | Messeturm | Helmut Jahn | 1991 | Frankfurt, DE | Office & tower | Postmodernism |
-| 1025 | Gewandhaus | Rudolf Skoda | 1981 | Leipzig, DE | Culture & sport | Late modernism |
-| 1026 | Mudam | I. M. Pei | 2006 | Luxembourg, LU | Museum | Late modernism |
-| 1027 | Torre Emperador Castellana (Torre Espacio) | Pei Cobb Freed & Partners | 2008 | Madrid, ES | Office & tower | Contemporary |
-| 1028 | Solow Building | Gordon Bunshaft (SOM) | 1974 | New York, US | Office & tower | Late modernism |
-| 1029 | Lyndon Baines Johnson Library and Museum | Gordon Bunshaft (SOM) | 1971 | Austin, US | Library | Brutalism |
-| 1030 | Museum Tinguely | Mario Botta | 1996 | Basel, CH | Museum | Postmodernism |
-| 1031 | Oscar Niemeyer International Cultural Centre | Oscar Niemeyer | 2011 | Avilés, ES | Culture & sport | Late modernism |
-| 1032 | L'Auditori | Rafael Moneo | 1999 | Barcelona, ES | Culture & sport | Contemporary |
-| 1033 | Vienna State Opera | August Sicard von Sicardsburg and Eduard van der Nüll | 1869 | Vienna, AT | Culture & sport | Historic precedent |
-| 1034 | Altare della Patria | Giuseppe Sacconi | 1911 | Rome, IT | Memorial | Historic precedent |
-| 1035 | MetLife Building | Emery Roth & Sons, Walter Gropius and Pietro Belluschi | 1963 | New York, US | Office & tower | Modernism |
-| 1036 | Amon Carter Museum of American Art | Philip Johnson | 1961 | Fort Worth, US | Museum | Modernism |
-| 1037 | Kunsthalle Bielefeld | Philip Johnson | 1968 | Bielefeld, DE | Museum | Late modernism |
-| 1038 | 53W53 | Ateliers Jean Nouvel | 2019 | New York, US | Housing | Contemporary |
-| 1039 | IDS Center | Philip Johnson and John Burgee | 1972 | Minneapolis, US | Office & tower | Late modernism |
-| 1040 | Jacob K. Javits Convention Center | I. M. Pei & Partners (James Ingo Freed) | 1986 | New York, US | Civic | High-tech |
-| 1041 | Asahi Group Oyamazaki Villa Museum of Art | Tadao Ando | 1996 | Oyamazaki, JP | Museum | Contemporary |
-| 1042 | Carnegie Hall | William Burnet Tuthill | 1891 | New York, US | Culture & sport | Historic precedent |
-| 1043 | Petit Palais | Charles Girault | 1900 | Paris, FR | Museum | Historic precedent |
-| 1044 | 4 World Trade Center | Fumihiko Maki | 2013 | New York, US | Office & tower | Contemporary |
-| 1045 | Isabella Stewart Gardner Museum | Willard T. Sears | 1903 | Boston, US | Museum | Historic precedent |
-| 1046 | Kyoto National Museum | Katayama Tokuma | 1895 | Kyoto, JP | Museum | Historic precedent |
-| 1047 | Evolution Tower | RMJM | 2014 | Moscow, RU | Office & tower | Parametric |
-| 1048 | Kobe Port Tower | Nikken Sekkei | 1963 | Kobe, JP | Infrastructure | Modernism |
-| 1049 | The Index | Foster + Partners | 2010 | Dubai, AE | Office & tower | High-tech |
-| 1050 | Kyoto Concert Hall | Arata Isozaki | 1995 | Kyoto, JP | Culture & sport | Postmodernism |
-| 1051 | Bank of America Tower | Cookfox | 2009 | New York, US | Office & tower | Contemporary |
-| 1052 | Kingdom Centre | Ellerbe Becket with Omrania | 2002 | Riyadh, SA | Office & tower | Contemporary |
-| 1053 | Al Janoub Stadium | Zaha Hadid Architects | 2019 | Al Wakrah, QA | Culture & sport | Parametric |
-| 1054 | State Farm Stadium | Peter Eisenman with HOK Sport | 2006 | Glendale, US | Culture & sport | Contemporary |
-| 1055 | One57 | Christian de Portzamparc | 2014 | New York, US | Office & tower | Contemporary |
-| 1056 | Deutsche Oper Berlin | Fritz Bornemann | 1961 | Berlin, DE | Culture & sport | Late modernism |
-| 1057 | Tour Duo | Ateliers Jean Nouvel | 2021 | Paris, FR | Office & tower | Contemporary |
-| 1058 | Des Moines Art Center | Eliel Saarinen, I. M. Pei and Richard Meier | 1948 | Des Moines, US | Museum | Modernism |
-| 1059 | OCBC Centre | I. M. Pei | 1976 | Singapore, SG | Office & tower | Brutalism |
-| 1060 | Natural History Museum, Vienna | Gottfried Semper and Carl von Hasenauer | 1889 | Vienna, AT | Museum | Historic precedent |
-| 1061 | Monument to the Battle of the Nations | Bruno Schmitz | 1913 | Leipzig, DE | Memorial | Historic precedent |
-| 1062 | National Museum of Finland | Gesellius, Lindgren and Saarinen | 1910 | Helsinki, FI | Museum | Art Nouveau |
-| 1063 | Tokyo Big Sight | AXS Satow | 1996 | Tokyo, JP | Civic | Postmodernism |
-| 1064 | National Museum of Ethnology | Kisho Kurokawa | 1977 | Suita, JP | Museum | Metabolism |
-| 1065 | Wangjing SOHO | Zaha Hadid Architects | 2014 | Beijing, CN | Office & tower | Parametric |
-| 1066 | Flame Towers | HOK | 2012 | Baku, AZ | Office & tower | Contemporary |
-| 1067 | New Town Hall, Munich | Georg von Hauberrisser | 1909 | Munich, DE | Civic | Historic precedent |
-| 1068 | Philadelphia City Hall | John McArthur Jr. | 1901 | Philadelphia, US | Civic | Historic precedent |
-| 1069 | Lipstick Building | Philip Johnson and John Burgee | 1986 | New York City, US | Office & tower | Postmodernism |
-| 1070 | Museum Frieder Burda | Richard Meier | 2004 | Baden-Baden, DE | Museum | Late modernism |
-| 1071 | Dentsu Building (Caretta Shiodome) | Jean Nouvel | 2002 | Tokyo, JP | Office & tower | Contemporary |
-| 1072 | San José City Hall | Richard Meier | 2005 | San Jose, US | Civic | Late modernism |
-| 1073 | Musée Picasso (Hôtel Salé) | Roland Simounet | 1985 | Paris, FR | Museum | Historic precedent |
-| 1074 | Freer Gallery of Art | Charles A. Platt | 1923 | Washington, D.C., US | Museum | Historic precedent |
-| 1075 | Catetinho | Oscar Niemeyer | 1956 | Brasília, BR | House | Modernism |
-| 1076 | Aurora Place | Renzo Piano Building Workshop | 2000 | Sydney, AU | Office & tower | Contemporary |
-| 1077 | Stadthaus Ulm | Richard Meier | 1993 | Ulm, DE | Civic | Late modernism |
-| 1078 | TEPIA | Fumihiko Maki | 1989 | Tokyo, JP | Museum | Late modernism |
-| 1079 | Cayan Tower | SOM | 2013 | Dubai, AE | Housing | Parametric |
-| 1080 | Berlaymont | Lucien De Vestel, Jean Gilson, André and Jean Polak | 1969 | Brussels, BE | Office & tower | Late modernism |
-| 1081 | Federal Palace of Switzerland | Hans Wilhelm Auer | 1902 | Bern, CH | Civic | Historic precedent |
-| 1082 | Humboldt Forum | Franco Stella | 2020 | Berlin, DE | Museum | Contemporary |
-| 1083 | Haus der Kunst | Paul Ludwig Troost | 1937 | Munich, DE | Museum | Historic precedent |
-| 1084 | Makuhari Messe | Fumihiko Maki | 1989 | Chiba, JP | Culture & sport | Late modernism |
-| 1085 | Spittelau Viaducts Housing | Zaha Hadid Architects | 2005 | Vienna, AT | Housing | Deconstructivism |
-| 1086 | Adler Planetarium | Ernest Grunsfeld Jr. | 1930 | Chicago, US | Museum | Art Deco |
-| 1087 | Dresden Central Station | Ernst Giese and Paul Weidner; roof by Foster + Partners | 1898 | Dresden, DE | Infrastructure | Historic precedent |
-| 1088 | Teatre Nacional de Catalunya | Ricardo Bofill | 1997 | Barcelona, ES | Culture & sport | Postmodernism |
-| 1089 | House with Chimaeras | Władysław Horodecki | 1903 | Kyiv, UA | House | Art Nouveau |
-| 1090 | Red City Hall (Rotes Rathaus) | Hermann Friedrich Waesemann | 1869 | Berlin, DE | Civic | Historic precedent |
-| 1091 | Kennedy Center | Edward Durell Stone | 1971 | Washington, US | Culture & sport | Late modernism |
-| 1092 | Brücke Museum | Werner Düttmann | 1967 | Berlin, DE | Museum | Modernism |
-| 1093 | Lille Cathedral | Charles Leroy; west front by Pierre-Louis Carlier | 1999 | Lille, FR | Religious | Historic precedent |
-| 1094 | City-Hochhaus Leipzig | Hermann Henselmann | 1972 | Leipzig, DE | Office & tower | Late modernism |
-| 1095 | Suntory Museum Tenpozan | Tadao Ando | 1994 | Osaka, JP | Museum | Contemporary |
-| 1096 | Meret Oppenheim Hochhaus | Herzog & de Meuron | 2019 | Basel, CH | Office & tower | Contemporary |
-| 1097 | 70 Pine Street | Clinton and Russell | 1932 | New York City, US | Office & tower | Art Deco |
-| 1098 | Palace of Nations | Henri-Paul Nénot, Julien Flegenheimer and others | 1938 | Geneva, CH | Civic | Historic precedent |
-| 1099 | Széchenyi Thermal Bath | Győző Czigler | 1913 | Budapest, HU | Health | Historic precedent |
-| 1100 | Ozeaneum | Behnisch Architekten | 2008 | Stralsund, DE | Museum | Contemporary |
-| 1101 | Bierpinsel | Ralf Schüler and Ursulina Schüler-Witte | 1976 | Berlin, DE | Hospitality | Late modernism |
-| 1102 | Yokohama Museum of Art | Kenzō Tange | 1989 | Yokohama, JP | Museum | Postmodernism |
-| 1103 | Museum of Jewish Heritage | Kevin Roche John Dinkeloo and Associates | 1997 | New York City, US | Memorial | Late modernism |
-| 1104 | TEA Tenerife Espacio de las Artes | Herzog & de Meuron | 2008 | Santa Cruz de Tenerife, ES | Culture & sport | Contemporary |
-| 1105 | Paustian House | Jørn Utzon | 1987 | Copenhagen, DK | Workplace | Late modernism |
-| 1106 | Shiba Ryotaro Memorial Museum | Tadao Ando | 2001 | Higashiōsaka, JP | Museum | Contemporary |
-| 1107 | Pierre Lassonde Pavilion | OMA (Shohei Shigematsu) with Provencher_Roy | 2016 | Quebec City, CA | Museum | Contemporary |
-| 1108 | Palace of Justice (Punjab and Haryana High Court) | Le Corbusier | 1955 | Chandigarh, IN | Civic | Brutalism |
-| 1109 | Galleria Vittorio Emanuele II | Giuseppe Mengoni | 1877 | Milan, IT | Public space | Historic precedent |
-| 1110 | Whitney Museum of American Art | Renzo Piano Building Workshop | 2015 | New York, US | Museum | Contemporary |
-| 1111 | Art Institute of Chicago, Modern Wing | Renzo Piano Building Workshop | 2009 | Chicago, US | Museum | Contemporary |
-| 1112 | San Francisco Museum of Modern Art | Mario Botta | 1995 | San Francisco, US | Museum | Postmodernism |
-| 1113 | Museum Folkwang | David Chipperfield Architects | 2010 | Essen, DE | Museum | Contemporary |
-| 1114 | Bellesguard | Antoni Gaudí | 1909 | Barcelona, ES | House | Art Nouveau |
-| 1115 | de Young Museum | Herzog & de Meuron | 2005 | San Francisco, US | Museum | Contemporary |
-| 1116 | High Museum of Art | Richard Meier | 1983 | Atlanta, US | Museum | Late modernism |
-| 1117 | Bergisel Ski Jump | Zaha Hadid Architects | 2002 | Innsbruck, AT | Culture & sport | Deconstructivism |
-| 1118 | Sony Center | Helmut Jahn | 2000 | Berlin, DE | Public space | High-tech |
-| 1119 | Guthrie Theater | Ateliers Jean Nouvel | 2006 | Minneapolis, US | Culture & sport | Contemporary |
-| 1120 | M+ | Herzog & de Meuron | 2021 | Hong Kong, HK | Museum | Contemporary |
-| 1121 | Rock and Roll Hall of Fame | I. M. Pei | 1995 | Cleveland, US | Museum | Late modernism |
-| 1122 | Museum of Modern Art | Yoshio Taniguchi | 2004 | New York, US | Museum | Contemporary |
-| 1123 | Art Gallery of Ontario | Frank Gehry | 2008 | Toronto, CA | Museum | Contemporary |
-| 1124 | Pergamon Museum | Alfred Messel and Ludwig Hoffmann | 1930 | Berlin, DE | Museum | Historic precedent |
-| 1125 | Museum of Pop Culture | Frank Gehry | 2000 | Seattle, US | Museum | Deconstructivism |
-| 1126 | The Morgan Library & Museum | McKim, Mead & White | 1906 | New York, US | Library | Historic precedent |
-| 1127 | Athens Olympic Stadium roof | Santiago Calatrava | 2004 | Athens, GR | Culture & sport | Contemporary |
-| 1128 | Saint Louis Art Museum, East Building | David Chipperfield Architects | 2013 | St. Louis, US | Museum | Contemporary |
-| 1129 | Kurashiki City Art Museum (former City Hall) | Kenzō Tange | 1960 | Kurashiki, JP | Museum | Brutalism |
-| 1130 | Neue Pinakothek | Alexander von Branca | 1981 | Munich, DE | Museum | Postmodernism |
-| 1131 | Hearst Castle | Julia Morgan | 1947 | San Simeon, US | Palace | Historic precedent |
-| 1132 | Arc de Triomf | Josep Vilaseca i Casanovas | 1888 | Barcelona, ES | Memorial | Historic precedent |
-| 1133 | Lyon Museum of Contemporary Art | Renzo Piano Building Workshop | 1995 | Lyon, FR | Museum | Contemporary |
-| 1134 | Mikhailovsky Palace (Russian Museum) | Carlo Rossi | 1825 | Saint Petersburg, RU | Museum | Historic precedent |
-| 1135 | State Historical Museum | Vladimir Sherwood | 1883 | Moscow, RU | Museum | Historic precedent |
-| 1136 | Philadelphia Museum of Art | Horace Trumbauer; Zantzinger, Borie and Medary | 1928 | Philadelphia, US | Museum | Historic precedent |
-| 1137 | Vienna City Hall | Friedrich von Schmidt | 1883 | Vienna, AT | Civic | Historic precedent |
-| 1138 | Museum of Contemporary Art Chicago | Josef Paul Kleihues | 1996 | Chicago, US | Museum | Late modernism |
-| 1139 | Asian Art Museum of San Francisco | Gae Aulenti | 2003 | San Francisco, US | Museum | Contemporary |
+| 969 | Gare do Oriente | Santiago Calatrava | 1998 | Lisbon, PT | Infrastructure | Contemporary |
+| 970 | DR Koncerthuset | Jean Nouvel | 2009 | Copenhagen, DK | Culture & sport | Contemporary |
+| 971 | Weisman Art Museum | Frank Gehry | 1993 | Minneapolis, US | Museum | Deconstructivism |
+| 972 | Soreq Nuclear Research Center | Philip Johnson | 1960 | Yavne, IL | Workplace | Late modernism |
+| 973 | Cathedral of Saint Mary of the Assumption | Pietro Belluschi and Pier Luigi Nervi | 1971 | San Francisco, US | Religious | Late modernism |
+| 974 | Kunsten Museum of Modern Art Aalborg | Alvar and Elissa Aalto with Jean-Jacques Baruël | 1972 | Aalborg, DK | Museum | Modernism |
+| 975 | Binoculars Building | Frank Gehry with Claes Oldenburg and Coosje van Bruggen | 1991 | Los Angeles, US | Workplace | Deconstructivism |
+| 976 | Hamburger Bahnhof | Josef Paul Kleihues | 1996 | Berlin, DE | Museum | Contemporary |
+| 977 | Villa Le Lac | Le Corbusier | 1924 | Corseaux, CH | House | Modernism |
+| 978 | Museu de les Ciències Príncipe Felipe | Santiago Calatrava | 2000 | Valencia, ES | Museum | Contemporary |
+| 979 | Kitakyushu Municipal Museum of Art | Arata Isozaki | 1974 | Kitakyushu, JP | Museum | Late modernism |
+| 980 | Knights of Columbus Building | Kevin Roche John Dinkeloo and Associates | 1969 | New Haven, US | Office & tower | Brutalism |
+| 981 | Natural History Museum | Alfred Waterhouse | 1881 | London, GB | Museum | Historic precedent |
+| 982 | Alte Nationalgalerie | Friedrich August Stüler | 1876 | Berlin, DE | Museum | Historic precedent |
+| 983 | One Chase Manhattan Plaza (28 Liberty Street) | SOM (Gordon Bunshaft) | 1961 | New York City, US | Office & tower | Modernism |
+| 984 | Hollyhock House | Frank Lloyd Wright | 1921 | Los Angeles, US | House | Regionalism |
+| 985 | Maison du Brésil | Le Corbusier and Lúcio Costa | 1959 | Paris, FR | Housing | Brutalism |
+| 986 | Ibirapuera Auditorium | Oscar Niemeyer | 2005 | São Paulo, BR | Culture & sport | Modernism |
+| 987 | Kitakyushu Central Library | Arata Isozaki | 1975 | Kitakyushu, JP | Library | Late modernism |
+| 988 | Royal Albert Hall | Francis Fowke and Henry Y. D. Scott | 1871 | London, GB | Culture & sport | Historic precedent |
+| 989 | Porsche Museum | Delugan Meissl Associated Architects | 2009 | Stuttgart, DE | Museum | Contemporary |
+| 990 | Felix Nussbaum Haus | Daniel Libeskind | 1998 | Osnabrück, DE | Museum | Deconstructivism |
+| 991 | Antwerp Law Courts | Richard Rogers Partnership | 2006 | Antwerp, BE | Civic | High-tech |
+| 992 | Semperoper | Gottfried Semper | 1878 | Dresden, DE | Culture & sport | Historic precedent |
+| 993 | Concertgebouw | Adolf Leonard van Gendt | 1888 | Amsterdam, NL | Culture & sport | Historic precedent |
+| 994 | 30 Rockefeller Plaza | Raymond Hood | 1933 | New York City, US | Office & tower | Art Deco |
+| 995 | Mole Antonelliana | Alessandro Antonelli | 1889 | Turin, IT | Museum | Historic precedent |
+| 996 | National Museum of the American Indian | Douglas Cardinal | 2004 | Washington, D.C., US | Museum | Regionalism |
+| 997 | Casa Calvet | Antoni Gaudí | 1900 | Barcelona, ES | Housing | Art Nouveau |
+| 998 | Federal Chancellery | Axel Schultes and Charlotte Frank | 2001 | Berlin, DE | Civic | Contemporary |
+| 999 | ICC Berlin | Ralf Schüler and Ursulina Schüler-Witte | 1979 | Berlin, DE | Culture & sport | High-tech |
+| 1000 | Crystal Bridges Museum of American Art | Safdie Architects | 2011 | Bentonville, US | Museum | Contemporary |
+| 1001 | Maison Guiette | Le Corbusier | 1927 | Antwerp, BE | House | Modernism |
+| 1002 | Pinacoteca Giovanni e Marella Agnelli | Renzo Piano Building Workshop | 2002 | Turin, IT | Museum | High-tech |
+| 1003 | Langen Foundation | Tadao Ando | 2004 | Neuss, DE | Museum | Contemporary |
+| 1004 | Team Disney Building | Arata Isozaki | 1991 | Lake Buena Vista, US | Workplace | Postmodernism |
+| 1005 | Al Hamra Tower | Skidmore, Owings & Merrill | 2011 | Kuwait City, KW | Office & tower | Contemporary |
+| 1006 | Nordic House | Alvar Aalto | 1968 | Reykjavík, IS | Culture & sport | Modernism |
+| 1007 | L'Hemisfèric | Santiago Calatrava | 1998 | Valencia, ES | Culture & sport | Contemporary |
+| 1008 | Studio Aalto | Alvar Aalto | 1955 | Helsinki, FI | Workplace | Modernism |
+| 1009 | Shizuoka Press and Broadcasting Center | Kenzō Tange | 1967 | Tokyo, JP | Workplace | Metabolism |
+| 1010 | Salerno Maritime Terminal | Zaha Hadid Architects | 2016 | Salerno, IT | Infrastructure | Parametric |
+| 1011 | Bordeaux Law Courts | Richard Rogers Partnership | 1998 | Bordeaux, FR | Civic | High-tech |
+| 1012 | Aalto Theatre | Alvar Aalto | 1988 | Essen, DE | Culture & sport | Modernism |
+| 1013 | McLaren Technology Centre | Foster + Partners | 2004 | Woking, GB | Workplace | High-tech |
+| 1014 | Yamanashi Press and Broadcasting Centre | Kenzō Tange | 1966 | Kofu, JP | Workplace | Metabolism |
+| 1015 | Wembley Stadium | Foster + Partners | 2007 | London, GB | Culture & sport | High-tech |
+| 1016 | Mode Gakuen Cocoon Tower | Tange Associates | 2008 | Tokyo, JP | Education | Contemporary |
+| 1017 | Space Needle | John Graham & Company | 1962 | Seattle, US | Infrastructure | Modernism |
+| 1018 | Palau Sant Jordi | Arata Isozaki | 1990 | Barcelona, ES | Culture & sport | Late modernism |
+| 1019 | Opéra Bastille | Carlos Ott | 1989 | Paris, FR | Culture & sport | Late modernism |
+| 1020 | Palazzo Lombardia | Pei Cobb Freed & Partners | 2010 | Milan, IT | Civic | Contemporary |
+| 1021 | Tokyo Tower | Tachū Naitō | 1958 | Tokyo, JP | Infrastructure | Modernism |
+| 1022 | Bode Museum | Ernst von Ihne | 1904 | Berlin, DE | Museum | Historic precedent |
+| 1023 | Messeturm | Helmut Jahn | 1991 | Frankfurt, DE | Office & tower | Postmodernism |
+| 1024 | Gewandhaus | Rudolf Skoda | 1981 | Leipzig, DE | Culture & sport | Late modernism |
+| 1025 | Mudam | I. M. Pei | 2006 | Luxembourg, LU | Museum | Late modernism |
+| 1026 | Torre Emperador Castellana (Torre Espacio) | Pei Cobb Freed & Partners | 2008 | Madrid, ES | Office & tower | Contemporary |
+| 1027 | Solow Building | Gordon Bunshaft (SOM) | 1974 | New York, US | Office & tower | Late modernism |
+| 1028 | Lyndon Baines Johnson Library and Museum | Gordon Bunshaft (SOM) | 1971 | Austin, US | Library | Brutalism |
+| 1029 | Museum Tinguely | Mario Botta | 1996 | Basel, CH | Museum | Postmodernism |
+| 1030 | Oscar Niemeyer International Cultural Centre | Oscar Niemeyer | 2011 | Avilés, ES | Culture & sport | Late modernism |
+| 1031 | L'Auditori | Rafael Moneo | 1999 | Barcelona, ES | Culture & sport | Contemporary |
+| 1032 | Vienna State Opera | August Sicard von Sicardsburg and Eduard van der Nüll | 1869 | Vienna, AT | Culture & sport | Historic precedent |
+| 1033 | Altare della Patria | Giuseppe Sacconi | 1911 | Rome, IT | Memorial | Historic precedent |
+| 1034 | MetLife Building | Emery Roth & Sons, Walter Gropius and Pietro Belluschi | 1963 | New York, US | Office & tower | Modernism |
+| 1035 | Amon Carter Museum of American Art | Philip Johnson | 1961 | Fort Worth, US | Museum | Modernism |
+| 1036 | Kunsthalle Bielefeld | Philip Johnson | 1968 | Bielefeld, DE | Museum | Late modernism |
+| 1037 | 53W53 | Ateliers Jean Nouvel | 2019 | New York, US | Housing | Contemporary |
+| 1038 | IDS Center | Philip Johnson and John Burgee | 1972 | Minneapolis, US | Office & tower | Late modernism |
+| 1039 | Jacob K. Javits Convention Center | I. M. Pei & Partners (James Ingo Freed) | 1986 | New York, US | Civic | High-tech |
+| 1040 | Asahi Group Oyamazaki Villa Museum of Art | Tadao Ando | 1996 | Oyamazaki, JP | Museum | Contemporary |
+| 1041 | Carnegie Hall | William Burnet Tuthill | 1891 | New York, US | Culture & sport | Historic precedent |
+| 1042 | Petit Palais | Charles Girault | 1900 | Paris, FR | Museum | Historic precedent |
+| 1043 | 4 World Trade Center | Fumihiko Maki | 2013 | New York, US | Office & tower | Contemporary |
+| 1044 | Isabella Stewart Gardner Museum | Willard T. Sears | 1903 | Boston, US | Museum | Historic precedent |
+| 1045 | Kyoto National Museum | Katayama Tokuma | 1895 | Kyoto, JP | Museum | Historic precedent |
+| 1046 | Evolution Tower | RMJM | 2014 | Moscow, RU | Office & tower | Parametric |
+| 1047 | Kobe Port Tower | Nikken Sekkei | 1963 | Kobe, JP | Infrastructure | Modernism |
+| 1048 | Kyoto Concert Hall | Arata Isozaki | 1995 | Kyoto, JP | Culture & sport | Postmodernism |
+| 1049 | Bank of America Tower | Cookfox | 2009 | New York, US | Office & tower | Contemporary |
+| 1050 | Kingdom Centre | Ellerbe Becket with Omrania | 2002 | Riyadh, SA | Office & tower | Contemporary |
+| 1051 | Al Janoub Stadium | Zaha Hadid Architects | 2019 | Al Wakrah, QA | Culture & sport | Parametric |
+| 1052 | State Farm Stadium | Peter Eisenman with HOK Sport | 2006 | Glendale, US | Culture & sport | Contemporary |
+| 1053 | One57 | Christian de Portzamparc | 2014 | New York, US | Office & tower | Contemporary |
+| 1054 | Deutsche Oper Berlin | Fritz Bornemann | 1961 | Berlin, DE | Culture & sport | Late modernism |
+| 1055 | Tour Duo | Ateliers Jean Nouvel | 2021 | Paris, FR | Office & tower | Contemporary |
+| 1056 | Des Moines Art Center | Eliel Saarinen, I. M. Pei and Richard Meier | 1948 | Des Moines, US | Museum | Modernism |
+| 1057 | OCBC Centre | I. M. Pei | 1976 | Singapore, SG | Office & tower | Brutalism |
+| 1058 | Natural History Museum, Vienna | Gottfried Semper and Carl von Hasenauer | 1889 | Vienna, AT | Museum | Historic precedent |
+| 1059 | Monument to the Battle of the Nations | Bruno Schmitz | 1913 | Leipzig, DE | Memorial | Historic precedent |
+| 1060 | National Museum of Finland | Gesellius, Lindgren and Saarinen | 1910 | Helsinki, FI | Museum | Art Nouveau |
+| 1061 | Tokyo Big Sight | AXS Satow | 1996 | Tokyo, JP | Civic | Postmodernism |
+| 1062 | National Museum of Ethnology | Kisho Kurokawa | 1977 | Suita, JP | Museum | Metabolism |
+| 1063 | Wangjing SOHO | Zaha Hadid Architects | 2014 | Beijing, CN | Office & tower | Parametric |
+| 1064 | Flame Towers | HOK | 2012 | Baku, AZ | Office & tower | Contemporary |
+| 1065 | New Town Hall, Munich | Georg von Hauberrisser | 1909 | Munich, DE | Civic | Historic precedent |
+| 1066 | Philadelphia City Hall | John McArthur Jr. | 1901 | Philadelphia, US | Civic | Historic precedent |
+| 1067 | Lipstick Building | Philip Johnson and John Burgee | 1986 | New York City, US | Office & tower | Postmodernism |
+| 1068 | Museum Frieder Burda | Richard Meier | 2004 | Baden-Baden, DE | Museum | Late modernism |
+| 1069 | Dentsu Building (Caretta Shiodome) | Jean Nouvel | 2002 | Tokyo, JP | Office & tower | Contemporary |
+| 1070 | San José City Hall | Richard Meier | 2005 | San Jose, US | Civic | Late modernism |
+| 1071 | Musée Picasso (Hôtel Salé) | Roland Simounet | 1985 | Paris, FR | Museum | Historic precedent |
+| 1072 | Freer Gallery of Art | Charles A. Platt | 1923 | Washington, D.C., US | Museum | Historic precedent |
+| 1073 | Catetinho | Oscar Niemeyer | 1956 | Brasília, BR | House | Modernism |
+| 1074 | Aurora Place | Renzo Piano Building Workshop | 2000 | Sydney, AU | Office & tower | Contemporary |
+| 1075 | Stadthaus Ulm | Richard Meier | 1993 | Ulm, DE | Civic | Late modernism |
+| 1076 | TEPIA | Fumihiko Maki | 1989 | Tokyo, JP | Museum | Late modernism |
+| 1077 | Cayan Tower | SOM | 2013 | Dubai, AE | Housing | Parametric |
+| 1078 | Berlaymont | Lucien De Vestel, Jean Gilson, André and Jean Polak | 1969 | Brussels, BE | Office & tower | Late modernism |
+| 1079 | Federal Palace of Switzerland | Hans Wilhelm Auer | 1902 | Bern, CH | Civic | Historic precedent |
+| 1080 | Humboldt Forum | Franco Stella | 2020 | Berlin, DE | Museum | Contemporary |
+| 1081 | Haus der Kunst | Paul Ludwig Troost | 1937 | Munich, DE | Museum | Historic precedent |
+| 1082 | Makuhari Messe | Fumihiko Maki | 1989 | Chiba, JP | Culture & sport | Late modernism |
+| 1083 | Spittelau Viaducts Housing | Zaha Hadid Architects | 2005 | Vienna, AT | Housing | Deconstructivism |
+| 1084 | Adler Planetarium | Ernest Grunsfeld Jr. | 1930 | Chicago, US | Museum | Art Deco |
+| 1085 | Dresden Central Station | Ernst Giese and Paul Weidner; roof by Foster + Partners | 1898 | Dresden, DE | Infrastructure | Historic precedent |
+| 1086 | Teatre Nacional de Catalunya | Ricardo Bofill | 1997 | Barcelona, ES | Culture & sport | Postmodernism |
+| 1087 | House with Chimaeras | Władysław Horodecki | 1903 | Kyiv, UA | House | Art Nouveau |
+| 1088 | Red City Hall (Rotes Rathaus) | Hermann Friedrich Waesemann | 1869 | Berlin, DE | Civic | Historic precedent |
+| 1089 | Kennedy Center | Edward Durell Stone | 1971 | Washington, US | Culture & sport | Late modernism |
+| 1090 | Brücke Museum | Werner Düttmann | 1967 | Berlin, DE | Museum | Modernism |
+| 1091 | Lille Cathedral | Charles Leroy; west front by Pierre-Louis Carlier | 1999 | Lille, FR | Religious | Historic precedent |
+| 1092 | City-Hochhaus Leipzig | Hermann Henselmann | 1972 | Leipzig, DE | Office & tower | Late modernism |
+| 1093 | Suntory Museum Tenpozan | Tadao Ando | 1994 | Osaka, JP | Museum | Contemporary |
+| 1094 | Meret Oppenheim Hochhaus | Herzog & de Meuron | 2019 | Basel, CH | Office & tower | Contemporary |
+| 1095 | 70 Pine Street | Clinton and Russell | 1932 | New York City, US | Office & tower | Art Deco |
+| 1096 | Palace of Nations | Henri-Paul Nénot, Julien Flegenheimer and others | 1938 | Geneva, CH | Civic | Historic precedent |
+| 1097 | Széchenyi Thermal Bath | Győző Czigler | 1913 | Budapest, HU | Health | Historic precedent |
+| 1098 | Ozeaneum | Behnisch Architekten | 2008 | Stralsund, DE | Museum | Contemporary |
+| 1099 | Bierpinsel | Ralf Schüler and Ursulina Schüler-Witte | 1976 | Berlin, DE | Hospitality | Late modernism |
+| 1100 | Yokohama Museum of Art | Kenzō Tange | 1989 | Yokohama, JP | Museum | Postmodernism |
+| 1101 | Museum of Jewish Heritage | Kevin Roche John Dinkeloo and Associates | 1997 | New York City, US | Memorial | Late modernism |
+| 1102 | TEA Tenerife Espacio de las Artes | Herzog & de Meuron | 2008 | Santa Cruz de Tenerife, ES | Culture & sport | Contemporary |
+| 1103 | Paustian House | Jørn Utzon | 1987 | Copenhagen, DK | Workplace | Late modernism |
+| 1104 | Shiba Ryotaro Memorial Museum | Tadao Ando | 2001 | Higashiōsaka, JP | Museum | Contemporary |
+| 1105 | Pierre Lassonde Pavilion | OMA (Shohei Shigematsu) with Provencher_Roy | 2016 | Quebec City, CA | Museum | Contemporary |
+| 1106 | Galleria Vittorio Emanuele II | Giuseppe Mengoni | 1877 | Milan, IT | Public space | Historic precedent |
+| 1107 | Whitney Museum of American Art | Renzo Piano Building Workshop | 2015 | New York, US | Museum | Contemporary |
+| 1108 | Art Institute of Chicago, Modern Wing | Renzo Piano Building Workshop | 2009 | Chicago, US | Museum | Contemporary |
+| 1109 | San Francisco Museum of Modern Art | Mario Botta | 1995 | San Francisco, US | Museum | Postmodernism |
+| 1110 | Museum Folkwang | David Chipperfield Architects | 2010 | Essen, DE | Museum | Contemporary |
+| 1111 | Bellesguard | Antoni Gaudí | 1909 | Barcelona, ES | House | Art Nouveau |
+| 1112 | de Young Museum | Herzog & de Meuron | 2005 | San Francisco, US | Museum | Contemporary |
+| 1113 | High Museum of Art | Richard Meier | 1983 | Atlanta, US | Museum | Late modernism |
+| 1114 | Bergisel Ski Jump | Zaha Hadid Architects | 2002 | Innsbruck, AT | Culture & sport | Deconstructivism |
+| 1115 | Sony Center | Helmut Jahn | 2000 | Berlin, DE | Public space | High-tech |
+| 1116 | Guthrie Theater | Ateliers Jean Nouvel | 2006 | Minneapolis, US | Culture & sport | Contemporary |
+| 1117 | M+ | Herzog & de Meuron | 2021 | Hong Kong, HK | Museum | Contemporary |
+| 1118 | Rock and Roll Hall of Fame | I. M. Pei | 1995 | Cleveland, US | Museum | Late modernism |
+| 1119 | Museum of Modern Art | Yoshio Taniguchi | 2004 | New York, US | Museum | Contemporary |
+| 1120 | Art Gallery of Ontario | Frank Gehry | 2008 | Toronto, CA | Museum | Contemporary |
+| 1121 | Pergamon Museum | Alfred Messel and Ludwig Hoffmann | 1930 | Berlin, DE | Museum | Historic precedent |
+| 1122 | Museum of Pop Culture | Frank Gehry | 2000 | Seattle, US | Museum | Deconstructivism |
+| 1123 | The Morgan Library & Museum | McKim, Mead & White | 1906 | New York, US | Library | Historic precedent |
+| 1124 | Athens Olympic Stadium roof | Santiago Calatrava | 2004 | Athens, GR | Culture & sport | Contemporary |
+| 1125 | Saint Louis Art Museum, East Building | David Chipperfield Architects | 2013 | St. Louis, US | Museum | Contemporary |
+| 1126 | Kurashiki City Art Museum (former City Hall) | Kenzō Tange | 1960 | Kurashiki, JP | Museum | Brutalism |
+| 1127 | Neue Pinakothek | Alexander von Branca | 1981 | Munich, DE | Museum | Postmodernism |
+| 1128 | Hearst Castle | Julia Morgan | 1947 | San Simeon, US | Palace | Historic precedent |
+| 1129 | Arc de Triomf | Josep Vilaseca i Casanovas | 1888 | Barcelona, ES | Memorial | Historic precedent |
+| 1130 | Lyon Museum of Contemporary Art | Renzo Piano Building Workshop | 1995 | Lyon, FR | Museum | Contemporary |
+| 1131 | Mikhailovsky Palace (Russian Museum) | Carlo Rossi | 1825 | Saint Petersburg, RU | Museum | Historic precedent |
+| 1132 | State Historical Museum | Vladimir Sherwood | 1883 | Moscow, RU | Museum | Historic precedent |
+| 1133 | Philadelphia Museum of Art | Horace Trumbauer; Zantzinger, Borie and Medary | 1928 | Philadelphia, US | Museum | Historic precedent |
+| 1134 | Vienna City Hall | Friedrich von Schmidt | 1883 | Vienna, AT | Civic | Historic precedent |
+| 1135 | Museum of Contemporary Art Chicago | Josef Paul Kleihues | 1996 | Chicago, US | Museum | Late modernism |
+| 1136 | Asian Art Museum of San Francisco | Gae Aulenti | 2003 | San Francisco, US | Museum | Contemporary |
+| 1137 | Palace of Justice (Punjab and Haryana High Court) | Le Corbusier | 1955 | Chandigarh, IN | Civic | Brutalism |
+| 1138 | San Francisco Federal Building | Morphosis | 2007 | San Francisco, US | Civic | Contemporary |
+| 1139 | The Index | Foster + Partners | 2010 | Dubai, AE | Office & tower | High-tech |
