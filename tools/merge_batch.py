@@ -73,8 +73,7 @@ def main():
             down.append((c, c.get('note') or 'turned down in curation'))
             continue
         if c['qid'] in have or fold(c['name']) in have:
-            down.append((c, 'already on the wall'))
-            continue
+            continue  # added by an earlier run of this batch, or already there
         why = None if c['qid'] in approved else check(c, facts.get(c['qid'], {}))
         if why:
             held.append((c, why))
@@ -91,14 +90,17 @@ def main():
         added.append(b)
     save(head, items)
     row = lambda c, why: f'| {c["name"]} | {c["by"]} | {c["year"]} | {c["city"]}, {c["cc"]} | {why} |'
-    L = [f'# {args.batch}', '', f'- Curated: {len(curated)}', f'- Added to the wall: {len(added)}',
+    mine = {c['qid'] for c in curated}
+    on = [b for b in items if b.get('qid') in mine]
+    L = [f'# {args.batch}', '', f'- Curated: {len(curated)}', f'- On the wall from this batch: {len(on)} ({len(added)} added in the latest run, '
+         f'{sum(b["qid"] in approved for b in on)} of them approved by hand)',
          f'- Held back for a check by hand: {len(held)}', f'- Turned down: {len(down)}', '',
          '## Held back', '', '| Building | Architect | Year | Place | Why |', '|---|---|---|---|---|']
     L += [row(c, w) for c, w in held]
     L += ['', '## Turned down', '', '| Building | Architect | Year | Place | Why |', '|---|---|---|---|---|']
     L += [row(c, w) for c, w in down]
-    L += ['', '## Added', '', '| # | Building | Architect | Year | Place | Type | Movement |', '|---|---|---|---|---|---|---|']
-    L += [f'| {b["n"]} | {b["name"]} | {b["by"]} | {b["year"]} | {b["place"]} | {b["type"]} | {b["movement"]} |' for b in added]
+    L += ['', '## On the wall', '', '| # | Building | Architect | Year | Place | Type | Movement |', '|---|---|---|---|---|---|---|']
+    L += [f'| {b["n"]} | {b["name"]} | {b["by"]} | {b["year"]} | {b["place"]} | {b["type"]} | {b["movement"]} |' for b in on]
     (B / f'{args.batch}_report.md').write_text('\n'.join(L) + '\n', encoding='utf-8')
     print(f'{len(added)} added, {len(held)} held back, {len(down)} turned down; {len(items)} on the wall')
 
