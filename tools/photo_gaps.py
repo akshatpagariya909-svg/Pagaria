@@ -30,11 +30,12 @@ def table(title, note, rows):
 
 def main():
     B = load()
-    none = [b for b in B if not b['images']]
-    no_ext = [b for b in B if b['images'] and not any(i['kind'] == 'Exterior' for i in b['images'])]
-    thin = [b for b in B if 0 < len(b['images']) < 4 and b not in no_ext]
+    photos = lambda b: [i for i in b['images'] if not i['src'].endswith('.svg')]  # our drawings are not photos
+    none = [b for b in B if not photos(b)]
+    no_ext = [b for b in B if photos(b) and not any(i['kind'] == 'Exterior' for i in b['images'])]
+    thin = [b for b in B if 0 < len(photos(b)) < 4 and b not in no_ext]
     out = ['# Photo gaps', '', 'Buildings we can\'t show well with free photos yet. Made by `tools/photo_gaps.py`; rerun it after fetching photos.']
-    out += table('No free photo at all', 'Commons has no usable free photo. Target later with licensed photos (owner decides how).', none)
+    out += table('No free photo at all', 'Commons has no usable free photo. The site shows our own line drawing where one exists; licensed photos are for the owner to decide.', none)
     out += table('No exterior photo', 'They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.', no_ext)
     out += table('Fewer than 4 photos', 'They show, but the gallery is thin.', thin)
     dropped = [l.split(' | ') for l in (ROOT / 'tools' / 'harvest' / 'needs_photos.txt').read_text(encoding='utf-8').splitlines()

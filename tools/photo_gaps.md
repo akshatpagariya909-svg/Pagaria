@@ -2,32 +2,32 @@
 
 Buildings we can't show well with free photos yet. Made by `tools/photo_gaps.py`; rerun it after fetching photos.
 
-## No free photo at all (0)
+## No free photo at all (10)
 
-Commons has no usable free photo. Target later with licensed photos (owner decides how).
+Commons has no usable free photo. The site shows our own line drawing where one exists; licensed photos are for the owner to decide.
 
 | # | Building | Architect | Place | Photos now | Commons |
 |---|---|---|---|---|---|
+| 26 | Golconde | Antonin Raymond, George Nakashima | Puducherry, IN | Drawing | [Category:Antonin Raymond](https://commons.wikimedia.org/wiki/Category:Antonin_Raymond) |
+| 46 | Sangath | B. V. Doshi | Ahmedabad, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
+| 47 | Aranya Low Cost Housing | B. V. Doshi | Indore, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
+| 48 | Kanchanjunga Apartments | Charles Correa | Mumbai, IN | Drawing | [Category:Charles Correa](https://commons.wikimedia.org/wiki/Category:Charles_Correa) |
+| 50 | Centre for Development Studies | Laurie Baker | Thiruvananthapuram, IN | Drawing | [Category:Laurie Baker](https://commons.wikimedia.org/wiki/Category:Laurie_Baker) |
+| 62 | Quinta Monroy | Alejandro Aravena, Elemental | Iquique, CL | Drawing | [Category:Alejandro Aravena](https://commons.wikimedia.org/wiki/Category:Alejandro_Aravena) |
+| 67 | Moriyama House | Ryue Nishizawa | Tokyo, JP | Drawing | [Category:Ryue Nishizawa](https://commons.wikimedia.org/wiki/Category:Ryue_Nishizawa) |
+| 68 | KAIT Workshop | Junya Ishigami | Atsugi, JP | Drawing | [Category:Kanagawa Institute of Technology](https://commons.wikimedia.org/wiki/Category:Kanagawa_Institute_of_Technology) |
+| 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | Drawing | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
+| 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | Drawing | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
 
-## No exterior photo (27)
+## No exterior photo (17)
 
 They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.
 
 | # | Building | Architect | Place | Photos now | Commons |
 |---|---|---|---|---|---|
 | 1 | Villa Savoye | Le Corbusier | Poissy, FR | Interior, Interior, Detail | [Category:Villa Savoye](https://commons.wikimedia.org/wiki/Category:Villa_Savoye) |
-| 26 | Golconde | Antonin Raymond, George Nakashima | Puducherry, IN | Drawing | [Category:Antonin Raymond](https://commons.wikimedia.org/wiki/Category:Antonin_Raymond) |
-| 46 | Sangath | B. V. Doshi | Ahmedabad, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
-| 47 | Aranya Low Cost Housing | B. V. Doshi | Indore, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
-| 48 | Kanchanjunga Apartments | Charles Correa | Mumbai, IN | Drawing | [Category:Charles Correa](https://commons.wikimedia.org/wiki/Category:Charles_Correa) |
-| 50 | Centre for Development Studies | Laurie Baker | Thiruvananthapuram, IN | Drawing | [Category:Laurie Baker](https://commons.wikimedia.org/wiki/Category:Laurie_Baker) |
 | 60 | Kolumba Museum | Peter Zumthor | Cologne, DE | Interior, Interior, Interior, Interior, Interior, Detail, Interior | [Category:Kolumba (museum)](https://commons.wikimedia.org/wiki/Category:Kolumba_%28museum%29) |
-| 62 | Quinta Monroy | Alejandro Aravena, Elemental | Iquique, CL | Drawing | [Category:Alejandro Aravena](https://commons.wikimedia.org/wiki/Category:Alejandro_Aravena) |
 | 64 | Church of the Light | Tadao Ando | Ibaraki, JP | Interior, Interior, Detail, Interior | [Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)](https://commons.wikimedia.org/wiki/Category:Church_of_the_Light_%28Ibaraki_Kasugaoka_Kyokai_Church%29) |
-| 67 | Moriyama House | Ryue Nishizawa | Tokyo, JP | Drawing | [Category:Ryue Nishizawa](https://commons.wikimedia.org/wiki/Category:Ryue_Nishizawa) |
-| 68 | KAIT Workshop | Junya Ishigami | Atsugi, JP | Drawing | [Category:Kanagawa Institute of Technology](https://commons.wikimedia.org/wiki/Category:Kanagawa_Institute_of_Technology) |
-| 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | Drawing | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
-| 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | Drawing | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
 | 94 | Bosco Verticale | Stefano Boeri | Milan, IT | Context | [Category:Bosco Verticale](https://commons.wikimedia.org/wiki/Category:Bosco_Verticale) |
 | 388 | Tabiat Bridge | Leila Araghian | Tehran, IR | Interior, Context, Context | [Category:Tabiat Bridge](https://commons.wikimedia.org/wiki/Category:Tabiat_Bridge) |
 | 573 | Scotland Street School | Charles Rennie Mackintosh | Glasgow, GB | Interior, Interior, Interior, Interior, Context, Context | [Category:Scotland Street School](https://commons.wikimedia.org/wiki/Category:Scotland_Street_School) |
