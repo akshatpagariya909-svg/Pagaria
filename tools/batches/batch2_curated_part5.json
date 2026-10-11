@@ -1171,7 +1171,7 @@
  },
  {
   "qid": "Q19884255",
-  "keep": 1,
+  "keep": 0,
   "name": "Lucent Danstheater",
   "by": "OMA / Rem Koolhaas",
   "city": "The Hague",
@@ -1185,7 +1185,7 @@
    "Low cost"
   ],
   "features": "Cheap collaged materials, a wavy gold-clad ceiling cloud and a tilted cone bar fill a tight foyer.",
-  "note": "year was design; opened 1987; demolished 2015-16"
+  "note": "demolished 2015-16; leave off"
  },
  {
   "qid": "Q2406587",
