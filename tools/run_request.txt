@@ -1,2 +1,2 @@
-python -u tools/resolve_list.py extra3_architects extra3_south extra3_regions
-Match the three batch 3 hand lists to Wikidata (qid, Commons folder, photo, coordinates).
+python -u tools/batch_facts.py batch3
+Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.

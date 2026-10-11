@@ -2769,5 +2769,1391 @@
 "studied architect"
 ],
 "next_batch": false
+},
+{
+"qid": "Q1191048",
+"name": "West Village",
+"architect": "Liu Jiakun",
+"year": "2015",
+"country": "CN",
+"type": "Public space",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q6139847",
+"name": "Teatro Regional del Biobío",
+"architect": "Smiljan Radić",
+"year": "2018",
+"country": "CL",
+"type": "Culture & sport",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q4637601",
+"name": "41 Cooper Square",
+"architect": "Morphosis, Thom Mayne",
+"year": "2009",
+"country": "US",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q5024011",
+"name": "Caltrans District 7 Headquarters",
+"architect": "Morphosis, Thom Mayne",
+"year": "2004",
+"country": "US",
+"type": "Office & tower",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q7169478",
+"name": "Perot Museum of Nature and Science",
+"architect": "Morphosis, Thom Mayne",
+"year": "2012",
+"country": "US",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q5270901",
+"name": "Diamond Ranch High School",
+"architect": "Morphosis, Thom Mayne",
+"year": "2000",
+"country": "US",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q7414007",
+"name": "San Francisco Federal Building",
+"architect": "Morphosis, Thom Mayne",
+"year": "2007",
+"country": "US",
+"type": "Office & tower",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q6801459",
+"name": "McGregor Memorial Conference Center",
+"architect": "Minoru Yamasaki",
+"year": "1958",
+"country": "US",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q3848341",
+"name": "Pacific Science Center",
+"architect": "Minoru Yamasaki",
+"year": "1962",
+"country": "US",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q1982044",
+"name": "Century Plaza Towers",
+"architect": "Minoru Yamasaki",
+"year": "1975",
+"country": "US",
+"type": "Office & tower",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q10352203",
+"name": "Pousada de Santa Marinha",
+"architect": "Fernando Távora",
+"year": "1985",
+"country": "PT",
+"type": "Hospitality",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q2503809",
+"name": "Town House, Kingston University",
+"architect": "Grafton Architects",
+"year": "2020",
+"country": "GB",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q4802788",
+"name": "Saitama Prefectural University",
+"architect": "Riken Yamamoto",
+"year": "1999",
+"country": "JP",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q835738",
+"name": "Future University Hakodate",
+"architect": "Riken Yamamoto",
+"year": "2000",
+"country": "JP",
+"type": "Education",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q2530322",
+"name": "Norwegian Glacier Museum",
+"architect": "Sverre Fehn",
+"year": "1991",
+"country": "NO",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q1132918",
+"name": "National Museum – Architecture",
+"architect": "Sverre Fehn",
+"year": "2008",
+"country": "NO",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q1659559",
+"name": "National Coach Museum",
+"architect": "Paulo Mendes da Rocha",
+"year": "2015",
+"country": "PT",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q66315986",
+"name": "Solar do Unhão",
+"architect": "Lina Bo Bardi",
+"year": "1963",
+"country": "BR",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q3768553",
+"name": "Gipsoteca Canoviana",
+"architect": "Carlo Scarpa",
+"year": "1957",
+"country": "IT",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q1751306",
+"name": "La Congiunta",
+"architect": "Peter Märkli",
+"year": "1992",
+"country": "CH",
+"type": "Museum",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q107360957",
+"name": "Atelier Bardill",
+"architect": "Valerio Olgiati",
+"year": "2007",
+"country": "CH",
+"type": "Workplace",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q124718917",
+"name": "L'Arbre Blanc",
+"architect": "Sou Fujimoto, Nicolas Laisné, Manal Rachdi",
+"year": "2019",
+"country": "FR",
+"type": "Housing",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q108325313",
+"name": "House of Music Hungary",
+"architect": "Sou Fujimoto",
+"year": "2022",
+"country": "HU",
+"type": "Culture & sport",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q135551122",
+"name": "Lamune Onsen",
+"architect": "Terunobu Fujimori",
+"year": "2005",
+"country": "JP",
+"type": "Hospitality",
+"why": [
+"hand list: architects"
+]
+},
+{
+"qid": "Q6480225",
+"name": "L. D. Institute of Indology",
+"architect": "Balkrishna Doshi",
+"year": "1962",
+"country": "IN",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q3630755",
+"name": "National Crafts Museum",
+"architect": "Charles Correa",
+"year": "1991",
+"country": "IN",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q16851397",
+"name": "Kala Academy",
+"architect": "Charles Correa",
+"year": "1983",
+"country": "IN",
+"type": "Culture & sport",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q16854086",
+"name": "Open Hand Monument",
+"architect": "Le Corbusier",
+"year": "1985",
+"country": "IN",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q15216557",
+"name": "Embassy of Belgium, New Delhi",
+"architect": "Satish Gujral",
+"year": "1983",
+"country": "IN",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q17088054",
+"name": "Triveni Kala Sangam",
+"architect": "Joseph Allen Stein",
+"year": "1963",
+"country": "IN",
+"type": "Culture & sport",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q7423742",
+"name": "Sardar Vallabhbhai Patel Stadium",
+"architect": "Charles Correa, Mahendra Raj",
+"year": "1966",
+"country": "IN",
+"type": "Culture & sport",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q15961638",
+"name": "Bihar Museum",
+"architect": "Maki and Associates, Opolis",
+"year": "2017",
+"country": "IN",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q504368",
+"name": "Chhatrapati Shivaji Maharaj International Airport Terminal 2",
+"architect": "Skidmore, Owings & Merrill",
+"year": "2014",
+"country": "IN",
+"type": "Infrastructure",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q9141",
+"name": "Taj Mahal",
+"architect": "Ustad Ahmad Lahauri",
+"year": "1653",
+"country": "IN",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q330872",
+"name": "Badshahi Mosque",
+"architect": "Mughal builders",
+"year": "1673",
+"country": "PK",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q3695640",
+"name": "Pakistan Monument",
+"architect": "Arif Masoud",
+"year": "2007",
+"country": "PK",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q996962",
+"name": "Minar-e-Pakistan",
+"architect": "Nasreddin Murat-Khan",
+"year": "1968",
+"country": "PK",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2425991",
+"name": "Shaheed Minar, Dhaka",
+"architect": "Hamidur Rahman, Novera Ahmed",
+"year": "1963",
+"country": "BD",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q804009",
+"name": "Baitul Mukarram",
+"architect": "Abdulhusein M. Thariani",
+"year": "1968",
+"country": "BD",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q24883195",
+"name": "Jetwing Lighthouse",
+"architect": "Geoffrey Bawa",
+"year": "1997",
+"country": "LK",
+"type": "Hospitality",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q6016118",
+"name": "Independence Memorial Hall",
+"architect": "Tom Neville Wynne-Jones",
+"year": "1953",
+"country": "LK",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q4383728",
+"name": "Punakha Dzong",
+"architect": "Zhabdrung Ngawang Namgyal",
+"year": "1638",
+"country": "BT",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q1513892",
+"name": "Nyatapola",
+"architect": "Newar builders",
+"year": "1702",
+"country": "NP",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q24036204",
+"name": "Oasia Hotel Downtown",
+"architect": "WOHA",
+"year": "2016",
+"country": "SG",
+"type": "Hospitality",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q7432604",
+"name": "School of the Arts, Singapore",
+"architect": "WOHA",
+"year": "2010",
+"country": "SG",
+"type": "Education",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q7165657",
+"name": "People's Park Complex",
+"architect": "Design Partnership",
+"year": "1973",
+"country": "SG",
+"type": "Housing",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q7522937",
+"name": "Singapore Conference Hall",
+"architect": "Malayan Architects Co-Partnership",
+"year": "1965",
+"country": "SG",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q890364",
+"name": "National Library Building",
+"architect": "T. R. Hamzah & Yeang",
+"year": "2005",
+"country": "SG",
+"type": "Library",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q630135",
+"name": "Supertree Grove",
+"architect": "Grant Associates, WilkinsonEyre",
+"year": "2012",
+"country": "SG",
+"type": "Public space",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2681107",
+"name": "Helix Bridge",
+"architect": "Cox Architecture, Architects 61, Arup",
+"year": "2010",
+"country": "SG",
+"type": "Infrastructure",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2744014",
+"name": "ArtScience Museum",
+"architect": "Safdie Architects",
+"year": "2011",
+"country": "SG",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q6457112",
+"name": "LASALLE College of the Arts",
+"architect": "RSP Architects Planners & Engineers",
+"year": "2007",
+"country": "SG",
+"type": "Education",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q105702331",
+"name": "CapitaSpring",
+"architect": "BIG, Carlo Ratti Associati",
+"year": "2021",
+"country": "SG",
+"type": "Office & tower",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q806555",
+"name": "Malaysian Houses of Parliament",
+"architect": "William Ivor Shipley",
+"year": "1963",
+"country": "MY",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q917630",
+"name": "National Museum (Malaysia)",
+"architect": "Ho Kwong Yew",
+"year": "1963",
+"country": "MY",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q145151",
+"name": "National Monument (Indonesia)",
+"architect": "Frederich Silaban, R. M. Soedarsono",
+"year": "1975",
+"country": "ID",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q4702554",
+"name": "Al-Irsyad Mosque",
+"architect": "Ridwan Kamil",
+"year": "2010",
+"country": "ID",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q874234",
+"name": "Ho Chi Minh Mausoleum",
+"architect": "Garol Isakovich",
+"year": "1975",
+"country": "VN",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q638512",
+"name": "Bitexco Financial Tower",
+"architect": "Carlos Zapata",
+"year": "2010",
+"country": "VN",
+"type": "Office & tower",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q1835176",
+"name": "Hanoi Museum",
+"architect": "gmp Architekten",
+"year": "2010",
+"country": "VN",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q1571863",
+"name": "Elephant Building",
+"architect": "Ong-ard Satrabhandhu",
+"year": "1997",
+"country": "TH",
+"type": "Office & tower",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q1130188",
+"name": "Bangkok Art and Culture Centre",
+"architect": "Robert G. Boughey & Associates",
+"year": "2008",
+"country": "TH",
+"type": "Museum",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q194316",
+"name": "Suvarnabhumi Airport",
+"architect": "Murphy/Jahn",
+"year": "2006",
+"country": "TH",
+"type": "Infrastructure",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2916351",
+"name": "Jim Thompson House",
+"architect": "Jim Thompson",
+"year": "1959",
+"country": "TH",
+"type": "House",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q61361132",
+"name": "Chulalongkorn University Centenary Park",
+"architect": "Landprocess",
+"year": "2017",
+"country": "TH",
+"type": "Public space",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q7185137",
+"name": "Philippine International Convention Center",
+"architect": "Leandro Locsin",
+"year": "1976",
+"country": "PH",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2914138",
+"name": "EDSA Shrine",
+"architect": "Francisco Mañosa",
+"year": "1989",
+"country": "PH",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q28401967",
+"name": "Quezon Memorial Shrine",
+"architect": "Federico Ilustre",
+"year": "1978",
+"country": "PH",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q5068437",
+"name": "Chaktomuk Conference Hall",
+"architect": "Vann Molyvann",
+"year": "1961",
+"country": "KH",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q1108673",
+"name": "Independence Monument (Cambodia)",
+"architect": "Vann Molyvann",
+"year": "1962",
+"country": "KH",
+"type": "Memorial",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q2671118",
+"name": "Wat Xieng Thong",
+"architect": "Lao builders",
+"year": "1560",
+"country": "LA",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q485727",
+"name": "Ananda Temple",
+"architect": "Bagan builders",
+"year": "1105",
+"country": "MM",
+"type": "Religious",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q503364",
+"name": "Kempegowda International Airport Terminal 2",
+"architect": "Skidmore, Owings & Merrill",
+"year": "2022",
+"country": "IN",
+"type": "Infrastructure",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q30590406",
+"name": "Folk Arts Theater",
+"architect": "Leandro Locsin",
+"year": "1974",
+"country": "PH",
+"type": "Culture & sport",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q4201688",
+"name": "National Stadium, Singapore",
+"architect": "Arup Associates, DP Architects",
+"year": "2014",
+"country": "SG",
+"type": "Culture & sport",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q10828427",
+"name": "Vietnam National Convention Center",
+"architect": "gmp Architekten",
+"year": "2006",
+"country": "VN",
+"type": "Civic",
+"why": [
+"hand list: south"
+]
+},
+{
+"qid": "Q6970499",
+"name": "National Theatre, Lagos",
+"architect": "Stefan Kolchev, Technoexportstroy",
+"year": "1976",
+"country": "NG",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q13848097",
+"name": "Kwame Nkrumah Mausoleum",
+"architect": "Don Arthur",
+"year": "1992",
+"country": "GH",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q25043410",
+"name": "Kigali Convention Centre",
+"architect": "Roland Dieterle",
+"year": "2016",
+"country": "RW",
+"type": "Civic",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q113632729",
+"name": "Kariakoo Market",
+"architect": "Beda Amuli",
+"year": "1974",
+"country": "TZ",
+"type": "Public space",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q954653",
+"name": "Cinema Impero",
+"architect": "Mario Messina",
+"year": "1937",
+"country": "ER",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q963472",
+"name": "Voortrekker Monument",
+"architect": "Gerard Moerdijk",
+"year": "1949",
+"country": "ZA",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q1432044",
+"name": "Hector Pieterson Museum",
+"architect": "Mashabane Rose Associates",
+"year": "2002",
+"country": "ZA",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q2480949",
+"name": "Djinguereber Mosque",
+"architect": "Abu Ishaq es-Sahili",
+"year": "1327",
+"country": "ML",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q1430119",
+"name": "Mosque-Madrasa of Sultan Hassan",
+"architect": "Muhammad ibn Baylik al-Muhsini",
+"year": "1363",
+"country": "EG",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q16964856",
+"name": "Villa Majorelle",
+"architect": "Paul Sinoir",
+"year": "1931",
+"country": "MA",
+"type": "House",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q2919312",
+"name": "Unknown Soldier Memorial, Cairo",
+"architect": "Sami Rafi",
+"year": "1975",
+"country": "EG",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q3026326",
+"name": "Diar es Saâda",
+"architect": "Fernand Pouillon",
+"year": "1953",
+"country": "DZ",
+"type": "Housing",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q815584",
+"name": "Basilica of Our Lady of Peace of Yamoussoukro",
+"architect": "Pierre Fakhoury",
+"year": "1989",
+"country": "CI",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q23012984",
+"name": "Djamaa el Djazaïr",
+"architect": "KSP Jürgen Engel Architekten",
+"year": "2019",
+"country": "DZ",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q2887058",
+"name": "Basilica of Sainte-Anne du Congo",
+"architect": "Roger Erell",
+"year": "1949",
+"country": "CG",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q28836336",
+"name": "Atatürk Library",
+"architect": "Sedad Hakkı Eldem",
+"year": "1976",
+"country": "TR",
+"type": "Library",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q1593303",
+"name": "Kanyon",
+"architect": "Jerde Partnership, Tabanlıoğlu Architects",
+"year": "2006",
+"country": "TR",
+"type": "Public space",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q274918",
+"name": "Grand National Assembly of Turkey",
+"architect": "Clemens Holzmeister",
+"year": "1961",
+"country": "TR",
+"type": "Civic",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q800389",
+"name": "Ankara Railway Station",
+"architect": "Şekip Akalın",
+"year": "1937",
+"country": "TR",
+"type": "Infrastructure",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q133490906",
+"name": "SALT Galata",
+"architect": "Han Tümertekin",
+"year": "2011",
+"country": "TR",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q25474853",
+"name": "Odunpazarı Modern Museum",
+"architect": "Kengo Kuma and Associates",
+"year": "2019",
+"country": "TR",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5957084",
+"name": "Tomb of Nader Shah",
+"architect": "Houshang Seyhoun",
+"year": "1959",
+"country": "IR",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q20645774",
+"name": "Dome of Soltaniyeh",
+"architect": "Ilkhanid builders",
+"year": "1312",
+"country": "IR",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q856356",
+"name": "Sheikh Lotfollah Mosque",
+"architect": "Mohammad-Reza Isfahani",
+"year": "1619",
+"country": "IR",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q16250454",
+"name": "Bahrain National Theatre",
+"architect": "Architecture-Studio",
+"year": "2012",
+"country": "BH",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q108084797",
+"name": "Abrahamic Family House",
+"architect": "Adjaye Associates",
+"year": "2023",
+"country": "AE",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q1127815",
+"name": "W Abu Dhabi – Yas Island",
+"architect": "Asymptote Architecture",
+"year": "2009",
+"country": "AE",
+"type": "Hospitality",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q695604",
+"name": "Sheikh Zayed Grand Mosque",
+"architect": "Yusef Abdelki",
+"year": "2007",
+"country": "AE",
+"type": "Religious",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q28736367",
+"name": "Etihad Museum",
+"architect": "Moriyama & Teshima Architects",
+"year": "2016",
+"country": "AE",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q620803",
+"name": "King Fahd National Library",
+"architect": "Gerber Architekten",
+"year": "2013",
+"country": "SA",
+"type": "Library",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q456424",
+"name": "Negev Brigade Monument",
+"architect": "Dani Karavan",
+"year": "1968",
+"country": "IL",
+"type": "Memorial",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q55065499",
+"name": "Cuadra San Cristóbal",
+"architect": "Luis Barragán",
+"year": "1968",
+"country": "MX",
+"type": "House",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5754223",
+"name": "Casa Gilardi",
+"architect": "Luis Barragán",
+"year": "1976",
+"country": "MX",
+"type": "House",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q1324001",
+"name": "El Colegio de México",
+"architect": "Teodoro González de León, Abraham Zabludovsky",
+"year": "1976",
+"country": "MX",
+"type": "Education",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q6033782",
+"name": "Museo Universitario Arte Contemporáneo",
+"architect": "Teodoro González de León",
+"year": "2008",
+"country": "MX",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q3433389",
+"name": "Torre Reforma",
+"architect": "L. Benjamín Romano",
+"year": "2016",
+"country": "MX",
+"type": "Office & tower",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q2876299",
+"name": "Museo Experimental El Eco",
+"architect": "Mathias Goeritz",
+"year": "1953",
+"country": "MX",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5061367",
+"name": "Central Library (UNAM)",
+"architect": "Juan O'Gorman, Gustavo Saavedra, Juan Martínez de Velasco",
+"year": "1956",
+"country": "MX",
+"type": "Library",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q28416",
+"name": "Hospicio Cabañas",
+"architect": "Manuel Tolsá",
+"year": "1810",
+"country": "MX",
+"type": "Health",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5426832",
+"name": "FOCSA Building",
+"architect": "Ernesto Gómez Sampera, Martín Domínguez Esteban",
+"year": "1956",
+"country": "CU",
+"type": "Housing",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q4838596",
+"name": "Bacardi Building",
+"architect": "Esteban Rodríguez-Castells, Rafael Fernández Ruenes",
+"year": "1930",
+"country": "CU",
+"type": "Office & tower",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q173876",
+"name": "Teresa Carreño Cultural Complex",
+"architect": "Tomás Lugo Marcano, Jesús Sandoval, Dietrich Kunckel",
+"year": "1983",
+"country": "VE",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5562142",
+"name": "Hotel Humboldt",
+"architect": "Tomás Sanabria",
+"year": "1956",
+"country": "VE",
+"type": "Hospitality",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5761145",
+"name": "Gabriel García Márquez Cultural Center",
+"architect": "Rogelio Salmona",
+"year": "2008",
+"country": "CO",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5982529",
+"name": "Place of Memory, Tolerance and Social Inclusion",
+"architect": "Barclay & Crousse",
+"year": "2015",
+"country": "PE",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q5815122",
+"name": "SOMISA Building",
+"architect": "Mario Roberto Álvarez",
+"year": "1977",
+"country": "AR",
+"type": "Office & tower",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q10344978",
+"name": "Parque Guinle",
+"architect": "Lúcio Costa",
+"year": "1954",
+"country": "BR",
+"type": "Housing",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q56695385",
+"name": "Instituto Moreira Salles Paulista",
+"architect": "Andrade Morettin Arquitetos",
+"year": "2017",
+"country": "BR",
+"type": "Museum",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q10353446",
+"name": "Praça das Artes",
+"architect": "Brasil Arquitetura",
+"year": "2012",
+"country": "BR",
+"type": "Culture & sport",
+"why": [
+"hand list: regions"
+]
+},
+{
+"qid": "Q655018",
+"name": "Juscelino Kubitschek Bridge",
+"architect": "Alexandre Chan",
+"year": "2002",
+"country": "BR",
+"type": "Infrastructure",
+"why": [
+"hand list: regions"
+]
 }
 ]
