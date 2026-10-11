@@ -1,0 +1,2773 @@
+[
+{
+"qid": "Q1920091",
+"name": "Latin America Memorial",
+"architect": "Oscar Niemeyer",
+"year": 1989,
+"country": "Brazil",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 9,
+"score": 48,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q10270275",
+"name": "Supremo Tribunal Federal building",
+"architect": "Oscar Niemeyer",
+"year": 1960,
+"country": "Brazil",
+"region": "Americas",
+"type": "courthouse",
+"sitelinks": 6,
+"score": 48,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q16128265",
+"name": "Villa Baizeau",
+"architect": "Le Corbusier",
+"year": 1928,
+"country": "Tunisia",
+"region": "Africa",
+"type": "villa",
+"sitelinks": 5,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3181219",
+"name": "University of Science and Technology, Houari Boumediene",
+"architect": "Oscar Niemeyer",
+"year": 1974,
+"country": "Algeria",
+"region": "Africa",
+"type": "public university",
+"sitelinks": 12,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4818370",
+"name": "Conjunto Governador Kubitschek",
+"architect": "Oscar Niemeyer",
+"year": 1950,
+"country": "Brazil",
+"region": "Americas",
+"type": "built structure",
+"sitelinks": 4,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1535007",
+"name": "University of Information Science",
+"architect": "Oscar Niemeyer",
+"year": 2002,
+"country": "Cuba",
+"region": "Americas",
+"type": "university",
+"sitelinks": 7,
+"score": 45,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7267112",
+"name": "Qatar National Convention Centre",
+"architect": "Arata Isozaki",
+"year": 2011,
+"country": "Qatar",
+"region": "Middle East",
+"type": "convention center",
+"sitelinks": 7,
+"score": 43,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q5071058",
+"name": "Chandigarh College of Architecture",
+"architect": "Le Corbusier",
+"year": 1961,
+"country": "India",
+"region": "South Asia",
+"type": "academic institution",
+"sitelinks": 2,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6756158",
+"name": "Schocken Library",
+"architect": "Erich Mendelsohn",
+"year": 1935,
+"country": "Israel",
+"region": "Middle East",
+"type": "reference library",
+"sitelinks": 2,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q2899919",
+"name": "Palmach Museum",
+"architect": "Zvi Hecker",
+"year": 2000,
+"country": "Israel",
+"region": "Middle East",
+"type": "military museum",
+"sitelinks": 9,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q19207166",
+"name": "Torres Atrio",
+"architect": "Richard Rogers",
+"year": 2019,
+"country": "Colombia",
+"region": "Americas",
+"type": "building",
+"sitelinks": 6,
+"score": 42,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q2899925",
+"name": "First International Bank Tower",
+"architect": "I. M. Pei",
+"year": 2009,
+"country": "Israel",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 42,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q3339164",
+"name": "Newton Suites",
+"architect": "WOHA",
+"year": 2008,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 42,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q8029082",
+"name": "Wohl Centre",
+"architect": "Daniel Libeskind",
+"year": 2005,
+"country": "Israel",
+"region": "Middle East",
+"type": "convention center",
+"sitelinks": 5,
+"score": 42,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q99769226",
+"name": "UTEC campus",
+"architect": "Yvonne Farrell",
+"year": 2015,
+"country": "Peru",
+"region": "Americas",
+"type": "building",
+"sitelinks": 3,
+"score": 42,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q2444549",
+"name": "YPF tower",
+"architect": "César Pelli",
+"year": 2008,
+"country": "Argentina",
+"region": "Americas",
+"type": "building",
+"sitelinks": 10,
+"score": 41,
+"star": false,
+"why": [
+"architect with a body of work in archINFORM"
+],
+"next_batch": false
+},
+{
+"qid": "Q5818145",
+"name": "Torre Interbank",
+"architect": "Hans Hollein",
+"year": 2001,
+"country": "Peru",
+"region": "Americas",
+"type": "office building",
+"sitelinks": 3,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q107191191",
+"name": "Igreja Matriz",
+"architect": "Gottfried Böhm",
+"year": 1954,
+"country": "Brazil",
+"region": "Americas",
+"type": "church building",
+"sitelinks": 1,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q5142722",
+"name": "Colección Jumex",
+"architect": "David Chipperfield",
+"year": 2013,
+"country": "Mexico",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 4,
+"score": 41,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q106678383",
+"name": "Ariston Club",
+"architect": "Marcel Breuer",
+"year": 1948,
+"country": "Argentina",
+"region": "Americas",
+"type": "historic building",
+"sitelinks": 3,
+"score": 41,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q173559",
+"name": "Cape Town Stadium",
+"architect": "Gerkan, Marg and Partners",
+"year": 2007,
+"country": "South Africa",
+"region": "Africa",
+"type": "Multi-purpose stadium",
+"sitelinks": 54,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q175289",
+"name": "Moses Mabhida Stadium",
+"architect": "Gerkan, Marg and Partners",
+"year": 2009,
+"country": "South Africa",
+"region": "Africa",
+"type": "association football venue",
+"sitelinks": 53,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q181445",
+"name": "Nelson Mandela Bay Stadium",
+"architect": "Gerkan, Marg and Partners",
+"year": 2010,
+"country": "South Africa",
+"region": "Africa",
+"type": "association football venue",
+"sitelinks": 49,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q6945083",
+"name": "Meier on Rothschild",
+"architect": "Richard Meier",
+"year": 2014,
+"country": "Israel",
+"region": "Middle East",
+"type": "built structure",
+"sitelinks": 4,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q163521",
+"name": "FNB Stadium",
+"architect": "Populous",
+"year": 1989,
+"country": "South Africa",
+"region": "Africa",
+"type": "association football venue",
+"sitelinks": 61,
+"score": 39,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q166882",
+"name": "Istanbul Sapphire",
+"architect": "Tabanlıoğlu Architects",
+"year": 2011,
+"country": "Turkey",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 30,
+"score": 39,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q1069161",
+"name": "Chelsea Tower",
+"architect": "Atkins",
+"year": 2005,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 16,
+"score": 39,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q5059675",
+"name": "Center for Human Dignity",
+"architect": "Aedas",
+"year": 2019,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 6,
+"score": 39,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q25907014",
+"name": "Third building of the Grand National Assembly of Turkey",
+"architect": "Clemens Holzmeister",
+"year": 1960,
+"country": "Turkey",
+"region": "Middle East",
+"type": "parliament building",
+"sitelinks": 3,
+"score": 39,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": false
+},
+{
+"qid": "Q15983525",
+"name": "Supreme Court of Pakistan Building",
+"architect": "Kenzō Tange",
+"year": 1965,
+"country": "Pakistan",
+"region": "South Asia",
+"type": "built structure",
+"sitelinks": 5,
+"score": 39,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q16501783",
+"name": "Bloco Habitacional O Leão Que Ri",
+"architect": "Pancho Guedes",
+"year": 1954,
+"country": "Mozambique",
+"region": "Africa",
+"type": "residential building",
+"sitelinks": 4,
+"score": 39,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6039681",
+"name": "Institute for Research in Fundamental Sciences",
+"architect": "Kamran Diba",
+"year": 1970,
+"country": "Iran",
+"region": "Middle East",
+"type": "research institute",
+"sitelinks": 3,
+"score": 39,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q108877088",
+"name": "Dudhsagar Dairy plant",
+"architect": "Achyut Kanvinde",
+"year": 1970,
+"country": "India",
+"region": "South Asia",
+"type": "industrial plant",
+"sitelinks": 2,
+"score": 39,
+"star": true,
+"why": [
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q21469485",
+"name": "Edifício Prometheus",
+"architect": "Pancho Guedes",
+"year": 1953,
+"country": "Mozambique",
+"region": "Africa",
+"type": "residential building",
+"sitelinks": 2,
+"score": 39,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q677823",
+"name": "Address Downtown",
+"architect": "Atkins",
+"year": 2008,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 27,
+"score": 38,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q3196070",
+"name": "Borujerdi House",
+"architect": "Ustad Ali Maryam",
+"year": 1875,
+"country": "Iran",
+"region": "Middle East",
+"type": "mansion",
+"sitelinks": 19,
+"score": 38,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q618988",
+"name": "Singapore Indoor Stadium",
+"architect": "Kenzō Tange",
+"year": 1989,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "stadium",
+"sitelinks": 17,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q6816462",
+"name": "Petronas Tower 3",
+"architect": "César Pelli",
+"year": 2011,
+"country": "Malaysia",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 38,
+"star": false,
+"why": [
+"architect with a body of work in archINFORM"
+],
+"next_batch": false
+},
+{
+"qid": "Q1110361",
+"name": "Opera Stage",
+"architect": "Şevki Balmumcu",
+"year": 1948,
+"country": "Turkey",
+"region": "Middle East",
+"type": "theatre building",
+"sitelinks": 5,
+"score": 38,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q134596183",
+"name": "German Embassy building",
+"architect": "Hans Scharoun",
+"year": 1971,
+"country": "Brazil",
+"region": "Americas",
+"type": "chancery",
+"sitelinks": 1,
+"score": 38,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q104157193",
+"name": "Museum of West African Art",
+"architect": "David Adjaye",
+"year": 2020,
+"country": "Nigeria",
+"region": "Africa",
+"type": "museum",
+"sitelinks": 5,
+"score": 38,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q2910572",
+"name": "National Campus for the Archaeology of Israel",
+"architect": "Moshe Safdie",
+"year": 2016,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 5,
+"score": 38,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q9007647",
+"name": "Polana church",
+"architect": "Nuno Craveiro Lopes",
+"year": 1958,
+"country": "Mozambique",
+"region": "Africa",
+"type": "church building",
+"sitelinks": 5,
+"score": 38,
+"star": false,
+"why": [
+"sosbrutalism"
+],
+"next_batch": false
+},
+{
+"qid": "Q5430604",
+"name": "Fairmont Singapore",
+"architect": "I. M. Pei",
+"year": 1985,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 4,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q1097149",
+"name": "The Troika",
+"architect": "Foster and Partners",
+"year": 2010,
+"country": "Malaysia",
+"region": "Southeast Asia",
+"type": "building complex",
+"sitelinks": 3,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q116974427",
+"name": "Emaar Square",
+"architect": "Foster and Partners",
+"year": 2017,
+"country": "Turkey",
+"region": "Middle East",
+"type": "building complex",
+"sitelinks": 3,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q28873262",
+"name": "CapitaGreen",
+"architect": "Toyo Ito",
+"year": 2014,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 3,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q88667534",
+"name": "Center of Innovation Anacleto Angelini",
+"architect": "Alejandro Alavena",
+"year": 2014,
+"country": "Chile",
+"region": "Americas",
+"type": "university building",
+"sitelinks": 3,
+"score": 38,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q666183",
+"name": "Estadio Akron",
+"architect": "Populous",
+"year": 2010,
+"country": "Mexico",
+"region": "Americas",
+"type": "association football venue",
+"sitelinks": 42,
+"score": 37,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q2373326",
+"name": "Yerevan Opera Theater",
+"architect": "Alexander Tamanian",
+"year": 1932,
+"country": "Armenia",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 29,
+"score": 37,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q511612",
+"name": "Bahrain World Trade Center",
+"architect": "Atkins",
+"year": 2008,
+"country": "Bahrain",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 26,
+"score": 37,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q1093913",
+"name": "Moshe Aviv Tower",
+"architect": "Amnon Niv",
+"year": 2001,
+"country": "Israel",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 24,
+"score": 37,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q1207442",
+"name": "Dubai Towers Doha",
+"architect": "RMJM",
+"year": 2026,
+"country": "Qatar",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 37,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q9054621",
+"name": "Palácio das Indústrias",
+"architect": "Domiziano Rossi",
+"year": 1924,
+"country": "Brazil",
+"region": "Americas",
+"type": "museum building",
+"sitelinks": 5,
+"score": 37,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q11702494",
+"name": "Reforma 222",
+"architect": "Teodoro González de León",
+"year": 2004,
+"country": "Mexico",
+"region": "Americas",
+"type": "built structure",
+"sitelinks": 4,
+"score": 37,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6060078",
+"name": "Papalote Museo del Niño",
+"architect": "Ricardo Legorreta",
+"year": 1993,
+"country": "Mexico",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 4,
+"score": 37,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q21484712",
+"name": "Casa das Três Girafas",
+"architect": "Pancho Guedes",
+"year": 1965,
+"country": "Mozambique",
+"region": "Africa",
+"type": "residential building",
+"sitelinks": 3,
+"score": 37,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6090279",
+"name": "Music Teachers' School",
+"architect": "Ernst Egli",
+"year": 1924,
+"country": "Turkey",
+"region": "Middle East",
+"type": "educational institution",
+"sitelinks": 3,
+"score": 37,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q571763",
+"name": "Barolo Palace",
+"architect": "Mario Palanti",
+"year": 1923,
+"country": "Argentina",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 29,
+"score": 36,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q715273",
+"name": "Sulaymaniyya Takiyya",
+"architect": "Mimar Sinan",
+"year": 1554,
+"country": "Syria",
+"region": "Middle East",
+"type": "Ottoman tekke",
+"sitelinks": 28,
+"score": 36,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"archnet",
+"architect with a body of work in archINFORM"
+],
+"next_batch": false
+},
+{
+"qid": "Q558159",
+"name": "Türkmenbaşy Mosque",
+"architect": "Q135229440",
+"year": 2004,
+"country": "Turkmenistan",
+"region": "Middle East",
+"type": "mosque",
+"sitelinks": 24,
+"score": 36,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1614219",
+"name": "Vision Tower",
+"architect": "Tvsdesign",
+"year": 2011,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 36,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q39056278",
+"name": "Capella Singapore",
+"architect": "Foster and Partners",
+"year": 2009,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "hotel",
+"sitelinks": 9,
+"score": 36,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q6033206",
+"name": "Museo Casa Estudio Diego Rivera y Frida Kahlo",
+"architect": "Juan O'Gormann",
+"year": 1931,
+"country": "Mexico",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 3,
+"score": 36,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q16490616",
+"name": "Centro Cultural de Cali",
+"architect": "Rogelio Salmona",
+"year": 1990,
+"country": "Colombia",
+"region": "Americas",
+"type": "building",
+"sitelinks": 2,
+"score": 36,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q320454",
+"name": "Estadio Azteca",
+"architect": "Pedro Ramírez Vázquez",
+"year": 1966,
+"country": "Mexico",
+"region": "Americas",
+"type": "association football venue",
+"sitelinks": 59,
+"score": 35,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q129479",
+"name": "Tomb of Hafez",
+"architect": "André Godard",
+"year": 1935,
+"country": "Iran",
+"region": "Middle East",
+"type": "tomb",
+"sitelinks": 26,
+"score": 35,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1430185",
+"name": "Rockefeller Museum",
+"architect": "Austen Harrison",
+"year": 1930,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 23,
+"score": 35,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1914841",
+"name": "PBCom Tower",
+"architect": "Q459464",
+"year": 2000,
+"country": "Philippines",
+"region": "Southeast Asia",
+"type": "tower block",
+"sitelinks": 16,
+"score": 35,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q2634267",
+"name": "Heydar Aliyev Sports and Exhibition Complex",
+"architect": "Yuzef Qədimov",
+"year": 1977,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "sports venue",
+"sitelinks": 14,
+"score": 35,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q555316",
+"name": "Heichal HaTarbut",
+"architect": "Dov Karmi",
+"year": 1957,
+"country": "Israel",
+"region": "Middle East",
+"type": "concert hall",
+"sitelinks": 12,
+"score": 35,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q10363091",
+"name": "The Ritz-Carlton Millenia Singapore",
+"architect": "Roche-Dinkeloo",
+"year": 1996,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "hotel",
+"sitelinks": 7,
+"score": 35,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q9698113",
+"name": "Casa Modernista",
+"architect": "Gregori Warchavchik",
+"year": 1928,
+"country": "Brazil",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 35,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q1188026",
+"name": "Children's Memorial, Yad Vashem",
+"architect": "Moshe Safdie",
+"year": 1987,
+"country": "Israel",
+"region": "Middle East",
+"type": "cenotaph",
+"sitelinks": 4,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q18191696",
+"name": "Ashdod Performing Arts Center",
+"architect": "Shin Takamatsu",
+"year": 2012,
+"country": "Israel",
+"region": "Middle East",
+"type": "theatre building",
+"sitelinks": 3,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q596914",
+"name": "Reflections at Keppel Bay",
+"architect": "Daniel Libeskind",
+"year": 2011,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "building complex",
+"sitelinks": 3,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q65056533",
+"name": "The Rain Vortex",
+"architect": "Moshe Safdie",
+"year": 2019,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "artificial waterfall",
+"sitelinks": 3,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q8772052",
+"name": "Edificio Tlatelolco",
+"architect": "Ricardo Legorreta",
+"year": 2005,
+"country": "Mexico",
+"region": "Americas",
+"type": "building",
+"sitelinks": 3,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q106797105",
+"name": "Entebbe Children's Surgical Hospital",
+"architect": "Renzo Piano",
+"year": 2021,
+"country": "Uganda",
+"region": "Africa",
+"type": "children's hospital",
+"sitelinks": 2,
+"score": 35,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q141503945",
+"name": "Sede da Fundação Iberê Camargo",
+"architect": "Álvaro Siza Vieira",
+"year": 2008,
+"country": "Brazil",
+"region": "Americas",
+"type": "building",
+"sitelinks": 2,
+"score": 35,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q28680546",
+"name": "Santo Andre Civic Center",
+"architect": "Rino Levi",
+"year": 1969,
+"country": "Brazil",
+"region": "Americas",
+"type": "cultural heritage",
+"sitelinks": 2,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q5943590",
+"name": "Shafaq Park (Tehran)",
+"architect": "Kamran Diba",
+"year": 1969,
+"country": "Iran",
+"region": "Middle East",
+"type": "urban park",
+"sitelinks": 2,
+"score": 35,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q5959602",
+"name": "Ferdowsi Mausoleum",
+"architect": "Hossein Lorzadeh",
+"year": 1934,
+"country": "Iran",
+"region": "Middle East",
+"type": "mausoleum",
+"sitelinks": 24,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q213203",
+"name": "Levant Fair",
+"architect": "Aryeh Elhanani",
+"year": 1933,
+"country": "Israel",
+"region": "Middle East",
+"type": "convention center",
+"sitelinks": 23,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2915137",
+"name": "Shalom Meir Tower",
+"architect": "Yitzhak Perlstein",
+"year": 1965,
+"country": "Israel",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 19,
+"score": 34,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q699317",
+"name": "Arraya Tower",
+"architect": "Fentress Architects",
+"year": 2009,
+"country": "Kuwait",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 19,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1407337",
+"name": "Turkmenistan Tower",
+"architect": "Polimeks",
+"year": 2011,
+"country": "Turkmenistan",
+"region": "Middle East",
+"type": "television tower",
+"sitelinks": 18,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1435741",
+"name": "Sky Tower",
+"architect": "Arquitectonica",
+"year": 2010,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 17,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q33108763",
+"name": "National Assembly of Armenia Building",
+"architect": "Mark Grigorian",
+"year": 1950,
+"country": "Armenia",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 13,
+"score": 34,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q7187149",
+"name": "The Eyal Ofer Pavilion",
+"architect": "Dov Karmi",
+"year": 1959,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 3,
+"score": 34,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q16129695",
+"name": "Hadassah University Hospital, Mt. Scopus",
+"architect": "Erich Mendelsohn",
+"year": 1938,
+"country": "Israel",
+"region": "Middle East",
+"type": "hospital",
+"sitelinks": 3,
+"score": 34,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q17321339",
+"name": "Edifício Dragão",
+"architect": "Pancho Guedes",
+"year": 1951,
+"country": "Mozambique",
+"region": "Africa",
+"type": "residential building",
+"sitelinks": 2,
+"score": 34,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q21478174",
+"name": "Restaurante Zambi",
+"architect": "Pancho Guedes",
+"year": 1956,
+"country": "Mozambique",
+"region": "Africa",
+"type": "building",
+"sitelinks": 2,
+"score": 34,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q37200",
+"name": "Great Pyramid of Giza",
+"architect": "Hemiunu",
+"year": -2560,
+"country": "Egypt",
+"region": "Middle East",
+"type": "smooth-sided pyramid",
+"sitelinks": 126,
+"score": 33,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q478926",
+"name": "Casa Rosada",
+"architect": "Carlos Kihlberg",
+"year": 1898,
+"country": "Argentina",
+"region": "Americas",
+"type": "building of public administration",
+"sitelinks": 37,
+"score": 33,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q1860439",
+"name": "Rustaveli Theatre",
+"architect": "Aleksander Szymkiewicz",
+"year": 1921,
+"country": "Georgia",
+"region": "Middle East",
+"type": "theatre building",
+"sitelinks": 35,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1138228",
+"name": "History Museum of Armenia",
+"architect": "Mark Grigorian",
+"year": 1919,
+"country": "Armenia",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 27,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q15120372",
+"name": "Yyldyz Hotel",
+"architect": "Bouygues Turkmen",
+"year": 2013,
+"country": "Turkmenistan",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q24885196",
+"name": "Azrieli Sarona Tower",
+"architect": "Moshe Tzur",
+"year": 2017,
+"country": "Israel",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q30892864",
+"name": "Palace of the Nation",
+"architect": "Q29360197",
+"year": 2008,
+"country": "Tajikistan",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 15,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2078074",
+"name": "Heydar Aliyev Palace",
+"architect": "Alish Lemberanskiy",
+"year": 1972,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "concert hall",
+"sitelinks": 10,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q5948926",
+"name": "Baba Taher Mausoleum",
+"architect": "Mohsen Foroughi",
+"year": 1970,
+"country": "Iran",
+"region": "Middle East",
+"type": "mausoleum",
+"sitelinks": 10,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q5359041",
+"name": "Raffles City",
+"architect": "I. M. Pei",
+"year": 1986,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "shopping center",
+"sitelinks": 9,
+"score": 33,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q2601324",
+"name": "Matcal Tower",
+"architect": "Moore Yaski Sivan Architects",
+"year": 2005,
+"country": "Israel",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 8,
+"score": 33,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q7139663",
+"name": "Parque Posadas",
+"architect": "Eladio Dieste",
+"year": 1973,
+"country": "Uruguay",
+"region": "Americas",
+"type": "housing estate",
+"sitelinks": 3,
+"score": 33,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q96419625",
+"name": "Vincent Timsit Workshop",
+"architect": "Jean-François Zevaco",
+"year": 1952,
+"country": "Morocco",
+"region": "Africa",
+"type": "building",
+"sitelinks": 3,
+"score": 33,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q104521799",
+"name": "Ege Perla",
+"architect": "Emre Arolat",
+"year": 2016,
+"country": "Turkey",
+"region": "Middle East",
+"type": "skyscraper complex",
+"sitelinks": 2,
+"score": 33,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q7907766",
+"name": "V on Shenton",
+"architect": "Ben van Berkel",
+"year": 2017,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 2,
+"score": 33,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q45368",
+"name": "Mausoleum at Halicarnassus",
+"architect": "Satyros of Paros",
+"year": -351,
+"country": "Turkey",
+"region": "Middle East",
+"type": "Wonder of the Ancient World",
+"sitelinks": 90,
+"score": 32,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q2596393",
+"name": "Tbilisi Opera and Ballet Theatre",
+"architect": "Victor Schröter",
+"year": 1851,
+"country": "Georgia",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 32,
+"score": 32,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q1672405",
+"name": "National Library and Archives of Iran",
+"architect": "Yousef Shariatzadeh",
+"year": 1937,
+"country": "Iran",
+"region": "Middle East",
+"type": "national library",
+"sitelinks": 27,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2915627",
+"name": "National Museum of Beirut",
+"architect": "Pierre Leprince-Ringuet",
+"year": 1937,
+"country": "Lebanon",
+"region": "Middle East",
+"type": "national museum",
+"sitelinks": 25,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2894040",
+"name": "Beit Aghion",
+"architect": "Richard Kauffmann",
+"year": 1938,
+"country": "Israel",
+"region": "Middle East",
+"type": "official residence",
+"sitelinks": 17,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q58823",
+"name": "Azerbaijan State Philharmonic Hall",
+"architect": "Gavriil Ter-Mikelov",
+"year": 1912,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "concert hall",
+"sitelinks": 17,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q13892708",
+"name": "Capital Market Authority Headquarters",
+"architect": "HOK",
+"year": 2016,
+"country": "Saudi Arabia",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q30686870",
+"name": "Thamrin Nine",
+"architect": "Kohn Pedersen Fox",
+"year": 2014,
+"country": "Indonesia",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q127172",
+"name": "Sede do BankBoston",
+"architect": "Q459464",
+"year": 2002,
+"country": "Brazil",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 32,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q29044424",
+"name": "Steinhardt Museum of Natural History",
+"architect": "Kimmel Eshkolot Architects",
+"year": 2018,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 10,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q5617928",
+"name": "Gulustan Palace",
+"architect": "Nazim Hacıbəyov",
+"year": 1980,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "venue",
+"sitelinks": 10,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q14942756",
+"name": "The Museum Centre",
+"architect": "Hasan Majidov",
+"year": 1955,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "museum building",
+"sitelinks": 9,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q14955686",
+"name": "Nizami Cinema",
+"architect": "Sadig Dadashov",
+"year": 1934,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "movie theater",
+"sitelinks": 9,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1367560",
+"name": "Esentai Tower",
+"architect": "Q459464",
+"year": 2008,
+"country": "Kazakhstan",
+"region": "Middle East",
+"type": "built structure",
+"sitelinks": 6,
+"score": 32,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q6918125",
+"name": "Bank Leumi Building, Jerusalem",
+"architect": "Erich Mendelsohn",
+"year": 1937,
+"country": "Israel",
+"region": "Middle East",
+"type": "office building",
+"sitelinks": 2,
+"score": 32,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q2807094",
+"name": "11 Diagonal Street",
+"architect": "Helmut Jahn",
+"year": 1983,
+"country": "South Africa",
+"region": "Africa",
+"type": "tower block",
+"sitelinks": 5,
+"score": 32,
+"star": false,
+"why": [
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": false
+},
+{
+"qid": "Q109875355",
+"name": "Parque Revolución",
+"architect": "Luis Barragán",
+"year": 1935,
+"country": "Mexico",
+"region": "Americas",
+"type": "park",
+"sitelinks": 3,
+"score": 32,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q5028689",
+"name": "Campus Universidad del Salvador",
+"architect": "Clorindo Testa",
+"year": 2002,
+"country": "Argentina",
+"region": "Americas",
+"type": "built structure",
+"sitelinks": 2,
+"score": 32,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6595874",
+"name": "HaKaron Monument",
+"architect": "Moshe Safdie",
+"year": 1995,
+"country": "Israel",
+"region": "Middle East",
+"type": "cenotaph",
+"sitelinks": 2,
+"score": 32,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q6914809",
+"name": "Technion Obelisk",
+"architect": "Santiago Calatrava",
+"year": 2009,
+"country": "Israel",
+"region": "Middle East",
+"type": "obelisk",
+"sitelinks": 2,
+"score": 32,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q130341859",
+"name": "Apple Zorlu Center",
+"architect": "Foster and Partners",
+"year": 2014,
+"country": "Turkey",
+"region": "Middle East",
+"type": "Apple Store",
+"sitelinks": 1,
+"score": 32,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q130341861",
+"name": "Apple Bağdat Caddesi",
+"architect": "Foster and Partners",
+"year": 2021,
+"country": "Turkey",
+"region": "Middle East",
+"type": "Apple Store",
+"sitelinks": 1,
+"score": 32,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q855110",
+"name": "Expo Tel Aviv",
+"architect": "Aryeh Elhanani",
+"year": 1932,
+"country": "Israel",
+"region": "Middle East",
+"type": "convention center",
+"sitelinks": 29,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q6048634",
+"name": "Gezi Park",
+"architect": "Henri Prost",
+"year": 1943,
+"country": "Turkey",
+"region": "Middle East",
+"type": "urban park",
+"sitelinks": 24,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q4189918",
+"name": "Ismailiyya building",
+"architect": "Józef Plośko",
+"year": 1913,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 16,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1678179",
+"name": "Yad Kennedy",
+"architect": "David Resnick",
+"year": 1966,
+"country": "Israel",
+"region": "Middle East",
+"type": "cenotaph",
+"sitelinks": 14,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2916134",
+"name": "Tel Aviv Cinematheque",
+"architect": "Salo Hershman",
+"year": 1973,
+"country": "Israel",
+"region": "Middle East",
+"type": "cinematheque",
+"sitelinks": 14,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q4155891",
+"name": "Palace of Happiness",
+"architect": "Józef Plośko",
+"year": 1912,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 14,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2324596",
+"name": "A. Kasteyev State Museum of Arts",
+"architect": "Q96979188",
+"year": 1976,
+"country": "Kazakhstan",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 13,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q2620299",
+"name": "Independence Hall",
+"architect": "Carl Rubin",
+"year": 1930,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum building",
+"sitelinks": 13,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q1586914",
+"name": "Ruhyýet Palace",
+"architect": "Bouygues Turkmen",
+"year": 2012,
+"country": "Turkmenistan",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 11,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q596913",
+"name": "Alexandria Opera House",
+"architect": "Georges Parcq",
+"year": 1921,
+"country": "Egypt",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 11,
+"score": 31,
+"star": false,
+"why": [
+"archnet"
+],
+"next_batch": false
+},
+{
+"qid": "Q28657490",
+"name": "Çamlıca Tower",
+"architect": "Melike Altınışık",
+"year": 2020,
+"country": "Turkey",
+"region": "Middle East",
+"type": "television tower",
+"sitelinks": 10,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q48768542",
+"name": "Marmaray Tunnel",
+"architect": "Taisei Corporation",
+"year": 2013,
+"country": "Turkey",
+"region": "Middle East",
+"type": "railway tunnel",
+"sitelinks": 10,
+"score": 31,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q3756775",
+"name": "Executive Towers",
+"architect": "Atkins",
+"year": 2010,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 9,
+"score": 31,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q5548041",
+"name": "Georgian Parliament Building",
+"architect": "Alberto Domingo",
+"year": 2012,
+"country": "Georgia",
+"region": "Middle East",
+"type": "parliament building",
+"sitelinks": 9,
+"score": 31,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q13052114",
+"name": "Ara Sargsyan and Hakob Kojoyan house museum",
+"architect": "Varazdat Arevshatyan",
+"year": 1973,
+"country": "Armenia",
+"region": "Middle East",
+"type": "biographical museum",
+"sitelinks": 8,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q13054028",
+"name": "Martiros Saryan Museum",
+"architect": "Alexander Tamanian",
+"year": 1967,
+"country": "Armenia",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 7,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q6559721",
+"name": "Amot Atrium Tower",
+"architect": "Moshe Tzur",
+"year": 2015,
+"country": "Israel",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 6,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q20988710",
+"name": "Max-Liebling House",
+"architect": "Dov Karmi",
+"year": 1936,
+"country": "Israel",
+"region": "Middle East",
+"type": "single-family detached home",
+"sitelinks": 4,
+"score": 31,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q6749689",
+"name": "Manila Jai Alai Building",
+"architect": "Welton Becket",
+"year": 1940,
+"country": "Philippines",
+"region": "Southeast Asia",
+"type": "Long fronton",
+"sitelinks": 4,
+"score": 31,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": false
+},
+{
+"qid": "Q1876154",
+"name": "Caracas Museum of Natural Sciences",
+"architect": "Carlos Raúl Villanueva",
+"year": 1940,
+"country": "Venezuela",
+"region": "Americas",
+"type": "national museum",
+"sitelinks": 4,
+"score": 31,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q48989184",
+"name": "Caramuru Building",
+"architect": "Paulo Antunes Ribeiro",
+"year": 1946,
+"country": "Brazil",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 4,
+"score": 31,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q5761214",
+"name": "Civic Center of Lima",
+"architect": "Adolfo Córdova",
+"year": 1974,
+"country": "Peru",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 3,
+"score": 31,
+"star": false,
+"why": [
+"structurae",
+"sosbrutalism"
+],
+"next_batch": false
+},
+{
+"qid": "Q131427338",
+"name": "David and Ruth Gottesman Building, National Library of Israel",
+"architect": "Herzog & de Meuron",
+"year": 2023,
+"country": "Israel",
+"region": "Middle East",
+"type": "library building",
+"sitelinks": 1,
+"score": 31,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q134314583",
+"name": "Pezet 515",
+"architect": "Hans Hollein",
+"year": 2006,
+"country": "Peru",
+"region": "Americas",
+"type": "building",
+"sitelinks": 1,
+"score": 31,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": false
+},
+{
+"qid": "Q7691937",
+"name": "Teatro Oficina",
+"architect": "Lina Bo Bardi",
+"year": 1982,
+"country": "Brazil",
+"region": "Americas",
+"type": "theatre building",
+"sitelinks": 1,
+"score": 31,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+},
+{
+"qid": "Q336088",
+"name": "Estádio Nacional de Brasília",
+"architect": "Gerkan, Marg and Partners",
+"year": 1974,
+"country": "Brazil",
+"region": "Americas",
+"type": "stadium",
+"sitelinks": 53,
+"score": 30,
+"star": false,
+"why": [
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q3696052",
+"name": "İzmir Clock Tower",
+"architect": "Raymond Charles Péré",
+"year": 1901,
+"country": "Turkey",
+"region": "Middle East",
+"type": "clock tower",
+"sitelinks": 20,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q61563",
+"name": "Baku Academy of Music",
+"architect": "Mikayil Useynov",
+"year": 1920,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "university",
+"sitelinks": 19,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3354568",
+"name": "Navoi Theater",
+"architect": "Alexey Shchusev",
+"year": 1939,
+"country": "Uzbekistan",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 18,
+"score": 30,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q2389872",
+"name": "Vahdat Hall",
+"architect": "Eugene Aftandelians",
+"year": 1967,
+"country": "Iran",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 14,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q6401196",
+"name": "Khedive Palace",
+"architect": "Antonio Lasciac",
+"year": 1984,
+"country": "Turkey",
+"region": "Middle East",
+"type": "restaurant",
+"sitelinks": 13,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q12810669",
+"name": "Istanbul Lütfi Kırdar Convention and Exhibition Center",
+"architect": "Paolo Vietti-Violi",
+"year": 1949,
+"country": "Turkey",
+"region": "Middle East",
+"type": "convention center",
+"sitelinks": 12,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q4993148",
+"name": "Qasr Prison",
+"architect": "Nikolai Markov",
+"year": 1929,
+"country": "Iran",
+"region": "Middle East",
+"type": "architectural ensemble",
+"sitelinks": 12,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q12838148",
+"name": "Tomb of Javad Khan",
+"architect": "Məmməd İbrahimov",
+"year": 2005,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "tomb",
+"sitelinks": 10,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3032842",
+"name": "Museo de Arte Moderno",
+"architect": "Pedro Ramírez Vázquez",
+"year": 1964,
+"country": "Mexico",
+"region": "Americas",
+"type": "museum of modern art",
+"sitelinks": 10,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3851623",
+"name": "Saint Sarkis Church, Nor Nork",
+"architect": "Baghdasar Arzoumanian",
+"year": 1999,
+"country": "Armenia",
+"region": "Middle East",
+"type": "church building",
+"sitelinks": 10,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q290435",
+"name": "ADNOC Headquarters",
+"architect": "HOK",
+"year": 2015,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 9,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q4047261",
+"name": "Port Baku Towers",
+"architect": "Chapman Taylor",
+"year": 2011,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 9,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q5886657",
+"name": "Holy Trinity Church",
+"architect": "Baghdasar Arzoumanian",
+"year": 2003,
+"country": "Armenia",
+"region": "Middle East",
+"type": "church building",
+"sitelinks": 9,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3295046",
+"name": "Palacio Legislativo de San Lázaro",
+"architect": "Pedro Ramírez Vázquez",
+"year": 1981,
+"country": "Mexico",
+"region": "Americas",
+"type": "parliament building",
+"sitelinks": 7,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3336839",
+"name": "National Bank of Dubai",
+"architect": "Carlos Ott",
+"year": 1998,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 7,
+"score": 30,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q3352643",
+"name": "One Raffles Quay",
+"architect": "Kohn Pedersen Fox",
+"year": 2006,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "building complex",
+"sitelinks": 7,
+"score": 30,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": false
+},
+{
+"qid": "Q5954309",
+"name": "Tomb of Kamal-ol-molk",
+"architect": "Hooshang Seyhoun",
+"year": 1963,
+"country": "Iran",
+"region": "Middle East",
+"type": "tomb",
+"sitelinks": 7,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q10328566",
+"name": "Memorial do Rio Grande do Sul",
+"architect": "Theo Wiederspahn",
+"year": 2001,
+"country": "Brazil",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 5,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q3522590",
+"name": "The Sail @ Marina Bay",
+"architect": "NBBJ",
+"year": 2008,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 30,
+"star": false,
+"why": [],
+"next_batch": false
+},
+{
+"qid": "Q28714997",
+"name": "King Abdullah Financial District",
+"architect": "Zaha Hadid",
+"year": 2024,
+"country": "Saudi Arabia",
+"region": "Middle East",
+"type": "metro station",
+"sitelinks": 4,
+"score": 30,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q6813091",
+"name": "Bank Melli Iran (University of Tehran Branch)",
+"architect": "Jørn Utzon",
+"year": 1959,
+"country": "Iran",
+"region": "Middle East",
+"type": "bank building",
+"sitelinks": 3,
+"score": 30,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": false
+},
+{
+"qid": "Q61063975",
+"name": "Faculty of Management of the University of Tehran",
+"architect": "Hossein Amanat",
+"year": 1955,
+"country": "Iran",
+"region": "Middle East",
+"type": "faculty of management",
+"sitelinks": 1,
+"score": 30,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": false
+}
+]

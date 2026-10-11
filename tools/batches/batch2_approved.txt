@@ -1,0 +1,38 @@
+# Held back by merge_batch.py, approved by the owner on 11 October 2026 with the curated years:
+# Wikidata gives a founding, design or rebuilding year (or lists Hong Kong under China, Taiwan under Japan).
+# Café De Unie and the Cuvilliés Theatre were rebuilt; their Key features line says so.
+Q748106  # Glasgow School of Art, 1909
+Q6821069  # Mesa Laboratory (NCAR), 1967
+Q3890034  # Pampulha Art Museum (former Casino), 1943
+Q15880551  # Pastoor van Arskerk, 1969
+Q5164991  # Contemporary Jewish Museum, 2008
+Q3152226  # Institute of Contemporary Art, Boston, 2006
+Q5417350  # Everson Museum of Art, 1968
+Q2836969  # Casa Bloc, 1936
+Q335894  # Karlsplatz Stadtbahn Pavilions, 1899
+Q4948040  # Boston Public Library, McKim Building, 1895
+Q214022  # Belvedere 21, 1962
+Q670209  # New Synagogue Dresden, 2001
+Q4989606  # Café De Unie, 1925
+Q15646865  # Geschwister-Scholl-Schule, 1962
+Q705054  # Douaumont Ossuary, 1932
+Q797017  # Cathedral of Learning, 1937
+Q650308  # Castel Béranger, 1898
+Q5056884  # Cedar Rock (Walter House), 1950
+Q128316  # Honolulu Museum of Art, 1927
+Q884204  # Museum of East Asian Art, 1977
+Q7132618  # Paper Dome (Paper Church), 2008
+Q17382129  # Lappia Hall, 1975
+Q2916280  # Berkeley Art Museum (original building), 1970
+Q2386234  # Tabakfabrik Linz, 1935
+Q743773  # Tokyo Metropolitan Teien Art Museum, 1933
+Q2675725  # Autrique House, 1893
+Q106073023  # Gavina Showroom, 1963
+Q3815086  # Palazzo Piccolomini, 1462
+Q532191  # Cuvilliés Theatre, 1753
+Q700751  # Museum of Military History (Arsenal), 1856
+Q745866  # Dallas Museum of Art, 1984
+Q2705493  # Palazzo dell'Arte (Triennale di Milano), 1933
+Q7099120  # Opus Hong Kong, 2012
+Q414078  # Academy of Arts, Hanseatenweg, 1960
+Q896764  # Tagblatt-Turm, 1928

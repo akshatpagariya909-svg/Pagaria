@@ -103,6 +103,7 @@ a:hover { color: var(--red); }
 .cap .by { flex: 1 1 0; min-width: 0; font: 400 11px var(--mono); letter-spacing: .02em; color: rgba(255,255,255,.85); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-align: right; }
 .cap .r2 { font: 400 11px var(--mono); letter-spacing: .02em; color: rgba(255,255,255,.75); }
 
+.dtag { position: absolute; top: 8px; left: 8px; padding: 3px 7px; font: 500 10px var(--mono); color: #3E3D39; background: #fff; border: 1px solid rgba(17,17,16,0.22); border-radius: var(--r); pointer-events: none; }
 .slot { position: absolute; inset: 0; padding: 14px 16px 16px; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; pointer-events: none; }
 .slot::before { content: ''; position: absolute; inset: 8px; border: 1px dashed rgba(17,17,16,0.22); }
 .slot .k { font: 500 10px var(--mono); letter-spacing: 0.06em; text-transform: uppercase; color: #3E3D39; }

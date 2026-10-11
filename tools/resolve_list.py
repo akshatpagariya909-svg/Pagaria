@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Find the Wikidata item for each hand-picked building in tools/harvest/extra.json.
+"""Find the Wikidata item for each hand-picked building in tools/harvest/extra.json (or another list).
+
+  python -u tools/resolve_list.py              # extra.json -> extra_resolved.json
+  python -u tools/resolve_list.py extra3_south # extra3_south.json -> extra3_south_resolved.json
 
 Each entry needs name, by and city. The search tries Wikipedia (title, then a search that must
 name the building), then Wikidata's own search; an item is accepted only when its architect or
@@ -12,8 +15,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fetch_images import api, WD, wiki_article, tokens, GENERIC  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-IN = ROOT / 'tools' / 'harvest' / 'extra.json'
-OUT = ROOT / 'tools' / 'harvest' / 'extra_resolved.json'
+LIST = sys.argv[1] if len(sys.argv) > 1 else 'extra'
+IN = ROOT / 'tools' / 'harvest' / f'{LIST}.json'
+OUT = ROOT / 'tools' / 'harvest' / f'{LIST}_resolved.json'
+REPORT = OUT.with_name('resolve_report.txt' if LIST == 'extra' else f'{LIST}_resolve_report.txt')
 
 
 def facts(qid):
@@ -78,9 +83,12 @@ def main():
         print(report[-1], flush=True)
         out.append({**e, 'qid': qid, **({k: f[k] for k in ('commons', 'image', 'coords')} if qid else {})})
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=0))
-    OUT.with_name('resolve_report.txt').write_text('\n'.join(report) + '\n')
+    REPORT.write_text('\n'.join(report) + '\n')
     print(f"{sum(1 for o in out if o['qid'])}/{len(out)} resolved")
 
 
 if __name__ == '__main__':
-    sys.exit(main())
+    for LIST in (sys.argv[1:] or ['extra']):  # several lists in one run
+        IN, OUT = ROOT / 'tools' / 'harvest' / f'{LIST}.json', ROOT / 'tools' / 'harvest' / f'{LIST}_resolved.json'
+        REPORT = OUT.with_name('resolve_report.txt' if LIST == 'extra' else f'{LIST}_resolve_report.txt')
+        main()

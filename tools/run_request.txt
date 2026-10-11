@@ -1,2 +1,2 @@
-python -u tools/build_pages.py
-Rebuild building pages after replacing the Millau Viaduct lead photo (the old lead showed a church in Peyre).
+python -u tools/resolve_list.py extra3_architects extra3_south extra3_regions
+Match the three batch 3 hand lists to Wikidata (qid, Commons folder, photo, coordinates).

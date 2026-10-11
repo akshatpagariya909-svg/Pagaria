@@ -1,2 +1,2 @@
 --minutes 300
-Fetch photos for the 32 approved batch 1 buildings.
+Fetch photos for the 35 approved batch 2 buildings (rerun after the review-page fix).

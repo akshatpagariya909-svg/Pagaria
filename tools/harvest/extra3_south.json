@@ -1,0 +1,1192 @@
+[
+ {
+  "name": "Parliament Library Building",
+  "by": "Raj Rewal",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "2002",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Kept low beside the round Parliament House, with courtyards and a central steel-and-glass dome.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "L. D. Institute of Indology",
+  "by": "Balkrishna Doshi",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1962",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Climate response"
+  ],
+  "features": "Concrete pavilion with a cantilevered upper floor and deep shaded verandahs guarding old manuscripts.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "British Council, New Delhi",
+  "by": "Charles Correa",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1992",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "An axis through layered courts; Howard Hodgkin's banyan tree in black and white stone spans the facade.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "National Crafts Museum",
+  "by": "Charles Correa",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "Village-like cluster of low pavilions along a meandering open-air street of courtyards.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Kala Academy",
+  "by": "Charles Correa",
+  "city": "Panaji",
+  "cc": "IN",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Promenade",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "Pergola-shaded walkways and an open-air amphitheatre beside the Mandovi river.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Jeevan Bharati Building",
+  "by": "Charles Correa",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Two red sandstone and glass blocks linked by a giant pergola that frames a plaza on Connaught Place.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Villa Sarabhai",
+  "by": "Le Corbusier",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Brick",
+   "Climate response"
+  ],
+  "features": "Parallel Catalan brick vaults on bearing walls, with a grass roof and a slide down into the pool.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Open Hand Monument",
+  "by": "Le Corbusier",
+  "city": "Chandigarh",
+  "cc": "IN",
+  "year": "1985",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Sheet-metal hand that turns in the wind above a sunken amphitheatre, the Trench of Consideration.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Wall House",
+  "by": "Anupama Kundoo",
+  "city": "Auroville",
+  "cc": "IN",
+  "year": "2000",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Earth & local material",
+   "Low cost"
+  ],
+  "features": "Exposed brick walls and roofs of hollow terracotta tubes, an experiment in low-energy local building.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Palmyra House",
+  "by": "Studio Mumbai",
+  "city": "Nandgaon",
+  "cc": "IN",
+  "year": "2007",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Landscape"
+  ],
+  "features": "Two timber volumes screened by louvres cut from palmyra palm trunks, set in a coconut grove.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Embassy of Belgium, New Delhi",
+  "by": "Satish Gujral",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1983",
+  "type": "Civic",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Sculpted brick and granite forms half sunk into landscaped mounds, like an excavated ruin.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Triveni Kala Sangam",
+  "by": "Joseph Allen Stein",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Planting",
+   "Community"
+  ],
+  "features": "Galleries, studios and an open-air theatre around planted courtyards, screened by jali walls.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Sardar Vallabhbhai Patel Stadium",
+  "by": "Charles Correa, Mahendra Raj",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1966",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Exposed concrete"
+  ],
+  "features": "Folded-plate concrete roof cantilevered over the stands, the structure left fully on show.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Bihar Museum",
+  "by": "Maki and Associates, Opolis",
+  "city": "Patna",
+  "cc": "IN",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Low weathering-steel-clad pavilions linked around courtyards and gardens that keep old trees on site.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Chhatrapati Shivaji Maharaj International Airport Terminal 2",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Coffered roof on tall mushroom columns, pierced by skylights in a peacock-feather pattern.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Taj Mahal",
+  "by": "Ustad Ahmad Lahauri",
+  "city": "Agra",
+  "cc": "IN",
+  "year": "1653",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "White marble tomb on a raised plinth at the end of a quartered garden, framed by four minarets.",
+  "keep": 3,
+  "list": "south"
+ },
+ {
+  "name": "Badshahi Mosque",
+  "by": "Mughal builders",
+  "city": "Lahore",
+  "cc": "PK",
+  "year": "1673",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Red sandstone prayer hall with three marble domes facing a vast courtyard ringed by minarets.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Pakistan Monument",
+  "by": "Arif Masoud",
+  "city": "Islamabad",
+  "cc": "PK",
+  "year": "2007",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Four large and three small granite petals open in a ring, their inner faces carved with murals.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Minar-e-Pakistan",
+  "by": "Nasreddin Murat-Khan",
+  "city": "Lahore",
+  "cc": "PK",
+  "year": "1968",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Tapering concrete tower rising from a flower-shaped base of stepped platforms, set in a large park.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Friendship Hospital Satkhira",
+  "by": "Kashef Mahboob Chowdhury",
+  "city": "Satkhira",
+  "cc": "BD",
+  "year": "2018",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Water",
+   "Courtyard"
+  ],
+  "features": "Brick wards set along a rain-fed canal that runs through the hospital, cooling its courtyards.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Shaheed Minar, Dhaka",
+  "by": "Hamidur Rahman, Novera Ahmed",
+  "city": "Dhaka",
+  "cc": "BD",
+  "year": "1963",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Slender white frames on a stepped platform, the central one bowed like a mother over her children.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Anandaloy",
+  "by": "Anna Heringer",
+  "city": "Rudrapur",
+  "cc": "BD",
+  "year": "2020",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Circulation"
+  ],
+  "features": "Mud and bamboo centre with a ramp winding round its walls, built by hand with local craftspeople.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Baitul Mukarram",
+  "by": "Abdulhusein M. Thariani",
+  "city": "Dhaka",
+  "cc": "BD",
+  "year": "1968",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Domeless cubic prayer hall recalling the Kaaba, raised on a broad podium in the city centre.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Heritance Ahungalla",
+  "by": "Geoffrey Bawa",
+  "city": "Ahungalla",
+  "cc": "LK",
+  "year": "1981",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Axis"
+  ],
+  "features": "Open lobby framing a long pool that seems to run straight on into the sea.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Jetwing Lighthouse",
+  "by": "Geoffrey Bawa",
+  "city": "Galle",
+  "cc": "LK",
+  "year": "1997",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Circulation",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Hotel on a rocky headland; its spiral stair winds round Laki Senanayake's bronze battle sculpture.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Independence Memorial Hall",
+  "by": "Tom Neville Wynne-Jones",
+  "city": "Colombo",
+  "cc": "LK",
+  "year": "1953",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Open pillared hall under a tiered Kandyan roof, modelled on a royal audience hall.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Punakha Dzong",
+  "by": "Zhabdrung Ngawang Namgyal",
+  "city": "Punakha",
+  "cc": "BT",
+  "year": "1638",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Timber",
+   "Water"
+  ],
+  "features": "Whitewashed fortress-monastery where two rivers meet, with tiered timber roofs over its courtyards.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Hukuru Miskiy",
+  "by": "Maldivian builders",
+  "city": "Malé",
+  "cc": "MV",
+  "year": "1658",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Timber"
+  ],
+  "features": "Mosque of interlocking carved coral stone blocks, with a lacquered and carved timber interior.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Nyatapola",
+  "by": "Newar builders",
+  "city": "Bhaktapur",
+  "cc": "NP",
+  "year": "1702",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Five-tiered pagoda on a five-stepped plinth, its stair lined with pairs of guardian figures.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Oasia Hotel Downtown",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2016",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "Tower wrapped in red aluminium mesh grown over with creepers, opened up by breezy sky gardens.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "School of the Arts, Singapore",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Planting",
+   "Public space"
+  ],
+  "features": "Teaching blocks above a public podium of theatres, with green walls and shaded breezeways.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "People's Park Complex",
+  "by": "Design Partnership",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1973",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Void",
+   "Public space"
+  ],
+  "features": "Shopping podium with a central atrium 'city room' below a long slab block of flats.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Singapore Conference Hall",
+  "by": "Malayan Architects Co-Partnership",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Glazed hall under a broad overhanging roof, with sunshading fins along its facades.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "National Library Building",
+  "by": "T. R. Hamzah & Yeang",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2005",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Planting"
+  ],
+  "features": "Two blocks linked by bridges round a shaded open atrium, with sun-shading blades and sky gardens.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Supertree Grove",
+  "by": "Grant Associates, WilkinsonEyre",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2012",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Steel tree-shaped towers clad in living plants, joined by a high walkway.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Helix Bridge",
+  "by": "Cox Architecture, Architects 61, Arup",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2010",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Footbridge framed by two stainless-steel helices wound round each other like DNA.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "ArtScience Museum",
+  "by": "Safdie Architects",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Water"
+  ],
+  "features": "Lotus-like ring of curved 'fingers' with skylights at their tips, set over a lily pond.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "LASALLE College of the Arts",
+  "by": "RSP Architects Planners & Engineers",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Dark-clad blocks split around a central void whose inner walls are faced in glass.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "The Hive, Nanyang Technological University",
+  "by": "Heatherwick Studio",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Exposed concrete",
+   "Cluster"
+  ],
+  "features": "Cluster of rounded towers of tutorial rooms around a central atrium, in textured concrete.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "CapitaSpring",
+  "by": "BIG, Carlo Ratti Associati",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2021",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "Tower of vertical fins that part at mid-height around a spiralling open-air garden.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Malaysian Houses of Parliament",
+  "by": "William Ivor Shipley",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "1963",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Tower with a grid of precast sunscreens beside a low hall under a crown of triangular roofs.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Menara Tabung Haji",
+  "by": "Hijjas Kasturi",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Round tower held by five external columns, its form drawn from a drum and the five pillars of Islam.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "National Museum (Malaysia)",
+  "by": "Ho Kwong Yew",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "1963",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Long hall under a tall Malay-style roof, its front decorated with large mosaic murals.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Menara UMNO",
+  "by": "T. R. Hamzah & Yeang",
+  "city": "George Town",
+  "cc": "MY",
+  "year": "1998",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Human comfort"
+  ],
+  "features": "Slim tower with wing walls that catch the wind and steer it into the floors for natural cooling.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Potato Head Beach Club",
+  "by": "Andra Matin",
+  "city": "Seminyak",
+  "cc": "ID",
+  "year": "2010",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Facade as skin",
+   "Timber"
+  ],
+  "features": "Curved wall clad in hundreds of reclaimed wooden window shutters, wrapping a lawn and pool.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Kampung Kali Code",
+  "by": "Y. B. Mangunwijaya",
+  "city": "Yogyakarta",
+  "cc": "ID",
+  "year": "1985",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Community",
+   "Low cost",
+   "Earth & local material"
+  ],
+  "features": "Riverbank houses of bamboo and timber, built and painted with residents of a squatter settlement.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "National Monument (Indonesia)",
+  "by": "Frederich Silaban, R. M. Soedarsono",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "1975",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Tall obelisk tipped with a gilded flame, rising from a square platform in Merdeka Square.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Al-Irsyad Mosque",
+  "by": "Ridwan Kamil",
+  "city": "Padalarang",
+  "cc": "ID",
+  "year": "2010",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Cube of stacked blocks whose gaps spell out the shahada, filtering daylight into the hall.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "House for Trees",
+  "by": "Vo Trong Nghia",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "2014",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Cluster",
+   "Courtyard"
+  ],
+  "features": "Concrete boxes like giant plant pots with trees on their roofs, grouped around a small courtyard.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Bamboo Wing",
+  "by": "Vo Trong Nghia",
+  "city": "Phuc Yen",
+  "cc": "VN",
+  "year": "2009",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Structure as expression",
+   "Cantilever"
+  ],
+  "features": "Bamboo roof spreading like a bird's wing from bundled bamboo columns, built without steel.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Ho Chi Minh Mausoleum",
+  "by": "Garol Isakovich",
+  "city": "Hanoi",
+  "cc": "VN",
+  "year": "1975",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Grey granite block on a stepped base with a portico of square columns, facing Ba Dinh Square.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Bitexco Financial Tower",
+  "by": "Carlos Zapata",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Steel & glass"
+  ],
+  "features": "Tapering glass tower shaped like a lotus bud, with a helipad cantilevered from its upper floors.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Hanoi Museum",
+  "by": "gmp Architekten",
+  "city": "Hanoi",
+  "cc": "VN",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Cantilever",
+   "Circulation"
+  ],
+  "features": "Inverted stepped pyramid, each floor wider than the one below, around a spiralling ramp.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Elephant Building",
+  "by": "Ong-ard Satrabhandhu",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "1997",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Colour"
+  ],
+  "features": "Three towers joined at the top to read as an elephant, with round windows for eyes.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Bangkok Art and Culture Centre",
+  "by": "Robert G. Boughey & Associates",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Light from above",
+   "Void"
+  ],
+  "features": "Galleries ringed around a tall circular atrium climbed by a spiralling ramp.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Suvarnabhumi Airport",
+  "by": "Murphy/Jahn",
+  "city": "Samut Prakan",
+  "cc": "TH",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Steel & glass",
+   "Light from above"
+  ],
+  "features": "Vast steel-truss roof over the terminal; concourses covered in translucent membrane panels.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Jim Thompson House",
+  "by": "Jim Thompson",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "1959",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Planting"
+  ],
+  "features": "Old teak houses moved and joined on stilts beside a canal, in a dense tropical garden.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Chulalongkorn University Centenary Park",
+  "by": "Landprocess",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "2017",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Tilted park that gathers rainwater into wetlands and a retention lawn to ease city flooding.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Philippine International Convention Center",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": "1976",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "Long horizontal concrete mass that seems to float over a recessed glazed base.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "EDSA Shrine",
+  "by": "Francisco Mañosa",
+  "city": "Quezon City",
+  "cc": "PH",
+  "year": "1989",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Public space",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Church raised on a public plaza at a city crossroads, crowned by a bronze statue of Mary.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "San Miguel Corporation Building",
+  "by": "Mañosa & Partners",
+  "city": "Mandaluyong",
+  "cc": "PH",
+  "year": "1984",
+  "type": "Office & tower",
+  "movement": "Regionalism",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Brise-soleil"
+  ],
+  "features": "Office block wrapped in stepped planted terraces and deep sunshades, a tropical take on the tower.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Quezon Memorial Shrine",
+  "by": "Federico Ilustre",
+  "city": "Quezon City",
+  "cc": "PH",
+  "year": "1978",
+  "type": "Memorial",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Three tall pylons topped by winged figures, over a museum and the president's mausoleum.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Chaktomuk Conference Hall",
+  "by": "Vann Molyvann",
+  "city": "Phnom Penh",
+  "cc": "KH",
+  "year": "1961",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Structure as expression"
+  ],
+  "features": "Fan-shaped hall on the riverfront, its plan opening out like a palm leaf toward the water.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Independence Monument (Cambodia)",
+  "by": "Vann Molyvann",
+  "city": "Phnom Penh",
+  "cc": "KH",
+  "year": "1962",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Axis"
+  ],
+  "features": "Lotus-shaped tower in the form of an Angkorian temple spire, layered with naga heads.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Wat Xieng Thong",
+  "by": "Lao builders",
+  "city": "Luang Prabang",
+  "cc": "LA",
+  "year": "1560",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Temple hall whose layered roofs sweep almost to the ground, with gilded and glass-mosaic walls.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Ananda Temple",
+  "by": "Bagan builders",
+  "city": "Bagan",
+  "cc": "MM",
+  "year": "1105",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Brick"
+  ],
+  "features": "Cross-plan brick temple; high hidden openings light four standing Buddhas from above.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Kempegowda International Airport Terminal 2",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "2022",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "A terminal set in gardens, with bamboo-clad ceilings and hanging plants through the halls.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Folk Arts Theater",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": "1974",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Wide amphitheatre under a broad, low concrete roof that seems to hover over the seats.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "National Stadium, Singapore",
+  "by": "Arup Associates, DP Architects",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Thin steel dome spanning the whole bowl, with a retractable roof that slides shut for shade.",
+  "keep": 2,
+  "list": "south"
+ },
+ {
+  "name": "Vietnam National Convention Center",
+  "by": "gmp Architekten",
+  "city": "Hanoi",
+  "cc": "VN",
+  "year": "2006",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Long hall under a wave-shaped roof that rolls along the facade, echoing the sea.",
+  "keep": 2,
+  "list": "south"
+ }
+]

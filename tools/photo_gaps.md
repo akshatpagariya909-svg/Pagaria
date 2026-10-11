@@ -4,22 +4,22 @@ Buildings we can't show well with free photos yet. Made by `tools/photo_gaps.py`
 
 ## No free photo at all (10)
 
-Commons has no usable free photo. Target later with licensed photos (owner decides how).
+Commons has no usable free photo. The site shows our own line drawing where one exists; licensed photos are for the owner to decide.
 
 | # | Building | Architect | Place | Photos now | Commons |
 |---|---|---|---|---|---|
-| 26 | Golconde | Antonin Raymond, George Nakashima | Puducherry, IN | none | [Category:Antonin Raymond](https://commons.wikimedia.org/wiki/Category:Antonin_Raymond) |
-| 46 | Sangath | B. V. Doshi | Ahmedabad, IN | none | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
-| 47 | Aranya Low Cost Housing | B. V. Doshi | Indore, IN | none | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
-| 48 | Kanchanjunga Apartments | Charles Correa | Mumbai, IN | none | [Category:Charles Correa](https://commons.wikimedia.org/wiki/Category:Charles_Correa) |
-| 50 | Centre for Development Studies | Laurie Baker | Thiruvananthapuram, IN | none | [Category:Laurie Baker](https://commons.wikimedia.org/wiki/Category:Laurie_Baker) |
-| 62 | Quinta Monroy | Alejandro Aravena, Elemental | Iquique, CL | none | [Category:Alejandro Aravena](https://commons.wikimedia.org/wiki/Category:Alejandro_Aravena) |
-| 67 | Moriyama House | Ryue Nishizawa | Tokyo, JP | none | [Category:Ryue Nishizawa](https://commons.wikimedia.org/wiki/Category:Ryue_Nishizawa) |
-| 68 | KAIT Workshop | Junya Ishigami | Atsugi, JP | none | [Category:Kanagawa Institute of Technology](https://commons.wikimedia.org/wiki/Category:Kanagawa_Institute_of_Technology) |
-| 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | none | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
-| 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | none | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
+| 26 | Golconde | Antonin Raymond, George Nakashima | Puducherry, IN | Drawing | [Category:Antonin Raymond](https://commons.wikimedia.org/wiki/Category:Antonin_Raymond) |
+| 46 | Sangath | B. V. Doshi | Ahmedabad, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
+| 47 | Aranya Low Cost Housing | B. V. Doshi | Indore, IN | Drawing | [Category:Balkrishna Doshi](https://commons.wikimedia.org/wiki/Category:Balkrishna_Doshi) |
+| 48 | Kanchanjunga Apartments | Charles Correa | Mumbai, IN | Drawing | [Category:Charles Correa](https://commons.wikimedia.org/wiki/Category:Charles_Correa) |
+| 50 | Centre for Development Studies | Laurie Baker | Thiruvananthapuram, IN | Drawing | [Category:Laurie Baker](https://commons.wikimedia.org/wiki/Category:Laurie_Baker) |
+| 62 | Quinta Monroy | Alejandro Aravena, Elemental | Iquique, CL | Drawing | [Category:Alejandro Aravena](https://commons.wikimedia.org/wiki/Category:Alejandro_Aravena) |
+| 67 | Moriyama House | Ryue Nishizawa | Tokyo, JP | Drawing | [Category:Ryue Nishizawa](https://commons.wikimedia.org/wiki/Category:Ryue_Nishizawa) |
+| 68 | KAIT Workshop | Junya Ishigami | Atsugi, JP | Drawing | [Category:Kanagawa Institute of Technology](https://commons.wikimedia.org/wiki/Category:Kanagawa_Institute_of_Technology) |
+| 89 | ICD/ITKE Research Pavilion 2012 | University of Stuttgart | Stuttgart, DE | Drawing | [Category:ICD/ITKE Research Pavilion](https://commons.wikimedia.org/wiki/Category:ICD/ITKE_Research_Pavilion) |
+| 91 | Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN | Drawing | [Category:Vo Trong Nghia Architects](https://commons.wikimedia.org/wiki/Category:Vo_Trong_Nghia_Architects) |
 
-## No exterior photo (9)
+## No exterior photo (17)
 
 They have photos, but none of the outside. Check Commons by hand first: some may be mislabelled.
 
@@ -34,8 +34,16 @@ They have photos, but none of the outside. Check Commons by hand first: some may
 | 714 | Tagore Memorial Hall | Balkrishna Doshi | Ahmedabad, IN | Interior, Interior | [Category:Tagore Memorial Hall](https://commons.wikimedia.org/wiki/Category:Tagore_Memorial_Hall) |
 | 1010 | Salerno Maritime Terminal | Zaha Hadid Architects | Salerno, IT | Interior, Interior, Context | [Category:Salerno Maritime Terminal](https://commons.wikimedia.org/wiki/Category:Salerno_Maritime_Terminal) |
 | 1048 | Kyoto Concert Hall | Arata Isozaki | Kyoto, JP | Interior, Interior, Interior, Interior | [Category:Kyoto Concert Hall](https://commons.wikimedia.org/wiki/Category:Kyoto_Concert_Hall) |
+| 1146 | Guild House | Venturi and Rauch | Philadelphia, US | Context | none found |
+| 1160 | Cube Houses | Piet Blom | Rotterdam, NL | Context | [Category:Cube houses](https://commons.wikimedia.org/wiki/Category:Cube_houses) |
+| 1187 | Humana Building | Michael Graves | Louisville, US | Context, Context | [Category:Humana Building](https://commons.wikimedia.org/wiki/Category:Humana_Building) |
+| 1233 | Sheldon Museum of Art | Philip Johnson | Lincoln, US | Context, Interior, Interior, Detail, Context | [Category:Sheldon Museum of Art (Lincoln, Nebraska)](https://commons.wikimedia.org/wiki/Category:Sheldon_Museum_of_Art_%28Lincoln%2C_Nebraska%29) |
+| 1287 | Andrew Melville Hall | James Stirling | St Andrews, GB | Interior, Interior, Interior, Interior | [Category:Andrew Melville Hall](https://commons.wikimedia.org/wiki/Category:Andrew_Melville_Hall) |
+| 1342 | Garden of Fine Arts, Kyoto | Tadao Ando | Kyoto, JP | Context, Context | [Category:Garden of Fine Art, Kyoto](https://commons.wikimedia.org/wiki/Category:Garden_of_Fine_Art%2C_Kyoto) |
+| 1371 | Hallfield Primary School | Denys Lasdun | London, GB | Interior, Interior, Interior | [Category:Hallfield Primary School](https://commons.wikimedia.org/wiki/Category:Hallfield_Primary_School) |
+| 1374 | Constance Perkins House | Richard Neutra | Pasadena, US | Context | none found |
 
-## Fewer than 4 photos (57)
+## Fewer than 4 photos (85)
 
 They show, but the gallery is thin.
 
@@ -98,8 +106,36 @@ They show, but the gallery is thin.
 | 1124 | Athens Olympic Stadium roof | Santiago Calatrava | Athens, GR | Detail, Exterior | [Category:Athens Olympic Sports Complex](https://commons.wikimedia.org/wiki/Category:Athens_Olympic_Sports_Complex) |
 | 1126 | Kurashiki City Art Museum (former City Hall) | Kenzō Tange | Kurashiki, JP | Exterior, Interior, Interior | [Category:Kurashiki City Art Museum](https://commons.wikimedia.org/wiki/Category:Kurashiki_City_Art_Museum) |
 | 1132 | State Historical Museum | Vladimir Sherwood | Moscow, RU | Exterior, Exterior | [Category:Moscow State Historical Museum](https://commons.wikimedia.org/wiki/Category:Moscow_State_Historical_Museum) |
+| 1138 | Casa das Canoas | Oscar Niemeyer | Rio de Janeiro, BR | Exterior | [Category:Casa das Canoas](https://commons.wikimedia.org/wiki/Category:Casa_das_Canoas) |
+| 1148 | Japan Pavilion, Expo 2000 | Shigeru Ban with Frei Otto | Hanover, DE | Exterior, Exterior, Exterior | [Category:Pavilion of Japan (Expo 2000)](https://commons.wikimedia.org/wiki/Category:Pavilion_of_Japan_%28Expo_2000%29) |
+| 1151 | Rosenthal Center for Contemporary Art | Zaha Hadid | Cincinnati, US | Exterior, Exterior, Exterior | [Category:Rosenthal Contemporary Arts Center](https://commons.wikimedia.org/wiki/Category:Rosenthal_Contemporary_Arts_Center) |
+| 1152 | Galeries Lafayette Berlin | Jean Nouvel | Berlin, DE | Exterior, Exterior | [Category:Quartier 207](https://commons.wikimedia.org/wiki/Category:Quartier_207) |
+| 1154 | Olivetti Showroom | Carlo Scarpa | Venice, IT | Exterior, Exterior | [Category:Negozio Olivetti (Venice)](https://commons.wikimedia.org/wiki/Category:Negozio_Olivetti_%28Venice%29) |
+| 1164 | Tower House | Takamitsu Azuma | Tokyo, JP | Exterior | none found |
+| 1179 | Case Study House #21 (Bailey House) | Pierre Koenig | Los Angeles, US | Exterior, Exterior | [Category:Bailey House (Los Angeles)](https://commons.wikimedia.org/wiki/Category:Bailey_House_%28Los_Angeles%29) |
+| 1191 | Co-Cathedral of the Great Mother of God (Gran Madre di Dio) | Gio Ponti | Taranto, IT | Exterior, Exterior, Exterior | [Category:Concattedrale Gran Madre di Dio](https://commons.wikimedia.org/wiki/Category:Concattedrale_Gran_Madre_di_Dio) |
+| 1201 | Maison Jean Prouvé | Jean Prouvé | Nancy, FR | Exterior, Exterior | [Category:Maison de Jean Prouvé](https://commons.wikimedia.org/wiki/Category:Maison_de_Jean_Prouv%C3%A9) |
+| 1210 | Fisher House | Louis Kahn | Hatboro, US | Exterior, Exterior | [Category:Fisher House (Hatboro, Pennsylvania)](https://commons.wikimedia.org/wiki/Category:Fisher_House_%28Hatboro%2C_Pennsylvania%29) |
+| 1211 | Umbrella House (Hiss Residence) | Paul Rudolph | Sarasota, US | Exterior, Exterior | [Category:Hiss Residence](https://commons.wikimedia.org/wiki/Category:Hiss_Residence) |
+| 1216 | Monte Amiata Housing (Gallaratese) | Carlo Aymonino and Aldo Rossi | Milan, IT | Exterior, Exterior | [Category:Monte Amiata housing estate](https://commons.wikimedia.org/wiki/Category:Monte_Amiata_housing_estate) |
+| 1244 | The Atheneum | Richard Meier | New Harmony, US | Exterior | [Category:The Atheneum, New Harmony](https://commons.wikimedia.org/wiki/Category:The_Atheneum%2C_New_Harmony) |
+| 1246 | Utzon House, Hellebæk | Jørn Utzon | Hellebæk, DK | Exterior, Detail | [Category:Utzon's House in Hellebæk](https://commons.wikimedia.org/wiki/Category:Utzon%27s_House_in_Helleb%C3%A6k) |
+| 1274 | Istituto Marchiondi Spagliardi | Vittoriano Viganò | Milan, IT | Exterior, Exterior, Exterior | [Category:Istituto Marchiondi Spagliardi](https://commons.wikimedia.org/wiki/Category:Istituto_Marchiondi_Spagliardi) |
+| 1282 | Nemausus | Jean Nouvel | Nîmes, FR | Exterior | [Category:Nemausus 1](https://commons.wikimedia.org/wiki/Category:Nemausus_1) |
+| 1297 | Bankinter Building | Rafael Moneo and Ramón Bescós | Madrid, ES | Exterior, Exterior, Exterior | [Category:Bankinter building, Madrid](https://commons.wikimedia.org/wiki/Category:Bankinter_building%2C_Madrid) |
+| 1299 | Sant Antoni-Joan Oliver Library | RCR Arquitectes | Barcelona, ES | Exterior, Exterior, Exterior | [Category:Biblioteca Sant Antoni-Joan Oliver](https://commons.wikimedia.org/wiki/Category:Biblioteca_Sant_Antoni-Joan_Oliver) |
+| 1303 | Maison Planeix | Le Corbusier | Paris, FR | Exterior | [Category:Maison Planeix](https://commons.wikimedia.org/wiki/Category:Maison_Planeix) |
+| 1316 | Watari Museum of Contemporary Art (Watari-um) | Mario Botta | Tokyo, JP | Exterior, Exterior | [Category:Watari Museum of Contemporary Art](https://commons.wikimedia.org/wiki/Category:Watari_Museum_of_Contemporary_Art) |
+| 1345 | Skagen Odde Nature Centre | Jørn Utzon | Skagen, DK | Exterior, Exterior, Exterior | [Category:Skagen Odde Naturcenter](https://commons.wikimedia.org/wiki/Category:Skagen_Odde_Naturcenter) |
+| 1351 | Tour de Lille | Christian de Portzamparc | Lille, FR | Exterior | none found |
+| 1356 | Concord Pavilion | Frank Gehry | Concord, US | Exterior | none found |
+| 1357 | Ceramic Park Mino | Arata Isozaki | Tajimi, JP | Exterior, Exterior, Exterior | [Category:Ceramics Park MINO](https://commons.wikimedia.org/wiki/Category:Ceramics_Park_MINO) |
+| 1372 | San Francesco al Fopponino | Gio Ponti | Milan, IT | Exterior | [Category:San Francesco d'Assisi (Milan)](https://commons.wikimedia.org/wiki/Category:San_Francesco_d%27Assisi_%28Milan%29) |
+| 1375 | Jardinette Apartments | Richard Neutra | Los Angeles, US | Exterior, Exterior, Context | [Category:Jardinette Apartments](https://commons.wikimedia.org/wiki/Category:Jardinette_Apartments) |
+| 1388 | West Japan General Exhibition Center | Arata Isozaki | Kitakyushu, JP | Exterior | none found |
+| 1433 | Gavina Showroom | Carlo Scarpa | Bologna, IT | Exterior, Exterior, Exterior | [Category:Gavina shop (Bologna)](https://commons.wikimedia.org/wiki/Category:Gavina_shop_%28Bologna%29) |
 
-## Left off the wall for now (38)
+## Left off the wall for now (44)
 
 Their Commons folders show exhibits or events, not the building. Bring them back with hand-picked photos in `tools/image_choices.json`.
 
@@ -143,3 +179,9 @@ Their Commons folders show exhibits or events, not the building. Bring them back
 | San Francisco Federal Building | [Q7414007](https://www.wikidata.org/wiki/Q7414007) |
 | The Index | [Q1264855](https://www.wikidata.org/wiki/Q1264855) |
 | Palace of Justice (Punjab and Haryana High Court) | [Q130502](https://www.wikidata.org/wiki/Q130502) |
+| Notre-Dame du Raincy | [Q3246466](https://www.wikidata.org/wiki/Q3246466) |
+| Casa Bianchi | [Q29527503](https://www.wikidata.org/wiki/Q29527503) |
+| Hyogo Children's Museum | [Q11392907](https://www.wikidata.org/wiki/Q11392907) |
+| Beirut Terraces | [Q56295859](https://www.wikidata.org/wiki/Q56295859) |
+| Kumano Kodo Nakahechi Museum of Art | [Q11568880](https://www.wikidata.org/wiki/Q11568880) |
+| Disney Ice (Anaheim Ice) | [Q4750883](https://www.wikidata.org/wiki/Q4750883) |
