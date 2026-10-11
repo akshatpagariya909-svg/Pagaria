@@ -145,16 +145,74 @@
 
   /* ---------- opened building ---------- */
   const q = s => encodeURIComponent(s);
-  function related(b) {
-    return ALL.filter(x => x.id !== b.id).map(x => {
-      const shared = (x.concepts || []).filter(c => (b.concepts || []).includes(c));
-      let s = shared.length * 2;
-      if (x.type === b.type) s += 1;
-      if (x.by === b.by) s += 2.5;
-      if (x.movement === b.movement) s += 0.5;
-      return { x, s: s + ((x.n * 13 + b.n * 7) % 17) / 100, why: shared[0] || (x.by === b.by ? 'Same architect' : x.type) };
-    }).sort((p, r) => r.s - p.s).slice(0, 4);
+  const byOf = b => b.by.split(',').map(s => s.trim());
+  const firstArchitect = b => byOf(b)[0];
+  // Same type first by shared ideas, then a stable shuffle so each building gets a different few.
+  const mix = (b, x) => ((x.n * 13 + b.n * 7) % 17) / 100;
+  const sharedIdeas = (b, x) => (x.concepts || []).filter(c => (b.concepts || []).includes(c)).length;
+  const byArchitect = b => ALL.filter(x => x.id !== b.id && byOf(x).includes(firstArchitect(b)));
+  const sameType = b => ALL.filter(x => x.id !== b.id && x.type === b.type)
+    .sort((x, y) => sharedIdeas(b, y) + mix(b, y) - sharedIdeas(b, x) - mix(b, x));
+
+  /* ---------- who built it, and where ---------- */
+  const ARCH = window.ARCHITECTS || { people: {}, buildings: {} };
+  const WORLD = window.WORLD || null;
+  const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
+  const countryOf = b => { const c = b.place.split(', ').pop(); return CODE_FIX[c] || c; };
+  const countryName = code => (WORLD && WORLD.names[code]) || code;
+  function initials(name) {
+    const words = name.split(/\s+/).filter(w => /\p{L}/u.test(w));
+    if (words.length < 2) return (words[0] || '?').slice(0, 3).toUpperCase();
+    return (words[0][0] + words[words.length - 1][0]).toUpperCase();
   }
+  function portraitOf(b) {
+    for (const qid of ARCH.buildings[b.id] || []) { const p = ARCH.people[qid]; if (p && p.thumb) return p; }
+    return null;
+  }
+  function bylineHtml(b) {
+    const who = firstArchitect(b), p = portraitOf(b), n = byArchitect(b).length + 1;
+    const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : `<span class="face initials" aria-hidden="true">${esc(initials(who))}</span>`;
+    const text = `<span class="by-text"><i>by</i><b>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
+    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
+    return (n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+  }
+  // Natural Earth projection, the same as tools/make_world.py; coords are [lat, lon].
+  function project(lat, lon) {
+    const [x0, s, y0, top, bottom] = WORLD.proj;
+    const p = Math.max(bottom, Math.min(top, lat)) * Math.PI / 180, l = lon * Math.PI / 180, p2 = p * p, p4 = p2 * p2;
+    const x = l * (0.8707 - 0.131979 * p2 + p4 * (-0.013791 + p4 * (0.003971 * p2 - 0.001529 * p4)));
+    const y = p * (1.007226 + p2 * (0.015085 + p4 * (-0.044475 + 0.028874 * p2 - 0.005916 * p4)));
+    return [(x - x0) * s, (y0 - y) * s];
+  }
+  let worldLand = '';
+  function mapHtml(b) {
+    const code = countryOf(b), name = countryName(code);
+    if (!WORLD) return '';
+    worldLand = worldLand || Object.values(WORLD.paths).join('');
+    const here = WORLD.paths[code] || '';
+    const pt = b.coords ? project(b.coords[0], b.coords[1]) : WORLD.centre[code];
+    const c = pt || [WORLD.w / 2, WORLD.h / 2];
+    const box = WORLD.box[code] || [c[0], c[1], c[0], c[1]]; // countries too small to draw: just their point
+    // Frame the country with its neighbours around it: at least a sixth of the world wide, the whole world for the biggest.
+    const ratio = WORLD.h / WORLD.w;
+    const vw = box[2] - box[0] < WORLD.w / 2 ? Math.min(WORLD.w, Math.max(170, (box[2] - box[0]) * 2.4, (box[3] - box[1]) * 2.4 / ratio)) : WORLD.w;
+    const vh = vw * ratio;
+    const cx = vw < WORLD.w ? (box[0] + box[2]) / 2 : c[0], cy = vw < WORLD.w ? (box[1] + box[3]) / 2 : c[1];
+    const vx = Math.max(0, Math.min(WORLD.w - vw, cx - vw / 2)), vy = Math.max(0, Math.min(WORLD.h - vh, cy - vh / 2));
+    const u = vw / 190; // map units per screen pixel
+    const tiny = (box[2] - box[0]) / u < 6; // still too small to see: ring it
+    const at = pt ? `cx="${pt[0].toFixed(1)}" cy="${pt[1].toFixed(1)}"` : '';
+    return `<svg viewBox="${vx.toFixed(1)} ${vy.toFixed(1)} ${vw.toFixed(1)} ${vh.toFixed(1)}" role="img" aria-label="World map with ${esc(name)} marked"><path class="land" d="${worldLand}"/>` +
+      (here ? `<path class="here" d="${here}"/>` : '') +
+      (pt && tiny ? `<circle class="ring" ${at} r="${(8 * u).toFixed(1)}"/>` : '') +
+      (pt && b.coords ? `<circle class="pin" ${at} r="${(3.5 * u).toFixed(1)}"/>` : '') +
+      `</svg><span class="where-name">${esc(name)}</span>`;
+  }
+  function mapUrl(b) {
+    if (b.coords) { const [la, lo] = b.coords; return `https://www.openstreetmap.org/?mlat=${la}&mlon=${lo}#map=16/${la}/${lo}`; }
+    return 'https://www.openstreetmap.org/search?query=' + q(b.name + ', ' + b.place.split(',')[0] + ', ' + countryName(countryOf(b)));
+  }
+  const relHtml = list => list.map(x => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(x.year)} · ${esc(x.place.split(',')[0])}</small></button>`).join('');
 
   function showShot(k) {
     const b = state.open; if (!b) return;
@@ -208,7 +266,12 @@
     kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${b.type} · ${b.movement}`;
     kick.classList.toggle('surprise', !!surprise);
     $('bName').textContent = b.name;
-    $('bMeta').textContent = `${b.by} · ${b.place} · ${b.year}`;
+    const city = b.place.split(',')[0], country = countryName(countryOf(b));
+    $('byline').innerHTML = bylineHtml(b);
+    $('where').innerHTML = mapHtml(b);
+    $('where').href = mapUrl(b);
+    $('where').setAttribute('aria-label', `Open map: ${city === country ? city : city + ', ' + country}`);
+    $('bMeta').innerHTML = `${esc(city === country ? city : city + ', ' + country)} · ${esc(b.year)} · <a href="${esc(mapUrl(b))}" target="_blank" rel="noopener">Open map ↗</a>`;
     $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
@@ -217,7 +280,17 @@
     $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
       `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
 
-    $('rel').innerHTML = related(b).map(({ x, why }) => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(why)}</small></button>`).join('');
+    const mine = byArchitect(b), kin = sameType(b);
+    $('byArch').hidden = !mine.length;
+    $('byArchTitle').textContent = 'More by ' + firstArchitect(b);
+    $('byArchAll').textContent = `All ${mine.length + 1} →`;
+    $('byArchAll').dataset.arch = firstArchitect(b);
+    $('byArchRel').innerHTML = relHtml(mine.slice(0, 4));
+    $('sameType').hidden = !kin.length;
+    $('sameTypeTitle').textContent = 'More · ' + b.type;
+    $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
+    $('sameTypeAll').dataset.type = b.type;
+    $('sameTypeRel').innerHTML = relHtml(kin.slice(0, 4));
 
     sheet.hidden = false;
     document.body.classList.add('locked');
@@ -243,7 +316,17 @@
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
   $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  $('rel').addEventListener('click', e => { const t = e.target.closest('button[data-id]'); if (t) openBuilding(t.dataset.id); });
+  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => { const t = e.target.closest('button[data-id]'); if (t) openBuilding(t.dataset.id); }));
+  // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
+  function showOnWall(arch, type) {
+    GROUPS.forEach(g => state.filters[g.key].clear());
+    if (type) state.filters.type.add(type);
+    $('q').value = arch || ''; state.q = fold(arch || '');
+    closeBuilding(); buildFilters(); render(true);
+  }
+  $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
+  $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
+  $('sameTypeAll').addEventListener('click', e => showOnWall('', e.currentTarget.dataset.type));
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
     GROUPS.forEach(g => state.filters[g.key].clear());

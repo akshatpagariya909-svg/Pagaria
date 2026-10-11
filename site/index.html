@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=e67be620">
+<link rel="stylesheet" href="styles.css?v=aa6c7cb4">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -75,17 +75,29 @@
         <button type="button" class="close" id="close" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></svg></button>
       </div>
       <h1 id="bName"></h1>
+      <div class="whowhere">
+        <div class="byline" id="byline"></div>
+        <a class="where" id="where" target="_blank" rel="noopener"></a>
+      </div>
       <p class="meta" id="bMeta"></p>
       <p class="study" id="bStudy"></p>
-      <div class="chips" id="bChips"></div>
       <section>
         <h2>Go deeper</h2>
         <div class="links" id="links"></div>
       </section>
       <a class="page-link" id="pageLink" href="#">Open the full page →</a>
+      <section id="byArch">
+        <h2><span id="byArchTitle"></span><button type="button" class="all" id="byArchAll"></button></h2>
+        <div class="rel" id="byArchRel"></div>
+      </section>
+      <section id="sameType">
+        <h2><span id="sameTypeTitle"></span><button type="button" class="all" id="sameTypeAll"></button></h2>
+        <div class="rel" id="sameTypeRel"></div>
+      </section>
       <section>
-        <h2>Drift onward</h2>
-        <div class="rel" id="rel"></div>
+        <h2>Find more with</h2>
+        <div class="chips" id="bChips"></div>
+        <p class="hint">Each opens every building that shares the idea.</p>
       </section>
     </div>
   </article>
@@ -93,6 +105,8 @@
 
 <script src="data/buildings.js?v=9b502737"></script>
 <script src="data/links.js?v=015d0ce4"></script>
-<script src="app.js?v=79ba4bc2"></script>
+<script src="data/architects.js?v=046f0729"></script>
+<script src="data/world.js?v=61fa5662"></script>
+<script src="app.js?v=dc93a497"></script>
 </body>
 </html>
