@@ -4,7 +4,8 @@
   python tools/score.py        # writes tools/harvest/scored.json and tools/score_report.md
 
 Pool: tools/harvest/candidates.json (Wikidata, architect named, Wikipedia in 6+ languages),
-tools/harvest/archinform.json (every Wikidata building archINFORM lists, from harvest_archinform.py)
+tools/harvest/archinform.json (every Wikidata building archINFORM lists, from harvest_archinform.py),
+tools/harvest/regions.json (Africa, South and Southeast Asia, Middle East, Latin America, from harvest_regions.py)
 plus tools/pritzker/buildings.json. Extra signals come from tools/harvest/signals.json when
 tools/signals.py has run on GitHub Actions; without it the score uses fame, era and type only.
 
@@ -74,6 +75,10 @@ def pool():
     if ai.exists():
         for r in json.loads(ai.read_text(encoding='utf-8')):
             recs.setdefault(r['qid'], r)['archinform'] = True
+    rg = H / 'regions.json'  # the thin regions, low fame bar (harvest_regions.py)
+    if rg.exists():
+        for r in json.loads(rg.read_text(encoding='utf-8')):
+            recs.setdefault(r['qid'], r)
     pz = ROOT / 'tools' / 'pritzker' / 'buildings.json'
     pritzker = set()
     if pz.exists():

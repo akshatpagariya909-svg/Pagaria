@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch2
-Fetch Wikidata years, architect birth years and country codes for batch 2, to check the curated years.
+python -u tools/harvest_regions.py
+Pull Wikidata buildings in Africa, South and Southeast Asia, the Middle East and Latin America (low fame bar), fetch their signals, rescore.
