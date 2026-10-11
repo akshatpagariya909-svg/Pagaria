@@ -108957,36 +108957,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "notre-dame-du-raincy",
-  "n": 1147,
-  "name": "Notre-Dame du Raincy",
-  "by": "Auguste Perret",
-  "place": "Le Raincy, FR",
-  "year": "1923",
-  "y": 1923,
-  "type": "Religious",
-  "movement": "Modernism",
-  "region": "Europe",
-  "era": "1900–1945",
-  "concepts": [
-   "Exposed concrete",
-   "Light & shadow",
-   "Prefabrication"
-  ],
-  "study": "A reinforced-concrete church on slender columns, its walls made of precast screens of coloured glass.",
-  "qid": "Q3246466",
-  "commons": "Category:Église Notre-Dame du Raincy",
-  "lead": "File:Le Raincy.Eglise Notre-Dame.jpg",
-  "coords": [
-   48.89574,
-   2.51354
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "kresge-auditorium",
-  "n": 1148,
+  "n": 1147,
   "name": "Kresge Auditorium",
   "by": "Eero Saarinen",
   "place": "Cambridge, US",
@@ -109086,36 +109058,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "casa-bianchi",
-  "n": 1149,
-  "name": "Casa Bianchi",
-  "by": "Mario Botta",
-  "place": "Riva San Vitale, CH",
-  "year": "1973",
-  "y": 1973,
-  "type": "House",
-  "movement": "Late modernism",
-  "region": "Europe",
-  "era": "1970–1990",
-  "concepts": [
-   "Geometry",
-   "Circulation",
-   "Landscape"
-  ],
-  "study": "A concrete-block tower house entered at the top by a red steel bridge from the hillside.",
-  "qid": "Q29527503",
-  "commons": "Category:Bianchi House (Via Formeggie 6, Riva San Vitale)",
-  "lead": "File:Κατοικία Μπιάντσι (Bianchi House).jpg",
-  "coords": [
-   45.91725,
-   8.96936
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "japan-pavilion-expo-2000",
-  "n": 1150,
+  "n": 1148,
   "name": "Japan Pavilion, Expo 2000",
   "by": "Shigeru Ban with Frei Otto",
   "place": "Hanover, DE",
@@ -109177,7 +109121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sanatorium-purkersdorf",
-  "n": 1151,
+  "n": 1149,
   "name": "Sanatorium Purkersdorf",
   "by": "Josef Hoffmann",
   "place": "Purkersdorf, AT",
@@ -109254,7 +109198,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mit-chapel",
-  "n": 1152,
+  "n": 1150,
   "name": "MIT Chapel",
   "by": "Eero Saarinen",
   "place": "Cambridge, US",
@@ -109355,7 +109299,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rosenthal-center-for-contemporary-art",
-  "n": 1153,
+  "n": 1151,
   "name": "Rosenthal Center for Contemporary Art",
   "by": "Zaha Hadid",
   "place": "Cincinnati, US",
@@ -109420,7 +109364,7 @@ window.BUILDINGS = [
  },
  {
   "id": "galeries-lafayette-berlin",
-  "n": 1154,
+  "n": 1152,
   "name": "Galeries Lafayette Berlin",
   "by": "Jean Nouvel",
   "place": "Berlin, DE",
@@ -109473,7 +109417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mccormick-tribune-campus-center",
-  "n": 1155,
+  "n": 1153,
   "name": "McCormick Tribune Campus Center",
   "by": "OMA / Rem Koolhaas",
   "place": "Chicago, US",
@@ -109574,7 +109518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olivetti-showroom",
-  "n": 1156,
+  "n": 1154,
   "name": "Olivetti Showroom",
   "by": "Carlo Scarpa",
   "place": "Venice, IT",
@@ -109627,7 +109571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "geisel-library",
-  "n": 1157,
+  "n": 1155,
   "name": "Geisel Library",
   "by": "William Pereira",
   "place": "San Diego, US",
@@ -109728,7 +109672,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-du-peuple-clichy",
-  "n": 1158,
+  "n": 1156,
   "name": "Maison du Peuple, Clichy",
   "by": "Beaudouin & Lods with Jean Prouvé",
   "place": "Clichy, FR",
@@ -109805,7 +109749,7 @@ window.BUILDINGS = [
  },
  {
   "id": "netherlands-pavilion-expo-2000",
-  "n": 1159,
+  "n": 1157,
   "name": "Netherlands Pavilion, Expo 2000",
   "by": "MVRDV",
   "place": "Hanover, DE",
@@ -109894,7 +109838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "adgb-trade-union-school",
-  "n": 1160,
+  "n": 1158,
   "name": "ADGB Trade Union School",
   "by": "Hannes Meyer and Hans Wittwer",
   "place": "Bernau bei Berlin, DE",
@@ -109995,7 +109939,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dz-bank-building",
-  "n": 1161,
+  "n": 1159,
   "name": "DZ Bank Building",
   "by": "Frank Gehry",
   "place": "Berlin, DE",
@@ -110096,7 +110040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cube-houses",
-  "n": 1162,
+  "n": 1160,
   "name": "Cube Houses",
   "by": "Piet Blom",
   "place": "Rotterdam, NL",
@@ -110137,7 +110081,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-malaparte",
-  "n": 1163,
+  "n": 1161,
   "name": "Casa Malaparte",
   "by": "Adalberto Libera and Curzio Malaparte",
   "place": "Capri, IT",
@@ -110238,7 +110182,7 @@ window.BUILDINGS = [
  },
  {
   "id": "25-bis-rue-franklin",
-  "n": 1164,
+  "n": 1162,
   "name": "25 bis rue Franklin",
   "by": "Auguste Perret",
   "place": "Paris, FR",
@@ -110339,7 +110283,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kagawa-prefectural-government-office",
-  "n": 1165,
+  "n": 1163,
   "name": "Kagawa Prefectural Government Office",
   "by": "Kenzō Tange",
   "place": "Takamatsu, JP",
@@ -110416,7 +110360,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tower-house",
-  "n": 1166,
+  "n": 1164,
   "name": "Tower House",
   "by": "Takamitsu Azuma",
   "place": "Tokyo, JP",
@@ -110454,7 +110398,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marugame-genichiro-inokuma-museum-of-contemporary-art-mimoca",
-  "n": 1167,
+  "n": 1165,
   "name": "Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA)",
   "by": "Yoshio Taniguchi",
   "place": "Marugame, JP",
@@ -110531,7 +110475,7 @@ window.BUILDINGS = [
  },
  {
   "id": "keeling-house",
-  "n": 1168,
+  "n": 1166,
   "name": "Keeling House",
   "by": "Denys Lasdun",
   "place": "London, GB",
@@ -110608,7 +110552,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-saint-nicolas-heremence",
-  "n": 1169,
+  "n": 1167,
   "name": "Church of Saint-Nicolas, Hérémence",
   "by": "Walter Maria Förderer",
   "place": "Hérémence, CH",
@@ -110709,7 +110653,7 @@ window.BUILDINGS = [
  },
  {
   "id": "immeuble-molitor",
-  "n": 1170,
+  "n": 1168,
   "name": "Immeuble Molitor",
   "by": "Le Corbusier and Pierre Jeanneret",
   "place": "Paris, FR",
@@ -110798,7 +110742,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cite-de-refuge-salvation-army-hostel",
-  "n": 1171,
+  "n": 1169,
   "name": "Cité de Refuge (Salvation Army Hostel)",
   "by": "Le Corbusier",
   "place": "Paris, FR",
@@ -110875,7 +110819,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-the-republic",
-  "n": 1172,
+  "n": 1170,
   "name": "National Museum of the Republic",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -110976,7 +110920,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matthauskirche-pforzheim",
-  "n": 1173,
+  "n": 1171,
   "name": "Matthäuskirche Pforzheim",
   "by": "Egon Eiermann",
   "place": "Pforzheim, DE",
@@ -111065,7 +111009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alvar-aalto-cultural-centre",
-  "n": 1174,
+  "n": 1172,
   "name": "Alvar Aalto Cultural Centre",
   "by": "Alvar Aalto",
   "place": "Wolfsburg, DE",
@@ -111154,7 +111098,7 @@ window.BUILDINGS = [
  },
  {
   "id": "morton-h-meyerson-symphony-center",
-  "n": 1175,
+  "n": 1173,
   "name": "Morton H. Meyerson Symphony Center",
   "by": "I. M. Pei",
   "place": "Dallas, US",
@@ -111255,7 +111199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aalto-hochhaus",
-  "n": 1176,
+  "n": 1174,
   "name": "Aalto-Hochhaus",
   "by": "Alvar Aalto",
   "place": "Bremen, DE",
@@ -111344,7 +111288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bmw-central-building",
-  "n": 1177,
+  "n": 1175,
   "name": "BMW Central Building",
   "by": "Zaha Hadid",
   "place": "Leipzig, DE",
@@ -111421,7 +111365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-schwob-villa-turque",
-  "n": 1178,
+  "n": 1176,
   "name": "Villa Schwob (Villa Turque)",
   "by": "Charles-Édouard Jeanneret (Le Corbusier)",
   "place": "La Chaux-de-Fonds, CH",
@@ -111498,7 +111442,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-louis-carre",
-  "n": 1179,
+  "n": 1177,
   "name": "Maison Louis Carré",
   "by": "Alvar Aalto",
   "place": "Bazoches-sur-Guyonne, FR",
@@ -111599,7 +111543,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christ-church-lutheran",
-  "n": 1180,
+  "n": 1178,
   "name": "Christ Church Lutheran",
   "by": "Eliel Saarinen",
   "place": "Minneapolis, US",
@@ -111700,7 +111644,7 @@ window.BUILDINGS = [
  },
  {
   "id": "case-study-house-21-bailey-house",
-  "n": 1181,
+  "n": 1179,
   "name": "Case Study House #21 (Bailey House)",
   "by": "Pierre Koenig",
   "place": "Los Angeles, US",
@@ -111753,7 +111697,7 @@ window.BUILDINGS = [
  },
  {
   "id": "french-communist-party-headquarters",
-  "n": 1182,
+  "n": 1180,
   "name": "French Communist Party Headquarters",
   "by": "Oscar Niemeyer",
   "place": "Paris, FR",
@@ -111854,7 +111798,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pennzoil-place",
-  "n": 1183,
+  "n": 1181,
   "name": "Pennzoil Place",
   "by": "Philip Johnson and John Burgee",
   "place": "Houston, US",
@@ -111955,7 +111899,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fuji-television-building",
-  "n": 1184,
+  "n": 1182,
   "name": "Fuji Television Building",
   "by": "Kenzō Tange",
   "place": "Tokyo, JP",
@@ -112056,7 +112000,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheats-goldstein-residence",
-  "n": 1185,
+  "n": 1183,
   "name": "Sheats-Goldstein Residence",
   "by": "John Lautner",
   "place": "Los Angeles, US",
@@ -112157,7 +112101,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ikmz-library-btu-cottbus",
-  "n": 1186,
+  "n": 1184,
   "name": "IKMZ Library, BTU Cottbus",
   "by": "Herzog & de Meuron",
   "place": "Cottbus, DE",
@@ -112246,7 +112190,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bakhmetevsky-bus-garage",
-  "n": 1187,
+  "n": 1185,
   "name": "Bakhmetevsky Bus Garage",
   "by": "Konstantin Melnikov with Vladimir Shukhov",
   "place": "Moscow, RU",
@@ -112347,7 +112291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kentuck-knob",
-  "n": 1188,
+  "n": 1186,
   "name": "Kentuck Knob",
   "by": "Frank Lloyd Wright",
   "place": "Chalk Hill, US",
@@ -112448,7 +112392,7 @@ window.BUILDINGS = [
  },
  {
   "id": "humana-building",
-  "n": 1189,
+  "n": 1187,
   "name": "Humana Building",
   "by": "Michael Graves",
   "place": "Louisville, US",
@@ -112501,7 +112445,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berlin-state-library-haus-potsdamer-strae",
-  "n": 1190,
+  "n": 1188,
   "name": "Berlin State Library (Haus Potsdamer Straße)",
   "by": "Hans Scharoun",
   "place": "Berlin, DE",
@@ -112602,7 +112546,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aalto-house-riihitie",
-  "n": 1191,
+  "n": 1189,
   "name": "Aalto House (Riihitie)",
   "by": "Alvar Aalto and Aino Aalto",
   "place": "Helsinki, FI",
@@ -112691,7 +112635,7 @@ window.BUILDINGS = [
  },
  {
   "id": "2-willow-road",
-  "n": 1192,
+  "n": 1190,
   "name": "2 Willow Road",
   "by": "Ernő Goldfinger",
   "place": "London, GB",
@@ -112792,7 +112736,7 @@ window.BUILDINGS = [
  },
  {
   "id": "co-cathedral-of-the-great-mother-of-god-gran-madre-di-dio",
-  "n": 1193,
+  "n": 1191,
   "name": "Co-Cathedral of the Great Mother of God (Gran Madre di Dio)",
   "by": "Gio Ponti",
   "place": "Taranto, IT",
@@ -112857,7 +112801,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-hermes",
-  "n": 1194,
+  "n": 1192,
   "name": "Maison Hermès",
   "by": "Renzo Piano",
   "place": "Tokyo, JP",
@@ -112958,7 +112902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "milam-residence",
-  "n": 1195,
+  "n": 1193,
   "name": "Milam Residence",
   "by": "Paul Rudolph",
   "place": "Ponte Vedra Beach, US",
@@ -113059,7 +113003,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-des-rundfunks",
-  "n": 1196,
+  "n": 1194,
   "name": "Haus des Rundfunks",
   "by": "Hans Poelzig",
   "place": "Berlin, DE",
@@ -113160,7 +113104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausebunker",
-  "n": 1197,
+  "n": 1195,
   "name": "Mäusebunker",
   "by": "Gerd and Magdalena Hänska",
   "place": "Berlin, DE",
@@ -113249,7 +113193,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maria-regina-martyrum",
-  "n": 1198,
+  "n": 1196,
   "name": "Maria Regina Martyrum",
   "by": "Hans Schädel and Friedrich Ebert",
   "place": "Berlin, DE",
@@ -113350,7 +113294,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vdl-research-house",
-  "n": 1199,
+  "n": 1197,
   "name": "VDL Research House",
   "by": "Richard Neutra",
   "place": "Los Angeles, US",
@@ -113451,7 +113395,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-planells",
-  "n": 1200,
+  "n": 1198,
   "name": "Casa Planells",
   "by": "Josep Maria Jujol",
   "place": "Barcelona, ES",
@@ -113528,7 +113472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "city-hall-and-central-library-the-hague",
-  "n": 1201,
+  "n": 1199,
   "name": "City Hall and Central Library, The Hague",
   "by": "Richard Meier",
   "place": "The Hague, NL",
@@ -113629,7 +113573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mube-brazilian-museum-of-sculpture",
-  "n": 1202,
+  "n": 1200,
   "name": "MuBE – Brazilian Museum of Sculpture",
   "by": "Paulo Mendes da Rocha",
   "place": "São Paulo, BR",
@@ -113718,7 +113662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-jean-prouve",
-  "n": 1203,
+  "n": 1201,
   "name": "Maison Jean Prouvé",
   "by": "Jean Prouvé",
   "place": "Nancy, FR",
@@ -113771,7 +113715,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-the-black-madonna",
-  "n": 1204,
+  "n": 1202,
   "name": "House of the Black Madonna",
   "by": "Josef Gočár",
   "place": "Prague, CZ",
@@ -113860,7 +113804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nebraska-state-capitol",
-  "n": 1205,
+  "n": 1203,
   "name": "Nebraska State Capitol",
   "by": "Bertram Goodhue",
   "place": "Lincoln, US",
@@ -113961,7 +113905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muuratsalo-experimental-house",
-  "n": 1206,
+  "n": 1204,
   "name": "Muuratsalo Experimental House",
   "by": "Alvar Aalto",
   "place": "Jyväskylä, FI",
@@ -114062,7 +114006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "darwin-d-martin-house",
-  "n": 1207,
+  "n": 1205,
   "name": "Darwin D. Martin House",
   "by": "Frank Lloyd Wright",
   "place": "Buffalo, US",
@@ -114163,7 +114107,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rdovre-town-hall",
-  "n": 1208,
+  "n": 1206,
   "name": "Rødovre Town Hall",
   "by": "Arne Jacobsen",
   "place": "Rødovre, DK",
@@ -114264,7 +114208,7 @@ window.BUILDINGS = [
  },
  {
   "id": "millard-house-la-miniatura",
-  "n": 1209,
+  "n": 1207,
   "name": "Millard House (La Miniatura)",
   "by": "Frank Lloyd Wright",
   "place": "Pasadena, US",
@@ -114341,7 +114285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacobs-ii-house-solar-hemicycle",
-  "n": 1210,
+  "n": 1208,
   "name": "Jacobs II House (Solar Hemicycle)",
   "by": "Frank Lloyd Wright",
   "place": "Middleton, US",
@@ -114418,7 +114362,7 @@ window.BUILDINGS = [
  },
  {
   "id": "romeo-und-julia",
-  "n": 1211,
+  "n": 1209,
   "name": "Romeo und Julia",
   "by": "Hans Scharoun and Wilhelm Frank",
   "place": "Stuttgart, DE",
@@ -114519,7 +114463,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fisher-house",
-  "n": 1212,
+  "n": 1210,
   "name": "Fisher House",
   "by": "Louis Kahn",
   "place": "Hatboro, US",
@@ -114572,7 +114516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "umbrella-house-hiss-residence",
-  "n": 1213,
+  "n": 1211,
   "name": "Umbrella House (Hiss Residence)",
   "by": "Paul Rudolph",
   "place": "Sarasota, US",
@@ -114625,7 +114569,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musikverein",
-  "n": 1214,
+  "n": 1212,
   "name": "Musikverein",
   "by": "Theophil Hansen",
   "place": "Vienna, AT",
@@ -114726,7 +114670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liege-guillemins-station",
-  "n": 1215,
+  "n": 1213,
   "name": "Liège-Guillemins Station",
   "by": "Santiago Calatrava",
   "place": "Liège, BE",
@@ -114827,7 +114771,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-goth",
-  "n": 1216,
+  "n": 1214,
   "name": "Villa Göth",
   "by": "Bengt Edman and Lennart Holm",
   "place": "Uppsala, SE",
@@ -114916,7 +114860,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-on-the-wind",
-  "n": 1217,
+  "n": 1215,
   "name": "Church on the Wind",
   "by": "Tadao Ando",
   "place": "Kobe, JP",
@@ -114993,7 +114937,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monte-amiata-housing-gallaratese",
-  "n": 1218,
+  "n": 1216,
   "name": "Monte Amiata Housing (Gallaratese)",
   "by": "Carlo Aymonino and Aldo Rossi",
   "place": "Milan, IT",
@@ -115046,7 +114990,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scharoun-theatre-wolfsburg",
-  "n": 1219,
+  "n": 1217,
   "name": "Scharoun Theatre Wolfsburg",
   "by": "Hans Scharoun",
   "place": "Wolfsburg, DE",
@@ -115147,7 +115091,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prado-museum-extension",
-  "n": 1220,
+  "n": 1218,
   "name": "Prado Museum extension",
   "by": "Rafael Moneo",
   "place": "Madrid, ES",
@@ -115248,7 +115192,7 @@ window.BUILDINGS = [
  },
  {
   "id": "robert-c-weaver-federal-building",
-  "n": 1221,
+  "n": 1219,
   "name": "Robert C. Weaver Federal Building",
   "by": "Marcel Breuer",
   "place": "Washington, D.C., US",
@@ -115349,7 +115293,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-la-creu",
-  "n": 1222,
+  "n": 1220,
   "name": "Torre de la Creu",
   "by": "Josep Maria Jujol",
   "place": "Sant Joan Despí, ES",
@@ -115426,7 +115370,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auditorium-niccolo-paganini",
-  "n": 1223,
+  "n": 1221,
   "name": "Auditorium Niccolò Paganini",
   "by": "Renzo Piano",
   "place": "Parma, IT",
@@ -115527,7 +115471,7 @@ window.BUILDINGS = [
  },
  {
   "id": "herbert-f-johnson-museum-of-art",
-  "n": 1224,
+  "n": 1222,
   "name": "Herbert F. Johnson Museum of Art",
   "by": "I. M. Pei",
   "place": "Ithaca, US",
@@ -115628,7 +115572,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lake-point-tower",
-  "n": 1225,
+  "n": 1223,
   "name": "Lake Point Tower",
   "by": "Schipporeit-Heinrich",
   "place": "Chicago, US",
@@ -115729,7 +115673,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-applied-arts-frankfurt",
-  "n": 1226,
+  "n": 1224,
   "name": "Museum of Applied Arts Frankfurt",
   "by": "Richard Meier",
   "place": "Frankfurt, DE",
@@ -115830,7 +115774,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cadet-chapel-us-air-force-academy",
-  "n": 1227,
+  "n": 1225,
   "name": "Cadet Chapel, US Air Force Academy",
   "by": "Walter Netsch (SOM)",
   "place": "Colorado Springs, US",
@@ -115931,7 +115875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "documentation-center-nazi-party-rally-grounds",
-  "n": 1228,
+  "n": 1226,
   "name": "Documentation Center Nazi Party Rally Grounds",
   "by": "Günther Domenig",
   "place": "Nuremberg, DE",
@@ -116032,7 +115976,7 @@ window.BUILDINGS = [
  },
  {
   "id": "herz-jesu-kirche",
-  "n": 1229,
+  "n": 1227,
   "name": "Herz-Jesu-Kirche",
   "by": "Allmann Sattler Wappner",
   "place": "Munich, DE",
@@ -116133,7 +116077,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bundeskunsthalle",
-  "n": 1230,
+  "n": 1228,
   "name": "Bundeskunsthalle",
   "by": "Gustav Peichl",
   "place": "Bonn, DE",
@@ -116234,7 +116178,7 @@ window.BUILDINGS = [
  },
  {
   "id": "munkegaard-school",
-  "n": 1231,
+  "n": 1229,
   "name": "Munkegaard School",
   "by": "Arne Jacobsen",
   "place": "Gentofte, DK",
@@ -116311,7 +116255,7 @@ window.BUILDINGS = [
  },
  {
   "id": "asilo-sant-elia",
-  "n": 1232,
+  "n": 1230,
   "name": "Asilo Sant'Elia",
   "by": "Giuseppe Terragni",
   "place": "Como, IT",
@@ -116412,7 +116356,7 @@ window.BUILDINGS = [
  },
  {
   "id": "agora-theatre",
-  "n": 1233,
+  "n": 1231,
   "name": "Agora Theatre",
   "by": "UNStudio",
   "place": "Lelystad, NL",
@@ -116501,7 +116445,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nantes-courthouse",
-  "n": 1234,
+  "n": 1232,
   "name": "Nantes Courthouse",
   "by": "Jean Nouvel",
   "place": "Nantes, FR",
@@ -116578,7 +116522,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheldon-museum-of-art",
-  "n": 1235,
+  "n": 1233,
   "name": "Sheldon Museum of Art",
   "by": "Philip Johnson",
   "place": "Lincoln, US",
@@ -116667,7 +116611,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wittgenstein-house",
-  "n": 1236,
+  "n": 1234,
   "name": "Wittgenstein House",
   "by": "Ludwig Wittgenstein and Paul Engelmann",
   "place": "Vienna, AT",
@@ -116768,7 +116712,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burrell-collection",
-  "n": 1237,
+  "n": 1235,
   "name": "Burrell Collection",
   "by": "Barry Gasson, John Meunier and Brit Andresen",
   "place": "Glasgow, GB",
@@ -116869,7 +116813,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-marques-de-riscal",
-  "n": 1238,
+  "n": 1236,
   "name": "Hotel Marqués de Riscal",
   "by": "Frank Gehry",
   "place": "Elciego, ES",
@@ -116970,7 +116914,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-bloemenwerf",
-  "n": 1239,
+  "n": 1237,
   "name": "Villa Bloemenwerf",
   "by": "Henry van de Velde",
   "place": "Brussels, BE",
@@ -117047,7 +116991,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abbey-of-st-benedictusberg",
-  "n": 1240,
+  "n": 1238,
   "name": "Abbey of St. Benedictusberg",
   "by": "Dom Hans van der Laan",
   "place": "Vaals, NL",
@@ -117136,7 +117080,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-guimard",
-  "n": 1241,
+  "n": 1239,
   "name": "Hôtel Guimard",
   "by": "Hector Guimard",
   "place": "Paris, FR",
@@ -117237,7 +117181,7 @@ window.BUILDINGS = [
  },
  {
   "id": "anzeiger-hochhaus",
-  "n": 1242,
+  "n": 1240,
   "name": "Anzeiger-Hochhaus",
   "by": "Fritz Höger",
   "place": "Hanover, DE",
@@ -117338,7 +117282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dutch-pavilion-venice-biennale",
-  "n": 1243,
+  "n": 1241,
   "name": "Dutch Pavilion, Venice Biennale",
   "by": "Gerrit Rietveld",
   "place": "Venice, IT",
@@ -117415,7 +117359,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jachthuis-sint-hubertus",
-  "n": 1244,
+  "n": 1242,
   "name": "Jachthuis Sint Hubertus",
   "by": "Hendrik Petrus Berlage",
   "place": "Otterlo, NL",
@@ -117516,7 +117460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "steinhaus",
-  "n": 1245,
+  "n": 1243,
   "name": "Steinhaus",
   "by": "Günther Domenig",
   "place": "Steindorf am Ossiacher See, AT",
@@ -117617,7 +117561,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-atheneum",
-  "n": 1246,
+  "n": 1244,
   "name": "The Atheneum",
   "by": "Richard Meier",
   "place": "New Harmony, US",
@@ -117658,7 +117602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liederhalle",
-  "n": 1247,
+  "n": 1245,
   "name": "Liederhalle",
   "by": "Rolf Gutbrod and Adolf Abel",
   "place": "Stuttgart, DE",
@@ -117759,7 +117703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "utzon-house-hellebk",
-  "n": 1248,
+  "n": 1246,
   "name": "Utzon House, Hellebæk",
   "by": "Jørn Utzon",
   "place": "Hellebæk, DK",
@@ -117812,7 +117756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mannesmann-hochhaus",
-  "n": 1249,
+  "n": 1247,
   "name": "Mannesmann-Hochhaus",
   "by": "Paul Schneider-Esleben",
   "place": "Düsseldorf, DE",
@@ -117901,7 +117845,7 @@ window.BUILDINGS = [
  },
  {
   "id": "diozesanmuseum-paderborn",
-  "n": 1250,
+  "n": 1248,
   "name": "Diözesanmuseum Paderborn",
   "by": "Gottfried Böhm",
   "place": "Paderborn, DE",
@@ -117978,7 +117922,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muse-science-museum",
-  "n": 1251,
+  "n": 1249,
   "name": "MUSE Science Museum",
   "by": "Renzo Piano Building Workshop",
   "place": "Trento, IT",
@@ -118079,7 +118023,7 @@ window.BUILDINGS = [
  },
  {
   "id": "municipal-house-obecni-dum",
-  "n": 1252,
+  "n": 1250,
   "name": "Municipal House (Obecní dům)",
   "by": "Antonín Balšánek and Osvald Polívka",
   "place": "Prague, CZ",
@@ -118180,7 +118124,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parliament-house-eduskuntatalo",
-  "n": 1253,
+  "n": 1251,
   "name": "Parliament House (Eduskuntatalo)",
   "by": "J. S. Sirén",
   "place": "Helsinki, FI",
@@ -118281,7 +118225,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tribune-tower",
-  "n": 1254,
+  "n": 1252,
   "name": "Tribune Tower",
   "by": "John Mead Howells and Raymond Hood",
   "place": "Chicago, US",
@@ -118382,7 +118326,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-building-museum",
-  "n": 1255,
+  "n": 1253,
   "name": "National Building Museum",
   "by": "Montgomery C. Meigs",
   "place": "Washington, US",
@@ -118483,7 +118427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tribunal-de-paris",
-  "n": 1256,
+  "n": 1254,
   "name": "Tribunal de Paris",
   "by": "Renzo Piano Building Workshop",
   "place": "Paris, FR",
@@ -118584,7 +118528,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-botin",
-  "n": 1257,
+  "n": 1255,
   "name": "Centro Botín",
   "by": "Renzo Piano Building Workshop",
   "place": "Santander, ES",
@@ -118685,7 +118629,7 @@ window.BUILDINGS = [
  },
  {
   "id": "acros-fukuoka",
-  "n": 1258,
+  "n": 1256,
   "name": "ACROS Fukuoka",
   "by": "Emilio Ambasz with Nihon Sekkei",
   "place": "Fukuoka, JP",
@@ -118786,7 +118730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "l-illa-diagonal",
-  "n": 1259,
+  "n": 1257,
   "name": "L'Illa Diagonal",
   "by": "Rafael Moneo and Manuel de Solà-Morales",
   "place": "Barcelona, ES",
@@ -118887,7 +118831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weltstadthaus-peek-cloppenburg",
-  "n": 1260,
+  "n": 1258,
   "name": "Weltstadthaus Peek & Cloppenburg",
   "by": "Renzo Piano Building Workshop",
   "place": "Cologne, DE",
@@ -118988,7 +118932,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-for-an-art-lover",
-  "n": 1261,
+  "n": 1259,
   "name": "House for an Art Lover",
   "by": "Charles Rennie Mackintosh",
   "place": "Glasgow, GB",
@@ -119089,7 +119033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fiera-milano",
-  "n": 1262,
+  "n": 1260,
   "name": "Fiera Milano",
   "by": "Massimiliano Fuksas",
   "place": "Rho, IT",
@@ -119166,7 +119110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-del-lavoro",
-  "n": 1263,
+  "n": 1261,
   "name": "Palazzo del Lavoro",
   "by": "Pier Luigi Nervi with Gio Ponti",
   "place": "Turin, IT",
@@ -119255,7 +119199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hagen-crematorium",
-  "n": 1264,
+  "n": 1262,
   "name": "Hagen Crematorium",
   "by": "Peter Behrens",
   "place": "Hagen, DE",
@@ -119356,7 +119300,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavilion-for-japanese-art-lacma",
-  "n": 1265,
+  "n": 1263,
   "name": "Pavilion for Japanese Art, LACMA",
   "by": "Bruce Goff and Bart Prince",
   "place": "Los Angeles, US",
@@ -119457,7 +119401,7 @@ window.BUILDINGS = [
  },
  {
   "id": "de-vonk",
-  "n": 1266,
+  "n": 1264,
   "name": "De Vonk",
   "by": "J. J. P. Oud",
   "place": "Noordwijkerhout, NL",
@@ -119546,7 +119490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hubertus-house",
-  "n": 1267,
+  "n": 1265,
   "name": "Hubertus House",
   "by": "Aldo van Eyck",
   "place": "Amsterdam, NL",
@@ -119635,7 +119579,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atlanta-central-library",
-  "n": 1268,
+  "n": 1266,
   "name": "Atlanta Central Library",
   "by": "Marcel Breuer",
   "place": "Atlanta, US",
@@ -119736,7 +119680,7 @@ window.BUILDINGS = [
  },
  {
   "id": "austrian-parliament-building",
-  "n": 1269,
+  "n": 1267,
   "name": "Austrian Parliament Building",
   "by": "Theophil Hansen",
   "place": "Vienna, AT",
@@ -119837,7 +119781,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thomas-jefferson-building-library-of-congress",
-  "n": 1270,
+  "n": 1268,
   "name": "Thomas Jefferson Building, Library of Congress",
   "by": "Smithmeyer & Pelz",
   "place": "Washington, D.C., US",
@@ -119938,7 +119882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caixaforum-barcelona",
-  "n": 1271,
+  "n": 1269,
   "name": "CaixaForum Barcelona",
   "by": "Josep Puig i Cadafalch; Arata Isozaki (entrance)",
   "place": "Barcelona, ES",
@@ -120039,7 +119983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mcgraw-hill-building",
-  "n": 1272,
+  "n": 1270,
   "name": "McGraw-Hill Building",
   "by": "Raymond Hood",
   "place": "New York City, US",
@@ -120140,7 +120084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eli-and-edythe-broad-art-museum",
-  "n": 1273,
+  "n": 1271,
   "name": "Eli and Edythe Broad Art Museum",
   "by": "Zaha Hadid Architects",
   "place": "East Lansing, US",
@@ -120241,7 +120185,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-de-cultura-contemporania-de-barcelona-cccb",
-  "n": 1274,
+  "n": 1272,
   "name": "Centre de Cultura Contemporània de Barcelona (CCCB)",
   "by": "Viaplana i Piñón",
   "place": "Barcelona, ES",
@@ -120342,7 +120286,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathedral-of-christ-the-light",
-  "n": 1275,
+  "n": 1273,
   "name": "Cathedral of Christ the Light",
   "by": "Craig W. Hartman (SOM)",
   "place": "Oakland, US",
@@ -120443,7 +120387,7 @@ window.BUILDINGS = [
  },
  {
   "id": "istituto-marchiondi-spagliardi",
-  "n": 1276,
+  "n": 1274,
   "name": "Istituto Marchiondi Spagliardi",
   "by": "Vittoriano Viganò",
   "place": "Milan, IT",
@@ -120508,7 +120452,7 @@ window.BUILDINGS = [
  },
  {
   "id": "78-derngate",
-  "n": 1277,
+  "n": 1275,
   "name": "78 Derngate",
   "by": "Charles Rennie Mackintosh",
   "place": "Northampton, GB",
@@ -120584,36 +120528,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "hyogo-children-s-museum",
-  "n": 1278,
-  "name": "Hyogo Children's Museum",
-  "by": "Tadao Ando",
-  "place": "Himeji, JP",
-  "year": "1989",
-  "y": 1989,
-  "type": "Culture & sport",
-  "movement": "Regionalism",
-  "region": "East Asia",
-  "era": "1970–1990",
-  "concepts": [
-   "Exposed concrete",
-   "Landscape",
-   "Water"
-  ],
-  "study": "Concrete pavilions linked by a long walled path past columns and water through a lakeside park.",
-  "qid": "Q11392907",
-  "commons": "Category:Hyogo Children's Center",
-  "lead": "File:兵庫県立こどもの館・本館.JPG",
-  "coords": [
-   34.85372,
-   134.62375
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "notre-dame-de-royan",
-  "n": 1279,
+  "n": 1276,
   "name": "Notre-Dame de Royan",
   "by": "Guillaume Gillet",
   "place": "Royan, FR",
@@ -120713,36 +120629,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "beirut-terraces",
-  "n": 1280,
-  "name": "Beirut Terraces",
-  "by": "Herzog & de Meuron",
-  "place": "Beirut, LB",
-  "year": "2017",
-  "y": 2017,
-  "type": "Housing",
-  "movement": "Contemporary",
-  "region": "Middle East",
-  "era": "2005–today",
-  "concepts": [
-   "Climate response",
-   "Cantilever",
-   "Planting"
-  ],
-  "study": "Offset floor slabs of differing depth leave deep, shaded and planted terraces around every side.",
-  "qid": "Q56295859",
-  "commons": "Category:Beirut Terraces",
-  "lead": null,
-  "coords": [
-   33.8997,
-   35.49621
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "musiktheater-im-revier",
-  "n": 1281,
+  "n": 1277,
   "name": "Musiktheater im Revier",
   "by": "Werner Ruhnau",
   "place": "Gelsenkirchen, DE",
@@ -120843,7 +120731,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shukhov-tower-on-the-oka-river",
-  "n": 1282,
+  "n": 1278,
   "name": "Shukhov Tower on the Oka River",
   "by": "Vladimir Shukhov",
   "place": "Dzerzhinsk, RU",
@@ -120932,7 +120820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gromarkthalle",
-  "n": 1283,
+  "n": 1279,
   "name": "Großmarkthalle",
   "by": "Martin Elsaesser",
   "place": "Frankfurt, DE",
@@ -121033,7 +120921,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kpn-tower",
-  "n": 1284,
+  "n": 1280,
   "name": "KPN Tower",
   "by": "Renzo Piano Building Workshop",
   "place": "Rotterdam, NL",
@@ -121122,7 +121010,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-der-kulturen-der-welt-kongresshalle",
-  "n": 1285,
+  "n": 1281,
   "name": "Haus der Kulturen der Welt (Kongresshalle)",
   "by": "Hugh Stubbins",
   "place": "Berlin, DE",
@@ -121223,7 +121111,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nemausus",
-  "n": 1286,
+  "n": 1282,
   "name": "Nemausus",
   "by": "Jean Nouvel",
   "place": "Nîmes, FR",
@@ -121264,7 +121152,7 @@ window.BUILDINGS = [
  },
  {
   "id": "diagoon-houses",
-  "n": 1287,
+  "n": 1283,
   "name": "Diagoon Houses",
   "by": "Herman Hertzberger",
   "place": "Delft, NL",
@@ -121365,7 +121253,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rufer-house",
-  "n": 1288,
+  "n": 1284,
   "name": "Rufer House",
   "by": "Adolf Loos",
   "place": "Vienna, AT",
@@ -121442,7 +121330,7 @@ window.BUILDINGS = [
  },
  {
   "id": "retti-candle-shop",
-  "n": 1289,
+  "n": 1285,
   "name": "Retti Candle Shop",
   "by": "Hans Hollein",
   "place": "Vienna, AT",
@@ -121519,7 +121407,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hans-otto-theater",
-  "n": 1290,
+  "n": 1286,
   "name": "Hans Otto Theater",
   "by": "Gottfried Böhm",
   "place": "Potsdam, DE",
@@ -121620,7 +121508,7 @@ window.BUILDINGS = [
  },
  {
   "id": "andrew-melville-hall",
-  "n": 1291,
+  "n": 1287,
   "name": "Andrew Melville Hall",
   "by": "James Stirling",
   "place": "St Andrews, GB",
@@ -121697,7 +121585,7 @@ window.BUILDINGS = [
  },
  {
   "id": "clore-gallery-tate-britain",
-  "n": 1292,
+  "n": 1288,
   "name": "Clore Gallery, Tate Britain",
   "by": "James Stirling, Michael Wilford",
   "place": "London, GB",
@@ -121798,7 +121686,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-applied-arts",
-  "n": 1293,
+  "n": 1289,
   "name": "Museum of Applied Arts",
   "by": "Ödön Lechner and Gyula Pártos",
   "place": "Budapest, HU",
@@ -121899,7 +121787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-justice",
-  "n": 1294,
+  "n": 1290,
   "name": "Palace of Justice",
   "by": "Joseph Poelaert",
   "place": "Brussels, BE",
@@ -122000,7 +121888,7 @@ window.BUILDINGS = [
  },
  {
   "id": "el-capricho",
-  "n": 1295,
+  "n": 1291,
   "name": "El Capricho",
   "by": "Antoni Gaudí",
   "place": "Comillas, ES",
@@ -122101,7 +121989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "euskalduna-conference-centre-and-concert-hall",
-  "n": 1296,
+  "n": 1292,
   "name": "Euskalduna Conference Centre and Concert Hall",
   "by": "Federico Soriano and Dolores Palacios",
   "place": "Bilbao, ES",
@@ -122202,7 +122090,7 @@ window.BUILDINGS = [
  },
  {
   "id": "majolikahaus",
-  "n": 1297,
+  "n": 1293,
   "name": "Majolikahaus",
   "by": "Otto Wagner",
   "place": "Vienna, AT",
@@ -122303,7 +122191,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mirador",
-  "n": 1298,
+  "n": 1294,
   "name": "Mirador",
   "by": "MVRDV with Blanca Lleó",
   "place": "Madrid, ES",
@@ -122404,7 +122292,7 @@ window.BUILDINGS = [
  },
  {
   "id": "siedlung-halen",
-  "n": 1299,
+  "n": 1295,
   "name": "Siedlung Halen",
   "by": "Atelier 5",
   "place": "Kirchlindach, CH",
@@ -122505,7 +122393,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aula-tu-delft",
-  "n": 1300,
+  "n": 1296,
   "name": "Aula TU Delft",
   "by": "Van den Broek en Bakema",
   "place": "Delft, NL",
@@ -122606,7 +122494,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bankinter-building",
-  "n": 1301,
+  "n": 1297,
   "name": "Bankinter Building",
   "by": "Rafael Moneo and Ramón Bescós",
   "place": "Madrid, ES",
@@ -122671,7 +122559,7 @@ window.BUILDINGS = [
  },
  {
   "id": "messner-mountain-museum-corones",
-  "n": 1302,
+  "n": 1298,
   "name": "Messner Mountain Museum Corones",
   "by": "Zaha Hadid Architects",
   "place": "Bruneck, IT",
@@ -122772,7 +122660,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sant-antoni-joan-oliver-library",
-  "n": 1303,
+  "n": 1299,
   "name": "Sant Antoni-Joan Oliver Library",
   "by": "RCR Arquitectes",
   "place": "Barcelona, ES",
@@ -122837,7 +122725,7 @@ window.BUILDINGS = [
  },
  {
   "id": "international-house-of-japan",
-  "n": 1304,
+  "n": 1300,
   "name": "International House of Japan",
   "by": "Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura",
   "place": "Tokyo, JP",
@@ -122914,7 +122802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-blanche",
-  "n": 1305,
+  "n": 1301,
   "name": "Maison Blanche",
   "by": "Charles-Édouard Jeanneret (Le Corbusier)",
   "place": "La Chaux-de-Fonds, CH",
@@ -122991,7 +122879,7 @@ window.BUILDINGS = [
  },
  {
   "id": "green-building-mit-building-54",
-  "n": 1306,
+  "n": 1302,
   "name": "Green Building (MIT Building 54)",
   "by": "I. M. Pei",
   "place": "Cambridge, US",
@@ -123092,7 +122980,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-planeix",
-  "n": 1307,
+  "n": 1303,
   "name": "Maison Planeix",
   "by": "Le Corbusier",
   "place": "Paris, FR",
@@ -123133,7 +123021,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ara-pacis-museum",
-  "n": 1308,
+  "n": 1304,
   "name": "Ara Pacis Museum",
   "by": "Richard Meier",
   "place": "Rome, IT",
@@ -123234,7 +123122,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-gateway",
-  "n": 1309,
+  "n": 1305,
   "name": "The Gateway",
   "by": "I. M. Pei",
   "place": "Singapore, SG",
@@ -123311,7 +123199,7 @@ window.BUILDINGS = [
  },
  {
   "id": "society-hill-towers",
-  "n": 1310,
+  "n": 1306,
   "name": "Society Hill Towers",
   "by": "I. M. Pei",
   "place": "Philadelphia, US",
@@ -123412,7 +123300,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-states-supreme-court-building",
-  "n": 1311,
+  "n": 1307,
   "name": "United States Supreme Court Building",
   "by": "Cass Gilbert",
   "place": "Washington, D.C., US",
@@ -123513,7 +123401,7 @@ window.BUILDINGS = [
  },
  {
   "id": "holyoke-center-smith-campus-center",
-  "n": 1312,
+  "n": 1308,
   "name": "Holyoke Center (Smith Campus Center)",
   "by": "Josep Lluís Sert",
   "place": "Cambridge, US",
@@ -123614,7 +123502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "akino-fuku-art-museum",
-  "n": 1313,
+  "n": 1309,
   "name": "Akino Fuku Art Museum",
   "by": "Terunobu Fujimori",
   "place": "Hamamatsu, JP",
@@ -123703,7 +123591,7 @@ window.BUILDINGS = [
  },
  {
   "id": "urania",
-  "n": 1314,
+  "n": 1310,
   "name": "Urania",
   "by": "Max Fabiani",
   "place": "Vienna, AT",
@@ -123804,7 +123692,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmolive-building",
-  "n": 1315,
+  "n": 1311,
   "name": "Palmolive Building",
   "by": "Holabird & Root",
   "place": "Chicago, US",
@@ -123905,7 +123793,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-fallet",
-  "n": 1316,
+  "n": 1312,
   "name": "Villa Fallet",
   "by": "Charles-Édouard Jeanneret (Le Corbusier) with René Chapallaz",
   "place": "La Chaux-de-Fonds, CH",
@@ -124006,7 +123894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lehmbruck-museum",
-  "n": 1317,
+  "n": 1313,
   "name": "Lehmbruck Museum",
   "by": "Manfred Lehmbruck",
   "place": "Duisburg, DE",
@@ -124095,7 +123983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kino-international",
-  "n": 1318,
+  "n": 1314,
   "name": "Kino International",
   "by": "Josef Kaiser",
   "place": "Berlin, DE",
@@ -124196,7 +124084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "four-domes-pavilion",
-  "n": 1319,
+  "n": 1315,
   "name": "Four Domes Pavilion",
   "by": "Hans Poelzig",
   "place": "Wrocław, PL",
@@ -124273,7 +124161,7 @@ window.BUILDINGS = [
  },
  {
   "id": "watari-museum-of-contemporary-art-watari-um",
-  "n": 1320,
+  "n": 1316,
   "name": "Watari Museum of Contemporary Art (Watari-um)",
   "by": "Mario Botta",
   "place": "Tokyo, JP",
@@ -124326,7 +124214,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cartagena-roman-theatre-museum",
-  "n": 1321,
+  "n": 1317,
   "name": "Cartagena Roman Theatre Museum",
   "by": "Rafael Moneo",
   "place": "Cartagena, ES",
@@ -124403,7 +124291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manhattan-municipal-building",
-  "n": 1322,
+  "n": 1318,
   "name": "Manhattan Municipal Building",
   "by": "McKim, Mead & White",
   "place": "New York, US",
@@ -124504,7 +124392,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tempodrom",
-  "n": 1323,
+  "n": 1319,
   "name": "Tempodrom",
   "by": "gmp (von Gerkan, Marg and Partners)",
   "place": "Berlin, DE",
@@ -124605,7 +124493,7 @@ window.BUILDINGS = [
  },
  {
   "id": "groes-festspielhaus",
-  "n": 1324,
+  "n": 1320,
   "name": "Großes Festspielhaus",
   "by": "Clemens Holzmeister",
   "place": "Salzburg, AT",
@@ -124706,7 +124594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grady-gammage-memorial-auditorium",
-  "n": 1325,
+  "n": 1321,
   "name": "Grady Gammage Memorial Auditorium",
   "by": "Frank Lloyd Wright",
   "place": "Tempe, US",
@@ -124807,7 +124695,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fisher-center-for-the-performing-arts",
-  "n": 1326,
+  "n": 1322,
   "name": "Fisher Center for the Performing Arts",
   "by": "Frank Gehry",
   "place": "Annandale-on-Hudson, US",
@@ -124884,7 +124772,7 @@ window.BUILDINGS = [
  },
  {
   "id": "igrejinha-nossa-senhora-de-fatima",
-  "n": 1327,
+  "n": 1323,
   "name": "Igrejinha Nossa Senhora de Fátima",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -124985,7 +124873,7 @@ window.BUILDINGS = [
  },
  {
   "id": "de-kunstlinie",
-  "n": 1328,
+  "n": 1324,
   "name": "De Kunstlinie",
   "by": "SANAA",
   "place": "Almere, NL",
@@ -125062,7 +124950,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiesa-del-santo-volto",
-  "n": 1329,
+  "n": 1325,
   "name": "Chiesa del Santo Volto",
   "by": "Mario Botta",
   "place": "Turin, IT",
@@ -125139,7 +125027,7 @@ window.BUILDINGS = [
  },
  {
   "id": "messe-torhaus",
-  "n": 1330,
+  "n": 1326,
   "name": "Messe Torhaus",
   "by": "Oswald Mathias Ungers",
   "place": "Frankfurt, DE",
@@ -125216,7 +125104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bodegas-ysios",
-  "n": 1331,
+  "n": 1327,
   "name": "Bodegas Ysios",
   "by": "Santiago Calatrava",
   "place": "Laguardia, ES",
@@ -125293,7 +125181,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rainier-tower",
-  "n": 1332,
+  "n": 1328,
   "name": "Rainier Tower",
   "by": "Minoru Yamasaki",
   "place": "Seattle, US",
@@ -125394,7 +125282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christi-auferstehung",
-  "n": 1333,
+  "n": 1329,
   "name": "Christi Auferstehung",
   "by": "Gottfried Böhm",
   "place": "Cologne, DE",
@@ -125495,7 +125383,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weizmann-house",
-  "n": 1334,
+  "n": 1330,
   "name": "Weizmann House",
   "by": "Erich Mendelsohn",
   "place": "Rehovot, IL",
@@ -125596,7 +125484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "westmount-square",
-  "n": 1335,
+  "n": 1331,
   "name": "Westmount Square",
   "by": "Ludwig Mies van der Rohe",
   "place": "Montreal, CA",
@@ -125697,7 +125585,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-francisco-city-hall",
-  "n": 1336,
+  "n": 1332,
   "name": "San Francisco City Hall",
   "by": "Arthur Brown Jr.",
   "place": "San Francisco, US",
@@ -125798,7 +125686,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chicago-board-of-trade-building",
-  "n": 1337,
+  "n": 1333,
   "name": "Chicago Board of Trade Building",
   "by": "Holabird & Root",
   "place": "Chicago, US",
@@ -125899,7 +125787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "katuaq",
-  "n": 1338,
+  "n": 1334,
   "name": "Katuaq",
   "by": "Schmidt Hammer Lassen",
   "place": "Nuuk, GL",
@@ -125976,7 +125864,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fisher-building",
-  "n": 1339,
+  "n": 1335,
   "name": "Fisher Building",
   "by": "Albert Kahn",
   "place": "Detroit, US",
@@ -126077,7 +125965,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-bow",
-  "n": 1340,
+  "n": 1336,
   "name": "The Bow",
   "by": "Foster + Partners",
   "place": "Calgary, CA",
@@ -126178,7 +126066,7 @@ window.BUILDINGS = [
  },
  {
   "id": "timberline-lodge",
-  "n": 1341,
+  "n": 1337,
   "name": "Timberline Lodge",
   "by": "W. I. Turner and Gilbert Stanley Underwood (WPA)",
   "place": "Government Camp, US",
@@ -126279,7 +126167,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tancredo-neves-pantheon-of-the-fatherland",
-  "n": 1342,
+  "n": 1338,
   "name": "Tancredo Neves Pantheon of the Fatherland",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -126356,7 +126244,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-esche",
-  "n": 1343,
+  "n": 1339,
   "name": "Villa Esche",
   "by": "Henry van de Velde",
   "place": "Chemnitz, DE",
@@ -126445,7 +126333,7 @@ window.BUILDINGS = [
  },
  {
   "id": "perret-tower",
-  "n": 1344,
+  "n": 1340,
   "name": "Perret Tower",
   "by": "Auguste Perret",
   "place": "Grenoble, FR",
@@ -126522,7 +126410,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cafe-seerose",
-  "n": 1345,
+  "n": 1341,
   "name": "Café Seerose",
   "by": "Ulrich Müther",
   "place": "Potsdam, DE",
@@ -126599,7 +126487,7 @@ window.BUILDINGS = [
  },
  {
   "id": "garden-of-fine-arts-kyoto",
-  "n": 1346,
+  "n": 1342,
   "name": "Garden of Fine Arts, Kyoto",
   "by": "Tadao Ando",
   "place": "Kyoto, JP",
@@ -126652,7 +126540,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glaspalast-sindelfingen",
-  "n": 1347,
+  "n": 1343,
   "name": "Glaspalast Sindelfingen",
   "by": "Behnisch & Partner",
   "place": "Sindelfingen, DE",
@@ -126753,7 +126641,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muziekcentrum-vredenburg",
-  "n": 1348,
+  "n": 1344,
   "name": "Muziekcentrum Vredenburg",
   "by": "Herman Hertzberger",
   "place": "Utrecht, NL",
@@ -126854,7 +126742,7 @@ window.BUILDINGS = [
  },
  {
   "id": "skagen-odde-nature-centre",
-  "n": 1349,
+  "n": 1345,
   "name": "Skagen Odde Nature Centre",
   "by": "Jørn Utzon",
   "place": "Skagen, DK",
@@ -126919,7 +126807,7 @@ window.BUILDINGS = [
  },
  {
   "id": "skopje-railway-station",
-  "n": 1350,
+  "n": 1346,
   "name": "Skopje Railway Station",
   "by": "Kenzō Tange",
   "place": "Skopje, MK",
@@ -127008,7 +126896,7 @@ window.BUILDINGS = [
  },
  {
   "id": "transparent-factory",
-  "n": 1351,
+  "n": 1347,
   "name": "Transparent Factory",
   "by": "Gunter Henn",
   "place": "Dresden, DE",
@@ -127109,7 +126997,7 @@ window.BUILDINGS = [
  },
  {
   "id": "louise-weiss-building-european-parliament",
-  "n": 1352,
+  "n": 1348,
   "name": "Louise Weiss Building, European Parliament",
   "by": "Architecture-Studio",
   "place": "Strasbourg, FR",
@@ -127210,7 +127098,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gehry-tower",
-  "n": 1353,
+  "n": 1349,
   "name": "Gehry Tower",
   "by": "Frank Gehry",
   "place": "Hanover, DE",
@@ -127287,7 +127175,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hohenhof",
-  "n": 1354,
+  "n": 1350,
   "name": "Hohenhof",
   "by": "Henry van de Velde",
   "place": "Hagen, DE",
@@ -127388,7 +127276,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tour-de-lille",
-  "n": 1355,
+  "n": 1351,
   "name": "Tour de Lille",
   "by": "Christian de Portzamparc",
   "place": "Lille, FR",
@@ -127428,36 +127316,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "kumano-kodo-nakahechi-museum-of-art",
-  "n": 1356,
-  "name": "Kumano Kodo Nakahechi Museum of Art",
-  "by": "SANAA",
-  "place": "Tanabe, JP",
-  "year": "1997",
-  "y": 1997,
-  "type": "Museum",
-  "movement": "Contemporary",
-  "region": "East Asia",
-  "era": "1990–2005",
-  "concepts": [
-   "Steel & glass",
-   "Facade as skin",
-   "Free plan"
-  ],
-  "study": "A thin-roofed single-storey box wrapped in layers of clear and milky glass.",
-  "qid": "Q11568880",
-  "commons": "Category:Kumanokodo Nakahechi Museum of Art",
-  "lead": "File:Nakahechi artsalon exterior.jpg",
-  "coords": [
-   33.81344,
-   135.60617
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "graduate-house-university-of-toronto",
-  "n": 1357,
+  "n": 1352,
   "name": "Graduate House, University of Toronto",
   "by": "Morphosis with Teeple Architects",
   "place": "Toronto, CA",
@@ -127546,7 +127406,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-stuttgart",
-  "n": 1358,
+  "n": 1353,
   "name": "Kunstmuseum Stuttgart",
   "by": "Hascher Jehle Architektur",
   "place": "Stuttgart, DE",
@@ -127647,7 +127507,7 @@ window.BUILDINGS = [
  },
  {
   "id": "state-council-building",
-  "n": 1359,
+  "n": 1354,
   "name": "State Council Building",
   "by": "Roland Korn and Hans-Erich Bogatzky",
   "place": "Berlin, DE",
@@ -127748,7 +127608,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lisbon-port-control-tower",
-  "n": 1360,
+  "n": 1355,
   "name": "Lisbon Port Control Tower",
   "by": "Gonçalo Byrne",
   "place": "Lisbon, PT",
@@ -127849,7 +127709,7 @@ window.BUILDINGS = [
  },
  {
   "id": "concord-pavilion",
-  "n": 1361,
+  "n": 1356,
   "name": "Concord Pavilion",
   "by": "Frank Gehry",
   "place": "Concord, US",
@@ -127890,7 +127750,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ceramic-park-mino",
-  "n": 1362,
+  "n": 1357,
   "name": "Ceramic Park Mino",
   "by": "Arata Isozaki",
   "place": "Tajimi, JP",
@@ -127955,7 +127815,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gosstrakh-apartments",
-  "n": 1363,
+  "n": 1358,
   "name": "Gosstrakh Apartments",
   "by": "Moisei Ginzburg",
   "place": "Moscow, RU",
@@ -128031,36 +127891,8 @@ window.BUILDINGS = [
   ]
  },
  {
-  "id": "disney-ice-anaheim-ice",
-  "n": 1364,
-  "name": "Disney Ice (Anaheim Ice)",
-  "by": "Frank Gehry",
-  "place": "Anaheim, US",
-  "year": "1995",
-  "y": 1995,
-  "type": "Culture & sport",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "1990–2005",
-  "concepts": [
-   "Timber",
-   "Structure as expression",
-   "Sculptural form"
-  ],
-  "study": "An ice rink under a roof of curving laminated-timber arches, with the arches showing inside.",
-  "qid": "Q4750883",
-  "commons": "Category:Anaheim Ice",
-  "lead": "File:Anaheimice.jpg",
-  "coords": [
-   33.83391,
-   -117.91742
-  ],
-  "hotlink": true,
-  "images": []
- },
- {
   "id": "tripolis",
-  "n": 1365,
+  "n": 1359,
   "name": "Tripolis",
   "by": "Aldo van Eyck and Hannie van Eyck",
   "place": "Amsterdam, NL",
@@ -128149,7 +127981,7 @@ window.BUILDINGS = [
  },
  {
   "id": "555-california-street",
-  "n": 1366,
+  "n": 1360,
   "name": "555 California Street",
   "by": "Wurster, Bernardi & Emmons and SOM, with Pietro Belluschi",
   "place": "San Francisco, US",
@@ -128250,7 +128082,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-york-state-capitol",
-  "n": 1367,
+  "n": 1361,
   "name": "New York State Capitol",
   "by": "Thomas Fuller, Leopold Eidlitz, H. H. Richardson, Isaac Perry",
   "place": "Albany, US",
@@ -128351,7 +128183,7 @@ window.BUILDINGS = [
  },
  {
   "id": "funkturm-berlin",
-  "n": 1368,
+  "n": 1362,
   "name": "Funkturm Berlin",
   "by": "Heinrich Straumer",
   "place": "Berlin, DE",
@@ -128452,7 +128284,7 @@ window.BUILDINGS = [
  },
  {
   "id": "l-agora",
-  "n": 1369,
+  "n": 1363,
   "name": "L'Àgora",
   "by": "Santiago Calatrava",
   "place": "Valencia, ES",
@@ -128553,7 +128385,7 @@ window.BUILDINGS = [
  },
  {
   "id": "langer-eugen",
-  "n": 1370,
+  "n": 1364,
   "name": "Langer Eugen",
   "by": "Egon Eiermann",
   "place": "Bonn, DE",
@@ -128654,7 +128486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ppg-place",
-  "n": 1371,
+  "n": 1365,
   "name": "PPG Place",
   "by": "Philip Johnson and John Burgee",
   "place": "Pittsburgh, US",
@@ -128755,7 +128587,7 @@ window.BUILDINGS = [
  },
  {
   "id": "staatstheater-cottbus",
-  "n": 1372,
+  "n": 1366,
   "name": "Staatstheater Cottbus",
   "by": "Bernhard Sehring",
   "place": "Cottbus, DE",
@@ -128856,7 +128688,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ahwahnee-hotel",
-  "n": 1373,
+  "n": 1367,
   "name": "Ahwahnee Hotel",
   "by": "Gilbert Stanley Underwood",
   "place": "Yosemite Valley, US",
@@ -128957,7 +128789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-johann-von-capistran",
-  "n": 1374,
+  "n": 1368,
   "name": "St. Johann von Capistran",
   "by": "Sep Ruf",
   "place": "Munich, DE",
@@ -129058,7 +128890,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okanoyama-museum-of-art",
-  "n": 1375,
+  "n": 1369,
   "name": "Okanoyama Museum of Art",
   "by": "Arata Isozaki",
   "place": "Nishiwaki, JP",
@@ -129135,7 +128967,7 @@ window.BUILDINGS = [
  },
  {
   "id": "garage-with-chauffeur-s-flat",
-  "n": 1376,
+  "n": 1370,
   "name": "Garage with Chauffeur's Flat",
   "by": "Gerrit Rietveld",
   "place": "Utrecht, NL",
@@ -129224,7 +129056,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hallfield-primary-school",
-  "n": 1377,
+  "n": 1371,
   "name": "Hallfield Primary School",
   "by": "Denys Lasdun",
   "place": "London, GB",
@@ -129289,7 +129121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-francesco-al-fopponino",
-  "n": 1378,
+  "n": 1372,
   "name": "San Francesco al Fopponino",
   "by": "Gio Ponti",
   "place": "Milan, IT",
@@ -129330,7 +129162,7 @@ window.BUILDINGS = [
  },
  {
   "id": "joieria-roca",
-  "n": 1379,
+  "n": 1373,
   "name": "Joieria Roca",
   "by": "Josep Lluís Sert",
   "place": "Barcelona, ES",
@@ -129419,7 +129251,7 @@ window.BUILDINGS = [
  },
  {
   "id": "constance-perkins-house",
-  "n": 1380,
+  "n": 1374,
   "name": "Constance Perkins House",
   "by": "Richard Neutra",
   "place": "Pasadena, US",
@@ -129460,7 +129292,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jardinette-apartments",
-  "n": 1381,
+  "n": 1375,
   "name": "Jardinette Apartments",
   "by": "Richard Neutra",
   "place": "Los Angeles, US",
@@ -129525,7 +129357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pennsylvania-state-capitol",
-  "n": 1382,
+  "n": 1376,
   "name": "Pennsylvania State Capitol",
   "by": "Joseph Miller Huston",
   "place": "Harrisburg, US",
@@ -129626,7 +129458,7 @@ window.BUILDINGS = [
  },
  {
   "id": "markisches-museum",
-  "n": 1383,
+  "n": 1377,
   "name": "Märkisches Museum",
   "by": "Ludwig Hoffmann",
   "place": "Berlin, DE",
@@ -129727,7 +129559,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wrigley-building",
-  "n": 1384,
+  "n": 1378,
   "name": "Wrigley Building",
   "by": "Graham, Anderson, Probst & White",
   "place": "Chicago, US",
@@ -129828,7 +129660,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bodegas-guell",
-  "n": 1385,
+  "n": 1379,
   "name": "Bodegas Güell",
   "by": "Francesc Berenguer with Antoni Gaudí",
   "place": "Sitges, ES",
@@ -129917,7 +129749,7 @@ window.BUILDINGS = [
  },
  {
   "id": "festspielhaus-baden-baden",
-  "n": 1386,
+  "n": 1380,
   "name": "Festspielhaus Baden-Baden",
   "by": "Wilhelm Holzbauer",
   "place": "Baden-Baden, DE",
@@ -130018,7 +129850,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capitol-records-building",
-  "n": 1387,
+  "n": 1381,
   "name": "Capitol Records Building",
   "by": "Welton Becket (Louis Naidorf)",
   "place": "Los Angeles, US",
@@ -130119,7 +129951,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kollhoff-tower",
-  "n": 1388,
+  "n": 1382,
   "name": "Kollhoff Tower",
   "by": "Hans Kollhoff",
   "place": "Berlin, DE",
@@ -130220,7 +130052,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmenhaus-burggarten",
-  "n": 1389,
+  "n": 1383,
   "name": "Palmenhaus, Burggarten",
   "by": "Friedrich Ohmann",
   "place": "Vienna, AT",
@@ -130321,7 +130153,7 @@ window.BUILDINGS = [
  },
  {
   "id": "james-a-farley-building-moynihan-train-hall",
-  "n": 1390,
+  "n": 1384,
   "name": "James A. Farley Building (Moynihan Train Hall)",
   "by": "McKim, Mead & White; SOM (train hall)",
   "place": "New York City, US",
@@ -130422,7 +130254,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kulturpalast-dresden",
-  "n": 1391,
+  "n": 1385,
   "name": "Kulturpalast Dresden",
   "by": "Wolfgang Hänsch",
   "place": "Dresden, DE",
@@ -130523,7 +130355,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shinjuku-ns-building",
-  "n": 1392,
+  "n": 1386,
   "name": "Shinjuku NS Building",
   "by": "Nikken Sekkei (Shōji Hayashi)",
   "place": "Tokyo, JP",
@@ -130624,7 +130456,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hochhaus-an-der-weberwiese",
-  "n": 1393,
+  "n": 1387,
   "name": "Hochhaus an der Weberwiese",
   "by": "Hermann Henselmann",
   "place": "Berlin, DE",
@@ -130713,7 +130545,7 @@ window.BUILDINGS = [
  },
  {
   "id": "west-japan-general-exhibition-center",
-  "n": 1394,
+  "n": 1388,
   "name": "West Japan General Exhibition Center",
   "by": "Arata Isozaki",
   "place": "Kitakyushu, JP",
@@ -130754,7 +130586,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weesperflat",
-  "n": 1395,
+  "n": 1389,
   "name": "Weesperflat",
   "by": "Herman Hertzberger",
   "place": "Amsterdam, NL",
@@ -130831,7 +130663,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chasse-theater",
-  "n": 1396,
+  "n": 1390,
   "name": "Chassé Theater",
   "by": "Herman Hertzberger",
   "place": "Breda, NL",
@@ -130920,7 +130752,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-town-hall-hanover",
-  "n": 1397,
+  "n": 1391,
   "name": "New Town Hall, Hanover",
   "by": "Hermann Eggert and Gustav Halmhuber",
   "place": "Hanover, DE",
@@ -131021,7 +130853,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsinki-music-centre",
-  "n": 1398,
+  "n": 1392,
   "name": "Helsinki Music Centre",
   "by": "LPR Architects",
   "place": "Helsinki, FI",
@@ -131122,7 +130954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-fuster",
-  "n": 1399,
+  "n": 1393,
   "name": "Casa Fuster",
   "by": "Lluís Domènech i Montaner",
   "place": "Barcelona, ES",
@@ -131199,7 +131031,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lasipalatsi",
-  "n": 1400,
+  "n": 1394,
   "name": "Lasipalatsi",
   "by": "Viljo Revell, Niilo Kokko and Heimo Riihimäki",
   "place": "Helsinki, FI",
@@ -131300,7 +131132,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paula-modersohn-becker-museum",
-  "n": 1401,
+  "n": 1395,
   "name": "Paula Modersohn-Becker Museum",
   "by": "Bernhard Hoetger",
   "place": "Bremen, DE",
@@ -131401,7 +131233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hypo-haus",
-  "n": 1402,
+  "n": 1396,
   "name": "Hypo-Haus",
   "by": "Walther and Bea Betz",
   "place": "Munich, DE",
@@ -131502,7 +131334,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-de-l-arche-d-alliance",
-  "n": 1403,
+  "n": 1397,
   "name": "Notre-Dame-de-l'Arche-d'Alliance",
   "by": "Architecture-Studio",
   "place": "Paris, FR",
@@ -131603,7 +131435,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gosplan-garage",
-  "n": 1404,
+  "n": 1398,
   "name": "Gosplan Garage",
   "by": "Konstantin Melnikov",
   "place": "Moscow, RU",
@@ -131704,7 +131536,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadsschouwburg-utrecht",
-  "n": 1405,
+  "n": 1399,
   "name": "Stadsschouwburg Utrecht",
   "by": "Willem Marinus Dudok",
   "place": "Utrecht, NL",
@@ -131805,7 +131637,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-space-centre",
-  "n": 1406,
+  "n": 1400,
   "name": "National Space Centre",
   "by": "Nicholas Grimshaw",
   "place": "Leicester, GB",
@@ -131906,7 +131738,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sakamoto-ryoma-memorial-museum",
-  "n": 1407,
+  "n": 1401,
   "name": "Sakamoto Ryōma Memorial Museum",
   "by": "Workshop (Hiroshi and Akiko Takahashi)",
   "place": "Kōchi, JP",
@@ -132007,7 +131839,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roche-tower-2",
-  "n": 1408,
+  "n": 1402,
   "name": "Roche Tower 2",
   "by": "Herzog & de Meuron",
   "place": "Basel, CH",
@@ -132084,7 +131916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "place-bonaventure",
-  "n": 1409,
+  "n": 1403,
   "name": "Place Bonaventure",
   "by": "ARCOP",
   "place": "Montreal, CA",
@@ -132185,7 +132017,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-lowry",
-  "n": 1410,
+  "n": 1404,
   "name": "The Lowry",
   "by": "Michael Wilford and Partners",
   "place": "Salford, GB",
@@ -132286,7 +132118,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cafe-moskau",
-  "n": 1411,
+  "n": 1405,
   "name": "Café Moskau",
   "by": "Josef Kaiser",
   "place": "Berlin, DE",
@@ -132387,7 +132219,7 @@ window.BUILDINGS = [
  },
  {
   "id": "terneuzen-city-hall",
-  "n": 1412,
+  "n": 1406,
   "name": "Terneuzen City Hall",
   "by": "Van den Broek en Bakema",
   "place": "Terneuzen, NL",
@@ -132488,7 +132320,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-school-of-art",
-  "n": 1413,
+  "n": 1407,
   "name": "Glasgow School of Art",
   "by": "Charles Rennie Mackintosh",
   "place": "Glasgow, GB",
@@ -132589,7 +132421,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mesa-laboratory-ncar",
-  "n": 1414,
+  "n": 1408,
   "name": "Mesa Laboratory (NCAR)",
   "by": "I. M. Pei",
   "place": "Boulder, US",
@@ -132666,7 +132498,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pampulha-art-museum-former-casino",
-  "n": 1415,
+  "n": 1409,
   "name": "Pampulha Art Museum (former Casino)",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -132767,7 +132599,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pastoor-van-arskerk",
-  "n": 1416,
+  "n": 1410,
   "name": "Pastoor van Arskerk",
   "by": "Aldo van Eyck",
   "place": "The Hague, NL",
@@ -132868,7 +132700,7 @@ window.BUILDINGS = [
  },
  {
   "id": "contemporary-jewish-museum",
-  "n": 1417,
+  "n": 1411,
   "name": "Contemporary Jewish Museum",
   "by": "Daniel Libeskind",
   "place": "San Francisco, US",
@@ -132969,7 +132801,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-of-contemporary-art-boston",
-  "n": 1418,
+  "n": 1412,
   "name": "Institute of Contemporary Art, Boston",
   "by": "Diller Scofidio + Renfro",
   "place": "Boston, US",
@@ -133070,7 +132902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "everson-museum-of-art",
-  "n": 1419,
+  "n": 1413,
   "name": "Everson Museum of Art",
   "by": "I. M. Pei",
   "place": "Syracuse, US",
@@ -133171,7 +133003,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-bloc",
-  "n": 1420,
+  "n": 1414,
   "name": "Casa Bloc",
   "by": "Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana",
   "place": "Barcelona, ES",
@@ -133272,7 +133104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karlsplatz-stadtbahn-pavilions",
-  "n": 1421,
+  "n": 1415,
   "name": "Karlsplatz Stadtbahn Pavilions",
   "by": "Otto Wagner",
   "place": "Vienna, AT",
@@ -133373,7 +133205,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boston-public-library-mckim-building",
-  "n": 1422,
+  "n": 1416,
   "name": "Boston Public Library, McKim Building",
   "by": "McKim, Mead & White",
   "place": "Boston, US",
@@ -133474,7 +133306,7 @@ window.BUILDINGS = [
  },
  {
   "id": "belvedere-21",
-  "n": 1423,
+  "n": 1417,
   "name": "Belvedere 21",
   "by": "Karl Schwanzer",
   "place": "Vienna, AT",
@@ -133575,7 +133407,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-synagogue-dresden",
-  "n": 1424,
+  "n": 1418,
   "name": "New Synagogue Dresden",
   "by": "Wandel Hoefer Lorch + Hirsch",
   "place": "Dresden, DE",
@@ -133676,7 +133508,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cafe-de-unie",
-  "n": 1425,
+  "n": 1419,
   "name": "Café De Unie",
   "by": "J. J. P. Oud",
   "place": "Rotterdam, NL",
@@ -133753,7 +133585,7 @@ window.BUILDINGS = [
  },
  {
   "id": "geschwister-scholl-schule",
-  "n": 1426,
+  "n": 1420,
   "name": "Geschwister-Scholl-Schule",
   "by": "Hans Scharoun",
   "place": "Lünen, DE",
@@ -133830,7 +133662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "douaumont-ossuary",
-  "n": 1427,
+  "n": 1421,
   "name": "Douaumont Ossuary",
   "by": "Léon Azéma, Max Edrei and Jacques Hulot",
   "place": "Douaumont, FR",
@@ -133931,7 +133763,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathedral-of-learning",
-  "n": 1428,
+  "n": 1422,
   "name": "Cathedral of Learning",
   "by": "Charles Klauder",
   "place": "Pittsburgh, US",
@@ -134032,7 +133864,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castel-beranger",
-  "n": 1429,
+  "n": 1423,
   "name": "Castel Béranger",
   "by": "Hector Guimard",
   "place": "Paris, FR",
@@ -134133,7 +133965,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cedar-rock-walter-house",
-  "n": 1430,
+  "n": 1424,
   "name": "Cedar Rock (Walter House)",
   "by": "Frank Lloyd Wright",
   "place": "Quasqueton, US",
@@ -134222,7 +134054,7 @@ window.BUILDINGS = [
  },
  {
   "id": "honolulu-museum-of-art",
-  "n": 1431,
+  "n": 1425,
   "name": "Honolulu Museum of Art",
   "by": "Bertram Goodhue",
   "place": "Honolulu, US",
@@ -134299,7 +134131,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-east-asian-art",
-  "n": 1432,
+  "n": 1426,
   "name": "Museum of East Asian Art",
   "by": "Kunio Maekawa",
   "place": "Cologne, DE",
@@ -134376,7 +134208,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paper-dome-paper-church",
-  "n": 1433,
+  "n": 1427,
   "name": "Paper Dome (Paper Church)",
   "by": "Shigeru Ban",
   "place": "Puli, TW",
@@ -134477,7 +134309,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lappia-hall",
-  "n": 1434,
+  "n": 1428,
   "name": "Lappia Hall",
   "by": "Alvar Aalto",
   "place": "Rovaniemi, FI",
@@ -134554,7 +134386,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berkeley-art-museum-original-building",
-  "n": 1435,
+  "n": 1429,
   "name": "Berkeley Art Museum (original building)",
   "by": "Mario Ciampi",
   "place": "Berkeley, US",
@@ -134655,7 +134487,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tabakfabrik-linz",
-  "n": 1436,
+  "n": 1430,
   "name": "Tabakfabrik Linz",
   "by": "Peter Behrens and Alexander Popp",
   "place": "Linz, AT",
@@ -134756,7 +134588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tokyo-metropolitan-teien-art-museum",
-  "n": 1437,
+  "n": 1431,
   "name": "Tokyo Metropolitan Teien Art Museum",
   "by": "Yōkichi Gondō with Henri Rapin",
   "place": "Tokyo, JP",
@@ -134833,7 +134665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "autrique-house",
-  "n": 1438,
+  "n": 1432,
   "name": "Autrique House",
   "by": "Victor Horta",
   "place": "Brussels, BE",
@@ -134934,7 +134766,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gavina-showroom",
-  "n": 1439,
+  "n": 1433,
   "name": "Gavina Showroom",
   "by": "Carlo Scarpa",
   "place": "Bologna, IT",
@@ -134999,7 +134831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-piccolomini",
-  "n": 1440,
+  "n": 1434,
   "name": "Palazzo Piccolomini",
   "by": "Bernardo Rossellino",
   "place": "Pienza, IT",
@@ -135100,7 +134932,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cuvillies-theatre",
-  "n": 1441,
+  "n": 1435,
   "name": "Cuvilliés Theatre",
   "by": "François de Cuvilliés",
   "place": "Munich, DE",
@@ -135201,7 +135033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-military-history-arsenal",
-  "n": 1442,
+  "n": 1436,
   "name": "Museum of Military History (Arsenal)",
   "by": "Theophil Hansen and Ludwig Förster",
   "place": "Vienna, AT",
@@ -135278,7 +135110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dallas-museum-of-art",
-  "n": 1443,
+  "n": 1437,
   "name": "Dallas Museum of Art",
   "by": "Edward Larrabee Barnes",
   "place": "Dallas, US",
@@ -135379,7 +135211,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-dell-arte-triennale-di-milano",
-  "n": 1444,
+  "n": 1438,
   "name": "Palazzo dell'Arte (Triennale di Milano)",
   "by": "Giovanni Muzio",
   "place": "Milan, IT",
@@ -135480,7 +135312,7 @@ window.BUILDINGS = [
  },
  {
   "id": "opus-hong-kong",
-  "n": 1445,
+  "n": 1439,
   "name": "Opus Hong Kong",
   "by": "Frank Gehry",
   "place": "Hong Kong, HK",
@@ -135569,7 +135401,7 @@ window.BUILDINGS = [
  },
  {
   "id": "academy-of-arts-hanseatenweg",
-  "n": 1446,
+  "n": 1440,
   "name": "Academy of Arts, Hanseatenweg",
   "by": "Werner Düttmann",
   "place": "Berlin, DE",
@@ -135670,7 +135502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tagblatt-turm",
-  "n": 1447,
+  "n": 1441,
   "name": "Tagblatt-Turm",
   "by": "Ernst Otto Osswald",
   "place": "Stuttgart, DE",

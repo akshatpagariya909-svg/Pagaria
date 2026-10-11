@@ -1,9 +1,9 @@
 # batch2
 
 - Curated: 529
-- On the wall from this batch: 311 (35 added in the latest run, 35 of them approved by hand)
+- On the wall from this batch: 305 (0 added in the latest run, 35 of them approved by hand)
 - Held back for a check by hand: 0
-- Turned down: 216
+- Turned down: 222
 
 ## Held back
 
@@ -14,6 +14,12 @@
 
 | Building | Architect | Year | Place | Why |
 |---|---|---|---|---|
+| Notre-Dame du Raincy | Auguste Perret | 1923 | Le Raincy, FR | no free photo found |
+| Casa Bianchi | Mario Botta | 1973 | Riva San Vitale, CH | no free photo found |
+| Hyogo Children's Museum | Tadao Ando | 1989 | Himeji, JP | no free photo found |
+| Beirut Terraces | Herzog & de Meuron | 2017 | Beirut, LB | no free photo found |
+| Kumano Kodo Nakahechi Museum of Art | SANAA | 1997 | Tanabe, JP | no free photo found |
+| Disney Ice (Anaheim Ice) | Frank Gehry | 1995 | Anaheim, US | no free photo found |
 | Catedral Militar Rainha da Paz | Oscar Niemeyer |  | Brasília, BR | completion year uncertain (Wikidata 1991 may be design) |
 | Parc de Diagonal Mar | EMBT (Enric Miralles, Benedetta Tagliabue) | 2002 | Barcelona, ES | a park, not a building |
 | El Peix d'Or (Fish sculpture) | Frank Gehry | 1992 | Barcelona, ES | a sculpture, not a building |
@@ -245,304 +251,298 @@
 | 1144 | National Gallery of Art, East Building | I. M. Pei | 1978 | Washington, US | Museum | Late modernism |
 | 1145 | California Academy of Sciences | Renzo Piano | 2008 | San Francisco, US | Museum | Contemporary |
 | 1146 | Guild House | Venturi and Rauch | 1963 | Philadelphia, US | Housing | Postmodernism |
-| 1147 | Notre-Dame du Raincy | Auguste Perret | 1923 | Le Raincy, FR | Religious | Modernism |
-| 1148 | Kresge Auditorium | Eero Saarinen | 1955 | Cambridge, US | Culture & sport | Late modernism |
-| 1149 | Casa Bianchi | Mario Botta | 1973 | Riva San Vitale, CH | House | Late modernism |
-| 1150 | Japan Pavilion, Expo 2000 | Shigeru Ban with Frei Otto | 2000 | Hanover, DE | Pavilion | Contemporary |
-| 1151 | Sanatorium Purkersdorf | Josef Hoffmann | 1904 | Purkersdorf, AT | Health | Art Nouveau |
-| 1152 | MIT Chapel | Eero Saarinen | 1955 | Cambridge, US | Religious | Modernism |
-| 1153 | Rosenthal Center for Contemporary Art | Zaha Hadid | 2003 | Cincinnati, US | Museum | Deconstructivism |
-| 1154 | Galeries Lafayette Berlin | Jean Nouvel | 1996 | Berlin, DE | Workplace | High-tech |
-| 1155 | McCormick Tribune Campus Center | OMA / Rem Koolhaas | 2003 | Chicago, US | Education | Contemporary |
-| 1156 | Olivetti Showroom | Carlo Scarpa | 1958 | Venice, IT | Workplace | Modernism |
-| 1157 | Geisel Library | William Pereira | 1970 | San Diego, US | Library | Brutalism |
-| 1158 | Maison du Peuple, Clichy | Beaudouin & Lods with Jean Prouvé | 1939 | Clichy, FR | Civic | Modernism |
-| 1159 | Netherlands Pavilion, Expo 2000 | MVRDV | 2000 | Hanover, DE | Pavilion | Contemporary |
-| 1160 | ADGB Trade Union School | Hannes Meyer and Hans Wittwer | 1930 | Bernau bei Berlin, DE | Education | Modernism |
-| 1161 | DZ Bank Building | Frank Gehry | 2001 | Berlin, DE | Office & tower | Deconstructivism |
-| 1162 | Cube Houses | Piet Blom | 1984 | Rotterdam, NL | Housing | Postmodernism |
-| 1163 | Casa Malaparte | Adalberto Libera and Curzio Malaparte | 1942 | Capri, IT | House | Modernism |
-| 1164 | 25 bis rue Franklin | Auguste Perret | 1904 | Paris, FR | Housing | Modernism |
-| 1165 | Kagawa Prefectural Government Office | Kenzō Tange | 1958 | Takamatsu, JP | Civic | Brutalism |
-| 1166 | Tower House | Takamitsu Azuma | 1966 | Tokyo, JP | House | Brutalism |
-| 1167 | Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA) | Yoshio Taniguchi | 1991 | Marugame, JP | Museum | Late modernism |
-| 1168 | Keeling House | Denys Lasdun | 1957 | London, GB | Housing | Brutalism |
-| 1169 | Church of Saint-Nicolas, Hérémence | Walter Maria Förderer | 1971 | Hérémence, CH | Religious | Brutalism |
-| 1170 | Immeuble Molitor | Le Corbusier and Pierre Jeanneret | 1934 | Paris, FR | Housing | Modernism |
-| 1171 | Cité de Refuge (Salvation Army Hostel) | Le Corbusier | 1933 | Paris, FR | Housing | Modernism |
-| 1172 | National Museum of the Republic | Oscar Niemeyer | 2006 | Brasília, BR | Museum | Modernism |
-| 1173 | Matthäuskirche Pforzheim | Egon Eiermann | 1953 | Pforzheim, DE | Religious | Modernism |
-| 1174 | Alvar Aalto Cultural Centre | Alvar Aalto | 1962 | Wolfsburg, DE | Culture & sport | Modernism |
-| 1175 | Morton H. Meyerson Symphony Center | I. M. Pei | 1989 | Dallas, US | Culture & sport | Late modernism |
-| 1176 | Aalto-Hochhaus | Alvar Aalto | 1962 | Bremen, DE | Housing | Modernism |
-| 1177 | BMW Central Building | Zaha Hadid | 2005 | Leipzig, DE | Workplace | Deconstructivism |
-| 1178 | Villa Schwob (Villa Turque) | Charles-Édouard Jeanneret (Le Corbusier) | 1917 | La Chaux-de-Fonds, CH | House | Historic precedent |
-| 1179 | Maison Louis Carré | Alvar Aalto | 1959 | Bazoches-sur-Guyonne, FR | House | Modernism |
-| 1180 | Christ Church Lutheran | Eliel Saarinen | 1949 | Minneapolis, US | Religious | Modernism |
-| 1181 | Case Study House #21 (Bailey House) | Pierre Koenig | 1959 | Los Angeles, US | House | Modernism |
-| 1182 | French Communist Party Headquarters | Oscar Niemeyer | 1971 | Paris, FR | Workplace | Modernism |
-| 1183 | Pennzoil Place | Philip Johnson and John Burgee | 1975 | Houston, US | Office & tower | Late modernism |
-| 1184 | Fuji Television Building | Kenzō Tange | 1996 | Tokyo, JP | Office & tower | Late modernism |
-| 1185 | Sheats-Goldstein Residence | John Lautner | 1963 | Los Angeles, US | House | Modernism |
-| 1186 | IKMZ Library, BTU Cottbus | Herzog & de Meuron | 2004 | Cottbus, DE | Library | Contemporary |
-| 1187 | Bakhmetevsky Bus Garage | Konstantin Melnikov with Vladimir Shukhov | 1928 | Moscow, RU | Infrastructure | Modernism |
-| 1188 | Kentuck Knob | Frank Lloyd Wright | 1956 | Chalk Hill, US | House | Modernism |
-| 1189 | Humana Building | Michael Graves | 1985 | Louisville, US | Office & tower | Postmodernism |
-| 1190 | Berlin State Library (Haus Potsdamer Straße) | Hans Scharoun | 1978 | Berlin, DE | Library | Expressionism |
-| 1191 | Aalto House (Riihitie) | Alvar Aalto and Aino Aalto | 1936 | Helsinki, FI | House | Modernism |
-| 1192 | 2 Willow Road | Ernő Goldfinger | 1939 | London, GB | House | Modernism |
-| 1193 | Co-Cathedral of the Great Mother of God (Gran Madre di Dio) | Gio Ponti | 1970 | Taranto, IT | Religious | Late modernism |
-| 1194 | Maison Hermès | Renzo Piano | 2001 | Tokyo, JP | Workplace | High-tech |
-| 1195 | Milam Residence | Paul Rudolph | 1961 | Ponte Vedra Beach, US | House | Modernism |
-| 1196 | Haus des Rundfunks | Hans Poelzig | 1931 | Berlin, DE | Workplace | Expressionism |
-| 1197 | Mäusebunker | Gerd and Magdalena Hänska | 1981 | Berlin, DE | Workplace | Brutalism |
-| 1198 | Maria Regina Martyrum | Hans Schädel and Friedrich Ebert | 1963 | Berlin, DE | Religious | Modernism |
-| 1199 | VDL Research House | Richard Neutra | 1932 | Los Angeles, US | House | Modernism |
-| 1200 | Casa Planells | Josep Maria Jujol | 1924 | Barcelona, ES | Housing | Art Nouveau |
-| 1201 | City Hall and Central Library, The Hague | Richard Meier | 1995 | The Hague, NL | Civic | Late modernism |
-| 1202 | MuBE – Brazilian Museum of Sculpture | Paulo Mendes da Rocha | 1995 | São Paulo, BR | Museum | Brutalism |
-| 1203 | Maison Jean Prouvé | Jean Prouvé | 1954 | Nancy, FR | House | Modernism |
-| 1204 | House of the Black Madonna | Josef Gočár | 1912 | Prague, CZ | Museum | Expressionism |
-| 1205 | Nebraska State Capitol | Bertram Goodhue | 1932 | Lincoln, US | Civic | Art Deco |
-| 1206 | Muuratsalo Experimental House | Alvar Aalto | 1953 | Jyväskylä, FI | House | Modernism |
-| 1207 | Darwin D. Martin House | Frank Lloyd Wright | 1905 | Buffalo, US | House | Modernism |
-| 1208 | Rødovre Town Hall | Arne Jacobsen | 1956 | Rødovre, DK | Civic | Modernism |
-| 1209 | Millard House (La Miniatura) | Frank Lloyd Wright | 1923 | Pasadena, US | House | Modernism |
-| 1210 | Jacobs II House (Solar Hemicycle) | Frank Lloyd Wright | 1948 | Middleton, US | House | Modernism |
-| 1211 | Romeo und Julia | Hans Scharoun and Wilhelm Frank | 1959 | Stuttgart, DE | Housing | Modernism |
-| 1212 | Fisher House | Louis Kahn | 1967 | Hatboro, US | House | Modernism |
-| 1213 | Umbrella House (Hiss Residence) | Paul Rudolph | 1953 | Sarasota, US | House | Modernism |
-| 1214 | Musikverein | Theophil Hansen | 1870 | Vienna, AT | Culture & sport | Historic precedent |
-| 1215 | Liège-Guillemins Station | Santiago Calatrava | 2009 | Liège, BE | Infrastructure | Contemporary |
-| 1216 | Villa Göth | Bengt Edman and Lennart Holm | 1950 | Uppsala, SE | House | Brutalism |
-| 1217 | Church on the Wind | Tadao Ando | 1986 | Kobe, JP | Religious | Late modernism |
-| 1218 | Monte Amiata Housing (Gallaratese) | Carlo Aymonino and Aldo Rossi | 1974 | Milan, IT | Housing | Postmodernism |
-| 1219 | Scharoun Theatre Wolfsburg | Hans Scharoun | 1973 | Wolfsburg, DE | Culture & sport | Expressionism |
-| 1220 | Prado Museum extension | Rafael Moneo | 2007 | Madrid, ES | Museum | Contemporary |
-| 1221 | Robert C. Weaver Federal Building | Marcel Breuer | 1968 | Washington, D.C., US | Office & tower | Brutalism |
-| 1222 | Torre de la Creu | Josep Maria Jujol | 1916 | Sant Joan Despí, ES | House | Art Nouveau |
-| 1223 | Auditorium Niccolò Paganini | Renzo Piano | 2001 | Parma, IT | Culture & sport | Contemporary |
-| 1224 | Herbert F. Johnson Museum of Art | I. M. Pei | 1973 | Ithaca, US | Museum | Brutalism |
-| 1225 | Lake Point Tower | Schipporeit-Heinrich | 1968 | Chicago, US | Housing | Late modernism |
-| 1226 | Museum of Applied Arts Frankfurt | Richard Meier | 1985 | Frankfurt, DE | Museum | Late modernism |
-| 1227 | Cadet Chapel, US Air Force Academy | Walter Netsch (SOM) | 1962 | Colorado Springs, US | Religious | Late modernism |
-| 1228 | Documentation Center Nazi Party Rally Grounds | Günther Domenig | 2001 | Nuremberg, DE | Memorial | Deconstructivism |
-| 1229 | Herz-Jesu-Kirche | Allmann Sattler Wappner | 2000 | Munich, DE | Religious | Contemporary |
-| 1230 | Bundeskunsthalle | Gustav Peichl | 1992 | Bonn, DE | Museum | Postmodernism |
-| 1231 | Munkegaard School | Arne Jacobsen | 1957 | Gentofte, DK | Education | Modernism |
-| 1232 | Asilo Sant'Elia | Giuseppe Terragni | 1937 | Como, IT | Education | Modernism |
-| 1233 | Agora Theatre | UNStudio | 2007 | Lelystad, NL | Culture & sport | Contemporary |
-| 1234 | Nantes Courthouse | Jean Nouvel | 2000 | Nantes, FR | Civic | Contemporary |
-| 1235 | Sheldon Museum of Art | Philip Johnson | 1963 | Lincoln, US | Museum | Late modernism |
-| 1236 | Wittgenstein House | Ludwig Wittgenstein and Paul Engelmann | 1928 | Vienna, AT | House | Modernism |
-| 1237 | Burrell Collection | Barry Gasson, John Meunier and Brit Andresen | 1983 | Glasgow, GB | Museum | Late modernism |
-| 1238 | Hotel Marqués de Riscal | Frank Gehry | 2006 | Elciego, ES | Hospitality | Deconstructivism |
-| 1239 | Villa Bloemenwerf | Henry van de Velde | 1895 | Brussels, BE | House | Art Nouveau |
-| 1240 | Abbey of St. Benedictusberg | Dom Hans van der Laan | 1968 | Vaals, NL | Religious | Modernism |
-| 1241 | Hôtel Guimard | Hector Guimard | 1912 | Paris, FR | House | Art Nouveau |
-| 1242 | Anzeiger-Hochhaus | Fritz Höger | 1928 | Hanover, DE | Office & tower | Expressionism |
-| 1243 | Dutch Pavilion, Venice Biennale | Gerrit Rietveld | 1954 | Venice, IT | Pavilion | Modernism |
-| 1244 | Jachthuis Sint Hubertus | Hendrik Petrus Berlage | 1920 | Otterlo, NL | House | Modernism |
-| 1245 | Steinhaus | Günther Domenig | 2008 | Steindorf am Ossiacher See, AT | House | Deconstructivism |
-| 1246 | The Atheneum | Richard Meier | 1979 | New Harmony, US | Civic | Late modernism |
-| 1247 | Liederhalle | Rolf Gutbrod and Adolf Abel | 1956 | Stuttgart, DE | Culture & sport | Modernism |
-| 1248 | Utzon House, Hellebæk | Jørn Utzon | 1952 | Hellebæk, DK | House | Modernism |
-| 1249 | Mannesmann-Hochhaus | Paul Schneider-Esleben | 1958 | Düsseldorf, DE | Office & tower | Modernism |
-| 1250 | Diözesanmuseum Paderborn | Gottfried Böhm | 1975 | Paderborn, DE | Museum | Late modernism |
-| 1251 | MUSE Science Museum | Renzo Piano Building Workshop | 2013 | Trento, IT | Museum | Contemporary |
-| 1252 | Municipal House (Obecní dům) | Antonín Balšánek and Osvald Polívka | 1912 | Prague, CZ | Culture & sport | Art Nouveau |
-| 1253 | Parliament House (Eduskuntatalo) | J. S. Sirén | 1931 | Helsinki, FI | Civic | Art Deco |
-| 1254 | Tribune Tower | John Mead Howells and Raymond Hood | 1925 | Chicago, US | Office & tower | Historic precedent |
-| 1255 | National Building Museum | Montgomery C. Meigs | 1887 | Washington, US | Museum | Historic precedent |
-| 1256 | Tribunal de Paris | Renzo Piano Building Workshop | 2018 | Paris, FR | Civic | Contemporary |
-| 1257 | Centro Botín | Renzo Piano Building Workshop | 2017 | Santander, ES | Museum | Contemporary |
-| 1258 | ACROS Fukuoka | Emilio Ambasz with Nihon Sekkei | 1995 | Fukuoka, JP | Culture & sport | Contemporary |
-| 1259 | L'Illa Diagonal | Rafael Moneo and Manuel de Solà-Morales | 1993 | Barcelona, ES | Office & tower | Late modernism |
-| 1260 | Weltstadthaus Peek & Cloppenburg | Renzo Piano Building Workshop | 2005 | Cologne, DE | Workplace | High-tech |
-| 1261 | House for an Art Lover | Charles Rennie Mackintosh | 1996 | Glasgow, GB | House | Art Nouveau |
-| 1262 | Fiera Milano | Massimiliano Fuksas | 2005 | Rho, IT | Workplace | Contemporary |
-| 1263 | Palazzo del Lavoro | Pier Luigi Nervi with Gio Ponti | 1961 | Turin, IT | Pavilion | Modernism |
-| 1264 | Hagen Crematorium | Peter Behrens | 1907 | Hagen, DE | Religious | Modernism |
-| 1265 | Pavilion for Japanese Art, LACMA | Bruce Goff and Bart Prince | 1988 | Los Angeles, US | Museum | Expressionism |
-| 1266 | De Vonk | J. J. P. Oud | 1918 | Noordwijkerhout, NL | Hospitality | Modernism |
-| 1267 | Hubertus House | Aldo van Eyck | 1978 | Amsterdam, NL | Housing | Late modernism |
-| 1268 | Atlanta Central Library | Marcel Breuer | 1980 | Atlanta, US | Library | Brutalism |
-| 1269 | Austrian Parliament Building | Theophil Hansen | 1883 | Vienna, AT | Civic | Historic precedent |
-| 1270 | Thomas Jefferson Building, Library of Congress | Smithmeyer & Pelz | 1897 | Washington, D.C., US | Library | Historic precedent |
-| 1271 | CaixaForum Barcelona | Josep Puig i Cadafalch; Arata Isozaki (entrance) | 2002 | Barcelona, ES | Museum | Art Nouveau |
-| 1272 | McGraw-Hill Building | Raymond Hood | 1931 | New York City, US | Office & tower | Art Deco |
-| 1273 | Eli and Edythe Broad Art Museum | Zaha Hadid Architects | 2012 | East Lansing, US | Museum | Deconstructivism |
-| 1274 | Centre de Cultura Contemporània de Barcelona (CCCB) | Viaplana i Piñón | 1994 | Barcelona, ES | Museum | Contemporary |
-| 1275 | Cathedral of Christ the Light | Craig W. Hartman (SOM) | 2008 | Oakland, US | Religious | Contemporary |
-| 1276 | Istituto Marchiondi Spagliardi | Vittoriano Viganò | 1957 | Milan, IT | Education | Brutalism |
-| 1277 | 78 Derngate | Charles Rennie Mackintosh | 1917 | Northampton, GB | House | Art Deco |
-| 1278 | Hyogo Children's Museum | Tadao Ando | 1989 | Himeji, JP | Culture & sport | Regionalism |
-| 1279 | Notre-Dame de Royan | Guillaume Gillet | 1958 | Royan, FR | Religious | Brutalism |
-| 1280 | Beirut Terraces | Herzog & de Meuron | 2017 | Beirut, LB | Housing | Contemporary |
-| 1281 | Musiktheater im Revier | Werner Ruhnau | 1959 | Gelsenkirchen, DE | Culture & sport | Modernism |
-| 1282 | Shukhov Tower on the Oka River | Vladimir Shukhov | 1929 | Dzerzhinsk, RU | Infrastructure | Modernism |
-| 1283 | Großmarkthalle | Martin Elsaesser | 1928 | Frankfurt, DE | Workplace | Modernism |
-| 1284 | KPN Tower | Renzo Piano Building Workshop | 2000 | Rotterdam, NL | Office & tower | High-tech |
-| 1285 | Haus der Kulturen der Welt (Kongresshalle) | Hugh Stubbins | 1957 | Berlin, DE | Culture & sport | Modernism |
-| 1286 | Nemausus | Jean Nouvel | 1987 | Nîmes, FR | Housing | High-tech |
-| 1287 | Diagoon Houses | Herman Hertzberger | 1970 | Delft, NL | Housing | Late modernism |
-| 1288 | Rufer House | Adolf Loos | 1922 | Vienna, AT | House | Modernism |
-| 1289 | Retti Candle Shop | Hans Hollein | 1965 | Vienna, AT | Workplace | Postmodernism |
-| 1290 | Hans Otto Theater | Gottfried Böhm | 2006 | Potsdam, DE | Culture & sport | Contemporary |
-| 1291 | Andrew Melville Hall | James Stirling | 1968 | St Andrews, GB | Education | Brutalism |
-| 1292 | Clore Gallery, Tate Britain | James Stirling, Michael Wilford | 1987 | London, GB | Museum | Postmodernism |
-| 1293 | Museum of Applied Arts | Ödön Lechner and Gyula Pártos | 1896 | Budapest, HU | Museum | Art Nouveau |
-| 1294 | Palace of Justice | Joseph Poelaert | 1883 | Brussels, BE | Civic | Historic precedent |
-| 1295 | El Capricho | Antoni Gaudí | 1885 | Comillas, ES | House | Art Nouveau |
-| 1296 | Euskalduna Conference Centre and Concert Hall | Federico Soriano and Dolores Palacios | 1999 | Bilbao, ES | Culture & sport | Contemporary |
-| 1297 | Majolikahaus | Otto Wagner | 1899 | Vienna, AT | Housing | Art Nouveau |
-| 1298 | Mirador | MVRDV with Blanca Lleó | 2005 | Madrid, ES | Housing | Contemporary |
-| 1299 | Siedlung Halen | Atelier 5 | 1961 | Kirchlindach, CH | Housing | Brutalism |
-| 1300 | Aula TU Delft | Van den Broek en Bakema | 1966 | Delft, NL | Education | Brutalism |
-| 1301 | Bankinter Building | Rafael Moneo and Ramón Bescós | 1977 | Madrid, ES | Workplace | Late modernism |
-| 1302 | Messner Mountain Museum Corones | Zaha Hadid Architects | 2015 | Bruneck, IT | Museum | Parametric |
-| 1303 | Sant Antoni-Joan Oliver Library | RCR Arquitectes | 2007 | Barcelona, ES | Library | Contemporary |
-| 1304 | International House of Japan | Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura | 1955 | Tokyo, JP | Hospitality | Modernism |
-| 1305 | Maison Blanche | Charles-Édouard Jeanneret (Le Corbusier) | 1912 | La Chaux-de-Fonds, CH | House | Historic precedent |
-| 1306 | Green Building (MIT Building 54) | I. M. Pei | 1964 | Cambridge, US | Education | Late modernism |
-| 1307 | Maison Planeix | Le Corbusier | 1928 | Paris, FR | House | Modernism |
-| 1308 | Ara Pacis Museum | Richard Meier | 2006 | Rome, IT | Museum | Late modernism |
-| 1309 | The Gateway | I. M. Pei | 1990 | Singapore, SG | Office & tower | Late modernism |
-| 1310 | Society Hill Towers | I. M. Pei | 1964 | Philadelphia, US | Housing | Late modernism |
-| 1311 | United States Supreme Court Building | Cass Gilbert | 1935 | Washington, D.C., US | Civic | Historic precedent |
-| 1312 | Holyoke Center (Smith Campus Center) | Josep Lluís Sert | 1966 | Cambridge, US | Education | Brutalism |
-| 1313 | Akino Fuku Art Museum | Terunobu Fujimori | 1998 | Hamamatsu, JP | Museum | Regionalism |
-| 1314 | Urania | Max Fabiani | 1910 | Vienna, AT | Education | Art Nouveau |
-| 1315 | Palmolive Building | Holabird & Root | 1929 | Chicago, US | Office & tower | Art Deco |
-| 1316 | Villa Fallet | Charles-Édouard Jeanneret (Le Corbusier) with René Chapallaz | 1907 | La Chaux-de-Fonds, CH | House | Art Nouveau |
-| 1317 | Lehmbruck Museum | Manfred Lehmbruck | 1964 | Duisburg, DE | Museum | Late modernism |
-| 1318 | Kino International | Josef Kaiser | 1963 | Berlin, DE | Culture & sport | Modernism |
-| 1319 | Four Domes Pavilion | Hans Poelzig | 1913 | Wrocław, PL | Museum | Historic precedent |
-| 1320 | Watari Museum of Contemporary Art (Watari-um) | Mario Botta | 1990 | Tokyo, JP | Museum | Postmodernism |
-| 1321 | Cartagena Roman Theatre Museum | Rafael Moneo | 2008 | Cartagena, ES | Museum | Contemporary |
-| 1322 | Manhattan Municipal Building | McKim, Mead & White | 1914 | New York, US | Civic | Historic precedent |
-| 1323 | Tempodrom | gmp (von Gerkan, Marg and Partners) | 2001 | Berlin, DE | Culture & sport | Contemporary |
-| 1324 | Großes Festspielhaus | Clemens Holzmeister | 1960 | Salzburg, AT | Culture & sport | Modernism |
-| 1325 | Grady Gammage Memorial Auditorium | Frank Lloyd Wright | 1964 | Tempe, US | Culture & sport | Modernism |
-| 1326 | Fisher Center for the Performing Arts | Frank Gehry | 2003 | Annandale-on-Hudson, US | Culture & sport | Deconstructivism |
-| 1327 | Igrejinha Nossa Senhora de Fátima | Oscar Niemeyer | 1958 | Brasília, BR | Religious | Modernism |
-| 1328 | De Kunstlinie | SANAA | 2007 | Almere, NL | Culture & sport | Contemporary |
-| 1329 | Chiesa del Santo Volto | Mario Botta | 2006 | Turin, IT | Religious | Postmodernism |
-| 1330 | Messe Torhaus | Oswald Mathias Ungers | 1984 | Frankfurt, DE | Office & tower | Postmodernism |
-| 1331 | Bodegas Ysios | Santiago Calatrava | 2001 | Laguardia, ES | Workplace | Contemporary |
-| 1332 | Rainier Tower | Minoru Yamasaki | 1977 | Seattle, US | Office & tower | Late modernism |
-| 1333 | Christi Auferstehung | Gottfried Böhm | 1970 | Cologne, DE | Religious | Brutalism |
-| 1334 | Weizmann House | Erich Mendelsohn | 1937 | Rehovot, IL | House | Modernism |
-| 1335 | Westmount Square | Ludwig Mies van der Rohe | 1967 | Montreal, CA | Office & tower | Modernism |
-| 1336 | San Francisco City Hall | Arthur Brown Jr. | 1915 | San Francisco, US | Civic | Historic precedent |
-| 1337 | Chicago Board of Trade Building | Holabird & Root | 1930 | Chicago, US | Office & tower | Art Deco |
-| 1338 | Katuaq | Schmidt Hammer Lassen | 1997 | Nuuk, GL | Culture & sport | Contemporary |
-| 1339 | Fisher Building | Albert Kahn | 1928 | Detroit, US | Office & tower | Art Deco |
-| 1340 | The Bow | Foster + Partners | 2012 | Calgary, CA | Office & tower | High-tech |
-| 1341 | Timberline Lodge | W. I. Turner and Gilbert Stanley Underwood (WPA) | 1937 | Government Camp, US | Hospitality | Regionalism |
-| 1342 | Tancredo Neves Pantheon of the Fatherland | Oscar Niemeyer | 1986 | Brasília, BR | Memorial | Modernism |
-| 1343 | Villa Esche | Henry van de Velde | 1903 | Chemnitz, DE | House | Art Nouveau |
-| 1344 | Perret Tower | Auguste Perret | 1925 | Grenoble, FR | Infrastructure | Modernism |
-| 1345 | Café Seerose | Ulrich Müther | 1983 | Potsdam, DE | Hospitality | Late modernism |
-| 1346 | Garden of Fine Arts, Kyoto | Tadao Ando | 1994 | Kyoto, JP | Museum | Contemporary |
-| 1347 | Glaspalast Sindelfingen | Behnisch & Partner | 1977 | Sindelfingen, DE | Culture & sport | Late modernism |
-| 1348 | Muziekcentrum Vredenburg | Herman Hertzberger | 1979 | Utrecht, NL | Culture & sport | Late modernism |
-| 1349 | Skagen Odde Nature Centre | Jørn Utzon | 2000 | Skagen, DK | Museum | Regionalism |
-| 1350 | Skopje Railway Station | Kenzō Tange | 1981 | Skopje, MK | Infrastructure | Brutalism |
-| 1351 | Transparent Factory | Gunter Henn | 2002 | Dresden, DE | Workplace | High-tech |
-| 1352 | Louise Weiss Building, European Parliament | Architecture-Studio | 1999 | Strasbourg, FR | Civic | Contemporary |
-| 1353 | Gehry Tower | Frank Gehry | 2001 | Hanover, DE | Office & tower | Deconstructivism |
-| 1354 | Hohenhof | Henry van de Velde | 1908 | Hagen, DE | House | Art Nouveau |
-| 1355 | Tour de Lille | Christian de Portzamparc | 1995 | Lille, FR | Office & tower | Postmodernism |
-| 1356 | Kumano Kodo Nakahechi Museum of Art | SANAA | 1997 | Tanabe, JP | Museum | Contemporary |
-| 1357 | Graduate House, University of Toronto | Morphosis with Teeple Architects | 2000 | Toronto, CA | Housing | Deconstructivism |
-| 1358 | Kunstmuseum Stuttgart | Hascher Jehle Architektur | 2005 | Stuttgart, DE | Museum | Contemporary |
-| 1359 | State Council Building | Roland Korn and Hans-Erich Bogatzky | 1964 | Berlin, DE | Civic | Late modernism |
-| 1360 | Lisbon Port Control Tower | Gonçalo Byrne | 2001 | Lisbon, PT | Infrastructure | Contemporary |
-| 1361 | Concord Pavilion | Frank Gehry | 1975 | Concord, US | Culture & sport | Late modernism |
-| 1362 | Ceramic Park Mino | Arata Isozaki | 2002 | Tajimi, JP | Museum | Contemporary |
-| 1363 | Gosstrakh Apartments | Moisei Ginzburg | 1927 | Moscow, RU | Housing | Modernism |
-| 1364 | Disney Ice (Anaheim Ice) | Frank Gehry | 1995 | Anaheim, US | Culture & sport | Contemporary |
-| 1365 | Tripolis | Aldo van Eyck and Hannie van Eyck | 1994 | Amsterdam, NL | Workplace | Modernism |
-| 1366 | 555 California Street | Wurster, Bernardi & Emmons and SOM, with Pietro Belluschi | 1969 | San Francisco, US | Office & tower | Late modernism |
-| 1367 | New York State Capitol | Thomas Fuller, Leopold Eidlitz, H. H. Richardson, Isaac Perry | 1899 | Albany, US | Civic | Historic precedent |
-| 1368 | Funkturm Berlin | Heinrich Straumer | 1926 | Berlin, DE | Infrastructure | Modernism |
-| 1369 | L'Àgora | Santiago Calatrava | 2009 | Valencia, ES | Culture & sport | Contemporary |
-| 1370 | Langer Eugen | Egon Eiermann | 1969 | Bonn, DE | Office & tower | Late modernism |
-| 1371 | PPG Place | Philip Johnson and John Burgee | 1984 | Pittsburgh, US | Office & tower | Postmodernism |
-| 1372 | Staatstheater Cottbus | Bernhard Sehring | 1908 | Cottbus, DE | Culture & sport | Art Nouveau |
-| 1373 | Ahwahnee Hotel | Gilbert Stanley Underwood | 1927 | Yosemite Valley, US | Hospitality | Regionalism |
-| 1374 | St. Johann von Capistran | Sep Ruf | 1960 | Munich, DE | Religious | Modernism |
-| 1375 | Okanoyama Museum of Art | Arata Isozaki | 1984 | Nishiwaki, JP | Museum | Postmodernism |
-| 1376 | Garage with Chauffeur's Flat | Gerrit Rietveld | 1928 | Utrecht, NL | Workplace | Modernism |
-| 1377 | Hallfield Primary School | Denys Lasdun | 1954 | London, GB | Education | Modernism |
-| 1378 | San Francesco al Fopponino | Gio Ponti | 1964 | Milan, IT | Religious | Modernism |
-| 1379 | Joieria Roca | Josep Lluís Sert | 1934 | Barcelona, ES | Workplace | Modernism |
-| 1380 | Constance Perkins House | Richard Neutra | 1955 | Pasadena, US | House | Modernism |
-| 1381 | Jardinette Apartments | Richard Neutra | 1928 | Los Angeles, US | Housing | Modernism |
-| 1382 | Pennsylvania State Capitol | Joseph Miller Huston | 1906 | Harrisburg, US | Civic | Historic precedent |
-| 1383 | Märkisches Museum | Ludwig Hoffmann | 1908 | Berlin, DE | Museum | Historic precedent |
-| 1384 | Wrigley Building | Graham, Anderson, Probst & White | 1924 | Chicago, US | Office & tower | Historic precedent |
-| 1385 | Bodegas Güell | Francesc Berenguer with Antoni Gaudí | 1901 | Sitges, ES | Workplace | Art Nouveau |
-| 1386 | Festspielhaus Baden-Baden | Wilhelm Holzbauer | 1998 | Baden-Baden, DE | Culture & sport | Postmodernism |
-| 1387 | Capitol Records Building | Welton Becket (Louis Naidorf) | 1956 | Los Angeles, US | Office & tower | Modernism |
-| 1388 | Kollhoff Tower | Hans Kollhoff | 1999 | Berlin, DE | Office & tower | Postmodernism |
-| 1389 | Palmenhaus, Burggarten | Friedrich Ohmann | 1906 | Vienna, AT | Pavilion | Art Nouveau |
-| 1390 | James A. Farley Building (Moynihan Train Hall) | McKim, Mead & White; SOM (train hall) | 1914 | New York City, US | Infrastructure | Historic precedent |
-| 1391 | Kulturpalast Dresden | Wolfgang Hänsch | 1969 | Dresden, DE | Culture & sport | Modernism |
-| 1392 | Shinjuku NS Building | Nikken Sekkei (Shōji Hayashi) | 1982 | Tokyo, JP | Office & tower | Late modernism |
-| 1393 | Hochhaus an der Weberwiese | Hermann Henselmann | 1952 | Berlin, DE | Housing | Historic precedent |
-| 1394 | West Japan General Exhibition Center | Arata Isozaki | 1977 | Kitakyushu, JP | Culture & sport | Late modernism |
-| 1395 | Weesperflat | Herman Hertzberger | 1966 | Amsterdam, NL | Housing | Late modernism |
-| 1396 | Chassé Theater | Herman Hertzberger | 1995 | Breda, NL | Culture & sport | Late modernism |
-| 1397 | New Town Hall, Hanover | Hermann Eggert and Gustav Halmhuber | 1913 | Hanover, DE | Civic | Historic precedent |
-| 1398 | Helsinki Music Centre | LPR Architects | 2011 | Helsinki, FI | Culture & sport | Contemporary |
-| 1399 | Casa Fuster | Lluís Domènech i Montaner | 1911 | Barcelona, ES | Housing | Art Nouveau |
-| 1400 | Lasipalatsi | Viljo Revell, Niilo Kokko and Heimo Riihimäki | 1936 | Helsinki, FI | Workplace | Modernism |
-| 1401 | Paula Modersohn-Becker Museum | Bernhard Hoetger | 1927 | Bremen, DE | Museum | Expressionism |
-| 1402 | Hypo-Haus | Walther and Bea Betz | 1981 | Munich, DE | Office & tower | High-tech |
-| 1403 | Notre-Dame-de-l'Arche-d'Alliance | Architecture-Studio | 1998 | Paris, FR | Religious | Contemporary |
-| 1404 | Gosplan Garage | Konstantin Melnikov | 1936 | Moscow, RU | Infrastructure | Modernism |
-| 1405 | Stadsschouwburg Utrecht | Willem Marinus Dudok | 1941 | Utrecht, NL | Culture & sport | Modernism |
-| 1406 | National Space Centre | Nicholas Grimshaw | 2001 | Leicester, GB | Museum | High-tech |
-| 1407 | Sakamoto Ryōma Memorial Museum | Workshop (Hiroshi and Akiko Takahashi) | 1991 | Kōchi, JP | Museum | Contemporary |
-| 1408 | Roche Tower 2 | Herzog & de Meuron | 2022 | Basel, CH | Office & tower | Contemporary |
-| 1409 | Place Bonaventure | ARCOP | 1967 | Montreal, CA | Workplace | Brutalism |
-| 1410 | The Lowry | Michael Wilford and Partners | 2000 | Salford, GB | Culture & sport | Postmodernism |
-| 1411 | Café Moskau | Josef Kaiser | 1964 | Berlin, DE | Hospitality | Modernism |
-| 1412 | Terneuzen City Hall | Van den Broek en Bakema | 1972 | Terneuzen, NL | Civic | Brutalism |
-| 1413 | Glasgow School of Art | Charles Rennie Mackintosh | 1909 | Glasgow, GB | Education | Art Nouveau |
-| 1414 | Mesa Laboratory (NCAR) | I. M. Pei | 1967 | Boulder, US | Workplace | Brutalism |
-| 1415 | Pampulha Art Museum (former Casino) | Oscar Niemeyer | 1943 | Belo Horizonte, BR | Museum | Modernism |
-| 1416 | Pastoor van Arskerk | Aldo van Eyck | 1969 | The Hague, NL | Religious | Modernism |
-| 1417 | Contemporary Jewish Museum | Daniel Libeskind | 2008 | San Francisco, US | Museum | Deconstructivism |
-| 1418 | Institute of Contemporary Art, Boston | Diller Scofidio + Renfro | 2006 | Boston, US | Museum | Contemporary |
-| 1419 | Everson Museum of Art | I. M. Pei | 1968 | Syracuse, US | Museum | Brutalism |
-| 1420 | Casa Bloc | Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana | 1936 | Barcelona, ES | Housing | Modernism |
-| 1421 | Karlsplatz Stadtbahn Pavilions | Otto Wagner | 1899 | Vienna, AT | Infrastructure | Art Nouveau |
-| 1422 | Boston Public Library, McKim Building | McKim, Mead & White | 1895 | Boston, US | Library | Historic precedent |
-| 1423 | Belvedere 21 | Karl Schwanzer | 1962 | Vienna, AT | Museum | Modernism |
-| 1424 | New Synagogue Dresden | Wandel Hoefer Lorch + Hirsch | 2001 | Dresden, DE | Religious | Contemporary |
-| 1425 | Café De Unie | J. J. P. Oud | 1925 | Rotterdam, NL | Hospitality | Modernism |
-| 1426 | Geschwister-Scholl-Schule | Hans Scharoun | 1962 | Lünen, DE | Education | Expressionism |
-| 1427 | Douaumont Ossuary | Léon Azéma, Max Edrei and Jacques Hulot | 1932 | Douaumont, FR | Memorial | Art Deco |
-| 1428 | Cathedral of Learning | Charles Klauder | 1937 | Pittsburgh, US | Education | Historic precedent |
-| 1429 | Castel Béranger | Hector Guimard | 1898 | Paris, FR | Housing | Art Nouveau |
-| 1430 | Cedar Rock (Walter House) | Frank Lloyd Wright | 1950 | Quasqueton, US | House | Modernism |
-| 1431 | Honolulu Museum of Art | Bertram Goodhue | 1927 | Honolulu, US | Museum | Regionalism |
-| 1432 | Museum of East Asian Art | Kunio Maekawa | 1977 | Cologne, DE | Museum | Late modernism |
-| 1433 | Paper Dome (Paper Church) | Shigeru Ban | 2008 | Puli, TW | Religious | Contemporary |
-| 1434 | Lappia Hall | Alvar Aalto | 1975 | Rovaniemi, FI | Culture & sport | Late modernism |
-| 1435 | Berkeley Art Museum (original building) | Mario Ciampi | 1970 | Berkeley, US | Museum | Brutalism |
-| 1436 | Tabakfabrik Linz | Peter Behrens and Alexander Popp | 1935 | Linz, AT | Workplace | Modernism |
-| 1437 | Tokyo Metropolitan Teien Art Museum | Yōkichi Gondō with Henri Rapin | 1933 | Tokyo, JP | Museum | Art Deco |
-| 1438 | Autrique House | Victor Horta | 1893 | Brussels, BE | House | Art Nouveau |
-| 1439 | Gavina Showroom | Carlo Scarpa | 1963 | Bologna, IT | Workplace | Modernism |
-| 1440 | Palazzo Piccolomini | Bernardo Rossellino | 1462 | Pienza, IT | Palace | Historic precedent |
-| 1441 | Cuvilliés Theatre | François de Cuvilliés | 1753 | Munich, DE | Culture & sport | Historic precedent |
-| 1442 | Museum of Military History (Arsenal) | Theophil Hansen and Ludwig Förster | 1856 | Vienna, AT | Museum | Historic precedent |
-| 1443 | Dallas Museum of Art | Edward Larrabee Barnes | 1984 | Dallas, US | Museum | Late modernism |
-| 1444 | Palazzo dell'Arte (Triennale di Milano) | Giovanni Muzio | 1933 | Milan, IT | Museum | Modernism |
-| 1445 | Opus Hong Kong | Frank Gehry | 2012 | Hong Kong, HK | Housing | Deconstructivism |
-| 1446 | Academy of Arts, Hanseatenweg | Werner Düttmann | 1960 | Berlin, DE | Culture & sport | Modernism |
-| 1447 | Tagblatt-Turm | Ernst Otto Osswald | 1928 | Stuttgart, DE | Office & tower | Modernism |
+| 1147 | Kresge Auditorium | Eero Saarinen | 1955 | Cambridge, US | Culture & sport | Late modernism |
+| 1148 | Japan Pavilion, Expo 2000 | Shigeru Ban with Frei Otto | 2000 | Hanover, DE | Pavilion | Contemporary |
+| 1149 | Sanatorium Purkersdorf | Josef Hoffmann | 1904 | Purkersdorf, AT | Health | Art Nouveau |
+| 1150 | MIT Chapel | Eero Saarinen | 1955 | Cambridge, US | Religious | Modernism |
+| 1151 | Rosenthal Center for Contemporary Art | Zaha Hadid | 2003 | Cincinnati, US | Museum | Deconstructivism |
+| 1152 | Galeries Lafayette Berlin | Jean Nouvel | 1996 | Berlin, DE | Workplace | High-tech |
+| 1153 | McCormick Tribune Campus Center | OMA / Rem Koolhaas | 2003 | Chicago, US | Education | Contemporary |
+| 1154 | Olivetti Showroom | Carlo Scarpa | 1958 | Venice, IT | Workplace | Modernism |
+| 1155 | Geisel Library | William Pereira | 1970 | San Diego, US | Library | Brutalism |
+| 1156 | Maison du Peuple, Clichy | Beaudouin & Lods with Jean Prouvé | 1939 | Clichy, FR | Civic | Modernism |
+| 1157 | Netherlands Pavilion, Expo 2000 | MVRDV | 2000 | Hanover, DE | Pavilion | Contemporary |
+| 1158 | ADGB Trade Union School | Hannes Meyer and Hans Wittwer | 1930 | Bernau bei Berlin, DE | Education | Modernism |
+| 1159 | DZ Bank Building | Frank Gehry | 2001 | Berlin, DE | Office & tower | Deconstructivism |
+| 1160 | Cube Houses | Piet Blom | 1984 | Rotterdam, NL | Housing | Postmodernism |
+| 1161 | Casa Malaparte | Adalberto Libera and Curzio Malaparte | 1942 | Capri, IT | House | Modernism |
+| 1162 | 25 bis rue Franklin | Auguste Perret | 1904 | Paris, FR | Housing | Modernism |
+| 1163 | Kagawa Prefectural Government Office | Kenzō Tange | 1958 | Takamatsu, JP | Civic | Brutalism |
+| 1164 | Tower House | Takamitsu Azuma | 1966 | Tokyo, JP | House | Brutalism |
+| 1165 | Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA) | Yoshio Taniguchi | 1991 | Marugame, JP | Museum | Late modernism |
+| 1166 | Keeling House | Denys Lasdun | 1957 | London, GB | Housing | Brutalism |
+| 1167 | Church of Saint-Nicolas, Hérémence | Walter Maria Förderer | 1971 | Hérémence, CH | Religious | Brutalism |
+| 1168 | Immeuble Molitor | Le Corbusier and Pierre Jeanneret | 1934 | Paris, FR | Housing | Modernism |
+| 1169 | Cité de Refuge (Salvation Army Hostel) | Le Corbusier | 1933 | Paris, FR | Housing | Modernism |
+| 1170 | National Museum of the Republic | Oscar Niemeyer | 2006 | Brasília, BR | Museum | Modernism |
+| 1171 | Matthäuskirche Pforzheim | Egon Eiermann | 1953 | Pforzheim, DE | Religious | Modernism |
+| 1172 | Alvar Aalto Cultural Centre | Alvar Aalto | 1962 | Wolfsburg, DE | Culture & sport | Modernism |
+| 1173 | Morton H. Meyerson Symphony Center | I. M. Pei | 1989 | Dallas, US | Culture & sport | Late modernism |
+| 1174 | Aalto-Hochhaus | Alvar Aalto | 1962 | Bremen, DE | Housing | Modernism |
+| 1175 | BMW Central Building | Zaha Hadid | 2005 | Leipzig, DE | Workplace | Deconstructivism |
+| 1176 | Villa Schwob (Villa Turque) | Charles-Édouard Jeanneret (Le Corbusier) | 1917 | La Chaux-de-Fonds, CH | House | Historic precedent |
+| 1177 | Maison Louis Carré | Alvar Aalto | 1959 | Bazoches-sur-Guyonne, FR | House | Modernism |
+| 1178 | Christ Church Lutheran | Eliel Saarinen | 1949 | Minneapolis, US | Religious | Modernism |
+| 1179 | Case Study House #21 (Bailey House) | Pierre Koenig | 1959 | Los Angeles, US | House | Modernism |
+| 1180 | French Communist Party Headquarters | Oscar Niemeyer | 1971 | Paris, FR | Workplace | Modernism |
+| 1181 | Pennzoil Place | Philip Johnson and John Burgee | 1975 | Houston, US | Office & tower | Late modernism |
+| 1182 | Fuji Television Building | Kenzō Tange | 1996 | Tokyo, JP | Office & tower | Late modernism |
+| 1183 | Sheats-Goldstein Residence | John Lautner | 1963 | Los Angeles, US | House | Modernism |
+| 1184 | IKMZ Library, BTU Cottbus | Herzog & de Meuron | 2004 | Cottbus, DE | Library | Contemporary |
+| 1185 | Bakhmetevsky Bus Garage | Konstantin Melnikov with Vladimir Shukhov | 1928 | Moscow, RU | Infrastructure | Modernism |
+| 1186 | Kentuck Knob | Frank Lloyd Wright | 1956 | Chalk Hill, US | House | Modernism |
+| 1187 | Humana Building | Michael Graves | 1985 | Louisville, US | Office & tower | Postmodernism |
+| 1188 | Berlin State Library (Haus Potsdamer Straße) | Hans Scharoun | 1978 | Berlin, DE | Library | Expressionism |
+| 1189 | Aalto House (Riihitie) | Alvar Aalto and Aino Aalto | 1936 | Helsinki, FI | House | Modernism |
+| 1190 | 2 Willow Road | Ernő Goldfinger | 1939 | London, GB | House | Modernism |
+| 1191 | Co-Cathedral of the Great Mother of God (Gran Madre di Dio) | Gio Ponti | 1970 | Taranto, IT | Religious | Late modernism |
+| 1192 | Maison Hermès | Renzo Piano | 2001 | Tokyo, JP | Workplace | High-tech |
+| 1193 | Milam Residence | Paul Rudolph | 1961 | Ponte Vedra Beach, US | House | Modernism |
+| 1194 | Haus des Rundfunks | Hans Poelzig | 1931 | Berlin, DE | Workplace | Expressionism |
+| 1195 | Mäusebunker | Gerd and Magdalena Hänska | 1981 | Berlin, DE | Workplace | Brutalism |
+| 1196 | Maria Regina Martyrum | Hans Schädel and Friedrich Ebert | 1963 | Berlin, DE | Religious | Modernism |
+| 1197 | VDL Research House | Richard Neutra | 1932 | Los Angeles, US | House | Modernism |
+| 1198 | Casa Planells | Josep Maria Jujol | 1924 | Barcelona, ES | Housing | Art Nouveau |
+| 1199 | City Hall and Central Library, The Hague | Richard Meier | 1995 | The Hague, NL | Civic | Late modernism |
+| 1200 | MuBE – Brazilian Museum of Sculpture | Paulo Mendes da Rocha | 1995 | São Paulo, BR | Museum | Brutalism |
+| 1201 | Maison Jean Prouvé | Jean Prouvé | 1954 | Nancy, FR | House | Modernism |
+| 1202 | House of the Black Madonna | Josef Gočár | 1912 | Prague, CZ | Museum | Expressionism |
+| 1203 | Nebraska State Capitol | Bertram Goodhue | 1932 | Lincoln, US | Civic | Art Deco |
+| 1204 | Muuratsalo Experimental House | Alvar Aalto | 1953 | Jyväskylä, FI | House | Modernism |
+| 1205 | Darwin D. Martin House | Frank Lloyd Wright | 1905 | Buffalo, US | House | Modernism |
+| 1206 | Rødovre Town Hall | Arne Jacobsen | 1956 | Rødovre, DK | Civic | Modernism |
+| 1207 | Millard House (La Miniatura) | Frank Lloyd Wright | 1923 | Pasadena, US | House | Modernism |
+| 1208 | Jacobs II House (Solar Hemicycle) | Frank Lloyd Wright | 1948 | Middleton, US | House | Modernism |
+| 1209 | Romeo und Julia | Hans Scharoun and Wilhelm Frank | 1959 | Stuttgart, DE | Housing | Modernism |
+| 1210 | Fisher House | Louis Kahn | 1967 | Hatboro, US | House | Modernism |
+| 1211 | Umbrella House (Hiss Residence) | Paul Rudolph | 1953 | Sarasota, US | House | Modernism |
+| 1212 | Musikverein | Theophil Hansen | 1870 | Vienna, AT | Culture & sport | Historic precedent |
+| 1213 | Liège-Guillemins Station | Santiago Calatrava | 2009 | Liège, BE | Infrastructure | Contemporary |
+| 1214 | Villa Göth | Bengt Edman and Lennart Holm | 1950 | Uppsala, SE | House | Brutalism |
+| 1215 | Church on the Wind | Tadao Ando | 1986 | Kobe, JP | Religious | Late modernism |
+| 1216 | Monte Amiata Housing (Gallaratese) | Carlo Aymonino and Aldo Rossi | 1974 | Milan, IT | Housing | Postmodernism |
+| 1217 | Scharoun Theatre Wolfsburg | Hans Scharoun | 1973 | Wolfsburg, DE | Culture & sport | Expressionism |
+| 1218 | Prado Museum extension | Rafael Moneo | 2007 | Madrid, ES | Museum | Contemporary |
+| 1219 | Robert C. Weaver Federal Building | Marcel Breuer | 1968 | Washington, D.C., US | Office & tower | Brutalism |
+| 1220 | Torre de la Creu | Josep Maria Jujol | 1916 | Sant Joan Despí, ES | House | Art Nouveau |
+| 1221 | Auditorium Niccolò Paganini | Renzo Piano | 2001 | Parma, IT | Culture & sport | Contemporary |
+| 1222 | Herbert F. Johnson Museum of Art | I. M. Pei | 1973 | Ithaca, US | Museum | Brutalism |
+| 1223 | Lake Point Tower | Schipporeit-Heinrich | 1968 | Chicago, US | Housing | Late modernism |
+| 1224 | Museum of Applied Arts Frankfurt | Richard Meier | 1985 | Frankfurt, DE | Museum | Late modernism |
+| 1225 | Cadet Chapel, US Air Force Academy | Walter Netsch (SOM) | 1962 | Colorado Springs, US | Religious | Late modernism |
+| 1226 | Documentation Center Nazi Party Rally Grounds | Günther Domenig | 2001 | Nuremberg, DE | Memorial | Deconstructivism |
+| 1227 | Herz-Jesu-Kirche | Allmann Sattler Wappner | 2000 | Munich, DE | Religious | Contemporary |
+| 1228 | Bundeskunsthalle | Gustav Peichl | 1992 | Bonn, DE | Museum | Postmodernism |
+| 1229 | Munkegaard School | Arne Jacobsen | 1957 | Gentofte, DK | Education | Modernism |
+| 1230 | Asilo Sant'Elia | Giuseppe Terragni | 1937 | Como, IT | Education | Modernism |
+| 1231 | Agora Theatre | UNStudio | 2007 | Lelystad, NL | Culture & sport | Contemporary |
+| 1232 | Nantes Courthouse | Jean Nouvel | 2000 | Nantes, FR | Civic | Contemporary |
+| 1233 | Sheldon Museum of Art | Philip Johnson | 1963 | Lincoln, US | Museum | Late modernism |
+| 1234 | Wittgenstein House | Ludwig Wittgenstein and Paul Engelmann | 1928 | Vienna, AT | House | Modernism |
+| 1235 | Burrell Collection | Barry Gasson, John Meunier and Brit Andresen | 1983 | Glasgow, GB | Museum | Late modernism |
+| 1236 | Hotel Marqués de Riscal | Frank Gehry | 2006 | Elciego, ES | Hospitality | Deconstructivism |
+| 1237 | Villa Bloemenwerf | Henry van de Velde | 1895 | Brussels, BE | House | Art Nouveau |
+| 1238 | Abbey of St. Benedictusberg | Dom Hans van der Laan | 1968 | Vaals, NL | Religious | Modernism |
+| 1239 | Hôtel Guimard | Hector Guimard | 1912 | Paris, FR | House | Art Nouveau |
+| 1240 | Anzeiger-Hochhaus | Fritz Höger | 1928 | Hanover, DE | Office & tower | Expressionism |
+| 1241 | Dutch Pavilion, Venice Biennale | Gerrit Rietveld | 1954 | Venice, IT | Pavilion | Modernism |
+| 1242 | Jachthuis Sint Hubertus | Hendrik Petrus Berlage | 1920 | Otterlo, NL | House | Modernism |
+| 1243 | Steinhaus | Günther Domenig | 2008 | Steindorf am Ossiacher See, AT | House | Deconstructivism |
+| 1244 | The Atheneum | Richard Meier | 1979 | New Harmony, US | Civic | Late modernism |
+| 1245 | Liederhalle | Rolf Gutbrod and Adolf Abel | 1956 | Stuttgart, DE | Culture & sport | Modernism |
+| 1246 | Utzon House, Hellebæk | Jørn Utzon | 1952 | Hellebæk, DK | House | Modernism |
+| 1247 | Mannesmann-Hochhaus | Paul Schneider-Esleben | 1958 | Düsseldorf, DE | Office & tower | Modernism |
+| 1248 | Diözesanmuseum Paderborn | Gottfried Böhm | 1975 | Paderborn, DE | Museum | Late modernism |
+| 1249 | MUSE Science Museum | Renzo Piano Building Workshop | 2013 | Trento, IT | Museum | Contemporary |
+| 1250 | Municipal House (Obecní dům) | Antonín Balšánek and Osvald Polívka | 1912 | Prague, CZ | Culture & sport | Art Nouveau |
+| 1251 | Parliament House (Eduskuntatalo) | J. S. Sirén | 1931 | Helsinki, FI | Civic | Art Deco |
+| 1252 | Tribune Tower | John Mead Howells and Raymond Hood | 1925 | Chicago, US | Office & tower | Historic precedent |
+| 1253 | National Building Museum | Montgomery C. Meigs | 1887 | Washington, US | Museum | Historic precedent |
+| 1254 | Tribunal de Paris | Renzo Piano Building Workshop | 2018 | Paris, FR | Civic | Contemporary |
+| 1255 | Centro Botín | Renzo Piano Building Workshop | 2017 | Santander, ES | Museum | Contemporary |
+| 1256 | ACROS Fukuoka | Emilio Ambasz with Nihon Sekkei | 1995 | Fukuoka, JP | Culture & sport | Contemporary |
+| 1257 | L'Illa Diagonal | Rafael Moneo and Manuel de Solà-Morales | 1993 | Barcelona, ES | Office & tower | Late modernism |
+| 1258 | Weltstadthaus Peek & Cloppenburg | Renzo Piano Building Workshop | 2005 | Cologne, DE | Workplace | High-tech |
+| 1259 | House for an Art Lover | Charles Rennie Mackintosh | 1996 | Glasgow, GB | House | Art Nouveau |
+| 1260 | Fiera Milano | Massimiliano Fuksas | 2005 | Rho, IT | Workplace | Contemporary |
+| 1261 | Palazzo del Lavoro | Pier Luigi Nervi with Gio Ponti | 1961 | Turin, IT | Pavilion | Modernism |
+| 1262 | Hagen Crematorium | Peter Behrens | 1907 | Hagen, DE | Religious | Modernism |
+| 1263 | Pavilion for Japanese Art, LACMA | Bruce Goff and Bart Prince | 1988 | Los Angeles, US | Museum | Expressionism |
+| 1264 | De Vonk | J. J. P. Oud | 1918 | Noordwijkerhout, NL | Hospitality | Modernism |
+| 1265 | Hubertus House | Aldo van Eyck | 1978 | Amsterdam, NL | Housing | Late modernism |
+| 1266 | Atlanta Central Library | Marcel Breuer | 1980 | Atlanta, US | Library | Brutalism |
+| 1267 | Austrian Parliament Building | Theophil Hansen | 1883 | Vienna, AT | Civic | Historic precedent |
+| 1268 | Thomas Jefferson Building, Library of Congress | Smithmeyer & Pelz | 1897 | Washington, D.C., US | Library | Historic precedent |
+| 1269 | CaixaForum Barcelona | Josep Puig i Cadafalch; Arata Isozaki (entrance) | 2002 | Barcelona, ES | Museum | Art Nouveau |
+| 1270 | McGraw-Hill Building | Raymond Hood | 1931 | New York City, US | Office & tower | Art Deco |
+| 1271 | Eli and Edythe Broad Art Museum | Zaha Hadid Architects | 2012 | East Lansing, US | Museum | Deconstructivism |
+| 1272 | Centre de Cultura Contemporània de Barcelona (CCCB) | Viaplana i Piñón | 1994 | Barcelona, ES | Museum | Contemporary |
+| 1273 | Cathedral of Christ the Light | Craig W. Hartman (SOM) | 2008 | Oakland, US | Religious | Contemporary |
+| 1274 | Istituto Marchiondi Spagliardi | Vittoriano Viganò | 1957 | Milan, IT | Education | Brutalism |
+| 1275 | 78 Derngate | Charles Rennie Mackintosh | 1917 | Northampton, GB | House | Art Deco |
+| 1276 | Notre-Dame de Royan | Guillaume Gillet | 1958 | Royan, FR | Religious | Brutalism |
+| 1277 | Musiktheater im Revier | Werner Ruhnau | 1959 | Gelsenkirchen, DE | Culture & sport | Modernism |
+| 1278 | Shukhov Tower on the Oka River | Vladimir Shukhov | 1929 | Dzerzhinsk, RU | Infrastructure | Modernism |
+| 1279 | Großmarkthalle | Martin Elsaesser | 1928 | Frankfurt, DE | Workplace | Modernism |
+| 1280 | KPN Tower | Renzo Piano Building Workshop | 2000 | Rotterdam, NL | Office & tower | High-tech |
+| 1281 | Haus der Kulturen der Welt (Kongresshalle) | Hugh Stubbins | 1957 | Berlin, DE | Culture & sport | Modernism |
+| 1282 | Nemausus | Jean Nouvel | 1987 | Nîmes, FR | Housing | High-tech |
+| 1283 | Diagoon Houses | Herman Hertzberger | 1970 | Delft, NL | Housing | Late modernism |
+| 1284 | Rufer House | Adolf Loos | 1922 | Vienna, AT | House | Modernism |
+| 1285 | Retti Candle Shop | Hans Hollein | 1965 | Vienna, AT | Workplace | Postmodernism |
+| 1286 | Hans Otto Theater | Gottfried Böhm | 2006 | Potsdam, DE | Culture & sport | Contemporary |
+| 1287 | Andrew Melville Hall | James Stirling | 1968 | St Andrews, GB | Education | Brutalism |
+| 1288 | Clore Gallery, Tate Britain | James Stirling, Michael Wilford | 1987 | London, GB | Museum | Postmodernism |
+| 1289 | Museum of Applied Arts | Ödön Lechner and Gyula Pártos | 1896 | Budapest, HU | Museum | Art Nouveau |
+| 1290 | Palace of Justice | Joseph Poelaert | 1883 | Brussels, BE | Civic | Historic precedent |
+| 1291 | El Capricho | Antoni Gaudí | 1885 | Comillas, ES | House | Art Nouveau |
+| 1292 | Euskalduna Conference Centre and Concert Hall | Federico Soriano and Dolores Palacios | 1999 | Bilbao, ES | Culture & sport | Contemporary |
+| 1293 | Majolikahaus | Otto Wagner | 1899 | Vienna, AT | Housing | Art Nouveau |
+| 1294 | Mirador | MVRDV with Blanca Lleó | 2005 | Madrid, ES | Housing | Contemporary |
+| 1295 | Siedlung Halen | Atelier 5 | 1961 | Kirchlindach, CH | Housing | Brutalism |
+| 1296 | Aula TU Delft | Van den Broek en Bakema | 1966 | Delft, NL | Education | Brutalism |
+| 1297 | Bankinter Building | Rafael Moneo and Ramón Bescós | 1977 | Madrid, ES | Workplace | Late modernism |
+| 1298 | Messner Mountain Museum Corones | Zaha Hadid Architects | 2015 | Bruneck, IT | Museum | Parametric |
+| 1299 | Sant Antoni-Joan Oliver Library | RCR Arquitectes | 2007 | Barcelona, ES | Library | Contemporary |
+| 1300 | International House of Japan | Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura | 1955 | Tokyo, JP | Hospitality | Modernism |
+| 1301 | Maison Blanche | Charles-Édouard Jeanneret (Le Corbusier) | 1912 | La Chaux-de-Fonds, CH | House | Historic precedent |
+| 1302 | Green Building (MIT Building 54) | I. M. Pei | 1964 | Cambridge, US | Education | Late modernism |
+| 1303 | Maison Planeix | Le Corbusier | 1928 | Paris, FR | House | Modernism |
+| 1304 | Ara Pacis Museum | Richard Meier | 2006 | Rome, IT | Museum | Late modernism |
+| 1305 | The Gateway | I. M. Pei | 1990 | Singapore, SG | Office & tower | Late modernism |
+| 1306 | Society Hill Towers | I. M. Pei | 1964 | Philadelphia, US | Housing | Late modernism |
+| 1307 | United States Supreme Court Building | Cass Gilbert | 1935 | Washington, D.C., US | Civic | Historic precedent |
+| 1308 | Holyoke Center (Smith Campus Center) | Josep Lluís Sert | 1966 | Cambridge, US | Education | Brutalism |
+| 1309 | Akino Fuku Art Museum | Terunobu Fujimori | 1998 | Hamamatsu, JP | Museum | Regionalism |
+| 1310 | Urania | Max Fabiani | 1910 | Vienna, AT | Education | Art Nouveau |
+| 1311 | Palmolive Building | Holabird & Root | 1929 | Chicago, US | Office & tower | Art Deco |
+| 1312 | Villa Fallet | Charles-Édouard Jeanneret (Le Corbusier) with René Chapallaz | 1907 | La Chaux-de-Fonds, CH | House | Art Nouveau |
+| 1313 | Lehmbruck Museum | Manfred Lehmbruck | 1964 | Duisburg, DE | Museum | Late modernism |
+| 1314 | Kino International | Josef Kaiser | 1963 | Berlin, DE | Culture & sport | Modernism |
+| 1315 | Four Domes Pavilion | Hans Poelzig | 1913 | Wrocław, PL | Museum | Historic precedent |
+| 1316 | Watari Museum of Contemporary Art (Watari-um) | Mario Botta | 1990 | Tokyo, JP | Museum | Postmodernism |
+| 1317 | Cartagena Roman Theatre Museum | Rafael Moneo | 2008 | Cartagena, ES | Museum | Contemporary |
+| 1318 | Manhattan Municipal Building | McKim, Mead & White | 1914 | New York, US | Civic | Historic precedent |
+| 1319 | Tempodrom | gmp (von Gerkan, Marg and Partners) | 2001 | Berlin, DE | Culture & sport | Contemporary |
+| 1320 | Großes Festspielhaus | Clemens Holzmeister | 1960 | Salzburg, AT | Culture & sport | Modernism |
+| 1321 | Grady Gammage Memorial Auditorium | Frank Lloyd Wright | 1964 | Tempe, US | Culture & sport | Modernism |
+| 1322 | Fisher Center for the Performing Arts | Frank Gehry | 2003 | Annandale-on-Hudson, US | Culture & sport | Deconstructivism |
+| 1323 | Igrejinha Nossa Senhora de Fátima | Oscar Niemeyer | 1958 | Brasília, BR | Religious | Modernism |
+| 1324 | De Kunstlinie | SANAA | 2007 | Almere, NL | Culture & sport | Contemporary |
+| 1325 | Chiesa del Santo Volto | Mario Botta | 2006 | Turin, IT | Religious | Postmodernism |
+| 1326 | Messe Torhaus | Oswald Mathias Ungers | 1984 | Frankfurt, DE | Office & tower | Postmodernism |
+| 1327 | Bodegas Ysios | Santiago Calatrava | 2001 | Laguardia, ES | Workplace | Contemporary |
+| 1328 | Rainier Tower | Minoru Yamasaki | 1977 | Seattle, US | Office & tower | Late modernism |
+| 1329 | Christi Auferstehung | Gottfried Böhm | 1970 | Cologne, DE | Religious | Brutalism |
+| 1330 | Weizmann House | Erich Mendelsohn | 1937 | Rehovot, IL | House | Modernism |
+| 1331 | Westmount Square | Ludwig Mies van der Rohe | 1967 | Montreal, CA | Office & tower | Modernism |
+| 1332 | San Francisco City Hall | Arthur Brown Jr. | 1915 | San Francisco, US | Civic | Historic precedent |
+| 1333 | Chicago Board of Trade Building | Holabird & Root | 1930 | Chicago, US | Office & tower | Art Deco |
+| 1334 | Katuaq | Schmidt Hammer Lassen | 1997 | Nuuk, GL | Culture & sport | Contemporary |
+| 1335 | Fisher Building | Albert Kahn | 1928 | Detroit, US | Office & tower | Art Deco |
+| 1336 | The Bow | Foster + Partners | 2012 | Calgary, CA | Office & tower | High-tech |
+| 1337 | Timberline Lodge | W. I. Turner and Gilbert Stanley Underwood (WPA) | 1937 | Government Camp, US | Hospitality | Regionalism |
+| 1338 | Tancredo Neves Pantheon of the Fatherland | Oscar Niemeyer | 1986 | Brasília, BR | Memorial | Modernism |
+| 1339 | Villa Esche | Henry van de Velde | 1903 | Chemnitz, DE | House | Art Nouveau |
+| 1340 | Perret Tower | Auguste Perret | 1925 | Grenoble, FR | Infrastructure | Modernism |
+| 1341 | Café Seerose | Ulrich Müther | 1983 | Potsdam, DE | Hospitality | Late modernism |
+| 1342 | Garden of Fine Arts, Kyoto | Tadao Ando | 1994 | Kyoto, JP | Museum | Contemporary |
+| 1343 | Glaspalast Sindelfingen | Behnisch & Partner | 1977 | Sindelfingen, DE | Culture & sport | Late modernism |
+| 1344 | Muziekcentrum Vredenburg | Herman Hertzberger | 1979 | Utrecht, NL | Culture & sport | Late modernism |
+| 1345 | Skagen Odde Nature Centre | Jørn Utzon | 2000 | Skagen, DK | Museum | Regionalism |
+| 1346 | Skopje Railway Station | Kenzō Tange | 1981 | Skopje, MK | Infrastructure | Brutalism |
+| 1347 | Transparent Factory | Gunter Henn | 2002 | Dresden, DE | Workplace | High-tech |
+| 1348 | Louise Weiss Building, European Parliament | Architecture-Studio | 1999 | Strasbourg, FR | Civic | Contemporary |
+| 1349 | Gehry Tower | Frank Gehry | 2001 | Hanover, DE | Office & tower | Deconstructivism |
+| 1350 | Hohenhof | Henry van de Velde | 1908 | Hagen, DE | House | Art Nouveau |
+| 1351 | Tour de Lille | Christian de Portzamparc | 1995 | Lille, FR | Office & tower | Postmodernism |
+| 1352 | Graduate House, University of Toronto | Morphosis with Teeple Architects | 2000 | Toronto, CA | Housing | Deconstructivism |
+| 1353 | Kunstmuseum Stuttgart | Hascher Jehle Architektur | 2005 | Stuttgart, DE | Museum | Contemporary |
+| 1354 | State Council Building | Roland Korn and Hans-Erich Bogatzky | 1964 | Berlin, DE | Civic | Late modernism |
+| 1355 | Lisbon Port Control Tower | Gonçalo Byrne | 2001 | Lisbon, PT | Infrastructure | Contemporary |
+| 1356 | Concord Pavilion | Frank Gehry | 1975 | Concord, US | Culture & sport | Late modernism |
+| 1357 | Ceramic Park Mino | Arata Isozaki | 2002 | Tajimi, JP | Museum | Contemporary |
+| 1358 | Gosstrakh Apartments | Moisei Ginzburg | 1927 | Moscow, RU | Housing | Modernism |
+| 1359 | Tripolis | Aldo van Eyck and Hannie van Eyck | 1994 | Amsterdam, NL | Workplace | Modernism |
+| 1360 | 555 California Street | Wurster, Bernardi & Emmons and SOM, with Pietro Belluschi | 1969 | San Francisco, US | Office & tower | Late modernism |
+| 1361 | New York State Capitol | Thomas Fuller, Leopold Eidlitz, H. H. Richardson, Isaac Perry | 1899 | Albany, US | Civic | Historic precedent |
+| 1362 | Funkturm Berlin | Heinrich Straumer | 1926 | Berlin, DE | Infrastructure | Modernism |
+| 1363 | L'Àgora | Santiago Calatrava | 2009 | Valencia, ES | Culture & sport | Contemporary |
+| 1364 | Langer Eugen | Egon Eiermann | 1969 | Bonn, DE | Office & tower | Late modernism |
+| 1365 | PPG Place | Philip Johnson and John Burgee | 1984 | Pittsburgh, US | Office & tower | Postmodernism |
+| 1366 | Staatstheater Cottbus | Bernhard Sehring | 1908 | Cottbus, DE | Culture & sport | Art Nouveau |
+| 1367 | Ahwahnee Hotel | Gilbert Stanley Underwood | 1927 | Yosemite Valley, US | Hospitality | Regionalism |
+| 1368 | St. Johann von Capistran | Sep Ruf | 1960 | Munich, DE | Religious | Modernism |
+| 1369 | Okanoyama Museum of Art | Arata Isozaki | 1984 | Nishiwaki, JP | Museum | Postmodernism |
+| 1370 | Garage with Chauffeur's Flat | Gerrit Rietveld | 1928 | Utrecht, NL | Workplace | Modernism |
+| 1371 | Hallfield Primary School | Denys Lasdun | 1954 | London, GB | Education | Modernism |
+| 1372 | San Francesco al Fopponino | Gio Ponti | 1964 | Milan, IT | Religious | Modernism |
+| 1373 | Joieria Roca | Josep Lluís Sert | 1934 | Barcelona, ES | Workplace | Modernism |
+| 1374 | Constance Perkins House | Richard Neutra | 1955 | Pasadena, US | House | Modernism |
+| 1375 | Jardinette Apartments | Richard Neutra | 1928 | Los Angeles, US | Housing | Modernism |
+| 1376 | Pennsylvania State Capitol | Joseph Miller Huston | 1906 | Harrisburg, US | Civic | Historic precedent |
+| 1377 | Märkisches Museum | Ludwig Hoffmann | 1908 | Berlin, DE | Museum | Historic precedent |
+| 1378 | Wrigley Building | Graham, Anderson, Probst & White | 1924 | Chicago, US | Office & tower | Historic precedent |
+| 1379 | Bodegas Güell | Francesc Berenguer with Antoni Gaudí | 1901 | Sitges, ES | Workplace | Art Nouveau |
+| 1380 | Festspielhaus Baden-Baden | Wilhelm Holzbauer | 1998 | Baden-Baden, DE | Culture & sport | Postmodernism |
+| 1381 | Capitol Records Building | Welton Becket (Louis Naidorf) | 1956 | Los Angeles, US | Office & tower | Modernism |
+| 1382 | Kollhoff Tower | Hans Kollhoff | 1999 | Berlin, DE | Office & tower | Postmodernism |
+| 1383 | Palmenhaus, Burggarten | Friedrich Ohmann | 1906 | Vienna, AT | Pavilion | Art Nouveau |
+| 1384 | James A. Farley Building (Moynihan Train Hall) | McKim, Mead & White; SOM (train hall) | 1914 | New York City, US | Infrastructure | Historic precedent |
+| 1385 | Kulturpalast Dresden | Wolfgang Hänsch | 1969 | Dresden, DE | Culture & sport | Modernism |
+| 1386 | Shinjuku NS Building | Nikken Sekkei (Shōji Hayashi) | 1982 | Tokyo, JP | Office & tower | Late modernism |
+| 1387 | Hochhaus an der Weberwiese | Hermann Henselmann | 1952 | Berlin, DE | Housing | Historic precedent |
+| 1388 | West Japan General Exhibition Center | Arata Isozaki | 1977 | Kitakyushu, JP | Culture & sport | Late modernism |
+| 1389 | Weesperflat | Herman Hertzberger | 1966 | Amsterdam, NL | Housing | Late modernism |
+| 1390 | Chassé Theater | Herman Hertzberger | 1995 | Breda, NL | Culture & sport | Late modernism |
+| 1391 | New Town Hall, Hanover | Hermann Eggert and Gustav Halmhuber | 1913 | Hanover, DE | Civic | Historic precedent |
+| 1392 | Helsinki Music Centre | LPR Architects | 2011 | Helsinki, FI | Culture & sport | Contemporary |
+| 1393 | Casa Fuster | Lluís Domènech i Montaner | 1911 | Barcelona, ES | Housing | Art Nouveau |
+| 1394 | Lasipalatsi | Viljo Revell, Niilo Kokko and Heimo Riihimäki | 1936 | Helsinki, FI | Workplace | Modernism |
+| 1395 | Paula Modersohn-Becker Museum | Bernhard Hoetger | 1927 | Bremen, DE | Museum | Expressionism |
+| 1396 | Hypo-Haus | Walther and Bea Betz | 1981 | Munich, DE | Office & tower | High-tech |
+| 1397 | Notre-Dame-de-l'Arche-d'Alliance | Architecture-Studio | 1998 | Paris, FR | Religious | Contemporary |
+| 1398 | Gosplan Garage | Konstantin Melnikov | 1936 | Moscow, RU | Infrastructure | Modernism |
+| 1399 | Stadsschouwburg Utrecht | Willem Marinus Dudok | 1941 | Utrecht, NL | Culture & sport | Modernism |
+| 1400 | National Space Centre | Nicholas Grimshaw | 2001 | Leicester, GB | Museum | High-tech |
+| 1401 | Sakamoto Ryōma Memorial Museum | Workshop (Hiroshi and Akiko Takahashi) | 1991 | Kōchi, JP | Museum | Contemporary |
+| 1402 | Roche Tower 2 | Herzog & de Meuron | 2022 | Basel, CH | Office & tower | Contemporary |
+| 1403 | Place Bonaventure | ARCOP | 1967 | Montreal, CA | Workplace | Brutalism |
+| 1404 | The Lowry | Michael Wilford and Partners | 2000 | Salford, GB | Culture & sport | Postmodernism |
+| 1405 | Café Moskau | Josef Kaiser | 1964 | Berlin, DE | Hospitality | Modernism |
+| 1406 | Terneuzen City Hall | Van den Broek en Bakema | 1972 | Terneuzen, NL | Civic | Brutalism |
+| 1407 | Glasgow School of Art | Charles Rennie Mackintosh | 1909 | Glasgow, GB | Education | Art Nouveau |
+| 1408 | Mesa Laboratory (NCAR) | I. M. Pei | 1967 | Boulder, US | Workplace | Brutalism |
+| 1409 | Pampulha Art Museum (former Casino) | Oscar Niemeyer | 1943 | Belo Horizonte, BR | Museum | Modernism |
+| 1410 | Pastoor van Arskerk | Aldo van Eyck | 1969 | The Hague, NL | Religious | Modernism |
+| 1411 | Contemporary Jewish Museum | Daniel Libeskind | 2008 | San Francisco, US | Museum | Deconstructivism |
+| 1412 | Institute of Contemporary Art, Boston | Diller Scofidio + Renfro | 2006 | Boston, US | Museum | Contemporary |
+| 1413 | Everson Museum of Art | I. M. Pei | 1968 | Syracuse, US | Museum | Brutalism |
+| 1414 | Casa Bloc | Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana | 1936 | Barcelona, ES | Housing | Modernism |
+| 1415 | Karlsplatz Stadtbahn Pavilions | Otto Wagner | 1899 | Vienna, AT | Infrastructure | Art Nouveau |
+| 1416 | Boston Public Library, McKim Building | McKim, Mead & White | 1895 | Boston, US | Library | Historic precedent |
+| 1417 | Belvedere 21 | Karl Schwanzer | 1962 | Vienna, AT | Museum | Modernism |
+| 1418 | New Synagogue Dresden | Wandel Hoefer Lorch + Hirsch | 2001 | Dresden, DE | Religious | Contemporary |
+| 1419 | Café De Unie | J. J. P. Oud | 1925 | Rotterdam, NL | Hospitality | Modernism |
+| 1420 | Geschwister-Scholl-Schule | Hans Scharoun | 1962 | Lünen, DE | Education | Expressionism |
+| 1421 | Douaumont Ossuary | Léon Azéma, Max Edrei and Jacques Hulot | 1932 | Douaumont, FR | Memorial | Art Deco |
+| 1422 | Cathedral of Learning | Charles Klauder | 1937 | Pittsburgh, US | Education | Historic precedent |
+| 1423 | Castel Béranger | Hector Guimard | 1898 | Paris, FR | Housing | Art Nouveau |
+| 1424 | Cedar Rock (Walter House) | Frank Lloyd Wright | 1950 | Quasqueton, US | House | Modernism |
+| 1425 | Honolulu Museum of Art | Bertram Goodhue | 1927 | Honolulu, US | Museum | Regionalism |
+| 1426 | Museum of East Asian Art | Kunio Maekawa | 1977 | Cologne, DE | Museum | Late modernism |
+| 1427 | Paper Dome (Paper Church) | Shigeru Ban | 2008 | Puli, TW | Religious | Contemporary |
+| 1428 | Lappia Hall | Alvar Aalto | 1975 | Rovaniemi, FI | Culture & sport | Late modernism |
+| 1429 | Berkeley Art Museum (original building) | Mario Ciampi | 1970 | Berkeley, US | Museum | Brutalism |
+| 1430 | Tabakfabrik Linz | Peter Behrens and Alexander Popp | 1935 | Linz, AT | Workplace | Modernism |
+| 1431 | Tokyo Metropolitan Teien Art Museum | Yōkichi Gondō with Henri Rapin | 1933 | Tokyo, JP | Museum | Art Deco |
+| 1432 | Autrique House | Victor Horta | 1893 | Brussels, BE | House | Art Nouveau |
+| 1433 | Gavina Showroom | Carlo Scarpa | 1963 | Bologna, IT | Workplace | Modernism |
+| 1434 | Palazzo Piccolomini | Bernardo Rossellino | 1462 | Pienza, IT | Palace | Historic precedent |
+| 1435 | Cuvilliés Theatre | François de Cuvilliés | 1753 | Munich, DE | Culture & sport | Historic precedent |
+| 1436 | Museum of Military History (Arsenal) | Theophil Hansen and Ludwig Förster | 1856 | Vienna, AT | Museum | Historic precedent |
+| 1437 | Dallas Museum of Art | Edward Larrabee Barnes | 1984 | Dallas, US | Museum | Late modernism |
+| 1438 | Palazzo dell'Arte (Triennale di Milano) | Giovanni Muzio | 1933 | Milan, IT | Museum | Modernism |
+| 1439 | Opus Hong Kong | Frank Gehry | 2012 | Hong Kong, HK | Housing | Deconstructivism |
+| 1440 | Academy of Arts, Hanseatenweg | Werner Düttmann | 1960 | Berlin, DE | Culture & sport | Modernism |
+| 1441 | Tagblatt-Turm | Ernst Otto Osswald | 1928 | Stuttgart, DE | Office & tower | Modernism |
