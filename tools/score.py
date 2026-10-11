@@ -34,12 +34,14 @@ H = ROOT / 'tools' / 'harvest'
 OUT = H / 'scored.json'
 REPORT = ROOT / 'tools' / 'score_report.md'
 BATCH = 1000
-GOOD = 40  # the floor: nothing under 40 goes on the wall; set properly once signals.json is in
+GOOD = 44  # the quality bar, set by sampling: under 44 the list turns generic (post offices, high schools, office towers)
 
 IS_BUILDING = re.compile(r'building|house|museum|church|library|hall|tower|pavilion|school|university|theatre|theater|chapel|villa|centre|center|skyscraper|block', re.I)
 ARCH_AWARD = re.compile(r'architect|aga khan|mies van der rohe|stirling|riba|\baia\b|bcs prize|aij prize|public buildings award|kasper salin|good design|european union prize|alvar aalto medal|driehaus|praemium|emporis|ctbuh|wan award', re.I)
-EXPERTS = {'archinform': 6, 'structurae': 1, 'docomomo': 5, 'sosbrutalism': 3, 'archnet': 4}
+EXPERTS = {'archinform': 12, 'structurae': 1, 'docomomo': 8, 'sosbrutalism': 5, 'archnet': 6}
 PER_ARCHITECT = 8  # most buildings any one architect gets in a single batch
+REGION_CAP = {'Europe': 400, 'Americas': 250, 'East Asia': 150}  # per batch of 1,000; other regions take all they have
+COUNTRY_CAP = 120
 
 
 def key(name):
@@ -99,7 +101,7 @@ def gate(r):
     return None
 
 
-def score(r, sig, pritzker):
+def score(r, sig, pritzker, oeuvre=frozenset()):
     y = year(r)
     arch = [a for a in r.get('architect', []) if isinstance(a, str)]
     laureate = r['qid'] in pritzker
@@ -108,19 +110,22 @@ def score(r, sig, pritzker):
     styles = ' '.join(r.get('style', []))
     why = []
 
-    fame = 30 * min(1, math.log(max(r.get('sitelinks', 0), 6) / 6) / math.log(60 / 6))
+    fame = 25 * min(1, math.log(max(r.get('sitelinks', 0), 1)) / math.log(60))
     experts = 0
     for name, pts in EXPERTS.items():
         if name in sig.get('ids', []) or (name == 'archinform' and r.get('archinform')):
             experts += pts
             why.append(name)
-    experts += 6 * min(1, sig.get('n_ids', 0) / 40)
-    experts = min(20, experts)
-    architect = 15 if laureate else 10 if star else 0
+    experts += 5 * min(1, sig.get('n_ids', 0) / 40)
+    experts = min(22, experts)
+    body = not star and any(a in oeuvre for a in arch)
+    architect = 15 if laureate else 12 if star else 6 if body else 0
     if laureate:
         why.append('Pritzker winner')
     elif star:
         why.append('studied architect')
+    elif body:
+        why.append('architect with a body of work in archINFORM')
     awards = 0
     if any(ARCH_AWARD.search(a) for a in sig.get('awards', [])):
         awards += 8
@@ -154,6 +159,11 @@ def main():
     signals = json.loads(sig_file.read_text(encoding='utf-8')) if sig_file.exists() else {}
     wall = load_wall()
     rejected = {c['qid'] for c in json.loads((H / 'curated.json').read_text(encoding='utf-8')) if c.get('keep') == 0}
+    batches = ROOT / 'tools' / 'batches'
+    curated_before = {c['qid'] for p in batches.glob('*_curated_part*.json') for c in json.loads(p.read_text(encoding='utf-8'))}
+    # architects with a body of work: eight or more buildings that archINFORM lists
+    works = Counter(a for r in recs if r.get('archinform') for a in r.get('architect', [])[:1] if isinstance(a, str))
+    oeuvre = frozenset(a for a, n in works.items() if n >= 8 and not (a.startswith('Q') and a[1:].isdigit()))
 
     out, gates = [], Counter()
     for r in recs:
@@ -162,24 +172,29 @@ def main():
             g = 'already on the wall'
         if not g and r['qid'] in rejected:
             g = 'turned down in the first curation'
+        if not g and r['qid'] in curated_before:
+            g = 'curated in an earlier batch'
         if g:
             gates[g] += 1
             continue
-        s, star, why = score(r, signals.get(r['qid'], {}), pritzker)
+        s, star, why = score(r, signals.get(r['qid'], {}), pritzker, oeuvre)
         country = (r.get('country') or ['?'])[0]
         out.append({'qid': r['qid'], 'name': r['label'], 'architect': r['architect'][0], 'year': year(r),
                     'country': country, 'region': REGION.get(country, 'Other'), 'type': (r.get('instance') or ['?'])[0],
                     'sitelinks': r.get('sitelinks', 0), 'score': s, 'star': star, 'why': why})
     out.sort(key=lambda r: -r['score'])
 
-    # next batch: best first, no architect more than PER_ARCHITECT times
-    per, batch = Counter(), []
+    # next batch: best first, at most PER_ARCHITECT per architect, no region or country crowding the rest
+    per, regions, countries, batch = Counter(), Counter(), Counter(), []
     for r in out:
         if len(batch) >= BATCH or r['score'] < GOOD:
             break
-        if per[r['architect']] >= PER_ARCHITECT:
+        if (per[r['architect']] >= PER_ARCHITECT or regions[r['region']] >= REGION_CAP.get(r['region'], BATCH)
+                or countries[r['country']] >= COUNTRY_CAP):
             continue
         per[r['architect']] += 1
+        regions[r['region']] += 1
+        countries[r['country']] += 1
         batch.append(r)
     ids = {r['qid'] for r in batch}
     for r in out:
