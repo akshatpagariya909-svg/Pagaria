@@ -1,49 +1,14 @@
 # batch2
 
 - Curated: 529
-- On the wall from this batch: 276 (276 added in the latest run, 0 of them approved by hand)
-- Held back for a check by hand: 35
+- On the wall from this batch: 311 (35 added in the latest run, 35 of them approved by hand)
+- Held back for a check by hand: 0
 - Turned down: 216
 
 ## Held back
 
 | Building | Architect | Year | Place | Why |
 |---|---|---|---|---|
-| Glasgow School of Art | Charles Rennie Mackintosh | 1909 | Glasgow, GB | year 1909 matches none of Wikidata's years (1845) |
-| Mesa Laboratory (NCAR) | I. M. Pei | 1967 | Boulder, US | year 1967 matches none of Wikidata's years (1961) |
-| Pampulha Art Museum (former Casino) | Oscar Niemeyer | 1943 | Belo Horizonte, BR | year 1943 matches none of Wikidata's years (1957) |
-| Pastoor van Arskerk | Aldo van Eyck | 1969 | The Hague, NL | year 1969 matches none of Wikidata's years (1960) |
-| Contemporary Jewish Museum | Daniel Libeskind | 2008 | San Francisco, US | year 2008 matches none of Wikidata's years (1984) |
-| Institute of Contemporary Art, Boston | Diller Scofidio + Renfro | 2006 | Boston, US | year 2006 matches none of Wikidata's years (1936) |
-| Everson Museum of Art | I. M. Pei | 1968 | Syracuse, US | year 1968 matches none of Wikidata's years (1897) |
-| Casa Bloc | Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana | 1936 | Barcelona, ES | year 1936 matches none of Wikidata's years (1932) |
-| Karlsplatz Stadtbahn Pavilions | Otto Wagner | 1899 | Vienna, AT | year 1899 matches none of Wikidata's years (1978) |
-| Boston Public Library, McKim Building | McKim, Mead & White | 1895 | Boston, US | year 1895 matches none of Wikidata's years (1887) |
-| Belvedere 21 | Karl Schwanzer | 1962 | Vienna, AT | year 1962 matches none of Wikidata's years (2011) |
-| New Synagogue Dresden | Wandel Hoefer Lorch + Hirsch | 2001 | Dresden, DE | year 2001 matches none of Wikidata's years (1997) |
-| Café De Unie | J. J. P. Oud | 1925 | Rotterdam, NL | year 1925 matches none of Wikidata's years (1980, 1986) |
-| Geschwister-Scholl-Schule | Hans Scharoun | 1962 | Lünen, DE | year 1962 matches none of Wikidata's years (1958) |
-| Douaumont Ossuary | Léon Azéma, Max Edrei and Jacques Hulot | 1932 | Douaumont, FR | year 1932 matches none of Wikidata's years (1920) |
-| Cathedral of Learning | Charles Klauder | 1937 | Pittsburgh, US | year 1937 matches none of Wikidata's years (1926) |
-| Castel Béranger | Hector Guimard | 1898 | Paris, FR | year 1898 matches none of Wikidata's years (1890) |
-| Cedar Rock (Walter House) | Frank Lloyd Wright | 1950 | Quasqueton, US | year 1950 matches none of Wikidata's years (1981) |
-| Honolulu Museum of Art | Bertram Goodhue | 1927 | Honolulu, US | year 1927 matches none of Wikidata's years (1922) |
-| Museum of East Asian Art | Kunio Maekawa | 1977 | Cologne, DE | year 1977 matches none of Wikidata's years (1913) |
-| Paper Dome (Paper Church) | Shigeru Ban | 2008 | Puli, TW | country TW but Wikidata says JP |
-| Lappia Hall | Alvar Aalto | 1975 | Rovaniemi, FI | year 1975 matches none of Wikidata's years (1961) |
-| Berkeley Art Museum (original building) | Mario Ciampi | 1970 | Berkeley, US | year 1970 matches none of Wikidata's years (1963) |
-| Tabakfabrik Linz | Peter Behrens and Alexander Popp | 1935 | Linz, AT | year 1935 matches none of Wikidata's years (2009) |
-| Tokyo Metropolitan Teien Art Museum | Yōkichi Gondō with Henri Rapin | 1933 | Tokyo, JP | year 1933 matches none of Wikidata's years (1983) |
-| Autrique House | Victor Horta | 1893 | Brussels, BE | year 1893 matches none of Wikidata's years (1905) |
-| Gavina Showroom | Carlo Scarpa | 1963 | Bologna, IT | year 1963 matches none of Wikidata's years (1950) |
-| Palazzo Piccolomini | Bernardo Rossellino | 1462 | Pienza, IT | year 1462 matches none of Wikidata's years (1963) |
-| Cuvilliés Theatre | François de Cuvilliés | 1753 | Munich, DE | year 1753 matches none of Wikidata's years (1958) |
-| Museum of Military History (Arsenal) | Theophil Hansen and Ludwig Förster | 1856 | Vienna, AT | year 1856 matches none of Wikidata's years (1869) |
-| Dallas Museum of Art | Edward Larrabee Barnes | 1984 | Dallas, US | year 1984 matches none of Wikidata's years (1903) |
-| Palazzo dell'Arte (Triennale di Milano) | Giovanni Muzio | 1933 | Milan, IT | year 1933 matches none of Wikidata's years (1923) |
-| Opus Hong Kong | Frank Gehry | 2012 | Hong Kong, HK | country HK but Wikidata says CN |
-| Academy of Arts, Hanseatenweg | Werner Düttmann | 1960 | Berlin, DE | year 1960 matches none of Wikidata's years (1954) |
-| Tagblatt-Turm | Ernst Otto Osswald | 1928 | Stuttgart, DE | year 1928 matches none of Wikidata's years (1924) |
 
 ## Turned down
 
@@ -546,3 +511,38 @@
 | 1410 | The Lowry | Michael Wilford and Partners | 2000 | Salford, GB | Culture & sport | Postmodernism |
 | 1411 | Café Moskau | Josef Kaiser | 1964 | Berlin, DE | Hospitality | Modernism |
 | 1412 | Terneuzen City Hall | Van den Broek en Bakema | 1972 | Terneuzen, NL | Civic | Brutalism |
+| 1413 | Glasgow School of Art | Charles Rennie Mackintosh | 1909 | Glasgow, GB | Education | Art Nouveau |
+| 1414 | Mesa Laboratory (NCAR) | I. M. Pei | 1967 | Boulder, US | Workplace | Brutalism |
+| 1415 | Pampulha Art Museum (former Casino) | Oscar Niemeyer | 1943 | Belo Horizonte, BR | Museum | Modernism |
+| 1416 | Pastoor van Arskerk | Aldo van Eyck | 1969 | The Hague, NL | Religious | Modernism |
+| 1417 | Contemporary Jewish Museum | Daniel Libeskind | 2008 | San Francisco, US | Museum | Deconstructivism |
+| 1418 | Institute of Contemporary Art, Boston | Diller Scofidio + Renfro | 2006 | Boston, US | Museum | Contemporary |
+| 1419 | Everson Museum of Art | I. M. Pei | 1968 | Syracuse, US | Museum | Brutalism |
+| 1420 | Casa Bloc | Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana | 1936 | Barcelona, ES | Housing | Modernism |
+| 1421 | Karlsplatz Stadtbahn Pavilions | Otto Wagner | 1899 | Vienna, AT | Infrastructure | Art Nouveau |
+| 1422 | Boston Public Library, McKim Building | McKim, Mead & White | 1895 | Boston, US | Library | Historic precedent |
+| 1423 | Belvedere 21 | Karl Schwanzer | 1962 | Vienna, AT | Museum | Modernism |
+| 1424 | New Synagogue Dresden | Wandel Hoefer Lorch + Hirsch | 2001 | Dresden, DE | Religious | Contemporary |
+| 1425 | Café De Unie | J. J. P. Oud | 1925 | Rotterdam, NL | Hospitality | Modernism |
+| 1426 | Geschwister-Scholl-Schule | Hans Scharoun | 1962 | Lünen, DE | Education | Expressionism |
+| 1427 | Douaumont Ossuary | Léon Azéma, Max Edrei and Jacques Hulot | 1932 | Douaumont, FR | Memorial | Art Deco |
+| 1428 | Cathedral of Learning | Charles Klauder | 1937 | Pittsburgh, US | Education | Historic precedent |
+| 1429 | Castel Béranger | Hector Guimard | 1898 | Paris, FR | Housing | Art Nouveau |
+| 1430 | Cedar Rock (Walter House) | Frank Lloyd Wright | 1950 | Quasqueton, US | House | Modernism |
+| 1431 | Honolulu Museum of Art | Bertram Goodhue | 1927 | Honolulu, US | Museum | Regionalism |
+| 1432 | Museum of East Asian Art | Kunio Maekawa | 1977 | Cologne, DE | Museum | Late modernism |
+| 1433 | Paper Dome (Paper Church) | Shigeru Ban | 2008 | Puli, TW | Religious | Contemporary |
+| 1434 | Lappia Hall | Alvar Aalto | 1975 | Rovaniemi, FI | Culture & sport | Late modernism |
+| 1435 | Berkeley Art Museum (original building) | Mario Ciampi | 1970 | Berkeley, US | Museum | Brutalism |
+| 1436 | Tabakfabrik Linz | Peter Behrens and Alexander Popp | 1935 | Linz, AT | Workplace | Modernism |
+| 1437 | Tokyo Metropolitan Teien Art Museum | Yōkichi Gondō with Henri Rapin | 1933 | Tokyo, JP | Museum | Art Deco |
+| 1438 | Autrique House | Victor Horta | 1893 | Brussels, BE | House | Art Nouveau |
+| 1439 | Gavina Showroom | Carlo Scarpa | 1963 | Bologna, IT | Workplace | Modernism |
+| 1440 | Palazzo Piccolomini | Bernardo Rossellino | 1462 | Pienza, IT | Palace | Historic precedent |
+| 1441 | Cuvilliés Theatre | François de Cuvilliés | 1753 | Munich, DE | Culture & sport | Historic precedent |
+| 1442 | Museum of Military History (Arsenal) | Theophil Hansen and Ludwig Förster | 1856 | Vienna, AT | Museum | Historic precedent |
+| 1443 | Dallas Museum of Art | Edward Larrabee Barnes | 1984 | Dallas, US | Museum | Late modernism |
+| 1444 | Palazzo dell'Arte (Triennale di Milano) | Giovanni Muzio | 1933 | Milan, IT | Museum | Modernism |
+| 1445 | Opus Hong Kong | Frank Gehry | 2012 | Hong Kong, HK | Housing | Deconstructivism |
+| 1446 | Academy of Arts, Hanseatenweg | Werner Düttmann | 1960 | Berlin, DE | Culture & sport | Modernism |
+| 1447 | Tagblatt-Turm | Ernst Otto Osswald | 1928 | Stuttgart, DE | Office & tower | Modernism |

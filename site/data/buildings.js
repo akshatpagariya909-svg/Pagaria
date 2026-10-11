@@ -2705,7 +2705,19 @@ window.BUILDINGS = [
    "Timber"
   ],
   "study": "Often called India's first modernist building: a dormitory cooled by pivoting louvres.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/golconde/drawing.svg",
+    "thumb": "images/golconde/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Antonin Raymond"
  },
  {
@@ -4812,7 +4824,19 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "Half-buried vaults clad in broken china, cooled by earth, water channels and steps.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/sangath/drawing.svg",
+    "thumb": "images/sangath/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Balkrishna Doshi"
  },
  {
@@ -4833,7 +4857,19 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "Plots and a service core for 80,000 people, which families extend over time.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/aranya-low-cost-housing/drawing.svg",
+    "thumb": "images/aranya-low-cost-housing/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Balkrishna Doshi"
  },
  {
@@ -4854,7 +4890,19 @@ window.BUILDINGS = [
    "Double height"
   ],
   "study": "Interlocking duplexes with two-storey garden verandas instead of balconies.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/kanchanjunga-apartments/drawing.svg",
+    "thumb": "images/kanchanjunga-apartments/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Charles Correa"
  },
  {
@@ -4993,7 +5041,19 @@ window.BUILDINGS = [
    "Climate response"
   ],
   "study": "Rat-trap bond and perforated brick jalis: cheap, cool and built by local masons.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/centre-for-development-studies/drawing.svg",
+    "thumb": "images/centre-for-development-studies/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Laurie Baker"
  },
  {
@@ -6096,7 +6156,19 @@ window.BUILDINGS = [
    "Community"
   ],
   "study": "'Half a good house': the state builds half and families build the rest.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/quinta-monroy/drawing.svg",
+    "thumb": "images/quinta-monroy/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Alejandro Aravena"
  },
  {
@@ -6481,7 +6553,19 @@ window.BUILDINGS = [
    "Landscape"
   ],
   "study": "A house split into ten white boxes, with gardens and paths between the rooms.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/moriyama-house/drawing.svg",
+    "thumb": "images/moriyama-house/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Ryue Nishizawa"
  },
  {
@@ -6502,7 +6586,19 @@ window.BUILDINGS = [
    "Steel & glass"
   ],
   "study": "305 thin steel columns of different sizes, scattered like a forest instead of a grid.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/kait-workshop/drawing.svg",
+    "thumb": "images/kait-workshop/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Kanagawa Institute of Technology"
  },
  {
@@ -8691,7 +8787,19 @@ window.BUILDINGS = [
    "Structure as expression"
   ],
   "study": "Robot-wound glass and carbon fibre, modelled on a lobster's shell.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/icd-itke-research-pavilion-2012/drawing.svg",
+    "thumb": "images/icd-itke-research-pavilion-2012/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:ICD/ITKE Research Pavilion"
  },
  {
@@ -8830,7 +8938,19 @@ window.BUILDINGS = [
    "Facade as skin"
   ],
   "study": "A narrow tube house fronted by stacked planters that shade and cool it.",
-  "images": [],
+  "images": [
+   {
+    "src": "images/stacking-green/drawing.svg",
+    "thumb": "images/stacking-green/drawing.svg",
+    "w": 400,
+    "h": 260,
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null
+   }
+  ],
   "commons": "Category:Vo Trong Nghia Architects"
  },
  {
@@ -132291,5 +132411,950 @@ window.BUILDINGS = [
     "file": "File:Stadhuis Terneuzen - Detail 2.jpg"
    }
   ]
+ },
+ {
+  "id": "glasgow-school-of-art",
+  "n": 1413,
+  "name": "Glasgow School of Art",
+  "by": "Charles Rennie Mackintosh",
+  "place": "Glasgow, GB",
+  "year": "1909",
+  "y": 1909,
+  "type": "Education",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Stone"
+  ],
+  "study": "Huge north-light studio windows on a stone front, with tall oriel windows lighting the west wing library.",
+  "qid": "Q748106",
+  "commons": "Category:Glasgow School of Art",
+  "lead": "File:Wfm glasgow school of art.jpg",
+  "coords": [
+   55.86605,
+   -4.26375
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "mesa-laboratory-ncar",
+  "n": 1414,
+  "name": "Mesa Laboratory (NCAR)",
+  "by": "I. M. Pei",
+  "place": "Boulder, US",
+  "year": "1967",
+  "y": 1967,
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "study": "Clustered towers of bush-hammered concrete, tinted to match the Flatirons, sit on an open mesa top.",
+  "qid": "Q6821069",
+  "commons": "Category:National Center for Atmospheric Research Mesa Laboratory",
+  "lead": "File:USGS-UCAR-Aerial-2002.jpg",
+  "coords": [
+   39.9778,
+   -105.275
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pampulha-art-museum-former-casino",
+  "n": 1415,
+  "name": "Pampulha Art Museum (former Casino)",
+  "by": "Oscar Niemeyer",
+  "place": "Belo Horizonte, BR",
+  "year": "1943",
+  "y": 1943,
+  "type": "Museum",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Circulation",
+   "Sculptural form",
+   "Water"
+  ],
+  "study": "A glass-walled former casino on Pampulha lake, with ramps inside and a curving dance-hall wing.",
+  "qid": "Q3890034",
+  "commons": "Category:Museu de Arte da Pampulha",
+  "lead": "File:Museu de Arte da Pampulha 1.jpg",
+  "coords": [
+   -19.85183,
+   -43.97372
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "pastoor-van-arskerk",
+  "n": 1416,
+  "name": "Pastoor van Arskerk",
+  "by": "Aldo van Eyck",
+  "place": "The Hague, NL",
+  "year": "1969",
+  "y": 1969,
+  "type": "Religious",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Light from above",
+   "Section",
+   "Axis"
+  ],
+  "study": "A tall central 'street' splits a low block church, its side zones lit by cylindrical skylights.",
+  "qid": "Q15880551",
+  "commons": "Category:Pastoor van Arskerk, Den Haag",
+  "lead": "File:Overzicht van de noord en westgevel - 's-Gravenhage - 20419230 - RCE.jpg",
+  "coords": [
+   52.06187,
+   4.23138
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "contemporary-jewish-museum",
+  "n": 1417,
+  "name": "Contemporary Jewish Museum",
+  "by": "Daniel Libeskind",
+  "place": "San Francisco, US",
+  "year": "2008",
+  "y": 2008,
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "study": "A tilted blue steel cube cuts into the brick front of a 1907 power substation.",
+  "qid": "Q5164991",
+  "commons": "Category:Contemporary Jewish Museum",
+  "lead": "File:Contemporary Jewish Museum.jpg",
+  "coords": [
+   37.7858,
+   -122.404
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "institute-of-contemporary-art-boston",
+  "n": 1418,
+  "name": "Institute of Contemporary Art, Boston",
+  "by": "Diller Scofidio + Renfro",
+  "place": "Boston, US",
+  "year": "2006",
+  "y": 2006,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Cantilever",
+   "Water",
+   "Public space"
+  ],
+  "study": "Galleries cantilever over the harbourwalk, with timber bleacher steps and a mediatheque tilted to the water.",
+  "qid": "Q3152226",
+  "commons": "Category:Institute of Contemporary Art, Boston",
+  "lead": "File:ICA (36339).jpg",
+  "coords": [
+   42.3528,
+   -71.0429
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "everson-museum-of-art",
+  "n": 1419,
+  "name": "Everson Museum of Art",
+  "by": "I. M. Pei",
+  "place": "Syracuse, US",
+  "year": "1968",
+  "y": 1968,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "study": "Cantilevered bush-hammered concrete gallery boxes pinwheel around a central sculpture court.",
+  "qid": "Q5417350",
+  "commons": "Category:Everson Museum",
+  "lead": "File:Everson Museum rear.jpg",
+  "coords": [
+   43.0447,
+   -76.1469
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "casa-bloc",
+  "n": 1420,
+  "name": "Casa Bloc",
+  "by": "Josep Lluís Sert, Josep Torres Clavé and Joan Baptista Subirana",
+  "place": "Barcelona, ES",
+  "year": "1936",
+  "y": 1936,
+  "type": "Housing",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Pilotis",
+   "Section",
+   "Community"
+  ],
+  "study": "Duplex flats in long slabs on pilotis, reached by open access galleries, wind around shared gardens.",
+  "qid": "Q2836969",
+  "commons": "Category:Casa Bloc",
+  "lead": "File:363 Casa Bloc, pg. Torras i Bages 85-105 (Barcelona), façana dels jardins interiors.jpg",
+  "coords": [
+   41.44139,
+   2.19056
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "karlsplatz-stadtbahn-pavilions",
+  "n": 1421,
+  "name": "Karlsplatz Stadtbahn Pavilions",
+  "by": "Otto Wagner",
+  "place": "Vienna, AT",
+  "year": "1899",
+  "y": 1899,
+  "type": "Infrastructure",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Prefabrication",
+   "Detail",
+   "Facade as skin"
+  ],
+  "study": "Twin pavilions of steel frame infilled with marble slabs and gilded sunflower ornament.",
+  "qid": "Q335894",
+  "commons": "Category:Karlsplatz metro station",
+  "lead": "File:U-Bahnhof Karlsplatz Wien Vienna U1.jpg",
+  "coords": [
+   48.201,
+   16.369
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "boston-public-library-mckim-building",
+  "n": 1422,
+  "name": "Boston Public Library, McKim Building",
+  "by": "McKim, Mead & White",
+  "place": "Boston, US",
+  "year": "1895",
+  "y": 1895,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "study": "Granite palazzo front of arched windows over the vaulted Bates Hall reading room and an arcaded courtyard.",
+  "qid": "Q4948040",
+  "commons": "Category:Boston Public Library, McKim Building",
+  "lead": "File:McKim Building.jpg",
+  "coords": [
+   42.3492,
+   -71.07874
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "belvedere-21",
+  "n": 1423,
+  "name": "Belvedere 21",
+  "by": "Karl Schwanzer",
+  "place": "Vienna, AT",
+  "year": "1962",
+  "y": 1962,
+  "type": "Museum",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Steel & glass",
+   "Free plan",
+   "Adaptive reuse"
+  ],
+  "study": "Austria's Expo 58 pavilion rebuilt in Vienna: a steel-framed glass box around an open hall for art.",
+  "qid": "Q214022",
+  "commons": "Category:Belvedere 21",
+  "lead": "File:Wien - Belvedere 21.JPG",
+  "coords": [
+   48.18589,
+   16.3839
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "new-synagogue-dresden",
+  "n": 1424,
+  "name": "New Synagogue Dresden",
+  "by": "Wandel Hoefer Lorch + Hirsch",
+  "place": "Dresden, DE",
+  "year": "2001",
+  "y": 2001,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "study": "A stone cube that twists as it rises to face east, with a brass-mesh tent hung inside.",
+  "qid": "Q670209",
+  "commons": "Category:Neue Synagoge, Dresden",
+  "lead": "File:Synagoge - Panorama, Dresden.jpg",
+  "coords": [
+   51.0521,
+   13.7465
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cafe-de-unie",
+  "n": 1425,
+  "name": "Café De Unie",
+  "by": "J. J. P. Oud",
+  "place": "Rotterdam, NL",
+  "year": "1925",
+  "y": 1925,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "study": "De Stijl facade of primary-coloured planes and lettering, rebuilt on a new site after its wartime loss.",
+  "qid": "Q4989606",
+  "commons": "Category:Café De Unie",
+  "lead": "File:Café De Unie Rotterdam.jpg",
+  "coords": [
+   51.91917,
+   4.4725
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "geschwister-scholl-schule",
+  "n": 1426,
+  "name": "Geschwister-Scholl-Schule",
+  "by": "Hans Scharoun",
+  "place": "Lünen, DE",
+  "year": "1962",
+  "y": 1962,
+  "type": "Education",
+  "movement": "Expressionism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Courtyard",
+   "Community"
+  ],
+  "study": "Classrooms grouped as separate 'class homes', each with its own small garden court, off a winding hall.",
+  "qid": "Q15646865",
+  "commons": "Category:Geschwister-Scholl-Gesamtschule (Lünen)",
+  "lead": "File:Lünen Baudenkmal 04 Geschwister-Scholl-Gesamtschule Lünen - Holtgrevenstrasse 6 - Mitte 9324.jpg",
+  "coords": [
+   51.61023,
+   7.52164
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "douaumont-ossuary",
+  "n": 1427,
+  "name": "Douaumont Ossuary",
+  "by": "Léon Azéma, Max Edrei and Jacques Hulot",
+  "place": "Douaumont, FR",
+  "year": "1932",
+  "y": 1932,
+  "type": "Memorial",
+  "movement": "Art Deco",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Vault",
+   "Monumentality",
+   "Landscape"
+  ],
+  "study": "A long barrel-vaulted cloister with a central lantern tower; small outer windows reveal the bones within.",
+  "qid": "Q705054",
+  "commons": "Category:Douaumont ossuary",
+  "lead": "File:Ossuaire de Douaumont, Verdun 1914-1918 P-FG-CP-01050-13.jpg",
+  "coords": [
+   49.20826,
+   5.42367
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cathedral-of-learning",
+  "n": 1428,
+  "name": "Cathedral of Learning",
+  "by": "Charles Klauder",
+  "place": "Pittsburgh, US",
+  "year": "1937",
+  "y": 1937,
+  "type": "Education",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Vault"
+  ],
+  "study": "A limestone Gothic Revival skyscraper rising from a vast vaulted hall, the Commons Room.",
+  "qid": "Q797017",
+  "commons": "Category:Cathedral of Learning",
+  "lead": "File:CathoLearn.jpg",
+  "coords": [
+   40.44417,
+   -79.95306
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "castel-beranger",
+  "n": 1429,
+  "name": "Castel Béranger",
+  "by": "Hector Guimard",
+  "place": "Paris, FR",
+  "year": "1898",
+  "y": 1898,
+  "type": "Housing",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Brick"
+  ],
+  "study": "Mixed brick, stone and ceramic facades around an asymmetric entrance gate of whiplash-curved iron.",
+  "qid": "Q650308",
+  "commons": "Category:Castel Béranger",
+  "lead": "File:Paris 16 - Castel Béranger -1.JPG",
+  "coords": [
+   48.8524,
+   2.27458
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cedar-rock-walter-house",
+  "n": 1430,
+  "name": "Cedar Rock (Walter House)",
+  "by": "Frank Lloyd Wright",
+  "place": "Quasqueton, US",
+  "year": "1950",
+  "y": 1950,
+  "type": "House",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1945–1970",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Brick"
+  ],
+  "study": "A Usonian house whose glass-walled garden room under a pierced roof overlooks the Wapsipinicon River.",
+  "qid": "Q5056884",
+  "commons": "Category:Cedar Rock State Park",
+  "lead": "File:Lowell Walter House, June 2015.jpg",
+  "coords": [
+   42.4061,
+   -91.77
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "honolulu-museum-of-art",
+  "n": 1431,
+  "name": "Honolulu Museum of Art",
+  "by": "Bertram Goodhue",
+  "place": "Honolulu, US",
+  "year": "1927",
+  "y": 1927,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "study": "Low tile-roofed galleries open onto shaded courtyards, mixing Hawaiian, Asian and Mediterranean forms.",
+  "qid": "Q128316",
+  "commons": "Category:Honolulu Museum of Art",
+  "lead": "File:Honolulu Academy of Arts.jpg",
+  "coords": [
+   21.3039,
+   -157.84871
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-east-asian-art",
+  "n": 1432,
+  "name": "Museum of East Asian Art",
+  "by": "Kunio Maekawa",
+  "place": "Cologne, DE",
+  "year": "1977",
+  "y": 1977,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Landscape"
+  ],
+  "study": "Low gallery wings frame a Japanese stone garden courtyard beside a pond.",
+  "qid": "Q884204",
+  "commons": "Category:Museum für Ostasiatische Kunst (Köln)",
+  "lead": "File:Museum für ostasiatische Kunst (0480-82).jpg",
+  "coords": [
+   50.9352,
+   6.92554
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "paper-dome-paper-church",
+  "n": 1433,
+  "name": "Paper Dome (Paper Church)",
+  "by": "Shigeru Ban",
+  "place": "Puli, TW",
+  "year": "2008",
+  "y": 2008,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Low cost",
+   "Prefabrication",
+   "Tensile structure"
+  ],
+  "study": "An elliptical ring of paper tubes holds a membrane roof inside a rectangular shell.",
+  "qid": "Q7132618",
+  "commons": "Category:Paper Dome",
+  "lead": "File:Paper dome night.jpg",
+  "coords": [
+   23.9414,
+   120.9271
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lappia-hall",
+  "n": 1434,
+  "name": "Lappia Hall",
+  "by": "Alvar Aalto",
+  "place": "Rovaniemi, FI",
+  "year": "1975",
+  "y": 1975,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Geometry"
+  ],
+  "study": "A white theatre and congress hall whose stepped roof profile echoes the fells of Lapland.",
+  "qid": "Q17382129",
+  "commons": "Category:Lappia Hall",
+  "lead": "File:Lappia-talo.JPG",
+  "coords": [
+   66.49654,
+   25.72278
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "berkeley-art-museum-original-building",
+  "n": 1435,
+  "name": "Berkeley Art Museum (original building)",
+  "by": "Mario Ciampi",
+  "place": "Berkeley, US",
+  "year": "1970",
+  "y": 1970,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Circulation",
+   "Cantilever"
+  ],
+  "study": "Concrete galleries fan out and step down from a central atrium, linked by ramps and cantilevered balconies.",
+  "qid": "Q2916280",
+  "commons": "Category:Berkeley Art Museum and Pacific Film Archive",
+  "lead": "File:BAMPFA entrance.jpg",
+  "coords": [
+   37.8708,
+   -122.26634
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tabakfabrik-linz",
+  "n": 1436,
+  "name": "Tabakfabrik Linz",
+  "by": "Peter Behrens and Alexander Popp",
+  "place": "Linz, AT",
+  "year": "1935",
+  "y": 1935,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Adaptive reuse",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "study": "A long, gently curving steel-frame wing with continuous ribbon windows, now a creative hub.",
+  "qid": "Q2386234",
+  "commons": "Category:Linz Austria Tabakwerke",
+  "lead": "File:Grand Garage Terrasse 2019 Tabakfabrik Linz 6.jpg",
+  "coords": [
+   48.31195,
+   14.29795
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tokyo-metropolitan-teien-art-museum",
+  "n": 1437,
+  "name": "Tokyo Metropolitan Teien Art Museum",
+  "by": "Yōkichi Gondō with Henri Rapin",
+  "place": "Tokyo, JP",
+  "year": "1933",
+  "y": 1933,
+  "type": "Museum",
+  "movement": "Art Deco",
+  "region": "East Asia",
+  "era": "1900–1945",
+  "concepts": [
+   "Detail",
+   "Adaptive reuse",
+   "Colour"
+  ],
+  "study": "Former princely residence with French Art Deco rooms, Lalique glass doors and a porcelain perfume fountain.",
+  "qid": "Q743773",
+  "commons": "Category:Tokyo Metropolitan Teien Art Museum",
+  "lead": "File:Tokyo Metropolitan Teien Art Museum.jpg",
+  "coords": [
+   35.63686,
+   139.71927
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "autrique-house",
+  "n": 1438,
+  "name": "Autrique House",
+  "by": "Victor Horta",
+  "place": "Brussels, BE",
+  "year": "1893",
+  "y": 1893,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Light & shadow"
+  ],
+  "study": "Horta's first town house: a modest stone front with the first hints of his Art Nouveau ironwork.",
+  "qid": "Q2675725",
+  "commons": "Category:Maison Autrique",
+  "lead": "File:Autrique House (1).jpg",
+  "coords": [
+   50.86306,
+   4.37306
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "gavina-showroom",
+  "n": 1439,
+  "name": "Gavina Showroom",
+  "by": "Carlo Scarpa",
+  "place": "Bologna, IT",
+  "year": "1963",
+  "y": 1963,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "study": "Shopfront of concrete planes pierced by large circular openings, with Scarpa's layered detailing inside.",
+  "qid": "Q106073023",
+  "commons": "Category:Gavina shop (Bologna)",
+  "lead": "File:Paolo Monti - Servizio fotografico - BEIC 6337231.jpg",
+  "coords": [
+   44.49514,
+   11.34541
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palazzo-piccolomini",
+  "n": 1440,
+  "name": "Palazzo Piccolomini",
+  "by": "Bernardo Rossellino",
+  "place": "Pienza, IT",
+  "year": "1462",
+  "y": 1462,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Courtyard"
+  ],
+  "study": "Rusticated palazzo modelled on Palazzo Rucellai, with tiered loggias opening its garden to the valley.",
+  "qid": "Q3815086",
+  "commons": "Category:Palazzo Piccolomini (Pienza)",
+  "lead": "File:Palazzo Piccolomini Pienza.JPG",
+  "coords": [
+   43.07649,
+   11.67878
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "cuvillies-theatre",
+  "n": 1441,
+  "name": "Cuvilliés Theatre",
+  "by": "François de Cuvilliés",
+  "place": "Munich, DE",
+  "year": "1753",
+  "y": 1753,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Colour"
+  ],
+  "study": "Rococo court theatre of carved, gilded wooden tiers, dismantled in the war and reinstalled in the Residenz.",
+  "qid": "Q532191",
+  "commons": "Category:Cuvilliés-Theater",
+  "lead": "File:München Residenztheater.JPG",
+  "coords": [
+   48.1409,
+   11.58002
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "museum-of-military-history-arsenal",
+  "n": 1442,
+  "name": "Museum of Military History (Arsenal)",
+  "by": "Theophil Hansen and Ludwig Förster",
+  "place": "Vienna, AT",
+  "year": "1856",
+  "y": 1856,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Monumentality"
+  ],
+  "study": "Banded brick facades in a Byzantine-Moorish style front a domed hall of fame inside Vienna's Arsenal.",
+  "qid": "Q700751",
+  "commons": "Category:Heeresgeschichtliches Museum",
+  "lead": "File:Arsenal Heeresgeschichtliches Museum Mittelbau-DSC 8010w.jpg",
+  "coords": [
+   48.18536,
+   16.38739
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "dallas-museum-of-art",
+  "n": 1443,
+  "name": "Dallas Museum of Art",
+  "by": "Edward Larrabee Barnes",
+  "place": "Dallas, US",
+  "year": "1984",
+  "y": 1984,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Stone",
+   "Vault",
+   "Circulation"
+  ],
+  "study": "Low limestone gallery blocks hang off a long barrel-vaulted concourse that steps down the site.",
+  "qid": "Q745866",
+  "commons": "Category:Dallas Museum of Art",
+  "lead": "File:DMA west.jpg",
+  "coords": [
+   32.78756,
+   -96.80089
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "palazzo-dell-arte-triennale-di-milano",
+  "n": 1444,
+  "name": "Palazzo dell'Arte (Triennale di Milano)",
+  "by": "Giovanni Muzio",
+  "place": "Milan, IT",
+  "year": "1933",
+  "y": 1933,
+  "type": "Museum",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Landscape"
+  ],
+  "study": "Muzio's brick exhibition palace in Parco Sempione, entered through tall arches to a grand central stair.",
+  "qid": "Q2705493",
+  "commons": "Category:Triennale di Milano",
+  "lead": "File:Parco Sempione (Milan), Wikimania 2016, MP 003.jpg",
+  "coords": [
+   45.47181,
+   9.17371
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "opus-hong-kong",
+  "n": 1445,
+  "name": "Opus Hong Kong",
+  "by": "Frank Gehry",
+  "place": "Hong Kong, HK",
+  "year": "2012",
+  "y": 2012,
+  "type": "Housing",
+  "movement": "Deconstructivism",
+  "region": "East Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "study": "Glass-walled floors of flats shift and twist as the tower rises up a steep hillside on the Peak.",
+  "qid": "Q7099120",
+  "commons": "Category:Opus Hong Kong",
+  "lead": "File:OPUS-9980.jpg",
+  "coords": [
+   22.2697,
+   114.174
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "academy-of-arts-hanseatenweg",
+  "n": 1446,
+  "name": "Academy of Arts, Hanseatenweg",
+  "by": "Werner Düttmann",
+  "place": "Berlin, DE",
+  "year": "1960",
+  "y": 1960,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Cluster",
+   "Brick",
+   "Landscape"
+  ],
+  "study": "Linked exhibition halls, studio block and a hall under a sweeping copper roof sit low in a park.",
+  "qid": "Q414078",
+  "commons": "Category:Akademie der Künste Berlin (Hanseatenweg)",
+  "lead": "File:AdK Berlin Hanseatenweg, 1.jpg",
+  "coords": [
+   52.5179,
+   13.3461
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tagblatt-turm",
+  "n": 1447,
+  "name": "Tagblatt-Turm",
+  "by": "Ernst Otto Osswald",
+  "place": "Stuttgart, DE",
+  "year": "1928",
+  "y": 1928,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "region": "Europe",
+  "era": "1900–1945",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "study": "An early exposed-concrete high-rise whose tower steps back above a lower block.",
+  "qid": "Q896764",
+  "commons": "Category:Tagblatt-Turm",
+  "lead": "File:Stuttgart-tagblatt-turm2006.jpg",
+  "coords": [
+   48.7728,
+   9.17611
+  ],
+  "hotlink": true
  }
 ];
