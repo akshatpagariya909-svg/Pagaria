@@ -1,2 +1,2 @@
-python -u tools/pritzker.py
-Count every Pritzker winner and every building Wikidata credits to them or their firm, with facts for filters.
+python -u tools/signals.py
+Fetch expert-database, identifier and award signals for every candidate, then rescore (tools/score.py).
