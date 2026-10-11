@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch1
-Fetch Wikidata years, architect birth years and country codes for batch 1, to check the curated years.
+python -u tools/build_pages.py
+Rebuild building pages after replacing the Millau Viaduct lead photo (the old lead showed a church in Peyre).

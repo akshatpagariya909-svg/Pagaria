@@ -32126,44 +32126,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/St_Christopher_church_in_Peyre_%284%29.jpg/1280px-St_Christopher_church_in_Peyre_%284%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Creissels_et_Viaduct_de_Millau.jpg/1280px-Creissels_et_Viaduct_de_Millau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/millau-viaduct/thumbs/0.webp",
-    "w": 1280,
-    "h": 1092,
-    "kind": "Exterior",
-    "caption": "Exterior · Saint Christopher church in Peyre in commune of Comprégnac, Aveyron, France",
-    "credit": "Krzysztof Golik",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:St_Christopher_church_in_Peyre_(4).jpg",
-    "file": "File:St Christopher church in Peyre (4).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Millau_viaduct_%282724118283%29.jpg/1280px-Millau_viaduct_%282724118283%29.jpg",
-    "thumb": "images/millau-viaduct/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · France July 2008",
-    "credit": "Richard Leeming  from London, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Millau_viaduct_(2724118283).jpg",
-    "file": "File:Millau viaduct (2724118283).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Millau_Viaduct_%282724128971%29.jpg/1280px-Millau_Viaduct_%282724128971%29.jpg",
-    "thumb": "images/millau-viaduct/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · France July 2008",
-    "credit": "Richard Leeming  from London, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Millau_Viaduct_(2724128971).jpg",
-    "file": "File:Millau Viaduct (2724128971).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Creissels_et_Viaduct_de_Millau.jpg/1280px-Creissels_et_Viaduct_de_Millau.jpg",
-    "thumb": "images/millau-viaduct/thumbs/3.webp",
     "w": 1280,
     "h": 852,
     "kind": "Exterior",
@@ -32174,8 +32138,20 @@ window.BUILDINGS = [
     "file": "File:Creissels et Viaduct de Millau.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panorama_de_la_vall%C3%A9e_de_Millau.jpg/1280px-Panorama_de_la_vall%C3%A9e_de_Millau.jpg",
-    "thumb": "images/millau-viaduct/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Millau_Viaduct_%282724128971%29.jpg/1280px-Millau_Viaduct_%282724128971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millau-viaduct/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · France July 2008",
+    "credit": "Richard Leeming  from London, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Millau_Viaduct_(2724128971).jpg",
+    "file": "File:Millau Viaduct (2724128971).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panorama_de_la_vall%C3%A9e_de_Millau.jpg/1280px-Panorama_de_la_vall%C3%A9e_de_Millau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millau-viaduct/thumbs/2.webp",
     "w": 1280,
     "h": 807,
     "kind": "Context",
@@ -32186,8 +32162,20 @@ window.BUILDINGS = [
     "file": "File:Panorama de la vallée de Millau.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Le_Truel-Ausblick_von_Costecalde_0128.JPG/1280px-Le_Truel-Ausblick_von_Costecalde_0128.JPG",
-    "thumb": "images/millau-viaduct/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Millau_viaduct_%282724118283%29.jpg/1280px-Millau_viaduct_%282724118283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millau-viaduct/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · France July 2008",
+    "credit": "Richard Leeming  from London, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Millau_viaduct_(2724118283).jpg",
+    "file": "File:Millau viaduct (2724118283).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Le_Truel-Ausblick_von_Costecalde_0128.JPG/1280px-Le_Truel-Ausblick_von_Costecalde_0128.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millau-viaduct/thumbs/4.webp",
     "w": 1280,
     "h": 960,
     "kind": "Context",
