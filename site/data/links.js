@@ -43,11 +43,6 @@ window.LINKS = {
     "url": "https://www.kanazawa21.jp/"
    },
    {
-    "kind": "Photo essays",
-    "site": "Divisare",
-    "url": "https://divisare.com/projects/322209-sanaa-kazuyo-sejima-ryue-nishizawa-rasmus-hjortshoj-coast-21st-century-museum"
-   },
-   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/9351.htm"
@@ -347,11 +342,6 @@ window.LINKS = {
  },
  "aga-khan-university-hospital": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/899013/the-aga-khan-museum-maki-and-associates"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -2048,11 +2038,6 @@ window.LINKS = {
     "url": "https://www.nelson-atkins.org/"
    },
    {
-    "kind": "Photo essays",
-    "site": "Divisare",
-    "url": "https://divisare.com/projects/16689-steven-holl-architects-chris-mcvoy-raul-j-garcia-nelson-atkins-museum-addition"
-   },
-   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/14028.htm"
@@ -2286,11 +2271,6 @@ window.LINKS = {
     "kind": "Drawings & photos",
     "site": "ArchDaily",
     "url": "https://www.archdaily.com/1181780/sothebys-global-headquarters-at-the-breuer-herzog-and-de-meuron-plus-pbdw-architects"
-   },
-   {
-    "kind": "Photo essays",
-    "site": "Divisare",
-    "url": "https://divisare.com/projects/337629-bernhard-breuer-stable-b"
    },
    {
     "kind": "Database",
@@ -3917,11 +3897,6 @@ window.LINKS = {
  },
  "city-hall-london": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/624982/city-of-london-freemen-s-school-hawkins-brown"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -5677,11 +5652,6 @@ window.LINKS = {
  "four-seasons-centre-for-the-performing-arts": {
   "links": [
    {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/940691/jay-and-susie-gogue-performing-arts-center-wilson-butler-architects"
-   },
-   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.coc.ca/your-visit/our-buildings/four-seasons-centre-for-the-performing-arts/index"
@@ -7100,11 +7070,6 @@ window.LINKS = {
  },
  "hong-kong-city-hall": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/905820/hong-leong-city-center-aedas"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -8906,11 +8871,6 @@ window.LINKS = {
  "kunsthaus-graz": {
   "links": [
    {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/107500/ad-classics-kunsthaus-bregenz-peter-zumthor"
-   },
-   {
     "kind": "Plans & sections",
     "site": "WikiArquitectura",
     "url": "https://en.wikiarquitectura.com/building/kunsthaus-de-graz/"
@@ -8969,11 +8929,6 @@ window.LINKS = {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.kursaal.eus"
-   },
-   {
-    "kind": "Photo essays",
-    "site": "Divisare",
-    "url": "https://divisare.com/projects/279095-tobia-scarpa-de8-architetti-mauro-piantelli-kursaal-san-pellegrino"
    },
    {
     "kind": "Database",
@@ -9425,11 +9380,6 @@ window.LINKS = {
  },
  "lever-house": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/61162/ad-classics-lever-house-skidmore-owings-merrill"
-   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -10290,11 +10240,6 @@ window.LINKS = {
  },
  "matmut-atlantique": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/633554/the-new-bordeaux-stadium-herzog-and-de-meuron"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -11415,11 +11360,6 @@ window.LINKS = {
  },
  "museum-of-the-future": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/875642/office-of-the-future-killa-design"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -13694,11 +13634,6 @@ window.LINKS = {
     "url": "https://www.archdaily.com/407522/ad-classics-the-portland-building-michael-graves"
    },
    {
-    "kind": "Photo essays",
-    "site": "Divisare",
-    "url": "https://divisare.com/projects/373740-kengo-kuma-and-associates-james-florio-photography-portland-japanese-garden-cultural-village"
-   },
-   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/6401.htm"
@@ -14483,11 +14418,6 @@ window.LINKS = {
  },
  "sagrada-familia-schools": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/438992/ad-classics-la-sagrada-familia-antoni-gaudi"
-   },
    {
     "kind": "Location",
     "site": "Map",
@@ -15328,11 +15258,6 @@ window.LINKS = {
  },
  "sharp-centre-for-design": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/644443/bortolotto-unveils-design-for-rosalie-sharp-pavilion-in-toronto"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -16614,11 +16539,6 @@ window.LINKS = {
  "tel-aviv-city-hall": {
   "links": [
    {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/373792/tel-aviv-white-city-forum-winning-proposal-kimmel-eshkolot-architects"
-   },
-   {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=32.08190&mlon=34.78060#map=17/32.08190/34.78060"
@@ -16628,11 +16548,6 @@ window.LINKS = {
  },
  "tel-aviv-museum-of-art-herta-and-paul-amir-building": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/87739/tel-aviv-museum-of-art-amir-building-preston-scott-cohen"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -17364,11 +17279,6 @@ window.LINKS = {
  "toulouse-school-of-economics": {
   "links": [
    {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/977225/london-school-of-economics-marshall-building-grafton-architects"
-   },
-   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.tse-fr.eu/"
@@ -17448,11 +17358,6 @@ window.LINKS = {
  },
  "toyo-ito-museum-of-architecture": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/879747/soma-city-home-for-all-toyo-ito-and-associates-plus-klein-dytham-architecture"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -17654,11 +17559,6 @@ window.LINKS = {
  "unite-d-habitation-berlin": {
   "links": [
    {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/85971/ad-classics-unite-d-habitation-le-corbusier"
-   },
-   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/1929.htm"
@@ -17858,11 +17758,6 @@ window.LINKS = {
  },
  "utzon-center": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/770949/tornhuset-terroir"
-   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -18623,11 +18518,6 @@ window.LINKS = {
  },
  "washington-dulles-airport-terminal": {
   "links": [
-   {
-    "kind": "Drawings & photos",
-    "site": "ArchDaily",
-    "url": "https://www.archdaily.com/102060/ad-classics-dulles-international-airport-eero-saarinen"
-   },
    {
     "kind": "Location",
     "site": "Map",
