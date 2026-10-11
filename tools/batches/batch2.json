@@ -1,0 +1,9084 @@
+[
+{
+"qid": "Q23044797",
+"name": "Tower House",
+"architect": "Takamitsu Azuma",
+"year": 1966,
+"country": "Japan",
+"region": "East Asia",
+"type": "house",
+"sitelinks": 4,
+"score": 66,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q11422449",
+"name": "International House of Japan",
+"architect": "Kunio Maekawa",
+"year": 1955,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 4,
+"score": 63,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q2275530",
+"name": "Villa Shodhan",
+"architect": "Le Corbusier",
+"year": 1956,
+"country": "India",
+"region": "South Asia",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 62,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"archnet",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6816788",
+"name": "Casa das Canoas",
+"architect": "Oscar Niemeyer",
+"year": 1952,
+"country": "Brazil",
+"region": "Americas",
+"type": "residential building",
+"sitelinks": 6,
+"score": 61,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q6821069",
+"name": "Mesa Laboratory",
+"architect": "I. M. Pei",
+"year": 1961,
+"country": "United States",
+"region": "Americas",
+"type": "research structure",
+"sitelinks": 5,
+"score": 61,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11367991",
+"name": "Marugame Genichiro-Inokuma Museum of Contemporary Art",
+"architect": "Yoshio Taniguchi",
+"year": 1991,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 4,
+"score": 60,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q3890034",
+"name": "Pampulha art museum",
+"architect": "Oscar Niemeyer",
+"year": 1957,
+"country": "Brazil",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 6,
+"score": 59,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q9709756",
+"name": "Catedral Militar Rainha da Paz",
+"architect": "Oscar Niemeyer",
+"year": 1991,
+"country": "Brazil",
+"region": "Americas",
+"type": "Catholic cathedral",
+"sitelinks": 6,
+"score": 58,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q6382807",
+"name": "Keeling House",
+"architect": "Denys Lasdun",
+"year": 1955,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "house",
+"sitelinks": 3,
+"score": 58,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3277871",
+"name": "Maison Blanche",
+"architect": "Le Corbusier",
+"year": 1912,
+"country": "Switzerland",
+"region": "Europe",
+"type": "built structure",
+"sitelinks": 10,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6062641",
+"name": "Parc de Diagonal Mar",
+"architect": "Benedetta Tagliabue",
+"year": 2002,
+"country": "Spain",
+"region": "Europe",
+"type": "park",
+"sitelinks": 7,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q16028671",
+"name": "Catholic Church St. Nicolas",
+"architect": "Walter Förderer",
+"year": 1971,
+"country": "Switzerland",
+"region": "Europe",
+"type": "Catholic church building",
+"sitelinks": 6,
+"score": 57,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q3796698",
+"name": "Immeuble Molitor",
+"architect": "Le Corbusier",
+"year": 1934,
+"country": "France",
+"region": "Europe",
+"type": "multi-story urban building",
+"sitelinks": 6,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q28027474",
+"name": "El Peix d'Or",
+"architect": "Frank Gehry",
+"year": 1992,
+"country": "Spain",
+"region": "Europe",
+"type": "built structure",
+"sitelinks": 5,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5602382",
+"name": "Green Building",
+"architect": "I. M. Pei",
+"year": 1964,
+"country": "United States",
+"region": "Americas",
+"type": "building",
+"sitelinks": 5,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3678603",
+"name": "CityLife",
+"architect": "Arata Isozaki",
+"year": 2015,
+"country": "Italy",
+"region": "Europe",
+"type": "unfinished building",
+"sitelinks": 8,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4179781",
+"name": "Gropius House",
+"architect": "Walter Gropius",
+"year": 1938,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 8,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3278943",
+"name": "Maison Planeix",
+"architect": "Le Corbusier",
+"year": 1928,
+"country": "France",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 7,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q10453586",
+"name": "Cité de refuge",
+"architect": "Le Corbusier",
+"year": 1933,
+"country": "France",
+"region": "Europe",
+"type": "administrative building",
+"sitelinks": 6,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6965228",
+"name": "Nara Centennial Hall",
+"architect": "Arata Isozaki",
+"year": 1999,
+"country": "Japan",
+"region": "East Asia",
+"type": "concert hall",
+"sitelinks": 6,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11722210",
+"name": "Parish Community Center Holy Ghost",
+"architect": "Alvar Aalto",
+"year": 1962,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 5,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11722211",
+"name": "Stephanuskirche (Wolfsburg)",
+"architect": "Alvar Aalto",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 5,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q10333582",
+"name": "National Museum of the Brazilian Republic",
+"architect": "Oscar Niemeyer",
+"year": 2006,
+"country": "Brazil",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 4,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1543101",
+"name": "Matthäuskirche",
+"architect": "Egon Eiermann",
+"year": 1950,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15880551",
+"name": "Pastoor van Arskerk",
+"architect": "Aldo van Eyck",
+"year": 1960,
+"country": "Netherlands",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5164991",
+"name": "Contemporary Jewish Museum",
+"architect": "Daniel Libeskind",
+"year": 1984,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 9,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q319194",
+"name": "Alvar-Aalto-Kulturhaus",
+"architect": "Alvar Aalto",
+"year": 1962,
+"country": "Germany",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 8,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q670323",
+"name": "Morton H. Meyerson Symphony Center",
+"architect": "I. M. Pei",
+"year": 1989,
+"country": "United States",
+"region": "Americas",
+"type": "concert hall",
+"sitelinks": 8,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q300972",
+"name": "Aalto-Hochhaus",
+"architect": "Alvar Aalto",
+"year": 1961,
+"country": "Germany",
+"region": "Europe",
+"type": "revenue house",
+"sitelinks": 7,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4836031",
+"name": "BMW Central Building",
+"architect": "Zaha Hadid",
+"year": 2005,
+"country": "Germany",
+"region": "Europe",
+"type": "industrial building",
+"sitelinks": 7,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7930495",
+"name": "Villa Schwob",
+"architect": "Le Corbusier",
+"year": 1912,
+"country": "Switzerland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 7,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11465485",
+"name": "Onomichi City Museum of Art",
+"architect": "Tadao Ando",
+"year": 1980,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 6,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3278852",
+"name": "Maison Louis Carré",
+"architect": "Alvar Aalto",
+"year": 1959,
+"country": "France",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 6,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3867996",
+"name": "Museum of the Ara Pacis",
+"architect": "Richard Meier",
+"year": 1938,
+"country": "Italy",
+"region": "Europe",
+"type": "archaeological museum",
+"sitelinks": 6,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4867942",
+"name": "The Bass Museum of Art",
+"architect": "Arata Isozaki",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 6,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q772059",
+"name": "Max Planck Institute for Human Development",
+"architect": "Hermann Fehling",
+"year": 1963,
+"country": "Germany",
+"region": "Europe",
+"type": "Max Planck Institute",
+"sitelinks": 6,
+"score": 55,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q7735941",
+"name": "The Gateway",
+"architect": "I. M. Pei",
+"year": 1990,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "building complex",
+"sitelinks": 6,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7552028",
+"name": "Society Hill Towers",
+"architect": "I. M. Pei",
+"year": 1964,
+"country": "United States",
+"region": "Americas",
+"type": "housing estate",
+"sitelinks": 5,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q281123",
+"name": "Christ Church Lutheran",
+"architect": "Eliel Saarinen",
+"year": 1948,
+"country": "United States",
+"region": "Americas",
+"type": "church building",
+"sitelinks": 4,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5056884",
+"name": "Cedar Rock State Park",
+"architect": "Frank Lloyd Wright",
+"year": 1981,
+"country": "United States",
+"region": "Americas",
+"type": "historic house museum",
+"sitelinks": 4,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q803799",
+"name": "Bailey House",
+"architect": "Pierre Koenig",
+"year": 1959,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 4,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2787387",
+"name": "Burgerweeshuis",
+"architect": "Aldo van Eyck",
+"year": 1955,
+"country": "Netherlands",
+"region": "Europe",
+"type": "orphanage",
+"sitelinks": 3,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1579670",
+"name": "United States Supreme Court Building",
+"architect": "Cass Gilbert",
+"year": 1935,
+"country": "United States",
+"region": "Americas",
+"type": "courthouse",
+"sitelinks": 19,
+"score": 54,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q128316",
+"name": "Honolulu Museum of Art",
+"architect": "Bertram Goodhue",
+"year": 1922,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 17,
+"score": 54,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q496060",
+"name": "Headquarters of the French Communist Party",
+"architect": "Oscar Niemeyer",
+"year": 1971,
+"country": "France",
+"region": "Europe",
+"type": "headquarters",
+"sitelinks": 9,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q314559",
+"name": "Osthaus-Museum Hagen",
+"architect": "Henry van de Velde",
+"year": 1902,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 8,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3512622",
+"name": "Pennzoil Place",
+"architect": "Philip Johnson",
+"year": 1975,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 7,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q10954019",
+"name": "FCG Building",
+"architect": "Kenzō Tange",
+"year": 1996,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 6,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1481649",
+"name": "Fünf Höfe",
+"architect": "Jacques Herzog",
+"year": 2003,
+"country": "Germany",
+"region": "Europe",
+"type": "covered passageway",
+"sitelinks": 6,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2178401",
+"name": "Sheats Goldstein Residence",
+"architect": "John Lautner",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 6,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2853220",
+"name": "neighborhood Antigone",
+"architect": "Ricardo Bofill",
+"year": 1983,
+"country": "France",
+"region": "Europe",
+"type": "neighborhood",
+"sitelinks": 6,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1662515",
+"name": "Information, Communications and Media Centre Cottbus",
+"architect": "Herzog & de Meuron",
+"year": 2004,
+"country": "Germany",
+"region": "Europe",
+"type": "academic library",
+"sitelinks": 5,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1976364",
+"name": "Bakhmetevsky Bus Depot",
+"architect": "Konstantin Melnikov",
+"year": 1927,
+"country": "Russia",
+"region": "Europe",
+"type": "bus garage",
+"sitelinks": 5,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q283587",
+"name": "Kentuck Knob",
+"architect": "Frank Lloyd Wright",
+"year": 1956,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2979941",
+"name": "Kauchuk Factory Club",
+"architect": "Konstantin Melnikov",
+"year": 1929,
+"country": "Russia",
+"region": "Europe",
+"type": "clubhouse",
+"sitelinks": 5,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q650028",
+"name": "Humana Building",
+"architect": "Michael Graves",
+"year": 1985,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q16577575",
+"name": "church of Nuestra Señora de Guadalupe",
+"architect": "Enrique de la Mora y Palomar",
+"year": 1967,
+"country": "Spain",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"docomomo",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1675021",
+"name": "State Library of Berlin (Haus Potsdamer Straße)",
+"architect": "Hans Scharoun",
+"year": 1978,
+"country": "Germany",
+"region": "Europe",
+"type": "library building",
+"sitelinks": 3,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q18749200",
+"name": "Smith Campus Center",
+"architect": "Josep Lluís Sert",
+"year": 1966,
+"country": "United States",
+"region": "Americas",
+"type": "built structure",
+"sitelinks": 3,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q77806922",
+"name": "Akino Fuku Museum",
+"architect": "Terunobu Fujimori",
+"year": 1998,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 2,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q259553",
+"name": "Urania",
+"architect": "Max Fabiani",
+"year": 1910,
+"country": "Austria",
+"region": "Europe",
+"type": "built structure",
+"sitelinks": 21,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1937376",
+"name": "777 Tower",
+"architect": "César Pelli",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 17,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q3387206",
+"name": "Palmolive Building",
+"architect": "Holabird & Root",
+"year": 1929,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 11,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q876537",
+"name": "Renwick Gallery",
+"architect": "James Renwick Jr.",
+"year": 1972,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 11,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q7930318",
+"name": "Villa Fallet",
+"architect": "Le Corbusier",
+"year": 1906,
+"country": "Switzerland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 10,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17405833",
+"name": "Villa Aalto",
+"architect": "Alvar Aalto",
+"year": 1935,
+"country": "Finland",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 9,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3152226",
+"name": "Institute of Contemporary Art, Boston",
+"architect": "Diller Scofidio + Renfro",
+"year": 1936,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 8,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q315753",
+"name": "Lehmbruck Museum",
+"architect": "Manfred Lehmbruck",
+"year": 1924,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 8,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q1150950",
+"name": "Marin County Civic Center",
+"architect": "Frank Lloyd Wright",
+"year": 1960,
+"country": "United States",
+"region": "Americas",
+"type": "office building",
+"sitelinks": 7,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q2974657",
+"name": "Quartiers Modernes Frugès",
+"architect": "Le Corbusier",
+"year": 1924,
+"country": "France",
+"region": "Europe",
+"type": "neighborhood",
+"sitelinks": 7,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q884204",
+"name": "Museum of East-Asian Art",
+"architect": "Kunio Maekawa",
+"year": 1913,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 7,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1670774",
+"name": "Kino International",
+"architect": "Josef Kaiser",
+"year": 1961,
+"country": "Germany",
+"region": "Europe",
+"type": "movie theater",
+"sitelinks": 6,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q11814615",
+"name": "Four Domes Pavilion, Wrocław",
+"architect": "Hans Poelzig",
+"year": 1913,
+"country": "Poland",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q222881",
+"name": "2 Willow Road",
+"architect": "Ernő Goldfinger",
+"year": 1939,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "historic house museum",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3330160",
+"name": "Asian Arts Museum",
+"architect": "François Deslaugiers",
+"year": 1998,
+"country": "France",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3685974",
+"name": "Concattedrale Gran Madre di Dio",
+"architect": "Gio Ponti",
+"year": 1967,
+"country": "Italy",
+"region": "Europe",
+"type": "cathedral",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3915469",
+"name": "Watari Museum of Contemporary Art",
+"architect": "Mario Botta",
+"year": 1990,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7132618",
+"name": "Paper Dome",
+"architect": "Shigeru Ban",
+"year": 2008,
+"country": "Taiwan",
+"region": "East Asia",
+"type": "church building",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q746490",
+"name": "Lovell Beach House",
+"architect": "Rudolph Schindler",
+"year": 1926,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q12286421",
+"name": "Maison Hermès",
+"architect": "Renzo Piano",
+"year": 2001,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 4,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2361695",
+"name": "Museo del Teatro Romano de Cartagena",
+"architect": "Rafael Moneo",
+"year": 2008,
+"country": "Spain",
+"region": "Europe",
+"type": "archaeological museum",
+"sitelinks": 4,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q110722976",
+"name": "Milam Residence",
+"architect": "Paul Rudolph",
+"year": 1961,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q12362561",
+"name": "Maria Königin des Friedens",
+"architect": "Gottfried Böhm",
+"year": 1959,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1156778",
+"name": "Manhattan Municipal Building",
+"architect": "McKim, Mead & White",
+"year": 1914,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 19,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1499859",
+"name": "New York Life Building",
+"architect": "Cass Gilbert",
+"year": 1928,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 18,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q695126",
+"name": "Konzerthaus",
+"architect": "Fellner & Helmer",
+"year": 1913,
+"country": "Austria",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 18,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q673076",
+"name": "Arkansas State Capitol",
+"architect": "George R. Mann",
+"year": 1900,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 17,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q642866",
+"name": "Chicago Theatre",
+"architect": "Rapp and Rapp",
+"year": 1921,
+"country": "United States",
+"region": "Americas",
+"type": "theatre building",
+"sitelinks": 16,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q896180",
+"name": "Tempodrom",
+"architect": "Gerkan, Marg and Partners",
+"year": 1980,
+"country": "Germany",
+"region": "Europe",
+"type": "multi-purpose hall",
+"sitelinks": 16,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q669768",
+"name": "Großes Festspielhaus",
+"architect": "Clemens Holzmeister",
+"year": 1960,
+"country": "Austria",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 10,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q316021",
+"name": "Haus des Rundfunks",
+"architect": "Hans Poelzig",
+"year": 1930,
+"country": "Germany",
+"region": "Europe",
+"type": "broadcasting house",
+"sitelinks": 7,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q62669101",
+"name": "Forschungseinrichtung für experimentelle Medizin",
+"architect": "Gerd Hänska",
+"year": 1981,
+"country": "Germany",
+"region": "Europe",
+"type": "laboratory",
+"sitelinks": 7,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q1896259",
+"name": "Maria Regina Martyrum",
+"architect": "Hans Schädel",
+"year": 1963,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 6,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1693486",
+"name": "Neutra VDL Studio and Residences",
+"architect": "Richard Neutra",
+"year": 1932,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1792424",
+"name": "Kunsthalle Würth",
+"architect": "Henning Larsen",
+"year": 1998,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 5,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3661146",
+"name": "Casa Planells",
+"architect": "Josep Maria Jujol",
+"year": 1924,
+"country": "Spain",
+"region": "Europe",
+"type": "residential building",
+"sitelinks": 5,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5417350",
+"name": "Everson Museum of Art",
+"architect": "I. M. Pei",
+"year": 1897,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 5,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7474100",
+"name": "city hall of The Hague",
+"architect": "Richard Meier",
+"year": 1986,
+"country": "Netherlands",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 5,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q14956691",
+"name": "Moor House",
+"architect": "Foster and Partners",
+"year": 2004,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1903166",
+"name": "Collège néerlandais",
+"architect": "Willem Marinus Dudok",
+"year": 1938,
+"country": "France",
+"region": "Europe",
+"type": "university dormitory",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2836969",
+"name": "Casa Bloc",
+"architect": "Josep Lluís Sert",
+"year": 1932,
+"country": "Spain",
+"region": "Europe",
+"type": "residential building",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2923400",
+"name": "Museu Brasileiro da Escultura",
+"architect": "Paulo Mendes da Rocha",
+"year": 1995,
+"country": "Brazil",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5520334",
+"name": "Gammage Memorial Auditorium",
+"architect": "Frank Lloyd Wright",
+"year": 1964,
+"country": "United States",
+"region": "Americas",
+"type": "performing arts center",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7323850",
+"name": "Richard B. Fisher Center for the Performing Arts",
+"architect": "Frank Gehry",
+"year": 2003,
+"country": "United States",
+"region": "Americas",
+"type": "concert hall",
+"sitelinks": 4,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q10300978",
+"name": "Igrejinha Nossa Senhora de Fátima",
+"architect": "Oscar Niemeyer",
+"year": 1958,
+"country": "Brazil",
+"region": "Americas",
+"type": "church building",
+"sitelinks": 3,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2131209",
+"name": "Kunstlinie Almere Flevoland",
+"architect": "Kazuyo Sejima",
+"year": 1998,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 3,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q518528",
+"name": "Chiesa del Santo Volto",
+"architect": "Mario Botta",
+"year": 2004,
+"country": "Italy",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3279404",
+"name": "Jean Prouvé House",
+"architect": "Jean Prouvé",
+"year": 1954,
+"country": "France",
+"region": "Europe",
+"type": "house",
+"sitelinks": 2,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7492228",
+"name": "Sheats Apartments",
+"architect": "John Lautner",
+"year": 1949,
+"country": "United States",
+"region": "Americas",
+"type": "multifamily residential",
+"sitelinks": 2,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2717859",
+"name": "House of the Black Madonna",
+"architect": "Josef Gočár",
+"year": 1912,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "commercial building",
+"sitelinks": 17,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1683354",
+"name": "Nebraska State Capitol",
+"architect": "Bertram Goodhue",
+"year": 1932,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 16,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2281281",
+"name": "Rhode Island State House",
+"architect": "McKim, Mead & White",
+"year": 1904,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 16,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q683406",
+"name": "International Red Cross and Red Crescent Museum",
+"architect": "Pierre Zoelly",
+"year": 2022,
+"country": "Switzerland",
+"region": "Europe",
+"type": "history museum",
+"sitelinks": 12,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q471340",
+"name": "Messe Torhaus",
+"architect": "Oswald Mathias Ungers",
+"year": 1984,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 9,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q5755595",
+"name": "Muuratsalo Experimental House",
+"architect": "Alvar Aalto",
+"year": 1952,
+"country": "Finland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 8,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1166906",
+"name": "Darwin D. Martin House",
+"architect": "Frank Lloyd Wright",
+"year": 1905,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 7,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17382129",
+"name": "Lappia Hall",
+"architect": "Alvar Aalto",
+"year": 1961,
+"country": "Finland",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 6,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1742238",
+"name": "Kino Babylon",
+"architect": "Hans Poelzig",
+"year": 1929,
+"country": "Germany",
+"region": "Europe",
+"type": "movie theater",
+"sitelinks": 6,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2893608",
+"name": "Bodegas Ysios",
+"architect": "Santiago Calatrava",
+"year": 2001,
+"country": "Spain",
+"region": "Europe",
+"type": "winery",
+"sitelinks": 6,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2916280",
+"name": "Berkeley Art Museum and Pacific Film Archive",
+"architect": "Mario Ciampi",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 6,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q7284914",
+"name": "Rainier Tower",
+"architect": "Minoru Yamasaki",
+"year": 1977,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 6,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1078598",
+"name": "Christi Auferstehung",
+"architect": "Gottfried Böhm",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 5,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1136354",
+"name": "The Pyramids",
+"architect": "Roche-Dinkeloo",
+"year": 1972,
+"country": "United States",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 5,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11666529",
+"name": "Iida City Museum",
+"architect": "Hiroshi Hara",
+"year": 1988,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 5,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7727300",
+"name": "The Concourse",
+"architect": "Paul Rudolph",
+"year": 1994,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q10661481",
+"name": "Sankt Petri kyrka, Klippan",
+"architect": "Sigurd Lewerentz",
+"year": 1966,
+"country": "Sweden",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2903120",
+"name": "Weizmann House",
+"architect": "Erich Mendelsohn",
+"year": 1937,
+"country": "Israel",
+"region": "Middle East",
+"type": "museum",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3304958",
+"name": "Melbourne Convention and Exhibition Centre",
+"architect": "Denton Corker Marshall",
+"year": 1990,
+"country": "Australia",
+"region": "Oceania",
+"type": "convention center",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3567539",
+"name": "Westmount Square",
+"architect": "Ludwig Mies van der Rohe",
+"year": 1967,
+"country": "Canada",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3817742",
+"name": "Jujol Centre – Can Negre",
+"architect": "Josep Maria Jujol",
+"year": 1922,
+"country": "Spain",
+"region": "Europe",
+"type": "masia",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7386717",
+"name": "Rødovre Town Hall",
+"architect": "Arne Jacobsen",
+"year": 1956,
+"country": "Denmark",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q965011",
+"name": "Millard House",
+"architect": "Frank Lloyd Wright",
+"year": 1923,
+"country": "United States",
+"region": "Americas",
+"type": "Textile block house",
+"sitelinks": 4,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11462647",
+"name": "Koumi-machi Kōgen Museum of Art",
+"architect": "Tadao Ando",
+"year": 1997,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 3,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q117834995",
+"name": "Reinhard Ernst Museum",
+"architect": "Fumihiko Maki",
+"year": 2024,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 3,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4224195",
+"name": "Svoboda Factory Club",
+"architect": "Konstantin Melnikov",
+"year": 1929,
+"country": "Russia",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 3,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5769468",
+"name": "Cine Barceló",
+"architect": "Luis Gutiérrez Soto",
+"year": 1930,
+"country": "Spain",
+"region": "Europe",
+"type": "movie theater",
+"sitelinks": 3,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"docomomo",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q9054458",
+"name": "Palau de Congressos de València",
+"architect": "Norman Foster",
+"year": 1998,
+"country": "Spain",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 3,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q118314575",
+"name": "East Building of the National Gallery of Art",
+"architect": "I. M. Pei",
+"year": 1978,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q14686106",
+"name": "Lewis House",
+"architect": "Frank Lloyd Wright",
+"year": 1954,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q14714454",
+"name": "Herbert and Katherine Jacobs Second House",
+"architect": "Frank Lloyd Wright",
+"year": 1948,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1728137",
+"name": "high school",
+"architect": "Adrian Meyer",
+"year": 1988,
+"country": "Switzerland",
+"region": "Europe",
+"type": "built structure",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q24874167",
+"name": "Science Tokyo Museum and Archives",
+"architect": "Kazuo Shinohara",
+"year": 1987,
+"country": "Japan",
+"region": "East Asia",
+"type": "university museum",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q28858459",
+"name": "Romeo und Julia",
+"architect": "Hans Scharoun",
+"year": 1957,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5454810",
+"name": "Fisher House",
+"architect": "Louis Kahn",
+"year": 1967,
+"country": "United States",
+"region": "Americas",
+"type": "house",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5642944",
+"name": "Hallfield Estate",
+"architect": "Lindsay Drake",
+"year": 1955,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "multifamily residential",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q60358118",
+"name": "Hiss Residence",
+"architect": "Paul Rudolph",
+"year": 1953,
+"country": "United States",
+"region": "Americas",
+"type": "historic house",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7459195",
+"name": "Seymour Krieger House",
+"architect": "Marcel Breuer",
+"year": 1958,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q686720",
+"name": "Musikverein",
+"architect": "Theophil Hansen",
+"year": 1863,
+"country": "Austria",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 34,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q687694",
+"name": "Komische Oper Berlin",
+"architect": "Fellner & Helmer",
+"year": 1892,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 25,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1858012",
+"name": "Ivan Vazov National Theatre",
+"architect": "Fellner & Helmer",
+"year": 1907,
+"country": "Bulgaria",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 23,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1093944",
+"name": "San Francisco City Hall",
+"architect": "Arthur Brown, Jr.",
+"year": 1915,
+"country": "United States",
+"region": "Americas",
+"type": "city hall",
+"sitelinks": 20,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2224700",
+"name": "Chicago Board of Trade Building",
+"architect": "Holabird & Root",
+"year": 1930,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 17,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q801116",
+"name": "Liège-Guillemins railway station",
+"architect": "Santiago Calatrava",
+"year": 2009,
+"country": "Belgium",
+"region": "Europe",
+"type": "railway station",
+"sitelinks": 17,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q872374",
+"name": "Stadttheater Klagenfurt",
+"architect": "Fellner & Helmer",
+"year": 1910,
+"country": "Austria",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 16,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2745935",
+"name": "Katuaq",
+"architect": "Schmidt Hammer Lassen",
+"year": 1997,
+"country": "Greenland",
+"region": "Other",
+"type": "arts center",
+"sitelinks": 15,
+"score": 50,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q610092",
+"name": "The OVO Hydro",
+"architect": "Foster and Partners",
+"year": 2013,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "arena",
+"sitelinks": 15,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q933431",
+"name": "Fisher Building",
+"architect": "Albert Kahn",
+"year": 1928,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2956452",
+"name": "Denver Mint",
+"architect": "James Knox Taylor",
+"year": 1906,
+"country": "United States",
+"region": "Americas",
+"type": "branch mint",
+"sitelinks": 13,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2361620",
+"name": "Rembrandt Tower",
+"architect": "Q459464",
+"year": 1994,
+"country": "Netherlands",
+"region": "Europe",
+"type": "tower",
+"sitelinks": 12,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q251873",
+"name": "Weiße Stadt",
+"architect": "Otto Rudolf Salvisberg",
+"year": 1931,
+"country": "Germany",
+"region": "Europe",
+"type": "group of houses",
+"sitelinks": 12,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q6970416",
+"name": "National Archives Building",
+"architect": "John Russell Pope",
+"year": 1931,
+"country": "United States",
+"region": "Americas",
+"type": "archive building",
+"sitelinks": 11,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1229086",
+"name": "The Bow",
+"architect": "Foster and Partners",
+"year": 2012,
+"country": "Canada",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 10,
+"score": 50,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1574090",
+"name": "Timberline Lodge",
+"architect": "William Irving Turner",
+"year": 1937,
+"country": "United States",
+"region": "Americas",
+"type": "lodge",
+"sitelinks": 10,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q977015",
+"name": "Phoenix Art Museum",
+"architect": "Alden B. Dow",
+"year": 1959,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 9,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2049869",
+"name": "Tancredo Neves Pantheon of Fatherland and Freedom",
+"architect": "Oscar Niemeyer",
+"year": 1986,
+"country": "Brazil",
+"region": "Americas",
+"type": "cenotaph",
+"sitelinks": 8,
+"score": 50,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3917430",
+"name": "Palácio do Jaburu",
+"architect": "Oscar Niemeyer",
+"year": 1977,
+"country": "Brazil",
+"region": "Americas",
+"type": "palace",
+"sitelinks": 8,
+"score": 50,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3892314",
+"name": "Setagaya Art Museum",
+"architect": "Shozo Uchii",
+"year": 1986,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 7,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1205813",
+"name": "German Literature Archive Marbach",
+"architect": "Jörg Kiefner",
+"year": 1955,
+"country": "Germany",
+"region": "Europe",
+"type": "literary archive",
+"sitelinks": 6,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q2525048",
+"name": "Villa Esche",
+"architect": "Henry van de Velde",
+"year": 1902,
+"country": "Germany",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 6,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q10715473",
+"name": "Villa Göth",
+"architect": "Lennart Holm",
+"year": 1950,
+"country": "Sweden",
+"region": "Europe",
+"type": "building",
+"sitelinks": 5,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q15958230",
+"name": "Huutoniemi Church",
+"architect": "Aarno Ruusuvuori",
+"year": 1964,
+"country": "Finland",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 5,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q2446035",
+"name": "Perret tower (Grenoble)",
+"architect": "Auguste Perret",
+"year": 1925,
+"country": "France",
+"region": "Europe",
+"type": "observation tower",
+"sitelinks": 5,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11665348",
+"name": "Church of the Wind",
+"architect": "Tadao Ando",
+"year": 1986,
+"country": "Japan",
+"region": "East Asia",
+"type": "church building",
+"sitelinks": 4,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q28086472",
+"name": "Café Seerose",
+"architect": "Ulrich Müther",
+"year": 1983,
+"country": "Germany",
+"region": "Europe",
+"type": "restaurant",
+"sitelinks": 4,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q890463",
+"name": "Monte Amiata Housing",
+"architect": "Carlo Aymonino",
+"year": 1974,
+"country": "Italy",
+"region": "Europe",
+"type": "housing estate",
+"sitelinks": 4,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11375286",
+"name": "Garden of Fine Arts Kyoto",
+"architect": "Tadao Ando",
+"year": 1994,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11670668",
+"name": "Nariwa Museum",
+"architect": "Tadao Ando",
+"year": 1953,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q134486471",
+"name": "California Academy of Sciences building",
+"architect": "Renzo Piano",
+"year": 2008,
+"country": "United States",
+"region": "Americas",
+"type": "museum building",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1403403",
+"name": "SiemensForum München",
+"architect": "Richard Meier",
+"year": 1999,
+"country": "Germany",
+"region": "Europe",
+"type": "administrative building",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1528893",
+"name": "Glaspalast Sindelfingen",
+"architect": "Günter Behnisch",
+"year": 1977,
+"country": "Germany",
+"region": "Europe",
+"type": "multi-purpose hall",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2415996",
+"name": "Scharoun-Theater Wolfsburg",
+"architect": "Hans Scharoun",
+"year": 1973,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2429975",
+"name": "Muziekcentrum Vredenburg",
+"architect": "Herman Hertzberger",
+"year": 1968,
+"country": "Netherlands",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q47529298",
+"name": "Extension of Museo del Prado",
+"architect": "Rafael Moneo",
+"year": 2007,
+"country": "Spain",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7342666",
+"name": "Robert C. Weaver Federal Building",
+"architect": "Marcel Breuer",
+"year": 1968,
+"country": "United States",
+"region": "Americas",
+"type": "office building",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q7533722",
+"name": "Skagen Odde Nature Centre",
+"architect": "Jørn Utzon",
+"year": 2000,
+"country": "Denmark",
+"region": "Europe",
+"type": "visitor center",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q9088974",
+"name": "Torre de la Creu",
+"architect": "Josep Maria Jujol",
+"year": 1913,
+"country": "Spain",
+"region": "Europe",
+"type": "house",
+"sitelinks": 3,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1530020",
+"name": "Glaubenskirche",
+"architect": "Roland Rainer",
+"year": 1963,
+"country": "Austria",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1595370",
+"name": "Holy Cross church",
+"architect": "Walter Förderer",
+"year": 1969,
+"country": "Switzerland",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q16058576",
+"name": "church holly cross",
+"architect": "Walter Förderer",
+"year": 1969,
+"country": "Switzerland",
+"region": "Europe",
+"type": "Catholic church building",
+"sitelinks": 2,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2321410",
+"name": "St. Matthias",
+"architect": "Alexander von Branca",
+"year": 1965,
+"country": "Germany",
+"region": "Europe",
+"type": "parish church",
+"sitelinks": 2,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2386234",
+"name": "Tabakfabrik",
+"architect": "Peter Behrens",
+"year": 2009,
+"country": "Austria",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 2,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3629506",
+"name": "Auditorium Niccolò Paganini",
+"architect": "Renzo Piano",
+"year": 1950,
+"country": "Italy",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 2,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5615728",
+"name": "Guild House",
+"architect": "Robert Venturi",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "building",
+"sitelinks": 2,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q136422811",
+"name": "Herbert F. Johnson Museum of Art building",
+"architect": "I. M. Pei",
+"year": 1973,
+"country": "United States",
+"region": "Americas",
+"type": "museum building",
+"sitelinks": 1,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q268151",
+"name": "Croatian National Theatre in Zagreb",
+"architect": "Fellner & Helmer",
+"year": 1895,
+"country": "Croatia",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 32,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1049632",
+"name": "Prospect Park",
+"architect": "Frederick Law Olmsted",
+"year": 1867,
+"country": "United States",
+"region": "Americas",
+"type": "urban park",
+"sitelinks": 31,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q670406",
+"name": "Zürich Opera House",
+"architect": "Fellner & Helmer",
+"year": 1891,
+"country": "Switzerland",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 28,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q3097759",
+"name": "Skopje Train Station",
+"architect": "Kenzō Tange",
+"year": 1981,
+"country": "North Macedonia",
+"region": "Europe",
+"type": "railway station",
+"sitelinks": 17,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q774654",
+"name": "Villa Doria Pamphili",
+"architect": "Alessandro Algardi",
+"year": 1972,
+"country": "Italy",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 17,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1801054",
+"name": "Lake Point Tower",
+"architect": "Schipporeit-Heinrich, Inc.",
+"year": 1968,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 16,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1789816",
+"name": "Minnesota State Capitol",
+"architect": "Cass Gilbert",
+"year": 1905,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 14,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1584748",
+"name": "Hollywood Pantages Theatre",
+"architect": "B. Marcus Priteca",
+"year": 1930,
+"country": "United States",
+"region": "Americas",
+"type": "theatre building",
+"sitelinks": 13,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q516226",
+"name": "Transparent Factory",
+"architect": "Gunter Henn",
+"year": 2002,
+"country": "Germany",
+"region": "Europe",
+"type": "assembly plant",
+"sitelinks": 13,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2423937",
+"name": "Seat of the European Parliament in Strasbourg",
+"architect": "Architecture-Studio",
+"year": 1999,
+"country": "France",
+"region": "Europe",
+"type": "parliament building",
+"sitelinks": 12,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q456586",
+"name": "Prinzregententheater",
+"architect": "Max Littmann",
+"year": 1901,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 12,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q743773",
+"name": "Tokyo Metropolitan Teien Art Museum",
+"architect": "Yōkichi Gondō",
+"year": 1983,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 12,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q525790",
+"name": "Cadillac Place",
+"architect": "Albert Kahn",
+"year": 1922,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q586735",
+"name": "San Francisco Art Institute",
+"architect": "John Bakewell Jr.",
+"year": 1871,
+"country": "United States",
+"region": "Americas",
+"type": "private university",
+"sitelinks": 11,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q661168",
+"name": "Gehry Tower",
+"architect": "Frank Gehry",
+"year": 2001,
+"country": "Germany",
+"region": "Europe",
+"type": "office building",
+"sitelinks": 11,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q198418",
+"name": "Museum für angewandte Kunst Frankfurt",
+"architect": "Richard Meier",
+"year": 1879,
+"country": "Germany",
+"region": "Europe",
+"type": "museum of decorative arts",
+"sitelinks": 10,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2564383",
+"name": "90 West Street",
+"architect": "Cass Gilbert",
+"year": 1907,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 10,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q450777",
+"name": "Deutsches Schauspielhaus",
+"architect": "Fellner & Helmer",
+"year": 1901,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 10,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q821601",
+"name": "Thurgood Marshall United States Courthouse",
+"architect": "Cass Gilbert",
+"year": 1936,
+"country": "United States",
+"region": "Americas",
+"type": "courthouse",
+"sitelinks": 10,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q874373",
+"name": "German Hygiene Museum",
+"architect": "Wilhelm Kreis",
+"year": 1912,
+"country": "Germany",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 10,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3125027",
+"name": "Nihonbashi Mitsui Tower",
+"architect": "César Pelli",
+"year": 2005,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 9,
+"score": 49,
+"star": false,
+"why": [
+"structurae",
+"architect with a body of work in archINFORM",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q3246466",
+"name": "Église Notre-Dame du Raincy",
+"architect": "Auguste Perret",
+"year": 1923,
+"country": "France",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 9,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q296392",
+"name": "Arag-Tower",
+"architect": "Foster and Partners",
+"year": 2001,
+"country": "Germany",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 8,
+"score": 49,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7889201",
+"name": "United States Air Force Academy Cadet Chapel",
+"architect": "Walter Netsch",
+"year": 1962,
+"country": "United States",
+"region": "Americas",
+"type": "chapel",
+"sitelinks": 8,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q877333",
+"name": "Documentation Center Nazi Party Rally Grounds",
+"architect": "Günther Domenig",
+"year": 2001,
+"country": "Germany",
+"region": "Europe",
+"type": "military museum",
+"sitelinks": 7,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q879736",
+"name": "Herz-Jesu-Kirche",
+"architect": "Allmann Sattler Wappner",
+"year": 2000,
+"country": "Germany",
+"region": "Europe",
+"type": "parish church",
+"sitelinks": 7,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1232270",
+"name": "Haus Schulenburg",
+"architect": "Henry van de Velde",
+"year": 1915,
+"country": "Germany",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1623733",
+"name": "Hohenhof",
+"architect": "Henry van de Velde",
+"year": 1908,
+"country": "Germany",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 5,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2675725",
+"name": "Autrique House",
+"architect": "Victor Horta",
+"year": 1905,
+"country": "Belgium",
+"region": "Europe",
+"type": "terrace house",
+"sitelinks": 5,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3533359",
+"name": "Tour de Lille",
+"architect": "Christian de Portzamparc",
+"year": 1995,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q879960",
+"name": "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland",
+"architect": "Gustav Peichl",
+"year": 1992,
+"country": "Germany",
+"region": "Europe",
+"type": "kunsthalle",
+"sitelinks": 5,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q12769519",
+"name": "Sacred Heart of Jesus Church in Partizánske",
+"architect": "Vladimír Karfík",
+"year": 1949,
+"country": "Slovakia",
+"region": "Europe",
+"type": "parish church",
+"sitelinks": 4,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q6436787",
+"name": "Kresge Auditorium",
+"architect": "Eero Saarinen",
+"year": 1956,
+"country": "United States",
+"region": "Americas",
+"type": "auditorium",
+"sitelinks": 4,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q106073023",
+"name": "Negozio di arredamento Gavina",
+"architect": "Carlo Scarpa",
+"year": 1950,
+"country": "Italy",
+"region": "Europe",
+"type": "shop",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15260263",
+"name": "Munkegaard School",
+"architect": "Arne Jacobsen",
+"year": 1957,
+"country": "Denmark",
+"region": "Europe",
+"type": "folkeskole",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17595113",
+"name": "Finca Sansalvador",
+"architect": "Josep Maria Jujol",
+"year": 1909,
+"country": "Spain",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q26950714",
+"name": "Villa Veritti",
+"architect": "Carlo Scarpa",
+"year": 1955,
+"country": "Italy",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q29527503",
+"name": "Bianchi House",
+"architect": "Mario Botta",
+"year": 1973,
+"country": "Switzerland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3625124",
+"name": "Asilo Sant'Elia",
+"architect": "Giuseppe Terragni",
+"year": 1934,
+"country": "Italy",
+"region": "Europe",
+"type": "kindergarten",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3669137",
+"name": "Sacra Famiglia Church",
+"architect": "Paolo Portoghesi",
+"year": 1971,
+"country": "Italy",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4882453",
+"name": "Belgian Building",
+"architect": "Henry van de Velde",
+"year": 1941,
+"country": "United States",
+"region": "Americas",
+"type": "sports venue",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5308340",
+"name": "Dronningegården",
+"architect": "Kay Fisker",
+"year": 1958,
+"country": "Denmark",
+"region": "Europe",
+"type": "housing estate",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5364010",
+"name": "Agora",
+"architect": "Ben van Berkel",
+"year": 2002,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 3,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q10715507",
+"name": "Villa Norrköping",
+"architect": "Sverre Fehn",
+"year": 1964,
+"country": "Sweden",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q111340696",
+"name": "Saint Peter Church",
+"architect": "Mario Botta",
+"year": 1992,
+"country": "Italy",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11568880",
+"name": "Kumanokodo Nakahechi Museum of Art",
+"architect": "SANAA",
+"year": 1997,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11627655",
+"name": "Nishinomiya Shell Museum",
+"architect": "Tadao Ando",
+"year": 1999,
+"country": "Japan",
+"region": "East Asia",
+"type": "zoological museum",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q18170768",
+"name": "Mercado de Mayoristas",
+"architect": "Luis Gutiérrez Soto",
+"year": 1939,
+"country": "Spain",
+"region": "Europe",
+"type": "museum building",
+"sitelinks": 2,
+"score": 49,
+"star": false,
+"why": [
+"archinform",
+"docomomo",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2319597",
+"name": "St. Josef",
+"architect": "Gottfried Böhm",
+"year": 1957,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3361014",
+"name": "Nantes Courthouse",
+"architect": "Jean Nouvel",
+"year": 2000,
+"country": "France",
+"region": "Europe",
+"type": "courthouse",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q6055705",
+"name": "Pavilion of Japan (Expo 2000)",
+"architect": "Shigeru Ban",
+"year": 2000,
+"country": "Germany",
+"region": "Europe",
+"type": "national pavillon",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7896487",
+"name": "Graduate House",
+"architect": "Teeple Architects",
+"year": 2000,
+"country": "Canada",
+"region": "Americas",
+"type": "university dormitory",
+"sitelinks": 2,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7493533",
+"name": "Sheldon Museum of Art",
+"architect": "Philip Johnson",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 5,
+"score": 49,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q335894",
+"name": "Karlsplatz",
+"architect": "Otto Wagner",
+"year": 1978,
+"country": "Austria",
+"region": "Europe",
+"type": "metro station",
+"sitelinks": 22,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q585521",
+"name": "Biltmore Estate",
+"architect": "Richard Morris Hunt",
+"year": 1895,
+"country": "United States",
+"region": "Americas",
+"type": "estate",
+"sitelinks": 22,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2078042",
+"name": "Texas State Capitol",
+"architect": "Elijah E. Myers",
+"year": 1885,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 21,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q768446",
+"name": "Corcoran Gallery of Art",
+"architect": "Ernest Flagg",
+"year": 1869,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 17,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1507284",
+"name": "George Eastman Museum",
+"architect": "J. Foster Warner",
+"year": 1905,
+"country": "United States",
+"region": "Americas",
+"type": "film archive",
+"sitelinks": 16,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q686109",
+"name": "Wahnfried",
+"architect": "Wilhelm Neumann",
+"year": 1976,
+"country": "Germany",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 16,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3815086",
+"name": "Palazzo Piccolomini",
+"architect": "Bernardo Rossellino",
+"year": 1963,
+"country": "Italy",
+"region": "Europe",
+"type": "city palace",
+"sitelinks": 14,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q874557",
+"name": "Wittgenstein House",
+"architect": "Paul Engelmann",
+"year": 1928,
+"country": "Austria",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 13,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1586762",
+"name": "Harry S. Truman Federal Building",
+"architect": "Louis A. Simon",
+"year": 1941,
+"country": "United States",
+"region": "Americas",
+"type": "building of public administration",
+"sitelinks": 12,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q317398",
+"name": "Kunstmuseum Stuttgart",
+"architect": "Hascher Jehle Architektur",
+"year": 2005,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 12,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q532191",
+"name": "Cuvilliés Theatre",
+"architect": "François de Cuvilliés",
+"year": 1958,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 12,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q665622",
+"name": "Museum of Contemporary Art",
+"architect": "Steib + Steib",
+"year": 1980,
+"country": "Switzerland",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 12,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1016909",
+"name": "Burrell Collection",
+"architect": "Brit Andresen",
+"year": 1983,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 11,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q6448885",
+"name": "Kuwait Water Towers",
+"architect": "Sune Lindström",
+"year": 1965,
+"country": "Kuwait",
+"region": "Middle East",
+"type": "building",
+"sitelinks": 11,
+"score": 48,
+"star": false,
+"why": [
+"sosbrutalism",
+"archnet",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q493923",
+"name": "Haus für Mozart",
+"architect": "Clemens Holzmeister",
+"year": 1925,
+"country": "Austria",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 10,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1630957",
+"name": "Marqués de Riscal Hotel",
+"architect": "Frank Gehry",
+"year": 2006,
+"country": "Spain",
+"region": "Europe",
+"type": "hotel",
+"sitelinks": 9,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q318235",
+"name": "State Council Building",
+"architect": "Roland Korn",
+"year": 1964,
+"country": "Germany",
+"region": "Europe",
+"type": "building",
+"sitelinks": 9,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q957722",
+"name": "Villa Bloemenwerf",
+"architect": "Henry van de Velde",
+"year": 1895,
+"country": "Belgium",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 8,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2820746",
+"name": "St. Benedictusberg Abbey",
+"architect": "Hans van der Laan",
+"year": 1956,
+"country": "Netherlands",
+"region": "Europe",
+"type": "abbey",
+"sitelinks": 6,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q4948040",
+"name": "Boston Public Library, McKim Building",
+"architect": "Charles Follen McKim",
+"year": 1887,
+"country": "United States",
+"region": "Americas",
+"type": "library building",
+"sitelinks": 6,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11643178",
+"name": "Kōriyama City Museum of Art",
+"architect": "Takahiko Yanagisawa",
+"year": 1992,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 5,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q3145517",
+"name": "Hôtel Guimard",
+"architect": "Hector Guimard",
+"year": 1912,
+"country": "France",
+"region": "Europe",
+"type": "private mansion",
+"sitelinks": 5,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q614321",
+"name": "Anzeiger-Hochhaus",
+"architect": "Johann Friedrich Höger",
+"year": 1928,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 5,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q63769545",
+"name": "Dutch pavilion",
+"architect": "Gerrit Rietveld",
+"year": 1953,
+"country": "Italy",
+"region": "Europe",
+"type": "National pavilions at the Venice Biennale",
+"sitelinks": 5,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q873309",
+"name": "Sanatorium Purkersdorf",
+"architect": "Josef Hoffmann",
+"year": 1904,
+"country": "Austria",
+"region": "Europe",
+"type": "hospital",
+"sitelinks": 5,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1678308",
+"name": "Country Residence Museum Jachthuis Sint Hubertus",
+"architect": "Hendrik Petrus Berlage",
+"year": 1914,
+"country": "Netherlands",
+"region": "Europe",
+"type": "wilderness hut",
+"sitelinks": 4,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q38174849",
+"name": "Steinhaus Domenig",
+"architect": "Günther Domenig",
+"year": 2008,
+"country": "Austria",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 4,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q6716291",
+"name": "MIT Chapel",
+"architect": "Eero Saarinen",
+"year": 1955,
+"country": "United States",
+"region": "Americas",
+"type": "chapel",
+"sitelinks": 4,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17065002",
+"name": "New Harmony's Atheneum",
+"architect": "Richard Meier",
+"year": 1979,
+"country": "United States",
+"region": "Americas",
+"type": "building",
+"sitelinks": 3,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1735459",
+"name": "Kultur- und Kongresszentrum Liederhalle",
+"architect": "Rolf Gutbrod",
+"year": 1956,
+"country": "Germany",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 3,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q2016645",
+"name": "Effenaar",
+"architect": "MVRDV",
+"year": 2000,
+"country": "Netherlands",
+"region": "Europe",
+"type": "popular music venue",
+"sitelinks": 3,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2323346",
+"name": "Sankt Theresia",
+"architect": "Rudolf Schwarz",
+"year": 1962,
+"country": "Austria",
+"region": "Europe",
+"type": "parish church",
+"sitelinks": 3,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q6558626",
+"name": "Lisbon Harbor Control Tower",
+"architect": "Gonçalo Byrne",
+"year": 2001,
+"country": "Portugal",
+"region": "Europe",
+"type": "inclined tower",
+"sitelinks": 3,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7539731",
+"name": "Sleep Train Pavilion",
+"architect": "Frank Gehry",
+"year": 1975,
+"country": "United States",
+"region": "Americas",
+"type": "performing arts center",
+"sitelinks": 3,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7903509",
+"name": "Utzon's House in Hellebæk",
+"architect": "Jørn Utzon",
+"year": 1952,
+"country": "Denmark",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11314499",
+"name": "Ceramics Park Mino",
+"architect": "Arata Isozaki",
+"year": 2002,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q127608708",
+"name": "Rosenthal Center for Contemporary Art",
+"architect": "Zaha Hadid",
+"year": 2003,
+"country": "United States",
+"region": "Americas",
+"type": "museum building",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1314000",
+"name": "Vodafone-Hochhaus",
+"architect": "Paul Schneider-Esleben",
+"year": 1958,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1363869",
+"name": "Diözesanmuseum Paderborn",
+"architect": "Gottfried Böhm",
+"year": 1975,
+"country": "Germany",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1406145",
+"name": "Quartier 207",
+"architect": "Jean Nouvel",
+"year": 1996,
+"country": "Germany",
+"region": "Europe",
+"type": "building",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2945812",
+"name": "Centre International de Congrès de Tours",
+"architect": "Jean Nouvel",
+"year": 1993,
+"country": "France",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q29461859",
+"name": "Gosstrakh House on Malaya Bronnaya",
+"architect": "Moisei Ginzburg",
+"year": 1927,
+"country": "Russia",
+"region": "Europe",
+"type": "housing estate",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4750883",
+"name": "Anaheim Ice",
+"architect": "Frank Gehry",
+"year": 1995,
+"country": "United States",
+"region": "Americas",
+"type": "sports venue",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q67521781",
+"name": "Tripolis",
+"architect": "Aldo van Eyck",
+"year": 1990,
+"country": "Netherlands",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6800589",
+"name": "McCormick Tribune Campus Center",
+"architect": "Rem Koolhaas",
+"year": 2003,
+"country": "United States",
+"region": "Americas",
+"type": "fixed construction",
+"sitelinks": 2,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q15057316",
+"name": "MUSE",
+"architect": "Renzo Piano",
+"year": 2013,
+"country": "Italy",
+"region": "Europe",
+"type": "natural history museum",
+"sitelinks": 5,
+"score": 48,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q243921",
+"name": "555 California Street",
+"architect": "Pietro Belluschi",
+"year": 1969,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q963111",
+"name": "UniCredit Tower",
+"architect": "César Pelli",
+"year": 2011,
+"country": "Italy",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 47,
+"star": false,
+"why": [
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2334312",
+"name": "Municipal House",
+"architect": "Antonín Balšánek",
+"year": 1912,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 21,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1510431",
+"name": "New York State Capitol",
+"architect": "Thomas Fuller",
+"year": 1899,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 20,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1886083",
+"name": "State Opera Prague",
+"architect": "Fellner & Helmer",
+"year": 1888,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 20,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q264691",
+"name": "Hellabrunn Zoo",
+"architect": "Emanuel von Seidl",
+"year": 1911,
+"country": "Germany",
+"region": "Europe",
+"type": "geozoo",
+"sitelinks": 20,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2744984",
+"name": "Eduskuntatalo",
+"architect": "J. S. Sirén",
+"year": 1931,
+"country": "Finland",
+"region": "Europe",
+"type": "capitol building",
+"sitelinks": 19,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q699724",
+"name": "Funkturm Berlin",
+"architect": "Heinrich Straumer",
+"year": 1925,
+"country": "Germany",
+"region": "Europe",
+"type": "communication tower",
+"sitelinks": 19,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2143136",
+"name": "Tribune Tower",
+"architect": "Raymond Hood",
+"year": 1925,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 18,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2065223",
+"name": "Port Grimaud",
+"architect": "François Spoerry",
+"year": 1966,
+"country": "France",
+"region": "Europe",
+"type": "seaside resort",
+"sitelinks": 13,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q458599",
+"name": "Building of Latvian Academy of Sciences",
+"architect": "Vaidelotis Apsītis",
+"year": 1951,
+"country": "Latvia",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 13,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q516072",
+"name": "Westfalenhallen",
+"architect": "Walter Höltje",
+"year": 1952,
+"country": "Germany",
+"region": "Europe",
+"type": "fair ground",
+"sitelinks": 13,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q624008",
+"name": "National Building Museum",
+"architect": "Montgomery C. Meigs",
+"year": 1887,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 13,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q809600",
+"name": "Fogg Museum",
+"architect": "Richard Morris Hunt",
+"year": 1896,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 13,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q20445008",
+"name": "Two World Trade Center",
+"architect": "Minoru Yamasaki",
+"year": 1971,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 12,
+"score": 47,
+"star": true,
+"why": [
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2634180",
+"name": "L'Àgora",
+"architect": "Santiago Calatrava",
+"year": 2009,
+"country": "Spain",
+"region": "Europe",
+"type": "multi-purpose hall",
+"sitelinks": 11,
+"score": 47,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2974817",
+"name": "Paris Tribunal",
+"architect": "Renzo Piano",
+"year": 2018,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3995141",
+"name": "Breda Tower",
+"architect": "Luigi Mattioni",
+"year": 1954,
+"country": "Italy",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q5402606",
+"name": "Botin Centre",
+"architect": "Renzo Piano",
+"year": 2017,
+"country": "Spain",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 11,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q884122",
+"name": "Langer Eugen",
+"architect": "Egon Eiermann",
+"year": 1969,
+"country": "Germany",
+"region": "Europe",
+"type": "office building",
+"sitelinks": 11,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1068615",
+"name": "The University of the Arts",
+"architect": "John Haviland",
+"year": 1987,
+"country": "United States",
+"region": "Americas",
+"type": "university",
+"sitelinks": 10,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1634948",
+"name": "The Town Hall",
+"architect": "McKim, Mead & White",
+"year": 1921,
+"country": "United States",
+"region": "Americas",
+"type": "performing arts center",
+"sitelinks": 10,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1322398",
+"name": "PPG Place",
+"architect": "Philip Johnson",
+"year": 1984,
+"country": "United States",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 9,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1620783",
+"name": "Museum of the Great War",
+"architect": "Henri Ciriani",
+"year": 1992,
+"country": "France",
+"region": "Europe",
+"type": "cultural history museum",
+"sitelinks": 9,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1804142",
+"name": "Cottbus State Theatre",
+"architect": "Bernhard Sehring",
+"year": 1908,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q214022",
+"name": "Belvedere 21",
+"architect": "Karl Schwanzer",
+"year": 2011,
+"country": "Austria",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2154167",
+"name": "Symphony Center",
+"architect": "Daniel Burnham",
+"year": 1904,
+"country": "United States",
+"region": "Americas",
+"type": "concert hall",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q24084031",
+"name": "New York Stock Exchange Building",
+"architect": "Trowbridge & Livingston",
+"year": 1903,
+"country": "United States",
+"region": "Americas",
+"type": "exchange building",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q357019",
+"name": "Sather Tower",
+"architect": "John Galen Howard",
+"year": 1917,
+"country": "United States",
+"region": "Americas",
+"type": "tower",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q4696448",
+"name": "Ahwahnee Hotel",
+"architect": "Gilbert Stanley Underwood",
+"year": 1927,
+"country": "United States",
+"region": "Americas",
+"type": "lodge",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q670209",
+"name": "New Synagogue (Dresden)",
+"architect": "Wandel Lorch Götze Wach",
+"year": 1997,
+"country": "Germany",
+"region": "Europe",
+"type": "synagogue",
+"sitelinks": 8,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2819057",
+"name": "ACROS Fukuoka",
+"architect": "Nihon Sekkei",
+"year": 1995,
+"country": "Japan",
+"region": "East Asia",
+"type": "music venue",
+"sitelinks": 5,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q47166175",
+"name": "Edifici Illa Diagonal",
+"architect": "Manuel de Solà-Morales",
+"year": 1993,
+"country": "Spain",
+"region": "Europe",
+"type": "office building",
+"sitelinks": 5,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q11872908",
+"name": "Kouvola City Hall",
+"architect": "Juha Leiviskä",
+"year": 1968,
+"country": "Finland",
+"region": "Europe",
+"type": "city hall",
+"sitelinks": 4,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2558678",
+"name": "Weltstadthaus",
+"architect": "Renzo Piano",
+"year": 2005,
+"country": "Germany",
+"region": "Europe",
+"type": "department store",
+"sitelinks": 4,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q3874260",
+"name": "Olivetti Exhibition centre in Venice, Italy",
+"architect": "Carlo Scarpa",
+"year": 1958,
+"country": "Italy",
+"region": "Europe",
+"type": "showroom",
+"sitelinks": 4,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3944597",
+"name": "Tempio della Vittoria",
+"architect": "Alberto Alpago-Novello",
+"year": 1928,
+"country": "Italy",
+"region": "Europe",
+"type": "war cemetery",
+"sitelinks": 4,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4989606",
+"name": "Café De Unie",
+"architect": "J. J. P. Oud",
+"year": 1980,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 4,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1631389",
+"name": "House for an Art Lover",
+"architect": "Charles Rennie Mackintosh",
+"year": 1996,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2319174",
+"name": "St. Johann von Capistran",
+"architect": "Sep Ruf",
+"year": 1960,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q3744627",
+"name": "Fieramilano",
+"architect": "Massimiliano Fuksas",
+"year": 2005,
+"country": "Italy",
+"region": "Europe",
+"type": "fair ground",
+"sitelinks": 3,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3891308",
+"name": "Palazzo del Lavoro",
+"architect": "Gio Ponti",
+"year": 1961,
+"country": "Italy",
+"region": "Europe",
+"type": "palace",
+"sitelinks": 3,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q105004832",
+"name": "Hohenzollerndamm 35, Mansfelder Straße (Berlin)",
+"architect": "Hans Scharoun",
+"year": 1929,
+"country": "Germany",
+"region": "Europe",
+"type": "multifamily residential",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q109451445",
+"name": "La Nouvelle Maison",
+"architect": "Henry van de Velde",
+"year": 1927,
+"country": "Belgium",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11471937",
+"name": "Okanoyama Museum of Art Nishiwaki",
+"architect": "Arata Isozaki",
+"year": 1984,
+"country": "Japan",
+"region": "East Asia",
+"type": "contemporary art museum",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11952259",
+"name": "Torre Serra-Xaus",
+"architect": "Josep Maria Jujol",
+"year": 1921,
+"country": "Spain",
+"region": "Europe",
+"type": "house",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1287806",
+"name": "Eduard-Müller-Krematorium",
+"architect": "Peter Behrens",
+"year": 1907,
+"country": "Germany",
+"region": "Europe",
+"type": "crematorium",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q14683622",
+"name": "Pavilion for Japanese Art",
+"architect": "Bruce Goff",
+"year": 1988,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q14906800",
+"name": "Heinemanhof",
+"architect": "Henry van de Velde",
+"year": 1930,
+"country": "Germany",
+"region": "Europe",
+"type": "retirement home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15132490",
+"name": "Visser residence",
+"architect": "Gerrit Rietveld",
+"year": 1956,
+"country": "Netherlands",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15646865",
+"name": "Geschwister-Scholl-Gesamtschule Lünen",
+"architect": "Hans Scharoun",
+"year": 1958,
+"country": "Germany",
+"region": "Europe",
+"type": "school building",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15810015",
+"name": "Forum Castrop-Rauxel",
+"architect": "Arne Jacobsen",
+"year": 1966,
+"country": "Germany",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15962410",
+"name": "De Zonnehof",
+"architect": "Gerrit Rietveld",
+"year": 1958,
+"country": "Netherlands",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17455644",
+"name": "Garage with Chauffeur’s Apartment",
+"architect": "Gerrit Rietveld",
+"year": 1927,
+"country": "Netherlands",
+"region": "Europe",
+"type": "garage",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17521425",
+"name": "Directional beam antenna tower Ulmizberg",
+"architect": "Jean Prouvé",
+"year": 1974,
+"country": "Switzerland",
+"region": "Europe",
+"type": "communication tower",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17550164",
+"name": "Hallfield Primary School",
+"architect": "Denys Lasdun",
+"year": 1954,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "primary school",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17624866",
+"name": "San Francesco d’Assisi al Fopponino church",
+"architect": "Gio Ponti",
+"year": 1961,
+"country": "Italy",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q18223054",
+"name": "Sant'Enrico church",
+"architect": "Ignazio Gardella",
+"year": 1965,
+"country": "Italy",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q18813380",
+"name": "Huis Van den Doel",
+"architect": "Gerrit Rietveld",
+"year": 1959,
+"country": "Netherlands",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2290886",
+"name": "Bio Vakantieoord",
+"architect": "J. J. P. Oud",
+"year": 1964,
+"country": "Netherlands",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2377315",
+"name": "Tram tunnel",
+"architect": "Rem Koolhaas",
+"year": 2004,
+"country": "Netherlands",
+"region": "Europe",
+"type": "tramway tunnel",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2570696",
+"name": "Vakantiehuis De Vonk",
+"architect": "J. J. P. Oud",
+"year": 1918,
+"country": "Netherlands",
+"region": "Europe",
+"type": "vacation home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q27675874",
+"name": "Central Lechera Clesa",
+"architect": "Alejandro de la Sota Martínez",
+"year": 1961,
+"country": "Spain",
+"region": "Europe",
+"type": "factory",
+"sitelinks": 2,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"docomomo"
+],
+"next_batch": true
+},
+{
+"qid": "Q2834928",
+"name": "Iglesia de Stella Maris",
+"architect": "José María García de Paredes",
+"year": 1961,
+"country": "Spain",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"docomomo"
+],
+"next_batch": true
+},
+{
+"qid": "Q42303960",
+"name": "Academiesingel lighthouse",
+"architect": "Aldo Rossi",
+"year": 1992,
+"country": "Netherlands",
+"region": "Europe",
+"type": "folly",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q47166190",
+"name": "Casa Genara López",
+"architect": "Josep Lluís Sert",
+"year": 1929,
+"country": "Spain",
+"region": "Europe",
+"type": "residential building",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q47170467",
+"name": "Casa Queralt",
+"architect": "Josep Maria Jujol",
+"year": 1917,
+"country": "Spain",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q47171113",
+"name": "Joieria J. Roca",
+"architect": "Josep Lluís Sert",
+"year": 1933,
+"country": "Spain",
+"region": "Europe",
+"type": "shop",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5163575",
+"name": "Constance Perkins House",
+"architect": "Richard Neutra",
+"year": 1955,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6159852",
+"name": "Jardinette Apartments",
+"architect": "Richard Neutra",
+"year": 1928,
+"country": "United States",
+"region": "Americas",
+"type": "multifamily residential",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q61968061",
+"name": "Plantage Middenlaan 33, Amsterdam",
+"architect": "Aldo van Eyck",
+"year": 1973,
+"country": "Netherlands",
+"region": "Europe",
+"type": "building",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q65056745",
+"name": "John and Alice Fullam House",
+"architect": "Paul Rudolph",
+"year": 1959,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q105751960",
+"name": "Atlanta Fulton County Central Library",
+"architect": "Marcel Breuer",
+"year": 1980,
+"country": "United States",
+"region": "Americas",
+"type": "library building",
+"sitelinks": 0,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q700751",
+"name": "Heeresgeschichtliches Museum",
+"architect": "Theophil Hansen",
+"year": 1869,
+"country": "Austria",
+"region": "Europe",
+"type": "military museum",
+"sitelinks": 29,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q702121",
+"name": "Austrian Parliament Building",
+"architect": "Theophil Hansen",
+"year": 1883,
+"country": "Austria",
+"region": "Europe",
+"type": "parliament building",
+"sitelinks": 23,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q745866",
+"name": "Dallas Museum of Art",
+"architect": "Edward Larrabee Barnes",
+"year": 1903,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 21,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q731437",
+"name": "Shrine Auditorium and Expo Hall",
+"architect": "G. Albert Lansburgh",
+"year": 1925,
+"country": "United States",
+"region": "Americas",
+"type": "function hall",
+"sitelinks": 19,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2615945",
+"name": "Thomas Jefferson Building",
+"architect": "John L. Smithmeyer",
+"year": 1897,
+"country": "United States",
+"region": "Americas",
+"type": "library building",
+"sitelinks": 17,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2915393",
+"name": "Pennsylvania State Capitol",
+"architect": "Joseph Miller Huston",
+"year": 1906,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 17,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q705054",
+"name": "Douaumont ossuary",
+"architect": "Léon Azéma",
+"year": 1920,
+"country": "France",
+"region": "Europe",
+"type": "ossuary",
+"sitelinks": 17,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2705493",
+"name": "Triennale di Milano",
+"architect": "Gualtiero Galmanini",
+"year": 1923,
+"country": "Italy",
+"region": "Europe",
+"type": "cultural institution",
+"sitelinks": 16,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q698233",
+"name": "Theater des Westens",
+"architect": "Bernhard Sehring",
+"year": 1895,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 15,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q797017",
+"name": "Cathedral of Learning",
+"architect": "Charles Klauder",
+"year": 1926,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2319313",
+"name": "2Cal",
+"architect": "Arthur Erickson",
+"year": 1992,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2424258",
+"name": "Gas Company Tower",
+"architect": "Q459464",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q573672",
+"name": "Märkisches Museum",
+"architect": "Ludwig Hoffmann",
+"year": 1901,
+"country": "Germany",
+"region": "Europe",
+"type": "history museum",
+"sitelinks": 14,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1464592",
+"name": "Wrigley Building",
+"architect": "Graham, Anderson, Probst & White",
+"year": 1924,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2326886",
+"name": "Bodegas Güell",
+"architect": "Antoni Gaudí",
+"year": 1901,
+"country": "Spain",
+"region": "Europe",
+"type": "building",
+"sitelinks": 12,
+"score": 46,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q176342",
+"name": "Festspielhaus Baden-Baden",
+"architect": "Wilhelm Holzbauer",
+"year": 1998,
+"country": "Germany",
+"region": "Europe",
+"type": "festival theatre",
+"sitelinks": 11,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q960115",
+"name": "CaixaForum Barcelona",
+"architect": "Josep Puig i Cadafalch",
+"year": 2002,
+"country": "Spain",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 11,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q962291",
+"name": "Geisel Library",
+"architect": "William Pereira",
+"year": 1970,
+"country": "United States",
+"region": "Americas",
+"type": "library",
+"sitelinks": 11,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1631887",
+"name": "Wells Fargo Center",
+"architect": "Philip Johnson",
+"year": 1983,
+"country": "United States",
+"region": "Americas",
+"type": "bank building",
+"sitelinks": 10,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q184985",
+"name": "Zeiss Major Planetarium",
+"architect": "Gertrud Schille",
+"year": 1987,
+"country": "Germany",
+"region": "Europe",
+"type": "planetarium",
+"sitelinks": 10,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2937482",
+"name": "Capitol Records Building",
+"architect": "Welton Becket",
+"year": 1956,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 10,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3303658",
+"name": "330 West 42nd Street",
+"architect": "Raymond Hood",
+"year": 1931,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 10,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3487098",
+"name": "U.S. Bank Center",
+"architect": "Bruce Graham",
+"year": 1973,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 10,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1779433",
+"name": "Kollhoff Tower",
+"architect": "Hans Kollhoff",
+"year": 1999,
+"country": "Germany",
+"region": "Europe",
+"type": "tower",
+"sitelinks": 9,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2048203",
+"name": "Palmenhaus",
+"architect": "Friedrich Ohmann",
+"year": 1901,
+"country": "Austria",
+"region": "Europe",
+"type": "greenhouse",
+"sitelinks": 9,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q4212987",
+"name": "Capitol of Puerto Rico",
+"architect": "Rafael Carmoega",
+"year": 1929,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 9,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q5360357",
+"name": "Eli and Edythe Broad Art Museum",
+"architect": "Zaha Hadid Architects",
+"year": 2012,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 9,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5717411",
+"name": "Henry Art Gallery",
+"architect": "Bebb and Gould",
+"year": 1927,
+"country": "United States",
+"region": "Americas",
+"type": "university art museum",
+"sitelinks": 9,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q650308",
+"name": "Castel Béranger",
+"architect": "Hector Guimard",
+"year": 1890,
+"country": "France",
+"region": "Europe",
+"type": "revenue house",
+"sitelinks": 9,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11261312",
+"name": "Osaka Museum of History",
+"architect": "Nihon Sekkei",
+"year": 2001,
+"country": "Japan",
+"region": "East Asia",
+"type": "history museum",
+"sitelinks": 8,
+"score": 46,
+"star": false,
+"why": [
+"architect with a body of work in archINFORM",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q2466300",
+"name": "James Farley Post Office",
+"architect": "McKim, Mead & White",
+"year": 1914,
+"country": "United States",
+"region": "Americas",
+"type": "post office",
+"sitelinks": 8,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2945260",
+"name": "Centre de Cultura Contemporània de Barcelona",
+"architect": "Albert Viaplana",
+"year": 1994,
+"country": "Spain",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 8,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q4758815",
+"name": "Andrew W. Mellon Auditorium",
+"architect": "Arthur Brown, Jr.",
+"year": 1934,
+"country": "United States",
+"region": "Americas",
+"type": "public building",
+"sitelinks": 8,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q876487",
+"name": "Liebermann Villa",
+"architect": "Paul Baumgarten",
+"year": 1909,
+"country": "Germany",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 8,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1140040",
+"name": "Little Rock Central High School",
+"architect": "John Parks Almand",
+"year": 1905,
+"country": "United States",
+"region": "Americas",
+"type": "school building",
+"sitelinks": 7,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q3784918",
+"name": "Henry Clay Frick House",
+"architect": "Carrère and Hastings",
+"year": 1914,
+"country": "United States",
+"region": "Americas",
+"type": "mansion",
+"sitelinks": 7,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q722744",
+"name": "Cathedral of Christ the Light",
+"architect": "Craig W. Hartman",
+"year": 2008,
+"country": "United States",
+"region": "Americas",
+"type": "Catholic cathedral",
+"sitelinks": 7,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1791798",
+"name": "Kulturpalast Dresden",
+"architect": "Leopold Wiel",
+"year": 1960,
+"country": "Germany",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 6,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q7099120",
+"name": "Opus Hong Kong",
+"architect": "Frank Gehry",
+"year": 2012,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 6,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q863639",
+"name": "Shinjuku NS Building",
+"architect": "Shōji Hayashi",
+"year": 1982,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 6,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1428812",
+"name": "Hochhaus an der Weberwiese",
+"architect": "Hermann Henselmann",
+"year": 1952,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 5,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2401524",
+"name": "Telefunken-Hochhaus",
+"architect": "Paul Schwebes",
+"year": 1960,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 5,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q9374731",
+"name": "Villa Stiassni",
+"architect": "Ernst Wiesner",
+"year": 1920,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 4,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q11704268",
+"name": "Teatre Metropol",
+"architect": "Josep Maria Jujol",
+"year": 1910,
+"country": "Spain",
+"region": "Europe",
+"type": "building",
+"sitelinks": 3,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2813508",
+"name": "1 Cabot Square",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1991,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 3,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q3280045",
+"name": "Maison du Peuple",
+"architect": "Eugène Beaudouin",
+"year": 1935,
+"country": "France",
+"region": "Europe",
+"type": "house",
+"sitelinks": 3,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3803629",
+"name": "Istituto Marchiondi Spagliardi",
+"architect": "Vittoriano Viganò",
+"year": 1957,
+"country": "Italy",
+"region": "Europe",
+"type": "school building",
+"sitelinks": 3,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q414078",
+"name": "Academy of Arts (Hanseatenweg)",
+"architect": "Werner Düttmann",
+"year": 1954,
+"country": "Germany",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 3,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q4643664",
+"name": "78 Derngate - The Charles Rennie Mackintosh House",
+"architect": "Charles Rennie Mackintosh",
+"year": 1917,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "historic house museum",
+"sitelinks": 3,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11392907",
+"name": "Hyōgo Children's Center",
+"architect": "Tadao Ando",
+"year": 1989,
+"country": "Japan",
+"region": "East Asia",
+"type": "child center",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11628410",
+"name": "West Japan General Exhibition Center",
+"architect": "Arata Isozaki",
+"year": 1977,
+"country": "Japan",
+"region": "East Asia",
+"type": "convention center",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q118367575",
+"name": "Bethanien Kinderdorf Bergisch Gladbach",
+"architect": "Gottfried Böhm",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "Kinderdorf",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11871262",
+"name": "Kiasma building",
+"architect": "Steven Holl",
+"year": 1998,
+"country": "Finland",
+"region": "Europe",
+"type": "museum building",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q15840687",
+"name": "Poelzig House",
+"architect": "Hans Poelzig",
+"year": 1931,
+"country": "Germany",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1688944",
+"name": "Villa Obenauer",
+"architect": "Peter Behrens",
+"year": 1905,
+"country": "Germany",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q19884255",
+"name": "Lucent Danstheater",
+"architect": "Rem Koolhaas",
+"year": 1984,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2406587",
+"name": "Weesperflat",
+"architect": "Herman Hertzberger",
+"year": 1959,
+"country": "Netherlands",
+"region": "Europe",
+"type": "student housing",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2792743",
+"name": "Chassé Theater",
+"architect": "Herman Hertzberger",
+"year": 1992,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3580651",
+"name": "Église Notre-Dame de Royan",
+"architect": "Guillaume Gillet",
+"year": 1955,
+"country": "France",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q39494701",
+"name": "Pavilion of the Netherlands (Expo 2000)",
+"architect": "MVRDV",
+"year": 2000,
+"country": "Germany",
+"region": "Europe",
+"type": "national pavillon",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5141321",
+"name": "Cohen House",
+"architect": "Erich Mendelsohn",
+"year": 1936,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q62587821",
+"name": "St. Joseph",
+"architect": "Dominikus Böhm",
+"year": 1955,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q125511374",
+"name": "School building Georgigasse",
+"architect": "Günther Domenig",
+"year": 1968,
+"country": "Austria",
+"region": "Europe",
+"type": "school building",
+"sitelinks": 1,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q16029418",
+"name": "St. Klemenz catholic church and rectory",
+"architect": "Walter Förderer",
+"year": 1969,
+"country": "Switzerland",
+"region": "Europe",
+"type": "Catholic church building",
+"sitelinks": 1,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q814873",
+"name": "Beisheim Center",
+"architect": "Hilmer & Sattler und Albrecht",
+"year": 2004,
+"country": "Germany",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 5,
+"score": 46,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q56295859",
+"name": "Beirut Terraces",
+"architect": "Herzog & de Meuron",
+"year": 2017,
+"country": "Lebanon",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 4,
+"score": 46,
+"star": true,
+"why": [
+"archnet",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7875112",
+"name": "Estádio da Luz",
+"architect": "Populous",
+"year": 2003,
+"country": "Portugal",
+"region": "Europe",
+"type": "stadium",
+"sitelinks": 49,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1138832",
+"name": "Aarhus Theatre",
+"architect": "Hack Kampmann",
+"year": 1900,
+"country": "Denmark",
+"region": "Europe",
+"type": "theatre company",
+"sitelinks": 16,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q573618",
+"name": "New Town Hall",
+"architect": "Hermann Eggert",
+"year": 1913,
+"country": "Germany",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 15,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1888459",
+"name": "Helsinki Music Centre",
+"architect": "LPR-arkkitehdit",
+"year": 2011,
+"country": "Finland",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 12,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2518066",
+"name": "Casa Fuster",
+"architect": "Lluís Domènech i Montaner",
+"year": 1908,
+"country": "Spain",
+"region": "Europe",
+"type": "residential building",
+"sitelinks": 10,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q630304",
+"name": "Lasipalatsi",
+"architect": "Viljo Revell",
+"year": 1935,
+"country": "Finland",
+"region": "Europe",
+"type": "commercial building",
+"sitelinks": 9,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q64809079",
+"name": "Royal Theatre of Rabat",
+"architect": "Zaha Hadid",
+"year": 2010,
+"country": "Morocco",
+"region": "Africa",
+"type": "theatre building",
+"sitelinks": 9,
+"score": 45,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1666920",
+"name": "Musiktheater im Revier",
+"architect": "Werner Ruhnau",
+"year": 1959,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 8,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1778398",
+"name": "Shukhov tower on the Oka River",
+"architect": "Vladimir Shukhov",
+"year": 1929,
+"country": "Russia",
+"region": "Europe",
+"type": "transmission tower",
+"sitelinks": 8,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q314898",
+"name": "Roman Baths",
+"architect": "Karl Friedrich Schinkel",
+"year": 1900,
+"country": "Germany",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 8,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q318983",
+"name": "Paula Modersohn-Becker Museum",
+"architect": "Bernhard Hoetger",
+"year": 1927,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 8,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q896364",
+"name": "Hypo-Haus",
+"architect": "Betz Architekten",
+"year": 1981,
+"country": "Germany",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 8,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1006702",
+"name": "ADGB Trade Union School",
+"architect": "Hannes Meyer",
+"year": 1930,
+"country": "Germany",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 7,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q195220",
+"name": "Großmarkthalle",
+"architect": "Martin Elsaesser",
+"year": 1928,
+"country": "Germany",
+"region": "Europe",
+"type": "Q56062468",
+"sitelinks": 7,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1751669",
+"name": "Église Notre-Dame-de-l'Arche-d'Alliance",
+"architect": "Architecture-Studio",
+"year": 1998,
+"country": "France",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 6,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2443922",
+"name": "KPN Tower",
+"architect": "Renzo Piano",
+"year": 2000,
+"country": "Netherlands",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 5,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q895566",
+"name": "Kongresshalle",
+"architect": "Hugh Stubbins",
+"year": 1957,
+"country": "Germany",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 5,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3337995",
+"name": "Le Nemausus",
+"architect": "Jean Nouvel",
+"year": 1986,
+"country": "France",
+"region": "Europe",
+"type": "apartment building",
+"sitelinks": 4,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q11169419",
+"name": "Rudersdal Town Hall",
+"architect": "Arne Jacobsen",
+"year": 1942,
+"country": "Denmark",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1156269",
+"name": "DZ Bank building",
+"architect": "Frank Gehry",
+"year": 2001,
+"country": "Germany",
+"region": "Europe",
+"type": "office building",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q16830593",
+"name": "Behrensbau",
+"architect": "Peter Behrens",
+"year": 1917,
+"country": "Germany",
+"region": "Europe",
+"type": "factory",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q18767361",
+"name": "Kiefhoek",
+"architect": "J. J. P. Oud",
+"year": 1930,
+"country": "Netherlands",
+"region": "Europe",
+"type": "neighborhood",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2917986",
+"name": "La Equitativa, Bilbao",
+"architect": "Manuel Ignacio Galíndez Zabala",
+"year": 1934,
+"country": "Spain",
+"region": "Europe",
+"type": "house",
+"sitelinks": 3,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"docomomo"
+],
+"next_batch": true
+},
+{
+"qid": "Q3558611",
+"name": "Villa Karma",
+"architect": "Adolf Loos",
+"year": 1912,
+"country": "Switzerland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3639566",
+"name": "Biblioteca comunale centrale Antonio Tiraboschi",
+"architect": "Mario Botta",
+"year": 1975,
+"country": "Italy",
+"region": "Europe",
+"type": "public library",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4133524",
+"name": "Gosplan garage",
+"architect": "Konstantin Melnikov",
+"year": 1936,
+"country": "Russia",
+"region": "Europe",
+"type": "garage",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q47468262",
+"name": "Diagoon Housing",
+"architect": "Herman Hertzberger",
+"year": 1967,
+"country": "Netherlands",
+"region": "Europe",
+"type": "housing estate",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7377885",
+"name": "Rufer House",
+"architect": "Adolf Loos",
+"year": 1922,
+"country": "Austria",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 3,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q929868",
+"name": "Friedrich-Ebert-Halle",
+"architect": "Roland Rainer",
+"year": 1965,
+"country": "Germany",
+"region": "Europe",
+"type": "multi-purpose hall",
+"sitelinks": 3,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q111494533",
+"name": "Kerzengeschäft Retti",
+"architect": "Hans Hollein",
+"year": 1965,
+"country": "Austria",
+"region": "Europe",
+"type": "supermarket",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11504305",
+"name": "Old Kyoto Central Telephone Office",
+"architect": "Kengo Kuma",
+"year": 2020,
+"country": "Japan",
+"region": "East Asia",
+"type": "commercial complex",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q11722063",
+"name": "Ascension church",
+"architect": "Otto Bartning",
+"year": 1956,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q12009823",
+"name": "Villa Skagestad",
+"architect": "Sverre Fehn",
+"year": 1964,
+"country": "Norway",
+"region": "Europe",
+"type": "building",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q130314317",
+"name": "Leonardo Del Vecchio Building",
+"architect": "Ignazio Gardella",
+"year": 2001,
+"country": "Italy",
+"region": "Europe",
+"type": "university building",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q14551330",
+"name": "Martinskirche",
+"architect": "Olaf Andreas Gulbransson",
+"year": 1961,
+"country": "Germany",
+"region": "Europe",
+"type": "parish church",
+"sitelinks": 2,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2369608",
+"name": "Calatrava bridges in Haarlemmermeer",
+"architect": "Santiago Calatrava",
+"year": 1999,
+"country": "Netherlands",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2485688",
+"name": "Stadsschouwburg Utrecht",
+"architect": "Willem Marinus Dudok",
+"year": 1902,
+"country": "Netherlands",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q28500836",
+"name": "Saint Gallus Catholic Church",
+"architect": "Walter Förderer",
+"year": 1970,
+"country": "Switzerland",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q57598566",
+"name": "Parkrandgebouw",
+"architect": "Jacob van Rijs",
+"year": 2002,
+"country": "Netherlands",
+"region": "Europe",
+"type": "multifamily residential",
+"sitelinks": 2,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q5769637",
+"name": "Cinema Europa",
+"architect": "Luis Gutiérrez Soto",
+"year": 1928,
+"country": "Spain",
+"region": "Europe",
+"type": "movie theater",
+"sitelinks": 2,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"docomomo",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q113714891",
+"name": "Hans Otto Theater",
+"architect": "Gottfried Böhm",
+"year": 2006,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 1,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4758008",
+"name": "Andrew Melville Hall",
+"architect": "James Stirling",
+"year": 1967,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "dormitory",
+"sitelinks": 1,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q62587753",
+"name": "St. Anna",
+"architect": "Gottfried Böhm",
+"year": 1957,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 1,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q98929280",
+"name": "Clore Gallery",
+"architect": "James Stirling",
+"year": 1987,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 1,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3533198",
+"name": "Tour Telus",
+"architect": "Q459464",
+"year": 1962,
+"country": "Canada",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 5,
+"score": 45,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q748106",
+"name": "Glasgow School of Art",
+"architect": "Charles Rennie Mackintosh",
+"year": 1845,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art academy",
+"sitelinks": 29,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q694747",
+"name": "Vienna Volksoper",
+"architect": "Alexander Graf",
+"year": 1898,
+"country": "Austria",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 27,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1088467",
+"name": "Museum of Applied Arts",
+"architect": "Ödön Lechner",
+"year": 1896,
+"country": "Hungary",
+"region": "Europe",
+"type": "museum of decorative arts",
+"sitelinks": 25,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q850537",
+"name": "Palace of Justice of Brussels",
+"architect": "Joseph Poelaert",
+"year": 1883,
+"country": "Belgium",
+"region": "Europe",
+"type": "courthouse",
+"sitelinks": 25,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1735111",
+"name": "The Landmark",
+"architect": "César Pelli",
+"year": 2013,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 18,
+"score": 44,
+"star": false,
+"why": [
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2096776",
+"name": "El Capricho",
+"architect": "Antoni Gaudí",
+"year": 1883,
+"country": "Spain",
+"region": "Europe",
+"type": "house",
+"sitelinks": 18,
+"score": 44,
+"star": true,
+"why": [
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q122728614",
+"name": "Ukiranian Government Building",
+"architect": "Ivan Fomin",
+"year": 1938,
+"country": "Ukraine",
+"region": "Europe",
+"type": "cultural property",
+"sitelinks": 17,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1790954",
+"name": "Cube House",
+"architect": "Piet Blom",
+"year": 1984,
+"country": "Netherlands",
+"region": "Europe",
+"type": "?",
+"sitelinks": 17,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2165447",
+"name": "Casa Malaparte",
+"architect": "Curzio Malaparte",
+"year": 1943,
+"country": "Italy",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 17,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3090101",
+"name": "Tour Initiale",
+"architect": "Jean de Mailly",
+"year": 1966,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q151195",
+"name": "Ordensburg Vogelsang",
+"architect": "Clemens Klotz",
+"year": 1930,
+"country": "Germany",
+"region": "Europe",
+"type": "NS-Ordensburg",
+"sitelinks": 13,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1783240",
+"name": "Euskalduna Conference Centre and Concert Hall",
+"architect": "Federico Soriano",
+"year": 1999,
+"country": "Spain",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 12,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3562246",
+"name": "Antonín Dvořák Theatre",
+"architect": "Alexander Graf",
+"year": 1907,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 10,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1823966",
+"name": "Liebieghaus",
+"architect": "Leonhard Romeis",
+"year": 1909,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 9,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2161858",
+"name": "Cobra Museum",
+"architect": "Wim Quist",
+"year": 1995,
+"country": "Netherlands",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 9,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3873189",
+"name": "National Space Centre",
+"architect": "Nicholas Grimshaw",
+"year": 2001,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "charitable organization",
+"sitelinks": 9,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q548427",
+"name": "Kunstsammlung Nordrhein-Westfalen",
+"architect": "Julius Carl Raschdorff",
+"year": 1961,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 9,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q5965394",
+"name": "Sakamoto Ryōma Memorial Museum",
+"architect": "Akiko Takahashi",
+"year": 1991,
+"country": "Japan",
+"region": "East Asia",
+"type": "biographical museum",
+"sitelinks": 9,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3531700",
+"name": "Kai Tak Cruise Terminal",
+"architect": "Foster and Partners",
+"year": 2013,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "cruise terminal",
+"sitelinks": 8,
+"score": 44,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q896764",
+"name": "Tagblatt-Turm",
+"architect": "Ernst Otto Osswald",
+"year": 1924,
+"country": "Germany",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 7,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q19951120",
+"name": "Majolikahaus",
+"architect": "Otto Wagner",
+"year": 1898,
+"country": "Austria",
+"region": "Europe",
+"type": "multifamily residential",
+"sitelinks": 6,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q24037787",
+"name": "Roche Tower 2",
+"architect": "Herzog & de Meuron",
+"year": 2022,
+"country": "Switzerland",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 6,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q2946179",
+"name": "Centro per l'arte contemporanea Luigi Pecci",
+"architect": "Italo Gamberini",
+"year": 1988,
+"country": "Italy",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 6,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3145619",
+"name": "Hôtel Otlet",
+"architect": "Octave Van Rysselberghe",
+"year": 1894,
+"country": "Belgium",
+"region": "Europe",
+"type": "private mansion",
+"sitelinks": 6,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1355204",
+"name": "Stadttheater Bremerhaven",
+"architect": "Oskar Kaufmann",
+"year": 1911,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 5,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1592692",
+"name": "Hebbel Theater",
+"architect": "Oskar Kaufmann",
+"year": 1908,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 5,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q2415721",
+"name": "Theater Bielefeld",
+"architect": "Bernhard Sehring",
+"year": 1904,
+"country": "Germany",
+"region": "Europe",
+"type": "theatre building",
+"sitelinks": 5,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q4176912",
+"name": "Edificio Mirador",
+"architect": "MVRDV",
+"year": 2005,
+"country": "Spain",
+"region": "Europe",
+"type": "apartment building",
+"sitelinks": 5,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q8193312",
+"name": "Tokyo Budo-kan",
+"architect": "Kijo Rokkaku",
+"year": 1989,
+"country": "Japan",
+"region": "East Asia",
+"type": "budōkan",
+"sitelinks": 5,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q3389734",
+"name": "Place Bonaventure",
+"architect": "Arcop",
+"year": 1967,
+"country": "Canada",
+"region": "Americas",
+"type": "building",
+"sitelinks": 4,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q3521692",
+"name": "The Lowry",
+"architect": "Michael Wilford",
+"year": 2000,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 4,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q5914680",
+"name": "House of Arts Piešťany",
+"architect": "Ferdinand Milučký",
+"year": 1980,
+"country": "Slovakia",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 4,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1025640",
+"name": "Café Moskau",
+"architect": "Josef Kaiser",
+"year": 1962,
+"country": "Germany",
+"region": "Europe",
+"type": "restaurant",
+"sitelinks": 3,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q10378812",
+"name": "Teatro Capitólio",
+"architect": "Luís Cristino da Silva",
+"year": 2016,
+"country": "Portugal",
+"region": "Europe",
+"type": "movie theater",
+"sitelinks": 3,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q12059680",
+"name": "Trmal's Villa",
+"architect": "Jan Kotěra",
+"year": 1902,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 3,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1303486",
+"name": "Church of the Sacred Heart",
+"architect": "Bohumil Sláma",
+"year": 2000,
+"country": "Czech Republic",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1563609",
+"name": "Halen",
+"architect": "Atelier 5",
+"year": 1961,
+"country": "Switzerland",
+"region": "Europe",
+"type": "terrace house",
+"sitelinks": 3,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q109947786",
+"name": "The Marnix",
+"architect": "Q459464",
+"year": 1962,
+"country": "Belgium",
+"region": "Europe",
+"type": "bank building",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1327076",
+"name": "Haus Wiegand",
+"architect": "Peter Behrens",
+"year": 1911,
+"country": "Germany",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1448845",
+"name": "St. Maria in den Benden",
+"architect": "Emil Steffann",
+"year": 1957,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"architect with a body of work in archINFORM"
+],
+"next_batch": true
+},
+{
+"qid": "Q1590546",
+"name": "Haus Sindlingen",
+"architect": "Günter Bock",
+"year": 1963,
+"country": "Germany",
+"region": "Europe",
+"type": "building",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q18812998",
+"name": "Aula TU Delft",
+"architect": "Van den Broek en Bakema",
+"year": 1959,
+"country": "Netherlands",
+"region": "Europe",
+"type": "assembly hall",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q22922227",
+"name": "25 bis rue Benjamin-Franklin",
+"architect": "Auguste Perret",
+"year": 1903,
+"country": "France",
+"region": "Europe",
+"type": "revenue house",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q27015754",
+"name": "Congress Center Bad Gastein",
+"architect": "Gerhard Garstenauer",
+"year": 1974,
+"country": "Austria",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q27207793",
+"name": "Felsentherme Bad Gastein",
+"architect": "Gerhard Garstenauer",
+"year": 1968,
+"country": "Austria",
+"region": "Europe",
+"type": "thermal bath",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q29016759",
+"name": "Bankinter building",
+"architect": "Rafael Moneo",
+"year": 1977,
+"country": "Spain",
+"region": "Europe",
+"type": "bank building",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"docomomo",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q52771144",
+"name": "City hall of Terneuzen",
+"architect": "Jaap Bakema",
+"year": 1963,
+"country": "Netherlands",
+"region": "Europe",
+"type": "city hall",
+"sitelinks": 2,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q113547282",
+"name": "Kagawa Prefectural Government Office East Building",
+"architect": "Kenzō Tange",
+"year": 1958,
+"country": "Japan",
+"region": "East Asia",
+"type": "prefectural office building",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q123472538",
+"name": "Izumo Taisha Treasure Hall",
+"architect": "Kiyonori Kikutake",
+"year": 1981,
+"country": "Japan",
+"region": "East Asia",
+"type": "treasure hall",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17449946",
+"name": "Bavinckschool (Hilversum)",
+"architect": "Willem Marinus Dudok",
+"year": 1921,
+"country": "Netherlands",
+"region": "Europe",
+"type": "school building",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q60533061",
+"name": "Messner Mountain Museum Corones",
+"architect": "Zaha Hadid",
+"year": 2015,
+"country": "Italy",
+"region": "Europe",
+"type": "natural history museum",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q85693417",
+"name": "Biblioteca Sant Antoni-Joan Oliver",
+"architect": "RCR Arquitectes",
+"year": 2007,
+"country": "Spain",
+"region": "Europe",
+"type": "public library",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+}
+]
