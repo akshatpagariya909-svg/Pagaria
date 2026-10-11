@@ -131,6 +131,50 @@ def divisare(b):
         return []
 
 
+STOP = set('the of and de la le du des del di da a an at in for on to'.split())
+FROM_WIKIDATA = {'Official website', 'Map', 'archINFORM', 'Structurae', 'Docomomo', 'Archnet'}
+
+
+# Words a page address often drops or rephrases ("Kolumba" for Kolumba Museum, "center" for Centre).
+ROLE = set('museum building centre center house church headquarters place terminal airport gallery galerie '
+           'pool pools crypt international'.split())
+# Pages a rule can't tell apart: the same architect's other building, or a near-identical name.
+_BL = Path(__file__).with_name('link_blocklist.txt')
+BLOCKED = {tuple(x.strip() for x in line.split(' | ', 1)) for line in (_BL.read_text().splitlines() if _BL.exists() else [])
+           if ' | ' in line and not line.startswith('#')}
+
+
+def _has(word, path):
+    """The address contains the word, allowing endings and spellings (lloyd/lloyds, schroder/schroeder)."""
+    stem = word[:5]
+    return any(w.startswith(stem) or (len(w) >= 3 and word.startswith(w)) for w in path)
+
+
+def slug_names_building(b, url):
+    """The page address itself must name the building, not just its city or architect.
+
+    Every distinctive word of the name must appear in the address. The city may be missing, and in a
+    name of three or more distinctive words one more word may be missing, when the address names the architect.
+    A name that is only one distinctive word ("Portland Building") must appear in full unless the architect is named.
+    """
+    if (b['name'], url) in BLOCKED:
+        return False
+    path = tokens(urllib.parse.unquote(urllib.parse.urlparse(url).path).replace('-', ' ').replace('_', ' '))
+    by = tokens(b['by']) - GENERIC
+    city = tokens(b['place'].split(',')[0])
+    named_by = any(_has(w, path) for w in by)
+    words = {w for w in tokens(b['name']) - STOP if not w.isdigit()}
+    core = words - ROLE - by
+    if len(core) <= 1 and not named_by:  # "Kursaal" alone could be any Kursaal: the whole name and city must appear
+        core = words | (city - GENERIC)
+    missing = {w for w in core if not _has(w, path)}
+    if named_by:
+        missing -= city
+        if len(core) >= 3 and len(missing) == 1:
+            missing = set()
+    return not missing
+
+
 def about(b, url, title):
     """True when the page is plausibly this building's own page."""
     d = distinctive(b) or (tokens(b['name']) - GENERIC)
@@ -143,7 +187,7 @@ def about(b, url, title):
     # name the architect, or name the building in full and its city.
     by = tokens(b['by']) - GENERIC
     city = tokens(b['place'].split(',')[0]) - GENERIC
-    return bool(by & text) or (d <= text and bool(city & text))
+    return (bool(by & text) or (d <= text and bool(city & text))) and slug_names_building(b, url)
 
 
 def pick(b, hits, domain):

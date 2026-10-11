@@ -10,7 +10,7 @@ so search engines and link previews see everything. Output:
   site/og.jpg                      preview image for the home page
   site/sitemap.xml, site/robots.txt
 """
-import html, json, os, random, urllib.parse
+import html, json, os, random, re, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -33,6 +33,7 @@ e = lambda s: html.escape(str(s or ''), quote=True)
 q = lambda s: urllib.parse.quote(str(s))
 
 TOTAL = '100'  # set from the data in main()
+CSS_V = ''  # a short fingerprint of pages.css, so browsers fetch it again when it changes
 
 
 def at(base, path):
@@ -107,7 +108,7 @@ HEAD = """<!doctype html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{up}pages.css">
+<link rel="stylesheet" href="{up}pages.css?v={css_v}">
 {extra}
 </head>
 <body>
@@ -149,7 +150,7 @@ def building_page(b, items):
                      'acquireLicensePage': im.get('source') or ''} for im in ims]}
     head = HEAD.format(title=e(f"{b['name']}, {b['by']} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
                        ogtitle=e(f"{b['name']} — {b['by']}, {b['year']}"), image=e(og), up=up, wallhash='#' + b['id'],
-                       extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL)
+                       extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
     if ims:
         figs = ''.join(
             f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
@@ -179,7 +180,7 @@ def building_page(b, items):
 <section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u, d in links(b))}</div></section>
 <section class="block"><h2>Drift onward</h2><div class="rel">{rel_html}</div></section>
 """
-    return head + body + FOOT.format(up=up, total=TOTAL)
+    return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
 
 def index_page(items):
@@ -187,13 +188,13 @@ def index_page(items):
     url = BASE + 'buildings/'
     desc = f'All {TOTAL} buildings on Discover Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
     head = HEAD.format(title=f'All {TOTAL} buildings · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
-                       ogtitle=f'All {TOTAL} buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL)
+                       ogtitle=f'All {TOTAL} buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(
         f'<a href="{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>'
         for x in sorted(items, key=lambda x: x['name'].lower()))
     body = f'<main class="index"><h1>All {TOTAL} buildings</h1><p class="lede">{e(desc)}</p><div class="grid">{rows}</div></main>\n'
-    return head + body + FOOT.format(up=up, total=TOTAL)
+    return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
 
 def og_image(items):
@@ -213,10 +214,31 @@ def og_image(items):
     canvas.save(SITE / 'og.jpg', quality=85, optimize=True)
 
 
+def fingerprint(path):
+    import hashlib
+    return hashlib.md5(path.read_bytes()).hexdigest()[:8]
+
+
+def stamp_wall():
+    """Add ?v=<fingerprint> to the wall's scripts and stylesheet, so a new version reaches browsers at once
+    instead of waiting for their cached copy to expire."""
+    page = SITE / 'index.html'
+    html = page.read_text()
+    for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'app.js'):
+        html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
+    page.write_text(html)
+
+
 def main():
-    global TOTAL
+    import sys
+    if '--stamp' in sys.argv:  # used by the deploy workflow: refresh the fingerprints only
+        stamp_wall()
+        return
+    global TOTAL, CSS_V
     items = load()
     TOTAL = f'{len(items):,}'
+    CSS_V = fingerprint(SITE / 'pages.css')
+    stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']
         out.mkdir(parents=True, exist_ok=True)

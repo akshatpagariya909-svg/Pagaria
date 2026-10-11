@@ -22,6 +22,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      # Fingerprint the wall's scripts so visitors get a new version at once, not after their cache expires.
+      - run: python3 tools/build_pages.py --stamp
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
