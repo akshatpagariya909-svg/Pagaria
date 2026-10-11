@@ -1,0 +1,1442 @@
+[
+ {
+  "qid": "Q179191",
+  "keep": 1,
+  "name": "Rock and Roll Hall of Fame",
+  "by": "I. M. Pei",
+  "city": "Cleveland",
+  "cc": "US",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "features": "A glass tent-like atrium leans on a white tower with cantilevered drum and box volumes over the lake.",
+  "note": "year was design start; opened 1995"
+ },
+ {
+  "qid": "Q128468",
+  "keep": 1,
+  "name": "Wembley Stadium",
+  "by": "Foster + Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "A tilted steel arch carries much of the roof, letting movable roof panels open over the pitch.",
+  "note": "year was construction start; opened 2007; designed with Populous"
+ },
+ {
+  "qid": "Q188740",
+  "keep": 1,
+  "name": "Museum of Modern Art",
+  "by": "Yoshio Taniguchi",
+  "city": "New York",
+  "cc": "US",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Double height",
+   "Light & shadow",
+   "Courtyard"
+  ],
+  "features": "Galleries layered around a tall atrium look onto the sculpture garden through refined glass and stone.",
+  "note": "year was institution founding; Taniguchi's rebuilding opened 2004 (later DS+R expansion 2019)"
+ },
+ {
+  "qid": "Q670250",
+  "keep": 1,
+  "name": "Art Gallery of Ontario",
+  "by": "Frank Gehry",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Facade as skin"
+  ],
+  "features": "A long curved glass-and-Douglas-fir galleria wraps the old museum; a sculptural timber stair spirals up.",
+  "note": "year was institution founding; Gehry's transformation opened 2008"
+ },
+ {
+  "qid": "Q1147977",
+  "keep": 2,
+  "name": "Torre de Collserola",
+  "by": "Foster + Partners",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1992",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "A slim concrete shaft held upright by tensioned guy cables carries a stack of triangular decks.",
+  "note": ""
+ },
+ {
+  "qid": "Q1268542",
+  "keep": 2,
+  "name": "Miho Museum",
+  "by": "I. M. Pei",
+  "city": "Koka",
+  "cc": "JP",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Light from above"
+  ],
+  "features": "Approach through a tunnel and over a cable-stayed bridge to glass-roofed halls set into a mountain.",
+  "note": ""
+ },
+ {
+  "qid": "Q1030463",
+  "keep": 1,
+  "name": "Mode Gakuen Cocoon Tower",
+  "by": "Tange Associates",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "An elliptical tower of schools wrapped in a white web of curving diagonal bands, like a cocoon.",
+  "note": ""
+ },
+ {
+  "qid": "Q151356",
+  "keep": 2,
+  "name": "Fernsehturm Berlin",
+  "by": "Hermann Henselmann, Fritz Dieter and Günter Franke",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1969",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "A tapering concrete shaft carries a steel-clad sphere holding a viewing deck and revolving restaurant.",
+  "note": "year was construction; opened 1969; Dieter and Franke added as designers"
+ },
+ {
+  "qid": "Q212248",
+  "keep": 0,
+  "name": "Ibirapuera Park",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1954",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "",
+  "note": "a park; better to add its buildings (Oca, Bienal Pavilion, Marquise) one by one"
+ },
+ {
+  "qid": "Q639791",
+  "keep": 2,
+  "name": "Whitney Museum of American Art",
+  "by": "Renzo Piano Building Workshop",
+  "city": "New York",
+  "cc": "US",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Public space",
+   "Cantilever"
+  ],
+  "features": "An asymmetric steel-clad block steps back in outdoor terraces toward the Hudson beside the High Line.",
+  "note": "year was institution founding; Piano's building opened 2015"
+ },
+ {
+  "qid": "Q1134646",
+  "keep": 2,
+  "name": "Museum of Contemporary Art, Los Angeles",
+  "by": "Arata Isozaki",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1986",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Vault"
+  ],
+  "features": "Red sandstone cubes, pyramid skylights and a barrel vault frame galleries sunk below a plaza.",
+  "note": "year was institution founding; Isozaki's building opened 1986"
+ },
+ {
+  "qid": "Q16318627",
+  "keep": 0,
+  "name": "Abeno Harukas",
+  "by": "Pelli Clarke Pelli Architects",
+  "city": "Osaka",
+  "cc": "JP",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Section",
+   "Megastructure"
+  ],
+  "features": "",
+  "note": "commercial supertall of limited design interest"
+ },
+ {
+  "qid": "Q157298",
+  "keep": 1,
+  "name": "Pergamon Museum",
+  "by": "Alfred Messel and Ludwig Hoffmann",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1930",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Axis"
+  ],
+  "features": "A three-winged neoclassical block built around reconstructed ancient monuments like the Pergamon Altar.",
+  "note": "year was construction start; completed 1930 by Hoffmann after Messel's death"
+ },
+ {
+  "qid": "Q239303",
+  "keep": 2,
+  "name": "Art Institute of Chicago, Modern Wing",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "2009",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "A floating 'flying carpet' of aluminium blades filters north light into the top-floor galleries.",
+  "note": "Piano designed the Modern Wing (2009), not the 1893 building; renamed and year corrected"
+ },
+ {
+  "qid": "Q935919",
+  "keep": 0,
+  "name": "JPMorgan Chase Tower",
+  "by": "I. M. Pei & Partners",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1982",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Stone"
+  ],
+  "features": "",
+  "note": "commercial office tower of limited study interest"
+ },
+ {
+  "qid": "Q2007919",
+  "keep": 2,
+  "name": "John F. Kennedy Presidential Library and Museum",
+  "by": "I. M. Pei",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1979",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Double height",
+   "Water"
+  ],
+  "features": "A white concrete triangle and cylinder meet a tall black-framed glass pavilion facing the harbour.",
+  "note": ""
+ },
+ {
+  "qid": "Q591086",
+  "keep": 0,
+  "name": "Serpentine Galleries",
+  "by": "Zaha Hadid Architects",
+  "city": "London",
+  "cc": "GB",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Tensile structure",
+   "Brick"
+  ],
+  "features": "",
+  "note": "an institution; Hadid designed only the Serpentine Sackler Gallery extension (2013), which would need its own entry"
+ },
+ {
+  "qid": "Q11245",
+  "keep": 0,
+  "name": "One World Trade Center",
+  "by": "SOM (David Childs)",
+  "city": "New York",
+  "cc": "US",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "commercial tower of limited design interest"
+ },
+ {
+  "qid": "Q167566",
+  "keep": 2,
+  "name": "Palace of Culture and Science",
+  "by": "Lev Rudnev",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "1955",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "A stepped Socialist Realist tower and spire, dressed with attics borrowed from Polish Renaissance towns.",
+  "note": ""
+ },
+ {
+  "qid": "Q5317",
+  "keep": 1,
+  "name": "Space Needle",
+  "by": "John Graham & Company",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1962",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Paired steel legs pinch in at a waist, then flare out to carry a disc-shaped top house.",
+  "note": "year was construction start; opened 1962"
+ },
+ {
+  "qid": "Q325309",
+  "keep": 0,
+  "name": "Metro Bilbao",
+  "by": "Foster + Partners",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": "1995",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Circulation",
+   "Steel & glass",
+   "Section"
+  ],
+  "features": "",
+  "note": "a whole metro network; the Foster glass station entrances could be a separate entry"
+ },
+ {
+  "qid": "Q630630",
+  "keep": 1,
+  "name": "Palau Sant Jordi",
+  "by": "Arata Isozaki",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Prefabrication",
+   "Geometry"
+  ],
+  "features": "A domed space-frame roof was assembled on the ground and jacked into place over the Olympic arena.",
+  "note": ""
+ },
+ {
+  "qid": "Q1384356",
+  "keep": 1,
+  "name": "Museum of Pop Culture",
+  "by": "Frank Gehry",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Digital fabrication"
+  ],
+  "features": "Colourful blobs of painted aluminium and stainless steel shingles flow around the passing monorail.",
+  "note": "year corrected to opening (2000)"
+ },
+ {
+  "qid": "Q638423",
+  "keep": 1,
+  "name": "Opéra Bastille",
+  "by": "Carlos Ott",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Layered curved facades of glass and grey stone step around the Place de la Bastille.",
+  "note": ""
+ },
+ {
+  "qid": "Q913672",
+  "keep": 2,
+  "name": "San Francisco Museum of Modern Art",
+  "by": "Mario Botta",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "A stepped brick-clad block split by a striped stone cylinder that lights the atrium from above.",
+  "note": "year was institution founding; Botta's building opened 1995 (Snøhetta expansion 2016)"
+ },
+ {
+  "qid": "Q7338547",
+  "keep": 2,
+  "name": "Riverside Museum",
+  "by": "Zaha Hadid Architects",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "A zigzag pleated roof spans a column-free shed open at both ends, between the city and the river.",
+  "note": ""
+ },
+ {
+  "qid": "Q616863",
+  "keep": 1,
+  "name": "Palazzo Lombardia",
+  "by": "Pei Cobb Freed & Partners",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2010",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Sinuous office ribbons wrap a central tower and enclose a covered public piazza.",
+  "note": ""
+ },
+ {
+  "qid": "Q328698",
+  "keep": 2,
+  "name": "Stadio San Nicola",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Bari",
+  "cc": "IT",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Prefabrication"
+  ],
+  "features": "Upper stands split into concrete petals with gaps between, floating over a bowl set in an earth bank.",
+  "note": ""
+ },
+ {
+  "qid": "Q9202",
+  "keep": 0,
+  "name": "Statue of Liberty",
+  "by": "Frédéric Auguste Bartholdi",
+  "city": "New York",
+  "cc": "US",
+  "year": "1886",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Stone"
+  ],
+  "features": "",
+  "note": "a statue, not a building; architect credit wrong (Bartholdi sculptor, Eiffel structure, Hunt pedestal)"
+ },
+ {
+  "qid": "Q183536",
+  "keep": 1,
+  "name": "Tokyo Tower",
+  "by": "Tachū Naitō",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1958",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "A steel lattice tower painted in international orange and white, modelled on the Eiffel Tower.",
+  "note": "year corrected to completion (1958)"
+ },
+ {
+  "qid": "Q157825",
+  "keep": 1,
+  "name": "Bode Museum",
+  "by": "Ernst von Ihne",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1904",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Water",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "A neo-baroque museum on the tip of Museum Island, its domed entrance rising straight from the river.",
+  "note": ""
+ },
+ {
+  "qid": "Q156198",
+  "keep": 1,
+  "name": "Messeturm",
+  "by": "Helmut Jahn",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1991",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "A pencil-like tower of red granite and glass, shifting from square shaft to cylinder to pyramid cap.",
+  "note": "year corrected to completion (1991)"
+ },
+ {
+  "qid": "Q519613",
+  "keep": 1,
+  "name": "Gewandhaus",
+  "by": "Rudolf Skoda",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "1981",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "A glazed foyer shows off a huge ceiling painting to the square, in front of a fan-shaped concert hall.",
+  "note": "year was construction start; opened 1981"
+ },
+ {
+  "qid": "Q125634",
+  "keep": 2,
+  "name": "Museum Folkwang",
+  "by": "David Chipperfield Architects",
+  "city": "Essen",
+  "cc": "DE",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Facade as skin"
+  ],
+  "features": "Pavilions and courtyards linked by glazed walkways, clad in translucent panels of recycled glass.",
+  "note": "year was institution founding; Chipperfield's building opened 2010"
+ },
+ {
+  "qid": "Q1955758",
+  "keep": 1,
+  "name": "Mudam",
+  "by": "I. M. Pei",
+  "city": "Luxembourg",
+  "cc": "LU",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Glass-roofed halls rise from the arrow-shaped walls of an old fortress, Fort Thüngen.",
+  "note": ""
+ },
+ {
+  "qid": "Q11235",
+  "keep": 0,
+  "name": "World Trade Center",
+  "by": "Minoru Yamasaki",
+  "city": "New York",
+  "cc": "US",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Megastructure"
+  ],
+  "features": "",
+  "note": "a building complex (destroyed 2001), not one building"
+ },
+ {
+  "qid": "Q160409",
+  "keep": 0,
+  "name": "Central Park",
+  "by": "Frederick Law Olmsted and Calvert Vaux",
+  "city": "New York",
+  "cc": "US",
+  "year": "1876",
+  "type": "Public space",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Water"
+  ],
+  "features": "",
+  "note": "a park without a key building"
+ },
+ {
+  "qid": "Q217652",
+  "keep": 2,
+  "name": "Woolworth Building",
+  "by": "Cass Gilbert",
+  "city": "New York",
+  "cc": "US",
+  "year": "1913",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "A Gothic Revival skyscraper of terracotta over a steel frame, with a mosaic-vaulted lobby.",
+  "note": "year corrected to opening (1913)"
+ },
+ {
+  "qid": "Q1364354",
+  "keep": 1,
+  "name": "Torre Emperador Castellana (Torre Espacio)",
+  "by": "Pei Cobb Freed & Partners",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A square plan at the base morphs into two curved faces as the glass tower rises.",
+  "note": ""
+ },
+ {
+  "qid": "Q1620553",
+  "keep": 2,
+  "name": "Hirshhorn Museum and Sculpture Garden",
+  "by": "Gordon Bunshaft (SOM)",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1974",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Geometry",
+   "Courtyard",
+   "Pilotis"
+  ],
+  "features": "A hollow concrete drum raised on four piers rings a fountain court beside a sunken sculpture garden.",
+  "note": ""
+ },
+ {
+  "qid": "Q747342",
+  "keep": 2,
+  "name": "Palau de les Arts Reina Sofia",
+  "by": "Santiago Calatrava",
+  "city": "Valencia",
+  "cc": "ES",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A sweeping cantilevered steel crest arcs over shell-like volumes clad in white broken-tile trencadís.",
+  "note": ""
+ },
+ {
+  "qid": "Q615950",
+  "keep": 0,
+  "name": "Central Market Project (World Trade Center Abu Dhabi)",
+  "by": "Foster + Partners",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Courtyard",
+   "Climate response"
+  ],
+  "features": "",
+  "note": "commercial mixed-use towers of limited design interest"
+ },
+ {
+  "qid": "Q632019",
+  "keep": 1,
+  "name": "Solow Building",
+  "by": "Gordon Bunshaft (SOM)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Travertine-edged glass curtain walls sweep down in concave curves to the street on two faces.",
+  "note": ""
+ },
+ {
+  "qid": "Q85355",
+  "keep": 0,
+  "name": "Gruppo Mondadori",
+  "by": "Oscar Niemeyer",
+  "city": "Segrate",
+  "cc": "IT",
+  "year": "1975",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "a publishing company, not a building; Niemeyer's Palazzo Mondadori (1975) would need its own entry"
+ },
+ {
+  "qid": "Q815935",
+  "keep": 2,
+  "name": "Bellesguard",
+  "by": "Antoni Gaudí",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1909",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Stone",
+   "Brick",
+   "Vault"
+  ],
+  "features": "A slate-clad neo-Gothic villa with brick-vaulted attics and a tower topped by a cross.",
+  "note": "year corrected to completion (1909)"
+ },
+ {
+  "qid": "Q1853779",
+  "keep": 1,
+  "name": "Lyndon Baines Johnson Library and Museum",
+  "by": "Gordon Bunshaft (SOM)",
+  "city": "Austin",
+  "cc": "US",
+  "year": "1971",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Cantilever"
+  ],
+  "features": "A windowless travertine block with a broad overhanging top floor stands over a raised plaza.",
+  "note": ""
+ },
+ {
+  "qid": "Q976457",
+  "keep": 2,
+  "name": "Philharmonie Luxembourg",
+  "by": "Christian de Portzamparc",
+  "city": "Luxembourg",
+  "cc": "LU",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A concert hall ringed by a dense screen of slender white steel columns in an eye-shaped plan.",
+  "note": ""
+ },
+ {
+  "qid": "Q180904",
+  "keep": 1,
+  "name": "Museum Tinguely",
+  "by": "Mario Botta",
+  "city": "Basel",
+  "cc": "CH",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Stone",
+   "Promenade",
+   "Water"
+  ],
+  "features": "A pink sandstone block with a glazed walkway, the 'Barca', running along the Rhine into the galleries.",
+  "note": ""
+ },
+ {
+  "qid": "Q243",
+  "keep": 2,
+  "name": "Eiffel Tower",
+  "by": "Gustave Eiffel (with Koechlin, Nouguier and Sauvestre)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1889",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Prefabrication",
+   "Geometry"
+  ],
+  "features": "A wrought-iron lattice whose four curving legs gather into a single tapering shaft.",
+  "note": "credited to Eiffel's firm; Sauvestre was its architect; year corrected to completion (1889)"
+ },
+ {
+  "qid": "Q187840",
+  "keep": 3,
+  "name": "Palais Garnier",
+  "by": "Charles Garnier",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1875",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Promenade",
+   "Circulation",
+   "Monumentality"
+  ],
+  "features": "A Beaux-Arts opera whose grand staircase and foyers make a promenade as theatrical as the stage.",
+  "note": "year was construction start; opened 1875"
+ },
+ {
+  "qid": "Q183334",
+  "keep": 0,
+  "name": "Tretyakov Gallery",
+  "by": "Viktor Vasnetsov",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "1904",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Brick"
+  ],
+  "features": "",
+  "note": "an institution; Vasnetsov designed only the facade of the older building"
+ },
+ {
+  "qid": "Q1186333",
+  "keep": 0,
+  "name": "Lusail Stadium",
+  "by": "Foster + Partners",
+  "city": "Lusail",
+  "cc": "QA",
+  "year": "2022",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "generic stadium of limited design interest"
+ },
+ {
+  "qid": "Q1422000",
+  "keep": 2,
+  "name": "NEMO Science Museum",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Water",
+   "Section"
+  ],
+  "features": "A copper-green hull rises from the harbour over a road tunnel, its sloping roof a public stepped square.",
+  "note": "year was institution founding; Piano's building opened 1997"
+ },
+ {
+  "qid": "Q971028",
+  "keep": 1,
+  "name": "Oscar Niemeyer International Cultural Centre",
+  "by": "Oscar Niemeyer",
+  "city": "Avilés",
+  "cc": "ES",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "A white dome, a curved auditorium and a slim tower stand on an open riverside plaza.",
+  "note": ""
+ },
+ {
+  "qid": "Q2713088",
+  "keep": 1,
+  "name": "L'Auditori",
+  "by": "Rafael Moneo",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1999",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "A gridded concrete-and-steel block of concert halls is organised around a glazed central lantern court.",
+  "note": ""
+ },
+ {
+  "qid": "Q46815",
+  "keep": 2,
+  "name": "Israel Museum",
+  "by": "Alfred Mansfeld and Dora Gad",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1965",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Modular",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Modular stone-clad pavilions step down a hillside like a Mediterranean village.",
+  "note": "Dora Gad added as co-designer"
+ },
+ {
+  "qid": "Q217717",
+  "keep": 0,
+  "name": "American Museum of Natural History",
+  "by": "Calvert Vaux and Jacob Wrey Mould",
+  "city": "New York",
+  "cc": "US",
+  "year": "1877",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "an institution complex of many wings; Vaux's original building is largely hidden"
+ },
+ {
+  "qid": "Q209937",
+  "keep": 1,
+  "name": "Vienna State Opera",
+  "by": "August Sicard von Sicardsburg and Eduard van der Nüll",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1869",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Promenade",
+   "Stone"
+  ],
+  "features": "A neo-Renaissance opera house with an open loggia facing the Ringstrasse and a grand staircase.",
+  "note": "van der Nüll added as co-architect"
+ },
+ {
+  "qid": "Q506234",
+  "keep": 1,
+  "name": "Altare della Patria",
+  "by": "Giuseppe Sacconi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1911",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "A white marble monument of stairs and a curved colonnade crowned by bronze quadrigas.",
+  "note": ""
+ },
+ {
+  "qid": "Q464482",
+  "keep": 1,
+  "name": "MetLife Building",
+  "by": "Emery Roth & Sons, Walter Gropius and Pietro Belluschi",
+  "city": "New York",
+  "cc": "US",
+  "year": "1963",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Prefabrication",
+   "Monumentality"
+  ],
+  "features": "An elongated octagonal slab of precast concrete set across the axis of Park Avenue above Grand Central.",
+  "note": "credit corrected (TAC was Gropius's firm; Emery Roth & Sons and Belluschi co-designed)"
+ },
+ {
+  "qid": "Q1393382",
+  "keep": 0,
+  "name": "Palasport Olimpico",
+  "by": "Arata Isozaki",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Modular"
+  ],
+  "features": "",
+  "note": "generic arena of limited design interest"
+ },
+ {
+  "qid": "Q1470276",
+  "keep": 2,
+  "name": "de Young Museum",
+  "by": "Herzog & de Meuron",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "A perforated, dimpled copper skin wraps low galleries and a twisting tower in Golden Gate Park.",
+  "note": "architect field was an ID; year was founding; Herzog & de Meuron building opened 2005"
+ },
+ {
+  "qid": "Q1565911",
+  "keep": 0,
+  "name": "Museum of Fine Arts, Houston",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1958",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Free plan",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "an institution of several buildings; Mies designed only Cullinan Hall and the Brown Pavilion"
+ },
+ {
+  "qid": "Q3378907",
+  "keep": 2,
+  "name": "Philharmonie de Paris",
+  "by": "Ateliers Jean Nouvel",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Promenade"
+  ],
+  "features": "A shell of interlocking bird-shaped aluminium tiles rises to a rooftop belvedere above the park.",
+  "note": ""
+ },
+ {
+  "qid": "Q953345",
+  "keep": 2,
+  "name": "High Museum of Art",
+  "by": "Richard Meier",
+  "city": "Atlanta",
+  "cc": "US",
+  "year": "1983",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "White enamel-panelled galleries wrap a quarter-circle atrium lit from above and climbed by ramps.",
+  "note": "year was institution founding; Meier's building opened 1983"
+ },
+ {
+  "qid": "Q255559",
+  "keep": 1,
+  "name": "Amon Carter Museum of American Art",
+  "by": "Philip Johnson",
+  "city": "Fort Worth",
+  "cc": "US",
+  "year": "1961",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "A shellstone portico of tapered arches faces a terraced plaza looking toward downtown.",
+  "note": ""
+ },
+ {
+  "qid": "Q570949",
+  "keep": 2,
+  "name": "Auditorium Parco della Musica",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "2002",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Three beetle-like halls with lead-clad roofs ring an open-air amphitheatre.",
+  "note": ""
+ },
+ {
+  "qid": "Q321716",
+  "keep": 1,
+  "name": "Kunsthalle Bielefeld",
+  "by": "Philip Johnson",
+  "city": "Bielefeld",
+  "cc": "DE",
+  "year": "1968",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "A compact cubic block clad in red sandstone, set beside a sculpture garden.",
+  "note": ""
+ },
+ {
+  "qid": "Q828343",
+  "keep": 0,
+  "name": "World Port Center",
+  "by": "Foster + Partners",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Water",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "commercial office tower of limited design interest"
+ },
+ {
+  "qid": "Q524249",
+  "keep": 3,
+  "name": "National Museum of Anthropology",
+  "by": "Pedro Ramírez Vázquez",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1964",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Cantilever",
+   "Water"
+  ],
+  "features": "A vast umbrella roof on a single sculpted column, ringed by falling water, shades the central courtyard.",
+  "note": ""
+ },
+ {
+  "qid": "Q1068063",
+  "keep": 2,
+  "name": "National Gallery of Canada",
+  "by": "Moshe Safdie",
+  "city": "Ottawa",
+  "cc": "CA",
+  "year": "1988",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Promenade",
+   "Steel & glass",
+   "Light from above"
+  ],
+  "features": "A glazed colonnade ramp climbs to a crystalline Great Hall that echoes the Library of Parliament.",
+  "note": "year was institution founding; Safdie's building opened 1988"
+ },
+ {
+  "qid": "Q2860806",
+  "keep": 0,
+  "name": "Plenitude Arena",
+  "by": "Christian de Portzamparc",
+  "city": "",
+  "cc": "FR",
+  "year": "",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "",
+  "note": "generic event venue; not sure of the building's details"
+ },
+ {
+  "qid": "Q672833",
+  "keep": 2,
+  "name": "Bergisel Ski Jump",
+  "by": "Zaha Hadid Architects",
+  "city": "Innsbruck",
+  "cc": "AT",
+  "year": "2002",
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Structure as expression"
+  ],
+  "features": "A concrete tower carries a café and ramp that merge into one continuous, flowing form.",
+  "note": "year was the old jump's; Hadid's jump opened 2002"
+ },
+ {
+  "qid": "Q9850285",
+  "keep": 0,
+  "name": "Pampulha Modern Ensemble",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1943",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Sculptural form"
+  ],
+  "features": "",
+  "note": "an ensemble of buildings; the Church of St Francis of Assisi would be the key entry"
+ },
+ {
+  "qid": "Q867663",
+  "keep": 0,
+  "name": "Citigroup Centre",
+  "by": "Foster + Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Modular"
+  ],
+  "features": "",
+  "note": "commercial office complex of limited design interest"
+ },
+ {
+  "qid": "Q1330634",
+  "keep": 0,
+  "name": "University of Brasília",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Prefabrication",
+   "Megastructure"
+  ],
+  "features": "",
+  "note": "an institution/campus; the Central Institute of Sciences would need its own entry"
+ },
+ {
+  "qid": "Q2446907",
+  "keep": 1,
+  "name": "53W53",
+  "by": "Ateliers Jean Nouvel",
+  "city": "New York",
+  "cc": "US",
+  "year": "2019",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "A tapering tower wrapped in an irregular exposed diagrid that ends in crystalline peaks.",
+  "note": "year was design; completed 2019"
+ },
+ {
+  "qid": "Q2745898",
+  "keep": 1,
+  "name": "IDS Center",
+  "by": "Philip Johnson and John Burgee",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Light from above",
+   "Circulation"
+  ],
+  "features": "A zigzag-cornered glass tower with a Crystal Court of stacked clear cubes linking the skyways.",
+  "note": ""
+ },
+ {
+  "qid": "Q456994",
+  "keep": 2,
+  "name": "Museum für Moderne Kunst",
+  "by": "Hans Hollein",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Section"
+  ],
+  "features": "A wedge-shaped 'piece of cake' plan fills a triangular site, with galleries around a toplit hall.",
+  "note": "year was founding; Hollein's building opened 1991"
+ },
+ {
+  "qid": "Q564793",
+  "keep": 1,
+  "name": "Jacob K. Javits Convention Center",
+  "by": "I. M. Pei & Partners (James Ingo Freed)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1986",
+  "type": "Civic",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Modular"
+  ],
+  "features": "A dark glass skin on a vast steel space frame encloses the halls and a crystal-palace-like lobby.",
+  "note": ""
+ }
+]
