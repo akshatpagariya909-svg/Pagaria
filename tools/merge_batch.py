@@ -88,8 +88,11 @@ def main():
         if why:
             held.append((c, why))
             continue
-        r = recs.get(c['qid'], {})
-        c = {**c, 'commons': (r.get('commons') or [None])[0], 'lead': (r.get('image') or [None])[0], 'coords': (r.get('coords') or [None])[0]}
+        r = recs.get(c['qid'])
+        if r:  # a Wikidata pool record: lists of values
+            c = {**c, 'commons': (r.get('commons') or [None])[0], 'lead': (r.get('image') or [None])[0], 'coords': (r.get('coords') or [None])[0]}
+        else:  # a hand-list record resolved by resolve_list.py: single values
+            c = {**c, 'commons': c.get('commons'), 'lead': c.get('image'), 'coords': c.get('coords')}
         if not (c['commons'] or c['lead']):
             down.append((c, 'no free photo'))
             continue
