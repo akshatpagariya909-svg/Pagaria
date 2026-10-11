@@ -9,6 +9,7 @@ Reads tools/batches/:
   batch1_curated_part*.json the curation: keep 0-3, name, architect, city, country, year, type,
                             movement, three ideas and the Key features line
   batch1_facts.json         Wikidata years, architects' birth years and country codes (tools/batch_facts.py)
+  batch1_approved.txt       optional: Wikidata IDs the owner checked by hand, merged without the checks
 Writes tools/batches/batch1_report.md: what was added, held back for a check by hand, or turned down.
 
 A building is held back when its year doesn't hold up: earlier than its architect's twentieth
@@ -61,6 +62,8 @@ def main():
 
     curated = [c for p in sorted(B.glob(f'{args.batch}_curated_part*.json')) for c in json.loads(p.read_text(encoding='utf-8'))]
     facts = json.loads((B / f'{args.batch}_facts.json').read_text(encoding='utf-8'))
+    ok = B / f'{args.batch}_approved.txt'
+    approved = {l.split('#')[0].strip() for l in ok.read_text(encoding='utf-8').splitlines()} - {''} if ok.exists() else set()
     recs = {r['qid']: r for r in pool()[0]}
     have = {b.get('qid') for b in items} | {fold(b['name']) for b in items}
     ids = {b['id'] for b in items}
@@ -72,7 +75,7 @@ def main():
         if c['qid'] in have or fold(c['name']) in have:
             down.append((c, 'already on the wall'))
             continue
-        why = check(c, facts.get(c['qid'], {}))
+        why = None if c['qid'] in approved else check(c, facts.get(c['qid'], {}))
         if why:
             held.append((c, why))
             continue
