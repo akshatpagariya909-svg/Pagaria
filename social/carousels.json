@@ -1,0 +1,53 @@
+{
+  "site": "akshatpagariya909-svg.github.io/Pagaria",
+  "carousels": [
+    {
+      "id": "light-from-above",
+      "kind": "idea",
+      "tag": "Idea",
+      "idea": "Light from above",
+      "title": "Light from above",
+      "sub": "Five precedents for your next studio project",
+      "cover": { "b": "pantheon", "img": 4 },
+      "slides": [
+        { "b": "pantheon", "img": 5 },
+        { "b": "kimbell-art-museum", "img": 4 },
+        { "b": "phillips-exeter-academy-library", "img": 3 },
+        { "b": "bruder-klaus-field-chapel", "img": 3 },
+        { "b": "teshima-art-museum", "img": 3 }
+      ],
+      "hashtags": "#architecturestudent #architecturalprecedent #daylighting #louiskahn #peterzumthor #pantheon #architecturestudio #precedentstudy"
+    },
+    {
+      "id": "built-for-the-heat",
+      "kind": "idea",
+      "tag": "Idea",
+      "idea": "Climate response",
+      "title": "Built for the heat",
+      "sub": "Five precedents shaped by sun and heat",
+      "cover": { "b": "chand-baori", "img": 2 },
+      "slides": [
+        { "b": "chand-baori", "img": 0 },
+        { "b": "palace-of-assembly", "img": 0 },
+        { "b": "heritance-kandalama", "img": 1 },
+        { "b": "gando-primary-school", "img": 0 },
+        { "b": "louvre-abu-dhabi", "img": 1 }
+      ],
+      "hashtags": "#architecturestudent #climateresponsive #passivedesign #regionalism #geoffreybawa #franciskere #lecorbusier #indianarchitecture #precedentstudy"
+    },
+    {
+      "id": "guess-the-building-1",
+      "kind": "guess",
+      "tag": "Guess the building",
+      "title": "Name these four from one detail",
+      "sub": "Answers on the last slide",
+      "items": [
+        { "b": "centre-pompidou", "img": 1, "zoom": 2.2, "x": 62, "y": 78 },
+        { "b": "sydney-opera-house", "img": 6, "zoom": 1.6, "x": 70, "y": 55 },
+        { "b": "beijing-national-stadium", "img": 0, "zoom": 2.6, "x": 45, "y": 52 },
+        { "b": "habitat-67", "img": 5, "zoom": 1.5, "x": 40, "y": 50 }
+      ],
+      "hashtags": "#architecturestudent #architecturequiz #guessthebuilding #architecturelovers #hightech #brutalism #precedentstudy"
+    }
+  ]
+}
