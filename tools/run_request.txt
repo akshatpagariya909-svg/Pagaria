@@ -1,2 +1,2 @@
-python -u tools/resolve_list.py
-Retry the unresolved additions with looser place matching.
+python -u tools/pritzker.py
+Count every Pritzker winner and every building Wikidata credits to them or their firm, with facts for filters.
