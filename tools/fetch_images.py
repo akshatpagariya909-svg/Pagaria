@@ -53,6 +53,7 @@ WANT = {'Exterior': 3, 'Interior': 3, 'Detail': 1, 'Context': 1, **{k: 1 for k i
 MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6  # photos; drawings and models come on top, up to MAX_DRAWINGS
 MAX_DRAWINGS = 4
 LEAD_PX = 2500  # a lead photo this big on its long side is preferred
+KEEP_PX = 1280  # the current lead stays unless it's smaller than this on its long side (the wall shows 1280)
 GALLERY_VERSION = 2  # galleries made with the drawing kinds and the size-aware lead
 FULL, THUMB = 1400, 520
 
@@ -171,9 +172,10 @@ def members(category, kind):
 def candidate_files(category):
     """Files in the category plus one level of useful sub-folders, tagged with the folder's name."""
     files = [(t, '') for t in members(category, 'file')]
+    few = len(files) < 40  # a thin folder keeps its photos in sub-folders: look in all of them
     for sub in members(category, 'subcat')[:25]:
         hint = sub.split(':', 1)[1]
-        if re.search(r'(interior|exterior|detail|facade|stair|roof|aerial|night|plan|section|elevation|drawing|sketch|model|maquette|garden|courtyard|views?)', hint, re.I):
+        if few or re.search(r'(interior|exterior|detail|facade|stair|roof|aerial|night|plan|section|elevation|drawing|sketch|model|maquette|garden|courtyard|views?)', hint, re.I):
             files += [(t, hint) for t in members(sub, 'file')[:80]]
     seen, uniq = set(), []
     for t, h in files:
@@ -231,7 +233,7 @@ def caption(kind, meta, b):
     return f'{kind} · {d.rstrip(".")}'
 
 
-JUNK = re.compile(r'(\bsign(post|board)?\b|plaque|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster)', re.I)
+JUNK = re.compile(r'(\bsign(post|board|age)?s?\b|plaque|cartello|panneau|schild\b|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster)', re.I)
 
 
 def score(info, b=None, title=''):
@@ -286,7 +288,7 @@ def lead_score(p, b):
             + (4 if names else 0) + (3 if p.get('soft') else 0) - (0 if names else 6 if SURROUNDINGS.search(text) else 0))
 
 
-def choose(b, files, info, skip, boost=(), soft=()):
+def choose(b, files, info, skip, boost=(), soft=(), keep=None):
     pool = eligible(b, files, info, skip, boost, soft)
     picks, per_author, stems, kinds = [], {}, {}, {}
 
@@ -302,9 +304,12 @@ def choose(b, files, info, skip, boost=(), soft=()):
         stems[stem_of(p)] = stems.get(stem_of(p), 0) + 1
         kinds[p['kind']] = kinds.get(p['kind'], 0) + 1
 
-    # the lead: the best big view of the outside
+    # the lead: the current one while it's sharp enough on the wall, else the best big view of the outside
+    kept = next((p for p in pool if p['title'] == keep and p['kind'] not in DRAWINGS), None)
     outside = sorted((p for p in pool if p['kind'] == 'Exterior'), key=lambda p: -lead_score(p, b))
-    if outside:
+    if kept and max(kept['info'].get('width', 0), kept['info'].get('height', 0)) >= KEEP_PX:
+        take(kept)
+    elif outside:
         take(outside[0])
     # then one of each photo kind, then fill by score within each kind's cap
     photos = [p for p in pool if p['kind'] not in DRAWINGS]
@@ -524,7 +529,8 @@ def main():
             auto, lead = commons_category(b)
             cat = ch.get('category') or auto
             print('    category:', cat, '| lead:', lead)
-            add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
+            old_lead = (b.get('images') or [{}])[0].get('file')
+            add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else []) + ([old_lead] if old_lead else [])
             files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
             if 'pick' in ch:  # an empty pick means no suitable free photos
                 picks = picked(b, ch)
@@ -533,7 +539,8 @@ def main():
             else:
                 # files added by hand win outright; Wikipedia's lead photo only gets a nudge, so a bigger,
                 # clearer view of the outside can still lead (it once put a church in front of the Millau Viaduct)
-                picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(ch.get('add', [])), {lead} if lead else set())
+                picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(ch.get('add', [])), {lead} if lead else set(),
+                               None if ch.get('relead') else old_lead)
             for t in ([] if 'pick' in ch else reversed(ch.get('add', []))):  # files added by hand go first
                 p = next((p for p in picks if p['title'] == t), None)
                 if p:
@@ -544,7 +551,6 @@ def main():
                 b['gv'] = GALLERY_VERSION
                 save(head, items)
                 continue
-            old_lead = (b.get('images') or [{}])[0].get('file')
             folder = IMG / b['id']
             for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
                 f.unlink()

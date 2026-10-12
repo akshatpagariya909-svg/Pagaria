@@ -1,10 +1,11 @@
 {
  "unite-dhabitation": {
   "category": "Category:Cité radieuse, Marseille",
-  "add": [
-   "File:Unité_d'habitation_Marseille,_France.jpg"
-  ],
   "pick": [
+   [
+    "File:Unité d'habitation Marseille, France.jpg",
+    "Exterior"
+   ],
    [
     "File:France, Bouches-du-Rhône (13), Marseille, 8ème arr. jardin de la Magalone.jpg",
     "Exterior"
@@ -890,35 +891,11 @@
   ]
  },
  "villa-savoye": {
-  "category": "Category:Villa Savoye"
+  "category": "Category:Villa Savoye",
+  "relead": true
  },
  "notre-dame-du-haut": {
-  "pick": [
-   [
-    "File:Notre-Dame du Haut (86745712).jpg",
-    "Exterior"
-   ],
-   [
-    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 26.jpg",
-    "Interior"
-   ],
-   [
-    "File:Chapelle intérieure rouge de la chapelle de Ronchamp octobre 2019.jpg",
-    "Interior"
-   ],
-   [
-    "File:Chapelle intérieure de la chapelle de Ronchamp octobre 2019.jpg",
-    "Interior"
-   ],
-   [
-    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 45.jpg",
-    "Interior"
-   ],
-   [
-    "File:Notre-Dame du Haut (86746486).jpg",
-    "Context"
-   ]
-  ]
+  "relead": true
  },
  "sainte-marie-de-la-tourette": {
   "pick": [
@@ -2139,11 +2116,11 @@
  "centre-pompidou": {
   "pick": [
    [
-    "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg",
+    "File:Centre Pompidou @ Jardin Anne-Frank.jpg",
     "Exterior"
    ],
    [
-    "File:Centre Pompidou @ Jardin Anne-Frank.jpg",
+    "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg",
     "Exterior"
    ],
    [
@@ -2753,12 +2730,7 @@
   ]
  },
  "bosco-verticale": {
-  "pick": [
-   [
-    "File:ComplessoPortaNuova.JPG",
-    "Context"
-   ]
-  ]
+  "relead": true
  },
  "zeitz-mocaa": {
   "pick": [
@@ -2997,6 +2969,16 @@
   ],
   "skip": [
    "File:St Christopher church in Peyre (4).jpg"
+  ]
+ },
+ "palais-garnier": {
+  "add": [
+   "File:Paris Opera full frontal architecture, May 2009.jpg"
+  ]
+ },
+ "glasgow-school-of-art": {
+  "add": [
+   "File:Wfm glasgow school of art.jpg"
   ]
  }
 }
