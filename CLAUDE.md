@@ -2,7 +2,8 @@
 
 A wall of buildings that architecture students wander instead of search, with free photos and links that take them deeper. The owner is new to coding. Explain things plainly, show designs before building them when asked, and keep the site's own text short.
 
-- Live site: https://akshatpagariya909-svg.github.io/Pagaria/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Live site: https://discoverarchitecture.github.io/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Repository: https://github.com/discoverarchitecture/discoverarchitecture.github.io (moved from akshatpagariya909-svg/Pagaria in Oct 2026; the old address forwards)
 - Design canvas (all artboards and decisions): https://claude.ai/artifact/SzZZi9iaMGvAX85z3zNEDK
 - Audience: architecture students. Favour modern, contemporary and parametric work, brutalism, regionalism and a few historic precedents.
 
