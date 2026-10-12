@@ -1,0 +1,75 @@
+# Photos in banner.png
+
+All public domain or CC0 from Wikimedia Commons, so no credit is required; listed here anyway.
+
+- Franklin D. Roosevelt Four Freedoms Park (Louis Kahn) · Asdf73 · Public domain · https://commons.wikimedia.org/wiki/File:Franklin_D._Roosevelt_Four_Freedoms_Park_from_Manhattan.png
+- Mountain Dwellings (BIG) · Orf3us · Public domain · https://commons.wikimedia.org/wiki/File:VM_Bjerget.JPG
+- Het Schip (Michel de Klerk) · Rijksmuseum · CC0 · https://commons.wikimedia.org/wiki/File:Eigen_Haard_Woningen,_RP-P-2010-222-2556.jpg
+- Rachid Karami International Fair (Oscar Niemeyer) · Matson Collection · Public domain · https://commons.wikimedia.org/wiki/File:German_Baghdad_Railway,_190_._Landing_place_at_Tripoli_built_especially_for_Germans_LOC_matpc.04676.jpg
+- S. R. Crown Hall (Mies van der Rohe) · Joe Ravi · Public domain · https://commons.wikimedia.org/wiki/File:Crown_Hall_2.jpg
+- Shanghai World Financial Center (Kohn Pedersen Fox) · GG001213 · CC0 · https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83.jpg
+- Trenton Bath House (Louis Kahn) · Smallbones · CC0 · https://commons.wikimedia.org/wiki/File:T_bath_house_corner.JPG
+- de Young Museum (Herzog & de Meuron) · Mark Miller · Public domain · https://commons.wikimedia.org/wiki/File:M._H._de_Young_Memorial_Museum.jpg
+- The Atheneum (Richard Meier) · Michael Gaebler · Public domain · https://commons.wikimedia.org/wiki/File:The_Atheneum,_New_Harmony,_Indiana,_1979.jpg
+- Philadelphia Museum of Art (Horace Trumbauer; Zantzinger, Borie and Medary) · unknown · Public domain · https://commons.wikimedia.org/wiki/File:Philadelphia_Museum_of_Art,_main_building.jpg
+- Beijing National Aquatics Center (PTW Architects) · Balon Greyjoy · CC0 · https://commons.wikimedia.org/wiki/File:20200109_Beijing_National_Aquatics_Centre-1.jpg
+- Museum of Applied Arts Frankfurt (Richard Meier) · User:FA2010 · Public domain · https://commons.wikimedia.org/wiki/File:Frankfurt_Museum_Angewandte_Kunst_2011.jpg
+- Parliament of Sri Lanka (Geoffrey Bawa) · Dennis Sylvester Hurd · CC0 · https://commons.wikimedia.org/wiki/File:New_Sri_Lankan_Parliament_in_Kotte.jpg
+- Heydar Aliyev Center (Zaha Hadid) · Avisadehh · CC0 · https://commons.wikimedia.org/wiki/File:HEIDAR_ALIYEV_CENTER_WIDE_ANGLE.%D7%96%D7%95%D7%95%D7%99%D7%AA_%D7%A8%D7%97%D7%91%D7%94_%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%99%D7%99%D7%93%D7%A8_%D7%90%D7%9C%D7%99%D7%99%D7%91.jpg
+- National Museum of Vietnamese History (Ernest Hebrard) · Alistair Morrenger · Public domain · https://commons.wikimedia.org/wiki/File:Vietnam_National_Museum_of_History,_Hanoi,_Vietnam.jpg
+- Euskalduna Conference Centre and Concert Hall (Federico Soriano and Dolores Palacios) · Zarateman · CC0 · https://commons.wikimedia.org/wiki/File:Bilbao_-_Euskalduna_1.JPG
+- Hvitträsk (Gesellius, Lindgren, Saarinen) · Jiivonen · Public domain · https://commons.wikimedia.org/wiki/File:Hvittrask-3.jpg
+- BT Tower (Eric Bedford) · David Castor ( dcastor ) · Public domain · https://commons.wikimedia.org/wiki/File:BT_Tower-1.jpg
+- Herz-Jesu-Kirche (Allmann Sattler Wappner) · Bjs · CC0 · https://commons.wikimedia.org/wiki/File:Muenchen-Herz-Jesu-bjs-2.jpg
+- Casa Gilardi (Luis Barragán) · Ulises00 · Public domain · https://commons.wikimedia.org/wiki/File:Casa_Giraldi_Luis_Barragan.JPG
+- Independence Palace (Ngo Viet Thu) · Balon Greyjoy · CC0 · https://commons.wikimedia.org/wiki/File:20190923_Independence_Palace-10.jpg
+- Centraal Beheer (Herman Hertzberger) · Apdency · CC0 · https://commons.wikimedia.org/wiki/File:Centraal_Beheer,_Hertzberger_(2).jpg
+- Alte Nationalgalerie (Friedrich August Stüler) · Manfred Brückels · Public domain · https://commons.wikimedia.org/wiki/File:AlteNationalgalerie_1a.jpg
+- Maison Blanche (Charles-Édouard Jeanneret (Le Corbusier)) · Tomleighmartin · CC0 · https://commons.wikimedia.org/wiki/File:MaisonBlancheLaChauxdeFondsCH1.jpg
+- Diamond Ranch High School (Morphosis, Thom Mayne) · Carol M. Highsmith · Public domain · https://commons.wikimedia.org/wiki/File:DiamondRanchHS_-_CarolHighsmith_-_4.jpg
+- Jardinette Apartments (Richard Neutra) · Junkyardsparkle · CC0 · https://commons.wikimedia.org/wiki/File:Jardinette_Apartments_aka_Marathon_Apartments_from_northwest_2015-05-03.jpg
+- Johnson Wax Headquarters (Frank Lloyd Wright) · Carol M. Highsmith · Public domain · https://commons.wikimedia.org/wiki/File:Building,_globe,_and_grounds_of_the_S.C._Johnson_and_son_headquarters_building,_designed_by_Frank_Lloyd_Wright,_Racine,_Wisconsin_LCCN2011634906.jpg
+- Towada Art Center (Ryue Nishizawa) · Angaurits · CC0 · https://commons.wikimedia.org/wiki/File:Towada_art_center.JPG
+- Jongmyo Shrine (Joseon builders) · Bgag · CC0 · https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_03.jpg
+- Kuala Lumpur International Airport (Kisho Kurokawa) · Eugene Ormandy · CC0 · https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_International_Airport_20240509.jpg
+- Douaumont Ossuary (Léon Azéma, Max Edrei and Jacques Hulot) · https://galeries.limedia.fr/ark:/31124/dkkg4vm8fqg1lvjp/ · Public domain · https://commons.wikimedia.org/wiki/File:Ossuaire_de_Douaumont,_Verdun_1914-1918_P-FG-CP-01050-13.jpg
+- Atatürk Cultural Center (Murat Tabanlioglu) · Kübradereli1 · CC0 · https://commons.wikimedia.org/wiki/File:Akm_Morning_Photo.jpg
+- Teatro Colon (Francesco Tamburini, Vittorio Meano) · EEJCC · CC0 · https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg
+- Thomas Jefferson Building, Library of Congress (Smithmeyer & Pelz) · National Photo Company, photographer's name not mentioned. · Public domain · https://commons.wikimedia.org/wiki/File:Auto_wreck,_USA,_1923.jpg
+- Darwin D. Martin House (Frank Lloyd Wright) · Dave Pape · Public domain · https://commons.wikimedia.org/wiki/File:Darwin_D._Martin_House.jpg
+- 30 Rockefeller Plaza (Raymond Hood) · David Shankbone · Public domain · https://commons.wikimedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG
+- Perth Arena (Ashton Raggatt McDougall) · Samuel Wiki · CC0 · https://commons.wikimedia.org/wiki/File:RAC_Arena,_October_2018.jpg
+- National Museum of Ethnology (Kisho Kurokawa) · 先従隗始 · CC0 · https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology_20201109_01.jpg
+- State Library Victoria (Joseph Reed) · No machine-readable author provided.  Donaldytong  assumed (based on copyright claims). · Public domain · https://commons.wikimedia.org/wiki/File:Melbourne_State_Library.jpg
+- Nagasaki Prefectural Art Museum (Kengo Kuma) · No machine-readable author provided.  Fusebok  assumed (based on copyright claims). · Public domain · https://commons.wikimedia.org/wiki/File:Nagasaki_art_museum_IMG_2093.JPG
+- Pavillon Suisse (Le Corbusier) · Agence Rol. Agence photographique (commanditaire) · Public domain · https://commons.wikimedia.org/wiki/File:(7-7-33,_inauguration_du)_pavillon_suisse_(de_la)_cit%C3%A9_(internationale)_universitaire_(de_Paris)_-_btv1b53276782v.jpg
+- Fallingwater (Frank Lloyd Wright) · lachrimae72 · CC0 · https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg
+- Cathedral of Learning (Charles Klauder) · Pjah73  at  English Wikipedia · Public domain · https://commons.wikimedia.org/wiki/File:CathoLearn.jpg
+- Messner Mountain Museum Corones (Zaha Hadid Architects) · Ordercrazy · CC0 · https://commons.wikimedia.org/wiki/File:Aussenfenster_(MMM_Corones)_(06).jpg
+- Asian Art Museum of San Francisco (Gae Aulenti) · LPS.1 · CC0 · https://commons.wikimedia.org/wiki/File:Terracotta_Warriors_Exhibition_San_Francisco_2013.jpg
+- Tokyo Metropolitan Gymnasium (Fumihiko Maki) · MaedaAkihiko · CC0 · https://commons.wikimedia.org/wiki/File:Tokyo-Metropolitan-Gymnasium_Entrance.jpg
+- Diözesanmuseum Paderborn (Gottfried Böhm) · Alexander Pelzer · Public domain · https://commons.wikimedia.org/wiki/File:Paderborn_Dioezesanmuseum.jpg
+- Smithdon High School (Alison and Peter Smithson) · unknown · Public domain · https://commons.wikimedia.org/wiki/File:Smithdon_High_School,_2006.jpg
+- Ontario Science Centre (Raymond Moriyama) · BuBZ  at  English Wikipedia · Public domain · https://commons.wikimedia.org/wiki/File:0OSC_Sept23_06.jpg
+- Marin County Civic Center (Frank Lloyd Wright) · Fizbin  at  en.wikipedia · Public domain · https://commons.wikimedia.org/wiki/File:Marin_Civic_Center.jpg
+- Claudio Santoro National Theatre (Oscar Niemeyer) · Luis Dantas · Public domain · https://commons.wikimedia.org/wiki/File:Teatro_Nacional_Claudio_Santoro_02.jpg
+- IDS Center (Philip Johnson and John Burgee) · Mulad · Public domain · https://commons.wikimedia.org/wiki/File:IDS_reflecting_Wells_Fargo.jpg
+- Grand National Assembly of Turkey (Clemens Holzmeister) · Yıldız Yazıcıoğlu · Public domain · https://commons.wikimedia.org/wiki/File:S%C3%BCleyman_Demirel_Funeral_1.jpg
+- Oscar Niemeyer Museum (Oscar Niemeyer) · Wilfredor · CC0 · https://commons.wikimedia.org/wiki/File:African_Balafon_in_Museu_Oscar_Niemeyer.jpg
+- Kimbell Art Museum (Louis Kahn) · Carol M. Highsmith · Public domain · https://commons.wikimedia.org/wiki/File:Kimbell_Art_Museum_Dusk_Highsmith.jpg
+- MASP (Lina Bo Bardi) · Wilfredor · CC0 · https://commons.wikimedia.org/wiki/File:MASP_Brazil.jpg
+- Padre Pio Pilgrimage Church (Renzo Piano) · Nikzia · Public domain · https://commons.wikimedia.org/wiki/File:Chiesa_San_Pio_da_Pietrelcina.JPG
+- Faculty of Languages, History and Geography (Bruno Taut) · Ankara University · CC0 · https://commons.wikimedia.org/wiki/File:Ankara_%C3%9Cniversitesi_11.jpg
+- Palazzetto dello Sport (Pier Luigi Nervi, Annibale Vitellozzi) · Mikpola · CC0 · https://commons.wikimedia.org/wiki/File:Wiki-concrete_editathon_at_MAXXI,_Rome,_June_2025_60.jpg
+- Hochhaus an der Weberwiese (Hermann Henselmann) · No machine-readable author provided.  Gryffindor  assumed (based on copyright claims). · Public domain · https://commons.wikimedia.org/wiki/File:Weberwiese_Berlin_April_2006_147.jpg
+- Museo Soumaya (Fernando Romero) · Gadi-kab · CC0 · https://commons.wikimedia.org/wiki/File:Fachada_Museo_Soumaya_0.5.jpg
+- Saint Louis Art Museum, East Building (David Chipperfield Architects) · unknown · Public domain · https://commons.wikimedia.org/wiki/File:St_louis_Art_Museum.jpg
+- Cadet Chapel, US Air Force Academy (Walter Netsch (SOM)) · Carol M. Highsmith · Public domain · https://commons.wikimedia.org/wiki/File:Air_Force_Academy_Chapel,_Colorado_Springs,_CO_04090u_original.jpg
+- Skopje Railway Station (Kenzō Tange) · Jan Pešula · CC0 · https://commons.wikimedia.org/wiki/File:Skopje_station_disused_platform.JPG
+- Soreq Nuclear Research Center (Philip Johnson) · Fritz Cohen · Public domain · https://commons.wikimedia.org/wiki/File:Soreq_Nuclear_Reactor_1960.jpg
+- Hipodromo do Cristal (Roman Fresnedo Siri) · Xnak  at  Portuguese Wikipedia · Public domain · https://commons.wikimedia.org/wiki/File:Hipodromocristal.jpg
+- Moderna Museet (Rafael Moneo) · No machine-readable author provided.  Kalle1~commonswiki  assumed (based on copyright claims). · Public domain · https://commons.wikimedia.org/wiki/File:Moderna_museet,_2006.jpg
+- Cathedral of Saint Mary of the Assumption (Pietro Belluschi and Pier Luigi Nervi) · Gndawydiak  at  English Wikipedia · Public domain · https://commons.wikimedia.org/wiki/File:St_Mary%27s_Cathedral_-_San_Francisco.jpg
+- Hollyhock House (Frank Lloyd Wright) · Shulman, Julius · Public domain · https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_Hollyhock_House,_Los_Angeles,_1921_(shulman-1997-JS-217-ISLA).jpg
+- Tour Duo (Ateliers Jean Nouvel) · Wozart · CC0 · https://commons.wikimedia.org/wiki/File:Les_tours_Duo_c%C3%B4t%C3%A9_Seine.jpg
+- CCTV Headquarters (OMA) · CNHowey · CC0 · https://commons.wikimedia.org/wiki/File:Beijing_CCTV_building.jpg
