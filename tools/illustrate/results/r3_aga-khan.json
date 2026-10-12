@@ -514,5 +514,134 @@
    "https://en.wikipedia.org/wiki/Aga_Khan_Award_for_Architecture"
   ],
   "note": "Year 1987 from memory (Patel's first major work, designed 1985); check. Wikipedia's list says Ahmedabad; the campus is at Bhat, Gandhinagar district. The 'Public domain' licence on EDII03 should be double-checked on its file page."
+ },
+ {
+  "id": "yaama-mosque",
+  "name": "Yaama Mosque",
+  "by": "El Hadji Falké Barmou",
+  "city": "Yaama",
+  "cc": "NE",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Mud-brick hall with a central dome and four tapering corner towers, banded and crowned, built by its own village.",
+  "award": "Aga Khan Award 1986",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: the low prayer hall with its half-circle crenellations, the central dome behind, and the two front corner towers",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yamma_Mosque",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/yaama-mosque",
+   "https://mosqpedia.org/en/mosque/1434"
+  ],
+  "note": "No photo on Commons (also searched as 'Yamma'). Sources give: rectangular hypostyle hall begun 1962, central dome and four corner towers added later, towers with banded tapering walls more elaborate toward the pinnacle, parapet of half-circle crenellations. No dimensions are published, so tower and dome heights are proportioned from memory of published photos and may be off; the towers' top ornament is simplified to a ring of small crenellations and a rounded cone."
+ },
+ {
+  "id": "royal-netherlands-embassy-addis-ababa",
+  "name": "Royal Netherlands Embassy, Addis Ababa",
+  "by": "Dick van Gameren, Bjarne Mastenbroek",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "year": "2005",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "A 140 m bar of red-ochre concrete laid level across a sloping eucalyptus grove, with a shallow pond on the roof.",
+  "award": "Aga Khan Award 2007",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long side elevation: the level two-storey bar over the falling ground, with the floor line and the roof pond's edge",
+  "after": null,
+  "sources": [
+   "https://www.mecanoo.nl/Projects/project/72/Ethiopia-Dutch-Embassy",
+   "https://www.search.nl/works/dutch-embassy/",
+   "https://arquitecturaviva.com/works/embajada-holandesa-addis-abeba-"
+  ],
+  "note": "No photo on Commons. Sources give 140 x 15 m, two floors both reachable from the ground thanks to the slope, red-tinted concrete walls, floors and ceilings, a roof designed as a shallow pond, and a driveway passing through the building at first-floor level. The driveway's position and the window pattern are not published in what I could read, so they are left out; the drawing is deliberately minimal. Architects worked as de Architectengroep (some sources credit Mecanoo for Van Gameren)."
+ },
+ {
+  "id": "mbaru-niang-wae-rebo",
+  "name": "Mbaru Niang, Wae Rebo",
+  "by": "Yori Antar with the Wae Rebo community",
+  "city": "Wae Rebo",
+  "cc": "ID",
+  "year": "2011",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Cluster"
+  ],
+  "features": "Tall conical houses of timber and thatch, rebuilt by the villagers with their ancestral techniques.",
+  "award": "Aga Khan Award 2013 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Mbaru Niang",
+  "photos": [
+   {
+    "file": "File:Rumah Adat Mbaru Niang.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:WAE - Central area of Wae Rebo village, Flores, Indonesia, 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.metalocus.es/en/news/20-projects-shortlisted-aga-khan-award-architecture-2013"
+  ],
+  "note": "Shortlisted as 'Reconstruction of Mbaru Niang'. Architect credit (Yori Antar, Rumah Asuh) and 2011 completion are from memory; check. It is a vernacular reconstruction, so 'Historic precedent' fits best in the vocabulary."
+ },
+ {
+  "id": "royal-academy-for-nature-conservation",
+  "name": "Royal Academy for Nature Conservation",
+  "by": "Ammar Khammash",
+  "city": "Ajloun",
+  "cc": "JO",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Climate response"
+  ],
+  "features": "Stone building set into the forested hillside of the Ajloun reserve, entered across a bridge.",
+  "award": "Aga Khan Award 2016 shortlist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Royal Academy for natural Reservation at Ajloun.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.world-architects.com/ca/architecture-news/headlines/shortlist-for-2016-aga-khan-award"
+  ],
+  "note": "Only one free photo (4032x3024), a night view of the stone wall and entrance bridge. Year 2014 from memory; check."
  }
 ]
