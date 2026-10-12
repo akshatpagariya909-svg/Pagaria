@@ -13,10 +13,10 @@ END = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 
 
 t_or = at('you', 14.0)
 t_shuffle = at('shuffle'); t_surprise = at('surprise'); t_photos = at('photos'); t_couple = at('couple'); t_links = at('links')
-t_dumb = at('dumbed'); t_light = at('light'); t_court = at('courtyard'); t_type = at('type', 62); t_mov = at('movement'); t_reg = at('region'); t_etc = at('etc')
+t_dumb = at('dumbed'); t_light = at('light'); t_court = at('courtyard'); t_type = at('type', 62); t_mov = at('movement'); t_reg = at('region'); t_etc = (lambda: at('etc'))() if any(x[0].lower().startswith('etc') for x in words) else at('more', 63)
 t_all = at('All', 66); t_still = at("It's", 69); t_link = at('Link', 72)
 mo, mf, ms = marks('open'), marks('filters'), marks('shuffle')
-open_start = t_surprise - 1.0; shuffle_start = t_shuffle - 1.0; filt_start = at('And', 57)
+open_start = t_surprise - 1.0; shuffle_start = t_shuffle - 1.0; filt_start = at('And', 56.5)
 
 # (clip, audio_start, audio_end, anchors: [(clip_time, audio_time)])
 PLAN = [

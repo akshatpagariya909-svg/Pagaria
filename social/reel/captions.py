@@ -6,8 +6,9 @@ out = []; i = 0
 while i < len(w):
     t, a, b = w[i]
     nxt = w[i + 1][0] if i + 1 < len(w) else ''
-    if t == 'Arc' and nxt.startswith('Daily'):
+    if t in ('Arc', 'Arch') and nxt.lower().startswith('daily'):
         out.append(['ArchDaily' + nxt[5:], a, w[i + 1][2]]); i += 2; continue
+    if t.lower().startswith('archdaily'): t = 'ArchDaily' + t[9:]
     if t and all(ch in ',.' for ch in t):          # stray punctuation: attach to previous word
         if out and out[-1][0][-1] not in ',.': out[-1][0] += t[0]
         i += 1; continue
