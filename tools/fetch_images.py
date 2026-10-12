@@ -39,7 +39,7 @@ NOT_A_PHOTO = re.compile(r'(logo|map\b|locator|flag|coat of arms|seal|icon|\.svg
 # Words in English, German, French, Spanish, Italian and Portuguese; Commons categories count too.
 DRAWINGS = ['Plan', 'Section', 'Elevation', 'Sketch', 'Model', 'Drawing']
 KINDS = [
-    ('Model', re.compile(r'(\bmodels? of\b|scale model|architectural model|\bmaquettes?\b|\bmaqueta\b|\bmodell\b|\bmodello\b|\bmodelo\b)', re.I)),
+    ('Model', re.compile(r'(\bmodels? of\b|scale model|\bmodel\b|modellino|miniatur|architectural model|\bmaquettes?\b|\bmaqueta\b|\bmodell\b|\bmodello\b|\bmodelo\b)', re.I)),
     ('Plan', re.compile(r'(floor ?plans?|site plan|ground plan|\bplans? of\b|\bgrundriss|\bplanta\b|\bplano\b|\bpianta\b|\bplan (du|de|of)\b|\bplan\b(?! view))', re.I)),
     ('Section', re.compile(r'(\bcross[- ]?section|\bsections? of\b|\bsection\b|\bschnitt\b|\bcoupe (transversale|longitudinale|de|du|sur)\b|\bsecci[oó]n\b|\bsezione\b|\bcortes? (transversal|longitudinal)\b)', re.I)),
     ('Elevation', re.compile(r'(\belevations? of\b|\belevation\b|\bansicht\b|\baufriss\b|\bal[cç]ado\b|\balzado\b|\bprospetto\b)', re.I)),
@@ -216,10 +216,17 @@ def strip(v):
     return html.unescape(re.sub(r'<[^>]+>', ' ', str(v))).strip()
 
 
-def describe(title, hint, meta, cats=''):
+PHOTO_OF = re.compile(r'(looking (north|south|east|west|up|down)|photograph)', re.I)  # "front elevation, looking north" is a photo
+
+
+def describe(title, hint, meta, cats='', city=''):
     named = ' '.join([title, hint, cats])  # a drawing must say so in its name or folders, not just in passing
+    if city:  # Farnsworth House is in Plano: a town's name isn't a plan
+        named = re.sub(r'\b' + re.escape(city) + r'\b', ' ', named, flags=re.I)
     text = ' '.join([named, strip(meta.get('ImageDescription'))[:300]])
     for name, rx in KINDS:
+        if name in DRAWINGS and PHOTO_OF.search(title):
+            continue
         if rx.search(named if name in DRAWINGS else text):
             return name
     return 'Exterior'
@@ -259,7 +266,7 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
             continue
         meta = i.get('extmetadata', {})
         lic = strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms'))
-        kind = describe(t, hint, meta, i.get('cats', ''))
+        kind = describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
         drawing = kind in DRAWINGS
         if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif') if drawing else ('image/jpeg', 'image/png')):
             continue
