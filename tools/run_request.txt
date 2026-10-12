@@ -1,2 +1,2 @@
-python -u tools/fetch_images.py --probe --only villa-savoye,unite-dhabitation,notre-dame-du-haut,bosco-verticale,pinacoteca-do-estado-de-sao-paulo
-List the Commons folders for five buildings whose lead photo is still wrong.
+python -u tools/fetch_portraits.py
+Find free portraits (PD, CC0, CC BY, CC BY-SA) for each building's architect, for the Architect filter tab. Asked for by the owner via the Design chat.
