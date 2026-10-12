@@ -6,6 +6,11 @@
   const LINKS = window.LINKS || {};
   const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
   const TOTAL = ALL.length;
+  // Books (data/books.js): each knows its shelf, its tags, the architects it is about and the buildings on the wall it goes with.
+  const BOOKS = (window.BOOKS || []).map(b => ({ ...b, kind: 'book' }));
+  const SHELVES = [...new Set(BOOKS.map(b => b.shelf))];
+  // Shop links. Put an Amazon Associates tag here once the account is live; the disclosure line then shows itself.
+  const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
   const GROUPS = [{ key: 'concepts', all: true }, { key: 'type' }, { key: 'movement' }, { key: 'region' }, { key: 'country' }, { key: 'arch' }];
   // Fields the filter panel uses: country code, first credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
@@ -23,7 +28,7 @@
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
   const state = {
-    q: '', seed: 11, ncols: 0,
+    q: '', seed: 11, ncols: 0, mode: 'buildings', shelf: null,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
     open: null, shot: 0, seen: new Set(), lastTile: null,
     booting: true, unwinding: false
@@ -40,9 +45,15 @@
   function shuffled(arr, r) { const a = arr.slice(); for (let k = a.length - 1; k > 0; k--) { const j = Math.floor(r() * (k + 1)); [a[k], a[j]] = [a[j], a[k]]; } return a; }
   // Height per unit of width. Kept between a wide 3:2 crop and a tall 2:3, so no tile turns into a sliver.
   function ratioOf(b) {
+    if (b.kind === 'book') { const c = b.cover; return c && c.w ? Math.max(1.1, Math.min(1.75, c.h / c.w)) : 1.5; }
     const im = (b.images || [])[0];
     return im && im.w ? Math.max(2 / 3, Math.min(1.5, im.h / im.w)) : 0.75;
   }
+  // Space a tile takes in its column, per unit of width: the photo or cover, plus a book's caption underneath.
+  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06);
+  const keyOf = x => x.kind === 'book' ? 'book:' + x.id : x.id;
+  const thumbOf = x => x.kind === 'book' ? (x.cover ? x.cover.thumb : '') : (x.images && x.images[0] ? x.images[0].thumb : '');
+  const nameOf = x => x.kind === 'book' ? x.title : x.name;
   function columnCount() {
     const w = cols.clientWidth;
     return Math.max(2, Math.min(6, Math.floor((w + GAP) / (MIN_COL + GAP))));
@@ -52,6 +63,7 @@
   const values = (b, key) => (Array.isArray(b[key]) ? b[key] : [b[key]]);
   // skip: leave one group out, so the filter panel can count what each of its options would add
   function matches(b, skip) {
+    if (b.kind === 'book') return matchesBook(b);
     for (const g of GROUPS) {
       const set = state.filters[g.key];
       if (g.key === skip || !set.size) continue;
@@ -64,7 +76,14 @@
     const hay = fold([b.name, b.by, b.place, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
   }
-  const visible = () => ALL.filter(matches);
+  function matchesBook(b) {
+    if (state.shelf && b.shelf !== state.shelf) return false;
+    if (!state.q) return true;
+    const hay = fold([b.title, b.by, b.year, b.shelf, b.why, (b.tags || []).join(' '), (b.architects || []).join(' ')].join(' '));
+    return state.q.split(/\s+/).every(w => hay.includes(w));
+  }
+  const items = () => state.mode === 'books' ? BOOKS : ALL;
+  const visible = () => items().filter(matches);
 
   /* ---------- tiles ---------- */
   const tiles = new Map();
@@ -74,9 +93,26 @@
     const tag = im.kind === 'Drawing' ? '<span class="dtag">Drawing, not a photo</span>' : '';
     return `<img src="${esc(im.thumb)}" alt="" loading="lazy" decoding="async">${tag}`;
   }
+  // A book with no cover yet shows its title set in the site's own type.
+  function coverHtml(b) {
+    const c = b.cover;
+    if (c) return `<img src="${esc(c.thumb)}" alt="" loading="lazy" decoding="async">`;
+    return `<span class="standin"><span class="tt">${esc(b.title)}</span><span class="au">${esc(b.by)}</span></span>`;
+  }
+  function bookTileEl(b) {
+    const el = document.createElement('div');
+    el.className = 'bt';
+    el.dataset.id = b.id;
+    el.style.setProperty('--ar', ratioOf(b));
+    el.innerHTML = `<button type="button" class="open" aria-label="${esc(b.title)}, ${esc(b.by)}, ${esc(b.year)}"><span class="cv">${coverHtml(b)}</span>` +
+      `<span class="bcap"><b>${esc(b.title)}</b><span class="by">${esc(b.by)}</span><span class="r2">${esc(b.year)} · ${esc(b.shelf)}</span></span></button>`;
+    el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el));
+    return el;
+  }
   function tileEl(b) {
-    let el = tiles.get(b.id);
+    let el = tiles.get(keyOf(b));
     if (el) return el;
+    if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
     const n = (b.images || []).length;
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
     el = document.createElement('div');
@@ -117,7 +153,7 @@
       const b = f.list[f.next];
       const c = f.heights.indexOf(Math.min(...f.heights));
       f.colEls[c].appendChild(tileEl(b));
-      f.heights[c] += ratioOf(b) + 0.06;
+      f.heights[c] += heightOf(b);
     }
     $('more').hidden = f.next >= f.list.length;
   }
@@ -132,7 +168,8 @@
     cols.replaceChildren(...feedState.colEls);
     addBatch();
     $('empty').hidden = list.length > 0;
-    $('count').textContent = list.length === TOTAL ? `${TOTAL.toLocaleString('en')} buildings` : `${list.length.toLocaleString('en')} of ${TOTAL.toLocaleString('en')}`;
+    const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
+    $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
@@ -226,7 +263,7 @@
   const relHtml = list => list.map(x => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(x.year)} · ${esc(x.place.split(',')[0])}</small></button>`).join('');
 
   function showShot(k) {
-    const b = state.open; if (!b) return;
+    const b = state.open; if (!b || b.kind === 'book') return;
     const ims = b.images || [];
     const stage = $('stage');
     if (!ims.length) {
@@ -267,23 +304,27 @@
      Back arrow both walk back through them, and going back from the first one closes it. A step remembers its
      building, whether it was a surprise, how many steps came before it in this run (step) and the one before (prev). */
   const here = () => (history.state && history.state.da ? history.state : null);
-  function remember(b, surprise, wasOpen) {
+  function remember(key, surprise, wasOpen) {
     const cur = wasOpen ? here() : null;
-    const made = !here() && location.hash === '#' + b.id; // the browser already made this entry (the address was typed or linked)
-    const entry = cur ? { da: true, id: b.id, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
-                      : { da: true, id: b.id, surprise: !!surprise, step: 0, prev: null, pushed: !state.booting };
+    const made = !here() && location.hash === '#' + key; // the browser already made this entry (the address was typed or linked)
+    const entry = cur ? { da: true, id: key, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
+                      : { da: true, id: key, surprise: !!surprise, step: 0, prev: null, pushed: !state.booting };
     try {
-      if (state.booting || made) history.replaceState(entry, '', '#' + b.id);
-      else history.pushState(entry, '', '#' + b.id);
+      if (state.booting || made) history.replaceState(entry, '', '#' + key);
+      else history.pushState(entry, '', '#' + key);
     } catch (e) { /* some embedded frames forbid it */ }
   }
 
   function openBuilding(id, surprise, fromEl, fromHistory) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
-    if (!fromHistory && !(state.open && state.open.id === b.id)) remember(b, surprise, !sheet.hidden);
+    if (!fromHistory && !(state.open && state.open === b)) remember(b.id, surprise, !sheet.hidden);
     state.open = b; state.seen.add(b.id);
     state.lastTile = fromEl || tiles.get(b.id) || null;
+    card.classList.remove('book');
+    $('where').hidden = false; $('pageLink').hidden = false; $('shopNote').hidden = true;
+    $('linksTitle').textContent = 'Go deeper';
+    $('chipsHint').textContent = 'Each opens every building that shares the idea.';
 
     $('strip').innerHTML = (b.images || []).map((im, k) =>
       `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
@@ -328,16 +369,118 @@
     updateStep();
   }
 
+  /* ---------- opened book ---------- */
+  // Each book also knows the architects it is about and the buildings it names (architects[], buildings[] in data/books.js),
+  // so the opened building can point to its books later. That page is not built yet.
+  const relBooksHtml = list => list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="ph">${coverHtml(k)}</span>${esc(k.title)}<small>${esc(k.by)} · ${esc(k.year)}</small></button>`).join('');
+  function portraitByName(name) {
+    for (const p of Object.values(ARCH.people)) if (p.thumb && p.name === name) return p;
+    return null;
+  }
+  function bylineBookHtml(k) {
+    const who = (k.architects || [])[0], p = who ? portraitByName(who) : null;
+    const n = who ? ALL.filter(x => byOf(x).includes(who)).length : 0;
+    const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : '';
+    const text = `<span class="by-text"><i>by</i><b>${esc(k.by)}</b>${n ? `<span class="see">${esc(who)} on the wall: ${n} building${n > 1 ? 's' : ''} →</span>` : ''}</span>`;
+    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
+    return (n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+  }
+  function bookLinks(k) {
+    const a = k.by.split(/,| and |\(/)[0].trim(), s = q(k.title + ' ' + a);
+    return [
+      ['Buy', 'Amazon', `https://www.${SHOP.amazon}/s?k=${s}&i=stripbooks${SHOP.tag ? '&tag=' + SHOP.tag : ''}`],
+      ['Buy', 'Bookshop.org', `https://bookshop.org/search?keywords=${s}`],
+      ['Borrow or read', 'Open Library', k.ol ? `https://openlibrary.org/works/${k.ol}` : `https://openlibrary.org/search?q=${s}`],
+      ['Find in a library', 'WorldCat', `https://search.worldcat.org/search?q=${s}`],
+      ['Preview', 'Google Books', `https://www.google.com/search?tbm=bks&q=${s}`]
+    ];
+  }
+  function showCover(k) {
+    const stage = $('stage'), c = k.cover;
+    stage.innerHTML = c ? `<img src="${esc(c.thumb)}" alt="Cover of ${esc(k.title)}">` : coverHtml(k);
+    if (c) { // the small thumbnail at once, then the full cover from Open Library when it arrives
+      const full = new Image();
+      full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === c.thumb) img.src = c.src; };
+      full.src = c.src;
+    }
+    $('gCap').innerHTML = c ? `<span class="c">Cover</span><span class="l">From Open Library · <a href="${esc(c.source)}" target="_blank" rel="noopener">source</a></span>` : `<span class="l">No cover found yet</span>`;
+    $('strip').innerHTML = '';
+    $('gPrev').hidden = $('gNext').hidden = true;
+  }
+  // Buildings a book goes with: the ones it names, then everything on the wall by the architects it is about.
+  function buildingsOf(k) {
+    const out = (k.buildings || []).map(id => ALL.find(x => x.id === id)).filter(Boolean);
+    for (const a of k.architects || []) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
+    return out;
+  }
+  const sameShelf = k => BOOKS.filter(x => x !== k && x.shelf === k.shelf)
+    .sort((x, y) => (y.tags || []).filter(t => (k.tags || []).includes(t)).length - (x.tags || []).filter(t => (k.tags || []).includes(t)).length || x.y - y.y);
+
+  function openBook(id, surprise, fromEl, fromHistory) {
+    const k = BOOKS.find(x => x.id === id);
+    if (!k) return;
+    if (!fromHistory && !(state.open && state.open === k)) remember(keyOf(k), surprise, !sheet.hidden);
+    state.open = k; state.seen.add(keyOf(k));
+    state.lastTile = fromEl || tiles.get(keyOf(k)) || null;
+    card.classList.add('book');
+    showCover(k);
+    const kick = $('bKicker');
+    kick.textContent = surprise ? 'You came looking for nothing. You found:' : [k.shelf, (k.tags || [])[0]].filter(Boolean).join(' · ');
+    kick.classList.toggle('surprise', !!surprise);
+    $('bName').textContent = k.title;
+    $('byline').innerHTML = bylineBookHtml(k);
+    $('where').hidden = true;
+    $('bMeta').innerHTML = `First published ${esc(k.year)}${k.isbn ? ` · ISBN ${esc(k.isbn)}` : ''}`;
+    $('bStudy').innerHTML = `<span>Why read it</span>${esc(k.why)}`;
+    $('pageLink').hidden = true;
+    $('linksTitle').textContent = 'Get it';
+    $('links').innerHTML = bookLinks(k).map(([kind, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
+    $('shopNote').hidden = !SHOP.tag;
+    const built = buildingsOf(k), who = (k.architects || [])[0];
+    $('byArch').hidden = !built.length;
+    $('byArchTitle').textContent = who ? `On the wall · by ${who}` : 'On the wall';
+    $('byArchAll').hidden = !who;
+    $('byArchAll').textContent = `All ${built.length} →`;
+    $('byArchAll').dataset.arch = who || '';
+    $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
+    const kin = sameShelf(k);
+    $('sameType').hidden = !kin.length;
+    $('sameTypeTitle').textContent = 'More on this shelf · ' + k.shelf;
+    $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
+    $('sameTypeAll').dataset.type = '';
+    $('sameTypeAll').dataset.shelf = k.shelf;
+    $('sameTypeRel').innerHTML = relBooksHtml(kin.slice(0, 3));
+    $('bChips').innerHTML = `<button type="button" class="chip" data-shelf="${esc(k.shelf)}">${esc(k.shelf)} <span class="n">→</span></button>` +
+      (k.tags || []).map(t => `<button type="button" class="chip quiet" data-tag="${esc(t)}">${esc(t)} <span class="n">→</span></button>`).join('');
+    $('chipsHint').textContent = 'The shelf opens the books wall; each tag searches it.';
+
+    if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); }
+    sheet.hidden = false;
+    document.body.classList.add('locked');
+    updateDock();
+    card.querySelector('.info').scrollTop = 0;
+    card.focus({ preventScroll: true });
+    updateStep();
+  }
+  // A step in the history, a hash or a tile key names either a building or a book ("book:<id>").
+  const findAny = key => key && key.startsWith('book:') ? BOOKS.find(x => x.id === key.slice(5)) : ALL.find(x => x.id === key);
+  function openAny(key, surprise, fromHistory) {
+    if (key && key.startsWith('book:')) { if (state.mode !== 'books') setMode('books'); openBook(key.slice(5), surprise, null, fromHistory); }
+    else openBuilding(key, surprise, null, fromHistory);
+  }
+
   // Previous and next follow the wall's own order, after filters and search.
   function updateStep() {
     const list = feedState.list, i = state.open ? list.indexOf(state.open) : -1;
     $('step').hidden = i < 0 || list.length < 2;
     if (i < 0) return;
+    const noun = state.mode === 'books' ? 'book' : 'building';
     const fill = (btn, x, label) => {
       btn.disabled = !x;
-      btn.setAttribute('aria-label', x ? `${label} building: ${x.name}` : `No ${label.toLowerCase()} building`);
-      btn.querySelector('img').src = x && x.images[0] ? x.images[0].thumb : '';
-      btn.querySelector('b').textContent = x ? x.name : (label === 'Next' ? 'End of the list' : 'Start of the list');
+      btn.setAttribute('aria-label', x ? `${label} ${noun}: ${nameOf(x)}` : `No ${label.toLowerCase()} ${noun}`);
+      const img = btn.querySelector('img'), src = x ? thumbOf(x) : '';
+      img.src = src; img.style.visibility = src ? '' : 'hidden';
+      btn.querySelector('b').textContent = x ? nameOf(x) : (label === 'Next' ? 'End of the list' : 'Start of the list');
     };
     fill($('sPrev'), list[i - 1], 'Previous');
     fill($('sNext'), list[i + 1], 'Next');
@@ -348,7 +491,7 @@
     if (i < 0 || !b) return;
     while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
     state.stepped = true;
-    openBuilding(b.id);
+    openAny(keyOf(b));
   }
 
   const dropHash = () => { try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ } };
@@ -373,7 +516,7 @@
   window.addEventListener('popstate', e => {
     if (state.unwinding) { state.unwinding = false; if (location.hash) dropHash(); return; }
     const h = e.state && e.state.da ? e.state : null;
-    if (h) openBuilding(h.id, h.surprise, null, true);
+    if (h) openAny(h.id, h.surprise, true);
     else if (!sheet.hidden) hideSheet();
   });
 
@@ -388,19 +531,32 @@
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
   $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => { const t = e.target.closest('button[data-id]'); if (t) openBuilding(t.dataset.id); }));
+  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => {
+    const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
+    if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
+  }));
   // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
   function showOnWall(arch, type) {
+    setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     if (type) state.filters.type.add(type);
     $('q').value = arch || ''; state.q = fold(arch || '');
     closeBuilding(); refreshFilters(); render(true);
   }
+  // The books wall, searched for a word or narrowed to one shelf.
+  function showBooks(text, shelf) {
+    setMode('books', true);
+    state.shelf = shelf || null;
+    $('q').value = text || ''; state.q = fold(text || '');
+    closeBuilding(); render(true);
+  }
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
   $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
-  $('sameTypeAll').addEventListener('click', e => showOnWall('', e.currentTarget.dataset.type));
+  $('sameTypeAll').addEventListener('click', e => { const d = e.currentTarget.dataset; if (d.shelf) showBooks('', d.shelf); else showOnWall('', d.type); });
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
+    if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
+    if (t.dataset.tag) return showBooks(t.dataset.tag);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     state.filters[t.dataset.g].add(t.dataset.v);
     state.q = ''; $('q').value = '';
@@ -420,14 +576,21 @@
     return c;
   };
   function renderIdeas() {
+    if (state.mode === 'books') {
+      const n = new Map(); BOOKS.forEach(b => n.set(b.shelf, (n.get(b.shelf) || 0) + 1));
+      $('ideasList').innerHTML = `<span class="lead">Shelves</span>` + SHELVES.map(v =>
+        `<button type="button" class="idea" aria-pressed="${state.shelf === v}" data-shelf="${esc(v)}">${esc(v)} <small>${n.get(v)}</small></button>`).join('');
+      return;
+    }
     const c = counts('concepts');
     const top = [...c.entries()].filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).map(([v]) => v);
     const on = state.filters.concepts;
-    $('ideas').innerHTML = `<span class="lead">Browse by idea</span>` + top.map(v =>
+    $('ideasList').innerHTML = `<span class="lead">Browse by idea</span>` + top.map(v =>
       `<button type="button" class="idea" aria-pressed="${on.has(v)}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
   }
   $('ideas').addEventListener('click', e => {
     const t = e.target.closest('.idea'); if (!t) return;
+    if (t.dataset.shelf) { state.shelf = state.shelf === t.dataset.shelf ? null : t.dataset.shelf; render(true); return; }
     const set = state.filters.concepts, v = t.dataset.v;
     const only = set.size === 1 && set.has(v);
     set.clear();
@@ -445,24 +608,44 @@
     if (open) refreshFilters();
   }
   $('filterBtn').addEventListener('click', () => toggleFilters());
+  // Buildings or Books: the same bar, search and dock work on whichever wall is on.
+  function setMode(mode, quiet) {
+    if (state.mode === mode) return;
+    state.mode = mode;
+    const books = mode === 'books';
+    $('modeBuildings').setAttribute('aria-pressed', !books);
+    $('modeBooks').setAttribute('aria-pressed', books);
+    $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
+    $('filterBtn').hidden = books;
+    $('allLink').hidden = books;
+    toggleFilters(false);
+    if (!quiet) render(true);
+  }
+  // On a phone the switch moves out of the crowded top bar into the row below it.
+  const narrow = window.matchMedia('(max-width: 820px)');
+  const placeMode = () => (narrow.matches ? $('modeSlot') : $('q').closest('.bar-mid')).prepend(document.querySelector('.mode'));
+  narrow.addEventListener('change', placeMode);
+  placeMode();
+  $('modeBuildings').addEventListener('click', () => setMode('buildings'));
+  $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.shelf = null;
     state.q = ''; $('q').value = '';
     refreshFilters(); render(true);
   }
   $('emptyClear').addEventListener('click', clearAll);
-  $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); clearAll(); });
+  $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); setMode('buildings', true); clearAll(); });
 
   // The dock stays on top of everything. On the plain wall it offers Shuffle; anywhere else (an opened building,
   // a filtered or searched wall) Shuffle becomes Home. Surprise me works everywhere, even over an opened building.
-  const atHome = () => sheet.hidden && !state.q && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  const atHome = () => sheet.hidden && !state.q && !state.shelf && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
   function updateDock() {
     const home = atHome();
     $('shuffle').hidden = !home;
     $('goHome').hidden = home;
-    const h = here(), prev = !sheet.hidden && h && h.step > 0 ? ALL.find(x => x.id === h.prev) : null;
+    const h = here(), prev = !sheet.hidden && h && h.step > 0 ? findAny(h.prev) : null;
     $('goBack').hidden = !prev;
-    if (prev) { $('goBack').title = 'Back to ' + prev.name; $('goBack').setAttribute('aria-label', 'Back to ' + prev.name); }
+    if (prev) { $('goBack').title = 'Back to ' + nameOf(prev); $('goBack').setAttribute('aria-label', 'Back to ' + nameOf(prev)); }
   }
   $('goBack').addEventListener('click', () => history.back());
   $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
@@ -472,24 +655,25 @@
   });
   function surprise() {
     const list = visible();
-    const pool = list.filter(b => !state.seen.has(b.id) && (!state.open || b.id !== state.open.id));
-    const from = pool.length ? pool : list.filter(b => !state.open || b.id !== state.open.id);
-    if (from.length) openBuilding(from[Math.floor(Math.random() * from.length)].id, true);
+    const pool = list.filter(b => !state.seen.has(keyOf(b)) && b !== state.open);
+    const from = pool.length ? pool : list.filter(b => b !== state.open);
+    if (from.length) openAny(keyOf(from[Math.floor(Math.random() * from.length)]), true);
   }
   $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
-  window.DA = { ALL, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+  window.DA = { ALL, BOOKS, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   const openFromHash = () => {
     if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
-    else if (id && (!state.open || state.open.id !== id)) openBuilding(id);
+    else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
+    else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };
   window.addEventListener('hashchange', openFromHash);
   const h0 = here(); // a reload, or coming back from another page, keeps the step we were on
-  if (h0) openBuilding(h0.id, h0.surprise, null, true); else openFromHash();
+  if (h0) openAny(h0.id, h0.surprise, true); else openFromHash();
   state.booting = false;
 })();
