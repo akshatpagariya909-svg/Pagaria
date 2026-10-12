@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=f4b8c105">
+<link rel="stylesheet" href="styles.css?v=55ca3a05">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -48,11 +48,6 @@
   <p class="more" id="more" hidden>Loading more buildings…</p>
   <p class="empty" id="empty" hidden>Nothing matches. <button type="button" id="emptyClear">Clear the search</button></p>
 </main>
-
-<nav class="dock" aria-label="Wall controls">
-  <button type="button" id="shuffle">Shuffle</button>
-  <button type="button" class="go" id="surprise">Surprise me</button>
-</nav>
 
 <div class="sheet" id="sheet" hidden>
   <button type="button" class="veil" id="veil" aria-label="Close"></button>
@@ -96,14 +91,26 @@
       </section>
     </div>
   </article>
+  <nav class="step" id="step" aria-label="Other buildings on the wall">
+    <button type="button" class="step-btn prev" id="sPrev"><span class="arrow"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></span><span class="peek"><img alt=""><small>Previous</small><b></b></span></button>
+    <span class="step-pos" id="sPos"></span>
+    <button type="button" class="step-btn next" id="sNext"><span class="arrow"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></span><span class="peek"><img alt=""><small>Next</small><b></b></span></button>
+  </nav>
 </div>
+
+<nav class="dock" aria-label="Browse">
+  <button type="button" class="back" id="goBack" aria-label="Back" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+  <button type="button" id="shuffle">Shuffle</button>
+  <button type="button" id="goHome" hidden>Home</button>
+  <button type="button" class="go" id="surprise">Surprise me</button>
+</nav>
 
 <script src="data/buildings.js?v=1bfca465"></script>
 <script src="data/links.js?v=f72157c9"></script>
 <script src="data/architects.js?v=046f0729"></script>
 <script src="data/filters.js?v=9e9876ee"></script>
-<script src="data/world.js?v=61fa5662"></script>
-<script src="app.js?v=8507a5bf"></script>
-<script src="filter.js?v=8d8c59f4"></script>
+<script src="data/world.js?v=5709bcc2"></script>
+<script src="app.js?v=fe54daac"></script>
+<script src="filter.js?v=eeaf93fd"></script>
 </body>
 </html>

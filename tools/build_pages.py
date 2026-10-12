@@ -133,6 +133,10 @@ FOOT = """<footer class="foot">
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
   <p><a href="{up}">Discover Architecture</a> · <a href="{up}buildings/">All {total} buildings</a></p>
 </footer>
+<nav class="dock" aria-label="Browse">
+  <a href="{up}">Home</a>
+  <a class="go" href="{up}#surprise">Surprise me</a>
+</nav>
 </body>
 </html>
 """
