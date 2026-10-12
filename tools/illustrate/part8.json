@@ -1,0 +1,420 @@
+[
+ {
+  "name": "The Museum Hotel Antakya",
+  "by": "Emre Arolat Architecture",
+  "city": "Antakya",
+  "cc": "TR",
+  "year": "2019",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Adaptive reuse"
+  ],
+  "features": "Hotel raised on a steel deck above excavated Roman mosaics, with rooms as prefabricated modules.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "the-museum-hotel-antakya"
+ },
+ {
+  "name": "Tod's Omotesando Building",
+  "by": "Toyo Ito",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2004",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "Overlapping concrete branches form the load-bearing facade, thinning as they rise like zelkova trees.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "tod-s-omotesando-building"
+ },
+ {
+  "name": "Tossols-Basil Athletics Track",
+  "by": "RCR Arquitectes",
+  "city": "Olot",
+  "cc": "ES",
+  "year": "2000",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Public space"
+  ],
+  "features": "Running track threaded through an oak wood, with trees left standing inside the field.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "tossols-basil-athletics-track"
+ },
+ {
+  "name": "Tropicana Arcos de Cristal",
+  "by": "Max Borges Recio",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1952",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Five thin concrete arches of descending height, with glass bands between, roof the nightclub hall.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "tropicana-arcos-de-cristal"
+ },
+ {
+  "name": "Tulou Collective Housing",
+  "by": "Urbanus",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "year": "2008",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Low cost",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "A ring of low-cost rental units around a court reinterprets the Hakka earthen roundhouse.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "tulou-collective-housing"
+ },
+ {
+  "name": "Umbrella House (Kasa no Ie)",
+  "by": "Kazuo Shinohara",
+  "city": "Weil am Rhein",
+  "cc": "DE",
+  "year": "1961",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Small square house under a timber umbrella roof of rafters radiating from the centre.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "umbrella-house-kasa-no-ie"
+ },
+ {
+  "name": "Unidad Vecinal Portales",
+  "by": "Bresciani, Valdés, Castillo, Huidobro",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1966",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Circulation",
+   "Community",
+   "Exposed concrete"
+  ],
+  "features": "Housing blocks linked by elevated walkways and bridges over shared gardens.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "unidad-vecinal-portales"
+ },
+ {
+  "name": "University of Global Health Equity",
+  "by": "MASS Design Group",
+  "city": "Butaro",
+  "cc": "RW",
+  "year": "2019",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Rammed-earth and local-stone buildings stepped into a terraced hillside, built by local craftspeople.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "university-of-global-health-equity"
+ },
+ {
+  "name": "Vakko Fashion Center",
+  "by": "REX",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2010",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Mirrored glass 'showcase' box slotted inside the concrete frame of an unfinished hotel.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "vakko-fashion-center"
+ },
+ {
+  "name": "Vertical Courtyard Apartments",
+  "by": "Wang Shu, Amateur Architecture Studio",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Double height",
+   "Section"
+  ],
+  "features": "Housing towers with two-storey courtyards stacked into the facade, giving each flat a garden in the air.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "vertical-courtyard-apartments"
+ },
+ {
+  "name": "Villa Sarabhai",
+  "by": "Le Corbusier",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Brick",
+   "Climate response"
+  ],
+  "features": "Parallel Catalan brick vaults on bearing walls, with a grass roof and a slide down into the pool.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "villa-sarabhai"
+ },
+ {
+  "name": "Villa Verde Housing",
+  "by": "Alejandro Aravena, Elemental",
+  "city": "Constitución",
+  "cc": "CL",
+  "year": "2013",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Incremental",
+   "Low cost",
+   "Timber"
+  ],
+  "features": "Timber-framed gabled half-houses, one half built and the other left under the roof for owners to finish.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "villa-verde-housing"
+ },
+ {
+  "name": "Volontariat Homes for Homeless Children",
+  "by": "Anupama Kundoo",
+  "city": "Pondicherry",
+  "cc": "IN",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Cluster",
+   "Low cost"
+  ],
+  "features": "Cluster of small domed houses of mud brick fired in place, glazed like ceramic.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "volontariat-homes-for-homeless-children"
+ },
+ {
+  "name": "Wall House",
+  "by": "Anupama Kundoo",
+  "city": "Auroville",
+  "cc": "IN",
+  "year": "2000",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Earth & local material",
+   "Climate response"
+  ],
+  "features": "Brick and terracotta house with rooms opening between thick walls onto a tropical garden.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "wall-house"
+ },
+ {
+  "name": "Wencun Village",
+  "by": "Wang Shu, Amateur Architecture Studio",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Stone"
+  ],
+  "features": "New village houses of rammed earth, stone and grey tile, set among restored old houses along a stream.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "wencun-village"
+ },
+ {
+  "name": "Women's Opportunity Center",
+  "by": "Sharon Davis Design",
+  "city": "Kayonza",
+  "cc": "RW",
+  "year": "2013",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Low cost"
+  ],
+  "features": "Clusters of round classrooms in perforated locally fired brick, made by the women who use them.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "women-s-opportunity-center"
+ },
+ {
+  "name": "Xylem",
+  "by": "Diébédo Francis Kéré",
+  "city": "Fishtail",
+  "cc": "US",
+  "year": "2019",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Ring of timber benches under a canopy of hexagonal bundles of thin pine logs on steel columns.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "xylem"
+ },
+ {
+  "name": "wNw Bar",
+  "by": "Vo Trong Nghia",
+  "city": "Thu Dau Mot",
+  "cc": "VN",
+  "year": "2008",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Water"
+  ],
+  "features": "Bamboo arches form a dome with a top opening; air cooled over the surrounding lake flows through.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "wnw-bar"
+ },
+ {
+  "name": "İpekyol Textile Factory",
+  "by": "Emre Arolat",
+  "city": "Edirne",
+  "cc": "TR",
+  "year": "2006",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "One large factory roof with long skylights and interior gardens that bring daylight to the workers.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "ipekyol-textile-factory"
+ },
+ {
+  "name": "Disney Ice (Anaheim Ice)",
+  "by": "Frank Gehry",
+  "city": "Anaheim",
+  "cc": "US",
+  "year": "1995",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "An ice rink under a roof of curving laminated-timber arches, with the arches showing inside.",
+  "qid": "Q4750883",
+  "keep": 1,
+  "source": "batch2_nophoto.txt",
+  "id": "disney-ice-anaheim-ice"
+ },
+ {
+  "name": "Kumano Kodo Nakahechi Museum of Art",
+  "by": "SANAA",
+  "city": "Tanabe",
+  "cc": "JP",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Free plan"
+  ],
+  "features": "A thin-roofed single-storey box wrapped in layers of clear and milky glass.",
+  "qid": "Q11568880",
+  "keep": 1,
+  "source": "batch2_nophoto.txt",
+  "id": "kumano-kodo-nakahechi-museum-of-art"
+ },
+ {
+  "name": "The Index",
+  "by": "Foster + Partners",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Facade as skin"
+  ],
+  "features": "Slim slab tower with service cores at its ends shielding low sun, and shaded long facades.",
+  "qid": "Q1264855",
+  "keep": 1,
+  "source": "batch1_nophoto.txt",
+  "id": "the-index"
+ }
+]

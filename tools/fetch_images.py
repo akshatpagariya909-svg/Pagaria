@@ -541,7 +541,7 @@ def main():
             files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
             if 'pick' in ch:  # an empty pick means no suitable free photos
                 picks = picked(b, ch)
-                if picks:  # keep the hand-picked photos; add the folder's drawings and models on top
+                if any(p['kind'] not in DRAWINGS for p in picks):  # keep the hand-picked photos; add the folder's drawings and models on top
                     picks += drawings(eligible(b, files, infos([t for t, _ in files]), set(ch.get('skip', []))), picks)
             else:
                 # files added by hand win outright; Wikipedia's lead photo only gets a nudge, so a bigger,
@@ -578,7 +578,8 @@ def main():
                 images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
-            b['images'] = images
+            own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover
+            b['images'] = own + images
             b['commons'] = cat
             b['has'] = [k for k in DRAWINGS if any(i['kind'] == k for i in images)]  # for a drawings filter
             b['gv'] = GALLERY_VERSION

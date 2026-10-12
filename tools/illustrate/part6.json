@@ -1,0 +1,515 @@
+[
+ {
+  "name": "La Tallera",
+  "by": "Frida Escobedo",
+  "city": "Cuernavaca",
+  "cc": "MX",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Concrete lattice walls and a new plaza, with Siqueiros's murals turned to face the street.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "la-tallera"
+ },
+ {
+  "name": "Latapie House",
+  "by": "Lacaton & Vassal",
+  "city": "Floirac",
+  "cc": "FR",
+  "year": "1993",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Low cost",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Simple box with one side a polycarbonate greenhouse that opens fully in summer.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "latapie-house"
+ },
+ {
+  "name": "Leão que Ri (Smiling Lion)",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1958",
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Colour"
+  ],
+  "features": "An apartment block with jagged concrete forms, toothed parapets and sculpted balconies.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "leao-que-ri-smiling-lion"
+ },
+ {
+  "name": "Luyeyuan Stone Sculpture Art Museum",
+  "by": "Liu Jiakun",
+  "city": "Chengdu",
+  "cc": "CN",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Exposed concrete",
+   "Brick",
+   "Promenade"
+  ],
+  "features": "Rough fair-faced concrete cast over shale-brick walls, reached by a long bridge across a pond.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "luyeyuan-stone-sculpture-art-museum"
+ },
+ {
+  "name": "Marika-Alderton House",
+  "by": "Glenn Murcutt",
+  "city": "Yirrkala",
+  "cc": "AU",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Prefabrication"
+  ],
+  "features": "Stilted timber-and-steel house with hinged plywood flaps and roof vents that let sea breezes through.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "marika-alderton-house"
+ },
+ {
+  "name": "Menara Tabung Haji",
+  "by": "Hijjas Kasturi",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Round tower held by five external columns, its form drawn from a drum and the five pillars of Islam.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "menara-tabung-haji"
+ },
+ {
+  "name": "Menara UMNO",
+  "by": "T. R. Hamzah & Yeang",
+  "city": "George Town",
+  "cc": "MY",
+  "year": "1998",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Human comfort"
+  ],
+  "features": "Slim tower with wing walls that catch the wind and steer it into the floors for natural cooling.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "menara-umno"
+ },
+ {
+  "name": "Mestizo Restaurant",
+  "by": "Smiljan Radić",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2007",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "features": "Long black concrete roof slab resting on huge granite boulders at the edge of a park.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "mestizo-restaurant"
+ },
+ {
+  "name": "Michenzani Blocks",
+  "by": "Hubert Scholz",
+  "city": "Zanzibar City",
+  "cc": "TZ",
+  "year": "c. 1976",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Megastructure",
+   "Modular"
+  ],
+  "features": "Long prefabricated concrete apartment slabs cut a new axis across the town, built with East German aid.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "michenzani-blocks"
+ },
+ {
+  "name": "Microlibrary Taman Bima",
+  "by": "SHAU",
+  "city": "Bandung",
+  "cc": "ID",
+  "year": "2016",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Low cost",
+   "Facade as skin"
+  ],
+  "features": "A raised reading room whose facade of recycled ice-cream buckets spells a message in binary.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "microlibrary-taman-bima"
+ },
+ {
+  "name": "Mimesis Art Museum",
+  "by": "Alvaro Siza",
+  "city": "Paju",
+  "cc": "KR",
+  "year": "2009",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Sculptural form",
+   "Exposed concrete"
+  ],
+  "features": "A curving white concrete body around a courtyard, its galleries lit by indirect daylight from above.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "mimesis-art-museum"
+ },
+ {
+  "name": "Ministry of Foreign Affairs, Riyadh",
+  "by": "Henning Larsen",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Climate response"
+  ],
+  "features": "A closed outer wall with offices facing a central triangular atrium and smaller inner courts.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "ministry-of-foreign-affairs-riyadh"
+ },
+ {
+  "name": "Monterrey Housing",
+  "by": "Alejandro Aravena, Elemental",
+  "city": "Santa Catarina",
+  "cc": "MX",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Incremental",
+   "Low cost",
+   "Community"
+  ],
+  "features": "Half-built row houses stacked as duplexes, leaving empty bays for families to fill in over time.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "monterrey-housing"
+ },
+ {
+  "name": "Naoshima Ferry Terminal",
+  "by": "SANAA",
+  "city": "Naoshima",
+  "cc": "JP",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Free plan",
+   "Public space"
+  ],
+  "features": "A thin flat roof on slender steel columns covers glass boxes and an open waiting space by the quay.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "naoshima-ferry-terminal"
+ },
+ {
+  "name": "Newton Suites",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2007",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Residential tower with sky gardens, green walls and perforated metal sunshades worked into its facade.",
+  "qid": "Q3339164",
+  "keep": 2,
+  "source": "batch3_nophoto.txt",
+  "id": "newton-suites"
+ },
+ {
+  "name": "Norwegian Wild Reindeer Pavilion",
+  "by": "Snøhetta",
+  "city": "Hjerkinn",
+  "cc": "NO",
+  "year": "2011",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Digital fabrication",
+   "Landscape"
+  ],
+  "features": "Glass box with a milled pine wall shaped like eroded rock, facing across the Dovrefjell mountains.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "norwegian-wild-reindeer-pavilion"
+ },
+ {
+  "name": "Nueva Esperanza School",
+  "by": "Al Borde",
+  "city": "Cabuyal",
+  "cc": "EC",
+  "year": "2009",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Low cost",
+   "Community"
+  ],
+  "features": "Raised classroom of cane, timber and thatch, built by the community with locally available materials.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "nueva-esperanza-school"
+ },
+ {
+  "name": "Nur Alem",
+  "by": "Adrian Smith + Gordon Gill",
+  "city": "Astana",
+  "cc": "KZ",
+  "year": "2017",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Climate response"
+  ],
+  "features": "A glass sphere with integrated photovoltaics and wind turbines, built as the Expo 2017 national pavilion.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "nur-alem"
+ },
+ {
+  "name": "Oberrealta Chapel",
+  "by": "Christian Kerez, Rudolf Fontana",
+  "city": "Cazis",
+  "cc": "CH",
+  "year": "1993",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Tiny concrete chapel shaped like a child's drawing of a house, alone on an alpine meadow.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "oberrealta-chapel"
+ },
+ {
+  "name": "Oita Prefectural Library (Art Plaza)",
+  "by": "Arata Isozaki",
+  "city": "Oita",
+  "cc": "JP",
+  "year": "1966",
+  "type": "Library",
+  "movement": "Metabolism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Section"
+  ],
+  "features": "Hollow precast concrete beams project from the facade as tubes, expressing structure and services.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "oita-prefectural-library-art-plaza"
+ },
+ {
+  "name": "Paks Catholic Church",
+  "by": "Imre Makovecz",
+  "city": "Paks",
+  "cc": "HU",
+  "year": "1991",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Earth & local material"
+  ],
+  "features": "Timber-framed church with a shingled roof and three spires, its form drawn from Hungarian folk motifs.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "paks-catholic-church"
+ },
+ {
+  "name": "Palmyra House",
+  "by": "Studio Mumbai, Bijoy Jain",
+  "city": "Alibag",
+  "cc": "IN",
+  "year": "2007",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Light & shadow"
+  ],
+  "features": "Two timber volumes wrapped in louvres of split palmyra palm trunks, set in a coconut grove.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "palmyra-house"
+ },
+ {
+  "name": "Pangyo Housing",
+  "by": "Riken Yamamoto",
+  "city": "Seongnam",
+  "cc": "KR",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Cluster",
+   "Steel & glass"
+  ],
+  "features": "Housing with glass-walled ground rooms opening onto a shared raised deck that links the blocks.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "pangyo-housing"
+ },
+ {
+  "name": "Park Vijversburg Visitor Centre",
+  "by": "Junya Ishigami",
+  "city": "Koostertille",
+  "cc": "NL",
+  "year": "2017",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Free plan"
+  ],
+  "features": "Glass walls curling through the park beneath a thin flat roof, blurring inside and garden.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "park-vijversburg-visitor-centre"
+ },
+ {
+  "name": "Parliament Library Building",
+  "by": "Raj Rewal",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "2002",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Kept low beside the round Parliament House, with courtyards and a central steel-and-glass dome.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "parliament-library-building"
+ },
+ {
+  "name": "Paulistano Athletic Club Gymnasium",
+  "by": "Paulo Mendes da Rocha",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Tensile structure",
+   "Structure as expression"
+  ],
+  "features": "Circular concrete stands under a roof hung by steel cables from radial concrete pillars.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "paulistano-athletic-club-gymnasium"
+ },
+ {
+  "name": "Pearling Path Visitor Centre",
+  "by": "Valerio Olgiati",
+  "city": "Muharraq",
+  "cc": "BH",
+  "year": "2019",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "A tall concrete canopy pierced with openings shades a public space at the start of a heritage trail.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "pearling-path-visitor-centre"
+ }
+]
