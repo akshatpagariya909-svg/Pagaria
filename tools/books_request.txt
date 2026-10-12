@@ -1,2 +1,1 @@
---force
-First batch: look up all 130 seed books and fetch their covers.
+Second pass: look up the 43 books that still have no cover, now also trying each edition's ISBN.

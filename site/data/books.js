@@ -35,7 +35,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/101-things-i-learned.webp",
    "src": "https://covers.openlibrary.org/b/id/8097558-L.jpg",
-   "id": 8097558,
    "w": 500,
    "h": 360,
    "source": "https://openlibrary.org/works/OL17810345W"
@@ -60,7 +59,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/experiencing-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/6496804-L.jpg",
-   "id": 6496804,
    "w": 334,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3552774W"
@@ -86,7 +84,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-eyes-of-the-skin.webp",
    "src": "https://covers.openlibrary.org/b/id/2052727-L.jpg",
-   "id": 2052727,
    "w": 294,
    "h": 420,
    "source": "https://openlibrary.org/works/OL2552544W"
@@ -119,7 +116,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/thinking-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/1024489-L.jpg",
-   "id": 1024489,
    "w": 309,
    "h": 500,
    "source": "https://openlibrary.org/works/OL586802W"
@@ -150,7 +146,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/atmospheres.webp",
    "src": "https://covers.openlibrary.org/b/id/1024488-L.jpg",
-   "id": 1024488,
    "w": 356,
    "h": 500,
    "source": "https://openlibrary.org/works/OL586800W"
@@ -178,7 +173,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/lessons-for-students.webp",
    "src": "https://covers.openlibrary.org/b/id/9800227-L.jpg",
-   "id": 9800227,
    "w": 373,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2297183W"
@@ -204,7 +198,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/analysing-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4304652-L.jpg",
-   "id": 4304652,
    "w": 128,
    "h": 171,
    "source": "https://openlibrary.org/works/OL3294231W"
@@ -230,7 +223,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/precedents-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/305190-L.jpg",
-   "id": 305190,
    "w": 500,
    "h": 388,
    "source": "https://openlibrary.org/works/OL2978645W"
@@ -255,7 +247,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-place-of-houses.webp",
    "src": "https://covers.openlibrary.org/b/id/4521664-L.jpg",
-   "id": 4521664,
    "w": 128,
    "h": 161,
    "source": "https://openlibrary.org/works/OL482292W"
@@ -295,7 +286,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/why-architecture-matters.webp",
    "src": "https://covers.openlibrary.org/b/id/7363539-L.jpg",
-   "id": 7363539,
    "w": 324,
    "h": 500,
    "source": "https://openlibrary.org/works/OL5113496W"
@@ -321,7 +311,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-architecture-of-happiness.webp",
    "src": "https://covers.openlibrary.org/b/id/5314605-L.jpg",
-   "id": 5314605,
    "w": 128,
    "h": 162,
    "source": "https://openlibrary.org/works/OL107927W"
@@ -347,7 +336,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/how-buildings-learn.webp",
    "src": "https://covers.openlibrary.org/b/id/401280-L.jpg",
-   "id": 401280,
    "w": 500,
    "h": 388,
    "source": "https://openlibrary.org/works/OL823146W"
@@ -373,7 +361,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/body-memory-and-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/159341-L.jpg",
-   "id": 159341,
    "w": 475,
    "h": 370,
    "source": "https://openlibrary.org/works/OL6685951W"
@@ -404,7 +391,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/learning-from-las-vegas.webp",
    "src": "https://covers.openlibrary.org/b/id/13586383-L.jpg",
-   "id": 13586383,
    "w": 334,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2940031W"
@@ -454,7 +440,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/delirious-new-york.webp",
    "src": "https://covers.openlibrary.org/b/id/932358-L.jpg",
-   "id": 932358,
    "w": 361,
    "h": 475,
    "source": "https://openlibrary.org/works/OL121058W"
@@ -500,7 +485,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-architecture-of-the-city.webp",
    "src": "https://covers.openlibrary.org/b/id/9360544-L.jpg",
-   "id": 9360544,
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL543409W"
@@ -541,7 +525,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-poetics-of-space.webp",
    "src": "https://covers.openlibrary.org/b/id/588168-L.jpg",
-   "id": 588168,
    "w": 316,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1304839W"
@@ -566,7 +549,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/in-praise-of-shadows.webp",
    "src": "https://covers.openlibrary.org/b/id/10703642-L.jpg",
-   "id": 10703642,
    "w": 500,
    "h": 500,
    "source": "https://openlibrary.org/works/OL24231448W"
@@ -592,7 +574,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/invisible-cities.webp",
    "src": "https://covers.openlibrary.org/b/id/246347-L.jpg",
-   "id": 246347,
    "w": 301,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4466408W"
@@ -618,7 +599,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-hidden-dimension.webp",
    "src": "https://covers.openlibrary.org/b/id/238180-L.jpg",
-   "id": 238180,
    "w": 301,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1622240W"
@@ -661,7 +641,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architecture-and-disjunction.webp",
    "src": "https://covers.openlibrary.org/b/id/5446045-L.jpg",
-   "id": 5446045,
    "w": 128,
    "h": 163,
    "source": "https://openlibrary.org/works/OL1727574W"
@@ -686,7 +665,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-language-of-post-modern-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4765607-L.jpg",
-   "id": 4765607,
    "w": 128,
    "h": 174,
    "source": "https://openlibrary.org/works/OL903091W"
@@ -718,7 +696,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/deconstructivist-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8547602-L.jpg",
-   "id": 8547602,
    "w": 282,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2849532W"
@@ -746,7 +723,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-autopoiesis-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8621160-L.jpg",
-   "id": 8621160,
    "w": 500,
    "h": 326,
    "source": "https://openlibrary.org/works/OL16981261W"
@@ -772,7 +748,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/digital-culture-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/7680314-L.jpg",
-   "id": 7680314,
    "w": 283,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17489256W"
@@ -798,7 +773,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architecture-depends.webp",
    "src": "https://covers.openlibrary.org/b/id/9672510-L.jpg",
-   "id": 9672510,
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL9527863W"
@@ -839,7 +813,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/thermal-delight.webp",
    "src": "https://covers.openlibrary.org/b/id/6747659-L.jpg",
-   "id": 6747659,
    "w": 311,
    "h": 500,
    "source": "https://openlibrary.org/works/OL6565765W"
@@ -865,7 +838,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-craftsman.webp",
    "src": "https://covers.openlibrary.org/b/id/5781558-L.jpg",
-   "id": 5781558,
    "w": 175,
    "h": 275,
    "source": "https://openlibrary.org/works/OL1870880W"
@@ -891,7 +863,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architecture-without-architects.webp",
    "src": "https://covers.openlibrary.org/b/id/629186-L.jpg",
-   "id": 629186,
    "w": 424,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4965168W"
@@ -922,7 +893,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/towards-a-new-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/493272-L.jpg",
-   "id": 493272,
    "w": 311,
    "h": 475,
    "source": "https://openlibrary.org/works/OL8466544W"
@@ -967,7 +937,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/ornament-and-crime.webp",
    "src": "https://covers.openlibrary.org/b/id/822493-L.jpg",
-   "id": 822493,
    "w": 305,
    "h": 475,
    "source": "https://openlibrary.org/works/OL824434W"
@@ -997,7 +966,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-new-architecture-and-the-bauhaus.webp",
    "src": "https://covers.openlibrary.org/b/id/6258270-L.jpg",
-   "id": 6258270,
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL6349888W"
@@ -1024,7 +992,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-international-style.webp",
    "src": "https://covers.openlibrary.org/b/id/7942417-L.jpg",
-   "id": 7942417,
    "w": 318,
    "h": 500,
    "source": "https://openlibrary.org/works/OL6033418W"
@@ -1068,7 +1035,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/metabolism-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/12964998-L.jpg",
-   "id": 12964998,
    "w": 370,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2443994W"
@@ -1096,7 +1062,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/yes-is-more.webp",
    "src": "https://covers.openlibrary.org/b/id/7733107-L.jpg",
-   "id": 7733107,
    "w": 282,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17515699W"
@@ -1123,7 +1088,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/a-pattern-language.webp",
    "src": "https://covers.openlibrary.org/b/id/120825-L.jpg",
-   "id": 120825,
    "w": 327,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3923600W"
@@ -1149,7 +1113,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-timeless-way-of-building.webp",
    "src": "https://covers.openlibrary.org/b/id/7564994-L.jpg",
-   "id": 7564994,
    "w": 253,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17431345W"
@@ -1177,7 +1140,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/elements-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/6934434-L.jpg",
-   "id": 6934434,
    "w": 357,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1086021W"
@@ -1203,7 +1165,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/modern-architecture-since-1900.webp",
    "src": "https://covers.openlibrary.org/b/id/4274956-L.jpg",
-   "id": 4274956,
    "w": 128,
    "h": 153,
    "source": "https://openlibrary.org/works/OL2800829W"
@@ -1244,7 +1205,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/space-time-and-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/9283364-L.jpg",
-   "id": 9283364,
    "w": 362,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1161577W"
@@ -1270,7 +1230,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-classical-language-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/315983-L.jpg",
-   "id": 315983,
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1958665W"
@@ -1296,7 +1255,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/a-history-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/10892507-L.jpg",
-   "id": 10892507,
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL24364401W"
@@ -1322,7 +1280,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-future-of-architecture-since-1889.webp",
    "src": "https://covers.openlibrary.org/b/id/7808999-L.jpg",
-   "id": 7808999,
    "w": 295,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17553689W"
@@ -1348,7 +1305,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/a-global-history-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8878632-L.jpg",
-   "id": 8878632,
    "w": 371,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20225637W"
@@ -1374,7 +1330,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/theory-and-design-in-the-first-machine-age.webp",
    "src": "https://covers.openlibrary.org/b/id/151017-L.jpg",
-   "id": 151017,
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL3170719W"
@@ -1434,7 +1389,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/brunelleschis-dome.webp",
    "src": "https://covers.openlibrary.org/b/id/570774-L.jpg",
-   "id": 570774,
    "w": 365,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2984865W"
@@ -1474,7 +1428,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/this-brutal-world.webp",
    "src": "https://covers.openlibrary.org/b/id/8494492-L.jpg",
-   "id": 8494492,
    "w": 445,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19369501W"
@@ -1537,7 +1490,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/project-japan.webp",
    "src": "https://covers.openlibrary.org/b/id/8415458-L.jpg",
-   "id": 8415458,
    "w": 387,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19096803W"
@@ -1563,7 +1515,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/where-are-the-women-architects.webp",
    "src": "https://covers.openlibrary.org/b/id/14394559-L.jpg",
-   "id": 14394559,
    "w": 279,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20028172W"
@@ -1597,7 +1548,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/louis-i-kahn.webp",
    "src": "https://covers.openlibrary.org/b/id/12414502-L.jpg",
-   "id": 12414502,
    "w": 312,
    "h": 400,
    "source": "https://openlibrary.org/works/OL21011359W"
@@ -1628,7 +1578,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/louis-kahn-essential-texts.webp",
    "src": "https://covers.openlibrary.org/b/id/251745-L.jpg",
-   "id": 251745,
    "w": 318,
    "h": 475,
    "source": "https://openlibrary.org/works/OL20994068W"
@@ -1680,7 +1629,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/frank-lloyd-wright-an-autobiography.webp",
    "src": "https://covers.openlibrary.org/b/id/4500227-L.jpg",
-   "id": 4500227,
    "w": 128,
    "h": 207,
    "source": "https://openlibrary.org/works/OL961856W"
@@ -1755,7 +1703,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/alvar-aalto.webp",
    "src": "https://covers.openlibrary.org/b/id/3838417-L.jpg",
-   "id": 3838417,
    "w": 128,
    "h": 159,
    "source": "https://openlibrary.org/works/OL3166759W"
@@ -1785,7 +1732,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/carlo-scarpa.webp",
    "src": "https://covers.openlibrary.org/b/id/13587452-L.jpg",
-   "id": 13587452,
    "w": 429,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21061180W"
@@ -1831,7 +1777,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/tadao-ando-complete-works.webp",
    "src": "https://covers.openlibrary.org/b/id/1029633-L.jpg",
-   "id": 1029633,
    "w": 386,
    "h": 500,
    "source": "https://openlibrary.org/works/OL895050W"
@@ -1901,7 +1846,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/gaudi-the-complete-buildings.webp",
    "src": "https://covers.openlibrary.org/b/id/1029637-L.jpg",
-   "id": 1029637,
    "w": 380,
    "h": 475,
    "source": "https://openlibrary.org/works/OL5186132W"
@@ -2002,7 +1946,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/conversations-with-frank-gehry.webp",
    "src": "https://covers.openlibrary.org/b/id/6306032-L.jpg",
-   "id": 6306032,
    "w": 404,
    "h": 500,
    "source": "https://openlibrary.org/works/OL509340W"
@@ -2033,7 +1976,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/renzo-piano-logbook.webp",
    "src": "https://covers.openlibrary.org/b/id/12853074-L.jpg",
-   "id": 12853074,
    "w": 486,
    "h": 500,
    "source": "https://openlibrary.org/works/OL10504827W"
@@ -2102,7 +2044,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/lina-bo-bardi.webp",
    "src": "https://covers.openlibrary.org/b/id/9045833-L.jpg",
-   "id": 9045833,
    "w": 425,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20378253W"
@@ -2169,7 +2110,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/sigurd-lewerentz-architect.webp",
    "src": "https://covers.openlibrary.org/b/id/8981137-L.jpg",
-   "id": 8981137,
    "w": 336,
    "h": 448,
    "source": "https://openlibrary.org/works/OL20319654W"
@@ -2216,7 +2156,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architecture-for-the-poor.webp",
    "src": "https://covers.openlibrary.org/b/id/140666-L.jpg",
-   "id": 140666,
    "w": 286,
    "h": 475,
    "source": "https://openlibrary.org/works/OL947532W"
@@ -2259,7 +2198,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architectural-graphics.webp",
    "src": "https://covers.openlibrary.org/b/id/302022-L.jpg",
-   "id": 302022,
    "w": 368,
    "h": 475,
    "source": "https://openlibrary.org/works/OL8127898W"
@@ -2285,7 +2223,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/a-visual-dictionary-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4629509-L.jpg",
-   "id": 4629509,
    "w": 128,
    "h": 175,
    "source": "https://openlibrary.org/works/OL8127911W"
@@ -2327,7 +2264,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/manual-of-section.webp",
    "src": "https://covers.openlibrary.org/b/id/14494227-L.jpg",
-   "id": 14494227,
    "w": 335,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20041490W"
@@ -2383,7 +2319,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/building-construction-illustrated.webp",
    "src": "https://covers.openlibrary.org/b/id/2423626-L.jpg",
-   "id": 2423626,
    "w": 384,
    "h": 500,
    "source": "https://openlibrary.org/works/OL8127901W"
@@ -2409,7 +2344,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architectural-graphic-standards.webp",
    "src": "https://covers.openlibrary.org/b/id/303604-L.jpg",
-   "id": 303604,
    "w": 390,
    "h": 500,
    "source": "https://openlibrary.org/works/OL550047W"
@@ -2450,7 +2384,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/structures-or-why-things-dont-fall-down.webp",
    "src": "https://covers.openlibrary.org/b/id/164385-L.jpg",
-   "id": 164385,
    "w": 309,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4984956W"
@@ -2482,7 +2415,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/studies-in-tectonic-culture.webp",
    "src": "https://covers.openlibrary.org/b/id/149787-L.jpg",
-   "id": 149787,
    "w": 374,
    "h": 475,
    "source": "https://openlibrary.org/works/OL80267W"
@@ -2569,7 +2501,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-death-and-life-of-great-american-cities.webp",
    "src": "https://covers.openlibrary.org/b/id/5540237-L.jpg",
-   "id": 5540237,
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL93641W"
@@ -2595,7 +2526,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-image-of-the-city.webp",
    "src": "https://covers.openlibrary.org/b/id/3246475-L.jpg",
-   "id": 3246475,
    "w": 365,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4477193W"
@@ -2621,7 +2551,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/life-between-buildings.webp",
    "src": "https://covers.openlibrary.org/b/id/4922223-L.jpg",
-   "id": 4922223,
    "w": 128,
    "h": 178,
    "source": "https://openlibrary.org/works/OL2861180W"
@@ -2647,7 +2576,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/cities-for-people.webp",
    "src": "https://covers.openlibrary.org/b/id/13278395-L.jpg",
-   "id": 13278395,
    "w": 375,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21450388W"
@@ -2673,7 +2601,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-social-life-of-small-urban-spaces.webp",
    "src": "https://covers.openlibrary.org/b/id/4403117-L.jpg",
-   "id": 4403117,
    "w": 128,
    "h": 156,
    "source": "https://openlibrary.org/works/OL5093463W"
@@ -2699,7 +2626,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/collage-city.webp",
    "src": "https://covers.openlibrary.org/b/id/152341-L.jpg",
-   "id": 152341,
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2630287W"
@@ -2726,7 +2652,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/garden-cities-of-to-morrow.webp",
    "src": "https://covers.openlibrary.org/b/id/9092009-L.jpg",
-   "id": 9092009,
    "w": 324,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20425134W"
@@ -2757,7 +2682,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-mathematics-of-the-ideal-villa.webp",
    "src": "https://covers.openlibrary.org/b/id/152337-L.jpg",
-   "id": 152337,
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2630286W"
@@ -2783,7 +2707,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/design-with-nature.webp",
    "src": "https://covers.openlibrary.org/b/id/3972062-L.jpg",
-   "id": 3972062,
    "w": 128,
    "h": 176,
    "source": "https://openlibrary.org/works/OL1805267W"
@@ -2809,7 +2732,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-landscape-of-man.webp",
    "src": "https://covers.openlibrary.org/b/id/11664293-L.jpg",
-   "id": 11664293,
    "w": 383,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3564434W"
@@ -2836,7 +2758,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-granite-garden.webp",
    "src": "https://covers.openlibrary.org/b/id/298583-L.jpg",
-   "id": 298583,
    "w": 302,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1826876W"
@@ -2901,7 +2822,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/charles-correa.webp",
    "src": "https://covers.openlibrary.org/b/id/1260870-L.jpg",
-   "id": 1260870,
    "w": 500,
    "h": 428,
    "source": "https://openlibrary.org/works/OL18346943W"
@@ -2951,7 +2871,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/paths-uncharted.webp",
    "src": "https://covers.openlibrary.org/b/id/13295474-L.jpg",
-   "id": 13295474,
    "w": 357,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21215214W"
@@ -2996,7 +2915,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/indian-architecture-buddhist-and-hindu.webp",
    "src": "https://covers.openlibrary.org/b/id/14986714-L.jpg",
-   "id": 14986714,
    "w": 395,
    "h": 500,
    "source": "https://openlibrary.org/works/OL35314695W"
@@ -3023,7 +2941,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/architecture-of-mughal-india.webp",
    "src": "https://covers.openlibrary.org/b/id/331867-L.jpg",
-   "id": 331867,
    "w": 355,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4107540W"
@@ -3049,7 +2966,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-ten-books-on-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/11208130-L.jpg",
-   "id": 11208130,
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1417248W"
@@ -3076,7 +2992,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-four-books-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/12562025-L.jpg",
-   "id": 12562025,
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL27050334W"
@@ -3103,7 +3018,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-seven-lamps-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/5790382-L.jpg",
-   "id": 5790382,
    "w": 314,
    "h": 500,
    "source": "https://openlibrary.org/works/OL88638W"
@@ -3130,7 +3044,6 @@ window.BOOKS = [
   "cover": {
    "thumb": "images/books/the-stones-of-venice.webp",
    "src": "https://covers.openlibrary.org/b/id/8239410-L.jpg",
-   "id": 8239410,
    "w": 341,
    "h": 500,
    "source": "https://openlibrary.org/works/OL88640W"

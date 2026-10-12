@@ -31,6 +31,7 @@ REPORT = ROOT / 'tools' / 'books_report.md'
 UA = 'DiscoverArchitecture/1.0 (https://akshatpagariya909-svg.github.io/Pagaria/; akshatpagariya909@gmail.com; books shelf)'
 SEARCH = 'https://openlibrary.org/search.json'
 COVER = 'https://covers.openlibrary.org/b/id/{}-L.jpg?default=false'
+COVER_BY = 'https://covers.openlibrary.org/b/{}/{}-L.jpg?default=false'  # olid or isbn
 THUMB_W = 400
 
 
@@ -70,28 +71,40 @@ STOP = set('the and for von van der del des les une of in on to with its an by o
 
 
 def search(params):
-    q = urllib.parse.urlencode({**params, 'fields': 'key,title,author_name,first_publish_year,cover_i,isbn,edition_count,language', 'limit': 8})
+    q = urllib.parse.urlencode({**params, 'fields': 'key,title,author_name,first_publish_year,cover_i,cover_edition_key,isbn,edition_count,language', 'limit': 10})
     data = fetch(f'{SEARCH}?{q}', timeout=40)
     return json.loads(data).get('docs', []) if data else []
 
 
 def score(book, doc):
-    """How well a search result matches the book we asked for: title words, an author surname, then popularity."""
-    if not doc.get('cover_i'):
-        return -1
+    """How well a search result matches the book we asked for: the title's words, one of the authors' surnames, then popularity.
+    A result by somebody else is never taken, however close the title: "Plato's Invisible Cities" is not Calvino's."""
     want, got = words(book['title']), words(doc.get('title', ''))
     if not want:
         return -1
     overlap = len(want & got) / len(want)
     if overlap < 0.6:
         return -1
-    authors = ' '.join(doc.get('author_name') or [])
+    authors = fold(' '.join(doc.get('author_name') or []))
     surnames = [w for w in fold(book['by']).split() if len(w) > 3 and w not in STOP and w not in ('editor', 'editors', 'edited')]
-    author_ok = any(s in fold(authors) for s in surnames) if surnames else True
-    s = overlap * 10 + (6 if author_ok else -4) + min(doc.get('edition_count', 0), 30) / 10
+    if surnames and not any(w in authors for w in surnames):
+        return -1
+    s = overlap * 10 + (3 if fold(doc.get('title', '')).strip() == fold(book['title']).strip() else 0) + min(doc.get('edition_count', 0), 30) / 10
     if 'eng' in (doc.get('language') or []):
         s += 1
     return s
+
+
+def cover_sources(doc):
+    """Places a result's cover can come from, best first: the work's cover, the cover edition, then its editions' ISBNs."""
+    out = []
+    if doc.get('cover_i'):
+        out.append(('id', doc['cover_i']))
+    if doc.get('cover_edition_key'):
+        out.append(('olid', doc['cover_edition_key']))
+    for isbn in (doc.get('isbn') or [])[:6]:
+        out.append(('isbn', isbn))
+    return out
 
 
 def find(book, choice):
@@ -114,21 +127,34 @@ def find(book, choice):
             return d['key'], d['cover_i'], (d.get('isbn') or [None])[0], d.get('first_publish_year'), 'work from book_choices.json'
         return None, None, None, None, f"work {choice['olid']} has no cover on Open Library"
     first_author = re.split(r',| and |\(', book['by'])[0].strip()
-    tries = [{'title': book['title'], 'author': first_author}, {'title': book['title']}, {'q': f"{book['title']} {first_author}"}]
-    best, best_s, seen = None, 0, 0
+    short = re.split(r'[:(]', book['title'])[0].strip()  # "Louis I. Kahn" rather than the whole subtitle
+    tries = [{'title': book['title'], 'author': first_author}, {'title': short, 'author': first_author}, {'q': f"{short} {first_author}"}, {'title': short}]
+    ranked, seen = [], set()
     for params in tries:
-        docs = search(params)
-        seen += len(docs)
-        for d in docs:
+        for d in search(params):
+            if d['key'] in seen:
+                continue
+            seen.add(d['key'])
             s = score(book, d)
-            if s > best_s:
-                best, best_s = d, s
-        if best_s >= 14:
+            if s > 0:
+                ranked.append((s, d))
+        if ranked and max(r[0] for r in ranked) >= 12:
             break
-    if not best:
-        return None, None, None, None, f'no match with a cover among {seen} results'
-    note = '' if best_s >= 14 else f'weak match (score {best_s:.0f}): "{best.get("title")}" by {", ".join(best.get("author_name") or [])}'
-    return best['key'], best['cover_i'], (best.get('isbn') or [None])[0], best.get('first_publish_year'), note
+    if not ranked:
+        return None, None, None, None, f'no result by this author with this title among {len(seen)} results'
+    ranked.sort(key=lambda r: -r[0])
+    return ranked, None, None, None, ''
+
+
+def first_cover(ranked):
+    """Try each matching result's cover sources in turn and return (doc, cover bytes, where it came from)."""
+    for s, d in ranked[:4]:
+        for kind, value in cover_sources(d):
+            url = COVER.format(value) if kind == 'id' else COVER_BY.format(kind, value)
+            data = fetch(url)
+            if data and len(data) > 1500:
+                return d, data, f'{kind} {value}' + ('' if s >= 12 else f' (loose title match: "{d.get("title")}")')
+    return None, None, None
 
 
 def save_thumb(data, path):
@@ -177,6 +203,17 @@ def main():
             continue
         try:
             key, cover_id, isbn, ol_year, note = find(b, choice)
+            if isinstance(key, list):  # ranked search results: take the first one whose cover exists
+                doc, data, where = first_cover(key)
+                if not doc:
+                    note = f'{len(key)} matching results, none with a cover'
+                    key = cover_id = None
+                else:
+                    key, isbn, ol_year, note = doc['key'], (doc.get('isbn') or [None])[0], doc.get('first_publish_year'), where
+                    cover_id, src = where.split(' (')[0], None
+            else:
+                data = fetch(COVER.format(cover_id)) if cover_id else None
+                src = None
         except Exception as e:
             rows.append((b, f'lookup failed: {e}'))
             out.append(b)
@@ -186,7 +223,6 @@ def main():
             rows.append((b, note))
             out.append(b)
             continue
-        data = fetch(COVER.format(cover_id))
         size = save_thumb(data, IMG / f"{b['id']}.webp") if data else None
         if not size:
             rows.append((b, f'cover {cover_id} is missing or too small'))
@@ -198,8 +234,10 @@ def main():
             b['isbn'] = isbn
         if ol_year:
             b['olYear'] = ol_year
-        b['cover'] = {'thumb': f"images/books/{b['id']}.webp", 'src': f'https://covers.openlibrary.org/b/id/{cover_id}-L.jpg', 'id': cover_id, 'w': size[0], 'h': size[1],
-                      'source': f'https://openlibrary.org/works/{b["ol"]}' if key else f'https://covers.openlibrary.org/b/id/{cover_id}.json'}
+        kind, value = (cover_id.split(' ', 1) if isinstance(cover_id, str) else ('id', cover_id))
+        full = f'https://covers.openlibrary.org/b/id/{value}-L.jpg' if kind == 'id' else f'https://covers.openlibrary.org/b/{kind}/{value}-L.jpg'
+        b['cover'] = {'thumb': f"images/books/{b['id']}.webp", 'src': full, 'w': size[0], 'h': size[1],
+                      'source': f'https://openlibrary.org/works/{b["ol"]}' if key else full}
         print(f"    cover {cover_id} ({size[0]}x{size[1]}) {note}")
         rows.append((b, note or 'ok'))
         out.append(b)
