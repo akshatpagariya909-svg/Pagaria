@@ -36,6 +36,22 @@
   "note": "Checked by eye: METU ARCH.jpg (3968x2976, CC0) shows the faculty from outside, its board-marked concrete covered walkway on the campus spine. METU ARCH2.jpg and METU ARCH3.jpg (same author, CC0) not viewed. The category also has about 30 SALT Research archive photos from 1961-80 (e.g. File:METU, Faculty of Architecture (14663172139).jpg, entrance and stairs), tagged only No known copyright restrictions, which is not one of our accepted licences."
  },
  {
+  "id": "magney-house",
+  "name": "Magney House",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "end elevation from the east (south to the left, north to the right): the asymmetric curved V roof, low closed south wall, tall north wall under the long rising north eave, and the downpipe at the end of the valley gutter",
+  "sources": [
+   "https://www.southcoasthistory.org.au/history-stories-nsw-south-coast/magney-house-bingie-bingie",
+   "https://www.atlasofinteriors.polimi.it/2014/03/19/murcutt-magneyhouse-1984/",
+   "https://www.dezeen.com/2019/02/18/glenn-murcutt-key-projects-architecture/",
+   "https://befrontmag.com/2016/09/09/magney-house-dial-m-for-murcutt/"
+  ],
+  "note": "No photo, plan or drawing of the house on Commons (searched Magney, Bingie, Murcutt). Sources agree on a curved corrugated-steel roof that dips to a valley gutter, the valley separating the southern service strip from the larger northern living zone, a big angled north overhang over glazing with external louvres, a lower closed south wall, and one large downpipe at each end of the valley feeding underground tanks. Exact eave and valley heights are not published in what I could reach; the drawing keeps the proportions modest (about 3 m south wall, 4.6 m north wall). Worth a quick check by the owner against a photo before it goes live."
+ },
+ {
   "id": "mapungubwe-interpretation-centre",
   "name": "Mapungubwe Interpretation Centre",
   "status": "photo",
@@ -60,6 +76,23 @@
    "https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20517691186).jpg"
   ],
   "note": "About 18 CC BY 2.0 photos from the South African Tourism Flickr stream (6016x4016 and 4928x3280). Checked 20517691186 by eye: clear exterior of the stone-clad vaults and cairn domes. The others are in the same category but I did not view each one. The category named Mapungubwe Interpretation Center is empty; use the one above."
+ },
+ {
+  "id": "mater-misericordiae-church",
+  "name": "Mater Misericordiae Church",
+  "status": "drawn",
+  "commons_category": "Category:Nostra Signora della Misericordia (Baranzate)",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation of the short entrance facade: translucent panel wall (5 bays x 8 rows), clerestory band with the X-section ends of the roof beams, thin roof fascia",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Baranzate_(MI)_-_chiesa_di_Nostra_Signora_della_Misericordia.jpg",
+   "https://commons.wikimedia.org/wiki/File:Baranzate_(MI)_-_chiesa_di_Nostra_Signora_della_Misericordia_-_interno.jpg",
+   "https://www.fondazionefavini.it/en/opere/chiesa-parrocchiale-baranzate-di-bollate/",
+   "https://www.domusweb.it/en/from-the-archive/2024/02/26/anticipating-the-architecture-of-light-the-glass-church-in-baranzate.html",
+   "https://www.lombardiabeniculturali.it/architetture900/schede/p4010-00223/"
+  ],
+  "note": "The only free exterior photo, File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg (CC BY-SA 4.0), is 1024x768, below the 1200px rule, so I drew it. Proportions follow sources (about 14.3 x 28.6 m plan, 10 m high) and that frontal photo: 5 bays of 90x270 cm sandwich panels, 8 rows high, with the bow-tie beam ends in the glazed band under the roof. I left out the entrance door, the freestanding cross and the open steel bell tower beside the church, and the perimeter stone wall, which the photo does not show clearly."
  },
  {
   "id": "minna-no-mori-gifu-media-cosmos",
