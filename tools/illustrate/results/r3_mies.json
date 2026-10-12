@@ -1209,5 +1209,314 @@
    "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
   ],
   "note": "Only one photo (1272x1000), credited to photographer Erica Overmeer; worth checking the upload is hers or licensed by her. Living and working building in Berlin-Wedding."
+ },
+ {
+  "id": "hedge-house-wijlre",
+  "name": "Hedge House",
+  "by": "Wiel Arets",
+  "city": "Wijlre",
+  "cc": "NL",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Concrete and glass art pavilion in the garden of Kasteel Wijlre, set low between tall hedges.",
+  "award": "Mies van der Rohe Award 2003 finalist",
+  "status": "photo",
+  "commons_category": "Category:Hedge House (Wijlre)",
+  "photos": [
+   {
+    "file": "File:Wijlre-Hedge House (1).JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wijlre-Hedge House (2a).JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Completion year from memory; check."
+ },
+ {
+  "id": "convent-saint-francois-tallano",
+  "name": "Rebirth of the Convent Saint-François",
+  "by": "Amelia Tavella Architectes",
+  "city": "Sainte-Lucie-de-Tallano",
+  "cc": "FR",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "A perforated copper volume rebuilds the lost north wing of a 1480 Franciscan convent, roof included.",
+  "award": "Mies van der Rohe Award 2024 finalist",
+  "status": "unsure",
+  "commons_category": "Category:Couvent Saint-François de Sainte-Lucie-de-Tallano",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+   "https://www.detail.de/de_en/klostererweiterung-auf-korsika-von-amelia-tavella-architectes"
+  ],
+  "note": "Commons photos (2006-2019) all predate the 2021 extension, so they show the old ruin, not the awarded work. Not drawn: sources say the copper volume follows the old north wing and covers its roof, but I could not pin down its storeys and openings. France has no freedom of panorama. Year from memory."
+ },
+ {
+  "id": "railway-farm-paris",
+  "name": "The Railway Farm (La Ferme du Rail)",
+  "by": "Grand Huit",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2019",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Planting"
+  ],
+  "features": "Timber buildings with rooftop greenhouses beside the old Petite Ceinture railway: housing, a farm and a restaurant.",
+  "award": "Mies van der Rohe Award 2022 finalist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found (France has no freedom of panorama). Not drawn: I could not establish the massing from reachable sources. Facts from memory; check."
+ },
+ {
+  "id": "reggio-school-madrid",
+  "name": "Reggio School",
+  "by": "Andrés Jaque / Office for Political Innovation",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "2022",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Sculptural form",
+   "Climate response"
+  ],
+  "features": "School stacked as a vertical sequence of environments, its irregular exterior coated in sprayed cork.",
+  "award": "Mies van der Rohe Award 2024 finalist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found. Not drawn: the massing is irregular and I could not establish it with confidence. Cork coating from memory; check."
+ },
+ {
+  "id": "enrico-fermi-school-turin",
+  "name": "Enrico Fermi School",
+  "by": "BDR bureau",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "2020",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Circulation"
+  ],
+  "features": "A 1960s school reworked and opened to its neighbourhood, with new shared spaces at ground level.",
+  "award": "Mies van der Rohe Award 2022, Emerging Architecture finalist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found (Italy has no freedom of panorama). Not drawn: form not established. Year and description from memory; check."
+ },
+ {
+  "id": "collage-house-girona",
+  "name": "Collage House",
+  "by": "Bosch.Capdeferro Arquitectures",
+  "city": "Girona",
+  "cc": "ES",
+  "year": "2009",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "An old town house in Girona rebuilt by layering new rooms, patios and light wells into the old stone walls.",
+  "award": "Mies van der Rohe Award 2011, Emerging Architect special mention",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos. Not drawn: the work is mostly inside an existing house; the exterior is not documented in reachable sources. Year from memory."
+ },
+ {
+  "id": "casa-luz-cilleros",
+  "name": "Casa Luz",
+  "by": "Arquitectura-G",
+  "city": "Cilleros",
+  "cc": "ES",
+  "year": "2014",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Courtyard"
+  ],
+  "features": "A village stone house in Extremadura hollowed out around a bright central space.",
+  "award": "Mies van der Rohe Award 2015, Emerging Architect special mention",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos. Not drawn: exterior not documented in reachable sources. Year and description from memory; check."
+ },
+ {
+  "id": "koprivnica-gymnasium",
+  "name": "Gymnasium, Koprivnica",
+  "by": "Studio UP",
+  "city": "Koprivnica",
+  "cc": "HR",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Steel & glass",
+   "Community"
+  ],
+  "features": "A secondary school and sports hall combined in one long building that the town also uses.",
+  "award": "Mies van der Rohe Award 2009, Emerging Architect special mention",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found. Not drawn: form not established from reachable sources. Year and description from memory; check."
+ },
+ {
+  "id": "kaufmann-holz-bobingen",
+  "name": "Kaufmann Holz Distribution Centre",
+  "by": "Florian Nagler",
+  "city": "Bobingen",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Prefabrication",
+   "Low cost"
+  ],
+  "features": "A large timber warehouse for a timber firm, built quickly and cheaply from simple prefabricated parts.",
+  "award": "Mies van der Rohe Award 2001, Emerging Architect special mention",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found. Not drawn: form not established from reachable sources. Year and description from memory; check."
+ },
+ {
+  "id": "fmf-mathematics-ljubljana",
+  "name": "Department of Mathematics, Faculty of Mathematics and Physics",
+  "by": "Bevk Perović arhitekti",
+  "city": "Ljubljana",
+  "cc": "SI",
+  "year": "2006",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "University building for mathematics in Ljubljana; the young office's first major award.",
+  "award": "Mies van der Rohe Award 2007, Emerging Architect special mention",
+  "status": "unsure",
+  "commons_category": "Category:Bevk Perović arhitekti",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photo of this building (the architects' category holds others). Not drawn: form not established. Facts beyond the award are from memory; check."
+ },
+ {
+  "id": "montbrun-bocage-school-canteen",
+  "name": "School Canteen, Montbrun-Bocage",
+  "by": "BAST (Bureau Architectures Sans Titre)",
+  "city": "Montbrun-Bocage",
+  "cc": "FR",
+  "year": null,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Low cost",
+   "Detail"
+  ],
+  "features": "Village school canteen of cross-laminated timber panels and black-framed glass on a sanded concrete plinth.",
+  "award": "Mies van der Rohe Award 2019, Emerging Architecture winner",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.floornature.com/new-e26-canteen-bast-firm-emerging-architecture-2019-14612/"
+  ],
+  "note": "No Commons photos (France has no freedom of panorama). Not drawn: materials are described, but not the roof shape or massing. Completion year not found."
  }
 ]

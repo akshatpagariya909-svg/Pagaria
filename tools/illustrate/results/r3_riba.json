@@ -523,5 +523,146 @@
    "https://en.wikipedia.org/wiki/Stirling_Prize"
   ],
   "note": "A Landmark Trust holiday let inside a 12th to 16th-century ruin; the award is for the intervention. Good interior photos too (e.g. Astley Castle Cloister.JPG)."
+ },
+ {
+  "id": "newport-street-gallery",
+  "name": "Newport Street Gallery",
+  "by": "Caruso St John",
+  "city": "London",
+  "cc": "GB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Detail"
+  ],
+  "features": "Listed Victorian workshops joined to new brick end buildings with sawtooth roofs; galleries run through all of them.",
+  "award": "RIBA Stirling Prize 2016",
+  "status": "photo",
+  "commons_category": "Category:Newport Street Gallery",
+  "photos": [
+   {
+    "file": "File:Newport Street Gallery, London.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Newport Street Gallery.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Newport Street Gallery 2024-09-30.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newport_Street_Gallery",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Damien Hirst's gallery in Vauxhall."
+ },
+ {
+  "id": "bloomberg-london",
+  "name": "Bloomberg London",
+  "by": "Foster + Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "Two sandstone-framed blocks with bronze fins, split by a public arcade; the Roman Temple of Mithras is shown beneath.",
+  "award": "RIBA Stirling Prize 2018",
+  "status": "photo",
+  "commons_category": "Category:Bloomberg London",
+  "photos": [
+   {
+    "file": "File:Bloomberg London exterior - Cannon Street, Walbrook.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Bloomberg Offices.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bloomberg European Headquarters, London.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Bloomberg London model - 1.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bloomberg London model - 2.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bloomberg_London",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Many free interior photos (ramp, lobby, ceilings) from a Wikimedia UK event; subcategory London Mithraeum."
+ },
+ {
+  "id": "everyman-theatre-liverpool",
+  "name": "Everyman Theatre",
+  "by": "Haworth Tompkins",
+  "city": "Liverpool",
+  "cc": "GB",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Reclaimed material",
+   "Brick"
+  ],
+  "features": "Front of metal sunshades cut with life-size portraits of local people; walls of brick reclaimed from the old theatre.",
+  "award": "RIBA Stirling Prize 2014",
+  "status": "photo",
+  "commons_category": "Category:Everyman Theatre, Liverpool",
+  "photos": [
+   {
+    "file": "File:Everyman Theatre, Liverpool 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Everyman Theatre 2014-08.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Façade of Everyman Theatre - geograph.org.uk - 8190581.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Everyman_Theatre,_Liverpool",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Category also holds photos of the pre-2011 theatre (e.g. Everyman Theatre Liverpool.jpg, CC0, shows the old building); use only post-2014 files."
  }
 ]

@@ -222,7 +222,7 @@
  {
   "id": "the-datai-langkawi",
   "name": "The Datai Langkawi",
-  "by": "Kerry Hill Architects",
+  "by": "Kerry Hill with Akitek Jururancang",
   "city": "Langkawi",
   "cc": "MY",
   "year": "1993",
@@ -253,9 +253,10 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://commons.wikimedia.org/w/index.php?search=Datai+Langkawi"
+   "https://www.homeanddecor.com.sg/interior-design/datai-langkawi-resort",
+   "https://www.dl2a.fr/en/datai"
   ],
-  "note": "Year 1993 from memory (opened 1993); check. Files DL2A---The-Dataï-Langkawi (1100px) are from a 2020s renovation by DL2A, so the panoramio photo is the better record of Kerry Hill's building. No Commons category found."
+  "note": "Opened 1993; the main buildings sit about 40 m above and 300 m back from the sea, in the rainforest. Files DL2A---The-Dataï-Langkawi (1100px) are from the 2017-19 renovation by DL2A, so the panoramio photo is the better record of Kerry Hill's building. No Commons category found."
  },
  {
   "id": "kaedi-regional-hospital",
@@ -338,7 +339,7 @@
   "by": "Andra Matin",
   "city": "Banyuwangi",
   "cc": "ID",
-  "year": "2017",
+  "year": "2018",
   "type": "Infrastructure",
   "movement": "Regionalism",
   "concepts": [
@@ -361,10 +362,11 @@
   "view": null,
   "after": null,
   "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/blimbingsari-airport",
    "https://kanto.ph/spaces/andramatin-wins-the-aga-khan-award-for-architecture-2022",
    "https://art4d.com/en/2023/05/banyuwangi-international-airport"
   ],
-  "note": "Completion year 2017 is from memory (terminal opened 2017); not confirmed by the sources read. Reclaimed ship timber is mentioned in a travel guide only."
+  "note": "Aga Khan record: completed 2018 (listed as Blimbingsari Airport). Reclaimed ship timber is mentioned in a travel guide only."
  },
  {
   "id": "argo-contemporary-art-museum",
@@ -482,7 +484,7 @@
   "id": "entrepreneurship-development-institute",
   "name": "Entrepreneurship Development Institute of India",
   "by": "Bimal Hasmukh Patel",
-  "city": "Gandhinagar",
+  "city": "Ahmedabad",
   "cc": "IN",
   "year": "1987",
   "type": "Education",
@@ -492,7 +494,7 @@
    "Courtyard",
    "Climate response"
   ],
-  "features": "Brick campus around a lawn and courtyards; deep arcades and shaded openings for Gujarat's heat.",
+  "features": "Brick campus of seven or eight blocks along two axes around courtyards, with deep arcades for the heat.",
   "award": "Aga Khan Award 1992",
   "status": "photo",
   "commons_category": "Category:Entrepreneurship Development Institute of India",
@@ -511,9 +513,10 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://en.wikipedia.org/wiki/Aga_Khan_Award_for_Architecture"
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/entrepreneurship-development-institute-india",
+   "https://en.wikipedia.org/wiki/Bimal_Patel_(architect)"
   ],
-  "note": "Year 1987 from memory (Patel's first major work, designed 1985); check. Wikipedia's list says Ahmedabad; the campus is at Bhat, Gandhinagar district. The 'Public domain' licence on EDII03 should be double-checked on its file page."
+  "note": "Aga Khan record: completed 1987, Ahmedabad (the campus is at Bhat, on the Gandhinagar side); databases say 1986. The 'Public domain' licence on EDII03 should be double-checked on its file page."
  },
  {
   "id": "yaama-mosque",
@@ -643,5 +646,576 @@
    "https://www.world-architects.com/ca/architecture-news/headlines/shortlist-for-2016-aga-khan-award"
   ],
   "note": "Only one free photo (4032x3024), a night view of the stone wall and entrance bridge. Year 2014 from memory; check."
+ },
+ {
+  "id": "mecca-conference-centre",
+  "name": "Intercontinental Hotel and Conference Centre, Mecca",
+  "by": "Rolf Gutbrod, Frei Otto",
+  "city": "Mecca",
+  "cc": "SA",
+  "year": "1974",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Hotel and conference hall in a wadi below the Sirat hills; the hall hangs from a cable-net roof.",
+  "award": "Aga Khan Award 1980",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frei_Otto",
+   "https://www.encyclopedia.com/people/literature-and-arts/architecture-biographies/frei-otto"
+  ],
+  "note": "No free photo on Commons. Sources confirm a hanging cable-net roof over the auditorium (1,500 or 2,000 seats, sources differ) with aluminium cover, built 1971-74 with Arup, but not the overall massing, the number of masts or how hotel and hall are arranged. Not drawn."
+ },
+ {
+  "id": "moulmein-rise",
+  "name": "Moulmein Rise",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2003",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "28-storey tower whose bay windows hide 'monsoon windows': slots that let the breeze in and keep rain out.",
+  "award": "Aga Khan Award 2007",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://woha.net/project/no-1-moulmein-rise/",
+   "https://the.akdn/en/architecture/project/moulmein-rise-residential-building"
+  ],
+  "note": "No photo on Commons (Singapore allows freedom of panorama, so a new upload would be fine). I drew a version but removed it: sources confirm a slim north-south slab of 28 storeys with bay windows and perforated panels on the south and metal screens on the north, but not how the bay windows are arranged, so the drawing came out as a generic gridded tower."
+ },
+ {
+  "id": "wasit-wetland-centre",
+  "name": "Wasit Wetland Centre",
+  "by": "X-Architects",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Water"
+  ],
+  "features": "Visitor centre sunk into the ground: a ramp leads down to a long glazed gallery looking into the bird aviaries.",
+  "award": "Aga Khan Award 2019",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wasit_Wetland_Centre",
+   "https://www.dezeen.com/2016/05/21/x-architects-wasit-natural-reserve-sharjah-uae/"
+  ],
+  "note": "Commons has about 20 'Wasit Wetland' files (CC BY-SA 4.0); the ones I looked at (Wasit wetland.jpg, Wasit Wetland center.jpg, center 0, 2, 3, Wasit Wetland.jpg) show the lagoon and birds, not the building. File:Wasit Wetland Centre.jpg is an interior. Unchecked: Wasit Wetland center 1 and 4 (portrait). The sunken form is hard to show in elevation, so not drawn."
+ },
+ {
+  "id": "kamanar-secondary-school",
+  "name": "Kamanar Secondary School",
+  "by": "Dawoffice",
+  "city": "Thionck Essyl",
+  "cc": "SN",
+  "year": "2021",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Vault",
+   "Earth & local material",
+   "Climate response"
+  ],
+  "features": "Classrooms of on-site clay under catenary vaults, shaded by raised metal roofs and timber lattice walls.",
+  "award": "Aga Khan Award 2022",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/20934",
+   "https://e-architect.com/africa/cem-kamanar-secondary-school-senegal-building"
+  ],
+  "note": "No photo on Commons. Sources confirm clay catenary vaults covered by metal sheeting on a timber structure, timber lattice infill and classroom modules around tree squares, but not the shape of the metal roof, so not drawn. Year 2021 is from memory; check."
+ },
+ {
+  "id": "khudi-bari",
+  "name": "Khudi Bari",
+  "by": "Marina Tabassum Architects",
+  "city": "Various locations",
+  "cc": "BD",
+  "year": "",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Modular",
+   "Low cost",
+   "Climate response"
+  ],
+  "features": "Two-level bamboo frame with steel joints; the upper floor sits six feet up as a refuge from floods.",
+  "award": "Aga Khan Award 2025",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://marinatabassumarchitects.com/khudi-bari/",
+   "https://en.prothomalo.com/bangladesh/8wrat09ap0"
+  ],
+  "note": "No photo on Commons. Sources describe the frame, joints and two levels but not the roof form or proportions, so not drawn. Built in several places from about 2020; no single completion year found, so year left blank. Bangladesh has no freedom of panorama for buildings by living architects."
+ },
+ {
+  "id": "west-wusutu-community-centre",
+  "name": "West Wusutu Village Community Centre",
+  "by": "Zhang Pengju, Inner Mongolian Grand Architecture Design",
+  "city": "Hohhot",
+  "cc": "CN",
+  "year": "2023",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Brick",
+   "Community"
+  ],
+  "features": "Village centre built from bricks salvaged from local demolition, for elders, children, artists and Hui Muslims.",
+  "award": "Aga Khan Award 2025",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.canadianarchitect.com/2025-aga-khan-award-for-architecture-winners-announced/",
+   "https://www.metalocus.es/en/news/seven-winners-2025-aga-khan-award-architecture"
+  ],
+  "note": "No photo on Commons. Sources describe purpose, reclaimed bricks and a sunken central area that becomes a pool, but not the massing, so not drawn."
+ },
+ {
+  "id": "vision-pakistan",
+  "name": "Vision Pakistan",
+  "by": "DB Studios (Mohammad Saifullah Siddiqui)",
+  "city": "Islamabad",
+  "cc": "PK",
+  "year": "",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Void"
+  ],
+  "features": "Vocational school for young people behind colourful pierced-metal jali screens, around a tree-filled atrium.",
+  "award": "Aga Khan Award 2025",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://gulfnews.com/amp/story/world%2Fasia%2Fpakistan%2Fvision-pakistan-project-wins-aga-khan-award-for-architecture-1.500253836",
+   "https://pamirtimes.net/2025/09/16/vision-pakistan-wins-prestigious-aga-khan-architecture-award-for-socially-transformative-design/"
+  ],
+  "note": "No photo on Commons. Storey count and completion year not found, so not drawn and year left blank."
+ },
+ {
+  "id": "wonder-cabinet",
+  "name": "Wonder Cabinet",
+  "by": "AAU Anastas",
+  "city": "Bethlehem",
+  "cc": "PS",
+  "year": "2023",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Void",
+   "Community"
+  ],
+  "features": "Three-storey concrete hub of workshops, studios and a radio station around a void, above Al-Karkafeh valley.",
+  "award": "Aga Khan Award 2025",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archdaily.com/1037480/recasting-cultural-infrastructure-on-aau-anastas-aga-khan-award-winning-wonder-cabinet",
+   "https://www.dezeen.com/2025/09/02/aga-khan-award-architecture-2025-winners/"
+  ],
+  "note": "No photo on Commons. Exterior form not described in what I could read, so not drawn."
+ },
+ {
+  "id": "salinger-house",
+  "name": "Salinger House",
+  "by": "Jimmy Lim",
+  "city": "Kajang",
+  "cc": "MY",
+  "year": "1992",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "Chengal timber house raised on stilts, its plan made of triangles, joined without metal fasteners.",
+  "award": "Aga Khan Award 1998",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salinger_House"
+  ],
+  "note": "No photo on Commons (Wikipedia's lead image Salinger_House.png appears to be a local file). Sources do not describe the roof, so not drawn. Wikipedia says the house was later moved to Paroi, Seremban."
+ },
+ {
+  "id": "micro-yuaner",
+  "name": "Micro Yuan'er Children's Library and Art Centre",
+  "by": "ZAO/standardarchitecture (Zhang Ke)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "A 9 m² children's library of plywood and ink-tinted concrete slipped under a hutong roof, beside an old scholar tree.",
+  "award": "Aga Khan Award 2016",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micro_Yuan%27er_Children%27s_Library_and_Art_Centre"
+  ],
+  "note": "No photo on Commons. The work is inside an existing courtyard house, so an exterior elevation would show the old building, not the intervention. Not drawn."
+ },
+ {
+  "id": "niemeyer-guest-house-renovation",
+  "name": "Renovation of Niemeyer Guest House",
+  "by": "East Architecture Studio (Nicolas Fayad, Charles Kettaneh)",
+  "city": "Tripoli",
+  "cc": "LB",
+  "year": "2018",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Detail"
+  ],
+  "features": "Niemeyer's guest house at the Tripoli fair, made a workshop for local carpenters with reversible steel, glass, plywood.",
+  "award": "Aga Khan Award 2022",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/20949",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/renovation-of-niemeyer-guest-house"
+  ],
+  "note": "Category:Rachid Karami International Fair in Tripoli has about 45 free photos of the fair, but none is labelled as the guest house. Someone who can compare them with published photos may find it. Form not established, so not drawn. Commissioned for Minjara, a Tripoli wood-industry initiative."
+ },
+ {
+  "id": "alliance-franco-senegalaise-kaolack",
+  "name": "Alliance Franco-Sénégalaise, Kaolack",
+  "by": "Patrick Dujarric",
+  "city": "Kaolack",
+  "cc": "SN",
+  "year": "1994",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Public space",
+   "Climate response",
+   "Community"
+  ],
+  "features": "Cultural centre with library and performance space, mostly open to the air; only a small part is enclosed.",
+  "award": "Aga Khan Award 1995",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://visav.phys.uvic.ca/~babul/Arif/CyberMuslim/metgifs/islam3.html",
+   "https://au-senegal.com/alliance-franco-senegalaise-de-kaolack,2876.html"
+  ],
+  "note": "No photo on Commons. Sources give load-bearing concrete block and concrete roofs but no description of the form. Not drawn."
+ },
+ {
+  "id": "nail-cakirhan-residence",
+  "name": "Nail Çakırhan Residence",
+  "by": "Nail Çakırhan",
+  "city": "Akyaka",
+  "cc": "TR",
+  "year": "1971",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Climate response"
+  ],
+  "features": "Timber-framed house with white lime walls, deep eaves, a loggia along its length and a polygonal central hall.",
+  "award": "Aga Khan Award 1983",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/156",
+   "https://krdo.com/news/2025/11/26/how-a-picture-perfect-mediterranean-village-was-saved-from-concrete-by-a-poet-with-a-plan/"
+  ],
+  "note": "No photo on Commons. Built by a poet with two local carpenters; the award was controversial as he had no formal training. Storeys and roof form not confirmed, so not drawn. Akyaka has many free photos of later houses in his style; they are not this house."
+ },
+ {
+  "id": "agadir-courtyard-houses",
+  "name": "Courtyard Houses, Agadir",
+  "by": "Jean-François Zevaco",
+  "city": "Agadir",
+  "cc": "MA",
+  "year": "1965",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Brick"
+  ],
+  "features": "17 single-storey row houses rebuilt after the 1960 earthquake, each with five private patios and a service court.",
+  "award": "Aga Khan Award 1980",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/courtyard-houses",
+   "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Zevaco"
+  ],
+  "note": "No photo on Commons. The idea lives in the plan (interlocking patios), which an elevation cannot show and which I could not see. Archnet gives 1964, others 1965."
+ },
+ {
+  "id": "mopti-medical-centre",
+  "name": "Medical Centre, Mopti",
+  "by": "André Ravéreau",
+  "city": "Mopti",
+  "cc": "ML",
+  "year": "1976",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Brise-soleil",
+   "Courtyard"
+  ],
+  "features": "Low banco-earth clinics and wards around a courtyard, with brise-soleils, deep overhangs and clerestory vents.",
+  "award": "Aga Khan Award 1980",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://the.akdn/architecture/project/medical-centre",
+   "https://archnet.org/sites/66",
+   "https://en.wikipedia.org/wiki/Andr%C3%A9_Rav%C3%A9reau"
+  ],
+  "note": "Possible photo: File:Mopti, la Vénise du Mali, le CSRéf retouché.jpg (1918x1077, CC BY-SA 4.0) shows Mopti's Centre de Santé de Référence, low buildings with perforated claustra screens. It may be Ravéreau's centre, but I could not confirm it, so it is not listed as a photo. Owner could check against Archnet's photos."
+ },
+ {
+  "id": "concrete-alserkal-avenue",
+  "name": "Concrete at Alserkal Avenue",
+  "by": "OMA (Iyad Alsaka)",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Free plan"
+  ],
+  "features": "Four warehouses made an arts venue: translucent polycarbonate front, full-height doors, 8 m pivoting walls inside.",
+  "award": "Aga Khan Award 2019 shortlist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.metalocus.es/en/news/concrete-alserkal-avenue-first-built-project-uae-oma",
+   "https://architizer.com/blog/?p=11098"
+  ],
+  "note": "No photo on Commons (UAE has no freedom of panorama). Front width and height not found; a drawing would be a generic shed, so not drawn."
+ },
+ {
+  "id": "morocco-pavilion-expo-2020",
+  "name": "Morocco Pavilion, Expo 2020 Dubai",
+  "by": "Oualalou + Choi",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2021",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Courtyard",
+   "Climate response"
+  ],
+  "features": "22 stacked rammed-earth boxes, about 34 m high, around a courtyard and a ramped street inside.",
+  "award": "Aga Khan Award 2025 shortlist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.designboom.com/architecture/oualalou-choi-morocco-pavilion-dubai-expo-rammed-earth-facade-06-05-2020/",
+   "https://www.arch2o.com/morocco-pavilion-expo-2020-dubai-oualalouchoi"
+  ],
+  "note": "No photo on Commons. How the 22 volumes stack is not described, so not drawn. Expo opened October 2021."
+ },
+ {
+  "id": "muttrah-fish-market",
+  "name": "Muttrah Fish Market",
+  "by": "Snøhetta",
+  "city": "Muttrah",
+  "cc": "OM",
+  "year": "2017",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Sculptural form"
+  ],
+  "features": "Market under a sweeping canopy of 2,400 aluminium slats; perforated concrete walls let sea air through.",
+  "award": "Aga Khan Award 2019 shortlist",
+  "status": "unsure",
+  "commons_category": "Category:Muttrah fish market",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/13838-muttrah-fish-market-by-sn%C3%B8hetta",
+   "https://www.hydro.com/en/global/media/news/2013/fascinating-aluminium-roof-over-oman-fish-market/"
+  ],
+  "note": "Commons category exists but its files are Flickr photos from 2010, before Snøhetta's building (2017/2018), so they show the old market. Canopy shape not pinned down, so not drawn."
+ },
+ {
+  "id": "gaoligong-museum-of-handcraft-paper",
+  "name": "Gaoligong Museum of Handcraft Paper",
+  "by": "TAO (Hua Li)",
+  "city": "Tengchong",
+  "cc": "CN",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Cluster",
+   "Earth & local material"
+  ],
+  "features": "Village museum of small linked pavilions in local timber, bamboo and handmade paper.",
+  "award": "Aga Khan Award 2013 shortlist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.metalocus.es/en/news/20-projects-shortlisted-aga-khan-award-architecture-2013"
+  ],
+  "note": "No photo on Commons. Facts beyond the shortlist (materials, 2010, cluster of small volumes) are from memory and need checking; form not established, so not drawn."
+ },
+ {
+  "id": "bhong-mosque",
+  "name": "Bhong Mosque",
+  "by": "Rais Ghazi Mohammad (patron) with local craftsmen",
+  "city": "Bhong",
+  "cc": "PK",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Community",
+   "Colour"
+  ],
+  "features": "Village mosque built and decorated over fifty years, 1932-82, crowded with domes, minarets and ornament.",
+  "award": "Aga Khan Award 1986",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bhong mosque - front view.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bhong Mosque.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bhong Masjid Front view.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bhong_Mosque"
+  ],
+  "note": "Wikipedia names no architect; the patron's name is from memory, check. The award was controversial (praised for craft, criticised as kitsch); worth a line if the owner wants it. Many more free photos on Commons."
  }
 ]
