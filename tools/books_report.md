@@ -1,6 +1,6 @@
 # Books report
 
-182 of 272 books have a cover.
+197 of 289 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -181,6 +181,23 @@
 | The Landscape Urbanism Reader (Charles Waldheim (editor)) | id 812779 |
 | Recovering Landscape: Essays in Contemporary Landscape Architecture (James Corner (editor)) | no result by this author with this title among 10 results |
 | The Poetics of Gardens (Charles W. Moore, William J. Mitchell and William Turnbull) | id 150264 |
+| A Fool’s Errand: Creating the National Museum of African American History and Culture in the Age of Bush, Obama, and Trump (Lonnie G. Bunch III) | id 8873277 (loose title match: "A Fool's Errand") |
+| The Trade Fair Palace in Prague (Miroslav Masák, Rostislav Švácha and Jindřich Vybíral) | 1 matching results, none with a cover |
+| Charles Garnier’s Paris Opéra: Architectural Empathy and the Renaissance of French Classicism (Christopher Curtis Mead) | id 150272 (loose title match: "Charles Garnier's Paris opéra") |
+| Mont-Saint-Michel and Chartres (Henry Adams) | id 8243921 |
+| Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle (Eugène-Emmanuel Viollet-le-Duc) | id 6129010 (loose title match: "Dictionnaire raisonné de l'architecture française du XIe au XVIe siècle") |
+| The Two Paths: Lectures on Art and Its Application to Decoration and Manufacture (John Ruskin) | id 10673435 |
+| Lives of the Most Excellent Painters, Sculptors, and Architects (Giorgio Vasari) | id 230615 (loose title match: "The lives of the most excellent painters, sculptors, and architects") |
+| The Crown of Wild Olive: Three Lectures on Work, Traffic and War (John Ruskin) | id 7427541 |
+| Lectures on Architecture and Painting (John Ruskin) | id 2492023 |
+| Mies van der Rohe (Jean-Louis Cohen) | id 13491294 |
+| The Future of Architecture (Frank Lloyd Wright) | id 10429429 |
+| The Decoration of Houses (Edith Wharton and Ogden Codman Jr.) | id 9329064 |
+| Morphosis: Buildings and Projects (Thom Mayne) | 1 matching results, none with a cover |
+| The Living City (Frank Lloyd Wright) | id 7230276 |
+| Une petite maison (Le Corbusier) | isbn 3760880207 |
+| Architecture in Britain 1530–1830 (John Summerson) | id 159937 (loose title match: "Architecture in Britain, 1530-1830") |
+| Le Corbusier: Œuvre complète (Willy Boesiger (editor)) | id 2235626 (loose title match: "Corbusier - OEuvre Complète Volume 1 : 1910-1929 : Volume 1") |
 
 ## No cover yet
 
@@ -276,3 +293,5 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - building-the-new-world-studies-in-the-modern-architecture-of: Building the New World: Studies in the Modern Architecture of Latin America 1930–1960 (Valerie Fraser)
 - chinese-architecture-a-pictorial-history: Chinese Architecture: A Pictorial History (Liang Ssu-ch’eng)
 - recovering-landscape-essays-in-contemporary-landscape-archit: Recovering Landscape: Essays in Contemporary Landscape Architecture (James Corner (editor))
+- the-trade-fair-palace-in-prague: The Trade Fair Palace in Prague (Miroslav Masák, Rostislav Švácha and Jindřich Vybíral)
+- morphosis-buildings-and-projects: Morphosis: Buildings and Projects (Thom Mayne)
