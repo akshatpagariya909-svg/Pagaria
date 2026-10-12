@@ -290,5 +290,81 @@
   "photos": [],
   "commons_category": null,
   "note": "No Commons category. Searches for Al Bahr / Al Bahar Towers, Aedas Abu Dhabi and Abu Dhabi Investment Council find only the tried 'Fountain and Al Bahr Towers - panoramio.jpg'."
+ },
+ {
+  "id": "one-zaabeel",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:New Year Countdown on One Zabeel Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:One Za'abeel Tower",
+  "note": "Only one usable file (not in the category; found by title search 'Zabeel'): a night view of the two towers lit with a New Year countdown, with The Link bridge glowing blue between them, centred among neighbouring towers. Readable, but a night shot. No daytime view on Commons."
+ },
+ {
+  "id": "sheikh-jaber-al-ahmad-cultural-centre",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Sheikh Jaber Al Ahmad Cultural Centre",
+  "note": "The category holds only the tried photo, a 490px image (Jacckuwait.jpg, too small) and a stage photo of an opera singer. English and Arabic searches find nothing else."
+ },
+ {
+  "id": "kauchuk-factory-club",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Moscow ClubKauchuk h42b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow. Kauchuk Factory Club P4141904 2600.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Клуб завода Каучук. 14.04.2022 (1) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Клуб завода Каучук.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Kauchuk Factory Club",
+  "note": "First: Melnikov's curved drum front with its glazed bays and the twin external stairs, whole building across the street under clear sky. Then the same front in spring, the side wing and drum from the corner, and a close frontal view of the drum in low sun (overhead wires cross the last one)."
+ },
+ {
+  "id": "kyiv-crematorium",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Ритуальні зали крематорія.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Байково кладбище крематорий и колумбарий.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Київський крематорій 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Київський крематорій.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Kyiv crematorium",
+  "note": "First: the two white shell-shaped farewell halls from above, the big arched shell with its ribbed glazed band and the pointed shell beside it (1800px, the clearest view). Then the shells from across the cemetery, both shells framed by leaves (6720px), and the complex in its wooded ravine with the city behind."
  }
 ]

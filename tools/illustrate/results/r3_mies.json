@@ -581,39 +581,6 @@
   "note": "Type is a department store; vocab has no retail type, so Workplace."
  },
  {
-  "id": "pavillon-noir",
-  "name": "Pavillon Noir (Centre Chorégraphique National)",
-  "by": "Rudy Ricciotti",
-  "city": "Aix-en-Provence",
-  "cc": "FR",
-  "year": "2006",
-  "type": "Culture & sport",
-  "movement": "Contemporary",
-  "concepts": [
-   "Exposed concrete",
-   "Structure as expression",
-   "Steel & glass"
-  ],
-  "features": "Glass box for a dance company held inside a black concrete exoskeleton of irregular diagonal struts.",
-  "award": "Mies van der Rohe Award 2007 finalist",
-  "status": "photo",
-  "commons_category": null,
-  "photos": [
-   {
-    "file": "File:Le Pavillon Noir (205248751).jpeg",
-    "license": "CC BY 3.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
-  ],
-  "note": "Only one free photo (2048x1356, black and white corner view). France has no freedom of panorama, so it could be deleted later; if it goes, this one is easy to draw."
- },
- {
   "id": "zenith-strasbourg",
   "name": "Zénith de Strasbourg",
   "by": "Massimiliano and Doriana Fuksas",
@@ -1479,7 +1446,7 @@
    "Facade as skin",
    "Courtyard"
   ],
-  "features": "University building for mathematics in Ljubljana; the young office's first major award.",
+  "features": "Faculty building for mathematics in central Ljubljana by a then-young Slovenian office.",
   "award": "Mies van der Rohe Award 2007, Emerging Architect special mention",
   "status": "unsure",
   "commons_category": "Category:Bevk Perović arhitekti",
@@ -1518,5 +1485,63 @@
    "https://www.floornature.com/new-e26-canteen-bast-firm-emerging-architecture-2019-14612/"
   ],
   "note": "No Commons photos (France has no freedom of panorama). Not drawn: materials are described, but not the roof shape or massing. Completion year not found."
+ },
+ {
+  "id": "antinori-nel-chianti-classico",
+  "name": "Antinori nel Chianti Classico Winery",
+  "by": "Archea Associati (Marco Casamonti)",
+  "city": "Bargino",
+  "cc": "IT",
+  "year": "2012",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Light & shadow"
+  ],
+  "features": "Winery buried in a vineyard hill; only two long horizontal cuts in the slope show the building.",
+  "award": "Mies van der Rohe Award 2015 finalist",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Elevation of the vineyard hill from the valley: the two horizontal incisions (glazed terraces under the planted roof), vine rows following the contours",
+  "after": null,
+  "sources": [
+   "https://ribaj.com/buildings/this-year-s-vintage",
+   "https://www.winespectator.com/articles/antinori-s-architectural-labor-of-love-49863",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No usable free exterior photo: Commons has one distant landscape view (File:Bargino.jpg, 1600x1200, CC BY-SA 3.0) where the winery is a faint band, and interior shots (File:Angoli e geometrie.jpg, File:Looking up (Unsplash).jpg, the spiral stair). Italy has no freedom of panorama. Glazing divisions are schematic."
+ },
+ {
+  "id": "fisterra-cemetery",
+  "name": "Fisterra Cemetery",
+  "by": "César Portela",
+  "city": "Fisterra",
+  "cc": "ES",
+  "year": null,
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Granite boxes scattered down the cliff above the Atlantic, linked by paths, with no enclosing wall.",
+  "award": "Mies van der Rohe Award 2003 finalist",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Side elevation of the slope falling to the sea, with a line of the granite boxes sitting on it",
+  "after": null,
+  "sources": [
+   "https://arquitecturaviva.com/works/cementerio-civil-fisterra-9",
+   "https://www.paxinasgalegas.es/fiestas/cementerio-cesar-portela-fisterra-17370.html",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons photos found. Drawing is schematic: a local listing says 14 granite cubes; six are shown, as one elevation would see them, and their spacing and sizes are illustrative. Openings left out because I could not confirm their shape. Sources disagree on dates (built c. 1997-2002); never used for burials. Owner may prefer to mark it unsure."
  }
 ]

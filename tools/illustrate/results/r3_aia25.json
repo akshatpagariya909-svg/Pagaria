@@ -724,5 +724,252 @@
    "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/05001469_text (National Register nomination, via search summary)"
   ],
   "note": "No free exterior photo on Commons (the category has only two portraits; other Haystack files are interiors of an edit-a-thon). Sources confirm cedar-shingle walls and peaked roofs meeting at clean corners without overhang, buildings raised on concrete piers, linked by decks, and a grand central stair down to the water; roof pitch and window pattern are not documented, so the drawing is schematic (no windows). Four studios stand in for the 30-odd buildings."
+ },
+ {
+  "id": "history-faculty-cambridge",
+  "name": "History Faculty Building, Cambridge",
+  "by": "James Stirling",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "1968",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Brick"
+  ],
+  "features": "An L of stepped brick-and-glass office floors wraps a fan-shaped reading room under a sloping glass roof.",
+  "award": "Alvar Aalto Medal 1977 / Praemium Imperiale 1990 (James Stirling)",
+  "status": "photo",
+  "commons_category": "Category:History Faculty Building, University of Cambridge",
+  "photos": [
+   {
+    "file": "File:James stirling, cambridge university history faculty building, 1964-1967 (4928152576).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cmglee Cambridge University Faculty of History.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:James stirling, cambridge university history faculty building, 1964-1967 (4934612209).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/History_Faculty_Building,_Cambridge"
+  ],
+  "note": "Houses the Seeley Historical Library."
+ },
+ {
+  "id": "florey-building-oxford",
+  "name": "Florey Building",
+  "by": "James Stirling",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1971",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Section",
+   "Courtyard",
+   "Structure as expression"
+  ],
+  "features": "Student rooms in a red-tiled horseshoe that leans back on raking concrete legs, opening to the River Cherwell.",
+  "award": "Alvar Aalto Medal 1977 / Praemium Imperiale 1990 (James Stirling)",
+  "status": "photo",
+  "commons_category": "Category:Florey Building",
+  "photos": [
+   {
+    "file": "File:James stirling, florey building, oxford 1966-1971 (5103816331).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Florey Building (3414547609).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:James stirling, florey building, oxford 1966-1971 (5105627614).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Florey_Building"
+  ],
+  "note": "Student residence for The Queen's College. SEIER+SEIER (the Flickr photographer) asks for credit if possible."
+ },
+ {
+  "id": "wzb-berlin-social-science-center",
+  "name": "WZB Berlin Social Science Center",
+  "by": "James Stirling, Michael Wilford and Associates",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1988",
+  "type": "Workplace",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Geometry"
+  ],
+  "features": "Offices as a cluster of archetypes (stoa, church, tower, amphitheatre) in pink and blue bands, round a garden.",
+  "award": "Alvar Aalto Medal 1977 / Praemium Imperiale 1990 (James Stirling)",
+  "status": "photo",
+  "commons_category": "Category:Wissenschaftszentrum Berlin für Sozialforschung",
+  "photos": [
+   {
+    "file": "File:Reichpietschufer 50 WZB Foto 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:IBA-87-Berlin-013-James-Stirling-Wissenschaftszentrum-Reichpietschufer.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Berlin-WZB-2007.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/WZB_Berlin_Social_Science_Center"
+  ],
+  "note": "Built for IBA 1987, behind the retained 1894 Reichsversicherungsamt. File:Social Science Research Center Berlin.jpg is a street panorama mostly hidden by trees."
+ },
+ {
+  "id": "bouca-housing",
+  "name": "Bouça Social Housing",
+  "by": "Álvaro Siza",
+  "city": "Porto",
+  "cc": "PT",
+  "year": "2006",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Low cost",
+   "Circulation"
+  ],
+  "features": "Parallel rows of stacked duplex homes with outside stairs and galleries, shielded from the railway by a long wall.",
+  "award": "Alvar Aalto Medal 1988 / Praemium Imperiale 1998 (Álvaro Siza)",
+  "status": "photo",
+  "commons_category": "Category:Conjunto Habitacional da Bouça",
+  "photos": [
+   {
+    "file": "File:Bairro da Bouça (38370363485).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bairro da Bouça P4230120 (53728299782).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bairro da Bouça P4230125 (53729415953).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira"
+  ],
+  "note": "A SAAL project: first phase built 1977-78, finished in 2006, so the year is the completion. The P4230120 photo is a graffiti-covered side wall; use the 38370363485 view of the rows first. 60 files in the category."
+ },
+ {
+  "id": "malagueira-housing",
+  "name": "Quinta da Malagueira",
+  "by": "Álvaro Siza",
+  "city": "Évora",
+  "cc": "PT",
+  "year": "1977",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Low cost",
+   "Incremental"
+  ],
+  "features": "About 1,200 white courtyard row houses, served by a raised concrete 'aqueduct' carrying water and power.",
+  "award": "Alvar Aalto Medal 1988 / Praemium Imperiale 1998 (Álvaro Siza)",
+  "status": "photo",
+  "commons_category": "Category:Bairro da Malagueira",
+  "photos": [
+   {
+    "file": "File:Bairro Malagueira 1 (Evora).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bairro Malagueira 2 (Evora).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira"
+  ],
+  "note": "Begun 1977 and built over two decades, so the year is the start. Both photos are small (1001x667 and 1024x515): above the 800px rule but not 1200px. The second shows the raised conduit. File:Evora seen from the Quinta da Malagueira... is a view of the city, not the housing."
+ },
+ {
+  "id": "santa-maria-church-marco-de-canaveses",
+  "name": "Santa Maria Church, Marco de Canaveses",
+  "by": "Álvaro Siza",
+  "city": "Marco de Canaveses",
+  "cc": "PT",
+  "year": "1996",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Monumentality",
+   "Void"
+  ],
+  "features": "A tall white box: two towers frame a 10 m door, and a long low window lets the nave look out at sitting height.",
+  "award": "Alvar Aalto Medal 1988 / Praemium Imperiale 1998 (Álvaro Siza)",
+  "status": "photo",
+  "commons_category": "Category:Igreja de Santa Maria (Marco de Canaveses)",
+  "photos": [
+   {
+    "file": "File:Igreja de Santa Maria.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marco Canavezes' Church - Alvaro Siza Vieira (1933) (197037227).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Igreja Matriz de Marco de Canaveses - Portugal (110409662).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira"
+  ],
+  "note": "The two seen photos look like crops of the same view of the entrance front."
  }
 ]
