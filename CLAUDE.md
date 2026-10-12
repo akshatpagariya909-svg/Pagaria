@@ -10,7 +10,8 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 - **Free images only**: public domain, CC0, CC BY or CC BY-SA, from Wikimedia Commons. Never NC or ND. Every photo shows its credit and licence and links to its source.
 - About ten buildings have no free photos. The owner will decide later how to handle licensed photos: remind them, don't solve it alone.
-- Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are pills; panels have rounded corners.
+- Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
+- Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
 - Minimal text on the site. No invented facts: show height, floors, materials and similar only when a source gives them.
 
@@ -36,12 +37,12 @@ Claude's sandbox cannot reach Wikidata, Wikimedia or most architecture sites, so
 
 - `tools/run_request.txt`: its first line is a command (`python -u tools/<script>.py ...`); pushing a change to it runs `.github/workflows/run-tool.yml`.
 - `tools/fetch_request.txt` runs the photo fetcher; `tools/links_request.txt` runs the link finder.
-- These triggers only fire on the branch named in the workflow files (the building-data branch). Other workstreams should not run them.
+- These triggers only fire on the branch named in the workflow files (the data-collection branch). Other workstreams should not run them.
 - Action logs are not readable from the sandbox; tools write their reports into committed files instead.
 
 Wrong links found by hand go in `tools/link_blocklist.txt` (building | url); `tools/clean_links.py` re-checks existing links without searching again.
 
-Key scripts: `fetch_images.py` (photos, with `tools/image_choices.json` for hand-picked galleries), `find_links.py` (ArchDaily, WikiArquitectura, Divisare, official sites, maps), `harvest.py` / `select_1000.py` / `resolve_list.py` / `merge_1000.py` (growing the list to 1,000).
+Key scripts: `fetch_images.py` (photos, with `tools/image_choices.json` for hand-picked galleries), `find_links.py` (ArchDaily, WikiArquitectura, Divisare, official sites, maps), `harvest.py` / `select_1000.py` / `resolve_list.py` / `merge_1000.py` (growing the list to 1,000), `photo_gaps.py` (writes `tools/photo_gaps.md`, the buildings still short of free photos).
 
 ## Working together
 
@@ -49,7 +50,7 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 
 | Workstream | Branch | Covers |
 |---|---|---|
-| Building data | `claude/awesome-clarke-vqongx` | The 1,000 list, photos, links, Actions tools |
+| Data collection | `claude/awesome-clarke-vqongx` | The 1,000 list, photos, links, filter information, Actions tools. Goals and progress: [Data collection goals](https://claude.ai/code/artifact/a2e6b9ab-4f72-4ec7-bcf9-8de357b18538) |
 | Building page | `claude/building-page` | Opened-building sheet, architect and typology pages |
 | Game | `claude/game` | "Play · Daily five" and its share card |
 | Design | `claude/design` | New artboards on the design canvas |
@@ -57,4 +58,4 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 - Keep each change small and focused; open a pull request, check it on the live site after merging, then move on.
 - Before building something visual that the owner hasn't seen, put it on the design canvas first.
 - Check the site at phone width (about 400px) as well as desktop before opening a pull request.
-- Don't edit `site/data/buildings.js` by hand outside the building-data workstream; it is generated.
+- Don't edit `site/data/buildings.js` by hand outside the data-collection workstream; it is generated.

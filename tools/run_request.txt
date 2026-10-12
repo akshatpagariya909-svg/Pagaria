@@ -1,2 +1,2 @@
-python -u tools/resolve_list.py
-Retry the unresolved additions with looser place matching.
+python -u tools/batch_facts.py batch3
+Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.

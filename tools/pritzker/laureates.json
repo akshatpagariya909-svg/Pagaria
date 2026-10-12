@@ -1,0 +1,403 @@
+[
+ {
+  "qid": "Q183528",
+  "name": "Philip Johnson",
+  "year": 1979,
+  "firms": [
+   "Johnson Burgee Architects"
+  ]
+ },
+ {
+  "qid": "Q243295",
+  "name": "Luis Barragán",
+  "year": 1980,
+  "firms": []
+ },
+ {
+  "qid": "Q159619",
+  "name": "James Stirling",
+  "year": 1981,
+  "firms": []
+ },
+ {
+  "qid": "Q332610",
+  "name": "Kevin Roche",
+  "year": 1982,
+  "firms": [
+   "Roche-Dinkeloo"
+  ]
+ },
+ {
+  "qid": "Q46868",
+  "name": "I. M. Pei",
+  "year": 1983,
+  "firms": [
+   "Pei Cobb Freed & Partners"
+  ]
+ },
+ {
+  "qid": "Q159612",
+  "name": "Richard Meier",
+  "year": 1984,
+  "firms": [
+   "Meier Partners"
+  ]
+ },
+ {
+  "qid": "Q78884",
+  "name": "Hans Hollein",
+  "year": 1985,
+  "firms": []
+ },
+ {
+  "qid": "Q76841",
+  "name": "Gottfried Böhm",
+  "year": 1986,
+  "firms": []
+ },
+ {
+  "qid": "Q151794",
+  "name": "Kenzō Tange",
+  "year": 1987,
+  "firms": []
+ },
+ {
+  "qid": "Q333581",
+  "name": "Gordon Bunshaft",
+  "year": 1988,
+  "firms": []
+ },
+ {
+  "qid": "Q134165",
+  "name": "Oscar Niemeyer",
+  "year": 1988,
+  "firms": [
+   "Instituto Paula Saldanha"
+  ]
+ },
+ {
+  "qid": "Q180374",
+  "name": "Frank Gehry",
+  "year": 1989,
+  "firms": []
+ },
+ {
+  "qid": "Q322953",
+  "name": "Aldo Rossi",
+  "year": 1990,
+  "firms": []
+ },
+ {
+  "qid": "Q212312",
+  "name": "Robert Venturi",
+  "year": 1991,
+  "firms": []
+ },
+ {
+  "qid": "Q251365",
+  "name": "Álvaro Siza Vieira",
+  "year": 1992,
+  "firms": []
+ },
+ {
+  "qid": "Q312827",
+  "name": "Fumihiko Maki",
+  "year": 1993,
+  "firms": []
+ },
+ {
+  "qid": "Q312838",
+  "name": "Christian de Portzamparc",
+  "year": 1994,
+  "firms": []
+ },
+ {
+  "qid": "Q208220",
+  "name": "Tadao Ando",
+  "year": 1995,
+  "firms": [
+   "Tadao Ando Architects & Associates"
+  ]
+ },
+ {
+  "qid": "Q311692",
+  "name": "Rafael Moneo",
+  "year": 1996,
+  "firms": []
+ },
+ {
+  "qid": "Q242002",
+  "name": "Sverre Fehn",
+  "year": 1997,
+  "firms": []
+ },
+ {
+  "qid": "Q190148",
+  "name": "Renzo Piano",
+  "year": 1998,
+  "firms": [
+   "Renzo Piano Building Workshop"
+  ]
+ },
+ {
+  "qid": "Q104898",
+  "name": "Norman Foster",
+  "year": 1999,
+  "firms": [
+   "Foster and Partners",
+   "Team 4"
+  ]
+ },
+ {
+  "qid": "Q232364",
+  "name": "Rem Koolhaas",
+  "year": 2000,
+  "firms": [
+   "Office for Metropolitan Architecture"
+  ]
+ },
+ {
+  "qid": "Q308776",
+  "name": "Herzog & de Meuron",
+  "year": 2001,
+  "firms": []
+ },
+ {
+  "qid": "Q2745982",
+  "name": "Jacques Herzog",
+  "year": 2001,
+  "firms": [
+   "Herzog & de Meuron"
+  ]
+ },
+ {
+  "qid": "Q3174960",
+  "name": "Pierre de Meuron",
+  "year": 2001,
+  "firms": [
+   "Herzog & de Meuron"
+  ]
+ },
+ {
+  "qid": "Q333509",
+  "name": "Glenn Murcutt",
+  "year": 2002,
+  "firms": []
+ },
+ {
+  "qid": "Q180398",
+  "name": "Jørn Utzon",
+  "year": 2003,
+  "firms": []
+ },
+ {
+  "qid": "Q47780",
+  "name": "Zaha Hadid",
+  "year": 2004,
+  "firms": [
+   "The Zaha Hadid Foundation",
+   "Zaha Hadid Architects"
+  ]
+ },
+ {
+  "qid": "Q312847",
+  "name": "Thom Mayne",
+  "year": 2005,
+  "firms": []
+ },
+ {
+  "qid": "Q312855",
+  "name": "Paulo Mendes da Rocha",
+  "year": 2006,
+  "firms": []
+ },
+ {
+  "qid": "Q237412",
+  "name": "Richard Rogers",
+  "year": 2007,
+  "firms": [
+   "Q138703468",
+   "Team 4"
+  ]
+ },
+ {
+  "qid": "Q214317",
+  "name": "Jean Nouvel",
+  "year": 2008,
+  "firms": []
+ },
+ {
+  "qid": "Q123179",
+  "name": "Peter Zumthor",
+  "year": 2009,
+  "firms": []
+ },
+ {
+  "qid": "Q253350",
+  "name": "Kazuyo Sejima",
+  "year": 2010,
+  "firms": [
+   "Sejima & Associates, Kazuyo"
+  ]
+ },
+ {
+  "qid": "Q369645",
+  "name": "Ryue Nishizawa",
+  "year": 2010,
+  "firms": []
+ },
+ {
+  "qid": "Q737536",
+  "name": "SANAA",
+  "year": 2010,
+  "firms": []
+ },
+ {
+  "qid": "Q312831",
+  "name": "Eduardo Souto de Moura",
+  "year": 2011,
+  "firms": []
+ },
+ {
+  "qid": "Q336620",
+  "name": "Wang Shu",
+  "year": 2012,
+  "firms": []
+ },
+ {
+  "qid": "Q333585",
+  "name": "Toyo Ito",
+  "year": 2013,
+  "firms": [
+   "Toyo Ito & Associates, Architects"
+  ]
+ },
+ {
+  "qid": "Q526725",
+  "name": "Shigeru Ban",
+  "year": 2014,
+  "firms": []
+ },
+ {
+  "qid": "Q64412",
+  "name": "Frei Otto",
+  "year": 2015,
+  "firms": []
+ },
+ {
+  "qid": "Q3609433",
+  "name": "Alejandro Alavena",
+  "year": 2016,
+  "firms": []
+ },
+ {
+  "qid": "Q5752340",
+  "name": "Carme Pigem",
+  "year": 2017,
+  "firms": []
+ },
+ {
+  "qid": "Q11701698",
+  "name": "RCR Arquitectes",
+  "year": 2017,
+  "firms": [
+   "RCR Bunka"
+  ]
+ },
+ {
+  "qid": "Q6096991",
+  "name": "Rafael Aranda",
+  "year": 2017,
+  "firms": []
+ },
+ {
+  "qid": "Q5653784",
+  "name": "Ramón Vilalta",
+  "year": 2017,
+  "firms": []
+ },
+ {
+  "qid": "Q380449",
+  "name": "Balkrishna Doshi",
+  "year": 2018,
+  "firms": []
+ },
+ {
+  "qid": "Q317135",
+  "name": "Arata Isozaki",
+  "year": 2019,
+  "firms": []
+ },
+ {
+  "qid": "Q21132821",
+  "name": "Shelley McNamara",
+  "year": 2020,
+  "firms": [
+   "Grafton Architects"
+  ]
+ },
+ {
+  "qid": "Q16151248",
+  "name": "Yvonne Farrell",
+  "year": 2020,
+  "firms": [
+   "Grafton Architects"
+  ]
+ },
+ {
+  "qid": "Q18285074",
+  "name": "Anne Lacaton",
+  "year": 2021,
+  "firms": [
+   "Lacaton & Vassal"
+  ]
+ },
+ {
+  "qid": "Q18285075",
+  "name": "Jean-Philippe Vassal",
+  "year": 2021,
+  "firms": [
+   "Lacaton & Vassal"
+  ]
+ },
+ {
+  "qid": "Q17995421",
+  "name": "Lacaton & Vassal",
+  "year": 2021,
+  "firms": []
+ },
+ {
+  "qid": "Q99416",
+  "name": "Diébédo Francis Kéré",
+  "year": 2022,
+  "firms": []
+ },
+ {
+  "qid": "Q707020",
+  "name": "David Chipperfield",
+  "year": 2023,
+  "firms": [
+   "David Chipperfield Architects"
+  ]
+ },
+ {
+  "qid": "Q3432036",
+  "name": "Riken Yamamoto",
+  "year": 2024,
+  "firms": [
+   "Riken Yamamoto Architects"
+  ]
+ },
+ {
+  "qid": "Q132988850",
+  "name": "Liu Jiakun",
+  "year": 2025,
+  "firms": []
+ },
+ {
+  "qid": "Q12220731",
+  "name": "Smiljan Radic",
+  "year": 2026,
+  "firms": []
+ }
+]

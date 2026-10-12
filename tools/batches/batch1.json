@@ -1,0 +1,5358 @@
+[
+{
+"qid": "Q179191",
+"name": "Rock and Roll Hall of Fame",
+"architect": "I. M. Pei",
+"year": 1983,
+"country": "United States",
+"region": "Americas",
+"type": "music museum",
+"sitelinks": 63,
+"score": 71,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q128468",
+"name": "Wembley Stadium",
+"architect": "Foster and Partners",
+"year": 2002,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "Multi-purpose stadium",
+"sitelinks": 78,
+"score": 63,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q188740",
+"name": "Museum of Modern Art",
+"architect": "Yoshio Taniguchi",
+"year": 1929,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 67,
+"score": 62,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q670250",
+"name": "Art Gallery of Ontario",
+"architect": "Frank Gehry",
+"year": 1900,
+"country": "Canada",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 29,
+"score": 62,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1147977",
+"name": "Torre de Collserola",
+"architect": "Norman Foster",
+"year": 1992,
+"country": "Spain",
+"region": "Europe",
+"type": "television tower",
+"sitelinks": 23,
+"score": 62,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1268542",
+"name": "Miho Museum",
+"architect": "I. M. Pei",
+"year": 1997,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 17,
+"score": 62,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1030463",
+"name": "Mode Gakuen Cocoon Tower",
+"architect": "Tange Associates",
+"year": 2008,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 83,
+"score": 61,
+"star": false,
+"why": [
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q151356",
+"name": "Fernsehturm Berlin",
+"architect": "Hermann Henselmann",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "television tower",
+"sitelinks": 58,
+"score": 59,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q212248",
+"name": "Ibirapuera Park",
+"architect": "Oscar Niemeyer",
+"year": 1954,
+"country": "Brazil",
+"region": "Americas",
+"type": "park",
+"sitelinks": 36,
+"score": 59,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q639791",
+"name": "Whitney Museum of American Art",
+"architect": "Renzo Piano",
+"year": 1931,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 30,
+"score": 58,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1134646",
+"name": "Museum of Contemporary Art, Los Angeles",
+"architect": "Arata Isozaki",
+"year": 1979,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 22,
+"score": 58,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q16318627",
+"name": "Abeno Harukas",
+"architect": "César Pelli",
+"year": 2014,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 67,
+"score": 57,
+"star": false,
+"why": [
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q157298",
+"name": "Pergamon Museum",
+"architect": "Alfred Messel",
+"year": 1910,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 61,
+"score": 57,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q239303",
+"name": "Art Institute of Chicago",
+"architect": "Renzo Piano",
+"year": 1879,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 41,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q935919",
+"name": "JPMorgan Chase Tower",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1982,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 28,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2007919",
+"name": "John F. Kennedy Presidential Library and Museum",
+"architect": "I. M. Pei",
+"year": 1979,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 24,
+"score": 57,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q591086",
+"name": "Serpentine Galleries",
+"architect": "Zaha Hadid",
+"year": 1970,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 24,
+"score": 57,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11245",
+"name": "One World Trade Center",
+"architect": "David Childs",
+"year": 2014,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 74,
+"score": 56,
+"star": true,
+"why": [
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q167566",
+"name": "Palace of Culture and Science",
+"architect": "Lev Rudnev",
+"year": 1955,
+"country": "Poland",
+"region": "Europe",
+"type": "palace",
+"sitelinks": 51,
+"score": 56,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q5317",
+"name": "Space Needle",
+"architect": "John Graham & Company",
+"year": 1961,
+"country": "United States",
+"region": "Americas",
+"type": "observation tower",
+"sitelinks": 45,
+"score": 56,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q325309",
+"name": "Metro Bilbao",
+"architect": "Norman Foster",
+"year": 1995,
+"country": "Spain",
+"region": "Europe",
+"type": "rapid transit",
+"sitelinks": 36,
+"score": 56,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q630630",
+"name": "Palau Sant Jordi",
+"architect": "Arata Isozaki",
+"year": 1990,
+"country": "Spain",
+"region": "Europe",
+"type": "arena",
+"sitelinks": 31,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1384356",
+"name": "Museum of Pop Culture",
+"architect": "Frank Gehry",
+"year": 2004,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 20,
+"score": 56,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q638423",
+"name": "Opéra Bastille",
+"architect": "Carlos Ott",
+"year": 1989,
+"country": "France",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 41,
+"score": 55,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q913672",
+"name": "San Francisco Museum of Modern Art",
+"architect": "Mario Botta",
+"year": 1935,
+"country": "United States",
+"region": "Americas",
+"type": "museum of modern art",
+"sitelinks": 33,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7338547",
+"name": "Riverside Museum",
+"architect": "Zaha Hadid",
+"year": 2011,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "transport museum",
+"sitelinks": 20,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q616863",
+"name": "Palazzo Lombardia",
+"architect": "Pei Cobb Freed & Partners",
+"year": 2010,
+"country": "Italy",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 55,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q328698",
+"name": "Stadio San Nicola",
+"architect": "Renzo Piano",
+"year": 1990,
+"country": "Italy",
+"region": "Europe",
+"type": "association football venue",
+"sitelinks": 39,
+"score": 54,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q9202",
+"name": "Statue of Liberty",
+"architect": "Eugène Viollet-le-Duc",
+"year": 1886,
+"country": "United States",
+"region": "Americas",
+"type": "part of UNESCO World Heritage Site",
+"sitelinks": 158,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q183536",
+"name": "Tokyo Tower",
+"architect": "Tachū Naitō",
+"year": 1957,
+"country": "Japan",
+"region": "East Asia",
+"type": "observation tower",
+"sitelinks": 69,
+"score": 53,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q157825",
+"name": "Bode Museum",
+"architect": "Ernst von Ihne",
+"year": 1904,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 44,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q156198",
+"name": "Messeturm",
+"architect": "Helmut Jahn",
+"year": 1990,
+"country": "Germany",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 40,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q519613",
+"name": "Gewandhaus",
+"architect": "Rudolf Skoda",
+"year": 1976,
+"country": "Germany",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 25,
+"score": 53,
+"star": false,
+"why": [
+"archinform",
+"sosbrutalism"
+],
+"next_batch": true
+},
+{
+"qid": "Q125634",
+"name": "Museum Folkwang",
+"architect": "David Chipperfield Architects",
+"year": 1902,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 20,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1955758",
+"name": "Mudam",
+"architect": "I. M. Pei",
+"year": 2006,
+"country": "Luxembourg",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 16,
+"score": 53,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11235",
+"name": "World Trade Center",
+"architect": "Minoru Yamasaki",
+"year": 1966,
+"country": "United States",
+"region": "Americas",
+"type": "building complex",
+"sitelinks": 107,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"demolished"
+],
+"next_batch": true
+},
+{
+"qid": "Q160409",
+"name": "Central Park",
+"architect": "Frederick Law Olmsted",
+"year": 1856,
+"country": "United States",
+"region": "Americas",
+"type": "urban park",
+"sitelinks": 87,
+"score": 52,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q217652",
+"name": "Woolworth Building",
+"architect": "Cass Gilbert",
+"year": 1912,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 45,
+"score": 52,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1364354",
+"name": "Emperador Castellana Tower",
+"architect": "Pei Cobb Freed & Partners",
+"year": 2008,
+"country": "Spain",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 29,
+"score": 52,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1620553",
+"name": "Hirshhorn Museum and Sculpture Garden",
+"architect": "Gordon Bunshaft",
+"year": 1974,
+"country": "United States",
+"region": "Americas",
+"type": "sculpture garden",
+"sitelinks": 23,
+"score": 52,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q747342",
+"name": "Palau de les Arts Reina Sofia",
+"architect": "Santiago Calatrava",
+"year": 2005,
+"country": "Spain",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 23,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q615950",
+"name": "Central Market Project",
+"architect": "Foster and Partners",
+"year": 2014,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 52,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q632019",
+"name": "Solow Building",
+"architect": "Gordon Bunshaft",
+"year": 1974,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 52,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q85355",
+"name": "Gruppo Mondadori",
+"architect": "Oscar Niemeyer",
+"year": 1907,
+"country": "Italy",
+"region": "Europe",
+"type": "book publisher",
+"sitelinks": 22,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q815935",
+"name": "Bellesguard",
+"architect": "Antoni Gaudí",
+"year": 1900,
+"country": "Spain",
+"region": "Europe",
+"type": "mansion",
+"sitelinks": 17,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1853779",
+"name": "Lyndon Baines Johnson Library and Museum",
+"architect": "Gordon Bunshaft",
+"year": 1971,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 15,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q976457",
+"name": "Philharmonie Luxembourg",
+"architect": "Christian de Portzamparc",
+"year": 2005,
+"country": "Luxembourg",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 14,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q180904",
+"name": "Museum Tinguely",
+"architect": "Mario Botta",
+"year": 1996,
+"country": "Switzerland",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 13,
+"score": 52,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q243",
+"name": "Eiffel Tower",
+"architect": "Stéphen Sauvestre",
+"year": 1887,
+"country": "France",
+"region": "Europe",
+"type": "lattice tower",
+"sitelinks": 191,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q187840",
+"name": "Palais Garnier",
+"architect": "Charles Garnier",
+"year": 1861,
+"country": "France",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 63,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q183334",
+"name": "Tretyakov Gallery",
+"architect": "Viktor Vasnetsov",
+"year": 1856,
+"country": "Russia",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 60,
+"score": 51,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1186333",
+"name": "Lusail Stadium",
+"architect": "Foster and Partners",
+"year": 2022,
+"country": "Qatar",
+"region": "Middle East",
+"type": "stadium",
+"sitelinks": 56,
+"score": 51,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1422000",
+"name": "NEMO Science Center",
+"architect": "Renzo Piano",
+"year": 1923,
+"country": "Netherlands",
+"region": "Europe",
+"type": "science museum",
+"sitelinks": 24,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q971028",
+"name": "Oscar Niemeyer International Cultural Centre",
+"architect": "Oscar Niemeyer",
+"year": 2011,
+"country": "Spain",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 24,
+"score": 51,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2713088",
+"name": "L'Auditori",
+"architect": "Rafael Moneo",
+"year": 1999,
+"country": "Spain",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 11,
+"score": 51,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q46815",
+"name": "Israel Museum",
+"architect": "Alfred Mansfeld",
+"year": 1965,
+"country": "Israel",
+"region": "Middle East",
+"type": "art museum",
+"sitelinks": 90,
+"score": 50,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q217717",
+"name": "American Museum of Natural History",
+"architect": "Calvert Vaux",
+"year": 1869,
+"country": "United States",
+"region": "Americas",
+"type": "natural history museum",
+"sitelinks": 60,
+"score": 50,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q209937",
+"name": "Vienna State Opera house",
+"architect": "August Sicard von Sicardsburg",
+"year": 1869,
+"country": "Austria",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 55,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q506234",
+"name": "Altare della Patria",
+"architect": "Giuseppe Sacconi",
+"year": 1911,
+"country": "Italy",
+"region": "Europe",
+"type": "historical civil building museum",
+"sitelinks": 43,
+"score": 50,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q464482",
+"name": "MetLife Building",
+"architect": "The Architects Collaborative",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 35,
+"score": 50,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1393382",
+"name": "Torino Palasport Olimpico",
+"architect": "Arata Isozaki",
+"year": 2003,
+"country": "Italy",
+"region": "Europe",
+"type": "arena",
+"sitelinks": 29,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1470276",
+"name": "M. H. de Young Memorial Museum",
+"architect": "Q6686906",
+"year": 1894,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 25,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1565911",
+"name": "Museum of Fine Arts, Houston",
+"architect": "Ludwig Mies van der Rohe",
+"year": 1900,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 25,
+"score": 50,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3378907",
+"name": "Philharmonie de Paris",
+"architect": "Jean Nouvel",
+"year": 2015,
+"country": "France",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 18,
+"score": 50,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q953345",
+"name": "High Museum of Art",
+"architect": "Richard Meier",
+"year": 1905,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 16,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q255559",
+"name": "Amon Carter Museum of American Art",
+"architect": "Philip Johnson",
+"year": 1961,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 13,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q570949",
+"name": "Parco della Musica",
+"architect": "Renzo Piano",
+"year": 2002,
+"country": "Italy",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 12,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q321716",
+"name": "Kunsthalle Bielefeld",
+"architect": "Philip Johnson",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 10,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q828343",
+"name": "World Port Center",
+"architect": "Foster and Partners",
+"year": 1995,
+"country": "Netherlands",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 10,
+"score": 50,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q524249",
+"name": "National Museum of Anthropology",
+"architect": "Pedro Ramírez Vázquez",
+"year": 1964,
+"country": "Mexico",
+"region": "Americas",
+"type": "national museum",
+"sitelinks": 41,
+"score": 49,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1068063",
+"name": "National Gallery of Canada",
+"architect": "Moshe Safdie",
+"year": 1880,
+"country": "Canada",
+"region": "Americas",
+"type": "national gallery",
+"sitelinks": 33,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2860806",
+"name": "Plenitude Arena",
+"architect": "Christian de Portzamparc",
+"year": 2013,
+"country": "France",
+"region": "Europe",
+"type": "event venue",
+"sitelinks": 30,
+"score": 49,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q672833",
+"name": "Bergiselschanze",
+"architect": "Zaha Hadid",
+"year": 1927,
+"country": "Austria",
+"region": "Europe",
+"type": "ski jumping hill",
+"sitelinks": 23,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q9850285",
+"name": "Pampulha Modern Ensemble",
+"architect": "Oscar Niemeyer",
+"year": 1943,
+"country": "Brazil",
+"region": "Americas",
+"type": "urban project",
+"sitelinks": 22,
+"score": 49,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q867663",
+"name": "Citigroup Centre",
+"architect": "Foster and Partners",
+"year": 2001,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 21,
+"score": 49,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1330634",
+"name": "University of Brasília",
+"architect": "Oscar Niemeyer",
+"year": 1962,
+"country": "Brazil",
+"region": "Americas",
+"type": "public university",
+"sitelinks": 18,
+"score": 49,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2446907",
+"name": "53W53",
+"architect": "Jean Nouvel",
+"year": 2007,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 16,
+"score": 49,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2745898",
+"name": "IDS Center",
+"architect": "Philip Johnson",
+"year": 1972,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q456994",
+"name": "Museum für Moderne Kunst",
+"architect": "Hans Hollein",
+"year": 1981,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 13,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q564793",
+"name": "Jacob K. Javits Convention Center",
+"architect": "I. M. Pei",
+"year": 1986,
+"country": "United States",
+"region": "Americas",
+"type": "convention center",
+"sitelinks": 13,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3018029",
+"name": "David H. Koch Theater",
+"architect": "Philip Johnson",
+"year": 1964,
+"country": "United States",
+"region": "Americas",
+"type": "opera house",
+"sitelinks": 12,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11283175",
+"name": "Asahi Group Oyamazaki Villa Museum of Art",
+"architect": "Shōtarō Kaga",
+"year": 1996,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 4,
+"score": 49,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q19675",
+"name": "Louvre Museum",
+"architect": "Pierre Lescot",
+"year": 1793,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 169,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q200959",
+"name": "Carnegie Hall",
+"architect": "William Tuthill",
+"year": 1891,
+"country": "United States",
+"region": "Americas",
+"type": "performing arts building",
+"sitelinks": 50,
+"score": 48,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q4872",
+"name": "Pushkin Museum of Fine Arts",
+"architect": "Roman Klein",
+"year": 1912,
+"country": "Russia",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 48,
+"score": 48,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q820892",
+"name": "Petit Palais",
+"architect": "Charles Girault",
+"year": 1900,
+"country": "France",
+"region": "Europe",
+"type": "museum building",
+"sitelinks": 48,
+"score": 48,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q218305",
+"name": "40 Wall Street",
+"architect": "H. Craig Severance",
+"year": 1930,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 39,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1351208",
+"name": "4 World Trade Center",
+"architect": "Fumihiko Maki",
+"year": 2008,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 31,
+"score": 48,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q49135",
+"name": "Isabella Stewart Gardner Museum",
+"architect": "Willard Thomas Sears",
+"year": 1903,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 29,
+"score": 48,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q147286",
+"name": "Kyoto National Museum",
+"architect": "Katayama Tōkuma",
+"year": 1897,
+"country": "Japan",
+"region": "East Asia",
+"type": "national museum",
+"sitelinks": 25,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1985903",
+"name": "Evolution Tower",
+"architect": "RMJM",
+"year": 2014,
+"country": "Russia",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 25,
+"score": 48,
+"star": false,
+"why": [
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q798766",
+"name": "Kobe Port Tower",
+"architect": "Nikken Sekkei",
+"year": 1963,
+"country": "Japan",
+"region": "East Asia",
+"type": "observation tower",
+"sitelinks": 23,
+"score": 48,
+"star": false,
+"why": [
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1264855",
+"name": "The Index",
+"architect": "Foster and Partners",
+"year": 2010,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 21,
+"score": 48,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4991927",
+"name": "Oscar Niemeyer Museum",
+"architect": "Oscar Niemeyer",
+"year": 2002,
+"country": "Brazil",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 16,
+"score": 48,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q225731",
+"name": "330 North Wabash",
+"architect": "Ludwig Mies van der Rohe",
+"year": 1973,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 15,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q697572",
+"name": "Haas House",
+"architect": "Hans Hollein",
+"year": 1990,
+"country": "Austria",
+"region": "Europe",
+"type": "shopping center",
+"sitelinks": 15,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q3180096",
+"name": "Jay Pritzker Pavilion",
+"architect": "Frank Gehry",
+"year": 2004,
+"country": "United States",
+"region": "Americas",
+"type": "park",
+"sitelinks": 13,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q663110",
+"name": "Immeuble Clarté",
+"architect": "Le Corbusier",
+"year": 1932,
+"country": "Switzerland",
+"region": "Europe",
+"type": "revenue house",
+"sitelinks": 13,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1370993",
+"name": "Hungerburgbahn",
+"architect": "Zaha Hadid",
+"year": 2007,
+"country": "Austria",
+"region": "Europe",
+"type": "funicular",
+"sitelinks": 12,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2211847",
+"name": "Martin Luther King Jr. Memorial Library",
+"architect": "Ludwig Mies van der Rohe",
+"year": 1972,
+"country": "United States",
+"region": "Americas",
+"type": "public library",
+"sitelinks": 6,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q6452137",
+"name": "Kyoto Concert Hall",
+"architect": "Arata Isozaki",
+"year": 1995,
+"country": "Japan",
+"region": "East Asia",
+"type": "concert hall",
+"sitelinks": 6,
+"score": 48,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q632682",
+"name": "Brooklyn Museum",
+"architect": "McKim, Mead & White",
+"year": 1895,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 48,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q328505",
+"name": "Bank of America Tower",
+"architect": "Cookfox",
+"year": 2009,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 42,
+"score": 47,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q656743",
+"name": "Kingdom Centre",
+"architect": "Ellerbe Becket",
+"year": 2000,
+"country": "Saudi Arabia",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 42,
+"score": 47,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q285531",
+"name": "Al Janoub Stadium",
+"architect": "Zaha Hadid",
+"year": 2019,
+"country": "Qatar",
+"region": "Middle East",
+"type": "stadium",
+"sitelinks": 41,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q3907993",
+"name": "Polcevera Viaduct",
+"architect": "Riccardo Morandi",
+"year": 1963,
+"country": "Italy",
+"region": "Europe",
+"type": "reinforced concrete bridge",
+"sitelinks": 40,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q756433",
+"name": "State Farm Stadium",
+"architect": "Peter Eisenman",
+"year": 2006,
+"country": "United States",
+"region": "Americas",
+"type": "stadium",
+"sitelinks": 31,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q861252",
+"name": "Museu Nacional d'Art de Catalunya",
+"architect": "Eugeni Pere Cendoya",
+"year": 1934,
+"country": "Spain",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 31,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q753437",
+"name": "Radio City Music Hall",
+"architect": "Edward Durell Stone",
+"year": 1932,
+"country": "United States",
+"region": "Americas",
+"type": "concert hall",
+"sitelinks": 30,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q2023928",
+"name": "One57",
+"architect": "Christian de Portzamparc",
+"year": 2014,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 27,
+"score": 47,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q637834",
+"name": "Deutsche Oper Berlin",
+"architect": "Fritz Bornemann",
+"year": 1961,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 27,
+"score": 47,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1032842",
+"name": "Canary Wharf",
+"architect": "Norman Foster",
+"year": 1999,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "London Underground station",
+"sitelinks": 23,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q325712",
+"name": "Milwaukee Art Museum",
+"architect": "Santiago Calatrava",
+"year": 1882,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 22,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q250195",
+"name": "Pinakothek der Moderne",
+"architect": "Stephan Braunfels",
+"year": 2002,
+"country": "Germany",
+"region": "Europe",
+"type": "national museum",
+"sitelinks": 21,
+"score": 47,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q3533060",
+"name": "Tour Duo",
+"architect": "Jean Nouvel",
+"year": 2021,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 19,
+"score": 47,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2462521",
+"name": "Fountain Place",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1986,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5263501",
+"name": "Des Moines Art Center",
+"architect": "I. M. Pei",
+"year": 1948,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 8,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q7414007",
+"name": "San Francisco Federal Building",
+"architect": "Thom Mayne",
+"year": 2007,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 8,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2790093",
+"name": "OCBC Centre",
+"architect": "I. M. Pei",
+"year": 1976,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 7,
+"score": 47,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q160236",
+"name": "Metropolitan Museum of Art",
+"architect": "Richard Morris Hunt",
+"year": 1870,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 88,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q841506",
+"name": "Galleria Borghese",
+"architect": "Flaminio Ponzio",
+"year": 1902,
+"country": "Italy",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 47,
+"score": 46,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q270066",
+"name": "7 World Trade Center",
+"architect": "David Childs",
+"year": 2006,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 46,
+"score": 46,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q688704",
+"name": "Natural History Museum, Vienna",
+"architect": "Gottfried Semper",
+"year": 1889,
+"country": "Austria",
+"region": "Europe",
+"type": "natural history museum",
+"sitelinks": 43,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q840886",
+"name": "Museum of Fine Arts, Budapest",
+"architect": "Albert Schickedanz",
+"year": 1906,
+"country": "Hungary",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 37,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q699448",
+"name": "Monument to the Battle of the Nations",
+"architect": "Clemens Thieme",
+"year": 1913,
+"country": "Germany",
+"region": "Europe",
+"type": "Kulturdenkmal",
+"sitelinks": 34,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q597051",
+"name": "Palau Güell",
+"architect": "Antoni Gaudí",
+"year": 1890,
+"country": "Spain",
+"region": "Europe",
+"type": "palace",
+"sitelinks": 33,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q503477",
+"name": "One Canada Square",
+"architect": "César Pelli",
+"year": 1991,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 31,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1418136",
+"name": "National Museum of Finland",
+"architect": "Gesellius, Lindgren, and Saarinen",
+"year": 1910,
+"country": "Finland",
+"region": "Europe",
+"type": "national museum",
+"sitelinks": 28,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1478423",
+"name": "The Morgan Library & Museum",
+"architect": "Charles Follen McKim",
+"year": 1924,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 27,
+"score": 46,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q656296",
+"name": "Galerie nationale du Jeu de Paume",
+"architect": "Q135208300",
+"year": 1909,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 26,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q801115",
+"name": "Gare do Oriente",
+"architect": "Santiago Calatrava",
+"year": 1998,
+"country": "Portugal",
+"region": "Europe",
+"type": "railway station",
+"sitelinks": 24,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q641108",
+"name": "Sony Center",
+"architect": "Helmut Jahn",
+"year": 1996,
+"country": "Germany",
+"region": "Europe",
+"type": "architectural ensemble",
+"sitelinks": 23,
+"score": 46,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1321116",
+"name": "Guggenheim Abu Dhabi",
+"architect": "Frank Gehry",
+"year": 2026,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "built structure",
+"sitelinks": 19,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1359125",
+"name": "Tokyo Big Sight",
+"architect": "AXS Satow",
+"year": 1995,
+"country": "Japan",
+"region": "East Asia",
+"type": "convention center",
+"sitelinks": 19,
+"score": 46,
+"star": false,
+"why": [
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q387989",
+"name": "Olympic Athletic Center of Athens \"Spiros Louis\"",
+"architect": "Santiago Calatrava",
+"year": 1982,
+"country": "Greece",
+"region": "Europe",
+"type": "sports complex",
+"sitelinks": 19,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q7888512",
+"name": "United Nations Secretariat Building",
+"architect": "Le Corbusier",
+"year": 1951,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 17,
+"score": 46,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1783715",
+"name": "Koncerthuset",
+"architect": "Jean Nouvel",
+"year": 2009,
+"country": "Denmark",
+"region": "Europe",
+"type": "building",
+"sitelinks": 16,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1431431",
+"name": "Weisman Art Museum",
+"architect": "Frank Gehry",
+"year": 1934,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 13,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2092357",
+"name": "Soreq Nuclear Research Center",
+"architect": "Philip Johnson",
+"year": 1958,
+"country": "Israel",
+"region": "Middle East",
+"type": "nuclear power plant",
+"sitelinks": 12,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4347013",
+"name": "Cathedral of Saint Mary of the Assumption",
+"architect": "Pier Luigi Nervi",
+"year": 1971,
+"country": "United States",
+"region": "Americas",
+"type": "Catholic cathedral",
+"sitelinks": 12,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q147157",
+"name": "National Museum of Ethnology",
+"architect": "Kisho Kurokawa",
+"year": 1974,
+"country": "Japan",
+"region": "East Asia",
+"type": "national museum",
+"sitelinks": 11,
+"score": 46,
+"star": true,
+"why": [
+"studied architect",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1802939",
+"name": "Kunsten Museum of Modern Art Aalborg",
+"architect": "Alvar Aalto",
+"year": 1972,
+"country": "Denmark",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 11,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q16925182",
+"name": "Wangjing SOHO",
+"architect": "Zaha Hadid",
+"year": 2014,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "building complex",
+"sitelinks": 10,
+"score": 46,
+"star": true,
+"why": [
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q194004",
+"name": "Binoculars Building",
+"architect": "Frank Gehry",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "multi-story urban building",
+"sitelinks": 5,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11331095",
+"name": "Beppu B-con Plaza",
+"architect": "Arata Isozaki",
+"year": 1995,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 2,
+"score": 46,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q868772",
+"name": "Trump Tower",
+"architect": "Der Scutt",
+"year": 1983,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 47,
+"score": 45,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q317034",
+"name": "International Commerce Centre",
+"architect": "Kohn Pedersen Fox",
+"year": 2010,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 46,
+"score": 45,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q834448",
+"name": "Peace Palace",
+"architect": "Louis Marie Cordonnier",
+"year": 1905,
+"country": "Netherlands",
+"region": "Europe",
+"type": "courthouse",
+"sitelinks": 45,
+"score": 45,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q388448",
+"name": "Bargello National Museum",
+"architect": "Lapo Tedesco",
+"year": 1865,
+"country": "Italy",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 40,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q942713",
+"name": "Scottish National Gallery",
+"architect": "William Henry Playfair",
+"year": 1859,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "national gallery",
+"sitelinks": 39,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q80499",
+"name": "Flame Towers",
+"architect": "HOK",
+"year": 2012,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 36,
+"score": 45,
+"star": false,
+"why": [
+"structurae",
+"archnet"
+],
+"next_batch": true
+},
+{
+"qid": "Q152979",
+"name": "New Town Hall",
+"architect": "Georg von Hauberrisser",
+"year": 1909,
+"country": "Germany",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 32,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1138183",
+"name": "Philadelphia City Hall",
+"architect": "John McArthur, Jr.",
+"year": 1901,
+"country": "United States",
+"region": "Americas",
+"type": "city hall",
+"sitelinks": 29,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q584756",
+"name": "Hamburger Bahnhof",
+"architect": "Josef Paul Kleihues",
+"year": 1996,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 22,
+"score": 45,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q657979",
+"name": "Westendstrasse 1",
+"architect": "Kohn Pedersen Fox",
+"year": 1993,
+"country": "Germany",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 45,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1752085",
+"name": "Norton Simon Museum",
+"architect": "Frank Gehry",
+"year": 1942,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 21,
+"score": 45,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q806676",
+"name": "Miami Tower",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1987,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 19,
+"score": 45,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1760539",
+"name": "Saint Louis Art Museum",
+"architect": "Cass Gilbert",
+"year": 1879,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 17,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1519685",
+"name": "Le Lac villa",
+"architect": "Le Corbusier",
+"year": 1924,
+"country": "Switzerland",
+"region": "Europe",
+"type": "villa",
+"sitelinks": 15,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3090555",
+"name": "Tour Légende",
+"architect": "I. M. Pei",
+"year": 2001,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 45,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q939288",
+"name": "Museu de les Ciències Príncipe Felipe",
+"architect": "Santiago Calatrava",
+"year": 2000,
+"country": "Spain",
+"region": "Europe",
+"type": "science museum",
+"sitelinks": 14,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1827608",
+"name": "Lipstick Building",
+"architect": "Philip Johnson",
+"year": 1986,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3297769",
+"name": "Kitakyushu Municipal Museum of Art",
+"architect": "Arata Isozaki",
+"year": 1974,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 10,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1479961",
+"name": "Museum Frieder Burda",
+"architect": "Richard Meier",
+"year": 2004,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 9,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2655243",
+"name": "Gehry Residence",
+"architect": "Frank Gehry",
+"year": 1976,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 9,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q5259646",
+"name": "Dentsu Building",
+"architect": "Jean Nouvel",
+"year": 2002,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 9,
+"score": 45,
+"star": true,
+"why": [
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1109555",
+"name": "San José City Hall",
+"architect": "Richard Meier",
+"year": 2005,
+"country": "United States",
+"region": "Americas",
+"type": "city hall",
+"sitelinks": 7,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q6422443",
+"name": "Knights of Columbus Building",
+"architect": "Roche-Dinkeloo",
+"year": 1969,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 7,
+"score": 45,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q309388",
+"name": "Natural History Museum",
+"architect": "Alfred Waterhouse",
+"year": 1881,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "natural history museum",
+"sitelinks": 55,
+"score": 44,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q187906",
+"name": "MINIX",
+"architect": "Andrew S. Tanenbaum",
+"year": 1987,
+"country": "?",
+"region": "Other",
+"type": "Unix-like operating system",
+"sitelinks": 50,
+"score": 44,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q4255374",
+"name": "Lakhta Centre",
+"architect": "RMJM",
+"year": 2018,
+"country": "Russia",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 43,
+"score": 44,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q162111",
+"name": "Alte Nationalgalerie",
+"architect": "Friedrich August Stüler",
+"year": 1861,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 38,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q743206",
+"name": "Musée Picasso",
+"architect": "Jean-François Bodin",
+"year": 1985,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 38,
+"score": 44,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q1077308",
+"name": "Ping An Finance Centre",
+"architect": "Kohn Pedersen Fox",
+"year": 2017,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 36,
+"score": 44,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q80495",
+"name": "Millennium Tower",
+"architect": "Gustav Peichl",
+"year": 1999,
+"country": "Austria",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 29,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1050074",
+"name": "28 Liberty Street",
+"architect": "Q459464",
+"year": 1961,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 27,
+"score": 44,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1075126",
+"name": "Freer Gallery of Art",
+"architect": "Charles A. Platt",
+"year": 1923,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 23,
+"score": 44,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q976172",
+"name": "Carlton Centre",
+"architect": "Q459464",
+"year": 1973,
+"country": "South Africa",
+"region": "Africa",
+"type": "skyscraper",
+"sitelinks": 22,
+"score": 44,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q105516029",
+"name": "Tour Eria",
+"architect": "Christian de Portzamparc",
+"year": 2021,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 16,
+"score": 44,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q573975",
+"name": "Bauhaus-Universität Weimar",
+"architect": "Henry van de Velde",
+"year": 1860,
+"country": "Germany",
+"region": "Europe",
+"type": "public university",
+"sitelinks": 15,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q9710425",
+"name": "Catetinho",
+"architect": "Oscar Niemeyer",
+"year": 1956,
+"country": "Brazil",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 14,
+"score": 44,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2144588",
+"name": "Hollyhock House",
+"architect": "Frank Lloyd Wright",
+"year": 1921,
+"country": "United States",
+"region": "Americas",
+"type": "single-family detached home",
+"sitelinks": 13,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2023960",
+"name": "One Atlantic Center",
+"architect": "Philip Johnson",
+"year": 1987,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 12,
+"score": 44,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2451328",
+"name": "750 Seventh Avenue",
+"architect": "Roche-Dinkeloo",
+"year": 1989,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 12,
+"score": 44,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1809766",
+"name": "Cabanon de vacances",
+"architect": "Le Corbusier",
+"year": 1952,
+"country": "France",
+"region": "Europe",
+"type": "log cabin",
+"sitelinks": 10,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2536727",
+"name": "101 California Street",
+"architect": "Philip Johnson",
+"year": 1982,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 10,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2871928",
+"name": "Aurora Place",
+"architect": "Renzo Piano",
+"year": 2000,
+"country": "Australia",
+"region": "Oceania",
+"type": "tower block",
+"sitelinks": 9,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1617722",
+"name": "Maison du Brésil",
+"architect": "Le Corbusier",
+"year": 1959,
+"country": "France",
+"region": "Europe",
+"type": "university dormitory",
+"sitelinks": 8,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q3280340",
+"name": "Maisons Jaoul",
+"architect": "Le Corbusier",
+"year": 1954,
+"country": "France",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 7,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q758948",
+"name": "Ibirapuera Auditorium",
+"architect": "Oscar Niemeyer",
+"year": 2005,
+"country": "Brazil",
+"region": "Americas",
+"type": "auditorium",
+"sitelinks": 7,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q17549130",
+"name": "The Spectrum Building (formerly The Renault Distribution Centre)",
+"architect": "Foster and Partners",
+"year": 1982,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "building",
+"sitelinks": 4,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q268609",
+"name": "Stadthaus Ulm",
+"architect": "Richard Meier",
+"year": 1993,
+"country": "Germany",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 3,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11319358",
+"name": "TEPIA",
+"architect": "Fumihiko Maki",
+"year": 1989,
+"country": "Japan",
+"region": "East Asia",
+"type": "technology museum",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q11386746",
+"name": "Kurashiki City Art Museum",
+"architect": "Kenzō Tange",
+"year": 1983,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 2,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11400956",
+"name": "Kitakyushu Public Library",
+"architect": "Arata Isozaki",
+"year": 1975,
+"country": "Japan",
+"region": "East Asia",
+"type": "municipal library of Japan",
+"sitelinks": 1,
+"score": 44,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q189663",
+"name": "Olympic Stadium in Athens",
+"architect": "Santiago Calatrava",
+"year": 1982,
+"country": "Greece",
+"region": "Europe",
+"type": "Olympic stadium",
+"sitelinks": 52,
+"score": 43,
+"star": true,
+"why": [
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q193639",
+"name": "Royal Albert Hall",
+"architect": "Francis Fowke",
+"year": 1871,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 52,
+"score": 43,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q382121",
+"name": "Zifeng Tower",
+"architect": "Q459464",
+"year": 2010,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 41,
+"score": 43,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q170152",
+"name": "Neue Pinakothek",
+"architect": "Alexander von Branca",
+"year": 1853,
+"country": "Germany",
+"region": "Europe",
+"type": "pinacotheca",
+"sitelinks": 36,
+"score": 43,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q391648",
+"name": "Cayan Tower",
+"architect": "Q459464",
+"year": 2013,
+"country": "United Arab Emirates",
+"region": "Middle East",
+"type": "skyscraper",
+"sitelinks": 33,
+"score": 43,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q1641836",
+"name": "Los Angeles County Museum of Art",
+"architect": "William Pereira",
+"year": 1910,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 31,
+"score": 43,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q821009",
+"name": "Berlaymont building",
+"architect": "Lucien De Vestel",
+"year": 1967,
+"country": "Belgium",
+"region": "Europe",
+"type": "building of public administration",
+"sitelinks": 29,
+"score": 43,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q30911",
+"name": "Federal Palace of Switzerland",
+"architect": "Hans Wilhelm Auer",
+"year": 1902,
+"country": "Switzerland",
+"region": "Europe",
+"type": "parliament building",
+"sitelinks": 28,
+"score": 43,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q328623",
+"name": "Nunos porsche Museum",
+"architect": "Delugan Meissl",
+"year": 1976,
+"country": "Germany",
+"region": "Europe",
+"type": "automobile museum",
+"sitelinks": 27,
+"score": 43,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q20196262",
+"name": "Humboldt Forum",
+"architect": "Franco Stella",
+"year": 2020,
+"country": "Germany",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 26,
+"score": 43,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q619124",
+"name": "Apollo Theater",
+"architect": "Q5541262",
+"year": 1914,
+"country": "United States",
+"region": "Americas",
+"type": "music venue",
+"sitelinks": 24,
+"score": 43,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q697782",
+"name": "Haus der Kunst",
+"architect": "Paul Troost",
+"year": 1937,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 22,
+"score": 43,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q862452",
+"name": "Makuhari Messe",
+"architect": "Fumihiko Maki",
+"year": 1986,
+"country": "Japan",
+"region": "East Asia",
+"type": "arena",
+"sitelinks": 19,
+"score": 43,
+"star": true,
+"why": [
+"Pritzker winner",
+"award",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q5868468",
+"name": "People's Palace, Damascus",
+"architect": "Kenzō Tange",
+"year": 1985,
+"country": "Syria",
+"region": "Middle East",
+"type": "palace",
+"sitelinks": 17,
+"score": 43,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q130502",
+"name": "Punjab and Haryana High Court",
+"architect": "Le Corbusier",
+"year": 1947,
+"country": "India",
+"region": "South Asia",
+"type": "appellate court",
+"sitelinks": 15,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q16958963",
+"name": "Comcast Technology Center",
+"architect": "Norman Foster",
+"year": 2018,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 15,
+"score": 43,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1073433",
+"name": "Abu Dhabi Plaza",
+"architect": "Foster and Partners",
+"year": 2021,
+"country": "Kazakhstan",
+"region": "Middle East",
+"type": "building complex",
+"sitelinks": 14,
+"score": 43,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q47693",
+"name": "Capella Tower",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1992,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 13,
+"score": 43,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q444339",
+"name": "Felix Nussbaum Haus",
+"architect": "Daniel Libeskind",
+"year": 1998,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 11,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2027239",
+"name": "Guthrie Theater",
+"architect": "Jean Nouvel",
+"year": 1963,
+"country": "United States",
+"region": "Americas",
+"type": "theatre building",
+"sitelinks": 8,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1842648",
+"name": "Paleis of Justice in Antwerp",
+"architect": "Richard Rogers",
+"year": 2006,
+"country": "Belgium",
+"region": "Europe",
+"type": "courthouse",
+"sitelinks": 4,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q140498",
+"name": "Spittelau Viaducts Housing Project",
+"architect": "Zaha Hadid Architects",
+"year": 2005,
+"country": "Austria",
+"region": "Europe",
+"type": "city block",
+"sitelinks": 3,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q1657371",
+"name": "St. Ignatius",
+"architect": "Gottfried Böhm",
+"year": 1963,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 3,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2321428",
+"name": "St. Matthäus",
+"architect": "Gottfried Böhm",
+"year": 1968,
+"country": "Germany",
+"region": "Europe",
+"type": "church building",
+"sitelinks": 2,
+"score": 43,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q8012",
+"name": "Derby Museum and Art Gallery",
+"architect": "Richard Knill Freeman",
+"year": 1879,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 59,
+"score": 42,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q653433",
+"name": "Tokyo National Museum",
+"architect": "Josiah Conder",
+"year": 1872,
+"country": "Japan",
+"region": "East Asia",
+"type": "national museum",
+"sitelinks": 52,
+"score": 42,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q51112",
+"name": "Galleria Vittorio Emanuele II",
+"architect": "Giuseppe Mengoni",
+"year": 1867,
+"country": "Italy",
+"region": "Europe",
+"type": "commercial gallery",
+"sitelinks": 42,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q127097",
+"name": "Semperoper",
+"architect": "Gottfried Semper",
+"year": 1878,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 40,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q849957",
+"name": "Concertgebouw",
+"architect": "Dolf van Gendt",
+"year": 1886,
+"country": "Netherlands",
+"region": "Europe",
+"type": "concert hall",
+"sitelinks": 38,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q680614",
+"name": "30 Rockefeller Plaza",
+"architect": "Raymond Hood",
+"year": 1933,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 36,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q201902",
+"name": "Mole Antonelliana",
+"architect": "Alessandro Antonelli",
+"year": 1889,
+"country": "Italy",
+"region": "Europe",
+"type": "tower",
+"sitelinks": 35,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1509747",
+"name": "Tour First",
+"architect": "Pierre Dufau",
+"year": 1974,
+"country": "France",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 31,
+"score": 42,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1542408",
+"name": "Gran Torre Costanera",
+"architect": "César Pelli",
+"year": 2013,
+"country": "Chile",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 29,
+"score": 42,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1075141",
+"name": "National Museum of the American Indian",
+"architect": "Douglas Cardinal",
+"year": 1916,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 28,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q168575",
+"name": "CTF Finance Centre",
+"architect": "Kohn Pedersen Fox",
+"year": 2016,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 28,
+"score": 42,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q378143",
+"name": "Hearst Castle",
+"architect": "Julia Morgan",
+"year": 1919,
+"country": "United States",
+"region": "Americas",
+"type": "mansion",
+"sitelinks": 28,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q631075",
+"name": "Arc de Triomf",
+"architect": "Josep Vilaseca i Casanovas",
+"year": 1910,
+"country": "Spain",
+"region": "Europe",
+"type": "triumphal arch",
+"sitelinks": 28,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q613227",
+"name": "Toyota Stadium",
+"architect": "Kisho Kurokawa",
+"year": 1997,
+"country": "Japan",
+"region": "East Asia",
+"type": "association football venue",
+"sitelinks": 23,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q358052",
+"name": "Adler Planetarium",
+"architect": "Ernest Grunsfeld, Jr",
+"year": 1930,
+"country": "United States",
+"region": "Americas",
+"type": "astronomical museum",
+"sitelinks": 21,
+"score": 42,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1046405",
+"name": "Casa Calvet",
+"architect": "Antoni Gaudí",
+"year": 1898,
+"country": "Spain",
+"region": "Europe",
+"type": "residential building",
+"sitelinks": 20,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q320459",
+"name": "German Chancellery in Berlin",
+"architect": "Axel Schultes",
+"year": 2001,
+"country": "Germany",
+"region": "Europe",
+"type": "building",
+"sitelinks": 20,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q704354",
+"name": "Dresden Central Station",
+"architect": "Ernst Giese",
+"year": 1893,
+"country": "Germany",
+"region": "Europe",
+"type": "junction station",
+"sitelinks": 20,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q820164",
+"name": "Internationales Congress Centrum Berlin",
+"architect": "Ralf Schüler",
+"year": 1979,
+"country": "Germany",
+"region": "Europe",
+"type": "convention center",
+"sitelinks": 15,
+"score": 42,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1142334",
+"name": "Crystal Bridges Museum of American Art",
+"architect": "Moshe Safdie",
+"year": 2011,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 14,
+"score": 42,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q1320197",
+"name": "Teatre Nacional de Catalunya",
+"architect": "Ricardo Bofill",
+"year": 1996,
+"country": "Spain",
+"region": "Europe",
+"type": "musical theater building",
+"sitelinks": 12,
+"score": 42,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q23707656",
+"name": "Les Peupliers",
+"architect": "Le Corbusier",
+"year": 1926,
+"country": "Belgium",
+"region": "Europe",
+"type": "single-family detached home",
+"sitelinks": 12,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q23930610",
+"name": "Havenhuis",
+"architect": "Zaha Hadid",
+"year": 2019,
+"country": "Belgium",
+"region": "Europe",
+"type": "administrative building",
+"sitelinks": 10,
+"score": 42,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q975240",
+"name": "Pinacoteca Giovanni e Marella Agnelli",
+"architect": "Renzo Piano",
+"year": 2002,
+"country": "Italy",
+"region": "Europe",
+"type": "pinacotheca",
+"sitelinks": 9,
+"score": 42,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q352679",
+"name": "Beth Sholom Congregation",
+"architect": "Frank Lloyd Wright",
+"year": 1956,
+"country": "United States",
+"region": "Americas",
+"type": "synagogue",
+"sitelinks": 8,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q8330",
+"name": "Contemporary Arts Museum of Lyon",
+"architect": "Renzo Piano",
+"year": 1984,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 8,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q830675",
+"name": "Langen Foundation",
+"architect": "Tadao Ando",
+"year": 2002,
+"country": "Germany",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 7,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4852943",
+"name": "Baltimore World Trade Center",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1977,
+"country": "United States",
+"region": "Americas",
+"type": "tower block",
+"sitelinks": 4,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3516699",
+"name": "Team Disney Orlando",
+"architect": "Arata Isozaki",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "administrative building",
+"sitelinks": 3,
+"score": 42,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11208",
+"name": "The Pentagon",
+"architect": "George Bergstrom",
+"year": 1941,
+"country": "United States",
+"region": "Americas",
+"type": "headquarters",
+"sitelinks": 102,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q211043",
+"name": "Russian Museum",
+"architect": "Carlo Rossi",
+"year": 1895,
+"country": "Russia",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 49,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q238587",
+"name": "National Portrait Gallery",
+"architect": "Ewan Christian",
+"year": 1856,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 47,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q1440653",
+"name": "House with Chimaeras",
+"architect": "Władysław Horodecki",
+"year": 1902,
+"country": "Ukraine",
+"region": "Europe",
+"type": "house",
+"sitelinks": 45,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q661881",
+"name": "Speicherstadt",
+"architect": "Carl Johann Christian Zimmermann",
+"year": 1927,
+"country": "Germany",
+"region": "Europe",
+"type": "warehouse district",
+"sitelinks": 41,
+"score": 41,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q155210",
+"name": "Rotes Rathaus",
+"architect": "Hermann Friedrich Waesemann",
+"year": 1859,
+"country": "Germany",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 39,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q48623",
+"name": "Azerbaijan State Academic Opera and Ballet Theater",
+"architect": "Nikolai Bayev",
+"year": 1911,
+"country": "Azerbaijan",
+"region": "Middle East",
+"type": "opera house",
+"sitelinks": 39,
+"score": 41,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q557933",
+"name": "Al Hamra Tower",
+"architect": "Q459464",
+"year": 2011,
+"country": "Kuwait",
+"region": "Middle East",
+"type": "tower block",
+"sitelinks": 38,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q494895",
+"name": "Lotte World Tower",
+"architect": "Kohn Pedersen Fox",
+"year": 2009,
+"country": "South Korea",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 37,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q1189955",
+"name": "Musée de l'Air",
+"architect": "Georges Labro",
+"year": 1919,
+"country": "France",
+"region": "Europe",
+"type": "military museum",
+"sitelinks": 35,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q1631981",
+"name": "John F. Kennedy Center for the Performing Arts",
+"architect": "Edward Durell Stone",
+"year": 1971,
+"country": "United States",
+"region": "Americas",
+"type": "performing arts center",
+"sitelinks": 30,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q197833",
+"name": "China Zun",
+"architect": "Kohn Pedersen Fox",
+"year": 2018,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 29,
+"score": 41,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q555750",
+"name": "Habima Theatre",
+"architect": "Oskar Kaufmann",
+"year": 1917,
+"country": "Israel",
+"region": "Middle East",
+"type": "theatre company",
+"sitelinks": 28,
+"score": 41,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q57767",
+"name": "Wells Fargo Plaza",
+"architect": "Q459464",
+"year": 1983,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 26,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q372676",
+"name": "Vienna Technical Museum",
+"architect": "Emil von Förster",
+"year": 1918,
+"country": "Austria",
+"region": "Europe",
+"type": "technology museum",
+"sitelinks": 21,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q833759",
+"name": "Brücke Museum",
+"architect": "Werner Düttmann",
+"year": 1967,
+"country": "Germany",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 20,
+"score": 41,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1671011",
+"name": "Lille Cathedral",
+"architect": "Charles Leroy",
+"year": 1999,
+"country": "France",
+"region": "Europe",
+"type": "Catholic cathedral",
+"sitelinks": 14,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q471329",
+"name": "City-Hochhaus Leipzig",
+"architect": "Hermann Henselmann",
+"year": 1972,
+"country": "Germany",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 14,
+"score": 41,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q3480216",
+"name": "Nordic House",
+"architect": "Alvar Aalto",
+"year": 1968,
+"country": "Iceland",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 13,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q2712673",
+"name": "L'Hemisfèric",
+"architect": "Santiago Calatrava",
+"year": 1998,
+"country": "Spain",
+"region": "Europe",
+"type": "arts center",
+"sitelinks": 12,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q888058",
+"name": "Millenia Tower",
+"architect": "Kevin Roche",
+"year": 1996,
+"country": "Singapore",
+"region": "Southeast Asia",
+"type": "skyscraper",
+"sitelinks": 11,
+"score": 41,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q469573",
+"name": "Nagoya City Art Museum",
+"architect": "Kisho Kurokawa",
+"year": 1988,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 10,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q17380008",
+"name": "Studio Aalto",
+"architect": "Alvar Aalto",
+"year": 1954,
+"country": "Finland",
+"region": "Europe",
+"type": "museum",
+"sitelinks": 9,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q4557656",
+"name": "Kumamoto Prefectural Ancient Burial Mound Museum",
+"architect": "Tadao Ando",
+"year": 1992,
+"country": "Japan",
+"region": "East Asia",
+"type": "archaeological museum",
+"sitelinks": 7,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q20040491",
+"name": "Shizuoka Press and Broadcasting Center",
+"architect": "Kenzō Tange",
+"year": 1967,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 5,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q4802099",
+"name": "Shimane Museum of Ancient Izumo",
+"architect": "Fumihiko Maki",
+"year": 2007,
+"country": "Japan",
+"region": "East Asia",
+"type": "history museum",
+"sitelinks": 5,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11249107",
+"name": "Suntory Museum Tenpōzan",
+"architect": "Tadao Ando",
+"year": 1994,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 4,
+"score": 41,
+"star": true,
+"why": [
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q31838381",
+"name": "Meret Oppenheim Hochhaus",
+"architect": "Herzog & de Meuron",
+"year": 2019,
+"country": "Switzerland",
+"region": "Europe",
+"type": "tower block",
+"sitelinks": 4,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q23527286",
+"name": "Commerce Court West",
+"architect": "Pei Cobb Freed & Partners",
+"year": 1972,
+"country": "Canada",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 3,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3971406",
+"name": "Salerno harbor station",
+"architect": "Zaha Hadid",
+"year": 2016,
+"country": "Italy",
+"region": "Europe",
+"type": "building",
+"sitelinks": 3,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q65204290",
+"name": "Centre Cívic de Riudaura",
+"architect": "RCR Arquitectes",
+"year": 1999,
+"country": "Spain",
+"region": "Europe",
+"type": "civic center",
+"sitelinks": 2,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q84319068",
+"name": "Bordeaux Courthouse",
+"architect": "Richard Rogers",
+"year": 1998,
+"country": "France",
+"region": "Europe",
+"type": "tribunal judiciaire",
+"sitelinks": 2,
+"score": 41,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q159848",
+"name": "Camp Nou",
+"architect": "Llorenç García-Barbón Fernández de Henestrosa",
+"year": 1957,
+"country": "Spain",
+"region": "Europe",
+"type": "association football venue",
+"sitelinks": 89,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q1140429",
+"name": "State Historical Museum",
+"architect": "Vladimir Osipovich Sherwood",
+"year": 1872,
+"country": "Russia",
+"region": "Europe",
+"type": "national museum",
+"sitelinks": 40,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q1327886",
+"name": "Musée Marmottan Monet",
+"architect": "Jacques Carlu",
+"year": 1934,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 39,
+"score": 40,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q650519",
+"name": "Musée Rodin",
+"architect": "Ange-Jacques Gabriel",
+"year": 1916,
+"country": "France",
+"region": "Europe",
+"type": "art museum",
+"sitelinks": 38,
+"score": 40,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q510324",
+"name": "Philadelphia Museum of Art",
+"architect": "Horace Trumbauer",
+"year": 1876,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 37,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q686468",
+"name": "Vienna City Hall",
+"architect": "Friedrich von Schmidt",
+"year": 1872,
+"country": "Austria",
+"region": "Europe",
+"type": "Rathaus",
+"sitelinks": 37,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q262041",
+"name": "70 Pine Street",
+"architect": "Clinton and Russell",
+"year": 1932,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 36,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q594846",
+"name": "Palace of Nations",
+"architect": "Camille Lefèvre",
+"year": 1938,
+"country": "Switzerland",
+"region": "Europe",
+"type": "building of public administration",
+"sitelinks": 36,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q940833",
+"name": "Valley of Cuelgamuros",
+"architect": "Pedro Muguruza",
+"year": 1940,
+"country": "Spain",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 36,
+"score": 40,
+"star": false,
+"why": [],
+"next_batch": true
+},
+{
+"qid": "Q844324",
+"name": "Trump World Tower",
+"architect": "Costas Kondylis",
+"year": 2001,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 32,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q910101",
+"name": "CitySpire",
+"architect": "Helmut Jahn",
+"year": 1987,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 28,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q478455",
+"name": "MAK – Museum of Applied Arts",
+"architect": "Heinrich von Ferstel",
+"year": 1864,
+"country": "Austria",
+"region": "Europe",
+"type": "museum of decorative arts",
+"sitelinks": 27,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q194783",
+"name": "Széchenyi thermal bath",
+"architect": "Győző Czigler",
+"year": 1913,
+"country": "Hungary",
+"region": "Europe",
+"type": "bathhouse",
+"sitelinks": 26,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1043966",
+"name": "Carnegie Hall Tower",
+"architect": "César Pelli",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 24,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q2493262",
+"name": "Imperia Tower",
+"architect": "NBBJ",
+"year": 2011,
+"country": "Russia",
+"region": "Europe",
+"type": "skyscraper",
+"sitelinks": 24,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q819439",
+"name": "Nazi party rally grounds",
+"architect": "Albert Speer",
+"year": 1933,
+"country": "Germany",
+"region": "Europe",
+"type": "building complex",
+"sitelinks": 24,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q684027",
+"name": "Key Tower",
+"architect": "César Pelli",
+"year": 1991,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 23,
+"score": 40,
+"star": false,
+"why": [
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q705353",
+"name": "Max-Schmeling-Halle",
+"architect": "Albert Dietz",
+"year": 1990,
+"country": "Germany",
+"region": "Europe",
+"type": "multi-purpose hall",
+"sitelinks": 21,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1491417",
+"name": "Idaho State Capitol",
+"architect": "John E. Tourtellotte",
+"year": 1912,
+"country": "United States",
+"region": "Americas",
+"type": "capitol building",
+"sitelinks": 18,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q525190",
+"name": "Ozeaneum",
+"architect": "Behnisch Architekten",
+"year": 2008,
+"country": "Germany",
+"region": "Europe",
+"type": "public aquarium",
+"sitelinks": 18,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q118142",
+"name": "Museum of Contemporary Art, Chicago",
+"architect": "Josef Paul Kleihues",
+"year": 1967,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 17,
+"score": 40,
+"star": false,
+"why": [
+"archinform"
+],
+"next_batch": true
+},
+{
+"qid": "Q1201889",
+"name": "Tokyo Opera City Tower",
+"architect": "NTT Facilities",
+"year": 1996,
+"country": "Japan",
+"region": "East Asia",
+"type": "skyscraper",
+"sitelinks": 17,
+"score": 40,
+"star": false,
+"why": [
+"structurae",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q1501652",
+"name": "General Motors Building",
+"architect": "Edward Durell Stone",
+"year": 1968,
+"country": "United States",
+"region": "Americas",
+"type": "skyscraper",
+"sitelinks": 17,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q665171",
+"name": "Museum für Hamburgische Geschichte",
+"architect": "Fritz Schumacher",
+"year": 1908,
+"country": "Germany",
+"region": "Europe",
+"type": "history museum",
+"sitelinks": 17,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q727277",
+"name": "Asian Art Museum of San Francisco",
+"architect": "Gae Aulenti",
+"year": 1958,
+"country": "United States",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 15,
+"score": 40,
+"star": true,
+"why": [
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q520281",
+"name": "Bierpinsel",
+"architect": "Ralf Schüler",
+"year": 1976,
+"country": "Germany",
+"region": "Europe",
+"type": "tower",
+"sitelinks": 13,
+"score": 40,
+"star": false,
+"why": [
+"archinform",
+"structurae"
+],
+"next_batch": true
+},
+{
+"qid": "Q300975",
+"name": "Aalto Theatre",
+"architect": "Alvar Aalto",
+"year": 1988,
+"country": "Germany",
+"region": "Europe",
+"type": "opera house",
+"sitelinks": 11,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"studied architect"
+],
+"next_batch": true
+},
+{
+"qid": "Q6802081",
+"name": "McLaren Technology Centre",
+"architect": "Norman Foster",
+"year": 2003,
+"country": "United Kingdom",
+"region": "Europe",
+"type": "office building",
+"sitelinks": 11,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner",
+"generic type"
+],
+"next_batch": true
+},
+{
+"qid": "Q10851500",
+"name": "M+",
+"architect": "Herzog & de Meuron",
+"year": 2021,
+"country": "People's Republic of China",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 10,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2631826",
+"name": "425 Park Avenue",
+"architect": "Norman Foster",
+"year": 2019,
+"country": "United States",
+"region": "Americas",
+"type": "building",
+"sitelinks": 10,
+"score": 40,
+"star": true,
+"why": [
+"structurae",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q861588",
+"name": "Yokohama Museum of Art",
+"architect": "Kenzō Tange",
+"year": 1989,
+"country": "Japan",
+"region": "East Asia",
+"type": "art museum",
+"sitelinks": 10,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q839985",
+"name": "Museum of Jewish Heritage",
+"architect": "Roche-Dinkeloo",
+"year": 1997,
+"country": "United States",
+"region": "Americas",
+"type": "museum",
+"sitelinks": 9,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q2403459",
+"name": "Tenerife Espacio de las Artes",
+"architect": "Jacques Herzog",
+"year": 1995,
+"country": "Spain",
+"region": "Europe",
+"type": "cultural center",
+"sitelinks": 6,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q3603766",
+"name": "Paustian House",
+"architect": "Jørn Utzon",
+"year": 1987,
+"country": "Denmark",
+"region": "Europe",
+"type": "building",
+"sitelinks": 5,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11412294",
+"name": "Shiba Ryotaro Memorial Museum",
+"architect": "Tadao Ando",
+"year": 1996,
+"country": "Japan",
+"region": "East Asia",
+"type": "biographical museum",
+"sitelinks": 3,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q11586041",
+"name": "Ishikawa Nishida Kitarō Museum of Philosophy",
+"architect": "Tadao Ando",
+"year": 2002,
+"country": "Japan",
+"region": "East Asia",
+"type": "biographical museum",
+"sitelinks": 3,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner",
+"award"
+],
+"next_batch": true
+},
+{
+"qid": "Q107191233",
+"name": "Igreja São Paulo Apóstolo",
+"architect": "Gottfried Böhm",
+"year": 1961,
+"country": "Brazil",
+"region": "Americas",
+"type": "Catholic cathedral",
+"sitelinks": 2,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q11469632",
+"name": "Yamanashi Broadcasting and Press Centre",
+"architect": "Kenzō Tange",
+"year": 1966,
+"country": "Japan",
+"region": "East Asia",
+"type": "building",
+"sitelinks": 2,
+"score": 40,
+"star": true,
+"why": [
+"archinform",
+"structurae",
+"sosbrutalism",
+"Pritzker winner"
+],
+"next_batch": true
+},
+{
+"qid": "Q28131538",
+"name": "pavillon Pierre-Lassonde",
+"architect": "Provencher Roy",
+"year": 2016,
+"country": "Canada",
+"region": "Americas",
+"type": "art museum",
+"sitelinks": 2,
+"score": 40,
+"star": true,
+"why": [
+"Pritzker winner"
+],
+"next_batch": true
+}
+]

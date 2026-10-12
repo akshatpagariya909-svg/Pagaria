@@ -314,12 +314,12 @@ def candidates(b, ch):
 
 
 def tile(p, k):
-    from PIL import Image, ImageDraw
+    from PIL import Image, ImageDraw, ImageOps
     url = p['info'].get('thumburl') or p['info']['url']
     url = re.sub(r'/\d+px-', '/330px-', url) if '/thumb/' in url else url
     im = Image.new('RGB', (TW, TH), (40, 40, 40))
     try:
-        t = Image.open(io.BytesIO(fetch(url, timeout=120))).convert('RGB')
+        t = ImageOps.exif_transpose(Image.open(io.BytesIO(fetch(url, timeout=120)))).convert('RGB')
         t.thumbnail((TW, TH - 18))
         im.paste(t, ((TW - t.width) // 2, 0))
     except Exception as e:
@@ -350,9 +350,10 @@ def write_sheets(rows, prefix='sheet'):
 
 # ---------- saving ----------
 def save_image(data, folder, k, thumb_only=False):
-    from PIL import Image
+    from PIL import Image, ImageOps
     (folder / 'thumbs').mkdir(parents=True, exist_ok=True)
-    im = Image.open(io.BytesIO(data)).convert('RGB')
+    # phone photos are often stored sideways with a rotation tag; turn them upright before saving
+    im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert('RGB')
     im.thumbnail((FULL, FULL))
     w, h = im.size
     if not thumb_only:
@@ -377,7 +378,7 @@ def write_review(items):
     for b in items:
         cells = ''.join(
             f'<figure><img src="../site/{html.escape(x["thumb"])}" loading="lazy"><figcaption>{k + 1}. {html.escape(x["caption"])}<br>'
-            f'<small>{html.escape(x["file"])} · {html.escape(x["license"])}</small></figcaption></figure>'
+            f'<small>{html.escape(x.get("file") or x.get("credit") or "")} · {html.escape(x["license"])}</small></figcaption></figure>'
             for k, x in enumerate(b.get('images', []))) or '<p class="miss">No free photos found</p>'
         rows.append(f'<section><h2>{b["n"]:03d} · {html.escape(b["name"])} <small>({len(b.get("images", []))})</small></h2><div>{cells}</div></section>')
     REVIEW.write_text('<!doctype html><meta charset="utf-8"><title>Gallery review</title><style>body{font:13px system-ui;margin:24px}'

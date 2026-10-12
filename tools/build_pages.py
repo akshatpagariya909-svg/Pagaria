@@ -113,7 +113,7 @@ HEAD = """<!doctype html>
 </head>
 <body>
 <header class="top">
-  <a class="mark" href="{up}">Discover<br>Architecture</a>
+  <a class="mark" href="{up}">Discover<br><span class="accent">Architecture.</span></a>
   <nav><a href="{up}buildings/">All {total}</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
@@ -154,7 +154,7 @@ def building_page(b, items):
     if ims:
         figs = ''.join(
             f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
-            f'<figcaption><b>{k + 1}/{len(ims)} · {e(im["caption"])}</b><span>{("Photo: " + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
+            f'<figcaption><b>{k + 1}/{len(ims)} · {e(im["caption"])}</b><span>{(("" if im.get("kind") == "Drawing" else "Photo: ") + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
             f'{(" · <a href=" + chr(34) + e(im["source"]) + chr(34) + ">source</a>") if im.get("source") else ""}</span></figcaption></figure>'
             for k, im in enumerate(ims))
         thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{e(at(up, im["thumb"]))}" alt="Photo {k + 1}: {e(im["caption"])}" loading="lazy"></a>' for k, im in enumerate(ims))
@@ -201,7 +201,7 @@ def og_image(items):
     from PIL import Image
     W, H = 1200, 630
     canvas = Image.new('RGB', (W, H), (237, 237, 233))
-    pics = [x for x in items if x.get('images')]
+    pics = [x for x in items if x.get('images') and not x['images'][0]['thumb'].endswith('.svg')]  # photos only, not drawings
     random.Random(4).shuffle(pics)
     cols, rows, gap = 6, 3, 6
     cw, ch = (W - gap * (cols + 1)) // cols, (H - gap * (rows + 1)) // rows
