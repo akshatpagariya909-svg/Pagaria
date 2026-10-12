@@ -26,7 +26,7 @@
     q: '', seed: 11, ncols: 0,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
     open: null, shot: 0, seen: new Set(), lastTile: null,
-    trail: [] // buildings opened before this one since the sheet opened, for the dock's Back arrow
+    booting: true, unwinding: false
   };
   const tileShot = new Map(); // which photo each tile is showing
 
@@ -262,11 +262,26 @@
     return out;
   }
 
-  function openBuilding(id, surprise, fromEl, goingBack) {
+  /* Each building opened in a row is a step in the browser's history, so the phone's back gesture and the dock's
+     Back arrow both walk back through them, and going back from the first one closes it. A step remembers its
+     building, whether it was a surprise, how many steps came before it in this run (step) and the one before (prev). */
+  const here = () => (history.state && history.state.da ? history.state : null);
+  function remember(b, surprise, wasOpen) {
+    const cur = wasOpen ? here() : null;
+    const made = !here() && location.hash === '#' + b.id; // the browser already made this entry (the address was typed or linked)
+    const entry = cur ? { da: true, id: b.id, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
+                      : { da: true, id: b.id, surprise: !!surprise, step: 0, prev: null, pushed: !state.booting };
+    try {
+      if (state.booting || made) history.replaceState(entry, '', '#' + b.id);
+      else history.pushState(entry, '', '#' + b.id);
+    } catch (e) { /* some embedded frames forbid it */ }
+  }
+
+  function openBuilding(id, surprise, fromEl, fromHistory) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
-    if (!goingBack && !sheet.hidden && state.open && state.open.id !== b.id) state.trail.push({ id: state.open.id, surprise: state.openSurprise });
-    state.open = b; state.openSurprise = !!surprise; state.seen.add(b.id);
+    if (!fromHistory && !(state.open && state.open.id === b.id)) remember(b, surprise, !sheet.hidden);
+    state.open = b; state.seen.add(b.id);
     state.lastTile = fromEl || tiles.get(b.id) || null;
 
     $('strip').innerHTML = (b.images || []).map((im, k) =>
@@ -309,17 +324,29 @@
     updateDock();
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
-    try { history.replaceState(null, '', '#' + b.id); } catch (e) { /* some embedded frames forbid it */ }
   }
 
-  function closeBuilding() {
+  const dropHash = () => { try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ } };
+  function hideSheet() {
     sheet.hidden = true;
     document.body.classList.remove('locked');
-    state.open = null; state.trail = [];
+    state.open = null;
     updateDock();
-    try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ }
     if (state.lastTile && state.lastTile.isConnected) state.lastTile.querySelector('.open').focus({ preventScroll: true });
   }
+  // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
+  // rather than reopening buildings.
+  function closeBuilding() {
+    hideSheet();
+    const h = here(), n = h ? h.step + (h.pushed ? 1 : 0) : 0;
+    if (n) { state.unwinding = true; history.go(-n); } else dropHash();
+  }
+  window.addEventListener('popstate', e => {
+    if (state.unwinding) { state.unwinding = false; if (location.hash) dropHash(); return; }
+    const h = e.state && e.state.da ? e.state : null;
+    if (h) openBuilding(h.id, h.surprise, null, true);
+    else if (!sheet.hidden) hideSheet();
+  });
 
   $('veil').addEventListener('click', closeBuilding);
   $('close').addEventListener('click', closeBuilding);
@@ -402,14 +429,11 @@
     const home = atHome();
     $('shuffle').hidden = !home;
     $('goHome').hidden = home;
-    const prev = state.trail.length && !sheet.hidden ? ALL.find(x => x.id === state.trail[state.trail.length - 1].id) : null;
+    const h = here(), prev = !sheet.hidden && h && h.step > 0 ? ALL.find(x => x.id === h.prev) : null;
     $('goBack').hidden = !prev;
     if (prev) { $('goBack').title = 'Back to ' + prev.name; $('goBack').setAttribute('aria-label', 'Back to ' + prev.name); }
   }
-  $('goBack').addEventListener('click', () => {
-    const t = state.trail.pop();
-    if (t) openBuilding(t.id, t.surprise, null, true);
-  });
+  $('goBack').addEventListener('click', () => history.back());
   $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
   $('goHome').addEventListener('click', () => {
     if (!sheet.hidden) closeBuilding();
@@ -428,10 +452,13 @@
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   const openFromHash = () => {
+    if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
     else if (id && (!state.open || state.open.id !== id)) openBuilding(id);
   };
   window.addEventListener('hashchange', openFromHash);
-  openFromHash();
+  const h0 = here(); // a reload, or coming back from another page, keeps the step we were on
+  if (h0) openBuilding(h0.id, h0.surprise, null, true); else openFromHash();
+  state.booting = false;
 })();
