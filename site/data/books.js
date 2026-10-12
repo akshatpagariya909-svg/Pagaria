@@ -1184,15 +1184,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13675480W",
-  "isbn": "0500203954",
   "cover": {
    "thumb": "images/books/modern-architecture-a-critical-history.webp",
    "src": "https://covers.openlibrary.org/b/isbn/0500203954-L.jpg",
    "w": 350,
    "h": 500,
    "source": "https://openlibrary.org/works/OL13675480W"
-  }
+  },
+  "ol": "OL13675480W",
+  "isbn": "0500203954"
  },
  {
   "id": "space-time-and-architecture",
@@ -1470,16 +1470,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL19330223W",
-  "isbn": "9780434022441",
-  "olYear": 2016,
   "cover": {
    "thumb": "images/books/raw-concrete.webp",
    "src": "https://covers.openlibrary.org/b/id/8441314-L.jpg",
    "w": 329,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19330223W"
-  }
+  },
+  "ol": "OL19330223W",
+  "isbn": "9780434022441",
+  "olYear": 2016
  },
  {
   "id": "project-japan",
@@ -1816,7 +1816,17 @@ window.BOOKS = [
   "architects": [
    "Oscar Niemeyer"
   ],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL1006994W",
+  "isbn": "9780714840079",
+  "olYear": 2000,
+  "cover": {
+   "thumb": "images/books/the-curves-of-time.webp",
+   "src": "https://covers.openlibrary.org/b/id/453864-L.jpg",
+   "w": 336,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL1006994W"
+  }
  },
  {
   "id": "utzon",
@@ -1837,7 +1847,17 @@ window.BOOKS = [
   "buildings": [
    "sydney-opera-house",
    "bagsvaerd-church"
-  ]
+  ],
+  "ol": "OL3166762W",
+  "isbn": "9788788978988",
+  "olYear": 2002,
+  "cover": {
+   "thumb": "images/books/utzon.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/9788788978988-L.jpg",
+   "w": 443,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL3166762W"
+  }
  },
  {
   "id": "gaudi-the-complete-buildings",
@@ -2453,15 +2473,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13618519W",
-  "isbn": "0500341958",
   "cover": {
    "thumb": "images/books/brick-a-world-history.webp",
    "src": "https://covers.openlibrary.org/b/isbn/0500341958-L.jpg",
    "w": 373,
    "h": 475,
    "source": "https://openlibrary.org/works/OL13618519W"
-  }
+  },
+  "ol": "OL13618519W",
+  "isbn": "0500341958"
  },
  {
   "id": "concrete-and-culture",
@@ -2493,16 +2513,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13593989W",
-  "isbn": "9780471820635",
-  "olYear": 1985,
   "cover": {
    "thumb": "images/books/sun-wind-and-light.webp",
    "src": "https://covers.openlibrary.org/b/isbn/9780471820635-L.jpg",
    "w": 475,
    "h": 359,
    "source": "https://openlibrary.org/works/OL13593989W"
-  }
+  },
+  "ol": "OL13593989W",
+  "isbn": "9780471820635",
+  "olYear": 1985
  },
  {
   "id": "cradle-to-cradle",
@@ -2517,7 +2537,17 @@ window.BOOKS = [
    "Sustainability"
   ],
   "architects": [],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL8671726W",
+  "isbn": "9780224087865",
+  "olYear": 2002,
+  "cover": {
+   "thumb": "images/books/cradle-to-cradle.webp",
+   "src": "https://covers.openlibrary.org/b/id/10952906-L.jpg",
+   "w": 313,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL8671726W"
+  }
  },
  {
   "id": "the-death-and-life-of-great-american-cities",

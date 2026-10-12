@@ -1,6 +1,6 @@
 # Books report
 
-91 of 130 books have a cover.
+94 of 130 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -13,18 +13,16 @@
 | Spatial Agency: Other Ways of Doing Architecture (Nishat Awan, Tatjana Schneider and Jeremy Till) | no result by this author with this title among 9 results |
 | The City of To-morrow and Its Planning (Le Corbusier) | no result by this author with this title among 0 results |
 | The New Brutalism: Ethic or Aesthetic? (Reyner Banham) | 1 matching results, none with a cover |
-| Modern Architecture: A Critical History (Kenneth Frampton) | isbn 0500203954 |
 | The Architecture of the Well-tempered Environment (Reyner Banham) | cover id 5359665 is missing or too small |
 | Bauhaus 1919–1933 (Magdalena Droste) | no result by this author with this title among 10 results |
 | The Mosque: History, Architectural Development and Regional Diversity (Martin Frishman and Hasan-Uddin Khan (editors)) | no result by this author with this title among 10 results |
 | SOS Brutalism: A Global Survey (Oliver Elser, Philip Kurz and Peter Cachola Schmal (editors)) | no result by this author with this title among 5 results |
-| Raw Concrete: The Beauty of Brutalism (Barnabas Calder) | id 8441314 (loose title match: "Raw Concrete: A Field Guide to British Brutalism") |
 | Between Silence and Light: Spirit in the Architecture of Louis I. Kahn (John Lobell) | no result by this author with this title among 3 results |
 | Le Corbusier: Ideas and Forms (William J. R. Curtis) | no result by this author with this title among 17 results |
 | Mies van der Rohe: A Critical Biography (Franz Schulze) | no result by this author with this title among 20 results |
 | Luis Barragán: The Complete Works (Raúl Rispa (editor)) | no result by this author with this title among 12 results |
-| The Curves of Time: The Memoirs of Oscar Niemeyer (Oscar Niemeyer) | no result by this author with this title among 10 results |
-| Utzon: Inspiration, Vision, Architecture (Richard Weston) | no result by this author with this title among 12 results |
+| The Curves of Time: The Memoirs of Oscar Niemeyer (Oscar Niemeyer) | id 453864 |
+| Utzon: Inspiration, Vision, Architecture (Richard Weston) | isbn 9788788978988 |
 | Herzog & de Meuron: Natural History (Philip Ursprung (editor)) | no result by this author with this title among 12 results |
 | Álvaro Siza: Complete Works (Kenneth Frampton) | no result by this author with this title among 18 results |
 | Anti-Object: The Dissolution and Disintegration of Architecture (Kengo Kuma) | no result by this author with this title among 10 results |
@@ -39,10 +37,8 @@
 | Operative Design: A Catalogue of Spatial Verbs (Anthony Di Mari and Nora Yoo) | no result by this author with this title among 15 results |
 | Freehand Drawing and Discovery (James Richards) | 3 matching results, none with a cover |
 | Constructing Architecture: Materials, Processes, Structures (Andrea Deplazes (editor)) | no result by this author with this title among 14 results |
-| Brick: A World History (James W. P. Campbell and Will Pryce) | isbn 0500341958 |
 | Concrete and Culture: A Material History (Adrian Forty) | no result by this author with this title among 4 results |
-| Sun, Wind & Light: Architectural Design Strategies (G. Z. Brown and Mark DeKay) | isbn 9780471820635 (loose title match: "Sun, wind, and light : architectural design strategies") |
-| Cradle to Cradle: Remaking the Way We Make Things (William McDonough and Michael Braungart) | no result by this author with this title among 15 results |
+| Cradle to Cradle: Remaking the Way We Make Things (William McDonough and Michael Braungart) | id 10952906 |
 | The New Landscape: Urbanisation in the Third World (Charles Correa) | no result by this author with this title among 14 results |
 | A Place in the Shade: The New Landscape and Other Essays (Charles Correa) | no result by this author with this title among 7 results |
 | Laurie Baker: Life, Work, Writings (Gautam Bhatia) | 1 matching results, none with a cover |
@@ -69,8 +65,6 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - le-corbusier-ideas-and-forms: Le Corbusier: Ideas and Forms (William J. R. Curtis)
 - mies-van-der-rohe-a-critical-biography: Mies van der Rohe: A Critical Biography (Franz Schulze)
 - luis-barragan-the-complete-works: Luis Barragán: The Complete Works (Raúl Rispa (editor))
-- the-curves-of-time: The Curves of Time: The Memoirs of Oscar Niemeyer (Oscar Niemeyer)
-- utzon: Utzon: Inspiration, Vision, Architecture (Richard Weston)
 - herzog-and-de-meuron-natural-history: Herzog & de Meuron: Natural History (Philip Ursprung (editor))
 - alvaro-siza-complete-works: Álvaro Siza: Complete Works (Kenneth Frampton)
 - anti-object: Anti-Object: The Dissolution and Disintegration of Architecture (Kengo Kuma)
@@ -86,7 +80,6 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - freehand-drawing-and-discovery: Freehand Drawing and Discovery (James Richards)
 - constructing-architecture: Constructing Architecture: Materials, Processes, Structures (Andrea Deplazes (editor))
 - concrete-and-culture: Concrete and Culture: A Material History (Adrian Forty)
-- cradle-to-cradle: Cradle to Cradle: Remaking the Way We Make Things (William McDonough and Michael Braungart)
 - the-new-landscape: The New Landscape: Urbanisation in the Third World (Charles Correa)
 - a-place-in-the-shade: A Place in the Shade: The New Landscape and Other Essays (Charles Correa)
 - laurie-baker-life-work-writings: Laurie Baker: Life, Work, Writings (Gautam Bhatia)
