@@ -35,8 +35,8 @@ window.BUILDINGS = [
    {
     "src": "images/villa-savoye/1.webp",
     "thumb": "images/villa-savoye/thumbs/1.webp",
-    "w": 1400,
-    "h": 936,
+    "w": 1280,
+    "h": 856,
     "kind": "Interior",
     "caption": "Interior · Designed by Le Corbusier and Charlotte Perriand : LC4 Chaise longue in the Villa Savoye",
     "credit": "jeanbaptisteparis  from Cambridge, MA, USA",
@@ -47,8 +47,8 @@ window.BUILDINGS = [
    {
     "src": "images/villa-savoye/2.webp",
     "thumb": "images/villa-savoye/thumbs/2.webp",
-    "w": 1328,
-    "h": 1400,
+    "w": 1280,
+    "h": 1350,
     "kind": "Detail",
     "caption": "Detail · pour plus d'infos : fr for more information : en",
     "credit": "sophie & cie  from Rouen, Normandie, France",
@@ -57,7 +57,9 @@ window.BUILDINGS = [
     "file": "File:Les heures claires...^1 - Flickr - Biscarotte.jpg"
    }
   ],
-  "commons": "Category:Villa Savoye"
+  "commons": "Category:Villa Savoye",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "unite-dhabitation",
@@ -81,8 +83,8 @@ window.BUILDINGS = [
    {
     "src": "images/unite-dhabitation/0.webp",
     "thumb": "images/unite-dhabitation/thumbs/0.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Jardin de la Magalone, à Marseille (France)",
     "credit": "vincent desjardins",
@@ -93,8 +95,8 @@ window.BUILDINGS = [
    {
     "src": "images/unite-dhabitation/1.webp",
     "thumb": "images/unite-dhabitation/thumbs/1.webp",
-    "w": 1400,
-    "h": 567,
+    "w": 1280,
+    "h": 518,
     "kind": "Detail",
     "caption": "Detail · Architect: le corbusier, 1945",
     "credit": "seier+seier",
@@ -105,8 +107,8 @@ window.BUILDINGS = [
    {
     "src": "images/unite-dhabitation/2.webp",
     "thumb": "images/unite-dhabitation/thumbs/2.webp",
-    "w": 1400,
-    "h": 840,
+    "w": 1280,
+    "h": 768,
     "kind": "Context",
     "caption": "Context · Marseille, Cité radieuse vue actuelle sur la mer depuis la terrasse",
     "credit": "René Dinkel",
@@ -117,7 +119,7 @@ window.BUILDINGS = [
    {
     "src": "images/unite-dhabitation/3.webp",
     "thumb": "images/unite-dhabitation/thumbs/3.webp",
-    "w": 1102,
+    "w": 1101,
     "h": 1400,
     "kind": "Context",
     "caption": "Context",
@@ -127,7 +129,9 @@ window.BUILDINGS = [
     "file": "File:Le Corbusier Experimental Housing Project, Marseille - DPLA - 9c28f44cf8ed56689ab51b78069b1b7b.jpg"
    }
   ],
-  "commons": "Category:Cité radieuse, Marseille"
+  "commons": "Category:Cité radieuse, Marseille",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "notre-dame-du-haut",
@@ -151,8 +155,8 @@ window.BUILDINGS = [
    {
     "src": "images/notre-dame-du-haut/0.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/0.webp",
-    "w": 1400,
-    "h": 1046,
+    "w": 1280,
+    "h": 956,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Sandra Cohen-Rose and   Colin Rose  from Montreal, Canada",
@@ -163,8 +167,8 @@ window.BUILDINGS = [
    {
     "src": "images/notre-dame-du-haut/1.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/1.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · Chapelle Notre-Dame-du Haut de Ronchamp",
     "credit": "FrDr",
@@ -199,8 +203,8 @@ window.BUILDINGS = [
    {
     "src": "images/notre-dame-du-haut/4.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/4.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · Chapelle Notre-Dame-du Haut de Ronchamp",
     "credit": "FrDr",
@@ -211,8 +215,8 @@ window.BUILDINGS = [
    {
     "src": "images/notre-dame-du-haut/5.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/5.webp",
-    "w": 1400,
-    "h": 1046,
+    "w": 1280,
+    "h": 956,
     "kind": "Context",
     "caption": "Context",
     "credit": "Sandra Cohen-Rose and   Colin Rose  from Montreal, Canada",
@@ -221,7 +225,9 @@ window.BUILDINGS = [
     "file": "File:Notre-Dame du Haut (86746486).jpg"
    }
   ],
-  "commons": "Category:Chapelle Notre-Dame-du Haut de Ronchamp"
+  "commons": "Category:Chapelle Notre-Dame-du Haut de Ronchamp",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "sainte-marie-de-la-tourette",
@@ -551,8 +557,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/0.webp",
     "thumb": "images/barcelona-pavilion/thumbs/0.webp",
-    "w": 1400,
-    "h": 937,
+    "w": 1280,
+    "h": 857,
     "kind": "Exterior",
     "caption": "Exterior · The Barcelona Pavilion, Barcelona, 14 October 2010",
     "credit": "Ashley Pomeroy  at  English Wikipedia",
@@ -563,8 +569,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/1.webp",
     "thumb": "images/barcelona-pavilion/thumbs/1.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Exterior",
     "caption": "Exterior · 1929 Barcelona Pavilion reconstruction by Mies van der Rohe",
     "credit": "Russ McGinn",
@@ -575,8 +581,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/2.webp",
     "thumb": "images/barcelona-pavilion/thumbs/2.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Exterior",
     "caption": "Exterior · Barcelona-Pavillon, Barcelona, Catalonia, July 2014",
     "credit": "Ardfern",
@@ -587,8 +593,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/3.webp",
     "thumb": "images/barcelona-pavilion/thumbs/3.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · The Barcelona Pavilion , designed by Ludwig Mies van der Rohe for the 1929 International Exhibition",
     "credit": "thierrytutin",
@@ -599,8 +605,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/4.webp",
     "thumb": "images/barcelona-pavilion/thumbs/4.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Interior",
     "caption": "Interior · Inside the reconstructed Barcelona Pavilion, originally designed by Ludwig Mies van der Rohe",
     "credit": "Christian Gänshirt",
@@ -611,8 +617,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/5.webp",
     "thumb": "images/barcelona-pavilion/thumbs/5.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Interior",
     "caption": "Interior · Barcelona-Pavillon, Barcelona, Catalonia, July 2014",
     "credit": "Ardfern",
@@ -623,8 +629,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/6.webp",
     "thumb": "images/barcelona-pavilion/thumbs/6.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Detail",
     "caption": "Detail · Reflecting pool, Barcelona-Pavillon, Barcelona, Catalonia, July 2014",
     "credit": "Ardfern",
@@ -635,8 +641,8 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/7.webp",
     "thumb": "images/barcelona-pavilion/thumbs/7.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Detail",
     "caption": "Detail · Barcelona-Pavillon, Barcelona, Catalonia, July 2014",
     "credit": "Ardfern",
@@ -645,7 +651,9 @@ window.BUILDINGS = [
     "file": "File:Barcelona-Pavillon, July 2014 (04).JPG"
    }
   ],
-  "commons": "Category:Barcelona-Pavillon"
+  "commons": "Category:Barcelona-Pavillon",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "villa-tugendhat",
@@ -787,8 +795,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/0.webp",
     "thumb": "images/farnsworth-house/thumbs/0.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Farnsworth House by Mies Van Der Rohe",
     "credit": "Victor Grigas",
@@ -799,8 +807,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/1.webp",
     "thumb": "images/farnsworth-house/thumbs/1.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Farnsworth House by Mies Van Der Rohe",
     "credit": "Victor Grigas",
@@ -811,8 +819,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/2.webp",
     "thumb": "images/farnsworth-house/thumbs/2.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Farnsworth House , Plano, Illinois",
     "credit": "Carol M. Highsmith",
@@ -823,8 +831,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/3.webp",
     "thumb": "images/farnsworth-house/thumbs/3.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · Farnsworth House by Mies Van Der Rohe",
     "credit": "Victor Grigas",
@@ -835,8 +843,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/4.webp",
     "thumb": "images/farnsworth-house/thumbs/4.webp",
-    "w": 1400,
-    "h": 822,
+    "w": 1280,
+    "h": 751,
     "kind": "Detail",
     "caption": "Detail · Farnsworth House by Mies Van Der Rohe",
     "credit": "Victor Grigas",
@@ -847,8 +855,8 @@ window.BUILDINGS = [
    {
     "src": "images/farnsworth-house/5.webp",
     "thumb": "images/farnsworth-house/thumbs/5.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Context",
     "caption": "Context · Farnsworth House by Mies Van Der Rohe",
     "credit": "Victor Grigas",
@@ -857,7 +865,9 @@ window.BUILDINGS = [
     "file": "File:Approaching Farnsworth House by Mies Van Der Rohe-3.jpg"
    }
   ],
-  "commons": "Category:Farnsworth House"
+  "commons": "Category:Farnsworth House",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "s-r-crown-hall",
@@ -987,8 +997,8 @@ window.BUILDINGS = [
    {
     "src": "images/seagram-building/0.webp",
     "thumb": "images/seagram-building/thumbs/0.webp",
-    "w": 1400,
-    "h": 1400,
+    "w": 1280,
+    "h": 1280,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Ken OHYAMA  from FUNABASHI, Japan",
@@ -1023,8 +1033,8 @@ window.BUILDINGS = [
    {
     "src": "images/seagram-building/3.webp",
     "thumb": "images/seagram-building/thumbs/3.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · The Seagram Building at 375 Park Avenue in Manhattan, New York, seen in May 2022",
     "credit": "Epicgenius",
@@ -1035,8 +1045,8 @@ window.BUILDINGS = [
    {
     "src": "images/seagram-building/4.webp",
     "thumb": "images/seagram-building/thumbs/4.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Detail",
     "caption": "Detail · The Seagram Building at 375 Park Avenue in Manhattan, New York, seen in May 2022",
     "credit": "Epicgenius",
@@ -1047,8 +1057,8 @@ window.BUILDINGS = [
    {
     "src": "images/seagram-building/5.webp",
     "thumb": "images/seagram-building/thumbs/5.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Detail",
     "caption": "Detail · The Seagram Building at 375 Park Avenue in Manhattan, New York, seen in May 2022",
     "credit": "Epicgenius",
@@ -1059,8 +1069,8 @@ window.BUILDINGS = [
    {
     "src": "images/seagram-building/6.webp",
     "thumb": "images/seagram-building/thumbs/6.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Context",
     "caption": "Context · Buildings on Park Avenue as seen from the Seagram Building plaza in November 2025",
     "credit": "Epicgenius",
@@ -1069,7 +1079,9 @@ window.BUILDINGS = [
     "file": "File:Park Av Nov 2025 01.jpg"
    }
   ],
-  "commons": "Category:Seagram Building"
+  "commons": "Category:Seagram Building",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "neue-nationalgalerie",
@@ -1199,8 +1211,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/0.webp",
     "thumb": "images/fallingwater/thumbs/0.webp",
-    "w": 1400,
-    "h": 919,
+    "w": 1280,
+    "h": 841,
     "kind": "Exterior",
     "caption": "Exterior · Fallingwater at Mill Run, Pennsylvania",
     "credit": "lachrimae72",
@@ -1211,8 +1223,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/1.webp",
     "thumb": "images/fallingwater/thumbs/1.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Fallingwater (Kaufmann Residence) by Frank Lloyd Wright",
     "credit": "Daderot",
@@ -1223,8 +1235,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/2.webp",
     "thumb": "images/fallingwater/thumbs/2.webp",
-    "w": 1400,
-    "h": 890,
+    "w": 1280,
+    "h": 814,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Ruhrfisch",
@@ -1235,8 +1247,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/3.webp",
     "thumb": "images/fallingwater/thumbs/3.webp",
-    "w": 1400,
-    "h": 788,
+    "w": 1280,
+    "h": 720,
     "kind": "Interior",
     "caption": "Interior · Fallingwater - obývací pokoj včetně původního vybavení",
     "credit": "Sakul9",
@@ -1247,8 +1259,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/4.webp",
     "thumb": "images/fallingwater/thumbs/4.webp",
-    "w": 1400,
-    "h": 788,
+    "w": 1280,
+    "h": 720,
     "kind": "Interior",
     "caption": "Interior · Fallingwater - obývací pokoj včetně původního vybavení",
     "credit": "Sakul9",
@@ -1259,8 +1271,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/5.webp",
     "thumb": "images/fallingwater/thumbs/5.webp",
-    "w": 1400,
-    "h": 788,
+    "w": 1280,
+    "h": 720,
     "kind": "Detail",
     "caption": "Detail · Fallingwater - obývací pokoj včetně původního vybavení",
     "credit": "Sakul9",
@@ -1271,8 +1283,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/6.webp",
     "thumb": "images/fallingwater/thumbs/6.webp",
-    "w": 1400,
-    "h": 928,
+    "w": 1280,
+    "h": 848,
     "kind": "Context",
     "caption": "Context",
     "credit": "Joshua G Chang",
@@ -1283,8 +1295,8 @@ window.BUILDINGS = [
    {
     "src": "images/fallingwater/7.webp",
     "thumb": "images/fallingwater/thumbs/7.webp",
-    "w": 1400,
-    "h": 841,
+    "w": 1280,
+    "h": 769,
     "kind": "Drawing",
     "caption": "Drawing · Architectural models in the Gemeentemuseum Den Haag",
     "credit": "Sailko",
@@ -1293,7 +1305,11 @@ window.BUILDINGS = [
     "file": "File:Frank lloyd wright, modellino per fallingwater, 1935, 03.jpg"
    }
   ],
-  "commons": "Category:Fallingwater"
+  "commons": "Category:Fallingwater",
+  "has": [
+   "Drawing"
+  ],
+  "gv": 2
  },
  {
   "id": "johnson-wax-headquarters",
@@ -2237,8 +2253,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/0.webp",
     "thumb": "images/glass-house/thumbs/0.webp",
-    "w": 1400,
-    "h": 969,
+    "w": 1280,
+    "h": 886,
     "kind": "Exterior",
     "caption": "Exterior · relacion que existe con la quebrada",
     "credit": "Edelteil",
@@ -2249,8 +2265,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/1.webp",
     "thumb": "images/glass-house/thumbs/1.webp",
-    "w": 1400,
-    "h": 1002,
+    "w": 1280,
+    "h": 916,
     "kind": "Exterior",
     "caption": "Exterior · Glass House (aka Johnson house) in New Canaan, Connecticut, US",
     "credit": "Carol M. Highsmith",
@@ -2261,8 +2277,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/2.webp",
     "thumb": "images/glass-house/thumbs/2.webp",
-    "w": 1400,
-    "h": 683,
+    "w": 1280,
+    "h": 624,
     "kind": "Exterior",
     "caption": "Exterior · Glass House by Philip Johnson (exterior) in New Canaan, CT, USA",
     "credit": "Staib",
@@ -2273,8 +2289,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/3.webp",
     "thumb": "images/glass-house/thumbs/3.webp",
-    "w": 1296,
-    "h": 968,
+    "w": 1280,
+    "h": 956,
     "kind": "Exterior",
     "caption": "Exterior · reflejo del vidrio",
     "credit": "Edelteil",
@@ -2285,8 +2301,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/4.webp",
     "thumb": "images/glass-house/thumbs/4.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Interior",
     "caption": "Interior · The Phillip Johnson Glass House in New Canaan, CT",
     "credit": "Mds08011",
@@ -2297,8 +2313,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/5.webp",
     "thumb": "images/glass-house/thumbs/5.webp",
-    "w": 1400,
-    "h": 971,
+    "w": 1280,
+    "h": 887,
     "kind": "Interior",
     "caption": "Interior",
     "credit": "A. Latina Brown",
@@ -2309,8 +2325,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/6.webp",
     "thumb": "images/glass-house/thumbs/6.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Drawing",
     "caption": "Drawing · A model of the Glass House by architect Philip Johnson in display at the MOMA in NYC",
     "credit": "Petri Krohn  at  English Wikipedia",
@@ -2321,8 +2337,8 @@ window.BUILDINGS = [
    {
     "src": "images/glass-house/7.webp",
     "thumb": "images/glass-house/thumbs/7.webp",
-    "w": 1400,
-    "h": 911,
+    "w": 1280,
+    "h": 832,
     "kind": "Drawing",
     "caption": "Drawing · planta de la casa",
     "credit": "Edelteil",
@@ -2331,7 +2347,11 @@ window.BUILDINGS = [
     "file": "File:Planta de la casa.jpg"
    }
   ],
-  "commons": "Category:Glass House, New Canaan"
+  "commons": "Category:Glass House, New Canaan",
+  "has": [
+   "Drawing"
+  ],
+  "gv": 2
  },
  {
   "id": "casa-luis-barragan",
@@ -2718,7 +2738,8 @@ window.BUILDINGS = [
     "source": null
    }
   ],
-  "commons": "Category:Antonin Raymond"
+  "commons": "Category:Antonin Raymond",
+  "gv": 2
  },
  {
   "id": "salk-institute",
@@ -2742,8 +2763,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/0.webp",
     "thumb": "images/salk-institute/thumbs/0.webp",
-    "w": 1400,
-    "h": 818,
+    "w": 1280,
+    "h": 748,
     "kind": "Exterior",
     "caption": "Exterior · Salk Institute for Biological Studies",
     "credit": "Jason Taellious",
@@ -2754,8 +2775,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/1.webp",
     "thumb": "images/salk-institute/thumbs/1.webp",
-    "w": 1400,
-    "h": 700,
+    "w": 1280,
+    "h": 640,
     "kind": "Exterior",
     "caption": "Exterior · The Salk Institute for Biological Studies is a famous modernist design by Louis Kahn , built in 1966",
     "credit": "Daniel L. Lu (user:dllu)",
@@ -2766,8 +2787,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/2.webp",
     "thumb": "images/salk-institute/thumbs/2.webp",
-    "w": 1400,
-    "h": 1103,
+    "w": 1280,
+    "h": 1009,
     "kind": "Exterior",
     "caption": "Exterior · Salk Institute from interior courtyard in La Jolla, CA",
     "credit": "Carol M. Highsmith",
@@ -2778,8 +2799,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/3.webp",
     "thumb": "images/salk-institute/thumbs/3.webp",
-    "w": 1400,
-    "h": 889,
+    "w": 1280,
+    "h": 812,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Beyond My Ken",
@@ -2814,8 +2835,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/6.webp",
     "thumb": "images/salk-institute/thumbs/6.webp",
-    "w": 1400,
-    "h": 931,
+    "w": 1280,
+    "h": 851,
     "kind": "Detail",
     "caption": "Detail · Detail of the Salk Institute for Biological Studies , a modernist design by Louis Kahn, built in 1966",
     "credit": "Daniel L. Lu (user:dllu)",
@@ -2826,8 +2847,8 @@ window.BUILDINGS = [
    {
     "src": "images/salk-institute/7.webp",
     "thumb": "images/salk-institute/thumbs/7.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Detail",
     "caption": "Detail · Some chairs and a table at the Salk Institute for Biological Studies ",
     "credit": "Daniel L. Lu (user:dllu)",
@@ -2836,7 +2857,9 @@ window.BUILDINGS = [
     "file": "File:Chairs and table at Salk Institute dllu.jpg"
    }
   ],
-  "commons": "Category:Salk Institute for Biological Studies"
+  "commons": "Category:Salk Institute for Biological Studies",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "phillips-exeter-academy-library",
@@ -2978,8 +3001,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/0.webp",
     "thumb": "images/kimbell-art-museum/thumbs/0.webp",
-    "w": 1400,
-    "h": 1106,
+    "w": 1280,
+    "h": 1012,
     "kind": "Exterior",
     "caption": "Exterior · South wing of the Kimbell Art Museum at dusk, Fort Worth, Texas",
     "credit": "Carol M. Highsmith",
@@ -2990,8 +3013,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/1.webp",
     "thumb": "images/kimbell-art-museum/thumbs/1.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · The Kimbell Art Museum in Fort Worth , Texas ( United States )",
     "credit": "Michael Barera",
@@ -3002,8 +3025,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/2.webp",
     "thumb": "images/kimbell-art-museum/thumbs/2.webp",
-    "w": 1400,
-    "h": 1079,
+    "w": 1280,
+    "h": 987,
     "kind": "Exterior",
     "caption": "Exterior · South wing of the Kimbell art museum, Fort Worth, Texas",
     "credit": "Carol M. Highsmith",
@@ -3014,8 +3037,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/3.webp",
     "thumb": "images/kimbell-art-museum/thumbs/3.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Exterior",
     "caption": "Exterior · Kimbell Art Museum, Fort Worth, Texas",
     "credit": "Photo: Andreas Praefcke",
@@ -3026,8 +3049,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/4.webp",
     "thumb": "images/kimbell-art-museum/thumbs/4.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · The interior of the Kimbell Art Museum in Fort Worth , Texas ( United States )",
     "credit": "Michael Barera",
@@ -3038,8 +3061,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/5.webp",
     "thumb": "images/kimbell-art-museum/thumbs/5.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · Interior, Kimbell Art Museum, Fort Worth, Texas",
     "credit": "Joe Mabel",
@@ -3050,8 +3073,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/6.webp",
     "thumb": "images/kimbell-art-museum/thumbs/6.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · Interior, Kimbell Art Museum, Fort Worth, Texas",
     "credit": "Joe Mabel",
@@ -3062,8 +3085,8 @@ window.BUILDINGS = [
    {
     "src": "images/kimbell-art-museum/7.webp",
     "thumb": "images/kimbell-art-museum/thumbs/7.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Context",
     "caption": "Context · The Kimbell Art Museum in Fort Worth , Texas ( United States )",
     "credit": "Michael Barera",
@@ -3072,7 +3095,9 @@ window.BUILDINGS = [
     "file": "File:Fort Worth Cultural District June 2016 20 (Kimbell Art Museum).jpg"
    }
   ],
-  "commons": "Category:Kimbell Art Museum"
+  "commons": "Category:Kimbell Art Museum",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "iim-ahmedabad",
@@ -4310,8 +4335,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/0.webp",
     "thumb": "images/sydney-opera-house/thumbs/0.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · This is a photo of a cultural heritage monument of Australia with id: 105738",
     "credit": "Boyd159",
@@ -4322,8 +4347,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/1.webp",
     "thumb": "images/sydney-opera-house/thumbs/1.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · This is a photo of a cultural heritage monument of Australia with id: 105738",
     "credit": "Boyd159",
@@ -4334,8 +4359,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/2.webp",
     "thumb": "images/sydney-opera-house/thumbs/2.webp",
-    "w": 1400,
-    "h": 934,
+    "w": 1280,
+    "h": 854,
     "kind": "Exterior",
     "caption": "Exterior · Hey team how are we all doing?",
     "credit": "Lenny K Photography  from Sydney, Australia",
@@ -4346,8 +4371,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/3.webp",
     "thumb": "images/sydney-opera-house/thumbs/3.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Sydney Opera House 5",
     "credit": "Tony Hisgett  from Birmingham, UK",
@@ -4370,8 +4395,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/5.webp",
     "thumb": "images/sydney-opera-house/thumbs/5.webp",
-    "w": 1400,
-    "h": 967,
+    "w": 1280,
+    "h": 884,
     "kind": "Interior",
     "caption": "Interior · Sydney Opera House interior tour, 2023",
     "credit": "Kgbo",
@@ -4382,8 +4407,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/6.webp",
     "thumb": "images/sydney-opera-house/thumbs/6.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Detail",
     "caption": "Detail · Kashu j nai",
     "credit": "Glinted framora",
@@ -4394,8 +4419,8 @@ window.BUILDINGS = [
    {
     "src": "images/sydney-opera-house/7.webp",
     "thumb": "images/sydney-opera-house/thumbs/7.webp",
-    "w": 1400,
-    "h": 730,
+    "w": 1280,
+    "h": 667,
     "kind": "Context",
     "caption": "Context · Sydney Harbour Bridge and Sydney Opera House panorama",
     "credit": "Kgbo",
@@ -4404,7 +4429,9 @@ window.BUILDINGS = [
     "file": "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg"
    }
   ],
-  "commons": "Category:Sydney Opera House"
+  "commons": "Category:Sydney Opera House",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "bagsvaerd-church",
@@ -4837,7 +4864,8 @@ window.BUILDINGS = [
     "source": null
    }
   ],
-  "commons": "Category:Balkrishna Doshi"
+  "commons": "Category:Balkrishna Doshi",
+  "gv": 2
  },
  {
   "id": "aranya-low-cost-housing",
@@ -5712,8 +5740,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/0.webp",
     "thumb": "images/therme-vals/thumbs/0.webp",
-    "w": 1400,
-    "h": 932,
+    "w": 1280,
+    "h": 852,
     "kind": "Exterior",
     "caption": "Exterior · Kylpylä Sveitsin Valsissa",
     "credit": "fcamusd",
@@ -5724,8 +5752,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/1.webp",
     "thumb": "images/therme-vals/thumbs/1.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Gunnar Klack",
@@ -5736,8 +5764,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/2.webp",
     "thumb": "images/therme-vals/thumbs/2.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Therme_Vals, Vals, Graubünden, Switzerland",
     "credit": "p2cl",
@@ -5748,8 +5776,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/3.webp",
     "thumb": "images/therme-vals/thumbs/3.webp",
-    "w": 1400,
-    "h": 932,
+    "w": 1280,
+    "h": 852,
     "kind": "Exterior",
     "caption": "Exterior · Kylpylä Sveitsin Valsissa",
     "credit": "fcamusd",
@@ -5760,8 +5788,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/4.webp",
     "thumb": "images/therme-vals/thumbs/4.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Interior",
     "caption": "Interior · Stucco-Zimmer in Hotel de:Therme Vals",
     "credit": "Adrian Michael",
@@ -5784,8 +5812,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/6.webp",
     "thumb": "images/therme-vals/thumbs/6.webp",
-    "w": 1400,
-    "h": 1124,
+    "w": 1280,
+    "h": 1027,
     "kind": "Context",
     "caption": "Context · Hotel de:Therme Vals",
     "credit": "Adrian Michael",
@@ -5796,8 +5824,8 @@ window.BUILDINGS = [
    {
     "src": "images/therme-vals/7.webp",
     "thumb": "images/therme-vals/thumbs/7.webp",
-    "w": 1400,
-    "h": 1040,
+    "w": 1280,
+    "h": 951,
     "kind": "Context",
     "caption": "Context · de:Therme Vals um 1910",
     "credit": "C. Maggi",
@@ -5806,7 +5834,9 @@ window.BUILDINGS = [
     "file": "File:Therme Vals um 1910.jpg"
    }
   ],
-  "commons": "Category:Therme Vals"
+  "commons": "Category:Therme Vals",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "bruder-klaus-field-chapel",
@@ -6275,8 +6305,8 @@ window.BUILDINGS = [
    {
     "src": "images/church-of-the-light/2.webp",
     "thumb": "images/church-of-the-light/thumbs/2.webp",
-    "w": 1400,
-    "h": 937,
+    "w": 1280,
+    "h": 857,
     "kind": "Detail",
     "caption": "Detail · Church of the Light by Tadao Ando",
     "credit": "Chun-Hung Eric Cheng",
@@ -6297,7 +6327,9 @@ window.BUILDINGS = [
     "file": "File:Church of the Light model.jpg"
    }
   ],
-  "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)"
+  "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "sendai-mediatheque",
@@ -6775,8 +6807,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/0.webp",
     "thumb": "images/centre-pompidou/thumbs/0.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
     "caption": "Exterior · Vue de Paris depuis la basilique du Sacré-Cœur de Montmartre, Paris",
     "credit": "Chabe01",
@@ -6787,8 +6819,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/1.webp",
     "thumb": "images/centre-pompidou/thumbs/1.webp",
-    "w": 1400,
-    "h": 1050,
+    "w": 1280,
+    "h": 960,
     "kind": "Exterior",
     "caption": "Exterior · Le centre Pompidou depuis le jardin Anne-Frank, Paris, France",
     "credit": "Rémih",
@@ -6799,8 +6831,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/2.webp",
     "thumb": "images/centre-pompidou/thumbs/2.webp",
-    "w": 1400,
-    "h": 931,
+    "w": 1280,
+    "h": 852,
     "kind": "Detail",
     "caption": "Detail · Ventilation pipes on Place Georges Pompidou opposite the main entrance of the Centre Pompidou in Paris",
     "credit": "Stefan Drößler",
@@ -6811,8 +6843,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/3.webp",
     "thumb": "images/centre-pompidou/thumbs/3.webp",
-    "w": 1400,
-    "h": 753,
+    "w": 1280,
+    "h": 688,
     "kind": "Interior",
     "caption": "Interior",
     "credit": "Jean-Pierre Dalbéra",
@@ -6823,8 +6855,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/4.webp",
     "thumb": "images/centre-pompidou/thumbs/4.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Interior",
     "caption": "Interior · DSC03028",
     "credit": "Andrew H",
@@ -6835,8 +6867,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/5.webp",
     "thumb": "images/centre-pompidou/thumbs/5.webp",
-    "w": 1400,
-    "h": 932,
+    "w": 1280,
+    "h": 852,
     "kind": "Context",
     "caption": "Context · (Saint-Merri) Place Georges-Pompidou Place Georges-Pompidou and some famous monuments in Paris cityscape",
     "credit": "Fred Romero  from Paris, France",
@@ -6847,8 +6879,8 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/6.webp",
     "thumb": "images/centre-pompidou/thumbs/6.webp",
-    "w": 1400,
-    "h": 933,
+    "w": 1280,
+    "h": 853,
     "kind": "Context",
     "caption": "Context · Vue de Paris depuis la basilique du Sacré-Cœur de Montmartre, Paris",
     "credit": "Chabe01",
@@ -6857,7 +6889,9 @@ window.BUILDINGS = [
     "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 2.jpg"
    }
   ],
-  "commons": "Category:Centre Georges-Pompidou"
+  "commons": "Category:Centre Georges-Pompidou",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "lloyds-building",
@@ -9988,20 +10022,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/30_St_Mary_Axe_from_Leadenhall_Street.jpg/1280px-30_St_Mary_Axe_from_Leadenhall_Street.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/30_St_Mary_Axe_%28Swiss_Re_Building%29_and_St_Andrew_Undershaft_church.jpg/1280px-30_St_Mary_Axe_%28Swiss_Re_Building%29_and_St_Andrew_Undershaft_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/30-st-mary-axe/thumbs/0.webp",
-    "w": 1021,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Aurelien Guichard  from London, United Kingdom",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe_from_Leadenhall_Street.jpg",
-    "file": "File:30 St Mary Axe from Leadenhall Street.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/30_St_Mary_Axe_%28Swiss_Re_Building%29_and_St_Andrew_Undershaft_church.jpg/1280px-30_St_Mary_Axe_%28Swiss_Re_Building%29_and_St_Andrew_Undershaft_church.jpg",
-    "thumb": "images/30-st-mary-axe/thumbs/1.webp",
     "w": 1024,
     "h": 1400,
     "kind": "Exterior",
@@ -10012,8 +10034,8 @@ window.BUILDINGS = [
     "file": "File:30 St Mary Axe (Swiss Re Building) and St Andrew Undershaft church.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/London_MMB_39_30_St_Mary_Ax.jpg/1280px-London_MMB_39_30_St_Mary_Ax.jpg",
-    "thumb": "images/30-st-mary-axe/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/London_MMB_39_30_St_Mary_Ax.jpg/1280px-London_MMB_39_30_St_Mary_Ax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/30-st-mary-axe/thumbs/1.webp",
     "w": 933,
     "h": 1400,
     "kind": "Exterior",
@@ -10024,8 +10046,8 @@ window.BUILDINGS = [
     "file": "File:London MMB 39 30 St Mary Ax.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cheesegrater_and_Gherkin.jpg/1280px-Cheesegrater_and_Gherkin.jpg",
-    "thumb": "images/30-st-mary-axe/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cheesegrater_and_Gherkin.jpg/1280px-Cheesegrater_and_Gherkin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/30-st-mary-axe/thumbs/2.webp",
     "w": 1053,
     "h": 1400,
     "kind": "Interior",
@@ -10036,8 +10058,8 @@ window.BUILDINGS = [
     "file": "File:Cheesegrater and Gherkin.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/30_St_Mary_Axe_-_The_Gherkin_from_Leadenhall_St_-_Nov_2006.jpg/1280px-30_St_Mary_Axe_-_The_Gherkin_from_Leadenhall_St_-_Nov_2006.jpg",
-    "thumb": "images/30-st-mary-axe/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/30_St_Mary_Axe_-_The_Gherkin_from_Leadenhall_St_-_Nov_2006.jpg/1280px-30_St_Mary_Axe_-_The_Gherkin_from_Leadenhall_St_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/30-st-mary-axe/thumbs/3.webp",
     "w": 725,
     "h": 1400,
     "kind": "Interior",
@@ -10048,18 +10070,32 @@ window.BUILDINGS = [
     "file": "File:30 St Mary Axe - The Gherkin from Leadenhall St - Nov 2006.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gherkin_detail_%2851281896428%29.jpg/1280px-Gherkin_detail_%2851281896428%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/30_St_Mary_Axe_from_Leadenhall_Street.jpg/1280px-30_St_Mary_Axe_from_Leadenhall_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/30-st-mary-axe/thumbs/4.webp",
+    "w": 1021,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Aurelien Guichard  from London, United Kingdom",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe_from_Leadenhall_Street.jpg",
+    "file": "File:30 St Mary Axe from Leadenhall Street.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/London_MMB_43_30_St_Mary_Ax.jpg/1280px-London_MMB_43_30_St_Mary_Ax.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/30-st-mary-axe/thumbs/5.webp",
     "w": 1280,
     "h": 853,
     "kind": "Detail",
-    "caption": "Detail · St Mary Axe, City of London",
-    "credit": "It's No Game",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gherkin_detail_(51281896428).jpg",
-    "file": "File:Gherkin detail (51281896428).jpg"
+    "caption": "Detail · The Gherkin, aka 30 St Mary Ax, or the Swiss Re Building",
+    "credit": "mattbuck    ( category )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_MMB_43_30_St_Mary_Ax.jpg",
+    "file": "File:London MMB 43 30 St Mary Ax.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "commerzbank-tower",
@@ -13261,7 +13297,7 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kiasmamodernartmuseum.JPG/1280px-Kiasmamodernartmuseum.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kiasmamodernartmuseum.JPG/1280px-Kiasmamodernartmuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kiasma/thumbs/0.webp",
     "w": 1280,
     "h": 960,
@@ -13273,7 +13309,7 @@ window.BUILDINGS = [
     "file": "File:Kiasmamodernartmuseum.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Artist_Angelo_Plessas_in_Kiasma.jpg/1280px-Artist_Angelo_Plessas_in_Kiasma.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Artist_Angelo_Plessas_in_Kiasma.jpg/1280px-Artist_Angelo_Plessas_in_Kiasma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kiasma/thumbs/1.webp",
     "w": 933,
     "h": 1400,
@@ -13285,7 +13321,7 @@ window.BUILDINGS = [
     "file": "File:Artist Angelo Plessas in Kiasma.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Artist_Anna_Uddenberg_in_Kiasma.jpg/1280px-Artist_Anna_Uddenberg_in_Kiasma.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Artist_Anna_Uddenberg_in_Kiasma.jpg/1280px-Artist_Anna_Uddenberg_in_Kiasma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kiasma/thumbs/2.webp",
     "w": 1070,
     "h": 1400,
@@ -13297,7 +13333,7 @@ window.BUILDINGS = [
     "file": "File:Artist Anna Uddenberg in Kiasma.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Artist_Artie_Vierkant_in_Kiasma.jpg/1280px-Artist_Artie_Vierkant_in_Kiasma.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Artist_Artie_Vierkant_in_Kiasma.jpg/1280px-Artist_Artie_Vierkant_in_Kiasma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kiasma/thumbs/3.webp",
     "w": 1280,
     "h": 853,
@@ -13309,7 +13345,7 @@ window.BUILDINGS = [
     "file": "File:Artist Artie Vierkant in Kiasma.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Int%C3%A9rieur_Ext%C3%A9rieur_du_Kiasma_%28Helsinki%29_%282752086441%29.jpg/1280px-Int%C3%A9rieur_Ext%C3%A9rieur_du_Kiasma_%28Helsinki%29_%282752086441%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Int%C3%A9rieur_Ext%C3%A9rieur_du_Kiasma_%28Helsinki%29_%282752086441%29.jpg/1280px-Int%C3%A9rieur_Ext%C3%A9rieur_du_Kiasma_%28Helsinki%29_%282752086441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kiasma/thumbs/4.webp",
     "w": 1280,
     "h": 960,
@@ -13321,7 +13357,7 @@ window.BUILDINGS = [
     "file": "File:Intérieur Extérieur du Kiasma (Helsinki) (2752086441).jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oeuvre_de_Tarja_Pitk%C3%A4nen-Walter_%28Kiasma%2C_Kelsinki%29_%282755458855%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oeuvre_de_Tarja_Pitk%C3%A4nen-Walter_%28Kiasma%2C_Kelsinki%29_%282755458855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/kiasma/thumbs/5.webp",
     "w": 900,
     "h": 1200,
@@ -13331,8 +13367,24 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Oeuvre_de_Tarja_Pitk%C3%A4nen-Walter_(Kiasma,_Kelsinki)_(2755458855).jpg",
     "file": "File:Oeuvre de Tarja Pitkänen-Walter (Kiasma, Kelsinki) (2755458855).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Oeuvres_dHannu_Siren_et_de_Vesa-Pekka_Ranniko_%28Kiasma_Helsinki%29_%282752086125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/kiasma/thumbs/6.webp",
+    "w": 803,
+    "h": 1200,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "dalbera  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oeuvres_dHannu_Siren_et_de_Vesa-Pekka_Ranniko_(Kiasma_Helsinki)_(2752086125).jpg",
+    "file": "File:Oeuvres dHannu Siren et de Vesa-Pekka Ranniko (Kiasma Helsinki) (2752086125).jpg"
    }
-  ]
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 2
  },
  {
   "id": "st-joseph-s-church",
@@ -42920,20 +42972,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/The_Sage_Gateshead.jpg/1280px-The_Sage_Gateshead.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Newcastle_Bridges1.jpg/1280px-Newcastle_Bridges1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/the-glasshouse/thumbs/0.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior · Norman Foster's concert hall: The Sage Gateshead in Gateshead, England",
-    "credit": "William Nicholson  from London / Paris, England / France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Sage_Gateshead.jpg",
-    "file": "File:The Sage Gateshead.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Newcastle_Bridges1.jpg/1280px-Newcastle_Bridges1.jpg",
-    "thumb": "images/the-glasshouse/thumbs/1.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -42944,8 +42984,8 @@ window.BUILDINGS = [
     "file": "File:Newcastle Bridges1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sage_Gateshead_2.jpg/1280px-Sage_Gateshead_2.jpg",
-    "thumb": "images/the-glasshouse/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sage_Gateshead_2.jpg/1280px-Sage_Gateshead_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/1.webp",
     "w": 1280,
     "h": 658,
     "kind": "Exterior",
@@ -42956,8 +42996,8 @@ window.BUILDINGS = [
     "file": "File:Sage Gateshead 2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gateshead_Millennium_Bridge%2C_July_2015.JPG/1280px-Gateshead_Millennium_Bridge%2C_July_2015.JPG",
-    "thumb": "images/the-glasshouse/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gateshead_Millennium_Bridge%2C_July_2015.JPG/1280px-Gateshead_Millennium_Bridge%2C_July_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/2.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -42968,8 +43008,8 @@ window.BUILDINGS = [
     "file": "File:Gateshead Millennium Bridge, July 2015.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Sage_Gateshead%2C_January_2016_%2801%29.JPG/1280px-The_Sage_Gateshead%2C_January_2016_%2801%29.JPG",
-    "thumb": "images/the-glasshouse/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Sage_Gateshead%2C_January_2016_%2801%29.JPG/1280px-The_Sage_Gateshead%2C_January_2016_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/3.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -42980,8 +43020,8 @@ window.BUILDINGS = [
     "file": "File:The Sage Gateshead, January 2016 (01).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/View_from_inside_the_Sage.JPG/1280px-View_from_inside_the_Sage.JPG",
-    "thumb": "images/the-glasshouse/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/View_from_inside_the_Sage.JPG/1280px-View_from_inside_the_Sage.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/4.webp",
     "w": 1050,
     "h": 1400,
     "kind": "Interior",
@@ -42990,8 +43030,22 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:View_from_inside_the_Sage.JPG",
     "file": "File:View from inside the Sage.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Inside_the_Sage.jpg/1280px-Inside_the_Sage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/5.webp",
+    "w": 940,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · photo by Lindsey Armstrong",
+    "credit": "Lindseyarmstrongphoto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Sage.jpg",
+    "file": "File:Inside the Sage.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "azadi-tower",
@@ -88243,20 +88297,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/1280px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/0.webp",
-    "w": 1280,
-    "h": 860,
-    "kind": "Exterior",
-    "caption": "Exterior · South façade of the Opéra Garnier in Paris, France",
-    "credit": "Peter Rivera",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paris_Opera_full_frontal_architecture,_May_2009.jpg",
-    "file": "File:Paris Opera full frontal architecture, May 2009.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Avenue_de_l%27Op%C3%A9ra_Paris.jpg/1280px-Avenue_de_l%27Op%C3%A9ra_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/1.webp",
+    "thumb": "images/palais-garnier/thumbs/0.webp",
     "w": 1280,
     "h": 852,
     "kind": "Exterior",
@@ -88267,8 +88309,32 @@ window.BUILDINGS = [
     "file": "File:Avenue de l'Opéra Paris.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/28._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Pavage_et_gaz._Cugnot_-_Durandelle%2C_photographe_-_btv1b54100942p_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg/1280px-View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/1.webp",
+    "w": 1158,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photographer not identified",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg",
+    "file": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg/1280px-Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · La Ópera Nacional de París se encuentra dividida en dos edificios",
+    "credit": "Carlos Reusser Monsalvez  from Santiago, Chile",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_(25850301811).jpg",
+    "file": "File:Techo de la Ópera Garnier desde la terraza de Galeries Lafayette (25850301811).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/28._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Pavage_et_gaz._Cugnot_-_Durandelle%2C_photographe_-_btv1b54100942p_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/3.webp",
     "w": 1280,
     "h": 900,
     "kind": "Interior",
@@ -88280,9 +88346,9 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/30._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Peinture_et_Fumisterie._Chevalier_-_Durandelle%2C_photographe_-_btv1b54100964d_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/3.webp",
+    "thumb": "images/palais-garnier/thumbs/4.webp",
     "w": 1280,
-    "h": 913,
+    "h": 914,
     "kind": "Interior",
     "caption": "Interior",
     "credit": "Durandelle, Louis-Émile (1839-1917). Photographe",
@@ -88292,7 +88358,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Opera_Garnier_facade_detail_DSC_0792w.jpg/1280px-Opera_Garnier_facade_detail_DSC_0792w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/4.webp",
+    "thumb": "images/palais-garnier/thumbs/5.webp",
     "w": 1280,
     "h": 896,
     "kind": "Detail",
@@ -88303,18 +88369,48 @@ window.BUILDINGS = [
     "file": "File:Opera Garnier facade detail DSC 0792w.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Garnier_-_Architectural_detail_of_window_pediment_with_cherubs_and_Corinthian_capitals.jpg/1280px-Palais_Garnier_-_Architectural_detail_of_window_pediment_with_cherubs_and_Corinthian_capitals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg/1280px-Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/6.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "iMahesh",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_-_Architectural_detail_of_window_pediment_with_cherubs_and_Corinthian_capitals.jpg",
-    "file": "File:Palais Garnier - Architectural detail of window pediment with cherubs and Corinthian capitals.jpg"
+    "h": 965,
+    "kind": "Plan",
+    "caption": "Plan · Sujet : Opéra Garnier (Paris) Plans Plan Langue : français",
+    "credit": "Garnier, Charles (1825-1898). Dessinateur. Ancien possesseur",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg",
+    "file": "File:Esquisse pour la façade postérieure - Charles Garnier - btv1b53221300v.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Maquette_salle_op%C3%A9ra_garnier.jpg/1280px-Maquette_salle_op%C3%A9ra_garnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Détail de la maquette de l'Opéra Garnier exposée au musée d'Orsay",
+    "credit": "AgathaNi",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maquette_salle_op%C3%A9ra_garnier.jpg",
+    "file": "File:Maquette salle opéra garnier.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg/1280px-Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/8.webp",
+    "w": 1280,
+    "h": 756,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Garnier, Charles (1825-1898). Dessinateur",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg",
+    "file": "File:Nouvel Opéra. Élévation de la façade postérieure - dessin - Charles Garnier - btv1b53291509t.jpg"
    }
-  ]
+  ],
+  "has": [
+   "Plan",
+   "Model",
+   "Drawing"
+  ],
+  "gv": 2
  },
  {
   "id": "national-museum-of-anthropology",
@@ -110178,7 +110274,9 @@ window.BUILDINGS = [
     "source": "https://commons.wikimedia.org/wiki/File:Casa-Malaparte-Capri-Italy_1991-May_07.jpg",
     "file": "File:Casa-Malaparte-Capri-Italy 1991-May 07.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "25-bis-rue-franklin",
@@ -132346,20 +132444,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wfm_glasgow_school_of_art.jpg/1280px-Wfm_glasgow_school_of_art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/0.webp",
-    "w": 1280,
-    "h": 986,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "John a s",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wfm_glasgow_school_of_art.jpg",
-    "file": "File:Wfm glasgow school of art.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/1.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/0.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -132370,20 +132456,8 @@ window.BUILDINGS = [
     "file": "File:Glasgow City - Glasgow School of Art - 20230916153912.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Glasgow_City_-_Glasgow_School_of_Art_-_20230916153936.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_20230916153936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of listed building number",
-    "credit": "AlasdairW",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_City_-_Glasgow_School_of_Art_-_20230916153936.jpg",
-    "file": "File:Glasgow City - Glasgow School of Art - 20230916153936.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Glasgow_School_of_Art_-_15441468932.jpg/1280px-Glasgow_School_of_Art_-_15441468932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/3.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/1.webp",
     "w": 933,
     "h": 1400,
     "kind": "Exterior",
@@ -132392,6 +132466,30 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_-_15441468932.jpg",
     "file": "File:Glasgow School of Art - 15441468932.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Glasgow_School_of_Art_-_panoramio.jpg/1280px-The_Glasgow_School_of_Art_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/glasgow-school-of-art/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · The Glasgow School of Art",
+    "credit": "T. Thielemans",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Glasgow_School_of_Art_-_panoramio.jpg",
+    "file": "File:The Glasgow School of Art - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Glasgow_City_-_Glasgow_School_of_Art_-_2026-09-23_00-39-59_002.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_2026-09-23_00-39-59_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/glasgow-school-of-art/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · This picture was uploaded via app \"Wiki Loves Monuments United Kingdom\" ",
+    "credit": "Crowsus",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_City_-_Glasgow_School_of_Art_-_2026-09-23_00-39-59_002.jpg",
+    "file": "File:Glasgow City - Glasgow School of Art - 2026-09-23 00-39-59 002.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Glasgow_School_of_Art_Assembly_Hall_%2827459188237%29.jpg/1280px-Glasgow_School_of_Art_Assembly_Hall_%2827459188237%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -132406,18 +132504,34 @@ window.BUILDINGS = [
     "file": "File:Glasgow School of Art Assembly Hall (27459188237).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Glasgow_School_of_Art_Assembly_Hall_%2828455542148%29.jpg/1280px-Glasgow_School_of_Art_Assembly_Hall_%2828455542148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Glasgow_School_of_Art_-_8932001004.jpg/1280px-Glasgow_School_of_Art_-_8932001004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/glasgow-school-of-art/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Glasgow School of Art Assembly Hall",
-    "credit": "Paul Trafford",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_Assembly_Hall_(28455542148).jpg",
-    "file": "File:Glasgow School of Art Assembly Hall (28455542148).jpg"
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · This is a photo of listed building number",
+    "credit": "Dave & Margie Hill / Kleerup",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_-_8932001004.jpg",
+    "file": "File:Glasgow School of Art - 8932001004.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Glasgow_art_architecture.jpg/1280px-Glasgow_art_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/glasgow-school-of-art/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · *description:Architectural model of the Glasgow School of Art ",
+    "credit": "The original uploader was  Mind meal  at  English Wikipedia .",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_art_architecture.jpg",
+    "file": "File:Glasgow art architecture.jpg"
    }
-  ]
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 2
  },
  {
   "id": "mesa-laboratory-ncar",
@@ -138604,7 +138718,9 @@ window.BUILDINGS = [
     "source": "https://commons.wikimedia.org/wiki/File:Oficina_evento_Oscar_2025_2.jpg",
     "file": "File:Oficina evento Oscar 2025 2.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "teatro-regional-del-biobio",
