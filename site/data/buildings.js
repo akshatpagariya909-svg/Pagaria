@@ -23,38 +23,50 @@ window.BUILDINGS = [
    {
     "src": "images/villa-savoye/0.webp",
     "thumb": "images/villa-savoye/thumbs/0.webp",
-    "w": 856,
-    "h": 1280,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "scarletgreen  from Japan",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Villa_Savoye32.JPG_-_Flickr_-_scarletgreen.jpg",
-    "file": "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg"
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Cartello che indica l'appartenenza di Villa Savoye alla lista dei monumenti Architettonici Francesi",
+    "credit": "Ing.Manga",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartello_Patrimonio_xx_secolo.jpg",
+    "file": "File:Cartello Patrimonio xx secolo.jpg"
    },
    {
     "src": "images/villa-savoye/1.webp",
     "thumb": "images/villa-savoye/thumbs/1.webp",
     "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ing.Manga",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartello_stradale_in_Rue_de_Villiers.jpg",
+    "file": "File:Cartello stradale in Rue de Villiers.jpg"
+   },
+   {
+    "src": "images/villa-savoye/2.webp",
+    "thumb": "images/villa-savoye/thumbs/2.webp",
+    "w": 1280,
     "h": 856,
-    "kind": "Interior",
-    "caption": "Interior · Designed by Le Corbusier and Charlotte Perriand : LC4 Chaise longue in the Villa Savoye",
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Le Corbusier and Charlotte Perriand : LC4 Chaise longue in the Villa Savoye",
     "credit": "jeanbaptisteparis  from Cambridge, MA, USA",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Villa_Savoye_(8237925975).jpg",
     "file": "File:Villa Savoye (8237925975).jpg"
    },
    {
-    "src": "images/villa-savoye/2.webp",
-    "thumb": "images/villa-savoye/thumbs/2.webp",
+    "src": "images/villa-savoye/3.webp",
+    "thumb": "images/villa-savoye/thumbs/3.webp",
     "w": 1280,
-    "h": 1350,
-    "kind": "Detail",
-    "caption": "Detail · pour plus d'infos : fr for more information : en",
-    "credit": "sophie & cie  from Rouen, Normandie, France",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Les_heures_claires...%5E1_-_Flickr_-_Biscarotte.jpg",
-    "file": "File:Les heures claires...^1 - Flickr - Biscarotte.jpg"
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Savoye te Poissy, Frankrijk",
+    "credit": "Wasily",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Savoye_3.JPG",
+    "file": "File:Savoye 3.JPG"
    }
   ],
   "commons": "Category:Villa Savoye",
@@ -223,10 +235,24 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Notre-Dame_du_Haut_(86746486).jpg",
     "file": "File:Notre-Dame du Haut (86746486).jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/6.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/6.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "丘崈",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%BB%8A%E9%A6%99%E6%95%99%E5%A0%82%E6%A8%A1%E5%9E%8B.jpg",
+    "file": "File:廊香教堂模型.jpg"
    }
   ],
   "commons": "Category:Chapelle Notre-Dame-du Haut de Ronchamp",
-  "has": [],
+  "has": [
+   "Model"
+  ],
   "gv": 2
  },
  {
@@ -649,10 +675,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Barcelona-Pavillon,_July_2014_(04).JPG",
     "file": "File:Barcelona-Pavillon, July 2014 (04).JPG"
+   },
+   {
+    "src": "images/barcelona-pavilion/8.webp",
+    "thumb": "images/barcelona-pavilion/thumbs/8.webp",
+    "w": 1280,
+    "h": 673,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "3coma14",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planta_libre-pabell%C3%B3n_de_barcelona.png",
+    "file": "File:Planta libre-pabellón de barcelona.png"
    }
   ],
   "commons": "Category:Barcelona-Pavillon",
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 2
  },
  {
@@ -863,10 +903,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Approaching_Farnsworth_House_by_Mies_Van_Der_Rohe-3.jpg",
     "file": "File:Approaching Farnsworth House by Mies Van Der Rohe-3.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/6.webp",
+    "thumb": "images/farnsworth-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Plan",
+    "caption": "Plan · Barnsworth Gallery at Farnsworth House, Plano, Illinois",
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barnsworth_Gallery_at_Farnsworth_House_Plano-0007.jpg",
+    "file": "File:Barnsworth Gallery at Farnsworth House Plano-0007.jpg"
    }
   ],
   "commons": "Category:Farnsworth House",
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 2
  },
  {
@@ -1077,10 +1131,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Park_Av_Nov_2025_01.jpg",
     "file": "File:Park Av Nov 2025 01.jpg"
+   },
+   {
+    "src": "images/seagram-building/7.webp",
+    "thumb": "images/seagram-building/thumbs/7.webp",
+    "w": 717,
+    "h": 992,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Ludwig Mies van der Rohe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seagram_Building_Floor_Plan.png",
+    "file": "File:Seagram Building Floor Plan.png"
    }
   ],
   "commons": "Category:Seagram Building",
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 2
  },
  {
@@ -1303,10 +1371,36 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Frank_lloyd_wright,_modellino_per_fallingwater,_1935,_03.jpg",
     "file": "File:Frank lloyd wright, modellino per fallingwater, 1935, 03.jpg"
+   },
+   {
+    "src": "images/fallingwater/8.webp",
+    "thumb": "images/fallingwater/thumbs/8.webp",
+    "w": 1150,
+    "h": 719,
+    "kind": "Plan",
+    "caption": "Plan · A floor plan of the innovative, lloyd-wright house, Fallingwater",
+    "credit": "Arsenalbubs",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwaterfloorplan.jpg",
+    "file": "File:Fallingwaterfloorplan.jpg"
+   },
+   {
+    "src": "images/fallingwater/9.webp",
+    "thumb": "images/fallingwater/thumbs/9.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · A miniature replica of the Fallingwater building at MRRV, Carnegie Science Center in Pittsburgh",
+    "credit": "Raunaq Gupta",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_miniature_model_at_MRRV,_Carnegie_Science_Center.JPG",
+    "file": "File:Fallingwater miniature model at MRRV, Carnegie Science Center.JPG"
    }
   ],
   "commons": "Category:Fallingwater",
   "has": [
+   "Plan",
+   "Model",
    "Drawing"
   ],
   "gv": 2
@@ -2345,10 +2439,36 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Planta_de_la_casa.jpg",
     "file": "File:Planta de la casa.jpg"
+   },
+   {
+    "src": "images/glass-house/8.webp",
+    "thumb": "images/glass-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 328,
+    "kind": "Section",
+    "caption": "Section · este es el corte transversal de la casa",
+    "credit": "Edelteil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corte_longitudinal.jpg",
+    "file": "File:Corte longitudinal.jpg"
+   },
+   {
+    "src": "images/glass-house/9.webp",
+    "thumb": "images/glass-house/thumbs/9.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Sketch",
+    "caption": "Sketch · Croquis de la casa",
+    "credit": "Edelteil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Croquis_01.jpg",
+    "file": "File:Croquis 01.jpg"
    }
   ],
   "commons": "Category:Glass House, New Canaan",
   "has": [
+   "Section",
+   "Sketch",
    "Drawing"
   ],
   "gv": 2
@@ -2855,10 +2975,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chairs_and_table_at_Salk_Institute_dllu.jpg",
     "file": "File:Chairs and table at Salk Institute dllu.jpg"
+   },
+   {
+    "src": "images/salk-institute/8.webp",
+    "thumb": "images/salk-institute/thumbs/8.webp",
+    "w": 1177,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Salk_Institute_south_building_chalk_drawing_on_door.jpg",
+    "file": "File:2019 Salk Institute south building chalk drawing on door.jpg"
    }
   ],
   "commons": "Category:Salk Institute for Biological Studies",
-  "has": [],
+  "has": [
+   "Drawing"
+  ],
   "gv": 2
  },
  {
@@ -4427,10 +4561,37 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_and_Sydney_Opera_House_panorama.jpg",
     "file": "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/8.webp",
+    "thumb": "images/sydney-opera-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Maqueta del edificio de la Ópera de Sydney",
+    "credit": "Plindberg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maqueta_de_la_%C3%B3pera_de_Sydney.jpg",
+    "file": "File:Maqueta de la ópera de Sydney.jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/9.webp",
+    "thumb": "images/sydney-opera-house/thumbs/9.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Drawing",
+    "caption": "Drawing · Architectural Landscape Inspired by the Sydney Opera House",
+    "credit": "Konstantin Malevin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Architectural_Landscape.jpg",
+    "file": "File:Sydney Opera House Architectural Landscape.jpg"
    }
   ],
   "commons": "Category:Sydney Opera House",
-  "has": [],
+  "has": [
+   "Model",
+   "Drawing"
+  ],
   "gv": 2
  },
  {
@@ -6325,10 +6486,24 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Light_model.jpg",
     "file": "File:Church of the Light model.jpg"
+   },
+   {
+    "src": "images/church-of-the-light/4.webp",
+    "thumb": "images/church-of-the-light/thumbs/4.webp",
+    "w": 768,
+    "h": 1024,
+    "kind": "Model",
+    "caption": "Model · Maqueta",
+    "credit": "dalbera",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Maquette_de_l%27%C3%A9glise_de_la_lumi%C3%A8re_de_Tadao_Ando_(C._Pompidou,_Paris)%22.jpg",
+    "file": "File:\"Maquette de l'église de la lumière de Tadao Ando (C. Pompidou, Paris)\".jpg"
    }
   ],
   "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)",
-  "has": [],
+  "has": [
+   "Model"
+  ],
   "gv": 2
  },
  {
@@ -6887,10 +7062,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vue_Centre_Pompidou_depuis_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_Paris_2.jpg",
     "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 2.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/7.webp",
+    "thumb": "images/centre-pompidou/thumbs/7.webp",
+    "w": 1000,
+    "h": 374,
+    "kind": "Sketch",
+    "caption": "Sketch · croquis au stylo à bille et aquarelle d'après Street View / ballpoint and wash sketch from a Street View",
+    "credit": "Guy MOLL  from Faro, Portugal",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Croquis-_Paris_Beaubourg,_rue_St_Martin_-_France_(7341019114).jpg",
+    "file": "File:Croquis- Paris Beaubourg, rue St Martin - France (7341019114).jpg"
    }
   ],
   "commons": "Category:Centre Georges-Pompidou",
-  "has": [],
+  "has": [
+   "Sketch"
+  ],
   "gv": 2
  },
  {
@@ -13367,23 +13556,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Oeuvre_de_Tarja_Pitk%C3%A4nen-Walter_(Kiasma,_Kelsinki)_(2755458855).jpg",
     "file": "File:Oeuvre de Tarja Pitkänen-Walter (Kiasma, Kelsinki) (2755458855).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Oeuvres_dHannu_Siren_et_de_Vesa-Pekka_Ranniko_%28Kiasma_Helsinki%29_%282752086125%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/kiasma/thumbs/6.webp",
-    "w": 803,
-    "h": 1200,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "dalbera  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Oeuvres_dHannu_Siren_et_de_Vesa-Pekka_Ranniko_(Kiasma_Helsinki)_(2752086125).jpg",
-    "file": "File:Oeuvres dHannu Siren et de Vesa-Pekka Ranniko (Kiasma Helsinki) (2752086125).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 2
  },
  {
@@ -42972,20 +43147,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Newcastle_Bridges1.jpg/1280px-Newcastle_Bridges1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/the-glasshouse/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Charlie Marshall",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Newcastle_Bridges1.jpg",
-    "file": "File:Newcastle Bridges1.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sage_Gateshead_2.jpg/1280px-Sage_Gateshead_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/the-glasshouse/thumbs/1.webp",
+    "thumb": "images/the-glasshouse/thumbs/0.webp",
     "w": 1280,
     "h": 658,
     "kind": "Exterior",
@@ -42994,6 +43157,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sage_Gateshead_2.jpg",
     "file": "File:Sage Gateshead 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Newcastle_Bridges1.jpg/1280px-Newcastle_Bridges1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-glasshouse/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Charlie Marshall",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Newcastle_Bridges1.jpg",
+    "file": "File:Newcastle Bridges1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gateshead_Millennium_Bridge%2C_July_2015.JPG/1280px-Gateshead_Millennium_Bridge%2C_July_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -88297,20 +88472,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Avenue_de_l%27Op%C3%A9ra_Paris.jpg/1280px-Avenue_de_l%27Op%C3%A9ra_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/0.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Avenue de l'Opéra, Paris, France",
-    "credit": "Jebulon",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Avenue_de_l%27Op%C3%A9ra_Paris.jpg",
-    "file": "File:Avenue de l'Opéra Paris.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg/1280px-View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/1.webp",
+    "thumb": "images/palais-garnier/thumbs/0.webp",
     "w": 1158,
     "h": 1400,
     "kind": "Exterior",
@@ -88319,6 +88482,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg",
     "file": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Avenue_de_l%27Op%C3%A9ra_Paris.jpg/1280px-Avenue_de_l%27Op%C3%A9ra_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/1.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Avenue de l'Opéra, Paris, France",
+    "credit": "Jebulon",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_de_l%27Op%C3%A9ra_Paris.jpg",
+    "file": "File:Avenue de l'Opéra Paris.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg/1280px-Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -88348,7 +88523,7 @@ window.BUILDINGS = [
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/30._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Peinture_et_Fumisterie._Chevalier_-_Durandelle%2C_photographe_-_btv1b54100964d_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/4.webp",
     "w": 1280,
-    "h": 914,
+    "h": 913,
     "kind": "Interior",
     "caption": "Interior",
     "credit": "Durandelle, Louis-Émile (1839-1917). Photographe",
@@ -88369,20 +88544,32 @@ window.BUILDINGS = [
     "file": "File:Opera Garnier facade detail DSC 0792w.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg/1280px-Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Charles_Garnier_monument_at_night.jpg/1280px-Charles_Garnier_monument_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/6.webp",
     "w": 1280,
-    "h": 965,
+    "h": 964,
     "kind": "Plan",
-    "caption": "Plan · Sujet : Opéra Garnier (Paris) Plans Plan Langue : français",
+    "caption": "Plan · The Charles Garnier monument outside the Palais Garnier ",
+    "credit": "APK",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Charles_Garnier_monument_at_night.jpg",
+    "file": "File:Charles Garnier monument at night.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg/1280px-Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/7.webp",
+    "w": 1280,
+    "h": 767,
+    "kind": "Section",
+    "caption": "Section · Sujet : Opéra Garnier (Paris) Plans Plan Langue : français",
     "credit": "Garnier, Charles (1825-1898). Dessinateur. Ancien possesseur",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Esquisse_pour_la_fa%C3%A7ade_post%C3%A9rieure_-_Charles_Garnier_-_btv1b53221300v.jpg",
-    "file": "File:Esquisse pour la façade postérieure - Charles Garnier - btv1b53221300v.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg",
+    "file": "File:Coupe transversale des dessous. Ponts mobiles. Treuils et chariots - Charles Garnier - btv1b53194356j.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Maquette_salle_op%C3%A9ra_garnier.jpg/1280px-Maquette_salle_op%C3%A9ra_garnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/7.webp",
+    "thumb": "images/palais-garnier/thumbs/8.webp",
     "w": 1280,
     "h": 960,
     "kind": "Model",
@@ -88394,7 +88581,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg/1280px-Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/8.webp",
+    "thumb": "images/palais-garnier/thumbs/9.webp",
     "w": 1280,
     "h": 756,
     "kind": "Drawing",
@@ -88407,6 +88594,7 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
+   "Section",
    "Model",
    "Drawing"
   ],
@@ -132514,23 +132702,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_-_8932001004.jpg",
     "file": "File:Glasgow School of Art - 8932001004.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Glasgow_art_architecture.jpg/1280px-Glasgow_art_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · *description:Architectural model of the Glasgow School of Art ",
-    "credit": "The original uploader was  Mind meal  at  English Wikipedia .",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_art_architecture.jpg",
-    "file": "File:Glasgow art architecture.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 2
  },
  {

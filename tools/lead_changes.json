@@ -6,17 +6,22 @@
  },
  "the-glasshouse": {
   "name": "The Glasshouse",
-  "old": "File:The Sage Gateshead.jpg",
-  "new": "File:Newcastle Bridges1.jpg"
+  "old": "File:Newcastle Bridges1.jpg",
+  "new": "File:Sage Gateshead 2.jpg"
  },
  "palais-garnier": {
   "name": "Palais Garnier",
-  "old": "File:Paris Opera full frontal architecture, May 2009.jpg",
-  "new": "File:Avenue de l'Opéra Paris.jpg"
+  "old": "File:Avenue de l'Opéra Paris.jpg",
+  "new": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg"
  },
  "glasgow-school-of-art": {
   "name": "Glasgow School of Art",
   "old": "File:Wfm glasgow school of art.jpg",
   "new": "File:Glasgow City - Glasgow School of Art - 20230916153912.jpg"
+ },
+ "villa-savoye": {
+  "name": "Villa Savoye",
+  "old": "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg",
+  "new": "File:Cartello Patrimonio xx secolo.jpg"
  }
 }
