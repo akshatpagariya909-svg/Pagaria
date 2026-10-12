@@ -114,7 +114,7 @@ HEAD = """<!doctype html>
 <body>
 <header class="top">
   <a class="mark" href="{up}">Discover<br><span class="accent">Architecture.</span></a>
-  <nav><a href="{up}buildings/">All {total}</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
+  <nav><a class="all" href="{up}buildings/" data-tip="A collection of {total} buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
 

@@ -94,3 +94,8 @@ img { max-width: 100%; display: block; }
   .dock a { padding: 0 12px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* the collection's size shows only on hover */
+.top nav .all { position: relative; }
+.top nav .all::after { content: attr(data-tip); position: absolute; top: calc(100% + 8px); right: 0; z-index: 30; white-space: nowrap; padding: 7px 10px; border-radius: var(--r); background: #fff; border: 1px solid var(--hair); box-shadow: 0 10px 30px rgba(0,0,0,.12); font: 500 13px var(--sans); color: var(--ink); opacity: 0; transform: translateY(-4px); pointer-events: none; transition: opacity .15s ease, transform .15s ease; }
+.top nav .all:hover::after, .top nav .all:focus-visible::after { opacity: 1; transform: none; }
