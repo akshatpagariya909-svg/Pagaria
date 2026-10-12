@@ -24,7 +24,9 @@ img { max-width: 100%; display: block; }
 .gallery { position: sticky; top: 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
 .slides { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; background: #1B1B1A; scrollbar-width: none; }
 .slides::-webkit-scrollbar { display: none; }
-.slides figure { flex: 0 0 100%; margin: 0; scroll-snap-align: start; display: flex; flex-direction: column; min-width: 0; }
+.slides figure { flex: 0 0 100%; margin: 0; scroll-snap-align: start; display: flex; flex-direction: column; min-width: 0; position: relative; }
+.slides .nophoto { position: absolute; top: 12px; left: 14px; z-index: 1; font: 500 12px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.slides .nophoto + figcaption, .slides figure:has(.nophoto) img { background: #fff; }
 .slides img { width: 100%; height: min(68vh, 720px); object-fit: contain; background: #1B1B1A; }
 .slides figcaption { background: var(--paper); padding: 10px 12px; display: flex; flex-direction: column; gap: 2px; font-size: 13px; line-height: 1.4; }
 .slides figcaption b { font-weight: 700; }

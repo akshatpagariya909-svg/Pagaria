@@ -104,7 +104,7 @@
   function tileImage(b, k) {
     const im = (b.images || [])[k];
     if (!im) return '';
-    const tag = im.kind === 'Drawing' ? '<span class="dtag">Drawing, not a photo</span>' : '';
+    const tag = ''; // drawings stand in quietly on the wall; the note appears only once a building is opened
     return `<img src="${esc(im.thumb)}" alt="" loading="lazy" decoding="async">${tag}`;
   }
   // A book with no cover yet shows its title set in the site's own type.
@@ -284,6 +284,7 @@
     if (!ims.length) {
       stage.innerHTML = `<div class="slot"><span class="k">No free photos yet</span><span class="h">${esc(b.name)}</span><span class="s">See photos and drawings through the links →</span></div>`;
       $('gCap').innerHTML = ''; $('strip').innerHTML = '';
+      stage.classList.remove('drawing');
       $('gPrev').hidden = $('gNext').hidden = true;
       return;
     }
@@ -291,12 +292,15 @@
     state.shot = k;
     const im = ims[k];
     // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
-    stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(im.caption)}">`;
+    const drawing = im.kind === 'Drawing';
+    stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(drawing ? 'drawing' : im.caption)}">` +
+      (drawing ? '<span class="nophoto">Photos unavailable</span>' : '');
+    stage.classList.toggle('drawing', drawing);
     const full = new Image();
     full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
     full.src = im.src;
     const credit = (im.credit || '').replace(/\.$/, '');
-    $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length} · ${esc(im.caption)}</span>` +
+    $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
       `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
     $('gPrev').hidden = $('gNext').hidden = ims.length < 2;
