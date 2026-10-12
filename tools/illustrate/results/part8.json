@@ -214,6 +214,22 @@
   "note": "One file (5472x3648, 2015): the project's Chinese name 钱江时代 (Qianjiang Times), 'vertical courtyards, designed by Wang Shu'. Checked visually: it shows the group of white towers across a canal, with a crane and trees in the foreground. It is a distant group view rather than a close facade shot. No dedicated category; the file sits directly in Category:Buildings by Wang Shu."
  },
  {
+  "id": "villa-sarabhai",
+  "name": "Villa Sarabhai",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-sarabhai-ahmedabad-india-1951-1956/",
+   "https://www.themodernhouse.com/journal/house-of-the-week-villa-de-madame-manorama-sarabhai-ahmedabad-india/",
+   "https://ir.lib.hiroshima-u.ac.jp/00034776",
+   "https://en.wikipedia.org/wiki/Villa_Sarabhai"
+  ],
+  "note": "No free photo on Commons; the one CC BY 2.0 file found shows the family's 'Retreat' gardens (913px). A CC0 model photo exists (File:薩拉拜別墅模型.jpg, 4096x2304), but it shows no vaults and its accuracy is doubtful, so it isn't listed as an extra. Sources confirm parallel Catalan brick vaults open at their ends onto verandahs, a planted roof garden, and a one-piece concrete slide from the first-floor terrace into the pool with a zigzag stair. They don't give the number of vault bays or where the first-floor part and slide sit along the facade, so I didn't draw it."
+ },
+ {
   "id": "villa-verde-housing",
   "name": "Villa Verde Housing",
   "status": "drawn",
@@ -351,6 +367,21 @@
   "view": null,
   "sources": [],
   "note": "Only one file: Anaheimice.jpg, 2272x1704, described as 'Exterior view of Anaheim Ice (formerly Disney Ice)'. Its licence is the Commons 'Attribution' template (free use with credit, equivalent in effect to CC BY), not a numbered CC licence; the owner may want to confirm that is acceptable."
+ },
+ {
+  "id": "kumano-kodo-nakahechi-museum-of-art",
+  "name": "Kumano Kodo Nakahechi Museum of Art",
+  "status": "drawn",
+  "commons_category": "Category:Kumanokodo Nakahechi Museum of Art",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: the long low single-storey box of upright glass panels, the thin roof edge, a layered panel zone with a small window on the right, and the flat entrance canopy on two slim posts",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Nakahechi_artsalon_exterior.jpg",
+   "https://www.museum.or.jp/museum/5854",
+   "https://tabi-mag.jp/wa0195"
+  ],
+  "note": "Commons has only two 800px photos (one exterior, one interior, CC BY-SA 3.0), below the 1200px bar for a wall photo. The drawing follows the exterior one, which I viewed. Panel count and proportions are approximate."
  },
  {
   "id": "the-index",
