@@ -29,16 +29,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17810345W",
-  "isbn": "0262330547",
-  "olYear": 2007,
   "cover": {
    "thumb": "images/books/101-things-i-learned.webp",
    "src": "https://covers.openlibrary.org/b/id/8097558-L.jpg",
    "w": 500,
    "h": 360,
    "source": "https://openlibrary.org/works/OL17810345W"
-  }
+  },
+  "ol": "OL17810345W",
+  "isbn": "0262330547",
+  "olYear": 2007
  },
  {
   "id": "experiencing-architecture",
@@ -54,15 +54,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3552774W",
-  "olYear": 1959,
   "cover": {
    "thumb": "images/books/experiencing-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/6496804-L.jpg",
    "w": 334,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3552774W"
-  }
+  },
+  "ol": "OL3552774W",
+  "olYear": 1959
  },
  {
   "id": "the-eyes-of-the-skin",
@@ -78,16 +78,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2552544W",
-  "isbn": "8425226260",
-  "olYear": 1996,
   "cover": {
    "thumb": "images/books/the-eyes-of-the-skin.webp",
    "src": "https://covers.openlibrary.org/b/id/2052727-L.jpg",
    "w": 294,
    "h": 420,
    "source": "https://openlibrary.org/works/OL2552544W"
-  }
+  },
+  "ol": "OL2552544W",
+  "isbn": "8425226260",
+  "olYear": 1996
  },
  {
   "id": "thinking-architecture",
@@ -110,16 +110,16 @@ window.BOOKS = [
    "bruder-klaus-field-chapel",
    "kunsthaus-bregenz"
   ],
-  "ol": "OL586802W",
-  "isbn": "3764374977",
-  "olYear": 1998,
   "cover": {
    "thumb": "images/books/thinking-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/1024489-L.jpg",
    "w": 309,
    "h": 500,
    "source": "https://openlibrary.org/works/OL586802W"
-  }
+  },
+  "ol": "OL586802W",
+  "isbn": "3764374977",
+  "olYear": 1998
  },
  {
   "id": "atmospheres",
@@ -140,16 +140,16 @@ window.BOOKS = [
    "therme-vals",
    "kolumba-museum"
   ],
-  "ol": "OL586800W",
-  "isbn": "9783764374952",
-  "olYear": 2006,
   "cover": {
    "thumb": "images/books/atmospheres.webp",
    "src": "https://covers.openlibrary.org/b/id/1024488-L.jpg",
    "w": 356,
    "h": 500,
    "source": "https://openlibrary.org/works/OL586800W"
-  }
+  },
+  "ol": "OL586800W",
+  "isbn": "9783764374952",
+  "olYear": 2006
  },
  {
   "id": "lessons-for-students",
@@ -167,16 +167,16 @@ window.BOOKS = [
    "Herman Hertzberger"
   ],
   "buildings": [],
-  "ol": "OL2297183W",
-  "isbn": "9789064503320",
-  "olYear": 1991,
   "cover": {
    "thumb": "images/books/lessons-for-students.webp",
    "src": "https://covers.openlibrary.org/b/id/9800227-L.jpg",
    "w": 373,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2297183W"
-  }
+  },
+  "ol": "OL2297183W",
+  "isbn": "9789064503320",
+  "olYear": 1991
  },
  {
   "id": "analysing-architecture",
@@ -192,16 +192,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3294231W",
-  "isbn": "041548927X",
-  "olYear": 1997,
   "cover": {
    "thumb": "images/books/analysing-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4304652-L.jpg",
    "w": 128,
    "h": 171,
    "source": "https://openlibrary.org/works/OL3294231W"
-  }
+  },
+  "ol": "OL3294231W",
+  "isbn": "041548927X",
+  "olYear": 1997
  },
  {
   "id": "precedents-in-architecture",
@@ -217,16 +217,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2978645W",
-  "isbn": "9780471695509",
-  "olYear": 1985,
   "cover": {
    "thumb": "images/books/precedents-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/305190-L.jpg",
    "w": 500,
    "h": 388,
    "source": "https://openlibrary.org/works/OL2978645W"
-  }
+  },
+  "ol": "OL2978645W",
+  "isbn": "9780471695509",
+  "olYear": 1985
  },
  {
   "id": "the-place-of-houses",
@@ -241,16 +241,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL482292W",
-  "isbn": "0520223578",
-  "olYear": 1974,
   "cover": {
    "thumb": "images/books/the-place-of-houses.webp",
    "src": "https://covers.openlibrary.org/b/id/4521664-L.jpg",
    "w": 128,
    "h": 161,
    "source": "https://openlibrary.org/works/OL482292W"
-  }
+  },
+  "ol": "OL482292W",
+  "isbn": "0520223578",
+  "olYear": 1974
  },
  {
   "id": "architecture-very-short-introduction",
@@ -280,16 +280,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5113496W",
-  "isbn": "9780300144307",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/why-architecture-matters.webp",
    "src": "https://covers.openlibrary.org/b/id/7363539-L.jpg",
    "w": 324,
    "h": 500,
    "source": "https://openlibrary.org/works/OL5113496W"
-  }
+  },
+  "ol": "OL5113496W",
+  "isbn": "9780300144307",
+  "olYear": 2009
  },
  {
   "id": "the-architecture-of-happiness",
@@ -305,16 +305,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL107927W",
-  "isbn": "9780375424434",
-  "olYear": 2006,
   "cover": {
    "thumb": "images/books/the-architecture-of-happiness.webp",
    "src": "https://covers.openlibrary.org/b/id/5314605-L.jpg",
    "w": 128,
    "h": 162,
    "source": "https://openlibrary.org/works/OL107927W"
-  }
+  },
+  "ol": "OL107927W",
+  "isbn": "9780375424434",
+  "olYear": 2006
  },
  {
   "id": "how-buildings-learn",
@@ -330,16 +330,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL823146W",
-  "isbn": "0140139966",
-  "olYear": 1994,
   "cover": {
    "thumb": "images/books/how-buildings-learn.webp",
    "src": "https://covers.openlibrary.org/b/id/401280-L.jpg",
    "w": 500,
    "h": 388,
    "source": "https://openlibrary.org/works/OL823146W"
-  }
+  },
+  "ol": "OL823146W",
+  "isbn": "0140139966",
+  "olYear": 1994
  },
  {
   "id": "body-memory-and-architecture",
@@ -355,16 +355,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL6685951W",
-  "isbn": "0300021399",
-  "olYear": 1977,
   "cover": {
    "thumb": "images/books/body-memory-and-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/159341-L.jpg",
    "w": 475,
    "h": 370,
    "source": "https://openlibrary.org/works/OL6685951W"
-  }
+  },
+  "ol": "OL6685951W",
+  "isbn": "0300021399",
+  "olYear": 1977
  },
  {
   "id": "learning-from-las-vegas",
@@ -385,16 +385,16 @@ window.BOOKS = [
   "buildings": [
    "vanna-venturi-house"
   ],
-  "ol": "OL2940031W",
-  "isbn": "9782870090954",
-  "olYear": 1972,
   "cover": {
    "thumb": "images/books/learning-from-las-vegas.webp",
    "src": "https://covers.openlibrary.org/b/id/13586383-L.jpg",
    "w": 334,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2940031W"
-  }
+  },
+  "ol": "OL2940031W",
+  "isbn": "9782870090954",
+  "olYear": 1972
  },
  {
   "id": "complexity-and-contradiction",
@@ -434,16 +434,16 @@ window.BOOKS = [
   "buildings": [
    "seattle-central-library"
   ],
-  "ol": "OL121058W",
-  "isbn": "9789064502118",
-  "olYear": 1978,
   "cover": {
    "thumb": "images/books/delirious-new-york.webp",
    "src": "https://covers.openlibrary.org/b/id/932358-L.jpg",
    "w": 361,
    "h": 475,
    "source": "https://openlibrary.org/works/OL121058W"
-  }
+  },
+  "ol": "OL121058W",
+  "isbn": "9789064502118",
+  "olYear": 1978
  },
  {
   "id": "s-m-l-xl",
@@ -479,16 +479,16 @@ window.BOOKS = [
    "Aldo Rossi"
   ],
   "buildings": [],
-  "ol": "OL543409W",
-  "isbn": "9780262181013",
-  "olYear": 1982,
   "cover": {
    "thumb": "images/books/the-architecture-of-the-city.webp",
    "src": "https://covers.openlibrary.org/b/id/9360544-L.jpg",
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL543409W"
-  }
+  },
+  "ol": "OL543409W",
+  "isbn": "9780262181013",
+  "olYear": 1982
  },
  {
   "id": "genius-loci",
@@ -519,16 +519,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1304839W",
-  "isbn": "9780807064399",
-  "olYear": 1964,
   "cover": {
    "thumb": "images/books/the-poetics-of-space.webp",
    "src": "https://covers.openlibrary.org/b/id/588168-L.jpg",
    "w": 316,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1304839W"
-  }
+  },
+  "ol": "OL1304839W",
+  "isbn": "9780807064399",
+  "olYear": 1964
  },
  {
   "id": "in-praise-of-shadows",
@@ -545,14 +545,14 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL24231448W",
   "cover": {
    "thumb": "images/books/in-praise-of-shadows.webp",
    "src": "https://covers.openlibrary.org/b/id/10703642-L.jpg",
    "w": 500,
    "h": 500,
    "source": "https://openlibrary.org/works/OL24231448W"
-  }
+  },
+  "ol": "OL24231448W"
  },
  {
   "id": "invisible-cities",
@@ -568,16 +568,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4466408W",
-  "isbn": "9781134959747",
-  "olYear": 1991,
   "cover": {
    "thumb": "images/books/invisible-cities.webp",
    "src": "https://covers.openlibrary.org/b/id/246347-L.jpg",
    "w": 301,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4466408W"
-  }
+  },
+  "ol": "OL4466408W",
+  "isbn": "9781134959747",
+  "olYear": 1991
  },
  {
   "id": "the-hidden-dimension",
@@ -593,16 +593,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1622240W",
-  "isbn": "9780385084765",
-  "olYear": 1966,
   "cover": {
    "thumb": "images/books/the-hidden-dimension.webp",
    "src": "https://covers.openlibrary.org/b/id/238180-L.jpg",
    "w": 301,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1622240W"
-  }
+  },
+  "ol": "OL1622240W",
+  "isbn": "9780385084765",
+  "olYear": 1966
  },
  {
   "id": "words-and-buildings",
@@ -635,16 +635,16 @@ window.BOOKS = [
    "Bernard Tschumi"
   ],
   "buildings": [],
-  "ol": "OL1727574W",
-  "isbn": "9780262200943",
-  "olYear": 1994,
   "cover": {
    "thumb": "images/books/architecture-and-disjunction.webp",
    "src": "https://covers.openlibrary.org/b/id/5446045-L.jpg",
    "w": 128,
    "h": 163,
    "source": "https://openlibrary.org/works/OL1727574W"
-  }
+  },
+  "ol": "OL1727574W",
+  "isbn": "9780262200943",
+  "olYear": 1994
  },
  {
   "id": "the-language-of-post-modern-architecture",
@@ -659,16 +659,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL903091W",
-  "isbn": "9780856708473",
-  "olYear": 1977,
   "cover": {
    "thumb": "images/books/the-language-of-post-modern-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4765607-L.jpg",
    "w": 128,
    "h": 174,
    "source": "https://openlibrary.org/works/OL903091W"
-  }
+  },
+  "ol": "OL903091W",
+  "isbn": "9780856708473",
+  "olYear": 1977
  },
  {
   "id": "deconstructivist-architecture",
@@ -690,16 +690,16 @@ window.BOOKS = [
    "Philip Johnson"
   ],
   "buildings": [],
-  "ol": "OL2849532W",
-  "isbn": "087070298X",
-  "olYear": 1988,
   "cover": {
    "thumb": "images/books/deconstructivist-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8547602-L.jpg",
    "w": 282,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2849532W"
-  }
+  },
+  "ol": "OL2849532W",
+  "isbn": "087070298X",
+  "olYear": 1988
  },
  {
   "id": "the-autopoiesis-of-architecture",
@@ -717,16 +717,16 @@ window.BOOKS = [
    "Zaha Hadid"
   ],
   "buildings": [],
-  "ol": "OL16981261W",
-  "isbn": "9781119990499",
-  "olYear": 2011,
   "cover": {
    "thumb": "images/books/the-autopoiesis-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8621160-L.jpg",
    "w": 500,
    "h": 326,
    "source": "https://openlibrary.org/works/OL16981261W"
-  }
+  },
+  "ol": "OL16981261W",
+  "isbn": "9781119990499",
+  "olYear": 2011
  },
  {
   "id": "digital-culture-in-architecture",
@@ -742,16 +742,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17489256W",
-  "isbn": "9783034602594",
-  "olYear": 2010,
   "cover": {
    "thumb": "images/books/digital-culture-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/7680314-L.jpg",
    "w": 283,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17489256W"
-  }
+  },
+  "ol": "OL17489256W",
+  "isbn": "9783034602594",
+  "olYear": 2010
  },
  {
   "id": "architecture-depends",
@@ -767,16 +767,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL9527863W",
-  "isbn": "0262518783",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/architecture-depends.webp",
    "src": "https://covers.openlibrary.org/b/id/9672510-L.jpg",
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL9527863W"
-  }
+  },
+  "ol": "OL9527863W",
+  "isbn": "0262518783",
+  "olYear": 2009
  },
  {
   "id": "spatial-agency",
@@ -807,16 +807,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL6565765W",
-  "isbn": "026258039X",
-  "olYear": 1979,
   "cover": {
    "thumb": "images/books/thermal-delight.webp",
    "src": "https://covers.openlibrary.org/b/id/6747659-L.jpg",
    "w": 311,
    "h": 500,
    "source": "https://openlibrary.org/works/OL6565765W"
-  }
+  },
+  "ol": "OL6565765W",
+  "isbn": "026258039X",
+  "olYear": 1979
  },
  {
   "id": "the-craftsman",
@@ -832,16 +832,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1870880W",
-  "isbn": "9780300151190",
-  "olYear": 2008,
   "cover": {
    "thumb": "images/books/the-craftsman.webp",
    "src": "https://covers.openlibrary.org/b/id/5781558-L.jpg",
    "w": 175,
    "h": 275,
    "source": "https://openlibrary.org/works/OL1870880W"
-  }
+  },
+  "ol": "OL1870880W",
+  "isbn": "9780300151190",
+  "olYear": 2008
  },
  {
   "id": "architecture-without-architects",
@@ -857,16 +857,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4965168W",
-  "isbn": "9780902620735",
-  "olYear": 1964,
   "cover": {
    "thumb": "images/books/architecture-without-architects.webp",
    "src": "https://covers.openlibrary.org/b/id/629186-L.jpg",
    "w": 424,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4965168W"
-  }
+  },
+  "ol": "OL4965168W",
+  "isbn": "9780902620735",
+  "olYear": 1964
  },
  {
   "id": "towards-a-new-architecture",
@@ -887,16 +887,16 @@ window.BOOKS = [
    "villa-savoye",
    "unite-dhabitation"
   ],
-  "ol": "OL8466544W",
-  "isbn": "0750606274",
-  "olYear": 1970,
   "cover": {
    "thumb": "images/books/towards-a-new-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/493272-L.jpg",
    "w": 311,
    "h": 475,
    "source": "https://openlibrary.org/works/OL8466544W"
-  }
+  },
+  "ol": "OL8466544W",
+  "isbn": "0750606274",
+  "olYear": 1970
  },
  {
   "id": "the-city-of-tomorrow",
@@ -931,16 +931,16 @@ window.BOOKS = [
    "Adolf Loos"
   ],
   "buildings": [],
-  "ol": "OL824434W",
-  "isbn": "9781572410466",
-  "olYear": 1997,
   "cover": {
    "thumb": "images/books/ornament-and-crime.webp",
    "src": "https://covers.openlibrary.org/b/id/822493-L.jpg",
    "w": 305,
    "h": 475,
    "source": "https://openlibrary.org/works/OL824434W"
-  }
+  },
+  "ol": "OL824434W",
+  "isbn": "9781572410466",
+  "olYear": 1997
  },
  {
   "id": "the-new-architecture-and-the-bauhaus",
@@ -960,16 +960,16 @@ window.BOOKS = [
   "buildings": [
    "bauhaus-dessau"
   ],
-  "ol": "OL6349888W",
-  "isbn": "9780262570060",
-  "olYear": 1935,
   "cover": {
    "thumb": "images/books/the-new-architecture-and-the-bauhaus.webp",
    "src": "https://covers.openlibrary.org/b/id/6258270-L.jpg",
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL6349888W"
-  }
+  },
+  "ol": "OL6349888W",
+  "isbn": "9780262570060",
+  "olYear": 1935
  },
  {
   "id": "the-international-style",
@@ -986,16 +986,16 @@ window.BOOKS = [
    "Philip Johnson"
   ],
   "buildings": [],
-  "ol": "OL6033418W",
-  "isbn": "0393003116",
-  "olYear": 1932,
   "cover": {
    "thumb": "images/books/the-international-style.webp",
    "src": "https://covers.openlibrary.org/b/id/7942417-L.jpg",
    "w": 318,
    "h": 500,
    "source": "https://openlibrary.org/works/OL6033418W"
-  }
+  },
+  "ol": "OL6033418W",
+  "isbn": "0393003116",
+  "olYear": 1932
  },
  {
   "id": "the-new-brutalism",
@@ -1029,16 +1029,16 @@ window.BOOKS = [
   "buildings": [
    "nakagin-capsule-tower"
   ],
-  "ol": "OL2443994W",
-  "isbn": "9780289707333",
-  "olYear": 1977,
   "cover": {
    "thumb": "images/books/metabolism-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/12964998-L.jpg",
    "w": 370,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2443994W"
-  }
+  },
+  "ol": "OL2443994W",
+  "isbn": "9780289707333",
+  "olYear": 1977
  },
  {
   "id": "yes-is-more",
@@ -1056,16 +1056,16 @@ window.BOOKS = [
    "BIG"
   ],
   "buildings": [],
-  "ol": "OL17515699W",
-  "isbn": "3836520109",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/yes-is-more.webp",
    "src": "https://covers.openlibrary.org/b/id/7733107-L.jpg",
    "w": 282,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17515699W"
-  }
+  },
+  "ol": "OL17515699W",
+  "isbn": "3836520109",
+  "olYear": 2009
  },
  {
   "id": "a-pattern-language",
@@ -1082,16 +1082,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3923600W",
-  "isbn": "0195019199",
-  "olYear": 1977,
   "cover": {
    "thumb": "images/books/a-pattern-language.webp",
    "src": "https://covers.openlibrary.org/b/id/120825-L.jpg",
    "w": 327,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3923600W"
-  }
+  },
+  "ol": "OL3923600W",
+  "isbn": "0195019199",
+  "olYear": 1977
  },
  {
   "id": "the-timeless-way-of-building",
@@ -1107,16 +1107,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17431345W",
-  "isbn": "9780195024029",
-  "olYear": 1979,
   "cover": {
    "thumb": "images/books/the-timeless-way-of-building.webp",
    "src": "https://covers.openlibrary.org/b/id/7564994-L.jpg",
    "w": 253,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17431345W"
-  }
+  },
+  "ol": "OL17431345W",
+  "isbn": "9780195024029",
+  "olYear": 1979
  },
  {
   "id": "elements-of-architecture",
@@ -1134,16 +1134,16 @@ window.BOOKS = [
    "OMA"
   ],
   "buildings": [],
-  "ol": "OL1086021W",
-  "isbn": "9780576159579",
-  "olYear": 1624,
   "cover": {
    "thumb": "images/books/elements-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/6934434-L.jpg",
    "w": 357,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1086021W"
-  }
+  },
+  "ol": "OL1086021W",
+  "isbn": "9780576159579",
+  "olYear": 1624
  },
  {
   "id": "modern-architecture-since-1900",
@@ -1159,16 +1159,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2800829W",
-  "isbn": "0135866944",
-  "olYear": 1983,
   "cover": {
    "thumb": "images/books/modern-architecture-since-1900.webp",
    "src": "https://covers.openlibrary.org/b/id/4274956-L.jpg",
    "w": 128,
    "h": 153,
    "source": "https://openlibrary.org/works/OL2800829W"
-  }
+  },
+  "ol": "OL2800829W",
+  "isbn": "0135866944",
+  "olYear": 1983
  },
  {
   "id": "modern-architecture-a-critical-history",
@@ -1183,7 +1183,16 @@ window.BOOKS = [
    "Survey"
   ],
   "architects": [],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL13675480W",
+  "isbn": "0500203954",
+  "cover": {
+   "thumb": "images/books/modern-architecture-a-critical-history.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/0500203954-L.jpg",
+   "w": 350,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL13675480W"
+  }
  },
  {
   "id": "space-time-and-architecture",
@@ -1199,16 +1208,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1161577W",
-  "isbn": "0674830407",
-  "olYear": 1941,
   "cover": {
    "thumb": "images/books/space-time-and-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/9283364-L.jpg",
    "w": 362,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1161577W"
-  }
+  },
+  "ol": "OL1161577W",
+  "isbn": "0674830407",
+  "olYear": 1941
  },
  {
   "id": "the-classical-language-of-architecture",
@@ -1224,16 +1233,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1958665W",
-  "isbn": "2878110420",
-  "olYear": 1707,
   "cover": {
    "thumb": "images/books/the-classical-language-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/315983-L.jpg",
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1958665W"
-  }
+  },
+  "ol": "OL1958665W",
+  "isbn": "2878110420",
+  "olYear": 1707
  },
  {
   "id": "a-history-of-architecture",
@@ -1249,16 +1258,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL24364401W",
-  "isbn": "0342534858",
-  "olYear": 2010,
   "cover": {
    "thumb": "images/books/a-history-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/10892507-L.jpg",
    "w": 333,
    "h": 500,
    "source": "https://openlibrary.org/works/OL24364401W"
-  }
+  },
+  "ol": "OL24364401W",
+  "isbn": "0342534858",
+  "olYear": 2010
  },
  {
   "id": "the-future-of-architecture-since-1889",
@@ -1274,16 +1283,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17553689W",
-  "isbn": "0714845981",
-  "olYear": 2012,
   "cover": {
    "thumb": "images/books/the-future-of-architecture-since-1889.webp",
    "src": "https://covers.openlibrary.org/b/id/7808999-L.jpg",
    "w": 295,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17553689W"
-  }
+  },
+  "ol": "OL17553689W",
+  "isbn": "0714845981",
+  "olYear": 2012
  },
  {
   "id": "a-global-history-of-architecture",
@@ -1299,16 +1308,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL20225637W",
-  "isbn": "0470902450",
-  "olYear": 2007,
   "cover": {
    "thumb": "images/books/a-global-history-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/8878632-L.jpg",
    "w": 371,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20225637W"
-  }
+  },
+  "ol": "OL20225637W",
+  "isbn": "0470902450",
+  "olYear": 2007
  },
  {
   "id": "theory-and-design-in-the-first-machine-age",
@@ -1324,16 +1333,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3170719W",
-  "isbn": "0851396321",
-  "olYear": 1960,
   "cover": {
    "thumb": "images/books/theory-and-design-in-the-first-machine-age.webp",
    "src": "https://covers.openlibrary.org/b/id/151017-L.jpg",
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL3170719W"
-  }
+  },
+  "ol": "OL3170719W",
+  "isbn": "0851396321",
+  "olYear": 1960
  },
  {
   "id": "the-architecture-of-the-well-tempered-environment",
@@ -1383,16 +1392,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2984865W",
-  "isbn": "0802713661",
-  "olYear": 2000,
   "cover": {
    "thumb": "images/books/brunelleschis-dome.webp",
    "src": "https://covers.openlibrary.org/b/id/570774-L.jpg",
    "w": 365,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2984865W"
-  }
+  },
+  "ol": "OL2984865W",
+  "isbn": "0802713661",
+  "olYear": 2000
  },
  {
   "id": "the-mosque",
@@ -1422,16 +1431,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL19369501W",
-  "isbn": "0714871087",
-  "olYear": 2016,
   "cover": {
    "thumb": "images/books/this-brutal-world.webp",
    "src": "https://covers.openlibrary.org/b/id/8494492-L.jpg",
    "w": 445,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19369501W"
-  }
+  },
+  "ol": "OL19369501W",
+  "isbn": "0714871087",
+  "olYear": 2016
  },
  {
   "id": "sos-brutalism",
@@ -1460,7 +1469,17 @@ window.BOOKS = [
    "Materials"
   ],
   "architects": [],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL19330223W",
+  "isbn": "9780434022441",
+  "olYear": 2016,
+  "cover": {
+   "thumb": "images/books/raw-concrete.webp",
+   "src": "https://covers.openlibrary.org/b/id/8441314-L.jpg",
+   "w": 329,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL19330223W"
+  }
  },
  {
   "id": "project-japan",
@@ -1484,16 +1503,16 @@ window.BOOKS = [
   "buildings": [
    "nakagin-capsule-tower"
   ],
-  "ol": "OL19096803W",
-  "isbn": "3836525089",
-  "olYear": 2011,
   "cover": {
    "thumb": "images/books/project-japan.webp",
    "src": "https://covers.openlibrary.org/b/id/8415458-L.jpg",
    "w": 387,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19096803W"
-  }
+  },
+  "ol": "OL19096803W",
+  "isbn": "3836525089",
+  "olYear": 2011
  },
  {
   "id": "where-are-the-women-architects",
@@ -1509,16 +1528,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL20028172W",
-  "isbn": "9780691170138",
-  "olYear": 2016,
   "cover": {
    "thumb": "images/books/where-are-the-women-architects.webp",
    "src": "https://covers.openlibrary.org/b/id/14394559-L.jpg",
    "w": 279,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20028172W"
-  }
+  },
+  "ol": "OL20028172W",
+  "isbn": "9780691170138",
+  "olYear": 2016
  },
  {
   "id": "louis-i-kahn",
@@ -1542,16 +1561,16 @@ window.BOOKS = [
    "iim-ahmedabad",
    "phillips-exeter-academy-library"
   ],
-  "ol": "OL21011359W",
-  "isbn": "9781838663049",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/louis-i-kahn.webp",
    "src": "https://covers.openlibrary.org/b/id/12414502-L.jpg",
    "w": 312,
    "h": 400,
    "source": "https://openlibrary.org/works/OL21011359W"
-  }
+  },
+  "ol": "OL21011359W",
+  "isbn": "9781838663049",
+  "olYear": 2009
  },
  {
   "id": "louis-kahn-essential-texts",
@@ -1572,16 +1591,16 @@ window.BOOKS = [
    "salk-institute",
    "kimbell-art-museum"
   ],
-  "ol": "OL20994068W",
-  "isbn": "9780393731132",
-  "olYear": 2003,
   "cover": {
    "thumb": "images/books/louis-kahn-essential-texts.webp",
    "src": "https://covers.openlibrary.org/b/id/251745-L.jpg",
    "w": 318,
    "h": 475,
    "source": "https://openlibrary.org/works/OL20994068W"
-  }
+  },
+  "ol": "OL20994068W",
+  "isbn": "9780393731132",
+  "olYear": 2003
  },
  {
   "id": "between-silence-and-light",
@@ -1623,16 +1642,16 @@ window.BOOKS = [
    "robie-house",
    "solomon-r-guggenheim-museum"
   ],
-  "ol": "OL961856W",
-  "isbn": "0704321963",
-  "olYear": 1932,
   "cover": {
    "thumb": "images/books/frank-lloyd-wright-an-autobiography.webp",
    "src": "https://covers.openlibrary.org/b/id/4500227-L.jpg",
    "w": 128,
    "h": 207,
    "source": "https://openlibrary.org/works/OL961856W"
-  }
+  },
+  "ol": "OL961856W",
+  "isbn": "0704321963",
+  "olYear": 1932
  },
  {
   "id": "le-corbusier-ideas-and-forms",
@@ -1697,16 +1716,16 @@ window.BOOKS = [
    "paimio-sanatorium",
    "saynatsalo-town-hall"
   ],
-  "ol": "OL3166759W",
-  "isbn": "9780714831596",
-  "olYear": 1995,
   "cover": {
    "thumb": "images/books/alvar-aalto.webp",
    "src": "https://covers.openlibrary.org/b/id/3838417-L.jpg",
    "w": 128,
    "h": 159,
    "source": "https://openlibrary.org/works/OL3166759W"
-  }
+  },
+  "ol": "OL3166759W",
+  "isbn": "9780714831596",
+  "olYear": 1995
  },
  {
   "id": "carlo-scarpa",
@@ -1726,16 +1745,16 @@ window.BOOKS = [
   "buildings": [
    "brion-cemetery"
   ],
-  "ol": "OL21061180W",
-  "isbn": "1838662928",
-  "olYear": 2013,
   "cover": {
    "thumb": "images/books/carlo-scarpa.webp",
    "src": "https://covers.openlibrary.org/b/id/13587452-L.jpg",
    "w": 429,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21061180W"
-  }
+  },
+  "ol": "OL21061180W",
+  "isbn": "1838662928",
+  "olYear": 2013
  },
  {
   "id": "luis-barragan-the-complete-works",
@@ -1771,16 +1790,16 @@ window.BOOKS = [
    "Tadao Ando"
   ],
   "buildings": [],
-  "ol": "OL895050W",
-  "isbn": "3822821640",
-  "olYear": 2006,
   "cover": {
    "thumb": "images/books/tadao-ando-complete-works.webp",
    "src": "https://covers.openlibrary.org/b/id/1029633-L.jpg",
    "w": 386,
    "h": 500,
    "source": "https://openlibrary.org/works/OL895050W"
-  }
+  },
+  "ol": "OL895050W",
+  "isbn": "3822821640",
+  "olYear": 2006
  },
  {
   "id": "the-curves-of-time",
@@ -1840,16 +1859,16 @@ window.BOOKS = [
    "sagrada-familia",
    "casa-mila"
   ],
-  "ol": "OL5186132W",
-  "isbn": "9783822821718",
-  "olYear": 2002,
   "cover": {
    "thumb": "images/books/gaudi-the-complete-buildings.webp",
    "src": "https://covers.openlibrary.org/b/id/1029637-L.jpg",
    "w": 380,
    "h": 475,
    "source": "https://openlibrary.org/works/OL5186132W"
-  }
+  },
+  "ol": "OL5186132W",
+  "isbn": "9783822821718",
+  "olYear": 2002
  },
  {
   "id": "herzog-and-de-meuron-natural-history",
@@ -1940,16 +1959,16 @@ window.BOOKS = [
    "guggenheim-bilbao",
    "gehry-residence"
   ],
-  "ol": "OL509340W",
-  "isbn": "0307268004",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/conversations-with-frank-gehry.webp",
    "src": "https://covers.openlibrary.org/b/id/6306032-L.jpg",
    "w": 404,
    "h": 500,
    "source": "https://openlibrary.org/works/OL509340W"
-  }
+  },
+  "ol": "OL509340W",
+  "isbn": "0307268004",
+  "olYear": 2009
  },
  {
   "id": "renzo-piano-logbook",
@@ -1970,16 +1989,16 @@ window.BOOKS = [
   "buildings": [
    "centre-pompidou"
   ],
-  "ol": "OL10504827W",
-  "isbn": "0500279551",
-  "olYear": 1997,
   "cover": {
    "thumb": "images/books/renzo-piano-logbook.webp",
    "src": "https://covers.openlibrary.org/b/id/12853074-L.jpg",
    "w": 486,
    "h": 500,
    "source": "https://openlibrary.org/works/OL10504827W"
-  }
+  },
+  "ol": "OL10504827W",
+  "isbn": "0500279551",
+  "olYear": 1997
  },
  {
   "id": "norman-foster-a-life-in-architecture",
@@ -2038,16 +2057,16 @@ window.BOOKS = [
    "Lina Bo Bardi"
   ],
   "buildings": [],
-  "ol": "OL20378253W",
-  "isbn": "0300244223",
-  "olYear": 2013,
   "cover": {
    "thumb": "images/books/lina-bo-bardi.webp",
    "src": "https://covers.openlibrary.org/b/id/9045833-L.jpg",
    "w": 425,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20378253W"
-  }
+  },
+  "ol": "OL20378253W",
+  "isbn": "0300244223",
+  "olYear": 2013
  },
  {
   "id": "charles-and-ray-eames",
@@ -2104,16 +2123,16 @@ window.BOOKS = [
   "buildings": [
    "st-peter-s-church-klippan"
   ],
-  "ol": "OL20319654W",
-  "isbn": "9783906027487",
-  "olYear": 2014,
   "cover": {
    "thumb": "images/books/sigurd-lewerentz-architect.webp",
    "src": "https://covers.openlibrary.org/b/id/8981137-L.jpg",
    "w": 336,
    "h": 448,
    "source": "https://openlibrary.org/works/OL20319654W"
-  }
+  },
+  "ol": "OL20319654W",
+  "isbn": "9783906027487",
+  "olYear": 2014
  },
  {
   "id": "francis-kere-radically-simple",
@@ -2150,16 +2169,16 @@ window.BOOKS = [
    "Hassan Fathy"
   ],
   "buildings": [],
-  "ol": "OL947532W",
-  "isbn": "977424575X",
-  "olYear": 1973,
   "cover": {
    "thumb": "images/books/architecture-for-the-poor.webp",
    "src": "https://covers.openlibrary.org/b/id/140666-L.jpg",
    "w": 286,
    "h": 475,
    "source": "https://openlibrary.org/works/OL947532W"
-  }
+  },
+  "ol": "OL947532W",
+  "isbn": "977424575X",
+  "olYear": 1973
  },
  {
   "id": "geoffrey-bawa-the-complete-works",
@@ -2192,16 +2211,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL8127898W",
-  "isbn": "0471209066",
-  "olYear": 2002,
   "cover": {
    "thumb": "images/books/architectural-graphics.webp",
    "src": "https://covers.openlibrary.org/b/id/302022-L.jpg",
    "w": 368,
    "h": 475,
    "source": "https://openlibrary.org/works/OL8127898W"
-  }
+  },
+  "ol": "OL8127898W",
+  "isbn": "0471209066",
+  "olYear": 2002
  },
  {
   "id": "a-visual-dictionary-of-architecture",
@@ -2217,16 +2236,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL8127911W",
-  "isbn": "0442009046",
-  "olYear": 1995,
   "cover": {
    "thumb": "images/books/a-visual-dictionary-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/4629509-L.jpg",
    "w": 128,
    "h": 175,
    "source": "https://openlibrary.org/works/OL8127911W"
-  }
+  },
+  "ol": "OL8127911W",
+  "isbn": "0442009046",
+  "olYear": 1995
  },
  {
   "id": "drawing-for-architecture",
@@ -2258,16 +2277,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL20041490W",
-  "isbn": "1616892552",
-  "olYear": 2016,
   "cover": {
    "thumb": "images/books/manual-of-section.webp",
    "src": "https://covers.openlibrary.org/b/id/14494227-L.jpg",
    "w": 335,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20041490W"
-  }
+  },
+  "ol": "OL20041490W",
+  "isbn": "1616892552",
+  "olYear": 2016
  },
  {
   "id": "operative-design",
@@ -2313,16 +2332,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL8127901W",
-  "isbn": "9781118740057",
-  "olYear": 2008,
   "cover": {
    "thumb": "images/books/building-construction-illustrated.webp",
    "src": "https://covers.openlibrary.org/b/id/2423626-L.jpg",
    "w": 384,
    "h": 500,
    "source": "https://openlibrary.org/works/OL8127901W"
-  }
+  },
+  "ol": "OL8127901W",
+  "isbn": "9781118740057",
+  "olYear": 2008
  },
  {
   "id": "architectural-graphic-standards",
@@ -2338,16 +2357,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL550047W",
-  "isbn": "047101284X",
-  "olYear": 1970,
   "cover": {
    "thumb": "images/books/architectural-graphic-standards.webp",
    "src": "https://covers.openlibrary.org/b/id/303604-L.jpg",
    "w": 390,
    "h": 500,
    "source": "https://openlibrary.org/works/OL550047W"
-  }
+  },
+  "ol": "OL550047W",
+  "isbn": "047101284X",
+  "olYear": 1970
  },
  {
   "id": "constructing-architecture",
@@ -2378,16 +2397,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4984956W",
-  "isbn": "0306801515",
-  "olYear": 1981,
   "cover": {
    "thumb": "images/books/structures-or-why-things-dont-fall-down.webp",
    "src": "https://covers.openlibrary.org/b/id/164385-L.jpg",
    "w": 309,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4984956W"
-  }
+  },
+  "ol": "OL4984956W",
+  "isbn": "0306801515",
+  "olYear": 1981
  },
  {
   "id": "studies-in-tectonic-culture",
@@ -2409,16 +2428,16 @@ window.BOOKS = [
    "Mies van der Rohe"
   ],
   "buildings": [],
-  "ol": "OL80267W",
-  "isbn": "9780262061735",
-  "olYear": 1995,
   "cover": {
    "thumb": "images/books/studies-in-tectonic-culture.webp",
    "src": "https://covers.openlibrary.org/b/id/149787-L.jpg",
    "w": 374,
    "h": 475,
    "source": "https://openlibrary.org/works/OL80267W"
-  }
+  },
+  "ol": "OL80267W",
+  "isbn": "9780262061735",
+  "olYear": 1995
  },
  {
   "id": "brick-a-world-history",
@@ -2433,7 +2452,16 @@ window.BOOKS = [
    "Materials"
   ],
   "architects": [],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL13618519W",
+  "isbn": "0500341958",
+  "cover": {
+   "thumb": "images/books/brick-a-world-history.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/0500341958-L.jpg",
+   "w": 373,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL13618519W"
+  }
  },
  {
   "id": "concrete-and-culture",
@@ -2464,7 +2492,17 @@ window.BOOKS = [
    "Climate"
   ],
   "architects": [],
-  "buildings": []
+  "buildings": [],
+  "ol": "OL13593989W",
+  "isbn": "9780471820635",
+  "olYear": 1985,
+  "cover": {
+   "thumb": "images/books/sun-wind-and-light.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/9780471820635-L.jpg",
+   "w": 475,
+   "h": 359,
+   "source": "https://openlibrary.org/works/OL13593989W"
+  }
  },
  {
   "id": "cradle-to-cradle",
@@ -2495,16 +2533,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL93641W",
-  "isbn": "0679644334",
-  "olYear": 1961,
   "cover": {
    "thumb": "images/books/the-death-and-life-of-great-american-cities.webp",
    "src": "https://covers.openlibrary.org/b/id/5540237-L.jpg",
    "w": 315,
    "h": 475,
    "source": "https://openlibrary.org/works/OL93641W"
-  }
+  },
+  "ol": "OL93641W",
+  "isbn": "0679644334",
+  "olYear": 1961
  },
  {
   "id": "the-image-of-the-city",
@@ -2520,16 +2558,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4477193W",
-  "isbn": "9783035602166",
-  "olYear": 1960,
   "cover": {
    "thumb": "images/books/the-image-of-the-city.webp",
    "src": "https://covers.openlibrary.org/b/id/3246475-L.jpg",
    "w": 365,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4477193W"
-  }
+  },
+  "ol": "OL4477193W",
+  "isbn": "9783035602166",
+  "olYear": 1960
  },
  {
   "id": "life-between-buildings",
@@ -2545,16 +2583,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2861180W",
-  "isbn": "9780442230111",
-  "olYear": 1971,
   "cover": {
    "thumb": "images/books/life-between-buildings.webp",
    "src": "https://covers.openlibrary.org/b/id/4922223-L.jpg",
    "w": 128,
    "h": 178,
    "source": "https://openlibrary.org/works/OL2861180W"
-  }
+  },
+  "ol": "OL2861180W",
+  "isbn": "9780442230111",
+  "olYear": 1971
  },
  {
   "id": "cities-for-people",
@@ -2570,16 +2608,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL21450388W",
-  "isbn": "1597265748",
-  "olYear": 2010,
   "cover": {
    "thumb": "images/books/cities-for-people.webp",
    "src": "https://covers.openlibrary.org/b/id/13278395-L.jpg",
    "w": 375,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21450388W"
-  }
+  },
+  "ol": "OL21450388W",
+  "isbn": "1597265748",
+  "olYear": 2010
  },
  {
   "id": "the-social-life-of-small-urban-spaces",
@@ -2595,16 +2633,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5093463W",
-  "isbn": "9780970632418",
-  "olYear": 1980,
   "cover": {
    "thumb": "images/books/the-social-life-of-small-urban-spaces.webp",
    "src": "https://covers.openlibrary.org/b/id/4403117-L.jpg",
    "w": 128,
    "h": 156,
    "source": "https://openlibrary.org/works/OL5093463W"
-  }
+  },
+  "ol": "OL5093463W",
+  "isbn": "9780970632418",
+  "olYear": 1980
  },
  {
   "id": "collage-city",
@@ -2620,16 +2658,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2630287W",
-  "isbn": "9780262680424",
-  "olYear": 1978,
   "cover": {
    "thumb": "images/books/collage-city.webp",
    "src": "https://covers.openlibrary.org/b/id/152341-L.jpg",
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2630287W"
-  }
+  },
+  "ol": "OL2630287W",
+  "isbn": "9780262680424",
+  "olYear": 1978
  },
  {
   "id": "garden-cities-of-to-morrow",
@@ -2646,16 +2684,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL20425134W",
-  "isbn": "9789351288633",
-  "olYear": 1960,
   "cover": {
    "thumb": "images/books/garden-cities-of-to-morrow.webp",
    "src": "https://covers.openlibrary.org/b/id/9092009-L.jpg",
    "w": 324,
    "h": 500,
    "source": "https://openlibrary.org/works/OL20425134W"
-  }
+  },
+  "ol": "OL20425134W",
+  "isbn": "9789351288633",
+  "olYear": 1960
  },
  {
   "id": "the-mathematics-of-the-ideal-villa",
@@ -2676,16 +2714,16 @@ window.BOOKS = [
   "buildings": [
    "villa-savoye"
   ],
-  "ol": "OL2630286W",
-  "isbn": "9780262180771",
-  "olYear": 1976,
   "cover": {
    "thumb": "images/books/the-mathematics-of-the-ideal-villa.webp",
    "src": "https://covers.openlibrary.org/b/id/152337-L.jpg",
    "w": 336,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2630286W"
-  }
+  },
+  "ol": "OL2630286W",
+  "isbn": "9780262180771",
+  "olYear": 1976
  },
  {
   "id": "design-with-nature",
@@ -2701,16 +2739,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1805267W",
-  "isbn": "047111460X",
-  "olYear": 1969,
   "cover": {
    "thumb": "images/books/design-with-nature.webp",
    "src": "https://covers.openlibrary.org/b/id/3972062-L.jpg",
    "w": 128,
    "h": 176,
    "source": "https://openlibrary.org/works/OL1805267W"
-  }
+  },
+  "ol": "OL1805267W",
+  "isbn": "047111460X",
+  "olYear": 1969
  },
  {
   "id": "the-landscape-of-man",
@@ -2726,16 +2764,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3564434W",
-  "isbn": "0442245653",
-  "olYear": 1975,
   "cover": {
    "thumb": "images/books/the-landscape-of-man.webp",
    "src": "https://covers.openlibrary.org/b/id/11664293-L.jpg",
    "w": 383,
    "h": 500,
    "source": "https://openlibrary.org/works/OL3564434W"
-  }
+  },
+  "ol": "OL3564434W",
+  "isbn": "0442245653",
+  "olYear": 1975
  },
  {
   "id": "the-granite-garden",
@@ -2752,16 +2790,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1826876W",
-  "isbn": "9780465027064",
-  "olYear": 1985,
   "cover": {
    "thumb": "images/books/the-granite-garden.webp",
    "src": "https://covers.openlibrary.org/b/id/298583-L.jpg",
    "w": 302,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1826876W"
-  }
+  },
+  "ol": "OL1826876W",
+  "isbn": "9780465027064",
+  "olYear": 1985
  },
  {
   "id": "the-new-landscape",
@@ -2816,16 +2854,16 @@ window.BOOKS = [
   "buildings": [
    "gandhi-smarak-sangrahalaya"
   ],
-  "ol": "OL18346943W",
-  "isbn": "9780500092682",
-  "olYear": 1997,
   "cover": {
    "thumb": "images/books/charles-correa.webp",
    "src": "https://covers.openlibrary.org/b/id/1260870-L.jpg",
    "w": 500,
    "h": 428,
    "source": "https://openlibrary.org/works/OL18346943W"
-  }
+  },
+  "ol": "OL18346943W",
+  "isbn": "9780500092682",
+  "olYear": 1997
  },
  {
   "id": "laurie-baker-life-work-writings",
@@ -2865,16 +2903,16 @@ window.BOOKS = [
    "sangath",
    "iim-ahmedabad"
   ],
-  "ol": "OL21215214W",
-  "isbn": "9385360620",
-  "olYear": 2019,
   "cover": {
    "thumb": "images/books/paths-uncharted.webp",
    "src": "https://covers.openlibrary.org/b/id/13295474-L.jpg",
    "w": 357,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21215214W"
-  }
+  },
+  "ol": "OL21215214W",
+  "isbn": "9385360620",
+  "olYear": 2019
  },
  {
   "id": "balkrishna-doshi-architecture-for-the-people",
@@ -2910,15 +2948,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL35314695W",
-  "olYear": 1971,
   "cover": {
    "thumb": "images/books/indian-architecture-buddhist-and-hindu.webp",
    "src": "https://covers.openlibrary.org/b/id/14986714-L.jpg",
    "w": 395,
    "h": 500,
    "source": "https://openlibrary.org/works/OL35314695W"
-  }
+  },
+  "ol": "OL35314695W",
+  "olYear": 1971
  },
  {
   "id": "architecture-of-mughal-india",
@@ -2935,16 +2973,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4107540W",
-  "isbn": "0521267285",
-  "olYear": 1992,
   "cover": {
    "thumb": "images/books/architecture-of-mughal-india.webp",
    "src": "https://covers.openlibrary.org/b/id/331867-L.jpg",
    "w": 355,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4107540W"
-  }
+  },
+  "ol": "OL4107540W",
+  "isbn": "0521267285",
+  "olYear": 1992
  },
  {
   "id": "the-ten-books-on-architecture",
@@ -2960,16 +2998,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1417248W",
-  "isbn": "9781385555866",
-  "olYear": 1726,
   "cover": {
    "thumb": "images/books/the-ten-books-on-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/11208130-L.jpg",
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1417248W"
-  }
+  },
+  "ol": "OL1417248W",
+  "isbn": "9781385555866",
+  "olYear": 1726
  },
  {
   "id": "the-four-books-of-architecture",
@@ -2986,16 +3024,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL27050334W",
-  "isbn": "1385141271",
-  "olYear": 2018,
   "cover": {
    "thumb": "images/books/the-four-books-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/12562025-L.jpg",
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL27050334W"
-  }
+  },
+  "ol": "OL27050334W",
+  "isbn": "1385141271",
+  "olYear": 2018
  },
  {
   "id": "the-seven-lamps-of-architecture",
@@ -3012,16 +3050,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL88638W",
-  "isbn": "1070484474",
-  "olYear": 1800,
   "cover": {
    "thumb": "images/books/the-seven-lamps-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/5790382-L.jpg",
    "w": 314,
    "h": 500,
    "source": "https://openlibrary.org/works/OL88638W"
-  }
+  },
+  "ol": "OL88638W",
+  "isbn": "1070484474",
+  "olYear": 1800
  },
  {
   "id": "the-stones-of-venice",
@@ -3038,15 +3076,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL88640W",
-  "isbn": "0353318078",
-  "olYear": 1851,
   "cover": {
    "thumb": "images/books/the-stones-of-venice.webp",
    "src": "https://covers.openlibrary.org/b/id/8239410-L.jpg",
    "w": 341,
    "h": 500,
    "source": "https://openlibrary.org/works/OL88640W"
-  }
+  },
+  "ol": "OL88640W",
+  "isbn": "0353318078",
+  "olYear": 1851
  }
 ];
