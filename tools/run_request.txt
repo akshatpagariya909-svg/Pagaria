@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch3
-Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.
+python -u tools/fetch_images.py --probe --only villa-savoye,unite-dhabitation,notre-dame-du-haut,bosco-verticale,pinacoteca-do-estado-de-sao-paulo
+List the Commons folders for five buildings whose lead photo is still wrong.

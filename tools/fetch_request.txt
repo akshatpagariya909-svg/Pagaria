@@ -1,2 +1,2 @@
---only villa-savoye,unite-dhabitation,notre-dame-du-haut,barcelona-pavilion,farnsworth-house,seagram-building,fallingwater,glass-house,golconde,salk-institute,kimbell-art-museum,sydney-opera-house,sangath,therme-vals,church-of-the-light,centre-pompidou,30-st-mary-axe,kiasma,the-glasshouse,palais-garnier,casa-malaparte,glasgow-school-of-art,teatro-oficina,bosco-verticale,kyushu-national-museum,new-york-times-building,anzac-memorial,academy-of-arts-hanseatenweg,kaufmann-desert-house,pinacoteca-do-estado-de-sao-paulo,nebraska-state-capitol,kyoto-station-building
-Photo upgrade trial 3: keep the current lead unless it is under 1280px; hand fixes for weak leads; 8 later buildings as a check.
+--candidates --only villa-savoye,unite-dhabitation,notre-dame-du-haut,bosco-verticale,pinacoteca-do-estado-de-sao-paulo
+Candidate sheets for five buildings whose lead photo is still wrong, to pick by hand.
