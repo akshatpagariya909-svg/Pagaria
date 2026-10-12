@@ -1,2 +1,1 @@
-python -u tools/harvest_books.py
-Harvest candidate books from Wikidata and Open Library.
+Batch 2: fetch covers for the 142 new books (and retry the ones still missing).
