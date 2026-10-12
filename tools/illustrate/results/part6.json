@@ -20,6 +20,22 @@
   "note": "Both photos show the street front with the Siqueiros murals (file category: Cultural centers in Morelos). No dedicated Commons category exists."
  },
  {
+  "id": "latapie-house",
+  "name": "Latapie House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://journals.open.tudelft.nl/dash/article/view/4745",
+   "https://arquitecturaviva.com/works/casa-latapie-8",
+   "https://www.architecturedecollection.fr/en/product/latapie-house-lacaton-vassal-architects-floirac/",
+   "https://monumentum.fr/architecture-contemporaine-remarquable/ACR0001735/floirac-maison"
+  ],
+  "note": "No photo on Commons. Sources agree on a two-level steel-framed box, opaque fibre-cement folding panels on the street side and a polycarbonate greenhouse on the garden side, with a mono-pitched roof, but none says which way the roof slopes or gives heights, so neither the street nor the side elevation can be drawn without guessing."
+ },
+ {
   "id": "leao-que-ri-smiling-lion",
   "name": "Leão que Ri (Smiling Lion)",
   "status": "photo",
@@ -130,6 +146,22 @@
    "https://www.baunetzwissen.de/drucken/stadtteilbibliothek-bima-microlibrary-in-bandung-5398601"
   ],
   "note": "No photo on Commons. The bucket grid is shown at reduced density (about 2,000 buckets in reality) and without the binary open/closed pattern; overall length-to-height ratio and column spacing are approximate (no dimensions published beyond 160 m2). The full-length stair is left out because its position in this view is not confirmed."
+ },
+ {
+  "id": "monterrey-housing",
+  "name": "Monterrey Housing",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "street elevation of a three-storey row: ground-floor houses below, two-storey duplexes above alternating with empty double-height bays (drawn as recesses) under one continuous roof",
+  "sources": [
+   "https://www.archdaily.com/52202/monterrey-housing-elemental",
+   "https://www.dezeen.com/2010/03/08/elemental-monterrey-by-elemental/",
+   "https://arquitecturaviva.com/works/viviendas-monterrey-6",
+   "https://www.designboom.com/architecture/elemental-architecture-las-anacuas-monterrey-mexico"
+  ],
+  "note": "No photo on Commons. Bay count, window positions and sizes are schematic; the defining idea (built bays alternating with roofed voids for residents to fill) is from the sources."
  },
  {
   "id": "naoshima-ferry-terminal",
@@ -257,6 +289,22 @@
   "view": null,
   "sources": [],
   "note": null
+ },
+ {
+  "id": "palmyra-house",
+  "name": "Palmyra House",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation of one of the two oblong timber volumes: two storeys behind framed panels of horizontal palmyra-trunk louvres, thin roof edge, on a low plinth",
+  "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/palmyra-house",
+   "https://www.akdn.org/architecture/project/palmyra-house",
+   "https://architecturelab.net/palmyra-house-studio-mumbai",
+   "https://arquiscopio.com/archivo/2013/07/14/casa-palmyra/?lang=en"
+  ],
+  "note": "No photo on Commons. Shows only one of the two offset volumes (an elevation cannot separate them). Panel count and length-to-height ratio are approximate; roofs are low standing-seam aluminium, drawn as a thin edge."
  },
  {
   "id": "parliament-library-building",

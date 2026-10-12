@@ -64,6 +64,36 @@
   "note": "Single aerial view, 1536x1109, uploaded as own work by user 'Reply.rajrewal' (apparently Raj Rewal's office). Also File:Asian Games Village.jpg (751px, interior lanes, too small). Not in a building-specific category."
  },
  {
+  "id": "australian-islamic-centre",
+  "name": "Australian Islamic Centre",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://architectureau.com/articles/australian-islamic-centre-of-newport/",
+   "https://www.dezeen.com/2016/08/17/glenn-murcutt-architect-australian-islamic-centre-mosque-melbourne-coloured-glass-skylights/",
+   "https://www.ngv.vic.gov.au/essay/the-australian-islamic-centre-in-newport-melbourne/",
+   "https://architecturenow.co.nz/articles/murcutts-australian-islamic-centre/"
+  ],
+  "note": "No Commons files. Sources confirm a flat roof with rows of 3 m gold, three-sided (triangular) lanterns, but disagree on their number (96 vs 55) and say little about the walls, entry court and the large triangular side wall, so the elevation below the roof would be guessed."
+ },
+ {
+  "id": "belapur-artists-village",
+  "name": "Belapur Artists' Village",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://cec.nic.in/webpath/curriculum/Module/Arch/Paper38/9/downloads/script.pdf",
+   "https://www.slideshare.net/slideshow/incremental-housing/87134809"
+  ],
+  "note": "No Commons files. The cluster logic is well documented (7 houses round an 8 x 8 m court, then 12 x 12 m courts), but the idea is a plan and sources don't settle the house roofs (pitched tiles or flat) or heights, so an elevation would be guessed."
+ },
+ {
   "id": "brazilian-museum-of-sculpture-mube",
   "name": "Brazilian Museum of Sculpture (MuBE)",
   "status": "photo",
@@ -100,6 +130,37 @@
   "view": null,
   "sources": [],
   "note": ""
+ },
+ {
+  "id": "bridge-school",
+  "name": "Bridge School",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation across the creek: the timber-slatted steel truss box (about 28 m long) resting on concrete supports on each bank, with the village footbridge hung underneath",
+  "sources": [
+   "https://www.akdn.org/architecture/project/bridge-school",
+   "https://archnet.org/sites/6445",
+   "https://www.dezeen.com/2009/12/23/bridge-school-at-pinghe-by-li-xiaodong/",
+   "https://www.chinadaily.com.cn/life/2012-11/21/content_15946920.htm",
+   "https://www.architectural-review.com/essays/revisit/revisit-bridge-school-in-xiashi-village-fujian-province-china-by-li-xiaodong-atelier"
+  ],
+  "note": "No Commons files found. The two tulou at either end are left out to keep the drawing about the school itself. Box height is estimated (sources give only 28 m long x 8.5 m wide)."
+ },
+ {
+  "id": "capuchinas-chapel",
+  "name": "Capuchinas Chapel",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://barragan-foundation.org/works/list/capuchin-convent-chapel",
+   "https://www.indagare.com/activity/chapel-and-convent-of-the-capuchinas-sacramentarias"
+  ],
+  "note": "No Commons files. Everything that defines it (yellow light, lattice cross, the 'keel' wall) is inside; the street exterior is plain and undocumented in the sources reached. An interior drawing would need reliable plans/photos."
  },
  {
   "id": "casa-bianchi",
@@ -200,6 +261,78 @@
   "note": "Category has ~90 files; many Flickr uploads (6085.../6086...) are small (~850px), so check sizes when choosing. FAUP.jpg and FAUP fullview.jpg are just under 1200px (CC BY-SA 2.5)."
  },
  {
+  "id": "farming-kindergarten",
+  "name": "Farming Kindergarten",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2013/06/28/farming-kindergarten-by-vo-trong-nghia-architects/",
+   "https://www.designboom.com/architecture/vo-trong-nghia-architects-farming-kindergarten-vietnam-04-30-2014/"
+  ],
+  "note": "No Commons files. The idea is clear (one continuous looping green-roof strip round three courtyards, rising to two storeys), but the exact loop geometry and where it rises and falls can't be confirmed without plans, and the form only reads in a bird's-eye view."
+ },
+ {
+  "id": "fuji-kindergarten",
+  "name": "Fuji Kindergarten",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "bird's-eye oblique view of the single-storey oval ring: the flat roof deck around the open courtyard, with the low glazed outer wall in front",
+  "sources": [
+   "https://www.dezeen.com/2017/10/02/fuji-kindergarten-tokyo-tezuka-architects-oval-roof-deck-playground/",
+   "https://www.e-architect.com/japan/roof-house",
+   "https://5osa.com/906",
+   "https://bigthink.com/culture-religion/the-kindergarten-youd-want-to-send-your-kids-to/"
+  ],
+  "note": "No Commons files found (the 'Fuji Kindergarten' files on Commons are other kindergartens in Hokkaido). Proportions follow the sources: about 183 m round the outside, 108 m round the courtyard, 2.1 m ceilings. The zelkova trees that grow through the roof are left out because the drawing rules forbid trees, and roof railings are left out for simplicity."
+ },
+ {
+  "id": "grand-national-assembly-mosque",
+  "name": "Grand National Assembly Mosque",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://archnet.org/sites/781",
+   "https://www.akdn.org/architecture/project/mosque-grand-national-assembly",
+   "https://mosqpedia.org/en/mosque/298"
+  ],
+  "note": "No Commons files found. Sources confirm a low building with a stepped pyramidal roof, a glass qibla wall and a triangular forecourt, mostly sunk into the slope, but not the number of roof steps, the proportions or the minaret, so the drawing would be guessed."
+ },
+ {
+  "id": "green-school-bali",
+  "name": "Green School Bali",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_School_(Bali)"
+  ],
+  "note": "No Commons files (an en.wikipedia article 'Green School (Bali)' exists with no images). The main 'Heart of School' is a complex spiralling bamboo structure; its form can't be established from the text sources reachable from here."
+ },
+ {
+  "id": "hikma-religious-and-secular-complex",
+  "name": "Hikma Religious and Secular Complex",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/14096-hikma-religious-secular-complex-by-atelier-masomi-and-studio-chahar",
+   "https://www.arch2o.com/?p=312659"
+  ],
+  "note": "No Commons files. Sources describe the programme (old mud-brick mosque turned library, new compressed-earth mosque, minaret, courts) but not the massing, heights or openings."
+ },
+ {
   "id": "horta-house",
   "name": "Horta House",
   "status": "photo",
@@ -260,6 +393,35 @@
   "view": null,
   "sources": [],
   "note": ""
+ },
+ {
+  "id": "kampung-admiralty",
+  "name": "Kampung Admiralty",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://metropolismag.com/projects/woha-kampung-admiralty-senior-housing-singapore/",
+   "https://www.dezeen.com/2018/12/07/kampung-admiralty-woha-singapore-world-building-year/"
+  ],
+  "note": "No Commons files (the en.wikipedia article has no image). Sources confirm the 'club sandwich' section (plaza, medical centre, rooftop park, two cross-plan towers of senior flats, 11 storeys, 45 m limit) but differ on the top, and the terraces and tower proportions would be guessed."
+ },
+ {
+  "id": "kantana-institute",
+  "name": "Kantana Institute",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.akdn.org/architecture/project/kantana-film-and-animation-institute",
+   "https://www.domusweb.it/en/architecture/2013/05/10/kantana_film_institute.html",
+   "https://www.floornature.com/boonserm-premthada-kantana-film-institute-8412/"
+  ],
+  "note": "No Commons files. Sources give 8 m high double-skin brick walls with an undulating profile and irregular square openings, but not the plan geometry or how the 'wave' reads in elevation."
  },
  {
   "id": "kaze-no-oka-crematorium",
@@ -324,6 +486,21 @@
   "view": null,
   "sources": [],
   "note": "Several more in the category (1K4A31xx series CC BY-SA 4.0; 2014-09-28 series under the 'Attribution' template)."
+ },
+ {
+  "id": "liyuan-library",
+  "name": "Liyuan Library",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.arch2o.com/liyuan-library-li-xiaodong-atelier/",
+   "https://www.dezeen.com/2011/10/24/liyuan-library-by-li-xiaodong/",
+   "https://www.detail.de/de_en/li-xiaodongs-liyuan-library-25609"
+  ],
+  "note": "No Commons files. One source gives a 30 x 4.35 x 6.3 m box clad in about 45,000 sticks with roof glazing, but no source confirms the roof shape or how the sticks are laid, and the stick skin is the whole point of the building. Close to drawable if the owner can confirm from a photo."
  },
  {
   "id": "los-manantiales-restaurant",

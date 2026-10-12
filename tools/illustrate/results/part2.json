@@ -289,6 +289,28 @@
   "note": "Described as the Oberstufenschulhaus by Olgiati; chosen from descriptions, not viewed. Only Schulhaus1 is in the category; the 2023 file (4697x3306) is uncategorised. Also small public-domain shots: File:School Paspels.jpg (1191x919) and File:PAS-02.jpg (578x450)."
  },
  {
+  "id": "qasr-al-hokm-justice-palace-and-grand-mosque",
+  "name": "Qasr Al Hokm Justice Palace and Grand Mosque",
+  "status": "photo",
+  "commons_category": "Category:Imam Turki bin Abdullah Grand Mosque",
+  "photos": [
+   {
+    "file": "File:Deera Square and Imam Turki bin Abdullah Mosque (1).jpg",
+    "license": "CC BY 3.0 pl"
+   },
+   {
+    "file": "File:Deera Square and Imam Turki bin Abdullah Mosque (2).jpg",
+    "license": "CC BY 3.0 pl"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Imam_Turki_bin_Abdullah_Grand_Mosque"
+  ],
+  "note": "Viewed both (4000x3000): Deera Square with Badran's mosque walls, square minarets and small Najdi openings. The mosque goes by Imam Turki bin Abdullah Grand Mosque on Commons."
+ },
+ {
   "id": "rokko-housing",
   "name": "Rokko Housing",
   "status": "photo",
@@ -379,5 +401,45 @@
    "https://commons.wikimedia.org/w/index.php?search=Zeyrek+Sosyal+Sigortalar"
   ],
   "note": "The first file (3466x2309) is described as Eldem's complex; the two SGK files (3264x2448) as the Zeyrek SGK service building. Not viewed. No dedicated category. There are also about 20 SALT Research archive photos (Zeyrek Social Security Complex (155…).jpg), tagged only No known copyright restrictions."
+ },
+ {
+  "id": "space-group-building",
+  "name": "Space Group Building",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Space Group Building.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Space_Group_Building.jpg"
+  ],
+  "note": "Viewed it: 1600x1067, credited to Seoul Metropolitan Government. Shows Kim Swoo-geun's dark ivy-covered brick building at left, partly behind pine trees, with the later glass extension by Jang Se-yang and the hanok at right. Usable, but Kim's brick block is not the centre of the frame. In Category:Buildings in Jongno-gu, Seoul only."
+ },
+ {
+  "id": "st-louis-lambert-international-airport-terminal-1",
+  "name": "St. Louis Lambert International Airport Terminal 1",
+  "status": "photo",
+  "commons_category": "Category:Lambert-St. Louis International Airport",
+  "photos": [
+   {
+    "file": "File:Terminal 1, St. Louis Lambert International Airport, St. Louis, MO - 52832831515.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Main Terminal, Lambert-St. Louis International Airport.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Terminal+1+St.+Louis+Lambert"
+  ],
+  "note": "Viewed both. The first (4032x3024, by w_lemay) is the kerbside exterior with the glazed vault ends and the control tower; the curbside canopy and cars are in front. The second (1600x1200, by Matthew Hurst) is the interior under the intersecting vaults. About 9 more w_lemay files with the same description. No category for the terminal itself."
  }
 ]

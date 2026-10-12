@@ -75,6 +75,22 @@
   "note": "No free exterior photo: the 58 files in the category are shows, dancers, a wall plaque and 1950s postcards; the only file named for the Arcos (666px) is too small. The two postcards listed as extras are coloured interior illustrations of the arch hall (PD, about 1500-1600px). Sources agree on five thin concrete shells decreasing in size with glass between, but describe them as placed eccentrically and I could not establish how they offset or step from the outside, so I did not draw it."
  },
  {
+  "id": "tulou-collective-housing",
+  "name": "Tulou Collective Housing",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "slightly raised view of the six-storey round outer ring, its facade screen shown as a grid, with the open courtyard visible inside the top edge",
+  "sources": [
+   "https://next.archnet.org/sites/6457",
+   "https://www.modumag.com/maps/fullscreen/marker/266",
+   "https://domusweb.it/en/architecture/2008/10/02/affordable-housing-in-china.html",
+   "https://architectureindevelopment.org/project/346"
+  ],
+  "note": "No Commons files found (searched English and Chinese names). Sources give a cylindrical outer block of 6 storeys wrapped in a concrete screen with wooden inserts, and a rectangular inner block linked by bridges. The inner block is left out because its height is not documented; the grid spacing is schematic."
+ },
+ {
   "id": "umbrella-house-kasa-no-ie",
   "name": "Umbrella House (Kasa no Ie)",
   "status": "photo",
@@ -156,6 +172,22 @@
    "https://www.archdaily.com/447381/villa-verde-housing-elemental"
   ],
   "note": "No Commons category or files found. Sources confirm two-storey row houses, half built and half left for residents to fill (57 m2 growing to about 85 m2), under a pitched roof. Window positions are schematic; the number of houses shown (three) is illustrative of the row."
+ },
+ {
+  "id": "xylem",
+  "name": "Xylem",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation: the thick round-topped canopy of upright pine logs in hexagonal frames, on five of its seven steel columns, over the circular platform and low curved bench",
+  "sources": [
+   "https://metalocus.es/en/news/xylem-a-pavilion-tippet-rise-art-center-francis-kere",
+   "https://architecturalrecord.com/articles/14171-francis-keres-new-pavilion-at-tippet-rise-in-montana",
+   "https://www.kerearchitecture.com/work/building/xylem",
+   "https://www.gooood.cn/en/xylem-by-kere-architecture.htm"
+  ],
+  "note": "No Commons files found. Sources: logs bundled in a modular hexagonal weathering-steel frame on seven steel columns, rounded top profile, circular concrete platform with curved wooden seating, about 2,100 sq ft. Canopy thickness and column height are estimated from that footprint."
  },
  {
   "id": "wnw-bar",

@@ -328,5 +328,51 @@
   "view": null,
   "sources": [],
   "note": "Two photos of block no. 2 on Boulevard Krim Belkacem (2010), 3648x2736; trees partly cover the left of IMG 0549."
+ },
+ {
+  "id": "b018",
+  "name": "B018",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/B_018",
+   "https://www.dezeen.com/2019/03/03/bernard-khoury-b018-beirut-nightclub-architecture/",
+   "https://www.modlar.com/photos/2415/b018-night-club-exteriorlandscape/"
+  ],
+  "note": "No photo on Commons. Sources agree the club is sunk into the ground under a circular steel lid (like a helipad) whose mirrored plates lift hydraulically at night, but none give how many plates there are, where they hinge or how far they open, which is all a drawing would show. Not drawn."
+ },
+ {
+  "id": "b2-house",
+  "name": "B2 House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/b2-house",
+   "https://archive.archnet.org/sites/4371",
+   "https://www.hantumertekin.com/projects/b2"
+  ],
+  "note": "No photo on Commons. Sources confirm a two-storey concrete and local-stone box on a terrace, east and west ends made of two concrete walls framing a stone wall, the front fully glazed behind reed-filled aluminium shutters. None give its proportions or how many glazed bays/shutters the front has, so not drawn. The AKDN/Archnet award file has drawings if the owner wants it revisited."
+ },
+ {
+  "id": "beirut-terraces",
+  "name": "Beirut Terraces",
+  "status": "drawn",
+  "commons_category": "Category:Beirut Terraces",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: a 26-floor tower about 54 m wide and 119.5 m tall, drawn as stacked floor slabs of differing overhang with the glazing set back between them",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beirut_Terraces",
+   "https://www.dezeen.com/2017/04/04/herzog-de-meuron-beirut-terraces-tower-housing-lebanon-plant-covered/",
+   "https://archello.com/project/beirut-terraces-4",
+   "https://www.designboom.com/architecture/herzog-de-meuron-beirut-terraces-lebanon-04-24-2017/"
+  ],
+  "note": "No exterior photo on Commons: the only file in the category shows concrete formwork during construction. Floor count (26), height (119.5 m) and tower width (about 53.7 m) are from sources and set the proportions. The pattern of overhangs is schematic: the real tower repeats five floor types in varying order, so the drawing shows the idea, not each floor's actual depth."
  }
 ]
