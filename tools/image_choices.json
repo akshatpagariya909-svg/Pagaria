@@ -1,11 +1,10 @@
 {
  "unite-dhabitation": {
   "category": "Category:Cité radieuse, Marseille",
+  "add": [
+   "File:Unité_d'habitation_Marseille,_France.jpg"
+  ],
   "pick": [
-   [
-    "File:Unité d'habitation Marseille, France.jpg",
-    "Exterior"
-   ],
    [
     "File:France, Bouches-du-Rhône (13), Marseille, 8ème arr. jardin de la Magalone.jpg",
     "Exterior"
@@ -891,11 +890,48 @@
   ]
  },
  "villa-savoye": {
-  "category": "Category:Villa Savoye",
-  "relead": true
+  "pick": [
+   [
+    "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg",
+    "Interior"
+   ],
+   [
+    "File:Villa Savoye (8237925975).jpg",
+    "Interior"
+   ],
+   [
+    "File:Les heures claires...^1 - Flickr - Biscarotte.jpg",
+    "Detail"
+   ]
+  ]
  },
  "notre-dame-du-haut": {
-  "relead": true
+  "pick": [
+   [
+    "File:Notre-Dame du Haut (86745712).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 26.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle intérieure rouge de la chapelle de Ronchamp octobre 2019.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle intérieure de la chapelle de Ronchamp octobre 2019.jpg",
+    "Interior"
+   ],
+   [
+    "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 45.jpg",
+    "Interior"
+   ],
+   [
+    "File:Notre-Dame du Haut (86746486).jpg",
+    "Context"
+   ]
+  ]
  },
  "sainte-marie-de-la-tourette": {
   "pick": [
@@ -2730,7 +2766,12 @@
   ]
  },
  "bosco-verticale": {
-  "relead": true
+  "pick": [
+   [
+    "File:ComplessoPortaNuova.JPG",
+    "Context"
+   ]
+  ]
  },
  "zeitz-mocaa": {
   "pick": [

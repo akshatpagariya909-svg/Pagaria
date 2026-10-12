@@ -1,2 +1,2 @@
---candidates --only villa-savoye,unite-dhabitation,notre-dame-du-haut,bosco-verticale,pinacoteca-do-estado-de-sao-paulo
-Candidate sheets for five buildings whose lead photo is still wrong, to pick by hand.
+--upgrade --minutes 300
+Photo upgrade, full run: keep each lead unless too small, add plans, sections, elevations, sketches and models. Resumable: run again to continue.

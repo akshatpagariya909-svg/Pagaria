@@ -54,7 +54,7 @@ MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6  # photos; drawings and models come on
 MAX_DRAWINGS = 4
 LEAD_PX = 2500  # a lead photo this big on its long side is preferred
 KEEP_PX = 1280  # the current lead stays unless it's smaller than this on its long side (the wall shows 1280)
-GALLERY_VERSION = 2  # galleries made with the drawing kinds and the size-aware lead
+GALLERY_VERSION = 3  # galleries made with the drawing kinds and the kept lead
 FULL, THUMB = 1400, 520
 
 
