@@ -5,13 +5,16 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Live site: https://akshatpagariya909-svg.github.io/Pagaria/ (GitHub Pages, deploys from `main` when `site/**` changes)
 - Design canvas (all artboards and decisions): https://claude.ai/artifact/SzZZi9iaMGvAX85z3zNEDK
 - Audience: architecture students. Favour modern, contemporary and parametric work, brutalism, regionalism and a few historic precedents.
+- **Phone first.** User feedback shows most visitors are on phones, so the phone site matters as much as the computer site, if not more.
 
 ## Rules that never change
+
+- **Every design is drawn for both phone and computer, phone first.** Each new canvas board shows the phone version (390px wide) next to the computer version, and nothing is built until both have been seen. Every change is checked at about 400px and at desktop width before its pull request.
 
 - **Free images only**: public domain, CC0, CC BY or CC BY-SA, from Wikimedia Commons. Never NC or ND. Every photo shows its credit and licence and links to its source.
 - About ten buildings have no free photos. The owner will decide later how to handle licensed photos: remind them, don't solve it alone.
 - Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
-- Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
+- Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), the chosen half of the Buildings | Books switch, and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
 - Minimal text on the site. No invented facts: show height, floors, materials and similar only when a source gives them.
 
@@ -20,6 +23,9 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Wall: **equal-width columns, scroll down only** (v3 "Columns", locked). Tile caption: short dark fade, building name left, architect right, then year · city underneath.
 - Opened building: "Key features" (never "Study it for"); no "015/100" numbering, just "Museum · Modernism"; portrait byline (option 3) with the portrait full column width on the architect page; official website and location with a map link are in.
 - "Go deeper": at least 10 links, show 6 and "see more". Right column scrolls and holds "More by [architect]" and "More [typology]", each linking to its own page. Idea keywords sit at the bottom under "Find more with", with a line saying what they do.
+- Books (v12): a Buildings | Books switch; books are a second wall with the same columns and opened card, and shelves replace the ideas row. Built.
+- "Books to read" in the opened building (v12 · 04): a small sliding strip of covers below "More by [architect]". Waiting for the owner's approval.
+- Top panel (v13): Buildings is on by default; the chosen half of the Buildings | Books switch is filled sunset red (the owner's request), with a thin line between the two. Play sits on the right, outlined, with a menu for the two games (Daily five, Endless). The ideas row hides when you scroll down and comes back when you scroll up. Three layouts (A, B, C) are on the canvas; the owner has not picked one yet.
 - Still open: the opened-building look (v4 A, B or C; Claude recommended B with A's dotted link cells). Ask before building it.
 
 ## How the code is laid out
@@ -59,5 +65,5 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 
 - Keep each change small and focused; open a pull request, check it on the live site after merging, then move on.
 - Before building something visual that the owner hasn't seen, put it on the design canvas first.
-- Check the site at phone width (about 400px) as well as desktop before opening a pull request.
+- Check the site at phone width (about 400px) first, then desktop, before opening a pull request. A change that only works on desktop is not done.
 - Don't edit `site/data/buildings.js` by hand outside the data-collection workstream; it is generated.
