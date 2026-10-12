@@ -407,6 +407,21 @@
   "note": "No photo on Commons. Sources confirm a two-storey concrete and local-stone box on a terrace, east and west ends made of two concrete walls framing a stone wall, the front fully glazed behind reed-filled aluminium shutters. None give its proportions or how many glazed bays/shutters the front has, so not drawn. The AKDN/Archnet award file has drawings if the owner wants it revisited."
  },
  {
+  "id": "bamboo-wing",
+  "name": "Bamboo Wing",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://vtnarchitects.net/bamboo-wing-p222.html",
+   "https://ashui.com/mag/duan/tu-van-thiet-ke/8157-cong-trinh-bamboo-wing-o-dai-lai-vinh-phuc-thiet-ke-vo-trong-nghia.html",
+   "https://www.tapchikientruc.com.vn/tac-gia-tac-pham/bamboo-wings-cat-canh-tu-flamingo-dai-lai.html"
+  ],
+  "note": "No photo on Commons. Sources describe a bamboo cantilever roof shaped like outstretched wings, about 12 m wide, balancing on one rear leg, built without steel, but not its profile, length or how many column bundles there are. Not drawn."
+ },
+ {
   "id": "bee-ah-headquarters",
   "name": "Bee'ah Headquarters",
   "status": "drawn",

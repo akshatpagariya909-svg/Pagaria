@@ -1,5 +1,32 @@
 [
  {
+  "id": "the-museum-hotel-antakya",
+  "name": "The Museum Hotel Antakya",
+  "status": "photo",
+  "commons_category": "Category:Antakya Museum Hotel Mosaics",
+  "photos": [
+   {
+    "file": "File:The Museum Hotel Antakya, Turkey (52033611616).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:The Museum Hotel Antakya, Turkey (52032567347).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:The Museum Hotel Antakya, Turkey (52034131140).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2021/11/16/museum-hotel-antakya-emre-arolat-architecture-ancient-ruins/amp/",
+   "https://www.smithsonianmag.com/smart-news/new-hotel-turkey-floats-above-ancient-ruins-180974699/"
+  ],
+  "note": "39 Flickr photos (3936x2624, CC BY-SA 2.0) in the mosaics category. The ones checked visually show the building's defining idea: steel columns rising from the excavated mosaics, walkways, and stacked room modules above (52033611616 is the clearest). They are taken from the excavation level under and around the hotel, not a street-facade view; judge whether that counts as an exterior. Not all 39 were viewed."
+ },
+ {
   "id": "tod-s-omotesando-building",
   "name": "Tod's Omotesando Building",
   "status": "photo",
