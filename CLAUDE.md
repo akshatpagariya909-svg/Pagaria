@@ -54,6 +54,7 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 | Building page | `claude/building-page` | Opened-building sheet, architect and typology pages |
 | Game | `claude/game` | "Play · Daily five" and its share card |
 | Design | `claude/design` | New artboards on the design canvas |
+| Map | `claude/interactive-world-map-417bmv` | The Map in the dock: prototype and notes in `design/map/`, canvas page "v10 · Map" |
 
 - Keep each change small and focused; open a pull request, check it on the live site after merging, then move on.
 - Before building something visual that the owner hasn't seen, put it on the design canvas first.

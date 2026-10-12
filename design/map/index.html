@@ -1,0 +1,78 @@
+<title>Map of Buildings</title>
+<meta name="description" content="Playable prototype: a world map of the 1,603 buildings on Discover Architecture, with photos that split into more photos as you zoom.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="map.css">
+
+<div class="review" role="toolbar" aria-label="Review controls">
+  <span class="lead">Review controls</span>
+  <div class="seg"><span>Opening</span><button type="button" data-opt="mode" data-v="atlas" aria-pressed="true">Atlas</button><button type="button" data-opt="mode" data-v="globe" aria-pressed="false">Globe</button></div>
+  <div class="seg"><span>Marks</span><button type="button" data-opt="marks" data-v="photos" aria-pressed="true">Photos</button><button type="button" data-opt="marks" data-v="dots" aria-pressed="false">Dots</button></div>
+  <div class="seg"><span>List</span><button type="button" data-opt="list" data-v="on" aria-pressed="true">On</button><button type="button" data-opt="list" data-v="off" aria-pressed="false">Off</button></div>
+  <span class="note">Drag to look around · scroll or pinch to zoom · click a photo</span>
+</div>
+
+<div class="site">
+  <header class="bar">
+    <a class="mark" href="#">Discover<br><span class="accent">Architecture.</span></a>
+    <div class="bar-mid"><div class="search" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>Search a building, architect, city or idea…</div></div>
+    <span class="count" id="wallCount">1,603 buildings</span>
+  </header>
+  <div class="wall" id="wall" aria-hidden="true"></div>
+  <nav class="dock" aria-label="Wall controls">
+    <button type="button" id="shuffle">Shuffle</button>
+    <button type="button" id="openMap"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</button>
+    <button type="button" class="go" id="surprise">Surprise me</button>
+  </nav>
+
+  <div class="mapwrap" id="mapwrap">
+    <section class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="mapTitle" tabindex="-1">
+      <div class="head">
+        <h1 id="mapTitle">Map <small id="mapCount">1,603 buildings</small></h1>
+        <nav class="chips" id="chips" aria-label="Go to"></nav>
+        <label class="find"><span class="sr">Show only buildings matching</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input id="find" type="search" placeholder="Show only… (Kahn, brick, library)" autocomplete="off"></label>
+        <button type="button" class="close" id="closeMap" aria-label="Close the map"><svg viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></svg></button>
+      </div>
+      <div class="map" id="map" tabindex="0" role="application" aria-label="World map of buildings. Drag to pan, plus and minus to zoom, 0 for the whole world.">
+        <canvas id="cv"></canvas>
+        <div class="layer" id="labels"></div>
+        <div class="layer" id="tiles"></div>
+        <div class="where" id="where"></div>
+        <div class="hint" id="hint">Scroll to zoom in · click a stack to open it</div>
+        <div class="ctl">
+          <button type="button" id="zin" aria-label="Zoom in"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg></button>
+          <button type="button" id="zout" aria-label="Zoom out"><svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg></button>
+          <button type="button" id="zworld" aria-label="Whole world"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M4 12h16M12 4c3 3 3 13 0 16M12 4c-3 3-3 13 0 16"/></svg></button>
+        </div>
+      </div>
+      <aside class="list" id="list">
+        <h2>In view <small id="inviewCount"></small></h2>
+        <div class="rows" id="rows"></div>
+        <p id="listNote">Everything on the map right now, best known first. Click one to open it.</p>
+      </aside>
+    </section>
+  </div>
+
+  <div class="sheet" id="sheet" hidden>
+    <button type="button" class="veil" id="veil" aria-label="Close"></button>
+    <article class="card" id="card" role="dialog" aria-modal="true" aria-labelledby="bName" tabindex="-1">
+      <div class="ph" id="bPhoto" role="img"></div>
+      <div class="in">
+        <div class="kicker"><span id="bKicker"></span><button type="button" class="x" id="closeCard" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></svg></button></div>
+        <h1 id="bName"></h1>
+        <div class="by"><i>by</i> <b id="bBy"></b></div>
+        <div class="meta" id="bMeta"></div>
+        <p class="study"><span>Key features</span><span class="sr">:</span><em id="bStudy" style="font-style: normal"></em></p>
+        <p class="credit" id="bCredit"></p>
+        <div class="acts">
+          <a class="go" id="bOpen" href="#" target="_blank" rel="noopener">Open on the site ↗</a>
+          <button type="button" id="bNear"></button>
+        </div>
+      </div>
+    </article>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="map.js"></script>
