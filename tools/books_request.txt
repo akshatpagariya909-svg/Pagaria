@@ -1,0 +1,2 @@
+--force
+First batch: look up all 130 seed books and fetch their covers.
