@@ -890,20 +890,7 @@
   ]
  },
  "villa-savoye": {
-  "pick": [
-   [
-    "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg",
-    "Interior"
-   ],
-   [
-    "File:Villa Savoye (8237925975).jpg",
-    "Interior"
-   ],
-   [
-    "File:Les heures claires...^1 - Flickr - Biscarotte.jpg",
-    "Detail"
-   ]
-  ]
+  "category": "Category:Villa Savoye"
  },
  "notre-dame-du-haut": {
   "pick": [

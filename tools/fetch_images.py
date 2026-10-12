@@ -41,7 +41,7 @@ DRAWINGS = ['Plan', 'Section', 'Elevation', 'Sketch', 'Model', 'Drawing']
 KINDS = [
     ('Model', re.compile(r'(\bmodels? of\b|scale model|architectural model|\bmaquettes?\b|\bmaqueta\b|\bmodell\b|\bmodello\b|\bmodelo\b)', re.I)),
     ('Plan', re.compile(r'(floor ?plans?|site plan|ground plan|\bplans? of\b|\bgrundriss|\bplanta\b|\bplano\b|\bpianta\b|\bplan (du|de|of)\b|\bplan\b(?! view))', re.I)),
-    ('Section', re.compile(r'(\bcross[- ]?section|\bsections? of\b|\bsection\b|\bschnitt\b|\bcoupe\b|\bsecci[oó]n\b|\bsezione\b|\bcorte\b)', re.I)),
+    ('Section', re.compile(r'(\bcross[- ]?section|\bsections? of\b|\bsection\b|\bschnitt\b|\bcoupe (transversale|longitudinale|de|du|sur)\b|\bsecci[oó]n\b|\bsezione\b|\bcortes? (transversal|longitudinal)\b)', re.I)),
     ('Elevation', re.compile(r'(\belevations? of\b|\belevation\b|\bansicht\b|\baufriss\b|\bal[cç]ado\b|\balzado\b|\bprospetto\b)', re.I)),
     ('Sketch', re.compile(r'(\bsketch(es)?\b|\bskizze\b|\bcroquis\b|\bschizzo\b|\besbo[cç]o\b|\bboceto\b)', re.I)),
     ('Drawing', re.compile(r'(architectural drawings?|\bdrawings? of\b|\bdrawing\b|axonometr|isometr|\bblueprint|\bzeichnung\b|\bdessin\b|\bdibujo\b|\bdisegno\b|\bentwurf\b)', re.I)),
@@ -215,9 +215,10 @@ def strip(v):
 
 
 def describe(title, hint, meta, cats=''):
-    text = ' '.join([title, hint, strip(meta.get('ImageDescription'))[:300], cats])
+    named = ' '.join([title, hint, cats])  # a drawing must say so in its name or folders, not just in passing
+    text = ' '.join([named, strip(meta.get('ImageDescription'))[:300]])
     for name, rx in KINDS:
-        if rx.search(text):
+        if rx.search(named if name in DRAWINGS else text):
             return name
     return 'Exterior'
 
@@ -264,16 +265,25 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
             continue
         if not OK_LICENSE.search(lic) or i.get('size', 0) > 45_000_000:
             continue
-        pool.append({'title': t, 'info': i, 'kind': kind, 'score': score(i, b, t) + (100 if t in boost else 0) + (3 if t in soft else 0),
+        pool.append({'title': t, 'info': i, 'kind': kind, 'score': score(i, b, t) + (100 if t in boost else 0) + (3 if t in soft else 0), 'soft': t in soft,
                      'credit': strip(meta.get('Artist'))[:100] or strip(meta.get('Credit'))[:100], 'license': lic})
     pool.sort(key=lambda p: -p['score'])
     return pool
 
 
-def lead_score(p):
-    """How good a photo is as the wall tile: a big, clear view of the outside."""
-    long = max(p['info'].get('width', 0), p['info'].get('height', 0))
-    return p['score'] + (4 if long >= LEAD_PX else 0) - (4 if long < 1600 else 0)
+# a lead should show the building, not the street or river it stands by
+SURROUNDINGS = re.compile(r'(avenue|boulevard|\bstreet\b|\brue\b|\bcalle\b|stra(ss|ß)e|bridges?\b|skyline|panorama|cityscape|view (from|of the city)|seen from|'
+                          r'river|quay|harbou?r|waterfront|aerial|from above)', re.I)
+
+
+def lead_score(p, b):
+    """How good a photo is as the wall tile: a clear view of this building's outside, preferably big."""
+    i = p['info']
+    long = max(i.get('width', 0), i.get('height', 0))
+    text = p['title'] + ' ' + strip(i.get('extmetadata', {}).get('ImageDescription'))[:300]
+    names = fits(b, text)
+    return (p['score'] + (2 if long >= LEAD_PX else 0) - (4 if long < 1600 else 0)
+            + (4 if names else 0) + (3 if p.get('soft') else 0) - (0 if names else 6 if SURROUNDINGS.search(text) else 0))
 
 
 def choose(b, files, info, skip, boost=(), soft=()):
@@ -293,7 +303,7 @@ def choose(b, files, info, skip, boost=(), soft=()):
         kinds[p['kind']] = kinds.get(p['kind'], 0) + 1
 
     # the lead: the best big view of the outside
-    outside = sorted((p for p in pool if p['kind'] == 'Exterior'), key=lambda p: -lead_score(p))
+    outside = sorted((p for p in pool if p['kind'] == 'Exterior'), key=lambda p: -lead_score(p, b))
     if outside:
         take(outside[0])
     # then one of each photo kind, then fill by score within each kind's cap
@@ -316,6 +326,18 @@ def choose(b, files, info, skip, boost=(), soft=()):
             n += 1
     order = {'Exterior': 0, 'Interior': 1, 'Detail': 2, 'Context': 3, **{k: 4 + i for i, k in enumerate(DRAWINGS)}}
     return picks[:1] + sorted(picks[1:], key=lambda p: order[p['kind']])
+
+
+def drawings(pool, picks):
+    """One of each drawing kind the picks don't have yet, up to MAX_DRAWINGS in all."""
+    have, out = {p['title'] for p in picks}, []
+    n = sum(p['kind'] in DRAWINGS for p in picks)
+    for want in DRAWINGS:
+        p = next((p for p in pool if p['kind'] == want and p['title'] not in have), None)
+        if p and n < MAX_DRAWINGS and not any(q['kind'] == want for q in picks):
+            out.append(p)
+            n += 1
+    return out
 
 
 def picked(b, ch):
@@ -506,6 +528,8 @@ def main():
             files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
             if 'pick' in ch:  # an empty pick means no suitable free photos
                 picks = picked(b, ch)
+                if picks:  # keep the hand-picked photos; add the folder's drawings and models on top
+                    picks += drawings(eligible(b, files, infos([t for t, _ in files]), set(ch.get('skip', []))), picks)
             else:
                 # files added by hand win outright; Wikipedia's lead photo only gets a nudge, so a bigger,
                 # clearer view of the outside can still lead (it once put a church in front of the Millau Viaduct)
