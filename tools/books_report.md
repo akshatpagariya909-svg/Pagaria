@@ -1,19 +1,19 @@
 # Books report
 
-94 of 130 books have a cover.
+95 of 130 books have a cover.
 
 | Book | Result |
 |---|---|
 | Architecture: Form, Space, and Order (Francis D. K. Ching) | no result by this author with this title among 21 results |
 | Architecture: A Very Short Introduction (Andrew Ballantyne) | 1 matching results, none with a cover |
-| Complexity and Contradiction in Architecture (Robert Venturi) | cover id 4420348 is missing or too small |
+| Complexity and Contradiction in Architecture (Robert Venturi) | isbn 9780870702822 |
 | S,M,L,XL (Rem Koolhaas and Bruce Mau) | no result by this author with this title among 12 results |
 | Genius Loci: Towards a Phenomenology of Architecture (Christian Norberg-Schulz) | no result by this author with this title among 11 results |
 | Words and Buildings: A Vocabulary of Modern Architecture (Adrian Forty) | no result by this author with this title among 11 results |
 | Spatial Agency: Other Ways of Doing Architecture (Nishat Awan, Tatjana Schneider and Jeremy Till) | no result by this author with this title among 9 results |
 | The City of To-morrow and Its Planning (Le Corbusier) | no result by this author with this title among 0 results |
 | The New Brutalism: Ethic or Aesthetic? (Reyner Banham) | 1 matching results, none with a cover |
-| The Architecture of the Well-tempered Environment (Reyner Banham) | cover id 5359665 is missing or too small |
+| The Architecture of the Well-tempered Environment (Reyner Banham) | 3 matching results, none with a cover |
 | Bauhaus 1919–1933 (Magdalena Droste) | no result by this author with this title among 10 results |
 | The Mosque: History, Architectural Development and Regional Diversity (Martin Frishman and Hasan-Uddin Khan (editors)) | no result by this author with this title among 10 results |
 | SOS Brutalism: A Global Survey (Oliver Elser, Philip Kurz and Peter Cachola Schmal (editors)) | no result by this author with this title among 5 results |
@@ -50,7 +50,6 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 
 - form-space-and-order: Architecture: Form, Space, and Order (Francis D. K. Ching)
 - architecture-very-short-introduction: Architecture: A Very Short Introduction (Andrew Ballantyne)
-- complexity-and-contradiction: Complexity and Contradiction in Architecture (Robert Venturi)
 - s-m-l-xl: S,M,L,XL (Rem Koolhaas and Bruce Mau)
 - genius-loci: Genius Loci: Towards a Phenomenology of Architecture (Christian Norberg-Schulz)
 - words-and-buildings: Words and Buildings: A Vocabulary of Modern Architecture (Adrian Forty)

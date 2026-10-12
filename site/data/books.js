@@ -413,7 +413,17 @@ window.BOOKS = [
   ],
   "buildings": [
    "vanna-venturi-house"
-  ]
+  ],
+  "ol": "OL2940044W",
+  "isbn": "0870702815",
+  "olYear": 1966,
+  "cover": {
+   "thumb": "images/books/complexity-and-contradiction.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/9780870702822-L.jpg",
+   "w": 475,
+   "h": 369,
+   "source": "https://openlibrary.org/works/OL2940044W"
+  }
  },
  {
   "id": "delirious-new-york",
