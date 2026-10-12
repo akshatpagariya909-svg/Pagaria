@@ -1,1 +1,1 @@
-Fetch covers for batch 2 and any book still missing one.
+Fetch covers for new books (batch 3a) and any book still missing one.

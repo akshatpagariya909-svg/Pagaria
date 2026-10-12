@@ -4466,5 +4466,287 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "a-fools-errand-creating-the-national-museum-of-african-ameri",
+  "title": "A Fool’s Errand: Creating the National Museum of African American History and Culture in the Age of Bush, Obama, and Trump",
+  "by": "Lonnie G. Bunch III",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "History",
+  "why": "The founding director tells how the Smithsonian’s African American museum, designed by Adjaye and Freelon, got built.",
+  "tags": [
+   "Museum",
+   "Memorial"
+  ],
+  "architects": [
+   "David Adjaye",
+   "Phil Freelon"
+  ],
+  "buildings": [
+   "national-museum-of-african-american-history-and-culture"
+  ]
+ },
+ {
+  "id": "the-trade-fair-palace-in-prague",
+  "title": "The Trade Fair Palace in Prague",
+  "by": "Miroslav Masák, Rostislav Švácha and Jindřich Vybíral",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "History",
+  "why": "The huge functionalist Trade Fair Palace in Prague, one of the first big modern buildings in Europe.",
+  "tags": [
+   "Modernism",
+   "Functionalism"
+  ],
+  "architects": [
+   "Oldřich Tyl",
+   "Josef Fuchs"
+  ],
+  "buildings": [
+   "veletrzni-palac"
+  ]
+ },
+ {
+  "id": "charles-garniers-paris-opera-architectural-empathy-and-the-r",
+  "title": "Charles Garnier’s Paris Opéra: Architectural Empathy and the Renaissance of French Classicism",
+  "by": "Christopher Curtis Mead",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "History",
+  "why": "How Garnier designed the Paris Opéra around the experience of the people moving through it.",
+  "tags": [
+   "Historic precedent",
+   "Classicism"
+  ],
+  "architects": [
+   "Charles Garnier"
+  ],
+  "buildings": [
+   "palais-garnier"
+  ]
+ },
+ {
+  "id": "mont-saint-michel-and-chartres",
+  "title": "Mont-Saint-Michel and Chartres",
+  "by": "Henry Adams",
+  "year": "1904",
+  "y": 1904,
+  "shelf": "Free to read",
+  "why": "Henry Adams walks through the abbey and the cathedral to explain the medieval mind. Public domain.",
+  "tags": [
+   "Gothic",
+   "Religious"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "dictionnaire-raisonne-de-larchitecture-francaise-du-xie-au-x",
+  "title": "Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle",
+  "by": "Eugène-Emmanuel Viollet-le-Duc",
+  "year": "1854",
+  "y": 1854,
+  "shelf": "Free to read",
+  "why": "Viollet-le-Duc’s ten-volume dictionary of French medieval building, with thousands of his drawings. In French, online.",
+  "tags": [
+   "Gothic",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-two-paths-lectures-on-art-and-its-application-to-decorat",
+  "title": "The Two Paths: Lectures on Art and Its Application to Decoration and Manufacture",
+  "by": "John Ruskin",
+  "year": "1859",
+  "y": 1859,
+  "shelf": "Free to read",
+  "why": "Ruskin’s lectures on ornament, iron and the choice between living craft and dead copying.",
+  "tags": [
+   "Ornament",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "lives-of-the-most-excellent-painters-sculptors-and-architect",
+  "title": "Lives of the Most Excellent Painters, Sculptors, and Architects",
+  "by": "Giorgio Vasari",
+  "year": "1550",
+  "y": 1550,
+  "shelf": "Free to read",
+  "why": "Vasari’s lives of Brunelleschi, Alberti, Bramante and Michelangelo: where art history began.",
+  "tags": [
+   "Historic precedent",
+   "Renaissance"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-crown-of-wild-olive-three-lectures-on-work-traffic-and-w",
+  "title": "The Crown of Wild Olive: Three Lectures on Work, Traffic and War",
+  "by": "John Ruskin",
+  "year": "1866",
+  "y": 1866,
+  "shelf": "Free to read",
+  "why": "Includes \"Traffic\", Ruskin’s lecture to Bradford merchants on what their new buildings say about them.",
+  "tags": [
+   "Ethics",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "lectures-on-architecture-and-painting",
+  "title": "Lectures on Architecture and Painting",
+  "by": "John Ruskin",
+  "year": "1854",
+  "y": 1854,
+  "shelf": "Free to read",
+  "why": "Ruskin’s Edinburgh lectures arguing for Gothic in the city street.",
+  "tags": [
+   "Gothic",
+   "Ornament"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "mies-van-der-rohe",
+  "title": "Mies van der Rohe",
+  "by": "Jean-Louis Cohen",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Monographs",
+  "why": "A short, clear account of Mies’s life and buildings by a leading historian of modernism.",
+  "tags": [
+   "Modernism",
+   "Steel and glass"
+  ],
+  "architects": [
+   "Mies van der Rohe",
+   "Ludwig Mies van der Rohe"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-future-of-architecture",
+  "title": "The Future of Architecture",
+  "by": "Frank Lloyd Wright",
+  "year": "1953",
+  "y": 1953,
+  "shelf": "Theory",
+  "why": "Wright’s late summing-up of organic architecture, with a dialogue and his lectures.",
+  "tags": [
+   "Organic",
+   "Modernism"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-decoration-of-houses",
+  "title": "The Decoration of Houses",
+  "by": "Edith Wharton and Ogden Codman Jr.",
+  "year": "1897",
+  "y": 1897,
+  "shelf": "Free to read",
+  "why": "Wharton and an architect argue for proportion and restraint in rooms. Public domain.",
+  "tags": [
+   "Interior",
+   "House"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "morphosis-buildings-and-projects",
+  "title": "Morphosis: Buildings and Projects",
+  "by": "Thom Mayne",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "The Los Angeles practice’s early buildings and drawings.",
+  "tags": [
+   "Deconstructivism",
+   "Contemporary"
+  ],
+  "architects": [
+   "Morphosis",
+   "Thom Mayne"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-living-city",
+  "title": "The Living City",
+  "by": "Frank Lloyd Wright",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "Cities",
+  "why": "Wright’s final vision of Broadacre City, spread across the land.",
+  "tags": [
+   "Cities",
+   "Organic"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "une-petite-maison",
+  "title": "Une petite maison",
+  "by": "Le Corbusier",
+  "year": "1954",
+  "y": 1954,
+  "shelf": "Monographs",
+  "why": "Le Corbusier’s small book about the little house he built for his parents on Lake Geneva.",
+  "tags": [
+   "House",
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "architecture-in-britain-15301830",
+  "title": "Architecture in Britain 1530–1830",
+  "by": "John Summerson",
+  "year": "1953",
+  "y": 1953,
+  "shelf": "History",
+  "why": "The standard history of British architecture from the Tudors to Soane.",
+  "tags": [
+   "Historic precedent",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-uvre-complete",
+  "title": "Le Corbusier: Œuvre complète",
+  "by": "Willy Boesiger (editor)",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "Monographs",
+  "why": "The eight-volume complete works, designed with Le Corbusier himself.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
  }
 ]

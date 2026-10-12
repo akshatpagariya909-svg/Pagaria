@@ -4,6 +4,7 @@
   python3 tools/books_batch.py next 80          the next 80 candidates nobody has reviewed yet (compact JSON)
   python3 tools/books_batch.py add batch.json   check a batch and add it to tools/books_seed.json
   python3 tools/books_batch.py stats            write tools/books_progress.md
+  python3 tools/books_batch.py count            how many relevant candidates are left
 
 A batch file is {"add": [book, ...], "reject": ["candidate key", ...]}. Each book has the seed fields:
 id, title, by, year, y, shelf, why, tags[], architects[], buildings[], and "key" (the candidate key it came from).
@@ -46,13 +47,39 @@ def first_author(by):
     return re.split(r',| and |\(', by)[0].strip()
 
 
+ARCH_SUBJ = re.compile(r'architect|city planning|urban design|urbanism|landscape architecture|town planning|buildings? -- design|building design|interior architecture', re.I)
+NOISE = re.compile(r'fiction|juvenile|novel|stories|poetry|drama|comic|picture book|children|notebook|journal|diary|census|congress|parliament|hansard|catalog(ue)? of (the )?collection', re.I)
+FIRM = re.compile(r'^[A-Z0-9&+ ]{2,6}$|architects|partners|studio|office|associates|workshop|group|\(|\bwith\b|&|\+', re.I)
+
+
+def relevant(c):
+    """Drop the noise the broad searches bring in: fiction, children's books, government papers, and author-name lookalikes."""
+    subj = ' '.join(c.get('subjects') or [])
+    title = c.get('title', '')
+    if NOISE.search(subj) or NOISE.search(title):
+        return False
+    authors = ' '.join(c.get('authors') or [])
+    src = set(c.get('sources') or [])
+    if src & {'wikidata-about', 'wikidata-by'}:
+        return True
+    if 'ol-about-architect' in src and ARCH_SUBJ.search(subj):
+        return True
+    if 'ol-by-architect' in src:
+        # an author search only counts when the author really is that architect: full name, not a firm or a short word
+        names = [a for a in c.get('architects', []) if not FIRM.search(a) and len(a.split()) >= 2]
+        return any(' '.join(fold(a)) in ' '.join(fold(authors)) for a in names)
+    if 'ol-subject' in src:
+        return bool(ARCH_SUBJ.search(subj))
+    return False
+
+
 def cmd_next(n):
     seed, reviewed = load(SEED, []), set(load(REVIEWED, []))
     have = {key_of(k['title'], first_author(k['by'])) for k in seed}
     out = []
     for c in load(CANDS, []):
         k = key_of(c['title'], (c.get('authors') or [''])[0])
-        if k in reviewed or k in have:
+        if k in reviewed or k in have or not relevant(c):
             continue
         out.append({'key': k, 'title': c['title'], 'authors': c.get('authors', [])[:3], 'year': c.get('year'), 'editions': c.get('editions'),
                     'architects': c.get('architects', []), 'buildings': c.get('buildings', []), 'subjects': c.get('subjects', [])[:6],
@@ -69,7 +96,21 @@ def cmd_add(path):
     have_ids = {k['id'] for k in seed}
     have_keys = {key_of(k['title'], first_author(k['by'])) for k in seed}
     errors, new = [], []
+    # An entry may give only "key" plus shelf, tags and why: title, author, year and links come from the candidate.
+    index = {}
+    if any(k.get('key') and not all(k.get(f) for f in ('title', 'by', 'year')) for k in batch.get('add', [])):
+        index = {key_of(c['title'], (c.get('authors') or [''])[0]): c for c in load(CANDS, [])}
     for k in batch.get('add', []):
+        c = index.get(k.get('key'))
+        if c:
+            k.setdefault('title', c['title'])
+            k.setdefault('by', ', '.join(c.get('authors', [])[:3]))
+            k.setdefault('year', c.get('year'))
+            k.setdefault('buildings', c.get('buildings', []))
+            if 'architects' not in k:
+                k['architects'] = [a for a in c.get('architects', []) if a in names]
+        if k.get('title') and not k.get('id'):
+            k['id'] = '-'.join(fold(k['title']))[:60].strip('-')
         tag = k.get('id', '?')
         for f in ('id', 'title', 'by', 'year', 'shelf', 'why'):
             if not k.get(f):
@@ -129,4 +170,5 @@ def cmd_stats():
 
 if __name__ == '__main__':
     a = sys.argv[1:]
-    {'next': lambda: cmd_next(int(a[1]) if len(a) > 1 else 80), 'add': lambda: cmd_add(a[1]), 'stats': cmd_stats}[a[0] if a else 'stats']()
+    {'next': lambda: cmd_next(int(a[1]) if len(a) > 1 else 80), 'add': lambda: cmd_add(a[1]), 'stats': cmd_stats,
+     'count': lambda: print(sum(1 for c in load(CANDS, []) if relevant(c)), 'relevant candidates')}[a[0] if a else 'stats']()
