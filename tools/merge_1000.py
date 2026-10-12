@@ -25,7 +25,7 @@ DEFAULT_CAP = 30
 REGIONS = {
     'Europe': 'AD AT BA BE BG BY CH CZ DE DK EE ES FI FR GB GL GR HR HU IE IS IT LI LT LU LV MK MT NL NO PL PT RS RU SE SI SK UA UK VA XK',
     'Americas': 'AR BO BR CA CL CO CR CU DO EC GT HN HT JM MX NI PA PE PR PY SV US UY VE',
-    'East Asia': 'CN HK JP KR MO TW',
+    'East Asia': 'CN HK JP KR MN MO TW',
     'Southeast Asia': 'BN ID KH LA MM MY PH SG TH TL VN',
     'South Asia': 'AF BD BT IN LK MV NP PK',
     'Middle East': 'AE AM AZ BH EG GE IL IQ IR JO KG KW KZ LB OM PS QA SA SY TJ TM TR UZ YE',

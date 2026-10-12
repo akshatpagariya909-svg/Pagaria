@@ -89,6 +89,7 @@ def main():
                     shutil.copyfile(svg, ROOT / 'site' / 'images' / i / 'drawing.svg')
         items.append(b)
         ids.add(i)
+        have.add(fold(c['name']))
         added.append((b, r['status']))
     cov = IL / 'covers.txt'  # buildings already on the wall that get our drawing as the cover, photos after it
     covers = {l.split('#')[0].strip() for l in cov.read_text(encoding='utf-8').splitlines()} - {''} if cov.exists() else set()
