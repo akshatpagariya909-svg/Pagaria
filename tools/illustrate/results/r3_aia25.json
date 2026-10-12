@@ -971,5 +971,148 @@
    "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira"
   ],
   "note": "The two seen photos look like crops of the same view of the entrance front."
+ },
+ {
+  "id": "simmons-hall-mit",
+  "name": "Simmons Hall, MIT",
+  "by": "Steven Holl Architects",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "2002",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Light & shadow"
+  ],
+  "features": "A 'sponge' dormitory: a grid of thousands of small square windows, cut through by large irregular openings.",
+  "award": "Alvar Aalto Medal 1998 / Praemium Imperiale 2014 (Steven Holl)",
+  "status": "photo",
+  "commons_category": "Category:Simmons Hall",
+  "photos": [
+   {
+    "file": "File:2014-04-02-MIT-Simmons-Hall-Vassar-Street-Cambridge-Massachusetts-B.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2014-04-02-Simmons-Hall-A.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2014-04-02-MIT-Simmons-Hall-Vassar-Street-Cambridge-Massachusetts-A.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Simmons_Hall_(MIT)"
+  ],
+  "note": null
+ },
+ {
+  "id": "casa-das-mudas",
+  "name": "Casa das Mudas Art Centre",
+  "by": "Paulo David",
+  "city": "Calheta",
+  "cc": "PT",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Promenade"
+  ],
+  "features": "Dark basalt volumes set into a cliff top above the sea, with roof terraces and paths through the building.",
+  "award": "Alvar Aalto Medal 2012 (Paulo David)",
+  "status": "photo",
+  "commons_category": "Category:Centro das Artes - Casa das Mudas",
+  "photos": [
+   {
+    "file": "File:Madeira-Calheta-Museu de Arte Contemporânea da Madeira (modern art museum)-04ASD.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Madeira - Casa das Mudas Arts Center, Calheta (23996208503).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Calheta - Roof of Casa das Mudas Art Centre (24644466275).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archiweb.cz/en/b/umelecke-centrum-casa-das-muda",
+   "https://arquitecturaviva.com/obras/centro-de-arte-casa-das-mudas-calheta",
+   "https://www.archdaily.com/179031/flashback-arts-centre-casa-das-mudas-paulo-david"
+  ],
+  "note": "Now houses MUDAS, Museu de Arte Contemporânea da Madeira. Opened October 2004; largely below ground, basalt-faced. The 23996208503 photo shows the building from below, small on the cliff top."
+ },
+ {
+  "id": "tinggaarden",
+  "name": "Tinggården",
+  "by": "Tegnestuen Vandkunsten",
+  "city": "Herfølge",
+  "cc": "DK",
+  "year": "1978",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Community",
+   "Cluster",
+   "Timber"
+  ],
+  "features": "Low-rise, dense housing: 78 homes in six clusters, each with its own common house; red timber walls.",
+  "award": "Alvar Aalto Medal 2009 (Tegnestuen Vandkunsten)",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tegnestuen_Vandkunsten",
+   "https://vandkunsten.com/en/projects/tinggaarden",
+   "https://www.bolius.dk/faellesskabet-er-vigtigt-i-tinggaarden-97873"
+  ],
+  "note": "No photo on Commons (File:KettingTinggården.JPG is a former inn in Ketting, a different place). Sources describe clusters, red-painted timber facades, yellow window frames and black timber stair towers, but not the roof shapes or the elevation, so not drawn. Vandkunsten's own project page couldn't be read from the sandbox."
+ },
+ {
+  "id": "vanke-center-shenzhen",
+  "name": "Vanke Center (Horizontal Skyscraper)",
+  "by": "Steven Holl Architects",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Megastructure",
+   "Public space",
+   "Climate response"
+  ],
+  "features": "A 'skyscraper lying down', as long as the Empire State is tall, raised on eight cores so the ground is a public garden.",
+  "award": "Alvar Aalto Medal 1998 / Praemium Imperiale 2014 (Steven Holl)",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vanke_Center",
+   "https://world-architects.com/ms/projects/view/horizontal-skyscraper (via search summary)"
+  ],
+  "note": "No photos found on Commons (English or Chinese search). Sources give the 35 m height limit, eight cores up to 50 m apart and a perforated aluminium louvre skin, but not the clearance under the bar, storey count or how the bends read in elevation. A test elevation came out as a generic raised slab a student wouldn't recognise, so it was not kept."
  }
 ]

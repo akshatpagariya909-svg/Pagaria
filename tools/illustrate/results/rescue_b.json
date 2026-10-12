@@ -366,5 +366,86 @@
   ],
   "commons_category": "Category:Kyiv crematorium",
   "note": "First: the two white shell-shaped farewell halls from above, the big arched shell with its ribbed glazed band and the pointed shell beside it (1800px, the clearest view). Then the shells from across the cemetery, both shells framed by leaves (6720px), and the complex in its wooded ravine with the city behind."
+ },
+ {
+  "id": "tbilisi-wedding-palace",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Wedding Palace in Tbilisi",
+  "note": "The category holds only the two tried files. Searches in English and Georgian ('Wedding Palace', 'Palace of Rituals', საქორწინო სასახლე) and Category:Victor Djorbenadze find nothing else."
+ },
+ {
+  "id": "tbilisi-public-service-hall",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Stadtansicht Tiflis 32.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tbilisi Public Service Hall Building IMG 8999 1920.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:თბილისის იუსტიციის სახლი-Tbilisi Justic House 12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:თბილისის იუსტიციის სახლი-Tbilisi Justic House 10.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Tbilisi Public Service Hall",
+  "note": "First: the cluster of white petal roofs seen from Rike Park, the roofs clear in the upper half (the Rike concert-hall tubes are in the foreground; crop to the roofs). Then the whole building from above by the river (2880px), the glazed entrance under the roof overhang, and the glass side facade from the terrace (a child at the rail in the foreground)."
+ },
+ {
+  "id": "hotel-uzbekistan",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Amir Temur Square.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oʻzbekiston mehmonxonasi.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Hotel Uzbekistan in Tashkent",
+  "note": "First (in Category:Amir Temur Square, 6000px): the hotel's curved, screen-patterned slab clear on the left of Amir Temur Square under blue sky, with the Timur statue and the Forums Palace (crop to the hotel). Second: the full sunlit facade, but a tree trunk in the foreground covers its left third. Note: File:GRAND HOTEL UZBEKISTAN.jpg is a different hotel."
+ },
+ {
+  "id": "druzhba-sanatorium-kurpaty",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Пансіонат «Дружба», Лівадія (Крим).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Пансионат Дружба -2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Пансионат \"Дружба\".jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Пансіонат «Дружба»,2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Druzhba Sanatorium, Kurpaty",
+  "note": "First: the round, ringed concrete block on its legs against the wooded slope, seen from the sea, centred (portrait). Then a closer sea view (slightly hazy), a wider sea view with the coast, and the stepped roof terraces with their drum towers from the top entrance (labelled Druzhba by the uploader; a 'Kurpaty' sign is on the drum)."
  }
 ]
