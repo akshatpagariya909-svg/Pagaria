@@ -8,13 +8,31 @@
       "idea": "Light from above",
       "title": "Light from above",
       "sub": "Five precedents for your next studio project",
-      "cover": { "b": "pantheon", "img": 4 },
+      "cover": {
+        "b": "pantheon",
+        "img": 4
+      },
       "slides": [
-        { "b": "pantheon", "img": 5 },
-        { "b": "kimbell-art-museum", "img": 4 },
-        { "b": "phillips-exeter-academy-library", "img": 3 },
-        { "b": "bruder-klaus-field-chapel", "img": 3 },
-        { "b": "teshima-art-museum", "img": 3 }
+        {
+          "b": "pantheon",
+          "img": 5
+        },
+        {
+          "b": "kimbell-art-museum",
+          "img": 4
+        },
+        {
+          "b": "phillips-exeter-academy-library",
+          "img": 3
+        },
+        {
+          "b": "bruder-klaus-field-chapel",
+          "img": 3
+        },
+        {
+          "b": "teshima-art-museum",
+          "img": 3
+        }
       ],
       "hashtags": "#architecturestudent #architecturalprecedent #daylighting #louiskahn #peterzumthor #pantheon #architecturestudio #precedentstudy"
     },
@@ -25,13 +43,31 @@
       "idea": "Climate response",
       "title": "Built for the heat",
       "sub": "Five precedents for hot climates",
-      "cover": { "b": "chand-baori", "img": 2 },
+      "cover": {
+        "b": "chand-baori",
+        "img": 2
+      },
       "slides": [
-        { "b": "chand-baori", "img": 0 },
-        { "b": "palace-of-assembly", "img": 0 },
-        { "b": "heritance-kandalama", "img": 1 },
-        { "b": "gando-primary-school", "img": 0 },
-        { "b": "louvre-abu-dhabi", "img": 1 }
+        {
+          "b": "chand-baori",
+          "img": 0
+        },
+        {
+          "b": "palace-of-assembly",
+          "img": 0
+        },
+        {
+          "b": "heritance-kandalama",
+          "img": 1
+        },
+        {
+          "b": "gando-primary-school",
+          "img": 0
+        },
+        {
+          "b": "louvre-abu-dhabi",
+          "img": 1
+        }
       ],
       "hashtags": "#architecturestudent #climateresponsive #passivedesign #regionalism #geoffreybawa #franciskere #lecorbusier #indianarchitecture #precedentstudy"
     },
@@ -42,12 +78,232 @@
       "title": "Name these four from one detail",
       "sub": "Answers on the last slide",
       "items": [
-        { "b": "centre-pompidou", "img": 1, "zoom": 2.2, "x": 62, "y": 78 },
-        { "b": "sydney-opera-house", "img": 6, "zoom": 1.6, "x": 70, "y": 55 },
-        { "b": "beijing-national-stadium", "img": 0, "zoom": 2.6, "x": 45, "y": 52 },
-        { "b": "habitat-67", "img": 5, "zoom": 1.5, "x": 40, "y": 50 }
+        {
+          "b": "centre-pompidou",
+          "img": 1,
+          "zoom": 2.2,
+          "x": 62,
+          "y": 78
+        },
+        {
+          "b": "sydney-opera-house",
+          "img": 6,
+          "zoom": 1.6,
+          "x": 70,
+          "y": 55
+        },
+        {
+          "b": "beijing-national-stadium",
+          "img": 0,
+          "zoom": 2.6,
+          "x": 45,
+          "y": 52
+        },
+        {
+          "b": "habitat-67",
+          "img": 5,
+          "zoom": 1.5,
+          "x": 40,
+          "y": 50
+        }
       ],
       "hashtags": "#architecturestudent #architecturequiz #guessthebuilding #architecturelovers #hightech #brutalism #precedentstudy"
+    },
+    {
+      "id": "start-here",
+      "kind": "intro",
+      "tag": "Start here",
+      "title": "900+ buildings for your next studio project",
+      "sub": "A wall of precedents you wander instead of search.",
+      "example": {
+        "b": "fallingwater",
+        "img": 1
+      },
+      "hashtags": "#architecturestudent #architecturalprecedent #precedentstudy #architecturestudio #archistudent #architectureschool #architecturedesign",
+      "find": "Browse by idea",
+      "creditExample": {
+        "b": "barcelona-pavilion",
+        "img": 1
+      }
+    },
+    {
+      "id": "courtyard",
+      "kind": "idea",
+      "tag": "Idea",
+      "idea": "Courtyard",
+      "title": "Courtyard",
+      "sub": "Five precedents built around open air",
+      "cover": {
+        "b": "alhambra",
+        "img": 5
+      },
+      "slides": [
+        {
+          "b": "alhambra",
+          "img": 0
+        },
+        {
+          "b": "saynatsalo-town-hall",
+          "img": 3
+        },
+        {
+          "b": "casa-luis-barragan",
+          "img": 2
+        },
+        {
+          "b": "gandhi-smarak-sangrahalaya",
+          "img": 0
+        },
+        {
+          "b": "salk-institute",
+          "img": 0
+        }
+      ],
+      "hashtags": "#architecturestudent #courtyard #courtyardhouse #alvaraalto #luisbarragan #charlescorrea #alhambra #precedentstudy"
+    },
+    {
+      "id": "guess-the-building-2",
+      "kind": "guess",
+      "tag": "Guess the building",
+      "title": "Name these four from one detail",
+      "sub": "Answers on the last slide",
+      "items": [
+        {
+          "b": "solomon-r-guggenheim-museum",
+          "img": 5,
+          "zoom": 1.4,
+          "x": 50,
+          "y": 50
+        },
+        {
+          "b": "barcelona-pavilion",
+          "img": 7,
+          "zoom": 1.6,
+          "x": 50,
+          "y": 62
+        },
+        {
+          "b": "guggenheim-bilbao",
+          "img": 5,
+          "zoom": 1.6,
+          "x": 50,
+          "y": 40
+        },
+        {
+          "b": "seagram-building",
+          "img": 4,
+          "zoom": 1.5,
+          "x": 40,
+          "y": 40
+        }
+      ],
+      "hashtags": "#architecturestudent #architecturequiz #guessthebuilding #miesvanderrohe #franklloydwright #frankgehry #precedentstudy"
+    },
+    {
+      "id": "louis-kahn",
+      "kind": "idea",
+      "tag": "Architect",
+      "idea": "Louis Kahn",
+      "find": "More by Louis Kahn",
+      "title": "Louis Kahn in five",
+      "sub": "Concrete, brick and daylight",
+      "cover": {
+        "b": "salk-institute",
+        "img": 1
+      },
+      "slides": [
+        {
+          "b": "salk-institute",
+          "img": 2
+        },
+        {
+          "b": "kimbell-art-museum",
+          "img": 0
+        },
+        {
+          "b": "phillips-exeter-academy-library",
+          "img": 2
+        },
+        {
+          "b": "national-assembly-of-bangladesh",
+          "img": 0
+        },
+        {
+          "b": "iim-ahmedabad",
+          "img": 0
+        }
+      ],
+      "hashtags": "#louiskahn #architecturestudent #salkinstitute #kimbellartmuseum #iimahmedabad #modernarchitecture #precedentstudy"
+    },
+    {
+      "id": "adaptive-reuse",
+      "kind": "idea",
+      "tag": "Idea",
+      "idea": "Adaptive reuse",
+      "title": "Adaptive reuse",
+      "sub": "Five old structures given a new life",
+      "cover": {
+        "b": "zeitz-mocaa",
+        "img": 4
+      },
+      "slides": [
+        {
+          "b": "castelvecchio-museum",
+          "img": 3
+        },
+        {
+          "b": "sesc-pompeia",
+          "img": 3
+        },
+        {
+          "b": "tate-modern",
+          "img": 0
+        },
+        {
+          "b": "zeitz-mocaa",
+          "img": 3
+        },
+        {
+          "b": "high-line",
+          "img": 1
+        }
+      ],
+      "hashtags": "#adaptivereuse #architecturestudent #carloscarpa #linabobardi #herzogdemeuron #thomasheatherwick #precedentstudy"
+    },
+    {
+      "id": "brick",
+      "kind": "idea",
+      "tag": "Idea",
+      "idea": "Brick",
+      "title": "Brick",
+      "sub": "Five precedents in one humble material",
+      "cover": {
+        "b": "saynatsalo-town-hall",
+        "img": 5
+      },
+      "slides": [
+        {
+          "b": "saynatsalo-town-hall",
+          "img": 1
+        },
+        {
+          "b": "phillips-exeter-academy-library",
+          "img": 1
+        },
+        {
+          "b": "cept-university",
+          "img": 1
+        },
+        {
+          "b": "tate-modern",
+          "img": 2
+        },
+        {
+          "b": "ningbo-history-museum",
+          "img": 1
+        }
+      ],
+      "hashtags": "#brickarchitecture #architecturestudent #alvaraalto #louiskahn #bvdoshi #wangshu #materiality #precedentstudy"
     }
   ]
 }
