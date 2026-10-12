@@ -4,20 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Discover Architecture · a wall of 1,600 buildings for architecture students</title>
-<meta name="description" content="A wall of 1,600 buildings for architecture students, India and South Asia first: free photos with credits, key features, and links to plans, sections and articles for case studies.">
+<meta name="description" content="A wall of 1,600 buildings for architecture students, India and South Asia first: free photos with credits, key features, links to plans, sections and articles for case studies, and the books to read.">
 <link rel="canonical" href="https://akshatpagariya909-svg.github.io/Pagaria/">
 <meta property="og:site_name" content="Discover Architecture">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Discover Architecture · the wall">
-<meta property="og:description" content="A wall of 1,600 buildings for architecture students, India and South Asia first: free photos with credits, key features, and links to plans, sections and articles for case studies.">
+<meta property="og:description" content="A wall of 1,600 buildings for architecture students, India and South Asia first: free photos with credits, key features, links to plans, sections and articles for case studies, and the books to read.">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Discover Architecture", "alternateName": ["Discover Architecture · the wall", "discoverarchitecture.in"], "url": "https://akshatpagariya909-svg.github.io/Pagaria/", "description": "A wall of 1,600 buildings for architecture students, India and South Asia first.", "inLanguage": "en"}</script>
 <meta property="og:url" content="https://akshatpagariya909-svg.github.io/Pagaria/">
 <meta property="og:image" content="https://akshatpagariya909-svg.github.io/Pagaria/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=37d6c69e">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=af069678">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -28,6 +28,10 @@
 <header class="bar">
   <a class="mark" href="#" id="home">Discover<br><span class="accent">Architecture.</span></a>
   <div class="bar-mid">
+    <div class="mode" role="group" aria-label="Buildings or books">
+      <button type="button" id="modeBuildings" aria-pressed="true">Buildings</button>
+      <button type="button" id="modeBooks" aria-pressed="false">Books</button>
+    </div>
     <label class="search">
       <span class="sr">Search buildings, architects, cities or ideas</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
@@ -37,10 +41,10 @@
   </div>
   <div class="bar-end">
     <span class="count" id="count">100 buildings</span>
-    <a class="btn ghost" href="buildings/">All buildings</a>
+    <a class="btn ghost" href="buildings/" id="allLink">All buildings</a>
   </div>
 </header>
-<nav class="ideas" id="ideas" aria-label="Browse by idea"></nav>
+<nav class="ideas" id="ideas" aria-label="Browse by idea"><div class="mode-slot" id="modeSlot"></div><div class="ideas-list" id="ideasList"></div></nav>
 
 <div class="filters" id="filters" hidden><div class="fp" id="fp" role="dialog" aria-modal="true" aria-label="Filters"></div></div>
 
@@ -84,8 +88,9 @@
       <p class="meta" id="bMeta"></p>
       <p class="study" id="bStudy"></p>
       <section>
-        <h2>Go deeper</h2>
+        <h2 id="linksTitle">Go deeper</h2>
         <div class="links" id="links"></div>
+        <p class="hint" id="shopNote" hidden>Shop links may earn this site a small commission. The price is the same for you.</p>
       </section>
       <a class="page-link" id="pageLink" href="#">Open the full page →</a>
       <section id="byArch">
@@ -99,7 +104,7 @@
       <section>
         <h2>Find more with</h2>
         <div class="chips" id="bChips"></div>
-        <p class="hint">Each opens every building that shares the idea.</p>
+        <p class="hint" id="chipsHint">Each opens every building that shares the idea.</p>
       </section>
     </div>
   </article>
@@ -122,7 +127,8 @@
 <script src="data/architects.js?v=046f0729"></script>
 <script src="data/filters.js?v=9e9876ee"></script>
 <script src="data/world.js?v=5709bcc2"></script>
-<script src="app.js?v=fe54daac"></script>
+<script src="data/books.js?v=9acaeb87"></script>
+<script src="app.js?v=68fc389a"></script>
 <script src="filter.js?v=eeaf93fd"></script>
 </body>
 </html>
