@@ -292,7 +292,7 @@
    "Water",
    "Detail"
   ],
-  "features": "A modern house on the Giudecca canal that reinterprets the Venetian palazzo: plastered walls, framed windows, a light cornice.",
+  "features": "A modern house on the Giudecca canal that reworks the Venetian palazzo: plaster walls, framed windows.",
   "status": "photo",
   "commons_category": "Category:Casa alle Zattere (Venice)",
   "photos": [
@@ -487,7 +487,7 @@
    "Sculptural form",
    "Exposed concrete"
   ],
-  "features": "A continuous thin concrete membrane, form-found from soap-film models, carries the deck on four arches.",
+  "features": "A continuous thin concrete membrane, form-found from soap-film models, carries the deck over four spans.",
   "status": "photo",
   "commons_category": "Category:Viadotto dell’Industria",
   "photos": [
@@ -1067,7 +1067,7 @@
    "Geometry",
    "Public space"
   ],
-  "features": "A long grid-framed concrete block raised over an open ground floor, part of an unfinished Bauhaus-inspired cultural centre.",
+  "features": "A long grid-framed concrete block over an open ground floor, part of an unfinished cultural centre.",
   "status": "photo",
   "commons_category": "Category:Athens Conservatoire",
   "photos": [
@@ -1180,7 +1180,7 @@
    "Cantilever",
    "Community"
   ],
-  "features": "Interwar apartment block on Exarchia Square with curved cantilevered balconies and a shared roof garden.",
+  "features": "Interwar apartment block on Exarchia Square, its corner wrapped in curved cantilevered balconies.",
   "status": "photo",
   "commons_category": null,
   "photos": [
@@ -1281,7 +1281,7 @@
    "Geometry",
    "Stone"
   ],
-  "features": "A rusticated stone base and a front split down the middle under a broken, gable-like roof: modernism playing with the classical.",
+  "features": "A rusticated stone base and a front split down the middle under a broken gable: modernism playing with the classical.",
   "status": "photo",
   "commons_category": null,
   "photos": [
@@ -1444,7 +1444,7 @@
    "Landscape",
    "Steel & glass"
   ],
-  "features": "Two thin concrete slabs on slender steel posts, glazed and shuttered between, floating over stone terrace walls by the sea.",
+  "features": "Two thin concrete slabs on slender steel posts, glazed and shuttered between, above stone terrace walls.",
   "status": "drawn",
   "commons_category": null,
   "photos": [],
@@ -1515,5 +1515,119 @@
    "http://blog.2modern.com/2007/06/takis_zenetos_a.html"
   ],
   "note": "No Commons photo. Sources: three-floor circular building, three standard modules of 160 pupils per floor round a central audio-visual core, concrete and metal, 'a succession of louvred roofs surrounding the southern semi-circle of the three floors'. Diameter-to-height ratio and mullion count are approximate. Built 1970-76 (designed 1969); Agios Dimitrios is a suburb of Athens, not Lycabettus."
+ },
+ {
+  "id": "casa-baldi",
+  "name": "Casa Baldi",
+  "by": "Paolo Portoghesi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1961",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Load-bearing tufa walls curve concave outside and convex inside, a Borromini-inspired modern house on a quarried hill.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://censimentoarchitetturecontemporanee.cultura.gov.it/scheda-opera?id=507",
+   "https://archidiap.com/opera/casa-baldi/",
+   "https://www.casalgrandepadana.com/media/filer_public/ce/2f/ce2ff374-20b1-4cde-989f-2a74494501fe/cp_gp_casabaldi_cartella_stampa_en.pdf",
+   "https://www.wallpaper.com/architecture/paolo-portoghesi-architecture-icon-italy"
+  ],
+  "note": "No Commons photo (Category:Casa Baldi (Olevano Romano) is a different building). Sources confirm curved tufa walls and a flat roof, and a level added in 1971, but the arrangement of walls and roof planes can't be fixed from text alone; an elevation would also hide the curves. Needs a plan or photo to draw."
+ },
+ {
+  "id": "casa-giuliani-frigerio",
+  "name": "Casa Giuliani-Frigerio",
+  "by": "Giuseppe Terragni",
+  "city": "Como",
+  "cc": "IT",
+  "year": "1940",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "Every facade is composed differently, balcony planes projecting before recessed windows; Terragni's last building.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archweb.com/en/architetture/casa-giuliani-frigerio/",
+   "https://www.lombardiabeniculturali.it/architetture/schede/3m080-00045/",
+   "https://www.architectsjournal.co.uk/archive/terragni-como",
+   "https://www.koreascience.or.kr/article/JAKO201708642733323.page"
+  ],
+  "note": "No Commons photo found, though Terragni died in 1943 so photos would be free in Italy; worth asking for an upload. Sources disagree on storey count (four vs five) and the four facades differ in detail, so I didn't draw it."
+ },
+ {
+  "id": "zanussi-offices-porcia",
+  "name": "Zanussi Offices",
+  "by": "Gino Valle",
+  "city": "Porcia",
+  "cc": "IT",
+  "year": "1961",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Section"
+  ],
+  "features": "Exposed-concrete offices forming the factory's edge on the main road, with sloping glass terraces lit from above.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://atlantearchitetturacontemporanea.cultura.gov.it/en/uffici-per-le-industrie-zanussi-a-porcia/",
+   "https://www.archinform.net/projekte/1193.htm",
+   "https://theplanjournal.com/node/545"
+  ],
+  "note": "No Commons photo. Sources give exposed concrete, a long edge along via Pontebbana and sloping glass terraces on the north side, but not enough to fix the section and facade with confidence."
+ },
+ {
+  "id": "villa-ottolenghi",
+  "name": "Villa Ottolenghi",
+  "by": "Carlo Scarpa",
+  "city": "Bardolino",
+  "cc": "IT",
+  "year": "1978",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Stone"
+  ],
+  "features": "A house sunk into the slope above Lake Garda, its walkable roof level with the road, on nine drum columns.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://c20society.org.uk/building-of-the-month/villa-ottolenghi-lake-garda-verona-italy",
+   "https://www.nssmag.com/en/pills/16356/villa-ottolenghi-a-great-house-whose-roof-is-the-sky",
+   "https://archeyes.com/?p=33163"
+  ],
+  "note": "No Commons photo. Mostly buried in the hillside, so an elevation would show little; the U-shaped plan and column layout would need the published drawings. Designed 1974, finished after Scarpa's death (1978)."
  }
 ]
