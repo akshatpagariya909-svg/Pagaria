@@ -147876,7 +147876,81 @@ window.BUILDINGS = [
    45.85175,
    11.87491
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Sale_Gipsoteca_canoviana_09.jpg/1280px-Sale_Gipsoteca_canoviana_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Sale Gipsoteca canoviana",
+    "credit": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sale_Gipsoteca_canoviana_09.jpg",
+    "file": "File:Sale Gipsoteca canoviana 09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingresso_gipsoteca_Canova.jpg/1280px-Ingresso_gipsoteca_Canova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Ingresso gipsoteca Canova",
+    "credit": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ingresso_gipsoteca_Canova.jpg",
+    "file": "File:Ingresso gipsoteca Canova.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Possagno_-_Gipsoteca_canoviana_-_2024-09-06_13-56-17_001.JPG/1280px-Possagno_-_Gipsoteca_canoviana_-_2024-09-06_13-56-17_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fabior04",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Possagno_-_Gipsoteca_canoviana_-_2024-09-06_13-56-17_001.JPG",
+    "file": "File:Possagno - Gipsoteca canoviana - 2024-09-06 13-56-17 001.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Sale_Gipsoteca_canoviana_09.jpg/1280px-Sale_Gipsoteca_canoviana_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Sale Gipsoteca canoviana",
+    "credit": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sale_Gipsoteca_canoviana_09.jpg",
+    "file": "File:Sale Gipsoteca canoviana 09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Possagno%2C_Gipsoteca_Canoviana_2.jpg/1280px-Possagno%2C_Gipsoteca_Canoviana_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/4.webp",
+    "w": 1280,
+    "h": 659,
+    "kind": "Interior",
+    "caption": "Interior · gipsoteca del canova, canova plaster cast gallery extension, possagno 1955-57",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Possagno,_Gipsoteca_Canoviana_2.jpg",
+    "file": "File:Possagno, Gipsoteca Canoviana 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Possagno%2C_Gipsoteca_Canoviana.jpg/1280px-Possagno%2C_Gipsoteca_Canoviana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gipsoteca-canoviana/thumbs/5.webp",
+    "w": 1143,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · gipsoteca del canova, canova plaster cast gallery extension, possagno 1955-57",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Possagno,_Gipsoteca_Canoviana.jpg",
+    "file": "File:Possagno, Gipsoteca Canoviana.jpg"
+   }
+  ]
  },
  {
   "id": "the-smiling-lion",
@@ -147903,7 +147977,57 @@ window.BUILDINGS = [
    -25.96277,
    32.59049
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/O_Le%C3%A3o_Que_Ri_building_Maputo.JPG/1280px-O_Le%C3%A3o_Que_Ri_building_Maputo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-smiling-lion/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · O Leão Que Ri building, Maputo, Mozambique",
+    "credit": "Jcornelius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_building_Maputo.JPG",
+    "file": "File:O Leão Que Ri building Maputo.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/O_Leao_que_Ri_Panoramio.jpg/1280px-O_Leao_que_Ri_Panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-smiling-lion/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Smiling Lion building, Maputo, Mozambique",
+    "credit": "Tadpolefarm  from panoramio.com",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Leao_que_Ri_Panoramio.jpg",
+    "file": "File:O Leao que Ri Panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG/1280px-O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-smiling-lion/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Statue at the O Leão Que Ri building, Maputo, Mozambique",
+    "credit": "Jcornelius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG",
+    "file": "File:O Leão Que Ri Maputo statue.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG/1280px-O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-smiling-lion/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Detail at the façade of the O Leão Que Ri building, Maputo, Mozambique",
+    "credit": "Jcornelius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG",
+    "file": "File:O Leão Que Ri detail Maputo.JPG"
+   }
+  ]
  },
  {
   "id": "borujerdi-house",
@@ -147930,7 +148054,81 @@ window.BUILDINGS = [
    33.97458,
    51.44064
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Borujerdis_House_%286224057696%29.jpg/1280px-Borujerdis_House_%286224057696%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "reibai",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borujerdis_House_(6224057696).jpg",
+    "file": "File:Borujerdis House (6224057696).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Borujerdi_House_-1DSC_4600.jpg/1280px-Borujerdi_House_-1DSC_4600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Aminfadakarr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borujerdi_House_-1DSC_4600.jpg",
+    "file": "File:Borujerdi House -1DSC 4600.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Borujerdi_House_%281%29%2C_Kashan_by_ImanFakhri.jpg/1280px-Borujerdi_House_%281%29%2C_Kashan_by_ImanFakhri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · Borujerdi House, Kashan",
+    "credit": "ImanFakhri",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borujerdi_House_(1),_Kashan_by_ImanFakhri.jpg",
+    "file": "File:Borujerdi House (1), Kashan by ImanFakhri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Borujerdi_House_%282%29%2C_Kashan_by_ImanFakhri.jpg/1280px-Borujerdi_House_%282%29%2C_Kashan_by_ImanFakhri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · Borujerdi House, Kashan",
+    "credit": "ImanFakhri",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borujerdi_House_(2),_Kashan_by_ImanFakhri.jpg",
+    "file": "File:Borujerdi House (2), Kashan by ImanFakhri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ceiling_with_Alabaster_Skylight%2C_Borujerdi_House%2C_Kashan_%2814471808901%29.jpg/1280px-Ceiling_with_Alabaster_Skylight%2C_Borujerdi_House%2C_Kashan_%2814471808901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Ceiling with Alabaster Skylight, Borujerdi House, Kashan",
+    "credit": "Julia Maudlin  from Lake Oswego, Oregon, and St Petersburg, Florida, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling_with_Alabaster_Skylight,_Borujerdi_House,_Kashan_(14471808901).jpg",
+    "file": "File:Ceiling with Alabaster Skylight, Borujerdi House, Kashan (14471808901).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Khan-e_Borujerdi_Ceiling%2C_Kashan_001_%284163700547%29.jpg/1280px-Khan-e_Borujerdi_Ceiling%2C_Kashan_001_%284163700547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borujerdi-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail · Khan-e Borujerdi Ceiling, Kashan 001",
+    "credit": "american_rugbier",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khan-e_Borujerdi_Ceiling,_Kashan_001_(4163700547).jpg",
+    "file": "File:Khan-e Borujerdi Ceiling, Kashan 001 (4163700547).jpg"
+   }
+  ]
  },
  {
   "id": "takiyya-al-sulaymaniyya",
@@ -147957,7 +148155,81 @@ window.BUILDINGS = [
    33.51231,
    36.29134
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D8%AF%D9%85%D8%B4%D9%82_%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9.jpg/1280px-%D8%AF%D9%85%D8%B4%D9%82_%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Khaled ajlani",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%AF%D9%85%D8%B4%D9%82_%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%D8%A9.jpg",
+    "file": "File:دمشق التكية السليمانية.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Takiyya_as-S%C3%BCleimaniyya_02.jpg/1280px-Takiyya_as-S%C3%BCleimaniyya_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcaded cells at the Takiyya as-Süleimaniyya complex in Damascus, Syria",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takiyya_as-S%C3%BCleimaniyya_02.jpg",
+    "file": "File:Takiyya as-Süleimaniyya 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Takiyya_as-S%C3%BCleimaniyya_01.jpg/1280px-Takiyya_as-S%C3%BCleimaniyya_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/2.webp",
+    "w": 1280,
+    "h": 991,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcaded cells at the Takiyya as-Süleimaniyya complex in Damascus, Syria",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takiyya_as-S%C3%BCleimaniyya_01.jpg",
+    "file": "File:Takiyya as-Süleimaniyya 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Takiyya_as-S%C3%BCleimaniyya_Mosque2009b.JPG/1280px-Takiyya_as-S%C3%BCleimaniyya_Mosque2009b.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/3.webp",
+    "w": 1280,
+    "h": 1022,
+    "kind": "Exterior",
+    "caption": "Exterior · Takiyya as-Süleimaniyya Mosque",
+    "credit": "Ankara",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takiyya_as-S%C3%BCleimaniyya_Mosque2009b.JPG",
+    "file": "File:Takiyya as-Süleimaniyya Mosque2009b.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Damascus_Tekkiye_complex_courtyard_7893.jpg/1280px-Damascus_Tekkiye_complex_courtyard_7893.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Damascus_Tekkiye_complex_courtyard_7893.jpg",
+    "file": "File:Damascus Tekkiye complex courtyard 7893.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Damascus_Tekkiye_complex_courtyard_7904.jpg/1280px-Damascus_Tekkiye_complex_courtyard_7904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takiyya-al-sulaymaniyya/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Damascus_Tekkiye_complex_courtyard_7904.jpg",
+    "file": "File:Damascus Tekkiye complex courtyard 7904.jpg"
+   }
+  ]
  },
  {
   "id": "perot-museum-of-nature-and-science",
@@ -147984,7 +148256,81 @@ window.BUILDINGS = [
    32.78704,
    -96.80601
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Perot_Museum_of_Nature_and_Science_03.jpg/1280px-Perot_Museum_of_Nature_and_Science_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Perot Museum of Nature and Science , Dallas, Texas",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perot_Museum_of_Nature_and_Science_03.jpg",
+    "file": "File:Perot Museum of Nature and Science 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/View_of_Perot_Museum_of_Nature_and_Science_from_Reunion_Tower_August_2015_16.jpg/1280px-View_of_Perot_Museum_of_Nature_and_Science_from_Reunion_Tower_August_2015_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Perot_Museum_of_Nature_and_Science_from_Reunion_Tower_August_2015_16.jpg",
+    "file": "File:View of Perot Museum of Nature and Science from Reunion Tower August 2015 16.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/NanuqsaurusSkeleton1.jpg/1280px-NanuqsaurusSkeleton1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Reconstructed skeletal mount of Nanuqsaurus hoglundi at the Perot Museum, Dallas, TX",
+    "credit": "Geekgecko",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:NanuqsaurusSkeleton1.jpg",
+    "file": "File:NanuqsaurusSkeleton1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/NanuqsaurusSkeleton2.jpg/1280px-NanuqsaurusSkeleton2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Reconstructed skeletal mount of Nanuqsaurus hoglundi at the Perot Museum, Dallas, TX",
+    "credit": "Geekgecko",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:NanuqsaurusSkeleton2.jpg",
+    "file": "File:NanuqsaurusSkeleton2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Perot_Museum_of_Nature_and_Science_February_2018_1_%28Life_Then_and_Now_Hall%29.jpg/1280px-Perot_Museum_of_Nature_and_Science_February_2018_1_%28Life_Then_and_Now_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Life Then and Now Hall inside the Perot Museum of Nature and Science in Dallas , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perot_Museum_of_Nature_and_Science_February_2018_1_(Life_Then_and_Now_Hall).jpg",
+    "file": "File:Perot Museum of Nature and Science February 2018 1 (Life Then and Now Hall).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Perot_Museum_of_Nature_and_Science_February_2018_2_%28Dynamic_Earth_Hall%29.jpg/1280px-Perot_Museum_of_Nature_and_Science_February_2018_2_%28Dynamic_Earth_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perot-museum-of-nature-and-science/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Dynamic Earth Hall inside the Perot Museum of Nature and Science in Dallas , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perot_Museum_of_Nature_and_Science_February_2018_2_(Dynamic_Earth_Hall).jpg",
+    "file": "File:Perot Museum of Nature and Science February 2018 2 (Dynamic Earth Hall).jpg"
+   }
+  ]
  },
  {
   "id": "town-house-kingston-university",
@@ -148011,7 +148357,57 @@ window.BUILDINGS = [
    51.4035,
    -0.3039
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pride_in_London_2016_-_KTC_%2865%29.jpg/1280px-Pride_in_London_2016_-_KTC_%2865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/town-house-kingston-university/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Pride in London 2016 - Kingston University's LGBTQ+ Society",
+    "credit": "Katie Chan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pride_in_London_2016_-_KTC_(65).jpg",
+    "file": "File:Pride in London 2016 - KTC (65).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Kingston_University%2C_Kingston_Hill_Campus_-_geograph.org.uk_-_3532814.jpg/1280px-Kingston_University%2C_Kingston_Hill_Campus_-_geograph.org.uk_-_3532814.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/town-house-kingston-university/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kingston University: Kingston Hill Campus",
+    "credit": "Dr Neil Clifton",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingston_University,_Kingston_Hill_Campus_-_geograph.org.uk_-_3532814.jpg",
+    "file": "File:Kingston University, Kingston Hill Campus - geograph.org.uk - 3532814.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/ObliqO_recreational_vehicle.jpg/1280px-ObliqO_recreational_vehicle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/town-house-kingston-university/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · ObliqO is a recreational vehicle designed by Michele Camerlengo in collaboration with Kingston University",
+    "credit": "Hotjigax",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ObliqO_recreational_vehicle.jpg",
+    "file": "File:ObliqO recreational vehicle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Nedu-Eche_Nduka.jpg/1280px-Nedu-Eche_Nduka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/town-house-kingston-university/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Echezonachukwu Nduka at Kingston University London in July 2015",
+    "credit": "Lightpentracker271",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nedu-Eche_Nduka.jpg",
+    "file": "File:Nedu-Eche Nduka.jpg"
+   }
+  ]
  },
  {
   "id": "national-museum-architecture",
@@ -148038,7 +148434,81 @@ window.BUILDINGS = [
    59.91166666666667,
    10.729166666666666
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Nasjonalgalleriet_oslo.jpg/1280px-Nasjonalgalleriet_oslo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · The national gallery in Oslo, Norway",
+    "credit": "Bjørn Erik Pedersen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasjonalgalleriet_oslo.jpg",
+    "file": "File:Nasjonalgalleriet oslo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/NasjonalmuseetVestbanen.JPG/1280px-NasjonalmuseetVestbanen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/1.webp",
+    "w": 1280,
+    "h": 634,
+    "kind": "Exterior",
+    "caption": "Exterior · Construction site, the National Museum of Art and Design, Oslo, August 2016",
+    "credit": "DangerMouse",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NasjonalmuseetVestbanen.JPG",
+    "file": "File:NasjonalmuseetVestbanen.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nasjonalmuseet_for_kunst%2C_arkitektur_og_design_%28National_Museum_of_Norway_building_opened_2022%29_fa%C3%A7ade_facing_northwest_Dronning_Mauds_g_Operatunnelen_Munkedamsveien_Riksvei_162_%28Ringvei_1%29_OSLO_Norway_2025-12-28_%28ultra_wide_lense%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · National Museum of Norway (Norwegian: Nasjonalmuseet for kunst ) in Oslo , Norway ",
+    "credit": "Wolfmann",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasjonalmuseet_for_kunst,_arkitektur_og_design_(National_Museum_of_Norway_building_opened_2022)_fa%C3%A7ade_facing_northwest_Dronning_Mauds_g_Operatunnelen_Munkedamsveien_Riksvei_162_(Ringvei_1)_OSLO_Norway_2025-12-28_(ultra_wide_lense).jpg",
+    "file": "File:Nasjonalmuseet for kunst, arkitektur og design (National Museum of Norway building opened 2022) façade facing northwest Dronning Mauds g Operatunnelen Munkedamsveien Riksvei 162 (Ringvei 1) OSLO Norway 2025-12-28 (ultra wide lense).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Nasjonalmuseet_for_kunst%2C_arkitektur_og_design_%28National_Museum_of_Norway_building_opened_2022%29_fa%C3%A7ade_facing_northwest_Dronning_Mauds_gate_Operatunnelen_Riksvei_162_%28Ringvei_1_Ibsen-ringen%29_OSLO_Norway_2025-12-28_IMG_7704.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · National Museum of Norway (Norwegian: Nasjonalmuseet for kunst ) in Oslo , Norway ",
+    "credit": "Wolfmann",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasjonalmuseet_for_kunst,_arkitektur_og_design_(National_Museum_of_Norway_building_opened_2022)_fa%C3%A7ade_facing_northwest_Dronning_Mauds_gate_Operatunnelen_Riksvei_162_(Ringvei_1_Ibsen-ringen)_OSLO_Norway_2025-12-28_IMG_7704.jpg",
+    "file": "File:Nasjonalmuseet for kunst, arkitektur og design (National Museum of Norway building opened 2022) façade facing northwest Dronning Mauds gate Operatunnelen Riksvei 162 (Ringvei 1 Ibsen-ringen) OSLO Norway 2025-12-28 IMG 7704.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._03.jpg/1280px-%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/4.webp",
+    "w": 1280,
+    "h": 661,
+    "kind": "Interior",
+    "caption": "Interior · Tour of the Norwegian National Museum",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._03.jpg",
+    "file": "File:\"Das Nationalmuseum bietet eine Dauerausstellung mit rund 5000 Objekten\". 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._04.jpg/1280px-%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-architecture/thumbs/5.webp",
+    "w": 1280,
+    "h": 752,
+    "kind": "Interior",
+    "caption": "Interior · Tour of the Norwegian National Museum",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Das_Nationalmuseum_bietet_eine_Dauerausstellung_mit_rund_5000_Objekten%22._04.jpg",
+    "file": "File:\"Das Nationalmuseum bietet eine Dauerausstellung mit rund 5000 Objekten\". 04.jpg"
+   }
+  ]
  },
  {
   "id": "l-d-institute-of-indology",
@@ -148065,7 +148535,57 @@ window.BUILDINGS = [
    23.2,
    72.33
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Meister_des_Chaurapa%C3%B1ch%C3%A2sik%C3%A2-Manuskripts_001.jpg/1280px-Meister_des_Chaurapa%C3%B1ch%C3%A2sik%C3%A2-Manuskripts_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/l-d-institute-of-indology/thumbs/0.webp",
+    "w": 1280,
+    "h": 966,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Unknown -- Meister des Chaurapañchâsikâ-Manuskripts",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Meister_des_Chaurapa%C3%B1ch%C3%A2sik%C3%A2-Manuskripts_001.jpg",
+    "file": "File:Meister des Chaurapañchâsikâ-Manuskripts 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Indischer_Maler_um_1750_%28I%29_001.jpg/1280px-Indischer_Maler_um_1750_%28I%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/l-d-institute-of-indology/thumbs/1.webp",
+    "w": 1152,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Indischer Maler um 1750 (I)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Indischer_Maler_um_1750_(I)_001.jpg",
+    "file": "File:Indischer Maler um 1750 (I) 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Meister_des_G%C3%AEt%C3%A2-Govinda-Manuskripts_001.jpg/1280px-Meister_des_G%C3%AEt%C3%A2-Govinda-Manuskripts_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/l-d-institute-of-indology/thumbs/2.webp",
+    "w": 1280,
+    "h": 755,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Meister des Gîtâ-Govinda-Manuskripts",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Meister_des_G%C3%AEt%C3%A2-Govinda-Manuskripts_001.jpg",
+    "file": "File:Meister des Gîtâ-Govinda-Manuskripts 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra%2C_ca.1785.jpg/1280px-Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra%2C_ca.1785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/l-d-institute-of-indology/thumbs/3.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Miniature painting of Gurbaksh Singh Kanhaiya (his first-name is alt",
+    "credit": "Family atelier of Purkhu of Kangra",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra,_ca.1785.jpg",
+    "file": "File:Miniature painting of Gurbaksh Singh Kanhaiya with a fly-whisk attendant. Family atelier of Purkhu of Kangra, ca.1785.jpg"
+   }
+  ]
  },
  {
   "id": "national-crafts-museum",
@@ -148092,7 +148612,81 @@ window.BUILDINGS = [
    28.613551,
    77.24232
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%95%E0%A4%B2%E0%A4%BE_%E0%A4%95%E0%A5%8C%E0%A4%B6%E0%A4%B2_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.JPG/1280px-%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%95%E0%A4%B2%E0%A4%BE_%E0%A4%95%E0%A5%8C%E0%A4%B6%E0%A4%B2_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Crafts Museum, New Delhi",
+    "credit": "Anilbhardwajnoida",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%95%E0%A4%B2%E0%A4%BE_%E0%A4%95%E0%A5%8C%E0%A4%B6%E0%A4%B2_%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0.JPG",
+    "file": "File:शिल्प कला कौशल कार्यक्रम का क्षेत्र.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bronze_lamps_and_incense_burners%2C_National_Crafts_Museum%2C_New_Delhi.jpg/1280px-Bronze_lamps_and_incense_burners%2C_National_Crafts_Museum%2C_New_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Niranjan Ramamurthy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bronze_lamps_and_incense_burners,_National_Crafts_Museum,_New_Delhi.jpg",
+    "file": "File:Bronze lamps and incense burners, National Crafts Museum, New Delhi.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Trees_in_March_2024_in_Crafts_Museum%2C_Delhi%2C_India.jpg/1280px-Trees_in_March_2024_in_Crafts_Museum%2C_Delhi%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Trees",
+    "credit": "Mukteshwaraiyya",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trees_in_March_2024_in_Crafts_Museum,_Delhi,_India.jpg",
+    "file": "File:Trees in March 2024 in Crafts Museum, Delhi, India.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Decorated_bed%2C_Crafts_Museum%2C_Delhi.jpg/1280px-Decorated_bed%2C_Crafts_Museum%2C_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 856,
+    "kind": "Exterior",
+    "caption": "Exterior · Decorated bed, Crafts Museum, New Delhi, India",
+    "credit": "Yann  (  talk  )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Decorated_bed,_Crafts_Museum,_Delhi.jpg",
+    "file": "File:Decorated bed, Crafts Museum, Delhi.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7.jpg/1280px-%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · Audio Visual Room",
+    "credit": "Anilbhardwajnoida",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%A4%A6%E0%A5%83%E0%A4%B6%E0%A5%8D%E0%A4%AF-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%8D%E0%A4%AF_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7.jpg",
+    "file": "File:दृश्य-श्रव्य कक्ष.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%AF_%E0%A4%B5%E0%A5%80%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6_%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0.jpg/1280px-%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%AF_%E0%A4%B5%E0%A5%80%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6_%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-crafts-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Detail",
+    "caption": "Detail · One of the entrance doors to the Crafts Museum, New Delhi",
+    "credit": "Anilbhardwajnoida",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%A4%B6%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AA_%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%BE%E0%A4%B2%E0%A4%AF_%E0%A4%B5%E0%A5%80%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A5%87%E0%A4%B6_%E0%A4%A6%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B0.jpg",
+    "file": "File:शिल्प संग्रहालय वीथियों का प्रवेश द्वार.jpg"
+   }
+  ]
  },
  {
   "id": "kala-academy",
@@ -148119,7 +148713,69 @@ window.BUILDINGS = [
    15.4942839,
    73.8176938
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kala_Academy%2C_Goa.jpg/1280px-Kala_Academy%2C_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kala-academy/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alisha Nicole Carvalho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kala_Academy,_Goa.jpg",
+    "file": "File:Kala Academy, Goa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Library_at_Kala_Academy_Goa.jpg/1280px-Library_at_Kala_Academy_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kala-academy/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The small and well maintained library at Kala Academy Goa",
+    "credit": "Alisha Nicole Carvalho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Library_at_Kala_Academy_Goa.jpg",
+    "file": "File:Library at Kala Academy Goa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kala_Academy_library.jpg/1280px-Kala_Academy_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kala-academy/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Diksha Mhaskar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kala_Academy_library.jpg",
+    "file": "File:Kala Academy library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/KALA_ACADEMY_GOA.jpg/1280px-KALA_ACADEMY_GOA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kala-academy/thumbs/3.webp",
+    "w": 1280,
+    "h": 724,
+    "kind": "Exterior",
+    "caption": "Exterior · designed by charles korrea",
+    "credit": "Vighneshshirgurkar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KALA_ACADEMY_GOA.jpg",
+    "file": "File:KALA ACADEMY GOA.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kala_academy_Panjim_auditorium.jpg/1280px-Kala_academy_Panjim_auditorium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kala-academy/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the main auditorium of the Kala Academy, Panjim, Goa",
+    "credit": "Alarichall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kala_academy_Panjim_auditorium.jpg",
+    "file": "File:Kala academy Panjim auditorium.jpg"
+   }
+  ]
  },
  {
   "id": "open-hand-monument",
@@ -148146,7 +148802,81 @@ window.BUILDINGS = [
    30.759,
    76.8074
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Open_Hand_Monument.JPG/1280px-Open_Hand_Monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is the Open Hand Monument at Sukhna Lake",
+    "credit": "ShashankSharma2511",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Open_Hand_Monument.JPG",
+    "file": "File:Open Hand Monument.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Open_Hand_monument%2C_Chandigarh.jpg/1280px-Open_Hand_monument%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Open hand is the geographical representation of the city of Chandigarh located in North India",
+    "credit": "Raakesh Blokhra",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg",
+    "file": "File:Open Hand monument, Chandigarh.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_open_palm_is_the_very_symbol_of_Chandigarh_%2830405051708%29.jpg/1280px-The_open_palm_is_the_very_symbol_of_Chandigarh_%2830405051708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "shankar s.  from Poona (pune), India, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_open_palm_is_the_very_symbol_of_Chandigarh_(30405051708).jpg",
+    "file": "File:The open palm is the very symbol of Chandigarh (30405051708).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/The_open_palm_is_the_very_symbol_of_modern_Chandigarh_%2843554632864%29.jpg/1280px-The_open_palm_is_the_very_symbol_of_modern_Chandigarh_%2843554632864%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "shankar s.  from Poona (pune), India, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_open_palm_is_the_very_symbol_of_modern_Chandigarh_(43554632864).jpg",
+    "file": "File:The open palm is the very symbol of modern Chandigarh (43554632864).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Selfie_against_the_%27welcome_one_and_all%27_hand_symbol_%2844271542491%29.jpg/1280px-Selfie_against_the_%27welcome_one_and_all%27_hand_symbol_%2844271542491%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · That's me by the famous Hand sculpture in the northern Indian city of Chandigarh",
+    "credit": "shankar s.  from Poona (pune), India, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Selfie_against_the_%27welcome_one_and_all%27_hand_symbol_(44271542491).jpg",
+    "file": "File:Selfie against the 'welcome one and all' hand symbol (44271542491).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/PPC_of_Chandigarh_Head_Post_Office.jpg/1280px-PPC_of_Chandigarh_Head_Post_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/open-hand-monument/thumbs/5.webp",
+    "w": 1275,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · This PPC depicts the combination of Rose garden and Open Hand Monument in Chandigarh",
+    "credit": "Department of Telecommunications, Government of India",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PPC_of_Chandigarh_Head_Post_Office.jpg",
+    "file": "File:PPC of Chandigarh Head Post Office.jpg"
+   }
+  ]
  },
  {
   "id": "shaheed-minar-dhaka",
@@ -148173,7 +148903,57 @@ window.BUILDINGS = [
    23.72217,
    90.39499
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Shaheed_Minar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/shaheed-minar-dhaka/thumbs/0.webp",
+    "w": 1200,
+    "h": 753,
+    "kind": "Exterior",
+    "caption": "Exterior · Shaheed Minar in Dhaka, Bangladesh",
+    "credit": "Mostaque Ahammed",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shaheed_Minar.JPG",
+    "file": "File:Shaheed Minar.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2022-02-17_State_Minister_for_Women_and_Children_Affairs_inaugurates_Shaheed_Minar_at_Shaheed_Sheikh_Fazilatunnesa_Mujib_Women%27s_Training_Academy_Gazipur_%28PID-0024714%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shaheed-minar-dhaka/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Press Information Department",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-02-17_State_Minister_for_Women_and_Children_Affairs_inaugurates_Shaheed_Minar_at_Shaheed_Sheikh_Fazilatunnesa_Mujib_Women%27s_Training_Academy_Gazipur_(PID-0024714).jpg",
+    "file": "File:2022-02-17 State Minister for Women and Children Affairs inaugurates Shaheed Minar at Shaheed Sheikh Fazilatunnesa Mujib Women's Training Academy Gazipur (PID-0024714).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2024-02-21_Floral_wreath_laying_at_symbolic_Shaheed_Minar_Bangladesh_High_Commission_London_%28PID-0010449%29.jpg/1280px-2024-02-21_Floral_wreath_laying_at_symbolic_Shaheed_Minar_Bangladesh_High_Commission_London_%28PID-0010449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shaheed-minar-dhaka/thumbs/2.webp",
+    "w": 1280,
+    "h": 913,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Press Information Department",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-02-21_Floral_wreath_laying_at_symbolic_Shaheed_Minar_Bangladesh_High_Commission_London_(PID-0010449).jpg",
+    "file": "File:2024-02-21 Floral wreath laying at symbolic Shaheed Minar Bangladesh High Commission London (PID-0010449).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2024-02-21_Floral_Wreath_at_Shaheed_Minar%2C_Bangladesh_Embassy%2C_Washington_DC_%28PID-0010448%29.jpg/1280px-2024-02-21_Floral_Wreath_at_Shaheed_Minar%2C_Bangladesh_Embassy%2C_Washington_DC_%28PID-0010448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shaheed-minar-dhaka/thumbs/3.webp",
+    "w": 1280,
+    "h": 764,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Press Information Department",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-02-21_Floral_Wreath_at_Shaheed_Minar,_Bangladesh_Embassy,_Washington_DC_(PID-0010448).jpg",
+    "file": "File:2024-02-21 Floral Wreath at Shaheed Minar, Bangladesh Embassy, Washington DC (PID-0010448).jpg"
+   }
+  ]
  },
  {
   "id": "lasalle-college-of-the-arts",
@@ -148200,7 +148980,81 @@ window.BUILDINGS = [
    1.303068,
    103.851852
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lasalle_College_Of_The_Arts_01-12-2024.jpg/1280px-Lasalle_College_Of_The_Arts_01-12-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lasalle_College_Of_The_Arts_01-12-2024.jpg",
+    "file": "File:Lasalle College Of The Arts 01-12-2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/LASALLE_College_of_the_Arts_City_Campus_%282025%29_-_img_01.jpg/1280px-LASALLE_College_of_the_Arts_City_Campus_%282025%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LASALLE_College_of_the_Arts_City_Campus_(2025)_-_img_01.jpg",
+    "file": "File:LASALLE College of the Arts City Campus (2025) - img 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/LASALLE_College_of_the_Arts_City_Campus_%282025%29_-_img_02.jpg/1280px-LASALLE_College_of_the_Arts_City_Campus_%282025%29_-_img_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LASALLE_College_of_the_Arts_City_Campus_(2025)_-_img_02.jpg",
+    "file": "File:LASALLE College of the Arts City Campus (2025) - img 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_LASALLE_Show_Exhibition.jpg/1280px-The_LASALLE_Show_Exhibition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The LASALLE Show Exhibition is the college's annual showcase of works by the graduating cohort",
+    "credit": "ScribblingGeek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_LASALLE_Show_Exhibition.jpg",
+    "file": "File:The LASALLE Show Exhibition.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Brother_Joseph_McNally_Gallery%2C_LASALLE_College_of_the_Arts%2C_Singapore_-_20140905.jpg/1280px-Brother_Joseph_McNally_Gallery%2C_LASALLE_College_of_the_Arts%2C_Singapore_-_20140905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · An exhibition of watercolour paintings by Dr",
+    "credit": "Smuconlaw",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brother_Joseph_McNally_Gallery,_LASALLE_College_of_the_Arts,_Singapore_-_20140905.jpg",
+    "file": "File:Brother Joseph McNally Gallery, LASALLE College of the Arts, Singapore - 20140905.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/LASALLE_New_City_Campus_interior.jpg/1280px-LASALLE_New_City_Campus_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lasalle-college-of-the-arts/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior of LASALLE College of the Arts ' City Campus in Rochor , Singapore",
+    "credit": "Cmglee .",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LASALLE_New_City_Campus_interior.jpg",
+    "file": "File:LASALLE New City Campus interior.jpg"
+   }
+  ]
  },
  {
   "id": "jim-thompson-house",
@@ -148227,7 +149081,81 @@ window.BUILDINGS = [
    13.74916667,
    100.52833333
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg/1280px-Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Main House of Jim Thompson",
+    "credit": "Don Ramey Logan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg",
+    "file": "File:Main House of Jim Thompson photo Don Ramey Logan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Silk_loom_at_Jim_Thompson_store_by_Don_Ramey_Logan.jpg/1280px-Silk_loom_at_Jim_Thompson_store_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/1.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · silk loom Jim Thompson store by Don Ramey Logan",
+    "credit": "Don Ramey Logan",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Silk_loom_at_Jim_Thompson_store_by_Don_Ramey_Logan.jpg",
+    "file": "File:Silk loom at Jim Thompson store by Don Ramey Logan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Silk_thread_at_Jim_Thompson_House_%2836345567205%29.jpg/1280px-Silk_thread_at_Jim_Thompson_House_%2836345567205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Hanks of dyed silk thread at the Jim Thompson House, Bangkok",
+    "credit": "xiquinhosilva  from Cacau",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Silk_thread_at_Jim_Thompson_House_(36345567205).jpg",
+    "file": "File:Silk thread at Jim Thompson House (36345567205).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Jim_Thompson_House_Bangkok%2C_Tahiland_%2814881295469%29.jpg/1280px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2814881295469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Jim Thompson House is now a museum in Bangkok",
+    "credit": "Clay Gilliland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(14881295469).jpg",
+    "file": "File:Jim Thompson House Bangkok, Tahiland (14881295469).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Jim_Thompson_House_interiors-004.jpg/1280px-Jim_Thompson_House_interiors-004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Abogomazova",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_interiors-004.jpg",
+    "file": "File:Jim Thompson House interiors-004.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Jim_Thompson_House_Bangkok%2C_Tahiland_%2815064961961%29.jpg/1280px-Jim_Thompson_House_Bangkok%2C_Tahiland_%2815064961961%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jim-thompson-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The Jim Thompson House is now a museum in Bangkok",
+    "credit": "Clay Gilliland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jim_Thompson_House_Bangkok,_Tahiland_(15064961961).jpg",
+    "file": "File:Jim Thompson House Bangkok, Tahiland (15064961961).jpg"
+   }
+  ]
  },
  {
   "id": "independence-monument-cambodia",
@@ -148254,7 +149182,57 @@ window.BUILDINGS = [
    11.5564,
    104.9281
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/1280px-02-Independence_Monument_Phnom_Penh-nX-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/independence-monument-cambodia/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Independence Monument, Phnom Penh",
+    "credit": "PsamatheM",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-3.jpg",
+    "file": "File:02-Independence Monument Phnom Penh-nX-3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/02-Independence_Monument_Phnom_Penh-nX-5.jpg/1280px-02-Independence_Monument_Phnom_Penh-nX-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/independence-monument-cambodia/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Independence Monument, Phnom Penh",
+    "credit": "PsamatheM",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:02-Independence_Monument_Phnom_Penh-nX-5.jpg",
+    "file": "File:02-Independence Monument Phnom Penh-nX-5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Cambodia_2011_monuments_01.jpg/1280px-Cambodia_2011_monuments_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/independence-monument-cambodia/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Phnom Penh Independence Monument from Java Cafe, Preah Sihanouk Blvd",
+    "credit": "Jwslubbock",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambodia_2011_monuments_01.jpg",
+    "file": "File:Cambodia 2011 monuments 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cambodia_2011_monuments_02.jpg/1280px-Cambodia_2011_monuments_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/independence-monument-cambodia/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Phnom Penh Independence Monument from Java Cafe, Preah Sihanouk Blvd",
+    "credit": "Jwslubbock",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambodia_2011_monuments_02.jpg",
+    "file": "File:Cambodia 2011 monuments 02.jpg"
+   }
+  ]
  },
  {
   "id": "ananda-temple",
@@ -148281,7 +149259,81 @@ window.BUILDINGS = [
    21.170903,
    94.867713
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bagan%2C_Myanmar%2C_Ananda_Temple.jpg/1280px-Bagan%2C_Myanmar%2C_Ananda_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · It is a highly revered temple of Bagan",
+    "credit": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagan,_Myanmar,_Ananda_Temple.jpg",
+    "file": "File:Bagan, Myanmar, Ananda Temple.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Bagan_2019_11.jpg/1280px-Bagan_2019_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Ananda Temple, Bagan",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagan_2019_11.jpg",
+    "file": "File:Bagan 2019 11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/20160801_Ananda_Temple_Bagan_Myanmar_6687.jpg/1280px-20160801_Ananda_Temple_Bagan_Myanmar_6687.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/2.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Ananda Temple in Bagan, Myanmar",
+    "credit": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20160801_Ananda_Temple_Bagan_Myanmar_6687.jpg",
+    "file": "File:20160801 Ananda Temple Bagan Myanmar 6687.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20160801_Ananda_Temple_Bagan_Myanmar_6682.jpg/1280px-20160801_Ananda_Temple_Bagan_Myanmar_6682.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/3.webp",
+    "w": 1280,
+    "h": 815,
+    "kind": "Exterior",
+    "caption": "Exterior · Ananda Temple in Bagan, Myanmar",
+    "credit": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20160801_Ananda_Temple_Bagan_Myanmar_6682.jpg",
+    "file": "File:20160801 Ananda Temple Bagan Myanmar 6682.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ananda_Temple_-_Bagan%2C_Myanmar_20130209-06.jpg/1280px-Ananda_Temple_-_Bagan%2C_Myanmar_20130209-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inside the Ananda Temple in en:Bagan , en:Myanmar",
+    "credit": "Hans A. Rosbach",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ananda_Temple_-_Bagan,_Myanmar_20130209-06.jpg",
+    "file": "File:Ananda Temple - Bagan, Myanmar 20130209-06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Ananda_Temple_-_Bagan%2C_Myanmar_20130209-18.jpg/1280px-Ananda_Temple_-_Bagan%2C_Myanmar_20130209-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ananda-temple/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Inside the Ananda Temple in en:Bagan , en:Myanmar",
+    "credit": "Hans A. Rosbach",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ananda_Temple_-_Bagan,_Myanmar_20130209-18.jpg",
+    "file": "File:Ananda Temple - Bagan, Myanmar 20130209-18.jpg"
+   }
+  ]
  },
  {
   "id": "kempegowda-international-airport-terminal-2",
@@ -148308,7 +149360,81 @@ window.BUILDINGS = [
    13.198888888889,
    77.705555555556
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bengaluru-airport.jpg/1280px-Bengaluru-airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bengaluru airport",
+    "credit": "sarang",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bengaluru-airport.jpg",
+    "file": "File:Bengaluru-airport.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Bangalore_Airport_Cargo_Destination.png/1280px-Bangalore_Airport_Cargo_Destination.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/1.webp",
+    "w": 1280,
+    "h": 674,
+    "kind": "Exterior",
+    "caption": "Exterior · Bangalore Airport Cargo Destinations",
+    "credit": "BytesDAL",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangalore_Airport_Cargo_Destination.png",
+    "file": "File:Bangalore Airport Cargo Destination.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kempegowda_International_Airport_%281%29.png/1280px-Kempegowda_International_Airport_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/2.webp",
+    "w": 1280,
+    "h": 645,
+    "kind": "Exterior",
+    "caption": "Exterior · List of countries you can fly to with direct flights from Kempegowda International Airport",
+    "credit": "Minas Giannekas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kempegowda_International_Airport_(1).png",
+    "file": "File:Kempegowda International Airport (1).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Glass_Curtain_Wall_of_Kempegowda_International_airport.jpg/1280px-Glass_Curtain_Wall_of_Kempegowda_International_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Glass Curtain Wall of Kempegowda International airport, Bengaluru",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glass_Curtain_Wall_of_Kempegowda_International_airport.jpg",
+    "file": "File:Glass Curtain Wall of Kempegowda International airport.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Pavilion_on_a_coffee_shop_in_Kempegowda_International_airport.jpg/1280px-Pavilion_on_a_coffee_shop_in_Kempegowda_International_airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Pavilion on a coffee shop in Kempegowda International airport, Bengaluru",
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavilion_on_a_coffee_shop_in_Kempegowda_International_airport.jpg",
+    "file": "File:Pavilion on a coffee shop in Kempegowda International airport.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Indoor_gardens.jpg/1280px-Indoor_gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kempegowda-international-airport-terminal-2/thumbs/5.webp",
+    "w": 1280,
+    "h": 715,
+    "kind": "Detail",
+    "caption": "Detail · indoor gardens at T2, Bengaluru airport",
+    "credit": "Shyamal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indoor_gardens.jpg",
+    "file": "File:Indoor gardens.jpg"
+   }
+  ]
  },
  {
   "id": "kigali-convention-centre",
@@ -148335,7 +149461,81 @@ window.BUILDINGS = [
    -1.95472222,
    30.09388889
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/An_aerial_of_Kigali_Convention_Center_on_June_19%2C_2019._Photo_by_Emmanuel_Kwizera.jpg/1280px-An_aerial_of_Kigali_Convention_Center_on_June_19%2C_2019._Photo_by_Emmanuel_Kwizera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · An aerial of Kigali Convention Center on June 19, 2019",
+    "credit": "Emmanuelkwizera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_aerial_of_Kigali_Convention_Center_on_June_19,_2019._Photo_by_Emmanuel_Kwizera.jpg",
+    "file": "File:An aerial of Kigali Convention Center on June 19, 2019. Photo by Emmanuel Kwizera.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kigali_Convention_Centre_dome_under_construction.jpg/1280px-Kigali_Convention_Centre_dome_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kigali Convention Centre dome",
+    "credit": "leesean",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kigali_Convention_Centre_dome_under_construction.jpg",
+    "file": "File:Kigali Convention Centre dome under construction.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kigali_convention_centre.jpg/1280px-Kigali_convention_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Schlawgclart",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kigali_convention_centre.jpg",
+    "file": "File:Kigali convention centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kigali_photo_in_the_rain.jpg/1280px-Kigali_photo_in_the_rain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This photo is for rain season in Kigali where you the beautiful of trees and convention center",
+    "credit": "UWIMPUHWE Va",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kigali_photo_in_the_rain.jpg",
+    "file": "File:Kigali photo in the rain.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Kigali_Convention_Center_outside_parking_and_compound.jpg/1280px-Kigali_Convention_Center_outside_parking_and_compound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "BalukuBrian",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kigali_Convention_Center_outside_parking_and_compound.jpg",
+    "file": "File:Kigali Convention Center outside parking and compound.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_garden_of_KH_monument.jpg/1280px-The_garden_of_KH_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kigali-convention-centre/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · This monument is located at Kacyiru in the garden of KH",
+    "credit": "UWIMPUHWE Va",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_garden_of_KH_monument.jpg",
+    "file": "File:The garden of KH monument.jpg"
+   }
+  ]
  },
  {
   "id": "basilica-of-sainte-anne-du-congo",
@@ -148362,7 +149562,57 @@ window.BUILDINGS = [
    -4.26846,
    15.28451
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/WPWPCG_08.jpg/1280px-WPWPCG_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/basilica-of-sainte-anne-du-congo/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Eglise Catholique afin d'aller prier",
+    "credit": "NGOULOU BATALA Ryddhel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WPWPCG_08.jpg",
+    "file": "File:WPWPCG 08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Habitats_de_Brazzaville_%284%29.jpg/1280px-Habitats_de_Brazzaville_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/basilica-of-sainte-anne-du-congo/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is an image with the theme \" Home + Habitat in Africa \" from:",
+    "credit": "Xavier Hakiza",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitats_de_Brazzaville_(4).jpg",
+    "file": "File:Habitats de Brazzaville (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Brazzaville_-_Basilique_Sainte-Anne-du-Congo.jpg/1280px-Brazzaville_-_Basilique_Sainte-Anne-du-Congo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/basilica-of-sainte-anne-du-congo/thumbs/2.webp",
+    "w": 1280,
+    "h": 969,
+    "kind": "Exterior",
+    "caption": "Exterior · Basilique mineure située à Brazzaville, capitale de la République du Congo",
+    "credit": "Henri van der Noot",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brazzaville_-_Basilique_Sainte-Anne-du-Congo.jpg",
+    "file": "File:Brazzaville - Basilique Sainte-Anne-du-Congo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Les_endroits_publics_de_Brazzaville%2C_R%C3%A9publique_du_Congo_01.jpg/1280px-Les_endroits_publics_de_Brazzaville%2C_R%C3%A9publique_du_Congo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/basilica-of-sainte-anne-du-congo/thumbs/3.webp",
+    "w": 1280,
+    "h": 963,
+    "kind": "Exterior",
+    "caption": "Exterior · Brazzaville capitale politique de la République du Congo",
+    "credit": "Africany",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Les_endroits_publics_de_Brazzaville,_R%C3%A9publique_du_Congo_01.jpg",
+    "file": "File:Les endroits publics de Brazzaville, République du Congo 01.jpg"
+   }
+  ]
  },
  {
   "id": "tomb-of-nader-shah",
@@ -148389,7 +149639,81 @@ window.BUILDINGS = [
    36.29486,
    59.61044
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tomb_of_Nader_Shah.JPG/1280px-Tomb_of_Nader_Shah.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Nader Rajabnezhad  (designed by  Hooshang Seyhoun )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Nader_Shah.JPG",
+    "file": "File:Tomb of Nader Shah.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mounement_of_Nader_Shah_Afshar.jpg/1280px-Mounement_of_Nader_Shah_Afshar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Ayazsa",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mounement_of_Nader_Shah_Afshar.jpg",
+    "file": "File:Mounement of Nader Shah Afshar.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nader_Shah_grave.jpg/1280px-Nader_Shah_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Ayazsa",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nader_Shah_grave.jpg",
+    "file": "File:Nader Shah grave.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/The_mounement_of_Nader_shah.jpg/1280px-The_mounement_of_Nader_shah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Ayazsa",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_mounement_of_Nader_shah.jpg",
+    "file": "File:The mounement of Nader shah.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Maghbareh_Nader.jpg/1280px-Maghbareh_Nader.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Mohammad Azizi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maghbareh_Nader.jpg",
+    "file": "File:Maghbareh Nader.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Swords_of_Nader_Shah_Afshar.jpg/1280px-Swords_of_Nader_Shah_Afshar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tomb-of-nader-shah/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Swords of Nader Shah Afshar",
+    "credit": "Kasir",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords_of_Nader_Shah_Afshar.jpg",
+    "file": "File:Swords of Nader Shah Afshar.jpg"
+   }
+  ]
  },
  {
   "id": "king-fahd-national-library",
@@ -148416,7 +149740,45 @@ window.BUILDINGS = [
    24.68635457647564,
    46.6833142492403
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/King_Fahd_National_Library.jpg/1280px-King_Fahd_National_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/king-fahd-national-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Facade of the Kinf Fahd National Library in Riyadh",
+    "credit": "Mrcosch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Fahd_National_Library.jpg",
+    "file": "File:King Fahd National Library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/King_Fahd_National_Library1.jpg/1280px-King_Fahd_National_Library1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/king-fahd-national-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 887,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yasser Bakhsh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Fahd_National_Library1.jpg",
+    "file": "File:King Fahd National Library1.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/King_Fahad_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/king-fahd-national-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ayesha46",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Fahad_Library.jpg",
+    "file": "File:King Fahad Library.jpg"
+   }
+  ]
  },
  {
   "id": "el-colegio-de-mexico",
@@ -148443,7 +149805,81 @@ window.BUILDINGS = [
    19.303888888889,
    -99.207777777778
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/El_Colegio_de_Mexico_2.JPG/1280px-El_Colegio_de_Mexico_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/0.webp",
+    "w": 1280,
+    "h": 739,
+    "kind": "Exterior",
+    "caption": "Exterior · El Colegio de Mexico during a winter morning",
+    "credit": "Ar.rosales",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Colegio_de_Mexico_2.JPG",
+    "file": "File:El Colegio de Mexico 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nueva_Revista_de_Filolog%C3%ADa_Hisp%C3%A1nica.jpg/1280px-Nueva_Revista_de_Filolog%C3%ADa_Hisp%C3%A1nica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Nueva Revista de Filología Hispánica, a Spanish philology journal published by El Colegio de México",
+    "credit": "Jordi Martínez Martínez",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nueva_Revista_de_Filolog%C3%ADa_Hisp%C3%A1nica.jpg",
+    "file": "File:Nueva Revista de Filología Hispánica.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Estatuillas_en_el_ColMex.jpg/1280px-Estatuillas_en_el_ColMex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Estatuas en uno de los jardines del Colegio de México",
+    "credit": "Ferfive",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estatuillas_en_el_ColMex.jpg",
+    "file": "File:Estatuillas en el ColMex.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/El_Colegio_de_M%C3%A9xico_Auditorio_Alfonso_Reyes_en_2024.jpg/1280px-El_Colegio_de_M%C3%A9xico_Auditorio_Alfonso_Reyes_en_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · El Colegio de México Auditorio Alfonso Reyes",
+    "credit": "Marinna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Colegio_de_M%C3%A9xico_Auditorio_Alfonso_Reyes_en_2024.jpg",
+    "file": "File:El Colegio de México Auditorio Alfonso Reyes en 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Biblioteca_Daniel_Cosio_Villegas_interior.jpg/1280px-Biblioteca_Daniel_Cosio_Villegas_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Biblioteca Daniel Cosío Villegas en 2025",
+    "credit": "Marinna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Daniel_Cosio_Villegas_interior.jpg",
+    "file": "File:Biblioteca Daniel Cosio Villegas interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Sala_de_videoconferencias_en_El_Colegio_de_M%C3%A9xico%2C_A.C._%28M%C3%A9xico%2C_D.F.%29.jpg/1280px-Sala_de_videoconferencias_en_El_Colegio_de_M%C3%A9xico%2C_A.C._%28M%C3%A9xico%2C_D.F.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/el-colegio-de-mexico/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Videoconference room at El Colegio de México, A.C",
+    "credit": "Correogsk",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sala_de_videoconferencias_en_El_Colegio_de_M%C3%A9xico,_A.C._(M%C3%A9xico,_D.F.).jpg",
+    "file": "File:Sala de videoconferencias en El Colegio de México, A.C. (México, D.F.).jpg"
+   }
+  ]
  },
  {
   "id": "instituto-moreira-salles-paulista",
@@ -148470,7 +149906,81 @@ window.BUILDINGS = [
    -23.5560252,
    -46.6620063
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_do_novo_Centro_Cultural_IMS_Paulista._%2836720548633%29.jpg/1280px-Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_do_novo_Centro_Cultural_IMS_Paulista._%2836720548633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/0.webp",
+    "w": 1280,
+    "h": 880,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Governo do Estado de São Paulo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cerim%C3%B4nia_de_inaugura%C3%A7%C3%A3o_do_novo_Centro_Cultural_IMS_Paulista._(36720548633).jpg",
+    "file": "File:Cerimônia de inauguração do novo Centro Cultural IMS Paulista. (36720548633).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Vista_da_Avenida_Paulista_a_partir_do_IMS_em_31_de_Julho_de_2025.jpg/1280px-Vista_da_Avenida_Paulista_a_partir_do_IMS_em_31_de_Julho_de_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/1.webp",
+    "w": 1280,
+    "h": 1012,
+    "kind": "Exterior",
+    "caption": "Exterior · Vista da Avenida Paulista a partir do IMS em 31 de Julho de 2025",
+    "credit": "Boaventuravinicius",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_da_Avenida_Paulista_a_partir_do_IMS_em_31_de_Julho_de_2025.jpg",
+    "file": "File:Vista da Avenida Paulista a partir do IMS em 31 de Julho de 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Avenida_Paulista_medos_de_janeiro_de_2025.jpg/1280px-Avenida_Paulista_medos_de_janeiro_de_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Av Paulista em 2025",
+    "credit": "Boaventuravinicius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenida_Paulista_medos_de_janeiro_de_2025.jpg",
+    "file": "File:Avenida Paulista medos de janeiro de 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Vista_da_Avenida_Paulista_a_partir_do_IMS_Paulista.jpg/1280px-Vista_da_Avenida_Paulista_a_partir_do_IMS_Paulista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/3.webp",
+    "w": 1280,
+    "h": 1335,
+    "kind": "Exterior",
+    "caption": "Exterior · Vista da Avenida Paulista a partir do IMS Paulista",
+    "credit": "Boaventuravinicius",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_da_Avenida_Paulista_a_partir_do_IMS_Paulista.jpg",
+    "file": "File:Vista da Avenida Paulista a partir do IMS Paulista.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Livraria_do_Instituto_Moreira_Salles.jpg/1280px-Livraria_do_Instituto_Moreira_Salles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior do Instituto Moreira Salles (São Paulo)",
+    "credit": "Wecomabimt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Livraria_do_Instituto_Moreira_Salles.jpg",
+    "file": "File:Livraria do Instituto Moreira Salles.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Livraria.jpg/1280px-Livraria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/instituto-moreira-salles-paulista/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Fotos do interior Instituto Moreira Salles (São Paulo)",
+    "credit": "Wecomabimt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Livraria.jpg",
+    "file": "File:Livraria.jpg"
+   }
+  ]
  },
  {
   "id": "alisher-navoi-opera-and-ballet-theatre",
@@ -148497,7 +150007,21 @@ window.BUILDINGS = [
    41.30917,
    69.27167
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Theatre_Alisher_Navoi.JPG/1280px-Theatre_Alisher_Navoi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alisher-navoi-opera-and-ballet-theatre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Theatre Alisher Navoi",
+    "credit": "Bobyrr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theatre_Alisher_Navoi.JPG",
+    "file": "File:Theatre Alisher Navoi.JPG"
+   }
+  ]
  },
  {
   "id": "grand-national-assembly-of-turkey",
@@ -148524,6 +150048,80 @@ window.BUILDINGS = [
    39.91167,
    32.85111
   ],
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/S%C3%BCleyman_Demirel_Funeral_1.jpg/1280px-S%C3%BCleyman_Demirel_Funeral_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Süleyman Demirel Funeral",
+    "credit": "Yıldız Yazıcıoğlu",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%BCleyman_Demirel_Funeral_1.jpg",
+    "file": "File:Süleyman Demirel Funeral 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ankara%2C_Turkey_-_panoramio_%28139%29.jpg/1280px-Ankara%2C_Turkey_-_panoramio_%28139%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/1.webp",
+    "w": 1280,
+    "h": 956,
+    "kind": "Exterior",
+    "caption": "Exterior · Ankara, Turkey",
+    "credit": "bynyalcin",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ankara,_Turkey_-_panoramio_(139).jpg",
+    "file": "File:Ankara, Turkey - panoramio (139).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ankara%2C_Turkey_-_panoramio_%28140%29.jpg/1280px-Ankara%2C_Turkey_-_panoramio_%28140%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/2.webp",
+    "w": 1280,
+    "h": 956,
+    "kind": "Exterior",
+    "caption": "Exterior · Ankara, Turkey",
+    "credit": "bynyalcin",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ankara,_Turkey_-_panoramio_(140).jpg",
+    "file": "File:Ankara, Turkey - panoramio (140).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/TBMM_meclis_binas%C4%B1_1.jpg/1280px-TBMM_meclis_binas%C4%B1_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · TBMM meclis binası 1",
+    "credit": "Modern primat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TBMM_meclis_binas%C4%B1_1.jpg",
+    "file": "File:TBMM meclis binası 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/The_OSCE_PA_Delegation_meets_with_the_Speaker_of_the_Grand_National_Assembly_of_Turkey.jpg/1280px-The_OSCE_PA_Delegation_meets_with_the_Speaker_of_the_Grand_National_Assembly_of_Turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "OSCE Parliamentary Assembly",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_OSCE_PA_Delegation_meets_with_the_Speaker_of_the_Grand_National_Assembly_of_Turkey.jpg",
+    "file": "File:The OSCE PA Delegation meets with the Speaker of the Grand National Assembly of Turkey.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/TBMM_ba%C5%9Fkan%C4%B1n_meclise_girdi%C4%9Fi_kap%C4%B1%2C_uzak%2C_2023.jpg/1280px-TBMM_ba%C5%9Fkan%C4%B1n_meclise_girdi%C4%9Fi_kap%C4%B1%2C_uzak%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-national-assembly-of-turkey/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · TBMM başkanın meclise girdiği kapı, uzak, 2023",
+    "credit": "Modern primat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TBMM_ba%C5%9Fkan%C4%B1n_meclise_girdi%C4%9Fi_kap%C4%B1,_uzak,_2023.jpg",
+    "file": "File:TBMM başkanın meclise girdiği kapı, uzak, 2023.jpg"
+   }
+  ]
  }
 ];
