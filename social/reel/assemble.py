@@ -20,7 +20,7 @@ open_start = t_surprise - 1.0; shuffle_start = t_shuffle - 1.0; filt_start = at(
 
 # (clip, audio_start, audio_end, anchors: [(clip_time, audio_time)])
 PLAN = [
-  ('scene_intro', 0.0, 8.3, [(0, 0.0)]),
+  ('scene_intro', 0.0, 8.3, [(0.25, 0.0)]),
   ('scene_mood', 8.3, t_or, [(0, 8.3)]),
   ('scene_search', t_or, 20.8, [(0, t_or)]),
   ('scene_flip', 20.8, at('So', 28)), 

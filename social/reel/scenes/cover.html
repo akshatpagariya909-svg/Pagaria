@@ -1,0 +1,25 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=block" rel="stylesheet">
+<style>
+* { margin:0; box-sizing:border-box; }
+html,body { width:1080px; height:1920px; overflow:hidden; background:#fff; color:#111110; font-family:'Archivo',sans-serif; -webkit-font-smoothing:antialiased; }
+/* Everything that matters sits inside the 1080x1440 middle band the profile grid shows. */
+.mark { position:absolute; left:64px; top:300px; font-weight:850; font-stretch:125%; font-size:91px; line-height:.9; letter-spacing:-.03em; text-transform:uppercase; white-space:nowrap; }
+.mark span { color:#DA3A26; }
+.line { position:absolute; left:64px; right:64px; top:520px; font-weight:800; font-size:64px; line-height:1.05; letter-spacing:-.02em; }
+.wall { position:absolute; left:64px; right:64px; top:720px; height:960px; display:flex; gap:14px; overflow:hidden; }
+.col { flex:1; display:flex; flex-direction:column; gap:14px; }
+.col:nth-child(2) { margin-top:-120px; } .col:nth-child(3) { margin-top:-50px; }
+img { width:100%; display:block; object-fit:cover; }
+.fade { position:absolute; left:0; right:0; top:1500px; height:420px; background:linear-gradient(rgba(255,255,255,0), #fff 70%); }
+</style></head><body>
+<div class="mark">Discover<br><span>Architecture.</span></div>
+<div class="line">1,600 buildings to wander.<br>No name needed.</div>
+<div class="wall"></div><div class="fade"></div>
+<script src="data.js"></script>
+<script>
+const pick = ['chand-baori','salk-institute','sydney-opera-house','church-of-the-light','guggenheim-bilbao','alhambra','teshima-art-museum','casa-luis-barragan','national-assembly-of-bangladesh','habitat-67','louvre-abu-dhabi','fallingwater'];
+const B = Object.fromEntries(GRID.map(b => [b.id, b]));
+const c = [[], [], []]; pick.forEach((id, i) => c[i % 3].push(`<img src="${B[id].thumb}" style="height:${[300,360,260,330][i % 4]}px">`));
+document.querySelector('.wall').innerHTML = c.map(x => `<div class="col">${x.join('')}</div>`).join('');
+</script></body></html>
