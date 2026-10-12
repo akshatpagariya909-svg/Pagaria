@@ -285,8 +285,8 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
 
 
 # labels corrected by hand (tools/image_review.json, applied by tools/apply_image_review.py)
-REVIEW = ROOT / 'tools' / 'image_review.json'
-KIND_FIX = json.loads(REVIEW.read_text(encoding='utf-8')).get('kinds', {}) if REVIEW.exists() else {}
+HAND_REVIEW = ROOT / 'tools' / 'image_review.json'
+KIND_FIX = json.loads(HAND_REVIEW.read_text(encoding='utf-8')).get('kinds', {}) if HAND_REVIEW.exists() else {}
 
 
 # a lead should show the building, not the street or river it stands by
