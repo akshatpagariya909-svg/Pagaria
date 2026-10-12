@@ -30,27 +30,28 @@ function pick(ref) {
 }
 
 const CSS = `
-:root { --ground:#EDEDE9; --paper:#F7F7F5; --ink:#111110; --graphite:#5D5C57; --hair:#CFCDC6; --stage:#1B1B1A; --signal:#2D3BF0;
+:root { --ground:#FFFFFF; --paper:#F7F7F5; --ink:#111110; --graphite:#5D5C57; --hair:#E6E4DF; --stage:#FFFFFF; --signal:#DA3A26; --r:28px;
   --sans:'Archivo',sans-serif; --serif:'Newsreader',serif; --mono:'IBM Plex Mono',monospace; }
 * { box-sizing:border-box; margin:0; }
 html,body { width:1080px; height:1350px; overflow:hidden; }
 body { background:var(--ground); color:var(--ink); font-family:var(--sans); -webkit-font-smoothing:antialiased; position:relative; }
-body.dark { background:var(--stage); color:var(--ground); }
+body.dark { background:var(--stage); color:var(--ink); }
 .top { position:absolute; left:56px; right:56px; top:48px; display:flex; justify-content:space-between; align-items:flex-start; }
+.mark .accent { color:var(--signal); }
 .mark { font-weight:850; font-stretch:125%; font-size:22px; line-height:.95; letter-spacing:-.02em; text-transform:uppercase; }
 .count { font:500 18px var(--mono); letter-spacing:.08em; text-transform:uppercase; color:var(--graphite); text-align:right; }
-.dark .count { color:#9b9a94; }
+.dark .count { color:var(--graphite); }
 .photo { position:absolute; left:56px; right:56px; overflow:hidden; background:#ccc; }
 .photo img { width:100%; height:100%; object-fit:cover; display:block; }
-.pill { display:inline-flex; align-items:center; height:52px; padding:0 24px; border:2px solid currentColor; border-radius:999px;
+.pill { display:inline-flex; align-items:center; height:52px; padding:0 24px; border:2px solid currentColor; border-radius:var(--r);
   font-weight:650; font-size:24px; }
 .pill.signal { background:var(--signal); border-color:var(--signal); color:#fff; }
-.pill.solid { background:var(--ground); color:var(--ink); border-color:var(--ground); }
+.pill.solid { background:var(--ground); color:var(--ink); border-color:var(--ink); }
 .big { font-weight:850; font-stretch:125%; text-transform:uppercase; letter-spacing:-.025em; line-height:.9; }
 .sub { font-family:var(--serif); font-style:italic; font-size:42px; line-height:1.15; }
 .credit { position:absolute; left:56px; right:56px; bottom:40px; font:400 16px var(--mono); color:var(--graphite); letter-spacing:.02em;
   white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-.dark .credit { color:#9b9a94; }
+.dark .credit { color:var(--graphite); }
 .name { font-weight:750; font-stretch:105%; font-size:54px; line-height:1; letter-spacing:-.02em; }
 .meta { display:flex; justify-content:space-between; gap:24px; margin-top:16px; font-size:28px; font-weight:550; }
 .meta .when { font:400 22px var(--mono); color:var(--graphite); letter-spacing:.04em; align-self:center; white-space:nowrap; }
@@ -62,7 +63,7 @@ const page = (body, dark) => `<!doctype html><html><head><meta charset="utf-8">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=block" rel="stylesheet">
 <style>${CSS}</style></head><body class="${dark ? 'dark' : ''}">${body}</body></html>`;
 
-const top = (c, i, n, label) => `<div class="top"><div class="mark">Discover<br>Architecture</div>
+const top = (c, i, n, label) => `<div class="top"><div class="mark">Discover<br><span class="accent">Architecture.</span></div>
   <div class="count">${esc(label || c.idea || c.tag)}<br>${i} / ${n}</div></div>`;
 const COUNT = `${(Math.floor(window.BUILDINGS.length / 100) * 100).toLocaleString('en-US')}+`;
 const credit = p => `<div class="credit">Photo: ${esc(p.im.credit.replace(/\s+/g, ' ').trim())} · ${esc(p.im.license)} · Wikimedia Commons</div>`;
@@ -94,13 +95,13 @@ function end(c, i, n, lead) {
   return page(`${top(c, i, n)}
   <div style="position:absolute;left:56px;right:56px;top:380px">
     <div class="big" style="font-size:112px">${lead}</div>
-    <div class="sub" style="margin-top:36px;color:#c9c8c2">Wander a wall of free photos, then follow links to plans, sections and essays.</div>
+    <div class="sub" style="margin-top:36px;color:var(--graphite)">Wander a wall of free photos, then follow links to plans, sections and essays.</div>
     <div style="margin-top:64px;display:flex;gap:16px;flex-wrap:wrap">
       <span class="pill solid">${esc(c.find || (c.idea ? 'Find more with: ' + c.idea : 'Play on the wall'))}</span>
       <span class="pill signal">Link in bio</span>
     </div>
   </div>
-  <div class="credit" style="font-size:24px;color:var(--ground)">${SPEC.handle ? '@' + esc(SPEC.handle) : esc(SPEC.site)}</div>`, true);
+  <div class="credit" style="font-size:24px;color:var(--ink)">${SPEC.handle ? '@' + esc(SPEC.handle) : esc(SPEC.site)}</div>`, true);
 }
 
 function guessCover(c, n) {
@@ -108,8 +109,8 @@ function guessCover(c, n) {
   <div style="position:absolute;left:56px;right:56px;top:300px">
     <span class="pill">${n - 3 === 4 ? 'Four' : n - 3} details</span>
     <div class="big" style="font-size:150px;margin-top:36px">Guess the building</div>
-    <div class="sub" style="margin-top:36px;color:#c9c8c2">${esc(c.title)}. ${esc(c.sub)}.</div>
-    <div class="sub" style="margin-top:24px;color:#c9c8c2">Comment your guesses ↓</div>
+    <div class="sub" style="margin-top:36px;color:var(--graphite)">${esc(c.title)}. ${esc(c.sub)}.</div>
+    <div class="sub" style="margin-top:24px;color:var(--graphite)">Comment your guesses ↓</div>
   </div>`, true);
 }
 
@@ -152,7 +153,7 @@ function textSlide(c, i, n, label, title, sub, body, dark) {
   return page(`${top(c, i, n, label)}
   <div style="position:absolute;left:56px;right:56px;top:220px">
     <div class="big" style="font-size:96px">${title}</div>
-    <div class="sub" style="margin-top:28px;max-width:900px${dark ? ';color:#c9c8c2' : ''}">${sub}</div>
+    <div class="sub" style="margin-top:28px;max-width:900px${dark ? ';color:var(--graphite)' : ''}">${sub}</div>
     ${body}
   </div>`, dark);
 }

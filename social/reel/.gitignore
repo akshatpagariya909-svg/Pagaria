@@ -1,3 +1,4 @@
 clips/
-*.mp4
 *.wav
+*.mp4
+!final/reel.mp4
