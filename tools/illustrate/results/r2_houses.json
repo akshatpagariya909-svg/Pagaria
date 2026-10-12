@@ -1031,5 +1031,123 @@
    "https://world-architects.com/en/meier-partners-new-york/project/smith-house"
   ],
   "note": "No free photo on Commons. Sources confirm a ramp to the entrance on the closed land side, a three-level glass enclosure on the water side and a painted brick fireplace pushing out through the mullions, but I could not confirm how the floor slabs, double-height living room and chimney sit in the water elevation, so I did not draw it (a generic glass box with a chimney would mislead)."
+ },
+ {
+  "id": "casa-rotonda-stabio",
+  "name": "Casa Rotonda",
+  "by": "Mario Botta",
+  "city": "Stabio",
+  "cc": "CH",
+  "year": "1982",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "Three-level cylindrical house split north–south by a cut that brings daylight down from the roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stabio, Casa Medici (arch. Mario Botta 1980-82) - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 14m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 15m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 11m.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Stabio,_Casa_Medici_(arch._Mario_Botta_1980-82)_-_panoramio.jpg",
+   "https://pdfcoffee.com/casa-rotonda-mario-botta-2-pdf-free.html"
+  ],
+  "note": "On Commons the photos are titled 'Casa Medici' (the clients were Liliana and Ovidio Medici); same building, 1980–82. Don't confuse with Commons files 'Casa Rotonda 1/2.jpg', which show a different building in Corzoneso."
+ },
+ {
+  "id": "22-parkside",
+  "name": "22 Parkside (Rogers House)",
+  "by": "Richard and Su Rogers",
+  "city": "London",
+  "cc": "GB",
+  "year": "1969",
+  "type": "House",
+  "movement": "High-tech",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Modular"
+  ],
+  "features": "Two pavilions of identical yellow steel portal frames with glass ends around a garden court; a prototype for kit housing.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Wimbledon, Richard Rogers house, 22 Parkside.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Wimbledon,_Richard_Rogers_house,_22_Parkside.jpg"
+  ],
+  "note": "Built for Rogers's parents in Wimbledon, 1968–69. One free photo at 3500x2417; two more at 640px are too small. Don't confuse with 'File:22 Parkside, Cambridge.jpg', a different building. Now owned by Harvard GSD."
+ },
+ {
+  "id": "casa-kalmann",
+  "name": "Casa Kalmann",
+  "by": "Luigi Snozzi",
+  "city": "Brione sopra Minusio",
+  "cc": "CH",
+  "year": "1976",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "Concrete house set into a steep slope above Lake Maggiore; a long pergola walk ends in a lookout over the lake.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kalmann 01m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Kalmann 03m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Luigi Snozzi - Casa Kalman, Brutarchitekt.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Casa Kalmann14m.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Kalmann_01m.jpg"
+  ],
+  "note": "Several free photos (1974–76). Spelled Kalman or Kalmann."
  }
 ]

@@ -492,5 +492,61 @@
    "https://www.iconeye.com/architecture/tokyo-garden-house-by-ryue-nishizawa"
   ],
   "note": "No Commons photos. Sources: 8 x 4 m plot between buildings over 30 m tall; a stack of horizontal concrete slabs (four storeys plus roof terrace) on three RC columns and a steel post; street side made of clear railings, curtains and potted plants. Slab spacing in the drawing is approximate (floor heights vary but no figures given); columns are not drawn because their positions are not described. Dates in sources vary (2006 design, 2011 completion; some say 2013)."
+ },
+ {
+  "id": "paper-house",
+  "name": "Paper House",
+  "by": "Shigeru Ban",
+  "city": "Yamanakako",
+  "cc": "JP",
+  "year": "1995",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Structure as expression",
+   "Free plan"
+  ],
+  "features": "110 paper tubes, 2.7 m tall, stand in an S-curve under a flat roof; the first building to use paper tubes as structure.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: flat roof over the 10 x 10 m floor, the curving line of paper-tube columns behind open glass doors, and the 1.2 m tube that holds the toilet",
+  "after": null,
+  "sources": [
+   "https://shigerubanarchitects.com/old/works/1995_paper_house/index.html",
+   "https://illustrarch.com/articles/70633-shigeru-ban-architecture.html"
+  ],
+  "note": "No Commons photos. Facts from Shigeru Ban Architects: 10 x 10 m plan, 110 paper tubes (2.7 m high, 275 mm diameter) in an S-shape carrying a horizontal roof, a freestanding 1.2 m diameter tube holding the toilet, sliding glass doors around. The drawing shows the front arc of the S; the exact positions of the tubes and of the toilet tube are approximate. First permanent building with paper tubes approved as structure."
+ },
+ {
+  "id": "roof-house",
+  "name": "Roof House",
+  "by": "Tezuka Architects",
+  "city": "Hadano",
+  "cc": "JP",
+  "year": "2001",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Timber",
+   "Light from above"
+  ],
+  "features": "The gently sloping roof is the living room: a deck for meals, cooking and showers, reached by ladders.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation: single storey with glazed walls under a thin roof sloping 1:10, a table on the roof and a ladder rising through a skylight",
+  "after": null,
+  "sources": [
+   "https://arqa.com/english-es/architecture-es/roof-house-in-kanagawa-japan.html",
+   "https://www.detail.de/de_en/house-in-hadano",
+   "https://habitatio.epitesz.bme.hu/en/?p=2990",
+   "https://jia.or.jp/jia-official/jia-old/member/award/newface/2002/tezuka.htm"
+  ],
+  "note": "No Commons photos. Sources: single storey, roof pitched 1 to 10 with a low edge and no balustrade, a skylight in every room with ladders up to the roof, roof table, kitchen and shower. Plan length and wall height are not given; the drawing's proportions, the glazing division and the positions of the table and ladder are approximate. Year 2001 (JIA newcomer award 2002; DETAIL article 2002)."
  }
 ]

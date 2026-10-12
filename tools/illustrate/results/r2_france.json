@@ -1127,5 +1127,246 @@
    "https://en.wikipedia.org/wiki/Le_Volcan"
   ],
   "note": "34 files in the category."
+ },
+ {
+  "id": "carre-d-art",
+  "name": "Carré d'Art",
+  "by": "Foster + Partners",
+  "city": "Nîmes",
+  "cc": "FR",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Glass arts centre facing the Roman Maison Carrée, with a thin canopy on five slender columns; half is underground.",
+  "status": "drawn",
+  "commons_category": "Category:Carré d'Art (Nîmes)",
+  "photos": [],
+  "extras": [],
+  "view": "Front elevation facing the Maison Carrée: stepped plinth, glazed front with floor lines, thin louvred canopy carried by five slender columns.",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carr%C3%A9_d%27Art",
+   "https://www.academia.edu/64889994/Orders_and_Ordonnance_the_Carr%C3%A9e_d_Art_of_Norman_Foster_in_Nimes",
+   "https://bdt.degruyter.com/?p=18890"
+  ],
+  "note": "No usable free photo: the category has three 512px detail shots of columns and shadows, and one large photo of the Maison Carrée (File:Nîmes (30) Maison carrée 487.jpg) with the Carré d'Art only in the background. Sources give nine storeys with half below ground, a portico of five slender metal columns and a steel lamella canopy; I drew four levels above ground and spaced the columns evenly, which is schematic."
+ },
+ {
+  "id": "flower-tower",
+  "name": "Flower Tower",
+  "by": "Édouard François",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2004",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Facade as skin",
+   "Prefabrication"
+  ],
+  "features": "Ten storeys wrapped in balconies lined with about 380 concrete pots of bamboo, watered automatically.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Front elevation: ten storeys, each balcony slab edge lined with concrete planters holding bamboo.",
+  "after": null,
+  "sources": [
+   "https://www.archiweb.cz/en/b/tower-flower",
+   "https://www.pariszigzag.fr/?p=69417",
+   "https://www.amusingplanet.com/2015/11/the-flower-tower-of-paris.html",
+   "https://www.e-architect.com/paris/the-flower-tower"
+  ],
+  "note": "No Commons files found. Sources agree on ten storeys, more than 380 prefabricated concrete planters on three sides, two bamboos per pot. The number of pots per floor and the width of the facade are schematic."
+ },
+ {
+  "id": "cap-ferret-house",
+  "name": "House in Cap Ferret",
+  "by": "Lacaton & Vassal",
+  "city": "Lège-Cap-Ferret",
+  "cc": "FR",
+  "year": "1998",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Low cost",
+   "Steel & glass"
+  ],
+  "features": "Raised on twelve micro-piles among the pines; the trees pass straight through the house in flexible sleeves.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Elevation of the glazed side facing the bay: a one-storey steel box with sliding glass panels on thin piles, three pine trunks passing through it.",
+  "after": null,
+  "sources": [
+   "https://lacatonvassal.com/index.php?idp=21",
+   "https://www.metalocus.es/en/news/house-among-trees-house-lege-cap-ferret",
+   "https://archello.com/project/cap-ferret-house"
+  ],
+  "note": "No Commons files found. Sources give 180 m2 plus a 30 m2 terrace, twelve micro-piles, a metal frame, an aluminium-clad underside, a glazed bay facade and pines passing through. Pile and trunk positions and the box's length are schematic; only four piles are shown."
+ },
+ {
+  "id": "sainte-bernadette-du-banlay",
+  "name": "Sainte-Bernadette du Banlay",
+  "by": "Claude Parent, Paul Virilio",
+  "city": "Nevers",
+  "cc": "FR",
+  "year": "1966",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Monumentality"
+  ],
+  "features": "Bunker-like church of two concrete shells on a central support; inside, the floor itself is a sloping plane.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.nevers.fr/decouvrir-nevers/patrimoine/eglises-et-chapelles/eglise-sainte-bernadette-du-banlay",
+   "https://www.acpresse.fr/leglise-sainte-bernadette-du-banlay-bunker-spirituel/",
+   "https://www.caue58.com/2014/02/04/ouvrage-eglise-sainte-bernadette-a-nevers-1963-1966/",
+   "https://en.wikipedia.org/wiki/Claude_Parent"
+  ],
+  "note": "No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it."
+ },
+ {
+  "id": "maison-de-la-culture-de-firminy",
+  "name": "Maison de la Culture de Firminy",
+  "by": "Le Corbusier",
+  "city": "Firminy",
+  "cc": "FR",
+  "year": "1965",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Tensile structure",
+   "Landscape"
+  ],
+  "features": "A 112 m block on the edge of an old quarry; its west front leans out over the stadium and the roof hangs on cables.",
+  "status": "unsure",
+  "commons_category": "Category:Maison de la culture de Firminy-Vert",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maison_de_la_Culture_de_Firminy",
+   "https://www.archiweb.cz/en/b/dum-kultury-ve-firminy-maison-de-la-culture-de-firminy-vert",
+   "https://www.ville-firminy.fr/ma-ville/tourisme/site-le-corbusier/",
+   "https://www.cahiers-techniques-batiment.fr/article/refection-du-toit-de-la-maison-de-la-culture-de-le-corbusier.26788"
+  ],
+  "note": "Only file in the category is File:StadeDeFirminyVert-1.jpg (1500x938, CC BY-SA 3.0), the stadium with a detail of the Maison de la Culture at the right edge, so not a photo of it. Sources agree on 110-112 m length, 14 m width, sixteen 7 m bays, three levels, a leaning west facade and a cable-hung roof (asymmetric parabola, 1.30 m rise), but they disagree on the lean (53 vs 8 degrees) and none says whether the roof line curves along the length. Not drawn."
+ },
+ {
+  "id": "hotel-industriel-berlier",
+  "name": "Hôtel Industriel Berlier",
+  "by": "Dominique Perrault",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1990",
+  "type": "Workplace",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "A ten-storey glass prism of workshops beside the ring road, with no roof plant visible from the street.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://perraultarchitecture.com/en/projects/berlier-industrial-building/",
+   "https://www.archiweb.cz/en/b/h-tel-industriel-berlier",
+   "https://arquitecturaviva.com/works/hotel-industrial-jean-baptiste-berlier-3"
+  ],
+  "note": "No Commons files found. Sources give ten storeys, 21,000 m2 on a 4,700 m2 site and a glass curtain wall with sunshades, but not the length or the end shapes; a plain glass box with guessed proportions would not be recognisable, so not drawn."
+ },
+ {
+  "id": "opera-de-lyon",
+  "name": "Opéra de Lyon",
+  "by": "Jean Nouvel",
+  "city": "Lyon",
+  "cc": "FR",
+  "year": "1993",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Adaptive reuse",
+   "Vault",
+   "Steel & glass"
+  ],
+  "features": "A glass half-cylinder vault set on the walls of the 1831 opera house, doubling its height.",
+  "status": "photo",
+  "commons_category": "Category:Opéra de Lyon",
+  "photos": [
+   {
+    "file": "File:Lyon opera.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:France-002954 - City View (15507053563).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Op%C3%A9ra_Nouvel"
+  ],
+  "note": "Lyon opera.jpg (3888x2592) is 'the opera at dawn'; the second is a city view from Fourvière that shows the vault."
+ },
+ {
+  "id": "lyon-saint-exupery-station",
+  "name": "Lyon-Saint-Exupéry TGV Station",
+  "by": "Santiago Calatrava",
+  "city": "Colombier-Saugnieu",
+  "cc": "FR",
+  "year": "1994",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "A steel-and-glass hall shaped like a bird with spread wings, over a ribbed concrete platform shed.",
+  "status": "photo",
+  "commons_category": "Category:Gare de Lyon-Saint Exupéry",
+  "photos": [
+   {
+    "file": "File:Lyon - Gare de Lyon-Saint-Exupéry TGV (7474086464).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Lyon - Gare de Lyon-Saint-Exupéry TGV (7474123214).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gare_de_Lyon-Saint-Exup%C3%A9ry"
+  ],
+  "note": "No file description confirms an exterior of the winged hall. Candidates: the Flickr set 'Lyon - Gare de Lyon-Saint-Exupéry TGV (74...)' (5 files, 4096x3072), File:Une des entrées de la gare de Lyon Saint-Exupéry (juin 2019).jpg (CC0) and File:Gare de Lyon Saint-Exupéry - Voies Rhonexpress et TGV.JPG. If none shows the hall, it is a drawing candidate."
  }
 ]

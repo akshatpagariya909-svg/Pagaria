@@ -1371,5 +1371,120 @@
    "https://commons.wikimedia.org/wiki/Category:Casa_Papanice"
   ],
   "note": "Most of the category is film stills; one 5589px building photo."
+ },
+ {
+  "id": "cartiera-burgo-mantova",
+  "name": "Cartiera Burgo",
+  "by": "Pier Luigi Nervi",
+  "city": "Mantua",
+  "cc": "IT",
+  "year": "1964",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Exposed concrete"
+  ],
+  "features": "A 250 m paper-mill roof hung like a suspension bridge from chains over two 50 m concrete trestles.",
+  "status": "drawn",
+  "commons_category": "Category:Cartiere Burgo",
+  "photos": [],
+  "extras": [],
+  "view": "long side elevation: the 250 m hall with the two concrete trestles 43 m in from each end, the chains sagging between them and running down to the cantilevered roof ends, with vertical hangers",
+  "after": null,
+  "sources": [
+   "https://atlantearchitetturacontemporanea.cultura.gov.it/en/cartiere-burgo-mantova/",
+   "https://www.carthamagazine.com/2019/12/16/4-1-07-hymn-to-progress-pier-luigi-nervis-burgo-paper-mill/",
+   "http://www.greatbuildings.com/buildings/Paper_Mill_at_Mantua.html",
+   "https://en.wikipedia.org/wiki/Pier_Luigi_Nervi"
+  ],
+  "note": "No photo of the Mantua mill on Commons (Category:Cartiere Burgo holds only other Burgo plants). Sources (via search summaries) give 250 m length, 160-164 m clear span with ~43 m cantilevers each end, trestles 47-50 m high, roof about 22 m up; proportions drawn to those. Each trestle is a coupled pair of pylons straddling the hall, so it reads as a single tapered pylon in side view. Nervi worked with Gino Covre."
+ },
+ {
+  "id": "konstantinidis-weekend-house-anavyssos",
+  "name": "Weekend House, Anavyssos",
+  "by": "Aris Konstantinidis",
+  "city": "Anavyssos",
+  "cc": "GR",
+  "year": "1962",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Exposed concrete",
+   "Climate response"
+  ],
+  "features": "Thick local-stone piers carry a flat concrete slab, making a shaded portico that wraps two sides of a small house.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "elevation of the portico side: the thin flat concrete roof slab on rectangular stone piers, the house sitting on a low platform",
+  "after": null,
+  "sources": [
+   "https://en.wikiarquitectura.com/building/house-in-anavyssos/",
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/BUILDINGS/BUILD_TEXTS/B123_t.html",
+   "https://www.researchgate.net/publication/286652088_The_Art_of_Building_Reception_Aris_Konstantinidis_behind_the_Global_Published_Life_of_his_Weekend_House_in_Anavyssos_1962-2014",
+   "https://burning.farm/essays/the-constant-typologist"
+  ],
+  "note": "No Commons photo. Sources: square/rectangular plan on a 2x5 m grid, an L-shaped portico 2-3 m deep on two sides, flat exposed-concrete slab on six rectangular stone pillars, load-bearing stone walls. The number and spacing of piers shown on this one side (four) is my reading of the six-pillar L; check against the published plan."
+ },
+ {
+  "id": "lanaras-weekend-house",
+  "name": "Lanaras Weekend House",
+  "by": "Nicos Valsamakis",
+  "city": "Anavyssos",
+  "cc": "GR",
+  "year": "1963",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Two thin concrete slabs on slender steel posts, glazed and shuttered between, floating over stone terrace walls by the sea.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation toward the sea: thin floor and roof slabs projecting past the glass line, slender steel posts with glazing and a shutter rail between, a stone base and stone terrace walls of different heights either side",
+  "after": null,
+  "sources": [
+   "https://themodernhouse.com/journal/house-of-the-day-lanaras-weekend-house-by-nicos-valsamakis",
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/buildings/build_texts/b121_t.html",
+   "https://oajournals.fupress.net/index.php/fa/article/view/17511",
+   "https://arkitekting.wordpress.com/2014/06/21/minimalism-in-classic-athens-the-lanaras-weekend-house-anavyssos-athens-1961-63/"
+  ],
+  "note": "No Commons photo. Sources: two thin reinforced-concrete slabs with slim projections on thin metal supports, sides filled with glass and sliding shutters, stone retaining walls of different heights, bedroom wing at right angles (not shown). Bay count is indicative, not counted from a plan."
+ },
+ {
+  "id": "onassis-stegi",
+  "name": "Onassis Stegi",
+  "by": "Architecture-Studio",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "A box wrapped on all four sides in thin horizontal bands of white marble that glow from inside at night.",
+  "status": "drawn",
+  "commons_category": "Category:Onassis Cultural Centre",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation on Syngrou Avenue: the marble-banded box over a glazed ground floor",
+  "after": null,
+  "sources": [
+   "https://architecturestudio.fr/en/?p=7264",
+   "https://nanophos.com/en/?p=11816",
+   "https://www.icmc14-smc14.net/venues/onasssis-cultural-center.html"
+  ],
+  "note": "Commons has only interior photos. Sources: white marble strips wrap all four facades; building about 27 m (89 ft) tall. The width-to-height ratio and band spacing are approximate."
  }
 ]
