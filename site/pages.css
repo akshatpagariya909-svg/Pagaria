@@ -92,3 +92,9 @@ img { max-width: 100%; display: block; }
   .dock a { padding: 0 12px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* "About" on the most looked-up buildings: a few paragraphs quoted from Wikipedia, credited. */
+.about p { margin: 0 0 12px; max-width: 68ch; font-family: var(--serif); font-size: clamp(17px, 1.3vw, 19px); line-height: 1.5; }
+.about .src { margin: 2px 0 0; font: 400 12px/1.7 var(--mono); color: var(--graphite); }
+.about .src a { color: inherit; }
+.about .src a:hover { color: var(--red); }
