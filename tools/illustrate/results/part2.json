@@ -114,6 +114,19 @@
   "note": "48 files in the category, many of the gridshell interior (Herzogenriedpark 067-100 series, Multihalle DachStuetzen). Viewed Herzogenriedpark Mannheim Multihalle.jpg (1912x1322): the white membrane-clad shells behind trees and a winter market, usable but busy; a cleaner exterior may be among the panoramio or Herzogenriedpark files."
  },
  {
+  "id": "musashino-art-university-library",
+  "name": "Musashino Art University Library",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Musashino_Art_University"
+  ],
+  "note": "No photo of the library on Commons: no category, and no file in Category:Musashino Art University shows it. Not drawn: the outside is a glass skin over a bookshelf grid with large cut-out openings, and I could not find a source giving its height, bay count or where the openings sit, so I can't draw a reliable elevation (most architecture sites were unreachable from here)."
+ },
+ {
   "id": "musee-yves-saint-laurent-marrakech",
   "name": "Musée Yves Saint Laurent Marrakech",
   "status": "photo",
@@ -289,6 +302,20 @@
   "note": "Described as the Oberstufenschulhaus by Olgiati; chosen from descriptions, not viewed. Only Schulhaus1 is in the category; the 2023 file (4697x3306) is uncategorised. Also small public-domain shots: File:School Paspels.jpg (1191x919) and File:PAS-02.jpg (578x450)."
  },
  {
+  "id": "pearl-academy-of-fashion",
+  "name": "Pearl Academy of Fashion",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.morphogenesis.org/projects/pearl-academy-of-fashion/",
+   "https://www.dezeen.com/2009/09/08/pearl-academy-of-fashion-by-morphogenesis/"
+  ],
+  "note": "No free photo on Commons; the only hit, File:Pearlstudents.jpg, shows students painting. Not drawn: sources agree on a rectilinear block raised over a sunken water court, wrapped by a GRC jali about 4 ft off the glazed wall, but none gives the number of storeys or the openings. The jali pattern, its defining feature, also can't be drawn in our lines-only style without dense hatching."
+ },
+ {
   "id": "qasr-al-hokm-justice-palace-and-grand-mosque",
   "name": "Qasr Al Hokm Justice Palace and Grand Mosque",
   "status": "photo",
@@ -375,6 +402,48 @@
    "https://commons.wikimedia.org/wiki/Category:Mercat_de_Santa_Caterina"
   ],
   "note": "About 70 files, including the roof (Market Roof (5832285437) (2).jpg) and several facades. Chosen from descriptions, not viewed."
+ },
+ {
+  "id": "sarah-kubitschek-hospital-salvador",
+  "name": "Sarah Kubitschek Hospital Salvador",
+  "status": "unsure",
+  "commons_category": "Category:Hospital SARAH Salvador",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Hospital_SARAH_Salvador",
+   "https://commons.wikimedia.org/wiki/File:Rede_sarah,_salvador_(3643041968).jpg"
+  ],
+  "note": "No usable exterior photo. Viewed all three files: File:RedeSarah-ba.jpg (2763x1642, CC BY-SA 3.0) is two flags against the sky with only a sliver of roof; File:Rede sarah, salvador (3643041968).jpg (2580x2112, CC BY-SA 2.0) is a close-up of one curved metal element and steps, a detail rather than the building; File:LIP e Pernambués.jpg is an aerial of a road junction. Not drawn: the curved steel shed roofs are well known, but I could not establish the layout, number of sheds or storeys of this hospital on its hillside site. The 3643041968 photo could serve as a detail image if the owner wants."
+ },
+ {
+  "id": "shushtar-new-town",
+  "name": "Shushtar New Town",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Shushtar"
+  ],
+  "note": "No photo on Commons: searches in English and Persian found nothing for the new town, only the historic city. Not drawn: it is a whole neighbourhood of brick courtyard houses and lanes rather than one building, and without plans or photos I can't draw a typical street or house faithfully."
+ },
+ {
+  "id": "signal-box-auf-dem-wolf",
+  "name": "Signal Box Auf dem Wolf",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Zentralstellwerk_SBB_Basel",
+   "https://www.herzogdemeuron.com/projects/049-signal-box-auf-dem-wolf/",
+   "https://www.moma.org/collection/works/1016"
+  ],
+  "note": "No photo of Auf dem Wolf on Commons. Category:Zentralstellwerk SBB Basel holds the later Central Signal Box (1999) by the station, which has a twisting base. Careful: File:Basel - Zentralstellwerk SBB (27016613834).jpg is described as built 1991-94, but I viewed it and it shows the twisting Central box, so it is NOT Auf dem Wolf. Not drawn: sources confirm six floors, 20 cm copper strips twisted 60 degrees at the windows and no visible floor lines, but the proportions conflict (MoMA's 1:33 model, about 105.8 x 48.6 x 30.8 cm, does not match the 286 m2 footprint in H&dM's fact sheet), and I could not confirm the plan shape."
  },
  {
   "id": "social-security-complex-zeyrek",

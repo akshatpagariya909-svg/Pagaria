@@ -111,6 +111,21 @@
   "note": ""
  },
  {
+  "id": "ucca-dune-art-museum",
+  "name": "UCCA Dune Art Museum",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.designboom.com/architecture/open-dune-art-museum-complete-beidaihe-china-11-16-2018/",
+   "https://archinect.com/openarch/project/ucca-dune-art-museum",
+   "https://ucca.org.cn/en/program/ucca-dune/"
+  ],
+  "note": "No photo on Commons. The museum is almost entirely buried under a sand dune; what shows is a few cave-like openings and skylights of different sizes facing the beach and sky. Sources don't say how many there are, what shape they are or where they sit in the dune, so a drawing would be mostly invented. Not drawn."
+ },
+ {
   "id": "vidhan-bhavan",
   "name": "Vidhan Bhavan",
   "status": "photo",
@@ -313,6 +328,39 @@
   "note": "No photo on Commons. Sources confirm a long building under a metal double roof that runs out into a 10 m canopy, with a south screen of about 20,000 triangular concrete bricks (an L-shaped screen 'lying on its back') and a 3 m ventilated cavity behind it. None give the number of storeys or the building's length, so the elevation's proportions would be guessed. Not drawn; the Aga Khan Award file has drawings."
  },
  {
+  "id": "anandaloy",
+  "name": "Anandaloy",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2025/01/26/anna-heringer-anandaloy-centre-21st-century-architecture/",
+   "https://www.designboom.com/architecture/anna-heringer-anandaloy-mud-bamboo-community-center-bangladesh-10-21-2020/",
+   "https://arquitecturaviva.com/works/anna-heringer-edificio-anandaloy-en-rudrapur-banglades-gye86-5"
+  ],
+  "note": "No photo on Commons. Sources confirm a two-storey building with free-curving cob (mud) walls, a big ramp winding up round it to the bamboo upper floor, cave-like spaces under the ramp. None describe the roof's shape or the building's outline, and its curves are irregular, so a drawing would be largely guesswork. Not drawn."
+ },
+ {
+  "id": "arcadia-education-project",
+  "name": "Arcadia Education Project",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Arcadia inteza.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arcadia_Education_Centre"
+  ],
+  "note": "Not in any building category on Commons (filed under 'Schools in Bangladesh', description just 'School'), but it is the photo used on the Wikipedia article 'Arcadia Education Centre' and clearly shows the row of bamboo modules on their platform among water hyacinth (4128x2322). File:Arcadia inteza3.jpg (same uploader) is a close-up under the eaves with children, not suited to the wall."
+ },
+ {
   "id": "art-biotop-water-garden",
   "name": "Art Biotop Water Garden",
   "status": "photo",
@@ -452,5 +500,20 @@
    "https://www.designboom.com/architecture/herzog-de-meuron-beirut-terraces-lebanon-04-24-2017/"
   ],
   "note": "No exterior photo on Commons: the only file in the category shows concrete formwork during construction. Floor count (26), height (119.5 m) and tower width (about 53.7 m) are from sources and set the proportions. The pattern of overhangs is schematic: the real tower repeats five floor types in varying order, so the drawing shows the idea, not each floor's actual depth."
+ },
+ {
+  "id": "bell-lloc-winery",
+  "name": "Bell-Lloc Winery",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.miesarch.com/work/1295",
+   "https://arquitecturaviva.com/works/bodegas-bell-lloc-6-0",
+   "https://landezine.com/bell-lloc-winery/"
+  ],
+  "note": "No photo on Commons. The winery is buried under the vineyard: a sunken ramp lined with tilted, spaced Corten sheets leads to cellars arranged like a comb, under a folded Corten roof. From outside there is almost no building to show, and sources give no dimensions or profile, so not drawn."
  }
 ]
