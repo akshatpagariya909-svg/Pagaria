@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Find free portraits (PD, CC0, CC BY, CC BY-SA) for each building's architect, for the Architect filter tab. Asked for by the owner via the Design chat.
+python -u tools/fetch_logos.py
+Fetch each Go deeper site's own icon into site/images/logos/ (asked for by the owner via the Design chat).
