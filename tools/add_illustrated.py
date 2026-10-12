@@ -5,7 +5,7 @@
   python tools/add_illustrated.py --dry-run  just report what would happen
 
 tools/illustrate/candidates.json lists important buildings, from the hand lists and batches, that
-had no free photo; tools/illustrate/results/part*.json says what was found for each (see
+had no free photo; tools/illustrate/results/*.json says what was found for each (see
 tools/illustrate/BRIEF.md):
 
   drawn   our line drawing goes up as the cover (site/images/<id>/drawing.svg), tagged
@@ -37,7 +37,10 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
     cands = {c['id']: c for c in json.loads((IL / 'candidates.json').read_text(encoding='utf-8'))}
-    results = {r['id']: r for p in sorted((IL / 'results').glob('part*.json')) for r in json.loads(p.read_text(encoding='utf-8'))}
+    results = {r['id']: r for p in sorted((IL / 'results').glob('*.json')) for r in json.loads(p.read_text(encoding='utf-8'))}
+    for i, r in results.items():  # round 2 proposed its own buildings, with their facts in the result
+        if i not in cands and all(r.get(k) for k in ('name', 'by', 'city', 'cc', 'year', 'type', 'movement', 'concepts', 'features')):
+            cands[i] = {**{k: r[k] for k in ('name', 'by', 'city', 'cc', 'year', 'type', 'movement', 'concepts', 'features')}, 'id': i, 'qid': None}
     rej = IL / 'rejected.txt'
     rejected = {l.split('#')[0].strip() for l in rej.read_text(encoding='utf-8').splitlines()} - {''} if rej.exists() else set()
     choices = json.loads(CHOICES.read_text(encoding='utf-8'))
@@ -61,6 +64,10 @@ def main():
         if r['status'] == 'drawn':
             rel = f'images/{i}/drawing.svg'
             b['images'] = [{'src': rel, 'thumb': rel, **DRAWING}]
+            after = r.get('after')
+            if after:  # drawn after one free photo: credit it; CC BY-SA covers both a BY and a BY-SA source
+                f = after.get('file') if isinstance(after, dict) else str(after).split(' (')[0]
+                b['images'][0].update(credit=f'Drawing: Discover Architecture, after {f}', license='CC BY-SA 4.0')
             if not args.dry_run:
                 (ROOT / 'site' / 'images' / i).mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(svg, ROOT / 'site' / 'images' / i / 'drawing.svg')
