@@ -304,5 +304,425 @@
    "https://en.wikipedia.org/wiki/Weyerhaeuser_Corporate_Headquarters"
   ],
   "note": "Now part of Woodbridge Corporate Park; the company left in 2016. Some files are filed under the new name."
+ },
+ {
+  "id": "exchange-house-broadgate",
+  "name": "Exchange House, Broadgate",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "London",
+  "cc": "GB",
+  "year": "1990",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "features": "Offices bridge the Liverpool Street railway tracks, hung from four exposed parabolic steel arches.",
+  "award": "AIA Twenty-five Year Award 2015",
+  "status": "photo",
+  "commons_category": "Category:Exchange House, Broadgate",
+  "photos": [
+   {
+    "file": "File:Exchange House seen from Exchange Square.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Primrose Street, London EC2 (54067009216).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Exchange House in the low winter sun.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:View from underneath Exchange House.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Exchange_House,_London"
+  ],
+  "note": null
+ },
+ {
+  "id": "sainsbury-wing-national-gallery",
+  "name": "Sainsbury Wing, National Gallery",
+  "by": "Venturi, Scott Brown and Associates",
+  "city": "London",
+  "cc": "GB",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Portland stone front borrows the old gallery's pilasters, then thins them out; top-lit galleries recall Soane.",
+  "award": "AIA Twenty-five Year Award 2019",
+  "status": "photo",
+  "commons_category": "Category:Sainsbury Wing",
+  "photos": [
+   {
+    "file": "File:National Gallery London Sainsbury Wing 2006-04-17.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:National Gallery - Sainsbury Wing (1) - 17 May 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:The National Gallery - Trafalgar Square, London - The National Gallery Sainsbury Wing (6427166221).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Sainsbury Wing (8570518520).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sainsbury_Wing"
+  ],
+  "note": "The entrance was remodelled by Selldorf Architects in 2023-25; older photos show the original Venturi entrance."
+ },
+ {
+  "id": "burton-barr-central-library",
+  "name": "Burton Barr Central Library",
+  "by": "Will Bruder",
+  "city": "Phoenix",
+  "cc": "US",
+  "year": "1995",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Tensile structure",
+   "Light from above"
+  ],
+  "features": "Copper-clad desert box; the top reading room's roof hangs on cables, and the north and south walls tune the sun.",
+  "award": "AIA Twenty-five Year Award 2021",
+  "status": "photo",
+  "commons_category": "Category:Burton Barr Central Library",
+  "photos": [
+   {
+    "file": "File:Burton Barr Central Library-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Burton Barr Central Library-5.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Phoenix Central Library - North East Corner - 2008-12-27.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burton_Barr_Central_Library"
+  ],
+  "note": null
+ },
+ {
+  "id": "monterey-bay-aquarium",
+  "name": "Monterey Bay Aquarium",
+  "by": "EHDD (Esherick Homsey Dodge & Davis)",
+  "city": "Monterey",
+  "cc": "US",
+  "year": "1984",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Climate response"
+  ],
+  "features": "Built on the Hovden sardine cannery site, keeping its boiler-house smokestacks; decks and tanks open onto the bay.",
+  "award": "AIA Twenty-five Year Award 2016",
+  "status": "photo",
+  "commons_category": "Category:Exterior views of Monterey Bay Aquarium",
+  "photos": [
+   {
+    "file": "File:Monterey Bay Aquarium exterior August 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MontereyBayAquariumBackview.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Monterey Bay Aquarium Front.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior views of Monterey Bay Aquarium 2 2017-11-21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monterey_Bay_Aquarium"
+  ],
+  "note": "Use the 'Exterior views' subcategory; the main category is mostly animals and exhibits."
+ },
+ {
+  "id": "philip-merrill-environmental-center",
+  "name": "Philip Merrill Environmental Center",
+  "by": "SmithGroup",
+  "city": "Annapolis",
+  "cc": "US",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Reclaimed material"
+  ],
+  "features": "The first LEED Platinum building: a timber-framed office on the bay, using passive solar design and recycled materials.",
+  "award": "AIA Twenty-five Year Award 2026",
+  "status": "photo",
+  "commons_category": "Category:Chesapeake Bay Foundation",
+  "photos": [
+   {
+    "file": "File:The Philip Merrill Environmental Center.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philip_Merrill_Environmental_Center"
+  ],
+  "note": "Only one photo, 1024x768 (meets the 800px rule, not 1200px). It clearly shows the timber-framed building. Headquarters of the Chesapeake Bay Foundation."
+ },
+ {
+  "id": "design-research-building",
+  "name": "Design Research Building",
+  "by": "Benjamin Thompson & Associates",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1969",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "A shop with no solid walls: clear glass hung between thin concrete floor slabs, so the store becomes a lit display.",
+  "award": "AIA Twenty-five Year Award 2003",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Architects-Corner-Brattle-St-Cambridge-MA-05-2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2014-04-15-Architects-Corner-Brattle-Street-Cambridge-Massachusetts.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Design_Research_(store)",
+   "https://en.wikipedia.org/wiki/Benjamin_C._Thompson"
+  ],
+  "note": "No own Commons category. Both photos show 'Architect's Corner' on Brattle Street with the glass DR building in front (Sert's office building alongside); a crop would centre it."
+ },
+ {
+  "id": "faneuil-hall-marketplace",
+  "name": "Faneuil Hall Marketplace (Quincy Market)",
+  "by": "Benjamin Thompson & Associates (renovation); Alexander Parris (1826 market)",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1976",
+  "type": "Public space",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "Three 1820s granite market halls revived as a 'festival marketplace', with glass canopies added along the sides.",
+  "award": "AIA Twenty-five Year Award 2009",
+  "status": "photo",
+  "commons_category": "Category:Quincy Market",
+  "photos": [
+   {
+    "file": "File:Boston - Quincy Market (48718567558).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Boston, Quincy Market.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dome - Quincy Market, Boston, MA - DSC05449.JPG",
+    "license": "CC0"
+   },
+   {
+    "file": "File:2010 SouthMarket Boston.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:GENERAL VIEW OF SOUTH FRONT, FROM SOUTHWEST - Quincy Market, South Market Street, Boston, Suffolk County, MA HABS MASS,13-BOST,118-8.tif",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quincy_Market",
+   "https://en.wikipedia.org/wiki/Faneuil_Hall_Marketplace"
+  ],
+  "note": "The award is for the 1976-78 renovation, which set the pattern for 'festival marketplaces'. The HABS file is a photo of the market (1960s-70s survey), listed here as an extra in case it's wanted; it is not a drawing."
+ },
+ {
+  "id": "the-box-culver-city",
+  "name": "The Box (Conjunctive Points)",
+  "by": "Eric Owen Moss Architects",
+  "city": "Culver City",
+  "cc": "US",
+  "year": "1994",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Cantilever"
+  ],
+  "features": "A skewed box-shaped room perches on an old warehouse roof: part of Moss's remaking of the Hayden Tract.",
+  "award": "AIA Twenty-five Year Award 2020 (Conjunctive Points - The New City)",
+  "status": "photo",
+  "commons_category": "Category:The Box (building)",
+  "photos": [
+   {
+    "file": "File:The Box, Eric Owen Moss, Culver City, CA (5459044960).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Box, Eric Owen Moss, Culver City, CA (5459045216).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:The Box, Eric Owen Moss, Culver City, CA (5459045516).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Owen_Moss"
+  ],
+  "note": "The award covers a group of reused warehouses in Culver City's Hayden Tract (Conjunctive Points); The Box stands in for the group. Other Commons categories: Category:Stealth (building), Category:What Wall?, Category:Samitaur Tower (2010, later than the award). Don't use File:Dancing Bleachers.jpg (a different SCI-Arc installation)."
+ },
+ {
+  "id": "washington-metro",
+  "name": "Washington Metro stations",
+  "by": "Harry Weese",
+  "city": "Washington",
+  "cc": "US",
+  "year": "1976",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Vault",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "One idea repeated underground: a coffered concrete vault lit indirectly from below, with no columns on the platform.",
+  "award": "AIA Twenty-five Year Award 2014",
+  "status": "photo",
+  "commons_category": "Category:Metro Center station",
+  "photos": [
+   {
+    "file": "File:Dupont Circle- Metro station.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ceiling at Metro Center (50088263313).png",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:12-07-12-wikimania-wdc-by-RalfR-017.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Washington_Metro",
+   "https://en.wikipedia.org/wiki/Harry_Weese"
+  ],
+  "note": "The architecture here is the station interior (the vaults), so the photos are interiors by design. Opened 1976. Dupont Circle and Metro Center are typical stations."
+ },
+ {
+  "id": "haystack-mountain-school-of-crafts",
+  "name": "Haystack Mountain School of Crafts",
+  "by": "Edward Larrabee Barnes",
+  "city": "Deer Isle",
+  "cc": "US",
+  "year": "1961",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Cluster"
+  ],
+  "features": "Cedar-shingled studios with peaked roofs float on piers above a steep slope, along a grand stair down to the sea.",
+  "award": "AIA Twenty-five Year Award 1994",
+  "status": "drawn",
+  "commons_category": "Category:Haystack Mountain School of Crafts",
+  "photos": [],
+  "extras": [],
+  "view": "side elevation across the slope: peaked-roof studios on piers stepping down beside the central stair to a landing at the water",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haystack_Mountain_School_of_Crafts",
+   "https://www.haystack-mtn.org/campus (via search summary)",
+   "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/05001469_text (National Register nomination, via search summary)"
+  ],
+  "note": "No free exterior photo on Commons (the category has only two portraits; other Haystack files are interiors of an edit-a-thon). Sources confirm cedar-shingle walls and peaked roofs meeting at clean corners without overhang, buildings raised on concrete piers, linked by decks, and a grand central stair down to the water; roof pitch and window pattern are not documented, so the drawing is schematic (no windows). Four studios stand in for the 30-odd buildings."
  }
 ]

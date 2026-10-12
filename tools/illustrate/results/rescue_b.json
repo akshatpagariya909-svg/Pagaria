@@ -61,5 +61,213 @@
   "photos": [],
   "commons_category": "Category:Villa La Saracena (Santa Marinella)",
   "note": "The category holds only the Paolo Monti photo already tried; searches for Saracena / 'Villa detta la Saracena' / Saracena Moretti find nothing else on Commons."
+ },
+ {
+  "id": "banca-popolare-di-verona",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Banca Popolare di Verona",
+  "note": "No clear photo of Scarpa's facade on Commons. Category:Banca Popolare di Verona only has branch offices elsewhere; Piazza Nogara photos show the facade with its round windows only small and behind parked cars (best of these: File:Piazza Nogara (1).jpg, CC BY-SA 4.0, a distant fallback)."
+ },
+ {
+  "id": "ceramica-solimene",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Ceramica Artistica Solimene Vincenzo",
+  "note": "The category holds only the three tried 'Vietri sul mare' files; searches for Solimene, Soleri + Vietri and the factory find nothing else on Commons."
+ },
+ {
+  "id": "olivetti-pozzuoli",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Olivetti (Pozzuoli)",
+  "note": "Only the two tried Paolo Monti 1965 photos exist; the related category 'Campania - Pozzuoli - Stabilimento Olivetti - Villaggio Olivetti' is empty and searches (Olivetti Pozzuoli, Cosenza stabilimento) find nothing else."
+ },
+ {
+  "id": "lycabettus-theatre",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Athina Lykavittos amfiteatr.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Attica 06-13 Athens 46 View from Lycabettus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vue Athènes depuis Colline Lycabette - Athènes (GRA1) - 2022-03-26 - 19.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Lycabettus Theatre",
+  "note": "Every free photo is taken from the summit of Lycabettus looking down, so the theatre is never a close-up. These three show it most clearly: the curved red-and-yellow seating set into the quarry rock, centred and filling about a third of the frame. Consider cropping to the theatre. A tighter shot (File:Lycabettus Theatre.jpg) exists but is GFDL only, so it was skipped."
+ },
+ {
+  "id": "punta-nave-rpbw",
+  "status": "none",
+  "photos": [],
+  "commons_category": null,
+  "note": "No Commons category. Category:Vesima has only the tried detail and a 1006px beach view where the glass workshop is a tiny speck on the hillside; nothing shows the stepped glass roof clearly."
+ },
+ {
+  "id": "house-before-house",
+  "status": "none",
+  "photos": [],
+  "commons_category": null,
+  "note": "The only Commons file is the tried 'House Before House 2009.jpg' (in Category:Sou Fujimoto); title and full-text searches find nothing else."
+ },
+ {
+  "id": "seoul-arts-center",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Seoul Arts Center 20.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Korea-Seoul.Arts.Center-02.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Seoul Arts Center",
+  "note": "First: the Opera House front from Nambu Beltway, centred: round drum with the gat-shaped roof and arched entrance (street traffic in the lower third; crop from the top). Second: the roof edge rising over the garden terraces (1600px). Most other files in the category are concerts, interiors or vending machines."
+ },
+ {
+  "id": "asia-culture-center",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:-include red, 75x16m 1,200㎡(2017) GRAYCODE, jiiiiin.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Asia Culture Center, Gwangju",
+  "note": "Weak: the only exterior close-up is a night shot of the ACC's long facade block over its glass base, lit red by the light artwork '#include red' (GRAYCODE, jiiiiin, 2017), 2112px. It shows the building's form but reads as an art piece; the owner may prefer to treat this as 'none'. Everything else in the category is meetings, performances or the tried aerial panorama."
+ },
+ {
+  "id": "erdene-zuu",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Stupy w murze klasztoru Erdene Dzuu 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Erdene Zuu Monastery 05.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Erdene Zuu Monastery 06.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Klasztor Erdene Dzuu widziany ze szczytu wzniesienia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Erdene Zuu Monastery",
+  "note": "First: the enclosure wall with its white stupas under blue sky. Then the Zuu temples on their raised platform, temple pavilions in the courtyard, and the whole square stupa-wall enclosure seen from the hill above."
+ },
+ {
+  "id": "amarbayasgalant-monastery",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Amarbayasgalant monastery temple 01.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Amarbayasgalant monastery in Mongolia 2.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Amarbayasgalant Monastery - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amarbayasgalant Monastery.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Amarbayasgalant Monastery",
+  "note": "First: the main two-storey temple (Tsogchin) close up on its stone platform. Then the whole walled, symmetrical complex in the valley from the hillside, a temple front on axis down the path, and the long red wall in open steppe."
+ },
+ {
+  "id": "chinggis-khaan-statue-complex",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Genghis Khan Equestrian Statue, photo by Vaiz Ha.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:GenghisKhanEquestrianMonument (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Genghis Khan Equestrian Statue.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:ChinggisStatue.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Genghis Khan Equestrian Statue, Tsonjin Boldog",
+  "note": "Commons category exists (the building had none recorded): Category:Genghis Khan Equestrian Statue, Tsonjin Boldog. First: the steel horseman on the round colonnaded visitor-centre drum, whole and centred. Then the approach stair on axis, a wider view with clouds (CC0), and a close-up of the rider from the viewing platform."
+ },
+ {
+  "id": "world-peace-gate",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:World Peace Gate",
+  "note": "The category holds only the tried park views and close-ups of the eternal flame under the gate. Category:Seoul Olympic Park (about 80 files) has nothing better: the gate appears only small and partly hidden behind trees in File:Entrance of the Seoul Olympic Park.jpg."
+ },
+ {
+  "id": "puente-de-la-mujer",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Puente de la Mujer in Puerto Madero.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Puente de la Mujer - Puerto Madero - Buenos Aires - Argentina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Puente de la Mujer (8661093300).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:PuentedelaMujer.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Puente de la Mujer",
+  "note": "First: the white mast and cable-stayed deck close up from the dock, whole bridge in frame. Then the bridge at golden hour against the Puerto Madero towers, a side view under clouds, and an upward detail of the mast and cables."
  }
 ]

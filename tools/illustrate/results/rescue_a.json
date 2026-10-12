@@ -176,5 +176,310 @@
   "photos": [],
   "commons_category": "Category:Palais Bulles",
   "note": "Only clear free view is File:Théoule-sur-Mer-Miramar, Le Paleis Bulles - panoramio.jpg (CC BY 3.0, seen: the bubble house on the hillside, clearly shown) but it is only 676x507, under the 800px floor. Use it only if a small image is acceptable. 064 La pointe de l'Esquillon is a distant coastline view."
+ },
+ {
+  "id": "lascaux-iv",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Lascaux-IV von Snøhetta.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lascaux-IV 29.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lascaux-IV 30.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lacsaux VOA 2021 02.webp",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Lascaux 4",
+  "note": "Von Snøhetta (4032x3024): entrance approach with the folded concrete-and-glass wedge cut into the hillside. Lascaux-IV 29: long glazed facade with reflecting pool; 30: approach path to the facade. VOA (1597x1198, webp, US gov public domain): wide view of the low building at the foot of the hill. Most other Lascaux-IV files are replica cave paintings."
+ },
+ {
+  "id": "musee-arles-antique",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Arles- Musée bleu 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arles- Musée bleu 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Virage musée bleu.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Francia2010 (4774204999).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Musée de l'Arles antique",
+  "note": "Musée bleu 1 and 2 (4608x3072): the blue enamelled-glass facade and entrance with its concrete volumes. Virage: the blue wall above the curved concrete circus-shaped wall. Francia2010 (4774204999): top-lit interior galleries with sarcophagi."
+ },
+ {
+  "id": "historial-de-la-grande-guerre",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Étang du Cam de Péronne 8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Historial de la Grand Guerre, Peronne (8).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Historial de la Grand Guerre, Peronne (10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Historial de la Grande Guerre in Péronne (Somme)",
+  "note": "Most category photos show the medieval castle gate, not Ciriani's building. Étang du Cam 8 (4208x2368) is the only clear exterior: the white pilotis block reflected in the lake, framed by trees (mid-distance). Historial (8) and (10): Ciriani's white top-lit galleries with the sunken floor display pits."
+ },
+ {
+  "id": "fondation-avicenne",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Fondation Avicenne High Key.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fondation Avicenne 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fondation Avicenne 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Fondation Avicenne",
+  "note": "Three 6000x4000 photos by Ryan Young, not yet in the Fondation Avicenne category. High Key: frontal elevation with the three suspended blocks and spiral stair. 02: corner view from below showing the hung blocks and stair. 01: three-quarter view from the path."
+ },
+ {
+  "id": "unesco-headquarters",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:P1120654 Paris VII place de Fontenoy rwk.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paris - UNESCO (27137059030).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:UNESCO, 125 avenue de Suffren, Paris 7e 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:UNESCO @ Paris (26994507956).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:UNESCO headquarters",
+  "note": "P1120654 (2200x1233): the curved Y-shaped Secretariat facade from Place de Fontenoy (street and parked cars in foreground). 27137059030: close facade detail with the Henry Moore reclining figure. 125 avenue de Suffren 1: the Nervi/Breuer conference building with folded copper roof. 26994507956: wider view of the curved block across Place de Fontenoy. Most category files are UNESCO archive scans (many show the card backs) or events."
+ },
+ {
+  "id": "maison-de-la-radio",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Radio France @ Ile aux Cygnes @ Paris (28114145451).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:GD-FR-Paris-Maison de la Radio.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Maison de Radio France @ Summit @ Eiffel Tower @ Paris (34851080930).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Maison de la Radio (Paris)",
+  "note": "28114145451 (5472x3648): eye-level view across the Seine of the ring and central tower (river in the lower half). GD-FR (1600x1200): close aerial from the Eiffel Tower showing the circular plan and tower. 34851080930: wider aerial with the Seine. Skipped the AS.Architecture-Studio file (a render) and the over-saturated panoramas."
+ },
+ {
+  "id": "orgues-de-flandre",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Orgues de Flandre (27199297528).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Porte des Flamands (Paris, 19e arrondissement).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Allée Orgues Flandre - Paris XIX (FR75) - 2021-07-24 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Orgues de Flandre",
+  "note": "27199297528 (2048x1536): the three main towers rising above Paris rooftops, clearly shown (telephoto, mid-distance). Porte des Flamands: the old gate re-erected inside the complex, framed by the estate's slab blocks. Allée 1: the pedestrian street between the towers. The best view of the stepped organ-pipe facade on avenue de Flandre is only 742x497 (Maxim Pouska), too small."
+ },
+ {
+  "id": "tour-cma-cgm",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:File by Alexander Baranov - IMG 3616 (15978521417).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tour CMA-CGM, gros Ferries. Petit phare (22650942945).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:CMA-CGM Tour.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Tour CMA-CGM",
+  "note": "No close full-height view exists on Commons. Baranov (2544x1696): the tower centred across the harbour, its split curving form clear but mid-distance; a crop would work well. Gros Ferries (5184x3888): the tower beside the harbour lighthouse with ferries. CMA-CGM Tour.jpeg: the glazed base with the container-carrying sculpture. Interior construction shots (TourCMACGMinterieur etc.) exist but are unremarkable."
+ },
+ {
+  "id": "fondation-jerome-seydoux-pathe",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:CF1395 Paris 13e avenue des Gobelins n73 rwk.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Théâtre des Gobelins, juillet 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Théâtre Gobelins vue.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Théâtre des Gobelins",
+  "note": "Piano's curved glass-and-aluminium shell sits in the courtyard and is hard to photograph from the street. CF1395 (2849x4000) and juillet 2025 show the Rodin facade at 73 avenue des Gobelins with the top of the shell rising behind it; Gobelins vue shows the glazed entrance with the Fondation Jérôme Seydoux-Pathé sign. No free close view of the shell itself beyond the tried Flickr files."
+ },
+ {
+  "id": "douglas-house-harbor-springs",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Richard Meier buildings",
+  "note": "Only the tried File:Douglas House.jpg and a section drawing (File:Section of Douglas House.jpg) by the same uploader exist; no other Commons photos of Meier's Douglas House in Harbor Springs."
+ },
+ {
+  "id": "elrod-house",
+  "status": "none",
+  "photos": [],
+  "commons_category": null,
+  "note": "Only the tried file exists on Commons (also the only Elrod file in Category:John Lautner); searches for Elrod House and Lautner Palm Springs found nothing else."
+ },
+ {
+  "id": "walsh-street-house",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Boyd House II",
+  "note": "Category holds the tried gate photo, three 600x402 snapshots (doorplate, stairs, windows; too small) and drawings (courtyard sketch, 3D drawing, plans, sections). No usable photo of the house."
+ },
+ {
+  "id": "noyes-house-new-canaan",
+  "status": "none",
+  "photos": [],
+  "commons_category": null,
+  "note": "Only the tried 1024x680 file exists for Eliot Noyes's own house; Category:Eliot Noyes has other works (Graham House, Mobil stations) but no New Canaan house. Noyes House, January 2014.jpg is Saarinen's Vassar dormitory, a different building."
+ },
+ {
+  "id": "villa-girasole",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Villa Girasole",
+  "note": "Category holds only the two tried files; searches for Girasole Marcellise and Invernizzi find nothing else."
+ },
+ {
+  "id": "teatro-del-mondo",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Teatro del mondo, Aldo Rossi.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Teatro del Mondo",
+  "note": "Only untried file. 768x1024 (long side 1024, under 1200 but nothing bigger is usable). Clear frontal view of the yellow timber tower with blue-grey bands, octagonal drum and ball finial, up its gangway. Caveat: it shows the 2004 reconstruction moored in Genoa (description says 1984 exhibition but EXIF date is 2004), not the 1979 Venice original. Decide whether a reconstruction is acceptable."
+ },
+ {
+  "id": "teatro-regio-turin",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:FacciataASTo-TeatroRegio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torino Piazza Castello 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatro Regio di Torino Interni 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatro Regio di Torino Interni.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Teatro Regio (Turin)",
+  "note": "FacciataASTo-TeatroRegio (4843x2276): Mollino's curved glazed foyer wall reflecting the Archivio di Stato facade, the clearest exterior of the 1973 building (no full street elevation exists). Piazza Castello 06: the Mastroianni bronze gate under the arcade, the theatre's entrance. Interni 3: the auditorium with its suspended light-rod ceiling and red seats. Interni: the sculpted concrete foyer staircase."
+ },
+ {
+  "id": "vele-di-scampia",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Vele di Scampia (Naples)",
+  "note": "Only untried photo is File:Vele di Scampia Di Salvo2.jpg (4000x6016, CC BY-SA 3.0 it): black-and-white, one Vela small in the upper third behind trees with a weedy roadside foreground. Recognisable but not a clear view; use only as a last resort. Case Popolari a Scampia shows other housing blocks, not the Vele."
  }
 ]

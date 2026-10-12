@@ -88,7 +88,7 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://en.wikipedia.org/wiki/Embassy_of_the_Netherlands,_Berlin"
+   "https://en.wikipedia.org/wiki/Netherlands_Embassy_Berlin"
   ],
   "note": "Also Category:Dutch Embassy, Berlin."
  },
@@ -133,7 +133,7 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://en.wikipedia.org/wiki/MUSAC"
+   "https://en.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Castilla_y_Le%C3%B3n"
   ],
   "note": "Exterior photos are in Category:Exterior of the MUSAC."
  },
@@ -176,8 +176,1038 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://en.wikipedia.org/wiki/Kleiburg"
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
   ],
   "note": "2015 photos may show the slab mid-renovation; the 2021 one is after."
+ },
+ {
+  "id": "banco-borges-e-irmao",
+  "name": "Banco Borges & Irmão",
+  "by": "Álvaro Siza",
+  "city": "Vila do Conde",
+  "cc": "PT",
+  "year": "1986",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Small white bank on a corner, its curved wall turning the street; the first Mies van der Rohe Award.",
+  "award": "Mies van der Rohe Award 1988",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Banco Borges e Irmão Vila do Conde 2011.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vila do Conde Bank by Álvaro Siza photo by Christian Gänshirt.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "No Commons category; both files found by search. Second photo is a close side view with the entrance stair."
+ },
+ {
+  "id": "palau-municipal-d-esports-de-badalona",
+  "name": "Palau Municipal d'Esports de Badalona",
+  "by": "Esteve Bonell, Francesc Rius",
+  "city": "Badalona",
+  "cc": "ES",
+  "year": "1991",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "Oval arena built for basketball at the 1992 Olympics, one roof spanning the whole seating bowl.",
+  "award": "Mies van der Rohe Award 1992",
+  "status": "photo",
+  "commons_category": "Category:Pavelló Olímpic de Badalona",
+  "photos": [
+   {
+    "file": "File:Palau Olímpic de Badalona (cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Badalona - Ciutat del Bàsket.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palau_Municipal_d%27Esports_de_Badalona"
+  ],
+  "note": "Weak set: the only exterior photos are one distant view from a hill (and its crop, 1423x1174). Other files are interiors."
+ },
+ {
+  "id": "study-pavilion-tu-braunschweig",
+  "name": "Study Pavilion, TU Braunschweig",
+  "by": "Gustav Düsing, Max Hacke",
+  "city": "Braunschweig",
+  "cc": "DE",
+  "year": "2023",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Modular",
+   "Steel & glass",
+   "Free plan"
+  ],
+  "features": "A light steel frame of open, fully glazed study floors with outside stairs, built to be taken apart.",
+  "award": "Mies van der Rohe Award 2024",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:20240410 Braunschweig TUBS StudierendenhausDerTechnischenUniversitätBS DSC06126 PtrQs.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BS Studierendenhaus Abend.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studierendenhaus der Technischen Universität Braunschweig MH-GD 1287.jpeg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "German name: Studierendenhaus der TU Braunschweig. Both seen photos are dusk/night views."
+ },
+ {
+  "id": "palais-des-expositions-charleroi",
+  "name": "Palais des Expositions (Grand Palais), Charleroi",
+  "by": "AgwA, architecten jan de vylder inge vinck",
+  "city": "Charleroi",
+  "cc": "BE",
+  "year": "2024",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "1950s exhibition halls opened up and reworked, with a sunken park and open-air seating cut into the site.",
+  "award": "Mies van der Rohe Award 2026",
+  "status": "photo",
+  "commons_category": "Category:Grand Palais (Charleroi)",
+  "photos": [
+   {
+    "file": "File:Grand Palais 2024 IMG 1911.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Palais 2024 IMG 6810.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Palais 2024 IMG 2096.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Palais 2024 IMG 1931.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Completion year not confirmed by a source (CC0 photos from 2024 show it finished); check before publishing. Original 1954 building by Joseph Tirou and Octave Pinkers. Many more CC0 2023-24 photos in the category."
+ },
+ {
+  "id": "stadthaus-scharnhauser-park",
+  "name": "Stadthaus Scharnhauser Park",
+  "by": "J. Mayer H.",
+  "city": "Ostfildern",
+  "cc": "DE",
+  "year": "2002",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Town hall whose upper floors overhang the square as a deep canopy, with a field of light rods in front.",
+  "award": "Mies van der Rohe Award 2003, Emerging Architect special mention",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stadthaus Ostfildern.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Landappbw 98935 1819 Stadthaus Ostfildern.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Only two files, no category. The CC0 one is 1280x720."
+ },
+ {
+  "id": "basketbar",
+  "name": "BasketBar",
+  "by": "NL Architects",
+  "city": "Utrecht",
+  "cc": "NL",
+  "year": "2003",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Colour",
+   "Community"
+  ],
+  "features": "Campus café and bookshop with a full basketball court on its roof, the café floor sunk below the square.",
+  "award": "Mies van der Rohe Award 2005, Emerging Architect special mention",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:BasketBar.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Only one photo on Commons."
+ },
+ {
+  "id": "la-borda",
+  "name": "La Borda",
+  "by": "Lacol",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "2018",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Resident-owned cooperative housing in cross-laminated timber around a covered central courtyard.",
+  "award": "Mies van der Rohe Award 2022, Emerging Architecture winner",
+  "status": "photo",
+  "commons_category": "Category:La Borda",
+  "photos": [
+   {
+    "file": "File:La Borda building - rear facade, whole building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:La Borda etxebizitza kooperatibaren hegoaldeko fatxada.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:La Borda building - rear facade in context.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "The 'front facade' files in the category seem to show the neighbouring street front, not La Borda itself; I left them out."
+ },
+ {
+  "id": "biblioteca-gabriel-garcia-marquez",
+  "name": "Biblioteca Gabriel García Márquez",
+  "by": "SUMA Arquitectura",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "2022",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light from above",
+   "Facade as skin"
+  ],
+  "features": "Stacked, shifted floors around a top-lit atrium, built in timber and wrapped in vertical metal fins.",
+  "award": "Mies van der Rohe Award 2024, Emerging Architecture winner",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:162 Biblioteca Gabriel García Márquez, c. Treball 219 (Barcelona), angle nord-est.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:171 Biblioteca Gabriel García Márquez, c. Treball 219 (Barcelona), angle nord-oest.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:165 Biblioteca Gabriel García Márquez, c. Treball 219 - c. Concili de Trento (Barcelona).jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Good interior series too (files 170-181)."
+ },
+ {
+  "id": "navez-social-housing",
+  "name": "NAVEZ, 5 social housing units",
+  "by": "MSA, V+",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "2016",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Five social flats in a slim white tower with softened, curved corners that closes the end of a city block.",
+  "award": "Mies van der Rohe Award 2017, Emerging Architect winner",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Logements Navez-Portaels.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Immeuble de logements Navez - Portaels.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Corner of rue Navez and rue Portaels, Schaerbeek. Completion year from memory (2016); check."
+ },
+ {
+  "id": "selfridges-birmingham",
+  "name": "Selfridges Building, Birmingham",
+  "by": "Future Systems (Jan Kaplický, Amanda Levete)",
+  "city": "Birmingham",
+  "cc": "GB",
+  "year": "2003",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Department store as a curving blob, its blue skin covered in 15,000 spun aluminium discs.",
+  "award": "Mies van der Rohe Award 2005 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Selfridges Building Birmingham.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Selfridges, Bullring, Birmingham - geograph.org.uk - 1937159.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Selfridges emerging, Bullring, Birmingham - geograph.org.uk - 7193519.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Selfridges_Building,_Birmingham"
+  ],
+  "note": "Type is a department store; vocab has no retail type, so Workplace."
+ },
+ {
+  "id": "pavillon-noir",
+  "name": "Pavillon Noir (Centre Chorégraphique National)",
+  "by": "Rudy Ricciotti",
+  "city": "Aix-en-Provence",
+  "cc": "FR",
+  "year": "2006",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Glass box for a dance company held inside a black concrete exoskeleton of irregular diagonal struts.",
+  "award": "Mies van der Rohe Award 2007 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Le Pavillon Noir (205248751).jpeg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Only one free photo (2048x1356, black and white corner view). France has no freedom of panorama, so it could be deleted later; if it goes, this one is easy to draw."
+ },
+ {
+  "id": "zenith-strasbourg",
+  "name": "Zénith de Strasbourg",
+  "by": "Massimiliano and Doriana Fuksas",
+  "city": "Eckbolsheim",
+  "cc": "FR",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "Concert hall wrapped in orange textile membrane over elliptical steel rings that twist as they rise.",
+  "award": "Mies van der Rohe Award 2009 finalist",
+  "status": "photo",
+  "commons_category": "Category:Zénith de Strasbourg",
+  "photos": [
+   {
+    "file": "File:Zénith de Strasbourg Europe février 2015-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zénith de Strasbourg Europe février 2015-1.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:ZénithStrasbourg.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Zénith de Strasbourg.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Z%C3%A9nith_de_Strasbourg"
+  ],
+  "note": "In France (no freedom of panorama) but several photos have survived. Strasbourg-Eckbolsheim."
+ },
+ {
+  "id": "rivesaltes-memorial",
+  "name": "Rivesaltes Camp Memorial",
+  "by": "Rudy Ricciotti",
+  "city": "Rivesaltes",
+  "cc": "FR",
+  "year": "2015",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Long concrete monolith sunk into the old camp, its roof no higher than the ruined barracks around it.",
+  "award": "Mies van der Rohe Award 2017 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Memorial del Camp de Ribesaltes 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Camp_de_Rivesaltes"
+  ],
+  "note": "Weak: the one exterior photo shows the flat roof barely above the ground among the barracks, which is the building's point but reads faintly. Files 4 and 5 of the same series are interiors; 1-3 show the barracks only. If the owner wants a clearer image this is a good drawing candidate."
+ },
+ {
+  "id": "kannikegarden-ribe",
+  "name": "Kannikegården",
+  "by": "Lundgaard & Tranberg",
+  "city": "Ribe",
+  "cc": "DK",
+  "year": "2015",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Parish house beside Ribe Cathedral; steep roofs and walls wrapped in one skin of brick, over medieval ruins.",
+  "award": "Mies van der Rohe Award 2017 finalist",
+  "status": "photo",
+  "commons_category": "Category:Kannikegården (Ribe)",
+  "photos": [
+   {
+    "file": "File:Kannikegården, Ribe 2024 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ribe - Kannikegården 01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kannikegården, Ribe 2022a.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "The ruins under the building are visible inside; photos of them are in the category."
+ },
+ {
+  "id": "katyn-museum-warsaw",
+  "name": "Katyń Museum",
+  "by": "BBGK Architekci",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Promenade",
+   "Landscape"
+  ],
+  "features": "Museum in a 19th-century citadel fort; a narrow stair cuts straight through the earth rampart.",
+  "award": "Mies van der Rohe Award 2017 finalist",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Katyń Museum in Warsaw",
+  "photos": [
+   {
+    "file": "File:Warschauer Zitadelle, Katyn-Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaponiera południowa Cytadeli Warszawskiej 2021.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:PL Wwa, Muz Katyn, 2024.08.29, fot Ivonna Nowicka (3) CORR.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katyn_Museum"
+  ],
+  "note": "Parent Category:Katyn Museum in Warsaw also has many interior photos (2023 series). Opening year from memory; check."
+ },
+ {
+  "id": "saw-swee-hock-student-centre",
+  "name": "Saw Swee Hock Student Centre, LSE",
+  "by": "O'Donnell + Tuomey",
+  "city": "London",
+  "cc": "GB",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Faceted brick block shaped by the narrow streets around it, with perforated brick screens over its windows.",
+  "award": "Mies van der Rohe Award 2015 finalist",
+  "status": "photo",
+  "commons_category": "Category:LSE Saw Swee Hock Student Centre",
+  "photos": [
+   {
+    "file": "File:Saw Swee Hock Student Centre, LSE 02.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:London School of Economics 7 Jan 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:LSE's weird new building.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saw_Swee_Hock_Student_Centre"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kunstmuseum-ravensburg",
+  "name": "Kunstmuseum Ravensburg",
+  "by": "Lederer Ragnarsdóttir Oei",
+  "city": "Ravensburg",
+  "cc": "DE",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Reclaimed material"
+  ],
+  "features": "Museum walled in reclaimed brick, its roof a row of brick vaults that shows as a wavy parapet.",
+  "award": "Mies van der Rohe Award 2015 finalist",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Ravensburg",
+  "photos": [
+   {
+    "file": "File:Ravensburg Kunstmuseum 2013-04 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kunstmuseum Ravensburg 2013-03-10 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ravensburg Kunstmuseum 2012-12-22.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Ravensburg"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ciniba-katowice",
+  "name": "Scientific Information Centre and Academic Library (CINiBA)",
+  "by": "HS99",
+  "city": "Katowice",
+  "cc": "PL",
+  "year": "2012",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Two interlocking blocks clad in red sandstone, pierced by scattered narrow vertical windows.",
+  "award": "Mies van der Rohe Award 2015 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:CINiBA - library building in Katowice 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Katowice CINiBA SE 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Katowice CINiBA 2018.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Cladding material (red sandstone) from memory; check."
+ },
+ {
+  "id": "stadshal-ghent",
+  "name": "Stadshal (Market Hall), Ghent",
+  "by": "Robbrecht en Daem, Marie-José Van Hee",
+  "city": "Ghent",
+  "cc": "BE",
+  "year": "2012",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Open hall of twin steep timber-clad roofs on concrete legs among Ghent's towers; light pierces the wooden ceiling.",
+  "award": "Mies van der Rohe Award 2013 finalist",
+  "status": "photo",
+  "commons_category": "Category:Stadshal (Gent)",
+  "photos": [
+   {
+    "file": "File:20160416-Belgium-Gent-Stadshal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stadshal and belfort in Ghent.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stadshal Gent 30-06-2019 12-07-46.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Many more photos in the category, inside and out."
+ },
+ {
+  "id": "sines-arts-centre",
+  "name": "Centro de Artes de Sines",
+  "by": "Aires Mateus",
+  "city": "Sines",
+  "cc": "PT",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Void"
+  ],
+  "features": "Stone-clad blocks on both sides of a street, linked below ground; a glazed base opens to the pavement.",
+  "award": "Mies van der Rohe Award 2007 finalist",
+  "status": "photo",
+  "commons_category": "Category:Centro de Artes de Sines",
+  "photos": [
+   {
+    "file": "File:Centro de Artes de Sines, Sines 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centro de Artes de Sines - Portugal (6539042727).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centro de Artes de Sines, Sines 02.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": ""
+ },
+ {
+  "id": "netherlands-institute-for-sound-and-vision",
+  "name": "Netherlands Institute for Sound and Vision",
+  "by": "Neutelings Riedijk Architecten",
+  "city": "Hilversum",
+  "cc": "NL",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Section"
+  ],
+  "features": "Cube of coloured glass printed with TV images in relief; half the building, the archive, is sunk below ground.",
+  "award": "Mies van der Rohe Award 2009 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Gebouw Beeld en geluid Hilversum 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision"
+  ],
+  "note": "Only one exterior photo found by search (2000x1333); the institute's Commons category may hold more. Facade glass by Jaap Drupsteen."
+ },
+ {
+  "id": "groot-klimmendaal",
+  "name": "Groot Klimmendaal Rehabilitation Centre",
+  "by": "Koen van Velsen",
+  "city": "Arnhem",
+  "cc": "NL",
+  "year": "2010",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Rehabilitation centre in woodland: long dark volumes stacked and cantilevered over the slope, full of daylight.",
+  "award": "Mies van der Rohe Award 2011 finalist",
+  "status": "photo",
+  "commons_category": "Category:Hoofdgebouw RMC (Arnhem)",
+  "photos": [
+   {
+    "file": "File:Hoofdgebouw RMC Groot Klimmendaal.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Hoofdgebouw RMC Groot Klimmendaal2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Two photos only, both partly behind trees."
+ },
+ {
+  "id": "z33-hasselt",
+  "name": "Z33 House for Contemporary Art, Design and Architecture",
+  "by": "Francesca Torzo",
+  "city": "Hasselt",
+  "cc": "BE",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Light from above"
+  ],
+  "features": "A long, almost blind wall of red brick in relief patterns; inside, a sequence of rooms of different sizes.",
+  "award": "Mies van der Rohe Award 2022 finalist",
+  "status": "photo",
+  "commons_category": "Category:Z33 (Hasselt)",
+  "photos": [
+   {
+    "file": "File:Z33 Huis voor Acuele Kunst, Design & Architectuur foto door Olmo Peeters.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Z33 Huis voor Actuele Kunst, Design & Architectuur Voorgevel foto door Olmo Peeters.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Older 2016 files in the category show the site before the extension."
+ },
+ {
+  "id": "plato-ostrava",
+  "name": "PLATO Contemporary Art Gallery",
+  "by": "KWK Promes (Robert Konieczny)",
+  "city": "Ostrava",
+  "cc": "CZ",
+  "year": "2022",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Old municipal slaughterhouse turned art gallery; new concrete panels fill and open its old door and window holes.",
+  "award": "Mies van der Rohe Award 2024 finalist",
+  "status": "photo",
+  "commons_category": "Category:Jatka (Ostrava)",
+  "photos": [
+   {
+    "file": "File:Ostrava, Městská jatka - galerie Plato po přestavbě (květen 2022) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ostrava, Městská jatka - galerie Plato po přestavbě (květen 2022) 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Interior photos (2022) in the same series."
+ },
+ {
+  "id": "mortensrud-church",
+  "name": "Mortensrud Church",
+  "by": "Jensen & Skodvin",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "2002",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "Steel-and-glass church lined with dry-stacked slate walls; the bare bedrock rises through the floor.",
+  "award": "Mies van der Rohe Award 2003 finalist",
+  "status": "photo",
+  "commons_category": "Category:Mortensrud kirke",
+  "photos": [
+   {
+    "file": "File:Mortensrud kirke (15. juli 2018, bilde01).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mortensrud kirke.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mortensrud kirke 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mortensrud_Church"
+  ],
+  "note": "Many interior photos in the category."
+ },
+ {
+  "id": "terrassenhaus-berlin",
+  "name": "Terrassenhaus Berlin / Lobe Block",
+  "by": "Brandlhuber+ Emde, Burlon and Muck Petzet Architekten",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2018",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Public space"
+  ],
+  "features": "Raw concrete frame stepping back in deep terraces, with an open outdoor stair climbing the stepped side.",
+  "award": "Mies van der Rohe Award 2019 finalist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:1803 terracehouse hof erica overmeer.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Only one photo (1272x1000), credited to photographer Erica Overmeer; worth checking the upload is hers or licensed by her. Living and working building in Berlin-Wedding."
  }
 ]

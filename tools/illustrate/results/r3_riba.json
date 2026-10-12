@@ -51,5 +51,477 @@
    "https://en.wikipedia.org/wiki/Stirling_Prize"
   ],
   "note": "Own Commons category with many free exterior photos; also subcategory 'Interior of Peckham Library'."
+ },
+ {
+  "id": "lords-media-centre",
+  "name": "Lord's Media Centre",
+  "by": "Future Systems (Jan Kaplický, Amanda Levete)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Sculptural form",
+   "Prefabrication",
+   "Structure as expression"
+  ],
+  "features": "Seamless aluminium semi-monocoque pod built with boatyard methods, lifted on two concrete stair towers.",
+  "award": "RIBA Stirling Prize 1999",
+  "status": "photo",
+  "commons_category": "Category:Media Centre, Lord's Cricket Ground",
+  "photos": [
+   {
+    "file": "File:Lord's Media Centre.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Lords Cricket Ground - June 2011 - The Iconic Media Centre (5858018929).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lords Media Centre (246338794).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:J P Morgan Media Centre, Lord's - geograph.org.uk - 3430380.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:J P Morgan Media Centre at Lord’s Cricket Ground (Ank Kumar) 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Lord%27s"
+  ],
+  "note": "Now called the J.P. Morgan Media Centre. Commons also has an interior subcategory."
+ },
+ {
+  "id": "stuttgart-music-school",
+  "name": "Stuttgart Music School (Musikhochschule)",
+  "by": "James Stirling, Michael Wilford and Associates",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "1996",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Drum-shaped tower with ring balconies and porthole windows anchors the school next to Stirling's Staatsgalerie.",
+  "award": "RIBA Stirling Prize 1997",
+  "status": "photo",
+  "commons_category": "Category:Staatliche Hochschule für Musik und Darstellende Kunst (Stuttgart)",
+  "photos": [
+   {
+    "file": "File:20230214 Hochschule für Musik und Darstellende Kunst Stuttgart.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Staatliche Hochschule fuer Musik und Darstellende Kunst (Stuttgart) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Staatliche Hochschule fuer Musik und Darstellende Kunst (Stuttgart) 04 straighten.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Landappbw 294617 1819 Musikhochschule Stuttgart.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Staatliche Hochschule fuer Musik und Darstellende Kunst (Stuttgart) 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/State_University_of_Music_and_Performing_Arts_Stuttgart"
+  ],
+  "note": "Year: the Stirling building opened 1996 (prize 1997); the university's Wikipedia intro says its main building was completed 2002, so check the date before publishing."
+ },
+ {
+  "id": "american-air-museum-duxford",
+  "name": "American Air Museum, Duxford",
+  "by": "Foster + Partners",
+  "city": "Duxford",
+  "cc": "GB",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Vault",
+   "Prefabrication",
+   "Structure as expression"
+  ],
+  "features": "One long low precast-concrete vault, partly sunk into the ground, with a fully glazed end wall.",
+  "award": "RIBA Stirling Prize 1998",
+  "status": "photo",
+  "commons_category": "Category:American Air Museum Duxford",
+  "photos": [
+   {
+    "file": "File:American Air Museum Duxford 2024-07-27.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Norman Foster's American Air Museum Duxford 2024-07-27.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:American Air Museum (14158704628).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:American Air Museum, Duxford (4675521013).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Duxford UK Feb2005 American.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford"
+  ],
+  "note": "Part of Imperial War Museum Duxford."
+ },
+ {
+  "id": "laban-dance-centre",
+  "name": "Laban Dance Centre",
+  "by": "Herzog & de Meuron",
+  "city": "London",
+  "cc": "GB",
+  "year": "2003",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Light & shadow"
+  ],
+  "features": "Gently curved front; a skin of translucent coloured polycarbonate over glass, tinted magenta, turquoise and lime.",
+  "award": "RIBA Stirling Prize 2003",
+  "status": "photo",
+  "commons_category": "Category:Laban Dance Centre",
+  "photos": [
+   {
+    "file": "File:Trinity Laban (8340750177).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Trinity Laban (8340753721).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Trinity Laban, Creekside (8340748015).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Laban Centre from Deptford Creek - geograph.org.uk - 5109962.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Laban Centre Deptford.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Trinity_Laban_Conservatoire_of_Music_and_Dance"
+  ],
+  "note": "Category also holds unrelated Trinity Laban files (portraits, Old Royal Naval College); pick only the Creekside building."
+ },
+ {
+  "id": "barajas-airport-terminal-4",
+  "name": "Madrid-Barajas Airport Terminal 4",
+  "by": "Richard Rogers Partnership, Estudio Lamela",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Light from above",
+   "Structure as expression",
+   "Colour"
+  ],
+  "features": "Wavy bamboo-lined roof on steel 'trees' painted in a rainbow sequence; light canyons cut through every level.",
+  "award": "RIBA Stirling Prize 2006",
+  "status": "photo",
+  "commons_category": "Category:Aeropuerto de Madrid-Barajas T4",
+  "photos": [
+   {
+    "file": "File:Exterior - Aeropuerto de Madrid-Barajas T4 - Madrid 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior - Aeropuerto de Madrid-Barajas T4 - Madrid 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aeropuerto de Madrid-Barajas - Exterior 04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
+  ],
+  "note": "Category is huge (mostly interiors, planes). Best exteriors are close-ups of the eave and Y-shaped steel trees (portrait) and one distant night view; a good whole-building exterior wasn't found. Many good interior shots exist."
+ },
+ {
+  "id": "accordia-cambridge",
+  "name": "Accordia",
+  "by": "Feilden Clegg Bradley Studios, Alison Brooks Architects, Maccreanor Lavington",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "2008",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Landscape"
+  ],
+  "features": "Dense brick terraces, mews and courtyards set among mature trees; the first housing scheme to win the Stirling Prize.",
+  "award": "RIBA Stirling Prize 2008",
+  "status": "photo",
+  "commons_category": "Category:Accordia",
+  "photos": [
+   {
+    "file": "File:Gilpin Place - geograph.org.uk - 7162301.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Copse Way - geograph.org.uk - 6855793.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gardens between Copse Way ^ Henslow Mews - geograph.org.uk - 7636797.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Accordia",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Also Category:Accordia, Cambridge (empty when checked). Many small geograph photos; the three listed are large and show the FCB brick terraces."
+ },
+ {
+  "id": "evelyn-grace-academy",
+  "name": "Evelyn Grace Academy",
+  "by": "Zaha Hadid Architects",
+  "city": "London",
+  "cc": "GB",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Circulation",
+   "Steel & glass"
+  ],
+  "features": "Zig-zag glass and steel wings house four small schools; a running track threads under the building to the gate.",
+  "award": "RIBA Stirling Prize 2011",
+  "status": "photo",
+  "commons_category": "Category:Ark Evelyn Grace Academy",
+  "photos": [
+   {
+    "file": "File:Evelyn Grace Academy, Loughborough Park (1) - geograph.org.uk - 4404993.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Evelyn Grace Academy, Loughborough Park (2) - geograph.org.uk - 4404995.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evelyn_Grace_Academy",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Weak: only two 1024x768 geograph photos (grey day, from across the road, building fills the frame width but not much height). They are in neither the category nor >1200px. If the owner wants a stronger image this is a drawing candidate."
+ },
+ {
+  "id": "magna-science-adventure-centre",
+  "name": "Magna Science Adventure Centre",
+  "by": "Wilkinson Eyre",
+  "city": "Rotherham",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "A vast dark former steelworks shed reused whole, with four pavilions for earth, air, fire and water inside.",
+  "award": "RIBA Stirling Prize 2001",
+  "status": "photo",
+  "commons_category": "Category:Magna Science Adventure Centre",
+  "photos": [
+   {
+    "file": "File:Magna Science Adventure Centre - geograph.org.uk - 2650127.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Magna Science Adventure Centre - geograph.org.uk - 3625090.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Magna_Science_Adventure_Centre",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "In the former Templeborough steelworks. Category also has many interior and exhibit shots."
+ },
+ {
+  "id": "sainsbury-laboratory-cambridge",
+  "name": "Sainsbury Laboratory",
+  "by": "Stanton Williams",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Low lab round a courtyard in the Botanic Garden; limestone, concrete and timber fins, with a cloister on the garden.",
+  "award": "RIBA Stirling Prize 2012",
+  "status": "photo",
+  "commons_category": "Category:Sainsbury Laboratory Cambridge University",
+  "photos": [
+   {
+    "file": "File:Sainsbury Laboratory- Botanic Garden Cambridge (9120932218).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sainsbury Laboratory- Botanic Garden Cambridge (9120944076).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cmglee Sainsbury Laboratory Cambridge University night.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sainsbury_Laboratory_Cambridge_University",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Also has free interior photos (stairs, lecture theatre)."
+ },
+ {
+  "id": "astley-castle",
+  "name": "Astley Castle",
+  "by": "Witherford Watson Mann",
+  "city": "Astley, Warwickshire",
+  "cc": "GB",
+  "year": "2012",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Stone"
+  ],
+  "features": "New brick and timber house built inside the fire-gutted ruin; the old walls stay raw, new work sits flush in the gaps.",
+  "award": "RIBA Stirling Prize 2013",
+  "status": "photo",
+  "commons_category": "Category:Astley Castle",
+  "photos": [
+   {
+    "file": "File:Astley Castle Front Elevation.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Astley Castle Across the Moat.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Castle Approach (Astley Castle).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Facade (Astley Castle).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Astley_Castle",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "A Landmark Trust holiday let inside a 12th to 16th-century ruin; the award is for the intervention. Good interior photos too (e.g. Astley Castle Cloister.JPG)."
  }
 ]
