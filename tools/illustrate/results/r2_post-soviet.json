@@ -1272,5 +1272,102 @@
    "https://metropolismag.com/programs/return-of-the-prodigal-son/"
   ],
   "note": "No files on Commons. Not drawn: sources disagree on the year (2003 or 2004) and the number of windows (about 30 vs 83), and none describe the overall shape, roof or what it stands on; it was a festival piece and has been demolished."
+ },
+ {
+  "id": "babyn-yar-synagogue",
+  "name": "Babyn Yar Symbolic Synagogue",
+  "by": "Manuel Herz Architects",
+  "city": "Kyiv",
+  "cc": "UA",
+  "year": "2021",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Small oak synagogue that opens like a pop-up book: its walls fold out to make the room.",
+  "status": "photo",
+  "commons_category": "Category:Babyn Yar Synagogue in Kyiv",
+  "photos": [
+   {
+    "file": "File:Babyn yar Synagogue.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Babyn_Yar_Synagogue_in_Kyiv"
+  ],
+  "note": "Only one free photo (4032x3024). Ukraine has no freedom of panorama, so it could be challenged later."
+ },
+ {
+  "id": "strelka-institute",
+  "name": "Strelka Institute",
+  "by": null,
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Community"
+  ],
+  "features": "Former garage of the Red October chocolate factory turned into a school with a public roof terrace.",
+  "status": "photo",
+  "commons_category": "Category:Strelka Institute",
+  "photos": [
+   {
+    "file": "File:Институт медиа архитектуры дизайна Стрелка Берсеневская набережная.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Strelka_Institute"
+  ],
+  "note": "Only one free photo (2048x1536). The institute closed in 2022. Architect of the conversion not confirmed by a source reached, so 'by' is left empty."
+ },
+ {
+  "id": "government-house-almaty",
+  "name": "Government House of the Kazakh ASSR (now KBTU)",
+  "by": "Moisei Ginzburg",
+  "city": "Almaty",
+  "cc": "KZ",
+  "year": "1931",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Free plan",
+   "Adaptive reuse"
+  ],
+  "features": "Constructivist government house by Ginzburg, long horizontal wings with ribbon windows; now a university.",
+  "status": "photo",
+  "commons_category": "Category:KBTU (former Government building), Almaty",
+  "photos": [
+   {
+    "file": "File:Kazakh-British Technical University, Almaty (P1180218).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:KBTU, Almaty (cropped).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:KBTU_(former_Government_building),_Almaty"
+  ],
+  "note": "Year and the 'ribbon windows' detail from general knowledge; check before publishing."
  }
 ]
