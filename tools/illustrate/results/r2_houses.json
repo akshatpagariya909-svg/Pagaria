@@ -975,5 +975,33 @@
    "https://www.environment.nsw.gov.au/news/glenn-murcutts-ground-breaking-marie-short-farmhouse-listed-on-state-heritage-register"
   ],
   "note": "No free photo on Commons. Sources give 1974 or 1975; Murcutt bought and extended it in 1980. Near Kempsey (Crescent Head), NSW; on the State Heritage Register. The pavilions are offset ('slipped') in plan, which an end elevation does not show; the louvre bands are schematic."
+ },
+ {
+  "id": "delta-shelter",
+  "name": "Delta Shelter",
+  "by": "Tom Kundig (Olson Kundig)",
+  "city": "Mazama",
+  "cc": "US",
+  "year": "2005",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "Steel-clad cabin on four steel columns above a flood plain; four 10 by 18 ft steel shutters roll across to close it up.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Front elevation: the two-storey steel box raised on four columns over a small ground-floor base, one shutter rolled aside along its rails to show the glazing, the other closed.",
+  "after": null,
+  "sources": [
+   "https://olsonkundig.com/projects/delta-shelter/",
+   "https://www.dwell.com/home/delta-shelter-29a80a97",
+   "https://buildipedia.com/at-home/design-remodeling/house-of-the-month-the-versatile-delta-shelter"
+  ],
+  "note": "No free photo on Commons. About 200 sq ft footprint and about 1,000 sq ft over three levels, on a 100-year flood plain by the Methow River; shutters are human-powered. Window pattern behind the shutter is schematic."
  }
 ]
