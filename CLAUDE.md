@@ -45,6 +45,10 @@ Wrong links found by hand go in `tools/link_blocklist.txt` (building | url); `to
 
 Key scripts: `fetch_images.py` (photos, with `tools/image_choices.json` for hand-picked galleries), `find_links.py` (ArchDaily, WikiArquitectura, Divisare, official sites, maps), `harvest.py` / `select_1000.py` / `resolve_list.py` / `merge_1000.py` (growing the list to 1,000), `photo_gaps.py` (writes `tools/photo_gaps.md`, the buildings still short of free photos).
 
+## When a cloud session can't do something
+
+Claude's cloud sessions run on Anthropic's servers: they can't use the owner's browser or sign in to the owner's accounts (Instagram, Meta Business Suite, GitHub settings, domain registrars and the like). When a task needs that, say so plainly, then offer a ready-to-paste prompt for the owner's local **Miscellaneous work** channel, a local Claude Code session that can control the owner's browser and do it for them. The owner decides whether they want the prompt; when they ask for it, write it so it stands alone (what to do, where, what to check, what to report back) and never put passwords or tokens in it.
+
 ## Working together
 
 Work is split into separate chats, one per workstream, each on its own branch with its own pull request to `main`:
