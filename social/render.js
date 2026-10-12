@@ -64,7 +64,7 @@ const page = (body, dark) => `<!doctype html><html><head><meta charset="utf-8">
 
 const top = (c, i, n, label) => `<div class="top"><div class="mark">Discover<br>Architecture</div>
   <div class="count">${esc(label || c.idea || c.tag)}<br>${i} / ${n}</div></div>`;
-const COUNT = `${Math.floor(window.BUILDINGS.length / 100) * 100}+`;
+const COUNT = `${(Math.floor(window.BUILDINGS.length / 100) * 100).toLocaleString('en-US')}+`;
 const credit = p => `<div class="credit">Photo: ${esc(p.im.credit.replace(/\s+/g, ' ').trim())} · ${esc(p.im.license)} · Wikimedia Commons</div>`;
 
 function cover(c, n) {
@@ -100,7 +100,7 @@ function end(c, i, n, lead) {
       <span class="pill signal">Link in bio</span>
     </div>
   </div>
-  <div class="credit" style="font-size:20px">${esc(SPEC.site)}</div>`, true);
+  <div class="credit" style="font-size:24px;color:var(--ground)">${SPEC.handle ? '@' + esc(SPEC.handle) : esc(SPEC.site)}</div>`, true);
 }
 
 function guessCover(c, n) {
@@ -175,7 +175,7 @@ function introSlides(c) {
   const rows = DEEPER.map(([what, where]) => `<div style="display:flex;justify-content:space-between;gap:24px;padding:22px 0;border-bottom:2px solid var(--hair)">
     <span style="font-weight:700;font-size:36px">${esc(where)}</span><span style="font:400 26px var(--mono);color:var(--graphite);align-self:center">${esc(what)}</span></div>`).join('');
   return [
-    textSlide(c, 1, n, c.tag, `${COUNT} buildings for your next studio project`, esc(c.sub),
+    textSlide(c, 1, n, c.tag, `${COUNT} buildings worth knowing`, esc(c.sub),
       `<div style="margin-top:56px"><span class="pill solid">Swipe to see how it works →</span></div>`, true),
     textSlide(c, 2, n, 'How it works', 'Browse by idea', 'Pick an idea and the wall shows every building that uses it.',
       `<div style="margin-top:48px;display:flex;flex-wrap:wrap;gap:14px">${pills}</div>`),
@@ -214,10 +214,10 @@ function caption(c) {
   }
   const more = c.find ? `${c.find} on the site` : `Find more precedents with "${c.idea}" on the site`;
   const head = c.kind === 'intro'
-    ? `${COUNT} buildings for your next studio project. ${c.sub}\n\nBrowse by idea, open any building, then follow links to drawings, plans, sections and essays. Every photo is free and credited.\n\nNew precedents here every week. The wall: link in bio.`
+    ? `${COUNT} buildings worth knowing. ${c.sub}\n\nBrowse by idea, open any building, then follow links to drawings, plans, sections and essays. Every photo is free and credited.\n\nNew precedents here every week. The wall: link in bio.`
     : c.kind === 'guess'
     ? `${c.title}. Answers on the last slide, no peeking.\n\nComment your guesses, then play the full wall: link in bio.`
-    : `${c.title}: ${c.sub.charAt(0).toLowerCase() + c.sub.slice(1)}.\n\n${list.join('\n')}\n\nSave this for your next studio project. ${more}: link in bio.`;
+    : `${c.title}: ${c.sub.charAt(0).toLowerCase() + c.sub.slice(1)}.\n\n${list.join('\n')}\n\nSave this for later. ${more}: link in bio.`;
   return `${head}\n\n${c.hashtags}\n\n.\n.\n.\nPhoto credits (cropped, text added):\n${credits.join('\n')}\n`;
 }
 

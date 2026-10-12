@@ -1,5 +1,6 @@
 {
   "site": "akshatpagariya909-svg.github.io/Pagaria",
+  "handle": "discoverarchitecture.in",
   "carousels": [
     {
       "id": "light-from-above",
@@ -7,7 +8,7 @@
       "tag": "Idea",
       "idea": "Light from above",
       "title": "Light from above",
-      "sub": "Five precedents for your next studio project",
+      "sub": "Five buildings lit from the sky",
       "cover": {
         "b": "pantheon",
         "img": 4
@@ -34,7 +35,7 @@
           "img": 3
         }
       ],
-      "hashtags": "#architecturestudent #architecturalprecedent #daylighting #louiskahn #peterzumthor #pantheon #architecturestudio #precedentstudy"
+      "hashtags": "#architecture #architecturaldesign #daylighting #louiskahn #peterzumthor #pantheon #architecturelovers #architectureinspiration"
     },
     {
       "id": "built-for-the-heat",
@@ -69,7 +70,7 @@
           "img": 1
         }
       ],
-      "hashtags": "#architecturestudent #climateresponsive #passivedesign #regionalism #geoffreybawa #franciskere #lecorbusier #indianarchitecture #precedentstudy"
+      "hashtags": "#architecture #climateresponsive #passivedesign #regionalism #geoffreybawa #franciskere #lecorbusier #indianarchitecture #architectureinspiration"
     },
     {
       "id": "guess-the-building-1",
@@ -107,19 +108,19 @@
           "y": 50
         }
       ],
-      "hashtags": "#architecturestudent #architecturequiz #guessthebuilding #architecturelovers #hightech #brutalism #precedentstudy"
+      "hashtags": "#architecture #architecturequiz #guessthebuilding #architecturelovers #hightech #brutalism #architectureinspiration"
     },
     {
       "id": "start-here",
       "kind": "intro",
       "tag": "Start here",
-      "title": "900+ buildings for your next studio project",
-      "sub": "A wall of precedents you wander instead of search.",
+      "title": "Buildings worth knowing",
+      "sub": "A wall of architecture you wander instead of search.",
       "example": {
         "b": "fallingwater",
         "img": 1
       },
-      "hashtags": "#architecturestudent #architecturalprecedent #precedentstudy #architecturestudio #archistudent #architectureschool #architecturedesign",
+      "hashtags": "#architecture #architecturaldesign #architectureinspiration #architecturelovers #architecturephotography #designinspiration #architecturedesign",
       "find": "Browse by idea",
       "creditExample": {
         "b": "barcelona-pavilion",
@@ -159,7 +160,7 @@
           "img": 0
         }
       ],
-      "hashtags": "#architecturestudent #courtyard #courtyardhouse #alvaraalto #luisbarragan #charlescorrea #alhambra #precedentstudy"
+      "hashtags": "#architecture #courtyard #courtyardhouse #alvaraalto #luisbarragan #charlescorrea #alhambra #architectureinspiration"
     },
     {
       "id": "guess-the-building-2",
@@ -197,7 +198,7 @@
           "y": 40
         }
       ],
-      "hashtags": "#architecturestudent #architecturequiz #guessthebuilding #miesvanderrohe #franklloydwright #frankgehry #precedentstudy"
+      "hashtags": "#architecture #architecturequiz #guessthebuilding #miesvanderrohe #franklloydwright #frankgehry #architectureinspiration"
     },
     {
       "id": "louis-kahn",
@@ -233,7 +234,7 @@
           "img": 0
         }
       ],
-      "hashtags": "#louiskahn #architecturestudent #salkinstitute #kimbellartmuseum #iimahmedabad #modernarchitecture #precedentstudy"
+      "hashtags": "#louiskahn #architecture #salkinstitute #kimbellartmuseum #iimahmedabad #modernarchitecture #architectureinspiration"
     },
     {
       "id": "adaptive-reuse",
@@ -268,7 +269,7 @@
           "img": 1
         }
       ],
-      "hashtags": "#adaptivereuse #architecturestudent #carloscarpa #linabobardi #herzogdemeuron #thomasheatherwick #precedentstudy"
+      "hashtags": "#adaptivereuse #architecture #carloscarpa #linabobardi #herzogdemeuron #thomasheatherwick #architectureinspiration"
     },
     {
       "id": "brick",
@@ -303,7 +304,7 @@
           "img": 1
         }
       ],
-      "hashtags": "#brickarchitecture #architecturestudent #alvaraalto #louiskahn #bvdoshi #wangshu #materiality #precedentstudy"
+      "hashtags": "#brickarchitecture #architecture #alvaraalto #louiskahn #bvdoshi #wangshu #materiality #architectureinspiration"
     }
   ]
 }

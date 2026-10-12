@@ -186,7 +186,7 @@ def building_page(b, items):
 def index_page(items):
     up = '../'
     url = BASE + 'buildings/'
-    desc = f'All {TOTAL} buildings on Discover Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
+    desc = f'All {TOTAL} buildings on Discover Architecture: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
     head = HEAD.format(title=f'All {TOTAL} buildings · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
                        ogtitle=f'All {TOTAL} buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(

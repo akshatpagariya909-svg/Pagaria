@@ -13,6 +13,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
 - Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
+- Never say in public text (the site, posts, captions, bios, hashtags) that it is for architecture students. It is for anyone who loves buildings.
 - Minimal text on the site. No invented facts: show height, floors, materials and similar only when a source gives them.
 
 ## Design decisions already made (see the canvas before changing any)
