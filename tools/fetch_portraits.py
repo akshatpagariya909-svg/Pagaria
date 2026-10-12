@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / 'site' / 'data' / 'buildings.js'
 OUT = ROOT / 'site' / 'data' / 'architects.js'
 REPORT = ROOT / 'tools' / 'portraits_report.txt'
-UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://akshatpagariya909-svg.github.io/Pagaria/; portraits)'}
+UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://discoverarchitecture.github.io/; portraits)'}
 FREE = re.compile(r'^(public domain|pd\b|cc0|cc[ -]by(-sa)?[ -]?\d|cc[ -]by(-sa)?$|attribution)', re.I)
 NOT_FREE = re.compile(r'\b(nc|nd)\b|noncommercial|no ?deriv', re.I)
 

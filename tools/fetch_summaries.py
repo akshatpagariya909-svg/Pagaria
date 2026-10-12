@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / 'site'
 OUT = SITE / 'data' / 'summaries.js'
-UA = 'DiscoverArchitecture/0.2 (https://github.com/akshatpagariya909-svg/Pagaria; summaries script)'
+UA = 'DiscoverArchitecture/0.2 (https://github.com/discoverarchitecture/discoverarchitecture.github.io; summaries script)'
 API = 'https://en.wikipedia.org/w/api.php'
 MAX_WORDS = 220
 SECTIONS = ('Architecture', 'Design', 'Structure', 'Building', 'Architecture and design', 'Design and construction',
