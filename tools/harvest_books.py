@@ -187,8 +187,11 @@ def main():
         c['score'] = round(s, 2)
     ranked = sorted(cands.values(), key=lambda c: -c['score'])
 
+    # Save now, so a run that is cut short still leaves the candidates; descriptions are added on top.
+    OUT.write_text(json.dumps(ranked, ensure_ascii=False, indent=0))
+    print(f'{len(ranked)} candidates saved; adding descriptions.')
     # ---- Open Library's own description for the strongest candidates ----
-    for i, c in enumerate(ranked[:2500]):
+    for i, c in enumerate(ranked[:900]):
         if c.get('ol') and re.fullmatch(r'OL\d+W', c['ol']):
             raw = get(f"{OL}/works/{c['ol']}.json", timeout=40)
             if raw:
@@ -196,8 +199,9 @@ def main():
                 d = d.get('value') if isinstance(d, dict) else d
                 if d:
                     c['ol_desc'] = re.sub(r'\s+', ' ', d)[:700]
-        if i % 250 == 0:
+        if i % 150 == 0:
             print(f'  descriptions: {i}')
+            OUT.write_text(json.dumps(ranked, ensure_ascii=False, indent=0))
     OUT.write_text(json.dumps(ranked, ensure_ascii=False, indent=0))
     src = collections.Counter(s for c in ranked for s in c['sources'])
     REPORT.write_text('# Books harvest\n\n'

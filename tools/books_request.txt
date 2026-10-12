@@ -1,1 +1,2 @@
-Batch 2: fetch covers for the 142 new books (and retry the ones still missing).
+python -u tools/harvest_books.py
+Harvest again (the first run was cut off when the repository moved).
