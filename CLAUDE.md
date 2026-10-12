@@ -47,6 +47,8 @@ Claude's sandbox cannot reach Wikidata, Wikimedia or most architecture sites, so
 - These triggers only fire on the branch named in the workflow files (the data-collection branch). Other workstreams should not run them.
 - Tools write their reports into committed files (`tools/*_report.*`). Claude can also read a finished job's log through the GitHub tools (`actions_list` for the run, then `get_job_logs`).
 
+Books pipeline (books branch): `tools/harvest_books.py` collects candidates from Wikidata and Open Library into `tools/books_candidates.json` (run it by putting `python -u tools/harvest_books.py` on the first line of `tools/books_request.txt`). `tools/books_batch.py next | add | stats | count` hands out unreviewed candidates, checks a curated batch against the wall before adding it to `tools/books_seed.json`, remembers reviewed candidates in `tools/books_reviewed.json`, and writes `tools/books_progress.md`. Any other first line in `tools/books_request.txt` fetches covers. A scheduled routine (`trig_01Sb5Mwy138Hw7ymxqjKqNZz`) curates a batch every 3 hours until 19 Oct 2026 and pushes to the books branch.
+
 Wrong links found by hand go in `tools/link_blocklist.txt` (building | url); `tools/clean_links.py` re-checks existing links without searching again.
 
 Key scripts: `fetch_images.py` (photos, with `tools/image_choices.json` for hand-picked galleries), `find_links.py` (ArchDaily, WikiArquitectura, Divisare, official sites, maps), `harvest.py` / `select_1000.py` / `resolve_list.py` / `merge_1000.py` (growing the list to 1,000), `photo_gaps.py` (writes `tools/photo_gaps.md`, the buildings still short of free photos).
