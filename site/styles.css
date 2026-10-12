@@ -239,6 +239,8 @@ body.filtering { overflow: hidden; }
 .dock .go { background: var(--red); color: #fff; padding: 0 22px; }
 .dock .go:hover { background: var(--red-ink); color: #fff; }
 .dock [hidden] { display: none; }
+.dock .back { padding: 0 12px; }
+.dock .back svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2.2; }
 body.filtering .dock { display: none; } /* the filter panel has its own buttons at the bottom */
 
 /* ---------- opened building ---------- */

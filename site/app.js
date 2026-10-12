@@ -25,7 +25,8 @@
   const state = {
     q: '', seed: 11, ncols: 0,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
-    open: null, shot: 0, seen: new Set(), lastTile: null
+    open: null, shot: 0, seen: new Set(), lastTile: null,
+    trail: [] // buildings opened before this one since the sheet opened, for the dock's Back arrow
   };
   const tileShot = new Map(); // which photo each tile is showing
 
@@ -261,10 +262,11 @@
     return out;
   }
 
-  function openBuilding(id, surprise, fromEl) {
+  function openBuilding(id, surprise, fromEl, goingBack) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
-    state.open = b; state.seen.add(b.id);
+    if (!goingBack && !sheet.hidden && state.open && state.open.id !== b.id) state.trail.push({ id: state.open.id, surprise: state.openSurprise });
+    state.open = b; state.openSurprise = !!surprise; state.seen.add(b.id);
     state.lastTile = fromEl || tiles.get(b.id) || null;
 
     $('strip').innerHTML = (b.images || []).map((im, k) =>
@@ -313,7 +315,7 @@
   function closeBuilding() {
     sheet.hidden = true;
     document.body.classList.remove('locked');
-    state.open = null;
+    state.open = null; state.trail = [];
     updateDock();
     try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ }
     if (state.lastTile && state.lastTile.isConnected) state.lastTile.querySelector('.open').focus({ preventScroll: true });
@@ -400,7 +402,14 @@
     const home = atHome();
     $('shuffle').hidden = !home;
     $('goHome').hidden = home;
+    const prev = state.trail.length && !sheet.hidden ? ALL.find(x => x.id === state.trail[state.trail.length - 1].id) : null;
+    $('goBack').hidden = !prev;
+    if (prev) { $('goBack').title = 'Back to ' + prev.name; $('goBack').setAttribute('aria-label', 'Back to ' + prev.name); }
   }
+  $('goBack').addEventListener('click', () => {
+    const t = state.trail.pop();
+    if (t) openBuilding(t.id, t.surprise, null, true);
+  });
   $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
   $('goHome').addEventListener('click', () => {
     if (!sheet.hidden) closeBuilding();
