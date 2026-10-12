@@ -136,12 +136,22 @@
   };
   const letterOf = n => { const ch = fold(surname(n))[0].toUpperCase(); return ch >= 'A' && ch <= 'Z' ? ch : '#'; };
   const initials = n => { const w = n.split(/\s+/).filter(x => /\p{L}/u.test(x)); return (w.length < 2 ? (w[0] || '?').slice(0, 3) : w[0][0] + w[w.length - 1][0]).toUpperCase(); };
+  // A portrait only when the person's name matches the card's name, so a co-author's face never stands in.
+  const faces = new Map();
   function faceOf(name) {
+    if (faces.has(name)) return faces.get(name);
+    const want = fold(name);
+    let url = '';
     for (const b of ALL) {
       if (b.arch !== name) continue;
-      for (const q of ARCH.buildings[b.id] || []) { const p = ARCH.people[q]; if (p && p.thumb) return p.thumb; }
+      for (const q of ARCH.buildings[b.id] || []) {
+        const p = ARCH.people[q], got = p && fold(p.name);
+        if (p && p.thumb && got && (want.includes(got) || got.includes(want))) { url = p.thumb; break; }
+      }
+      if (url) break;
     }
-    return '';
+    faces.set(name, url);
+    return url;
   }
   function archsTab() {
     const c = countBy('arch', 'arch');
