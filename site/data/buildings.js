@@ -24,30 +24,6 @@ window.BUILDINGS = [
     "src": "images/villa-savoye/0.webp",
     "thumb": "images/villa-savoye/thumbs/0.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Cartello che indica l'appartenenza di Villa Savoye alla lista dei monumenti Architettonici Francesi",
-    "credit": "Ing.Manga",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cartello_Patrimonio_xx_secolo.jpg",
-    "file": "File:Cartello Patrimonio xx secolo.jpg"
-   },
-   {
-    "src": "images/villa-savoye/1.webp",
-    "thumb": "images/villa-savoye/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ing.Manga",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cartello_stradale_in_Rue_de_Villiers.jpg",
-    "file": "File:Cartello stradale in Rue de Villiers.jpg"
-   },
-   {
-    "src": "images/villa-savoye/2.webp",
-    "thumb": "images/villa-savoye/thumbs/2.webp",
-    "w": 1280,
     "h": 856,
     "kind": "Exterior",
     "caption": "Exterior · Designed by Le Corbusier and Charlotte Perriand : LC4 Chaise longue in the Villa Savoye",
@@ -57,8 +33,8 @@ window.BUILDINGS = [
     "file": "File:Villa Savoye (8237925975).jpg"
    },
    {
-    "src": "images/villa-savoye/3.webp",
-    "thumb": "images/villa-savoye/thumbs/3.webp",
+    "src": "images/villa-savoye/1.webp",
+    "thumb": "images/villa-savoye/thumbs/1.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -67,6 +43,30 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Savoye_3.JPG",
     "file": "File:Savoye 3.JPG"
+   },
+   {
+    "src": "images/villa-savoye/2.webp",
+    "thumb": "images/villa-savoye/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This building is classé au titre des monuments historiques de la France ",
+    "credit": "Cbyd",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Savoye,_Poissy_%C3%A9l%C3%A9ments_de_d%C3%A9coration_circulaires.jpg",
+    "file": "File:Villa Savoye, Poissy éléments de décoration circulaires.jpg"
+   },
+   {
+    "src": "images/villa-savoye/3.webp",
+    "thumb": "images/villa-savoye/thumbs/3.webp",
+    "w": 856,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "scarletgreen  from Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Savoye32.JPG_-_Flickr_-_scarletgreen.jpg",
+    "file": "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg"
    }
   ],
   "commons": "Category:Villa Savoye",
@@ -168,29 +168,65 @@ window.BUILDINGS = [
     "src": "images/notre-dame-du-haut/0.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/0.webp",
     "w": 1280,
-    "h": 956,
+    "h": 910,
     "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Sandra Cohen-Rose and   Colin Rose  from Montreal, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Notre-Dame_du_Haut_(86745712).jpg",
-    "file": "File:Notre-Dame du Haut (86745712).jpg"
+    "caption": "Exterior · Campanile of the Notre-Dame-du-Haut chapel in Ronchamp (Haute-Saône, France)",
+    "credit": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Campanile_(Ronchamp).jpg",
+    "file": "File:Campanile (Ronchamp).jpg"
    },
    {
     "src": "images/notre-dame-du-haut/1.webp",
     "thumb": "images/notre-dame-du-haut/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapelle Notre-Dame-du Haut de Ronchamp",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du_Haut_de_Ronchamp_60000_25.jpg",
+    "file": "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 25.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/2.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/2.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Chapelle Notre-Dame-du Haut de Ronchamp",
+    "kind": "Exterior",
+    "caption": "Exterior · Chapelle Notre-Dame-du Haut de Ronchamp",
     "credit": "FrDr",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du_Haut_de_Ronchamp_60000_26.jpg",
     "file": "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 26.jpg"
    },
    {
-    "src": "images/notre-dame-du-haut/2.webp",
-    "thumb": "images/notre-dame-du-haut/thumbs/2.webp",
+    "src": "images/notre-dame-du-haut/3.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapelle Notre-Dame-du-Haut de Ronchamp Nebenkapelle",
+    "credit": "Peter.Pielmeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du-Haut_de_Ronchamp_Nebenkapelle.jpg",
+    "file": "File:Chapelle Notre-Dame-du-Haut de Ronchamp Nebenkapelle.jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/4.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/4.webp",
+    "w": 740,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Objects in the convent oratory in Ronchamp (Haute-Saône, France)",
+    "credit": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oratoire_-_int%C3%A9rieur_-_objets_(1).jpg",
+    "file": "File:Oratoire - intérieur - objets (1).jpg"
+   },
+   {
+    "src": "images/notre-dame-du-haut/5.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/5.webp",
     "w": 1050,
     "h": 1400,
     "kind": "Interior",
@@ -201,8 +237,8 @@ window.BUILDINGS = [
     "file": "File:Chapelle intérieure rouge de la chapelle de Ronchamp octobre 2019.jpg"
    },
    {
-    "src": "images/notre-dame-du-haut/3.webp",
-    "thumb": "images/notre-dame-du-haut/thumbs/3.webp",
+    "src": "images/notre-dame-du-haut/6.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/6.webp",
     "w": 933,
     "h": 1400,
     "kind": "Interior",
@@ -213,32 +249,20 @@ window.BUILDINGS = [
     "file": "File:Chapelle intérieure de la chapelle de Ronchamp octobre 2019.jpg"
    },
    {
-    "src": "images/notre-dame-du-haut/4.webp",
-    "thumb": "images/notre-dame-du-haut/thumbs/4.webp",
+    "src": "images/notre-dame-du-haut/7.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/7.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Chapelle Notre-Dame-du Haut de Ronchamp",
-    "credit": "FrDr",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chapelle_Notre-Dame-du_Haut_de_Ronchamp_60000_45.jpg",
-    "file": "File:Chapelle Notre-Dame-du Haut de Ronchamp 60000 45.jpg"
-   },
-   {
-    "src": "images/notre-dame-du-haut/5.webp",
-    "thumb": "images/notre-dame-du-haut/thumbs/5.webp",
-    "w": 1280,
-    "h": 956,
+    "h": 960,
     "kind": "Context",
     "caption": "Context",
-    "credit": "Sandra Cohen-Rose and   Colin Rose  from Montreal, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Notre-Dame_du_Haut_(86746486).jpg",
-    "file": "File:Notre-Dame du Haut (86746486).jpg"
+    "credit": "A.BourgeoisP",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-02_-_Aerial_view_of_puits_Arthur-de-Buyer_-_032.jpg",
+    "file": "File:2026-02 - Aerial view of puits Arthur-de-Buyer - 032.jpg"
    },
    {
-    "src": "images/notre-dame-du-haut/6.webp",
-    "thumb": "images/notre-dame-du-haut/thumbs/6.webp",
+    "src": "images/notre-dame-du-haut/8.webp",
+    "thumb": "images/notre-dame-du-haut/thumbs/8.webp",
     "w": 1280,
     "h": 1280,
     "kind": "Model",
@@ -6983,18 +7007,6 @@ window.BUILDINGS = [
     "src": "images/centre-pompidou/0.webp",
     "thumb": "images/centre-pompidou/thumbs/0.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Vue de Paris depuis la basilique du Sacré-Cœur de Montmartre, Paris",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vue_Centre_Pompidou_depuis_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_Paris_1.jpg",
-    "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg"
-   },
-   {
-    "src": "images/centre-pompidou/1.webp",
-    "thumb": "images/centre-pompidou/thumbs/1.webp",
-    "w": 1280,
     "h": 960,
     "kind": "Exterior",
     "caption": "Exterior · Le centre Pompidou depuis le jardin Anne-Frank, Paris, France",
@@ -7002,6 +7014,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Centre_Pompidou_@_Jardin_Anne-Frank.jpg",
     "file": "File:Centre Pompidou @ Jardin Anne-Frank.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/1.webp",
+    "thumb": "images/centre-pompidou/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vue de Paris depuis la basilique du Sacré-Cœur de Montmartre, Paris",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_Centre_Pompidou_depuis_Basilique_Sacr%C3%A9_C%C5%93ur_Montmartre_Paris_1.jpg",
+    "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg"
    },
    {
     "src": "images/centre-pompidou/2.webp",
@@ -7066,6 +7090,18 @@ window.BUILDINGS = [
    {
     "src": "images/centre-pompidou/7.webp",
     "thumb": "images/centre-pompidou/thumbs/7.webp",
+    "w": 1106,
+    "h": 1400,
+    "kind": "Section",
+    "caption": "Section · Numéro spécial consacré à l'Exposition de la \"Section d'Or\", première année, n° 1, 9 octobre 1912",
+    "credit": "Not identified, anonymous",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Section_d%27Or,_numero_special,_9_Octobre_1912.jpg",
+    "file": "File:La Section d'Or, numero special, 9 Octobre 1912.jpg"
+   },
+   {
+    "src": "images/centre-pompidou/8.webp",
+    "thumb": "images/centre-pompidou/thumbs/8.webp",
     "w": 1000,
     "h": 374,
     "kind": "Sketch",
@@ -7078,6 +7114,7 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Centre Georges-Pompidou",
   "has": [
+   "Section",
    "Sketch"
   ],
   "gv": 2
@@ -9374,17 +9411,31 @@ window.BUILDINGS = [
    {
     "src": "images/bosco-verticale/0.webp",
     "thumb": "images/bosco-verticale/thumbs/0.webp",
-    "w": 1400,
-    "h": 788,
-    "kind": "Context",
-    "caption": "Context · La Torre Unicredit e il Bosco Verticale visti dal passaggio pedonale che collega la piazza Gae Aulenti",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jeronimo Alcala",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Il_Bosco_Verticale_Milano_Px_(137734459).jpeg",
+    "file": "File:Il Bosco Verticale Milano Px (137734459).jpeg"
+   },
+   {
+    "src": "images/bosco-verticale/1.webp",
+    "thumb": "images/bosco-verticale/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · La Torre Unicredit e il Bosco Verticale visti dal passaggio pedonale che collega la piazza Gae Aulenti",
     "credit": "Kokky92",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:ComplessoPortaNuova.JPG",
     "file": "File:ComplessoPortaNuova.JPG"
    }
   ],
-  "commons": "Category:Bosco Verticale"
+  "commons": "Category:Bosco Verticale",
+  "has": [],
+  "gv": 2
  },
  {
   "id": "zeitz-mocaa",
@@ -19806,32 +19857,20 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kaufman_Desert_Home.jpg/1280px-Kaufman_Desert_Home.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kaufman_Desert_Home.jpg/1280px-Kaufman_Desert_Home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kaufmann-desert-house/thumbs/0.webp",
     "w": 1280,
     "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior · View of the Kaufman House from the pool deck",
+    "kind": "Detail",
+    "caption": "Detail · View of the Kaufman House from the pool deck",
     "credit": "Pmeulbroek",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kaufman_Desert_Home.jpg",
     "file": "File:Kaufman Desert Home.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Planta_primer_planta.jpg/1280px-Planta_primer_planta.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kaufman_Desert_Home_cropped.jpg/1280px-Kaufman_Desert_Home_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kaufmann-desert-house/thumbs/1.webp",
-    "w": 1280,
-    "h": 915,
-    "kind": "Exterior",
-    "caption": "Exterior · planta casa Kaufmann",
-    "credit": "Bustosgarciavidal",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Planta_primer_planta.jpg",
-    "file": "File:Planta primer planta.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kaufman_Desert_Home_cropped.jpg/1280px-Kaufman_Desert_Home_cropped.jpg",
-    "thumb": "images/kaufmann-desert-house/thumbs/2.webp",
     "w": 1280,
     "h": 705,
     "kind": "Exterior",
@@ -19842,8 +19881,8 @@ window.BUILDINGS = [
     "file": "File:Kaufman Desert Home cropped.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kaufman_Desert_Home_cropped_4.jpg/1280px-Kaufman_Desert_Home_cropped_4.jpg",
-    "thumb": "images/kaufmann-desert-house/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kaufman_Desert_Home_cropped_4.jpg/1280px-Kaufman_Desert_Home_cropped_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaufmann-desert-house/thumbs/2.webp",
     "w": 1280,
     "h": 1277,
     "kind": "Exterior",
@@ -19852,8 +19891,48 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kaufman_Desert_Home_cropped_4.jpg",
     "file": "File:Kaufman Desert Home cropped 4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Elevaciones.jpg/1280px-Elevaciones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaufmann-desert-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Exterior",
+    "caption": "Exterior · elevacionescasa Kauffman",
+    "credit": "Bustosgarciavidal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevaciones.jpg",
+    "file": "File:Elevaciones.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Aperturas.jpg/1280px-Aperturas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaufmann-desert-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 989,
+    "kind": "Exterior",
+    "caption": "Exterior · aperturas de la casa hacia exterior",
+    "credit": "Bustosgarciavidal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aperturas.jpg",
+    "file": "File:Aperturas.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Planta_primer_planta.jpg/1280px-Planta_primer_planta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaufmann-desert-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Plan",
+    "caption": "Plan · planta casa Kaufmann",
+    "credit": "Bustosgarciavidal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planta_primer_planta.jpg",
+    "file": "File:Planta primer planta.jpg"
    }
-  ]
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 2
  },
  {
   "id": "casa-batllo",
@@ -24568,8 +24647,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Exposi%C3%A7%C3%A3o_na_Pinacoteca.jpg/1280px-Exposi%C3%A7%C3%A3o_na_Pinacoteca.jpg",
-    "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Exposi%C3%A7%C3%A3o_na_Pinacoteca.jpg/1280px-Exposi%C3%A7%C3%A3o_na_Pinacoteca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/0.webp",
     "w": 933,
     "h": 1400,
     "kind": "Exterior",
@@ -24580,7 +24659,19 @@ window.BUILDINGS = [
     "file": "File:Exposição na Pinacoteca.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Exterior_da_Pinacoteca.jpg/1280px-Exterior_da_Pinacoteca.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Chandeliers_in_Pinacoteca_of_Sao_Paulo.jpg/1280px-Chandeliers_in_Pinacoteca_of_Sao_Paulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/1.webp",
+    "w": 1280,
+    "h": 898,
+    "kind": "Exterior",
+    "caption": "Exterior · Chandeliers in the Pinacoteca do Estado de São Paulo, São Paulo, Brazil",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chandeliers_in_Pinacoteca_of_Sao_Paulo.jpg",
+    "file": "File:Chandeliers in Pinacoteca of Sao Paulo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Exterior_da_Pinacoteca.jpg/1280px-Exterior_da_Pinacoteca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/2.webp",
     "w": 1280,
     "h": 853,
@@ -24592,7 +24683,7 @@ window.BUILDINGS = [
     "file": "File:Exterior da Pinacoteca.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Pinacoteca_-_S%C3%A3o_Paulo_%281%29.jpg/1280px-Pinacoteca_-_S%C3%A3o_Paulo_%281%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Pinacoteca_-_S%C3%A3o_Paulo_%281%29.jpg/1280px-Pinacoteca_-_S%C3%A3o_Paulo_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/3.webp",
     "w": 1280,
     "h": 853,
@@ -24604,7 +24695,7 @@ window.BUILDINGS = [
     "file": "File:Pinacoteca - São Paulo (1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pinacoteca_de_S%C3%A3o_Paulo_6.jpg/1280px-Pinacoteca_de_S%C3%A3o_Paulo_6.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Pinacoteca_de_S%C3%A3o_Paulo_6.jpg/1280px-Pinacoteca_de_S%C3%A3o_Paulo_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/4.webp",
     "w": 1280,
     "h": 853,
@@ -24616,7 +24707,7 @@ window.BUILDINGS = [
     "file": "File:Pinacoteca de São Paulo 6.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pinacoteca_de_Sao_Paulo.jpg/1280px-Pinacoteca_de_Sao_Paulo.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Pinacoteca_de_Sao_Paulo.jpg/1280px-Pinacoteca_de_Sao_Paulo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pinacoteca-do-estado-de-sao-paulo/thumbs/5.webp",
     "w": 1280,
     "h": 869,
@@ -24627,7 +24718,9 @@ window.BUILDINGS = [
     "source": "https://commons.wikimedia.org/wiki/File:Pinacoteca_de_Sao_Paulo.jpg",
     "file": "File:Pinacoteca de Sao Paulo.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "casa-de-vidro",
@@ -28781,7 +28874,7 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/130609_Kyoto_Station_Kyoto_Japan03s3.jpg/1280px-130609_Kyoto_Station_Kyoto_Japan03s3.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/130609_Kyoto_Station_Kyoto_Japan03s3.jpg/1280px-130609_Kyoto_Station_Kyoto_Japan03s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyoto-station-building/thumbs/0.webp",
     "w": 1280,
     "h": 851,
@@ -28793,7 +28886,7 @@ window.BUILDINGS = [
     "file": "File:130609 Kyoto Station Kyoto Japan03s3.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kyoto_Kyoto_Station_3.jpg/1280px-Kyoto_Kyoto_Station_3.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kyoto_Kyoto_Station_3.jpg/1280px-Kyoto_Kyoto_Station_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyoto-station-building/thumbs/1.webp",
     "w": 1280,
     "h": 891,
@@ -28805,7 +28898,7 @@ window.BUILDINGS = [
     "file": "File:Kyoto Kyoto Station 3.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kyoto_Kyoto_Station_2.jpg/1280px-Kyoto_Kyoto_Station_2.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kyoto_Kyoto_Station_2.jpg/1280px-Kyoto_Kyoto_Station_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyoto-station-building/thumbs/2.webp",
     "w": 1280,
     "h": 880,
@@ -28817,7 +28910,7 @@ window.BUILDINGS = [
     "file": "File:Kyoto Kyoto Station 2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ky%C5%8Dto_Station.jpg/1280px-Ky%C5%8Dto_Station.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ky%C5%8Dto_Station.jpg/1280px-Ky%C5%8Dto_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyoto-station-building/thumbs/3.webp",
     "w": 1280,
     "h": 949,
@@ -28829,8 +28922,20 @@ window.BUILDINGS = [
     "file": "File:Kyōto Station.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB.jpg/1280px-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Kyoto_Kyoto_Station_Blick_auf_Higashi_Hongan-ji.jpg/1280px-Kyoto_Kyoto_Station_Blick_auf_Higashi_Hongan-ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyoto-station-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 770,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Kyoto_Station_Blick_auf_Higashi_Hongan-ji.jpg",
+    "file": "File:Kyoto Kyoto Station Blick auf Higashi Hongan-ji.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB.jpg/1280px-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-station-building/thumbs/5.webp",
     "w": 1050,
     "h": 1400,
     "kind": "Interior",
@@ -28839,20 +28944,10 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB.jpg",
     "file": "File:京都駅ビル.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%81%AE%E4%B8%AD.jpg/1280px-%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%81%AE%E4%B8%AD.jpg",
-    "thumb": "images/kyoto-station-building/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Kyoto Station",
-    "credit": "加茂川の民",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%83%BD%E9%A7%85%E3%83%93%E3%83%AB%E3%81%AE%E4%B8%AD.jpg",
-    "file": "File:京都駅ビルの中.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "gallery-of-horyuji-treasures",
@@ -39393,7 +39488,7 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/The_New_York_Times_Building_at_sunset%2C_2021-09-30.jpg/1280px-The_New_York_Times_Building_at_sunset%2C_2021-09-30.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/The_New_York_Times_Building_at_sunset%2C_2021-09-30.jpg/1280px-The_New_York_Times_Building_at_sunset%2C_2021-09-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/0.webp",
     "w": 1120,
     "h": 1400,
@@ -39405,7 +39500,7 @@ window.BUILDINGS = [
     "file": "File:The New York Times Building at sunset, 2021-09-30.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/NewYork_Times_building_1140917.jpg/1280px-NewYork_Times_building_1140917.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/NewYork_Times_building_1140917.jpg/1280px-NewYork_Times_building_1140917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/1.webp",
     "w": 1280,
     "h": 960,
@@ -39417,7 +39512,7 @@ window.BUILDINGS = [
     "file": "File:NewYork Times building 1140917.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853205153132%29.jpg/1280px-Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853205153132%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853205153132%29.jpg/1280px-Deputy_Prime_Minister_Oliver_Dowden_visits_the_USA_and_UNGA._%2853205153132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/2.webp",
     "w": 1280,
     "h": 854,
@@ -39429,7 +39524,7 @@ window.BUILDINGS = [
     "file": "File:Deputy Prime Minister Oliver Dowden visits the USA and UNGA. (53205153132).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/New_York_City_Blizzard_2015_New_York_Times_Building_%2852635226583%29.jpg/1280px-New_York_City_Blizzard_2015_New_York_Times_Building_%2852635226583%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/New_York_City_Blizzard_2015_New_York_Times_Building_%2852635226583%29.jpg/1280px-New_York_City_Blizzard_2015_New_York_Times_Building_%2852635226583%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/3.webp",
     "w": 1280,
     "h": 853,
@@ -39441,7 +39536,7 @@ window.BUILDINGS = [
     "file": "File:New York City Blizzard 2015 New York Times Building (52635226583).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/The_New_York_Times-2023.jpg/1280px-The_New_York_Times-2023.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/The_New_York_Times-2023.jpg/1280px-The_New_York_Times-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/4.webp",
     "w": 1280,
     "h": 814,
@@ -39453,7 +39548,7 @@ window.BUILDINGS = [
     "file": "File:The New York Times-2023.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Atrium_NY_Times_Building_jeh.JPG/1280px-Atrium_NY_Times_Building_jeh.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Atrium_NY_Times_Building_jeh.JPG/1280px-Atrium_NY_Times_Building_jeh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-york-times-building/thumbs/5.webp",
     "w": 1280,
     "h": 960,
@@ -39464,7 +39559,9 @@ window.BUILDINGS = [
     "source": "https://commons.wikimedia.org/wiki/File:Atrium_NY_Times_Building_jeh.JPG",
     "file": "File:Atrium NY Times Building jeh.JPG"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "turning-torso",
@@ -73230,7 +73327,7 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kyushu_National_Museum_%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg/1280px-Kyushu_National_Museum_%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kyushu_National_Museum_%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg/1280px-Kyushu_National_Museum_%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/0.webp",
     "w": 1280,
     "h": 960,
@@ -73242,7 +73339,7 @@ window.BUILDINGS = [
     "file": "File:Kyushu National Museum 九州国立博物館 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kyushu_National_Museum_%2819544806984%29.jpg/1280px-Kyushu_National_Museum_%2819544806984%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kyushu_National_Museum_%2819544806984%29.jpg/1280px-Kyushu_National_Museum_%2819544806984%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/1.webp",
     "w": 1280,
     "h": 853,
@@ -73254,7 +73351,7 @@ window.BUILDINGS = [
     "file": "File:Kyushu National Museum (19544806984).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kyushu_National_Museum_20170225.jpg/1280px-Kyushu_National_Museum_20170225.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kyushu_National_Museum_20170225.jpg/1280px-Kyushu_National_Museum_20170225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/2.webp",
     "w": 1280,
     "h": 853,
@@ -73266,7 +73363,7 @@ window.BUILDINGS = [
     "file": "File:Kyushu National Museum 20170225.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kyushu_National_Museum_-_May_4%2C_2024_%281%29.jpg/1280px-Kyushu_National_Museum_-_May_4%2C_2024_%281%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Kyushu_National_Museum_-_May_4%2C_2024_%281%29.jpg/1280px-Kyushu_National_Museum_-_May_4%2C_2024_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/3.webp",
     "w": 1280,
     "h": 853,
@@ -73278,7 +73375,7 @@ window.BUILDINGS = [
     "file": "File:Kyushu National Museum - May 4, 2024 (1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Stairs_heading_for_Kyushu_National_Museum.JPG/1280px-Stairs_heading_for_Kyushu_National_Museum.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Stairs_heading_for_Kyushu_National_Museum.JPG/1280px-Stairs_heading_for_Kyushu_National_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/4.webp",
     "w": 1280,
     "h": 960,
@@ -73290,18 +73387,20 @@ window.BUILDINGS = [
     "file": "File:Stairs heading for Kyushu National Museum.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Nissan_DBA-NC26_Serena_-_Honda_DBA-RPX_Stepwgn_%2823022418492%29.jpg/1280px-Nissan_DBA-NC26_Serena_-_Honda_DBA-RPX_Stepwgn_%2823022418492%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_%284289995315%29.jpg/1280px-%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_%284289995315%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kyushu-national-museum/thumbs/5.webp",
     "w": 1280,
-    "h": 853,
+    "h": 960,
     "kind": "Detail",
-    "caption": "Detail · c/n unknown",
-    "credit": "先従隗始",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nissan_DBA-NC26_Serena_-_Honda_DBA-RPX_Stepwgn_(23022418492).jpg",
-    "file": "File:Nissan DBA-NC26 Serena - Honda DBA-RPX Stepwgn (23022418492).jpg"
+    "caption": "Detail · kyusyu museum",
+    "credit": "陳 ポーハン",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E5%B7%9E%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8_(4289995315).jpg",
+    "file": "File:九州国立博物館 (4289995315).jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "muziekgebouw-aan-t-ij",
@@ -87029,7 +87128,7 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/ANZAC_Memorial_Sydney_Australia_-_June_2007.jpg/1280px-ANZAC_Memorial_Sydney_Australia_-_June_2007.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/ANZAC_Memorial_Sydney_Australia_-_June_2007.jpg/1280px-ANZAC_Memorial_Sydney_Australia_-_June_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/0.webp",
     "w": 1280,
     "h": 960,
@@ -87041,7 +87140,7 @@ window.BUILDINGS = [
     "file": "File:ANZAC Memorial Sydney Australia - June 2007.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%281%29ANZAC_Memorial_004aa.jpg/1280px-%281%29ANZAC_Memorial_004aa.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%281%29ANZAC_Memorial_004aa.jpg/1280px-%281%29ANZAC_Memorial_004aa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/1.webp",
     "w": 1280,
     "h": 854,
@@ -87053,7 +87152,7 @@ window.BUILDINGS = [
     "file": "File:(1)ANZAC Memorial 004aa.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Anzac_Memorial_%40_Hyde_Park.jpg/1280px-Anzac_Memorial_%40_Hyde_Park.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Anzac_Memorial_%40_Hyde_Park.jpg/1280px-Anzac_Memorial_%40_Hyde_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/2.webp",
     "w": 883,
     "h": 1400,
@@ -87065,7 +87164,7 @@ window.BUILDINGS = [
     "file": "File:Anzac Memorial @ Hyde Park.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Work_on_Anzac_Memorial_SLNSW_FL198599169.jpg/1280px-Work_on_Anzac_Memorial_SLNSW_FL198599169.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Work_on_Anzac_Memorial_SLNSW_FL198599169.jpg/1280px-Work_on_Anzac_Memorial_SLNSW_FL198599169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/3.webp",
     "w": 1275,
     "h": 1400,
@@ -87077,7 +87176,7 @@ window.BUILDINGS = [
     "file": "File:Work on Anzac Memorial SLNSW FL198599169.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Anzac_Memorial_Hyde_Park_002.jpg/1280px-Anzac_Memorial_Hyde_Park_002.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Anzac_Memorial_Hyde_Park_002.jpg/1280px-Anzac_Memorial_Hyde_Park_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/4.webp",
     "w": 1280,
     "h": 853,
@@ -87089,7 +87188,7 @@ window.BUILDINGS = [
     "file": "File:Anzac Memorial Hyde Park 002.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Anzac_Memorial_Hyde_Park_003.jpg/1280px-Anzac_Memorial_Hyde_Park_003.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Anzac_Memorial_Hyde_Park_003.jpg/1280px-Anzac_Memorial_Hyde_Park_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anzac-memorial/thumbs/5.webp",
     "w": 1280,
     "h": 853,
@@ -87099,8 +87198,24 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Anzac_Memorial_Hyde_Park_003.jpg",
     "file": "File:Anzac Memorial Hyde Park 003.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/ANZAC_War_Memorial%2C_Hyde_Park_-_drawing_by_Charles_Bruce_Dellit%2C_Architect.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/anzac-memorial/thumbs/6.webp",
+    "w": 1200,
+    "h": 775,
+    "kind": "Drawing",
+    "caption": "Drawing · ANZAC War Memorial, Hyde Park, 15 September 1930, by C",
+    "credit": "en:Charles Bruce Dellit  (1898–1942)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ANZAC_War_Memorial,_Hyde_Park_-_drawing_by_Charles_Bruce_Dellit,_Architect.jpg",
+    "file": "File:ANZAC War Memorial, Hyde Park - drawing by Charles Bruce Dellit, Architect.jpg"
    }
-  ]
+  ],
+  "has": [
+   "Drawing"
+  ],
+  "gv": 2
  },
  {
   "id": "art-gallery-of-alberta",
@@ -88472,8 +88587,20 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg/1280px-View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/1280px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/0.webp",
+    "w": 1280,
+    "h": 860,
+    "kind": "Exterior",
+    "caption": "Exterior · South façade of the Opéra Garnier in Paris, France",
+    "credit": "Peter Rivera",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Opera_full_frontal_architecture,_May_2009.jpg",
+    "file": "File:Paris Opera full frontal architecture, May 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg/1280px-View_of_the_Place_de_l%27Op%C3%A9ra_from_the_top_of_the_Op%C3%A9ra_c1870_-_Leniaud_2003_p48.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/1.webp",
     "w": 1158,
     "h": 1400,
     "kind": "Exterior",
@@ -88484,92 +88611,92 @@ window.BUILDINGS = [
     "file": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Avenue_de_l%27Op%C3%A9ra_Paris.jpg/1280px-Avenue_de_l%27Op%C3%A9ra_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/1.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Avenue de l'Opéra, Paris, France",
-    "credit": "Jebulon",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Avenue_de_l%27Op%C3%A9ra_Paris.jpg",
-    "file": "File:Avenue de l'Opéra Paris.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg/1280px-Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_%2825850301811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Set_design_by_Philippe_Chaperon_for_Act4_sc2_of_Aida_by_Verdi_1880_Paris.jpg/1280px-Set_design_by_Philippe_Chaperon_for_Act4_sc2_of_Aida_by_Verdi_1880_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/2.webp",
     "w": 1280,
-    "h": 853,
+    "h": 1159,
     "kind": "Exterior",
-    "caption": "Exterior · La Ópera Nacional de París se encuentra dividida en dos edificios",
-    "credit": "Carlos Reusser Monsalvez  from Santiago, Chile",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Techo_de_la_%C3%93pera_Garnier_desde_la_terraza_de_Galeries_Lafayette_(25850301811).jpg",
-    "file": "File:Techo de la Ópera Garnier desde la terraza de Galeries Lafayette (25850301811).jpg"
+    "caption": "Exterior",
+    "credit": "Philippe Chaperon    /   Adam Cuerden",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Set_design_by_Philippe_Chaperon_for_Act4_sc2_of_Aida_by_Verdi_1880_Paris.jpg",
+    "file": "File:Set design by Philippe Chaperon for Act4 sc2 of Aida by Verdi 1880 Paris.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/28._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Pavage_et_gaz._Cugnot_-_Durandelle%2C_photographe_-_btv1b54100942p_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Palais_Garnier%27s_grand_salon%2C_12_February_2008.jpg/1280px-Palais_Garnier%27s_grand_salon%2C_12_February_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/3.webp",
     "w": 1280,
-    "h": 900,
+    "h": 854,
     "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Durandelle, Louis-Émile (1839-1917). Photographe",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:28._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Pavage_et_gaz._Cugnot_-_Durandelle,_photographe_-_btv1b54100942p_(1_of_2).jpg",
-    "file": "File:28. Le Nouvel Opéra de Paris. Statues décoratives - Dessus de portes de l'avant-foyer - Pavage et gaz. Cugnot - Durandelle, photographe - btv1b54100942p (1 of 2).jpg"
+    "caption": "Interior · Opera House of Paris, the Palais Garnier's grand salon",
+    "credit": "Photograph:  Eric Pouhier , Modifier:  Rainer Zenz ,  Niabot  (last modification)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier%27s_grand_salon,_12_February_2008.jpg",
+    "file": "File:Palais Garnier's grand salon, 12 February 2008.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/30._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Peinture_et_Fumisterie._Chevalier_-_Durandelle%2C_photographe_-_btv1b54100964d_%281_of_2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/%C3%93pera%2C_Par%C3%ADs%2C_Francia%2C_2022-10-31%2C_DD_54-56_HDR.jpg/1280px-%C3%93pera%2C_Par%C3%ADs%2C_Francia%2C_2022-10-31%2C_DD_54-56_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/4.webp",
     "w": 1280,
-    "h": 913,
+    "h": 1280,
     "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Durandelle, Louis-Émile (1839-1917). Photographe",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:30._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Dessus_de_portes_de_l%27avant-foyer_-_Peinture_et_Fumisterie._Chevalier_-_Durandelle,_photographe_-_btv1b54100964d_(1_of_2).jpg",
-    "file": "File:30. Le Nouvel Opéra de Paris. Statues décoratives - Dessus de portes de l'avant-foyer - Peinture et Fumisterie. Chevalier - Durandelle, photographe - btv1b54100964d (1 of 2).jpg"
+    "caption": "Interior · Ceiling over the Grand staircase in Garnier Opera or Palais Garnier , Paris, France",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%93pera,_Par%C3%ADs,_Francia,_2022-10-31,_DD_54-56_HDR.jpg",
+    "file": "File:Ópera, París, Francia, 2022-10-31, DD 54-56 HDR.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Opera_Garnier_facade_detail_DSC_0792w.jpg/1280px-Opera_Garnier_facade_detail_DSC_0792w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Opera_Garnier_Grand_Escalier.jpg/1280px-Opera_Garnier_Grand_Escalier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/5.webp",
     "w": 1280,
-    "h": 896,
-    "kind": "Detail",
-    "caption": "Detail · Opéra Garnier , Fassadendetail, Paris",
-    "credit": "P e z i",
+    "h": 1021,
+    "kind": "Interior",
+    "caption": "Interior · The Large Staircase of The Garnier Opera, in Paris",
+    "credit": "Benh LIEU SONG",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Opera_Garnier_facade_detail_DSC_0792w.jpg",
-    "file": "File:Opera Garnier facade detail DSC 0792w.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Opera_Garnier_Grand_Escalier.jpg",
+    "file": "File:Opera Garnier Grand Escalier.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Charles_Garnier_monument_at_night.jpg/1280px-Charles_Garnier_monument_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg/1280px-Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/6.webp",
-    "w": 1280,
-    "h": 964,
+    "w": 1044,
+    "h": 1400,
     "kind": "Plan",
-    "caption": "Plan · The Charles Garnier monument outside the Palais Garnier ",
-    "credit": "APK",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Charles_Garnier_monument_at_night.jpg",
-    "file": "File:Charles Garnier monument at night.jpg"
+    "caption": "Plan · Ground-floor plan of the Paris Opera's Palais Garnier",
+    "credit": "Charles Garnier  (1825–1898), architect Rebout, engraver Bordet, engraver",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg",
+    "file": "File:Palais Garnier plan at ground floor - Mead 1991 p101.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg/1280px-Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg/1280px-Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/7.webp",
     "w": 1280,
-    "h": 767,
+    "h": 768,
     "kind": "Section",
-    "caption": "Section · Sujet : Opéra Garnier (Paris) Plans Plan Langue : français",
-    "credit": "Garnier, Charles (1825-1898). Dessinateur. Ancien possesseur",
+    "caption": "Section · Transverse section at the auditorium and pavilions of the Paris Opera's Palais Garnier",
+    "credit": "Charles Garnier  (1825–1898), architect Riquois, engraver Bordet, engraver",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Coupe_transversale_des_dessous._Ponts_mobiles._Treuils_et_chariots_-_Charles_Garnier_-_btv1b53194356j.jpg",
-    "file": "File:Coupe transversale des dessous. Ponts mobiles. Treuils et chariots - Charles Garnier - btv1b53194356j.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg",
+    "file": "File:Palais Garnier transverse section at the auditorium and pavilions - Mead 1991 p102.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg/1280px-Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-garnier/thumbs/8.webp",
+    "w": 1280,
+    "h": 791,
+    "kind": "Elevation",
+    "caption": "Elevation · Elevation of the principal facade of the Paris Opera's Palais Garnier",
+    "credit": "Charles Garnier  (1825–1898), architect de Garron, engraver",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
+    "file": "File:Palais Garnier elevation of the principal facade - Mead 1991 p102.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Maquette_salle_op%C3%A9ra_garnier.jpg/1280px-Maquette_salle_op%C3%A9ra_garnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/8.webp",
+    "thumb": "images/palais-garnier/thumbs/9.webp",
     "w": 1280,
     "h": 960,
     "kind": "Model",
@@ -88578,25 +88705,13 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Maquette_salle_op%C3%A9ra_garnier.jpg",
     "file": "File:Maquette salle opéra garnier.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg/1280px-Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-garnier/thumbs/9.webp",
-    "w": 1280,
-    "h": 756,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Garnier, Charles (1825-1898). Dessinateur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Nouvel_Op%C3%A9ra._%C3%89l%C3%A9vation_de_la_fa%C3%A7ade_post%C3%A9rieure_-_dessin_-_Charles_Garnier_-_btv1b53291509t.jpg",
-    "file": "File:Nouvel Opéra. Élévation de la façade postérieure - dessin - Charles Garnier - btv1b53291509t.jpg"
    }
   ],
   "has": [
    "Plan",
    "Section",
-   "Model",
-   "Drawing"
+   "Elevation",
+   "Model"
   ],
   "gv": 2
  },
@@ -114164,8 +114279,20 @@ window.BUILDINGS = [
     "file": "File:Courtyard Nebraska State Capitol 2025a.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/01_Nebraska_State_Capitol_Aisle_Vault.jpg/1280px-01_Nebraska_State_Capitol_Aisle_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Courtyard_Nebraska_State_Capitol_2025b.jpg/1280px-Courtyard_Nebraska_State_Capitol_2025b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nebraska-state-capitol/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Courtyard of the Nebraska State Capitol in Lincoln, Nebraska in 2025",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Courtyard_Nebraska_State_Capitol_2025b.jpg",
+    "file": "File:Courtyard Nebraska State Capitol 2025b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/01_Nebraska_State_Capitol_Aisle_Vault.jpg/1280px-01_Nebraska_State_Capitol_Aisle_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nebraska-state-capitol/thumbs/5.webp",
     "w": 1280,
     "h": 960,
     "kind": "Interior",
@@ -114176,18 +114303,22 @@ window.BUILDINGS = [
     "file": "File:01 Nebraska State Capitol Aisle Vault.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/04_Nebraska_State_Capitol_Diocletian_Windows.jpg/1280px-04_Nebraska_State_Capitol_Diocletian_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nebraska-state-capitol/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg/1280px-Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nebraska-state-capitol/thumbs/6.webp",
     "w": 1280,
-    "h": 1085,
-    "kind": "Interior",
-    "caption": "Interior · 04 Nebraska State Capitol Diocletian Windows",
-    "credit": "NateBergin",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:04_Nebraska_State_Capitol_Diocletian_Windows.jpg",
-    "file": "File:04 Nebraska State Capitol Diocletian Windows.jpg"
+    "h": 960,
+    "kind": "Elevation",
+    "caption": "Elevation · Nebraska State Capitol, front elevation, north",
+    "credit": "Capitolist",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nebraska_State_Capitol,_front_elevation,_north.jpg",
+    "file": "File:Nebraska State Capitol, front elevation, north.jpg"
    }
-  ]
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 2
  },
  {
   "id": "muuratsalo-experimental-house",
@@ -132632,8 +132763,20 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Wfm_glasgow_school_of_art.jpg/1280px-Wfm_glasgow_school_of_art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/glasgow-school-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 986,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "John a s",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wfm_glasgow_school_of_art.jpg",
+    "file": "File:Wfm glasgow school of art.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_20230916153912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/glasgow-school-of-art/thumbs/1.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -132645,7 +132788,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Glasgow_School_of_Art_-_15441468932.jpg/1280px-Glasgow_School_of_Art_-_15441468932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/1.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/2.webp",
     "w": 933,
     "h": 1400,
     "kind": "Exterior",
@@ -132657,7 +132800,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Glasgow_School_of_Art_-_panoramio.jpg/1280px-The_Glasgow_School_of_Art_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/2.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/3.webp",
     "w": 1280,
     "h": 850,
     "kind": "Exterior",
@@ -132669,7 +132812,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Glasgow_City_-_Glasgow_School_of_Art_-_2026-09-23_00-39-59_002.jpg/1280px-Glasgow_City_-_Glasgow_School_of_Art_-_2026-09-23_00-39-59_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/3.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/4.webp",
     "w": 1280,
     "h": 960,
     "kind": "Interior",
@@ -132681,7 +132824,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Glasgow_School_of_Art_Assembly_Hall_%2827459188237%29.jpg/1280px-Glasgow_School_of_Art_Assembly_Hall_%2827459188237%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/4.webp",
+    "thumb": "images/glasgow-school-of-art/thumbs/5.webp",
     "w": 1280,
     "h": 960,
     "kind": "Interior",
@@ -132690,18 +132833,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_Assembly_Hall_(27459188237).jpg",
     "file": "File:Glasgow School of Art Assembly Hall (27459188237).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Glasgow_School_of_Art_-_8932001004.jpg/1280px-Glasgow_School_of_Art_-_8932001004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-school-of-art/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · This is a photo of listed building number",
-    "credit": "Dave & Margie Hill / Kleerup",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_School_of_Art_-_8932001004.jpg",
-    "file": "File:Glasgow School of Art - 8932001004.jpg"
    }
   ],
   "has": [],
@@ -135763,16 +135894,16 @@ window.BUILDINGS = [
     "file": "File:Eingang AdK Hanseatenweg (DSC00612).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Akademie_der_K%C3%BCnste_Berlin_Hansaviertel.jpg/1280px-Akademie_der_K%C3%BCnste_Berlin_Hansaviertel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Henry_Moore%2C_Liegende_%281956%29%2C_Berlin-Hansaviertel%2C_Hanseatenweg.jpg/1280px-Henry_Moore%2C_Liegende_%281956%29%2C_Berlin-Hansaviertel%2C_Hanseatenweg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/academy-of-arts-hanseatenweg/thumbs/4.webp",
     "w": 1280,
-    "h": 960,
+    "h": 889,
     "kind": "Exterior",
-    "caption": "Exterior · Alter Sitz der Westberliner Akademie der Künste am Hanseatenweg in Berlin-Hansaviertel",
-    "credit": "Aufgenommen von  User:Proofreader  am 20.03.2007.",
+    "caption": "Exterior",
+    "credit": "Rolf Nemitz",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Akademie_der_K%C3%BCnste_Berlin_Hansaviertel.jpg",
-    "file": "File:Akademie der Künste Berlin Hansaviertel.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Henry_Moore,_Liegende_(1956),_Berlin-Hansaviertel,_Hanseatenweg.jpg",
+    "file": "File:Henry Moore, Liegende (1956), Berlin-Hansaviertel, Hanseatenweg.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/AdK_Berlin_Hanseatenweg%2C_3.jpg/1280px-AdK_Berlin_Hanseatenweg%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -135786,7 +135917,9 @@ window.BUILDINGS = [
     "source": "https://commons.wikimedia.org/wiki/File:AdK_Berlin_Hanseatenweg,_3.jpg",
     "file": "File:AdK Berlin Hanseatenweg, 3.jpg"
    }
-  ]
+  ],
+  "has": [],
+  "gv": 2
  },
  {
   "id": "tagblatt-turm",
@@ -138857,20 +138990,8 @@ window.BUILDINGS = [
     "file": "File:Fachada do Teatro Oficina 2026.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Z%C3%A9_Celso_Vive%21_2.jpg/1280px-Z%C3%A9_Celso_Vive%21_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/teatro-oficina/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Zé Celso Vive!",
-    "credit": "Pedu0303",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%A9_Celso_Vive!_2.jpg",
-    "file": "File:Zé Celso Vive! 2.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Papagaio_preso_no_Terreiro_Eletr%C3%B4nyco.jpg/1280px-Papagaio_preso_no_Terreiro_Eletr%C3%B4nyco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/teatro-oficina/thumbs/3.webp",
+    "thumb": "images/teatro-oficina/thumbs/2.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -138879,6 +139000,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Papagaio_preso_no_Terreiro_Eletr%C3%B4nyco.jpg",
     "file": "File:Papagaio preso no Terreiro Eletrônyco.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Tadeu_Jungle_no_Teatro_Oficina_%282%29%2C_by_Lenise_Pinheiro.jpg/1280px-Tadeu_Jungle_no_Teatro_Oficina_%282%29%2C_by_Lenise_Pinheiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-oficina/thumbs/3.webp",
+    "w": 1280,
+    "h": 773,
+    "kind": "Exterior",
+    "caption": "Exterior · Foto por Lenise Pinheiro",
+    "credit": "Bilords",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tadeu_Jungle_no_Teatro_Oficina_(2),_by_Lenise_Pinheiro.jpg",
+    "file": "File:Tadeu Jungle no Teatro Oficina (2), by Lenise Pinheiro.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Oficina_evento_Oscar_2025_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -138891,6 +139024,18 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Oficina_evento_Oscar_2025_2.jpg",
     "file": "File:Oficina evento Oscar 2025 2.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Oficina_evento_Oscar_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/teatro-oficina/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior do Teatro oficina 2025",
+    "credit": "Pedu0303",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oficina_evento_Oscar_2025.jpg",
+    "file": "File:Oficina evento Oscar 2025.jpg"
    }
   ],
   "has": [],

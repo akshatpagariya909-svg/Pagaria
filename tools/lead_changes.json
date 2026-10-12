@@ -11,17 +11,32 @@
  },
  "palais-garnier": {
   "name": "Palais Garnier",
-  "old": "File:Avenue de l'Opéra Paris.jpg",
-  "new": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg"
+  "old": "File:View of the Place de l'Opéra from the top of the Opéra c1870 - Leniaud 2003 p48.jpg",
+  "new": "File:Paris Opera full frontal architecture, May 2009.jpg"
  },
  "glasgow-school-of-art": {
   "name": "Glasgow School of Art",
-  "old": "File:Wfm glasgow school of art.jpg",
-  "new": "File:Glasgow City - Glasgow School of Art - 20230916153912.jpg"
+  "old": "File:Glasgow City - Glasgow School of Art - 20230916153912.jpg",
+  "new": "File:Wfm glasgow school of art.jpg"
  },
  "villa-savoye": {
   "name": "Villa Savoye",
-  "old": "File:Villa Savoye32.JPG - Flickr - scarletgreen.jpg",
-  "new": "File:Cartello Patrimonio xx secolo.jpg"
+  "old": "File:Cartello Patrimonio xx secolo.jpg",
+  "new": "File:Villa Savoye (8237925975).jpg"
+ },
+ "notre-dame-du-haut": {
+  "name": "Notre-Dame du Haut",
+  "old": "File:Notre-Dame du Haut (86745712).jpg",
+  "new": "File:Campanile (Ronchamp).jpg"
+ },
+ "centre-pompidou": {
+  "name": "Centre Pompidou",
+  "old": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg",
+  "new": "File:Centre Pompidou @ Jardin Anne-Frank.jpg"
+ },
+ "bosco-verticale": {
+  "name": "Bosco Verticale",
+  "old": "File:ComplessoPortaNuova.JPG",
+  "new": "File:Il Bosco Verticale Milano Px (137734459).jpeg"
  }
 }
