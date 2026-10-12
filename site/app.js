@@ -149,8 +149,9 @@
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') { if (!sheet.hidden) closeBuilding(); else toggleFilters(false); return; }
     if (!sheet.hidden) {
-      if (e.key === 'ArrowLeft') showShot(state.shot - 1);
-      if (e.key === 'ArrowRight') showShot(state.shot + 1);
+      // Arrow keys step through the wall; photos change with the arrows on the photo.
+      if (e.key === 'ArrowLeft') stepBuilding(-1);
+      if (e.key === 'ArrowRight') stepBuilding(1);
     }
   });
 
@@ -324,6 +325,30 @@
     updateDock();
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
+    updateStep();
+  }
+
+  // Previous and next follow the wall's own order, after filters and search.
+  function updateStep() {
+    const list = feedState.list, i = state.open ? list.indexOf(state.open) : -1;
+    $('step').hidden = i < 0 || list.length < 2;
+    if (i < 0) return;
+    const fill = (btn, x, label) => {
+      btn.disabled = !x;
+      btn.setAttribute('aria-label', x ? `${label} building: ${x.name}` : `No ${label.toLowerCase()} building`);
+      btn.querySelector('img').src = x && x.images[0] ? x.images[0].thumb : '';
+      btn.querySelector('b').textContent = x ? x.name : (label === 'Next' ? 'End of the list' : 'Start of the list');
+    };
+    fill($('sPrev'), list[i - 1], 'Previous');
+    fill($('sNext'), list[i + 1], 'Next');
+    $('sPos').textContent = `${(i + 1).toLocaleString('en')} of ${list.length.toLocaleString('en')}`;
+  }
+  function stepBuilding(dir) {
+    const f = feedState, i = state.open ? f.list.indexOf(state.open) : -1, b = f.list[i + dir];
+    if (i < 0 || !b) return;
+    while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
+    state.stepped = true;
+    openBuilding(b.id);
   }
 
   const dropHash = () => { try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ } };
@@ -332,7 +357,11 @@
     document.body.classList.remove('locked');
     state.open = null;
     updateDock();
-    if (state.lastTile && state.lastTile.isConnected) state.lastTile.querySelector('.open').focus({ preventScroll: true });
+    if (state.lastTile && state.lastTile.isConnected) {
+      if (state.stepped) state.lastTile.scrollIntoView({ block: 'center' });
+      state.lastTile.querySelector('.open').focus({ preventScroll: true });
+    }
+    state.stepped = false;
   }
   // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
   // rather than reopening buildings.
@@ -350,6 +379,8 @@
 
   $('veil').addEventListener('click', closeBuilding);
   $('close').addEventListener('click', closeBuilding);
+  $('sPrev').addEventListener('click', () => stepBuilding(-1));
+  $('sNext').addEventListener('click', () => stepBuilding(1));
   $('gPrev').addEventListener('click', () => showShot(state.shot - 1));
   $('gNext').addEventListener('click', () => showShot(state.shot + 1));
   $('strip').addEventListener('click', e => { const t = e.target.closest('button[data-k]'); if (t) showShot(+t.dataset.k); });
