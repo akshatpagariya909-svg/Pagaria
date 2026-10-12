@@ -39,9 +39,14 @@
  {
   "id": "praca-do-patriarca-canopy",
   "name": "Praça do Patriarca Canopy",
-  "status": "drawn",
+  "status": "photo",
   "commons_category": "Category:Praça do Patriarca (roofing)",
-  "photos": [],
+  "photos": [
+   {
+    "file": "File:Praça do Patriarca 02.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
   "extras": [],
   "view": "Elevation along the portal: the deep steel channel beam on its two plate columns, with the thin canopy hung beneath it, curling down at one end and running out past the far column.",
   "sources": [
@@ -50,7 +55,8 @@
    "https://commons.wikimedia.org/wiki/File:PMENDES3.JPG",
    "https://en.wikipedia.org/wiki/Patriarca_Square"
   ],
-  "note": "Commons has three free photos of the portal and canopy (CC BY-SA), but all are under 1200px (1024x768, 925x618), so it was drawn from them. If the owner accepts smaller photos, File:Praça do Patriarca 02.JPG (CC BY-SA 4.0, Dornicke) is the best."
+  "note": "Commons has three free photos of the portal and canopy (CC BY-SA), but all are under 1200px (1024x768, 925x618), so it was drawn from them. If the owner accepts smaller photos, File:Praça do Patriarca 02.JPG (CC BY-SA 4.0, Dornicke) is the best. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
  },
  {
   "id": "quinta-da-conceicao-tennis-pavilion",

@@ -235,16 +235,26 @@
  {
   "id": "hyogo-children-s-museum",
   "name": "Hyogo Children's Museum",
-  "status": "drawn",
+  "status": "photo",
   "commons_category": "Category:Hyogo Children's Center",
-  "photos": [],
+  "photos": [
+   {
+    "file": "File:兵庫県立こどもの館・本館.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:兵庫県立こどもの館・工作館.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
   "extras": [],
   "view": "front elevation of the Workshop pavilion (kosakukan): two-storey concrete block with glazing and a recessed balcony, a taller concrete box, and the free-standing concrete frame wall with its square opening that the raised connecting path passes through",
   "sources": [
    "https://commons.wikimedia.org/wiki/File:%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E9%A4%A8%E3%83%BB%E5%B7%A5%E4%BD%9C%E9%A4%A8.JPG",
    "https://commons.wikimedia.org/wiki/File:%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E9%A4%A8%E3%83%BB%E6%9C%AC%E9%A4%A8.JPG"
   ],
-  "note": "The Commons category has two free photos (CC BY-SA 3.0, 2006) but both are under 1200px: File:兵庫県立こどもの館・工作館.JPG (904x678, the Workshop) and File:兵庫県立こどもの館・本館.JPG (1070x803, the main building over water). The owner may still prefer one of them. The drawing is traced from the Workshop photo, which is oblique, so the frame wall's width and its square opening are estimated."
+  "note": "The Commons category has two free photos (CC BY-SA 3.0, 2006) but both are under 1200px: File:兵庫県立こどもの館・工作館.JPG (904x678, the Workshop) and File:兵庫県立こどもの館・本館.JPG (1070x803, the main building over water). The owner may still prefer one of them. The drawing is traced from the Workshop photo, which is oblique, so the frame wall's width and its square opening are estimated. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
  },
  {
   "id": "institute-of-foreign-languages",
@@ -311,15 +321,21 @@
  {
   "id": "jetwing-lighthouse",
   "name": "Jetwing Lighthouse",
-  "status": "drawn",
+  "status": "photo",
   "commons_category": null,
-  "photos": [],
+  "photos": [
+   {
+    "file": "File:Jetwing Lighthouse - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
   "extras": [],
   "view": "seaward elevation of the main restaurant wing: two storeys under a tiled hipped roof, ground-floor colonnade, upper floor of windows between piers, lower open-verandah wing to the right, on the terrace above the rocky headland",
   "sources": [
    "https://commons.wikimedia.org/wiki/File:Jetwing_Lighthouse_-_panoramio.jpg"
   ],
-  "note": "Only free photos are small: File:Jetwing Lighthouse - panoramio.jpg (1024x706, CC BY-SA 3.0, Category:Hotels in Galle) and File:Ocean view from Galle Light House Hotel, Sri Lanka.jpg (1024x681, CC BY 2.0, a view from the hotel). Both are under the 1200px rule; the owner may still want the panoramio one. The drawing is traced in elevation from that photo; bay and column counts follow it. The spiral stair with the battle sculpture is inside and not shown."
+  "note": "Only free photos are small: File:Jetwing Lighthouse - panoramio.jpg (1024x706, CC BY-SA 3.0, Category:Hotels in Galle) and File:Ocean view from Galle Light House Hotel, Sri Lanka.jpg (1024x681, CC BY 2.0, a view from the hotel). Both are under the 1200px rule; the owner may still want the panoramio one. The drawing is traced in elevation from that photo; bay and column counts follow it. The spiral stair with the battle sculpture is inside and not shown. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
  },
  {
   "id": "julio-herrera-y-obes-port-warehouse",

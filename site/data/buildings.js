@@ -347,18 +347,6 @@ window.BUILDINGS = [
     "file": "File:Kloster La Tourette, brise-soleil (1997).jpg"
    },
    {
-    "src": "images/sainte-marie-de-la-tourette/7.webp",
-    "thumb": "images/sainte-marie-de-la-tourette/thumbs/7.webp",
-    "w": 1280,
-    "h": 898,
-    "kind": "Drawing",
-    "caption": "Drawing · Plan Nr",
-    "credit": "Santiago Carvajal (permission granted by mail 28.03.2024, 18:32",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Tourette,_Sections_East-West,_Plan_%2B_Axon.jpg",
-    "file": "File:La Tourette, Sections East-West, Plan + Axon.jpg"
-   },
-   {
     "src": "images/sainte-marie-de-la-tourette/8.webp",
     "thumb": "images/sainte-marie-de-la-tourette/thumbs/8.webp",
     "w": 1280,
@@ -369,6 +357,18 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:%E6%8B%89%E5%9C%96%E9%9B%B7%E7%89%B9%E4%BF%AE%E9%81%93%E9%99%A2%E6%A8%A1%E5%9E%8B.jpg",
     "file": "File:拉圖雷特修道院模型.jpg"
+   },
+   {
+    "src": "images/sainte-marie-de-la-tourette/7.webp",
+    "thumb": "images/sainte-marie-de-la-tourette/thumbs/7.webp",
+    "w": 1280,
+    "h": 898,
+    "kind": "Drawing",
+    "caption": "Drawing · Plan Nr",
+    "credit": "Santiago Carvajal (permission granted by mail 28.03.2024, 18:32",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tourette,_Sections_East-West,_Plan_%2B_Axon.jpg",
+    "file": "File:La Tourette, Sections East-West, Plan + Axon.jpg"
    }
   ],
   "commons": "Category:Couvent Sainte-Marie de La Tourette",
@@ -434,18 +434,6 @@ window.BUILDINGS = [
     "file": "File:Palace of Assembly rear.jpg"
    },
    {
-    "src": "images/palace-of-assembly/3.webp",
-    "thumb": "images/palace-of-assembly/thumbs/3.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Context",
-    "caption": "Context · by Le Corbusier",
-    "credit": "Aleksandr Zykov  from Russia",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_above.jpg",
-    "file": "File:Palace of Assembly above.jpg"
-   },
-   {
     "src": "images/palace-of-assembly/4.webp",
     "thumb": "images/palace-of-assembly/thumbs/4.webp",
     "w": 1280,
@@ -494,22 +482,20 @@ window.BUILDINGS = [
     "file": "File:Corbu's Door Palace of Assembly.jpg"
    },
    {
-    "src": "images/palace-of-assembly/8.webp",
-    "thumb": "images/palace-of-assembly/thumbs/8.webp",
-    "w": 1184,
-    "h": 767,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Nicholas.iyadurai",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_the_Assembly_-_Chandigarh_-_Le_Corbusier_-_elevation_of_the_entrance_door.jpg",
-    "file": "File:Palace of the Assembly - Chandigarh - Le Corbusier - elevation of the entrance door.jpg"
+    "src": "images/palace-of-assembly/3.webp",
+    "thumb": "images/palace-of-assembly/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Context",
+    "caption": "Context · by Le Corbusier",
+    "credit": "Aleksandr Zykov  from Russia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Assembly_above.jpg",
+    "file": "File:Palace of Assembly above.jpg"
    }
   ],
   "commons": "Category:Palace of Assembly (Chandigarh)",
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -1390,18 +1376,6 @@ window.BUILDINGS = [
     "file": "File:Fallingwater, Mill Run, PA.jpg"
    },
    {
-    "src": "images/fallingwater/7.webp",
-    "thumb": "images/fallingwater/thumbs/7.webp",
-    "w": 1280,
-    "h": 769,
-    "kind": "Drawing",
-    "caption": "Drawing · Architectural models in the Gemeentemuseum Den Haag",
-    "credit": "Sailko",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Frank_lloyd_wright,_modellino_per_fallingwater,_1935,_03.jpg",
-    "file": "File:Frank lloyd wright, modellino per fallingwater, 1935, 03.jpg"
-   },
-   {
     "src": "images/fallingwater/8.webp",
     "thumb": "images/fallingwater/thumbs/8.webp",
     "w": 1150,
@@ -1424,6 +1398,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fallingwater_miniature_model_at_MRRV,_Carnegie_Science_Center.JPG",
     "file": "File:Fallingwater miniature model at MRRV, Carnegie Science Center.JPG"
+   },
+   {
+    "src": "images/fallingwater/7.webp",
+    "thumb": "images/fallingwater/thumbs/7.webp",
+    "w": 1280,
+    "h": 769,
+    "kind": "Drawing",
+    "caption": "Drawing · Architectural models in the Gemeentemuseum Den Haag",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_lloyd_wright,_modellino_per_fallingwater,_1935,_03.jpg",
+    "file": "File:Frank lloyd wright, modellino per fallingwater, 1935, 03.jpg"
    }
   ],
   "commons": "Category:Fallingwater",
@@ -1646,18 +1632,6 @@ window.BUILDINGS = [
     "file": "File:Frank Lloyd Wright - New York, NY - Solomon R. Guggenheim Museum (K).jpg"
    },
    {
-    "src": "images/solomon-r-guggenheim-museum/7.webp",
-    "thumb": "images/solomon-r-guggenheim-museum/thumbs/7.webp",
-    "w": 1118,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch · This file was provided to Wikimedia Commons by the Solomon R",
-    "credit": "Paul Klee",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:GUGG_Portrait_Sketch_of_a_Costumed_Lady.jpg",
-    "file": "File:GUGG Portrait Sketch of a Costumed Lady.jpg"
-   },
-   {
     "src": "images/solomon-r-guggenheim-museum/8.webp",
     "thumb": "images/solomon-r-guggenheim-museum/thumbs/8.webp",
     "w": 1280,
@@ -1668,25 +1642,11 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Guggenheim_Museum_-_Legoland_California_(2897811006).jpg",
     "file": "File:Guggenheim Museum - Legoland California (2897811006).jpg"
-   },
-   {
-    "src": "images/solomon-r-guggenheim-museum/9.webp",
-    "thumb": "images/solomon-r-guggenheim-museum/thumbs/9.webp",
-    "w": 1075,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · This file was provided to Wikimedia Commons by the Solomon R",
-    "credit": "Robert Delaunay",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:GUGG_Eiffel_Tower.jpg",
-    "file": "File:GUGG Eiffel Tower.jpg"
    }
   ],
   "commons": "Category:Solomon R. Guggenheim Museum",
   "has": [
-   "Sketch",
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -1816,24 +1776,11 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bauhaus_-_plan.png",
     "file": "File:Bauhaus - plan.png"
-   },
-   {
-    "src": "images/bauhaus-dessau/9.webp",
-    "thumb": "images/bauhaus-dessau/thumbs/9.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Ansicht des Schildes zum FrauenOrt am Bauhaus in Dessau",
-    "credit": "Pomfuttge",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:FrauenOrte_Bauhaus_Dessau_Ansicht.jpg",
-    "file": "File:FrauenOrte Bauhaus Dessau Ansicht.jpg"
    }
   ],
   "commons": "Category:Bauhaus Dessau",
   "has": [
-   "Plan",
-   "Elevation"
+   "Plan"
   ],
   "gv": 3
  },
@@ -1929,6 +1876,18 @@ window.BUILDINGS = [
     "file": "File:Utrecht PrinsHendriklaan50 018 2313.jpg"
    },
    {
+    "src": "images/rietveld-schroder-house/8.webp",
+    "thumb": "images/rietveld-schroder-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 868,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "Joanbanjo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Recreaci%C3%B3_de_part_de_la_cuina_de_la_casa_Schr%C3%B6der,_col%C2%B7lecci%C3%B3_Alfaro_Hofmann.jpg",
+    "file": "File:Recreació de part de la cuina de la casa Schröder, col·lecció Alfaro Hofmann.jpg"
+   },
+   {
     "src": "images/rietveld-schroder-house/6.webp",
     "thumb": "images/rietveld-schroder-house/thumbs/6.webp",
     "w": 1280,
@@ -1951,18 +1910,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:RietveldSchroderPlans.png",
     "file": "File:RietveldSchroderPlans.png"
-   },
-   {
-    "src": "images/rietveld-schroder-house/8.webp",
-    "thumb": "images/rietveld-schroder-house/thumbs/8.webp",
-    "w": 1280,
-    "h": 868,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Joanbanjo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Recreaci%C3%B3_de_part_de_la_cuina_de_la_casa_Schr%C3%B6der,_col%C2%B7lecci%C3%B3_Alfaro_Hofmann.jpg",
-    "file": "File:Recreació de part de la cuina de la casa Schröder, col·lecció Alfaro Hofmann.jpg"
    }
   ],
   "commons": "Category:Rietveld Schröder House",
@@ -2002,18 +1949,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Paimion_parantolan_p%C3%A4%C3%A4rakennus_2025_Marit_Henriksson.jpg",
     "file": "File:Paimion parantolan päärakennus 2025 Marit Henriksson.jpg"
-   },
-   {
-    "src": "images/paimio-sanatorium/1.webp",
-    "thumb": "images/paimio-sanatorium/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Unesco 2026 Paimion parantola Alvar Aalto",
-    "credit": "Aurorakiitäjä",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Unesco_2026_Paimion_parantola_Alvar_Aalto.jpg",
-    "file": "File:Unesco 2026 Paimion parantola Alvar Aalto.jpg"
    },
    {
     "src": "images/paimio-sanatorium/2.webp",
@@ -2086,6 +2021,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto,_Paimio_Sanatorium,_Bedroom_lamp.jpg",
     "file": "File:Alvar Aalto, Paimio Sanatorium, Bedroom lamp.jpg"
+   },
+   {
+    "src": "images/paimio-sanatorium/1.webp",
+    "thumb": "images/paimio-sanatorium/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Unesco 2026 Paimion parantola Alvar Aalto",
+    "credit": "Aurorakiitäjä",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unesco_2026_Paimion_parantola_Alvar_Aalto.jpg",
+    "file": "File:Unesco 2026 Paimion parantola Alvar Aalto.jpg"
    }
   ],
   "commons": "Category:Paimio Sanatorium",
@@ -2575,30 +2522,6 @@ window.BUILDINGS = [
     "file": "File:Philip johnson dining area.jpg"
    },
    {
-    "src": "images/glass-house/6.webp",
-    "thumb": "images/glass-house/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing · A model of the Glass House by architect Philip Johnson in display at the MOMA in NYC",
-    "credit": "Petri Krohn  at  English Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:MOMA_Johnson_Glass_House2.jpg",
-    "file": "File:MOMA Johnson Glass House2.jpg"
-   },
-   {
-    "src": "images/glass-house/7.webp",
-    "thumb": "images/glass-house/thumbs/7.webp",
-    "w": 1280,
-    "h": 832,
-    "kind": "Drawing",
-    "caption": "Drawing · planta de la casa",
-    "credit": "Edelteil",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Planta_de_la_casa.jpg",
-    "file": "File:Planta de la casa.jpg"
-   },
-   {
     "src": "images/glass-house/8.webp",
     "thumb": "images/glass-house/thumbs/8.webp",
     "w": 1280,
@@ -2621,6 +2544,30 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Croquis_01.jpg",
     "file": "File:Croquis 01.jpg"
+   },
+   {
+    "src": "images/glass-house/6.webp",
+    "thumb": "images/glass-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Drawing",
+    "caption": "Drawing · A model of the Glass House by architect Philip Johnson in display at the MOMA in NYC",
+    "credit": "Petri Krohn  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MOMA_Johnson_Glass_House2.jpg",
+    "file": "File:MOMA Johnson Glass House2.jpg"
+   },
+   {
+    "src": "images/glass-house/7.webp",
+    "thumb": "images/glass-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 832,
+    "kind": "Drawing",
+    "caption": "Drawing · planta de la casa",
+    "credit": "Edelteil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planta_de_la_casa.jpg",
+    "file": "File:Planta de la casa.jpg"
    }
   ],
   "commons": "Category:Glass House, New Canaan",
@@ -2687,6 +2634,18 @@ window.BUILDINGS = [
     "file": "File:Overhanging plants on roof of Luis Barragán House, Mexico City.jpg"
    },
    {
+    "src": "images/casa-luis-barragan/7.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Barragan-Torre del agua",
+    "credit": "JavierDo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Barragan-Torre_del_agua_-_panoramio.jpg",
+    "file": "File:Casa Barragan-Torre del agua - panoramio.jpg"
+   },
+   {
     "src": "images/casa-luis-barragan/3.webp",
     "thumb": "images/casa-luis-barragan/thumbs/3.webp",
     "w": 1050,
@@ -2697,18 +2656,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0 igo",
     "source": "https://commons.wikimedia.org/wiki/File:Luis_Barrag%C3%A1n_House_and_Studio-115242.jpg",
     "file": "File:Luis Barragán House and Studio-115242.jpg"
-   },
-   {
-    "src": "images/casa-luis-barragan/4.webp",
-    "thumb": "images/casa-luis-barragan/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Luis Barragán House and Studio, the view from the garden",
-    "credit": "Ymblanter",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Luis_Barragan_House_Garden.jpg",
-    "file": "File:Luis Barragan House Garden.jpg"
    },
    {
     "src": "images/casa-luis-barragan/5.webp",
@@ -2735,16 +2682,16 @@ window.BUILDINGS = [
     "file": "File:Water outlet and pool on exterior of Luis Barragàn House, Mexico City.jpg"
    },
    {
-    "src": "images/casa-luis-barragan/7.webp",
-    "thumb": "images/casa-luis-barragan/thumbs/7.webp",
+    "src": "images/casa-luis-barragan/4.webp",
+    "thumb": "images/casa-luis-barragan/thumbs/4.webp",
     "w": 1050,
     "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Casa Barragan-Torre del agua",
-    "credit": "JavierDo",
+    "kind": "Context",
+    "caption": "Context · Luis Barragán House and Studio, the view from the garden",
+    "credit": "Ymblanter",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casa_Barragan-Torre_del_agua_-_panoramio.jpg",
-    "file": "File:Casa Barragan-Torre del agua - panoramio.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Luis_Barragan_House_Garden.jpg",
+    "file": "File:Luis Barragan House Garden.jpg"
    },
    {
     "src": "images/casa-luis-barragan/8.webp",
@@ -2879,37 +2826,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Catedral_metropolitana_(28).jpg",
     "file": "File:Brasília - Catedral metropolitana (28).jpg"
-   },
-   {
-    "src": "images/cathedral-of-brasilia/8.webp",
-    "thumb": "images/cathedral-of-brasilia/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral",
-    "credit": "Sintegrity",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria,_touring,_biblioteca,_museu_e_catedral.jpg",
-    "file": "File:Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral.jpg"
-   },
-   {
-    "src": "images/cathedral-of-brasilia/9.webp",
-    "thumb": "images/cathedral-of-brasilia/thumbs/9.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Maquete de marcenaria do Palácio da Alvorada e da Catedral de Brasília",
-    "credit": "Almanaque Lusofonista",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquete_pal%C3%A1cio_da_Alvorada_e_Catedral_de_Bras%C3%ADlia.JPG",
-    "file": "File:Maquete palácio da Alvorada e Catedral de Brasília.JPG"
    }
   ],
   "commons": "Category:Catedral Metropolitana de Brasília",
-  "has": [
-   "Plan",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -3026,24 +2946,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_Cenotaph_and_Pond_of_Peace.jpg",
     "file": "File:Hiroshima Cenotaph and Pond of Peace.jpg"
-   },
-   {
-    "src": "images/hiroshima-peace-memorial-museum/8.webp",
-    "thumb": "images/hiroshima-peace-memorial-museum/thumbs/8.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Section",
-    "caption": "Section · The most grisly section in the Peace Memorial Park museum- the day time stood still",
-    "credit": "shankar s.  from Poona (pune), India, India",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_most_grisly_section_in_the_museum-_American_attack_(49495518221).jpg",
-    "file": "File:The most grisly section in the museum- American attack (49495518221).jpg"
    }
   ],
   "commons": "Category:Hiroshima Peace Memorial Museum",
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -3078,7 +2984,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Antonin Raymond",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "salk-institute",
@@ -3194,24 +3103,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chairs_and_table_at_Salk_Institute_dllu.jpg",
     "file": "File:Chairs and table at Salk Institute dllu.jpg"
-   },
-   {
-    "src": "images/salk-institute/8.webp",
-    "thumb": "images/salk-institute/thumbs/8.webp",
-    "w": 1177,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Beyond My Ken",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2019_Salk_Institute_south_building_chalk_drawing_on_door.jpg",
-    "file": "File:2019 Salk Institute south building chalk drawing on door.jpg"
    }
   ],
   "commons": "Category:Salk Institute for Biological Studies",
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -3256,6 +3151,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Phillips-Exeter-Academy-Library-Exterior-Exeter-New-Hampshire-Apr-2014-a.jpg",
     "file": "File:Phillips-Exeter-Academy-Library-Exterior-Exeter-New-Hampshire-Apr-2014-a.jpg"
+   },
+   {
+    "src": "images/phillips-exeter-academy-library/6.webp",
+    "thumb": "images/phillips-exeter-academy-library/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcade on ground floor of Phillips Exeter Academy Library",
+    "credit": "Cysj1024",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Arcade_01.jpg",
+    "file": "File:Exeter Library Arcade 01.jpg"
    },
    {
     "src": "images/phillips-exeter-academy-library/2.webp",
@@ -3304,18 +3211,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Stair_01.jpg",
     "file": "File:Exeter Library Stair 01.jpg"
-   },
-   {
-    "src": "images/phillips-exeter-academy-library/6.webp",
-    "thumb": "images/phillips-exeter-academy-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Arcade on ground floor of Phillips Exeter Academy Library",
-    "credit": "Cysj1024",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exeter_Library_Arcade_01.jpg",
-    "file": "File:Exeter Library Arcade 01.jpg"
    },
    {
     "src": "images/phillips-exeter-academy-library/7.webp",
@@ -3760,24 +3655,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Messy_Student_Desks_at_the_Yale_School_of_Architecture_Photo_2,_2018.jpg",
     "file": "File:Messy Student Desks at the Yale School of Architecture Photo 2, 2018.jpg"
-   },
-   {
-    "src": "images/yale-art-and-architecture-building/8.webp",
-    "thumb": "images/yale-art-and-architecture-building/thumbs/8.webp",
-    "w": 1280,
-    "h": 778,
-    "kind": "Model",
-    "caption": "Model · Presentation Space with Architectural Model, Yale School of Architecture, 2018",
-    "credit": "RukshanV",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Presentation_Space_with_Architectural_Model,_Yale_School_of_Architecture,_2018.jpg",
-    "file": "File:Presentation Space with Architectural Model, Yale School of Architecture, 2018.jpg"
    }
   ],
   "commons": "Category:Yale Art and Architecture Building",
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -4464,18 +4345,6 @@ window.BUILDINGS = [
     "file": "File:SESC Pompeia - São Paulo - 20220726141521.jpg"
    },
    {
-    "src": "images/sesc-pompeia/5.webp",
-    "thumb": "images/sesc-pompeia/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · centro cultural em São Paulo",
-    "credit": "Joalpe",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SESC_Pompeia_-_S%C3%A3o_Paulo_-_20220726141931.jpg",
-    "file": "File:SESC Pompeia - São Paulo - 20220726141931.jpg"
-   },
-   {
     "src": "images/sesc-pompeia/6.webp",
     "thumb": "images/sesc-pompeia/thumbs/6.webp",
     "w": 1280,
@@ -4498,6 +4367,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vista_inferior_das_passarelas_do_Sesc_Pompeia.jpg",
     "file": "File:Vista inferior das passarelas do Sesc Pompeia.jpg"
+   },
+   {
+    "src": "images/sesc-pompeia/5.webp",
+    "thumb": "images/sesc-pompeia/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · centro cultural em São Paulo",
+    "credit": "Joalpe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SESC_Pompeia_-_S%C3%A3o_Paulo_-_20220726141931.jpg",
+    "file": "File:SESC Pompeia - São Paulo - 20220726141931.jpg"
    }
   ],
   "commons": "Category:SESC Pompeia",
@@ -4668,18 +4549,6 @@ window.BUILDINGS = [
     "file": "File:1352667 II BARBICAN, Defoe House City of London London 20250613 0005.jpg"
    },
    {
-    "src": "images/barbican-estate/3.webp",
-    "thumb": "images/barbican-estate/thumbs/3.webp",
-    "w": 1280,
-    "h": 533,
-    "kind": "Context",
-    "caption": "Context · Barbican Estate towers from the terrace of the White Collar Factory, Old Street",
-    "credit": "Colin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_2018-09-22.jpg",
-    "file": "File:Barbican Estate 2018-09-22.jpg"
-   },
-   {
     "src": "images/barbican-estate/4.webp",
     "thumb": "images/barbican-estate/thumbs/4.webp",
     "w": 1280,
@@ -4714,6 +4583,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:1352667_II_BARBICAN,_Defoe_House,_Defoe_House_City_of_London_London_20250613_0008.jpg",
     "file": "File:1352667 II BARBICAN, Defoe House, Defoe House City of London London 20250613 0008.jpg"
+   },
+   {
+    "src": "images/barbican-estate/3.webp",
+    "thumb": "images/barbican-estate/thumbs/3.webp",
+    "w": 1280,
+    "h": 533,
+    "kind": "Context",
+    "caption": "Context · Barbican Estate towers from the terrace of the White Collar Factory, Old Street",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_2018-09-22.jpg",
+    "file": "File:Barbican Estate 2018-09-22.jpg"
    },
    {
     "src": "images/barbican-estate/7.webp",
@@ -4872,24 +4753,11 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Maqueta_de_la_%C3%B3pera_de_Sydney.jpg",
     "file": "File:Maqueta de la ópera de Sydney.jpg"
-   },
-   {
-    "src": "images/sydney-opera-house/9.webp",
-    "thumb": "images/sydney-opera-house/thumbs/9.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Drawing",
-    "caption": "Drawing · Architectural Landscape Inspired by the Sydney Opera House",
-    "credit": "Konstantin Malevin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Architectural_Landscape.jpg",
-    "file": "File:Sydney Opera House Architectural Landscape.jpg"
    }
   ],
   "commons": "Category:Sydney Opera House",
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -5117,18 +4985,6 @@ window.BUILDINGS = [
     "file": "File:Nakagin Capsule Tower (51473249937).jpg"
    },
    {
-    "src": "images/nakagin-capsule-tower/7.webp",
-    "thumb": "images/nakagin-capsule-tower/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · nakagin-capsule-tower",
-    "credit": "urbzoo",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nakagin-capsule-tower36_(3767734898).jpg",
-    "file": "File:Nakagin-capsule-tower36 (3767734898).jpg"
-   },
-   {
     "src": "images/nakagin-capsule-tower/8.webp",
     "thumb": "images/nakagin-capsule-tower/thumbs/8.webp",
     "w": 1280,
@@ -5143,7 +4999,6 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Nakagin Capsule Tower",
   "has": [
-   "Plan",
    "Model"
   ],
   "gv": 3
@@ -5360,7 +5215,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Balkrishna Doshi",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "aranya-low-cost-housing",
@@ -5394,7 +5252,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Balkrishna Doshi",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "kanchanjunga-apartments",
@@ -5428,7 +5289,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Charles Correa",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "jawahar-kala-kendra",
@@ -5534,18 +5398,6 @@ window.BUILDINGS = [
     "file": "File:2022 July - JawaharKalaKendra Jaipur 05.jpg"
    },
    {
-    "src": "images/jawahar-kala-kendra/7.webp",
-    "thumb": "images/jawahar-kala-kendra/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing · Jawahar Kala Kendra, Jaipur",
-    "credit": "Chainwit.",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2022_July_-_JawaharKalaKendra_Jaipur_07.jpg",
-    "file": "File:2022 July - JawaharKalaKendra Jaipur 07.jpg"
-   },
-   {
     "src": "images/jawahar-kala-kendra/8.webp",
     "thumb": "images/jawahar-kala-kendra/thumbs/8.webp",
     "w": 1280,
@@ -5556,6 +5408,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Plan,_Jawahar_Kala_Kendra,_Jaipur,_Rajasthan.JPG",
     "file": "File:Plan, Jawahar Kala Kendra, Jaipur, Rajasthan.JPG"
+   },
+   {
+    "src": "images/jawahar-kala-kendra/7.webp",
+    "thumb": "images/jawahar-kala-kendra/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Drawing",
+    "caption": "Drawing · Jawahar Kala Kendra, Jaipur",
+    "credit": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_July_-_JawaharKalaKendra_Jaipur_07.jpg",
+    "file": "File:2022 July - JawaharKalaKendra Jaipur 07.jpg"
    }
   ],
   "commons": "Category:Jawahar Kala Kendra, Jaipur",
@@ -5597,7 +5461,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Laurie Baker",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "heritance-kandalama",
@@ -5641,24 +5508,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kandalama_Hotel,_Dambulla-Arch.GeoffreyBawa-SriLanka.jpg",
     "file": "File:Kandalama Hotel, Dambulla-Arch.GeoffreyBawa-SriLanka.jpg"
-   },
-   {
-    "src": "images/heritance-kandalama/2.webp",
-    "thumb": "images/heritance-kandalama/thumbs/2.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Model",
-    "caption": "Model · Ceylon Steel Corporation Office Building by Geoffrey Bawa and Ulrik Plesner , Oruwela, Sri Lanka",
-    "credit": "",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Geoffrey_Bawa_work.jpg",
-    "file": "File:Geoffrey Bawa work.jpg"
    }
   ],
   "commons": "Category:Geoffrey Bawa",
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -5671,7 +5524,7 @@ window.BUILDINGS = [
   "y": 1948,
   "type": "Housing",
   "movement": "Regionalism",
-  "region": "Africa",
+  "region": "Middle East",
   "era": "1945–1970",
   "concepts": [
    "Earth & local material",
@@ -6091,30 +5944,6 @@ window.BUILDINGS = [
     "file": "File:Verona, castelvecchio, museo 12.jpg"
    },
    {
-    "src": "images/castelvecchio-museum/3.webp",
-    "thumb": "images/castelvecchio-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Museo di Castelvecchio",
-    "credit": "Sailko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Verona,_castelvecchio,_museo,_installazione_esterna_della_statua_di_cangrande_della_scala,_04.jpg",
-    "file": "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 04.jpg"
-   },
-   {
-    "src": "images/castelvecchio-museum/4.webp",
-    "thumb": "images/castelvecchio-museum/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Museo di Castelvecchio",
-    "credit": "Sailko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Verona,_castelvecchio,_museo,_installazione_esterna_della_statua_di_cangrande_della_scala,_05.jpg",
-    "file": "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 05.jpg"
-   },
-   {
     "src": "images/castelvecchio-museum/5.webp",
     "thumb": "images/castelvecchio-museum/thumbs/5.webp",
     "w": 1280,
@@ -6137,6 +5966,30 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Museo_Castelvecchio_Interni.jpg",
     "file": "File:Museo Castelvecchio Interni.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/3.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Museo di Castelvecchio",
+    "credit": "Sailko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verona,_castelvecchio,_museo,_installazione_esterna_della_statua_di_cangrande_della_scala,_04.jpg",
+    "file": "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 04.jpg"
+   },
+   {
+    "src": "images/castelvecchio-museum/4.webp",
+    "thumb": "images/castelvecchio-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Museo di Castelvecchio",
+    "credit": "Sailko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verona,_castelvecchio,_museo,_installazione_esterna_della_statua_di_cangrande_della_scala,_05.jpg",
+    "file": "File:Verona, castelvecchio, museo, installazione esterna della statua di cangrande della scala, 05.jpg"
    },
    {
     "src": "images/castelvecchio-museum/7.webp",
@@ -6547,6 +6400,18 @@ window.BUILDINGS = [
     "file": "File:St. Kolumba Köln - Diözesanmuseum - Ausgrabungen 1.jpg"
    },
    {
+    "src": "images/kolumba-museum/7.webp",
+    "thumb": "images/kolumba-museum/thumbs/7.webp",
+    "w": 1280,
+    "h": 1200,
+    "kind": "Exterior",
+    "caption": "Exterior · Kolumba-Museum Köln",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kolumba-Museum_K%C3%B6ln._Ansicht_von_der_Br%C3%BCckenstra%C3%9Fe-9987.jpg",
+    "file": "File:Kolumba-Museum Köln. Ansicht von der Brückenstraße-9987.jpg"
+   },
+   {
     "src": "images/kolumba-museum/1.webp",
     "thumb": "images/kolumba-museum/thumbs/1.webp",
     "w": 1280,
@@ -6595,18 +6460,6 @@ window.BUILDINGS = [
     "file": "File:Kolumba Köln - Raum 21 (Südturm).jpg"
    },
    {
-    "src": "images/kolumba-museum/5.webp",
-    "thumb": "images/kolumba-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Detail",
-    "caption": "Detail · chapel of st",
-    "credit": "seier+seier",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gottfried_b%C3%B6hm,_kolumba_chapel_extension_1956_(3460863882).jpg",
-    "file": "File:Gottfried böhm, kolumba chapel extension 1956 (3460863882).jpg"
-   },
-   {
     "src": "images/kolumba-museum/6.webp",
     "thumb": "images/kolumba-museum/thumbs/6.webp",
     "w": 1280,
@@ -6619,22 +6472,20 @@ window.BUILDINGS = [
     "file": "File:Kolumba, Köln, Ausstellung 2023-24, Raum 18.jpg"
    },
    {
-    "src": "images/kolumba-museum/7.webp",
-    "thumb": "images/kolumba-museum/thumbs/7.webp",
+    "src": "images/kolumba-museum/5.webp",
+    "thumb": "images/kolumba-museum/thumbs/5.webp",
     "w": 1280,
-    "h": 1200,
-    "kind": "Elevation",
-    "caption": "Elevation · Kolumba-Museum Köln",
-    "credit": "Raimond Spekking",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kolumba-Museum_K%C3%B6ln._Ansicht_von_der_Br%C3%BCckenstra%C3%9Fe-9987.jpg",
-    "file": "File:Kolumba-Museum Köln. Ansicht von der Brückenstraße-9987.jpg"
+    "h": 1280,
+    "kind": "Detail",
+    "caption": "Detail · chapel of st",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gottfried_b%C3%B6hm,_kolumba_chapel_extension_1956_(3460863882).jpg",
+    "file": "File:Gottfried böhm, kolumba chapel extension 1956 (3460863882).jpg"
    }
   ],
   "commons": "Category:Kolumba (museum)",
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -6739,24 +6590,10 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ningbo_Museum_-_55495586174.jpg",
     "file": "File:Ningbo Museum - 55495586174.jpg"
-   },
-   {
-    "src": "images/ningbo-history-museum/7.webp",
-    "thumb": "images/ningbo-history-museum/thumbs/7.webp",
-    "w": 932,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "三猎",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%AE%8B%E2%80%9C%E7%BB%8D%E5%85%B4%E5%8D%81%E5%9B%9B%E5%B9%B4%E2%80%9D%E9%93%AD%E9%93%B6%E5%A1%94.jpg",
-    "file": "File:南宋“绍兴十四年”铭银塔.jpg"
    }
   ],
   "commons": "Category:Ningbo Museum",
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -6791,7 +6628,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Alejandro Aravena",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "row-house-in-sumiyoshi",
@@ -6897,18 +6737,6 @@ window.BUILDINGS = [
     "file": "File:Church of Light.JPG"
    },
    {
-    "src": "images/church-of-the-light/2.webp",
-    "thumb": "images/church-of-the-light/thumbs/2.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Detail",
-    "caption": "Detail · Church of the Light by Tadao Ando",
-    "credit": "Chun-Hung Eric Cheng",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Light.jpg",
-    "file": "File:Church of the Light.jpg"
-   },
-   {
     "src": "images/church-of-the-light/3.webp",
     "thumb": "images/church-of-the-light/thumbs/3.webp",
     "w": 1050,
@@ -6921,22 +6749,20 @@ window.BUILDINGS = [
     "file": "File:Church of the Light model.jpg"
    },
    {
-    "src": "images/church-of-the-light/4.webp",
-    "thumb": "images/church-of-the-light/thumbs/4.webp",
-    "w": 768,
-    "h": 1024,
-    "kind": "Model",
-    "caption": "Model · Maqueta",
-    "credit": "dalbera",
+    "src": "images/church-of-the-light/2.webp",
+    "thumb": "images/church-of-the-light/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Detail",
+    "caption": "Detail · Church of the Light by Tadao Ando",
+    "credit": "Chun-Hung Eric Cheng",
     "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%22Maquette_de_l%27%C3%A9glise_de_la_lumi%C3%A8re_de_Tadao_Ando_(C._Pompidou,_Paris)%22.jpg",
-    "file": "File:\"Maquette de l'église de la lumière de Tadao Ando (C. Pompidou, Paris)\".jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_the_Light.jpg",
+    "file": "File:Church of the Light.jpg"
    }
   ],
   "commons": "Category:Church of the Light (Ibaraki Kasugaoka Kyokai Church)",
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -7117,18 +6943,6 @@ window.BUILDINGS = [
     "file": "File:21st Century Museum of Contemporary Art in Kanazawa - Takeshi DSC 1132 (3872661475).jpg"
    },
    {
-    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/3.webp",
-    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · 21st Century Museum of Contemporary Art, Kanazawa (Ishikawa, Japan)",
-    "credit": "金沢市",
-    "license": "CC BY 2.1 jp",
-    "source": "https://commons.wikimedia.org/wiki/File:21st_Century_Museum_of_Contemporary_Art,_Kanazawa010.jpg",
-    "file": "File:21st Century Museum of Contemporary Art, Kanazawa010.jpg"
-   },
-   {
     "src": "images/21st-century-museum-of-contemporary-art-kanazawa/4.webp",
     "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/4.webp",
     "w": 1280,
@@ -7163,6 +6977,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Skylight_at_the_21st_Century_Museum_of_Contemporary_Art,_Kanazawa.jpg",
     "file": "File:Skylight at the 21st Century Museum of Contemporary Art, Kanazawa.jpg"
+   },
+   {
+    "src": "images/21st-century-museum-of-contemporary-art-kanazawa/3.webp",
+    "thumb": "images/21st-century-museum-of-contemporary-art-kanazawa/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · 21st Century Museum of Contemporary Art, Kanazawa (Ishikawa, Japan)",
+    "credit": "金沢市",
+    "license": "CC BY 2.1 jp",
+    "source": "https://commons.wikimedia.org/wiki/File:21st_Century_Museum_of_Contemporary_Art,_Kanazawa010.jpg",
+    "file": "File:21st Century Museum of Contemporary Art, Kanazawa010.jpg"
    },
    {
     "src": "images/21st-century-museum-of-contemporary-art-kanazawa/7.webp",
@@ -7213,7 +7039,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Ryue Nishizawa",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "kait-workshop",
@@ -7247,7 +7076,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Kanagawa Institute of Technology",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "teshima-art-museum",
@@ -7463,18 +7295,6 @@ window.BUILDINGS = [
     "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 1.jpg"
    },
    {
-    "src": "images/centre-pompidou/2.webp",
-    "thumb": "images/centre-pompidou/thumbs/2.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Detail",
-    "caption": "Detail · Ventilation pipes on Place Georges Pompidou opposite the main entrance of the Centre Pompidou in Paris",
-    "credit": "Stefan Drößler",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCftungsrohre_Place_George_Pompidou_Paris.jpg",
-    "file": "File:Lüftungsrohre Place George Pompidou Paris.jpg"
-   },
-   {
     "src": "images/centre-pompidou/3.webp",
     "thumb": "images/centre-pompidou/thumbs/3.webp",
     "w": 1280,
@@ -7497,6 +7317,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Centre_Georges-Pompidou_(26635176448).jpg",
     "file": "File:Interior of the Centre Georges-Pompidou (26635176448).jpg"
+   },
+   {
+    "src": "images/centre-pompidou/2.webp",
+    "thumb": "images/centre-pompidou/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Detail",
+    "caption": "Detail · Ventilation pipes on Place Georges Pompidou opposite the main entrance of the Centre Pompidou in Paris",
+    "credit": "Stefan Drößler",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCftungsrohre_Place_George_Pompidou_Paris.jpg",
+    "file": "File:Lüftungsrohre Place George Pompidou Paris.jpg"
    },
    {
     "src": "images/centre-pompidou/5.webp",
@@ -7523,18 +7355,6 @@ window.BUILDINGS = [
     "file": "File:Vue Centre Pompidou depuis Basilique Sacré Cœur Montmartre Paris 2.jpg"
    },
    {
-    "src": "images/centre-pompidou/7.webp",
-    "thumb": "images/centre-pompidou/thumbs/7.webp",
-    "w": 1106,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Numéro spécial consacré à l'Exposition de la \"Section d'Or\", première année, n° 1, 9 octobre 1912",
-    "credit": "Not identified, anonymous",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Section_d%27Or,_numero_special,_9_Octobre_1912.jpg",
-    "file": "File:La Section d'Or, numero special, 9 Octobre 1912.jpg"
-   },
-   {
     "src": "images/centre-pompidou/8.webp",
     "thumb": "images/centre-pompidou/thumbs/8.webp",
     "w": 1000,
@@ -7549,7 +7369,6 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Centre Georges-Pompidou",
   "has": [
-   "Section",
    "Sketch"
   ],
   "gv": 3
@@ -7744,18 +7563,6 @@ window.BUILDINGS = [
     "file": "File:HSBC Building (Hong Kong) 20170808.jpg"
    },
    {
-    "src": "images/hsbc-main-building/3.webp",
-    "thumb": "images/hsbc-main-building/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · HSBC Building & Bank of China Tower",
-    "credit": "Suicasmo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building_%26_Bank_of_China_Tower_20170808.jpg",
-    "file": "File:HSBC Building & Bank of China Tower 20170808.jpg"
-   },
-   {
     "src": "images/hsbc-main-building/4.webp",
     "thumb": "images/hsbc-main-building/thumbs/4.webp",
     "w": 933,
@@ -7790,6 +7597,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_HSBC_headquarters_building_IMG_5371.JPG",
     "file": "File:Hong Kong HSBC headquarters building IMG 5371.JPG"
+   },
+   {
+    "src": "images/hsbc-main-building/3.webp",
+    "thumb": "images/hsbc-main-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · HSBC Building & Bank of China Tower",
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building_%26_Bank_of_China_Tower_20170808.jpg",
+    "file": "File:HSBC Building & Bank of China Tower 20170808.jpg"
    },
    {
     "src": "images/hsbc-main-building/7.webp",
@@ -8212,42 +8031,6 @@ window.BUILDINGS = [
     "file": "File:2026-04-26 Juedisches Museum Berlin 084.jpg"
    },
    {
-    "src": "images/jewish-museum-berlin/2.webp",
-    "thumb": "images/jewish-museum-berlin/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Ziko van Dijk",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_076.jpg",
-    "file": "File:2026-04-26 Juedisches Museum Berlin 076.jpg"
-   },
-   {
-    "src": "images/jewish-museum-berlin/3.webp",
-    "thumb": "images/jewish-museum-berlin/thumbs/3.webp",
-    "w": 788,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Ziko van Dijk",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_083.jpg",
-    "file": "File:2026-04-26 Juedisches Museum Berlin 083.jpg"
-   },
-   {
-    "src": "images/jewish-museum-berlin/4.webp",
-    "thumb": "images/jewish-museum-berlin/thumbs/4.webp",
-    "w": 1280,
-    "h": 721,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Ziko van Dijk",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_078.jpg",
-    "file": "File:2026-04-26 Juedisches Museum Berlin 078.jpg"
-   },
-   {
     "src": "images/jewish-museum-berlin/5.webp",
     "thumb": "images/jewish-museum-berlin/thumbs/5.webp",
     "w": 1280,
@@ -8282,6 +8065,42 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_012.jpg",
     "file": "File:2026-04-26 Juedisches Museum Berlin 012.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/4.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/4.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Ziko van Dijk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_078.jpg",
+    "file": "File:2026-04-26 Juedisches Museum Berlin 078.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/2.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ziko van Dijk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_076.jpg",
+    "file": "File:2026-04-26 Juedisches Museum Berlin 076.jpg"
+   },
+   {
+    "src": "images/jewish-museum-berlin/3.webp",
+    "thumb": "images/jewish-museum-berlin/thumbs/3.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ziko van Dijk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-04-26_Juedisches_Museum_Berlin_083.jpg",
+    "file": "File:2026-04-26 Juedisches Museum Berlin 083.jpg"
    },
    {
     "src": "images/jewish-museum-berlin/8.webp",
@@ -8429,24 +8248,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Seattle_Central_Library_at_Night.jpg",
     "file": "File:Seattle Central Library at Night.jpg"
-   },
-   {
-    "src": "images/seattle-central-library/8.webp",
-    "thumb": "images/seattle-central-library/thumbs/8.webp",
-    "w": 768,
-    "h": 1024,
-    "kind": "Model",
-    "caption": "Model · June 5, 2004 103-0303_IMG",
-    "credit": "Bill Abbott",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flying_model_airplanes!_Seattle_Public_Library_(5351013415).jpg",
-    "file": "File:Flying model airplanes! Seattle Public Library (5351013415).jpg"
    }
   ],
   "commons": "Category:Seattle Central Library",
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -9085,6 +8890,18 @@ window.BUILDINGS = [
     "file": "File:Elbphilharmonie, Hamburg (39622566014).jpg"
    },
    {
+    "src": "images/elbphilharmonie/6.webp",
+    "thumb": "images/elbphilharmonie/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Die Elphi nach der letzten Bauabnahme und Eröffnung der Plaza im November 2016",
+    "credit": "Pauli-Pirat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elphi_Ansicht_Ostseite.jpg",
+    "file": "File:Elphi Ansicht Ostseite.jpg"
+   },
+   {
     "src": "images/elbphilharmonie/3.webp",
     "thumb": "images/elbphilharmonie/thumbs/3.webp",
     "w": 1280,
@@ -9121,18 +8938,6 @@ window.BUILDINGS = [
     "file": "File:Elbphilharmonie Eastside View With Sandtorkai Quay Magellan Terraces Sandtorpark 2022-06-04 16-32.jpg"
    },
    {
-    "src": "images/elbphilharmonie/6.webp",
-    "thumb": "images/elbphilharmonie/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Die Elphi nach der letzten Bauabnahme und Eröffnung der Plaza im November 2016",
-    "credit": "Pauli-Pirat",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Elphi_Ansicht_Ostseite.jpg",
-    "file": "File:Elphi Ansicht Ostseite.jpg"
-   },
-   {
     "src": "images/elbphilharmonie/7.webp",
     "thumb": "images/elbphilharmonie/thumbs/7.webp",
     "w": 1200,
@@ -9147,7 +8952,6 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Elbphilharmonie",
   "has": [
-   "Elevation",
    "Model"
   ],
   "gv": 3
@@ -9256,18 +9060,6 @@ window.BUILDINGS = [
     "file": "File:LouvreAD calligraphy.jpg"
    },
    {
-    "src": "images/louvre-abu-dhabi/7.webp",
-    "thumb": "images/louvre-abu-dhabi/thumbs/7.webp",
-    "w": 1280,
-    "h": 770,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Francesco Bini",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jean_nouvel,_modellino_del_louvre_abu_dhabi.jpg",
-    "file": "File:Jean nouvel, modellino del louvre abu dhabi.jpg"
-   },
-   {
     "src": "images/louvre-abu-dhabi/8.webp",
     "thumb": "images/louvre-abu-dhabi/thumbs/8.webp",
     "w": 1280,
@@ -9282,8 +9074,7 @@ window.BUILDINGS = [
   ],
   "commons": "Category:Louvre Abu Dhabi",
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -9463,6 +9254,18 @@ window.BUILDINGS = [
     "file": "File:\"Das größte Holzbauwerk der Welt\". 09.jpg"
    },
    {
+    "src": "images/metropol-parasol/7.webp",
+    "thumb": "images/metropol-parasol/thumbs/7.webp",
+    "w": 808,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · The Metropol Parasol in Sevilla",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Das_gr%C3%B6%C3%9Fte_Holzbauwerk_der_Welt%22._03.jpg",
+    "file": "File:\"Das größte Holzbauwerk der Welt\". 03.jpg"
+   },
+   {
     "src": "images/metropol-parasol/4.webp",
     "thumb": "images/metropol-parasol/thumbs/4.webp",
     "w": 1280,
@@ -9497,18 +9300,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Das_gr%C3%B6%C3%9Fte_Holzbauwerk_der_Welt%22._12.jpg",
     "file": "File:\"Das größte Holzbauwerk der Welt\". 12.jpg"
-   },
-   {
-    "src": "images/metropol-parasol/7.webp",
-    "thumb": "images/metropol-parasol/thumbs/7.webp",
-    "w": 808,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · The Metropol Parasol in Sevilla",
-    "credit": "Holger Uwe Schmitt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%22Das_gr%C3%B6%C3%9Fte_Holzbauwerk_der_Welt%22._03.jpg",
-    "file": "File:\"Das größte Holzbauwerk der Welt\". 03.jpg"
    },
    {
     "src": "images/metropol-parasol/8.webp",
@@ -9669,7 +9460,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:ICD/ITKE Research Pavilion",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "high-line",
@@ -9739,6 +9533,30 @@ window.BUILDINGS = [
     "file": "File:30th St 10h Av td (2018-08-16) 05 - High Line Spur.jpg"
    },
    {
+    "src": "images/high-line/8.webp",
+    "thumb": "images/high-line/thumbs/8.webp",
+    "w": 685,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · High Line (New York City)",
+    "credit": "Elisa.rolle",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:High_Line_25.JPG",
+    "file": "File:High Line 25.JPG"
+   },
+   {
+    "src": "images/high-line/9.webp",
+    "thumb": "images/high-line/thumbs/9.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · High line at sunset",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:High_Line_August_2017_01.jpg",
+    "file": "File:High Line August 2017 01.jpg"
+   },
+   {
     "src": "images/high-line/4.webp",
     "thumb": "images/high-line/thumbs/4.webp",
     "w": 1280,
@@ -9773,50 +9591,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2023_028.jpg",
     "file": "File:At New York City 2023 028.jpg"
-   },
-   {
-    "src": "images/high-line/7.webp",
-    "thumb": "images/high-line/thumbs/7.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · Plate 64 from: Insurance Maps of the City of New York Borough of Manhattan",
-    "credit": "Sanborn Map Company",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Sanborn_Manhattan_V._1_Plate_064_publ._1905.jpg",
-    "file": "File:Sanborn Manhattan V. 1 Plate 064 publ. 1905.jpg"
-   },
-   {
-    "src": "images/high-line/8.webp",
-    "thumb": "images/high-line/thumbs/8.webp",
-    "w": 685,
-    "h": 1024,
-    "kind": "Plan",
-    "caption": "Plan · High Line (New York City)",
-    "credit": "Elisa.rolle",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:High_Line_25.JPG",
-    "file": "File:High Line 25.JPG"
-   },
-   {
-    "src": "images/high-line/9.webp",
-    "thumb": "images/high-line/thumbs/9.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Section",
-    "caption": "Section · High line at sunset",
-    "credit": "Arild Vågen",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:High_Line_August_2017_01.jpg",
-    "file": "File:High Line August 2017 01.jpg"
    }
   ],
   "commons": "Category:High Line (New York City)",
-  "has": [
-   "Plan",
-   "Section",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -9829,7 +9607,7 @@ window.BUILDINGS = [
   "y": 2011,
   "type": "House",
   "movement": "Contemporary",
-  "region": "East Asia",
+  "region": "Southeast Asia",
   "era": "2005–today",
   "concepts": [
    "Planting",
@@ -9851,7 +9629,10 @@ window.BUILDINGS = [
    }
   ],
   "commons": "Category:Vo Trong Nghia Architects",
-  "gv": 3
+  "gv": 3,
+  "has": [
+   "Drawing"
+  ]
  },
  {
   "id": "superkilen",
@@ -9955,23 +9736,10 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Superkilen_plan.jpg",
     "file": "File:Superkilen plan.jpg"
-   },
-   {
-    "src": "images/superkilen/7.webp",
-    "thumb": "images/superkilen/thumbs/7.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Superkilen in the Nørrebro district of Copenhagen, Denmark",
-    "credit": "Ramblersen",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Superkilen_-_red_section.JPG",
-    "file": "File:Superkilen - red section.JPG"
    }
   ],
   "commons": "Category:Superkilen",
   "has": [
-   "Section",
    "Drawing"
   ],
   "gv": 3
@@ -10176,16 +9944,16 @@ window.BUILDINGS = [
     "file": "File:Corridors leading from shaft inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg"
    },
    {
-    "src": "images/zeitz-mocaa/6.webp",
-    "thumb": "images/zeitz-mocaa/thumbs/6.webp",
+    "src": "images/zeitz-mocaa/8.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/8.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Context",
-    "caption": "Context · Zeitz Museum of Contemporary Art Africa ] (Zeitz MOCAA), Cape Town, South Africa",
-    "credit": "Erika R. Brenner",
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Michael Rowe",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Zeitz_Museum_of_Contemporary_Art_Kapstadt.jpg",
-    "file": "File:Zeitz Museum of Contemporary Art Kapstadt.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Cross_section_of_the_storage_shafts_insdie_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
+    "file": "File:Cross section of the storage shafts insdie Zeitz MOCAA - Museum of Contermporary Art Africa.jpg"
    },
    {
     "src": "images/zeitz-mocaa/7.webp",
@@ -10200,22 +9968,20 @@ window.BUILDINGS = [
     "file": "File:Cosmic Letter-Zeitz.jpg"
    },
    {
-    "src": "images/zeitz-mocaa/8.webp",
-    "thumb": "images/zeitz-mocaa/thumbs/8.webp",
+    "src": "images/zeitz-mocaa/6.webp",
+    "thumb": "images/zeitz-mocaa/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Michael Rowe",
+    "kind": "Context",
+    "caption": "Context · Zeitz Museum of Contemporary Art Africa ] (Zeitz MOCAA), Cape Town, South Africa",
+    "credit": "Erika R. Brenner",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cross_section_of_the_storage_shafts_insdie_Zeitz_MOCAA_-_Museum_of_Contermporary_Art_Africa.jpg",
-    "file": "File:Cross section of the storage shafts insdie Zeitz MOCAA - Museum of Contermporary Art Africa.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Zeitz_Museum_of_Contemporary_Art_Kapstadt.jpg",
+    "file": "File:Zeitz Museum of Contemporary Art Kapstadt.jpg"
    }
   ],
   "commons": "Category:Zeitz Museum of Contemporary Art Africa",
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -10262,18 +10028,6 @@ window.BUILDINGS = [
     "file": "File:Pantheon portico and dome, Rome.jpg"
    },
    {
-    "src": "images/pantheon/2.webp",
-    "thumb": "images/pantheon/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Pantheon This picture was uploaded via web-app \"Wiki Loves Monuments Italia\" ",
-    "credit": "C messier",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%CE%A0%CE%AC%CE%BD%CE%B8%CE%B5%CE%BF%CE%BD_%CE%A1%CF%8E%CE%BC%CE%B7%CF%82_2025-10-12_1987.jpg",
-    "file": "File:Πάνθεον Ρώμης 2025-10-12 1987.jpg"
-   },
-   {
     "src": "images/pantheon/3.webp",
     "thumb": "images/pantheon/thumbs/3.webp",
     "w": 1280,
@@ -10310,6 +10064,18 @@ window.BUILDINGS = [
     "file": "File:Roma - Pantheon - in 2024 v04.jpg"
    },
    {
+    "src": "images/pantheon/7.webp",
+    "thumb": "images/pantheon/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Pantheon This picture was uploaded via web-app \"Wiki Loves Monuments Italia\" ",
+    "credit": "C messier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%A0%CE%AC%CE%BD%CE%B8%CE%B5%CE%BF%CE%BD_%CE%A1%CF%8E%CE%BC%CE%B7%CF%82_2025-10-14_0387.jpg",
+    "file": "File:Πάνθεον Ρώμης 2025-10-14 0387.jpg"
+   },
+   {
     "src": "images/pantheon/6.webp",
     "thumb": "images/pantheon/thumbs/6.webp",
     "w": 1280,
@@ -10322,16 +10088,16 @@ window.BUILDINGS = [
     "file": "File:Πάνθεον Ρώμης 2025-10-14 0377.jpg"
    },
    {
-    "src": "images/pantheon/7.webp",
-    "thumb": "images/pantheon/thumbs/7.webp",
+    "src": "images/pantheon/2.webp",
+    "thumb": "images/pantheon/thumbs/2.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Pantheon This picture was uploaded via web-app \"Wiki Loves Monuments Italia\" ",
+    "kind": "Context",
+    "caption": "Context · Pantheon This picture was uploaded via web-app \"Wiki Loves Monuments Italia\" ",
     "credit": "C messier",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%CE%A0%CE%AC%CE%BD%CE%B8%CE%B5%CE%BF%CE%BD_%CE%A1%CF%8E%CE%BC%CE%B7%CF%82_2025-10-14_0387.jpg",
-    "file": "File:Πάνθεον Ρώμης 2025-10-14 0387.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%A0%CE%AC%CE%BD%CE%B8%CE%B5%CE%BF%CE%BD_%CE%A1%CF%8E%CE%BC%CE%B7%CF%82_2025-10-12_1987.jpg",
+    "file": "File:Πάνθεον Ρώμης 2025-10-12 1987.jpg"
    },
    {
     "src": "images/pantheon/8.webp",
@@ -10396,6 +10162,30 @@ window.BUILDINGS = [
     "file": "File:Katsura Rikyu (3263863817).jpg"
    },
    {
+    "src": "images/katsura-imperial-villa/5.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/5.webp",
+    "w": 1255,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "佐藤辰三",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Manji_tei.png",
+    "file": "File:Manji tei.png"
+   },
+   {
+    "src": "images/katsura-imperial-villa/4.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/4.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Detail",
+    "caption": "Detail · Photograph of wooden structure in pond outside Shōkintei in Katsura Imperial Villa, Japan",
+    "credit": "Carlquist, Sherwin John, 1930-2021",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(Wooden_structure_in_pond_outside_Sh%C5%8Dkintei_in_Katsura_Imperial_Villa,_Japan)_-_DPLA_-_4dae02e5e8d1dd21841f166bee7d9aec.jpg",
+    "file": "File:(Wooden structure in pond outside Shōkintei in Katsura Imperial Villa, Japan) - DPLA - 4dae02e5e8d1dd21841f166bee7d9aec.jpg"
+   },
+   {
     "src": "images/katsura-imperial-villa/2.webp",
     "thumb": "images/katsura-imperial-villa/thumbs/2.webp",
     "w": 1280,
@@ -10420,28 +10210,16 @@ window.BUILDINGS = [
     "file": "File:Katsura Rikyu (3263860073).jpg"
    },
    {
-    "src": "images/katsura-imperial-villa/4.webp",
-    "thumb": "images/katsura-imperial-villa/thumbs/4.webp",
+    "src": "images/katsura-imperial-villa/7.webp",
+    "thumb": "images/katsura-imperial-villa/thumbs/7.webp",
     "w": 1280,
-    "h": 1280,
-    "kind": "Detail",
-    "caption": "Detail · Photograph of wooden structure in pond outside Shōkintei in Katsura Imperial Villa, Japan",
-    "credit": "Carlquist, Sherwin John, 1930-2021",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:(Wooden_structure_in_pond_outside_Sh%C5%8Dkintei_in_Katsura_Imperial_Villa,_Japan)_-_DPLA_-_4dae02e5e8d1dd21841f166bee7d9aec.jpg",
-    "file": "File:(Wooden structure in pond outside Shōkintei in Katsura Imperial Villa, Japan) - DPLA - 4dae02e5e8d1dd21841f166bee7d9aec.jpg"
-   },
-   {
-    "src": "images/katsura-imperial-villa/5.webp",
-    "thumb": "images/katsura-imperial-villa/thumbs/5.webp",
-    "w": 1255,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "佐藤辰三",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Manji_tei.png",
-    "file": "File:Manji tei.png"
+    "h": 969,
+    "kind": "Plan",
+    "caption": "Plan · Katsura, plan de l'ermitage",
+    "credit": "Jchancerel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KatsuraPlanShoin.png",
+    "file": "File:KatsuraPlanShoin.png"
    },
    {
     "src": "images/katsura-imperial-villa/6.webp",
@@ -10454,18 +10232,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Katsura-Plan.jpg",
     "file": "File:Katsura-Plan.jpg"
-   },
-   {
-    "src": "images/katsura-imperial-villa/7.webp",
-    "thumb": "images/katsura-imperial-villa/thumbs/7.webp",
-    "w": 1280,
-    "h": 969,
-    "kind": "Plan",
-    "caption": "Plan · Katsura, plan de l'ermitage",
-    "credit": "Jchancerel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:KatsuraPlanShoin.png",
-    "file": "File:KatsuraPlanShoin.png"
    }
   ],
   "commons": "Category:Katsura Imperial Villa",
@@ -10517,18 +10283,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._22.jpg",
     "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 22.jpg"
-   },
-   {
-    "src": "images/alhambra/2.webp",
-    "thumb": "images/alhambra/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
-    "credit": "Wikiolo",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
-    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
    },
    {
     "src": "images/alhambra/3.webp",
@@ -10589,6 +10343,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._07.jpg",
     "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 07.jpg"
+   },
+   {
+    "src": "images/alhambra/2.webp",
+    "thumb": "images/alhambra/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
+    "credit": "Wikiolo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
+    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
    }
   ],
   "commons": "Category:Alhambra",
@@ -10675,6 +10441,18 @@ window.BUILDINGS = [
     "file": "File:Abhaneri-Chand Baori-02-Galerie-2018-gje.jpg"
    },
    {
+    "src": "images/chand-baori/8.webp",
+    "thumb": "images/chand-baori/thumbs/8.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Shikhers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Isometric_view_of_Chand_Baori.jpg",
+    "file": "File:Isometric view of Chand Baori.jpg"
+   },
+   {
     "src": "images/chand-baori/5.webp",
     "thumb": "images/chand-baori/thumbs/5.webp",
     "w": 1280,
@@ -10709,24 +10487,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chand_baori_stepwell.jpg",
     "file": "File:Chand baori stepwell.jpg"
-   },
-   {
-    "src": "images/chand-baori/8.webp",
-    "thumb": "images/chand-baori/thumbs/8.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Shikhers",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Isometric_view_of_Chand_Baori.jpg",
-    "file": "File:Isometric view of Chand Baori.jpg"
    }
   ],
   "commons": "Category:Chand Baori",
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -10833,18 +10597,6 @@ window.BUILDINGS = [
     "file": "File:Vicenza - Villa Almerico Capra (La Rotonda) - interno.jpg"
    },
    {
-    "src": "images/villa-la-rotonda/7.webp",
-    "thumb": "images/villa-la-rotonda/thumbs/7.webp",
-    "w": 923,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Palladio",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Pianta,_prospetto_e_spaccato_di_villa_Almerico_Capra_detta_La_Rotonda,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_66_28_027.jpg",
-    "file": "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg"
-   },
-   {
     "src": "images/villa-la-rotonda/8.webp",
     "thumb": "images/villa-la-rotonda/thumbs/8.webp",
     "w": 1280,
@@ -10855,6 +10607,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_(23547400).jpg",
     "file": "File:Palladio Rotonda (23547400).jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/7.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/7.webp",
+    "w": 923,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Palladio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pianta,_prospetto_e_spaccato_di_villa_Almerico_Capra_detta_La_Rotonda,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_66_28_027.jpg",
+    "file": "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg"
    }
   ],
   "commons": "Category:Villa Capra \"La Rotonda\"",
@@ -10968,17 +10732,15 @@ window.BUILDINGS = [
     "thumb": "images/bibliotheca-alexandrina/thumbs/6.webp",
     "w": 1024,
     "h": 768,
-    "kind": "Section",
-    "caption": "Section · Law Section in Bibliotheca Alexandrina",
+    "kind": "Interior",
+    "caption": "Interior · Law Section in Bibliotheca Alexandrina",
     "credit": "Avocato         (talk)",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:BA_Law_Section.jpg",
     "file": "File:BA Law Section.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -11136,6 +10898,18 @@ window.BUILDINGS = [
     "file": "File:2015-03-04 Top of Commerzbank Tower Frankfurt Main Hesse Germany.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg/1280px-Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/commerzbank-tower/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Frankfurt on the Main: Commerzbank Tower as seen from the Eiserner Steg (Iron Bridge)",
+    "credit": "Mylius",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg",
+    "file": "File:Frankfurt Am Main-Commerzbank Tower-Ansicht vom Eisernen Steg.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Commerzbank_Wolkenvlies_Thomas_Emde.jpg/1280px-Commerzbank_Wolkenvlies_Thomas_Emde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/commerzbank-tower/thumbs/2.webp",
     "w": 934,
@@ -11182,23 +10956,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Commerzbank_Bronzeskulptur_Zeitungsleser_im_Vorstandsbereich.jpg",
     "file": "File:Commerzbank Bronzeskulptur Zeitungsleser im Vorstandsbereich.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg/1280px-Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/commerzbank-tower/thumbs/6.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation · Frankfurt on the Main: Commerzbank Tower as seen from the Eiserner Steg (Iron Bridge)",
-    "credit": "Mylius",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Frankfurt_Am_Main-Commerzbank_Tower-Ansicht_vom_Eisernen_Steg.jpg",
-    "file": "File:Frankfurt Am Main-Commerzbank Tower-Ansicht vom Eisernen Steg.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -11299,23 +11059,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Ausschlie%C3%9Flich_Fundst%C3%BCcke_und_Objekte_von_der_Akropolis_von_Athen%22_werden_hier_ausgestellt._03.jpg",
     "file": "File:\"Ausschließlich Fundstücke und Objekte von der Akropolis von Athen\" werden hier ausgestellt. 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/20211116_athenes256.jpg/1280px-20211116_athenes256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/acropolis-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Vue du Musée de l'Acropole à Athènes",
-    "credit": "Jean Housen",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20211116_athenes256.jpg",
-    "file": "File:20211116 athenes256.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -11804,23 +11550,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Metz_Mus%C3%A9e_G_Pompidou_int%C3%A9rieur_Poutres_de_bois.jpg",
     "file": "File:Metz Musée G Pompidou intérieur Poutres de bois.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Monument_%C3%A0_la_Troisi%C3%A8me_internationale_%28centre_Pompidou_Metz%29_%284961047799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/centre-pompidou-metz/thumbs/6.webp",
-    "w": 720,
-    "h": 1080,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "dalbera  from Paris, France",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Monument_%C3%A0_la_Troisi%C3%A8me_internationale_(centre_Pompidou_Metz)_(4961047799).jpg",
-    "file": "File:Monument à la Troisième internationale (centre Pompidou Metz) (4961047799).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -12323,6 +12055,18 @@ window.BUILDINGS = [
     "file": "File:Edinburgh , Scottish Parliament Building - geograph.org.uk - 4960201.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Scottish_parliament_elevation.JPG/1280px-Scottish_parliament_elevation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scottish-parliament-building/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Part of the Scottish Parliament building in Edinburgh",
+    "credit": "Russ McGinn",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_parliament_elevation.JPG",
+    "file": "File:Scottish parliament elevation.JPG"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Scottish_Parliament_V_%284228184519%29.jpg/1280px-Scottish_Parliament_V_%284228184519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/scottish-parliament-building/thumbs/5.webp",
     "w": 1050,
@@ -12345,23 +12089,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_site_plan.jpg",
     "file": "File:Scottish Parliament site plan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Scottish_parliament_elevation.JPG/1280px-Scottish_parliament_elevation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scottish-parliament-building/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Part of the Scottish Parliament building in Edinburgh",
-    "credit": "Russ McGinn",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Scottish_parliament_elevation.JPG",
-    "file": "File:Scottish parliament elevation.JPG"
    }
   ],
   "has": [
-   "Plan",
-   "Elevation"
+   "Plan"
   ],
   "gv": 3
  },
@@ -12463,36 +12194,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:BeineckeInterior.jpg",
     "file": "File:BeineckeInterior.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Oil_Pastel_drawing_and_watercolor_painting_of_Ericka_Huggins_on_the_witness_stand.jpg/1280px-Oil_Pastel_drawing_and_watercolor_painting_of_Ericka_Huggins_on_the_witness_stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/beinecke-rare-book-manuscript-library/thumbs/6.webp",
-    "w": 1240,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Beinecke Library",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Oil_Pastel_drawing_and_watercolor_painting_of_Ericka_Huggins_on_the_witness_stand.jpg",
-    "file": "File:Oil Pastel drawing and watercolor painting of Ericka Huggins on the witness stand.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Beinecke_MS_229%2C_fol._272v.jpg/1280px-Beinecke_MS_229%2C_fol._272v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/beinecke-rare-book-manuscript-library/thumbs/7.webp",
-    "w": 1164,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Anonymous (France, 1290s)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Beinecke_MS_229,_fol._272v.jpg",
-    "file": "File:Beinecke MS 229, fol. 272v.jpg"
    }
   ],
-  "has": [
-   "Sketch",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -12593,23 +12297,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:HK_Central_Piers_Man_Kwong_Street_view_Jardine_House_AIA_Tower_Nov-2012.JPG",
     "file": "File:HK Central Piers Man Kwong Street view Jardine House AIA Tower Nov-2012.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HK_TST_%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D_Show_Flat_Sheung_Wan_%E5%B0%9A%E8%B3%A2%E5%B1%85_CentrePoint_Feb-2011.JPG/1280px-HK_TST_%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D_Show_Flat_Sheung_Wan_%E5%B0%9A%E8%B3%A2%E5%B1%85_CentrePoint_Feb-2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bank-of-china-tower/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Lam Kan Ming",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:HK_TST_%E7%A4%BA%E7%AF%84%E5%96%AE%E4%BD%8D_Show_Flat_Sheung_Wan_%E5%B0%9A%E8%B3%A2%E5%B1%85_CentrePoint_Feb-2011.JPG",
-    "file": "File:HK TST 示範單位 Show Flat Sheung Wan 尚賢居 CentrePoint Feb-2011.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -12975,6 +12665,18 @@ window.BUILDINGS = [
     "file": "File:Congresso II.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Pal%C3%A1cio_Congresso_Nacional.jpg/1280px-Pal%C3%A1cio_Congresso_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-congress-of-brazil/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Foto do palácio do congresso nacional tirada em 20/01/2024",
+    "credit": "Felipe F Castelo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Congresso_Nacional.jpg",
+    "file": "File:Palácio Congresso Nacional.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Chuva_%2815423113533%29.jpg/1280px-Chuva_%2815423113533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-congress-of-brazil/thumbs/4.webp",
     "w": 1280,
@@ -12999,18 +12701,6 @@ window.BUILDINGS = [
     "file": "File:Chuva (15855493270).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Pal%C3%A1cio_Congresso_Nacional.jpg/1280px-Pal%C3%A1cio_Congresso_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-congress-of-brazil/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Foto do palácio do congresso nacional tirada em 20/01/2024",
-    "credit": "Felipe F Castelo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Congresso_Nacional.jpg",
-    "file": "File:Palácio Congresso Nacional.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Maquete_do_Congresso_Nacional_-_BR_RJANRIO_PH_0_FOT_00745_0008%2C_Acervo_do_Arquivo_Nacional.jpg/1280px-Maquete_do_Congresso_Nacional_-_BR_RJANRIO_PH_0_FOT_00745_0008%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-congress-of-brazil/thumbs/7.webp",
     "w": 1280,
@@ -13024,7 +12714,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Model"
   ],
   "gv": 3
@@ -13442,17 +13131,15 @@ window.BUILDINGS = [
     "thumb": "images/fondation-louis-vuitton/thumbs/6.webp",
     "w": 1050,
     "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Steel section at the Fondation Louis Vuitton in Paris",
+    "kind": "Detail",
+    "caption": "Detail · Steel section at the Fondation Louis Vuitton in Paris",
     "credit": "Bruno Sudret",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Steel_section_Fondation_Louis_Vuitton.jpg",
     "file": "File:Steel section Fondation Louis Vuitton.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -14404,36 +14091,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Staircase_at_the_Milit%C3%A4rhistorisches_Museum_der_Bundeswehr.jpg",
     "file": "File:Staircase at the Militärhistorisches Museum der Bundeswehr.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Flucht-und_Rettungsplan_MHM_DD.jpg/1280px-Flucht-und_Rettungsplan_MHM_DD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/military-history-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · Flucht-und Rettungsplan im Militärhistorischen Museum Dresden",
-    "credit": "Diether",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flucht-und_Rettungsplan_MHM_DD.jpg",
-    "file": "File:Flucht-und Rettungsplan MHM DD.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Modell_U-Boot-Klasse_201_im_Milit%C3%A4rhistorischen_Museum_Dresden.png/1280px-Modell_U-Boot-Klasse_201_im_Milit%C3%A4rhistorischen_Museum_Dresden.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/military-history-museum/thumbs/7.webp",
-    "w": 1280,
-    "h": 475,
-    "kind": "Model",
-    "caption": "Model · Model of the german submarine class 201 in the Bundeswehr Military History Museum in Dresden",
-    "credit": "Marco Kuntzsch",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Modell_U-Boot-Klasse_201_im_Milit%C3%A4rhistorischen_Museum_Dresden.png",
-    "file": "File:Modell U-Boot-Klasse 201 im Militärhistorischen Museum Dresden.png"
    }
   ],
-  "has": [
-   "Plan",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -14740,23 +14400,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Le_Havre_Eglise_St-Joseph_12.jpg",
     "file": "File:Le Havre Eglise St-Joseph 12.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/L%27exposition_Auguste_Perret_%28Conseil_%C3%A9conomique%2C_social_et_environnemental%2C_Paris%29_%2811872763434%29.jpg/1280px-L%27exposition_Auguste_Perret_%28Conseil_%C3%A9conomique%2C_social_et_environnemental%2C_Paris%29_%2811872763434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-joseph-s-church/thumbs/6.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Jean-Pierre Dalbéra  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:L%27exposition_Auguste_Perret_(Conseil_%C3%A9conomique,_social_et_environnemental,_Paris)_(11872763434).jpg",
-    "file": "File:L'exposition Auguste Perret (Conseil économique, social et environnemental, Paris) (11872763434).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -14960,23 +14606,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Arr%C3%AAt_Navette_Fluviale_Parc_Villette_-_Paris_XIX_(FR75)_-_2024-02-04_-_1.jpg",
     "file": "File:Arrêt Navette Fluviale Parc Villette - Paris XIX (FR75) - 2024-02-04 - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Plaque_Avenue_Charollais_Pavillon_Maquettes_-_Paris_XIX_%28FR75%29_-_2021-07-24_-_2.jpg/1280px-Plaque_Avenue_Charollais_Pavillon_Maquettes_-_Paris_XIX_%28FR75%29_-_2021-07-24_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/parc-de-la-villette/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Plaque de l'avenue du Charollais sur le pavillon des Maquettes, Paris",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Plaque_Avenue_Charollais_Pavillon_Maquettes_-_Paris_XIX_(FR75)_-_2021-07-24_-_2.jpg",
-    "file": "File:Plaque Avenue Charollais Pavillon Maquettes - Paris XIX (FR75) - 2021-07-24 - 2.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -15077,23 +14709,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:YaleCenterForBritishArtLobbyFromAbove.jpg",
     "file": "File:YaleCenterForBritishArtLobbyFromAbove.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ariadne_-_Google_Art_Project.jpg/1280px-Ariadne_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yale-center-for-british-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 934,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Unknown artist  – Artist",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ariadne_-_Google_Art_Project.jpg",
-    "file": "File:Ariadne - Google Art Project.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -15194,23 +14812,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Doha,_museo_nazionale_del_qatar,_interno,_sala_naturalistica,_orici_d%27arabia_01.jpg",
     "file": "File:Doha, museo nazionale del qatar, interno, sala naturalistica, orici d'arabia 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Senecio_glaucus_botanical_model_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg/1280px-Senecio_glaucus_botanical_model_by_Sebastian_Brandt_%28Reco-Brandt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-qatar/thumbs/6.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Model",
-    "caption": "Model · Botanical single model of Senecio glaucus by Sebastian Brandt (Reco-Brandt)",
-    "credit": "TB0815",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Senecio_glaucus_botanical_model_by_Sebastian_Brandt_(Reco-Brandt).jpg",
-    "file": "File:Senecio glaucus botanical model by Sebastian Brandt (Reco-Brandt).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -15580,8 +15184,8 @@ window.BUILDINGS = [
     "thumb": "images/secretariat-building/thumbs/4.webp",
     "w": 521,
     "h": 792,
-    "kind": "Elevation",
-    "caption": "Elevation",
+    "kind": "Exterior",
+    "caption": "Exterior",
     "credit": "Nicholas.iyadurai",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Secretariat_elevation.jpg",
@@ -15601,7 +15205,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation",
    "Model"
   ],
   "gv": 3
@@ -15879,6 +15482,18 @@ window.BUILDINGS = [
     "file": "File:Finlandia Wiki.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg/1280px-N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/finlandia-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 939,
+    "kind": "Exterior",
+    "caption": "Exterior · Näkymä Kansallismuseon tornista Töölönlahdelle päin",
+    "credit": "Sonja Siltala",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg",
+    "file": "File:Näkymä Kansallismuseon tornista Töölönlahdelle päin - D718a - hkm.HKMS000005-0000126d.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Finlandiahuset_November_2025_01.jpg/1280px-Finlandiahuset_November_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/finlandia-hall/thumbs/1.webp",
     "w": 1280,
@@ -15913,23 +15528,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Finlandia_Hall,_Helsinki,_Finland_(2025-01)_%E2%80%93_02.jpg",
     "file": "File:Finlandia Hall, Helsinki, Finland (2025-01) – 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg/1280px-N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/finlandia-hall/thumbs/4.webp",
-    "w": 1280,
-    "h": 939,
-    "kind": "Model",
-    "caption": "Model · Näkymä Kansallismuseon tornista Töölönlahdelle päin",
-    "credit": "Sonja Siltala",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A4kym%C3%A4_Kansallismuseon_tornista_T%C3%B6%C3%B6l%C3%B6nlahdelle_p%C3%A4in_-_D718a_-_hkm.HKMS000005-0000126d.jpg",
-    "file": "File:Näkymä Kansallismuseon tornista Töölönlahdelle päin - D718a - hkm.HKMS000005-0000126d.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -16658,6 +16259,18 @@ window.BUILDINGS = [
     "file": "File:Assembly Building Chandigarh.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Highcourt_-_front_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/capitol-complex/thumbs/6.webp",
+    "w": 1177,
+    "h": 726,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nicholas.iyadurai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Highcourt_-_front_elevation.jpg",
+    "file": "File:Chandigarh Capitol Complex - Le Corbusier - Highcourt - front elevation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/The_Shadow_Tower%2C_Capitol_Complex%2C_Chandigarh.jpg/1280px-The_Shadow_Tower%2C_Capitol_Complex%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/capitol-complex/thumbs/4.webp",
     "w": 1280,
@@ -16682,18 +16295,6 @@ window.BUILDINGS = [
     "file": "File:Assembly Hall after Rain III (3252762594).jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Highcourt_-_front_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/capitol-complex/thumbs/6.webp",
-    "w": 1177,
-    "h": 726,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Nicholas.iyadurai",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chandigarh_Capitol_Complex_-_Le_Corbusier_-_Highcourt_-_front_elevation.jpg",
-    "file": "File:Chandigarh Capitol Complex - Le Corbusier - Highcourt - front elevation.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%E6%98%8C%E8%BF%AA%E5%8A%A0%E7%88%BE%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%E6%A8%A1%E5%9E%8B.jpg/1280px-%E6%98%8C%E8%BF%AA%E5%8A%A0%E7%88%BE%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2%E6%A8%A1%E5%9E%8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/capitol-complex/thumbs/7.webp",
     "w": 1280,
@@ -16707,7 +16308,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation",
    "Model"
   ],
   "gv": 3
@@ -18606,6 +18206,30 @@ window.BUILDINGS = [
     "file": "File:Barcelona Sagrada Familia BW 2019-10-07 14-17-05.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sagrada_Familia_Stained_glass_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/sagrada-familia/thumbs/7.webp",
+    "w": 812,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Section of Stained Glass by Vila-Grau",
+    "credit": "Better Than Bacon",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia_Stained_glass_section.jpg",
+    "file": "File:Sagrada Familia Stained glass section.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sagrada-familia/thumbs/9.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - Side View",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg",
+    "file": "File:Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - Side View.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sagrada_Familia_March_2015-14a.jpg/1280px-Sagrada_Familia_March_2015-14a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sagrada-familia/thumbs/5.webp",
     "w": 934,
@@ -18628,49 +18252,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia,_Barcelona_(P1170702-RR).jpg",
     "file": "File:Sagrada Familia, Barcelona (P1170702-RR).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sagrada_Familia_Stained_glass_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/sagrada-familia/thumbs/7.webp",
-    "w": 812,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Section of Stained Glass by Vila-Grau",
-    "credit": "Better Than Bacon",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia_Stained_glass_section.jpg",
-    "file": "File:Sagrada Familia Stained glass section.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Sketch_of_the_Passion_Fa%C3%A7ade.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Sketch_of_the_Passion_Fa%C3%A7ade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sagrada-familia/thumbs/8.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Sketch",
-    "caption": "Sketch · Barcelona - Crypt of La Sagrada Família - Sketch of the Passion Façade",
-    "credit": "Txllxt TxllxT",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Sketch_of_the_Passion_Fa%C3%A7ade.jpg",
-    "file": "File:Barcelona - Crypt of La Sagrada Família - Sketch of the Passion Façade.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sagrada-familia/thumbs/9.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - Side View",
-    "credit": "Txllxt TxllxT",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_Side_View.jpg",
-    "file": "File:Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - Side View.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Section",
-   "Sketch",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -19124,23 +18709,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Danish_Maritime_Museum_interior,_2017-08-02.jpg",
     "file": "File:Danish Maritime Museum interior, 2017-08-02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Model_of_a_fluyt%2C_MS%2C_2017-08-02.jpg/1280px-Model_of_a_fluyt%2C_MS%2C_2017-08-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/danish-maritime-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Model_of_a fluyt label QS:Len,\"Model_of_a fluyt\" label QS:Lhu,\"Felute modellje a 16-17",
-    "credit": "Szilas",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_a_fluyt,_MS,_2017-08-02.jpg",
-    "file": "File:Model of a fluyt, MS, 2017-08-02.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -19344,23 +18915,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Main_entrance_and_campus,_Ohio_State_University,_Columbus,_Ohio._-_DPLA_-_ca39deec26ce20a2195d3c648ca8ee61_(page_2).jpg",
     "file": "File:Main entrance and campus, Ohio State University, Columbus, Ohio. - DPLA - ca39deec26ce20a2195d3c648ca8ee61 (page 2).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Armory_elevation_drawings%2C_The_Ohio_State_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/wexner-center-for-the-arts/thumbs/6.webp",
-    "w": 1200,
-    "h": 1034,
-    "kind": "Elevation",
-    "caption": "Elevation · Elevation drawings of the old Armory (now demolished) at Ohio State University ",
-    "credit": "Published by Ohio State University",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Armory_elevation_drawings,_The_Ohio_State_University.jpg",
-    "file": "File:Armory elevation drawings, The Ohio State University.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -19667,23 +19224,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:MNAR,_M%C3%A9rida,_2016_(08).jpg",
     "file": "File:MNAR, Mérida, 2016 (08).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/EmeritaAugusta.JPG/1280px-EmeritaAugusta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-roman-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 718,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Elemaki",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:EmeritaAugusta.JPG",
-    "file": "File:EmeritaAugusta.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -19784,23 +19327,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es,_interior_of_hall.jpg",
     "file": "File:Théâtre des Champs-Élysées, interior of hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Maquette_de_l%27ossature_du_th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9e_CNAM-P1090095.jpg/1280px-Maquette_de_l%27ossature_du_th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9e_CNAM-P1090095.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/theatre-des-champs-elysees/thumbs/6.webp",
-    "w": 1280,
-    "h": 1063,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Als33120",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquette_de_l%27ossature_du_th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9e_CNAM-P1090095.jpg",
-    "file": "File:Maquette de l'ossature du théâtre des Champs-Élysée CNAM-P1090095.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -20291,18 +19820,6 @@ window.BUILDINGS = [
     "file": "File:2019-05-05 Reichstag 03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Gdansk_Shipyard_wall_section_at_the_Reichstag_Building%2C_Berlin.jpg/1280px-Gdansk_Shipyard_wall_section_at_the_Reichstag_Building%2C_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/reichstag/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Jjjjjjjjcross",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gdansk_Shipyard_wall_section_at_the_Reichstag_Building,_Berlin.jpg",
-    "file": "File:Gdansk Shipyard wall section at the Reichstag Building, Berlin.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Modell_Reichstag_in_Berlin.jpg/1280px-Modell_Reichstag_in_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/reichstag/thumbs/7.webp",
     "w": 1050,
@@ -20316,7 +19833,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Section",
    "Model"
   ],
   "gv": 3
@@ -20860,23 +20376,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Drinking_fountain,_Stockholm_Public_Library.jpg",
     "file": "File:Drinking fountain, Stockholm Public Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stadsbiblioteket_Asplund_1931.jpg/1280px-Stadsbiblioteket_Asplund_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stockholm-public-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Drawing",
-    "caption": "Drawing · Gunnar Asplunds perspektivskiss över Stockholms stadsbibliotek och Observatorielunden",
-    "credit": "Gunnar Asplund (död 20 oktober 1940)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadsbiblioteket_Asplund_1931.jpg",
-    "file": "File:Stadsbiblioteket Asplund 1931.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -20977,23 +20479,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Mercedes_Benz_Museum_Stuttgart_2021_(52509511917).jpg",
     "file": "File:Mercedes Benz Museum Stuttgart 2021 (52509511917).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/2014_Antarctic_Research_Vehicle_design_model_by_Matthias_Gottwald%2C_Mercedes_Museum_%2C_Stuttgart%2C_Germany_%28_Ank_Kumar_%2C_Infosys_Limited_%29_02.jpg/1280px-2014_Antarctic_Research_Vehicle_design_model_by_Matthias_Gottwald%2C_Mercedes_Museum_%2C_Stuttgart%2C_Germany_%28_Ank_Kumar_%2C_Infosys_Limited_%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mercedes-benz-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Ank Kumar",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2014_Antarctic_Research_Vehicle_design_model_by_Matthias_Gottwald,_Mercedes_Museum_,_Stuttgart,_Germany_(_Ank_Kumar_,_Infosys_Limited_)_02.jpg",
-    "file": "File:2014 Antarctic Research Vehicle design model by Matthias Gottwald, Mercedes Museum , Stuttgart, Germany ( Ank Kumar , Infosys Limited ) 02.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -21072,6 +20560,18 @@ window.BUILDINGS = [
     "file": "File:Mountain Dwellings 20100810 0148F (8369570421).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg/1280px-VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mountain-dwellings/thumbs/6.webp",
+    "w": 1280,
+    "h": 847,
+    "kind": "Exterior",
+    "caption": "Exterior · Ansicht von Südost",
+    "credit": "Andreas Wolf 01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg",
+    "file": "File:VM Bjerget Ansicht von Südost.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/K%C3%B8benhavn_-_Bjerget_%2830911241311%29.jpg/1280px-K%C3%B8benhavn_-_Bjerget_%2830911241311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mountain-dwellings/thumbs/4.webp",
     "w": 1280,
@@ -21094,23 +20594,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:K%C3%B8benhavn_-_Bjerget_(25363718539).jpg",
     "file": "File:København - Bjerget (25363718539).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg/1280px-VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mountain-dwellings/thumbs/6.webp",
-    "w": 1280,
-    "h": 847,
-    "kind": "Elevation",
-    "caption": "Elevation · Ansicht von Südost",
-    "credit": "Andreas Wolf 01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:VM_Bjerget_Ansicht_von_S%C3%BCdost.jpg",
-    "file": "File:VM Bjerget Ansicht von Südost.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -21381,36 +20867,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Candelabra,_copper_alloy_with_mercury_gilding,_Pierre-Phillipe_Thomire,_Paris,_c._1820_-_Nelson-Atkins_Museum_of_Art_-_DSC08943.JPG",
     "file": "File:Candelabra, copper alloy with mercury gilding, Pierre-Phillipe Thomire, Paris, c. 1820 - Nelson-Atkins Museum of Art - DSC08943.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Master_Muhammad_Siyah_Qalam_-_Birds_and_Beasts_in_a_Flowery_Landscape_-_Google_Art_Project.jpg/1280px-Master_Muhammad_Siyah_Qalam_-_Birds_and_Beasts_in_a_Flowery_Landscape_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bloch-building-nelson-atkins-museum-of-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 871,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Master Muhammad Siyah Qalam 1469-1525   Details on Google Art Project",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Master_Muhammad_Siyah_Qalam_-_Birds_and_Beasts_in_a_Flowery_Landscape_-_Google_Art_Project.jpg",
-    "file": "File:Master Muhammad Siyah Qalam - Birds and Beasts in a Flowery Landscape - Google Art Project.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Benjamin_West_-_The_Three_Sisters_-_Google_Art_Project.jpg/1280px-Benjamin_West_-_The_Three_Sisters_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bloch-building-nelson-atkins-museum-of-art/thumbs/7.webp",
-    "w": 1106,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Benjamin West",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Benjamin_West_-_The_Three_Sisters_-_Google_Art_Project.jpg",
-    "file": "File:Benjamin West - The Three Sisters - Google Art Project.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -21776,6 +21235,18 @@ window.BUILDINGS = [
     "file": "File:Casa Batlló 01.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Casa_Batllo_Front_at_Night_2_%285839879262%29.jpg/1280px-Casa_Batllo_Front_at_Night_2_%285839879262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-batllo/thumbs/8.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Batllo Front at Night 2",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Front_at_Night_2_(5839879262).jpg",
+    "file": "File:Casa Batllo Front at Night 2 (5839879262).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_Batl%C3%B3_Barcelona_May_2026-7.jpg/1280px-Casa_Batl%C3%B3_Barcelona_May_2026-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casa-batllo/thumbs/2.webp",
     "w": 865,
@@ -21846,24 +21317,11 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_2013_Barcelona_-_13.JPG",
     "file": "File:Casa Batlló 2013 Barcelona - 13.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Casa_Batllo_Front_at_Night_2_%285839879262%29.jpg/1280px-Casa_Batllo_Front_at_Night_2_%285839879262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-batllo/thumbs/8.webp",
-    "w": 1280,
-    "h": 861,
-    "kind": "Drawing",
-    "caption": "Drawing · Casa Batllo Front at Night 2",
-    "credit": "Tony Hisgett  from Birmingham, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Front_at_Night_2_(5839879262).jpg",
-    "file": "File:Casa Batllo Front at Night 2 (5839879262).jpg"
    }
   ],
   "has": [
    "Section",
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -21971,29 +21429,16 @@ window.BUILDINGS = [
     "thumb": "images/kirche-am-steinhof/thumbs/6.webp",
     "w": 1010,
     "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Die Kirche der niederösterreichischen Landes-Heil- und -Pflegeanstalten Bd",
+    "kind": "Elevation",
+    "caption": "Elevation · Die Kirche der niederösterreichischen Landes-Heil- und -Pflegeanstalten Bd",
     "credit": "Otto Wagner, Architect, Scan and postprocessing by  Hubertl",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:07_Otto_Wagner-Kirche_-_Baumgartnerh%C3%B6he_-_Wagner_Band_5._6._und_7._Heft_-_Hauptfassade,_Heliogravur.jpg",
     "file": "File:07 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Hauptfassade, Heliogravur.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/14_Otto_Wagner-Kirche_-_Baumgartnerh%C3%B6he_-_Wagner_Band_5._6._und_7._Heft_-_Das_Modell%2C_Heliogravure.jpg/1280px-14_Otto_Wagner-Kirche_-_Baumgartnerh%C3%B6he_-_Wagner_Band_5._6._und_7._Heft_-_Das_Modell%2C_Heliogravure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kirche-am-steinhof/thumbs/7.webp",
-    "w": 1074,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Die Kirche der niederösterreichischen Landes-Heil- und -Pflegeanstalten Bd",
-    "credit": "Otto Wagner, Architect, Scan and postprocessing by  Hubertl",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:14_Otto_Wagner-Kirche_-_Baumgartnerh%C3%B6he_-_Wagner_Band_5._6._und_7._Heft_-_Das_Modell,_Heliogravure.jpg",
-    "file": "File:14 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Das Modell, Heliogravure.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Elevation"
   ],
   "gv": 3
  },
@@ -22642,6 +22087,18 @@ window.BUILDINGS = [
     "file": "File:13-05-24-wien-RalfR-152.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Prospetto_Looshaus.jpg/1280px-Prospetto_Looshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/looshaus/thumbs/8.webp",
+    "w": 1280,
+    "h": 905,
+    "kind": "Exterior",
+    "caption": "Exterior · Prospetto Looshaus",
+    "credit": "FiliGelpi03",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prospetto_Looshaus.jpg",
+    "file": "File:Prospetto Looshaus.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Wien-Innenstadt%2C_das_Looshaus.JPG/1280px-Wien-Innenstadt%2C_das_Looshaus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/looshaus/thumbs/4.webp",
     "w": 894,
@@ -22688,24 +22145,11 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Sezione_Looshaus.jpg",
     "file": "File:Sezione Looshaus.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Prospetto_Looshaus.jpg/1280px-Prospetto_Looshaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/looshaus/thumbs/8.webp",
-    "w": 1280,
-    "h": 905,
-    "kind": "Elevation",
-    "caption": "Elevation · Prospetto Looshaus",
-    "credit": "FiliGelpi03",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Prospetto_Looshaus.jpg",
-    "file": "File:Prospetto Looshaus.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Section",
-   "Elevation"
+   "Section"
   ],
   "gv": 3
  },
@@ -22785,6 +22229,18 @@ window.BUILDINGS = [
     "file": "File:Torino, ekspozicia palaco de N, 1.jpeg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gabinio.Torino-Parco_Del_Valentino%2C_Palazzo_Della_Mostra_Nazionale_Della_Moda%2C_Prospetto_Principale_110B11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/torino-esposizioni-hall-b/thumbs/6.webp",
+    "w": 1024,
+    "h": 752,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mario Gabinio",
+    "license": "CC BY 3.0 it",
+    "source": "https://commons.wikimedia.org/wiki/File:Gabinio.Torino-Parco_Del_Valentino,_Palazzo_Della_Mostra_Nazionale_Della_Moda,_Prospetto_Principale_110B11.jpg",
+    "file": "File:Gabinio.Torino-Parco Del Valentino, Palazzo Della Mostra Nazionale Della Moda, Prospetto Principale 110B11.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Torino%2C_Palazzo_Esposizioni%2C_costruzione_del_nuovo_padiglione.jpg/1280px-Torino%2C_Palazzo_Esposizioni%2C_costruzione_del_nuovo_padiglione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/torino-esposizioni-hall-b/thumbs/4.webp",
     "w": 1280,
@@ -22807,23 +22263,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Torino,_Palazzo_Esposizioni,_interno_del_nuovo_padiglione.jpg",
     "file": "File:Torino, Palazzo Esposizioni, interno del nuovo padiglione.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gabinio.Torino-Parco_Del_Valentino%2C_Palazzo_Della_Mostra_Nazionale_Della_Moda%2C_Prospetto_Principale_110B11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/torino-esposizioni-hall-b/thumbs/6.webp",
-    "w": 1024,
-    "h": 752,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Mario Gabinio",
-    "license": "CC BY 3.0 it",
-    "source": "https://commons.wikimedia.org/wiki/File:Gabinio.Torino-Parco_Del_Valentino,_Palazzo_Della_Mostra_Nazionale_Della_Moda,_Prospetto_Principale_110B11.jpg",
-    "file": "File:Gabinio.Torino-Parco Del Valentino, Palazzo Della Mostra Nazionale Della Moda, Prospetto Principale 110B11.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -23185,23 +22627,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Plate_of_fish_and_chips_at_the_Barbican_foodhall.jpg",
     "file": "File:Plate of fish and chips at the Barbican foodhall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Barbican_plan_in_WMUK_office.jpg/1280px-Barbican_plan_in_WMUK_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/barbican-centre/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Chris McKenna",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barbican_plan_in_WMUK_office.jpg",
-    "file": "File:Barbican plan in WMUK office.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -23405,23 +22833,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Temppeliaukio_Church_20180802.jpg",
     "file": "File:Interior of Temppeliaukio Church 20180802.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Temppeliaukio_Church_-_Project_1939_%282%29.png/1280px-Temppeliaukio_Church_-_Project_1939_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/temppeliaukio-church/thumbs/6.webp",
-    "w": 1280,
-    "h": 969,
-    "kind": "Plan",
-    "caption": "Plan · Temppeliaukio Church - Project 1939",
-    "credit": "project by Johan Sigfrid Sirénin, 1936 \n author of the source drawing unknown \n the source board pho",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Temppeliaukio_Church_-_Project_1939_(2).png",
-    "file": "File:Temppeliaukio Church - Project 1939 (2).png"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -23916,30 +23330,6 @@ window.BUILDINGS = [
     "file": "File:Interior of Fernsehturm Stuttgart (3).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stuttgart_-_Sillenbuch_-_Riedenberg_-_Eichenhain_-_Ansicht_im_Sommer_%2810%29.jpg/1280px-Stuttgart_-_Sillenbuch_-_Riedenberg_-_Eichenhain_-_Ansicht_im_Sommer_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stuttgart-tv-tower/thumbs/6.webp",
-    "w": 1280,
-    "h": 847,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Roman Eisele",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stuttgart_-_Sillenbuch_-_Riedenberg_-_Eichenhain_-_Ansicht_im_Sommer_(10).jpg",
-    "file": "File:Stuttgart - Sillenbuch - Riedenberg - Eichenhain - Ansicht im Sommer (10).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Fernsehturmskulptur09122018.png/1280px-Fernsehturmskulptur09122018.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stuttgart-tv-tower/thumbs/7.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Zavijava2",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fernsehturmskulptur09122018.png",
-    "file": "File:Fernsehturmskulptur09122018.png"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Fundamentfuss-Stuttgarter-Fernsehturm-beziffert.png/1280px-Fundamentfuss-Stuttgarter-Fernsehturm-beziffert.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stuttgart-tv-tower/thumbs/8.webp",
     "w": 1050,
@@ -23953,8 +23343,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation",
-   "Model",
    "Drawing"
   ],
   "gv": 3
@@ -24784,23 +24172,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:MuCEM-Ziani-Alexandre_III.jpg",
     "file": "File:MuCEM-Ziani-Alexandre III.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Arri%C3%A8re_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/mucem/thumbs/5.webp",
-    "w": 750,
-    "h": 458,
-    "kind": "Plan",
-    "caption": "Plan · montage affiche blog",
-    "credit": "Personlink",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Arri%C3%A8re_plan.jpg",
-    "file": "File:Arrière plan.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -25404,23 +24778,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Plano_del_museo_Calouste_Gulbenkian.jpg",
     "file": "File:Plano del museo Calouste Gulbenkian.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sketches_and_wooden_sculpture%2C_SIZA_temporary_exhibition%2C_Calouste_Gulbenkian_Museum%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1280px-Sketches_and_wooden_sculpture%2C_SIZA_temporary_exhibition%2C_Calouste_Gulbenkian_Museum%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/calouste-gulbenkian-museum/thumbs/7.webp",
-    "w": 1084,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch · Sketches and wooden sculpture, SIZA temporary exhibition, Calouste Gulbenkian Museum, Lisbon, Portugal",
-    "credit": "Jules Verne Times Two",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sketches_and_wooden_sculpture,_SIZA_temporary_exhibition,_Calouste_Gulbenkian_Museum,_Lisbon,_Portugal_julesvernex2.jpg",
-    "file": "File:Sketches and wooden sculpture, SIZA temporary exhibition, Calouste Gulbenkian Museum, Lisbon, Portugal julesvernex2.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Sketch"
+   "Plan"
   ],
   "gv": 3
  },
@@ -26367,23 +25728,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Nicho_de_Rufino_y_Olga_Tamayo_en_el_Museo_Tamayo.jpg",
     "file": "File:Nicho de Rufino y Olga Tamayo en el Museo Tamayo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Boceto_de_un_mural_expuesto_en_el_museo_tamayo.jpg/1280px-Boceto_de_un_mural_expuesto_en_el_museo_tamayo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-tamayo/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "chellius",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Boceto_de_un_mural_expuesto_en_el_museo_tamayo.jpg",
-    "file": "File:Boceto de un mural expuesto en el museo tamayo.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -27175,17 +26522,15 @@ window.BUILDINGS = [
     "thumb": "images/bank-of-london-and-south-america/thumbs/6.webp",
     "w": 1050,
     "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Ex banco de londres- Banco Hipotecario",
+    "kind": "Interior",
+    "caption": "Interior · Ex banco de londres- Banco Hipotecario",
     "credit": "Mariceel",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Colores_en_planta.jpg",
     "file": "File:Colores en planta.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -27807,17 +27152,15 @@ window.BUILDINGS = [
     "thumb": "images/orquideorama-medellin-botanical-garden/thumbs/6.webp",
     "w": 1050,
     "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Medellín",
+    "kind": "Detail",
+    "caption": "Detail · Medellín",
     "credit": "Xemenendura",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Planta_abrazadora.jpg",
     "file": "File:Planta abrazadora.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -28324,8 +27667,8 @@ window.BUILDINGS = [
     "thumb": "images/washington-dulles-airport-terminal/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Famartin",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2022-03-24_14_00_35_UTC_minus_4_AeroTrain_station_at_the_main_terminal_of_Washington_Dulles_International_Airport_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg",
@@ -28345,7 +27688,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Section",
    "Model"
   ],
   "gv": 3
@@ -29914,23 +29256,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Saint_John%27s_Abbey_Church_St._Joseph_(3).jpg",
     "file": "File:Saint John's Abbey Church St. Joseph (3).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Syriac_miniature_of_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/st-john-s-abbey-church/thumbs/6.webp",
-    "w": 811,
-    "h": 826,
-    "kind": "Model",
-    "caption": "Model · Wide-eyed Christ holding Gospel of John in HHML 's oldest Syriac ms",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Syriac_miniature_of_Christ.jpg",
-    "file": "File:Syriac miniature of Christ.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -30134,23 +29462,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_The_Gothic_Hall_and_the_Cloisters,_Art_Museum,_Toledo,_Ohio_(66250).jpg",
     "file": "File:Interior view of The Gothic Hall and the Cloisters, Art Museum, Toledo, Ohio (66250).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pauline_Auzou_-_Etude_pour_une_tete_de_vieillard.jpg/1280px-Pauline_Auzou_-_Etude_pour_une_tete_de_vieillard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glass-pavilion-toledo-museum-of-art/thumbs/6.webp",
-    "w": 1047,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · Study for an Old Man's Head",
-    "credit": "Pauline Auzou",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Pauline_Auzou_-_Etude_pour_une_tete_de_vieillard.jpg",
-    "file": "File:Pauline Auzou - Etude pour une tete de vieillard.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -30457,23 +29771,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:AerialArtMar27SFUAncientForestCommittee.JPG",
     "file": "File:AerialArtMar27SFUAncientForestCommittee.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/1491s_banter_with_the_audience.jpg/1280px-1491s_banter_with_the_audience.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/simon-fraser-university/thumbs/6.webp",
-    "w": 1280,
-    "h": 922,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "US Mission Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1491s_banter_with_the_audience.jpg",
-    "file": "File:1491s banter with the audience.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -30574,23 +29874,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Canadian_History_(36484014582).jpg",
     "file": "File:Museum of Canadian History (36484014582).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Model_of_Parliament_Hill.jpg/1280px-Model_of_Parliament_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/canadian-museum-of-history/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Parliament_Hill.jpg",
-    "file": "File:Model of Parliament Hill.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -30794,23 +30080,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Silky_Monochrome-Library_Stacks_(31674964847).jpg",
     "file": "File:Silky Monochrome-Library Stacks (31674964847).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Drawing_out_ideas_%288129592903%29.jpg/1280px-Drawing_out_ideas_%288129592903%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/calgary-central-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing · Drawing out ideas",
-    "credit": "JMacPherson  from Calgary, Canada",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Drawing_out_ideas_(8129592903).jpg",
-    "file": "File:Drawing out ideas (8129592903).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -32626,17 +31898,15 @@ window.BUILDINGS = [
     "thumb": "images/masjid-negara/thumbs/6.webp",
     "w": 1280,
     "h": 720,
-    "kind": "Section",
-    "caption": "Section · Interior ceiling section of Masjid Negara Malaysia",
+    "kind": "Interior",
+    "caption": "Interior · Interior ceiling section of Masjid Negara Malaysia",
     "credit": "Sam Hidayat",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_ceiling_section_of_Masjid_Negara_Malaysia.jpg",
     "file": "File:Interior ceiling section of Masjid Negara Malaysia.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -34002,6 +33272,18 @@ window.BUILDINGS = [
     "file": "File:Entrance to The National Theatre - geograph.org.uk - 5692964.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Theatre_-_view_of_W_elevation.jpg/1280px-National_Theatre_-_view_of_W_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-national-theatre/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tom Parnell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theatre_-_view_of_W_elevation.jpg",
+    "file": "File:National Theatre - view of W elevation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Earthquakes_in_London_%284875687955%29.jpg/1280px-Earthquakes_in_London_%284875687955%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/royal-national-theatre/thumbs/4.webp",
     "w": 1280,
@@ -34024,23 +33306,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:London_-_South_Bank_-_Jubilee_Walkway_-_View_South_on_Royal_National_Theatre_1976_by_Sir_Denys_Lasdun_and_Peter_Softley.jpg",
     "file": "File:London - South Bank - Jubilee Walkway - View South on Royal National Theatre 1976 by Sir Denys Lasdun and Peter Softley.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/National_Theatre_-_view_of_W_elevation.jpg/1280px-National_Theatre_-_view_of_W_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/royal-national-theatre/thumbs/6.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Tom Parnell",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Theatre_-_view_of_W_elevation.jpg",
-    "file": "File:National Theatre - view of W elevation.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -34731,8 +33999,8 @@ window.BUILDINGS = [
     "thumb": "images/sir-john-soane-s-museum/thumbs/7.webp",
     "w": 1280,
     "h": 877,
-    "kind": "Model",
-    "caption": "Model · Sir John Soane's House and Museum: the lower model room, at basement level",
+    "kind": "Drawing",
+    "caption": "Drawing · Sir John Soane's House and Museum: the lower model room, at basement level",
     "credit": "https://wellcomeimages.org/indexplus/obf_images/3a/c7/ac34d014ef90dd0c7af8ac84605b.jpg \n \n  Gallery:",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sir_John_Soane%27s_House_and_Museum;_the_lower_model_room,_at_Wellcome_V0013837.jpg",
@@ -34753,7 +34021,6 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
-   "Model",
    "Drawing"
   ],
   "gv": 3
@@ -35210,23 +34477,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Noura_Restaurant_(3386805908).jpg",
     "file": "File:Noura Restaurant (3386805908).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Roustem_au_corps_%C3%A0_corps_avec_Poul%C3%A2dwend.jpg/1280px-Roustem_au_corps_%C3%A0_corps_avec_Poul%C3%A2dwend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/institut-du-monde-arabe/thumbs/6.webp",
-    "w": 996,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Popolon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roustem_au_corps_%C3%A0_corps_avec_Poul%C3%A2dwend.jpg",
-    "file": "File:Roustem au corps à corps avec Poulâdwend.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -35406,36 +34659,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Paris_2e_Biblioth%C3%A8que_nationale_Site_Richelieu-Louvois_700.jpg",
     "file": "File:Paris 2e Bibliothèque nationale Site Richelieu-Louvois 700.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Biblioth%C3%A8que_imp%C3%A9riale%2C_aile_construite_par_Louis_Visconti%2C_rue_Vivienne_%28attachement_de_ma%C3%A7onnerie%2C_1855%29._1%2C_Biblioth%C3%A8que_Imp%C3%A9riale_-_Attachement_de_D%C3%A9molition_%C3%A0_Ex%C3%A9cuter_-_dessin%2C_plan_-_btv1b53021292j.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-nationale-de-france/thumbs/6.webp",
-    "w": 1280,
-    "h": 985,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Agence des travaux de la Bibliothèque nationale (Paris). Dessinateur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_imp%C3%A9riale,_aile_construite_par_Louis_Visconti,_rue_Vivienne_(attachement_de_ma%C3%A7onnerie,_1855)._1,_Biblioth%C3%A8que_Imp%C3%A9riale_-_Attachement_de_D%C3%A9molition_%C3%A0_Ex%C3%A9cuter_-_dessin,_plan_-_btv1b53021292j.jpg",
-    "file": "File:Bibliothèque impériale, aile construite par Louis Visconti, rue Vivienne (attachement de maçonnerie, 1855). 1, Bibliothèque Impériale - Attachement de Démolition à Exécuter - dessin, plan - btv1b53021292j.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Fa%C3%A7ade_sur_la_rue_Colbert_-_projet_n%C2%B0_9_-_dessin_-_Boulay_invenit_%28sig.%29_-_btv1b531607146.jpg/1280px-Fa%C3%A7ade_sur_la_rue_Colbert_-_projet_n%C2%B0_9_-_dessin_-_Boulay_invenit_%28sig.%29_-_btv1b531607146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-nationale-de-france/thumbs/7.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Boullée, Etienne-Louis (1728-1799). Dessinateur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_sur_la_rue_Colbert_-_projet_n%C2%B0_9_-_dessin_-_Boulay_invenit_(sig.)_-_btv1b531607146.jpg",
-    "file": "File:Façade sur la rue Colbert - projet n° 9 - dessin - Boulay invenit (sig.) - btv1b531607146.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -35548,23 +34774,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Paris_1988_-_Modell_Grande_Arche.jpg",
     "file": "File:Paris 1988 - Modell Grande Arche.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Tallest_buildings_in_Paris_-_comparison_graph.png/1280px-Tallest_buildings_in_Paris_-_comparison_graph.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grande-arche/thumbs/7.webp",
-    "w": 1280,
-    "h": 438,
-    "kind": "Drawing",
-    "caption": "Drawing · The silhouettes of the most famous and tallest building in Paris",
-    "credit": "Gabgabri",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tallest_buildings_in_Paris_-_comparison_graph.png",
-    "file": "File:Tallest buildings in Paris - comparison graph.png"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -35620,18 +34833,6 @@ window.BUILDINGS = [
     "file": "File:Millau Viaduct (2724128971).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panorama_de_la_vall%C3%A9e_de_Millau.jpg/1280px-Panorama_de_la_vall%C3%A9e_de_Millau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/millau-viaduct/thumbs/2.webp",
-    "w": 1280,
-    "h": 807,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Tobi 87",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Panorama_de_la_vall%C3%A9e_de_Millau.jpg",
-    "file": "File:Panorama de la vallée de Millau.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Millau_viaduct_%282724118283%29.jpg/1280px-Millau_viaduct_%282724118283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/millau-viaduct/thumbs/3.webp",
     "w": 1280,
@@ -35642,6 +34843,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Millau_viaduct_(2724118283).jpg",
     "file": "File:Millau viaduct (2724118283).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Panorama_de_la_vall%C3%A9e_de_Millau.jpg/1280px-Panorama_de_la_vall%C3%A9e_de_Millau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millau-viaduct/thumbs/2.webp",
+    "w": 1280,
+    "h": 807,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Tobi 87",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_de_la_vall%C3%A9e_de_Millau.jpg",
+    "file": "File:Panorama de la vallée de Millau.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Le_Truel-Ausblick_von_Costecalde_0128.JPG/1280px-Le_Truel-Ausblick_von_Costecalde_0128.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -36404,23 +35617,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3_Mir%C3%B3_(Barcelona)_-_1.jpg",
     "file": "File:Fundació Miró (Barcelona) - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Model_of_%27Miss_Chicago%27_or_%27The_Sun%2C_the_Moon_and_One_Star%27.jpg/1280px-Model_of_%27Miss_Chicago%27_or_%27The_Sun%2C_the_Moon_and_One_Star%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fundacio-joan-miro/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Andrew Moore  from Johannesburg, South Africa",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_%27Miss_Chicago%27_or_%27The_Sun,_the_Moon_and_One_Star%27.jpg",
-    "file": "File:Model of 'Miss Chicago' or 'The Sun, the Moon and One Star'.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -36602,6 +35801,18 @@ window.BUILDINGS = [
     "file": "File:Casa del Fascio e Guardia di Finanza.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Prospetto_esterno_della_Casa_del_Fascio.jpg/1280px-Prospetto_esterno_della_Casa_del_Fascio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-del-fascio/thumbs/7.webp",
+    "w": 1280,
+    "h": 1121,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Effe B",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prospetto_esterno_della_Casa_del_Fascio.jpg",
+    "file": "File:Prospetto esterno della Casa del Fascio.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Particolare_dell%27interno_della_Casa_del_Fascio.jpg/1280px-Particolare_dell%27interno_della_Casa_del_Fascio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casa-del-fascio/thumbs/4.webp",
     "w": 1050,
@@ -36630,30 +35841,15 @@ window.BUILDINGS = [
     "thumb": "images/casa-del-fascio/thumbs/6.webp",
     "w": 699,
     "h": 1000,
-    "kind": "Section",
-    "caption": "Section · Casa del Fascio di Como",
+    "kind": "Detail",
+    "caption": "Detail · Casa del Fascio di Como",
     "credit": "Fausto Zambra",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sezione_aurea.jpg",
     "file": "File:Sezione aurea.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Prospetto_esterno_della_Casa_del_Fascio.jpg/1280px-Prospetto_esterno_della_Casa_del_Fascio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-del-fascio/thumbs/7.webp",
-    "w": 1280,
-    "h": 1121,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Effe B",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Prospetto_esterno_della_Casa_del_Fascio.jpg",
-    "file": "File:Prospetto esterno della Casa del Fascio.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -37364,24 +36560,12 @@ window.BUILDINGS = [
     "file": "File:Berlin, neues Museum (Innenansicht).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Berlin_Neues_Museum_Suedrisalit.jpg/1280px-Berlin_Neues_Museum_Suedrisalit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neues-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 1115,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Neues_Museum_Suedrisalit.jpg",
-    "file": "File:Berlin Neues Museum Suedrisalit.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Neues_Museum_Ansicht_Payne_um_1850.jpg/1280px-Neues_Museum_Ansicht_Payne_um_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/neues-museum/thumbs/7.webp",
     "w": 1280,
     "h": 861,
-    "kind": "Elevation",
-    "caption": "Elevation · Berlin Neues Museum, Ansicht mit der Friedrichsbrücke um 1850, Stahlstich",
+    "kind": "Drawing",
+    "caption": "Drawing · Berlin Neues Museum, Ansicht mit der Friedrichsbrücke um 1850, Stahlstich",
     "credit": "Henry Albert Payne (1812-1902)",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Neues_Museum_Ansicht_Payne_um_1850.jpg",
@@ -37389,8 +36573,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
-   "Elevation"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -37492,23 +36675,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Memorial_to_the_Murdered_Jews_of_Europe.jpg",
     "file": "File:Inside the Memorial to the Murdered Jews of Europe.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Botschaft_der_USA%2C_Berlin%2C_Ansicht_Behrenstra%C3%9Fe-3869.jpg/1280px-Botschaft_der_USA%2C_Berlin%2C_Ansicht_Behrenstra%C3%9Fe-3869.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/memorial-to-the-murdered-jews-of-europe/thumbs/6.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Raimond Spekking",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Botschaft_der_USA,_Berlin,_Ansicht_Behrenstra%C3%9Fe-3869.jpg",
-    "file": "File:Botschaft der USA, Berlin, Ansicht Behrenstraße-3869.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -38537,6 +37706,18 @@ window.BUILDINGS = [
     "file": "File:Blick auf die Secession Rückseite.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_%28hdr%29.jpg/1280px-Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_%28hdr%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/secession-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Secession Building, Vienna Built 1897 - 1898 by Joseph Maria Olbrich",
+    "credit": "Shesmax",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_(hdr).jpg",
+    "file": "File:Wiener Secessionsgebäude. Ansicht von Osten. 2017-10-01 11-56-38 (hdr).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wiener_Secessionsgeb%C3%A4ude_Gorgonen_20230811.jpg/1280px-Wiener_Secessionsgeb%C3%A4ude_Gorgonen_20230811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/secession-building/thumbs/1.webp",
     "w": 1280,
@@ -38571,36 +37752,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wiener_Secessionsgeb%C3%A4ude_Wahlspruch_20230811.jpg",
     "file": "File:Wiener Secessionsgebäude Wahlspruch 20230811.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_%28hdr%29.jpg/1280px-Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_%28hdr%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/secession-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Elevation",
-    "caption": "Elevation · Secession Building, Vienna Built 1897 - 1898 by Joseph Maria Olbrich",
-    "credit": "Shesmax",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wiener_Secessionsgeb%C3%A4ude._Ansicht_von_Osten._2017-10-01_11-56-38_(hdr).jpg",
-    "file": "File:Wiener Secessionsgebäude. Ansicht von Osten. 2017-10-01 11-56-38 (hdr).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Secession_Tastmodell_1.jpg/1280px-Secession_Tastmodell_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/secession-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Secession - Tastmodell (Detail)",
-    "credit": "Geolina163",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Secession_Tastmodell_1.jpg",
-    "file": "File:Secession Tastmodell 1.jpg"
    }
   ],
-  "has": [
-   "Elevation",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -38818,23 +37972,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:P.v._jensen-klint_06,_grundtvig_memorial_church_1913-1940.jpg",
     "file": "File:P.v. jensen-klint 06, grundtvig memorial church 1913-1940.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Model_of_ships_in_churches_in_In_the_Grundvigs_Church%2C_Copenhagen.jpg/1280px-Model_of_ships_in_churches_in_In_the_Grundvigs_Church%2C_Copenhagen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grundtvig-s-church/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Model of ships in churches in In the Grundvigs Church, Copenhagen",
-    "credit": "Alexey Komarov",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_ships_in_churches_in_In_the_Grundvigs_Church,_Copenhagen.jpg",
-    "file": "File:Model of ships in churches in In the Grundvigs Church, Copenhagen.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -39635,6 +38775,30 @@ window.BUILDINGS = [
     "file": "File:Ještěd tower 2025-12-01 01.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tatra_tram%2C_linie_3_and_Je%C5%A1t%C4%9Bd_hotel%2C_Liberec_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/jested-tower/thumbs/6.webp",
+    "w": 949,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "O",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tatra_tram,_linie_3_and_Je%C5%A1t%C4%9Bd_hotel,_Liberec_1994.jpg",
+    "file": "File:Tatra tram, linie 3 and Ještěd hotel, Liberec 1994.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg/1280px-Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jested-tower/thumbs/7.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Boheminium Park v Mariánských Lázních, model významé památky - Ještěd",
+    "credit": "Lubor Ferenc",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg",
+    "file": "File:Mariánské Lázně park Boheminium Ještěd.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hotel_Je%C5%A1t%C4%9Bd_-_chodba_k_pokoj%C5%AFm_-_panoramio.jpg/1280px-Hotel_Je%C5%A1t%C4%9Bd_-_chodba_k_pokoj%C5%AFm_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jested-tower/thumbs/4.webp",
     "w": 1280,
@@ -39657,36 +38821,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hotel_Je%C5%A1t%C4%9Bd_-_m%C5%99%C3%AD%C5%BE_ze_zbytk%C5%AF_star%C3%A9_chaty_-_panoramio.jpg",
     "file": "File:Hotel Ještěd - mříž ze zbytků staré chaty - panoramio.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tatra_tram%2C_linie_3_and_Je%C5%A1t%C4%9Bd_hotel%2C_Liberec_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/jested-tower/thumbs/6.webp",
-    "w": 949,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "O",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tatra_tram,_linie_3_and_Je%C5%A1t%C4%9Bd_hotel,_Liberec_1994.jpg",
-    "file": "File:Tatra tram, linie 3 and Ještěd hotel, Liberec 1994.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg/1280px-Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jested-tower/thumbs/7.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Boheminium Park v Mariánských Lázních, model významé památky - Ještěd",
-    "credit": "Lubor Ferenc",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B_park_Boheminium_Je%C5%A1t%C4%9Bd.jpg",
-    "file": "File:Mariánské Lázně park Boheminium Ještěd.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -40096,23 +39233,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Garden_IIMB.jpg",
     "file": "File:Garden IIMB.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/CutTree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/indian-institute-of-management-bangalore/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Cut tree showing growth rings; photographed inside IIM, Bangalore",
-    "credit": "Sundar",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:CutTree.jpg",
-    "file": "File:CutTree.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -40282,6 +39405,18 @@ window.BUILDINGS = [
     "file": "File:Jantar Mantar in Jaipur in April 2016 02.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A_section_of_Jantar_Mantar.jpg/1280px-A_section_of_Jantar_Mantar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jantar-mantar-jaipur/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Immense mathematical skill is required to understand the applications of Jantar Mantar",
+    "credit": "Vabinik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_section_of_Jantar_Mantar.jpg",
+    "file": "File:A section of Jantar Mantar.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Curves_of_Jantar_Mantar.jpg/1280px-Curves_of_Jantar_Mantar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jantar-mantar-jaipur/thumbs/4.webp",
     "w": 1050,
@@ -40304,23 +39439,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bhairav_temple_inside_Jantar_mantar_complex,_Jaipur.jpg",
     "file": "File:Bhairav temple inside Jantar mantar complex, Jaipur.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/A_section_of_Jantar_Mantar.jpg/1280px-A_section_of_Jantar_Mantar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jantar-mantar-jaipur/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section · Immense mathematical skill is required to understand the applications of Jantar Mantar",
-    "credit": "Vabinik",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_section_of_Jantar_Mantar.jpg",
-    "file": "File:A section of Jantar Mantar.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -41109,6 +40230,18 @@ window.BUILDINGS = [
     "file": "File:Nature Bridge and Parks, Tehran (42409743852).jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tabiatbridge-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/tabiat-bridge/thumbs/6.webp",
+    "w": 600,
+    "h": 832,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Diba Tensile Architecture",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabiatbridge-section.jpg",
+    "file": "File:Tabiatbridge-section.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Irnb187-Teheran-Iranka.jpg/1280px-Irnb187-Teheran-Iranka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tabiat-bridge/thumbs/5.webp",
     "w": 1280,
@@ -41119,23 +40252,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Irnb187-Teheran-Iranka.jpg",
     "file": "File:Irnb187-Teheran-Iranka.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Tabiatbridge-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/tabiat-bridge/thumbs/6.webp",
-    "w": 600,
-    "h": 832,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Diba Tensile Architecture",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tabiatbridge-section.jpg",
-    "file": "File:Tabiatbridge-section.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -41350,23 +40469,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Sadri_Maksudi_Arsal_Istanbul_street_2.jpg",
     "file": "File:Sadri Maksudi Arsal Istanbul street 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tewfik_Bey%2C_lieutenant-colonel_conseiller_militaire_d%27Angora_%28gros_plan%29_-_btv1b9053912x.jpg/1280px-Tewfik_Bey%2C_lieutenant-colonel_conseiller_militaire_d%27Angora_%28gros_plan%29_-_btv1b9053912x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turkish-historical-society/thumbs/6.webp",
-    "w": 1011,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Agence de presse Meurisse. Agence photographique (commanditaire)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Tewfik_Bey,_lieutenant-colonel_conseiller_militaire_d%27Angora_(gros_plan)_-_btv1b9053912x.jpg",
-    "file": "File:Tewfik Bey, lieutenant-colonel conseiller militaire d'Angora (gros plan) - btv1b9053912x.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -41922,23 +41027,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Historical_districts,_streets_of_Tripoli,_Lebanon.jpg",
     "file": "File:Historical districts, streets of Tripoli, Lebanon.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Tripoli_in_William_Tipping_1840s_sketches_of_Palestine_and_the_surrounding_region%2C_from_Traill%E2%80%99s_Josephus_13.jpg/1280px-Tripoli_in_William_Tipping_1840s_sketches_of_Palestine_and_the_surrounding_region%2C_from_Traill%E2%80%99s_Josephus_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rachid-karami-international-fair/thumbs/6.webp",
-    "w": 1280,
-    "h": 843,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "William Tipping",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Tripoli_in_William_Tipping_1840s_sketches_of_Palestine_and_the_surrounding_region,_from_Traill%E2%80%99s_Josephus_13.jpg",
-    "file": "File:Tripoli in William Tipping 1840s sketches of Palestine and the surrounding region, from Traill’s Josephus 13.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -42476,17 +41567,15 @@ window.BUILDINGS = [
     "thumb": "images/university-of-ibadan/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section · aerial section of University of Ibadan",
+    "kind": "Context",
+    "caption": "Context · aerial section of University of Ibadan",
     "credit": "Ei'eke",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Aerial_section_of_University_of_Ibadan.jpg",
     "file": "File:Aerial section of University of Ibadan.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -43216,23 +42305,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Detail_of_Dancing_House,_Prague,_Czechia_julesvernex2.jpg",
     "file": "File:Detail of Dancing House, Prague, Czechia julesvernex2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/20090808_Prague_06.jpg/1280px-20090808_Prague_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dancing-house/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Prague",
-    "credit": "Dwxn",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20090808_Prague_06.jpg",
-    "file": "File:20090808 Prague 06.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -43436,23 +42511,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Turning_Torso_detail_(3936840550).jpg",
     "file": "File:Turning Torso detail (3936840550).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Turning_Torso_model.JPG/1280px-Turning_Torso_model.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turning-torso/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · A model of Turning Torso in its lobby",
-    "credit": "winvide",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Turning_Torso_model.JPG",
-    "file": "File:Turning Torso model.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -44058,23 +43119,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Butler%27s_Wharf,_The_Shard,_City_Hall,_Tower_Bridge,_Hermitage_Community_Moorings_-_view_from_The_Thames.jpg",
     "file": "File:Butler's Wharf, The Shard, City Hall, Tower Bridge, Hermitage Community Moorings - view from The Thames.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Millicent_Fawcett_miniature_statue_in_City_Hall_%2839965041270%29.jpg/1280px-Millicent_Fawcett_miniature_statue_in_City_Hall_%2839965041270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/city-hall-london/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Millicent Fawcett miniature statue in City Hall",
-    "credit": "Matt Brown  from London, England",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Millicent_Fawcett_miniature_statue_in_City_Hall_(39965041270).jpg",
-    "file": "File:Millicent Fawcett miniature statue in City Hall (39965041270).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -44912,18 +43959,6 @@ window.BUILDINGS = [
     "file": "File:Mostra Brasilis a Brasília 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Bandeira_Brasileira_-_entardecer_-_d%C3%A1lias_do_jardim_do_Pal%C3%A1cio_do_Planalto_em_primeiro_plano%2C_Bras%C3%ADlia%2C_Brasil_-_panoramio.jpg/1280px-Bandeira_Brasileira_-_entardecer_-_d%C3%A1lias_do_jardim_do_Pal%C3%A1cio_do_Planalto_em_primeiro_plano%2C_Bras%C3%ADlia%2C_Brasil_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palacio-do-planalto/thumbs/6.webp",
-    "w": 1280,
-    "h": 901,
-    "kind": "Plan",
-    "caption": "Plan · Bandeira Brasileira - entardecer - dálias do jardim do Palácio do Planalto em primeiro plano, Brasília, Brasil",
-    "credit": "Ivano Gutz",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bandeira_Brasileira_-_entardecer_-_d%C3%A1lias_do_jardim_do_Pal%C3%A1cio_do_Planalto_em_primeiro_plano,_Bras%C3%ADlia,_Brasil_-_panoramio.jpg",
-    "file": "File:Bandeira Brasileira - entardecer - dálias do jardim do Palácio do Planalto em primeiro plano, Brasília, Brasil - panoramio.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Exposi%C3%A7%C3%A3o_sobre_Bras%C3%ADlia.jpg/1280px-Exposi%C3%A7%C3%A3o_sobre_Bras%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palacio-do-planalto/thumbs/7.webp",
     "w": 1280,
@@ -44937,7 +43972,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Model"
   ],
   "gv": 3
@@ -45713,36 +44747,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Discovery_Terrace_-_Library_of_Birmingham_-_revolving_doors_still_out_of_order_(30226573262).jpg",
     "file": "File:Discovery Terrace - Library of Birmingham - revolving doors still out of order (30226573262).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Diagram_Plan_of_the_City_of_Birmingham_-_Parks_and_Cemeteries_Department_-_1934.jpg/1280px-Diagram_Plan_of_the_City_of_Birmingham_-_Parks_and_Cemeteries_Department_-_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/library-of-birmingham/thumbs/6.webp",
-    "w": 1280,
-    "h": 1284,
-    "kind": "Plan",
-    "caption": "Plan · Diagram Plan of the City of Birmingham showing area, population and positions of cemeteries",
-    "credit": "Anonymous  Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Diagram_Plan_of_the_City_of_Birmingham_-_Parks_and_Cemeteries_Department_-_1934.jpg",
-    "file": "File:Diagram Plan of the City of Birmingham - Parks and Cemeteries Department - 1934.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Discovery_Terrace_-_Library_of_Birmingham_-_section_blocked_off_%2832932016476%29.jpg/1280px-Discovery_Terrace_-_Library_of_Birmingham_-_section_blocked_off_%2832932016476%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/library-of-birmingham/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section · Discovery Terrace - Library of Birmingham - section blocked off",
-    "credit": "Elliott Brown  from Birmingham, United Kingdom",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Discovery_Terrace_-_Library_of_Birmingham_-_section_blocked_off_(32932016476).jpg",
-    "file": "File:Discovery Terrace - Library of Birmingham - section blocked off (32932016476).jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -45989,23 +44996,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Vis%C3%A3o_interna_do_Pal%C3%A1cio_da_Alvorada_-_BR_RJANRIO_PH_0_FOT_00743_0031,_Acervo_do_Arquivo_Nacional.jpg",
     "file": "File:Visão interna do Palácio da Alvorada - BR RJANRIO PH 0 FOT 00743 0031, Acervo do Arquivo Nacional.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Maquete_pal%C3%A1cio_da_Alvorada_e_Catedral_de_Bras%C3%ADlia.JPG/1280px-Maquete_pal%C3%A1cio_da_Alvorada_e_Catedral_de_Bras%C3%ADlia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palacio-da-alvorada/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Maquete de marcenaria do Palácio da Alvorada e da Catedral de Brasília",
-    "credit": "Almanaque Lusofonista",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquete_pal%C3%A1cio_da_Alvorada_e_Catedral_de_Bras%C3%ADlia.JPG",
-    "file": "File:Maquete palácio da Alvorada e Catedral de Brasília.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -46209,49 +45202,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Bibliotheek_Van_Gogh_Museum_Amsterdam.jpg",
     "file": "File:Bibliotheek Van Gogh Museum Amsterdam.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gauguin_Sketch_La_Vision_apr%C3%A8s_le_Sermon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/van-gogh-museum/thumbs/6.webp",
-    "w": 800,
-    "h": 592,
-    "kind": "Sketch",
-    "caption": "Sketch · Sketch from a letter from Paul Gauguin to Vincent van Gogh, dated 26 September 1888",
-    "credit": "Paul Gauguin",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Gauguin_Sketch_La_Vision_apr%C3%A8s_le_Sermon.jpg",
-    "file": "File:Gauguin Sketch La Vision après le Sermon.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Enkele_modellen_van_oude_trams_worden_geplaatst%2C_Bestanddeelnr_928-0979.jpg/1280px-Enkele_modellen_van_oude_trams_worden_geplaatst%2C_Bestanddeelnr_928-0979.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/van-gogh-museum/thumbs/7.webp",
-    "w": 1280,
-    "h": 847,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Fotograaf Onbekend / Anefo",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Enkele_modellen_van_oude_trams_worden_geplaatst,_Bestanddeelnr_928-0979.jpg",
-    "file": "File:Enkele modellen van oude trams worden geplaatst, Bestanddeelnr 928-0979.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/The_Rock_of_Montmajour_with_Pine_Trees%2C_1888%2C_Van_Gogh%2C_NG_04.jpg/1280px-The_Rock_of_Montmajour_with_Pine_Trees%2C_1888%2C_Van_Gogh%2C_NG_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/van-gogh-museum/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "GualdimG",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Rock_of_Montmajour_with_Pine_Trees,_1888,_Van_Gogh,_NG_04.jpg",
-    "file": "File:The Rock of Montmajour with Pine Trees, 1888, Van Gogh, NG 04.jpg"
    }
   ],
-  "has": [
-   "Sketch",
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -46358,17 +45311,15 @@ window.BUILDINGS = [
     "thumb": "images/john-hancock-tower/thumbs/6.webp",
     "w": 1024,
     "h": 680,
-    "kind": "Model",
-    "caption": "Model · Copley Sq",
+    "kind": "Context",
+    "caption": "Context · Copley Sq",
     "credit": "RawheaD Rex  from Boston, USA",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:2009_CopleySquare_Boston_3271041586.jpg",
     "file": "File:2009 CopleySquare Boston 3271041586.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -46572,23 +45523,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2016_Singapur,_Downtown_Core,_Rze%C5%BAby_Hehe_i_Xiexie_(06).jpg",
     "file": "File:2016 Singapur, Downtown Core, Rzeźby Hehe i Xiexie (06).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Model_of_the_ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore_-_20110226-01.jpg/1280px-Model_of_the_ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore_-_20110226-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/marina-bay-sands/thumbs/6.webp",
-    "w": 1280,
-    "h": 1392,
-    "kind": "Model",
-    "caption": "Model · A model of the ArtScience Museum of Marina Bay Sands , Singapore",
-    "credit": "Jacklee .",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_ArtScience_Museum,_Marina_Bay_Sands,_Singapore_-_20110226-01.jpg",
-    "file": "File:Model of the ArtScience Museum, Marina Bay Sands, Singapore - 20110226-01.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -46792,23 +45729,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Mau%C3%A1_11_2015_Rio_718.JPG",
     "file": "File:Praça Mauá 11 2015 Rio 718.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Maquetemuseudoamanha.jpg/1280px-Maquetemuseudoamanha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-tomorrow/thumbs/6.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Tânia Rêgo/Agência Brasil",
-    "license": "CC BY 3.0 br",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquetemuseudoamanha.jpg",
-    "file": "File:Maquetemuseudoamanha.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -47210,6 +46133,18 @@ window.BUILDINGS = [
     "file": "File:IAC Building November 2025 001.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Interesting_Buildings_on_the_High_Line_%286218526810%29.jpg/1280px-Interesting_Buildings_on_the_High_Line_%286218526810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/iac-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 865,
+    "kind": "Exterior",
+    "caption": "Exterior · Walking the old High Line Railway",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interesting_Buildings_on_the_High_Line_(6218526810).jpg",
+    "file": "File:Interesting Buildings on the High Line (6218526810).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Into_the_Blue_%283446062013%29.jpg/1280px-Into_the_Blue_%283446062013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/iac-building/thumbs/4.webp",
     "w": 931,
@@ -47232,23 +46167,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Blue_Windows_(230839473).jpeg",
     "file": "File:Blue Windows (230839473).jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Interesting_Buildings_on_the_High_Line_%286218526810%29.jpg/1280px-Interesting_Buildings_on_the_High_Line_%286218526810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iac-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 865,
-    "kind": "Section",
-    "caption": "Section · Walking the old High Line Railway",
-    "credit": "Tony Hisgett  from Birmingham, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Interesting_Buildings_on_the_High_Line_(6218526810).jpg",
-    "file": "File:Interesting Buildings on the High Line (6218526810).jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -47626,6 +46547,18 @@ window.BUILDINGS = [
     "file": "File:Cancilleres de Ecuador y Brasil se reunen en Itamaraty (6982381426).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg/1280px-Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itamaraty-palace/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Brazil identified by the ID",
+    "credit": "SergioRDG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg",
+    "file": "File:Brasilia DF Brasil Cjto Urbanistico Plano Piloto05.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Brasil%2C_gira_Caribe_y_Sur_Am%C3%A9rica_%2812206670534%29.jpg/1280px-Brasil%2C_gira_Caribe_y_Sur_Am%C3%A9rica_%2812206670534%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/itamaraty-palace/thumbs/4.webp",
     "w": 1280,
@@ -47648,36 +46581,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:16-11-2015_Presidente_em_exerc%C3%ADcio,_Michel_Temer,_recebe_no_Itamaraty_o_pr%C3%ADncipe_herdeiro_da_Noruega,_Haakon_Magnus_(22651449847).jpg",
     "file": "File:16-11-2015 Presidente em exercício, Michel Temer, recebe no Itamaraty o príncipe herdeiro da Noruega, Haakon Magnus (22651449847).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg/1280px-Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/itamaraty-palace/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · This is a photo of a monument in Brazil identified by the ID",
-    "credit": "SergioRDG",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brasilia_DF_Brasil_Cjto_Urbanistico_Plano_Piloto05.jpg",
-    "file": "File:Brasilia DF Brasil Cjto Urbanistico Plano Piloto05.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Johann_Moritz_Rugendas_-_Tropeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/itamaraty-palace/thumbs/7.webp",
-    "w": 800,
-    "h": 576,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Johann Moritz Rugendas",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Johann_Moritz_Rugendas_-_Tropeiros.jpg",
-    "file": "File:Johann Moritz Rugendas - Tropeiros.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -47881,23 +46787,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cafe_@_National_Art_Center_@_Tokyo_(11495300615).jpg",
     "file": "File:Cafe @ National Art Center @ Tokyo (11495300615).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Model_of_Chochikukyo_House_1.jpg/1280px-Model_of_Chochikukyo_House_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-art-center-tokyo/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "1904.CC",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Chochikukyo_House_1.jpg",
-    "file": "File:Model of Chochikukyo House 1.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -48210,17 +47102,15 @@ window.BUILDINGS = [
     "thumb": "images/claudio-santoro-national-theatre/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Plan",
-    "caption": "Plan",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "Sintegrity",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_monumental_-_rodovi%C3%A1ria,_teatro,_biblioteca,_touring,_museu,_catedral,_ponte,_minist%C3%A9rios,_congresso.jpg",
     "file": "File:Brasília - Eixo monumental - rodoviária, teatro, biblioteca, touring, museu, catedral, ponte, ministérios, congresso.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -48527,23 +47417,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:La_Palla.jpg",
     "file": "File:La Palla.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Constructietekening_0.3_Stoel_SIMG3463.jpg/1280px-Constructietekening_0.3_Stoel_SIMG3463.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/marta-herford/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Wasily  at  Dutch Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Constructietekening_0.3_Stoel_SIMG3463.jpg",
-    "file": "File:Constructietekening 0.3 Stoel SIMG3463.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -48747,23 +47623,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_Umeda_Sky_Building_3.jpg",
     "file": "File:Inside Umeda Sky Building 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_model_of_UMEDA_SKY_BLDG.JPG/1280px-The_model_of_UMEDA_SKY_BLDG.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/umeda-sky-building/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Tokumeigakarinoaoshima",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_model_of_UMEDA_SKY_BLDG.JPG",
-    "file": "File:The model of UMEDA SKY BLDG.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -49367,23 +48229,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2015-_Fritz_Schaper%27s_sculpture_%E2%80%9DViktoria%E2%80%9D,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg",
     "file": "File:2015- Fritz Schaper's sculpture ”Viktoria”, German Historical Museum in Berlin, Germany ( Ank Kumar ) 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Model_of_the_locomotive_Saxonia_2.jpg/1280px-Model_of_the_locomotive_Saxonia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/german-historical-museum-pei-wing/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Model of the locomotive Saxonia",
-    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_locomotive_Saxonia_2.jpg",
-    "file": "File:Model of the locomotive Saxonia 2.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -49965,23 +48813,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Travels_in_Assyria_Ras_Al_Khaimah_(cropped).jpg",
     "file": "File:Travels in Assyria Ras Al Khaimah (cropped).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Perim_Island_part_plan_1928.png/1280px-Perim_Island_part_plan_1928.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/qatar-national-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 959,
-    "kind": "Plan",
-    "caption": "Plan · plan of Perim Island, Red Sea (western part)",
-    "credit": "not stated",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Perim_Island_part_plan_1928.png",
-    "file": "File:Perim Island part plan 1928.png"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -52730,23 +51564,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Japan_National_Stadium_200111b11.jpg",
     "file": "File:Japan National Stadium 200111b11.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Japan-National-Stadium-vip-area-tour_0028.jpg/1280px-Japan-National-Stadium-vip-area-tour_0028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/japan-national-stadium/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "RuinDig/Yuki Uchida",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Japan-National-Stadium-vip-area-tour_0028.jpg",
-    "file": "File:Japan-National-Stadium-vip-area-tour 0028.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -53096,36 +51916,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Foto_do_aterro_do_flamengo.jpg",
     "file": "File:Foto do aterro do flamengo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Planta_rasteira.jpg/1280px-Planta_rasteira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/flamengo-park/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Flores brancas",
-    "credit": "CamilaBatalhone",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Planta_rasteira.jpg",
-    "file": "File:Planta rasteira.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Deuche_in_Rio_de_Janeiro.jpg/1280px-Deuche_in_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/flamengo-park/thumbs/7.webp",
-    "w": 1280,
-    "h": 924,
-    "kind": "Model",
-    "caption": "Model · A 1976 Argentina made Citroën 3CV (local version of the 2CV) in Rio de Janeiro, Brazil",
-    "credit": "JasonVogel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Deuche_in_Rio_de_Janeiro.jpg",
-    "file": "File:Deuche in Rio de Janeiro.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -53414,17 +52207,15 @@ window.BUILDINGS = [
     "thumb": "images/21-21-design-sight/thumbs/6.webp",
     "w": 933,
     "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Dick Thomas Johnson  from Tokyo, Japan",
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Secret_Source_of_Inspiration_Designers%27_Hidden_Sketches_and_Mockups_(50007594948).jpg",
     "file": "File:Secret Source of Inspiration Designers' Hidden Sketches and Mockups (50007594948).jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -53634,17 +52425,15 @@ window.BUILDINGS = [
     "thumb": "images/museo-de-arte-contemporaneo-de-monterrey/thumbs/6.webp",
     "w": 787,
     "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Pequeño mar",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vista_desde_la_planta_alta_del_Museo_de_Arte_Contempor%C3%A1neo,_Monterrey,_Nuevo_Le%C3%B3n,_M%C3%A9xico.jpg",
     "file": "File:Vista desde la planta alta del Museo de Arte Contemporáneo, Monterrey, Nuevo León, México.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -54432,23 +53221,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:PAC_-_Padiglione_d%27Arte_Contemporanea_di_Milano.jpg",
     "file": "File:PAC - Padiglione d'Arte Contemporanea di Milano.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Love_Design_2009.jpg/1280px-Love_Design_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/padiglione-d-arte-contemporanea/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Bruno Cordioli  from Milano, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Love_Design_2009.jpg",
-    "file": "File:Love Design 2009.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -54810,23 +53585,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:4F%E3%83%BB3F%E8%9E%BA%E6%97%8B%E9%9A%8E%E6%AE%B5.jpg",
     "file": "File:4F・3F螺旋階段.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Katsushika_Hokusai%2C_pittura_abbreviata_facile_da_imparare%2C_1812-14_ca._02.jpg/1280px-Katsushika_Hokusai%2C_pittura_abbreviata_facile_da_imparare%2C_1812-14_ca._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sumida-hokusai-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 803,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Sailko",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Katsushika_Hokusai,_pittura_abbreviata_facile_da_imparare,_1812-14_ca._02.jpg",
-    "file": "File:Katsushika Hokusai, pittura abbreviata facile da imparare, 1812-14 ca. 02.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -58091,49 +56852,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:La_maire_de_Paris_dans_l%27auditorium_du_mus%C3%A9e_d%27Orsay_(Paris)_(49398601793).jpg",
     "file": "File:La maire de Paris dans l'auditorium du musée d'Orsay (Paris) (49398601793).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mus%C3%A9e_d%27Orsay%2C_Paris%2C_plan_of_ban_Gogh_places_in_Auvers.jpg/1280px-Mus%C3%A9e_d%27Orsay%2C_Paris%2C_plan_of_ban_Gogh_places_in_Auvers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/musee-d-orsay/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · Musée d'Orsay, Paris, plan of ban Gogh places in Auvers",
-    "credit": "Gerda Arendt",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27Orsay,_Paris,_plan_of_ban_Gogh_places_in_Auvers.jpg",
-    "file": "File:Musée d'Orsay, Paris, plan of ban Gogh places in Auvers.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Louis_hestaux%2C_modello_di_vaso_con_carpe%2C_1884_ca.JPG/1280px-Louis_hestaux%2C_modello_di_vaso_con_carpe%2C_1884_ca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/musee-d-orsay/thumbs/7.webp",
-    "w": 1022,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Graphic in the Musée d'Orsay",
-    "credit": "Sailko",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Louis_hestaux,_modello_di_vaso_con_carpe,_1884_ca.JPG",
-    "file": "File:Louis hestaux, modello di vaso con carpe, 1884 ca.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%28Albi%29_Danseuse_assise%2C_tourn%C3%A9e_vers_la_droite_-_1873_-_Edgar_Degas_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/1280px-%28Albi%29_Danseuse_assise%2C_tourn%C3%A9e_vers_la_droite_-_1873_-_Edgar_Degas_-_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/musee-d-orsay/thumbs/8.webp",
-    "w": 1280,
-    "h": 1062,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Didier Descouens",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:(Albi)_Danseuse_assise,_tourn%C3%A9e_vers_la_droite_-_1873_-_Edgar_Degas_-_Mus%C3%A9e_d%27Orsay,_Paris.jpg",
-    "file": "File:(Albi) Danseuse assise, tournée vers la droite - 1873 - Edgar Degas - Musée d'Orsay, Paris.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -58543,23 +57264,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Photographs_of_Hvittr%C3%A4sk%E2%80%99s_Interior_-_Living_Room.jpg",
     "file": "File:Photographs of Hvitträsk’s Interior - Living Room.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Olga_Gummerus-Ehrstr%C3%B6m_-_Rival_Suitors%2C_sketch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/hvittrask/thumbs/6.webp",
-    "w": 1092,
-    "h": 495,
-    "kind": "Sketch",
-    "caption": "Sketch · Sketch of the completedstained glass at Hvitträsk ",
-    "credit": "Olga Gummerus-Ehrström",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Olga_Gummerus-Ehrstr%C3%B6m_-_Rival_Suitors,_sketch.jpg",
-    "file": "File:Olga Gummerus-Ehrström - Rival Suitors, sketch.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -58961,6 +57668,18 @@ window.BUILDINGS = [
     "file": "File:Hundertwasserhaus Wien 2019.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hundertwasserhaus_Ansicht_2.jpg/1280px-Hundertwasserhaus_Ansicht_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hundertwasserhaus/thumbs/6.webp",
+    "w": 911,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hundertwasserhaus_Ansicht_2.jpg",
+    "file": "File:Hundertwasserhaus Ansicht 2.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wien%2C_Hundertwasserhaus_--_2018_--_3179.jpg/1280px-Wien%2C_Hundertwasserhaus_--_2018_--_3179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hundertwasserhaus/thumbs/4.webp",
     "w": 1120,
@@ -58983,23 +57702,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wiede%C5%84_-_Hundertwasserhaus_-_panoramio.jpg",
     "file": "File:Wiedeń - Hundertwasserhaus - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Hundertwasserhaus_Ansicht_2.jpg/1280px-Hundertwasserhaus_Ansicht_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hundertwasserhaus/thumbs/6.webp",
-    "w": 911,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Thomas Ledl",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hundertwasserhaus_Ansicht_2.jpg",
-    "file": "File:Hundertwasserhaus Ansicht 2.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -59183,6 +57888,18 @@ window.BUILDINGS = [
     "file": "File:NOR-2016-Tromsø-Arctic Cathedral (Ishavskatedralen) 01 front.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg/1280px-2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arctic-cathedral/thumbs/6.webp",
+    "w": 1280,
+    "h": 1009,
+    "kind": "Exterior",
+    "caption": "Exterior · 2010-08-02 - Tromsø - Eismeerkathedrale - Ansicht von hinten",
+    "credit": "Edgar El",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg",
+    "file": "File:2010-08-02 - Tromsø - Eismeerkathedrale - Ansicht von hinten - panoramio.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Catedral_del_%C3%81rtico%2C_Troms%C3%B8%2C_Noruega%2C_2019-09-04%2C_DD_04-06_HDR.jpg/1280px-Catedral_del_%C3%81rtico%2C_Troms%C3%B8%2C_Noruega%2C_2019-09-04%2C_DD_04-06_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/arctic-cathedral/thumbs/3.webp",
     "w": 1280,
@@ -59217,23 +57934,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:09515_Tromsdalen_church_and_bridge_(close-up)_-_Tromso,_Norway_-_V-P.jpg",
     "file": "File:09515 Tromsdalen church and bridge (close-up) - Tromso, Norway - V-P.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg/1280px-2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/arctic-cathedral/thumbs/6.webp",
-    "w": 1280,
-    "h": 1009,
-    "kind": "Elevation",
-    "caption": "Elevation · 2010-08-02 - Tromsø - Eismeerkathedrale - Ansicht von hinten",
-    "credit": "Edgar El",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2010-08-02_-_Troms%C3%B8_-_Eismeerkathedrale_-_Ansicht_von_hinten_-_panoramio.jpg",
-    "file": "File:2010-08-02 - Tromsø - Eismeerkathedrale - Ansicht von hinten - panoramio.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -59310,23 +58013,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Incidental_views_of_Harpa0.jpg",
     "file": "File:Incidental views of Harpa0.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Harpa_%E2%80%93_Plan_your_visit_%287557156826%29.jpg/1280px-Harpa_%E2%80%93_Plan_your_visit_%287557156826%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/harpa/thumbs/4.webp",
-    "w": 1280,
-    "h": 435,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Helgi Halldórsson  from Reykjavík, Iceland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Harpa_%E2%80%93_Plan_your_visit_(7557156826).jpg",
-    "file": "File:Harpa – Plan your visit (7557156826).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -59891,23 +58580,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Metropolitan_Cathedral_binnenkant.jpg",
     "file": "File:Metropolitan Cathedral binnenkant.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Model_of_Lutyens%27_design_for_the_Liverpool_Metropolitan_Cathedral_1.jpg/1280px-Model_of_Lutyens%27_design_for_the_Liverpool_Metropolitan_Cathedral_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liverpool-metropolitan-cathedral/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Model of Lutyens' design for the Liverpool Metropolitan Cathedral",
-    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Lutyens%27_design_for_the_Liverpool_Metropolitan_Cathedral_1.jpg",
-    "file": "File:Model of Lutyens' design for the Liverpool Metropolitan Cathedral 1.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -60166,23 +58841,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Moscow_MossovietGarage_X39v.jpg",
     "file": "File:Moscow MossovietGarage X39v.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Manege_Station_exhibition._New_museum_model_01.jpg/1280px-Manege_Station_exhibition._New_museum_model_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/novo-ryazanskaya-street-bus-garage/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Manege Station - Moscow transport 2030 exhibition, August 2024",
-    "credit": "Retired electrician",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manege_Station_exhibition._New_museum_model_01.jpg",
-    "file": "File:Manege Station exhibition. New museum model 01.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -60701,30 +59362,15 @@ window.BUILDINGS = [
     "thumb": "images/taipei-101/thumbs/6.webp",
     "w": 800,
     "h": 600,
-    "kind": "Section",
-    "caption": "Section",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "Naplee12",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Section_4_and_Section_5_of_Xinyi_Road_view_from_Taipei_101_20110522.jpg",
     "file": "File:Section 4 and Section 5 of Xinyi Road view from Taipei 101 20110522.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Taiwan_Taoyuan_Airport_T2_Departure_Area.JPG/1280px-Taiwan_Taoyuan_Airport_T2_Departure_Area.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/taipei-101/thumbs/7.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "KCS",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Taiwan_Taoyuan_Airport_T2_Departure_Area.JPG",
-    "file": "File:Taiwan Taoyuan Airport T2 Departure Area.JPG"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -60997,6 +59643,18 @@ window.BUILDINGS = [
     "file": "File:Atomium (T. Parnell) - Flickr.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Atomium_model_%2837281532092%29.jpg/1280px-Atomium_model_%2837281532092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atomium/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Atomium model",
+    "credit": "Ralf Steinberger  from Milan, Berlin + Munich, Italy + Germany",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atomium_model_(37281532092).jpg",
+    "file": "File:Atomium model (37281532092).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Atomium_2004_%C2%A9Marie-Fran%C3%A7oise_Plissart.jpg/1280px-Atomium_2004_%C2%A9Marie-Fran%C3%A7oise_Plissart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/atomium/thumbs/3.webp",
     "w": 1280,
@@ -61031,23 +59689,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2017-10-17-bruessel-atomium-04.jpg",
     "file": "File:2017-10-17-bruessel-atomium-04.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Atomium_model_%2837281532092%29.jpg/1280px-Atomium_model_%2837281532092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/atomium/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Atomium model",
-    "credit": "Ralf Steinberger  from Milan, Berlin + Munich, Italy + Germany",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Atomium_model_(37281532092).jpg",
-    "file": "File:Atomium model (37281532092).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -61251,23 +59895,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Scotland_(26256347088).jpg",
     "file": "File:National Museum of Scotland (26256347088).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Models_of_the_Duck_displayed_at_the_National_Museum_of_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-museum-of-scotland/thumbs/6.webp",
-    "w": 1280,
-    "h": 843,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Drnoble",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Models_of_the_Duck_displayed_at_the_National_Museum_of_Scotland.jpg",
-    "file": "File:Models of the Duck displayed at the National Museum of Scotland.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -62386,8 +61016,8 @@ window.BUILDINGS = [
     "thumb": "images/burj-khalifa/thumbs/6.webp",
     "w": 1280,
     "h": 850,
-    "kind": "Plan",
-    "caption": "Plan · Downtown Burj Khalifa",
+    "kind": "Context",
+    "caption": "Context · Downtown Burj Khalifa",
     "credit": "Citizen59  from Tunis, Tunisie",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:A_droite_le_toit_de_Duba%C3%AF_Mall_et_le_plan_d%27eau_o%C3%B9_est_organis%C3%A9_un_show_musical_tout_les_heures._(6976287969).jpg",
@@ -62398,18 +61028,15 @@ window.BUILDINGS = [
     "thumb": "images/burj-khalifa/thumbs/7.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Model",
-    "caption": "Model · Inside the Global Village in Dubai",
+    "kind": "Context",
+    "caption": "Context · Inside the Global Village in Dubai",
     "credit": "Slayym",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Global_Village_in_Dubai_February_2019.jpg",
     "file": "File:Inside the Global Village in Dubai February 2019.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -63056,23 +61683,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Kunsthaus_Graz_2022-08-03_01.jpg",
     "file": "File:Kunsthaus Graz 2022-08-03 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Grazer_Kunsthaus-Miniatur_1.jpg/1280px-Grazer_Kunsthaus-Miniatur_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kunsthaus-graz/thumbs/6.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Model",
-    "caption": "Model · Grazer Kunsthaus-Miniatur 1",
-    "credit": "Dnalor 01",
-    "license": "CC BY-SA 3.0 at",
-    "source": "https://commons.wikimedia.org/wiki/File:Grazer_Kunsthaus-Miniatur_1.jpg",
-    "file": "File:Grazer Kunsthaus-Miniatur 1.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -63805,23 +62418,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Heichal_HaSefer-The_Hall_of_the_Book-4_(7053432625).jpg",
     "file": "File:Heichal HaSefer-The Hall of the Book-4 (7053432625).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Jerusalem_%28997009326453605171.jpg/1280px-Jerusalem_%28997009326453605171.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shrine-of-the-book/thumbs/6.webp",
-    "w": 1280,
-    "h": 1256,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Boris Carmi",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jerusalem_(997009326453605171.jpg",
-    "file": "File:Jerusalem (997009326453605171.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -65164,23 +63763,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Second_station_of_the_tour,_Moscow,_here_at_the_Red_Square._The_Russia_Hall_was_sold_out.jpg",
     "file": "File:Second station of the tour, Moscow, here at the Red Square. The Russia Hall was sold out.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/1998_%D0%9C%D0%90%D0%92%D0%97%D0%9E%D0%9B%D0%95%D0%99_INet.jpg/1280px-1998_%D0%9C%D0%90%D0%92%D0%97%D0%9E%D0%9B%D0%95%D0%99_INet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lenin-s-mausoleum/thumbs/6.webp",
-    "w": 1280,
-    "h": 570,
-    "kind": "Model",
-    "caption": "Model · Mausoleum: ritual model",
-    "credit": "Ю.Л. Шабельников ,  Ю.И. Фесенко",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1998_%D0%9C%D0%90%D0%92%D0%97%D0%9E%D0%9B%D0%95%D0%99_INet.jpg",
-    "file": "File:1998 МАВЗОЛЕЙ INet.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -66222,36 +64807,10 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce,_de_l%27Industrie_-_Plan_d%27ensemble,_PPL80(7).jpg",
     "file": "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(7).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Atelier_du_bless%C3%A9_-_Section_du_Grand_Palais.jpg/1280px-Atelier_du_bless%C3%A9_-_Section_du_Grand_Palais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-palais/thumbs/7.webp",
-    "w": 1280,
-    "h": 826,
-    "kind": "Section",
-    "caption": "Section · Photographie par Omanet 60",
-    "credit": "Guy-Pierre Fauconnet",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Atelier_du_bless%C3%A9_-_Section_du_Grand_Palais.jpg",
-    "file": "File:Atelier du blessé - Section du Grand Palais.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Histoire_des_Arts_%C3%A0_travers_les_%C3%82ges._%28Partie_de_droite_-_rep%C3%A8res_-42_%C3%A0_-31_-_Renaissance%2C_Femme_couronn%C3%A9e_%3B_Italie-Pise_-_d%C3%A9tail_-_Personnages_derri%C3%A8re_le_char_-_homme_en_capuche%29_-_dessin_-_btv1b53095106s.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-palais/thumbs/8.webp",
-    "w": 1280,
-    "h": 729,
-    "kind": "Drawing",
-    "caption": "Drawing · Sujet : Blanc, Joseph (1846-1904)",
-    "credit": "Blanc, Joseph (1846-1904). Dessinateur du modèle",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Histoire_des_Arts_%C3%A0_travers_les_%C3%82ges._(Partie_de_droite_-_rep%C3%A8res_-42_%C3%A0_-31_-_Renaissance,_Femme_couronn%C3%A9e_;_Italie-Pise_-_d%C3%A9tail_-_Personnages_derri%C3%A8re_le_char_-_homme_en_capuche)_-_dessin_-_btv1b53095106s.jpg",
-    "file": "File:Histoire des Arts à travers les Âges. (Partie de droite - repères -42 à -31 - Renaissance, Femme couronnée ; Italie-Pise - détail - Personnages derrière le char - homme en capuche) - dessin - btv1b53095106s.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Section",
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -66525,23 +65084,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wooden_bust_of_Edwin_Lutyens_at_the_V%26A,_August_2021_1.jpg",
     "file": "File:Wooden bust of Edwin Lutyens at the V&A, August 2021 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Soviet_Union_1981_CPA_5256_souvenir_sheet_%28Inauguration_of_Tropospheric_Communications_Link_between_USSR_and_India._Spasskaya_Tower%2C_Moscow_and_President%27s_House%2C_New_Delhi%29_1200dpi.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rashtrapati-bhavan/thumbs/6.webp",
-    "w": 1280,
-    "h": 715,
-    "kind": "Model",
-    "caption": "Model · Inauguration of Tropospheric Communications Link between USSR and India ",
-    "credit": "USSR Post (рисунок  Г. Комлева ).",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1981_CPA_5256_souvenir_sheet_(Inauguration_of_Tropospheric_Communications_Link_between_USSR_and_India._Spasskaya_Tower,_Moscow_and_President%27s_House,_New_Delhi)_1200dpi.jpg",
-    "file": "File:The Soviet Union 1981 CPA 5256 souvenir sheet (Inauguration of Tropospheric Communications Link between USSR and India. Spasskaya Tower, Moscow and President's House, New Delhi) 1200dpi.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -66618,36 +65163,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Khayyam_tomb.jpg",
     "file": "File:Khayyam tomb.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Model_of_Iranian_buildings_at_Tehran_railway_station%2C_February_2022_-_01.jpg/1280px-Model_of_Iranian_buildings_at_Tehran_railway_station%2C_February_2022_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/omar-khayyam-mausoleum/thumbs/4.webp",
-    "w": 1280,
-    "h": 577,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Maometto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Iranian_buildings_at_Tehran_railway_station,_February_2022_-_01.jpg",
-    "file": "File:Model of Iranian buildings at Tehran railway station, February 2022 - 01.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/At_the_Tomb_of_Omar_Khayyam_-_by_Jay_Hambidge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/omar-khayyam-mausoleum/thumbs/5.webp",
-    "w": 567,
-    "h": 856,
-    "kind": "Drawing",
-    "caption": "Drawing · \"At the Tomb of Omar Khayyám \"",
-    "credit": "Jay Hambidge",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:At_the_Tomb_of_Omar_Khayyam_-_by_Jay_Hambidge.jpg",
-    "file": "File:At the Tomb of Omar Khayyam - by Jay Hambidge.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -66726,6 +65244,18 @@ window.BUILDINGS = [
     "file": "File:'Paradigm' by Jon Barlow Hudson.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg/1280px-Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/state-library-of-queensland/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Access and Inclusion Plan cover photo shoot State Library of Queensland South Brisbane",
+    "credit": "John Robert McPherson",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg",
+    "file": "File:Access and Inclusion Plan cover photo shoot State Library of Queensland South Brisbane P1200054.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Atrium_of_State_Library_of_Queensland%2C_2026%2C_01.jpg/1280px-Atrium_of_State_Library_of_Queensland%2C_2026%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/state-library-of-queensland/thumbs/4.webp",
     "w": 1280,
@@ -66748,23 +65278,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_State_Library_of_Queensland,_2026,_03.jpg",
     "file": "File:Atrium of State Library of Queensland, 2026, 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg/1280px-Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/state-library-of-queensland/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · Access and Inclusion Plan cover photo shoot State Library of Queensland South Brisbane",
-    "credit": "John Robert McPherson",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Access_and_Inclusion_Plan_cover_photo_shoot_State_Library_of_Queensland_South_Brisbane_P1200054.jpg",
-    "file": "File:Access and Inclusion Plan cover photo shoot State Library of Queensland South Brisbane P1200054.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -67592,6 +66108,18 @@ window.BUILDINGS = [
     "file": "File:DoorWindowAnahuacalli.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg/1280px-Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/anahuacalli-museum/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Altar de arte prehispánico y mosaicos en plafón Planta Baja",
+    "credit": "Nicole Valenzuela Mejía",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg",
+    "file": "File:Altar de arte prehispánico y mosaicos en plafón Planta Baja.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/DoorRoofAnahuacalli.JPG/1280px-DoorRoofAnahuacalli.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/anahuacalli-museum/thumbs/5.webp",
     "w": 937,
@@ -67602,23 +66130,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:DoorRoofAnahuacalli.JPG",
     "file": "File:DoorRoofAnahuacalli.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg/1280px-Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/anahuacalli-museum/thumbs/6.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Altar de arte prehispánico y mosaicos en plafón Planta Baja",
-    "credit": "Nicole Valenzuela Mejía",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Altar_de_arte_prehisp%C3%A1nico_y_mosaicos_en_plaf%C3%B3n_Planta_Baja.jpg",
-    "file": "File:Altar de arte prehispánico y mosaicos en plafón Planta Baja.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -68691,23 +67205,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Lucien_Decheneaux_in_1924_by_Jack_Cato.jpg",
     "file": "File:Lucien Decheneaux in 1924 by Jack Cato.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Annibale_Carracci_-_Study_for_an_ignudo_-_Google_Art_Project.jpg/1280px-Annibale_Carracci_-_Study_for_an_ignudo_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-gallery-of-victoria/thumbs/6.webp",
-    "w": 1204,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Annibale Carracci",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Study_for_an_ignudo_-_Google_Art_Project.jpg",
-    "file": "File:Annibale Carracci - Study for an ignudo - Google Art Project.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -69117,36 +67617,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Museo_Soumaya_Plaza_Loreto_(Interior_1).jpg",
     "file": "File:Museo Soumaya Plaza Loreto (Interior 1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Marc_Chagall._Secci%C3%B3n_de_Vanguardias_en_el_Museo_Soumaya.jpg/1280px-Marc_Chagall._Secci%C3%B3n_de_Vanguardias_en_el_Museo_Soumaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-soumaya/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section · Fotografía tomada de las obras de Marc Chagall, que se encuentran en el acervo del Museo Soumaya",
-    "credit": "OliAzor",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marc_Chagall._Secci%C3%B3n_de_Vanguardias_en_el_Museo_Soumaya.jpg",
-    "file": "File:Marc Chagall. Sección de Vanguardias en el Museo Soumaya.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Model_of_the_Palace_of_Miner%C3%ADa_%281797%29_by_Manuel_Tols%C3%A1_-_Museo_Soumaya_-_Mexico_2024.jpg/1280px-Model_of_the_Palace_of_Miner%C3%ADa_%281797%29_by_Manuel_Tols%C3%A1_-_Museo_Soumaya_-_Mexico_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-soumaya/thumbs/7.webp",
-    "w": 1280,
-    "h": 606,
-    "kind": "Model",
-    "caption": "Model · Model of the Palace of Minería (1797) by Manuel Tolsá - Museo Soumaya - Mexico",
-    "credit": "José Luiz",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Palace_of_Miner%C3%ADa_(1797)_by_Manuel_Tols%C3%A1_-_Museo_Soumaya_-_Mexico_2024.jpg",
-    "file": "File:Model of the Palace of Minería (1797) by Manuel Tolsá - Museo Soumaya - Mexico 2024.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -70363,18 +68836,6 @@ window.BUILDINGS = [
     "file": "File:Oita OPAM 2.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Kaka-chikujin%28rough_sketch%29_by_Katada_Tokur%C5%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/oita-prefectural-art-museum/thumbs/4.webp",
-    "w": 486,
-    "h": 700,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Katada Tokurō（1889－1934）",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Kaka-chikujin(rough_sketch)_by_Katada_Tokur%C5%8D.jpg",
-    "file": "File:Kaka-chikujin(rough sketch) by Katada Tokurō.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oita_OPAM_model.jpg/1280px-Oita_OPAM_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/oita-prefectural-art-museum/thumbs/5.webp",
     "w": 1280,
@@ -70388,7 +68849,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Sketch",
    "Model"
   ],
   "gv": 3
@@ -71039,18 +69499,6 @@ window.BUILDINGS = [
     "file": "File:CityHallMarriageRegistry.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/HK_%E4%B8%AD%E7%92%B0_Central_%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%9C%83%E5%A0%82_City_Hall_lower_block_grand_theater_hall_floor_plan_sign_September_2023_SS2.jpg/1280px-HK_%E4%B8%AD%E7%92%B0_Central_%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%9C%83%E5%A0%82_City_Hall_lower_block_grand_theater_hall_floor_plan_sign_September_2023_SS2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hong-kong-city-hall/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "TERPERCIALOA 200",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%9C%83%E5%A0%82_City_Hall_lower_block_grand_theater_hall_floor_plan_sign_September_2023_SS2.jpg",
-    "file": "File:HK 中環 Central 香港大會堂 City Hall lower block grand theater hall floor plan sign September 2023 SS2.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_TST_HKHDC_%E9%A6%99%E6%B8%AF%E6%96%87%E7%89%A9%E6%8E%A2%E7%9F%A5%E9%A4%A8_Hong_Kong_Heritage_Discovery_Centre_-_exhibit_building_model_City_Hall_Aug-2013.JPG/1280px-HK_TST_HKHDC_%E9%A6%99%E6%B8%AF%E6%96%87%E7%89%A9%E6%8E%A2%E7%9F%A5%E9%A4%A8_Hong_Kong_Heritage_Discovery_Centre_-_exhibit_building_model_City_Hall_Aug-2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hong-kong-city-hall/thumbs/5.webp",
     "w": 1280,
@@ -71064,7 +69512,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Model"
   ],
   "gv": 3
@@ -71543,23 +69990,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:%EA%B8%88%EB%8F%99%EB%AF%B8%EB%A5%B5%EB%B3%B4%EC%82%B4%EB%B0%98%EA%B0%80%EC%82%AC%EC%9C%A0%EC%83%81_(%EA%B5%AD%EB%B3%B4_%EC%A0%9C118%ED%98%B8).jpg",
     "file": "File:금동미륵보살반가사유상 (국보 제118호).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Drakee.jpg/1280px-Drakee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leeum-samsung-museum-of-art/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · From Leeum, Samsung Museum of Art, a fantastic art museum near Itaewon",
-    "credit": "Eric Drake",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Drakee.jpg",
-    "file": "File:Drakee.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -72086,23 +70519,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Malfunctioning_Baggage_Information_Information_Display_System_at_Baggage_Carousel_M_at_Kuala_Lumpur_International_Airport.jpg",
     "file": "File:Malfunctioning Baggage Information Information Display System at Baggage Carousel M at Kuala Lumpur International Airport.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Model_of_a_capsule_hotel_at_the_second_floor_of_KLIA2_terminal.jpg/1280px-Model_of_a_capsule_hotel_at_the_second_floor_of_KLIA2_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kuala-lumpur-international-airport/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Model of a capsule hotel at the second floor of KLIA2 terminal",
-    "credit": "Cerevisae",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_a_capsule_hotel_at_the_second_floor_of_KLIA2_terminal.jpg",
-    "file": "File:Model of a capsule hotel at the second floor of KLIA2 terminal.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -73478,6 +71897,18 @@ window.BUILDINGS = [
     "file": "File:Underpass at the Central Station in Helsinki, Finland, 2021.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Exterior_of_the_Central_Station_in_Helsinki%2C_Finland%2C_1938.jpg/1280px-Exterior_of_the_Central_Station_in_Helsinki%2C_Finland%2C_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-central-station/thumbs/7.webp",
+    "w": 1280,
+    "h": 824,
+    "kind": "Exterior",
+    "caption": "Exterior · Itäinen Heikinkatu 13, 15 (Mannerheimintie 9), näkymä Hankkijan liiketalon katolta",
+    "credit": "unknown",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Central_Station_in_Helsinki,_Finland,_1938.jpg",
+    "file": "File:Exterior of the Central Station in Helsinki, Finland, 1938.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Half-empty_interior_of_the_Central_Station_in_Helsinki%2C_Finland_during_the_COVID-19_pandemic%2C_2020_April.jpg/1280px-Half-empty_interior_of_the_Central_Station_in_Helsinki%2C_Finland_during_the_COVID-19_pandemic%2C_2020_April.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/helsinki-central-station/thumbs/4.webp",
     "w": 1280,
@@ -73512,23 +71943,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Helsingin_rautatieasema_-_pohjapiirustus.jpg",
     "file": "File:Helsingin rautatieasema - pohjapiirustus.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Exterior_of_the_Central_Station_in_Helsinki%2C_Finland%2C_1938.jpg/1280px-Exterior_of_the_Central_Station_in_Helsinki%2C_Finland%2C_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/helsinki-central-station/thumbs/7.webp",
-    "w": 1280,
-    "h": 824,
-    "kind": "Model",
-    "caption": "Model · Itäinen Heikinkatu 13, 15 (Mannerheimintie 9), näkymä Hankkijan liiketalon katolta",
-    "credit": "unknown",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Central_Station_in_Helsinki,_Finland,_1938.jpg",
-    "file": "File:Exterior of the Central Station in Helsinki, Finland, 1938.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -73630,23 +72048,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Latvijas_un_Ukrainas_karogs_Latvijas_Nacion%C4%81l%C4%81s_bibliot%C4%93kas_priek%C5%A1telp%C4%81.jpg",
     "file": "File:Latvijas un Ukrainas karogs Latvijas Nacionālās bibliotēkas priekštelpā.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Plan_of_the_Spilve_Battle_of_9_July_1701.jpg/1280px-Plan_of_the_Spilve_Battle_of_9_July_1701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-library-of-latvia/thumbs/6.webp",
-    "w": 953,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Abbildung des Düna-Stroms, wie König Carl der Zwölfte von Schweden am 9",
-    "credit": "Sketch by Z. von Wolff; copied by Joh. Dallin; engraved by G. C. Pingeling",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_the_Spilve_Battle_of_9_July_1701.jpg",
-    "file": "File:Plan of the Spilve Battle of 9 July 1701.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -73953,23 +72357,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Praha,_Vinohrady,_chr%C3%A1m_Nejv%C4%9Bt%C4%9Bj%C5%A1%C3%ADho_srdce_P%C3%A1n%C4%9B,_v%C4%9B%C5%BE.jpg",
     "file": "File:Praha, Vinohrady, chrám Největějšího srdce Páně, věž.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Zasv%C4%9Bcen%C3%A9_panny%2C_n%C3%A1m%C4%9Bst%C3%AD_Ji%C5%99%C3%ADho_z_Pod%C4%9Bbrad%2C_imgp5974_%282016-10%29.jpg/1280px-Zasv%C4%9Bcen%C3%A9_panny%2C_n%C3%A1m%C4%9Bst%C3%AD_Ji%C5%99%C3%ADho_z_Pod%C4%9Bbrad%2C_imgp5974_%282016-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/church-of-the-most-sacred-heart-of-our-lord/thumbs/6.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Elevation",
-    "caption": "Elevation · náměstí Jiřího z Poděbrad, George of Poděbrady Square, Prague, 2016",
-    "credit": "Jiří Bubeníček",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Zasv%C4%9Bcen%C3%A9_panny,_n%C3%A1m%C4%9Bst%C3%AD_Ji%C5%99%C3%ADho_z_Pod%C4%9Bbrad,_imgp5974_(2016-10).jpg",
-    "file": "File:Zasvěcené panny, náměstí Jiřího z Poděbrad, imgp5974 (2016-10).jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -74470,23 +72860,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Exhibition_Plein_Air_Snowy_Summer_22.01.2015_National_Library_of_Belarus_Grigory_Nesterov.jpg",
     "file": "File:Exhibition Plein Air Snowy Summer 22.01.2015 National Library of Belarus Grigory Nesterov.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Horadnia%2C_Ka%C5%82o%C5%BEa._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%9A%D0%B0%D0%BB%D0%BE%D0%B6%D0%B0_%28J._Sado%C5%ADski%2C_C._Weyerman%2C_1873-89%29.jpg/1280px-Horadnia%2C_Ka%C5%82o%C5%BEa._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F%2C_%D0%9A%D0%B0%D0%BB%D0%BE%D0%B6%D0%B0_%28J._Sado%C5%ADski%2C_C._Weyerman%2C_1873-89%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-library-of-belarus/thumbs/6.webp",
-    "w": 1280,
-    "h": 963,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Horadnia,_Ka%C5%82o%C5%BEa._%D0%93%D0%BE%D1%80%D0%B0%D0%B4%D0%BD%D1%8F,_%D0%9A%D0%B0%D0%BB%D0%BE%D0%B6%D0%B0_(J._Sado%C5%ADski,_C._Weyerman,_1873-89).jpg",
-    "file": "File:Horadnia, Kałoža. Горадня, Каложа (J. Sadoŭski, C. Weyerman, 1873-89).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -74745,49 +73121,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_first_level_is_dedicated_to_sculpture_(30404811618).jpg",
     "file": "File:The first level is dedicated to sculpture (30404811618).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/A_section_of_the_museum_dealing_in_Thangka_paintings_%2843554554734%29.jpg/1280px-A_section_of_the_museum_dealing_in_Thangka_paintings_%2843554554734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/government-museum-and-art-gallery/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Section",
-    "caption": "Section · One section of art in the Government Museum and Art Gallery in Chandigarh deals with Thangka paintings",
-    "credit": "shankar s.  from Poona (pune), India, India",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_section_of_the_museum_dealing_in_Thangka_paintings_(43554554734).jpg",
-    "file": "File:A section of the museum dealing in Thangka paintings (43554554734).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chandigarh_-_Le_Corbusier_-_Museum_-_front_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/government-museum-and-art-gallery/thumbs/7.webp",
-    "w": 506,
-    "h": 782,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Nicholas.iyadurai",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chandigarh_-_Le_Corbusier_-_Museum_-_front_elevation.jpg",
-    "file": "File:Chandigarh - Le Corbusier - Museum - front elevation.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Vatapatrashayi_Miniature_of_Lord_Krishna_from_Nathdwara%2C_Rajasthan_housed_in_the_Government_Museum_and_Art_Gallery%2C_Chandigarh._ACC_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/government-museum-and-art-gallery/thumbs/8.webp",
-    "w": 1003,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "SpeakingArch",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vatapatrashayi_Miniature_of_Lord_Krishna_from_Nathdwara,_Rajasthan_housed_in_the_Government_Museum_and_Art_Gallery,_Chandigarh._ACC_100.jpg",
-    "file": "File:Vatapatrashayi Miniature of Lord Krishna from Nathdwara, Rajasthan housed in the Government Museum and Art Gallery, Chandigarh. ACC 100.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Elevation",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -77521,6 +75857,18 @@ window.BUILDINGS = [
     "file": "File:Torre Cepsa (nocturno).JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Torre_Caja_Madrid%2C_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_%283990407019%29.jpg/1280px-Torre_Caja_Madrid%2C_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_%283990407019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-cepsa/thumbs/6.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Caja Madrid, vista desde la planta 50 de la Torre Sacyr Vallehermoso",
+    "credit": "Álvaro Ibáñez  from Madrid, Spain",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Caja_Madrid,_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_(3990407019).jpg",
+    "file": "File:Torre Caja Madrid, vista desde la planta 50 de la Torre Sacyr Vallehermoso (3990407019).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Madrid_-_CTBA%2C_Torre_Cepsa_%28Torre_Foster%29_05.jpg/1280px-Madrid_-_CTBA%2C_Torre_Cepsa_%28Torre_Foster%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/torre-cepsa/thumbs/4.webp",
     "w": 1280,
@@ -77543,23 +75891,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Detail_of_one_of_the_4_towers_in_Madrid_-_Spain_-_panoramio.jpg",
     "file": "File:Detail of one of the 4 towers in Madrid - Spain - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Torre_Caja_Madrid%2C_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_%283990407019%29.jpg/1280px-Torre_Caja_Madrid%2C_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_%283990407019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/torre-cepsa/thumbs/6.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Torre Caja Madrid, vista desde la planta 50 de la Torre Sacyr Vallehermoso",
-    "credit": "Álvaro Ibáñez  from Madrid, Spain",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Torre_Caja_Madrid,_vista_desde_la_planta_50_de_la_Torre_Sacyr_Vallehermoso_(3990407019).jpg",
-    "file": "File:Torre Caja Madrid, vista desde la planta 50 de la Torre Sacyr Vallehermoso (3990407019).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -77763,23 +76097,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2014_-_Puerta_de_Europa_(Door_of_Europe)_Twin_Towers,_Madrid,_Spain_(_Ank_Kumar_)_01.jpg",
     "file": "File:2014 - Puerta de Europa (Door of Europe) Twin Towers, Madrid, Spain ( Ank Kumar ) 01.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Puerta-de-interior-modelo-provenzal-pino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/gate-of-europe/thumbs/6.webp",
-    "w": 500,
-    "h": 800,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Claudianasdjkxnasjidxnkaxdn ajsk",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Puerta-de-interior-modelo-provenzal-pino.jpg",
-    "file": "File:Puerta-de-interior-modelo-provenzal-pino.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -82204,8 +80524,8 @@ window.BUILDINGS = [
     "thumb": "images/tokyo-skytree/thumbs/6.webp",
     "w": 373,
     "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Tokyo Sky Tree - Silhouette & Cross section: Mostly self drawn image",
+    "kind": "Elevation",
+    "caption": "Elevation · Tokyo Sky Tree - Silhouette & Cross section: Mostly self drawn image",
     "credit": "Namazu-tron",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Sky_Tree_-_Silhouette_%26_Cross_section.jpg",
@@ -82225,7 +80545,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Section",
+   "Elevation",
    "Model"
   ],
   "gv": 3
@@ -84148,6 +82468,18 @@ window.BUILDINGS = [
     "file": "File:Toronto - ON - Schaft des CN Tower.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Toronto_-_ON_-_CN_Tower_Turmkorb_Goldener_Schnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/cn-tower/thumbs/7.webp",
+    "w": 812,
+    "h": 778,
+    "kind": "Exterior",
+    "caption": "Exterior · Demobild",
+    "credit": "–  Wladyslaw    [Disk.]",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_Turmkorb_Goldener_Schnitt.jpg",
+    "file": "File:Toronto - ON - CN Tower Turmkorb Goldener Schnitt.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg/1280px-Toronto_-_ON_-_CN_Tower_-_Mainpod_Freiluftplattform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cn-tower/thumbs/3.webp",
     "w": 1280,
@@ -84184,30 +82516,6 @@ window.BUILDINGS = [
     "file": "File:CN Tower, Toronto, Ontario, 2025-08-25 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/CN_Tower_Fire_Escape_Plan%2C_SkyPod%2C_CN_Tower%2C_Toronto%2C_Ontario_%2829919922051%29.jpg/1280px-CN_Tower_Fire_Escape_Plan%2C_SkyPod%2C_CN_Tower%2C_Toronto%2C_Ontario_%2829919922051%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cn-tower/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Ken Lund  from Reno, Nevada, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:CN_Tower_Fire_Escape_Plan,_SkyPod,_CN_Tower,_Toronto,_Ontario_(29919922051).jpg",
-    "file": "File:CN Tower Fire Escape Plan, SkyPod, CN Tower, Toronto, Ontario (29919922051).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Toronto_-_ON_-_CN_Tower_Turmkorb_Goldener_Schnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/cn-tower/thumbs/7.webp",
-    "w": 812,
-    "h": 778,
-    "kind": "Section",
-    "caption": "Section · Demobild",
-    "credit": "–  Wladyslaw    [Disk.]",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_Turmkorb_Goldener_Schnitt.jpg",
-    "file": "File:Toronto - ON - CN Tower Turmkorb Goldener Schnitt.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/CN_Tower_Turmkorb-Modell-blau.png/1280px-CN_Tower_Turmkorb-Modell-blau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cn-tower/thumbs/8.webp",
     "w": 1280,
@@ -84221,8 +82529,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
-   "Section",
    "Model"
   ],
   "gv": 3
@@ -86063,23 +84369,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Peking_Gro%C3%9Fe_Halle_des_Volkes_bei_Nacht-20110102-RM-211219.jpg",
     "file": "File:Peking Große Halle des Volkes bei Nacht-20110102-RM-211219.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/China_10th_Anniversary_Parade_in_Beijing_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/great-hall-of-the-people/thumbs/4.webp",
-    "w": 750,
-    "h": 430,
-    "kind": "Model",
-    "caption": "Model · China 10th Anniversary Parade in Beijing",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:China_10th_Anniversary_Parade_in_Beijing_07.jpg",
-    "file": "File:China 10th Anniversary Parade in Beijing 07.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -87657,6 +85949,18 @@ window.BUILDINGS = [
     "file": "File:Bialystok swRoch fc02.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-roch-s-church/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Białystok, Kościół św",
+    "credit": "Marcin Idźkowski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha,_plan_og%C3%B3lny.jpg",
+    "file": "File:Kościół św. Rocha, plan ogólny.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Saint_Roch_church_Bialystok_%282%29.jpg/1280px-Saint_Roch_church_Bialystok_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/st-roch-s-church/thumbs/4.webp",
     "w": 1050,
@@ -87679,23 +85983,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bazylika_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_1.jpg",
     "file": "File:Bazylika św. Rocha w Białymstoku 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-roch-s-church/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Białystok, Kościół św",
-    "credit": "Marcin Idźkowski",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha,_plan_og%C3%B3lny.jpg",
-    "file": "File:Kościół św. Rocha, plan ogólny.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -88693,23 +86983,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Macao_Science_Center_inside_05-09-2023(10).jpg",
     "file": "File:Macao Science Center inside 05-09-2023(10).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Macao_Science_Center_exhibition_model_05-09-2023%281%29.jpg/1280px-Macao_Science_Center_exhibition_model_05-09-2023%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/macao-science-center/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "LN9267",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Macao_Science_Center_exhibition_model_05-09-2023(1).jpg",
-    "file": "File:Macao Science Center exhibition model 05-09-2023(1).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -91044,23 +89320,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hammond_Slides_MGU.jpg",
     "file": "File:Hammond Slides MGU.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Model_on_MSU_new_building.jpg/1280px-Model_on_MSU_new_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/moscow-state-university-main-building/thumbs/6.webp",
-    "w": 939,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Boris Ignatovich",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_on_MSU_new_building.jpg",
-    "file": "File:Model on MSU new building.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -91525,23 +89787,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Australian_National_Maritime_Museum,_2017_(05).jpg",
     "file": "File:Australian National Maritime Museum, 2017 (05).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Maritime_Museum_%286181891181%29.jpg/1280px-Maritime_Museum_%286181891181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/australian-national-maritime-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Sydney's Maritime Museum",
-    "credit": "Miguel Mendez  from Malahide, Ireland",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maritime_Museum_(6181891181).jpg",
-    "file": "File:Maritime Museum (6181891181).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -92632,8 +90880,8 @@ window.BUILDINGS = [
     "thumb": "images/matrimandir/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section · Replica of inside view of Mathri Mandir",
+    "kind": "Model",
+    "caption": "Model · Replica of inside view of Mathri Mandir",
     "credit": "Ashok Vootla",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cross-section_of_Mathri_Mandri.jpg",
@@ -92653,7 +90901,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Section",
    "Model"
   ],
   "gv": 3
@@ -92976,23 +91223,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Commune_et_Place_d%27Youville,_vue_du_mus%C3%A9e_Pointe-%C3%A0-Calli%C3%A8re,_2018-01-06.jpg",
     "file": "File:Rue de la Commune et Place d'Youville, vue du musée Pointe-à-Callière, 2018-01-06.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Maquette_du_village_d%27Hochelaga.jpg/1280px-Maquette_du_village_d%27Hochelaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pointe-a-calliere-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 953,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Pierre5018",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquette_du_village_d%27Hochelaga.jpg",
-    "file": "File:Maquette du village d'Hochelaga.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -93291,6 +91524,18 @@ window.BUILDINGS = [
     "file": "File:Cathédrale Saint-Paul 2.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg/1280px-Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-paul-s-cathedral-abidjan/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Cathédrale Saint Paul du Plateau Abidjan Côte d'Ivoire",
+    "credit": "Jean Yves ESSIGAN",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg",
+    "file": "File:Gros Plan arrière du Symbole de la Croix du Christ de la Cathédrale Saint Paul du Plateau.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Cath%C3%A9drale_Saint-Paul_d%27Abidjan_-_vitraux.jpg/1280px-Cath%C3%A9drale_Saint-Paul_d%27Abidjan_-_vitraux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/st-paul-s-cathedral-abidjan/thumbs/4.webp",
     "w": 1280,
@@ -93313,23 +91558,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Paul_d%27Abidjan_-_vue_centrale_int%C3%A9rieure.jpg",
     "file": "File:Cathédrale Saint-Paul d'Abidjan - vue centrale intérieure.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg/1280px-Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-paul-s-cathedral-abidjan/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Plan",
-    "caption": "Plan · Cathédrale Saint Paul du Plateau Abidjan Côte d'Ivoire",
-    "credit": "Jean Yves ESSIGAN",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gros_Plan_arri%C3%A8re_du_Symbole_de_la_Croix_du_Christ_de_la_Cath%C3%A9drale_Saint_Paul_du_Plateau.jpg",
-    "file": "File:Gros Plan arrière du Symbole de la Croix du Christ de la Cathédrale Saint Paul du Plateau.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -93430,23 +91661,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Expo_2010_Beijing_Exhibit,_China_Pavilion_-_Doorway_1.jpg",
     "file": "File:Expo 2010 Beijing Exhibit, China Pavilion - Doorway 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Expo_2010_Beijing_Exhibit%2C_China_Pavilion_-_Model_of_2008_Olympic_%22Bird%27s_Nest%22.jpg/1280px-Expo_2010_Beijing_Exhibit%2C_China_Pavilion_-_Model_of_2008_Olympic_%22Bird%27s_Nest%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/china-pavilion-expo-2010/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Shanghai Expo 2010 World's Fair",
-    "credit": "Gary Lee Todd, Ph.D.",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Expo_2010_Beijing_Exhibit,_China_Pavilion_-_Model_of_2008_Olympic_%22Bird%27s_Nest%22.jpg",
-    "file": "File:Expo 2010 Beijing Exhibit, China Pavilion - Model of 2008 Olympic \"Bird's Nest\".jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -93796,23 +92013,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Entry_foyer_of_the_AWM_March_2026.jpg",
     "file": "File:Entry foyer of the AWM March 2026.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Operation_Quickstep_section_of_the_roll_of_honour_at_the_Australian_War_Memorial.jpg/1280px-Operation_Quickstep_section_of_the_roll_of_honour_at_the_Australian_War_Memorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/australian-war-memorial/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Nick-D",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Operation_Quickstep_section_of_the_roll_of_honour_at_the_Australian_War_Memorial.jpg",
-    "file": "File:Operation Quickstep section of the roll of honour at the Australian War Memorial.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -94668,17 +92871,15 @@ window.BUILDINGS = [
     "thumb": "images/manila-metropolitan-theater/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section · Manila",
+    "kind": "Context",
+    "caption": "Context · Manila",
     "credit": "Patrickroque01",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Manila_city_center,_Post_Office_drone_(Manila;_09-06-2025).jpg",
     "file": "File:Manila city center, Post Office drone (Manila; 09-06-2025).jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -95905,23 +94106,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Plano_del_Museo_de_Antropologia_de_Mexico.png",
     "file": "File:Plano del Museo de Antropologia de Mexico.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Detalle_de_la_maqueta_del_L%C3%ADtico_en_el_Museo_Nacional_de_Antropolog%C3%ADa.jpg/1280px-Detalle_de_la_maqueta_del_L%C3%ADtico_en_el_Museo_Nacional_de_Antropolog%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-anthropology/thumbs/7.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Model",
-    "caption": "Model · Detalle de una de las maquetas realizadas para el Museo Nacional de Antropología",
-    "credit": "Mario Yaír TS",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Detalle_de_la_maqueta_del_L%C3%ADtico_en_el_Museo_Nacional_de_Antropolog%C3%ADa.jpg",
-    "file": "File:Detalle de la maqueta del Lítico en el Museo Nacional de Antropología.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -97042,23 +95230,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Alexanderplatz_Stadtmodell_1.jpg",
     "file": "File:Alexanderplatz Stadtmodell 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_Funkturm_-_%28DDR%29_-_Deutsche_Post_-_Sonderpostwertzeichenheft_-_Bild_002.jpg/1280px-Berlin_Funkturm_-_%28DDR%29_-_Deutsche_Post_-_Sonderpostwertzeichenheft_-_Bild_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fernsehturm-berlin/thumbs/7.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · +Berlin Funkturm - (DDR) - Deutsche Post - Sonderpostwertzeichenheft - Bild 002",
-    "credit": "Lupus in Saxonia",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Berlin_Funkturm_-_(DDR)_-_Deutsche_Post_-_Sonderpostwertzeichenheft_-_Bild_002.jpg",
-    "file": "File:Berlin Funkturm - (DDR) - Deutsche Post - Sonderpostwertzeichenheft - Bild 002.jpg"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -97366,23 +95541,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Culture_and_Science,_Warsaw,_seen_from_above.jpg",
     "file": "File:Palace of Culture and Science, Warsaw, seen from above.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Flickr_-_europeanpeoplesparty_-_EPP_Congress_Warsaw_%281178%29.jpg/1280px-Flickr_-_europeanpeoplesparty_-_EPP_Congress_Warsaw_%281178%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-culture-and-science/thumbs/6.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Plan",
-    "caption": "Plan · EPP Congress Warsaw",
-    "credit": "European People's Party",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_europeanpeoplesparty_-_EPP_Congress_Warsaw_(1178).jpg",
-    "file": "File:Flickr - europeanpeoplesparty - EPP Congress Warsaw (1178).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -97461,6 +95622,18 @@ window.BUILDINGS = [
     "file": "File:Glasgow Museum of Transport Riverside Museum 190826 - 55491086342.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg/1280px-Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riverside-museum/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Glasgow",
+    "credit": "Daniel Naczk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg",
+    "file": "File:Glasgow. Riverside Museum. Detail of south elevation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Inside_the_Riverside_Museum_%2855499042367%29.jpg/1280px-Inside_the_Riverside_Museum_%2855499042367%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/riverside-museum/thumbs/4.webp",
     "w": 1280,
@@ -97483,36 +95656,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Riverside_Museum_(55499043412).jpg",
     "file": "File:Inside the Riverside Museum (55499043412).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg/1280px-Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riverside-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Glasgow",
-    "credit": "Daniel Naczk",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow._Riverside_Museum._Detail_of_south_elevation.jpg",
-    "file": "File:Glasgow. Riverside Museum. Detail of south elevation.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ship_model_at_the_Riverside_Museum_of_Transport_and_Travel_in_Glasgow%2C_Scotland.jpg/1280px-Ship_model_at_the_Riverside_Museum_of_Transport_and_Travel_in_Glasgow%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riverside-museum/thumbs/7.webp",
-    "w": 786,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Ship model at the Riverside Museum of Transport and Travel in Glasgow, Scotland",
-    "credit": "Midwich Cuckoo",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ship_model_at_the_Riverside_Museum_of_Transport_and_Travel_in_Glasgow,_Scotland.jpg",
-    "file": "File:Ship model at the Riverside Museum of Transport and Travel in Glasgow, Scotland.jpg"
    }
   ],
-  "has": [
-   "Elevation",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -97735,36 +95881,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Jeffrey_Gibson_at_Hirshhorn_2024.jpg",
     "file": "File:Jeffrey Gibson at Hirshhorn 2024.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Hirshhorn_Museum_DC_2007_025.jpg/1280px-Hirshhorn_Museum_DC_2007_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hirshhorn-museum-and-sculpture-garden/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · View of the sculpture garden at the Hirshhorn Museum in Washington, D.C",
-    "credit": "Gryffindor",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_DC_2007_025.jpg",
-    "file": "File:Hirshhorn Museum DC 2007 025.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Gro%C3%9F_St._Martin%2C_Zwerggalerie%2C_Zeichnung_von_Oscar_Bluemner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/hirshhorn-museum-and-sculpture-garden/thumbs/7.webp",
-    "w": 1080,
-    "h": 755,
-    "kind": "Drawing",
-    "caption": "Drawing · Groß St",
-    "credit": "Oscar Florianus Bluemner",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Gro%C3%9F_St._Martin,_Zwerggalerie,_Zeichnung_von_Oscar_Bluemner.jpg",
-    "file": "File:Groß St. Martin, Zwerggalerie, Zeichnung von Oscar Bluemner.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -98083,23 +96202,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Miniature_Eiffel_Tower_in_Homie%C4%BA_(1).jpg",
     "file": "File:Miniature Eiffel Tower in Homieĺ (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/A_long_range_assault_-_Dalrymple._LCCN2010651288.jpg/1280px-A_long_range_assault_-_Dalrymple._LCCN2010651288.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/7.webp",
-    "w": 1083,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · Title: A long range assault / Dalrymple",
-    "credit": "Dalrymple, Louis, 1866-1905, artist",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:A_long_range_assault_-_Dalrymple._LCCN2010651288.jpg",
-    "file": "File:A long range assault - Dalrymple. LCCN2010651288.jpg"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -98201,23 +96307,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Oosterdok_-_NEMO_Science_Centre_1997_by_Renzo_Piano_-_View_North_inside_from_the_Entrance.jpg",
     "file": "File:Amsterdam - Oosterdok - NEMO Science Centre 1997 by Renzo Piano - View North inside from the Entrance.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2019-06-22_Amsterdam_detail_36.jpg/1280px-2019-06-22_Amsterdam_detail_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nemo-science-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Amszterdami részlet",
-    "credit": "Szilas",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2019-06-22_Amsterdam_detail_36.jpg",
-    "file": "File:2019-06-22 Amsterdam detail 36.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -98318,23 +96410,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:King_Herod_display,_Israel_Museum,_2019_(01).jpg",
     "file": "File:King Herod display, Israel Museum, 2019 (01).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Jerusalem_Modell_BW_2.JPG/1280px-Jerusalem_Modell_BW_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/israel-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 735,
-    "kind": "Model",
-    "caption": "Model · Holyland Model of Jerusalem ",
-    "credit": "Berthold Werner",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_2.JPG",
-    "file": "File:Jerusalem Modell BW 2.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -98514,23 +96592,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:WTTC_-_Auditorium_Parco_della_Musica_-_GS_Rome_(54819520486).jpg",
     "file": "File:WTTC - Auditorium Parco della Musica - GS Rome (54819520486).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Model_of_the_Auditorium_site_2.jpg/1280px-Model_of_the_Auditorium_site_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/auditorium-parco-della-musica/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · model of the Auditorium site 2",
-    "credit": "Torquatus",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Auditorium_site_2.jpg",
-    "file": "File:Model of the Auditorium site 2.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -98631,23 +96695,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Great_Hall_inside_the_National_Gallery_of_Canada_in_Ottawa,_Ontario.jpg",
     "file": "File:Great Hall inside the National Gallery of Canada in Ottawa, Ontario.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Louis-Roland_Trinquesse_Woman_Seated_in_a_Plumed_Hat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-gallery-of-canada/thumbs/6.webp",
-    "w": 756,
-    "h": 1200,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Louis Rolland Trinquesse",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Louis-Roland_Trinquesse_Woman_Seated_in_a_Plumed_Hat.jpg",
-    "file": "File:Louis-Roland Trinquesse Woman Seated in a Plumed Hat.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -99883,23 +97933,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:GraphyArchy_-_Wikipedia_00068.jpg",
     "file": "File:GraphyArchy - Wikipedia 00068.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Model_of_Main_Synagogue_of_Nuremberg%2C_modern_Pinakothek_museum_in_Munich%2C_Exhibition_Ludwig_II%2C_2018.jpg/1280px-Model_of_Main_Synagogue_of_Nuremberg%2C_modern_Pinakothek_museum_in_Munich%2C_Exhibition_Ludwig_II%2C_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pinakothek-der-moderne/thumbs/6.webp",
-    "w": 789,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Model of Main Synagogue of Nuremberg, modern Pinakothek museum in Munich, Exhibition Ludwig II, 2018",
-    "credit": "Kunstfreund1970",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Main_Synagogue_of_Nuremberg,_modern_Pinakothek_museum_in_Munich,_Exhibition_Ludwig_II,_2018.jpg",
-    "file": "File:Model of Main Synagogue of Nuremberg, modern Pinakothek museum in Munich, Exhibition Ludwig II, 2018.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -100994,23 +99030,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Exposicion_comics-valencia-2009_(5).JPG",
     "file": "File:Exposicion comics-valencia-2009 (5).JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Lanzadera_espacial_Soyuz_-_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_-_001.jpg/1280px-Lanzadera_espacial_Soyuz_-_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museu-de-les-ciencies-principe-felipe/thumbs/6.webp",
-    "w": 788,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Américo Toledano",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lanzadera_espacial_Soyuz_-_Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_-_001.jpg",
-    "file": "File:Lanzadera espacial Soyuz - Museo de las Ciencias Príncipe Felipe - 001.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -101305,36 +99327,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Arches_at_the_London_Natural_History_Museum_(39999686641).jpg",
     "file": "File:Arches at the London Natural History Museum (39999686641).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/PXL_20231218_125426972.LONG_EXPOSURE-10.COVER_The_Natural_History_Museum%2C_London_Hintze_Hall_cross-section_of_a_giant_sequoia_tree.jpg/1280px-PXL_20231218_125426972.LONG_EXPOSURE-10.COVER_The_Natural_History_Museum%2C_London_Hintze_Hall_cross-section_of_a_giant_sequoia_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum/thumbs/6.webp",
-    "w": 1054,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section · The Natural History Museum, London Hintze Hall cross-section of a giant sequoia tree",
-    "credit": "Sourabh.biswas003",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:PXL_20231218_125426972.LONG_EXPOSURE-10.COVER_The_Natural_History_Museum,_London_Hintze_Hall_cross-section_of_a_giant_sequoia_tree.jpg",
-    "file": "File:PXL 20231218 125426972.LONG EXPOSURE-10.COVER The Natural History Museum, London Hintze Hall cross-section of a giant sequoia tree.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Phiomia_model_reconstruction_at_London_Natural_History_Museum.jpg/1280px-Phiomia_model_reconstruction_at_London_Natural_History_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum/thumbs/7.webp",
-    "w": 1280,
-    "h": 1097,
-    "kind": "Model",
-    "caption": "Model · Phiomia model reconstruction at the Natural History Museum, London",
-    "credit": "Ryan Schwark",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Phiomia_model_reconstruction_at_London_Natural_History_Museum.jpg",
-    "file": "File:Phiomia model reconstruction at London Natural History Museum.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -102010,23 +100005,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall_(00733).jpg",
     "file": "File:Royal Albert Hall (00733).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Cross-section_through_the_Royal_Albert_Hall.jpg/1280px-Cross-section_through_the_Royal_Albert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/royal-albert-hall/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Cross-section through the Royal Albert Hall",
-    "credit": "Matt Brown",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cross-section_through_the_Royal_Albert_Hall.jpg",
-    "file": "File:Cross-section through the Royal Albert Hall.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -102454,8 +100435,8 @@ window.BUILDINGS = [
     "thumb": "images/semperoper/thumbs/7.webp",
     "w": 1280,
     "h": 805,
-    "kind": "Elevation",
-    "caption": "Elevation",
+    "kind": "Drawing",
+    "caption": "Drawing",
     "credit": "This file is from the  Mechanical Curator collection , a set of over 1 million images scanned from o",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Innere_Ansicht_des_Gro%C3%9Fen_Opernhauses_1755_Dresden.jpg",
@@ -102476,7 +100457,6 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
-   "Elevation",
    "Drawing"
   ],
   "gv": 3
@@ -102591,23 +100571,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Den_Haag_-_Madurodam_-_Concertgebouw_Amsterdam.jpg",
     "file": "File:Den Haag - Madurodam - Concertgebouw Amsterdam.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/A.L._van_Gendt_organ_Concertgebouw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/concertgebouw/thumbs/7.webp",
-    "w": 1053,
-    "h": 1029,
-    "kind": "Drawing",
-    "caption": "Drawing · Organ, Concertgebouw, Amsterdam",
-    "credit": "Adolf Leonard van Gendt (1835-1901)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:A.L._van_Gendt_organ_Concertgebouw.jpg",
-    "file": "File:A.L. van Gendt organ Concertgebouw.jpg"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -104746,6 +102713,18 @@ window.BUILDINGS = [
     "file": "File:Wembley Stadium - geograph.org.uk - 4923107.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg/1280px-View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wembley-stadium/thumbs/6.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · View of a section of Wembley Stadium from Perimeter Way",
+    "credit": "Robert Lamb",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg",
+    "file": "File:View of a section of Wembley Stadium from Perimeter Way - geograph.org.uk - 4515293.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Priti_Patel_visits_Wembley_to_launch_racism_in_football_strategy_%2850166007941%29.jpg/1280px-Priti_Patel_visits_Wembley_to_launch_racism_in_football_strategy_%2850166007941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wembley-stadium/thumbs/5.webp",
     "w": 1280,
@@ -104756,23 +102735,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Priti_Patel_visits_Wembley_to_launch_racism_in_football_strategy_(50166007941).jpg",
     "file": "File:Priti Patel visits Wembley to launch racism in football strategy (50166007941).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg/1280px-View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wembley-stadium/thumbs/6.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Section",
-    "caption": "Section · View of a section of Wembley Stadium from Perimeter Way",
-    "credit": "Robert Lamb",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_a_section_of_Wembley_Stadium_from_Perimeter_Way_-_geograph.org.uk_-_4515293.jpg",
-    "file": "File:View of a section of Wembley Stadium from Perimeter Way - geograph.org.uk - 4515293.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -105505,23 +103470,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Museum_D035_Emperor_Frederick_Museum.png",
     "file": "File:Museum D035 Emperor Frederick Museum.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/SMS_Markgraf_%2850733297322%29.jpg/1280px-SMS_Markgraf_%2850733297322%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bode-museum/thumbs/7.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Model",
-    "caption": "Model · A model of SMS Markgraf in the History of Germany Museum, Berlin, Germany, 23 September 2015",
-    "credit": "Hugh Llewelyn  from Keynsham, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SMS_Markgraf_(50733297322).jpg",
-    "file": "File:SMS Markgraf (50733297322).jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -105629,17 +103581,15 @@ window.BUILDINGS = [
     "thumb": "images/messeturm/thumbs/6.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Section",
-    "caption": "Section",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "GraphyArchy",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:GraphyArchy_-_Wikipedia_00689.jpg",
     "file": "File:GraphyArchy - Wikipedia 00689.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -106063,23 +104013,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Solow_Building_lobby.jpg",
     "file": "File:Solow Building lobby.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/New_York_-_panoramio_%28119%29.jpg/1280px-New_York_-_panoramio_%28119%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/solow-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Model",
-    "caption": "Model · New York",
-    "credit": "Emanuela Meme Giudic…",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:New_York_-_panoramio_(119).jpg",
-    "file": "File:New York - panoramio (119).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -106570,6 +104506,18 @@ window.BUILDINGS = [
     "file": "File:Gustav Mahler star Vienna.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Weense_Staatsopera_K.k._Hof-Opern-Theater%2C_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_%28titel_op_object%29%2C_RP-F-F02188.jpg/1280px-Weense_Staatsopera_K.k._Hof-Opern-Theater%2C_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_%28titel_op_object%29%2C_RP-F-F02188.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vienna-state-opera/thumbs/7.webp",
+    "w": 1280,
+    "h": 994,
+    "kind": "Exterior",
+    "caption": "Exterior · Identificatie Titel(s): Weense Staatsopera",
+    "credit": "Rijksmuseum",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weense_Staatsopera_K.k._Hof-Opern-Theater,_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_(titel_op_object),_RP-F-F02188.jpg",
+    "file": "File:Weense Staatsopera K.k. Hof-Opern-Theater, Total-Ansicht. Architekt Van der Nüll und Siccardburg (titel op object), RP-F-F02188.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Interior_of_the_Vienna_State_Opera_%2822%29.jpg/1280px-Interior_of_the_Vienna_State_Opera_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vienna-state-opera/thumbs/4.webp",
     "w": 1280,
@@ -106606,18 +104554,6 @@ window.BUILDINGS = [
     "file": "File:Plan Hofopernhaus Rechnungsausweis 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Weense_Staatsopera_K.k._Hof-Opern-Theater%2C_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_%28titel_op_object%29%2C_RP-F-F02188.jpg/1280px-Weense_Staatsopera_K.k._Hof-Opern-Theater%2C_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_%28titel_op_object%29%2C_RP-F-F02188.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vienna-state-opera/thumbs/7.webp",
-    "w": 1280,
-    "h": 994,
-    "kind": "Elevation",
-    "caption": "Elevation · Identificatie Titel(s): Weense Staatsopera",
-    "credit": "Rijksmuseum",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Weense_Staatsopera_K.k._Hof-Opern-Theater,_Total-Ansicht._Architekt_Van_der_N%C3%BCll_und_Siccardburg_(titel_op_object),_RP-F-F02188.jpg",
-    "file": "File:Weense Staatsopera K.k. Hof-Opern-Theater, Total-Ansicht. Architekt Van der Nüll und Siccardburg (titel op object), RP-F-F02188.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Hofoper_Planskizze_Rauchfang_1894.jpg/1280px-Hofoper_Planskizze_Rauchfang_1894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vienna-state-opera/thumbs/8.webp",
     "w": 1026,
@@ -106632,7 +104568,6 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
-   "Elevation",
    "Drawing"
   ],
   "gv": 3
@@ -107022,6 +104957,18 @@ window.BUILDINGS = [
     "file": "File:Luftbild Kunsthalle Bielefeld.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kunsthalle_Bielefeld%2C_2019%2C_Ansicht_vom_Skulpturenpark.jpg/1280px-Kunsthalle_Bielefeld%2C_2019%2C_Ansicht_vom_Skulpturenpark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunsthalle-bielefeld/thumbs/6.webp",
+    "w": 1280,
+    "h": 883,
+    "kind": "Exterior",
+    "caption": "Exterior · Kunsthalle Bielefeld, 2019, Ansicht vom Skulpturenpark",
+    "credit": "Anne Kaerstner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunsthalle_Bielefeld,_2019,_Ansicht_vom_Skulpturenpark.jpg",
+    "file": "File:Kunsthalle Bielefeld, 2019, Ansicht vom Skulpturenpark.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bustransfer_Hermannslauf.jpg/1280px-Bustransfer_Hermannslauf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kunsthalle-bielefeld/thumbs/4.webp",
     "w": 1280,
@@ -107044,23 +104991,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kunsthalle_Bielefeld_Sch%C3%BCtte.jpg",
     "file": "File:Kunsthalle Bielefeld Schütte.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Kunsthalle_Bielefeld%2C_2019%2C_Ansicht_vom_Skulpturenpark.jpg/1280px-Kunsthalle_Bielefeld%2C_2019%2C_Ansicht_vom_Skulpturenpark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kunsthalle-bielefeld/thumbs/6.webp",
-    "w": 1280,
-    "h": 883,
-    "kind": "Elevation",
-    "caption": "Elevation · Kunsthalle Bielefeld, 2019, Ansicht vom Skulpturenpark",
-    "credit": "Anne Kaerstner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kunsthalle_Bielefeld,_2019,_Ansicht_vom_Skulpturenpark.jpg",
-    "file": "File:Kunsthalle Bielefeld, 2019, Ansicht vom Skulpturenpark.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -107369,47 +105302,19 @@ window.BUILDINGS = [
     "file": "File:Javits Ctr West Side 03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Partners_Plan_Jacob_Javits_Center_Hospital_Facilities_%282%29.jpg/1280px-Partners_Plan_Jacob_Javits_Center_Hospital_Facilities_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jacob-k-javits-convention-center/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "K.C. Wilsey/FEMA",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Partners_Plan_Jacob_Javits_Center_Hospital_Facilities_(2).jpg",
-    "file": "File:Partners Plan Jacob Javits Center Hospital Facilities (2).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/NYC_Penn_Station_aerial_vc.jpg/1280px-NYC_Penn_Station_aerial_vc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jacob-k-javits-convention-center/thumbs/7.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Section",
-    "caption": "Section · NYC Penn Station",
+    "kind": "Context",
+    "caption": "Context · NYC Penn Station",
     "credit": "William John Gauthier",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:NYC_Penn_Station_aerial_vc.jpg",
     "file": "File:NYC Penn Station aerial vc.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/NYCC_2016_12.jpg/1280px-NYCC_2016_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jacob-k-javits-convention-center/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · NYCC 2016",
-    "credit": "LostplanetKD73",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NYCC_2016_12.jpg",
-    "file": "File:NYCC 2016 12.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -107706,36 +105611,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Petit_Palais_des_Beaux-Arts._Plan_de_l%27%C3%A9tage_-_Archives_nationales-_CP-F-12-4445-L-A.jpg",
     "file": "File:Petit Palais des Beaux-Arts. Plan de l'étage - Archives nationales- CP-F-12-4445-L-A.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Parth%C3%A9non_-_Coupe_transversale_restaur%C3%A9e.jpg/1280px-Parth%C3%A9non_-_Coupe_transversale_restaur%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/petit-palais/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section · Parthenon - Cross section restored",
-    "credit": "Tangopaso",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Parth%C3%A9non_-_Coupe_transversale_restaur%C3%A9e.jpg",
-    "file": "File:Parthénon - Coupe transversale restaurée.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Delasalle_angele_les_fortifications_1900_ppd1805_1727668.jpg/1280px-Delasalle_angele_les_fortifications_1900_ppd1805_1727668.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/petit-palais/thumbs/8.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Drawing",
-    "caption": "Drawing · Les fortifications",
-    "credit": "Angèle Delasalle",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Delasalle_angele_les_fortifications_1900_ppd1805_1727668.jpg",
-    "file": "File:Delasalle angele les fortifications 1900 ppd1805 1727668.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Section",
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -107940,36 +105819,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fenway_Court_Interior_19.jpg",
     "file": "File:Fenway Court Interior 19.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Book_of_hours_-_Jean_Bourdichon_-_Stewart_Gardner_Museum_%28Saint_John%29.jpg/1280px-Book_of_hours_-_Jean_Bourdichon_-_Stewart_Gardner_Museum_%28Saint_John%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/isabella-stewart-gardner-museum/thumbs/6.webp",
-    "w": 949,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Jean Bourdichon",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Book_of_hours_-_Jean_Bourdichon_-_Stewart_Gardner_Museum_(Saint_John).jpg",
-    "file": "File:Book of hours - Jean Bourdichon - Stewart Gardner Museum (Saint John).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Michelangelo%2C_Study_for_the_Colonna_Piet%C3%A0.jpg/1280px-Michelangelo%2C_Study_for_the_Colonna_Piet%C3%A0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/isabella-stewart-gardner-museum/thumbs/7.webp",
-    "w": 898,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Michelangelo",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Michelangelo,_Study_for_the_Colonna_Piet%C3%A0.jpg",
-    "file": "File:Michelangelo, Study for the Colonna Pietà.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -108915,6 +106767,18 @@ window.BUILDINGS = [
     "file": "File:'Simon Boccanegra', Deutsche Oper - Berlino 1985.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg/1280px-Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutsche-oper-berlin/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Deutsche Oper Berlin (German Opera Berlin)",
+    "credit": "Manfred Brückels",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg",
+    "file": "File:Deutsche Oper Berlin. Ansicht von Südosten.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Foyer_of_Deutsche_Oper_Berlin_with_Christmas_tree.jpg/1280px-Foyer_of_Deutsche_Oper_Berlin_with_Christmas_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/deutsche-oper-berlin/thumbs/4.webp",
     "w": 1280,
@@ -108937,23 +106801,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Berlin_Deutsche_Oper_Foyer_2.jpg",
     "file": "File:Berlin Deutsche Oper Foyer 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg/1280px-Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/deutsche-oper-berlin/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · The Deutsche Oper Berlin (German Opera Berlin)",
-    "credit": "Manfred Brückels",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg",
-    "file": "File:Deutsche Oper Berlin. Ansicht von Südosten.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -109248,23 +107098,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:OCBCBase001.JPG",
     "file": "File:OCBCBase001.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lego_Singapore_Set.jpg/1280px-Lego_Singapore_Set.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ocbc-centre/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Lego Architecture set of the skyline of Singapore and its famous landmarks",
-    "credit": "President-Wiki-Man",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lego_Singapore_Set.jpg",
-    "file": "File:Lego Singapore Set.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -109365,62 +107201,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Vienna.jpg",
     "file": "File:Natural History Museum Vienna.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Neuerbautes_Narren_Haus_im_Jahr_1783_in_Wien.jpg/1280px-Neuerbautes_Narren_Haus_im_Jahr_1783_in_Wien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-vienna/thumbs/6.webp",
-    "w": 1280,
-    "h": 795,
-    "kind": "Plan",
-    "caption": "Plan · Narrenturm 1783",
-    "credit": "Unknown author Unknown author",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Neuerbautes_Narren_Haus_im_Jahr_1783_in_Wien.jpg",
-    "file": "File:Neuerbautes Narren Haus im Jahr 1783 in Wien.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%22Ansicht_des_Narrenthurms%2C_dan_des_Universal-_und_Militaire-Spitals%2C_von_der_R%C3%BCckseite%22_%28Jos._Schaffer%2C_1787%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/natural-history-museum-vienna/thumbs/7.webp",
-    "w": 801,
-    "h": 593,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "Joseph Schaffer (1757-1825)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:%22Ansicht_des_Narrenthurms,_dan_des_Universal-_und_Militaire-Spitals,_von_der_R%C3%BCckseite%22_(Jos._Schaffer,_1787).jpg",
-    "file": "File:\"Ansicht des Narrenthurms, dan des Universal- und Militaire-Spitals, von der Rückseite\" (Jos. Schaffer, 1787).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/At_Vienna_2025_387.jpg/1280px-At_Vienna_2025_387.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-vienna/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Research ship \"Admiral Tegetthoff\", scale model 1:20",
-    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:At_Vienna_2025_387.jpg",
-    "file": "File:At Vienna 2025 387.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aufris_des_neuerbauten_Narren_Hauses_im_Jahr_1783_in_Wien.jpg/1280px-Aufris_des_neuerbauten_Narren_Hauses_im_Jahr_1783_in_Wien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-vienna/thumbs/9.webp",
-    "w": 1280,
-    "h": 839,
-    "kind": "Drawing",
-    "caption": "Drawing · Aufriss des Narrenturm, 1783",
-    "credit": "Unknown author Unknown author",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aufris_des_neuerbauten_Narren_Hauses_im_Jahr_1783_in_Wien.jpg",
-    "file": "File:Aufris des neuerbauten Narren Hauses im Jahr 1783 in Wien.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Elevation",
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -109638,36 +107421,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Finland_-_DSC03842.JPG",
     "file": "File:National Museum of Finland - DSC03842.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Sketch_of_Eugen_Schauman%27s_letter_to_Nicholas_II_of_Russia.jpg/1280px-Sketch_of_Eugen_Schauman%27s_letter_to_Nicholas_II_of_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-finland/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "JIP",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sketch_of_Eugen_Schauman%27s_letter_to_Nicholas_II_of_Russia.jpg",
-    "file": "File:Sketch of Eugen Schauman's letter to Nicholas II of Russia.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Panoraama_Kansallismuseon_tornista_pohjoiseen_-_N355_%28hkm.HKMS000005-000000je%29.jpg/1280px-Panoraama_Kansallismuseon_tornista_pohjoiseen_-_N355_%28hkm.HKMS000005-000000je%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-finland/thumbs/7.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Model",
-    "caption": "Model · Panoraama Kansallismuseon tornista pohjoiseen",
-    "credit": "Signe Brander",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Panoraama_Kansallismuseon_tornista_pohjoiseen_-_N355_(hkm.HKMS000005-000000je).jpg",
-    "file": "File:Panoraama Kansallismuseon tornista pohjoiseen - N355 (hkm.HKMS000005-000000je).jpg"
    }
   ],
-  "has": [
-   "Sketch",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -109768,23 +107524,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_South_Exhibition_Hall,_at_Ariake,_Koto,_Tokyo_(2019-08-13)_01.jpg",
     "file": "File:Tokyo Big Sight South Exhibition Hall, at Ariake, Koto, Tokyo (2019-08-13) 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/All_Japan_Model_%26_Hobby_Show_2017_Tamiya-1.jpg/1280px-All_Japan_Model_%26_Hobby_Show_2017_Tamiya-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tokyo-big-sight/thumbs/6.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "ITA-ATU",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:All_Japan_Model_%26_Hobby_Show_2017_Tamiya-1.jpg",
-    "file": "File:All Japan Model & Hobby Show 2017 Tamiya-1.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -109885,23 +107627,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Ethnology,_Osaka_-_Room_of_the_bride_-_Palestine,_Diaspora.jpg",
     "file": "File:National Museum of Ethnology, Osaka - Room of the bride - Palestine, Diaspora.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Mimpaku_Osaka_Plan.jpg/1280px-Mimpaku_Osaka_Plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-of-ethnology/thumbs/6.webp",
-    "w": 1280,
-    "h": 831,
-    "kind": "Plan",
-    "caption": "Plan · Layout of Nat Museum Ethnology, Osaka",
-    "credit": "Fraxinus2",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mimpaku_Osaka_Plan.jpg",
-    "file": "File:Mimpaku Osaka Plan.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -110253,6 +107981,18 @@ window.BUILDINGS = [
     "file": "File:Philadelphia-CityHall-2006.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Philadelphia_City_Hall_south_elevation.jpg/1280px-Philadelphia_City_Hall_south_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/philadelphia-city-hall/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · en:Philadelphia City Hall south elevation, viewed from South Broad Street",
+    "credit": "en:User:Spikebrennan",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Hall_south_elevation.jpg",
+    "file": "File:Philadelphia City Hall south elevation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Philadelphia_city_hall.jpg/1280px-Philadelphia_city_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/philadelphia-city-hall/thumbs/1.webp",
     "w": 933,
@@ -110287,36 +108027,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Broad_Street_North_-_April_2016.jpg",
     "file": "File:Broad Street North - April 2016.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Philadelphia_City_Hall_south_elevation.jpg/1280px-Philadelphia_City_Hall_south_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philadelphia-city-hall/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation · en:Philadelphia City Hall south elevation, viewed from South Broad Street",
-    "credit": "en:User:Spikebrennan",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Philadelphia_City_Hall_south_elevation.jpg",
-    "file": "File:Philadelphia City Hall south elevation.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Calder_maquette_Phila_%26_Popular_Philadelphians_1891_p.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/philadelphia-city-hall/thumbs/5.webp",
-    "w": 521,
-    "h": 1193,
-    "kind": "Model",
-    "caption": "Model · Maquette by Alexander Milne Calder for the statue of William Penn atop Philadelphia City Hall",
-    "credit": "The North American (Philadelphia newspaper)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Calder_maquette_Phila_%26_Popular_Philadelphians_1891_p.2.jpg",
-    "file": "File:Calder maquette Phila & Popular Philadelphians 1891 p.2.jpg"
    }
   ],
-  "has": [
-   "Elevation",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -111480,6 +109193,18 @@ window.BUILDINGS = [
     "file": "File:Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg/1280px-NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/berlaymont/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "This image   is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing,   credit   m",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg",
+    "file": "File:NextGenerationEU - StrongerTogether - Recovery plan for Europe - Plan de relance pour l'Europe - Heerstelplan voor Europe - Berlaymont.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/SchumanRoundaboutFromTopFloorOfBerlaymont.jpg/1280px-SchumanRoundaboutFromTopFloorOfBerlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/berlaymont/thumbs/4.webp",
     "w": 1280,
@@ -111502,23 +109227,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Conference_room_in_the_Berlaymont_building_2.JPG",
     "file": "File:Conference room in the Berlaymont building 2.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg/1280px-NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/berlaymont/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "This image   is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reusing,   credit   m",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NextGenerationEU_-_StrongerTogether_-_Recovery_plan_for_Europe_-_Plan_de_relance_pour_l%27Europe_-_Heerstelplan_voor_Europe_-_Berlaymont.jpg",
-    "file": "File:NextGenerationEU - StrongerTogether - Recovery plan for Europe - Plan de relance pour l'Europe - Heerstelplan voor Europe - Berlaymont.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -112151,36 +109862,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Treyusa_Chicago_Ii_(117891993).jpeg",
     "file": "File:Treyusa Chicago Ii (117891993).jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/PSM_V84_D107_North-south_cross_section_of_atwood_celestial_sphere.jpg/1280px-PSM_V84_D107_North-south_cross_section_of_atwood_celestial_sphere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/adler-planetarium/thumbs/6.webp",
-    "w": 1280,
-    "h": 1022,
-    "kind": "Section",
-    "caption": "Section · Atwood Celestial Sphere",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:PSM_V84_D107_North-south_cross_section_of_atwood_celestial_sphere.jpg",
-    "file": "File:PSM V84 D107 North-south cross section of atwood celestial sphere.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Adler_Planetarium_August_2010_2_%28rover%29.JPG/1280px-Adler_Planetarium_August_2010_2_%28rover%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/adler-planetarium/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · A Spirit / Opportunity rover replica at Adler Planetarium in Chicago , Illinois ( United States )",
-    "credit": "Michael Barera",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Adler_Planetarium_August_2010_2_(rover).JPG",
-    "file": "File:Adler Planetarium August 2010 2 (rover).JPG"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -112281,36 +109965,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Christmas_tree_Hauptbahnhof_Dresden_2025-12-04_01.jpg",
     "file": "File:Christmas tree Hauptbahnhof Dresden 2025-12-04 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/DD_HBF_Model_Railway.JPG/1280px-DD_HBF_Model_Railway.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dresden-central-station/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · The model railway in Dresden, Germany Central Station ",
-    "credit": "TeWeBs",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:DD_HBF_Model_Railway.JPG",
-    "file": "File:DD HBF Model Railway.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_198.jpg/1280px-Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_198.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dresden-central-station/thumbs/7.webp",
-    "w": 968,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · siehe Bildtext aus: Die Bauten, technischen und industriellen Anlagen von Dresden",
-    "credit": "Ludwig Neumann, Hermann August Richter, Otto Siebdrat, Richard Steche, Robert Wimmer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Die_Bauten_von_Dresden_(1878)_Illustrationsseite_198.jpg",
-    "file": "File:Die Bauten von Dresden (1878) Illustrationsseite 198.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -112726,8 +110383,8 @@ window.BUILDINGS = [
     "thumb": "images/kennedy-center/thumbs/6.webp",
     "w": 1280,
     "h": 995,
-    "kind": "Drawing",
-    "caption": "Drawing",
+    "kind": "Plan",
+    "caption": "Plan",
     "credit": "Related names:\n \n  Olmsted, F L; Partridge, William B; Langden, James G; Jeffers, Thomas; Payne, Irv",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_22_of_36).png",
@@ -112735,7 +110392,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -112837,36 +110494,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:GLAM_Br%C3%BCckemuseum-7323.jpg",
     "file": "File:GLAM Brückemuseum-7323.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ernst_Ludwig_Kirchner_Mann_und_nackte_Frau_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/brucke-museum/thumbs/6.webp",
-    "w": 937,
-    "h": 1225,
-    "kind": "Model",
-    "caption": "Model · Ernst Ludwig Kirchner: Mann und nackte Frau (Selbstbildnis mit Modell), 1915, Pastell, Brücke-Museum Berlin",
-    "credit": "Ernst Ludwig Kirchner",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ernst_Ludwig_Kirchner_Mann_und_nackte_Frau_1915.jpg",
-    "file": "File:Ernst Ludwig Kirchner Mann und nackte Frau 1915.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ernst_Ludwig_Kirchner_Frauenkirche_1908.jpg/1280px-Ernst_Ludwig_Kirchner_Frauenkirche_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brucke-museum/thumbs/7.webp",
-    "w": 1144,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Ernst Ludwig Kirchner",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ernst_Ludwig_Kirchner_Frauenkirche_1908.jpg",
-    "file": "File:Ernst Ludwig Kirchner Frauenkirche 1908.jpg"
    }
   ],
-  "has": [
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -113355,23 +110985,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Railing_Detail.jpg",
     "file": "File:Railing Detail.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Model_apartment_70_Pine_St.jpg/1280px-Model_apartment_70_Pine_St.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/70-pine-street/thumbs/6.webp",
-    "w": 1280,
-    "h": 922,
-    "kind": "Model",
-    "caption": "Model · An apartment at 70 Pine Street",
-    "credit": "Thomas E. Hilton",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_apartment_70_Pine_St.jpg",
-    "file": "File:Model apartment 70 Pine St.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -113496,24 +111112,11 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Garnier-Tony,_Gen%C3%A8ve,_soci%C3%A9t%C3%A9_des_nations,_projet.jpg",
     "file": "File:Garnier-Tony, Genève, société des nations, projet.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2017_UN_Geneva_Open_Day_Kuwait_Dhow.jpg/1280px-2017_UN_Geneva_Open_Day_Kuwait_Dhow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-nations/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Maquette d'un boutre koweïtien XVIII exposé au Palais des Nations",
-    "credit": "Credits to  Mourad Ben Abdallah  / Wikimedia Commons",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2017_UN_Geneva_Open_Day_Kuwait_Dhow.jpg",
-    "file": "File:2017 UN Geneva Open Day Kuwait Dhow.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Sketch",
-   "Model"
+   "Sketch"
   ],
   "gv": 3
  },
@@ -113718,23 +111321,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stralsund,_Am_F%C3%A4hrkanal,_Ecke_Neue_Semlower_Stra%C3%9Fe,_Ozeaneum_(2012-03-04)_1,_by_Klugschnacker_in_Wikipedia.jpg",
     "file": "File:Stralsund, Am Fährkanal, Ecke Neue Semlower Straße, Ozeaneum (2012-03-04) 1, by Klugschnacker in Wikipedia.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ozeaneum_Stralsund_Modell_im_Dielenhaus_M%C3%BChlenstrasse_3.jpg/1280px-Ozeaneum_Stralsund_Modell_im_Dielenhaus_M%C3%BChlenstrasse_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ozeaneum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Ozeaneum Stralsund Modell im Dielenhaus Mühlenstrasse 3",
-    "credit": "Horst-schlaemma",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ozeaneum_Stralsund_Modell_im_Dielenhaus_M%C3%BChlenstrasse_3.jpg",
-    "file": "File:Ozeaneum Stralsund Modell im Dielenhaus Mühlenstrasse 3.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -114496,23 +112085,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Galleria_Vittorio_Emanuele_II_(Milan)_-_Milan_2014.jpg",
     "file": "File:Galleria Vittorio Emanuele II (Milan) - Milan 2014.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/MilanoPiazzaDuomoProgettoMengoni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/galleria-vittorio-emanuele-ii/thumbs/6.webp",
-    "w": 710,
-    "h": 536,
-    "kind": "Plan",
-    "caption": "Plan · Il progetto di Giuseppe Mengoni per la ricostruzione di Piazza Duomo a Milano (15 settembre 1863)",
-    "credit": "Giuseppe Mengoni",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:MilanoPiazzaDuomoProgettoMengoni.jpg",
-    "file": "File:MilanoPiazzaDuomoProgettoMengoni.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -114613,36 +112188,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:H%C3%A9lio_Oiticica_(36773193924).jpg",
     "file": "File:Hélio Oiticica (36773193924).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28Sketches_of_Pistols%2C_Rifles%2C_Swords%2C_Spears_and_Bow%29_by_Edward_Hopper.jpg/1280px-%28Sketches_of_Pistols%2C_Rifles%2C_Swords%2C_Spears_and_Bow%29_by_Edward_Hopper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/whitney-museum-of-american-art/thumbs/6.webp",
-    "w": 1134,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch · (Sketches of Pistols, Rifles, Swords, Spears and Bow) by Edward Hopper",
-    "credit": "Edward Hopper",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:(Sketches_of_Pistols,_Rifles,_Swords,_Spears_and_Bow)_by_Edward_Hopper.jpg",
-    "file": "File:(Sketches of Pistols, Rifles, Swords, Spears and Bow) by Edward Hopper.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%28Study_of_a_Riverboat_with_Paddlewheel%29_by_Edward_Hopper.jpg/1280px-%28Study_of_a_Riverboat_with_Paddlewheel%29_by_Edward_Hopper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/whitney-museum-of-american-art/thumbs/7.webp",
-    "w": 1280,
-    "h": 1134,
-    "kind": "Drawing",
-    "caption": "Drawing · (Study of a Riverboat with Paddlewheel) by Edward Hopper",
-    "credit": "Edward Hopper",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:(Study_of_a_Riverboat_with_Paddlewheel)_by_Edward_Hopper.jpg",
-    "file": "File:(Study of a Riverboat with Paddlewheel) by Edward Hopper.jpg"
    }
   ],
-  "has": [
-   "Sketch",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -114743,36 +112291,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:AIC1913ArmoryShow_Photo_1.jpg",
     "file": "File:AIC1913ArmoryShow Photo 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Saint_Francis_Xavier_High_School%2C_Wilmette%2C_Illinois%2C_Perspective_Sketch%2C_1923%2C_Barry_Byrne%3B_Alfonso_Iannelli%2C_Art_Institute_of_Chicago%2C_Chicago%2C_Illinois_%2829548729178%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/art-institute-of-chicago-modern-wing/thumbs/6.webp",
-    "w": 1280,
-    "h": 808,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Ken Lund  from Reno, Nevada, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Saint_Francis_Xavier_High_School,_Wilmette,_Illinois,_Perspective_Sketch,_1923,_Barry_Byrne;_Alfonso_Iannelli,_Art_Institute_of_Chicago,_Chicago,_Illinois_(29548729178).jpg",
-    "file": "File:Saint Francis Xavier High School, Wilmette, Illinois, Perspective Sketch, 1923, Barry Byrne; Alfonso Iannelli, Art Institute of Chicago, Chicago, Illinois (29548729178).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Narcissa_Niblack_Thorne_-_E-10_English_Dining_Room_of_the_Georgian_Period.jpg/1280px-Narcissa_Niblack_Thorne_-_E-10_English_Dining_Room_of_the_Georgian_Period.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/art-institute-of-chicago-modern-wing/thumbs/7.webp",
-    "w": 1280,
-    "h": 868,
-    "kind": "Model",
-    "caption": "Model · E-10: English Dining Room of the Georgian Period, 1770-90",
-    "credit": "Narcissa Niblack Thorne",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Narcissa_Niblack_Thorne_-_E-10_English_Dining_Room_of_the_Georgian_Period.jpg",
-    "file": "File:Narcissa Niblack Thorne - E-10 English Dining Room of the Georgian Period.jpg"
    }
   ],
-  "has": [
-   "Sketch",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -114873,23 +112394,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Eva_and_Franco_Mattes,_Ceiling_Cat.jpg",
     "file": "File:Eva and Franco Mattes, Ceiling Cat.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Stone_statue_and_blue_bandanas_inside_miniature_blue_car_model.jpg/1280px-Stone_statue_and_blue_bandanas_inside_miniature_blue_car_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-francisco-museum-of-modern-art/thumbs/6.webp",
-    "w": 1230,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Heidi De Vries",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stone_statue_and_blue_bandanas_inside_miniature_blue_car_model.jpg",
-    "file": "File:Stone statue and blue bandanas inside miniature blue car model.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -115216,17 +112723,15 @@ window.BUILDINGS = [
     "thumb": "images/de-young-museum/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section · A section of the roof of the De Young Museum in San Francisco as seen from the Hamon Tower observation floor",
+    "kind": "Detail",
+    "caption": "Detail · A section of the roof of the De Young Museum in San Francisco as seen from the Hamon Tower observation floor",
     "credit": "BrokenSphere",
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:De_Young_Museum_roof_section_from_Hamon_Tower_observation_floor_1.JPG",
     "file": "File:De Young Museum roof section from Hamon Tower observation floor 1.JPG"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -115327,23 +112832,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ginkgo_tree_and_Rodin_at_the_Woodruff_Arts_Center.jpg",
     "file": "File:Ginkgo tree and Rodin at the Woodruff Arts Center.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Louvre_Atlanta_at_the_High_Museum%2C_Atlanta_GA.jpg/1280px-Louvre_Atlanta_at_the_High_Museum%2C_Atlanta_GA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/high-museum-of-art/thumbs/6.webp",
-    "w": 935,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Louvre Atlanta at the High Museum, Atlanta Georgia",
-    "credit": "John Phelan",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Louvre_Atlanta_at_the_High_Museum,_Atlanta_GA.jpg",
-    "file": "File:Louvre Atlanta at the High Museum, Atlanta GA.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -115955,30 +113446,15 @@ window.BUILDINGS = [
     "thumb": "images/museum-of-modern-art/thumbs/6.webp",
     "w": 1050,
     "h": 1400,
-    "kind": "Section",
-    "caption": "Section · Cross-section of MoMA",
+    "kind": "Interior",
+    "caption": "Interior · Cross-section of MoMA",
     "credit": "Casper Moller  from London, United Kingdom",
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cross-section_of_MoMA_(1628509677).jpg",
     "file": "File:Cross-section of MoMA (1628509677).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Antique_chess_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/museum-of-modern-art/thumbs/7.webp",
-    "w": 1152,
-    "h": 864,
-    "kind": "Model",
-    "caption": "Model · Antique chessboard in a museum collection",
-    "credit": "SHESHU KUMAR B",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Antique_chess_model.jpg",
-    "file": "File:Antique chess model.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -116188,8 +113664,8 @@ window.BUILDINGS = [
     "thumb": "images/pergamon-museum/thumbs/6.webp",
     "w": 1280,
     "h": 866,
-    "kind": "Model",
-    "caption": "Model · Plan of Milet , the markets and surroundings around 200 AD",
+    "kind": "Plan",
+    "caption": "Plan · Plan of Milet , the markets and surroundings around 200 AD",
     "credit": "Gryffindor",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007079.jpg",
@@ -116197,7 +113673,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -116636,49 +114112,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Coupled-column_Prayer_Rug.jpg",
     "file": "File:Coupled-column Prayer Rug.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/French_Section_including_the_Manufacture_National_Beauvais_in_the_Palace_of_Fine_Arts_at_the_1904_World%27s_Fair.jpg/1280px-French_Section_including_the_Manufacture_National_Beauvais_in_the_Palace_of_Fine_Arts_at_the_1904_World%27s_Fair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saint-louis-art-museum-east-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 993,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:French_Section_including_the_Manufacture_National_Beauvais_in_the_Palace_of_Fine_Arts_at_the_1904_World%27s_Fair.jpg",
-    "file": "File:French Section including the Manufacture National Beauvais in the Palace of Fine Arts at the 1904 World's Fair.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Rembrandt_van_Rijn_-_The_Artist_Drawing_from_a_Model.jpg/1280px-Rembrandt_van_Rijn_-_The_Artist_Drawing_from_a_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saint-louis-art-museum-east-building/thumbs/7.webp",
-    "w": 1117,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Rembrandt",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_The_Artist_Drawing_from_a_Model.jpg",
-    "file": "File:Rembrandt van Rijn - The Artist Drawing from a Model.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Rembrandt_van_Rijn_-_Landscape_with_a_Cottage_and_Haybarn.jpg/1280px-Rembrandt_van_Rijn_-_Landscape_with_a_Cottage_and_Haybarn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saint-louis-art-museum-east-building/thumbs/8.webp",
-    "w": 1280,
-    "h": 525,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Rembrandt",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Landscape_with_a_Cottage_and_Haybarn.jpg",
-    "file": "File:Rembrandt van Rijn - Landscape with a Cottage and Haybarn.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -117428,23 +114864,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Philadelphia_from_museum.jpg",
     "file": "File:Philadelphia from museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Inspirational_Drawing_1963-160-4-pma2021.jpg/1280px-Inspirational_Drawing_1963-160-4-pma2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philadelphia-museum-of-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 1040,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Attributed to Samantha Fairbanks (American, 1804–1852) , and Mary Wicks (American, born 1819)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Inspirational_Drawing_1963-160-4-pma2021.jpg",
-    "file": "File:Inspirational Drawing 1963-160-4-pma2021.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -117521,23 +114943,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Viena,_Austria,_2020-01-31,_DD_38-39_PAN.jpg",
     "file": "File:Ayuntamiento, Viena, Austria, 2020-01-31, DD 38-39 PAN.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Joseph_Hasslwander_-_Entwurf_f%C3%BCr_eine_Figur_des_Wiener_Rathauses_-_4492_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Joseph_Hasslwander_-_Entwurf_f%C3%BCr_eine_Figur_des_Wiener_Rathauses_-_4492_-_%C3%96sterreichische_Galerie_Belvedere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vienna-city-hall/thumbs/4.webp",
-    "w": 824,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Joseph Hasslwander",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Hasslwander_-_Entwurf_f%C3%BCr_eine_Figur_des_Wiener_Rathauses_-_4492_-_%C3%96sterreichische_Galerie_Belvedere.jpg",
-    "file": "File:Joseph Hasslwander - Entwurf für eine Figur des Wiener Rathauses - 4492 - Österreichische Galerie Belvedere.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -117944,6 +115352,18 @@ window.BUILDINGS = [
     "file": "File:Gropius house 11.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gropius_House_WEST_ELEVATION_HABS_MASS%2C9-LIN%2C16-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/gropius-house/thumbs/6.webp",
+    "w": 1024,
+    "h": 741,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "HABS MA-1228",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gropius_House_WEST_ELEVATION_HABS_MASS,9-LIN,16-16.jpg",
+    "file": "File:Gropius House WEST ELEVATION HABS MASS,9-LIN,16-16.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Gropius_House_Living_Room.jpg/1280px-Gropius_House_Living_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/gropius-house/thumbs/4.webp",
     "w": 1280,
@@ -117966,23 +115386,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gropius_House_Master_Bedroom.jpg",
     "file": "File:Gropius House Master Bedroom.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gropius_House_WEST_ELEVATION_HABS_MASS%2C9-LIN%2C16-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/gropius-house/thumbs/6.webp",
-    "w": 1024,
-    "h": 741,
-    "kind": "Elevation",
-    "caption": "Elevation",
-    "credit": "HABS MA-1228",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Gropius_House_WEST_ELEVATION_HABS_MASS,9-LIN,16-16.jpg",
-    "file": "File:Gropius House WEST ELEVATION HABS MASS,9-LIN,16-16.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -118083,23 +115489,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Opening_Burgerweeshuis_in_Amsterdam._Burgemeester_van_Hall_steunt_de_boom,_Bestanddeelnr_912-9570.jpg",
     "file": "File:Opening Burgerweeshuis in Amsterdam. Burgemeester van Hall steunt de boom, Bestanddeelnr 912-9570.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Model_van_het_Maison_d%E2%80%99Artiste_bij_het_Burgerweeshuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/amsterdam-orphanage-burgerweeshuis/thumbs/6.webp",
-    "w": 1200,
-    "h": 795,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Eriksw",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_van_het_Maison_d%E2%80%99Artiste_bij_het_Burgerweeshuis.jpg",
-    "file": "File:Model van het Maison d’Artiste bij het Burgerweeshuis.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -118615,23 +116007,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:California_Academy_of_Sciences_-_Interior_1_2017-06-09.jpg",
     "file": "File:California Academy of Sciences - Interior 1 2017-06-09.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cross_section_of_a_Sequoia_sempervirens_showing_its_tree_rings.jpg/1280px-Cross_section_of_a_Sequoia_sempervirens_showing_its_tree_rings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/california-academy-of-sciences/thumbs/6.webp",
-    "w": 1280,
-    "h": 1388,
-    "kind": "Section",
-    "caption": "Section · Cross section of a Sequoia sempervirens (California Redwood) showing its tree rings",
-    "credit": "Elwood P. Dowd",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cross_section_of_a_Sequoia_sempervirens_showing_its_tree_rings.jpg",
-    "file": "File:Cross section of a Sequoia sempervirens showing its tree rings.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -119870,6 +117248,18 @@ window.BUILDINGS = [
     "file": "File:DZ Bank Haus (Frank Gehry).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz%2C_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg/1280px-DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz%2C_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dz-bank-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 1061,
+    "kind": "Exterior",
+    "caption": "Exterior · DZ-Bank-Gebäude am Pariser Platz, Ansicht Rückseite Behrenstraße",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz,_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg",
+    "file": "File:DZ-Bank-Gebäude am Pariser Platz, Ansicht Rückseite Behrenstraße-3868.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Inside_the_DZ_Bank_building_in_Berlin.jpg/1280px-Inside_the_DZ_Bank_building_in_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/dz-bank-building/thumbs/4.webp",
     "w": 1120,
@@ -119892,23 +117282,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:DZ_Bank_building_in_Berlin_%2B_interior.jpg",
     "file": "File:DZ Bank building in Berlin + interior.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz%2C_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg/1280px-DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz%2C_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dz-bank-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 1061,
-    "kind": "Elevation",
-    "caption": "Elevation · DZ-Bank-Gebäude am Pariser Platz, Ansicht Rückseite Behrenstraße",
-    "credit": "Raimond Spekking",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:DZ-Bank-Geb%C3%A4ude_am_Pariser_Platz,_Ansicht_R%C3%BCckseite_Behrenstra%C3%9Fe-3868.jpg",
-    "file": "File:DZ-Bank-Gebäude am Pariser Platz, Ansicht Rückseite Behrenstraße-3868.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -120009,23 +117385,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Westblaak_en_Blaak_met_de_Schiedamse_Vest,_Schiedamsedijk,_Churchillplein,_Korte_Hoogstraat,_Leuvehaven,_Wijnhaven,_Binnenrotte,_Luchtspoor,_station_Rotterdam_Blaak,_Verlengde_Willemsbrug_en_Willemsspoorbrug_1983.jpg",
     "file": "File:Luchtopname van de Westblaak en Blaak met de Schiedamse Vest, Schiedamsedijk, Churchillplein, Korte Hoogstraat, Leuvehaven, Wijnhaven, Binnenrotte, Luchtspoor, station Rotterdam Blaak, Verlengde Willemsbrug en Willemsspoorbrug 1983.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Madurodam_9.jpg/1280px-Madurodam_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cube-houses/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Madurodam in the Hague in the Netherlands",
-    "credit": "Malis - Ondřej Málek",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Madurodam_9.jpg",
-    "file": "File:Madurodam 9.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -120890,17 +118252,15 @@ window.BUILDINGS = [
     "thumb": "images/national-museum-of-the-republic/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Plan",
-    "caption": "Plan · Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral",
+    "kind": "Context",
+    "caption": "Context · Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral",
     "credit": "Sintegrity",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria,_touring,_biblioteca,_museu_e_catedral.jpg",
     "file": "File:Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -122032,17 +119392,15 @@ window.BUILDINGS = [
     "thumb": "images/fuji-television-building/thumbs/6.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Drawing",
-    "caption": "Drawing",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "Chi-Hung Lin",
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%A0%B4_Odaiba_2016_(30116502316).jpg",
     "file": "File:台場 Odaiba 2016 (30116502316).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -123391,23 +120749,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kirche-Maria-Regina-Martyrum-Innen-Berlin-Charlottenburg-06-2017a_(retouched).jpg",
     "file": "File:Kirche-Maria-Regina-Martyrum-Innen-Berlin-Charlottenburg-06-2017a (retouched).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lageplan_Pfad_der_Erinnerung_Berlin-Charlottenburg-Nord.png/1280px-Lageplan_Pfad_der_Erinnerung_Berlin-Charlottenburg-Nord.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maria-regina-martyrum/thumbs/6.webp",
-    "w": 1280,
-    "h": 557,
-    "kind": "Plan",
-    "caption": "Plan · Map of the \"Path of Remembrance\" in the Memorial Area Charlottenburg-Nord in Berlin, Germany",
-    "credit": "Yen Zotto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lageplan_Pfad_der_Erinnerung_Berlin-Charlottenburg-Nord.png",
-    "file": "File:Lageplan Pfad der Erinnerung Berlin-Charlottenburg-Nord.png"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -124020,6 +121364,18 @@ window.BUILDINGS = [
     "file": "File:Courtyard Nebraska State Capitol 2025b.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg/1280px-Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nebraska-state-capitol/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Nebraska State Capitol, front elevation, north",
+    "credit": "Capitolist",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nebraska_State_Capitol,_front_elevation,_north.jpg",
+    "file": "File:Nebraska State Capitol, front elevation, north.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/01_Nebraska_State_Capitol_Aisle_Vault.jpg/1280px-01_Nebraska_State_Capitol_Aisle_Vault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nebraska-state-capitol/thumbs/5.webp",
     "w": 1280,
@@ -124030,23 +121386,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:01_Nebraska_State_Capitol_Aisle_Vault.jpg",
     "file": "File:01 Nebraska State Capitol Aisle Vault.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg/1280px-Nebraska_State_Capitol%2C_front_elevation%2C_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nebraska-state-capitol/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Nebraska State Capitol, front elevation, north",
-    "credit": "Capitolist",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nebraska_State_Capitol,_front_elevation,_north.jpg",
-    "file": "File:Nebraska State Capitol, front elevation, north.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -124147,23 +121489,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Aalto_Muuratsalo_experimental_house_03.jpg",
     "file": "File:Interior of Aalto Muuratsalo experimental house 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Model_of_Muuratsalo_Experimental_House_01.jpg/1280px-Model_of_Muuratsalo_Experimental_House_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muuratsalo-experimental-house/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · A model of the Muuratsalo Experimental House built in 1952-54 by Elissa and Alvar Aalto",
-    "credit": "1904.CC",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Muuratsalo_Experimental_House_01.jpg",
-    "file": "File:Model of Muuratsalo Experimental House 01.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -124424,6 +121752,18 @@ window.BUILDINGS = [
     "file": "File:Millard House, Pasadena, California.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Millard_House_-_La_Miniatura%2C_Pasadena_2.jpg/1280px-Millard_House_-_La_Miniatura%2C_Pasadena_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/millard-house-la-miniatura/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Millard House - La Miniatura, Pasadena, California",
+    "credit": "Los Angeles",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Millard_House_-_La_Miniatura,_Pasadena_2.jpg",
+    "file": "File:Millard House - La Miniatura, Pasadena 2.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Millard_House_%284%29_%2828134002710%29.jpg/1280px-Millard_House_%284%29_%2828134002710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/millard-house-la-miniatura/thumbs/4.webp",
     "w": 1280,
@@ -124446,23 +121786,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Millard_House_(2)_(28134003590).jpg",
     "file": "File:Millard House (2) (28134003590).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Millard_House_-_La_Miniatura%2C_Pasadena_2.jpg/1280px-Millard_House_-_La_Miniatura%2C_Pasadena_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/millard-house-la-miniatura/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Millard House - La Miniatura, Pasadena, California",
-    "credit": "Los Angeles",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Millard_House_-_La_Miniatura,_Pasadena_2.jpg",
-    "file": "File:Millard House - La Miniatura, Pasadena 2.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -125067,17 +122393,15 @@ window.BUILDINGS = [
     "thumb": "images/villa-goth/thumbs/4.webp",
     "w": 1280,
     "h": 905,
-    "kind": "Plan",
-    "caption": "Plan",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Sune Sundahl",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Villa_G%C3%B6th_Interi%C3%B6r_%C3%B6vre_plan._ArkDes_ARKM.1962-101-2077.jpg",
     "file": "File:Villa Göth Interiör övre plan. ArkDes ARKM.1962-101-2077.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -126011,23 +123335,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Villa_Metzler_innen_10.jpg",
     "file": "File:Villa Metzler innen 10.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/1952_Dieter_Rams_Chair_from_Studienarbeit_drawing.jpg/1280px-1952_Dieter_Rams_Chair_from_Studienarbeit_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-applied-arts-frankfurt/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Drawing",
-    "caption": "Drawing · siehe Legende",
-    "credit": "Wikisympathisant",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1952_Dieter_Rams_Chair_from_Studienarbeit_drawing.jpg",
-    "file": "File:1952 Dieter Rams Chair from Studienarbeit drawing.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -126233,18 +123543,6 @@ window.BUILDINGS = [
     "file": "File:Fuck Nazis - Anarchist Graffito on Doorway of Albert Speer-Designed Complex at Nazi Party Rally Grounds - Nuremberg-Nurnberg - Germany.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Museum_of_World_War_II_Natick_Massachusetts_2015._Third_Reich_Memorabilia_collectables_03_Hitler%27s_1936_sketch_of_Nazi_Eagle_%28Reichsadler%29_at_Party_Celebration_Square_%28Parteitaggel%C3%A4nde%29_Nuremberg.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/documentation-center-nazi-party-rally-grounds/thumbs/6.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "leewrightonflickr",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_World_War_II_Natick_Massachusetts_2015._Third_Reich_Memorabilia_collectables_03_Hitler%27s_1936_sketch_of_Nazi_Eagle_(Reichsadler)_at_Party_Celebration_Square_(Parteitaggel%C3%A4nde)_Nuremberg.jpg",
-    "file": "File:Museum of World War II Natick Massachusetts 2015. Third Reich Memorabilia collectables 03 Hitler's 1936 sketch of Nazi Eagle (Reichsadler) at Party Celebration Square (Parteitaggelände) Nuremberg.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bundesarchiv_Bild_183-2008-0118-501%2C_Modell_des_Reichsparteitagsgel%C3%A4ndes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/documentation-center-nazi-party-rally-grounds/thumbs/7.webp",
     "w": 800,
@@ -126258,7 +123556,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Sketch",
    "Model"
   ],
   "gv": 3
@@ -126852,23 +124149,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ancien_Palais_de_justice_de_Nantes_detail1.JPG",
     "file": "File:Ancien Palais de justice de Nantes detail1.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Palais_de_Justice_de_Nantes_lors_de_son_inauguration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/nantes-courthouse/thumbs/6.webp",
-    "w": 999,
-    "h": 579,
-    "kind": "Drawing",
-    "caption": "Drawing · Dessin du Palais de Justice à son inauguration",
-    "credit": "author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_de_Justice_de_Nantes_lors_de_son_inauguration.jpg",
-    "file": "File:Palais de Justice de Nantes lors de son inauguration.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -127050,6 +124333,18 @@ window.BUILDINGS = [
     "file": "File:Hauptverband Eingangsbereich mit Wittgensteinhaus.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kundmanngasse_19_Ansicht_1.jpg/1280px-Kundmanngasse_19_Ansicht_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wittgenstein-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Wohnhaus, Haus Stonborough-Wittgenstein",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Kundmanngasse_19_Ansicht_1.jpg",
+    "file": "File:Kundmanngasse 19 Ansicht 1.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Window_catch_in_Haus_Wittgenstein.jpg/1280px-Window_catch_in_Haus_Wittgenstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wittgenstein-house/thumbs/4.webp",
     "w": 1049,
@@ -127072,23 +124367,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Haus_Wittgenstein_door_handle.jpg",
     "file": "File:Haus Wittgenstein door handle.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kundmanngasse_19_Ansicht_1.jpg/1280px-Kundmanngasse_19_Ansicht_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wittgenstein-house/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Elevation",
-    "caption": "Elevation · Wohnhaus, Haus Stonborough-Wittgenstein",
-    "credit": "Thomas Ledl",
-    "license": "CC BY-SA 3.0 at",
-    "source": "https://commons.wikimedia.org/wiki/File:Kundmanngasse_19_Ansicht_1.jpg",
-    "file": "File:Kundmanngasse 19 Ansicht 1.jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -127189,23 +124470,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Burrell_caf%C3%A9_-_geograph.org.uk_-_4114266.jpg",
     "file": "File:The Burrell café - geograph.org.uk - 4114266.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sir_William_Burrell%27s_drawing_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/burrell-collection/thumbs/6.webp",
-    "w": 1024,
-    "h": 683,
-    "kind": "Drawing",
-    "caption": "Drawing · Reconstruction of Sir William Burrell's drawing room; part of the Burrell Collection in Glasgow",
-    "credit": "Son of Groucho",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sir_William_Burrell%27s_drawing_room.jpg",
-    "file": "File:Sir William Burrell's drawing room.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -127625,8 +124892,8 @@ window.BUILDINGS = [
     "thumb": "images/hotel-guimard/thumbs/6.webp",
     "w": 1280,
     "h": 1021,
-    "kind": "Plan",
-    "caption": "Plan · Plan in art nouveau motif",
+    "kind": "Interior",
+    "caption": "Interior · Plan in art nouveau motif",
     "credit": "Unknown artist Unknown artist",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Hemsy_Villa,_St._Cloud,_Plan_du_Rez_de_Chaussee,_1913_(CH_18384901-2).jpg",
@@ -127646,7 +124913,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Elevation"
   ],
   "gv": 3
@@ -128194,23 +125460,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stuttgart_Liederhalle_Foyer_2014_img01.jpg",
     "file": "File:Stuttgart Liederhalle Foyer 2014 img01.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alte_Liederhalle_Stuttgart_Grundriss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/liederhalle/thumbs/6.webp",
-    "w": 1024,
-    "h": 740,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Alte_Liederhalle_Stuttgart_Grundriss.jpg",
-    "file": "File:Alte Liederhalle Stuttgart Grundriss.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -128548,23 +125800,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:MUSE_Backstage_pass_-_April_2016_-_02.JPG",
     "file": "File:MUSE Backstage pass - April 2016 - 02.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Amanita_muscaria%2C_modello_micologico_-_Collezioni_MUSE%2C_Archivio_MUSE.jpg/1280px-Amanita_muscaria%2C_modello_micologico_-_Collezioni_MUSE%2C_Archivio_MUSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muse-science-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Model",
-    "caption": "Model · Amanita muscaria, modello micologico, MUSE",
-    "credit": "Collezioni MUSE, copyright Archivio MUSE",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria,_modello_micologico_-_Collezioni_MUSE,_Archivio_MUSE.jpg",
-    "file": "File:Amanita muscaria, modello micologico - Collezioni MUSE, Archivio MUSE.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -128770,33 +126008,32 @@ window.BUILDINGS = [
     "file": "File:Eduskuntatalo Helsinki 2022-09-16 09.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Saarinen_Eduskuntatalosuunnitelma.jpg/1280px-Saarinen_Eduskuntatalosuunnitelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/parliament-house-eduskuntatalo/thumbs/6.webp",
-    "w": 1280,
-    "h": 908,
-    "kind": "Plan",
-    "caption": "Plan · Eliel Saarisen ensimmäinen palkinnon saanut eduskuntatalosuunnitelma vuodelta 1908",
-    "credit": "Eliel Saarinen",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Saarinen_Eduskuntatalosuunnitelma.jpg",
-    "file": "File:Saarinen Eduskuntatalosuunnitelma.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/N%C3%A4kym%C3%A4_Postitalon_katolta_kohti_Mannerheimintiet%C3%A4_luoteeseen_-_D5340_%28hkm.HKMS000005-km0000pav3%29.jpg/1280px-N%C3%A4kym%C3%A4_Postitalon_katolta_kohti_Mannerheimintiet%C3%A4_luoteeseen_-_D5340_%28hkm.HKMS000005-km0000pav3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/parliament-house-eduskuntatalo/thumbs/7.webp",
     "w": 916,
     "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "Aittapelto Osmo",
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:N%C3%A4kym%C3%A4_Postitalon_katolta_kohti_Mannerheimintiet%C3%A4_luoteeseen_-_D5340_(hkm.HKMS000005-km0000pav3).jpg",
     "file": "File:Näkymä Postitalon katolta kohti Mannerheimintietä luoteeseen - D5340 (hkm.HKMS000005-km0000pav3).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Saarinen_Eduskuntatalosuunnitelma.jpg/1280px-Saarinen_Eduskuntatalosuunnitelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/parliament-house-eduskuntatalo/thumbs/6.webp",
+    "w": 1280,
+    "h": 908,
+    "kind": "Drawing",
+    "caption": "Drawing · Eliel Saarisen ensimmäinen palkinnon saanut eduskuntatalosuunnitelma vuodelta 1908",
+    "credit": "Eliel Saarinen",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Saarinen_Eduskuntatalosuunnitelma.jpg",
+    "file": "File:Saarinen Eduskuntatalosuunnitelma.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -128904,8 +126141,8 @@ window.BUILDINGS = [
     "thumb": "images/tribune-tower/thumbs/6.webp",
     "w": 1210,
     "h": 398,
-    "kind": "Plan",
-    "caption": "Plan · Chicago skyscraper plan, 1928",
+    "kind": "Drawing",
+    "caption": "Drawing · Chicago skyscraper plan, 1928",
     "credit": "Col. W. A. Starrett; (1877 - 1932)",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Chicago_skyscraper_plan,_1928.jpg",
@@ -128913,7 +126150,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -128993,6 +126230,30 @@ window.BUILDINGS = [
     "file": "File:National Building Museum in Washington D.C. (Tony Webster).jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/SOUTH_FACADE%2C_CENTRAL_SECTION.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/national-building-museum/thumbs/6.webp",
+    "w": 756,
+    "h": 968,
+    "kind": "Exterior",
+    "caption": "Exterior · 27",
+    "credit": "HABS photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:SOUTH_FACADE,_CENTRAL_SECTION.jpg",
+    "file": "File:SOUTH FACADE, CENTRAL SECTION.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/national-building-museum/thumbs/7.webp",
+    "w": 667,
+    "h": 953,
+    "kind": "Exterior",
+    "caption": "Exterior · 1",
+    "credit": "HABS photographer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg",
+    "file": "File:ENTRANCE - SOUTH ELEVATION - Pension Building.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_view_of_Judiciary_Square.jpg/1280px-Aerial_view_of_Judiciary_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-building-museum/thumbs/4.webp",
     "w": 1280,
@@ -129015,36 +126276,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Judiciary_Square_(cropped).jpg",
     "file": "File:Aerial view of Judiciary Square (cropped).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/SOUTH_FACADE%2C_CENTRAL_SECTION.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-building-museum/thumbs/6.webp",
-    "w": 756,
-    "h": 968,
-    "kind": "Section",
-    "caption": "Section · 27",
-    "credit": "HABS photographer",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:SOUTH_FACADE,_CENTRAL_SECTION.jpg",
-    "file": "File:SOUTH FACADE, CENTRAL SECTION.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-building-museum/thumbs/7.webp",
-    "w": 667,
-    "h": 953,
-    "kind": "Elevation",
-    "caption": "Elevation · 1",
-    "credit": "HABS photographer",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg",
-    "file": "File:ENTRANCE - SOUTH ELEVATION - Pension Building.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -129549,6 +126783,18 @@ window.BUILDINGS = [
     "file": "File:2022-04-03-Nord-Süd-Fahrt-8283.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_%284013-15%29.jpg/1280px-Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_%284013-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/weltstadthaus-peek-cloppenburg/thumbs/6.webp",
+    "w": 1280,
+    "h": 971,
+    "kind": "Exterior",
+    "caption": "Exterior · Weltstadthaus in Köln",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_(4013-15).jpg",
+    "file": "File:Weltstadthaus Köln - Ansicht von der Schildergasse (4013-15).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Pc-khing.jpg/1280px-Pc-khing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/weltstadthaus-peek-cloppenburg/thumbs/4.webp",
     "w": 1280,
@@ -129571,23 +126817,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Antoniterkirche_Weltstadthaus_Koeln2007.jpg",
     "file": "File:Antoniterkirche Weltstadthaus Koeln2007.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_%284013-15%29.jpg/1280px-Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_%284013-15%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/weltstadthaus-peek-cloppenburg/thumbs/6.webp",
-    "w": 1280,
-    "h": 971,
-    "kind": "Elevation",
-    "caption": "Elevation · Weltstadthaus in Köln",
-    "credit": "Raimond Spekking",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Weltstadthaus_K%C3%B6ln_-_Ansicht_von_der_Schildergasse_(4013-15).jpg",
-    "file": "File:Weltstadthaus Köln - Ansicht von der Schildergasse (4013-15).jpg"
    }
   ],
-  "has": [
-   "Elevation"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -129666,6 +126898,18 @@ window.BUILDINGS = [
     "file": "File:A House for an Art Lover - geograph.org.uk - 2333824.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg/1280px-House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-for-an-art-lover/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · House for an Art Lover - north elevation",
+    "credit": "M J Richardson",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg",
+    "file": "File:House for an Art Lover - north elevation - geograph.org.uk - 7440106.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/House_for_an_Art_Lover_-_geograph.org.uk_-_7440123.jpg/1280px-House_for_an_Art_Lover_-_geograph.org.uk_-_7440123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/house-for-an-art-lover/thumbs/4.webp",
     "w": 1280,
@@ -129690,18 +126934,6 @@ window.BUILDINGS = [
     "file": "File:House for an Art Lover - geograph.org.uk - 7440141.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg/1280px-House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/house-for-an-art-lover/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · House for an Art Lover - north elevation",
-    "credit": "M J Richardson",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:House_for_an_Art_Lover_-_north_elevation_-_geograph.org.uk_-_7440106.jpg",
-    "file": "File:House for an Art Lover - north elevation - geograph.org.uk - 7440106.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Le_dessin_de_Mackintosh_de_la_%22House_for_an_art_lover%22_%28vue_sud-est%29_%283811535708%29.jpg/1280px-Le_dessin_de_Mackintosh_de_la_%22House_for_an_art_lover%22_%28vue_sud-est%29_%283811535708%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/house-for-an-art-lover/thumbs/7.webp",
     "w": 1280,
@@ -129715,7 +126947,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation",
    "Drawing"
   ],
   "gv": 3
@@ -130091,23 +127322,9 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_panels_PJA.jpg",
     "file": "File:Interior panels PJA.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Grapevine_LACMA_M.2002.169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/pavilion-for-japanese-art-lacma/thumbs/6.webp",
-    "w": 381,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · Japan, 1802 Paintings; scrolls Hanging scroll; ink on paper Image: 38 1/8 x 10 1/2 in",
-    "credit": "Tenryūdōjin (Japan, 1718-1810)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Grapevine_LACMA_M.2002.169.jpg",
-    "file": "File:Grapevine LACMA M.2002.169.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -130402,23 +127619,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_the_Fulton_Country_Central_Library.jpg",
     "file": "File:Atrium of the Fulton Country Central Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Carnegie_Library%2C_Atlanta%2C_Georgia_LCCN2007682645.jpg/1280px-Carnegie_Library%2C_Atlanta%2C_Georgia_LCCN2007682645.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/atlanta-central-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 769,
-    "kind": "Plan",
-    "caption": "Plan · Title: Carnegie Library, Atlanta, Georgia Abstract/medium: 1 photomechanical print ",
-    "credit": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Carnegie_Library,_Atlanta,_Georgia_LCCN2007682645.jpg",
-    "file": "File:Carnegie Library, Atlanta, Georgia LCCN2007682645.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -130531,23 +127734,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Grundriss_Parlament_Wien.jpg",
     "file": "File:Grundriss Parlament Wien.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/August_Eisenmenger_Herodot_in_Olympia_Skizze.jpg/1280px-August_Eisenmenger_Herodot_in_Olympia_Skizze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/austrian-parliament-building/thumbs/7.webp",
-    "w": 1280,
-    "h": 1380,
-    "kind": "Sketch",
-    "caption": "Sketch · \"Herodot in Olympia\", Skizze zum 1886 entstandenen 14-teiligen Fries (Nr",
-    "credit": "August Eisenmenger",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:August_Eisenmenger_Herodot_in_Olympia_Skizze.jpg",
-    "file": "File:August Eisenmenger Herodot in Olympia Skizze.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Sketch"
+   "Plan"
   ],
   "gv": 3
  },
@@ -133201,6 +130391,18 @@ window.BUILDINGS = [
     "file": "File:MVRDV Edificio Mirador Tilted.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ON-SITE-New_Architecture_in_Spain.jpg/1280px-ON-SITE-New_Architecture_in_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mirador/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A rural hotel and the building of MVRDV in Madrid",
+    "credit": "http://commons.wikimedia.org/wiki/User:Balbo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ON-SITE-New_Architecture_in_Spain.jpg",
+    "file": "File:ON-SITE-New Architecture in Spain.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Edificio_Mirador_%28Madrid%29_06.jpg/1280px-Edificio_Mirador_%28Madrid%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mirador/thumbs/4.webp",
     "w": 1050,
@@ -133223,23 +130425,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0 es",
     "source": "https://commons.wikimedia.org/wiki/File:Edificio_Mirador_(Madrid)_07.jpg",
     "file": "File:Edificio Mirador (Madrid) 07.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ON-SITE-New_Architecture_in_Spain.jpg/1280px-ON-SITE-New_Architecture_in_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mirador/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · A rural hotel and the building of MVRDV in Madrid",
-    "credit": "http://commons.wikimedia.org/wiki/User:Balbo",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ON-SITE-New_Architecture_in_Spain.jpg",
-    "file": "File:ON-SITE-New Architecture in Spain.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -133941,23 +131129,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:8th_Floor_of_the_Green_Building_(10951540115).jpg",
     "file": "File:8th Floor of the Green Building (10951540115).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tech_Model_Railroad_Green_Building.jpg/1280px-Tech_Model_Railroad_Green_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/green-building-mit-building-54/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Passenger station and city scene on the Tech Nickel Plate Railroad",
-    "credit": "Josh Graciano",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tech_Model_Railroad_Green_Building.jpg",
-    "file": "File:Tech Model Railroad Green Building.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -135370,23 +132544,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:20211116._Ancient_Roman_theatre_in_Cartagena.-015.jpg",
     "file": "File:20211116. Ancient Roman theatre in Cartagena.-015.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Roman_Theatre_model_in_Cartagena%2C_Spain.jpg/1280px-Roman_Theatre_model_in_Cartagena%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cartagena-roman-theatre-museum/thumbs/6.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Reconstruction of the Roman Theatre of Cartagena inside the Roman Theatre Museum in Cartagena, Spain",
-    "credit": "DanielMichaelPerry",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_model_in_Cartagena,_Spain.jpg",
-    "file": "File:Roman Theatre model in Cartagena, Spain.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -136765,6 +133925,18 @@ window.BUILDINGS = [
     "file": "File:San Francisco City Hall 2.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Victory_gardens_at_slow_food_nation.jpg/1280px-Victory_gardens_at_slow_food_nation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-francisco-city-hall/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The victory gardens at Slow Food Nation",
+    "credit": "david silver  from san francisco",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victory_gardens_at_slow_food_nation.jpg",
+    "file": "File:Victory gardens at slow food nation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/San_Francisco_City_Hall_September_2013_panorama_3.jpg/1280px-San_Francisco_City_Hall_September_2013_panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/san-francisco-city-hall/thumbs/1.webp",
     "w": 1280,
@@ -136799,23 +133971,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall_as_seen_from_100_Van_Ness_at_dusk_(wide).jpg",
     "file": "File:San Francisco City Hall as seen from 100 Van Ness at dusk (wide).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Victory_gardens_at_slow_food_nation.jpg/1280px-Victory_gardens_at_slow_food_nation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-francisco-city-hall/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · The victory gardens at Slow Food Nation",
-    "credit": "david silver  from san francisco",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Victory_gardens_at_slow_food_nation.jpg",
-    "file": "File:Victory gardens at slow food nation.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -138319,23 +135477,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:14-02-04-Parlement-europ%C3%A9en-Strasbourg-RalfR-121.jpg",
     "file": "File:14-02-04-Parlement-européen-Strasbourg-RalfR-121.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Model_Evropsk%C3%A9_unie.jpg/1280px-Model_Evropsk%C3%A9_unie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/louise-weiss-building-european-parliament/thumbs/6.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Model",
-    "caption": "Model · delegati",
-    "credit": "Gejdiv",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_Evropsk%C3%A9_unie.jpg",
-    "file": "File:Model Evropské unie.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -139377,23 +136521,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Lego_(201996155).jpeg",
     "file": "File:Lego (201996155).jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bridge_Out_5769_%284264633021%29.jpg/1280px-Bridge_Out_5769_%284264633021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/555-california-street/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Once again we lasted a good part of the day",
-    "credit": "mliu92  from San Mateo",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bridge_Out_5769_(4264633021).jpg",
-    "file": "File:Bridge Out 5769 (4264633021).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -139611,23 +136741,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Berlin_Funkturm_2026-04-01_img07.jpg",
     "file": "File:Berlin Funkturm 2026-04-01 img07.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/DBPB_1957_161_Interbau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/funkturm-berlin/thumbs/6.webp",
-    "w": 840,
-    "h": 720,
-    "kind": "Model",
-    "caption": "Model · stamp for the international exhibition of building structure Interbau",
-    "credit": "scanned by  NobbiP",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:DBPB_1957_161_Interbau.jpg",
-    "file": "File:DBPB 1957 161 Interbau.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -140551,23 +137667,8 @@ window.BUILDINGS = [
    9.16262
   ],
   "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fopponino_di_Milano%2C_pianta.jpg/1280px-Fopponino_di_Milano%2C_pianta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-francesco-al-fopponino/thumbs/0.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Pianta lapidea apposta sul muro del Fopponino di Porta Vercellina, Milano",
-    "credit": "Paolobon140",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fopponino_di_Milano,_pianta.jpg",
-    "file": "File:Fopponino di Milano, pianta.jpg"
-   }
-  ],
-  "has": [
-   "Plan"
-  ],
+  "images": [],
+  "has": [],
   "gv": 3
  },
  {
@@ -140881,23 +137982,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:First_Capitol_Buildings,_Harrisburg,_Dauphin_County,_PA_HABS_PA,22-HARBU,1-_(sheet_2_of_3).png",
     "file": "File:First Capitol Buildings, Harrisburg, Dauphin County, PA HABS PA,22-HARBU,1- (sheet 2 of 3).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/R._Budd_Dwyer_Holding_a_Pistol_as_he_Prepares_to_Commit_Suicide_%28Restored%29.png/1280px-R._Budd_Dwyer_Holding_a_Pistol_as_he_Prepares_to_Commit_Suicide_%28Restored%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pennsylvania-state-capitol/thumbs/7.webp",
-    "w": 1280,
-    "h": 1133,
-    "kind": "Model",
-    "caption": "Model · Pennsylvania State Treasurer R",
-    "credit": "Gary Dwight Miller",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:R._Budd_Dwyer_Holding_a_Pistol_as_he_Prepares_to_Commit_Suicide_(Restored).png",
-    "file": "File:R. Budd Dwyer Holding a Pistol as he Prepares to Commit Suicide (Restored).png"
    }
   ],
   "has": [
-   "Plan",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -141118,18 +138206,6 @@ window.BUILDINGS = [
     "file": "File:Chicago as seen from a commercial flight 03.JPG"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chicago_skyscraper_plan%2C_1928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/wrigley-building/thumbs/6.webp",
-    "w": 1210,
-    "h": 398,
-    "kind": "Plan",
-    "caption": "Plan · Chicago skyscraper plan, 1928",
-    "credit": "Col. W. A. Starrett; (1877 - 1932)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Chicago_skyscraper_plan,_1928.jpg",
-    "file": "File:Chicago skyscraper plan, 1928.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Drawing_of_Chicago_Riverwalk_segment_between_Wrigley_Building_and_Michigan_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/wrigley-building/thumbs/7.webp",
     "w": 962,
@@ -141143,7 +138219,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Drawing"
   ],
   "gv": 3
@@ -141854,23 +138929,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:1975_in_Dresden_03.jpg",
     "file": "File:1975 in Dresden 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Modell_Kulturpalast_DD.JPG/1280px-Modell_Kulturpalast_DD.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kulturpalast-dresden/thumbs/6.webp",
-    "w": 1280,
-    "h": 837,
-    "kind": "Model",
-    "caption": "Model · Modell Kulturpalast Dresden (Westseite), Entwurf des Reliefs \"Veränderbarkeit der Welt\" von Rudolf Sitte",
-    "credit": "Helmuthopfauf",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Modell_Kulturpalast_DD.JPG",
-    "file": "File:Modell Kulturpalast DD.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -142370,6 +139431,18 @@ window.BUILDINGS = [
     "file": "File:Hannover Neues Rathaus (2026) 01.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Neues_Rathaus%2C_Nord-Ost-Ansicht%2C_Hannover.jpg/1280px-Neues_Rathaus%2C_Nord-Ost-Ansicht%2C_Hannover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-town-hall-hanover/thumbs/7.webp",
+    "w": 1280,
+    "h": 876,
+    "kind": "Exterior",
+    "caption": "Exterior · New town hall of Hannover",
+    "credit": "Raycer",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Neues_Rathaus,_Nord-Ost-Ansicht,_Hannover.jpg",
+    "file": "File:Neues Rathaus, Nord-Ost-Ansicht, Hannover.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Neues_Rathaus_Hannover_abends.jpg/1280px-Neues_Rathaus_Hannover_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/new-town-hall-hanover/thumbs/3.webp",
     "w": 1280,
@@ -142406,30 +139479,6 @@ window.BUILDINGS = [
     "file": "File:20230321 Neues Rathaus Hannover 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/1918-1939_circa_Open_GeoData_Plan_der_Hauptstadt_Hannover_1_zu_1000_%28Historisch%29_Kachel_Sw_301b.jpg/1280px-1918-1939_circa_Open_GeoData_Plan_der_Hauptstadt_Hannover_1_zu_1000_%28Historisch%29_Kachel_Sw_301b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/new-town-hall-hanover/thumbs/6.webp",
-    "w": 1138,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Auszug der Karte aus dem Stadtteil Südstadt der Stadt Hannover",
-    "credit": "Landeshauptstadt Hannover, FB Planen und Stadtentwicklung, Bereich Geoinformation",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1918-1939_circa_Open_GeoData_Plan_der_Hauptstadt_Hannover_1_zu_1000_(Historisch)_Kachel_Sw_301b.jpg",
-    "file": "File:1918-1939 circa Open GeoData Plan der Hauptstadt Hannover 1 zu 1000 (Historisch) Kachel Sw 301b.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Neues_Rathaus%2C_Nord-Ost-Ansicht%2C_Hannover.jpg/1280px-Neues_Rathaus%2C_Nord-Ost-Ansicht%2C_Hannover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/new-town-hall-hanover/thumbs/7.webp",
-    "w": 1280,
-    "h": 876,
-    "kind": "Elevation",
-    "caption": "Elevation · New town hall of Hannover",
-    "credit": "Raycer",
-    "license": "CC BY-SA 3.0 de",
-    "source": "https://commons.wikimedia.org/wiki/File:Neues_Rathaus,_Nord-Ost-Ansicht,_Hannover.jpg",
-    "file": "File:Neues Rathaus, Nord-Ost-Ansicht, Hannover.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cupola_Hanover_City_Hall_Drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/new-town-hall-hanover/thumbs/8.webp",
     "w": 755,
@@ -142443,8 +139492,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
-   "Elevation",
    "Drawing"
   ],
   "gv": 3
@@ -143371,23 +140418,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Nat_space_centre.jpg",
     "file": "File:Nat space centre.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Model_of_the_International_Space_Station.jpg/1280px-Model_of_the_International_Space_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-space-centre/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · It's not quite right - includes some cancelled modules",
-    "credit": "Matt Brown",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_International_Space_Station.jpg",
-    "file": "File:Model of the International Space Station.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -144470,23 +141503,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_Yud,_the_Contemporary_Jewish_Museum.jpg",
     "file": "File:Interior view of Yud, the Contemporary Jewish Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Stanley_Kubrick_The_Exhibition_-_CJM_-_The_Shining_replica_maze.jpg/1280px-Stanley_Kubrick_The_Exhibition_-_CJM_-_The_Shining_replica_maze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/contemporary-jewish-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Elisa Paluan  from Bologna, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_The_Exhibition_-_CJM_-_The_Shining_replica_maze.jpg",
-    "file": "File:Stanley Kubrick The Exhibition - CJM - The Shining replica maze.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -144999,23 +142018,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Public_library_and_new_Old_South_Church,_Boston,_Mass_(87229).jpg",
     "file": "File:Public library and new Old South Church, Boston, Mass (87229).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Model_of_roof_trim%2C_construction_of_the_McKim_Building%2C_by_McKim%2C_Mead_%26_White%2C_c._1890-1895%2C_from_the_Digital_Commonwealth_-_commonwealth_ms35v3560.jpg/1280px-Model_of_roof_trim%2C_construction_of_the_McKim_Building%2C_by_McKim%2C_Mead_%26_White%2C_c._1890-1895%2C_from_the_Digital_Commonwealth_-_commonwealth_ms35v3560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/boston-public-library-mckim-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 995,
-    "kind": "Model",
-    "caption": "Model · Model of roof trim, construction of the McKim Building, by McKim, Mead & White, c",
-    "credit": "McKim, Mead & White",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_roof_trim,_construction_of_the_McKim_Building,_by_McKim,_Mead_%26_White,_c._1890-1895,_from_the_Digital_Commonwealth_-_commonwealth_ms35v3560.jpg",
-    "file": "File:Model of roof trim, construction of the McKim Building, by McKim, Mead & White, c. 1890-1895, from the Digital Commonwealth - commonwealth ms35v3560.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -145633,23 +142638,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Frick_Fine_Arts_Fountain_in_Oakland.jpg",
     "file": "File:Frick Fine Arts Fountain in Oakland.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cathedral_of_learning_-_plans_01.JPG/1280px-Cathedral_of_learning_-_plans_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cathedral-of-learning/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing · Plans for the Cathderal of Learning",
-    "credit": "Piotrus",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_of_learning_-_plans_01.JPG",
-    "file": "File:Cathedral of learning - plans 01.JPG"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -146441,8 +143432,8 @@ window.BUILDINGS = [
     "thumb": "images/tabakfabrik-linz/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Fassade/Fensterbänder der Tabakfabrik Linz (Bau 1) Blick von der Ludlgasse auf das Gebäude",
+    "kind": "Detail",
+    "caption": "Detail · Fassade/Fensterbänder der Tabakfabrik Linz (Bau 1) Blick von der Ludlgasse auf das Gebäude",
     "credit": "Fyrtaarn",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fassade_Fensterb%C3%A4nder_Tabakfabrik_Linz_(Bau_1)_Ansicht_Ludlgasse_Linz_P1530375_2024-07-24_yj.jpg",
@@ -146462,7 +143453,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation",
    "Model"
   ],
   "gv": 3
@@ -147080,8 +144070,8 @@ window.BUILDINGS = [
     "thumb": "images/museum-of-military-history-arsenal/thumbs/4.webp",
     "w": 1007,
     "h": 578,
-    "kind": "Elevation",
-    "caption": "Elevation",
+    "kind": "Drawing",
+    "caption": "Drawing",
     "credit": "Rudolf von Alt",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:HGM_Rudolf_von_Alt_Ansicht_k.k._Hofwaffenmuseum_1857.jpg",
@@ -147089,7 +144079,7 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -147294,23 +144284,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Triennale_di_milano_giardino_interno.jpeg",
     "file": "File:Triennale di milano giardino interno.jpeg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6347074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/palazzo-dell-arte-triennale-di-milano/thumbs/6.webp",
-    "w": 1280,
-    "h": 969,
-    "kind": "Section",
-    "caption": "Section · Servizio fotografico : Milano, 1957 / Paolo Monti",
-    "credit": "Paolo Monti",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_-_BEIC_6347074.jpg",
-    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6347074.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -148452,6 +145428,18 @@ window.BUILDINGS = [
     "file": "File:Shoe Rack - Taj Mahal Complex - Agra 2014-05-14 3939.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_different_view_of_taj.jpg/1280px-A_different_view_of_taj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taj-mahal/thumbs/6.webp",
+    "w": 1280,
+    "h": 1315,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kulbhushan05",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_different_view_of_taj.jpg",
+    "file": "File:A different view of taj.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Fountain_Facing_Assembly_Hall_-_Taj_Mahal_Complex_-_Agra_2014-05-14_3810.JPG/1280px-Fountain_Facing_Assembly_Hall_-_Taj_Mahal_Complex_-_Agra_2014-05-14_3810.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/taj-mahal/thumbs/4.webp",
     "w": 1280,
@@ -148474,23 +145462,9 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Northern_Octagonal_Tower_-_West_View_-_Assembly_Hall_-_Taj_Mahal_Complex_-_Agra_2014-05-14_3817.JPG",
     "file": "File:Northern Octagonal Tower - West View - Assembly Hall - Taj Mahal Complex - Agra 2014-05-14 3817.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_different_view_of_taj.jpg/1280px-A_different_view_of_taj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/taj-mahal/thumbs/6.webp",
-    "w": 1280,
-    "h": 1315,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Kulbhushan05",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_different_view_of_taj.jpg",
-    "file": "File:A different view of taj.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -148593,6 +145567,18 @@ window.BUILDINGS = [
     "file": "File:Madrasah of Sultan Hassan in 2017, photo by Hatem Moushir 23.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sultan_Hassan_Mosque_at_cairo.jpg/1280px-Sultan_Hassan_Mosque_at_cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/7.webp",
+    "w": 1280,
+    "h": 831,
+    "kind": "Detail",
+    "caption": "Detail · This is a photo of a monument in Egypt identified by the ID",
+    "credit": "Fatmaz27",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sultan_Hassan_Mosque_at_cairo.jpg",
+    "file": "File:Sultan Hassan Mosque at cairo.jpg"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Britannica_Mosque_-_Sultan_Hasan_Cairo_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/6.webp",
     "w": 809,
@@ -148603,23 +145589,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Britannica_Mosque_-_Sultan_Hasan_Cairo_plan.jpg",
     "file": "File:Britannica Mosque - Sultan Hasan Cairo plan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sultan_Hassan_Mosque_at_cairo.jpg/1280px-Sultan_Hassan_Mosque_at_cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/7.webp",
-    "w": 1280,
-    "h": 831,
-    "kind": "Section",
-    "caption": "Section · This is a photo of a monument in Egypt identified by the ID",
-    "credit": "Fatmaz27",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sultan_Hassan_Mosque_at_cairo.jpg",
-    "file": "File:Sultan Hassan Mosque at cairo.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Section"
+   "Plan"
   ],
   "gv": 3
  },
@@ -148699,6 +145672,18 @@ window.BUILDINGS = [
     "file": "File:Soltaniyeh Dome (Summer 2024).jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/First_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/dome-of-soltaniyeh/thumbs/6.webp",
+    "w": 1200,
+    "h": 800,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Mehradmoslemian",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_plan.jpg",
+    "file": "File:First plan.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Soltaniyeh_dome_by_Mardetanha_6371.JPG/1280px-Soltaniyeh_dome_by_Mardetanha_6371.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/dome-of-soltaniyeh/thumbs/4.webp",
     "w": 1280,
@@ -148721,18 +145706,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Soltaniyeh_dome_by_Mardetanha_6432.JPG",
     "file": "File:Soltaniyeh dome by Mardetanha 6432.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/First_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/dome-of-soltaniyeh/thumbs/6.webp",
-    "w": 1200,
-    "h": 800,
-    "kind": "Plan",
-    "caption": "Plan · This is a photo of a monument in Iran identified by the ID",
-    "credit": "Mehradmoslemian",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:First_plan.jpg",
-    "file": "File:First plan.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Model_of_Dome_of_Soltaniyeh_in_Iranian_art_museum_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -148760,7 +145733,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Model",
    "Drawing"
   ],
@@ -149085,23 +146057,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Estantes_de_libros_en_la_Biblioteca_Central_de_la_UNAM.jpg",
     "file": "File:Estantes de libros en la Biblioteca Central de la UNAM.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Biblioteca_Central_de_la_UNAM_Secci%C3%B3n_infantil_de_la_Sala_de_consulta_01.jpg/1280px-Biblioteca_Central_de_la_UNAM_Secci%C3%B3n_infantil_de_la_Sala_de_consulta_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/central-library-unam/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Section",
-    "caption": "Section · Biblioteca Central de la UNAM Sección infantil de la Sala de consulta",
-    "credit": "Laboratorio Restauración",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Central_de_la_UNAM_Secci%C3%B3n_infantil_de_la_Sala_de_consulta_01.jpg",
-    "file": "File:Biblioteca Central de la UNAM Sección infantil de la Sala de consulta 01.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -149320,7 +146278,7 @@ window.BUILDINGS = [
   "y": 1928,
   "type": "House",
   "movement": "Modernism",
-  "region": "Europe",
+  "region": "Africa",
   "era": "1900–1945",
   "concepts": [
    "Section",
@@ -150126,18 +147084,6 @@ window.BUILDINGS = [
     "file": "File:Hafez tomb plan.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Model_of_Iranian_buildings_at_Tehran_railway_station%2C_February_2022_-_01.jpg/1280px-Model_of_Iranian_buildings_at_Tehran_railway_station%2C_February_2022_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tomb-of-hafez/thumbs/7.webp",
-    "w": 1280,
-    "h": 577,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Maometto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Iranian_buildings_at_Tehran_railway_station,_February_2022_-_01.jpg",
-    "file": "File:Model of Iranian buildings at Tehran railway station, February 2022 - 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomb_of_the_poet_Hafez_by_Eug%C3%A8ne_Flandin.jpg/1280px-Tomb_of_the_poet_Hafez_by_Eug%C3%A8ne_Flandin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tomb-of-hafez/thumbs/8.webp",
     "w": 1280,
@@ -150152,7 +147098,6 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
-   "Model",
    "Drawing"
   ],
   "gv": 3
@@ -150255,23 +147200,9 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Stadswijken_binnen_de_stadsmuren,_Bestanddeelnr_255-0318.jpg",
     "file": "File:Stadswijken binnen de stadsmuren, Bestanddeelnr 255-0318.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/East_Jerusalem%2C_the_Rockefeller_Museum_Model_at_the_Rockefeller_Museum_P1180956.JPG/1280px-East_Jerusalem%2C_the_Rockefeller_Museum_Model_at_the_Rockefeller_Museum_P1180956.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rockefeller-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Rockefeller Museum Model at the Rockefeller Museum, Jerusalem",
-    "credit": "Deror Avi",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:East_Jerusalem,_the_Rockefeller_Museum_Model_at_the_Rockefeller_Museum_P1180956.JPG",
-    "file": "File:East Jerusalem, the Rockefeller Museum Model at the Rockefeller Museum P1180956.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -152254,30 +149185,15 @@ window.BUILDINGS = [
     "thumb": "images/bihar-museum/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Section",
-    "caption": "Section · Bihar Museum Children and Wildlife Section",
+    "kind": "Interior",
+    "caption": "Interior · Bihar Museum Children and Wildlife Section",
     "credit": "Pulakit Singh",
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Bihar_Museum_Children_and_Wildlife_Section.jpg",
     "file": "File:Bihar Museum Children and Wildlife Section.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Siraj-ud-Daula%2C_Subedar_of_Bengal.jpg/1280px-Siraj-ud-Daula%2C_Subedar_of_Bengal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bihar-museum/thumbs/7.webp",
-    "w": 1280,
-    "h": 1153,
-    "kind": "Model",
-    "caption": "Model · Siraj-ud-Daula, the Governor of Bengal shown listening to music with a female companion",
-    "credit": "SpeakingArch",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Siraj-ud-Daula,_Subedar_of_Bengal.jpg",
-    "file": "File:Siraj-ud-Daula, Subedar of Bengal.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -152378,36 +149294,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Mumbai_International_airport_T2_baggage_belt1.JPG",
     "file": "File:Mumbai International airport T2 baggage belt1.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/%22The_Artbeat_of_New_India%22_museum_%28specifically_the_West_Bengal_section_titled_%22Atelier_of_Ephemera%22%29%2C_located_inside_Terminal_2_of_Chhatrapati_Shivaji_Maharaj_International_Airport_%28CSMIA%29_in_Mumbai%2C_India..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/chhatrapati-shivaji-maharaj-international-airport-terminal-2/thumbs/6.webp",
-    "w": 627,
-    "h": 1400,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Annni07",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%22The_Artbeat_of_New_India%22_museum_(specifically_the_West_Bengal_section_titled_%22Atelier_of_Ephemera%22),_located_inside_Terminal_2_of_Chhatrapati_Shivaji_Maharaj_International_Airport_(CSMIA)_in_Mumbai,_India..jpg",
-    "file": "File:\"The Artbeat of New India\" museum (specifically the West Bengal section titled \"Atelier of Ephemera\"), located inside Terminal 2 of Chhatrapati Shivaji Maharaj International Airport (CSMIA) in Mumbai, India..jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Model_Kashmiri_House_Boat.jpg/1280px-Model_Kashmiri_House_Boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chhatrapati-shivaji-maharaj-international-airport-terminal-2/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Pratishkhedekar",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_Kashmiri_House_Boat.jpg",
-    "file": "File:Model Kashmiri House Boat.jpg"
    }
   ],
-  "has": [
-   "Section",
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -152938,7 +149827,7 @@ window.BUILDINGS = [
   "y": 1638,
   "type": "Religious",
   "movement": "Historic precedent",
-  "region": "Europe",
+  "region": "South Asia",
   "era": "Before 1900",
   "concepts": [
    "Courtyard",
@@ -153998,23 +150887,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bahagian_dalaman_Parlimen_Malaysia_(10).jpg",
     "file": "File:Bahagian dalaman Parlimen Malaysia (10).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Model_of_the_interior_of_Dewan_Negara.jpg/1280px-Model_of_the_interior_of_Dewan_Negara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/malaysian-houses-of-parliament/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Wolfiewhite",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_interior_of_Dewan_Negara.jpg",
-    "file": "File:Model of the interior of Dewan Negara.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -155346,7 +152221,7 @@ window.BUILDINGS = [
   "y": 1560,
   "type": "Religious",
   "movement": "Historic precedent",
-  "region": "Europe",
+  "region": "Southeast Asia",
   "era": "Before 1900",
   "concepts": [
    "Timber",
@@ -156234,23 +153109,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Voortrekker_Monument_spectacular_interior.JPG",
     "file": "File:The Voortrekker Monument spectacular interior.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Relief_of_an_ox-wagon%2C_Voortrekker_Monument.jpg/1280px-Relief_of_an_ox-wagon%2C_Voortrekker_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/voortrekker-monument/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Relief of an ox-wagon, Voortrekker Monument, Pretoria, South Africa",
-    "credit": "Bernard Gagnon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Relief_of_an_ox-wagon,_Voortrekker_Monument.jpg",
-    "file": "File:Relief of an ox-wagon, Voortrekker Monument.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -158304,6 +155165,18 @@ window.BUILDINGS = [
     "file": "File:A FOCSA épület a Malecón felől nézve. Fortepan 61481.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Entrance_elevation_showing_tower_FOCSA_Building.jpg/1280px-Entrance_elevation_showing_tower_FOCSA_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/focsa-building/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance elevation showing tower_FOCSA Building",
+    "credit": "Osvaldo valdes 165443 ; Architect(s) of building shown:  Ernesto Gómez Sampera (1921–2004) and Marti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_elevation_showing_tower_FOCSA_Building.jpg",
+    "file": "File:Entrance elevation showing tower FOCSA Building.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Back_stairs_to_tower_apartments_FOCSA_Building.jpg/1280px-Back_stairs_to_tower_apartments_FOCSA_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/focsa-building/thumbs/4.webp",
     "w": 1280,
@@ -158338,23 +155211,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:FOCSA_BUILDING_FLOOR_PLAN.jpg",
     "file": "File:FOCSA BUILDING FLOOR PLAN.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Entrance_elevation_showing_tower_FOCSA_Building.jpg/1280px-Entrance_elevation_showing_tower_FOCSA_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/focsa-building/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Entrance elevation showing tower_FOCSA Building",
-    "credit": "Osvaldo valdes 165443 ; Architect(s) of building shown:  Ernesto Gómez Sampera (1921–2004) and Marti",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Entrance_elevation_showing_tower_FOCSA_Building.jpg",
-    "file": "File:Entrance elevation showing tower FOCSA Building.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Elevation"
+   "Plan"
   ],
   "gv": 3
  },
@@ -159213,17 +156073,15 @@ window.BUILDINGS = [
     "thumb": "images/juscelino-kubitschek-bridge/thumbs/6.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Plan",
-    "caption": "Plan",
+    "kind": "Context",
+    "caption": "Context",
     "credit": "Sintegrity",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria,_touring,_teatro,_biblioteca,_museu,_catedral,_congresso,_Ponte_Juscelino_Kubitschek.jpg",
     "file": "File:Brasília - Eixo Monumental - rodoviária, touring, teatro, biblioteca, museu, catedral, congresso, Ponte Juscelino Kubitschek.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -160727,23 +157585,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sale_Gipsoteca_canoviana_01.jpg",
     "file": "File:Sale Gipsoteca canoviana 01.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Canova_-_Giuseppe_Bossi_-_original_plaster_bust_model%2C_1816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/gipsoteca-canoviana/thumbs/6.webp",
-    "w": 900,
-    "h": 1200,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Antonio Canova",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Canova_-_Giuseppe_Bossi_-_original_plaster_bust_model,_1816.jpg",
-    "file": "File:Canova - Giuseppe Bossi - original plaster bust model, 1816.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -160938,7 +157782,7 @@ window.BUILDINGS = [
   "y": 1559,
   "type": "Religious",
   "movement": "Historic precedent",
-  "region": "Europe",
+  "region": "Middle East",
   "era": "Before 1900",
   "concepts": [
    "Courtyard",
@@ -161222,6 +158066,18 @@ window.BUILDINGS = [
     "file": "File:Kingston Hill, Dorich House Museum, Dining room.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kingston_Hill%2C_Dorich_House_Museum%2C_Drawing_room.jpg/1280px-Kingston_Hill%2C_Dorich_House_Museum%2C_Drawing_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/town-house-kingston-university/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Kingston Hill, Dorich House Museum, Drawing room",
+    "credit": "AndyScott",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingston_Hill,_Dorich_House_Museum,_Drawing_room.jpg",
+    "file": "File:Kingston Hill, Dorich House Museum, Drawing room.jpg"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dame_Edith_Evans_%281938%29_by_Dora_Gordine%2C_Dorich_House_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/town-house-kingston-university/thumbs/5.webp",
     "w": 538,
@@ -161232,23 +158088,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dame_Edith_Evans_(1938)_by_Dora_Gordine,_Dorich_House_Museum.jpg",
     "file": "File:Dame Edith Evans (1938) by Dora Gordine, Dorich House Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Kingston_Hill%2C_Dorich_House_Museum%2C_Drawing_room.jpg/1280px-Kingston_Hill%2C_Dorich_House_Museum%2C_Drawing_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/town-house-kingston-university/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Drawing",
-    "caption": "Drawing · Kingston Hill, Dorich House Museum, Drawing room",
-    "credit": "AndyScott",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kingston_Hill,_Dorich_House_Museum,_Drawing_room.jpg",
-    "file": "File:Kingston Hill, Dorich House Museum, Drawing room.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -161361,23 +158203,10 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Space_group,_modellino_per_la_nuova_stazione_centrale_di_oslo,_2008,_con_revisioni_successive.jpg",
     "file": "File:Space group, modellino per la nuova stazione centrale di oslo, 2008, con revisioni successive.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Erik_Werenskiold_-_Farmyard_in_Snow_-_NG.K%26H.1954.0019_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Erik_Werenskiold_-_Farmyard_in_Snow_-_NG.K%26H.1954.0019_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-museum-architecture/thumbs/7.webp",
-    "w": 1280,
-    "h": 955,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Erik Werenskiold",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Erik_Werenskiold_-_Farmyard_in_Snow_-_NG.K%26H.1954.0019_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
-    "file": "File:Erik Werenskiold - Farmyard in Snow - NG.K&H.1954.0019 - National Museum of Art, Architecture and Design.jpg"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
@@ -161455,23 +158284,9 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Meister_des_G%C3%AEt%C3%A2-Govinda-Manuskripts_001.jpg",
     "file": "File:Meister des Gîtâ-Govinda-Manuskripts 001.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra%2C_ca.1785.jpg/1280px-Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra%2C_ca.1785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/l-d-institute-of-indology/thumbs/4.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Model",
-    "caption": "Model · Miniature painting of Gurbaksh Singh Kanhaiya (his first-name is alt",
-    "credit": "Family atelier of Purkhu of Kangra",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Miniature_painting_of_Gurbaksh_Singh_Kanhaiya_with_a_fly-whisk_attendant._Family_atelier_of_Purkhu_of_Kangra,_ca.1785.jpg",
-    "file": "File:Miniature painting of Gurbaksh Singh Kanhaiya with a fly-whisk attendant. Family atelier of Purkhu of Kangra, ca.1785.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -162145,7 +158960,7 @@ window.BUILDINGS = [
   "y": 1105,
   "type": "Religious",
   "movement": "Historic precedent",
-  "region": "Europe",
+  "region": "Southeast Asia",
   "era": "Before 1900",
   "concepts": [
    "Light from above",
@@ -162454,7 +159269,7 @@ window.BUILDINGS = [
   "y": 1949,
   "type": "Religious",
   "movement": "Art Deco",
-  "region": "Europe",
+  "region": "Africa",
   "era": "1945–1970",
   "concepts": [
    "Geometry",

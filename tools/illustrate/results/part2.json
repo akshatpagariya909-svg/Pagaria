@@ -80,9 +80,14 @@
  {
   "id": "mater-misericordiae-church",
   "name": "Mater Misericordiae Church",
-  "status": "drawn",
+  "status": "photo",
   "commons_category": "Category:Nostra Signora della Misericordia (Baranzate)",
-  "photos": [],
+  "photos": [
+   {
+    "file": "File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
   "extras": [],
   "view": "front elevation of the short entrance facade: translucent panel wall (5 bays x 8 rows), clerestory band with the X-section ends of the roof beams, thin roof fascia",
   "sources": [
@@ -92,7 +97,8 @@
    "https://www.domusweb.it/en/from-the-archive/2024/02/26/anticipating-the-architecture-of-light-the-glass-church-in-baranzate.html",
    "https://www.lombardiabeniculturali.it/architetture900/schede/p4010-00223/"
   ],
-  "note": "The only free exterior photo, File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg (CC BY-SA 4.0), is 1024x768, below the 1200px rule, so I drew it. Proportions follow sources (about 14.3 x 28.6 m plan, 10 m high) and that frontal photo: 5 bays of 90x270 cm sandwich panels, 8 rows high, with the bow-tie beam ends in the glazed band under the roof. I left out the entrance door, the freestanding cross and the open steel bell tower beside the church, and the perimeter stone wall, which the photo does not show clearly."
+  "note": "The only free exterior photo, File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg (CC BY-SA 4.0), is 1024x768, below the 1200px rule, so I drew it. Proportions follow sources (about 14.3 x 28.6 m plan, 10 m high) and that frontal photo: 5 bays of 90x270 cm sandwich panels, 8 rows high, with the bow-tie beam ends in the glazed band under the roof. I left out the entrance door, the freestanding cross and the open steel bell tower beside the church, and the perimeter stone wall, which the photo does not show clearly. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
  },
  {
   "id": "minna-no-mori-gifu-media-cosmos",

@@ -53,6 +53,7 @@ WANT = {'Exterior': 3, 'Interior': 3, 'Detail': 1, 'Context': 1, **{k: 1 for k i
 MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6  # photos; drawings and models come on top, up to MAX_DRAWINGS
 MAX_DRAWINGS = 4
 LEAD_PX = 2500  # a lead photo this big on its long side is preferred
+MIN_PX, SMALL_PX = 1200, 800  # photos are 1200px+; 800px+ only when a building has nothing bigger, else our drawing
 KEEP_PX = 1280  # the current lead stays unless it's smaller than this on its long side (the wall shows 1280)
 GALLERY_VERSION = 3  # galleries made with the drawing kinds and the kept lead
 FULL, THUMB = 1400, 520
@@ -240,7 +241,7 @@ def caption(kind, meta, b):
     return f'{kind} · {d.rstrip(".")}'
 
 
-JUNK = re.compile(r'(\bsign(post|board|age)?s?\b|plaque|cartello|panneau|schild\b|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster)', re.I)
+JUNK = re.compile(r'(\bsign(post|board|age)?s?\b|plaque|cartello|panneau|schild\b|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster|tribute|minister|secretary|ceremony|summit|delegation|inaugurat)', re.I)
 
 
 def score(info, b=None, title=''):
@@ -266,18 +267,26 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
             continue
         meta = i.get('extmetadata', {})
         lic = strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms'))
-        kind = describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
+        kind = KIND_FIX.get(t) or describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
         drawing = kind in DRAWINGS
         if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif') if drawing else ('image/jpeg', 'image/png')):
             continue
-        if max(i.get('width', 0), i.get('height', 0)) < (700 if drawing else 1200):
+        if max(i.get('width', 0), i.get('height', 0)) < (700 if drawing else SMALL_PX):
             continue
         if not OK_LICENSE.search(lic) or i.get('size', 0) > 45_000_000:
             continue
         pool.append({'title': t, 'info': i, 'kind': kind, 'score': score(i, b, t) + (100 if t in boost else 0) + (3 if t in soft else 0), 'soft': t in soft,
                      'credit': strip(meta.get('Artist'))[:100] or strip(meta.get('Credit'))[:100], 'license': lic})
+    big = lambda p: max(p['info'].get('width', 0), p['info'].get('height', 0)) >= MIN_PX
+    if any(big(p) for p in pool if p['kind'] not in DRAWINGS):  # small photos only when there's nothing bigger
+        pool = [p for p in pool if p['kind'] in DRAWINGS or big(p)]
     pool.sort(key=lambda p: -p['score'])
     return pool
+
+
+# labels corrected by hand (tools/image_review.json, applied by tools/apply_image_review.py)
+REVIEW = ROOT / 'tools' / 'image_review.json'
+KIND_FIX = json.loads(REVIEW.read_text(encoding='utf-8')).get('kinds', {}) if REVIEW.exists() else {}
 
 
 # a lead should show the building, not the street or river it stands by
@@ -578,8 +587,8 @@ def main():
                 images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
-            own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover
-            b['images'] = own + images
+            own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover,
+            b['images'] = images + own if b.get('photo_first') and images else own + images  # or follows a small photo
             b['commons'] = cat
             b['has'] = [k for k in DRAWINGS if any(i['kind'] == k for i in images)]  # for a drawings filter
             b['gv'] = GALLERY_VERSION

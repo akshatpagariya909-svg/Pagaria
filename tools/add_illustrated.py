@@ -15,6 +15,9 @@ tools/illustrate/BRIEF.md):
           fetched like any other (fetch_images.py --only <ids>).
   unsure  left off, listed in tools/illustrate/no_free_photo.md for later.
 
+Buildings already on the wall that are listed in tools/illustrate/covers.txt get their drawing
+(tools/illustrate/svg/<id>.svg) as the cover, in front of their photos.
+
 Buildings in tools/illustrate/rejected.txt (one id per line, # for notes) are left off too.
 Writes tools/illustrate/fetch_ids.txt: the buildings that need fetch_images.py --only.
 """
@@ -77,9 +80,26 @@ def main():
         else:
             choices[i] = {**({'category': r['commons_category']} if r.get('commons_category') else {}), 'add': photos}
             fetch.append(i)
+            if r.get('drawing_kept') and svg.exists():  # a small photo leads; our drawing follows it in the gallery
+                rel = f'images/{i}/drawing.svg'
+                b['images'] = [{'src': rel, 'thumb': rel, **DRAWING}]
+                b['photo_first'] = True
+                if not args.dry_run:
+                    (ROOT / 'site' / 'images' / i).mkdir(parents=True, exist_ok=True)
+                    shutil.copyfile(svg, ROOT / 'site' / 'images' / i / 'drawing.svg')
         items.append(b)
         ids.add(i)
         added.append((b, r['status']))
+    cov = IL / 'covers.txt'  # buildings already on the wall that get our drawing as the cover, photos after it
+    covers = {l.split('#')[0].strip() for l in cov.read_text(encoding='utf-8').splitlines()} - {''} if cov.exists() else set()
+    for b in items:
+        svg = IL / 'svg' / f"{b['id']}.svg"
+        if b['id'] in covers and svg.exists() and not any(i['src'].endswith('.svg') for i in b.get('images', [])):
+            rel = f"images/{b['id']}/drawing.svg"
+            b['images'] = [{'src': rel, 'thumb': rel, **DRAWING}] + b.get('images', [])
+            if not args.dry_run:
+                shutil.copyfile(svg, ROOT / 'site' / 'images' / b['id'] / 'drawing.svg')
+            print('cover drawing:', b['name'])
     print(f"{sum(s == 'drawn' for _, s in added)} drawn, {sum(s == 'photo' for _, s in added)} with photos found, "
           f'{len(left)} left off; {len(fetch)} to fetch')
     if args.dry_run:

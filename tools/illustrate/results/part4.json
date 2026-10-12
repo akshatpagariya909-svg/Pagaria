@@ -429,16 +429,21 @@
  {
   "id": "embassy-of-belgium-new-delhi",
   "name": "Embassy of Belgium, New Delhi",
-  "status": "unsure",
+  "status": "photo",
   "commons_category": "Category:Belgium Embassy in Delhi",
-  "photos": [],
+  "photos": [
+   {
+    "file": "File:Embassy of Belgium in New Delhi.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
   "extras": [],
   "view": null,
   "sources": [
    "https://en.wikipedia.org/wiki/Embassy_of_Belgium,_New_Delhi",
    "https://worldarchitecture.org/architecture-news/efzpe/a-brick-sculpture-to-work-in-satish-gujraldesigned-embassy-of-belgium-new-delhi.html (search summary only)"
   ],
-  "note": "One free photo exists, File:Embassy of Belgium in New Delhi.jpg (CC BY-SA 3.0, front face), but it is only 1072x888, under the 1200px rule; the owner may still want it. Sources say red brick, two large cupolas flanking a central fold over the entrance, a fortress of rocky outcrops on a sloping site; too vague to draw the sculpted forms without guessing."
+  "note": "One free photo exists, File:Embassy of Belgium in New Delhi.jpg (CC BY-SA 3.0, front face), but it is only 1072x888, under the 1200px rule; the owner may still want it. Sources say red brick, two large cupolas flanking a central fold over the entrance, a fortress of rocky outcrops on a sloping site; too vague to draw the sculpted forms without guessing. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]"
  },
  {
   "id": "frac-nord-pas-de-calais",

@@ -1,0 +1,585 @@
+[
+ {
+  "id": "maison-a-bordeaux",
+  "name": "Maison à Bordeaux",
+  "by": "OMA, Rem Koolhaas",
+  "city": "Floirac",
+  "cc": "FR",
+  "year": "1998",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Cantilever",
+   "Structure as expression"
+  ],
+  "features": "Three stacked houses; a 3 x 3.5 m lift platform moves through all levels for the wheelchair-using owner.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:MAISON À BORDEAUX.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Maisonàbordeaux2.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maison_%C3%A0_Bordeaux"
+  ],
+  "note": "Two Flickr photos by Ann Chou (1600x1200 and 1200x1600), in Category:Buildings by Rem Koolhaas and Houses in Bordeaux; descriptions name the house. No dedicated Commons category."
+ },
+ {
+  "id": "bibliotheque-alexis-de-tocqueville",
+  "name": "Bibliothèque Alexis de Tocqueville",
+  "by": "OMA",
+  "city": "Caen",
+  "cc": "FR",
+  "year": "2017",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Cross-shaped plan whose four glazed wings point to landmarks of Caen, around a central reading hall.",
+  "status": "photo",
+  "commons_category": "Category:Bibliothèque Alexis de Tocqueville",
+  "photos": [
+   {
+    "file": "File:BATocqueville.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:BAT-2020.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bibliothèque Alexis de Tocqueville 2025-03-29.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_Alexis_de_Tocqueville"
+  ],
+  "note": "Several interior CC0 photos too."
+ },
+ {
+  "id": "tours-aillaud",
+  "name": "Tours Aillaud (Tours Nuages)",
+  "by": "Émile Aillaud",
+  "city": "Nanterre",
+  "cc": "FR",
+  "year": "1977",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Rounded towers up to 38 floors, covered in cloud-pattern mosaic and pierced by round and drop-shaped windows.",
+  "status": "photo",
+  "commons_category": "Category:Cité Pablo Picasso (Nanterre)",
+  "photos": [
+   {
+    "file": "File:Tours Aillaud, de la prefecture des Hauts de Seine.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Nanterre.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Tours_Aillaud"
+  ],
+  "note": ""
+ },
+ {
+  "id": "choux-de-creteil",
+  "name": "Choux de Créteil",
+  "by": "Gérard Grandval",
+  "city": "Créteil",
+  "cc": "FR",
+  "year": "1974",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Modular"
+  ],
+  "features": "Ten round towers whose balconies are curved concrete petals, like the leaves of a cabbage.",
+  "status": "photo",
+  "commons_category": "Category:Cité des Choux-Fleurs",
+  "photos": [
+   {
+    "file": "File:Créteil (95) Choux de Créteil 618.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Les Choux de Créteil - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Choux_de_Cr%C3%A9teil"
+  ],
+  "note": "33 files in the category."
+ },
+ {
+  "id": "arcades-du-lac",
+  "name": "Les Arcades du Lac",
+  "by": "Ricardo Bofill, Taller de Arquitectura",
+  "city": "Montigny-le-Bretonneux",
+  "cc": "FR",
+  "year": "1982",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Prefabrication"
+  ],
+  "features": "Social housing as a classical garden city: precast concrete arcades and blocks laid out on axes by a lake.",
+  "status": "photo",
+  "commons_category": "Category:Arcades du Lac",
+  "photos": [
+   {
+    "file": "File:Arcades du Lac 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Les Arcades du Lac.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Les_Arcades_du_Lac"
+  ],
+  "note": "27 files in the category."
+ },
+ {
+  "id": "antigone-montpellier",
+  "name": "Antigone",
+  "by": "Ricardo Bofill, Taller de Arquitectura",
+  "city": "Montpellier",
+  "cc": "FR",
+  "year": "2000",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "A one-kilometre classical axis of squares and precast housing blocks running from the old town to the river Lez.",
+  "status": "photo",
+  "commons_category": "Category:Antigone (Montpellier)",
+  "photos": [
+   {
+    "file": "File:Montpellier. Antigone disctrict (1978-2000) Ricardo Bofill, architect (15201294644).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Montpellier - Antigone - Place de Théssalie - Designed by Riccardo Bofill.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antigone_(Montpellier)"
+  ],
+  "note": "Built 1978-2000."
+ },
+ {
+  "id": "etoiles-d-ivry",
+  "name": "Étoiles d'Ivry",
+  "by": "Jean Renaudie",
+  "city": "Ivry-sur-Seine",
+  "cc": "FR",
+  "year": "1975",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Geometry",
+   "Planting",
+   "Exposed concrete"
+  ],
+  "features": "Star-shaped concrete housing of triangular terraces, each flat with its own planted garden on a neighbour's roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Etoiles d'Ivry @ Brutalist housing project @ Jean Renaudie @ Ivry-sur-Seine (30581493681).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Etoiles d'Ivry @ Brutalist housing project @ Jean Renaudie @ Ivry-sur-Seine (30669358255).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Jean_Renaudie"
+  ],
+  "note": "About 30 Flickr photos (5472x3648, CC BY 2.0); no dedicated category found."
+ },
+ {
+  "id": "cdg-terminal-1",
+  "name": "Paris-Charles de Gaulle Airport Terminal 1",
+  "by": "Paul Andreu",
+  "city": "Roissy-en-France",
+  "cc": "FR",
+  "year": "1974",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Circulation",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "Round concrete drum crossed by glass-tube escalators, linked by tunnels to seven satellite gates.",
+  "status": "photo",
+  "commons_category": "Category:Paris-Charles de Gaulle Airport Terminal 1",
+  "photos": [
+   {
+    "file": "File:CDG Terminal 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Terminal 1 Aéroport Charles Gaulle - Mauregard (FR77) - 2026-01-31 - 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport_Terminal_1"
+  ],
+  "note": "54 files in the category."
+ },
+ {
+  "id": "palais-bulles",
+  "name": "Palais Bulles",
+  "by": "Antti Lovag",
+  "city": "Théoule-sur-Mer",
+  "cc": "FR",
+  "year": "1989",
+  "type": "House",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "A cluster of concrete bubbles with round windows spilling down the red rocks above the bay of Cannes.",
+  "status": "photo",
+  "commons_category": "Category:Palais Bulles",
+  "photos": [
+   {
+    "file": "File:PHOTO PALAIS BULLES Théoule-sur-Mer ANTTILOVAG ARCHITECTURE DESIGN ORGANICARCHITECTURE HABITOLOGUE 1989 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Palais-bulle-gil-zetbase.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palais_Bulles"
+  ],
+  "note": "The 3264x4928 file is the lead image of the Wikipedia articles; its description doesn't say interior or exterior, so check before use. Palais-bulle-gil-zetbase.jpg (1500x1001) is the big salon window."
+ },
+ {
+  "id": "ricola-europe-mulhouse",
+  "name": "Ricola Europe Production and Storage Building",
+  "by": "Herzog & de Meuron",
+  "city": "Mulhouse",
+  "cc": "FR",
+  "year": "1993",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Planting"
+  ],
+  "features": "Long walls of polycarbonate panels screen-printed with a repeated leaf photo; rain streams down the end walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ricola-Europe SA Production and Storage Building (3497748038).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron"
+  ],
+  "note": "One Flickr photo, 2592x1944."
+ },
+ {
+  "id": "hoenheim-nord-terminus",
+  "name": "Hoenheim-Nord Tram Terminus",
+  "by": "Zaha Hadid",
+  "city": "Hoenheim",
+  "cc": "FR",
+  "year": "2001",
+  "type": "Infrastructure",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Light & shadow",
+   "Exposed concrete",
+   "Circulation"
+  ],
+  "features": "Tilted concrete canopy and car park whose white lines and light strips follow the movement of cars and trams.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Strasbourg, Tramway, Endstation Hoenheim Gare von Zaha Hadid 6.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Strasbourg, Tramway, Endstation Hoenheim Gare von Zaha Hadid 12.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hoenheim-Nord_tram_station"
+  ],
+  "note": "20 files, 2272x1704."
+ },
+ {
+  "id": "lascaux-iv",
+  "name": "Lascaux IV",
+  "by": "Snøhetta with Duncan Lewis",
+  "city": "Montignac",
+  "cc": "FR",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Promenade"
+  ],
+  "features": "A long low building cut into the hillside like a fault line, where visitors walk into a replica of the cave.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lascaux-IV 01.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Lascaux-IV 02.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lascaux"
+  ],
+  "note": "Series Lascaux-IV 01-30 (4288x2848, public domain); check which show the outside."
+ },
+ {
+  "id": "villa-mediterranee",
+  "name": "Villa Méditerranée",
+  "by": "Stefano Boeri",
+  "city": "Marseille",
+  "cc": "FR",
+  "year": "2013",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Water",
+   "Public space"
+  ],
+  "features": "Its upper floor cantilevers 40 m over a pool of sea water, with a conference hall sunk below it.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:La Villa Méditerranée (Marseille) (14043586448).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_M%C3%A9diterran%C3%A9e"
+  ],
+  "note": "1751x1179 Flickr photo."
+ },
+ {
+  "id": "cite-de-l-ocean-et-du-surf",
+  "name": "Cité de l'Océan et du Surf",
+  "by": "Steven Holl Architects with Solange Fabião",
+  "city": "Biarritz",
+  "cc": "FR",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Section"
+  ],
+  "features": "The roof is a concave public square, 'under the sky', with two glass 'boulders' sitting on it.",
+  "status": "photo",
+  "commons_category": "Category:Cité de l'Océan",
+  "photos": [
+   {
+    "file": "File:Cité de l'océan Biarritz.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cit%C3%A9_de_l%27Oc%C3%A9an_et_du_Surf"
+  ],
+  "note": "One general view, 4096x3072."
+ },
+ {
+  "id": "ibm-la-gaude",
+  "name": "IBM Research Centre, La Gaude",
+  "by": "Marcel Breuer",
+  "city": "La Gaude",
+  "cc": "FR",
+  "year": "1962",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Pilotis",
+   "Exposed concrete",
+   "Brise-soleil"
+  ],
+  "features": "Y-shaped wings raised on sculpted concrete piers, with deep precast window frames.",
+  "status": "photo",
+  "commons_category": "Category:IBM La Gaude",
+  "photos": [
+   {
+    "file": "File:IBM La Gaude, 2014.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcel_Breuer"
+  ],
+  "note": "2592x1936."
+ },
+ {
+  "id": "le-fresnoy",
+  "name": "Le Fresnoy",
+  "by": "Bernard Tschumi",
+  "city": "Tourcoing",
+  "cc": "FR",
+  "year": "1997",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Void",
+   "Steel & glass"
+  ],
+  "features": "A great roof over the old 1920s leisure halls; the 'in-between' space under it holds catwalks and stairs.",
+  "status": "photo",
+  "commons_category": "Category:Le Fresnoy",
+  "photos": [
+   {
+    "file": "File:Tourcoing le fresnoy.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tourcoing le fresnoy toit.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Fresnoy_%E2%80%93_Studio_national_des_arts_contemporains"
+  ],
+  "note": ""
+ },
+ {
+  "id": "orange-cube",
+  "name": "Orange Cube",
+  "by": "Jakob + MacFarlane",
+  "city": "Lyon",
+  "cc": "FR",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Void",
+   "Colour",
+   "Facade as skin"
+  ],
+  "features": "Orange perforated metal cube by the Saône, hollowed by a huge conical void for light and views.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lyon - Le Cube Orange (49526025037).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Lyon - Fourvière et le cube orange (18082025358).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakob_%2B_MacFarlane"
+  ],
+  "note": ""
+ }
+]
