@@ -102,6 +102,22 @@
   "note": ""
  },
  {
+  "id": "casa-bianchi",
+  "name": "Casa Bianchi",
+  "status": "drawn",
+  "commons_category": "Category:Bianchi House (Via Formeggie 6, Riva San Vitale)",
+  "photos": [],
+  "extras": [],
+  "view": "side elevation: the square concrete-block tower on the slope above Lake Lugano, with the steel Warren-truss footbridge running from the hillside road straight into the top floor",
+  "sources": [
+   "https://www.atlasofinteriors.polimi.it/2014/03/19/332/",
+   "https://archeyes.com/bianchi-house-at-riva-san-vitale-mario-botta/",
+   "https://en.wikiarquitectura.com/building/bianchi-house/",
+   "https://www.themodernhouse.com/journal/house-of-the-week-house-at-riva-san-vitale-by-mario-botta/"
+  ],
+  "note": "Commons has only one photo (File:Κατοικία Μπιάντσι (Bianchi House).jpg, 736px, too small). The 'Casa Bianchi, Ligornetto' panoramio photos are a different Botta house. Sources disagree on 4 or 5 levels; the drawing keeps the facade openings simple (one deep upper opening where the bridge arrives, one vertical slit below) rather than reproducing every cut-out."
+ },
+ {
   "id": "china-academy-of-art-xiangshan-campus",
   "name": "China Academy of Art, Xiangshan Campus",
   "status": "photo",

@@ -353,5 +353,31 @@
    "https://commons.wikimedia.org/wiki/Category:Mercat_de_Santa_Caterina"
   ],
   "note": "About 70 files, including the roof (Market Roof (5832285437) (2).jpg) and several facades. Chosen from descriptions, not viewed."
+ },
+ {
+  "id": "social-security-complex-zeyrek",
+  "name": "Social Security Complex, Zeyrek",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Zeyrek Sosyal Sigortalar Kurumu Kompleksi.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Zeyrek SGK building.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Zeyrek SGK building2.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Zeyrek+Sosyal+Sigortalar"
+  ],
+  "note": "The first file (3466x2309) is described as Eldem's complex; the two SGK files (3264x2448) as the Zeyrek SGK service building. Not viewed. No dedicated category. There are also about 20 SALT Research archive photos (Zeyrek Social Security Complex (155…).jpg), tagged only No known copyright restrictions."
  }
 ]

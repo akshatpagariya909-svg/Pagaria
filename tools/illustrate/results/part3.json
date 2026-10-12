@@ -60,15 +60,35 @@
   "note": "Flickr photos from July 2021, 5504x8256. File:Takasugi-an.JPG is too small (640px)."
  },
  {
+  "id": "thread-artist-residency",
+  "name": "Thread Artist Residency",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2017/01/25/toshiko-mori-compressed-earth-bamboo-thatch-cultural-centre-senegal-africa-architecture/",
+   "https://www.architecturelab.net/thread-cultural-center-toshiko-mori/",
+   "https://www.aflk.org/our-work/thread"
+  ],
+  "note": "No photo on Commons (no category, no files). Sources confirm the idea (a pitched roof inverted so it drains into two courtyards either side of a central gathering space, workshops and bedrooms at the ends, earth-brick walls, thatch on a steel and bamboo frame) but not the actual roof profile seen from outside, which is the whole point of a drawing. Not drawn; a section from the architect would settle it."
+ },
+ {
   "id": "tour-bois-le-pretre-transformation",
   "name": "Tour Bois-le-Prêtre Transformation",
-  "status": null,
+  "status": "unsure",
   "commons_category": "Category:Tour Bois-le-Prêtre",
   "photos": [],
   "extras": [],
   "view": null,
-  "sources": [],
-  "note": "Commons has only two files: one blurs the tower (French freedom-of-panorama rules), the other is a street sign in front of the facade. Neither works as a wall photo."
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Tour_Bois-le-Pr%C3%AAtre",
+   "https://www.cahiers-techniques-batiment.fr/article/restructuration-de-la-tour-bois-le-pretre-a-paris.23371",
+   "https://www.pss-archi.eu/forum/viewtopic.php?pid=36935",
+   "https://www.archiweb.cz/en/b/rekonstrukce-vezoveho-domu-bois-le-pr-tre-tour-bois-le-pr-tre"
+  ],
+  "note": "No usable photo: Commons has only two files: one blurs the tower (French freedom-of-panorama rules), the other is mostly a street sign in front of the facade. Not drawn because sources disagree on the storey count (16 levels vs R+17, 49-50 m) and none give the tower's footprint or facade width, so the proportions of an elevation would be guessed. Known: 96 flats, prefabricated 7.5 x 3 m winter-garden and balcony modules added to the facades."
  },
  {
   "id": "uc-innovation-center-anacleto-angelini",

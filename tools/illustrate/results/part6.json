@@ -116,6 +116,22 @@
   "note": "A second photo, File:Urban blight at the Michenzani housing project, Zanzibar town, Tanzania.jpg (CC BY-SA 3.0), is only 1280px tall portrait, just above the size floor."
  },
  {
+  "id": "microlibrary-taman-bima",
+  "name": "Microlibrary Taman Bima",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation: the raised reading box (concrete floor and roof slabs on a steel frame) with its grid of ice-cream-bucket openings, over the open stage",
+  "sources": [
+   "https://domusweb.it/en/news/2017/07/27/microlibrary_bima.html",
+   "https://www.e-architect.com/indonesia/taman-bima-microlibrary-in-bandung",
+   "https://mgsarchitecture.in/building-materials-products/facades/architects-shau-design-a-facade-by-upcycling-2000-icecream-buckets.html",
+   "https://www.baunetzwissen.de/drucken/stadtteilbibliothek-bima-microlibrary-in-bandung-5398601"
+  ],
+  "note": "No photo on Commons. The bucket grid is shown at reduced density (about 2,000 buckets in reality) and without the binary open/closed pattern; overall length-to-height ratio and column spacing are approximate (no dimensions published beyond 160 m2). The full-length stair is left out because its position in this view is not confirmed."
+ },
+ {
   "id": "naoshima-ferry-terminal",
   "name": "Naoshima Ferry Terminal",
   "status": "photo",
@@ -150,6 +166,21 @@
   "view": null,
   "sources": [],
   "note": "The category holds 19 files (series 01-16 plus three others); one is an interior."
+ },
+ {
+  "id": "nueva-esperanza-school",
+  "name": "Nueva Esperanza School",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/6479-nueva-esperanza-school",
+   "https://www.metalocus.es/en/news/nueva-esperanza-school",
+   "https://inhabitat.com/?p=345178"
+  ],
+  "note": "No photo on Commons. Sources confirm a small (36 m2) one-room school: timber platform on piles, hexagonal boat-like base, cane walls and a woven palm-thatch roof, but not the roof shape or wall heights, so an elevation would be guessed."
  },
  {
   "id": "nur-alem",

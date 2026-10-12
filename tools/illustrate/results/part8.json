@@ -48,6 +48,33 @@
   "note": "Seven CC0 photos (2048x1536) from 2012: 003/004 show the running track ('Laufbahn'), 001/002 the Corten entrance, 005/006 floodlight masts, 007 the attached football field. Judged from descriptions and category, not viewed."
  },
  {
+  "id": "tropicana-arcos-de-cristal",
+  "name": "Tropicana Arcos de Cristal",
+  "status": "unsure",
+  "commons_category": "Category:Tropicana Club (Havana)",
+  "photos": [],
+  "extras": [
+   {
+    "file": "File:Havana - Crystal Arch Room, Tropicana.jpg",
+    "kind": "Drawing",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Havana - Tropicana's famous Crystal Arch Room.jpg",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tropicana_Club",
+   "https://cubanshells.princeton.edu/?p=21",
+   "https://whc.unesco.org/en/tentativelists/6743/",
+   "https://structurae.net/en/structures/club-tropicana"
+  ],
+  "note": "No free exterior photo: the 58 files in the category are shows, dancers, a wall plaque and 1950s postcards; the only file named for the Arcos (666px) is too small. The two postcards listed as extras are coloured interior illustrations of the arch hall (PD, about 1500-1600px). Sources agree on five thin concrete shells decreasing in size with glass between, but describe them as placed eccentrically and I could not establish how they offset or step from the outside, so I did not draw it."
+ },
+ {
   "id": "umbrella-house-kasa-no-ie",
   "name": "Umbrella House (Kasa no Ie)",
   "status": "photo",
@@ -98,6 +125,22 @@
   "view": null,
   "sources": [],
   "note": "About 17 large CC BY-SA 4.0 photos in the category (2019, 2023, 2024 series). A few files in the category show neighbouring things (a church, a street sign, a memorial)."
+ },
+ {
+  "id": "vertical-courtyard-apartments",
+  "name": "Vertical Courtyard Apartments",
+  "status": "photo",
+  "commons_category": "Category:Buildings by Wang Shu",
+  "photos": [
+   {
+    "file": "File:Qianjiang Times (Vertical Gardens), designed by Wangshu, 2015-02-14.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One file (5472x3648, 2015): the project's Chinese name 钱江时代 (Qianjiang Times), 'vertical courtyards, designed by Wang Shu'. Checked visually: it shows the group of white towers across a canal, with a crane and trees in the foreground. It is a distant group view rather than a close facade shot. No dedicated category; the file sits directly in Category:Buildings by Wang Shu."
  },
  {
   "id": "villa-verde-housing",
