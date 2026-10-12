@@ -20,6 +20,7 @@ Buildings already on the wall that are listed in tools/illustrate/covers.txt get
 
 Buildings in tools/illustrate/rejected.txt (one id per line, # for notes) are left off too.
 Writes tools/illustrate/fetch_ids.txt: the buildings that need fetch_images.py --only.
+Afterwards run tools/fit_drawings.py, which fits the drawings above the wall tile's caption.
 """
 import argparse, json, shutil, sys
 from pathlib import Path

@@ -51,6 +51,8 @@ Reference drawings already live: `site/images/sangath/drawing.svg`, `site/images
   centred, with generous white space; it fills roughly 50–80% of the width.
 - Proportions matter more than detail: count storeys, bays and towers right when sources say how
   many. Keep it to the few lines that make the building recognisable to someone who knows it.
+- Composition on the wall is handled afterwards by `tools/fit_drawings.py`, which scales and lifts each
+  drawing above the tile's caption fade; draw at the size above and don't fit it yourself.
 - Coordinates rounded to whole or .5 numbers; keep the file small (under ~6 KB), valid XML.
 
 ### Check your work
