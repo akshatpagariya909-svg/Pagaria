@@ -2984,5 +2984,32 @@
     "Drawing"
    ]
   ]
+ },
+ "millau-viaduct": {
+  "pick": [
+   [
+    "File:Creissels et Viaduct de Millau.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Millau Viaduct (2724128971).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Panorama de la vallée de Millau.jpg",
+    "Context"
+   ],
+   [
+    "File:Millau viaduct (2724118283).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Le Truel-Ausblick von Costecalde 0128.JPG",
+    "Context"
+   ]
+  ],
+  "skip": [
+   "File:St Christopher church in Peyre (4).jpg"
+  ]
  }
 }

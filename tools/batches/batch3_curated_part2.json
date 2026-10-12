@@ -1,0 +1,1604 @@
+[
+ {
+  "qid": "Q7187149",
+  "keep": 0,
+  "name": "The Eyal Ofer Pavilion",
+  "by": "Dov Karmi",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1959",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "don't know the pavilion well enough to describe truthfully"
+ },
+ {
+  "qid": "Q16129695",
+  "keep": 2,
+  "name": "Hadassah Hospital, Mount Scopus",
+  "by": "Erich Mendelsohn",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1939",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Climate response",
+   "Landscape"
+  ],
+  "features": "Long stone-clad wings follow the ridge, entered through a gateway passage roofed by shallow domes.",
+  "note": "completed and opened 1939 (Wikidata gave 1938)"
+ },
+ {
+  "qid": "Q17321339",
+  "keep": 0,
+  "name": "Edifício Dragão",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "important architect but not sure enough of this block's details or date"
+ },
+ {
+  "qid": "Q21478174",
+  "keep": 0,
+  "name": "Restaurante Zambi",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1956",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q37200",
+  "keep": 0,
+  "name": "Great Pyramid of Giza",
+  "by": "Hemiunu",
+  "city": "Giza",
+  "cc": "EG",
+  "year": "",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "ancient (c. 2560 BC); year can't fit the 4-digit format, add by hand if wanted (would be keep 3)"
+ },
+ {
+  "qid": "Q478926",
+  "keep": 0,
+  "name": "Casa Rosada",
+  "by": "Carlos Kihlberg",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1898",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "government palace; credit is mixed (Kihlberg then Tamburini, completed 1898)"
+ },
+ {
+  "qid": "Q1860439",
+  "keep": 0,
+  "name": "Rustaveli Theatre",
+  "by": "Aleksander Szymkiewicz",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "eclectic theatre; original 1901, year and credit doubtful"
+ },
+ {
+  "qid": "Q1138228",
+  "keep": 0,
+  "name": "History Museum of Armenia",
+  "by": "Mark Grigorian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "1919 is the museum's founding, not the building; little design interest"
+ },
+ {
+  "qid": "Q15120372",
+  "keep": 0,
+  "name": "Yyldyz Hotel",
+  "by": "Bouygues Turkmen",
+  "city": "Ashgabat",
+  "cc": "TM",
+  "year": "2013",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic hotel tower"
+ },
+ {
+  "qid": "Q24885196",
+  "keep": 0,
+  "name": "Azrieli Sarona Tower",
+  "by": "Moshe Tzur",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic commercial tower"
+ },
+ {
+  "qid": "Q30892864",
+  "keep": 0,
+  "name": "Palace of the Nation",
+  "by": "",
+  "city": "Dushanbe",
+  "cc": "TJ",
+  "year": "2008",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "government palace of little design interest"
+ },
+ {
+  "qid": "Q2078074",
+  "keep": 0,
+  "name": "Heydar Aliyev Palace",
+  "by": "Alish Lemberanskiy",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1972",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Soviet concert hall of little design interest"
+ },
+ {
+  "qid": "Q5948926",
+  "keep": 1,
+  "name": "Mausoleum of Baba Taher",
+  "by": "Mohsen Foroughi",
+  "city": "Hamadan",
+  "cc": "IR",
+  "year": "1970",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "An open tower of tall stone piers rises over the poet's grave on a terraced garden mound.",
+  "note": ""
+ },
+ {
+  "qid": "Q5359041",
+  "keep": 0,
+  "name": "Raffles City",
+  "by": "I. M. Pei",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1986",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "mixed-use mall and hotel complex of little design interest"
+ },
+ {
+  "qid": "Q2601324",
+  "keep": 0,
+  "name": "Matcal Tower",
+  "by": "Moore Yaski Sivan Architects",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2005",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q7139663",
+  "keep": 0,
+  "name": "Parque Posadas",
+  "by": "Eladio Dieste",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Eladio Dieste credit looks wrong"
+ },
+ {
+  "qid": "Q96419625",
+  "keep": 0,
+  "name": "Vincent Timsit Workshop",
+  "by": "Jean-François Zevaco",
+  "city": "Casablanca",
+  "cc": "MA",
+  "year": "1952",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q104521799",
+  "keep": 0,
+  "name": "Ege Perla",
+  "by": "Emre Arolat",
+  "city": "Izmir",
+  "cc": "TR",
+  "year": "2016",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "commercial tower complex"
+ },
+ {
+  "qid": "Q7907766",
+  "keep": 0,
+  "name": "V on Shenton",
+  "by": "Ben van Berkel",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "commercial tower"
+ },
+ {
+  "qid": "Q45368",
+  "keep": 0,
+  "name": "Mausoleum at Halicarnassus",
+  "by": "Satyros of Paros",
+  "city": "Bodrum",
+  "cc": "TR",
+  "year": "",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "destroyed; only ruins survive"
+ },
+ {
+  "qid": "Q2596393",
+  "keep": 0,
+  "name": "Tbilisi Opera and Ballet Theatre",
+  "by": "Victor Schröter",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "eclectic opera house; present building 1896, not 1851"
+ },
+ {
+  "qid": "Q1672405",
+  "keep": 0,
+  "name": "National Library and Archives of Iran",
+  "by": "Yousef Shariatzadeh",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "1937 is the founding date, not the building; not known well enough"
+ },
+ {
+  "qid": "Q2915627",
+  "keep": 0,
+  "name": "National Museum of Beirut",
+  "by": "Pierre Leprince-Ringuet",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "1937 is uncertain (opened 1942); low design interest"
+ },
+ {
+  "qid": "Q2894040",
+  "keep": 0,
+  "name": "Beit Aghion",
+  "by": "Richard Kauffmann",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1938",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q58823",
+  "keep": 0,
+  "name": "Azerbaijan State Philharmonic Hall",
+  "by": "Gavriil Ter-Mikelov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1912",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "eclectic concert hall of little design interest"
+ },
+ {
+  "qid": "Q13892708",
+  "keep": 0,
+  "name": "Capital Market Authority Headquarters",
+  "by": "HOK",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2016",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q30686870",
+  "keep": 0,
+  "name": "Thamrin Nine",
+  "by": "Kohn Pedersen Fox",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q127172",
+  "keep": 0,
+  "name": "Sede do BankBoston",
+  "by": "",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "2002",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q29044424",
+  "keep": 0,
+  "name": "Steinhardt Museum of Natural History",
+  "by": "Kimmel Eshkolot Architects",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q5617928",
+  "keep": 0,
+  "name": "Gulustan Palace",
+  "by": "Nazim Hacıbəyov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1980",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "state reception hall of little design interest"
+ },
+ {
+  "qid": "Q14942756",
+  "keep": 0,
+  "name": "The Museum Centre",
+  "by": "Hasan Majidov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1955",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough"
+ },
+ {
+  "qid": "Q14955686",
+  "keep": 0,
+  "name": "Nizami Cinema",
+  "by": "Sadig Dadashov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1934",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q1367560",
+  "keep": 0,
+  "name": "Esentai Tower",
+  "by": "",
+  "city": "Almaty",
+  "cc": "KZ",
+  "year": "2008",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic commercial tower"
+ },
+ {
+  "qid": "Q6918125",
+  "keep": 0,
+  "name": "Bank Leumi Building, Jerusalem",
+  "by": "Erich Mendelsohn",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "office building; completion year uncertain"
+ },
+ {
+  "qid": "Q2807094",
+  "keep": 1,
+  "name": "11 Diagonal Street",
+  "by": "Helmut Jahn (Murphy/Jahn)",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1983",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A faceted office prism wrapped entirely in reflective glass and cut like a gemstone: the Diamond Building.",
+  "note": ""
+ },
+ {
+  "qid": "Q109875355",
+  "keep": 0,
+  "name": "Parque Revolución",
+  "by": "Luis Barragán",
+  "city": "Guadalajara",
+  "cc": "MX",
+  "year": "1935",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "park; don't know its design well enough"
+ },
+ {
+  "qid": "Q5028689",
+  "keep": 0,
+  "name": "Campus Universidad del Salvador",
+  "by": "Clorindo Testa",
+  "city": "Pilar",
+  "cc": "AR",
+  "year": "2002",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q6595874",
+  "keep": 2,
+  "name": "Memorial to the Deportees, Yad Vashem",
+  "by": "Moshe Safdie",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1995",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "An original deportation cattle car stands at the end of a broken rail track cantilevered over a valley.",
+  "note": "Wikidata name 'HaKaron Monument' is the Yad Vashem cattle-car memorial"
+ },
+ {
+  "qid": "Q6914809",
+  "keep": 0,
+  "name": "Technion Obelisk",
+  "by": "Santiago Calatrava",
+  "city": "Haifa",
+  "cc": "IL",
+  "year": "2009",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a sculpture, not a building"
+ },
+ {
+  "qid": "Q130341859",
+  "keep": 0,
+  "name": "Apple Zorlu Center",
+  "by": "Foster and Partners",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2014",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "retail store"
+ },
+ {
+  "qid": "Q130341861",
+  "keep": 0,
+  "name": "Apple Bağdat Caddesi",
+  "by": "Foster and Partners",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2021",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "retail store"
+ },
+ {
+  "qid": "Q855110",
+  "keep": 0,
+  "name": "Expo Tel Aviv",
+  "by": "Aryeh Elhanani",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1932",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "fairground, not one building"
+ },
+ {
+  "qid": "Q6048634",
+  "keep": 0,
+  "name": "Gezi Park",
+  "by": "Henri Prost",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1943",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "urban park, not a building"
+ },
+ {
+  "qid": "Q4189918",
+  "keep": 0,
+  "name": "Ismailiyya building",
+  "by": "Józef Plośko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "eclectic building of little design interest"
+ },
+ {
+  "qid": "Q1678179",
+  "keep": 2,
+  "name": "Yad Kennedy",
+  "by": "David Resnick",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1966",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "A ring of tall concrete fins shaped like a felled tree trunk encloses an eternal flame on a hilltop.",
+  "note": ""
+ },
+ {
+  "qid": "Q2916134",
+  "keep": 0,
+  "name": "Tel Aviv Cinematheque",
+  "by": "Salo Hershman",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "little design interest"
+ },
+ {
+  "qid": "Q4155891",
+  "keep": 0,
+  "name": "Palace of Happiness",
+  "by": "Józef Plośko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1912",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "eclectic mansion of little design interest"
+ },
+ {
+  "qid": "Q2324596",
+  "keep": 0,
+  "name": "A. Kasteyev State Museum of Arts",
+  "by": "",
+  "city": "Almaty",
+  "cc": "KZ",
+  "year": "1976",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "architect unresolved; not known well enough"
+ },
+ {
+  "qid": "Q2620299",
+  "keep": 0,
+  "name": "Independence Hall",
+  "by": "Carl Rubin",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1930",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "historic site, not of design interest"
+ },
+ {
+  "qid": "Q1586914",
+  "keep": 0,
+  "name": "Ruhyýet Palace",
+  "by": "Bouygues Turkmen",
+  "city": "Ashgabat",
+  "cc": "TM",
+  "year": "2012",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "government palace"
+ },
+ {
+  "qid": "Q596913",
+  "keep": 0,
+  "name": "Alexandria Opera House",
+  "by": "Georges Parcq",
+  "city": "Alexandria",
+  "cc": "EG",
+  "year": "1921",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Beaux-Arts theatre of little design interest"
+ },
+ {
+  "qid": "Q28657490",
+  "keep": 1,
+  "name": "Çamlıca Tower",
+  "by": "Melike Altınışık Architects",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2021",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "A curving, tulip-like concrete shaft rises from Çamlıca hill to glazed viewing floors under a broadcast mast.",
+  "note": "opened 2021 (Wikidata gave 2020)"
+ },
+ {
+  "qid": "Q48768542",
+  "keep": 0,
+  "name": "Marmaray Tunnel",
+  "by": "Taisei Corporation",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "rail tunnel, not a building"
+ },
+ {
+  "qid": "Q3756775",
+  "keep": 0,
+  "name": "Executive Towers",
+  "by": "Atkins",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic tower complex"
+ },
+ {
+  "qid": "Q5548041",
+  "keep": 0,
+  "name": "Georgian Parliament Building",
+  "by": "Alberto Domingo",
+  "city": "Kutaisi",
+  "cc": "GE",
+  "year": "2012",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "government building; out of use"
+ },
+ {
+  "qid": "Q13052114",
+  "keep": 0,
+  "name": "Ara Sargsyan and Hakob Kojoyan house museum",
+  "by": "Varazdat Arevshatyan",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1973",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "house museum of little design interest"
+ },
+ {
+  "qid": "Q13054028",
+  "keep": 0,
+  "name": "Martiros Saryan Museum",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Tamanian died 1936, credit for a 1967 museum looks wrong"
+ },
+ {
+  "qid": "Q6559721",
+  "keep": 0,
+  "name": "Amot Atrium Tower",
+  "by": "Moshe Tzur",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2015",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q20988710",
+  "keep": 1,
+  "name": "Max Liebling House",
+  "by": "Dov Karmi",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1936",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Climate response",
+   "Free plan"
+  ],
+  "features": "A white rendered White City apartment block wrapped in long, shaded horizontal balconies, lifted on pilotis.",
+  "note": "now the White City Center"
+ },
+ {
+  "qid": "Q6749689",
+  "keep": 0,
+  "name": "Manila Jai Alai Building",
+  "by": "Welton Becket",
+  "city": "Manila",
+  "cc": "PH",
+  "year": "1940",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "demolished in 2000"
+ },
+ {
+  "qid": "Q1876154",
+  "keep": 0,
+  "name": "Caracas Museum of Natural Sciences",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1940",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q48989184",
+  "keep": 0,
+  "name": "Caramuru Building",
+  "by": "Paulo Antunes Ribeiro",
+  "city": "Salvador",
+  "cc": "BR",
+  "year": "",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "completion year uncertain; can't describe truthfully"
+ },
+ {
+  "qid": "Q5761214",
+  "keep": 1,
+  "name": "Civic Center of Lima",
+  "by": "Adolfo Córdova and team",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Megastructure"
+  ],
+  "features": "A tall exposed-concrete tower and lower blocks set around raised plazas and terraces in central Lima.",
+  "note": "designed by a team led by Adolfo Córdova; lower parts now a mall"
+ },
+ {
+  "qid": "Q131427338",
+  "keep": 2,
+  "name": "National Library of Israel",
+  "by": "Herzog & de Meuron",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "2023",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Cantilever",
+   "Light from above"
+  ],
+  "features": "A stone-faced mass curves up and cantilevers over its entrance, around a central top-lit reading hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q134314583",
+  "keep": 0,
+  "name": "Pezet 515",
+  "by": "Hans Hollein",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "2006",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q7691937",
+  "keep": 2,
+  "name": "Teatro Oficina",
+  "by": "Lina Bo Bardi and Edson Elito",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1993",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Promenade",
+   "Section"
+  ],
+  "features": "A long runway stage crosses a narrow lot under scaffold galleries, a glass side wall and an opening roof.",
+  "note": "built inside the old theatre walls; opened 1993 (Wikidata gave design date 1982)"
+ },
+ {
+  "qid": "Q336088",
+  "keep": 0,
+  "name": "Estádio Nacional de Brasília",
+  "by": "Gerkan, Marg and Partners",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "stadium; credit and year mixed (1974 original, 2013 rebuild by gmp)"
+ },
+ {
+  "qid": "Q3696052",
+  "keep": 0,
+  "name": "İzmir Clock Tower",
+  "by": "Raymond Charles Péré",
+  "city": "Izmir",
+  "cc": "TR",
+  "year": "1901",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "small clock tower of little design interest"
+ },
+ {
+  "qid": "Q61563",
+  "keep": 0,
+  "name": "Baku Academy of Music",
+  "by": "Mikayil Useynov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1920",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "educational building of little design interest"
+ },
+ {
+  "qid": "Q3354568",
+  "keep": 1,
+  "name": "Alisher Navoi Opera and Ballet Theatre",
+  "by": "Alexey Shchusev",
+  "city": "Tashkent",
+  "cc": "UZ",
+  "year": "1947",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Earth & local material"
+  ],
+  "features": "A Soviet classical opera house whose side foyers were each carved in ganch by craftsmen of a different region.",
+  "note": "completed 1947 (Wikidata gave 1939)"
+ },
+ {
+  "qid": "Q2389872",
+  "keep": 0,
+  "name": "Vahdat Hall",
+  "by": "Eugene Aftandelians",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q6401196",
+  "keep": 0,
+  "name": "Khedive Palace",
+  "by": "Antonio Lasciac",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "built 1907, not 1984; little design interest"
+ },
+ {
+  "qid": "Q12810669",
+  "keep": 0,
+  "name": "Istanbul Lütfi Kırdar Convention and Exhibition Center",
+  "by": "Paolo Vietti-Violi",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1949",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "convention centre of little design interest"
+ },
+ {
+  "qid": "Q4993148",
+  "keep": 0,
+  "name": "Qasr Prison",
+  "by": "Nikolai Markov",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1929",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "prison complex, not of design interest"
+ },
+ {
+  "qid": "Q12838148",
+  "keep": 0,
+  "name": "Tomb of Javad Khan",
+  "by": "Məmməd İbrahimov",
+  "city": "Ganja",
+  "cc": "AZ",
+  "year": "2005",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "recent rebuilt tomb of little design interest"
+ },
+ {
+  "qid": "Q3032842",
+  "keep": 1,
+  "name": "Museo de Arte Moderno",
+  "by": "Pedro Ramírez Vázquez and Rafael Mijares",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1964",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Light from above"
+  ],
+  "features": "Two rounded gallery buildings with curved glass walls and domed ceilings, set among Chapultepec's trees.",
+  "note": "co-designed with Rafael Mijares"
+ },
+ {
+  "qid": "Q3851623",
+  "keep": 0,
+  "name": "Saint Sarkis Church, Nor Nork",
+  "by": "Baghdasar Arzoumanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1999",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "recent church of little design interest"
+ },
+ {
+  "qid": "Q290435",
+  "keep": 0,
+  "name": "ADNOC Headquarters",
+  "by": "HOK",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2015",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q4047261",
+  "keep": 0,
+  "name": "Port Baku Towers",
+  "by": "Chapman Taylor",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic commercial towers"
+ },
+ {
+  "qid": "Q5886657",
+  "keep": 0,
+  "name": "Holy Trinity Church",
+  "by": "Baghdasar Arzoumanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "2003",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "recent church of little design interest"
+ },
+ {
+  "qid": "Q3295046",
+  "keep": 0,
+  "name": "Palacio Legislativo de San Lázaro",
+  "by": "Pedro Ramírez Vázquez",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1981",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "government building of little design interest"
+ },
+ {
+  "qid": "Q3336839",
+  "keep": 0,
+  "name": "National Bank of Dubai",
+  "by": "Carlos Ott",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1998",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "commercial tower"
+ },
+ {
+  "qid": "Q3352643",
+  "keep": 0,
+  "name": "One Raffles Quay",
+  "by": "Kohn Pedersen Fox",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2006",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office towers"
+ },
+ {
+  "qid": "Q5954309",
+  "keep": 0,
+  "name": "Tomb of Kamal-ol-molk",
+  "by": "Hooshang Seyhoun",
+  "city": "Nishapur",
+  "cc": "IR",
+  "year": "1963",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Seyhoun work, but not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q10328566",
+  "keep": 0,
+  "name": "Memorial do Rio Grande do Sul",
+  "by": "Theo Wiederspahn",
+  "city": "Porto Alegre",
+  "cc": "BR",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "old post office adapted as museum; little design interest"
+ },
+ {
+  "qid": "Q3522590",
+  "keep": 0,
+  "name": "The Sail @ Marina Bay",
+  "by": "NBBJ",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic residential towers"
+ },
+ {
+  "qid": "Q28714997",
+  "keep": 1,
+  "name": "KAFD Metro Station",
+  "by": "Zaha Hadid Architects",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2024",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Parametric",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "Undulating sine-wave forms wrap stacked platform levels in a perforated screen that shades the interior.",
+  "note": "this is the metro station in the King Abdullah Financial District, not the whole district"
+ },
+ {
+  "qid": "Q6813091",
+  "keep": 0,
+  "name": "Bank Melli Iran (University of Tehran Branch)",
+  "by": "Jørn Utzon",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1959",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Utzon credit plausible, but not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q61063975",
+  "keep": 0,
+  "name": "Faculty of Management of the University of Tehran",
+  "by": "Hossein Amanat",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Hossein Amanat was born in 1942, so 1955 credit is wrong"
+ }
+]

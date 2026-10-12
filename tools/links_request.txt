@@ -1,2 +1,2 @@
-Find each building's own page on architecture websites. Edit this file to trigger a run.
-Run 4b: all 926 buildings, with the stricter architect-or-city match (longer time limit).
+--only gipsoteca-canoviana,the-smiling-lion,borujerdi-house,takiyya-al-sulaymaniyya,perot-museum-of-nature-and-science,town-house-kingston-university,national-museum-architecture,l-d-institute-of-indology,national-crafts-museum,kala-academy,open-hand-monument,shaheed-minar-dhaka,lasalle-college-of-the-arts,jim-thompson-house,independence-monument-cambodia,ananda-temple,kempegowda-international-airport-terminal-2,kigali-convention-centre,basilica-of-sainte-anne-du-congo,tomb-of-nader-shah,king-fahd-national-library,el-colegio-de-mexico,instituto-moreira-salles-paulista,alisher-navoi-opera-and-ballet-theatre,grand-national-assembly-of-turkey
+Find links for the 25 approved batch 3 buildings.

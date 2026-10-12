@@ -1,0 +1,1604 @@
+[
+ {
+  "qid": "Q23044797",
+  "keep": 2,
+  "name": "Tower House",
+  "by": "Takamitsu Azuma",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1966",
+  "type": "House",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Geometry"
+  ],
+  "features": "A slim exposed-concrete tower on a tiny triangular lot stacks its rooms around an open stair.",
+  "note": ""
+ },
+ {
+  "qid": "Q11422449",
+  "keep": 1,
+  "name": "International House of Japan",
+  "by": "Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1955",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Courtyard"
+  ],
+  "features": "A low concrete frame of horizontal bands opens its lounges onto a historic Japanese garden.",
+  "note": "designed jointly by Maekawa, Sakakura and Yoshimura"
+ },
+ {
+  "qid": "Q2275530",
+  "keep": 3,
+  "name": "Villa Shodhan",
+  "by": "Le Corbusier",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1956",
+  "type": "House",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brise-soleil",
+   "Exposed concrete",
+   "Double height"
+  ],
+  "features": "A concrete cube under a parasol roof slab, with brise-soleil faces and stacked double-height terraces.",
+  "note": ""
+ },
+ {
+  "qid": "Q6816788",
+  "keep": 3,
+  "name": "Casa das Canoas",
+  "by": "Oscar Niemeyer",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1953",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Sculptural form"
+  ],
+  "features": "A free-form roof slab floats over glass walls beside a pool, with a granite boulder entering the house.",
+  "note": "completed 1953 (Wikidata gave 1952)"
+ },
+ {
+  "qid": "Q6821069",
+  "keep": 2,
+  "name": "Mesa Laboratory (NCAR)",
+  "by": "I. M. Pei",
+  "city": "Boulder",
+  "cc": "US",
+  "year": "1967",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cluster",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Clustered towers of bush-hammered concrete, tinted to match the Flatirons, sit on an open mesa top.",
+  "note": "Wikidata year was design start; completed 1967"
+ },
+ {
+  "qid": "Q11367991",
+  "keep": 2,
+  "name": "Marugame Genichiro-Inokuma Museum of Contemporary Art (MIMOCA)",
+  "by": "Yoshio Taniguchi",
+  "city": "Marugame",
+  "cc": "JP",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A deep canopied forecourt facing the station is backed by a vast facade wall carrying Inokuma's mural.",
+  "note": ""
+ },
+ {
+  "qid": "Q3890034",
+  "keep": 2,
+  "name": "Pampulha Art Museum (former Casino)",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1943",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Circulation",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "A glass-walled former casino on Pampulha lake, with ramps inside and a curving dance-hall wing.",
+  "note": "built as a casino 1943; 1957 is the museum conversion"
+ },
+ {
+  "qid": "Q9709756",
+  "keep": 0,
+  "name": "Catedral Militar Rainha da Paz",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "completion year uncertain (Wikidata 1991 may be design)"
+ },
+ {
+  "qid": "Q6382807",
+  "keep": 2,
+  "name": "Keeling House",
+  "by": "Denys Lasdun",
+  "city": "London",
+  "cc": "GB",
+  "year": "1957",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cluster",
+   "Exposed concrete",
+   "Community"
+  ],
+  "features": "Four maisonette towers fan out like butterfly wings from a central service core linked by bridges.",
+  "note": "Wikidata year was start; completed 1957"
+ },
+ {
+  "qid": "Q3277871",
+  "keep": 1,
+  "name": "Maison Blanche",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier)",
+  "city": "La Chaux-de-Fonds",
+  "cc": "CH",
+  "year": "1912",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "The young Jeanneret's white rendered villa for his parents, a compact block set into a sloping garden.",
+  "note": ""
+ },
+ {
+  "qid": "Q6062641",
+  "keep": 0,
+  "name": "Parc de Diagonal Mar",
+  "by": "EMBT (Enric Miralles, Benedetta Tagliabue)",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "2002",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a park, not a building"
+ },
+ {
+  "qid": "Q16028671",
+  "keep": 2,
+  "name": "Church of Saint-Nicolas, Hérémence",
+  "by": "Walter Maria Förderer",
+  "city": "Hérémence",
+  "cc": "CH",
+  "year": "1971",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "A craggy cluster of rough concrete volumes rises like a rock outcrop above the mountain village.",
+  "note": ""
+ },
+ {
+  "qid": "Q3796698",
+  "keep": 2,
+  "name": "Immeuble Molitor",
+  "by": "Le Corbusier and Pierre Jeanneret",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1934",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Vault",
+   "Steel & glass"
+  ],
+  "features": "A glass and glass-block facade on a party-wall flat block, topped by Le Corbusier's vaulted studio home.",
+  "note": ""
+ },
+ {
+  "qid": "Q28027474",
+  "keep": 0,
+  "name": "El Peix d'Or (Fish sculpture)",
+  "by": "Frank Gehry",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1992",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a sculpture, not a building"
+ },
+ {
+  "qid": "Q5602382",
+  "keep": 1,
+  "name": "Green Building (MIT Building 54)",
+  "by": "I. M. Pei",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Pilotis",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "A slab-like concrete research tower with a gridded window wall, raised over an open, windy ground floor.",
+  "note": ""
+ },
+ {
+  "qid": "Q3678603",
+  "keep": 0,
+  "name": "CityLife",
+  "by": "Arata Isozaki, Zaha Hadid, Daniel Libeskind",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a district, not one building"
+ },
+ {
+  "qid": "Q4179781",
+  "keep": 3,
+  "name": "Gropius House",
+  "by": "Walter Gropius",
+  "city": "Lincoln",
+  "cc": "US",
+  "year": "1938",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Steel & glass"
+  ],
+  "features": "New England clapboard, fieldstone and brick meet glass block, steel posts and an angled screened porch.",
+  "note": ""
+ },
+ {
+  "qid": "Q3278943",
+  "keep": 1,
+  "name": "Maison Planeix",
+  "by": "Le Corbusier",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1928",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Facade as skin"
+  ],
+  "features": "A symmetrical street front with a projecting central box and a big studio window above a recessed base.",
+  "note": ""
+ },
+ {
+  "qid": "Q10453586",
+  "keep": 2,
+  "name": "Cité de Refuge (Salvation Army Hostel)",
+  "by": "Le Corbusier",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1933",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Promenade",
+   "Brise-soleil",
+   "Facade as skin"
+  ],
+  "features": "An entry route of gateway, bridge and drum leads to a long slab whose glass wall later gained brise-soleil.",
+  "note": ""
+ },
+ {
+  "qid": "Q6965228",
+  "keep": 0,
+  "name": "Nara Centennial Hall",
+  "by": "Arata Isozaki",
+  "city": "Nara",
+  "cc": "JP",
+  "year": "1999",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q11722210",
+  "keep": 0,
+  "name": "Heilig-Geist-Kirche, Wolfsburg",
+  "by": "Alvar Aalto",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q11722211",
+  "keep": 0,
+  "name": "Stephanuskirche, Wolfsburg",
+  "by": "Alvar Aalto",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1968",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q10333582",
+  "keep": 2,
+  "name": "National Museum of the Republic",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "A white concrete dome sits on the open esplanade, entered by a ramp curling out from its side.",
+  "note": ""
+ },
+ {
+  "qid": "Q1543101",
+  "keep": 2,
+  "name": "Matthäuskirche Pforzheim",
+  "by": "Egon Eiermann",
+  "city": "Pforzheim",
+  "cc": "DE",
+  "year": "1953",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Colour",
+   "Facade as skin"
+  ],
+  "features": "Walls of a concrete honeycomb grid infilled with coloured glass blocks fill the church with tinted light.",
+  "note": "Wikidata year was start; completed 1953"
+ },
+ {
+  "qid": "Q15880551",
+  "keep": 2,
+  "name": "Pastoor van Arskerk",
+  "by": "Aldo van Eyck",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": "1969",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Section",
+   "Axis"
+  ],
+  "features": "A tall central 'street' splits a low block church, its side zones lit by cylindrical skylights.",
+  "note": "Wikidata 1960 wrong; designed 1964, completed 1969"
+ },
+ {
+  "qid": "Q5164991",
+  "keep": 2,
+  "name": "Contemporary Jewish Museum",
+  "by": "Daniel Libeskind",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "A tilted blue steel cube cuts into the brick front of a 1907 power substation.",
+  "note": "Wikidata year was institution founding; Libeskind building opened 2008"
+ },
+ {
+  "qid": "Q319194",
+  "keep": 2,
+  "name": "Alvar Aalto Cultural Centre",
+  "by": "Alvar Aalto",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1962",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "Stepped, fan-shaped lecture halls clad in striped marble rise over a library and a roof-level courtyard.",
+  "note": ""
+ },
+ {
+  "qid": "Q670323",
+  "keep": 2,
+  "name": "Morton H. Meyerson Symphony Center",
+  "by": "I. M. Pei",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "A curved glass lobby wraps a shoebox concert hall set at an angle to the street grid.",
+  "note": ""
+ },
+ {
+  "qid": "Q300972",
+  "keep": 2,
+  "name": "Aalto-Hochhaus",
+  "by": "Alvar Aalto",
+  "city": "Bremen",
+  "cc": "DE",
+  "year": "1962",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Human comfort",
+   "Free plan"
+  ],
+  "features": "A fan-shaped tower plan spreads each flat's living room wide toward the west from a narrow corridor.",
+  "note": "built 1959-62; Wikidata gave 1961"
+ },
+ {
+  "qid": "Q4836031",
+  "keep": 2,
+  "name": "BMW Central Building",
+  "by": "Zaha Hadid",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Circulation",
+   "Section",
+   "Exposed concrete"
+  ],
+  "features": "Cascading office floors sit under an overhead conveyor carrying car bodies through the open workspace.",
+  "note": ""
+ },
+ {
+  "qid": "Q7930495",
+  "keep": 2,
+  "name": "Villa Schwob (Villa Turque)",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier)",
+  "city": "La Chaux-de-Fonds",
+  "cc": "CH",
+  "year": "1917",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Brick",
+   "Axis"
+  ],
+  "features": "Concrete frame clad in brick, with apsidal side bays and a famous blank panel on the street front.",
+  "note": "Wikidata 1912 wrong; built 1916-17"
+ },
+ {
+  "qid": "Q11465485",
+  "keep": 0,
+  "name": "Onomichi City Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Onomichi",
+  "cc": "JP",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Ando's building is a 2003 addition, not 1980; not known well enough"
+ },
+ {
+  "qid": "Q3278852",
+  "keep": 2,
+  "name": "Maison Louis Carré",
+  "by": "Alvar Aalto",
+  "city": "Bazoches-sur-Guyonne",
+  "cc": "FR",
+  "year": "1959",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Section"
+  ],
+  "features": "A sloping slate roof follows the hillside over a hall with a wave-like timber ceiling.",
+  "note": ""
+ },
+ {
+  "qid": "Q3867996",
+  "keep": 1,
+  "name": "Ara Pacis Museum",
+  "by": "Richard Meier",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "A white travertine, plaster and glass pavilion encloses the Augustan altar in a daylit glass hall.",
+  "note": "1938 was the earlier pavilion; Meier's museum opened 2006"
+ },
+ {
+  "qid": "Q4867942",
+  "keep": 0,
+  "name": "Bass Museum of Art",
+  "by": "Arata Isozaki",
+  "city": "Miami Beach",
+  "cc": "US",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "1930 Art Deco building by Russell Pancoast; Isozaki only did a 2001 addition"
+ },
+ {
+  "qid": "Q772059",
+  "keep": 0,
+  "name": "Max Planck Institute for Human Development",
+  "by": "Hermann Fehling and Daniel Gogel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "1963 is founding; building by Fehling + Gogel c.1974; not known well enough"
+ },
+ {
+  "qid": "Q7735941",
+  "keep": 1,
+  "name": "The Gateway",
+  "by": "I. M. Pei",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1990",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Two trapezoid-plan glass towers read as thin flat blades from some angles, framing a gateway.",
+  "note": ""
+ },
+ {
+  "qid": "Q7552028",
+  "keep": 1,
+  "name": "Society Hill Towers",
+  "by": "I. M. Pei",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1964",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Cluster"
+  ],
+  "features": "Three concrete-grid apartment towers with deep-set windows stand above rows of low townhouses.",
+  "note": ""
+ },
+ {
+  "qid": "Q281123",
+  "keep": 2,
+  "name": "Christ Church Lutheran",
+  "by": "Eliel Saarinen",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "1949",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "A plain brick nave where a hidden side window washes the chancel wall in light.",
+  "note": "completed 1949 (Wikidata 1948); education wing by Eero Saarinen 1962"
+ },
+ {
+  "qid": "Q5056884",
+  "keep": 1,
+  "name": "Cedar Rock (Walter House)",
+  "by": "Frank Lloyd Wright",
+  "city": "Quasqueton",
+  "cc": "US",
+  "year": "1950",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Brick"
+  ],
+  "features": "A Usonian house whose glass-walled garden room under a pierced roof overlooks the Wapsipinicon River.",
+  "note": "Wikidata named the park; house completed 1950"
+ },
+ {
+  "qid": "Q803799",
+  "keep": 2,
+  "name": "Case Study House #21 (Bailey House)",
+  "by": "Pierre Koenig",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1959",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Water",
+   "Modular"
+  ],
+  "features": "A steel-framed glass pavilion ringed by reflecting pools, with an open court at its centre.",
+  "note": ""
+ },
+ {
+  "qid": "Q2787387",
+  "keep": 3,
+  "name": "Amsterdam Orphanage (Burgerweeshuis)",
+  "by": "Aldo van Eyck",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1960",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Modular",
+   "Community"
+  ],
+  "features": "Repeated domed units clustered along diagonal internal streets make the orphanage a small city.",
+  "note": "Wikidata year was start; completed 1960"
+ },
+ {
+  "qid": "Q1579670",
+  "keep": 1,
+  "name": "United States Supreme Court Building",
+  "by": "Cass Gilbert",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1935",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "A white marble Corinthian temple front raised above a broad plaza and stair on an axis to the Capitol.",
+  "note": ""
+ },
+ {
+  "qid": "Q128316",
+  "keep": 1,
+  "name": "Honolulu Museum of Art",
+  "by": "Bertram Goodhue",
+  "city": "Honolulu",
+  "cc": "US",
+  "year": "1927",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "features": "Low tile-roofed galleries open onto shaded courtyards, mixing Hawaiian, Asian and Mediterranean forms.",
+  "note": "1922 was founding; building opened 1927, completed after Goodhue's death"
+ },
+ {
+  "qid": "Q496060",
+  "keep": 2,
+  "name": "French Communist Party Headquarters",
+  "by": "Oscar Niemeyer",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1971",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A curving glass office wall rises behind a white dome capping an underground assembly hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q314559",
+  "keep": 0,
+  "name": "Osthaus Museum Hagen",
+  "by": "Henry van de Velde",
+  "city": "Hagen",
+  "cc": "DE",
+  "year": "1902",
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "building by Carl Gérard with van de Velde interiors; not known well enough"
+ },
+ {
+  "qid": "Q3512622",
+  "keep": 2,
+  "name": "Pennzoil Place",
+  "by": "Philip Johnson and John Burgee",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1975",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Two trapezoidal dark-glass towers with sloped tops nearly touch across a narrow slot.",
+  "note": ""
+ },
+ {
+  "qid": "Q10954019",
+  "keep": 2,
+  "name": "Fuji Television Building",
+  "by": "Kenzō Tange",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1996",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Megastructure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Two blocks joined by a lattice of sky corridors that holds a titanium-clad sphere.",
+  "note": ""
+ },
+ {
+  "qid": "Q1481649",
+  "keep": 0,
+  "name": "Fünf Höfe",
+  "by": "Herzog & de Meuron",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2003",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a passage ensemble in a city block, several architects"
+ },
+ {
+  "qid": "Q2178401",
+  "keep": 2,
+  "name": "Sheats-Goldstein Residence",
+  "by": "John Lautner",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1963",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Light from above"
+  ],
+  "features": "A coffered concrete roof studded with glass tumblers as skylights shelters a frameless glass living room.",
+  "note": ""
+ },
+ {
+  "qid": "Q2853220",
+  "keep": 0,
+  "name": "Antigone, Montpellier",
+  "by": "Ricardo Bofill",
+  "city": "Montpellier",
+  "cc": "FR",
+  "year": "",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a neighbourhood, not one building"
+ },
+ {
+  "qid": "Q1662515",
+  "keep": 2,
+  "name": "IKMZ Library, BTU Cottbus",
+  "by": "Herzog & de Meuron",
+  "city": "Cottbus",
+  "cc": "DE",
+  "year": "2004",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "An amoeba-plan tower wrapped in glass printed with overlapping letters, with a brightly coloured spiral stair.",
+  "note": ""
+ },
+ {
+  "qid": "Q1976364",
+  "keep": 2,
+  "name": "Bakhmetevsky Bus Garage",
+  "by": "Konstantin Melnikov with Vladimir Shukhov",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "1928",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "A parallelogram plan lets buses drive through without reversing, under Shukhov's steel trusses.",
+  "note": "built 1926-28; Wikidata gave 1927. Now the Jewish Museum and Tolerance Center"
+ },
+ {
+  "qid": "Q283587",
+  "keep": 2,
+  "name": "Kentuck Knob",
+  "by": "Frank Lloyd Wright",
+  "city": "Chalk Hill",
+  "cc": "US",
+  "year": "1956",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Earth & local material",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "A hexagon-module Usonian house of local sandstone and cypress under an overhanging copper roof.",
+  "note": ""
+ },
+ {
+  "qid": "Q2979941",
+  "keep": 0,
+  "name": "Kauchuk Factory Club",
+  "by": "Konstantin Melnikov",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "1929",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q650028",
+  "keep": 2,
+  "name": "Humana Building",
+  "by": "Michael Graves",
+  "city": "Louisville",
+  "cc": "US",
+  "year": "1985",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Stone",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "A layered granite tower with a colonnaded loggia at its base and a cantilevered terrace high up.",
+  "note": ""
+ },
+ {
+  "qid": "Q16577575",
+  "keep": 0,
+  "name": "Church of Nuestra Señora de Guadalupe, Madrid",
+  "by": "Enrique de la Mora and Félix Candela",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "designed with Félix Candela; year and details uncertain"
+ },
+ {
+  "qid": "Q1675021",
+  "keep": 2,
+  "name": "Berlin State Library (Haus Potsdamer Straße)",
+  "by": "Hans Scharoun",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1978",
+  "type": "Library",
+  "movement": "Expressionism",
+  "concepts": [
+   "Free plan",
+   "Light from above",
+   "Section"
+  ],
+  "features": "Terraced reading platforms flow through one vast hall lit from above by many skylights.",
+  "note": "completed after Scharoun's death by Edgar Wisniewski"
+ },
+ {
+  "qid": "Q18749200",
+  "keep": 1,
+  "name": "Holyoke Center (Smith Campus Center)",
+  "by": "Josep Lluís Sert",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1966",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Public space"
+  ],
+  "features": "A long concrete slab with a public arcade cut through its base between two streets.",
+  "note": "renamed after a 2018 renovation by Hopkins Architects"
+ },
+ {
+  "qid": "Q77806922",
+  "keep": 1,
+  "name": "Akino Fuku Art Museum",
+  "by": "Terunobu Fujimori",
+  "city": "Hamamatsu",
+  "cc": "JP",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Timber",
+   "Detail"
+  ],
+  "features": "A hand-built hilltop museum of rough plastered walls, timber details and a small lookout tower.",
+  "note": ""
+ },
+ {
+  "qid": "Q259553",
+  "keep": 1,
+  "name": "Urania",
+  "by": "Max Fabiani",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1910",
+  "type": "Education",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Water",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "A Jugendstil corner building on the Danube Canal, crowned by an observatory dome.",
+  "note": ""
+ },
+ {
+  "qid": "Q1937376",
+  "keep": 0,
+  "name": "777 Tower",
+  "by": "César Pelli",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1991",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q3387206",
+  "keep": 1,
+  "name": "Palmolive Building",
+  "by": "Holabird & Root",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1929",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "A limestone Art Deco tower of stepped setbacks rising to a beacon mast.",
+  "note": ""
+ },
+ {
+  "qid": "Q876537",
+  "keep": 0,
+  "name": "Renwick Gallery",
+  "by": "James Renwick Jr.",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "Wikidata year is the museum's 1972 opening; build date not certain"
+ },
+ {
+  "qid": "Q7930318",
+  "keep": 1,
+  "name": "Villa Fallet",
+  "by": "Charles-Édouard Jeanneret (Le Corbusier) with René Chapallaz",
+  "city": "La Chaux-de-Fonds",
+  "cc": "CH",
+  "year": "1907",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Earth & local material"
+  ],
+  "features": "Jeanneret's first house: a steep chalet roof and sgraffito facades with fir-tree motifs.",
+  "note": "built 1906-07 with René Chapallaz"
+ },
+ {
+  "qid": "Q17405833",
+  "keep": 2,
+  "name": "Aalto House (Riihitie)",
+  "by": "Alvar Aalto and Aino Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1936",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "Whitewashed brick and dark timber cladding wrap a house and studio stepped toward the garden.",
+  "note": "completed 1936"
+ },
+ {
+  "qid": "Q3152226",
+  "keep": 2,
+  "name": "Institute of Contemporary Art, Boston",
+  "by": "Diller Scofidio + Renfro",
+  "city": "Boston",
+  "cc": "US",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Water",
+   "Public space"
+  ],
+  "features": "Galleries cantilever over the harbourwalk, with timber bleacher steps and a mediatheque tilted to the water.",
+  "note": "1936 was institution founding; DS+R building opened 2006"
+ },
+ {
+  "qid": "Q315753",
+  "keep": 1,
+  "name": "Lehmbruck Museum",
+  "by": "Manfred Lehmbruck",
+  "city": "Duisburg",
+  "cc": "DE",
+  "year": "1964",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "A glass sculpture hall opens to the park beside a closed exposed-concrete wing.",
+  "note": "1924 was founding; Manfred Lehmbruck's building opened 1964"
+ },
+ {
+  "qid": "Q1150950",
+  "keep": 3,
+  "name": "Marin County Civic Center",
+  "by": "Frank Lloyd Wright",
+  "city": "San Rafael",
+  "cc": "US",
+  "year": "1962",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Colour"
+  ],
+  "features": "Long arcaded wings under a blue roof bridge between hills, meeting at a dome beside a gold spire.",
+  "note": "Wikidata year was start; Administration Building completed 1962"
+ },
+ {
+  "qid": "Q2974657",
+  "keep": 0,
+  "name": "Quartiers Modernes Frugès",
+  "by": "Le Corbusier",
+  "city": "Pessac",
+  "cc": "FR",
+  "year": "1926",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "a housing estate (several houses), not one building"
+ },
+ {
+  "qid": "Q884204",
+  "keep": 1,
+  "name": "Museum of East Asian Art",
+  "by": "Kunio Maekawa",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": "1977",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Low gallery wings frame a Japanese stone garden courtyard beside a pond.",
+  "note": "1913 was founding; Maekawa's building opened 1977"
+ },
+ {
+  "qid": "Q1670774",
+  "keep": 1,
+  "name": "Kino International",
+  "by": "Josef Kaiser",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Public space"
+  ],
+  "features": "A glazed upper foyer floats above the street over a cinema box decorated with relief panels.",
+  "note": "Wikidata year was start; opened 1963"
+ },
+ {
+  "qid": "Q11814615",
+  "keep": 1,
+  "name": "Four Domes Pavilion",
+  "by": "Hans Poelzig",
+  "city": "Wrocław",
+  "cc": "PL",
+  "year": "1913",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Exposed concrete",
+   "Vault"
+  ],
+  "features": "Four domed halls frame a courtyard in an early reinforced-concrete exhibition pavilion.",
+  "note": ""
+ },
+ {
+  "qid": "Q222881",
+  "keep": 2,
+  "name": "2 Willow Road",
+  "by": "Ernő Goldfinger",
+  "city": "London",
+  "cc": "GB",
+  "year": "1939",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Free plan",
+   "Detail"
+  ],
+  "features": "A concrete-framed brick terrace with a spiral stair core and a long first-floor window band.",
+  "note": ""
+ },
+ {
+  "qid": "Q3330160",
+  "keep": 0,
+  "name": "Asian Arts Museum, Nice",
+  "by": "Kenzō Tange",
+  "city": "Nice",
+  "cc": "FR",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "credited to Kenzo Tange, not Deslaugiers; not known well enough"
+ },
+ {
+  "qid": "Q3685974",
+  "keep": 2,
+  "name": "Co-Cathedral of the Great Mother of God (Gran Madre di Dio)",
+  "by": "Gio Ponti",
+  "city": "Taranto",
+  "cc": "IT",
+  "year": "1970",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Light & shadow"
+  ],
+  "features": "A pierced, sail-like white screen rises above the church and is reflected in pools below.",
+  "note": "Wikidata year was start; completed 1970"
+ },
+ {
+  "qid": "Q3915469",
+  "keep": 1,
+  "name": "Watari Museum of Contemporary Art (Watari-um)",
+  "by": "Mario Botta",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1990",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "A narrow wedge-plan building with a banded black-and-white facade split by a central vertical slot.",
+  "note": ""
+ },
+ {
+  "qid": "Q7132618",
+  "keep": 1,
+  "name": "Paper Dome (Paper Church)",
+  "by": "Shigeru Ban",
+  "city": "Puli",
+  "cc": "TW",
+  "year": "2008",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Low cost",
+   "Prefabrication",
+   "Tensile structure"
+  ],
+  "features": "An elliptical ring of paper tubes holds a membrane roof inside a rectangular shell.",
+  "note": "built in Kobe 1995 after the earthquake; moved to Taomi Village, Taiwan, 2008"
+ },
+ {
+  "qid": "Q746490",
+  "keep": 3,
+  "name": "Lovell Beach House",
+  "by": "Rudolph Schindler",
+  "city": "Newport Beach",
+  "cc": "US",
+  "year": "1926",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Pilotis"
+  ],
+  "features": "Five concrete frames lift the house above the beach, with living spaces hung between them.",
+  "note": ""
+ },
+ {
+  "qid": "Q12286421",
+  "keep": 2,
+  "name": "Maison Hermès",
+  "by": "Renzo Piano",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2001",
+  "type": "Workplace",
+  "movement": "High-tech",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "A skin of custom glass blocks glows like a lantern, its frame designed to flex in earthquakes.",
+  "note": ""
+ },
+ {
+  "qid": "Q2361695",
+  "keep": 1,
+  "name": "Cartagena Roman Theatre Museum",
+  "by": "Rafael Moneo",
+  "city": "Cartagena",
+  "cc": "ES",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Adaptive reuse",
+   "Circulation"
+  ],
+  "features": "A route through a palace, a tunnel and a ruined church climbs to the restored Roman theatre.",
+  "note": ""
+ },
+ {
+  "qid": "Q110722976",
+  "keep": 2,
+  "name": "Milam Residence",
+  "by": "Paul Rudolph",
+  "city": "Ponte Vedra Beach",
+  "cc": "US",
+  "year": "1961",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "A deep concrete-block grid of frames and planes screens the house from the ocean sun.",
+  "note": ""
+ },
+ {
+  "qid": "Q12362561",
+  "keep": 0,
+  "name": "Maria Königin des Friedens",
+  "by": "Gottfried Böhm",
+  "city": "",
+  "cc": "DE",
+  "year": "1959",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "several churches share this name; can't identify this one"
+ },
+ {
+  "qid": "Q1156778",
+  "keep": 1,
+  "name": "Manhattan Municipal Building",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": "1914",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Public space"
+  ],
+  "features": "A Beaux-Arts tower straddling a street on a vaulted arch, crowned by a gilded statue.",
+  "note": ""
+ },
+ {
+  "qid": "Q1499859",
+  "keep": 0,
+  "name": "New York Life Building",
+  "by": "Cass Gilbert",
+  "city": "New York",
+  "cc": "US",
+  "year": "1928",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "office tower of limited interest"
+ },
+ {
+  "qid": "Q695126",
+  "keep": 0,
+  "name": "Konzerthaus Vienna",
+  "by": "Fellner & Helmer",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1913",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe; also by Ludwig Baumann"
+ },
+ {
+  "qid": "Q673076",
+  "keep": 0,
+  "name": "Arkansas State Capitol",
+  "by": "George R. Mann and Cass Gilbert",
+  "city": "Little Rock",
+  "cc": "US",
+  "year": "1915",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "credit split between Mann and Cass Gilbert; completed 1915"
+ },
+ {
+  "qid": "Q642866",
+  "keep": 0,
+  "name": "Chicago Theatre",
+  "by": "Rapp and Rapp",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1921",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "movie palace of limited design interest for this list"
+ },
+ {
+  "qid": "Q896180",
+  "keep": 1,
+  "name": "Tempodrom",
+  "by": "gmp (von Gerkan, Marg and Partners)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "A pointed concrete tent roof recalls the circus tent the venue began in.",
+  "note": "1980 was founding of the venue; gmp building opened 2001"
+ }
+]

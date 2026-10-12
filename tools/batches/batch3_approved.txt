@@ -1,0 +1,28 @@
+# Held back by merge_batch.py, approved by the owner on 12 October 2026 with the curated years:
+# Wikidata gives a founding, design, start or earlier building's year. West Village and Villa Majorelle
+# were wrong matches and are set to keep 0 instead.
+Q3768553  # Gipsoteca Canoviana, 1957
+Q16501783  # The Smiling Lion, 1958
+Q3196070  # Borujerdi House, 1857
+Q715273  # Takiyya al-Sulaymaniyya, 1559
+Q7169478  # Perot Museum of Nature and Science, 2012
+Q2503809  # Town House, Kingston University, 2020
+Q1132918  # National Museum – Architecture, 2008
+Q6480225  # L. D. Institute of Indology, 1962
+Q3630755  # National Crafts Museum, 1991
+Q16851397  # Kala Academy, 1983
+Q16854086  # Open Hand Monument, 1985
+Q2425991  # Shaheed Minar, Dhaka, 1963
+Q6457112  # LASALLE College of the Arts, 2007
+Q2916351  # Jim Thompson House, 1959
+Q1108673  # Independence Monument (Cambodia), 1962
+Q485727  # Ananda Temple, 1105
+Q503364  # Kempegowda International Airport Terminal 2, 2022
+Q25043410  # Kigali Convention Centre, 2016
+Q2887058  # Basilica of Sainte-Anne du Congo, 1949
+Q25907014  # Grand National Assembly of Turkey, 1961
+Q5957084  # Tomb of Nader Shah, 1959
+Q620803  # King Fahd National Library, 2013
+Q1324001  # El Colegio de México, 1976
+Q56695385  # Instituto Moreira Salles Paulista, 2017
+Q3354568  # Alisher Navoi Opera and Ballet Theatre, 1947

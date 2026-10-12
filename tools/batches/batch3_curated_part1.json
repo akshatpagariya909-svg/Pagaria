@@ -1,0 +1,1604 @@
+[
+ {
+  "qid": "Q1920091",
+  "keep": 2,
+  "name": "Latin America Memorial",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1989",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Curved white concrete halls spread over a paved plaza split by a road and joined by a footbridge.",
+  "note": ""
+ },
+ {
+  "qid": "Q10270275",
+  "keep": 2,
+  "name": "Supreme Federal Court",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1960",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A glass box under a flat roof slab, carried on slender sculpted columns facing the Three Powers Plaza.",
+  "note": ""
+ },
+ {
+  "qid": "Q16128265",
+  "keep": 2,
+  "name": "Villa Baizeau",
+  "by": "Le Corbusier",
+  "city": "Carthage",
+  "cc": "TN",
+  "year": "1928",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Climate response",
+   "Free plan"
+  ],
+  "features": "Concrete villa whose overhanging roof slabs shade interlocking double-height rooms open to sea breezes.",
+  "note": ""
+ },
+ {
+  "qid": "Q3181219",
+  "keep": 0,
+  "name": "University of Science and Technology Houari Boumediene",
+  "by": "Oscar Niemeyer",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1974",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "campus; not sure enough of its details to describe truthfully"
+ },
+ {
+  "qid": "Q4818370",
+  "keep": 0,
+  "name": "Conjunto JK",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1970",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "large housing complex, but its completion date (designed 1950s, finished around 1970) and details are not certain"
+ },
+ {
+  "qid": "Q1535007",
+  "keep": 0,
+  "name": "University of Information Sciences",
+  "by": "Oscar Niemeyer",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "2002",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "credit looks wrong: the campus reuses a former Soviet base, not a Niemeyer design"
+ },
+ {
+  "qid": "Q7267112",
+  "keep": 2,
+  "name": "Qatar National Convention Centre",
+  "by": "Arata Isozaki",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Two branching steel 'sidra trees' carry the long canopy across the glass entrance front.",
+  "note": ""
+ },
+ {
+  "qid": "Q5071058",
+  "keep": 0,
+  "name": "Chandigarh College of Architecture",
+  "by": "Le Corbusier",
+  "city": "Chandigarh",
+  "cc": "IN",
+  "year": "1961",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "authorship and date of this building unclear (often confused with the Government College of Art)"
+ },
+ {
+  "qid": "Q6756158",
+  "keep": 1,
+  "name": "Schocken Library",
+  "by": "Erich Mendelsohn",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1936",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Jerusalem-stone block with a long ribbon of windows: Mendelsohn's modernism adapted to local stone.",
+  "note": "completed 1936 (built 1934-36); Wikidata gives 1935"
+ },
+ {
+  "qid": "Q2899919",
+  "keep": 2,
+  "name": "Palmach Museum",
+  "by": "Zvi Hecker and Rafi Segal",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Galleries sink into a dune behind layered walls of local sandstone, built around the site's existing trees.",
+  "note": "co-designed with Rafi Segal"
+ },
+ {
+  "qid": "Q19207166",
+  "keep": 0,
+  "name": "Atrio Towers",
+  "by": "Rogers Stirk Harbour + Partners with El Equipo de Mazzanti",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "2019",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "office towers; little design interest for this list"
+ },
+ {
+  "qid": "Q2899925",
+  "keep": 0,
+  "name": "First International Bank Tower",
+  "by": "",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "credit to I. M. Pei looks wrong; generic office tower"
+ },
+ {
+  "qid": "Q3339164",
+  "keep": 2,
+  "name": "Newton Suites",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2007",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Residential tower with sky gardens, green walls and perforated metal sunshades worked into its facade.",
+  "note": "completed 2007; Wikidata gives 2008"
+ },
+ {
+  "qid": "Q8029082",
+  "keep": 1,
+  "name": "Wohl Centre",
+  "by": "Daniel Libeskind",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": "2005",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Geometry"
+  ],
+  "features": "A tilted, metal-clad volume shaped like an open book cantilevers over a solid base.",
+  "note": "convention centre on the Bar-Ilan University campus"
+ },
+ {
+  "qid": "Q99769226",
+  "keep": 3,
+  "name": "UTEC University Campus",
+  "by": "Grafton Architects",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Exposed concrete",
+   "Climate response"
+  ],
+  "features": "A stepped concrete 'man-made cliff' of terraces and open-air platforms facing a ravine and the city.",
+  "note": "credit is Grafton Architects (Yvonne Farrell and Shelley McNamara)"
+ },
+ {
+  "qid": "Q2444549",
+  "keep": 0,
+  "name": "YPF Tower",
+  "by": "César Pelli",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic corporate tower"
+ },
+ {
+  "qid": "Q5818145",
+  "keep": 0,
+  "name": "Interbank Tower",
+  "by": "Hans Hollein",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "office tower; not sure enough of its details"
+ },
+ {
+  "qid": "Q107191191",
+  "keep": 0,
+  "name": "Igreja Matriz",
+  "by": "Gottfried Böhm",
+  "city": "",
+  "cc": "BR",
+  "year": "1954",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "cannot identify the building or confirm the credit"
+ },
+ {
+  "qid": "Q5142722",
+  "keep": 2,
+  "name": "Museo Jumex",
+  "by": "David Chipperfield",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Stone",
+   "Pilotis"
+  ],
+  "features": "Travertine-clad block raised on columns, with a sawtooth roof bringing north light into the top galleries.",
+  "note": ""
+ },
+ {
+  "qid": "Q106678383",
+  "keep": 2,
+  "name": "Ariston Club",
+  "by": "Marcel Breuer",
+  "city": "Mar del Plata",
+  "cc": "AR",
+  "year": "1948",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Geometry",
+   "Circulation"
+  ],
+  "features": "A clover-leaf glass upper floor sits on a central support, reached by a ramp from the ground.",
+  "note": "with Eduardo Catalano and Carlos Coire; now in ruins"
+ },
+ {
+  "qid": "Q173559",
+  "keep": 0,
+  "name": "Cape Town Stadium",
+  "by": "gmp Architects",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "stadium; little design interest for this list"
+ },
+ {
+  "qid": "Q175289",
+  "keep": 1,
+  "name": "Moses Mabhida Stadium",
+  "by": "gmp Architects",
+  "city": "Durban",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Monumentality"
+  ],
+  "features": "A single steel arch spans the bowl and hangs the membrane roof from cables.",
+  "note": ""
+ },
+ {
+  "qid": "Q181445",
+  "keep": 0,
+  "name": "Nelson Mandela Bay Stadium",
+  "by": "gmp Architects",
+  "city": "Gqeberha",
+  "cc": "ZA",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "stadium; little design interest for this list"
+ },
+ {
+  "qid": "Q6945083",
+  "keep": 0,
+  "name": "Meier on Rothschild",
+  "by": "Richard Meier",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2014",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic residential tower"
+ },
+ {
+  "qid": "Q163521",
+  "keep": 0,
+  "name": "FNB Stadium",
+  "by": "Boogertman + Partners with Populous",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "stadium; 1989 date is the old stadium, the calabash rebuild is 2009"
+ },
+ {
+  "qid": "Q166882",
+  "keep": 0,
+  "name": "Istanbul Sapphire",
+  "by": "Tabanlıoğlu Architects",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "commercial tower"
+ },
+ {
+  "qid": "Q1069161",
+  "keep": 0,
+  "name": "Chelsea Tower",
+  "by": "Atkins",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2005",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "commercial tower"
+ },
+ {
+  "qid": "Q5059675",
+  "keep": 0,
+  "name": "Museum of Tolerance Jerusalem",
+  "by": "",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "architect credit unclear (Gehry design abandoned, later redesigned)"
+ },
+ {
+  "qid": "Q25907014",
+  "keep": 2,
+  "name": "Grand National Assembly of Turkey",
+  "by": "Clemens Holzmeister",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1961",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Stone-clad parliament with a tall colonnaded front set on a monumental axis.",
+  "note": "the building (third parliament building), curated in the hand list"
+ },
+ {
+  "qid": "Q15983525",
+  "keep": 0,
+  "name": "Supreme Court of Pakistan",
+  "by": "Kenzō Tange",
+  "city": "Islamabad",
+  "cc": "PK",
+  "year": "1993",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "Wikidata year 1965 is wrong (finished about 1993); not sure enough of details"
+ },
+ {
+  "qid": "Q16501783",
+  "keep": 2,
+  "name": "The Smiling Lion",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1958",
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Colour"
+  ],
+  "features": "Apartment block with a sculpted concrete front of spiky, tooth-like balconies that grin at the street.",
+  "note": "completed 1958 (built 1956-58); Wikidata gives 1954"
+ },
+ {
+  "qid": "Q6039681",
+  "keep": 0,
+  "name": "Institute for Research in Fundamental Sciences",
+  "by": "Kamran Diba",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1970",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "credit and building unclear"
+ },
+ {
+  "qid": "Q108877088",
+  "keep": 1,
+  "name": "Dudhsagar Dairy",
+  "by": "Achyut Kanvinde",
+  "city": "Mehsana",
+  "cc": "IN",
+  "year": "1970",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "features": "Exposed concrete towers, silos and halls arranged to follow the flow of milk through the plant.",
+  "note": ""
+ },
+ {
+  "qid": "Q21469485",
+  "keep": 0,
+  "name": "Prometheus Building",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1953",
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q677823",
+  "keep": 0,
+  "name": "Address Downtown",
+  "by": "Atkins",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2008",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "commercial hotel tower"
+ },
+ {
+  "qid": "Q3196070",
+  "keep": 2,
+  "name": "Borujerdi House",
+  "by": "Ustad Ali Maryam",
+  "city": "Kashan",
+  "cc": "IR",
+  "year": "1857",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "features": "Courtyard house whose domed reception hall is cooled by tall windcatchers pulling air into the rooms.",
+  "note": "built 1857; Wikidata gives 1875"
+ },
+ {
+  "qid": "Q618988",
+  "keep": 0,
+  "name": "Singapore Indoor Stadium",
+  "by": "Kenzō Tange",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "arena; little design interest for this list"
+ },
+ {
+  "qid": "Q6816462",
+  "keep": 0,
+  "name": "Menara 3 Petronas",
+  "by": "César Pelli",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q1110361",
+  "keep": 0,
+  "name": "Ankara Opera House",
+  "by": "Paul Bonatz",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1948",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "Balmumcu built the 1933 Exhibition House; the 1948 opera conversion is by Paul Bonatz"
+ },
+ {
+  "qid": "Q134596183",
+  "keep": 0,
+  "name": "German Embassy, Brasília",
+  "by": "Hans Scharoun",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1971",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q104157193",
+  "keep": 0,
+  "name": "Museum of West African Art",
+  "by": "Adjaye Associates",
+  "city": "Benin City",
+  "cc": "NG",
+  "year": "",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "project status and credit unclear; 2020 is not a completion date"
+ },
+ {
+  "qid": "Q2910572",
+  "keep": 0,
+  "name": "National Campus for the Archaeology of Israel",
+  "by": "Moshe Safdie",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "completion date uncertain"
+ },
+ {
+  "qid": "Q9007647",
+  "keep": 2,
+  "name": "Church of Saint Anthony of Polana",
+  "by": "Nuno Craveiro Lopes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "Concrete church whose crown of tapering ribs rises to a point, with coloured glass set between them.",
+  "note": "consecrated 1962; Wikidata 1958 is the start"
+ },
+ {
+  "qid": "Q5430604",
+  "keep": 0,
+  "name": "Fairmont Singapore",
+  "by": "I. M. Pei",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1986",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "hotel tower in Raffles City"
+ },
+ {
+  "qid": "Q1097149",
+  "keep": 0,
+  "name": "The Troika",
+  "by": "Foster + Partners",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": "2011",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "residential towers; little design interest for this list"
+ },
+ {
+  "qid": "Q116974427",
+  "keep": 0,
+  "name": "Emaar Square",
+  "by": "Foster + Partners",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "commercial complex"
+ },
+ {
+  "qid": "Q28873262",
+  "keep": 1,
+  "name": "CapitaGreen",
+  "by": "Toyo Ito",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Office tower wrapped in planted facade panels, with a crown funnel drawing cooler air down a central void.",
+  "note": ""
+ },
+ {
+  "qid": "Q88667534",
+  "keep": 3,
+  "name": "Anacleto Angelini Innovation Center",
+  "by": "Alejandro Aravena (Elemental)",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Climate response",
+   "Void"
+  ],
+  "features": "A solid concrete block with deep-set openings and a hollow core, shielding the offices from sun and glare.",
+  "note": "architect's name corrected from 'Alavena'"
+ },
+ {
+  "qid": "Q666183",
+  "keep": 0,
+  "name": "Estadio Akron",
+  "by": "Populous",
+  "city": "Zapopan",
+  "cc": "MX",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "stadium; little design interest for this list"
+ },
+ {
+  "qid": "Q2373326",
+  "keep": 0,
+  "name": "Armenian National Opera and Ballet Theatre",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "completion date uncertain (opened 1933, finished much later)"
+ },
+ {
+  "qid": "Q511612",
+  "keep": 1,
+  "name": "Bahrain World Trade Center",
+  "by": "Atkins",
+  "city": "Manama",
+  "cc": "BH",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Two sail-shaped towers funnel sea wind through three turbines on bridges spanning between them.",
+  "note": ""
+ },
+ {
+  "qid": "Q1093913",
+  "keep": 0,
+  "name": "Moshe Aviv Tower",
+  "by": "Amnon Niv",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q1207442",
+  "keep": 0,
+  "name": "Dubai Towers Doha",
+  "by": "RMJM",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic tower; completion unclear"
+ },
+ {
+  "qid": "Q9054621",
+  "keep": 0,
+  "name": "Palácio das Indústrias",
+  "by": "Domiziano Rossi",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1924",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "eclectic exhibition hall; little interest for this list"
+ },
+ {
+  "qid": "Q11702494",
+  "keep": 0,
+  "name": "Reforma 222",
+  "by": "Teodoro González de León",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2007",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "mixed-use commercial towers"
+ },
+ {
+  "qid": "Q6060078",
+  "keep": 1,
+  "name": "Papalote Children's Museum",
+  "by": "Ricardo Legorreta",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Bold coloured blocks and a blue-tiled sphere housing the dome cinema, beside Chapultepec forest.",
+  "note": ""
+ },
+ {
+  "qid": "Q21484712",
+  "keep": 0,
+  "name": "Three Giraffes Building",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "",
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of date and details"
+ },
+ {
+  "qid": "Q6090279",
+  "keep": 0,
+  "name": "Gazi Education Institute (Music Teachers' School)",
+  "by": "Ernst Egli",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1927",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q571763",
+  "keep": 2,
+  "name": "Palacio Barolo",
+  "by": "Mario Palanti",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1923",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Section",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Office tower laid out after Dante's Divine Comedy, from a vaulted ground arcade to a lighthouse crown.",
+  "note": ""
+ },
+ {
+  "qid": "Q715273",
+  "keep": 2,
+  "name": "Takiyya al-Sulaymaniyya",
+  "by": "Mimar Sinan",
+  "city": "Damascus",
+  "cc": "SY",
+  "year": "1559",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Axis"
+  ],
+  "features": "A mosque with two slim minarets faces a courtyard ringed by domed cells, in striped black and white stone.",
+  "note": "completed 1559 (begun 1554)"
+ },
+ {
+  "qid": "Q558159",
+  "keep": 0,
+  "name": "Türkmenbaşy Ruhy Mosque",
+  "by": "",
+  "city": "Gypjak",
+  "cc": "TM",
+  "year": "2004",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "architect unknown"
+ },
+ {
+  "qid": "Q1614219",
+  "keep": 0,
+  "name": "Vision Tower",
+  "by": "tvsdesign",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q39056278",
+  "keep": 0,
+  "name": "Capella Singapore",
+  "by": "Foster + Partners",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2009",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "resort hotel"
+ },
+ {
+  "qid": "Q6033206",
+  "keep": 3,
+  "name": "Diego Rivera and Frida Kahlo House-Studio",
+  "by": "Juan O'Gorman",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1932",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Light from above",
+   "Circulation"
+  ],
+  "features": "Two functionalist studio houses, red and blue, joined by a roof bridge, with sawtooth roof lights.",
+  "note": "name spelling corrected; built 1931-32"
+ },
+ {
+  "qid": "Q16490616",
+  "keep": 2,
+  "name": "Centro Cultural de Cali",
+  "by": "Rogelio Salmona",
+  "city": "Cali",
+  "cc": "CO",
+  "year": "1990",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "Brick building around open courtyards and ramps, with water channels and shaded galleries.",
+  "note": ""
+ },
+ {
+  "qid": "Q320454",
+  "keep": 0,
+  "name": "Estadio Azteca",
+  "by": "Pedro Ramírez Vázquez",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1966",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "stadium; little design interest for this list"
+ },
+ {
+  "qid": "Q129479",
+  "keep": 2,
+  "name": "Tomb of Hafez",
+  "by": "André Godard",
+  "city": "Shiraz",
+  "cc": "IR",
+  "year": "1935",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Open octagonal pavilion of eight stone columns under a copper dome, set in a terraced garden.",
+  "note": ""
+ },
+ {
+  "qid": "Q1430185",
+  "keep": 2,
+  "name": "Rockefeller Museum",
+  "by": "Austen Harrison",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1938",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Water"
+  ],
+  "features": "White limestone galleries around a cloister court with a long pool, marked by an octagonal tower.",
+  "note": "opened 1938; Wikidata 1930 is the start"
+ },
+ {
+  "qid": "Q1914841",
+  "keep": 0,
+  "name": "PBCom Tower",
+  "by": "",
+  "city": "Makati",
+  "cc": "PH",
+  "year": "2000",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q2634267",
+  "keep": 0,
+  "name": "Heydar Aliyev Sports and Exhibition Complex",
+  "by": "Yuzef Qədimov",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1977",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "arena; little design interest for this list"
+ },
+ {
+  "qid": "Q555316",
+  "keep": 0,
+  "name": "Charles Bronfman Auditorium",
+  "by": "Dov Karmi and Zeev Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1957",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q10363091",
+  "keep": 0,
+  "name": "The Ritz-Carlton, Millenia Singapore",
+  "by": "Kevin Roche John Dinkeloo and Associates",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1996",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "hotel"
+ },
+ {
+  "qid": "Q9698113",
+  "keep": 2,
+  "name": "Casa Modernista",
+  "by": "Gregori Warchavchik",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1928",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "Cubic white house, often called Brazil's first modernist home, set in a garden of native plants.",
+  "note": ""
+ },
+ {
+  "qid": "Q1188026",
+  "keep": 3,
+  "name": "Children's Memorial, Yad Vashem",
+  "by": "Moshe Safdie",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1987",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Void",
+   "Landscape"
+  ],
+  "features": "An underground hollow where a few candles, reflected by mirrors, multiply into endless points of light.",
+  "note": ""
+ },
+ {
+  "qid": "Q18191696",
+  "keep": 0,
+  "name": "Ashdod Performing Arts Center",
+  "by": "Shin Takamatsu",
+  "city": "Ashdod",
+  "cc": "IL",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q596914",
+  "keep": 0,
+  "name": "Reflections at Keppel Bay",
+  "by": "Daniel Libeskind",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2011",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "luxury residential towers"
+ },
+ {
+  "qid": "Q65056533",
+  "keep": 0,
+  "name": "Rain Vortex",
+  "by": "Moshe Safdie",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2019",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "an indoor waterfall, not a building (it sits in Jewel Changi Airport)"
+ },
+ {
+  "qid": "Q8772052",
+  "keep": 0,
+  "name": "Edificio Tlatelolco",
+  "by": "Ricardo Legorreta",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2005",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "building and credit unclear"
+ },
+ {
+  "qid": "Q106797105",
+  "keep": 2,
+  "name": "Entebbe Children's Surgical Hospital",
+  "by": "Renzo Piano",
+  "city": "Entebbe",
+  "cc": "UG",
+  "year": "2021",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Human comfort"
+  ],
+  "features": "Rammed-earth walls under a raised roof of solar panels that shades the wards and powers the hospital.",
+  "note": "with Emergency and TAMassociati"
+ },
+ {
+  "qid": "Q141503945",
+  "keep": 3,
+  "name": "Iberê Camargo Foundation",
+  "by": "Álvaro Siza",
+  "city": "Porto Alegre",
+  "cc": "BR",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Exposed concrete",
+   "Void"
+  ],
+  "features": "White concrete galleries around a full-height atrium, with enclosed ramps looping outside the facade.",
+  "note": ""
+ },
+ {
+  "qid": "Q28680546",
+  "keep": 1,
+  "name": "Santo André Civic Centre",
+  "by": "Rino Levi",
+  "city": "Santo André",
+  "cc": "BR",
+  "year": "1969",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Cluster"
+  ],
+  "features": "City hall, council chamber and theatre stand apart on a large plaza with gardens by Burle Marx.",
+  "note": ""
+ },
+ {
+  "qid": "Q5943590",
+  "keep": 0,
+  "name": "Shafagh Park",
+  "by": "Kamran Diba",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1969",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "not sure enough of its details"
+ },
+ {
+  "qid": "Q5959602",
+  "keep": 0,
+  "name": "Tomb of Ferdowsi",
+  "by": "",
+  "city": "Tus",
+  "cc": "IR",
+  "year": "1934",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "credit unclear: Lorzadeh was the builder; design by Taherzadeh Behzad, rebuilt by Seyhoun in the 1960s"
+ },
+ {
+  "qid": "Q213203",
+  "keep": 0,
+  "name": "Levant Fair",
+  "by": "Aryeh Elhanani",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1934",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "a fairground of many pavilions, not one building"
+ },
+ {
+  "qid": "Q2915137",
+  "keep": 0,
+  "name": "Shalom Meir Tower",
+  "by": "Yitzhak Perlstein",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1965",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q699317",
+  "keep": 0,
+  "name": "Arraya Tower",
+  "by": "Fentress Architects",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q1407337",
+  "keep": 0,
+  "name": "Turkmenistan Tower",
+  "by": "Polimeks",
+  "city": "Ashgabat",
+  "cc": "TM",
+  "year": "2011",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "TV tower; little design interest"
+ },
+ {
+  "qid": "Q1435741",
+  "keep": 0,
+  "name": "Sky Tower",
+  "by": "Arquitectonica",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic residential tower"
+ },
+ {
+  "qid": "Q33108763",
+  "keep": 0,
+  "name": "National Assembly of Armenia",
+  "by": "Mark Grigorian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1950",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "government building; little design interest for this list"
+ }
+]

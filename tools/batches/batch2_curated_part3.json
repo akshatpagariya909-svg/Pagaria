@@ -1,0 +1,1604 @@
+[
+ {
+  "qid": "Q1403403",
+  "keep": 0,
+  "name": "Siemens Forum Munich",
+  "by": "Richard Meier",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q1528893",
+  "keep": 1,
+  "name": "Glaspalast Sindelfingen",
+  "by": "Behnisch & Partner",
+  "city": "Sindelfingen",
+  "cc": "DE",
+  "year": "1977",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Glass-walled steel hall whose transparent skin opens the sports and events floor to the town.",
+  "note": ""
+ },
+ {
+  "qid": "Q2415996",
+  "keep": 2,
+  "name": "Scharoun Theatre Wolfsburg",
+  "by": "Hans Scharoun",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Circulation",
+   "Free plan"
+  ],
+  "features": "Fan-shaped auditorium and flowing, asymmetric foyer levels in Scharoun's organic plan.",
+  "note": "completed after Scharoun's death in 1972"
+ },
+ {
+  "qid": "Q2429975",
+  "keep": 1,
+  "name": "Muziekcentrum Vredenburg",
+  "by": "Herman Hertzberger",
+  "city": "Utrecht",
+  "cc": "NL",
+  "year": "1979",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Modular",
+   "Community",
+   "Structure as expression"
+  ],
+  "features": "Concert hall with the audience on all sides, set in a structuralist frame of repeated concrete units.",
+  "note": "year was design start; opened 1979; mostly rebuilt as TivoliVredenburg in 2014, main hall kept"
+ },
+ {
+  "qid": "Q47529298",
+  "keep": 2,
+  "name": "Prado Museum extension",
+  "by": "Rafael Moneo",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "2007",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Brick"
+  ],
+  "features": "A brick cube wraps the rebuilt Jerónimos cloister, joined to the Villanueva building by an underground hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q7342666",
+  "keep": 2,
+  "name": "Robert C. Weaver Federal Building",
+  "by": "Marcel Breuer",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Prefabrication",
+   "Pilotis",
+   "Exposed concrete"
+  ],
+  "features": "Curved X-shaped plan raised on sculpted concrete pilotis, its precast window grid repeated on every face.",
+  "note": ""
+ },
+ {
+  "qid": "Q7533722",
+  "keep": 1,
+  "name": "Skagen Odde Nature Centre",
+  "by": "Jørn Utzon",
+  "city": "Skagen",
+  "cc": "DK",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Cluster"
+  ],
+  "features": "Clustered white halls with tall roof lanterns sit low among the dunes.",
+  "note": "designed 1989, completed by Jan and Kim Utzon"
+ },
+ {
+  "qid": "Q9088974",
+  "keep": 2,
+  "name": "Torre de la Creu",
+  "by": "Josep Maria Jujol",
+  "city": "Sant Joan Despí",
+  "cc": "ES",
+  "year": "1916",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Interlocking cylinders capped by trencadís-tiled domes, one rising as a tower crowned by a cross.",
+  "note": "year was construction start; completed 1916"
+ },
+ {
+  "qid": "Q1530020",
+  "keep": 0,
+  "name": "Glaubenskirche",
+  "by": "Roland Rainer",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1963",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q1595370",
+  "keep": 0,
+  "name": "Holy Cross Church",
+  "by": "Walter Maria Förderer",
+  "city": "Chur",
+  "cc": "CH",
+  "year": "1969",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "building uncertain (duplicate with next item); not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q16058576",
+  "keep": 0,
+  "name": "Holy Cross Church",
+  "by": "Walter Maria Förderer",
+  "city": "Chur",
+  "cc": "CH",
+  "year": "1969",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "duplicate of previous item"
+ },
+ {
+  "qid": "Q2321410",
+  "keep": 0,
+  "name": "St. Matthias",
+  "by": "Alexander von Branca",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1965",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully; city unverified"
+ },
+ {
+  "qid": "Q2386234",
+  "keep": 1,
+  "name": "Tabakfabrik Linz",
+  "by": "Peter Behrens and Alexander Popp",
+  "city": "Linz",
+  "cc": "AT",
+  "year": "1935",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "A long, gently curving steel-frame wing with continuous ribbon windows, now a creative hub.",
+  "note": "year was conversion; factory completed 1935; co-designed with Alexander Popp"
+ },
+ {
+  "qid": "Q3629506",
+  "keep": 2,
+  "name": "Auditorium Niccolò Paganini",
+  "by": "Renzo Piano",
+  "city": "Parma",
+  "cc": "IT",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "A disused sugar factory shell opened with glass end walls so the concert hall looks out onto the park.",
+  "note": "year was wrong; conversion of the Eridania sugar factory completed 2001"
+ },
+ {
+  "qid": "Q5615728",
+  "keep": 3,
+  "name": "Guild House",
+  "by": "Venturi and Rauch",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1963",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Symmetric brick front with a big arched window and white band, once topped by a gilded TV antenna.",
+  "note": ""
+ },
+ {
+  "qid": "Q136422811",
+  "keep": 2,
+  "name": "Herbert F. Johnson Museum of Art",
+  "by": "I. M. Pei",
+  "city": "Ithaca",
+  "cc": "US",
+  "year": "1973",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Void",
+   "Landscape"
+  ],
+  "features": "A concrete block with a huge open void cut through it, framing views over Cayuga Lake.",
+  "note": ""
+ },
+ {
+  "qid": "Q268151",
+  "keep": 0,
+  "name": "Croatian National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1895",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "",
+  "note": "one of many similar Fellner & Helmer theatres; low study interest"
+ },
+ {
+  "qid": "Q1049632",
+  "keep": 0,
+  "name": "Prospect Park",
+  "by": "Frederick Law Olmsted and Calvert Vaux",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1867",
+  "type": "Public space",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Promenade"
+  ],
+  "features": "",
+  "note": "a park, not a building"
+ },
+ {
+  "qid": "Q670406",
+  "keep": 0,
+  "name": "Zürich Opera House",
+  "by": "Fellner & Helmer",
+  "city": "Zürich",
+  "cc": "CH",
+  "year": "1891",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "",
+  "note": "one of many similar Fellner & Helmer theatres; low study interest"
+ },
+ {
+  "qid": "Q3097759",
+  "keep": 1,
+  "name": "Skopje Railway Station",
+  "by": "Kenzō Tange",
+  "city": "Skopje",
+  "cc": "MK",
+  "year": "1981",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "features": "Tracks raised on a long concrete deck over massive piers, part of Tange's post-earthquake city plan.",
+  "note": ""
+ },
+ {
+  "qid": "Q774654",
+  "keep": 0,
+  "name": "Villa Doria Pamphili",
+  "by": "Alessandro Algardi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1652",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Stone"
+  ],
+  "features": "",
+  "note": "mainly a park; year was wrong"
+ },
+ {
+  "qid": "Q1801054",
+  "keep": 2,
+  "name": "Lake Point Tower",
+  "by": "Schipporeit-Heinrich",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1968",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Three-winged curving tower in bronze-tinted glass, built on Mies's 1922 glass skyscraper idea.",
+  "note": ""
+ },
+ {
+  "qid": "Q1789816",
+  "keep": 0,
+  "name": "Minnesota State Capitol",
+  "by": "Cass Gilbert",
+  "city": "Saint Paul",
+  "cc": "US",
+  "year": "1905",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "low study interest for this site"
+ },
+ {
+  "qid": "Q1584748",
+  "keep": 0,
+  "name": "Pantages Theatre",
+  "by": "B. Marcus Priteca",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1930",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "mainly an interior; low study interest"
+ },
+ {
+  "qid": "Q516226",
+  "keep": 1,
+  "name": "Transparent Factory",
+  "by": "Gunter Henn",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "2002",
+  "type": "Workplace",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A glass car-assembly hall with parquet floors, letting the public watch production from the city park.",
+  "note": ""
+ },
+ {
+  "qid": "Q2423937",
+  "keep": 1,
+  "name": "Louise Weiss Building, European Parliament",
+  "by": "Architecture-Studio",
+  "city": "Strasbourg",
+  "cc": "FR",
+  "year": "1999",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "A curved glass wall wraps a round tower deliberately left looking unfinished around an open court.",
+  "note": ""
+ },
+ {
+  "qid": "Q456586",
+  "keep": 0,
+  "name": "Prinzregententheater",
+  "by": "Max Littmann",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1901",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "",
+  "note": "low study interest for this site"
+ },
+ {
+  "qid": "Q743773",
+  "keep": 1,
+  "name": "Tokyo Metropolitan Teien Art Museum",
+  "by": "Yōkichi Gondō with Henri Rapin",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1933",
+  "type": "Museum",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Adaptive reuse",
+   "Colour"
+  ],
+  "features": "Former princely residence with French Art Deco rooms, Lalique glass doors and a porcelain perfume fountain.",
+  "note": "year was museum opening; residence completed 1933"
+ },
+ {
+  "qid": "Q525790",
+  "keep": 0,
+  "name": "Cadillac Place",
+  "by": "Albert Kahn",
+  "city": "Detroit",
+  "cc": "US",
+  "year": "1922",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "generic office building"
+ },
+ {
+  "qid": "Q586735",
+  "keep": 0,
+  "name": "San Francisco Art Institute",
+  "by": "Bakewell & Brown",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1926",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Exposed concrete",
+   "Adaptive reuse"
+  ],
+  "features": "",
+  "note": "year is founding; credit and building mixed; not confident"
+ },
+ {
+  "qid": "Q661168",
+  "keep": 1,
+  "name": "Gehry Tower",
+  "by": "Frank Gehry",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A small office tower that twists as it rises, clad in stainless-steel panels.",
+  "note": ""
+ },
+ {
+  "qid": "Q198418",
+  "keep": 2,
+  "name": "Museum of Applied Arts Frankfurt",
+  "by": "Richard Meier",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1985",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Light & shadow"
+  ],
+  "features": "White panelled blocks take their grid from the old Villa Metzler, linked by ramps along the Main.",
+  "note": "year was founding; Meier's building opened 1985"
+ },
+ {
+  "qid": "Q2564383",
+  "keep": 0,
+  "name": "90 West Street",
+  "by": "Cass Gilbert",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1907",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q450777",
+  "keep": 0,
+  "name": "Deutsches Schauspielhaus",
+  "by": "Fellner & Helmer",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "1900",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "",
+  "note": "one of many similar Fellner & Helmer theatres"
+ },
+ {
+  "qid": "Q821601",
+  "keep": 0,
+  "name": "Thurgood Marshall United States Courthouse",
+  "by": "Cass Gilbert",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "low study interest"
+ },
+ {
+  "qid": "Q874373",
+  "keep": 0,
+  "name": "German Hygiene Museum",
+  "by": "Wilhelm Kreis",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1930",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "",
+  "note": "year was founding (building 1930); not known well enough to describe"
+ },
+ {
+  "qid": "Q3125027",
+  "keep": 0,
+  "name": "Nihonbashi Mitsui Tower",
+  "by": "César Pelli",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2005",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q3246466",
+  "keep": 3,
+  "name": "Notre-Dame du Raincy",
+  "by": "Auguste Perret",
+  "city": "Le Raincy",
+  "cc": "FR",
+  "year": "1923",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Prefabrication"
+  ],
+  "features": "A reinforced-concrete church on slender columns, its walls made of precast screens of coloured glass.",
+  "note": ""
+ },
+ {
+  "qid": "Q296392",
+  "keep": 0,
+  "name": "ARAG Tower",
+  "by": "Foster + Partners with RKW",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "",
+  "note": "generic office tower"
+ },
+ {
+  "qid": "Q7889201",
+  "keep": 2,
+  "name": "Cadet Chapel, US Air Force Academy",
+  "by": "Walter Netsch (SOM)",
+  "city": "Colorado Springs",
+  "cc": "US",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A row of aluminium-clad tetrahedra forms folded spires with strips of coloured glass between them.",
+  "note": ""
+ },
+ {
+  "qid": "Q877333",
+  "keep": 2,
+  "name": "Documentation Center Nazi Party Rally Grounds",
+  "by": "Günther Domenig",
+  "city": "Nuremberg",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Memorial",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Steel & glass"
+  ],
+  "features": "A glass-and-steel shaft stabs diagonally through the unfinished Nazi Congress Hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q879736",
+  "keep": 2,
+  "name": "Herz-Jesu-Kirche",
+  "by": "Allmann Sattler Wappner",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Facade as skin",
+   "Timber"
+  ],
+  "features": "A glass cube around an inner box of timber louvres, its whole front opening on giant blue glass doors.",
+  "note": ""
+ },
+ {
+  "qid": "Q1232270",
+  "keep": 0,
+  "name": "Haus Schulenburg",
+  "by": "Henry van de Velde",
+  "city": "Gera",
+  "cc": "DE",
+  "year": "1914",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q1623733",
+  "keep": 1,
+  "name": "Hohenhof",
+  "by": "Henry van de Velde",
+  "city": "Hagen",
+  "cc": "DE",
+  "year": "1908",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "A total work of art: house, garden, furniture and fittings designed together for Karl Ernst Osthaus.",
+  "note": ""
+ },
+ {
+  "qid": "Q2675725",
+  "keep": 1,
+  "name": "Autrique House",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1893",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Horta's first town house: a modest stone front with the first hints of his Art Nouveau ironwork.",
+  "note": "year was wrong; completed 1893"
+ },
+ {
+  "qid": "Q3533359",
+  "keep": 1,
+  "name": "Tour de Lille",
+  "by": "Christian de Portzamparc",
+  "city": "Lille",
+  "cc": "FR",
+  "year": "1995",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "An L-shaped office tower straddling Lille Europe station, nicknamed the ski boot.",
+  "note": ""
+ },
+ {
+  "qid": "Q879960",
+  "keep": 2,
+  "name": "Bundeskunsthalle",
+  "by": "Gustav Peichl",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Planting"
+  ],
+  "features": "A square gallery block whose roof garden carries three blue-tiled cones that light the halls below.",
+  "note": ""
+ },
+ {
+  "qid": "Q12769519",
+  "keep": 0,
+  "name": "Sacred Heart Church",
+  "by": "Vladimír Karfík",
+  "city": "Partizánske",
+  "cc": "SK",
+  "year": "1949",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q6436787",
+  "keep": 3,
+  "name": "Kresge Auditorium",
+  "by": "Eero Saarinen",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1955",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "One-eighth of a sphere: a thin concrete shell resting on three points, with glass walls between.",
+  "note": "dedicated 1955"
+ },
+ {
+  "qid": "Q106073023",
+  "keep": 1,
+  "name": "Gavina Showroom",
+  "by": "Carlo Scarpa",
+  "city": "Bologna",
+  "cc": "IT",
+  "year": "1963",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Shopfront of concrete planes pierced by large circular openings, with Scarpa's layered detailing inside.",
+  "note": "year was wrong; completed 1963"
+ },
+ {
+  "qid": "Q15260263",
+  "keep": 2,
+  "name": "Munkegaard School",
+  "by": "Arne Jacobsen",
+  "city": "Gentofte",
+  "cc": "DK",
+  "year": "1957",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Modular",
+   "Light from above"
+  ],
+  "features": "Single-storey classrooms, each with its own small garden courtyard, laid out on a chequerboard grid.",
+  "note": ""
+ },
+ {
+  "qid": "Q17595113",
+  "keep": 0,
+  "name": "Finca Sansalvador",
+  "by": "Josep Maria Jujol",
+  "city": "",
+  "cc": "ES",
+  "year": "1909",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Stone"
+  ],
+  "features": "",
+  "note": "not known well enough; credit unverified"
+ },
+ {
+  "qid": "Q26950714",
+  "keep": 0,
+  "name": "Villa Veritti",
+  "by": "Carlo Scarpa",
+  "city": "Udine",
+  "cc": "IT",
+  "year": "1961",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q29527503",
+  "keep": 3,
+  "name": "Casa Bianchi",
+  "by": "Mario Botta",
+  "city": "Riva San Vitale",
+  "cc": "CH",
+  "year": "1973",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Landscape"
+  ],
+  "features": "A concrete-block tower house entered at the top by a red steel bridge from the hillside.",
+  "note": ""
+ },
+ {
+  "qid": "Q3625124",
+  "keep": 2,
+  "name": "Asilo Sant'Elia",
+  "by": "Giuseppe Terragni",
+  "city": "Como",
+  "cc": "IT",
+  "year": "1937",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "Kindergarten around a courtyard, its glazed classrooms shaded by a free concrete frame with awnings.",
+  "note": "year was design; completed 1937"
+ },
+ {
+  "qid": "Q3669137",
+  "keep": 0,
+  "name": "Sacra Famiglia Church",
+  "by": "Paolo Portoghesi",
+  "city": "Salerno",
+  "cc": "IT",
+  "year": "1974",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "",
+  "note": "completion year uncertain"
+ },
+ {
+  "qid": "Q4882453",
+  "keep": 0,
+  "name": "Belgian Building",
+  "by": "Henry van de Velde",
+  "city": "Baton Rouge",
+  "cc": "US",
+  "year": "1941",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Geometry"
+  ],
+  "features": "",
+  "note": "1939 World's Fair pavilion moved and altered; credit shared; low interest"
+ },
+ {
+  "qid": "Q5308340",
+  "keep": 0,
+  "name": "Dronningegården",
+  "by": "Kay Fisker",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "1958",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q5364010",
+  "keep": 2,
+  "name": "Agora Theatre",
+  "by": "UNStudio",
+  "city": "Lelystad",
+  "cc": "NL",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "A faceted, folded skin of orange and yellow panels wraps the stage tower and foyers.",
+  "note": "year was design; opened 2007"
+ },
+ {
+  "qid": "Q10715507",
+  "keep": 0,
+  "name": "Villa in Norrköping",
+  "by": "Sverre Fehn",
+  "city": "Norrköping",
+  "cc": "SE",
+  "year": "1964",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Courtyard",
+   "Brick"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q111340696",
+  "keep": 0,
+  "name": "Church of San Pietro",
+  "by": "Mario Botta",
+  "city": "",
+  "cc": "IT",
+  "year": "1995",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "",
+  "note": "building and year uncertain"
+ },
+ {
+  "qid": "Q11568880",
+  "keep": 1,
+  "name": "Kumano Kodo Nakahechi Museum of Art",
+  "by": "SANAA",
+  "city": "Tanabe",
+  "cc": "JP",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Free plan"
+  ],
+  "features": "A thin-roofed single-storey box wrapped in layers of clear and milky glass.",
+  "note": ""
+ },
+ {
+  "qid": "Q11627655",
+  "keep": 0,
+  "name": "Nishinomiya Shell Museum",
+  "by": "",
+  "city": "Nishinomiya",
+  "cc": "JP",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Water"
+  ],
+  "features": "",
+  "note": "architect credit to Tadao Ando looks wrong"
+ },
+ {
+  "qid": "Q18170768",
+  "keep": 0,
+  "name": "Mercado de Mayoristas",
+  "by": "Luis Gutiérrez Soto",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "1939",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Exposed concrete"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q2319597",
+  "keep": 0,
+  "name": "St. Josef",
+  "by": "Gottfried Böhm",
+  "city": "",
+  "cc": "DE",
+  "year": "1957",
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "",
+  "note": "building not identifiable among several St. Josef churches"
+ },
+ {
+  "qid": "Q3361014",
+  "keep": 2,
+  "name": "Nantes Courthouse",
+  "by": "Jean Nouvel",
+  "city": "Nantes",
+  "cc": "FR",
+  "year": "2000",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A black grid of slender columns and a vast dark hall give a severe image of justice by the Loire.",
+  "note": ""
+ },
+ {
+  "qid": "Q6055705",
+  "keep": 3,
+  "name": "Japan Pavilion, Expo 2000",
+  "by": "Shigeru Ban with Frei Otto",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Low cost"
+  ],
+  "features": "A long gridshell of paper tubes under a paper membrane roof, designed to be recycled afterwards.",
+  "note": ""
+ },
+ {
+  "qid": "Q7896487",
+  "keep": 1,
+  "name": "Graduate House, University of Toronto",
+  "by": "Morphosis with Teeple Architects",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "2000",
+  "type": "Housing",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Cantilever",
+   "Courtyard",
+   "Sculptural form"
+  ],
+  "features": "A dormitory block whose lettered beam cantilevers over the street as a gateway to the campus.",
+  "note": "Morphosis was lead designer"
+ },
+ {
+  "qid": "Q7493533",
+  "keep": 2,
+  "name": "Sheldon Museum of Art",
+  "by": "Philip Johnson",
+  "city": "Lincoln",
+  "cc": "US",
+  "year": "1963",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "A travertine temple of tapered columns and arches around a grand central hall.",
+  "note": ""
+ },
+ {
+  "qid": "Q335894",
+  "keep": 2,
+  "name": "Karlsplatz Stadtbahn Pavilions",
+  "by": "Otto Wagner",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1899",
+  "type": "Infrastructure",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Prefabrication",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Twin pavilions of steel frame infilled with marble slabs and gilded sunflower ornament.",
+  "note": "year was U-Bahn conversion; pavilions completed 1899"
+ },
+ {
+  "qid": "Q585521",
+  "keep": 0,
+  "name": "Biltmore Estate",
+  "by": "Richard Morris Hunt",
+  "city": "Asheville",
+  "cc": "US",
+  "year": "1895",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "",
+  "note": "an estate; low study interest"
+ },
+ {
+  "qid": "Q2078042",
+  "keep": 0,
+  "name": "Texas State Capitol",
+  "by": "Elijah E. Myers",
+  "city": "Austin",
+  "cc": "US",
+  "year": "1888",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "low study interest"
+ },
+ {
+  "qid": "Q768446",
+  "keep": 0,
+  "name": "Corcoran Gallery of Art",
+  "by": "Ernest Flagg",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1897",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "",
+  "note": "year was founding; low study interest"
+ },
+ {
+  "qid": "Q1507284",
+  "keep": 0,
+  "name": "George Eastman Museum",
+  "by": "J. Foster Warner",
+  "city": "Rochester",
+  "cc": "US",
+  "year": "1905",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Adaptive reuse"
+  ],
+  "features": "",
+  "note": "low study interest"
+ },
+ {
+  "qid": "Q686109",
+  "keep": 0,
+  "name": "Wahnfried",
+  "by": "Wilhelm Neumann",
+  "city": "Bayreuth",
+  "cc": "DE",
+  "year": "1874",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Detail"
+  ],
+  "features": "",
+  "note": "year was wrong; low study interest"
+ },
+ {
+  "qid": "Q3815086",
+  "keep": 1,
+  "name": "Palazzo Piccolomini",
+  "by": "Bernardo Rossellino",
+  "city": "Pienza",
+  "cc": "IT",
+  "year": "1462",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Courtyard"
+  ],
+  "features": "Rusticated palazzo modelled on Palazzo Rucellai, with tiered loggias opening its garden to the valley.",
+  "note": "year was wrong; completed 1462"
+ },
+ {
+  "qid": "Q874557",
+  "keep": 2,
+  "name": "Wittgenstein House",
+  "by": "Ludwig Wittgenstein and Paul Engelmann",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1928",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Austere plastered cubes with tall steel doors and windows, every proportion refined by Wittgenstein.",
+  "note": "credit added: Ludwig Wittgenstein"
+ },
+ {
+  "qid": "Q1586762",
+  "keep": 0,
+  "name": "Harry S. Truman Federal Building",
+  "by": "Louis A. Simon",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1941",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "",
+  "note": "generic government office"
+ },
+ {
+  "qid": "Q317398",
+  "keep": 1,
+  "name": "Kunstmuseum Stuttgart",
+  "by": "Hascher Jehle Architektur",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "features": "A glass cube around a stone-clad core, with most galleries in old road tunnels below the square.",
+  "note": ""
+ },
+ {
+  "qid": "Q532191",
+  "keep": 1,
+  "name": "Cuvilliés Theatre",
+  "by": "François de Cuvilliés",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1753",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Colour"
+  ],
+  "features": "Rococo court theatre of carved, gilded wooden tiers, dismantled in the war and reinstalled in the Residenz.",
+  "note": "year was reinstallation (1958); built 1753"
+ },
+ {
+  "qid": "Q665622",
+  "keep": 0,
+  "name": "Museum für Gegenwartskunst",
+  "by": "Wilfrid and Katharina Steib",
+  "city": "Basel",
+  "cc": "CH",
+  "year": "1980",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Steel & glass"
+  ],
+  "features": "",
+  "note": "not known well enough to describe truthfully"
+ },
+ {
+  "qid": "Q1016909",
+  "keep": 2,
+  "name": "Burrell Collection",
+  "by": "Barry Gasson, John Meunier and Brit Andresen",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "1983",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Stone"
+  ],
+  "features": "A glass gallery runs along a woodland edge, with medieval stone portals set into its sandstone walls.",
+  "note": "credit completed: Gasson, Meunier and Andresen"
+ },
+ {
+  "qid": "Q6448885",
+  "keep": 0,
+  "name": "Kuwait Water Towers",
+  "by": "VBB (Sune Lindström and Malene Björn)",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "1979",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "unclear if this is Kuwait Towers or the network of mushroom water towers; year looks wrong"
+ },
+ {
+  "qid": "Q493923",
+  "keep": 0,
+  "name": "Haus für Mozart",
+  "by": "Clemens Holzmeister",
+  "city": "Salzburg",
+  "cc": "AT",
+  "year": "1925",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "",
+  "note": "credit ambiguous: rebuilt 2006 by Holzbauer and others"
+ },
+ {
+  "qid": "Q1630957",
+  "keep": 2,
+  "name": "Hotel Marqués de Riscal",
+  "by": "Frank Gehry",
+  "city": "Elciego",
+  "cc": "ES",
+  "year": "2006",
+  "type": "Hospitality",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Landscape"
+  ],
+  "features": "Ribbons of pink, gold and silver titanium swirl over a sandstone hotel block among the vineyards.",
+  "note": ""
+ },
+ {
+  "qid": "Q318235",
+  "keep": 1,
+  "name": "State Council Building",
+  "by": "Roland Korn and Hans-Erich Bogatzky",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1964",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Reclaimed material",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "A modernist government block with a baroque portal saved from the Berlin Palace set into its facade.",
+  "note": ""
+ },
+ {
+  "qid": "Q957722",
+  "keep": 2,
+  "name": "Villa Bloemenwerf",
+  "by": "Henry van de Velde",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1895",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Van de Velde's own gabled house, designed with its furniture, fabrics and fittings as one work of art.",
+  "note": ""
+ },
+ {
+  "qid": "Q2820746",
+  "keep": 2,
+  "name": "Abbey of St. Benedictusberg",
+  "by": "Dom Hans van der Laan",
+  "city": "Vaals",
+  "cc": "NL",
+  "year": "1968",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Brick"
+  ],
+  "features": "Plain grey volumes proportioned by van der Laan's plastic number, with stark, carefully lit interiors.",
+  "note": "year was start; van der Laan's abbey church consecrated 1968"
+ },
+ {
+  "qid": "Q4948040",
+  "keep": 2,
+  "name": "Boston Public Library, McKim Building",
+  "by": "McKim, Mead & White",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1895",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Granite palazzo front of arched windows over the vaulted Bates Hall reading room and an arcaded courtyard.",
+  "note": "year was start; opened 1895"
+ }
+]
