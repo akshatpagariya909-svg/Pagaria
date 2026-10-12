@@ -139,5 +139,1039 @@
    "https://en.wikipedia.org/wiki/Kim_Swoo-geun"
   ],
   "note": "Wikipedia gives 1966, Kim Swoo-geun's work list 1967. Mixed-use (shops below, flats above); 'Workplace' is the closest type. Only one clear free photo found; no dedicated Commons category found by search."
+ },
+ {
+  "id": "yangdeok-cathedral",
+  "name": "Yangdeok Cathedral",
+  "by": "Kim Swoo-geun",
+  "city": "Changwon",
+  "cc": "KR",
+  "year": "1979",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Kim Swoo-geun's sculpted red-brick church in Masan, mixing Korean traditional elements with modern form.",
+  "status": "photo",
+  "commons_category": "Category:Yangdeok Cathedral",
+  "photos": [
+   {
+    "file": "File:양덕성당 전면.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:양덕성당 후면.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kim_Swoo-geun"
+  ],
+  "note": "Photos are tagged public domain by the uploader but sit outside the (empty) category; worth checking the file pages before use. Masan is now part of Changwon."
+ },
+ {
+  "id": "seoul-arts-center",
+  "name": "Seoul Arts Center Opera House",
+  "by": "Kim Seok-chul",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1993",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Opera house whose round roof recalls the gat, the traditional Korean horsehair hat.",
+  "status": "photo",
+  "commons_category": "Category:Seoul Arts Center",
+  "photos": [
+   {
+    "file": "File:Korea-Seoul.Arts.Center-08.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Seoul Arts Center 04.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seoul_Arts_Center"
+  ],
+  "note": "Wikipedia does not name the architect; Kim Seok-chul is the widely credited designer. Check that the chosen photos show the Opera House."
+ },
+ {
+  "id": "amorepacific-headquarters",
+  "name": "Amorepacific Headquarters",
+  "by": "David Chipperfield Architects",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Courtyard",
+   "Brise-soleil"
+  ],
+  "features": "A near-cube wrapped in vertical sun screens, with large openings cut into three faces as raised gardens.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Amore Pacific World HQ.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2018/06/20/david-chipperfield-architects-completes-seoul-office-amorepacific-architecture/",
+   "https://domusweb.it/en/local-editions/korea/architecture/2018/12/14/social-void-in-a-public-cube-the-amorepacific-headquarters.html"
+  ],
+  "note": "Project dated 2010-2017; officially opened 2018. Only one free photo found (in Category:Amorepacific)."
+ },
+ {
+  "id": "government-complex-sejong",
+  "name": "Government Complex Sejong",
+  "by": "Haeahn Architecture",
+  "city": "Sejong",
+  "cc": "KR",
+  "year": "2014",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Megastructure",
+   "Landscape"
+  ],
+  "features": "Fifteen low ministry buildings joined by one winding roof garden about 3.6 km long.",
+  "status": "photo",
+  "commons_category": "Category:Government Complex Sejong",
+  "photos": [
+   {
+    "file": "File:Government Complex Sejong (N).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Government Complex Sejong 20190611 01.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://uclg-aspac.org/?p=33292",
+   "https://www.balmori.com/portfolio/category/2007"
+  ],
+  "note": "Built in three phases 2012-2014. Credits vary: Haeahn's 'Flat City' scheme with Balmori Associates (landscape); several firms designed individual phases."
+ },
+ {
+  "id": "ssamziegil",
+  "name": "Ssamziegil",
+  "by": "Choi Moon-gyu (Gaa Architects)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2004",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Courtyard",
+   "Circulation"
+  ],
+  "features": "A gently sloping walkway spirals up around a courtyard, turning four floors of craft shops into one street.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ssamzigil in Insadong.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:쌈지길.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "Facts from general knowledge, not checked against a source this round; verify before publishing. A shop complex: 'Public space' chosen as the closest type."
+ },
+ {
+  "id": "seonyudo-park",
+  "name": "Seonyudo Park",
+  "by": "Seoahn Total Landscape (Jung Young-sun), Joh Sung-yong",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2002",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Planting"
+  ],
+  "features": "A former water-treatment plant on a Han River island, its concrete tanks and columns kept as gardens.",
+  "status": "photo",
+  "commons_category": "Category:Seonyudo Park",
+  "photos": [
+   {
+    "file": "File:Seonyudo Park.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Korea Seonyudo Summer 20140805 10 (14862140773).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Seoul Seonyudo Park.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "Facts from general knowledge; verify credits before publishing. Category itself is empty; files found by search."
+ },
+ {
+  "id": "asia-culture-center",
+  "name": "Asia Culture Center",
+  "by": "Kyu Sung Woo",
+  "city": "Gwangju",
+  "cc": "KR",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Most of the complex is sunk below a public park, lit through sunken courts and skylights.",
+  "status": "photo",
+  "commons_category": "Category:Asia Culture Center, Gwangju",
+  "photos": [
+   {
+    "file": "File:Asian culture complexp.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "One wide panorama (4909x1583) found; facts from general knowledge, verify."
+ },
+ {
+  "id": "mmca-seoul",
+  "name": "National Museum of Modern and Contemporary Art, Seoul",
+  "by": "mpART Architects (Min Hyun-jun)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Public space"
+  ],
+  "features": "Low pavilions and open madang courtyards set between Gyeongbokgung Palace and the old Bukchon streets.",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Modern and Contemporary Art - Seoul",
+  "photos": [
+   {
+    "file": "File:MMCA Seoul.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:MMCA Seoul 2016.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:National Museum of Modern and Contemporary Art in Seoul 2.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:MMCA_Seoul_2016.jpg"
+  ],
+  "note": "Opened 13 Nov 2013 (file description). Architect from general knowledge; verify."
+ },
+ {
+  "id": "byeongsan-seowon",
+  "name": "Byeongsan Seowon",
+  "by": "Joseon builders",
+  "city": "Andong",
+  "cc": "KR",
+  "year": "1613",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Axis"
+  ],
+  "features": "Mandaeru, a long open timber pavilion, frames the river and the cliff opposite like a painting.",
+  "status": "photo",
+  "commons_category": "Category:Byeongsan Seowon",
+  "photos": [
+   {
+    "file": "File:만대루.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:병산서원 정문.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Korea-Andong-Byeongsan Seowon-01.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "Academy moved here in 1572; the shrine dates from 1613. Year chosen is uncertain, verify. Part of the UNESCO 'Seowon' listing."
+ },
+ {
+  "id": "janggyeong-panjeon",
+  "name": "Janggyeong Panjeon, Haeinsa",
+  "by": "Joseon builders",
+  "city": "Hapcheon",
+  "cc": "KR",
+  "year": "1488",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Human comfort"
+  ],
+  "features": "Windows of different sizes on front and back walls drive the airflow that keeps 80,000 woodblocks dry.",
+  "status": "photo",
+  "commons_category": "Category:Janggyeong Panjeon of Haeinsa",
+  "photos": [
+   {
+    "file": "File:20170812.해인사 장경판전(Haeinsa Janggyeong Panjeon).01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Amlou2518 해인사 장경판전1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "UNESCO World Heritage; date of the present halls usually given as 1488 (rebuilt). Facts from general knowledge, verify."
+ },
+ {
+  "id": "buseoksa-muryangsujeon",
+  "name": "Muryangsujeon, Buseoksa",
+  "by": "Goryeo builders",
+  "city": "Yeongju",
+  "cc": "KR",
+  "year": "1376",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "One of Korea's oldest timber halls: swelling entasis columns under a hipped-and-gabled roof facing the valley.",
+  "status": "photo",
+  "commons_category": "Category:Buseoksa",
+  "photos": [
+   {
+    "file": "File:Muryangsujeon at Buseoksa 01.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:부석사 무량수전.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:부석사_무량수전.jpg"
+  ],
+  "note": "Rebuilt 1376 per most sources; verify."
+ },
+ {
+  "id": "erdene-zuu",
+  "name": "Erdene Zuu Monastery",
+  "by": "Abtai Sain Khan",
+  "city": "Kharkhorin",
+  "cc": "MN",
+  "year": "1585",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "A square walled compound ringed by 108 stupas, built from the stones of Karakorum.",
+  "status": "photo",
+  "commons_category": "Category:Erdene Zuu Monastery",
+  "photos": [
+   {
+    "file": "File:202408 Erdene Zuu Monastery 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:06 1 Samostan Erdene Zuu (26).JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Erdene_Zuu_Monastery"
+  ],
+  "note": "108 stupas confirmed by a file description; founder and stone reuse from general knowledge, verify. 'by' is the patron, not an architect."
+ },
+ {
+  "id": "amarbayasgalant-monastery",
+  "name": "Amarbayasgalant Monastery",
+  "by": "Qing imperial builders",
+  "city": "Selenge",
+  "cc": "MN",
+  "year": "1736",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Timber"
+  ],
+  "features": "Symmetrical temple courts stepping up a valley floor on one north-south axis.",
+  "status": "photo",
+  "commons_category": "Category:Amarbayasgalant Monastery",
+  "photos": [
+   {
+    "file": "File:AmarbayasgalantFront.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Kloster Monastery Amarbajasgalant.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:View Amarbayasgalant monastery - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Mongolian Traditional Culture Amarbayasgalant Monastery Model (34866636204).jpg",
+    "kind": "Model",
+    "license": "CC0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "City field is the province (aimag). Facts from general knowledge; verify."
+ },
+ {
+  "id": "chinggis-khaan-statue-complex",
+  "name": "Chinggis Khaan Statue Complex",
+  "by": "J. Enkhjargal, D. Erdenebileg",
+  "city": "Tsonjin Boldog",
+  "cc": "MN",
+  "year": "2008",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "A 40 m steel horseman on a 10 m round visitor centre ringed by 36 columns, one per khan.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Chinggis Khan Statue Complex (22907407216).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Chinggis Khaan statue Complex.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Genghis_Khan_Equestrian_Statue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "glass-house-jeju",
+  "name": "Glass House, Seopjikoji",
+  "by": "Tadao Ando",
+  "city": "Seogwipo",
+  "cc": "KR",
+  "year": "2008",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "A V-shaped concrete-and-glass mass on the headland, opening east to Seongsan Ilchulbong.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Glass House, Phoenix Island, Jeju.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Glass House, Phoenix Island, Jeju 2.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://thesoulofseoul.net/tadao-ando-buildings-korea/"
+  ],
+  "note": ""
+ },
+ {
+  "id": "world-peace-gate",
+  "name": "World Peace Gate",
+  "by": "Kim Chung-up",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1988",
+  "type": "Memorial",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Colour"
+  ],
+  "features": "Winged concrete gate 62 m across, its underside painted with four guardian animals over an eternal flame.",
+  "status": "photo",
+  "commons_category": "Category:World Peace Gate",
+  "photos": [
+   {
+    "file": "File:Seoul Olympic Park April 2022.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:The Torch beneath World Peace Gate.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Olympic Park Seoul 2005.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.lonelyplanet.com/points-of-interest/world-peace-gate/1417520"
+  ],
+  "note": "Files are in the gate's category but I could not view them; check that at least one shows the whole gate. If none does, it needs a drawing (form not established well enough by me to draw)."
+ },
+ {
+  "id": "jeju-national-university-main-building",
+  "name": "Jeju National University Main Building",
+  "by": "Kim Chung-up",
+  "city": "Jeju",
+  "cc": "KR",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Promenade",
+   "Exposed concrete"
+  ],
+  "features": "Ship-like concrete building with sweeping ramps; demolished in 1996, now known from models and photos.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [
+   {
+    "file": "File:Model of Administration Building at Jeju Natioanl University, Jeju.jpg",
+    "kind": "Model",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:20230902 Kim Jungeop Museum 004.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Stairs in Kimchungup Architecture Museum (1).jpg",
+    "kind": "Model",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Model_of_Administration_Building_at_Jeju_Natioanl_University,_Jeju.jpg"
+  ],
+  "note": "Demolished 1996. Free photos of the museum model exist (good extras, could even serve as the image). I couldn't view them and my sources don't fix the elevation, so no drawing. 'Ship-like' is from general knowledge; verify."
+ },
+ {
+  "id": "galleria-department-store-seoul",
+  "name": "Galleria Department Store (West)",
+  "by": "UNStudio",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2004",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "features": "A blind 1970s concrete box re-clad in 4,330 glass discs that shift colour by day and glow with LEDs by night.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Front elevation: a wide windowless box covered in a regular grid of round glass discs (fewer, larger discs than the real 4,330).",
+  "after": null,
+  "sources": [
+   "https://www.e-architect.com/korea/galleria-department-store-seoul",
+   "https://metropolismag.com/programs/dressing-up-a-mall/",
+   "https://www.catalan-architects.com/en/unstudio-amsterdam/project/galleria-department-store"
+  ],
+  "note": "No photo on Commons (searched English and Korean names). Storey count and ground-floor entrances not in sources, so the drawing shows only the blind box and the disc skin. A department store: 'Workplace' is the closest type."
+ },
+ {
+  "id": "urban-hive",
+  "name": "Urban Hive",
+  "by": "Archium (Kim In-cheurl)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "A 17-storey box whose load-bearing concrete skin is punched with 3,371 round holes like a honeycomb.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Street elevation: a 17-storey box with staggered round holes over the whole skin and the lower corner cut away.",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Urban_Hive",
+   "https://www.dezeen.com/2014/04/24/archium-urban-hive-office-tower-seoul/"
+  ],
+  "note": "No photo on Commons. Holes are drawn fewer and larger than the real 3,371. Sources say one corner is sliced away at the base (to the car park) and the other corner has the entrance; the drawing shows only the cut corner. Project year sometimes given as 2008."
+ },
+ {
+  "id": "snu-museum-of-art",
+  "name": "Seoul National University Museum of Art",
+  "by": "OMA (Rem Koolhaas)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "A box cut to follow the hillside and lifted on one central core, so the ground beneath stays an open path.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Side elevation: the sloping hill, the box with its underside cut parallel to the slope, and the single central core that is its only support.",
+  "after": null,
+  "sources": [
+   "https://www.oma.com/projects/seoul-national-university-museum-of-art",
+   "https://arquitecturaviva.com/works/museo-de-la-universidad-nacional-de-seul-10",
+   "https://dac.dk/en/magazine/places/seoul-national-university-museum-512"
+  ],
+  "note": "No photo on Commons. Sources: rectangular volume with a diagonal cut following the hillside, almost entirely cantilevered from one central concrete core, translucent profiled-glass skin over a steel truss, about 17.5 m tall. Length-to-height ratio and the exact slope are estimated; floors and truss lines left out rather than guessed."
+ },
+ {
+  "id": "kyobo-tower",
+  "name": "Kyobo Tower",
+  "by": "Mario Botta",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2003",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Void"
+  ],
+  "features": "Two heavy brick-clad towers 18 m apart, with a glass core between them and a glass bridge near the top.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.building.co.uk/buildings/the-genius-of-botta/3052986.article",
+   "https://www.lonelyplanet.com/points-of-interest/kyobo-tower/1409823"
+  ],
+  "note": "No photo on Commons. Sources give two brick towers 18 m apart, a glass 'heart', a glass bridge near the top and 26 storeys, but not whether the gap is glazed full height, the width of each tower, or where windows sit in the brick. I drew a draft and withdrew it as too guessed."
+ },
+ {
+  "id": "agora-jeju",
+  "name": "Agora Club House",
+  "by": "Mario Botta",
+  "city": "Seogwipo",
+  "cc": "KR",
+  "year": "2008",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "A glass pyramid on the Seopjikoji headland, set against the winding coastal landscape.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoenix_Island_Villa_Condo_%26_Club_House",
+   "https://www.gooood.cn/en/club-house-agora-by-mario-botta-architetti.htm"
+  ],
+  "note": "No photo on Commons. Sources say only 'glass pyramid at the seaside'; the base, slope and lattice aren't described, and a bare triangle wouldn't identify it. Draft withdrawn."
+ },
+ {
+  "id": "bangju-church",
+  "name": "Bangju Church",
+  "by": "Itami Jun",
+  "city": "Seogwipo",
+  "cc": "KR",
+  "year": "2009",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Timber",
+   "Light & shadow"
+  ],
+  "features": "An ark-like timber and glass church under a zinc-shingle roof, set in a shallow pool so it seems to float.",
+  "status": "unsure",
+  "commons_category": "Category:Bangju Church",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.meniscuszine.com/?p=44102",
+   "https://www.koreajoongangdaily.com/lifestyle/late-architect-melded-wind-nature-buildings-in-2-nations/11380198"
+  ],
+  "note": "Commons category exists but is empty. Sources give the ark idea, zinc roof, wood and glass walls and the pool, but not the roof profile or proportions."
+ },
+ {
+  "id": "kring",
+  "name": "Kring (Kumho Culture Complex)",
+  "by": "Unsangdong Architects",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Stainless-steel facade pressed with seven spiralling ring openings, meant as sound waves spreading out.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.domusweb.it/en/architecture/2009/12/28/rule-breakers.html",
+   "https://randomwire.com/kring-creative-culture-space/"
+  ],
+  "note": "No photo on Commons. Sources give seven ring-shaped openings of different sizes but not where they sit or the storey count; drawing them would mean guessing positions."
+ },
+ {
+  "id": "pixel-house",
+  "name": "Pixel House",
+  "by": "Mass Studies with Slade Architecture",
+  "city": "Paju",
+  "cc": "KR",
+  "year": "2003",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Digital fabrication",
+   "Geometry"
+  ],
+  "features": "A small house made of 9,675 bricks ('pixels') whose cube corners are rounded off by shifting bricks out of line.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.elledecoration.co.uk/lifestyle-culture/a62920949/minsuk-cho-pixel-house/",
+   "https://architizer.com/projects/pixel-house"
+  ],
+  "note": "No photo on Commons. Sources: a cube with some corners rounded horizontally or vertically, plan and section like a quarter circle. Which corners, the openings and the height aren't given clearly enough to draw. Located in Heyri Art Valley."
+ },
+ {
+  "id": "jayu-center",
+  "name": "Freedom Center (Jayu Center)",
+  "by": "Kim Swoo-geun",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1963",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Exposed concrete",
+   "Pilotis"
+  ],
+  "features": "Rows of massive pillars, like troops standing ready, under a bow-shaped roof facing north from Namsan.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kim_Swoo-geun",
+   "https://koreascience.kr/article/JAKO201217449888509.do",
+   "https://blog.lareviewofbooks.org/the-korea-blog/ways-looking-kim-swoo-geun-koreas-poet-brick-concrete-much-else-besides/"
+  ],
+  "note": "No photo on Commons. Pillars and bow-shaped roof are described, but not their number, height or the storeys. Compared in a 2012 paper with Chandigarh and Tange's Hiroshima Peace Center. Some sources give 1964."
+ },
+ {
+  "id": "arko-art-center",
+  "name": "Arko Art Center",
+  "by": "Kim Swoo-geun",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1979",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Public space"
+  ],
+  "features": "Red-brick galleries on Marronnier Park, part of the brick ensemble Kim built for Daehak-ro with the Arko Arts Theater.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://cimam.org/general-information/who-are-our-members-home/institutional-members/arko-art-center/",
+   "https://www.lonelyplanet.com/points-of-interest/arko-art-center/1098932",
+   "https://en.wikipedia.org/wiki/Kim_Swoo-geun"
+  ],
+  "note": "No photo on Commons. Sources confirm red brick and three linked galleries but describe no facade, so no drawing."
+ },
+ {
+  "id": "welcomm-city",
+  "name": "Welcomm City",
+  "by": "Seung H-Sang (IROJE)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2000",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Cluster",
+   "Earth & local material"
+  ],
+  "features": "Office for an ad agency split into separate rusted-steel blocks with gaps (voids) between them.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seung_H-Sang",
+   "https://www.cca.qc.ca/en/search/details/library/publication/1134074890"
+  ],
+  "note": "No photo on Commons. Sources found only confirm the project (2000); the Cor-Ten blocks and voids are from general knowledge and not confirmed, so the features line needs checking and nothing was drawn."
+ },
+ {
+  "id": "podo-hotel",
+  "name": "Podo Hotel",
+  "by": "Itami Jun",
+  "city": "Seogwipo",
+  "cc": "KR",
+  "year": "2001",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Low rooms grouped like a bunch of grapes, their roofs echoing Jeju's traditional houses.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "No photo on Commons. Facts from general knowledge only; roof shapes and layout not established."
+ },
+ {
+  "id": "daeyang-gallery-and-house",
+  "name": "Daeyang Gallery and House",
+  "by": "Steven Holl Architects",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Three pavilions around a reflecting pool, shaped from a 1967 musical score; light enters through roof strips.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "No photo on Commons. Facts from general knowledge only; not drawn."
+ },
+ {
+  "id": "prada-transformer",
+  "name": "Prada Transformer",
+  "by": "OMA",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2009",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Tensile structure",
+   "Steel & glass"
+  ],
+  "features": "A steel frame wrapped in membrane with four faces (hexagon, cross, rectangle, circle), craned over to change use.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "Temporary (2009), at Gyeonghuigung. No photo on Commons. Its form is a 3D object, hard to show in one honest line view without a reference; not drawn."
+ },
+ {
+  "id": "museum-san",
+  "name": "Museum SAN",
+  "by": "Tadao Ando",
+  "city": "Wonju",
+  "cc": "KR",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Stone",
+   "Promenade"
+  ],
+  "features": "Long stone-clad galleries reached through flower, water and stone gardens on a mountain top.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "No photo on Commons. Facts from general knowledge only; not drawn."
+ },
+ {
+  "id": "31-building",
+  "name": "31 Building (Samil Building)",
+  "by": "Kim Chung-up",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1970",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A 31-storey curtain-wall slab, Seoul's tallest until 1979 and built wholly by Korean teams.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/31_Building",
+   "https://junglim.com/en/31-bldg-renovation/"
+  ],
+  "note": "Only free photo found is File:31 building in 1971.jpg (600x498, KOGL Type 1), too small and KOGL isn't on our licence list. The slab's proportions and base aren't described, so not drawn."
  }
 ]
