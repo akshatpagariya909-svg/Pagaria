@@ -25,7 +25,8 @@
   const state = {
     q: '', seed: 11, ncols: 0,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
-    open: null, shot: 0, seen: new Set(), lastTile: null
+    open: null, shot: 0, seen: new Set(), lastTile: null,
+    booting: true, unwinding: false
   };
   const tileShot = new Map(); // which photo each tile is showing
 
@@ -135,6 +136,7 @@
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
+    updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
   }
   new IntersectionObserver(entries => { if (entries.some(en => en.isIntersecting)) addBatch(); }, { rootMargin: '1200px 0px' }).observe($('more'));
@@ -261,9 +263,25 @@
     return out;
   }
 
-  function openBuilding(id, surprise, fromEl) {
+  /* Each building opened in a row is a step in the browser's history, so the phone's back gesture and the dock's
+     Back arrow both walk back through them, and going back from the first one closes it. A step remembers its
+     building, whether it was a surprise, how many steps came before it in this run (step) and the one before (prev). */
+  const here = () => (history.state && history.state.da ? history.state : null);
+  function remember(b, surprise, wasOpen) {
+    const cur = wasOpen ? here() : null;
+    const made = !here() && location.hash === '#' + b.id; // the browser already made this entry (the address was typed or linked)
+    const entry = cur ? { da: true, id: b.id, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
+                      : { da: true, id: b.id, surprise: !!surprise, step: 0, prev: null, pushed: !state.booting };
+    try {
+      if (state.booting || made) history.replaceState(entry, '', '#' + b.id);
+      else history.pushState(entry, '', '#' + b.id);
+    } catch (e) { /* some embedded frames forbid it */ }
+  }
+
+  function openBuilding(id, surprise, fromEl, fromHistory) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
+    if (!fromHistory && !(state.open && state.open.id === b.id)) remember(b, surprise, !sheet.hidden);
     state.open = b; state.seen.add(b.id);
     state.lastTile = fromEl || tiles.get(b.id) || null;
 
@@ -301,11 +319,12 @@
     $('sameTypeAll').dataset.type = b.type;
     $('sameTypeRel').innerHTML = relHtml(kin.slice(0, 4));
 
+    if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); } // a quick fade when one building replaces another
     sheet.hidden = false;
     document.body.classList.add('locked');
+    updateDock();
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
-    try { history.replaceState(null, '', '#' + b.id); } catch (e) { /* some embedded frames forbid it */ }
     updateStep();
   }
 
@@ -332,17 +351,31 @@
     openBuilding(b.id);
   }
 
-  function closeBuilding() {
+  const dropHash = () => { try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ } };
+  function hideSheet() {
     sheet.hidden = true;
     document.body.classList.remove('locked');
     state.open = null;
-    try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ }
+    updateDock();
     if (state.lastTile && state.lastTile.isConnected) {
       if (state.stepped) state.lastTile.scrollIntoView({ block: 'center' });
       state.lastTile.querySelector('.open').focus({ preventScroll: true });
     }
     state.stepped = false;
   }
+  // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
+  // rather than reopening buildings.
+  function closeBuilding() {
+    hideSheet();
+    const h = here(), n = h ? h.step + (h.pushed ? 1 : 0) : 0;
+    if (n) { state.unwinding = true; history.go(-n); } else dropHash();
+  }
+  window.addEventListener('popstate', e => {
+    if (state.unwinding) { state.unwinding = false; if (location.hash) dropHash(); return; }
+    const h = e.state && e.state.da ? e.state : null;
+    if (h) openBuilding(h.id, h.surprise, null, true);
+    else if (!sheet.hidden) hideSheet();
+  });
 
   $('veil').addEventListener('click', closeBuilding);
   $('close').addEventListener('click', closeBuilding);
@@ -420,22 +453,43 @@
   $('emptyClear').addEventListener('click', clearAll);
   $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); clearAll(); });
 
+  // The dock stays on top of everything. On the plain wall it offers Shuffle; anywhere else (an opened building,
+  // a filtered or searched wall) Shuffle becomes Home. Surprise me works everywhere, even over an opened building.
+  const atHome = () => sheet.hidden && !state.q && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  function updateDock() {
+    const home = atHome();
+    $('shuffle').hidden = !home;
+    $('goHome').hidden = home;
+    const h = here(), prev = !sheet.hidden && h && h.step > 0 ? ALL.find(x => x.id === h.prev) : null;
+    $('goBack').hidden = !prev;
+    if (prev) { $('goBack').title = 'Back to ' + prev.name; $('goBack').setAttribute('aria-label', 'Back to ' + prev.name); }
+  }
+  $('goBack').addEventListener('click', () => history.back());
   $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
-  $('surprise').addEventListener('click', () => {
-    const list = visible();
-    const pool = list.filter(b => !state.seen.has(b.id));
-    const from = pool.length ? pool : list;
-    if (from.length) openBuilding(from[Math.floor(Math.random() * from.length)].id, true);
+  $('goHome').addEventListener('click', () => {
+    if (!sheet.hidden) closeBuilding();
+    toggleFilters(false); clearAll();
   });
+  function surprise() {
+    const list = visible();
+    const pool = list.filter(b => !state.seen.has(b.id) && (!state.open || b.id !== state.open.id));
+    const from = pool.length ? pool : list.filter(b => !state.open || b.id !== state.open.id);
+    if (from.length) openBuilding(from[Math.floor(Math.random() * from.length)].id, true);
+  }
+  $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
   window.DA = { ALL, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   const openFromHash = () => {
+    if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
-    if (id && (!state.open || state.open.id !== id)) openBuilding(id);
+    if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
+    else if (id && (!state.open || state.open.id !== id)) openBuilding(id);
   };
   window.addEventListener('hashchange', openFromHash);
-  openFromHash();
+  const h0 = here(); // a reload, or coming back from another page, keeps the step we were on
+  if (h0) openBuilding(h0.id, h0.surprise, null, true); else openFromHash();
+  state.booting = false;
 })();

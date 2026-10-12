@@ -230,26 +230,33 @@ body.filtering { overflow: hidden; }
 .empty button { all: unset; cursor: pointer; text-decoration: underline; }
 .empty button:hover { color: var(--red); }
 
-/* ---------- dock ---------- */
-.dock { position: fixed; z-index: 20; left: 50%; bottom: calc(22px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); display: flex; gap: 2px; padding: 5px; width: max-content;
+/* ---------- dock: on top of everything, including an opened building ---------- */
+.dock { position: fixed; z-index: 60; left: 50%; bottom: calc(22px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); display: flex; gap: 2px; padding: 5px; width: max-content;
   background: rgba(255,255,255,.82); -webkit-backdrop-filter: blur(20px) saturate(140%); backdrop-filter: blur(20px) saturate(140%); border: 1px solid var(--hair); border-radius: calc(var(--r) + 5px);
   color: var(--ink); box-shadow: 0 14px 34px rgba(17,17,16,.14); }
 .dock button { all: unset; cursor: pointer; padding: 0 18px; height: 44px; display: flex; align-items: center; border-radius: var(--r); font-size: 14px; font-weight: 600; white-space: nowrap; transition: color .15s ease, background .15s ease; }
 .dock button:hover { color: var(--red); }
 .dock .go { background: var(--red); color: #fff; padding: 0 22px; }
 .dock .go:hover { background: var(--red-ink); color: #fff; }
+.dock [hidden] { display: none; }
+.dock .back { padding: 0 12px; }
+.dock .back svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2.2; }
+body.filtering .dock { display: none; } /* the filter panel has its own buttons at the bottom */
 
 /* ---------- opened building ---------- */
-.sheet { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; --cw: min(1280px, calc(100% - 48px)); }
+/* The opened building leaves a strip at the bottom so the dock sits below it, not over it. */
+.sheet { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; --cw: min(1280px, calc(100% - 48px)); --dockroom: calc(66px + env(safe-area-inset-bottom, 0px)); padding-bottom: var(--dockroom); }
 .sheet[hidden] { display: none; }
 .veil { all: unset; position: absolute; inset: 0; background: rgba(14,14,13,0.5); cursor: zoom-out; }
 .card { position: relative; width: var(--cw); height: min(800px, calc(100% - 48px)); background: #fff; display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); border-radius: var(--r-panel); overflow: hidden; box-shadow: 0 30px 90px rgba(0,0,0,0.45); outline: none; animation: rise .22s ease; }
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } }
+.card.swap { animation: swap .28s ease; }
+@keyframes swap { from { opacity: .4; transform: scale(.985); } }
 
 /* previous / next building, in the wall's order: big arrows with a peek outside the card */
 .sheet:has(> .step:not([hidden])) { --cw: min(1180px, calc(100% - 320px)); }
-.step { position: absolute; inset: 0; pointer-events: none; }
+.step { position: absolute; inset: 0 0 var(--dockroom); pointer-events: none; }
 .step[hidden] { display: none; }
 .step-btn { all: unset; box-sizing: border-box; pointer-events: auto; cursor: pointer; position: absolute; top: 50%; transform: translateY(-50%); width: calc((100% - var(--cw)) / 2);
   display: flex; flex-direction: column; align-items: center; gap: 12px; }
@@ -365,8 +372,10 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
   .bar-end { display: none; }
   #filterBtn { padding: 0 12px; }
   .ideas { padding: 0 12px 8px; }
+  /* On a phone the opened building fills the screen and the dock floats over it; the text scrolls clear of the dock. */
+  .sheet { padding: 0; --dockroom: 0px; }
   .card { grid-template-columns: 1fr; grid-template-rows: 50% 50%; width: 100%; height: 100%; border-radius: 0; }
-  .info { padding: 18px 16px 24px; }
+  .info { padding: 18px 16px calc(90px + env(safe-area-inset-bottom, 0px)); }
   .rel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .filters { padding: 0; }
   .fp { width: 100%; height: 100%; border-radius: 0; border: 0; }
@@ -391,6 +400,7 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
   .face { width: 64px; height: 80px; }
   .by-text b { font-size: 21px; }
   .dock { bottom: calc(12px + env(safe-area-inset-bottom, 0px)); max-width: calc(100% - 24px); }
+  body:has(.sheet:not([hidden]) > .step:not([hidden])) .dock { bottom: calc(84px + env(safe-area-inset-bottom, 0px)); } /* float just above the previous / next bar */
   .dock button { padding: 0 12px; }
   .feed { padding-left: 12px; padding-right: 12px; }
   .cols, .col { gap: 10px; }
