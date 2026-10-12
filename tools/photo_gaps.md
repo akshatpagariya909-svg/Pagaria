@@ -45,7 +45,7 @@ They have photos, but none of the outside. Check Commons by hand first: some may
 | 1523 | Chaktomuk Conference Hall | Vann Molyvann | Phnom Penh, KH | Interior, Interior | [Category:Chaktomuk Conference Hall](https://commons.wikimedia.org/wiki/Category:Chaktomuk_Conference_Hall) |
 | 1544 | Bahrain National Theatre | Architecture-Studio | Manama, BH | Context, Context | [Category:National Theatre of Bahrain](https://commons.wikimedia.org/wiki/Category:National_Theatre_of_Bahrain) |
 
-## Fewer than 4 photos (103)
+## Fewer than 4 photos (105)
 
 They show, but the gallery is thin.
 
@@ -154,6 +154,8 @@ They show, but the gallery is thin.
 | 1562 | Praça das Artes | Brasil Arquitetura | São Paulo, BR | Exterior | [Category:Praça das Artes](https://commons.wikimedia.org/wiki/Category:Pra%C3%A7a_das_Artes) |
 | 1565 | Wohl Centre | Daniel Libeskind | Ramat Gan, IL | Exterior, Exterior, Exterior | [Category:Wohl Centre](https://commons.wikimedia.org/wiki/Category:Wohl_Centre) |
 | 1567 | Dudhsagar Dairy | Achyut Kanvinde | Mehsana, IN | Exterior, Exterior, Exterior | [Category:Dudhsagar Dairy plant](https://commons.wikimedia.org/wiki/Category:Dudhsagar_Dairy_plant) |
+| 1599 | King Fahd National Library | Gerber Architekten | Riyadh, SA | Exterior, Exterior, Context | [Category:King Fahd National Library](https://commons.wikimedia.org/wiki/Category:King_Fahd_National_Library) |
+| 1602 | Alisher Navoi Opera and Ballet Theatre | Alexey Shchusev | Tashkent, UZ | Exterior | [Category:Alisher Navoi Opera and Ballet Theatre](https://commons.wikimedia.org/wiki/Category:Alisher_Navoi_Opera_and_Ballet_Theatre) |
 
 ## Left off the wall for now (49)
 

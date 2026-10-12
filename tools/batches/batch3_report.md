@@ -1,7 +1,7 @@
 # batch3
 
 - Curated: 304
-- On the wall from this batch: 163 (1 added in the latest run, 25 of them approved by hand)
+- On the wall from this batch: 163 (0 added in the latest run, 25 of them approved by hand)
 - Held back for a check by hand: 0
 - Turned down: 141
 
