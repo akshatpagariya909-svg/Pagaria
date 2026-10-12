@@ -1,0 +1,65 @@
+[
+ {
+  "id": "museo-enzo-ferrari",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Veduta esterna Museo casa Enzo Ferrari.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Modena Museo Casa Enzo Ferrari 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:FerrariMuseum old and new.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Casa Enzo Ferrari 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Exterior of the Museo Enzo Ferrari, Modena",
+  "note": "First photo: full curved glass facade with yellow roof (small photographer signature in a corner). Others: facade beside the old workshop, roof from the side, facade detail."
+ },
+ {
+  "id": "collegio-del-colle-urbino",
+  "status": "photo",
+  "photos": [
+   {
+    "file": "File:Elementi instabili.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Percorsi infiniti.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perfect geometry.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Luce lontana.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "commons_category": "Category:Collegio del Colle",
+  "note": "Only 1600px for the two wide views (nothing larger shows the whole complex). First: stepped concrete residence blocks seen up a garden stair; second: terraced blocks from above; then two black-and-white details of concrete stairs and brick. Descriptions all say Collegio del Colle."
+ },
+ {
+  "id": "villa-la-saracena",
+  "status": "none",
+  "photos": [],
+  "commons_category": "Category:Villa La Saracena (Santa Marinella)",
+  "note": "The category holds only the Paolo Monti photo already tried; searches for Saracena / 'Villa detta la Saracena' / Saracena Moretti find nothing else on Commons."
+ }
+]

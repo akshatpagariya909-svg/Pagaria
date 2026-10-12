@@ -1,0 +1,55 @@
+[
+ {
+  "id": "peckham-library",
+  "name": "Peckham Library",
+  "by": "Alsop & Störmer",
+  "city": "London",
+  "cc": "GB",
+  "year": "2000",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Inverted L on thin raking steel legs over a public square; pre-patinated copper skin and coloured glass.",
+  "award": "RIBA Stirling Prize 2000",
+  "status": "photo",
+  "commons_category": "Category:Peckham Library",
+  "photos": [
+   {
+    "file": "File:Peckham Library (8668917410).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Peckham Library - geograph.org.uk - 5296046.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Peckham library exterior 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Public Library, Peckham (152044043).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Peckham Library - geograph.org.uk - 4791982.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peckham_Library",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Own Commons category with many free exterior photos; also subcategory 'Interior of Peckham Library'."
+ }
+]

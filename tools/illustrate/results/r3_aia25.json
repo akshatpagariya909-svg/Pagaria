@@ -1,0 +1,308 @@
+[
+ {
+  "id": "crow-island-school",
+  "name": "Crow Island School",
+  "by": "Perkins, Wheeler & Will with Eliel and Eero Saarinen",
+  "city": "Winnetka",
+  "cc": "US",
+  "year": "1940",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Courtyard",
+   "Brick"
+  ],
+  "features": "One-storey wings off a shared core; every classroom has its own outdoor court, under a tall chimney tower.",
+  "award": "AIA Twenty-five Year Award 1971",
+  "status": "photo",
+  "commons_category": "Category:Crow Island School (Winnetka, Illinois)",
+  "photos": [
+   {
+    "file": "File:Crow Island School.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crow Island School (8626471252).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crow_Island_School"
+  ],
+  "note": "Only two files in the category; the first shows the entrance and brick chimney tower, partly behind trees."
+ },
+ {
+  "id": "baldwin-hills-village",
+  "name": "Baldwin Hills Village (Village Green)",
+  "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1942",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A car-free superblock: low garden apartments face large shared greens, with garages kept to courts at the edge.",
+  "award": "AIA Twenty-five Year Award 1972",
+  "status": "photo",
+  "commons_category": "Category:Village Green (Los Angeles)",
+  "photos": [
+   {
+    "file": "File:Village Green Photograph.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:View of the Village Green.JPG",
+    "license": "CC BY-SA 2.5"
+   },
+   {
+    "file": "File:Villagegreen-nhl.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Baldwin Hills Village, Office Building.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Village_Green_(Los_Angeles)"
+  ],
+  "note": "The photo seen shows the central green with low houses at its edges: the defining space rather than one facade."
+ },
+ {
+  "id": "commonwealth-building-portland",
+  "name": "Equitable Building (Commonwealth Building)",
+  "by": "Pietro Belluschi",
+  "city": "Portland",
+  "cc": "US",
+  "year": "1948",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Climate response"
+  ],
+  "features": "Early glass-box tower: first clad in aluminium, double-glazed, sealed and fully air-conditioned.",
+  "award": "AIA Twenty-five Year Award 1982",
+  "status": "photo",
+  "commons_category": "Category:Commonwealth Building",
+  "photos": [
+   {
+    "file": "File:Commonwealth Building, Downtown Portland, OR 2025-04-04.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Commonwealth Building - Portland, Oregon (2017).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Commonwealth Building, Portland, Oregon (2012) - 01.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Commonwealth_Building_(Portland,_Oregon)"
+  ],
+  "note": "Now called the Commonwealth Building; 14 storeys. Many photos in the category."
+ },
+ {
+  "id": "price-tower",
+  "name": "Price Tower",
+  "by": "Frank Lloyd Wright",
+  "city": "Bartlesville",
+  "cc": "US",
+  "year": "1956",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Structure as expression",
+   "Brise-soleil"
+  ],
+  "features": "Wright's only built skyscraper: floors cantilever like branches from a central core, with copper louvres.",
+  "award": "AIA Twenty-five Year Award 1983",
+  "status": "photo",
+  "commons_category": "Category:Price Tower",
+  "photos": [
+   {
+    "file": "File:Price Tower, Dewey Avenue, Bartlesville, OK - 53707617037.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Price Tower, Dewey Avenue, Bartlesville, OK - 53707616527.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Price Tower, Dewey Avenue, Bartlesville, OK - 53708746603.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Price Tower - Bartlesville.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Price_Tower"
+  ],
+  "note": "Category also has HABS measured drawings: Category:Price Tower, 510 South Dewey Avenue, Bartlesville, OK - HABS drawings (public domain), useful as extras."
+ },
+ {
+  "id": "general-motors-technical-center",
+  "name": "General Motors Technical Center",
+  "by": "Eero Saarinen and Associates with Smith, Hinchman & Grylls",
+  "city": "Warren",
+  "cc": "US",
+  "year": "1956",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "A campus of long steel-and-glass blocks with glazed-brick end walls in bright colours, around a lake and a dome.",
+  "award": "AIA Twenty-five Year Award 1985",
+  "status": "photo",
+  "commons_category": "Category:General Motors Technical Center",
+  "photos": [
+   {
+    "file": "File:General Motors Technical Center, Warren, Michigan LCCN2011633194.tif",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:General Motors Technical Center Building, Warren, Michigan LCCN2011631234.tif",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:General Motors Technical Center, Warren, Michigan LCCN2011631554.tif",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:General Motors Technical Center Mound Entrance.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/General_Motors_Technical_Center"
+  ],
+  "note": "Best photos are Carol Highsmith's public-domain Library of Congress TIFFs (the styling dome; a blue glazed-brick end wall). File:Warren - General Motors Technical Center (50826111923).jpg shows a newer blue building, not Saarinen's: don't use it."
+ },
+ {
+  "id": "deere-and-company-headquarters",
+  "name": "Deere & Company Administrative Center",
+  "by": "Eero Saarinen and Associates",
+  "city": "Moline",
+  "cc": "US",
+  "year": "1964",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Landscape",
+   "Structure as expression"
+  ],
+  "features": "Office floors wrapped in a frame of weathering steel and deep sunshades, spanning a wooded ravine.",
+  "award": "AIA Twenty-five Year Award 1993",
+  "status": "photo",
+  "commons_category": "Category:John Deere World Headquarters",
+  "photos": [
+   {
+    "file": "File:Deere & Company World Headquarters.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:John Deere World Headquarters 01.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:John Deere World Headquarters 05.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Deere & Company Headquarters, Moline, Illinois, 1956-64. Exterior - 00627v.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+  ],
+  "note": "Plenty of photos; also two public-domain Balthazar Korab archive images (1024px)."
+ },
+ {
+  "id": "weyerhaeuser-headquarters",
+  "name": "Weyerhaeuser Corporate Headquarters",
+  "by": "Skidmore, Owings & Merrill (Edward Charles Bassett), with Sasaki, Walker and Associates",
+  "city": "Federal Way",
+  "cc": "US",
+  "year": "1971",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Free plan"
+  ],
+  "features": "A 'skyscraper on its side': a long five-floor block with ivy on every level, between a pond and a meadow.",
+  "award": "AIA Twenty-five Year Award 2001",
+  "status": "photo",
+  "commons_category": "Category:Weyerhaeuser Corporate Headquarters (Federal Way, Washington)",
+  "photos": [
+   {
+    "file": "File:Weyerhaeuser Building (Federal Way) 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weyerhaeuser Building (Federal Way) - pano 02.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Weyerhaeuser Building (Federal Way) 10.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Weyerhaeuser Building.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weyerhaeuser_Corporate_Headquarters"
+  ],
+  "note": "Now part of Woodbridge Corporate Park; the company left in 2016. Some files are filed under the new name."
+ }
+]

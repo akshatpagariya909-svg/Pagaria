@@ -1,0 +1,183 @@
+[
+ {
+  "id": "waterloo-international",
+  "name": "Waterloo International",
+  "by": "Nicholas Grimshaw & Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1993",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "400 m train shed that curves and tapers with the tracks, on asymmetric three-pin bowstring arches.",
+  "award": "Mies van der Rohe Award 1994",
+  "status": "photo",
+  "commons_category": "Category:Waterloo International railway station",
+  "photos": [
+   {
+    "file": "File:The Eurostar terminus at Waterloo - geograph.org.uk - 2017939.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Waterloo former Eurostar station.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Looking up at the former Waterloo International station from Leake Street - geograph.org.uk - 6270938.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Waterloo Glass and Steel (13090476743).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waterloo_International_railway_station"
+  ],
+  "note": "Now platforms 20-24 of Waterloo station. Fourth photo is a close-up of the glazing and blue trusses."
+ },
+ {
+  "id": "netherlands-embassy-berlin",
+  "name": "Netherlands Embassy, Berlin",
+  "by": "OMA, Rem Koolhaas",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2003",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Circulation",
+   "Steel & glass"
+  ],
+  "features": "A continuous route, the 'trajectory', winds up through the cube from entrance to roof terrace.",
+  "award": "Mies van der Rohe Award 2005",
+  "status": "photo",
+  "commons_category": "Category:Dutch Embassy building in Berlin",
+  "photos": [
+   {
+    "file": "File:Embassy of the Netherlands in Berlin November 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin - Botschaft des Königreichs der Niederlande.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Be Dutch Embassy 05.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:L'Ambassade des Pays-Bas (Berlin) (6304064916).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Embassy_of_the_Netherlands,_Berlin"
+  ],
+  "note": "Also Category:Dutch Embassy, Berlin."
+ },
+ {
+  "id": "musac",
+  "name": "MUSAC, Museum of Contemporary Art of Castilla y León",
+  "by": "Mansilla + Tuñón",
+  "city": "León",
+  "cc": "ES",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Modular",
+   "Facade as skin"
+  ],
+  "features": "Plan of repeated square and rhomboid cells; coloured glass facade drawn from León Cathedral's stained glass.",
+  "award": "Mies van der Rohe Award 2007",
+  "status": "photo",
+  "commons_category": "Category:MUSAC",
+  "photos": [
+   {
+    "file": "File:MUSAC, León, Spain.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:FachadaMusac.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:MUSAC.002 - Leon.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:León - MUSAC 01.JPG",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MUSAC"
+  ],
+  "note": "Exterior photos are in Category:Exterior of the MUSAC."
+ },
+ {
+  "id": "deflat-kleiburg",
+  "name": "DeFlat Kleiburg",
+  "by": "NL Architects, XVW architectuur",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2016",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Low cost",
+   "Incremental"
+  ],
+  "features": "A 1970s Bijlmermeer slab of 500 flats saved from demolition; residents buy bare shells and fit them out.",
+  "award": "Mies van der Rohe Award 2017",
+  "status": "photo",
+  "commons_category": "Category:Kleiburg (flat)",
+  "photos": [
+   {
+    "file": "File:Kleiburg Bijlmerdreefmetrobrug 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kleiburg knik 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kleiburg 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kleiburg"
+  ],
+  "note": "2015 photos may show the slab mid-renovation; the 2021 one is after."
+ }
+]
