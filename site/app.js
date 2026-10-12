@@ -135,6 +135,7 @@
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
+    updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
   }
   new IntersectionObserver(entries => { if (entries.some(en => en.isIntersecting)) addBatch(); }, { rootMargin: '1200px 0px' }).observe($('more'));
@@ -300,8 +301,10 @@
     $('sameTypeAll').dataset.type = b.type;
     $('sameTypeRel').innerHTML = relHtml(kin.slice(0, 4));
 
+    if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); } // a quick fade when one building replaces another
     sheet.hidden = false;
     document.body.classList.add('locked');
+    updateDock();
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     try { history.replaceState(null, '', '#' + b.id); } catch (e) { /* some embedded frames forbid it */ }
@@ -311,6 +314,7 @@
     sheet.hidden = true;
     document.body.classList.remove('locked');
     state.open = null;
+    updateDock();
     try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* ignore */ }
     if (state.lastTile && state.lastTile.isConnected) state.lastTile.querySelector('.open').focus({ preventScroll: true });
   }
@@ -389,13 +393,26 @@
   $('emptyClear').addEventListener('click', clearAll);
   $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); clearAll(); });
 
+  // The dock stays on top of everything. On the plain wall it offers Shuffle; anywhere else (an opened building,
+  // a filtered or searched wall) Shuffle becomes Home. Surprise me works everywhere, even over an opened building.
+  const atHome = () => sheet.hidden && !state.q && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  function updateDock() {
+    const home = atHome();
+    $('shuffle').hidden = !home;
+    $('goHome').hidden = home;
+  }
   $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
-  $('surprise').addEventListener('click', () => {
-    const list = visible();
-    const pool = list.filter(b => !state.seen.has(b.id));
-    const from = pool.length ? pool : list;
-    if (from.length) openBuilding(from[Math.floor(Math.random() * from.length)].id, true);
+  $('goHome').addEventListener('click', () => {
+    if (!sheet.hidden) closeBuilding();
+    toggleFilters(false); clearAll();
   });
+  function surprise() {
+    const list = visible();
+    const pool = list.filter(b => !state.seen.has(b.id) && (!state.open || b.id !== state.open.id));
+    const from = pool.length ? pool : list.filter(b => !state.open || b.id !== state.open.id);
+    if (from.length) openBuilding(from[Math.floor(Math.random() * from.length)].id, true);
+  }
+  $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
   window.DA = { ALL, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
@@ -403,7 +420,8 @@
   render(false);
   const openFromHash = () => {
     const id = decodeURIComponent(location.hash.slice(1));
-    if (id && (!state.open || state.open.id !== id)) openBuilding(id);
+    if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
+    else if (id && (!state.open || state.open.id !== id)) openBuilding(id);
   };
   window.addEventListener('hashchange', openFromHash);
   openFromHash();
