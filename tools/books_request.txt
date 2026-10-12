@@ -1,2 +1,1 @@
-python -u tools/harvest_books.py
-Harvest again (the first run was cut off when the repository moved).
+Fetch covers for batch 2 and any book still missing one.
