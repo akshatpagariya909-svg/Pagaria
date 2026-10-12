@@ -64,14 +64,15 @@ def fold(s):
 
 
 def words(s):
-    return {w for w in fold(s).split() if len(w) > 2 and w not in STOP}
+    out = {w for w in fold(s).split() if len(w) > 2 and w not in STOP}
+    return out or set(fold(s).split())  # "S,M,L,XL" has no long words at all
 
 
 STOP = set('the and for von van der del des les une of in on to with its an by other essays'.split())
 
 
 def search(params):
-    q = urllib.parse.urlencode({**params, 'fields': 'key,title,author_name,first_publish_year,cover_i,cover_edition_key,isbn,edition_count,language', 'limit': 10})
+    q = urllib.parse.urlencode({**params, 'fields': 'key,title,subtitle,author_name,first_publish_year,cover_i,cover_edition_key,isbn,edition_count,language', 'limit': 10})
     data = fetch(f'{SEARCH}?{q}', timeout=40)
     return json.loads(data).get('docs', []) if data else []
 
@@ -79,7 +80,9 @@ def search(params):
 def score(book, doc):
     """How well a search result matches the book we asked for: the title's words, one of the authors' surnames, then popularity.
     A result by somebody else is never taken, however close the title: "Plato's Invisible Cities" is not Calvino's."""
-    want, got = words(book['title']), words(doc.get('title', ''))
+    # Open Library keeps the subtitle apart: "Architecture" + "form, space & order".
+    full = ' '.join(x for x in (doc.get('title'), doc.get('subtitle')) if x)
+    want, got = words(book['title']), words(full)
     if not want:
         return -1
     overlap = len(want & got) / len(want)
@@ -89,7 +92,7 @@ def score(book, doc):
     surnames = [w for w in fold(book['by']).split() if len(w) > 3 and w not in STOP and w not in ('editor', 'editors', 'edited')]
     if surnames and not any(w in authors for w in surnames):
         return -1
-    s = overlap * 10 + (3 if fold(doc.get('title', '')).strip() == fold(book['title']).strip() else 0) + min(doc.get('edition_count', 0), 30) / 10
+    s = overlap * 10 + (3 if fold(full).split() == fold(book['title']).split() else 0) + min(doc.get('edition_count', 0), 30) / 10
     if 'eng' in (doc.get('language') or []):
         s += 1
     return s
@@ -151,7 +154,11 @@ def first_cover(ranked):
     for s, d in ranked[:4]:
         for kind, value in cover_sources(d):
             url = COVER.format(value) if kind == 'id' else COVER_BY.format(kind, value)
-            data = fetch(url)
+            try:
+                data = fetch(url)
+            except Exception as e:  # one bad cover source should not lose the book
+                print(f'    {kind} {value}: {e}')
+                continue
             if data and len(data) > 1500:
                 return d, data, f'{kind} {value}' + ('' if s >= 12 else f' (loose title match: "{d.get("title")}")')
     return None, None, None
