@@ -322,20 +322,22 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .hint { margin: 8px 0 0; font: 400 11px/1.5 var(--mono); color: var(--graphite); }
 
 /* Who built it, and where: a black-and-white portrait byline, and a grey world map with the country in sunset red. */
-.whowhere { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 14px 20px; }
+/* the architect and the map always share one row; a long name wraps instead of pushing the map down */
+.whowhere { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: 20px; }
 .byline { min-width: 0; }
 .by-link { all: unset; display: flex; align-items: flex-end; gap: 14px; min-width: 0; }
 button.by-link { cursor: pointer; }
 button.by-link:hover b, button.by-link:hover .see { color: var(--red); }
 button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3px; }
-.face { flex: none; width: 76px; height: 96px; object-fit: cover; object-position: 50% 20%; filter: grayscale(1); background: var(--slot); display: block; }
+.face { flex: none; width: 68px; height: 86px; object-fit: cover; object-position: 50% 20%; filter: grayscale(1); background: var(--slot); display: block; }
 .face.initials { display: grid; place-items: center; font: 600 20px var(--mono); color: var(--ink); }
 .by-text { display: flex; flex-direction: column; gap: 3px; padding-bottom: 2px; min-width: 0; }
 .by-text i { font-family: var(--serif); font-size: 15px; color: var(--graphite); }
-.by-text b { font-family: var(--display); font-weight: 800; font-size: 30px; line-height: 1; letter-spacing: .01em; text-transform: uppercase; transition: color .15s ease; }
+.by-text b { font-family: var(--display); font-weight: 800; font-size: 30px; line-height: 1; letter-spacing: .01em; text-transform: uppercase; overflow-wrap: break-word; text-wrap: balance; transition: color .15s ease; }
+.by-text b.long { font-size: 22px; line-height: 1.05; }
 .by-text .see { font: 500 12px var(--mono); transition: color .15s ease; }
 .face-credit { margin: 6px 0 0; font: 400 10px/1.5 var(--mono); color: var(--graphite); }
-.where { flex: none; width: 190px; display: flex; flex-direction: column; gap: 5px; color: var(--graphite); text-decoration: none; }
+.where { flex: none; width: 160px; display: flex; flex-direction: column; gap: 5px; color: var(--graphite); text-decoration: none; }
 .where svg { width: 100%; height: auto; display: block; border-radius: var(--r); background: #F3F2EE; }
 .where .land { fill: #D3D1CA; stroke: #fff; stroke-width: 0.5px; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
 .where .here { fill: var(--red); stroke: #fff; stroke-width: 0.5px; vector-effect: non-scaling-stroke; }
@@ -398,9 +400,11 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
   .fp-foot { padding: 10px 12px; }
   .fp-actions { width: 100%; }
   .fp-actions .go { flex: 1; justify-content: center; }
-  .where { width: 150px; }
+  .where { width: 140px; }
+  .whowhere { gap: 12px; }
   .face { width: 64px; height: 80px; }
   .by-text b { font-size: 26px; }
+  .by-text b.long { font-size: 19px; }
   .dock { bottom: calc(12px + env(safe-area-inset-bottom, 0px)); max-width: calc(100% - 24px); }
   body:has(.sheet:not([hidden]) > .step:not([hidden])) .dock { bottom: calc(84px + env(safe-area-inset-bottom, 0px)); } /* float just above the previous / next bar */
   .dock button { padding: 0 12px; }
