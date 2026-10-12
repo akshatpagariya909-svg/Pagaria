@@ -463,5 +463,34 @@
    "https://archeyes.com/?p=11367"
   ],
   "note": "No Commons photos. Sources agree: a one-level pavilion half dug into a wooded slope; the rear floor slab curves up to meet the flat roof and takes the earth load, so only three slim (55 mm) front columns remain, with sliding panels instead of walls. Overall length and the curve's radius are not given; proportions are approximate."
+ },
+ {
+  "id": "garden-and-house",
+  "name": "Garden & House",
+  "by": "Ryue Nishizawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2011",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Section",
+   "Free plan"
+  ],
+  "features": "A 4 m wide stack of bare concrete slabs with no outside walls: plants, clear railings and curtains make the facade.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "street elevation of the 4 m wide front between tall neighbours: four stacked slabs with clear railings, curtains and potted plants",
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2013/01/23/garden-and-house-by-ryue-nishizawa/amp/",
+   "https://archiweb.cz/en/n/foreign/vertikalni-zahrada-v-tokiu-od-ryue-nishizawa",
+   "https://pen-online.com/design/4-metres-wide-5-floors-and-no-walls-the-new-house-from-ryue-nishizawa-2",
+   "https://www.iconeye.com/architecture/tokyo-garden-house-by-ryue-nishizawa"
+  ],
+  "note": "No Commons photos. Sources: 8 x 4 m plot between buildings over 30 m tall; a stack of horizontal concrete slabs (four storeys plus roof terrace) on three RC columns and a steel post; street side made of clear railings, curtains and potted plants. Slab spacing in the drawing is approximate (floor heights vary but no figures given); columns are not drawn because their positions are not described. Dates in sources vary (2006 design, 2011 completion; some say 2013)."
  }
 ]

@@ -1003,5 +1003,33 @@
    "https://buildipedia.com/at-home/design-remodeling/house-of-the-month-the-versatile-delta-shelter"
   ],
   "note": "No free photo on Commons. About 200 sq ft footprint and about 1,000 sq ft over three levels, on a 100-year flood plain by the Methow River; shutters are human-powered. Window pattern behind the shutter is schematic."
+ },
+ {
+  "id": "smith-house-darien",
+  "name": "Smith House",
+  "by": "Richard Meier",
+  "city": "Darien",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Section"
+  ],
+  "features": "White wood house closed to the road, opening to the water through a three-storey glass wall; brick fireplace pushes through the glass.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://interiordesign.net/designwire/richard-meier-reflects-on-the-50th-anniversary-of-smith-house/",
+   "https://www.dezeen.com/2018/02/26/richard-meier-1960s-smith-house-captured-new-photographs-mike-schwartz-50th-anniversary/",
+   "https://world-architects.com/en/meier-partners-new-york/project/smith-house"
+  ],
+  "note": "No free photo on Commons. Sources confirm a ramp to the entrance on the closed land side, a three-level glass enclosure on the water side and a painted brick fireplace pushing out through the mullions, but I could not confirm how the floor slabs, double-height living room and chimney sit in the water elevation, so I did not draw it (a generic glass box with a chimney would mislead)."
  }
 ]
