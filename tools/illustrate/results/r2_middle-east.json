@@ -39,7 +39,7 @@
    "Sculptural form",
    "Water"
   ],
-  "features": "Steel arches that rise and dip like a dune wave across the water, carrying the road deck between them.",
+  "features": "Sweeping steel arches that rise and fall along the road deck as it crosses the channel to Abu Dhabi island.",
   "status": "photo",
   "commons_category": "Category:Sheikh Zayed Bridge",
   "photos": [
@@ -145,11 +145,11 @@
   "type": "Office & tower",
   "movement": "Late modernism",
   "concepts": [
-   "Brise-soleil",
    "Exposed concrete",
+   "Monumentality",
    "Climate response"
   ],
-  "features": "Dubai's first high-rise: a concrete tower whose deep-set arched windows shade the glass from the desert sun.",
+  "features": "Dubai's first skyscraper, a 184 m tower opened in 1979 as Sheikh Rashid Tower; a landmark of Gulf modernism.",
   "status": "photo",
   "commons_category": "Category:Dubai World Trade Centre",
   "photos": [
@@ -168,7 +168,7 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Dubai_World_Trade_Centre"
   ],
-  "note": "Wikipedia gives 184 m, opened 26 February 1979 as Sheikh Rashid Tower, by John R. Harris and Partners. The arched-window feature is from general knowledge; check before use."
+  "note": "Wikipedia gives 184 m, opened 26 February 1979 as Sheikh Rashid Tower, by John R. Harris and Partners. "
  },
  {
   "id": "al-bahr-towers",
@@ -391,7 +391,7 @@
    "Facade as skin",
    "Climate response"
   ],
-  "features": "A round stadium whose woven white shell takes the shape of the taqiyah, the cap worn across the Gulf.",
+  "features": "A round stadium shaped like the taqiyah, the woven cap worn by men and boys across the Middle East.",
   "status": "photo",
   "commons_category": "Category:Al Thumama Stadium",
   "photos": [
@@ -453,7 +453,7 @@
    "Geometry",
    "Monumentality"
   ],
-  "features": "The largest stadium of the 2022 World Cup: a golden bowl under a cable-net roof, host of the final.",
+  "features": "Host stadium of the 2022 World Cup final, designed by Foster + Partners with Populous.",
   "status": "photo",
   "commons_category": "Category:Lusail Stadium",
   "photos": [
@@ -468,7 +468,7 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Lusail_Stadium"
   ],
-  "note": "Aerial view (3838x2160, CC BY 3.0). Wikipedia gives built 2017-2021, inaugurated 2022; the roof and facade description in features is general knowledge, not from Wikipedia, so check before use."
+  "note": "Aerial view (3838x2160, CC BY 3.0). Wikipedia gives built 2017-2021, inaugurated 2022; Wikipedia does not describe the facade or roof."
  },
  {
   "id": "al-bayt-stadium",
@@ -548,7 +548,7 @@
    "Climate response",
    "Structure as expression"
   ],
-  "features": "A ring of white fabric canopies on 24 columns shades the stands like a field of desert tents.",
+  "features": "A ring of roof canopies held by 24 columns on a 247 m circle shades the stands from the desert sun.",
   "status": "photo",
   "commons_category": "Category:King Fahd Stadium",
   "photos": [
@@ -653,7 +653,7 @@
    "Public space",
    "Geometry"
   ],
-  "features": "Four buildings around courtyards off a civic plaza, each wrapped in titanium-clad geometric screens.",
+  "features": "Four buildings around courtyards off a civic plaza, wrapped in steel envelopes clad in titanium panels.",
   "status": "photo",
   "commons_category": "Category:Sheikh Jaber Al Ahmad Cultural Centre",
   "photos": [
@@ -792,7 +792,7 @@
   "concepts": [
    "Exposed concrete",
    "Monumentality",
-   "Adaptive reuse"
+   "Structure as expression"
   ],
   "features": "A 26-storey hotel open only a year before the civil war; its gutted frame still stands as a war memory.",
   "status": "photo",
@@ -817,7 +817,7 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Holiday_Inn_Beirut"
   ],
-  "note": "Wogenscky worked with Le Corbusier. 'Adaptive reuse' is not apt; owner may prefer another concept, e.g. 'Void'."
+  "note": "Three large exterior photos. Built 1971-74; fought over in the 1975-76 Battle of the Hotels and left a stripped concrete frame."
  },
  {
   "id": "the-egg-beirut",
@@ -988,11 +988,11 @@
   "type": "Infrastructure",
   "movement": "Modernism",
   "concepts": [
-   "Vault",
-   "Prefabrication",
-   "Light & shadow"
+   "Exposed concrete",
+   "Climate response",
+   "Geometry"
   ],
-  "features": "Yamasaki's precast concrete arches and vaults gave the Gulf an airport rooted in Islamic forms; AIA award 1963.",
+  "features": "Yamasaki's civil air terminal for Dhahran, which won the AIA First Honor Award in 1963.",
   "status": "photo",
   "commons_category": "Category:Dhahran International Airport",
   "photos": [
@@ -1021,7 +1021,7 @@
   "sources": [
    "https://commons.wikimedia.org/wiki/File:Dhahran_Civil_Air_Terminal,_Saudi_Arabia,_under_construction_-_USACE-p15141coll5-509.jpeg"
   ],
-  "note": "US Army Corps of Engineers photos (PD) plus 1960s photos. The Commons description says the AIA gave Yamasaki its First Honor Award for the terminal in 1963. The 'arches and vaults' wording is from general knowledge (it appears on Saudi banknotes in the category); check against the photos."
+  "note": "US Army Corps of Engineers photos (PD) plus 1960s photos. The Commons description says the AIA gave Yamasaki its First Honor Award for the terminal in 1963. The terminal also appears on Saudi banknotes in the category. Concepts are generic; check against the photos."
  },
  {
   "id": "cairo-opera-house",
@@ -1037,7 +1037,7 @@
    "Light from above",
    "Public space"
   ],
-  "features": "A gift from Japan: white domed halls in an Islamic-inspired style on Gezira Island.",
+  "features": "A gift from Japan to Egypt, built 1985-88 to give Cairo a new opera house after the Khedivial Opera.",
   "status": "photo",
   "commons_category": "Category:Cairo Opera House",
   "photos": [
@@ -1070,7 +1070,7 @@
    "Light from above",
    "Landscape"
   ],
-  "features": "A large museum in Fustat beside Ain el-Sira lake, home of the royal mummies since the 2021 parade.",
+  "features": "Egypt's museum of civilisation in Old Cairo, home of the royal mummies since the 2021 Golden Parade.",
   "status": "photo",
   "commons_category": "Category:National Museum of Egyptian Civilization",
   "photos": [
@@ -1085,7 +1085,7 @@
   "sources": [
    "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization"
   ],
-  "note": "Hundreds of files; first one titled with the museum (4032x3024), not checked whether it's an exterior. Partly opened 2017, officially inaugurated April 2021. 'Beside Ain el-Sira lake' is general knowledge; check."
+  "note": "Hundreds of files; first one titled with the museum (4032x3024), not checked whether it's an exterior. Partly opened 2017, officially inaugurated April 2021."
  },
  {
   "id": "azadi-stadium",
@@ -1101,7 +1101,7 @@
    "Monumentality",
    "Landscape"
   ],
-  "features": "Iran's national stadium, built for the 1974 Asian Games; a vast concrete bowl that once held 120,000.",
+  "features": "Iran's national stadium, opened in 1971 for about 120,000 people and main venue of the 1974 Asian Games.",
   "status": "photo",
   "commons_category": "Category:Azadi Stadium",
   "photos": [
@@ -1117,5 +1117,143 @@
    "https://en.wikipedia.org/wiki/Azadi_Stadium"
   ],
   "note": "Many files and year subcategories. Opened 17 October 1971; parts of the sports complex planned with SOM."
+ },
+ {
+  "id": "terra-sustainability-pavilion",
+  "name": "Terra, the Sustainability Pavilion",
+  "by": "Grimshaw",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2021",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "A 130 m solar canopy on a single central column over galleries sunk into the ground, with 18 rotating Energy Trees.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.burohappold.com/projects/terra-the-sustainability-pavilion/",
+   "https://gulfnews.com/business/property/terra-expo-2020-dubais-sustainability-pavilion-is-ready-to-welcome-visitors-1.69323162",
+   "https://www.dezeen.com/2021/10/06/grimshaw-sustainability-pavilion-dubai-expo/amp/"
+  ],
+  "note": "No Commons category or files found. Not drawn: sources give the canopy width (130-135 m, angled and oval, 70 m cantilever) but no height or section, so the profile can't be drawn to proportion. A Grimshaw section would settle it."
+ },
+ {
+  "id": "masdar-institute",
+  "name": "Masdar Institute",
+  "by": "Foster + Partners",
+  "city": "Masdar City",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "Labs and housing on shaded narrow streets: undulating screened facades, ETFE-cushion walls and a modern wind tower.",
+  "status": "unsure",
+  "commons_category": "Category:Masdar Institute",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://grca.org.uk/grc-projects/masdar.php",
+   "https://aasarchitecture.com/2013/04/masdar-institute-by-foster-partners",
+   "https://www.iconeye.com/architecture/masdar-institute-by-foster-partners"
+  ],
+  "note": "Commons category holds only people/event subcategories, no building photos. Not drawn: it is a group of buildings, and the sources describe the facade systems but not the massing or storey counts well enough for an accurate elevation."
+ },
+ {
+  "id": "aishti-foundation",
+  "name": "Aïshti Foundation",
+  "by": "Adjaye Associates",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Galleries and shops behind a red aluminium-tube screen whose zigzag pattern recalls the mashrabiya.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2015/11/05/david-adjaye-aishti-foundation-gallery-shopping-centre-nears-completion-beirut-lebanon/amp/",
+   "https://www.arch2o.com/aishti-foundation-david-adjaye"
+  ],
+  "note": "No Commons category or files found. Not drawn: sources describe the facade and a block 'rotated on one edge', but give no height or storey count. At Jal el Dib on the coast north of Beirut."
+ },
+ {
+  "id": "kuwait-national-museum",
+  "name": "Kuwait National Museum",
+  "by": "Michel Écochard",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "1983",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Exposed concrete"
+  ],
+  "features": "Concrete museum buildings set around a central garden, like a courtyard house, by the planner of Casablanca.",
+  "status": "unsure",
+  "commons_category": "Category:Kuwait National Museum",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/479",
+   "https://afikra.com/daftarjournal/kuwait-architecture"
+  ],
+  "note": "Only building file is File:Kwnmuseum.jpg (543x308), below 800px. Not drawn: sources disagree on four or five buildings, and the 28 m open metal sun-roof described by Archnet may not have been built. Competition 1960, built 1977-81, opened 1983; damaged in 1990."
+ },
+ {
+  "id": "stone-garden-beirut",
+  "name": "Stone Garden",
+  "by": "Lina Ghotmeh",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2020",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Planting",
+   "Facade as skin"
+  ],
+  "features": "A 13-storey tower of hand-combed earth and cement, cut by openings of many sizes that hold gardens.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lina_Ghotmeh",
+   "https://www.architecturalrecord.com/articles/14808-stone-garden-by-lina-ghotmeh",
+   "https://www.dezeen.com/2020/10/18/lina-ghotmeh-stone-garden-beirut-architecture/amp/"
+  ],
+  "note": "No Commons files found. Not drawn: the sources confirm 13 storeys, about 50 m and irregular openings, but not the silhouette (whether the top steps or slopes) or where the openings fall. Survived the 2020 port explosion."
  }
 ]

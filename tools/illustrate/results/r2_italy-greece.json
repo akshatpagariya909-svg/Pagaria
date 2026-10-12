@@ -1486,5 +1486,34 @@
    "https://www.icmc14-smc14.net/venues/onasssis-cultural-center.html"
   ],
   "note": "Commons has only interior photos. Sources: white marble strips wrap all four facades; building about 27 m (89 ft) tall. The width-to-height ratio and band spacing are approximate."
+ },
+ {
+  "id": "agios-dimitrios-circular-school",
+  "name": "Circular School, Agios Dimitrios",
+  "by": "Takis Zenetos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Modular"
+  ],
+  "features": "A three-storey disc of classrooms round a central core, its south half ringed by louvred eaves at every floor.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "slightly raised view from the south: the three-storey drum with a louvred eave band at each floor head round the southern half, and glazed walls with metal mullions",
+  "after": null,
+  "sources": [
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/BUILDINGS/BUILD_TEXTS/B32_t.html",
+   "https://aaeportal.com/images/82781/agios-dimitrios-school-first-floor-plan-and-views-of-the-exterior",
+   "https://caroloartschool.wordpress.com/2010/09/10/takis-zenetos/",
+   "http://blog.2modern.com/2007/06/takis_zenetos_a.html"
+  ],
+  "note": "No Commons photo. Sources: three-floor circular building, three standard modules of 160 pupils per floor round a central audio-visual core, concrete and metal, 'a succession of louvred roofs surrounding the southern semi-circle of the three floors'. Diameter-to-height ratio and mullion count are approximate. Built 1970-76 (designed 1969); Agios Dimitrios is a suburb of Athens, not Lycabettus."
  }
 ]

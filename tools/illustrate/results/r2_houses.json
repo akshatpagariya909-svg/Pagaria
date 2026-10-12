@@ -1176,5 +1176,67 @@
    "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0734.082.002"
   ],
   "note": "No free photo on Commons. On Kjønnøya, Bamble; built 1987–90; listed by Riksantikvaren in 1993. Massing follows the written description (40 m wing, four-storey tower, freestanding glazed bridge with diagonal timber structure); window patterns and the wing's roof line are left plain because no source gives them. Original drawings are in the Nasjonalmuseet collection (not free)."
+ },
+ {
+  "id": "breuer-house-ii-new-canaan",
+  "name": "Breuer House II",
+  "by": "Marcel Breuer",
+  "city": "New Canaan",
+  "cc": "US",
+  "year": "1948",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Timber",
+   "Structure as expression"
+  ],
+  "features": "Breuer's own timber house, cantilevered out from a smaller base, with a deck hung on steel cables.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NewCanaanCT MarcelBreuerHouseII.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:NewCanaanCT_MarcelBreuerHouseII.jpg"
+  ],
+  "note": "One free photo at 1024x680 (counts under the 800px rule). Built 1947–48. Facts from general knowledge of the house; the cantilever and cable-hung deck are well published but check before use."
+ },
+ {
+  "id": "noyes-house-new-canaan",
+  "name": "Noyes House",
+  "by": "Eliot Noyes",
+  "city": "New Canaan",
+  "cc": "US",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "Two long fieldstone walls with glass pavilions between them, wrapped around an open central courtyard.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NewCanaanCT NoyesHouse.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:NewCanaanCT_NoyesHouse.jpg"
+  ],
+  "note": "One free photo at 1024x680 (counts under the 800px rule). Eliot Noyes's own house (Noyes House II). Facts from general knowledge; check before use."
  }
 ]
