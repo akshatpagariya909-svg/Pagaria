@@ -35,6 +35,20 @@
   };
   const tileShot = new Map(); // which photo each tile is showing
 
+  /* ---------- a fresh wall on every visit ----------
+     Every reload or new visit deals a new order, like a feed. The buildings that opened the wall last time move to the
+     end, so a reload never lands on the same first screen. Coming back with the browser's back button keeps the
+     same order and scroll position instead. Browser storage can be missing (private windows), so every use is guarded. */
+  const NAV = ((performance.getEntriesByType && performance.getEntriesByType('navigation')[0]) || {}).type;
+  const RETURNING = NAV === 'back_forward';
+  const kept = (where, key) => { try { return window[where].getItem(key); } catch (e) { return null; } };
+  const keep = (where, key, v) => { try { window[where].setItem(key, v); } catch (e) { /* ignore */ } };
+  const newSeed = () => { state.seed = Math.floor(Math.random() * 1e6) + 1; keep('sessionStorage', 'da-seed', state.seed); };
+  if (RETURNING && +kept('sessionStorage', 'da-seed')) state.seed = +kept('sessionStorage', 'da-seed'); else newSeed();
+  let lastTop = new Set();
+  if (!RETURNING) try { lastTop = new Set(JSON.parse(kept('localStorage', 'da-top') || '[]')); } catch (e) { /* ignore */ }
+  window.addEventListener('pagehide', () => keep('sessionStorage', 'da-y', Math.round(window.scrollY)));
+
   /* ---------- layout: equal-width columns, scrolling down only ---------- */
   const MIN_COL = 240, GAP = 16;
 
@@ -158,7 +172,8 @@
     $('more').hidden = f.next >= f.list.length;
   }
   function render(toTop) {
-    const list = shuffled(visible(), rng(state.seed));
+    let list = shuffled(visible(), rng(state.seed));
+    if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();
     state.ncols = C;
     feedState.list = list; feedState.next = 0;
@@ -648,7 +663,7 @@
     if (prev) { $('goBack').title = 'Back to ' + nameOf(prev); $('goBack').setAttribute('aria-label', 'Back to ' + nameOf(prev)); }
   }
   $('goBack').addEventListener('click', () => history.back());
-  $('shuffle').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 1e6) + 1; render(true); });
+  $('shuffle').addEventListener('click', () => { newSeed(); render(true); });
   $('goHome').addEventListener('click', () => {
     if (!sheet.hidden) closeBuilding();
     toggleFilters(false); clearAll();
@@ -665,6 +680,15 @@
   window.DA = { ALL, BOOKS, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
+  if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
+    const y = +kept('sessionStorage', 'da-y') || 0;
+    while (document.documentElement.scrollHeight < y + innerHeight && feedState.next < feedState.list.length) addBatch();
+    window.scrollTo(0, y);
+  } else {
+    try { history.scrollRestoration = 'manual'; } catch (e) { /* ignore */ }
+    window.scrollTo(0, 0);
+    keep('localStorage', 'da-top', JSON.stringify(feedState.list.slice(0, 40).map(keyOf)));
+  }
   const openFromHash = () => {
     if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
