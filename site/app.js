@@ -348,13 +348,6 @@
     $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
       `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
 
-    const reads = booksFor(b);
-    $('bBooks').hidden = !reads.length;
-    $('bBooksRel').innerHTML = relBooksHtml(reads.slice(0, 6));
-    $('bBooksAll').hidden = reads.length <= 6;
-    $('bBooksAll').textContent = `All ${reads.length} →`;
-    $('bBooksAll').dataset.q = reads.some(k => (k.architects || []).includes(firstArchitect(b))) ? firstArchitect(b) : b.movement;
-
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
     $('byArchTitle').textContent = 'More by ' + firstArchitect(b);
@@ -377,14 +370,8 @@
   }
 
   /* ---------- opened book ---------- */
-  // Books that go with a building: the ones that name it, then the ones about its architect, then the ones about its movement, type or ideas.
-  function booksFor(b) {
-    const names = byOf(b);
-    // A book about another architect does not come up just because it shares the movement.
-    const score = k => (k.buildings || []).includes(b.id) ? 3 : (k.architects || []).some(a => names.includes(a)) ? 2
-      : (k.architects || []).length ? 0 : (k.tags || []).some(t => t === b.movement || t === b.type || (b.concepts || []).includes(t)) ? 1 : 0;
-    return BOOKS.map(k => [score(k), k]).filter(([n]) => n).sort((x, y) => y[0] - x[0] || x[1].y - y[1].y).map(([, k]) => k);
-  }
+  // Each book also knows the architects it is about and the buildings it names (architects[], buildings[] in data/books.js),
+  // so the opened building can point to its books later. That page is not built yet.
   const relBooksHtml = list => list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="ph">${coverHtml(k)}</span>${esc(k.title)}<small>${esc(k.by)} · ${esc(k.year)}</small></button>`).join('');
   function portraitByName(name) {
     for (const p of Object.values(ARCH.people)) if (p.thumb && p.name === name) return p;
@@ -449,7 +436,6 @@
     $('linksTitle').textContent = 'Get it';
     $('links').innerHTML = bookLinks(k).map(([kind, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
     $('shopNote').hidden = !SHOP.tag;
-    $('bBooks').hidden = true;
     const built = buildingsOf(k), who = (k.architects || [])[0];
     $('byArch').hidden = !built.length;
     $('byArchTitle').textContent = who ? `On the wall · by ${who}` : 'On the wall';
@@ -545,7 +531,7 @@
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
   $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  ['byArchRel', 'sameTypeRel', 'bBooksRel'].forEach(id => $(id).addEventListener('click', e => {
+  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => {
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));
@@ -567,7 +553,6 @@
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
   $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
   $('sameTypeAll').addEventListener('click', e => { const d = e.currentTarget.dataset; if (d.shelf) showBooks('', d.shelf); else showOnWall('', d.type); });
-  $('bBooksAll').addEventListener('click', e => showBooks(e.currentTarget.dataset.q));
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
     if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
