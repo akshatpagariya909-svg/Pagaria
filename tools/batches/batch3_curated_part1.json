@@ -505,7 +505,7 @@
  },
  {
   "qid": "Q25907014",
-  "keep": 0,
+  "keep": 2,
   "name": "Grand National Assembly of Turkey",
   "by": "Clemens Holzmeister",
   "city": "Ankara",
@@ -514,12 +514,12 @@
   "type": "Civic",
   "movement": "Modernism",
   "concepts": [
-   "Geometry",
-   "Structure as expression",
-   "Monumentality"
+   "Monumentality",
+   "Axis",
+   "Stone"
   ],
-  "features": "",
-  "note": "government building; not sure enough of date and details"
+  "features": "Stone-clad parliament with a tall colonnaded front set on a monumental axis.",
+  "note": "the building (third parliament building), curated in the hand list"
  },
  {
   "qid": "Q15983525",

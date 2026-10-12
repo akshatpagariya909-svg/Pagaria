@@ -1,2 +1,2 @@
 --minutes 300
-Fetch photos for batch 3 (142 new buildings in the thin regions and by missing architects).
+Fetch photos for the 25 approved batch 3 buildings.

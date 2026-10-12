@@ -147850,5 +147850,680 @@ window.BUILDINGS = [
     "file": "File:KAFD駅のホーム（ブルーライン）.jpg"
    }
   ]
+ },
+ {
+  "id": "gipsoteca-canoviana",
+  "n": 1579,
+  "name": "Gipsoteca Canoviana",
+  "by": "Carlo Scarpa",
+  "place": "Possagno, IT",
+  "year": "1957",
+  "y": 1957,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Geometry"
+  ],
+  "study": "White extension where glass corner cubes cut into the walls, washing Canova's plaster casts in light.",
+  "qid": "Q3768553",
+  "commons": "Category:Gipsoteca canoviana",
+  "lead": "File:Sale Gipsoteca canoviana 09.jpg",
+  "coords": [
+   45.85175,
+   11.87491
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "the-smiling-lion",
+  "n": 1580,
+  "name": "The Smiling Lion",
+  "by": "Pancho Guedes",
+  "place": "Maputo, MZ",
+  "year": "1958",
+  "y": 1958,
+  "type": "Housing",
+  "movement": "Expressionism",
+  "region": "Africa",
+  "era": "1945–1970",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Colour"
+  ],
+  "study": "Apartment block with a sculpted concrete front of spiky, tooth-like balconies that grin at the street.",
+  "qid": "Q16501783",
+  "commons": "Category:O Leão Que Ri (Maputo)",
+  "lead": "File:O Leão Que Ri building Maputo.JPG",
+  "coords": [
+   -25.96277,
+   32.59049
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "borujerdi-house",
+  "n": 1581,
+  "name": "Borujerdi House",
+  "by": "Ustad Ali Maryam",
+  "place": "Kashan, IR",
+  "year": "1857",
+  "y": 1857,
+  "type": "House",
+  "movement": "Historic precedent",
+  "region": "Middle East",
+  "era": "Before 1900",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "study": "Courtyard house whose domed reception hall is cooled by tall windcatchers pulling air into the rooms.",
+  "qid": "Q3196070",
+  "commons": "Category:Borujerdi House",
+  "lead": "File:Borujerdis House (6224057696).jpg",
+  "coords": [
+   33.97458,
+   51.44064
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "takiyya-al-sulaymaniyya",
+  "n": 1582,
+  "name": "Takiyya al-Sulaymaniyya",
+  "by": "Mimar Sinan",
+  "place": "Damascus, SY",
+  "year": "1559",
+  "y": 1559,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Axis"
+  ],
+  "study": "A mosque with two slim minarets faces a courtyard ringed by domed cells, in striped black and white stone.",
+  "qid": "Q715273",
+  "commons": "Category:Sulaymaniyya Takiyya",
+  "lead": "File:دمشق التكية السليمانية.jpg",
+  "coords": [
+   33.51231,
+   36.29134
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "perot-museum-of-nature-and-science",
+  "n": 1583,
+  "name": "Perot Museum of Nature and Science",
+  "by": "Morphosis, Thom Mayne",
+  "place": "Dallas, US",
+  "year": "2012",
+  "y": 2012,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Circulation"
+  ],
+  "study": "Textured concrete cube on a landscaped plinth, with a glass escalator tube projecting from the facade.",
+  "qid": "Q7169478",
+  "commons": "Category:Perot Museum of Nature and Science",
+  "lead": "File:Perot Museum of Nature and Science 03.jpg",
+  "coords": [
+   32.78704,
+   -96.80601
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "town-house-kingston-university",
+  "n": 1584,
+  "name": "Town House, Kingston University",
+  "by": "Grafton Architects",
+  "place": "Kingston upon Thames, GB",
+  "year": "2020",
+  "y": 2020,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Section",
+   "Circulation",
+   "Public space"
+  ],
+  "study": "Stacked terraces and open stairs climbing behind a deep concrete colonnade along the street.",
+  "qid": "Q2503809",
+  "commons": "Category:Kingston University",
+  "lead": "File:Knights Park Campus.jpg",
+  "coords": [
+   51.4035,
+   -0.3039
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-museum-architecture",
+  "n": 1585,
+  "name": "National Museum – Architecture",
+  "by": "Sverre Fehn",
+  "place": "Oslo, NO",
+  "year": "2008",
+  "y": 2008,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Steel & glass",
+   "Exposed concrete",
+   "Light from above"
+  ],
+  "study": "Square glass-walled pavilion under a heavy concrete roof, set beside a neoclassical bank building.",
+  "qid": "Q1132918",
+  "commons": "Category:Nasjonalmuseet for kunst, arkitektur og design",
+  "lead": "File:Nasjonalgalleriet oslo.jpg",
+  "coords": [
+   59.91166666666667,
+   10.729166666666666
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "l-d-institute-of-indology",
+  "n": 1586,
+  "name": "L. D. Institute of Indology",
+  "by": "Balkrishna Doshi",
+  "place": "Ahmedabad, IN",
+  "year": "1962",
+  "y": 1962,
+  "type": "Museum",
+  "movement": "Modernism",
+  "region": "South Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Climate response"
+  ],
+  "study": "Concrete pavilion with a cantilevered upper floor and deep shaded verandahs guarding old manuscripts.",
+  "qid": "Q6480225",
+  "commons": "Category:Lalbhai Dalpatbhai Museum",
+  "lead": null,
+  "coords": [
+   23.2,
+   72.33
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "national-crafts-museum",
+  "n": 1587,
+  "name": "National Crafts Museum",
+  "by": "Charles Correa",
+  "place": "New Delhi, IN",
+  "year": "1991",
+  "y": 1991,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "region": "South Asia",
+  "era": "1990–2005",
+  "concepts": [
+   "Cluster",
+   "Courtyard",
+   "Promenade"
+  ],
+  "study": "Village-like cluster of low pavilions along a meandering open-air street of courtyards.",
+  "qid": "Q3630755",
+  "commons": "Category:National Handicrafts and Handlooms Museum",
+  "lead": "File:शिल्प कला कौशल कार्यक्रम का क्षेत्र.JPG",
+  "coords": [
+   28.613551,
+   77.24232
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kala-academy",
+  "n": 1588,
+  "name": "Kala Academy",
+  "by": "Charles Correa",
+  "place": "Panaji, IN",
+  "year": "1983",
+  "y": 1983,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "region": "South Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Promenade",
+   "Climate response",
+   "Public space"
+  ],
+  "study": "Pergola-shaded walkways and an open-air amphitheatre beside the Mandovi river.",
+  "qid": "Q16851397",
+  "commons": "Category:Kala Academy",
+  "lead": null,
+  "coords": [
+   15.4942839,
+   73.8176938
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "open-hand-monument",
+  "n": 1589,
+  "name": "Open Hand Monument",
+  "by": "Le Corbusier",
+  "place": "Chandigarh, IN",
+  "year": "1985",
+  "y": 1985,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "region": "South Asia",
+  "era": "1970–1990",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "study": "Sheet-metal hand that turns in the wind above a sunken amphitheatre, the Trench of Consideration.",
+  "qid": "Q16854086",
+  "commons": "Category:Open Hand Monument, Chandigarh",
+  "lead": "File:Open Hand Monument in Chandigarh.jpg",
+  "coords": [
+   30.759,
+   76.8074
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "shaheed-minar-dhaka",
+  "n": 1590,
+  "name": "Shaheed Minar, Dhaka",
+  "by": "Hamidur Rahman, Novera Ahmed",
+  "place": "Dhaka, BD",
+  "year": "1963",
+  "y": 1963,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "region": "South Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Geometry"
+  ],
+  "study": "Slender white frames on a stepped platform, the central one bowed like a mother over her children.",
+  "qid": "Q2425991",
+  "commons": "Category:Shaheed Minar",
+  "lead": "File:Shaheed Minar.JPG",
+  "coords": [
+   23.72217,
+   90.39499
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "lasalle-college-of-the-arts",
+  "n": 1591,
+  "name": "LASALLE College of the Arts",
+  "by": "RSP Architects Planners & Engineers",
+  "place": "Singapore, SG",
+  "year": "2007",
+  "y": 2007,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "Southeast Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Void",
+   "Facade as skin",
+   "Public space"
+  ],
+  "study": "Dark-clad blocks split around a central void whose inner walls are faced in glass.",
+  "qid": "Q6457112",
+  "commons": "Category:LASALLE College of the Arts",
+  "lead": "File:City Campus of LASALLE College of the Arts, Singapore - 20080620.jpg",
+  "coords": [
+   1.303068,
+   103.851852
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "jim-thompson-house",
+  "n": 1592,
+  "name": "Jim Thompson House",
+  "by": "Jim Thompson",
+  "place": "Bangkok, TH",
+  "year": "1959",
+  "y": 1959,
+  "type": "House",
+  "movement": "Regionalism",
+  "region": "Southeast Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Planting"
+  ],
+  "study": "Old teak houses moved and joined on stilts beside a canal, in a dense tropical garden.",
+  "qid": "Q2916351",
+  "commons": "Category:Jim Thompson House",
+  "lead": "File:Main House of Jim Thompson photo Don Ramey Logan.jpg",
+  "coords": [
+   13.74916667,
+   100.52833333
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "independence-monument-cambodia",
+  "n": 1593,
+  "name": "Independence Monument (Cambodia)",
+  "by": "Vann Molyvann",
+  "place": "Phnom Penh, KH",
+  "year": "1962",
+  "y": 1962,
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "region": "Southeast Asia",
+  "era": "1945–1970",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Axis"
+  ],
+  "study": "Lotus-shaped tower in the form of an Angkorian temple spire, layered with naga heads.",
+  "qid": "Q1108673",
+  "commons": "Category:Independence Monument (Phnom Penh)",
+  "lead": "File:100 riel 2001 obverse.jpg",
+  "coords": [
+   11.5564,
+   104.9281
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "ananda-temple",
+  "n": 1594,
+  "name": "Ananda Temple",
+  "by": "Bagan builders",
+  "place": "Bagan, MM",
+  "year": "1105",
+  "y": 1105,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Brick"
+  ],
+  "study": "Cross-plan brick temple; high hidden openings light four standing Buddhas from above.",
+  "qid": "Q485727",
+  "commons": "Category:Ananda Temple",
+  "lead": "File:Bagan, Myanmar, Ananda Temple.jpg",
+  "coords": [
+   21.170903,
+   94.867713
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kempegowda-international-airport-terminal-2",
+  "n": 1595,
+  "name": "Kempegowda International Airport Terminal 2",
+  "by": "Skidmore, Owings & Merrill",
+  "place": "Bengaluru, IN",
+  "year": "2022",
+  "y": 2022,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "region": "South Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Planting",
+   "Timber",
+   "Landscape"
+  ],
+  "study": "A terminal set in gardens, with bamboo-clad ceilings and hanging plants through the halls.",
+  "qid": "Q503364",
+  "commons": "Category:Kempegowda International Airport",
+  "lead": "File:Bengaluru-airport.jpg",
+  "coords": [
+   13.198888888889,
+   77.705555555556
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "kigali-convention-centre",
+  "n": 1596,
+  "name": "Kigali Convention Centre",
+  "by": "Roland Dieterle",
+  "place": "Kigali, RW",
+  "year": "2016",
+  "y": 2016,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "region": "Africa",
+  "era": "2005–today",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Colour"
+  ],
+  "study": "Spiral-patterned dome inspired by the roof of the royal palace at Nyanza, lit in colour at night.",
+  "qid": "Q25043410",
+  "commons": "Category:Kigali Convention Centre",
+  "lead": "File:An aerial of Kigali Convention Center on June 19, 2019. Photo by Emmanuel Kwizera.jpg",
+  "coords": [
+   -1.95472222,
+   30.09388889
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "basilica-of-sainte-anne-du-congo",
+  "n": 1597,
+  "name": "Basilica of Sainte-Anne du Congo",
+  "by": "Roger Erell",
+  "place": "Brazzaville, CG",
+  "year": "1949",
+  "y": 1949,
+  "type": "Religious",
+  "movement": "Art Deco",
+  "region": "Europe",
+  "era": "1945–1970",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Structure as expression"
+  ],
+  "study": "Tall pointed concrete arches like spearheads, under a roof of green glazed tiles.",
+  "qid": "Q2887058",
+  "commons": "Category:Basilique Sainte-Anne-du-Congo de Brazzaville",
+  "lead": "File:WPWPCG 08.jpg",
+  "coords": [
+   -4.26846,
+   15.28451
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "tomb-of-nader-shah",
+  "n": 1598,
+  "name": "Tomb of Nader Shah",
+  "by": "Houshang Seyhoun",
+  "place": "Mashhad, IR",
+  "year": "1959",
+  "y": 1959,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "region": "Middle East",
+  "era": "1945–1970",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "study": "Rough granite mass under a sharp angular canopy, with bronze riders of the shah's army.",
+  "qid": "Q5957084",
+  "commons": "Category:Nader Shah Mausoleum",
+  "lead": "File:Tomb of Nader Shah.JPG",
+  "coords": [
+   36.29486,
+   59.61044
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "king-fahd-national-library",
+  "n": 1599,
+  "name": "King Fahd National Library",
+  "by": "Gerber Architekten",
+  "place": "Riyadh, SA",
+  "year": "2013",
+  "y": 2013,
+  "type": "Library",
+  "movement": "Contemporary",
+  "region": "Middle East",
+  "era": "2005–today",
+  "concepts": [
+   "Tensile structure",
+   "Facade as skin",
+   "Adaptive reuse"
+  ],
+  "study": "Old library wrapped in a cube of white tensile fabric diamonds held by steel cables.",
+  "qid": "Q620803",
+  "commons": "Category:King Fahd National Library",
+  "lead": null,
+  "coords": [
+   24.68635457647564,
+   46.6833142492403
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "el-colegio-de-mexico",
+  "n": 1600,
+  "name": "El Colegio de México",
+  "by": "Teodoro González de León, Abraham Zabludovsky",
+  "place": "Mexico City, MX",
+  "year": "1976",
+  "y": 1976,
+  "type": "Education",
+  "movement": "Brutalism",
+  "region": "Americas",
+  "era": "1970–1990",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "study": "Bush-hammered concrete blocks with marble chips stepping around a large terraced courtyard.",
+  "qid": "Q1324001",
+  "commons": "Category:El Colegio de México",
+  "lead": "File:El Colegio de Mexico 2.JPG",
+  "coords": [
+   19.303888888889,
+   -99.207777777778
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "instituto-moreira-salles-paulista",
+  "n": 1601,
+  "name": "Instituto Moreira Salles Paulista",
+  "by": "Andrade Morettin Arquitetos",
+  "place": "São Paulo, BR",
+  "year": "2017",
+  "y": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "2005–today",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Section"
+  ],
+  "study": "Translucent glass box with the street lifted into an open public level halfway up.",
+  "qid": "Q56695385",
+  "commons": "Category:IMS Paulista",
+  "lead": "File:Cerimônia de inauguração do novo Centro Cultural IMS Paulista. (36720548633).jpg",
+  "coords": [
+   -23.5560252,
+   -46.6620063
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "alisher-navoi-opera-and-ballet-theatre",
+  "n": 1602,
+  "name": "Alisher Navoi Opera and Ballet Theatre",
+  "by": "Alexey Shchusev",
+  "place": "Tashkent, UZ",
+  "year": "1947",
+  "y": 1947,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "region": "Middle East",
+  "era": "1945–1970",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Earth & local material"
+  ],
+  "study": "A Soviet classical opera house whose side foyers were each carved in ganch by craftsmen of a different region.",
+  "qid": "Q3354568",
+  "commons": "Category:Alisher Navoi Opera and Ballet Theatre",
+  "lead": "File:Theatre Alisher Navoi.JPG",
+  "coords": [
+   41.30917,
+   69.27167
+  ],
+  "hotlink": true
+ },
+ {
+  "id": "grand-national-assembly-of-turkey",
+  "n": 1603,
+  "name": "Grand National Assembly of Turkey",
+  "by": "Clemens Holzmeister",
+  "place": "Ankara, TR",
+  "year": "1961",
+  "y": 1961,
+  "type": "Civic",
+  "movement": "Modernism",
+  "region": "Middle East",
+  "era": "1945–1970",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "study": "Stone-clad parliament with a tall colonnaded front set on a monumental axis.",
+  "qid": "Q25907014",
+  "commons": "Category:Third building of the Grand National Assembly of Turkey",
+  "lead": "File:Süleyman Demirel Funeral 1.jpg",
+  "coords": [
+   39.91167,
+   32.85111
+  ],
+  "hotlink": true
  }
 ];
