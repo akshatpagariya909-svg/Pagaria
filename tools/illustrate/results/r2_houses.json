@@ -1238,5 +1238,225 @@
    "https://commons.wikimedia.org/wiki/File:NewCanaanCT_NoyesHouse.jpg"
   ],
   "note": "One free photo at 1024x680 (counts under the 800px rule). Eliot Noyes's own house (Noyes House II). Facts from general knowledge; check before use."
+ },
+ {
+  "id": "stretto-house",
+  "name": "Stretto House",
+  "by": "Steven Holl",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1991",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Section",
+   "Light & shadow"
+  ],
+  "features": "Four heavy concrete-block 'spatial dams' with light curved metal roofs flowing between them, like water over the ponds' dams.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.stevenholl.com/project/stretto-house",
+   "https://www.stevenholl.com/press-release/the-stretto-house-honored-with-the-25-year-award/",
+   "https://tsbyrne.com/residential/stretto-house"
+  ],
+  "note": "No free photo on Commons. Sources confirm four sections, concrete-block dams and curved lead-coated copper roofs by three ponds, but not the profile and stepping of the roofs in elevation, so I did not draw it. Dates given as 1989–91 (Holl) or 1992 (monograph); inspired by Bartók's Music for Strings, Percussion and Celesta."
+ },
+ {
+  "id": "simpson-lee-house",
+  "name": "Simpson-Lee House",
+  "by": "Glenn Murcutt",
+  "city": "Mount Wilson",
+  "cc": "AU",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "Single-storey steel and glass pavilions on a bush track, with angled roofs that collect rainwater and a pool to the north.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.ozetecture.org/simpsonlee-house",
+   "https://architectureau.com/articles/simpson-lee-house/",
+   "https://www.archiweb.cz/en/b/simpson-lee-house"
+  ],
+  "note": "No free photo of this house on Commons. Careful: 'Simpson-Lee House I' on Commons (File:Simpson Lee House.jpg and the NSW heritage photos) is a different house for the same clients, by Arthur Baldwinson (1958–62). The roof angle, pavilion sizes and bridge position aren't described closely enough to draw. On the NSW State Heritage Register."
+ },
+ {
+  "id": "ball-eastaway-house",
+  "name": "Ball-Eastaway House",
+  "by": "Glenn Murcutt",
+  "city": "Glenorie",
+  "cc": "AU",
+  "year": "1983",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Steel & glass"
+  ],
+  "features": "Corrugated-iron pavilion with a gently curved roof, raised on slender steel columns set into a sandstone ledge in the bush.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architectureau.com/articles/Ball-Eastaway-House-by-Glenn-Murcutt/",
+   "https://thisispaper.com/mag/ball-eastaway-house-glenn-murcutt",
+   "https://www.environment.nsw.gov.au/news/glenories-ball-eastaway-house-and-setting-added-state-heritage-register"
+  ],
+  "note": "No free photo on Commons. Sources confirm the raised pavilion on steel columns over sandstone and a gently curved roof, but not which way the roof curves or how the end walls and decks look, so I did not draw it. Wilkinson Award 1984; on the NSW State Heritage Register."
+ },
+ {
+  "id": "casa-beires",
+  "name": "Casa Beires",
+  "by": "Álvaro Siza",
+  "city": "Póvoa de Varzim",
+  "cc": "PT",
+  "year": "1976",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Nicknamed the 'bomb house': a white box broken open by folded glass walls around a small courtyard.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://arquitecturaviva.com/assets/uploads/files/siza_voluntad.pdf",
+   "https://www.area-arch.it/en/?p=46417",
+   "https://www.serralves.pt/en/ciclo-serralves/0507-siza-beyond-povoa/"
+  ],
+  "note": "No free photo on Commons. Sources describe a prism broken by glassy folds around a courtyard, but not the geometry of the folds closely enough to draw. Built 1973–76 (Wikipedia's list gives 1964, probably the commission)."
+ },
+ {
+  "id": "house-with-one-wall",
+  "name": "House with One Wall",
+  "by": "Christian Kerez",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2007",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Steel & glass"
+  ],
+  "features": "Two homes split by one folded concrete wall that carries all the floors; every other wall is glass.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2015/03/30/house-with-one-wall-christian-kerez-zurich-building-pair-houses-concrete-partition/",
+   "https://www.gooood.cn/en/house-with-one-wall.htm"
+  ],
+  "note": "No free photo on Commons. Elongated hexagonal plan, fully glazed on all six sides, in Witikon; the wall's course changes on every floor, which I could not establish well enough to draw."
+ },
+ {
+  "id": "mobius-house",
+  "name": "Möbius House",
+  "by": "UNStudio (Ben van Berkel)",
+  "city": "Het Gooi",
+  "cc": "NL",
+  "year": "1998",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Low, elongated house whose rooms follow a Möbius loop in plan and section; concrete and glass swap roles along it.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architecturelab.net/ad-classics-mobius-house-unstudio",
+   "https://www.archdaily.com/1012111/ad-classics-mobius-house-unstudio"
+  ],
+  "note": "No free photo on Commons. The interlocking loop of folded concrete and glass is hard to show in one elevation and sources don't give the faces in detail; not drawn."
+ },
+ {
+  "id": "number-11-colombo",
+  "name": "Number 11 (Bawa's house)",
+  "by": "Geoffrey Bawa",
+  "city": "Colombo",
+  "cc": "LK",
+  "year": "1998",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "features": "Four small bungalows on 33rd Lane joined over 40 years into one house of courtyards, with a tower of roof terraces.",
+  "status": "unsure",
+  "commons_category": "Category:Geoffrey Bawa",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/3008",
+   "https://transindus.co.uk/highlight/the-geoffrey-bawa-trust/"
+  ],
+  "note": "Inward-looking house with almost no street face. Commons has File:Eingangsbereich-Wohnhaus Geoffrey Bawa-Colombo.jpg (2000x2667, CC BY-SA 4.0, 'Entrance area at the Geoffrey Bawa Trust'); it may show the entrance rather than the outside, so check it. Year is approximate: Bawa converted it from 1958 until the late 1990s; please confirm before use."
+ },
+ {
+  "id": "ena-de-silva-house",
+  "name": "Ena de Silva House",
+  "by": "Geoffrey Bawa",
+  "city": "Colombo",
+  "cc": "LK",
+  "year": "1962",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Earth & local material",
+   "Climate response"
+  ],
+  "features": "Rooms around an inward-looking courtyard under red clay-tile roofs on satinwood columns; first fusion of Sinhalese house and modern plan.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/3008",
+   "https://silverkris.singaporeair.com/inspiration/arts-culture/design-architecture/geoffrey-bawas-buildings-sri-lanka"
+  ],
+  "note": "No free photo found. Built 1960–62 in Colombo; dismantled and rebuilt at Lunuganga, completed in 2016 (photos of the rebuilt house may appear under Category:Lunuganga Estate; I didn't find one named for it). Courtyard plan is hard to show in one elevation; not drawn."
  }
 ]
