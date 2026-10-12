@@ -307,6 +307,21 @@
   "note": "No photo on Commons. Shows only one of the two offset volumes (an elevation cannot separate them). Panel count and length-to-height ratio are approximate; roofs are low standing-seam aluminium, drawn as a thin edge."
  },
  {
+  "id": "park-vijversburg-visitor-centre",
+  "name": "Park Vijversburg Visitor Centre",
+  "status": "unsure",
+  "commons_category": "Category:Park Vijversburg",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2017/08/16/studio-maks-marieke-kums-junya-ishigami-associates-park-vijversburg-visitor-centre-netherlands/",
+   "https://www.platformarchitecture.it/park-vijversburg-by-junya-ishigami-associates-studio-maks/?lang=en",
+   "https://www.metalocus.es/en/news/opening-park-groot-vijversburg-maks-and-junya-ishigami"
+  ],
+  "note": "No photo of the pavilion on Commons (Category:Park Vijversburg holds only park art and historic views). The building is co-designed with Studio Maks (Marieke Kums). Its defining idea is in plan: three curving glass corridors radiating from a sunken triangular hall, the glass carrying a thin gravel roof. A trial elevation read as a fence of columns, which is misleading, and the wing angles needed for an axonometric are not published, so not drawn."
+ },
+ {
   "id": "parliament-library-building",
   "name": "Parliament Library Building",
   "status": "unsure",
