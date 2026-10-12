@@ -224,7 +224,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'data/architects.js', 'data/world.js', 'app.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'data/architects.js', 'data/filters.js', 'data/world.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
 

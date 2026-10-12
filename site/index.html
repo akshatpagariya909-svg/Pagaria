@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=250f9eae">
+<link rel="stylesheet" href="styles.css?v=f4b8c105">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -41,12 +41,7 @@
 </header>
 <nav class="ideas" id="ideas" aria-label="Browse by idea"></nav>
 
-<section class="filters" id="filters" hidden>
-  <div class="filters-inner" id="filterGroups"></div>
-  <div class="filters-foot">
-    <button type="button" class="btn ghost" id="clearFilters">Clear all</button>
-  </div>
-</section>
+<div class="filters" id="filters" hidden><div class="fp" id="fp" role="dialog" aria-modal="true" aria-label="Filters"></div></div>
 
 <main class="feed" id="feed" aria-label="Buildings">
   <div class="cols" id="cols"></div>
@@ -106,7 +101,9 @@
 <script src="data/buildings.js?v=1bfca465"></script>
 <script src="data/links.js?v=f72157c9"></script>
 <script src="data/architects.js?v=046f0729"></script>
+<script src="data/filters.js?v=9e9876ee"></script>
 <script src="data/world.js?v=61fa5662"></script>
-<script src="app.js?v=5364b475"></script>
+<script src="app.js?v=8507a5bf"></script>
+<script src="filter.js?v=8d8c59f4"></script>
 </body>
 </html>

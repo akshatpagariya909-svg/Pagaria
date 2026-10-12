@@ -6,14 +6,16 @@
   const LINKS = window.LINKS || {};
   const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
   const TOTAL = ALL.length;
-  const GROUPS = [
-    { key: 'concepts', title: 'Idea', multi: true },
-    { key: 'type', title: 'Typology' },
-    { key: 'movement', title: 'Movement' },
-    { key: 'region', title: 'Region' },
-    { key: 'era', title: 'Era' }
-  ];
-  const ERA_ORDER = ['Before 1900', '1900–1945', '1945–1970', '1970–1990', '1990–2005', '2005–today'];
+  // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
+  const GROUPS = [{ key: 'concepts', all: true }, { key: 'type' }, { key: 'movement' }, { key: 'region' }, { key: 'country' }, { key: 'arch' }];
+  // Fields the filter panel uses: country code, first credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
+  const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
+  ALL.forEach(b => {
+    const c = b.place.split(', ').pop();
+    b.country = CODE_FIX[c] || c;
+    b.arch = b.by.split(',')[0].trim();
+    b.decade = b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1);
+  });
 
   const $ = id => document.getElementById(id);
   const cols = $('cols'), sheet = $('sheet'), card = $('card');
@@ -22,7 +24,7 @@
 
   const state = {
     q: '', seed: 11, ncols: 0,
-    filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])),
+    filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
     open: null, shot: 0, seen: new Set(), lastTile: null
   };
   const tileShot = new Map(); // which photo each tile is showing
@@ -47,11 +49,16 @@
 
   /* ---------- filtering ---------- */
   const values = (b, key) => (Array.isArray(b[key]) ? b[key] : [b[key]]);
-  function matches(b) {
+  // skip: leave one group out, so the filter panel can count what each of its options would add
+  function matches(b, skip) {
     for (const g of GROUPS) {
       const set = state.filters[g.key];
-      if (set.size && !values(b, g.key).some(v => set.has(v))) return false;
+      if (g.key === skip || !set.size) continue;
+      const vals = values(b, g.key);
+      if (g.all ? ![...set].every(v => vals.includes(v)) : !vals.some(v => set.has(v))) return false;
     }
+    const d = state.decades;
+    if (skip !== 'decades' && d && (b.decade < d[0] || b.decade > d[1])) return false;
     if (!state.q) return true;
     const hay = fold([b.name, b.by, b.place, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
@@ -125,7 +132,7 @@
     addBatch();
     $('empty').hidden = list.length > 0;
     $('count').textContent = list.length === TOTAL ? `${TOTAL.toLocaleString('en')} buildings` : `${list.length.toLocaleString('en')} of ${TOTAL.toLocaleString('en')}`;
-    const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0);
+    const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? '· ' + nf : '';
     renderIdeas();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -159,8 +166,7 @@
   /* ---------- who built it, and where ---------- */
   const ARCH = window.ARCHITECTS || { people: {}, buildings: {} };
   const WORLD = window.WORLD || null;
-  const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
-  const countryOf = b => { const c = b.place.split(', ').pop(); return CODE_FIX[c] || c; };
+  const countryOf = b => b.country;
   const countryName = code => (WORLD && WORLD.names[code]) || code;
   function initials(name) {
     const words = name.split(/\s+/).filter(w => /\p{L}/u.test(w));
@@ -321,20 +327,20 @@
   ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => { const t = e.target.closest('button[data-id]'); if (t) openBuilding(t.dataset.id); }));
   // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
   function showOnWall(arch, type) {
-    GROUPS.forEach(g => state.filters[g.key].clear());
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     if (type) state.filters.type.add(type);
     $('q').value = arch || ''; state.q = fold(arch || '');
-    closeBuilding(); buildFilters(); render(true);
+    closeBuilding(); refreshFilters(); render(true);
   }
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
   $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
   $('sameTypeAll').addEventListener('click', e => showOnWall('', e.currentTarget.dataset.type));
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
-    GROUPS.forEach(g => state.filters[g.key].clear());
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     state.filters[t.dataset.g].add(t.dataset.v);
     state.q = ''; $('q').value = '';
-    closeBuilding(); buildFilters(); render(true);
+    closeBuilding(); refreshFilters(); render(true);
   });
 
   /* ---------- search, ideas bar, filters, dock ---------- */
@@ -362,39 +368,24 @@
     const only = set.size === 1 && set.has(v);
     set.clear();
     if (!only) set.add(v);
-    buildFilters(); render(true);
+    refreshFilters(); render(true);
   });
 
-  function buildFilters() {
-    $('filterGroups').innerHTML = GROUPS.map(g => {
-      const c = counts(g.key);
-      let vals = [...c.keys()];
-      if (g.key === 'era') vals = ERA_ORDER.filter(v => vals.includes(v));
-      else if (g.key === 'concepts') vals.sort((a, b) => c.get(b) - c.get(a) || a.localeCompare(b));
-      else vals.sort();
-      const chips = vals.map(v => `<button type="button" class="chip" aria-pressed="${state.filters[g.key].has(v)}" data-g="${g.key}" data-v="${esc(v)}">${esc(v)} <span class="n">${c.get(v)}</span></button>`).join('');
-      return `<div class="fgroup"><h3>${g.title}</h3><div class="fchips">${chips}</div></div>`;
-    }).join('');
-  }
-  $('filterGroups').addEventListener('click', e => {
-    const t = e.target.closest('.chip'); if (!t) return;
-    const set = state.filters[t.dataset.g];
-    set.has(t.dataset.v) ? set.delete(t.dataset.v) : set.add(t.dataset.v);
-    t.setAttribute('aria-pressed', set.has(t.dataset.v));
-    render(true);
-  });
+  // The filter panel itself lives in filter.js; it reads and changes state.filters and state.decades.
+  const refreshFilters = () => { if (window.DAFilter) window.DAFilter.refresh(); };
   function toggleFilters(force) {
     const open = force == null ? $('filters').hidden : force;
     $('filters').hidden = !open;
     $('filterBtn').setAttribute('aria-expanded', open);
+    document.body.classList.toggle('filtering', open);
+    if (open) refreshFilters();
   }
   $('filterBtn').addEventListener('click', () => toggleFilters());
   function clearAll() {
-    GROUPS.forEach(g => state.filters[g.key].clear());
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     state.q = ''; $('q').value = '';
-    buildFilters(); render(true);
+    refreshFilters(); render(true);
   }
-  $('clearFilters').addEventListener('click', clearAll);
   $('emptyClear').addEventListener('click', clearAll);
   $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); clearAll(); });
 
@@ -407,7 +398,8 @@
   });
 
   /* ---------- start ---------- */
-  buildFilters();
+  window.DA = { ALL, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+    apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   const openFromHash = () => {
     const id = decodeURIComponent(location.hash.slice(1));
