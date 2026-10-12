@@ -1,0 +1,312 @@
+[
+ {
+  "id": "st-peter-s-church",
+  "name": "St. Peter's Church",
+  "status": "photo",
+  "commons_category": "Category:Sankt Petri kyrka, Klippan",
+  "photos": [
+   {
+    "file": "File:Lewerentz St Petri kyrka Klikppan.JPG",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Sigurd lewerentz, klippan august 2005 (528310993).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:(01) St Petri kyrka.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Brutalisme vs. nyrokoko Skt. Petri Kirke Klippan.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:St Petri kyrka entre.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Several free exterior photos; no drawing needed."
+ },
+ {
+  "id": "takasugi-an",
+  "name": "Takasugi-an",
+  "status": "photo",
+  "commons_category": "Category:Takasugi-an",
+  "photos": [
+   {
+    "file": "File:高過庵 (51796941356).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:高過庵 (51798220657).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:高過庵 (51795993042).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:高過庵 (51799292608).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Flickr photos from July 2021, 5504x8256. File:Takasugi-an.JPG is too small (640px)."
+ },
+ {
+  "id": "tour-bois-le-pretre-transformation",
+  "name": "Tour Bois-le-Prêtre Transformation",
+  "status": null,
+  "commons_category": "Category:Tour Bois-le-Prêtre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Commons has only two files: one blurs the tower (French freedom-of-panorama rules), the other is a street sign in front of the facade. Neither works as a wall photo."
+ },
+ {
+  "id": "uc-innovation-center-anacleto-angelini",
+  "name": "UC Innovation Center Anacleto Angelini",
+  "status": "photo",
+  "commons_category": "Category:Centro de Innovación UC Anacleto Angelini",
+  "photos": [
+   {
+    "file": "File:Centro de Innovación UC Anacleto Angelini, Campus San Joaquín PUC, Macul, Santiago 20241108.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edificio Anacleto Angelini.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "vidhan-bhavan",
+  "name": "Vidhan Bhavan",
+  "status": "photo",
+  "commons_category": "Category:Vidhan Bhavan, Bhopal",
+  "photos": [
+   {
+    "file": "File:Madhyapradesh Legislative Assembly.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Only one photo (2998x1999)."
+ },
+ {
+  "id": "water-temple-honpuku-ji",
+  "name": "Water Temple (Honpuku-ji)",
+  "status": "photo",
+  "commons_category": "Category:Honpukuji (Awaji)",
+  "photos": [
+   {
+    "file": "File:7P4056169.jpg",
+    "license": "CC BY-SA 2.5"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:淡路真言宗本福寺水御堂模型.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": "The one exterior photo of the Water Hall is 960x1280 (just meets 1200px long side). Category also holds about 30 photos of Ando study drawings/models (真言宗本福寺水御堂安藤忠雄建築研究図*.JPG), licences not checked one by one."
+ },
+ {
+  "id": "woodland-cemetery",
+  "name": "Woodland Cemetery",
+  "status": "photo",
+  "commons_category": "Category:Skogskyrkogården",
+  "photos": [
+   {
+    "file": "File:Skogskyrkogården (Unsplash).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Skogskyrkogarden PathwayHolyCross.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Skogskyrkogarden HolyCrossChapel2.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:2019-08-12 Skogskyrkogården, Stockholm 01.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Skogskrematoriet Ritning Fasader och sektioner. ArkDes ARKM.1962-101-1163.jpg",
+    "kind": "Elevation",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": "Large category with many free photos, plus ArkDes drawings of the crematorium."
+ },
+ {
+  "id": "yamanashi-press-and-broadcasting-center",
+  "name": "Yamanashi Press and Broadcasting Center",
+  "status": "photo",
+  "commons_category": "Category:Yamanashi Broadcasting and Press Centre",
+  "photos": [
+   {
+    "file": "File:Yamanashi Broadcasting and Press Centre.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Yamanashi Broadcasting and Press Centre 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:山梨文化会館 - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "yusuhara-wooden-bridge-museum",
+  "name": "Yusuhara Wooden Bridge Museum",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://kkaa.co.jp/en/project/yusuhara-wooden-bridge-museum/",
+   "https://www.designboom.com/architecture/kengo-kuma-associates-yusuhara-wooden-bridge-museum/",
+   "https://arquitecturaviva.com/works/museo-yusuhara-wooden-bridge-9"
+  ],
+  "note": "No free photo: the only Kuma photo from Yusuhara on Commons (File:Kumayusuhara.jpg) shows the Kumo-no-ue Hotel, not this museum. Sources confirm the central pier and stacked cedar brackets, but not the shape of the gallery and its 'inverted' roof on top or how the two ends (one 10 m lower) meet the ground, so it is not drawn. The architect sites could not be opened from here."
+ },
+ {
+  "id": "zarzuela-hippodrome",
+  "name": "Zarzuela Hippodrome",
+  "status": "photo",
+  "commons_category": "Category:Hipódromo de la Zarzuela",
+  "photos": [
+   {
+    "file": "File:Hipódromo de la Zarzuela-1.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hipódromo de la Zarzuela-2.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "23-de-enero-superblocks",
+  "name": "23 de Enero Superblocks",
+  "status": "photo",
+  "commons_category": "Category:23 de Enero",
+  "photos": [
+   {
+    "file": "File:Parte de Los Bloques del 23 de Enero.JPG",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:23 de enero Miraflores.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Category is the parish (23 de Enero), not the blocks alone; these two files show the superblocks."
+ },
+ {
+  "id": "al-wasl-plaza",
+  "name": "Al Wasl Plaza",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Evening Two at the Expo (51733837998).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:PTFE mesh.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No Commons category. The Flickr photo (5184x2912) shows the trellis dome over the plaza. The UAE has no freedom of panorama for buildings, so these files could be challenged on Commons later."
+ },
+ {
+  "id": "art-biotop-water-garden",
+  "name": "Art Biotop Water Garden",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:190725 Art Biotop Nasu Tochigi pref Japan01bs20.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:190725 Art Biotop Nasu Tochigi pref Japan05s3.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:190725 Art Biotop Nasu Tochigi pref Japan08s3.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:190725 Art Biotop Nasu Tochigi pref Japan10s3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "A series of 15 photos of the water garden (190725 Art Biotop Nasu ...)."
+ },
+ {
+  "id": "aero-habitat",
+  "name": "Aéro-Habitat",
+  "status": "photo",
+  "commons_category": "Category:Aerohabitat",
+  "photos": [
+   {
+    "file": "File:Alger View Oct-2010 IMG 0549.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Alger View Oct-2010 IMG 0553.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Two photos of block no. 2 on Boulevard Krim Belkacem (2010), 3648x2736; trees partly cover the left of IMG 0549."
+ }
+]

@@ -1,0 +1,169 @@
+[
+ {
+  "id": "tod-s-omotesando-building",
+  "name": "Tod's Omotesando Building",
+  "status": "photo",
+  "commons_category": "Category:Tod's Omotesando Building",
+  "photos": [
+   {
+    "file": "File:Harajuku (9235302289).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Omotesando buildings.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Harajuku (9235302289).jpg (2736x3648) is a clear upward view of the branching concrete facade (checked visually). Omotesando buildings.jpg (4608x3456) shows Tod's on the right beside the Keyaki Building. Other files in the category are under 1200px."
+ },
+ {
+  "id": "tossols-basil-athletics-track",
+  "name": "Tossols-Basil Athletics Track",
+  "status": "photo",
+  "commons_category": "Category:Stadium of athletisme Olot",
+  "photos": [
+   {
+    "file": "File:Parc Atlétic Tossols Olot 004.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Parc Atlétic Tossols Olot 003.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Parc Atlétic Tossols Olot 001.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Parc Atlétic Tossols Olot 002.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Seven CC0 photos (2048x1536) from 2012: 003/004 show the running track ('Laufbahn'), 001/002 the Corten entrance, 005/006 floodlight masts, 007 the attached football field. Judged from descriptions and category, not viewed."
+ },
+ {
+  "id": "umbrella-house-kasa-no-ie",
+  "name": "Umbrella House (Kasa no Ie)",
+  "status": "photo",
+  "commons_category": "Category:Umbrella House (Shinohara Kazuo)",
+  "photos": [
+   {
+    "file": "File:Umbrella House Vitra Campus June 2022 01.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Umbrella House Vitra Campus June 2022 02.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Umbrella House Vitra Campus June 2022 03.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:2025-04-02 GV RegBas Fuehrung Vitra 023.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Eleven CC0 photos from June 2022 (4032x3024) of the house as re-erected on the Vitra Campus, plus two CC BY-SA 4.0 photos from 2025. Some of the 2022 series may be interiors; pick exterior frames when choosing."
+ },
+ {
+  "id": "unidad-vecinal-portales",
+  "name": "Unidad Vecinal Portales",
+  "status": "photo",
+  "commons_category": "Category:Unidad Vecinal Portales",
+  "photos": [
+   {
+    "file": "File:Unidad Vecinal Portales, Estación Central, Santiago 20230520 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Unidad Vecinal Portales, Estación Central, Santiago 20230520 02.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Villa Portales, Santiago 20191219 09.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "About 17 large CC BY-SA 4.0 photos in the category (2019, 2023, 2024 series). A few files in the category show neighbouring things (a church, a street sign, a memorial)."
+ },
+ {
+  "id": "villa-verde-housing",
+  "name": "Villa Verde Housing",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "street elevation of three row houses as handed over: each steep gable has its built two-storey half (with door and windows) and an empty half under the same roof",
+  "sources": [
+   "https://arquitecturaviva.com/works/viviendas-villa-verde-10",
+   "https://holcimfoundation.org/about/news/project-updates/rebuilding-continues-in-constitucion",
+   "https://www.archdaily.com/447381/villa-verde-housing-elemental"
+  ],
+  "note": "No Commons category or files found. Sources confirm two-storey row houses, half built and half left for residents to fill (57 m2 growing to about 85 m2), under a pitched roof. Window positions are schematic; the number of houses shown (three) is illustrative of the row."
+ },
+ {
+  "id": "wnw-bar",
+  "name": "wNw Bar",
+  "status": "photo",
+  "commons_category": "Category:Vo Trong Nghia Architects",
+  "photos": [
+   {
+    "file": "File:Cà phê Gió và Nước ở Bình Dương (1).JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Cà phê Gió và Nước ở Bình Dương (3).JPG",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "File (1) (2048x1536, 2014) clearly shows the thatched dome of the wNw Bar rising from the water (checked visually); its description names the bar and its ARCASIA gold award. File (3) is from the same site, not viewed. A third file in the series is an interior. There is no dedicated category; the files sit in Category:Vo Trong Nghia Architects."
+ },
+ {
+  "id": "disney-ice-anaheim-ice",
+  "name": "Disney Ice (Anaheim Ice)",
+  "status": "photo",
+  "commons_category": "Category:Anaheim Ice",
+  "photos": [
+   {
+    "file": "File:Anaheimice.jpg",
+    "license": "Attribution"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Only one file: Anaheimice.jpg, 2272x1704, described as 'Exterior view of Anaheim Ice (formerly Disney Ice)'. Its licence is the Commons 'Attribution' template (free use with credit, equivalent in effect to CC BY), not a numbered CC licence; the owner may want to confirm that is acceptable."
+ },
+ {
+  "id": "the-index",
+  "name": "The Index",
+  "status": "photo",
+  "commons_category": "Category:The Index (Dubai)",
+  "photos": [
+   {
+    "file": "File:The Index Tower - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The Index Tower - panoramio.jpg (2448x3264, Aidas U.) is a full-height street view of the tower with Emirates Towers behind (checked visually). It is not yet in Category:The Index (Dubai), which holds only two other, weaker files."
+ }
+]

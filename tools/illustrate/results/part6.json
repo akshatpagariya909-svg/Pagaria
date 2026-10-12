@@ -1,0 +1,275 @@
+[
+ {
+  "id": "la-tallera",
+  "name": "La Tallera",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Fachada de La Tallera 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Fachada de La Tallera 02.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Both photos show the street front with the Siqueiros murals (file category: Cultural centers in Morelos). No dedicated Commons category exists."
+ },
+ {
+  "id": "leao-que-ri-smiling-lion",
+  "name": "Leão que Ri (Smiling Lion)",
+  "status": "photo",
+  "commons_category": "Category:O Leão Que Ri (Maputo)",
+  "photos": [
+   {
+    "file": "File:O Leão Que Ri building Maputo.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:O Leao que Ri Panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:O Leão Que Ri detail Maputo.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "menara-tabung-haji",
+  "name": "Menara Tabung Haji",
+  "status": "photo",
+  "commons_category": "Category:Tabung Haji Tower, Kuala Lumpur",
+  "photos": [
+   {
+    "file": "File:KL- Lembaga Tabung Haji HQ.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Lembaga Tabung Haji @ Jalan Tun Razak - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The panoramio file is filed under Jalan Tun Razak; description names the tower."
+ },
+ {
+  "id": "menara-umno",
+  "name": "Menara UMNO",
+  "status": "photo",
+  "commons_category": "Category:United Malays National Organisation offices",
+  "photos": [
+   {
+    "file": "File:UNMO tower 2008.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Menara JKR in George Town, Penang.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Building has been renamed (Menara JKP / JKR); the 2008 file explicitly credits T. R. Hamzah & Yeang. No dedicated building category."
+ },
+ {
+  "id": "mestizo-restaurant",
+  "name": "Mestizo Restaurant",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Restaurante Mestizo en Parque BIcentenario.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Single uncategorised photo (4000x3000); judged from title and description only, worth a visual check."
+ },
+ {
+  "id": "michenzani-blocks",
+  "name": "Michenzani Blocks",
+  "status": "photo",
+  "commons_category": "Category:Michenzani",
+  "photos": [
+   {
+    "file": "File:Wohnungsbau der DDR in Stone Town.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "A second photo, File:Urban blight at the Michenzani housing project, Zanzibar town, Tanzania.jpg (CC BY-SA 3.0), is only 1280px tall portrait, just above the size floor."
+ },
+ {
+  "id": "naoshima-ferry-terminal",
+  "name": "Naoshima Ferry Terminal",
+  "status": "photo",
+  "commons_category": "Category:Miyanoura port, Naoshima",
+  "photos": [
+   {
+    "file": "File:Naoshima Ferry Terminal.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "norwegian-wild-reindeer-pavilion",
+  "name": "Norwegian Wild Reindeer Pavilion",
+  "status": "photo",
+  "commons_category": "Category:Viewpoint Snøhetta",
+  "photos": [
+   {
+    "file": "File:Viewpoint Snøhetta.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tverfjellhytta Norsk villreinsenter Snøhetta viewpoint 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The category holds 19 files (series 01-16 plus three others); one is an interior."
+ },
+ {
+  "id": "nur-alem",
+  "name": "Nur Alem",
+  "status": "drawn",
+  "commons_category": "Category:Expo 2017",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: the 80 m glass sphere resting on its low plinth building, floor levels shown as latitude lines",
+  "sources": [
+   "https://www.lindner-group.com/en/references/the-sphere-expo-2017",
+   "https://www.wernersobek.com/projects/expo-2017-astana/",
+   "https://www.archpaper.com/2017/08/adrian-smith-gordon-gills-ambitious-glass-sphere-pavilion/",
+   "https://bie-paris.org/site/en/latest/blog/entry/a-week-at-expo-3-inside-nur-alem"
+  ],
+  "note": "Kazakhstan has no freedom of panorama for buildings; several Expo 2017 pavilion photos have been deleted from Commons. The only survivors are File:Storm over Astana 1.jpg / 2.jpg (CC BY-SA 4.0, 1920x1080), lightning shots where the sphere is not the clear subject, so drawn instead. Proportions from sources: 80 m diameter, 100 m total height, sphere set on a plinth building; plinth width is approximate."
+ },
+ {
+  "id": "oberrealta-chapel",
+  "name": "Oberrealta Chapel",
+  "status": "photo",
+  "commons_category": "Category:St. Nepomuk (Oberrealta)",
+  "photos": [
+   {
+    "file": "File:St. Nepomuk, Oberrealta.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:St. Nepomuk Oberrealta - 1 von 10.jpeg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Category has ten more exterior photos (series 1-10 von 10)."
+ },
+ {
+  "id": "oita-prefectural-library-art-plaza",
+  "name": "Oita Prefectural Library (Art Plaza)",
+  "status": "photo",
+  "commons_category": "Category:Art Plaza (Oita)",
+  "photos": [
+   {
+    "file": "File:Art Plaza (Oita) 20251227.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Oita-shi Art Plaza - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "paks-catholic-church",
+  "name": "Paks Catholic Church",
+  "status": "photo",
+  "commons_category": "Category:Holy Spirit Church in Paks",
+  "photos": [
+   {
+    "file": "File:Paks Makovecz church.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Szentlélek templom, 2011-04-11 Paks Makovecz back.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "parliament-library-building",
+  "name": "Parliament Library Building",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://archnet.org/sites/6142",
+   "https://rajrewal.in/?p=1164",
+   "https://extranet.worldstainless.org/files/issf/non-image-files/PDF/Structural/Parliament_Library_Building_Domes.pdf"
+  ],
+  "note": "Only free photo is File:Parliament library.jpg (CC BY-SA 4.0, category Buildings by Raj Rewal) at 660x467, below the 1200px floor; worth using if the owner relaxes the size rule. Not drawn: sources confirm a low red-sandstone mandala plan with twelve domes of different sizes and structures (fibre cement, steel lattice, glass), but not how they line up in any elevation, so a drawing would be guesswork."
+ },
+ {
+  "id": "paulistano-athletic-club-gymnasium",
+  "name": "Paulistano Athletic Club Gymnasium",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2021/05/24/mendes-da-rocha-architecture-roundup/",
+   "https://arquitecturaviva.com/works/39835",
+   "https://www.dwell.com/collection/brazilian-projects-we-love-c82f4e33"
+  ],
+  "note": "No photo on Commons (Category:Club Athlético Paulistano has only a 457px aerial). Sources agree on a rectangular podium, six concrete blades in a circle carrying a concrete ring, and a central metal roof hung from it by twelve steel cables, but not on the blade and cable geometry seen in elevation (whether blades rise above the ring, where the cables anchor). Too uncertain to draw."
+ },
+ {
+  "id": "pearling-path-visitor-centre",
+  "name": "Pearling Path Visitor Centre",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/13926-pearling-path-visitors-center-by-valerio-olgiati-architect",
+   "https://wallpaper.com/architecture/pearling-path-muharraq-bahrain",
+   "https://www.detail.de/de_en/pathway-entrance-in-bahrain-pearling-site-by-valerio-olgiati-34065"
+  ],
+  "note": "No photo on Commons. Sources describe a perforated concrete roof plane on a forest of columns over the ruins of an amara, a perimeter wall and triangular wind towers, but give no heights, column count or opening shapes; an elevation would be guesswork."
+ }
+]

@@ -1,0 +1,340 @@
+[
+ {
+  "id": "acropolis-and-philopappou-hill-paths",
+  "name": "Acropolis and Philopappou Hill Paths",
+  "status": "photo",
+  "commons_category": "Category:Dimitris Pikionis",
+  "photos": [
+   {
+    "file": "File:Athens, Philopappos Hill, path.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Walking path in the Acropolis of Athens.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Athens 09 2013 - panoramio (53).jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Colline Muses - Athènes (GRA1) - 2022-03-26 - 12.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Colline Muses - Athènes (GRA1) - 2022-03-26 - 13.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No dedicated category for the paths; these files are filed under Category:Dimitris Pikionis. Pick the ones that show the paving clearly."
+ },
+ {
+  "id": "arthur-and-yvonne-boyd-education-centre",
+  "name": "Arthur and Yvonne Boyd Education Centre",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bundanon2026 01.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Only one file (5712x4284, CC0, described as 'Arthur and Yvonne Boyd Education Centre, Bundanon 2026'); not yet in a category. Check it shows the outside before using."
+ },
+ {
+  "id": "asian-games-village",
+  "name": "Asian Games Village",
+  "status": "photo",
+  "commons_category": "Category:Asian Games",
+  "photos": [
+   {
+    "file": "File:Asian Games Village Aerial View.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Single aerial view, 1536x1109, uploaded as own work by user 'Reply.rajrewal' (apparently Raj Rewal's office). Also File:Asian Games Village.jpg (751px, interior lanes, too small). Not in a building-specific category."
+ },
+ {
+  "id": "brazilian-museum-of-sculpture-mube",
+  "name": "Brazilian Museum of Sculpture (MuBE)",
+  "status": "photo",
+  "commons_category": "Category:Museu Brasileiro da Escultura",
+  "photos": [
+   {
+    "file": "File:Museu Brasileiro da Escultura (MuBE), Paulo Mendes da Rocha (5877755063).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Museu Brasileiro da Escultura (MuBE), Paulo Mendes da Rocha (5878309120).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Paulo Mendes da Rocha, Museu Brasileiro da Escultura (MuBE). (6642077617).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Paulo Mendes da Rocha, Museu Brasileiro da Escultura - MuBE. (6777276643).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Museu Brasileiro da Escultura.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Maquete Museu Brasileiro da Escultura 01.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "china-academy-of-art-xiangshan-campus",
+  "name": "China Academy of Art, Xiangshan Campus",
+  "status": "photo",
+  "commons_category": "Category:Xiangshan Campus, China Academy of Art",
+  "photos": [
+   {
+    "file": "File:20250722 Xiangshan Xiaoqu, Zhongguo Meishu Xueyuan.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Only one campus photo (4096x3072); its description just says 'Xiangshan Campus, China Academy of Art', so check it actually shows Wang Shu's buildings. The other file in the category is Siza's China Design Museum on the same campus (different building)."
+ },
+ {
+  "id": "eclac-building",
+  "name": "ECLAC Building",
+  "status": "photo",
+  "commons_category": "Category:ECLAC headquarters",
+  "photos": [
+   {
+    "file": "File:Edificio CEPAL.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:ECLAC headquarters, Vitacura, Santiago 20260322.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:CEPAL building.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Caracol - Edificio de la CEPAL en Chile 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Maqueta edificio CEPAL Chile 1961.jpg",
+    "kind": "Model",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "ewha-campus-complex",
+  "name": "Ewha Campus Complex",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:이화여자대학교 ECC.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One file, 2448x3264, described as the Ewha Campus Center (ECC) building; no dedicated category found."
+ },
+ {
+  "id": "faculty-of-architecture-university-of-porto",
+  "name": "Faculty of Architecture, University of Porto",
+  "status": "photo",
+  "commons_category": "Category:Faculdade de Arquitectura da Universidade do Porto",
+  "photos": [
+   {
+    "file": "File:Faculdade Arquitectura 1 (Porto).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Category has ~90 files; many Flickr uploads (6085.../6086...) are small (~850px), so check sizes when choosing. FAUP.jpg and FAUP fullview.jpg are just under 1200px (CC BY-SA 2.5)."
+ },
+ {
+  "id": "horta-house",
+  "name": "Horta House",
+  "status": "photo",
+  "commons_category": "Category:Exterior of House & Atelier Horta",
+  "photos": [
+   {
+    "file": "File:Maison Horta (23-25, rue Américaine, 1060, Brussels).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Belgique - Bruxelles - Maison Horta - 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hortamuseum Elsene 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Victor Horta Museum.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Dessin de la façade de la maison horta.png",
+    "kind": "Elevation",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "ibere-camargo-foundation",
+  "name": "Iberê Camargo Foundation",
+  "status": "photo",
+  "commons_category": "Category:Fundação Iberê Camargo building",
+  "photos": [
+   {
+    "file": "File:RenatoSoares FundacaoIbereCamargo PortoAlegre RS (27094463598).jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Fundação Iberê Camargo - dia.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:2021 Fundação Iberê Camargo 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Fundação Iberê Camargo vista de dentro do Guaíba.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "kaze-no-oka-crematorium",
+  "name": "Kaze-no-Oka Crematorium",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kaze-no-Oka Crematorium.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One file, 3023x1916; no dedicated category."
+ },
+ {
+  "id": "leicester-university-engineering-building",
+  "name": "Leicester University Engineering Building",
+  "status": "photo",
+  "commons_category": "Category:Engineering Building, University of Leicester",
+  "photos": [
+   {
+    "file": "File:Leicester University Engineering Building.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Leicester University Engineering Building profile.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:University of Leicester Engineering Building - tower.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Engineering Building, Leicester University - Flickr - stevecadman.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "leutschenbach-school",
+  "name": "Leutschenbach School",
+  "status": "photo",
+  "commons_category": "Category:Schulhaus Leutschenbach",
+  "photos": [
+   {
+    "file": "File:Zürich Schwamendingen Schule Leutschenbach 1K4A3177.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Schulhaus Leutschenbach - 2014-09-28 - Bild 1.JPG",
+    "license": "Attribution"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Several more in the category (1K4A31xx series CC BY-SA 4.0; 2014-09-28 series under the 'Attribution' template)."
+ },
+ {
+  "id": "los-manantiales-restaurant",
+  "name": "Los Manantiales Restaurant",
+  "status": "photo",
+  "commons_category": "Category:Restaurante Los Manantiales",
+  "photos": [
+   {
+    "file": "File:Restaurante Los Manantiales 03.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Restaurante Los Manantiales 02.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Restaurante Los Manantiales 06.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Restaurante Los Manantiales 07.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ }
+]
