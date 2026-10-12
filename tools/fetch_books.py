@@ -159,9 +159,19 @@ def first_cover(ranked):
             except Exception as e:  # one bad cover source should not lose the book
                 print(f'    {kind} {value}: {e}')
                 continue
-            if data and len(data) > 1500:
+            if data and len(data) > 1500 and big_enough(data):
                 return d, data, f'{kind} {value}' + ('' if s >= 12 else f' (loose title match: "{d.get("title")}")')
     return None, None, None
+
+
+def big_enough(data):
+    """Open Library sometimes holds a thumbnail-sized placeholder; skip those and try the next edition."""
+    from PIL import Image
+    try:
+        w, h = Image.open(io.BytesIO(data)).size
+    except Exception:
+        return False
+    return w >= 120 and h >= 150
 
 
 def save_thumb(data, path):

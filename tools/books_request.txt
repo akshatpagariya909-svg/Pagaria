@@ -1,1 +1,1 @@
-Third pass: match titles with their subtitles too, and keep going when one cover source fails.
+Fourth pass: skip placeholder-sized covers and try the next edition.
