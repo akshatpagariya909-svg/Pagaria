@@ -1,0 +1,111 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=block" rel="stylesheet">
+<style>
+:root { --ground:#FFFFFF; --paper:#F7F7F5; --ink:#111110; --graphite:#5D5C57; --hair:#E6E4DF; --red:#DA3A26; --r:28px;
+  --sans:'Archivo',sans-serif; --serif:'Newsreader',serif; --mono:'IBM Plex Mono',monospace; }
+* { box-sizing:border-box; margin:0; }
+html,body { width:1080px; height:1920px; overflow:hidden; background:var(--ground); color:var(--ink); font-family:var(--sans); -webkit-font-smoothing:antialiased; }
+.scene { position:absolute; inset:0; overflow:hidden; display:none; }
+.scene.on { display:block; }
+.mark { position:absolute; left:64px; top:150px; font-weight:850; font-stretch:125%; font-size:40px; line-height:.95; letter-spacing:-.02em; text-transform:uppercase; z-index:5; }
+.mark .accent { color:var(--red); }
+img { display:block; object-fit:cover; }
+
+/* intro: a quiet wall drifting up, muted */
+#intro .cols { position:absolute; left:40px; right:40px; top:0; display:flex; gap:14px; animation:drift 8.6s linear forwards; }
+#intro .col { flex:1; display:flex; flex-direction:column; gap:14px; }
+#intro .col:nth-child(2) { margin-top:-180px; }
+#intro .col:nth-child(3) { margin-top:-60px; }
+#intro img { width:100%; filter:grayscale(.85) contrast(.9); opacity:.55; }
+#intro .veil { position:absolute; inset:0; background:linear-gradient(#fff 0, rgba(255,255,255,.2) 22%, rgba(255,255,255,.2) 70%, #fff 100%); }
+@keyframes drift { from { transform:translateY(0) } to { transform:translateY(-520px) } }
+
+/* moodboard: photos with no names */
+#mood .cols { position:absolute; left:40px; right:40px; top:120px; display:flex; gap:16px; animation:drift2 7.2s linear forwards; }
+#mood .col { flex:1; display:flex; flex-direction:column; gap:16px; }
+#mood .col:nth-child(2) { margin-top:140px; }
+#mood .tile { position:relative; }
+#mood .tile img { width:100%; }
+#mood .q { position:absolute; left:16px; bottom:16px; height:64px; min-width:64px; padding:0 20px; border-radius:var(--r); background:#fff;
+  display:flex; align-items:center; justify-content:center; font-weight:800; font-size:36px; }
+@keyframes drift2 { from { transform:translateY(0) } to { transform:translateY(-700px) } }
+
+/* search: you need the name first */
+#search .box { position:absolute; left:80px; right:80px; top:820px; height:150px; border:3px solid var(--ink); border-radius:var(--r); background:var(--paper);
+  display:flex; align-items:center; gap:28px; padding:0 40px; }
+#search svg { width:56px; height:56px; fill:none; stroke:var(--ink); stroke-width:2.4; flex:none; }
+#search .typed { font-size:56px; font-weight:500; white-space:nowrap; }
+#search .typed.ph { color:var(--graphite); }
+#search .caret { width:4px; height:64px; background:var(--ink); animation:blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity:0 } }
+
+/* flipping through: one building after another, named */
+#flip .card { position:absolute; left:110px; right:110px; top:250px; padding-bottom:40px; transform-origin:left center; backface-visibility:hidden; background:#fff; visibility:hidden; }
+#flip .card img { width:860px; height:860px; }
+#flip .cap { display:flex; justify-content:space-between; gap:24px; margin-top:22px; font-size:40px; font-weight:750; letter-spacing:-.01em; }
+#flip .cap span:last-child { font-weight:500; text-align:right; }
+#flip .sub { font:400 30px var(--mono); color:var(--graphite); margin-top:8px; }
+
+/* logo */
+#logo .word { position:absolute; left:64px; right:64px; font-weight:850; font-stretch:125%; text-transform:uppercase; letter-spacing:-.03em; line-height:.9; font-size:91px; white-space:nowrap; }
+#logo .w1 { top:770px; animation:rise .6s cubic-bezier(.2,.8,.2,1) .5s both; }
+#logo .w2 { top:852px; color:var(--red); animation:rise .6s cubic-bezier(.2,.8,.2,1) .75s both; }
+#logo .line { position:absolute; left:64px; top:966px; height:6px; background:var(--ink); width:0; animation:grow .9s cubic-bezier(.2,.8,.2,1) 1.2s forwards; }
+@keyframes rise { from { transform:translateY(60px); opacity:0 } to { transform:none; opacity:1 } }
+@keyframes grow { to { width:952px } }
+
+/* credit */
+#credit .photo { position:absolute; left:80px; right:80px; top:260px; height:820px; overflow:hidden; }
+#credit .photo img { width:100%; height:100%; animation:slowzoom 4s ease-out forwards; }
+#credit .line { position:absolute; left:80px; right:80px; top:1110px; font:400 34px/1.4 var(--mono); }
+#credit .line u { text-decoration:none; background:linear-gradient(var(--red),var(--red)) left bottom/0 6px no-repeat; animation:ul 1s ease-out .6s forwards; padding-bottom:6px; }
+@keyframes ul { to { background-size:100% 6px } }
+@keyframes slowzoom { from { transform:scale(1.06) } to { transform:scale(1) } }
+
+/* end */
+#end .big { position:absolute; left:64px; right:64px; top:560px; font-weight:850; font-stretch:125%; text-transform:uppercase; letter-spacing:-.03em; line-height:.92; font-size:91px; white-space:nowrap; }
+#end .big .accent { color:var(--red); }
+#end .handle { position:absolute; left:64px; top:830px; font-weight:700; font-size:58px; letter-spacing:-.01em; animation:rise .6s ease .3s both; }
+#end .btn { position:absolute; left:64px; top:940px; height:110px; padding:0 48px; border-radius:var(--r); background:var(--red); color:#fff;
+  display:flex; align-items:center; font-weight:700; font-size:46px; animation:rise .6s ease .6s both; }
+</style></head>
+<body>
+<section class="scene" id="intro"><div class="cols"></div><div class="veil"></div><div class="mark">Discover<br><span class="accent">Architecture.</span></div></section>
+<section class="scene" id="mood"><div class="cols"></div></section>
+<section class="scene" id="search"><div class="box"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span class="typed ph">Search a building</span><span class="caret"></span></div></section>
+<section class="scene" id="flip"></section>
+<section class="scene" id="logo"><div class="word w1">Discover</div><div class="word w2">Architecture.</div><div class="line"></div></section>
+<section class="scene" id="credit"><div class="photo"><img></div><div class="line"></div></section>
+<section class="scene" id="end"><div class="big"><span class="fit">Discover</span><br><span class="fit accent">Architecture.</span></div><div class="handle">@discoverarchitecture.in</div><div class="btn">Link in bio</div></section>
+<script src="data.js"></script>
+<script>
+const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;');
+const cols = (n, list, html) => { const c = Array.from({ length: n }, () => []); list.forEach((x, i) => c[i % n].push(html(x))); return c.map(x => `<div class="col">${x.join('')}</div>`).join(''); };
+document.querySelector('#intro .cols').innerHTML = cols(3, GRID.concat(GRID.slice(0, 6)), b => `<img src="${b.thumb}" style="height:${[300,380,260,340][b.name.length % 4]}px">`);
+document.querySelector('#mood .cols').innerHTML = cols(2, GRID.slice(4).concat(GRID.slice(0, 6)), b => `<div class="tile"><img src="${b.thumb}" style="height:${[420,520,380,470][b.name.length % 4]}px"><span class="q">?</span></div>`);
+document.querySelector('#flip').innerHTML = FLIP.map((b, i) => `<div class="card" style="z-index:${i + 1}"><img src="${b.src}"><div class="cap"><span>${esc(b.name)}</span><span>${esc(b.by)}</span></div><div class="sub">${esc(b.year)} · ${esc(b.city)}</div></div>`).join('');
+document.querySelector('#credit img').src = CREDIT.src;
+document.querySelector('#credit .line').innerHTML = `Photo: ${esc(CREDIT.credit)}<br><u>${esc(CREDIT.license)} · Wikimedia Commons</u>`;
+
+// Scenes with scripted timing are started by the recorder.
+window.play = name => {
+  document.querySelectorAll('.scene').forEach(s => s.classList.toggle('on', s.id === name));
+  if (name === 'search') {
+    const t = document.querySelector('#search .typed'), word = 'that building with the…';
+    let i = 0; setTimeout(function type() { t.classList.remove('ph'); t.textContent = word.slice(0, ++i); if (i < word.length) setTimeout(type, 70); else setTimeout(erase, 1100); }, 600);
+    function erase() { t.textContent = t.textContent.slice(0, -1); if (t.textContent) setTimeout(erase, 30); else { t.classList.add('ph'); t.textContent = 'Search a building'; } }
+  }
+  if (name === 'flip') {
+    const cards = [...document.querySelectorAll('#flip .card')];
+    // Each card swings in like a turning page; the gap shrinks a little as you get into it.
+    let at = 0; cards.forEach((c, i) => {
+      setTimeout(() => { c.style.visibility = 'visible'; if (cards[i - 2]) cards[i - 2].style.visibility = 'hidden'; }, at);
+      c.animate([{ transform: 'perspective(2400px) rotateY(-75deg)' }, { transform: 'none' }],
+        { duration: 380, delay: at, fill: 'both', easing: 'cubic-bezier(.2,.8,.2,1)' });
+      at += Math.max(380, 700 - i * 35);
+    });
+  }
+};
+</script>
+</body></html>

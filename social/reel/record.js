@@ -9,7 +9,7 @@ const TAP_CSS = `.__tap{position:fixed;z-index:99999;width:56px;height:56px;marg
   background:rgba(17,17,16,.22);border:2px solid rgba(255,255,255,.9);pointer-events:none;animation:__t .5s ease-out forwards}
   @keyframes __t{0%{transform:scale(.4);opacity:0}30%{transform:scale(1);opacity:1}100%{transform:scale(1.25);opacity:0}}`;
 
-async function tap(p, sel) {
+async function tap(p, sel, label) {
   const el = p.locator(sel).first();
   await el.scrollIntoViewIfNeeded();
   const b = await el.boundingBox();
@@ -17,6 +17,7 @@ async function tap(p, sel) {
   await p.evaluate(([x, y]) => { const d = document.createElement('div'); d.className = '__tap'; d.style.left = x + 'px'; d.style.top = y + 'px';
     document.body.appendChild(d); setTimeout(() => d.remove(), 600); }, [x, y]);
   await sleep(180);
+  if (label && p.mark) p.mark(label);
   await el.click();
 }
 // Eased scroll of the window or of an element, in page, so it is smooth.
@@ -29,10 +30,12 @@ async function glide(p, to, ms, sel) {
   }), [to, ms, sel || null]);
 }
 
-async function record(browser, name, script) {
-  const ctx = await browser.newContext({ viewport: { width: 390, height: 693 }, deviceScaleFactor: 2.77, isMobile: true, hasTouch: true });
+async function record(browser, name, script, scene) {
+  const ctx = await browser.newContext(scene ? { viewport: { width: 1080, height: 1920 } } : { viewport: { width: 390, height: 693 }, deviceScaleFactor: 2.77, isMobile: true, hasTouch: true });
   const p = await ctx.newPage();
-  await p.goto(URL, { waitUntil: 'networkidle' });
+  await p.goto(scene ? 'http://localhost:8766/scenes.html' : URL, { waitUntil: 'networkidle' });
+  await p.evaluate(() => document.fonts.ready);
+  const marks = []; p.mark = label => marks.push([label, Date.now() / 1000]);
   await p.addStyleTag({ content: TAP_CSS + ' ::-webkit-scrollbar{display:none}' });
   await sleep(1200);
   const dir = path.join(OUT, name + '_frames'); fs.rmSync(dir, { recursive: true, force: true }); fs.mkdirSync(dir, { recursive: true });
@@ -54,35 +57,53 @@ async function record(browser, name, script) {
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', path.join(dir, 'list.txt'),
     '-vf', 'scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:color=white,fps=30,format=yuv420p',
     '-c:v', 'libx264', '-crf', '16', '-preset', 'medium', path.join(OUT, name + '.mp4')]);
-  console.log(name, frames.length, 'frames', (t1 - t0).toFixed(1) + 's');
+  const f0 = frames[0][1];
+  const log = marks.map(([l, t]) => [l, +(t - f0).toFixed(3)]);
+  fs.writeFileSync(path.join(OUT, name + '.json'), JSON.stringify({ duration: +(t1 - f0).toFixed(3), marks: log }));
+  console.log(name, frames.length, 'frames', (t1 - f0).toFixed(2) + 's', JSON.stringify(log));
 }
 
+
+async function scrollInfoTo(p, sel, ms) {
+  const to = await p.evaluate(sel => { const info = document.querySelector('.info'), el = document.querySelector(sel);
+    return el.getBoundingClientRect().top - info.getBoundingClientRect().top + info.scrollTop - 24; }, sel);
+  await glide(p, to, ms, '.info');
+}
+const SCENES = { intro: 8.6, mood: 7.4, search: 5.8, flip: 8.0, logo: 4.2, credit: 3.8, end: 6.6 };
 const CLIPS = {
   async wall(p) { await sleep(1000); await glide(p, 2600, 7000); await sleep(800); },
-  async shuffle(p) { await sleep(900); await tap(p, '#shuffle'); await sleep(1600); await tap(p, '#shuffle'); await sleep(1600); },
-  async surprise(p) {
+  async shuffle(p) { await sleep(900); await tap(p, '#shuffle', 'shuffle1'); await sleep(1600); await tap(p, '#shuffle', 'shuffle2'); await sleep(1600); },
+  async open(p) {
     await sleep(900);
-    const i = await p.evaluate(() => window.BUILDINGS.findIndex(b => b.id === 'chand-baori'));
-    await p.evaluate(([i, n]) => { const r = Math.random; Math.random = () => (i + .5) / n; setTimeout(() => Math.random = r, 1500); }, [i, await p.evaluate(() => window.BUILDINGS.length)]);
-    await tap(p, '#surprise'); await sleep(2800);
-    await glide(p, 900, 4000, '.info'); await sleep(1500);
+    const [i, n] = await p.evaluate(() => [window.BUILDINGS.findIndex(b => b.id === 'chand-baori'), window.BUILDINGS.length]);
+    await p.evaluate(([i, n]) => { const r = Math.random; Math.random = () => (i + .5) / n; setTimeout(() => Math.random = r, 1500); }, [i, n]);
+    await tap(p, '#surprise', 'surprise'); await sleep(3300);
+    await tap(p, '#gNext', 'photo2'); await sleep(700);
+    await tap(p, '#gNext', 'photo3'); await sleep(900);
+    p.mark('study'); await scrollInfoTo(p, '#bMeta', 900); await sleep(2300);
+    p.mark('links'); await scrollInfoTo(p, '#links', 1100); await sleep(1200);
+    await glide(p, await p.evaluate(() => document.querySelector('.info').scrollTop + 260), 2200, '.info'); await sleep(800);
   },
   async filters(p) {
-    await sleep(800); await tap(p, '#filterBtn'); await sleep(1200);
-    await tap(p, '.fp-cell[data-v="Light from above"]'); await sleep(900);
-    await tap(p, '.fp-tab[data-tab="types"]'); await sleep(1100);
-    await tap(p, '.fp-tab[data-tab="movs"]'); await sleep(1100);
-    await tap(p, '.fp-tab[data-tab="where"]'); await sleep(1300);
-    await tap(p, '.fp-tab[data-tab="when"]'); await sleep(1100);
-    await tap(p, '[data-show]'); await sleep(1200);
-    await glide(p, 1200, 3000); await sleep(600);
+    await sleep(800); await tap(p, '#filterBtn', 'filter'); await sleep(3300);
+    await tap(p, '.fp-cell[data-v="Light from above"]', 'light'); await sleep(250);
+    const to = await p.evaluate(() => { const b = document.querySelector('.fp-body'), el = document.querySelector('.fp-cell[data-v="Courtyard"]');
+      return el.getBoundingClientRect().top - b.getBoundingClientRect().top + b.scrollTop - 220; });
+    await glide(p, to, 500, '.fp-body');
+    await tap(p, '.fp-cell[data-v="Courtyard"]', 'courtyard'); await sleep(600);
+    await tap(p, '.fp-tab[data-tab="types"]', 'types'); await sleep(420);
+    await tap(p, '.fp-tab[data-tab="movs"]', 'movs'); await sleep(420);
+    await tap(p, '.fp-tab[data-tab="where"]', 'where'); await sleep(420);
+    await tap(p, '.fp-tab[data-tab="when"]', 'when'); await sleep(900);
+    await tap(p, '[data-show]', 'show'); await sleep(1600);
   },
   async ending(p) { await sleep(600); await glide(p, 1400, 6000); await sleep(600); },
 };
+for (const [k, d] of Object.entries(SCENES)) CLIPS['scene_' + k] = Object.assign(async p => { await p.evaluate(k => window.play(k), k); p.mark('start'); await sleep(d * 1000); }, { scene: true });
 
 (async () => {
   fs.mkdirSync(OUT, { recursive: true });
   const b = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium' });
-  for (const [name, fn] of Object.entries(CLIPS)) if (!process.argv[2] || process.argv.slice(2).includes(name)) await record(b, name, fn);
+  for (const [name, fn] of Object.entries(CLIPS)) if (!process.argv[2] || process.argv.slice(2).includes(name)) await record(b, name, fn, fn.scene);
   await b.close();
 })().catch(e => { console.error(e); process.exit(1); });
