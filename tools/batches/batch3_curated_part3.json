@@ -1,7 +1,7 @@
 [
  {
   "qid": "Q1191048",
-  "keep": 3,
+  "keep": 0,
   "name": "West Village",
   "by": "Liu Jiakun",
   "city": "Chengdu",
@@ -21,7 +21,7 @@
    40.7358,
    -74.0036
   ],
-  "note": "hand list: architects"
+  "note": "wrong Wikidata match (a different building with the same name); leave off"
  },
  {
   "qid": "Q6139847",
@@ -2032,7 +2032,7 @@
  },
  {
   "qid": "Q16964856",
-  "keep": 2,
+  "keep": 0,
   "name": "Villa Majorelle",
   "by": "Paul Sinoir",
   "city": "Marrakesh",
@@ -2052,7 +2052,7 @@
    48.6855,
    6.16389
   ],
-  "note": "hand list: regions"
+  "note": "wrong Wikidata match (a different building with the same name); leave off"
  },
  {
   "qid": "Q2919312",
@@ -2224,7 +2224,7 @@
  },
  {
   "qid": "Q274918",
-  "keep": 2,
+  "keep": 0,
   "name": "Grand National Assembly of Turkey",
   "by": "Clemens Holzmeister",
   "city": "Ankara",
@@ -2244,7 +2244,7 @@
    39.91184113282354,
    32.851106545745004
   ],
-  "note": "hand list: regions"
+  "note": "Wikidata item is the parliament as an institution; the building is Q25907014"
  },
  {
   "qid": "Q800389",

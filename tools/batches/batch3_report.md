@@ -1,41 +1,14 @@
 # batch3
 
 - Curated: 304
-- On the wall from this batch: 138 (0 added in the latest run, 0 of them approved by hand)
-- Held back for a check by hand: 27
-- Turned down: 139
+- On the wall from this batch: 163 (0 added in the latest run, 25 of them approved by hand)
+- Held back for a check by hand: 0
+- Turned down: 141
 
 ## Held back
 
 | Building | Architect | Year | Place | Why |
 |---|---|---|---|---|
-| West Village | Liu Jiakun | 2015 | Chengdu, CN | country CN but Wikidata says US |
-| Gipsoteca Canoviana | Carlo Scarpa | 1957 | Possagno, IT | year 1957 matches none of Wikidata's years (1832, 1844) |
-| The Smiling Lion | Pancho Guedes | 1958 | Maputo, MZ | year 1958 matches none of Wikidata's years (1954) |
-| Borujerdi House | Ustad Ali Maryam | 1857 | Kashan, IR | year 1857 is before the architect could have built it (born 1900) |
-| Takiyya al-Sulaymaniyya | Mimar Sinan | 1559 | Damascus, SY | year 1559 matches none of Wikidata's years (1554) |
-| Perot Museum of Nature and Science | Morphosis, Thom Mayne | 2012 | Dallas, US | year 2012 matches none of Wikidata's years (2006) |
-| Town House, Kingston University | Grafton Architects | 2020 | Kingston upon Thames, GB | year 2020 matches none of Wikidata's years (1899, 1992) |
-| National Museum – Architecture | Sverre Fehn | 2008 | Oslo, NO | year 2008 matches none of Wikidata's years (2003) |
-| L. D. Institute of Indology | Balkrishna Doshi | 1962 | Ahmedabad, IN | year 1962 matches none of Wikidata's years (1984) |
-| National Crafts Museum | Charles Correa | 1991 | New Delhi, IN | year 1991 matches none of Wikidata's years (1956) |
-| Kala Academy | Charles Correa | 1983 | Panaji, IN | year 1983 matches none of Wikidata's years (1970) |
-| Open Hand Monument | Le Corbusier | 1985 | Chandigarh, IN | year 1985 matches none of Wikidata's years (1964) |
-| Shaheed Minar, Dhaka | Hamidur Rahman, Novera Ahmed | 1963 | Dhaka, BD | year 1963 matches none of Wikidata's years (1952) |
-| LASALLE College of the Arts | RSP Architects Planners & Engineers | 2007 | Singapore, SG | year 2007 matches none of Wikidata's years (1984) |
-| Jim Thompson House | Jim Thompson | 1959 | Bangkok, TH | year 1959 matches none of Wikidata's years (1950) |
-| Independence Monument (Cambodia) | Vann Molyvann | 1962 | Phnom Penh, KH | year 1962 matches none of Wikidata's years (1958) |
-| Ananda Temple | Bagan builders | 1105 | Bagan, MM | year 1105 matches none of Wikidata's years (1091) |
-| Kempegowda International Airport Terminal 2 | Skidmore, Owings & Merrill | 2022 | Bengaluru, IN | year 2022 matches none of Wikidata's years (2008) |
-| Kigali Convention Centre | Roland Dieterle | 2016 | Kigali, RW | year 2016 matches none of Wikidata's years (2011) |
-| Villa Majorelle | Paul Sinoir | 1931 | Marrakesh, MA | country MA but Wikidata says FR |
-| Basilica of Sainte-Anne du Congo | Roger Erell | 1949 | Brazzaville, CG | year 1949 matches none of Wikidata's years (2010) |
-| Grand National Assembly of Turkey | Clemens Holzmeister | 1961 | Ankara, TR | year 1961 matches none of Wikidata's years (1920) |
-| Tomb of Nader Shah | Houshang Seyhoun | 1959 | Mashhad, IR | year 1959 matches none of Wikidata's years (1963) |
-| King Fahd National Library | Gerber Architekten | 2013 | Riyadh, SA | year 2013 matches none of Wikidata's years (1990) |
-| El Colegio de México | Teodoro González de León, Abraham Zabludovsky | 1976 | Mexico City, MX | year 1976 matches none of Wikidata's years (1940) |
-| Instituto Moreira Salles Paulista | Andrade Morettin Arquitetos | 2017 | São Paulo, BR | year 2017 matches none of Wikidata's years (1992) |
-| Alisher Navoi Opera and Ballet Theatre | Alexey Shchusev | 1947 | Tashkent, UZ | year 1947 matches none of Wikidata's years (1939) |
 
 ## Turned down
 
@@ -62,7 +35,6 @@
 | Istanbul Sapphire | Tabanlıoğlu Architects | 2011 | Istanbul, TR | commercial tower |
 | Chelsea Tower | Atkins | 2005 | Dubai, AE | commercial tower |
 | Museum of Tolerance Jerusalem |  | 2019 | Jerusalem, IL | architect credit unclear (Gehry design abandoned, later redesigned) |
-| Grand National Assembly of Turkey | Clemens Holzmeister | 1961 | Ankara, TR | government building; not sure enough of date and details |
 | Supreme Court of Pakistan | Kenzō Tange | 1993 | Islamabad, PK | Wikidata year 1965 is wrong (finished about 1993); not sure enough of details |
 | Institute for Research in Fundamental Sciences | Kamran Diba | 1970 | Tehran, IR | credit and building unclear |
 | Prometheus Building | Pancho Guedes | 1953 | Maputo, MZ | not sure enough of its details |
@@ -180,6 +152,9 @@
 | The Sail @ Marina Bay | NBBJ | 2008 | Singapore, SG | generic residential towers |
 | Bank Melli Iran (University of Tehran Branch) | Jørn Utzon | 1959 | Tehran, IR | Utzon credit plausible, but not known well enough to describe truthfully |
 | Faculty of Management of the University of Tehran | Hossein Amanat |  | Tehran, IR | Hossein Amanat was born in 1942, so 1955 credit is wrong |
+| West Village | Liu Jiakun | 2015 | Chengdu, CN | wrong Wikidata match (a different building with the same name); leave off |
+| Villa Majorelle | Paul Sinoir | 1931 | Marrakesh, MA | wrong Wikidata match (a different building with the same name); leave off |
+| Grand National Assembly of Turkey | Clemens Holzmeister | 1961 | Ankara, TR | Wikidata item is the parliament as an institution; the building is Q25907014 |
 
 ## On the wall
 
@@ -323,3 +298,28 @@
 | 1576 | Civic Center of Lima | Adolfo Córdova and team | 1974 | Lima, PE | Civic | Brutalism |
 | 1577 | Museo de Arte Moderno | Pedro Ramírez Vázquez and Rafael Mijares | 1964 | Mexico City, MX | Museum | Modernism |
 | 1578 | KAFD Metro Station | Zaha Hadid Architects | 2024 | Riyadh, SA | Infrastructure | Parametric |
+| 1579 | Gipsoteca Canoviana | Carlo Scarpa | 1957 | Possagno, IT | Museum | Late modernism |
+| 1580 | The Smiling Lion | Pancho Guedes | 1958 | Maputo, MZ | Housing | Expressionism |
+| 1581 | Borujerdi House | Ustad Ali Maryam | 1857 | Kashan, IR | House | Historic precedent |
+| 1582 | Takiyya al-Sulaymaniyya | Mimar Sinan | 1559 | Damascus, SY | Religious | Historic precedent |
+| 1583 | Perot Museum of Nature and Science | Morphosis, Thom Mayne | 2012 | Dallas, US | Museum | Contemporary |
+| 1584 | Town House, Kingston University | Grafton Architects | 2020 | Kingston upon Thames, GB | Education | Contemporary |
+| 1585 | National Museum – Architecture | Sverre Fehn | 2008 | Oslo, NO | Museum | Late modernism |
+| 1586 | L. D. Institute of Indology | Balkrishna Doshi | 1962 | Ahmedabad, IN | Museum | Modernism |
+| 1587 | National Crafts Museum | Charles Correa | 1991 | New Delhi, IN | Museum | Regionalism |
+| 1588 | Kala Academy | Charles Correa | 1983 | Panaji, IN | Culture & sport | Regionalism |
+| 1589 | Open Hand Monument | Le Corbusier | 1985 | Chandigarh, IN | Memorial | Modernism |
+| 1590 | Shaheed Minar, Dhaka | Hamidur Rahman, Novera Ahmed | 1963 | Dhaka, BD | Memorial | Modernism |
+| 1591 | LASALLE College of the Arts | RSP Architects Planners & Engineers | 2007 | Singapore, SG | Education | Contemporary |
+| 1592 | Jim Thompson House | Jim Thompson | 1959 | Bangkok, TH | House | Regionalism |
+| 1593 | Independence Monument (Cambodia) | Vann Molyvann | 1962 | Phnom Penh, KH | Memorial | Regionalism |
+| 1594 | Ananda Temple | Bagan builders | 1105 | Bagan, MM | Religious | Historic precedent |
+| 1595 | Kempegowda International Airport Terminal 2 | Skidmore, Owings & Merrill | 2022 | Bengaluru, IN | Infrastructure | Contemporary |
+| 1596 | Kigali Convention Centre | Roland Dieterle | 2016 | Kigali, RW | Civic | Contemporary |
+| 1597 | Basilica of Sainte-Anne du Congo | Roger Erell | 1949 | Brazzaville, CG | Religious | Art Deco |
+| 1598 | Tomb of Nader Shah | Houshang Seyhoun | 1959 | Mashhad, IR | Memorial | Modernism |
+| 1599 | King Fahd National Library | Gerber Architekten | 2013 | Riyadh, SA | Library | Contemporary |
+| 1600 | El Colegio de México | Teodoro González de León, Abraham Zabludovsky | 1976 | Mexico City, MX | Education | Brutalism |
+| 1601 | Instituto Moreira Salles Paulista | Andrade Morettin Arquitetos | 2017 | São Paulo, BR | Museum | Contemporary |
+| 1602 | Alisher Navoi Opera and Ballet Theatre | Alexey Shchusev | 1947 | Tashkent, UZ | Culture & sport | Regionalism |
+| 1603 | Grand National Assembly of Turkey | Clemens Holzmeister | 1961 | Ankara, TR | Civic | Modernism |

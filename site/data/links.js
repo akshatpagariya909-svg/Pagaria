@@ -955,6 +955,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Alhamra_Arts_Council"
  },
+ "alisher-navoi-opera-and-ballet-theatre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.gabt.uz"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20019256"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.30917&mlon=69.27167#map=17/41.30917/69.27167"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Navoi_Theater"
+ },
  "allen-lambert-galleria-brookfield-place": {
   "links": [
    {
@@ -1169,6 +1189,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Anahuacalli_Museum"
+ },
+ "ananda-temple": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=21.17090&mlon=94.86771#map=17/21.17090/94.86771"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ananda_Temple"
  },
  "andrew-melville-hall": {
   "links": [
@@ -2700,6 +2730,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"
  },
+ "basilica-of-sainte-anne-du-congo": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-4.26846&mlon=15.28451#map=17/-4.26846/15.28451"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Basilica_of_Sainte-Anne-du-Congo_in_Brazzaville"
+ },
  "basilica-of-st-pius-x": {
   "links": [
    {
@@ -3719,6 +3759,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Borobudur"
+ },
+ "borujerdi-house": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/12077.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=33.97458&mlon=51.44064#map=17/33.97458/51.44064"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Borujerdi_House"
  },
  "bosco-verticale": {
   "links": [
@@ -8260,6 +8315,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/El_Capricho"
  },
+ "el-colegio-de-mexico": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.colmex.mx"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=19.30389&mlon=-99.20778#map=17/19.30389/-99.20778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/El_Colegio_de_M%C3%A9xico"
+ },
  "el-helicoide": {
   "links": [
    {
@@ -10238,6 +10308,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Colegio_Nuestra_Se%C3%B1ora_de_las_Maravillas"
  },
+ "gipsoteca-canoviana": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.museocanova.it/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/338284-carlo-scarpa-ake-e-son-lindman-gipsoteca-canoviana"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/644.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.85175&mlon=11.87491#map=17/45.85175/11.87491"
+   }
+  ],
+  "wiki": null
+ },
  "glasgow-school-of-art": {
   "links": [
    {
@@ -10492,6 +10587,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum"
+ },
+ "grand-national-assembly-of-turkey": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/81918.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.91167&mlon=32.85111#map=17/39.91167/32.85111"
+   }
+  ],
+  "wiki": null
  },
  "grand-palais": {
   "links": [
@@ -12788,6 +12898,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Independence_Memorial_Hall"
  },
+ "independence-monument-cambodia": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=11.55640&mlon=104.92810#map=17/11.55640/104.92810"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Independence_Monument_%28Cambodia%29"
+ },
  "independence-palace": {
   "links": [
    {
@@ -12927,6 +13047,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Institute_of_Contemporary_Art%2C_Boston"
+ },
+ "instituto-moreira-salles-paulista": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/884453/moreira-salles-institute-andrade-morettin-arquitetos"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ims.uol.com.br"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-23.55603&mlon=-46.66201#map=17/-23.55603/-46.66201"
+   }
+  ],
+  "wiki": null
  },
  "international-congress-centre": {
   "links": [
@@ -13528,6 +13668,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin"
  },
+ "jim-thompson-house": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/990926/jim-thompson-art-center-design-qua"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.jimthompsonhouse.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.74917&mlon=100.52833#map=17/13.74917/100.52833"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Jim_Thompson_House"
+ },
  "jin-mao-tower": {
   "links": [
    {
@@ -13853,6 +14013,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kakn%C3%A4stornet"
  },
+ "kala-academy": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=15.49428&mlon=73.81769#map=17/15.49428/73.81769"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kala_Academy"
+ },
  "kaleva-church": {
   "links": [
    {
@@ -14078,6 +14248,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Keeling_House"
  },
+ "kempegowda-international-airport-terminal-2": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1012027/kempegowda-international-airport-bengaluru-skidmore-owings-and-merrill"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.bengaluruairport.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.19889&mlon=77.70556#map=17/13.19889/77.70556"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kempegowda_International_Airport"
+ },
  "ken-domon-museum-of-photography": {
   "links": [
    {
@@ -14188,6 +14378,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kiasma"
  },
+ "kigali-convention-centre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.kcc.rw"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20023283"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-1.95472&mlon=30.09389#map=17/-1.95472/30.09389"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kigali_Convention_Centre"
+ },
  "kilden-performing-arts-centre": {
   "links": [
    {
@@ -14262,6 +14472,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/King_Abdullah_Petroleum_Studies_and_Research_Center"
+ },
+ "king-fahd-national-library": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/469088/king-fahad-national-library-gerber-architekten"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.kfnl.gov.sa/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=24.68635&mlon=46.68331#map=17/24.68635/46.68331"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/King_Fahad_National_Library"
  },
  "king-power-mahanakhon": {
   "links": [
@@ -15153,6 +15383,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/L%27Auditori"
  },
+ "l-d-institute-of-indology": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ldmuseum.co.in"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=23.20000&mlon=72.33000#map=17/23.20000/72.33000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lalbhai_Dalpatbhai_Museum"
+ },
  "l-hemisferic": {
   "links": [
    {
@@ -15462,6 +15707,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sanctuary_of_Las_Lajas"
+ },
+ "lasalle-college-of-the-arts": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/355593/lafayette-college-arts-plaza-spillman-farmer-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.lasalle.edu.sg/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.30307&mlon=103.85185#map=17/1.30307/103.85185"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lasalle_College_of_the_Arts"
  },
  "lasipalatsi": {
   "links": [
@@ -19873,6 +20138,21 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "national-crafts-museum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://nationalcraftsmuseum.nic.in/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=28.61355&mlon=77.24232#map=17/28.61355/77.24232"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Handicrafts_and_Handlooms_Museum"
+ },
  "national-forum-of-music": {
   "links": [
    {
@@ -20146,6 +20426,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/National_Monument_%28Indonesia%29"
+ },
+ "national-museum-architecture": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.nasjonalmuseet.no"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.91167&mlon=10.72917#map=17/59.91167/10.72917"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Museum_of_Norway"
  },
  "national-museum-malaysia": {
   "links": [
@@ -21545,6 +21840,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Ontario_Science_Centre"
+ },
+ "open-hand-monument": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1948.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=30.75900&mlon=76.80740#map=17/30.75900/76.80740"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Open_Hand_Monument"
  },
  "opera-bastille": {
   "links": [
@@ -23019,6 +23329,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Pergamon_Museum"
+ },
+ "perot-museum-of-nature-and-science": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/295662/perot-museum-of-nature-and-science-morphosis"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.perotmuseum.org/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/325883-morphosis-architects-thom-mayne-aaron-dougherty-perot-museum-of-nature-and-science"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=32.78704&mlon=-96.80601#map=17/32.78704/-96.80601"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Perot_Museum_of_Nature_and_Science"
  },
  "perret-tower": {
   "links": [
@@ -25865,6 +26200,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Shah_Mosque_%28Isfahan%29"
  },
+ "shaheed-minar-dhaka": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=23.72217&mlon=90.39499#map=17/23.72217/90.39499"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Shaheed_Minar%2C_Dhaka"
+ },
  "shakespeare-s-globe": {
   "links": [
    {
@@ -27815,6 +28160,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal"
  },
+ "takiyya-al-sulaymaniyya": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/76076.htm"
+   },
+   {
+    "kind": "Archive",
+    "site": "Archnet",
+    "url": "https://archnet.org/sites/3079"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20046303"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=33.51231&mlon=36.29134#map=17/33.51231/36.29134"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sulaymaniyya_Takiyya"
+ },
  "taliesin-west": {
   "links": [
    {
@@ -28485,6 +28855,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/The_Shard"
  },
+ "the-smiling-lion": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-25.96277&mlon=32.59049#map=17/-25.96277/32.59049"
+   }
+  ],
+  "wiki": null
+ },
  "theatre-des-champs-elysees": {
   "links": [
    {
@@ -28910,6 +29290,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Tomb_of_Hafez"
  },
+ "tomb-of-nader-shah": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=36.29486&mlon=59.61044#map=17/36.29486/59.61044"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Tomb_of_Nader_Shah"
+ },
  "torino-esposizioni-hall-b": {
   "links": [
    {
@@ -29329,6 +29719,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "town-house-kingston-university": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/933169/kignston-university-town-house-grafton-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.kingston.ac.uk/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.40350&mlon=-0.30390#map=17/51.40350/-0.30390"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kingston_University"
  },
  "toyo-ito-museum-of-architecture": {
   "links": [
