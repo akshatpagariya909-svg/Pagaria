@@ -342,9 +342,10 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
   .bar-end { display: none; }
   #filterBtn { padding: 0 12px; }
   .ideas { padding: 0 12px 8px; }
-  .sheet { padding: 0 0 calc(76px + env(safe-area-inset-bottom, 0px)); }
-  .card { grid-template-columns: 1fr; grid-template-rows: 50% 50%; width: 100%; height: 100%; border-radius: 0 0 var(--r-panel) var(--r-panel); }
-  .info { padding: 18px 16px 24px; }
+  /* On a phone the opened building fills the screen and the dock floats over it; the text scrolls clear of the dock. */
+  .sheet { padding: 0; }
+  .card { grid-template-columns: 1fr; grid-template-rows: 50% 50%; width: 100%; height: 100%; border-radius: 0; }
+  .info { padding: 18px 16px calc(90px + env(safe-area-inset-bottom, 0px)); }
   .rel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .filters { padding: 0; }
   .fp { width: 100%; height: 100%; border-radius: 0; border: 0; }
