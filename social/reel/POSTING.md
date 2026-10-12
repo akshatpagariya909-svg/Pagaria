@@ -4,7 +4,7 @@ Files: the reel (`discover-architecture-reel-final.mp4`, sent in chat), `cover.j
 
 ## Before posting (once)
 - Professional account (Creator, category Education), bio and link done from the setup checklist.
-- Bio link: `https://akshatpagariya909-svg.github.io/Pagaria/?ref=instagram` (the `?ref=` tag lets the visit counter show Instagram visits once it is added).
+- Bio link: `https://discoverarchitecture.github.io/?ref=instagram` (the `?ref=` tag lets the visit counter show Instagram visits once it is added).
 
 ## Posting
 1. New post → Reel → choose the video. Don't add filters or trim it.
