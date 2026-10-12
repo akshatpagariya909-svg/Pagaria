@@ -1,14 +1,6 @@
 {
  "villa-savoye": [
   [
-   "File:Cartello Patrimonio xx secolo.jpg",
-   "Exterior"
-  ],
-  [
-   "File:Cartello stradale in Rue de Villiers.jpg",
-   "Exterior"
-  ],
-  [
    "File:Villa Savoye (8237925975).jpg",
    "Exterior"
   ],
@@ -26,6 +18,14 @@
   ],
   [
    "File:Les heures claires...^1 - Flickr - Biscarotte.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Cartello Patrimonio xx secolo.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Cartello stradale in Rue de Villiers.jpg",
    "Exterior"
   ]
  ],
@@ -67,7 +67,35 @@
    "Exterior"
   ],
   [
+   "File:Diorama da unidade de habitação de marselha (51560941265).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51559227957).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51560017256).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51559227647).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51560017561).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51560254783).jpg",
+   "Exterior"
+  ],
+  [
    "File:France - Marseille (30510923005).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51560254698).jpg",
    "Exterior"
   ],
   [
@@ -83,19 +111,27 @@
    "Exterior"
   ],
   [
-   "File:Views of Marseille from the Cité radieuse 2.jpg",
+   "File:Diorama da unidade de habitação de marselha (51560940700).jpg",
    "Exterior"
   ],
   [
-   "File:Views of Marseille from the Cité radieuse 3.jpg",
+   "File:Diorama da unidade de habitação de marselha (51560940765).jpg",
    "Exterior"
   ],
   [
-   "File:Marseille Le Corbusier.jpg",
+   "File:Diorama da unidade de habitação de marselha (51559227767).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Diorama da unidade de habitação de marselha (51560017686).jpg",
    "Exterior"
   ]
  ],
  "notre-dame-du-haut": [
+  [
+   "File:Campanile (Ronchamp).jpg",
+   "Exterior"
+  ],
   [
    "File:Oratoire - intérieur - objets (1).jpg",
    "Interior"
@@ -177,19 +213,15 @@
    "Exterior"
   ],
   [
+   "File:Notre Dame du Haut Glocken(ws).jpg",
+   "Exterior"
+  ],
+  [
    "File:Riss der Notre Dame du Haut (1922).jpg",
    "Exterior"
   ],
   [
    "File:Oratoire - intérieur - objets (2).jpg",
-   "Interior"
-  ],
-  [
-   "File:Ancienne Chapelle de Ronchamp.jpg",
-   "Exterior"
-  ],
-  [
-   "File:Oratoire - intérieur - objets (3).jpg",
    "Interior"
   ]
  ],
@@ -8139,6 +8171,104 @@
   ],
   [
    "File:Vicenza, La Rotonda, interno (16).jpg",
+   "Interior"
+  ]
+ ],
+ "pinacoteca-do-estado-de-sao-paulo": [
+  [
+   "File:Pinacoteca de São Paulo 6.jpg",
+   "Interior"
+  ],
+  [
+   "File:Chandeliers in Pinacoteca of Sao Paulo.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca de São Paulo, Brazil.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca de Sao Paulo.jpg",
+   "Interior"
+  ],
+  [
+   "File:Exposição na Pinacoteca.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Exterior da Pinacoteca.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Interior da Pinacoteca.jpg",
+   "Interior"
+  ],
+  [
+   "File:Obra Pinacoteca.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca (área interna).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca - São Paulo (1).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca - São Paulo (2).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca - São Paulo (3).jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo .jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo, Luz, São Paulo - 2023-10-30 - DSC09047.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo, Luz, São Paulo - 2023-10-30 - DSC09048.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo, Luz, São Paulo - 2023-10-30 - DSC09049.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo, Luz, São Paulo - 2023-10-30 - DSC09050.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo, Luz, São Paulo - 2023-10-30 - DSC09051.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca do Estado de São Paulo.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca exterior.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca área interna.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Rampas da Pinacoteca.jpg",
+   "Exterior"
+  ],
+  [
+   "File:Pinacoteca de Sao Paulo 2.jpg",
+   "Interior"
+  ],
+  [
+   "File:Pinacoteca de São Paulo detalhes parte interna.jpg",
    "Interior"
   ]
  ]
