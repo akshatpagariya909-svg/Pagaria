@@ -1,2 +1,2 @@
---minutes 300
-Fetch photos for the 25 approved batch 3 buildings.
+--only villa-savoye,unite-dhabitation,notre-dame-du-haut,barcelona-pavilion,farnsworth-house,seagram-building,fallingwater,glass-house,golconde,salk-institute,kimbell-art-museum,sydney-opera-house,sangath,therme-vals,church-of-the-light,centre-pompidou,30-st-mary-axe,kiasma,the-glasshouse,palais-garnier,casa-malaparte,glasgow-school-of-art,teatro-oficina
+Photo upgrade trial: size-aware lead, plans, sections, elevations, sketches and models, on 25 well-known buildings.

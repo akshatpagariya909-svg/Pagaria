@@ -154,7 +154,7 @@ def building_page(b, items):
     if ims:
         figs = ''.join(
             f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(b["name"])}: {e(im["caption"])}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
-            f'<figcaption><b>{k + 1}/{len(ims)} · {e(im["caption"])}</b><span>{(("" if im.get("kind") == "Drawing" else "Photo: ") + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
+            f'<figcaption><b>{k + 1}/{len(ims)} · {e(im["caption"])}</b><span>{(("" if im["src"].endswith(".svg") else "Photo: ") + e(im["credit"].rstrip(".")) + " · ") if im.get("credit") else ""}{e(im["license"])}'
             f'{(" · <a href=" + chr(34) + e(im["source"]) + chr(34) + ">source</a>") if im.get("source") else ""}</span></figcaption></figure>'
             for k, im in enumerate(ims))
         thumbs = ''.join(f'<a href="#photo-{k + 1}"><img src="{e(at(up, im["thumb"]))}" alt="Photo {k + 1}: {e(im["caption"])}" loading="lazy"></a>' for k, im in enumerate(ims))
