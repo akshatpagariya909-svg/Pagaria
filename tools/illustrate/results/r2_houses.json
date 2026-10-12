@@ -752,5 +752,228 @@
    "https://commons.wikimedia.org/wiki/File:House_VI_in_Cornwall,_Connecticut._Architect_Peter_Eisenman.tif"
   ],
   "note": "One photo taken in 1977 (1627x1055, TIFF), CC BY-SA 4.0. There is also File:Peter Eisenman House VI.png (1200x900, CC BY-SA 4.0) of uncertain content. Eisenman's houses are usually called post-structuralist or proto-deconstructivist; 'Deconstructivism' is the nearest in the list."
+ },
+ {
+  "id": "healy-guest-house",
+  "name": "Healy Guest House (Cocoon House)",
+  "by": "Paul Rudolph and Ralph Twitchell",
+  "city": "Sarasota",
+  "cc": "US",
+  "year": "1950",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Tensile structure",
+   "Climate response",
+   "Water"
+  ],
+  "features": "Small guest house on the bayou with a sagging roof hung like a cocoon between steel straps; louvred walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cocoon House (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cocoon House 2 (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cocoon House 3 (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Healy Guest House (Cocoon House) - Conceptual Drawing - Paul Rudolph 1949.jpg",
+    "kind": "Sketch",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Healy Guest House (Cocoon House) - Floor Plan - Paul Rudolph, Architect.jpg",
+    "kind": "Plan",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Cocoon House - Site Plan (Paul Rudolph, Architect, FAIA).jpg",
+    "kind": "Plan",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Cocoon_House_(Paul_Rudolph_and_Ralph_Twitchell,_Architects).jpg"
+  ],
+  "note": "Three free photos plus public-domain plans and a concept sketch. Siesta Key, Sarasota."
+ },
+ {
+  "id": "gwathmey-residence-and-studio",
+  "name": "Gwathmey Residence and Studio",
+  "by": "Charles Gwathmey",
+  "city": "Amagansett",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Timber"
+  ],
+  "features": "Two cedar-clad volumes cut from cubes and cylinders, with sharply sloped roofs and a curved stair.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://usmodernist.org/gwathmey.htm",
+   "https://www.themodernhouse.com/journal/house-of-the-day-long-island-house-by-charles-gwathmey/"
+  ],
+  "note": "No free photo on Commons. Sources describe cubes, cylinders and slanted roofs in vertical cedar, but I could not establish the exact arrangement of the cuts, curved stair and windows on each face well enough to draw it. Design 1965, completed 1966–67."
+ },
+ {
+  "id": "can-feliz",
+  "name": "Can Feliz",
+  "by": "Jørn Utzon",
+  "city": "Santanyí",
+  "cc": "ES",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Utzon's second Mallorca house: local sandstone blocks under one tiled roof, with three tall bay windows to the sea.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Can_Feliz"
+  ],
+  "note": "No free photo on Commons. Wikipedia describes three blocks under one tiled roof around a terrace, three lofty bay windows and a covered south terrace, but not enough to draw the elevation accurately. Near Portopetro / S'Horta (municipality of Santanyí; check)."
+ },
+ {
+  "id": "creek-vean",
+  "name": "Creek Vean",
+  "by": "Team 4 (Norman Foster, Wendy Cheesman, Richard Rogers, Su Brumwell)",
+  "city": "Feock",
+  "cc": "GB",
+  "year": "1966",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Promenade"
+  ],
+  "features": "Two wings stepped down a creek-side slope either side of a public stair; planted roofs let it sink into the hill.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Creek_Vean"
+  ],
+  "note": "Only free photo is File:Creek Vean House Pill Creek.jpg (531x600, CC BY-SA 2.0), below the 800px minimum. The stepped section and roof gardens are documented, but I could not pin down the creek elevation well enough to draw it. Team 4's first building."
+ },
+ {
+  "id": "hanselmann-house",
+  "name": "Hanselmann House",
+  "by": "Michael Graves",
+  "city": "Fort Wayne",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Promenade",
+   "Section"
+  ],
+  "features": "Deconstructed white cube reached by an elevated walkway through a layered front; Graves's first commission.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dwell.com/home/hanselmann-house-b287ce6c",
+   "https://inputfortwayne.com/?p=12398",
+   "https://quod.lib.umich.edu/u/ummu/x-05-03715/05_03715"
+  ],
+  "note": "No free photo found on Commons. Sources describe a deconstructed white cube, a bridge-like elevated walkway to the entrance and layered exterior spaces (double square in plan, double cube in volume), but not enough to draw each face accurately. Built 1967–71; year given as design year 1967."
+ },
+ {
+  "id": "walker-guest-house",
+  "name": "Walker Guest House",
+  "by": "Paul Rudolph",
+  "city": "Sanibel",
+  "cc": "US",
+  "year": "1953",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Modular",
+   "Timber"
+  ],
+  "features": "24-foot-square pavilion on an 8-foot grid; wooden wall panels swing up as awnings, balanced by cannonball weights.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [
+   {
+    "file": "File:Paul Rudolph - Walker Guest House Floorplan.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": "Elevation of one side: three 8-foot bays in the light frame, the left panel raised as an awning and the other two closed; the side panels propped out flat at roof level; the cannonball counterweights hanging at the corners.",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walker_Guest_House",
+   "https://paulrudolph.org/project/walker-guest-house/"
+  ],
+  "note": "No free photo on Commons (only the floor plan, 919x751). Built 1952–53 on Sanibel Island; sold in 2019, dismantled and moved to California. A full-size replica was built in 2015 by the Sarasota Architectural Foundation. Cannonball weights shown schematically at the corners."
+ },
+ {
+  "id": "marie-short-house",
+  "name": "Marie Short House",
+  "by": "Glenn Murcutt",
+  "city": "Kempsey",
+  "cc": "AU",
+  "year": "1975",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Light & shadow"
+  ],
+  "features": "Two near-identical timber pavilions on stilts under curved corrugated metal roofs; adjustable louvres for air and light.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "End elevation of the two parallel pavilions side by side: shallow roofs with rounded ridges, louvred end walls, floors raised about a metre on stumps.",
+  "after": null,
+  "sources": [
+   "https://www.ozetecture.org/marie-short-glenn-murcutt-house",
+   "https://architectureau.com/articles/revisited-marie-short-house/",
+   "https://www.environment.nsw.gov.au/news/glenn-murcutts-ground-breaking-marie-short-farmhouse-listed-on-state-heritage-register"
+  ],
+  "note": "No free photo on Commons. Sources give 1974 or 1975; Murcutt bought and extended it in 1980. Near Kempsey (Crescent Head), NSW; on the State Heritage Register. The pavilions are offset ('slipped') in plan, which an end elevation does not show; the louvre bands are schematic."
  }
 ]

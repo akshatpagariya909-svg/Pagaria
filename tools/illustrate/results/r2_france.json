@@ -581,5 +581,551 @@
    "https://en.wikipedia.org/wiki/Jakob_%2B_MacFarlane"
   ],
   "note": ""
+ },
+ {
+  "id": "rue-des-suisses-housing",
+  "name": "Rue des Suisses Housing",
+  "by": "Herzog & de Meuron",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2000",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Timber",
+   "Courtyard"
+  ],
+  "features": "Street fronts behind folding metal shutters; in the garden, low blocks wrapped in rolling wooden blinds.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:L'immeuble Herzog & de Meuron de la rue des Suisses, Paris 2007.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron"
+  ],
+  "note": "One photo, 2592x3872."
+ },
+ {
+  "id": "frac-provence-alpes-cote-d-azur",
+  "name": "FRAC Provence-Alpes-Côte d'Azur",
+  "by": "Kengo Kuma",
+  "city": "Marseille",
+  "cc": "FR",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Skin of hundreds of tilted, white-enamelled glass panels that break the facade up like pixels.",
+  "status": "photo",
+  "commons_category": "Category:FRAC Provence-Alpes-Côte d'Azur",
+  "photos": [
+   {
+    "file": "File:Marseille - FRAC-PACA (15807698284).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Marseille - FRAC-PACA (16404256426).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kengo_Kuma"
+  ],
+  "note": "Four Flickr photos, 2013."
+ },
+ {
+  "id": "luma-arles-tower",
+  "name": "LUMA Arles Tower",
+  "by": "Frank Gehry",
+  "city": "Arles",
+  "cc": "FR",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "A 56 m tower of stacked stainless-steel boxes twisting up from a glass drum that echoes the Roman arena.",
+  "status": "photo",
+  "commons_category": "Category:Luma Arles",
+  "photos": [
+   {
+    "file": "File:לומה ארל במבט כולל.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:לומה ארל מבט מהרחוב.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/LUMA_Arles"
+  ],
+  "note": "2048x2048 photos titled in Hebrew 'overall view' and 'street view'; check they show the tower clearly. Category:Tour Luma also has 2016-2022 town views where the tower is small."
+ },
+ {
+  "id": "musee-jean-cocteau-menton",
+  "name": "Musée Jean Cocteau, Séverin Wunderman Collection",
+  "by": "Rudy Ricciotti",
+  "city": "Menton",
+  "cc": "FR",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Sculptural form"
+  ],
+  "features": "A low white box on the seafront, its glass walls behind a fringe of irregular dark concrete fins.",
+  "status": "photo",
+  "commons_category": "Category:Musée Cocteau (Menton)",
+  "photos": [
+   {
+    "file": "File:Le musée Jean Cocteau, collection S. Wunderman (Menton, France) (40635031623).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Le musée Jean Cocteau (Menton, France) (47597705761).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_Jean_Cocteau"
+  ],
+  "note": "Category also holds the old Bastion museum; use the files named above."
+ },
+ {
+  "id": "musee-arles-antique",
+  "name": "Musée départemental Arles antique",
+  "by": "Henri Ciriani",
+  "city": "Arles",
+  "cc": "FR",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Light from above"
+  ],
+  "features": "Triangular plan clad in bright blue enamelled glass, set beside the remains of the Roman circus.",
+  "status": "photo",
+  "commons_category": "Category:Musée de l'Arles antique",
+  "photos": [
+   {
+    "file": "File:Musee de l'Arles antique.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Museearlesantique.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_Arles_antique"
+  ],
+  "note": ""
+ },
+ {
+  "id": "historial-de-la-grande-guerre",
+  "name": "Historial de la Grande Guerre",
+  "by": "Henri Ciriani",
+  "city": "Péronne",
+  "cc": "FR",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Monumentality"
+  ],
+  "features": "White concrete galleries added behind the medieval castle of Péronne, looking over a pond.",
+  "status": "photo",
+  "commons_category": "Category:Historial de la Grande Guerre in Péronne (Somme)",
+  "photos": [
+   {
+    "file": "File:CAM Historial.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Historial_de_la_Grande_Guerre"
+  ],
+  "note": "Only CAM Historial.jpg (2888x2200, rear view over the pond) shows Ciriani's building; the other exterior files show the castle."
+ },
+ {
+  "id": "fondation-avicenne",
+  "name": "Fondation Avicenne (Maison de l'Iran)",
+  "by": "Claude Parent, André Bloc, Mohsen Foroughi, Heydar Ghiai",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1969",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "features": "Student rooms in blocks hung from giant steel portal frames, lifted clear of the ground.",
+  "status": "photo",
+  "commons_category": "Category:Fondation Avicenne",
+  "photos": [
+   {
+    "file": "File:Montrouge 92120 Boulevard Romain Rolland towards Fondation Avicienne.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cité internationale sud.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Claude_Parent"
+  ],
+  "note": "Both files are in the building's category, but one looks down a boulevard towards it and the other is a general view of the south of the Cité; check how large the building is in frame. If neither is good enough it is a strong drawing candidate."
+ },
+ {
+  "id": "unesco-headquarters",
+  "name": "UNESCO Headquarters",
+  "by": "Marcel Breuer, Pier Luigi Nervi, Bernard Zehrfuss",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1958",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "Y-shaped Secretariat on sculpted concrete pilotis, beside a conference hall with a folded concrete roof.",
+  "status": "photo",
+  "commons_category": "Category:UNESCO headquarters",
+  "photos": [
+   {
+    "file": "File:Architecture, Paris UNESCO House - UNESCO - PHOTO0000002877 0000.tiff",
+    "license": "CC BY-SA 3.0 IGO"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UNESCO_headquarters"
+  ],
+  "note": "Category holds 177 files, mostly UNESCO archive scans (CC BY-SA 3.0 IGO). The named file shows the Avenue de Suffren entrance with the Secretariat on the right; exact file title abbreviated by the API summary, check it."
+ },
+ {
+  "id": "maison-de-la-radio",
+  "name": "Maison de la Radio",
+  "by": "Henry Bernard",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1963",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "A ring of offices nearly 500 m round, with a tall archive tower at its centre, on the bank of the Seine.",
+  "status": "photo",
+  "commons_category": "Category:Maison de la Radio (Paris)",
+  "photos": [
+   {
+    "file": "File:Radio France @ Ile aux Cygnes @ Paris (41147366065).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Front-de-Seine2014 016.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maison_de_la_Radio"
+  ],
+  "note": "Exact file names were abbreviated by the API summary; look them up in the category."
+ },
+ {
+  "id": "orgues-de-flandre",
+  "name": "Les Orgues de Flandre",
+  "by": "Martin Schulz van Treeck",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1980",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Megastructure",
+   "Geometry"
+  ],
+  "features": "Housing towers that step up and down like organ pipes, named after musical forms.",
+  "status": "photo",
+  "commons_category": "Category:Orgues de Flandre",
+  "photos": [
+   {
+    "file": "File:Orgues Flandre vus depuis Belvédère Buttes Chaumont Paris 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paris, 19e arrondissement (10775668144).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orgues_de_Flandre"
+  ],
+  "note": ""
+ },
+ {
+  "id": "villa-dall-ava",
+  "name": "Villa dall'Ava",
+  "by": "OMA, Rem Koolhaas",
+  "city": "Saint-Cloud",
+  "cc": "FR",
+  "year": "1991",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Pilotis",
+   "Cantilever",
+   "Water"
+  ],
+  "features": "Two boxes on thin, randomly tilted columns, with a rooftop pool aimed at the Eiffel Tower.",
+  "status": "photo",
+  "commons_category": "Category:Villa dall'Ava",
+  "photos": [
+   {
+    "file": "File:Villa dall'Ava, Brutarchitekt.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Villa dall'Ava.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Section-villa-dall-ava.jpg",
+    "kind": "Section",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_dall%27Ava"
+  ],
+  "note": "The 3024x3024 file's description reads only 'Haus Boudet', so check it shows the villa; Villa dall'Ava.jpg is 779x1000 (passes the 800px rule)."
+ },
+ {
+  "id": "pavillon-noir",
+  "name": "Pavillon Noir",
+  "by": "Rudy Ricciotti",
+  "city": "Aix-en-Provence",
+  "cc": "FR",
+  "year": "2006",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "A dance centre in a glass box held by a black concrete exoskeleton of slanting struts.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Le Pavillon Noir (205248751).jpeg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rudy_Ricciotti"
+  ],
+  "note": "Found by a search for Pavillon Noir Aix Ricciotti (2048x1356). Category:Pavillon Noir is an unrelated festival stage."
+ },
+ {
+  "id": "tour-cma-cgm",
+  "name": "CMA CGM Tower",
+  "by": "Zaha Hadid Architects",
+  "city": "Marseille",
+  "cc": "FR",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "A 147 m glass tower whose curved lines sweep down and split apart at its base by the port.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Coastal panorama with CMA CGM tower Marseille 2026.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CMA_CGM_Tower"
+  ],
+  "note": "Only one free file (5660x4240), a coastal panorama naming the tower; check it is large enough in frame. If not, this is a drawing candidate."
+ },
+ {
+  "id": "fondation-jerome-seydoux-pathe",
+  "name": "Fondation Jérôme Seydoux-Pathé",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Courtyard",
+   "Light from above"
+  ],
+  "features": "A curved shell of perforated aluminium rising in a courtyard behind a facade carved by Rodin.",
+  "status": "photo",
+  "commons_category": "Category:Fondation Jérôme Seydoux-Pathé",
+  "photos": [
+   {
+    "file": "File:Fondation Jérôme Seydoux-Pathé (30986133898).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Fondation Jérôme Seydoux-Pathé (29922082557).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fondation_J%C3%A9r%C3%B4me_Seydoux-Path%C3%A9"
+  ],
+  "note": "Descriptions don't say whether they show the shell or the street facade; check."
+ },
+ {
+  "id": "musee-de-la-romanite",
+  "name": "Musée de la Romanité",
+  "by": "Elizabeth de Portzamparc",
+  "city": "Nîmes",
+  "cc": "FR",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "A rippling 'toga' of thousands of glass squares, facing the Roman amphitheatre across a square.",
+  "status": "photo",
+  "commons_category": "Category:Musée de la Romanité",
+  "photos": [
+   {
+    "file": "File:Musée de la Romanité de Nîmes.jpeg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Jardin du Musée de la Romanité.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_la_Romanit%C3%A9"
+  ],
+  "note": "The first file's description is just a date; check it shows the facade."
+ },
+ {
+  "id": "le-volcan-le-havre",
+  "name": "Le Volcan",
+  "by": "Oscar Niemeyer",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "A white truncated cone and a smaller one rise from a sunken public square.",
+  "status": "photo",
+  "commons_category": "Category:Le Volcan, Le Havre",
+  "photos": [
+   {
+    "file": "File:2017-04 Le Havre- 015-20170422 (33868135563).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Le Havre - Le Volcan (31455958847).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Volcan"
+  ],
+  "note": "34 files in the category."
  }
 ]

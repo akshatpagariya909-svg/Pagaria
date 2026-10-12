@@ -1,0 +1,317 @@
+[
+ {
+  "id": "aldar-headquarters",
+  "name": "Aldar Headquarters",
+  "by": "MZ Architects",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "A 23-floor office building shaped as a single circular disc, held by a diagonal steel grid.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation of the disc face, showing the circle set into the ground and its diagrid",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aldar_headquarters_building"
+  ],
+  "note": "Only Commons file is File:Al Dar Hq architecutal view.jpg (641x350, CC BY-SA 4.0), below 800px. Wikipedia: 110 m, 23 floors, steel diagrid, circle sunk into the ground by a golden-ratio depth. Diagrid density is simplified."
+ },
+ {
+  "id": "sheikh-zayed-bridge",
+  "name": "Sheikh Zayed Bridge",
+  "by": "Zaha Hadid",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2010",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Steel arches that rise and dip like a dune wave across the water, carrying the road deck between them.",
+  "status": "photo",
+  "commons_category": "Category:Sheikh Zayed Bridge",
+  "photos": [
+   {
+    "file": "File:جسر الشيخ زايد.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Abu Dhabi 2013 - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheikh_Zayed_Bridge"
+  ],
+  "note": "The Arabic-named file (3264x2448, Flickr) is titled after the bridge. Abu Dhabi 2013 - panoramio (1280x685) is in the bridge category but untitled; check it shows the arches."
+ },
+ {
+  "id": "uae-pavilion-expo-2020",
+  "name": "UAE Pavilion, Expo 2020",
+  "by": "Santiago Calatrava",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2020",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "features": "Roof of 28 carbon-fibre wings that open and close, shaped like a falcon in flight.",
+  "status": "photo",
+  "commons_category": "Category:United Arab Emirates Pavilion at EXPO 2020",
+  "photos": [
+   {
+    "file": "File:Pavilhão Emirates (51630068482).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Pavilhão Emirates (51630073292).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Expo_2020",
+   "https://globaldesignnews.com/santiago-calatravas-uae-pavilion-features-28-movable-wings-that-make-up-the-roof-evoke-a-majestic-falcon-and-can-fully-open-within-three-minutes/"
+  ],
+  "note": "32 Flickr photos (6720x4480, CC BY 2.0, Brazilian government) in the category; first one checked by metadata only. Expo opened in 2021; building completed 2020."
+ },
+ {
+  "id": "dubai-frame",
+  "name": "Dubai Frame",
+  "by": "Fernando Donis",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2018",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Void",
+   "Monumentality"
+  ],
+  "features": "Two 150 m towers joined by a glass-floored bridge, framing old Dubai on one side and the new city on the other.",
+  "status": "photo",
+  "commons_category": "Category:Dubai Frame",
+  "photos": [
+   {
+    "file": "File:Dubai Frame View-Dubai UAE-Andres Larin.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:190410 Dubai Frame.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:DONIS Dubai Frame Nighttime.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dubai_Frame"
+  ],
+  "note": "Built by Hyder Consulting from Donis's competition design; 150 m tall, 95.5 m wide. UAE has no freedom of panorama, so these files may be deleted later."
+ },
+ {
+  "id": "dubai-world-trade-centre",
+  "name": "Dubai World Trade Centre",
+  "by": "John R. Harris",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1979",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Exposed concrete",
+   "Climate response"
+  ],
+  "features": "Dubai's first high-rise: a concrete tower whose deep-set arched windows shade the glass from the desert sun.",
+  "status": "photo",
+  "commons_category": "Category:Dubai World Trade Centre",
+  "photos": [
+   {
+    "file": "File:Dubai World Trade Centre and skyline.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Etisalat Tower 2, Dubai World Trade Centre, and Dubai World Trade Centre Residence on 14 September 2007.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dubai_World_Trade_Centre"
+  ],
+  "note": "Wikipedia gives 184 m, opened 26 February 1979 as Sheikh Rashid Tower, by John R. Harris and Partners. The arched-window feature is from general knowledge; check before use."
+ },
+ {
+  "id": "al-bahr-towers",
+  "name": "Al Bahr Towers",
+  "by": "Aedas (now AHR)",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Parametric"
+  ],
+  "features": "About 2,000 umbrella-like screens, a moving mashrabiya, open and close automatically with the sunlight.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Fountain and Al Bahr Towers - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Al_Bahr_Towers"
+  ],
+  "note": "Only one free file (5184x3456, Panoramio) and no Commons category; a fountain is in the foreground, so check the towers are clear. If not, this is a good drawing candidate."
+ },
+ {
+  "id": "the-opus",
+  "name": "The Opus",
+  "by": "Zaha Hadid Architects",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2020",
+  "type": "Hospitality",
+  "movement": "Parametric",
+  "concepts": [
+   "Void",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "A glass cube with a free-form void carved through its middle, splitting it into two towers joined above and below.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation of the cube, with the free-form void cut through it and its inner glass face beyond; lines mark every second floor",
+  "after": null,
+  "sources": [
+   "https://wallpaper.com/architecture/opus-dubai-zaha-hadid-architects-uae",
+   "https://www.arc-magazine.com/opus-by-omniyat-uae/",
+   "https://newatlas.com/opus-zaha-hadid-architects/61051/"
+  ],
+  "note": "No Commons category and no files found. Sources: two towers read as one cube; eight-storey free-form void; four-storey atrium links the towers at ground level and an asymmetric 38 m wide, three-storey bridge at 71 m. Height given as about 93 m by one source. The void outline is simplified from published descriptions; houses the ME Dubai hotel and offices."
+ },
+ {
+  "id": "dubai-opera",
+  "name": "Dubai Opera",
+  "by": "Janus Rostock, Atkins",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2016",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Plan shaped like a dhow: the stage and seats in the bow, foyers and drop-off in the long hull.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dubai_Opera",
+   "https://wernersobek.com/projects/dubai-opera-house",
+   "https://koltayfacades.com/projects/dubai-opera-house"
+  ],
+  "note": "No free exterior photo: Category:Dubai Opera House holds only interior and event photos (e.g. File:Inside the Dubai Opera.jpg, 2736x3648, CC BY 2.0). Not drawn: sources give 44 m height and say the dhow shape is in plan, with faceted inclined glazing, but no length or elevation, so the silhouette can't be drawn with confidence."
+ },
+ {
+  "id": "house-of-wisdom-sharjah",
+  "name": "House of Wisdom",
+  "by": "Foster + Partners",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "2020",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "A thin floating roof overhangs the two-storey glass library by 15 m on every side, shading it from the desert sun.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation: the flat roof plane overhanging a two-storey glazed box wrapped in vertical aluminium screens",
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2021/03/11/foster-partners-the-house-of-wisdom-sharjah-library/",
+   "https://designinglibraries.org.uk/news/2022-news/house-of-wisdom/",
+   "https://www.tradelinkmedia.biz/publications/6/news/4852"
+  ],
+  "note": "No Commons category or files found. Sources: two-storey rectilinear glass building, roof overhangs 15 m in all directions, carried by four internal cores (no perimeter columns), fixed aluminium screens outside. Proportions estimated from the 13,000 m2 two-level floor area; the screen spacing is schematic. Opened 2020 for Sharjah World Book Capital 2019."
+ },
+ {
+  "id": "aspire-tower",
+  "name": "Aspire Tower (The Torch Doha)",
+  "by": "Hadi Simaan, AREP",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2007",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "A 300 m concrete core with floors cantilevered off it, wrapped in steel mesh and topped by a lattice torch.",
+  "status": "drawn",
+  "commons_category": "Category:Aspire Tower",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: flared base, slim waist and wider top (about 70, 27 and 45 m across), the lattice cone above the 238 m observatory and the petal-shaped flame holder",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aspire_Tower",
+   "https://www.skyscrapercenter.com/building/wd/535",
+   "https://www.besix.com/en/projects/aspire-tower",
+   "https://structurae.net/en/structures/aspire-tower"
+  ],
+  "note": "The Commons category holds only Category:Incidental views of Aspire Tower (park panoramas, fireworks, a sunset silhouette); no file shows the tower clearly. Built for the 2006 Asian Games (held the flame); Wikipedia dates conflict (2007 completion). Outline follows the published widths; mesh and lattice lines are schematic. The pool cantilevered at 80 m is left out."
+ }
+]

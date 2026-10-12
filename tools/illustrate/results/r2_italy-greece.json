@@ -854,5 +854,522 @@
    "https://commons.wikimedia.org/wiki/Category:Villa_La_Saracena_(Santa_Marinella)"
   ],
   "note": "Only one photo (Paolo Monti, 1280px); check it shows the exterior."
+ },
+ {
+  "id": "banca-popolare-di-verona",
+  "name": "Banca Popolare di Verona",
+  "by": "Carlo Scarpa, Arrigo Rudi",
+  "city": "Verona",
+  "cc": "IT",
+  "year": "1981",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Stone facade on Piazza Nogara pierced by scattered round windows, topped by a loggia under a thin roof.",
+  "status": "photo",
+  "commons_category": "Category:Piazza Nogara (Verona)",
+  "photos": [
+   {
+    "file": "File:BPV Verona 1.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:BPV_Verona_1.JPG"
+  ],
+  "note": "Only a 900px photo (described as the bank's main headquarters on Piazza Nogara), usable under the 800px rule; the larger Piazza Nogara photos may also show it. Finished by Arrigo Rudi after Scarpa's death (1978)."
+ },
+ {
+  "id": "ceramica-solimene",
+  "name": "Ceramica Artistica Solimene",
+  "by": "Paolo Soleri",
+  "city": "Vietri sul Mare",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A ceramics factory whose facade is a wall of clay pots set in tapering cones, wrapped round a spiral ramp.",
+  "status": "photo",
+  "commons_category": "Category:Ceramica Artistica Solimene Vincenzo",
+  "photos": [
+   {
+    "file": "File:Vietri sul mare (02).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Vietri sul mare (03).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Vietri sul mare (04).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ceramica_Artistica_Solimene_Vincenzo"
+  ],
+  "note": "Completion year approximate (1951-55); check before publishing."
+ },
+ {
+  "id": "olivetti-pozzuoli",
+  "name": "Olivetti Factory, Pozzuoli",
+  "by": "Luigi Cosenza",
+  "city": "Pozzuoli",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Human comfort",
+   "Courtyard"
+  ],
+  "features": "A humane factory laid out in low wings and gardens facing the Gulf of Pozzuoli.",
+  "status": "photo",
+  "commons_category": "Category:Olivetti (Pozzuoli)",
+  "photos": [
+   {
+    "file": "File:Paolo Monti - Servizio fotografico (Pozzuoli, 1965) - BEIC 6355836.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paolo Monti - Servizio fotografico (Pozzuoli, 1965) - BEIC 6356016.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Olivetti_(Pozzuoli)"
+  ],
+  "note": "Two Paolo Monti photos (1280px and 1043px); check they show the exterior."
+ },
+ {
+  "id": "chiesa-di-longarone",
+  "name": "Santa Maria Immacolata, Longarone",
+  "by": "Giovanni Michelucci",
+  "city": "Longarone",
+  "cc": "IT",
+  "year": "1983",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Rebuilt after the 1963 Vajont flood: a concrete church whose roof is a curved open-air amphitheatre.",
+  "status": "photo",
+  "commons_category": "Category:Santa Maria Immacolata (Longarone)",
+  "photos": [
+   {
+    "file": "File:Longarone (BL) - chiesa di Santa Maria Immacolata.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Santa_Maria_Immacolata_(Longarone)"
+  ],
+  "note": "Rebuilt after the 1963 Vajont disaster; completion year approximate (1975-83)."
+ },
+ {
+  "id": "xenia-hotel-mykonos",
+  "name": "Xenia Hotel, Mykonos",
+  "by": "Aris Konstantinidis",
+  "city": "Mykonos",
+  "cc": "GR",
+  "year": "1960",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Low whitewashed volumes and stone walls step with the ground, reading the Cycladic village in a modern frame.",
+  "status": "photo",
+  "commons_category": "Category:Aris Konstantinidis",
+  "photos": [
+   {
+    "file": "File:1970-9-16 Mykonos - Hotel Xenia.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Aris_Konstantinidis"
+  ],
+  "note": "One 1970 photo; year of completion approximate."
+ },
+ {
+  "id": "archaeological-museum-of-ioannina",
+  "name": "Archaeological Museum of Ioannina",
+  "by": "Aris Konstantinidis",
+  "city": "Ioannina",
+  "cc": "GR",
+  "year": "1966",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Exposed concrete"
+  ],
+  "features": "Concrete frame filled with local stone, low pavilions round a courtyard in a park.",
+  "status": "photo",
+  "commons_category": "Category:Archaeological Museum of Ioannina",
+  "photos": [
+   {
+    "file": "File:100 6975 - Kons.Ioan1.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Archaeological_Museum_of_Ioannina"
+  ],
+  "note": "Most files are of exhibits; one 2527px entrance photo plus a 960px view ('Archaeological Museum of Ioannina.jpg'). Some of the '2024' series may also show the building."
+ },
+ {
+  "id": "athens-conservatoire",
+  "name": "Athens Conservatoire",
+  "by": "Ioannis Despotopoulos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "A long grid-framed concrete block raised over an open ground floor, part of an unfinished Bauhaus-inspired cultural centre.",
+  "status": "photo",
+  "commons_category": "Category:Athens Conservatoire",
+  "photos": [
+   {
+    "file": "File:The facade of the Athens Conservatoire.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The exterior of the Athens Conservatoire.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The facade of the Athens Conservatoire (5).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Athens_Conservatoire"
+  ],
+  "note": "Designed 1959, built 1969-76."
+ },
+ {
+  "id": "hilton-athens",
+  "name": "Hilton Athens",
+  "by": "Prokopis Vassiliadis, Emmanouil Vourekas, Spyros Staikos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1963",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A gently bent white slab with engraved marble end walls, the first big International Style hotel in Athens.",
+  "status": "photo",
+  "commons_category": "Category:Hilton Athens",
+  "photos": [
+   {
+    "file": "File:The Athens Hilton as seen from the neighbourhood of Pagrati.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Athina Lykavittos Leof. V. Alexandrou.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Hilton_Athens"
+  ],
+  "note": null
+ },
+ {
+  "id": "museum-of-byzantine-culture",
+  "name": "Museum of Byzantine Culture",
+  "by": "Kyriakos Krokos",
+  "city": "Thessaloniki",
+  "cc": "GR",
+  "year": "1994",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Promenade"
+  ],
+  "features": "Brick-faced volumes and deep slots of light lead visitors on a slow route through the collection.",
+  "status": "photo",
+  "commons_category": "Category:Exterior of Museum of Byzantine Culture",
+  "photos": [
+   {
+    "file": "File:Museum of Byzantine Culture.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Museum of Byzantine Culture, Thessaloniki, Greece (9168128342).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Museum of Byzantine Culture, Thessaloniki, Greece (9182809550).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Exterior_of_Museum_of_Byzantine_Culture"
+  ],
+  "note": null
+ },
+ {
+  "id": "blue-building-athens",
+  "name": "Blue Building (Blue Condominium)",
+  "by": "Kyriakos Panagiotakos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1933",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Cantilever",
+   "Community"
+  ],
+  "features": "Interwar apartment block on Exarchia Square with curved cantilevered balconies and a shared roof garden.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:\"Blue condominium\" in Athens.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Blue+Building+Exarchia"
+  ],
+  "note": "Only one file found; no category."
+ },
+ {
+  "id": "lycabettus-theatre",
+  "name": "Lycabettus Theatre",
+  "by": "Takis Zenetos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1965",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Prefabrication",
+   "Public space"
+  ],
+  "features": "An open-air theatre in an old quarry on Lycabettus hill, its seating built as a light, demountable steel frame.",
+  "status": "photo",
+  "commons_category": "Category:Lycabettus Theatre",
+  "photos": [
+   {
+    "file": "File:The Theatre of Lycabettus on November 30, 2019.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lycabettus Theatre, 225902.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lycabettus theatre. - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Lycabettus_Theatre"
+  ],
+  "note": "Zenetos's original 1965 seating has since been rebuilt; check what the photos show."
+ },
+ {
+  "id": "punta-nave-rpbw",
+  "name": "Renzo Piano Building Workshop, Punta Nave",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "1991",
+  "type": "Workplace",
+  "movement": "High-tech",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Steel & glass"
+  ],
+  "features": "Piano's own studio: glass roofs stepping down terraces to the sea, reached by a small funicular.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Particolare del Renzo Piano Building Workshop a Genova Vesima (Punta Nave), luglio 2013.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Punta+Nave+Piano"
+  ],
+  "note": "Only an 809px detail photo; usable under the 800px rule if it clearly shows the building. If not, this is a good candidate to draw (stepped glass roofs down the hillside)."
+ },
+ {
+  "id": "casa-del-girasole",
+  "name": "Casa del Girasole",
+  "by": "Luigi Moretti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1950",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "A rusticated stone base and a front split down the middle under a broken, gable-like roof: modernism playing with the classical.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6356070.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6356070 sw.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_-_BEIC_6356070.jpg"
+  ],
+  "note": "Only Paolo Monti's 1951 photo (1242px), filed under Viale Bruno Buozzi / Luigi Moretti / built 1950 but not named; it should be the Girasole (Viale Bruno Buozzi 64). Check before use."
+ },
+ {
+  "id": "scuola-fagnano-olona",
+  "name": "Elementary School, Fagnano Olona",
+  "by": "Aldo Rossi",
+  "city": "Fagnano Olona",
+  "cc": "IT",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Classrooms round a courtyard with a cylindrical library, a chimney and a stepped stair like a small theatre.",
+  "status": "photo",
+  "commons_category": "Category:Aldo Rossi",
+  "photos": [
+   {
+    "file": "File:Schule in Fagnano Olona.1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Schule in Fagnano Olona.2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Schule in Fagnano Olona.3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Aldo_Rossi"
+  ],
+  "note": "No dedicated category; files sit directly in Category:Aldo Rossi."
+ },
+ {
+  "id": "casa-papanice",
+  "name": "Casa Papanice",
+  "by": "Paolo Portoghesi, Vittorio Gigliotti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1970",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Curving walls and a ribbed facade of coloured ceramic-tube 'organ pipes' spread out from the corners.",
+  "status": "photo",
+  "commons_category": "Category:Casa Papanice",
+  "photos": [
+   {
+    "file": "File:Casa Papanice a Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Casa_Papanice"
+  ],
+  "note": "Most of the category is film stills; one 5589px building photo."
  }
 ]

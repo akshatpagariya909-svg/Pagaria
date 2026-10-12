@@ -1,0 +1,467 @@
+[
+ {
+  "id": "4x4-house",
+  "name": "4x4 House",
+  "by": "Tadao Ando",
+  "city": "Kobe",
+  "cc": "JP",
+  "year": "2003",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Water"
+  ],
+  "features": "Four-storey concrete tower on a 4 x 4 m plot by the sea; the top-floor cube is shifted 1 m toward the water.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation with the sea to the right: the 4 x 4 m tower and the top-floor cube shifted 1 m toward the water",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/4x4_house",
+   "https://archup.net/4x4-house-kobe/",
+   "https://illustrarch.com/architecture-news/77226-tadao-ando-4x4-house.html"
+  ],
+  "note": "No photos on Commons. Drawn from the published facts (4 x 4 m plan, four storeys, about 13.4 m tall, top cube offset 1 m toward the Inland Sea). Windows left out because sources do not describe their sizes; the wooden twin (4x4 House II, 2004) next door is not shown."
+ },
+ {
+  "id": "sky-house",
+  "name": "Sky House",
+  "by": "Kiyonori Kikutake",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1958",
+  "type": "House",
+  "movement": "Metabolism",
+  "concepts": [
+   "Pilotis",
+   "Exposed concrete",
+   "Modular"
+  ],
+  "features": "A 10 x 10 m room raised on four wall-piers at the middle of each side, under a thin shell roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sky house, Bukyo.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://placesjournal.org/article/kiyonori-kikutake-structuring-the-future/",
+   "https://commons.wikimedia.org/wiki/File:Sky_house,_Bukyo.jpg"
+  ],
+  "note": "One free photo (2432 x 1824, March 2024, in Category:Works by architect Kiyonori Kikutake). No dedicated Commons category. Kikutake's own house in Bunkyo, Tokyo."
+ },
+ {
+  "id": "tower-of-winds",
+  "name": "Tower of Winds",
+  "by": "Toyo Ito",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": "1986",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "Vent tower wrapped in perforated aluminium; its lights changed with the wind and street noise.",
+  "status": "photo",
+  "commons_category": "Category:Tower of Winds",
+  "photos": [
+   {
+    "file": "File:Tower of Winds.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tower of Winds2.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Tower_of_Winds"
+  ],
+  "note": "Two night photos, 1200 x 1500 each, showing the lit tower. Ventilation tower over an underground mall at Yokohama station; the lighting installation was later removed."
+ },
+ {
+  "id": "silver-hut",
+  "name": "Silver Hut",
+  "by": "Toyo Ito",
+  "city": "Imabari",
+  "cc": "JP",
+  "year": "1984",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Vault"
+  ],
+  "features": "Ito's own house: a courtyard under a field of thin steel-frame vaults, light enough to feel like a tent.",
+  "status": "photo",
+  "commons_category": "Category:Toyo Ito Museum of Architecture, Imabari",
+  "photos": [
+   {
+    "file": "File:Toyo Ito Museum of Architecture Silver Hut.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Toyo_Ito_Museum_of_Architecture,_Imabari"
+  ],
+  "note": "The 1984 house in Nakano, Tokyo, was taken down and rebuilt in 2011 as part of the Toyo Ito Museum of Architecture in Imabari; the photo (4126 x 2674) shows the rebuilt Silver Hut there, so the city given is Imabari. The neighbouring Steel Hut is already on the wall."
+ },
+ {
+  "id": "house-n",
+  "name": "House N",
+  "by": "Sou Fujimoto",
+  "city": "Oita",
+  "cc": "JP",
+  "year": "2008",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Light from above",
+   "Free plan"
+  ],
+  "features": "Three boxes nested inside each other, each wall cut with big openings, so garden and house blur into layers.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:N House Sou FUJIMOTO 03 (3409149072).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:N House 2009.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Sou_Fujimoto"
+  ],
+  "note": "Files sit in Category:Sou Fujimoto. N House Sou FUJIMOTO 03 is 2048 x 1536 ('N House with people 2009'); N House 2009 is 768 x 1024 (exterior per its description). File:House N 2 (3406882834).jpg is an interior tatami view. Could not open the images to confirm the first one is an exterior view."
+ },
+ {
+  "id": "house-before-house",
+  "name": "House before House",
+  "by": "Sou Fujimoto",
+  "city": "Utsunomiya",
+  "cc": "JP",
+  "year": "2008",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Planting",
+   "Modular"
+  ],
+  "features": "Small white steel boxes stacked like a hill town, each with a tree on top and stairs between them.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:House Before House 2009.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:House_Before_House_2009.jpg"
+  ],
+  "note": "Only one photo, 768 x 1024: counts under the 800 px rule."
+ },
+ {
+  "id": "gc-prostho-museum",
+  "name": "GC Prostho Museum Research Center",
+  "by": "Kengo Kuma",
+  "city": "Kasugai",
+  "cc": "JP",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "A grid of small timber sticks jointed without nails, after the Cidori toy, grows into the whole building's frame.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kasugai Prostho Reseach Center ac (1).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Kasugai Prostho Reseach Center ac (2).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Kasugai Prostho Reseach Center ac (3).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kengo_Kuma"
+  ],
+  "note": "Three large photos (about 6000 x 4000, December 2020) in Category:Kengo Kuma; no own category."
+ },
+ {
+  "id": "sunnyhills-minami-aoyama",
+  "name": "SunnyHills at Minami-Aoyama",
+  "by": "Kengo Kuma",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2013",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A cake shop wrapped in a cloud of interlocking timber strips (jigoku-gumi joinery) that filters the light.",
+  "status": "photo",
+  "commons_category": "Category:SunnyHills at Minami-Aoyama",
+  "photos": [
+   {
+    "file": "File:SunnyHills Tokyo (13972861577).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Sunny Hills by Kengo Kuma.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:SunnyHills at Minami-Aoyama in Dec 2013.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:SunnyHills at Minami-Aoyama 2013 (11232449684).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:SunnyHills_at_Minami-Aoyama"
+  ],
+  "note": "It is a shop; 'Workplace' is the nearest type in the vocabulary."
+ },
+ {
+  "id": "stone-museum",
+  "name": "Stone Museum (Stone Plaza)",
+  "by": "Kengo Kuma",
+  "city": "Nasu",
+  "cc": "JP",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Adaptive reuse"
+  ],
+  "features": "Old rice stores linked by new walls of thin local Ashino stone louvres and stone screens with gaps for light.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stone Plaza.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Stone_Plaza.jpg"
+  ],
+  "note": "One photo, 2400 x 1600 (2009), in Category:Buildings by Kengo Kuma in Japan."
+ },
+ {
+  "id": "curtain-wall-house",
+  "name": "Curtain Wall House",
+  "by": "Shigeru Ban",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1995",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Free plan",
+   "Double height"
+  ],
+  "features": "A two-storey fabric curtain stands in for the outside wall; drawn back, the living floor opens to the city.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Curtain Wall House2.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Curtain_Wall_House2.jpg"
+  ],
+  "note": "One photo, 1892 x 1787, in Category:Buildings by Shigeru Ban (description just 'Curtain Wall House')."
+ },
+ {
+  "id": "gifu-kitagata-apartment",
+  "name": "Gifu Kitagata Apartment",
+  "by": "Kazuyo Sejima",
+  "city": "Motosu",
+  "cc": "JP",
+  "year": "1998",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Void"
+  ],
+  "features": "A one-room-thick housing slab whose facade grid is punched with double-height open terraces.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kitagatagifusejima.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Kitagatagifusejima.jpg"
+  ],
+  "note": "One photo, 2000 x 3008, PD-self, in Category:Buildings by Kazuyo Sejima. Kitagata town merged into Motosu city in 2004. Sejima's block is part of a larger Kitagata housing scheme with blocks by other architects."
+ },
+ {
+  "id": "kiro-san-observatory",
+  "name": "Kiro-san Observatory",
+  "by": "Kengo Kuma",
+  "city": "Imabari",
+  "cc": "JP",
+  "year": "1994",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Void"
+  ],
+  "features": "An 'invisible' lookout buried in the mountain top: a cut slot with stairs and decks over the Kurushima Strait.",
+  "status": "photo",
+  "commons_category": "Category:Mount Kirō",
+  "photos": [
+   {
+    "file": "File:Kirousan tenboudai 20240521 1.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Kirousan 20240521 2.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Kirousan 20240521 3.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Mount_Kir%C5%8D"
+  ],
+  "note": "Three CC0 photos, 1600 px wide (May 2024): the observatory, its A deck and its B deck with outside stairs. On Oshima island, now part of Imabari."
+ },
+ {
+  "id": "nira-house",
+  "name": "Nira House (Leek House)",
+  "by": "Terunobu Fujimori",
+  "city": "Machida",
+  "cc": "JP",
+  "year": "1997",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Planting",
+   "Earth & local material",
+   "Detail"
+  ],
+  "features": "Roof ridge planted with a row of leeks in pots; walls of rough-split timber and hand-finished plaster.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Nira House.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Nira_House.jpg"
+  ],
+  "note": "One photo, 1280 x 960 (Forgemind ArchiMedia Flickr), in Category:Buildings by Fujimori Terunobu. Fujimori's Coal House (Utsunomiya, 2008) also has a free photo: File:Coal House.jpg (4368 x 2912, CC BY 2.0)."
+ },
+ {
+  "id": "wall-less-house",
+  "name": "Wall-less House",
+  "by": "Shigeru Ban",
+  "city": "Karuizawa",
+  "cc": "JP",
+  "year": "1997",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Free plan",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "The floor slab curls up at the back to hold the roof, so the front needs only three 55 mm columns and no walls.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation, slope rising on the right: flat roof plate, the floor slab curving up at the back to meet it, one of the three slim front columns",
+  "after": null,
+  "sources": [
+   "https://arquitecturaviva.com/works/casa-sin-paredes-en-karuizawa-japon",
+   "https://www.architectmagazine.com/?p=170540",
+   "https://archeyes.com/?p=11367"
+  ],
+  "note": "No Commons photos. Sources agree: a one-level pavilion half dug into a wooded slope; the rear floor slab curves up to meet the flat roof and takes the earth load, so only three slim (55 mm) front columns remain, with sliding panels instead of walls. Overall length and the curve's radius are not given; proportions are approximate."
+ }
+]
