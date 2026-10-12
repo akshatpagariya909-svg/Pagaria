@@ -1149,5 +1149,32 @@
    "https://commons.wikimedia.org/wiki/File:Kalmann_01m.jpg"
   ],
   "note": "Several free photos (1974–76). Spelled Kalman or Kalmann."
+ },
+ {
+  "id": "villa-busk",
+  "name": "Villa Busk",
+  "by": "Sverre Fehn",
+  "city": "Bamble",
+  "cc": "NO",
+  "year": "1990",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Timber"
+  ],
+  "features": "A 40 m concrete and timber wing on bedrock, linked by a glazed bridge to a four-storey tower with a pyramid roof.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Side elevation across the slope: the four-storey tower with its pyramid roof on the lower ground, the glazed diagonal-braced bridge, and the long low main wing on the rock.",
+  "after": null,
+  "sources": [
+   "https://lokalhistoriewiki.no/wiki/Villa_Busk",
+   "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0734.082.002"
+  ],
+  "note": "No free photo on Commons. On Kjønnøya, Bamble; built 1987–90; listed by Riksantikvaren in 1993. Massing follows the written description (40 m wing, four-storey tower, freestanding glazed bridge with diagonal timber structure); window patterns and the wing's roof line are left plain because no source gives them. Original drawings are in the Nasjonalmuseet collection (not free)."
  }
 ]

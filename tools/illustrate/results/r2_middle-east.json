@@ -313,5 +313,809 @@
    "https://structurae.net/en/structures/aspire-tower"
   ],
   "note": "The Commons category holds only Category:Incidental views of Aspire Tower (park panoramas, fireworks, a sunset silhouette); no file shows the tower clearly. Built for the 2006 Asian Games (held the flame); Wikipedia dates conflict (2007 completion). Outline follows the published widths; mesh and lattice lines are schematic. The pool cantilevered at 80 m is left out."
+ },
+ {
+  "id": "emirates-towers",
+  "name": "Emirates Towers",
+  "by": "Hazel Wong",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2000",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Twin towers of 355 m and 309 m, an office tower and a hotel, rising from one podium on Sheikh Zayed Road.",
+  "status": "photo",
+  "commons_category": "Category:Emirates Towers",
+  "photos": [
+   {
+    "file": "File:Sh5-zayed-road.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emirates_Towers"
+  ],
+  "note": "Only one free file is filed under the towers themselves (Sh5-zayed-road.jpg, 2592x1944, in both Category:Emirates Office Tower and Category:Jumeirah Emirates Towers Hotel), a street view; check the towers are clear. Opened 15 April 2000."
+ },
+ {
+  "id": "one-zaabeel",
+  "name": "One Za'abeel",
+  "by": "Nikken Sekkei",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2023",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Structure as expression",
+   "Megastructure"
+  ],
+  "features": "Two towers on either side of a highway, threaded by The Link: 230 m long, 100 m up, cantilevering 67 m.",
+  "status": "photo",
+  "commons_category": "Category:One Za'abeel Tower",
+  "photos": [
+   {
+    "file": "File:Sheikh Zayed Road 10.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_Za%27abeel",
+   "https://gulfnews.com/business/property/dubai-twin-tower-one-zaabeel-gets-guinness-world-record-title-for-the-link-1.1711433798421"
+  ],
+  "note": "Only file in the category is a 4000x3000 CC0 road view, also filed under Dubai World Trade Centre; check the towers and The Link are clear. If not, this is worth drawing, but the tower widths and gap aren't published, so a drawing would need a plan or elevation source first."
+ },
+ {
+  "id": "al-thumama-stadium",
+  "name": "Al Thumama Stadium",
+  "by": "Ibrahim M. Jaidah, Arab Engineering Bureau",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "A round stadium whose woven white shell takes the shape of the taqiyah, the cap worn across the Gulf.",
+  "status": "photo",
+  "commons_category": "Category:Al Thumama Stadium",
+  "photos": [
+   {
+    "file": "File:Al Thumama Stadium 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Al_Thumama_Stadium"
+  ],
+  "note": "One exterior file (4000x1800). Heerim also listed as architect in Wikipedia's infobox."
+ },
+ {
+  "id": "stadium-974",
+  "name": "Stadium 974",
+  "by": "Fenwick Iribarren Architects",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Modular",
+   "Reclaimed material",
+   "Prefabrication"
+  ],
+  "features": "Built from 974 recycled shipping containers and a modular steel frame, designed to be taken apart and moved.",
+  "status": "photo",
+  "commons_category": "Category:Stadium 974",
+  "photos": [
+   {
+    "file": "File:Ras Aboud Stadium in Qatar.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadium_974"
+  ],
+  "note": "One exterior file (4000x2252, CC0). Still on its original site as of December 2025."
+ },
+ {
+  "id": "lusail-stadium",
+  "name": "Lusail Stadium",
+  "by": "Foster + Partners, Populous",
+  "city": "Lusail",
+  "cc": "QA",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "The largest stadium of the 2022 World Cup: a golden bowl under a cable-net roof, host of the final.",
+  "status": "photo",
+  "commons_category": "Category:Lusail Stadium",
+  "photos": [
+   {
+    "file": "File:Aerial view of Lusail Stadium during the daytime.png",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lusail_Stadium"
+  ],
+  "note": "Aerial view (3838x2160, CC BY 3.0). Wikipedia gives built 2017-2021, inaugurated 2022; the roof and facade description in features is general knowledge, not from Wikipedia, so check before use."
+ },
+ {
+  "id": "al-bayt-stadium",
+  "name": "Al Bayt Stadium",
+  "by": "Dar Al-Handasah",
+  "city": "Al Khor",
+  "cc": "QA",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Climate response",
+   "Monumentality"
+  ],
+  "features": "Shaped like the bayt al sha'ar, the black-and-white tent of Gulf nomads, stretched over the whole stadium.",
+  "status": "photo",
+  "commons_category": "Category:Al Bayt Stadium",
+  "photos": [
+   {
+    "file": "File:Al Bayt Stadium.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Al_Bayt_Stadium"
+  ],
+  "note": "One exterior file (1536x1191). Wikipedia names Dar Al-Handasah in the text but gmp in the infobox; check the credit. Inaugurated 30 November 2021."
+ },
+ {
+  "id": "qatar-university",
+  "name": "Qatar University",
+  "by": "Kamal El Kafrawi",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "1985",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Modular",
+   "Light from above"
+  ],
+  "features": "Precast octagonal modules on a grid, each classroom topped by a wind tower for cool air and soft daylight.",
+  "status": "photo",
+  "commons_category": "Category:Qatar University",
+  "photos": [
+   {
+    "file": "File:Qatar University.Campus.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/288",
+   "https://www.arup.com/-/media/arup/files/publications/t/the_arup_journal_issue_4_1986.pdf",
+   "https://en.wikipedia.org/wiki/Qatar_University"
+  ],
+  "note": "File:Qatar University.Campus.jpg (1637x1310) is the only large general campus view; check it shows the wind-tower buildings. First phase opened February 1985; Arup were engineers; shortlisted for the Aga Khan Award (1989 cycle)."
+ },
+ {
+  "id": "king-fahd-international-stadium",
+  "name": "King Fahd International Stadium",
+  "by": "Ian Fraser, John Roberts & Partners",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "1987",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Climate response",
+   "Structure as expression"
+  ],
+  "features": "A ring of white fabric canopies on 24 columns shades the stands like a field of desert tents.",
+  "status": "photo",
+  "commons_category": "Category:King Fahd Stadium",
+  "photos": [
+   {
+    "file": "File:King Fahad Stadium (4055869088).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:King Fahd International Stadium, Riyadh, Saudi Arabia, April 2014.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Fahd_International_Stadium"
+  ],
+  "note": "14 files; the first (2048x1536) is an exterior, the second an interior. Wikipedia: roof held by 24 columns on a 247 m circle, opened 1987; with Michael K.C. Cheah and Partners."
+ },
+ {
+  "id": "king-khalid-international-airport",
+  "name": "King Khalid International Airport",
+  "by": "HOK",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "1983",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Modular",
+   "Monumentality"
+  ],
+  "features": "Triangular terminals, and a Royal Terminal whose roof of 33 arched sections rises 30 m.",
+  "status": "photo",
+  "commons_category": "Category:King Khalid International Airport",
+  "photos": [
+   {
+    "file": "File:KING KHALED INTL.TER.1 - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:King Khalid International Airport.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Khalid_International_Airport"
+  ],
+  "note": "Large category; the panoramio file (4352x3264) is titled Terminal 1, the second is an aerial view (1280x888)."
+ },
+ {
+  "id": "maraya",
+  "name": "Maraya",
+  "by": "Giò Forma, Black Engineering",
+  "city": "AlUla",
+  "cc": "SA",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "A concert hall wrapped in 9,740 m2 of mirror, a box that reflects the desert canyon until it nearly disappears.",
+  "status": "photo",
+  "commons_category": "Category:Maraya Concert Hall",
+  "photos": [
+   {
+    "file": "File:Maraya Concert Hall 20260130 1.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Maraya Concert Hall 20260130 2.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maraya_(building)"
+  ],
+  "note": "Ten 4000x2252 CC BY 4.0 photos from January 2026. In use from December 2018; Guinness record as largest mirrored building on 26 December 2019."
+ },
+ {
+  "id": "sheikh-jaber-al-ahmad-cultural-centre",
+  "name": "Sheikh Jaber Al-Ahmad Cultural Centre",
+  "by": "SSH",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "2016",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Four buildings around courtyards off a civic plaza, each wrapped in titanium-clad geometric screens.",
+  "status": "photo",
+  "commons_category": "Category:Sheikh Jaber Al Ahmad Cultural Centre",
+  "photos": [
+   {
+    "file": "File:Sheikh Jaber Al Ahmad Cultural Centre Kuwait.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheikh_Jaber_Al-Ahmad_Cultural_Centre"
+  ],
+  "note": "One exterior file (3024x4032, CC0). Also called the Kuwait Opera House."
+ },
+ {
+  "id": "grand-mosque-kuwait",
+  "name": "Grand Mosque of Kuwait",
+  "by": "Mohamed Makiya",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "1986",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "A 26 m dome and 74 m minaret over courtyards, Makiya's modern reading of Islamic precedent.",
+  "status": "photo",
+  "commons_category": "Category:Grand Mosque, Kuwait",
+  "photos": [
+   {
+    "file": "File:Kuwait City Grand Mosque Exterior North Facade 1.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Mosque_(Kuwait)",
+   "https://arab-architecture.org/db/architect/mohamed-makiya"
+  ],
+  "note": "95 files including many exterior views (4569x3217, CC BY 4.0). Construction 1979-1986."
+ },
+ {
+  "id": "queen-alia-international-airport",
+  "name": "Queen Alia International Airport",
+  "by": "Foster + Partners",
+  "city": "Amman",
+  "cc": "JO",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Vault",
+   "Modular",
+   "Climate response"
+  ],
+  "features": "A roof of 127 shallow concrete domes on columns, inspired by Bedouin tents, shades the terminal.",
+  "status": "photo",
+  "commons_category": "Category:Queen Alia International Airport",
+  "photos": [
+   {
+    "file": "File:Queen Alia International Airport - New Terminal - 2013.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Queen Alia International Airport 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Jordan 2021 P369 Amman Queen Alia International Airport.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queen_Alia_International_Airport"
+  ],
+  "note": "Large category with several exterior views. New terminal inaugurated March 2013. The airport is at Zizya, south of Amman."
+ },
+ {
+  "id": "feynan-ecolodge",
+  "name": "Feynan Ecolodge",
+  "by": "Ammar Khammash",
+  "city": "Wadi Feynan",
+  "cc": "JO",
+  "year": "2005",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Courtyard"
+  ],
+  "features": "A desert lodge shaped like a caravanserai around a courtyard, lit by hand-made candles at night.",
+  "status": "photo",
+  "commons_category": "Category:Feynan Eco Lodge",
+  "photos": [
+   {
+    "file": "File:Feynan Ecolodge.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Feynan Eco Lodge with slats to keep the walls in shade.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:32 Dana Feynan Trail - The Feynan Lodge - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Feynan_Ecolodge"
+  ],
+  "note": "Five files, three large exteriors. In the Dana Biosphere Reserve."
+ },
+ {
+  "id": "holiday-inn-beirut",
+  "name": "Holiday Inn Beirut",
+  "by": "André Wogenscky, Maurice Hindié",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1974",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Adaptive reuse"
+  ],
+  "features": "A 26-storey hotel open only a year before the civil war; its gutted frame still stands as a war memory.",
+  "status": "photo",
+  "commons_category": "Category:Hotel Holiday Inn Beirut",
+  "photos": [
+   {
+    "file": "File:Former Holiday Inn in downtown Beirut.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Damaged hotel, Beirut, Lebanon.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Holiday inn (war touch) - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Holiday_Inn_Beirut"
+  ],
+  "note": "Wogenscky worked with Le Corbusier. 'Adaptive reuse' is not apt; owner may prefer another concept, e.g. 'Void'."
+ },
+ {
+  "id": "the-egg-beirut",
+  "name": "The Egg (Beirut City Center)",
+  "by": "Joseph Philippe Karam",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1965",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "An unfinished concrete cinema dome, started in 1965 and stopped by the civil war, now a city landmark.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Egg, Beirut in 2018.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The Egg cinema in Beirut Lebanon.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Old Beirut Dome (4694197179).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Egg,_Beirut",
+   "https://dev.failedarchitecture.com/2013/12/the-value-of-a-war-scarred-ruin-in-beirut/"
+  ],
+  "note": "Never completed: 1965 is the start of construction. No dedicated Commons category was found by search; the files are there."
+ },
+ {
+  "id": "monument-to-the-unknown-soldier-baghdad-1959",
+  "name": "Monument to the Unknown Soldier (1959)",
+  "by": "Rifat Chadirji",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1959",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Chadirji turned the brick arch of Ctesiphon into a thin concrete arch in Firdos Square.",
+  "status": "photo",
+  "commons_category": "Category:Monument to the Unknown Soldier, Baghdad",
+  "photos": [
+   {
+    "file": "File:Monument to the Unknown Soldier, Baghdad.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:The Unknown Soldier monument, Baghdad, 1959.jpg",
+    "kind": "Photo, 1100x728",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Unknown Soldier Monument under construction, Baghdad, 1959.jpg",
+    "kind": "Photo (construction)",
+    "license": "check"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rifat_Chadirji",
+   "https://arab-architecture.org/db/building/monument-for-the-unknown-soldier"
+  ],
+  "note": "Demolished around 1982-83 and replaced by a statue. The usable photo is a 1960s postcard (1600x1120, PD). The Commons category also holds a photo of the different 1982 monument (glass spire file); don't mix them up. Extras' sizes beyond the first weren't checked."
+ },
+ {
+  "id": "federation-of-industries-building",
+  "name": "Federation of Industries Building",
+  "by": "Rifat Chadirji",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1966",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Climate response",
+   "Light & shadow"
+  ],
+  "features": "One of Chadirji's brick office buildings, his search for a modern architecture rooted in Iraq.",
+  "status": "photo",
+  "commons_category": "Category:Federation of Industries Building",
+  "photos": [
+   {
+    "file": "File:مبنى اتحاد الصناعات العراقي.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:مبنى اتحاد الصناعات العراقي 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:مبنى اتحاد الصناعات العراقي 3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Postcard showing new architecture of Baghdad, 1966.jpg",
+    "kind": "Photo (postcard), 989x681",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rifat_Chadirji"
+  ],
+  "note": "Three recent photos (about 2000px, from Al-Khilani Square). The 1966 date comes from the postcard's Commons description. Features line kept general: check the brick detail in the photos before adding specifics."
+ },
+ {
+  "id": "zayed-national-museum",
+  "name": "Zayed National Museum",
+  "by": "Foster + Partners",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "2025",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Five steel towers shaped like falcon feathers, 83-123 m high, act as chimneys drawing air through the galleries.",
+  "status": "photo",
+  "commons_category": "Category:Zayed National Museum",
+  "photos": [
+   {
+    "file": "File:Zayed national Museum front entrance - 23 may 2026.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zayed_National_Museum"
+  ],
+  "note": "Only one exterior (3024x4032, front entrance, May 2026); check the towers show. Opened 3 December 2025; a 30 m external hill links the bases of the wings."
+ },
+ {
+  "id": "dhahran-air-terminal",
+  "name": "Dhahran Air Terminal",
+  "by": "Minoru Yamasaki",
+  "city": "Dhahran",
+  "cc": "SA",
+  "year": "1961",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Prefabrication",
+   "Light & shadow"
+  ],
+  "features": "Yamasaki's precast concrete arches and vaults gave the Gulf an airport rooted in Islamic forms; AIA award 1963.",
+  "status": "photo",
+  "commons_category": "Category:Dhahran International Airport",
+  "photos": [
+   {
+    "file": "File:591 Cameron terminal at Dhahran finished - USACE-p15141coll5-15769.jpeg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:473 Cameron terminal at Dhahran driveway - USACE-p15141coll5-15655.jpeg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Dhahran Airport, 1961 01.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Dhahran Civil Air Terminal, Saudi Arabia, under construction - USACE-p15141coll5-509.jpeg",
+    "kind": "Photo (construction)",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Dhahran_Civil_Air_Terminal,_Saudi_Arabia,_under_construction_-_USACE-p15141coll5-509.jpeg"
+  ],
+  "note": "US Army Corps of Engineers photos (PD) plus 1960s photos. The Commons description says the AIA gave Yamasaki its First Honor Award for the terminal in 1963. The 'arches and vaults' wording is from general knowledge (it appears on Saudi banknotes in the category); check against the photos."
+ },
+ {
+  "id": "cairo-opera-house",
+  "name": "Cairo Opera House",
+  "by": "Nikken Sekkei",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1988",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "A gift from Japan: white domed halls in an Islamic-inspired style on Gezira Island.",
+  "status": "photo",
+  "commons_category": "Category:Cairo Opera House",
+  "photos": [
+   {
+    "file": "File:Cairo Opera House.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cairo_Opera_House",
+   "https://gulfnews.com/kurator/share/cairo-opera-house-a-class-act-1.1657192332048",
+   "https://structurae.net/en/structures/cairo-opera-house"
+  ],
+  "note": "Many photos in the category. Built 1985-1988 by Japanese and Egyptian architects; Nikken Sekkei is the usual credit."
+ },
+ {
+  "id": "national-museum-of-egyptian-civilization",
+  "name": "National Museum of Egyptian Civilization",
+  "by": "El-Ghazali Kosseiba",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Landscape"
+  ],
+  "features": "A large museum in Fustat beside Ain el-Sira lake, home of the royal mummies since the 2021 parade.",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Egyptian Civilization",
+  "photos": [
+   {
+    "file": "File:National Museum of Egyptian Civilization 2022 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Egyptian_Civilization"
+  ],
+  "note": "Hundreds of files; first one titled with the museum (4032x3024), not checked whether it's an exterior. Partly opened 2017, officially inaugurated April 2021. 'Beside Ain el-Sira lake' is general knowledge; check."
+ },
+ {
+  "id": "azadi-stadium",
+  "name": "Azadi Stadium",
+  "by": "Abdol Aziz Farmanfarmaian",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1971",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Iran's national stadium, built for the 1974 Asian Games; a vast concrete bowl that once held 120,000.",
+  "status": "photo",
+  "commons_category": "Category:Azadi Stadium",
+  "photos": [
+   {
+    "file": "File:Azadi Außenansicht.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azadi_Stadium"
+  ],
+  "note": "Many files and year subcategories. Opened 17 October 1971; parts of the sports complex planned with SOM."
  }
 ]
