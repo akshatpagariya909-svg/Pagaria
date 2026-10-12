@@ -60,6 +60,36 @@
   "note": null
  },
  {
+  "id": "luyeyuan-stone-sculpture-art-museum",
+  "name": "Luyeyuan Stone Sculpture Art Museum",
+  "status": "unsure",
+  "commons_category": "Category:Buildings by Liu Jiakun",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://catalan-architects.com/fr/jiakun-architects-chengdu/project/luyeyuan-stone-sculpture-art-museum",
+   "https://arquitecturaviva.com/works/museo-de-escultura-luyeyuan-xinmin-"
+  ],
+  "note": "No photo on Commons (Liu Jiakun categories hold other buildings only). Sources describe board-marked concrete over shale-brick formwork, blocks around an atrium with light through gaps, and an entrance above a lotus pond, but not the massing or heights of the blocks in any elevation, so not drawn."
+ },
+ {
+  "id": "marika-alderton-house",
+  "name": "Marika-Alderton House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architectmagazine.com/project-gallery/marika-alderton-house_o",
+   "https://ozetecture.org/marika-alderton-house",
+   "https://architectureau.com/articles/architecture-for-the-aborigines/",
+   "https://www.pritzkerprize.com/sites/default/files/inline-files/2002_Essay_0.pdf"
+  ],
+  "note": "No photo on Commons. Sources confirm a raised, prefabricated steel-and-timber house on piles with a pitched roof, deep eaves, pivoting roof ventilator tubes, operable plywood/slatted panels instead of glazing and projecting vertical blades, but not the roof profile, number and placement of ventilators or the panel rhythm. A trial drawing needed too many guessed details, so not drawn."
+ },
+ {
   "id": "menara-tabung-haji",
   "name": "Menara Tabung Haji",
   "status": "photo",
@@ -148,6 +178,37 @@
   "note": "No photo on Commons. The bucket grid is shown at reduced density (about 2,000 buckets in reality) and without the binary open/closed pattern; overall length-to-height ratio and column spacing are approximate (no dimensions published beyond 160 m2). The full-length stair is left out because its position in this view is not confirmed."
  },
  {
+  "id": "mimesis-art-museum",
+  "name": "Mimesis Art Museum",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.iconeye.com/architecture/mimesis-museum-by-alvaro-siza",
+   "https://www.archiweb.cz/en/b/museum-mimesis",
+   "https://thisispaper.com/mag/mimesis-museum-alvaro-siza-carlos-castanheira",
+   "https://oris.hr/en/oris-magazine/overview-of-articles/[106]a-mimesis-for-a-city-of-books,1577.html"
+  ],
+  "note": "No photo on Commons (Korea has no freedom of panorama for commercial use). Sources confirm a nearly windowless exposed-concrete mass that reads as a box from the street and opens into two curved wings around a courtyard (designed with Carlos Castanheira and Jun Sung Kim), but give no heights or curve geometry; the form is mainly a plan idea and an elevation would be guessed."
+ },
+ {
+  "id": "ministry-of-foreign-affairs-riyadh",
+  "name": "Ministry of Foreign Affairs, Riyadh",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://uia-architectes.org/?p=18251",
+   "https://dac.dk/en/magazine/places/the-ministry-of-foreign-affairs-in-saudi-arabia-the-legacy-of-henning-larsen-416",
+   "https://www.catalan-architects.com/en/henning-larsen-copenhagen/project/ministry-of-foreign-affairs-in-riyadh"
+  ],
+  "note": "No photo on Commons (Saudi Arabia has no freedom of panorama). Sources only say the exterior is massive, closed and introverted, on a plan based on a square adapted to a triangular site; nothing on the elevation (heights, towers, openings). Owner may also want to check the features line: sources found describe courtyards and atriums but not specifically a central triangular atrium."
+ },
+ {
   "id": "monterrey-housing",
   "name": "Monterrey Housing",
   "status": "drawn",
@@ -178,6 +239,20 @@
   "view": null,
   "sources": [],
   "note": null
+ },
+ {
+  "id": "newton-suites",
+  "name": "Newton Suites",
+  "status": "unsure",
+  "commons_category": "Category:WOHA",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://world-architects.com/ca/woha-singapore/project/newton-suites",
+   "https://thefifthestate.com.au/articles/newton-suites/"
+  ],
+  "note": "Only free photo is File:Newton Suites.jpg (CC0, categories WOHA / Newton Road, Singapore), 485x692px, well under the 1200px floor; usable if the size rule is relaxed. Sources confirm a 36-storey tower with angled expanded-mesh sunshades, protruding balconies, sky gardens at lift lobbies and a green wall, but not how these are arranged on any elevation, so not drawn."
  },
  {
   "id": "norwegian-wild-reindeer-pavilion",
@@ -305,6 +380,20 @@
    "https://arquiscopio.com/archivo/2013/07/14/casa-palmyra/?lang=en"
   ],
   "note": "No photo on Commons. Shows only one of the two offset volumes (an elevation cannot separate them). Panel count and length-to-height ratio are approximate; roofs are low standing-seam aluminium, drawn as a thin edge."
+ },
+ {
+  "id": "pangyo-housing",
+  "name": "Pangyo Housing",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://world-architects.com/en/architecture-news/reviews/pangyo-housing",
+   "https://www.dezeen.com/?p=2040896"
+  ],
+  "note": "No photo on Commons. Sources agree on nine low-rise clusters of three- to four-storey houses linked by a common deck at second-floor level, but conflict on where the glass rooms sit (deck level vs ground level) and give no unit counts per block, so not drawn. The features line (glass ground rooms opening onto a raised deck) may need checking for the same reason."
  },
  {
   "id": "park-vijversburg-visitor-centre",

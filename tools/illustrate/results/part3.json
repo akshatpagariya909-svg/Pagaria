@@ -262,6 +262,21 @@
   "note": "Category is the parish (23 de Enero), not the blocks alone; these two files show the superblocks."
  },
  {
+  "id": "addis-ababa-city-hall",
+  "name": "Addis Ababa City Hall",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Addis_Ababa_City_Hall",
+   "https://journals.openedition.org/abe/10930?lang=en",
+   "https://www.africanstatearchitecture.co.uk/post/city-hall-addis-ababa"
+  ],
+  "note": "No Commons category and no clear photo. File:ET-Addis Abeba, Churchill Road.JPG (CC BY-SA 3.0, 1536x2048) looks up Churchill Avenue and seems to show the City Hall small in the distance, too small for the wall. Sources give 42 m height and a central tower between two wings, but no storey count, wing lengths or facade pattern, so not drawn."
+ },
+ {
   "id": "al-wasl-plaza",
   "name": "Al Wasl Plaza",
   "status": "photo",
@@ -280,6 +295,22 @@
   "view": null,
   "sources": [],
   "note": "No Commons category. The Flickr photo (5184x2912) shows the trellis dome over the plaza. The UAE has no freedom of panorama for buildings, so these files could be challenged on Commons later."
+ },
+ {
+  "id": "alioune-diop-university-teaching-and-research-unit",
+  "name": "Alioune Diop University Teaching and Research Unit",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/alioune-diop-university-teaching-and-research-unit",
+   "https://www.idom.com/en/project/extension-of-universities-in-bambey-and-saint-louis/",
+   "https://archello.com/project/new-lecture-room-block-at-the-alioune-diop-univers",
+   "https://www.e-architect.com/africa/alioune-diop-university-lecture-building-in-bambey-senegal"
+  ],
+  "note": "No photo on Commons. Sources confirm a long building under a metal double roof that runs out into a 10 m canopy, with a south screen of about 20,000 triangular concrete bricks (an L-shaped screen 'lying on its back') and a 3 m ventilated cavity behind it. None give the number of storeys or the building's length, so the elevation's proportions would be guessed. Not drawn; the Aga Khan Award file has drawings."
  },
  {
   "id": "art-biotop-water-garden",
@@ -330,6 +361,22 @@
   "note": "Two photos of block no. 2 on Boulevard Krim Belkacem (2010), 3648x2736; trees partly cover the left of IMG 0549."
  },
  {
+  "id": "aishti-foundation",
+  "name": "Aïshti Foundation",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.adjaye.com/work/aishti-foundation/",
+   "https://time.com/4101640/the-aishti-foundation-in-beirut/",
+   "https://www.artsy.net/article/artsy-editorial-amid-fears-of-a-cholera-outbreak-the-100-million-aishti-foundation-opens-in-beirut",
+   "https://www.designboom.com/architecture/david-adjaye-aishti-foundation-beirut-lebanon-tony-salam-10-30-2015/"
+  ],
+  "note": "No photo on Commons (the only 'Aishti' file is a shop display). Sources describe a large, slightly rotated box wrapped in a red aluminium-tube lattice with a zigzag pattern, four floors of art and retail. They don't give its proportions or the pattern's layout, which would be the whole drawing. Not drawn."
+ },
+ {
   "id": "b018",
   "name": "B018",
   "status": "unsure",
@@ -358,6 +405,22 @@
    "https://www.hantumertekin.com/projects/b2"
   ],
   "note": "No photo on Commons. Sources confirm a two-storey concrete and local-stone box on a terrace, east and west ends made of two concrete walls framing a stone wall, the front fully glazed behind reed-filled aluminium shutters. None give its proportions or how many glazed bays/shutters the front has, so not drawn. The AKDN/Archnet award file has drawings if the owner wants it revisited."
+ },
+ {
+  "id": "bee-ah-headquarters",
+  "name": "Bee'ah Headquarters",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "side elevation: the tall main dune on the left with its glazed front under the lifted shell edge, a second lower dune behind, both tapering away to the right",
+  "sources": [
+   "https://www.dezeen.com/2022/04/01/beeah-headquarters-zaha-hadid-architects/",
+   "https://www.archdaily.com/979479/beeha-headquarters-zaha-hadid-architects",
+   "https://arquitecturaviva.com/works/sede-de-beeah-sarja",
+   "https://commons.wikimedia.org/wiki/File:BEEAH_headquarters.jpg"
+  ],
+  "note": "Commons has one image, File:BEEAH headquarters.jpg (CC BY-SA 4.0 claimed). It is up for deletion since May 2026 (no freedom of panorama in the UAE), and it looks like the architects' render rather than the uploader's own photo, so it isn't safe to use. Sources confirm two linked dunes around a courtyard and a central concrete dome. The profile follows that image; curves are approximate."
  },
  {
   "id": "beirut-terraces",

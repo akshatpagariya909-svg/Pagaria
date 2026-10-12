@@ -143,6 +143,34 @@
   "note": "About 17 large CC BY-SA 4.0 photos in the category (2019, 2023, 2024 series). A few files in the category show neighbouring things (a church, a street sign, a memorial)."
  },
  {
+  "id": "university-of-global-health-equity",
+  "name": "University of Global Health Equity",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Graduation_UGHE.jpg"
+  ],
+  "note": "No free exterior photo: the only Commons files are a graduation photo (1024px, people) and a climate image (1080px), neither a view of the buildings. It is a campus of several rammed-earth and stone buildings on terraces; I could not establish any one building's massing well enough to draw it."
+ },
+ {
+  "id": "vakko-fashion-center",
+  "name": "Vakko Fashion Center",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architectmagazine.com/?p=219142",
+   "https://worldarchitecture.org/architecture-news/cpgmp/vakko-fashion-centeristanbul-designed-by-rex-architects.html",
+   "https://archinect.com/features/article/97579"
+  ],
+  "note": "No Commons files of the building (Category:Vakko holds only stores and adverts). Sources confirm a reused U-shaped concrete frame (the Ring) with mullion-free glass panes, and a six-storey mirror-glass steel tower (the Showcase) of stacked boxes in its centre. I could not establish the Ring's storey count or how the Showcase boxes are stacked, which is its defining feature, so it isn't drawn."
+ },
+ {
   "id": "vertical-courtyard-apartments",
   "name": "Vertical Courtyard Apartments",
   "status": "photo",
@@ -172,6 +200,63 @@
    "https://www.archdaily.com/447381/villa-verde-housing-elemental"
   ],
   "note": "No Commons category or files found. Sources confirm two-storey row houses, half built and half left for residents to fill (57 m2 growing to about 85 m2), under a pitched roof. Window positions are schematic; the number of houses shown (three) is illustrative of the row."
+ },
+ {
+  "id": "volontariat-homes-for-homeless-children",
+  "name": "Volontariat Homes for Homeless Children",
+  "status": "unsure",
+  "commons_category": "Category:Anupama Kundoo",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.azuremagazine.com/?p=242630",
+   "https://world-architects.com/zh/projects/view/volontariat-orphanage",
+   "https://indiadesignid.com/for-the-people-of-the-people-by-the-people-inspiring-examples-of-humanitarian-architecture-in-asia/"
+  ],
+  "note": "No Commons photos (the Kundoo category holds a portrait, two Creativity guesthouse and one Mitra Hostel photos, all different projects). Sources say catenary-shaped domes of mud brick fired in place, for 15 children and 5 foster parents in homes of different sizes, but not how many houses or how they are arranged and stacked. I didn't draw it rather than invent the cluster."
+ },
+ {
+  "id": "wall-house",
+  "name": "Wall House",
+  "status": "unsure",
+  "commons_category": "Category:Anupama Kundoo",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.metalocus.es/en/news/slow-architecture-or-architecture-happiness-wall-house-anupama-kundoo",
+   "https://www.dezeen.com/2020/11/20/anupama-kundoo-architecture-projects/amp/",
+   "https://www.dezeen.com/2012/08/30/wall-house-by-anupama-kundoo-at-venice-architecture-biennale-2012/amp/"
+  ],
+  "note": "No Commons photos. Sources give materials (thin achakal brick in lime, terracotta-pot fillers in floors and roofs, a long 2.2 m-wide vaulted space, a double-height volume, flat terraces) but not the elevation or massing, so I could not draw it confidently."
+ },
+ {
+  "id": "wencun-village",
+  "name": "Wencun Village",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No Commons files found (English and Chinese searches). The project is a village of about a dozen new houses of different types among older ones; no single form defines it, and I couldn't establish one house's elevation from sources reachable here."
+ },
+ {
+  "id": "women-s-opportunity-center",
+  "name": "Women's Opportunity Center",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://arquitecturaviva.com/works/womens-opportunity-center-in-kayonza",
+   "https://www.metalocus.es/en/news/womens-opportunity-center-sharon-davis-design",
+   "https://www.archdaily.com/433846",
+   "https://livinspaces.net/?p=27465"
+  ],
+  "note": "No Commons files found. Sources confirm clusters of small round pavilions with handmade brick lattice walls under large metal roofs on a terraced slope, but not the roof shape or pavilion height, which define the look, so I didn't draw it."
  },
  {
   "id": "xylem",
@@ -208,6 +293,21 @@
   "view": null,
   "sources": [],
   "note": "File (1) (2048x1536, 2014) clearly shows the thatched dome of the wNw Bar rising from the water (checked visually); its description names the bar and its ARCASIA gold award. File (3) is from the same site, not viewed. A third file in the series is an interior. There is no dedicated category; the files sit in Category:Vo Trong Nghia Architects."
+ },
+ {
+  "id": "ipekyol-textile-factory",
+  "name": "İpekyol Textile Factory",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://emrearolat.com/project/ipekyol-textile-factory",
+   "https://mail.e-architect.com/turkey/ipekyol-textile-factory",
+   "https://archnet.org/publications/1936"
+  ],
+  "note": "No Commons files found (not in Category:Buildings by Emre Arolat either). Sources describe one mass with concrete walls, a light steel roof, linear gardens between sections and coffered facades with open and closed zones, but give no elevation, height or skylight layout, so I didn't draw it."
  },
  {
   "id": "disney-ice-anaheim-ice",
