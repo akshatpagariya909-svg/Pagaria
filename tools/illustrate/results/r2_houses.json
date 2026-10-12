@@ -962,7 +962,7 @@
    "Timber",
    "Light & shadow"
   ],
-  "features": "Two near-identical timber pavilions on stilts under curved corrugated metal roofs; adjustable louvres for air and light.",
+  "features": "Two near-identical timber pavilions on stilts under curved corrugated metal roofs; louvres adjust air and light.",
   "status": "drawn",
   "commons_category": null,
   "photos": [],
@@ -1018,7 +1018,7 @@
    "Landscape",
    "Section"
   ],
-  "features": "White wood house closed to the road, opening to the water through a three-storey glass wall; brick fireplace pushes through the glass.",
+  "features": "White house closed to the road, open to the water through three storeys of glass; the fireplace pushes through.",
   "status": "unsure",
   "commons_category": null,
   "photos": [],
@@ -1090,7 +1090,7 @@
    "Steel & glass",
    "Modular"
   ],
-  "features": "Two pavilions of identical yellow steel portal frames with glass ends around a garden court; a prototype for kit housing.",
+  "features": "Steel portal frames closed by glass ends: a house and a studio either side of a garden court.",
   "status": "photo",
   "commons_category": null,
   "photos": [
@@ -1105,7 +1105,7 @@
   "sources": [
    "https://commons.wikimedia.org/wiki/File:Wimbledon,_Richard_Rogers_house,_22_Parkside.jpg"
   ],
-  "note": "Built for Rogers's parents in Wimbledon, 1968–69. One free photo at 3500x2417; two more at 640px are too small. Don't confuse with 'File:22 Parkside, Cambridge.jpg', a different building. Now owned by Harvard GSD."
+  "note": "Built for Rogers's parents in Wimbledon, 1968–69. One free photo at 3500x2417; two more at 640px are too small. Don't confuse with 'File:22 Parkside, Cambridge.jpg', a different building. Facts from general knowledge of the house; check before use."
  },
  {
   "id": "casa-kalmann",
@@ -1121,7 +1121,7 @@
    "Landscape",
    "Promenade"
   ],
-  "features": "Concrete house set into a steep slope above Lake Maggiore; a long pergola walk ends in a lookout over the lake.",
+  "features": "Concrete house set into a steep slope above Lake Maggiore, with a pavilion looking out over the lake.",
   "status": "photo",
   "commons_category": null,
   "photos": [
@@ -1148,7 +1148,7 @@
   "sources": [
    "https://commons.wikimedia.org/wiki/File:Kalmann_01m.jpg"
   ],
-  "note": "Several free photos (1974–76). Spelled Kalman or Kalmann."
+  "note": "Several free photos (1974–76, per the Commons descriptions). Spelled Kalman or Kalmann. Facts from Commons descriptions and general knowledge; check before use."
  },
  {
   "id": "villa-busk",
@@ -1253,7 +1253,7 @@
    "Section",
    "Light & shadow"
   ],
-  "features": "Four heavy concrete-block 'spatial dams' with light curved metal roofs flowing between them, like water over the ponds' dams.",
+  "features": "Four concrete-block 'spatial dams' with light curved metal roofs flowing between them, beside three ponds.",
   "status": "unsure",
   "commons_category": null,
   "photos": [],
@@ -1281,7 +1281,7 @@
    "Steel & glass",
    "Water"
   ],
-  "features": "Single-storey steel and glass pavilions on a bush track, with angled roofs that collect rainwater and a pool to the north.",
+  "features": "Single-storey steel and glass pavilions on a bush track; angled roofs collect rainwater; pool to the north.",
   "status": "unsure",
   "commons_category": null,
   "photos": [],
@@ -1309,7 +1309,7 @@
    "Climate response",
    "Steel & glass"
   ],
-  "features": "Corrugated-iron pavilion with a gently curved roof, raised on slender steel columns set into a sandstone ledge in the bush.",
+  "features": "Corrugated-iron pavilion with a gently curved roof, on slender steel columns set into a sandstone ledge.",
   "status": "unsure",
   "commons_category": null,
   "photos": [],
@@ -1446,7 +1446,7 @@
    "Earth & local material",
    "Climate response"
   ],
-  "features": "Rooms around an inward-looking courtyard under red clay-tile roofs on satinwood columns; first fusion of Sinhalese house and modern plan.",
+  "features": "Rooms round an inward-looking courtyard under red tile roofs on satinwood columns; Sinhalese house meets modern plan.",
   "status": "unsure",
   "commons_category": null,
   "photos": [],
@@ -1458,5 +1458,32 @@
    "https://silverkris.singaporeair.com/inspiration/arts-culture/design-architecture/geoffrey-bawas-buildings-sri-lanka"
   ],
   "note": "No free photo found. Built 1960–62 in Colombo; dismantled and rebuilt at Lunuganga, completed in 2016 (photos of the rebuilt house may appear under Category:Lunuganga Estate; I didn't find one named for it). Courtyard plan is hard to show in one elevation; not drawn."
+ },
+ {
+  "id": "carter-tucker-house",
+  "name": "Carter/Tucker House",
+  "by": "Sean Godsell",
+  "city": "Breamlea",
+  "cc": "AU",
+  "year": "2000",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Timber",
+   "Climate response"
+  ],
+  "features": "Three-level box set into a sand dune, screened in horizontal cedar battens that open as flaps on gas struts.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Long elevation: the rectangular batten-clad box set into the side of the dune, with two batten flaps raised on the living level to show the glazing behind.",
+  "after": null,
+  "sources": [
+   "https://architectureau.com/articles/commendation-for-housing/",
+   "https://bdt.degruyter.com/urban_context/remote-rural/page/10"
+  ],
+  "note": "No free photo on Commons. Weekend house and studio for a photographer: bedroom level, living level and roof deck inside braced steel portal frames with glazed walls. Overall proportions and flap positions are schematic; the batten skin and dune setting are from the sources."
  }
 ]

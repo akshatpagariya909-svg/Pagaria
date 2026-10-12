@@ -1,0 +1,143 @@
+[
+ {
+  "id": "seoul-olympic-stadium",
+  "name": "Seoul Olympic Stadium",
+  "by": "Kim Swoo-geun",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1984",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Exposed concrete"
+  ],
+  "features": "Its rim rises and dips like the curve of a Joseon white porcelain vase, over a two-tier bowl.",
+  "status": "photo",
+  "commons_category": "Category:Seoul Olympic Stadium",
+  "photos": [
+   {
+    "file": "File:Seoul Jamsil Main Stadium.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Toward Seoul Olympic Stadium.jpg",
+    "license": "CC BY 2.5"
+   },
+   {
+    "file": "File:서울올림픽 주경기장 (레울파크).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seoul_Olympic_Stadium"
+  ],
+  "note": "Many photos in the category are concerts; the three listed are exterior views (check before use)."
+ },
+ {
+  "id": "boutique-monaco",
+  "name": "Boutique Monaco",
+  "by": "Mass Studies (Minsuk Cho)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2008",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Planting",
+   "Geometry"
+  ],
+  "features": "27-storey tower with 15 'missing' volumes cut out to meet the floor-area limit, each holding a sky garden.",
+  "status": "photo",
+  "commons_category": "Category:Boutique Monaco",
+  "photos": [
+   {
+    "file": "File:Boutique Monaco Seoul.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boutique_Monaco"
+  ],
+  "note": "Only one usable exterior photo."
+ },
+ {
+  "id": "seoul-city-hall",
+  "name": "Seoul City Hall",
+  "by": "Yoo Kerl (iArc)",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2012",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Planting"
+  ],
+  "features": "Double-skin facade whose overhang recalls the eaves of traditional Korean houses; a green wall inside.",
+  "status": "photo",
+  "commons_category": "Category:Seoul City Hall",
+  "photos": [
+   {
+    "file": "File:Seoul City Hall from Plaza.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Seoul City Hall in 2026.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Seoul City Hall Building and City Hall Plaza.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seoul_City_Hall"
+  ],
+  "note": "Many free exterior photos."
+ },
+ {
+  "id": "sewoon-sangga",
+  "name": "Sewoon Sangga",
+  "by": "Kim Swoo-geun",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1967",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Eight Brutalist blocks in a row across central Seoul, up to 17 floors, built over cleared slums.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:세운상가.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sewoon_Sangga",
+   "https://en.wikipedia.org/wiki/Kim_Swoo-geun"
+  ],
+  "note": "Wikipedia gives 1966, Kim Swoo-geun's work list 1967. Mixed-use (shops below, flats above); 'Workplace' is the closest type. Only one clear free photo found; no dedicated Commons category found by search."
+ }
+]
