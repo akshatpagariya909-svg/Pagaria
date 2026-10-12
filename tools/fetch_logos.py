@@ -81,8 +81,7 @@ def main():
                     break
                 try:
                     im = Image.open(io.BytesIO(data))
-                    if getattr(im, 'n_frames', 1) > 1 or im.format == 'ICO':
-                        im.size = max(im.ico.sizes()) if im.format == 'ICO' else im.size
+                    # Pillow opens an .ico at its largest size
                     im = im.convert('RGBA')
                     im.thumbnail((128, 128))
                     im.save(OUT / f'{key}.png')
