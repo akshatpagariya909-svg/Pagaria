@@ -46,5 +46,216 @@
    "https://en.wikipedia.org/wiki/Pampulha_Modern_Ensemble"
   ],
   "note": "Part of the UNESCO Pampulha Modern Ensemble (2016) with the church and casino already on the wall. Fourth photo is mostly the entrance sign."
+ },
+ {
+  "id": "iate-tenis-clube-pampulha",
+  "name": "Iate Tênis Clube, Pampulha",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1942",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Lakeside club under an inverted 'butterfly' roof, raised on pilotis, one of Niemeyer's four Pampulha buildings.",
+  "award": "Latin American modernism 1930–1980: Pampulha Modern Ensemble, Niemeyer (UNESCO 2016)",
+  "status": "photo",
+  "commons_category": "Category:Iate Tênis Clube",
+  "photos": [
+   {
+    "file": "File:Iate Clube.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Iate Tênis Clube - Belo Horizonte - 20190616162856.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pampulha_Modern_Ensemble"
+  ],
+  "note": "The club has been altered over the years; photos show it from across the lake."
+ },
+ {
+  "id": "oca-ibirapuera",
+  "name": "Oca, Ibirapuera Park",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1954",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Low white concrete dome pierced by round windows, with curving ramps and floors inside.",
+  "award": "Latin American modernism 1930–1980: Ibirapuera Park ensemble, Niemeyer",
+  "status": "photo",
+  "commons_category": "Category:Oca (Parque do Ibirapuera)",
+  "photos": [
+   {
+    "file": "File:Ibirapuera 7.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:City of São Paulo, Brazil (48591509127).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ibirapuera Park, São Paulo 2018 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oca_(Ibirapuera_Park)",
+   "https://en.wikipedia.org/wiki/Ibirapuera_Park"
+  ],
+  "note": "Ibirapuera Auditorium (2005) is already on the wall; the Oca and Bienal pavilion are the 1954 originals."
+ },
+ {
+  "id": "pavilhao-da-bienal",
+  "name": "Bienal Pavilion (Pavilhão Ciccillo Matarazzo)",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1954",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Promenade",
+   "Brise-soleil"
+  ],
+  "features": "Long glass-and-louvre box on a column grid; curved ramps and free-form floor openings inside.",
+  "award": "Latin American modernism 1930–1980: Ibirapuera Park ensemble, Niemeyer",
+  "status": "photo",
+  "commons_category": "Category:Pavilhão Ciccillo Matarazzo",
+  "photos": [
+   {
+    "file": "File:Bienal São Paulo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fachada do prédio da Bienal de São Paulo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ciccillo_Matarazzo_Pavilion"
+  ],
+  "note": "Photos seen are the entrance and a louvre close-up; no wide view of the whole building checked. Home of the São Paulo Bienal since 1957. Many interior photos in the category."
+ },
+ {
+  "id": "grande-hotel-ouro-preto",
+  "name": "Grande Hotel de Ouro Preto",
+  "by": "Oscar Niemeyer",
+  "city": "Ouro Preto",
+  "cc": "BR",
+  "year": "1940",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Earth & local material",
+   "Section"
+  ],
+  "features": "Modern hotel set into a colonial hill town: pilotis, clay-tile roof and balconied duplex rooms.",
+  "award": "Latin American modernism 1930–1980: early Niemeyer, backed by Lúcio Costa",
+  "status": "photo",
+  "commons_category": "Category:Grande Hotel de Ouro Preto",
+  "photos": [
+   {
+    "file": "File:Grande Hotel Ouro Preto.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:ALTA 20220626 101821 DSC4360 (52180792470).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grande Hotel de Ouro Preto, vista aérea.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Grande_Hotel_de_Ouro_Preto"
+  ],
+  "note": "Lúcio Costa backed Niemeyer's modern design over a neo-colonial one for this UNESCO town."
+ },
+ {
+  "id": "torre-de-tv-brasilia",
+  "name": "Brasília TV Tower",
+  "by": "Lúcio Costa",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1967",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Steel lattice mast on a concrete base with a viewing deck, set on Brasília's Monumental Axis.",
+  "award": "Latin American modernism 1930–1980: Lúcio Costa's Brasília (UNESCO 1987)",
+  "status": "photo",
+  "commons_category": "Category:Torre de TV de Brasília",
+  "photos": [
+   {
+    "file": "File:Brasilia TV Tower Brasil.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasilia TV Tower from West 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasilia Television Tower from East contre-jour.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasilia aerea torredetv1304 4713.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bras%C3%ADlia_TV_Tower"
+  ],
+  "note": "Fourth photo is an aerial down the axis."
  }
 ]

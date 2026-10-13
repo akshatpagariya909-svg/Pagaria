@@ -1,0 +1,294 @@
+[
+ {
+  "id": "independence-arch-accra",
+  "name": "Independence Arch",
+  "by": "Ghana Public Works Department",
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1961",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Axis"
+  ],
+  "features": "Concrete triumphal arch crowned by the Black Star, closing the vast parade ground of Black Star Square.",
+  "award": "African Modernism survey (Ghana)",
+  "status": "photo",
+  "commons_category": "Category:Independence Arch (Accra)",
+  "photos": [
+   {
+    "file": "File:Independence arch at sunset 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Black star square (ii-(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Independence_Arch"
+  ],
+  "note": "Wikipedia infobox names the Ghana Public Works Department as designer, no individual architect. Category has 20+ free photos; File:Independence Arch, Accra.jpg shows the arched grandstand on the square, not the arch itself."
+ },
+ {
+  "id": "job-600-accra",
+  "name": "Job 600",
+  "by": null,
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Modular"
+  ],
+  "features": "Long slab built in months for the 1965 OAU summit, its gridded facade split by tall vertical bands.",
+  "award": "African Modernism survey (Ghana)",
+  "status": "photo",
+  "commons_category": "Category:Job 600",
+  "photos": [
+   {
+    "file": "File:Ghana Job 600.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Job_600"
+  ],
+  "note": "Only one clear photo of the slab (4032x3024); the other file in the category is a distant view down the forecourt. Architect: Wikipedia names none; other sources searched did not confirm one, so 'by' is left empty. Renovated 2015 by China State Hualong; facade description is from the photo, check before using."
+ },
+ {
+  "id": "national-museum-of-ghana",
+  "name": "National Museum of Ghana",
+  "by": "Denys Lasdun, Lindsay Drake",
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1957",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Low concrete museum under a saucer-shaped aluminium dome, with windows angled like teeth to dodge the sun.",
+  "award": "African Modernism survey (Ghana)",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Ghana",
+  "photos": [
+   {
+    "file": "File:National Museum of Ghana.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Main entrance of National Museum of Ghana.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Ghana"
+  ],
+  "note": "Opened 5 March 1957, the eve of independence. National Museum of Ghana.jpg shows the dome behind the entrance wing; the entrance photos are partly hidden by trees."
+ },
+ {
+  "id": "hotel-ivoire",
+  "name": "Hôtel Ivoire",
+  "by": "Heinz Fenchel, Thomas Leitersdorf, William Pereira",
+  "city": "Abidjan",
+  "cc": "CI",
+  "year": "1969",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Public space"
+  ],
+  "features": "Lagoon-side hotel town: a 1963 block, a 24-storey tower, casino, rink and pools laid out as one resort.",
+  "award": "African Modernism survey (Côte d'Ivoire)",
+  "status": "photo",
+  "commons_category": "Category:Hôtel Ivoire",
+  "photos": [
+   {
+    "file": "File:Ivoire Hotel (23884674866).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotelivoirevulagune.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/H%C3%B4tel_Ivoire"
+  ],
+  "note": "Main building 1963 (17 storeys), tower 1969 (24 storeys, 100 m), more rooms 1972; renovated 2015. Several other category photos show only the pools and grounds."
+ },
+ {
+  "id": "hilton-nairobi",
+  "name": "Hilton Nairobi",
+  "by": null,
+  "city": "Nairobi",
+  "cc": "KE",
+  "year": "1969",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Modular"
+  ],
+  "features": "Cylindrical tower of even window bands on a low podium, a post-independence break with colonial hotels.",
+  "award": "African Modernism survey (Kenya)",
+  "status": "photo",
+  "commons_category": "Category:Hilton Nairobi",
+  "photos": [
+   {
+    "file": "File:Hilton Nairobi.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotel Hilton Nairobi.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://theconversation.com/kenyas-first-skyscraper-closes-and-leaves-a-complicated-legacy-200092",
+   "https://www.skydb.net/building/944604779/hilton-hotel-kenya"
+  ],
+  "note": "No English Wikipedia article. Opened 1969 by Jomo Kenyatta; hotel closed 2022/23. No source found names the architect, so 'by' is empty."
+ },
+ {
+  "id": "findeco-house",
+  "name": "Findeco House",
+  "by": "Dušan Milenković, Branimir Ganović",
+  "city": "Lusaka",
+  "cc": "ZM",
+  "year": "1978",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "Zambia's tallest tower: 23 storeys of deep concrete sun-shading, by Yugoslav architects for Kaunda's state.",
+  "award": "African Modernism survey (Zambia)",
+  "status": "photo",
+  "commons_category": "Category:Findeco House",
+  "photos": [
+   {
+    "file": "File:Downtown Lusaka.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/FINDECO_House",
+   "https://www.africanstatearchitecture.co.uk/post/findeco-house-on-cairo-road-in-lusaka-zambia"
+  ],
+  "note": "Dates disagree (Wikipedia 1978-79; others 1971-78); 1978 is the widely reported opening by Kaunda. Best photo (3786x2853) shows the tower in full beside a park; File:Lusaka, Zambia CBD Kafue Roundabout.jpg is an aerial where it is small. 'Brise-soleil' is read from the photo, not stated in sources."
+ },
+ {
+  "id": "cocoa-house-ibadan",
+  "name": "Cocoa House",
+  "by": "The Plan Group (West Africa)",
+  "city": "Ibadan",
+  "cc": "NG",
+  "year": "1965",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "West Africa's first skyscraper, 26 storeys, built with cocoa-farming revenue as a symbol of the Western Region.",
+  "award": "African Modernism survey (Nigeria)",
+  "status": "photo",
+  "commons_category": "Category:Cocoa House",
+  "photos": [
+   {
+    "file": "File:Cocoa-house-in-ibadan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cocoa House, Liebu bye pass, Ibadan.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cocoa_House",
+   "https://transnationalarchitecture.group/category/ibadan"
+  ],
+  "note": "Completed 1964, commissioned July 1965; 26 storeys, 105 m. Attribution is unsettled: a 1960 trade journal lists The Plan Group (West Africa); other research links Nickson & Borys. Built by Cappa & D'Alberto. ~19 free photos in the category."
+ },
+ {
+  "id": "independence-house-lagos",
+  "name": "Independence House",
+  "by": "G. Cappa",
+  "city": "Lagos",
+  "cc": "NG",
+  "year": "1961",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Modular"
+  ],
+  "features": "25-storey reinforced-concrete office slab beside Tafawa Balewa Square, a year after independence.",
+  "award": "African Modernism survey (Nigeria)",
+  "status": "photo",
+  "commons_category": "Category:Independence House Lagos",
+  "photos": [
+   {
+    "file": "File:Independence House Lagos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Independence_House_(Lagos)",
+   "https://en.wikipedia.org/wiki/Architecture_of_Nigeria"
+  ],
+  "note": "Only one usable photo, 1080x1440 (passes the 800px rule), looking up at the tower over a lower building. Wikipedia: 25 floors, 103 m, designed and built by G. Cappa."
+ }
+]
