@@ -409,7 +409,7 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Royal_Children%27s_Hospital,_Melbourne"
+   "https://en.wikipedia.org/wiki/Royal_Children%27s_Hospital"
   ],
   "note": "Second photo is a high view from the park. File:Royal-Childrens-Hospital-Melbourne.JPG seems to show older buildings, so skip it. Interior: File:Royal Children's Hospital Atrium Melbourne.jpg (CC BY 2.0)."
  },
@@ -448,9 +448,9 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Victoria_Tower_(Stockholm)"
+   "https://en.wikipedia.org/wiki/Scandic_Victoria_Tower"
   ],
-  "note": "Second photo is a facade close-up. File:Victoria Tower Kista 2.jpg shows it under construction."
+  "note": "Second photo is a facade close-up. File:Victoria Tower Kista 2.jpg shows it under construction. Wikipedia: 117 m, 34 floors, completed 2011."
  },
  {
   "id": "maersk-tower",
@@ -492,7 +492,7 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Maersk_Tower"
+   "https://en.wikipedia.org/wiki/Panum_Building"
   ],
   "note": "University of Copenhagen Panum extension."
  },
@@ -625,7 +625,7 @@
    "Light & shadow",
    "Geometry"
   ],
-  "features": "Faculty and mosque raised on columns, marked by two tall white minarets carved with calligraphy.",
+  "features": "Faculty and mosque raised on five big columns, one per pillar of Islam, with two 90 m calligraphic minarets.",
   "award": "World Architecture Festival 2015: Religion category winner",
   "status": "photo",
   "commons_category": "Category:Qatar Faculty of Islamic Studies",
@@ -646,9 +646,9 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Qatar_Faculty_of_Islamic_Studies"
+   "https://en.wikipedia.org/wiki/Education_City_Mosque"
   ],
-  "note": "Only ~1125px photos, mostly of the minarets (pass the 800px rule). Qatar has no freedom of panorama, so these files could be deleted from Commons; a drawing would be a backup. Now part of Hamad Bin Khalifa University, Education City."
+  "note": "Only ~1125px photos, mostly of the minarets (pass the 800px rule). Qatar has no freedom of panorama, so these files could be deleted from Commons; a drawing would be a backup. Now part of Hamad Bin Khalifa University, Education City. Wikipedia (Education City Mosque) gives 90 m minarets and five columns, and says finished 2013, but a Commons photo shows it under construction in 2014, so 2015 is kept."
  },
  {
   "id": "arena-zagreb",
@@ -665,7 +665,7 @@
    "Geometry"
   ],
   "features": "Oval arena wrapped in a ring of tall, curved white ribs that bend outward at the top.",
-  "award": "World Architecture Festival 2009/10: Structural Design (Spans) winner",
+  "award": "World Architecture Festival: Structural Design (Spans) award",
   "status": "photo",
   "commons_category": "Category:Arena Zagreb",
   "photos": [
@@ -729,7 +729,7 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Museo_Memoria_y_Tolerancia"
+   "https://en.wikipedia.org/wiki/Memory_and_Tolerance_Museum"
   ],
   "note": "Photos are 1200px, donated by the museum. Architect and year from memory (Arditti + RDT, opened 2010); WAF page lists it as a Culture winner without the year clearly shown, check."
  },
@@ -846,7 +846,7 @@
   "after": null,
   "sources": [
    "https://en.wikipedia.org/wiki/World_Architecture_Festival",
-   "https://en.wikipedia.org/wiki/Scale_Lane_Bridge"
+   "https://en.wikipedia.org/wiki/Scale_Lane_Footbridge"
   ],
   "note": "The first photo shows the drum end from the plaza, the second the span from the river side."
  },
@@ -1223,7 +1223,6 @@
   "view": null,
   "after": null,
   "sources": [
-   "https://en.wikipedia.org/wiki/Sara_Cultural_Centre",
    "https://www.theplan.it/eng/whats_on/waf-2022-vincitori-prime-20-categorie"
   ],
   "note": "Second photo is at night with the tower lit in colours. Earlier files in the category show construction (useful as extras: exposed timber frame). Hotel is The Wood Hotel; storey count from memory, check."
@@ -1293,5 +1292,368 @@
    "https://designdekko.com/news/world-architecture-festival-2024-day-two-winners-of-international-architectural-awards-announced"
   ],
   "note": "Only one photo (3024px square, public domain), a clear street view. At Alfred Hospital, Prahran; year from memory (opened 2023), check."
+ },
+ {
+  "id": "alila-villas-uluwatu",
+  "name": "Alila Villas Uluwatu",
+  "by": "WOHA",
+  "city": "Uluwatu, Bali",
+  "cc": "ID",
+  "year": "2009",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Reclaimed material"
+  ],
+  "features": "Clifftop resort of low terraced villas and open lattice pavilions, built with local stone and reclaimed timber.",
+  "award": "World Architecture Festival 2010: Holiday category winner",
+  "status": "photo",
+  "commons_category": "Category:Alila Villas Uluwatu",
+  "photos": [
+   {
+    "file": "File:Pavilion (44618244035).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paradise (45461420832).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dusk (45607177891).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alila Villas Uluwatu.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Flickr photos with generic titles (Pavilion, Paradise, Dusk) but in the building's own category. Materials from memory (volcanic stone, reclaimed ironwood); check."
+ },
+ {
+  "id": "shanghai-suhe-mixc-world",
+  "name": "Shanghai Suhe MixC World",
+  "by": "Kokaistudios",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Planting"
+  ],
+  "features": "Shopping centre split by a sunken park valley; curving planted terraces step down to the shops.",
+  "award": "World Architecture Festival 2023: Shopping category winner",
+  "status": "photo",
+  "commons_category": "Category:Shanghai Suhe MixC World",
+  "photos": [
+   {
+    "file": "File:Shanghai Suhe MixC World 20251127.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Only one photo (6559px): the sunken valley and green terraces, with a large pink elephant sculpture in the foreground. Opening year from memory (2021), check. No retail type in vocab, so Public space."
+ },
+ {
+  "id": "simba-vision-montessori-school",
+  "name": "Simba Vision Montessori School",
+  "by": "Architectural Pioneering Consultants",
+  "city": "Ngabobo Village (near Arusha)",
+  "cc": "TZ",
+  "year": "2022",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Community"
+  ],
+  "features": "Two-storey school of volcanic-rock blockwork walls set at angles for airflow, under a deep overhanging zinc roof.",
+  "award": "Dezeen Awards 2023: Architecture Project of the Year",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2023/10/31/architectural-pioneering-consultants-simba-vision-montessori-school/",
+   "https://www.dezeen.com/awards/2023/winners/simba-vision-montessori-school/"
+  ],
+  "note": "No photos on Commons. Not drawn: sources describe angled blockwork walls and an overhanging zinc roof that collects rain, but not the overall plan shape or roof profile. Completion 2022 per one listing; Dezeen gives no year. Serves Maasai communities between Mount Meru and Kilimanjaro."
+ },
+ {
+  "id": "blaise-pascal-gymnasium-abidjan",
+  "name": "Blaise Pascal High School Gymnasium",
+  "by": "Koffi & Diabaté Architectes",
+  "city": "Abidjan",
+  "cc": "CI",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "Bare-concrete sports hall on a slope, its upper level wrapped in red perforated metal louvres for shade and breeze.",
+  "award": "World Architecture Festival 2018: Sport category winner",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.arch2o.com/?p=667847",
+   "https://livinspaces.net/design-stories/featured-projects/health-and-recreational/an-award-winning-bio-climatic-gymnasium-for-blaise-pascal-secondary-school-in-ivory-coast-by-koffi-diabate-architects/",
+   "https://worldarchitecture.org/architecture-news/evvvh/blaise-pascal-high-school-gymnasium-by-koffi-diabat-architectes.html"
+  ],
+  "note": "No photos on Commons. Not drawn: sources give the concrete base, steel upper level with red perforated louvres, no air conditioning, and West Africa's first indoor climbing wall, but not the roof shape or proportions. Completion year is my estimate (shortlisted WAF 2018); check."
+ },
+ {
+  "id": "darlington-public-school",
+  "name": "Darlington Public School",
+  "by": "fjcstudio",
+  "city": "Sydney (Chippendale)",
+  "cc": "AU",
+  "year": "2023",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Angular brick school with a sawtooth roof; curved metal screens wrap open-air terraces; Aboriginal art in the cladding.",
+  "award": "World Architecture Festival: World Building of the Year 2024",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://amp.cnn.com/cnn/2024/11/08/style/australia-world-building-year-school-intl-scli",
+   "https://archeyes.com/darlington-public-school-by-fjcstudio",
+   "https://aapnews.com.au/news/aussie-public-school-wins-international-design-prize"
+  ],
+  "note": "No photos on Commons (Australia has freedom of panorama for buildings, so an upload would be allowed). Not drawn: sources give the sawtooth roof, brick and curved screens, but not storey count or how the screens sit on the elevation. Re-opened July 2023. fjcstudio (formerly FJMT) also won in 2013 with Auckland Art Gallery."
+ },
+ {
+  "id": "huizhen-high-school",
+  "name": "Huizhen High School",
+  "by": "Approach Design Studio, Zhejiang University of Technology Engineering Design Group",
+  "city": "Ningbo",
+  "cc": "CN",
+  "year": "2023",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Public space"
+  ],
+  "features": "Boarding school with elevated walkways and a ramp up to a gently sloping roof that is a park and open-air lecture hall.",
+  "award": "World Architecture Festival: World Building of the Year 2023",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://world-architects.com/ca/architecture-news/headlines/school-in-china-wins-world-building-of-the-year-2023",
+   "https://amp.cnn.com/cnn/style/huizhen-high-school-world-building-of-the-year",
+   "https://architecturenow.co.nz/articles/world-architecture-festival-2023-winners-announced/"
+  ],
+  "note": "No photos on Commons. Not drawn: sources mention a rooftop park, treehouses, elevated walkways in a 'floating forest' and a sloping roof reached by a ramp, but not the massing. Completion year is my estimate from the 2023 award."
+ },
+ {
+  "id": "guangming-village-reconstruction",
+  "name": "Guangming Village Post-earthquake Reconstruction",
+  "by": "The Chinese University of Hong Kong (Edward Ng, Mu Jun and team)",
+  "city": "Zhaotong, Yunnan",
+  "cc": "CN",
+  "year": "2016",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Low cost",
+   "Climate response"
+  ],
+  "features": "Prototype village house rebuilt after the 2014 Ludian earthquake in improved, earthquake-resistant rammed earth.",
+  "award": "World Architecture Festival: World Building of the Year 2017",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "No photos on Commons. Not drawn: I could not reach a description of the house's form. Team names, earthquake (Ludian, 2014) and completion year are from memory; check before use."
+ },
+ {
+  "id": "the-chapel-a21studio",
+  "name": "The Chapel",
+  "by": "a21studio",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "2014",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Low cost",
+   "Community"
+  ],
+  "features": "Low-budget community hall of leftover steel frame and sheet; printed fabric on the windows throws coloured light.",
+  "award": "World Architecture Festival: World Building of the Year 2014",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archdaily.com/553657/world-building-of-the-year-the-chapel-a21-studio",
+   "https://www.dezeen.com/2014/10/03/the-chapel-a21studio-world-building-of-the-year-world-architecture-festival-2014/",
+   "https://www.metalocus.es/en/news/community-space-a21studio-building-year-waf2014"
+  ],
+  "note": "No photos on Commons. Not drawn: sources describe materials (reused steel frame and sheets, a tree-shaped steel column, three layers of printed fabric) but not the outer form. Year 2014 is the award year; completion may be 2013."
+ },
+ {
+  "id": "dalarna-media-library",
+  "name": "Dalarna Media Library",
+  "by": "ADEPT",
+  "city": "Falun",
+  "cc": "SE",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "University library wrapped in a deep lattice of horizontal slats that filters daylight into the reading rooms.",
+  "award": "World Architecture Festival 2014: Higher Education & Research category winner",
+  "status": "photo",
+  "commons_category": "Category:Dalarna University College",
+  "photos": [
+   {
+    "file": "File:Dalarna University library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca da Universidade de Dalarna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Dalarna University's library in Falun, both photos in snow. The second file's embedded metadata says 'Todos os dereitos reservados' (all rights reserved) although Commons lists CC BY-SA 4.0 - check its file page before using it. Year and slat material from memory; check."
+ },
+ {
+  "id": "london-bridge-station-redevelopment",
+  "name": "London Bridge Station",
+  "by": "Grimshaw",
+  "city": "London",
+  "cc": "GB",
+  "year": "2018",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "Rebuilt station with a huge street-level concourse under the tracks and long curved canopies over the platforms.",
+  "award": "World Architecture Festival 2018: Transport category winner",
+  "status": "photo",
+  "commons_category": "Category:London Bridge station",
+  "photos": [
+   {
+    "file": "File:London Bridge platforms 7 ^ 8 - geograph.org.uk - 8341586.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Bridge Station entrance September 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Bridge Concourse 1.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/London_Bridge_station"
+  ],
+  "note": "Award is for the 2013-2018 rebuild. First photo shows the new platform canopies; second the Tooley Street entrance through the old arches with the Shard above; third is the concourse interior (inside, so maybe not the cover)."
+ },
+ {
+  "id": "lanserhof-sylt",
+  "name": "Lanserhof Sylt",
+  "by": "ingenhoven associates",
+  "city": "List auf Sylt",
+  "cc": "DE",
+  "year": "2022",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Climate response"
+  ],
+  "features": "Health resort under Europe's largest thatched roof; ridge and eaves swing with the dunes, loggias cut into the thatch.",
+  "award": "World Architecture Festival 2023: Hotels & Leisure category winner",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Schematic long elevation of the main building: low glazed ground floor under a deep overhanging thatched roof with a gently swinging ridge and eaves and loggias cut into the roof.",
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/?p=1983711",
+   "https://newatlas.com/architecture/lanserhof-sylt-ingenhoven",
+   "https://ingenhovenarchitects.com/projects/more-projects/lanserhof-sylt/description"
+  ],
+  "note": "No photos on Commons (Germany has freedom of panorama, so an upload would be allowed). Sources: 7,100 m2 thatched roof on 1,348 glulam rafters, main building in three sections under one roof, overhanging thatch modelled on a 1930s officers' building, loggias set into the roof. The drawing is schematic: number of loggias, storey height and roof profile are not measured. Completion 2022 (earlier target 2020)."
  }
 ]

@@ -46,5 +46,229 @@
    "https://www.archiweb.cz/en/b/dior-omotesando"
   ],
   "note": "Flagship store; SANAA designed the shell, interiors were later refitted by Peter Marino (2014)."
+ },
+ {
+  "id": "hiroshima-moca",
+  "name": "Hiroshima City Museum of Contemporary Art",
+  "by": "Kisho Kurokawa",
+  "city": "Hiroshima",
+  "cc": "JP",
+  "year": "1988",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Void",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Row of storehouse-like roofs; materials rise from stone to tile to aluminium round an empty circular plaza.",
+  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "status": "photo",
+  "commons_category": "Category:Hiroshima City Museum of Contemporary Art",
+  "photos": [
+   {
+    "file": "File:広島市現代美術館01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true,
+    "size": "3264x2448"
+   },
+   {
+    "file": "File:Hiroshima MOCA 20201002a.JPG",
+    "license": "CC BY 3.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:広島市現代美術館 - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true,
+    "size": "1600x1200"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hiroshima_City_Museum_of_Contemporary_Art",
+   "https://www.pref.hiroshima.lg.jp/soshiki_file/tatemonogatari/en/page039.html",
+   "https://www.britannica.com/print/article/1233414"
+  ],
+  "note": "Completed 1988, opened 1989, in Hijiyama Park. The circular void and its roof opening point towards the hypocentre; some stone comes from the bombed city hall."
+ },
+ {
+  "id": "kirishima-concert-hall",
+  "name": "Kirishima International Concert Hall (Miyama Conseru)",
+  "by": "Fumihiko Maki",
+  "city": "Kirishima",
+  "cc": "JP",
+  "year": "1994",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Shoebox hall bent into a leaf-shaped plan with a keel-like section for sound, set in open hill country.",
+  "award": "Japanese contemporary: Fumihiko Maki",
+  "status": "photo",
+  "commons_category": "Category:Kirishima International Concert Hall",
+  "photos": [
+   {
+    "file": "File:Miyama Conseru.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5184x3888"
+   },
+   {
+    "file": "File:Miyama Conceru.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3264x2448"
+   },
+   {
+    "file": "File:Kirishima International Concert Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5184x3888"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://maki-and-associates.co.jp/projects/KRM?lang=en",
+   "https://miyama-conseru.or.jp/en/"
+  ],
+  "note": "Main hall seats about 770. Home of the Kirishima International Music Festival."
+ },
+ {
+  "id": "kumamoto-prefectural-museum-of-art",
+  "name": "Kumamoto Prefectural Museum of Art",
+  "by": "Kunio Maekawa",
+  "city": "Kumamoto",
+  "cc": "JP",
+  "year": "1976",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Section"
+  ],
+  "features": "Low brick-tiled galleries in the castle park grounds, with a deep coffered concrete ceiling and glass lobby.",
+  "award": "Japanese modernism: Kunio Maekawa",
+  "status": "photo",
+  "commons_category": "Category:Kumamoto Prefectural Museum of Art",
+  "photos": [
+   {
+    "file": "File:Kumamoto Prefectural Art Museum.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "4000x2250"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kumamoto_Prefectural_Museum_of_Art"
+  ],
+  "note": "Only one large exterior photo of the main building (CC0); File:Kumamoto-Prefectural Museum of Art main 1.jpg (800x450, CC BY-SA 3.0) is a second, small one. The category also holds good interior photos (lobby, coffered ceiling) and the separate annex by Martínez Lapeña-Torres, which is not this building. Wikipedia names no architect in the text; the Commons file description and the category give Maekawa."
+ },
+ {
+  "id": "lee-ufan-museum",
+  "name": "Lee Ufan Museum",
+  "by": "Tadao Ando",
+  "city": "Naoshima",
+  "cc": "JP",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "Half-buried in a valley between hills and sea; long concrete walls lead visitors in to the galleries.",
+  "award": "Japanese contemporary: Tadao Ando public works",
+  "status": "photo",
+  "commons_category": "Category:Lee Ufan Museum",
+  "photos": [
+   {
+    "file": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192966.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   },
+   {
+    "file": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192974.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   },
+   {
+    "file": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192991.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lee_Ufan_Museum",
+   "https://japanjourneys.jp/kagawa/naoshima/attractions/museum/lee-ufan-museum/"
+  ],
+  "note": "Designed with the artist Lee Ufan. Many photos also show his sculptures in the forecourt."
+ },
+ {
+  "id": "matsumoto-performing-arts-centre",
+  "name": "Matsumoto Performing Arts Centre",
+  "by": "Toyo Ito",
+  "city": "Matsumoto",
+  "cc": "JP",
+  "year": "2004",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Sculptural form"
+  ],
+  "features": "Curving walls of GRC panels set with about 20,000 glass pieces that speckle light inside and out.",
+  "award": "Japanese contemporary: Toyo Ito",
+  "status": "photo",
+  "commons_category": "Category:Matsumoto Performing Arts Centre",
+  "photos": [
+   {
+    "file": "File:Matsumoto Performing Arts Centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:まつもと市民芸術館.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2773x1556"
+   },
+   {
+    "file": "File:Matsumoto Performing Arts Centre - Jun 27, 2009.jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "4288x2848"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://visitmatsumoto.com/en/spot/performing-arts-center",
+   "https://www.architectmagazine.com/?p=159200",
+   "https://aeworldmap.com/2018/09/21/matsumoto-performing-arts-center-matsumoto-japan/"
+  ],
+  "note": "Main hall 1,800 seats, small hall 240. Structural engineer Mutsuro Sasaki."
  }
 ]
