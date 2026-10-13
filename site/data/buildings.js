@@ -212741,7 +212741,59 @@ window.BUILDINGS = [
   "commons": "Category:Queen Elizabeth Hall",
   "lead": "File:Queen Elizabeth Hall and Purcell Room.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Queen_Elizabeth_Hall_and_Purcell_Room.jpg/1280px-Queen_Elizabeth_Hall_and_Purcell_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queen-elizabeth-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The Queen Elizabeth Hall and Purcell Room from the River Thames at the northwest",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_Hall_and_Purcell_Room.jpg",
+    "file": "File:Queen Elizabeth Hall and Purcell Room.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Queen_Elizabeth_Hall_and_Purcell_Room_2026-03-11.jpg/1280px-Queen_Elizabeth_Hall_and_Purcell_Room_2026-03-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queen-elizabeth-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 862,
+    "kind": "Interior",
+    "caption": "Interior · Queen Elizabeth Hall and Purcell Room",
+    "credit": "Matt Brown",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_Hall_and_Purcell_Room_2026-03-11.jpg",
+    "file": "File:Queen Elizabeth Hall and Purcell Room 2026-03-11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Eastern_Side_of_the_Queen_Elizabeth_Hall.jpg/1280px-Eastern_Side_of_the_Queen_Elizabeth_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queen-elizabeth-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The eastern side of the Queen Elizabeth Hall in the London Borough of Lambeth",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eastern_Side_of_the_Queen_Elizabeth_Hall.jpg",
+    "file": "File:Eastern Side of the Queen Elizabeth Hall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Queen_Elizabeth_Hall_%288710619518%29.jpg/1280px-Queen_Elizabeth_Hall_%288710619518%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queen-elizabeth-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · South Bank, London",
+    "credit": "Reading Tom  from Reading, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_Hall_(8710619518).jpg",
+    "file": "File:Queen Elizabeth Hall (8710619518).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "brunswick-centre",
@@ -212765,7 +212817,83 @@ window.BUILDINGS = [
   "commons": "Category:Brunswick Centre",
   "lead": "File:Brunswick Centre (4136275375).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Brunswick_Centre_%284136275375%29.jpg/1280px-Brunswick_Centre_%284136275375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brunswick-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 1004,
+    "kind": "Exterior",
+    "caption": "Exterior · Wohn- und Shopping-Center in Bloomsbury, London",
+    "credit": "mibuchat  from Siemensstadt, Germany",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunswick_Centre_(4136275375).jpg",
+    "file": "File:Brunswick Centre (4136275375).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Brunswick_Centre_%28West_Face_-_01%29.jpg/1280px-Brunswick_Centre_%28West_Face_-_01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brunswick-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 935,
+    "kind": "Exterior",
+    "caption": "Exterior · The west face of the Brunswick Centre in Bloomsbury, London Borough of Camden",
+    "credit": "Doyle of London",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunswick_Centre_(West_Face_-_01).jpg",
+    "file": "File:Brunswick Centre (West Face - 01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Bloomsbury_%2C_Brunswick_Centre_-_geograph.org.uk_-_7843537.jpg/1280px-Bloomsbury_%2C_Brunswick_Centre_-_geograph.org.uk_-_7843537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brunswick-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 1381,
+    "kind": "Exterior",
+    "caption": "Exterior · Bloomsbury : Brunswick Centre",
+    "credit": "Jim Osley",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bloomsbury_,_Brunswick_Centre_-_geograph.org.uk_-_7843537.jpg",
+    "file": "File:Bloomsbury , Brunswick Centre - geograph.org.uk - 7843537.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Brunswick_Centre%2C_September_2016_01.jpg/1280px-Brunswick_Centre%2C_September_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brunswick-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Brunswick Centre, September 2016",
+    "credit": "Edwardx",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunswick_Centre,_September_2016_01.jpg",
+    "file": "File:Brunswick Centre, September 2016 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Brunswick_Centre_London_with_water_elements_%282025%29.jpg/1280px-Brunswick_Centre_London_with_water_elements_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brunswick-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · View from inside of the Brunswick Centre London with water elements (2025)",
+    "credit": "Markbenecke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunswick_Centre_London_with_water_elements_(2025).jpg",
+    "file": "File:Brunswick Centre London with water elements (2025).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Inside_the_residential_area_of_the_estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/brunswick-centre/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Taken by Ian Mansfield inside the residential area of Brunswick Centre on Sept 15th 2007",
+    "credit": "Geekchic  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_residential_area_of_the_estate.jpg",
+    "file": "File:Inside the residential area of the estate.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dunelm-house",
@@ -212789,7 +212917,59 @@ window.BUILDINGS = [
   "commons": "Category:Dunelm House, University of Durham",
   "lead": "File:Dunelm House (51215458277).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Dunelm_House_%2851215458277%29.jpg/1280px-Dunelm_House_%2851215458277%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dunelm-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 1966 brutalist students' union building in Durham",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunelm_House_(51215458277).jpg",
+    "file": "File:Dunelm House (51215458277).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Dunelm_House%2C_University_of_Durham_-_geograph.org.uk_-_7710190.jpg/1280px-Dunelm_House%2C_University_of_Durham_-_geograph.org.uk_-_7710190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dunelm-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 866,
+    "kind": "Exterior",
+    "caption": "Exterior · Dunelm House, University of Durham",
+    "credit": "David Purchase",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunelm_House,_University_of_Durham_-_geograph.org.uk_-_7710190.jpg",
+    "file": "File:Dunelm House, University of Durham - geograph.org.uk - 7710190.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Durham_University_Students%27_Union%2C_1967_-_geograph.org.uk_-_6418860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/dunelm-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Durham University Students' Union, 1967",
+    "credit": "Alan Murray-Rust",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Durham_University_Students%27_Union,_1967_-_geograph.org.uk_-_6418860.jpg",
+    "file": "File:Durham University Students' Union, 1967 - geograph.org.uk - 6418860.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/At_Durham_2025_083.jpg/1280px-At_Durham_2025_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dunelm-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Durham_2025_083.jpg",
+    "file": "File:At Durham 2025 083.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "institute-of-education-london",
@@ -212813,7 +212993,83 @@ window.BUILDINGS = [
   "commons": "Category:Exterior of the UCL Institute of Education",
   "lead": "File:Exterior of the UCL Institute of Education.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Exterior_of_the_UCL_Institute_of_Education.jpg/1280px-Exterior_of_the_UCL_Institute_of_Education.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/0.webp",
+    "w": 1280,
+    "h": 834,
+    "kind": "Exterior",
+    "caption": "Exterior · The exterior of the UCL Institute of Education, Bloomsbury",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_UCL_Institute_of_Education.jpg",
+    "file": "File:Exterior of the UCL Institute of Education.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/London_MMB_M3_University_of_London_Institute_of_Education.jpg/1280px-London_MMB_M3_University_of_London_Institute_of_Education.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/1.webp",
+    "w": 1280,
+    "h": 811,
+    "kind": "Exterior",
+    "caption": "Exterior · University of London Institute of Education",
+    "credit": "mattbuck    ( category )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_MMB_M3_University_of_London_Institute_of_Education.jpg",
+    "file": "File:London MMB M3 University of London Institute of Education.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Institute_of_Education_Main_Building.jpg/1280px-Institute_of_Education_Main_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Institute of Education Main Building",
+    "credit": "stevecadman",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institute_of_Education_Main_Building.jpg",
+    "file": "File:Institute of Education Main Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Institute_of_Education_from_Russell_Square.jpg/1280px-Institute_of_Education_from_Russell_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Institute of Education building photographed from Russell Square",
+    "credit": "Tom Morris",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institute_of_Education_from_Russell_Square.jpg",
+    "file": "File:Institute of Education from Russell Square.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Brutalist_Stairs_on_the_UCL_Institute_of_Education_Building.jpg/1280px-Brutalist_Stairs_on_the_UCL_Institute_of_Education_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Brutalist stairs on the exterior of the UCL Instiute of Education building",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brutalist_Stairs_on_the_UCL_Institute_of_Education_Building.jpg",
+    "file": "File:Brutalist Stairs on the UCL Institute of Education Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lasdun_Institute_of_Education_back.jpg/1280px-Lasdun_Institute_of_Education_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/institute-of-education-london/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Institute of Education, Denys Lasdun architect London",
+    "credit": "User:Justinc  Originally there were intended to be five of these spurs, one from each of the towers,",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lasdun_Institute_of_Education_back.jpg",
+    "file": "File:Lasdun Institute of Education back.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wyndham-court",
@@ -212837,7 +213093,83 @@ window.BUILDINGS = [
   "commons": "Category:Wyndham Court",
   "lead": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (July 2021) (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Wyndham_Court%2C_Wyndham_Place%2C_Southampton_%28NHLE_Code_1051043%29_%28July_2021%29_%281%29.jpg/1280px-Wyndham_Court%2C_Wyndham_Place%2C_Southampton_%28NHLE_Code_1051043%29_%28July_2021%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyndham-court/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Wyndham Court, Wyndham Place, Southampton, Hampshire, England",
+    "credit": "User:Hassocks5489",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Court,_Wyndham_Place,_Southampton_(NHLE_Code_1051043)_(July_2021)_(1).jpg",
+    "file": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (July 2021) (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Eastern_Wing_of_Wyndham_Court_as_seen_from_the_South.jpg/1280px-Eastern_Wing_of_Wyndham_Court_as_seen_from_the_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyndham-court/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · The eastenr wing of Wyndham Court in Southampton as seen from the road to the south (Blechynden Terrace)",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eastern_Wing_of_Wyndham_Court_as_seen_from_the_South.jpg",
+    "file": "File:Eastern Wing of Wyndham Court as seen from the South.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wyndham_Court%2C_Wyndham_Place%2C_Southampton_%28NHLE_Code_1051043%29_%28September_2019%29.jpg/1280px-Wyndham_Court%2C_Wyndham_Place%2C_Southampton_%28NHLE_Code_1051043%29_%28September_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyndham-court/thumbs/2.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Exterior",
+    "caption": "Exterior · Wyndham Court, Wyndham Place, Southampton, Hampshire, England",
+    "credit": "User:Hassocks5489",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Court,_Wyndham_Place,_Southampton_(NHLE_Code_1051043)_(September_2019).jpg",
+    "file": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (September 2019).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Wyndham_Court%2C_Southampton.jpg/1280px-Wyndham_Court%2C_Southampton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyndham-court/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Wyndham Court, building in Southampton",
+    "credit": "Ivan Ruggiero   \n  I'd appreciate if you could mail me  (ivanrugg+credit@gmail.com)  if you want to ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Court,_Southampton.jpg",
+    "file": "File:Wyndham Court, Southampton.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Wyndham_Court_-_geograph.org.uk_-_4052969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/wyndham-court/thumbs/4.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alan Murray-Rust",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Court_-_geograph.org.uk_-_4052969.jpg",
+    "file": "File:Wyndham Court - geograph.org.uk - 4052969.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Internal_North-Facing_View_in_Wyndham_Court.jpg/1280px-Internal_North-Facing_View_in_Wyndham_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyndham-court/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · An internal north-facing view inside the courtyard of Wyndham Court in Southampton",
+    "credit": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Internal_North-Facing_View_in_Wyndham_Court.jpg",
+    "file": "File:Internal North-Facing View in Wyndham Court.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "uea-ziggurats",
@@ -212861,7 +213193,71 @@ window.BUILDINGS = [
   "commons": "Category:Suffolk Terrace and Adjoining Walkway and Stairs to Rear, at the University of East Anglia",
   "lead": "File:Suffolk Terrace 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Suffolk_Terrace_1.jpg/1280px-Suffolk_Terrace_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/uea-ziggurats/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ian Beales",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suffolk_Terrace_1.jpg",
+    "file": "File:Suffolk Terrace 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Blocks_3_and_4%2C_Suffolk_Terrace%2C_UEA_-_geograph.org.uk_-_7982228.jpg/1280px-Blocks_3_and_4%2C_Suffolk_Terrace%2C_UEA_-_geograph.org.uk_-_7982228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/uea-ziggurats/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Blocks 3 and 4, Suffolk Terrace, UEA",
+    "credit": "Bill Harrison",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blocks_3_and_4,_Suffolk_Terrace,_UEA_-_geograph.org.uk_-_7982228.jpg",
+    "file": "File:Blocks 3 and 4, Suffolk Terrace, UEA - geograph.org.uk - 7982228.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Suffolk_Terrace_%28ziggurats%29%2C_University_of_East_Anglia_-_geograph.org.uk_-_7403857.jpg/1280px-Suffolk_Terrace_%28ziggurats%29%2C_University_of_East_Anglia_-_geograph.org.uk_-_7403857.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/uea-ziggurats/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Suffolk Terrace (ziggurats), University of East Anglia",
+    "credit": "Bryn Holmes",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suffolk_Terrace_(ziggurats),_University_of_East_Anglia_-_geograph.org.uk_-_7403857.jpg",
+    "file": "File:Suffolk Terrace (ziggurats), University of East Anglia - geograph.org.uk - 7403857.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Norfolk_Terrance_1.jpg/1280px-Norfolk_Terrance_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/uea-ziggurats/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ian Beales",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Norfolk_Terrance_1.jpg",
+    "file": "File:Norfolk Terrance 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Block_4%2C_Suffolk_Terrace%2C_UEA_-_geograph.org.uk_-_7980393.jpg/1280px-Block_4%2C_Suffolk_Terrace%2C_UEA_-_geograph.org.uk_-_7980393.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/uea-ziggurats/thumbs/4.webp",
+    "w": 1280,
+    "h": 947,
+    "kind": "Interior",
+    "caption": "Interior · Block 4, Suffolk Terrace, UEA",
+    "credit": "Bill Harrison",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Block_4,_Suffolk_Terrace,_UEA_-_geograph.org.uk_-_7980393.jpg",
+    "file": "File:Block 4, Suffolk Terrace, UEA - geograph.org.uk - 7980393.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "boston-government-service-center",
@@ -212885,7 +213281,97 @@ window.BUILDINGS = [
   "commons": "Category:Boston Government Service Center",
   "lead": "File:Paul Rudolph - Boston Government Services Center (14989170661).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paul_Rudolph_-_Boston_Government_Services_Center_%2814989170661%29.jpg/1280px-Paul_Rudolph_-_Boston_Government_Services_Center_%2814989170661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 1187,
+    "kind": "Exterior",
+    "caption": "Exterior · Paul Rudolph - Boston Government Services Center",
+    "credit": "Naquib Hossain  from Montreal, Philadelphia, Dhaka",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paul_Rudolph_-_Boston_Government_Services_Center_(14989170661).jpg",
+    "file": "File:Paul Rudolph - Boston Government Services Center (14989170661).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Government-Service-Center-Boston-05-2018a.jpg/1280px-Government-Service-Center-Boston-05-2018a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 877,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Government-Service-Center-Boston-05-2018a.jpg",
+    "file": "File:Government-Service-Center-Boston-05-2018a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/BGSC_05.jpg/1280px-BGSC_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · At the Boston Government Service Center",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BGSC_05.jpg",
+    "file": "File:BGSC 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Government-Service-Center-Boston-05-2018d.jpg/1280px-Government-Service-Center-Boston-05-2018d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 823,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Government-Service-Center-Boston-05-2018d.jpg",
+    "file": "File:Government-Service-Center-Boston-05-2018d.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/BGSC_11.jpg/1280px-BGSC_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/4.webp",
+    "w": 1106,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · At the Boston Government Service Center",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BGSC_11.jpg",
+    "file": "File:BGSC 11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seth_Tisue_-_2175147451.jpg/1280px-Seth_Tisue_-_2175147451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Seth Tisue",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seth_Tisue_-_2175147451.jpg",
+    "file": "File:Seth Tisue - 2175147451.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Boston_Government_Service_Center_details_14.jpg/1280px-Boston_Government_Service_Center_details_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-government-service-center/thumbs/6.webp",
+    "w": 1280,
+    "h": 590,
+    "kind": "Plan",
+    "caption": "Plan · Boston Government Service Center details",
+    "credit": "Paul Rudolph",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Government_Service_Center_details_14.jpg",
+    "file": "File:Boston Government Service Center details 14.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "j-edgar-hoover-building",
@@ -212909,7 +213395,83 @@ window.BUILDINGS = [
   "commons": "Category:J. Edgar Hoover Building",
   "lead": "File:FBI Building diagonal Washington DC 2026-01-11 13-34-52.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/FBI_Building_diagonal_Washington_DC_2026-01-11_13-34-52.jpg/1280px-FBI_Building_diagonal_Washington_DC_2026-01-11_13-34-52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Context",
+    "caption": "Context · A view of the Federal Bureau of Investigation (FBI) main headquarters building, the J",
+    "credit": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FBI_Building_diagonal_Washington_DC_2026-01-11_13-34-52.jpg",
+    "file": "File:FBI Building diagonal Washington DC 2026-01-11 13-34-52.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Washington_DC%2C_FBI_-_panoramio.jpg/1280px-Washington_DC%2C_FBI_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Exterior",
+    "caption": "Exterior · Washington DC, FBI",
+    "credit": "cisko66",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Washington_DC,_FBI_-_panoramio.jpg",
+    "file": "File:Washington DC, FBI - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/FBI_Headquarters%2C_Washington.jpg/1280px-FBI_Headquarters%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Washington",
+    "credit": "dconvertini",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FBI_Headquarters,_Washington.jpg",
+    "file": "File:FBI Headquarters, Washington.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/FBI_Headquarters.jpg/1280px-FBI_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 949,
+    "kind": "Exterior",
+    "caption": "Exterior · FBI Headquarters",
+    "credit": "FBI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:FBI_Headquarters.jpg",
+    "file": "File:FBI Headquarters.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/FBI_building_Freedom_250_banner_Washington_DC_2026-10-07_14-25-23.jpg/1280px-FBI_building_Freedom_250_banner_Washington_DC_2026-10-07_14-25-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Looking across Pennsylvania Ave and 10th St NW at the corner of the J",
+    "credit": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FBI_building_Freedom_250_banner_Washington_DC_2026-10-07_14-25-23.jpg",
+    "file": "File:FBI building Freedom 250 banner Washington DC 2026-10-07 14-25-23.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Edgar_Hoover_Building_in_Washington_DC_at_sunset.jpg/1280px-Edgar_Hoover_Building_in_Washington_DC_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/j-edgar-hoover-building/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · J",
+    "credit": "WalterFish",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edgar_Hoover_Building_in_Washington_DC_at_sunset.jpg",
+    "file": "File:Edgar Hoover Building in Washington DC at sunset.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "temple-street-parking-garage",
@@ -212933,7 +213495,59 @@ window.BUILDINGS = [
   "commons": "Category:Temple Street Parking Garage",
   "lead": "File:Temple Street Parking Garage.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Temple_Street_Parking_Garage.jpg/1280px-Temple_Street_Parking_Garage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-street-parking-garage/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Temple Street Parking Garage, New Haven Designed by Paul Rudolph and built from 1959-~1962",
+    "credit": "Seth Tisue",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_Street_Parking_Garage.jpg",
+    "file": "File:Temple Street Parking Garage.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Temple-Street-Parking-Garage-Paul-Rudolph-New-Haven-Connecticut-04-2014.jpg/1280px-Temple-Street-Parking-Garage-Paul-Rudolph-New-Haven-Connecticut-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-street-parking-garage/thumbs/1.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Context",
+    "caption": "Context · Temple Street Parking Garage, Paul Rudolph, New Haven, Connecticut, Apr",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple-Street-Parking-Garage-Paul-Rudolph-New-Haven-Connecticut-04-2014.jpg",
+    "file": "File:Temple-Street-Parking-Garage-Paul-Rudolph-New-Haven-Connecticut-04-2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Temple_Street_Parking_Garage_b%26w_detail_2.jpg/1280px-Temple_Street_Parking_Garage_b%26w_detail_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-street-parking-garage/thumbs/2.webp",
+    "w": 1280,
+    "h": 1016,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Seth Tisue",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_Street_Parking_Garage_b%26w_detail_2.jpg",
+    "file": "File:Temple Street Parking Garage b&w detail 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Temple_Street_Parking_Garage_b%26w_detail.jpg/1280px-Temple_Street_Parking_Garage_b%26w_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-street-parking-garage/thumbs/3.webp",
+    "w": 1280,
+    "h": 1038,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Seth Tisue",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_Street_Parking_Garage_b%26w_detail.jpg",
+    "file": "File:Temple Street Parking Garage b&w detail.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wurster-hall",
@@ -212957,7 +213571,59 @@ window.BUILDINGS = [
   "commons": "Category:Wurster Hall (Berkeley, California)",
   "lead": "File:Wurster Hall SW.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Wurster_Hall_SW.jpg/1280px-Wurster_Hall_SW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wurster-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wurster_Hall_SW.jpg",
+    "file": "File:Wurster Hall SW.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/UC_Berkeley_Wurster_Hall.jpg/1280px-UC_Berkeley_Wurster_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wurster-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 844,
+    "kind": "Interior",
+    "caption": "Interior · I took this picture myself at Wurster Hall of en:UC Berkeley",
+    "credit": "Michael S Bergin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UC_Berkeley_Wurster_Hall.jpg",
+    "file": "File:UC Berkeley Wurster Hall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/9416_Wurster_%2828087873641%29.jpg/1280px-9416_Wurster_%2828087873641%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wurster-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "mliu92  from San Mateo",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:9416_Wurster_(28087873641).jpg",
+    "file": "File:9416 Wurster (28087873641).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/UC-Berkeley-014-wurster-hall-dorms-hearst-gym.jpg/1280px-UC-Berkeley-014-wurster-hall-dorms-hearst-gym.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wurster-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 722,
+    "kind": "Interior",
+    "caption": "Interior · UC Berkeley Campus - view from Sather Tower of Wurster Hall, Unit 1 and Unit 2 dorms, Hearst Gym",
+    "credit": "Firstcultural",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:UC-Berkeley-014-wurster-hall-dorms-hearst-gym.jpg",
+    "file": "File:UC-Berkeley-014-wurster-hall-dorms-hearst-gym.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "christian-science-plaza",
@@ -212981,7 +213647,83 @@ window.BUILDINGS = [
   "commons": "Category:Christian Science Center",
   "lead": "File:Colonnade Building of the First Church of Christ, Scientist.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Colonnade_Building_of_the_First_Church_of_Christ%2C_Scientist.jpg/1280px-Colonnade_Building_of_the_First_Church_of_Christ%2C_Scientist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Stevenliuyi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colonnade_Building_of_the_First_Church_of_Christ,_Scientist.jpg",
+    "file": "File:Colonnade Building of the First Church of Christ, Scientist.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Reflecting_Pool_at_the_Christian_Science_Center_in_Boston.jpg/1280px-Reflecting_Pool_at_the_Christian_Science_Center_in_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The reflecting pool, the Christian Science Center and the Prudential Center",
+    "credit": "Deanzy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflecting_Pool_at_the_Christian_Science_Center_in_Boston.jpg",
+    "file": "File:Reflecting Pool at the Christian Science Center in Boston.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/USA_09568_Boston_Luca_Galuzzi_2007.jpg/1280px-USA_09568_Boston_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Luca Galuzzi ( Lucag )",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:USA_09568_Boston_Luca_Galuzzi_2007.jpg",
+    "file": "File:USA 09568 Boston Luca Galuzzi 2007.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Back_Bay_Crosswalk%2C_Boston.jpg/1280px-Back_Bay_Crosswalk%2C_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Christian Science Center, Boston",
+    "credit": "Sarah&Boston",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Back_Bay_Crosswalk,_Boston.jpg",
+    "file": "File:Back Bay Crosswalk, Boston.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Overlooking_Boston.jpg/1280px-Overlooking_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/4.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Christian Science Center",
+    "credit": "Sarah&Boston",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Overlooking_Boston.jpg",
+    "file": "File:Overlooking Boston.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Christian_Science_Center%2C_April_2004.jpg/1280px-Christian_Science_Center%2C_April_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christian-science-plaza/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Christian Science Center , showing the Mother Church Extension and (left) Christian Science Publishing House",
+    "credit": "en:User:Physicistjedi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Christian_Science_Center,_April_2004.jpg",
+    "file": "File:Christian Science Center, April 2004.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hygiene-institute-berlin",
@@ -213005,7 +213747,71 @@ window.BUILDINGS = [
   "commons": "Category:Institut für Hygiene und Umweltmedizin, Charité Berlin",
   "lead": "File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg/1280px-Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hygiene-institute-berlin/thumbs/0.webp",
+    "w": 1280,
+    "h": 898,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg",
+    "file": "File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Institut-fuer-Hygiene-und-Mikrobiologie-bzw-Umweltmedizin-Krahmerstr-Berlin-Lichterfelde-03-2017a.jpg/1280px-Institut-fuer-Hygiene-und-Mikrobiologie-bzw-Umweltmedizin-Krahmerstr-Berlin-Lichterfelde-03-2017a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hygiene-institute-berlin/thumbs/1.webp",
+    "w": 1280,
+    "h": 694,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institut-fuer-Hygiene-und-Mikrobiologie-bzw-Umweltmedizin-Krahmerstr-Berlin-Lichterfelde-03-2017a.jpg",
+    "file": "File:Institut-fuer-Hygiene-und-Mikrobiologie-bzw-Umweltmedizin-Krahmerstr-Berlin-Lichterfelde-03-2017a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_04.jpg/1280px-Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hygiene-institute-berlin/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Building Institut für Hygiene und Mikrobiologie in Berlin-Lichterfelde",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_04.jpg",
+    "file": "File:Institut für Hygiene und Mikrobiologie Berlin-Lichterfelde 2024-11-21 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_05.jpg/1280px-Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hygiene-institute-berlin/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Building Institut für Hygiene und Mikrobiologie in Berlin-Lichterfelde",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Institut_f%C3%BCr_Hygiene_und_Mikrobiologie_Berlin-Lichterfelde_2024-11-21_05.jpg",
+    "file": "File:Institut für Hygiene und Mikrobiologie Berlin-Lichterfelde 2024-11-21 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-06-16-Auditorium-Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel.jpg/1280px-2019-06-16-Auditorium-Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hygiene-institute-berlin/thumbs/4.webp",
+    "w": 1280,
+    "h": 998,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-06-16-Auditorium-Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel.jpg",
+    "file": "File:2019-06-16-Auditorium-Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-agnes-berlin",
@@ -213029,7 +213835,59 @@ window.BUILDINGS = [
   "commons": "Category:St.-Agnes-Kirche (Berlin)",
   "lead": "File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1280px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-agnes-berlin/thumbs/0.webp",
+    "w": 1280,
+    "h": 1014,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg",
+    "file": "File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2-Punkt-Perspektive.jpg/1280px-2-Punkt-Perspektive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-agnes-berlin/thumbs/1.webp",
+    "w": 1000,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kirche im Brutalismus Stil in Berlin",
+    "credit": "Architekturfotografie Bach",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2-Punkt-Perspektive.jpg",
+    "file": "File:2-Punkt-Perspektive.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Berlin%2C_Kreuzberg%2C_Alexandrinenstrasse_118-121%2C_St-Agnes-Gemeindezentrum_01.jpg/1280px-Berlin%2C_Kreuzberg%2C_Alexandrinenstrasse_118-121%2C_St-Agnes-Gemeindezentrum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-agnes-berlin/thumbs/2.webp",
+    "w": 1280,
+    "h": 1279,
+    "kind": "Exterior",
+    "caption": "Exterior · The former center of the Catholic St",
+    "credit": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin,_Kreuzberg,_Alexandrinenstrasse_118-121,_St-Agnes-Gemeindezentrum_01.jpg",
+    "file": "File:Berlin, Kreuzberg, Alexandrinenstrasse 118-121, St-Agnes-Gemeindezentrum 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/St-Agnes-Kirche_Berlin_front.jpg/1280px-St-Agnes-Kirche_Berlin_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-agnes-berlin/thumbs/3.webp",
+    "w": 942,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Front of the St.-Agnes-Kirche in Berlin, Germany",
+    "credit": "Regani",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:St-Agnes-Kirche_Berlin_front.jpg",
+    "file": "File:St-Agnes-Kirche Berlin front.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "schlangenbader-strasse",
@@ -213053,7 +213911,83 @@ window.BUILDINGS = [
   "commons": "Category:Autobahnüberbauung Schlangenbader Straße",
   "lead": "File:B-Wilmersdorf Nov12 Schlangenbader Tunnel.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/B-Wilmersdorf_Nov12_Schlangenbader_Tunnel.jpg/1280px-B-Wilmersdorf_Nov12_Schlangenbader_Tunnel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/0.webp",
+    "w": 1280,
+    "h": 1312,
+    "kind": "Exterior",
+    "caption": "Exterior · Berlin-Wilmersdorf Schlangenbader Str",
+    "credit": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:B-Wilmersdorf_Nov12_Schlangenbader_Tunnel.jpg",
+    "file": "File:B-Wilmersdorf Nov12 Schlangenbader Tunnel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Autobahnueberbauung-Schlangenbader-Str-Berlin-Wilmersdorf-07-2017d.jpg/1280px-Autobahnueberbauung-Schlangenbader-Str-Berlin-Wilmersdorf-07-2017d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/1.webp",
+    "w": 1280,
+    "h": 843,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autobahnueberbauung-Schlangenbader-Str-Berlin-Wilmersdorf-07-2017d.jpg",
+    "file": "File:Autobahnueberbauung-Schlangenbader-Str-Berlin-Wilmersdorf-07-2017d.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_20.jpg/1280px-Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Motorway covering apartment building Schlangenbader Straße in Berlin-Wilmersdorf",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_20.jpg",
+    "file": "File:Autobahnüberbauung Schlangenbader Straße 2024-09-08 20.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Die_Schlange.jpg/1280px-Die_Schlange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "de:User:Hanson59",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Schlange.jpg",
+    "file": "File:Die Schlange.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_01.jpg/1280px-Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Motorway covering apartment building Schlangenbader Straße in Berlin-Wilmersdorf",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autobahn%C3%BCberbauung_Schlangenbader_Stra%C3%9Fe_2024-09-08_01.jpg",
+    "file": "File:Autobahnüberbauung Schlangenbader Straße 2024-09-08 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin_schlange_innenhof_29.04.2012_11-14-56.jpg/1280px-Berlin_schlange_innenhof_29.04.2012_11-14-56.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schlangenbader-strasse/thumbs/5.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · Inner courtyard of the apartment complex Schlangenbader Straße",
+    "credit": "Dirk Ingo Franke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_schlange_innenhof_29.04.2012_11-14-56.jpg",
+    "file": "File:Berlin schlange innenhof 29.04.2012 11-14-56.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "marl-town-hall",
@@ -213077,7 +214011,83 @@ window.BUILDINGS = [
   "commons": "Category:Rathaus Marl",
   "lead": "File:Rathaus Marl total.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Rathaus_Marl_total.jpg/1280px-Rathaus_Marl_total.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 746,
+    "kind": "Interior",
+    "caption": "Interior · City hall of Marl - Marl, North Rhine-Westphalia, Germany",
+    "credit": "Nordenfan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus_Marl_total.jpg",
+    "file": "File:Rathaus Marl total.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Rathaus-Marl-08-2017a.jpg/1280px-Rathaus-Marl-08-2017a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 923,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus-Marl-08-2017a.jpg",
+    "file": "File:Rathaus-Marl-08-2017a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Rathaus_Marl2.JPG/1280px-Rathaus_Marl2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Rathaus Marl vom gegenüberliegenden Ufer des Sees",
+    "credit": "Nordenfan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus_Marl2.JPG",
+    "file": "File:Rathaus Marl2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Rathaus-Marl-08-2017b.jpg/1280px-Rathaus-Marl-08-2017b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 771,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus-Marl-08-2017b.jpg",
+    "file": "File:Rathaus-Marl-08-2017b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Rathaus-Marl-08-2017d.jpg/1280px-Rathaus-Marl-08-2017d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus-Marl-08-2017d.jpg",
+    "file": "File:Rathaus-Marl-08-2017d.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rathaus_Marl_02.JPG/1280px-Rathaus_Marl_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marl-town-hall/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · City Hall in Marl/Germany",
+    "credit": "Gerardus",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rathaus_Marl_02.JPG",
+    "file": "File:Rathaus Marl 02.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rudo-eastern-city-gate",
@@ -213101,7 +214111,83 @@ window.BUILDINGS = [
   "commons": "Category:Eastern Gate of Belgrade",
   "lead": "File:Источна капија Београда.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg/1280px-%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Eastern Gate of Belgrade",
+    "credit": "Andrija12345678",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0.jpg",
+    "file": "File:Источна капија Београда.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/20241019_133548_Eastern_Gate_of_Belgrade.jpg/1280px-20241019_133548_Eastern_Gate_of_Belgrade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/1.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Eastern Gate of Belgrade",
+    "credit": "Niegodzisie",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20241019_133548_Eastern_Gate_of_Belgrade.jpg",
+    "file": "File:20241019 133548 Eastern Gate of Belgrade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%B8_%D0%B4%D0%B8%D0%BC%D1%9A%D0%B0%D0%BA_%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8_%D0%9A%D0%BE%D1%9A%D0%B0%D1%80%D0%BD%D0%B8%D0%BA.jpg/1280px-%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%B8_%D0%B4%D0%B8%D0%BC%D1%9A%D0%B0%D0%BA_%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8_%D0%9A%D0%BE%D1%9A%D0%B0%D1%80%D0%BD%D0%B8%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Artemco",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B0_%D0%B8_%D0%B4%D0%B8%D0%BC%D1%9A%D0%B0%D0%BA_%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8_%D0%9A%D0%BE%D1%9A%D0%B0%D1%80%D0%BD%D0%B8%D0%BA.jpg",
+    "file": "File:Источна капија и димњак топлани Коњарник.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/20241019_120943_Eastern_Gate_of_Belgrade.jpg/1280px-20241019_120943_Eastern_Gate_of_Belgrade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/3.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Eastern Gate of Belgrade",
+    "credit": "Niegodzisie",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20241019_120943_Eastern_Gate_of_Belgrade.jpg",
+    "file": "File:20241019 120943 Eastern Gate of Belgrade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg/1280px-%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Artemco",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg",
+    "file": "File:Ентеријер Источној капији.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%BA%D1%83%D1%9B%D0%B5_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg/1280px-%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%BA%D1%83%D1%9B%D0%B5_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudo-eastern-city-gate/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Artemco",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%95%D0%BD%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B5%D1%80_%D0%BA%D1%83%D1%9B%D0%B5_%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D1%98_%D0%BA%D0%B0%D0%BF%D0%B8%D1%98%D0%B8.jpg",
+    "file": "File:Ентеријер куће Источној капији.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "macedonian-opera-and-ballet",
@@ -213125,7 +214211,71 @@ window.BUILDINGS = [
   "commons": "Category:Macedonian Opera and Ballet",
   "lead": "File:Macedonian Opera and Ballet 3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Macedonian_Opera_and_Ballet_3.jpg/1280px-Macedonian_Opera_and_Ballet_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macedonian-opera-and-ballet/thumbs/0.webp",
+    "w": 1280,
+    "h": 737,
+    "kind": "Exterior",
+    "caption": "Exterior · Macedonian Opera and Ballet, Skopje",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macedonian_Opera_and_Ballet_3.jpg",
+    "file": "File:Macedonian Opera and Ballet 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Macedonian_Opera_and_Ballet_1.jpg/1280px-Macedonian_Opera_and_Ballet_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macedonian-opera-and-ballet/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Macedonian Opera and Ballet, Skopje",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macedonian_Opera_and_Ballet_1.jpg",
+    "file": "File:Macedonian Opera and Ballet 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg/1280px-%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macedonian-opera-and-ballet/thumbs/2.webp",
+    "w": 1280,
+    "h": 591,
+    "kind": "Exterior",
+    "caption": "Exterior · National Opera and Ballet in Skopje",
+    "credit": "M4r51n",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82.jpg",
+    "file": "File:Национална опера и балет.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Skopje%2C_v%C3%BDstavba_Makedonsk%C3%A9_opery.jpg/1280px-Skopje%2C_v%C3%BDstavba_Makedonsk%C3%A9_opery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macedonian-opera-and-ballet/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Construction works of the new building of the Opera of Macedonia, Skopje",
+    "credit": "I would appreciate  being notified  if you use my work outside Wikimedia.\nMore of my work can be fou",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skopje,_v%C3%BDstavba_Makedonsk%C3%A9_opery.jpg",
+    "file": "File:Skopje, výstavba Makedonské opery.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Skopje_-_panorama_from_fortress.JPG/1280px-Skopje_-_panorama_from_fortress.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macedonian-opera-and-ballet/thumbs/4.webp",
+    "w": 1280,
+    "h": 366,
+    "kind": "Context",
+    "caption": "Context · Skopje, Macedonia - panorama from city fortress",
+    "credit": "Pudelek (Marcin Szala)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skopje_-_panorama_from_fortress.JPG",
+    "file": "File:Skopje - panorama from fortress.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ruhr-university-bochum",
@@ -213149,7 +214299,83 @@ window.BUILDINGS = [
   "commons": "Category:Ruhr-Universität Bochum",
   "lead": "File:N-Buildings of Ruhr-University Bochum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/N-Buildings_of_Ruhr-University_Bochum.jpg/1280px-N-Buildings_of_Ruhr-University_Bochum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"N-buildings\" of Ruhr-University Bochum (natural sciences) in October 2019",
+    "credit": "ChemSim",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N-Buildings_of_Ruhr-University_Bochum.jpg",
+    "file": "File:N-Buildings of Ruhr-University Bochum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bochum_Universit%C3%A4t01_2009-03-17.jpg/1280px-Bochum_Universit%C3%A4t01_2009-03-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/1.webp",
+    "w": 1280,
+    "h": 426,
+    "kind": "Context",
+    "caption": "Context · Gebäude der Universität Bochum",
+    "credit": "KlausFoehl",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bochum_Universit%C3%A4t01_2009-03-17.jpg",
+    "file": "File:Bochum Universität01 2009-03-17.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ruhr-Universit%C3%A4t_Bochum_Luftaufnahme_2014.jpg/1280px-Ruhr-Universit%C3%A4t_Bochum_Luftaufnahme_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/2.webp",
+    "w": 1280,
+    "h": 550,
+    "kind": "Interior",
+    "caption": "Interior · Aerial photograph of RUB = Ruhr University Bochum",
+    "credit": "Tuxyso",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruhr-Universit%C3%A4t_Bochum_Luftaufnahme_2014.jpg",
+    "file": "File:Ruhr-Universität Bochum Luftaufnahme 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/I-Gebaeude-RUB.jpg/1280px-I-Gebaeude-RUB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Die Ingenieurwissenschaftsgebäude der Ruhr-Universität Bochum",
+    "credit": "M",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:I-Gebaeude-RUB.jpg",
+    "file": "File:I-Gebaeude-RUB.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bochum%2C_Ruhr-Universit%C3%A4t_%28Fakult%C3%A4tsgeb%C3%A4ude%2C_Frontansicht%29.jpg/1280px-Bochum%2C_Ruhr-Universit%C3%A4t_%28Fakult%C3%A4tsgeb%C3%A4ude%2C_Frontansicht%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/4.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Bochum, Ruhr-University (faculty buildung, front view)",
+    "credit": "LeO Tiresias",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bochum,_Ruhr-Universit%C3%A4t_(Fakult%C3%A4tsgeb%C3%A4ude,_Frontansicht).jpg",
+    "file": "File:Bochum, Ruhr-Universität (Fakultätsgebäude, Frontansicht).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ruhr-Universit%C3%A4t_Bochum_Universit%C3%A4tsbibliothek_4.jpg/1280px-Ruhr-Universit%C3%A4t_Bochum_Universit%C3%A4tsbibliothek_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ruhr-university-bochum/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Foyer und Treppenhaus der Universitätsbibliothek Bochum",
+    "credit": "Johannes Reimer",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruhr-Universit%C3%A4t_Bochum_Universit%C3%A4tsbibliothek_4.jpg",
+    "file": "File:Ruhr-Universität Bochum Universitätsbibliothek 4.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "goce-delcev-dormitory",
@@ -213173,7 +214399,71 @@ window.BUILDINGS = [
   "commons": "Category:Students' dormitory Goce Delčev, Skopje",
   "lead": "File:Students' dormitory Goce Delčev Skopje 10.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_10.jpg/1280px-Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goce-delcev-dormitory/thumbs/0.webp",
+    "w": 1280,
+    "h": 1103,
+    "kind": "Exterior",
+    "caption": "Exterior · Students' dormitory Goce Delčev, Skopje",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_10.jpg",
+    "file": "File:Students' dormitory Goce Delčev Skopje 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Studentski_dom_GOCE_DELCEV_vo_Skopje%2C_primer_za_brutalizam.jpg/1280px-Studentski_dom_GOCE_DELCEV_vo_Skopje%2C_primer_za_brutalizam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goce-delcev-dormitory/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hip.Hop_MKD ( А.М.-П. Методијевски карадакоски )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Studentski_dom_GOCE_DELCEV_vo_Skopje,_primer_za_brutalizam.jpg",
+    "file": "File:Studentski dom GOCE DELCEV vo Skopje, primer za brutalizam.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8_%D0%94%D0%BE%D0%BC_-_%D0%93%D0%BE%D1%86%D0%B5_%D0%94%D0%B5%D0%BB%D1%87%D0%B5%D0%B2_1.JPG/1280px-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8_%D0%94%D0%BE%D0%BC_-_%D0%93%D0%BE%D1%86%D0%B5_%D0%94%D0%B5%D0%BB%D1%87%D0%B5%D0%B2_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goce-delcev-dormitory/thumbs/2.webp",
+    "w": 1280,
+    "h": 1068,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tashkoskim",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8_%D0%94%D0%BE%D0%BC_-_%D0%93%D0%BE%D1%86%D0%B5_%D0%94%D0%B5%D0%BB%D1%87%D0%B5%D0%B2_1.JPG",
+    "file": "File:Студентски Дом - Гоце Делчев 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_4.jpg/1280px-Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goce-delcev-dormitory/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Students' dormitory Goce Delčev, Skopje",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Students%27_dormitory_Goce_Del%C4%8Dev_Skopje_4.jpg",
+    "file": "File:Students' dormitory Goce Delčev Skopje 4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Karposh%2C_Skopje_1000%2C_Macedonia_%28FYROM%29_-_panoramio_%28154%29.jpg/1280px-Karposh%2C_Skopje_1000%2C_Macedonia_%28FYROM%29_-_panoramio_%28154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goce-delcev-dormitory/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Karposh, Skopje 1000, Macedonia (FYROM)",
+    "credit": "METOKARA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karposh,_Skopje_1000,_Macedonia_(FYROM)_-_panoramio_(154).jpg",
+    "file": "File:Karposh, Skopje 1000, Macedonia (FYROM) - panoramio (154).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "house-of-soviets-kaliningrad",
@@ -213197,7 +214487,83 @@ window.BUILDINGS = [
   "commons": "Category:Dom Sovetov, Kaliningrad",
   "lead": "File:Kaliningrad Dom Sowjetow 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kaliningrad_Dom_Sowjetow_01.jpg/1280px-Kaliningrad_Dom_Sowjetow_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Das Haus der Sowjets in Kaliningrad ",
+    "credit": "Julian Nyča",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaliningrad_Dom_Sowjetow_01.jpg",
+    "file": "File:Kaliningrad Dom Sowjetow 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/The_House_of_Soviet%2C_Kaliningrad%2C_2019-08-23.jpg/1280px-The_House_of_Soviet%2C_Kaliningrad%2C_2019-08-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The House of Soviet, Kaliningrad, Russia",
+    "credit": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_House_of_Soviet,_Kaliningrad,_2019-08-23.jpg",
+    "file": "File:The House of Soviet, Kaliningrad, 2019-08-23.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/House_of_Soviets%2C_Kaliningrad_%2826815508592%29.jpg/1280px-House_of_Soviets%2C_Kaliningrad_%2826815508592%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/2.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · House of Soviets, Kaliningrad",
+    "credit": "Dave Collier  from Sedbergh UK mostly, Santa Vittoria in Matenano. Italy, sometimes.",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:House_of_Soviets,_Kaliningrad_(26815508592).jpg",
+    "file": "File:House of Soviets, Kaliningrad (26815508592).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dom_Sovetov%2C_Kaliningrad_20180811.jpg/1280px-Dom_Sovetov%2C_Kaliningrad_20180811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Dom Sovetov, Kaliningrad",
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dom_Sovetov,_Kaliningrad_20180811.jpg",
+    "file": "File:Dom Sovetov, Kaliningrad 20180811.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kaliningrad_2003_%283266703002%29.jpg/1280px-Kaliningrad_2003_%283266703002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/4.webp",
+    "w": 1280,
+    "h": 824,
+    "kind": "Interior",
+    "caption": "Interior · View from the Sports Hall back towards the Pregel Bridge and the House of the Soviets and Hotel Kaliningrad",
+    "credit": "Felix O",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaliningrad_2003_(3266703002).jpg",
+    "file": "File:Kaliningrad 2003 (3266703002).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kaliningrad_Cathedral_and_House_of_Soviets.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/house-of-soviets-kaliningrad/thumbs/5.webp",
+    "w": 960,
+    "h": 1280,
+    "kind": "Context",
+    "caption": "Context · Koenigsberg cathedral and House of Soviets in Kaliningrad",
+    "credit": "Ttracy",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaliningrad_Cathedral_and_House_of_Soviets.JPG",
+    "file": "File:Kaliningrad Cathedral and House of Soviets.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-thermal-karlovy-vary",
@@ -213221,7 +214587,83 @@ window.BUILDINGS = [
   "commons": "Category:Hotel Thermal",
   "lead": "File:Hotel Thermal (020).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hotel_Thermal_%28020%29.jpg/1280px-Hotel_Thermal_%28020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hotel Thermal, Karlovy Vary",
+    "credit": "Juandev",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Thermal_(020).jpg",
+    "file": "File:Hotel Thermal (020).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Hotel_Thermal_%28026%29.jpg/1280px-Hotel_Thermal_%28026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hotel Thermal, Karlovy Vary",
+    "credit": "Juandev",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Thermal_(026).jpg",
+    "file": "File:Hotel Thermal (026).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hotel_Thermal_entrance_%2829888166516%29.jpg/1280px-Hotel_Thermal_entrance_%2829888166516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/2.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Exterior",
+    "caption": "Exterior · Brutalist glamour from the 1970s PhotoExif - Camera: Praktica B200, Film: Fujifilm Superia, Comment: Entrance",
+    "credit": "Jim Killock",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Thermal_entrance_(29888166516).jpg",
+    "file": "File:Hotel Thermal entrance (29888166516).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hotel_Thermal_Pool.jpg/1280px-Hotel_Thermal_Pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/3.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Exterior",
+    "caption": "Exterior · Pool at Hotel Thermal in Karlovy Vary, Czech Republic",
+    "credit": "Jim Killock",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Thermal_Pool.jpg",
+    "file": "File:Hotel Thermal Pool.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Hotel_Thermal%2C_with_congress_hall_and_hotel_building.jpg/1280px-Hotel_Thermal%2C_with_congress_hall_and_hotel_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · brutalist style Hotel Thermal, with congress hall and hotel building in Karlovy Vary, Czech Republic, 2023",
+    "credit": "Streeteo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Thermal,_with_congress_hall_and_hotel_building.jpg",
+    "file": "File:Hotel Thermal, with congress hall and hotel building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/M%C3%B3da_Ariel%2C_Karlovy_Vary%2C_2016_a.jpg/1280px-M%C3%B3da_Ariel%2C_Karlovy_Vary%2C_2016_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-thermal-karlovy-vary/thumbs/5.webp",
+    "w": 1280,
+    "h": 837,
+    "kind": "Detail",
+    "caption": "Detail · Móda Ariel, Bazar - Boutique , Liubov Matweevna Guban, im Spa Hotel Thermal, I",
+    "credit": "Kürschner  (  talk  ) 15:46, 11 October 2016 (UTC)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%B3da_Ariel,_Karlovy_Vary,_2016_a.jpg",
+    "file": "File:Móda Ariel, Karlovy Vary, 2016 a.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tass-building-moscow",
@@ -213245,7 +214687,71 @@ window.BUILDINGS = [
   "commons": "Category:TASS building",
   "lead": "File:TASS building 03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/TASS_building_03.jpg/1280px-TASS_building_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tass-building-moscow/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MBH",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TASS_building_03.jpg",
+    "file": "File:TASS building 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moscow_TASS_3542.JPG/1280px-Moscow_TASS_3542.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tass-building-moscow/thumbs/1.webp",
+    "w": 1280,
+    "h": 924,
+    "kind": "Exterior",
+    "caption": "Exterior · TASS building, Moscow",
+    "credit": "Ludvig14",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moscow_TASS_3542.JPG",
+    "file": "File:Moscow TASS 3542.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moscow_2026-07-08_14.jpg/1280px-Moscow_2026-07-08_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tass-building-moscow/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · TASS building in Moscow as of July 2026",
+    "credit": "Perituss",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moscow_2026-07-08_14.jpg",
+    "file": "File:Moscow 2026-07-08 14.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/TASS_headquarters.jpg/1280px-TASS_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tass-building-moscow/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · TASS headquarters in Moscow",
+    "credit": "Mikhail (Vokabre) Shcherbakov",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TASS_headquarters.jpg",
+    "file": "File:TASS headquarters.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/TASS_-_panoramio.jpg/1280px-TASS_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tass-building-moscow/thumbs/4.webp",
+    "w": 932,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · ITAR-TASS building - Bolshaya Nikitskaya Street, Moscow",
+    "credit": "L-BBE",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TASS_-_panoramio.jpg",
+    "file": "File:TASS - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kotva-department-store",
@@ -213269,7 +214775,71 @@ window.BUILDINGS = [
   "commons": "Category:Kotva (shopping centre)",
   "lead": "File:Praha Kotva.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Praha_Kotva.jpg/1280px-Praha_Kotva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kotva-department-store/thumbs/0.webp",
+    "w": 1280,
+    "h": 827,
+    "kind": "Exterior",
+    "caption": "Exterior · Praha Kotva",
+    "credit": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha_Kotva.jpg",
+    "file": "File:Praha Kotva.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/OD_Kotva_1.jpg/1280px-OD_Kotva_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kotva-department-store/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · OD Kotva",
+    "credit": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:OD_Kotva_1.jpg",
+    "file": "File:OD Kotva 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kotva_2016-04-18.jpg/1280px-Kotva_2016-04-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kotva-department-store/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a cultural monument of the Czech Republic , number:",
+    "credit": "Perituss",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kotva_2016-04-18.jpg",
+    "file": "File:Kotva 2016-04-18.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Fortepan_219786.jpg/1280px-Fortepan_219786.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kotva-department-store/thumbs/3.webp",
+    "w": 913,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · náměstí Republiky, Kotva Áruház",
+    "credit": "Fortepan/Mezey András",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fortepan_219786.jpg",
+    "file": "File:Fortepan 219786.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Arno%C5%A1t_Paderl%C3%ADk%2C_Lekn%C3%ADny%2C_1973%2C_keramick%C3%A1_plastika%2C_pas%C3%A1%C5%BE_Obchodn%C3%ADho_domu_Kotva%2C_Praha.jpg/1280px-Arno%C5%A1t_Paderl%C3%ADk%2C_Lekn%C3%ADny%2C_1973%2C_keramick%C3%A1_plastika%2C_pas%C3%A1%C5%BE_Obchodn%C3%ADho_domu_Kotva%2C_Praha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kotva-department-store/thumbs/4.webp",
+    "w": 849,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Keramická plastika Arnošta Paderlíka u vstupu do pasáže obchodního domu Kotva v Praze",
+    "credit": "Jiří Ptáček",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arno%C5%A1t_Paderl%C3%ADk,_Lekn%C3%ADny,_1973,_keramick%C3%A1_plastika,_pas%C3%A1%C5%BE_Obchodn%C3%ADho_domu_Kotva,_Praha.jpg",
+    "file": "File:Arnošt Paderlík, Lekníny, 1973, keramická plastika, pasáž Obchodního domu Kotva, Praha.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "superjednostka",
@@ -213293,7 +214863,83 @@ window.BUILDINGS = [
   "commons": "Category:Superjednostka",
   "lead": "File:Katowice Superjednostka 2022.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Katowice_Superjednostka_2022.jpg/1280px-Katowice_Superjednostka_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Katowice, Superjednostka",
+    "credit": "Gower",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katowice_Superjednostka_2022.jpg",
+    "file": "File:Katowice Superjednostka 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Katowice_Superjednostka_SE_2022.jpg/1280px-Katowice_Superjednostka_SE_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/1.webp",
+    "w": 1280,
+    "h": 856,
+    "kind": "Exterior",
+    "caption": "Exterior · Superjednostka w Katowicach, widok z południowego wschodu",
+    "credit": "Adrian Tync",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katowice_Superjednostka_SE_2022.jpg",
+    "file": "File:Katowice Superjednostka SE 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Superjednostka_%28Katowice%2C_Poland%2C_JAN_2019%29.jpg/1280px-Superjednostka_%28Katowice%2C_Poland%2C_JAN_2019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Superjednostka (Katowice, Poland, JAN 2019)",
+    "credit": "MichalPL",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superjednostka_(Katowice,_Poland,_JAN_2019).jpg",
+    "file": "File:Superjednostka (Katowice, Poland, JAN 2019).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/At_Katowice_2024_425.jpg/1280px-At_Katowice_2024_425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/3.webp",
+    "w": 1280,
+    "h": 783,
+    "kind": "Exterior",
+    "caption": "Exterior · Rondo Sztuki and Superjednostka, Katowice",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Katowice_2024_425.jpg",
+    "file": "File:At Katowice 2024 425.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Katowice_al._Korfantego_6_BWA_2026_%2810%29.jpg/1280px-Katowice_al._Korfantego_6_BWA_2026_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/4.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Context",
+    "caption": "Context · Katowice, 6 Wojciecha Korfantego Avenue, BWA building and Superjednostka",
+    "credit": "Adrian Tync",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Katowice_al._Korfantego_6_BWA_2026_(10).jpg",
+    "file": "File:Katowice al. Korfantego 6 BWA 2026 (10).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Superjednostka_noc%C4%85.jpg/1280px-Superjednostka_noc%C4%85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/superjednostka/thumbs/5.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Context",
+    "caption": "Context · Superjednostka nocą",
+    "credit": "XEvansGambitx",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Superjednostka_noc%C4%85.jpg",
+    "file": "File:Superjednostka nocą.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "inter-university-seminar-house",
@@ -213317,7 +214963,83 @@ window.BUILDINGS = [
   "commons": "Category:Inter-University Seminar House",
   "lead": "File:2018 Inter-University Seminar House 4.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2018_Inter-University_Seminar_House_4.jpg/1280px-2018_Inter-University_Seminar_House_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 1091,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Inter-University_Seminar_House_4.jpg",
+    "file": "File:2018 Inter-University Seminar House 4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%E5%85%AB%E7%8E%8B%E5%AD%90%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%E6%9C%AC%E9%A4%A8.JPG/1280px-%E5%85%AB%E7%8E%8B%E5%AD%90%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%E6%9C%AC%E9%A4%A8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yoit",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E7%8E%8B%E5%AD%90%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%E6%9C%AC%E9%A4%A8.JPG",
+    "file": "File:八王子セミナーハウス本館.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Inter-University_Seminar_House_Main_building_20140603-01.jpg/1280px-Inter-University_Seminar_House_Main_building_20140603-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 1139,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken OHYAMA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inter-University_Seminar_House_Main_building_20140603-01.jpg",
+    "file": "File:Inter-University Seminar House Main building 20140603-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2018_Inter-University_Seminar_House_5.jpg/1280px-2018_Inter-University_Seminar_House_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 1012,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Inter-University_Seminar_House_5.jpg",
+    "file": "File:2018 Inter-University Seminar House 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Inter-University_Seminar_House_Auditorium_20140605-01.jpg/1280px-Inter-University_Seminar_House_Auditorium_20140605-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ken OHYAMA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inter-University_Seminar_House_Auditorium_20140605-01.jpg",
+    "file": "File:Inter-University Seminar House Auditorium 20140605-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Inter-University_Seminar_House_Auditorium_20140605-02.jpg/1280px-Inter-University_Seminar_House_Auditorium_20140605-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/inter-university-seminar-house/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ken OHYAMA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inter-University_Seminar_House_Auditorium_20140605-02.jpg",
+    "file": "File:Inter-University Seminar House Auditorium 20140605-02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "athenee-francais-tokyo",
@@ -213341,7 +215063,47 @@ window.BUILDINGS = [
   "commons": "Category:Athénée Français",
   "lead": "File:Athenee Francais.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Athenee_Francais.jpg/1280px-Athenee_Francais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/athenee-francais-tokyo/thumbs/0.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Athenee Francais, at Ochanomizu Tokyo Japan, design by Takamasa Yoshizaka in 1962",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Athenee_Francais.jpg",
+    "file": "File:Athenee Francais.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ath%C3%A9n%C3%A9e_Fran%C3%A7ais_-_Tokyo_-_DSC04852.JPG/1280px-Ath%C3%A9n%C3%A9e_Fran%C3%A7ais_-_Tokyo_-_DSC04852.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/athenee-francais-tokyo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Athénée Français, Ochanomizu, Tokyo, Japan",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ath%C3%A9n%C3%A9e_Fran%C3%A7ais_-_Tokyo_-_DSC04852.JPG",
+    "file": "File:Athénée Français - Tokyo - DSC04852.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Des_hommes_endormis_Ath%C3%A9n%C3%A9e_Th%C3%A9%C3%A2tre_Louis-Jouvet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/athenee-francais-tokyo/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "ManoSolo13241324",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Des_hommes_endormis_Ath%C3%A9n%C3%A9e_Th%C3%A9%C3%A2tre_Louis-Jouvet.jpg",
+    "file": "File:Des hommes endormis Athénée Théâtre Louis-Jouvet.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bunkier-sztuki",
@@ -213365,7 +215127,71 @@ window.BUILDINGS = [
   "commons": "Category:Bunkier Sztuki",
   "lead": "File:Bunkier Sztuki spring 2014.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Bunkier_Sztuki_spring_2014.jpg/1280px-Bunkier_Sztuki_spring_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bunkier-sztuki/thumbs/0.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Photo on Bunkier Sztuki in Kraków spring 2014",
+    "credit": "Agatefilm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunkier_Sztuki_spring_2014.jpg",
+    "file": "File:Bunkier Sztuki spring 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gallery_of_Contemporary_Art_%E2%80%9CBunkier_Sztuki%22%2C_1965_by_Krystyna_To%C5%82%C5%82oczko-R%C3%B3%C5%BCyska%2C_3a_Szczepa%C5%84ski_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Gallery_of_Contemporary_Art_%E2%80%9CBunkier_Sztuki%22%2C_1965_by_Krystyna_To%C5%82%C5%82oczko-R%C3%B3%C5%BCyska%2C_3a_Szczepa%C5%84ski_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bunkier-sztuki/thumbs/1.webp",
+    "w": 1280,
+    "h": 717,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Zygmunt Put",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gallery_of_Contemporary_Art_%E2%80%9CBunkier_Sztuki%22,_1965_by_Krystyna_To%C5%82%C5%82oczko-R%C3%B3%C5%BCyska,_3a_Szczepa%C5%84ski_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+    "file": "File:Gallery of Contemporary Art “Bunkier Sztuki\", 1965 by Krystyna Tołłoczko-Różyska, 3a Szczepański Square, Old Town, Kraków, Poland.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bunkier_Sztuki_%28Bunker_of_Art%29_Gallery_of_Contemporary_Art%2C_3a_Szczepa%C5%84ski_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Bunkier_Sztuki_%28Bunker_of_Art%29_Gallery_of_Contemporary_Art%2C_3a_Szczepa%C5%84ski_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bunkier-sztuki/thumbs/2.webp",
+    "w": 1280,
+    "h": 701,
+    "kind": "Exterior",
+    "caption": "Exterior · Bunkier Sztuki (Bunker of Art) Gallery of Contemporary Art, 3a Szczepański Square, Old Town, Kraków, Poland",
+    "credit": "Jeremiah Z. Cockroach",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunkier_Sztuki_(Bunker_of_Art)_Gallery_of_Contemporary_Art,_3a_Szczepa%C5%84ski_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+    "file": "File:Bunkier Sztuki (Bunker of Art) Gallery of Contemporary Art, 3a Szczepański Square, Old Town, Kraków, Poland.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bunkier_Main_Entrance.jpg/1280px-Bunkier_Main_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bunkier-sztuki/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · main entrance",
+    "credit": "Anna Gil",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunkier_Main_Entrance.jpg",
+    "file": "File:Bunkier Main Entrance.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Krak%C3%B3w_Pl._Szczepa%C5%84ski_3A_kompozycja_%E2%80%9EHommage_a_Maria_Jarema_%E2%80%93_Krak%C3%B3w_Jaremiance%E2%80%9D_%282%29.jpg/1280px-Krak%C3%B3w_Pl._Szczepa%C5%84ski_3A_kompozycja_%E2%80%9EHommage_a_Maria_Jarema_%E2%80%93_Krak%C3%B3w_Jaremiance%E2%80%9D_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bunkier-sztuki/thumbs/4.webp",
+    "w": 751,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Januszk57",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Krak%C3%B3w_Pl._Szczepa%C5%84ski_3A_kompozycja_%E2%80%9EHommage_a_Maria_Jarema_%E2%80%93_Krak%C3%B3w_Jaremiance%E2%80%9D_(2).jpg",
+    "file": "File:Kraków Pl. Szczepański 3A kompozycja „Hommage a Maria Jarema – Kraków Jaremiance” (2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "imabari-city-hall",
@@ -213389,7 +215215,59 @@ window.BUILDINGS = [
   "commons": "Category:Imabari City Hall Main Building",
   "lead": "File:Imabari City Hall 2021-08 ac (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Imabari_City_Hall_2021-08_ac_%282%29.jpg/1280px-Imabari_City_Hall_2021-08_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/imabari-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imabari_City_Hall_2021-08_ac_(2).jpg",
+    "file": "File:Imabari City Hall 2021-08 ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Imabari_City_Office_-_panoramio_%282%29.jpg/1280px-Imabari_City_Office_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/imabari-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Imabari City Office",
+    "credit": "DVMG",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imabari_City_Office_-_panoramio_(2).jpg",
+    "file": "File:Imabari City Office - panoramio (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Imabari_City_Hall_-_panoramio.jpg/1280px-Imabari_City_Hall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/imabari-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "DVMG",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imabari_City_Hall_-_panoramio.jpg",
+    "file": "File:Imabari City Hall - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Imabari_City_Office_-_panoramio_%286%29.jpg/1280px-Imabari_City_Office_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/imabari-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Imabari City Office",
+    "credit": "DVMG",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imabari_City_Office_-_panoramio_(6).jpg",
+    "file": "File:Imabari City Office - panoramio (6).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "harold-holt-swimming-centre",
@@ -213413,7 +215291,71 @@ window.BUILDINGS = [
   "commons": "Category:Harold Holt Memorial Swimming Centre",
   "lead": "File:Harold Holt Memorial Swimming Pool corner.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Harold_Holt_Memorial_Swimming_Pool_corner.jpg/1280px-Harold_Holt_Memorial_Swimming_Pool_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harold-holt-swimming-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Harold Holt Memorial Swimming Pool corner",
+    "credit": "Rohanstorey",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harold_Holt_Memorial_Swimming_Pool_corner.jpg",
+    "file": "File:Harold Holt Memorial Swimming Pool corner.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Harold_Holt_Memorial_Swimming_Centre_1.jpg/1280px-Harold_Holt_Memorial_Swimming_Centre_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harold-holt-swimming-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 956,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kbpool2012",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harold_Holt_Memorial_Swimming_Centre_1.jpg",
+    "file": "File:Harold Holt Memorial Swimming Centre 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Harold_Holt_Memorial_Swimming_Pool_south_face.jpg/1280px-Harold_Holt_Memorial_Swimming_Pool_south_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harold-holt-swimming-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Harold Holt Memorial Swimming Pool south face",
+    "credit": "Rohanstorey",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harold_Holt_Memorial_Swimming_Pool_south_face.jpg",
+    "file": "File:Harold Holt Memorial Swimming Pool south face.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Harold_Holt_Memorial_Swimming_Pool_entry.jpg/1280px-Harold_Holt_Memorial_Swimming_Pool_entry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harold-holt-swimming-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Harold Holt Memorial Swimming Pool entry",
+    "credit": "Rohanstorey",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harold_Holt_Memorial_Swimming_Pool_entry.jpg",
+    "file": "File:Harold Holt Memorial Swimming Pool entry.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Harold_Holt_Swim_Centre.JPG/1280px-Harold_Holt_Swim_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harold-holt-swimming-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 1322,
+    "kind": "Detail",
+    "caption": "Detail · Harold Holt Swim Centre, Glen Iris, Melbourne",
+    "credit": "Lincolnponton  at  English Wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Harold_Holt_Swim_Centre.JPG",
+    "file": "File:Harold Holt Swim Centre.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "queensland-art-gallery",
@@ -213437,7 +215379,83 @@ window.BUILDINGS = [
   "commons": "Category:Exterior of the Queensland Art Gallery",
   "lead": "File:Queensland Art Gallery river facade, Brisbane.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Queensland_Art_Gallery_river_facade%2C_Brisbane_seen_from_the_bridge.jpg/1280px-Queensland_Art_Gallery_river_facade%2C_Brisbane_seen_from_the_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Queensland Art Gallery river facade, Brisbane",
+    "credit": "Kgbo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queensland_Art_Gallery_river_facade,_Brisbane_seen_from_the_bridge.jpg",
+    "file": "File:Queensland Art Gallery river facade, Brisbane seen from the bridge.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Queensland_Art_Gallery_-_Joy_of_Museums_-_External.jpg/1280px-Queensland_Art_Gallery_-_Joy_of_Museums_-_External.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Queensland Art Gallery - see: www.joyofmuseums.com",
+    "credit": "GordonMakryllos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queensland_Art_Gallery_-_Joy_of_Museums_-_External.jpg",
+    "file": "File:Queensland Art Gallery - Joy of Museums - External.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Queensland_Art_Gallery_-_Joy_of_Museums_-_External_2.jpg/1280px-Queensland_Art_Gallery_-_Joy_of_Museums_-_External_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Queensland Art Gallery - see: www.joyofmuseums.com",
+    "credit": "GordonMakryllos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queensland_Art_Gallery_-_Joy_of_Museums_-_External_2.jpg",
+    "file": "File:Queensland Art Gallery - Joy of Museums - External 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180897.jpg/1280px-Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/3.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "John Robert McPherson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180897.jpg",
+    "file": "File:Vision Australia Cultural Centre Adventure Travel Day Brisbane L1180897.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180898.jpg/1280px-Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "John Robert McPherson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vision_Australia_Cultural_Centre_Adventure_Travel_Day_Brisbane_L1180898.jpg",
+    "file": "File:Vision Australia Cultural Centre Adventure Travel Day Brisbane L1180898.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Queensland_Art_Gallery_garden_entrance.jpg/1280px-Queensland_Art_Gallery_garden_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/queensland-art-gallery/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Ground floor entrance to Queensland Art Gallery",
+    "credit": "Kgbo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queensland_Art_Gallery_garden_entrance.jpg",
+    "file": "File:Queensland Art Gallery garden entrance.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cameron-offices",
@@ -213461,7 +215479,83 @@ window.BUILDINGS = [
   "commons": "Category:Cameron Offices",
   "lead": "File:Cameron offices 1.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Cameron_offices_1.JPG/1280px-Cameron_offices_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Cameron Offices Wing 5",
+    "credit": "Grahamec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cameron_offices_1.JPG",
+    "file": "File:Cameron offices 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/CameronOffices2.JPG/1280px-CameronOffices2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Cameron Offices from corner of Cameron Ave and Chandler St, Belconnen, Australian Capital Territory",
+    "credit": "No machine-readable author provided.  Adz~commonswiki  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:CameronOffices2.JPG",
+    "file": "File:CameronOffices2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/CameronOfficesDemolition1.JPG/1280px-CameronOfficesDemolition1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Demolition of Cameron Offices, Belconnen ",
+    "credit": "Andrewsadventures",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:CameronOfficesDemolition1.JPG",
+    "file": "File:CameronOfficesDemolition1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CameronOfficesDemolition2.JPG/1280px-CameronOfficesDemolition2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Demolition of Cameron Offices, Belconnen ",
+    "credit": "Andrewsadventures",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:CameronOfficesDemolition2.JPG",
+    "file": "File:CameronOfficesDemolition2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Cameron_Offices_Belconnen_demolishion_%28309246665%29.jpg/1280px-Cameron_Offices_Belconnen_demolishion_%28309246665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Some updated Cameron carnage",
+    "credit": "Bertie Mabootoo  from Canberra, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cameron_Offices_Belconnen_demolishion_(309246665).jpg",
+    "file": "File:Cameron Offices Belconnen demolishion (309246665).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Gladstone_galaxy.JPG/1280px-Gladstone_galaxy.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cameron-offices/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gladstone_galaxy.JPG",
+    "file": "File:Gladstone galaxy.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "golden-mile-complex",
@@ -213485,7 +215579,85 @@ window.BUILDINGS = [
   "commons": "Category:Golden Mile Complex",
   "lead": "File:Golden Mile Complex.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Mile_Complex.jpg/1280px-Golden_Mile_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/0.webp",
+    "w": 1280,
+    "h": 1134,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Terence Ong",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Complex.jpg",
+    "file": "File:Golden Mile Complex.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Golden_Mile_Complex_5%2C_Aug_07.JPG/1280px-Golden_Mile_Complex_5%2C_Aug_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/1.webp",
+    "w": 1280,
+    "h": 950,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sengkang",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Complex_5,_Aug_07.JPG",
+    "file": "File:Golden Mile Complex 5, Aug 07.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_Mile_Complex_3%2C_Aug_07.JPG/1280px-Golden_Mile_Complex_3%2C_Aug_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sengkang",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Complex_3,_Aug_07.JPG",
+    "file": "File:Golden Mile Complex 3, Aug 07.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Golden_Mile_Complex_2.JPG/1280px-Golden_Mile_Complex_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Terence Ong",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Complex_2.JPG",
+    "file": "File:Golden Mile Complex 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/National_Day_Parade_2026_view_from_Kallang_Riverside_-_20270809_-_RSKY_04.jpg/1280px-National_Day_Parade_2026_view_from_Kallang_Riverside_-_20270809_-_RSKY_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · View from Kallang Riverside for National Day Parade 2026",
+    "credit": "Robert Sim",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Day_Parade_2026_view_from_Kallang_Riverside_-_20270809_-_RSKY_04.jpg",
+    "file": "File:National Day Parade 2026 view from Kallang Riverside - 20270809 - RSKY 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Golden_Mile_Complex_-_Singapore_City_Gallery_%22Central_Area_Model%22_%282025%29_-_img_09.jpg/1280px-Golden_Mile_Complex_-_Singapore_City_Gallery_%22Central_Area_Model%22_%282025%29_-_img_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golden-mile-complex/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Golden Mile Complex Model, Central Area Model of Singapore City Gallery",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Complex_-_Singapore_City_Gallery_%22Central_Area_Model%22_(2025)_-_img_09.jpg",
+    "file": "File:Golden Mile Complex - Singapore City Gallery \"Central Area Model\" (2025) - img 09.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "regenstein-library",
@@ -213509,7 +215681,83 @@ window.BUILDINGS = [
   "commons": "Category:Joseph Regenstein Library",
   "lead": "File:Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54514265602).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Joseph_Regenstein_Library_in_2019.jpg/1280px-Joseph_Regenstein_Library_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 617,
+    "kind": "Exterior",
+    "caption": "Exterior · Joseph Regenstein Library, University of Chicago campus",
+    "credit": "Kenneth C. Zirkel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joseph_Regenstein_Library_in_2019.jpg",
+    "file": "File:Joseph Regenstein Library in 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854514267557%29.jpg/1280px-Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854514267557%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Warren LeMay  from Chicago, IL, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Regenstein_Library,_University_of_Chicago,_57th_Street_and_Ellis_Avenue,_Hyde_Park,_Chicago,_IL_(54514267557).jpg",
+    "file": "File:Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54514267557).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Regenstein_and_Mansueto_%284728645314%29.jpg/1280px-Regenstein_and_Mansueto_%284728645314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 870,
+    "kind": "Exterior",
+    "caption": "Exterior · Regenstein and Mansueto",
+    "credit": "barbostick  from Chicago",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Regenstein_and_Mansueto_(4728645314).jpg",
+    "file": "File:Regenstein and Mansueto (4728645314).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/All_Iam_Learning.jpg/1280px-All_Iam_Learning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Graffiti de la Regenstein Library, Université de Chicago",
+    "credit": "Quinn Dombrowski",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:All_Iam_Learning.jpg",
+    "file": "File:All Iam Learning.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Elevator_Lobby%2C_Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515411193%29.jpg/1280px-Elevator_Lobby%2C_Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515411193%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Warren LeMay  from Chicago, IL, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevator_Lobby,_Regenstein_Library,_University_of_Chicago,_57th_Street_and_Ellis_Avenue,_Hyde_Park,_Chicago,_IL_(54515411193).jpg",
+    "file": "File:Elevator Lobby, Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54515411193).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lobby%2C_Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515128891%29.jpg/1280px-Lobby%2C_Regenstein_Library%2C_University_of_Chicago%2C_57th_Street_and_Ellis_Avenue%2C_Hyde_Park%2C_Chicago%2C_IL_%2854515128891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/regenstein-library/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Warren LeMay  from Chicago, IL, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lobby,_Regenstein_Library,_University_of_Chicago,_57th_Street_and_Ellis_Avenue,_Hyde_Park,_Chicago,_IL_(54515128891).jpg",
+    "file": "File:Lobby, Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54515128891).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "scarborough-college-andrews-building",
@@ -213533,7 +215781,83 @@ window.BUILDINGS = [
   "commons": "Category:John Andrews Building",
   "lead": "File:Andrews Building UofT.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Humanities_Wing_at_U_of_T_Scarborough.jpg/1280px-Humanities_Wing_at_U_of_T_Scarborough.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 828,
+    "kind": "Exterior",
+    "caption": "Exterior · Humanities Wing at the University of Toronto Scarborough",
+    "credit": "Jeff Hitchcock",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Humanities_Wing_at_U_of_T_Scarborough.jpg",
+    "file": "File:Humanities Wing at U of T Scarborough.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Science_Wing_at_U_of_T_Scarborough.jpg/1280px-Science_Wing_at_U_of_T_Scarborough.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Seen in the films Stereo & Enemy",
+    "credit": "Jeff Hitchcock",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Science_Wing_at_U_of_T_Scarborough.jpg",
+    "file": "File:Science Wing at U of T Scarborough.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/University_of_Toronto_Scarborough_Campus.jpg/1280px-University_of_Toronto_Scarborough_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · University of Toronto Scarborough Campus",
+    "credit": "The City of Toronto",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_Scarborough_Campus.jpg",
+    "file": "File:University of Toronto Scarborough Campus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/H-Wing.jpg/1280px-H-Wing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Humanities Wing at the University of Toronto Scarborough",
+    "credit": "Loozrboy",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H-Wing.jpg",
+    "file": "File:H-Wing.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/John_Andrews_Building_Scarborough_2010_%286%29.jpg/1280px-John_Andrews_Building_Scarborough_2010_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The concretey interior of the Humanities Wing at U of T Scarborough",
+    "credit": "Loozrboy  from Toronto, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Andrews_Building_Scarborough_2010_(6).jpg",
+    "file": "File:John Andrews Building Scarborough 2010 (6).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Andrews_Building_interior.jpg/1280px-Andrews_Building_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scarborough-college-andrews-building/thumbs/5.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Andrews Building interior",
+    "credit": "Jeff Hitchcock",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrews_Building_interior.jpg",
+    "file": "File:Andrews Building interior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "miami-marine-stadium",
@@ -213557,7 +215881,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Miami Marine Stadium.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Miami_Marine_Stadium.jpg/1280px-Miami_Marine_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miami-marine-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Chevrolet Corvette C8 in Miami Marine Stadium",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miami_Marine_Stadium.jpg",
+    "file": "File:Miami Marine Stadium.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "slovak-national-gallery-extension",
@@ -213581,7 +215921,83 @@ window.BUILDINGS = [
   "commons": "Category:Extension of Slovak National Gallery",
   "lead": "File:Bratislava - Slovenská národná galéria (SNG).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bratislava_-_Slovensk%C3%A1_n%C3%A1rodn%C3%A1_gal%C3%A9ria_%28SNG%29.jpg/1280px-Bratislava_-_Slovensk%C3%A1_n%C3%A1rodn%C3%A1_gal%C3%A9ria_%28SNG%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Staré Mesto",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bratislava_-_Slovensk%C3%A1_n%C3%A1rodn%C3%A1_gal%C3%A9ria_(SNG).jpg",
+    "file": "File:Bratislava - Slovenská národná galéria (SNG).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Slowakische_Nationalgalerie_alt_und_neu.jpg/1280px-Slowakische_Nationalgalerie_alt_und_neu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Slowakische Nationalgalerie Altgebäude nebst Neubau in Bratislava, April 2025",
+    "credit": "Barnos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Slowakische_Nationalgalerie_alt_und_neu.jpg",
+    "file": "File:Slowakische Nationalgalerie alt und neu.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/SNG%2C_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_%28005%29.jpg/1280px-SNG%2C_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_%28005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Přední část u Dunaje Slovenské národní galerie v Bratislavě",
+    "credit": "Juandev",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SNG,_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_(005).jpg",
+    "file": "File:SNG, přední část (005).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/SNG%2C_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_%28006%29.jpg/1280px-SNG%2C_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_%28006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Přední část u Dunaje Slovenské národní galerie v Bratislavě",
+    "credit": "Juandev",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SNG,_p%C5%99edn%C3%AD_%C4%8D%C3%A1st_(006).jpg",
+    "file": "File:SNG, přední část (006).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hotel_Devin%2C_Slovak_National_Gallery%2C_street%2C_Razusovo_Nabrezie_-_panoramio.jpg/1280px-Hotel_Devin%2C_Slovak_National_Gallery%2C_street%2C_Razusovo_Nabrezie_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Hotel Devin, Slovak National Gallery, street: Razusovo Nabrezie",
+    "credit": "PeterPhoto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Devin,_Slovak_National_Gallery,_street,_Razusovo_Nabrezie_-_panoramio.jpg",
+    "file": "File:Hotel Devin, Slovak National Gallery, street, Razusovo Nabrezie - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/BRATISLAVSK%C3%89_DOMINANTY_NAD_PRESKLENOU_GAL%C3%89RIOU_-_panoramio.jpg/1280px-BRATISLAVSK%C3%89_DOMINANTY_NAD_PRESKLENOU_GAL%C3%89RIOU_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/slovak-national-gallery-extension/thumbs/5.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Context",
+    "caption": "Context · BRATISLAVSKÉ DOMINANTY NAD PRESKLENOU GALÉRIOU",
+    "credit": "ANDREJ NEUHERZ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BRATISLAVSK%C3%89_DOMINANTY_NAD_PRESKLENOU_GAL%C3%89RIOU_-_panoramio.jpg",
+    "file": "File:BRATISLAVSKÉ DOMINANTY NAD PRESKLENOU GALÉRIOU - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "university-hall-lethbridge",
@@ -213605,7 +216021,59 @@ window.BUILDINGS = [
   "commons": "Category:University Hall (University of Lethbridge)",
   "lead": "File:University of Lethbridge Alberta (53779951822).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/University_of_Lethbridge_Alberta_%2853779951822%29.jpg/1280px-University_of_Lethbridge_Alberta_%2853779951822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-hall-lethbridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · University of Lethbridge Alberta - view of Science Commons and University Hall",
+    "credit": "Jason Woodhead",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Lethbridge_Alberta_(53779951822).jpg",
+    "file": "File:University of Lethbridge Alberta (53779951822).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/University_of_Lethbridge_%2851915006151%29.jpg/1280px-University_of_Lethbridge_%2851915006151%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-hall-lethbridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · University of Lethbridge",
+    "credit": "Jason Woodhead",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Lethbridge_(51915006151).jpg",
+    "file": "File:University of Lethbridge (51915006151).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/University_of_Lethbridge_%2851915101563%29.jpg/1280px-University_of_Lethbridge_%2851915101563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-hall-lethbridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · University of Lethbridge",
+    "credit": "Jason Woodhead",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Lethbridge_(51915101563).jpg",
+    "file": "File:University of Lethbridge (51915101563).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Early_University_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/university-hall-lethbridge/thumbs/3.webp",
+    "w": 1274,
+    "h": 723,
+    "kind": "Interior",
+    "caption": "Interior · University Hall",
+    "credit": "Peace7777",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Early_University_Hall.jpg",
+    "file": "File:Early University Hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "national-arts-centre-ottawa",
@@ -213629,7 +216097,83 @@ window.BUILDINGS = [
   "commons": "Category:National Arts Centre",
   "lead": "File:National Arts Centre.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/National_Arts_Centre.jpg/1280px-National_Arts_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/0.webp",
+    "w": 1280,
+    "h": 778,
+    "kind": "Exterior",
+    "caption": "Exterior · National Arts Centre, main entrance, Ottawa, Ontario, Canada",
+    "credit": "D. Gordon E. Robertson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Arts_Centre.jpg",
+    "file": "File:National Arts Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ottawa_-_ON_-_National_Arts_Centre.jpg/1280px-Ottawa_-_ON_-_National_Arts_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/1.webp",
+    "w": 1280,
+    "h": 751,
+    "kind": "Exterior",
+    "caption": "Exterior · Ottawa: National Arts Centre",
+    "credit": "–  Wladyslaw    [Disk.]",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_National_Arts_Centre.jpg",
+    "file": "File:Ottawa - ON - National Arts Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/National_Arts_Centre%2C_Ottawa_%2814579914488%29.jpg/1280px-National_Arts_Centre%2C_Ottawa_%2814579914488%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/2.webp",
+    "w": 1280,
+    "h": 817,
+    "kind": "Exterior",
+    "caption": "Exterior · National Arts Centre, Ottawa",
+    "credit": "Tony Webster  from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Arts_Centre,_Ottawa_(14579914488).jpg",
+    "file": "File:National Arts Centre, Ottawa (14579914488).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/National_Arts_Centre_%288348913688%29.jpg/1280px-National_Arts_Centre_%288348913688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · National Arts Centre (Ottawa, Canada, Dec",
+    "credit": "shankar s.  from Dubai, united arab emirates",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Arts_Centre_(8348913688).jpg",
+    "file": "File:National Arts Centre (8348913688).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hidden_spaces_%2848394777107%29.jpg/1280px-Hidden_spaces_%2848394777107%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "joanne clifford",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hidden_spaces_(48394777107).jpg",
+    "file": "File:Hidden spaces (48394777107).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/National_Arts_Centre_Lobby_2025.JPG/1280px-National_Arts_Centre_Lobby_2025.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-arts-centre-ottawa/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · National Arts Centre (building) lobby",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Arts_Centre_Lobby_2025.JPG",
+    "file": "File:National Arts Centre Lobby 2025.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hillbrow-tower",
@@ -213653,7 +216197,83 @@ window.BUILDINGS = [
   "commons": "Category:Hillbrow Tower",
   "lead": "File:South Africa-Johannesburg-Hillbrow001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/South_Africa-Johannesburg-Hillbrow001.jpg/1280px-South_Africa-Johannesburg-Hillbrow001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Hillbrow and the Hillbrow Tower",
+    "credit": "NJR ZA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:South_Africa-Johannesburg-Hillbrow001.jpg",
+    "file": "File:South Africa-Johannesburg-Hillbrow001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hillbrow_Tower_%284612443934%29.jpg/1280px-Hillbrow_Tower_%284612443934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jorge Láscar  from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hillbrow_Tower_(4612443934).jpg",
+    "file": "File:Hillbrow Tower (4612443934).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hillbrow_Tower-1.jpg/1280px-Hillbrow_Tower-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/2.webp",
+    "w": 1046,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Thuvack",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hillbrow_Tower-1.jpg",
+    "file": "File:Hillbrow Tower-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/JSMviewW1988.jpg/1280px-JSMviewW1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/3.webp",
+    "w": 1280,
+    "h": 892,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hmvh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JSMviewW1988.jpg",
+    "file": "File:JSMviewW1988.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/JSMviewS1972.jpg/1280px-JSMviewS1972.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · View due South from the Hillbrow Tower in 1972",
+    "credit": "Hmvh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JSMviewS1972.jpg",
+    "file": "File:JSMviewS1972.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/JSM_viewdown1988.jpg/1280px-JSM_viewdown1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hillbrow-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "hmvh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JSM_viewdown1988.jpg",
+    "file": "File:JSM viewdown1988.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "most-snp-bratislava",
@@ -213677,7 +216297,110 @@ window.BUILDINGS = [
   "commons": "Category:Most SNP",
   "lead": "File:Puente de la Insurrección Nacional Eslovaca, Bratislava, Eslovaquia, 2020-02-01, DD 49.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Puente_de_la_Insurrecci%C3%B3n_Nacional_Eslovaca%2C_Bratislava%2C_Eslovaquia%2C_2020-02-01%2C_DD_49.jpg/1280px-Puente_de_la_Insurrecci%C3%B3n_Nacional_Eslovaca%2C_Bratislava%2C_Eslovaquia%2C_2020-02-01%2C_DD_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/0.webp",
+    "w": 1280,
+    "h": 626,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Puente_de_la_Insurrecci%C3%B3n_Nacional_Eslovaca,_Bratislava,_Eslovaquia,_2020-02-01,_DD_49.jpg",
+    "file": "File:Puente de la Insurrección Nacional Eslovaca, Bratislava, Eslovaquia, 2020-02-01, DD 49.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Most_SNP%2C_Bratislava_%28by_Pudelek%29.JPG/1280px-Most_SNP%2C_Bratislava_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/1.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Most SNP (to 2012 New Bridge ), Bratislava (Pressburg, Pozsony)",
+    "credit": "Pudelek  (Marcin Szala)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Most_SNP,_Bratislava_(by_Pudelek).JPG",
+    "file": "File:Most SNP, Bratislava (by Pudelek).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bratislava_-_Most_SNP_%283%29.jpg/1280px-Bratislava_-_Most_SNP_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Staré Mesto",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bratislava_-_Most_SNP_(3).jpg",
+    "file": "File:Bratislava - Most SNP (3).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Bratislava_UFO_Bridge_2008.jpg/1280px-Bratislava_UFO_Bridge_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The UFO Bridge or New Bridge of Bratislava, Slovakia",
+    "credit": "Amd194",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bratislava_UFO_Bridge_2008.jpg",
+    "file": "File:Bratislava UFO Bridge 2008.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Interior_of_restaurant_UFO%2C_Bratislava%2C_Slovakia.jpg/1280px-Interior_of_restaurant_UFO%2C_Bratislava%2C_Slovakia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · An interior view of restaurant UFO in Bratislava, Slovakia",
+    "credit": "JIP",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_restaurant_UFO,_Bratislava,_Slovakia.jpg",
+    "file": "File:Interior of restaurant UFO, Bratislava, Slovakia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Interior_of_Caf%C3%A9_UFO_at_Nov%C3%BD_most_in_Bratislava%2C_Bratislava_I_District.jpg/1280px-Interior_of_Caf%C3%A9_UFO_at_Nov%C3%BD_most_in_Bratislava%2C_Bratislava_I_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Café UFO at Nový most in Bratislava",
+    "credit": "Frettie",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Caf%C3%A9_UFO_at_Nov%C3%BD_most_in_Bratislava,_Bratislava_I_District.jpg",
+    "file": "File:Interior of Café UFO at Nový most in Bratislava, Bratislava I District.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Pedestrian_section_of_Most_SNP%2C_Bratislava%2C_Slovakia.jpg/1280px-Pedestrian_section_of_Most_SNP%2C_Bratislava%2C_Slovakia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "JIP",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedestrian_section_of_Most_SNP,_Bratislava,_Slovakia.jpg",
+    "file": "File:Pedestrian section of Most SNP, Bratislava, Slovakia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/20230501.Ansicht_von_Bratislava.-068.jpg/1280px-20230501.Ansicht_von_Bratislava.-068.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/most-snp-bratislava/thumbs/7.webp",
+    "w": 1280,
+    "h": 810,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Bybbisch94, Christian Gebhardt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20230501.Ansicht_von_Bratislava.-068.jpg",
+    "file": "File:20230501.Ansicht von Bratislava.-068.jpg"
+   }
+  ],
+  "has": [
+   "Section",
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "national-carillon-canberra",
@@ -213701,7 +216424,83 @@ window.BUILDINGS = [
   "commons": "Category:National Carillon",
   "lead": "File:Canberra Carillon on Lake Burley Griffin-2 (38441217986).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Canberra_Carillon_on_Lake_Burley_Griffin-2_%2838441217986%29.jpg/1280px-Canberra_Carillon_on_Lake_Burley_Griffin-2_%2838441217986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/0.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Exterior",
+    "caption": "Exterior · Canberra Carillon on Lake Burley Griffin",
+    "credit": "Sheba_Also 43,000 photos",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Canberra_Carillon_on_Lake_Burley_Griffin-2_(38441217986).jpg",
+    "file": "File:Canberra Carillon on Lake Burley Griffin-2 (38441217986).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Carillon_Viewed_from_National_Gallery_of_Australia_Gardens.jpg/1280px-Carillon_Viewed_from_National_Gallery_of_Australia_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Stuart Lindenmayer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carillon_Viewed_from_National_Gallery_of_Australia_Gardens.jpg",
+    "file": "File:Carillon Viewed from National Gallery of Australia Gardens.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/National_Carillon_%282456418809%29.jpg/1280px-National_Carillon_%282456418809%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · On Aspen Island, in Lake Burley Griffin in Canberra",
+    "credit": "Peter Hardy  from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Carillon_(2456418809).jpg",
+    "file": "File:National Carillon (2456418809).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/National_Carillon%2C_Canberra_ACT.jpg/1280px-National_Carillon%2C_Canberra_ACT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/3.webp",
+    "w": 919,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The National Carillon, Canberra, reflecting in the waters of Lake Burley Griffin",
+    "credit": "Thennicke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Carillon,_Canberra_ACT.jpg",
+    "file": "File:National Carillon, Canberra ACT.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/National_Carillon%2C_ACT_-_Rectilinear_projection.jpg/1280px-National_Carillon%2C_ACT_-_Rectilinear_projection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/4.webp",
+    "w": 639,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · National Carillon, Canberra",
+    "credit": "Thennicke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Carillon,_ACT_-_Rectilinear_projection.jpg",
+    "file": "File:National Carillon, ACT - Rectilinear projection.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Burley_Griffin_in_the_early_morning_light_%2810217495256%29.jpg/1280px-Burley_Griffin_in_the_early_morning_light_%2810217495256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-carillon-canberra/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Thank you all for your comments and faves - I really do appreciate your encouragement",
+    "credit": "Percita",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burley_Griffin_in_the_early_morning_light_(10217495256).jpg",
+    "file": "File:Burley Griffin in the early morning light (10217495256).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "majdanek-mausoleum",
@@ -213725,7 +216524,71 @@ window.BUILDINGS = [
   "commons": "Category:Majdanek Mausoleum",
   "lead": "File:Majdanek Mausoleum 2018 P01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Majdanek_Mausoleum_2018_P01.jpg/1280px-Majdanek_Mausoleum_2018_P01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/majdanek-mausoleum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fallaner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Majdanek_Mausoleum_2018_P01.jpg",
+    "file": "File:Majdanek Mausoleum 2018 P01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/2013_KL_Majdanek_Mausoleum_-_01.jpg/1280px-2013_KL_Majdanek_Mausoleum_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/majdanek-mausoleum/thumbs/1.webp",
+    "w": 1280,
+    "h": 643,
+    "kind": "Exterior",
+    "caption": "Exterior · KL Majdanek Mausoleum",
+    "credit": "Jolanta Dyr",
+    "license": "CC BY-SA 3.0 pl",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_KL_Majdanek_Mausoleum_-_01.jpg",
+    "file": "File:2013 KL Majdanek Mausoleum - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lublin_-_Majdanek_-_012_-_Mausoleum.jpg/1280px-Lublin_-_Majdanek_-_012_-_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/majdanek-mausoleum/thumbs/2.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · In the mausoleum there are the ashes of some of the victims",
+    "credit": "Roland Geider ( Ogre )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lublin_-_Majdanek_-_012_-_Mausoleum.jpg",
+    "file": "File:Lublin - Majdanek - 012 - Mausoleum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Alians_PL%2COur_fate_is_a_warning_to_you-KL_Majdanek_Mauzoleum%2C2020-07-05%2CIMG_0123.jpg/1280px-Alians_PL%2COur_fate_is_a_warning_to_you-KL_Majdanek_Mauzoleum%2C2020-07-05%2CIMG_0123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/majdanek-mausoleum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alians PL",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alians_PL,Our_fate_is_a_warning_to_you-KL_Majdanek_Mauzoleum,2020-07-05,IMG_0123.jpg",
+    "file": "File:Alians PL,Our fate is a warning to you-KL Majdanek Mauzoleum,2020-07-05,IMG 0123.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lublin_-_Majdanek_-_002_-_Monument_detail.jpg/1280px-Lublin_-_Majdanek_-_002_-_Monument_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/majdanek-mausoleum/thumbs/4.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Monument to the victims of the Concentration Camp, side detail",
+    "credit": "Roland Geider ( Ogre )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lublin_-_Majdanek_-_002_-_Monument_detail.jpg",
+    "file": "File:Lublin - Majdanek - 002 - Monument detail.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hiroshima-moca",
@@ -213749,7 +216612,83 @@ window.BUILDINGS = [
   "commons": "Category:Hiroshima City Museum of Contemporary Art",
   "lead": "File:広島市現代美術館01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A801.jpg/1280px-%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A801.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Taisyo  at  Japanese Wikipedia",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A801.jpg",
+    "file": "File:広島市現代美術館01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Hiroshima_MOCA_20201002a.JPG/1280px-Hiroshima_MOCA_20201002a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Taisyo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_MOCA_20201002a.JPG",
+    "file": "File:Hiroshima MOCA 20201002a.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg/1280px-%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "full moon69",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%BA%83%E5%B3%B6%E5%B8%82%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg",
+    "file": "File:広島市現代美術館 - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Hiroshima_City_Museum_of_Contemporary_Art.jpg/1280px-Hiroshima_City_Museum_of_Contemporary_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/3.webp",
+    "w": 1280,
+    "h": 409,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Taisyo  at  Japanese Wikipedia",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_City_Museum_of_Contemporary_Art.jpg",
+    "file": "File:Hiroshima City Museum of Contemporary Art.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stairs_in_Contemp._art_museum_Hiroshima_-_panoramio.jpg/1280px-Stairs_in_Contemp._art_museum_Hiroshima_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Stairs in Contemp",
+    "credit": "Max Nossin",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairs_in_Contemp._art_museum_Hiroshima_-_panoramio.jpg",
+    "file": "File:Stairs in Contemp. art museum Hiroshima - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2024-11-23_K%C3%BCnstlerInnen-Treffen_bei_Ilse_Paul_im_Ihmezentrum_3.jpg/1280px-2024-11-23_K%C3%BCnstlerInnen-Treffen_bei_Ilse_Paul_im_Ihmezentrum_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiroshima-moca/thumbs/5.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Bernd Schwabe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-11-23_K%C3%BCnstlerInnen-Treffen_bei_Ilse_Paul_im_Ihmezentrum_3.jpg",
+    "file": "File:2024-11-23 KünstlerInnen-Treffen bei Ilse Paul im Ihmezentrum 3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kirishima-concert-hall",
@@ -213773,7 +216712,59 @@ window.BUILDINGS = [
   "commons": "Category:Kirishima International Concert Hall",
   "lead": "File:Miyama Conseru.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Miyama_Conseru.jpg/1280px-Miyama_Conseru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirishima-concert-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "島児鹿",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyama_Conseru.jpg",
+    "file": "File:Miyama Conseru.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Miyama_Conceru.JPG/1280px-Miyama_Conceru.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirishima-concert-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "hyolee2",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyama_Conceru.JPG",
+    "file": "File:Miyama Conceru.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kirishima_International_Concert_Hall.jpg/1280px-Kirishima_International_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirishima-concert-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Kirishima International Concert Hall",
+    "credit": "島児鹿",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirishima_International_Concert_Hall.jpg",
+    "file": "File:Kirishima International Concert Hall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Miyama_Conseru_Main_Hall.jpg/1280px-Miyama_Conseru_Main_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirishima-concert-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "島児鹿",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyama_Conseru_Main_Hall.jpg",
+    "file": "File:Miyama Conseru Main Hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kumamoto-prefectural-museum-of-art",
@@ -213797,7 +216788,71 @@ window.BUILDINGS = [
   "commons": "Category:Kumamoto Prefectural Museum of Art",
   "lead": "File:Kumamoto Prefectural Art Museum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kumamoto_Prefectural_Art_Museum.jpg/1280px-Kumamoto_Prefectural_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kumamoto-prefectural-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Kumamoto Prefectural Art Museum",
+    "credit": "Drivephotographer",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Prefectural_Art_Museum.jpg",
+    "file": "File:Kumamoto Prefectural Art Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Kumamoto_Prefectural_Museum_Of_Art_Chibaj%C5%8D_Branch_20230227.jpg/1280px-Kumamoto_Prefectural_Museum_Of_Art_Chibaj%C5%8D_Branch_20230227.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kumamoto-prefectural-museum-of-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "先従隗始",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kumamoto_Prefectural_Museum_Of_Art_Chibaj%C5%8D_Branch_20230227.jpg",
+    "file": "File:Kumamoto Prefectural Museum Of Art Chibajō Branch 20230227.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/NodaHideo-Copy_The_Harvesters-Bruegel_the_Elder.png/1280px-NodaHideo-Copy_The_Harvesters-Bruegel_the_Elder.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kumamoto-prefectural-museum-of-art/thumbs/2.webp",
+    "w": 1099,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hideo Noda",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NodaHideo-Copy_The_Harvesters-Bruegel_the_Elder.png",
+    "file": "File:NodaHideo-Copy The Harvesters-Bruegel the Elder.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8%E6%9C%AC%E9%A4%A8_01.jpg/1280px-%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8%E6%9C%AC%E9%A4%A8_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kumamoto-prefectural-museum-of-art/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yoit",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%86%8A%E6%9C%AC%E7%9C%8C%E7%AB%8B%E7%BE%8E%E8%A1%93%E9%A4%A8%E6%9C%AC%E9%A4%A8_01.jpg",
+    "file": "File:熊本県立美術館本館 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/NodaHideo-1934-A_Street_at_the_End_of_Year.png/1280px-NodaHideo-1934-A_Street_at_the_End_of_Year.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kumamoto-prefectural-museum-of-art/thumbs/4.webp",
+    "w": 636,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Hideo Noda",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NodaHideo-1934-A_Street_at_the_End_of_Year.png",
+    "file": "File:NodaHideo-1934-A Street at the End of Year.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lee-ufan-museum",
@@ -213821,7 +216876,71 @@ window.BUILDINGS = [
   "commons": "Category:Lee Ufan Museum",
   "lead": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192966.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192966.jpg/1280px-Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lee-ufan-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "松岡明芳",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192966.jpg",
+    "file": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192966.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Lee_Ufan_Museum_%2826785053915%29.jpg/1280px-Lee_Ufan_Museum_%2826785053915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lee-ufan-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lee_Ufan_Museum_(26785053915).jpg",
+    "file": "File:Lee Ufan Museum (26785053915).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Walkway_to_the_Lee_Ufan_Museum.jpg/1280px-Walkway_to_the_Lee_Ufan_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lee-ufan-museum/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Walkway to the Lee Ufan Museum on Naoshima, Japan",
+    "credit": "Bea Phi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walkway_to_the_Lee_Ufan_Museum.jpg",
+    "file": "File:Walkway to the Lee Ufan Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Lee_Ufan_Museum_%287049599907%29.jpg/1280px-Lee_Ufan_Museum_%287049599907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lee-ufan-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Naoshima 2",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lee_Ufan_Museum_(7049599907).jpg",
+    "file": "File:Lee Ufan Museum (7049599907).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192965.jpg/1280px-Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lee-ufan-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "松岡明芳",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lee_U-Fan_museum_%E6%9D%8E%E7%A6%B9%E7%85%A5%E7%BE%8E%E8%A1%93%E9%A4%A8_%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%A6%99%E5%B7%9D%E9%83%A1%E7%9B%B4%E5%B3%B6%E7%94%BA%E5%AD%97%E5%80%89%E6%B5%A6_PC192965.jpg",
+    "file": "File:Lee U-Fan museum 李禹煥美術館 香川県香川郡直島町字倉浦 PC192965.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "matsumoto-performing-arts-centre",
@@ -213845,7 +216964,59 @@ window.BUILDINGS = [
   "commons": "Category:Matsumoto Performing Arts Centre",
   "lead": "File:Matsumoto Performing Arts Centre.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Matsumoto_Performing_Arts_Centre.jpg/1280px-Matsumoto_Performing_Arts_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/matsumoto-performing-arts-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tohnass",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Performing_Arts_Centre.jpg",
+    "file": "File:Matsumoto Performing Arts Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E5%B8%82%E6%B0%91%E8%8A%B8%E8%A1%93%E9%A4%A8.jpg/1280px-%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E5%B8%82%E6%B0%91%E8%8A%B8%E8%A1%93%E9%A4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/matsumoto-performing-arts-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 718,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "深志",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%E5%B8%82%E6%B0%91%E8%8A%B8%E8%A1%93%E9%A4%A8.jpg",
+    "file": "File:まつもと市民芸術館.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Matsumoto_Performing_Arts_Centre_-_Jun_27%2C_2009.jpg/1280px-Matsumoto_Performing_Arts_Centre_-_Jun_27%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/matsumoto-performing-arts-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Matsumoto Performing Arts Centre in Matsumoto, Nagano pref Japan",
+    "credit": "yoppy",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Performing_Arts_Centre_-_Jun_27,_2009.jpg",
+    "file": "File:Matsumoto Performing Arts Centre - Jun 27, 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Matsumoto_Performing_Arts_Centre01n4592.jpg/1280px-Matsumoto_Performing_Arts_Centre01n4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/matsumoto-performing-arts-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Matsumoto Performing Arts Centre in Matsumoto, Nagano prefecture, Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Performing_Arts_Centre01n4592.jpg",
+    "file": "File:Matsumoto Performing Arts Centre01n4592.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mikimoto-ginza-2",
@@ -213869,7 +217040,59 @@ window.BUILDINGS = [
   "commons": "Category:Mikimoto Ginza 2",
   "lead": "File:Tokyo116 (7294792500).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Tokyo116_%287294792500%29.jpg/1280px-Tokyo116_%287294792500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mikimoto-ginza-2/thumbs/0.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior · Tokyo116",
+    "credit": "Chris Hamby",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo116_(7294792500).jpg",
+    "file": "File:Tokyo116 (7294792500).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Mikimoto_Ginza2.JPG/1280px-Mikimoto_Ginza2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mikimoto-ginza-2/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mikimoto Ginza Building, at Ginza Tokyo Japan, design by Toyo Ito",
+    "credit": "Oiuysdfg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mikimoto_Ginza2.JPG",
+    "file": "File:Mikimoto Ginza2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Le_magasin_Mikimoto_Ginza_2_%28Tokyo%2C_Japon%29_%2828834570578%29.jpg/1280px-Le_magasin_Mikimoto_Ginza_2_%28Tokyo%2C_Japon%29_%2828834570578%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mikimoto-ginza-2/thumbs/2.webp",
+    "w": 1210,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_magasin_Mikimoto_Ginza_2_(Tokyo,_Japon)_(28834570578).jpg",
+    "file": "File:Le magasin Mikimoto Ginza 2 (Tokyo, Japon) (28834570578).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mikimoto_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/mikimoto-ginza-2/thumbs/3.webp",
+    "w": 675,
+    "h": 1200,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tim Wang",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mikimoto_Building.jpg",
+    "file": "File:Mikimoto Building.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museum-of-modern-art-saitama",
@@ -213893,7 +217116,59 @@ window.BUILDINGS = [
   "commons": "Category:Museum of Modern Art, Saitama",
   "lead": "File:The Museum of Modern Art, Saitama.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Museum_of_Modern_Art%2C_Saitama.jpg/1280px-The_Museum_of_Modern_Art%2C_Saitama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-saitama/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"The Museum of Modern Art, Saitama\" ( Kisho Kurokawa 1982) at Saitama , Japan",
+    "credit": "Dddeco",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Museum_of_Modern_Art,_Saitama.jpg",
+    "file": "File:The Museum of Modern Art, Saitama.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Museum_of_Modern_Art_Saitama_2010.jpg/1280px-Museum_of_Modern_Art_Saitama_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-saitama/thumbs/1.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Museum of Modern Art, Saitama, Urawa-ku Saitama Japan , designed by Kisho Kurokawa in 1982",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Modern_Art_Saitama_2010.jpg",
+    "file": "File:Museum of Modern Art Saitama 2010.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg/1280px-%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-saitama/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jun Matsuo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_-_panoramio.jpg",
+    "file": "File:埼玉県立近代美術館 - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Renoir_-_Three_Bathers%2C_1917.jpg/1280px-Renoir_-_Three_Bathers%2C_1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-saitama/thumbs/3.webp",
+    "w": 1280,
+    "h": 1052,
+    "kind": "Exterior",
+    "caption": "Exterior · Three Bathers",
+    "credit": "Pierre-Auguste Renoir",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Renoir_-_Three_Bathers,_1917.jpg",
+    "file": "File:Renoir - Three Bathers, 1917.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nagoya-city-art-museum",
@@ -213917,7 +217192,71 @@ window.BUILDINGS = [
   "commons": "Category:Nagoya City Art Museum",
   "lead": "File:Nagoya City Art Museum ac (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Nagoya_City_Art_Museum_ac_%282%29.jpg/1280px-Nagoya_City_Art_Museum_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagoya-city-art-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_City_Art_Museum_ac_(2).jpg",
+    "file": "File:Nagoya City Art Museum ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Nagoya_City_Art_Museum_%282025%29_-_2.jpg/1280px-Nagoya_City_Art_Museum_%282025%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagoya-city-art-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kyu3a",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_City_Art_Museum_(2025)_-_2.jpg",
+    "file": "File:Nagoya City Art Museum (2025) - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nagoya_City_Art_Museum_01%2C_Sakae_Naka_Ward_Nagoya_2020.jpg/1280px-Nagoya_City_Art_Museum_01%2C_Sakae_Naka_Ward_Nagoya_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagoya-city-art-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tomio344456",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_City_Art_Museum_01,_Sakae_Naka_Ward_Nagoya_2020.jpg",
+    "file": "File:Nagoya City Art Museum 01, Sakae Naka Ward Nagoya 2020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nagoya_City_Art_Museum_ac_%284%29.jpg/1280px-Nagoya_City_Art_Museum_ac_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagoya-city-art-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_City_Art_Museum_ac_(4).jpg",
+    "file": "File:Nagoya City Art Museum ac (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Rue_Marcadet%2C_1909_-_Maurice_Utrillo.jpg/1280px-Rue_Marcadet%2C_1909_-_Maurice_Utrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagoya-city-art-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 938,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Maurice Utrillo",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rue_Marcadet,_1909_-_Maurice_Utrillo.jpg",
+    "file": "File:Rue Marcadet, 1909 - Maurice Utrillo.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "national-museum-of-modern-art-kyoto",
@@ -213941,7 +217280,83 @@ window.BUILDINGS = [
   "commons": "Category:National Museum of Modern Art, Kyoto",
   "lead": "File:National Museum of Modern Art Kyoto 2010.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/National_Museum_of_Modern_Art_Kyoto_2010.jpg/1280px-National_Museum_of_Modern_Art_Kyoto_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/0.webp",
+    "w": 1280,
+    "h": 1025,
+    "kind": "Exterior",
+    "caption": "Exterior · National Museum of Modern Art, Kyoto, at Sakyo-ku Kyoto Japan , designed by Fumihiko Maki in 1986",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_Art_Kyoto_2010.jpg",
+    "file": "File:National Museum of Modern Art Kyoto 2010.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/The_National_Museum_of_Modern_Art%2C_Kyoto.jpg/1280px-The_National_Museum_of_Modern_Art%2C_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The National Museum of Modern Art, Kyoto",
+    "credit": "Fumihiro Kato",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Modern_Art,_Kyoto.jpg",
+    "file": "File:The National Museum of Modern Art, Kyoto.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/National_Museum_of_Modern_Art_%28Kyoto_Sakyo-ku%29_hdsr_S5_01.jpg/1280px-National_Museum_of_Modern_Art_%28Kyoto_Sakyo-ku%29_hdsr_S5_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/2.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · National Museum of Modern Art",
+    "credit": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_Art_(Kyoto_Sakyo-ku)_hdsr_S5_01.jpg",
+    "file": "File:National Museum of Modern Art (Kyoto Sakyo-ku) hdsr S5 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/National_Museum_of_Modern_Art_%28Kyoto_Sakyo-ku%29_hdsr_S5_02.jpg/1280px-National_Museum_of_Modern_Art_%28Kyoto_Sakyo-ku%29_hdsr_S5_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/3.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · National Museum of Modern Art",
+    "credit": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_Art_(Kyoto_Sakyo-ku)_hdsr_S5_02.jpg",
+    "file": "File:National Museum of Modern Art (Kyoto Sakyo-ku) hdsr S5 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/It%C5%8DYoshihiko-1895-Spring_in_a_Ktichen.png/1280px-It%C5%8DYoshihiko-1895-Spring_in_a_Ktichen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/4.webp",
+    "w": 1280,
+    "h": 955,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Yoshihiko Ito",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:It%C5%8DYoshihiko-1895-Spring_in_a_Ktichen.png",
+    "file": "File:ItōYoshihiko-1895-Spring in a Ktichen.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/KAWABATA_Summer_parlor.jpg/1280px-KAWABATA_Summer_parlor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-kyoto/thumbs/5.webp",
+    "w": 1141,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kawabata Ryushi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:KAWABATA_Summer_parlor.jpg",
+    "file": "File:KAWABATA Summer parlor.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "alila-villas-uluwatu",
@@ -213965,7 +217380,59 @@ window.BUILDINGS = [
   "commons": "Category:Alila Villas Uluwatu",
   "lead": "File:Pavilion (44618244035).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pavilion_%2844618244035%29.jpg/1280px-Pavilion_%2844618244035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alila-villas-uluwatu/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Alila Villas, Bali",
+    "credit": "a.canvas.of.light  from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavilion_(44618244035).jpg",
+    "file": "File:Pavilion (44618244035).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Dusk_%2845607177891%29.jpg/1280px-Dusk_%2845607177891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alila-villas-uluwatu/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Alila Villas, Bali",
+    "credit": "a.canvas.of.light  from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dusk_(45607177891).jpg",
+    "file": "File:Dusk (45607177891).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Alila_Villas_Uluwatu.jpg/1280px-Alila_Villas_Uluwatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alila-villas-uluwatu/thumbs/2.webp",
+    "w": 1191,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ayeemm54",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alila_Villas_Uluwatu.jpg",
+    "file": "File:Alila Villas Uluwatu.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Corridor_%2830683109997%29.jpg/1280px-Corridor_%2830683109997%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alila-villas-uluwatu/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Alila Villas, Bali",
+    "credit": "a.canvas.of.light  from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor_(30683109997).jpg",
+    "file": "File:Corridor (30683109997).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shanghai-suhe-mixc-world",
@@ -213989,7 +217456,23 @@ window.BUILDINGS = [
   "commons": "Category:Shanghai Suhe MixC World",
   "lead": "File:Shanghai Suhe MixC World 20251127.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Shanghai_Suhe_MixC_World_20251127.jpg/1280px-Shanghai_Suhe_MixC_World_20251127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-suhe-mixc-world/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "This Photo was taken by    Supanut Arunoprayote   .\n \n Feel free to use any of my images, but please",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Suhe_MixC_World_20251127.jpg",
+    "file": "File:Shanghai Suhe MixC World 20251127.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dalarna-media-library",
@@ -214013,7 +217496,71 @@ window.BUILDINGS = [
   "commons": "Category:Dalarna University College",
   "lead": "File:Dalarna University library.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Dalarna_University_library.jpg/1280px-Dalarna_University_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dalarna-media-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Library at Dalarna University",
+    "credit": "Lsj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dalarna_University_library.jpg",
+    "file": "File:Dalarna University library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Biblioteca_da_Universidade_de_Dalarna.jpg/1280px-Biblioteca_da_Universidade_de_Dalarna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dalarna-media-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Biblioteca da Universidade de Dalarna, na cidade de Falun",
+    "credit": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_da_Universidade_de_Dalarna.jpg",
+    "file": "File:Biblioteca da Universidade de Dalarna.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Campus_Borl%C3%A4nge.png/1280px-Campus_Borl%C3%A4nge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dalarna-media-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Högskolan Dalarnas campus i Borlänge",
+    "credit": "LinneaHinz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Campus_Borl%C3%A4nge.png",
+    "file": "File:Campus Borlänge.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hskdalarna1.JPG/1280px-Hskdalarna1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dalarna-media-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Högskolan Dalarna in Falun, Sweden",
+    "credit": "No machine-readable author provided.  Skvattram~commonswiki  assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hskdalarna1.JPG",
+    "file": "File:Hskdalarna1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Interior_da_Universidade_de_Dalarna.jpg/1280px-Interior_da_Universidade_de_Dalarna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dalarna-media-library/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior da Universidade de Dalarna, na cidade de Falun",
+    "credit": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_da_Universidade_de_Dalarna.jpg",
+    "file": "File:Interior da Universidade de Dalarna.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "london-bridge-station-redevelopment",
@@ -214037,7 +217584,123 @@ window.BUILDINGS = [
   "commons": "Category:London Bridge station",
   "lead": "File:London Bridge platforms 7 ^ 8 - geograph.org.uk - 8341586.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/London_Bridge_platforms_7_%5E_8_-_geograph.org.uk_-_8341586.jpg/1280px-London_Bridge_platforms_7_%5E_8_-_geograph.org.uk_-_8341586.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · London Bridge platforms 7 & 8",
+    "credit": "DS Pugh",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_platforms_7_%5E_8_-_geograph.org.uk_-_8341586.jpg",
+    "file": "File:London Bridge platforms 7 ^ 8 - geograph.org.uk - 8341586.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/London_Bridge_Station_entrance_September_2023.jpg/1280px-London_Bridge_Station_entrance_September_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · London Bridge Station entrance from A200 road",
+    "credit": "DaHuzyBru",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_Station_entrance_September_2023.jpg",
+    "file": "File:London Bridge Station entrance September 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/London_Bridge_Concourse_1.jpg/1280px-London_Bridge_Concourse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · London Bridge Concourse",
+    "credit": "Tim Sheerman-Chase",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_Concourse_1.jpg",
+    "file": "File:London Bridge Concourse 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/London_Bridge_railway_station_with_a_glass_lift_shaft_central_in_the_image.jpg/1280px-London_Bridge_railway_station_with_a_glass_lift_shaft_central_in_the_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · London Bridge railway station with a glass lift shaft central in the image",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_railway_station_with_a_glass_lift_shaft_central_in_the_image.jpg",
+    "file": "File:London Bridge railway station with a glass lift shaft central in the image.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/London_Bridge_station_Flickr_DSC07133_%2815688800913%29.jpg/1280px-London_Bridge_station_Flickr_DSC07133_%2815688800913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside the concourse of London Bridge station",
+    "credit": "Aubrey Morandarte  from Guildford or Coventry, England",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_station_Flickr_DSC07133_(15688800913).jpg",
+    "file": "File:London Bridge station Flickr DSC07133 (15688800913).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/London_Bridge_station%2C_stairs_down_into_the_new_concourse_-_geograph.org.uk_-_5189498.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/5.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · London Bridge station: stairs down into the new concourse",
+    "credit": "Christopher Hilton",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_station,_stairs_down_into_the_new_concourse_-_geograph.org.uk_-_5189498.jpg",
+    "file": "File:London Bridge station, stairs down into the new concourse - geograph.org.uk - 5189498.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Bridge_station%2C_Eastern_section%2C_2006_-_geograph.org.uk_-_5560623.jpg/1280px-London_Bridge_station%2C_Eastern_section%2C_2006_-_geograph.org.uk_-_5560623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/6.webp",
+    "w": 1280,
+    "h": 797,
+    "kind": "Section",
+    "caption": "Section · London Bridge station, Eastern section, 2006",
+    "credit": "Ben Brooksbank",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_station,_Eastern_section,_2006_-_geograph.org.uk_-_5560623.jpg",
+    "file": "File:London Bridge station, Eastern section, 2006 - geograph.org.uk - 5560623.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Paper_Mockup_of_London_Bridge.jpg/1280px-Paper_Mockup_of_London_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/7.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Model",
+    "caption": "Model · A paper made mockup of how London Bridge will look when the Thameslink Programme is complete",
+    "credit": "TheJRB",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paper_Mockup_of_London_Bridge.jpg",
+    "file": "File:Paper Mockup of London Bridge.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Life_Drawing_at_London_Bridge_Station.jpg/1280px-Life_Drawing_at_London_Bridge_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/london-bridge-station-redevelopment/thumbs/8.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Drawing",
+    "caption": "Drawing · Life Drawing at London Bridge Station",
+    "credit": "Loz Pycock",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Life_Drawing_at_London_Bridge_Station.jpg",
+    "file": "File:Life Drawing at London Bridge Station.jpg"
+   }
+  ],
+  "has": [
+   "Section",
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "lanserhof-sylt",
