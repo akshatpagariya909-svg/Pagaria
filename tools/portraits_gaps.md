@@ -4,24 +4,16 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 
 | Name | Buildings | For example |
 |---|---|---|
-| Partners | 46 | 30 St Mary Axe |
-| Foster | 30 | 30 St Mary Axe |
-| Herzog | 26 | Tate Modern |
-| de Meuron | 25 | Tate Modern |
-| OMA | 23 | Seattle Central Library |
 | Zaha Hadid Architects | 23 | Galaxy SOHO |
 | Associates | 21 | Knights of Columbus Building |
+| Partners | 15 | 122 Leadenhall Street |
 | Zaha Hadid | 13 | Vitra Fire Station |
-| BIG | 11 | 8 House |
-| SANAA | 11 | 21st Century Museum of Contemporary Art, Kanazawa |
-| SOM | 11 | Beinecke Rare Book & Manuscript Library |
+| SOM | 10 | Beinecke Rare Book & Manuscript Library |
 | Álvaro Siza | 9 | Leça Swimming Pools |
 | Jørn Utzon | 8 | Sydney Opera House |
 | Kunio Maekawa | 8 | Tokyo Bunka Kaikan |
-| MVRDV | 8 | WoZoCo |
 | Geoffrey Bawa | 7 | Heritance Kandalama |
 | Gordon Bunshaft | 7 | Beinecke Rare Book & Manuscript Library |
-| Morphosis | 7 | Graduate House, University of Toronto |
 | Nikken Sekkei | 7 | Tokyo Skytree |
 | Rogelio Salmona | 7 | Torres del Parque |
 | 3XN | 6 | Muziekgebouw aan 't IJ |
@@ -29,14 +21,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Coop Himmelbau | 6 | BMW Welt |
 | Mahendra Raj | 6 | Sardar Vallabhbhai Patel Stadium |
 | Michael Wilford | 6 | Esplanade - Theatres on the Bay |
-| RCR Arquitectes | 6 | De Krook |
 | Ricardo Legorreta | 6 | Museo de Arte Contemporáneo de Monterrey |
-| Snøhetta | 6 | Oslo Opera House |
 | team | 6 | Civic Center of Lima |
 | Behnisch | 5 | Munich Olympic Stadium |
 | Frei Otto | 5 | Munich Olympic Stadium |
-| Grafton Architects | 5 | Universita Luigi Bocconi Building |
-| Henning Larsen Architects | 5 | Harpa |
 | Kiyonori Kikutake | 5 | Edo-Tokyo Museum |
 | Merrill | 5 | Al Hamra Tower |
 | Owings | 5 | Al Hamra Tower |
@@ -53,42 +41,33 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Ashton Raggatt McDougall | 4 | RMIT Storey Hall |
 | B. V. Doshi | 4 | CEPT University |
 | Behnisch Architekten | 4 | Ozeaneum |
-| David Chipperfield Architects | 4 | Museum Folkwang |
 | Denton Corker Marshall | 4 | Melbourne Museum |
 | Elemental | 4 | Quinta Monroy |
 | Enric Miralles | 4 | Scottish Parliament Building |
 | Juan O'Gorman | 4 | Anahuacalli Museum |
 | Lacaton | 4 | Nantes School of Architecture |
 | Leandro Locsin | 4 | Church of the Holy Sacrifice |
-| MAD Architects | 4 | Harbin Opera House |
 | Mansilla | 4 | MUSAC, Museum of Contemporary Art of Castilla y León |
 | Mario Pani | 4 | Centro Urbano Presidente Alemán |
-| McKim | 4 | The Morgan Library & Museum |
-| Mead | 4 | The Morgan Library & Museum |
 | Nieto Sobejano Arquitectos | 4 | Arvo Pärt Centre |
 | Pietro Belluschi | 4 | Cathedral of Saint Mary of the Assumption |
 | Roy Grounds | 4 | Shine Dome |
 | Sauerbruch Hutton | 4 | Museum Brandhorst |
 | Schmidt Hammer Lassen | 4 | Black Diamond |
-| Snohetta | 4 | Bibliotheca Alexandrina |
 | Tuñón | 4 | MUSAC, Museum of Contemporary Art of Castilla y León |
 | Vassal | 4 | Nantes School of Architecture |
 | Aris Konstantinidis | 3 | Xenia Hotel, Mykonos |
 | Artur Tarkhanyan | 3 | Rossiya Cinema |
-| Arup | 3 | Helix Bridge |
 | Basil Spence | 3 | Coventry Cathedral |
 | Berthold Lubetkin | 3 | Highpoint I |
 | Brinkman | 3 | Van Nelle Factory |
 | Charles-Édouard Jeanneret | 3 | Villa Schwob (Villa Turque) |
-| Diller Scofidio | 3 | High Line |
-| Doriana Fuksas | 3 | La Nuvola (Roma Convention Center) |
 | Future Systems | 3 | Museo Enzo Ferrari |
 | Gigon | 3 | Prime Tower |
 | Guyer | 3 | Prime Tower |
 | Günther Domenig | 3 | Documentation Center Nazi Party Rally Grounds |
 | Hans Poelzig | 3 | IG Farben Building |
 | Hassell | 3 | Adelaide Festival Centre |
-| Heatherwick Studio | 3 | Zeitz MOCAA |
 | Helmut Jahn | 3 | Messeturm |
 | Henry N. Cobb | 3 | John Hancock Tower |
 | Hiroshi Hara | 3 | Kyoto Station Building |
@@ -108,7 +87,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Pancho Guedes | 3 | Saipal Bakery |
 | Populous | 3 | Lusail Stadium |
 | Renfro | 3 | High Line |
-| Rogers Stirk Harbour | 3 | 122 Leadenhall Street |
 | Sedad Hakkı Eldem | 3 | Hilton Istanbul |
 | Tecton | 3 | Highpoint I |
 | Tranberg | 3 | Tietgenkollegiet |
@@ -121,7 +99,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | gmp Architekten | 3 | Hanoi Museum |
 | ALA Architects | 2 | Helsinki Central Library Oodi |
 | Abdol Aziz Farmanfarmaian | 2 | Carpet Museum of Iran |
-| Adjaye Associates | 2 | Abrahamic Family House |
 | Adrian Smith | 2 | Al Wasl Plaza |
 | Aires Mateus | 2 | Centro de Artes de Sines |
 | Alejandro de la Sota | 2 | Gimnasio Maravillas |
@@ -158,7 +135,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Goris | 2 | De Krook |
 | Grachya Poghosyan | 2 | Rossiya Cinema |
 | Guðjón Samúelsson | 2 | Hallgrímskirkja |
-| HOK | 2 | Flame Towers |
 | Hassan Fathy | 2 | New Gourna Village |
 | Heneghan Peng | 2 | Palestinian Museum |
 | Herreros | 2 | Woermann Tower |
@@ -188,7 +164,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Marcel Lods | 2 | École de plein air de Suresnes |
 | Mario Fiorentino | 2 | Mausoleo delle Fosse Ardeatine |
 | Mario Roberto Álvarez | 2 | Teatro General San Martín |
-| Massimiliano | 2 | Tbilisi Public Service Hall |
 | Maxime Brunfaut | 2 | Brussels-Central Station |
 | Mitchell | 2 | Parliament House |
 | NL Architects | 2 | DeFlat Kleiburg |
@@ -198,7 +173,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Oswald Mathias Ungers | 2 | Messe Torhaus |
 | Palmer | 2 | Peace Hotel (Sassoon House) |
 | Peddle Thorp | 2 | State Library of Queensland |
-| Pei Cobb Freed | 2 | Palazzo Lombardia |
 | Pierre Koenig | 2 | Case Study House #21 (Bailey House) |
 | Powell | 2 | Barbican Estate |
 | RMJM | 2 | Capital Gate |
@@ -214,7 +188,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Rudder | 2 | Qantas House (No. 1 Chifley Square) |
 | Rudolf Schwarz | 2 | Corpus Christi Church, Aachen |
 | Saarinen | 2 | Hvitträsk |
-| Safdie Architects | 2 | Crystal Bridges Museum of American Art |
 | Samper y Cía. | 2 | Avianca Building |
 | SelgasCano | 2 | Badajoz Congress Centre (Manuel Rojas) |
 | Sep Ruf | 2 | St. Johann von Capistran |
@@ -472,6 +445,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Donald Olsen | 1 | Wurster Hall |
 | Donovan Hill | 1 | State Library of Queensland |
 | Dorell Ghotmeh Tane | 1 | Estonian National Museum |
+| Doriana Fuksas | 1 | La Nuvola (Roma Convention Center) |
 | Duncan Lewis | 1 | Lascaux IV |
 | Dušan Milenković | 1 | Findeco House |
 | E. Fay Jones | 1 | Thorncrown Chapel |

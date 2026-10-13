@@ -1,4 +1,4 @@
-1894 of 2604 buildings matched; 972 architects, 514 with a free portrait.
+2123 of 2604 buildings matched; 1018 architects, 533 with a free portrait.
 
 search  villa-savoye: Q940746
 search  unite-dhabitation: Q1412364
@@ -1094,6 +1094,8 @@ name    Ray Eames: Q380404
 name    Antonin Raymond: Q105079711
 name    George Nakashima: Q52431
 name    Louis Kahn: Q210134
+founder Gerhard Kallmann (Kallmann McKinnell): Q1504907
+founder Michael McKinnell (Kallmann McKinnell): Q6832740
 name    Kallmann McKinnell: no architect of that name
 name    Vilanova Artigas: Q1791191
 name    Lina Bo Bardi: Q272400
@@ -1108,28 +1110,48 @@ name    Carlo Scarpa: Q51137
 name    Peter Zumthor: Q123179
 name    Wang Shu: Q336620
 name    Alejandro Aravena: no architect of that name
+founder Kazuyo Sejima (SANAA): Q253350
+founder Ryue Nishizawa (SANAA): Q369645
 name    Junya Ishigami: Q3070853
 name    Rei Naito: no architect of that name
 name    Sou Fujimoto: Q3133614
-name    de Meuron: no architect of that name
+founder Jacques Herzog (Herzog & de Meuron): Q2745982
+founder Pierre de Meuron (Herzog & de Meuron): Q3174960
+founder Rem Koolhaas (OMA): Q232364
+founder Kjetil Trædal Thorsen (Snøhetta): Q1813434
+founder Craig Dykers (Snøhetta): Q5180916
+founder Bjarke Ingels (BIG): Q429817
+founder Jürgen Mayer (J. Mayer H.): Q85218
 name    J. Mayer H.: Q85218
 name    University of Stuttgart: no architect of that name
+founder Elizabeth Diller (Diller Scofidio): Q1225543
+founder Ricardo Scofidio (Diller Scofidio): Q15713956
 name    Diller Scofidio: no architect of that name
 name    James Corner: Q6131742
 name    Piet Oudolf: Q1407899
 name    Vo Trong Nghia: Q20687524
 name    Topotek 1: no architect of that name
+founder Thomas Heatherwick (Heatherwick Studio): Q3051023
 name    Heatherwick Studio: no architect of that name
 name    Prince Toshihito: no architect of that name
 name    Nasrid builders: no architect of that name
 name    Unknown builders: no architect of that name
+founder Norman Foster (Foster and Partners): Q104898
+founder Louis Skidmore (SOM): Q6688185
+founder Nathaniel A. Owings (SOM): Q6969466
+founder John O. Merrill (SOM): Q6248544
 name    Peter Walker: no architect of that name
+founder Günter Behnisch (Behnisch & Partner): Q60694
 name    ALA Architects: no architect of that name
 name    Jorn Utzon: no architect of that name
+founder Wong Mun Summ (WOHA): no architect of that name
+founder Richard Hassell (WOHA): no architect of that name
 name    Ignaty Milinis: Q4293407
 name    Warren Chalk: Q18593565
 name    Jorgen Bo: no architect of that name
 name    Ruy Athouguia: no architect of that name
+founder Yvonne Farrell (Grafton Architects): Q16151248
+founder Shelley McNamara (Grafton Architects): Q21132821
 name    Grafton Architects: no architect of that name
 name    Buckminster Fuller: Q102289
 name    Hariri Pontarini Architects: no architect of that name
@@ -1156,6 +1178,7 @@ name    Fumihiko Maki: Q312827
 name    Kazuo Shinohara: Q330274
 name    Hiroshi Sambuichi: Q11354477
 name    Shinto shrine carpenters: no architect of that name
+founder Ma Yansong (MAD Architects): Q8048959
 name    MAD Architects: no architect of that name
 name    Atelier Deshaus: no architect of that name
 name    Joseon builders: no architect of that name
@@ -1169,7 +1192,6 @@ name    Bates Smart: no architect of that name
 name    Yuncken Freeman: no architect of that name
 name    Denys Lasdun: Q466400
 name    Peter Smithson: Q15056051
-name    Norman Foster: Q104898
 name    Jack Lynn: Q15993229
 name    Ivor Smith: Q25183669
 name    Ralph Erskine: Q959698
@@ -1186,6 +1208,9 @@ name    Fritz Schupp: Q111145
 name    Martin Kremmer: Q1904319
 name    Fritz Höger: Q77380
 name    David Chipperfield: Q707020
+founder Winy Maas (MVRDV): Q1356269
+founder Jacob van Rijs (MVRDV): Q225927
+founder Nathalie de Vries (MVRDV): Q469961
 name    Dorell Ghotmeh Tane: no architect of that name
 name    Barozzi Veiga: no architect of that name
 name    Nikola Bašić: Q3513589
@@ -1215,8 +1240,10 @@ name    Mick Pearce: Q2140435
 name    OMM Design Workshop: no architect of that name
 name    Urban Solutions: no architect of that name
 name    Shaybanid builders: no architect of that name
+founder Wolf D. Prix (Coop Himmelb): Q114444
 name    Coop Himmelbau: no architect of that name
 name    Paul Bohm: Q98909
+founder Richard Rogers (Rogers Stirk Harbour): Q237412
 name    Rogers Stirk Harbour: no architect of that name
 name    Alex Cvijanovic: Q25804017
 name    Howard Barnstone: Q17194320
@@ -1228,7 +1255,7 @@ name    Information Based Architecture: no architect of that name
 name    PTW Architects: no architect of that name
 name    ACT Architecture: no architect of that name
 name    Gae Aulenti: Q8867
-name    Henning Larsen Architects: no architect of that name
+founder Henning Larsen (Henning Larsen): Q1377332
 name    Santiago Calatrava: Q168482
 name    Vladimir Shukhov: Q313210
 name    Andre Waterkeyn: Q523346
@@ -1236,6 +1263,9 @@ name    Andre Polak: Q28970335
 name    Kohn Pedersen Fox: no architect of that name
 name    Hopkins Architects: no architect of that name
 name    Percy Thomas Partnership: no architect of that name
+founder Morten Schmidt (Schmidt Hammer Lassen): no architect of that name
+founder Bjarne Hammer (Schmidt Hammer Lassen): Q93433882
+founder John F. Lassen (Schmidt Hammer Lassen): no architect of that name
 name    Schmidt Hammer Lassen: no architect of that name
 name    Sashur Kalashyan: no architect of that name
 name    Eugene Freyssinet: Q697514
@@ -1269,11 +1299,11 @@ name    Giancarlo Mazzanti: Q5879264
 name    Jorge Romero Gutiérrez: no architect of that name
 name    Dirk Bornhorst: Q96057945
 name    J. L. Gleave: Q10308595
+founder Zaha Hadid (Zaha Hadid Architects): Q47780
 name    Ming imperial builders: no architect of that name
 name    Wang Xianchen: no architect of that name
 name    Ron Phillips: Q106713582
 name    Alan Fitch: Q106691674
-name    Zaha Hadid Architects: no architect of that name
 name    Bio-architecture Formosana: no architect of that name
 name    ARC Studio Architecture: no architect of that name
 name    Kisho Kurokawa: Q358502
@@ -1304,7 +1334,11 @@ name    Marian Konieczny: no architect of that name
 name    Lassina Minta: no architect of that name
 name    Giuseppe Pettazzi: Q5565500
 name    John Burgee: Q5590225
+founder Kim Herforth Nielsen (3XN): Q6408718
 name    Tabanlioglu Architects: no architect of that name
+founder Rafael Aranda (RCR Arquitectes): Q6096991
+founder Carme Pigem (RCR Arquitectes): Q5752340
+founder Ramon Vilalta (RCR Arquitectes): Q5653784
 name    RCR Arquitectes: no architect of that name
 name    Nikken Sekkei: no architect of that name
 name    Marks Barfield: no architect of that name
@@ -1326,6 +1360,8 @@ name    Olof Rudbeck: Q350198
 name    Jonathan Adams: no architect of that name
 name    JEMS Architekci: no architect of that name
 name    Murat Tabanlioglu: no architect of that name
+founder Robert Matthew (RMJM): Q3658496
+founder Stirrat Johnson-Marshall (RMJM): Q18559869
 name    Diamond Schmitt Architects: no architect of that name
 name    Roger Anger: Q3438651
 name    Rocco Yim: Q10924416
@@ -1336,6 +1372,7 @@ name    Fritz Dieter: Q17321780
 name    Gustave Eiffel: Q20882
 name    Dora Gad: Q5297404
 name    Donald Deskey: Q5294242
+founder I. M. Pei (Pei Cobb Freed): Q46868
 name    Henry N. Cobb: Q5726216
 name    Elissa Aalto: Q2628666
 name    Jean-Jacques Baruël: Q5566727
@@ -1345,6 +1382,7 @@ name    Kevin Roche John Dinkeloo: no architect of that name
 name    Henry Y. D. Scott: no architect of that name
 name    Delugan Meissl Associated Architects: no architect of that name
 name    Adolf Leonard van Gendt: Q2108911
+founder Moshe Safdie (Safdie Architects): Q220944
 name    Safdie Architects: no architect of that name
 name    Tange Associates: no architect of that name
 name    John Graham: Q6235964
@@ -1354,6 +1392,9 @@ name    Walter Gropius: Q61071
 name    William Burnet Tuthill: Q8019589
 name    Willard T. Sears: Q5481957
 name    Ellerbe Becket: no architect of that name
+founder Gyo Obata (HOK): Q6318224
+founder George Hellmuth (HOK): Q83689124
+founder George Kassabaum (HOK): Q98885250
 name    HOK Sport: no architect of that name
 name    Carl von Hasenauer: Q84541
 name    AXS Satow: no architect of that name
@@ -1364,9 +1405,12 @@ name    Paul Weidner: Q117043444
 name    roof by Foster: no architect of that name
 name    west front by Pierre-Louis Carlier: no architect of that name
 name    Henri-Paul Nénot: Q3130450
+founder Stefan Behnisch (Behnisch Architekten): Q5477935
 name    Behnisch Architekten: no architect of that name
-name    David Chipperfield Architects: no architect of that name
 name    Ludwig Hoffmann: no architect of that name
+founder Charles Follen McKim (McKim, Mead): Q657848
+founder William Rutherford Mead (McKim, Mead): Q362550
+founder Stanford White (McKim, Mead): Q572735
 name    Adalberto Libera: Q348036
 name    Walter Maria Förderer: Q125160
 name    Charles-Édouard Jeanneret: no architect of that name
@@ -1385,8 +1429,11 @@ name    Dolores Palacios: Q124848009
 name    Atelier 5: no architect of that name
 name    Van den Broek en Bakema: no architect of that name
 name    Ramón Bescós: Q125242739
+founder Meinhard von Gerkan (gmp): Q76846
+founder Volkwin Marg (gmp): Q109445
 name    W. I. Turner: no architect of that name
 name    Architecture-Studio: no architect of that name
+founder Thom Mayne (Morphosis): Q312847
 name    Teeple Architects: no architect of that name
 name    Hascher Jehle Architektur: no architect of that name
 name    Hannie van Eyck: Q20202981
@@ -1408,7 +1455,6 @@ name    Juan Martínez de Velasco: no architect of that name
 name    Rafi Segal: Q139883348
 name    Edson Elito: no architect of that name
 name    Smiljan Radić: Q12220731
-name    Thom Mayne: Q312847
 name    Minoru Yamasaki: Q347215
 name    Fernando Távora: Q707455
 name    Riken Yamamoto: Q3432036
@@ -1423,6 +1469,7 @@ name    Newar builders: no architect of that name
 name    Design Partnership: no architect of that name
 name    Malayan Architects Co-Partnership: no architect of that name
 name    T. R. Hamzah: no architect of that name
+founder Ove Arup (Arup): Q717683
 name    Cox Architecture: no architect of that name
 name    Architects 61: no architect of that name
 name    Carlo Ratti Associati: no architect of that name
@@ -1450,6 +1497,7 @@ name    Tabanlıoğlu Architects: no architect of that name
 name    Şekip Akalın: Q6047553
 name    Han Tümertekin: Q6055915
 name    Kengo Kuma: Q725462
+founder David Adjaye (Adjaye Associates): Q1173530
 name    Adjaye Associates: no architect of that name
 name    Asymptote Architecture: no architect of that name
 name    Teshima Architects: no architect of that name
@@ -1478,6 +1526,8 @@ name    Wendy Lewin: no architect of that name
 name    Raj Rewal: Q2128622
 name    Li Xiaodong: no architect of that name
 name    Emilio Duhart: Q5831065
+founder Takaharu Tezuka (Tezuka Architects): Q11496991
+founder Yui Tezuka (Tezuka Architects): Q11496979
 name    Tezuka Architects: no architect of that name
 name    Victor Horta: Q49744
 name    James Stirling: Q159619
@@ -1553,7 +1603,6 @@ name    Émile Aillaud: Q274877
 name    Ricardo Bofill: Q316413
 name    Taller de Arquitectura: no architect of that name
 name    Jean Renaudie: Q3088355
-name    Zaha Hadid: Q47780
 name    Solange Fabião: no architect of that name
 name    Marcel Breuer: Q57588
 name    Bernard Tschumi: Q123966
@@ -1562,7 +1611,6 @@ name    Elizabeth de Portzamparc: Q3051283
 name    Édouard François: Q3579849
 name    Pierre Koenig: Q1625324
 name    John Lautner: Q965234
-name    David Adjaye: Q1173530
 name    José Antonio Coderch: no architect of that name
 name    Alberto Campo Baeza: Q2247482
 name    Moore Lyndon Turnbull Whitaker: no architect of that name
@@ -1597,8 +1645,6 @@ name    Nicos Valsamakis: Q1772321
 name    Takis Zenetos: Q455547
 name    Kiyonori Kikutake: Q1352623
 name    Shigeru Ban: Q526725
-name    Kazuyo Sejima: Q253350
-name    Ryue Nishizawa: Q369645
 name    Kunio Maekawa: Q129938
 name    Mass Studies: no architect of that name
 name    Yoo Kerl: no architect of that name
@@ -1662,6 +1708,8 @@ name    Pekka Vapaavuori: Q349633
 name    Alar Kotli: Q434946
 name    Henno Sepmann: Q1462841
 name    Uno Tölpus: Q16407509
+founder Fuensanta Nieto (Nieto Sobejano): Q19902909
+founder Enrique Sobejano (Nieto Sobejano): Q15808152
 name    Nieto Sobejano Arquitectos: no architect of that name
 name    Levon Cherkezyan: no architect of that name
 name    Zhorzh Shekhlyan: no architect of that name
@@ -1717,7 +1765,6 @@ name    Studio Daniel Libeskind: no architect of that name
 name    Davis Partnership: no architect of that name
 name    Tod Williams Billie Tsien Architects: no architect of that name
 name    Nicholas Grimshaw: Q1348044
-name    Rem Koolhaas: Q232364
 name    NL Architects: no architect of that name
 name    XVW architectuur: no architect of that name
 name    Gustav Düsing: Q135477726
@@ -1789,7 +1836,6 @@ name    Berthold Lubetkin: Q827997
 name    Owen Williams: Q7114695
 name    London County Council Architects Department: no architect of that name
 name    Basil Spence: Q1172126
-name    Robert Matthew: Q3658496
 name    Johnson-Marshall: no architect of that name
 name    Van der Vlugt: no architect of that name
 name    Erich Mendelsohn: Q76730
@@ -1849,7 +1895,6 @@ name    Shigeru Ban Architects: no architect of that name
 name    Loreto Lyon: Q114798397
 name    Hans Hollein: Q78884
 name    Building Design Partnership: no architect of that name
-name    Ove Arup: Q717683
 name    Victor Pasmore: Q664275
 name    Enric Ruiz-Geli: no architect of that name
 name    Civic Architects: no architect of that name
@@ -1891,7 +1936,8 @@ name    Milutin Jerotijević: no architect of that name
 name    Biro 71: no architect of that name
 name    Georgi Konstantinovski: Q3103758
 name    Yulian Schwarzbreim: no architect of that name
-name    Vladimír Machonin: Q25485016
+founder Vladimír Machonin (Věra and Vladimír Machonin): Q25485016
+founder Věra Machoninová (Věra and Vladimír Machonin): Q13427221
 name    Viktor Yegerev: no architect of that name
 name    Takamasa Yoshizaka: Q7677131
 name    Krystyna Tołłoczko-Różyska: Q109616324
@@ -1926,6 +1972,8 @@ name    Peter Celsing: Q352843
 name    Jon Eikvar: Q124894546
 name    Sven Erik Engebretsen: no architect of that name
 name    JDS Architects: no architect of that name
+founder Bolle Tham (Tham & Videgård): Q6206771
+founder Martin Videgård (Tham & Videgård): Q6224737
 name    Videgård Arkitekter: no architect of that name
 name    Kimmo Lintula: no architect of that name
 name    Hannu Tikka: no architect of that name
@@ -1973,10 +2021,11 @@ name    Hans Scharoun: Q57481
 name    after designs by Hans Scharoun: no architect of that name
 name    Andrea Deplazes: Q493748
 name    Oswald Mathias Ungers: Q67316
+founder Matthias Sauerbruch (Sauerbruch Hutton): Q15456533
+founder Louisa Hutton (Sauerbruch Hutton): Q4955176
 name    Sauerbruch Hutton: no architect of that name
 name    Max Dudler: Q122467
 name    Barkow Leibinger: no architect of that name
-name    von Gerkan: no architect of that name
 name    Marg und Partner: no architect of that name
 name    Eun Young Yi: Q1373965
 name    Stephan Braunfels: Q97388
@@ -1985,7 +2034,6 @@ name    Hadi Teherani: Q96271
 name    Hufnagel Pütz Rafaelian: no architect of that name
 name    Josef Paul Kleihues: Q95976
 name    Dörte Gatermann: Q107596
-name    Günter Behnisch: Q60694
 name    Werner Durth: Q1721434
 name    Karl Schwanzer: Q85488
 name    Axel Schultes: Q110798
@@ -2035,6 +2083,9 @@ name    Athfield Architects: no architect of that name
 name    Ian Athfield: Q5980798
 name    ARM Architecture: no architect of that name
 name    Robert Peck von Hartel Trethowan: no architect of that name
+founder John Denton (Denton Corker Marshall): Q124872233
+founder Bill Corker (Denton Corker Marshall): Q134966165
+founder Barrie Marshall (Denton Corker Marshall): Q134966163
 name    Denton Corker Marshall: no architect of that name
 name    Craig Craig Moller: no architect of that name
 name    Ewen Wainscott: no architect of that name
@@ -2078,9 +2129,7 @@ skip    lloyds-building: Q6247389 'John McAslan' is not in 'Richard Rogers'
 skip    hsbc-main-building: Q3567241 'Wendy Cheesman' is not in 'Norman Foster'
 licence Zaha Hadid: FAL, not used
 skip    tate-modern: Q76411102 'de Meuron' is a firm, not a person
-skip    seattle-central-library: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    seattle-central-library: Q6290134 'Joshua Ramus' is not in 'OMA'
-skip    casa-da-m-sica: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    casa-da-m-sica: Q5483055 'Ellen van Loon' is not in 'OMA'
 skip    casa-da-m-sica: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
 skip    beijing-national-stadium: Q308776 'Herzog & de Meuron' is a firm, not a person
@@ -2090,17 +2139,14 @@ skip    8-house: Q2481701 'BIG' is a firm, not a person
 skip    cctv-headquarters: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
 skip    elbphilharmonie: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    elbphilharmonie: Q1456008 'Werner Kallmorgen' is not in 'Herzog & de Meuron'
-skip    metropol-parasol: Q85218 'Jürgen Mayer' is not in 'J. Mayer H.'
 skip    heydar-aliyev-center: Q8064602 'Zaha Hadid Architects' is a firm, not a person
 skip    pantheon: Q550244 'Jacques-Germain Soufflot' is not in 'Hadrian (attrib.)'
 skip    pantheon: Q432786 'Jean-Baptiste Rondelet' is not in 'Hadrian (attrib.)'
 skip    pantheon: Q1686814 'Maximilien Brébion' is not in 'Hadrian (attrib.)'
 skip    villa-la-rotonda: Q309733 'Vincenzo Scamozzi' is not in 'Andrea Palladio'
 skip    bibliotheca-alexandrina: Q511335 'Snøhetta' is not in 'Snohetta'
-skip    30-st-mary-axe: Q104898 'Norman Foster' is not in 'Foster and Partners'
 skip    30-st-mary-axe: Q1208016 'Foster and Partners' is a firm, not a person
 skip    30-st-mary-axe: Q6388488 'Ken Shuttleworth' is not in 'Foster and Partners'
-skip    commerzbank-tower: Q104898 'Norman Foster' is not in 'Foster and Partners'
 skip    acropolis-museum: Q113517145 'Michael Photiadis' is not in 'Bernard Tschumi'
 skip    national-museum-of-western-art: Q129938 'Kunio Maekawa' is not in 'Le Corbusier'
 skip    copan-building: Q21076318 'Carlos Lemos' is not in 'Oscar Niemeyer'
@@ -2119,15 +2165,12 @@ skip    rolex-learning-center: Q737536 'SANAA' is a firm, not a person
 skip    oakland-museum-of-california: Q6767030 'Mark Cavagnero Associates' is not in 'Kevin Roche, Dan Kiley'
 skip    oakland-museum-of-california: Q30645570 '' is not in 'Kevin Roche, Dan Kiley'
 skip    helsinki-central-library-oodi: Q18786360 'ALA Architects' is a firm, not a person
-skip    louvre-lens: Q253350 'Kazuyo Sejima' is not in 'SANAA'
 skip    cnit: Q3434723 'Robert Camelot' is not in 'Bernard Zehrfuss, Nicolas Esquillan'
 skip    cnit: Q3175552 'Jean de Mailly' is not in 'Bernard Zehrfuss, Nicolas Esquillan'
 skip    cnit: Q381924 'Jean Prouvé' is not in 'Bernard Zehrfuss, Nicolas Esquillan'
-skip    kunsthal: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    kunsthal: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
 skip    via-57-west: Q2481701 'BIG' is a firm, not a person
 skip    caixaforum-madrid: Q308776 'Herzog & de Meuron' is a firm, not a person
-skip    danish-maritime-museum: Q429817 'Bjarke Ingels' is not in 'BIG'
 skip    portugal-pavilion: Q312831 'Eduardo Souto de Moura' is not in 'Álvaro Siza'
 skip    theatre-des-champs-elysees: Q154083 'Henry van de Velde' is not in 'Auguste Perret'
 skip    kuwait-national-assembly: Q180398 'Jørn Utzon' is not in 'Jorn Utzon'
@@ -2152,8 +2195,6 @@ skip    museum-of-anthropology-at-ubc: Q126485620 'Nick Milkovich' is not in 'Ar
 skip    vasconcelos-library: Q1710616 'Juan Palomar Verea' is not in 'Alberto Kalach'
 skip    louisiana-museum-of-modern-art: Q1431813 'Jørgen Bo' is not in 'Jorgen Bo, Vilhelm Wohlert'
 skip    calouste-gulbenkian-museum: Q10365271 'Rui Jervis Atouguia' is not in 'Ruy Athouguia, Pedro Cid, Alberto Pessoa'
-skip    universita-luigi-bocconi-building: Q21132821 'Shelley McNamara' is not in 'Grafton Architects'
-skip    universita-luigi-bocconi-building: Q16151248 'Yvonne Farrell' is not in 'Grafton Architects'
 skip    montreal-biosphere: Q102289 '' is not in 'Buckminster Fuller, Shoji Sadao'
 skip    baha-i-temple-of-south-america: Q16192736 'Siamak Hariri' is not in 'Hariri Pontarini Architects'
 skip    manitoba-hydro-place: Q6335683 'KPMB Architects' is a firm, not a person
@@ -2167,12 +2208,9 @@ skip    breuer-building: Q105751863 'Hamilton P. Smith' is not in 'Marcel Breuer
 skip    breuer-building: Q106520604 'Marcel Breuer & Associates' is a firm, not a person
 skip    wainwright-building: Q4683278 'Adler & Sullivan' is not in 'Louis Sullivan'
 skip    glass-pavilion-toledo-museum-of-art: Q180374 'Frank Gehry' is not in 'SANAA'
-skip    glass-pavilion-toledo-museum-of-art: Q253350 'Kazuyo Sejima' is not in 'SANAA'
-skip    glass-pavilion-toledo-museum-of-art: Q369645 'Ryue Nishizawa' is not in 'SANAA'
 skip    modern-art-museum-of-fort-worth: Q125506154 'Tadao Ando Architects & Associates' is a firm, not a person
 skip    calgary-central-library: Q511335 'Snøhetta' is a firm, not a person
 skip    inujima-seirensho-art-museum: Q11354477 'Hiroshi Sanbuichi' is not in 'Hiroshi Sambuichi'
-skip    harbin-opera-house: Q8048959 'Ma Yansong' is not in 'MAD Architects'
 skip    borobudur: Q3610838 'Gunadharma' is not in 'Sailendra builders'
 skip    sidney-myer-music-bowl: Q4864599 'Barry Patten' is not in 'Yuncken Freeman'
 skip    sainsbury-centre-for-visual-arts: Q1208016 'Foster and Partners' is not in 'Norman Foster'
@@ -2193,11 +2231,7 @@ skip    van-nelle-factory: Q2258655 'Jo van den Broek' is not in 'Brinkman & Van
 skip    van-nelle-factory: Q708333 'Mart Stam' is not in 'Brinkman & Van der Vlugt'
 skip    centraal-beheer: Q125661694 'Architectuurstudio Herman Hertzberger' is a firm, not a person
 skip    educatorium: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
-skip    educatorium: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    wozoco: Q932801 'MVRDV' is a firm, not a person
-skip    wozoco: Q1356269 'Winy Maas' is not in 'MVRDV'
-skip    wozoco: Q225927 'Jacob van Rijs' is not in 'MVRDV'
-skip    wozoco: Q469961 'Nathalie de Vries' is not in 'MVRDV'
 skip    copenhill: Q2481701 'BIG' is a firm, not a person
 skip    jested-tower: Q16163393 'SIAL' is not in 'Karel Hubáček'
 skip    jested-tower: Q12043165 'Otakar Binar' is not in 'Karel Hubáček'
@@ -2221,20 +2255,16 @@ skip    united-nations-headquarters: Q526888 'Sven Markelius' is not in 'Harriso
 skip    united-nations-headquarters: Q16749830 'Best Overend' is not in 'Harrison & Abramovitz'
 skip    united-nations-headquarters: Q3565469 'Wallace Harrison' is not in 'Harrison & Abramovitz'
 skip    united-nations-headquarters: Q49633273 'Gaston Brunfaut' is not in 'Harrison & Abramovitz'
-skip    city-hall-london: Q104898 'Norman Foster' is not in 'Foster and Partners'
 skip    city-hall-london: Q1208016 'Foster and Partners' is a firm, not a person
 skip    bmw-welt: Q867205 'Coop Himmelb(l)au' is a firm, not a person
-skip    bmw-welt: Q114444 'Wolf D. Prix' is not in 'Coop Himmelb(l)au'
 skip    palace-of-peace-and-reconciliation: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
 skip    khan-shatyr-entertainment-center: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
 skip    cologne-central-mosque: Q76841 'Gottfried Böhm' is not in 'Paul Bohm'
 skip    allianz-arena: Q308776 'Herzog & de Meuron' is a firm, not a person
-skip    european-central-bank: Q114444 'Wolf D. Prix' is not in 'Coop Himmelb(l)au'
 skip    european-central-bank: Q867205 'Coop Himmelb(l)au' is a firm, not a person
 skip    56-leonard-street: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    library-of-birmingham: Q2009000 'Francine Houben' is not in 'Mecanoo'
 skip    library-of-birmingham: Q6804385 'Mecanoo' is a firm, not a person
-skip    122-leadenhall-street: Q237412 'Richard Rogers' is not in 'Rogers Stirk Harbour + Partners'
 skip    van-gogh-museum: Q358502 'Kisho Kurokawa' is not in 'Gerrit Rietveld'
 skip    van-gogh-museum: Q29109825 'Rietveld, Van Dillen & Van Tricht' is not in 'Gerrit Rietveld'
 skip    van-gogh-museum: Q1982791 'Hans van Heeswijk' is not in 'Gerrit Rietveld'
@@ -2243,7 +2273,6 @@ skip    bauhaus-archiv: Q1122493 'Volker Staab' is not in 'Walter Gropius, Alex 
 skip    bauhaus-archiv: Q25804017 'Alexander Cvijanovic' is not in 'Walter Gropius, Alex Cvijanovic'
 skip    iac-building: Q29561372 'Adamson Associates' is not in 'Frank Gehry'
 skip    the-glasshouse: Q1208016 'Foster and Partners' is a firm, not a person
-skip    de-rotterdam: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    de-rotterdam: Q7310395 'Reinier de Graaf' is not in 'OMA'
 skip    de-rotterdam: Q5483055 'Ellen van Loon' is not in 'OMA'
 skip    de-rotterdam: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
@@ -2256,16 +2285,10 @@ skip    kilden-performing-arts-centre: Q55223968 '' is not in 'ALA Architects'
 skip    kunstmuseum-liechtenstein: Q1947781 'Morger & Degelo' is a firm, not a person
 skip    zaryadye-park: Q3027988 'Diller Scofidio + Renfro' is a firm, not a person
 skip    kogod-courtyard-national-portrait-gallery: Q956665 'Robert Mills' is not in 'Foster + Partners'
-skip    kogod-courtyard-national-portrait-gallery: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    espaces-d-abraxas: Q7174697 'Peter Hodgkinson' is not in 'Ricardo Bofill'
-skip    qatar-national-library: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    vancouver-house: Q2481701 'BIG' is a firm, not a person
 skip    l-oceanografic-restaurant: Q168482 'Santiago Calatrava' is not in 'Félix Candela'
-skip    markthal: Q1356269 'Winy Maas' is not in 'MVRDV'
-skip    markthal: Q225927 'Jacob van Rijs' is not in 'MVRDV'
-skip    markthal: Q469961 'Nathalie de Vries' is not in 'MVRDV'
 skip    markthal: Q932801 'MVRDV' is a firm, not a person
-skip    garage-museum-of-contemporary-art: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    art-tower-mito: Q59186430 '' is not in 'Arata Isozaki'
 skip    royal-danish-playhouse: Q6704138 'Lundgaard & Tranberg' is a firm, not a person
 skip    kulturhuset: Q102255990 'Celsing Arkitekter' is not in 'Peter Celsing'
@@ -2279,7 +2302,6 @@ skip    lego-house: Q2481701 'BIG' is a firm, not a person
 skip    knut-hamsun-centre: Q73902516 'Steven Holl Architects' is a firm, not a person
 skip    depot-boijmans-van-beuningen: Q932801 'MVRDV' is a firm, not a person
 skip    depot-boijmans-van-beuningen: Q12012986 'John Körmeling' is not in 'MVRDV'
-skip    depot-boijmans-van-beuningen: Q1356269 'Winy Maas' is not in 'MVRDV'
 skip    ithra: Q511335 'Snøhetta' is not in 'Snohetta'
 skip    chapelle-du-rosaire: Q114800383 'Louis-Bertrand Rayssiguier' is not in 'Henri Matisse, Auguste Perret'
 skip    chapelle-du-rosaire: Q116785854 'Louis Milon de Peillon' is not in 'Henri Matisse, Auguste Perret'
@@ -2287,10 +2309,7 @@ skip    gemini-residence: Q932801 'MVRDV' is a firm, not a person
 skip    utzon-center: Q180398 'Jørn Utzon' is not in 'Jorn Utzon, Kim Utzon'
 skip    sluishuis: Q2481701 'BIG' is a firm, not a person
 skip    sluishuis: Q92135147 'Barcode Architects' is a firm, not a person
-skip    sluishuis: Q429817 'Bjarke Ingels' is not in 'BIG, Barcode Architects'
 skip    bocconi-university-urban-campus: Q737536 'SANAA' is a firm, not a person
-skip    bocconi-university-urban-campus: Q253350 'Kazuyo Sejima' is not in 'SANAA'
-skip    bocconi-university-urban-campus: Q369645 'Ryue Nishizawa' is not in 'SANAA'
 skip    petter-dass-museum: Q511335 'Snøhetta' is not in 'Snohetta'
 skip    canton-tower: Q6030672 'Information Based Architecture' is a firm, not a person
 skip    ig-farben-building: Q1416466 'Marlene Poelzig' is not in 'Hans Poelzig'
@@ -2359,7 +2378,6 @@ skip    pearl-river-tower: Q4685364 'Adrian Smith + Gordon Gill Architecture' is
 skip    museum-of-old-and-new-art: Q5443251 'Fender Katsalidis Architects' is a firm, not a person
 skip    jin-mao-tower: Q459464 '' is not in 'SOM'
 skip    anahuacalli-museum: Q1378325 "Juan O'Gormann" is not in "Diego Rivera, Juan O'Gorman"
-skip    seoullo-7017: Q1356269 'Winy Maas' is not in 'MVRDV'
 skip    national-kaohsiung-center-for-the-arts: Q2009000 'Francine Houben' is not in 'Mecanoo'
 skip    kenyatta-international-convention-centre: Q11980252 'Karl Henrik Nøstvik' is not in 'Karl Henrik Nostvik'
 skip    kavanagh-building: Q2879922 'Lagos y De la Torre Sánchez' is a firm, not a person
@@ -2369,7 +2387,6 @@ skip    auckland-art-gallery: Q5076623 "Charles D'Ebro" is not in 'FJMT, Archime
 skip    kuwait-towers: Q16163112 'Malene Bjørn' is not in 'Sune Lindstrom, Malene Bjorn'
 skip    columbus-lighthouse: Q10308595 'Joseph Lea Gleave' is not in 'J. L. Gleave'
 skip    parkroyal-collection-pickering: Q944660 'WOHA' is a firm, not a person
-skip    lille-grand-palais: Q232364 'Rem Koolhaas' is not in 'OMA'
 skip    wohnpark-alt-erlaa: Q52062888 'Kurt Hlaweniczka' is not in 'Harry Glück'
 skip    wohnpark-alt-erlaa: Q59653729 'Franz Requat' is not in 'Harry Glück'
 skip    wohnpark-alt-erlaa: Q116942947 'Thomas Reinthaller' is not in 'Harry Glück'
@@ -2384,18 +2401,14 @@ skip    sultan-qaboos-grand-mosque: Q1942781 'Mohamed. Makiya' is not in 'Mohamm
 skip    new-baris: Q560101 'Hassan Fathi' is not in 'Hassan Fathy'
 skip    maqam-echahid: Q2878328 'Bachir Yellès' is not in 'Bashir Yellès, Marian Konieczny'
 skip    fiat-tagliero-building: Q55227524 'Guido Ferrazza' is not in 'Giuseppe Pettazzi'
-skip    torre-cepsa: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    al-faisaliah-tower: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
-skip    sec-armadillo: Q104898 'Norman Foster' is not in 'Foster and Partners'
 skip    montevideo: Q6804385 'Mecanoo' is a firm, not a person
 skip    montevideo: Q2009000 'Francine Houben' is not in 'Mecanoo'
-skip    deutsche-bank-place: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    roche-tower-bau-1: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    bildmuseet: Q1339465 'Henning Larsen Architects' is a firm, not a person
 skip    bildmuseet: Q10719894 'White (architecture firm)' is not in 'Henning Larsen Architects'
 skip    kyushu-national-museum: Q11369636 'Kume Sekkei' is not in 'Kiyonori Kikutake'
 skip    muziekgebouw-aan-t-ij: Q2844719 '3XN' is a firm, not a person
-skip    muziekgebouw-aan-t-ij: Q6408718 'Kim Herforth Nielsen' is not in '3XN'
 skip    world-forum-congress-building: Q2510346 'Hans Oud' is not in 'J. J. P. Oud'
 skip    rohm-theatre-kyoto: Q11667238 'Hisao Kōyama' is not in 'Kunio Maekawa'
 skip    zorlu-center: Q3210875 'Tabanlıoğlu Architects' is not in 'Emre Arolat, Tabanlioglu Architects'
@@ -2475,13 +2488,11 @@ skip    milwaukee-art-museum-quadracci-pavilion: Q167073 'Eero Saarinen' is not 
 skip    united-nations-secretariat-building: Q3565469 'Wallace Harrison' is not in 'Wallace K. Harrison with Le Corbusier and Oscar Niemeyer'
 skip    renault-distribution-centre: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
 skip    port-house: Q2332732 'Emiel Van Averbeke' is not in 'Zaha Hadid Architects'
-skip    torre-de-collserola: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    eiffel-tower: Q778243 'Stéphen Sauvestre' is not in 'Gustave Eiffel (with Koechlin, Nouguier and Sauvestre)'
 skip    nemo-science-museum: Q100604548 'Renzo Piano Building Workshop' is a firm, not a person
 skip    philharmonie-de-paris: Q312838 'Christian de Portzamparc' is not in 'Ateliers Jean Nouvel'
 skip    immeuble-clarte: Q115575 'Pierre Jeanneret' is not in 'Le Corbusier'
 skip    martin-luther-king-jr-memorial-library: Q6804385 'Mecanoo' is not in 'Ludwig Mies van der Rohe'
-skip    canary-wharf-underground-station: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    fountain-place: Q6623279 'Pei Cobb Freed & Partners' is a firm, not a person
 skip    soreq-nuclear-research-center: Q6962528 'Moshe Zarhy' is not in 'Philip Johnson'
 skip    kunsten-museum-of-modern-art-aalborg: Q82840 'Alvar Aalto' is not in 'Alvar and Elissa Aalto with Jean-Jacques Baruël'
@@ -2496,11 +2507,9 @@ skip    antwerp-law-courts: Q99761462 'VK architects + engineers' is not in 'Ric
 skip    antwerp-law-courts: Q716737 '' is not in 'Richard Rogers Partnership'
 skip    concertgebouw: Q2108911 'Dolf van Gendt' is not in 'Adolf Leonard van Gendt'
 skip    icc-berlin: Q69648342 'Ralf Schüler and Ursulina Schüler-Witte' is a firm, not a person
-skip    crystal-bridges-museum-of-american-art: Q220944 'Moshe Safdie' is not in 'Safdie Architects'
 skip    maison-guiette: Q2641330 'Georges Baines' is not in 'Le Corbusier'
 skip    maison-guiette: Q52224543 'Paul Smekens' is not in 'Le Corbusier'
 skip    al-hamra-tower: Q459464 '' is not in 'Skidmore, Owings & Merrill'
-skip    mclaren-technology-centre: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    wembley-stadium: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
 skip    wembley-stadium: Q1082849 'Populous' is not in 'Foster + Partners'
 skip    mode-gakuen-cocoon-tower: Q11368479 'Tange Associates' is a firm, not a person
@@ -2531,7 +2540,6 @@ skip    berlaymont: Q2848896 'André and Jean Polak' is a firm, not a person
 skip    haus-der-kunst: Q63199 'Paul Troost' is not in 'Paul Ludwig Troost'
 skip    spittelau-viaducts-housing: Q8064602 'Zaha Hadid Architects' is a firm, not a person
 skip    dresden-central-station: Q98519 'Arwed Roßbach' is not in 'Ernst Giese and Paul Weidner; roof by Foster + Partners'
-skip    dresden-central-station: Q104898 'Norman Foster' is not in 'Ernst Giese and Paul Weidner; roof by Foster + Partners'
 skip    lille-cathedral: Q28504268 'Arthur Martin' is not in 'Charles Leroy; west front by Pierre-Louis Carlier'
 skip    meret-oppenheim-hochhaus: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    70-pine-street: Q5134287 'Clinton and Russell' is a firm, not a person
@@ -2540,7 +2548,6 @@ skip    palace-of-nations: Q1461564 'József Vágó' is not in 'Henri-Paul Néno
 skip    palace-of-nations: Q1041919 'Carlo Broggi' is not in 'Henri-Paul Nénot, Julien Flegenheimer and others'
 skip    ozeaneum: Q814537 'Behnisch Architekten' is a firm, not a person
 skip    museum-of-jewish-heritage: Q7353829 'Roche-Dinkeloo' is not in 'Kevin Roche John Dinkeloo and Associates'
-skip    tea-tenerife-espacio-de-las-artes: Q2745982 'Jacques Herzog' is not in 'Herzog & de Meuron'
 skip    paustian-house: Q6409526 'Kim Utzon' is not in 'Jørn Utzon'
 skip    pierre-lassonde-pavilion: Q64691710 'Provencher Roy' is not in 'OMA (Shohei Shigematsu) with Provencher_Roy'
 skip    pierre-lassonde-pavilion: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA (Shohei Shigematsu) with Provencher_Roy'
@@ -2553,7 +2560,6 @@ skip    m: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    m: Q17314169 'Farrells' is not in 'Herzog & de Meuron'
 skip    museum-of-modern-art: Q3048508 'Edward Durell Stone' is not in 'Yoshio Taniguchi'
 skip    museum-of-modern-art: Q21289656 '' is not in 'Yoshio Taniguchi'
-skip    the-morgan-library-museum: Q657848 'Charles Follen McKim' is not in 'McKim, Mead & White'
 skip    saint-louis-art-museum-east-building: Q464603 'Cass Gilbert' is not in 'David Chipperfield Architects'
 skip    philadelphia-museum-of-art: Q8066296 'Zantzinger, Borie & Medary' is not in 'Horace Trumbauer; Zantzinger, Borie and Medary'
 skip    philadelphia-museum-of-art: Q674082 'Paul Philippe Cret' is not in 'Horace Trumbauer; Zantzinger, Borie and Medary'
@@ -2610,17 +2616,13 @@ skip    palmolive-building: Q2309614 'Holabird & Root' is a firm, not a person
 skip    kino-international: Q106144370 'Heinz Aust' is not in 'Josef Kaiser'
 skip    manhattan-municipal-building: Q1915267 'McKim, Mead & White' is a firm, not a person
 skip    tempodrom: Q566384 'Gerkan, Marg and Partners' is a firm, not a person
-skip    de-kunstlinie: Q253350 'Kazuyo Sejima' is not in 'SANAA'
-skip    de-kunstlinie: Q369645 'Ryue Nishizawa' is not in 'SANAA'
 skip    de-kunstlinie: Q737536 'SANAA' is a firm, not a person
 skip    chicago-board-of-trade-building: Q2309614 'Holabird & Root' is a firm, not a person
 skip    katuaq: Q1757868 'Schmidt Hammer Lassen' is a firm, not a person
 licence Albert Kahn: Copyrighted free use, not used
 skip    the-bow: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
-skip    the-bow: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    the-bow: Q91976 'Eberhard Zeidler' is not in 'Foster + Partners'
 skip    timberline-lodge: Q8013104 'William Irving Turner' is not in 'W. I. Turner and Gilbert Stanley Underwood (WPA)'
-skip    glaspalast-sindelfingen: Q60694 'Günter Behnisch' is not in 'Behnisch & Partner'
 skip    muziekcentrum-vredenburg: Q1868082 'Thijs Asselbergs' is not in 'Herman Hertzberger'
 skip    muziekcentrum-vredenburg: Q829991 'Jo Coenen' is not in 'Herman Hertzberger'
 skip    muziekcentrum-vredenburg: Q108435577 'Patrick Fransen' is not in 'Herman Hertzberger'
@@ -2649,15 +2651,12 @@ skip    cafe-moskau: Q24039991 'Gerd Pieper' is not in 'Josef Kaiser'
 skip    terneuzen-city-hall: Q519135 'Jaap Bakema' is not in 'Van den Broek en Bakema'
 skip    terneuzen-city-hall: Q3472105 'Van den Broek en Bakema' is a firm, not a person
 skip    institute-of-contemporary-art-boston: Q3027988 'Diller Scofidio + Renfro' is a firm, not a person
-skip    boston-public-library-mckim-building: Q657848 'Charles Follen McKim' is not in 'McKim, Mead & White'
 skip    boston-public-library-mckim-building: Q183528 'Philip Johnson' is not in 'McKim, Mead & White'
 skip    new-synagogue-dresden: Q1351265 'Wandel Lorch Götze Wach' is not in 'Wandel Hoefer Lorch + Hirsch'
 skip    cafe-de-unie: Q3119822 'Carel Weeber' is not in 'J. J. P. Oud'
 skip    douaumont-ossuary: Q56676176 'Jacques Hardy' is not in 'Léon Azéma, Max Edrei and Jacques Hulot'
 skip    tokyo-metropolitan-teien-art-museum: Q11369636 'Kume Sekkei' is not in 'Yōkichi Gondō with Henri Rapin'
 skip    palazzo-dell-arte-triennale-di-milano: Q31033707 'Gualtiero Galmanini' is not in 'Giovanni Muzio'
-skip    utec-university-campus: Q16151248 'Yvonne Farrell' is not in 'Grafton Architects'
-skip    utec-university-campus: Q21132821 'Shelley McNamara' is not in 'Grafton Architects'
 skip    anacleto-angelini-innovation-center: Q3609433 'Alejandro Alavena' is not in 'Alejandro Aravena (Elemental)'
 skip    diego-rivera-and-frida-kahlo-house-studio: Q1378325 "Juan O'Gormann" is not in "Juan O'Gorman"
 skip    taj-mahal: Q2551253 'Ahmad Lahori' is not in 'Ustad Ahmad Lahauri'
@@ -2694,10 +2693,7 @@ skip    art-biotop-water-garden: Q3070853 "Jun'ya Ishigami" is not in 'Junya Ish
 skip    beirut-terraces: Q308776 'Herzog & de Meuron' is a firm, not a person
 licence Satish Gujral: GODL-India, not used
 skip    grand-parc-bordeaux-transformation: Q139062368 '' is not in 'Lacaton & Vassal, Frédéric Druot, Christophe Hutin'
-skip    san-francisco-federal-building: Q312847 'Thom Mayne' is not in 'Morphosis'
 skip    kumano-kodo-nakahechi-museum-of-art: Q737536 'SANAA' is a firm, not a person
-skip    kumano-kodo-nakahechi-museum-of-art: Q253350 'Kazuyo Sejima' is not in 'SANAA'
-skip    kumano-kodo-nakahechi-museum-of-art: Q369645 'Ryue Nishizawa' is not in 'SANAA'
 skip    the-index: Q1208016 'Foster and Partners' is not in 'Foster + Partners'
 skip    orange-cube: Q19606411 'Jakob+MacFarlane' is not in 'Jakob + MacFarlane'
 skip    villa-dall-ava: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA, Rem Koolhaas'
@@ -2728,8 +2724,6 @@ skip    palace-of-the-republic-almaty: Q2588540 'Wolf-Rüdiger Eisentraut' is no
 skip    palace-of-the-republic-almaty: Q973099 'Manfred Prasser' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
 skip    palace-of-the-republic-almaty: Q106144370 'Heinz Aust' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
 skip    palace-of-the-republic-almaty: Q115689100 'Karl-Ernst Swora' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
-skip    arvo-part-centre: Q19902909 'Fuensanta Nieto' is not in 'Nieto Sobejano Arquitectos'
-skip    arvo-part-centre: Q15808152 'Enrique Sobejano' is not in 'Nieto Sobejano Arquitectos'
 skip    mo-museum: Q154538 'Daniel Libeskind' is not in 'Studio Libeskind'
 skip    robotics-institute-saint-petersburg: Q109490124 '' is not in 'Stanislav Savin, Boris Artyushin'
 skip    lascaux-iv: Q511335 'Snøhetta' is a firm, not a person
@@ -2737,18 +2731,13 @@ skip    orgues-de-flandre: Q15063028 'Martin van Treeck' is not in 'Martin Schul
 skip    fondation-jerome-seydoux-pathe: Q2839749 'Alphonse Cusin' is not in 'Renzo Piano Building Workshop'
 skip    teatro-regio-turin: Q682088 'Nicola Bettoli' is not in 'Carlo Mollino'
 skip    one-zaabeel: Q2804130 'Nikken Sekkei' is a firm, not a person
-skip    tbilisi-public-service-hall: Q969726 'Massimiliano Fuksas' is not in 'Massimiliano and Doriana Fuksas'
-skip    tbilisi-public-service-hall: Q42314621 'Doriana Mandrelli' is not in 'Massimiliano and Doriana Fuksas'
 skip    madinat-al-zahra-museum: Q15836823 'Nieto Sobejano Arquitectos' is a firm, not a person
 skip    entrepreneurship-development-institute: Q19891088 'Bimal Patel' is not in 'Bimal Hasmukh Patel'
 skip    barnes-foundation-philadelphia: Q674082 'Paul Philippe Cret' is not in 'Tod Williams Billie Tsien Architects'
 skip    study-pavilion-tu-braunschweig: Q133333189 '' is not in 'Gustav Düsing, Max Hacke'
-skip    stadthaus-scharnhauser-park: Q85218 'Jürgen Mayer' is not in 'J. Mayer H.'
 skip    basketbar: Q117472636 'Walter van Dijk' is not in 'NL Architects'
 skip    basketbar: Q1238892 'NL Architects' is a firm, not a person
 skip    selfridges-birmingham: Q3091301 'Future Systems' is a firm, not a person
-skip    zenith-strasbourg: Q969726 'Massimiliano Fuksas' is not in 'Massimiliano and Doriana Fuksas'
-skip    zenith-strasbourg: Q42314621 'Doriana Mandrelli' is not in 'Massimiliano and Doriana Fuksas'
 skip    kannikegarden-ribe: Q6704138 'Lundgaard & Tranberg' is a firm, not a person
 skip    kunstmuseum-ravensburg: Q1811552 'Lederer Ragnarsdóttir Oei' is a firm, not a person
 skip    mortensrud-church: Q10358006 'Jan Olav Jensen' is not in 'Jensen & Skodvin'
@@ -2786,7 +2775,6 @@ skip    torres-de-tajamar: Q131888420 'Carlos Huidobro' is not in 'Luis Prieto V
 skip    edificio-lopez-serrano: Q136447803 '' is not in 'Ricardo Mira, Miguel Rosich'
 skip    biblioteca-luis-angel-arango: Q5878814 'Germán Samper Gnecco' is not in 'Esguerra, Sáenz, Urdaneta, Samper y Cía.'
 skip    franklin-court: Q56490565 'Robert Venturi and Denise Scott Brown' is not in 'Venturi and Rauch (Robert Venturi, Denise Scott Brown)'
-skip    apple-park: Q104898 'Norman Foster' is not in 'Foster + Partners'
 skip    prada-aoyama: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    european-court-of-human-rights-building: Q6000974 'Rogers Stirk Harbour + Partners' is not in 'Richard Rogers Partnership with Claude Bucher'
 skip    european-court-of-human-rights-building: Q138851206 '' is not in 'Richard Rogers Partnership with Claude Bucher'
@@ -2806,8 +2794,6 @@ skip    victoria-gate-leeds: Q1443739 'Frank Matcham' is not in 'ACME'
 skip    wyndham-court: Q85782750 'Lyons Israel Ellis' is a firm, not a person
 skip    j-edgar-hoover-building: Q5081164 'Charles Murphy' is not in 'C. F. Murphy and Associates (Stanislaw Z. Gladych)'
 skip    house-of-soviets-kaliningrad: Q4296410 'Lev Valentinovich Misozhnikov' is not in 'Yulian Schwarzbreim (TsNIIEP)'
-skip    hotel-thermal-karlovy-vary: Q13427221 'Věra Machoninová' is not in 'Věra and Vladimír Machonin'
-skip    kotva-department-store: Q13427221 'Věra Machoninová' is not in 'Věra and Vladimír Machonin'
 skip    golden-mile-complex: Q5205972 'DP Architects' is not in 'Design Partnership (Gan Eng Oon, William Lim, Tay Kheng Soon)'
 skip    national-arts-centre-ottawa: Q4787454 'Arcop' is a firm, not a person
 skip    mikimoto-ginza-2: Q117115854 'Toyo Ito & Associates, Architects' is a firm, not a person
@@ -2824,7 +2810,6 @@ skip    leeza-soho: Q21033037 'Patrik Schumacher' is not in 'Zaha Hadid Architec
 skip    shenzhen-stock-exchange: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
 skip    jardine-house: Q3359930 'P&T Architects & Engineers Ltd.' is not in 'Palmer and Turner'
 skip    oriental-pearl-tower: Q23403225 'East China Architectural Design & Research Institute' is a firm, not a person
-skip    1000-trees-shanghai: Q3051023 'Thomas Heatherwick' is not in 'Heatherwick Studio'
 skip    prime-tower: Q679348 'Gigon/Guyer' is a firm, not a person
 skip    berlin-hauptbahnhof: Q566384 'Gerkan, Marg and Partners' is a firm, not a person
 skip    wiener-stadthalle: Q1223628 'Dietrich Untertrifaller Architekten' is not in 'Roland Rainer'
