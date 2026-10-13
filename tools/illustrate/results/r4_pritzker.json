@@ -1,0 +1,384 @@
+[
+ {
+  "id": "new-york-state-pavilion",
+  "name": "New York State Pavilion",
+  "by": "Philip Johnson and Richard Foster",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1964",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Elliptical 'Tent of Tomorrow' with a cable-suspended roof on concrete columns, beside the observation towers.",
+  "award": "Pritzker laureate: Philip Johnson",
+  "status": "photo",
+  "commons_category": "Category:New York State Pavilion",
+  "photos": [
+   {
+    "file": "File:2003-03-New-York-State-Pavilion-Flushing-Meadows-Corona-Park-02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Flushing Meadows Fair Grounds td (2018-05-26) 040 - New York State Pavilion.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1965 World's Fair- New York State Pavilion.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_York_State_Pavilion"
+  ],
+  "note": "Built for the 1964 World's Fair; the Tent of Tomorrow's files sit in Category:Tent of Tomorrow. Third photo is a 1965 view."
+ },
+ {
+  "id": "no-1-poultry",
+  "name": "No 1 Poultry",
+  "by": "James Stirling, Michael Wilford and Associates",
+  "city": "London",
+  "cc": "GB",
+  "year": "1997",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Wedge-shaped block in bands of pink and yellow stone, with a clock and turret on its sharp prow.",
+  "award": "Pritzker laureate: James Stirling",
+  "status": "photo",
+  "commons_category": "Category:1 Poultry",
+  "photos": [
+   {
+    "file": "File:London - No 1 Poultry.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:1 Poultry, London from Bank junction.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:View of 1 Poultry from Queen Victoria Street - geograph.org.uk - 4330680.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/No_1_Poultry"
+  ],
+  "note": "Completed after Stirling's death (1992). Grade II* listed."
+ },
+ {
+  "id": "the-pyramids-indianapolis",
+  "name": "The Pyramids (College Life Insurance)",
+  "by": "Kevin Roche John Dinkeloo and Associates",
+  "city": "Indianapolis",
+  "cc": "US",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Three 11-storey pyramids: blank concrete walls face the highway, sloping glass walls face the lake.",
+  "award": "Pritzker laureate: Kevin Roche",
+  "status": "photo",
+  "commons_category": "Category:The Pyramids (Indianapolis)",
+  "photos": [
+   {
+    "file": "File:THE PYRAMIDS at College Park - 110912-1940-jikatu.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Indy Pyramids.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Roche Pyramids 2009.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Pyramids_(Indianapolis)"
+  ],
+  "note": "Second photo is black and white."
+ },
+ {
+  "id": "dallas-city-hall",
+  "name": "Dallas City Hall",
+  "by": "I. M. Pei",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1978",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Concrete wedge whose front leans out over the plaza, each floor projecting beyond the one below.",
+  "award": "Pritzker laureate: I. M. Pei",
+  "status": "photo",
+  "commons_category": "Category:Dallas City Hall",
+  "photos": [
+   {
+    "file": "File:DallasCityHallA.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ayuntamiento de Dallas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ground level view of main elevation looking southeast - Dallas City Hall, City Hall Plaza, Dallas, Dallas County, TX HABS TEX,57-DAL,1-4.tif",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dallas_City_Hall"
+  ],
+  "note": "Category also holds public-domain HABS survey photos (aerial and ground views)."
+ },
+ {
+  "id": "macba-barcelona",
+  "name": "Barcelona Museum of Contemporary Art (MACBA)",
+  "by": "Richard Meier",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light & shadow",
+   "Promenade",
+   "Facade as skin"
+  ],
+  "features": "White panelled block with a glazed ramp hall along the square and a curved drum lifted on columns.",
+  "award": "Pritzker laureate: Richard Meier",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Museu d'Art Contemporani de Barcelona",
+  "photos": [
+   {
+    "file": "File:Museu d'Art Contemporani de Barcelona 0769.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Museu d'Art Contemporani de Barcelona (MACBA).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Contemporary Art of Barcelona - Barcelona 2014 (2).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barcelona_Museum_of_Contemporary_Art"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bensberg-town-hall",
+  "name": "Bensberg Town Hall",
+  "by": "Gottfried Böhm",
+  "city": "Bergisch Gladbach",
+  "cc": "DE",
+  "year": "1969",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Adaptive reuse"
+  ],
+  "features": "Concrete town hall built into a medieval castle's ruins, crowned by a jagged stair tower.",
+  "award": "Pritzker laureate: Gottfried Böhm",
+  "status": "photo",
+  "commons_category": "Category:Rathaus Bensberg",
+  "photos": [
+   {
+    "file": "File:Bensberg Germany Rathaus-und-altes-Schloss-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bensberger Rathaus-2018-Bergisch Gladbach.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus Bensberg, Bergisch Gladbach-40071.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gottfried_B%C3%B6hm"
+  ],
+  "note": "Böhm's Wikipedia works list gives 1962–69. Many more photos in the category, several public domain."
+ },
+ {
+  "id": "manufacturers-trust-company-building",
+  "name": "Manufacturers Trust Company Building",
+  "by": "Gordon Bunshaft, Skidmore, Owings & Merrill",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1954",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Four-storey glass bank on Fifth Avenue; its steel vault door is on show from the street.",
+  "award": "Pritzker laureate: Gordon Bunshaft",
+  "status": "photo",
+  "commons_category": "Category:Manufacturers Trust Company Building",
+  "photos": [
+   {
+    "file": "File:Manufacturers Trust Company Building (51396225819).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:2003-03-NYC-Manufacturers-Trust-Company-Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Manufacturers Trust Company Building 510 Fifth Avenue.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manufacturers_Trust_Company_Building"
+  ],
+  "note": "Also known as 510 Fifth Avenue."
+ },
+ {
+  "id": "mondadori-palace",
+  "name": "Mondadori Palace",
+  "by": "Oscar Niemeyer",
+  "city": "Segrate",
+  "cc": "IT",
+  "year": "1975",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "Five-storey glass office block hung from concrete arches of differing widths, floating over a lake.",
+  "award": "Pritzker laureate: Oscar Niemeyer",
+  "status": "photo",
+  "commons_category": "Category:Mondadori headquarters",
+  "photos": [
+   {
+    "file": "File:Mondadori headquarters by Oscar Niemeyer, Segrate (Milano) 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mondadori headquarters by Oscar Niemeyer, Segrate (Milano) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mondadori headquarters by Oscar Niemeyer, Segrate (Milano) 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mondadori_Palace"
+  ],
+  "note": "Italy has no freedom of panorama and Niemeyer died in 2012, so these 2019-era CC BY-SA photos may be at risk of deletion on Commons; worth keeping an eye on. Third photo shows the curved low annex."
+ },
+ {
+  "id": "kagawa-prefectural-gymnasium",
+  "name": "Kagawa Prefectural Gymnasium",
+  "by": "Kenzō Tange",
+  "city": "Takamatsu",
+  "cc": "JP",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Concrete roof shaped like a ship's hull, raised on massive end piers over a glass-walled hall.",
+  "award": "Pritzker laureate: Kenzō Tange",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kagawa prefectural Gym.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tange Takamatsu-1979.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archdaily.com/1033155/citizen-led-campaign-proposes-new-use-for-kenzo-tanges-kagawa-gymnasium-facing-demolition",
+   "https://sah.org/2025/07/18/sah-opposes-proposed-demolition-of-the-kagawa-prefectural-gymnasium/"
+  ],
+  "note": "Known as the 'ship gym'. Closed since 2014; the prefecture began a demolition tender in August 2025 and campaigners sought an injunction, so it may be demolished. No Commons category; second photo is an old black-and-white view. File:香川県体育館.jpg (1129px) is credited to the builder, so I left it out."
+ }
+]
