@@ -494,3 +494,53 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 #allLink { position: relative; }
 #allLink[data-tip]::after { content: attr(data-tip); position: absolute; top: calc(100% + 8px); right: 0; z-index: 30; white-space: nowrap; padding: 7px 10px; border-radius: var(--r); background: #fff; border: 1px solid var(--hair); box-shadow: 0 10px 30px rgba(0,0,0,.12); font: 500 13px var(--sans); color: var(--ink); opacity: 0; transform: translateY(-4px); pointer-events: none; transition: opacity .15s ease, transform .15s ease; }
 #allLink[data-tip]:hover::after, #allLink[data-tip]:focus-visible::after { opacity: 1; transform: none; }
+
+/* ---------- top panel A (v13 · 01): Buildings | Books, Guess the building?, ideas that slide away ---------- */
+:root { --barh: calc(64px + env(safe-area-inset-top, 0px)); }
+.ideas { top: var(--barh); transition: transform .22s ease, opacity .22s ease; }
+body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; pointer-events: none; }
+.mode-slot { display: none; }
+/* The chosen half of the switch is filled sunset red, with a thin line between the two halves. */
+.mode { align-items: center; }
+.mode button[aria-pressed="true"] { background: var(--red); color: #fff; border-color: var(--red); }
+.mode button[aria-pressed="true"]:hover { color: #fff; }
+.mode-line { width: 1px; height: 20px; background: #CFCCC5; flex: none; }
+#filterCount:not(:empty)::before { content: '· '; }
+#filterBtn .ficon { display: none; width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+.play { position: relative; flex: none; }
+.btn.play-btn { border: 1.5px solid var(--ink); background: #fff; color: var(--ink); font-weight: 700; padding: 0 12px; gap: 6px; white-space: nowrap; }
+.btn.play-btn:hover, .btn.play-btn[aria-expanded="true"] { border-color: var(--red); color: var(--red); }
+.play-btn .pi { width: 12px; height: 12px; fill: currentColor; flex: none; }
+.play-btn .chev { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; flex: none; transition: transform .15s ease; }
+.play-btn[aria-expanded="true"] .chev { transform: rotate(180deg); }
+.play-menu { position: absolute; right: 0; top: calc(100% + 8px); z-index: 30; width: 290px; padding: 6px; background: #fff; border: 1px solid var(--hair); border-radius: var(--r-panel); box-shadow: 0 20px 50px rgba(0,0,0,.16); display: flex; flex-direction: column; gap: 2px; }
+.play-menu[hidden] { display: none; }
+.play-menu a { display: flex; flex-direction: column; gap: 2px; padding: 12px; border-radius: var(--r); text-decoration: none; color: var(--ink); }
+.play-menu a + a { border-top: 1px solid var(--hair); border-radius: 0 0 var(--r) var(--r); }
+.play-menu a:hover, .play-menu a:focus-visible { background: var(--paper); }
+.play-menu a:hover b { color: var(--red); }
+.play-menu b { font-size: 16px; font-weight: 700; transition: color .15s ease; }
+.play-menu span { font: 500 13px var(--mono); letter-spacing: .02em; color: var(--graphite); }
+
+@media (max-width: 820px) {
+  /* Row 1: name, search, filter. Row 2: Buildings | Books on the left, Guess the building? on the right. Row 3: ideas. */
+  :root { --barh: calc(112px + env(safe-area-inset-top, 0px)); }
+  .bar { display: grid; height: auto; grid-template-columns: auto minmax(0, 1fr) auto auto; grid-template-areas: "mark search search filter" "mode mode play play";
+    column-gap: 8px; row-gap: 8px; align-items: center; padding: calc(8px + env(safe-area-inset-top, 0px)) 12px 8px; }
+  .bar-mid, .bar-end { display: contents; }
+  .mark { grid-area: mark; }
+  .bar .search { grid-area: search; width: auto; }
+  #filterBtn { grid-area: filter; width: 44px; padding: 0; justify-content: center; position: relative; }
+  #filterBtn .ficon { display: block; }
+  #filterBtn .flabel { display: none; }
+  #filterCount { position: absolute; top: -6px; right: -6px; min-width: 18px; height: 18px; padding: 0 4px; border-radius: 9px; background: var(--ink); color: #fff; font-size: 11px; line-height: 18px; text-align: center; }
+  #filterCount:empty { display: none; }
+  #filterCount::before { content: none !important; }
+  .bar .mode { grid-area: mode; justify-self: start; height: 44px; }
+  .bar .mode button { height: 36px; padding: 0 12px; font-size: 14px; }
+  #allLink { display: none; }
+  .bar:has(#filterBtn[hidden]) .search { grid-column: 2 / 5; }
+  .play { grid-area: play; justify-self: end; }
+  .btn.play-btn { padding: 0 9px; gap: 4px; font-size: 13px; letter-spacing: -.01em; }
+  .play-menu { width: min(290px, calc(100vw - 24px)); }
+}
