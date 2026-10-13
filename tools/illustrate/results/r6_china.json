@@ -1,0 +1,579 @@
+[
+ {
+  "id": "fragrant-hill-hotel",
+  "name": "Fragrant Hill Hotel",
+  "by": "I. M. Pei",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1982",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "White stucco walls with grey-tile trim, diamond and circle windows framing gardens, as in Suzhou.",
+  "award": "China: I. M. Pei in China",
+  "status": "photo",
+  "commons_category": "Category:Fragrant Hill Hotel",
+  "photos": [
+   {
+    "file": "File:Back of Fragrant Hill Hotel (20170825140542).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fragrant Hill Hotel (20170825140009).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fragrant Hill Hotel.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/I._M._Pei",
+   "https://commons.wikimedia.org/wiki/Category:Fragrant_Hill_Hotel"
+  ],
+  "note": "No own English Wikipedia article (redirects to I. M. Pei). Year 1982 from the Pei article and the Commons descriptions. Pei's first building in China; second photo is the entrance front with a car park."
+ },
+ {
+  "id": "sun-yat-sen-mausoleum",
+  "name": "Sun Yat-sen Mausoleum",
+  "by": "Lü Yanzhi",
+  "city": "Nanjing",
+  "cc": "CN",
+  "year": "1929",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Long stair of 392 steps climbs a mountain slope to a granite hall with blue glazed-tile roofs.",
+  "award": "China: Republican era (Sun Yat-sen)",
+  "status": "photo",
+  "commons_category": "Category:Sun Yat-sen Mausoleum",
+  "photos": [
+   {
+    "file": "File:Nanjing - Sun Yat-sen Mausoleum - View 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sun Yat-sen Mausoleum 49670-Nanjing (27690056440).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20231124 Zhongshan Ling (084845).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sun Yat-sen Mausoleum (710305594).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sun_Yat-sen_Mausoleum"
+  ],
+  "note": "Built 1926-1929; Wikipedia also credits Poy Gum Lee with completing it after Lü fell ill. First photo looks down the stair from the top; second is the sacrificial hall front."
+ },
+ {
+  "id": "chiang-kai-shek-memorial-hall",
+  "name": "Chiang Kai-shek Memorial Hall",
+  "by": "Yang Cho-cheng",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1980",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "White hall under a blue octagonal roof, raised on two 89-step stairs at the end of a vast square.",
+  "award": "Taiwan: modern civic monuments",
+  "status": "photo",
+  "commons_category": "Category:Chiang Kai-shek Memorial Hall",
+  "photos": [
+   {
+    "file": "File:Chiang Kai-shek Memorial Hall 2009 amk.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2017-06-29 Chiang Kai-shek Memorial Hall, Zhongzheng District, Taipei.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:CKS Memorial Hall 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall"
+  ],
+  "note": "Opened 5 April 1980; designed to echo the Sun Yat-sen Mausoleum in Nanjing. Photos are from Category:General views of Chiang Kai-shek Memorial Hall."
+ },
+ {
+  "id": "sun-yat-sen-memorial-hall-taipei",
+  "name": "National Dr. Sun Yat-sen Memorial Hall",
+  "by": "Wang Da-hong",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1972",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Modernist concrete hall whose sweeping yellow roof curls up at the corners like a traditional eave.",
+  "award": "Taiwan: modern civic monuments",
+  "status": "photo",
+  "commons_category": "Category:Sun Yat-sen Memorial Hall, Taipei",
+  "photos": [
+   {
+    "file": "File:National Dr. Sun Yat-sen Memorial Hall 09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Taiwan Sun-Yat-sen-Memorial-Hall-02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sun Yat-Sen Memorial Hall 20150205.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Dr._Sun_Yat-sen_Memorial_Hall"
+  ],
+  "note": "Completed 16 May 1972. Wang Da-hong won a public contest; Wikipedia says the design was then modified to stress Chinese characteristics. Photos are in the subcategory Sun Yat-sen Memorial Hall (Taipei) from the south. The roof description comes from the photos."
+ },
+ {
+  "id": "sun-yat-sen-memorial-hall-guangzhou",
+  "name": "Sun Yat-sen Memorial Hall, Guangzhou",
+  "by": "Lü Yanzhi",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "year": "1931",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Octagonal hall under tiered blue-tiled roofs; steel and concrete span 71 m with no columns inside.",
+  "award": "China: Republican era (Sun Yat-sen)",
+  "status": "photo",
+  "commons_category": "Category:Sun Yat-sen Memorial Hall, Guangzhou",
+  "photos": [
+   {
+    "file": "File:Guangzhou Yuexiu Zhongshan Jinian Tang 2023-01-18 15.31.59.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Guangzhou Sun Yat Sen Memorial.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Memorial de Sun Yat-sen (Cantón) 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:China 2012 Guangzhou (8346486657).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall_(Guangzhou)"
+  ],
+  "note": "Built 1929-1931; used as an auditorium and concert hall. Same architect as the Sun Yat-sen Mausoleum in Nanjing."
+ },
+ {
+  "id": "cultural-palace-of-nationalities",
+  "name": "Cultural Palace of Nationalities",
+  "by": "Zhang Bo",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1959",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Colour"
+  ],
+  "features": "White 13-storey tower crowned with peacock-blue glazed eaves, flanked by low east and west wings.",
+  "award": "China: Ten Great Buildings (1959)",
+  "status": "photo",
+  "commons_category": "Category:Cultural Palace of Nationalities (Beijing)",
+  "photos": [
+   {
+    "file": "File:The Cultural Palace of Nationalities.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:民族文化宫2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:民族文化宫1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Palace_of_Nationalities",
+   "https://en.wikipedia.org/wiki/Ten_Great_Buildings"
+  ],
+  "note": "Built September 1959, 67 m high. One of the Ten Great Buildings for the PRC's tenth anniversary. Zhang Bo also designed the Great Hall of the People, already on the wall."
+ },
+ {
+  "id": "monument-to-the-peoples-heroes",
+  "name": "Monument to the People's Heroes",
+  "by": "Liang Sicheng, Lin Huiyin",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1958",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "38 m granite obelisk on a two-tier marble terrace, its base ringed by bas-reliefs of modern history.",
+  "award": "China: early People's Republic",
+  "status": "photo",
+  "commons_category": "Category:Monument to the People's Heroes",
+  "photos": [
+   {
+    "file": "File:Monument to the People's Heroes 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Monument to the People's Heroes on Tiananmen Square.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing-Tiananmen-50-Stele der Volkshelden-gje.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes"
+  ],
+  "note": "Built 1952-1958 and unveiled 1 May 1958. Wikipedia names Liang Sicheng as architect, with some elements by Lin Huiyin. A monument rather than a building; the owner may prefer to leave it out. The two-tier terrace is from the photos."
+ },
+ {
+  "id": "national-palace-museum-taipei",
+  "name": "National Palace Museum",
+  "by": "Huang Pao-yu",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1965",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Landscape"
+  ],
+  "features": "Palace-style museum set against a hill: green-tiled roofs, yellow walls and white stairs on a long axis.",
+  "award": "Taiwan: modern civic monuments",
+  "status": "photo",
+  "commons_category": "Category:National Palace Museum",
+  "photos": [
+   {
+    "file": "File:Nationella palatsmuseet.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Palace Museum, Taipei, Taiwan 2023.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:44556-Taipei (28323000631).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Palace_Museum"
+  ],
+  "note": "Built March 1964 to August 1965 and opened 12 November 1965; Wikipedia spells the architect Huang Baoyu. Expanded in 1967, 1970, 1984 and 1996, and renovated 2002-2007. Commons category mixes the building with collection objects."
+ },
+ {
+  "id": "ordos-museum",
+  "name": "Ordos Museum",
+  "by": "MAD Architects (Ma Yansong)",
+  "city": "Ordos",
+  "cc": "CN",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "Blob-like shell of metal louvres hovering over a rolling stone plaza, inspired by the Gobi Desert.",
+  "award": "China: MAD Architects",
+  "status": "photo",
+  "commons_category": "Category:Ordos Museum",
+  "photos": [
+   {
+    "file": "File:Ordos Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:康巴什 鄂尔多斯市博物院 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:康巴什 航拍鄂尔多斯市博物院 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ordos_Museum",
+   "https://en.wikipedia.org/wiki/Ma_Yansong"
+  ],
+  "note": "Ordos Museum article gives no year; the Ma Yansong article lists it as 2005-2011, completed. Third photo is aerial. The metal louvre cladding is described from the photos."
+ },
+ {
+  "id": "leeza-soho",
+  "name": "Leeza SOHO",
+  "by": "Zaha Hadid Architects",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2019",
+  "type": "Office & tower",
+  "movement": "Parametric",
+  "concepts": [
+   "Void",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "Glass tower split by a 194 m atrium that twists 45 degrees up its height, the world's tallest.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Leeza SOHO",
+  "photos": [
+   {
+    "file": "File:Leeza SOHO.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leeza SOHO 2.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Leeza SOHO 1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leeza_SOHO"
+  ],
+  "note": "Opened 19 November 2019; 207 m tall. First photo is at dusk and shows the twisting atrium slot best."
+ },
+ {
+  "id": "peace-hotel-sassoon-house",
+  "name": "Peace Hotel (Sassoon House)",
+  "by": "Palmer and Turner",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1929",
+  "type": "Hospitality",
+  "movement": "Art Deco",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Granite-faced Art Deco block on the Bund, topped by a steep copper pyramid roof gone green.",
+  "award": "China: Republican era (Sun Yat-sen)",
+  "status": "photo",
+  "commons_category": "Category:Sassoon House",
+  "photos": [
+   {
+    "file": "File:Sassoon House 20250501.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Sassoon House, The Bund, Dec 2017 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sasson House The Bund.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peace_Hotel"
+  ],
+  "note": "Built 1926-1929 as Sassoon House; now the North Building of the Fairmont Peace Hotel. Wikipedia: reinforced concrete frame, consistent Art Deco scheme inside and out."
+ },
+ {
+  "id": "ningbo-museum-of-art",
+  "name": "Ningbo Museum of Art",
+  "by": "Wang Shu, Amateur Architecture Studio",
+  "city": "Ningbo",
+  "cc": "CN",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Water"
+  ],
+  "features": "Long grey-brick plinth carrying a timber-slatted steel box, reached by bridges across a moat.",
+  "award": "China: Wang Shu / Amateur Architecture Studio",
+  "status": "photo",
+  "commons_category": "Category:Ningbo Museum of Art",
+  "photos": [
+   {
+    "file": "File:2026-04-19 Ningbo Museum of Art 宁波美术馆 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ningbo Museum of Art, 2014-01 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2026-04-19 Ningbo Museum of Art 宁波美术馆 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ningbo Museum of Art 2011-02-03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amateur_Architecture_Studio"
+  ],
+  "note": "No own English Wikipedia article; the Amateur Architecture Studio article lists it as completed 2001-05. Features line describes what the photos show."
+ },
+ {
+  "id": "sheraton-huzhou-hot-spring-resort",
+  "name": "Sheraton Huzhou Hot Spring Resort",
+  "by": "MAD Architects (Ma Yansong)",
+  "city": "Huzhou",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Hospitality",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Void"
+  ],
+  "features": "Horseshoe-shaped ring of white balconied floors rising out of Lake Tai, its hole framing the water.",
+  "award": "China: MAD Architects",
+  "status": "photo",
+  "commons_category": "Category:Sheraton Huzhou Hot Spring Resort",
+  "photos": [
+   {
+    "file": "File:Sheraton Huzhou Hot Spring Resort 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sheraton Huzhou Hot Spring Resort.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wuxing, Huzhou, Zhejiang, China - panoramio (50).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheraton_Huzhou_Hot_Spring_Resort"
+  ],
+  "note": "Completed October 2013. Wikipedia is inconsistent on floors (27 in the infobox, 10 in the lead), so floors are left out. Nicknamed the Horseshoe Hotel."
+ }
+]

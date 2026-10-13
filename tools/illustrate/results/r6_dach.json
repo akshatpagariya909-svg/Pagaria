@@ -1,0 +1,178 @@
+[
+ {
+  "id": "prime-tower",
+  "name": "Prime Tower",
+  "by": "Gigon/Guyer",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "126 m green-glass office tower whose irregular octagonal plan steps out in two places as it rises.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Prime Tower (Zürich)",
+  "photos": [
+   {
+    "file": "File:Industriequartier - Prime Tower 2011-08-08 13-56-38.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Industriequartier - Prime Tower 2011-08-08 13-48-24 ShiftN2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Prime Tower 2020.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prime_Tower",
+   "https://en.wikipedia.org/wiki/Gigon/Guyer"
+  ],
+  "note": "Tallest building in Switzerland 2011-2015, per Wikipedia."
+ },
+ {
+  "id": "kirchner-museum-davos",
+  "name": "Kirchner Museum Davos",
+  "by": "Gigon/Guyer",
+  "city": "Davos",
+  "cc": "CH",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Modular"
+  ],
+  "features": "Four glass-clad gallery cubes linked by a low glazed hall; daylight enters the rooms from above.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Building of the Kirchner Museum",
+  "photos": [
+   {
+    "file": "File:Kirchner Museum Davos 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirchnermuseum1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirchnermuseum2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer",
+   "https://en.wikipedia.org/wiki/Kirchner_Museum_Davos"
+  ],
+  "note": "Gigon/Guyer's breakthrough work (1989-1992 per Wikipedia's project list). The 'four cubes' and top-light description is from general knowledge of the building and the photos; check before publishing."
+ },
+ {
+  "id": "toni-areal",
+  "name": "Toni-Areal",
+  "by": "EM2N",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Megastructure"
+  ],
+  "features": "Former yoghurt factory turned into an art university: a vertical campus with a ramp running through it.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Toni-Areal",
+  "photos": [
+   {
+    "file": "File:Hochhaus Toni-Areal Zürich.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zürcher Hochschule der Künste. Toni-Areal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toni-Areal 2020.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts",
+   "https://en.wikipedia.org/wiki/Museum_of_Design,_Zurich",
+   "https://commons.wikimedia.org/wiki/File:Hochhaus_Toni-Areal_Z%C3%BCrich.jpg"
+  ],
+  "note": "No English Wikipedia article. Architect EM2N from the Commons file page; 2014 opening from Wikipedia (ZHdK moved in autumn 2014). The internal ramp is from general knowledge of the building, not from these sources; trim it from the line if in doubt."
+ },
+ {
+  "id": "german-maritime-museum",
+  "name": "German Maritime Museum (Scharoun building)",
+  "by": "Hans Scharoun",
+  "city": "Bremerhaven",
+  "cc": "DE",
+  "year": "1975",
+  "type": "Museum",
+  "movement": "Expressionism",
+  "concepts": [
+   "Water",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Scharoun's last building: ship-like white volumes stepping along the harbour, with a museum fleet moored outside.",
+  "award": "German modern (Scharoun)",
+  "status": "photo",
+  "commons_category": "Category:Deutsches Schifffahrtsmuseum",
+  "photos": [
+   {
+    "file": "File:DSM 20070923.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Deutsches Schiffahrtsmuseum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:DSM + Museumsflotte 20111001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/German_Maritime_Museum"
+  ],
+  "note": "Wikipedia: building 'planned by Hans Scharoun', opened 5 September 1975 (Scharoun died in 1972, so it was completed after his death). The 2000s extension by Dietrich Bangert is a separate building; the photos chosen show the Scharoun building. 'Last building' is general knowledge; check."
+ }
+]
