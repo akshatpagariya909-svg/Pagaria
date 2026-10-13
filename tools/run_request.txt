@@ -1,2 +1,2 @@
 python -u tools/portrait_sheet.py
-Contact sheet of the portraits the Sonnet trial found, for review by eye.
+Contact sheet of the portraits the Sonnet trial found (written to tools/ this time).

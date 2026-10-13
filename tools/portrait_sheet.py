@@ -3,7 +3,7 @@
   python -u tools/portrait_sheet.py
 
 Reads tools/portraits_found.json (see tools/portraits_BRIEF.md), downloads a 300px thumbnail of
-each "found" file from Commons and writes review/portraits_found.jpg, numbered in file order.
+each "found" file from Commons and writes tools/portraits_found.jpg, numbered in file order.
 Runs on GitHub Actions (tools/run_request.txt), since the sandbox can't reach Wikimedia.
 """
 import io
@@ -40,7 +40,7 @@ def main():
         except Exception as e:
             d.text((c * W + 5, r * H + 20), f'failed: {e}'[:40], fill='red')
         d.text((c * W + 5, r * H + H - 30), f"{k} {x['name']}"[:40], fill='black')
-    out = ROOT / 'review' / 'portraits_found.jpg'
+    out = ROOT / 'tools' / 'portraits_found.jpg'  # the workflow commits only site/ and tools/
     out.parent.mkdir(exist_ok=True)
     sheet.save(out, quality=85)
     print(f'{len(found)} portraits on {out}')
