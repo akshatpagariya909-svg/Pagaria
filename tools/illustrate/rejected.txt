@@ -52,3 +52,7 @@ anji-bridge  # a bridge, not a building (round 6 review)
 monument-to-the-peoples-heroes  # a monument, not a building (round 6 review)
 bolte-bridge  # a bridge, not a building (round 6 review)
 job-600-accra  # fact check: architect or year not found in any source
+bagno-pubblico-bellinzona  # held back in round 6 review: no clear free photo of the building
+museum-university-navarra  # held back in round 6 review: no clear free photo of the building
+escola-do-cedro  # held back in round 6 review: no clear free photo of the building
+xanadu-calp  # held back in round 6 review: no clear free photo of the building

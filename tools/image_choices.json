@@ -9981,6 +9981,9 @@
    "File:Sun Yat-sen Mausoleum 49670-Nanjing (27690056440).jpg",
    "File:20231124 Zhongshan Ling (084845).jpg",
    "File:Sun Yat-sen Mausoleum (710305594).jpg"
+  ],
+  "skip": [
+   "File:China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 01.jpg"
   ]
  },
  "chiang-kai-shek-memorial-hall": {
@@ -10070,6 +10073,9 @@
   "add": [
    "File:北京大兴机场航站楼, 2023-02-20 (1).jpg",
    "File:北京大兴机场航站楼, 2023-02-20.jpg"
+  ],
+  "skip": [
+   "File:16-DEC-2022 - KE938 VIE-ICN (B777-300ER - HL8210) (06).jpg"
   ]
  },
  "shenzhen-stock-exchange": {
@@ -10101,6 +10107,9 @@
   "category": "Category:Xiqu Centre",
   "add": [
    "File:Xiqu Centre 25-04-2026.jpg"
+  ],
+  "skip": [
+   "File:Curtain call of 38·28·18 2025.jpg"
   ]
  },
  "great-bamboo-wall-house": {
@@ -10156,6 +10165,13 @@
   "add": [
    "File:202409 臺北流行音樂中心表演廳 晚間景象A.jpg",
    "File:Taipei Music Center Concert Hall.jpg"
+  ],
+  "skip": [
+   "File:Polyphon104落地型音樂盒.jpg",
+   "File:HMV蟲膠唱機.jpg",
+   "File:01.12 副總統參訪北部流行音樂中心 - 50829530523.jpg",
+   "File:01.12 副總統參訪北部流行音樂中心 - 50830277596.jpg",
+   "File:百代Jeunesse鑽石針留聲機.jpg"
   ]
  },
  "shaanxi-history-museum": {
@@ -10245,6 +10261,9 @@
   "add": [
    "File:HK Hung Hom Hong Kong Coliseum July 2026 N13P 205.jpg",
    "File:2024年5月-香港體育館.jpg"
+  ],
+  "skip": [
+   "File:KMB Route 215R (Shun Tin).jpg"
   ]
  },
  "grand-hotel-taipei": {
@@ -10311,6 +10330,9 @@
    "File:Views of the Forbidden City from Jingshan Park 1.jpg",
    "File:Beijing Forbidden City Viewed from Jingshan Park (10553754905).jpg",
    "File:The Forbidden City - View from Coal Hill.jpg"
+  ],
+  "skip": [
+   "File:Ceremonies - Review in Theatre of Operations - Italian Army and Miscellaneous Reviews - Celebration of the signing of the Armistice in China - NARA - 26422927.jpg"
   ]
  },
  "potala-palace": {
@@ -10351,6 +10373,10 @@
    "File:DSM 20070923.jpg",
    "File:Deutsches Schiffahrtsmuseum.jpg",
    "File:DSM + Museumsflotte 20111001.jpg"
+  ],
+  "skip": [
+   "File:BHV DSM Schlepper Helmut.jpg",
+   "File:2013 12 30 Cap Vilano Digipeer.JPG"
   ]
  },
  "berlin-musical-instrument-museum": {
@@ -10383,6 +10409,10 @@
    "File:Neubau des Kunstmuseums in Basel 2.jpg",
    "File:Neubau des Kunstmuseums in Basel.jpg",
    "File:Basler Kunstmuseum mit Neubau (links).jpg"
+  ],
+  "skip": [
+   "File:2023-11-25 Abschiedsfeier Helfenstein BS 001.jpg",
+   "File:2023-11-25 Abschiedsfeier Helfenstein BS 004.jpg"
   ]
  },
  "schaulager": {
@@ -10455,6 +10485,9 @@
    "File:Flughafen Tegel 01.jpg",
    "File:Flughafen Berlin-Tegel (8583937613).jpg",
    "File:TXL Flughafen Berlin Tegel 1 - panoramio.jpg"
+  ],
+  "skip": [
+   "File:D-AIMI-Modell.jpg"
   ]
  },
  "stuttgart-city-library": {
@@ -10503,6 +10536,9 @@
    "File:Juedisches Zentrum Hauptsynagoge Muenchen-1.jpg",
    "File:Juedisches Zentrum Hauptsynagoge Muenchen-8.jpg",
    "File:Blick auf den St.-Jakobs-Platz und die Hauptsynagoge in München.JPG"
+  ],
+  "skip": [
+   "File:Chanukkia-st-jakobs-platz-2019.jpg"
   ]
  },
  "kant-dreieck": {
@@ -10527,6 +10563,10 @@
    "File:Nord LB administration building Hanover Germany.jpg",
    "File:Hannover - Norddeutsche Landesbank.jpg",
    "File:Inner yard Nord-LB office building Hanover Germany.jpg"
+  ],
+  "skip": [
+   "File:2026-01-10 Platz der Menschrechte 0223.JPG",
+   "File:2026-09-09 Demo gegen Rechts 164036452.jpg"
   ]
  },
  "academy-of-arts-pariser-platz": {
@@ -10543,6 +10583,9 @@
    "File:BMW Tower DSC 9732.jpg",
    "File:BMW Welt and BMW Headquarters, Munich, Germany.jpg",
    "File:BMW-Hochhaus vom Olympiaberg Muenchen-1.jpg"
+  ],
+  "skip": [
+   "File:IAA 2021 und Markus Söder auf BUND Plakat Verkehrswendedemo Theresienwiese 09-11-2021.jpg"
   ]
  },
  "swiss-embassy-berlin": {
@@ -10647,6 +10690,11 @@
    "File:Stadthalle Wien ca 1972.jpg",
    "File:Die Wiener Stadthalle (459574243).jpg",
    "File:Wiener Stadthalle bei Nacht - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Nestroy 2014 04 Alfred Dorfer.jpg",
+   "File:Katharina Straßer Nestroy 2013.jpg",
+   "File:Luc Bondy - Nestroy-Theaterpreis 2013 a.jpg"
   ]
  },
  "murinsel-graz": {
@@ -10755,6 +10803,9 @@
   "add": [
    "File:Fundació Pilar i Joan Miró Aussen 1.jpg",
    "File:Stiftung Miró in Palma.jpg"
+  ],
+  "skip": [
+   "File:Gruenes und gruene Dinge 001 2014 03 14.jpg"
   ]
  },
  "studio-sert-palma": {
@@ -10808,6 +10859,9 @@
    "File:Galeria de las Colecciones Reales - Madrid 02.jpg",
    "File:Galeria de las Colecciones Reales - Madrid 03.jpg",
    "File:Madrid - Galería de las Colecciones Reales.jpg"
+  ],
+  "skip": [
+   "File:Juan Bautista de Toledo - Sección de la Iglesia por el eje longitudinal.jpg"
   ]
  },
  "museu-belles-arts-castello": {
@@ -10816,6 +10870,9 @@
    "File:Exterior del Museu de Belles Arts, Castelló de la Plana.JPG",
    "File:Exterior del Museu de Belles Arts de Castelló.jpg",
    "File:Museu de Belles Arts de Castelló, pati.jpg"
+  ],
+  "skip": [
+   "File:Empezo el partido7-7-2010 - panoramio.jpg"
   ]
  },
  "auditorio-ciudad-de-leon": {
@@ -10895,6 +10952,11 @@
    "File:Small people toward a modernist building in Cartagena in Spain - Holmstad 2016 AAA.jpg",
    "File:Modernist construction in Cartagena 2016 e.jpg",
    "File:ARQUA.jpg"
+  ],
+  "skip": [
+   "File:Mazarron II.jpg",
+   "File:Pecio fenicio II de Mazarrón (retocado).jpg",
+   "File:CartagenaMuseum MedievalShipCross-section.jpg"
   ]
  },
  "trade-buildings-barcelona": {
@@ -10932,6 +10994,9 @@
   "add": [
    "File:Monade Museu Nadir Afonso 2.jpg",
    "File:Monade Museu Nadir Afonso.jpg"
+  ],
+  "skip": [
+   "File:Ema Berta MACNA 2018.jpg"
   ]
  },
  "setubal-school-of-education": {
@@ -10947,6 +11012,9 @@
    "File:Edifício EDP (Av. 24 de Julho, Lisboa) 01.jpg",
    "File:Edifício EDP (Av. 24 de Julho, Lisboa) 02.jpg",
    "File:EDP building Lisboa.jpg"
+  ],
+  "skip": [
+   "File:Woman in stripes (28484506140).jpg"
   ]
  },
  "amoreiras-towers": {
@@ -10993,6 +11061,9 @@
   "category": "Category:Estadio Metropolitano, Madrid",
   "add": [
    "File:Estadio Metropolitano, 2016 (01).jpg"
+  ],
+  "skip": [
+   "File:España vs Classic All Blacks.jpg"
   ]
  },
  "universidad-laboral-gijon": {
@@ -11046,6 +11117,10 @@
   "add": [
    "File:Exterior (1).jpg",
    "File:SIIE 2008 Salamanca hirian (31) (2903177604).jpg"
+  ],
+  "skip": [
+   "File:VII CONGRESO COCINA CON QUESO Y HUMOR (2023) - 53247963304.jpg",
+   "File:VII CONGRESO COCINA CON QUESO Y HUMOR (2023) PÚBLICO - 53248097330.jpg"
   ]
  },
  "deusto-library": {
@@ -11089,6 +11164,10 @@
   "add": [
    "File:Fabrica 2022 entrance.jpg",
    "File:Fabrica 2022.jpg"
+  ],
+  "skip": [
+   "File:Walden 7 P1080325.JPG",
+   "File:Walden 7 P1080328.JPG"
   ]
  },
  "blues-point-tower": {
@@ -11154,6 +11233,9 @@
   "add": [
    "File:National Portrait Gallery, Canberra, Australia - Joy of Museums - Ext.jpg",
    "File:National Portrait Gallery, Canberra, Australia - Joy of Museums - Ext 2.jpg"
+  ],
+  "skip": [
+   "File:Ethel Turner-H Cazneaux.jpg"
   ]
  },
  "rmit-design-hub": {
@@ -11176,6 +11258,9 @@
   "add": [
    "File:Melbourne University Faculty of Architecture, Building and Planning.jpg",
    "File:Melbourne School of Design 2 (15559728342).jpg"
+  ],
+  "skip": [
+   "File:Anne Cunningham outside MSD.jpg"
   ]
  },
  "ian-potter-museum-of-art": {
@@ -11191,6 +11276,9 @@
    "File:South Australian Health and Medical Research Institute in Adelaide (028A1254).jpg",
    "File:South Australian Health and Medical Research Institute in Adelaide (028A1263).jpg",
    "File:SAHMRI Adelaide.jpg"
+  ],
+  "skip": [
+   "File:OIC rah construction 1.jpg"
   ]
  },
  "institute-for-marine-and-antarctic-studies": {
@@ -11199,6 +11287,9 @@
    "File:Institute for Marine and Antarctic Studies 20171117-003.jpg",
    "File:Institute for Marine and Antarctic Studies.jpg",
    "File:Institute for Marine and Antarctic Studies Hobart.jpg"
+  ],
+  "skip": [
+   "File:Roald Amundsen bust 20171117-004.jpg"
   ]
  },
  "queensland-childrens-hospital": {
@@ -11215,6 +11306,9 @@
    "File:Te Matapihi Central Library 2026-03-15 05.jpg",
    "File:Te Matapihi Central Library 2026-03-15 04.jpg",
    "File:Te Matapihi Central Library 2026-03-15 01.jpg"
+  ],
+  "skip": [
+   "File:View of Dominion Building from Wellington Central Library, May 2026.jpg"
   ]
  },
  "palmerston-north-city-library": {
@@ -11269,6 +11363,11 @@
    "File:Entrance to the Melbourne Museum (6768078685).jpg",
    "File:Melbourne Museum 2012.JPG",
    "File:Northern face of Melbourne Museum 2012.jpg"
+  ],
+  "skip": [
+   "File:Buff-banded rail (Gallirallus philippensis) nictitating membrane montage.jpg",
+   "File:Gippsland water dragon (Intellagama lesueurii howittii) at Melbourne Museum.jpg",
+   "File:Buff-banded rail (Gallirallus philippensis) at Melbourne Museum.jpg"
   ]
  },
  "michael-fowler-centre": {
@@ -11284,6 +11383,9 @@
   "add": [
    "File:Olympic Park Station Sydney.jpg",
    "File:Sydney Olympic Park train station (49755584691).jpg"
+  ],
+  "skip": [
+   "File:Olympic Park Station Sydney.jpg"
   ]
  },
  "dixon-street-flats": {
@@ -11316,6 +11418,9 @@
    "File:Aotea Centre Off Aotea Square, Auckland.jpg",
    "File:Aotea Centre And Council Building.jpg",
    "File:Aotea Centre Exterior.jpg"
+  ],
+  "skip": [
+   "File:Red Dancer.jpg"
   ]
  },
  "governor-phillip-tower": {
@@ -11323,6 +11428,10 @@
   "add": [
    "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 01.jpg",
    "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 03.jpg"
+  ],
+  "skip": [
+   "File:Artefacts found.JPG",
+   "File:Model submarine made from midget submarine ballast.JPG"
   ]
  },
  "turanga-christchurch": {
@@ -11331,6 +11440,9 @@
    "File:Christchurch Public Library 2019 Outside.jpg",
    "File:Christchurch Pre-Wikicon sunset photowalk 24 Tūranga.jpg",
    "File:Exterior of Tūranga Central Library in Christchurch, New Zealand.jpg"
+  ],
+  "skip": [
+   "File:Mike Dickison and Axel Downard-Wilke.jpg"
   ]
  },
  "museum-of-sydney": {
@@ -11339,6 +11451,9 @@
    "File:Museum of Sydney 2015.JPG",
    "File:Museum of Sydney-Front.jpg",
    "File:Museum of Sydney facade.JPG"
+  ],
+  "skip": [
+   "File:Model submarine made from midget submarine ballast.JPG"
   ]
  },
  "university-house-anu": {
@@ -11362,6 +11477,9 @@
   "add": [
    "File:Adam Art Gallery October 2018.jpg",
    "File:Adam Art Gallery-back.jpeg"
+  ],
+  "skip": [
+   "File:Edit for Equity 13 Oct g.jpg"
   ]
  },
  "ici-house-melbourne": {
@@ -11400,6 +11518,9 @@
    "File:National Library Of Australia, Entrance side, Fountains on.jpg",
    "File:Autumn at the Australian National Library.jpg",
    "File:Canberra Parkes Lake Burley Griffin seen from RG Menzies Walk 2.jpg"
+  ],
+  "skip": [
+   "File:GLAM Thu arvo gnangarra 01.JPG"
   ]
  },
  "eureka-tower": {
@@ -11440,6 +11561,10 @@
    "File:Lopdell Precinct 04.jpg",
    "File:Te Uru Gallery Titirangi 3.jpg",
    "File:Te Uru Gallery Titirangi 2.jpg"
+  ],
+  "skip": [
+   "File:Te Uru Women in Architecture Edit-a-thon 2026, PA01.jpg",
+   "File:Te Uru Women in Architecture Edit-a-thon 2026, PA05.jpg"
   ]
  },
  "1-bligh-street": {
@@ -11485,6 +11610,9 @@
   "add": [
    "File:Forsyth Barr Stadium 95.JPG",
    "File:Forsyth Barr Stadium, Dunedin, Nueva Zelanda - panoramio (1).jpg"
+  ],
+  "skip": [
+   "File:Tom Wood post England match.jpg"
   ]
  }
 }

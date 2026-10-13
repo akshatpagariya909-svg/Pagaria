@@ -77,3 +77,7 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | National Conservatory of Music, Mexico | Mario Pani | Mexico City, MX |
 | Girardot Market Hall (Plaza de Mercado de Girardot) | Leopoldo Rother | Girardot, CO |
 | Ivar Aasen Centre (Ivar Aasen-tunet) | Sverre Fehn | Ørsta, NO |
+| Bagno Pubblico, Bellinzona | Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy | Bellinzona, CH |
+| Museum of the University of Navarra | Rafael Moneo | Pamplona, ES |
+| Cedro Primary School | Fernando Távora | Vila Nova de Gaia, PT |
+| Xanadu | Ricardo Bofill (Taller de Arquitectura) | Calp, ES |
