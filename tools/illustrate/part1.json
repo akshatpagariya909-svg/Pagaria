@@ -1,0 +1,515 @@
+[
+ {
+  "name": "Acropolis and Philopappou Hill Paths",
+  "by": "Dimitris Pikionis",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1957",
+  "type": "Public space",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Reclaimed material",
+   "Promenade"
+  ],
+  "features": "Paths paved with reused marble and stone fragments in irregular patterns, framing views of the Acropolis.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "acropolis-and-philopappou-hill-paths"
+ },
+ {
+  "name": "Arthur and Yvonne Boyd Education Centre",
+  "by": "Glenn Murcutt, Wendy Lewin",
+  "city": "Riversdale",
+  "cc": "AU",
+  "year": "1999",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Landscape",
+   "Brise-soleil"
+  ],
+  "features": "A long dormitory wing with blade walls and timber shutters controlling sun and views to the river.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "arthur-and-yvonne-boyd-education-centre"
+ },
+ {
+  "name": "Asian Games Village",
+  "by": "Raj Rewal",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1982",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Clustered low-rise houses linked by narrow pedestrian lanes and gateways, recalling old Indian towns.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "asian-games-village"
+ },
+ {
+  "name": "Australian Islamic Centre",
+  "by": "Glenn Murcutt, Hakan Elevli",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2016",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Roof lanterns of coloured glass bring light into the prayer hall in place of a dome and minaret.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "australian-islamic-centre"
+ },
+ {
+  "name": "Belapur Artists' Village",
+  "by": "Charles Correa",
+  "city": "Navi Mumbai",
+  "cc": "IN",
+  "year": "1986",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Incremental",
+   "Cluster",
+   "Low cost"
+  ],
+  "features": "Detached houses grouped around a hierarchy of shared courts, each plot free to be extended.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "belapur-artists-village"
+ },
+ {
+  "name": "Brazilian Museum of Sculpture (MuBE)",
+  "by": "Paulo Mendes da Rocha",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "A single 60-metre concrete beam shades a plaza over galleries sunk into the sloping garden site.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "brazilian-museum-of-sculpture-mube"
+ },
+ {
+  "name": "Bridge School",
+  "by": "Li Xiaodong",
+  "city": "Xiashi",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Structure as expression",
+   "Community",
+   "Timber"
+  ],
+  "features": "Two steel trusses span a creek between two tulou, holding classrooms with a hung footbridge below.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "bridge-school"
+ },
+ {
+  "name": "Capuchinas Chapel",
+  "by": "Luis Barragán",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1960",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Colour",
+   "Courtyard"
+  ],
+  "features": "A hidden window of yellow glass tints the nave gold; a slatted cross throws its shadow across the floor.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "capuchinas-chapel"
+ },
+ {
+  "name": "Casa Bianchi",
+  "by": "Mario Botta",
+  "city": "Riva San Vitale",
+  "cc": "CH",
+  "year": "1973",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Landscape"
+  ],
+  "features": "A concrete-block tower house entered at the top by a red steel bridge from the hillside.",
+  "qid": "Q29527503",
+  "keep": 3,
+  "source": "batch2_nophoto.txt",
+  "id": "casa-bianchi"
+ },
+ {
+  "name": "China Academy of Art, Xiangshan Campus",
+  "by": "Wang Shu, Lu Wenyu",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Reclaimed material",
+   "Earth & local material",
+   "Landscape"
+  ],
+  "features": "Walls and roofs laid with tiles and bricks salvaged from demolished houses, set loosely around a hill.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "china-academy-of-art-xiangshan-campus"
+ },
+ {
+  "name": "ECLAC Building",
+  "by": "Emilio Duhart",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1966",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Pilotis",
+   "Courtyard",
+   "Exposed concrete"
+  ],
+  "features": "Raised square ring of concrete offices around a courtyard, beside a spiral ramp and a conical council chamber.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "eclac-building"
+ },
+ {
+  "name": "Ewha Campus Complex",
+  "by": "Dominique Perrault",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Void",
+   "Section"
+  ],
+  "features": "A sunken ramped valley splits the hill and lights several levels buried under a green roof.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "ewha-campus-complex"
+ },
+ {
+  "name": "Faculty of Architecture, University of Porto",
+  "by": "Álvaro Siza",
+  "city": "Porto",
+  "cc": "PT",
+  "year": "1996",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Studio pavilions lined along a terrace above the Douro, framing a triangular courtyard.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "faculty-of-architecture-university-of-porto"
+ },
+ {
+  "name": "Farming Kindergarten",
+  "by": "Vo Trong Nghia",
+  "city": "Bien Hoa",
+  "cc": "VN",
+  "year": "2013",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Courtyard",
+   "Climate response"
+  ],
+  "features": "A looping triple-ring green roof forms a sloping vegetable garden around three playgrounds.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "farming-kindergarten"
+ },
+ {
+  "name": "Fuji Kindergarten",
+  "by": "Tezuka Architects",
+  "city": "Tachikawa",
+  "cc": "JP",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Community"
+  ],
+  "features": "A single-storey oval ring whose roof deck is a continuous playground around a yard and trees.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "fuji-kindergarten"
+ },
+ {
+  "name": "Grand National Assembly Mosque",
+  "by": "Behruz Çinici, Can Çinici",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1989",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "A stepped roof replaces the dome, and a glazed qibla wall opens onto a terraced garden.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "grand-national-assembly-mosque"
+ },
+ {
+  "name": "Green School Bali",
+  "by": "IBUKU",
+  "city": "Sibang Kaja",
+  "cc": "ID",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "features": "Open-sided bamboo classrooms and a spiralling bamboo main hall without walls, cooled by moving air.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "green-school-bali"
+ },
+ {
+  "name": "Hikma Religious and Secular Complex",
+  "by": "Atelier Masomi, Mariam Kamara",
+  "city": "Dandaji",
+  "cc": "NE",
+  "year": "2018",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Earth & local material",
+   "Community"
+  ],
+  "features": "An old earth mosque reused as a library beside a new compressed-earth mosque around shared courts.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "hikma-religious-and-secular-complex"
+ },
+ {
+  "name": "Horta House",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1901",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Steel & glass"
+  ],
+  "features": "Iron, glass and wood shaped into whiplash curves around a stair lit by a glass roof.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "horta-house"
+ },
+ {
+  "name": "Iberê Camargo Foundation",
+  "by": "Álvaro Siza",
+  "city": "Porto Alegre",
+  "cc": "BR",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Exposed concrete",
+   "Void"
+  ],
+  "features": "White concrete galleries around a full-height atrium, with enclosed ramps looping outside the facade.",
+  "qid": "Q141503945",
+  "keep": 3,
+  "source": "batch3_nophoto.txt",
+  "id": "ibere-camargo-foundation"
+ },
+ {
+  "name": "Kampung Admiralty",
+  "by": "WOHA",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2017",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Community",
+   "Section"
+  ],
+  "features": "A layered section: hawker centre and clinic below, a community park on the roof, flats for seniors above.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "kampung-admiralty"
+ },
+ {
+  "name": "Kantana Institute",
+  "by": "Boonserm Premthada",
+  "city": "Nakhon Pathom",
+  "cc": "TH",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Climate response"
+  ],
+  "features": "Long curving walls of hand-laid brick with gaps that admit slivers of light and air.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "kantana-institute"
+ },
+ {
+  "name": "Kaze-no-Oka Crematorium",
+  "by": "Fumihiko Maki",
+  "city": "Nakatsu",
+  "cc": "JP",
+  "year": "1997",
+  "type": "Memorial",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Light & shadow"
+  ],
+  "features": "A brick octagon, Cor-ten hall and concrete wing sit in a landscaped park, sequenced by controlled light.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "kaze-no-oka-crematorium"
+ },
+ {
+  "name": "Leicester University Engineering Building",
+  "by": "James Stirling, James Gowan",
+  "city": "Leicester",
+  "cc": "GB",
+  "year": "1963",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Section",
+   "Brick"
+  ],
+  "features": "Red brick and tile towers with cantilevered lecture halls, beside workshops under diagonal glazed roofs.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "leicester-university-engineering-building"
+ },
+ {
+  "name": "Leutschenbach School",
+  "by": "Christian Kerez",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2009",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Section"
+  ],
+  "features": "Stacked floors carried on exposed steel trusses, with a glazed gym crowning the top.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra3_architects_resolved.json",
+  "id": "leutschenbach-school"
+ },
+ {
+  "name": "Liyuan Library",
+  "by": "Li Xiaodong",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2011",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Earth & local material",
+   "Light & shadow"
+  ],
+  "features": "A glass box wrapped in local firewood sticks that filter daylight onto stepped reading platforms.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "liyuan-library"
+ },
+ {
+  "name": "Los Manantiales Restaurant",
+  "by": "Félix Candela",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1958",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Vault"
+  ],
+  "features": "Four intersecting hyperbolic paraboloids form an eight-lobed concrete shell only centimetres thick.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "los-manantiales-restaurant"
+ }
+]

@@ -2,7 +2,8 @@
 
 A wall of buildings that architecture students wander instead of search, with free photos and links that take them deeper. The owner is new to coding. Explain things plainly, show designs before building them when asked, and keep the site's own text short.
 
-- Live site: https://akshatpagariya909-svg.github.io/Pagaria/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Live site: https://discoverarchitecture.github.io/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Repository: https://github.com/discoverarchitecture/discoverarchitecture.github.io (moved from akshatpagariya909-svg/Pagaria in Oct 2026; the old address forwards)
 - Design canvas (all artboards and decisions): https://claude.ai/artifact/SzZZi9iaMGvAX85z3zNEDK
 - Audience: architecture students. Favour modern, contemporary and parametric work, brutalism, regionalism and a few historic precedents.
 - **Phone first.** User feedback shows most visitors are on phones, so the phone site matters as much as the computer site, if not more.
@@ -67,6 +68,7 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 | Design | `claude/design` | New artboards on the design canvas |
 | Books | `claude/determined-wozniak-162nu7` | The books shelf: `tools/books_seed.json` (curated list, links to architects and buildings), `fetch_books.py` (covers from Open Library), the Books switch and opened book |
 
+- Who does what in data collection (owner's choice, Oct 2026): **Sonnet** chats do the high-volume work that follows a brief and is checked afterwards (Commons searches for photos, drawings and portraits; gathering facts with sources; running tools, merging and rebuilding). **Opus** chats do the judgement: choosing buildings, line drawings, the final yes or no on covers and portraits by eye, fact checks where sources disagree, briefs, quality flags and merges. A Sonnet chat works on its own branch and changes only its results file; Opus reviews before anything reaches `site/`. Briefs: `tools/illustrate/BRIEF*.md`, `tools/portraits_BRIEF.md`.
 - Keep each change small and focused; open a pull request, check it on the live site after merging, then move on.
 - Before building something visual that the owner hasn't seen, put it on the design canvas first.
 - Check the site at phone width (about 400px) first, then desktop, before opening a pull request. A change that only works on desktop is not done.

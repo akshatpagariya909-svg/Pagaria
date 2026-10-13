@@ -1,0 +1,2175 @@
+[
+ {
+  "id": "cables-wynd-house",
+  "name": "Cables Wynd House",
+  "by": "Alison & Hutchison & Partners",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1965",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Geometry"
+  ],
+  "features": "The 'Banana Flats': a long curved slab of 212 deck-access flats over ten storeys in Leith; Category A listed.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Cables Wynd House",
+  "photos": [
+   {
+    "file": "File:Cables Wynd House - geograph.org.uk - 7891459.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tower Block UK photo sc 1141852.png",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cables Wynd House - 5249075063.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cables Wynd House (5249678930).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cables_Wynd_House",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Built 1962-65; Category A listed in 2017."
+ },
+ {
+  "id": "preston-bus-station",
+  "name": "Preston Bus Station",
+  "by": "Building Design Partnership (Keith Ingham, Charles Wilson) with Ove Arup & Partners",
+  "city": "Preston",
+  "cc": "GB",
+  "year": "1969",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "features": "Bus station under a five-storey car park whose curved concrete balconies run the full length; Grade II.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Preston bus station",
+  "photos": [
+   {
+    "file": "File:Preston Bus Station 20200226.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston bus station (51231516817).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston Bus Station - geograph.org.uk - 5218179.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston bus station in 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_bus_station"
+  ],
+  "note": "Arup chose the curved balcony fronts because flat finishes cost too much. Listed Grade II in 2013."
+ },
+ {
+  "id": "apollo-pavilion",
+  "name": "Apollo Pavilion",
+  "by": "Victor Pasmore",
+  "city": "Peterlee",
+  "cc": "GB",
+  "year": "1969",
+  "type": "Pavilion",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "Walk-through sculpture of white in-situ concrete planes bridging a small lake in a new town; Grade II*.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Apollo Pavilion",
+  "photos": [
+   {
+    "file": "File:Apollo pavilion.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Peterlee - Apollo Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Apollo_Pavilion"
+  ],
+  "note": "Only two files reach 1200px; the rest of the category is 1024px geograph images."
+ },
+ {
+  "id": "kingsgate-bridge",
+  "name": "Kingsgate Bridge",
+  "by": "Ove Arup",
+  "city": "Durham",
+  "cc": "GB",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Concrete footbridge on V-shaped legs, built as two halves along the banks and swung 90° to meet; Grade I.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Kingsgate Bridge",
+  "photos": [
+   {
+    "file": "File:Kingsgate Footbridge, Durham - geograph.org.uk - 8241528.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kingsgate Bridge (51216965604).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kingsgate Bridge (51216193656).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Dunelm House & Kingsgate Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kingsgate_Bridge"
+  ],
+  "note": "Arup's own favourite work; it sits next to Dunelm House (fourth photo shows both)."
+ },
+ {
+  "id": "queen-elizabeth-hall",
+  "name": "Queen Elizabeth Hall",
+  "by": "GLC Architects (Hubert Bennett, Jack Whittle, F. G. West, Geoffrey Horsefall)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Concert hall and Purcell Room in raw concrete, lifted on columns and laced with raised walkways on the South Bank.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Queen Elizabeth Hall",
+  "photos": [
+   {
+    "file": "File:Queen Elizabeth Hall and Purcell Room.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queen Elizabeth Hall and Purcell Room 2026-03-11.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Eastern Side of the Queen Elizabeth Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queen Elizabeth Hall (8710619518).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall"
+  ],
+  "note": "Part of the same South Bank group as the Hayward Gallery (already on the wall). Not listed; renovated 2016-18 by FCB Studios."
+ },
+ {
+  "id": "brunswick-centre",
+  "name": "Brunswick Centre",
+  "by": "Patrick Hodgkinson",
+  "city": "London",
+  "cc": "GB",
+  "year": "1972",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Section",
+   "Megastructure",
+   "Community"
+  ],
+  "features": "Two long stepped terraces of 560 flats with glazed balconies and service towers, framing a shopping street.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Brunswick Centre",
+  "photos": [
+   {
+    "file": "File:Brunswick Centre (4136275375).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brunswick Centre (West Face - 01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bloomsbury , Brunswick Centre - geograph.org.uk - 7843537.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brunswick Centre, September 2016 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brunswick_Centre",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Built 1967-72 from studies by Leslie Martin; fell short of its planned size. Grade II listed 2000."
+ },
+ {
+  "id": "dunelm-house",
+  "name": "Dunelm House",
+  "by": "Architects' Co-Partnership (Richard Raines, Michael Powers) with Ove Arup",
+  "city": "Durham",
+  "cc": "GB",
+  "year": "1966",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Section"
+  ],
+  "features": "Students' union cascading down the River Wear bank; one straight inner 'street' stair links its five levels.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Dunelm House, University of Durham",
+  "photos": [
+   {
+    "file": "File:Dunelm House (51215458277).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Dunelm House, University of Durham - geograph.org.uk - 7710190.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Durham University Students' Union, 1967 - geograph.org.uk - 6418860.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Durham 2025 083.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dunelm_House"
+  ],
+  "note": "Listed Grade II in 2021 after the university sought to demolish it. Sits beside Kingsgate Bridge (also in this list). Third photo is from 1967."
+ },
+ {
+  "id": "institute-of-education-london",
+  "name": "Institute of Education",
+  "by": "Denys Lasdun",
+  "city": "London",
+  "cc": "GB",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Megastructure",
+   "Circulation"
+  ],
+  "features": "Long concrete-and-glass block on a raised podium, with tall service towers and stepped ends; only part was built.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the UCL Institute of Education",
+  "photos": [
+   {
+    "file": "File:Exterior of the UCL Institute of Education.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:London MMB M3 University of London Institute of Education.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Institute of Education Main Building.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Institute of Education from Russell Square.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Institute_of_Education",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Built 1970-76 on Bedford Way; Grade II* listed (per Wikipedia's list of brutalist structures). Now UCL's IOE."
+ },
+ {
+  "id": "wyndham-court",
+  "name": "Wyndham Court",
+  "by": "Lyons Israel Ellis (E. D. Lyons, Frank Linden, Aubrey Hume)",
+  "city": "Southampton",
+  "cc": "GB",
+  "year": "1969",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Geometry"
+  ],
+  "features": "184 flats over shops in white board-marked concrete, six to seven storeys on a slope, with tall stair towers.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Wyndham Court",
+  "photos": [
+   {
+    "file": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (July 2021) (1).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Eastern Wing of Wyndham Court as seen from the South.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wyndham Court, Wyndham Place, Southampton (NHLE Code 1051043) (September 2019).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wyndham Court as approached from Southampton Central Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wyndham_Court"
+  ],
+  "note": "Designed 1966, completed 1969; Grade II listed 1998 (Wikipedia's brutalist list says II*)."
+ },
+ {
+  "id": "uea-ziggurats",
+  "name": "University of East Anglia Ziggurats (Norfolk and Suffolk Terraces)",
+  "by": "Denys Lasdun",
+  "city": "Norwich",
+  "cc": "GB",
+  "year": "1968",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Stepped student residences rising like ziggurats from the meadow above the lake, linked to Lasdun's teaching wall.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Suffolk Terrace and Adjoining Walkway and Stairs to Rear, at the University of East Anglia",
+  "photos": [
+   {
+    "file": "File:Suffolk Terrace 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blocks 3 and 4, Suffolk Terrace, UEA - geograph.org.uk - 7982228.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Suffolk Terrace (ziggurats), University of East Anglia - geograph.org.uk - 7403857.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Norfolk Terrance 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures",
+   "https://en.wikipedia.org/wiki/University_of_East_Anglia"
+  ],
+  "note": "Two Commons categories: Suffolk Terrace and 'Category:Norfolk Terrace and Attached Walkways, at the University of East Anglia' (fourth photo). Built 1964-68; Grade II* listed."
+ },
+ {
+  "id": "boston-government-service-center",
+  "name": "Boston Government Service Center",
+  "by": "Paul Rudolph (coordinating architect), with Desmond & Lord and Shepley Bulfinch Richardson and Abbott",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1971",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Ribbed 'corduroy' concrete buildings wrapped round a raised plaza, with curving stair towers and deep sunshades.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Boston Government Service Center",
+  "photos": [
+   {
+    "file": "File:Paul Rudolph - Boston Government Services Center (14989170661).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Government-Service-Center-Boston-05-2018a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BGSC 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BGSC 13.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boston_Government_Service_Center"
+  ],
+  "note": "Begun 1963, completed 1971; the planned 23-storey tower was never built (a public-domain rendering of it is in the category: File:Boston Government Service Center tower.jpg)."
+ },
+ {
+  "id": "j-edgar-hoover-building",
+  "name": "J. Edgar Hoover Building",
+  "by": "C. F. Murphy and Associates (Stanislaw Z. Gladych)",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1975",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "FBI headquarters in buff precast concrete: 11 storeys on E Street, 8 on Pennsylvania Avenue, round a trapezoid court.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:J. Edgar Hoover Building",
+  "photos": [
+   {
+    "file": "File:FBI Building diagonal Washington DC 2026-01-11 13-34-52.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Washington DC, FBI - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:FBI Headquarters, Washington.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:FBI Headquarters.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/J._Edgar_Hoover_Building"
+  ],
+  "note": "Its future is uncertain: the FBI announced a move out in 2025 and a court blocked it in August 2026 (per Wikipedia)."
+ },
+ {
+  "id": "temple-street-parking-garage",
+  "name": "Temple Street Parking Garage",
+  "by": "Paul Rudolph",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Long concrete car park for 1,280 cars on arched double columns, bridging George Street, with shops below.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Temple Street Parking Garage",
+  "photos": [
+   {
+    "file": "File:Temple Street Parking Garage.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Temple-Street-Parking-Garage-Paul-Rudolph-New-Haven-Connecticut-04-2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Temple Street Garage (33594692073).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures",
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)"
+  ],
+  "note": "Designed 1961 (Wikipedia, Paul Rudolph article), opened 1963. No article of its own; form described from the photos."
+ },
+ {
+  "id": "wurster-hall",
+  "name": "Wurster Hall",
+  "by": "Joseph Esherick, Vernon DeMars, Donald Olsen",
+  "city": "Berkeley",
+  "cc": "US",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Structure as expression"
+  ],
+  "features": "Berkeley's architecture school: a raw concrete tower and wings round a courtyard, hung with 592 sunshades.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Wurster Hall (Berkeley, California)",
+  "photos": [
+   {
+    "file": "File:Wurster Hall SW.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:UC Berkeley Wurster Hall.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:9416 Wurster (28087873641).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wurster_Hall"
+  ],
+  "note": "Designed by three faculty members for the College of Environmental Design; renamed Bauer Wurster Hall in 2020. Sunshades described from the photos, not the article."
+ },
+ {
+  "id": "christian-science-plaza",
+  "name": "Christian Science Plaza",
+  "by": "Araldo Cossutta (I. M. Pei & Associates)",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1973",
+  "type": "Public space",
+  "movement": "Brutalism",
+  "concepts": [
+   "Public space",
+   "Water",
+   "Monumentality"
+  ],
+  "features": "Concrete Colonnade Building, 26-storey tower and Sunday School set round a 210 m reflecting pool.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Christian Science Center",
+  "photos": [
+   {
+    "file": "File:Colonnade Building of the First Church of Christ, Scientist.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Reflecting Pool at the Christian Science Center in Boston.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:USA 09568 Boston Luca Galuzzi 2007.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
+  ],
+  "note": "Most files in the category show the domed Mother Church instead; the chosen ones show Cossutta's 1971-73 buildings and the pool. Third photo is a night view along the colonnade."
+ },
+ {
+  "id": "hygiene-institute-berlin",
+  "name": "Institute of Hygiene and Microbiology",
+  "by": "Hermann Fehling, Daniel Gogel (Fehling+Gogel)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1974",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Circulation"
+  ],
+  "features": "Sculptural concrete research and teaching building, listed as a key work of organic and brutalist post-war modernism.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Institut für Hygiene und Umweltmedizin, Charité Berlin",
+  "photos": [
+   {
+    "file": "File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-April-2020a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Institut-fuer-Hygiene-und-Mikrobiologie-bzw-Umweltmedizin-Krahmerstr-Berlin-Lichterfelde-03-2017a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Institut für Hygiene und Mikrobiologie Berlin-Lichterfelde 2024-11-21 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Hygieneinstitut-Krahmerstr-Berlin-Lichterfelde-Fehling-Gogel-Januar-2010.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.berlin.de/landesdenkmalamt/aktuelles/kurzmeldungen/2021/institut-fuer-hygiene-und-mikrobiologie-unter-denkmalschutz-1042186.php",
+   "https://en.wikipedia.org/wiki/M%C3%A4usebunker"
+  ],
+  "note": "Built 1969-74 for the Free University; listed 2021. Neighbour of the Mäusebunker (already on the wall), across the Teltow Canal. Form words come from the photos."
+ },
+ {
+  "id": "st-agnes-berlin",
+  "name": "St. Agnes (König Galerie)",
+  "by": "Werner Düttmann; conversion by Arno Brandlhuber",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1967",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Adaptive reuse",
+   "Geometry"
+  ],
+  "features": "Former church of rough-textured blocks with a square bell tower; converted into an art gallery in 2015.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:St.-Agnes-Kirche (Berlin)",
+  "photos": [
+   {
+    "file": "File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2-Punkt-Perspektive.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin, Kreuzberg, Alexandrinenstrasse 118-121, St-Agnes-Gemeindezentrum 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St-Agnes-Kirche Berlin front.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architecturalrecord.com/articles/3418-brutalist-st-agnes-church-in-berlin-becomes-art-gallery",
+   "https://www.baunetzwissen.de/drucken/st-agnes-kirche-in-berlin-4504165"
+  ],
+  "note": "Built 1964-67 as the centre of a social-housing complex; listed. Brandlhuber's 2012-15 conversion won the Berlin Architecture Prize 2016. Type could also be Museum."
+ },
+ {
+  "id": "schlangenbader-strasse",
+  "name": "Schlangenbader Straße Housing (Die Schlange)",
+  "by": "Georg Heinrichs, Wolf Bertelsmann, Gerhard and Klaus Detlev Krebs",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1980",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Section",
+   "Community"
+  ],
+  "features": "600 m terraced housing block of over 1,000 flats built directly over a motorway tunnel.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Autobahnüberbauung Schlangenbader Straße",
+  "photos": [
+   {
+    "file": "File:B-Wilmersdorf Nov12 Schlangenbader Tunnel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Autobahnueberbauung-Schlangenbader-Str-Berlin-Wilmersdorf-07-2017d.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Autobahnüberbauung Schlangenbader Straße 2024-09-08 20.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Die Schlange.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://berlinischegalerie.de/en/collection/specialised-fields/architecture/georg-heinrichs/",
+   "https://berlin.museum-digital.de/pdf/object/132715.pdf?lang=en"
+  ],
+  "note": "Built 1973-80 by DEGEWO; listed 2017/18. First photo shows the motorway entering the tunnel under the building. The photos show it painted cream rather than bare concrete, so 'Brutalism' is a loose fit (megastructure)."
+ },
+ {
+  "id": "marl-town-hall",
+  "name": "Marl Town Hall",
+  "by": "Van den Broek en Bakema",
+  "city": "Marl",
+  "cc": "DE",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Germany's first suspended towers: floors hung from the top of concrete cores, beside a council hall with a folded roof.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Rathaus Marl",
+  "photos": [
+   {
+    "file": "File:Rathaus Marl total.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus-Marl-08-2017a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus Marl2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus-Marl-08-2017b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://bigbeautifulbuildings.de/en/objects/rathaus-marl",
+   "https://baukunst-nrw.de/en/projects/Rathaus-Marl--253.htm",
+   "https://www.sosbrutalism.org/cms/16271739"
+  ],
+  "note": "Competition 1957/58, built 1960-67; two of four planned towers were built. In the SOS Brutalism database."
+ },
+ {
+  "id": "rudo-eastern-city-gate",
+  "name": "Eastern City Gate (Rudo)",
+  "by": "Vera Ćirković (architect), Milutin Jerotijević (engineer)",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1976",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Three 28-storey, 85 m housing towers with stepped, tapering profiles, marking the road into Belgrade from the east.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Eastern Gate of Belgrade",
+  "photos": [
+   {
+    "file": "File:Источна капија Београда.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20241019 133548 Eastern Gate of Belgrade.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Источна капија и димњак топлани Коњарник.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eastern_City_Gate",
+   "https://sosbrutalism.org/cms/15963887"
+  ],
+  "note": "Built 1973-76. Partner of the Western City Gate (Genex Tower, already on the wall)."
+ },
+ {
+  "id": "macedonian-opera-and-ballet",
+  "name": "Macedonian Opera and Ballet",
+  "by": "Biro 71 (Štefan Kacin, Jurij Princes, Bogdan Spindler, Marjan Uršič)",
+  "city": "Skopje",
+  "cc": "MK",
+  "year": "1979",
+  "type": "Culture & sport",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "White-painted concrete opera house of sharply folded, asymmetric roof planes, built after the 1963 earthquake.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Macedonian Opera and Ballet",
+  "photos": [
+   {
+    "file": "File:Macedonian Opera and Ballet 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Macedonian Opera and Ballet 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Национална опера и балет.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.sosbrutalism.org/cms/18846849",
+   "https://architectuul.com/architecture/national-opera-and-ballet"
+  ],
+  "note": "SOS Brutalism dates it 1972-80 and calls it neo-expressionist, hence movement Expressionism; other sources say completed 1979. Some sources call the firm 'Biro 77'."
+ },
+ {
+  "id": "ruhr-university-bochum",
+  "name": "Ruhr University Bochum",
+  "by": "Hentrich, Petschnigg & Partner (Helmut Hentrich)",
+  "city": "Bochum",
+  "cc": "DE",
+  "year": "1965",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Modular",
+   "Megastructure",
+   "Exposed concrete"
+  ],
+  "features": "Campus of 14 near-identical slab blocks, meant as ships in a 'harbour of knowledge', linked by concrete decks.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Ruhr-Universität Bochum",
+  "photos": [
+   {
+    "file": "File:N-Buildings of Ruhr-University Bochum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bochum Universität01 2009-03-17.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ruhr-Universität Bochum Luftaufnahme 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:I-Gebaeude-RUB.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ruhr_University_Bochum",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Founded 1962; teaching began 1965 (year given is that opening). Construction of the campus went on into the 1970s. Some blocks are being rebuilt because of PCB contamination."
+ },
+ {
+  "id": "goce-delcev-dormitory",
+  "name": "Goce Delčev Student Dormitory",
+  "by": "Georgi Konstantinovski",
+  "city": "Skopje",
+  "cc": "MK",
+  "year": "1977",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "Exposed-concrete student towers with projecting service shafts and sky bridges, built in two phases.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Students' dormitory Goce Delčev, Skopje",
+  "photos": [
+   {
+    "file": "File:Students' dormitory Goce Delčev Skopje 10.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studentski dom GOCE DELCEV vo Skopje, primer za brutalizam.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Студентски Дом - Гоце Делчев 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Students' dormitory Goce Delčev Skopje 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://sosbrutalism.org/cms/15892511",
+   "https://en.wikipedia.org/wiki/Georgi_Konstantinovski",
+   "https://architectuul.com/architecture/student-dormitory-goce-delchev"
+  ],
+  "note": "First section 1969-71, second 1973-77 (SOS Brutalism). Konstantinovski studied at Yale under Paul Rudolph. Blocks renovated 2015-20 after a 2013 fire."
+ },
+ {
+  "id": "house-of-soviets-kaliningrad",
+  "name": "House of Soviets",
+  "by": "Yulian Schwarzbreim (TsNIIEP)",
+  "city": "Kaliningrad",
+  "cc": "RU",
+  "year": "1985",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Exposed concrete",
+   "Megastructure"
+  ],
+  "features": "Unfinished 21-storey twin-tower block on the old castle site, nicknamed the 'buried robot'; never occupied.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Dom Sovetov, Kaliningrad",
+  "photos": [
+   {
+    "file": "File:Kaliningrad Dom Sowjetow 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The House of Soviet, Kaliningrad, 2019-08-23.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:House of Soviets, Kaliningrad (26815508592).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dom Sovetov, Kaliningrad 20180811.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/House_of_Soviets_(Kaliningrad)"
+  ],
+  "note": "DEMOLISHED: demolition began May 2023 and ended August 2024. Construction ran 1970-85 and stopped unfinished, so the year is when work stopped. Owner to decide whether a lost building belongs on the wall."
+ },
+ {
+  "id": "hotel-thermal-karlovy-vary",
+  "name": "Hotel Thermal",
+  "by": "Věra and Vladimír Machonin",
+  "city": "Karlovy Vary",
+  "cc": "CZ",
+  "year": "1977",
+  "type": "Hospitality",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Film-festival hotel: a 16-storey slab over a broad podium and a drum-shaped concert hall beside the river.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Hotel Thermal",
+  "photos": [
+   {
+    "file": "File:Hotel Thermal (020).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotel Thermal (026).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotel Thermal (002).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotel Thermal (01).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://thermal.cz/en/history",
+   "https://english.radio.cz/node/8122013",
+   "https://www.archiweb.cz/en/n/home/karlovy-vary-podporily-zapsani-hotelu-thermal-mezi-pamatky"
+  ],
+  "note": "Competition 1963, built 1967-76, opened 1977. Home of the Karlovy Vary film festival; renovation under way since 2019-20."
+ },
+ {
+  "id": "tass-building-moscow",
+  "name": "TASS Building",
+  "by": "Viktor Yegerev",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": "1977",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "News-agency headquarters with deep, round-cornered window frames in sandstone and a globe over the entrance.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:TASS building",
+  "photos": [
+   {
+    "file": "File:TASS building 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow TASS 3542.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow 2026-07-08 14.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:TASS headquarters.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://tass.com/society/927892/amp",
+   "https://rg.ru/2014/04/24/tass.html",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Completed 1976, headquarters from January 1977. Wikipedia's brutalist list names the architect 'V. S. Egerev'; TASS says Viktor Yegerev."
+ },
+ {
+  "id": "kotva-department-store",
+  "name": "Kotva Department Store",
+  "by": "Věra and Vladimír Machonin",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1975",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Modular",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Department store built of hexagonal concrete floor modules on 28 braced columns, clad in glass and metal sheet.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Kotva (shopping centre)",
+  "photos": [
+   {
+    "file": "File:Praha Kotva.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:OD Kotva 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kotva 2016-04-18.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.sosbrutalism.org/cms/16268359",
+   "https://prague.eu/en/architecture-1958-89-kotva-department-store/",
+   "https://expats.cz/czech-news/article/pragues-kotva-department-store-declared-cultural-monument"
+  ],
+  "note": "Built by the Swedish firm SIAB; opened 1975 without its architects, who were by then proscribed. Cultural monument since 2018; under reconstruction until about 2027. Type: no 'Retail' in the vocabulary, so Workplace."
+ },
+ {
+  "id": "superjednostka",
+  "name": "Superjednostka",
+  "by": "Mieczysław Król",
+  "city": "Katowice",
+  "cc": "PL",
+  "year": "1972",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Modular",
+   "Community"
+  ],
+  "features": "187 m long, 15-storey slab of 762 flats, a Polish take on Le Corbusier's Unité d'Habitation.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Superjednostka",
+  "photos": [
+   {
+    "file": "File:Katowice Superjednostka 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Katowice Superjednostka SE 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Superjednostka (Katowice, Poland, JAN 2019).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Superjednostka",
+   "https://sosbrutalism.org/cms/19037851",
+   "https://www.whitemad.pl/?p=214895"
+  ],
+  "note": "Built 1967-72. The Unité comparison is the common reading (whitemad, Wikipedia); flats are reached from corridors on every third floor per general sources, not used in the features line."
+ },
+ {
+  "id": "inter-university-seminar-house",
+  "name": "Inter-University Seminar House",
+  "by": "Takamasa Yoshizaka (Atelier U)",
+  "city": "Hachiōji",
+  "cc": "JP",
+  "year": "1965",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Main hall shaped as an inverted pyramid 'driven into the earth', with small student houses scattered over the hillside.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Inter-University Seminar House",
+  "photos": [
+   {
+    "file": "File:2018 Inter-University Seminar House 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:八王子セミナーハウス本館.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inter-University Seminar House Main building 20140603-02.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inter-University Seminar House Main building 20140603-01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Model of Inter-University Seminar House 20140605.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://www.bunka.go.jp/nama/global/eng/archivalcollections/yosizaka/index.html",
+   "https://www.dezeen.com/2026/10/03/brutalist-asia-book-roundup/amp/"
+  ],
+  "note": "Main building 1965; the wider campus grew until 1976. Designated Historical Architecture by Tokyo. The 2014 main-building photos are slightly fish-eye."
+ },
+ {
+  "id": "athenee-francais-tokyo",
+  "name": "Athénée Français",
+  "by": "Takamasa Yoshizaka",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Exposed concrete"
+  ],
+  "features": "French-language school in sculptural concrete, its walls painted a pink Yoshizaka called \"sunset over the Andes\".",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Athénée Français",
+  "photos": [
+   {
+    "file": "File:Athenee Francais.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Athénée Français - Tokyo - DSC04852.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://www.mot-art-museum.jp/en/exhibitions/YT_ExhibitionGuide_EG.pdf"
+  ],
+  "note": "AIJ Prize winner. Colours described from the photos; the archive dates the project 1960-81 (later additions), Wikipedia gives 1962."
+ },
+ {
+  "id": "bunkier-sztuki",
+  "name": "Bunkier Sztuki",
+  "by": "Krystyna Tołłoczko-Różyska; facade by Stefan Borzęcki and Antoni Hajdecki",
+  "city": "Kraków",
+  "cc": "PL",
+  "year": "1965",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Detail",
+   "Public space"
+  ],
+  "features": "Exhibition pavilion faced in concrete cast from wooden formwork, set into Kraków's old-town ring park.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Bunkier Sztuki",
+  "photos": [
+   {
+    "file": "File:Bunkier Sztuki spring 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gallery of Contemporary Art “Bunkier Sztuki\", 1965 by Krystyna Tołłoczko-Różyska, 3a Szczepański Square, Old Town, Kraków, Poland.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bunkier Sztuki (Bunker of Art) Gallery of Contemporary Art, 3a Szczepański Square, Old Town, Kraków, Poland.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://artsandculture.google.com/story/agXxloPdz6kK0A",
+   "https://www.radiokrakow.pl/aktualnosci/krakow/krakowski-bunkier-sztuki-swietuje-podwojny-jubileusz",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Opened 11 September 1965 as the Municipal Exhibition Pavilion; controversial next to the Art Nouveau Palace of Arts. Renovated 2021-24."
+ },
+ {
+  "id": "imabari-city-hall",
+  "name": "Imabari City Hall",
+  "by": "Kenzō Tange",
+  "city": "Imabari",
+  "cc": "JP",
+  "year": "1958",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Tange's concrete city hall for his home town, facing his folded-plate public hall across a shared plaza.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Imabari City Hall Main Building",
+  "photos": [
+   {
+    "file": "File:Imabari City Hall 2021-08 ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Imabari City Office - panoramio (2).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Imabari City Hall - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.mlit.go.jp/tagengo-db/en/R1-01801.html",
+   "https://dome.mit.edu/handle/1721.3/131417"
+  ],
+  "note": "One of three Tange buildings in Imabari (with the Public Hall, 1958, and Civic Center, 1965); the Public Hall has its own Commons category and could be added. Sources disagree slightly on 1958/1959."
+ },
+ {
+  "id": "harold-holt-swimming-centre",
+  "name": "Harold Holt Memorial Swimming Centre",
+  "by": "Kevin Borland and Daryl Jackson",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1969",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Brutalist pool hall of chunky wall and stair forms beside Victoria's first heated outdoor 50 m pool.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Harold Holt Memorial Swimming Centre",
+  "photos": [
+   {
+    "file": "File:Harold Holt Memorial Swimming Pool corner.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Harold Holt Memorial Swimming Centre 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Harold Holt Memorial Swimming Pool south face.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Harold Holt Memorial Swimming Pool entry.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harold_Holt_Memorial_Swimming_Centre"
+  ],
+  "note": "Opened March 1969 in Glen Iris; on the Victorian Heritage Register. Named after the prime minister who drowned in 1967."
+ },
+ {
+  "id": "queensland-art-gallery",
+  "name": "Queensland Art Gallery",
+  "by": "Robin Gibson",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1982",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Water",
+   "Climate response",
+   "Circulation"
+  ],
+  "features": "Low, light-coloured concrete gallery organised along an indoor Watermall, with planted terraces by the river.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Queensland Art Gallery",
+  "photos": [
+   {
+    "file": "File:Queensland Art Gallery river facade, Brisbane.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queensland Art Gallery river facade, Brisbane seen from the bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queensland Art Gallery main entrance, Brisbane.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queensland Art Gallery - Joy of Museums - External.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queensland_Art_Gallery",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "First stage of Gibson's Queensland Cultural Centre (Wikipedia's brutalist list names the centre, 1985). State Heritage Place 2015."
+ },
+ {
+  "id": "cameron-offices",
+  "name": "Cameron Offices",
+  "by": "John Andrews",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1976",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Prefabrication",
+   "Courtyard",
+   "Exposed concrete"
+  ],
+  "features": "Office wings of precast post-tensioned concrete off an in-situ concrete mall, linked by a bridge over the avenue.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Cameron Offices",
+  "photos": [
+   {
+    "file": "File:Cameron offices 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CameronOffices1.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CameronOffices2.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CameronOffices3.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cameron_Offices"
+  ],
+  "note": "PARTLY DEMOLISHED: wings 1, 2 and 6-10 removed in 2007-08; wings 3-5 and the bridge survive (Commonwealth Heritage List 2005), two now student housing."
+ },
+ {
+  "id": "golden-mile-complex",
+  "name": "Golden Mile Complex",
+  "by": "Design Partnership (Gan Eng Oon, William Lim, Tay Kheng Soon)",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "1973",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Section",
+   "Megastructure",
+   "Community"
+  ],
+  "features": "16-storey mixed-use block with a stepped, terraced section: flats over a shopping podium, facing the sea.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Golden Mile Complex",
+  "photos": [
+   {
+    "file": "File:Golden Mile Complex.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Golden Mile Complex 5, Aug 07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Golden Mile Complex 3, Aug 07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Golden Mile Complex 2.JPG",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golden_Mile_Complex"
+  ],
+  "note": "Gazetted for conservation in 2021; being refurbished as 'The Golden Mile' with a new 45-storey tower beside it (due 2029). Photos are 2005-07 and only 1600px."
+ },
+ {
+  "id": "regenstein-library",
+  "name": "Joseph Regenstein Library",
+  "by": "Walter Netsch (Skidmore, Owings & Merrill)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1970",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Library of grooved limestone in stacked vertical fins that read like concrete, on the site of Stagg Field.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Joseph Regenstein Library",
+  "photos": [
+   {
+    "file": "File:Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54514265602).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Joseph Regenstein Library in 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Regenstein Library, University of Chicago, 57th Street and Ellis Avenue, Hyde Park, Chicago, IL (54514267557).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Regenstein and Mansueto (4728645314).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Regenstein_Library"
+  ],
+  "note": "Opened 1970 where the first controlled nuclear chain reaction took place (1942). Fourth photo shows it beside Helmut Jahn's glass-domed Mansueto Library."
+ },
+ {
+  "id": "scarborough-college-andrews-building",
+  "name": "Scarborough College (Andrews Building)",
+  "by": "John Andrews",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Circulation",
+   "Exposed concrete",
+   "Climate response"
+  ],
+  "features": "Two wings meet at a central atrium; wide indoor 'streets' with balconies keep students out of the winter.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:John Andrews Building",
+  "photos": [
+   {
+    "file": "File:Andrews Building UofT.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:John Andrews Building UofT.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Humanities Wing at U of T Scarborough.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Science Wing at U of T Scarborough.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Toronto_Scarborough",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Andrews disliked the 'brutalist' label, saying the design came from human needs and logic. Commons also has Category:Humanities Wing and Category:Science Wing."
+ },
+ {
+  "id": "miami-marine-stadium",
+  "name": "Miami Marine Stadium",
+  "by": "Hilario Candela",
+  "city": "Miami",
+  "cc": "US",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Water"
+  ],
+  "features": "Concrete grandstand for 6,566 under a cantilevered folded-plate roof on eight slanted columns, facing a boat basin.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Miami Marine Stadium.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miami_Marine_Stadium"
+  ],
+  "note": "Only one good free photo found (no Commons category of its own; architect's category is Category:Hilario Candela). Designed by Candela at 28; closed after Hurricane Andrew (1992), on the National Register since 2018, restoration begun 2023."
+ },
+ {
+  "id": "slovak-national-gallery-extension",
+  "name": "Slovak National Gallery Extension",
+  "by": "Vladimír Dedeček; renovation by Architekti BKPŠ",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": "1977",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Adaptive reuse"
+  ],
+  "features": "Long gallery wing lifted on piers like a bridge (the 'Overbridge') in front of the older gallery buildings.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Extension of Slovak National Gallery",
+  "photos": [
+   {
+    "file": "File:Bratislava - Slovenská národná galéria (SNG).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Slowakische Nationalgalerie alt und neu.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.sosbrutalism.org/cms/16269737",
+   "https://afasiaarchzine.com/2024/01/architekti-b-k-p-s-reconstruction-and-completion-of-the-slovak-national-gallery-bratislava/",
+   "https://guiding-architects.net/out-about-reconstruction-slovak-national-gallery"
+  ],
+  "note": "Designed 1963-69, built 1969-77; reopened December 2022 after a seven-year renovation by BKPŠ. More files in the category ('SNG, predná časť' series, 2016-era) were not viewed."
+ },
+ {
+  "id": "university-hall-lethbridge",
+  "name": "University Hall, University of Lethbridge",
+  "by": "Arthur Erickson",
+  "city": "Lethbridge",
+  "cc": "CA",
+  "year": "1971",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Landscape",
+   "Megastructure",
+   "Exposed concrete"
+  ],
+  "features": "912 ft, nine-storey concrete block laid along the coulees above the Oldman River like the nearby rail viaduct.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:University Hall (University of Lethbridge)",
+  "photos": [
+   {
+    "file": "File:University of Lethbridge Alberta (53779951822).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Lethbridge (51915006151).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Lethbridge (51915101563).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://sites.ulethbridge.ca/50-years/?p=500",
+   "https://www.ulethbridge.ca/notice/node/11825",
+   "https://en.wikipedia.org/wiki/University_of_Lethbridge"
+  ],
+  "note": "Built 1969-71; teaching and student rooms in one structure. Length and storeys come from one university archive notice only. Many category files are interiors."
+ },
+ {
+  "id": "national-arts-centre-ottawa",
+  "name": "National Arts Centre",
+  "by": "Fred Lebensold (ARCOP)",
+  "city": "Ottawa",
+  "cc": "CA",
+  "year": "1969",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Geometry",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Performing-arts centre in reinforced concrete, planned on interlocking hexagons and triangles beside the Rideau Canal.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:National Arts Centre",
+  "photos": [
+   {
+    "file": "File:National Arts Centre.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ottawa - ON - National Arts Centre.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Arts Centre, Ottawa (14579914488).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Arts Centre (8348913688).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Arts_Centre_(building)",
+   "https://pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=11274",
+   "https://oaa.on.ca/whats-on/bloaag/bloaag-detail/Canadian-Modern-Architecture-National-Arts-Centre"
+  ],
+  "note": "Opened June 1969 (some sources say 31 May). A glass addition by Diamond Schmitt (2017) now fronts Elgin Street; the chosen photos show mostly the original concrete. National Historic Site."
+ },
+ {
+  "id": "hillbrow-tower",
+  "name": "Hillbrow Tower (Telkom Joburg Tower)",
+  "by": "South African Posts & Telecommunications (client); designers not credited in sources",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1971",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "269 m concrete telecom tower, Africa's tallest, with public floors and a revolving restaurant near the top.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Hillbrow Tower",
+  "photos": [
+   {
+    "file": "File:South Africa-Johannesburg-Hillbrow001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hillbrow Tower (4612443934).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hillbrow Tower-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hillbrow_Tower",
+   "https://structurae.net/en/structures/hillbrow-tower",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "No source found naming the architect or engineer; 'by' needs filling before it goes on the wall. Built 1968-71; public floors closed since 1981."
+ },
+ {
+  "id": "most-snp-bratislava",
+  "name": "Most SNP (UFO Bridge)",
+  "by": "Arpád Tesár, Jozef Lacko, Ivan Slameň",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": "1972",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Steel & glass"
+  ],
+  "features": "Asymmetric cable-stayed bridge with a 303 m span hung from one leaning A-pylon, topped by a saucer-shaped restaurant.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Most SNP",
+  "photos": [
+   {
+    "file": "File:Puente de la Insurrección Nacional Eslovaca, Bratislava, Eslovaquia, 2020-02-01, DD 49.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Most SNP, Bratislava (by Pudelek).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava - Most SNP (3).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava UFO Bridge 2008.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Most_SNP"
+  ],
+  "note": "Built 1967-72; 84.6 m pylon. A steel structure rather than raw concrete, but it appears in Wikipedia's list of brutalist structures and is a key work of the period. Movement could also be Late modernism."
+ },
+ {
+  "id": "national-carillon-canberra",
+  "name": "National Carillon",
+  "by": "Cameron Chisholm Nicol (Don Ho)",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1970",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "50 m concrete bell tower of three tall shafts on an island in Lake Burley Griffin, housing 57 bells.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:National Carillon",
+  "photos": [
+   {
+    "file": "File:Canberra Carillon on Lake Burley Griffin-2 (38441217986).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carillon Viewed from National Gallery of Australia Gardens.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Carillon (2456418809).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Carillon"
+  ],
+  "note": "Opened by Queen Elizabeth II on 26 April 1970. The three shafts stand for the British and Australian governments and the City of Canberra. Bells by John Taylor & Co."
+ },
+ {
+  "id": "majdanek-mausoleum",
+  "name": "Majdanek Mausoleum",
+  "by": "Wiktor Tołkin, Janusz Dembek",
+  "city": "Lublin",
+  "cc": "PL",
+  "year": "1969",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Exposed concrete"
+  ],
+  "features": "35 m concrete dome raised on three supports over a bowl of victims' ashes, at the end of a 1.3 km memorial road.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Majdanek Mausoleum",
+  "photos": [
+   {
+    "file": "File:Majdanek Mausoleum 2018 P01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2013 KL Majdanek Mausoleum - 01.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Lublin - Majdanek - 012 - Mausoleum.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.jewishvirtuallibrary.org/mausoleum-at-majdanek",
+   "https://www.architekturaibiznes.pl/en/monument-maidan-victor-tolkin,41140.html",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Part of the Monument of Struggle and Martyrdom at the former Majdanek concentration camp (1967 competition, unveiled 1969). Frieze: 'Let our fate be a warning to you.' Sensitive site: present with care. Restored 2023-25."
+ },
+ {
+  "id": "orange-county-government-center",
+  "name": "Orange County Government Center",
+  "by": "Paul Rudolph",
+  "city": "Goshen",
+  "cc": "US",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Modular",
+   "Courtyard"
+  ],
+  "features": "County offices and courts as a cluster of interlocking concrete boxes with 87 roofs round a courtyard.",
+  "award": "Brutalism survey",
+  "status": "unsure",
+  "commons_category": "Category:Orange County Government Center",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orange_County_Government_Center",
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)"
+  ],
+  "note": "No usable free exterior photo: the category has only small files (500px) and one wide 'during demolition' shot (File:Orange County Government Center during demolition.jpg, 6048x2160, CC BY-SA 3.0). Form too intricate to draw with confidence. Centre section demolished 2015; rebuilt and reopened 2017."
+ }
+]

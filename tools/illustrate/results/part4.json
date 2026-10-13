@@ -1,0 +1,528 @@
+[
+ {
+  "id": "bolgatanga-library",
+  "name": "Bolgatanga Library",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bolgatanga1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bolgatanga6.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bolgatanga2.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Willis_E._Bell"
+  ],
+  "note": "Three 1500x1000 photos by Willis E. Bell (no Commons category of its own). Bolgatanga1 is captioned on en.wikipedia as students playing in front of the library, so it is an exterior."
+ },
+ {
+  "id": "british-council-new-delhi",
+  "name": "British Council, New Delhi",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:British Council Delhi.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One 2448x3264 Flickr photo (Ramesh Lalwani, 2017) in Category:Correa, with coordinates at the Kasturba Gandhi Marg building. The description does not say which side it shows; worth a glance to confirm it is the facade."
+ },
+ {
+  "id": "camino-real-hotel-mexico-city",
+  "name": "Camino Real Hotel, Mexico City",
+  "status": "photo",
+  "commons_category": "Category:Camino Real Polanco Mexico",
+  "photos": [
+   {
+    "file": "File:Camino Real de Polanco (Mexico City).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Hotel Camino Real - Flickr - Šarūnas Burdulis.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "casa-poli",
+  "name": "Casa Poli",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.archiweb.cz/en/b/dum-poli (search summary only)",
+   "https://www.iconeye.com/?p=2601 (search summary only)"
+  ],
+  "note": "No Commons files. Massing is clear (concrete cube on the Coliumo cliff edge) but the size and placement of its irregular deep window openings could not be confirmed: ArchDaily, Arquitectura Viva, archiweb and the architects site were unreachable from here and search summaries disagree. Drawing the openings would mean guessing."
+ },
+ {
+  "id": "casa-de-huespedes-ilustres-de-colombia",
+  "name": "Casa de Huéspedes Ilustres de Colombia",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://arquiscopio.com/archivo/2012/05/28/casa-de-huespedes-ilustres/?lang=en (search summary only)",
+   "https://cienciaabierta.uan.edu.co/Record/repositorio.uan.edu.co-123456789-5683 (search summary only)"
+  ],
+  "note": "No Commons files at all. Sources (via search summaries only) say brick and limestone enclosures linked by courtyards and water channels inside the ruins of the Manzanillo fort; nothing gives the elevation, roof forms or heights, so a drawing would be a guess. Its features line also says coral stone, which these sources do not confirm."
+ },
+ {
+  "id": "centre-for-earth-architecture",
+  "name": "Centre for Earth Architecture",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kere centre earth architecture mopti.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "3306x2075 photo by GandoIT, in Category:Works by Diébédo Francis Kéré (no category of its own)."
+ },
+ {
+  "id": "chengqi-lou-fujian-tulou",
+  "name": "Chengqi Lou (Fujian Tulou)",
+  "status": "photo",
+  "commons_category": "Category:Chengqi Lou",
+  "photos": [
+   {
+    "file": "File:2012 永定、南靖 土楼 承启楼 - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:20260323 Chengqi Lou (110930).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Chengqi Lou DSC5155 ff (16011284317).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Category has 100+ files, many interiors; pick an exterior of the round wall from it."
+ },
+ {
+  "id": "children-s-centre-for-psychiatric-rehabilitation",
+  "name": "Children's Centre for Psychiatric Rehabilitation",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://arquitecturaviva.com/works/centro-de-rehabilitacion-psiquiatrica-para-ninos-hokkaido-5 (search summary only)",
+   "https://www.domusweb.it/en/architecture/2007/12/19/principle-of-relativity.html (search summary only)"
+  ],
+  "note": "No Commons files. Sources confirm only scattered box-like rooms adjoining horizontally (built area about 1,604 m2); no box count, sizes, heights or layout. Any arrangement drawn would be invented."
+ },
+ {
+  "id": "children-s-surgical-hospital-entebbe",
+  "name": "Children's Surgical Hospital, Entebbe",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:6-13-ospedale-emergency-uganda.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One 1920x1280 photo described as Entebbe Childrens Surgical Hospital (Category:Emergency (association)). Description does not say exterior explicitly."
+ },
+ {
+  "id": "church-of-la-medalla-milagrosa",
+  "name": "Church of La Medalla Milagrosa",
+  "status": "photo",
+  "commons_category": "Category:La Medalla Milagrosa Parish, Benito Juarez, Mexico City",
+  "photos": [
+   {
+    "file": "File:Exterior 1 Medalla Milagrosa Parish.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Iglesia de la Medalla Milagrosa 04.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Exterior 2 Medalla Milagrosa Parish.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Many interior photos of the shells too (Interior 1-20 Medalla Milagrosa Parish)."
+ },
+ {
+  "id": "church-of-saint-peter-durazno",
+  "name": "Church of Saint Peter, Durazno",
+  "status": "photo",
+  "commons_category": "Category:Iglesia de San Pedro de Durazno",
+  "photos": [
+   {
+    "file": "File:Iglesia de San Pedro - Durazno.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Fachada, torre y cúpula de la Iglesia San Pedro de la ciudad de Durazno.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Dieste rebuilt the church after a 1967 fire; street views may show mainly the retained older front and tower. Interior photos (Iglesia San Pedro, interior.JPG; Interior de Iglesia San Pedro.JPG) show his brick nave best."
+ },
+ {
+  "id": "cine-flamingo",
+  "name": "Cine Flamingo",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://recil.ulusofona.pt/items/064b4d2a-9ca0-4a26-833e-eace286164ce (search summary only)"
+  ],
+  "note": "No Commons files. The one source found describes a walled rectangular enclosure with a canopy of two cantilevered concrete slabs on pillars and inclined beams with steel ties; it does not confirm the louvred walls in our features line, and gives no proportions. Not enough to draw."
+ },
+ {
+  "id": "ciudad-abierta",
+  "name": "Ciudad Abierta",
+  "status": "photo",
+  "commons_category": "Category:Ciudad Abierta (Ritoque)",
+  "photos": [
+   {
+    "file": "File:Palacio del alba y el ocaso Ciudad Abierta (Ritoque).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Construcciones de ladrillo Cementerio Ciudad Abierta (Ritoque).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Ciudad Abierta, Ritoque - Flickr - v.requesens.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "coppelia-ice-cream-parlour",
+  "name": "Coppelia Ice Cream Parlour",
+  "status": "photo",
+  "commons_category": "Category:Heladeria Coppelia",
+  "photos": [
+   {
+    "file": "File:Coppelia1.jpeg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Coppelia4.jpeg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Coppelia Havanna 2022-12-15.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "corniche-mosque",
+  "name": "Corniche Mosque",
+  "status": "photo",
+  "commons_category": "Category:Corniche Mosque",
+  "photos": [
+   {
+    "file": "File:Masjed (43585096).jpeg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:مسجد شاطئ الكورنيش - جدة، السعودية.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Masjed is 977x1500 (long side 1500). The larger file is a night view of the upper part. Several mosques line the Jeddah Corniche, so check by eye that these show El-Wakil's small domed mosque."
+ },
+ {
+  "id": "corpus-christi-church-aachen",
+  "name": "Corpus Christi Church, Aachen",
+  "status": "photo",
+  "commons_category": "Category:St. Fronleichnam (Aachen)",
+  "photos": [
+   {
+    "file": "File:Aachen - Fronleichnam - Rudolf Schwarz Entwurf.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:St. Fronleichnam, Düppelstraße, Aachen.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Aachen Fronleichnamskirche Modell.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": "The first file shows the nave and the adjoining tower. The model is a 1931 sculpture of the church held by a statue of St Joseph (804x2041)."
+ },
+ {
+  "id": "cosmic-rays-pavilion",
+  "name": "Cosmic Rays Pavilion",
+  "status": "photo",
+  "commons_category": "Category:Pabellón de Rayos Cósmicos",
+  "photos": [
+   {
+    "file": "File:Pabellón de Rayos Cósmicos 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Pabellón de Rayos Cósmicos 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Pabellón de Rayos Cósmicos de C.U..jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "cultural-foundation",
+  "name": "Cultural Foundation",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UAE_Public_Library_and_Cultural_Center",
+   "https://www.domusweb.it/en/architecture/gallery/2024/03/04/downtown-from-its-origins-to-today.html (search summary only)"
+  ],
+  "note": "No free photo on Commons (Qasr al-Hosn category has none that name it). Sources confirm only three wings around a central courtyard and glazed-brick-tiled arcades; not enough to draw heights, arch rhythm or elevations without guessing. (The en.wikipedia stub says it was demolished, which is outdated: it was renovated by CEBRA and reopened in 2018.)"
+ },
+ {
+  "id": "dakar-international-fair",
+  "name": "Dakar International Fair",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.sensesatlas.com/the-international-fair-of-dakar/ (search summary only)",
+   "https://www.archidatum.com/projects/datum-antique-jean-francois-lamoureux-and-jean-louis-marins-dakar-international-fair-grounds/ (search summary only)"
+  ],
+  "note": "No Commons files (searched FIDAK, CICES, Foire internationale de Dakar). Sources agree on a triangular module on a 10 x 10 m base and seven regional pavilions around an entrance pavilion, but none give pavilion heights, roof profile or facade layout. Architect credit also varies (some add Fernand Bonamy)."
+ },
+ {
+  "id": "dano-secondary-school",
+  "name": "Dano Secondary School",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kere Secondary school Dano.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "2496x1664, in Category:Dano (Burkina Faso) and Works by Diébédo Francis Kéré (no category of its own)."
+ },
+ {
+  "id": "darat-al-funun",
+  "name": "Darat al Funun",
+  "status": "photo",
+  "commons_category": "Category:Darat Al Funun",
+  "photos": [
+   {
+    "file": "File:Le Darat al Funun (Amman, Jordanie) (38996758462).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Darat Al Funun 197.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Darat Al Funun Amman 29.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Subcategory Category:Darat Al Funun - external holds the exteriors; 200+ files in all."
+ },
+ {
+  "id": "dominican-chapel-ibadan",
+  "name": "Dominican Chapel, Ibadan",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Dominican Chapel.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Dominican Chapel- Exterior Colomns and Church Hall.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Dominican Chapel (11293841185).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No category of its own; files are in Category:Churches in Ibadan."
+ },
+ {
+  "id": "embassy-of-belgium-new-delhi",
+  "name": "Embassy of Belgium, New Delhi",
+  "status": "photo",
+  "commons_category": "Category:Belgium Embassy in Delhi",
+  "photos": [
+   {
+    "file": "File:Embassy of Belgium in New Delhi.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Embassy_of_Belgium,_New_Delhi",
+   "https://worldarchitecture.org/architecture-news/efzpe/a-brick-sculpture-to-work-in-satish-gujraldesigned-embassy-of-belgium-new-delhi.html (search summary only)"
+  ],
+  "note": "One free photo exists, File:Embassy of Belgium in New Delhi.jpg (CC BY-SA 3.0, front face), but it is only 1072x888, under the 1200px rule; the owner may still want it. Sources say red brick, two large cupolas flanking a central fold over the entrance, a fortress of rocky outcrops on a sloping site; too vague to draw the sculpted forms without guessing. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]"
+ },
+ {
+  "id": "frac-nord-pas-de-calais",
+  "name": "FRAC Nord-Pas de Calais",
+  "status": "photo",
+  "commons_category": "Category:FRAC Nord-Pas de Calais",
+  "photos": [
+   {
+    "file": "File:Blick auf den FRAC Nord-Pas de Calais vom Strand von Malo-les-Bains.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Dunkerque, le FRAC (48559381402).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "faculty-of-engineering-university-of-the-republic",
+  "name": "Faculty of Engineering, University of the Republic",
+  "status": "photo",
+  "commons_category": "Category:Facultad de Ingeniería, Universidad de la República",
+  "photos": [
+   {
+    "file": "File:Facultad de Ingeniería, Montevideo.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:2016 Facultad de Ingeniería Montevideo.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "final-wooden-house",
+  "name": "Final Wooden House",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Final Wooden House 2008.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "2136x1424 Flickr photo, in Category:Sou Fujimoto (no category of its own)."
+ },
+ {
+  "id": "flower-kiosk-malmo-eastern-cemetery",
+  "name": "Flower Kiosk, Malmö Eastern Cemetery",
+  "status": "photo",
+  "commons_category": "Category:Blomsterkiosk",
+  "photos": [
+   {
+    "file": "File:Blomsterkiosken - framsida.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:(01) Blomsterkiosk.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Sigurd lewerentz, florist, 1969 (2348583304).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The Flickr photo asks for the credit SEIER+SEIER."
+ }
+]

@@ -1,0 +1,458 @@
+[
+ {
+  "id": "la-tallera",
+  "name": "La Tallera",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Fachada de La Tallera 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Fachada de La Tallera 02.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Both photos show the street front with the Siqueiros murals (file category: Cultural centers in Morelos). No dedicated Commons category exists."
+ },
+ {
+  "id": "latapie-house",
+  "name": "Latapie House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://journals.open.tudelft.nl/dash/article/view/4745",
+   "https://arquitecturaviva.com/works/casa-latapie-8",
+   "https://www.architecturedecollection.fr/en/product/latapie-house-lacaton-vassal-architects-floirac/",
+   "https://monumentum.fr/architecture-contemporaine-remarquable/ACR0001735/floirac-maison"
+  ],
+  "note": "No photo on Commons. Sources agree on a two-level steel-framed box, opaque fibre-cement folding panels on the street side and a polycarbonate greenhouse on the garden side, with a mono-pitched roof, but none says which way the roof slopes or gives heights, so neither the street nor the side elevation can be drawn without guessing."
+ },
+ {
+  "id": "leao-que-ri-smiling-lion",
+  "name": "Leão que Ri (Smiling Lion)",
+  "status": "photo",
+  "commons_category": "Category:O Leão Que Ri (Maputo)",
+  "photos": [
+   {
+    "file": "File:O Leão Que Ri building Maputo.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:O Leao que Ri Panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:O Leão Que Ri detail Maputo.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "luyeyuan-stone-sculpture-art-museum",
+  "name": "Luyeyuan Stone Sculpture Art Museum",
+  "status": "unsure",
+  "commons_category": "Category:Buildings by Liu Jiakun",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://catalan-architects.com/fr/jiakun-architects-chengdu/project/luyeyuan-stone-sculpture-art-museum",
+   "https://arquitecturaviva.com/works/museo-de-escultura-luyeyuan-xinmin-"
+  ],
+  "note": "No photo on Commons (Liu Jiakun categories hold other buildings only). Sources describe board-marked concrete over shale-brick formwork, blocks around an atrium with light through gaps, and an entrance above a lotus pond, but not the massing or heights of the blocks in any elevation, so not drawn."
+ },
+ {
+  "id": "marika-alderton-house",
+  "name": "Marika-Alderton House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architectmagazine.com/project-gallery/marika-alderton-house_o",
+   "https://ozetecture.org/marika-alderton-house",
+   "https://architectureau.com/articles/architecture-for-the-aborigines/",
+   "https://www.pritzkerprize.com/sites/default/files/inline-files/2002_Essay_0.pdf"
+  ],
+  "note": "No photo on Commons. Sources confirm a raised, prefabricated steel-and-timber house on piles with a pitched roof, deep eaves, pivoting roof ventilator tubes, operable plywood/slatted panels instead of glazing and projecting vertical blades, but not the roof profile, number and placement of ventilators or the panel rhythm. A trial drawing needed too many guessed details, so not drawn."
+ },
+ {
+  "id": "menara-tabung-haji",
+  "name": "Menara Tabung Haji",
+  "status": "photo",
+  "commons_category": "Category:Tabung Haji Tower, Kuala Lumpur",
+  "photos": [
+   {
+    "file": "File:KL- Lembaga Tabung Haji HQ.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Lembaga Tabung Haji @ Jalan Tun Razak - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The panoramio file is filed under Jalan Tun Razak; description names the tower."
+ },
+ {
+  "id": "menara-umno",
+  "name": "Menara UMNO",
+  "status": "photo",
+  "commons_category": "Category:United Malays National Organisation offices",
+  "photos": [
+   {
+    "file": "File:UNMO tower 2008.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Menara JKR in George Town, Penang.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Building has been renamed (Menara JKP / JKR); the 2008 file explicitly credits T. R. Hamzah & Yeang. No dedicated building category."
+ },
+ {
+  "id": "mestizo-restaurant",
+  "name": "Mestizo Restaurant",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Restaurante Mestizo en Parque BIcentenario.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Single uncategorised photo (4000x3000); judged from title and description only, worth a visual check."
+ },
+ {
+  "id": "michenzani-blocks",
+  "name": "Michenzani Blocks",
+  "status": "photo",
+  "commons_category": "Category:Michenzani",
+  "photos": [
+   {
+    "file": "File:Wohnungsbau der DDR in Stone Town.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "A second photo, File:Urban blight at the Michenzani housing project, Zanzibar town, Tanzania.jpg (CC BY-SA 3.0), is only 1280px tall portrait, just above the size floor."
+ },
+ {
+  "id": "microlibrary-taman-bima",
+  "name": "Microlibrary Taman Bima",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation: the raised reading box (concrete floor and roof slabs on a steel frame) with its grid of ice-cream-bucket openings, over the open stage",
+  "sources": [
+   "https://domusweb.it/en/news/2017/07/27/microlibrary_bima.html",
+   "https://www.e-architect.com/indonesia/taman-bima-microlibrary-in-bandung",
+   "https://mgsarchitecture.in/building-materials-products/facades/architects-shau-design-a-facade-by-upcycling-2000-icecream-buckets.html",
+   "https://www.baunetzwissen.de/drucken/stadtteilbibliothek-bima-microlibrary-in-bandung-5398601"
+  ],
+  "note": "No photo on Commons. The bucket grid is shown at reduced density (about 2,000 buckets in reality) and without the binary open/closed pattern; overall length-to-height ratio and column spacing are approximate (no dimensions published beyond 160 m2). The full-length stair is left out because its position in this view is not confirmed."
+ },
+ {
+  "id": "mimesis-art-museum",
+  "name": "Mimesis Art Museum",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.iconeye.com/architecture/mimesis-museum-by-alvaro-siza",
+   "https://www.archiweb.cz/en/b/museum-mimesis",
+   "https://thisispaper.com/mag/mimesis-museum-alvaro-siza-carlos-castanheira",
+   "https://oris.hr/en/oris-magazine/overview-of-articles/[106]a-mimesis-for-a-city-of-books,1577.html"
+  ],
+  "note": "No photo on Commons (Korea has no freedom of panorama for commercial use). Sources confirm a nearly windowless exposed-concrete mass that reads as a box from the street and opens into two curved wings around a courtyard (designed with Carlos Castanheira and Jun Sung Kim), but give no heights or curve geometry; the form is mainly a plan idea and an elevation would be guessed."
+ },
+ {
+  "id": "ministry-of-foreign-affairs-riyadh",
+  "name": "Ministry of Foreign Affairs, Riyadh",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://uia-architectes.org/?p=18251",
+   "https://dac.dk/en/magazine/places/the-ministry-of-foreign-affairs-in-saudi-arabia-the-legacy-of-henning-larsen-416",
+   "https://www.catalan-architects.com/en/henning-larsen-copenhagen/project/ministry-of-foreign-affairs-in-riyadh"
+  ],
+  "note": "No photo on Commons (Saudi Arabia has no freedom of panorama). Sources only say the exterior is massive, closed and introverted, on a plan based on a square adapted to a triangular site; nothing on the elevation (heights, towers, openings). Owner may also want to check the features line: sources found describe courtyards and atriums but not specifically a central triangular atrium."
+ },
+ {
+  "id": "monterrey-housing",
+  "name": "Monterrey Housing",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "street elevation of a three-storey row: ground-floor houses below, two-storey duplexes above alternating with empty double-height bays (drawn as recesses) under one continuous roof",
+  "sources": [
+   "https://www.archdaily.com/52202/monterrey-housing-elemental",
+   "https://www.dezeen.com/2010/03/08/elemental-monterrey-by-elemental/",
+   "https://arquitecturaviva.com/works/viviendas-monterrey-6",
+   "https://www.designboom.com/architecture/elemental-architecture-las-anacuas-monterrey-mexico"
+  ],
+  "note": "No photo on Commons. Bay count, window positions and sizes are schematic; the defining idea (built bays alternating with roofed voids for residents to fill) is from the sources."
+ },
+ {
+  "id": "naoshima-ferry-terminal",
+  "name": "Naoshima Ferry Terminal",
+  "status": "photo",
+  "commons_category": "Category:Miyanoura port, Naoshima",
+  "photos": [
+   {
+    "file": "File:Naoshima Ferry Terminal.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "newton-suites",
+  "name": "Newton Suites",
+  "status": "unsure",
+  "commons_category": "Category:WOHA",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://world-architects.com/ca/woha-singapore/project/newton-suites",
+   "https://thefifthestate.com.au/articles/newton-suites/"
+  ],
+  "note": "Only free photo is File:Newton Suites.jpg (CC0, categories WOHA / Newton Road, Singapore), 485x692px, well under the 1200px floor; usable if the size rule is relaxed. Sources confirm a 36-storey tower with angled expanded-mesh sunshades, protruding balconies, sky gardens at lift lobbies and a green wall, but not how these are arranged on any elevation, so not drawn."
+ },
+ {
+  "id": "norwegian-wild-reindeer-pavilion",
+  "name": "Norwegian Wild Reindeer Pavilion",
+  "status": "photo",
+  "commons_category": "Category:Viewpoint Snøhetta",
+  "photos": [
+   {
+    "file": "File:Viewpoint Snøhetta.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tverfjellhytta Norsk villreinsenter Snøhetta viewpoint 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The category holds 19 files (series 01-16 plus three others); one is an interior."
+ },
+ {
+  "id": "nueva-esperanza-school",
+  "name": "Nueva Esperanza School",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/6479-nueva-esperanza-school",
+   "https://www.metalocus.es/en/news/nueva-esperanza-school",
+   "https://inhabitat.com/?p=345178"
+  ],
+  "note": "No photo on Commons. Sources confirm a small (36 m2) one-room school: timber platform on piles, hexagonal boat-like base, cane walls and a woven palm-thatch roof, but not the roof shape or wall heights, so an elevation would be guessed."
+ },
+ {
+  "id": "nur-alem",
+  "name": "Nur Alem",
+  "status": "drawn",
+  "commons_category": "Category:Expo 2017",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: the 80 m glass sphere resting on its low plinth building, floor levels shown as latitude lines",
+  "sources": [
+   "https://www.lindner-group.com/en/references/the-sphere-expo-2017",
+   "https://www.wernersobek.com/projects/expo-2017-astana/",
+   "https://www.archpaper.com/2017/08/adrian-smith-gordon-gills-ambitious-glass-sphere-pavilion/",
+   "https://bie-paris.org/site/en/latest/blog/entry/a-week-at-expo-3-inside-nur-alem"
+  ],
+  "note": "Kazakhstan has no freedom of panorama for buildings; several Expo 2017 pavilion photos have been deleted from Commons. The only survivors are File:Storm over Astana 1.jpg / 2.jpg (CC BY-SA 4.0, 1920x1080), lightning shots where the sphere is not the clear subject, so drawn instead. Proportions from sources: 80 m diameter, 100 m total height, sphere set on a plinth building; plinth width is approximate."
+ },
+ {
+  "id": "oberrealta-chapel",
+  "name": "Oberrealta Chapel",
+  "status": "photo",
+  "commons_category": "Category:St. Nepomuk (Oberrealta)",
+  "photos": [
+   {
+    "file": "File:St. Nepomuk, Oberrealta.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:St. Nepomuk Oberrealta - 1 von 10.jpeg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Category has ten more exterior photos (series 1-10 von 10)."
+ },
+ {
+  "id": "oita-prefectural-library-art-plaza",
+  "name": "Oita Prefectural Library (Art Plaza)",
+  "status": "photo",
+  "commons_category": "Category:Art Plaza (Oita)",
+  "photos": [
+   {
+    "file": "File:Art Plaza (Oita) 20251227.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Oita-shi Art Plaza - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "paks-catholic-church",
+  "name": "Paks Catholic Church",
+  "status": "photo",
+  "commons_category": "Category:Holy Spirit Church in Paks",
+  "photos": [
+   {
+    "file": "File:Paks Makovecz church.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Szentlélek templom, 2011-04-11 Paks Makovecz back.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "palmyra-house",
+  "name": "Palmyra House",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation of one of the two oblong timber volumes: two storeys behind framed panels of horizontal palmyra-trunk louvres, thin roof edge, on a low plinth",
+  "sources": [
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/palmyra-house",
+   "https://www.akdn.org/architecture/project/palmyra-house",
+   "https://architecturelab.net/palmyra-house-studio-mumbai",
+   "https://arquiscopio.com/archivo/2013/07/14/casa-palmyra/?lang=en"
+  ],
+  "note": "No photo on Commons. Shows only one of the two offset volumes (an elevation cannot separate them). Panel count and length-to-height ratio are approximate; roofs are low standing-seam aluminium, drawn as a thin edge."
+ },
+ {
+  "id": "pangyo-housing",
+  "name": "Pangyo Housing",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://world-architects.com/en/architecture-news/reviews/pangyo-housing",
+   "https://www.dezeen.com/?p=2040896"
+  ],
+  "note": "No photo on Commons. Sources agree on nine low-rise clusters of three- to four-storey houses linked by a common deck at second-floor level, but conflict on where the glass rooms sit (deck level vs ground level) and give no unit counts per block, so not drawn. The features line (glass ground rooms opening onto a raised deck) may need checking for the same reason."
+ },
+ {
+  "id": "park-vijversburg-visitor-centre",
+  "name": "Park Vijversburg Visitor Centre",
+  "status": "unsure",
+  "commons_category": "Category:Park Vijversburg",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2017/08/16/studio-maks-marieke-kums-junya-ishigami-associates-park-vijversburg-visitor-centre-netherlands/",
+   "https://www.platformarchitecture.it/park-vijversburg-by-junya-ishigami-associates-studio-maks/?lang=en",
+   "https://www.metalocus.es/en/news/opening-park-groot-vijversburg-maks-and-junya-ishigami"
+  ],
+  "note": "No photo of the pavilion on Commons (Category:Park Vijversburg holds only park art and historic views). The building is co-designed with Studio Maks (Marieke Kums). Its defining idea is in plan: three curving glass corridors radiating from a sunken triangular hall, the glass carrying a thin gravel roof. A trial elevation read as a fence of columns, which is misleading, and the wing angles needed for an axonometric are not published, so not drawn."
+ },
+ {
+  "id": "parliament-library-building",
+  "name": "Parliament Library Building",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://archnet.org/sites/6142",
+   "https://rajrewal.in/?p=1164",
+   "https://extranet.worldstainless.org/files/issf/non-image-files/PDF/Structural/Parliament_Library_Building_Domes.pdf"
+  ],
+  "note": "Only free photo is File:Parliament library.jpg (CC BY-SA 4.0, category Buildings by Raj Rewal) at 660x467, below the 1200px floor; worth using if the owner relaxes the size rule. Not drawn: sources confirm a low red-sandstone mandala plan with twelve domes of different sizes and structures (fibre cement, steel lattice, glass), but not how they line up in any elevation, so a drawing would be guesswork."
+ },
+ {
+  "id": "paulistano-athletic-club-gymnasium",
+  "name": "Paulistano Athletic Club Gymnasium",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2021/05/24/mendes-da-rocha-architecture-roundup/",
+   "https://arquitecturaviva.com/works/39835",
+   "https://www.dwell.com/collection/brazilian-projects-we-love-c82f4e33"
+  ],
+  "note": "No photo on Commons (Category:Club Athlético Paulistano has only a 457px aerial). Sources agree on a rectangular podium, six concrete blades in a circle carrying a concrete ring, and a central metal roof hung from it by twelve steel cables, but not on the blade and cable geometry seen in elevation (whether blades rise above the ring, where the cables anchor). Too uncertain to draw."
+ },
+ {
+  "id": "pearling-path-visitor-centre",
+  "name": "Pearling Path Visitor Centre",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/13926-pearling-path-visitors-center-by-valerio-olgiati-architect",
+   "https://wallpaper.com/architecture/pearling-path-muharraq-bahrain",
+   "https://www.detail.de/de_en/pathway-entrance-in-bahrain-pearling-site-by-valerio-olgiati-34065"
+  ],
+  "note": "No photo on Commons. Sources describe a perforated concrete roof plane on a forest of columns over the ruins of an amara, a perimeter wall and triangular wind towers, but give no heights, column count or opening shapes; an elevation would be guesswork."
+ }
+]

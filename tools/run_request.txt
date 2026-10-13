@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch3
-Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.
+python -u tools/fetch_portraits.py
+Architect portraits again: founders found by hand (Zaha Hadid for Zaha Hadid Architects) were dropped by a bug, now fixed.

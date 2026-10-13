@@ -28,21 +28,34 @@ IMG = ROOT / 'site' / 'images'
 CHOICES = ROOT / 'tools' / 'image_choices.json'
 REVIEW = ROOT / 'tools' / 'review.html'
 PROBE = ROOT / 'tools' / 'category_probe.txt'
-UA = 'DiscoverArchitecture/0.2 (https://github.com/akshatpagariya909-svg/Pagaria; image curation script)'
+UA = 'DiscoverArchitecture/0.2 (https://github.com/discoverarchitecture/discoverarchitecture.github.io; image curation script)'
 WP = 'https://en.wikipedia.org/w/api.php'
 CM = 'https://commons.wikimedia.org/w/api.php'
 WD = 'https://www.wikidata.org/w/api.php'
 
 OK_LICENSE = re.compile(r'(public domain|^pd|cc0|cc[ -]by(?![ -]?nc)(?![ -]?nd))', re.I)
 NOT_A_PHOTO = re.compile(r'(logo|map\b|locator|flag|coat of arms|seal|icon|\.svg$|\.tiff?$|stamp|banknote|coin|portrait of|poster)', re.I)
+# Drawings and models come first: a plan is a plan even when its file name also says "interior".
+# Words in English, German, French, Spanish, Italian and Portuguese; Commons categories count too.
+DRAWINGS = ['Plan', 'Section', 'Elevation', 'Sketch', 'Model', 'Drawing']
 KINDS = [
-    ('Drawing', re.compile(r'\b(plan|section|elevation|drawing|axonometric|blueprint|sketch|model)\b', re.I)),
+    ('Model', re.compile(r'(\bmodels? of\b|scale model|\bmodel\b|modellino|miniatur|architectural model|\bmaquettes?\b|\bmaqueta\b|\bmodell\b|\bmodello\b|\bmodelo\b)', re.I)),
+    ('Plan', re.compile(r'(floor ?plans?|site plan|ground plan|\bplans? of\b|\bgrundriss|\bplanta\b|\bplano\b|\bpianta\b|\bplan (du|de|of)\b|\bplan\b(?! view))', re.I)),
+    ('Section', re.compile(r'(\bcross[- ]?section|\bsections? of\b|\bsection\b|\bschnitt\b|\bcoupe (transversale|longitudinale|de|du|sur)\b|\bsecci[oó]n\b|\bsezione\b|\bcortes? (transversal|longitudinal)\b)', re.I)),
+    ('Elevation', re.compile(r'(\belevations? of\b|\belevation\b|\bansicht\b|\baufriss\b|\bal[cç]ado\b|\balzado\b|\bprospetto\b)', re.I)),
+    ('Sketch', re.compile(r'(\bsketch(es)?\b|\bskizze\b|\bcroquis\b|\bschizzo\b|\besbo[cç]o\b|\bboceto\b)', re.I)),
+    ('Drawing', re.compile(r'(architectural drawings?|\bdrawings? of\b|\bdrawing\b|axonometr|isometr|\bblueprint|\bzeichnung\b|\bdessin\b|\bdibujo\b|\bdisegno\b|\bentwurf\b)', re.I)),
     ('Interior', re.compile(r'(interior|inside|innen|intérieur|interno|hall\b|lobby|atrium|foyer|stair|nave|reading room|auditorium|room\b|corridor|kitchen|living)', re.I)),
     ('Detail', re.compile(r'(detail|close[- ]?up|texture|window|door|column|joint|brick|handrail|ceiling|sculpture)', re.I)),
     ('Context', re.compile(r'(aerial|from above|skyline|panorama|view from|seen from|at night|night view|landscape|garden|plaza|street)', re.I)),
 ]
-WANT = {'Exterior': 3, 'Interior': 3, 'Detail': 1, 'Context': 1, 'Drawing': 1}
-MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6
+WANT = {'Exterior': 3, 'Interior': 3, 'Detail': 1, 'Context': 1, **{k: 1 for k in DRAWINGS}}
+MAX_PICKS, MIN_PICKS, HOT_PICKS = 8, 4, 6  # photos; drawings and models come on top, up to MAX_DRAWINGS
+MAX_DRAWINGS = 4
+LEAD_PX = 2500  # a lead photo this big on its long side is preferred
+MIN_PX, SMALL_PX = 1200, 800  # photos are 1200px+; 800px+ only when a building has nothing bigger, else our drawing
+KEEP_PX = 1280  # the current lead stays unless it's smaller than this on its long side (the wall shows 1280)
+GALLERY_VERSION = 3  # galleries made with the drawing kinds and the kept lead
 FULL, THUMB = 1400, 520
 
 
@@ -160,9 +173,10 @@ def members(category, kind):
 def candidate_files(category):
     """Files in the category plus one level of useful sub-folders, tagged with the folder's name."""
     files = [(t, '') for t in members(category, 'file')]
+    few = len(files) < 40  # a thin folder keeps its photos in sub-folders: look in all of them
     for sub in members(category, 'subcat')[:25]:
         hint = sub.split(':', 1)[1]
-        if re.search(r'(interior|exterior|detail|facade|stair|roof|aerial|night|plan|model|garden|courtyard|views?)', hint, re.I):
+        if few or re.search(r'(interior|exterior|detail|facade|stair|roof|aerial|night|plan|section|elevation|drawing|sketch|model|maquette|garden|courtyard|views?)', hint, re.I):
             files += [(t, hint) for t in members(sub, 'file')[:80]]
     seen, uniq = set(), []
     for t, h in files:
@@ -189,10 +203,11 @@ def batches(titles, n=50, chars=4000):
 def infos(titles):
     out = {}
     for group in batches(titles):
-        q = api(CM, action='query', titles='|'.join(group), prop='imageinfo', iiprop='url|size|mime|extmetadata', iiurlwidth=1280)
+        q = api(CM, action='query', titles='|'.join(group), prop='imageinfo|categories', iiprop='url|size|mime|extmetadata',
+                iiurlwidth=1280, clshow='!hidden', cllimit='max')
         for p in q.get('query', {}).get('pages', []):
             if 'imageinfo' in p:
-                out[p['title']] = p['imageinfo'][0]
+                out[p['title']] = {**p['imageinfo'][0], 'cats': ' '.join(c['title'] for c in p.get('categories', []))}
     return out
 
 
@@ -202,10 +217,18 @@ def strip(v):
     return html.unescape(re.sub(r'<[^>]+>', ' ', str(v))).strip()
 
 
-def describe(title, hint, meta):
-    text = ' '.join([title, hint, strip(meta.get('ImageDescription'))[:300]])
+PHOTO_OF = re.compile(r'(looking (north|south|east|west|up|down)|photograph)', re.I)  # "front elevation, looking north" is a photo
+
+
+def describe(title, hint, meta, cats='', city=''):
+    named = ' '.join([title, hint, cats])  # a drawing must say so in its name or folders, not just in passing
+    if city:  # Farnsworth House is in Plano: a town's name isn't a plan
+        named = re.sub(r'\b' + re.escape(city) + r'\b', ' ', named, flags=re.I)
+    text = ' '.join([named, strip(meta.get('ImageDescription'))[:300]])
     for name, rx in KINDS:
-        if rx.search(text):
+        if name in DRAWINGS and PHOTO_OF.search(title):
+            continue
+        if rx.search(named if name in DRAWINGS else text):
             return name
     return 'Exterior'
 
@@ -218,7 +241,7 @@ def caption(kind, meta, b):
     return f'{kind} · {d.rstrip(".")}'
 
 
-JUNK = re.compile(r'(\bsign(post|board)?\b|plaque|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster)', re.I)
+JUNK = re.compile(r'(\bsign(post|board|age)?s?\b|plaque|cartello|panneau|schild\b|ticket|\bcars?\b|peugeot|bmw|\bbus\b|selfie|concert|festival|protest|crowd|wedding|portrait|meeting|conference|lecture|exhibition poster|tribute|minister|secretary|ceremony|summit|delegation|inaugurat)', re.I)
 
 
 def score(info, b=None, title=''):
@@ -235,7 +258,7 @@ def score(info, b=None, title=''):
     return s
 
 
-def eligible(b, files, info, skip=(), boost=()):
+def eligible(b, files, info, skip=(), boost=(), soft=()):
     """Free, large-enough photos from the candidates, scored."""
     pool = []
     for t, hint in files:
@@ -244,18 +267,45 @@ def eligible(b, files, info, skip=(), boost=()):
             continue
         meta = i.get('extmetadata', {})
         lic = strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms'))
-        if i.get('mime') not in ('image/jpeg', 'image/png') or max(i.get('width', 0), i.get('height', 0)) < 1200:
+        kind = KIND_FIX.get(t) or describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
+        drawing = kind in DRAWINGS
+        if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif') if drawing else ('image/jpeg', 'image/png')):
+            continue
+        if max(i.get('width', 0), i.get('height', 0)) < (700 if drawing else SMALL_PX):
             continue
         if not OK_LICENSE.search(lic) or i.get('size', 0) > 45_000_000:
             continue
-        pool.append({'title': t, 'info': i, 'kind': describe(t, hint, meta), 'score': score(i, b, t) + (100 if t in boost else 0),
+        pool.append({'title': t, 'info': i, 'kind': kind, 'score': score(i, b, t) + (100 if t in boost else 0) + (3 if t in soft else 0), 'soft': t in soft,
                      'credit': strip(meta.get('Artist'))[:100] or strip(meta.get('Credit'))[:100], 'license': lic})
+    big = lambda p: max(p['info'].get('width', 0), p['info'].get('height', 0)) >= MIN_PX
+    if any(big(p) for p in pool if p['kind'] not in DRAWINGS):  # small photos only when there's nothing bigger
+        pool = [p for p in pool if p['kind'] in DRAWINGS or big(p)]
     pool.sort(key=lambda p: -p['score'])
     return pool
 
 
-def choose(b, files, info, skip, boost=()):
-    pool = eligible(b, files, info, skip, boost)
+# labels corrected by hand (tools/image_review.json, applied by tools/apply_image_review.py)
+HAND_REVIEW = ROOT / 'tools' / 'image_review.json'
+KIND_FIX = json.loads(HAND_REVIEW.read_text(encoding='utf-8')).get('kinds', {}) if HAND_REVIEW.exists() else {}
+
+
+# a lead should show the building, not the street or river it stands by
+SURROUNDINGS = re.compile(r'(avenue|boulevard|\bstreet\b|\brue\b|\bcalle\b|stra(ss|ß)e|bridges?\b|skyline|panorama|cityscape|view (from|of the city)|seen from|'
+                          r'river|quay|harbou?r|waterfront|aerial|from above)', re.I)
+
+
+def lead_score(p, b):
+    """How good a photo is as the wall tile: a clear view of this building's outside, preferably big."""
+    i = p['info']
+    long = max(i.get('width', 0), i.get('height', 0))
+    text = p['title'] + ' ' + strip(i.get('extmetadata', {}).get('ImageDescription'))[:300]
+    names = fits(b, text)
+    return (p['score'] + (2 if long >= LEAD_PX else 0) - (4 if long < 1600 else 0)
+            + (4 if names else 0) + (3 if p.get('soft') else 0) - (0 if names else 6 if SURROUNDINGS.search(text) else 0))
+
+
+def choose(b, files, info, skip, boost=(), soft=(), keep=None):
+    pool = eligible(b, files, info, skip, boost, soft)
     picks, per_author, stems, kinds = [], {}, {}, {}
 
     def stem_of(p):
@@ -270,18 +320,45 @@ def choose(b, files, info, skip, boost=()):
         stems[stem_of(p)] = stems.get(stem_of(p), 0) + 1
         kinds[p['kind']] = kinds.get(p['kind'], 0) + 1
 
-    # one of each kind first (an exterior leads), then fill by score within each kind's cap
-    for want in ['Exterior', 'Interior', 'Detail', 'Context', 'Interior', 'Exterior', 'Drawing']:
-        p = next((p for p in pool if p['kind'] == want and kinds.get(want, 0) < WANT[want] and ok(p)), None)
+    # the lead: the current one while it's sharp enough on the wall, else the best big view of the outside
+    kept = next((p for p in pool if p['title'] == keep and p['kind'] not in DRAWINGS), None)
+    outside = sorted((p for p in pool if p['kind'] == 'Exterior'), key=lambda p: -lead_score(p, b))
+    if kept and max(kept['info'].get('width', 0), kept['info'].get('height', 0)) >= KEEP_PX:
+        take(kept)
+    elif outside:
+        take(outside[0])
+    # then one of each photo kind, then fill by score within each kind's cap
+    photos = [p for p in pool if p['kind'] not in DRAWINGS]
+    for want in ['Interior', 'Detail', 'Context', 'Interior', 'Exterior']:
+        p = next((p for p in photos if p['kind'] == want and kinds.get(want, 0) < WANT[want] and ok(p)), None)
         if p:
             take(p)
-    for p in pool:
+    for p in photos:
         if len(picks) >= MAX_PICKS:
             break
         if kinds.get(p['kind'], 0) < WANT[p['kind']] + 1 and ok(p):
             take(p)
-    order = {'Exterior': 0, 'Interior': 1, 'Detail': 2, 'Context': 3, 'Drawing': 4}
+    # drawings and models: one of each kind, up to MAX_DRAWINGS, on top of the photos
+    n = 0
+    for want in DRAWINGS:
+        p = next((p for p in pool if p['kind'] == want and ok(p)), None)
+        if p and n < MAX_DRAWINGS:
+            take(p)
+            n += 1
+    order = {'Exterior': 0, 'Interior': 1, 'Detail': 2, 'Context': 3, **{k: 4 + i for i, k in enumerate(DRAWINGS)}}
     return picks[:1] + sorted(picks[1:], key=lambda p: order[p['kind']])
+
+
+def drawings(pool, picks):
+    """One of each drawing kind the picks don't have yet, up to MAX_DRAWINGS in all."""
+    have, out = {p['title'] for p in picks}, []
+    n = sum(p['kind'] in DRAWINGS for p in picks)
+    for want in DRAWINGS:
+        p = next((p for p in pool if p['kind'] == want and p['title'] not in have), None)
+        if p and n < MAX_DRAWINGS and not any(q['kind'] == want for q in picks):
+            out.append(p)
+            n += 1
+    return out
 
 
 def picked(b, ch):
@@ -388,9 +465,28 @@ def write_review(items):
                       + ''.join(rows))
 
 
+LEADS = ROOT / 'tools' / 'lead_changes.json'
+
+
+def write_lead_review(changed):
+    """Old and new lead photo side by side, for every building whose lead changed (kept across runs)."""
+    log = json.loads(LEADS.read_text()) if LEADS.exists() else {}
+    for b, old, new in changed:
+        log[b['id']] = {'name': b['name'], 'old': old, 'new': new}
+    LEADS.write_text(json.dumps(log, ensure_ascii=False, indent=1) + '\n')
+    thumb = lambda f: 'https://commons.wikimedia.org/wiki/Special:FilePath/' + urllib.parse.quote(f.split(':', 1)[1]) + '?width=360'
+    rows = ''.join(f'<tr><td>{html.escape(v["name"])}</td><td><img src="{thumb(v["old"])}" loading="lazy"></td>'
+                   f'<td><img src="{thumb(v["new"])}" loading="lazy"></td></tr>' for v in log.values() if v['old'] and v['new'])
+    (ROOT / 'tools' / 'lead_review.html').write_text(
+        '<!doctype html><meta charset="utf-8"><title>Lead photo changes</title><style>body{font:13px system-ui;margin:24px}'
+        'img{width:360px;height:240px;object-fit:cover}td{padding:6px;vertical-align:top}</style>'
+        f'<h1>Lead photo changes ({len(log)})</h1><table><tr><th>Building</th><th>Before</th><th>After</th></tr>{rows}</table>')
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--force', action='store_true')
+    ap.add_argument('--upgrade', action='store_true', help='redo galleries made before GALLERY_VERSION; resumable with --minutes')
     ap.add_argument('--only', default='')
     ap.add_argument('--minutes', type=float, default=0, help='stop starting new buildings after this long')
     ap.add_argument('--probe', action='store_true', help='list candidate categories instead of downloading')
@@ -399,7 +495,7 @@ def main():
     only = set(filter(None, args.only.split(',')))
     choices = json.loads(CHOICES.read_text()) if CHOICES.exists() else {}
     head, items = load()
-    thin = []
+    thin, changed = [], []
     started = time.time()
     if args.probe:
         report = []
@@ -435,7 +531,10 @@ def main():
     for b in items:
         if only and b['id'] not in only:
             continue
-        if 'images' in b and not args.force and not only:  # [] means no free photos were found
+        if args.upgrade:
+            if b.get('gv') == GALLERY_VERSION:
+                continue
+        elif 'images' in b and not args.force and not only:  # [] means no free photos were found
             continue
         if args.minutes and time.time() - started > args.minutes * 60:
             print(f'\nStopping after {args.minutes:g} minutes; run again to continue.')
@@ -446,24 +545,36 @@ def main():
             auto, lead = commons_category(b)
             cat = ch.get('category') or auto
             print('    category:', cat, '| lead:', lead)
-            add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else [])
+            old_lead = (b.get('images') or [{}])[0].get('file')
+            add = ch.get('add', []) + ([lead] if lead and lead not in ch.get('skip', []) else []) + ([old_lead] if old_lead else [])
             files = sum((candidate_files(c) for c in [cat] + ch.get('more', []) if c), []) + [(t, '') for t in add]
             if 'pick' in ch:  # an empty pick means no suitable free photos
                 picks = picked(b, ch)
+                if any(p['kind'] not in DRAWINGS for p in picks):  # keep the hand-picked photos; add the folder's drawings and models on top
+                    picks += drawings(eligible(b, files, infos([t for t, _ in files]), set(ch.get('skip', []))), picks)
             else:
-                picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(add))
-            for t in ([] if 'pick' in ch else reversed(add)):  # files added by hand, then Wikipedia's lead photo, go first
+                # files added by hand win outright; Wikipedia's lead photo only gets a nudge, so a bigger,
+                # clearer view of the outside can still lead (it once put a church in front of the Millau Viaduct)
+                picks = choose(b, files, infos([t for t, _ in files]), set(ch.get('skip', [])), set(ch.get('add', [])), {lead} if lead else set(),
+                               None if ch.get('relead') else old_lead)
+            for t in ([] if 'pick' in ch else reversed(ch.get('add', []))):  # files added by hand go first
                 p = next((p for p in picks if p['title'] == t), None)
                 if p:
                     picks.remove(p)
                     picks.insert(0, p)
+            if not picks and b.get('images'):  # nothing usable now: keep what's there (photos, or our drawing)
+                print('    no free photos found; keeping the current gallery')
+                b['gv'] = GALLERY_VERSION
+                save(head, items)
+                continue
             folder = IMG / b['id']
             for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
                 f.unlink()
             # The first hundred host their photos; later buildings host only the small wall
             # thumbnail and show the full photo from Wikimedia, to stay under the Pages size limit.
             hot = b.get('hotlink', False)
-            picks = picks[:HOT_PICKS if hot else MAX_PICKS]
+            photos = [p for p in picks if p['kind'] not in DRAWINGS][:HOT_PICKS if hot else MAX_PICKS]
+            picks = photos + [p for p in picks if p['kind'] in DRAWINGS][:MAX_DRAWINGS]
             def get(kp):
                 k, p = kp
                 url = p['info'].get('thumburl') or p['info']['url']
@@ -476,8 +587,13 @@ def main():
                 images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
-            b['images'] = images
+            own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover,
+            b['images'] = images + own if b.get('photo_first') and images else own + images  # or follows a small photo
             b['commons'] = cat
+            b['has'] = [k for k in DRAWINGS if any(i['kind'] == k for i in images)]  # for a drawings filter
+            b['gv'] = GALLERY_VERSION
+            if images and old_lead and images[0]['file'] != old_lead:
+                changed.append((b, old_lead, images[0]['file']))
             print(f'    {len(images)} photos: ' + ', '.join(i['kind'] for i in images))
             if len(images) < MIN_PICKS:
                 thin.append(f"{b['name']} ({len(images)})")
@@ -486,6 +602,8 @@ def main():
             thin.append(f"{b['name']} (error)")
         save(head, items)
     write_review(items)
+    if changed:
+        write_lead_review(changed)
     print(f'\nDone. Review the galleries in {REVIEW.relative_to(ROOT)}.')
     if thin:
         print(f'{len(thin)} with fewer than {MIN_PICKS} free photos:\n  ' + '\n  '.join(thin))
