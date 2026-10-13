@@ -174,5 +174,535 @@
    "https://en.wikipedia.org/wiki/German_Maritime_Museum"
   ],
   "note": "Wikipedia: building 'planned by Hans Scharoun', opened 5 September 1975 (Scharoun died in 1972, so it was completed after his death). The 2000s extension by Dietrich Bangert is a separate building; the photos chosen show the Scharoun building. 'Last building' is general knowledge; check."
+ },
+ {
+  "id": "berlin-musical-instrument-museum",
+  "name": "Berlin Musical Instrument Museum",
+  "by": "Edgar Wisniewski, after designs by Hans Scharoun",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1984",
+  "type": "Museum",
+  "movement": "Expressionism",
+  "concepts": [
+   "Free plan",
+   "Promenade",
+   "Section"
+  ],
+  "features": "Scharoun's open, terraced museum landscape of stairs and galleries, beside his Philharmonie at the Kulturforum.",
+  "award": "German modern (Scharoun)",
+  "status": "photo",
+  "commons_category": "Category:Musikinstrumentenmuseum (Berlin)",
+  "photos": [
+   {
+    "file": "File:Berlin Musikinstrumentenmuseum 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin Musikinstrumentenmuseum 02.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:State Institute for Music Research.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Musical_Instrument_Museum"
+  ],
+  "note": "Wikipedia: building constructed 1979-1984 by Edgar Wisniewski after designs by Hans Scharoun; shared with the State Institute for Music Research. Interiors (File:Berlin Musikinstrumentenmuseum 2.jpg, 3.jpg, CC BY 3.0) show the terraced hall well."
+ },
+ {
+  "id": "kanzlerbungalow",
+  "name": "Kanzlerbungalow",
+  "by": "Sep Ruf",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1964",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "Flat-roofed glass pavilion for West Germany's chancellors: two square courtyard wings set low in a park.",
+  "award": "German modern",
+  "status": "photo",
+  "commons_category": "Category:Kanzlerbungalow",
+  "photos": [
+   {
+    "file": "File:Kanzlerbungalow.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2012-03-27 Bonn Kanzlerbungalow.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kanzlerbungalow2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bungalow",
+   "https://en.wikipedia.org/wiki/Federal_Chancellery_of_Germany",
+   "https://en.wikipedia.org/wiki/Sep_Ruf"
+  ],
+  "note": "No English article of its own. Wikipedia: by Sep Ruf, the chancellor's residence 1964-1999. 1964 is the year it came into use; the aerial photo (Kanzlerbungalow2.jpg) shows the two square courtyard wings. Photos are in year subcategories (in 2009, 2010, 2012)."
+ },
+ {
+  "id": "bundestag-plenary-building-bonn",
+  "name": "Plenary Building of the Bundestag, Bonn",
+  "by": "Behnisch & Partner (Günter Behnisch)",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Glass parliament for democracy on view: transparent walls, a light steel roof and a sunken round chamber by the Rhine.",
+  "award": "German contemporary (Behnisch)",
+  "status": "photo",
+  "commons_category": "Category:Plenargebäude (Bundeshaus, Bonn)",
+  "photos": [
+   {
+    "file": "File:2015-09-27-wccb-55.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bonn 0144.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bonn 0143.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Behnisch & Partner Model Bundesbauten Bonn 1991.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Bundeshaus_(Bonn)"
+  ],
+  "note": "Wikipedia (Behnisch): 'Plenary Complex of the German Parliament', 1987-92, Bonn; competition won in 1973. Used by the Bundestag only until 1999; now part of the World Conference Center Bonn. The sunken round chamber is from general knowledge; the interior photos are in Category:Interior of Plenargebäude (Bundeshaus, Bonn)."
+ },
+ {
+  "id": "kunstmuseum-basel-new-building",
+  "name": "Kunstmuseum Basel, New Building",
+  "by": "Christ & Gantenbein",
+  "city": "Basel",
+  "cc": "CH",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "Angular block faced in grey concrete bricks, kept to the old museum's height; a lettering frieze is set into the wall.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Basel (Neubau)",
+  "photos": [
+   {
+    "file": "File:Neubau des Kunstmuseums in Basel 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neubau des Kunstmuseums in Basel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basler Kunstmuseum mit Neubau (links).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Basel"
+  ],
+  "note": "Wikipedia: 'an angled building, faced with concrete bricks', same height as the original museum, completed April 2016, by Christ & Gantenbein after a competition."
+ },
+ {
+  "id": "schaulager",
+  "name": "Schaulager",
+  "by": "Herzog & de Meuron",
+  "city": "Münchenstein",
+  "cc": "CH",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "Art warehouse walled in concrete mixed with gravel from the site; a white funnel-shaped forecourt cuts in.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Schaulager",
+  "photos": [
+   {
+    "file": "File:Le Schaulager (Bâle, Suisse) (21682492191).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:2007-02-11-Schaulager-Basel-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Entree of the Schaulager museum, Münchenstein, 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schaulager"
+  ],
+  "note": "Wikipedia: built 2002/2003 for the Laurenz Foundation, designed by Herzog & de Meuron, opened 2003, 'an open warehouse' for storing art. The excavated-gravel walls are general knowledge, not in the article; trim if in doubt."
+ },
+ {
+  "id": "monte-rosa-hut",
+  "name": "New Monte Rosa Hut",
+  "by": "Andrea Deplazes (ETH Zurich)",
+  "city": "Zermatt",
+  "cc": "CH",
+  "year": "2009",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Prefabrication",
+   "Timber"
+  ],
+  "features": "Five-storey polygonal mountain hut in an aluminium shell, with a spiral timber interior, nearly energy self-sufficient.",
+  "award": "Swiss German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Neue Monte-Rosa-Hütte",
+  "photos": [
+   {
+    "file": "File:Neue Monte Rosa Hütte in summer 2016 front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neue Monte Rosa Huette2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New Monte Rosa Hut in Monte Rosa massif.jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monte_Rosa_Hut"
+  ],
+  "note": "Wikipedia: designed by Andrea Deplazes of ETH Zurich, inaugurated 2009 at 2,883 m above the Grenzgletscher; prefabricated, flown up in 3,000 helicopter trips. Interior photo: File:Neue Monte Rosa Huette4.JPG (CC BY-SA 3.0). City is the nearest town; the hut is on the Monte Rosa massif."
+ },
+ {
+  "id": "deutsches-architekturmuseum",
+  "name": "Deutsches Architekturmuseum (DAM)",
+  "by": "Oswald Mathias Ungers",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1984",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "A 19th-century villa gutted and rebuilt inside as a 'house within a house': a gridded white shell rising through it.",
+  "award": "German postmodern (Ungers)",
+  "status": "photo",
+  "commons_category": "Category:Deutsches Architekturmuseum",
+  "photos": [
+   {
+    "file": "File:DAM 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Deutsches Architekturmuseum Frankfurt (Hessen) a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frankfurt Deutsches Architektur Museum.20130603.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deutsches_Architekturmuseum",
+   "https://en.wikipedia.org/wiki/Oswald_Mathias_Ungers"
+  ],
+  "note": "Wikipedia: housed in an 18th/19th-century villa; Ungers redesigned the interior (1979-1984) as 'elemental Platonic buildings within elemental Platonic buildings'. Interior views DAM 02.jpg and DAM 13.jpg (CC BY-SA 4.0) show the house-within-a-house well; the lead photo shows the street front with Ungers' red sandstone arcade."
+ },
+ {
+  "id": "museum-brandhorst",
+  "name": "Museum Brandhorst",
+  "by": "Sauerbruch Hutton",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2009",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Facade of 36,000 vertical ceramic louvres in 23 coloured glazes that blend into one shimmering surface from afar.",
+  "award": "German contemporary (Sauerbruch Hutton)",
+  "status": "photo",
+  "commons_category": "Category:Museum Brandhorst",
+  "photos": [
+   {
+    "file": "File:Brandhorst-Museum - Panorama.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum Brandhorst außen2a.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Museum Brandhorst June 2014 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_Brandhorst",
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton"
+  ],
+  "note": "Wikipedia: opened 21 May 2009; 36,000 vertical ceramic louvres in 23 glazes. Facade close-up: File:Museum Brandhorst Fassadendetail 2.jpg (CC BY 3.0)."
+ },
+ {
+  "id": "gsw-headquarters",
+  "name": "GSW Headquarters",
+  "by": "Sauerbruch Hutton",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Colour",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Thin curved slab added to a 1950s tower; its west double facade of pink and orange shading panels ventilates it.",
+  "award": "German contemporary (Sauerbruch Hutton)",
+  "status": "photo",
+  "commons_category": "Category:GSW-Building",
+  "photos": [
+   {
+    "file": "File:GSW-Hochhaus-Maerz-2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kochstraße 22, at Charlottenstraße, Berlin.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin - GSW Hauptverwaltung.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+   "https://commons.wikimedia.org/wiki/Category:GSW-Building"
+  ],
+  "note": "Wikipedia lists 'GSW Headquarters', Berlin, 1999; Commons file descriptions give 82 m height and a double glass facade. Natural ventilation through the double facade is general knowledge of the building; check before publishing."
+ },
+ {
+  "id": "german-environment-agency-dessau",
+  "name": "German Environment Agency (Umweltbundesamt), Dessau",
+  "by": "Sauerbruch Hutton",
+  "city": "Dessau-Roßlau",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Colour",
+   "Adaptive reuse"
+  ],
+  "features": "Long curving office ring in timber and coloured glass bands around a glazed atrium, on a former rail-works site.",
+  "award": "German contemporary (Sauerbruch Hutton)",
+  "status": "photo",
+  "commons_category": "Category:Umweltbundesamt (Dessau headquarters)",
+  "photos": [
+   {
+    "file": "File:Umweltbundesamt Dessau, Rückseite.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Umweltbundesamt Dessau 2011.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Umweltbundesamt Dessau.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+   "https://commons.wikimedia.org/wiki/Category:Umweltbundesamt_(Dessau_headquarters)"
+  ],
+  "note": "Wikipedia lists 'Federal Environmental Agency', Dessau, 2005. The ring plan, atrium and rail-works site are general knowledge, consistent with the photos (old brick station buildings beside it); check before publishing."
+ },
+ {
+  "id": "jacob-and-wilhelm-grimm-centre",
+  "name": "Jacob and Wilhelm Grimm Centre",
+  "by": "Max Dudler",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2009",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "University library behind a rigid grid of narrow stone piers; inside, reading terraces step around a top-lit hall.",
+  "award": "German contemporary (Max Dudler)",
+  "status": "photo",
+  "commons_category": "Category:Jacob-und-Wilhelm-Grimm-Zentrum (Berlin)",
+  "photos": [
+   {
+    "file": "File:Mitte Planckstraße Jacob-und Wilhelm-Grimm-Zentrum-001.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mitte Geschwister-Scholl-Straße Jacob-und Wilhelm-Grimm-Zentrum.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jacob-und-Wilhelm-Grimm-Zentrum 1 Apel Denis CC.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Max_Dudler",
+   "https://en.wikipedia.org/wiki/2009_in_architecture"
+  ],
+  "note": "Humboldt University's central library. Wikipedia (Max Dudler) lists it 2009. Reading-room photos: File:Grimm-Zentrum-Lesesaal.jpg and File:Jacob-und-Wilhelm-Grimm-Zentrum-005.JPG (CC BY-SA 3.0) show the terraced hall."
+ },
+ {
+  "id": "tour-total-berlin",
+  "name": "Tour Total (Jean-Monnet-Tower)",
+  "by": "Barkow Leibinger",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "69 m office tower wrapped in a grid of faceted precast-concrete fins that shift with the light.",
+  "award": "German contemporary (Barkow Leibinger)",
+  "status": "photo",
+  "commons_category": "Category:Jean-Monnet-Tower",
+  "photos": [
+   {
+    "file": "File:Moabit Tour Total.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin 20260711 Jean-Monnet-Tower.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Total (19378398833).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Jean-Monnet-Tower"
+  ],
+  "note": "No English Wikipedia article (en 'Tour Total' is the Paris tower). Architect, 2012 opening and 69 m height from the Commons category's Wikidata infobox. Faceted precast fins: general knowledge, visible in File:Berlin moabit tour total 19.01.2013 12-57-46 ShiftN.jpg; check. Now branded TotalEnergies."
  }
 ]

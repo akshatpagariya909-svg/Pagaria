@@ -1,0 +1,85 @@
+[
+ {
+  "id": "blues-point-tower",
+  "name": "Blues Point Tower",
+  "by": "Harry Seidler",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1962",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Lone 24-storey tower of 144 flats, meant as the forerunner of high-density housing on McMahons Point.",
+  "award": "Harry Seidler",
+  "status": "photo",
+  "commons_category": "Category:Blues Point Tower",
+  "photos": [
+   {
+    "file": "File:Blues Point Tower September 2012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blues Point Tower.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blues_Point_Tower",
+   "https://en.wikipedia.org/wiki/Harry_Seidler"
+  ],
+  "note": "Wikipedia: construction finished late 1961 and first residents moved in 1962; 1962 used. Long called one of Sydney's ugliest buildings, which makes it a good discussion piece."
+ },
+ {
+  "id": "grosvenor-place-sydney",
+  "name": "Grosvenor Place",
+  "by": "Harry Seidler & Associates",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1988",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Free plan",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "44-storey tower with column-free 2,000 m² floors; a diagonal walk passes two kept heritage buildings.",
+  "award": "Sulman Medal 1991",
+  "status": "photo",
+  "commons_category": "Category:Grosvenor Place (skyscraper)",
+  "photos": [
+   {
+    "file": "File:Grosvenor Place (Sydney).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:(1)Grosvenor Place-5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grosvenor Place Sydney 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grosvenor_Place_(Sydney)",
+   "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal"
+  ],
+  "note": "Photos are steep upward views; the first shows the curved tower and its splayed base columns best."
+ }
+]

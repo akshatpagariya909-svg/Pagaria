@@ -13,7 +13,7 @@
    "Geometry",
    "Landscape"
   ],
-  "features": "White stucco walls with grey-tile trim, diamond and circle windows framing gardens, as in Suzhou.",
+  "features": "White walls with grey trim and diamond-patterned openings that frame garden views, after Suzhou houses.",
   "award": "China: I. M. Pei in China",
   "status": "photo",
   "commons_category": "Category:Fragrant Hill Hotel",
@@ -41,7 +41,7 @@
    "https://en.wikipedia.org/wiki/I._M._Pei",
    "https://commons.wikimedia.org/wiki/Category:Fragrant_Hill_Hotel"
   ],
-  "note": "No own English Wikipedia article (redirects to I. M. Pei). Year 1982 from the Pei article and the Commons descriptions. Pei's first building in China; second photo is the entrance front with a car park."
+  "note": "No own English Wikipedia article (redirects to I. M. Pei). Pei began it in 1978 and it opened 17 October 1982; Wikipedia says he sought a third way between modernism and imitation of tradition, with a glass-roofed central atrium. Pei's first building in China. Second photo is the entrance front with a car park."
  },
  {
   "id": "sun-yat-sen-mausoleum",
@@ -575,5 +575,1455 @@
    "https://en.wikipedia.org/wiki/Sheraton_Huzhou_Hot_Spring_Resort"
   ],
   "note": "Completed October 2013. Wikipedia is inconsistent on floors (27 in the infobox, 10 in the lead), so floors are left out. Nicknamed the Horseshoe Hotel."
+ },
+ {
+  "id": "beijing-daxing-airport-terminal",
+  "name": "Beijing Daxing International Airport Terminal",
+  "by": "Zaha Hadid Architects, ADPI",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2019",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Megastructure"
+  ],
+  "features": "Starfish plan: six curved piers radiate from a central hub, among the world's largest single terminals.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Aerial photographs of Beijing Daxing International Airport",
+  "photos": [
+   {
+    "file": "File:北京大兴机场航站楼, 2023-02-20 (1).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:北京大兴机场航站楼, 2023-02-20.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport"
+  ],
+  "note": "Opened 25 September 2019; 700,000 m2. Wikipedia credits Zaha Hadid Architects with French planners ADPI; BIAD executed the design. Both photos are aerial views from a plane, which show the starfish plan; I did not find a good ground-level exterior. Main category is Category:Beijing Daxing International Airport."
+ },
+ {
+  "id": "shenzhen-stock-exchange",
+  "name": "Shenzhen Stock Exchange",
+  "by": "OMA",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Plain square tower whose wide podium is lifted high off the ground, sheltering a plaza beneath.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Shenzhen Stock Exchange",
+  "photos": [
+   {
+    "file": "File:Shenzhen Stock Exchange 2014.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shenzhen Stock Exchange 1-2014.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shenzhen Stock Exchange in Shenzhen GuangDong China.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shenzhen Stock Exchange Building 20160307.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange"
+  ],
+  "note": "Built 2008-2013; 245.8 m, 49 floors. Wikipedia names OMA partners Rem Koolhaas, David Gianotten, Ellen van Loon and Shohei Shigematsu. The raised podium is described from the photos (Wikipedia does not mention it). Last photo looks up at the podium's underside."
+ },
+ {
+  "id": "central-government-complex-tamar",
+  "name": "Central Government Complex, Tamar",
+  "by": "Rocco Yim (Rocco Design Architects)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2011",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Two towers joined at the top to frame a giant open door, with a park running through to the harbour.",
+  "award": "Hong Kong: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Central Government Offices (Tamar)",
+  "photos": [
+   {
+    "file": "File:Central Government Offices.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Government Offices and Legislative Council of the Hong Kong Special Administrative Region 19-09-2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Government Offices and Legislative Council of the Hong Kong Special Administrative Region 14-01-2023(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Government_Complex_(Hong_Kong)"
+  ],
+  "note": "In use from 2011. Wikipedia: massing based on the idea of a door always open; Tamar Park passes through to the waterfront. The towers joined at the top are described from the photos. Rocco Yim's Hong Kong Palace Museum is already on the wall."
+ },
+ {
+  "id": "jardine-house",
+  "name": "Jardine House",
+  "by": "Palmer and Turner",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "52-storey tower clad in a grid of round windows, which let the structural frame be thinner.",
+  "award": "Hong Kong: modern",
+  "status": "photo",
+  "commons_category": "Category:Jardine House",
+  "photos": [
+   {
+    "file": "File:HK 中環 Central Jardine House facade blue sky July 2020 SS2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jardine House (30913565151).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:A thousand... (5805101476).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jardine_House"
+  ],
+  "note": "Completed 1973, 178.5 m; once the tallest building in Hong Kong and Asia. First photo shows the whole tower from below; the other two are close-ups of the round-window facade."
+ },
+ {
+  "id": "xiqu-centre",
+  "name": "Xiqu Centre",
+  "by": "Revery Architecture, Ronald Lu and Partners",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Chinese opera house wrapped in a curved skin of fins, its corners pulled open like a stage curtain.",
+  "award": "Hong Kong: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Xiqu Centre",
+  "photos": [
+   {
+    "file": "File:Xiqu Centre 25-04-2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xiqu_Centre"
+  ],
+  "note": "Opened 20 January 2019, in the West Kowloon Cultural District. Only one usable exterior photo on Commons (8064px, a bus partly in front). The facade description is from the photo; Wikipedia does not describe it."
+ },
+ {
+  "id": "great-bamboo-wall-house",
+  "name": "Great (Bamboo) Wall House",
+  "by": "Kengo Kuma",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2002",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Light & shadow",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Long low house screened by walls of thin bamboo poles, following the slope near the Great Wall.",
+  "award": "China: Kengo Kuma in China (Commune by the Great Wall)",
+  "status": "photo",
+  "commons_category": "Category:Commune by the Great Wall",
+  "photos": [
+   {
+    "file": "File:Commune by the great wall3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bamboo House designed by Kengo Kuma at Commune by the Great Wall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kengo_Kuma",
+   "https://en.wikipedia.org/wiki/Commune_by_the_Great_Wall"
+  ],
+  "note": "Part of the Commune by the Great Wall, villas by twelve Asian architects shown at the 2002 Venice Biennale. Year 2002 from the Kengo Kuma article. Only one exterior photo, 1200x900 (passes the 800px rule); the second photo is the interior bamboo tea room, so the owner may want only the first."
+ },
+ {
+  "id": "hong-kong-cultural-centre",
+  "name": "Hong Kong Cultural Centre",
+  "by": "José Lei (Architectural Services Department)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Windowless tiled halls with a great sweeping curved roof, on the harbour beside the old clock tower.",
+  "award": "Hong Kong: modern",
+  "status": "photo",
+  "commons_category": "Category:Hong Kong Cultural Centre",
+  "photos": [
+   {
+    "file": "File:Hong Kong Cultural Centre 201408.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cultural Centre Kowloon; 2009.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:HK Cultral Centre 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:202602 Hong Kong Cultural Centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Cultural_Centre"
+  ],
+  "note": "Opened 8 November 1989. Wikipedia names the Public Works Department chief architect José Lei. The windowless walls and curved roof are described from the photos; Wikipedia does not describe the exterior."
+ },
+ {
+  "id": "hong-kong-design-institute",
+  "name": "Hong Kong Design Institute",
+  "by": "Coldefy & Associés (CAAU)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Glass box held seven storeys up on four towers of white steel lattice, over an open public ground.",
+  "award": "Hong Kong: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Hong Kong Design Institute",
+  "photos": [
+   {
+    "file": "File:Hong Kong Design Institute Campus 201009.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hong Kong Design Institute 2020 10 part1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hong Kong Design Institute.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:HKDI 201001.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Design_Institute"
+  ],
+  "note": "Opened autumn 2010 after a 2006 competition. Wikipedia credits Coldefy & Associés, while its Dezeen source names the firm CAAU; check the credit."
+ },
+ {
+  "id": "oriental-pearl-tower",
+  "name": "Oriental Pearl Tower",
+  "by": "East China Architectural Design Institute",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1994",
+  "type": "Infrastructure",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "468 m TV tower: three pillars carry pink-glazed spheres strung up the shaft like pearls on a plate.",
+  "award": "China: reform era",
+  "status": "photo",
+  "commons_category": "Category:Oriental Pearl Tower",
+  "photos": [
+   {
+    "file": "File:2014.11.16.144847 Oriental Pearl Tower Shanghai.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2015 Oriental Pearl Tower, Pudong, Shanghai.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2010 Oriental Pearl Tower, Shanghai 01.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower"
+  ],
+  "note": "Completed 18 November 1994. Wikipedia's infobox gives Shanghai Modern Architectural Design Co. as architect, while the history section says the winning design (1988, from 12 entries) came from the East China Architectural Design Institute; check which credit the owner prefers. The pearls-on-a-plate image is from the Tang poem Pipa xing, as Wikipedia notes."
+ },
+ {
+  "id": "kaohsiung-music-center",
+  "name": "Kaohsiung Music Center",
+  "by": "Manuel Monteserín (MADE IN Architects)",
+  "city": "Kaohsiung",
+  "cc": "TW",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Water"
+  ],
+  "features": "Harbourfront music venues: two towers of stacked hexagonal lattice cells beside a low faceted hall.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Kaohsiung Music Center",
+  "photos": [
+   {
+    "file": "File:Kaohsiung Music Center 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaohsiung Music Center - KaohsiungMC4527.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:20190922 Kaohsiung Music Center-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaohsiung_Music_Center"
+  ],
+  "note": "Officially opened 31 October 2021. Wikipedia: designed by the Spanish team MADE IN Architects led by Manuel Monteserín; concert hall for 6,000 and amphitheatre for 10,000, six live houses (the Whales) with green roofs, and an exhibition centre under hexagonal structures. Second photo is at night with coloured lighting."
+ },
+ {
+  "id": "water-moon-monastery",
+  "name": "Water-Moon Monastery (Nung Chan Monastery)",
+  "by": "Kris Yao",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2012",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Courtyard"
+  ],
+  "features": "Long fair-faced concrete hall raised on columns, its screen wall pierced with scripture characters.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Nung Chan Monastery",
+  "photos": [
+   {
+    "file": "File:Nung Chan Monastery 005.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nung Chan Monastery 002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nung_Chan_Monastery"
+  ],
+  "note": "Wikipedia only says the monastery was reconstructed in 2012 by Kris Yao; it does not describe the building. The pierced screen of characters (the Heart Sutra, as published elsewhere) shows in the first photo; the well-known view across the reflecting pool is not among the Commons files I checked. Weak photos: the owner may prefer to wait for better ones."
+ },
+ {
+  "id": "taipei-music-center",
+  "name": "Taipei Music Center",
+  "by": "Reiser + Umemoto (RUR Architecture)",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2020",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Concert hall under a folded, crystalline metal roof, set apart from a cultural hall and production wing.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Taipei Music Center",
+  "photos": [
+   {
+    "file": "File:202409 臺北流行音樂中心表演廳 晚間景象A.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Music Center Concert Hall.jpg",
+    "license": "Attribution",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Music_Center"
+  ],
+  "note": "Opened 5 September 2020; Reiser + Umemoto won the design competition. The first photo is at night with coloured lighting. The second, a better daylight view, is tagged on Commons with the plain Attribution licence (free use with credit, not a CC licence); the owner should decide whether that counts."
+ },
+ {
+  "id": "shaanxi-history-museum",
+  "name": "Shaanxi History Museum",
+  "by": "Zhang Jinqiu",
+  "city": "Xi'an",
+  "cc": "CN",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Tang-dynasty style rebuilt with modern technology: a central hall with storeyed buildings at the corners.",
+  "award": "China: reform era",
+  "status": "photo",
+  "commons_category": "Category:Shaanxi History Museum",
+  "photos": [
+   {
+    "file": "File:2023-10-10 Shaanxi History Museum 陝西歷史博物館 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shaanxi History Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:陕西历史博物馆.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaanxi_History_Museum",
+   "https://en.wikipedia.org/wiki/Zhang_Jinqiu"
+  ],
+  "note": "Opened 20 June 1991 (built from 1983). The museum article names no architect; the Zhang Jinqiu article lists it among her works. Layout quote from Wikipedia: hall in centre, storied buildings in corners. Second photo is a wide panorama."
+ },
+ {
+  "id": "shanghai-museum",
+  "name": "Shanghai Museum",
+  "by": "Xing Tonghe",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Shaped like an ancient bronze ding: a round top over a square base, for round sky and square earth.",
+  "award": "China: reform era",
+  "status": "photo",
+  "commons_category": "Category:Shanghai Museum - Building",
+  "photos": [
+   {
+    "file": "File:2010 Shanghai Museum.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:20694-Shanghai (32225501024).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:2008 Shanghai People's Square- Shanghai Museum 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Museum building.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Museum"
+  ],
+  "note": "Inaugurated 12 October 1996 (built from 1993) on People's Square. The ding form and round-sky-square-earth idea are from Wikipedia."
+ },
+ {
+  "id": "1000-trees-shanghai",
+  "name": "1000 Trees",
+  "by": "Heatherwick Studio",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Two stepped mountains of shops and offices on the Suzhou Creek, with trees planted on top of the columns.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:1000 Trees",
+  "photos": [
+   {
+    "file": "File:1000 Trees 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1000 Trees 20251127 (II).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1000 Trees 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heatherwick_Studio"
+  ],
+  "note": "Wikipedia (Heatherwick Studio article): two mountain-like peaks with trees planted on the buildings; retail, office, events, gallery and hotel; completed in two phases, the first opened 2021. The trees on column tops and Suzhou Creek are from the photos. Type is a mixed-use complex; Workplace is the closest."
+ },
+ {
+  "id": "beijing-capital-airport-terminal-3",
+  "name": "Beijing Capital International Airport Terminal 3",
+  "by": "Foster + Partners, NACO, Arup",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Light from above",
+   "Megastructure",
+   "Colour"
+  ],
+  "features": "Vast terminal under a red roof pierced by dozens of triangular windows that bring in daylight.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Beijing Capital International Airport Terminal 3",
+  "photos": [
+   {
+    "file": "File:ZBAA T3E from 36R airborne (20250402094945).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:T3 of the Capital International Airport ,Beijing China - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing Capital Airport T3 20230825.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport"
+  ],
+  "note": "Fully open 26 March 2008; 986,000 m2, then the largest single-phase terminal. Wikipedia credits a consortium of NACO, Foster + Partners and Arup with the Beijing Institute of Architectural Design. First photo is aerial (from a plane); the others show the curved roof edge and the kerbside canopy with red columns."
+ },
+ {
+  "id": "tianjin-binhai-library",
+  "name": "Tianjin Binhai Library",
+  "by": "MVRDV, Tianjin Urban Planning and Design Institute",
+  "city": "Tianjin",
+  "cc": "CN",
+  "year": "2017",
+  "type": "Library",
+  "movement": "Parametric",
+  "concepts": [
+   "Void",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Terraced white shelves wave up the atrium around a luminous sphere, seen from the park through an eye-shaped opening.",
+  "award": "China: international architects",
+  "status": "drawn",
+  "commons_category": "Category:Tianjin Binhai Library",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: long louvred box with the eye-shaped opening and the auditorium sphere behind it",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tianjin_Binhai_Library",
+   "https://commons.wikimedia.org/wiki/Category:Tianjin_Binhai_Library"
+  ],
+  "note": "Opened October 2017. Commons has ten free photos (all CC0, up to 4000px) but every one I looked at is of the interior (shelves and sphere), none of the outside, so I drew the facade. Good interior photos if the owner wants them: File:Tianjin Binhai Library 1.jpg and File:Tianjin Binhai Library 4.jpg (CC0, seen). Simplified: louvre count and the exact size of the eye are approximate. Wikipedia also notes the upper shelves are unreachable and printed with fake book spines."
+ },
+ {
+  "id": "beijing-railway-station",
+  "name": "Beijing Railway Station",
+  "by": "Yang Tingbao, Chen Deng'ao",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1959",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Long station front with two clock towers and pavilion-roofed turrets, blending Chinese roofs with socialist realism.",
+  "award": "China: Ten Great Buildings (1959)",
+  "status": "photo",
+  "commons_category": "Category:Beijing Railway Station",
+  "photos": [
+   {
+    "file": "File:Beijing Railway Station panorama.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing-Railway-Station-3423.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing Train Station - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing Railway Station 2009.jpg",
+    "license": "CC BY 3.0 pl",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_railway_station",
+   "https://en.wikipedia.org/wiki/Ten_Great_Buildings"
+  ],
+  "note": "Completed 10 September 1959, opened 4 October 1959; design work chaired by Yang Tingbao and Chen Deng'ao. The turrets on each wing were Zhou Enlai's suggestion, per Wikipedia. Fourth photo is CC BY 3.0 Poland."
+ },
+ {
+  "id": "pagoda-of-fogong-temple",
+  "name": "Pagoda of Fogong Temple (Yingxian Wooden Pagoda)",
+  "by": "Liao dynasty builders",
+  "city": "Yingxian",
+  "cc": "CN",
+  "year": "1056",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Detail"
+  ],
+  "features": "67 m all-timber pagoda, no nails: five storeys outside, nine inside, held by 54 kinds of bracket sets.",
+  "award": "China: historic precedents (Liang Sicheng surveys)",
+  "status": "photo",
+  "commons_category": "Category:Pagoda of Fogong Temple",
+  "photos": [
+   {
+    "file": "File:Muta 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pagodaoffogongtemple2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ying Xian Woode Pagoa, Datong.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20250604 Ying Xian Muta (080826).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pagoda_of_Fogong_Temple"
+  ],
+  "note": "Built 1056, renovated 1195. Wikipedia: oldest fully wooden pagoda in China, 67.31 m including platform and steeple; hidden storeys marked outside by balconies. Second photo is a high view over the temple."
+ },
+ {
+  "id": "tao-zhu-yin-yuan",
+  "name": "Tao Zhu Yin Yuan",
+  "by": "Vincent Callebaut",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2018",
+  "type": "Housing",
+  "movement": "Parametric",
+  "concepts": [
+   "Planting",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "21-storey tower twisting 90 degrees like a DNA double helix, each floor turned 4.5 degrees, planted with trees.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Tao Zhu Yin Yuan",
+  "photos": [
+   {
+    "file": "File:20180802 陶朱隱園 Agora Garden, Taipei, Taiwan.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tao Zhu Yin Yuan in the rain 20181101.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:20200718 Tao Zhu Yin Yuan.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tao_Zhu_Yin_Yuan"
+  ],
+  "note": "Completed 2018 (begun 2013); 93.2 m, 21 floors. Wikipedia: about 20,000 trees and shrubs. Also called Agora Garden / Agora Tower."
+ },
+ {
+  "id": "wah-fu-estate",
+  "name": "Wah Fu Estate",
+  "by": "Donald Liao",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1967",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Modular"
+  ],
+  "features": "Public housing planned as a self-contained new town by the sea, with its own shops and bus terminus.",
+  "award": "Hong Kong: modern",
+  "status": "photo",
+  "commons_category": "Category:Wah Fu Estate",
+  "photos": [
+   {
+    "file": "File:HK WahFu(I)Estate.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Full of festival vibe in a classic estate!.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wah_Fu_Estate"
+  ],
+  "note": "Built 1967 on a new town concept; 18 blocks completed 1967-1978; designed by Dr Donald Liao, former director of housing. Weak photos: the first shows the estate from the sea, the second is a night festival among the blocks."
+ },
+ {
+  "id": "xiangshan-visitor-center",
+  "name": "Xiangshan Visitor Center, Sun Moon Lake",
+  "by": "Norihiko Dan",
+  "city": "Yuchi, Nantou",
+  "cc": "TW",
+  "year": "2010",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Two curved fair-faced concrete wings under grass roofs, with 34 m canopies framing the lake and hills.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Xiangshan Visitor Center",
+  "photos": [
+   {
+    "file": "File:Xiangshan Visitor Center 24509096650.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Xiangshan Visitor Center 20120909.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:向山遊客中心 Xiangshan Visitor Center - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xiangshan_Visitor_Center"
+  ],
+  "note": "Wikipedia: constructed in 2010 by Dan Norihiko; two curved wings with central canopies about 34 m long and 8 m high. Grass roofs and the reflecting water are from the photos."
+ },
+ {
+  "id": "zhongshan-hall-taipei",
+  "name": "Zhongshan Hall (Taipei Public Hall)",
+  "by": "Ide Kaoru",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Steel-framed hall built to resist fire, quakes and typhoons, faced in green tile, with Islamic-style windows.",
+  "award": "Taiwan: Japanese era",
+  "status": "photo",
+  "commons_category": "Category:Zhongshan Hall, Taipei",
+  "photos": [
+   {
+    "file": "File:Taipei Taiwan Zhongshan-Hall-01a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:臺北公會堂.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Taiwan Zhongshan-Hall-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zhongshan_Hall"
+  ],
+  "note": "Built 1932-1936 under Japanese rule as the Taipei Public Hall. Wikipedia: light green tile chosen to be less visible to bombers; Spanish-Islamic window designs. Movement is a judgement call (early modern public hall with historicist detail)."
+ },
+ {
+  "id": "hong-kong-coliseum",
+  "name": "Hong Kong Coliseum",
+  "by": "Pau Shiu-hung (Architectural Services Department)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cantilever",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "Indoor arena shaped like an inverted pyramid, its huge sloping bowl lifted over a glazed base.",
+  "award": "Hong Kong: modern",
+  "status": "photo",
+  "commons_category": "Category:Hong Kong Coliseum",
+  "photos": [
+   {
+    "file": "File:HK Hung Hom Hong Kong Coliseum July 2026 N13P 205.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2024年5月-香港體育館.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Coliseum"
+  ],
+  "note": "Inaugurated 27 April 1983; Wikipedia names Pau Shiu-hung as main designer and describes an inverted pyramid-like construction. Seating rises to 41 m. Brutalism is a judgement call for this concrete megastructure. Second photo is a high view over the Hung Hom station area."
+ },
+ {
+  "id": "grand-hotel-taipei",
+  "name": "Grand Hotel Taipei",
+  "by": "Yang Cho-cheng",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1973",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Landscape"
+  ],
+  "features": "87 m, 12-storey hotel in Chinese palace style: vermilion columns under a vast golden-tiled double roof on a hill.",
+  "award": "Taiwan: modern civic monuments",
+  "status": "photo",
+  "commons_category": "Category:Grand Hotel Taipei",
+  "photos": [
+   {
+    "file": "File:Grand Hotel Taipei 20130902-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel Taipei front view 20141015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel Taipei 2014 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel Taipei 45330-Taipei (27785259374).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_(Taipei)"
+  ],
+  "note": "Main building completed 10 October 1973; same architect as the Chiang Kai-shek Memorial Hall. Wikipedia: one of the world's tallest Chinese classical buildings. Golden roof tiles and hilltop setting are from the photos."
+ },
+ {
+  "id": "shanghai-exhibition-centre",
+  "name": "Shanghai Exhibition Centre",
+  "by": "Sergey Andreyev, Chen Zhi, Wang Dingzheng, Cai Xianyu",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1955",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Vault"
+  ],
+  "features": "Soviet neoclassical palace: a spired central tower topped by a red star, with curved wings around a forecourt.",
+  "award": "China: early People's Republic",
+  "status": "photo",
+  "commons_category": "Category:Shanghai Exhibition Center",
+  "photos": [
+   {
+    "file": "File:上海展览中心主楼.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:上海展览中心·上海静安.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Exhibition Center 20260418 (1).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Exhibition_Centre"
+  ],
+  "note": "Completed 5 March 1955 as the Sino-Soviet Friendship Building; 110.4 m to the spire. Wikipedia: the tower is modelled on the Admiralty in Saint Petersburg; a thin-shell vaulted hall (30 m span) lies to the north."
+ },
+ {
+  "id": "taipei-fine-arts-museum",
+  "name": "Taipei Fine Arts Museum",
+  "by": "Kao Er-pan",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1983",
+  "type": "Museum",
+  "movement": "Metabolism",
+  "concepts": [
+   "Cantilever",
+   "Modular",
+   "Geometry"
+  ],
+  "features": "White galleries stacked crosswise in a lattice of long boxes, their ends cantilevered out with big windows.",
+  "award": "Taiwan: modern",
+  "status": "photo",
+  "commons_category": "Category:Taipei Fine Arts Museum",
+  "photos": [
+   {
+    "file": "File:Taipei Fine Arts Museum 20150919.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Fine Arts Museum 2019.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Fine Arts Museum South Side 20110425.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Fine Arts Museum (48787324356).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum"
+  ],
+  "note": "Opened 8 August 1983. Wikipedia: a local interpretation of the Japanese Metabolist movement. The stacked, cantilevered boxes are described from the photos."
+ },
+ {
+  "id": "shenzhen-baoan-airport-terminal-3",
+  "name": "Shenzhen Bao'an International Airport Terminal 3",
+  "by": "Studio Fuksas",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Megastructure"
+  ],
+  "features": "1.6 km terminal under a single perforated, honeycomb-patterned skin; locals call it the giant flying fish.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Shenzhen Bao'an International Airport Terminal 3",
+  "photos": [
+   {
+    "file": "File:Shenzhen Bao'an Airport.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aerial view of Shenzhen Bao'an International Airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shenzhen Bao'an International Airport 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Bao%27an_International_Airport"
+  ],
+  "note": "Opened 28 November 2013 (Wikipedia tags the date citation needed); 450,000 m2, 1.6 km long. Wikipedia caption: parametric developed structure and facade. The honeycomb pattern is described from the photos. First two photos are aerial."
+ },
+ {
+  "id": "shanghai-oriental-art-center",
+  "name": "Shanghai Oriental Art Center",
+  "by": "Paul Andreu",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Five linked glass-walled halls like petals; from above the plan reads as a butterfly orchid.",
+  "award": "China: international architects",
+  "status": "photo",
+  "commons_category": "Category:Shanghai Oriental Art Center",
+  "photos": [
+   {
+    "file": "File:东方艺术中心·上海浦东·俯视.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Oriental Art Center.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2011 Shanghai Oriental Art Center1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Oriental_Art_Center"
+  ],
+  "note": "Officially opened 1 July 2005; designed by Paul Andreu with the Huadong Architectural Design & Research Institute. First photo is aerial and shows the petal plan; third is at night. Andreu's National Centre for the Performing Arts in Beijing is already on the wall."
+ },
+ {
+  "id": "foguang-temple-east-hall",
+  "name": "East Hall of Foguang Temple",
+  "by": "Tang dynasty builders (monk Yuancheng)",
+  "city": "Wutai",
+  "cc": "CN",
+  "year": "857",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Detail"
+  ],
+  "features": "Seven-bay Tang timber hall with a hipped roof on deep bracket sets; Liang Sicheng found its date in 1937.",
+  "award": "China: historic precedents (Liang Sicheng surveys)",
+  "status": "photo",
+  "commons_category": "Category:East Great Hall of Foguang Temple",
+  "photos": [
+   {
+    "file": "File:DSF9140-3 (44229116381).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wutai Foguang Si 2013.08.28 10-55-51.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wutai 2009 492.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Foguang_Temple"
+  ],
+  "note": "Built 857 CE; funded by Ning Gongyu and built under the monk Yuancheng (Wikipedia). Seven bays by four, about 34 x 17.7 m. Photos show the corner and eaves brackets well, but none is a clear full front view (the hall sits behind trees on a high terrace)."
+ },
+ {
+  "id": "ntu-college-of-social-sciences",
+  "name": "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)",
+  "by": "Toyo Ito",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Landscape"
+  ],
+  "features": "Glass-walled reading room under a forest of slender white columns that open into lily-pad roof discs.",
+  "award": "Taiwan: contemporary",
+  "status": "photo",
+  "commons_category": "Category:Koo Chen-Fu Memorial Library",
+  "photos": [
+   {
+    "file": "File:Koo Chen-Fu Memorial Library, College of Social Sciences, National Taiwan University 20140920.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Night in Koo Chen-Fu Memorial Library, National Taiwan University 20141031b.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:The exterior of the Koo Chen-Fu Memorial Library-2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toyo_Ito"
+  ],
+  "note": "Year and architect from the Toyo Ito article (2013, College of Social Sciences, NTU). The library is the low pavilion beside the college's main block; the column and roof-disc description is from the photos. Toyo Ito's Taichung theatre and Kaohsiung stadium are already on the wall."
+ },
+ {
+  "id": "forbidden-city",
+  "name": "Forbidden City",
+  "by": "Kuai Xiang (Ming imperial builders)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1420",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Walled and moated palace city of 980 buildings strung along Beijing's north-south axis.",
+  "award": "China: historic precedents",
+  "status": "photo",
+  "commons_category": "Category:Forbidden City",
+  "photos": [
+   {
+    "file": "File:Views of the Forbidden City from Jingshan Park 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing Forbidden City Viewed from Jingshan Park (10553754905).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:The Forbidden City - View from Coal Hill.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forbidden_City"
+  ],
+  "note": "Built 1406-1420; Wikipedia infobox names Kuai Xiang. 961 x 753 m, 7.9 m wall, 52 m wide moat. All three photos look south from Jingshan Park over the north gate."
+ },
+ {
+  "id": "anji-bridge",
+  "name": "Anji Bridge (Zhaozhou Bridge)",
+  "by": "Li Chun",
+  "city": "Zhao County",
+  "cc": "CN",
+  "year": "605",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Oldest open-spandrel segmental stone arch: a 37 m span with two small arches in each shoulder.",
+  "award": "China: historic precedents",
+  "status": "photo",
+  "commons_category": "Category:Anji Bridge",
+  "photos": [
+   {
+    "file": "File:Anji Bridge, Zhao County, 2020-09-06 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zhaozhou or Anji Bridge.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Zhaozhou Bridge.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zhaozhou_Bridge"
+  ],
+  "note": "Built 595-605 (Sui dynasty), credited to the craftsman Li Chun. Wikipedia: 28 limestone slabs joined by iron; the side arches lighten the bridge and let floodwater through. A bridge, not a building: the owner may decide whether it belongs on the wall."
+ },
+ {
+  "id": "potala-palace",
+  "name": "Potala Palace",
+  "by": "5th Dalai Lama (commissioned)",
+  "city": "Lhasa",
+  "cc": "CN",
+  "year": "1694",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "13 storeys of white and red palace climbing a hill, on inward-sloping stone walls up to 5 m thick.",
+  "award": "China: historic precedents",
+  "status": "photo",
+  "commons_category": "Category:Potala Palace",
+  "photos": [
+   {
+    "file": "File:Lhassa Potala.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Lhasa - Potála - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lhasa-Potala-04-Suedseite-2014-gje.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Potala_Palace"
+  ],
+  "note": "Begun 1645 on the order of the 5th Dalai Lama; White Palace occupied 1649, Red Palace added 1690-1694, so 1694 is the completion year. No named architect in Wikipedia (Konchog Chophel advised on the site). Political sensitivity: listed under China (CN) as Lhasa is administered by the PRC; the owner may prefer to note Tibet."
  }
 ]
