@@ -392,6 +392,8 @@
     $('byArchAll').textContent = `All ${mine.length + 1} →`;
     $('byArchAll').dataset.arch = firstArchitect(b);
     $('byArchRel').innerHTML = relHtml(mine.slice(0, 4));
+    $('relBooks').hidden = true;
+    withBooks(() => { if (state.open === b) showRelatedBooks(b); });
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More · ' + b.type;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -405,6 +407,45 @@
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     updateStep();
+  }
+
+  /* ---------- related books in the opened building ---------- */
+  // Books about this building first, then books about its architect, then a few general books on its movement.
+  const MOVEMENT_BOOKS = 4, RELATED_MAX = 12;
+  const BROAD = new Set(['Contemporary', 'Modernism', 'Late modernism']);
+  const PLACE_TAGS = {
+    India: (b, cc) => cc === 'IN', Japan: (b, cc) => cc === 'JP', China: (b, cc) => cc === 'CN',
+    'Latin America': (b, cc) => b.region === 'Americas' && !['US', 'CA'].includes(cc),
+    Africa: b => b.region === 'Africa', 'Southeast Asia': b => b.region === 'Southeast Asia'
+  };
+  function relatedBooks(b) {
+    const out = [], add = k => { if (!out.includes(k)) out.push(k); };
+    BOOKS.filter(k => (k.buildings || []).includes(b.id)).forEach(add);
+    const names = byOf(b);
+    BOOKS.filter(k => (k.architects || []).some(a => names.includes(a))).sort((x, y) => x.y - y.y).forEach(add);
+    const words = new Set([b.type, ...(b.concepts || [])].map(fold));
+    const shared = k => (k.tags || []).filter(t => words.has(fold(t))).length;
+    // Movement books are general ones (surveys, theory); a monograph on another architect isn't related. A book about a
+    // place only suits buildings there, and the broad movements also need a shared idea or type.
+    const cc = countryOf(b), inPlace = t => !(t in PLACE_TAGS) || PLACE_TAGS[t](b, cc);
+    BOOKS.filter(k => (k.tags || []).includes(b.movement) && !(k.architects || []).length && !out.includes(k)
+        && (k.tags || []).every(inPlace) && (!BROAD.has(b.movement) || shared(k) > 0))
+      .sort((x, y) => shared(y) - shared(x) || x.y - y.y)
+      .slice(0, MOVEMENT_BOOKS).forEach(add);
+    return out.slice(0, RELATED_MAX);
+  }
+  function showRelatedBooks(b) {
+    const list = relatedBooks(b), row = $('relBooksRow');
+    $('relBooks').hidden = !list.length;
+    row.innerHTML = list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="cv">${coverHtml(k)}</span><b>${esc(k.title)}</b><small>${esc(k.year)}</small></button>`).join('');
+    row.scrollLeft = 0;
+    $('relBooksNav').hidden = list.length <= 6; // with six or fewer everything nearly fits: no arrows
+    updateBookArrows();
+  }
+  function updateBookArrows() {
+    const row = $('relBooksRow');
+    $('relBooksPrev').disabled = row.scrollLeft <= 2;
+    $('relBooksNext').disabled = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
   }
 
   /* ---------- opened book ---------- */
@@ -482,6 +523,7 @@
     $('byArchAll').dataset.arch = who || '';
     $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
     const kin = sameShelf(k);
+    $('relBooks').hidden = true;
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More on this shelf · ' + k.shelf;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -569,7 +611,11 @@
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
   $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => {
+  const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
+  $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksRow').addEventListener('scroll', updateBookArrows, { passive: true });
+  ['byArchRel', 'sameTypeRel', 'relBooksRow'].forEach(id => $(id).addEventListener('click', e => {
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));

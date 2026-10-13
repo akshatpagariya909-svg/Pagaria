@@ -365,6 +365,29 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .rel button:hover .ph::after { opacity: 1; }
 .rel button:hover { color: var(--red); }
 .rel small { font: 400 11px var(--mono); color: var(--graphite); }
+/* Related books: one sliding row of small covers. Arrows on a computer; on a phone you swipe. */
+.bk-nav { display: flex; gap: 8px; }
+.bk-nav[hidden] { display: none; }
+.bk-nav button { all: unset; box-sizing: border-box; cursor: pointer; width: 32px; height: 32px; display: grid; place-items: center; border: 1px solid var(--hair); border-radius: var(--r); }
+.bk-nav svg { width: 16px; height: 16px; fill: none; stroke: var(--ink); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.bk-nav button:hover:not(:disabled) { border-color: var(--red); }
+.bk-nav button:hover:not(:disabled) svg { stroke: var(--red); }
+.bk-nav button:disabled { opacity: .35; cursor: default; }
+.bk-nav button:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+.bookrow { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; padding-bottom: 2px; }
+.bookrow::-webkit-scrollbar { display: none; }
+.bookrow button { all: unset; cursor: pointer; flex: none; width: 72px; scroll-snap-align: start; display: flex; flex-direction: column; gap: 6px; }
+.bookrow .cv { display: block; position: relative; width: 72px; height: 108px; background: var(--paper); border: 1px solid var(--hair); box-sizing: border-box; overflow: hidden; }
+.bookrow .cv img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.bookrow .cv .standin { padding: 8px 7px; gap: 4px; }
+.bookrow .cv .standin .tt { font-size: 11px; line-height: 1.05; }
+.bookrow .cv .standin .au { font-size: 7px; line-height: 1.3; }
+.bookrow b { font-size: 11px; line-height: 1.2; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.bookrow small { font: 400 10px var(--mono); color: var(--graphite); }
+.bookrow button:hover b { color: var(--red); }
+.bookrow button:hover .cv { box-shadow: inset 0 -3px 0 var(--red); }
+.bookrow button:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+@media (hover: none) { .bk-nav { display: none; } }
 
 /* ---------- smaller screens (phone comes later; keep it usable) ---------- */
 @media (max-width: 820px) {
