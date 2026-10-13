@@ -12863,5 +12863,1124 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "gordon-bunshaft-and-som-collective-work-and-individual-expre",
+  "title": "Gordon Bunshaft and SOM: Collective Work and Individual Expression in Corporate Modernism",
+  "by": "Nicholas Adams",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Monographs",
+  "why": "A study of Gordon Bunshaft and how his buildings were made inside Skidmore, Owings & Merrill.",
+  "tags": [
+   "Modernism",
+   "Skyscrapers"
+  ],
+  "architects": [
+   "Gordon Bunshaft"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-skidmore-owings-merrill-19501962",
+  "title": "The Architecture of Skidmore, Owings & Merrill 1950–1962",
+  "by": "Ernst Danz",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Monographs",
+  "why": "A survey of the first postwar buildings of Skidmore, Owings & Merrill.",
+  "tags": [
+   "Modernism",
+   "Skyscrapers"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "die-vier-elemente-der-baukunst",
+  "title": "Die vier Elemente der Baukunst",
+  "by": "Gottfried Semper",
+  "year": "1851",
+  "y": 1851,
+  "shelf": "Free to read",
+  "why": "Semper's argument that building began from the hearth, the mound, the roof and the enclosing wall.",
+  "tags": [
+   "Theory",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "der-stil-in-den-technischen-und-tektonischen-kunsten",
+  "title": "Der Stil in den technischen und tektonischen Künsten",
+  "by": "Gottfried Semper",
+  "year": "1860",
+  "y": 1860,
+  "shelf": "Free to read",
+  "why": "Semper's two-volume theory of style as it comes from craft, material and technique.",
+  "tags": [
+   "Theory",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "italian-gardens",
+  "title": "Italian Gardens",
+  "by": "Charles A. Platt",
+  "year": "1894",
+  "y": 1894,
+  "shelf": "Free to read",
+  "why": "Platt's illustrated account of the gardens of Italian villas.",
+  "tags": [
+   "Gardens",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "rural-architecture",
+  "title": "Rural Architecture",
+  "by": "Lewis F. Allen",
+  "year": "1852",
+  "y": 1852,
+  "shelf": "Free to read",
+  "why": "A nineteenth-century American guide to farm and country buildings.",
+  "tags": [
+   "Houses",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "supports-an-alternative-to-mass-housing",
+  "title": "Supports: An Alternative to Mass Housing",
+  "by": "N. J. Habraken",
+  "year": "1972",
+  "y": 1972,
+  "shelf": "Theory",
+  "why": "Habraken's case for building a shared support structure and letting residents fit out their own homes.",
+  "tags": [
+   "Housing",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-history-of-egyptian-architecture",
+  "title": "A History of Egyptian Architecture",
+  "by": "Alexander Badawy",
+  "year": "1954",
+  "y": 1954,
+  "shelf": "History",
+  "why": "A multi-volume history of building in ancient Egypt.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "development-and-character-of-gothic-architecture",
+  "title": "Development and Character of Gothic Architecture",
+  "by": "Charles Herbert Moore",
+  "year": "1890",
+  "y": 1890,
+  "shelf": "Free to read",
+  "why": "A study of how Gothic building grew and what marks its style.",
+  "tags": [
+   "Gothic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "some-account-of-gothic-architecture-in-spain",
+  "title": "Some Account of Gothic Architecture in Spain",
+  "by": "George Edmund Street",
+  "year": "1865",
+  "y": 1865,
+  "shelf": "Free to read",
+  "why": "An English architect's account of Spanish Gothic churches.",
+  "tags": [
+   "Gothic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "london-the-unique-city",
+  "title": "London: The Unique City",
+  "by": "Steen Eiler Rasmussen",
+  "year": "1937",
+  "y": 1937,
+  "shelf": "Cities",
+  "why": "Rasmussen's study of how London grew and why it differs from other cities.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "american-architecture-and-urbanism",
+  "title": "American Architecture and Urbanism",
+  "by": "Vincent Scully",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "History",
+  "why": "Scully's history of American building and city-making.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-of-regionalism-in-the-age-of-globalization-peak",
+  "title": "Architecture of Regionalism in the Age of Globalization: Peaks and Valleys in the Flat World",
+  "by": "Liane Lefaivre, Alexander Tzonis",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Theory",
+  "why": "An account of critical regionalism and how it has changed since the 1980s.",
+  "tags": [
+   "Regionalism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "housing-design-handbook-a-guide-to-good-practice",
+  "title": "Housing Design Handbook: A Guide to Good Practice",
+  "by": "David Levitt",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Construction",
+  "why": "A guide to housing layout and design for architects and developers.",
+  "tags": [
+   "Housing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "making-people-friendly-towns",
+  "title": "Making People-Friendly Towns",
+  "by": "Francis Tibbalds",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Cities",
+  "why": "Tibbalds on improving the public spaces of towns.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "andrea-palladio",
+  "title": "Andrea Palladio",
+  "by": "Lionello Puppi",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Monographs",
+  "why": "A monograph on Palladio's villas, palaces and churches.",
+  "tags": [
+   "Classicism",
+   "Historic precedent"
+  ],
+  "architects": [
+   "Andrea Palladio"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-modern-house",
+  "title": "The Modern House",
+  "by": "F. R. S. Yorke",
+  "year": "1934",
+  "y": 1934,
+  "shelf": "History",
+  "why": "A survey of modern houses of the 1930s with plans and photographs.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-dissertation-an-architecture-student-s-handbook",
+  "title": "The Dissertation: An Architecture Student's Handbook",
+  "by": "Iain Borden, Katerina Ruedi Ray",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Essentials",
+  "why": "A guide to researching and writing an architecture dissertation.",
+  "tags": [
+   "Design basics",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-urban-pattern-city-planning-and-design",
+  "title": "The Urban Pattern: City Planning and Design",
+  "by": "Arthur B. Gallion, Simon Eisner",
+  "year": "1950",
+  "y": 1950,
+  "shelf": "Cities",
+  "why": "A textbook on city planning and urban design.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-and-dwelling-ethics-for-the-city",
+  "title": "Building and Dwelling: Ethics for the City",
+  "by": "Richard Sennett",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "Cities",
+  "why": "Sennett on the difference between the built city and the lived city.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-with-earth-design-and-technology-of-a-sustainable-a",
+  "title": "Building with Earth: Design and Technology of a Sustainable Architecture",
+  "by": "Gernot Minke",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Construction",
+  "why": "A guide to building with earth: rammed earth, adobe and straw clay.",
+  "tags": [
+   "Materials",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-american-house-carpenter",
+  "title": "The American House-Carpenter",
+  "by": "R. G. Hatfield",
+  "year": "1844",
+  "y": 1844,
+  "shelf": "Free to read",
+  "why": "A nineteenth-century American manual on framing and finishing houses.",
+  "tags": [
+   "Houses",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "specimens-of-gothic-architecture",
+  "title": "Specimens of Gothic Architecture",
+  "by": "Augustus Pugin",
+  "year": "1821",
+  "y": 1821,
+  "shelf": "Free to read",
+  "why": "Pugin's measured drawings of Gothic buildings in England.",
+  "tags": [
+   "Gothic",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-analysis-of-ornament",
+  "title": "The Analysis of Ornament",
+  "by": "Ralph Nicholson Wornum",
+  "year": "1856",
+  "y": 1856,
+  "shelf": "Free to read",
+  "why": "A Victorian study of ornament across many periods.",
+  "tags": [
+   "Ornament",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-builder-s-jewel",
+  "title": "The Builder's Jewel",
+  "by": "Batty Langley",
+  "year": "1741",
+  "y": 1741,
+  "shelf": "Free to read",
+  "why": "An eighteenth-century builder's manual of orders and geometry.",
+  "tags": [
+   "Classicism",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "practical-architecture-or-a-sure-guide-to-the-true-working-a",
+  "title": "Practical Architecture, or A Sure Guide to the True Working According to the Rules of That Science",
+  "by": "William Halfpenny",
+  "year": "1724",
+  "y": 1724,
+  "shelf": "Free to read",
+  "why": "An eighteenth-century guide to building by the rules of the classical orders.",
+  "tags": [
+   "Classicism",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-and-architecture-of-the-ancient-orient",
+  "title": "The Art and Architecture of the Ancient Orient",
+  "by": "Henri Frankfort",
+  "year": "1954",
+  "y": 1954,
+  "shelf": "History",
+  "why": "A survey of Mesopotamian and Egyptian art and building, in the Pelican History of Art.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-frank-lloyd-wright-a-complete-catalog",
+  "title": "The Architecture of Frank Lloyd Wright: A Complete Catalog",
+  "by": "William Allin Storrer",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "Monographs",
+  "why": "A catalogue of Wright's built work, with a listing and photograph of each.",
+  "tags": [
+   "Organic",
+   "Reference"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "construction-detailing-for-landscape-and-garden-design",
+  "title": "Construction Detailing for Landscape and Garden Design",
+  "by": "Paul Hensey",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Landscape",
+  "why": "A drawn guide to construction details in landscape and garden design.",
+  "tags": [
+   "Landscape",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "lighting-by-design",
+  "title": "Lighting by Design",
+  "by": "Christopher Cuttle",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Construction",
+  "why": "A guide to designing the lighting of interiors.",
+  "tags": [
+   "Light",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "space-planning-basics",
+  "title": "Space Planning Basics",
+  "by": "Mark Karlen",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Construction",
+  "why": "A short guide to planning interior space.",
+  "tags": [
+   "Design basics",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "victorian-comfort-a-social-history-of-design-from-18301900",
+  "title": "Victorian Comfort: A Social History of Design from 1830–1900",
+  "by": "John Gloag",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "History",
+  "why": "A history of Victorian domestic design and daily comfort.",
+  "tags": [
+   "History",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-fortified-house-in-scotland",
+  "title": "The Fortified House in Scotland",
+  "by": "Nigel Tranter",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "History",
+  "why": "A five-volume survey of the castles and tower houses of Scotland.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tiryns",
+  "title": "Tiryns",
+  "by": "Heinrich Schliemann",
+  "year": "1885",
+  "y": 1885,
+  "shelf": "Free to read",
+  "why": "Schliemann's account of his excavations at the Bronze Age palace of Tiryns.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "house-x",
+  "title": "House X",
+  "by": "Peter Eisenman",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "Monographs",
+  "why": "A Rizzoli book on Eisenman's House X project, with drawings and models.",
+  "tags": [
+   "Postmodernism",
+   "Houses"
+  ],
+  "architects": [
+   "Peter Eisenman"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "nine-chains-to-the-moon",
+  "title": "Nine Chains to the Moon",
+  "by": "Buckminster Fuller",
+  "year": "1938",
+  "y": 1938,
+  "shelf": "Manifestos",
+  "why": "Buckminster Fuller's first book, setting out his ideas on design and technology.",
+  "tags": [
+   "Theory",
+   "Structure"
+  ],
+  "architects": [
+   "Buckminster Fuller"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "critical-path",
+  "title": "Critical Path",
+  "by": "Buckminster Fuller",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Manifestos",
+  "why": "Fuller's late book on design, resources and the future of humanity.",
+  "tags": [
+   "Sustainability",
+   "Theory"
+  ],
+  "architects": [
+   "Buckminster Fuller"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "mutations",
+  "title": "Mutations",
+  "by": "Rem Koolhaas, Stefano Boeri, Sanford Kwinter, Nadia Tazi, Hans Ulrich Obrist",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Cities",
+  "why": "A study of cities by Rem Koolhaas and others, from Harvard and the Arc en rêve centre.",
+  "tags": [
+   "Cities",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "david-adjaye-houses-recycling-reconfiguring-rebuilding",
+  "title": "David Adjaye: Houses: Recycling, Reconfiguring, Rebuilding",
+  "by": "Peter Allison",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Monographs",
+  "why": "A book on the early houses and small buildings of David Adjaye.",
+  "tags": [
+   "Africa",
+   "Contemporary"
+  ],
+  "architects": [
+   "David Adjaye"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "aldo-van-eyck-the-shape-of-relativity",
+  "title": "Aldo van Eyck: The Shape of Relativity",
+  "by": "Francis Strauven",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Monographs",
+  "why": "The major study of Aldo van Eyck's work and thinking.",
+  "tags": [
+   "Structuralism",
+   "Housing"
+  ],
+  "architects": [
+   "Aldo van Eyck"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "alvar-aalto-between-humanism-and-materialism",
+  "title": "Alvar Aalto: Between Humanism and Materialism",
+  "by": "Peter Reed",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Monographs",
+  "why": "The catalogue of the Museum of Modern Art show on Alvar Aalto.",
+  "tags": [
+   "Modernism",
+   "Regionalism"
+  ],
+  "architects": [
+   "Alvar Aalto"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-production-of-space",
+  "title": "The Production of Space",
+  "by": "Henri Lefebvre",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "Theory",
+  "why": "Lefebvre's theory that space is made by society.",
+  "tags": [
+   "Theory",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-social-logic-of-space",
+  "title": "The Social Logic of Space",
+  "by": "Bill Hillier, Julienne Hanson",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Theory",
+  "why": "The book that introduced space syntax, an analysis of how layouts shape movement.",
+  "tags": [
+   "Theory",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "space-is-the-machine",
+  "title": "Space is the Machine",
+  "by": "Bill Hillier",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Theory",
+  "why": "Hillier's configurational theory of architecture and space.",
+  "tags": [
+   "Theory",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-theory-since-1968",
+  "title": "Architecture Theory since 1968",
+  "by": "K. Michael Hays",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Theory",
+  "why": "A reader of essays on architectural theory from 1968 to the 1990s.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "theories-and-manifestoes-of-contemporary-architecture",
+  "title": "Theories and Manifestoes of Contemporary Architecture",
+  "by": "Charles Jencks, Karl Kropf",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Manifestos",
+  "why": "A collection of statements by architects and groups of the twentieth century.",
+  "tags": [
+   "Theory",
+   "Manifestos"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "megastructure-urban-futures-of-the-recent-past",
+  "title": "Megastructure: Urban Futures of the Recent Past",
+  "by": "Reyner Banham",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "History",
+  "why": "A history of the megastructure projects of the 1960s and 1970s.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-in-the-digital-age-design-and-manufacturing",
+  "title": "Architecture in the Digital Age: Design and Manufacturing",
+  "by": "Branko Kolarevic",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Construction",
+  "why": "Essays on digital design and fabrication in architecture.",
+  "tags": [
+   "Contemporary",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "folding-in-architecture",
+  "title": "Folding in Architecture",
+  "by": "Greg Lynn",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Theory",
+  "why": "An Architectural Design issue edited by Greg Lynn on folding in architecture.",
+  "tags": [
+   "Deconstructivism",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "animate-form",
+  "title": "Animate Form",
+  "by": "Greg Lynn",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Theory",
+  "why": "Greg Lynn's argument for using motion and time in architectural form.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-alphabet-and-the-algorithm",
+  "title": "The Alphabet and the Algorithm",
+  "by": "Mario Carpo",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "Carpo on how digital making changes the idea of authorship in architecture.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-second-digital-turn-design-beyond-intelligence",
+  "title": "The Second Digital Turn: Design Beyond Intelligence",
+  "by": "Mario Carpo",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Theory",
+  "why": "Carpo on big data and machine learning in design.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "computational-design-thinking",
+  "title": "Computational Design Thinking",
+  "by": "Achim Menges, Sean Ahlquist",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "A collection of essays on computation in design.",
+  "tags": [
+   "Contemporary",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "material-computation-higher-integration-in-morphogenetic-des",
+  "title": "Material Computation: Higher Integration in Morphogenetic Design",
+  "by": "Achim Menges",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Construction",
+  "why": "An Architectural Design issue on computing material behaviour into form.",
+  "tags": [
+   "Contemporary",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "structure-and-form-in-modern-architecture",
+  "title": "Structure and Form in Modern Architecture",
+  "by": "Curt Siegel",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Construction",
+  "why": "A study of how structure shapes modern buildings.",
+  "tags": [
+   "Structure",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-tower-and-the-bridge-the-new-art-of-structural-engineeri",
+  "title": "The Tower and the Bridge: The New Art of Structural Engineering",
+  "by": "David P. Billington",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Construction",
+  "why": "A history of structural engineering as an art.",
+  "tags": [
+   "Structure",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tensile-structures",
+  "title": "Tensile Structures",
+  "by": "Frei Otto",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Construction",
+  "why": "Frei Otto's two-volume study of cable and membrane structures.",
+  "tags": [
+   "Structure",
+   "Materials"
+  ],
+  "architects": [
+   "Frei Otto"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "biomimicry-innovation-inspired-by-nature",
+  "title": "Biomimicry: Innovation Inspired by Nature",
+  "by": "Janine M. Benyus",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Theory",
+  "why": "A book on learning design ideas from nature.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "visual-notes-for-architects-and-designers",
+  "title": "Visual Notes for Architects and Designers",
+  "by": "Norman Crowe, Paul Laseau",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Drawing",
+  "why": "A guide to sketching and notetaking for design.",
+  "tags": [
+   "Drawing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "housing-as-if-people-mattered",
+  "title": "Housing as if People Mattered",
+  "by": "Clare Cooper Marcus, Wendy Sarkissian",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Cities",
+  "why": "Design guidelines for housing, drawn from studies of residents.",
+  "tags": [
+   "Housing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "house-form-and-culture",
+  "title": "House Form and Culture",
+  "by": "Amos Rapoport",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Theory",
+  "why": "Rapoport on how culture and climate shape houses around the world.",
+  "tags": [
+   "Vernacular",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-meaning-of-the-built-environment",
+  "title": "The Meaning of the Built Environment",
+  "by": "Amos Rapoport",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "Theory",
+  "why": "A study of how people read meaning in buildings and places.",
+  "tags": [
+   "Theory",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "defensible-space",
+  "title": "Defensible Space",
+  "by": "Oscar Newman",
+  "year": "1972",
+  "y": 1972,
+  "shelf": "Cities",
+  "why": "Newman's study of how housing design affects crime.",
+  "tags": [
+   "Housing",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "african-traditional-architecture-an-historical-and-geographi",
+  "title": "African Traditional Architecture: An Historical and Geographical Perspective",
+  "by": "Susan Denyer",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "History",
+  "why": "A survey of traditional building across Africa.",
+  "tags": [
+   "Africa",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tropical-architecture-in-the-humid-zone",
+  "title": "Tropical Architecture in the Humid Zone",
+  "by": "Maxwell Fry, Jane Drew",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "Construction",
+  "why": "Fry and Drew on designing buildings for hot and humid climates.",
+  "tags": [
+   "Tropical",
+   "Climate"
+  ],
+  "architects": [
+   "Maxwell Fry"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "dwellings-the-vernacular-house-world-wide",
+  "title": "Dwellings: The Vernacular House World Wide",
+  "by": "Paul Oliver",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "History",
+  "why": "A world survey of vernacular houses.",
+  "tags": [
+   "Vernacular",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "shelter-and-society",
+  "title": "Shelter and Society",
+  "by": "Paul Oliver",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Theory",
+  "why": "Essays on shelter and how societies build.",
+  "tags": [
+   "Vernacular",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-chinese-house-craft-symbol-and-the-folk-tradition",
+  "title": "The Chinese House: Craft, Symbol, and the Folk Tradition",
+  "by": "Ronald G. Knapp",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "History",
+  "why": "A study of Chinese houses and the symbols built into them.",
+  "tags": [
+   "China",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "china-s-old-dwellings",
+  "title": "China's Old Dwellings",
+  "by": "Ronald G. Knapp",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "History",
+  "why": "A survey of China's traditional dwellings across the country.",
+  "tags": [
+   "China",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-formation-of-islamic-art",
+  "title": "The Formation of Islamic Art",
+  "by": "Oleg Grabar",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "History",
+  "why": "A study of how Islamic art and architecture took shape in the early centuries.",
+  "tags": [
+   "Islamic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-luis-barragan",
+  "title": "The Architecture of Luis Barragán",
+  "by": "Emilio Ambasz",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "Monographs",
+  "why": "The Museum of Modern Art catalogue of the Barragán show.",
+  "tags": [
+   "Latin America",
+   "Light"
+  ],
+  "architects": [
+   "Luis Barragán"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "colour-schemes-for-the-flower-garden",
+  "title": "Colour Schemes for the Flower Garden",
+  "by": "Gertrude Jekyll",
+  "year": "1908",
+  "y": 1908,
+  "shelf": "Free to read",
+  "why": "Gertrude Jekyll on planting flower gardens by colour.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "wood-and-garden",
+  "title": "Wood and Garden",
+  "by": "Gertrude Jekyll",
+  "year": "1899",
+  "y": 1899,
+  "shelf": "Free to read",
+  "why": "Gertrude Jekyll's notes on her garden at Munstead Wood.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
