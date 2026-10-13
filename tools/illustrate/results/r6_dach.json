@@ -1178,7 +1178,7 @@
    "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
    "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
   ],
-  "note": "Wikipedia (Günter Behnisch): 'Academy of Arts Building', 1993-2005, a glass building beside the reconstructed Hotel Adlon. Co-design by Werner Durth and the fight over Pariser Platz's stone-facade rules are general knowledge; check before publishing."
+  "note": "Wikipedia (Günter Behnisch): 'Academy of Arts Building', 1993-2005, a glass building beside the reconstructed Hotel Adlon. Co-design by Werner Durth and the fight over Pariser Platz's stone-facade rules are general knowledge; check before publishing. Not the same as 'Academy of Arts, Hanseatenweg' (Düttmann, 1960), which is already on the wall."
  },
  {
   "id": "bmw-headquarters",
@@ -2088,5 +2088,240 @@
    "https://commons.wikimedia.org/wiki/File:Ticino_Losone_Palestra_Vacchini_02.jpg"
   ],
   "note": "Wikipedia (Vacchini) shows the 'Palestra Caserma' in Losone without a date; the Commons file gives 'Palestra 1995-1997 (competition 1990)'. Only two usable photos; the lead (2048 px) is a distant frontal view. The piers-carry-the-roof reading is general knowledge; check."
+ },
+ {
+  "id": "biblioteca-cantonale-lugano",
+  "name": "Biblioteca cantonale, Lugano",
+  "by": "Rino Tami and Carlo Tami",
+  "city": "Lugano",
+  "cc": "CH",
+  "year": "1942",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Founding work of Ticino modernism: a glass-block book stack, a closed reading hall and a light loggia set in a park.",
+  "award": "Ticino school (precedent)",
+  "status": "photo",
+  "commons_category": "Category:Biblioteca cantonale di Lugano (edificio)",
+  "photos": [
+   {
+    "file": "File:Lugano - Biblioteca cantonale.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bibliothèque cantonale Lugano 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Cantonale.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Biblioteca_cantonale_di_Lugano_(edificio)"
+  ],
+  "note": "No English Wikipedia article on the building. Architects Rino and Carlo Tami and the date 1942 (after 1941) from the Commons category's Wikidata infobox; Swiss cultural property of national significance (class A). The 'founding work' label and the book-stack reading are general knowledge (Rino Tami is seen as a forerunner of the Ticino school); check."
+ },
+ {
+  "id": "swiss-national-museum-extension",
+  "name": "Swiss National Museum, Extension",
+  "by": "Christ & Gantenbein",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Promenade"
+  ],
+  "features": "A folded concrete wing that closes the old museum's courtyard and lifts into a huge triangular gateway to the park.",
+  "award": "Swiss German contemporary (Christ & Gantenbein)",
+  "status": "photo",
+  "commons_category": "Category:Landesmuseum Zürich Extension",
+  "photos": [
+   {
+    "file": "File:Landesmuseum Zürich. Erweiterungsbau.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Landesmuseum Zürich - Neubau - Platzspitzpark 2018-09-05 12-35-44.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Landesmuseum Zürich - Neubau - Platzspitzpark 2018-09-05 12-29-32.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Landesmuseum_Z%C3%BCrich_Extension"
+  ],
+  "note": "Wikipedia: museum expanded 2013-2016 (architects not named there). Christ & Gantenbein from the Commons category's parent category; 2016 from 'Built in Switzerland in 2016'. Material (concrete with tuff aggregate) and the courtyard reading are general knowledge plus the photos; check. The round windows are visible in File:Landesmuseum Zürich Neubau 2015.jpg."
+ },
+ {
+  "id": "frauenmuseum-hittisau",
+  "name": "Frauenmuseum Hittisau",
+  "by": "Cukrowicz Nachbaur",
+  "city": "Hittisau",
+  "cc": "AT",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Detail"
+  ],
+  "features": "A plain timber-clad village box with one big glazed front, holding a women's museum above the local fire station.",
+  "award": "Vorarlberg timber architecture",
+  "status": "photo",
+  "commons_category": "Category:Frauenmuseum Hittisau",
+  "photos": [
+   {
+    "file": "File:HITT 16©AdolfBereuter.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frauenmuseum Hittisau 3.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Frauenmuseum Hittisau 1.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Frauenmuseum_Hittisau",
+   "https://commons.wikimedia.org/wiki/File:HITT_16%C2%A9AdolfBereuter.jpg"
+  ],
+  "note": "No English Wikipedia article. Opening 2000 from the Commons category's Wikidata infobox; architects from the description of File:HITT 16©AdolfBereuter.jpg ('photocredits: Adolf Bereuter for cukrowicz nachbaur'). That file is a professional photo; its CC BY-SA 4.0 licence is worth a check. The fire station below is general knowledge; check."
+ },
+ {
+  "id": "bus-stop-krumbach",
+  "name": "BUS:STOP Krumbach",
+  "by": "Sou Fujimoto, Ensamble Studio, Wang Shu and Lu Wenyu, Smiljan Radić, Rintala Eggertsson, Alexander Brodsky, De Vylder Vinck Taillieu, with Vorarlberg partner architects",
+  "city": "Krumbach",
+  "cc": "AT",
+  "year": "2014",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Detail"
+  ],
+  "features": "Seven village bus shelters, each by an international architect paired with a local one and built by local craftsmen.",
+  "award": "Vorarlberg timber architecture",
+  "status": "photo",
+  "commons_category": "Category:BUS:STOP Krumbach",
+  "photos": [
+   {
+    "file": "File:Busstop Krumbach Braenden.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Unterkrumbach Nord.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bushaltestelle Krumbach-Glatzegg.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/BUS:STOP_Krumbach",
+   "https://en.wikipedia.org/wiki/Krumbach,_Vorarlberg"
+  ],
+  "note": "Wikipedia lists each stop, architect and local partner (e.g. Bränden: Sou Fujimoto with Bechter Zaffignani; Unterkrumbach Nord: Ensamble Studio with Dietrich/Untertrifaller; Glatzegg: Wang Shu/Lu Wenyu with Hermann Kaufmann). It gives no completion year: the project was decided in 2010 and won a 2014 award, so 2014 is the latest possible year; check. 'Built by local craftsmen' is general knowledge. Photos: Fujimoto's steel-rod stop, Ensamble's stacked oak boards, Wang Shu's timber shelter."
+ },
+ {
+  "id": "rooftop-remodeling-falkestrasse",
+  "name": "Rooftop Remodeling Falkestrasse",
+  "by": "Coop Himmelb(l)au",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1988",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "A steel-and-glass rooftop conference room that seems to slice through the roof of an old Viennese corner block.",
+  "award": "Austrian contemporary (Coop Himmelb(l)au)",
+  "status": "unsure",
+  "commons_category": "Category:Dachausbau der Falkestrasse",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rooftop_Remodeling_Falkestrasse"
+  ],
+  "note": "No free photo: the Commons category exists but is empty, and searches found none (Austria has freedom of panorama, so this is an upload gap, and the rooftop is hard to see from the street). Not drawn: the form is a complex 3D tangle that an elevation would misrepresent. Wikipedia: design began 1983, construction ended late 1988; 90 m2 conference room for a law firm; 'a parasitic structure'. A key early deconstructivist work, shown in MoMA's 1988 exhibition (general knowledge)."
+ },
+ {
+  "id": "museum-liner-appenzell",
+  "name": "Museum Liner (Kunstmuseum Appenzell)",
+  "by": "Gigon/Guyer",
+  "city": "Appenzell",
+  "cc": "CH",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Gallery row under a saw-tooth roof of stepped sheds, the whole body clad in overlapping chrome-steel plates.",
+  "award": "Swiss German contemporary (Gigon/Guyer)",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Appenzell Liner Building",
+  "photos": [
+   {
+    "file": "File:Kunstmuseum Appenzell - Das Kunstmuseum Appenzell von Norden aus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer"
+  ],
+  "note": "Wikipedia (Gigon/Guyer): 'Museum Liner', 1996-1998, Appenzell; now called Kunstmuseum Appenzell. Only one free exterior photo, contributed by the museum (CC BY-SA 4.0); interior: File:Kunstmuseum Appenzell - Das Foyer im Kunstmuseum Appenzell.jpg. The steel cladding and saw-tooth roof are visible in the photo; 'chrome-steel' is general knowledge."
  }
 ]

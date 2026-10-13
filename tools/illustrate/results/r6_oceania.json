@@ -1129,5 +1129,262 @@
    "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal"
   ],
   "note": "Also won the 1998 BHP Colorbond steel award and the 2023 NSW Enduring Architecture Award."
+ },
+ {
+  "id": "dixon-street-flats",
+  "name": "Dixon Street Flats",
+  "by": "Gordon Wilson (Department of Housing Construction)",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1944",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Circulation",
+   "Low cost"
+  ],
+  "features": "Ten-storey state housing block of 115 flats with long access balconies; the archetype NZ modernist apartment block.",
+  "award": "NZIA Gold Medal 1947",
+  "status": "photo",
+  "commons_category": "Category:Dixon Street Flats",
+  "photos": [
+   {
+    "file": "File:Dixon Street Flats 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dixon Street Flats.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dixon Street Flats 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dixon_Street_Flats",
+   "https://en.wikipedia.org/wiki/NZIA_Gold_Medal"
+  ],
+  "note": "Ernst Plischke is popularly thought to have shaped the design, but Wikipedia says there is no documentary evidence, so only Wilson is credited. A historic CC BY 2.0 photo of the rooftop drying area also exists (File:State Housing, New Zealand (9721745436).jpg). 'Long access balconies' is read from the photos rather than the article."
+ },
+ {
+  "id": "melbourne-exhibition-centre",
+  "name": "Melbourne Exhibition Centre ('Jeff's Shed')",
+  "by": "Denton Corker Marshall",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1996",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Promenade",
+   "Sculptural form"
+  ],
+  "features": "Long shed marked by a tilted metal entrance blade on yellow sticks and a 450 m verandah along the river.",
+  "award": "Sir Zelman Cowen Award 1996",
+  "status": "photo",
+  "commons_category": "Category:Melbourne Exhibition Centre",
+  "photos": [
+   {
+    "file": "File:Melbourne Exhibition Centre-Spencer Street view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne Exhibition Centre viewed from the Yarra River.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne Convension and Exhibition center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melbourne_Convention_and_Exhibition_Centre",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Opened 14 February 1996. Part of the Melbourne Convention and Exhibition Centre; the 2009 Convention Centre next door is by Woods Bagot and NH Architecture, so avoid photos of that building."
+ },
+ {
+  "id": "sky-tower-auckland",
+  "name": "Sky Tower",
+  "by": "Craig Craig Moller",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1997",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "328 m concrete telecom and observation tower on splayed legs, with a revolving restaurant at 190 m.",
+  "award": "Gordon Moller (NZIA Gold Medal 2006)",
+  "status": "photo",
+  "commons_category": "Category:Sky Tower (Auckland)",
+  "photos": [
+   {
+    "file": "File:Auckland, sky tower 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sky Tower (Auckland) (2).jpg",
+    "license": "CC BY 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Looking up Sky Tower, Auckland.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
+   "https://en.wikipedia.org/wiki/NZIA_Gold_Medal"
+  ],
+  "note": "Built 1994-1997 as part of the SkyCity casino complex. 'Splayed legs' is read from the photos."
+ },
+ {
+  "id": "aotea-centre",
+  "name": "Aotea Centre",
+  "by": "Ewen Wainscott (Auckland City Architect)",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Monumentality",
+   "Circulation"
+  ],
+  "features": "Performing arts centre on Aotea Square, its 2,139-seat theatre raised behind broad public stairs and a long veranda.",
+  "award": "NZIA Silver Medal",
+  "status": "photo",
+  "commons_category": "Category:Aotea Centre",
+  "photos": [
+   {
+    "file": "File:Aotea Centre Off Aotea Square, Auckland.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Aotea Centre And Council Building.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Aotea Centre Exterior.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aotea_Centre"
+  ],
+  "note": "Designed 1974, built in the 1980s; main construction finished 1989 and opened 1990 (1990 used). The two public-domain photos are just 1600-1800px wide; the 2011 night photo shows the veranda added in the 2011 square upgrade."
+ },
+ {
+  "id": "governor-phillip-tower",
+  "name": "Governor Phillip Tower",
+  "by": "Denton Corker Marshall",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1993",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Granite and glass tower raised on zinc-plated beams over a sandstone podium, crowned by a steel 'milk-crate'.",
+  "award": "Sulman Medal 1994",
+  "status": "photo",
+  "commons_category": "Category:Governor Phillip Tower",
+  "photos": [
+   {
+    "file": "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Governor_Phillip_Tower",
+   "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal"
+  ],
+  "note": "Completed 1993 (infobox; the complex is dated 1994 in the article text). In both photos it is the pale tower with the bladed top to the right of the newer, twisted Quay Quarter Tower; no Commons photo shows it alone. Built over the remains of the first Government House, now the Museum of Sydney."
+ },
+ {
+  "id": "turanga-christchurch",
+  "name": "Tūranga (Christchurch Central Library)",
+  "by": "Architectus with Schmidt Hammer Lassen",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "2018",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Post-earthquake central library on Cathedral Square, its glass box wrapped in tall folded fins.",
+  "award": "Christchurch rebuild anchor project",
+  "status": "photo",
+  "commons_category": "Category:Tūranga",
+  "photos": [
+   {
+    "file": "File:Christchurch Public Library 2019 Outside.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Christchurch Pre-Wikicon sunset photowalk 24 Tūranga.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior of Tūranga Central Library in Christchurch, New Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/T%C5%ABranga"
+  ],
+  "note": "Opened 12 October 2018 as one of the 17 anchor projects of the Christchurch rebuild. Not from a national award list. 'Folded fins' is read from the photos."
  }
 ]
