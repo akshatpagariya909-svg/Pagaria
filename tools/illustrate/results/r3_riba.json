@@ -1062,5 +1062,660 @@
    "https://en.wikipedia.org/wiki/Central_European_University"
   ],
   "note": "Nádor utca 15. CEU moved most teaching to Vienna in 2019; the building remains."
+ },
+ {
+  "id": "appleby-blue-almshouse",
+  "name": "Appleby Blue Almshouse",
+  "by": "Witherford Watson Mann",
+  "city": "London",
+  "cc": "GB",
+  "year": "2023",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Almshouse flats for older people in brick ranges round a planted courtyard, reached by shared timber-lined galleries.",
+  "award": "RIBA Stirling Prize 2025",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Appleby Blue Almshouses, Bermondsey 2025-09-04.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Only one Commons photo (4032x3024, street corner, clear); it sits in Category:Southwark Park Road, London. Completion year 2023 from memory; galleries detail from memory, check."
+ },
+ {
+  "id": "bedzed",
+  "name": "BedZED",
+  "by": "Bill Dunster Architects",
+  "city": "London",
+  "cc": "GB",
+  "year": "2002",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Colour",
+   "Community"
+  ],
+  "features": "Low-energy village: south-facing glazed terraces, roof gardens and bright wind cowls that ventilate the homes.",
+  "award": "RIBA Stirling Prize 2003 shortlist",
+  "status": "photo",
+  "commons_category": "Category:BedZED",
+  "photos": [
+   {
+    "file": "File:BedZED 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BedZed.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Housing at BedZED, London Road, Hackbridge (July 2020) (1).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wind Cowls, BedZED, Hackbridge, London Borough of Sutton - Flickr - tonymonblat.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/BedZED",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Beddington Zero Energy Development, Hackbridge (Sutton), built by Peabody with BioRegional."
+ },
+ {
+  "id": "new-art-gallery-walsall",
+  "name": "The New Art Gallery Walsall",
+  "by": "Caruso St John",
+  "city": "Walsall",
+  "cc": "GB",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "A tower clad in pale grey terracotta tiles over the canal basin; timber-lined galleries with carefully varied daylight.",
+  "award": "RIBA Stirling Prize 2000 shortlist",
+  "status": "photo",
+  "commons_category": "Category:The New Art Gallery Walsall",
+  "photos": [
+   {
+    "file": "File:Walsall Art Gallery on a murky day (5529938095).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Walsall Art Gallery on a murky day 3 (5530511370).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Walsall Art Gallery on a murky day 2 (5529934251).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walsall_Art_Gallery",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Exterior photos are portrait, on a grey day; the first shows the whole tower."
+ },
+ {
+  "id": "lewis-glucksman-gallery",
+  "name": "Lewis Glucksman Gallery",
+  "by": "O'Donnell + Tuomey",
+  "city": "Cork",
+  "cc": "IE",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Cantilever",
+   "Landscape"
+  ],
+  "features": "Timber-clad gallery volumes lifted on slim columns above a limestone plinth, among trees on the university grounds.",
+  "award": "RIBA Stirling Prize 2005 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Glucksman gallery, Cork",
+  "photos": [
+   {
+    "file": "File:Glucksman2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:UCC Lewisglucksman.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Glucksman3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Glucksman_Gallery",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "At University College Cork."
+ },
+ {
+  "id": "maggies-centre-london",
+  "name": "Maggie's Centre London",
+  "by": "Rogers Stirk Harbour + Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "2008",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Human comfort",
+   "Colour",
+   "Courtyard"
+  ],
+  "features": "A deep orange rendered wall wraps a two-storey pavilion; a wide roof floats above it on a strip of clear glass.",
+  "award": "RIBA Stirling Prize 2009",
+  "status": "drawn",
+  "commons_category": "Category:Maggie's Centre, London",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: blank orange wall with an entrance gap, glazed upper storey set back behind it, oversailing flat roof hovering above on slim supports",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggie%27s_Centres",
+   "https://www.maggies.org/media/filer_public/93/16/9316d6e0-fc97-40d3-beec-7fd2840ae2b1/maggieswestlondon_designguide.pdf",
+   "https://building.co.uk/buildings/richard-rogers-maggies-centre-room-for-reassurance/3112667.article"
+  ],
+  "note": "Commons has only three 640px geograph photos (below the 800px rule): Maggie's Centre, Charing Cross, London.jpg; Entrance courtyard...; Roof garden... (CC BY-SA 2.0). The UK has freedom of panorama, so a new free photo is very possible. Drawing is schematic: wall height, number of mullions and support positions are simplified."
+ },
+ {
+  "id": "weald-and-downland-gridshell",
+  "name": "Weald and Downland Gridshell",
+  "by": "Edward Cullinan Architects, Buro Happold",
+  "city": "Singleton",
+  "cc": "GB",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Digital fabrication"
+  ],
+  "features": "A three-domed lattice of thin green oak laths bent into a peanut-shell shape over an archive sunk into the chalk slope.",
+  "award": "RIBA Stirling Prize 2002 shortlist",
+  "status": "drawn",
+  "commons_category": "Category:Weald and Downland Gridshell",
+  "photos": [],
+  "extras": [],
+  "view": "long side elevation: three-humped shell profile with two clerestory strips two thirds up and cedar-boarding tier line, on the low archive base",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weald_and_Downland_Gridshell",
+   "https://www.cullinanstudio.com/project-downland-gridshell",
+   "https://architizer.com/projects/downland-gridshell"
+  ],
+  "note": "Free exterior photos on Commons are all 640px geograph files (e.g. Downland Gridshell - geograph.org.uk - 291120.jpg, Gridshell.jpg); larger free files are interiors (Inside the Gridshell... 7018746, 1600px). Interiors could be extras. Height not sourced, so the profile shows proportion only."
+ },
+ {
+  "id": "children-village-canuana",
+  "name": "Children Village",
+  "by": "Aleph Zero, Rosenbaum",
+  "city": "Formoso do Araguaia",
+  "cc": "BR",
+  "year": "2017",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Timber",
+   "Climate response"
+  ],
+  "features": "Boarding houses for 540 pupils under one thin roof on a glulam timber grid; rooms of local earth brick and lattice.",
+  "award": "RIBA International Prize 2018",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation of one of the two identical halves: thin flat metal roof on a regular timber column grid, upper floor deck with railing, ground floor of earth-brick walls with lattice bays",
+  "after": null,
+  "sources": [
+   "https://www.archilovers.com/projects/236010/children-village.html",
+   "https://architectuul.com/architecture/children-village",
+   "https://jesusgranada.eu/children-village-canuana-brasil-gustavo-utrabo-duschenes-rosembaum"
+  ],
+  "note": "No photos of it on Commons at all. Sources (via search summaries; the sites themselves were unreachable) confirm the thin white metal roof on a 5.90 m glulam eucalyptus grid, earth-brick rooms and brick lattice, two levels, 540 pupils, 2017. The placement of rooms and lattice bays in the drawing is schematic; worth checking against a photo before publishing."
+ },
+ {
+  "id": "bishop-edward-king-chapel",
+  "name": "Bishop Edward King Chapel",
+  "by": "Niall McLaughlin Architects",
+  "city": "Cuddesdon",
+  "cc": "GB",
+  "year": "2013",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Timber",
+   "Stone"
+  ],
+  "features": "Elliptical chapel walled in patterned stone; inside, a grove of timber columns under a high clerestory.",
+  "award": "RIBA Stirling Prize 2013 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Bishop Edward King Chapel",
+  "photos": [
+   {
+    "file": "File:Bishop Edward King Chapel (outside)-130928.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ripon_College_Cuddesdon",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Only one exterior photo, a close view of part of the patterned stone wall (not the whole chapel). Also one interior (Bishop Edward King Chapel (inside)-130928.JPG). Weak; a drawing could help later."
+ },
+ {
+  "id": "the-hepworth-wakefield",
+  "name": "The Hepworth Wakefield",
+  "by": "David Chipperfield Architects",
+  "city": "Wakefield",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Water"
+  ],
+  "features": "A cluster of trapezoid blocks in pigmented concrete at the river's edge; each gallery is lit through its sloping roof.",
+  "award": "RIBA Stirling Prize 2012 shortlist",
+  "status": "photo",
+  "commons_category": "Category:The Hepworth Wakefield",
+  "photos": [
+   {
+    "file": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 001.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 002.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Barrier on the Calder, next to Hepworth Gallery - geograph.org.uk - 2743257.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Hepworth_Wakefield",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Large category; many more exteriors likely, plus artworks."
+ },
+ {
+  "id": "blavatnik-school-of-government",
+  "name": "Blavatnik School of Government",
+  "by": "Herzog & de Meuron",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Stacked glass discs, each shifted off the one below, round a tall central forum open to every floor.",
+  "award": "RIBA Stirling Prize 2016 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Blavatnik School of Government",
+  "photos": [
+   {
+    "file": "File:Blavatnik School of Government, Oxford.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cmglee Oxford Blavatnik School.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Blavatnik School of Government on Walton Street - geograph.org.uk - 6686640.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blavatnik_School_of_Government",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": ""
+ },
+ {
+  "id": "senedd-cardiff",
+  "name": "Senedd",
+  "by": "Richard Rogers Partnership",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "2006",
+  "type": "Civic",
+  "movement": "High-tech",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "A rippling cedar roof oversails a glass box on slate steps; a timber funnel lights and ventilates the debating chamber.",
+  "award": "RIBA Stirling Prize 2006 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Senedd (building)",
+  "photos": [
+   {
+    "file": "File:Senedd 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cardiff , The Senedd - geograph.org.uk - 3914922.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cardiff - National Assembly for Wales - geograph.org.uk - 6658563.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Senedd_building",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Welsh Parliament building. Subcategories for the timber roof, interior and construction."
+ },
+ {
+  "id": "burntwood-school",
+  "name": "Burntwood School",
+  "by": "Allford Hall Monaghan Morris",
+  "city": "London",
+  "cc": "GB",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "New teaching blocks and halls in tall sculpted precast-concrete panels, set among the school's 1950s buildings.",
+  "award": "RIBA Stirling Prize 2015",
+  "status": "unsure",
+  "commons_category": "Category:Burntwood School",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burntwood_School",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Commons has ~17 large geograph photos but all I checked were taken during demolition and construction (2013-14); none clearly shows the finished building (3800329 and 3800351 show the new pale block partly, behind rubble). Not drawn: I couldn't establish the massing of the several new blocks with confidence. Year 2014 from memory."
+ },
+ {
+  "id": "cambridge-central-mosque",
+  "name": "Cambridge Central Mosque",
+  "by": "Marks Barfield Architects",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "2019",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Glulam timber 'trees' branch into a lattice vault over the prayer hall, behind a garden court and brick walls.",
+  "award": "RIBA Stirling Prize 2021 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Cambridge Central Mosque",
+  "photos": [
+   {
+    "file": "File:Cambridge Central Mosque front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cmglee Cambridge Mosque front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cambridge Central Mosque 7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cambridge_Central_Mosque",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Many good interior photos by Cmglee (prayer hall, atrium)."
+ },
+ {
+  "id": "jacoby-studios-paderborn",
+  "name": "Jacoby Studios",
+  "by": "David Chipperfield Architects Berlin",
+  "city": "Paderborn",
+  "cc": "DE",
+  "year": "2020",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Courtyard"
+  ],
+  "features": "A 17th-century Capuchin cloister restored as a company HQ, extended with new wings of exposed concrete and timber.",
+  "award": "RIBA International Prize 2024 shortlist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://davidchipperfield.com/news/2020/jacoby-studios-complete-in-paderborn",
+   "https://www.archisearch.gr/architecture/jacoby-studios-in-paderborn-germany-david-chipperfield-architects-berlin/",
+   "https://domusweb.it/en/architecture/gallery/2020/10/26/david-chipperfield-architects-transforms-a-former-monastery-in-a-workspace.html"
+  ],
+  "note": "No Commons photos found (searched Jacoby, St. Vincenz, Kapuzinerkloster Paderborn). Germany has freedom of panorama, so this is a gap waiting for an upload. Not drawn: sources give two- to three-storey concrete and timber wings around the cloister but not their elevations."
+ },
+ {
+  "id": "lianzhou-museum-of-photography",
+  "name": "Lianzhou Museum of Photography",
+  "by": "O-office Architects",
+  "city": "Lianzhou",
+  "cc": "CN",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Earth & local material"
+  ],
+  "features": "An old warehouse wrapped by a U-shaped new wing under a folded roofscape clad in grey tiles salvaged from local houses.",
+  "award": "RIBA International Prize 2024 shortlist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.ribaj.com/buildings/lianzhou-museum-of-photography-lianzhou-china-o-office-architects/",
+   "https://divisare.com/projects/381825-o-office-architects-marco-chen-chaos-z-lianzhou-museum-of-photography",
+   "https://e-architect.com/china/lianzhou-museum-of-photography-guangdong-china"
+  ],
+  "note": "No Commons photos. Not drawn: sources describe a folded roof canopy, a U-shaped new building of three to five levels round the retained warehouse, and grey shingle from demolished houses with local schist, but not the roof geometry precisely enough to draw. Also an RIBA International Award 2021 winner."
+ },
+ {
+  "id": "john-morden-centre",
+  "name": "John Morden Centre, Morden College",
+  "by": "Mæ",
+  "city": "London",
+  "cc": "GB",
+  "year": "2022",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Brick",
+   "Landscape"
+  ],
+  "features": "Day centre for the residents of a 17th-century almshouse, set in its grounds in Blackheath.",
+  "award": "RIBA Stirling Prize 2023",
+  "status": "unsure",
+  "commons_category": "Category:Morden College",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Commons Category:Morden College has 2022 geograph photos (1024px) but those I checked show the old college buildings, not clearly the new centre; nothing names it. Not drawn: I couldn't find a reachable description of its form. Feature line is deliberately generic; type and concepts are best guesses from what it is, not from a source describing it - check before use."
+ },
+ {
+  "id": "modulus-matrix-cornella",
+  "name": "Modulus Matrix: 85 Social Housing in Cornellà",
+  "by": "Peris + Toral Arquitectes",
+  "city": "Cornellà de Llobregat",
+  "cc": "ES",
+  "year": "2021",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Courtyard",
+   "Modular"
+  ],
+  "features": "85 social flats in a CLT and glulam frame over a concrete ground floor, on an even grid of rooms round a courtyard.",
+  "award": "RIBA International Prize 2024",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.riba.org/explore/awards/international-awards/international-awards-for-excellence/2024/modulus-matrix-85-social-housing-in-cornella/",
+   "https://arquitecturaviva.com/works/85-viviendas-sociales-en-cornella-de-llobregat-barcelona",
+   "https://calab.es/project/85-viviendas-sociales-en-cornella/"
+  ],
+  "note": "No photos on Commons (Spain has freedom of panorama, so a free photo could be uploaded). Not drawn: search summaries confirm a five-storey timber frame over a concrete ground floor round a courtyard with corner cores, but conflict on whether balconies face the street or the courtyard, and nothing describes the street facade. Completion dates given as 2020, 2021 and 2022 by different sources."
+ },
+ {
+  "id": "british-library",
+  "name": "British Library",
+  "by": "Colin St John Wilson, MJ Long",
+  "city": "London",
+  "cc": "GB",
+  "year": "1997",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Stepped red-brick masses round a raised piazza; inside, the King's Library rises as a tall glass tower.",
+  "award": "RIBA Stirling Prize 1998 shortlist",
+  "status": "photo",
+  "commons_category": "Category:British Library - Building",
+  "photos": [
+   {
+    "file": "File:2010-08-03 British Library exterior 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Front elevation of the British Library, London - geograph.org.uk - 2277968.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:London - Euston Road - British Library 1997 by Colin St John Wilson & former Midland Grand Hotel 1868-73 by Sir George Gilbert Scott - View ENE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Outside the British Library - geograph.org.uk - 1064576.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/British_Library",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": ""
  }
 ]
