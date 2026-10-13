@@ -192982,7 +192982,97 @@ window.BUILDINGS = [
   "commons": "Category:Velodrom (Berlin)",
   "lead": "File:Velodrom Außenansicht - Luftaufnahme.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/SSE_Berlin_S%C3%BCdansicht_%282010%29.jpg/1280px-SSE_Berlin_S%C3%BCdansicht_%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/0.webp",
+    "w": 1280,
+    "h": 418,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jochen Teufel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SSE_Berlin_S%C3%BCdansicht_(2010).jpg",
+    "file": "File:SSE Berlin Südansicht (2010).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Deutsche_Meisterschaften_im_Bahnradsport_2024_156.jpg/1280px-Deutsche_Meisterschaften_im_Bahnradsport_2024_156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Ziellinie im Berliner Velodrom",
+    "credit": "Nicola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Meisterschaften_im_Bahnradsport_2024_156.jpg",
+    "file": "File:Deutsche Meisterschaften im Bahnradsport 2024 156.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutsche_Meisterschaften_im_Bahnradsport_2024_164.jpg/1280px-Deutsche_Meisterschaften_im_Bahnradsport_2024_164.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Oberfläche der Radrennbahn im Velodrom",
+    "credit": "Nicola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Meisterschaften_im_Bahnradsport_2024_164.jpg",
+    "file": "File:Deutsche Meisterschaften im Bahnradsport 2024 164.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2018_2019_UCI_Track_World_Cup_Berlin_226.jpg/1280px-2018_2019_UCI_Track_World_Cup_Berlin_226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Zielstrich im Berliner Velodrom",
+    "credit": "Nicola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_2019_UCI_Track_World_Cup_Berlin_226.jpg",
+    "file": "File:2018 2019 UCI Track World Cup Berlin 226.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/SSE-Zufahrtstra%C3%9Fe_%282010%29.jpg/1280px-SSE-Zufahrtstra%C3%9Fe_%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/4.webp",
+    "w": 1280,
+    "h": 912,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jochen Teufel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SSE-Zufahrtstra%C3%9Fe_(2010).jpg",
+    "file": "File:SSE-Zufahrtstraße (2010).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Velodrom_Innenraum_bei_einem_Konzert.jpg/1280px-Velodrom_Innenraum_bei_einem_Konzert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Scooter live im Velodrom 2016",
+    "credit": "Velomax",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Velodrom_Innenraum_bei_einem_Konzert.jpg",
+    "file": "File:Velodrom Innenraum bei einem Konzert.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ufo_Ansicht_-_UFO_im_Velodrom.jpg/1280px-Ufo_Ansicht_-_UFO_im_Velodrom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/velodrom-berlin/thumbs/6.webp",
+    "w": 1280,
+    "h": 896,
+    "kind": "Elevation",
+    "caption": "Elevation · So sieht das UFO im Velodrom aus",
+    "credit": "Velomax",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ufo_Ansicht_-_UFO_im_Velodrom.jpg",
+    "file": "File:Ufo Ansicht - UFO im Velodrom.jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "neurosciences-institute-la-jolla",
@@ -193006,7 +193096,71 @@ window.BUILDINGS = [
   "commons": "Category:Neurosciences Institute",
   "lead": "File:Neurosciences Institute01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Neurosciences_Institute01.jpg/1280px-Neurosciences_Institute01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/neurosciences-institute-la-jolla/thumbs/0.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · The Neurosciences Institute in San Diego, founded by Nobel laureate Gerald Edelman",
+    "credit": "Robert Cudmore",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neurosciences_Institute01.jpg",
+    "file": "File:Neurosciences Institute01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Neurosciences_Institute_at_Sunset.jpg/1280px-Neurosciences_Institute_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/neurosciences-institute-la-jolla/thumbs/1.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · The Neurosciences Institute in San Diego, founded by Nobel laureate Gerald Edelman",
+    "credit": "Robert Cudmore",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neurosciences_Institute_at_Sunset.jpg",
+    "file": "File:Neurosciences Institute at Sunset.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Neurosciences_Institute02.jpg/1280px-Neurosciences_Institute02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/neurosciences-institute-la-jolla/thumbs/2.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · The Neurosciences Institute in San Diego, founded by Nobel laureate Gerald Edelman",
+    "credit": "Robert Cudmore",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neurosciences_Institute02.jpg",
+    "file": "File:Neurosciences Institute02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Wilder_Penfield_Pavilion_Montreal.jpg/1280px-Wilder_Penfield_Pavilion_Montreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/neurosciences-institute-la-jolla/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Wilder Penfield Pavilion at McGill University, Montreal",
+    "credit": "Yoho2001",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wilder_Penfield_Pavilion_Montreal.jpg",
+    "file": "File:Wilder Penfield Pavilion Montreal.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Peretsman-Scully_Hall.jpg/1280px-Peretsman-Scully_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/neurosciences-institute-la-jolla/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Peretsman-Scully Hall, home to the Psychology Department and Neuroscience Institute of Princeton University",
+    "credit": "David Keddie",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peretsman-Scully_Hall.jpg",
+    "file": "File:Peretsman-Scully Hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "moesgaard-museum",
@@ -193030,7 +193184,97 @@ window.BUILDINGS = [
   "commons": "Category:Moesgård Museum",
   "lead": "File:MoMu 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/MoMu_01.jpg/1280px-MoMu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Moesgaard Museum (MoMu)",
+    "credit": "RhinoMind",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MoMu_01.jpg",
+    "file": "File:MoMu 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Moesg%C3%A5rd_Museum%2C_New_building1.JPG/1280px-Moesg%C3%A5rd_Museum%2C_New_building1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 718,
+    "kind": "Exterior",
+    "caption": "Exterior · Moesgård museum's new building",
+    "credit": "Gardar Rurak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moesg%C3%A5rd_Museum,_New_building1.JPG",
+    "file": "File:Moesgård Museum, New building1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Moesg%C3%A5rd_Museum_photographed_by_drone.jpg/1280px-Moesg%C3%A5rd_Museum_photographed_by_drone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Context",
+    "caption": "Context · Moesgård Museum photographed by drone",
+    "credit": "Smartdrones Aarhus",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moesg%C3%A5rd_Museum_photographed_by_drone.jpg",
+    "file": "File:Moesgård Museum photographed by drone.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/MoMU_02.jpg/1280px-MoMU_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Moesgaard Museum (MoMu)",
+    "credit": "RhinoMind",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MoMU_02.jpg",
+    "file": "File:MoMU 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Baldric_components%2C_Moesgaard_Museum.jpg/1280px-Baldric_components%2C_Moesgaard_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Interior",
+    "caption": "Interior · Parts of a baldric showing a man and four mounted horsmen, from Norway",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baldric_components,_Moesgaard_Museum.jpg",
+    "file": "File:Baldric components, Moesgaard Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Stone_age_clay_pot%2C_Moesgaard_Museum.jpg/1280px-Stone_age_clay_pot%2C_Moesgaard_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Interior",
+    "caption": "Interior · Stone age clay pot,",
+    "credit": "Colin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stone_age_clay_pot,_Moesgaard_Museum.jpg",
+    "file": "File:Stone age clay pot, Moesgaard Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Scale_model_of_Aarhus.jpg/1280px-Scale_model_of_Aarhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moesgaard-museum/thumbs/6.webp",
+    "w": 1280,
+    "h": 762,
+    "kind": "Model",
+    "caption": "Model · Scale model of Aarhus during the Viking age in Moesgaard Museum",
+    "credit": "Gardar Rurak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scale_model_of_Aarhus.jpg",
+    "file": "File:Scale model of Aarhus.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "pousada-santa-maria-do-bouro",
@@ -193054,7 +193298,83 @@ window.BUILDINGS = [
   "commons": "Category:Convento de Santa Maria do Bouro",
   "lead": "File:O mosteiro.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/O_mosteiro.jpg/1280px-O_mosteiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Vistas da Pousada e do seu laranjal",
+    "credit": "Elisete Reis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_mosteiro.jpg",
+    "file": "File:O mosteiro.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/IMGP6572_-_Convento_de_Santa_Maria_do_Bouro_%C3%A0_noite.jpg/1280px-IMGP6572_-_Convento_de_Santa_Maria_do_Bouro_%C3%A0_noite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/1.webp",
+    "w": 1280,
+    "h": 833,
+    "kind": "Exterior",
+    "caption": "Exterior · Pousada de Santa Maria do Bouro - edifício em Amares, Portugal",
+    "credit": "Cardilio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IMGP6572_-_Convento_de_Santa_Maria_do_Bouro_%C3%A0_noite.jpg",
+    "file": "File:IMGP6572 - Convento de Santa Maria do Bouro à noite.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Esplanada_da_Pousada.jpg/1280px-Esplanada_da_Pousada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · esplanada",
+    "credit": "Elisete Reis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Esplanada_da_Pousada.jpg",
+    "file": "File:Esplanada da Pousada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Pousada_de_Santa_Maria_do_Bouro_IMG_9783_%286127244425%29.jpg/1280px-Pousada_de_Santa_Maria_do_Bouro_IMG_9783_%286127244425%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · IMG_9783",
+    "credit": "準建築人手札網站 Forgemind ArchiMedia  from Taichung, Taiwan, Taiwan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pousada_de_Santa_Maria_do_Bouro_IMG_9783_(6127244425).jpg",
+    "file": "File:Pousada de Santa Maria do Bouro IMG 9783 (6127244425).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Bouro_March_2016-1a.jpg/1280px-Bouro_March_2016-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/4.webp",
+    "w": 976,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Convent of Santa Maria do Bouro, detail of interior",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bouro_March_2016-1a.jpg",
+    "file": "File:Bouro March 2016-1a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bouro_March_2016-2.JPG/1280px-Bouro_March_2016-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pousada-santa-maria-do-bouro/thumbs/5.webp",
+    "w": 1280,
+    "h": 837,
+    "kind": "Interior",
+    "caption": "Interior · The Church of santa Maria do Bouro, detail of the exterior stairs",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bouro_March_2016-2.JPG",
+    "file": "File:Bouro March 2016-2.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "san-telmo-museum-extension",
@@ -193078,7 +193398,83 @@ window.BUILDINGS = [
   "commons": "Category:Museum and Monastery of San Telmo (STM)",
   "lead": "File:Museo San Telmo.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_San_Telmo.JPG/1280px-Museo_San_Telmo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo San Telmo in Donostia",
+    "credit": "HJunghans",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_San_Telmo.JPG",
+    "file": "File:Museo San Telmo.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Museo_San_Telmo_entrada.jpg/1280px-Museo_San_Telmo_entrada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/1.webp",
+    "w": 1280,
+    "h": 1022,
+    "kind": "Exterior",
+    "caption": "Exterior · Castillo de San Telmo",
+    "credit": "Kristale69",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_San_Telmo_entrada.jpg",
+    "file": "File:Museo San Telmo entrada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Museo_San_Telmo_San_Sebastian.jpg/1280px-Museo_San_Telmo_San_Sebastian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/2.webp",
+    "w": 1280,
+    "h": 901,
+    "kind": "Exterior",
+    "caption": "Exterior · Castillo de San Telmo",
+    "credit": "Kristale69",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_San_Telmo_San_Sebastian.jpg",
+    "file": "File:Museo San Telmo San Sebastian.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/San_Sebastian_-_Mus%C3%A9e_San_Telmo.jpg/1280px-San_Sebastian_-_Mus%C3%A9e_San_Telmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · San Sebastian - Musée San Telmo",
+    "credit": "Jean-Christophe BENOIST",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Sebastian_-_Mus%C3%A9e_San_Telmo.jpg",
+    "file": "File:San Sebastian - Musée San Telmo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Interior_of_the_San_Telmo_Museoa_2022_01.jpg/1280px-Interior_of_the_San_Telmo_Museoa_2022_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the San Telmo Museoa",
+    "credit": "Chatsam",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_San_Telmo_Museoa_2022_01.jpg",
+    "file": "File:Interior of the San Telmo Museoa 2022 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Interior_of_the_San_Telmo_Museoa_2022_02.jpg/1280px-Interior_of_the_San_Telmo_Museoa_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-telmo-museum-extension/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the San Telmo Museoa",
+    "credit": "Chatsam",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_San_Telmo_Museoa_2022_02.jpg",
+    "file": "File:Interior of the San Telmo Museoa 2022 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "san-antonio-central-library",
@@ -193102,7 +193498,71 @@ window.BUILDINGS = [
   "commons": "Category:San Antonio Public Library",
   "lead": "File:Central Library II (48874533928).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Central_Library_II_%2848874533928%29.jpg/1280px-Central_Library_II_%2848874533928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-antonio-central-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Central Library II",
+    "credit": "Eden, Janine and Jim  from New York City",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Library_II_(48874533928).jpg",
+    "file": "File:Central Library II (48874533928).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/San_Antonio_Central_Library.jpg/1280px-San_Antonio_Central_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-antonio-central-library/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The downtown library opened in 1995 and features a modern Mexican design",
+    "credit": "MagicM100",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Antonio_Central_Library.jpg",
+    "file": "File:San Antonio Central Library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Downtown%2C_San_Antonio%2C_United_States_%28Unsplash%29.jpg/1280px-Downtown%2C_San_Antonio%2C_United_States_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-antonio-central-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Downtown, San Antonio, United States",
+    "credit": "January Smith  january01smith",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown,_San_Antonio,_United_States_(Unsplash).jpg",
+    "file": "File:Downtown, San Antonio, United States (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/SAPL4.jpg/1280px-SAPL4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-antonio-central-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · San Antonio Public Library",
+    "credit": "Zereshk",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SAPL4.jpg",
+    "file": "File:SAPL4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/US_Navy_051105-N-5006P-025_Navy_Recruiter%2C_Electrician%27s_Mate_2nd_Class_Adam_Tobias%2C_reads_the_book_Dino_Sailors_to_a_group_of_young_children_at_the_main_branch_of_the_San_Antonio_Public_Library.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-antonio-central-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 862,
+    "kind": "Detail",
+    "caption": "Detail · San Antonio, Texas (Nov",
+    "credit": "U.S. Navy photo by Journalist 1st Class Erin Perez",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Navy_051105-N-5006P-025_Navy_Recruiter,_Electrician%27s_Mate_2nd_Class_Adam_Tobias,_reads_the_book_Dino_Sailors_to_a_group_of_young_children_at_the_main_branch_of_the_San_Antonio_Public_Library.jpg",
+    "file": "File:US Navy 051105-N-5006P-025 Navy Recruiter, Electrician's Mate 2nd Class Adam Tobias, reads the book Dino Sailors to a group of young children at the main branch of the San Antonio Public Library.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "goldsmith-street",
@@ -193126,7 +193586,35 @@ window.BUILDINGS = [
   "commons": "Category:Goldsmith Street, Norwich",
   "lead": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357512.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Goldsmith_Street%2C_Norwich_-_geograph.org.uk_-_6357512.jpg/1280px-Goldsmith_Street%2C_Norwich_-_geograph.org.uk_-_6357512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goldsmith-street/thumbs/0.webp",
+    "w": 991,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Goldsmith Street, Norwich",
+    "credit": "David Hallam-Jones",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldsmith_Street,_Norwich_-_geograph.org.uk_-_6357512.jpg",
+    "file": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357512.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Goldsmith_Street%2C_Norwich_-_geograph.org.uk_-_6357537.jpg/1280px-Goldsmith_Street%2C_Norwich_-_geograph.org.uk_-_6357537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goldsmith-street/thumbs/1.webp",
+    "w": 1250,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Goldsmith Street, Norwich",
+    "credit": "David Hallam-Jones",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goldsmith_Street,_Norwich_-_geograph.org.uk_-_6357537.jpg",
+    "file": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357537.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "new-library-magdalene-college",
@@ -193150,7 +193638,59 @@ window.BUILDINGS = [
   "commons": "Category:New Library, Magdalene College, Cambridge",
   "lead": "File:New Library, Magdalene College 2024-03-14 (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/New_Library%2C_Magdalene_College_2024-03-14_%281%29.jpg/1280px-New_Library%2C_Magdalene_College_2024-03-14_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-library-magdalene-college/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · New Library, Magdalene College, Cambridge",
+    "credit": "The wub",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Library,_Magdalene_College_2024-03-14_(1).jpg",
+    "file": "File:New Library, Magdalene College 2024-03-14 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Library%2C_Magdalene_College_2024-03-14_%282%29.jpg/1280px-New_Library%2C_Magdalene_College_2024-03-14_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-library-magdalene-college/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · New Library, Magdalene College, Cambridge",
+    "credit": "The wub",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Library,_Magdalene_College_2024-03-14_(2).jpg",
+    "file": "File:New Library, Magdalene College 2024-03-14 (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/MagdaleneCollegeCam.jpg/1280px-MagdaleneCollegeCam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-library-magdalene-college/thumbs/2.webp",
+    "w": 1280,
+    "h": 660,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MagdaleneCollegeCam.jpg",
+    "file": "File:MagdaleneCollegeCam.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Magdalene_College_gardens_and_library_from_across_the_River_Cam_2024-03-14.jpg/1280px-Magdalene_College_gardens_and_library_from_across_the_River_Cam_2024-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-library-magdalene-college/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context · Magdalene College, Cambridge",
+    "credit": "The wub",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Magdalene_College_gardens_and_library_from_across_the_River_Cam_2024-03-14.jpg",
+    "file": "File:Magdalene College gardens and library from across the River Cam 2024-03-14.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gateshead-millennium-bridge",
@@ -193174,7 +193714,83 @@ window.BUILDINGS = [
   "commons": "Category:Gateshead Millennium Bridge",
   "lead": "File:Gateshead Millennium Bridge (51218283831).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Gateshead_Millennium_Bridge_%2851218283831%29.jpg/1280px-Gateshead_Millennium_Bridge_%2851218283831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gateshead_Millennium_Bridge_(51218283831).jpg",
+    "file": "File:Gateshead Millennium Bridge (51218283831).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gateshead_Millennium_bridge_%26_BALTIC_art_gallery%2C_14_June_2012.jpg/1280px-Gateshead_Millennium_bridge_%26_BALTIC_art_gallery%2C_14_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Such a beautiful day to grab a shot of the River Tyne's main attractions from the Sage",
+    "credit": "Jatinder Dhillon",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gateshead_Millennium_bridge_%26_BALTIC_art_gallery,_14_June_2012.jpg",
+    "file": "File:Gateshead Millennium bridge & BALTIC art gallery, 14 June 2012.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2021-GB-Newcastle-Gateshead_Millennium_Bridge.jpg/1280px-2021-GB-Newcastle-Gateshead_Millennium_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This was taken when I was studying as a postgraduate student in Newcastle University, UK",
+    "credit": "Sraperfecta Audrey",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021-GB-Newcastle-Gateshead_Millennium_Bridge.jpg",
+    "file": "File:2021-GB-Newcastle-Gateshead Millennium Bridge.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Gateshead_-_Baltic_Flour_Mill_and_Millennium_Bridge.jpg/1280px-Gateshead_-_Baltic_Flour_Mill_and_Millennium_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/3.webp",
+    "w": 1280,
+    "h": 791,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gateshead_-_Baltic_Flour_Mill_and_Millennium_Bridge.jpg",
+    "file": "File:Gateshead - Baltic Flour Mill and Millennium Bridge.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/A_close-up_of_the_Pivots_as_the_Gateshead_Millennium_Bridge_opens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · A close-up of the Pivots as the Gateshead Millennium Bridge opens",
+    "credit": "Xtrememachineuk  ( talk ) ( Uploads )",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:A_close-up_of_the_Pivots_as_the_Gateshead_Millennium_Bridge_opens.jpg",
+    "file": "File:A close-up of the Pivots as the Gateshead Millennium Bridge opens.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Come_Hell_or_High_Water.jpg/1280px-Come_Hell_or_High_Water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gateshead-millennium-bridge/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · An artwork by Michael Pinsky",
+    "credit": "Michael Pinsky",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Come_Hell_or_High_Water.jpg",
+    "file": "File:Come Hell or High Water.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stormen-bodo",
@@ -193198,7 +193814,83 @@ window.BUILDINGS = [
   "commons": "Category:Stormen, Kulturkvartalet i Bodø",
   "lead": "File:Stormen Konserthuset, Bodø, South view 20150608 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Stormen_Konserthuset%2C_Bod%C3%B8%2C_South_view_20150608_1.jpg/1280px-Stormen_Konserthuset%2C_Bod%C3%B8%2C_South_view_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stormen-bodo/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · A south view of the concert hall that is part of the Stormen complex in Bodø",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormen_Konserthuset,_Bod%C3%B8,_South_view_20150608_1.jpg",
+    "file": "File:Stormen Konserthuset, Bodø, South view 20150608 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Stormen_Biblioteket%2C_Bod%C3%B8%2C_South_view_20150608_1.jpg/1280px-Stormen_Biblioteket%2C_Bod%C3%B8%2C_South_view_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stormen-bodo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A south view of the library that is part of the Stormen complex in Bodø",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormen_Biblioteket,_Bod%C3%B8,_South_view_20150608_1.jpg",
+    "file": "File:Stormen Biblioteket, Bodø, South view 20150608 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Stormen_Biblioteket_Bod%C3%B8_1.jpg/1280px-Stormen_Biblioteket_Bod%C3%B8_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stormen-bodo/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Stormen library in Bodø",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormen_Biblioteket_Bod%C3%B8_1.jpg",
+    "file": "File:Stormen Biblioteket Bodø 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Stormen_Biblioteket_Bod%C3%B8_3.jpg/1280px-Stormen_Biblioteket_Bod%C3%B8_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stormen-bodo/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Stormen library in Bodø",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormen_Biblioteket_Bod%C3%B8_3.jpg",
+    "file": "File:Stormen Biblioteket Bodø 3.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Stormen%2C_Kulturkvartalet_sett_fra_havnepromenaden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/stormen-bodo/thumbs/4.webp",
+    "w": 1200,
+    "h": 892,
+    "kind": "Exterior",
+    "caption": "Exterior · illustrasjon: DRDH Architects/Bodø kommune",
+    "credit": "illustrasjon: DRDH Architects/Bodø kommune",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stormen,_Kulturkvartalet_sett_fra_havnepromenaden.jpg",
+    "file": "File:Stormen, Kulturkvartalet sett fra havnepromenaden.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bod%C3%B8_bibliotek_interior_01.jpg/1280px-Bod%C3%B8_bibliotek_interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stormen-bodo/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Stormen Public Library in Bodø, Norway",
+    "credit": "Alicia Fagerving",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bod%C3%B8_bibliotek_interior_01.jpg",
+    "file": "File:Bodø bibliotek interior 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "arquipelago-contemporary-arts-centre",
@@ -193222,7 +193914,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Arquipélago - Centro de Artes Contemporâneas, Azoren 2016 01.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Arquip%C3%A9lago_-_Centro_de_Artes_Contempor%C3%A2neas%2C_Azoren_2016_01.JPG/1280px-Arquip%C3%A9lago_-_Centro_de_Artes_Contempor%C3%A2neas%2C_Azoren_2016_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arquipelago-contemporary-arts-centre/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Art Museum Arquipélago - Centro de Artes Contemporâneas",
+    "credit": "Kritzolina",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arquip%C3%A9lago_-_Centro_de_Artes_Contempor%C3%A2neas,_Azoren_2016_01.JPG",
+    "file": "File:Arquipélago - Centro de Artes Contemporâneas, Azoren 2016 01.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toho-gakuen-school-of-music",
@@ -193246,7 +193954,59 @@ window.BUILDINGS = [
   "commons": "Category:Toho Gakuen School of Music",
   "lead": "File:Toho Gakuen School of Music Chofu Campus.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Toho_Gakuen_School_of_Music_Chofu_Campus.JPG/1280px-Toho_Gakuen_School_of_Music_Chofu_Campus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toho-gakuen-school-of-music/thumbs/0.webp",
+    "w": 1280,
+    "h": 650,
+    "kind": "Exterior",
+    "caption": "Exterior · Toho Gakuen School of Music Chofu Campus",
+    "credit": "Nyao148",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toho_Gakuen_School_of_Music_Chofu_Campus.JPG",
+    "file": "File:Toho Gakuen School of Music Chofu Campus.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Toho-Gakuen-Senkawa.JPG/1280px-Toho-Gakuen-Senkawa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toho-gakuen-school-of-music/thumbs/1.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nyao148",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toho-Gakuen-Senkawa.JPG",
+    "file": "File:Toho-Gakuen-Senkawa.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Toho_Gakuen.JPG/1280px-Toho_Gakuen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toho-gakuen-school-of-music/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Toho Gakuen Senkawa Campus",
+    "credit": "Nyao148",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toho_Gakuen.JPG",
+    "file": "File:Toho Gakuen.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%E6%A1%90%E6%9C%8B%E5%AD%A6%E5%9C%92%E3%81%AE%E6%A1%9C.jpg/1280px-%E6%A1%90%E6%9C%8B%E5%AD%A6%E5%9C%92%E3%81%AE%E6%A1%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toho-gakuen-school-of-music/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kirin7739",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%A1%90%E6%9C%8B%E5%AD%A6%E5%9C%92%E3%81%AE%E6%A1%9C.jpg",
+    "file": "File:桐朋学園の桜.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lille-langebro",
@@ -193270,7 +194030,59 @@ window.BUILDINGS = [
   "commons": "Category:Lille Langebro",
   "lead": "File:Lille Langebro (Copenhagen).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lille_Langebro_%28Copenhagen%29.jpg/1280px-Lille_Langebro_%28Copenhagen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lille-langebro/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Lille Langebro in Copenhagen, Denmark",
+    "credit": "Maria  Eklind",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lille_Langebro_(Copenhagen).jpg",
+    "file": "File:Lille Langebro (Copenhagen).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lille_Langebro_02.jpg/1280px-Lille_Langebro_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lille-langebro/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The bicycle and pedestrian bridge Lille Langebro between Sjælland and Christianshavn in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lille_Langebro_02.jpg",
+    "file": "File:Lille Langebro 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Lille_Langebro_winter_2026_1.jpg/1280px-Lille_Langebro_winter_2026_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lille-langebro/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Lille Langebro, Copenhagen",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lille_Langebro_winter_2026_1.jpg",
+    "file": "File:Lille Langebro winter 2026 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lille_Langebro_winter_2026_3.jpg/1280px-Lille_Langebro_winter_2026_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lille-langebro/thumbs/3.webp",
+    "w": 1280,
+    "h": 847,
+    "kind": "Exterior",
+    "caption": "Exterior · Lille Langebro, Copenhagen",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lille_Langebro_winter_2026_3.jpg",
+    "file": "File:Lille Langebro winter 2026 3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hastings-pier",
@@ -193294,7 +194106,83 @@ window.BUILDINGS = [
   "commons": "Category:Hastings Pier",
   "lead": "File:Hasting Pier Aug 2026.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hasting_Pier_Aug_2026.jpg/1280px-Hasting_Pier_Aug_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hasting Pier from the shore, as of August 2026",
+    "credit": "Scribwik",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hasting_Pier_Aug_2026.jpg",
+    "file": "File:Hasting Pier Aug 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Hastings_Pier_%282018%29.jpg/1280px-Hastings_Pier_%282018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/1.webp",
+    "w": 1280,
+    "h": 492,
+    "kind": "Exterior",
+    "caption": "Exterior · Hastings Pier, East Sussex, England, after its redevelopment in 2017",
+    "credit": "Jim Linwood  from London",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hastings_Pier_(2018).jpg",
+    "file": "File:Hastings Pier (2018).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Beach_huts_by_Hastings_Pier_-_geograph.org.uk_-_6925310.jpg/1280px-Beach_huts_by_Hastings_Pier_-_geograph.org.uk_-_6925310.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/2.webp",
+    "w": 1280,
+    "h": 617,
+    "kind": "Exterior",
+    "caption": "Exterior · Beach huts by Hastings Pier",
+    "credit": "Oast House Archive",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_huts_by_Hastings_Pier_-_geograph.org.uk_-_6925310.jpg",
+    "file": "File:Beach huts by Hastings Pier - geograph.org.uk - 6925310.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hastings_Pier_from_East_Hill.jpg/1280px-Hastings_Pier_from_East_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A view across the sea",
+    "credit": "Grotesker",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hastings_Pier_from_East_Hill.jpg",
+    "file": "File:Hastings Pier from East Hill.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_view_from_Hastings_Pier._c.1991_%288121986729%29.jpg/1280px-A_view_from_Hastings_Pier._c.1991_%288121986729%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/4.webp",
+    "w": 1280,
+    "h": 769,
+    "kind": "Interior",
+    "caption": "Interior · I'm not sure about the date but, if this one doesn't qualify, I shall be happy to remove it",
+    "credit": "Phil Sellens  from East Sussex",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_from_Hastings_Pier._c.1991_(8121986729).jpg",
+    "file": "File:A view from Hastings Pier. c.1991 (8121986729).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hastings_Pier._%288178330649%29.jpg/1280px-Hastings_Pier._%288178330649%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hastings-pier/thumbs/5.webp",
+    "w": 1280,
+    "h": 784,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the pavilion",
+    "credit": "Phil Sellens  from East Sussex",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hastings_Pier._(8178330649).jpg",
+    "file": "File:Hastings Pier. (8178330649).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ring-of-remembrance",
@@ -193318,7 +194206,83 @@ window.BUILDINGS = [
   "commons": "Category:L'Anneau de la Mémoire",
   "lead": "File:Anneau de la mémoire.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Anneau_de_la_m%C3%A9moire.JPG/1280px-Anneau_de_la_m%C3%A9moire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bg62",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anneau_de_la_m%C3%A9moire.JPG",
+    "file": "File:Anneau de la mémoire.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/L%27Anneau_de_la_M%C3%A9moire.JPG/1280px-L%27Anneau_de_la_M%C3%A9moire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/1.webp",
+    "w": 1280,
+    "h": 709,
+    "kind": "Exterior",
+    "caption": "Exterior · L'Anneau de la Mémoire, à Ablain-Saint-Nazaire, en 2014",
+    "credit": "Felouch Kotek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%27Anneau_de_la_M%C3%A9moire.JPG",
+    "file": "File:L'Anneau de la Mémoire.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Notre_Dame_de_Lorette-Anneau_de_la_M%C3%A9moire-20151231.jpg/1280px-Notre_Dame_de_Lorette-Anneau_de_la_M%C3%A9moire-20151231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Daniel VILLAFRUELA .",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Lorette-Anneau_de_la_M%C3%A9moire-20151231.jpg",
+    "file": "File:Notre Dame de Lorette-Anneau de la Mémoire-20151231.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ablain-Saint-Nazaire_-_20130828_164631.jpg/1280px-Ablain-Saint-Nazaire_-_20130828_164631.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Poudou99",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ablain-Saint-Nazaire_-_20130828_164631.jpg",
+    "file": "File:Ablain-Saint-Nazaire - 20130828 164631.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Anneau_de_Lorette.jpg/1280px-Anneau_de_Lorette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Vue depuis l'intérieur de l'anneau",
+    "credit": "GerdeeX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anneau_de_Lorette.jpg",
+    "file": "File:Anneau de Lorette.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Anneau_Window.JPG/1280px-Anneau_Window.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ring-of-remembrance/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · L'Anneau de la Mémoire, image 13",
+    "credit": "Carolin Hahnemann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anneau_Window.JPG",
+    "file": "File:Anneau Window.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "central-european-university-budapest",
@@ -193342,7 +194306,71 @@ window.BUILDINGS = [
   "commons": "Category:New Building of Central European University, Budapest",
   "lead": "File:Közép Európai Egyetem.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_%284%29.jpg/1280px-K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-european-university-budapest/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A Közép-európai Egyetem épülete a Nádor utcában, Budapesten",
+    "credit": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_(4).jpg",
+    "file": "File:Közép Európai Egyetem (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_%285%29.jpg/1280px-K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-european-university-budapest/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A Közép-európai Egyetem épülete a Nádor utcában, Budapesten",
+    "credit": "Elekes Andor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6z%C3%A9p_Eur%C3%B3pai_Egyetem_(5).jpg",
+    "file": "File:Közép Európai Egyetem (5).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/N%C3%A1dorstrasse_15%2C_Treppe%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg/1280px-N%C3%A1dorstrasse_15%2C_Treppe%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-european-university-budapest/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Central European University Budapest Site Nádor campus",
+    "credit": "Globetrotter19",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1dorstrasse_15,_Treppe,_2022_Lip%C3%B3tv%C3%A1ros.jpg",
+    "file": "File:Nádorstrasse 15, Treppe, 2022 Lipótváros.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/N%C3%A1dorstrasse_15%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg/1280px-N%C3%A1dorstrasse_15%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-european-university-budapest/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Central European University Budapest Site Nádor campus",
+    "credit": "Globetrotter19",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1dorstrasse_15,_2022_Lip%C3%B3tv%C3%A1ros.jpg",
+    "file": "File:Nádorstrasse 15, 2022 Lipótváros.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/N%C3%A1dorstrasse_15%2C_Ausstellung_%27Ukrainische_Kinderkunstwerke%27_und_Klavier%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg/1280px-N%C3%A1dorstrasse_15%2C_Ausstellung_%27Ukrainische_Kinderkunstwerke%27_und_Klavier%2C_2022_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-european-university-budapest/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Central European University Budapest Site Nádor campus",
+    "credit": "Globetrotter19",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1dorstrasse_15,_Ausstellung_%27Ukrainische_Kinderkunstwerke%27_und_Klavier,_2022_Lip%C3%B3tv%C3%A1ros.jpg",
+    "file": "File:Nádorstrasse 15, Ausstellung 'Ukrainische Kinderkunstwerke' und Klavier, 2022 Lipótváros.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "appleby-blue-almshouse",
@@ -193366,7 +194394,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Appleby Blue Almshouses, Bermondsey 2025-09-04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Appleby_Blue_Almshouses%2C_Bermondsey_2025-09-04.jpg/1280px-Appleby_Blue_Almshouses%2C_Bermondsey_2025-09-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/appleby-blue-almshouse/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Nominated for the Stirling Prize",
+    "credit": "Matt Brown",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Appleby_Blue_Almshouses,_Bermondsey_2025-09-04.jpg",
+    "file": "File:Appleby Blue Almshouses, Bermondsey 2025-09-04.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bedzed",
@@ -193390,7 +194434,83 @@ window.BUILDINGS = [
   "commons": "Category:BedZED",
   "lead": "File:BedZED 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/BedZED_01.jpg/1280px-BedZED_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bedzed/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Giogo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BedZED_01.jpg",
+    "file": "File:BedZED 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/BedZed.jpg/1280px-BedZed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bedzed/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "James Fairbairn  from London",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BedZed.jpg",
+    "file": "File:BedZed.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Housing_at_BedZED%2C_London_Road%2C_Hackbridge_%28July_2020%29_%281%29.jpg/1280px-Housing_at_BedZED%2C_London_Road%2C_Hackbridge_%28July_2020%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bedzed/thumbs/2.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior · Housing at BedZED, London Road, Hackbridge, London Borough of Sutton, England",
+    "credit": "User:Hassocks5489",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Housing_at_BedZED,_London_Road,_Hackbridge_(July_2020)_(1).jpg",
+    "file": "File:Housing at BedZED, London Road, Hackbridge (July 2020) (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Wind_Cowls%2C_BedZED%2C_Hackbridge%2C_London_Borough_of_Sutton_-_Flickr_-_tonymonblat.jpg/1280px-Wind_Cowls%2C_BedZED%2C_Hackbridge%2C_London_Borough_of_Sutton_-_Flickr_-_tonymonblat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bedzed/thumbs/3.webp",
+    "w": 1280,
+    "h": 652,
+    "kind": "Exterior",
+    "caption": "Exterior · Wind Cowls, BedZED, Hackbridge, London Borough of Sutton",
+    "credit": "Tony Monblat",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wind_Cowls,_BedZED,_Hackbridge,_London_Borough_of_Sutton_-_Flickr_-_tonymonblat.jpg",
+    "file": "File:Wind Cowls, BedZED, Hackbridge, London Borough of Sutton - Flickr - tonymonblat.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/BedZed_Allotments.jpg/1280px-BedZed_Allotments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bedzed/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The view from the bench we built yesterday across the pig trough allotments towards BedZED",
+    "credit": "Paul Miller  from London, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BedZed_Allotments.jpg",
+    "file": "File:BedZed Allotments.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Street_in_BedZED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/bedzed/thumbs/5.webp",
+    "w": 1200,
+    "h": 900,
+    "kind": "Context",
+    "caption": "Context · street in BedZED",
+    "credit": "hotzeplotz  from London, United Kingdom",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Street_in_BedZED.jpg",
+    "file": "File:Street in BedZED.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "new-art-gallery-walsall",
@@ -193414,7 +194534,97 @@ window.BUILDINGS = [
   "commons": "Category:The New Art Gallery Walsall",
   "lead": "File:Walsall Art Gallery on a murky day (5529938095).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Walsall_Art_Gallery_on_a_murky_day_3_%285530511370%29.jpg/1280px-Walsall_Art_Gallery_on_a_murky_day_3_%285530511370%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/0.webp",
+    "w": 1044,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Walsall Art Gallery on a murky day 3",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walsall_Art_Gallery_on_a_murky_day_3_(5530511370).jpg",
+    "file": "File:Walsall Art Gallery on a murky day 3 (5530511370).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Walsall_Art_Gallery_on_a_murky_day_2_%285529934251%29.jpg/1280px-Walsall_Art_Gallery_on_a_murky_day_2_%285529934251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/1.webp",
+    "w": 1023,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Walsall Art Gallery on a murky day 2",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walsall_Art_Gallery_on_a_murky_day_2_(5529934251).jpg",
+    "file": "File:Walsall Art Gallery on a murky day 2 (5529934251).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Nothing_left.jpg/1280px-Nothing_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/2.webp",
+    "w": 1280,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior · Etching by A",
+    "credit": "Gery Bichard",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Nothing_left.jpg",
+    "file": "File:Nothing left.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Walsall_numbers_artwork_-_6.JPG/1280px-Walsall_numbers_artwork_-_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Part of a mural in Walsall , England, displaying statistics about the town",
+    "credit": "Andy Mabbett",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walsall_numbers_artwork_-_6.JPG",
+    "file": "File:Walsall numbers artwork - 6.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Interior_of_Walsall_Church_%28As_it_appeared_after_gas_explosion%29.jpg/1280px-Interior_of_Walsall_Church_%28As_it_appeared_after_gas_explosion%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/4.webp",
+    "w": 1280,
+    "h": 880,
+    "kind": "Interior",
+    "caption": "Interior · Lithograph by G Rowe in the New Art Gallery Walsall permanent collection",
+    "credit": "G. Rowe",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Walsall_Church_(As_it_appeared_after_gas_explosion).jpg",
+    "file": "File:Interior of Walsall Church (As it appeared after gas explosion).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/New_Art_Gallery_%2833236671484%29.jpg/1280px-New_Art_Gallery_%2833236671484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · New Art Gallery",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Art_Gallery_(33236671484).jpg",
+    "file": "File:New Art Gallery (33236671484).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/New_Art_Gallery_Walsall_-_QRpedia_-_Amedeo_Modigliani_-_Caryatid.JPG/1280px-New_Art_Gallery_Walsall_-_QRpedia_-_Amedeo_Modigliani_-_Caryatid.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-art-gallery-walsall/thumbs/6.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Drawing",
+    "caption": "Drawing · QRpedia code under Amedeo Modigliani's Caryatid at The New Art Gallery Walsall , England",
+    "credit": "Andy Mabbett",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Art_Gallery_Walsall_-_QRpedia_-_Amedeo_Modigliani_-_Caryatid.JPG",
+    "file": "File:New Art Gallery Walsall - QRpedia - Amedeo Modigliani - Caryatid.JPG"
+   }
+  ],
+  "has": [
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "lewis-glucksman-gallery",
@@ -193438,7 +194648,59 @@ window.BUILDINGS = [
   "commons": "Category:Glucksman gallery, Cork",
   "lead": "File:Glucksman2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Glucksman2.jpg/1280px-Glucksman2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lewis-glucksman-gallery/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Context",
+    "caption": "Context · Lewis Glucksman Gallery: view from lower grounds of University College Cork",
+    "credit": "Lewis Glucksman Gallery",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glucksman2.jpg",
+    "file": "File:Glucksman2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/UCC_Lewisglucksman.JPG/1280px-UCC_Lewisglucksman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lewis-glucksman-gallery/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Lewis Glucksman Gallery, située sur le campus de UCC, Cork",
+    "credit": "MD",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UCC_Lewisglucksman.JPG",
+    "file": "File:UCC Lewisglucksman.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Glucksman3.jpg/1280px-Glucksman3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lewis-glucksman-gallery/thumbs/2.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance to Lewis Glucksman Gallery",
+    "credit": "Lewis Glucksman Gallery",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glucksman3.jpg",
+    "file": "File:Glucksman3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/In_der_Glucksman_Gallery.jpg/1280px-In_der_Glucksman_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lewis-glucksman-gallery/thumbs/3.webp",
+    "w": 1280,
+    "h": 829,
+    "kind": "Exterior",
+    "caption": "Exterior · In der Glucksman Gallery, 1",
+    "credit": "Andreas Wolf 01",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:In_der_Glucksman_Gallery.jpg",
+    "file": "File:In der Glucksman Gallery.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "maggies-centre-london",
@@ -193536,7 +194798,35 @@ window.BUILDINGS = [
   "commons": "Category:Bishop Edward King Chapel",
   "lead": "File:Bishop Edward King Chapel (outside)-130928.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Bishop_Edward_King_Chapel_%28outside%29-130928.JPG/1280px-Bishop_Edward_King_Chapel_%28outside%29-130928.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishop-edward-king-chapel/thumbs/0.webp",
+    "w": 1280,
+    "h": 968,
+    "kind": "Exterior",
+    "caption": "Exterior · Part of Bishop Edward King Chapel, Ripon College Cuddesdon, Oxfordshire",
+    "credit": "Mercury543210",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishop_Edward_King_Chapel_(outside)-130928.JPG",
+    "file": "File:Bishop Edward King Chapel (outside)-130928.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Bishop_Edward_King_Chapel_%28inside%29-130928.JPG/1280px-Bishop_Edward_King_Chapel_%28inside%29-130928.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishop-edward-king-chapel/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Bishop Edward King Chapel, Ripon College Cuddesdon, Oxfordshire",
+    "credit": "Mercury543210",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishop_Edward_King_Chapel_(inside)-130928.JPG",
+    "file": "File:Bishop Edward King Chapel (inside)-130928.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "the-hepworth-wakefield",
@@ -193560,7 +194850,97 @@ window.BUILDINGS = [
   "commons": "Category:The Hepworth Wakefield",
   "lead": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/A_view_across_the_River_Calder_towards_the_Hepworth%2C_Wakefield%2C_West_Yorkshire_%2831st_May_2024%29_001.jpg/1280px-A_view_across_the_River_Calder_towards_the_Hepworth%2C_Wakefield%2C_West_Yorkshire_%2831st_May_2024%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_across_the_River_Calder_towards_the_Hepworth,_Wakefield,_West_Yorkshire_(31st_May_2024)_001.jpg",
+    "file": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/A_view_across_the_River_Calder_towards_the_Hepworth%2C_Wakefield%2C_West_Yorkshire_%2831st_May_2024%29_002.jpg/1280px-A_view_across_the_River_Calder_towards_the_Hepworth%2C_Wakefield%2C_West_Yorkshire_%2831st_May_2024%29_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_across_the_River_Calder_towards_the_Hepworth,_Wakefield,_West_Yorkshire_(31st_May_2024)_002.jpg",
+    "file": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Barrier_on_the_Calder%2C_next_to_Hepworth_Gallery_-_geograph.org.uk_-_2743257.jpg/1280px-Barrier_on_the_Calder%2C_next_to_Hepworth_Gallery_-_geograph.org.uk_-_2743257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/2.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · Barrier on the Calder, next to Hepworth Gallery",
+    "credit": "John Goldsmith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrier_on_the_Calder,_next_to_Hepworth_Gallery_-_geograph.org.uk_-_2743257.jpg",
+    "file": "File:Barrier on the Calder, next to Hepworth Gallery - geograph.org.uk - 2743257.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Barbara_Hepworth_Gallery_-_geograph.org.uk_-_5289414.jpg/1280px-The_Barbara_Hepworth_Gallery_-_geograph.org.uk_-_5289414.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Barbara Hepworth Gallery",
+    "credit": "Ron Dixon",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Barbara_Hepworth_Gallery_-_geograph.org.uk_-_5289414.jpg",
+    "file": "File:The Barbara Hepworth Gallery - geograph.org.uk - 5289414.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Inside_The_Hepworth_-_the_artist%27s_work_bench_-_geograph.org.uk_-_2824424.jpg/1280px-Inside_The_Hepworth_-_the_artist%27s_work_bench_-_geograph.org.uk_-_2824424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside The Hepworth - the artist's work bench",
+    "credit": "Neil Theasby",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_The_Hepworth_-_the_artist%27s_work_bench_-_geograph.org.uk_-_2824424.jpg",
+    "file": "File:Inside The Hepworth - the artist's work bench - geograph.org.uk - 2824424.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Hepworth_Wakefield_Garden_%281%29_-_geograph.org.uk_-_8283724.jpg/1280px-The_Hepworth_Wakefield_Garden_%281%29_-_geograph.org.uk_-_8283724.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The Hepworth Wakefield Garden (1)",
+    "credit": "Stephen Craven",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Hepworth_Wakefield_Garden_(1)_-_geograph.org.uk_-_8283724.jpg",
+    "file": "File:The Hepworth Wakefield Garden (1) - geograph.org.uk - 8283724.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sketch_by_Henry_Moore_in_The_Hepworth_-_geograph.org.uk_-_2824461.jpg/1280px-Sketch_by_Henry_Moore_in_The_Hepworth_-_geograph.org.uk_-_2824461.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-hepworth-wakefield/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Sketch",
+    "caption": "Sketch · Sketch by Henry Moore in The Hepworth",
+    "credit": "Neil Theasby",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sketch_by_Henry_Moore_in_The_Hepworth_-_geograph.org.uk_-_2824461.jpg",
+    "file": "File:Sketch by Henry Moore in The Hepworth - geograph.org.uk - 2824461.jpg"
+   }
+  ],
+  "has": [
+   "Sketch"
+  ],
+  "gv": 3
  },
  {
   "id": "blavatnik-school-of-government",
@@ -193584,7 +194964,83 @@ window.BUILDINGS = [
   "commons": "Category:Blavatnik School of Government",
   "lead": "File:Blavatnik School of Government, Oxford.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Blavatnik_School_of_Government%2C_Oxford.JPG/1280px-Blavatnik_School_of_Government%2C_Oxford.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The Blavatnik School of Government building of Oxford University, in Walton Street, Oxford, England",
+    "credit": "Jpbowen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blavatnik_School_of_Government,_Oxford.JPG",
+    "file": "File:Blavatnik School of Government, Oxford.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cmglee_Oxford_Blavatnik_School.jpg/1280px-Cmglee_Oxford_Blavatnik_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Blavatnik School of Government building in Oxford viewed from the south in July 2016",
+    "credit": "Cmglee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Oxford_Blavatnik_School.jpg",
+    "file": "File:Cmglee Oxford Blavatnik School.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/The_Blavatnik_School_of_Government_on_Walton_Street_-_geograph.org.uk_-_6686640.jpg/1280px-The_Blavatnik_School_of_Government_on_Walton_Street_-_geograph.org.uk_-_6686640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The Blavatnik School of Government on Walton Street",
+    "credit": "Steve Daniels",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Blavatnik_School_of_Government_on_Walton_Street_-_geograph.org.uk_-_6686640.jpg",
+    "file": "File:The Blavatnik School of Government on Walton Street - geograph.org.uk - 6686640.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Schwarzman_Centre_for_the_Humanities_with_the_Blavatnik_School_of_Government.jpg/1280px-Schwarzman_Centre_for_the_Humanities_with_the_Blavatnik_School_of_Government.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Schwarzman Centre for the Humanities with the Blavatnik School of Government",
+    "credit": "ResonantDistortion",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schwarzman_Centre_for_the_Humanities_with_the_Blavatnik_School_of_Government.jpg",
+    "file": "File:Schwarzman Centre for the Humanities with the Blavatnik School of Government.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Reflections%2C_Blavatnik_School_of_Government_-_geograph.org.uk_-_4836262.jpg/1280px-Reflections%2C_Blavatnik_School_of_Government_-_geograph.org.uk_-_4836262.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/4.webp",
+    "w": 1280,
+    "h": 1080,
+    "kind": "Exterior",
+    "caption": "Exterior · Reflections, Blavatnik School of Government",
+    "credit": "Des Blenkinsopp",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflections,_Blavatnik_School_of_Government_-_geograph.org.uk_-_4836262.jpg",
+    "file": "File:Reflections, Blavatnik School of Government - geograph.org.uk - 4836262.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Construction_site%2C_Blavatnik_School_of_Government%2C_Oxford_-_geograph.org.uk_-_3657835.jpg/1280px-Construction_site%2C_Blavatnik_School_of_Government%2C_Oxford_-_geograph.org.uk_-_3657835.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blavatnik-school-of-government/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Construction site, Blavatnik School of Government, Oxford",
+    "credit": "David Hawgood",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Construction_site,_Blavatnik_School_of_Government,_Oxford_-_geograph.org.uk_-_3657835.jpg",
+    "file": "File:Construction site, Blavatnik School of Government, Oxford - geograph.org.uk - 3657835.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "senedd-cardiff",
@@ -193608,7 +195064,83 @@ window.BUILDINGS = [
   "commons": "Category:Senedd (building)",
   "lead": "File:Senedd 3.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Senedd_3.JPG/1280px-Senedd_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior view of the Senedd , where the Welsh parliament resides",
+    "credit": "Julian Nyča",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Senedd_3.JPG",
+    "file": "File:Senedd 3.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Cardiff_%2C_The_Senedd_-_geograph.org.uk_-_3914922.jpg/1280px-Cardiff_%2C_The_Senedd_-_geograph.org.uk_-_3914922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Cardiff : The Senedd",
+    "credit": "Lewis Clarke",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cardiff_,_The_Senedd_-_geograph.org.uk_-_3914922.jpg",
+    "file": "File:Cardiff , The Senedd - geograph.org.uk - 3914922.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Cardiff_-_National_Assembly_for_Wales_-_geograph.org.uk_-_6658563.jpg/1280px-Cardiff_-_National_Assembly_for_Wales_-_geograph.org.uk_-_6658563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/2.webp",
+    "w": 1280,
+    "h": 750,
+    "kind": "Exterior",
+    "caption": "Exterior · Cardiff - National Assembly for Wales",
+    "credit": "Colin Smith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cardiff_-_National_Assembly_for_Wales_-_geograph.org.uk_-_6658563.jpg",
+    "file": "File:Cardiff - National Assembly for Wales - geograph.org.uk - 6658563.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Senedd_building_%2853216023287%29.jpg/1280px-Senedd_building_%2853216023287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Senedd Cymru / Welsh Parliament  from Wales",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Senedd_building_(53216023287).jpg",
+    "file": "File:Senedd building (53216023287).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Senedd_building_interior_%2853217215243%29.jpg/1280px-Senedd_building_interior_%2853217215243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/4.webp",
+    "w": 1280,
+    "h": 1236,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Senedd Cymru / Welsh Parliament  from Wales",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Senedd_building_interior_(53217215243).jpg",
+    "file": "File:Senedd building interior (53217215243).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Senedd_interior.jpg/1280px-Senedd_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senedd-cardiff/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Yr Oriel in the interior of the Senedd building",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Senedd_interior.jpg",
+    "file": "File:Senedd interior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cambridge-central-mosque",
@@ -193632,7 +195164,83 @@ window.BUILDINGS = [
   "commons": "Category:Cambridge Central Mosque",
   "lead": "File:Cambridge Central Mosque front.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cambridge_Central_Mosque_front.jpg/1280px-Cambridge_Central_Mosque_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Cambridge Central Mosque front",
+    "credit": "Alarichall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambridge_Central_Mosque_front.jpg",
+    "file": "File:Cambridge Central Mosque front.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cmglee_Cambridge_Mosque_front.jpg/1280px-Cmglee_Cambridge_Mosque_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Cambridge Central Mosque gate and garden in May 2019",
+    "credit": "cmglee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Mosque_front.jpg",
+    "file": "File:Cmglee Cambridge Mosque front.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Cambridge_Central_Mosque_7.jpg/1280px-Cambridge_Central_Mosque_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Cambridge Central Mosque from over the road",
+    "credit": "Alarichall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cambridge_Central_Mosque_7.jpg",
+    "file": "File:Cambridge Central Mosque 7.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Mosque_under_construction_-_geograph.org.uk_-_5674353.jpg/1280px-Mosque_under_construction_-_geograph.org.uk_-_5674353.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Mosque under construction",
+    "credit": "Tiger",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque_under_construction_-_geograph.org.uk_-_5674353.jpg",
+    "file": "File:Mosque under construction - geograph.org.uk - 5674353.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Cmglee_Cambridge_Mosque_atrium.jpg/1280px-Cmglee_Cambridge_Mosque_atrium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Cambridge Central Mosque atrium in May 2019",
+    "credit": "cmglee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Mosque_atrium.jpg",
+    "file": "File:Cmglee Cambridge Mosque atrium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cmglee_Cambridge_Mosque_hall_screen.jpg/1280px-Cmglee_Cambridge_Mosque_hall_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cambridge-central-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Cambridge Central Mosque main prayer hall and screen in May 2019",
+    "credit": "cmglee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Mosque_hall_screen.jpg",
+    "file": "File:Cmglee Cambridge Mosque hall screen.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "british-library",
@@ -193656,7 +195264,123 @@ window.BUILDINGS = [
   "commons": "Category:British Library - Building",
   "lead": "File:2010-08-03 British Library exterior 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2010-08-03_British_Library_exterior_02.jpg/1280px-2010-08-03_British_Library_exterior_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A British Library modern épülete",
+    "credit": "Szilas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010-08-03_British_Library_exterior_02.jpg",
+    "file": "File:2010-08-03 British Library exterior 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/London_-_Euston_Road_-_British_Library_1997_by_Colin_St_John_Wilson_%26_former_Midland_Grand_Hotel_1868-73_by_Sir_George_Gilbert_Scott_-_View_ENE.jpg/1280px-London_-_Euston_Road_-_British_Library_1997_by_Colin_St_John_Wilson_%26_former_Midland_Grand_Hotel_1868-73_by_Sir_George_Gilbert_Scott_-_View_ENE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_-_Euston_Road_-_British_Library_1997_by_Colin_St_John_Wilson_%26_former_Midland_Grand_Hotel_1868-73_by_Sir_George_Gilbert_Scott_-_View_ENE.jpg",
+    "file": "File:London - Euston Road - British Library 1997 by Colin St John Wilson & former Midland Grand Hotel 1868-73 by Sir George Gilbert Scott - View ENE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Outside_the_British_Library_-_geograph.org.uk_-_1064576.jpg/1280px-Outside_the_British_Library_-_geograph.org.uk_-_1064576.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 831,
+    "kind": "Exterior",
+    "caption": "Exterior · Outside the British Library The Isaac Newton statue sitting in the courtyard of the British Library ",
+    "credit": "Eduardo Paolozzi",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Outside_the_British_Library_-_geograph.org.uk_-_1064576.jpg",
+    "file": "File:Outside the British Library - geograph.org.uk - 1064576.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/British_Library_July_2015-2a.jpg/1280px-British_Library_July_2015-2a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 832,
+    "kind": "Interior",
+    "caption": "Interior · The atrium and stairway of the British Library, London",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:British_Library_July_2015-2a.jpg",
+    "file": "File:British Library July 2015-2a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/London_-_Euston_Road_-_British_Library_1962-97_by_Sir_Colin_Alexander_St_John_%28%22Sandy%22%29_Wilson.jpg/1280px-London_-_Euston_Road_-_British_Library_1962-97_by_Sir_Colin_Alexander_St_John_%28%22Sandy%22%29_Wilson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · London - Euston Road - British Library 1962-97 by Sir Colin Alexander St John (\"Sandy\") Wilson",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_-_Euston_Road_-_British_Library_1962-97_by_Sir_Colin_Alexander_St_John_(%22Sandy%22)_Wilson.jpg",
+    "file": "File:London - Euston Road - British Library 1962-97 by Sir Colin Alexander St John (\"Sandy\") Wilson.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/British_Library_-_Joy_of_Museums_-_2.jpg/1280px-British_Library_-_Joy_of_Museums_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · British Library - Joy of Museums - for details see www.joyofmuseums.com",
+    "credit": "Joyofmuseums",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:British_Library_-_Joy_of_Museums_-_2.jpg",
+    "file": "File:British Library - Joy of Museums - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Front_elevation_of_the_British_Library%2C_London_-_geograph.org.uk_-_2277968.jpg/1280px-Front_elevation_of_the_British_Library%2C_London_-_geograph.org.uk_-_2277968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Elevation",
+    "caption": "Elevation · Front elevation of the British Library, London",
+    "credit": "Anthony O'Neil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_elevation_of_the_British_Library,_London_-_geograph.org.uk_-_2277968.jpg",
+    "file": "File:Front elevation of the British Library, London - geograph.org.uk - 2277968.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/British_Library_-_Floor_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/british-library/thumbs/7.webp",
+    "w": 600,
+    "h": 873,
+    "kind": "Plan",
+    "caption": "Plan · A floorplan of the first floor of the British Library in St",
+    "credit": "Rock drum",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:British_Library_-_Floor_1.png",
+    "file": "File:British Library - Floor 1.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Model_of_the_British_Library.jpg/1280px-Model_of_the_British_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/british-library/thumbs/8.webp",
+    "w": 1280,
+    "h": 987,
+    "kind": "Model",
+    "caption": "Model · Model of the British Library ",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_British_Library.jpg",
+    "file": "File:Model of the British Library.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Elevation",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "casa-do-baile",
@@ -193680,6 +195404,70 @@ window.BUILDINGS = [
   "commons": "Category:Casa do Baile",
   "lead": "File:Casa-do-Baile.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Casa-do-Baile.jpg/1280px-Casa-do-Baile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-do-baile/thumbs/0.webp",
+    "w": 1280,
+    "h": 1001,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa do Baile, Pampulha (Belo-Horisonte)",
+    "credit": "Yaroslav Blanter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa-do-Baile.jpg",
+    "file": "File:Casa-do-Baile.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Casa_do_Baile_-_Pampulha_BH.jpg/1280px-Casa_do_Baile_-_Pampulha_BH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-do-baile/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Brazil identified by the ID",
+    "credit": "Eduardo Gabão",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_do_Baile_-_Pampulha_BH.jpg",
+    "file": "File:Casa do Baile - Pampulha BH.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Casa_do_Baile_-_Belo_Horizonte_-_20121124094955.JPG/1280px-Casa_do_Baile_-_Belo_Horizonte_-_20121124094955.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-do-baile/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Edifício do conjunto arquitetônico da Pampulha",
+    "credit": "ELVIO GUSMÃO SANTOS",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_do_Baile_-_Belo_Horizonte_-_20121124094955.JPG",
+    "file": "File:Casa do Baile - Belo Horizonte - 20121124094955.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Casa_do_Baile.JPG/1280px-Casa_do_Baile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-do-baile/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa do Baile, Pampulha, Belo Horizonte",
+    "credit": "Skirienko",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_do_Baile.JPG",
+    "file": "File:Casa do Baile.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Casa_do_Baile_e_Lagoa_da_Pampulha.jpg/1280px-Casa_do_Baile_e_Lagoa_da_Pampulha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-do-baile/thumbs/4.webp",
+    "w": 1280,
+    "h": 976,
+    "kind": "Detail",
+    "caption": "Detail · This is a photo of a monument in Brazil identified by the ID",
+    "credit": "Carmeladgl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_do_Baile_e_Lagoa_da_Pampulha.jpg",
+    "file": "File:Casa do Baile e Lagoa da Pampulha.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
