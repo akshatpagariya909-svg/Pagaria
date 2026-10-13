@@ -1,6 +1,6 @@
 # Books report
 
-432 of 695 books have a cover.
+451 of 725 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -234,51 +234,18 @@
 | Gardens Are for People (Thomas D. Church) | 2 matching results, none with a cover |
 | Room Outside: A New Approach to Garden Design (John Brookes) | no result by this author with this title among 17 results |
 | Daylighting: Architecture and Lighting Design (Peter Tregenza and Michael Wilson) | no result by this author with this title among 12 results |
-| Villas and Cottages (Calvert Vaux) | id 6275765 |
 | Community and Privacy: Toward a New Architecture of Humanism (Serge Chermayeff and Christopher Alexander) | no result by this author with this title among 10 results |
-| Stadia: A Design and Development Guide (Geraint John and Rod Sheard) | id 9844085 |
-| English Romanesque Architecture (Alfred Clapham) | id 14954726 |
 | The Architecture of Humanism: A Study in the History of Taste (Geoffrey Scott) | 1 matching results, none with a cover |
-| Intentions in Architecture (Christian Norberg-Schulz) | id 2182890 |
 | Sustainable Construction: Green Building Design and Delivery (Charles J. Kibert) | no result by this author with this title among 16 results |
-| House (Tracy Kidder) | id 6780470 |
-| The Power Broker: Robert Moses and the Fall of New York (Robert A. Caro) | id 253659 |
-| Urban and Regional Planning (Peter Hall) | id 13892600 |
-| The Life-Work of the American Architect Frank Lloyd Wright (H. Th. Wijdeveld (editor)) | id 10988024 |
-| Concrete: The Vision of a New Architecture (Peter Collins) | id 9897188 |
 | Structures (Pier Luigi Nervi) | 6 matching results, none with a cover |
-| Vision in Motion (László Moholy-Nagy) | id 9472489 |
-| Portuguese Architecture (Walter Crum Watson) | id 2505444 |
 | Otto Wagner 1841–1918: The Expanding City, the Beginning of Modern Architecture (Heinz Geretsegger and Max Peintner) | no result by this author with this title among 8 results |
-| The Professional Practice of Architectural Working Drawings (Osamu A. Wakita and Richard M. Linde) | id 3878078 |
-| The Five Books of Architecture (Sebastiano Serlio) | id 309768 |
-| Greek Architecture (A. W. Lawrence) | id 3821618 |
-| Working Drawings Handbook (Keith Styles) | id 493697 |
-| The City Reader (Richard T. LeGates and Frederic Stout (editors)) | id 266764 |
-| Frank Lloyd Wright on Architecture: Selected Writings 1894–1940 (Frederick Gutheim (editor)) | id 14964667 (loose title match: "Frank Lloyd Wright on Architecture Selected Writings 1894-1940 Edited With an Introduction By Frederick Gutheim") |
 | Broken Glass: Mies van der Rohe, Edith Farnsworth, and the Fight Over a Modernist Masterpiece (Alex Beam) | no result by this author with this title among 11 results |
 | Three Lectures on Architecture (Erich Mendelsohn) | 1 matching results, none with a cover |
 | The Architects Collaborative 1945–1965 (Walter Gropius and others) | 2 matching results, none with a cover |
-| Modern Construction Handbook (Andrew Watts) | id 2197612 |
-| The High Cost of Free Parking (Donald C. Shoup) | id 931442 |
 | The Gothic Revival: An Essay in the History of Taste (Kenneth Clark) | 3 matching results, none with a cover |
-| The City and Country Builder's and Workman's Treasury of Designs (Batty Langley) | id 6311698 |
-| Town and Country Planning in the UK (Barry Cullingworth) | id 12625199 |
-| Landscape Architect's Pocket Book (Siobhan Vernon, Rachel Tennant and Nicola Garmory) | id 12909675 |
-| The Sustainable Urban Development Reader (Stephen M. Wheeler and Timothy Beatley (editors)) | id 5488084 |
 | Fire from First Principles: A Design Guide to Building Fire Safety (Paul Stollard and John Abrahams) | no result by this author with this title among 5 results |
-| The Beauties of Modern Architecture (Minard Lafever) | id 6025974 |
-| Details of Elizabethan Architecture (Henry Shaw) | id 11859197 |
-| Lost New York (Nathan Silver) | id 4278378 |
-| On Restoration (Eugène-Emmanuel Viollet-le-Duc) | id 10878613 |
-| The Modern Builder's Guide (Minard Lafever) | id 11141458 |
-| Anglo-Saxon Architecture (H. M. Taylor and Joan Taylor) | id 8455406 |
-| Inigo Jones (John Summerson) | id 6771642 |
-| The Architecture of Country Houses (A. J. Downing) | id 308840 |
 | Creation Is a Patient Search (Le Corbusier) | 1 matching results, none with a cover |
 | The Four Routes (Le Corbusier) | 4 matching results, none with a cover |
-| Le Corbusier Sketchbooks (Le Corbusier) | isbn 0262030780 |
-| Le Corbusier Talks with Students (Le Corbusier) | id 812610 |
 | Looking at City Planning (Le Corbusier) | 2 matching results, none with a cover |
 | The Marseilles Block (Le Corbusier) | 2 matching results, none with a cover |
 | My Work (Le Corbusier) | 2 matching results, none with a cover |
@@ -297,13 +264,39 @@
 | Architecture in an Age of Scepticism (Denys Lasdun (editor)) | 3 matching results, none with a cover |
 | MAN transFORMS: Aspects of Design (Hans Hollein) | no result by this author with this title among 17 results |
 | Diller Scofidio + Renfro: Architecture after Images (Edward Dimendberg) | no result by this author with this title among 7 results |
-| Programs and Manifestoes on 20th-Century Architecture (Ulrich Conrads (editor)) | id 151235 |
-| Archigram (Peter Cook (editor)) | id 13729451 |
 | Superstudio: Life Without Objects (Peter Lang and William Menking) | no result by this author with this title among 10 results |
-| The Metropolis of Tomorrow (Hugh Ferriss) | id 702562 |
-| Stones of Empire: The Buildings of the Raj (Jan Morris with Simon Winchester) | id 116957 |
 | Splendours of the Raj: British Architecture in India, 1660 to 1947 (Philip Davies) | no result by this author with this title among 3 results |
 | Mughal Architecture: An Outline of Its History and Development (1526–1858) (Ebba Koch) | no result by this author with this title among 14 results |
+| The Architecture of Michelangelo (James S. Ackerman) | id 139448 |
+| The Earth, the Temple, and the Gods: Greek Sacred Architecture (Vincent Scully) | 1 matching results, none with a cover |
+| BIM Handbook (Chuck Eastman, Paul Teicholz, Rafael Sacks, Kathleen Liston) | id 2424228 |
+| Giving Preservation a History (Max Page, Randall Mason) | id 12441959 |
+| Framing Places: Mediating Power in Built Form (Kim Dovey) | id 3735301 |
+| Art and Architecture in France, 1500 to 1700 (Anthony Blunt) | id 4574813 |
+| Brick and Marble in the Middle Ages: Notes of Tours in the North of Italy (George Edmund Street) | id 6009383 (loose title match: "Brick and marble in the middle ages: notes of a tour in the north of Italy") |
+| The Classical Orders of Architecture (Robert Chitham) | isbn 0750661240 |
+| Hovels to High Rise: State Housing in Europe since 1850 (Anne Power) | no result by this author with this title among 2 results |
+| The Work of Oscar Niemeyer (Stamo Papadaki) | id 13771817 |
+| Two Lectures on Architecture (Frank Lloyd Wright) | 1 matching results, none with a cover |
+| The Complete Zaha Hadid (Aaron Betsky) | id 7574268 |
+| Planetary Architecture Two (Zaha Hadid) | 1 matching results, none with a cover |
+| Remarks on 21 Works (Rafael Moneo) | 1 matching results, none with a cover |
+| Foundation Design and Construction (M. J. Tomlinson) | id 4639363 |
+| Construction Project Management (Richard H. Clough) | id 4522429 |
+| A Handbook of Greek and Roman Architecture (D. S. Robertson) | id 14975499 |
+| The Cathedrals of Northern France (T. Francis Bumpus) | id 5667232 |
+| Denkmaeler aus Aegypten und Aethiopien (Carl Richard Lepsius) | id 2479446 |
+| Houses and House-Life of the American Aborigines (Lewis Henry Morgan) | id 6232203 |
+| The Architect (William H. Ranlett) | id 11061513 |
+| New Architecture in Africa (Udo Kultermann) | 1 matching results, none with a cover |
+| A Genealogy of Tropical Architecture: Colonial Networks, Nature and Technoscience (Jiat-Hwee Chang) | no result by this author with this title among 0 results |
+| Latin American Architecture: Six Voices (Malcolm Quantrill) | id 1648294 |
+| A Pictorial History of Chinese Architecture (Liang Sicheng) | 1 matching results, none with a cover |
+| Sun, Wind, and Light: Architectural Design Strategies (G. Z. Brown, Mark DeKay) | isbn 9780471820635 |
+| Rendering with Pen and Ink (Robert W. Gill) | id 8449796 |
+| Colonial Modern: Aesthetics of the Past, Rebellions for the Future (Tom Avermaete, Serhat Karakayali, Marion von Osten) | no result by this author with this title among 11 results |
+| Landscape as Urbanism: A General Theory (Charles Waldheim) | no result by this author with this title among 7 results |
+| Sustainable Urbanism: Urban Design with Nature (Douglas Farr) | no result by this author with this title among 12 results |
 
 ## No cover yet
 
@@ -572,3 +565,14 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - superstudio-life-without-objects: Superstudio: Life Without Objects (Peter Lang and William Menking)
 - splendours-of-the-raj-british-architecture-in-india-1660-to: Splendours of the Raj: British Architecture in India, 1660 to 1947 (Philip Davies)
 - mughal-architecture-an-outline-of-its-history-and-developmen: Mughal Architecture: An Outline of Its History and Development (1526–1858) (Ebba Koch)
+- the-earth-the-temple-and-the-gods-greek-sacred-architecture: The Earth, the Temple, and the Gods: Greek Sacred Architecture (Vincent Scully)
+- hovels-to-high-rise-state-housing-in-europe-since-1850: Hovels to High Rise: State Housing in Europe since 1850 (Anne Power)
+- two-lectures-on-architecture: Two Lectures on Architecture (Frank Lloyd Wright)
+- planetary-architecture-two: Planetary Architecture Two (Zaha Hadid)
+- remarks-on-21-works: Remarks on 21 Works (Rafael Moneo)
+- new-architecture-in-africa: New Architecture in Africa (Udo Kultermann)
+- a-genealogy-of-tropical-architecture-colonial-networks-natur: A Genealogy of Tropical Architecture: Colonial Networks, Nature and Technoscience (Jiat-Hwee Chang)
+- a-pictorial-history-of-chinese-architecture: A Pictorial History of Chinese Architecture (Liang Sicheng)
+- colonial-modern-aesthetics-of-the-past-rebellions-for-the-fu: Colonial Modern: Aesthetics of the Past, Rebellions for the Future (Tom Avermaete, Serhat Karakayali, Marion von Osten)
+- landscape-as-urbanism-a-general-theory: Landscape as Urbanism: A General Theory (Charles Waldheim)
+- sustainable-urbanism-urban-design-with-nature: Sustainable Urbanism: Urban Design with Nature (Douglas Farr)
