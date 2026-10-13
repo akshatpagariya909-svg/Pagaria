@@ -28,7 +28,7 @@ def thumb(title):
 
 def main():
     found = []  # every face found by hand: portraits_found*.json, and firms_found.json's together photos and founders
-    for f in sorted((ROOT / 'tools').glob('portraits_found*.json')):
+    for f in [ROOT / 'tools' / 'portraits_found.json'] + sorted((ROOT / 'tools').glob('portraits_found_*.json')):
         found += [x for x in json.loads(f.read_text(encoding='utf-8')) if x['status'] == 'found']
     firms = ROOT / 'tools' / 'firms_found.json'
     for x in json.loads(firms.read_text(encoding='utf-8')) if firms.exists() else []:
