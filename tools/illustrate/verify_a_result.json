@@ -1,0 +1,171 @@
+[
+ {
+  "id": "koudougou-central-market",
+  "verdict": "fixed",
+  "features": "Market of compressed earth blocks built as vaults, domes and arches, with a covered hall of 624 stalls.",
+  "sources": [
+   "https://the.akdn/en/architecture/project/central-market",
+   "https://www.detail.de/de_en/central-market-in-koudougou-a-participatory-project-in-earth-construction-14748",
+   "https://structurae.net/en/persons/laurent-sechaud",
+   "https://commons.wikimedia.org/wiki/File:Grand_march%C3%A9_de_Koudougou.jpg",
+   "https://en.wikipedia.org/wiki/Aga_Khan_Award_for_Architecture"
+  ],
+  "note": "2007 Aga Khan Award winner (Wikipedia). AKDN gives completion 2005 and describes compressed earth blocks forming vaults, domes and arches; Detail gives 1,155 shops in 125 buildings plus 624 stands in a 3,000 m2 hall. Structurae credits Laurent Séchaud; AKDN names the Swiss Agency for Development and Cooperation as architect, so Séchaud (SDC) is fair. Pierre Jequier not found in any source. Read via search-result summaries; the pages themselves were unreachable. Old line said rows of stalls round shaded lanes, which no source states."
+ },
+ {
+  "id": "yaama-mosque",
+  "verdict": "fixed",
+  "features": "Mud-brick prayer hall, begun 1962, later given a central dome and four corner towers, built by the whole village.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yamma_Mosque",
+   "https://the.akdn/en/architecture/project/yaama-mosque",
+   "https://hkapi.lib.cuhk.edu.hk/handle/msO8s77aBT/16295",
+   "https://whc.unesco.org/fr/listesindicatives/5042/"
+  ],
+  "note": "Architect El Hadji Falké Barmou (master mason) and completion 1982 confirmed by the AKDN project page and the 1986 award listing. Wikipedia: mud brick, built 1962 by the village, later a central dome and four corner minarets. Dropped \"banded and crowned\" (only paraphrased in AKDN, not checkable here) and kept to the plain sourced facts. UNESCO tentative list spells him Elhadj Mamoudou called Falké."
+ },
+ {
+  "id": "mbaru-niang-wae-rebo",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mbaru_Niang",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/preservation-mbaru-niang",
+   "https://www.dezeen.com/2013/05/08/preservation-of-the-mbaru-niang-by-rumah-asuh/"
+  ],
+  "note": "AKAA record (via search): architect Rumah Asuh / Yori Antar, client the Wae Rebo community, designed 2008, completed 2011, shortlisted 2013. Wikipedia: conical houses tapering upward, timber frame and lontar palm thatch, tied without nails; conserved back to seven houses. Dezeen: Antar led the work with local residents building."
+ },
+ {
+  "id": "royal-academy-for-nature-conservation",
+  "verdict": "fixed",
+  "features": "Long stone building along the cliff of an old quarry beside Ajloun forest, reached by a 30 m stone bridge.",
+  "sources": [
+   "https://the.akdn/en/architecture/project/royal-academy-nature-conservation",
+   "https://archnet.org/sites/15128",
+   "https://en.wikipedia.org/wiki/Ammar_Khammash",
+   "https://jordantimes.com/node/280628"
+  ],
+  "note": "AKDN listing (via search): Khammash Architects, designed 2009-11, completed 2014; journalism gives opening Dec 2015, so 2014 stands as completion. Built on an abandoned quarry outside the reserve, following the quarry cliff line, arrival by a 30 m stone bridge. Old line said set into the reserve, which is not quite right."
+ },
+ {
+  "id": "bhong-mosque",
+  "verdict": "fixed",
+  "by": "Rais Ghazi Mohammad (patron) with local master masons and craftsmen",
+  "features": "Village mosque built and decorated over nearly fifty years, 1932-82, by craftsmen from across Pakistan and India.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bhong_Mosque",
+   "https://the.akdn/en/architecture/project/bhong-mosque",
+   "https://archnet.org/sites/505"
+  ],
+  "note": "AKDN record (via search): client Rais Ghazi Mohammad, landlord, began it in 1932; architect listed as Local Master Masons and Craftsmen; completed 1982; craftsmen from Rajasthan, calligraphers and painters from Karachi. Wikipedia: 1932-1982, 1986 Aga Khan Award. Removed \"crowded with domes, minarets and ornament\" (from photos only)."
+ },
+ {
+  "id": "palais-des-expositions-charleroi",
+  "verdict": "fixed",
+  "features": "1950s exhibition halls kept and opened up: facades taken off so the central hall becomes a covered public foyer.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+   "https://www.dezeen.com/2026/04/16/mies-van-der-rohe-award-2026/",
+   "https://www.metalocus.es/en/news/eu-mies-2026-awards-go-two-projects-reinterpret-existing",
+   "https://www.greisch.com/en/the-grand-palais-of-charleroi-receives-the-european-union-prize-for-contemporary-architecture/",
+   "https://www.greisch.com/wp-content/uploads/2023/05/Chapex-dans-Sudpresse-20230506.pdf"
+  ],
+  "note": "2026 EUmies Award winner (Wikipedia). Architects AgwA with architecten jan de vylder inge vinck, for the City of Charleroi. Year 2024 kept: Greisch lists works 2018-2023 and a May 2023 Sudpresse piece says the end of works was planned for early 2024; no exact opening date found. Original building 1948-53 by Joseph André per Metalocus (the earlier note credited Tirou and Pinkers, unconfirmed). Sources describe facades removed while floors, stairs and roof kept, the hall opened as an urban foyer and paving turned to park; nothing found on a sunken park or open-air seating, so those are removed."
+ },
+ {
+  "id": "navez-social-housing",
+  "verdict": "fixed",
+  "year": "2015",
+  "features": "Five social flats for large families in a slim corner block at the northern entrance to Brussels.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+   "https://www.metalocus.es/es/noticias/en-navez-entrada-de-bruselas-5-viviendas-sociales-por-msav",
+   "https://commons.wikimedia.org/wiki/File:Logements_Navez-Portaels.jpg",
+   "https://wbarchitectures.be/sites/default/files/2024-11/WBA_CP_MIES_AWARD_2017.doc"
+  ],
+  "note": "Architects MSA with V+ for the City of Schaerbeek; 2017 EUmies Emerging Architect prize (Wikipedia). 2016 is too late: the Brussels urban-renewal photo of the finished building is dated 8 March 2015, it won a 2015 Wallonia-Brussels public-client prize, and Metalocus gives 2015. Sources say five social flats for large families on a narrow corner plot at the northern entrance; \"white\" and \"softened, curved corners\" are not stated in any source, so removed."
+ },
+ {
+  "id": "katyn-museum-warsaw",
+  "verdict": "ok",
+  "sources": [
+   "https://www.world-architects.com/en/architecture-news/works/katyn-museum",
+   "https://www.metalocus.es/en/news/katyn-museum-bbgk-architekci",
+   "https://en.wikipedia.org/wiki/Warsaw_Citadel",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "World-architects record: BBGK Architekci (Jan Belina Brzozowski, Konrad Grabowiecki), design 2013, completed 2015; 2017 EUmies finalist. In the southern part of the Warsaw Citadel (built 1830s); architects describe a cut in the rampart with a staircase between walls about 12 m high."
+ },
+ {
+  "id": "ciniba-katowice",
+  "verdict": "fixed",
+  "features": "Seven-storey library clad in red sandstone panels with narrow windows set into the pattern, echoing campus brick.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scientific_Information_Centre_and_Academic_Library",
+   "https://www.stone-ideas.com/24985/architecture-unmistakable-and-not-to-be-overlooked/",
+   "https://culture.pl/en/node/29060",
+   "https://www.archdaily.com/284180/ciniba-hs99"
+  ],
+  "note": "Wikipedia: opened 27 Sept 2012 (official 12 Oct 2012), 7 floors; competition won by a Koszalin/Radom team (HS99). Red sandstone (Indian \"Rich Kahan Red\") cladding with windows nested in the panel pattern, colour echoing the red-brick campus, confirmed by stone-ideas and culture.pl via search. \"Two interlocking blocks\" not found in any source, so removed."
+ },
+ {
+  "id": "hedge-house-wijlre",
+  "verdict": "ok",
+  "sources": [
+   "https://www.wielaretsarchitects.com/en/projects/hedge_house/",
+   "https://bmw-art-guide.com/cities/wijlre/kasteel-wijlre-estate",
+   "https://dbnl.org/tekst/_nee003200601_01/_nee003200601_01_0058.php",
+   "https://e-architect.com/holland/hedge-house-wijlre"
+  ],
+  "note": "Wiel Arets, opened 2001 (BMW Art Guide, DBNL; e-architect gives 1998-2001). Exhibition pavilion of concrete, glass and steel with an underground gallery, in a garden compartment of Kasteel Wijlre screened by hedges."
+ },
+ {
+  "id": "stuttgart-music-school",
+  "verdict": "fixed",
+  "features": "Music school on Stuttgart's Kulturmeile, marked by a tall tower that rises over its concert hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Michael_Wilford",
+   "https://presse.stuttgart-tourist.de/_Resources/Persistent/6/c/9/8/6c9870a1fb94c80e8dab6cb03bad3a7820dee5e7/05_Architektur_in_Stuttgart.pdf",
+   "https://artikeldatenbank.ernst-und-sohn.de/artikel/bst-1995-8-neubau-musikhochschule-stuttgart-1-bauabschnitt-1502",
+   "https://www-devel.inyourpocket.com/stuttgart/musikhochschulturm_25170v"
+  ],
+  "note": "Year 1996 kept: Stuttgart tourism release lists Musikhochschule (1996) and it won the 1997 Stirling Prize; the 2002 date in Wikipedia is the second construction phase. Tower confirmed (a 1995 structural article calls it 35 m, another source 50 m, so no height given) and a guide says the concert hall forms its base. Ring balconies, portholes and the drum shape are not in any source reached, so removed."
+ },
+ {
+  "id": "stormen-bodo",
+  "verdict": "fixed",
+  "features": "Concert hall with three venues and a library as a pair; the library's reading room looks out to the harbour.",
+  "sources": [
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/RIBA-International-Awards-2016/stormen",
+   "https://architecturetoday.co.uk/?p=390181",
+   "https://www.floornature.com/drdh-architects-stormen-concert-hall-and-library-bodo-norway-12102/",
+   "https://www.e-architect.com/norway/stormen-concert-hall-and-library-bodo"
+  ],
+  "note": "Architecture Today gives completion 2014; DRDH won the 2009 competition; RIBA International Award 2016 and International Prize finalist. Sources describe two buildings as an urban ensemble, three venues in the concert hall and a library reading room with a glazed facade to the harbour. \"Pale\", \"new square\" and \"tall finned front\" were not found in sources, so removed."
+ },
+ {
+  "id": "arquipelago-contemporary-arts-centre",
+  "verdict": "fixed",
+  "features": "An 1890s basalt distillery restored and joined by two new concrete buildings for art and performance.",
+  "sources": [
+   "https://www.dezeen.com/2015/02/11/arquipelago-contemporary-arts-centre-menos-e-mais-arquitectos-joao-mendes-ribeiro/",
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/RIBA-International-Awards-2016/arquipelago-contemporary-arts-center",
+   "https://www.attitude-mag.com/en/blog/all/2015-03-28-arquipelago-centro-de-artes-contemporaneas/",
+   "https://www.e-architect.com/azores/arquipelago-contemporary-arts-centre-building"
+  ],
+  "note": "Menos é Mais with João Mendes Ribeiro confirmed. Opened 29 March 2015 (Attitude); ArchDaily gives project year 2014, so 2015 as opening is fine. RIBA: 1890s sweet-potato distillery with black basalt walls; Dezeen: an alcohol and tobacco factory. New buildings are concrete, one rendered white and one with exposed dark basalt aggregate, so \"pale concrete\" was only half right and is removed."
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "verdict": "fixed",
+  "features": "Concrete lesson rooms spaced apart by small courtyard-like gaps, with glass corners that let views and sound through.",
+  "sources": [
+   "https://www.metalocus.es/en/news/toho-gakuen-school-music-nikken-sekkei",
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_09_092-1",
+   "https://amp.cnn.com/cnn/style/article/riba-toho-gakuen-school-of-music",
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/riba-international-awards-2018/2018/toho-gakuen-school-of-music",
+   "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
+  ],
+  "note": "Nikken Sekkei, 2014 (Metalocus, AEWorldMap); RIBA International Award 2018. Sources: lesson rooms exposed to the outside with small uneven courtyard-like gaps that give acoustic separation and views; wall-type reinforced concrete; glass corners let the eye through and sound faintly into corridors. \"Stacked boxes around a courtyard\" was not quite what sources say, so reworded."
+ }
+]

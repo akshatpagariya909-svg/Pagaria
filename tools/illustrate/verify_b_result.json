@@ -1,0 +1,276 @@
+[
+ {
+  "id": "job-600-accra",
+  "verdict": "drop",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Job_600",
+   "https://www.newsghana.com.gh/job-600-ready-by-august-2012/"
+  ],
+  "note": "Year 1965 and the OAU-summit purpose are supported (Wikipedia), but no source reached names an architect (Wikipedia, news reports on the renovation, web searches). 'Built in months' and the facade description are also unsourced. Drop until an architect can be credited."
+ },
+ {
+  "id": "conservatorio-nacional-de-musica",
+  "verdict": "fixed",
+  "features": "Pani's V-shaped music school: classroom wings flank a big open-air theatre, with stone figures by Armando Quezada.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conservatorio_Nacional_de_M%C3%BAsica_(Mexico)",
+   "https://www.mexicocity.cdmx.gob.mx/venues/conservatorio-nacional-musica/",
+   "https://inba.gob.mx/multimedia/transparencia/inmuebles/49/49-ARCH-49_conservatorio.pdf"
+  ],
+  "note": "Pani and 1949 (campus in use from 18 March 1949) confirmed by Wikipedia. 'Stone-clad wings round its courts' was not supported; Mexico City tourism page (via search) describes a V-shaped plan with the open-air theatre at its base flanked by classroom buildings, and Quezada's white Oaxaca stone sculptures on the facade. Polanco dropped from the line (already in the place field). The site page could not be fetched directly, only read through search results."
+ },
+ {
+  "id": "plaza-de-mercado-girardot",
+  "verdict": "fixed",
+  "year": "1948",
+  "features": "Light two-storey concrete market hall with a mezzanine, left without closing walls to catch the breeze.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Plaza_de_Mercado_de_Girardot",
+   "https://repository.ugc.edu.co/bitstreams/312ac485-7218-4428-a990-12f7b5ff7780/download",
+   "https://repositorio.ucundinamarca.edu.co/handle/20.500.12558/4205?show=full",
+   "https://repository.uniminuto.edu/handle/10656/7169?mode=full"
+  ],
+  "note": "Rother confirmed by several Colombian theses (via search), which give construction as 1946-1948, so year changed from 1949 to 1948. They describe a very light concrete structure, two floors with a mezzanine and four stairways, with no closing walls so the breezes pass through. The 'light concrete roof on slender columns' was not described in any source, so it was removed. National monument (Commons: Colombian monument ID 14-054). Sources read through search summaries only."
+ },
+ {
+  "id": "sun-yat-sen-memorial-hall-taipei",
+  "verdict": "fixed",
+  "features": "Modern hall under a sweeping roof of yellow glazed tiles with upturned corners, a palace-style touch Chiang asked for.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Dr._Sun_Yat-sen_Memorial_Hall",
+   "https://en.wikipedia.org/wiki/Wang_Da-hong",
+   "https://www.moc.gov.tw/EN/information_224_77013.html",
+   "https://www.mplus.org.hk/en/collection/archives/photographic-material-national-dr-sun-yat-sen-memorial-hall-19651972-taipei-taiwan-ca30-2-18/"
+  ],
+  "note": "Wang Da-hong and 1972 (main construction completed 16 May 1972) confirmed by Wikipedia. 'Concrete' was unsourced and removed. The sweeping palatial roof (a compromise Wang accepted; Chiang wanted Qing-palace styling) is in the Ministry of Culture biography and M+ archive note via search; yellow glazed tiles and upturned corners from search results (one travel source, consistent with photos)."
+ },
+ {
+  "id": "monument-to-the-peoples-heroes",
+  "verdict": "fixed",
+  "features": "38 m obelisk built of 13,000 granite and alabaster blocks, its pedestal ringed by bas-reliefs of modern history.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes"
+  ],
+  "note": "Liang Sicheng (with elements by Lin Huiyin) and 1958 (built Aug 1952 to May 1958) confirmed. Wikipedia gives 37.94 m, 13,000 pieces of granite and alabaster, and a pedestal with eight large and two small bas-reliefs. The 'two-tier marble terrace' is not in the source and was removed. Still a monument rather than a building; owner may prefer to leave it out."
+ },
+ {
+  "id": "ordos-museum",
+  "verdict": "fixed",
+  "features": "Rounded, edgeless shell wrapped in polished metal louvres, its form drawn from the Gobi Desert.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ordos_Museum",
+   "https://en.wikipedia.org/wiki/Ma_Yansong",
+   "https://www.designboom.com/architecture/mad-architects-erdos-museum-china",
+   "https://www.floornature.com/architectural-solutions/double-shell-steel-structure-ordos-museum-mad-14894/",
+   "https://www.detail.de/de_en/mads-ordos-museum-25618"
+  ],
+  "note": "MAD confirmed (Wikipedia); 2011 confirmed (Ma Yansong article: 2005-2011, completed; Detail Nov 2011 reports it recently opened). Gobi influence in Wikipedia; polished metal louvres (Designboom) and the edgeless rounded shell (Floornature) via search. 'Hovering over a rolling stone plaza' was not supported and was removed."
+ },
+ {
+  "id": "shenzhen-stock-exchange",
+  "verdict": "fixed",
+  "features": "Tower whose three-storey base is lifted 36 m off the ground, cantilevering over a covered public plaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange",
+   "https://www.dezeen.com/2010/06/28/oma%E2%80%99s-shenzhen-stock-exchange-tops-out/amp/",
+   "https://www.designboom.com/architecture/oma-the-shenzhen-stock-exchange-construction"
+  ],
+  "note": "OMA and 2013 (built 2008-2013) confirmed by Wikipedia. The raised podium is now sourced: Dezeen (OMA release) says it is suspended 36 m over a public plaza and projects 54 m; Designboom calls it a three-storey floating podium. 'Plain square' removed as an unsourced judgement."
+ },
+ {
+  "id": "central-government-complex-tamar",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Government_Complex_(Hong_Kong)",
+   "https://www.theplan.it/eng/architettura/hksar-government-headquarters",
+   "https://www.news.gov.hk/isd/ebulletin/en/category/administration/080110/html/080110en01001.htm"
+  ],
+  "note": "Rocco Yim and 2011 (official use from 1 August 2011) confirmed by Wikipedia, as are the 'door always open' concept and Tamar Park running through to the harbour. The two office wings joined at the upper level to form the open-door image is supported by search results (The Plan, HK government news)."
+ },
+ {
+  "id": "hong-kong-cultural-centre",
+  "verdict": "fixed",
+  "features": "Windowless pink-tiled arts centre on the old railway station site, next to the surviving clock tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Cultural_Centre",
+   "https://en.wikipedia.org/wiki/Former_Kowloon%E2%80%93Canton_Railway_Clock_Tower",
+   "https://amp.scmp.com/news/hong-kong/article/1517904/what-hong-kongs-biggest-eyesore-ugly-side-city-exposed-decades-bad"
+  ],
+  "note": "José Lei and 1989 (opened 8 November 1989) confirmed by Wikipedia, which also places it on the former Kowloon station site with the Clock Tower between it and the Star Ferry pier. SCMP (via search) calls it a windowless slab covered in pink tiles. No source reached describes the curved roof, so it was removed."
+ },
+ {
+  "id": "hong-kong-design-institute",
+  "verdict": "fixed",
+  "features": "A huge rectangular block held seven storeys up on four towers braced by a steel lattice exoskeleton.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Design_Institute"
+  ],
+  "note": "Coldefy & Associés (won the 2006 competition from 162 other entries) and 2010 (campus opened autumn 2010) confirmed. CAAU is the firm's own abbreviation (Coldefy & Associés Architectes Urbanistes), so the credit stands. Wikipedia says 'massive rectangular volume suspended seven storeys above street level on four towers supported by a steel lattice exoskeleton'; 'glass', 'white' and 'open public ground' were not in the source and were removed."
+ },
+ {
+  "id": "oriental-pearl-tower",
+  "verdict": "fixed",
+  "features": "468 m TV tower: three pillars carry spheres clad in red glass, a design its makers drew from a Tang poem.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower"
+  ],
+  "note": "1994 (built 1991-1994) confirmed. Credit kept as East China Architectural Design Institute, whose 'Oriental Pearl' design was selected in 1988 per the history section (the infobox names Shanghai Modern Architectural Design Co.; owner may prefer either). Wikipedia says the spheres are covered in concrete tiles and laminated red glass, not pink glaze, and that the design was inspired by Bai Juyi's 'Pipa xing'; the 'pearls on a plate' image itself is not stated, so it was replaced."
+ },
+ {
+  "id": "1000-trees-shanghai",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heatherwick_Studio",
+   "https://www.dezeen.com/2021/12/28/heatherwick-studios-1000-trees-opens-shanghai/amp/",
+   "https://heatherwick.com/studio/news/launch-1000-trees-shanghai/"
+  ],
+  "note": "Heatherwick Studio, two mountain-like peaks, mixed retail/office use and Suzhou Creek are in Wikipedia; Dezeen (via search) confirms the first phase opened 22 December 2021 and that each structural column is topped with a planter holding trees. Year 2021 = first phase only; the full scheme was still being completed."
+ },
+ {
+  "id": "xiangshan-visitor-center",
+  "verdict": "fixed",
+  "features": "Two curved concrete wings with grassed roofs and 34 m canopies, sliding past each other behind a reflecting pool.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xiangshan_Visitor_Center",
+   "https://www.dezeen.com/?p=117212",
+   "https://www.architectmagazine.com/?p=157203",
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2011_01_064-0"
+  ],
+  "note": "Norihiko Dan and 2010 (constructed 2010) confirmed by Wikipedia; one source gives a February 2011 opening, so 2010 is completion of construction. Canopies 34 m long (Wikipedia); green roofs, prestressed concrete arches, the two wings sliding past each other and the reflecting water basin are in Dezeen/Architect via search. 'Fair-faced' was not confirmed and was removed."
+ },
+ {
+  "id": "grand-hotel-taipei",
+  "verdict": "fixed",
+  "features": "87 m, 12-storey hotel in Chinese palace style on Yuanshan hill: vermilion columns, dragon heads on the roof.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_(Taipei)"
+  ],
+  "note": "Yang Cho-cheng and 1973 (main building completed 10 October 1973) confirmed; 87 m and 12 floors (infobox), vermilion columns, palace style, Yuanshan site and the roof's dragon heads are all in Wikipedia. 'Golden-tiled double roof' is not in the source and was removed."
+ },
+ {
+  "id": "taipei-fine-arts-museum",
+  "verdict": "fixed",
+  "features": "Grey-white gallery tubes crossing in a 井 (hash) shaped plan, their box-like ends cantilevered out.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum",
+   "https://www.e-flux.com/announcements/590428/modern-life-taiwan-architecture-1949-1983",
+   "https://www.irenebrination.com/2024/04/08/taiwan-architecture-1949-1983-tfam/"
+  ],
+  "note": "Kao Er-pan and 1983 (opened 8 August 1983) and the Metabolist reading confirmed by Wikipedia. Search results (TFAM 2024 exhibition notice and others) describe a 井 (hash) shaped main structure, a grey-white minimalist box form with cantilevered tubular extensions. 'Big windows' was not supported and was removed."
+ },
+ {
+  "id": "shenzhen-baoan-airport-terminal-3",
+  "verdict": "fixed",
+  "features": "1.6 km terminal in a double honeycomb skin pierced by hexagonal openings; locals call it the giant flying fish.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Bao%27an_International_Airport",
+   "https://www.dezeen.com/2013/11/26/studio-fuksas-terminal-3-shenzhen-baoan-international-airport/amp/",
+   "https://www.architecturalrecord.com/articles/7973-shenzhen-baoan-international-airport-terminal-3"
+  ],
+  "note": "Studio Fuksas, 1.6 km, 'giant flying fish' and opening on 28 November 2013 are in Wikipedia (the terminals it replaced closed 27 November 2013). Dezeen and Architectural Record (via search) describe an internal and external honeycomb skin (a double skin, not 'single') with hexagonal light-filtering openings; small wording fix."
+ },
+ {
+  "id": "ntu-college-of-social-sciences",
+  "verdict": "fixed",
+  "features": "Single-storey glazed reading room under a skylit roof held up by 88 tree-like columns.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toyo_Ito",
+   "https://architecturalrecord.com/articles/11411-toyo-ito-libraries-in-japan-and-taiwan",
+   "https://inspiration.detail.de/university-library-in-taipei-113381.html?lang=de",
+   "https://visitorcenter.ntu.edu.tw/eng/News_Photo_Content_n_74866_s_82594.html"
+  ],
+  "note": "Toyo Ito and 2013 confirmed by his Wikipedia works list. Detail describes a single-storey glazed pavilion with tree-like supports forming a roof pierced by skylights (geometry drawn from lotus petals); NTU's visitor site gives 88 irregularly arranged columns. 'White' and 'lily-pad roof discs' were not in any source and were removed."
+ },
+ {
+  "id": "kirchner-museum-davos",
+  "verdict": "fixed",
+  "features": "Four glass-clad gallery cubes linked by a lower corridor; daylight reaches the rooms from above through etched glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer",
+   "https://en.wikipedia.org/wiki/Kirchner_Museum_Davos",
+   "https://www.gigon-guyer.ch/en/project/kirchner-museum-davos-en/"
+  ],
+  "note": "Gigon/Guyer, 1989-92, opened 4 September 1992 (Wikipedia). The architects' own project page (via search) confirms four double-height cube rooms with glass facades and skylights, linked by a lower corridor, with daylight entering from above through an etched glass ceiling. The link is a corridor with a fair-faced concrete entrance hall, not a 'glazed hall', so the wording was adjusted."
+ },
+ {
+  "id": "toni-areal",
+  "verdict": "fixed",
+  "features": "Huge former dairy turned into an art university, keeping its shell and its curved truck ramp as the way in.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts",
+   "https://commons.wikimedia.org/wiki/File:Hochhaus_Toni-Areal_Z%C3%BCrich.jpg",
+   "https://www.baunetzwissen.de/fassade/objekte/kultur-bildung/umbau-der-grossmolkerei-toni--in-zuerich-4129551/gallery-1/2",
+   "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/zuercher-hochschule-der-kuenste-zhdk-toni-areal"
+  ],
+  "note": "EM2N (conversion 2011-2014) and the ZHdK move in 2014 confirmed. Sources call it the Toni dairy (Grossmolkerei, once Europe's largest milk-processing plant), not specifically a yoghurt factory. Baunetz Wissen (via search) says the outer envelope was kept and the curved truck ramp survives as an access point. 'Vertical campus' and an internal ramp running through it were not confirmed and were removed."
+ },
+ {
+  "id": "german-maritime-museum",
+  "verdict": "fixed",
+  "features": "Finished after Scharoun's death: a ship-like building with railing-style balconies, beside a fleet of museum ships.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/German_Maritime_Museum",
+   "https://en.wikipedia.org/wiki/Hans_Scharoun",
+   "https://freizeitmonster.de/aktivitaeten/orte/deutsches-schifffahrtsmuseum-192929",
+   "https://www.stuttgarter-zeitung.de/kultur/architekt-hans-scharoun-der-erfinder-des-fliessenden-raums-78983796.html"
+  ],
+  "note": "Scharoun and 1975 (opened 5 September 1975; designed 1970-75, finished after his 1972 death) confirmed by Wikipedia. 'Last building' was not supported (Wikipedia names several buildings finished after his death, the State Library among them) and was replaced. German sources via search describe a building shaped like a moored ship, with railing-like parapets, and name local partners Helmut Bohnsack and Peter Fromlowitz. 'White' and 'stepping' were not confirmed and were removed."
+ },
+ {
+  "id": "bundestag-plenary-building-bonn",
+  "verdict": "fixed",
+  "features": "Parliament made to show democracy in the open: light steel-and-glass walls round a circular seating plan.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Bundeshaus_(Bonn)",
+   "https://www.bundestag.de/parlament/geschichte/75jahre/bonn/schauplaetze_bonn/behnisch-bau-933742",
+   "https://wegderdemokratie.de/en/plenarsaal-deutscher-bundestag",
+   "https://www.kuladig.de/Objektansicht/Drucken/O-20785-20111107-39"
+  ],
+  "note": "Behnisch & Partner and 1992 (first session 30 October 1992; Wikipedia 1987-92) confirmed. Bundestag and KuLaDig pages (via search) describe steel construction with glass walls for transparency and lightness, and the circular seating where the government sat in the ring with MPs. The 'sunken' chamber and 'light steel roof' were not confirmed and were removed."
+ },
+ {
+  "id": "schaulager",
+  "verdict": "fixed",
+  "features": "Art warehouse walled in concrete mixed with gravel dug from the site; its entrance side bends in, white and concave.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schaulager",
+   "https://schaulager.org/en/schaulager/architecture/schaulager",
+   "https://www.herzogdemeuron.com/?p=1301",
+   "https://schaulager.org/en/file/3324/dce7b6b2/537_PDE_HdM_SL_241030.pdf"
+  ],
+  "note": "Herzog & de Meuron and 2003 confirmed by Wikipedia. The Schaulager's own architecture page (via search) says the walls are concrete mixed with pebbles excavated on site, hammered to expose them; Herzog & de Meuron describe a 'concave white facade' at the entrance, and the polygonal plan's entrance side is bent inwards. 'Funnel-shaped' replaced with the sources' 'concave'."
+ },
+ {
+  "id": "gsw-headquarters",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/GSW_Headquarters",
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton"
+  ],
+  "note": "The GSW Headquarters Wikipedia article confirms everything: Sauerbruch Hutton, built 1995-1999, a thin gently curved slab extending the 1950s office tower, and a one-metre-thick west convection facade that enables natural ventilation, with rotating louvres in red, pink and orange. Since 2017 called Rocket-Tower; the owner planned to replace the louvres (status not confirmed)."
+ },
+ {
+  "id": "german-environment-agency-dessau",
+  "verdict": "fixed",
+  "features": "Timber-clad four-storey office 'snake' looping round a glass-roofed atrium, on a former gasworks site.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+   "https://www.baunetzwissen.de/nachhaltig-bauen/objekte/buero/umweltbundesamt-in-dessau-674248",
+   "https://www.baunetzwissen.de/gebaeudetechnik/objekte/buero-verwaltung/umweltbundesamt-in-dessau-71644"
+  ],
+  "note": "Sauerbruch Hutton and 2005 confirmed (Wikipedia: serpentine plan). Baunetz Wissen (via search) describes a long flowing four-storey 'office snake' forming a loop, a reinforced concrete frame with timber cladding, a glass sawtooth-roofed atrium and forum, on the former gasworks (Gasviertel) beside the historic Wörlitzer Bahnhof. The site was a gasworks, not rail works; 'coloured glass bands' were not confirmed in the sources reached, so both were changed."
+ },
+ {
+  "id": "tour-total-berlin",
+  "verdict": "fixed",
+  "features": "69 m office tower wrapped in a load-bearing grid of faceted precast-concrete elements that shade its glass.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Jean-Monnet-Tower",
+   "https://www.dezeen.com/2012/11/18/tour-total-in-berlin-by-barkow-leibinger/",
+   "https://www.theplan.it/eng/architettura/tour-total",
+   "https://barkowleibinger.com/archive/view/tour_total"
+  ],
+  "note": "Barkow Leibinger, official opening 12 October 2012 and 69 m from the Commons Wikidata infobox. The Plan and Barkow Leibinger's own page (via search) describe faceted precast concrete facade elements that also give sun screening to the glass behind, and a load-bearing facade allowing column-free floors. 'Shift with the light' was unsourced and removed. (Some sources give 68 m and 18 storeys.)"
+ }
+]
