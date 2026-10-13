@@ -574,5 +574,125 @@
    "https://architizer.com/projects/hotel-jakarta/"
   ],
   "note": "SeARCH project page: built 2013-2018 for WestCord on Java-eiland; 30 m load-bearing timber structure with 176 prefabricated rooms; central atrium holds a subtropical garden planned with the Hortus Botanicus. Baunetz calls it a steel, timber and glass hybrid, so \"timber-framed\" is fair."
+ },
+ {
+  "id": "ravenscar-house-museum",
+  "verdict": "fixed",
+  "features": "House museum of precast concrete faced with crushed earthquake rubble, its rooms set out like a home by a courtyard.",
+  "sources": [
+   "https://www.scoop.co.nz/stories/CU2110/S00042.htm",
+   "https://homeofarchitecture.co.nz/home-of-the-arts/",
+   "https://www.canterburymuseum.com/explore/latest-news/october-2018-start-of-work-planned-for-ravenscar-house",
+   "https://thelocalproject.com.au/articles/ravenscar-by-patterson-associates-issue-09-feature-the-local-project/"
+  ],
+  "note": "Patterson Associates; opened Monday 8 November 2021 (Scoop, Cityscape). Precast panels faced with crushed rubble from the earthquake-destroyed Scarborough house; foyer and four rooms (dining, bedroom, living, library) round a central courtyard (Canterbury Museum). \"Folded\" volumes not in a source, so replaced."
+ },
+ {
+  "id": "sony-city-osaki",
+  "verdict": "ok",
+  "sources": [
+   "https://www.archdaily.com/529486/building-skin-developed-that-could-cool-our-cities",
+   "https://materialdistrict.com/article/worlds-first-cooling-bioskin-facade/",
+   "https://www.e-architect.com/tokyo/sony-city-osaki",
+   "https://artscape.jp/report/review/author/1192004_1838,1,list1,512.html"
+  ],
+  "note": "Nikken Sekkei; completed March 2011 (artscape). BioSkin: stored roof rainwater pumped through porous ceramic pipes on the east facade (in the balcony rails), evaporating to cool the air (ArchDaily, MaterialDistrict)."
+ },
+ {
+  "id": "belarusian-memorial-chapel",
+  "verdict": "fixed",
+  "year": "2016",
+  "features": "Small timber chapel modelled on Belarus's wooden churches, cedar-shingled, a memorial to the victims of Chernobyl.",
+  "sources": [
+   "https://www.dezeen.com/2016/12/17/wooden-belarusian-memorial-chapel-dedicated-chernobyl-nuclear-disaster-spheron-architects-london-england/",
+   "https://ribaj.com/culture/remembering-chernobyl",
+   "https://www.woodawards.com/portfolio/belarusian-memorial-chapel-2/",
+   "https://nationalchurchestrust.org/node/1629"
+  ],
+  "note": "Spheron Architects (Tszwai So) confirmed. Dezeen (17 Dec 2016) already reports it complete and RIBAJ expected completion by end of 2016; 2017 is the Wood Awards year, so year changed to 2016. Wood Awards lists Douglas fir, radiata pine and western red cedar, not oak; cedar shingles. \"Oak\" and \"shingled dome on a slender tower\" removed."
+ },
+ {
+  "id": "victoria-gate-leeds",
+  "verdict": "fixed",
+  "features": "Department store in a woven-looking terracotta diagrid that recalls Leeds textiles, beside glass-roofed arcades.",
+  "sources": [
+   "https://architecturetoday.co.uk/?p=35699",
+   "https://www.ajbuildingslibrary.co.uk/projects/display/id/7924",
+   "https://www.archinect.com/acme/release/leeds-city-centre-grows-eastwards-with-the-long-awaited-opening-of-victoria-gate",
+   "https://acme.ac/blogs/projects/leeds-carpark"
+  ],
+  "note": "ACME, 2011-2016, opened 2016; WAF 2017 shopping winner. The John Lewis store has a layered terracotta diagrid likened to woven fabric and tied to Leeds textile history; the twisting aluminium fins are on the car park, not the store, so the line was corrected. Arcades have a glazed roofscape after Leeds Victorian arcades."
+ },
+ {
+  "id": "sara-kulturhus",
+  "verdict": "fixed",
+  "features": "Culture centre and 20-storey hotel tower built in timber; the hotel is stacked prefabricated CLT room modules.",
+  "sources": [
+   "https://www.dezeen.com/2021/10/08/sara-kulturhus-skelleftea-sweden-white-arkitekter/",
+   "https://www.theplan.it/eng/architecture/sara-cultural-centre-in-skellefte%C3%A5-sweden-a-magnificent-state-of-the-art-green-building",
+   "https://architectureanddesign.com.au/News/75m-Swedish-building-among-tallest-timber-towers"
+  ],
+  "note": "White Arkitekter, opened 2021 (Dezeen Oct 2021). 75 m, 20-storey hotel tower (The Wood Hotel) of prefabricated CLT volume modules stacked between two CLT lift cores; low-rise part in glulam and CLT, no load-bearing concrete. Storey count now sourced. \"Inside a glass skin\" not stated, replaced."
+ },
+ {
+  "id": "forskaren-stockholm",
+  "verdict": "fixed",
+  "year": "2024",
+  "features": "Round seven-storey life-science hub, its glass facade lined with vertical wooden slats, around a large central atrium.",
+  "sources": [
+   "https://www.dezeen.com/2024/05/09/3xn-forskaren-innovation-hub-stockholm/",
+   "https://designwanted.com/3xn-architects-forskaren/",
+   "https://www.mynewsdesk.com/se/vectura-fastigheter/pressreleases/forskaren-wins-2025-uli-europe-award-for-excellence-3418780",
+   "https://designdekko.com/news/day-one-winners-of-waf-2024-international-architectural-awards-announced"
+  ],
+  "note": "3XN for Vectura. Dezeen announced the opening in May 2024 and another source says it was fully complete in August 2024 when the last tenants moved in; Commons photos from Oct 2022 show the shell from a distance, so 2022 is too early. Circular plan, seven floors joined by a spiral stair in a large inner atrium, glass facade with vertical wooden slats (Dezeen). \"Slim fins\" were wooden slats; reworded."
+ },
+ {
+  "id": "paula-fox-melanoma-and-cancer-centre",
+  "verdict": "fixed",
+  "year": "2024",
+  "features": "Six-storey cancer centre on St Kilda Road, wrapped in a light-filtering facade veil modelled on healthy skin.",
+  "sources": [
+   "https://www.architecture.com.au/archives/awards/paula-fox-melanoma-and-cancer-centre",
+   "https://ancr.com.au/wp-content/uploads/project_gallery/paula_fox_melanoma_and_cancer_centre.pdf",
+   "https://www.kane.com.au/news/2025/mbav-excellence-in-construction-kane-wins-top-honours-for-paula-fox-melanoma-and-cancer-centre",
+   "https://urbis.com.au/projects/paula-fox-melanoma-cancer-centre"
+  ],
+  "note": "Lyons for Alfred Health, built by Kane; officially opened 19 April 2024 (construction from 2022), so 2023 changed to 2024. Sources describe one six-storey building with a facade veil based on the outer layer of skin (ANCR: skin graft). \"Two rounded glass towers pulling apart\" and \"white entrance canopy\" not found in a source, so replaced."
+ },
+ {
+  "id": "alila-villas-uluwatu",
+  "verdict": "ok",
+  "sources": [
+   "https://www.robaid.com/tech/green-architecture-alila-villas-uluwatu-eco-resort.htm",
+   "https://www.catalan-architects.com/de/woha-singapore/project/alila-villas-uluwatu",
+   "https://my.asiatatler.com/lifestyle/travel/the-suite-spot-alila-villas-uluwatu-bali-hotel-review"
+  ],
+  "note": "WOHA, opened June 2009. Sources: low terraced roofs of volcanic pumice following the clifftop slope, walls of stone from the site, reclaimed ironwood (ulin) for doors, trellises and panelling. Line is supported."
+ },
+ {
+  "id": "shanghai-suhe-mixc-world",
+  "verdict": "fixed",
+  "year": "2022",
+  "features": "Shopping centre under a park on Suzhou Creek: planted slopes step down into an \"urban valley\" to the shops.",
+  "sources": [
+   "https://world-architects.com/en/projects/view/shanghai-suhe-mixc-world",
+   "https://www.architizer.com/projects/shanghai-suhe-mixc-world",
+   "https://www.archiposition.com/?p=309447"
+  ],
+  "note": "Kokaistudios for CR Land. Archiposition gives completion October 2022, so 2021 changed to 2022 (no source for 2021 found). World-architects: shops below ground under a 42,000 m2 green site on Suzhou Creek, stepped slopes lead down from the green surface into an \"urban valley\". \"Curving\" terraces not stated, removed."
+ },
+ {
+  "id": "dalarna-media-library",
+  "verdict": "fixed",
+  "year": "2014",
+  "features": "University library clad in larch behind horizontal polished-steel slats; a spiral ramp rises round its atrium.",
+  "sources": [
+   "https://www.dezeen.com/2014/07/11/adept-dalarna-media-library-falun-sweden/",
+   "https://extranet.worldstainless.org/Files/issf/non-image-files/PDF/Built_to_Last/English/Dalarna_Media_Library_en.pdf",
+   "https://www.builderonline.com/project-gallery/dalarna-media-library/",
+   "https://divisare.com/projects/331787-adept-dalarna-media-library"
+  ],
+  "note": "ADEPT for Högskolan Dalarna; completed 2014 (Builder lists Year Completed 2014; Dezeen July 2014), so 2013 changed. Facade: horizontal polished stainless-steel lamellae over Siberian larch cladding, made with artist Jeppe Hein (ISSF); spiral ramp through a central atrium. The slats are steel, not wood, and they reflect rather than filter light, so the line was rewritten."
  }
 ]
