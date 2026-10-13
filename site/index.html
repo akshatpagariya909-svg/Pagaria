@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=a9fb229a">
+<link rel="stylesheet" href="styles.css?v=ab4a29be">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -28,19 +28,25 @@
   <a class="mark" href="#" id="home">Discover<br><span class="accent">Architecture.</span></a>
   <div class="bar-mid">
     <div class="mode" role="group" aria-label="Buildings or books">
-      <button type="button" id="modeBuildings" aria-pressed="true">Buildings</button>
-      <button type="button" id="modeBooks" aria-pressed="false">Books</button>
+      <button type="button" id="modeBuildings" aria-pressed="true">Buildings</button><span class="mode-line" aria-hidden="true"></span><button type="button" id="modeBooks" aria-pressed="false">Books</button>
     </div>
     <label class="search">
       <span class="sr">Search buildings, architects, cities or ideas</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
       <input id="q" type="search" placeholder="Search a building, architect, city or idea…" autocomplete="off">
     </label>
-    <button type="button" class="btn ghost" id="filterBtn" aria-expanded="false" aria-controls="filters">Filter <span id="filterCount"></span></button>
+    <button type="button" class="btn ghost" id="filterBtn" aria-expanded="false" aria-controls="filters" aria-label="Filter"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span class="flabel">Filter</span> <span id="filterCount"></span></button>
   </div>
   <div class="bar-end">
     <span class="count" id="count">100 buildings</span>
     <a class="btn ghost" href="buildings/" id="allLink">All buildings</a>
+    <div class="play" id="play">
+      <button type="button" class="btn play-btn" id="playBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="playMenu"><svg class="pi" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z"/></svg><span>Guess the building?</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+      <div class="play-menu" id="playMenu" role="menu" hidden>
+        <a role="menuitem" href="play/#daily"><b>Daily five</b><span>Same five for everyone. New every day.</span></a>
+        <a role="menuitem" href="play/#endless"><b>Endless</b><span>Keep going until you miss one.</span></a>
+      </div>
+    </div>
   </div>
 </header>
 <nav class="ideas" id="ideas" aria-label="Browse by idea"><div class="mode-slot" id="modeSlot"></div><div class="ideas-list" id="ideasList"></div></nav>
@@ -115,8 +121,8 @@
 <script src="data/architects.js?v=046f0729"></script>
 <script src="data/filters.js?v=9e9876ee"></script>
 <script src="data/world.js?v=5709bcc2"></script>
-<meta name="books-data" content="data/books.js?v=d401f1e8">
-<script src="app.js?v=39cda7e8"></script>
+<meta name="books-data" content="data/books.js?v=3f782450">
+<script src="app.js?v=c3b457e3"></script>
 <script src="filter.js?v=eeaf93fd"></script>
 </body>
 </html>

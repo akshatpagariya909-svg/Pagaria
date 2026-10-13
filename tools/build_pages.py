@@ -232,6 +232,12 @@ def stamp_wall():
     for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'data/architects.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
+    play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
+    if play.exists():
+        html = play.read_text()
+        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js')):
+            html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
+        play.write_text(html)
 
 
 def main():

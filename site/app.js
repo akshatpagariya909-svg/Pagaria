@@ -205,7 +205,7 @@
     $('allLink').dataset.tip = `A collection of ${TOTAL.toLocaleString('en')} buildings`;
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
-    $('filterCount').textContent = nf ? '· ' + nf : '';
+    $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
     updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -660,11 +660,26 @@
     toggleFilters(false);
     if (!quiet) render(true);
   }
-  // On a phone the switch moves out of the crowded top bar into the row below it.
-  const narrow = window.matchMedia('(max-width: 820px)');
-  const placeMode = () => (narrow.matches ? $('modeSlot') : $('q').closest('.bar-mid')).prepend(document.querySelector('.mode'));
-  narrow.addEventListener('change', placeMode);
-  placeMode();
+  // Top panel A: the switch stays in the top bar; on a phone it sits on the bar's second row, beside Guess the building?.
+  $('q').closest('.bar-mid').prepend(document.querySelector('.mode'));
+
+  // Guess the building? opens a small menu with the two games.
+  const playMenu = (open) => { $('playMenu').hidden = !open; $('playBtn').setAttribute('aria-expanded', open); };
+  $('playBtn').addEventListener('click', e => { e.stopPropagation(); playMenu($('playMenu').hidden); });
+  document.addEventListener('click', e => { if (!$('playMenu').hidden && !e.target.closest('#play')) playMenu(false); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('playMenu').hidden) { playMenu(false); $('playBtn').focus(); } });
+
+  // The ideas row slides away while you scroll down and comes back as soon as you scroll up.
+  let lastY = window.scrollY, ticking = false;
+  window.addEventListener('scroll', () => {
+    if (ticking) return; ticking = true;
+    requestAnimationFrame(() => {
+      const y = window.scrollY, d = y - lastY;
+      if (Math.abs(d) > 6) { document.body.classList.toggle('ideas-away', d > 0 && y > 140); lastY = y; }
+      if (y < 140) document.body.classList.remove('ideas-away');
+      ticking = false;
+    });
+  }, { passive: true });
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {
