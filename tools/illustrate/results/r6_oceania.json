@@ -1432,44 +1432,6 @@
   "note": "Opened 1995 as part of the Governor Phillip Tower development; paving in the plaza can be lifted to show the 1788 Government House remains. 'Edge of the Trees' (1995) is an artwork of poles in the forecourt, visible in the third photo."
  },
  {
-  "id": "forsyth-barr-stadium",
-  "name": "Forsyth Barr Stadium",
-  "by": "Populous and Jasmax",
-  "city": "Dunedin",
-  "cc": "NZ",
-  "year": "2011",
-  "type": "Culture & sport",
-  "movement": "High-tech",
-  "concepts": [
-   "Light from above",
-   "Structure as expression",
-   "Steel & glass"
-  ],
-  "features": "Fully roofed stadium under a clear ETFE roof on steel arches, 47 m high, so daylight reaches the grass pitch.",
-  "award": "Populous / Jasmax",
-  "status": "photo",
-  "commons_category": "Category:Forsyth Barr Stadium",
-  "photos": [
-   {
-    "file": "File:Dunedin Forsyth Barr Stadium.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Forsyth Barr Stadium, Dunedin, Nueva Zelanda - panoramio.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Forsyth_Barr_Stadium"
-  ],
-  "note": "Opened 5 August 2011. 'Daylight reaches the grass pitch' is the purpose of the clear roof as commonly described; Wikipedia states the clear ETFE roof and its height. Not from a national award list."
- },
- {
   "id": "university-house-anu",
   "name": "University House, Australian National University",
   "by": "Brian Lewis",
@@ -2243,5 +2205,43 @@
    "https://en.wikipedia.org/wiki/Kerstin_Thompson"
   ],
   "note": "Medium-density housing on a corner of Napier and Webb Streets. The plan PDF (1754px) was not looked at; check before use."
+ },
+ {
+  "id": "forsyth-barr-stadium",
+  "name": "Forsyth Barr Stadium",
+  "by": "Populous and Jasmax",
+  "city": "Dunedin",
+  "cc": "NZ",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Light from above",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Fully roofed stadium under a clear ETFE roof on steel arches, 47 m high, so daylight reaches the grass pitch.",
+  "award": "Populous / Jasmax",
+  "status": "photo",
+  "commons_category": "Category:Forsyth Barr Stadium",
+  "photos": [
+   {
+    "file": "File:Forsyth Barr Stadium 95.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Forsyth Barr Stadium, Dunedin, Nueva Zelanda - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forsyth_Barr_Stadium"
+  ],
+  "note": "Opened 5 August 2011. 'Daylight reaches the grass pitch' is the purpose of the clear roof as commonly described; Wikipedia states the clear ETFE roof and its height. Not from a national award list."
  }
 ]

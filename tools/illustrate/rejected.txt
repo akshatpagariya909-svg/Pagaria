@@ -50,3 +50,4 @@ ivar-aasen-centre  # lead photo didn't show the building (Oct 13 review)
 miyakonojo-civic-hall  # demolished 2019-20; waiting on the owner's call on lost buildings
 anji-bridge  # a bridge, not a building (round 6 review)
 monument-to-the-peoples-heroes  # a monument, not a building (round 6 review)
+bolte-bridge  # a bridge, not a building (round 6 review)

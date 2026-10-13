@@ -272,5 +272,25 @@
    "https://barkowleibinger.com/archive/view/tour_total"
   ],
   "note": "Barkow Leibinger, official opening 12 October 2012 and 69 m from the Commons Wikidata infobox. The Plan and Barkow Leibinger's own page (via search) describe faceted precast concrete facade elements that also give sun screening to the glass behind, and a load-bearing facade allowing column-free floors. 'Shift with the light' was unsourced and removed. (Some sources give 68 m and 18 storeys.)"
+ },
+ {
+  "id": "stuttgart-city-library",
+  "verdict": "fixed",
+  "features": "Cube with a 9x9 glass-block facade; inside, a skylit four-storey 'heart' and a funnel-shaped hall ringed by books.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadtbibliothek_Stuttgart"
+  ],
+  "note": "Eun Young Yi and 2011 (built 2010 to 24 October 2011) confirmed. Wikipedia: 9x9 glass-block facade, a central 'heart' over four floors lit by a central skylight, and a funnel-shaped hall from the fifth level surrounded only by books. The skylight belongs to the heart, not the funnel hall, and 'white' and 'silent' were not stated, so the line was reworded."
+ },
+ {
+  "id": "ohel-jakob-synagogue",
+  "verdict": "fixed",
+  "features": "Windowless travertine base topped by a glass cube veiled in bronze mesh: the tent of Moses' years in the desert.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ohel_Jakob_synagogue_(Munich)",
+   "https://www.gkdmetalfabrics.com/synagogue-cloaked-in-golden-mesh-veil-in-contemporary-religious-architecture/",
+   "https://www.archiweb.cz/en/b/zidovske-centrum-v-mnichove-ohel-jakob-synagogue"
+  ],
+  "note": "Architects and 2006 (built 2004-2006, inaugurated 9 November 2006) confirmed. Wikipedia: concrete cube clad in travertine below, topped by a glass cube representing the tent of Moses' 40 years in the desert. GKD (the mesh maker) describes a bronze spiral mesh veil around the glass. The Western Wall reading and the star-of-David lattice were not found in any source and were removed."
  }
 ]
