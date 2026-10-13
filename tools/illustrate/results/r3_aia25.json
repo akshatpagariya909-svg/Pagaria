@@ -1114,5 +1114,214 @@
    "https://world-architects.com/ms/projects/view/horizontal-skyscraper (via search summary)"
   ],
   "note": "No photos found on Commons (English or Chinese search). Sources give the 35 m height limit, eight cores up to 50 m apart and a perforated aluminium louvre skin, but not the clearance under the bar, storey count or how the bends read in elevation. A test elevation came out as a generic raised slab a student wouldn't recognise, so it was not kept."
+ },
+ {
+  "id": "michael-lee-chin-crystal",
+  "name": "Michael Lee-Chin Crystal, Royal Ontario Museum",
+  "by": "Studio Daniel Libeskind",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "2007",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Five interlocking prisms of glass and aluminium burst out of the old museum's front onto Bloor Street.",
+  "award": "Praemium Imperiale 2026 (Daniel Libeskind)",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Michael Lee-Chin Crystal",
+  "photos": [
+   {
+    "file": "File:1.Extension of Royal Ontario Museum, Toronto.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2.Extension of Royal Ontario Museum, Toronto.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:10.Extension of Royal Ontario Museum, Toronto.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Lee-Chin_Crystal"
+  ],
+  "note": "60 exterior files."
+ },
+ {
+  "id": "denver-art-museum-hamilton-building",
+  "name": "Frederic C. Hamilton Building, Denver Art Museum",
+  "by": "Studio Daniel Libeskind with Davis Partnership",
+  "city": "Denver",
+  "cc": "US",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Geometry"
+  ],
+  "features": "Titanium-clad shards lean and cantilever over the street, inspired by the Rocky Mountains' peaks.",
+  "award": "Praemium Imperiale 2026 (Daniel Libeskind)",
+  "status": "photo",
+  "commons_category": "Category:Frederic C. Hamilton Building",
+  "photos": [
+   {
+    "file": "File:Denver Art Museum - Frederic C. Hamilton building. View from south.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Denver Art Museum - Frederic C. Hamilton building. View from north-east.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Denver Art Museum - Frederic C. Hamilton building. View from south-east.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denver_Art_Museum"
+  ],
+  "note": null
+ },
+ {
+  "id": "pulitzer-arts-foundation",
+  "name": "Pulitzer Arts Foundation",
+  "by": "Tadao Ando",
+  "city": "St. Louis",
+  "cc": "US",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Water",
+   "Light & shadow"
+  ],
+  "features": "Two long concrete bars either side of a shallow water court; the light and reflections change through the day.",
+  "award": "Alvar Aalto Medal 1985 / Praemium Imperiale 1996 (Tadao Ando)",
+  "status": "photo",
+  "commons_category": "Category:Pulitzer Arts Foundation",
+  "photos": [
+   {
+    "file": "File:Pulitzerfoundation.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pulitzer Arts Foundation courtyard.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pulitzer Arts Foundation.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pulitzer_Arts_Foundation"
+  ],
+  "note": "Only four files; Pulitzerfoundation.jpg is the clear street exterior."
+ },
+ {
+  "id": "kunstmuseum-moritzburg-extension",
+  "name": "Kunstmuseum Moritzburg extension",
+  "by": "Nieto Sobejano Arquitectos",
+  "city": "Halle",
+  "cc": "DE",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Stone"
+  ],
+  "features": "A folded aluminium roof floats over the ruined wing of a 15th-century castle, turning it into top-lit galleries.",
+  "award": "Alvar Aalto Medal 2015 (Fuensanta Nieto and Enrique Sobejano)",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Moritzburg (Halle)",
+  "photos": [
+   {
+    "file": "File:Moritzburg mit Museumseingang.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:HAL-KunstmuseumMoritzburg Eingang.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kunstmuseum Moritzburg Halle (Saale).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moritzburg_(Halle)"
+  ],
+  "note": "Moritzburg mit Museumseingang shows the courtyard with the new roof and its tower-like lantern; the CC0 file is the old castle from outside (no extension visible)."
+ },
+ {
+  "id": "barnes-foundation-philadelphia",
+  "name": "Barnes Foundation",
+  "by": "Tod Williams Billie Tsien Architects",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Courtyard"
+  ],
+  "features": "Limestone galleries recreate the old rooms inside, under a glowing glass 'light box', beside long reflecting pools.",
+  "award": "Praemium Imperiale 2019 (Tod Williams and Billie Tsien)",
+  "status": "photo",
+  "commons_category": "Category:Barnes Foundation",
+  "photos": [
+   {
+    "file": "File:The Barnes Foundation in Philadelphia (by MyWikiBiz).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Reflecting pool outside the Barnes Foundation - Philadelphia (by MyWikiBiz).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wall at the Barnes Foundation - Neubauer Plaza - Philadelphia (by MyWikiBiz).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barnes_Foundation"
+  ],
+  "note": "The main category is mostly paintings; building photos are the MyWikiBiz files."
  }
 ]

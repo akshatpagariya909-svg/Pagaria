@@ -41,12 +41,17 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
     cands = {c['id']: c for c in json.loads((IL / 'candidates.json').read_text(encoding='utf-8'))}
-    results = {r['id']: r for p in sorted((IL / 'results').glob('*.json')) for r in json.loads(p.read_text(encoding='utf-8'))}
+    results = {}
+    for p in sorted((IL / 'results').glob('*.json')):  # later files (e.g. rescue_*) add to an earlier entry, not replace it
+        for r in json.loads(p.read_text(encoding='utf-8')):
+            results[r['id']] = {**results.get(r['id'], {}), **{k: v for k, v in r.items() if v not in (None, '', [])}}
     for i, r in results.items():  # round 2 proposed its own buildings, with their facts in the result
         if i not in cands and all(r.get(k) for k in ('name', 'by', 'city', 'cc', 'year', 'type', 'movement', 'concepts', 'features')):
             cands[i] = {**{k: r[k] for k in ('name', 'by', 'city', 'cc', 'year', 'type', 'movement', 'concepts', 'features')}, 'id': i, 'qid': None}
     rej = IL / 'rejected.txt'
-    rejected = {l.split('#')[0].strip() for l in rej.read_text(encoding='utf-8').splitlines()} - {''} if rej.exists() else set()
+    why_rej = {l.split('#')[0].strip(): (l.split('#', 1)[1].strip() if '#' in l else 'turned down in review')
+               for l in rej.read_text(encoding='utf-8').splitlines()} if rej.exists() else {}
+    rejected = set(why_rej) - {''}
     choices = json.loads(CHOICES.read_text(encoding='utf-8'))
     head, items = load()
     have = {fold(b['name']) for b in items} | {b.get('qid') for b in items if b.get('qid')}
@@ -58,7 +63,7 @@ def main():
             continue
         svg = IL / 'svg' / f'{i}.svg'
         if i in rejected or r['status'] not in ('drawn', 'photo') or (r['status'] == 'drawn' and not svg.exists()):
-            left.append((c, r, 'drawing turned down in review' if i in rejected else r.get('note') or r['status']))
+            left.append((c, r, why_rej[i] if i in rejected else r.get('note') or r['status']))
             continue
         photos = [p['file'] for p in r.get('photos', [])]
         extras = [[x['file'], x['kind']] for x in r.get('extras', [])]
