@@ -25,3 +25,12 @@ tbilisi-wedding-palace  # lead photo didn't show the building; see recheck.md
 druzhba-sanatorium-kurpaty  # lead photo didn't show the building; see recheck.md
 royal-netherlands-embassy-addis-ababa  # drawing too sparse to read as the building (Oct 13 review)
 fisterra-cemetery  # drawing shows 6 boxes, sources say 14 (Oct 13 review)
+leutschenbach-school  # lead photo still didn't show the building (Oct 13 review)
+tour-cma-cgm  # lead photo still didn't show the building (Oct 13 review)
+lycabettus-theatre  # lead photo still didn't show the building (Oct 13 review)
+asia-culture-center  # lead photo still didn't show the building (Oct 13 review)
+baldwin-hills-village  # lead photo still didn't show the building (Oct 13 review)
+general-motors-technical-center  # lead photo still didn't show the building (Oct 13 review)
+philip-merrill-environmental-center  # lead photo still didn't show the building (Oct 13 review)
+evelyn-grace-academy  # lead photo still didn't show the building (Oct 13 review)
+children-village-canuana  # drawing too generic to read as the building (Oct 13 review)

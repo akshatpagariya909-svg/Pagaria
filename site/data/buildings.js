@@ -182897,60 +182897,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "leutschenbach-school",
-  "n": 1926,
-  "name": "Leutschenbach School",
-  "by": "Christian Kerez",
-  "place": "Zurich, CH",
-  "year": "2009",
-  "y": 2009,
-  "type": "Education",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Structure as expression",
-   "Steel & glass",
-   "Section"
-  ],
-  "study": "Stacked floors carried on exposed steel trusses, with a glazed gym crowning the top.",
-  "qid": null,
-  "commons": "Category:Schulhaus Leutschenbach",
-  "lead": "File:Schulhaus Leutschenbach - 2014-09-28 - Bild 2.JPG",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3175.jpg/1280px-Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leutschenbach-school/thumbs/0.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Das Schulhaus Leutschenbach",
-    "credit": "Bobo11",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3175.jpg",
-    "file": "File:Zürich Schwamendingen Schule Leutschenbach 1K4A3175.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3177.jpg/1280px-Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3177.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leutschenbach-school/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Das Schulhaus Leutschenbach",
-    "credit": "Bobo11",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Schwamendingen_Schule_Leutschenbach_1K4A3177.jpg",
-    "file": "File:Zürich Schwamendingen Schule Leutschenbach 1K4A3177.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "british-council-new-delhi",
-  "n": 1927,
+  "n": 1926,
   "name": "British Council, New Delhi",
   "by": "Charles Correa",
   "place": "New Delhi, IN",
@@ -183002,7 +182950,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coppelia-ice-cream-parlour",
-  "n": 1928,
+  "n": 1927,
   "name": "Coppelia Ice Cream Parlour",
   "by": "Mario Girona",
   "place": "Havana, CU",
@@ -183078,7 +183026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cosmic-rays-pavilion",
-  "n": 1929,
+  "n": 1928,
   "name": "Cosmic Rays Pavilion",
   "by": "Félix Candela, Jorge González Reyna",
   "place": "Mexico City, MX",
@@ -183142,7 +183090,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frac-nord-pas-de-calais",
-  "n": 1930,
+  "n": 1929,
   "name": "FRAC Nord-Pas de Calais",
   "by": "Lacaton & Vassal",
   "place": "Dunkirk, FR",
@@ -183242,7 +183190,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cdg-terminal-1",
-  "n": 1931,
+  "n": 1930,
   "name": "Paris-Charles de Gaulle Airport Terminal 1",
   "by": "Paul Andreu",
   "place": "Roissy-en-France, FR",
@@ -183342,7 +183290,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lascaux-iv",
-  "n": 1932,
+  "n": 1931,
   "name": "Lascaux IV",
   "by": "Snøhetta with Duncan Lewis",
   "place": "Montignac, FR",
@@ -183418,7 +183366,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musee-arles-antique",
-  "n": 1933,
+  "n": 1932,
   "name": "Musée départemental Arles antique",
   "by": "Henri Ciriani",
   "place": "Arles, FR",
@@ -183545,7 +183493,7 @@ window.BUILDINGS = [
  },
  {
   "id": "historial-de-la-grande-guerre",
-  "n": 1934,
+  "n": 1933,
   "name": "Historial de la Grande Guerre",
   "by": "Henri Ciriani",
   "place": "Péronne, FR",
@@ -183645,7 +183593,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondation-avicenne",
-  "n": 1935,
+  "n": 1934,
   "name": "Fondation Avicenne (Maison de l'Iran)",
   "by": "Claude Parent, André Bloc, Mohsen Foroughi, Heydar Ghiai",
   "place": "Paris, FR",
@@ -183733,7 +183681,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unesco-headquarters",
-  "n": 1936,
+  "n": 1935,
   "name": "UNESCO Headquarters",
   "by": "Marcel Breuer, Pier Luigi Nervi, Bernard Zehrfuss",
   "place": "Paris, FR",
@@ -183833,7 +183781,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-de-la-radio",
-  "n": 1937,
+  "n": 1936,
   "name": "Maison de la Radio",
   "by": "Henry Bernard",
   "place": "Paris, FR",
@@ -183933,7 +183881,7 @@ window.BUILDINGS = [
  },
  {
   "id": "orgues-de-flandre",
-  "n": 1938,
+  "n": 1937,
   "name": "Les Orgues de Flandre",
   "by": "Martin Schulz van Treeck",
   "place": "Paris, FR",
@@ -184032,108 +183980,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "tour-cma-cgm",
-  "n": 1939,
-  "name": "CMA CGM Tower",
-  "by": "Zaha Hadid Architects",
-  "place": "Marseille, FR",
-  "year": "2011",
-  "y": 2011,
-  "type": "Office & tower",
-  "movement": "Parametric",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Sculptural form",
-   "Steel & glass",
-   "Geometry"
-  ],
-  "study": "A 147 m glass tower whose curved lines sweep down and split apart at its base by the port.",
-  "qid": null,
-  "commons": "Category:Tour CMA-CGM",
-  "lead": "File:File by Alexander Baranov - IMG 3616 (15978521417).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/File_by_Alexander_Baranov_-_IMG_3616_%2815978521417%29.jpg/1280px-File_by_Alexander_Baranov_-_IMG_3616_%2815978521417%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · IMG_3616",
-    "credit": "Alexander Baranov  from Montpellier, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:File_by_Alexander_Baranov_-_IMG_3616_(15978521417).jpg",
-    "file": "File:File by Alexander Baranov - IMG 3616 (15978521417).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tour_CMA-CGM%2C_gros_Ferries._Petit_phare_%2822650942945%29.jpg/1280px-Tour_CMA-CGM%2C_gros_Ferries._Petit_phare_%2822650942945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Marseille",
-    "credit": "Jeanne Menjoulet  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tour_CMA-CGM,_gros_Ferries._Petit_phare_(22650942945).jpg",
-    "file": "File:Tour CMA-CGM, gros Ferries. Petit phare (22650942945).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CMA-CGM_Tour.jpeg/1280px-CMA-CGM_Tour.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Sculpture of sumo fighters lifting a container",
-    "credit": "Rberchie",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:CMA-CGM_Tour.jpeg",
-    "file": "File:CMA-CGM Tour.jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Marseille_20110625_02.jpg/1280px-Marseille_20110625_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The ferry boat Carthage , with the Marseille Cathedral and the CMA CGM Tower in background",
-    "credit": "Georges Seguin ( Okki )",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marseille_20110625_02.jpg",
-    "file": "File:Marseille 20110625 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Marseille_20110625_03.jpg/1280px-Marseille_20110625_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The ferry boat Carthage and the CMA CGM Tower in background",
-    "credit": "Georges Seguin ( Okki )",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marseille_20110625_03.jpg",
-    "file": "File:Marseille 20110625 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/TourCMACGMhallascenseurs.jpg/1280px-TourCMACGMhallascenseurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-cma-cgm/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · The lifts hall",
-    "credit": "Revolutionjoyeuse",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:TourCMACGMhallascenseurs.jpg",
-    "file": "File:TourCMACGMhallascenseurs.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "fondation-jerome-seydoux-pathe",
-  "n": 1940,
+  "n": 1938,
   "name": "Fondation Jérôme Seydoux-Pathé",
   "by": "Renzo Piano Building Workshop",
   "place": "Paris, FR",
@@ -184209,7 +184057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-regio-turin",
-  "n": 1941,
+  "n": 1939,
   "name": "Teatro Regio",
   "by": "Carlo Mollino",
   "place": "Turin, IT",
@@ -184336,7 +184184,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-enzo-ferrari",
-  "n": 1942,
+  "n": 1940,
   "name": "Museo Enzo Ferrari",
   "by": "Future Systems (Jan Kaplický), Andrea Morgante",
   "place": "Modena, IT",
@@ -184412,7 +184260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "collegio-del-colle-urbino",
-  "n": 1943,
+  "n": 1941,
   "name": "Collegio del Colle",
   "by": "Giancarlo De Carlo",
   "place": "Urbino, IT",
@@ -184487,108 +184335,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "lycabettus-theatre",
-  "n": 1944,
-  "name": "Lycabettus Theatre",
-  "by": "Takis Zenetos",
-  "place": "Athens, GR",
-  "year": "1965",
-  "y": 1965,
-  "type": "Culture & sport",
-  "movement": "Late modernism",
-  "region": "Europe",
-  "era": "1945–1970",
-  "concepts": [
-   "Landscape",
-   "Prefabrication",
-   "Public space"
-  ],
-  "study": "An open-air theatre in an old quarry on Lycabettus hill, its seating built as a light, demountable steel frame.",
-  "qid": null,
-  "commons": "Category:Lycabettus Theatre",
-  "lead": "File:Athina Lykavittos amfiteatr.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Athina_Lykavittos_amfiteatr.jpg/1280px-Athina_Lykavittos_amfiteatr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Athens - amphitheatre on the Lykavittos mountaintop",
-    "credit": "Andrzej Otrębski",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Athina_Lykavittos_amfiteatr.jpg",
-    "file": "File:Athina Lykavittos amfiteatr.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Attica_06-13_Athens_46_View_from_Lycabettus.jpg/1280px-Attica_06-13_Athens_46_View_from_Lycabettus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/1.webp",
-    "w": 1280,
-    "h": 781,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "A.Savin",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_46_View_from_Lycabettus.jpg",
-    "file": "File:Attica 06-13 Athens 46 View from Lycabettus.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Vue_Ath%C3%A8nes_depuis_Colline_Lycabette_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-26_-_19.jpg/1280px-Vue_Ath%C3%A8nes_depuis_Colline_Lycabette_-_Ath%C3%A8nes_%28GRA1%29_-_2022-03-26_-_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Vue d'Athènes depuis la colline du Lycabette, Athènes",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vue_Ath%C3%A8nes_depuis_Colline_Lycabette_-_Ath%C3%A8nes_(GRA1)_-_2022-03-26_-_19.jpg",
-    "file": "File:Vue Athènes depuis Colline Lycabette - Athènes (GRA1) - 2022-03-26 - 19.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Lycabettus_Theatre%2C_225902.jpg/1280px-Lycabettus_Theatre%2C_225902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/3.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Lycabettus Theatre, Athens",
-    "credit": "Zde",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lycabettus_Theatre,_225902.jpg",
-    "file": "File:Lycabettus Theatre, 225902.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lycabettus_Theatre%2C_225903.jpg/1280px-Lycabettus_Theatre%2C_225903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/4.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Lycabettus Theatre, Athens",
-    "credit": "Zde",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lycabettus_Theatre,_225903.jpg",
-    "file": "File:Lycabettus Theatre, 225903.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/View_from_Lycabettus_Hill_in_Athens%2C_20240531_1921_9901.jpg/1280px-View_from_Lycabettus_Hill_in_Athens%2C_20240531_1921_9901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lycabettus-theatre/thumbs/5.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Context",
-    "caption": "Context · View from Lycabettus Hill in Athens towards the northeast",
-    "credit": "Jakub Hałun",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_from_Lycabettus_Hill_in_Athens,_20240531_1921_9901.jpg",
-    "file": "File:View from Lycabettus Hill in Athens, 20240531 1921 9901.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "seoul-arts-center",
-  "n": 1945,
+  "n": 1942,
   "name": "Seoul Arts Center Opera House",
   "by": "Kim Seok-chul",
   "place": "Seoul, KR",
@@ -184675,96 +184423,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "asia-culture-center",
-  "n": 1946,
-  "name": "Asia Culture Center",
-  "by": "Kyu Sung Woo",
-  "place": "Gwangju, KR",
-  "year": "2015",
-  "y": 2015,
-  "type": "Culture & sport",
-  "movement": "Contemporary",
-  "region": "East Asia",
-  "era": "2005–today",
-  "concepts": [
-   "Landscape",
-   "Light from above",
-   "Public space"
-  ],
-  "study": "Most of the complex is sunk below a public park, lit through sunken courts and skylights.",
-  "qid": null,
-  "commons": "Category:Asia Culture Center, Gwangju",
-  "lead": "File:-include red, 75x16m 1,200㎡(2017) GRAYCODE, jiiiiin.png",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/-include_red%2C_75x16m_1%2C200%E3%8E%A1%282017%29_GRAYCODE%2C_jiiiiin.png/1280px--include_red%2C_75x16m_1%2C200%E3%8E%A1%282017%29_GRAYCODE%2C_jiiiiin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 575,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "GRAYCODE, jiiiiin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:-include_red,_75x16m_1,200%E3%8E%A1(2017)_GRAYCODE,_jiiiiin.png",
-    "file": "File:-include red, 75x16m 1,200㎡(2017) GRAYCODE, jiiiiin.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg/1280px-ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ACC Young-generation Culture Forum Edit-a-ton",
-    "credit": "Trainholic",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg",
-    "file": "File:ACC Young-generation Culture Forum Edit-a-ton 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg/1280px-ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ACC Young-generation Culture Forum Edit-a-ton",
-    "credit": "Trainholic",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg",
-    "file": "File:ACC Young-generation Culture Forum Edit-a-ton 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ACC_Young-generation_Culture_Forum_1.jpg/1280px-ACC_Young-generation_Culture_Forum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Neoalpha",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_1.jpg",
-    "file": "File:ACC Young-generation Culture Forum 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/ACC_Young-generation_Culture_Forum_2.jpg/1280px-ACC_Young-generation_Culture_Forum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Neoalpha",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_2.jpg",
-    "file": "File:ACC Young-generation Culture Forum 2.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "erdene-zuu",
-  "n": 1947,
+  "n": 1943,
   "name": "Erdene Zuu Monastery",
   "by": "Abtai Sain Khan",
   "place": "Kharkhorin, MN",
@@ -184864,7 +184524,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amarbayasgalant-monastery",
-  "n": 1948,
+  "n": 1944,
   "name": "Amarbayasgalant Monastery",
   "by": "Qing imperial builders",
   "place": "Selenge, MN",
@@ -184978,7 +184638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chinggis-khaan-statue-complex",
-  "n": 1949,
+  "n": 1945,
   "name": "Chinggis Khaan Statue Complex",
   "by": "J. Enkhjargal, D. Erdenebileg",
   "place": "Tsonjin Boldog, MN",
@@ -185078,7 +184738,7 @@ window.BUILDINGS = [
  },
  {
   "id": "puente-de-la-mujer",
-  "n": 1950,
+  "n": 1946,
   "name": "Puente de la Mujer",
   "by": "Santiago Calatrava",
   "place": "Buenos Aires, AR",
@@ -185178,7 +184838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "one-zaabeel",
-  "n": 1951,
+  "n": 1947,
   "name": "One Za'abeel",
   "by": "Nikken Sekkei",
   "place": "Dubai, AE",
@@ -185230,7 +184890,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kauchuk-factory-club",
-  "n": 1952,
+  "n": 1948,
   "name": "Kauchuk Factory Club",
   "by": "Konstantin Melnikov",
   "place": "Moscow, RU",
@@ -185330,7 +184990,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kyiv-crematorium",
-  "n": 1953,
+  "n": 1949,
   "name": "Kyiv Crematorium (Park of Memory)",
   "by": "Avraham Miletsky, Ada Rybachuk, Volodymyr Melnychenko",
   "place": "Kyiv, UA",
@@ -185406,7 +185066,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tbilisi-public-service-hall",
-  "n": 1954,
+  "n": 1950,
   "name": "Tbilisi Public Service Hall",
   "by": "Massimiliano and Doriana Fuksas",
   "place": "Tbilisi, GE",
@@ -185482,7 +185142,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-uzbekistan",
-  "n": 1955,
+  "n": 1951,
   "name": "Hotel Uzbekistan",
   "by": "Ivan Merport and team",
   "place": "Tashkent, UZ",
@@ -185582,7 +185242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuwait-water-towers",
-  "n": 1956,
+  "n": 1952,
   "name": "Kuwait Water Towers",
   "by": "Sune Lindström, VBB",
   "place": "Kuwait City, KW",
@@ -185658,7 +185318,7 @@ window.BUILDINGS = [
  },
  {
   "id": "serefudin-white-mosque",
-  "n": 1957,
+  "n": 1953,
   "name": "Šerefudin's White Mosque",
   "by": "Zlatko Ugljen",
   "place": "Visoko, BA",
@@ -185734,7 +185394,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universiti-teknologi-petronas",
-  "n": 1958,
+  "n": 1954,
   "name": "Universiti Teknologi Petronas",
   "by": "Foster + Partners",
   "place": "Seri Iskandar, MY",
@@ -185834,7 +185494,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hassan-ii-bridge",
-  "n": 1959,
+  "n": 1955,
   "name": "Hassan II Bridge",
   "by": "Marc Mimram",
   "place": "Rabat, MA",
@@ -185934,7 +185594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "islamic-cemetery-altach",
-  "n": 1960,
+  "n": 1956,
   "name": "Islamic Cemetery Altach",
   "by": "Bernardo Bader",
   "place": "Altach, AT",
@@ -186034,7 +185694,7 @@ window.BUILDINGS = [
  },
  {
   "id": "madinat-al-zahra-museum",
-  "n": 1961,
+  "n": 1957,
   "name": "Madinat al-Zahra Museum",
   "by": "Nieto Sobejano Arquitectos",
   "place": "Córdoba, ES",
@@ -186148,7 +185808,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-datai-langkawi",
-  "n": 1962,
+  "n": 1958,
   "name": "The Datai Langkawi",
   "by": "Kerry Hill with Akitek Jururancang",
   "place": "Langkawi, MY",
@@ -186248,7 +185908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaedi-regional-hospital",
-  "n": 1963,
+  "n": 1959,
   "name": "Kaédi Regional Hospital",
   "by": "Fabrizio Carola, ADAUA",
   "place": "Kaédi, MR",
@@ -186312,7 +185972,7 @@ window.BUILDINGS = [
  },
  {
   "id": "majara-residence",
-  "n": 1964,
+  "n": 1960,
   "name": "Majara Residence",
   "by": "ZAV Architects",
   "place": "Hormuz Island, IR",
@@ -186364,7 +186024,7 @@ window.BUILDINGS = [
  },
  {
   "id": "banyuwangi-international-airport",
-  "n": 1965,
+  "n": 1961,
   "name": "Banyuwangi International Airport",
   "by": "Andra Matin",
   "place": "Banyuwangi, ID",
@@ -186428,7 +186088,7 @@ window.BUILDINGS = [
  },
  {
   "id": "argo-contemporary-art-museum",
-  "n": 1966,
+  "n": 1962,
   "name": "Argo Contemporary Art Museum",
   "by": "Ahmadreza Schricker Architecture North (ASA North)",
   "place": "Tehran, IR",
@@ -186528,7 +186188,7 @@ window.BUILDINGS = [
  },
  {
   "id": "koudougou-central-market",
-  "n": 1967,
+  "n": 1963,
   "name": "Central Market, Koudougou",
   "by": "Laurent Séchaud",
   "place": "Koudougou, BF",
@@ -186592,7 +186252,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jahad-metro-plaza",
-  "n": 1968,
+  "n": 1964,
   "name": "Jahad Metro Plaza",
   "by": "KA Architecture Studio",
   "place": "Tehran, IR",
@@ -186656,7 +186316,7 @@ window.BUILDINGS = [
  },
  {
   "id": "entrepreneurship-development-institute",
-  "n": 1969,
+  "n": 1965,
   "name": "Entrepreneurship Development Institute of India",
   "by": "Bimal Hasmukh Patel",
   "place": "Ahmedabad, IN",
@@ -186744,7 +186404,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yaama-mosque",
-  "n": 1970,
+  "n": 1966,
   "name": "Yaama Mosque",
   "by": "El Hadji Falké Barmou",
   "place": "Yaama, NE",
@@ -186781,7 +186441,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mbaru-niang-wae-rebo",
-  "n": 1971,
+  "n": 1967,
   "name": "Mbaru Niang, Wae Rebo",
   "by": "Yori Antar with the Wae Rebo community",
   "place": "Wae Rebo, ID",
@@ -186869,7 +186529,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-academy-for-nature-conservation",
-  "n": 1972,
+  "n": 1968,
   "name": "Royal Academy for Nature Conservation",
   "by": "Ammar Khammash",
   "place": "Ajloun, JO",
@@ -186969,7 +186629,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bhong-mosque",
-  "n": 1973,
+  "n": 1969,
   "name": "Bhong Mosque",
   "by": "Rais Ghazi Mohammad (patron) with local craftsmen",
   "place": "Bhong, PK",
@@ -187069,7 +186729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crow-island-school",
-  "n": 1974,
+  "n": 1970,
   "name": "Crow Island School",
   "by": "Perkins, Wheeler & Will with Eliel and Eero Saarinen",
   "place": "Winnetka, US",
@@ -187120,84 +186780,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "baldwin-hills-village",
-  "n": 1975,
-  "name": "Baldwin Hills Village (Village Green)",
-  "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
-  "place": "Los Angeles, US",
-  "year": "1942",
-  "y": 1942,
-  "type": "Housing",
-  "movement": "Modernism",
-  "region": "Americas",
-  "era": "1900–1945",
-  "concepts": [
-   "Community",
-   "Landscape",
-   "Public space"
-  ],
-  "study": "A car-free superblock: low garden apartments face large shared greens, with garages kept to courts at the edge.",
-  "qid": null,
-  "commons": "Category:Village Green (Los Angeles)",
-  "lead": "File:Village Green Photograph.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Village_Green_Photograph.jpg/1280px-Village_Green_Photograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baldwin-hills-village/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · A photograph of Village Green in Los Angeles by Padraic O'Meara",
-    "credit": "Jajajajsjajaja",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Village_Green_Photograph.jpg",
-    "file": "File:Village Green Photograph.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/View_of_the_Village_Green.JPG/1280px-View_of_the_Village_Green.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baldwin-hills-village/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Village Green in Los Angeles",
-    "credit": "Architectural Resources Group",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Village_Green.JPG",
-    "file": "File:View of the Village Green.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Villagegreen-nhl.JPG/1280px-Villagegreen-nhl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baldwin-hills-village/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Village Green neighborhood, Los Angeles, CA",
-    "credit": "en:User:Jengod",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Villagegreen-nhl.JPG",
-    "file": "File:Villagegreen-nhl.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Baldwin_Hills_Village%2C_Office_Building.JPG/1280px-Baldwin_Hills_Village%2C_Office_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baldwin-hills-village/thumbs/3.webp",
-    "w": 1280,
-    "h": 877,
-    "kind": "Exterior",
-    "caption": "Exterior · Baldwin Hills Village, Office Building, 5300 Village Green, Baldwin Hills, Los Angeles, California",
-    "credit": "Los Angeles",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Baldwin_Hills_Village,_Office_Building.JPG",
-    "file": "File:Baldwin Hills Village, Office Building.JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "commonwealth-building-portland",
-  "n": 1976,
+  "n": 1971,
   "name": "Equitable Building (Commonwealth Building)",
   "by": "Pietro Belluschi",
   "place": "Portland, US",
@@ -187297,7 +186881,7 @@ window.BUILDINGS = [
  },
  {
   "id": "price-tower",
-  "n": 1977,
+  "n": 1972,
   "name": "Price Tower",
   "by": "Frank Lloyd Wright",
   "place": "Bartlesville, US",
@@ -187423,96 +187007,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "general-motors-technical-center",
-  "n": 1978,
-  "name": "General Motors Technical Center",
-  "by": "Eero Saarinen and Associates with Smith, Hinchman & Grylls",
-  "place": "Warren, US",
-  "year": "1956",
-  "y": 1956,
-  "type": "Workplace",
-  "movement": "Modernism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Colour",
-   "Steel & glass",
-   "Water"
-  ],
-  "study": "A campus of long steel-and-glass blocks with glazed-brick end walls in bright colours, around a lake and a dome.",
-  "qid": null,
-  "commons": "Category:General Motors Technical Center",
-  "lead": "File:General Motors Technical Center, Warren, Michigan LCCN2011633194.tif",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/General_Motors_Technical_Center_Mound_Entrance.JPG/1280px-General_Motors_Technical_Center_Mound_Entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/general-motors-technical-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · General Motors Technical Center, Warren, Michigan",
-    "credit": "Darren56brown",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Technical_Center_Mound_Entrance.JPG",
-    "file": "File:General Motors Technical Center Mound Entrance.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/General_Motors_Technical_Center_Marker.JPG/1280px-General_Motors_Technical_Center_Marker.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/general-motors-technical-center/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · General Motors Technical Center Historical Marker, Warren, Michigan",
-    "credit": "Darren56brown",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Technical_Center_Marker.JPG",
-    "file": "File:General Motors Technical Center Marker.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Warren_-_General_Motors_Technical_Center_%2850826111923%29.jpg/1280px-Warren_-_General_Motors_Technical_Center_%2850826111923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/general-motors-technical-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Warren - General Motors Technical Center",
-    "credit": "ajay_suresh",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Warren_-_General_Motors_Technical_Center_(50826111923).jpg",
-    "file": "File:Warren - General Motors Technical Center (50826111923).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/General_Motors_Technical_Center%2C_Warren%2C_Michigan%2C_Water_tower_detail%2C_00067u.jpg/1280px-General_Motors_Technical_Center%2C_Warren%2C_Michigan%2C_Water_tower_detail%2C_00067u.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/general-motors-technical-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 862,
-    "kind": "Detail",
-    "caption": "Detail · General Motors Technical Center, Warren, Michigan, Water tower detail",
-    "credit": "Balthazar Korab",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Technical_Center,_Warren,_Michigan,_Water_tower_detail,_00067u.jpg",
-    "file": "File:General Motors Technical Center, Warren, Michigan, Water tower detail, 00067u.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/General_Motors_Technical_Center_Aerial_%2851146060916%29.jpg/1280px-General_Motors_Technical_Center_Aerial_%2851146060916%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/general-motors-technical-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · General Motors Technical Center Aerial (51146060916).jpg",
-    "credit": "formulanone",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Technical_Center_Aerial_(51146060916).jpg",
-    "file": "File:General Motors Technical Center Aerial (51146060916).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "deere-and-company-headquarters",
-  "n": 1979,
+  "n": 1973,
   "name": "Deere & Company Administrative Center",
   "by": "Eero Saarinen and Associates",
   "place": "Moline, US",
@@ -187588,7 +187084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weyerhaeuser-headquarters",
-  "n": 1980,
+  "n": 1974,
   "name": "Weyerhaeuser Corporate Headquarters",
   "by": "Skidmore, Owings & Merrill (Edward Charles Bassett), with Sasaki, Walker and Associates",
   "place": "Federal Way, US",
@@ -187688,7 +187184,7 @@ window.BUILDINGS = [
  },
  {
   "id": "exchange-house-broadgate",
-  "n": 1981,
+  "n": 1975,
   "name": "Exchange House, Broadgate",
   "by": "Skidmore, Owings & Merrill",
   "place": "London, GB",
@@ -187788,7 +187284,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sainsbury-wing-national-gallery",
-  "n": 1982,
+  "n": 1976,
   "name": "Sainsbury Wing, National Gallery",
   "by": "Venturi, Scott Brown and Associates",
   "place": "London, GB",
@@ -187888,7 +187384,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burton-barr-central-library",
-  "n": 1983,
+  "n": 1977,
   "name": "Burton Barr Central Library",
   "by": "Will Bruder",
   "place": "Phoenix, US",
@@ -187964,7 +187460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monterey-bay-aquarium",
-  "n": 1984,
+  "n": 1978,
   "name": "Monterey Bay Aquarium",
   "by": "EHDD (Esherick Homsey Dodge & Davis)",
   "place": "Monterey, US",
@@ -188063,108 +187559,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "philip-merrill-environmental-center",
-  "n": 1985,
-  "name": "Philip Merrill Environmental Center",
-  "by": "SmithGroup",
-  "place": "Annapolis, US",
-  "year": "2001",
-  "y": 2001,
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "1990–2005",
-  "concepts": [
-   "Climate response",
-   "Timber",
-   "Reclaimed material"
-  ],
-  "study": "The first LEED Platinum building: a timber-framed office on the bay, using passive solar design and recycled materials.",
-  "qid": null,
-  "commons": "Category:Chesapeake Bay Foundation",
-  "lead": "File:The Philip Merrill Environmental Center.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/20180221-OSEC-LSC-0012_%2826543407658%29.jpg/1280px-20180221-OSEC-LSC-0012_%2826543407658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Chesapeake Bay Foundation Clagett Farm welcomes U.S",
-    "credit": "U.S. Department of Agriculture",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:20180221-OSEC-LSC-0012_(26543407658).jpg",
-    "file": "File:20180221-OSEC-LSC-0012 (26543407658).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Daylillies_at_the_Farm_-_Flickr_-_krossbow.jpg/1280px-Daylillies_at_the_Farm_-_Flickr_-_krossbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Daylillies at the Farm",
-    "credit": "F Delventhal  from Outside Washington, D.C., US",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Daylillies_at_the_Farm_-_Flickr_-_krossbow.jpg",
-    "file": "File:Daylillies at the Farm - Flickr - krossbow.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%28360_VR%29_SOGGY_HIGH_USE_AREA_SOLUTIONS_%2826555293318%29.jpg/1280px-%28360_VR%29_SOGGY_HIGH_USE_AREA_SOLUTIONS_%2826555293318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 640,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "USDAgov",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:(360_VR)_SOGGY_HIGH_USE_AREA_SOLUTIONS_(26555293318).jpg",
-    "file": "File:(360 VR) SOGGY HIGH USE AREA SOLUTIONS (26555293318).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Barn_on_Clagett_Farm.jpg/1280px-Barn_on_Clagett_Farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · This image was uploaded as part of Wiki Loves e-textbooks contest in Poland",
-    "credit": "F Delventhal",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barn_on_Clagett_Farm.jpg",
-    "file": "File:Barn on Clagett Farm.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Clagett_Farm%2C_The_Cottage_%2821636885451%29.jpg/1280px-Clagett_Farm%2C_The_Cottage_%2821636885451%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · A detail of the chimney of the Cottage at Clagett Farm",
-    "credit": "Preservation Maryland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Clagett_Farm,_The_Cottage_(21636885451).jpg",
-    "file": "File:Clagett Farm, The Cottage (21636885451).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/20180221-OSEC-LSC-0187_%2826543371798%29.jpg/1280px-20180221-OSEC-LSC-0187_%2826543371798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/philip-merrill-environmental-center/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "U.S. Department of Agriculture",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:20180221-OSEC-LSC-0187_(26543371798).jpg",
-    "file": "File:20180221-OSEC-LSC-0187 (26543371798).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "design-research-building",
-  "n": 1986,
+  "n": 1979,
   "name": "Design Research Building",
   "by": "Benjamin Thompson & Associates",
   "place": "Cambridge, US",
@@ -188264,7 +187660,7 @@ window.BUILDINGS = [
  },
  {
   "id": "faneuil-hall-marketplace",
-  "n": 1987,
+  "n": 1980,
   "name": "Faneuil Hall Marketplace (Quincy Market)",
   "by": "Benjamin Thompson & Associates (renovation); Alexander Parris (1826 market)",
   "place": "Boston, US",
@@ -188364,7 +187760,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-box-culver-city",
-  "n": 1988,
+  "n": 1981,
   "name": "The Box (Conjunctive Points)",
   "by": "Eric Owen Moss Architects",
   "place": "Culver City, US",
@@ -188428,7 +187824,7 @@ window.BUILDINGS = [
  },
  {
   "id": "washington-metro",
-  "n": 1989,
+  "n": 1982,
   "name": "Washington Metro stations",
   "by": "Harry Weese",
   "place": "Washington, US",
@@ -188528,7 +187924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haystack-mountain-school-of-crafts",
-  "n": 1990,
+  "n": 1983,
   "name": "Haystack Mountain School of Crafts",
   "by": "Edward Larrabee Barnes",
   "place": "Deer Isle, US",
@@ -188565,7 +187961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "history-faculty-cambridge",
-  "n": 1991,
+  "n": 1984,
   "name": "History Faculty Building, Cambridge",
   "by": "James Stirling",
   "place": "Cambridge, GB",
@@ -188665,7 +188061,7 @@ window.BUILDINGS = [
  },
  {
   "id": "florey-building-oxford",
-  "n": 1992,
+  "n": 1985,
   "name": "Florey Building",
   "by": "James Stirling",
   "place": "Oxford, GB",
@@ -188753,7 +188149,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wzb-berlin-social-science-center",
-  "n": 1993,
+  "n": 1986,
   "name": "WZB Berlin Social Science Center",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "Berlin, DE",
@@ -188853,7 +188249,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bouca-housing",
-  "n": 1994,
+  "n": 1987,
   "name": "Bouça Social Housing",
   "by": "Álvaro Siza",
   "place": "Porto, PT",
@@ -188953,7 +188349,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malagueira-housing",
-  "n": 1995,
+  "n": 1988,
   "name": "Quinta da Malagueira",
   "by": "Álvaro Siza",
   "place": "Évora, PT",
@@ -188993,7 +188389,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-church-marco-de-canaveses",
-  "n": 1996,
+  "n": 1989,
   "name": "Santa Maria Church, Marco de Canaveses",
   "by": "Álvaro Siza",
   "place": "Marco de Canaveses, PT",
@@ -189093,7 +188489,7 @@ window.BUILDINGS = [
  },
  {
   "id": "simmons-hall-mit",
-  "n": 1997,
+  "n": 1990,
   "name": "Simmons Hall, MIT",
   "by": "Steven Holl Architects",
   "place": "Cambridge, US",
@@ -189169,7 +188565,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-das-mudas",
-  "n": 1998,
+  "n": 1991,
   "name": "Casa das Mudas Art Centre",
   "by": "Paulo David",
   "place": "Calheta, PT",
@@ -189269,7 +188665,7 @@ window.BUILDINGS = [
  },
  {
   "id": "michael-lee-chin-crystal",
-  "n": 1999,
+  "n": 1992,
   "name": "Michael Lee-Chin Crystal, Royal Ontario Museum",
   "by": "Studio Daniel Libeskind",
   "place": "Toronto, CA",
@@ -189369,7 +188765,7 @@ window.BUILDINGS = [
  },
  {
   "id": "denver-art-museum-hamilton-building",
-  "n": 2000,
+  "n": 1993,
   "name": "Frederic C. Hamilton Building, Denver Art Museum",
   "by": "Studio Daniel Libeskind with Davis Partnership",
   "place": "Denver, US",
@@ -189469,7 +188865,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pulitzer-arts-foundation",
-  "n": 2001,
+  "n": 1994,
   "name": "Pulitzer Arts Foundation",
   "by": "Tadao Ando",
   "place": "St. Louis, US",
@@ -189557,7 +188953,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-moritzburg-extension",
-  "n": 2002,
+  "n": 1995,
   "name": "Kunstmuseum Moritzburg extension",
   "by": "Nieto Sobejano Arquitectos",
   "place": "Halle, DE",
@@ -189671,7 +189067,7 @@ window.BUILDINGS = [
  },
  {
   "id": "barnes-foundation-philadelphia",
-  "n": 2003,
+  "n": 1996,
   "name": "Barnes Foundation",
   "by": "Tod Williams Billie Tsien Architects",
   "place": "Philadelphia, US",
@@ -189785,7 +189181,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waterloo-international",
-  "n": 2004,
+  "n": 1997,
   "name": "Waterloo International",
   "by": "Nicholas Grimshaw & Partners",
   "place": "London, GB",
@@ -189885,7 +189281,7 @@ window.BUILDINGS = [
  },
  {
   "id": "netherlands-embassy-berlin",
-  "n": 2005,
+  "n": 1998,
   "name": "Netherlands Embassy, Berlin",
   "by": "OMA, Rem Koolhaas",
   "place": "Berlin, DE",
@@ -189985,7 +189381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musac",
-  "n": 2006,
+  "n": 1999,
   "name": "MUSAC, Museum of Contemporary Art of Castilla y León",
   "by": "Mansilla + Tuñón",
   "place": "León, ES",
@@ -190099,7 +189495,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deflat-kleiburg",
-  "n": 2007,
+  "n": 2000,
   "name": "DeFlat Kleiburg",
   "by": "NL Architects, XVW architectuur",
   "place": "Amsterdam, NL",
@@ -190199,7 +189595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "banco-borges-e-irmao",
-  "n": 2008,
+  "n": 2001,
   "name": "Banco Borges & Irmão",
   "by": "Álvaro Siza",
   "place": "Vila do Conde, PT",
@@ -190251,7 +189647,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palau-municipal-d-esports-de-badalona",
-  "n": 2009,
+  "n": 2002,
   "name": "Palau Municipal d'Esports de Badalona",
   "by": "Esteve Bonell, Francesc Rius",
   "place": "Badalona, ES",
@@ -190327,7 +189723,7 @@ window.BUILDINGS = [
  },
  {
   "id": "study-pavilion-tu-braunschweig",
-  "n": 2010,
+  "n": 2003,
   "name": "Study Pavilion, TU Braunschweig",
   "by": "Gustav Düsing, Max Hacke",
   "place": "Braunschweig, DE",
@@ -190391,7 +189787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palais-des-expositions-charleroi",
-  "n": 2011,
+  "n": 2004,
   "name": "Palais des Expositions (Grand Palais), Charleroi",
   "by": "AgwA, architecten jan de vylder inge vinck",
   "place": "Charleroi, BE",
@@ -190491,7 +189887,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadthaus-scharnhauser-park",
-  "n": 2012,
+  "n": 2005,
   "name": "Stadthaus Scharnhauser Park",
   "by": "J. Mayer H.",
   "place": "Ostfildern, DE",
@@ -190543,7 +189939,7 @@ window.BUILDINGS = [
  },
  {
   "id": "basketbar",
-  "n": 2013,
+  "n": 2006,
   "name": "BasketBar",
   "by": "NL Architects",
   "place": "Utrecht, NL",
@@ -190583,7 +189979,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-borda",
-  "n": 2014,
+  "n": 2007,
   "name": "La Borda",
   "by": "Lacol",
   "place": "Barcelona, ES",
@@ -190685,7 +190081,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-gabriel-garcia-marquez",
-  "n": 2015,
+  "n": 2008,
   "name": "Biblioteca Gabriel García Márquez",
   "by": "SUMA Arquitectura",
   "place": "Barcelona, ES",
@@ -190785,7 +190181,7 @@ window.BUILDINGS = [
  },
  {
   "id": "navez-social-housing",
-  "n": 2016,
+  "n": 2009,
   "name": "NAVEZ, 5 social housing units",
   "by": "MSA, V+",
   "place": "Brussels, BE",
@@ -190837,7 +190233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "selfridges-birmingham",
-  "n": 2017,
+  "n": 2010,
   "name": "Selfridges Building, Birmingham",
   "by": "Future Systems (Jan Kaplický, Amanda Levete)",
   "place": "Birmingham, GB",
@@ -190937,7 +190333,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zenith-strasbourg",
-  "n": 2018,
+  "n": 2011,
   "name": "Zénith de Strasbourg",
   "by": "Massimiliano and Doriana Fuksas",
   "place": "Eckbolsheim, FR",
@@ -191037,7 +190433,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rivesaltes-memorial",
-  "n": 2019,
+  "n": 2012,
   "name": "Rivesaltes Camp Memorial",
   "by": "Rudy Ricciotti",
   "place": "Rivesaltes, FR",
@@ -191113,7 +190509,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kannikegarden-ribe",
-  "n": 2020,
+  "n": 2013,
   "name": "Kannikegården",
   "by": "Lundgaard & Tranberg",
   "place": "Ribe, DK",
@@ -191213,7 +190609,7 @@ window.BUILDINGS = [
  },
  {
   "id": "katyn-museum-warsaw",
-  "n": 2021,
+  "n": 2014,
   "name": "Katyń Museum",
   "by": "BBGK Architekci",
   "place": "Warsaw, PL",
@@ -191313,7 +190709,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saw-swee-hock-student-centre",
-  "n": 2022,
+  "n": 2015,
   "name": "Saw Swee Hock Student Centre, LSE",
   "by": "O'Donnell + Tuomey",
   "place": "London, GB",
@@ -191389,7 +190785,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-ravensburg",
-  "n": 2023,
+  "n": 2016,
   "name": "Kunstmuseum Ravensburg",
   "by": "Lederer Ragnarsdóttir Oei",
   "place": "Ravensburg, DE",
@@ -191489,7 +190885,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ciniba-katowice",
-  "n": 2024,
+  "n": 2017,
   "name": "Scientific Information Centre and Academic Library (CINiBA)",
   "by": "HS99",
   "place": "Katowice, PL",
@@ -191589,7 +190985,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadshal-ghent",
-  "n": 2025,
+  "n": 2018,
   "name": "Stadshal (Market Hall), Ghent",
   "by": "Robbrecht en Daem, Marie-José Van Hee",
   "place": "Ghent, BE",
@@ -191689,7 +191085,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sines-arts-centre",
-  "n": 2026,
+  "n": 2019,
   "name": "Centro de Artes de Sines",
   "by": "Aires Mateus",
   "place": "Sines, PT",
@@ -191765,7 +191161,7 @@ window.BUILDINGS = [
  },
  {
   "id": "netherlands-institute-for-sound-and-vision",
-  "n": 2027,
+  "n": 2020,
   "name": "Netherlands Institute for Sound and Vision",
   "by": "Neutelings Riedijk Architecten",
   "place": "Hilversum, NL",
@@ -191879,7 +191275,7 @@ window.BUILDINGS = [
  },
  {
   "id": "groot-klimmendaal",
-  "n": 2028,
+  "n": 2021,
   "name": "Groot Klimmendaal Rehabilitation Centre",
   "by": "Koen van Velsen",
   "place": "Arnhem, NL",
@@ -191931,7 +191327,7 @@ window.BUILDINGS = [
  },
  {
   "id": "z33-hasselt",
-  "n": 2029,
+  "n": 2022,
   "name": "Z33 House for Contemporary Art, Design and Architecture",
   "by": "Francesca Torzo",
   "place": "Hasselt, BE",
@@ -192031,7 +191427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plato-ostrava",
-  "n": 2030,
+  "n": 2023,
   "name": "PLATO Contemporary Art Gallery",
   "by": "KWK Promes (Robert Konieczny)",
   "place": "Ostrava, CZ",
@@ -192119,7 +191515,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mortensrud-church",
-  "n": 2031,
+  "n": 2024,
   "name": "Mortensrud Church",
   "by": "Jensen & Skodvin",
   "place": "Oslo, NO",
@@ -192219,7 +191615,7 @@ window.BUILDINGS = [
  },
  {
   "id": "terrassenhaus-berlin",
-  "n": 2032,
+  "n": 2025,
   "name": "Terrassenhaus Berlin / Lobe Block",
   "by": "Brandlhuber+ Emde, Burlon and Muck Petzet Architekten",
   "place": "Berlin, DE",
@@ -192259,7 +191655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hedge-house-wijlre",
-  "n": 2033,
+  "n": 2026,
   "name": "Hedge House",
   "by": "Wiel Arets",
   "place": "Wijlre, NL",
@@ -192323,7 +191719,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antinori-nel-chianti-classico",
-  "n": 2034,
+  "n": 2027,
   "name": "Antinori nel Chianti Classico Winery",
   "by": "Archea Associati (Marco Casamonti)",
   "place": "Bargino, IT",
@@ -192360,7 +191756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peckham-library",
-  "n": 2035,
+  "n": 2028,
   "name": "Peckham Library",
   "by": "Alsop & Störmer",
   "place": "London, GB",
@@ -192460,7 +191856,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lords-media-centre",
-  "n": 2036,
+  "n": 2029,
   "name": "Lord's Media Centre",
   "by": "Future Systems (Jan Kaplický, Amanda Levete)",
   "place": "London, GB",
@@ -192560,7 +191956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stuttgart-music-school",
-  "n": 2037,
+  "n": 2030,
   "name": "Stuttgart Music School (Musikhochschule)",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "Stuttgart, DE",
@@ -192648,7 +192044,7 @@ window.BUILDINGS = [
  },
  {
   "id": "american-air-museum-duxford",
-  "n": 2038,
+  "n": 2031,
   "name": "American Air Museum, Duxford",
   "by": "Foster + Partners",
   "place": "Duxford, GB",
@@ -192736,7 +192132,7 @@ window.BUILDINGS = [
  },
  {
   "id": "laban-dance-centre",
-  "n": 2039,
+  "n": 2032,
   "name": "Laban Dance Centre",
   "by": "Herzog & de Meuron",
   "place": "London, GB",
@@ -192836,7 +192232,7 @@ window.BUILDINGS = [
  },
  {
   "id": "barajas-airport-terminal-4",
-  "n": 2040,
+  "n": 2033,
   "name": "Madrid-Barajas Airport Terminal 4",
   "by": "Richard Rogers Partnership, Estudio Lamela",
   "place": "Madrid, ES",
@@ -192936,7 +192332,7 @@ window.BUILDINGS = [
  },
  {
   "id": "accordia-cambridge",
-  "n": 2041,
+  "n": 2034,
   "name": "Accordia",
   "by": "Feilden Clegg Bradley Studios, Alison Brooks Architects, Maccreanor Lavington",
   "place": "Cambridge, GB",
@@ -193023,60 +192419,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "evelyn-grace-academy",
-  "n": 2042,
-  "name": "Evelyn Grace Academy",
-  "by": "Zaha Hadid Architects",
-  "place": "London, GB",
-  "year": "2010",
-  "y": 2010,
-  "type": "Education",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Sculptural form",
-   "Circulation",
-   "Steel & glass"
-  ],
-  "study": "Zig-zag glass and steel wings house four small schools; a running track threads under the building to the gate.",
-  "qid": null,
-  "commons": "Category:Ark Evelyn Grace Academy",
-  "lead": "File:Evelyn Grace Academy, Loughborough Park (1) - geograph.org.uk - 4404993.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Evelyn_Grace_Academy%2C_Loughborough_Park_%281%29_-_geograph.org.uk_-_4404993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/evelyn-grace-academy/thumbs/0.webp",
-    "w": 1024,
-    "h": 768,
-    "kind": "Exterior",
-    "caption": "Exterior · Evelyn Grace Academy, Loughborough Park (1)",
-    "credit": "Stephen Craven",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Evelyn_Grace_Academy,_Loughborough_Park_(1)_-_geograph.org.uk_-_4404993.jpg",
-    "file": "File:Evelyn Grace Academy, Loughborough Park (1) - geograph.org.uk - 4404993.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Evelyn_Grace_Academy%2C_Loughborough_Park_%282%29_-_geograph.org.uk_-_4404995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/evelyn-grace-academy/thumbs/1.webp",
-    "w": 1024,
-    "h": 768,
-    "kind": "Exterior",
-    "caption": "Exterior · Evelyn Grace Academy, Loughborough Park (2)",
-    "credit": "Stephen Craven",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Evelyn_Grace_Academy,_Loughborough_Park_(2)_-_geograph.org.uk_-_4404995.jpg",
-    "file": "File:Evelyn Grace Academy, Loughborough Park (2) - geograph.org.uk - 4404995.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "magna-science-adventure-centre",
-  "n": 2043,
+  "n": 2035,
   "name": "Magna Science Adventure Centre",
   "by": "Wilkinson Eyre",
   "place": "Rotherham, GB",
@@ -193152,7 +192496,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sainsbury-laboratory-cambridge",
-  "n": 2044,
+  "n": 2036,
   "name": "Sainsbury Laboratory",
   "by": "Stanton Williams",
   "place": "Cambridge, GB",
@@ -193228,7 +192572,7 @@ window.BUILDINGS = [
  },
  {
   "id": "astley-castle",
-  "n": 2045,
+  "n": 2037,
   "name": "Astley Castle",
   "by": "Witherford Watson Mann",
   "place": "Astley, Warwickshire, GB",
@@ -193328,7 +192672,7 @@ window.BUILDINGS = [
  },
  {
   "id": "newport-street-gallery",
-  "n": 2046,
+  "n": 2038,
   "name": "Newport Street Gallery",
   "by": "Caruso St John",
   "place": "London, GB",
@@ -193404,7 +192748,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bloomberg-london",
-  "n": 2047,
+  "n": 2039,
   "name": "Bloomberg London",
   "by": "Foster + Partners",
   "place": "London, GB",
@@ -193518,7 +192862,7 @@ window.BUILDINGS = [
  },
  {
   "id": "everyman-theatre-liverpool",
-  "n": 2048,
+  "n": 2040,
   "name": "Everyman Theatre",
   "by": "Haworth Tompkins",
   "place": "Liverpool, GB",
@@ -193615,5 +192959,727 @@ window.BUILDINGS = [
   ],
   "has": [],
   "gv": 3
+ },
+ {
+  "id": "velodrom-berlin",
+  "n": 2041,
+  "name": "Velodrom and Swimming Hall, Berlin",
+  "by": "Dominique Perrault",
+  "place": "Berlin, DE",
+  "year": "1997",
+  "y": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "study": "A round velodrome and a long pool hall sunk into an orchard, only their flat metal-mesh roofs showing.",
+  "qid": null,
+  "commons": "Category:Velodrom (Berlin)",
+  "lead": "File:Velodrom Außenansicht - Luftaufnahme.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "neurosciences-institute-la-jolla",
+  "n": 2042,
+  "name": "The Neurosciences Institute",
+  "by": "Tod Williams Billie Tsien Architects",
+  "place": "La Jolla, US",
+  "year": "1995",
+  "y": 1995,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Courtyard",
+   "Exposed concrete",
+   "Promenade"
+  ],
+  "study": "Research buildings arranged as a small 'monastery' around a sunken plaza, with ramps, stairs and outdoor rooms.",
+  "qid": null,
+  "commons": "Category:Neurosciences Institute",
+  "lead": "File:Neurosciences Institute01.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "moesgaard-museum",
+  "n": 2043,
+  "name": "Moesgaard Museum",
+  "by": "Henning Larsen Architects",
+  "place": "Aarhus, DK",
+  "year": "2014",
+  "y": 2014,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Section"
+  ],
+  "study": "A wedge-shaped museum whose sloping grass roof rises out of the land and doubles as a public hill.",
+  "qid": null,
+  "commons": "Category:Moesgård Museum",
+  "lead": "File:MoMu 01.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "pousada-santa-maria-do-bouro",
+  "n": 2044,
+  "name": "Pousada Santa Maria do Bouro",
+  "by": "Eduardo Souto de Moura",
+  "place": "Amares, PT",
+  "year": "1997",
+  "y": 1997,
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Detail"
+  ],
+  "study": "A ruined monastery made into a hotel: the stone walls are kept, with flat new roofs and frameless glass set inside.",
+  "qid": null,
+  "commons": "Category:Convento de Santa Maria do Bouro",
+  "lead": "File:O mosteiro.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "san-telmo-museum-extension",
+  "n": 2045,
+  "name": "San Telmo Museum extension",
+  "by": "Nieto Sobejano Arquitectos",
+  "place": "San Sebastián, ES",
+  "year": "2011",
+  "y": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Facade as skin",
+   "Planting",
+   "Landscape"
+  ],
+  "study": "A new wing slid between a 16th-century convent and Mount Urgull, wrapped in perforated metal that plants grow over.",
+  "qid": null,
+  "commons": "Category:Museum and Monastery of San Telmo (STM)",
+  "lead": "File:Museo San Telmo.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "san-antonio-central-library",
+  "n": 2046,
+  "name": "San Antonio Central Library",
+  "by": "Ricardo Legorreta with Sprinkle Robey Architects and Johnson-Dempsey & Associates",
+  "place": "San Antonio, US",
+  "year": "1995",
+  "y": 1995,
+  "type": "Library",
+  "movement": "Regionalism",
+  "region": "Americas",
+  "era": "1990–2005",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "study": "Six storeys in 'Enchilada Red' with cut-away volumes and a bright yellow atrium at the centre.",
+  "qid": null,
+  "commons": "Category:San Antonio Public Library",
+  "lead": "File:Central Library II (48874533928).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "goldsmith-street",
+  "n": 2047,
+  "name": "Goldsmith Street",
+  "by": "Mikhail Riches with Cathy Hawley",
+  "place": "Norwich, GB",
+  "year": "2019",
+  "y": 2019,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Brick",
+   "Climate response",
+   "Community"
+  ],
+  "study": "Passivhaus council homes in tight brick terraces, with a shared planted alley between the back gardens.",
+  "qid": null,
+  "commons": "Category:Goldsmith Street, Norwich",
+  "lead": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357512.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "new-library-magdalene-college",
+  "n": 2048,
+  "name": "New Library, Magdalene College",
+  "by": "Niall McLaughlin Architects",
+  "place": "Cambridge, GB",
+  "year": "2021",
+  "y": 2021,
+  "type": "Library",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Light from above"
+  ],
+  "study": "Brick walls and tall chimneys frame timber reading bays lit from pitched glazed roof lanterns.",
+  "qid": null,
+  "commons": "Category:New Library, Magdalene College, Cambridge",
+  "lead": "File:New Library, Magdalene College 2024-03-14 (1).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "gateshead-millennium-bridge",
+  "n": 2049,
+  "name": "Gateshead Millennium Bridge",
+  "by": "WilkinsonEyre, Gifford",
+  "place": "Gateshead, GB",
+  "year": "2001",
+  "y": 2001,
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Public space"
+  ],
+  "study": "The first tilting bridge: arch and curved deck rotate together like an opening eyelid to let ships pass.",
+  "qid": null,
+  "commons": "Category:Gateshead Millennium Bridge",
+  "lead": "File:Gateshead Millennium Bridge (51218283831).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "stormen-bodo",
+  "n": 2050,
+  "name": "Stormen Concert Hall and Library",
+  "by": "DRDH Architects",
+  "place": "Bodø, NO",
+  "year": "2014",
+  "y": 2014,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "study": "Two pale buildings, concert hall and library, frame a new square on the harbour; the library has a tall finned front.",
+  "qid": null,
+  "commons": "Category:Stormen, Kulturkvartalet i Bodø",
+  "lead": "File:Stormen Konserthuset, Bodø, South view 20150608 1.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "arquipelago-contemporary-arts-centre",
+  "n": 2051,
+  "name": "Arquipélago Contemporary Arts Centre",
+  "by": "Menos é Mais Arquitectos, João Mendes Ribeiro",
+  "place": "Ribeira Grande, PT",
+  "year": "2015",
+  "y": 2015,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Stone"
+  ],
+  "study": "An 1890s sweet-potato distillery in dark basalt restored and joined by new pale concrete buildings for art.",
+  "qid": null,
+  "commons": null,
+  "lead": "File:Arquipélago - Centro de Artes Contemporâneas, Azoren 2016 01.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "n": 2052,
+  "name": "Toho Gakuen School of Music",
+  "by": "Nikken Sekkei",
+  "place": "Chofu, JP",
+  "year": "2014",
+  "y": 2014,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "East Asia",
+  "era": "2005–today",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Section"
+  ],
+  "study": "Soundproof lesson rooms as stacked concrete boxes around a courtyard; gaps between the boxes bring daylight in.",
+  "qid": null,
+  "commons": "Category:Toho Gakuen School of Music",
+  "lead": "File:Toho Gakuen School of Music Chofu Campus.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "lille-langebro",
+  "n": 2053,
+  "name": "Lille Langebro",
+  "by": "WilkinsonEyre, Urban Agency",
+  "place": "Copenhagen, DK",
+  "year": "2019",
+  "y": 2019,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Public space"
+  ],
+  "study": "Cycle and foot bridge of two curved steel spans on slim piers that swing open sideways to let boats through.",
+  "qid": null,
+  "commons": "Category:Lille Langebro",
+  "lead": "File:Lille Langebro (Copenhagen).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "hastings-pier",
+  "n": 2054,
+  "name": "Hastings Pier",
+  "by": "dRMM",
+  "place": "Hastings, GB",
+  "year": "2016",
+  "y": 2016,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Public space",
+   "Timber",
+   "Reclaimed material"
+  ],
+  "study": "Fire-wrecked Victorian pier rebuilt as a wide open deck with a visitor centre, using timber saved from the old pier.",
+  "qid": null,
+  "commons": "Category:Hastings Pier",
+  "lead": "File:Hasting Pier Aug 2026.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "ring-of-remembrance",
+  "n": 2055,
+  "name": "Ring of Remembrance (L'Anneau de la Mémoire)",
+  "by": "Philippe Prost",
+  "place": "Ablain-Saint-Nazaire, FR",
+  "year": "2014",
+  "y": 2014,
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Monumentality"
+  ],
+  "study": "Dark concrete ellipse, part cantilevered over the slope, lined with steel plates naming the WWI dead.",
+  "qid": null,
+  "commons": "Category:L'Anneau de la Mémoire",
+  "lead": "File:Anneau de la mémoire.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "central-european-university-budapest",
+  "n": 2056,
+  "name": "Central European University",
+  "by": "O'Donnell + Tuomey",
+  "place": "Budapest, HU",
+  "year": "2016",
+  "y": 2016,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Facade as skin"
+  ],
+  "study": "Pale Hungarian limestone front with a perforated stone screen; rooflit courtyards knit old and new buildings.",
+  "qid": null,
+  "commons": "Category:New Building of Central European University, Budapest",
+  "lead": "File:Közép Európai Egyetem.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "appleby-blue-almshouse",
+  "n": 2057,
+  "name": "Appleby Blue Almshouse",
+  "by": "Witherford Watson Mann",
+  "place": "London, GB",
+  "year": "2023",
+  "y": 2023,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "study": "Almshouse flats for older people in brick ranges round a planted courtyard, reached by shared timber-lined galleries.",
+  "qid": null,
+  "commons": null,
+  "lead": "File:Appleby Blue Almshouses, Bermondsey 2025-09-04.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "bedzed",
+  "n": 2058,
+  "name": "BedZED",
+  "by": "Bill Dunster Architects",
+  "place": "London, GB",
+  "year": "2002",
+  "y": 2002,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Climate response",
+   "Colour",
+   "Community"
+  ],
+  "study": "Low-energy village: south-facing glazed terraces, roof gardens and bright wind cowls that ventilate the homes.",
+  "qid": null,
+  "commons": "Category:BedZED",
+  "lead": "File:BedZED 01.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "new-art-gallery-walsall",
+  "n": 2059,
+  "name": "The New Art Gallery Walsall",
+  "by": "Caruso St John",
+  "place": "Walsall, GB",
+  "year": "2000",
+  "y": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Facade as skin",
+   "Light from above",
+   "Monumentality"
+  ],
+  "study": "A tower clad in pale grey terracotta tiles over the canal basin; timber-lined galleries with carefully varied daylight.",
+  "qid": null,
+  "commons": "Category:The New Art Gallery Walsall",
+  "lead": "File:Walsall Art Gallery on a murky day (5529938095).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "lewis-glucksman-gallery",
+  "n": 2060,
+  "name": "Lewis Glucksman Gallery",
+  "by": "O'Donnell + Tuomey",
+  "place": "Cork, IE",
+  "year": "2004",
+  "y": 2004,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Timber",
+   "Cantilever",
+   "Landscape"
+  ],
+  "study": "Timber-clad gallery volumes lifted on slim columns above a limestone plinth, among trees on the university grounds.",
+  "qid": null,
+  "commons": "Category:Glucksman gallery, Cork",
+  "lead": "File:Glucksman2.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "maggies-centre-london",
+  "n": 2061,
+  "name": "Maggie's Centre London",
+  "by": "Rogers Stirk Harbour + Partners",
+  "place": "London, GB",
+  "year": "2008",
+  "y": 2008,
+  "type": "Health",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Human comfort",
+   "Colour",
+   "Courtyard"
+  ],
+  "study": "A deep orange rendered wall wraps a two-storey pavilion; a wide roof floats above it on a strip of clear glass.",
+  "qid": null,
+  "commons": "Category:Maggie's Centre, London",
+  "lead": null,
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "images/maggies-centre-london/drawing.svg",
+    "thumb": "images/maggies-centre-london/drawing.svg",
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null,
+    "w": 400,
+    "h": 260
+   }
+  ]
+ },
+ {
+  "id": "weald-and-downland-gridshell",
+  "n": 2062,
+  "name": "Weald and Downland Gridshell",
+  "by": "Edward Cullinan Architects, Buro Happold",
+  "place": "Singleton, GB",
+  "year": "2002",
+  "y": 2002,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Digital fabrication"
+  ],
+  "study": "A three-domed lattice of thin green oak laths bent into a peanut-shell shape over an archive sunk into the chalk slope.",
+  "qid": null,
+  "commons": "Category:Weald and Downland Gridshell",
+  "lead": null,
+  "coords": null,
+  "hotlink": true,
+  "images": [
+   {
+    "src": "images/weald-and-downland-gridshell/drawing.svg",
+    "thumb": "images/weald-and-downland-gridshell/drawing.svg",
+    "kind": "Drawing",
+    "caption": "Drawing, not a photo",
+    "credit": "Drawing: Discover Architecture",
+    "license": "CC BY 4.0",
+    "source": null,
+    "w": 400,
+    "h": 260
+   }
+  ]
+ },
+ {
+  "id": "bishop-edward-king-chapel",
+  "n": 2063,
+  "name": "Bishop Edward King Chapel",
+  "by": "Niall McLaughlin Architects",
+  "place": "Cuddesdon, GB",
+  "year": "2013",
+  "y": 2013,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Light from above",
+   "Timber",
+   "Stone"
+  ],
+  "study": "Elliptical chapel walled in patterned stone; inside, a grove of timber columns under a high clerestory.",
+  "qid": null,
+  "commons": "Category:Bishop Edward King Chapel",
+  "lead": "File:Bishop Edward King Chapel (outside)-130928.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "the-hepworth-wakefield",
+  "n": 2064,
+  "name": "The Hepworth Wakefield",
+  "by": "David Chipperfield Architects",
+  "place": "Wakefield, GB",
+  "year": "2011",
+  "y": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Water"
+  ],
+  "study": "A cluster of trapezoid blocks in pigmented concrete at the river's edge; each gallery is lit through its sloping roof.",
+  "qid": null,
+  "commons": "Category:The Hepworth Wakefield",
+  "lead": "File:A view across the River Calder towards the Hepworth, Wakefield, West Yorkshire (31st May 2024) 001.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "blavatnik-school-of-government",
+  "n": 2065,
+  "name": "Blavatnik School of Government",
+  "by": "Herzog & de Meuron",
+  "place": "Oxford, GB",
+  "year": "2015",
+  "y": 2015,
+  "type": "Education",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Public space"
+  ],
+  "study": "Stacked glass discs, each shifted off the one below, round a tall central forum open to every floor.",
+  "qid": null,
+  "commons": "Category:Blavatnik School of Government",
+  "lead": "File:Blavatnik School of Government, Oxford.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "senedd-cardiff",
+  "n": 2066,
+  "name": "Senedd",
+  "by": "Richard Rogers Partnership",
+  "place": "Cardiff, GB",
+  "year": "2006",
+  "y": 2006,
+  "type": "Civic",
+  "movement": "High-tech",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Public space"
+  ],
+  "study": "A rippling cedar roof oversails a glass box on slate steps; a timber funnel lights and ventilates the debating chamber.",
+  "qid": null,
+  "commons": "Category:Senedd (building)",
+  "lead": "File:Senedd 3.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "cambridge-central-mosque",
+  "n": 2067,
+  "name": "Cambridge Central Mosque",
+  "by": "Marks Barfield Architects",
+  "place": "Cambridge, GB",
+  "year": "2019",
+  "y": 2019,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "region": "Europe",
+  "era": "2005–today",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Light from above"
+  ],
+  "study": "Glulam timber 'trees' branch into a lattice vault over the prayer hall, behind a garden court and brick walls.",
+  "qid": null,
+  "commons": "Category:Cambridge Central Mosque",
+  "lead": "File:Cambridge Central Mosque front.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "british-library",
+  "n": 2068,
+  "name": "British Library",
+  "by": "Colin St John Wilson, MJ Long",
+  "place": "London, GB",
+  "year": "1997",
+  "y": 1997,
+  "type": "Library",
+  "movement": "Late modernism",
+  "region": "Europe",
+  "era": "1990–2005",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Public space"
+  ],
+  "study": "Stepped red-brick masses round a raised piazza; inside, the King's Library rises as a tall glass tower.",
+  "qid": null,
+  "commons": "Category:British Library - Building",
+  "lead": "File:2010-08-03 British Library exterior 02.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "casa-do-baile",
+  "n": 2069,
+  "name": "Casa do Baile (Pampulha Dance Hall)",
+  "by": "Oscar Niemeyer",
+  "place": "Belo Horizonte, BR",
+  "year": "1943",
+  "y": 1943,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Water"
+  ],
+  "study": "Round dance hall on an island, with a free-form canopy that snakes along the lake shore.",
+  "qid": null,
+  "commons": "Category:Casa do Baile",
+  "lead": "File:Casa-do-Baile.jpg",
+  "coords": null,
+  "hotlink": true
  }
 ];

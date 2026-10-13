@@ -1,0 +1,50 @@
+[
+ {
+  "id": "casa-do-baile",
+  "name": "Casa do Baile (Pampulha Dance Hall)",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1943",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Round dance hall on an island, with a free-form canopy that snakes along the lake shore.",
+  "award": "Latin American modernism 1930–1980: Pampulha Modern Ensemble, Niemeyer (UNESCO 2016)",
+  "status": "photo",
+  "commons_category": "Category:Casa do Baile",
+  "photos": [
+   {
+    "file": "File:Casa-do-Baile.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casa do Baile - Pampulha BH.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casa do Baile - Belo Horizonte - 20121124094955.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casa do Baile.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pampulha_Modern_Ensemble"
+  ],
+  "note": "Part of the UNESCO Pampulha Modern Ensemble (2016) with the church and casino already on the wall. Fourth photo is mostly the entrance sign."
+ }
+]

@@ -59,3 +59,11 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Villa La Saracena | Luigi Moretti | Santa Marinella, IT |
 | Walsh Street House (Boyd House II) | Robin Boyd | Melbourne, AU |
 | World Peace Gate | Kim Chung-up | Seoul, KR |
+| Leutschenbach School | Christian Kerez | Zurich, CH |
+| CMA CGM Tower | Zaha Hadid Architects | Marseille, FR |
+| Lycabettus Theatre | Takis Zenetos | Athens, GR |
+| Asia Culture Center | Kyu Sung Woo | Gwangju, KR |
+| Baldwin Hills Village (Village Green) | Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein | Los Angeles, US |
+| General Motors Technical Center | Eero Saarinen and Associates with Smith, Hinchman & Grylls | Warren, US |
+| Philip Merrill Environmental Center | SmithGroup | Annapolis, US |
+| Evelyn Grace Academy | Zaha Hadid Architects | London, GB |
