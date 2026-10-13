@@ -20,7 +20,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'site' / 'images' / 'logos'
 REPORT = ROOT / 'tools' / 'logos_report.txt'
-UA = {'User-Agent': 'Mozilla/5.0 (DiscoverArchitecture/1.0; https://discoverarchitecture.github.io/; logos)'}
+UA = {'User-Agent': 'Mozilla/5.0 (DiscoverArchitecture/1.0; https://findgreatarchitecture.com/; logos)'}
 
 SITES = {
     'archdaily': 'https://www.archdaily.com/',

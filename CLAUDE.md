@@ -2,7 +2,8 @@
 
 A wall of buildings that architecture students wander instead of search, with free photos and links that take them deeper. The owner is new to coding. Explain things plainly, show designs before building them when asked, and keep the site's own text short.
 
-- Live site: https://discoverarchitecture.github.io/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Live site: https://findgreatarchitecture.com/ (GitHub Pages, deploys from `main` when `site/**` changes)
+- Domain: findgreatarchitecture.com, bought Oct 2026 at Spaceship (the owner's account, auto-renew on). DNS there points to GitHub Pages (4 A + 4 AAAA records on @, www CNAME to discoverarchitecture.github.io, and the org's GitHub verification TXT). The custom domain is set in the repository's Settings → Pages, not a CNAME file, because the site deploys with GitHub Actions. discoverarchitecture.github.io forwards to it. The site is still called Discover Architecture; the rename to Find Great Architecture comes later.
 - Repository: https://github.com/discoverarchitecture/discoverarchitecture.github.io (moved from akshatpagariya909-svg/Pagaria in Oct 2026; the old address forwards)
 - Design canvas (all artboards and decisions): https://claude.ai/artifact/SzZZi9iaMGvAX85z3zNEDK
 - Audience: architecture students. Favour modern, contemporary and parametric work, brutalism, regionalism and a few historic precedents.
