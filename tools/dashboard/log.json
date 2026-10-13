@@ -2,6 +2,12 @@
  {
   "date": "2026-10-13",
   "workstream": "Data collection",
+  "what": "Progress dashboard: the script that feeds it, and how each chat refreshes it",
+  "pr": "28"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
   "what": "A gold medal for Pritzker Prize winners on their portraits",
   "pr": "27"
  },
