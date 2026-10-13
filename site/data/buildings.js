@@ -217934,7 +217934,83 @@ window.BUILDINGS = [
   "commons": "Category:Nissay Theatre",
   "lead": "File:Nissay Theatre 2012.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Nissay_Theatre_2012.jpg/1280px-Nissay_Theatre_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/0.webp",
+    "w": 1280,
+    "h": 922,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissay_Theatre_2012.jpg",
+    "file": "File:Nissay Theatre 2012.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Nissay-Theatre-01.jpg/1280px-Nissay-Theatre-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rs1421",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissay-Theatre-01.jpg",
+    "file": "File:Nissay-Theatre-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Nippon_Life_Insurance_Company_%28Nihon_Seimei_Hibiya_Bldg.%29.jpg/1280px-Nippon_Life_Insurance_Company_%28Nihon_Seimei_Hibiya_Bldg.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Nihon Seimei Hibiya Bldg",
+    "credit": "Lombroso",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Life_Insurance_Company_(Nihon_Seimei_Hibiya_Bldg.).jpg",
+    "file": "File:Nippon Life Insurance Company (Nihon Seimei Hibiya Bldg.).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Building_in_Hibiya.jpg/1280px-Building_in_Hibiya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Building in Hibiya",
+    "credit": "Syced",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Building_in_Hibiya.jpg",
+    "file": "File:Building in Hibiya.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Nissay_Theatre_Lobby_2019.jpg/1280px-Nissay_Theatre_Lobby_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Nissay Theatre",
+    "credit": "Wpcpey",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissay_Theatre_Lobby_2019.jpg",
+    "file": "File:Nissay Theatre Lobby 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Nissay_Theatre_Office_Lobby_2019.jpg/1280px-Nissay_Theatre_Office_Lobby_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nissay-theatre/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Nissay Theatre Office Lobby",
+    "credit": "Wpcpey",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissay_Theatre_Office_Lobby_2019.jpg",
+    "file": "File:Nissay Theatre Office Lobby 2019.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "odate-jukai-dome",
@@ -217958,7 +218034,83 @@ window.BUILDINGS = [
   "commons": "Category:Odate Jukai Dome",
   "lead": "File:Nipro Hachiko Dome 2017 C.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Nipro_Hachiko_Dome_2017_C.jpg/1280px-Nipro_Hachiko_Dome_2017_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Marho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nipro_Hachiko_Dome_2017_C.jpg",
+    "file": "File:Nipro Hachiko Dome 2017 C.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Odate_Jukai_Dome_20181202.jpg/1280px-Odate_Jukai_Dome_20181202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Marho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Odate_Jukai_Dome_20181202.jpg",
+    "file": "File:Odate Jukai Dome 20181202.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Odate_Jukai_Dome1.JPG/1280px-Odate_Jukai_Dome1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/2.webp",
+    "w": 1280,
+    "h": 945,
+    "kind": "Exterior",
+    "caption": "Exterior · The Odate Jukai Dome stadium in Odate, Akita, Japan",
+    "credit": "Ebiebi2",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Odate_Jukai_Dome1.JPG",
+    "file": "File:Odate Jukai Dome1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Exterior_of_Odate_Jukai_Dome_20181020.jpg/1280px-Exterior_of_Odate_Jukai_Dome_20181020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Odate_Jukai_Dome_20181020.jpg",
+    "file": "File:Exterior of Odate Jukai Dome 20181020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Interior_of_Odate_Jukai_Dome_20181020a.jpg/1280px-Interior_of_Odate_Jukai_Dome_20181020a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Odate_Jukai_Dome_20181020a.jpg",
+    "file": "File:Interior of Odate Jukai Dome 20181020a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Interior_of_Odate_Jukai_Dome_20181020b.jpg/1280px-Interior_of_Odate_Jukai_Dome_20181020b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/odate-jukai-dome/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Odate_Jukai_Dome_20181020b.jpg",
+    "file": "File:Interior of Odate Jukai Dome 20181020b.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sayamaike-historical-museum",
@@ -217982,7 +218134,59 @@ window.BUILDINGS = [
   "commons": "Category:Osaka Prefectural Sayamaike Museum",
   "lead": "File:Osaka Prefectural Sayamaike Museum1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Osaka_Prefectural_Sayamaike_Museum1.jpg/1280px-Osaka_Prefectural_Sayamaike_Museum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sayamaike-historical-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 779,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Prefectural_Sayamaike_Museum1.jpg",
+    "file": "File:Osaka Prefectural Sayamaike Museum1.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Osaka_Prefectural_Sayamaike_Museum10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/sayamaike-historical-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kekero",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Prefectural_Sayamaike_Museum10.jpg",
+    "file": "File:Osaka Prefectural Sayamaike Museum10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Osaka_Prefectural_Sayamaike_Museum_%28Osakasayama%2C_Osaka%29_hdsr_S5_01.jpg/1280px-Osaka_Prefectural_Sayamaike_Museum_%28Osakasayama%2C_Osaka%29_hdsr_S5_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sayamaike-historical-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Prefectural_Sayamaike_Museum_(Osakasayama,_Osaka)_hdsr_S5_01.jpg",
+    "file": "File:Osaka Prefectural Sayamaike Museum (Osakasayama, Osaka) hdsr S5 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Osaka_Prefectural_Sayamaike_Museum_%28Osakasayama%2C_Osaka%29_hdsr_S5_02.jpg/1280px-Osaka_Prefectural_Sayamaike_Museum_%28Osakasayama%2C_Osaka%29_hdsr_S5_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sayamaike-historical-museum/thumbs/3.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Prefectural_Sayamaike_Museum_(Osakasayama,_Osaka)_hdsr_S5_02.jpg",
+    "file": "File:Osaka Prefectural Sayamaike Museum (Osakasayama, Osaka) hdsr S5 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kadokawa-culture-museum",
@@ -218006,7 +218210,83 @@ window.BUILDINGS = [
   "commons": "Category:Kadokawa Culture Museum",
   "lead": "File:Kadokawa Culture Museum-2020-07-09.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Kadokawa_Culture_Museum-2020-07-09.jpg/1280px-Kadokawa_Culture_Museum-2020-07-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kaijooo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum-2020-07-09.jpg",
+    "file": "File:Kadokawa Culture Museum-2020-07-09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Kadokawa_Culture_Museum_dusk_2024.JPG/1280px-Kadokawa_Culture_Museum_dusk_2024.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fotointheworld",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum_dusk_2024.JPG",
+    "file": "File:Kadokawa Culture Museum dusk 2024.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_%2850608208297%29.jpg/1280px-Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_%2850608208297%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photo credit: Scott Kouchi",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_(50608208297).jpg",
+    "file": "File:Kadokawa Culture Museum at Tokorozawa Sakura Town (50608208297).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kadokawa_Culture_Museum.2020-03-03.jpg/1280px-Kadokawa_Culture_Museum.2020-03-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 1058,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kaijooo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum.2020-03-03.jpg",
+    "file": "File:Kadokawa Culture Museum.2020-03-03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_%2850608089326%29.jpg/1280px-Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_%2850608089326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Photo credit: Scott Kouchi",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_(50608089326).jpg",
+    "file": "File:Kadokawa Culture Museum at Tokorozawa Sakura Town (50608089326).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Kadokawa_Culture_Museum_5F_Musashino_Corridor_2024.JPG/1280px-Kadokawa_Culture_Museum_5F_Musashino_Corridor_2024.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kadokawa-culture-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · 5F Musashino Corridor",
+    "credit": "Fotointheworld",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum_5F_Musashino_Corridor_2024.JPG",
+    "file": "File:Kadokawa Culture Museum 5F Musashino Corridor 2024.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kurashiki-ivy-square",
@@ -218030,7 +218310,83 @@ window.BUILDINGS = [
   "commons": "Category:Kurashiki Ivy Square",
   "lead": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan10s3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan03s3.jpg/1280px-211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan03s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Kurashiki Ivy Square in Kurashiki, Okayama prefecture, Japan",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan03s3.jpg",
+    "file": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan03s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan02s3.jpg/1280px-211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan02s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Kurashiki Ivy Square in Kurashiki, Okayama prefecture, Japan",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:211203_Kurashiki_Ivy_Square_Kurashiki_Okayama_pref_Japan02s3.jpg",
+    "file": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan02s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%E3%83%9E%E3%83%83%E3%82%B5%E3%83%B3_%E6%92%AE%E5%BD%B1%E5%A0%B4%E6%89%80_%2820209381104%29.jpg/1280px-%E3%83%9E%E3%83%83%E3%82%B5%E3%83%B3_%E6%92%AE%E5%BD%B1%E5%A0%B4%E6%89%80_%2820209381104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Yamaguchi",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%83%83%E3%82%B5%E3%83%B3_%E6%92%AE%E5%BD%B1%E5%A0%B4%E6%89%80_(20209381104).jpg",
+    "file": "File:マッサン 撮影場所 (20209381104).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kurashiki_Ivy_Square_02.jpg/1280px-Kurashiki_Ivy_Square_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "ノボホショコロトソ",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kurashiki_Ivy_Square_02.jpg",
+    "file": "File:Kurashiki Ivy Square 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Checkered_%2820645247209%29.jpg/1280px-Checkered_%2820645247209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ken Yamaguchi",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Checkered_(20645247209).jpg",
+    "file": "File:Checkered (20645247209).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Kurashiki_Ivy_Square16o4592.jpg/1280px-Kurashiki_Ivy_Square16o4592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurashiki-ivy-square/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Detail",
+    "caption": "Detail · Kurashiki Ivy Square in Kurashiki, Okayama prefecture, Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Kurashiki_Ivy_Square16o4592.jpg",
+    "file": "File:Kurashiki Ivy Square16o4592.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "national-museum-of-japanese-history",
@@ -218054,7 +218410,83 @@ window.BUILDINGS = [
   "commons": "Category:National Museum of Japanese History",
   "lead": "File:National Museum of Japanese History 06.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/National_Museum_of_Japanese_History_05.jpg/1280px-National_Museum_of_Japanese_History_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Higa4",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Japanese_History_05.jpg",
+    "file": "File:National Museum of Japanese History 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/National_Museum_of_Japanese_History_03.jpg/1280px-National_Museum_of_Japanese_History_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Higa4",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Japanese_History_03.jpg",
+    "file": "File:National Museum of Japanese History 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Hoshikuso_Pass_Obsidian.jpg/1280px-Hoshikuso_Pass_Obsidian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Pieces of obsidian, Jōmon period, excavated at the Hoshikuso Pass site in Nagano Prefecture",
+    "credit": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoshikuso_Pass_Obsidian.jpg",
+    "file": "File:Hoshikuso Pass Obsidian.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Illustration_of_Mount_Sumeru-Centered_Universe.jpg/1280px-Illustration_of_Mount_Sumeru-Centered_Universe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "A. D. Prakasa",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Illustration_of_Mount_Sumeru-Centered_Universe.jpg",
+    "file": "File:Illustration of Mount Sumeru-Centered Universe.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%E5%9B%BD%E7%AB%8B%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%AB%E3%81%A6_2015.1.02_-_panoramio.jpg/1280px-%E5%9B%BD%E7%AB%8B%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%AB%E3%81%A6_2015.1.02_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/4.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Nankou Oronain (as36…",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%9B%BD%E7%AB%8B%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E5%8D%9A%E7%89%A9%E9%A4%A8%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%AB%E3%81%A6_2015.1.02_-_panoramio.jpg",
+    "file": "File:国立歴史民俗博物館駐車場にて 2015.1.02 - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Kitchens_in_Nishijin%2C_Kyoto.jpg/1280px-Kitchens_in_Nishijin%2C_Kyoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-japanese-history/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Souka Kinmei",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kitchens_in_Nishijin,_Kyoto.jpg",
+    "file": "File:Kitchens in Nishijin, Kyoto.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shinjuku-park-tower",
@@ -218078,7 +218510,83 @@ window.BUILDINGS = [
   "commons": "Category:Shinjuku Park Tower",
   "lead": "File:Shinjuku Park Tower.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shinjuku_Park_Tower.jpg/1280px-Shinjuku_Park_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/0.webp",
+    "w": 1001,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Shinjuku Park Tower in 2023",
+    "credit": "Akonnchiroll",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Park_Tower.jpg",
+    "file": "File:Shinjuku Park Tower.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Shinjuku_Park_Tower%2C_2026.jpg/1280px-Shinjuku_Park_Tower%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Shinjuku Park Tower from NS Building, 2026",
+    "credit": "Akonnchiroll",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Park_Tower,_2026.jpg",
+    "file": "File:Shinjuku Park Tower, 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinjuku_Park_Tower_2018_from_MetGovBld.jpg/1280px-Shinjuku_Park_Tower_2018_from_MetGovBld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/2.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "FLOEP",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Park_Tower_2018_from_MetGovBld.jpg",
+    "file": "File:Shinjuku Park Tower 2018 from MetGovBld.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Day_view_to_Koshu-kaido_Avenue_in_Nishi_Shinjuku%2C_Shinjuku%2C_Tokyo%2C_2024_May.jpg/1280px-Day_view_to_Koshu-kaido_Avenue_in_Nishi_Shinjuku%2C_Shinjuku%2C_Tokyo%2C_2024_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/3.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Koshu-kaido Avenue near to Shinjuku Station in Nishi Shinjuku, Shinjuku, Tokyo in 2024 May",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Day_view_to_Koshu-kaido_Avenue_in_Nishi_Shinjuku,_Shinjuku,_Tokyo,_2024_May.jpg",
+    "file": "File:Day view to Koshu-kaido Avenue in Nishi Shinjuku, Shinjuku, Tokyo, 2024 May.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2024-10-20_Shinjuku_City%2C_Park_Hyatt_Tokyo.jpg/1280px-2024-10-20_Shinjuku_City%2C_Park_Hyatt_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Shinjuku City, Park Hyatt Tokyo",
+    "credit": "Alexkom000",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-10-20_Shinjuku_City,_Park_Hyatt_Tokyo.jpg",
+    "file": "File:2024-10-20 Shinjuku City, Park Hyatt Tokyo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Koshu-kaido_Avenue_beneath_the_ramps_of_Route_4_Shinjuku_Line%2C_Nishi_Shinjuku%2C_Tokyo%2C_Japan%2C_2024_May.jpg/1280px-Koshu-kaido_Avenue_beneath_the_ramps_of_Route_4_Shinjuku_Line%2C_Nishi_Shinjuku%2C_Tokyo%2C_Japan%2C_2024_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-park-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koshu-kaido_Avenue_beneath_the_ramps_of_Route_4_Shinjuku_Line,_Nishi_Shinjuku,_Tokyo,_Japan,_2024_May.jpg",
+    "file": "File:Koshu-kaido Avenue beneath the ramps of Route 4 Shinjuku Line, Nishi Shinjuku, Tokyo, Japan, 2024 May.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "embassy-of-kuwait-tokyo",
@@ -218102,7 +218610,59 @@ window.BUILDINGS = [
   "commons": "Category:Kuwait Embassy building in Tokyo",
   "lead": "File:Embassy of Kuwait in Japan.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Embassy_of_Kuwait_in_Japan.jpg/1280px-Embassy_of_Kuwait_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/embassy-of-kuwait-tokyo/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Embassy of Kuwait in Japan, designed by TANGE Kenzo",
+    "credit": "S23725",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Kuwait_in_Japan.jpg",
+    "file": "File:Embassy of Kuwait in Japan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Embassy_of_Kuwait%2C_Tokyo_0196.jpg/1280px-Embassy_of_Kuwait%2C_Tokyo_0196.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/embassy-of-kuwait-tokyo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Kuwait,_Tokyo_0196.jpg",
+    "file": "File:Embassy of Kuwait, Tokyo 0196.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Embassy_of_Kuwait%2C_Tokyo_0194.jpg/1280px-Embassy_of_Kuwait%2C_Tokyo_0194.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/embassy-of-kuwait-tokyo/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Kuwait,_Tokyo_0194.jpg",
+    "file": "File:Embassy of Kuwait, Tokyo 0194.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Embassy_of_Koweit%2C_Tokyo.jpg/1280px-Embassy_of_Koweit%2C_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/embassy-of-kuwait-tokyo/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Syced",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Koweit,_Tokyo.jpg",
+    "file": "File:Embassy of Koweit, Tokyo.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "komazawa-olympic-park-control-tower",
@@ -218126,7 +218686,71 @@ window.BUILDINGS = [
   "commons": "Category:Olympic Memorial Tower (Komazawa Olympic Park)",
   "lead": "File:Komazawa Gymnasium & Control Tower 2009.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Komazawa_Gymnasium_%26_Control_Tower_2009.jpg/1280px-Komazawa_Gymnasium_%26_Control_Tower_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/komazawa-olympic-park-control-tower/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Komazawa Gymnasium & Control Tower, at Setagaya-ku Tokyo Japan, design by Yoshinobu Ashihara in 1964",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Komazawa_Gymnasium_%26_Control_Tower_2009.jpg",
+    "file": "File:Komazawa Gymnasium & Control Tower 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Komazawa_olympic_park_2025_June_15_various_09.jpg/1280px-Komazawa_olympic_park_2025_June_15_various_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/komazawa-olympic-park-control-tower/thumbs/1.webp",
+    "w": 1030,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Komazawa Olympic Park",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Komazawa_olympic_park_2025_June_15_various_09.jpg",
+    "file": "File:Komazawa olympic park 2025 June 15 various 09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Komazawa_Olympic_Park_%2826466018789%29.jpg/1280px-Komazawa_Olympic_Park_%2826466018789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/komazawa-olympic-park-control-tower/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Komazawa_Olympic_Park_(26466018789).jpg",
+    "file": "File:Komazawa Olympic Park (26466018789).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Komazawa_Park.jpg/1280px-Komazawa_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/komazawa-olympic-park-control-tower/thumbs/3.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Komazawa Park",
+    "credit": "Syced",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Komazawa_Park.jpg",
+    "file": "File:Komazawa Park.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Komazawa_olympic_park_2025_June_15_various_10.jpg/1280px-Komazawa_olympic_park_2025_June_15_various_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/komazawa-olympic-park-control-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 248,
+    "kind": "Context",
+    "caption": "Context · Komazawa Olympic Park",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Komazawa_olympic_park_2025_June_15_various_10.jpg",
+    "file": "File:Komazawa olympic park 2025 June 15 various 10.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "miyagi-stadium",
@@ -218150,7 +218774,59 @@ window.BUILDINGS = [
   "commons": "Category:Miyagi Stadium",
   "lead": "File:MiyagiStadium2007-4-29.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MiyagiStadium2007-4-29.jpg/1280px-MiyagiStadium2007-4-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyagi-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kernel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MiyagiStadium2007-4-29.jpg",
+    "file": "File:MiyagiStadium2007-4-29.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/MiyagiStadiumTrackField.jpg/1280px-MiyagiStadiumTrackField.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyagi-stadium/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "jyuhyou_2739",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MiyagiStadiumTrackField.jpg",
+    "file": "File:MiyagiStadiumTrackField.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/MiyagiStadium2007-4-29_cropped.jpg/1280px-MiyagiStadium2007-4-29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyagi-stadium/thumbs/2.webp",
+    "w": 1280,
+    "h": 768,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MiyagiStadium2007-4-29.jpg : Kernel \n derivative work:  0607crp  (  talk  )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MiyagiStadium2007-4-29_cropped.jpg",
+    "file": "File:MiyagiStadium2007-4-29 cropped.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Grande21FutsalCourt.jpg/1280px-Grande21FutsalCourt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyagi-stadium/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "jyuhyou_2739",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grande21FutsalCourt.jpg",
+    "file": "File:Grande21FutsalCourt.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toyota-stadium",
@@ -218174,7 +218850,71 @@ window.BUILDINGS = [
   "commons": "Category:Toyota Stadium",
   "lead": "File:Toyota Stadium - panoramio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Toyota_Stadium_-_panoramio.jpg/1280px-Toyota_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nagono",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Stadium_-_panoramio.jpg",
+    "file": "File:Toyota Stadium - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%E8%B1%8A%E7%94%B0%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_-_panoramio.jpg/1280px-%E8%B1%8A%E7%94%B0%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-stadium/thumbs/1.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "shikabane taro",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%B1%8A%E7%94%B0%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0_-_panoramio.jpg",
+    "file": "File:豊田スタジアム - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2019_Rugby_World_Cup01.jpg/1280px-2019_Rugby_World_Cup01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-stadium/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 2019 Rugby World Cup01",
+    "credit": "Nryate",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Rugby_World_Cup01.jpg",
+    "file": "File:2019 Rugby World Cup01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ryo_Tamura_rallying_in_Toyota_2024_02.jpg/1280px-Ryo_Tamura_rallying_in_Toyota_2024_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-stadium/thumbs/3.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · #119 Ryo Tamura / Yuta Tomikawa",
+    "credit": "TTTNIS",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ryo_Tamura_rallying_in_Toyota_2024_02.jpg",
+    "file": "File:Ryo Tamura rallying in Toyota 2024 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Toyota_Skyline_from_Toyota_Bridge.jpg/1280px-Toyota_Skyline_from_Toyota_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-stadium/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Toyota Skyline from Toyota Bridge",
+    "credit": "Nryate",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Skyline_from_Toyota_Bridge.jpg",
+    "file": "File:Toyota Skyline from Toyota Bridge.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "noa-building",
@@ -218198,7 +218938,59 @@ window.BUILDINGS = [
   "commons": "Category:Noa Building",
   "lead": "File:NOA Building.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/NOA_Building.jpg/1280px-NOA_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/noa-building/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Noa Building in Minato Ward, Tokyo, Japan",
+    "credit": "Syced",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:NOA_Building.jpg",
+    "file": "File:NOA Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Noa_Building.JPG/1280px-Noa_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/noa-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Noa Building in Azabudai, Minato Ward, Tokyo, Japan",
+    "credit": "妖精書士",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noa_Building.JPG",
+    "file": "File:Noa Building.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Noa_Building%2C_Tokyo_%28373282719%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/noa-building/thumbs/2.webp",
+    "w": 809,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Tokyo",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noa_Building,_Tokyo_(373282719).jpg",
+    "file": "File:Noa Building, Tokyo (373282719).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Minata_Tokyo_August_2014_25.JPG/1280px-Minata_Tokyo_August_2014_25.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/noa-building/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Minata Tokyo August 2014",
+    "credit": "User:Piotrus",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minata_Tokyo_August_2014_25.JPG",
+    "file": "File:Minata Tokyo August 2014 25.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "united-nations-university",
@@ -218222,7 +219014,83 @@ window.BUILDINGS = [
   "commons": "Category:United Nations University Headquarters Building",
   "lead": "File:United Nations University 2018.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/United_Nations_University_2018.jpg/1280px-United_Nations_University_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/0.webp",
+    "w": 1178,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:United_Nations_University_2018.jpg",
+    "file": "File:United Nations University 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/United_Nations_University_Headquarters_Building_20241020.jpg/1280px-United_Nations_University_Headquarters_Building_20241020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "This Photo was taken by    Supanut Arunoprayote   .\n \n Feel free to use any of my images, but please",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:United_Nations_University_Headquarters_Building_20241020.jpg",
+    "file": "File:United Nations University Headquarters Building 20241020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/UN_University_%40_Aoyama_Dori_%40_Shibuya_%289535617479%29.jpg/1280px-UN_University_%40_Aoyama_Dori_%40_Shibuya_%289535617479%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · UN University @ Aoyama Dori @ Shibuya",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UN_University_@_Aoyama_Dori_@_Shibuya_(9535617479).jpg",
+    "file": "File:UN University @ Aoyama Dori @ Shibuya (9535617479).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/United-Nations-University-03.jpg/1280px-United-Nations-University-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rs1421",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:United-Nations-University-03.jpg",
+    "file": "File:United-Nations-University-03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E9%A4%90%E8%BB%8A_%2839577709481%29.jpg/1280px-%E9%A4%90%E8%BB%8A_%2839577709481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Richard, enjoy my life!  from 台北市, ROC Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%A4%90%E8%BB%8A_(39577709481).jpg",
+    "file": "File:餐車 (39577709481).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/DSC00208_%284143894914%29.jpg/1280px-DSC00208_%284143894914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/united-nations-university/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Omotesando",
+    "credit": "Marufish  from Alor Setar, Malaysia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC00208_(4143894914).jpg",
+    "file": "File:DSC00208 (4143894914).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "onagawa-station",
@@ -218246,7 +219114,71 @@ window.BUILDINGS = [
   "commons": "Category:Onagawa Station",
   "lead": "File:JR East Onagawa Station building, Miyagi Pref 20240420.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/JR_East_Onagawa_Station_building%2C_Miyagi_Pref_20240420.jpg/1280px-JR_East_Onagawa_Station_building%2C_Miyagi_Pref_20240420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onagawa-station/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · JR East Onagawa Station Station building",
+    "credit": "Mister0124",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_East_Onagawa_Station_building,_Miyagi_Pref_20240420.jpg",
+    "file": "File:JR East Onagawa Station building, Miyagi Pref 20240420.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/JR_East_Onagawa_Station_building%2C_Miyagi_Pref.jpg/1280px-JR_East_Onagawa_Station_building%2C_Miyagi_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onagawa-station/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · JR East Onagawa Station Station building",
+    "credit": "Mister0124",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_East_Onagawa_Station_building,_Miyagi_Pref.jpg",
+    "file": "File:JR East Onagawa Station building, Miyagi Pref.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/JR_East_Onagawa_Station_Gate%2C_Miyagi_Pref.jpg/1280px-JR_East_Onagawa_Station_Gate%2C_Miyagi_Pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onagawa-station/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · JR East Onagawa Station Gate",
+    "credit": "Mister0124",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JR_East_Onagawa_Station_Gate,_Miyagi_Pref.jpg",
+    "file": "File:JR East Onagawa Station Gate, Miyagi Pref.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Onagawa_station_Ruins_20120906.jpg/1280px-Onagawa_station_Ruins_20120906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onagawa-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rsa",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Onagawa_station_Ruins_20120906.jpg",
+    "file": "File:Onagawa station Ruins 20120906.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kiha_40_519_Onagawa_20070924.jpg/1280px-Kiha_40_519_Onagawa_20070924.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onagawa-station/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "ja:user:Fuji-s",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiha_40_519_Onagawa_20070924.jpg",
+    "file": "File:Kiha 40 519 Onagawa 20070924.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sakaide-artificial-ground",
@@ -218270,7 +219202,59 @@ window.BUILDINGS = [
   "commons": "Category:Sakaide Artificial Ground",
   "lead": "File:Sakaide Artificial Ground 2021-08 ac (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Sakaide_Artificial_Ground_2021-08_ac_%281%29.jpg/1280px-Sakaide_Artificial_Ground_2021-08_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sakaide-artificial-ground/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakaide_Artificial_Ground_2021-08_ac_(1).jpg",
+    "file": "File:Sakaide Artificial Ground 2021-08 ac (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sakaide_Artificial_Ground_2021-08_ac_%282%29.jpg/1280px-Sakaide_Artificial_Ground_2021-08_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sakaide-artificial-ground/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakaide_Artificial_Ground_2021-08_ac_(2).jpg",
+    "file": "File:Sakaide Artificial Ground 2021-08 ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Sakaidejinkoutochi_1.JPG/1280px-Sakaidejinkoutochi_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sakaide-artificial-ground/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mobnoboka",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakaidejinkoutochi_1.JPG",
+    "file": "File:Sakaidejinkoutochi 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Sakaidejinkoutochi_2.JPG/1280px-Sakaidejinkoutochi_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sakaide-artificial-ground/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mobnoboka",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakaidejinkoutochi_2.JPG",
+    "file": "File:Sakaidejinkoutochi 2.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shonandai-cultural-center",
@@ -218294,7 +219278,59 @@ window.BUILDINGS = [
   "commons": "Category:Shonandai Culture Center",
   "lead": "File:Shonandai Culture Center 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Shonandai_Culture_Center_01.jpg/1280px-Shonandai_Culture_Center_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shonandai-cultural-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "五虎将軍",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shonandai_Culture_Center_01.jpg",
+    "file": "File:Shonandai Culture Center 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Shonandai_Culture_Center_201909-2.jpg/1280px-Shonandai_Culture_Center_201909-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shonandai-cultural-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suikotei",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shonandai_Culture_Center_201909-2.jpg",
+    "file": "File:Shonandai Culture Center 201909-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/01-SHONANDAI-Fujisawa-10336.jpg/1280px-01-SHONANDAI-Fujisawa-10336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shonandai-cultural-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 775,
+    "kind": "Exterior",
+    "caption": "Exterior · Hasegawa Itsuko: Shōnandai Culture Center, Fujisawa, Kanagawa Prefecture, 1988",
+    "credit": "Bigjap",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01-SHONANDAI-Fujisawa-10336.jpg",
+    "file": "File:01-SHONANDAI-Fujisawa-10336.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E6%B9%98%E5%8D%97%E5%8F%B0%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_-_panoramio.jpg/1280px-%E6%B9%98%E5%8D%97%E5%8F%B0%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shonandai-cultural-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "alonfloc",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%B9%98%E5%8D%97%E5%8F%B0%E6%96%87%E5%8C%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_-_panoramio.jpg",
+    "file": "File:湘南台文化センター - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shoto-museum-of-art",
@@ -218318,7 +219354,59 @@ window.BUILDINGS = [
   "commons": "Category:Shoto Museum of Art",
   "lead": "File:Shoto Museum of Art 2010.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Shoto_Museum_of_Art_2010.jpg/1280px-Shoto_Museum_of_Art_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shoto-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior · Shoto Museum of Art, Shibuya-ku Tokyo Japan , designed by Seiichi Sirai in 1981",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shoto_Museum_of_Art_2010.jpg",
+    "file": "File:Shoto Museum of Art 2010.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E6%9D%BE%E6%BF%A4%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/1280px-%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E6%9D%BE%E6%BF%A4%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shoto-museum-of-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Adece033090",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AB%8B%E6%9D%BE%E6%BF%A4%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg",
+    "file": "File:渋谷区立松濤美術館.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Shoto-museum.JPG/1280px-Shoto-museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shoto-museum-of-art/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"shoto-museum\"at Tokyo , Japan",
+    "credit": "Dddeco",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Shoto-museum.JPG",
+    "file": "File:Shoto-museum.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Shoto_Museum_of_Art_20090819.jpg/1280px-Shoto_Museum_of_Art_20090819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shoto-museum-of-art/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "荻野目さん",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shoto_Museum_of_Art_20090819.jpg",
+    "file": "File:Shoto Museum of Art 20090819.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "takanawa-gateway-station",
@@ -218342,7 +219430,83 @@ window.BUILDINGS = [
   "commons": "Category:Takanawa Gateway Station",
   "lead": "File:Fully opened Takanawa Gateway Station 03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fully_opened_Takanawa_Gateway_Station_01.jpg/1280px-Fully_opened_Takanawa_Gateway_Station_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "電車(新幹線)でゴー！",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fully_opened_Takanawa_Gateway_Station_01.jpg",
+    "file": "File:Fully opened Takanawa Gateway Station 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Fully_opened_Takanawa_Gateway_Station_02.jpg/1280px-Fully_opened_Takanawa_Gateway_Station_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "電車(新幹線)でゴー！",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fully_opened_Takanawa_Gateway_Station_02.jpg",
+    "file": "File:Fully opened Takanawa Gateway Station 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Takanawa_Gateway_Station_%2850011454533%29.jpg/1280px-Takanawa_Gateway_Station_%2850011454533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takanawa_Gateway_Station_(50011454533).jpg",
+    "file": "File:Takanawa Gateway Station (50011454533).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Takanawa_Gateway_Station_%2850011466503%29.jpg/1280px-Takanawa_Gateway_Station_%2850011466503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takanawa_Gateway_Station_(50011466503).jpg",
+    "file": "File:Takanawa Gateway Station (50011466503).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Takanawa-Geteway-STA_Interior.jpg/1280px-Takanawa-Geteway-STA_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "MaedaAkihiko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takanawa-Geteway-STA_Interior.jpg",
+    "file": "File:Takanawa-Geteway-STA Interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Takanawa_G%C4%93towei_eki_2023-09-02_%281%29.jpg/1280px-Takanawa_G%C4%93towei_eki_2023-09-02_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/takanawa-gateway-station/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Vista del hall central de la estación Takanawa Gateway",
+    "credit": "Mauricio V. Genta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Takanawa_G%C4%93towei_eki_2023-09-02_(1).jpg",
+    "file": "File:Takanawa Gētowei eki 2023-09-02 (1).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gunma-music-center",
@@ -218366,7 +219530,59 @@ window.BUILDINGS = [
   "commons": "Category:Gunma Music Center",
   "lead": "File:Gunma Music Center 2009.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Gunma_Music_Center_2009.jpg/1280px-Gunma_Music_Center_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-music-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 904,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gunma_Music_Center_2009.jpg",
+    "file": "File:Gunma Music Center 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%E7%BE%A4%E9%A6%AC%E9%9F%B3%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC.jpg/1280px-%E7%BE%A4%E9%A6%AC%E9%9F%B3%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-music-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "PYONCHI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%BE%A4%E9%A6%AC%E9%9F%B3%E6%A5%BD%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC.jpg",
+    "file": "File:群馬音楽センター.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gunma_Music_Center_%2818738032345%29.jpg/1280px-Gunma_Music_Center_%2818738032345%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-music-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "haru__q",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gunma_Music_Center_(18738032345).jpg",
+    "file": "File:Gunma Music Center (18738032345).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Gunma_Music_Center_Seen_From_the_Deck.jpg/1280px-Gunma_Music_Center_Seen_From_the_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-music-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Akinori Takemoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gunma_Music_Center_Seen_From_the_Deck.jpg",
+    "file": "File:Gunma Music Center Seen From the Deck.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kasumigaseki-building",
@@ -218390,7 +219606,59 @@ window.BUILDINGS = [
   "commons": "Category:Kasumigaseki Building",
   "lead": "File:Kasumigaseki building - Nov 21 2019 various 16 02 25 344000.jpeg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kasumigaseki_building_-_Nov_21_2019_various_16_02_20_011000.jpeg/1280px-Kasumigaseki_building_-_Nov_21_2019_various_16_02_20_011000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kasumigaseki-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kasumigaseki_building_-_Nov_21_2019_various_16_02_20_011000.jpeg",
+    "file": "File:Kasumigaseki building - Nov 21 2019 various 16 02 20 011000.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kasumigaseki_building_-_Nov_21_2019_various_16_02_30_766000.jpeg/1280px-Kasumigaseki_building_-_Nov_21_2019_various_16_02_30_766000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kasumigaseki-building/thumbs/1.webp",
+    "w": 1187,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kasumigaseki_building_-_Nov_21_2019_various_16_02_30_766000.jpeg",
+    "file": "File:Kasumigaseki building - Nov 21 2019 various 16 02 30 766000.jpeg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kasumigaseki-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/kasumigaseki-building/thumbs/2.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rs1421",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kasumigaseki-Building-01.jpg",
+    "file": "File:Kasumigaseki-Building-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kasumigaseki_Building_2022.jpg/1280px-Kasumigaseki_Building_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kasumigaseki-building/thumbs/3.webp",
+    "w": 1195,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Akonnchiroll",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kasumigaseki_Building_2022.jpg",
+    "file": "File:Kasumigaseki Building 2022.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kabukiza",
@@ -218414,7 +219682,83 @@ window.BUILDINGS = [
   "commons": "Category:Kabuki-za (2013-)",
   "lead": "File:Kabuki-za Theatre 2013 1125.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kabuki-za_Theatre_2013_1125.jpg/1280px-Kabuki-za_Theatre_2013_1125.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kabuki-za theatre in Ginza, Tokyo",
+    "credit": "Tak1701d",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabuki-za_Theatre_2013_1125.jpg",
+    "file": "File:Kabuki-za Theatre 2013 1125.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kabukiza-corner-march4-2018.jpg/1280px-Kabukiza-corner-march4-2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/1.webp",
+    "w": 1280,
+    "h": 815,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabukiza-corner-march4-2018.jpg",
+    "file": "File:Kabukiza-corner-march4-2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7_-_Kabuki_Za.jpg/1280px-%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7_-_Kabuki_Za.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taken by RICOH GRIIIx amzn.to/47meBfp (Amazon)",
+    "credit": "MIKI Yoshihito",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7_-_Kabuki_Za.jpg",
+    "file": "File:歌舞伎座 - Kabuki Za.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/New_Kabukiza.JPG/1280px-New_Kabukiza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kabuki-za theatre in Ginza, Tokyo",
+    "credit": "Chiba ryo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Kabukiza.JPG",
+    "file": "File:New Kabukiza.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Kabuki-za_%2826329464399%29.jpg/1280px-Kabuki-za_%2826329464399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Kabuki-za",
+    "credit": "Kent Wang  from London, United Kingdom",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabuki-za_(26329464399).jpg",
+    "file": "File:Kabuki-za (26329464399).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kabuki-za_%2852994405767%29.jpg/1280px-Kabuki-za_%2852994405767%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kabukiza/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabuki-za_(52994405767).jpg",
+    "file": "File:Kabuki-za (52994405767).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "yatsushiro-municipal-museum",
@@ -218438,7 +219782,23 @@ window.BUILDINGS = [
   "commons": "Category:Yatsushiro Municipal Museum",
   "lead": "File:Yatsushiro Municipal Museum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Yatsushiro_Municipal_Museum.jpg/1280px-Yatsushiro_Municipal_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yatsushiro-municipal-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Yatsushiro Municipal Museum, at Yatsushiro Kumamoto Japan, design by Toyo Ito in 1991",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yatsushiro_Municipal_Museum.jpg",
+    "file": "File:Yatsushiro Municipal Museum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museum-of-modern-art-kamakura",
@@ -218462,7 +219822,71 @@ window.BUILDINGS = [
   "commons": "Category:The Museum of Modern Art, Kamakura",
   "lead": "File:Tsurugaoka Museum, Kamakura, -29 november 2025 14：42.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Tsurugaoka_Museum%2C_Kamakura%2C_-29_november_2025_14%EF%BC%9A42.jpg/1280px-Tsurugaoka_Museum%2C_Kamakura%2C_-29_november_2025_14%EF%BC%9A42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-kamakura/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Barry Ratzliff  from Sapporo and Tokyo, Japan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsurugaoka_Museum,_Kamakura,_-29_november_2025_14%EF%BC%9A42.jpg",
+    "file": "File:Tsurugaoka Museum, Kamakura, -29 november 2025 14：42.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Museum_of_Modern_Art%2C_Kamakura_2009.jpg/1280px-The_Museum_of_Modern_Art%2C_Kamakura_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-kamakura/thumbs/1.webp",
+    "w": 1280,
+    "h": 931,
+    "kind": "Exterior",
+    "caption": "Exterior · The Museum of Modern Art, Kamakura, at Kamakura Kanagawa Japan, designed by Junzo Sakakura in 1951",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Museum_of_Modern_Art,_Kamakura_2009.jpg",
+    "file": "File:The Museum of Modern Art, Kamakura 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tsurugaoka_Hachiman-gu_Shrine_%40_Kamakura_%2813897634731%29.jpg/1280px-Tsurugaoka_Hachiman-gu_Shrine_%40_Kamakura_%2813897634731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-kamakura/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Tsurugaoka Hachiman-gu Shrine @ Kamakura",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsurugaoka_Hachiman-gu_Shrine_@_Kamakura_(13897634731).jpg",
+    "file": "File:Tsurugaoka Hachiman-gu Shrine @ Kamakura (13897634731).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/SaekiY%C5%ABz%C5%8D-1926-Ship_at_Anchor_5.png/1280px-SaekiY%C5%ABz%C5%8D-1926-Ship_at_Anchor_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-kamakura/thumbs/3.webp",
+    "w": 1280,
+    "h": 1074,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yuzo Saeki",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:SaekiY%C5%ABz%C5%8D-1926-Ship_at_Anchor_5.png",
+    "file": "File:SaekiYūzō-1926-Ship at Anchor 5.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Aimitsu-1941-Landscape_of_Police_Hospital.png/1280px-Aimitsu-1941-Landscape_of_Police_Hospital.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-modern-art-kamakura/thumbs/4.webp",
+    "w": 1280,
+    "h": 989,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Aimitsu",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aimitsu-1941-Landscape_of_Police_Hospital.png",
+    "file": "File:Aimitsu-1941-Landscape of Police Hospital.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "meguro-city-office",
@@ -218486,7 +219910,47 @@ window.BUILDINGS = [
   "commons": "Category:Meguro City Office",
   "lead": "File:Meguro City Office.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Meguro_City_Office.jpg/1280px-Meguro_City_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meguro-city-office/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meguro_City_Office.jpg",
+    "file": "File:Meguro City Office.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Meguro%2C_Tokyo_City_Office.jpg/1280px-Meguro%2C_Tokyo_City_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meguro-city-office/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Meguro, Tokyo City Office, Designed by Togo Murano (1966)",
+    "credit": "Aw1805",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meguro,_Tokyo_City_Office.jpg",
+    "file": "File:Meguro, Tokyo City Office.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Meguro_Ward_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/meguro-city-office/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Meguro Ward Office in Tokyo, Japan",
+    "credit": "ja:user:Hykw-a4",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meguro_Ward_office.jpg",
+    "file": "File:Meguro Ward office.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nippon-budokan",
@@ -218510,7 +219974,83 @@ window.BUILDINGS = [
   "commons": "Category:Nippon Budokan",
   "lead": "File:Nippon Budokan 20190406.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Nippon_Budokan_20190406.jpg/1280px-Nippon_Budokan_20190406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_20190406.jpg",
+    "file": "File:Nippon Budokan 20190406.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nippon_Budokan_-_2024_feb_16_various_04_29_06_786000.jpeg/1280px-Nippon_Budokan_-_2024_feb_16_various_04_29_06_786000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/1.webp",
+    "w": 1280,
+    "h": 770,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_-_2024_feb_16_various_04_29_06_786000.jpeg",
+    "file": "File:Nippon Budokan - 2024 feb 16 various 04 29 06 786000.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Nippon_Budokan_-_sunny_day_-_Nov_12_2021_various.jpeg/1280px-Nippon_Budokan_-_sunny_day_-_Nov_12_2021_various.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/2.webp",
+    "w": 1280,
+    "h": 642,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_-_sunny_day_-_Nov_12_2021_various.jpeg",
+    "file": "File:Nippon Budokan - sunny day - Nov 12 2021 various.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Nippon_Budokan_-_2024_feb_16_various_04_27_49_370000.jpeg/1280px-Nippon_Budokan_-_2024_feb_16_various_04_27_49_370000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/3.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_-_2024_feb_16_various_04_27_49_370000.jpeg",
+    "file": "File:Nippon Budokan - 2024 feb 16 various 04 27 49 370000.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Nippon_Budokan_220429a.jpg/1280px-Nippon_Budokan_220429a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_220429a.jpg",
+    "file": "File:Nippon Budokan 220429a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Nippon_Budokan_220429b.jpg/1280px-Nippon_Budokan_220429b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nippon-budokan/thumbs/5.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nippon_Budokan_220429b.jpg",
+    "file": "File:Nippon Budokan 220429b.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kyoto-tower",
@@ -218534,7 +220074,83 @@ window.BUILDINGS = [
   "commons": "Category:Kyoto Tower",
   "lead": "File:Kyoto Tower 2023-12 ac (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kyoto_Tower_2023-12_ac_%281%29.jpg/1280px-Kyoto_Tower_2023-12_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Tower_2023-12_ac_(1).jpg",
+    "file": "File:Kyoto Tower 2023-12 ac (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Kyoto_Tower_20150919.jpg/1280px-Kyoto_Tower_20150919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ  (Soramimi)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Tower_20150919.jpg",
+    "file": "File:Kyoto Tower 20150919.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Kyoto_Kyoto_Tower_2.jpg/1280px-Kyoto_Kyoto_Tower_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/2.webp",
+    "w": 949,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kyoto Tower, Kyoto, Kyoto Prefecture, Kinki Region, Japan",
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Kyoto_Tower_2.jpg",
+    "file": "File:Kyoto Kyoto Tower 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Kyoto_Tower_%2831381431428%29.jpg/1280px-Kyoto_Tower_%2831381431428%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sketyl none",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kyoto_Tower_(31381431428).jpg",
+    "file": "File:Kyoto Tower (31381431428).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Stairs_in_Kyoto_Tower_%281%29.jpg/1280px-Stairs_in_Kyoto_Tower_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairs_in_Kyoto_Tower_(1).jpg",
+    "file": "File:Stairs in Kyoto Tower (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Stairs_in_Kyoto_Tower_%282%29.jpg/1280px-Stairs_in_Kyoto_Tower_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kyoto-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairs_in_Kyoto_Tower_(2).jpg",
+    "file": "File:Stairs in Kyoto Tower (2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toyoda-auditorium",
@@ -218558,7 +220174,59 @@ window.BUILDINGS = [
   "commons": "Category:Toyoda Auditorium of Nagoya University",
   "lead": "File:Toyota Auditorium of Nagoya University.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Toyota_Auditorium_of_Nagoya_University.jpg/1280px-Toyota_Auditorium_of_Nagoya_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyoda-auditorium/thumbs/0.webp",
+    "w": 1280,
+    "h": 526,
+    "kind": "Interior",
+    "caption": "Interior · Toyota Auditorium of Nagoya University,Chikusa-ku Nagoya Japan, design by Fumihiko Maki in 1960",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Auditorium_of_Nagoya_University.jpg",
+    "file": "File:Toyota Auditorium of Nagoya University.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Toyoda_Auditorium_of_Nagoya_University_2006.jpg/1280px-Toyoda_Auditorium_of_Nagoya_University_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyoda-auditorium/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyoda_Auditorium_of_Nagoya_University_2006.jpg",
+    "file": "File:Toyoda Auditorium of Nagoya University 2006.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%B1%8A%E7%94%B0%E8%AC%9B%E5%A0%82%2820210718%29.jpg/1280px-%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%B1%8A%E7%94%B0%E8%AC%9B%E5%A0%82%2820210718%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyoda-auditorium/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "経済特区",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%B1%8A%E7%94%B0%E8%AC%9B%E5%A0%82(20210718).jpg",
+    "file": "File:名古屋大学の豊田講堂(20210718).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nagoya_University_dk4497.jpg/1280px-Nagoya_University_dk4497.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyoda-auditorium/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Nagoya, Higashiyama Campus of Nagoya University",
+    "credit": "DrKssn",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_University_dk4497.jpg",
+    "file": "File:Nagoya University dk4497.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "granship",
@@ -218582,7 +220250,59 @@ window.BUILDINGS = [
   "commons": "Category:Shizuoka Convention & Arts Center",
   "lead": "File:Granship Facade.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Granship_Facade.jpg/1280px-Granship_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/granship/thumbs/0.webp",
+    "w": 1280,
+    "h": 962,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tnk3a",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Granship_Facade.jpg",
+    "file": "File:Granship Facade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Shizuoka_Konferenzzentrum_Granship_4.jpg/1280px-Shizuoka_Konferenzzentrum_Granship_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/granship/thumbs/1.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Exterior",
+    "caption": "Exterior · Granship Convention Centre, Shizuoka, Prefecture of Shizuoka, Region of Chubu, Japan",
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Konferenzzentrum_Granship_4.jpg",
+    "file": "File:Shizuoka Konferenzzentrum Granship 4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Shizuoka_Konferenzzentrum_Granship_2.jpg/1280px-Shizuoka_Konferenzzentrum_Granship_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/granship/thumbs/2.webp",
+    "w": 1280,
+    "h": 811,
+    "kind": "Exterior",
+    "caption": "Exterior · Granship Convention Centre, Shizuoka, Prefecture of Shizuoka, Region of Chubu, Japan",
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shizuoka_Konferenzzentrum_Granship_2.jpg",
+    "file": "File:Shizuoka Konferenzzentrum Granship 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/231006_Shizuoka_Convention_%26_Arts_Center_Shizuoka_Japan01s3.jpg/1280px-231006_Shizuoka_Convention_%26_Arts_Center_Shizuoka_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/granship/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Shizuoka Convention & Arts Center in Shizuoka , Shizuoka prefecture , Japan ",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:231006_Shizuoka_Convention_%26_Arts_Center_Shizuoka_Japan01s3.jpg",
+    "file": "File:231006 Shizuoka Convention & Arts Center Shizuoka Japan01s3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nagi-moca",
@@ -218606,7 +220326,35 @@ window.BUILDINGS = [
   "commons": "Category:Nagi Museum Of Contemporary Art",
   "lead": "File:Nagi MOCA.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Nagi_MOCA.jpg/1280px-Nagi_MOCA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagi-moca/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Nagi Museum Of Contemporary Art, Nagi, Okayama",
+    "credit": "Phronimoi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagi_MOCA.jpg",
+    "file": "File:Nagi MOCA.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Nagi_Town_Library_0031_%E5%A5%88%E7%BE%A9%E7%94%BA%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%BD%9C%E5%AE%B6%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC.jpg/1280px-Nagi_Town_Library_0031_%E5%A5%88%E7%BE%A9%E7%94%BA%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%BD%9C%E5%AE%B6%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagi-moca/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "しろやぎ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagi_Town_Library_0031_%E5%A5%88%E7%BE%A9%E7%94%BA%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8%E4%BD%9C%E5%AE%B6%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC.jpg",
+    "file": "File:Nagi Town Library 0031 奈義町現代美術館作家コーナー.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mount-fuji-world-heritage-centre",
@@ -218630,7 +220378,83 @@ window.BUILDINGS = [
   "commons": "Category:Mt.Fuji World Heritage Centre, Shizuoka",
   "lead": "File:Mt.Fuji World Heritage Centre,Shizuoka.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Mt.Fuji_World_Heritage_Centre%2CShizuoka.jpg/1280px-Mt.Fuji_World_Heritage_Centre%2CShizuoka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sablier de Verrie",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre,Shizuoka.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre,Shizuoka.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mt.Fuji_World_Heritage_Centre_20220724a.jpg/1280px-Mt.Fuji_World_Heritage_Centre_20220724a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 895,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre_20220724a.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre 20220724a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mt.Fuji_World_Heritage_Centre%2C_Shizuoka_1.jpg/1280px-Mt.Fuji_World_Heritage_Centre%2C_Shizuoka_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mr.Asylum",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre,_Shizuoka_1.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre, Shizuoka 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Mt.Fuji_World_Heritage_Centre.jpg/1280px-Mt.Fuji_World_Heritage_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sablier de Verrie",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mt.Fuji_World_Heritage_Centre_20220724h.jpg/1280px-Mt.Fuji_World_Heritage_Centre_20220724h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/4.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre_20220724h.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre 20220724h.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Mt.Fuji_World_Heritage_Centre_20220724i.jpg/1280px-Mt.Fuji_World_Heritage_Centre_20220724i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mount-fuji-world-heritage-centre/thumbs/5.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "江戸村のとくぞう",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt.Fuji_World_Heritage_Centre_20220724i.jpg",
+    "file": "File:Mt.Fuji World Heritage Centre 20220724i.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "za-koenji",
@@ -218654,7 +220478,59 @@ window.BUILDINGS = [
   "commons": "Category:Suginami Art Center",
   "lead": "File:Za koenji.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Za_koenji.jpg/1280px-Za_koenji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/za-koenji/thumbs/0.webp",
+    "w": 1280,
+    "h": 871,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Za_koenji.jpg",
+    "file": "File:Za koenji.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/20140415_za-kouenji2.jpg/1280px-20140415_za-kouenji2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/za-koenji/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yoshibay",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:20140415_za-kouenji2.jpg",
+    "file": "File:20140415 za-kouenji2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/ZA-Koenji%2C_Suginami_%E5%BA%A7%E3%83%BB%E9%AB%98%E5%86%86%E5%AF%BA_Jun_28%2C_2026.jpg/1280px-ZA-Koenji%2C_Suginami_%E5%BA%A7%E3%83%BB%E9%AB%98%E5%86%86%E5%AF%BA_Jun_28%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/za-koenji/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · ZA-Koenji public theater, Ssuginami, Tokyo, Japan",
+    "credit": "nagi usano",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ZA-Koenji,_Suginami_%E5%BA%A7%E3%83%BB%E9%AB%98%E5%86%86%E5%AF%BA_Jun_28,_2026.jpg",
+    "file": "File:ZA-Koenji, Suginami 座・高円寺 Jun 28, 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Za_koenji_suginami_tokyo_2009.JPG/1280px-Za_koenji_suginami_tokyo_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/za-koenji/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Za koenji (Suginami,Tokyo)",
+    "credit": "Kamemaru2000",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Za_koenji_suginami_tokyo_2009.JPG",
+    "file": "File:Za koenji suginami tokyo 2009.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "aore-nagaoka",
@@ -218678,7 +220554,83 @@ window.BUILDINGS = [
   "commons": "Category:Ao-re Nagaoka",
   "lead": "File:Ao-re Nagaoka 20140430.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ao-re_Nagaoka_20140430.jpg/1280px-Ao-re_Nagaoka_20140430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Ao-re Nagaoka, Nagaoka, Niigata Prefecture, Japan",
+    "credit": "Kzaral",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ao-re_Nagaoka_20140430.jpg",
+    "file": "File:Ao-re Nagaoka 20140430.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ao-re_Nagaoka_2018.09.jpg/1280px-Ao-re_Nagaoka_2018.09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rebirth10",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ao-re_Nagaoka_2018.09.jpg",
+    "file": "File:Ao-re Nagaoka 2018.09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Aore_Nagaoka_East_1F_2022%2C2.jpg/1280px-Aore_Nagaoka_East_1F_2022%2C2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rebirth10",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aore_Nagaoka_East_1F_2022,2.jpg",
+    "file": "File:Aore Nagaoka East 1F 2022,2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Arena_of_Ao-re_Nagaoka_20190429.jpg/1280px-Arena_of_Ao-re_Nagaoka_20190429.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_of_Ao-re_Nagaoka_20190429.jpg",
+    "file": "File:Arena of Ao-re Nagaoka 20190429.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/City_Hall_Plaza_Aore_Nagaoka.jpg/1280px-City_Hall_Plaza_Aore_Nagaoka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · City Hall Plaza Aore Nagaoka",
+    "credit": "https://www.flickr.com/photos/94693136@N05/",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_Hall_Plaza_Aore_Nagaoka.jpg",
+    "file": "File:City Hall Plaza Aore Nagaoka.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ao-re_Nagaoka_20140430_02.jpg/1280px-Ao-re_Nagaoka_20140430_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aore-nagaoka/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · City Hall Plaza Ao-re Nagaoka in Nagaoka , Niigata Prefecture , Japan",
+    "credit": "Kzaral",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ao-re_Nagaoka_20140430_02.jpg",
+    "file": "File:Ao-re Nagaoka 20140430 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "starbucks-dazaifu",
@@ -218702,7 +220654,71 @@ window.BUILDINGS = [
   "commons": "Category:Starbucks Coffee Dazaifutenmangu Omotesando Store",
   "lead": "File:Dazaifu-sutaba.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dazaifu-sutaba.JPG/1280px-Dazaifu-sutaba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/starbucks-dazaifu/thumbs/0.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Saka320",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dazaifu-sutaba.JPG",
+    "file": "File:Dazaifu-sutaba.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE%E8%A1%A8%E5%8F%82%E9%81%93%E5%BA%97_%2831824610824%29.jpg/1280px-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE%E8%A1%A8%E5%8F%82%E9%81%93%E5%BA%97_%2831824610824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/starbucks-dazaifu/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Richard, enjoy my life!  from 台北市, ROC Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9_%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE%E8%A1%A8%E5%8F%82%E9%81%93%E5%BA%97_(31824610824).jpg",
+    "file": "File:スターバックス 太宰府天満宮表参道店 (31824610824).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-3.jpg/1280px-Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/starbucks-dazaifu/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The very architecturally interesting Starbucks store I saw on the walk to Dazaifu Tenmangu",
+    "credit": "Immanuelle",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-3.jpg",
+    "file": "File:Starbucks Coffee Dazaifutenmangu Omotesando Store-3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-1.jpg/1280px-Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/starbucks-dazaifu/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The very architecturally interesting Starbucks store I saw on the walk to Dazaifu Tenmangu",
+    "credit": "Immanuelle",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Coffee_Dazaifutenmangu_Omotesando_Store-1.jpg",
+    "file": "File:Starbucks Coffee Dazaifutenmangu Omotesando Store-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dazaifu-sutaba_interior_%289247027928%29.jpg/1280px-Dazaifu-sutaba_interior_%289247027928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/starbucks-dazaifu/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Very cool-looking!",
+    "credit": "Karl Baron",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dazaifu-sutaba_interior_(9247027928).jpg",
+    "file": "File:Dazaifu-sutaba interior (9247027928).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "prince-kyoto-takaragaike",
@@ -218726,7 +220742,59 @@ window.BUILDINGS = [
   "commons": "Category:The Prince Kyoto Takaragaike",
   "lead": "File:The Prince Kyoto Takaragaike 20211018-002.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/The_Prince_Kyoto_Takaragaike_20211018-002.jpg/1280px-The_Prince_Kyoto_Takaragaike_20211018-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prince-kyoto-takaragaike/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Photograph of the west side view of The Prince Kyoto Takaragaike in Sakyo-ku, Kyoto, Kyoto Prefecture, Japan",
+    "credit": "J o",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Prince_Kyoto_Takaragaike_20211018-002.jpg",
+    "file": "File:The Prince Kyoto Takaragaike 20211018-002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%E5%AE%9D%E3%83%B6%E6%B1%A0%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB.jpg/1280px-%E5%AE%9D%E3%83%B6%E6%B1%A0%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prince-kyoto-takaragaike/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "＋－",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%AE%9D%E3%83%B6%E6%B1%A0%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%9B%E3%83%86%E3%83%AB.jpg",
+    "file": "File:宝ヶ池プリンスホテル.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Prince_Kyoto_Takaragaike_20211018-001.jpg/1280px-The_Prince_Kyoto_Takaragaike_20211018-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prince-kyoto-takaragaike/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "J o",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Prince_Kyoto_Takaragaike_20211018-001.jpg",
+    "file": "File:The Prince Kyoto Takaragaike 20211018-001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_Prince_Kyoto_Takaragaike_Deluxe_Floor_King_bedroom_20211017-001.jpg/1280px-The_Prince_Kyoto_Takaragaike_Deluxe_Floor_King_bedroom_20211017-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prince-kyoto-takaragaike/thumbs/3.webp",
+    "w": 1280,
+    "h": 733,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "J o",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Prince_Kyoto_Takaragaike_Deluxe_Floor_King_bedroom_20211017-001.jpg",
+    "file": "File:The Prince Kyoto Takaragaike Deluxe Floor King bedroom 20211017-001.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-tokoen",
@@ -218750,7 +220818,35 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:KIKUTAKE-hotel-Tokoen-1400.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/KIKUTAKE-hotel-Tokoen-1400.jpg/1280px-KIKUTAKE-hotel-Tokoen-1400.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-tokoen/thumbs/0.webp",
+    "w": 1280,
+    "h": 940,
+    "kind": "Exterior",
+    "caption": "Exterior · Kikutake Kiyonori: Tōkōen Hotel, 1964",
+    "credit": "Bigjap",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KIKUTAKE-hotel-Tokoen-1400.jpg",
+    "file": "File:KIKUTAKE-hotel-Tokoen-1400.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/KIKUTAKE_Yonago-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/hotel-tokoen/thumbs/1.webp",
+    "w": 949,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kikutake Kiyonori: Hotel Tokoen, 1964, Yonago",
+    "credit": "Bigjap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KIKUTAKE_Yonago-5.jpg",
+    "file": "File:KIKUTAKE Yonago-5.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shiroiya-hotel",
@@ -218774,7 +220870,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Shiroiya Hotel.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Shiroiya_Hotel.jpg/1280px-Shiroiya_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shiroiya-hotel/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "こやまひろ",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiroiya_Hotel.jpg",
+    "file": "File:Shiroiya Hotel.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "aalto-university-undergraduate-centre",
@@ -218798,7 +220910,83 @@ window.BUILDINGS = [
   "commons": "Category:Aalto University Undergraduate Centre",
   "lead": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2020).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aalto_University_Undergraduate_Centre%2C_Otaniemi%2C_Espoo_%28January_2020%29.jpg/1280px-Aalto_University_Undergraduate_Centre%2C_Otaniemi%2C_Espoo_%28January_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Markus Säynevirta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aalto_University_Undergraduate_Centre,_Otaniemi,_Espoo_(January_2020).jpg",
+    "file": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2020).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Aalto_University_Undergraduate_Centre%2C_Otaniemi%2C_Espoo_%28January_2017%29.jpg/1280px-Aalto_University_Undergraduate_Centre%2C_Otaniemi%2C_Espoo_%28January_2017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Markus Säynevirta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aalto_University_Undergraduate_Centre,_Otaniemi,_Espoo_(January_2017).jpg",
+    "file": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2017).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aalto_University_undergraduate_centre_on_a_sunny_afternoon_in_June_2023.jpg/1280px-Aalto_University_undergraduate_centre_on_a_sunny_afternoon_in_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aalto_University_undergraduate_centre_on_a_sunny_afternoon_in_June_2023.jpg",
+    "file": "File:Aalto University undergraduate centre on a sunny afternoon in June 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Helsinki_University_of_Technology_Main_Building%2C_Otaniemi%2C_Espoo_%28October_2018%29.jpg/1280px-Helsinki_University_of_Technology_Main_Building%2C_Otaniemi%2C_Espoo_%28October_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Markus Säynevirta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki_University_of_Technology_Main_Building,_Otaniemi,_Espoo_(October_2018).jpg",
+    "file": "File:Helsinki University of Technology Main Building, Otaniemi, Espoo (October 2018).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/View_of_Otaniemi_outside_the_metro_station.jpg/1280px-View_of_Otaniemi_outside_the_metro_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · A view of Otaniemi, Espoo, Finland just outside the Aalto University metro station",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Otaniemi_outside_the_metro_station.jpg",
+    "file": "File:View of Otaniemi outside the metro station.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Teknillisen_korkeakoulun_p%C3%A4%C3%A4rakennus%2C_ilmakuva_vuodelta_1998.jpg/1280px-Teknillisen_korkeakoulun_p%C3%A4%C3%A4rakennus%2C_ilmakuva_vuodelta_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-university-undergraduate-centre/thumbs/5.webp",
+    "w": 1280,
+    "h": 999,
+    "kind": "Context",
+    "caption": "Context · Kuvassa keskeisenä näkyy entisen Teknillisen korkeakoulun päärakennus osoitteessa Otakaari 1",
+    "credit": "Unknown author Unknown author",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teknillisen_korkeakoulun_p%C3%A4%C3%A4rakennus,_ilmakuva_vuodelta_1998.jpg",
+    "file": "File:Teknillisen korkeakoulun päärakennus, ilmakuva vuodelta 1998.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kirjatalo-academic-bookstore",
@@ -218822,7 +221010,83 @@ window.BUILDINGS = [
   "commons": "Category:Kirjatalo",
   "lead": "File:Pohjoisesplanadi 39.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pohjoisesplanadi_39.jpg/1280px-Pohjoisesplanadi_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/0.webp",
+    "w": 1280,
+    "h": 1057,
+    "kind": "Exterior",
+    "caption": "Exterior · Academic bookstore, Helsinki",
+    "credit": "MyName ( Mahlum )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pohjoisesplanadi_39.jpg",
+    "file": "File:Pohjoisesplanadi 39.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Uusi_Kirjatalo_avattiin_vuonna_1969..jpg/1280px-Uusi_Kirjatalo_avattiin_vuonna_1969..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/1.webp",
+    "w": 1063,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The new Academic Bookstore was opened in 1969",
+    "credit": "https://www.flickr.com/photos/stockmanngroup/8515491434/",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uusi_Kirjatalo_avattiin_vuonna_1969..jpg",
+    "file": "File:Uusi Kirjatalo avattiin vuonna 1969..jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kirjatalo_ja_Stockman_2024_-_Marit_Henriksson.jpg/1280px-Kirjatalo_ja_Stockman_2024_-_Marit_Henriksson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/2.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Q60674094' (Q60674094)",
+    "credit": "Marit Henriksson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirjatalo_ja_Stockman_2024_-_Marit_Henriksson.jpg",
+    "file": "File:Kirjatalo ja Stockman 2024 - Marit Henriksson.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Uusi_Kirjatalo_rakenteilla_vuonna_1968..jpg/1280px-Uusi_Kirjatalo_rakenteilla_vuonna_1968..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/3.webp",
+    "w": 1280,
+    "h": 973,
+    "kind": "Exterior",
+    "caption": "Exterior · Building the new Academic Bookstore in 1968",
+    "credit": "https://www.flickr.com/photos/stockmanngroup/8515491484/",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uusi_Kirjatalo_rakenteilla_vuonna_1968..jpg",
+    "file": "File:Uusi Kirjatalo rakenteilla vuonna 1968..jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bokhuset_Helsingfors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/4.webp",
+    "w": 1084,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Kirjatalo / Bokhuset in Helsinki designed by Alvar Aalto",
+    "credit": "Jaakko.kulta",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bokhuset_Helsingfors.jpg",
+    "file": "File:Bokhuset Helsingfors.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Akateeminen_kirjakauppa_-_N137170_-_hkm.HKMS000005-000001l6.jpg/1280px-Akateeminen_kirjakauppa_-_N137170_-_hkm.HKMS000005-000001l6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirjatalo-academic-bookstore/thumbs/5.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Akateeminen kirjakauppa",
+    "credit": "Unknown author Unknown author",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akateeminen_kirjakauppa_-_N137170_-_hkm.HKMS000005-000001l6.jpg",
+    "file": "File:Akateeminen kirjakauppa - N137170 - hkm.HKMS000005-000001l6.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "alvar-aalto-museum-jyvaskyla",
@@ -218846,7 +221110,59 @@ window.BUILDINGS = [
   "commons": "Category:Alvar Aalto Museum Jyväskylä",
   "lead": "File:Alvar Aalto museum 2017.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Alvar_Aalto_museum_2017.jpg/1280px-Alvar_Aalto_museum_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alvar-aalto-museum-jyvaskyla/thumbs/0.webp",
+    "w": 1280,
+    "h": 639,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Alvar Aalto Museum' (Q3867578)",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto_museum_2017.jpg",
+    "file": "File:Alvar Aalto museum 2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Alvar_Aalto_-museo.jpg/1280px-Alvar_Aalto_-museo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alvar-aalto-museum-jyvaskyla/thumbs/1.webp",
+    "w": 1280,
+    "h": 807,
+    "kind": "Exterior",
+    "caption": "Exterior · Alvar Aalto museum, Jyväskylä",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto_-museo.jpg",
+    "file": "File:Alvar Aalto -museo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alvar_Aalto_museum_before_reconstruction.jpg/1280px-Alvar_Aalto_museum_before_reconstruction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alvar-aalto-museum-jyvaskyla/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Alvar Aalto museum before reconstruction",
+    "credit": "Alexignat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto_museum_before_reconstruction.jpg",
+    "file": "File:Alvar Aalto museum before reconstruction.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Alvar_Aalto_Museum%2C_Jyv%C3%A4skyl%C3%A4%2C_Finland_%2854158123577%29.jpg/1280px-Alvar_Aalto_Museum%2C_Jyv%C3%A4skyl%C3%A4%2C_Finland_%2854158123577%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alvar-aalto-museum-jyvaskyla/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · The museum is specialised in architecture and design",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alvar_Aalto_Museum,_Jyv%C3%A4skyl%C3%A4,_Finland_(54158123577).jpg",
+    "file": "File:Alvar Aalto Museum, Jyväskylä, Finland (54158123577).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "amos-rex",
@@ -218870,7 +221186,97 @@ window.BUILDINGS = [
   "commons": "Category:Amos Rex",
   "lead": "File:Amos Rex aukio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Amos_Rex_aukio.jpg/1280px-Amos_Rex_aukio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/0.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Amos Rex art museum square \"bubbles\" in Helsinki Finland",
+    "credit": "Kulttuurinavigaattori",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amos_Rex_aukio.jpg",
+    "file": "File:Amos Rex aukio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Amos_Rex_outside_001_%281%29.jpg/1280px-Amos_Rex_outside_001_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Amos Andersons fond' (Q5396786)",
+    "credit": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amos_Rex_outside_001_(1).jpg",
+    "file": "File:Amos Rex outside 001 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Amos_Rex_outside_001_%282%29.jpg/1280px-Amos_Rex_outside_001_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Amos Andersons fond' (Q5396786)",
+    "credit": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amos_Rex_outside_001_(2).jpg",
+    "file": "File:Amos Rex outside 001 (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Queue_to_Amos_Rex_in_August.jpg/1280px-Queue_to_Amos_Rex_in_August.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · People queueing to the Amos Rex art museum on the Night of the Arts in August 2019",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Queue_to_Amos_Rex_in_August.jpg",
+    "file": "File:Queue to Amos Rex in August.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Amos_Rex_ala_aula.jpg/1280px-Amos_Rex_ala_aula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/4.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Interior",
+    "caption": "Interior · Amos Rex art museum downstairs lobby in Helsinki Finland",
+    "credit": "Kulttuurinavigaattori",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amos_Rex_ala_aula.jpg",
+    "file": "File:Amos Rex ala aula.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Amos_Rex_elokuvateatteri.jpg/1280px-Amos_Rex_elokuvateatteri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/5.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Interior",
+    "caption": "Interior · Amos Rex art museum movie theater in Helsinki Finland",
+    "credit": "Kulttuurinavigaattori",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amos_Rex_elokuvateatteri.jpg",
+    "file": "File:Amos Rex elokuvateatteri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Magnus_Enckell%2C_Sketch_for_Girls_by_the_Brook_in_Nyland%27s_nation%2C_1914.jpg/1280px-Magnus_Enckell%2C_Sketch_for_Girls_by_the_Brook_in_Nyland%27s_nation%2C_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/amos-rex/thumbs/6.webp",
+    "w": 1280,
+    "h": 615,
+    "kind": "Sketch",
+    "caption": "Sketch · Sketch for Girls by the Brook in Nyland's nation by the Finnish artist Magnus Enckell in 1914",
+    "credit": "Gotogo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Magnus_Enckell,_Sketch_for_Girls_by_the_Brook_in_Nyland%27s_nation,_1914.jpg",
+    "file": "File:Magnus Enckell, Sketch for Girls by the Brook in Nyland's nation, 1914.jpg"
+   }
+  ],
+  "has": [
+   "Sketch"
+  ],
+  "gv": 3
  },
  {
   "id": "den-bla-planet",
@@ -218894,7 +221300,83 @@ window.BUILDINGS = [
   "commons": "Category:Den Blå Planet",
   "lead": "File:Blue Planet (Copenhagen).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Blue_Planet_%28Copenhagen%29.jpg/1280px-Blue_Planet_%28Copenhagen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Blue Planet Aquarium in Copenhagen, Denmark",
+    "credit": "Daniel  from Melrose, United Kingdom",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Planet_(Copenhagen).jpg",
+    "file": "File:Blue Planet (Copenhagen).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Blue_Planet_Aquarium_Copenhagen%29.jpg/1280px-Blue_Planet_Aquarium_Copenhagen%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/1.webp",
+    "w": 1280,
+    "h": 570,
+    "kind": "Exterior",
+    "caption": "Exterior · Blue Planet Aquarium in Copenhagen, Denmark",
+    "credit": "Miguel Mendez  from Malahide, Ireland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Planet_Aquarium_Copenhagen).jpg",
+    "file": "File:Blue Planet Aquarium Copenhagen).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Den_Bl%C3%A5_Planet%2C_Kastrup_%28East_Face_-_01%29.jpg/1280px-Den_Bl%C3%A5_Planet%2C_Kastrup_%28East_Face_-_01%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · The east face of Den Blå Planet, Kastrup",
+    "credit": "Doyle of London",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Den_Bl%C3%A5_Planet,_Kastrup_(East_Face_-_01).jpg",
+    "file": "File:Den Blå Planet, Kastrup (East Face - 01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/National_Aquarium_Denmark%2C_Kastrup%2C_Denmark_%28Unsplash%29.jpg/1280px-National_Aquarium_Denmark%2C_Kastrup%2C_Denmark_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · National Aquarium Denmark, Kastrup, Denmark",
+    "credit": "Sandro Katalina  sandrokatalina",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Aquarium_Denmark,_Kastrup,_Denmark_(Unsplash).jpg",
+    "file": "File:National Aquarium Denmark, Kastrup, Denmark (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Den_Bla_Planet_Danmarks_akvarium_20130427_0108F_%288687068454%29.jpg/1280px-Den_Bla_Planet_Danmarks_akvarium_20130427_0108F_%288687068454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Den_Bla_Planet_Danmarks_akvarium_20130427_0108F_(8687068454).jpg",
+    "file": "File:Den Bla Planet Danmarks akvarium 20130427 0108F (8687068454).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Den_Bla_Planet_Danmarks_akvarium_20130427_0137F_%288685766433%29.jpg/1280px-Den_Bla_Planet_Danmarks_akvarium_20130427_0137F_%288685766433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/den-bla-planet/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · \"The Blue Planet\" the new National Aquarium, near Copenhagen",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Den_Bla_Planet_Danmarks_akvarium_20130427_0137F_(8685766433).jpg",
+    "file": "File:Den Bla Planet Danmarks akvarium 20130427 0137F (8685766433).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "copenhagen-police-headquarters",
@@ -218918,7 +221400,83 @@ window.BUILDINGS = [
   "commons": "Category:Københavns Politigård",
   "lead": "File:20190917 Politigarden Kobenhavn (48835420686).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/20190917_Politigarden_Kobenhavn_%2848835420686%29.jpg/1280px-20190917_Politigarden_Kobenhavn_%2848835420686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/0.webp",
+    "w": 1280,
+    "h": 842,
+    "kind": "Context",
+    "caption": "Context · Politigården i København",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190917_Politigarden_Kobenhavn_(48835420686).jpg",
+    "file": "File:20190917 Politigarden Kobenhavn (48835420686).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/20190917_Politigarden_Kobenhavn_%2848835592462%29.jpg/1280px-20190917_Politigarden_Kobenhavn_%2848835592462%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190917_Politigarden_Kobenhavn_(48835592462).jpg",
+    "file": "File:20190917 Politigarden Kobenhavn (48835592462).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Copenhagen_Police_Headquarters_-_corner.jpg/1280px-Copenhagen_Police_Headquarters_-_corner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Copenhagen Police Headquarters designed in the Neoclassical style, often referred to as Nordic Classicism",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copenhagen_Police_Headquarters_-_corner.jpg",
+    "file": "File:Copenhagen Police Headquarters - corner.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Police_HQ_Copenhagen.JPG/1280px-Police_HQ_Copenhagen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/3.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Headquarters of the Copenhagen Police Department",
+    "credit": "Philaweb",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Police_HQ_Copenhagen.JPG",
+    "file": "File:Police HQ Copenhagen.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/K%C3%B8benhavns_Politig%C3%A5rd_%28Hack_Kampmann%29.jpg/1280px-K%C3%B8benhavns_Politig%C3%A5rd_%28Hack_Kampmann%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/4.webp",
+    "w": 1280,
+    "h": 941,
+    "kind": "Exterior",
+    "caption": "Exterior · Drawing of Copenhagen Police Headquarters by its archite1910",
+    "credit": "Hack Kampmann",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B8benhavns_Politig%C3%A5rd_(Hack_Kampmann).jpg",
+    "file": "File:Københavns Politigård (Hack Kampmann).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Polizei-Kopenhagen.jpg/1280px-Polizei-Kopenhagen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/copenhagen-police-headquarters/thumbs/5.webp",
+    "w": 1280,
+    "h": 745,
+    "kind": "Exterior",
+    "caption": "Exterior · This photo shows the \"Olsenbanden\"-Film Police Station",
+    "credit": "Jörg Behrens",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Polizei-Kopenhagen.jpg",
+    "file": "File:Polizei-Kopenhagen.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "enso-gutzeit-headquarters",
@@ -218942,7 +221500,83 @@ window.BUILDINGS = [
   "commons": "Category:Stora Enso headquarters",
   "lead": "File:Stora Enso headquars Helsinki Finland 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Stora_Enso_headquars_Helsinki_Finland_02.jpg/1280px-Stora_Enso_headquars_Helsinki_Finland_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/0.webp",
+    "w": 1280,
+    "h": 828,
+    "kind": "Exterior",
+    "caption": "Exterior · Stora Enso headquarters, Helsinki Finland",
+    "credit": "Paasikivi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stora_Enso_headquars_Helsinki_Finland_02.jpg",
+    "file": "File:Stora Enso headquars Helsinki Finland 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Enso_-_Marit_Henrikssson.jpg/1280px-Enso_-_Marit_Henrikssson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/1.webp",
+    "w": 1280,
+    "h": 1182,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Q60674222' (Q60674222)",
+    "credit": "Marit Henriksson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Enso_-_Marit_Henrikssson.jpg",
+    "file": "File:Enso - Marit Henrikssson.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Stora_Enso_headquarters.jpg/1280px-Stora_Enso_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "I99pema",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stora_Enso_headquarters.jpg",
+    "file": "File:Stora Enso headquarters.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Stora_Enson_p%C3%A4%C3%A4konttori_Katajanokka.jpg/1280px-Stora_Enson_p%C3%A4%C3%A4konttori_Katajanokka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Stora Enson pääkonttori",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stora_Enson_p%C3%A4%C3%A4konttori_Katajanokka.jpg",
+    "file": "File:Stora Enson pääkonttori Katajanokka.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Stora_Enso_headquarters_-_DSC05290.JPG/1280px-Stora_Enso_headquarters_-_DSC05290.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Stora Enso headquarters, Helsinki, Finland",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stora_Enso_headquarters_-_DSC05290.JPG",
+    "file": "File:Stora Enso headquarters - DSC05290.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Stora_Enso_headquarters_-_DSC05293.JPG/1280px-Stora_Enso_headquarters_-_DSC05293.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/enso-gutzeit-headquarters/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Stora Enso headquarters, Helsinki, Finland",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stora_Enso_headquarters_-_DSC05293.JPG",
+    "file": "File:Stora Enso headquarters - DSC05293.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "filmhuset-stockholm",
@@ -218966,7 +221600,59 @@ window.BUILDINGS = [
   "commons": "Category:Filmhuset",
   "lead": "File:Filmhuset 2009b.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Filmhuset_2009b.jpg/1280px-Filmhuset_2009b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/filmhuset-stockholm/thumbs/0.webp",
+    "w": 1280,
+    "h": 936,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Filmhuset\" i Stockholm (Svenska Filminstitutet)",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Filmhuset_2009b.jpg",
+    "file": "File:Filmhuset 2009b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Filmhuset_2009.jpg/1280px-Filmhuset_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/filmhuset-stockholm/thumbs/1.webp",
+    "w": 1280,
+    "h": 906,
+    "kind": "Exterior",
+    "caption": "Exterior · Svenska Filminstitutes byggnad \"Filmhuset\" i Stockholm",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Filmhuset_2009.jpg",
+    "file": "File:Filmhuset 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Filmhuset_2009d.jpg/1280px-Filmhuset_2009d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/filmhuset-stockholm/thumbs/2.webp",
+    "w": 1280,
+    "h": 975,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Filmhuset\" i Stockholm (Svenska Filminstitutet)",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Filmhuset_2009d.jpg",
+    "file": "File:Filmhuset 2009d.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Filmhuset_January_2011.jpg/1280px-Filmhuset_January_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/filmhuset-stockholm/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Filmhuset, headquarters of the Swedish Film Institute",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Filmhuset_January_2011.jpg",
+    "file": "File:Filmhuset January 2011.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "henie-onstad-kunstsenter",
@@ -218990,7 +221676,83 @@ window.BUILDINGS = [
   "commons": "Category:Henie Onstad kunstsenter",
   "lead": "File:Henie Onstad Hovik 02.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Henie_Onstad_Hovik_02.JPG/1280px-Henie_Onstad_Hovik_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Henie Onstad Art Centre, near Oslo",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Henie_Onstad_Hovik_02.JPG",
+    "file": "File:Henie Onstad Hovik 02.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Henie_Onstad_H%C3%B6vikodden_IMG_8023.JPG/1280px-Henie_Onstad_H%C3%B6vikodden_IMG_8023.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Henie Onstad Art Centre, Bærum, by Oslo, Norway",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Henie_Onstad_H%C3%B6vikodden_IMG_8023.JPG",
+    "file": "File:Henie Onstad Hövikodden IMG 8023.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Henie_Onstad_Center_Norway.jpg/1280px-Henie_Onstad_Center_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Henie Onstad Center, near Sandvika, in Norway",
+    "credit": "Leifern",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Henie_Onstad_Center_Norway.jpg",
+    "file": "File:Henie Onstad Center Norway.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Henie_Onstad_kunstsenter_TRS_070501_001.jpg/1280px-Henie_Onstad_kunstsenter_TRS_070501_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Picture of Henie-Onstad kunstsenter (Norway)",
+    "credit": "Trond Strandsberg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Henie_Onstad_kunstsenter_TRS_070501_001.jpg",
+    "file": "File:Henie Onstad kunstsenter TRS 070501 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Oslo_%E2%80%93_Henie_Onstad_Kunstsenter.jpg/1280px-Oslo_%E2%80%93_Henie_Onstad_Kunstsenter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/4.webp",
+    "w": 1280,
+    "h": 901,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "giggel",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oslo_%E2%80%93_Henie_Onstad_Kunstsenter.jpg",
+    "file": "File:Oslo – Henie Onstad Kunstsenter.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Regnstemning_Astrup.jpg/1280px-Regnstemning_Astrup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/henie-onstad-kunstsenter/thumbs/5.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Context",
+    "caption": "Context · Regnstemning under trærne ved Jølster prestegaard, oil on canvas, Nikolai Astrup before 1908",
+    "credit": "Erik den yngre",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Regnstemning_Astrup.jpg",
+    "file": "File:Regnstemning Astrup.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "holmenkollbakken",
@@ -219014,7 +221776,83 @@ window.BUILDINGS = [
   "commons": "Category:Holmenkollbakken",
   "lead": "File:19-08-25-Oslo Holmenkollenbakken-RalfR.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-25-Oslo_Holmenkollenbakken-RalfR.jpg/1280px-19-08-25-Oslo_Holmenkollenbakken-RalfR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/0.webp",
+    "w": 1280,
+    "h": 979,
+    "kind": "Exterior",
+    "caption": "Exterior · Oslo, Holmenkollbakken",
+    "credit": "Ralf Roletschek",
+    "license": "CC BY-SA 1.0 fi",
+    "source": "https://commons.wikimedia.org/wiki/File:19-08-25-Oslo_Holmenkollenbakken-RalfR.jpg",
+    "file": "File:19-08-25-Oslo Holmenkollenbakken-RalfR.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/3_The_Holmenkollen_ski_jump.JPG/1280px-3_The_Holmenkollen_ski_jump.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Макс Вальтер",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:3_The_Holmenkollen_ski_jump.JPG",
+    "file": "File:3 The Holmenkollen ski jump.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2016_Biathlon_World_Championships_2016-03-13_%2826527375186%29.jpg/1280px-2016_Biathlon_World_Championships_2016-03-13_%2826527375186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/2.webp",
+    "w": 1280,
+    "h": 864,
+    "kind": "Exterior",
+    "caption": "Exterior · Oslo",
+    "credit": "Guillaume Baviere  from Copenhagen, Denmark",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Biathlon_World_Championships_2016-03-13_(26527375186).jpg",
+    "file": "File:2016 Biathlon World Championships 2016-03-13 (26527375186).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Holmenkollbakken_2023_3.jpg/1280px-Holmenkollbakken_2023_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Holmenkollbakken, Oslo, Norway",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holmenkollbakken_2023_3.jpg",
+    "file": "File:Holmenkollbakken 2023 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Holmenkollen_closeup.jpg/1280px-Holmenkollen_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · The ski jump at Holmenkollen",
+    "credit": "Jenni Douglas  from Edinburgh, Scotland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holmenkollen_closeup.jpg",
+    "file": "File:Holmenkollen closeup.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/View_from_Holmenkollbakken%2C_2019.jpg/1280px-View_from_Holmenkollbakken%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holmenkollbakken/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Widok ze szczytu skoczni Holmenkollenbakken",
+    "credit": "Mateusz Giełczyński",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Holmenkollbakken,_2019.jpg",
+    "file": "File:View from Holmenkollbakken, 2019.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "moderna-museet-malmo",
@@ -219038,7 +221876,59 @@ window.BUILDINGS = [
   "commons": "Category:Moderna museet Malmö",
   "lead": "File:Moderna Museet Malmö.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Moderna_Museet_Malm%C3%B6.jpg/1280px-Moderna_Museet_Malm%C3%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moderna-museet-malmo/thumbs/0.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Åsa Lundén",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moderna_Museet_Malm%C3%B6.jpg",
+    "file": "File:Moderna Museet Malmö.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Moderna_malmo_1.JPG/1280px-Moderna_malmo_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moderna-museet-malmo/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Swedish Museum of modern art, Malmö branch",
+    "credit": "LittleGun",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Moderna_malmo_1.JPG",
+    "file": "File:Moderna malmo 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Moderna_museet_Malmo_20130915_004_%289768289441%29.jpg/1280px-Moderna_museet_Malmo_20130915_004_%289768289441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moderna-museet-malmo/thumbs/2.webp",
+    "w": 1280,
+    "h": 816,
+    "kind": "Exterior",
+    "caption": "Exterior · Moderna Museet i Malmö, inrymt i före detta konsthallen Roseums lokaler som ursprungligen var ett elverk",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moderna_museet_Malmo_20130915_004_(9768289441).jpg",
+    "file": "File:Moderna museet Malmo 20130915 004 (9768289441).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/20200325_Moderna_museet_Malmo_08A4828_%2849697530512%29.jpg/1280px-20200325_Moderna_museet_Malmo_08A4828_%2849697530512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/moderna-museet-malmo/thumbs/3.webp",
+    "w": 1280,
+    "h": 886,
+    "kind": "Exterior",
+    "caption": "Exterior · Som en följd av coronapandemin håller Moderna Museet i Malmö stängt tills vidare",
+    "credit": "Jenny Andersson /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20200325_Moderna_museet_Malmo_08A4828_(49697530512).jpg",
+    "file": "File:20200325 Moderna museet Malmo 08A4828 (49697530512).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "malmo-konsthall",
@@ -219062,7 +221952,59 @@ window.BUILDINGS = [
   "commons": "Category:Malmö konsthall",
   "lead": "File:Klas Anshelm's Malmö Konsthall Exterior.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Klas_Anshelm%27s_Malm%C3%B6_Konsthall_Exterior.jpg/1280px-Klas_Anshelm%27s_Malm%C3%B6_Konsthall_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-konsthall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Exterior of architect Klas Anshelm's Malmö Konsthall opened in 1975 www.konsthall.malmo.se/",
+    "credit": "Aiert Buruaga",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Klas_Anshelm%27s_Malm%C3%B6_Konsthall_Exterior.jpg",
+    "file": "File:Klas Anshelm's Malmö Konsthall Exterior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Klas_Anshelm_1974_Malm%C3%B6_konsthall_00.jpg/1280px-Klas_Anshelm_1974_Malm%C3%B6_konsthall_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-konsthall/thumbs/1.webp",
+    "w": 1280,
+    "h": 833,
+    "kind": "Interior",
+    "caption": "Interior · North face of Malmö konsthall",
+    "credit": "Aiert Buruaga  aka Aiert on Flickr, please inform author of usage outside of Wikipedia at  mailto:ai",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Klas_Anshelm_1974_Malm%C3%B6_konsthall_00.jpg",
+    "file": "File:Klas Anshelm 1974 Malmö konsthall 00.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Malm%C3%B6_konsthall_interi%C3%B6r.jpg/1280px-Malm%C3%B6_konsthall_interi%C3%B6r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-konsthall/thumbs/2.webp",
+    "w": 1280,
+    "h": 988,
+    "kind": "Interior",
+    "caption": "Interior · Interiör, Malmö konsthall",
+    "credit": "Johan Jönsson ( Julle )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malm%C3%B6_konsthall_interi%C3%B6r.jpg",
+    "file": "File:Malmö konsthall interiör.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Wiki-kik%2C_Malm%C3%B6_Konsthall_2014_01.JPG/1280px-Wiki-kik%2C_Malm%C3%B6_Konsthall_2014_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-konsthall/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Interior",
+    "caption": "Interior · Skrivstuga, tema: kvinnor i konsten",
+    "credit": "Tildam",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wiki-kik,_Malm%C3%B6_Konsthall_2014_01.JPG",
+    "file": "File:Wiki-kik, Malmö Konsthall 2014 01.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sanomatalo",
@@ -219086,7 +222028,83 @@ window.BUILDINGS = [
   "commons": "Category:Sanomatalo",
   "lead": "File:Sanomatalo Helsinki.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Sanomatalo_Helsinki.jpg/1280px-Sanomatalo_Helsinki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/0.webp",
+    "w": 1280,
+    "h": 937,
+    "kind": "Exterior",
+    "caption": "Exterior · Sanomatalo , Helsinki",
+    "credit": "MyName ( Mahlum )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanomatalo_Helsinki.jpg",
+    "file": "File:Sanomatalo Helsinki.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Citizens%27_Square_Helsinki_Sanomatalo_Pride_Flags_2020-09-12.jpg/1280px-Citizens%27_Square_Helsinki_Sanomatalo_Pride_Flags_2020-09-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Citizens' Square in Helsinki 12th September 2020",
+    "credit": "Josefiina Alanen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Citizens%27_Square_Helsinki_Sanomatalo_Pride_Flags_2020-09-12.jpg",
+    "file": "File:Citizens' Square Helsinki Sanomatalo Pride Flags 2020-09-12.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Helsinki%2C_Finland_Sanomatalo.jpg/1280px-Helsinki%2C_Finland_Sanomatalo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Kansalaistori Square Sanomatalo, commercial and office building",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki,_Finland_Sanomatalo.jpg",
+    "file": "File:Helsinki, Finland Sanomatalo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sanomatalo_Helsinki_2022-09-16_01.jpg/1280px-Sanomatalo_Helsinki_2022-09-16_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Building Sanomatalo in Helsinki",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanomatalo_Helsinki_2022-09-16_01.jpg",
+    "file": "File:Sanomatalo Helsinki 2022-09-16 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Sanomatalo_-_Interior_C_IMG_1027.JPG/1280px-Sanomatalo_-_Interior_C_IMG_1027.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sanomatalo - Interior",
+    "credit": "Anneli Salo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanomatalo_-_Interior_C_IMG_1027.JPG",
+    "file": "File:Sanomatalo - Interior C IMG 1027.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sanomatalo_-_Interior_C_IMG_1028.JPG/1280px-Sanomatalo_-_Interior_C_IMG_1028.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sanomatalo/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Sanomatalo - Interior",
+    "credit": "Anneli Salo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sanomatalo_-_Interior_C_IMG_1028.JPG",
+    "file": "File:Sanomatalo - Interior C IMG 1028.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "seinajoki-city-hall",
@@ -219110,7 +222128,59 @@ window.BUILDINGS = [
   "commons": "Category:Seinäjoki City Hall",
   "lead": "File:Seinajoki City Hall upper entrance.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Seinajoki_City_Hall_upper_entrance.jpg/1280px-Seinajoki_City_Hall_upper_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seinajoki-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Grassy steps leading to the upper entrance of the Seinäjoki City Hall (by Alvar Aalto)",
+    "credit": "Kotivalo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seinajoki_City_Hall_upper_entrance.jpg",
+    "file": "File:Seinajoki City Hall upper entrance.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sein%C3%A4joki_City_Hall_20180925.jpg/1280px-Sein%C3%A4joki_City_Hall_20180925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seinajoki-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Finland identified by the ID 'Aalto Center' (Q4250273) - RKY: 1667",
+    "credit": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_City_Hall_20180925.jpg",
+    "file": "File:Seinäjoki City Hall 20180925.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sein%C3%A4joki_City_Hall_02.jpg/1280px-Sein%C3%A4joki_City_Hall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seinajoki-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "GualdimG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_City_Hall_02.jpg",
+    "file": "File:Seinäjoki City Hall 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sein%C3%A4joki_kaupungintalo_20180925.jpg/1280px-Sein%C3%A4joki_kaupungintalo_20180925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seinajoki-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 974,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Finland identified by the ID 'Aalto Center' (Q4250273) - RKY: 1667",
+    "credit": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_kaupungintalo_20180925.jpg",
+    "file": "File:Seinäjoki kaupungintalo 20180925.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sibelius-hall",
@@ -219134,7 +222204,71 @@ window.BUILDINGS = [
   "commons": "Category:Sibelius hall",
   "lead": "File:Sibelius hall Lahti.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Sibelius_hall_Lahti.jpg/1280px-Sibelius_hall_Lahti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sibelius-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Interior",
+    "caption": "Interior · Sibelius hall, Lahti, Finland",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sibelius_hall_Lahti.jpg",
+    "file": "File:Sibelius hall Lahti.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sibelius_Hall_northwestern_side.JPG/1280px-Sibelius_Hall_northwestern_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sibelius-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Sibelius hall Congress & Concert Center in Lahti, Finland",
+    "credit": "Pasixxxx",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sibelius_Hall_northwestern_side.JPG",
+    "file": "File:Sibelius Hall northwestern side.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Sibelius_hall_and_lake_Vesij%C3%A4rvi.jpg/1280px-Sibelius_hall_and_lake_Vesij%C3%A4rvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sibelius-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · A building by the lake",
+    "credit": "Trogain",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sibelius_hall_and_lake_Vesij%C3%A4rvi.jpg",
+    "file": "File:Sibelius hall and lake Vesijärvi.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurocosplay_Desucon_2010.jpg/1280px-Eurocosplay_Desucon_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sibelius-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Main stage, full Just before the beginning of Eurocosplay show at Desucon 2010, Lahti, Finland",
+    "credit": "Mies Lahdesta",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eurocosplay_Desucon_2010.jpg",
+    "file": "File:Eurocosplay Desucon 2010.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Flea_market_port_of_Lahti.jpg/1280px-Flea_market_port_of_Lahti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sibelius-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 837,
+    "kind": "Interior",
+    "caption": "Interior · Flea market in Lahti harbour",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flea_market_port_of_Lahti.jpg",
+    "file": "File:Flea market port of Lahti.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "soholm-row-houses",
@@ -219158,7 +222292,47 @@ window.BUILDINGS = [
   "commons": "Category:Søholm (Strandvejen)",
   "lead": "File:Arne jacobsen, Søholm I, 1946-1950.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Arne_jacobsen%2C_S%C3%B8holm_I%2C_1946-1950.jpg/1280px-Arne_jacobsen%2C_S%C3%B8holm_I%2C_1946-1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/soholm-row-houses/thumbs/0.webp",
+    "w": 1280,
+    "h": 963,
+    "kind": "Exterior",
+    "caption": "Exterior · Søholm I settlement, Klampenborg (Copenhagen), 1946-1950",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arne_jacobsen,_S%C3%B8holm_I,_1946-1950.jpg",
+    "file": "File:Arne jacobsen, Søholm I, 1946-1950.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Jacobsen_S%C3%B8holm_I_houses.jpg/1280px-Jacobsen_S%C3%B8holm_I_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/soholm-row-houses/thumbs/1.webp",
+    "w": 1280,
+    "h": 979,
+    "kind": "Exterior",
+    "caption": "Exterior · Søholm I: the five chain houses designed by Arne Jacobsen in the late 1940s and completed in 1950",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacobsen_S%C3%B8holm_I_houses.jpg",
+    "file": "File:Jacobsen Søholm I houses.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Jacobsen_S%C3%B8holm_II_houses.jpg/1280px-Jacobsen_S%C3%B8holm_II_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/soholm-row-houses/thumbs/2.webp",
+    "w": 1280,
+    "h": 1007,
+    "kind": "Exterior",
+    "caption": "Exterior · Søholm II row houses designed by Arne Jacobsen and completed in in the late 1940s and completed in 1952",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacobsen_S%C3%B8holm_II_houses.jpg",
+    "file": "File:Jacobsen Søholm II houses.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stegastein-viewpoint",
@@ -219182,7 +222356,83 @@ window.BUILDINGS = [
   "commons": "Category:Stegastein",
   "lead": "File:Norwegia-82.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Norwegia-82.jpg/1280px-Norwegia-82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Stegastein near Aurland",
+    "credit": "Mariusz Hermansdorfer",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Norwegia-82.jpg",
+    "file": "File:Norwegia-82.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Norwegia-83.jpg/1280px-Norwegia-83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Stegastein near Aurland",
+    "credit": "Mariusz Hermansdorfer",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Norwegia-83.jpg",
+    "file": "File:Norwegia-83.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2023-07-05-Stegastein-6849.jpg/1280px-2023-07-05-Stegastein-6849.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Aussichtspunkt Stegastein",
+    "credit": "Superbass",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-07-05-Stegastein-6849.jpg",
+    "file": "File:2023-07-05-Stegastein-6849.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2023-07-05-Aurlandsfjord-6854.jpg/1280px-2023-07-05-Aurlandsfjord-6854.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Blick vom Aussichtspunkt Stegastein in den Aurlandsfjord",
+    "credit": "Superbass",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-07-05-Aurlandsfjord-6854.jpg",
+    "file": "File:2023-07-05-Aurlandsfjord-6854.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stegastein_viewpoint.jpg/1280px-Stegastein_viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · View from the Stegastein viewpoint",
+    "credit": "Guttorm Flatabø",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stegastein_viewpoint.jpg",
+    "file": "File:Stegastein viewpoint.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/View_from_Stegastein.jpg/1280px-View_from_Stegastein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stegastein-viewpoint/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · View from Stegastein, Aurland, Norway",
+    "credit": "Guttorm Flatabø",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Stegastein.jpg",
+    "file": "File:View from Stegastein.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stockholm-city-hall",
@@ -219206,7 +222456,99 @@ window.BUILDINGS = [
   "commons": "Category:Stockholm City Hall",
   "lead": "File:Stockholm Sweden Stadshuset-02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Stockholm_Sweden_Stadshuset-02.jpg/1280px-Stockholm_Sweden_Stadshuset-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Stockholm, Sweden: Stockholm City Hall",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_Sweden_Stadshuset-02.jpg",
+    "file": "File:Stockholm Sweden Stadshuset-02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/00_5245_Stockholm_-_Central_Bridge%2C_Town_Hall_tower.jpg/1280px-00_5245_Stockholm_-_Central_Bridge%2C_Town_Hall_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Stockholm: Vasabron and in the background the City Hall tower and the tower of Kungsholmen church",
+    "credit": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:00_5245_Stockholm_-_Central_Bridge,_Town_Hall_tower.jpg",
+    "file": "File:00 5245 Stockholm - Central Bridge, Town Hall tower.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stockholm_City_Hall_February_2014_02.jpg/1280px-Stockholm_City_Hall_February_2014_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · Stockholm City Hall seen from Riddarholmen ",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_City_Hall_February_2014_02.jpg",
+    "file": "File:Stockholm City Hall February 2014 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Stockholms_stadshus_February_2026_02.jpg/1280px-Stockholms_stadshus_February_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 800,
+    "kind": "Interior",
+    "caption": "Interior · Stockholms stadshus (City hall) seen from Riddarholmen",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_February_2026_02.jpg",
+    "file": "File:Stockholms stadshus February 2026 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg/1280px-Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 814,
+    "kind": "Plan",
+    "caption": "Plan · Stockholms stadshus översiktsplan våning 1 trappa, Blå hallen",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg",
+    "file": "File:Stockholms stadshus plan 1 tr Blå hallen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/7_cm_kanon_modell_1863.jpg/1280px-7_cm_kanon_modell_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Model",
+    "caption": "Model · 7 cm cannon m/1863 manufactured in Finspång, Sweden",
+    "credit": "Frankie Fouganthin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:7_cm_kanon_modell_1863.jpg",
+    "file": "File:7 cm kanon modell 1863.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Stockholms_stadshus%2C_planritning%2C_1916.jpg/1280px-Stockholms_stadshus%2C_planritning%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/6.webp",
+    "w": 1280,
+    "h": 678,
+    "kind": "Drawing",
+    "caption": "Drawing · Stockholms stadshus, ritning, bottenvåning",
+    "credit": "Ragnar Östberg (1866-1945)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus,_planritning,_1916.jpg",
+    "file": "File:Stockholms stadshus, planritning, 1916.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "viikki-church",
@@ -219230,7 +222572,83 @@ window.BUILDINGS = [
   "commons": "Category:Viikki Church",
   "lead": "File:Viikki Church in Latokartano, Viikki, Helsinki, Finland, 2022 July - 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Viikki_Church_in_Latokartano%2C_Viikki%2C_Helsinki%2C_Finland%2C_2022_July_-_2.jpg/1280px-Viikki_Church_in_Latokartano%2C_Viikki%2C_Helsinki%2C_Finland%2C_2022_July_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viikki-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Viikki Church in Latokartano, Viikki, Helsinki, Finland in 2022 July",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikki_Church_in_Latokartano,_Viikki,_Helsinki,_Finland,_2022_July_-_2.jpg",
+    "file": "File:Viikki Church in Latokartano, Viikki, Helsinki, Finland, 2022 July - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Viikin_Kirkko_-_panoramio.jpg/1280px-Viikin_Kirkko_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viikki-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Viikki Church in Helsinki, Finland",
+    "credit": "jampe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikin_Kirkko_-_panoramio.jpg",
+    "file": "File:Viikin Kirkko - panoramio.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Viikin_Kirkko_Agronominkatu_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/viikki-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Viikin Kirkko Agronominkatu",
+    "credit": "jampe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikin_Kirkko_Agronominkatu_-_panoramio.jpg",
+    "file": "File:Viikin Kirkko Agronominkatu - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Viikki_Church_in_Latokartano%2C_Viikki%2C_Helsinki%2C_Finland%2C_2022_July.jpg/1280px-Viikki_Church_in_Latokartano%2C_Viikki%2C_Helsinki%2C_Finland%2C_2022_July.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viikki-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 741,
+    "kind": "Exterior",
+    "caption": "Exterior · Viikki Church in Latokartano, Viikki, Helsinki, Finland in 2022 July",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikki_Church_in_Latokartano,_Viikki,_Helsinki,_Finland,_2022_July.jpg",
+    "file": "File:Viikki Church in Latokartano, Viikki, Helsinki, Finland, 2022 July.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Viikki_Church_interior_2023-06-23_%281%29.jpg/1280px-Viikki_Church_interior_2023-06-23_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viikki-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior · Viikin kirkko sisältä",
+    "credit": "Niera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikki_Church_interior_2023-06-23_(1).jpg",
+    "file": "File:Viikki Church interior 2023-06-23 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Viikki_Church_interior_2023-06-23_%282%29.jpg/1280px-Viikki_Church_interior_2023-06-23_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viikki-church/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Viikin kirkko sisältä",
+    "credit": "Niera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Viikki_Church_interior_2023-06-23_(2).jpg",
+    "file": "File:Viikki Church interior 2023-06-23 (2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "harlanda-church",
@@ -219254,7 +222672,71 @@ window.BUILDINGS = [
   "commons": "Category:Härlanda kyrka",
   "lead": "File:Härlanda Kyrka, Gothenburg, Sweden 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/H%C3%A4rlanda_Kyrka%2C_Gothenburg%2C_Sweden_01.jpg/1280px-H%C3%A4rlanda_Kyrka%2C_Gothenburg%2C_Sweden_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harlanda-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 906,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior of Härlanda Church in Gothenburg, Sweden",
+    "credit": "Lars Mongs, Arxfoto",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4rlanda_Kyrka,_Gothenburg,_Sweden_01.jpg",
+    "file": "File:Härlanda Kyrka, Gothenburg, Sweden 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/H%C3%A4rlanda_Kyrka%2C_Gothenburg%2C_Sweden_02.jpg/1280px-H%C3%A4rlanda_Kyrka%2C_Gothenburg%2C_Sweden_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harlanda-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 830,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior of Härlanda Church in Gothenburg, Sweden",
+    "credit": "Lars Mongs, Arxfoto",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4rlanda_Kyrka,_Gothenburg,_Sweden_02.jpg",
+    "file": "File:Härlanda Kyrka, Gothenburg, Sweden 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/H%C3%A4rlanda_kyrka_den_11_sept_2005%2C_bild_1..JPG/1280px-H%C3%A4rlanda_kyrka_den_11_sept_2005%2C_bild_1..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harlanda-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Härlanda kyrka i Göteborg den 11 september 2005",
+    "credit": "User  Västgöten  on  sv.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4rlanda_kyrka_den_11_sept_2005,_bild_1..JPG",
+    "file": "File:Härlanda kyrka den 11 sept 2005, bild 1..JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%A4rlanda_kyrka_den_11_sept_2005%2C_bild_3..JPG/1280px-H%C3%A4rlanda_kyrka_den_11_sept_2005%2C_bild_3..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harlanda-church/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Härlanda kyrka i Göteborg den 11 september 2005",
+    "credit": "User  Västgöten  on  sv.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4rlanda_kyrka_den_11_sept_2005,_bild_3..JPG",
+    "file": "File:Härlanda kyrka den 11 sept 2005, bild 3..JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/H%C3%A4rlanda_Kyrka%2C_interi%C3%B6r_01.jpg/1280px-H%C3%A4rlanda_Kyrka%2C_interi%C3%B6r_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harlanda-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Interior image of Härlanda Church in Gothenburg, Sweden",
+    "credit": "Lars Mongs, Arxfoto",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4rlanda_Kyrka,_interi%C3%B6r_01.jpg",
+    "file": "File:Härlanda Kyrka, interiör 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "universeum",
@@ -219278,7 +222760,83 @@ window.BUILDINGS = [
   "commons": "Category:Universeum",
   "lead": "File:Goteborg Universeum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Goteborg_Universeum.jpg/1280px-Goteborg_Universeum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Gothenburg - Universeum",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goteborg_Universeum.jpg",
+    "file": "File:Goteborg Universeum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gothenburg_IMG_3104_universeum_liseberg.jpg/1280px-Gothenburg_IMG_3104_universeum_liseberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/1.webp",
+    "w": 1280,
+    "h": 754,
+    "kind": "Exterior",
+    "caption": "Exterior · Image from the Central-eastern part of Gothenburg, Sweden",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gothenburg_IMG_3104_universeum_liseberg.jpg",
+    "file": "File:Gothenburg IMG 3104 universeum liseberg.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Universeum2.JPG/1280px-Universeum2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Universeum science centre, Gothenburg, Sweden",
+    "credit": "Erik031",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Universeum2.JPG",
+    "file": "File:Universeum2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Monkey_in_Universeum_%2816510506213%29.jpg/1280px-Monkey_in_Universeum_%2816510506213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A monkey at \"Universeum\" in Gothenburg, Sweden",
+    "credit": "fredrik Andreasson  from Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monkey_in_Universeum_(16510506213).jpg",
+    "file": "File:Monkey in Universeum (16510506213).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/A_path_inside_the_rainforest_exhibit_at_Universeum%2C_Gothenburg%2C_Sweden.jpg/1280px-A_path_inside_the_rainforest_exhibit_at_Universeum%2C_Gothenburg%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inne i regnskogen på Universeum i Göteborg",
+    "credit": "Gldnjsyektlhliekr",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_path_inside_the_rainforest_exhibit_at_Universeum,_Gothenburg,_Sweden.jpg",
+    "file": "File:A path inside the rainforest exhibit at Universeum, Gothenburg, Sweden.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Inside_the_rainforest_exhibit_at_Universeum%2C_Gothenburg%2C_Sweden.jpg/1280px-Inside_the_rainforest_exhibit_at_Universeum%2C_Gothenburg%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/universeum/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inne i regnskogen på Universeum i Göteborg",
+    "credit": "Gldnjsyektlhliekr",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_rainforest_exhibit_at_Universeum,_Gothenburg,_Sweden.jpg",
+    "file": "File:Inside the rainforest exhibit at Universeum, Gothenburg, Sweden.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "helsinki-olympic-stadium",
@@ -219302,7 +222860,83 @@ window.BUILDINGS = [
   "commons": "Category:Helsinki Olympic Stadium",
   "lead": "File:Helsinki Olympic Stadium in Taka-Töölö, Helsinki, Finland, 2026 July.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Helsinki_Olympic_Stadium_in_Taka-T%C3%B6%C3%B6l%C3%B6%2C_Helsinki%2C_Finland%2C_2026_July.jpg/1280px-Helsinki_Olympic_Stadium_in_Taka-T%C3%B6%C3%B6l%C3%B6%2C_Helsinki%2C_Finland%2C_2026_July.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsinki Olympic Stadium in Taka-Töölö, Helsinki, Finland in 2026 July",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Olympic_Stadium_in_Taka-T%C3%B6%C3%B6l%C3%B6,_Helsinki,_Finland,_2026_July.jpg",
+    "file": "File:Helsinki Olympic Stadium in Taka-Töölö, Helsinki, Finland, 2026 July.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Olympic_stadium_of_Helsinki_in_1930%27s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/1.webp",
+    "w": 1217,
+    "h": 805,
+    "kind": "Exterior",
+    "caption": "Exterior · Olympic stadium of Helsinki in 1938",
+    "credit": "Unknown author Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympic_stadium_of_Helsinki_in_1930%27s.jpg",
+    "file": "File:Olympic stadium of Helsinki in 1930's.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Olympic_Stadium_-_Helsinki_%282023%29.jpg/1280px-Olympic_Stadium_-_Helsinki_%282023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/2.webp",
+    "w": 1280,
+    "h": 856,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsinki, Finland",
+    "credit": "Haydn Blackey",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympic_Stadium_-_Helsinki_(2023).jpg",
+    "file": "File:Olympic Stadium - Helsinki (2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Helsinki_Olympic_Stadium_Tower.jpg/1280px-Helsinki_Olympic_Stadium_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/3.webp",
+    "w": 869,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsinki Olympic Stadium Tower",
+    "credit": "Óðinn",
+    "license": "CC BY-SA 2.5 ca",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Olympic_Stadium_Tower.jpg",
+    "file": "File:Helsinki Olympic Stadium Tower.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Helsinki_Stadium_Tower_stairs.jpg/1280px-Helsinki_Stadium_Tower_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Stairs of the tower of Helsinki Olympic Stadion",
+    "credit": "drz image",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Stadium_Tower_stairs.jpg",
+    "file": "File:Helsinki Stadium Tower stairs.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Helsinki_Stadion_ravintola.jpg/1280px-Helsinki_Stadion_ravintola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsinki-olympic-stadium/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsinki_Stadion_ravintola.jpg",
+    "file": "File:Helsinki Stadion ravintola.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "helsingborg-concert-hall",
@@ -219326,7 +222960,83 @@ window.BUILDINGS = [
   "commons": "Category:Helsingborgs konserthus",
   "lead": "File:Helsingborgs konserthus 2013-05-18.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Helsingborgs_konserthus_2013-05-18.jpg/1280px-Helsingborgs_konserthus_2013-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 688,
+    "kind": "Interior",
+    "caption": "Interior · Helsingborg Concert Hall by Sven Markelius",
+    "credit": "Jsdo1980",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsingborgs_konserthus_2013-05-18.jpg",
+    "file": "File:Helsingborgs konserthus 2013-05-18.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Helsingborgs_konserthus_1.jpg/1280px-Helsingborgs_konserthus_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsingborgs konserthus från Henry Dunkers plats",
+    "credit": "Jsdo1980",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsingborgs_konserthus_1.jpg",
+    "file": "File:Helsingborgs konserthus 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Helsingborgs_konserthus_ARKM.1962-101-0331b.jpg/1280px-Helsingborgs_konserthus_ARKM.1962-101-0331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 875,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsingborgs konserthus sett från Roskildegatan",
+    "credit": "Wiking",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsingborgs_konserthus_ARKM.1962-101-0331b.jpg",
+    "file": "File:Helsingborgs konserthus ARKM.1962-101-0331b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Helsingborgs_konserthus_Exteri%C3%B6r._ArkDes_ARKM.1962-101-0331b.jpg/1280px-Helsingborgs_konserthus_Exteri%C3%B6r._ArkDes_ARKM.1962-101-0331b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 875,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wiking",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Helsingborgs_konserthus_Exteri%C3%B6r._ArkDes_ARKM.1962-101-0331b.jpg",
+    "file": "File:Helsingborgs konserthus Exteriör. ArkDes ARKM.1962-101-0331b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Jubileumskonsert_162.jpg/1280px-Jubileumskonsert_162.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Helsingborgs konserthus",
+    "credit": "Helsingborgs Konserhus",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jubileumskonsert_162.jpg",
+    "file": "File:Jubileumskonsert 162.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jubileumskonsert_2012-02-16_01.jpg/1280px-Jubileumskonsert_2012-02-16_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/helsingborg-concert-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Helsingborgs konserhus",
+    "credit": "Helsingborgs Konserhus",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jubileumskonsert_2012-02-16_01.jpg",
+    "file": "File:Jubileumskonsert 2012-02-16 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kuokkala-church",
@@ -219350,7 +223060,59 @@ window.BUILDINGS = [
   "commons": "Category:Kuokkala Church",
   "lead": "File:Kuokkala Church 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kuokkala_Church_2.jpg/1280px-Kuokkala_Church_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuokkala-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kuokkala Church in Jyväskylä, Finland",
+    "credit": "Antti Leppänen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuokkala_Church_2.jpg",
+    "file": "File:Kuokkala Church 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Kuokkalan_kirkko.jpg/1280px-Kuokkalan_kirkko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuokkala-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Exterior",
+    "caption": "Exterior · Kuokkala Church in Jyväskylä, Finland",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuokkalan_kirkko.jpg",
+    "file": "File:Kuokkalan kirkko.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kuokkalan_Kirkko.jpg/1280px-Kuokkalan_Kirkko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuokkala-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 680,
+    "kind": "Exterior",
+    "caption": "Exterior · Kuokkala Church in Jyväskylä, Finland",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuokkalan_Kirkko.jpg",
+    "file": "File:Kuokkalan Kirkko.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Kuokkala_Church_2017.jpg/1280px-Kuokkala_Church_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuokkala-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 642,
+    "kind": "Exterior",
+    "caption": "Exterior · Kuokkala Church, Jyväskylä",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuokkala_Church_2017.jpg",
+    "file": "File:Kuokkala Church 2017.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lieksa-church",
@@ -219374,7 +223136,83 @@ window.BUILDINGS = [
   "commons": "Category:Lieksa Church",
   "lead": "File:Lieksan kirkko (14821753598).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lieksa_Church_in_August_2025.jpg/1280px-Lieksa_Church_in_August_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · An exterior view of the Lieksa Church in central Lieksa, Finland on an afternoon in August 2025",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lieksa_Church_in_August_2025.jpg",
+    "file": "File:Lieksa Church in August 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Kellotapuli_kirkkopuistossa.jpg/1280px-Kellotapuli_kirkkopuistossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/1.webp",
+    "w": 1194,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Pielisjärvi bell tower' (Q55025742)",
+    "credit": "Sally2018",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kellotapuli_kirkkopuistossa.jpg",
+    "file": "File:Kellotapuli kirkkopuistossa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bell_tower_of_Lieksa_Church_in_August_2025.jpg/1280px-Bell_tower_of_Lieksa_Church_in_August_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bell_tower_of_Lieksa_Church_in_August_2025.jpg",
+    "file": "File:Bell tower of Lieksa Church in August 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pielisj%C3%A4rven_tapuli.jpg/1280px-Pielisj%C3%A4rven_tapuli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/3.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Pielisjärvi bell tower' (Q55025742)",
+    "credit": "Antonremez",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pielisj%C3%A4rven_tapuli.jpg",
+    "file": "File:Pielisjärven tapuli.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lieksan_kirkko_%2815007998062%29.jpg/1280px-Lieksan_kirkko_%2815007998062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Lieksa Church in Lieksa, Finland, was designed by architects Raili and Reima Pietilä, and completed in 1982",
+    "credit": "Anni Vartola  from Helsinki, Finland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lieksan_kirkko_(15007998062).jpg",
+    "file": "File:Lieksan kirkko (15007998062).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Lieksan_kirkko_%2815008001212%29.jpg/1280px-Lieksan_kirkko_%2815008001212%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lieksa-church/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Lieksa Church in Lieksa, Finland, was designed by architects Raili and Reima Pietilä, and completed in 1982",
+    "credit": "Anni Vartola  from Helsinki, Finland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lieksan_kirkko_(15008001212).jpg",
+    "file": "File:Lieksan kirkko (15008001212).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lister-county-courthouse",
@@ -219398,7 +223236,59 @@ window.BUILDINGS = [
   "commons": "Category:Listers härads tingshus, Sölvesborg",
   "lead": "File:Listers härads tingshus i Sölvesborg - 2.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2.JPG/1280px-Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lister-county-courthouse/thumbs/0.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Listers härads tingshus i Sölvesborg",
+    "credit": "Arnaud Contet",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2.JPG",
+    "file": "File:Listers härads tingshus i Sölvesborg - 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_11.jpg/1280px-Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lister-county-courthouse/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Listers härads tingshus i Sölvesborg",
+    "credit": "Myskmadra",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_11.jpg",
+    "file": "File:Listers härads tingshus i Sölvesborg - 2024-08-20 - Bild 11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_10.jpg/1280px-Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lister-county-courthouse/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Listers härads tingshus i Sölvesborg",
+    "credit": "Myskmadra",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Listers_h%C3%A4rads_tingshus_i_S%C3%B6lvesborg_-_2024-08-20_-_Bild_10.jpg",
+    "file": "File:Listers härads tingshus i Sölvesborg - 2024-08-20 - Bild 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/S%C3%B6lvesborg_tingshuset.JPG/1280px-S%C3%B6lvesborg_tingshuset.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lister-county-courthouse/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Sölvesborg: Lister härads tingsrätt, by Gunnar Asplund 1919-21",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%B6lvesborg_tingshuset.JPG",
+    "file": "File:Sölvesborg tingshuset.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "loyly-helsinki",
@@ -219422,7 +223312,83 @@ window.BUILDINGS = [
   "commons": "Category:Löyly",
   "lead": "File:Löyly Helsinki 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/L%C3%B6yly_Helsinki_2.jpg/1280px-L%C3%B6yly_Helsinki_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Löyly -saunakompleksi Helsingin Hernesaaressa kesäkuussa 2016",
+    "credit": "Lasse Keskinen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%B6yly_Helsinki_2.jpg",
+    "file": "File:Löyly Helsinki 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/L%C3%B6yly_Helsinki_2023_%28202326%3B%2BG72161%29.jpg/1280px-L%C3%B6yly_Helsinki_2023_%28202326%3B%2BG72161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Moderni merenrantasauna, jossa on lasiseinäinen ravintola ja kattoterassi, jolta näkee kauas merelle",
+    "credit": "Pekka Vyhtinen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%B6yly_Helsinki_2023_(202326;%2BG72161).jpg",
+    "file": "File:Löyly Helsinki 2023 (202326;+G72161).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2018_IMG_6749_Helsinki_%2827299755630%29.jpg/1280px-2018_IMG_6749_Helsinki_%2827299755630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/2.webp",
+    "w": 1280,
+    "h": 824,
+    "kind": "Exterior",
+    "caption": "Exterior · Helsinki, Restaurant Löyly",
+    "credit": "Ninara  from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_IMG_6749_Helsinki_(27299755630).jpg",
+    "file": "File:2018 IMG 6749 Helsinki (27299755630).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Eira_from_L%C3%B6yly_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May.jpg/1280px-Eira_from_L%C3%B6yly_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A view towards Eira from the public sauna Löyly in Hernesaari, Helsinki, Finland in 2022 May",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eira_from_L%C3%B6yly_in_Hernesaari,_Helsinki,_Finland,_2022_May.jpg",
+    "file": "File:Eira from Löyly in Hernesaari, Helsinki, Finland, 2022 May.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/L%C3%B6yly_-saunan_ravintola_01.jpg/1280px-L%C3%B6yly_-saunan_ravintola_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Helsingin Hernesaaressa sijaitsevan Löyly -saunakompleksin ravintola",
+    "credit": "Lasse Keskinen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%B6yly_-saunan_ravintola_01.jpg",
+    "file": "File:Löyly -saunan ravintola 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Workout_and_padel_in_Pyh%C3%A4n_Birgitan_puisto_at_Hernesaarenranta_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May.jpg/1280px-Workout_and_padel_in_Pyh%C3%A4n_Birgitan_puisto_at_Hernesaarenranta_in_Hernesaari%2C_Helsinki%2C_Finland%2C_2022_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/loyly-helsinki/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · View towards Pyhän Birgitan puisto park at Hernesaarenranta in Hernesaari, Helsinki, Finland in 2022 May",
+    "credit": "Ximonic  (Simo Räsänen)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Workout_and_padel_in_Pyh%C3%A4n_Birgitan_puisto_at_Hernesaarenranta_in_Hernesaari,_Helsinki,_Finland,_2022_May.jpg",
+    "file": "File:Workout and padel in Pyhän Birgitan puisto at Hernesaarenranta in Hernesaari, Helsinki, Finland, 2022 May.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lund-konsthall",
@@ -219446,7 +223412,59 @@ window.BUILDINGS = [
   "commons": "Category:Lunds konsthall",
   "lead": "File:Klas Anshelm 1957 Lunds konsthall 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Klas_Anshelm_1957_Lunds_konsthall_01.jpg/1280px-Klas_Anshelm_1957_Lunds_konsthall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lund-konsthall/thumbs/0.webp",
+    "w": 1280,
+    "h": 874,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Aiert Buruaga  aka Aiert on Flickr, please inform author of usage outside of Wikipedia at  mailto:ai",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Klas_Anshelm_1957_Lunds_konsthall_01.jpg",
+    "file": "File:Klas Anshelm 1957 Lunds konsthall 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Lunds_konsthall_05.JPG/1280px-Lunds_konsthall_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lund-konsthall/thumbs/1.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Interior",
+    "caption": "Interior · Lunds konsthall",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunds_konsthall_05.JPG",
+    "file": "File:Lunds konsthall 05.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Lunds_konsthall_interior.JPG/1280px-Lunds_konsthall_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lund-konsthall/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Interior",
+    "caption": "Interior · Interiör från Lunds Konsthall",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunds_konsthall_interior.JPG",
+    "file": "File:Lunds konsthall interior.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Klas_Anshelm_1957_Lunds_konsthall_02.jpg/1280px-Klas_Anshelm_1957_Lunds_konsthall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lund-konsthall/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior · Internal view of Lund kunsthall",
+    "credit": "Aiert Buruaga  aka Aiert on Flickr, please inform author of usage outside of Wikipedia at  mailto:ai",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Klas_Anshelm_1957_Lunds_konsthall_02.jpg",
+    "file": "File:Klas Anshelm 1957 Lunds konsthall 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "riksbank-building-stockholm",
@@ -219470,7 +223488,83 @@ window.BUILDINGS = [
   "commons": "Category:Riksbankshuset, Stockholm",
   "lead": "File:Brunkebergstorg, Riksbankens hus, 2020.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Brunkebergstorg%2C_Riksbankens_hus%2C_2020.jpg/1280px-Brunkebergstorg%2C_Riksbankens_hus%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/0.webp",
+    "w": 1280,
+    "h": 897,
+    "kind": "Exterior",
+    "caption": "Exterior · Brunkebergstorg med Riksbankens hus",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunkebergstorg,_Riksbankens_hus,_2020.jpg",
+    "file": "File:Brunkebergstorg, Riksbankens hus, 2020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Brunkebergstorg%2C_aug_2020c.jpg/1280px-Brunkebergstorg%2C_aug_2020c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/1.webp",
+    "w": 1280,
+    "h": 933,
+    "kind": "Exterior",
+    "caption": "Exterior · Brunkebergstorg norrut",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunkebergstorg,_aug_2020c.jpg",
+    "file": "File:Brunkebergstorg, aug 2020c.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Riksbankshuset_01.JPG/1280px-Riksbankshuset_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/2.webp",
+    "w": 1280,
+    "h": 937,
+    "kind": "Exterior",
+    "caption": "Exterior · Riksbankshuset, fotograferat från byggställning utanför Malmtorgsgatan 6, april 2016",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Riksbankshuset_01.JPG",
+    "file": "File:Riksbankshuset 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Brunkebergstorg_mars_2016.jpg/1280px-Brunkebergstorg_mars_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · The square Brunkebergstorg in Stockholm",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brunkebergstorg_mars_2016.jpg",
+    "file": "File:Brunkebergstorg mars 2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Konst_p%C3%A5_Brunkebergstorg_Medalj_1_av_5_till_minne_av_slaget_om_Brunkeberg.jpg/1280px-Konst_p%C3%A5_Brunkebergstorg_Medalj_1_av_5_till_minne_av_slaget_om_Brunkeberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · I trottoaren utanför Riksbanken",
+    "credit": "Jan R Eriksson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konst_p%C3%A5_Brunkebergstorg_Medalj_1_av_5_till_minne_av_slaget_om_Brunkeberg.jpg",
+    "file": "File:Konst på Brunkebergstorg Medalj 1 av 5 till minne av slaget om Brunkeberg.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Samlingsbild_av_alla_5_medaljerna.jpg/1280px-Samlingsbild_av_alla_5_medaljerna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/riksbank-building-stockholm/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Slaget vid Brunkeberg",
+    "credit": "Jan R Eriksson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Samlingsbild_av_alla_5_medaljerna.jpg",
+    "file": "File:Samlingsbild av alla 5 medaljerna.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-henrys-ecumenical-art-chapel",
@@ -219494,7 +223588,83 @@ window.BUILDINGS = [
   "commons": "Category:Ecumenical Art Chapel of St. Henry",
   "lead": "File:Pyhän Henrikin ekumeeninen taidekappeli 2013 01.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Pyh%C3%A4n_Henrikin_ekumeeninen_taidekappeli_2013_01.JPG/1280px-Pyh%C3%A4n_Henrikin_ekumeeninen_taidekappeli_2013_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Ecumenical Art Chapel of St",
+    "credit": "MKFI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyh%C3%A4n_Henrikin_ekumeeninen_taidekappeli_2013_01.JPG",
+    "file": "File:Pyhän Henrikin ekumeeninen taidekappeli 2013 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ecumenical_Art_Chapel_of_St._Henry_out.jpg/1280px-Ecumenical_Art_Chapel_of_St._Henry_out.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Ecumenical Art Chapel of St",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ecumenical_Art_Chapel_of_St._Henry_out.jpg",
+    "file": "File:Ecumenical Art Chapel of St. Henry out.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Konstkapellet_i_%C3%85bo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/2.webp",
+    "w": 1072,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sankt Henriks ekumeniska konstkapell i Åbo, Finland",
+    "credit": "Jaakko.kulta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konstkapellet_i_%C3%85bo.jpg",
+    "file": "File:Konstkapellet i Åbo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappeli_ikkuna.jpg/1280px-Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappeli_ikkuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Window of Ecumenical Art Chapel of St",
+    "credit": "Stefan Flöper",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappeli_ikkuna.jpg",
+    "file": "File:Pyhän Henrikin ekumeeninen taipekappeli ikkuna.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappelin_alttari.jpg/1280px-Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappelin_alttari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Altar of Ecumenical Art Chapel of St",
+    "credit": "Stefan Flöper",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyh%C3%A4n_Henrikin_ekumeeninen_taipekappelin_alttari.jpg",
+    "file": "File:Pyhän Henrikin ekumeeninen taipekappelin alttari.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ecumenical_Art_Chapel_of_St._Henry_in_2.jpg/1280px-Ecumenical_Art_Chapel_of_St._Henry_in_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-henrys-ecumenical-art-chapel/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Ecumenical Art Chapel of St",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ecumenical_Art_Chapel_of_St._Henry_in_2.jpg",
+    "file": "File:Ecumenical Art Chapel of St. Henry in 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "akureyrarkirkja",
@@ -219518,7 +223688,71 @@ window.BUILDINGS = [
   "commons": "Category:Akureyrarkirkja",
   "lead": "File:Akureyrarkirkja - panoramio (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Akureyrarkirkja_-_panoramio_%281%29.jpg/1280px-Akureyrarkirkja_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akureyrarkirkja/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jon Gretarsson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akureyrarkirkja_-_panoramio_(1).jpg",
+    "file": "File:Akureyrarkirkja - panoramio (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Akureyrarkirkja_01.jpg/1280px-Akureyrarkirkja_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akureyrarkirkja/thumbs/1.webp",
+    "w": 1280,
+    "h": 847,
+    "kind": "Exterior",
+    "caption": "Exterior · The church Akureyrarkirkja in Akureyri in Iceland",
+    "credit": "Spike",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akureyrarkirkja_01.jpg",
+    "file": "File:Akureyrarkirkja 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Akureyrarkirkja_-_panoramio_%282%29.jpg/1280px-Akureyrarkirkja_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akureyrarkirkja/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jon Gretarsson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akureyrarkirkja_-_panoramio_(2).jpg",
+    "file": "File:Akureyrarkirkja - panoramio (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Church_and_rainbow_in_Akureyri.jpg/1280px-Church_and_rainbow_in_Akureyri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akureyrarkirkja/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · church and rainbow in Akureyri",
+    "credit": "Villy Fink Isaksen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_and_rainbow_in_Akureyri.jpg",
+    "file": "File:Church and rainbow in Akureyri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Interno_chiesa_akureyri.JPG/1280px-Interno_chiesa_akureyri.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akureyrarkirkja/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · interno della Akureyrarkirkja",
+    "credit": "Cappo80",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Interno_chiesa_akureyri.JPG",
+    "file": "File:Interno chiesa akureyri.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "deichman-bjorvika",
@@ -219542,7 +223776,83 @@ window.BUILDINGS = [
   "commons": "Category:Deichman Bjørvika",
   "lead": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._02.jpg/1280px-2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/0.webp",
+    "w": 1280,
+    "h": 773,
+    "kind": "Exterior",
+    "caption": "Exterior · In 1785 the Deichmanske library was foundet",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._02.jpg",
+    "file": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._03.jpg/1280px-2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/1.webp",
+    "w": 1280,
+    "h": 689,
+    "kind": "Exterior",
+    "caption": "Exterior · In 1785 the Deichmanske library was foundet",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_neben_dem_Opernhaus_er%C3%B6ffnet._03.jpg",
+    "file": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_nahe_dem_Opernhaus_er%C3%B6ffnet._01.jpg/1280px-2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_nahe_dem_Opernhaus_er%C3%B6ffnet._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/2.webp",
+    "w": 1280,
+    "h": 786,
+    "kind": "Exterior",
+    "caption": "Exterior · In 1785 the Deichmanske library was foundet",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_wurde_das_neue_Bibliotheksgeb%C3%A4ude_nahe_dem_Opernhaus_er%C3%B6ffnet._01.jpg",
+    "file": "File:2020 wurde das neue Bibliotheksgebäude nahe dem Opernhaus eröffnet. 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Anne_Cath_Vestlys_plass_i_kveldslys_med_Deichman_og_Operaen.jpg/1280px-Anne_Cath_Vestlys_plass_i_kveldslys_med_Deichman_og_Operaen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/3.webp",
+    "w": 1280,
+    "h": 802,
+    "kind": "Exterior",
+    "caption": "Exterior · Anne Cath Vestlys plass i kveldslys med Deichman og Operaen",
+    "credit": "Helge Høifødt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anne_Cath_Vestlys_plass_i_kveldslys_med_Deichman_og_Operaen.jpg",
+    "file": "File:Anne Cath Vestlys plass i kveldslys med Deichman og Operaen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2025-09-26-Deichmanske-bibliotek-4.jpg/1280px-2025-09-26-Deichmanske-bibliotek-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/4.webp",
+    "w": 1280,
+    "h": 859,
+    "kind": "Interior",
+    "caption": "Interior · Deichmanske bibliotek, Anne-Cath",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-09-26-Deichmanske-bibliotek-4.jpg",
+    "file": "File:2025-09-26-Deichmanske-bibliotek-4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2025-09-26-Deichmanske-bibliotek-3.jpg/1280px-2025-09-26-Deichmanske-bibliotek-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deichman-bjorvika/thumbs/5.webp",
+    "w": 1280,
+    "h": 798,
+    "kind": "Interior",
+    "caption": "Interior · Deichmanske bibliotek, Anne-Cath",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025-09-26-Deichmanske-bibliotek-3.jpg",
+    "file": "File:2025-09-26-Deichmanske-bibliotek-3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dokk1",
@@ -219566,7 +223876,83 @@ window.BUILDINGS = [
   "commons": "Category:DOKK1",
   "lead": "File:2015-06-30 Aarhus Dokk1 Bibliothek.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2015-06-30_Aarhus_Dokk1_Bibliothek.jpg/1280px-2015-06-30_Aarhus_Dokk1_Bibliothek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Aarhus, Dokk1-Skandinaviens größte Bibliothek",
+    "credit": "Eduard47",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015-06-30_Aarhus_Dokk1_Bibliothek.jpg",
+    "file": "File:2015-06-30 Aarhus Dokk1 Bibliothek.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg/1280px-Drone_photo_of_Dokk1_in_Aarhus%2C_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/1.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Context",
+    "caption": "Context · Drone photo of Dokk1 in aarhus, Denmark",
+    "credit": "SmartDrones Aarhus",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Drone_photo_of_Dokk1_in_Aarhus,_Denmark.jpg",
+    "file": "File:Drone photo of Dokk1 in Aarhus, Denmark.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Dokk1_-_01.JPG/1280px-Dokk1_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "RhinoMind",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dokk1_-_01.JPG",
+    "file": "File:Dokk1 - 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Dokk1_version_3.jpg/1280px-Dokk1_version_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/3.webp",
+    "w": 1280,
+    "h": 546,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dokk1_version_3.jpg",
+    "file": "File:Dokk1 version 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/A_tram_approaching_Dokk1%2C_Aarhus.jpg/1280px-A_tram_approaching_Dokk1%2C_Aarhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Tram unit 1201 as Line 2 approaching Dokk1, Aarhus",
+    "credit": "Liberaler Humanist",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_tram_approaching_Dokk1,_Aarhus.jpg",
+    "file": "File:A tram approaching Dokk1, Aarhus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Letbanens_gennemk%C3%B8rsel_gennem_Dokk1.jpg/1280px-Letbanens_gennemk%C3%B8rsel_gennem_Dokk1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dokk1/thumbs/5.webp",
+    "w": 1280,
+    "h": 984,
+    "kind": "Interior",
+    "caption": "Interior · Tramway passage through Dokk1",
+    "credit": "Villy Fink Isaksen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Letbanens_gennemk%C3%B8rsel_gennem_Dokk1.jpg",
+    "file": "File:Letbanens gennemkørsel gennem Dokk1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gothenburg-concert-hall",
@@ -219590,7 +223976,83 @@ window.BUILDINGS = [
   "commons": "Category:Göteborgs konserthus",
   "lead": "File:At Göteborg 2026 0128.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/At_G%C3%B6teborg_2026_0128.jpg/1280px-At_G%C3%B6teborg_2026_0128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_G%C3%B6teborg_2026_0128.jpg",
+    "file": "File:At Göteborg 2026 0128.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/At_G%C3%B6teborg_2026_0160.jpg/1280px-At_G%C3%B6teborg_2026_0160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_G%C3%B6teborg_2026_0160.jpg",
+    "file": "File:At Göteborg 2026 0160.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Goteborg_sala_koncertowa.jpg/1280px-Goteborg_sala_koncertowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Gothenburg - Concert Hall",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goteborg_sala_koncertowa.jpg",
+    "file": "File:Goteborg sala koncertowa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/2019-04-16-06h45m51.jpg/1280px-2019-04-16-06h45m51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/3.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The statue of poseidon in Göteborg",
+    "credit": "Pasi Mammela",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-04-16-06h45m51.jpg",
+    "file": "File:2019-04-16-06h45m51.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Carl_Milles%2C_fontana_di_Poseidone%2C_1931%2C_01.jpg/1280px-Carl_Milles%2C_fontana_di_Poseidone%2C_1931%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 940,
+    "kind": "Exterior",
+    "caption": "Exterior · Monuments and memorials in Göteborg",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carl_Milles,_fontana_di_Poseidone,_1931,_01.jpg",
+    "file": "File:Carl Milles, fontana di Poseidone, 1931, 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_photo_of_Gothenburg_2013-10-27_230.jpg/1280px-Aerial_photo_of_Gothenburg_2013-10-27_230.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-concert-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Context",
+    "caption": "Context · Photo taken on a helicopter over Gothenburg",
+    "credit": "Averater",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_Gothenburg_2013-10-27_230.jpg",
+    "file": "File:Aerial photo of Gothenburg 2013-10-27 230.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gothenburg-law-courts-extension",
@@ -219614,7 +224076,83 @@ window.BUILDINGS = [
   "commons": "Category:Göteborgs rådhusannexet",
   "lead": "File:Asplund fachada.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Asplund_fachada.jpg/1280px-Asplund_fachada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The extension of the Gothenburg City Hall, design by Erik Gunnar Asplund",
+    "credit": "pruxo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asplund_fachada.jpg",
+    "file": "File:Asplund fachada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Gothenburgcourt.JPG/1280px-Gothenburgcourt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Photographer: Erik of Gothenburg, EVL",
+    "credit": "No machine-readable author provided.  Erik031~commonswiki  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gothenburgcourt.JPG",
+    "file": "File:Gothenburgcourt.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Radhuset_Gbg_med_tillbyggnad.jpg/1280px-Radhuset_Gbg_med_tillbyggnad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Rådhuset\", a house at Gustav Adolfs torg in Göteborg containing parts of the district court",
+    "credit": "Rolf Broberg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Radhuset_Gbg_med_tillbyggnad.jpg",
+    "file": "File:Radhuset Gbg med tillbyggnad.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/G%C3%B6teborgs_R%C3%A5dhus_%2815207658508%29.jpg/1280px-G%C3%B6teborgs_R%C3%A5dhus_%2815207658508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Göteborgs Rådhus",
+    "credit": "Tony Webster  from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%B6teborgs_R%C3%A5dhus_(15207658508).jpg",
+    "file": "File:Göteborgs Rådhus (15207658508).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Radhuset_Gbg_med_tillbyggnad_crop.jpg/1280px-Radhuset_Gbg_med_tillbyggnad_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/4.webp",
+    "w": 1280,
+    "h": 687,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Rådhuset\", a house at Gustav Adolfs torg in Göteborg containing parts of the district court",
+    "credit": "Rolf Broberg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Radhuset_Gbg_med_tillbyggnad_crop.jpg",
+    "file": "File:Radhuset Gbg med tillbyggnad crop.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gothenburg%27s_city_hall.jpg/1280px-Gothenburg%27s_city_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gothenburg-law-courts-extension/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Gothenburg's city hall",
+    "credit": "pruxo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gothenburg%27s_city_hall.jpg",
+    "file": "File:Gothenburg's city hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hornbaekhus",
@@ -219638,7 +224176,83 @@ window.BUILDINGS = [
   "commons": "Category:Hornbækhus",
   "lead": "File:Hornbækhus 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Hornb%C3%A6khus_02.jpg/1280px-Hornb%C3%A6khus_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hornbækhus on Borups Allé in Copenhagen, Denmark",
+    "credit": "Ramblersen2",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hornb%C3%A6khus_02.jpg",
+    "file": "File:Hornbækhus 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Hornb%C3%A6khus_03.jpg/1280px-Hornb%C3%A6khus_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hornbækhus on Borups Allé in Copenhagen, Denmark",
+    "credit": "Ramblersen2",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hornb%C3%A6khus_03.jpg",
+    "file": "File:Hornbækhus 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/G%C3%A5rdrummet%2C_Hornb%C3%A6khus.jpg/1280px-G%C3%A5rdrummet%2C_Hornb%C3%A6khus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/2.webp",
+    "w": 1280,
+    "h": 1267,
+    "kind": "Exterior",
+    "caption": "Exterior · Gårdrummet, Hornbækhus, Nørrebro, København",
+    "credit": "Mogens Falk-Sørensen, Stadsarkivets fotografiske Atelier",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%A5rdrummet,_Hornb%C3%A6khus.jpg",
+    "file": "File:Gårdrummet, Hornbækhus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/National_cykelrute_2_p%C3%A5_%C3%85gade_03.jpg/1280px-National_cykelrute_2_p%C3%A5_%C3%85gade_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The national cycling route 2 between Copenhagen and Hanstholm on Ågade in Nørrebro in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_cykelrute_2_p%C3%A5_%C3%85gade_03.jpg",
+    "file": "File:National cykelrute 2 på Ågade 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hornb%C3%A6khus_-_door_01.jpg/1280px-Hornb%C3%A6khus_-_door_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Ramblersen2",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hornb%C3%A6khus_-_door_01.jpg",
+    "file": "File:Hornbækhus - door 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Hornb%C3%A6kgade.jpg/1280px-Hornb%C3%A6kgade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hornbaekhus/thumbs/5.webp",
+    "w": 1280,
+    "h": 947,
+    "kind": "Context",
+    "caption": "Context · The street Hornbækgade in Nørrebro in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hornb%C3%A6kgade.jpg",
+    "file": "File:Hornbækgade.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "orestad-gymnasium",
@@ -219662,7 +224276,47 @@ window.BUILDINGS = [
   "commons": "Category:Ørestad Gymnasium",
   "lead": "File:Ørestad Gymnasium.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/%C3%98restad_Gymnasium.JPG/1280px-%C3%98restad_Gymnasium.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/orestad-gymnasium/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Palnatoke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%98restad_Gymnasium.JPG",
+    "file": "File:Ørestad Gymnasium.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%C3%98restad_Gymnasium_-_detail.jpg/1280px-%C3%98restad_Gymnasium_-_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/orestad-gymnasium/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the facade of Ørestad Gymnasium in Copenhagen, Denmark",
+    "credit": "animal alex",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%98restad_Gymnasium_-_detail.jpg",
+    "file": "File:Ørestad Gymnasium - detail.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%98restad_Gymnasium_-_inside_%282016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/orestad-gymnasium/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Oerestad Gymnasium from the inside",
+    "credit": "User:Dawm",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%98restad_Gymnasium_-_inside_(2016).jpg",
+    "file": "File:Ørestad Gymnasium - inside (2016).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "icefjord-centre-ilulissat",
@@ -219686,7 +224340,35 @@ window.BUILDINGS = [
   "commons": "Category:Ilulissat Icefjord Centre",
   "lead": "File:Ilulissat Isfjordscenter, Greenland (54067577094).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ilulissat_Isfjordscenter%2C_Greenland_%2854067577094%29.jpg/1280px-Ilulissat_Isfjordscenter%2C_Greenland_%2854067577094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/icefjord-centre-ilulissat/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Ilulissat Isfjordscenter, Kangiata Illorsua, Ilulissat , Grønland",
+    "credit": "Christoph Strässler  from Oberdorf BL, Schweiz",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ilulissat_Isfjordscenter,_Greenland_(54067577094).jpg",
+    "file": "File:Ilulissat Isfjordscenter, Greenland (54067577094).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ilulissat_Icefjord.jpg/1280px-Ilulissat_Icefjord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/icefjord-centre-ilulissat/thumbs/1.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ilulissat_Icefjord.jpg",
+    "file": "File:Ilulissat Icefjord.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nordic-house-torshavn",
@@ -219710,7 +224392,71 @@ window.BUILDINGS = [
   "commons": "Category:Nordic House in the Faroe Islands",
   "lead": "File:Nordens Hus pa Faeroerne.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nordens_Hus_pa_Faeroerne.jpg/1280px-Nordens_Hus_pa_Faeroerne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nordic-house-torshavn/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Nordens Hus på Færøerne",
+    "credit": "Nordens Hus på Færøerne",
+    "license": "CC BY 2.5 dk",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordens_Hus_pa_Faeroerne.jpg",
+    "file": "File:Nordens Hus pa Faeroerne.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Nordic_House_in_the_Faroes_03.jpg/1280px-Nordic_House_in_the_Faroes_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nordic-house-torshavn/thumbs/1.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Norðurlandahúsið",
+    "credit": "Arne List  from Kiel, Germany",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordic_House_in_the_Faroes_03.jpg",
+    "file": "File:Nordic House in the Faroes 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Nordens_hus_2014.jpg/1280px-Nordens_hus_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nordic-house-torshavn/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Nordens hus 2014",
+    "credit": "Henrik Dvergsdal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordens_hus_2014.jpg",
+    "file": "File:Nordens hus 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Nordic_House_in_the_Faroes_01.jpg/1280px-Nordic_House_in_the_Faroes_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nordic-house-torshavn/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Norðurlandahúsið",
+    "credit": "Arne List  from Kiel, Germany",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordic_House_in_the_Faroes_01.jpg",
+    "file": "File:Nordic House in the Faroes 01.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nordic_house%2C_faroe_islands_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/nordic-house-torshavn/thumbs/4.webp",
+    "w": 921,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Norðurlandahúsið í Føroyum , the Nordic House in the Faroe Islands",
+    "credit": "Arne List",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nordic_house,_faroe_islands_(2).jpg",
+    "file": "File:Nordic house, faroe islands (2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "powerhouse-brattorkaia",
@@ -219734,7 +224480,59 @@ window.BUILDINGS = [
   "commons": "Category:Powerhouse, Brattørkaia",
   "lead": "File:Powerhouse Brattørkaia, Trondheim, Noruega, 2019-09-06, DD 27.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Powerhouse_Bratt%C3%B8rkaia%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_27.jpg/1280px-Powerhouse_Bratt%C3%B8rkaia%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/powerhouse-brattorkaia/thumbs/0.webp",
+    "w": 1280,
+    "h": 509,
+    "kind": "Detail",
+    "caption": "Detail · Powerhouse Brattørkaia, Trondheim, Norway",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Powerhouse_Bratt%C3%B8rkaia,_Trondheim,_Noruega,_2019-09-06,_DD_27.jpg",
+    "file": "File:Powerhouse Brattørkaia, Trondheim, Noruega, 2019-09-06, DD 27.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Puerto%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_26.jpg/1280px-Puerto%2C_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/powerhouse-brattorkaia/thumbs/1.webp",
+    "w": 1280,
+    "h": 585,
+    "kind": "Exterior",
+    "caption": "Exterior · Harbour, Trondheim, Norway",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Puerto,_Trondheim,_Noruega,_2019-09-06,_DD_26.jpg",
+    "file": "File:Puerto, Trondheim, Noruega, 2019-09-06, DD 26.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Vista_de_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_03.jpg/1280px-Vista_de_Trondheim%2C_Noruega%2C_2019-09-06%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/powerhouse-brattorkaia/thumbs/2.webp",
+    "w": 1280,
+    "h": 548,
+    "kind": "Exterior",
+    "caption": "Exterior · View of Trondheim, Norway",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_de_Trondheim,_Noruega,_2019-09-06,_DD_03.jpg",
+    "file": "File:Vista de Trondheim, Noruega, 2019-09-06, DD 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Powerhouse_Bratt%C3%B8rkaia_-_Trondheim%2C_Norway_2022-07-13.jpg/1280px-Powerhouse_Bratt%C3%B8rkaia_-_Trondheim%2C_Norway_2022-07-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/powerhouse-brattorkaia/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Detail",
+    "caption": "Detail · Powerhouse Brattørkaia in Trondheim, Norway",
+    "credit": "Ryan Hodnett",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Powerhouse_Bratt%C3%B8rkaia_-_Trondheim,_Norway_2022-07-13.jpg",
+    "file": "File:Powerhouse Brattørkaia - Trondheim, Norway 2022-07-13.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "reykjavik-city-hall",
@@ -219758,7 +224556,73 @@ window.BUILDINGS = [
   "commons": "Category:Reykjavík Town Hall",
   "lead": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._04.jpg/1280px-1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reykjavik-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Das Rathaus von Reykjavik am Tjörnin-See",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._04.jpg",
+    "file": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._06.jpg/1280px-1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reykjavik-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 699,
+    "kind": "Interior",
+    "caption": "Interior · Das Rathaus von Reykjavik am Tjörnin-See",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_wurde_das_Rathaus_in_Reykjavik_er%C3%B6ffnet._06.jpg",
+    "file": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/On_the_lake_Tj%C3%B6rnin_in_Reykjav%C3%ADk_%2847627229891%29.jpg/1280px-On_the_lake_Tj%C3%B6rnin_in_Reykjav%C3%ADk_%2847627229891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reykjavik-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 791,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Bernd Thaller  from Graz, Austria",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:On_the_lake_Tj%C3%B6rnin_in_Reykjav%C3%ADk_(47627229891).jpg",
+    "file": "File:On the lake Tjörnin in Reykjavík (47627229891).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/A_day_in_Reykjavik_%2812209545866%29.jpg/1280px-A_day_in_Reykjavik_%2812209545866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reykjavik-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 828,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Helgi Halldórsson  from Reykjavík, Iceland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_day_in_Reykjavik_(12209545866).jpg",
+    "file": "File:A day in Reykjavik (12209545866).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Iceland-Reykjavik7-July_2000.jpg/1280px-Iceland-Reykjavik7-July_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reykjavik-city-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 859,
+    "kind": "Model",
+    "caption": "Model · Map of Iceland located in the city hall, Reykjavík",
+    "credit": "Julius Agrippa",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Iceland-Reykjavik7-July_2000.jpg",
+    "file": "File:Iceland-Reykjavik7-July 2000.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "sdu-campus-kolding",
@@ -219782,7 +224646,83 @@ window.BUILDINGS = [
   "commons": "Category:Syddansk Universitet Kolding",
   "lead": "File:SDU Kolding 2015.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/SDU_Kolding_2015.jpg/1280px-SDU_Kolding_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/0.webp",
+    "w": 1280,
+    "h": 809,
+    "kind": "Exterior",
+    "caption": "Exterior · SDU Kolding, facaden",
+    "credit": "Mantabi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SDU_Kolding_2015.jpg",
+    "file": "File:SDU Kolding 2015.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Syddansk_Universitet%2C_Kolding_2025_a.jpg/1280px-Syddansk_Universitet%2C_Kolding_2025_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/1.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Universitetsbygning i Kolding",
+    "credit": "Hjart",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syddansk_Universitet,_Kolding_2025_a.jpg",
+    "file": "File:Syddansk Universitet, Kolding 2025 a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Syddansk_Universitet%2C_Kolding_2025_b.jpg/1280px-Syddansk_Universitet%2C_Kolding_2025_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/2.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Universitetsbygning i Kolding",
+    "credit": "Hjart",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syddansk_Universitet,_Kolding_2025_b.jpg",
+    "file": "File:Syddansk Universitet, Kolding 2025 b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/UC_Syd%2C_Kolding_2025_c.jpg/1280px-UC_Syd%2C_Kolding_2025_c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/3.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Universitetsbygning i Kolding",
+    "credit": "Hjart",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UC_Syd,_Kolding_2025_c.jpg",
+    "file": "File:UC Syd, Kolding 2025 c.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Syddansk_universitet.Campus_Kolding.Denmark.2014_%281%29.JPG/1280px-Syddansk_universitet.Campus_Kolding.Denmark.2014_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Campus Kolding is a part of Syddansk Universitet (University of Southern Denmark) and is made in 2012-2014",
+    "credit": "S.Juhl",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syddansk_universitet.Campus_Kolding.Denmark.2014_(1).JPG",
+    "file": "File:Syddansk universitet.Campus Kolding.Denmark.2014 (1).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Syddansk_universitet.Campus_Kolding.Denmark.2014_%2810%29.JPG/1280px-Syddansk_universitet.Campus_Kolding.Denmark.2014_%2810%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sdu-campus-kolding/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Campus Kolding is a part of Syddansk Universitet (University of Southern Denmark) and is made in 2012-2014",
+    "credit": "S.Juhl",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syddansk_universitet.Campus_Kolding.Denmark.2014_(10).JPG",
+    "file": "File:Syddansk universitet.Campus Kolding.Denmark.2014 (10).JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-hallvard-church-oslo",
@@ -219806,7 +224746,83 @@ window.BUILDINGS = [
   "commons": "Category:St. Hallvard kirke og kloster",
   "lead": "File:St. Hallvard kirke c1987–92 OMU OMu.D0626.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/St._Hallvard_kirke_c1987%E2%80%9392_OMU_OMu.D0626.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/0.webp",
+    "w": 1200,
+    "h": 800,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Sverre Bergli / Oslo Museum",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Hallvard_kirke_c1987%E2%80%9392_OMU_OMu.D0626.jpg",
+    "file": "File:St. Hallvard kirke c1987–92 OMU OMu.D0626.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/StHallvard1.JPG/1280px-StHallvard1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "PaulVIF",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:StHallvard1.JPG",
+    "file": "File:StHallvard1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/St.Hallvardfacade2.JPG/1280px-St.Hallvardfacade2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Sebastian F",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St.Hallvardfacade2.JPG",
+    "file": "File:St.Hallvardfacade2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Enerhaugen_med_St._Hallvard_kirke.jpg/1280px-Enerhaugen_med_St._Hallvard_kirke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Enerhaugen sett fra 14",
+    "credit": "Helge Høifødt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Enerhaugen_med_St._Hallvard_kirke.jpg",
+    "file": "File:Enerhaugen med St. Hallvard kirke.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/St.Hallvardinterior.JPG/1280px-St.Hallvardinterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of St",
+    "credit": "Sebastian F",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St.Hallvardinterior.JPG",
+    "file": "File:St.Hallvardinterior.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/St._Hallvard_kirke_OMU_OMu.D1204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-hallvard-church-oslo/thumbs/5.webp",
+    "w": 1200,
+    "h": 894,
+    "kind": "Interior",
+    "caption": "Interior · Interiør i St",
+    "credit": "Anders Bettum / Oslo Museum",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Hallvard_kirke_OMU_OMu.D1204.jpg",
+    "file": "File:St. Hallvard kirke OMU OMu.D1204.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stockholm-concert-hall",
@@ -219830,7 +224846,110 @@ window.BUILDINGS = [
   "commons": "Category:Konserthuset Stockholm",
   "lead": "File:Concerthall - panoramio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Concerthall_-_panoramio.jpg/1280px-Concerthall_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 794,
+    "kind": "Interior",
+    "caption": "Interior · Concerthall",
+    "credit": "Tim Tregenza",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Concerthall_-_panoramio.jpg",
+    "file": "File:Concerthall - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Central_Hall_palace_in_Stockholm_%288272692863%29.jpg/1280px-Central_Hall_palace_in_Stockholm_%288272692863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 826,
+    "kind": "Interior",
+    "caption": "Interior · Konserthuset Stockholm",
+    "credit": "Guillaume Speurt  from Vilnius, Lithuania",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Hall_palace_in_Stockholm_(8272692863).jpg",
+    "file": "File:Central Hall palace in Stockholm (8272692863).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Concert_house_steps_are_miles_statue_stockholm.jpg/1280px-Concert_house_steps_are_miles_statue_stockholm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Concert House ( Konserthuset ) steps with Carl Milles statue Stockholm",
+    "credit": "Andy Eick",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Concert_house_steps_are_miles_statue_stockholm.jpg",
+    "file": "File:Concert house steps are miles statue stockholm.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Konserthuset_fasad_Stora_salen_collage_2017.jpg/1280px-Konserthuset_fasad_Stora_salen_collage_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/3.webp",
+    "w": 1002,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Konserthuset fasad mot sydväst och Stora salens interiör",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konserthuset_fasad_Stora_salen_collage_2017.jpg",
+    "file": "File:Konserthuset fasad Stora salen collage 2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Konserthuset_fasader_Stora_salen_Lilla_salen_collage.jpg/1280px-Konserthuset_fasader_Stora_salen_Lilla_salen_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 888,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konserthuset_fasader_Stora_salen_Lilla_salen_collage.jpg",
+    "file": "File:Konserthuset fasader Stora salen Lilla salen collage.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Konserthuset_april_2017w.jpg/1280px-Konserthuset_april_2017w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 888,
+    "kind": "Detail",
+    "caption": "Detail · Konserthuset, 1700-tals rokokoport på södra fasaden",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konserthuset_april_2017w.jpg",
+    "file": "File:Konserthuset april 2017w.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Konserthuset_plan_v%C3%A5n_1_trappa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/stockholm-concert-hall/thumbs/6.webp",
+    "w": 832,
+    "h": 1030,
+    "kind": "Plan",
+    "caption": "Plan · Konserthuset plan våning 1 trappa",
+    "credit": "Ivar Tengbom",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Konserthuset_plan_v%C3%A5n_1_trappa.jpg",
+    "file": "File:Konserthuset plan vån 1 trappa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Konserthuset%2C_K-ritning%2C_takstol%2C_1923.jpg/1280px-Konserthuset%2C_K-ritning%2C_takstol%2C_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-concert-hall/thumbs/7.webp",
+    "w": 1280,
+    "h": 951,
+    "kind": "Drawing",
+    "caption": "Drawing · Konserthuset, K-ritning, takstol",
+    "credit": "Kreügers ing. byrå",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Konserthuset,_K-ritning,_takstol,_1923.jpg",
+    "file": "File:Konserthuset, K-ritning, takstol, 1923.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "tautra-mariakloster",
@@ -219854,7 +224973,97 @@ window.BUILDINGS = [
   "commons": "Category:Tautra Mariakloster",
   "lead": "File:Tautra Mariakloster Frosta (2016.07.09).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tautra_Mariakloster_Frosta_%282016.07.09%29.jpg/1280px-Tautra_Mariakloster_Frosta_%282016.07.09%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/0.webp",
+    "w": 985,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Tautra Mariakloster Frosta kommune, Trøndelag",
+    "credit": "Thimylin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra_Mariakloster_Frosta_(2016.07.09).jpg",
+    "file": "File:Tautra Mariakloster Frosta (2016.07.09).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tautra_mariakloster_vinter.jpg/1280px-Tautra_mariakloster_vinter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/1.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Tautra Mariakloster på vinteren",
+    "credit": "Thomas Bjørkan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra_mariakloster_vinter.jpg",
+    "file": "File:Tautra mariakloster vinter.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tautra_Nonnekloster.jpg/1280px-Tautra_Nonnekloster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/2.webp",
+    "w": 1280,
+    "h": 823,
+    "kind": "Exterior",
+    "caption": "Exterior · The new Cistercian monastary at Tautra, Norway",
+    "credit": "Kjell Morten Klevsand",
+    "license": "CC BY-SA 3.0 no",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra_Nonnekloster.jpg",
+    "file": "File:Tautra Nonnekloster.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Norwegen_1998_%28495%29_Kloster_Tautra_%2849398178831%29.jpg/1280px-Norwegen_1998_%28495%29_Kloster_Tautra_%2849398178831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/3.webp",
+    "w": 1280,
+    "h": 846,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rüdiger Stehn  from Kiel, Deutschland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Norwegen_1998_(495)_Kloster_Tautra_(49398178831).jpg",
+    "file": "File:Norwegen 1998 (495) Kloster Tautra (49398178831).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Tautra_nonnekloster._Kapellet%2C_interi%C3%B8r..jpg/1280px-Tautra_nonnekloster._Kapellet%2C_interi%C3%B8r..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · The Tautra Maria Monastary",
+    "credit": "Kjell Morten Klevsand",
+    "license": "CC BY-SA 3.0 no",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra_nonnekloster._Kapellet,_interi%C3%B8r..jpg",
+    "file": "File:Tautra nonnekloster. Kapellet, interiør..jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Tautra%2C_Fassadendetail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/tautra-mariakloster/thumbs/5.webp",
+    "w": 960,
+    "h": 1280,
+    "kind": "Detail",
+    "caption": "Detail · Kloster Tautra, Fassadendetail von Südwesten",
+    "credit": "Keuk  at  German Wikipedia",
+    "license": "CC BY-SA 2.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra,_Fassadendetail.JPG",
+    "file": "File:Tautra, Fassadendetail.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tautra_-_an10071204110006.jpg/1280px-Tautra_-_an10071204110006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tautra-mariakloster/thumbs/6.webp",
+    "w": 1280,
+    "h": 832,
+    "kind": "Plan",
+    "caption": "Plan · Bildet er hentet fra Riksantikvaren",
+    "credit": "Otto Krefting",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tautra_-_an10071204110006.jpg",
+    "file": "File:Tautra - an10071204110006.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "the-twist-kistefos",
@@ -219878,7 +225087,83 @@ window.BUILDINGS = [
   "commons": "Category:The Twist",
   "lead": "File:The Twist II.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/The_Twist_II.jpg/1280px-The_Twist_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/0.webp",
+    "w": 1280,
+    "h": 815,
+    "kind": "Exterior",
+    "caption": "Exterior · The Twist, Kistefos-Museet, sett fra sørøst",
+    "credit": "Jan-Tore Egge",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Twist_II.jpg",
+    "file": "File:The Twist II.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Twist_III.jpg/1280px-The_Twist_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/1.webp",
+    "w": 1280,
+    "h": 662,
+    "kind": "Exterior",
+    "caption": "Exterior · The Twist, Kistefos-Museet, sett nordfra",
+    "credit": "Jan-Tore Egge",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Twist_III.jpg",
+    "file": "File:The Twist III.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Twist_I.jpg/1280px-The_Twist_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/2.webp",
+    "w": 1280,
+    "h": 744,
+    "kind": "Exterior",
+    "caption": "Exterior · The Twist, Kistefos-Museet, sett fra sørøst",
+    "credit": "Jan-Tore Egge",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Twist_I.jpg",
+    "file": "File:The Twist I.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Twist_5_BG_23.jpg/1280px-Twist_5_BG_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bingar1234",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Twist_5_BG_23.jpg",
+    "file": "File:Twist 5 BG 23.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/The_Twist_inne.jpg/1280px-The_Twist_inne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/4.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Interior",
+    "caption": "Interior · Inne i galleriet The Twist på Kistefos",
+    "credit": "Stian Martinsen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Twist_inne.jpg",
+    "file": "File:The Twist inne.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Randselva_bru_aerial_photo.jpg/1280px-Randselva_bru_aerial_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-twist-kistefos/thumbs/5.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Context",
+    "caption": "Context · Dronefoto av Randselva bru",
+    "credit": "Ståle Wolf Savland, Geomatikk, Utbygging, Statens vegvesen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Randselva_bru_aerial_photo.jpg",
+    "file": "File:Randselva bru aerial photo.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "under-restaurant",
@@ -219902,7 +225187,59 @@ window.BUILDINGS = [
   "commons": "Category:Under (restaurant)",
   "lead": "File:Under restaurant AV4A9109 (48614080503).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Under_restaurant_AV4A9109_%2848614080503%29.jpg/1280px-Under_restaurant_AV4A9109_%2848614080503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/under-restaurant/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Under - restaurant in Lindesnes, Norway",
+    "credit": "City Foodsters",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Under_restaurant_AV4A9109_(48614080503).jpg",
+    "file": "File:Under restaurant AV4A9109 (48614080503).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Under_restaurant_AV4A9112_%2848614577862%29.jpg/1280px-Under_restaurant_AV4A9112_%2848614577862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/under-restaurant/thumbs/1.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Under - restaurant in Lindesnes, Norway",
+    "credit": "City Foodsters",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Under_restaurant_AV4A9112_(48614577862).jpg",
+    "file": "File:Under restaurant AV4A9112 (48614577862).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Under_restaurant_AV4A9157-Edit_%2848614593327%29.jpg/1280px-Under_restaurant_AV4A9157-Edit_%2848614593327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/under-restaurant/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Under - restaurant in Lindesnes, Norway",
+    "credit": "City Foodsters",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Under_restaurant_AV4A9157-Edit_(48614593327).jpg",
+    "file": "File:Under restaurant AV4A9157-Edit (48614593327).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Under_restaurant.jpg/1280px-Under_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/under-restaurant/thumbs/3.webp",
+    "w": 1280,
+    "h": 923,
+    "kind": "Exterior",
+    "caption": "Exterior · Restauranten Under i Lindesnes",
+    "credit": "Eldart",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Under_restaurant.jpg",
+    "file": "File:Under restaurant.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wadden-sea-centre",
@@ -219926,7 +225263,83 @@ window.BUILDINGS = [
   "commons": "Category:Vadehavscentret",
   "lead": "File:Vadehavscenteret.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vadehavscenteret.jpg/1280px-Vadehavscenteret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vadehavscenteret",
+    "credit": "Thomas Dahlstrøm Nielsen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vadehavscenteret.jpg",
+    "file": "File:Vadehavscenteret.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup003_%2848965849311%29.jpg/1280px-20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup003_%2848965849311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup003_(48965849311).jpg",
+    "file": "File:20191010 Vadehavscentret pa Jylland ritat av Dorte Mandrup003 (48965849311).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup012-2_%2848965858781%29.jpg/1280px-20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup012-2_%2848965858781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vadehavscentrat vid Vadehavet strax söder om Esbjerg på Jylland",
+    "credit": "Johan Wessman /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191010_Vadehavscentret_pa_Jylland_ritat_av_Dorte_Mandrup012-2_(48965858781).jpg",
+    "file": "File:20191010 Vadehavscentret pa Jylland ritat av Dorte Mandrup012-2 (48965858781).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Vadehavscenteret_%282%29.jpg/1280px-Vadehavscenteret_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vadehavscenteret",
+    "credit": "Thomas Dahlstrøm Nielsen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vadehavscenteret_(2).jpg",
+    "file": "File:Vadehavscenteret (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Wadden_Sea_Centre%2C_The_Landscape_of_the_Wadden_Sea_2.jpg/1280px-Wadden_Sea_Centre%2C_The_Landscape_of_the_Wadden_Sea_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · Wadden Sea Centre, The Landscape of the Wadden Sea",
+    "credit": "Xibalba89",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadden_Sea_Centre,_The_Landscape_of_the_Wadden_Sea_2.jpg",
+    "file": "File:Wadden Sea Centre, The Landscape of the Wadden Sea 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Wadden_Sea_Centre%2C_The_Landscape_of_the_Wadden_Sea.jpg/1280px-Wadden_Sea_Centre%2C_The_Landscape_of_the_Wadden_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wadden-sea-centre/thumbs/5.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Wadden Sea Centre, The Landscape of the Wadden Sea",
+    "credit": "Xibalba89",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadden_Sea_Centre,_The_Landscape_of_the_Wadden_Sea.jpg",
+    "file": "File:Wadden Sea Centre, The Landscape of the Wadden Sea.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kela-main-office",
@@ -219950,7 +225363,35 @@ window.BUILDINGS = [
   "commons": "Category:Kansaneläkelaitos headquarters",
   "lead": "File:Kela hdqtrs 02.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kela_hdqtrs_04.JPG/1280px-Kela_hdqtrs_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kela-main-office/thumbs/0.webp",
+    "w": 1280,
+    "h": 711,
+    "kind": "Exterior",
+    "caption": "Exterior · Kansaneläkelaitos headquarters, Taka-Töölö, Helsinki, Finland",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kela_hdqtrs_04.JPG",
+    "file": "File:Kela hdqtrs 04.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kela_hdqtrs_15.JPG/1280px-Kela_hdqtrs_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kela-main-office/thumbs/1.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Interior",
+    "caption": "Interior · Kansaneläkelaitos headquarters, Taka-Töölö, Helsinki, Finland",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kela_hdqtrs_15.JPG",
+    "file": "File:Kela hdqtrs 15.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kth-school-of-architecture",
@@ -219974,6 +225415,58 @@ window.BUILDINGS = [
   "commons": "Category:Arkitekturskolan, KTH",
   "lead": "File:Arkitekturskolan October 2015 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Arkitekturskolan_October_2015_01.jpg/1280px-Arkitekturskolan_October_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kth-school-of-architecture/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkitekturskolan_October_2015_01.jpg",
+    "file": "File:Arkitekturskolan October 2015 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Arkitekturskolan_October_2015_03.jpg/1280px-Arkitekturskolan_October_2015_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kth-school-of-architecture/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkitekturskolan_October_2015_03.jpg",
+    "file": "File:Arkitekturskolan October 2015 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Arkitekturskolan%2C_KTH_2015_-01.jpg/1280px-Arkitekturskolan%2C_KTH_2015_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kth-school-of-architecture/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Arkitekturskolans byggnad på KTH, Osquars backe 9",
+    "credit": "I99pema",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkitekturskolan,_KTH_2015_-01.jpg",
+    "file": "File:Arkitekturskolan, KTH 2015 -01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Arkitekturskolan%2C_KTH_2015_-06.jpg/1280px-Arkitekturskolan%2C_KTH_2015_-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kth-school-of-architecture/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Arkitekturskolans byggnad på KTH, Osquars backe 9",
+    "credit": "I99pema",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arkitekturskolan,_KTH_2015_-06.jpg",
+    "file": "File:Arkitekturskolan, KTH 2015 -06.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
