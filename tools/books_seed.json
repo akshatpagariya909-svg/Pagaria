@@ -10483,5 +10483,1106 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "villas-and-cottages",
+  "title": "Villas and Cottages",
+  "by": "Calvert Vaux",
+  "year": "1857",
+  "y": 1857,
+  "shelf": "Free to read",
+  "why": "Calvert Vaux's pattern book of American houses and villas.",
+  "tags": [
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "community-and-privacy-toward-a-new-architecture-of-humanism",
+  "title": "Community and Privacy: Toward a New Architecture of Humanism",
+  "by": "Serge Chermayeff and Christopher Alexander",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Theory",
+  "why": "How dense housing can give both community and privacy.",
+  "tags": [
+   "Housing",
+   "Cities"
+  ],
+  "architects": [
+   "Serge Chermayeff"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "stadia-a-design-and-development-guide",
+  "title": "Stadia: A Design and Development Guide",
+  "by": "Geraint John and Rod Sheard",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Construction",
+  "why": "A design guide to sports stadiums: seating, sightlines, roofs and safety.",
+  "tags": [
+   "Sport"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "english-romanesque-architecture",
+  "title": "English Romanesque Architecture",
+  "by": "Alfred Clapham",
+  "year": "1930",
+  "y": 1930,
+  "shelf": "History",
+  "why": "A history of English Romanesque churches and castles.",
+  "tags": [
+   "Romanesque",
+   "Religious"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-humanism-a-study-in-the-history-of-taste",
+  "title": "The Architecture of Humanism: A Study in the History of Taste",
+  "by": "Geoffrey Scott",
+  "year": "1914",
+  "y": 1914,
+  "shelf": "Theory",
+  "why": "A defence of Renaissance architecture and of judging buildings by how they feel.",
+  "tags": [
+   "Renaissance",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "intentions-in-architecture",
+  "title": "Intentions in Architecture",
+  "by": "Christian Norberg-Schulz",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Theory",
+  "why": "Norberg-Schulz's early theory of how architecture is perceived and made.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sustainable-construction-green-building-design-and-delivery",
+  "title": "Sustainable Construction: Green Building Design and Delivery",
+  "by": "Charles J. Kibert",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Construction",
+  "why": "A textbook on green building design, materials and certification.",
+  "tags": [
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "house",
+  "title": "House",
+  "by": "Tracy Kidder",
+  "year": "1985",
+  "y": 1985,
+  "shelf": "Construction",
+  "why": "The true story of one family, their architect and their builders making a house.",
+  "tags": [
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-power-broker-robert-moses-and-the-fall-of-new-york",
+  "title": "The Power Broker: Robert Moses and the Fall of New York",
+  "by": "Robert A. Caro",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "Cities",
+  "why": "A biography of Robert Moses, who built New York's parks, bridges and highways.",
+  "tags": [
+   "Cities",
+   "Infrastructure"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-and-regional-planning",
+  "title": "Urban and Regional Planning",
+  "by": "Peter Hall",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Cities",
+  "why": "An introduction to the history and practice of planning.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-life-work-of-the-american-architect-frank-lloyd-wright",
+  "title": "The Life-Work of the American Architect Frank Lloyd Wright",
+  "by": "H. Th. Wijdeveld (editor)",
+  "year": "1925",
+  "y": 1925,
+  "shelf": "Monographs",
+  "why": "The Dutch Wendingen issues that presented Wright's work to Europe.",
+  "tags": [
+   "Organic"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "concrete-the-vision-of-a-new-architecture",
+  "title": "Concrete: The Vision of a New Architecture",
+  "by": "Peter Collins",
+  "year": "1959",
+  "y": 1959,
+  "shelf": "Construction",
+  "why": "A history of reinforced concrete and of Auguste Perret's buildings.",
+  "tags": [
+   "Concrete"
+  ],
+  "architects": [
+   "Auguste Perret"
+  ],
+  "buildings": [
+   "25-bis-rue-franklin"
+  ]
+ },
+ {
+  "id": "structures",
+  "title": "Structures",
+  "by": "Pier Luigi Nervi",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "Construction",
+  "why": "Pier Luigi Nervi on structure, materials and form.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Pier Luigi Nervi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "vision-in-motion",
+  "title": "Vision in Motion",
+  "by": "László Moholy-Nagy",
+  "year": "1947",
+  "y": 1947,
+  "shelf": "Theory",
+  "why": "Moholy-Nagy's book on design education and the new vision.",
+  "tags": [
+   "Bauhaus",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "portuguese-architecture",
+  "title": "Portuguese Architecture",
+  "by": "Walter Crum Watson",
+  "year": "1908",
+  "y": 1908,
+  "shelf": "Free to read",
+  "why": "An early English survey of Portuguese architecture.",
+  "tags": [
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "otto-wagner-18411918-the-expanding-city-the-beginning-of-mod",
+  "title": "Otto Wagner 1841–1918: The Expanding City, the Beginning of Modern Architecture",
+  "by": "Heinz Geretsegger and Max Peintner",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "Monographs",
+  "why": "The standard monograph on Otto Wagner's buildings and city plans for Vienna.",
+  "tags": [
+   "Vienna Secession"
+  ],
+  "architects": [
+   "Otto Wagner"
+  ],
+  "buildings": [
+   "majolikahaus"
+  ]
+ },
+ {
+  "id": "the-professional-practice-of-architectural-working-drawings",
+  "title": "The Professional Practice of Architectural Working Drawings",
+  "by": "Osamu A. Wakita and Richard M. Linde",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Drawing",
+  "why": "A textbook on producing construction drawings.",
+  "tags": [
+   "Drawing",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-five-books-of-architecture",
+  "title": "The Five Books of Architecture",
+  "by": "Sebastiano Serlio",
+  "year": "1537",
+  "y": 1537,
+  "shelf": "Free to read",
+  "why": "Serlio's illustrated treatise that spread Renaissance architecture across Europe.",
+  "tags": [
+   "Renaissance",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "greek-architecture",
+  "title": "Greek Architecture",
+  "by": "A. W. Lawrence",
+  "year": "1957",
+  "y": 1957,
+  "shelf": "History",
+  "why": "A history of ancient Greek architecture from the Minoans to the Hellenistic age.",
+  "tags": [
+   "Greece",
+   "Ancient"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "working-drawings-handbook",
+  "title": "Working Drawings Handbook",
+  "by": "Keith Styles",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "Drawing",
+  "why": "A handbook for setting out construction drawings.",
+  "tags": [
+   "Drawing",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-city-reader",
+  "title": "The City Reader",
+  "by": "Richard T. LeGates and Frederic Stout (editors)",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Cities",
+  "why": "An anthology of classic writings on cities and planning.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "frank-lloyd-wright-on-architecture-selected-writings-1894194",
+  "title": "Frank Lloyd Wright on Architecture: Selected Writings 1894–1940",
+  "by": "Frederick Gutheim (editor)",
+  "year": "1941",
+  "y": 1941,
+  "shelf": "Theory",
+  "why": "The first collection of Frank Lloyd Wright's essays and talks.",
+  "tags": [
+   "Organic"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "broken-glass-mies-van-der-rohe-edith-farnsworth-and-the-figh",
+  "title": "Broken Glass: Mies van der Rohe, Edith Farnsworth, and the Fight Over a Modernist Masterpiece",
+  "by": "Alex Beam",
+  "year": "2020",
+  "y": 2020,
+  "shelf": "History",
+  "why": "The story of the Farnsworth House and the quarrel between architect and client.",
+  "tags": [
+   "Houses",
+   "Modernism"
+  ],
+  "architects": [
+   "Mies van der Rohe"
+  ],
+  "buildings": [
+   "farnsworth-house"
+  ]
+ },
+ {
+  "id": "three-lectures-on-architecture",
+  "title": "Three Lectures on Architecture",
+  "by": "Erich Mendelsohn",
+  "year": "1944",
+  "y": 1944,
+  "shelf": "Theory",
+  "why": "Erich Mendelsohn's Berkeley lectures on architecture in a changing world.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Erich Mendelsohn"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-architects-collaborative-19451965",
+  "title": "The Architects Collaborative 1945–1965",
+  "by": "Walter Gropius and others",
+  "year": "1966",
+  "y": 1966,
+  "shelf": "Monographs",
+  "why": "Twenty years of work by TAC, the firm Gropius founded in Cambridge, Massachusetts.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "modern-construction-handbook",
+  "title": "Modern Construction Handbook",
+  "by": "Andrew Watts",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Construction",
+  "why": "Illustrated details of contemporary walls, roofs, structures and services.",
+  "tags": [
+   "Construction",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-high-cost-of-free-parking",
+  "title": "The High Cost of Free Parking",
+  "by": "Donald C. Shoup",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Cities",
+  "why": "How free parking shapes cities, and what it really costs.",
+  "tags": [
+   "Cities",
+   "Transport"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-gothic-revival-an-essay-in-the-history-of-taste",
+  "title": "The Gothic Revival: An Essay in the History of Taste",
+  "by": "Kenneth Clark",
+  "year": "1928",
+  "y": 1928,
+  "shelf": "History",
+  "why": "Kenneth Clark's history of the Gothic Revival in England.",
+  "tags": [
+   "Gothic"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-city-and-country-builder-s-and-workman-s-treasury-of-des",
+  "title": "The City and Country Builder's and Workman's Treasury of Designs",
+  "by": "Batty Langley",
+  "year": "1740",
+  "y": 1740,
+  "shelf": "Free to read",
+  "why": "An eighteenth-century builders' pattern book of classical details.",
+  "tags": [
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "town-and-country-planning-in-the-uk",
+  "title": "Town and Country Planning in the UK",
+  "by": "Barry Cullingworth",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "Cities",
+  "why": "The standard textbook on the British planning system.",
+  "tags": [
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-architect-s-pocket-book",
+  "title": "Landscape Architect's Pocket Book",
+  "by": "Siobhan Vernon, Rachel Tennant and Nicola Garmory",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Landscape",
+  "why": "Quick reference data for landscape design and construction.",
+  "tags": [
+   "Landscape",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-sustainable-urban-development-reader",
+  "title": "The Sustainable Urban Development Reader",
+  "by": "Stephen M. Wheeler and Timothy Beatley (editors)",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Cities",
+  "why": "An anthology of writings on sustainable cities.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "fire-from-first-principles-a-design-guide-to-building-fire-s",
+  "title": "Fire from First Principles: A Design Guide to Building Fire Safety",
+  "by": "Paul Stollard and John Abrahams",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "Construction",
+  "why": "A design guide to fire safety in buildings.",
+  "tags": [
+   "Safety"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-beauties-of-modern-architecture",
+  "title": "The Beauties of Modern Architecture",
+  "by": "Minard Lafever",
+  "year": "1835",
+  "y": 1835,
+  "shelf": "Free to read",
+  "why": "An American Greek Revival pattern book of details and ornament.",
+  "tags": [
+   "Greek Revival"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "details-of-elizabethan-architecture",
+  "title": "Details of Elizabethan Architecture",
+  "by": "Henry Shaw",
+  "year": "1839",
+  "y": 1839,
+  "shelf": "Free to read",
+  "why": "Engraved details of English Elizabethan buildings.",
+  "tags": [
+   "History",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "lost-new-york",
+  "title": "Lost New York",
+  "by": "Nathan Silver",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Cities",
+  "why": "New York buildings that were demolished, and what was lost with them.",
+  "tags": [
+   "Cities",
+   "Preservation"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "on-restoration",
+  "title": "On Restoration",
+  "by": "Eugène-Emmanuel Viollet-le-Duc",
+  "year": "1875",
+  "y": 1875,
+  "shelf": "Free to read",
+  "why": "Viollet-le-Duc's essay on how to restore old buildings.",
+  "tags": [
+   "Preservation",
+   "Gothic"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-modern-builder-s-guide",
+  "title": "The Modern Builder's Guide",
+  "by": "Minard Lafever",
+  "year": "1833",
+  "y": 1833,
+  "shelf": "Free to read",
+  "why": "An American builders' guide with plans and Greek Revival details.",
+  "tags": [
+   "Greek Revival"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "anglo-saxon-architecture",
+  "title": "Anglo-Saxon Architecture",
+  "by": "H. M. Taylor and Joan Taylor",
+  "year": "1965",
+  "y": 1965,
+  "shelf": "History",
+  "why": "A survey of England's surviving Anglo-Saxon churches.",
+  "tags": [
+   "Religious",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "inigo-jones",
+  "title": "Inigo Jones",
+  "by": "John Summerson",
+  "year": "1966",
+  "y": 1966,
+  "shelf": "Monographs",
+  "why": "A short life of Inigo Jones, who brought Palladian architecture to England.",
+  "tags": [
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-country-houses",
+  "title": "The Architecture of Country Houses",
+  "by": "A. J. Downing",
+  "year": "1850",
+  "y": 1850,
+  "shelf": "Free to read",
+  "why": "Downing's designs and advice for American cottages, farmhouses and villas.",
+  "tags": [
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "creation-is-a-patient-search",
+  "title": "Creation Is a Patient Search",
+  "by": "Le Corbusier",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "Monographs",
+  "why": "Le Corbusier's own picture book of his life, sketches and work.",
+  "tags": [
+   "Modernism",
+   "Drawing"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-four-routes",
+  "title": "The Four Routes",
+  "by": "Le Corbusier",
+  "year": "1941",
+  "y": 1941,
+  "shelf": "Cities",
+  "why": "Le Corbusier on roads, railways, waterways and air routes.",
+  "tags": [
+   "Cities",
+   "Transport"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-sketchbooks",
+  "title": "Le Corbusier Sketchbooks",
+  "by": "Le Corbusier",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Drawing",
+  "why": "Facsimiles of Le Corbusier's sketchbooks from 1914 to 1964.",
+  "tags": [
+   "Drawing"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-talks-with-students",
+  "title": "Le Corbusier Talks with Students",
+  "by": "Le Corbusier",
+  "year": "1943",
+  "y": 1943,
+  "shelf": "Theory",
+  "why": "Le Corbusier's short book of advice to architecture students.",
+  "tags": [
+   "Education"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "looking-at-city-planning",
+  "title": "Looking at City Planning",
+  "by": "Le Corbusier",
+  "year": "1946",
+  "y": 1946,
+  "shelf": "Cities",
+  "why": "Le Corbusier's postwar thoughts on planning and urbanism.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-marseilles-block",
+  "title": "The Marseilles Block",
+  "by": "Le Corbusier",
+  "year": "1953",
+  "y": 1953,
+  "shelf": "Monographs",
+  "why": "Le Corbusier's own book on the Unité d'Habitation in Marseille.",
+  "tags": [
+   "Housing",
+   "Brutalism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": [
+   "unite-dhabitation"
+  ]
+ },
+ {
+  "id": "my-work",
+  "title": "My Work",
+  "by": "Le Corbusier",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "Monographs",
+  "why": "Le Corbusier's illustrated account of his life's work.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-story-of-the-tower-the-tree-that-escaped-the-crowded-for",
+  "title": "The Story of the Tower: The Tree That Escaped the Crowded Forest",
+  "by": "Frank Lloyd Wright",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "Monographs",
+  "why": "Wright's book on the Price Tower in Oklahoma.",
+  "tags": [
+   "Skyscrapers"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "oma-rem-koolhaas-a-critical-reader",
+  "title": "OMA/Rem Koolhaas: A Critical Reader",
+  "by": "Christophe Van Gerrewey (editor)",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Theory",
+  "why": "Critical essays on OMA and Rem Koolhaas from 1972 to 2010.",
+  "tags": [
+   "Contemporary"
+  ],
+  "architects": [
+   "OMA"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "mies-van-der-rohe-barcelona-pavilion",
+  "title": "Mies van der Rohe: Barcelona Pavilion",
+  "by": "Ignasi de Solà-Morales, Cristian Cirici and Fernando Ramos",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Monographs",
+  "why": "The architects of the 1986 reconstruction explain the Barcelona Pavilion.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Mies van der Rohe",
+   "Lilly Reich"
+  ],
+  "buildings": [
+   "barcelona-pavilion"
+  ]
+ },
+ {
+  "id": "utzon-s-own-houses",
+  "title": "Utzon's Own Houses",
+  "by": "Jørn Utzon",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Monographs",
+  "why": "Utzon's houses for his own family, including Can Lis in Mallorca.",
+  "tags": [
+   "Houses"
+  ],
+  "architects": [
+   "Jørn Utzon",
+   "Jorn Utzon"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "counterpoint-daniel-libeskind-in-conversation-with-paul-gold",
+  "title": "Counterpoint: Daniel Libeskind in Conversation with Paul Goldberger",
+  "by": "Daniel Libeskind and Paul Goldberger",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Monographs",
+  "why": "Daniel Libeskind talks through his buildings with the critic Paul Goldberger.",
+  "tags": [
+   "Deconstructivism"
+  ],
+  "architects": [
+   "Daniel Libeskind"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "haus-eines-kunstfreundes",
+  "title": "Haus eines Kunstfreundes",
+  "by": "Charles Rennie Mackintosh",
+  "year": "1901",
+  "y": 1901,
+  "shelf": "Drawing",
+  "why": "Mackintosh's competition designs for an art lover's house.",
+  "tags": [
+   "Art Nouveau",
+   "Drawing"
+  ],
+  "architects": [
+   "Charles Rennie Mackintosh"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "buildings-projects-structures-19531963",
+  "title": "Buildings, Projects, Structures 1953–1963",
+  "by": "Pier Luigi Nervi",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Construction",
+  "why": "Ten years of Pier Luigi Nervi's concrete halls, domes and towers.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Pier Luigi Nervi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "modern-architecture-taut",
+  "title": "Modern Architecture",
+  "by": "Bruno Taut",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "Theory",
+  "why": "Bruno Taut's survey of the new architecture, written in English.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "die-stadtkrone",
+  "title": "Die Stadtkrone",
+  "by": "Bruno Taut",
+  "year": "1919",
+  "y": 1919,
+  "shelf": "Manifestos",
+  "why": "Bruno Taut's vision of a city crowned by a glass building for the people (in German).",
+  "tags": [
+   "Expressionism",
+   "Cities"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "james-stirling-buildings-projects-19501974",
+  "title": "James Stirling: Buildings & Projects 1950–1974",
+  "by": "James Stirling",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Monographs",
+  "why": "James Stirling's own book on his early buildings.",
+  "tags": [
+   "Brutalism"
+  ],
+  "architects": [
+   "James Stirling"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "life-and-human-habitat",
+  "title": "Life and Human Habitat",
+  "by": "Richard Neutra",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "Monographs",
+  "why": "Richard Neutra's buildings and his ideas on design and wellbeing.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [
+   "Richard Neutra"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "houses-interiors-and-projects",
+  "title": "Houses, Interiors and Projects",
+  "by": "Harry Seidler",
+  "year": "1954",
+  "y": 1954,
+  "shelf": "Monographs",
+  "why": "Harry Seidler's early houses in Sydney.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [
+   "Harry Seidler"
+  ],
+  "buildings": [
+   "rose-seidler-house"
+  ]
+ },
+ {
+  "id": "architecture-in-an-age-of-scepticism",
+  "title": "Architecture in an Age of Scepticism",
+  "by": "Denys Lasdun (editor)",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Theory",
+  "why": "Leading architects write about their beliefs and their work.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [
+   "Denys Lasdun"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "man-transforms-aspects-of-design",
+  "title": "MAN transFORMS: Aspects of Design",
+  "by": "Hans Hollein",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "Theory",
+  "why": "The catalogue of Hollein's opening exhibition for the Cooper-Hewitt Museum.",
+  "tags": [
+   "Design"
+  ],
+  "architects": [
+   "Hans Hollein"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "diller-scofidio-renfro-architecture-after-images",
+  "title": "Diller Scofidio + Renfro: Architecture after Images",
+  "by": "Edward Dimendberg",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Monographs",
+  "why": "A study of how Diller Scofidio + Renfro use images and media in architecture.",
+  "tags": [
+   "Contemporary",
+   "Media"
+  ],
+  "architects": [
+   "Diller Scofidio + Renfro"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "programs-and-manifestoes-on-20th-century-architecture",
+  "title": "Programs and Manifestoes on 20th-Century Architecture",
+  "by": "Ulrich Conrads (editor)",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "Manifestos",
+  "why": "Short manifestos by the architects of the twentieth century, from Loos to the 1960s.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "archigram",
+  "title": "Archigram",
+  "by": "Peter Cook (editor)",
+  "year": "1972",
+  "y": 1972,
+  "shelf": "Manifestos",
+  "why": "The collected pages of the Archigram group's magazine and projects.",
+  "tags": [
+   "Utopia",
+   "Drawing"
+  ],
+  "architects": [
+   "Peter Cook",
+   "Ron Herron",
+   "Warren Chalk"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "superstudio-life-without-objects",
+  "title": "Superstudio: Life Without Objects",
+  "by": "Peter Lang and William Menking",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Manifestos",
+  "why": "The radical drawings and films of the Italian group Superstudio.",
+  "tags": [
+   "Utopia",
+   "Radical"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-metropolis-of-tomorrow",
+  "title": "The Metropolis of Tomorrow",
+  "by": "Hugh Ferriss",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "Drawing",
+  "why": "Hugh Ferriss's charcoal drawings of an imagined New York of setback towers.",
+  "tags": [
+   "Skyscrapers",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "stones-of-empire-the-buildings-of-the-raj",
+  "title": "Stones of Empire: The Buildings of the Raj",
+  "by": "Jan Morris with Simon Winchester",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "India",
+  "why": "A tour of the buildings the British left in India.",
+  "tags": [
+   "India",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "splendours-of-the-raj-british-architecture-in-india-1660-to",
+  "title": "Splendours of the Raj: British Architecture in India, 1660 to 1947",
+  "by": "Philip Davies",
+  "year": "1985",
+  "y": 1985,
+  "shelf": "India",
+  "why": "A history of British colonial architecture in India.",
+  "tags": [
+   "India",
+   "History"
+  ],
+  "architects": [
+   "Edwin Lutyens"
+  ],
+  "buildings": [
+   "rashtrapati-bhavan"
+  ]
+ },
+ {
+  "id": "mughal-architecture-an-outline-of-its-history-and-developmen",
+  "title": "Mughal Architecture: An Outline of Its History and Development (1526–1858)",
+  "by": "Ebba Koch",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "India",
+  "why": "A short history of Mughal buildings from Babur to the last emperor.",
+  "tags": [
+   "India",
+   "Islamic"
+  ],
+  "architects": [],
+  "buildings": [
+   "taj-mahal"
+  ]
  }
 ]
