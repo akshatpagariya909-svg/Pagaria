@@ -664,5 +664,403 @@
    "https://en.wikipedia.org/wiki/Stirling_Prize"
   ],
   "note": "Category also holds photos of the pre-2011 theatre (e.g. Everyman Theatre Liverpool.jpg, CC0, shows the old building); use only post-2014 files."
+ },
+ {
+  "id": "goldsmith-street",
+  "name": "Goldsmith Street",
+  "by": "Mikhail Riches with Cathy Hawley",
+  "city": "Norwich",
+  "cc": "GB",
+  "year": "2019",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Climate response",
+   "Community"
+  ],
+  "features": "Passivhaus council homes in tight brick terraces, with a shared planted alley between the back gardens.",
+  "award": "RIBA Stirling Prize 2019",
+  "status": "photo",
+  "commons_category": "Category:Goldsmith Street, Norwich",
+  "photos": [
+   {
+    "file": "File:Goldsmith Street, Norwich - geograph.org.uk - 6357512.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Goldsmith Street, Norwich geograph-6293210-by-Evelyn-Simak.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Most Commons files are 800px geograph photos (meet the 800px rule only just); 6357512 is 2149x3035."
+ },
+ {
+  "id": "new-library-magdalene-college",
+  "name": "New Library, Magdalene College",
+  "by": "Niall McLaughlin Architects",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "2021",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Light from above"
+  ],
+  "features": "Brick walls and tall chimneys frame timber reading bays lit from pitched glazed roof lanterns.",
+  "award": "RIBA Stirling Prize 2022",
+  "status": "photo",
+  "commons_category": "Category:New Library, Magdalene College, Cambridge",
+  "photos": [
+   {
+    "file": "File:New Library, Magdalene College 2024-03-14 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:New Library, Magdalene College 2024-03-14 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Also File:Magdalene College gardens and library from across the River Cam 2024-03-14.jpg (distant, through trees)."
+ },
+ {
+  "id": "gateshead-millennium-bridge",
+  "name": "Gateshead Millennium Bridge",
+  "by": "WilkinsonEyre, Gifford",
+  "city": "Gateshead",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Public space"
+  ],
+  "features": "The first tilting bridge: arch and curved deck rotate together like an opening eyelid to let ships pass.",
+  "award": "RIBA Stirling Prize 2002",
+  "status": "photo",
+  "commons_category": "Category:Gateshead Millennium Bridge",
+  "photos": [
+   {
+    "file": "File:Gateshead Millennium Bridge (51218283831).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Gateshead Millennium bridge & BALTIC art gallery, 14 June 2012.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:2021-GB-Newcastle-Gateshead Millennium Bridge.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gateshead_Millennium_Bridge",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Huge category, plus a night subcategory."
+ },
+ {
+  "id": "stormen-bodo",
+  "name": "Stormen Concert Hall and Library",
+  "by": "DRDH Architects",
+  "city": "Bodø",
+  "cc": "NO",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Two pale buildings, concert hall and library, frame a new square on the harbour; the library has a tall finned front.",
+  "award": "RIBA International Prize 2016 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Stormen, Kulturkvartalet i Bodø",
+  "photos": [
+   {
+    "file": "File:Stormen Konserthuset, Bodø, South view 20150608 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stormen Biblioteket, Bodø, South view 20150608 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stormen Biblioteket Bodø 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/RIBA_International_Award"
+  ],
+  "note": "Library photos are in the subcategory Category:Stormen bibliotek (includes interiors). Completion year 2014 from memory (concert hall opened 2014); confirm."
+ },
+ {
+  "id": "arquipelago-contemporary-arts-centre",
+  "name": "Arquipélago Contemporary Arts Centre",
+  "by": "Menos é Mais Arquitectos, João Mendes Ribeiro",
+  "city": "Ribeira Grande",
+  "cc": "PT",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Stone"
+  ],
+  "features": "An 1890s sweet-potato distillery in dark basalt restored and joined by new pale concrete buildings for art.",
+  "award": "RIBA International Prize 2016 shortlist",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Arquipélago - Centro de Artes Contemporâneas, Azoren 2016 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://arquipelagocentrodeartes.azores.gov.pt/en/arquipelago-e-finalista-do-premio-de-arquitetura-riba/"
+  ],
+  "note": "Weak: only two Commons photos found and no category; the usable one shows the old basalt buildings and chimney, not the new concrete wings (the other is a close-up of the name on a wall). Portugal's freedom of panorama is uncertain. Year 2015 from memory."
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "name": "Toho Gakuen School of Music",
+  "by": "Nikken Sekkei",
+  "city": "Chofu",
+  "cc": "JP",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Section"
+  ],
+  "features": "Soundproof lesson rooms as stacked concrete boxes around a courtyard; gaps between the boxes bring daylight in.",
+  "award": "RIBA International Prize 2018 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Toho Gakuen School of Music",
+  "photos": [
+   {
+    "file": "File:Toho Gakuen School of Music Chofu Campus.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
+  ],
+  "note": "Only one good photo of the Nikken Sekkei building (4608x2339). Other files in the category show other Toho buildings (Senkawa campus). Feature line based on award descriptions from memory; check before publishing."
+ },
+ {
+  "id": "lille-langebro",
+  "name": "Lille Langebro",
+  "by": "WilkinsonEyre, Urban Agency",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "2019",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Public space"
+  ],
+  "features": "Cycle and foot bridge of two curved steel spans on slim piers that swing open sideways to let boats through.",
+  "award": "RIBA International Prize 2021 shortlist",
+  "status": "photo",
+  "commons_category": "Category:Lille Langebro",
+  "photos": [
+   {
+    "file": "File:Lille Langebro (Copenhagen).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lille Langebro 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lille Langebro winter 2026 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lille_Langebro"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hastings-pier",
+  "name": "Hastings Pier",
+  "by": "dRMM",
+  "city": "Hastings",
+  "cc": "GB",
+  "year": "2016",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Timber",
+   "Reclaimed material"
+  ],
+  "features": "Fire-wrecked Victorian pier rebuilt as a wide open deck with a visitor centre, using timber saved from the old pier.",
+  "award": "RIBA Stirling Prize 2017",
+  "status": "photo",
+  "commons_category": "Category:Hastings Pier",
+  "photos": [
+   {
+    "file": "File:Hasting Pier Aug 2026.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hastings Pier (2018).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hastings_Pier",
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "note": "Category mixes pre-fire, fire (2010) and post-2016 photos; use only post-2016 ones. 'Hasting Pier Aug 2026' is a high aerial view showing the whole deck."
+ },
+ {
+  "id": "ring-of-remembrance",
+  "name": "Ring of Remembrance (L'Anneau de la Mémoire)",
+  "by": "Philippe Prost",
+  "city": "Ablain-Saint-Nazaire",
+  "cc": "FR",
+  "year": "2014",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Dark concrete ellipse, part cantilevered over the slope, lined with steel plates naming the WWI dead.",
+  "award": "RIBA International Prize 2016 shortlist",
+  "status": "photo",
+  "commons_category": "Category:L'Anneau de la Mémoire",
+  "photos": [
+   {
+    "file": "File:Anneau de la mémoire.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Anneau de la Mémoire.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Notre Dame de Lorette-Anneau de la Mémoire-20151231.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ablain-Saint-Nazaire - 20130828 164631.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre_Dame_de_Lorette"
+  ],
+  "note": "France has no freedom of panorama and the architect is alive, so these photos could one day be deleted from Commons; a drawing would be an easy fallback (a flat ellipse on a hill)."
+ },
+ {
+  "id": "central-european-university-budapest",
+  "name": "Central European University",
+  "by": "O'Donnell + Tuomey",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2016",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Facade as skin"
+  ],
+  "features": "Pale Hungarian limestone front with a perforated stone screen; rooflit courtyards knit old and new buildings.",
+  "award": "RIBA International Prize 2018 shortlist",
+  "status": "photo",
+  "commons_category": "Category:New Building of Central European University, Budapest",
+  "photos": [
+   {
+    "file": "File:Közép Európai Egyetem.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Közép Európai Egyetem (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Közép Európai Egyetem (5).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_European_University"
+  ],
+  "note": "Nádor utca 15. CEU moved most teaching to Vienna in 2019; the building remains."
  }
 ]
