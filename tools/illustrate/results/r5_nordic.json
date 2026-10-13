@@ -891,5 +891,1226 @@
    "https://en.wikipedia.org/wiki/Gert_Wing%C3%A5rdh"
   ],
   "note": "The two usable exterior photos both show the street side with Liseberg behind; the category has few building views."
+ },
+ {
+  "id": "helsinki-olympic-stadium",
+  "name": "Helsinki Olympic Stadium",
+  "by": "Yrjö Lindegren, Toivo Jäntti",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1938",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "White functionalist stadium with a 72.71 m tower, the length of the 1932 Olympic javelin win.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Helsinki Olympic Stadium",
+  "photos": [
+   {
+    "file": "File:Helsinki Olympic Stadium in Taka-Töölö, Helsinki, Finland, 2026 July.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympic stadium of Helsinki in 1930's.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Olympic Stadium - Helsinki (2023).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium"
+  ],
+  "note": "Venue of the 1952 Olympics; reopened in 2020 after a renovation that added the dark timber canopy seen in recent photos. Photo 2 is from 1938."
+ },
+ {
+  "id": "helsingborg-concert-hall",
+  "name": "Helsingborg Concert Hall",
+  "by": "Sven Markelius",
+  "city": "Helsingborg",
+  "cc": "SE",
+  "year": "1934",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Classic Swedish functionalism: a tall white hall box fronted by a low curved foyer wing.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Helsingborgs konserthus",
+  "photos": [
+   {
+    "file": "File:Helsingborgs konserthus 2013-05-18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Helsingborgs konserthus 3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Helsingborgs konserthus 1.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sven_Markelius"
+  ],
+  "note": "Designed from 1932, completed 1934 (Sven Markelius article). No English article of its own."
+ },
+ {
+  "id": "kuokkala-church",
+  "name": "Kuokkala Church",
+  "by": "Lassila Hirvilammi (Anssi Lassila, Teemu Hirvilammi, Jani Jansson)",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": "2010",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Timber"
+  ],
+  "features": "A folded, slate-clad mass beside a slender slate bell tower, with a timber-ribbed nave inside.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Kuokkala Church",
+  "photos": [
+   {
+    "file": "File:Kuokkala Church 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kuokkalan kirkko.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kuokkalan Kirkko.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kuokkala_Church"
+  ],
+  "note": "No English Wikipedia article; facts from the Commons category description."
+ },
+ {
+  "id": "lieksa-church",
+  "name": "Lieksa Church",
+  "by": "Reima Pietilä, Raili Pietilä",
+  "city": "Lieksa",
+  "cc": "FI",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light & shadow",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "White glazed walls on a rough granite base under a low domed roof; a cross is drawn by the window mullions.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Lieksa Church",
+  "photos": [
+   {
+    "file": "File:Lieksan kirkko (14821753598).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lieksa Church in August 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lieksan kirkko (14821652649).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Lieksa_Church",
+   "https://en.wikipedia.org/wiki/Reima_Pietil%C3%A4"
+  ],
+  "note": "Facts from the Commons category description (designed by Raili and Reima Pietilä, completed 1982)."
+ },
+ {
+  "id": "lister-county-courthouse",
+  "name": "Lister County Courthouse",
+  "by": "Gunnar Asplund",
+  "city": "Sölvesborg",
+  "cc": "SE",
+  "year": "1921",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Ochre Nordic-classical courthouse with a clock gable and a great arched, fan-glazed entrance.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Listers härads tingshus, Sölvesborg",
+  "photos": [
+   {
+    "file": "File:Listers härads tingshus i Sölvesborg - 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Listers härads tingshus i Sölvesborg - 2024-08-20 - Bild 11.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Listers härads tingshus i Sölvesborg - 2024-08-20 - Bild 10.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Listers_h%C3%A4rads_tingshus,_S%C3%B6lvesborg"
+  ],
+  "note": "Swedish name Listers härads tingshus. Built 1921 (Commons category), an early Asplund work in Nordic Classicism. No English Wikipedia article."
+ },
+ {
+  "id": "loyly-helsinki",
+  "name": "Löyly",
+  "by": "Avanto Architects",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "2016",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Public sauna and restaurant under a faceted shell of timber slats that doubles as a climbable terrace.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Löyly",
+  "photos": [
+   {
+    "file": "File:Löyly Helsinki 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Löyly Helsinki 2023 (202326;+G72161).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 IMG 6749 Helsinki (27299755630).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/L%C3%B6yly"
+  ],
+  "note": "Most files in the category are of people on the terraces; these three show the building."
+ },
+ {
+  "id": "lund-konsthall",
+  "name": "Lund Konsthall",
+  "by": "Klas Anshelm",
+  "city": "Lund",
+  "cc": "SE",
+  "year": "1957",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "A plain brick wall on the square hides white galleries lit through tall sloping glass roofs.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Lunds konsthall",
+  "photos": [
+   {
+    "file": "File:Klas Anshelm 1957 Lunds konsthall 01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lunds konsthall 05.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Lunds_konsthall"
+  ],
+  "note": "No English Wikipedia article; architect and year from the Commons file descriptions (\"Klas Anshelm 1957\"). Good interior views of the top-lit halls are in the same category."
+ },
+ {
+  "id": "riksbank-building-stockholm",
+  "name": "Sveriges Riksbank Building",
+  "by": "Peter Celsing",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1976",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Dark stone block of squares and cubes on Brunkebergstorg, composed to look solid and stable.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Riksbankshuset, Stockholm",
+  "photos": [
+   {
+    "file": "File:Brunkebergstorg, Riksbankens hus, 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brunkebergstorg, aug 2020c.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Riksbankshuset 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Celsing",
+   "https://commons.wikimedia.org/wiki/Category:Riksbankshuset,_Stockholm"
+  ],
+  "note": "Headquarters of the Bank of Sweden. Wikipedia gives 1969–1973 for the design; the Commons category and a construction photo date completion to 1976."
+ },
+ {
+  "id": "st-henrys-ecumenical-art-chapel",
+  "name": "St. Henry's Ecumenical Art Chapel",
+  "by": "Sanaksenaho Architects (Matti Sanaksenaho)",
+  "city": "Turku",
+  "cc": "FI",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Timber",
+   "Light & shadow"
+  ],
+  "features": "Copper-clad, boat-shaped chapel on a rocky ridge, with a pine-ribbed interior like an upturned hull.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Ecumenical Art Chapel of St. Henry",
+  "photos": [
+   {
+    "file": "File:Pyhän Henrikin ekumeeninen taidekappeli 2013 01.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Ecumenical Art Chapel of St. Henry out.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pyhän Henrikin ekumeeninen taipekappelin sisäänkäynti.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ecumenical_Art_Chapel_of_St._Henry"
+  ],
+  "note": "No English Wikipedia article; architect and year from the Commons category (Churches by Matti Sanaksenaho; built 2005)."
+ },
+ {
+  "id": "akureyrarkirkja",
+  "name": "Akureyrarkirkja",
+  "by": "Guðjón Samúelsson",
+  "city": "Akureyri",
+  "cc": "IS",
+  "year": "1940",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Twin stepped towers of grooved concrete frame the entrance of a hilltop church above the fjord.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Akureyrarkirkja",
+  "photos": [
+   {
+    "file": "File:Akureyrarkirkja - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akureyrarkirkja 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akureyrarkirkja - panoramio (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Akureyrarkirkja"
+  ],
+  "note": "By the architect of Hallgrímskirkja (already on the wall); the stepped towers are often read as basalt columns."
+ },
+ {
+  "id": "deichman-bjorvika",
+  "name": "Deichman Bjørvika (Oslo Public Library)",
+  "by": "Lundhagem, Atelier Oslo",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "2020",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Glass-skinned library whose upper floors cantilever out toward the Opera, with an open, see-through ground floor.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Deichman Bjørvika",
+  "photos": [
+   {
+    "file": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020 wurde das neue Bibliotheksgebäude neben dem Opernhaus eröffnet. 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deichman_Library"
+  ],
+  "note": "Opened 18 June 2020, next to the Oslo Opera House."
+ },
+ {
+  "id": "dokk1",
+  "name": "Dokk1",
+  "by": "Schmidt Hammer Lassen Architects, Kristine Jensen",
+  "city": "Aarhus",
+  "cc": "DK",
+  "year": "2015",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Cantilever",
+   "Water"
+  ],
+  "features": "Polygonal library and citizens' hall on a harbour pier: a glass box under a wide overhanging upper floor.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:DOKK1",
+  "photos": [
+   {
+    "file": "File:2015-06-30 Aarhus Dokk1 Bibliothek.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Drone photo of Dokk1 in Aarhus, Denmark.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Dokk1 - 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dokk1"
+  ],
+  "note": ""
+ },
+ {
+  "id": "gothenburg-concert-hall",
+  "name": "Gothenburg Concert Hall",
+  "by": "Nils Einar Eriksson",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "1935",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Timber",
+   "Public space"
+  ],
+  "features": "Functionalist hall on Götaplatsen: yellow brick with a tall glazed foyer front facing the square.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Göteborgs konserthus",
+  "photos": [
+   {
+    "file": "File:At Göteborg 2026 0128.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Göteborg 2026 0160.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Goteborg sala koncertowa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gothenburg_Concert_Hall"
+  ],
+  "note": "Wikipedia spells the architect Nils Einar Ericsson; the Commons category and the plaque on the building say Eriksson."
+ },
+ {
+  "id": "gothenburg-law-courts-extension",
+  "name": "Gothenburg Law Courts Extension",
+  "by": "Gunnar Asplund",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "1937",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Courtyard",
+   "Detail"
+  ],
+  "features": "A restrained new wing beside the old courthouse, around a top-lit, timber-lined atrium of stairs and galleries.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Göteborgs rådhusannexet",
+  "photos": [
+   {
+    "file": "File:Asplund fachada.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gothenburgcourt.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gunnar_Asplund",
+   "https://commons.wikimedia.org/wiki/Category:G%C3%B6teborgs_r%C3%A5dhusannexet"
+  ],
+  "note": "Only two exterior photos; the extension is famous for its interior, and Category:Göteborgs rådhusannexet has many good free photos of the atrium if interiors are wanted. Asplund worked on it 1913–1937."
+ },
+ {
+  "id": "hornbaekhus",
+  "name": "Hornbækhus",
+  "by": "Kay Fisker",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "1923",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Brick",
+   "Geometry"
+  ],
+  "features": "A whole city block of brick flats, identical windows repeated without a break around one big green court.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Hornbækhus",
+  "photos": [
+   {
+    "file": "File:Hornbækhus 02.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Hornbækhus 03.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Gårdrummet, Hornbækhus.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kay_Fisker",
+   "https://commons.wikimedia.org/wiki/Category:Hornb%C3%A6khus"
+  ],
+  "note": "Nordic Classicism; landscape architect G.N. Brandt (Commons). Wikipedia's Kay Fisker article gives 1922, Commons 1923. Photo 3 is a 1958 view of the courtyard."
+ },
+ {
+  "id": "orestad-gymnasium",
+  "name": "Ørestad Gymnasium",
+  "by": "3XN",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Free plan",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "A school without classrooms: open decks round an atrium joined by a broad winding stair, behind coloured louvres.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Ørestad Gymnasium",
+  "photos": [
+   {
+    "file": "File:Ørestad Gymnasium.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ørestad Gymnasium - detail.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%98restad_Gymnasium"
+  ],
+  "note": "Only two exterior files (one is a facade close-up of the louvres); Commons has a CC0 interior of the atrium stair."
+ },
+ {
+  "id": "icefjord-centre-ilulissat",
+  "name": "Ilulissat Icefjord Centre",
+  "by": "Dorte Mandrup",
+  "city": "Ilulissat",
+  "cc": "GL",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Structure as expression",
+   "Climate response"
+  ],
+  "features": "A low, boomerang-shaped visitor centre at the edge of the icefjord, its sloping roof a walkway with a view.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Ilulissat Icefjord Centre",
+  "photos": [
+   {
+    "file": "File:Ilulissat Isfjordscenter, Greenland (54067577094).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dorte_Mandrup",
+   "https://commons.wikimedia.org/wiki/Category:Ilulissat_Icefjord_Centre"
+  ],
+  "note": "Greenland (part of the Danish realm). Only one free photo, but a good one. Year is the opening year (2021); Wikipedia names the building but gives no date."
+ },
+ {
+  "id": "nordic-house-torshavn",
+  "name": "Nordic House in the Faroe Islands",
+  "by": "Ola Steen, Kolbrún Ragnarsdóttir",
+  "city": "Tórshavn",
+  "cc": "FO",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Climate response"
+  ],
+  "features": "A turf-roofed cultural centre like a hill of elves, its glass walls braced by steel struts against hurricane winds.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Nordic House in the Faroe Islands",
+  "photos": [
+   {
+    "file": "File:Nordens Hus pa Faeroerne.jpg",
+    "license": "CC BY 2.5 dk",
+    "seen": true
+   },
+   {
+    "file": "File:Nordic House in the Faroes 03.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nordens hus 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nordic_House_in_the_Faroe_Islands"
+  ],
+  "note": "Faroe Islands (FO). Won in a 1977 Nordic competition with 158 entries."
+ },
+ {
+  "id": "powerhouse-brattorkaia",
+  "name": "Powerhouse Brattørkaia",
+  "by": "Snøhetta",
+  "city": "Trondheim",
+  "cc": "NO",
+  "year": "2019",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Energy-positive office: a dark wedge whose steep roof is one big solar array, cut by an oval courtyard.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Powerhouse, Brattørkaia",
+  "photos": [
+   {
+    "file": "File:Powerhouse Brattørkaia, Trondheim, Noruega, 2019-09-06, DD 27.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Puerto, Trondheim, Noruega, 2019-09-06, DD 26.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vista de Trondheim, Noruega, 2019-09-06, DD 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Powerhouse,_Brattørkaia"
+  ],
+  "note": "Architect and year from the Commons category (Snøhetta; built 2019). Built to produce more energy than it uses over its life."
+ },
+ {
+  "id": "reykjavik-city-hall",
+  "name": "Reykjavík City Hall",
+  "by": "Studio Granda",
+  "city": "Reykjavík",
+  "cc": "IS",
+  "year": "1992",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Water",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "Concrete blocks standing in Tjörnin lake on slender columns, around a public hall with a large relief map of Iceland.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Reykjavík Town Hall",
+  "photos": [
+   {
+    "file": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1992 wurde das Rathaus in Reykjavik eröffnet. 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_City_Hall"
+  ],
+  "note": "Built 1992 after an international competition won by Studio Granda."
+ },
+ {
+  "id": "sdu-campus-kolding",
+  "name": "SDU Campus Kolding",
+  "by": "Henning Larsen Architects",
+  "city": "Kolding",
+  "cc": "DK",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "Triangular university building wrapped in perforated steel shutters that open and close with the daylight.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Syddansk Universitet Kolding",
+  "photos": [
+   {
+    "file": "File:SDU Kolding 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Syddansk universitet.Campus Kolding.Denmark.2014 (37).JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Syddansk Universitet, Kolding 2025 a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Syddansk_Universitet_Kolding"
+  ],
+  "note": "University of Southern Denmark. Facts from the Commons category (Henning Larsen Architects, 2012–2014)."
+ },
+ {
+  "id": "st-hallvard-church-oslo",
+  "name": "St. Hallvard Church and Monastery",
+  "by": "Lund & Slaatto (Kjell Lund, Nils Slaatto)",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "1966",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "A square brick block outside, a round church within, under a concrete ceiling that sags down like a bowl.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:St. Hallvard kirke og kloster",
+  "photos": [
+   {
+    "file": "File:St. Hallvard kirke c1987–92 OMU OMu.D0626.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:StHallvard1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St.Hallvardfacade2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kjell_Lund",
+   "https://commons.wikimedia.org/wiki/Category:St._Hallvard_kirke_og_kloster"
+  ],
+  "note": "Catholic church and Franciscan monastery on Enerhaugen. Commons files it under built 1962 and 1992; the church was consecrated in 1966. Photo 1 (c. 1987–92, from above) shows the bowl roof."
+ },
+ {
+  "id": "stockholm-concert-hall",
+  "name": "Stockholm Concert Hall",
+  "by": "Ivar Tengbom",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1926",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Blue Nordic-classical hall on Hötorget, fronted by a tall portico of slender columns over broad steps.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Konserthuset Stockholm",
+  "photos": [
+   {
+    "file": "File:Concerthall - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Hall palace in Stockholm (8272692863).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Concert house steps are miles statue stockholm.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall"
+  ],
+  "note": "Nordic Classicism; home of the Royal Stockholm Philharmonic and the Nobel Prize ceremony. Photo 3 is from 1965."
+ },
+ {
+  "id": "tautra-mariakloster",
+  "name": "Tautra Mariakloster (convent)",
+  "by": "Jensen & Skodvin",
+  "city": "Frosta",
+  "cc": "NO",
+  "year": "2006",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Landscape"
+  ],
+  "features": "Cistercian convent on a fjord island: slate-clad walls and lattice glass-and-timber roofs, near medieval ruins.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Tautra Mariakloster",
+  "photos": [
+   {
+    "file": "File:Tautra Mariakloster Frosta (2016.07.09).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tautra mariakloster vinter.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tautra Nonnekloster.jpg",
+    "license": "CC BY-SA 3.0 no",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tautra_Abbey",
+   "https://commons.wikimedia.org/wiki/Category:Tautra_Mariakloster"
+  ],
+  "note": "Commons mixes the new convent with the medieval abbey ruins in one category; the chosen photos show the new building. Architect from the Commons file descriptions; 2006 is when the community became autonomous (Wikipedia) and the usual completion date."
+ },
+ {
+  "id": "the-twist-kistefos",
+  "name": "The Twist",
+  "by": "BIG (Bjarke Ingels Group)",
+  "city": "Jevnaker",
+  "cc": "NO",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Gallery, bridge and sculpture in one: an aluminium-clad box that turns 90° as it spans 60 m over the river.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:The Twist",
+  "photos": [
+   {
+    "file": "File:The Twist II.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Twist III.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Twist I.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kistefos_Museum",
+   "https://commons.wikimedia.org/wiki/Category:The_Twist"
+  ],
+  "note": "At the Kistefos Museum; opened 18 September 2019 (Commons)."
+ },
+ {
+  "id": "under-restaurant",
+  "name": "Under",
+  "by": "Snøhetta",
+  "city": "Lindesnes",
+  "cc": "NO",
+  "year": "2019",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "A concrete tube sunk into the sea off the rocks, its dining room 5.5 m down behind one wide window.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Under (restaurant)",
+  "photos": [
+   {
+    "file": "File:Under restaurant AV4A9109 (48614080503).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Under_(restaurant)"
+  ],
+  "note": "Only one exterior photo; the rest of the category shows the dining room and food. Opened in 2019."
+ },
+ {
+  "id": "wadden-sea-centre",
+  "name": "Wadden Sea Centre",
+  "by": "Dorte Mandrup",
+  "city": "Vester Vedsted",
+  "cc": "DK",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Courtyard"
+  ],
+  "features": "Low visitor centre on the marsh whose thatch runs over the roof and down the walls, in long sloping planes.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Vadehavscentret",
+  "photos": [
+   {
+    "file": "File:Vadehavscenteret.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20191010 Vadehavscentret pa Jylland ritat av Dorte Mandrup003 (48965849311).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20191010 Vadehavscentret pa Jylland ritat av Dorte Mandrup012-2 (48965858781).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dorte_Mandrup"
+  ],
+  "note": "Near Ribe. Mandrup's rebuild won Building of the Year 2017 (Wikipedia); the category also holds the older centre, avoid File:2013-07 Vadehavscenteret before the reconstruction.jpg."
+ },
+ {
+  "id": "kela-main-office",
+  "name": "Kela Main Office (National Pensions Institute)",
+  "by": "Alvar Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1956",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Courtyard"
+  ],
+  "features": "Red-brick and copper office block stepped round a raised courtyard, with a top-lit main hall inside.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Kansaneläkelaitos headquarters",
+  "photos": [
+   {
+    "file": "File:Kela hdqtrs 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kela hdqtrs 04.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kela hdqtrs 05.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works",
+   "https://commons.wikimedia.org/wiki/Category:Kansanel%C3%A4kelaitos_headquarters"
+  ],
+  "note": "Completed 1956 (Commons; Wikipedia list gives 1953–1956)."
+ },
+ {
+  "id": "kth-school-of-architecture",
+  "name": "KTH School of Architecture",
+  "by": "Tham & Videgård Arkitekter",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Round-cornered studio building clad in rust-brown metal, its wide windows bending with the curved walls.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Arkitekturskolan, KTH",
+  "photos": [
+   {
+    "file": "File:Arkitekturskolan October 2015 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arkitekturskolan October 2015 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arkitekturskolan, KTH 2015 -01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Arkitekturskolan,_KTH"
+  ],
+  "note": "Built 2013–2015 at Osquars backe 9 (Commons file descriptions); Kasper Salin Prize. No English Wikipedia article on the building."
  }
 ]

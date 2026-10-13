@@ -600,5 +600,148 @@
    "https://thespaces.com/andy-donohoe-photographs-the-concrete-curves-of-tadao-andos-sayamaike-museum/"
   ],
   "note": "Displays a section of the ancient Sayamaike reservoir dam. Two photos are 1280x720 (the only good views of the water court)."
+ },
+ {
+  "id": "kadokawa-culture-museum",
+  "name": "Kadokawa Culture Museum",
+  "by": "Kengo Kuma",
+  "city": "Tokorozawa",
+  "cc": "JP",
+  "year": "2020",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Angular polyhedron clad in 20,000 granite plates, as if rock had broken up through the ground; 8 m bookshelf theatre.",
+  "award": "Japanese contemporary: Kengo Kuma",
+  "status": "photo",
+  "commons_category": "Category:Kadokawa Culture Museum",
+  "photos": [
+   {
+    "file": "File:Kadokawa Culture Museum-2020-07-09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:Kadokawa Culture Museum dusk 2024.JPG",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:Kadokawa Culture Museum at Tokorozawa Sakura Town (50608208297).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "6240x4160"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://worldarchitecture.org/architecture-news/evhev/kengo-kuma-creates-monolithic-kadokawa-culture-museum-made-of-granite-facade-in-japan",
+   "https://pen-online.com/arts/the-kadokawa-culture-museum-designed-by-kengo-kuma/",
+   "https://www.thisiscolossal.com/?p=132601"
+  ],
+  "note": "With Kajima Design; core of the Tokorozawa Sakura Town complex. Opened November 2020."
+ },
+ {
+  "id": "kurashiki-ivy-square",
+  "name": "Kurashiki Ivy Square",
+  "by": "Shizutaro Urabe",
+  "city": "Kurashiki",
+  "cc": "JP",
+  "year": "1974",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Courtyard"
+  ],
+  "features": "Meiji-era brick spinning mill turned into a hotel and halls; part cleared for a plaza paved with its old tiles.",
+  "award": "Japanese modernism: Shizutaro Urabe",
+  "status": "photo",
+  "commons_category": "Category:Kurashiki Ivy Square",
+  "photos": [
+   {
+    "file": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan10s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4912x3264"
+   },
+   {
+    "file": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan03s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4912x3264"
+   },
+   {
+    "file": "File:211203 Kurashiki Ivy Square Kurashiki Okayama pref Japan02s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4912x3264"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_08_128-0",
+   "https://www.okayama-japan.jp/en/spot/10808"
+  ],
+  "note": "Former Kurashiki Spinning Works (1889). Ivy was planted in the factory era to keep the buildings cool. Some sources spell the architect Shintaro Urabe. The white wooden building in many photos is a separate older building on the site."
+ },
+ {
+  "id": "national-museum-of-japanese-history",
+  "name": "National Museum of Japanese History",
+  "by": "Yoshinobu Ashihara",
+  "city": "Sakura",
+  "cc": "JP",
+  "year": "1980",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Promenade",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Long, low museum on the Sakura Castle ruins, entered across a broad brick forecourt under a vaulted canopy.",
+  "award": "Japanese modernism: Yoshinobu Ashihara",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Japanese History",
+  "photos": [
+   {
+    "file": "File:National Museum of Japanese History 06.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:National Museum of Japanese History 05.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:National Museum of Japanese History 03.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "4032x3024"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yoshinobu_Ashihara",
+   "https://ashihara.jp/da/html/intr0201e.htm",
+   "https://jal.japantravel.com/chiba/national-museum-of-japanese-history/63743"
+  ],
+  "note": "Building dated 1980 by Ashihara's office; the museum opened 16 March 1983. The features line is drawn from the photos (forecourt and entrance canopy); no source describes the design in detail."
  }
 ]
