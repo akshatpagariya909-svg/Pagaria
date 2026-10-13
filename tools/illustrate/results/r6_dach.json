@@ -704,5 +704,1389 @@
    "https://commons.wikimedia.org/wiki/Category:Jean-Monnet-Tower"
   ],
   "note": "No English Wikipedia article (en 'Tour Total' is the Paris tower). Architect, 2012 opening and 69 m height from the Commons category's Wikidata infobox. Faceted precast fins: general knowledge, visible in File:Berlin moabit tour total 19.01.2013 12-57-46 ShiftN.jpg; check. Now branded TotalEnergies."
+ },
+ {
+  "id": "tegel-airport-terminal-a",
+  "name": "Tegel Airport, Terminal A",
+  "by": "von Gerkan, Marg und Partner (gmp)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1974",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Courtyard"
+  ],
+  "features": "Hexagonal ring terminal around an open square of car parks and taxis, famous for its very short walks to the gates.",
+  "award": "German modern (gmp)",
+  "status": "photo",
+  "commons_category": "Category:Berlin-Tegel Airport",
+  "photos": [
+   {
+    "file": "File:Flughafen Tegel 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Flughafen Berlin-Tegel (8583937613).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:TXL Flughafen Berlin Tegel 1 - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Tegel_Airport"
+  ],
+  "note": "Wikipedia: hexagon-shaped ring terminal with parking in the middle, inaugurated November 1974; designs by 'Gerkan, Marg und Partner' (cited in a reference). Airport closed in 2020; the terminal is being converted for Berlin TXL / Urban Tech Republic. The category is large (planes, history); an aerial of the hexagon would be a better lead if one is found."
+ },
+ {
+  "id": "stuttgart-city-library",
+  "name": "Stuttgart City Library (Stadtbibliothek am Mailänder Platz)",
+  "by": "Eun Young Yi",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Void",
+   "Light from above"
+  ],
+  "features": "Plain cube on a 9x9 facade grid; inside, a silent 'heart' room and a white funnel-shaped hall rising to a skylight.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Stadtbibliothek am Mailänder Platz",
+  "photos": [
+   {
+    "file": "File:Stadtbibliothek am Mailaender Platz 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:City Library of Stuttgart (15643301974).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:BibliothekMailaenderPlatzNachtaufnahme 2012-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadtbibliothek_Stuttgart"
+  ],
+  "note": "Wikipedia: international competition won by Eun Young Yi; built 2010 to 24 October 2011; cube with nine floors above ground; facade of 9x9 glass blocks; central 'heart'; funnel-shaped hall from the fifth level. The skylight is general knowledge; check. Architect is Korean-born, based in Cologne."
+ },
+ {
+  "id": "paul-loebe-house",
+  "name": "Paul Löbe House",
+  "by": "Stephan Braunfels",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Axis"
+  ],
+  "features": "Parliament offices on the 'Band des Bundes': a glass end hall under a thin flat roof, bridged across the Spree.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Paul-Löbe-Haus",
+  "photos": [
+   {
+    "file": "File:Abgeordnetenhaus - Paul-Löbe-Haus - Berlin - Germany - 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:141019 Sprung über die Spree und Paul-Löbe-Haus.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:2018-08-12 DE Berlin-Mitte, Paul-Löbe-Haus (50028264413).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_L%C3%B6be_House"
+  ],
+  "note": "Wikipedia: Stephan Braunfels won the competition for both the Paul Löbe and Marie-Elisabeth Lüders Houses; built 1997-2002; opened 2001 (the infobox gives 2002 completion); part of Schultes and Frank's 'Band des Bundes'; central hall through the whole building; bridges to the Lüders House over the Spree."
+ },
+ {
+  "id": "kranhaeuser-cologne",
+  "name": "Kranhäuser (Crane Houses)",
+  "by": "Alfons Linster and Hadi Teherani (BRT Architekten)",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": "2008",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Water",
+   "Structure as expression"
+  ],
+  "features": "Three 17-storey upside-down L blocks on the Rhine, cantilevered like the harbour cranes they recall.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Kranhaus, Rheinauhafen Cologne",
+  "photos": [
+   {
+    "file": "File:2026-05-27-Kranhäuser-068974.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 Kranhaeuser Koeln Poller Wiese.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20231122 083025 Kranhaus Rheinauhafen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kranhaus"
+  ],
+  "note": "Wikipedia: three 17-storey buildings, upside-down L like harbour cranes, about 62 m high and 70 m long; by Alfons Linster and Hadi Teherani of BRT; construction began 2006, first completed 2008 (the set finished later). Two offices and one housing block."
+ },
+ {
+  "id": "neuer-zollhof",
+  "name": "Neuer Zollhof",
+  "by": "Frank Gehry",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": "1998",
+  "type": "Office & tower",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Three leaning, curving office blocks in white plaster, stainless steel and red brick on Düsseldorf's old harbour.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Der Neue Zollhof",
+  "photos": [
+   {
+    "file": "File:Düsseldorf, Neuer Zollhof -- 2015 -- 8155.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2015.09.26.162620 Gehry Buildings Neuer Zollhof Düsseldorf.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Der Neue Zollhof (Gehry-Bauten) - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neuer_Zollhof"
+  ],
+  "note": "Wikipedia: three buildings by Frank Gehry, completed 1998; tallest 14 storeys, just under 50 m; white plaster, stainless steel and red brick claddings."
+ },
+ {
+  "id": "museum-der-bildenden-kuenste-leipzig",
+  "name": "Museum der bildenden Künste, Leipzig",
+  "by": "Hufnagel Pütz Rafaelian (Karl Hufnagel, Peter Pütz, Michael Rafaelian)",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Void"
+  ],
+  "features": "Glass-clad box on a former city square, framed by lower corner buildings that rebuild the old street block.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Museum der bildenden Künste",
+  "photos": [
+   {
+    "file": "File:Bildermuseumleipzig.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Katharinenstraße - 10Museum der bildenden Künste 01 ies.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Museum der bildenden Künste Leipzig.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_der_bildenden_K%C3%BCnste"
+  ],
+  "note": "Wikipedia: Hufnagel Pütz Rafaelian won the 1997 competition; opened 4 December 2004 on the former Sachsenplatz; 'a compact building mass framed by angled structures in the corners of the pre-war street block'. The glass cladding is visible in the photos, not stated in the article. Inner court: File:Leipzig - Museum der bildenden Künste Leipzig (1).jpg (CC BY 2.0)."
+ },
+ {
+  "id": "ohel-jakob-synagogue",
+  "name": "Ohel Jakob Synagogue",
+  "by": "Wandel Hoefer Lorch (Rena Wandel-Hoefer, Wolfgang Lorch)",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2006",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Rough travertine base like the Western Wall, topped by a glass cube in a bronze star-of-David lattice: the tent.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Jüdisches Zentrum Jakobsplatz",
+  "photos": [
+   {
+    "file": "File:Juedisches Zentrum Hauptsynagoge Muenchen-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Juedisches Zentrum Hauptsynagoge Muenchen-8.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blick auf den St.-Jakobs-Platz und die Hauptsynagoge in München.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ohel_Jakob_synagogue_(Munich)"
+  ],
+  "note": "Wikipedia: architects Rena Wandel-Hoefer and Wolfgang Lorch; built 2004-2006, inaugurated 9 November 2006; part of the Jewish Center with the museum and community centre. The Western Wall and tent readings and the lattice pattern are general knowledge, not in the article; check. Photos are in the Jewish Centre category (synagogue, museum and community centre together); interiors in Category:Interior of the Hauptsynagoge Ohel Jakob (Munich)."
+ },
+ {
+  "id": "kant-dreieck",
+  "name": "Kant-Dreieck",
+  "by": "Josef Paul Kleihues",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1994",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Gridded office tower on a triangular plot, crowned by a huge sheet-metal 'sail' that turns in the wind.",
+  "award": "German postmodern (Kleihues)",
+  "status": "photo",
+  "commons_category": "Category:Kant-Dreieck",
+  "photos": [
+   {
+    "file": "File:Kant-Dreieck-Hochhaus Berlin (2008).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CharlottenburgKantdreieck.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kant-Dreieck, Berlin - panoramio (36).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kant-Dreieck",
+   "https://commons.wikimedia.org/wiki/File:1986-06-22_Berlin-Charlottenburg_Kantstra%C3%9Fe_Fasanenstra%C3%9Fe_(West-Berlin)_a.jpg"
+  ],
+  "note": "No English Wikipedia article. Architect from the Commons category's Wikidata infobox; 1994 and the movable riveted sheet-metal sail from Commons file descriptions. Check the year against another source before publishing."
+ },
+ {
+  "id": "zueblin-haus",
+  "name": "Züblin-Haus",
+  "by": "Gottfried Böhm with Dörte Gatermann",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "1985",
+  "type": "Workplace",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Light from above",
+   "Courtyard",
+   "Structure as expression"
+  ],
+  "features": "Two office slabs facing across a huge glass-roofed hall, with free-standing stair towers and bridges inside.",
+  "award": "German modern (Böhm)",
+  "status": "photo",
+  "commons_category": "Category:Züblin-Haus",
+  "photos": [
+   {
+    "file": "File:Verwaltungsgebäude der Ed. Züblin AG, Albstadtweg 3, Stuttgart-Möhringen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Züblin-Dom (1984, Gottfried Böhm) - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Züblin-Haus, Stuttgart 009.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Z%C3%BCblin-Haus"
+  ],
+  "note": "Headquarters of the construction firm Ed. Züblin AG. No English Wikipedia article. Architects from the Commons category's Wikidata infobox; the category files it under 'Built in 1985' while two photo titles say 1984. Interior hall photos are in the same category."
+ },
+ {
+  "id": "nord-lb-hanover",
+  "name": "Norddeutsche Landesbank (NORD/LB) Headquarters",
+  "by": "Behnisch, Behnisch & Partner",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": "2002",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Courtyard",
+   "Cantilever"
+  ],
+  "features": "Glass perimeter block around a planted court, with a tower of glass boxes stacked and twisted off a central core.",
+  "award": "German contemporary (Behnisch)",
+  "status": "photo",
+  "commons_category": "Category:Norddeutsche Landesbank Hannover",
+  "photos": [
+   {
+    "file": "File:Nord LB administration building Hanover Germany.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hannover - Norddeutsche Landesbank.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inner yard Nord-LB office building Hanover Germany.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch"
+  ],
+  "note": "Wikipedia (Günter Behnisch): 'North German State Clearing Bank', 1998-2002, Hanover. Commons credits 'Behnisch Architekten'; the firm at the time was Behnisch, Behnisch & Partner (Stefan Behnisch). A Commons photo shows roof mirrors that direct daylight into the court."
+ },
+ {
+  "id": "academy-of-arts-pariser-platz",
+  "name": "Academy of Arts, Pariser Platz",
+  "by": "Günter Behnisch with Werner Durth (Behnisch & Partner)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "An all-glass front on Pariser Platz, defying the square's stone rules, opening onto the old academy halls behind.",
+  "award": "German contemporary (Behnisch)",
+  "status": "photo",
+  "commons_category": "Category:Akademie der Künste Berlin (Pariser Platz building)",
+  "photos": [
+   {
+    "file": "File:Akademie der künste berlin.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akademie der Künste - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin Akademie der Kuenste.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+  ],
+  "note": "Wikipedia (Günter Behnisch): 'Academy of Arts Building', 1993-2005, a glass building beside the reconstructed Hotel Adlon. Co-design by Werner Durth and the fight over Pariser Platz's stone-facade rules are general knowledge; check before publishing."
+ },
+ {
+  "id": "bmw-headquarters",
+  "name": "BMW Headquarters (BMW Tower) and BMW Museum",
+  "by": "Karl Schwanzer",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Prefabrication",
+   "Sculptural form"
+  ],
+  "features": "Four linked cylinders like an engine, hung from a central support tower; beside it, the museum's round 'cylinder head'.",
+  "award": "Austrian architect in Germany (Schwanzer)",
+  "status": "photo",
+  "commons_category": "Category:BMW Tower",
+  "photos": [
+   {
+    "file": "File:BMW Tower DSC 9732.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BMW Welt and BMW Headquarters, Munich, Germany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BMW-Hochhaus vom Olympiaberg Muenchen-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/BMW_Headquarters",
+   "https://en.wikipedia.org/wiki/BMW_Museum"
+  ],
+  "note": "Wikipedia: by Austrian architect Karl Schwanzer, both tower and museum; built 1968-1972, opened 1973; 101 m; the cylinders are suspended on a central support tower and floors were assembled on the ground then lifted. Treated as one entry with the museum beside it (museum established 1973, renovated 2004-2008)."
+ },
+ {
+  "id": "swiss-embassy-berlin",
+  "name": "Swiss Embassy, Berlin (extension)",
+  "by": "Diener & Diener",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Adaptive reuse",
+   "Monumentality"
+  ],
+  "features": "A sheer concrete block butted against the surviving 1870s embassy palace, the last old building in its district.",
+  "award": "Swiss German contemporary (Diener & Diener)",
+  "status": "photo",
+  "commons_category": "Category:Swiss Embassy building in Berlin",
+  "photos": [
+   {
+    "file": "File:Schweizer Botschaft.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Schweizerische Botschaft Berlin 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin, Tiergarten, Otto-von-Bismarck-Allee, Botschaft Schweiz.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diener_%26_Diener",
+   "https://commons.wikimedia.org/wiki/Category:Swiss_Embassy_building_in_Berlin"
+  ],
+  "note": "Wikipedia (Diener & Diener): 'Swiss Embassy Berlin', 1995-2000. The old palace dates from the 1870s (a Commons file is titled 'Berlin Schweizer Botschaft 1863', so check the date) and was the only building left standing around it after the war; general knowledge, check. The extension's east wall carries an artwork by Helmut Federle (not in sources here)."
+ },
+ {
+  "id": "axel-springer-campus",
+  "name": "Axel Springer Campus",
+  "by": "OMA (Rem Koolhaas)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2020",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Void",
+   "Steel & glass"
+  ],
+  "features": "Dark glass office cube split by a diagonal valley of terraced open-plan floors, seen through a faceted glass wall.",
+  "award": "German contemporary",
+  "status": "photo",
+  "commons_category": "Category:Axel-Springer-Neubau",
+  "photos": [
+   {
+    "file": "File:2025-08-19-Axel-Springer-Campus-Berlin-Kreuzberg.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Axel-springer-neubau-bei-tag dominik-tryba.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020-04-30-Axel-Springer-Campus-Berlin-Kreuzberg-Office-for-Metropolitan-Architecture-OMA 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+   "https://en.wikipedia.org/wiki/Axel_Springer_SE"
+  ],
+  "note": "Wikipedia: Axel Springer Campus, Berlin (2020), a cube-shaped office building by Rem Koolhaas and OMA. The terraced diagonal 'valley' inside is general knowledge, visible through the faceted glass in the photos; check."
+ },
+ {
+  "id": "berlin-hauptbahnhof",
+  "name": "Berlin Hauptbahnhof",
+  "by": "Meinhard von Gerkan (gmp, von Gerkan, Marg and Partners)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Section"
+  ],
+  "features": "Crossing station: an east-west glass train shed over a north-south line below, straddled by two office bridges.",
+  "award": "German contemporary (gmp)",
+  "status": "photo",
+  "commons_category": "Category:Exterior of Berlin Hauptbahnhof",
+  "photos": [
+   {
+    "file": "File:Berlin Hauptbahnhof vom Washingtonplatz - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin-Spreetour-59-Hauptbahnhof-2022-gje.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BerlinHauptbahnhof.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Hauptbahnhof"
+  ],
+  "note": "Wikipedia infobox: architect Meinhard von Gerkan of Gerkan, Marg and Partners; opened 26 May 2006. The two-level crossing and the office 'bridge' buildings are general knowledge, visible in the photos; check wording. Engineers: Schlaich Bergermann (not in sources here)."
+ },
+ {
+  "id": "adac-headquarters",
+  "name": "ADAC Headquarters",
+  "by": "Sauerbruch Hutton",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "93 m tower rising from a long, curving base; its glass skin in 22 shades of yellow and blue reads as one colour field.",
+  "award": "German contemporary (Sauerbruch Hutton)",
+  "status": "photo",
+  "commons_category": "Category:ADAC-Zentrale",
+  "photos": [
+   {
+    "file": "File:ADAC IMG 0470.JPG",
+    "license": "CC BY 1.0",
+    "seen": true
+   },
+   {
+    "file": "File:ADAC-Zentrale, Munich, March 2017-02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:ADAC-Hochhaus Muenchen-5.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/ADAC_Headquarters",
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton"
+  ],
+  "note": "Wikipedia: built 2006-2011, opened 22 March 2012, 93 m and 23 floors; architect Sauerbruch Hutton, structural engineer Werner Sobek. Year given as 2011 completion (Sauerbruch Hutton's list says 2012). The '22 shades' figure is general knowledge, not checked; trim to 'yellow and blue shades' if in doubt."
+ },
+ {
+  "id": "kunstmuseum-bonn",
+  "name": "Kunstmuseum Bonn",
+  "by": "Axel Schultes (BJSS) with Jürgen Pleuser",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Pilotis",
+   "Public space"
+  ],
+  "features": "Pale concrete galleries under a vast thin roof on slender columns, shading a forecourt shared with the Kunsthalle.",
+  "award": "German contemporary (Schultes)",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Bonn",
+  "photos": [
+   {
+    "file": "File:20130704 bonn023.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kunstmuseum Bonn (1).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20070404 bonn kunstmuseum02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Bonn"
+  ],
+  "note": "Wikipedia: by BJSS (Axel Schultes) and Jürgen Pleuser, opened 1992; three entrances. The canopy-on-columns description is from the photos and general knowledge. Do not use File:Bonn Kunstmuseum by Niederkasseler - panoramio.jpg: it shows the Bundeskunsthalle's cones. Schultes later designed the Federal Chancellery (already on the wall)."
+ },
+ {
+  "id": "marco-polo-tower",
+  "name": "Marco Polo Tower",
+  "by": "Behnisch Architekten",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "55 m apartment tower whose floor plates twist from storey to storey, so deep balconies shade the glass below.",
+  "award": "German contemporary (Behnisch)",
+  "status": "photo",
+  "commons_category": "Category:Marco-Polo-Tower",
+  "photos": [
+   {
+    "file": "File:Marco-Polo-Tower (Hamburg-HafenCity).ajb.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marco-Polo-Tower.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marco-Polo-Tower & Unilever-Haus 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+   "https://commons.wikimedia.org/wiki/Category:Marco-Polo-Tower"
+  ],
+  "note": "Wikipedia lists 'Marco-Polo-Tower, Hamburg, Germany 2010' among Behnisch Architekten's projects; Commons infobox gives 55 m and inception August 2009. Stands next to Behnisch's Unilever-Haus (already on the wall). The rotating floor plates are visible in the photos; the shading purpose is general knowledge."
+ },
+ {
+  "id": "wu-library-learning-center",
+  "name": "Library and Learning Center, Vienna University of Economics",
+  "by": "Zaha Hadid Architects",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Parametric",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Circulation"
+  ],
+  "features": "Leaning, striated block whose dark glazed reading room cantilevers far over the campus square.",
+  "award": "Austrian contemporary",
+  "status": "photo",
+  "commons_category": "Category:WU Wien, Library and Learning Center",
+  "photos": [
+   {
+    "file": "File:Campus WU LC D1 TC DSC 1440w.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien - WU Campus, LC.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:WU Wien, Library & Learning Center, Zaha Hadid 001.JPG",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zaha_Hadid",
+   "https://en.wikipedia.org/wiki/Vienna_University_of_Economics_and_Business"
+  ],
+  "note": "Wikipedia (Zaha Hadid) dates it 2013, when the new WU campus opened; other articles give 2008, the competition year. Centrepiece of the WU campus, whose other buildings are by BUSarchitektur, CRAB, Estudio Carme Pinós, Atelier Hitoshi Abe and NO.MAD (general knowledge)."
+ },
+ {
+  "id": "gasometer-b-vienna",
+  "name": "Gasometer B, Vienna",
+  "by": "Coop Himmelb(l)au",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Housing",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Brick"
+  ],
+  "features": "An 1890s brick gasholder turned into flats, with a bent, shield-like slab of new apartments leaning against it.",
+  "award": "Austrian contemporary (Coop Himmelb(l)au)",
+  "status": "photo",
+  "commons_category": "Category:Gasometer B, Vienna",
+  "photos": [
+   {
+    "file": "File:Gasometer in Wien 2013 2.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Wien - Wiener Gasometer (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gasometer B, Vienna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gasometer,_Vienna",
+   "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au"
+  ],
+  "note": "Wikipedia: gasholders built 1896-1899; four converted 1999-2001 by Jean Nouvel (A), Coop Himmelblau (B), Manfred Wehdorn (C) and Wilhelm Holzbauer (D); opened 30 October 2001. This entry is Gasometer B only; the 'shield' name is general knowledge, not in the article."
+ },
+ {
+  "id": "zentralsparkasse-favoriten",
+  "name": "Zentralsparkasse Branch, Favoritenstrasse",
+  "by": "Günther Domenig",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1979",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Bank front of bulging, rippling steel panels between plain houses; inside, a giant concrete hand holds the stair.",
+  "award": "Austrian modern (Domenig)",
+  "status": "photo",
+  "commons_category": "Category:Zentralsparkassenfiliale Favoritenstraße",
+  "photos": [
+   {
+    "file": "File:2023-01-02-Domenig-Haus-Favoritenstr-Wien.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zentralsparkassenfiliale-Favoritenstraße-(Günther-Domenig,-1975–79)-(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Favoriten Domenig-Haus 1.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnther_Domenig",
+   "https://commons.wikimedia.org/wiki/Category:Zentralsparkassenfiliale_Favoritenstra%C3%9Fe"
+  ],
+  "note": "Wikipedia (Domenig): 'Zentralsparkasse bank, Vienna' 1974-79 and an Austrian builders prize for the Z-branch Favoriten in 1981; Commons gives 1975-79. The concrete hand is visible in File:Zentralsparkassenfiliale-Favoritenstraße-(Günther-Domenig,-1975–79)-(3).jpg (CC BY-SA 4.0). Now known as the Domenig-Haus; no longer a bank."
+ },
+ {
+  "id": "loisium-langenlois",
+  "name": "Loisium Wine World",
+  "by": "Steven Holl",
+  "city": "Langenlois",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "An aluminium-clad cube among the vineyards, cut by narrow slots, that leads down into old wine cellars.",
+  "award": "Austrian contemporary",
+  "status": "photo",
+  "commons_category": "Category:Loisium",
+  "photos": [
+   {
+    "file": "File:Loisium Langenlois.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Langenlois Loisium-8254.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Langenlois Loisium-8251.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Loisium"
+  ],
+  "note": "No English Wikipedia article; Steven Holl's article does not mention it. Architect from the Commons category's Wikidata infobox; 2003 from its 'Built in Lower Austria in 2003' category. The link to the cellars and the cut-slot pattern are general knowledge plus the photos; check. Holl also built the Loisium hotel next to it (not included)."
+ },
+ {
+  "id": "kaufhaus-tyrol",
+  "name": "Kaufhaus Tyrol",
+  "by": "David Chipperfield with Dieter Mathoi",
+  "city": "Innsbruck",
+  "cc": "AT",
+  "year": "2010",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Department store front broken into a gently angled row of stone-framed bays that keeps the rhythm of the old street.",
+  "award": "Chipperfield in DACH",
+  "status": "photo",
+  "commons_category": "Category:Kaufhaus Tyrol",
+  "photos": [
+   {
+    "file": "File:Innsbruck-KaufhausTyrol-Front.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:AUT Innsbruck, Kaufhaus Tyrol 003.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaufhaus Tyrol.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kaufhaus_Tyrol"
+  ],
+  "note": "No English Wikipedia article. Architects and opening date (4 March 2010) from the Commons category's Wikidata infobox. Type set to Workplace for lack of a retail type in the vocabulary. The stone-framed bays are from the photos."
+ },
+ {
+  "id": "lentos-kunstmuseum-linz",
+  "name": "Lentos Art Museum",
+  "by": "Weber & Hofer",
+  "city": "Linz",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Light & shadow"
+  ],
+  "features": "130 m glass-skinned box on the Danube that glows in changing colours at night, with a large opening to the river.",
+  "award": "Austrian contemporary",
+  "status": "photo",
+  "commons_category": "Category:Building of Lentos Kunstmuseum Linz",
+  "photos": [
+   {
+    "file": "File:Lentos Donau.jpg",
+    "license": "CC BY-SA 2.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Linz muzeum Lentos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:LentosNightBlue.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lentos_Art_Museum"
+  ],
+  "note": "Wikipedia: by Zurich firm Weber & Hofer, opened May 2003, 130 m long, about 8,000 m2, transparent glass facade lit at night, on the Danube. The river-facing opening is visible in the photos (not described in the article); trim if in doubt."
+ },
+ {
+  "id": "wiener-stadthalle",
+  "name": "Wiener Stadthalle",
+  "by": "Roland Rainer",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1958",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Postwar arena whose big hall hangs its roof over a row of raking concrete struts along a glazed foyer.",
+  "award": "Austrian modern",
+  "status": "photo",
+  "commons_category": "Category:Wiener Stadthalle",
+  "photos": [
+   {
+    "file": "File:Stadthalle Wien ca 1972.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Die Wiener Stadthalle (459574243).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wiener Stadthalle bei Nacht - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiener_Stadthalle"
+  ],
+  "note": "Wikipedia: Roland Rainer designed the original halls, built 1953-1958; Halls A and B opened 19 October 1957, Hall D 21 June 1958; later halls E (1994) and F (2006) by others. The raking struts and roof are described from the photos; check."
+ },
+ {
+  "id": "murinsel-graz",
+  "name": "Murinsel",
+  "by": "Vito Acconci",
+  "city": "Graz",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "A floating steel-and-glass shell in the river Mur, a café and amphitheatre linked to both banks by footbridges.",
+  "award": "Austrian contemporary",
+  "status": "photo",
+  "commons_category": "Category:Murinsel, Graz",
+  "photos": [
+   {
+    "file": "File:Graz Murinsel 2.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Graz Murinsel 2009 1.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aiola island 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murinsel"
+  ],
+  "note": "Wikipedia: an artificial floating island in the Mur linking both banks, designed by New York artist Vito Acconci for Graz's year as 2003 European Capital of Culture. The café and amphitheatre programme is general knowledge; check."
+ },
+ {
+  "id": "werkraum-haus-andelsbuch",
+  "name": "Werkraum Haus",
+  "by": "Peter Zumthor",
+  "city": "Andelsbuch",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Steel & glass"
+  ],
+  "features": "Showroom for the Bregenzerwald craftsmen's guild: one big dark roof floating over an all-glass hall.",
+  "award": "Vorarlberg timber architecture",
+  "status": "photo",
+  "commons_category": "Category:Werkraum Haus",
+  "photos": [
+   {
+    "file": "File:Werkraum Haus von Peter Zumthor in Andelsbuch 1.JPG",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Werkraum Haus von Peter Zumthor in Andelsbuch 4.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Werkraum Haus von Peter Zumthor in Andelsbuch 3.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Werkraum_Bregenzerwald",
+   "https://commons.wikimedia.org/wiki/Category:Werkraum_Haus"
+  ],
+  "note": "Architect from Commons file titles; 2013 from the category 'Built in Vorarlberg in 2013'. Werkraum Bregenzerwald is the craftsmen's association (founded 1999). The roof's timber structure is general knowledge; the photos show a dark roof edge and glass walls."
+ },
+ {
+  "id": "lifecycle-tower-one",
+  "name": "LifeCycle Tower One (LCT ONE)",
+  "by": "Hermann Kaufmann",
+  "city": "Dornbirn",
+  "cc": "AT",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Prefabrication",
+   "Modular"
+  ],
+  "features": "Eight-storey prototype of a prefabricated timber-hybrid office system, its timber slabs set floor by floor.",
+  "award": "Vorarlberg timber architecture",
+  "status": "photo",
+  "commons_category": "Category:LifeCycle Tower",
+  "photos": [
+   {
+    "file": "File:North-east sight-3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:South-east-sight-3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:North side-entry area-2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:LifeCycle_Tower"
+  ],
+  "note": "No English Wikipedia article. From the Commons category: architect Hermann Kaufmann, inception 2011, 27 m, eight-storey timber hybrid; the system is meant to reach up to 100 m / 30 storeys; a file shows the finished shell in 2012. 'Set floor by floor' is general knowledge of its prefabricated assembly; check. The facade is clad, so the timber is not visible in the photos."
+ },
+ {
+  "id": "building-2226-lustenau",
+  "name": "2226 Office Building",
+  "by": "Baumschlager Eberle",
+  "city": "Lustenau",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Human comfort",
+   "Brick"
+  ],
+  "features": "Thick-walled white cube with deep, tall window reveals, built to stay comfortable without heating or cooling plant.",
+  "award": "Vorarlberg (Baumschlager Eberle)",
+  "status": "photo",
+  "commons_category": "Category:Bürogebäude 2226",
+  "photos": [
+   {
+    "file": "File:Bürogebäude 2226 Lustenau Österreich 2013 Baumschlager Eberle Architekten.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bürogebäude 2226 Lustenau (B), 2013.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bürogebäude 2226 Lustenau, Detail (A) 2013.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:B%C3%BCrogeb%C3%A4ude_2226"
+  ],
+  "note": "No English Wikipedia article. Architect and 2013 from Commons file titles and categories. The 'no heating, cooling or mechanical ventilation' concept (the name refers to 22-26 degrees C) and the thick brick walls are general knowledge, not in the sources reached; check before publishing. The photos look like professional press images uploaded under free licences; worth a glance at the licence pages."
+ },
+ {
+  "id": "fiore-di-pietra",
+  "name": "Fiore di pietra",
+  "by": "Mario Botta",
+  "city": "Monte Generoso",
+  "cc": "CH",
+  "year": "2017",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Summit restaurant whose stone-clad walls fold outward like petals around a glazed core, on the cliff edge.",
+  "award": "Ticino school (Botta)",
+  "status": "photo",
+  "commons_category": "Category:Fiore di pietra",
+  "photos": [
+   {
+    "file": "File:Fiore di pietra (Mario Botta).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Botta Fiore die Petra Monte Genoroso.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Fioredipietra AG-102.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monte_Generoso"
+  ],
+  "note": "Wikipedia: restaurant by Mario Botta, inaugurated 29 March 2017 on Monte Generoso (on the Swiss-Italian border, reached by rack railway). The petal-like stone walls are described from the photos. City field holds the mountain; the nearest municipality is Rovio/Mendrisio."
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "name": "Bagno Pubblico, Bellinzona",
+  "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
+  "city": "Bellinzona",
+  "cc": "CH",
+  "year": "1970",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Promenade",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "Public pools strung under a long raised concrete walkway that runs from the town to the river across the valley.",
+  "award": "Ticino school (Galfetti)",
+  "status": "photo",
+  "commons_category": "Category:Bagno Pubblico, Bellinzona",
+  "photos": [
+   {
+    "file": "File:Bagno Pubblico (Bellinzona) III.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bagno Pubblico (Bellinzona) I.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bagno Pubblico (Bellinzona).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aurelio_Galfetti",
+   "https://commons.wikimedia.org/wiki/Category:Bagno_Pubblico,_Bellinzona"
+  ],
+  "note": "Wikipedia (Galfetti): 'Städtisches Freibad, 1967-70, Bellinzona'; Commons infobox: Galfetti, Ruchat-Roncati and Trümpy, built to 1970, Swiss cultural property of national significance (class A). The photos show the pools and gardens but none shows the raised walkway well (it appears at the edge of III); a better photo of the passerella would help. The walkway-to-the-river idea is general knowledge."
+ },
+ {
+  "id": "palestra-losone",
+  "name": "Palestra (Gymnasium), Losone",
+  "by": "Livio Vacchini",
+  "city": "Losone",
+  "cc": "CH",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "A sports hall wrapped in a dense ring of tall concrete piers that carry the roof and filter the light.",
+  "award": "Ticino school (Vacchini)",
+  "status": "photo",
+  "commons_category": "Category:Palestra polivalente, Losone",
+  "photos": [
+   {
+    "file": "File:Losone palestra 060415.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ticino Losone Palestra Vacchini 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Livio_Vacchini",
+   "https://commons.wikimedia.org/wiki/File:Ticino_Losone_Palestra_Vacchini_02.jpg"
+  ],
+  "note": "Wikipedia (Vacchini) shows the 'Palestra Caserma' in Losone without a date; the Commons file gives 'Palestra 1995-1997 (competition 1990)'. Only two usable photos; the lead (2048 px) is a distant frontal view. The piers-carry-the-roof reading is general knowledge; check."
  }
 ]

@@ -81,5 +81,1053 @@
    "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal"
   ],
   "note": "Photos are steep upward views; the first shows the curved tower and its splayed base columns best."
+ },
+ {
+  "id": "bolte-bridge",
+  "name": "Bolte Bridge",
+  "by": "Denton Corker Marshall",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1999",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Exposed concrete"
+  ],
+  "features": "Freeway bridge marked by two 140 m hollow concrete towers that stand free of the deck, purely as a gateway sign.",
+  "award": "Denton Corker Marshall",
+  "status": "photo",
+  "commons_category": "Category:Bolte Bridge",
+  "photos": [
+   {
+    "file": "File:Bolte Bridge (15831743450).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bolte Bridge Melbourne at twilight over Yarra River.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bolte Bridge, Melbourne on 17 July 2025 - 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolte_Bridge"
+  ],
+  "note": "A bridge rather than a building; included because the towers are a well-known DCM urban gesture. Drop if the wall should stay buildings only."
+ },
+ {
+  "id": "aami-park",
+  "name": "AAMI Park (Melbourne Rectangular Stadium)",
+  "by": "Cox Architecture",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "'Bioframe' roof of geodesic domes over the stands, letting light through to the pitch.",
+  "award": "Sir Zelman Cowen Award 2011 national award",
+  "status": "photo",
+  "commons_category": "Category:Melbourne Rectangular Stadium",
+  "photos": [
+   {
+    "file": "File:AAMI Park Melbourne 20180726-004.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:AAMI Park Melbourne 20180726-007.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:AUS Melbourne, Central Business District, Olympic Park 004.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melbourne_Rectangular_Stadium",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "The category also has a good interior view under the roof: File:AAMI Park Western Stand 99.jpg (CC BY-SA 3.0)."
+ },
+ {
+  "id": "qv1-perth",
+  "name": "QV1",
+  "by": "Harry Seidler & Associates",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1991",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "40-storey tower with sunshades over its windows; free curving plaza buildings offset its strict geometry.",
+  "award": "Harry Seidler",
+  "status": "photo",
+  "commons_category": "Category:QV1",
+  "photos": [
+   {
+    "file": "File:QV1 gnangarra.jpg",
+    "license": "CC BY 2.5 au",
+    "seen": true
+   },
+   {
+    "file": "File:AUS Perth, Central Business District, Milligan Street 002.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/QV1"
+  ],
+  "note": "Wikipedia notes awards for its energy efficiency. The category's 'Hay Street' photos show the curved plaza canopies (e.g. File:AUS Perth, Central Business District, Hay Street 005.jpg, CC BY 4.0) if a ground-level view is wanted."
+ },
+ {
+  "id": "featherston-house",
+  "name": "Featherston House",
+  "by": "Robin Boyd (Romberg & Boyd)",
+  "city": "Ivanhoe, Melbourne",
+  "cc": "AU",
+  "year": "1969",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Section",
+   "Double height"
+  ],
+  "features": "One glass-walled room over an indoor garden, with platforms floating off the central chimney like a treehouse.",
+  "award": "Robin Boyd",
+  "status": "photo",
+  "commons_category": "Category:Featherston House",
+  "photos": [
+   {
+    "file": "File:Featherston's.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Section drawing.jpg",
+    "kind": "Section",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Plan drawings.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Featherston_House"
+  ],
+  "note": "Only one usable exterior photo (house half-hidden in bush, which is the point of it). Two wide panoramas also exist but the house is tiny in them. The two drawings are student-made (2012) and generically named; check them before use."
+ },
+ {
+  "id": "riverside-centre-brisbane",
+  "name": "Riverside Centre",
+  "by": "Harry Seidler & Associates",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Water",
+   "Geometry"
+  ],
+  "features": "40-storey office tower above an open riverfront plaza with steps, cafés and a ferry wharf.",
+  "award": "Sir Zelman Cowen Award 1987 (joint winner)",
+  "status": "photo",
+  "commons_category": "Category:Riverside Centre, Brisbane",
+  "photos": [
+   {
+    "file": "File:Riparian Plaza 111 Eagle St and Riverside Centre from Petrie Bight Brisbane River P1260416.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Riparian Plaza 111 Eagle St and Riverside Centre from Petrie Bight Brisbane River P1260417.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riverside_Centre,_Brisbane",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Riverside Centre is the broad right-hand tower in both photos; Seidler's later Riparian Plaza (left, 2005) and 111 Eagle Street stand beside it. Most other category photos are skyline or Christmas-tree views, so no photo shows it alone."
+ },
+ {
+  "id": "domain-park-flats",
+  "name": "Domain Park Flats",
+  "by": "Robin Boyd",
+  "city": "South Yarra, Melbourne",
+  "cc": "AU",
+  "year": "1962",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "20-storey slab facing the Botanic Gardens; windows and balconies are laid out freely to show each flat's size.",
+  "award": "Robin Boyd",
+  "status": "photo",
+  "commons_category": "Category:Domain Park Flats",
+  "photos": [
+   {
+    "file": "File:Domain Park Flats Photo3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Domain Park Flats Photo2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Domain_Park_Flats"
+  ],
+  "note": "Photos are just above the 1200px minimum (about 1220x1650); the first shows the two lift towers. When finished it was the tallest residential building in Victoria."
+ },
+ {
+  "id": "qeii-courts-of-law-brisbane",
+  "name": "Queen Elizabeth II Courts of Law",
+  "by": "Architectus with Guymer Bailey Architects",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "2012",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Supreme and District Court tower that, with the Magistrates Court, fills a city block as a legal precinct.",
+  "award": "Sir Zelman Cowen Award 2013 national award",
+  "status": "photo",
+  "commons_category": "Category:Queen Elizabeth II Courts of Law, Brisbane",
+  "photos": [
+   {
+    "file": "File:Queen Elizabeth II Courts of Law, Brisbane, 2024, L3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queen Elizabeth II Courts of Law, Brisbane, 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queen Elizabeth II Courts of Law seen from Albert Street, Brisbane 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Courts_of_Law",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Wikipedia gives little on the design itself; the Key features line sticks to what it says."
+ },
+ {
+  "id": "national-portrait-gallery-canberra",
+  "name": "National Portrait Gallery",
+  "by": "Johnson Pilton Walker",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Exposed concrete",
+   "Promenade"
+  ],
+  "features": "Competition-winning gallery of simple day-lit rooms for about 500 portraits, entered under a deep coloured canopy.",
+  "award": "Sir Zelman Cowen Award 2009",
+  "status": "photo",
+  "commons_category": "Category:National Portrait Gallery, Canberra",
+  "photos": [
+   {
+    "file": "File:National Portrait Gallery, Canberra, Australia - Joy of Museums - Ext.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Portrait Gallery, Canberra, Australia - Joy of Museums - Ext 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Portrait_Gallery_(Australia)",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Only two exterior photos on Commons, both from one visit; the second is the entry court under the orange soffit."
+ },
+ {
+  "id": "rmit-design-hub",
+  "name": "RMIT Design Hub",
+  "by": "Sean Godsell Architects with Peddle Thorp",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2012",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Light & shadow"
+  ],
+  "features": "Skin of sandblasted glass discs that a computer turns to control sun and heat, like a second wall.",
+  "award": "Sir Zelman Cowen Award 2013 national award",
+  "status": "photo",
+  "commons_category": "Category:RMIT Design Hub",
+  "photos": [
+   {
+    "file": "File:RMIT Design Hub at intersection 2011-10-05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:RMIT Design Hub (Portrait).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:RMIT Design Hub (Landscape).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/RMIT_Design_Hub",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Close-ups of the disc facade also exist: File:RMIT Design Hub detail.jpg (CC BY 2.0)."
+ },
+ {
+  "id": "swanston-academic-building",
+  "name": "Swanston Academic Building (RMIT Building 80)",
+  "by": "Lyons",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2012",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "11-storey teaching block wrapped in angled coloured panels meant to wear the 'cloak' of the city around it.",
+  "award": "Sir Zelman Cowen Award 2013 national award",
+  "status": "photo",
+  "commons_category": "Category:Swanston Academic Building",
+  "photos": [
+   {
+    "file": "File:SAB, Melbourne CBD, as viewed from Swanston Street.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior Panels.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swanston_Academic_Building",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Wikipedia's infobox calls it Postmodern; Contemporary used here."
+ },
+ {
+  "id": "melbourne-school-of-design",
+  "name": "Melbourne School of Design (Glyn Davis Building)",
+  "by": "John Wardle Architects with NADAAA",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Timber",
+   "Light from above"
+  ],
+  "features": "Architecture school built as a teaching tool: exposed structure and a studio hall under a coffered timber roof.",
+  "award": "John Wardle",
+  "status": "photo",
+  "commons_category": "Category:Melbourne School of Design",
+  "photos": [
+   {
+    "file": "File:Melbourne University Faculty of Architecture, Building and Planning.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne School of Design 2 (15559728342).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://world-architects.com/en/projects/view/melbourne-school-of-design",
+   "https://architectureau.com/calendar/public-event/unveiling-the-new-melbourne-school-of-design/",
+   "https://en.wikipedia.org/wiki/University_of_Melbourne"
+  ],
+  "note": "No Wikipedia article; facts from project databases and ArchitectureAU (competition 2009, opened December 2014). Now called the Glyn Davis Building."
+ },
+ {
+  "id": "ian-potter-museum-of-art",
+  "name": "Ian Potter Museum of Art",
+  "by": "Nonda Katsalidis (Katsalidis Architects)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "University art museum whose grey street wall carries a frieze of broken classical fragments.",
+  "award": "Sir Zelman Cowen Award 1999 commendation",
+  "status": "photo",
+  "commons_category": "Category:Ian Potter Museum of Art",
+  "photos": [
+   {
+    "file": "File:Ian Potter Museum of Art 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ian Potter Museum of Art exterior.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Potter_Museum_of_Art",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Won the 1999 Victorian Architecture Medal (Wikipedia, citation needed). The frieze is an artwork on the facade; its artist is not named in the sources used."
+ },
+ {
+  "id": "sahmri",
+  "name": "South Australian Health and Medical Research Institute (SAHMRI)",
+  "by": "Woods Bagot",
+  "city": "Adelaide",
+  "cc": "AU",
+  "year": "2013",
+  "type": "Workplace",
+  "movement": "Parametric",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "Rounded research building nicknamed the 'cheese grater' for its skin of triangular facets, lifted on a glass base.",
+  "award": "Sir Zelman Cowen Award 2014 national commendation",
+  "status": "photo",
+  "commons_category": "Category:South Australian Health and Medical Research Institute",
+  "photos": [
+   {
+    "file": "File:South Australian Health and Medical Research Institute in Adelaide (028A1254).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:South Australian Health and Medical Research Institute in Adelaide (028A1263).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:SAHMRI Adelaide.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/South_Australian_Health_and_Medical_Research_Institute",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Opened 29 November 2013."
+ },
+ {
+  "id": "institute-for-marine-and-antarctic-studies",
+  "name": "Institute for Marine and Antarctic Studies",
+  "by": "John Wardle Architects with Terroir",
+  "city": "Hobart",
+  "cc": "AU",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Waterfront research 'shed' on Princes Wharf, its long folded roof lifting into a glazed end towards the harbour.",
+  "award": "Sir Zelman Cowen Award 2014 national award",
+  "status": "photo",
+  "commons_category": "Category:Institute for Marine and Antarctic Studies",
+  "photos": [
+   {
+    "file": "File:Institute for Marine and Antarctic Studies 20171117-003.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Institute for Marine and Antarctic Studies.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Institute for Marine and Antarctic Studies Hobart.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architectureau.com/articles/institute-for-marine-and-antarctic-studies/",
+   "https://architectureanddesign.com.au/news/science-in-a-shed-imas-in-tasmania-by-john-wardle",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Wikipedia's article is about the institute, not the building; year (opened early 2014) and architects from ArchitectureAU, Terroir and Engineers Australia."
+ },
+ {
+  "id": "queensland-childrens-hospital",
+  "name": "Queensland Children's Hospital (former Lady Cilento Children's Hospital)",
+  "by": "Conrad Gargett Lyons",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "2014",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Planting",
+   "Light & shadow"
+  ],
+  "features": "Hospital planned as a 'living tree' of trunks and branches, with green fins, roof gardens and terraces for daylight.",
+  "award": "Sir Zelman Cowen Award 2015 national commendation",
+  "status": "photo",
+  "commons_category": "Category:Queensland Children's Hospital",
+  "photos": [
+   {
+    "file": "File:Queensland Children's Hospital in Brisbane, November 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Queensland Children's Hospital, Brisbane, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lady Cilento Children’s Hospital, Brisbane, in June 2018, 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queensland_Children%27s_Hospital",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Opened 29 November 2014 as Lady Cilento Children's Hospital; renamed 2018. A Conrad Gargett and Lyons joint venture."
+ },
+ {
+  "id": "wellington-central-library",
+  "name": "Wellington Central Library (Te Matapihi)",
+  "by": "Athfield Architects (Ian Athfield)",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1991",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Library on Civic Square with a curving glass wall behind a colonnade of metal nīkau-palm columns.",
+  "award": "Ian Athfield (NZIA Gold Medal 2004)",
+  "status": "photo",
+  "commons_category": "Category:Wellington Central Library",
+  "photos": [
+   {
+    "file": "File:Te Matapihi Central Library 2026-03-15 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Te Matapihi Central Library 2026-03-15 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Te Matapihi Central Library 2026-03-15 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wellington_Central_Library",
+   "https://en.wikipedia.org/wiki/Ian_Athfield"
+  ],
+  "note": "Closed 2019 over earthquake risk, strengthened and redesigned, reopened March 2026; the Civic Square front in the third photo is the new 2026 work, while the first two show Athfield's curved glass wall and nīkau columns. The nīkau columns are confirmed by the Commons category 'Nikau palm sculptures, Wellington' under Buildings by Athfield Architects. Avoid the 'Knjižnica' files: they show the old library next door (now City Gallery)."
+ },
+ {
+  "id": "palmerston-north-city-library",
+  "name": "Palmerston North City Library",
+  "by": "Ian Athfield (Athfield Architects)",
+  "city": "Palmerston North",
+  "cc": "NZ",
+  "year": "1996",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Old department store on The Square restored and extended as the city library, with angled steel and glass additions.",
+  "award": "Ian Athfield (NZIA Gold Medal 2004)",
+  "status": "photo",
+  "commons_category": "Category:Palmerston North City Library",
+  "photos": [
+   {
+    "file": "File:Palmerston North City Library, Palmerston North, New Zealand 06.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palmerston North City Library 995.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palmerston_North_City_Library",
+   "https://en.wikipedia.org/wiki/Ian_Athfield"
+  ],
+  "note": "Wikipedia: the library is in 'the restored and extended C M Ross building', designed by Athfield and opened 1996 (his works list says 1997 for the extensions). The facade lettering reads 'The D.I.C. Ltd', so the building's names differ by source. The point for students is the adaptive reuse."
+ },
+ {
+  "id": "sydney-modern",
+  "name": "Art Gallery of New South Wales, North Building (Sydney Modern, Naala Nura)",
+  "by": "SANAA with Architectus",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "2022",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Adaptive reuse"
+  ],
+  "features": "Glass pavilions under thin roofs step down to Woolloomooloo Bay; a disused oil tank below became 'The Tank' gallery.",
+  "award": "Sulman Medal 2023; Sir Zelman Cowen Award 2023 national award",
+  "status": "photo",
+  "commons_category": "Category:Sydney Modern Project",
+  "photos": [
+   {
+    "file": "File:Exterior of Sydney Modern Project, 2022, 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior of Sydney Modern Project, 2022, 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterior of Sydney Modern Project, 2022, 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Art_Gallery_of_New_South_Wales",
+   "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Competition won by SANAA in 2015; opened December 2022. Two photos include a Yayoi Kusama flower sculpture on the terrace."
+ },
+ {
+  "id": "geelong-library-and-heritage-centre",
+  "name": "Geelong Library and Heritage Centre",
+  "by": "ARM Architecture",
+  "city": "Geelong",
+  "cc": "AU",
+  "year": "2015",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Dome clad in 332 glass-reinforced concrete panels, nodding to the domed reading rooms of the great libraries.",
+  "award": "Sir Zelman Cowen Award 2016",
+  "status": "photo",
+  "commons_category": "Category:Geelong Library and Heritage Centre",
+  "photos": [
+   {
+    "file": "File:Geelong Library 2015.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dark Orb Geelong Library and Heritage Centre (48064055543).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Geelong_Library_and_Heritage_Centre",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Opened 21 November 2015. The Wikipedia article does not name the architect; ARM Architecture is named in the Zelman Cowen Award list (2016 winner)."
+ },
+ {
+  "id": "melbourne-recital-centre",
+  "name": "Melbourne Recital Centre",
+  "by": "Ashton Raggatt McDougall (ARM Architecture)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Concert hall with a cell-like glass and panel facade, holding a 1,000-seat 'modified shoebox' hall.",
+  "award": "ARM Architecture",
+  "status": "photo",
+  "commons_category": "Category:Melbourne Recital Centre",
+  "photos": [
+   {
+    "file": "File:Melbourne Recital Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne Recital Centre seen from the northeast.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne Recital Centre 2009.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melbourne_Recital_Centre"
+  ],
+  "note": "Built as one complex with the Melbourne Theatre Company's Southbank Theatre; acoustics by Arup. ARM's practice won the 2009 Victorian Architecture Medal (per the ARM article) but that article does not say for which project, so no award is claimed here."
+ },
+ {
+  "id": "dorset-street-flats",
+  "name": "Dorset Street Flats",
+  "by": "Miles Warren",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "1957",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Eight small flats with courtyards in load-bearing concrete block; a founding work of the Christchurch School.",
+  "award": "Miles Warren (NZIA Gold Medal 2000)",
+  "status": "photo",
+  "commons_category": "Category:Dorset Street Flats",
+  "photos": [
+   {
+    "file": "File:Dorset Street Flats in 2016 (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dorset Street Flats 021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dorset Street Flats 33.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dorset_Street_Flats",
+   "https://en.wikipedia.org/wiki/Miles_Warren"
+  ],
+  "note": "Designed 1956, built 1956-57 (Warren's works list). Badly damaged in the 2011 earthquake and restored by Young Architects (2023 NZ Architecture Award); photos are from 2011-2016, before the restoration."
+ },
+ {
+  "id": "national-museum-of-australia",
+  "name": "National Museum of Australia",
+  "by": "Ashton Raggatt McDougall with Robert Peck von Hartel Trethowan",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Landscape"
+  ],
+  "features": "Building on a lake peninsula themed on knotted ropes; a giant loop at the entrance unrolls as the 'Uluru Axis'.",
+  "award": "ARM Architecture",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Australia",
+  "photos": [
+   {
+    "file": "File:National Museum of Australia aerial view.jpg",
+    "license": "CC BY 3.0 au",
+    "seen": true
+   },
+   {
+    "file": "File:NatMusAus Main Entrance Strip.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Canberra (AU), National Museum of Australia -- 2019 -- 1709.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Australia"
+  ],
+  "note": "Opened 11 March 2001. Wikipedia names Howard Raggatt (ARM) as design architect, with Robert Peck von Hartel Trethowan, and describes the knotted-rope theme and the loop aligned with Uluru. Exterior photos are few and small (1500-1600px); most of the category shows museum objects."
+ },
+ {
+  "id": "melbourne-museum",
+  "name": "Melbourne Museum",
+  "by": "Denton Corker Marshall",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Axis",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Two long sloping roof blades rise over the entrance, on axis with the 1880 Royal Exhibition Building opposite.",
+  "award": "Sir Zelman Cowen Award 2001",
+  "status": "photo",
+  "commons_category": "Category:Melbourne Museum",
+  "photos": [
+   {
+    "file": "File:Entrance to the Melbourne Museum (6768078685).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Melbourne Museum 2012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Northern face of Melbourne Museum 2012.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melbourne_Museum",
+   "https://en.wikipedia.org/wiki/Sir_Zelman_Cowen_Award_for_Public_Architecture"
+  ],
+  "note": "Opened 2000, construction completed 2001 per Wikipedia; 2000 used. Holds an indoor Forest Gallery. The building is hard to catch whole in one frame; photos show the entrance blades and the north face."
+ },
+ {
+  "id": "michael-fowler-centre",
+  "name": "Michael Fowler Centre",
+  "by": "Warren and Mahoney (Miles Warren, Maurice Mahoney)",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Concert hall of tilted concrete panels over a glass circulation band, nicknamed the 'Squashed Top Hat'.",
+  "award": "Miles Warren (NZIA Gold Medal 2000)",
+  "status": "photo",
+  "commons_category": "Category:Michael Fowler Centre",
+  "photos": [
+   {
+    "file": "File:MFC WGTN 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Michael fowler centre 20 march 2018 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Michael fowler centre 20 march 2018 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Fowler_Centre",
+   "https://en.wikipedia.org/wiki/Miles_Warren"
+  ],
+  "note": "Opened September 1983; NZIA Enduring Architecture award 2010. Marked earthquake-prone in 2023, with demolition among the options proposed in 2024: its future is uncertain. The two 2018 photos are night views with coloured lighting on the panels."
+ },
+ {
+  "id": "olympic-park-station-sydney",
+  "name": "Olympic Park Station",
+  "by": "Hassell",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1998",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Vault",
+   "Steel & glass",
+   "Light from above"
+  ],
+  "features": "Station for Olympic crowds under a long vault of steel arches, open at the ends and lit from above.",
+  "award": "Sulman Medal 1998; Sir Zelman Cowen Award 1998",
+  "status": "photo",
+  "commons_category": "Category:Olympic Park railway station, Sydney",
+  "photos": [
+   {
+    "file": "File:Olympic Park Station Sydney.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sydney Olympic Park train station (49755584691).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Park_railway_station,_Sydney",
+   "https://en.wikipedia.org/wiki/Sir_John_Sulman_Medal"
+  ],
+  "note": "Also won the 1998 BHP Colorbond steel award and the 2023 NSW Enduring Architecture Award."
  }
 ]
