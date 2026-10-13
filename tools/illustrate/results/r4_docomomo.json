@@ -1527,7 +1527,7 @@
    "Detail"
   ],
   "features": "Housing block with roof studios under half-vaults for north light, and integrated art incl. Almada Negreiros.",
-  "award": "Docomomo / modern movement (Docomomo Portugal)",
+  "award": "Docomomo / modern movement",
   "status": "photo",
   "commons_category": "Category:Edifício designado «Bloco das Águas Livres»",
   "photos": [
@@ -1560,7 +1560,7 @@
    "Detail"
   ],
   "features": "Competition-winning seat of government in natural stone; about half its area is housing, all furnished by De la Sota.",
-  "award": "Docomomo / modern movement (Docomomo Ibérico)",
+  "award": "Docomomo / modern movement",
   "status": "photo",
   "commons_category": "Category:Govern Civil (Tarragona)",
   "photos": [
@@ -1581,5 +1581,658 @@
    "https://www.diaridetarragona.com/tarragona/El-Gobierno-Civil-la-obra-maestra-de-un-gran-arquitecto-20190413-0035.html"
   ],
   "note": "Only two free photos; one is an old view. Works finished 1963, in use from 1964. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "unite-dhabitation-reze",
+  "name": "Unité d'Habitation, Rezé (Maison Radieuse)",
+  "by": "Le Corbusier",
+  "city": "Rezé",
+  "cc": "FR",
+  "year": "1955",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Megastructure",
+   "Exposed concrete"
+  ],
+  "features": "Le Corbusier's second Unité d'Habitation: a long raw-concrete slab of flats raised on pilotis near Nantes.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Cité radieuse, Rezé",
+  "photos": [
+   {
+    "file": "File:W2954 Reze CiteRadieuse Noircie 50730Eos.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Rezé centre.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:W2953 Reze CiteRadieuse 48724Eos.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation"
+  ],
+  "note": "No freedom of panorama here and the architect died less than 70 years ago, so Commons could delete these photos later. The second and third files show it in a wider town view. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "cite-de-la-muette",
+  "name": "Cité de la Muette",
+  "by": "Eugène Beaudouin and Marcel Lods",
+  "city": "Drancy",
+  "cc": "FR",
+  "year": "1934",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Community",
+   "Circulation"
+  ],
+  "features": "Social housing with some of France's first residential towers; its U-shaped block became the Drancy camp in 1941-44.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Cité de la Muette",
+  "photos": [
+   {
+    "file": "File:Cité Muette - Drancy (FR93) - 2022-08-06 - 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:DRANCY — Cité de la Muette 2006 (04).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:DRANCY — Cité de la Muette 2016 (03).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Drancy.Premiers gratte-ciels de la région parisienne.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Drancy_internment_camp",
+   "https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_Muette"
+  ],
+  "note": "The towers were later demolished; the U-shaped block survives and is a memorial site. Year is approximate (built early 1930s). No freedom of panorama here and the architect died less than 70 years ago, so Commons could delete these photos later. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "palazzo-della-civilta-italiana",
+  "name": "Palazzo della Civiltà Italiana",
+  "by": "Giovanni Guerrini, Ernesto Bruno La Padula, Mario Romano",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1943",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "The 'Square Colosseum' in EUR: a travertine cube pierced on each face by six rows of nine arches.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Palazzo della Civiltà Italiana",
+  "photos": [
+   {
+    "file": "File:Palazzo della Civiltà Italiana a EUR Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Palazzo della Civiltà Italiana, viewed from the North, Rome, Italy.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Palazzo della Civiltà Italiana sud-ovest.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Il Palazzo della Civiltà - Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palazzo_della_Civilt%C3%A0_Italiana"
+  ],
+  "note": "Built 1938-43 for the cancelled 1942 exhibition; now Fendi's headquarters. Italian Rationalism, tied to Fascist propaganda: worth a line of context. No freedom of panorama here and the architect died less than 70 years ago, so Commons could delete these photos later. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "stadio-flaminio",
+  "name": "Stadio Flaminio",
+  "by": "Pier Luigi Nervi and Antonio Nervi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1959",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "The Nervis' stadium for the 1960 Rome Olympics; closed in 2011 and now decaying, with a conservation plan.",
+  "award": "Docomomo / modern movement (Docomomo Italy; Getty 'Keeping It Modern' grant 2017)",
+  "status": "photo",
+  "commons_category": "Category:Stadio Flaminio",
+  "photos": [
+   {
+    "file": "File:2012-12-22-Stadio-Flaminio-Rom.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Q02 Parioli - v le Tiziano stadio Flaminio P1020639.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Stadio Flaminio, Rome (ITA).JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Stadio Flaminio.tif",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadio_Flaminio"
+  ],
+  "note": "No freedom of panorama here and the architect died less than 70 years ago, so Commons could delete these photos later. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "dispensario-antituberculoso-barcelona",
+  "name": "Dispensario Antituberculoso",
+  "by": "Josep Lluís Sert, Josep Torres Clavé, Joan Baptista Subirana (GATCPAC)",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "1938",
+  "type": "Health",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Human comfort",
+   "Climate response"
+  ],
+  "features": "GATCPAC's tuberculosis clinic in the Raval: rationalist blocks around a garden courtyard.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Dispensari antituberculós",
+  "photos": [
+   {
+    "file": "File:030 Antic dispensari antituberculós, pge. Sant Bernat 10 (Barcelona), façana pl. Terenci Moix.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:029 Antic dispensari antituberculós, pge. Sant Bernat 10 (Barcelona), façana c. Torres i Amat.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Dispensari antituberculós - façana posterior.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Dispensari_antituberculós"
+  ],
+  "note": "No English Wikipedia article found. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "edificio-carrion-madrid",
+  "name": "Edificio Carrión (Edificio Capitol)",
+  "by": "Luis Martínez-Feduchi and Vicente Eced",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "1933",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "54 m landmark on a Gran Vía corner: rationalist, with an expressionist lean taken from Mendelsohn.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Edificio Carrión",
+  "photos": [
+   {
+    "file": "File:Edificio Carrion desde La Gran Via de Madrid (España).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edificio Carrión 2024.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edificio Carrion - Gran Via - Madrid 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edificio Carrión 2007.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Carri%C3%B3n"
+  ],
+  "note": "Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "engel-house-tel-aviv",
+  "name": "Engel House",
+  "by": "Ze'ev Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1933",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "The first building in Tel Aviv lifted on pilotis, freeing the ground for shade and breeze on Rothschild Boulevard.",
+  "award": "Docomomo / modern movement; part of UNESCO White City of Tel Aviv",
+  "status": "photo",
+  "commons_category": "Category:Engel House",
+  "photos": [
+   {
+    "file": "File:84 Rothschild Boulevard Engel House by David Shankbone.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Engel House (2).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:אנגל.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Engel House 03.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/White_City,_Tel_Aviv"
+  ],
+  "note": "Engel House 03 is a c.1933 photograph by Yitzhak Kalter. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "kanagawa-prefectural-music-hall",
+  "name": "Kanagawa Prefectural Music Hall and Library",
+  "by": "Kunio Maekawa",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": "1954",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Maekawa's paired concert hall and library on Momijigaoka hill, a founding work of post-war Japanese modernism.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Kanagawa Kenritsu Ongakudo",
+  "photos": [
+   {
+    "file": "File:Kanagawa Library and Music Hall 01.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Kanagawa Library and Music Hall 02.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Kanagawa Concert Hall 2009.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:神奈川県立音楽堂.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+   "https://en.wikipedia.org/wiki/Japanese_architecture"
+  ],
+  "note": "No English Wikipedia article of its own. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "park-hotel-shanghai",
+  "name": "Park Hotel Shanghai",
+  "by": "László Hudec",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1934",
+  "type": "Hospitality",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Brick",
+   "Stone"
+  ],
+  "features": "83.8 m tower of black granite and dark brown brick; Asia's tallest building until 1963 and Shanghai's until 1983.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Park Hotel Shanghai",
+  "photos": [
+   {
+    "file": "File:Park Hotel Shanghai 20250501.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Park Hotel Shanghai, Dec 2017 (2).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Park Hotel Shanghai 20250505-1.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:上海国际饭店2019.6.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Park_Hotel_Shanghai"
+  ],
+  "note": "Art Deco skyscraper rather than strict modern movement; included for Asia coverage. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "cultural-center-of-the-philippines",
+  "name": "Cultural Center of the Philippines (Tanghalang Pambansa)",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": "1969",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Locsin's National Theater, opened 1969: flagship of the Cultural Center complex on reclaimed Manila Bay land.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Cultural Center of the Philippines",
+  "photos": [
+   {
+    "file": "File:CCPjf0156 01.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:CCPjf0156 02.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:CCPjf0221 02.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Center_of_the_Philippines"
+  ],
+  "note": "The Philippines has no freedom of panorama and Locsin died in 1994, so these could be challenged. Descriptions are generic; check the photos show the main theatre building. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "edificio-esther-sao-paulo",
+  "name": "Edifício Esther",
+  "by": "Álvaro Vital Brazil and Adhemar Marinho",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1938",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Community",
+   "Steel & glass"
+  ],
+  "features": "One of São Paulo's first modernist high-rises: flats, studios and offices on Praça da República.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Edifício Esther (São Paulo)",
+  "photos": [
+   {
+    "file": "File:Edifício Esther 2019.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edificio Esther, July 2012.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Edificio Esther.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Edif%C3%ADcio_Esther_(S%C3%A3o_Paulo)"
+  ],
+  "note": "No English Wikipedia article. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "lovell-health-house",
+  "name": "Lovell Health House",
+  "by": "Richard Neutra",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1929",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Prefabrication",
+   "Landscape"
+  ],
+  "features": "Often called the first steel-frame house in the US; its balconies hang from the roof frame on a hillside.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Lovell House",
+  "photos": [
+   {
+    "file": "File:Lovell Health House 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lovell House, Los Angeles, California.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Lovell Health House 3.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lovell House 1.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 1 of 9).png",
+    "kind": "Drawing",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lovell_House"
+  ],
+  "note": "HABS measured drawings (sheets 1 and 8 of 9, public domain) are on Commons; the full set has more sheets. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "miller-house-columbus",
+  "name": "Miller House and Garden",
+  "by": "Eero Saarinen; garden by Dan Kiley; interiors by Alexander Girard",
+  "city": "Columbus, Indiana",
+  "cc": "US",
+  "year": "1957",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Flat-roofed glass pavilion on a grid of cruciform columns, with a sunken conversation pit and Kiley garden.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Miller House (Columbus, Indiana)",
+  "photos": [
+   {
+    "file": "File:Irwinmillerhousecolumbus.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Miller House in Columbus.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Irwin Miller House perspective.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Miller House Columbus.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miller_House_(Columbus,_Indiana)"
+  ],
+  "note": "Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "manufacturers-trust-company-building",
+  "name": "Manufacturers Trust Company Building",
+  "by": "Gordon Bunshaft and Charles Evans Hughes III (SOM)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1954",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Glass-walled bank on Fifth Avenue that shows its round steel vault door, by Henry Dreyfuss, to the street.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Manufacturers Trust Company Building",
+  "photos": [
+   {
+    "file": "File:Manufacturers Trust Company Building 510 Fifth Avenue.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:5th Av Jul 2021 19.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:5 Av Mar 2026 03.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manufacturers_Trust_Company_Building"
+  ],
+  "note": "Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
+ },
+ {
+  "id": "first-christian-church-columbus",
+  "name": "First Christian Church",
+  "by": "Eliel Saarinen",
+  "city": "Columbus, Indiana",
+  "cc": "US",
+  "year": "1942",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Brick",
+   "Stone"
+  ],
+  "features": "Limestone-and-brick church with a 166 ft freestanding tower; among the first modernist churches in the US.",
+  "award": "Docomomo / modern movement",
+  "status": "photo",
+  "commons_category": "Category:Exterior of First Christian Church (Columbus, Indiana)",
+  "photos": [
+   {
+    "file": "File:First Christian Church (Columbus, Indiana), November 2011.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:FIRST CHRISTIAN CHURCH, BUILT IN 1942 - NARA - 546506.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:FirstChristianChurch.jpg",
+    "license": "CC BY-SA 2.5"
+   },
+   {
+    "file": "File:First Christian Church, Columbus, IN.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Christian_Church_(Columbus,_Indiana)"
+  ],
+  "note": "National Historic Landmark. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions."
  }
 ]

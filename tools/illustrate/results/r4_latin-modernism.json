@@ -1652,5 +1652,288 @@
    "https://commons.wikimedia.org/wiki/Category:Edificio_Petroper%C3%BA"
   ],
   "note": "Weak photos: the first is a grey-sky view (1200×1600); the second is at night among other towers. 'EdificioPetroPeru.jpg' is a better daytime view but only 1152 px wide. Features line is from the photos; check before use."
+ },
+ {
+  "id": "edificio-lopez-serrano",
+  "name": "Edificio López Serrano",
+  "by": "Ricardo Mira, Miguel Rosich",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1932",
+  "type": "Housing",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Stepped Art Deco apartment tower in Vedado, its setback crown in the manner of New York skyscrapers.",
+  "award": "Latin American modernism 1930–1980: 1930s Havana",
+  "status": "photo",
+  "commons_category": "Category:Edificio López Serrano",
+  "photos": [
+   {
+    "file": "File:Edifício Lopez Serrano (35464009654) cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio López Serrano in 2024.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio Lopez Serrano (33433084374).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Floor Plan of Lopez Serrano Building.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/L%C3%B3pez_Serrano_Building"
+  ],
+  "note": "First photo is a high view from a neighbouring tower."
+ },
+ {
+  "id": "hotel-habana-libre",
+  "name": "Hotel Habana Libre (former Habana Hilton)",
+  "by": "Welton Becket & Associates, with Arroyo y Menéndez",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1958",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Hotel slab over a podium whose front carries Amelia Peláez's huge tile mural; the revolution's HQ in 1959.",
+  "award": "Latin American modernism 1930–1980: 1950s Havana",
+  "status": "photo",
+  "commons_category": "Category:Hotel Havana Libre",
+  "photos": [
+   {
+    "file": "File:Hotel «Habana Libre» - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hotel Habana Libre 1 (l'Havana).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Havana Libre Hotel (Former Hilton) seen from Avenue Carlos Manuel Céspedes - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Havana - Habana Hilton architectural rendering.jpg",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Habana_Libre"
+  ],
+  "note": "Opened March 1958. Third photo shows only the top floors and sign."
+ },
+ {
+  "id": "biblioteca-luis-angel-arango",
+  "name": "Biblioteca Luis Ángel Arango",
+  "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía.",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1958",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Stone-clad public library in La Candelaria, with a projecting upper floor screened by slats.",
+  "award": "Latin American modernism 1930–1980: Bogotá modernism (Germán Samper's firm)",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Biblioteca Luis Ángel Arango",
+  "photos": [
+   {
+    "file": "File:Biblioteca Luis Ángel Arango (Bogotá) 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Esquina suroriental BLAA.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:BLAA costado oriental.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library"
+  ],
+  "note": "First stage 1958, extended in the 1960s and 70s (concert hall). Dates from general sources; check."
+ },
+ {
+  "id": "plaza-de-mercado-girardot",
+  "name": "Girardot Market Hall (Plaza de Mercado de Girardot)",
+  "by": "Leopoldo Rother",
+  "city": "Girardot",
+  "cc": "CO",
+  "year": "1949",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Open market hall under a light concrete roof on slender columns, built to stay cool in Girardot's heat.",
+  "award": "Latin American modernism 1930–1980: Leopoldo Rother, Colombian National Monument",
+  "status": "photo",
+  "commons_category": "Category:Plaza de Mercado de Girardot",
+  "photos": [
+   {
+    "file": "File:Plaza de Mercado - Girardot.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Plaza de Mercado de Girardot.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Plaza_de_Mercado_de_Girardot"
+  ],
+  "note": "Weak: photos show the street front cluttered with stalls and taxis; the roof is the point and no photo shows it well. Built 1946–49 per general sources; check year and features before use."
+ },
+ {
+  "id": "edificio-polar-caracas",
+  "name": "Edificio Polar",
+  "by": "Martín Vegas Pacheco, José Miguel Galia",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1954",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Glass-walled office tower on Plaza Venezuela, an early curtain-wall high-rise in Latin America.",
+  "award": "MoMA 'Latin American Architecture since 1945' (1955) era Caracas",
+  "status": "unsure",
+  "commons_category": "Category:Torres Polar",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Torres_Polar"
+  ],
+  "note": "Commons has a 'Torres Polar' category (e.g. 'Torre Polar I.jpg', 'Torre Polar.JPG', both free and large) showing two dark glass towers on Plaza Venezuela, but I couldn't confirm which one is the 1954 Vegas & Galia building and there is no English Wikipedia article. If someone can confirm, it becomes a photo entry. Facts in this entry are from general histories; check before use."
+ },
+ {
+  "id": "plaza-del-bebedero",
+  "name": "Plaza y Fuente del Bebedero, Las Arboledas",
+  "by": "Luis Barragán",
+  "city": "Atizapán de Zaragoza",
+  "cc": "MX",
+  "year": "1959",
+  "type": "Public space",
+  "movement": "Regionalism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "A long horse trough of still water ending at a tall freestanding white wall, under eucalyptus trees.",
+  "award": "MoMA 'The Architecture of Luis Barragán' (1976) checklist",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://assets.moma.org/documents/moma_master-checklist_326998.pdf"
+  ],
+  "note": "No usable photo on Commons ('File:Arboledas.jpg' is CC BY-SA 4.0 but tiny). I know the elements (trough, white wall, eucalyptus) but not their dimensions or exactly how the wall sits relative to the trough, so I didn't draw it. A plan or measured drawing would make it drawable."
+ },
+ {
+  "id": "casa-prieto-lopez",
+  "name": "Casa Prieto López",
+  "by": "Luis Barragán",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1950",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "Barragán house in the lava garden suburb of Jardines del Pedregal, with walls and patios set into the volcanic rock.",
+  "award": "Latin American modernism 1930–1980: Barragán's Jardines del Pedregal",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "No photo on Commons and I can't establish the massing well enough to draw it. Private house. Facts from memory; check before use."
+ },
+ {
+  "id": "capilla-san-vicente-de-paul",
+  "name": "Chapel of San Vicente de Paúl, Coyoacán",
+  "by": "Félix Candela, Enrique de la Mora",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1960",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Small chapel roofed by thin concrete hyperbolic-paraboloid shells.",
+  "award": "Latin American modernism 1930–1980: Félix Candela's shell churches",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [],
+  "note": "No photo on Commons. I'm not sure how many shells it has or how they meet, so I didn't draw it. Facts from memory; check before use."
  }
 ]
