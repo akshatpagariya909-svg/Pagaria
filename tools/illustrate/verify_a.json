@@ -1,0 +1,1328 @@
+[
+ {
+  "id": "koudougou-central-market",
+  "name": "Central Market, Koudougou",
+  "by": "Laurent Séchaud",
+  "city": "Koudougou",
+  "cc": "BF",
+  "year": "2005",
+  "type": "Public space",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Vault",
+   "Community"
+  ],
+  "features": "Market built of compressed earth blocks: rows of arched and vaulted stalls around shaded lanes.",
+  "note": "Architect and earth-block construction from memory of the Aga Khan citation (Laurent Séchaud with Pierre Jequier); the akdn.org page was unreachable. Commons description says built 2005. Marché central is an overview from above; Grand marché is inside the vaulted lanes.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Grand_march%C3%A9_de_Koudougou.jpg"
+  ],
+  "features_on_wall": "Market built of compressed earth blocks: rows of arched and vaulted stalls around shaded lanes."
+ },
+ {
+  "id": "yaama-mosque",
+  "name": "Yaama Mosque",
+  "by": "El Hadji Falké Barmou",
+  "city": "Yaama",
+  "cc": "NE",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Mud-brick hall with a central dome and four tapering corner towers, banded and crowned, built by its own village.",
+  "note": "No photo on Commons (also searched as 'Yamma'). Sources give: rectangular hypostyle hall begun 1962, central dome and four corner towers added later, towers with banded tapering walls more elaborate toward the pinnacle, parapet of half-circle crenellations. No dimensions are published, so tower and dome heights are proportioned from memory of published photos and may be off; the towers' top ornament is simplified to a ring of small crenellations and a rounded cone.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yamma_Mosque",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/yaama-mosque",
+   "https://mosqpedia.org/en/mosque/1434"
+  ],
+  "features_on_wall": "Mud-brick hall with a central dome and four tapering corner towers, banded and crowned, built by its own village."
+ },
+ {
+  "id": "mbaru-niang-wae-rebo",
+  "name": "Mbaru Niang, Wae Rebo",
+  "by": "Yori Antar with the Wae Rebo community",
+  "city": "Wae Rebo",
+  "cc": "ID",
+  "year": "2011",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Cluster"
+  ],
+  "features": "Tall conical houses of timber and thatch, rebuilt by the villagers with their ancestral techniques.",
+  "note": "Shortlisted as 'Reconstruction of Mbaru Niang'. Architect credit (Yori Antar, Rumah Asuh) and 2011 completion are from memory; check. It is a vernacular reconstruction, so 'Historic precedent' fits best in the vocabulary.",
+  "sources": [
+   "https://www.metalocus.es/en/news/20-projects-shortlisted-aga-khan-award-architecture-2013"
+  ],
+  "features_on_wall": "Tall conical houses of timber and thatch, rebuilt by the villagers with their ancestral techniques."
+ },
+ {
+  "id": "royal-academy-for-nature-conservation",
+  "name": "Royal Academy for Nature Conservation",
+  "by": "Ammar Khammash",
+  "city": "Ajloun",
+  "cc": "JO",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Climate response"
+  ],
+  "features": "Stone building set into the forested hillside of the Ajloun reserve, entered across a bridge.",
+  "note": "Only one free photo (4032x3024), a night view of the stone wall and entrance bridge. Year 2014 from memory; check.",
+  "sources": [
+   "https://www.world-architects.com/ca/architecture-news/headlines/shortlist-for-2016-aga-khan-award"
+  ],
+  "features_on_wall": "Stone building set into the forested hillside of the Ajloun reserve, entered across a bridge."
+ },
+ {
+  "id": "bhong-mosque",
+  "name": "Bhong Mosque",
+  "by": "Rais Ghazi Mohammad (patron) with local craftsmen",
+  "city": "Bhong",
+  "cc": "PK",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Community",
+   "Colour"
+  ],
+  "features": "Village mosque built and decorated over fifty years, 1932-82, crowded with domes, minarets and ornament.",
+  "note": "Wikipedia names no architect; the patron's name is from memory, check. The award was controversial (praised for craft, criticised as kitsch); worth a line if the owner wants it. Many more free photos on Commons.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bhong_Mosque"
+  ],
+  "features_on_wall": "Village mosque built and decorated over fifty years, 1932-82, crowded with domes, minarets and ornament."
+ },
+ {
+  "id": "palais-des-expositions-charleroi",
+  "name": "Palais des Expositions (Grand Palais), Charleroi",
+  "by": "AgwA, architecten jan de vylder inge vinck",
+  "city": "Charleroi",
+  "cc": "BE",
+  "year": "2024",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "1950s exhibition halls opened up and reworked, with a sunken park and open-air seating cut into the site.",
+  "note": "Completion year not confirmed by a source (CC0 photos from 2024 show it finished); check before publishing. Original 1954 building by Joseph Tirou and Octave Pinkers. Many more CC0 2023-24 photos in the category.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "features_on_wall": "1950s exhibition halls opened up and reworked, with a sunken park and open-air seating cut into the site."
+ },
+ {
+  "id": "navez-social-housing",
+  "name": "NAVEZ, 5 social housing units",
+  "by": "MSA, V+",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "2016",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Five social flats in a slim white tower with softened, curved corners that closes the end of a city block.",
+  "note": "Corner of rue Navez and rue Portaels, Schaerbeek. Completion year from memory (2016); check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "features_on_wall": "Five social flats in a slim white tower with softened, curved corners that closes the end of a city block."
+ },
+ {
+  "id": "katyn-museum-warsaw",
+  "name": "Katyń Museum",
+  "by": "BBGK Architekci",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Promenade",
+   "Landscape"
+  ],
+  "features": "Museum in a 19th-century citadel fort; a narrow stair cuts straight through the earth rampart.",
+  "note": "Parent Category:Katyn Museum in Warsaw also has many interior photos (2023 series). Opening year from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katyn_Museum"
+  ],
+  "features_on_wall": "Museum in a 19th-century citadel fort; a narrow stair cuts straight through the earth rampart."
+ },
+ {
+  "id": "ciniba-katowice",
+  "name": "Scientific Information Centre and Academic Library (CINiBA)",
+  "by": "HS99",
+  "city": "Katowice",
+  "cc": "PL",
+  "year": "2012",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Two interlocking blocks clad in red sandstone, pierced by scattered narrow vertical windows.",
+  "note": "Cladding material (red sandstone) from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "features_on_wall": "Two interlocking blocks clad in red sandstone, pierced by scattered narrow vertical windows."
+ },
+ {
+  "id": "hedge-house-wijlre",
+  "name": "Hedge House",
+  "by": "Wiel Arets",
+  "city": "Wijlre",
+  "cc": "NL",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Concrete and glass art pavilion in the garden of Kasteel Wijlre, set low between tall hedges.",
+  "note": "Completion year from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "features_on_wall": "Concrete and glass art pavilion in the garden of Kasteel Wijlre, set low between tall hedges."
+ },
+ {
+  "id": "stuttgart-music-school",
+  "name": "Stuttgart Music School (Musikhochschule)",
+  "by": "James Stirling, Michael Wilford and Associates",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "1996",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Drum-shaped tower with ring balconies and porthole windows anchors the school next to Stirling's Staatsgalerie.",
+  "note": "Year: the Stirling building opened 1996 (prize 1997); the university's Wikipedia intro says its main building was completed 2002, so check the date before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/State_University_of_Music_and_Performing_Arts_Stuttgart"
+  ],
+  "features_on_wall": "Drum-shaped tower with ring balconies and porthole windows anchors the school next to Stirling's Staatsgalerie."
+ },
+ {
+  "id": "stormen-bodo",
+  "name": "Stormen Concert Hall and Library",
+  "by": "DRDH Architects",
+  "city": "Bodø",
+  "cc": "NO",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Two pale buildings, concert hall and library, frame a new square on the harbour; the library has a tall finned front.",
+  "note": "Library photos are in the subcategory Category:Stormen bibliotek (includes interiors). Completion year 2014 from memory (concert hall opened 2014); confirm.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RIBA_International_Award"
+  ],
+  "features_on_wall": "Two pale buildings, concert hall and library, frame a new square on the harbour; the library has a tall finned front."
+ },
+ {
+  "id": "arquipelago-contemporary-arts-centre",
+  "name": "Arquipélago Contemporary Arts Centre",
+  "by": "Menos é Mais Arquitectos, João Mendes Ribeiro",
+  "city": "Ribeira Grande",
+  "cc": "PT",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Stone"
+  ],
+  "features": "An 1890s sweet-potato distillery in dark basalt restored and joined by new pale concrete buildings for art.",
+  "note": "Weak: only two Commons photos found and no category; the usable one shows the old basalt buildings and chimney, not the new concrete wings (the other is a close-up of the name on a wall). Portugal's freedom of panorama is uncertain. Year 2015 from memory.",
+  "sources": [
+   "https://arquipelagocentrodeartes.azores.gov.pt/en/arquipelago-e-finalista-do-premio-de-arquitetura-riba/"
+  ],
+  "features_on_wall": "An 1890s sweet-potato distillery in dark basalt restored and joined by new pale concrete buildings for art."
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "name": "Toho Gakuen School of Music",
+  "by": "Nikken Sekkei",
+  "city": "Chofu",
+  "cc": "JP",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Section"
+  ],
+  "features": "Soundproof lesson rooms as stacked concrete boxes around a courtyard; gaps between the boxes bring daylight in.",
+  "note": "Only one good photo of the Nikken Sekkei building (4608x2339). Other files in the category show other Toho buildings (Senkawa campus). Feature line based on award descriptions from memory; check before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
+  ],
+  "features_on_wall": "Soundproof lesson rooms as stacked concrete boxes around a courtyard; gaps between the boxes bring daylight in."
+ },
+ {
+  "id": "appleby-blue-almshouse",
+  "name": "Appleby Blue Almshouse",
+  "by": "Witherford Watson Mann",
+  "city": "London",
+  "cc": "GB",
+  "year": "2023",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Almshouse flats for older people in brick ranges round a planted courtyard, reached by shared timber-lined galleries.",
+  "note": "Only one Commons photo (4032x3024, street corner, clear); it sits in Category:Southwark Park Road, London. Completion year 2023 from memory; galleries detail from memory, check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize"
+  ],
+  "features_on_wall": "Almshouse flats for older people in brick ranges round a planted courtyard, reached by shared timber-lined galleries."
+ },
+ {
+  "id": "weald-and-downland-gridshell",
+  "name": "Weald and Downland Gridshell",
+  "by": "Edward Cullinan Architects, Buro Happold",
+  "city": "Singleton",
+  "cc": "GB",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Digital fabrication"
+  ],
+  "features": "A three-domed lattice of thin green oak laths bent into a peanut-shell shape over an archive sunk into the chalk slope.",
+  "note": "Free exterior photos on Commons are all 640px geograph files (e.g. Downland Gridshell - geograph.org.uk - 291120.jpg, Gridshell.jpg); larger free files are interiors (Inside the Gridshell... 7018746, 1600px). Interiors could be extras. Height not sourced, so the profile shows proportion only.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weald_and_Downland_Gridshell",
+   "https://www.cullinanstudio.com/project-downland-gridshell",
+   "https://architizer.com/projects/downland-gridshell"
+  ],
+  "features_on_wall": "A three-domed lattice of thin green oak laths bent into a peanut-shell shape over an archive sunk into the chalk slope."
+ },
+ {
+  "id": "bharat-bhavan",
+  "name": "Bharat Bhavan",
+  "by": "Charles Correa",
+  "city": "Bhopal",
+  "cc": "IN",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "Arts centre stepped down a hillside to the Upper Lake as terraces and sunken courts, with an open-air theatre.",
+  "note": "Inaugurated 13 Feb 1982. Category is mostly performance photos; the three listed show the courts, gate with the small domes, and the lakeside terrace. Wikipedia does not describe the form; 'terraces and sunken courts' is from the photos and the well-published design, check before use.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bharat_Bhavan",
+   "https://en.wikipedia.org/wiki/Charles_Correa"
+  ],
+  "features_on_wall": "Arts centre stepped down a hillside to the Upper Lake as terraces and sunken courts, with an open-air theatre."
+ },
+ {
+  "id": "makoko-floating-school",
+  "name": "Makoko Floating School",
+  "by": "Kunlé Adeyemi (NLÉ)",
+  "city": "Lagos",
+  "cc": "NG",
+  "year": "2013",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Timber",
+   "Low cost"
+  ],
+  "features": "10 m timber A-frame on about 250 plastic barrels: play deck, louvred classrooms, open workshop on top.",
+  "note": "No photo of the school on Commons (two Makoko files show a different, land-based school). Sources agree: triangular A-frame 10 m high on a 10 x 10 m base, three levels, about 250-256 recycled barrels. Collapsed in a storm on 7 June 2016 (abandoned three months earlier); NLÉ later built an improved version (MFS II, Venice 2016). Floor heights are proportioned, not sourced.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makoko_Floating_School",
+   "https://archnet.org/sites/15149",
+   "https://www.dezeen.com/2014/03/25/makoko-floating-school-nigeria-nle/amp/"
+  ],
+  "features_on_wall": "10 m timber A-frame on about 250 plastic barrels: play deck, louvred classrooms, open workshop on top."
+ },
+ {
+  "id": "grand-theatre-de-rabat",
+  "name": "Grand Théâtre de Rabat",
+  "by": "Zaha Hadid Architects",
+  "city": "Rabat",
+  "cc": "MA",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Parametric"
+  ],
+  "features": "Sweeping white shell on the Bou Regreg riverbank, with a muqarnas-faceted 1,821-seat hall and outdoor amphitheatre.",
+  "note": "Completed 2021, inaugurated Oct 2024, opened to the public April 2026. Morocco has no freedom of panorama, so these Commons files may be deleted later; check before relying on them.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Theatre_of_Rabat"
+  ],
+  "features_on_wall": "Sweeping white shell on the Bou Regreg riverbank, with a muqarnas-faceted 1,821-seat hall and outdoor amphitheatre."
+ },
+ {
+  "id": "nid-d-abeille-casablanca",
+  "name": "Nid d'Abeille, Carrières Centrales",
+  "by": "Georges Candilis, Shadrach Woods (ATBAT-Afrique)",
+  "city": "Casablanca",
+  "cc": "MA",
+  "year": "1953",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Modular",
+   "Climate response"
+  ],
+  "features": "The patio house stacked five levels high: private open-air patios staggered floor by floor into a honeycomb facade.",
+  "note": "No photo on Commons. Sources: Écochard's 8 x 8 m grid stacked vertically; galleries lead to private patios on both facades; Centre Pompidou drawing titled 'Nid d'abeille R+4, étages pairs et impairs' (ground + 4, alternating even and odd floors), dated 1953 (Wikipedia gives 1952 for the estate). Bay count, window sizes and the ground floor are not sourced and are simplified; most patios have since been enclosed by residents. The extra is the Dec 1954 L'Architecture d'Aujourd'hui cover (tinted photo of the facade, 1313x1717, PD) - could also serve as a gallery image. Wikipedia credits Candilis, Woods and Josic; Casamémoire credits Bodiansky, Candilis and Woods (ATBAT-Afrique).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carri%C3%A8res_Centrales",
+   "https://www.centrepompidou.fr/es/ressources/oeuvre/ck75e4",
+   "https://findit.library.yale.edu/catalog/digcoll:1900904",
+   "https://www.thepolisblog.org/2012/07/adaptations-of-vernacular-modernism.html"
+  ],
+  "features_on_wall": "The patio house stacked five levels high: private open-air patios staggered floor by floor into a honeycomb facade."
+ },
+ {
+  "id": "hotel-el-aurassi",
+  "name": "Hôtel El Aurassi",
+  "by": "Luigi Moretti",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1975",
+  "type": "Hospitality",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "Long horizontal hotel slab on stacked podiums along the hillside above Algiers bay, every room facing the sea.",
+  "note": "Wikipedia's Moretti article captions it 1975 and places his Algerian work from 1969; no dedicated English article. 'Every room facing the sea' comes from the photos (single-loaded slab facing the bay), not a text source - trim if unwanted. Algeria has no freedom of panorama; these files may be challenged later.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luigi_Moretti"
+  ],
+  "features_on_wall": "Long horizontal hotel slab on stacked podiums along the hillside above Algiers bay, every room facing the sea."
+ },
+ {
+  "id": "notre-dame-de-lourdes-casablanca",
+  "name": "Notre-Dame-de-Lourdes, Casablanca",
+  "by": "Achille Dangleterre, Gaston Zimmer",
+  "city": "Casablanca",
+  "cc": "MA",
+  "year": "1954",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Light & shadow",
+   "Exposed concrete"
+  ],
+  "features": "Concrete church with a tall entrance front, vaulted concrete ceiling and walls of Gabriel Loire stained glass.",
+  "note": "The one clear exterior is an old colour slide of the entrance front (2592x3888). File:Casablanca Notre-Dame-de-Lourde (2).jpg (1280x1920) is unseen. Other CC0 files show the grotto and the vaults inside. Morocco has no freedom of panorama, so check the file survives.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre-Dame_de_Lourdes_Church_(Casablanca)"
+  ],
+  "features_on_wall": "Concrete church with a tall entrance front, vaulted concrete ceiling and walls of Gabriel Loire stained glass."
+ },
+ {
+  "id": "rabindra-bhavan-delhi",
+  "name": "Rabindra Bhavan",
+  "by": "Habib Rahman",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "Home of three national arts academies: long shaded wings fronted by a canopy of white concrete arches.",
+  "note": "Wikipedia gives 1961 (or 1963) and says Nehru overruled the initial designs. About 20 free photos. Facade description is from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)"
+  ],
+  "features_on_wall": "Home of three national arts academies: long shaded wings fronted by a canopy of white concrete arches."
+ },
+ {
+  "id": "palika-kendra",
+  "name": "Palika Kendra (NDMC Building)",
+  "by": "Kuldip Singh, Mahendra Raj",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1984",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "21-storey concrete tower whose base flares out in a great curve, one of Delhi's landmark brutalist buildings.",
+  "note": "Inaugurated 1984; 21 storeys, 91 m. The flared base is from the photos. Note: File:Civic center.jpg is in the category and shows the same tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palika_Kendra"
+  ],
+  "features_on_wall": "21-storey concrete tower whose base flares out in a great curve, one of Delhi's landmark brutalist buildings."
+ },
+ {
+  "id": "mortonhall-crematorium",
+  "name": "Mortonhall Crematorium",
+  "by": "Basil Spence, Glover & Ferguson",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1967",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Chapels of white flint-aggregate block with tall angled fins and slit windows, set in woodland.",
+  "note": "Thumbnails not viewable from the sandbox; 'Main chapel' may be an interior, check before use.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mortonhall_Crematorium",
+   "https://en.wikipedia.org/wiki/DoCoMoMo_Key_Scottish_Monuments"
+  ],
+  "features_on_wall": "Chapels of white flint-aggregate block with tall angled fins and slit windows, set in woodland."
+ },
+ {
+  "id": "cultural-center-of-the-philippines",
+  "name": "Cultural Center of the Philippines (Tanghalang Pambansa)",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": "1969",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Locsin's National Theater, opened 1969: flagship of the Cultural Center complex on reclaimed Manila Bay land.",
+  "note": "The Philippines has no freedom of panorama and Locsin died in 1994, so these could be challenged. Descriptions are generic; check the photos show the main theatre building. Thumbnails not viewable from the sandbox; files chosen from titles, sizes and descriptions.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Center_of_the_Philippines"
+  ],
+  "features_on_wall": "Locsin's National Theater, opened 1969: flagship of the Cultural Center complex on reclaimed Manila Bay land."
+ },
+ {
+  "id": "villa-stein-de-monzie",
+  "name": "Villa Stein-de Monzie (Les Terrasses)",
+  "by": "Le Corbusier and Pierre Jeanneret",
+  "city": "Vaucresson (Garches)",
+  "cc": "FR",
+  "year": "1928",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "White box of strip windows set out with regulating lines; a canopy marks the door and a balcony the service entrance.",
+  "note": "No free photo on Commons (France has no freedom of panorama; Le Corbusier died in 1965), only CC0 photos of a V&A model. The Fondation Le Corbusier text (via search) confirms strip windows, the awning over the entrance door and the balcony over the service door; the exact window lengths and door positions are drawn from memory of published elevations, so check against a photo. The garden side with its hanging terrace is not shown.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Stein",
+   "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-stein-de-monzie-villa-les-terrasses-france-1926-1928/"
+  ],
+  "features_on_wall": "White box of strip windows set out with regulating lines; a canopy marks the door and a balcony the service entrance."
+ },
+ {
+  "id": "conjunto-nacional",
+  "name": "Conjunto Nacional",
+  "by": "David Libeskind",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1956",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Brise-soleil",
+   "Promenade"
+  ],
+  "features": "A whole block on Avenida Paulista: low shopping podium with a roof garden under a 25-storey slab.",
+  "note": "Not Daniel Libeskind: David Libeskind (1928–2014) was a Brazilian architect. Wikipedia's infobox says 1956 but other sources give 1958–1962; check before publishing the year.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)"
+  ],
+  "features_on_wall": "A whole block on Avenida Paulista: low shopping podium with a roof garden under a 25-storey slab."
+ },
+ {
+  "id": "plaza-cubierta-ucv",
+  "name": "Covered Plaza, University City of Caracas",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1953",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Colour",
+   "Light & shadow"
+  ],
+  "features": "Shaded plaza of free-form concrete canopies, with murals and sculpture by Léger, Vasarely, Manaure, Arp and Calder.",
+  "note": "Heart of Villanueva's 'synthesis of the arts'. Aula Magna and both stadiums are already on the wall. The 1955 and 2015 MoMA shows both featured the campus; check the exact building lists if the owner wants the award line precise.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_City_of_Caracas"
+  ],
+  "features_on_wall": "Shaded plaza of free-form concrete canopies, with murals and sculpture by Léger, Vasarely, Manaure, Arp and Calder."
+ },
+ {
+  "id": "centro-simon-bolivar",
+  "name": "Centro Simón Bolívar (El Silencio Towers)",
+  "by": "Cipriano Domínguez",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1954",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Twin government towers over a long low base, with Avenida Bolívar passing beneath the complex.",
+  "note": "The thumbnail for the 1965 file showed a framed print on a wall, so it may be a photo of a photo; check before use. Several category files show the newer Plaza Caracas buildings, not the towers.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Sim%C3%B3n_Bol%C3%ADvar"
+  ],
+  "features_on_wall": "Twin government towers over a long low base, with Avenida Bolívar passing beneath the complex."
+ },
+ {
+  "id": "museo-de-bellas-artes-caracas",
+  "name": "Museo de Bellas Artes de Caracas (1976 building)",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1976",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Promenade"
+  ],
+  "features": "Villanueva's last work: stacked concrete galleries beside his own 1938 museum in Los Caobos park.",
+  "note": "Photos show the entrance front only. Dates (1938 first building, 1966–76 second) are from memory and Commons categories; check before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Bellas_Artes_(Caracas)"
+  ],
+  "features_on_wall": "Villanueva's last work: stacked concrete galleries beside his own 1938 museum in Los Caobos park."
+ },
+ {
+  "id": "edificio-panamericano",
+  "name": "Edificio Panamericano",
+  "by": "Raúl Sichero",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1964",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Long apartment slab raised on V-shaped concrete pilotis, facing the river at Buceo.",
+  "note": "First photo is a close-up of the pilotis; in the second the slab is behind the radio-station pavilion. Year (built 1959–64) from general sources; check.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Edificio_Panamericano"
+  ],
+  "features_on_wall": "Long apartment slab raised on V-shaped concrete pilotis, facing the river at Buceo."
+ },
+ {
+  "id": "facultad-de-arquitectura-udelar",
+  "name": "Faculty of Architecture, University of the Republic",
+  "by": "Román Fresnedo Siri, Mario Muccinelli",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1946",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Stone"
+  ],
+  "features": "Architecture school built round a central patio and pool, with stone-clad wings and a long glazed front.",
+  "note": "Year 1946 is the usual completion date; check. Vilamajó's Faculty of Engineering, already on the wall, is nearby.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Facultad_de_Arquitectura,_Universidad_de_la_Rep%C3%BAblica"
+  ],
+  "features_on_wall": "Architecture school built round a central patio and pool, with stone-clad wings and a long glazed front."
+ },
+ {
+  "id": "torres-de-tajamar",
+  "name": "Torres de Tajamar",
+  "by": "Luis Prieto Vial with Bresciani, Valdés, Castillo, Huidobro",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1967",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Modular",
+   "Public space"
+  ],
+  "features": "Four tall apartment slabs (towers A–D) set in gardens beside Parque Uruguay in Providencia.",
+  "note": "Wikidata says built 1962–64; the Commons category says 1967. 'Santiago's first high-rise housing' is a loose claim: soften or check. Four towers (A–D) per file names.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Torres_de_Tajamar"
+  ],
+  "features_on_wall": "Four tall apartment slabs (towers A–D) set in gardens beside Parque Uruguay in Providencia."
+ },
+ {
+  "id": "mambo-bogota",
+  "name": "Museo de Arte Moderno de Bogotá (MAMBO)",
+  "by": "Rogelio Salmona",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1985",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Promenade",
+   "Light from above"
+  ],
+  "features": "Salmona's brick museum: four floors of angled rooms on a central stair, lit by large windows and skylights.",
+  "note": "Wikipedia says designed 1985 without a completion date; other sources give 1979 for the first phase. Check the year before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Bogot%C3%A1"
+  ],
+  "features_on_wall": "Salmona's brick museum: four floors of angled rooms on a central stair, lit by large windows and skylights."
+ },
+ {
+  "id": "edificio-petroperu",
+  "name": "Petroperú Building",
+  "by": "Walter Weberhofer",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "features": "Dark office tower rising from a stepped, cantilevered concrete base: the state oil company's brutalist HQ.",
+  "note": "Weak photos: the first is a grey-sky view (1200×1600); the second is at night among other towers. 'EdificioPetroPeru.jpg' is a better daytime view but only 1152 px wide. Features line is from the photos; check before use.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Edificio_Petroper%C3%BA"
+  ],
+  "features_on_wall": "Dark office tower rising from a stepped, cantilevered concrete base: the state oil company's brutalist HQ."
+ },
+ {
+  "id": "biblioteca-luis-angel-arango",
+  "name": "Biblioteca Luis Ángel Arango",
+  "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía.",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1958",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Stone-clad public library in La Candelaria, with a projecting upper floor screened by slats.",
+  "note": "First stage 1958, extended in the 1960s and 70s (concert hall). Dates from general sources; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library"
+  ],
+  "features_on_wall": "Stone-clad public library in La Candelaria, with a projecting upper floor screened by slats."
+ },
+ {
+  "id": "fredensborg-houses",
+  "name": "Fredensborg Houses",
+  "by": "Jørn Utzon",
+  "city": "Fredensborg",
+  "cc": "DK",
+  "year": "1963",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Brick",
+   "Landscape"
+  ],
+  "features": "Courtyard houses strung along a slope, each with a walled garden, all facing a shared meadow.",
+  "note": "Built for Danes who had worked long abroad (Wikipedia). Completion year 1963 not in the Wikipedia intro; it is the commonly published date, please double-check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fredensborg_Houses"
+  ],
+  "features_on_wall": "Courtyard houses strung along a slope, each with a walled garden, all facing a shared meadow."
+ },
+ {
+  "id": "opera-village-laongo",
+  "name": "Opera Village (Operndorf Afrika)",
+  "by": "Diébédo Francis Kéré",
+  "city": "Laongo",
+  "cc": "BF",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Climate response"
+  ],
+  "features": "Village of school, clinic and houses in local brick and earth, with deep-set windows and shading roofs.",
+  "note": "Photos are 1633px wide. First two show the school (rendered walls, scattered square windows), the third the houses. Started with Christoph Schlingensief; built in phases from 2010. Wikipedia gives no completion year: 2011 is when the school opened, please double-check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Di%C3%A9b%C3%A9do_Francis_K%C3%A9r%C3%A9"
+  ],
+  "features_on_wall": "Village of school, clinic and houses in local brick and earth, with deep-set windows and shading roofs."
+ },
+ {
+  "id": "temple-street-parking-garage",
+  "name": "Temple Street Parking Garage",
+  "by": "Paul Rudolph",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Long multi-storey car park of stacked concrete decks on arched, tree-like columns spanning over the street.",
+  "note": "Designed 1961 (Wikipedia, Paul Rudolph article), opened 1963. No article of its own; form described from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures",
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)"
+  ],
+  "features_on_wall": "Long multi-storey car park of stacked concrete decks on arched, tree-like columns spanning over the street."
+ },
+ {
+  "id": "wurster-hall",
+  "name": "Wurster Hall",
+  "by": "Joseph Esherick, Vernon DeMars, Donald Olsen",
+  "city": "Berkeley",
+  "cc": "US",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Structure as expression"
+  ],
+  "features": "Berkeley's architecture school: a raw concrete tower over long wings, its facades hung with deep concrete sunshades.",
+  "note": "Designed by three faculty members for the College of Environmental Design; renamed Bauer Wurster Hall in 2020. Sunshades described from the photos, not the article.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wurster_Hall"
+  ],
+  "features_on_wall": "Berkeley's architecture school: a raw concrete tower over long wings, its facades hung with deep concrete sunshades."
+ },
+ {
+  "id": "hygiene-institute-berlin",
+  "name": "Institute of Hygiene and Microbiology",
+  "by": "Hermann Fehling, Daniel Gogel (Fehling+Gogel)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1974",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Circulation"
+  ],
+  "features": "Free-form research and teaching building in raw concrete, with curving wings, outside stairs and a lecture hall wedge.",
+  "note": "Built 1969-74 for the Free University; listed 2021. Neighbour of the Mäusebunker (already on the wall), across the Teltow Canal. Form words come from the photos.",
+  "sources": [
+   "https://www.berlin.de/landesdenkmalamt/aktuelles/kurzmeldungen/2021/institut-fuer-hygiene-und-mikrobiologie-unter-denkmalschutz-1042186.php",
+   "https://en.wikipedia.org/wiki/M%C3%A4usebunker"
+  ],
+  "features_on_wall": "Free-form research and teaching building in raw concrete, with curving wings, outside stairs and a lecture hall wedge."
+ },
+ {
+  "id": "athenee-francais-tokyo",
+  "name": "Athénée Français",
+  "by": "Takamasa Yoshizaka",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Exposed concrete"
+  ],
+  "features": "French-language school with sculpted concrete walls, painted in pink and deep purple and pierced by small openings.",
+  "note": "AIJ Prize winner. Colours described from the photos; the archive dates the project 1960-81 (later additions), Wikipedia gives 1962.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://www.mot-art-museum.jp/en/exhibitions/YT_ExhibitionGuide_EG.pdf"
+  ],
+  "features_on_wall": "French-language school with sculpted concrete walls, painted in pink and deep purple and pierced by small openings."
+ },
+ {
+  "id": "national-museum-of-japanese-history",
+  "name": "National Museum of Japanese History",
+  "by": "Yoshinobu Ashihara",
+  "city": "Sakura",
+  "cc": "JP",
+  "year": "1980",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Promenade",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Long, low museum on the Sakura Castle ruins, entered across a broad brick forecourt under a vaulted canopy.",
+  "note": "Building dated 1980 by Ashihara's office; the museum opened 16 March 1983. The features line is drawn from the photos (forecourt and entrance canopy); no source describes the design in detail.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yoshinobu_Ashihara",
+   "https://ashihara.jp/da/html/intr0201e.htm",
+   "https://jal.japantravel.com/chiba/national-museum-of-japanese-history/63743"
+  ],
+  "features_on_wall": "Long, low museum on the Sakura Castle ruins, entered across a broad brick forecourt under a vaulted canopy."
+ },
+ {
+  "id": "united-nations-university",
+  "name": "United Nations University Headquarters",
+  "by": "Kenzo Tange",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1992",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Symmetrical stepped tower on Aoyama-dori, narrowing like a ziggurat to a pointed glass top, with a front plaza.",
+  "note": "Handed over by the Japanese government on 30 June 1992; inaugurated 17 February 1993. Wikipedia names Tange but does not describe the form: the features line is from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_Nations_University"
+  ],
+  "features_on_wall": "Symmetrical stepped tower on Aoyama-dori, narrowing like a ziggurat to a pointed glass top, with a front plaza."
+ },
+ {
+  "id": "media-tic",
+  "name": "Media-TIC",
+  "by": "Enric Ruiz-Geli (Cloud 9)",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Structure as expression"
+  ],
+  "features": "Steel-framed cube wrapped in inflatable ETFE cushions that shade the offices from the sun.",
+  "note": "No English Wikipedia article; year 2010 is from memory (it won WAF 2011). Fourth photo is a close-up of the ETFE cushions.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Sustainable_architecture_in_Barcelona"
+  ],
+  "features_on_wall": "Steel-framed cube wrapped in inflatable ETFE cushions that shade the offices from the sun."
+ },
+ {
+  "id": "dornbusch-church",
+  "name": "Dornbusch Church",
+  "by": "Meixner Schlüter Wendt",
+  "city": "Frankfurt am Main",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "A 1960s church partly demolished and closed with a new folded wall; the lost part is traced on the plaza.",
+  "note": "Firm's site gives completion 2005 (Wikipedia: 2004-2006). The traced outline is visible as lines in the paving in the second photo; check wording if unsure.",
+  "sources": [
+   "https://www.meixner-schlueter-wendt.de/en/projects/dornbusch-church/",
+   "https://en.wikipedia.org/wiki/Meixner_Schl%C3%BCter_Wendt_Architekten"
+  ],
+  "features_on_wall": "A 1960s church partly demolished and closed with a new folded wall; the lost part is traced on the plaza."
+ },
+ {
+  "id": "unilever-haus-hamburg",
+  "name": "Unilever-Haus",
+  "by": "Behnisch Architekten",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "Offices around a tall open atrium, wrapped in a loose ETFE foil skin against the harbour wind.",
+  "note": "Facts from memory (Behnisch, HafenCity, 2009, ETFE outer skin, central atrium open to the public at ground level). Second photo is a distant view from the Elbe with the Elbphilharmonie.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Offices around a tall open atrium, wrapped in a loose ETFE foil skin against the harbour wind."
+ },
+ {
+  "id": "max-aicher-arena",
+  "name": "Max Aicher Arena",
+  "by": "Behnisch Architekten with Pohl Architekten",
+  "city": "Inzell",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Climate response"
+  ],
+  "features": "Low, flat-arched roof spans the whole speed-skating oval with no inner columns, lit by rooflights.",
+  "note": "Covered 400 m speed-skating oval. Column-free span and rooflights from memory and the interior photo File:Evo2 Max-Aicher-Arena.jpg (CC BY-SA 4.0), which shows the inside well. Pohl Architekten co-credit from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners",
+   "https://en.wikipedia.org/wiki/Max_Aicher_Arena"
+  ],
+  "features_on_wall": "Low, flat-arched roof spans the whole speed-skating oval with no inner columns, lit by rooflights."
+ },
+ {
+  "id": "arena-zagreb",
+  "name": "Arena Zagreb",
+  "by": "UPI-2M",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Oval arena wrapped in a ring of tall, curved white ribs that bend outward at the top.",
+  "note": "WAF lists it under the Structural Design (Spans) awards; check the year on the WAF page. Third photo shows only one end under a storm sky.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Arena_Zagreb"
+  ],
+  "features_on_wall": "Oval arena wrapped in a ring of tall, curved white ribs that bend outward at the top."
+ },
+ {
+  "id": "museo-memoria-y-tolerancia",
+  "name": "Museum of Memory and Tolerance",
+  "by": "Arditti + RDT Arquitectos",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Heavy stone and concrete volumes on the Alameda, cut by tall glazed openings.",
+  "note": "Photos are 1200px, donated by the museum. Architect and year from memory (Arditti + RDT, opened 2010); WAF page lists it as a Culture winner without the year clearly shown, check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Memory_and_Tolerance_Museum"
+  ],
+  "features_on_wall": "Heavy stone and concrete volumes on the Alameda, cut by tall glazed openings."
+ },
+ {
+  "id": "hotel-jakarta-amsterdam",
+  "name": "Hotel Jakarta",
+  "by": "SeARCH",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2018",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Planting",
+   "Water"
+  ],
+  "features": "Timber-framed hotel on the tip of Java Island, built around a glass-roofed subtropical garden.",
+  "note": "Commons category is named after the address. Interior garden: File:2023 Amsterdam, Hotel Jakarta (02).jpg. Timber structure from memory (timber above a concrete base); check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Timber-framed hotel on the tip of Java Island, built around a glass-roofed subtropical garden."
+ },
+ {
+  "id": "ravenscar-house-museum",
+  "name": "Ravenscar House Museum",
+  "by": "Patterson Associates",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Sculptural form"
+  ],
+  "features": "House museum of folded precast-concrete volumes, its rooms laid out like a home around a courtyard.",
+  "note": "Only one photo (4032x1737), a clear street view. Opened November 2021 (from memory).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Ravenscar_House_Museum"
+  ],
+  "features_on_wall": "House museum of folded precast-concrete volumes, its rooms laid out like a home around a courtyard."
+ },
+ {
+  "id": "sony-city-osaki",
+  "name": "Sony City Osaki (NBF Osaki Building)",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Office slab whose long face is lined with porous ceramic louvre pipes that cool the air by evaporating rainwater.",
+  "note": "Only one photo (3648px), a low view of the louvred facade with the Sony sign still on top. Renamed NBF Osaki Building after Sony sold it. 'BioSkin' facade details from memory.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "features_on_wall": "Office slab whose long face is lined with porous ceramic louvre pipes that cool the air by evaporating rainwater."
+ },
+ {
+  "id": "belarusian-memorial-chapel",
+  "name": "Belarusian Memorial Chapel",
+  "by": "Spheron Architects (Tszwai So)",
+  "city": "London",
+  "cc": "GB",
+  "year": "2017",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Community"
+  ],
+  "features": "Small oak chapel recalling Belarus's wooden churches, with a shingled dome on a slender tower.",
+  "note": "Church of St Cyril of Turau, North Finchley; memorial to the victims of Chernobyl. Materials from memory and the photos; check 'oak'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Small oak chapel recalling Belarus's wooden churches, with a shingled dome on a slender tower."
+ },
+ {
+  "id": "victoria-gate-leeds",
+  "name": "Victoria Gate",
+  "by": "ACME",
+  "city": "Leeds",
+  "cc": "GB",
+  "year": "2016",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Department store wrapped in interwoven fins that echo Leeds textiles, beside a glass-roofed arcade.",
+  "note": "Shopping centre (no retail type in vocab, so Public space). Category has ~60 more photos, mostly 1280px geograph views of the development. Textile reference is from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Department store wrapped in interwoven fins that echo Leeds textiles, beside a glass-roofed arcade."
+ },
+ {
+  "id": "sara-kulturhus",
+  "name": "Sara Kulturhus",
+  "by": "White Arkitekter",
+  "city": "Skellefteå",
+  "cc": "SE",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Prefabrication",
+   "Modular"
+  ],
+  "features": "Culture centre and 20-storey hotel tower built in timber, with prefabricated wood modules stacked inside a glass skin.",
+  "note": "Second photo is at night with the tower lit in colours. Earlier files in the category show construction (useful as extras: exposed timber frame). Hotel is The Wood Hotel; storey count from memory, check.",
+  "sources": [
+   "https://www.theplan.it/eng/whats_on/waf-2022-vincitori-prime-20-categorie"
+  ],
+  "features_on_wall": "Culture centre and 20-storey hotel tower built in timber, with prefabricated wood modules stacked inside a glass skin."
+ },
+ {
+  "id": "forskaren-stockholm",
+  "name": "Forskaren",
+  "by": "3XN",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "2022",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "Round life-science building of stacked floor rings wrapped in slim vertical fins, around a shared atrium.",
+  "note": "Files are named 'Kvarteret Forskaren, Hagastaden' (no own category found). Some April 2022 files show it under construction; 'Norra tornen och kvarteret Forskaren ... oktober 2022' files show it finished from further away. Atrium detail is from memory; check.",
+  "sources": [
+   "https://designdekko.com/news/day-one-winners-of-waf-2024-international-architectural-awards-announced"
+  ],
+  "features_on_wall": "Round life-science building of stacked floor rings wrapped in slim vertical fins, around a shared atrium."
+ },
+ {
+  "id": "paula-fox-melanoma-and-cancer-centre",
+  "name": "Paula Fox Melanoma and Cancer Centre",
+  "by": "Lyons",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2023",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Human comfort"
+  ],
+  "features": "Two rounded glass towers that pull apart at the top, rising from a sweeping white entrance canopy.",
+  "note": "Only one photo (3024px square, public domain), a clear street view. At Alfred Hospital, Prahran; year from memory (opened 2023), check.",
+  "sources": [
+   "https://designdekko.com/news/world-architecture-festival-2024-day-two-winners-of-international-architectural-awards-announced"
+  ],
+  "features_on_wall": "Two rounded glass towers that pull apart at the top, rising from a sweeping white entrance canopy."
+ },
+ {
+  "id": "alila-villas-uluwatu",
+  "name": "Alila Villas Uluwatu",
+  "by": "WOHA",
+  "city": "Uluwatu, Bali",
+  "cc": "ID",
+  "year": "2009",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Reclaimed material"
+  ],
+  "features": "Clifftop resort of low terraced villas and open lattice pavilions, built with local stone and reclaimed timber.",
+  "note": "Flickr photos with generic titles (Pavilion, Paradise, Dusk) but in the building's own category. Materials from memory (volcanic stone, reclaimed ironwood); check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Clifftop resort of low terraced villas and open lattice pavilions, built with local stone and reclaimed timber."
+ },
+ {
+  "id": "shanghai-suhe-mixc-world",
+  "name": "Shanghai Suhe MixC World",
+  "by": "Kokaistudios",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Planting"
+  ],
+  "features": "Shopping centre split by a sunken park valley; curving planted terraces step down to the shops.",
+  "note": "Only one photo (6559px): the sunken valley and green terraces, with a large pink elephant sculpture in the foreground. Opening year from memory (2021), check. No retail type in vocab, so Public space.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "Shopping centre split by a sunken park valley; curving planted terraces step down to the shops."
+ },
+ {
+  "id": "dalarna-media-library",
+  "name": "Dalarna Media Library",
+  "by": "ADEPT",
+  "city": "Falun",
+  "cc": "SE",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "University library wrapped in a deep lattice of horizontal slats that filters daylight into the reading rooms.",
+  "note": "Dalarna University's library in Falun, both photos in snow. The second file's embedded metadata says 'Todos os dereitos reservados' (all rights reserved) although Commons lists CC BY-SA 4.0 - check its file page before using it. Year and slat material from memory; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "features_on_wall": "University library wrapped in a deep lattice of horizontal slats that filters daylight into the reading rooms."
+ }
+]

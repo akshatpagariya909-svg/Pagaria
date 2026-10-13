@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "job-600-accra",
+  "name": "Job 600",
+  "by": null,
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Modular"
+  ],
+  "features": "Long slab built in months for the 1965 OAU summit, its gridded facade split by tall vertical bands.",
+  "note": "Only one clear photo of the slab (4032x3024); the other file in the category is a distant view down the forecourt. Architect: Wikipedia names none; other sources searched did not confirm one, so 'by' is left empty. Renovated 2015 by China State Hualong; facade description is from the photo, check before using.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Job_600"
+  ]
+ },
+ {
+  "id": "conservatorio-nacional-de-musica",
+  "name": "National Conservatory of Music, Mexico",
+  "by": "Mario Pani",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1949",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "Pani's music school in Polanco, with an open-air theatre and stone-clad wings round its courts.",
+  "note": "Weak: only two usable files. The first (Flickr Commons, 'no known restrictions') shows the open-air theatre and a wing; the second is mostly the entrance gate and parked cars. 1949 is when the school moved in. Features line is from photos, so check before use; consider dropping.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conservatorio_Nacional_de_M%C3%BAsica_(Mexico)"
+  ]
+ },
+ {
+  "id": "plaza-de-mercado-girardot",
+  "name": "Girardot Market Hall (Plaza de Mercado de Girardot)",
+  "by": "Leopoldo Rother",
+  "city": "Girardot",
+  "cc": "CO",
+  "year": "1949",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Open market hall under a light concrete roof on slender columns, built to stay cool in Girardot's heat.",
+  "note": "Weak: photos show the street front cluttered with stalls and taxis; the roof is the point and no photo shows it well. Built 1946–49 per general sources; check year and features before use.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Plaza_de_Mercado_de_Girardot"
+  ]
+ },
+ {
+  "id": "sun-yat-sen-memorial-hall-taipei",
+  "name": "National Dr. Sun Yat-sen Memorial Hall",
+  "by": "Wang Da-hong",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1972",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Modernist concrete hall whose sweeping yellow roof curls up at the corners like a traditional eave.",
+  "note": "Completed 16 May 1972. Wang Da-hong won a public contest; Wikipedia says the design was then modified to stress Chinese characteristics. Photos are in the subcategory Sun Yat-sen Memorial Hall (Taipei) from the south. The roof description comes from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Dr._Sun_Yat-sen_Memorial_Hall"
+  ]
+ },
+ {
+  "id": "monument-to-the-peoples-heroes",
+  "name": "Monument to the People's Heroes",
+  "by": "Liang Sicheng, Lin Huiyin",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1958",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "38 m granite obelisk on a two-tier marble terrace, its base ringed by bas-reliefs of modern history.",
+  "note": "Built 1952-1958 and unveiled 1 May 1958. Wikipedia names Liang Sicheng as architect, with some elements by Lin Huiyin. A monument rather than a building; the owner may prefer to leave it out. The two-tier terrace is from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_People%27s_Heroes"
+  ]
+ },
+ {
+  "id": "ordos-museum",
+  "name": "Ordos Museum",
+  "by": "MAD Architects (Ma Yansong)",
+  "city": "Ordos",
+  "cc": "CN",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "Blob-like shell of metal louvres hovering over a rolling stone plaza, inspired by the Gobi Desert.",
+  "note": "Ordos Museum article gives no year; the Ma Yansong article lists it as 2005-2011, completed. Third photo is aerial. The metal louvre cladding is described from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ordos_Museum",
+   "https://en.wikipedia.org/wiki/Ma_Yansong"
+  ]
+ },
+ {
+  "id": "shenzhen-stock-exchange",
+  "name": "Shenzhen Stock Exchange",
+  "by": "OMA",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Plain square tower whose wide podium is lifted high off the ground, sheltering a plaza beneath.",
+  "note": "Built 2008-2013; 245.8 m, 49 floors. Wikipedia names OMA partners Rem Koolhaas, David Gianotten, Ellen van Loon and Shohei Shigematsu. The raised podium is described from the photos (Wikipedia does not mention it). Last photo looks up at the podium's underside.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange"
+  ]
+ },
+ {
+  "id": "central-government-complex-tamar",
+  "name": "Central Government Complex, Tamar",
+  "by": "Rocco Yim (Rocco Design Architects)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2011",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Two towers joined at the top to frame a giant open door, with a park running through to the harbour.",
+  "note": "In use from 2011. Wikipedia: massing based on the idea of a door always open; Tamar Park passes through to the waterfront. The towers joined at the top are described from the photos. Rocco Yim's Hong Kong Palace Museum is already on the wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Government_Complex_(Hong_Kong)"
+  ]
+ },
+ {
+  "id": "hong-kong-cultural-centre",
+  "name": "Hong Kong Cultural Centre",
+  "by": "José Lei (Architectural Services Department)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Windowless tiled halls with a great sweeping curved roof, on the harbour beside the old clock tower.",
+  "note": "Opened 8 November 1989. Wikipedia names the Public Works Department chief architect José Lei. The windowless walls and curved roof are described from the photos; Wikipedia does not describe the exterior.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Cultural_Centre"
+  ]
+ },
+ {
+  "id": "hong-kong-design-institute",
+  "name": "Hong Kong Design Institute",
+  "by": "Coldefy & Associés (CAAU)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Glass box held seven storeys up on four towers of white steel lattice, over an open public ground.",
+  "note": "Opened autumn 2010 after a 2006 competition. Wikipedia credits Coldefy & Associés, while its Dezeen source names the firm CAAU; check the credit.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Design_Institute"
+  ]
+ },
+ {
+  "id": "oriental-pearl-tower",
+  "name": "Oriental Pearl Tower",
+  "by": "East China Architectural Design Institute",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1994",
+  "type": "Infrastructure",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "468 m TV tower: three pillars carry pink-glazed spheres strung up the shaft like pearls on a plate.",
+  "note": "Completed 18 November 1994. Wikipedia's infobox gives Shanghai Modern Architectural Design Co. as architect, while the history section says the winning design (1988, from 12 entries) came from the East China Architectural Design Institute; check which credit the owner prefers. The pearls-on-a-plate image is from the Tang poem Pipa xing, as Wikipedia notes.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower"
+  ]
+ },
+ {
+  "id": "1000-trees-shanghai",
+  "name": "1000 Trees",
+  "by": "Heatherwick Studio",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Two stepped mountains of shops and offices on the Suzhou Creek, with trees planted on top of the columns.",
+  "note": "Wikipedia (Heatherwick Studio article): two mountain-like peaks with trees planted on the buildings; retail, office, events, gallery and hotel; completed in two phases, the first opened 2021. The trees on column tops and Suzhou Creek are from the photos. Type is a mixed-use complex; Workplace is the closest.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heatherwick_Studio"
+  ]
+ },
+ {
+  "id": "xiangshan-visitor-center",
+  "name": "Xiangshan Visitor Center, Sun Moon Lake",
+  "by": "Norihiko Dan",
+  "city": "Yuchi, Nantou",
+  "cc": "TW",
+  "year": "2010",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Two curved fair-faced concrete wings under grass roofs, with 34 m canopies framing the lake and hills.",
+  "note": "Wikipedia: constructed in 2010 by Dan Norihiko; two curved wings with central canopies about 34 m long and 8 m high. Grass roofs and the reflecting water are from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xiangshan_Visitor_Center"
+  ]
+ },
+ {
+  "id": "grand-hotel-taipei",
+  "name": "Grand Hotel Taipei",
+  "by": "Yang Cho-cheng",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1973",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Landscape"
+  ],
+  "features": "87 m, 12-storey hotel in Chinese palace style: vermilion columns under a vast golden-tiled double roof on a hill.",
+  "note": "Main building completed 10 October 1973; same architect as the Chiang Kai-shek Memorial Hall. Wikipedia: one of the world's tallest Chinese classical buildings. Golden roof tiles and hilltop setting are from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_(Taipei)"
+  ]
+ },
+ {
+  "id": "taipei-fine-arts-museum",
+  "name": "Taipei Fine Arts Museum",
+  "by": "Kao Er-pan",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1983",
+  "type": "Museum",
+  "movement": "Metabolism",
+  "concepts": [
+   "Cantilever",
+   "Modular",
+   "Geometry"
+  ],
+  "features": "White galleries stacked crosswise in a lattice of long boxes, their ends cantilevered out with big windows.",
+  "note": "Opened 8 August 1983. Wikipedia: a local interpretation of the Japanese Metabolist movement. The stacked, cantilevered boxes are described from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Fine_Arts_Museum"
+  ]
+ },
+ {
+  "id": "shenzhen-baoan-airport-terminal-3",
+  "name": "Shenzhen Bao'an International Airport Terminal 3",
+  "by": "Studio Fuksas",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Megastructure"
+  ],
+  "features": "1.6 km terminal under a single perforated, honeycomb-patterned skin; locals call it the giant flying fish.",
+  "note": "Opened 28 November 2013 (Wikipedia tags the date citation needed); 450,000 m2, 1.6 km long. Wikipedia caption: parametric developed structure and facade. The honeycomb pattern is described from the photos. First two photos are aerial.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Bao%27an_International_Airport"
+  ]
+ },
+ {
+  "id": "ntu-college-of-social-sciences",
+  "name": "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)",
+  "by": "Toyo Ito",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Landscape"
+  ],
+  "features": "Glass-walled reading room under a forest of slender white columns that open into lily-pad roof discs.",
+  "note": "Year and architect from the Toyo Ito article (2013, College of Social Sciences, NTU). The library is the low pavilion beside the college's main block; the column and roof-disc description is from the photos. Toyo Ito's Taichung theatre and Kaohsiung stadium are already on the wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toyo_Ito"
+  ]
+ },
+ {
+  "id": "kirchner-museum-davos",
+  "name": "Kirchner Museum Davos",
+  "by": "Gigon/Guyer",
+  "city": "Davos",
+  "cc": "CH",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Modular"
+  ],
+  "features": "Four glass-clad gallery cubes linked by a low glazed hall; daylight enters the rooms from above.",
+  "note": "Gigon/Guyer's breakthrough work (1989-1992 per Wikipedia's project list). The 'four cubes' and top-light description is from general knowledge of the building and the photos; check before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer",
+   "https://en.wikipedia.org/wiki/Kirchner_Museum_Davos"
+  ]
+ },
+ {
+  "id": "toni-areal",
+  "name": "Toni-Areal",
+  "by": "EM2N",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Megastructure"
+  ],
+  "features": "Former yoghurt factory turned into an art university: a vertical campus with a ramp running through it.",
+  "note": "No English Wikipedia article. Architect EM2N from the Commons file page; 2014 opening from Wikipedia (ZHdK moved in autumn 2014). The internal ramp is from general knowledge of the building, not from these sources; trim it from the line if in doubt.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zurich_University_of_the_Arts",
+   "https://en.wikipedia.org/wiki/Museum_of_Design,_Zurich",
+   "https://commons.wikimedia.org/wiki/File:Hochhaus_Toni-Areal_Z%C3%BCrich.jpg"
+  ]
+ },
+ {
+  "id": "german-maritime-museum",
+  "name": "German Maritime Museum (Scharoun building)",
+  "by": "Hans Scharoun",
+  "city": "Bremerhaven",
+  "cc": "DE",
+  "year": "1975",
+  "type": "Museum",
+  "movement": "Expressionism",
+  "concepts": [
+   "Water",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Scharoun's last building: ship-like white volumes stepping along the harbour, with a museum fleet moored outside.",
+  "note": "Wikipedia: building 'planned by Hans Scharoun', opened 5 September 1975 (Scharoun died in 1972, so it was completed after his death). The 2000s extension by Dietrich Bangert is a separate building; the photos chosen show the Scharoun building. 'Last building' is general knowledge; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/German_Maritime_Museum"
+  ]
+ },
+ {
+  "id": "bundestag-plenary-building-bonn",
+  "name": "Plenary Building of the Bundestag, Bonn",
+  "by": "Behnisch & Partner (Günter Behnisch)",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Glass parliament for democracy on view: transparent walls, a light steel roof and a sunken round chamber by the Rhine.",
+  "note": "Wikipedia (Behnisch): 'Plenary Complex of the German Parliament', 1987-92, Bonn; competition won in 1973. Used by the Bundestag only until 1999; now part of the World Conference Center Bonn. The sunken round chamber is from general knowledge; the interior photos are in Category:Interior of Plenargebäude (Bundeshaus, Bonn).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Bundeshaus_(Bonn)"
+  ]
+ },
+ {
+  "id": "schaulager",
+  "name": "Schaulager",
+  "by": "Herzog & de Meuron",
+  "city": "Münchenstein",
+  "cc": "CH",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "Art warehouse walled in concrete mixed with gravel from the site; a white funnel-shaped forecourt cuts in.",
+  "note": "Wikipedia: built 2002/2003 for the Laurenz Foundation, designed by Herzog & de Meuron, opened 2003, 'an open warehouse' for storing art. The excavated-gravel walls are general knowledge, not in the article; trim if in doubt.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schaulager"
+  ]
+ },
+ {
+  "id": "gsw-headquarters",
+  "name": "GSW Headquarters",
+  "by": "Sauerbruch Hutton",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Colour",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Thin curved slab added to a 1950s tower; its west double facade of pink and orange shading panels ventilates it.",
+  "note": "Wikipedia lists 'GSW Headquarters', Berlin, 1999; Commons file descriptions give 82 m height and a double glass facade. Natural ventilation through the double facade is general knowledge of the building; check before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+   "https://commons.wikimedia.org/wiki/Category:GSW-Building"
+  ]
+ },
+ {
+  "id": "german-environment-agency-dessau",
+  "name": "German Environment Agency (Umweltbundesamt), Dessau",
+  "by": "Sauerbruch Hutton",
+  "city": "Dessau-Roßlau",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Colour",
+   "Adaptive reuse"
+  ],
+  "features": "Long curving office ring in timber and coloured glass bands around a glazed atrium, on a former rail-works site.",
+  "note": "Wikipedia lists 'Federal Environmental Agency', Dessau, 2005. The ring plan, atrium and rail-works site are general knowledge, consistent with the photos (old brick station buildings beside it); check before publishing.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+   "https://commons.wikimedia.org/wiki/Category:Umweltbundesamt_(Dessau_headquarters)"
+  ]
+ },
+ {
+  "id": "tour-total-berlin",
+  "name": "Tour Total (Jean-Monnet-Tower)",
+  "by": "Barkow Leibinger",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "69 m office tower wrapped in a grid of faceted precast-concrete fins that shift with the light.",
+  "note": "No English Wikipedia article (en 'Tour Total' is the Paris tower). Architect, 2012 opening and 69 m height from the Commons category's Wikidata infobox. Faceted precast fins: general knowledge, visible in File:Berlin moabit tour total 19.01.2013 12-57-46 ShiftN.jpg; check. Now branded TotalEnergies.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Jean-Monnet-Tower"
+  ]
+ },
+ {
+  "id": "stuttgart-city-library",
+  "name": "Stuttgart City Library (Stadtbibliothek am Mailänder Platz)",
+  "by": "Eun Young Yi",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Void",
+   "Light from above"
+  ],
+  "features": "Plain cube on a 9x9 facade grid; inside, a silent 'heart' room and a white funnel-shaped hall rising to a skylight.",
+  "note": "Wikipedia: international competition won by Eun Young Yi; built 2010 to 24 October 2011; cube with nine floors above ground; facade of 9x9 glass blocks; central 'heart'; funnel-shaped hall from the fifth level. The skylight is general knowledge; check. Architect is Korean-born, based in Cologne.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadtbibliothek_Stuttgart"
+  ]
+ },
+ {
+  "id": "ohel-jakob-synagogue",
+  "name": "Ohel Jakob Synagogue",
+  "by": "Wandel Hoefer Lorch (Rena Wandel-Hoefer, Wolfgang Lorch)",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2006",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Rough travertine base like the Western Wall, topped by a glass cube in a bronze star-of-David lattice: the tent.",
+  "note": "Wikipedia: architects Rena Wandel-Hoefer and Wolfgang Lorch; built 2004-2006, inaugurated 9 November 2006; part of the Jewish Center with the museum and community centre. The Western Wall and tent readings and the lattice pattern are general knowledge, not in the article; check. Photos are in the Jewish Centre category (synagogue, museum and community centre together); interiors in Category:Interior of the Hauptsynagoge Ohel Jakob (Munich).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ohel_Jakob_synagogue_(Munich)"
+  ]
+ },
+ {
+  "id": "kant-dreieck",
+  "name": "Kant-Dreieck",
+  "by": "Josef Paul Kleihues",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1994",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Gridded office tower on a triangular plot, crowned by a huge sheet-metal 'sail' that turns in the wind.",
+  "note": "No English Wikipedia article. Architect from the Commons category's Wikidata infobox; 1994 and the movable riveted sheet-metal sail from Commons file descriptions. Check the year against another source before publishing.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kant-Dreieck",
+   "https://commons.wikimedia.org/wiki/File:1986-06-22_Berlin-Charlottenburg_Kantstra%C3%9Fe_Fasanenstra%C3%9Fe_(West-Berlin)_a.jpg"
+  ]
+ },
+ {
+  "id": "academy-of-arts-pariser-platz",
+  "name": "Academy of Arts, Pariser Platz",
+  "by": "Günter Behnisch with Werner Durth (Behnisch & Partner)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "An all-glass front on Pariser Platz, defying the square's stone rules, opening onto the old academy halls behind.",
+  "note": "Wikipedia (Günter Behnisch): 'Academy of Arts Building', 1993-2005, a glass building beside the reconstructed Hotel Adlon. Co-design by Werner Durth and the fight over Pariser Platz's stone-facade rules are general knowledge; check before publishing. Not the same as 'Academy of Arts, Hanseatenweg' (Düttmann, 1960), which is already on the wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin"
+  ]
+ },
+ {
+  "id": "swiss-embassy-berlin",
+  "name": "Swiss Embassy, Berlin (extension)",
+  "by": "Diener & Diener",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Adaptive reuse",
+   "Monumentality"
+  ],
+  "features": "A sheer concrete block butted against the surviving 1870s embassy palace, the last old building in its district.",
+  "note": "Wikipedia (Diener & Diener): 'Swiss Embassy Berlin', 1995-2000. The old palace dates from the 1870s (a Commons file is titled 'Berlin Schweizer Botschaft 1863', so check the date) and was the only building left standing around it after the war; general knowledge, check. The extension's east wall carries an artwork by Helmut Federle (not in sources here).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diener_%26_Diener",
+   "https://commons.wikimedia.org/wiki/Category:Swiss_Embassy_building_in_Berlin"
+  ]
+ },
+ {
+  "id": "axel-springer-campus",
+  "name": "Axel Springer Campus",
+  "by": "OMA (Rem Koolhaas)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2020",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Void",
+   "Steel & glass"
+  ],
+  "features": "Dark glass office cube split by a diagonal valley of terraced open-plan floors, seen through a faceted glass wall.",
+  "note": "Wikipedia: Axel Springer Campus, Berlin (2020), a cube-shaped office building by Rem Koolhaas and OMA. The terraced diagonal 'valley' inside is general knowledge, visible through the faceted glass in the photos; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+   "https://en.wikipedia.org/wiki/Axel_Springer_SE"
+  ]
+ },
+ {
+  "id": "berlin-hauptbahnhof",
+  "name": "Berlin Hauptbahnhof",
+  "by": "Meinhard von Gerkan (gmp, von Gerkan, Marg and Partners)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Section"
+  ],
+  "features": "Crossing station: an east-west glass train shed over a north-south line below, straddled by two office bridges.",
+  "note": "Wikipedia infobox: architect Meinhard von Gerkan of Gerkan, Marg and Partners; opened 26 May 2006. The two-level crossing and the office 'bridge' buildings are general knowledge, visible in the photos; check wording. Engineers: Schlaich Bergermann (not in sources here).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Hauptbahnhof"
+  ]
+ },
+ {
+  "id": "adac-headquarters",
+  "name": "ADAC Headquarters",
+  "by": "Sauerbruch Hutton",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "93 m tower rising from a long, curving base; its glass skin in 22 shades of yellow and blue reads as one colour field.",
+  "note": "Wikipedia: built 2006-2011, opened 22 March 2012, 93 m and 23 floors; architect Sauerbruch Hutton, structural engineer Werner Sobek. Year given as 2011 completion (Sauerbruch Hutton's list says 2012). The '22 shades' figure is general knowledge, not checked; trim to 'yellow and blue shades' if in doubt.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ADAC_Headquarters",
+   "https://en.wikipedia.org/wiki/Sauerbruch_Hutton"
+  ]
+ },
+ {
+  "id": "kunstmuseum-bonn",
+  "name": "Kunstmuseum Bonn",
+  "by": "Axel Schultes (BJSS) with Jürgen Pleuser",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Pilotis",
+   "Public space"
+  ],
+  "features": "Pale concrete galleries under a vast thin roof on slender columns, shading a forecourt shared with the Kunsthalle.",
+  "note": "Wikipedia: by BJSS (Axel Schultes) and Jürgen Pleuser, opened 1992; three entrances. The canopy-on-columns description is from the photos and general knowledge. Do not use File:Bonn Kunstmuseum by Niederkasseler - panoramio.jpg: it shows the Bundeskunsthalle's cones. Schultes later designed the Federal Chancellery (already on the wall).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Bonn"
+  ]
+ },
+ {
+  "id": "marco-polo-tower",
+  "name": "Marco Polo Tower",
+  "by": "Behnisch Architekten",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "2010",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "55 m apartment tower whose floor plates twist from storey to storey, so deep balconies shade the glass below.",
+  "note": "Wikipedia lists 'Marco-Polo-Tower, Hamburg, Germany 2010' among Behnisch Architekten's projects; Commons infobox gives 55 m and inception August 2009. Stands next to Behnisch's Unilever-Haus (already on the wall). The rotating floor plates are visible in the photos; the shading purpose is general knowledge.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+   "https://commons.wikimedia.org/wiki/Category:Marco-Polo-Tower"
+  ]
+ },
+ {
+  "id": "wu-library-learning-center",
+  "name": "Library and Learning Center, Vienna University of Economics",
+  "by": "Zaha Hadid Architects",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Parametric",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Circulation"
+  ],
+  "features": "Leaning, striated block whose dark glazed reading room cantilevers far over the campus square.",
+  "note": "Wikipedia (Zaha Hadid) dates it 2013, when the new WU campus opened; other articles give 2008, the competition year. Centrepiece of the WU campus, whose other buildings are by BUSarchitektur, CRAB, Estudio Carme Pinós, Atelier Hitoshi Abe and NO.MAD (general knowledge).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zaha_Hadid",
+   "https://en.wikipedia.org/wiki/Vienna_University_of_Economics_and_Business"
+  ]
+ },
+ {
+  "id": "gasometer-b-vienna",
+  "name": "Gasometer B, Vienna",
+  "by": "Coop Himmelb(l)au",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Housing",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Brick"
+  ],
+  "features": "An 1890s brick gasholder turned into flats, with a bent, shield-like slab of new apartments leaning against it.",
+  "note": "Wikipedia: gasholders built 1896-1899; four converted 1999-2001 by Jean Nouvel (A), Coop Himmelblau (B), Manfred Wehdorn (C) and Wilhelm Holzbauer (D); opened 30 October 2001. This entry is Gasometer B only; the 'shield' name is general knowledge, not in the article.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gasometer,_Vienna",
+   "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au"
+  ]
+ },
+ {
+  "id": "loisium-langenlois",
+  "name": "Loisium Wine World",
+  "by": "Steven Holl",
+  "city": "Langenlois",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "An aluminium-clad cube among the vineyards, cut by narrow slots, that leads down into old wine cellars.",
+  "note": "No English Wikipedia article; Steven Holl's article does not mention it. Architect from the Commons category's Wikidata infobox; 2003 from its 'Built in Lower Austria in 2003' category. The link to the cellars and the cut-slot pattern are general knowledge plus the photos; check. Holl also built the Loisium hotel next to it (not included).",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Loisium"
+  ]
+ },
+ {
+  "id": "kaufhaus-tyrol",
+  "name": "Kaufhaus Tyrol",
+  "by": "David Chipperfield with Dieter Mathoi",
+  "city": "Innsbruck",
+  "cc": "AT",
+  "year": "2010",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Department store front broken into a gently angled row of stone-framed bays that keeps the rhythm of the old street.",
+  "note": "No English Wikipedia article. Architects and opening date (4 March 2010) from the Commons category's Wikidata infobox. Type set to Workplace for lack of a retail type in the vocabulary. The stone-framed bays are from the photos.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kaufhaus_Tyrol"
+  ]
+ },
+ {
+  "id": "wiener-stadthalle",
+  "name": "Wiener Stadthalle",
+  "by": "Roland Rainer",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1958",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Postwar arena whose big hall hangs its roof over a row of raking concrete struts along a glazed foyer.",
+  "note": "Wikipedia: Roland Rainer designed the original halls, built 1953-1958; Halls A and B opened 19 October 1957, Hall D 21 June 1958; later halls E (1994) and F (2006) by others. The raking struts and roof are described from the photos; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiener_Stadthalle"
+  ]
+ },
+ {
+  "id": "murinsel-graz",
+  "name": "Murinsel",
+  "by": "Vito Acconci",
+  "city": "Graz",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "A floating steel-and-glass shell in the river Mur, a café and amphitheatre linked to both banks by footbridges.",
+  "note": "Wikipedia: an artificial floating island in the Mur linking both banks, designed by New York artist Vito Acconci for Graz's year as 2003 European Capital of Culture. The café and amphitheatre programme is general knowledge; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murinsel"
+  ]
+ },
+ {
+  "id": "werkraum-haus-andelsbuch",
+  "name": "Werkraum Haus",
+  "by": "Peter Zumthor",
+  "city": "Andelsbuch",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Steel & glass"
+  ],
+  "features": "Showroom for the Bregenzerwald craftsmen's guild: one big dark roof floating over an all-glass hall.",
+  "note": "Architect from Commons file titles; 2013 from the category 'Built in Vorarlberg in 2013'. Werkraum Bregenzerwald is the craftsmen's association (founded 1999). The roof's timber structure is general knowledge; the photos show a dark roof edge and glass walls.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Werkraum_Bregenzerwald",
+   "https://commons.wikimedia.org/wiki/Category:Werkraum_Haus"
+  ]
+ },
+ {
+  "id": "lifecycle-tower-one",
+  "name": "LifeCycle Tower One (LCT ONE)",
+  "by": "Hermann Kaufmann",
+  "city": "Dornbirn",
+  "cc": "AT",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Prefabrication",
+   "Modular"
+  ],
+  "features": "Eight-storey prototype of a prefabricated timber-hybrid office system, its timber slabs set floor by floor.",
+  "note": "No English Wikipedia article. From the Commons category: architect Hermann Kaufmann, inception 2011, 27 m, eight-storey timber hybrid; the system is meant to reach up to 100 m / 30 storeys; a file shows the finished shell in 2012. 'Set floor by floor' is general knowledge of its prefabricated assembly; check. The facade is clad, so the timber is not visible in the photos.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:LifeCycle_Tower"
+  ]
+ },
+ {
+  "id": "building-2226-lustenau",
+  "name": "2226 Office Building",
+  "by": "Baumschlager Eberle",
+  "city": "Lustenau",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Human comfort",
+   "Brick"
+  ],
+  "features": "Thick-walled white cube with deep, tall window reveals, built to stay comfortable without heating or cooling plant.",
+  "note": "No English Wikipedia article. Architect and 2013 from Commons file titles and categories. The 'no heating, cooling or mechanical ventilation' concept (the name refers to 22-26 degrees C) and the thick brick walls are general knowledge, not in the sources reached; check before publishing. The photos look like professional press images uploaded under free licences; worth a glance at the licence pages.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:B%C3%BCrogeb%C3%A4ude_2226"
+  ]
+ },
+ {
+  "id": "fiore-di-pietra",
+  "name": "Fiore di pietra",
+  "by": "Mario Botta",
+  "city": "Monte Generoso",
+  "cc": "CH",
+  "year": "2017",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Summit restaurant whose stone-clad walls fold outward like petals around a glazed core, on the cliff edge.",
+  "note": "Wikipedia: restaurant by Mario Botta, inaugurated 29 March 2017 on Monte Generoso (on the Swiss-Italian border, reached by rack railway). The petal-like stone walls are described from the photos. City field holds the mountain; the nearest municipality is Rovio/Mendrisio.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monte_Generoso"
+  ]
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "name": "Bagno Pubblico, Bellinzona",
+  "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
+  "city": "Bellinzona",
+  "cc": "CH",
+  "year": "1970",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Promenade",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "Public pools strung under a long raised concrete walkway that runs from the town to the river across the valley.",
+  "note": "Wikipedia (Galfetti): 'Städtisches Freibad, 1967-70, Bellinzona'; Commons infobox: Galfetti, Ruchat-Roncati and Trümpy, built to 1970, Swiss cultural property of national significance (class A). The photos show the pools and gardens but none shows the raised walkway well (it appears at the edge of III); a better photo of the passerella would help. The walkway-to-the-river idea is general knowledge.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aurelio_Galfetti",
+   "https://commons.wikimedia.org/wiki/Category:Bagno_Pubblico,_Bellinzona"
+  ]
+ },
+ {
+  "id": "palestra-losone",
+  "name": "Palestra (Gymnasium), Losone",
+  "by": "Livio Vacchini",
+  "city": "Losone",
+  "cc": "CH",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "A sports hall wrapped in a dense ring of tall concrete piers that carry the roof and filter the light.",
+  "note": "Wikipedia (Vacchini) shows the 'Palestra Caserma' in Losone without a date; the Commons file gives 'Palestra 1995-1997 (competition 1990)'. Only two usable photos; the lead (2048 px) is a distant frontal view. The piers-carry-the-roof reading is general knowledge; check.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Livio_Vacchini",
+   "https://commons.wikimedia.org/wiki/File:Ticino_Losone_Palestra_Vacchini_02.jpg"
+  ]
+ },
+ {
+  "id": "biblioteca-cantonale-lugano",
+  "name": "Biblioteca cantonale, Lugano",
+  "by": "Rino Tami and Carlo Tami",
+  "city": "Lugano",
+  "cc": "CH",
+  "year": "1942",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Founding work of Ticino modernism: a glass-block book stack, a closed reading hall and a light loggia set in a park.",
+  "note": "No English Wikipedia article on the building. Architects Rino and Carlo Tami and the date 1942 (after 1941) from the Commons category's Wikidata infobox; Swiss cultural property of national significance (class A). The 'founding work' label and the book-stack reading are general knowledge (Rino Tami is seen as a forerunner of the Ticino school); check.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Biblioteca_cantonale_di_Lugano_(edificio)"
+  ]
+ },
+ {
+  "id": "swiss-national-museum-extension",
+  "name": "Swiss National Museum, Extension",
+  "by": "Christ & Gantenbein",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Promenade"
+  ],
+  "features": "A folded concrete wing that closes the old museum's courtyard and lifts into a huge triangular gateway to the park.",
+  "note": "Wikipedia: museum expanded 2013-2016 (architects not named there). Christ & Gantenbein from the Commons category's parent category; 2016 from 'Built in Switzerland in 2016'. Material (concrete with tuff aggregate) and the courtyard reading are general knowledge plus the photos; check. The round windows are visible in File:Landesmuseum Zürich Neubau 2015.jpg.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Landesmuseum_Z%C3%BCrich_Extension"
+  ]
+ },
+ {
+  "id": "frauenmuseum-hittisau",
+  "name": "Frauenmuseum Hittisau",
+  "by": "Cukrowicz Nachbaur",
+  "city": "Hittisau",
+  "cc": "AT",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Detail"
+  ],
+  "features": "A plain timber-clad village box with one big glazed front, holding a women's museum above the local fire station.",
+  "note": "No English Wikipedia article. Opening 2000 from the Commons category's Wikidata infobox; architects from the description of File:HITT 16©AdolfBereuter.jpg ('photocredits: Adolf Bereuter for cukrowicz nachbaur'). That file is a professional photo; its CC BY-SA 4.0 licence is worth a check. The fire station below is general knowledge; check.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Frauenmuseum_Hittisau",
+   "https://commons.wikimedia.org/wiki/File:HITT_16%C2%A9AdolfBereuter.jpg"
+  ]
+ },
+ {
+  "id": "bus-stop-krumbach",
+  "name": "BUS:STOP Krumbach",
+  "by": "Sou Fujimoto, Ensamble Studio, Wang Shu and Lu Wenyu, Smiljan Radić, Rintala Eggertsson, Alexander Brodsky, De Vylder Vinck Taillieu, with Vorarlberg partner architects",
+  "city": "Krumbach",
+  "cc": "AT",
+  "year": "2014",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Detail"
+  ],
+  "features": "Seven village bus shelters, each by an international architect paired with a local one and built by local craftsmen.",
+  "note": "Wikipedia lists each stop, architect and local partner (e.g. Bränden: Sou Fujimoto with Bechter Zaffignani; Unterkrumbach Nord: Ensamble Studio with Dietrich/Untertrifaller; Glatzegg: Wang Shu/Lu Wenyu with Hermann Kaufmann). It gives no completion year: the project was decided in 2010 and won a 2014 award, so 2014 is the latest possible year; check. 'Built by local craftsmen' is general knowledge. Photos: Fujimoto's steel-rod stop, Ensamble's stacked oak boards, Wang Shu's timber shelter.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/BUS:STOP_Krumbach",
+   "https://en.wikipedia.org/wiki/Krumbach,_Vorarlberg"
+  ]
+ },
+ {
+  "id": "museum-liner-appenzell",
+  "name": "Museum Liner (Kunstmuseum Appenzell)",
+  "by": "Gigon/Guyer",
+  "city": "Appenzell",
+  "cc": "CH",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Gallery row under a saw-tooth roof of stepped sheds, the whole body clad in overlapping chrome-steel plates.",
+  "note": "Wikipedia (Gigon/Guyer): 'Museum Liner', 1996-1998, Appenzell; now called Kunstmuseum Appenzell. Only one free exterior photo, contributed by the museum (CC BY-SA 4.0); interior: File:Kunstmuseum Appenzell - Das Foyer im Kunstmuseum Appenzell.jpg. The steel cladding and saw-tooth roof are visible in the photo; 'chrome-steel' is general knowledge.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer"
+  ]
+ },
+ {
+  "id": "featherston-house",
+  "name": "Featherston House",
+  "by": "Robin Boyd (Romberg & Boyd)",
+  "city": "Ivanhoe, Melbourne",
+  "cc": "AU",
+  "year": "1969",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Section",
+   "Double height"
+  ],
+  "features": "One glass-walled room over an indoor garden, with platforms floating off the central chimney like a treehouse.",
+  "note": "Only one usable exterior photo (house half-hidden in bush, which is the point of it). Two wide panoramas also exist but the house is tiny in them. The two drawings are student-made (2012) and generically named; check them before use.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Featherston_House"
+  ]
+ },
+ {
+  "id": "dixon-street-flats",
+  "name": "Dixon Street Flats",
+  "by": "Gordon Wilson (Department of Housing Construction)",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1944",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Circulation",
+   "Low cost"
+  ],
+  "features": "Ten-storey state housing block of 115 flats with long access balconies; the archetype NZ modernist apartment block.",
+  "note": "Ernst Plischke is popularly thought to have shaped the design, but Wikipedia says there is no documentary evidence, so only Wilson is credited. A historic CC BY 2.0 photo of the rooftop drying area also exists (File:State Housing, New Zealand (9721745436).jpg). 'Long access balconies' is read from the photos rather than the article.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dixon_Street_Flats",
+   "https://en.wikipedia.org/wiki/NZIA_Gold_Medal"
+  ]
+ },
+ {
+  "id": "sky-tower-auckland",
+  "name": "Sky Tower",
+  "by": "Craig Craig Moller",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1997",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "328 m concrete telecom and observation tower on splayed legs, with a revolving restaurant at 190 m.",
+  "note": "Built 1994-1997 as part of the SkyCity casino complex. 'Splayed legs' is read from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
+   "https://en.wikipedia.org/wiki/NZIA_Gold_Medal"
+  ]
+ },
+ {
+  "id": "turanga-christchurch",
+  "name": "Tūranga (Christchurch Central Library)",
+  "by": "Architectus with Schmidt Hammer Lassen",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "2018",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Post-earthquake central library on Cathedral Square, its glass box wrapped in tall folded fins.",
+  "note": "Opened 12 October 2018 as one of the 17 anchor projects of the Christchurch rebuild. Not from a national award list. 'Folded fins' is read from the photos.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/T%C5%ABranga"
+  ]
+ }
+]

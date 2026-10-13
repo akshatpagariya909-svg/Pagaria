@@ -1,0 +1,1225 @@
+{
+ "note": "Hand review of the plans, sections, elevations, sketches and models the photo upgrade found (Oct 2026). remove: not a drawing or model of this building. kinds: a photo the fetcher mislabelled as a drawing.",
+ "remove": [
+  {
+   "id": "palace-of-assembly",
+   "file": "File:Palace of the Assembly - Chandigarh - Le Corbusier - elevation of the entrance door.jpg"
+  },
+  {
+   "id": "solomon-r-guggenheim-museum",
+   "file": "File:GUGG Portrait Sketch of a Costumed Lady.jpg"
+  },
+  {
+   "id": "solomon-r-guggenheim-museum",
+   "file": "File:GUGG Eiffel Tower.jpg"
+  },
+  {
+   "id": "bauhaus-dessau",
+   "file": "File:FrauenOrte Bauhaus Dessau Ansicht.jpg"
+  },
+  {
+   "id": "cathedral-of-brasilia",
+   "file": "File:Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral.jpg"
+  },
+  {
+   "id": "cathedral-of-brasilia",
+   "file": "File:Maquete palácio da Alvorada e Catedral de Brasília.JPG"
+  },
+  {
+   "id": "hiroshima-peace-memorial-museum",
+   "file": "File:The most grisly section in the museum- American attack (49495518221).jpg"
+  },
+  {
+   "id": "salk-institute",
+   "file": "File:2019 Salk Institute south building chalk drawing on door.jpg"
+  },
+  {
+   "id": "yale-art-and-architecture-building",
+   "file": "File:Presentation Space with Architectural Model, Yale School of Architecture, 2018.jpg"
+  },
+  {
+   "id": "sydney-opera-house",
+   "file": "File:Sydney Opera House Architectural Landscape.jpg"
+  },
+  {
+   "id": "nakagin-capsule-tower",
+   "file": "File:Nakagin-capsule-tower36 (3767734898).jpg"
+  },
+  {
+   "id": "heritance-kandalama",
+   "file": "File:Geoffrey Bawa work.jpg"
+  },
+  {
+   "id": "ningbo-history-museum",
+   "file": "File:南宋“绍兴十四年”铭银塔.jpg"
+  },
+  {
+   "id": "church-of-the-light",
+   "file": "File:\"Maquette de l'église de la lumière de Tadao Ando (C. Pompidou, Paris)\".jpg"
+  },
+  {
+   "id": "centre-pompidou",
+   "file": "File:La Section d'Or, numero special, 9 Octobre 1912.jpg"
+  },
+  {
+   "id": "seattle-central-library",
+   "file": "File:Flying model airplanes! Seattle Public Library (5351013415).jpg"
+  },
+  {
+   "id": "louvre-abu-dhabi",
+   "file": "File:Jean nouvel, modellino del louvre abu dhabi.jpg"
+  },
+  {
+   "id": "high-line",
+   "file": "File:Sanborn Manhattan V. 1 Plate 064 publ. 1905.jpg"
+  },
+  {
+   "id": "superkilen",
+   "file": "File:Superkilen - red section.JPG"
+  },
+  {
+   "id": "acropolis-museum",
+   "file": "File:20211116 athenes256.jpg"
+  },
+  {
+   "id": "centre-pompidou-metz",
+   "file": "File:Monument à la Troisième internationale (centre Pompidou Metz) (4961047799).jpg"
+  },
+  {
+   "id": "beinecke-rare-book-manuscript-library",
+   "file": "File:Oil Pastel drawing and watercolor painting of Ericka Huggins on the witness stand.jpg"
+  },
+  {
+   "id": "beinecke-rare-book-manuscript-library",
+   "file": "File:Beinecke MS 229, fol. 272v.jpg"
+  },
+  {
+   "id": "bank-of-china-tower",
+   "file": "File:HK TST 示範單位 Show Flat Sheung Wan 尚賢居 CentrePoint Feb-2011.JPG"
+  },
+  {
+   "id": "military-history-museum",
+   "file": "File:Flucht-und Rettungsplan MHM DD.jpg"
+  },
+  {
+   "id": "military-history-museum",
+   "file": "File:Modell U-Boot-Klasse 201 im Militärhistorischen Museum Dresden.png"
+  },
+  {
+   "id": "st-joseph-s-church",
+   "file": "File:L'exposition Auguste Perret (Conseil économique, social et environnemental, Paris) (11872763434).jpg"
+  },
+  {
+   "id": "parc-de-la-villette",
+   "file": "File:Plaque Avenue Charollais Pavillon Maquettes - Paris XIX (FR75) - 2021-07-24 - 2.jpg"
+  },
+  {
+   "id": "yale-center-for-british-art",
+   "file": "File:Ariadne - Google Art Project.jpg"
+  },
+  {
+   "id": "national-museum-of-qatar",
+   "file": "File:Senecio glaucus botanical model by Sebastian Brandt (Reco-Brandt).jpg"
+  },
+  {
+   "id": "sagrada-familia",
+   "file": "File:Barcelona - Crypt of La Sagrada Família - Sketch of the Passion Façade.jpg"
+  },
+  {
+   "id": "danish-maritime-museum",
+   "file": "File:Model of a fluyt, MS, 2017-08-02.jpg"
+  },
+  {
+   "id": "wexner-center-for-the-arts",
+   "file": "File:Armory elevation drawings, The Ohio State University.jpg"
+  },
+  {
+   "id": "national-museum-of-roman-art",
+   "file": "File:EmeritaAugusta.JPG"
+  },
+  {
+   "id": "theatre-des-champs-elysees",
+   "file": "File:Maquette de l'ossature du théâtre des Champs-Élysée CNAM-P1090095.jpg"
+  },
+  {
+   "id": "reichstag",
+   "file": "File:Gdansk Shipyard wall section at the Reichstag Building, Berlin.jpg"
+  },
+  {
+   "id": "stockholm-public-library",
+   "file": "File:Stadsbiblioteket Asplund 1931.jpg"
+  },
+  {
+   "id": "mercedes-benz-museum",
+   "file": "File:2014 Antarctic Research Vehicle design model by Matthias Gottwald, Mercedes Museum , Stuttgart, Germany ( Ank Kumar , Infosys Limited ) 02.jpg"
+  },
+  {
+   "id": "bloch-building-nelson-atkins-museum-of-art",
+   "file": "File:Master Muhammad Siyah Qalam - Birds and Beasts in a Flowery Landscape - Google Art Project.jpg"
+  },
+  {
+   "id": "bloch-building-nelson-atkins-museum-of-art",
+   "file": "File:Benjamin West - The Three Sisters - Google Art Project.jpg"
+  },
+  {
+   "id": "kirche-am-steinhof",
+   "file": "File:14 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Das Modell, Heliogravure.jpg"
+  },
+  {
+   "id": "barbican-centre",
+   "file": "File:Barbican plan in WMUK office.jpg"
+  },
+  {
+   "id": "temppeliaukio-church",
+   "file": "File:Temppeliaukio Church - Project 1939 (2).png"
+  },
+  {
+   "id": "stuttgart-tv-tower",
+   "file": "File:Stuttgart - Sillenbuch - Riedenberg - Eichenhain - Ansicht im Sommer (10).jpg"
+  },
+  {
+   "id": "stuttgart-tv-tower",
+   "file": "File:Fernsehturmskulptur09122018.png"
+  },
+  {
+   "id": "mucem",
+   "file": "File:Arrière plan.jpg"
+  },
+  {
+   "id": "calouste-gulbenkian-museum",
+   "file": "File:Sketches and wooden sculpture, SIZA temporary exhibition, Calouste Gulbenkian Museum, Lisbon, Portugal julesvernex2.jpg"
+  },
+  {
+   "id": "museo-tamayo",
+   "file": "File:Boceto de un mural expuesto en el museo tamayo.jpg"
+  },
+  {
+   "id": "st-john-s-abbey-church",
+   "file": "File:Syriac miniature of Christ.jpg"
+  },
+  {
+   "id": "glass-pavilion-toledo-museum-of-art",
+   "file": "File:Pauline Auzou - Etude pour une tete de vieillard.jpg"
+  },
+  {
+   "id": "simon-fraser-university",
+   "file": "File:1491s banter with the audience.jpg"
+  },
+  {
+   "id": "canadian-museum-of-history",
+   "file": "File:Model of Parliament Hill.jpg"
+  },
+  {
+   "id": "calgary-central-library",
+   "file": "File:Drawing out ideas (8129592903).jpg"
+  },
+  {
+   "id": "institut-du-monde-arabe",
+   "file": "File:Roustem au corps à corps avec Poulâdwend.jpg"
+  },
+  {
+   "id": "bibliotheque-nationale-de-france",
+   "file": "File:Bibliothèque impériale, aile construite par Louis Visconti, rue Vivienne (attachement de maçonnerie, 1855). 1, Bibliothèque Impériale - Attachement de Démolition à Exécuter - dessin, plan - btv1b53021292j.jpg"
+  },
+  {
+   "id": "bibliotheque-nationale-de-france",
+   "file": "File:Façade sur la rue Colbert - projet n° 9 - dessin - Boulay invenit (sig.) - btv1b531607146.jpg"
+  },
+  {
+   "id": "grande-arche",
+   "file": "File:Tallest buildings in Paris - comparison graph.png"
+  },
+  {
+   "id": "fundacio-joan-miro",
+   "file": "File:Model of 'Miss Chicago' or 'The Sun, the Moon and One Star'.jpg"
+  },
+  {
+   "id": "neues-museum",
+   "file": "File:Berlin Neues Museum Suedrisalit.jpg"
+  },
+  {
+   "id": "memorial-to-the-murdered-jews-of-europe",
+   "file": "File:Botschaft der USA, Berlin, Ansicht Behrenstraße-3869.jpg"
+  },
+  {
+   "id": "secession-building",
+   "file": "File:Secession Tastmodell 1.jpg"
+  },
+  {
+   "id": "grundtvig-s-church",
+   "file": "File:Model of ships in churches in In the Grundvigs Church, Copenhagen.jpg"
+  },
+  {
+   "id": "indian-institute-of-management-bangalore",
+   "file": "File:CutTree.jpg"
+  },
+  {
+   "id": "turkish-historical-society",
+   "file": "File:Tewfik Bey, lieutenant-colonel conseiller militaire d'Angora (gros plan) - btv1b9053912x.jpg"
+  },
+  {
+   "id": "rachid-karami-international-fair",
+   "file": "File:Tripoli in William Tipping 1840s sketches of Palestine and the surrounding region, from Traill’s Josephus 13.jpg"
+  },
+  {
+   "id": "dancing-house",
+   "file": "File:20090808 Prague 06.jpg"
+  },
+  {
+   "id": "turning-torso",
+   "file": "File:Turning Torso model.JPG"
+  },
+  {
+   "id": "city-hall-london",
+   "file": "File:Millicent Fawcett miniature statue in City Hall (39965041270).jpg"
+  },
+  {
+   "id": "palacio-do-planalto",
+   "file": "File:Bandeira Brasileira - entardecer - dálias do jardim do Palácio do Planalto em primeiro plano, Brasília, Brasil - panoramio.jpg"
+  },
+  {
+   "id": "library-of-birmingham",
+   "file": "File:Diagram Plan of the City of Birmingham - Parks and Cemeteries Department - 1934.jpg"
+  },
+  {
+   "id": "library-of-birmingham",
+   "file": "File:Discovery Terrace - Library of Birmingham - section blocked off (32932016476).jpg"
+  },
+  {
+   "id": "palacio-da-alvorada",
+   "file": "File:Maquete palácio da Alvorada e Catedral de Brasília.JPG"
+  },
+  {
+   "id": "van-gogh-museum",
+   "file": "File:Gauguin Sketch La Vision après le Sermon.jpg"
+  },
+  {
+   "id": "van-gogh-museum",
+   "file": "File:Enkele modellen van oude trams worden geplaatst, Bestanddeelnr 928-0979.jpg"
+  },
+  {
+   "id": "van-gogh-museum",
+   "file": "File:The Rock of Montmajour with Pine Trees, 1888, Van Gogh, NG 04.jpg"
+  },
+  {
+   "id": "marina-bay-sands",
+   "file": "File:Model of the ArtScience Museum, Marina Bay Sands, Singapore - 20110226-01.jpg"
+  },
+  {
+   "id": "museum-of-tomorrow",
+   "file": "File:Maquetemuseudoamanha.jpg"
+  },
+  {
+   "id": "itamaraty-palace",
+   "file": "File:Johann Moritz Rugendas - Tropeiros.jpg"
+  },
+  {
+   "id": "national-art-center-tokyo",
+   "file": "File:Model of Chochikukyo House 1.jpg"
+  },
+  {
+   "id": "marta-herford",
+   "file": "File:Constructietekening 0.3 Stoel SIMG3463.jpg"
+  },
+  {
+   "id": "umeda-sky-building",
+   "file": "File:The model of UMEDA SKY BLDG.JPG"
+  },
+  {
+   "id": "german-historical-museum-pei-wing",
+   "file": "File:Model of the locomotive Saxonia 2.jpg"
+  },
+  {
+   "id": "qatar-national-library",
+   "file": "File:Perim Island part plan 1928.png"
+  },
+  {
+   "id": "japan-national-stadium",
+   "file": "File:Japan-National-Stadium-vip-area-tour 0028.jpg"
+  },
+  {
+   "id": "flamengo-park",
+   "file": "File:Planta rasteira.jpg"
+  },
+  {
+   "id": "flamengo-park",
+   "file": "File:Deuche in Rio de Janeiro.jpg"
+  },
+  {
+   "id": "padiglione-d-arte-contemporanea",
+   "file": "File:Love Design 2009.jpg"
+  },
+  {
+   "id": "sumida-hokusai-museum",
+   "file": "File:Katsushika Hokusai, pittura abbreviata facile da imparare, 1812-14 ca. 02.jpg"
+  },
+  {
+   "id": "musee-d-orsay",
+   "file": "File:Musée d'Orsay, Paris, plan of ban Gogh places in Auvers.jpg"
+  },
+  {
+   "id": "musee-d-orsay",
+   "file": "File:Louis hestaux, modello di vaso con carpe, 1884 ca.JPG"
+  },
+  {
+   "id": "musee-d-orsay",
+   "file": "File:(Albi) Danseuse assise, tournée vers la droite - 1873 - Edgar Degas - Musée d'Orsay, Paris.jpg"
+  },
+  {
+   "id": "hvittrask",
+   "file": "File:Olga Gummerus-Ehrström - Rival Suitors, sketch.jpg"
+  },
+  {
+   "id": "harpa",
+   "file": "File:Harpa – Plan your visit (7557156826).jpg"
+  },
+  {
+   "id": "liverpool-metropolitan-cathedral",
+   "file": "File:Model of Lutyens' design for the Liverpool Metropolitan Cathedral 1.jpg"
+  },
+  {
+   "id": "novo-ryazanskaya-street-bus-garage",
+   "file": "File:Manege Station exhibition. New museum model 01.jpg"
+  },
+  {
+   "id": "taipei-101",
+   "file": "File:Taiwan Taoyuan Airport T2 Departure Area.JPG"
+  },
+  {
+   "id": "national-museum-of-scotland",
+   "file": "File:Models of the Duck displayed at the National Museum of Scotland.jpg"
+  },
+  {
+   "id": "kunsthaus-graz",
+   "file": "File:Grazer Kunsthaus-Miniatur 1.jpg"
+  },
+  {
+   "id": "shrine-of-the-book",
+   "file": "File:Jerusalem (997009326453605171.jpg"
+  },
+  {
+   "id": "lenin-s-mausoleum",
+   "file": "File:1998 МАВЗОЛЕЙ INet.jpg"
+  },
+  {
+   "id": "grand-palais",
+   "file": "File:Atelier du blessé - Section du Grand Palais.jpg"
+  },
+  {
+   "id": "grand-palais",
+   "file": "File:Histoire des Arts à travers les Âges. (Partie de droite - repères -42 à -31 - Renaissance, Femme couronnée ; Italie-Pise - détail - Personnages derrière le char - homme en capuche) - dessin - btv1b53095106s.jpg"
+  },
+  {
+   "id": "rashtrapati-bhavan",
+   "file": "File:The Soviet Union 1981 CPA 5256 souvenir sheet (Inauguration of Tropospheric Communications Link between USSR and India. Spasskaya Tower, Moscow and President's House, New Delhi) 1200dpi.jpg"
+  },
+  {
+   "id": "omar-khayyam-mausoleum",
+   "file": "File:Model of Iranian buildings at Tehran railway station, February 2022 - 01.jpg"
+  },
+  {
+   "id": "omar-khayyam-mausoleum",
+   "file": "File:At the Tomb of Omar Khayyam - by Jay Hambidge.jpg"
+  },
+  {
+   "id": "national-gallery-of-victoria",
+   "file": "File:Annibale Carracci - Study for an ignudo - Google Art Project.jpg"
+  },
+  {
+   "id": "museo-soumaya",
+   "file": "File:Marc Chagall. Sección de Vanguardias en el Museo Soumaya.jpg"
+  },
+  {
+   "id": "museo-soumaya",
+   "file": "File:Model of the Palace of Minería (1797) by Manuel Tolsá - Museo Soumaya - Mexico 2024.jpg"
+  },
+  {
+   "id": "oita-prefectural-art-museum",
+   "file": "File:Kaka-chikujin(rough sketch) by Katada Tokurō.jpg"
+  },
+  {
+   "id": "hong-kong-city-hall",
+   "file": "File:HK 中環 Central 香港大會堂 City Hall lower block grand theater hall floor plan sign September 2023 SS2.jpg"
+  },
+  {
+   "id": "leeum-samsung-museum-of-art",
+   "file": "File:Drakee.jpg"
+  },
+  {
+   "id": "kuala-lumpur-international-airport",
+   "file": "File:Model of a capsule hotel at the second floor of KLIA2 terminal.jpg"
+  },
+  {
+   "id": "national-library-of-latvia",
+   "file": "File:Plan of the Spilve Battle of 9 July 1701.jpg"
+  },
+  {
+   "id": "church-of-the-most-sacred-heart-of-our-lord",
+   "file": "File:Zasvěcené panny, náměstí Jiřího z Poděbrad, imgp5974 (2016-10).jpg"
+  },
+  {
+   "id": "national-library-of-belarus",
+   "file": "File:Horadnia, Kałoža. Горадня, Каложа (J. Sadoŭski, C. Weyerman, 1873-89).jpg"
+  },
+  {
+   "id": "government-museum-and-art-gallery",
+   "file": "File:A section of the museum dealing in Thangka paintings (43554554734).jpg"
+  },
+  {
+   "id": "government-museum-and-art-gallery",
+   "file": "File:Chandigarh - Le Corbusier - Museum - front elevation.jpg"
+  },
+  {
+   "id": "government-museum-and-art-gallery",
+   "file": "File:Vatapatrashayi Miniature of Lord Krishna from Nathdwara, Rajasthan housed in the Government Museum and Art Gallery, Chandigarh. ACC 100.jpg"
+  },
+  {
+   "id": "gate-of-europe",
+   "file": "File:Puerta-de-interior-modelo-provenzal-pino.jpg"
+  },
+  {
+   "id": "cn-tower",
+   "file": "File:CN Tower Fire Escape Plan, SkyPod, CN Tower, Toronto, Ontario (29919922051).jpg"
+  },
+  {
+   "id": "great-hall-of-the-people",
+   "file": "File:China 10th Anniversary Parade in Beijing 07.jpg"
+  },
+  {
+   "id": "macao-science-center",
+   "file": "File:Macao Science Center exhibition model 05-09-2023(1).jpg"
+  },
+  {
+   "id": "moscow-state-university-main-building",
+   "file": "File:Model on MSU new building.jpg"
+  },
+  {
+   "id": "australian-national-maritime-museum",
+   "file": "File:Maritime Museum (6181891181).jpg"
+  },
+  {
+   "id": "pointe-a-calliere-museum",
+   "file": "File:Maquette du village d'Hochelaga.jpg"
+  },
+  {
+   "id": "china-pavilion-expo-2010",
+   "file": "File:Expo 2010 Beijing Exhibit, China Pavilion - Model of 2008 Olympic \"Bird's Nest\".jpg"
+  },
+  {
+   "id": "australian-war-memorial",
+   "file": "File:Operation Quickstep section of the roll of honour at the Australian War Memorial.jpg"
+  },
+  {
+   "id": "national-museum-of-anthropology",
+   "file": "File:Detalle de la maqueta del Lítico en el Museo Nacional de Antropología.jpg"
+  },
+  {
+   "id": "fernsehturm-berlin",
+   "file": "File:Berlin Funkturm - (DDR) - Deutsche Post - Sonderpostwertzeichenheft - Bild 002.jpg"
+  },
+  {
+   "id": "palace-of-culture-and-science",
+   "file": "File:Flickr - europeanpeoplesparty - EPP Congress Warsaw (1178).jpg"
+  },
+  {
+   "id": "riverside-museum",
+   "file": "File:Ship model at the Riverside Museum of Transport and Travel in Glasgow, Scotland.jpg"
+  },
+  {
+   "id": "hirshhorn-museum-and-sculpture-garden",
+   "file": "File:Hirshhorn Museum DC 2007 025.jpg"
+  },
+  {
+   "id": "hirshhorn-museum-and-sculpture-garden",
+   "file": "File:Groß St. Martin, Zwerggalerie, Zeichnung von Oscar Bluemner.jpg"
+  },
+  {
+   "id": "eiffel-tower",
+   "file": "File:A long range assault - Dalrymple. LCCN2010651288.jpg"
+  },
+  {
+   "id": "nemo-science-museum",
+   "file": "File:2019-06-22 Amsterdam detail 36.jpg"
+  },
+  {
+   "id": "israel-museum",
+   "file": "File:Jerusalem Modell BW 2.JPG"
+  },
+  {
+   "id": "auditorium-parco-della-musica",
+   "file": "File:Model of the Auditorium site 2.jpg"
+  },
+  {
+   "id": "national-gallery-of-canada",
+   "file": "File:Louis-Roland Trinquesse Woman Seated in a Plumed Hat.jpg"
+  },
+  {
+   "id": "pinakothek-der-moderne",
+   "file": "File:Model of Main Synagogue of Nuremberg, modern Pinakothek museum in Munich, Exhibition Ludwig II, 2018.jpg"
+  },
+  {
+   "id": "museu-de-les-ciencies-principe-felipe",
+   "file": "File:Lanzadera espacial Soyuz - Museo de las Ciencias Príncipe Felipe - 001.jpg"
+  },
+  {
+   "id": "natural-history-museum",
+   "file": "File:PXL 20231218 125426972.LONG EXPOSURE-10.COVER The Natural History Museum, London Hintze Hall cross-section of a giant sequoia tree.jpg"
+  },
+  {
+   "id": "natural-history-museum",
+   "file": "File:Phiomia model reconstruction at London Natural History Museum.jpg"
+  },
+  {
+   "id": "royal-albert-hall",
+   "file": "File:Cross-section through the Royal Albert Hall.jpg"
+  },
+  {
+   "id": "concertgebouw",
+   "file": "File:A.L. van Gendt organ Concertgebouw.jpg"
+  },
+  {
+   "id": "bode-museum",
+   "file": "File:SMS Markgraf (50733297322).jpg"
+  },
+  {
+   "id": "solow-building",
+   "file": "File:New York - panoramio (119).jpg"
+  },
+  {
+   "id": "jacob-k-javits-convention-center",
+   "file": "File:Partners Plan Jacob Javits Center Hospital Facilities (2).jpg"
+  },
+  {
+   "id": "jacob-k-javits-convention-center",
+   "file": "File:NYCC 2016 12.jpg"
+  },
+  {
+   "id": "petit-palais",
+   "file": "File:Parthénon - Coupe transversale restaurée.jpg"
+  },
+  {
+   "id": "petit-palais",
+   "file": "File:Delasalle angele les fortifications 1900 ppd1805 1727668.jpg"
+  },
+  {
+   "id": "isabella-stewart-gardner-museum",
+   "file": "File:Book of hours - Jean Bourdichon - Stewart Gardner Museum (Saint John).jpg"
+  },
+  {
+   "id": "isabella-stewart-gardner-museum",
+   "file": "File:Michelangelo, Study for the Colonna Pietà.jpg"
+  },
+  {
+   "id": "ocbc-centre",
+   "file": "File:Lego Singapore Set.jpg"
+  },
+  {
+   "id": "natural-history-museum-vienna",
+   "file": "File:Neuerbautes Narren Haus im Jahr 1783 in Wien.jpg"
+  },
+  {
+   "id": "natural-history-museum-vienna",
+   "file": "File:\"Ansicht des Narrenthurms, dan des Universal- und Militaire-Spitals, von der Rückseite\" (Jos. Schaffer, 1787).jpg"
+  },
+  {
+   "id": "natural-history-museum-vienna",
+   "file": "File:At Vienna 2025 387.jpg"
+  },
+  {
+   "id": "natural-history-museum-vienna",
+   "file": "File:Aufris des neuerbauten Narren Hauses im Jahr 1783 in Wien.jpg"
+  },
+  {
+   "id": "national-museum-of-finland",
+   "file": "File:Sketch of Eugen Schauman's letter to Nicholas II of Russia.jpg"
+  },
+  {
+   "id": "national-museum-of-finland",
+   "file": "File:Panoraama Kansallismuseon tornista pohjoiseen - N355 (hkm.HKMS000005-000000je).jpg"
+  },
+  {
+   "id": "tokyo-big-sight",
+   "file": "File:All Japan Model & Hobby Show 2017 Tamiya-1.jpg"
+  },
+  {
+   "id": "national-museum-of-ethnology",
+   "file": "File:Mimpaku Osaka Plan.jpg"
+  },
+  {
+   "id": "philadelphia-city-hall",
+   "file": "File:Calder maquette Phila & Popular Philadelphians 1891 p.2.jpg"
+  },
+  {
+   "id": "adler-planetarium",
+   "file": "File:PSM V84 D107 North-south cross section of atwood celestial sphere.jpg"
+  },
+  {
+   "id": "adler-planetarium",
+   "file": "File:Adler Planetarium August 2010 2 (rover).JPG"
+  },
+  {
+   "id": "dresden-central-station",
+   "file": "File:DD HBF Model Railway.JPG"
+  },
+  {
+   "id": "dresden-central-station",
+   "file": "File:Die Bauten von Dresden (1878) Illustrationsseite 198.jpg"
+  },
+  {
+   "id": "brucke-museum",
+   "file": "File:Ernst Ludwig Kirchner Mann und nackte Frau 1915.jpg"
+  },
+  {
+   "id": "brucke-museum",
+   "file": "File:Ernst Ludwig Kirchner Frauenkirche 1908.jpg"
+  },
+  {
+   "id": "70-pine-street",
+   "file": "File:Model apartment 70 Pine St.jpg"
+  },
+  {
+   "id": "palace-of-nations",
+   "file": "File:2017 UN Geneva Open Day Kuwait Dhow.jpg"
+  },
+  {
+   "id": "ozeaneum",
+   "file": "File:Ozeaneum Stralsund Modell im Dielenhaus Mühlenstrasse 3.jpg"
+  },
+  {
+   "id": "galleria-vittorio-emanuele-ii",
+   "file": "File:MilanoPiazzaDuomoProgettoMengoni.jpg"
+  },
+  {
+   "id": "whitney-museum-of-american-art",
+   "file": "File:(Sketches of Pistols, Rifles, Swords, Spears and Bow) by Edward Hopper.jpg"
+  },
+  {
+   "id": "whitney-museum-of-american-art",
+   "file": "File:(Study of a Riverboat with Paddlewheel) by Edward Hopper.jpg"
+  },
+  {
+   "id": "art-institute-of-chicago-modern-wing",
+   "file": "File:Saint Francis Xavier High School, Wilmette, Illinois, Perspective Sketch, 1923, Barry Byrne; Alfonso Iannelli, Art Institute of Chicago, Chicago, Illinois (29548729178).jpg"
+  },
+  {
+   "id": "art-institute-of-chicago-modern-wing",
+   "file": "File:Narcissa Niblack Thorne - E-10 English Dining Room of the Georgian Period.jpg"
+  },
+  {
+   "id": "san-francisco-museum-of-modern-art",
+   "file": "File:Stone statue and blue bandanas inside miniature blue car model.jpg"
+  },
+  {
+   "id": "high-museum-of-art",
+   "file": "File:Louvre Atlanta at the High Museum, Atlanta GA.jpg"
+  },
+  {
+   "id": "museum-of-modern-art",
+   "file": "File:Antique chess model.jpg"
+  },
+  {
+   "id": "saint-louis-art-museum-east-building",
+   "file": "File:French Section including the Manufacture National Beauvais in the Palace of Fine Arts at the 1904 World's Fair.jpg"
+  },
+  {
+   "id": "saint-louis-art-museum-east-building",
+   "file": "File:Rembrandt van Rijn - The Artist Drawing from a Model.jpg"
+  },
+  {
+   "id": "saint-louis-art-museum-east-building",
+   "file": "File:Rembrandt van Rijn - Landscape with a Cottage and Haybarn.jpg"
+  },
+  {
+   "id": "philadelphia-museum-of-art",
+   "file": "File:Inspirational Drawing 1963-160-4-pma2021.jpg"
+  },
+  {
+   "id": "vienna-city-hall",
+   "file": "File:Joseph Hasslwander - Entwurf für eine Figur des Wiener Rathauses - 4492 - Österreichische Galerie Belvedere.jpg"
+  },
+  {
+   "id": "amsterdam-orphanage-burgerweeshuis",
+   "file": "File:Model van het Maison d’Artiste bij het Burgerweeshuis.jpg"
+  },
+  {
+   "id": "california-academy-of-sciences",
+   "file": "File:Cross section of a Sequoia sempervirens showing its tree rings.jpg"
+  },
+  {
+   "id": "cube-houses",
+   "file": "File:Madurodam 9.jpg"
+  },
+  {
+   "id": "maria-regina-martyrum",
+   "file": "File:Lageplan Pfad der Erinnerung Berlin-Charlottenburg-Nord.png"
+  },
+  {
+   "id": "muuratsalo-experimental-house",
+   "file": "File:Model of Muuratsalo Experimental House 01.jpg"
+  },
+  {
+   "id": "museum-of-applied-arts-frankfurt",
+   "file": "File:1952 Dieter Rams Chair from Studienarbeit drawing.jpg"
+  },
+  {
+   "id": "documentation-center-nazi-party-rally-grounds",
+   "file": "File:Museum of World War II Natick Massachusetts 2015. Third Reich Memorabilia collectables 03 Hitler's 1936 sketch of Nazi Eagle (Reichsadler) at Party Celebration Square (Parteitaggelände) Nuremberg.jpg"
+  },
+  {
+   "id": "nantes-courthouse",
+   "file": "File:Palais de Justice de Nantes lors de son inauguration.jpg"
+  },
+  {
+   "id": "burrell-collection",
+   "file": "File:Sir William Burrell's drawing room.jpg"
+  },
+  {
+   "id": "liederhalle",
+   "file": "File:Alte Liederhalle Stuttgart Grundriss.jpg"
+  },
+  {
+   "id": "muse-science-museum",
+   "file": "File:Amanita muscaria, modello micologico - Collezioni MUSE, Archivio MUSE.jpg"
+  },
+  {
+   "id": "pavilion-for-japanese-art-lacma",
+   "file": "File:Grapevine LACMA M.2002.169.jpg"
+  },
+  {
+   "id": "atlanta-central-library",
+   "file": "File:Carnegie Library, Atlanta, Georgia LCCN2007682645.jpg"
+  },
+  {
+   "id": "austrian-parliament-building",
+   "file": "File:August Eisenmenger Herodot in Olympia Skizze.jpg"
+  },
+  {
+   "id": "green-building-mit-building-54",
+   "file": "File:Tech Model Railroad Green Building.jpg"
+  },
+  {
+   "id": "cartagena-roman-theatre-museum",
+   "file": "File:Roman Theatre model in Cartagena, Spain.jpg"
+  },
+  {
+   "id": "louise-weiss-building-european-parliament",
+   "file": "File:Model Evropské unie.jpg"
+  },
+  {
+   "id": "555-california-street",
+   "file": "File:Bridge Out 5769 (4264633021).jpg"
+  },
+  {
+   "id": "funkturm-berlin",
+   "file": "File:DBPB 1957 161 Interbau.jpg"
+  },
+  {
+   "id": "san-francesco-al-fopponino",
+   "file": "File:Fopponino di Milano, pianta.jpg"
+  },
+  {
+   "id": "pennsylvania-state-capitol",
+   "file": "File:R. Budd Dwyer Holding a Pistol as he Prepares to Commit Suicide (Restored).png"
+  },
+  {
+   "id": "wrigley-building",
+   "file": "File:Chicago skyscraper plan, 1928.jpg"
+  },
+  {
+   "id": "kulturpalast-dresden",
+   "file": "File:Modell Kulturpalast DD.JPG"
+  },
+  {
+   "id": "new-town-hall-hanover",
+   "file": "File:1918-1939 circa Open GeoData Plan der Hauptstadt Hannover 1 zu 1000 (Historisch) Kachel Sw 301b.jpg"
+  },
+  {
+   "id": "national-space-centre",
+   "file": "File:Model of the International Space Station.jpg"
+  },
+  {
+   "id": "contemporary-jewish-museum",
+   "file": "File:Stanley Kubrick The Exhibition - CJM - The Shining replica maze.jpg"
+  },
+  {
+   "id": "boston-public-library-mckim-building",
+   "file": "File:Model of roof trim, construction of the McKim Building, by McKim, Mead & White, c. 1890-1895, from the Digital Commonwealth - commonwealth ms35v3560.jpg"
+  },
+  {
+   "id": "cathedral-of-learning",
+   "file": "File:Cathedral of learning - plans 01.JPG"
+  },
+  {
+   "id": "palazzo-dell-arte-triennale-di-milano",
+   "file": "File:Paolo Monti - Servizio fotografico - BEIC 6347074.jpg"
+  },
+  {
+   "id": "central-library-unam",
+   "file": "File:Biblioteca Central de la UNAM Sección infantil de la Sala de consulta 01.jpg"
+  },
+  {
+   "id": "tomb-of-hafez",
+   "file": "File:Model of Iranian buildings at Tehran railway station, February 2022 - 01.jpg"
+  },
+  {
+   "id": "rockefeller-museum",
+   "file": "File:East Jerusalem, the Rockefeller Museum Model at the Rockefeller Museum P1180956.JPG"
+  },
+  {
+   "id": "bihar-museum",
+   "file": "File:Siraj-ud-Daula, Subedar of Bengal.jpg"
+  },
+  {
+   "id": "chhatrapati-shivaji-maharaj-international-airport-terminal-2",
+   "file": "File:\"The Artbeat of New India\" museum (specifically the West Bengal section titled \"Atelier of Ephemera\"), located inside Terminal 2 of Chhatrapati Shivaji Maharaj International Airport (CSMIA) in Mumbai, India..jpg"
+  },
+  {
+   "id": "chhatrapati-shivaji-maharaj-international-airport-terminal-2",
+   "file": "File:Model Kashmiri House Boat.jpg"
+  },
+  {
+   "id": "malaysian-houses-of-parliament",
+   "file": "File:Model of the interior of Dewan Negara.jpg"
+  },
+  {
+   "id": "voortrekker-monument",
+   "file": "File:Relief of an ox-wagon, Voortrekker Monument.jpg"
+  },
+  {
+   "id": "gipsoteca-canoviana",
+   "file": "File:Canova - Giuseppe Bossi - original plaster bust model, 1816.jpg"
+  },
+  {
+   "id": "national-museum-architecture",
+   "file": "File:Erik Werenskiold - Farmyard in Snow - NG.K&H.1954.0019 - National Museum of Art, Architecture and Design.jpg"
+  },
+  {
+   "id": "l-d-institute-of-indology",
+   "file": "File:Miniature painting of Gurbaksh Singh Kanhaiya with a fly-whisk attendant. Family atelier of Purkhu of Kangra, ca.1785.jpg"
+  },
+  {
+   "id": "dalarna-media-library",
+   "file": "File:Biblioteca da Universidade de Dalarna.jpg",
+   "why": "licence note in the file says all rights reserved, contradicting its CC tag"
+  },
+  {
+   "id": "sun-yat-sen-mausoleum",
+   "file": "File:China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 01.jpg"
+  },
+  {
+   "id": "wellington-central-library",
+   "file": "File:View of Dominion Building from Wellington Central Library, May 2026.jpg"
+  },
+  {
+   "id": "melbourne-museum",
+   "file": "File:Buff-banded rail (Gallirallus philippensis) nictitating membrane montage.jpg"
+  },
+  {
+   "id": "melbourne-museum",
+   "file": "File:Gippsland water dragon (Intellagama lesueurii howittii) at Melbourne Museum.jpg"
+  },
+  {
+   "id": "melbourne-museum",
+   "file": "File:Buff-banded rail (Gallirallus philippensis) at Melbourne Museum.jpg"
+  },
+  {
+   "id": "olympic-park-station-sydney",
+   "file": "File:Olympic Park Station Sydney.jpg"
+  },
+  {
+   "id": "beijing-daxing-airport-terminal",
+   "file": "File:16-DEC-2022 - KE938 VIE-ICN (B777-300ER - HL8210) (06).jpg"
+  },
+  {
+   "id": "xiqu-centre",
+   "file": "File:Curtain call of 38·28·18 2025.jpg"
+  },
+  {
+   "id": "taipei-music-center",
+   "file": "File:Polyphon104落地型音樂盒.jpg"
+  },
+  {
+   "id": "taipei-music-center",
+   "file": "File:HMV蟲膠唱機.jpg"
+  },
+  {
+   "id": "taipei-music-center",
+   "file": "File:01.12 副總統參訪北部流行音樂中心 - 50829530523.jpg"
+  },
+  {
+   "id": "taipei-music-center",
+   "file": "File:01.12 副總統參訪北部流行音樂中心 - 50830277596.jpg"
+  },
+  {
+   "id": "taipei-music-center",
+   "file": "File:百代Jeunesse鑽石針留聲機.jpg"
+  },
+  {
+   "id": "hong-kong-coliseum",
+   "file": "File:KMB Route 215R (Shun Tin).jpg"
+  },
+  {
+   "id": "forbidden-city",
+   "file": "File:Ceremonies - Review in Theatre of Operations - Italian Army and Miscellaneous Reviews - Celebration of the signing of the Armistice in China - NARA - 26422927.jpg"
+  },
+  {
+   "id": "kunstmuseum-basel-new-building",
+   "file": "File:2023-11-25 Abschiedsfeier Helfenstein BS 001.jpg"
+  },
+  {
+   "id": "kunstmuseum-basel-new-building",
+   "file": "File:2023-11-25 Abschiedsfeier Helfenstein BS 004.jpg"
+  },
+  {
+   "id": "german-maritime-museum",
+   "file": "File:BHV DSM Schlepper Helmut.jpg"
+  },
+  {
+   "id": "german-maritime-museum",
+   "file": "File:2013 12 30 Cap Vilano Digipeer.JPG"
+  },
+  {
+   "id": "tegel-airport-terminal-a",
+   "file": "File:D-AIMI-Modell.jpg"
+  },
+  {
+   "id": "ohel-jakob-synagogue",
+   "file": "File:Chanukkia-st-jakobs-platz-2019.jpg"
+  },
+  {
+   "id": "nord-lb-hanover",
+   "file": "File:2026-01-10 Platz der Menschrechte 0223.JPG"
+  },
+  {
+   "id": "nord-lb-hanover",
+   "file": "File:2026-09-09 Demo gegen Rechts 164036452.jpg"
+  },
+  {
+   "id": "bmw-headquarters",
+   "file": "File:IAA 2021 und Markus Söder auf BUND Plakat Verkehrswendedemo Theresienwiese 09-11-2021.jpg"
+  },
+  {
+   "id": "wiener-stadthalle",
+   "file": "File:Nestroy 2014 04 Alfred Dorfer.jpg"
+  },
+  {
+   "id": "wiener-stadthalle",
+   "file": "File:Katharina Straßer Nestroy 2013.jpg"
+  },
+  {
+   "id": "wiener-stadthalle",
+   "file": "File:Luc Bondy - Nestroy-Theaterpreis 2013 a.jpg"
+  },
+  {
+   "id": "pilar-joan-miro-foundation",
+   "file": "File:Gruenes und gruene Dinge 001 2014 03 14.jpg"
+  },
+  {
+   "id": "gallery-royal-collections",
+   "file": "File:Juan Bautista de Toledo - Sección de la Iglesia por el eje longitudinal.jpg"
+  },
+  {
+   "id": "museu-belles-arts-castello",
+   "file": "File:Empezo el partido7-7-2010 - panoramio.jpg"
+  },
+  {
+   "id": "arqua-cartagena",
+   "file": "File:Mazarron II.jpg"
+  },
+  {
+   "id": "arqua-cartagena",
+   "file": "File:Pecio fenicio II de Mazarrón (retocado).jpg"
+  },
+  {
+   "id": "arqua-cartagena",
+   "file": "File:CartagenaMuseum MedievalShipCross-section.jpg"
+  },
+  {
+   "id": "edp-headquarters-lisbon",
+   "file": "File:Woman in stripes (28484506140).jpg"
+  },
+  {
+   "id": "wanda-metropolitano",
+   "file": "File:España vs Classic All Blacks.jpg"
+  },
+  {
+   "id": "salamanca-congress-centre",
+   "file": "File:VII CONGRESO COCINA CON QUESO Y HUMOR (2023) - 53247963304.jpg"
+  },
+  {
+   "id": "salamanca-congress-centre",
+   "file": "File:VII CONGRESO COCINA CON QUESO Y HUMOR (2023) PÚBLICO - 53248097330.jpg"
+  },
+  {
+   "id": "la-fabrica-bofill",
+   "file": "File:Walden 7 P1080325.JPG"
+  },
+  {
+   "id": "la-fabrica-bofill",
+   "file": "File:Walden 7 P1080328.JPG"
+  },
+  {
+   "id": "national-portrait-gallery-canberra",
+   "file": "File:Ethel Turner-H Cazneaux.jpg"
+  },
+  {
+   "id": "melbourne-school-of-design",
+   "file": "File:Anne Cunningham outside MSD.jpg"
+  },
+  {
+   "id": "sahmri",
+   "file": "File:OIC rah construction 1.jpg"
+  },
+  {
+   "id": "institute-for-marine-and-antarctic-studies",
+   "file": "File:Roald Amundsen bust 20171117-004.jpg"
+  },
+  {
+   "id": "aotea-centre",
+   "file": "File:Red Dancer.jpg"
+  },
+  {
+   "id": "governor-phillip-tower",
+   "file": "File:Artefacts found.JPG"
+  },
+  {
+   "id": "governor-phillip-tower",
+   "file": "File:Model submarine made from midget submarine ballast.JPG"
+  },
+  {
+   "id": "museum-of-sydney",
+   "file": "File:Model submarine made from midget submarine ballast.JPG"
+  },
+  {
+   "id": "turanga-christchurch",
+   "file": "File:Mike Dickison and Axel Downard-Wilke.jpg"
+  },
+  {
+   "id": "adam-art-gallery",
+   "file": "File:Edit for Equity 13 Oct g.jpg"
+  },
+  {
+   "id": "national-library-of-australia",
+   "file": "File:GLAM Thu arvo gnangarra 01.JPG"
+  },
+  {
+   "id": "te-uru-gallery",
+   "file": "File:Te Uru Women in Architecture Edit-a-thon 2026, PA01.jpg"
+  },
+  {
+   "id": "te-uru-gallery",
+   "file": "File:Te Uru Women in Architecture Edit-a-thon 2026, PA05.jpg"
+  },
+  {
+   "id": "forsyth-barr-stadium",
+   "file": "File:Tom Wood post England match.jpg"
+  },
+  {
+   "id": "nadir-afonso-museum",
+   "file": "File:Ema Berta MACNA 2018.jpg"
+  }
+ ],
+ "kinds": {
+  "File:Kolumba-Museum Köln. Ansicht von der Brückenstraße-9987.jpg": "Exterior",
+  "File:Elphi Ansicht Ostseite.jpg": "Exterior",
+  "File:High Line 25.JPG": "Exterior",
+  "File:High Line August 2017 01.jpg": "Exterior",
+  "File:Cross section of the storage shafts insdie Zeitz MOCAA - Museum of Contermporary Art Africa.jpg": "Interior",
+  "File:Isometric view of Chand Baori.jpg": "Exterior",
+  "File:BA Law Section.jpg": "Interior",
+  "File:Frankfurt Am Main-Commerzbank Tower-Ansicht vom Eisernen Steg.jpg": "Exterior",
+  "File:Scottish parliament elevation.JPG": "Exterior",
+  "File:Palácio Congresso Nacional.jpg": "Exterior",
+  "File:Steel section Fondation Louis Vuitton.jpg": "Detail",
+  "File:Chandigarh Capitol Complex - Le Corbusier - Secretariat elevation.jpg": "Exterior",
+  "File:Näkymä Kansallismuseon tornista Töölönlahdelle päin - D718a - hkm.HKMS000005-0000126d.jpg": "Exterior",
+  "File:Chandigarh Capitol Complex - Le Corbusier - Highcourt - front elevation.jpg": "Exterior",
+  "File:Sagrada Familia Stained glass section.jpg": "Interior",
+  "File:Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - Side View.jpg": "Interior",
+  "File:VM Bjerget Ansicht von Südost.jpg": "Exterior",
+  "File:Casa Batllo Front at Night 2 (5839879262).jpg": "Exterior",
+  "File:07 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Hauptfassade, Heliogravur.jpg": "Elevation",
+  "File:Prospetto Looshaus.jpg": "Exterior",
+  "File:Gabinio.Torino-Parco Del Valentino, Palazzo Della Mostra Nazionale Della Moda, Prospetto Principale 110B11.jpg": "Exterior",
+  "File:Colores en planta.jpg": "Interior",
+  "File:Planta abrazadora.jpg": "Detail",
+  "File:2022-03-24 14 00 35 UTC minus 4 AeroTrain station at the main terminal of Washington Dulles International Airport in the Dulles section of Sterling, Loudoun County, Virginia.jpg": "Interior",
+  "File:Interior ceiling section of Masjid Negara Malaysia.jpg": "Interior",
+  "File:National Theatre - view of W elevation.jpg": "Exterior",
+  "File:Sir John Soane's House and Museum; the lower model room, at Wellcome V0013837.jpg": "Drawing",
+  "File:Sezione aurea.jpg": "Detail",
+  "File:Prospetto esterno della Casa del Fascio.jpg": "Exterior",
+  "File:Neues Museum Ansicht Payne um 1850.jpg": "Drawing",
+  "File:Wiener Secessionsgebäude. Ansicht von Osten. 2017-10-01 11-56-38 (hdr).jpg": "Exterior",
+  "File:Tatra tram, linie 3 and Ještěd hotel, Liberec 1994.jpg": "Exterior",
+  "File:Mariánské Lázně park Boheminium Ještěd.jpg": "Exterior",
+  "File:A section of Jantar Mantar.jpg": "Exterior",
+  "File:Tabiatbridge-section.jpg": "Exterior",
+  "File:Aerial section of University of Ibadan.jpg": "Context",
+  "File:2009 CopleySquare Boston 3271041586.jpg": "Context",
+  "File:Interesting Buildings on the High Line (6218526810).jpg": "Exterior",
+  "File:Brasilia DF Brasil Cjto Urbanistico Plano Piloto05.jpg": "Exterior",
+  "File:Brasília - Eixo monumental - rodoviária, teatro, biblioteca, touring, museu, catedral, ponte, ministérios, congresso.jpg": "Context",
+  "File:Secret Source of Inspiration Designers' Hidden Sketches and Mockups (50007594948).jpg": "Interior",
+  "File:Vista desde la planta alta del Museo de Arte Contemporáneo, Monterrey, Nuevo León, México.jpg": "Interior",
+  "File:Hundertwasserhaus Ansicht 2.jpg": "Exterior",
+  "File:2010-08-02 - Tromsø - Eismeerkathedrale - Ansicht von hinten - panoramio.jpg": "Exterior",
+  "File:Section 4 and Section 5 of Xinyi Road view from Taipei 101 20110522.jpg": "Context",
+  "File:Atomium model (37281532092).jpg": "Exterior",
+  "File:A droite le toit de Dubaï Mall et le plan d'eau où est organisé un show musical tout les heures. (6976287969).jpg": "Context",
+  "File:Inside the Global Village in Dubai February 2019.jpg": "Context",
+  "File:Access and Inclusion Plan cover photo shoot State Library of Queensland South Brisbane P1200054.jpg": "Exterior",
+  "File:Altar de arte prehispánico y mosaicos en plafón Planta Baja.jpg": "Interior",
+  "File:Exterior of the Central Station in Helsinki, Finland, 1938.jpg": "Exterior",
+  "File:Torre Caja Madrid, vista desde la planta 50 de la Torre Sacyr Vallehermoso (3990407019).jpg": "Exterior",
+  "File:Tokyo Sky Tree - Silhouette & Cross section.jpg": "Elevation",
+  "File:Toronto - ON - CN Tower Turmkorb Goldener Schnitt.jpg": "Exterior",
+  "File:Kościół św. Rocha, plan ogólny.jpg": "Exterior",
+  "File:Cross-section of Mathri Mandri.jpg": "Model",
+  "File:Gros Plan arrière du Symbole de la Croix du Christ de la Cathédrale Saint Paul du Plateau.jpg": "Exterior",
+  "File:Manila city center, Post Office drone (Manila; 09-06-2025).jpg": "Context",
+  "File:Glasgow. Riverside Museum. Detail of south elevation.jpg": "Exterior",
+  "File:Innere Ansicht des Großen Opernhauses 1755 Dresden.jpg": "Drawing",
+  "File:View of a section of Wembley Stadium from Perimeter Way - geograph.org.uk - 4515293.jpg": "Exterior",
+  "File:GraphyArchy - Wikipedia 00689.jpg": "Context",
+  "File:Weense Staatsopera K.k. Hof-Opern-Theater, Total-Ansicht. Architekt Van der Nüll und Siccardburg (titel op object), RP-F-F02188.jpg": "Exterior",
+  "File:Kunsthalle Bielefeld, 2019, Ansicht vom Skulpturenpark.jpg": "Exterior",
+  "File:NYC Penn Station aerial vc.jpg": "Context",
+  "File:Deutsche Oper Berlin. Ansicht von Südosten.jpg": "Exterior",
+  "File:Philadelphia City Hall south elevation.jpg": "Exterior",
+  "File:NextGenerationEU - StrongerTogether - Recovery plan for Europe - Plan de relance pour l'Europe - Heerstelplan voor Europe - Berlaymont.jpg": "Exterior",
+  "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 22 of 36).png": "Plan",
+  "File:De Young Museum roof section from Hamon Tower observation floor 1.JPG": "Detail",
+  "File:Cross-section of MoMA (1628509677).jpg": "Interior",
+  "File:Pergamon Museum Berlin 2007079.jpg": "Plan",
+  "File:Gropius House WEST ELEVATION HABS MASS,9-LIN,16-16.jpg": "Exterior",
+  "File:DZ-Bank-Gebäude am Pariser Platz, Ansicht Rückseite Behrenstraße-3868.jpg": "Exterior",
+  "File:Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral.jpg": "Context",
+  "File:台場 Odaiba 2016 (30116502316).jpg": "Context",
+  "File:Nebraska State Capitol, front elevation, north.jpg": "Exterior",
+  "File:Millard House - La Miniatura, Pasadena 2.jpg": "Exterior",
+  "File:Villa Göth Interiör övre plan. ArkDes ARKM.1962-101-2077.jpg": "Interior",
+  "File:Kundmanngasse 19 Ansicht 1.jpg": "Exterior",
+  "File:Drawing, Hemsy Villa, St. Cloud, Plan du Rez de Chaussee, 1913 (CH 18384901-2).jpg": "Interior",
+  "File:Saarinen Eduskuntatalosuunnitelma.jpg": "Drawing",
+  "File:Näkymä Postitalon katolta kohti Mannerheimintietä luoteeseen - D5340 (hkm.HKMS000005-km0000pav3).jpg": "Context",
+  "File:Chicago skyscraper plan, 1928.jpg": "Drawing",
+  "File:SOUTH FACADE, CENTRAL SECTION.jpg": "Exterior",
+  "File:ENTRANCE - SOUTH ELEVATION - Pension Building.jpg": "Exterior",
+  "File:Weltstadthaus Köln - Ansicht von der Schildergasse (4013-15).jpg": "Exterior",
+  "File:House for an Art Lover - north elevation - geograph.org.uk - 7440106.jpg": "Exterior",
+  "File:ON-SITE-New Architecture in Spain.jpg": "Exterior",
+  "File:Victory gardens at slow food nation.jpg": "Exterior",
+  "File:Neues Rathaus, Nord-Ost-Ansicht, Hannover.jpg": "Exterior",
+  "File:Fassade Fensterbänder Tabakfabrik Linz (Bau 1) Ansicht Ludlgasse Linz P1530375 2024-07-24 yj.jpg": "Detail",
+  "File:HGM Rudolf von Alt Ansicht k.k. Hofwaffenmuseum 1857.jpg": "Drawing",
+  "File:A different view of taj.jpg": "Exterior",
+  "File:Sultan Hassan Mosque at cairo.jpg": "Detail",
+  "File:First plan.jpg": "Exterior",
+  "File:Bihar Museum Children and Wildlife Section.jpg": "Interior",
+  "File:Entrance elevation showing tower FOCSA Building.jpg": "Exterior",
+  "File:Brasília - Eixo Monumental - rodoviária, touring, teatro, biblioteca, museu, catedral, congresso, Ponte Juscelino Kubitschek.jpg": "Context",
+  "File:Kingston Hill, Dorich House Museum, Drawing room.jpg": "Interior",
+  "File:201606 Inner section of Waiting Room 6 of Beijing Station.jpg": "Interior"
+ }
+}

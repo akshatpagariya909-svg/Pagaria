@@ -1,0 +1,515 @@
+[
+ {
+  "name": "St. Peter's Church",
+  "by": "Sigurd Lewerentz",
+  "city": "Klippan",
+  "cc": "SE",
+  "year": "1966",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Dark church built of uncut bricks with wide mortar joints, around a rusted steel T-shaped column.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "st-peter-s-church"
+ },
+ {
+  "name": "Takasugi-an",
+  "by": "Terunobu Fujimori",
+  "city": "Chino",
+  "cc": "JP",
+  "year": "2004",
+  "type": "Pavilion",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Earth & local material",
+   "Sculptural form"
+  ],
+  "features": "Tiny tea house perched high on two chestnut tree trunks, reached by a ladder.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra3_architects_resolved.json",
+  "id": "takasugi-an"
+ },
+ {
+  "name": "Thread Artist Residency",
+  "by": "Toshiko Mori",
+  "city": "Sinthian",
+  "cc": "SN",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Earth & local material",
+   "Courtyard"
+  ],
+  "features": "Inverted thatched roofs collect rainwater for the village, over courtyards for artists and events.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "thread-artist-residency"
+ },
+ {
+  "name": "Tour Bois-le-Prêtre Transformation",
+  "by": "Lacaton & Vassal, Frédéric Druot",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2011",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Low cost",
+   "Facade as skin"
+  ],
+  "features": "Prefabricated winter gardens and balconies added to a 1960s tower enlarge flats without moving tenants.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "tour-bois-le-pretre-transformation"
+ },
+ {
+  "name": "UC Innovation Center Anacleto Angelini",
+  "by": "Alejandro Aravena, Elemental",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Exposed concrete",
+   "Void"
+  ],
+  "features": "Massive concrete shell with deep-set openings keeps out western sun, glazing set back around a hollow atrium.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "uc-innovation-center-anacleto-angelini"
+ },
+ {
+  "name": "UCCA Dune Art Museum",
+  "by": "OPEN Architecture",
+  "city": "Qinhuangdao",
+  "cc": "CN",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Exposed concrete"
+  ],
+  "features": "Cave-like concrete galleries buried under a sand dune, lit by skylights and openings toward the sea.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "ucca-dune-art-museum"
+ },
+ {
+  "name": "Vidhan Bhavan",
+  "by": "Charles Correa",
+  "city": "Bhopal",
+  "cc": "IN",
+  "year": "1996",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "A circular wall encloses a mandala-like grid of courts, gardens and chambers for the state assembly.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "vidhan-bhavan"
+ },
+ {
+  "name": "Water Temple (Honpuku-ji)",
+  "by": "Tadao Ando",
+  "city": "Awaji",
+  "cc": "JP",
+  "year": "1991",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Water",
+   "Promenade",
+   "Light & shadow"
+  ],
+  "features": "A stair splits an oval lotus pond and descends to a red-lit hall beneath the water.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "water-temple-honpuku-ji"
+ },
+ {
+  "name": "Woodland Cemetery",
+  "by": "Gunnar Asplund, Sigurd Lewerentz",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1940",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Monumentality"
+  ],
+  "features": "Pine forest landscape where a long path passes a granite cross toward the crematorium portico.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "woodland-cemetery"
+ },
+ {
+  "name": "Yamanashi Press and Broadcasting Center",
+  "by": "Kenzo Tange",
+  "city": "Kofu",
+  "cc": "JP",
+  "year": "1966",
+  "type": "Office & tower",
+  "movement": "Metabolism",
+  "concepts": [
+   "Megastructure",
+   "Modular",
+   "Circulation"
+  ],
+  "features": "Sixteen cylindrical service shafts carry office floors bridged between them, leaving gaps for growth.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "yamanashi-press-and-broadcasting-center"
+ },
+ {
+  "name": "Yusuhara Wooden Bridge Museum",
+  "by": "Kengo Kuma",
+  "city": "Yusuhara",
+  "cc": "JP",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Cantilever",
+   "Structure as expression"
+  ],
+  "features": "Stacked cedar brackets cantilever out from a single central pier to carry a bridge gallery.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "yusuhara-wooden-bridge-museum"
+ },
+ {
+  "name": "Zarzuela Hippodrome",
+  "by": "Eduardo Torroja, Carlos Arniches",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": "1941",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "Thin hyperboloid concrete shells cantilever about 13 metres over the grandstand from one row of supports.",
+  "qid": null,
+  "keep": 3,
+  "source": "extra_resolved.json",
+  "id": "zarzuela-hippodrome"
+ },
+ {
+  "name": "23 de Enero Superblocks",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1957",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Megastructure",
+   "Section",
+   "Community"
+  ],
+  "features": "Fifteen-storey slab blocks with skip-floor corridors house thousands on the hills above downtown.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "23-de-enero-superblocks"
+ },
+ {
+  "name": "Addis Ababa City Hall",
+  "by": "Arturo Mezzèdimi",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Modernist slab and tower set at the top of Churchill Avenue, closing its long axis.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "addis-ababa-city-hall"
+ },
+ {
+  "name": "Al Wasl Plaza",
+  "by": "Adrian Smith + Gordon Gill Architecture",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2020",
+  "type": "Public space",
+  "movement": "Parametric",
+  "concepts": [
+   "Public space",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Open steel trellis dome that doubles as a wraparound projection screen above a plaza.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "al-wasl-plaza"
+ },
+ {
+  "name": "Alioune Diop University Teaching and Research Unit",
+  "by": "IDOM",
+  "city": "Bambey",
+  "cc": "SN",
+  "year": "2017",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Brick"
+  ],
+  "features": "A large double roof and a perforated brick lattice shade the classrooms and let air flow through.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "alioune-diop-university-teaching-and-research-unit"
+ },
+ {
+  "name": "Anandaloy",
+  "by": "Anna Heringer",
+  "city": "Rudrapur",
+  "cc": "BD",
+  "year": "2020",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Community",
+   "Circulation"
+  ],
+  "features": "Mud and bamboo centre with a ramp winding round its walls, built by hand with local craftspeople.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "anandaloy"
+ },
+ {
+  "name": "Arcadia Education Project",
+  "by": "Saif Ul Haque",
+  "city": "South Kanarchar",
+  "cc": "BD",
+  "year": "2016",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Timber",
+   "Low cost"
+  ],
+  "features": "A bamboo school on a pontoon of steel drums that floats when the site floods in the monsoon.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "arcadia-education-project"
+ },
+ {
+  "name": "Art Biotop Water Garden",
+  "by": "Junya Ishigami",
+  "city": "Nasu",
+  "cc": "JP",
+  "year": "2018",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Planting"
+  ],
+  "features": "Over 300 trees moved from a nearby site stand among about 160 shallow ponds on a moss floor.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "art-biotop-water-garden"
+ },
+ {
+  "name": "Aéro-Habitat",
+  "by": "Louis Miquel, Pierre Bourlier",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1955",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Circulation",
+   "Section"
+  ],
+  "features": "Slab blocks of duplex apartments on a hillside with interior streets and a shopping level part-way up.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "aero-habitat"
+ },
+ {
+  "name": "Aïshti Foundation",
+  "by": "Adjaye Associates",
+  "city": "Jal el Dib",
+  "cc": "LB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Colour"
+  ],
+  "features": "Galleries and shops wrapped in a red aluminium lattice screen that filters coastal light.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "aishti-foundation"
+ },
+ {
+  "name": "B018",
+  "by": "Bernard Khoury",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1998",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Void",
+   "Steel & glass"
+  ],
+  "features": "Sunken nightclub whose hinged roof panels open to the sky, on a site scarred by war.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "b018"
+ },
+ {
+  "name": "B2 House",
+  "by": "Han Tümertekin",
+  "city": "Ayvacık",
+  "cc": "TR",
+  "year": "2001",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Concrete frame filled with local stone, opening one face fully to the view of the Aegean.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "b2-house"
+ },
+ {
+  "name": "Bamboo Wing",
+  "by": "Vo Trong Nghia",
+  "city": "Phuc Yen",
+  "cc": "VN",
+  "year": "2009",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Structure as expression",
+   "Cantilever"
+  ],
+  "features": "Bamboo roof spreading like a bird's wing from bundled bamboo columns, built without steel.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "bamboo-wing"
+ },
+ {
+  "name": "Bee'ah Headquarters",
+  "by": "Zaha Hadid Architects",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "2022",
+  "type": "Workplace",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Climate response",
+   "Parametric"
+  ],
+  "features": "Dune-shaped offices of linked curving domes, shaped to the prevailing desert winds.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "bee-ah-headquarters"
+ },
+ {
+  "name": "Beirut Terraces",
+  "by": "Herzog & de Meuron",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2017",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Cantilever",
+   "Planting"
+  ],
+  "features": "Offset floor slabs of differing depth leave deep, shaded and planted terraces around every side.",
+  "qid": "Q56295859",
+  "keep": 2,
+  "source": "batch2_nophoto.txt",
+  "id": "beirut-terraces"
+ },
+ {
+  "name": "Bell-Lloc Winery",
+  "by": "RCR Arquitectes",
+  "city": "Palamós",
+  "cc": "ES",
+  "year": "2007",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Underground winery of Corten and recycled steel strips, with light slipping in through the slats.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "bell-lloc-winery"
+ }
+]

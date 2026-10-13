@@ -1,0 +1,553 @@
+[
+ {
+  "id": "pilotis-in-a-forest",
+  "name": "Pilotis in a Forest",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2010_12_153-0",
+   "https://www.designboom.com/architecture/go-hasegawa-pilotis-in-a-forest/",
+   "https://ghaa.co.jp/works/pilotis-in-a-forest/"
+  ],
+  "note": "No Commons photos. Sources confirm a timber volume 6.5 m up on nine 100x100 mm steel columns with four braces and a long stair, but none confirms the roof shape (gabled or flat), and Hasegawa's earlier House in a Forest is often confused with it. Architecture sites were not reachable to check images."
+ },
+ {
+  "id": "potato-head-beach-club",
+  "name": "Potato Head Beach Club",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Potato Head - Hotel right at the beach in Seminyak, Bali - panoramio (1).jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Desa Potato Head.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Potato_Head_-_Hotel_right_at_the_beach_in_Seminyak,_Bali_-_panoramio_(1).jpg"
+  ],
+  "note": "No Commons category. The panoramio (1) photo (2000x1500) is the shutter wall itself, close up; Desa Potato Head.jpg is an aerial of the lawn and pool. A third panoramio file (2) shows the corridor inside the shutter wall."
+ },
+ {
+  "id": "praca-do-patriarca-canopy",
+  "name": "Praça do Patriarca Canopy",
+  "status": "photo",
+  "commons_category": "Category:Praça do Patriarca (roofing)",
+  "photos": [
+   {
+    "file": "File:Praça do Patriarca 02.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": "Elevation along the portal: the deep steel channel beam on its two plate columns, with the thin canopy hung beneath it, curling down at one end and running out past the far column.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_do_Patriarca_02.JPG",
+   "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_do_Patriarca_03.JPG",
+   "https://commons.wikimedia.org/wiki/File:PMENDES3.JPG",
+   "https://en.wikipedia.org/wiki/Patriarca_Square"
+  ],
+  "note": "Commons has three free photos of the portal and canopy (CC BY-SA), but all are under 1200px (1024x768, 925x618), so it was drawn from them. If the owner accepts smaller photos, File:Praça do Patriarca 02.JPG (CC BY-SA 4.0, Dornicke) is the best. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
+ },
+ {
+  "id": "quinta-da-conceicao-tennis-pavilion",
+  "name": "Quinta da Conceição Tennis Pavilion",
+  "status": "unsure",
+  "commons_category": "Category:Quinta da Conceição",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://docomomoiberico.com/en/buildings/pabellon-de-tenis-de-la-quinta-da-conceicao/",
+   "https://www.portugalmodern.com/architecture/tennis-pavilion-of-quinta-da-conceicao-matosinhos-architecture-fernando-tavora/"
+  ],
+  "note": "Checked all 15 park photos on Commons: the tennis courts appear (Parque Municipal da Quinta da Conceição (3).jpg) but not the pavilion. Sources mention a timber structure with cantilevered terrace and roof, but not enough to draw its storeys, roof or stair with confidence."
+ },
+ {
+  "id": "ramses-wissa-wassef-art-centre",
+  "name": "Ramses Wissa Wassef Art Centre",
+  "status": "photo",
+  "commons_category": "Category:Ramses Wissa Wassef Art Center",
+  "photos": [
+   {
+    "file": "File:مركز رمسيس ويصا واصف.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Weak: the only free exterior (7426x5304) shows the entrance gate set in rounded mud-plastered walls, not the domes and vaults. The category itself holds only textile photos; this file is uncategorised. Could not establish the dome/vault layout well enough to draw instead."
+ },
+ {
+  "id": "regional-market-dandaji",
+  "name": "Regional Market, Dandaji",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2019/08/23/dandaji-market-niger-atelier-masomi-architecture-infrastructure/",
+   "https://arquitecturaviva.com/works/mercado-de-dandaji"
+  ],
+  "note": "No Commons photos. Earth-brick stalls under round metal discs at varying heights is confirmed, but not how the discs are held up (one post each or branching steel trees), their count or the stall form."
+ },
+ {
+  "id": "sos-children-s-village-aqaba",
+  "name": "SOS Children's Village Aqaba",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.akdn.org/architecture/project/sos-childrens-village",
+   "https://arab-architecture.org/db/building/sos-village-aqaba"
+  ],
+  "note": "No Commons photos. Aga Khan Award record says two-storey houses of concrete frame with granite infill, around shaded courts reached through vaulted archways, but gives no elevation detail to draw from."
+ },
+ {
+  "id": "saint-peter-chapel-campos-do-jordao",
+  "name": "Saint Peter Chapel, Campos do Jordão",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paulo mendes da rocha, capela de são pedro apóstolo, campos do jordão - são paulo, brasil.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Mendes da rocha, capela de são pedro apóstolo (3223027262).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No dedicated category; files sit in Category:Campos do Jordão (several more by Gabriel de Andrade Fernandes, incl. interiors)."
+ },
+ {
+  "id": "salam-centre-for-cardiac-surgery",
+  "name": "Salam Centre for Cardiac Surgery",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salam_Centre_for_Cardiac_Surgery",
+   "https://www.akdn.org/architecture/project/salam-cardiac-surgery-centre"
+  ],
+  "note": "No Commons photos. Sources describe pavilions around garden courtyards with a ventilated outer metal roof and bamboo blinds, but not storey count, roof profile or facade, so the form could not be drawn with confidence."
+ },
+ {
+  "id": "san-francisco-federal-building",
+  "name": "San Francisco Federal Building",
+  "status": "photo",
+  "commons_category": "Category:San Francisco Federal Building",
+  "photos": [
+   {
+    "file": "File:San Francisco Federal Building (main structure, seen from Mission and 7th, 2020).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:SF Federal Building arch.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:San Francisco Federal building located at 90 7th Street on the corner of Mission and 7th Streets in South of Market, San Francisco, California LCCN2013631827.tif",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Highsmith photo is public domain (Library of Congress)."
+ },
+ {
+  "id": "san-miguel-corporation-building",
+  "name": "San Miguel Corporation Building",
+  "status": "photo",
+  "commons_category": "Category:San Miguel Corporation Head Office Building",
+  "photos": [
+   {
+    "file": "File:San Miguel Corporation HOC, Dec 2023.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:San Miguel Corporation - HOC Building, Mandaluyong, June 2025.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:San Miguel Corporation - Head Office Complex, Mandaluyong, June 2025.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Photos clearly show the stepped, planted terraces. The Philippines has no freedom of panorama for buildings, so these files could one day be deleted from Commons."
+ },
+ {
+  "id": "santa-maria-da-feira-municipal-market",
+  "name": "Santa Maria da Feira Municipal Market",
+  "status": "photo",
+  "commons_category": "Category:Mercado Municipal de Santa Maria da Feira",
+  "photos": [
+   {
+    "file": "File:Mercado Municipal de Santa Maria da Feira 001.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Mercado Municipal de Santa Maria da Feira 003.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Mercado Municipal de Santa Maria da Feira 002.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "sevan-writers-resort",
+  "name": "Sevan Writers' Resort",
+  "status": "photo",
+  "commons_category": "Category:Writer's House, Sevan, Armenia",
+  "photos": [
+   {
+    "file": "File:Sevan Writers house.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Writers hous lake Sevan.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:A model of a Sevan Writers' House, 1932, side view.png",
+    "kind": "Model",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": "Sevan Writers house.jpg (3213x5712) shows the round cantilevered 1960s restaurant by Kochar and Mazmanyan. The 1932 model is of the earlier guest block, not the dining hall."
+ },
+ {
+  "id": "sharifi-ha-house",
+  "name": "Sharifi-ha House",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Front (south) elevation: the white-framed facade with the top timber room closed and the two lower rooms turned out of the facade (shown with a little depth), timber slat screen at street level.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sharifi-ha_House",
+   "https://en.wikipedia.org/wiki/File:Sharifa-ha_House.png"
+  ],
+  "note": "No free photos on Commons (only a portrait of Alireza Taghaboni). Drawn from the Wikipedia article and its non-free lead photo: three timber-clad rooms that each turn 90 degrees. Bay widths are approximate."
+ },
+ {
+  "id": "sheraton-grand-doha",
+  "name": "Sheraton Grand Doha",
+  "status": "photo",
+  "commons_category": "Category:Sheraton Doha Resort & Convention Hotel",
+  "photos": [
+   {
+    "file": "File:Sheraton Hotel - 241214.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Doha 0428.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Sheraton Hotel stands out among Doha's skyline.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Qatar has no freedom of panorama, so these could be challenged on Commons."
+ },
+ {
+  "id": "siamese-towers",
+  "name": "Siamese Towers",
+  "status": "photo",
+  "commons_category": "Category:Torres Siamesas",
+  "photos": [
+   {
+    "file": "File:Chile Panorama-22 (4283385628).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Chile 142 of 245 (4282640217).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Campus San Joaquín (13).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "skopje-telecommunications-centre",
+  "name": "Skopje Telecommunications Centre",
+  "status": "photo",
+  "commons_category": "Category:Telecom building (Skopje)",
+  "photos": [
+   {
+    "file": "File:Pošta vo Skopje, Macedonia.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Telekom Skopje.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Pošta vo Skopje shows the post-office hall with its flared concrete crowns; Telekom Skopje shows the telecom tower block."
+ },
+ {
+  "id": "soulages-museum",
+  "name": "Soulages Museum",
+  "status": "photo",
+  "commons_category": "Category:Musée Soulages",
+  "photos": [
+   {
+    "file": "File:France Occitanie 12 Rodez Soulages 01.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Without any special effects (49280555841).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Musee-soulages-IMG 2628.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "France has no freedom of panorama for recent buildings; these files could be deleted from Commons in future."
+ },
+ {
+  "id": "st-anna-duren",
+  "name": "St. Anna, Düren",
+  "status": "photo",
+  "commons_category": "Category:St. Anna (Düren)",
+  "photos": [
+   {
+    "file": "File:Annakirche 2015 1.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Dueren Annakirche a.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:St Anna Düren 01.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Plan Eglise Sainte-Anne 2010.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "sources": [],
+  "note": "Plan shows the old Gothic church dotted under the new one."
+ },
+ {
+  "id": "startup-lions-campus",
+  "name": "Startup Lions Campus",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2021/06/30/startup-lions-campus-kere-architecture-kenya/",
+   "https://www.ribaj.com/buildings/kere-architecture-startup-lions-campus-turkana-kenya-ict-training-coworking-spaces-termite-vernacular/"
+  ],
+  "note": "No Commons photos. Confirmed: five linked stone buildings on two levels down a slope, roof terraces with steel pergolas, three tall ventilation towers. Not confirmed: tower shape, height and where they stand, which is the defining feature."
+ },
+ {
+  "id": "surgical-clinic-and-health-centre",
+  "name": "Surgical Clinic and Health Centre",
+  "status": "photo",
+  "commons_category": "Category:CMA Léo",
+  "photos": [
+   {
+    "file": "File:Foto Sierd Hoekstra (13).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Foto Sierd Hoekstra (1).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Foto Sierd Hoekstra (12).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "1633x1225, permission confirmed through VRTS. They show the earth-brick wards, coloured window frames and the floating metal roofs with solar panels. Category is a subcategory of Works by Diébédo Francis Kéré."
+ },
+ {
+  "id": "swiss-national-park-visitor-centre",
+  "name": "Swiss National Park Visitor Centre",
+  "status": "photo",
+  "commons_category": "Category:Nationalparkhaus Zernez",
+  "photos": [
+   {
+    "file": "File:Zernez-Nationalparkhaus.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Only one exterior at 1200px (exactly 1200x808). File:Visiting Center Swiss National Parc Zernez.jpg is public domain but 1191px. The 2025 files are interiors."
+ },
+ {
+  "id": "tanikawa-house",
+  "name": "Tanikawa House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://socks-studio.com/2016/04/17/an-encounter-with-naked-space-the-tanikawa-house-by-kazuo-shinohara/"
+  ],
+  "note": "No Commons photos. Sources say only a large pitched, tent-like roof over a sloping earth floor with a two-storey strip of rooms alongside; roof pitch, proportions and openings could not be established."
+ },
+ {
+  "id": "teleton-children-s-rehabilitation-centre",
+  "name": "Teletón Children's Rehabilitation Centre",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Fundação teleton (4854065124).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Fundação teleton (4860966371).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Fundação teleton (4906374316).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No dedicated category (files are in Category:Asunción and Category:Gloria Cabral). All by Gabriel de Andrade Fernandes, July 2010, at Teletón Asunción by Gabinete de Arquitectura: the first two show the brick lattice vault during construction, the third a finished stone-and-brace wall from inside. Owner may prefer to check these show the right Teletón building before using."
+ },
+ {
+  "id": "termas-geometricas",
+  "name": "Termas Geométricas",
+  "status": "photo",
+  "commons_category": "Category:Termas Geométricas",
+  "photos": [
+   {
+    "file": "File:J27 930 Termas geométricas.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Termas Geometricas.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Termas geometricas.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Many more in the category (J27 series by Falk2)."
+ },
+ {
+  "id": "thammasat-university-rooftop-farm",
+  "name": "Thammasat University Rooftop Farm",
+  "status": "photo",
+  "commons_category": "Category:Thammasat University, Rangsit Centre",
+  "photos": [
+   {
+    "file": "File:Puey Park 02.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Puey Park 03.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Puey Park 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://popupcity.net/insights/asias-largest-rooftop-farm-is-a-rice-terrace-on-top-of-a-university/",
+   "https://art4d.com/?p=39290"
+  ],
+  "note": "Files are titled Puey Park and filed under Green roofs; they show the Puey Ungphakorn Centenary Hall with its sloping terraced green roof, which is where the rooftop farm is. Owner may want to confirm the match."
+ },
+ {
+  "id": "the-hive-nanyang-technological-university",
+  "name": "The Hive, Nanyang Technological University",
+  "status": "photo",
+  "commons_category": "Category:The Hive, Nanyang Technological University",
+  "photos": [
+   {
+    "file": "File:The Hive, NTU (I).jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:The Hive from Yunnan Garden.jpeg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The hive building at Nanyang Technological University in the afternoon.jpeg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ }
+]

@@ -7,8 +7,26 @@
   const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
   const TOTAL = ALL.length;
   // Books (data/books.js): each knows its shelf, its tags, the architects it is about and the buildings on the wall it goes with.
-  const BOOKS = (window.BOOKS || []).map(b => ({ ...b, kind: 'book' }));
-  const SHELVES = [...new Set(BOOKS.map(b => b.shelf))];
+  // The books file is large, so it loads only when someone first opens Books or a book link; the buildings wall never waits for it.
+  let BOOKS = [], SHELVES = [], booksReady = false, booksWaiting = [];
+  function takeBooks() {
+    BOOKS = (window.BOOKS || []).map(b => ({ ...b, kind: 'book' }));
+    SHELVES = [...new Set(BOOKS.map(b => b.shelf))];
+    booksReady = true;
+    booksWaiting.splice(0).forEach(cb => cb());
+  }
+  function withBooks(cb) {
+    if (booksReady) return cb();
+    booksWaiting.push(cb);
+    if (booksWaiting.length > 1) return;
+    if (window.BOOKS) return takeBooks();
+    const meta = document.querySelector('meta[name="books-data"]');
+    const tag = document.createElement('script');
+    tag.src = meta ? meta.content : 'data/books.js';
+    tag.onload = takeBooks;
+    tag.onerror = () => { booksWaiting = []; $('count').textContent = 'Books could not load'; };
+    document.head.appendChild(tag);
+  }
   // Shop links. Put an Amazon Associates tag here once the account is live; the disclosure line then shows itself.
   const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
@@ -187,7 +205,7 @@
     $('allLink').dataset.tip = `A collection of ${TOTAL.toLocaleString('en')} buildings`;
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
-    $('filterCount').textContent = nf ? '· ' + nf : '';
+    $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
     updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -485,7 +503,7 @@
   // A step in the history, a hash or a tile key names either a building or a book ("book:<id>").
   const findAny = key => key && key.startsWith('book:') ? BOOKS.find(x => x.id === key.slice(5)) : ALL.find(x => x.id === key);
   function openAny(key, surprise, fromHistory) {
-    if (key && key.startsWith('book:')) { if (state.mode !== 'books') setMode('books'); openBook(key.slice(5), surprise, null, fromHistory); }
+    if (key && key.startsWith('book:')) withBooks(() => { if (state.mode !== 'books') setMode('books'); openBook(key.slice(5), surprise, null, fromHistory); });
     else openBuilding(key, surprise, null, fromHistory);
   }
 
@@ -631,6 +649,7 @@
   // Buildings or Books: the same bar, search and dock work on whichever wall is on.
   function setMode(mode, quiet) {
     if (state.mode === mode) return;
+    if (mode === 'books' && !booksReady) { $('count').textContent = 'Loading books…'; return withBooks(() => setMode(mode, quiet)); }
     state.mode = mode;
     const books = mode === 'books';
     $('modeBuildings').setAttribute('aria-pressed', !books);
@@ -641,11 +660,26 @@
     toggleFilters(false);
     if (!quiet) render(true);
   }
-  // On a phone the switch moves out of the crowded top bar into the row below it.
-  const narrow = window.matchMedia('(max-width: 820px)');
-  const placeMode = () => (narrow.matches ? $('modeSlot') : $('q').closest('.bar-mid')).prepend(document.querySelector('.mode'));
-  narrow.addEventListener('change', placeMode);
-  placeMode();
+  // Top panel A: the switch stays in the top bar; on a phone it sits on the bar's second row, beside Guess the building?.
+  $('q').closest('.bar-mid').prepend(document.querySelector('.mode'));
+
+  // Guess the building? opens a small menu with the two games.
+  const playMenu = (open) => { $('playMenu').hidden = !open; $('playBtn').setAttribute('aria-expanded', open); };
+  $('playBtn').addEventListener('click', e => { e.stopPropagation(); playMenu($('playMenu').hidden); });
+  document.addEventListener('click', e => { if (!$('playMenu').hidden && !e.target.closest('#play')) playMenu(false); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('playMenu').hidden) { playMenu(false); $('playBtn').focus(); } });
+
+  // The ideas row slides away while you scroll down and comes back as soon as you scroll up.
+  let lastY = window.scrollY, ticking = false;
+  window.addEventListener('scroll', () => {
+    if (ticking) return; ticking = true;
+    requestAnimationFrame(() => {
+      const y = window.scrollY, d = y - lastY;
+      if (Math.abs(d) > 6) { document.body.classList.toggle('ideas-away', d > 0 && y > 140); lastY = y; }
+      if (y < 140) document.body.classList.remove('ideas-away');
+      ticking = false;
+    });
+  }, { passive: true });
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {
@@ -682,7 +716,7 @@
   $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
-  window.DA = { ALL, BOOKS, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+  window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position

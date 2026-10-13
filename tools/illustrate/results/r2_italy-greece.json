@@ -1,0 +1,1633 @@
+[
+ {
+  "id": "novocomum",
+  "name": "Novocomum",
+  "by": "Giuseppe Terragni",
+  "city": "Como",
+  "cc": "IT",
+  "year": "1929",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Steel & glass"
+  ],
+  "features": "Five-storey apartment block whose cut-away corners hold glazed cylinders, nicknamed the 'Transatlantico'.",
+  "status": "photo",
+  "commons_category": "Category:Novocomum",
+  "photos": [
+   {
+    "file": "File:Novocomum (Como).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Novocomum.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Novocomum Apartments, Como, 1980.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Como Terragni bn2.jpg",
+    "license": "CC BY-SA 3.0 it"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://dialecticsofmodernity.manchester.ac.uk/essay/833-giuseppe-terragni-novocomum-1928-1929",
+   "https://www.comolakesideblog.com/culture/rationalism-lake-como"
+  ],
+  "note": "Terragni died in 1943, so his buildings are public domain in Italy and Commons keeps photos."
+ },
+ {
+  "id": "casa-rustici",
+  "name": "Casa Rustici",
+  "by": "Giuseppe Terragni, Pietro Lingeri",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "1935",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Void",
+   "Exposed concrete"
+  ],
+  "features": "Two parallel slabs tied across the street front by thin balcony frames, leaving an open court between.",
+  "status": "photo",
+  "commons_category": "Category:Casa Rustici",
+  "photos": [
+   {
+    "file": "File:Milano casa Rustici.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Milano casa Rustici balconi.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Casa_Rustici"
+  ],
+  "note": "Only 1024px photos; usable under the 800px rule. Check that 'Category:Casa Comolli-Rustici' (also by Terragni and Lingeri) is a different building before mixing files."
+ },
+ {
+  "id": "stadio-artemio-franchi",
+  "name": "Stadio Artemio Franchi",
+  "by": "Pier Luigi Nervi",
+  "city": "Florence",
+  "cc": "IT",
+  "year": "1931",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Exposed concrete"
+  ],
+  "features": "Cantilevered concrete canopy over the main stand, helical ramps and the slender Marathon Tower.",
+  "status": "photo",
+  "commons_category": "Category:Stadio Artemio Franchi (Florence)",
+  "photos": [
+   {
+    "file": "File:Firenze, stadio artemio franchi, tribuna centrale con copertura sospesa originale 00.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Firenze, stadio artemio franchi, scala elicoidale 01.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Firenze, stadio artemio franchi, torre di maratona 01.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Firenze, stadio artemio franchi, sostegni delle tribune 01.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Stadio_Artemio_Franchi_(Florence)"
+  ],
+  "note": "Plenty of CC BY 3.0 photos of Nervi's canopy, stairs and tower."
+ },
+ {
+  "id": "palazzo-dei-congressi-eur",
+  "name": "Palazzo dei Congressi",
+  "by": "Adalberto Libera",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1954",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Axis"
+  ],
+  "features": "Granite-columned portico before a cubic hall roofed by a cross vault; roof terrace with open-air theatre.",
+  "status": "photo",
+  "commons_category": "Category:Palazzo dei Congressi (Rome)",
+  "photos": [
+   {
+    "file": "File:Palazzo dei Congressi a EUR Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Roma 2011 08 16 Palazzo dei Congressi fronte.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Palazzo dei Congressi in 2018.01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Palazzo_dei_Congressi_(Rome)"
+  ],
+  "note": "Designed 1937-38, completed after the war (1954). Many free photos."
+ },
+ {
+  "id": "villa-girasole",
+  "name": "Villa Girasole",
+  "by": "Angelo Invernizzi",
+  "city": "Marcellise",
+  "cc": "IT",
+  "year": "1935",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "An L-shaped house that turns on a circular base to follow the sun, round a central tower.",
+  "status": "photo",
+  "commons_category": "Category:Villa Girasole",
+  "photos": [
+   {
+    "file": "File:Panorama Villa Girasole.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Veduta di Villa Girasole, Marcellise, Verona (1936).jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Villa_Girasole"
+  ],
+  "note": "Only two files; check the panorama shows the house clearly."
+ },
+ {
+  "id": "mausoleo-delle-fosse-ardeatine",
+  "name": "Mausoleo delle Fosse Ardeatine",
+  "by": "Mario Fiorentino, Giuseppe Perugini, Nello Aprile, Cino Calcaprina, Aldo Cardelli",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1949",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "A single huge concrete slab hovers low over the rows of tombs, lit by a thin band of light at its edge.",
+  "status": "photo",
+  "commons_category": "Category:Monument to the victims of the Ardeatine massacre",
+  "photos": [
+   {
+    "file": "File:Mausoelum Fosse Ardeatine.JPG",
+    "license": "CC BY-SA 3.0 de"
+   },
+   {
+    "file": "File:Monumento Fosse Ardeatine.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Entrance gate at the Mausoleo delle Fosse Ardeatine.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Roma-fosseardeatine2.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Monument_to_the_victims_of_the_Ardeatine_massacre"
+  ],
+  "note": null
+ },
+ {
+  "id": "teatro-del-mondo",
+  "name": "Teatro del Mondo",
+  "by": "Aldo Rossi",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1979",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Timber",
+   "Water",
+   "Geometry"
+  ],
+  "features": "A floating timber theatre: a square box, an octagonal drum and a pointed roof, towed on a barge.",
+  "status": "photo",
+  "commons_category": "Category:Teatro del Mondo",
+  "photos": [
+   {
+    "file": "File:Teatro del Mondo.3, Aldo Rossi.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Teatro del Mondo.1980.1, Aldo Rossi.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Teatro del Mondo.2, Aldo Rossi.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archiweb.cz/en/b/divadlo-sveta-il-teatro-del-mondo",
+   "https://www.britannica.com/topic/Teatro-del-Mondo"
+  ],
+  "note": "Built for the 1979-80 Venice Biennale and dismantled in 1981. Check the photos are of the original (not a model or the 2004 Genoa reconstruction) and are the uploader's own work."
+ },
+ {
+  "id": "casa-alle-zattere",
+  "name": "Casa alle Zattere",
+  "by": "Ignazio Gardella",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1958",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Detail"
+  ],
+  "features": "A modern house on the Giudecca canal that reworks the Venetian palazzo: plaster walls, framed windows.",
+  "status": "photo",
+  "commons_category": "Category:Casa alle Zattere (Venice)",
+  "photos": [
+   {
+    "file": "File:Veduta della Casa alle Zattere (DOI 42529).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Venezia - casa alle Zattere.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Casa cicogna alle zattere.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Casa_alle_Zattere_(Venice)"
+  ],
+  "note": "Also a 1982 Paolo Monti photo (BEIC, CC BY-SA 4.0, 1280px)."
+ },
+ {
+  "id": "chiesa-madre-di-gibellina",
+  "name": "Chiesa Madre di Gibellina",
+  "by": "Ludovico Quaroni",
+  "city": "Gibellina",
+  "cc": "IT",
+  "year": "2010",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "A great white sphere set on a cubic block, built in the new town after the 1968 Belice earthquake.",
+  "status": "photo",
+  "commons_category": "Category:Chiesa Madre di Gibellina",
+  "photos": [
+   {
+    "file": "File:Esterno chiesa madre di Gibellina.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Chiesa Madre Quaroni.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Chiesa madre di Gibellina (vista laterale).jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Chiesa_Madre_di_Gibellina"
+  ],
+  "note": "Designed 1972, roof collapsed during construction; completed about 2010. Year is completion; verify against a source before publishing."
+ },
+ {
+  "id": "santa-maria-assunta-riola",
+  "name": "Santa Maria Assunta, Riola",
+  "by": "Alvar Aalto",
+  "city": "Riola",
+  "cc": "IT",
+  "year": "1978",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Section",
+   "Exposed concrete"
+  ],
+  "features": "Stepped roof over curved concrete arches pours light into the nave; a separate open bell frame stands beside it.",
+  "status": "photo",
+  "commons_category": "Category:Santa Maria Assunta (Riola, Vergato)",
+  "photos": [
+   {
+    "file": "File:Vergato - Chiesa di Santa Maria Assunta - 2023-09-26 10-59-43 001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Chiesa di santa Maria Assunta (Aalto).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Chiesa di santa Maria Assunta (Aalto)2.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Santa_Maria_Assunta_(Riola,_Vergato)"
+  ],
+  "note": "Aalto's only building in Italy; completed after his death (1976)."
+ },
+ {
+  "id": "teatro-regio-turin",
+  "name": "Teatro Regio",
+  "by": "Carlo Mollino",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Brick",
+   "Adaptive reuse"
+  ],
+  "features": "Mollino's brick-walled opera house behind the old 18th-century facade, with a shell-shaped hall inside.",
+  "status": "photo",
+  "commons_category": "Category:Teatro Regio (Turin)",
+  "photos": [
+   {
+    "file": "File:Royal Theather in Torino, Italy.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Teatro Regio (Turin).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Torino 2014 (13).JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Teatro_Regio_(Turin)"
+  ],
+  "note": "Check which exterior photos show Mollino's 1973 building rather than only the old Piazza Castello front."
+ },
+ {
+  "id": "la-rinascente-piazza-fiume",
+  "name": "La Rinascente, Piazza Fiume",
+  "by": "Franco Albini, Franca Helg",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1961",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Department store with an exposed steel frame and red-granite panels that hide ducts in their ribbed folds.",
+  "status": "photo",
+  "commons_category": "Category:Palazzo La Rinascente 1960 (Rome)",
+  "photos": [
+   {
+    "file": "File:La Rinascente di piazza Fiume (Roma) 1.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Edificio che ospita la Rinascente di piazza Fiume a Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Albini Rinascente.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Palazzo_La_Rinascente_1960_(Rome)"
+  ],
+  "note": "'Workplace' is the nearest type for a department store."
+ },
+ {
+  "id": "ponte-musmeci",
+  "name": "Ponte Musmeci (Viadotto dell'Industria)",
+  "by": "Sergio Musmeci",
+  "city": "Potenza",
+  "cc": "IT",
+  "year": "1976",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Exposed concrete"
+  ],
+  "features": "A continuous thin concrete membrane, form-found from soap-film models, carries the deck over four spans.",
+  "status": "photo",
+  "commons_category": "Category:Viadotto dell’Industria",
+  "photos": [
+   {
+    "file": "File:Ponte sul Basento, opera di Sergio Musmeci 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Ponte Musmeci1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:La pancia del ponte.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Nato dal Sapone.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Viadotto_dell%E2%80%99Industria"
+  ],
+  "note": null
+ },
+ {
+  "id": "corviale",
+  "name": "Corviale",
+  "by": "Mario Fiorentino",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1982",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Exposed concrete",
+   "Community"
+  ],
+  "features": "A single housing slab nearly a kilometre long on the edge of Rome, with a fourth-floor street meant for shops.",
+  "status": "photo",
+  "commons_category": "Category:Corviale",
+  "photos": [
+   {
+    "file": "File:Corviale (5581475097).jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Corviale (5582061592).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:CORVIALE6.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:View from Roma Corviale in 2012.01.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Corviale"
+  ],
+  "note": null
+ },
+ {
+  "id": "vele-di-scampia",
+  "name": "Vele di Scampia",
+  "by": "Franz Di Salvo",
+  "city": "Naples",
+  "cc": "IT",
+  "year": "1975",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Section",
+   "Community"
+  ],
+  "features": "Sail-shaped housing blocks: two stepped slabs leaning together around a tall internal street of walkways.",
+  "status": "photo",
+  "commons_category": "Category:Vele di Scampia (Naples)",
+  "photos": [
+   {
+    "file": "File:Vele di Scampia Di Salvo.JPG",
+    "license": "CC BY-SA 3.0 it"
+   },
+   {
+    "file": "File:Vele di Scampia.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Vela Scampia.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Vele_di_Scampia_(Naples)"
+  ],
+  "note": "Several of the seven Vele have been demolished since 2020; completion year approximate (built 1962-75)."
+ },
+ {
+  "id": "la-nuvola-eur",
+  "name": "La Nuvola (Roma Convention Center)",
+  "by": "Massimiliano Fuksas, Doriana Fuksas",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "2016",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A glass-and-steel box holds 'the Cloud', a free-form fabric-skinned auditorium hanging inside it.",
+  "status": "photo",
+  "commons_category": "Category:New EUR Rome Convention Center",
+  "photos": [
+   {
+    "file": "File:Fuksas Cloud.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Roma EUR nuovo centro congressi.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Roma Convention Center 2018.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Interior of New Congress Center \"La Nuvola\" in Rome.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:New_EUR_Rome_Convention_Center"
+  ],
+  "note": "'Fuksas Cloud.jpg' is marked public domain; check the claim before use."
+ },
+ {
+  "id": "ponte-genova-san-giorgio",
+  "name": "Genova San Giorgio Bridge",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "2020",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Prefabrication"
+  ],
+  "features": "A steel deck shaped like a ship's hull on elliptical concrete piers, replacing the collapsed Morandi bridge.",
+  "status": "photo",
+  "commons_category": "Category:Viadotto Genova-San Giorgio",
+  "photos": [
+   {
+    "file": "File:Viadotto Genova San Giorgio panorama.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Ponte San Giorgio, Genova, sul torrente Valpolcevera.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Genoa Bridge in 2021.01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Viadotto_Genova-San_Giorgio"
+  ],
+  "note": "Steel is the main material; 'Steel & glass' is the nearest concept."
+ },
+ {
+  "id": "museo-enzo-ferrari",
+  "name": "Museo Enzo Ferrari",
+  "by": "Future Systems (Jan Kaplický), Andrea Morgante",
+  "city": "Modena",
+  "cc": "IT",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Adaptive reuse",
+   "Light from above"
+  ],
+  "features": "A yellow aluminium roof, shaped like a car bonnet with air-intake slots, curls round Enzo Ferrari's birthplace.",
+  "status": "photo",
+  "commons_category": "Category:Museo Enzo Ferrari, Modena",
+  "photos": [
+   {
+    "file": "File:Direction of Museo Casa Enzo Ferrari in 2018.01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Direction of Museo Casa Enzo Ferrari in 2018.02.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Museo_Enzo_Ferrari,_Modena"
+  ],
+  "note": "14 photos in the 2018 series; pick ones that show the roof."
+ },
+ {
+  "id": "fondazione-feltrinelli",
+  "name": "Fondazione Giangiacomo Feltrinelli",
+  "by": "Herzog & de Meuron",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2016",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Exposed concrete",
+   "Steel & glass"
+  ],
+  "features": "A long, thin glass-and-concrete gabled building whose steep roof repeats the rhythm of its frame.",
+  "status": "photo",
+  "commons_category": "Category:Fondazione Giangiacomo Feltrinelli",
+  "photos": [
+   {
+    "file": "File:Facciata di Fondazione Giangiacomo Feltrinelli.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Fondazione_Giangiacomo_Feltrinelli"
+  ],
+  "note": "One 1647px photo; more may exist under Porta Volta categories."
+ },
+ {
+  "id": "talponia",
+  "name": "Talponia (Unità residenziale Ovest)",
+  "by": "Roberto Gabetti, Aimaro Isola",
+  "city": "Ivrea",
+  "cc": "IT",
+  "year": "1971",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Steel & glass"
+  ],
+  "features": "Olivetti staff housing buried in a hill: a curved glass front under a grassed roof walkway.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ivrea. Facciata vetrata dell'unità residenziale Ovest Olivetti Talponia.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Talponia Ivrea Italia.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Ivrea. Unità residenziale Ovest Olivetti Talponia vista dal tetto.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Talponia+Ivrea"
+  ],
+  "note": "No dedicated category ('Category:Talponia' is a moth genus)."
+ },
+ {
+  "id": "collegio-del-colle-urbino",
+  "name": "Collegio del Colle",
+  "by": "Giancarlo De Carlo",
+  "city": "Urbino",
+  "cc": "IT",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Brick",
+   "Cluster"
+  ],
+  "features": "Student rooms in brick-and-concrete terraces that step down the hillside facing Urbino.",
+  "status": "photo",
+  "commons_category": "Category:Collegio del Colle",
+  "photos": [
+   {
+    "file": "File:Collegio del Colle - Corpo centrale (Large).tiff",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Collegio del Colle - ingresso (Large).tif",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Collegi urbino.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Collegio_del_Colle"
+  ],
+  "note": "'Collegi urbino.jpg' (5801px) may show the wider campus; the TIFFs are 1614px."
+ },
+ {
+  "id": "villa-la-saracena",
+  "name": "Villa La Saracena",
+  "by": "Luigi Moretti",
+  "city": "Santa Marinella",
+  "cc": "IT",
+  "year": "1957",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Water"
+  ],
+  "features": "Seaside villa of white walls and a long curving wall that leads to a shell-like hall opening to the sea.",
+  "status": "photo",
+  "commons_category": "Category:Villa La Saracena (Santa Marinella)",
+  "photos": [
+   {
+    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6356067.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Villa_La_Saracena_(Santa_Marinella)"
+  ],
+  "note": "Only one photo (Paolo Monti, 1280px); check it shows the exterior."
+ },
+ {
+  "id": "banca-popolare-di-verona",
+  "name": "Banca Popolare di Verona",
+  "by": "Carlo Scarpa, Arrigo Rudi",
+  "city": "Verona",
+  "cc": "IT",
+  "year": "1981",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Stone facade on Piazza Nogara pierced by scattered round windows, topped by a loggia under a thin roof.",
+  "status": "photo",
+  "commons_category": "Category:Piazza Nogara (Verona)",
+  "photos": [
+   {
+    "file": "File:BPV Verona 1.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:BPV_Verona_1.JPG"
+  ],
+  "note": "Only a 900px photo (described as the bank's main headquarters on Piazza Nogara), usable under the 800px rule; the larger Piazza Nogara photos may also show it. Finished by Arrigo Rudi after Scarpa's death (1978)."
+ },
+ {
+  "id": "ceramica-solimene",
+  "name": "Ceramica Artistica Solimene",
+  "by": "Paolo Soleri",
+  "city": "Vietri sul Mare",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A ceramics factory whose facade is a wall of clay pots set in tapering cones, wrapped round a spiral ramp.",
+  "status": "photo",
+  "commons_category": "Category:Ceramica Artistica Solimene Vincenzo",
+  "photos": [
+   {
+    "file": "File:Vietri sul mare (02).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Vietri sul mare (03).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Vietri sul mare (04).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ceramica_Artistica_Solimene_Vincenzo"
+  ],
+  "note": "Completion year approximate (1951-55); check before publishing."
+ },
+ {
+  "id": "olivetti-pozzuoli",
+  "name": "Olivetti Factory, Pozzuoli",
+  "by": "Luigi Cosenza",
+  "city": "Pozzuoli",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Human comfort",
+   "Courtyard"
+  ],
+  "features": "A humane factory laid out in low wings and gardens facing the Gulf of Pozzuoli.",
+  "status": "photo",
+  "commons_category": "Category:Olivetti (Pozzuoli)",
+  "photos": [
+   {
+    "file": "File:Paolo Monti - Servizio fotografico (Pozzuoli, 1965) - BEIC 6355836.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paolo Monti - Servizio fotografico (Pozzuoli, 1965) - BEIC 6356016.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Olivetti_(Pozzuoli)"
+  ],
+  "note": "Two Paolo Monti photos (1280px and 1043px); check they show the exterior."
+ },
+ {
+  "id": "chiesa-di-longarone",
+  "name": "Santa Maria Immacolata, Longarone",
+  "by": "Giovanni Michelucci",
+  "city": "Longarone",
+  "cc": "IT",
+  "year": "1983",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Rebuilt after the 1963 Vajont flood: a concrete church whose roof is a curved open-air amphitheatre.",
+  "status": "photo",
+  "commons_category": "Category:Santa Maria Immacolata (Longarone)",
+  "photos": [
+   {
+    "file": "File:Longarone (BL) - chiesa di Santa Maria Immacolata.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Santa_Maria_Immacolata_(Longarone)"
+  ],
+  "note": "Rebuilt after the 1963 Vajont disaster; completion year approximate (1975-83)."
+ },
+ {
+  "id": "xenia-hotel-mykonos",
+  "name": "Xenia Hotel, Mykonos",
+  "by": "Aris Konstantinidis",
+  "city": "Mykonos",
+  "cc": "GR",
+  "year": "1960",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Low whitewashed volumes and stone walls step with the ground, reading the Cycladic village in a modern frame.",
+  "status": "photo",
+  "commons_category": "Category:Aris Konstantinidis",
+  "photos": [
+   {
+    "file": "File:1970-9-16 Mykonos - Hotel Xenia.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Aris_Konstantinidis"
+  ],
+  "note": "One 1970 photo; year of completion approximate."
+ },
+ {
+  "id": "archaeological-museum-of-ioannina",
+  "name": "Archaeological Museum of Ioannina",
+  "by": "Aris Konstantinidis",
+  "city": "Ioannina",
+  "cc": "GR",
+  "year": "1966",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Exposed concrete"
+  ],
+  "features": "Concrete frame filled with local stone, low pavilions round a courtyard in a park.",
+  "status": "photo",
+  "commons_category": "Category:Archaeological Museum of Ioannina",
+  "photos": [
+   {
+    "file": "File:100 6975 - Kons.Ioan1.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Archaeological_Museum_of_Ioannina"
+  ],
+  "note": "Most files are of exhibits; one 2527px entrance photo plus a 960px view ('Archaeological Museum of Ioannina.jpg'). Some of the '2024' series may also show the building."
+ },
+ {
+  "id": "athens-conservatoire",
+  "name": "Athens Conservatoire",
+  "by": "Ioannis Despotopoulos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "A long grid-framed concrete block over an open ground floor, part of an unfinished cultural centre.",
+  "status": "photo",
+  "commons_category": "Category:Athens Conservatoire",
+  "photos": [
+   {
+    "file": "File:The facade of the Athens Conservatoire.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The exterior of the Athens Conservatoire.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The facade of the Athens Conservatoire (5).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Athens_Conservatoire"
+  ],
+  "note": "Designed 1959, built 1969-76."
+ },
+ {
+  "id": "hilton-athens",
+  "name": "Hilton Athens",
+  "by": "Prokopis Vassiliadis, Emmanouil Vourekas, Spyros Staikos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1963",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A gently bent white slab with engraved marble end walls, the first big International Style hotel in Athens.",
+  "status": "photo",
+  "commons_category": "Category:Hilton Athens",
+  "photos": [
+   {
+    "file": "File:The Athens Hilton as seen from the neighbourhood of Pagrati.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Athina Lykavittos Leof. V. Alexandrou.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Hilton_Athens"
+  ],
+  "note": null
+ },
+ {
+  "id": "museum-of-byzantine-culture",
+  "name": "Museum of Byzantine Culture",
+  "by": "Kyriakos Krokos",
+  "city": "Thessaloniki",
+  "cc": "GR",
+  "year": "1994",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Promenade"
+  ],
+  "features": "Brick-faced volumes and deep slots of light lead visitors on a slow route through the collection.",
+  "status": "photo",
+  "commons_category": "Category:Exterior of Museum of Byzantine Culture",
+  "photos": [
+   {
+    "file": "File:Museum of Byzantine Culture.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Museum of Byzantine Culture, Thessaloniki, Greece (9168128342).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Museum of Byzantine Culture, Thessaloniki, Greece (9182809550).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Exterior_of_Museum_of_Byzantine_Culture"
+  ],
+  "note": null
+ },
+ {
+  "id": "blue-building-athens",
+  "name": "Blue Building (Blue Condominium)",
+  "by": "Kyriakos Panagiotakos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1933",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Cantilever",
+   "Community"
+  ],
+  "features": "Interwar apartment block on Exarchia Square, its corner wrapped in curved cantilevered balconies.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:\"Blue condominium\" in Athens.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Blue+Building+Exarchia"
+  ],
+  "note": "Only one file found; no category."
+ },
+ {
+  "id": "lycabettus-theatre",
+  "name": "Lycabettus Theatre",
+  "by": "Takis Zenetos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1965",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Prefabrication",
+   "Public space"
+  ],
+  "features": "An open-air theatre in an old quarry on Lycabettus hill, its seating built as a light, demountable steel frame.",
+  "status": "photo",
+  "commons_category": "Category:Lycabettus Theatre",
+  "photos": [
+   {
+    "file": "File:The Theatre of Lycabettus on November 30, 2019.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lycabettus Theatre, 225902.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lycabettus theatre. - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Lycabettus_Theatre"
+  ],
+  "note": "Zenetos's original 1965 seating has since been rebuilt; check what the photos show."
+ },
+ {
+  "id": "punta-nave-rpbw",
+  "name": "Renzo Piano Building Workshop, Punta Nave",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "1991",
+  "type": "Workplace",
+  "movement": "High-tech",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Steel & glass"
+  ],
+  "features": "Piano's own studio: glass roofs stepping down terraces to the sea, reached by a small funicular.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Particolare del Renzo Piano Building Workshop a Genova Vesima (Punta Nave), luglio 2013.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Punta+Nave+Piano"
+  ],
+  "note": "Only an 809px detail photo; usable under the 800px rule if it clearly shows the building. If not, this is a good candidate to draw (stepped glass roofs down the hillside)."
+ },
+ {
+  "id": "casa-del-girasole",
+  "name": "Casa del Girasole",
+  "by": "Luigi Moretti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1950",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "A rusticated stone base and a front split down the middle under a broken gable: modernism playing with the classical.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6356070.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paolo Monti - Servizio fotografico - BEIC 6356070 sw.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_-_BEIC_6356070.jpg"
+  ],
+  "note": "Only Paolo Monti's 1951 photo (1242px), filed under Viale Bruno Buozzi / Luigi Moretti / built 1950 but not named; it should be the Girasole (Viale Bruno Buozzi 64). Check before use."
+ },
+ {
+  "id": "scuola-fagnano-olona",
+  "name": "Elementary School, Fagnano Olona",
+  "by": "Aldo Rossi",
+  "city": "Fagnano Olona",
+  "cc": "IT",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Classrooms round a courtyard with a cylindrical library, a chimney and a stepped stair like a small theatre.",
+  "status": "photo",
+  "commons_category": "Category:Aldo Rossi",
+  "photos": [
+   {
+    "file": "File:Schule in Fagnano Olona.1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Schule in Fagnano Olona.2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Schule in Fagnano Olona.3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Aldo_Rossi"
+  ],
+  "note": "No dedicated category; files sit directly in Category:Aldo Rossi."
+ },
+ {
+  "id": "casa-papanice",
+  "name": "Casa Papanice",
+  "by": "Paolo Portoghesi, Vittorio Gigliotti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1970",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Curving walls and a ribbed facade of coloured ceramic-tube 'organ pipes' spread out from the corners.",
+  "status": "photo",
+  "commons_category": "Category:Casa Papanice",
+  "photos": [
+   {
+    "file": "File:Casa Papanice a Roma.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Casa_Papanice"
+  ],
+  "note": "Most of the category is film stills; one 5589px building photo."
+ },
+ {
+  "id": "cartiera-burgo-mantova",
+  "name": "Cartiera Burgo",
+  "by": "Pier Luigi Nervi",
+  "city": "Mantua",
+  "cc": "IT",
+  "year": "1964",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Exposed concrete"
+  ],
+  "features": "A 250 m paper-mill roof hung like a suspension bridge from chains over two 50 m concrete trestles.",
+  "status": "drawn",
+  "commons_category": "Category:Cartiere Burgo",
+  "photos": [],
+  "extras": [],
+  "view": "long side elevation: the 250 m hall with the two concrete trestles 43 m in from each end, the chains sagging between them and running down to the cantilevered roof ends, with vertical hangers",
+  "after": null,
+  "sources": [
+   "https://atlantearchitetturacontemporanea.cultura.gov.it/en/cartiere-burgo-mantova/",
+   "https://www.carthamagazine.com/2019/12/16/4-1-07-hymn-to-progress-pier-luigi-nervis-burgo-paper-mill/",
+   "http://www.greatbuildings.com/buildings/Paper_Mill_at_Mantua.html",
+   "https://en.wikipedia.org/wiki/Pier_Luigi_Nervi"
+  ],
+  "note": "No photo of the Mantua mill on Commons (Category:Cartiere Burgo holds only other Burgo plants). Sources (via search summaries) give 250 m length, 160-164 m clear span with ~43 m cantilevers each end, trestles 47-50 m high, roof about 22 m up; proportions drawn to those. Each trestle is a coupled pair of pylons straddling the hall, so it reads as a single tapered pylon in side view. Nervi worked with Gino Covre."
+ },
+ {
+  "id": "konstantinidis-weekend-house-anavyssos",
+  "name": "Weekend House, Anavyssos",
+  "by": "Aris Konstantinidis",
+  "city": "Anavyssos",
+  "cc": "GR",
+  "year": "1962",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Exposed concrete",
+   "Climate response"
+  ],
+  "features": "Thick local-stone piers carry a flat concrete slab, making a shaded portico that wraps two sides of a small house.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "elevation of the portico side: the thin flat concrete roof slab on rectangular stone piers, the house sitting on a low platform",
+  "after": null,
+  "sources": [
+   "https://en.wikiarquitectura.com/building/house-in-anavyssos/",
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/BUILDINGS/BUILD_TEXTS/B123_t.html",
+   "https://www.researchgate.net/publication/286652088_The_Art_of_Building_Reception_Aris_Konstantinidis_behind_the_Global_Published_Life_of_his_Weekend_House_in_Anavyssos_1962-2014",
+   "https://burning.farm/essays/the-constant-typologist"
+  ],
+  "note": "No Commons photo. Sources: square/rectangular plan on a 2x5 m grid, an L-shaped portico 2-3 m deep on two sides, flat exposed-concrete slab on six rectangular stone pillars, load-bearing stone walls. The number and spacing of piers shown on this one side (four) is my reading of the six-pillar L; check against the published plan."
+ },
+ {
+  "id": "lanaras-weekend-house",
+  "name": "Lanaras Weekend House",
+  "by": "Nicos Valsamakis",
+  "city": "Anavyssos",
+  "cc": "GR",
+  "year": "1963",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Two thin concrete slabs on slender steel posts, glazed and shuttered between, above stone terrace walls.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "long elevation toward the sea: thin floor and roof slabs projecting past the glass line, slender steel posts with glazing and a shutter rail between, a stone base and stone terrace walls of different heights either side",
+  "after": null,
+  "sources": [
+   "https://themodernhouse.com/journal/house-of-the-day-lanaras-weekend-house-by-nicos-valsamakis",
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/buildings/build_texts/b121_t.html",
+   "https://oajournals.fupress.net/index.php/fa/article/view/17511",
+   "https://arkitekting.wordpress.com/2014/06/21/minimalism-in-classic-athens-the-lanaras-weekend-house-anavyssos-athens-1961-63/"
+  ],
+  "note": "No Commons photo. Sources: two thin reinforced-concrete slabs with slim projections on thin metal supports, sides filled with glass and sliding shutters, stone retaining walls of different heights, bedroom wing at right angles (not shown). Bay count is indicative, not counted from a plan."
+ },
+ {
+  "id": "onassis-stegi",
+  "name": "Onassis Stegi",
+  "by": "Architecture-Studio",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "A box wrapped on all four sides in thin horizontal bands of white marble that glow from inside at night.",
+  "status": "drawn",
+  "commons_category": "Category:Onassis Cultural Centre",
+  "photos": [],
+  "extras": [],
+  "view": "front elevation on Syngrou Avenue: the marble-banded box over a glazed ground floor",
+  "after": null,
+  "sources": [
+   "https://architecturestudio.fr/en/?p=7264",
+   "https://nanophos.com/en/?p=11816",
+   "https://www.icmc14-smc14.net/venues/onasssis-cultural-center.html"
+  ],
+  "note": "Commons has only interior photos. Sources: white marble strips wrap all four facades; building about 27 m (89 ft) tall. The width-to-height ratio and band spacing are approximate."
+ },
+ {
+  "id": "agios-dimitrios-circular-school",
+  "name": "Circular School, Agios Dimitrios",
+  "by": "Takis Zenetos",
+  "city": "Athens",
+  "cc": "GR",
+  "year": "1976",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Modular"
+  ],
+  "features": "A three-storey disc of classrooms round a central core, its south half ringed by louvred eaves at every floor.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "slightly raised view from the south: the three-storey drum with a louvred eave band at each floor head round the southern half, and glazed walls with metal mullions",
+  "after": null,
+  "sources": [
+   "http://www.culture2000.tee.gr/ATHENS/ENGLISH/BUILDINGS/BUILD_TEXTS/B32_t.html",
+   "https://aaeportal.com/images/82781/agios-dimitrios-school-first-floor-plan-and-views-of-the-exterior",
+   "https://caroloartschool.wordpress.com/2010/09/10/takis-zenetos/",
+   "http://blog.2modern.com/2007/06/takis_zenetos_a.html"
+  ],
+  "note": "No Commons photo. Sources: three-floor circular building, three standard modules of 160 pupils per floor round a central audio-visual core, concrete and metal, 'a succession of louvred roofs surrounding the southern semi-circle of the three floors'. Diameter-to-height ratio and mullion count are approximate. Built 1970-76 (designed 1969); Agios Dimitrios is a suburb of Athens, not Lycabettus."
+ },
+ {
+  "id": "casa-baldi",
+  "name": "Casa Baldi",
+  "by": "Paolo Portoghesi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1961",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Load-bearing tufa walls curve concave outside and convex inside, a Borromini-inspired modern house on a quarried hill.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://censimentoarchitetturecontemporanee.cultura.gov.it/scheda-opera?id=507",
+   "https://archidiap.com/opera/casa-baldi/",
+   "https://www.casalgrandepadana.com/media/filer_public/ce/2f/ce2ff374-20b1-4cde-989f-2a74494501fe/cp_gp_casabaldi_cartella_stampa_en.pdf",
+   "https://www.wallpaper.com/architecture/paolo-portoghesi-architecture-icon-italy"
+  ],
+  "note": "No Commons photo (Category:Casa Baldi (Olevano Romano) is a different building). Sources confirm curved tufa walls and a flat roof, and a level added in 1971, but the arrangement of walls and roof planes can't be fixed from text alone; an elevation would also hide the curves. Needs a plan or photo to draw."
+ },
+ {
+  "id": "casa-giuliani-frigerio",
+  "name": "Casa Giuliani-Frigerio",
+  "by": "Giuseppe Terragni",
+  "city": "Como",
+  "cc": "IT",
+  "year": "1940",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "Every facade is composed differently, balcony planes projecting before recessed windows; Terragni's last building.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archweb.com/en/architetture/casa-giuliani-frigerio/",
+   "https://www.lombardiabeniculturali.it/architetture/schede/3m080-00045/",
+   "https://www.architectsjournal.co.uk/archive/terragni-como",
+   "https://www.koreascience.or.kr/article/JAKO201708642733323.page"
+  ],
+  "note": "No Commons photo found, though Terragni died in 1943 so photos would be free in Italy; worth asking for an upload. Sources disagree on storey count (four vs five) and the four facades differ in detail, so I didn't draw it."
+ },
+ {
+  "id": "zanussi-offices-porcia",
+  "name": "Zanussi Offices",
+  "by": "Gino Valle",
+  "city": "Porcia",
+  "cc": "IT",
+  "year": "1961",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Section"
+  ],
+  "features": "Exposed-concrete offices forming the factory's edge on the main road, with sloping glass terraces lit from above.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://atlantearchitetturacontemporanea.cultura.gov.it/en/uffici-per-le-industrie-zanussi-a-porcia/",
+   "https://www.archinform.net/projekte/1193.htm",
+   "https://theplanjournal.com/node/545"
+  ],
+  "note": "No Commons photo. Sources give exposed concrete, a long edge along via Pontebbana and sloping glass terraces on the north side, but not enough to fix the section and facade with confidence."
+ },
+ {
+  "id": "villa-ottolenghi",
+  "name": "Villa Ottolenghi",
+  "by": "Carlo Scarpa",
+  "city": "Bardolino",
+  "cc": "IT",
+  "year": "1978",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Stone"
+  ],
+  "features": "A house sunk into the slope above Lake Garda, its walkable roof level with the road, on nine drum columns.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://c20society.org.uk/building-of-the-month/villa-ottolenghi-lake-garda-verona-italy",
+   "https://www.nssmag.com/en/pills/16356/villa-ottolenghi-a-great-house-whose-roof-is-the-sky",
+   "https://archeyes.com/?p=33163"
+  ],
+  "note": "No Commons photo. Mostly buried in the hillside, so an elevation would show little; the U-shaped plan and column layout would need the published drawings. Designed 1974, finished after Scarpa's death (1978)."
+ }
+]

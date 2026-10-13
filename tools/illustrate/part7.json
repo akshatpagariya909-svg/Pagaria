@@ -1,0 +1,515 @@
+[
+ {
+  "name": "Pilotis in a Forest",
+  "by": "Go Hasegawa",
+  "city": "Gunma",
+  "cc": "JP",
+  "year": "2010",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Pilotis",
+   "Landscape",
+   "Timber"
+  ],
+  "features": "Small gabled house lifted high on thin columns, leaving the forest floor as a shaded outdoor room.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "pilotis-in-a-forest"
+ },
+ {
+  "name": "Potato Head Beach Club",
+  "by": "Andra Matin",
+  "city": "Seminyak",
+  "cc": "ID",
+  "year": "2010",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Facade as skin",
+   "Timber"
+  ],
+  "features": "Curved wall clad in hundreds of reclaimed wooden window shutters, wrapping a lawn and pool.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "potato-head-beach-club"
+ },
+ {
+  "name": "Praça do Patriarca Canopy",
+  "by": "Paulo Mendes da Rocha",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "2002",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Structure as expression",
+   "Cantilever"
+  ],
+  "features": "Thin steel canopy hung from a giant portal frame over the entrance to an underground passage.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "praca-do-patriarca-canopy"
+ },
+ {
+  "name": "Quinta da Conceição Tennis Pavilion",
+  "by": "Fernando Távora",
+  "city": "Matosinhos",
+  "cc": "PT",
+  "year": "1960",
+  "type": "Pavilion",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "Small tennis pavilion blending granite piers, timber and a pitched tile roof with an open modern plan.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "quinta-da-conceicao-tennis-pavilion"
+ },
+ {
+  "name": "Ramses Wissa Wassef Art Centre",
+  "by": "Ramses Wissa Wassef",
+  "city": "Harrania",
+  "cc": "EG",
+  "year": "1974",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Vault",
+   "Courtyard"
+  ],
+  "features": "Mud-brick domed and vaulted workshops and houses for weavers, built with Nubian techniques.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "ramses-wissa-wassef-art-centre"
+ },
+ {
+  "name": "Regional Market, Dandaji",
+  "by": "Atelier Masomi, Mariam Kamara, Yasaman Esmaili",
+  "city": "Dandaji",
+  "cc": "NE",
+  "year": "2018",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Reclaimed material",
+   "Colour"
+  ],
+  "features": "Compressed-earth market stalls under steel 'trees' whose coloured metal discs give shade.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "regional-market-dandaji"
+ },
+ {
+  "name": "SOS Children's Village Aqaba",
+  "by": "Jafar Tukan",
+  "city": "Aqaba",
+  "cc": "JO",
+  "year": "1991",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Cluster"
+  ],
+  "features": "Family houses clustered like a small town around shaded courts and lanes in the desert heat.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "sos-children-s-village-aqaba"
+ },
+ {
+  "name": "Saint Peter Chapel, Campos do Jordão",
+  "by": "Paulo Mendes da Rocha",
+  "city": "Campos do Jordão",
+  "cc": "BR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Glass box built around a single central concrete column, entered from a bridge on the hillside.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "saint-peter-chapel-campos-do-jordao"
+ },
+ {
+  "name": "Salam Centre for Cardiac Surgery",
+  "by": "Studio Tamassociati",
+  "city": "Khartoum",
+  "cc": "SD",
+  "year": "2007",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Courtyard",
+   "Planting"
+  ],
+  "features": "Wards around a garden of mango trees, under double roofs, cooled by air drawn through filtering chambers.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "salam-centre-for-cardiac-surgery"
+ },
+ {
+  "name": "San Francisco Federal Building",
+  "by": "Morphosis",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "2007",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "Narrow slab with a perforated steel sunscreen, natural ventilation and skip-stop lifts.",
+  "qid": "Q7414007",
+  "keep": 2,
+  "source": "batch1_nophoto.txt",
+  "id": "san-francisco-federal-building"
+ },
+ {
+  "name": "San Miguel Corporation Building",
+  "by": "Mañosa & Partners",
+  "city": "Mandaluyong",
+  "cc": "PH",
+  "year": "1984",
+  "type": "Office & tower",
+  "movement": "Regionalism",
+  "concepts": [
+   "Planting",
+   "Climate response",
+   "Brise-soleil"
+  ],
+  "features": "Office block wrapped in stepped planted terraces and deep sunshades, a tropical take on the tower.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "san-miguel-corporation-building"
+ },
+ {
+  "name": "Santa Maria da Feira Municipal Market",
+  "by": "Fernando Távora",
+  "city": "Santa Maria da Feira",
+  "cc": "PT",
+  "year": "1959",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "Butterfly-roofed concrete stalls stepping down a sloping site around an open courtyard.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "santa-maria-da-feira-municipal-market"
+ },
+ {
+  "name": "Sevan Writers' Resort",
+  "by": "Gevorg Kochar, Mikael Mazmanyan",
+  "city": "Sevan",
+  "cc": "AM",
+  "year": "1963",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "A dining hall cantilevers off the slope toward Lake Sevan, beside earlier constructivist guest blocks.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "sevan-writers-resort"
+ },
+ {
+  "name": "Sharifi-ha House",
+  "by": "Next Office, Alireza Taghaboni",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "2013",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Timber"
+  ],
+  "features": "Townhouse whose rooms in timber boxes turn outward or inward to open or close the facade.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "sharifi-ha-house"
+ },
+ {
+  "name": "Sheraton Grand Doha",
+  "by": "William Pereira",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "1982",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Double height"
+  ],
+  "features": "Stepped pyramid hotel whose sloping terraces wrap a tall central atrium.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "sheraton-grand-doha"
+ },
+ {
+  "name": "Siamese Towers",
+  "by": "Alejandro Aravena",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2005",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Steel & glass"
+  ],
+  "features": "Glass-skinned tower splitting into two at the top, with a ventilated double skin.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "siamese-towers"
+ },
+ {
+  "name": "Skopje Telecommunications Centre",
+  "by": "Janko Konstantinov",
+  "city": "Skopje",
+  "cc": "MK",
+  "year": "1981",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Cluster"
+  ],
+  "features": "Rhythmic concrete towers with flared crowns above a long podium of postal and service halls.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "skopje-telecommunications-centre"
+ },
+ {
+  "name": "Soulages Museum",
+  "by": "RCR Arquitectes",
+  "city": "Rodez",
+  "cc": "FR",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Cantilever"
+  ],
+  "features": "Row of Corten steel boxes cantilevered from a slope, with gallery light through glazed ends.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "soulages-museum"
+ },
+ {
+  "name": "St. Anna, Düren",
+  "by": "Rudolf Schwarz",
+  "city": "Düren",
+  "cc": "DE",
+  "year": "1956",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Reclaimed material",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "L-shaped church whose walls are built from the rubble stone of the bombed medieval church.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "st-anna-duren"
+ },
+ {
+  "name": "Startup Lions Campus",
+  "by": "Diébédo Francis Kéré",
+  "city": "Turkana",
+  "cc": "KE",
+  "year": "2021",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Stone"
+  ],
+  "features": "Local stone classrooms with tall ventilation towers, inspired by termite mounds, drawing hot air out.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "startup-lions-campus"
+ },
+ {
+  "name": "Surgical Clinic and Health Centre",
+  "by": "Diébédo Francis Kéré",
+  "city": "Léo",
+  "cc": "BF",
+  "year": "2014",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Colour"
+  ],
+  "features": "Compressed earth brick wards under a floating double roof, with coloured windows and shaded courts.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "surgical-clinic-and-health-centre"
+ },
+ {
+  "name": "Swiss National Park Visitor Centre",
+  "by": "Valerio Olgiati",
+  "city": "Zernez",
+  "cc": "CH",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Circulation"
+  ],
+  "features": "Two interlocking white concrete cubes with identical windows and a looping stair between them.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "swiss-national-park-visitor-centre"
+ },
+ {
+  "name": "Tanikawa House",
+  "by": "Kazuo Shinohara",
+  "city": "Naganohara",
+  "cc": "JP",
+  "year": "1974",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Earth & local material",
+   "Timber",
+   "Void"
+  ],
+  "features": "Summer house with a raw sloping earth floor in a tall timber hall under a steep roof.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "tanikawa-house"
+ },
+ {
+  "name": "Teletón Children's Rehabilitation Centre",
+  "by": "Solano Benítez",
+  "city": "Asunción",
+  "cc": "PY",
+  "year": "2010",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Low cost",
+   "Light & shadow"
+  ],
+  "features": "Prefabricated triangular panels of brick lattice fold into screens and spans that filter light.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "teleton-children-s-rehabilitation-centre"
+ },
+ {
+  "name": "Termas Geométricas",
+  "by": "Germán del Sol",
+  "city": "Coñaripe",
+  "cc": "CL",
+  "year": "2004",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Water"
+  ],
+  "features": "A red timber walkway threads along a forested ravine, linking a chain of hot-spring pools and huts.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "termas-geometricas"
+ },
+ {
+  "name": "Thammasat University Rooftop Farm",
+  "by": "LANDPROCESS",
+  "city": "Pathum Thani",
+  "cc": "TH",
+  "year": "2019",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Water",
+   "Climate response"
+  ],
+  "features": "A green roof stepped like rice terraces slows stormwater and grows food on top of the building.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "thammasat-university-rooftop-farm"
+ },
+ {
+  "name": "The Hive, Nanyang Technological University",
+  "by": "Heatherwick Studio",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Exposed concrete",
+   "Cluster"
+  ],
+  "features": "Cluster of rounded towers of tutorial rooms around a central atrium, in textured concrete.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "the-hive-nanyang-technological-university"
+ }
+]

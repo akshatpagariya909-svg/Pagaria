@@ -1,0 +1,470 @@
+[
+ {
+  "id": "french-embassy-in-seoul",
+  "name": "French Embassy in Seoul",
+  "status": "unsure",
+  "commons_category": "Category:Embassy of France, Seoul",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.koreaherald.com/article/3177528",
+   "https://english.seoul.go.kr/38-french-embassy-seoul/",
+   "https://www.koreajoongangdaily.com/korea/french-embassy-to-be-renovated-by-koreans/10817302"
+  ],
+  "note": "No free photo of the 1962 buildings on Commons (the category holds only c.1900 legation pictures). Sources confirm a curved concrete roof separated from the body, upturned like hanok eaves, on pilotis, with a 6 m cantilevered eave on four columns, but I could not see any image to fix the storeys, the roof silhouette or the body below, and the roof was altered over the years and restored in the 2023 renovation (Mass Studies / Sathy). Too uncertain to draw."
+ },
+ {
+  "id": "friendship-hospital-satkhira",
+  "name": "Friendship Hospital Satkhira",
+  "status": "photo",
+  "commons_category": "Category:Friendship Hospital Shyamnagar",
+  "photos": [
+   {
+    "file": "File:FS Hospital Shyamnagar 2024 03.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:FS Hospital Shyamnagar 2024 04.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "The hospital is in Shyamnagar, Satkhira district; Commons category holds 29 photos of it (2024), all by one uploader under CC BY-SA 4.0. Pick the best exteriors from the category."
+ },
+ {
+  "id": "gheskio-cholera-treatment-center",
+  "name": "GHESKIO Cholera Treatment Center",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://massdesigngroup.org/work/design/gheskio-cholera-treatment-center",
+   "https://www.domusweb.it/en/architecture/2015/10/22/mass_design_group_lo_fab_african_bauhaus.amp.html",
+   "https://cooperhewitt.org/?p=41340"
+  ],
+  "note": "No free photo on Commons (only 2010 earthquake-relief photos of the older GHESKIO compound). Sources disagree on the roof (clerestory roof vs folded roof funnelling water) and structure (concrete vs earth blocks), and I could not see an image. Note for the data: sources describe the perforated screen as handmade METAL panels (thousands of hand-bent apertures), not brick as our features line says."
+ },
+ {
+  "id": "grand-parc-bordeaux-transformation",
+  "name": "Grand Parc Bordeaux Transformation",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "simple oblique view of a 10-storey slab: the added layer of winter gardens and balconies (open floor slabs, 3.8 m deep) stacked across the long facade, with the original block's solid end wall behind",
+  "sources": [
+   "https://lacatonvassal.com/index.php?idp=80",
+   "https://www.architectmagazine.com/project-gallery/transformation-of-g-h-i-buildings-grand-parc-2_o/",
+   "https://metalocus.es/en/news/transformation-530-dwellings-block-g-h-i-lacaton-vassal-frederic-druot-and-christophe-hutin"
+  ],
+  "note": "No free photo of the transformed blocks on Commons (French freedom-of-panorama; the many CC BY 2.0 files named Grand Parc - Bordeaux (80122...) date from September 2012, before the works, and sit in Category:Parc Rivière (Bordeaux)). Oblique view used because a flat elevation only showed a grid and lost the idea of the added 3.8 m layer. Sources give 3 blocks (G, H, I) of 10 to 15 floors and 530 flats; the drawing shows 10 floors, but the bay count and the length are schematic, not from a source."
+ },
+ {
+  "id": "halawa-house",
+  "name": "Halawa House",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Halawa_House",
+   "https://archnet.org/sites/56",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/halawa-house"
+  ],
+  "note": "No free photo or drawing on Commons. Sources list the parts (courtyard with fountain, loggia, wind catch, belvedere, domes, vaults, brick arches, limestone walls) but none describes how they are arranged in elevation, and I could not see an image."
+ },
+ {
+  "id": "heritance-ahungalla",
+  "name": "Heritance Ahungalla",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Heritance Ahungalla.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Sri Lanka,Heritance Ahungalla - 26156457633.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Sri Lanka,Heritance Ahungalla - 26693135131.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Sri Lanka,Heritance Ahungalla - 26666410702.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No dedicated category; files sit in Category:Hotels in Southern Province, Sri Lanka. File:Heritance Ahungalla.jpg (3008px) shows the lobby columns framing the infinity pool and sea, the defining view."
+ },
+ {
+  "id": "hotakubo-housing",
+  "name": "Hotakubo Housing",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:熊本県営保田窪第一団地 03.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "One large free photo (3648px, the housing block seen from the courtyard side). File:Kumamoto-prefecture hotakubo daiichi public housing 1.jpg is CC BY-SA 3.0 but only 800px. Both are in Category:Buildings in Chuo-ku, Kumamoto."
+ },
+ {
+  "id": "house-atelier-bow-wow",
+  "name": "House & Atelier Bow-Wow",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.archiweb.cz/en/b/dum-atelier-bow-wow",
+   "https://backnumber.japan-architect.co.jp/english/2maga/ja/ja0066/works/066.html"
+  ],
+  "note": "No free photo on Commons (File:Atelier bow-wow, sectional model of house tower... is a different project, House Tower). Sources give 1 basement + 3 storeys + penthouse, max height 9.94 m, an exterior wall inclined by setback rules and granule-faced asphalt cladding, on a hidden flag-shaped plot, but nothing fixes the silhouette or window positions."
+ },
+ {
+  "id": "house-for-trees",
+  "name": "House for Trees",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.designboom.com/architecture/vo-trong-nghia-architects-house-for-trees-vietnam-06-19-2014/",
+   "https://www.metalocus.es/en/news/house-trees-vo-trong-nghia-architects"
+  ],
+  "note": "No free photo on Commons. Five bamboo-formed concrete boxes with trees on their roofs round a courtyard, linked by steel bridges, but no source gives their heights or storeys, and the defining element (the rooftop trees) cannot be drawn under the no-trees rule. Owner may want to decide whether small tree outlines are allowed here."
+ },
+ {
+  "id": "house-in-uehara",
+  "name": "House in Uehara",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://architecture-tokyo.com/2016/09/16/1976-house-in-uehara-kazuo-shinohara/",
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_08_119-0"
+  ],
+  "note": "No free photo on Commons. Sources conflict on the exterior: one describes a flat beamless slab roof, another a third-floor semicircular vault added later. Could not see an image, so the silhouette is not established."
+ },
+ {
+  "id": "house-in-white",
+  "name": "House in White",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "front elevation: white walls on a 10 m square plan under a tiled pyramidal (hogyo) roof",
+  "sources": [
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_08_105-2",
+   "https://www.arch.titech.ac.jp/toukakai/TokyoTech/2021-01.html",
+   "https://casabella-japan-test.asj-net.com/pdf/tachiyomi_895.pdf"
+  ],
+  "note": "No free photo on Commons. Sources confirm a square plan about 10 m a side, white walls and a tiled pyramidal roof whose apex the central cedar column reaches. The drawing shows only that massing: the roof pitch (about 35 degrees) and wall height are estimated, and windows and doors are left out because no source places them. The house was later relocated."
+ },
+ {
+  "id": "hu-huishan-memorial",
+  "name": "Hu Huishan Memorial",
+  "status": "photo",
+  "commons_category": "Category:Hu Huishan Memorial Museum",
+  "photos": [
+   {
+    "file": "File:Hu Huishan Memorial Museum on May, 3 2020 02.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hu Huishan Memorial Museum on May, 3 2020 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Checked the 02 file visually: it shows the gabled concrete-rendered hut with its steel door among bamboo."
+ },
+ {
+  "id": "hukuru-miskiy",
+  "name": "Hukuru Miskiy",
+  "status": "photo",
+  "commons_category": "Category:Malé Friday Mosque",
+  "photos": [
+   {
+    "file": "File:Male' Hukuru Miskiy 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Male' Hukuru Miskiy 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Male' Hukuru Miskiy 3.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Male' Hukuru Miskiy 4.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:MV-freitagsmoschee.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Large category (80+ files) including interior views of the carved timber prayer hall (Male' Hukuru Miskiy Innen ...)."
+ },
+ {
+  "id": "hyogo-children-s-museum",
+  "name": "Hyogo Children's Museum",
+  "status": "photo",
+  "commons_category": "Category:Hyogo Children's Center",
+  "photos": [
+   {
+    "file": "File:兵庫県立こどもの館・本館.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:兵庫県立こどもの館・工作館.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": "front elevation of the Workshop pavilion (kosakukan): two-storey concrete block with glazing and a recessed balcony, a taller concrete box, and the free-standing concrete frame wall with its square opening that the raised connecting path passes through",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E9%A4%A8%E3%83%BB%E5%B7%A5%E4%BD%9C%E9%A4%A8.JPG",
+   "https://commons.wikimedia.org/wiki/File:%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E9%A4%A8%E3%83%BB%E6%9C%AC%E9%A4%A8.JPG"
+  ],
+  "note": "The Commons category has two free photos (CC BY-SA 3.0, 2006) but both are under 1200px: File:兵庫県立こどもの館・工作館.JPG (904x678, the Workshop) and File:兵庫県立こどもの館・本館.JPG (1070x803, the main building over water). The owner may still prefer one of them. The drawing is traced from the Workshop photo, which is oblique, so the frame wall's width and its square opening are estimated. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
+ },
+ {
+  "id": "institute-of-foreign-languages",
+  "name": "Institute of Foreign Languages",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Institute of Foreign Languages.jpg",
+    "license": "Public domain (VOA)"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "5760px VOA photo, checked visually: shows the folded concrete fins of the main building. In Category:Architecture of Cambodia; no dedicated category."
+ },
+ {
+  "id": "issam-fares-institute",
+  "name": "Issam Fares Institute",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Issam_Fares_Institute_for_Public_Policy_and_International_Affairs",
+   "https://www.dezeen.com/?p=474861",
+   "https://www.akdn.org/architecture/project/issam-fares-institute-public-policy-and-international-affairs"
+  ],
+  "note": "No free photo on Commons. Facts known: fair-faced concrete, 6 floors, max height 22 m, 21 m cantilever over a public plaza, site falls 7 m. But its angular interlocking geometry cannot be reconstructed from text, and a wrong Zaha Hadid outline would mislead."
+ },
+ {
+  "id": "jameel-arts-centre",
+  "name": "Jameel Arts Centre",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.dezeen.com/2018/11/15/jameel-arts-centre-dubai-serie-architects-uae/",
+   "https://artjameel.org/wp-content/uploads/2017/02/Jameel-Arts-Centre-Building-and-Programming-Fact-Sheet-English.pdf",
+   "https://jameelartscentre.org/about/architecture-gardens/"
+  ],
+  "note": "No free photo on Commons. Known: two clusters of white aluminium-clad boxes of varying sizes, up to three storeys, bound by a one-storey colonnade round seven desert-garden courts, 130 x 60 m, on the Jaddaf waterfront. The heights and order of the boxes along the creek are not described, and I could not see an image."
+ },
+ {
+  "id": "jeevan-bharati-building",
+  "name": "Jeevan Bharati Building",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Jeevan Bharati building at Connaught Place, New Delhi.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "2048px. In Category:Buildings designed by Charles Correa and Category:Life Insurance Corporation of India."
+ },
+ {
+  "id": "jetwing-lighthouse",
+  "name": "Jetwing Lighthouse",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jetwing Lighthouse - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": "seaward elevation of the main restaurant wing: two storeys under a tiled hipped roof, ground-floor colonnade, upper floor of windows between piers, lower open-verandah wing to the right, on the terrace above the rocky headland",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Jetwing_Lighthouse_-_panoramio.jpg"
+  ],
+  "note": "Only free photos are small: File:Jetwing Lighthouse - panoramio.jpg (1024x706, CC BY-SA 3.0, Category:Hotels in Galle) and File:Ocean view from Galle Light House Hotel, Sri Lanka.jpg (1024x681, CC BY 2.0, a view from the hotel). Both are under the 1200px rule; the owner may still want the panoramio one. The drawing is traced in elevation from that photo; bay and column counts follow it. The spiral stair with the battle sculpture is inside and not shown. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
+ },
+ {
+  "id": "julio-herrera-y-obes-port-warehouse",
+  "name": "Julio Herrera y Obes Port Warehouse",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eladio_Dieste",
+   "https://www.pure.ed.ac.uk/ws/files/4959198/Pedreschi_Theodossopoulos_ICE_stbu160_003.pdf",
+   "https://experts.umn.edu/en/publications/a-church-a-silo-and-a-warehouse-eladio-diestes-gaussian-vaults-an/"
+  ],
+  "note": "No free photo on Commons. Known: roof of 14 Gaussian vaults spanning just under 50 m, left discontinuous at their edges for light and air (1977-79). The walls, supports and overall length are not described, so only a generic Dieste vault could be drawn, which would not be this building."
+ },
+ {
+  "id": "kait-plaza",
+  "name": "KAIT Plaza",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://en.kait.jp/facilities/kait-plaza.html",
+   "https://www.dezeen.com/?p=1611575",
+   "https://www.architecturalrecord.com/articles/15064-the-plaza-at-kanagawa-institute-of-technology-by-junya-ishigami-associates"
+  ],
+  "note": "No free photo on Commons (File:KAIT Workshop Junya Ishigami external view.JPG is the neighbouring 2008 Workshop, a different building). Known: 12 mm steel-plate roof spanning about 90 m over an 82 x 55 m bowl floor that drops 5 m, ceiling 2.2-2.8 m, 59 roof openings, perforated white steel walls, partly sunk into the site. The outside height of the roof edge is not published, and at true scale an elevation is only a thin low wall; the idea needs a section, which I could not check against an image."
+ },
+ {
+  "id": "kahere-eila-poultry-farming-school",
+  "name": "Kahere Eila Poultry Farming School",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "No free photo on Commons, and searches found no description of the building form (only the general earth-block walls, timber screens and light roofs in our features line). Not enough to draw."
+ },
+ {
+  "id": "kampung-kali-code",
+  "name": "Kampung Kali Code",
+  "status": "unsure",
+  "commons_category": "Category:Kali Code",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "Commons has free photos of riverside houses on the Code River (e.g. File:Yogyakarta Indonesia Houses-at-Kali-Code-01.jpg, CC BY-SA 3.0, 5130px), but none is identified as Mangunwijaya's settlement (Kampung Code Utara by the Gondolayu bridge), and the ones I viewed show ordinary brick houses, so I did not count them. No source describes the settlement's form well enough to draw."
+ },
+ {
+  "id": "kasungu-maternity-waiting-village",
+  "name": "Kasungu Maternity Waiting Village",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://massdesigngroup.org/work/design/maternity-waiting-village",
+   "https://www.architecturalrecord.com/articles/11775-kasungu-maternity-waiting-village-by-mass-design-group"
+  ],
+  "note": "No free photo on Commons. Sources describe four-bed units in clusters round courtyards, earth-block walls with buttressed columns, and paired saltbox and butterfly roofs, but not how the roofs sit together in elevation, and I could not see an image."
+ },
+ {
+  "id": "kyungdong-presbyterian-church",
+  "name": "Kyungdong Presbyterian Church",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kyungdong Presbyterian Church.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "1600x1067 exterior, in Category:Buildings by Kim Swoo-geun. File:Kyungdong church.jpg (interior, CC BY 3.0) is only 600x900."
+ },
+ {
+  "id": "la-collina-omihachiman",
+  "name": "La Collina Omihachiman",
+  "status": "photo",
+  "commons_category": "Category:La Collina OMIHACHIMAN",
+  "photos": [
+   {
+    "file": "File:La Collina OMIHACHIMAN 01.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:La Collina Omihachiman 20200918.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:La Collina Omihachiman 20220227.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": ""
+ },
+ {
+  "id": "la-lira-theatre-public-space",
+  "name": "La Lira Theatre Public Space",
+  "status": "photo",
+  "commons_category": "Category:Espai i passera de vianants de La Lira",
+  "photos": [
+   {
+    "file": "File:068 Espai la Lira (Ripoll), des de la passera sobre el Ter.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:072 Espai la Lira, c. Mossèn Cinto Verdaguer (Ripoll).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Palanca i plaça de la Lira.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [],
+  "note": "File 073 carries political-symbol categories (yellow ribbons); prefer 068 or 072."
+ }
+]
