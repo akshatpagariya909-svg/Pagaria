@@ -270,5 +270,194 @@
    "https://aeworldmap.com/2018/09/21/matsumoto-performing-arts-center-matsumoto-japan/"
   ],
   "note": "Main hall 1,800 seats, small hall 240. Structural engineer Mutsuro Sasaki."
+ },
+ {
+  "id": "mikimoto-ginza-2",
+  "name": "Mikimoto Ginza 2",
+  "by": "Toyo Ito",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2005",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Pale pink walls of concrete poured between steel plates carry the floors; irregular windows are cut at random.",
+  "award": "Japanese contemporary: Toyo Ito",
+  "status": "photo",
+  "commons_category": "Category:Mikimoto Ginza 2",
+  "photos": [
+   {
+    "file": "File:Tokyo116 (7294792500).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true,
+    "size": "2790x1993"
+   },
+   {
+    "file": "File:Mikimoto Ginza2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1536x2048"
+   },
+   {
+    "file": "File:Le magasin Mikimoto Ginza 2 (Tokyo, Japon) (28834570578).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "1383x1600"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archiweb.cz/en/b/mikimoto-ginza-2",
+   "https://domusweb.it/en/architecture/2006/03/01/glass-boulder-tower.html",
+   "https://backnumber.japan-architect.co.jp/english/2maga/ja/ja0064/work/03.html"
+  ],
+  "note": "Column-free: the four thin steel-and-concrete walls form the structure (engineer Mutsuro Sasaki)."
+ },
+ {
+  "id": "museum-of-modern-art-saitama",
+  "name": "Museum of Modern Art, Saitama",
+  "by": "Kisho Kurokawa",
+  "city": "Saitama",
+  "cc": "JP",
+  "year": "1982",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "A glass entrance hall set inside a deep concrete grid frame, opening the museum into Kitaurawa Park.",
+  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "status": "photo",
+  "commons_category": "Category:Museum of Modern Art, Saitama",
+  "photos": [
+   {
+    "file": "File:The Museum of Modern Art, Saitama.jpg",
+    "license": "CC BY 2.5",
+    "seen": true,
+    "size": "3264x2448"
+   },
+   {
+    "file": "File:Museum of Modern Art Saitama 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2239x1686"
+   },
+   {
+    "file": "File:埼玉県立近代美術館 - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true,
+    "size": "4224x2376"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://tokyofox.net/2021/04/24/tokyo-daytripper-the-modern-art-museum-where-the-best-bits-are-all-external/",
+   "https://www.japan.travel/en/au/travellers-blog/visiting-the-museum-of-modern-art-saitama-momas-and-kita-urawa-park-1/",
+   "https://en.wikipedia.org/wiki/Museum_of_Modern_Art,_Saitama"
+  ],
+  "note": "Kurokawa's first art museum; opened November 1982. Known as MOMAS."
+ },
+ {
+  "id": "nagoya-city-art-museum",
+  "name": "Nagoya City Art Museum",
+  "by": "Kisho Kurokawa",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": "1987",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Axis",
+   "Landscape",
+   "Light from above"
+  ],
+  "features": "Kept below the height of the park's trees; galleries lie underground, lit by a sunken garden.",
+  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "status": "photo",
+  "commons_category": "Category:Nagoya City Art Museum",
+  "photos": [
+   {
+    "file": "File:Nagoya City Art Museum ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "6016x4000"
+   },
+   {
+    "file": "File:Nagoya City Art Museum (2025) - 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5712x4284"
+   },
+   {
+    "file": "File:Nagoya City Art Museum 01, Sakae Naka Ward Nagoya 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1500x1000"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nagoya_City_Art_Museum"
+  ],
+  "note": "Completed 1987, opened April 1988, in Shirakawa Park. Plan set on a north-south main axis; Kurokawa drew on traditional Japanese forms and local motifs."
+ },
+ {
+  "id": "national-museum-of-modern-art-kyoto",
+  "name": "National Museum of Modern Art, Kyoto",
+  "by": "Fumihiko Maki",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": "1986",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "Granite and glass facade ruled by a 1.5 m grid, with glazed corner stair towers, facing Okazaki Park.",
+  "award": "Japanese contemporary: Fumihiko Maki",
+  "status": "photo",
+  "commons_category": "Category:National Museum of Modern Art, Kyoto",
+  "photos": [
+   {
+    "file": "File:National Museum of Modern Art Kyoto 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2296x1838"
+   },
+   {
+    "file": "File:The National Museum of Modern Art, Kyoto.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "5184x3456"
+   },
+   {
+    "file": "File:National Museum of Modern Art (Kyoto Sakyo-ku) hdsr S5 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "5263x3951"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Modern_Art,_Kyoto",
+   "https://www.maki-and-associates.co.jp/projects/KKB?lang=en"
+  ],
+  "note": null
  }
 ]
