@@ -145,5 +145,135 @@
   "author": "Ingwe Ndlovu",
   "evidence": "https://commons.wikimedia.org/wiki/File:Alexander_Cvijanović.jpg",
   "note": "1189x1587, 'Alexander Cvijanović in 2009', category 20th-century architects, caption 'Yugoslav/American architect' (Gropius's Bauhaus-Archiv collaborator). Page text does not state number of people; reviewer eyeball. Alternative: File:Alex Cvijanović.jpg (1859x2479, CC BY-SA 4.0, 'in 1970', category only 'Cvijanović (surname)' so weaker evidence)."
+ },
+ {
+  "name": "Alexander Popp",
+  "status": "none",
+  "note": "Commons search 'Alexander Popp' (+architect) only Vienna/Linz buildings; Category:Alexander Popp 3 files all buildings; en wiki page has no image."
+ },
+ {
+  "name": "Alexandre Chan",
+  "status": "none",
+  "note": "Commons search (+architect) only 2 bridge photos; Category missing; en wiki infobox image is Juscelino Kubitschek bridge (building)."
+ },
+ {
+  "name": "Alexandros Tombazis",
+  "status": "none",
+  "note": "Commons search (+architect, +portrait) only Fatima basilica photos and unrelated 19th-c. Tombazis people; Category:Alexandros Tombazis 0 files (1 subcat); en wiki page no image."
+ },
+ {
+  "name": "Alfons Linster",
+  "status": "none",
+  "note": "Commons search 0 hits; Category missing; en wiki page missing."
+ },
+ {
+  "name": "Ali Sardar Afkhami",
+  "status": "none",
+  "note": "Commons search only 2 Tehran City Theater photos; Category missing; en wiki page missing."
+ },
+ {
+  "name": "Allmann Sattler Wappner",
+  "status": "firm",
+  "note": "firm/partnership"
+ },
+ {
+  "name": "Altuğ Çinici",
+  "status": "none",
+  "note": "Commons search 'Altuğ Çinici' / 'Altug Cinici architect' 0 hits; Category missing (brother's Category:Behruz Çinici has 1 file, not him); en wiki page exists without image."
+ },
+ {
+  "name": "Andrade Morettin Arquitetos",
+  "status": "firm",
+  "note": "firm/partnership"
+ },
+ {
+  "name": "Andre Dunoyer de Segonzac",
+  "status": "none",
+  "note": "Commons search found only plaque, grave, and a painting-show photo; Category:André Dunoyer de Segonzac 3 files (grave, plaque, Armory Show), none a portrait; en wiki no image. He is a painter."
+ },
+ {
+  "name": "Andre Polak",
+  "status": "none",
+  "note": "Commons search (+architect) only Brussels buildings (Tour Trieste, Breydel) and unrelated people; Category:André Polak 1 file (a boulevard photo); en wiki page missing."
+ },
+ {
+  "name": "Andrea Morgante",
+  "status": "none",
+  "note": "Candidate File:Andrea Morgante, farewell for Jan Kaplický, 1.jpg: nothing confirms this Andrea Morgante is the architect; not accepted."
+ },
+ {
+  "name": "André Bloc",
+  "status": "none",
+  "note": "Commons search and Category:André Bloc (8 files): only sculptures, chair, Laberinto house, house in Meudon; en wiki no image."
+ },
+ {
+  "name": "André Godard",
+  "status": "none",
+  "note": "Commons search 'André Godard' architect: only Tomb of Hafez photos; Category:André Godard 0 files (subcat Buildings by André Godard); en wiki no image."
+ },
+ {
+  "name": "Annibale Vitellozzi",
+  "status": "none",
+  "note": "Commons search only Rome Termini / Palazzetto dello Sport buildings; Category 0 files (4 building subcats); en wiki no image."
+ },
+ {
+  "name": "Antoni Bonet i Castellana",
+  "status": "none",
+  "note": "Commons search ('Antonio Bonet' Castellana architect) only buildings; Category 6 files all buildings; en wiki no image."
+ },
+ {
+  "name": "Antoni Hajdecki",
+  "status": "none",
+  "note": "Commons search and Category (9 files): only sculptures, monuments and mosaics; en wiki page missing."
+ },
+ {
+  "name": "Antonin Raymond",
+  "status": "found",
+  "wikidata": "",
+  "file": "File:Antonín Raymond (1888-1976).jpg",
+  "license": "Public domain (PD-anon-70-EU)",
+  "author": "Anonymous",
+  "evidence": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Raymond_(1888-1976).jpg",
+  "note": "337x436, description names him, en.wikipedia infobox image"
+ },
+ {
+  "name": "Antonio Nervi",
+  "status": "none",
+  "note": "Son of Pier Luigi Nervi; no portrait on Commons category (Pier Luigi's portrait is not him)"
+ },
+ {
+  "name": "Antonio Torres Torija",
+  "status": "none",
+  "note": "Commons search only 19th-c. Mexican documents; Category missing; en wiki page missing."
+ },
+ {
+  "name": "Antti-Matti Siikala",
+  "status": "none",
+  "note": "Commons search only Sanomatalo and Kone building photos; Category missing; en wiki page missing."
+ },
+ {
+  "name": "Araldo Cossutta",
+  "status": "none",
+  "note": "Commons search and Category:Araldo Cossutta (9 files): only Boston/Washington/Denver buildings; en wiki no image."
+ },
+ {
+  "name": "Archea Associati",
+  "status": "firm",
+  "note": "firm/partnership"
+ },
+ {
+  "name": "Arif Masoud",
+  "status": "none",
+  "note": "Commons search 0 hits; Category:Arif Masoud 0 files (1 subcat); en wiki page missing."
+ },
+ {
+  "name": "Armand Bartos",
+  "status": "none",
+  "note": "Commons search only Yeshiva University buildings and unrelated items; Category missing; en wiki page exists, no image."
+ },
+ {
+  "name": "Arpád Tesár",
+  "status": "none",
+  "note": "Commons search (Tesár architect and name variants) only Bratislava SNP bridge photos and Heinz Tesar's Essl Museum (different person); Category missing; en wiki page missing."
  }
 ]
