@@ -454,5 +454,103 @@
    "https://exhibits.ced.berkeley.edu/exhibits/show/finished-unfinished/a-plan-elevated"
   ],
   "note": "Wikipedia (CED article): Esherick, DeMars and Olsen, opened 1964, renamed Bauer Wurster Hall in 2020. UC Berkeley Capital Strategies: raw concrete (béton brut), a tower and a courtyard were early requirements, 592 sunshades in all, inspired by Le Corbusier brise-soleil. Replaced \"long wings ... deep concrete sunshades\" with sourced wording."
+ },
+ {
+  "id": "hygiene-institute-berlin",
+  "verdict": "fixed",
+  "features": "Sculptural concrete research and teaching building, listed as a key work of organic and brutalist post-war modernism.",
+  "sources": [
+   "https://www.berlin.de/landesdenkmalamt/aktuelles/kurzmeldungen/2021/institut-fuer-hygiene-und-mikrobiologie-unter-denkmalschutz-1042186.php",
+   "https://www.berlin.de/sen/kultgz/aktuelles/pressemitteilungen/2021/pressemitteilung.1042307.php",
+   "https://www.archinform.net/arch/2738.htm"
+  ],
+  "note": "Landesdenkmalamt Berlin (via search): Hermann Fehling and Daniel Gogel, 1969-74 for the Free University, listed Jan 2021; expressive sculptural forms, deliberately showcased concrete, \"important contribution to organic and brutalist post-war modernism\"; across the Teltow Canal from the Mäusebunker. Archinform gives 1966-74. \"Curving wings, outside stairs, lecture hall wedge\" were from photos and not found in a source, so removed."
+ },
+ {
+  "id": "athenee-francais-tokyo",
+  "verdict": "fixed",
+  "features": "French-language school in sculptural concrete, its walls painted a pink Yoshizaka called \"sunset over the Andes\".",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://visit-chiyoda.tokyo/app/spot/detail/546",
+   "https://www.bunka.go.jp/nama/global/eng/archivalcollections/yosizaka/index.html",
+   "https://tokyoartbeat.com/en/events/-/2022%2Ftakamasa-yosizaka"
+  ],
+  "note": "Wikipedia works list: 1962 Athénée Français; AIJ Prize confirmed (designboom/MOT). The national archive dates the project 1960-81 because of later additions, so 1962 is the first building. Chiyoda tourism page: the pink walls were painted to Yoshizaka colour named \"sunset sinking into the Andes\". \"Deep purple\" and \"small openings\" not found in a source, so removed."
+ },
+ {
+  "id": "national-museum-of-japanese-history",
+  "verdict": "fixed",
+  "features": "Long, low national history museum on the former grounds of Sakura Castle, where the old moat survives.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Japanese_History",
+   "https://kotobank.jp/word/%E8%8A%A6%E5%8E%9F%E7%BE%A9%E4%BF%A1-175943",
+   "https://jal.japantravel.com/chiba/national-museum-of-japanese-history/63743",
+   "https://ashihara.jp/da/html/intr0201e.htm"
+  ],
+  "note": "Ashihara confirmed (Kotobank: his 1984 Japan Art Academy Prize was for this building; Japan Travel). Wikipedia: founded 1981, opened 1983. Year 1980 rests only on Ashihara office page (unreachable here); if the wall uses opening years, use 1983. Japan Travel: on the former Sakura Castle grounds, only the moat and a bridge survive. Brick forecourt and vaulted canopy not found in a source, so removed; \"long, low\" is what the photos show."
+ },
+ {
+  "id": "united-nations-university",
+  "verdict": "fixed",
+  "features": "Symmetrical tower that steps in as it rises, set back from Aoyama-dori behind a front plaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_Nations_University",
+   "https://whereintokyo.com/venues/25650.html",
+   "https://unu.edu/conversation-series/unu-headquarters-building-iconic-architecture-reflection-international"
+  ],
+  "note": "Wikipedia: designed by Kenzo Tange, handed over 30 June 1992, inaugurated 17 Feb 1993; Where in Tokyo: Kenzo Tange Associates, completed 1992, on Aoyama-dori. No source describing the form was reachable, so this is a cautious line naming only what photos plainly show (symmetry, stepped profile, front plaza); \"ziggurat\" and \"pointed glass top\" dropped."
+ },
+ {
+  "id": "media-tic",
+  "verdict": "ok",
+  "sources": [
+   "https://www.worldconstructionnetwork.com/projects/media-tic",
+   "https://www.onofficemagazine.com/architecture/media-tic-building-by-cloud-9",
+   "https://www.theplan.it/eng/magazine/2010/the-plan-044-09-2010/media-tic"
+  ],
+  "note": "Cloud 9 (Enric Ruiz-Geli), inaugurated September 2010 in 22@Barcelona, ICT offices; steel frame with about 104 inflatable ETFE cushions on the sunny facades that shade the inside (World Construction Network, On Office). \"Cube\" is what photos show."
+ },
+ {
+  "id": "dornbusch-church",
+  "verdict": "fixed",
+  "features": "1960s church partly torn down and closed by a new wall keeping imprints of the old; its footprint is marked outside.",
+  "sources": [
+   "https://www.meixner-schlueter-wendt.de/en/projects/dornbusch-church/",
+   "https://meixner-schlueter-wendt.de/en/profile/",
+   "https://en.wikipedia.org/wiki/Meixner_Schl%C3%BCter_Wendt_Architekten"
+  ],
+  "note": "Architects page: 2005; the open side left by the demolition closed with a new wall of concrete and masonry that keeps the indentations and imprints of the former structure; the footprint of the demolished church marked on the plaza asphalt. \"Folded wall\" not in the source, so reworded."
+ },
+ {
+  "id": "unilever-haus-hamburg",
+  "verdict": "ok",
+  "sources": [
+   "https://behnisch.com/work/unilever-house",
+   "https://fabricarchitecturemag.com/2010/11/01/case-study-1-unileverhaus/",
+   "https://www.baunetzwissen.de/fassade/objekte/buero-verwaltung/unilever-zentrale-in-hamburg-1571241",
+   "https://www.form-tl.de/en/project/folienfassade-unilever-gebaeude-hamburg-d/"
+  ],
+  "note": "Behnisch Architekten, 2009 (competition 2006), on the Elbe in HafenCity; central daylit atrium open to the public at ground level; single-layer ETFE foil outer skin to protect the blinds from strong harbour winds (Fabric Architecture, Baunetz, formTL). Now sourced."
+ },
+ {
+  "id": "max-aicher-arena",
+  "verdict": "fixed",
+  "features": "Hall about 200 m by 90 m with no inner columns, roofing over the old outdoor speed-skating oval.",
+  "sources": [
+   "https://swiss-architects.com/de/behnisch-architekturburo/project/max-aicher-arena",
+   "https://en.wikipedia.org/wiki/Max_Aicher_Arena",
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "note": "Project profile (world-architects network): Behnisch Architekten with Pohl Architekten, planned and built 2008-2011, wide-span hall about 200 x 90 m without interior columns, new roof over the existing outdoor track for the 2011 World Single Distance Championships; WAF 2011 sport winner. Pohl co-credit confirmed. Rooflights and \"flat-arched\" not found in a source, so removed."
+ },
+ {
+  "id": "arena-zagreb",
+  "verdict": "fixed",
+  "features": "Oval arena wrapped in 86 curved white concrete ribs that hold up a cable-hung roof spanning 110 m.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arena_Zagreb"
+  ],
+  "note": "Wikipedia: UPI-2M (with Decathlon, Athens, as consultant), built 20 July 2007 to 15 Dec 2008; 86 massive curved concrete columns form a ribbed exterior like a white oval shell; roof suspended on cables over a 110 m span; WAF 2009 Structural Design of the Year. \"Bend outward at the top\" not stated, so replaced with sourced detail."
  }
 ]
