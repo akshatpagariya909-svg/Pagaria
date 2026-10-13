@@ -1,6 +1,6 @@
 # Books report
 
-450 of 724 books have a cover.
+475 of 776 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -278,6 +278,58 @@
 | Colonial Modern: Aesthetics of the Past, Rebellions for the Future (Tom Avermaete, Serhat Karakayali, Marion von Osten) | no result by this author with this title among 11 results |
 | Landscape as Urbanism: A General Theory (Charles Waldheim) | no result by this author with this title among 7 results |
 | Sustainable Urbanism: Urban Design with Nature (Douglas Farr) | no result by this author with this title among 12 results |
+| Kenzo Tange 1946–1969: Architecture and Urban Design (Udo Kultermann) | no result by this author with this title among 5 results |
+| Ise: Prototype of Japanese Architecture (Kenzo Tange, Noboru Kawazoe) | 2 matching results, none with a cover |
+| Structures and Sketches (Erich Mendelsohn) | 2 matching results, none with a cover |
+| Rural and Urban House Types in North America (Steven Holl) | no result by this author with this title among 0 results |
+| New Structures (Pier Luigi Nervi) | 3 matching results, none with a cover |
+| Marcel Breuer and the American Tradition in Architecture (Henry-Russell Hitchcock) | 1 matching results, none with a cover |
+| Architecture and Design in the Age of Science (Walter Gropius) | 1 matching results, none with a cover |
+| From Metabolism to Symbiosis (Kisho Kurokawa) | 1 matching results, none with a cover |
+| Fundamentals of Japanese Architecture (Bruno Taut) | 3 matching results, none with a cover |
+| James Frazer Stirling: Notes from the Archive (Anthony Vidler) | no result by this author with this title among 2 results |
+| Life and Shape (Richard Neutra) | id 9322381 |
+| Stones Against Diamonds (Lina Bo Bardi) | 1 matching results, none with a cover |
+| The Urban Architecture of McKim, Mead & White, 1870–1910 (Leland M. Roth) | 2 matching results, none with a cover |
+| Alpine Architektur (Bruno Taut) | 2 matching results, none with a cover |
+| Glass Architecture (Paul Scheerbart) | 2 matching results, none with a cover |
+| Le Corbusier: A Life (Nicholas Fox Weber) | no result by this author with this title among 11 results |
+| Louis I. Kahn: In the Realm of Architecture (David B. Brownlee, David G. De Long) | no result by this author with this title among 12 results |
+| What Will Be Has Always Been: The Words of Louis I. Kahn (Richard Saul Wurman) | isbn 0847806065 (loose title match: "What Will Be Has Always Been") |
+| Alvar Aalto: His Life (Göran Schildt) | id 643564 (loose title match: "Alvar Aalto in his own words") |
+| Frank Lloyd Wright: A Biography (Meryle Secrest) | id 4009164 (loose title match: "Frank Lloyd Wright") |
+| Frank Lloyd Wright: Architect (Terence Riley) | id 4704437 (loose title match: "Frank Lloyd Wright") |
+| Richard Neutra and the Search for Modern Architecture (Thomas S. Hines) | id 1265737 |
+| Gaudí: A Biography (Gijs van Hensbergen) | no result by this author with this title among 21 results |
+| Barragán: The Complete Works (Raúl Rispa) | no result by this author with this title among 11 results |
+| Álvaro Siza: Writings on Architecture (Antonio Angelillo) | no result by this author with this title among 12 results |
+| Oscar Niemeyer: Curves of Irreverence (Styliane Philippou) | no result by this author with this title among 11 results |
+| Kengo Kuma: Complete Works (Kengo Kuma) | 1 matching results, none with a cover |
+| Shigeru Ban (Matilda McQuaid) | id 453954 |
+| Architecture in Uniform: Designing and Building for the Second World War (Jean-Louis Cohen) | no result by this author with this title among 4 results |
+| An Architecture for People: The Complete Works of Hassan Fathy (James Steele) | id 623877 |
+| Concepts and Influences: Towards a Regionalized International Architecture (Rifat Chadirji) | no result by this author with this title among 10 results |
+| The Craft of Gardens (Ji Cheng) | id 1161499 |
+| Chinese Spatial Strategies: Imperial Beijing 1420–1911 (Zhu Jianfei) | isbn 9780415318839 (loose title match: "CHINESE SPATIAL STRATEGIES: IMPERIAL BEIJING, 1420-1911") |
+| Indian Temple Architecture: Form and Transformation (Adam Hardy) | id 3842768 (loose title match: "Indian temple architecture") |
+| Site Planning (Kevin Lynch) | id 150177 |
+| Roberto Burle Marx: The Lyrical Landscape (Marta Iris Montero) | id 327232 (loose title match: "Roberto Burle Marx") |
+| The Making of the English Landscape (W. G. Hoskins) | id 7153006 |
+| Landscape and Power (W. J. T. Mitchell) | id 142100 |
+| A Green Vitruvius: Principles and Practice of Sustainable Architectural Design (Gerard Evans) | no result by this author with this title among 3 results |
+| Ecohouse: A Design Guide (Sue Roaf) | no result by this author with this title among 10 results |
+| Perspective Drawing Handbook (Joseph D'Amelio) | id 313985 |
+| What Time Is This Place? (Kevin Lynch) | id 151937 |
+| Planet of Slums (Mike Davis) | id 895519 |
+| Cities Without Ground (Adam Frampton, Jonathan D. Solomon, Clara Wong) | id 7609323 (loose title match: "Cities Without Ground A Hong Kong Guidebook") |
+| Retrofitting Suburbia (Ellen Dunham-Jones, June Williamson) | id 13789996 |
+| Suburban Nation (Andres Duany, Elizabeth Plater-Zyberk, Jeff Speck) | id 656278 |
+| The Geography of Nowhere (James Howard Kunstler) | id 3937285 |
+| Happy City (Charles Montgomery) | id 10435080 |
+| Walkable City (Jeff Speck) | id 7412062 |
+| Streets for People (Bernard Rudofsky) | no result by this author with this title among 11 results |
+| Existence, Space and Architecture (Christian Norberg-Schulz) | id 6498692 |
+| Meaning in Western Architecture (Christian Norberg-Schulz) | no result by this author with this title among 0 results |
 
 ## No cover yet
 
@@ -557,3 +609,30 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - colonial-modern-aesthetics-of-the-past-rebellions-for-the-fu: Colonial Modern: Aesthetics of the Past, Rebellions for the Future (Tom Avermaete, Serhat Karakayali, Marion von Osten)
 - landscape-as-urbanism-a-general-theory: Landscape as Urbanism: A General Theory (Charles Waldheim)
 - sustainable-urbanism-urban-design-with-nature: Sustainable Urbanism: Urban Design with Nature (Douglas Farr)
+- kenzo-tange-19461969-architecture-and-urban-design: Kenzo Tange 1946–1969: Architecture and Urban Design (Udo Kultermann)
+- ise-prototype-of-japanese-architecture: Ise: Prototype of Japanese Architecture (Kenzo Tange, Noboru Kawazoe)
+- structures-and-sketches: Structures and Sketches (Erich Mendelsohn)
+- rural-and-urban-house-types-in-north-america: Rural and Urban House Types in North America (Steven Holl)
+- new-structures: New Structures (Pier Luigi Nervi)
+- marcel-breuer-and-the-american-tradition-in-architecture: Marcel Breuer and the American Tradition in Architecture (Henry-Russell Hitchcock)
+- architecture-and-design-in-the-age-of-science: Architecture and Design in the Age of Science (Walter Gropius)
+- from-metabolism-to-symbiosis: From Metabolism to Symbiosis (Kisho Kurokawa)
+- fundamentals-of-japanese-architecture: Fundamentals of Japanese Architecture (Bruno Taut)
+- james-frazer-stirling-notes-from-the-archive: James Frazer Stirling: Notes from the Archive (Anthony Vidler)
+- stones-against-diamonds: Stones Against Diamonds (Lina Bo Bardi)
+- the-urban-architecture-of-mckim-mead-white-18701910: The Urban Architecture of McKim, Mead & White, 1870–1910 (Leland M. Roth)
+- alpine-architektur: Alpine Architektur (Bruno Taut)
+- glass-architecture: Glass Architecture (Paul Scheerbart)
+- le-corbusier-a-life: Le Corbusier: A Life (Nicholas Fox Weber)
+- louis-i-kahn-in-the-realm-of-architecture: Louis I. Kahn: In the Realm of Architecture (David B. Brownlee, David G. De Long)
+- gaudi-a-biography: Gaudí: A Biography (Gijs van Hensbergen)
+- barragan-the-complete-works: Barragán: The Complete Works (Raúl Rispa)
+- alvaro-siza-writings-on-architecture: Álvaro Siza: Writings on Architecture (Antonio Angelillo)
+- oscar-niemeyer-curves-of-irreverence: Oscar Niemeyer: Curves of Irreverence (Styliane Philippou)
+- kengo-kuma-complete-works: Kengo Kuma: Complete Works (Kengo Kuma)
+- architecture-in-uniform-designing-and-building-for-the-secon: Architecture in Uniform: Designing and Building for the Second World War (Jean-Louis Cohen)
+- concepts-and-influences-towards-a-regionalized-international: Concepts and Influences: Towards a Regionalized International Architecture (Rifat Chadirji)
+- a-green-vitruvius-principles-and-practice-of-sustainable-arc: A Green Vitruvius: Principles and Practice of Sustainable Architectural Design (Gerard Evans)
+- ecohouse-a-design-guide: Ecohouse: A Design Guide (Sue Roaf)
+- streets-for-people: Streets for People (Bernard Rudofsky)
+- meaning-in-western-architecture: Meaning in Western Architecture (Christian Norberg-Schulz)
