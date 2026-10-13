@@ -43,6 +43,14 @@ def load(p, default):
     return json.loads(p.read_text()) if p.exists() else default
 
 
+def dupe_key(title, author):
+    """A looser key for spotting the same book under a slightly different title ("Sun, Wind & Light" and
+    "Sun, Wind, and Light"): the title before any colon, without small words, plus the author's surname.
+    Kept apart from key_of, whose keys are already stored in tools/books_reviewed.json."""
+    t = ' '.join(w for w in fold(re.split(r'[:(]', title or '')[0]) if w not in ('the', 'a', 'an', 'and', 'of', 'to', 'in', 'on', 'for'))
+    return f"{t}|{(fold(author or '') or [''])[-1]}"
+
+
 def first_author(by):
     return re.split(r',| and |\(', by)[0].strip()
 
@@ -76,10 +84,11 @@ def relevant(c):
 def cmd_next(n):
     seed, reviewed = load(SEED, []), set(load(REVIEWED, []))
     have = {key_of(k['title'], first_author(k['by'])) for k in seed}
+    dupes = {dupe_key(k['title'], first_author(k['by'])) for k in seed}
     out = []
     for c in load(CANDS, []):
         k = key_of(c['title'], (c.get('authors') or [''])[0])
-        if k in reviewed or k in have or not relevant(c):
+        if k in reviewed or k in have or dupe_key(c['title'], (c.get('authors') or [''])[0]) in dupes or not relevant(c):
             continue
         out.append({'key': k, 'title': c['title'], 'authors': c.get('authors', [])[:3], 'year': c.get('year'), 'editions': c.get('editions'),
                     'architects': c.get('architects', []), 'buildings': c.get('buildings', []), 'subjects': c.get('subjects', [])[:6],
@@ -95,6 +104,7 @@ def cmd_add(path):
     _, names, ids = wall()
     have_ids = {k['id'] for k in seed}
     have_keys = {key_of(k['title'], first_author(k['by'])) for k in seed}
+    have_dupes = {dupe_key(k['title'], first_author(k['by'])) for k in seed}
     errors, new = [], []
     # An entry may give only "key" plus shelf, tags and why: title, author, year and links come from the candidate.
     index = {}
@@ -127,7 +137,7 @@ def cmd_add(path):
                 errors.append(f'{tag}: no building with id {b!r}')
         if k.get('id') in have_ids or any(x['id'] == k.get('id') for x in new):
             errors.append(f'{tag}: id already used')
-        if key_of(k.get('title', ''), first_author(k.get('by', ''))) in have_keys:
+        if dupe_key(k.get('title', ''), first_author(k.get('by', ''))) in have_dupes or key_of(k.get('title', ''), first_author(k.get('by', ''))) in have_keys:
             errors.append(f'{tag}: already on the shelf')
         try:
             y = int(k.get('y', str(k.get('year', ''))[:4]))

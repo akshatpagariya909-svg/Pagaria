@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| Books on the shelf | 725 |
+| Books on the shelf | 724 |
 | Buildings on the wall with at least one book | 871 of 1603 |
 | Buildings named in a book | 144 |
 | Architects with a book | 202 |
@@ -13,8 +13,8 @@
 - Monographs: 215
 - Theory: 108
 - History: 88
-- Construction: 60
 - Cities: 60
+- Construction: 59
 - Free to read: 43
 - Drawing: 40
 - Landscape: 30
