@@ -26,7 +26,7 @@ BUILDINGS = ROOT / 'site' / 'data' / 'buildings.js'
 SEED = ROOT / 'tools' / 'books_seed.json'
 OUT = ROOT / 'tools' / 'books_candidates.json'
 REPORT = ROOT / 'tools' / 'books_harvest_report.md'
-UA = 'DiscoverArchitecture/1.0 (https://discoverarchitecture.github.io/; books shelf harvest)'
+UA = 'DiscoverArchitecture/1.0 (https://findgreatarchitecture.com/; books shelf harvest)'
 SPARQL = 'https://query.wikidata.org/sparql'
 OL = 'https://openlibrary.org'
 

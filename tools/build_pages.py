@@ -9,13 +9,19 @@ so search engines and link previews see everything. Output:
   site/buildings/index.html        A–Z list of all buildings
   site/og.jpg                      preview image for the home page
   site/sitemap.xml, site/robots.txt
+  site/index.html                  the "About this wall" block between <!-- about:start --> and <!-- about:end -->
+
+Page titles say what the page has in the words students search for (photos, plans & sections, case study):
+"plans & sections" appears only when a verified link leads to drawings. Pages with an entry in
+site/data/summaries.js get an "About" section quoted from Wikipedia. tools/pageviews.json ranks the
+buildings people look up most (Wikipedia pageviews, Oct 2025 to Sep 2026) for the home page's list.
 """
 import html, json, os, random, re, urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / 'site'
-BASE = os.environ.get('SITE_URL', 'https://discoverarchitecture.github.io/')
+BASE = os.environ.get('SITE_URL', 'https://findgreatarchitecture.com/')
 NAME = 'Discover Architecture'
 
 COUNTRY = {
@@ -41,12 +47,18 @@ def at(base, path):
     return path if path.startswith('http') else base + path
 
 
+def read_js(name, var):
+    """A data file that sets window.<var> = {...}; missing file means {}."""
+    path = SITE / 'data' / name
+    return json.loads(path.read_text().split(f'window.{var} = ', 1)[1].rstrip().rstrip(';')) if path.exists() else {}
+
+
 def load():
     text = (SITE / 'data' / 'buildings.js').read_text()
     items = json.loads(text.split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
-    links = SITE / 'data' / 'links.js'  # from tools/find_links.py
-    found = json.loads(links.read_text().split('window.LINKS = ', 1)[1].rstrip().rstrip(';')) if links.exists() else {}
-    return [{**b, **found.get(b['id'], {})} for b in items]
+    found = read_js('links.js', 'LINKS')  # from tools/find_links.py
+    about = read_js('summaries.js', 'SUMMARIES')  # from tools/fetch_summaries.py
+    return [{**b, **found.get(b['id'], {}), **({'about': about[b['id']]} if b['id'] in about else {})} for b in items]
 
 
 def place_full(b):
@@ -56,12 +68,48 @@ def place_full(b):
     return b['place']
 
 
+# Sites whose verified links lead to drawings, so a page may say "plans & sections" in its title.
+DRAWING_SITES = {'WikiArquitectura', 'ArchDaily'}
+
+
+def has_drawings(b):
+    return any(l['site'] in DRAWING_SITES for l in (b.get('links') or []))
+
+
+def offer(b):
+    """What the page gives a student, in the words they search for: only what it really has."""
+    parts = ['photos'] if b.get('images') else []
+    if has_drawings(b):
+        parts.append('plans & sections')
+    return ', '.join(parts)
+
+
+def anonymous(b):
+    return b['by'].lower().startswith('unknown')
+
+
+def title(b):
+    """Villa Savoye — Le Corbusier, 1931: photos, plans & sections for a case study.
+    Searches add the architect, "plan", "section", "photos" and "case study" to a building's name."""
+    who = b['place'].split(',')[0] if anonymous(b) else b['by']
+    what = offer(b)
+    return f"{b['name']} — {who}, {b['year']}: " + (f'{what} for a case study' if what else 'notes for a case study')
+
+
+# How a typology reads in a sentence ("a housing complex in Mumbai"); types not listed read as themselves, lowercased.
+NOUN = {'Culture & sport': 'cultural building', 'Office & tower': 'office building', 'Education': 'campus building',
+        'Housing': 'housing complex', 'Infrastructure': 'structure', 'Civic': 'civic building', 'Religious': 'religious building',
+        'Hospitality': 'hotel or resort', 'Health': 'healthcare building', 'Public space': 'public space', 'Workplace': 'workplace'}
+
+
 def summary(b):
-    who = 'by unknown builders' if b['by'].lower().startswith('unknown') else f"by {b['by']}"
-    noun = b['type'].lower().replace('culture & sport', 'cultural building').replace('office & tower', 'office building')
+    who = 'by unknown builders' if anonymous(b) else f"by {b['by']}"
+    noun = NOUN.get(b['type'], b['type'].lower())
     a = 'an' if noun[0] in 'aeiou' else 'a'
     verb, tail = ('was', f"; it was {GONE[b['id']]}") if b['id'] in GONE else ('is', '')
-    return f"{b['name']} {verb} {a} {noun} in {place_full(b)} {who}, {b['year']}{tail}. Study it for: {b['study'][0].lower()}{b['study'][1:]}"
+    gives = (['free photos with credits'] if b.get('images') else []) + (['links to plans and sections'] if has_drawings(b) else [])
+    extra = ' ' + ', '.join(gives + ['notes for a case study']).capitalize() + '.'
+    return f"{b['name']} {verb} {a} {noun} in {place_full(b)} {who}, {b['year']}{tail}. Key features: {b['study']}{extra}"
 
 
 def related(b, items, n=6):
@@ -143,6 +191,36 @@ FOOT = """<footer class="foot">
 """
 
 
+def about_block(b):
+    """A short description quoted from Wikipedia (tools/fetch_summaries.py), credited and linked. Most pages have none."""
+    a = b.get('about')
+    if not a:
+        return ''
+    paras = ''.join(f'<p>{e(p)}</p>' for p in a['paragraphs'])
+    return (f'<section class="block about"><h2>About {e(b["name"])}</h2>{paras}'
+            f'<p class="src">Shortened from <a href="{e(a["url"])}" rel="noopener">Wikipedia</a>, '
+            f'<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p></section>\n')
+
+
+def home_block(items):
+    """Crawler-readable text for the home page, which is otherwise drawn by JavaScript: what the wall is, and the
+    twenty buildings people look up most (tools/pageviews.json). Written between the about:start/end markers."""
+    pv = json.loads((ROOT / 'tools' / 'pageviews.json').read_text()) if (ROOT / 'tools' / 'pageviews.json').exists() else {}
+    top = sorted((b for b in items if b['id'] in pv), key=lambda b: -pv[b['id']])[:20]
+    places = sorted({COUNTRY.get(b['place'].split(', ')[-1], '') for b in items} - {''})
+    south = [b for b in sorted((b for b in items if b['id'] in pv), key=lambda b: -pv[b['id']]) if b['region'] == 'South Asia'][:10]
+    row = lambda b: f'<li><a href="buildings/{b["id"]}/">{e(b["name"])}</a> <small>{e(b["place"].split(",")[0] if anonymous(b) else b["by"])}</small></li>'
+    return (f'<section class="about-wall" id="about">\n'
+            f'  <h2>About this wall</h2>\n'
+            f'  <p>Discover Architecture is a wall of {TOTAL} buildings for architecture students, from the modern masters to '
+            f'contemporary and parametric work, brutalism and regionalism, with India and South Asia first. Every building has '
+            f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
+            f'Buildings from {len(places)} countries; <a href="buildings/">see all {TOTAL}</a>.</p>\n'
+            f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
+            f'  <h3>Most looked-up in South Asia</h3>\n  <ol>{"".join(row(b) for b in south)}</ol>\n'
+            f'</section>')
+
+
 def building_page(b, items):
     up = '../../'
     url = f"{BASE}buildings/{b['id']}/"
@@ -152,8 +230,11 @@ def building_page(b, items):
     ld = {'@context': 'https://schema.org', '@type': 'LandmarksOrHistoricalBuildings', 'name': b['name'], 'description': desc, 'url': url,
           'address': place_full(b),
           'image': [{'@type': 'ImageObject', 'contentUrl': at(BASE, im['src']), 'creditText': im.get('credit') or '', 'license': im.get('license') or '',
-                     'acquireLicensePage': im.get('source') or ''} for im in ims]}
-    head = HEAD.format(title=e(f"{b['name']}, {b['by']} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
+                     'acquireLicensePage': im.get('source') or ''} for im in ims],
+          'isPartOf': {'@type': 'WebSite', 'name': NAME, 'url': BASE}}
+    if b.get('wiki'):
+        ld['sameAs'] = b['wiki']
+    head = HEAD.format(title=e(f"{title(b)} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
                        ogtitle=e(f"{b['name']} — {b['by']}, {b['year']}"), image=e(og), up=up, wallhash='#' + b['id'],
                        extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
     if ims:
@@ -183,7 +264,7 @@ def building_page(b, items):
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
   </article>
 </main>
-<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u, d in links(b))}</div></section>
+{about_block(b)}<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><span>{e(k)}</span>{e(n)} ↗</a>' for k, n, u, d in links(b))}</div></section>
 <section class="block"><h2>Drift onward</h2><div class="rel">{rel_html}</div></section>
 """
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
@@ -250,6 +331,9 @@ def main():
     items = load()
     TOTAL = f'{len(items):,}'
     CSS_V = fingerprint(SITE / 'pages.css')
+    page = SITE / 'index.html'
+    page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
+                           page.read_text(), flags=re.S))
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']

@@ -14,7 +14,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://discoverarchitecture.github.io/; portrait review)'}
+UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://findgreatarchitecture.com/; portrait review)'}
 
 
 def thumb(title):
