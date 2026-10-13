@@ -17,7 +17,9 @@ Portraits found by hand go in tools/portraits_manual.json ({"name in the by line
 free portrait are listed in tools/portraits_gaps.md, most buildings first.
 
 A firm (Foster + Partners, OMA, SANAA...) shows its founder's portrait, as the owner chose: the
-firms and their founders are in tools/portraits_founders.json.
+firms and their founders are in tools/portraits_founders.json. A free photo of a firm's founders
+together, found by hand, goes in tools/portraits_manual.json under the firm's name and is shown
+before any single founder.
 
 The photos are not copied into the site: the page loads a small thumbnail straight
 from upload.wikimedia.org, like the later buildings' photos.
@@ -174,6 +176,8 @@ def main():
     found, founder_at = {}, {}  # founder_at[building][qid]: where in the by line their firm is named
     for b in buildings:
         for at, f in firms_in(b['by'], founders):
+            if f in manual:  # a photo of the founders together, found by hand: it comes before any single founder
+                founder_at.setdefault(b['id'], {}).setdefault('manual:' + f, at - 0.5)
             for k, n in enumerate(founders[f]):
                 if n in manual:
                     q = 'manual:' + n
