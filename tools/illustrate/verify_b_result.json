@@ -292,5 +292,29 @@
    "https://www.archiweb.cz/en/b/zidovske-centrum-v-mnichove-ohel-jakob-synagogue"
   ],
   "note": "Architects and 2006 (built 2004-2006, inaugurated 9 November 2006) confirmed. Wikipedia: concrete cube clad in travertine below, topped by a glass cube representing the tent of Moses' 40 years in the desert. GKD (the mesh maker) describes a bronze spiral mesh veil around the glass. The Western Wall reading and the star-of-David lattice were not found in any source and were removed."
+ },
+ {
+  "id": "kant-dreieck",
+  "verdict": "fixed",
+  "features": "11-storey tower, a steel cube on a stone base, crowned by a huge sheet-metal 'sail' that turns in the wind.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kant-Dreieck",
+   "https://www.archiweb.cz/en/b/kant-dreieck-kaphag-hochhaus",
+   "https://architectuul.com/architecture/kant-triangle",
+   "https://kleihues.com/kant-triangle-berlin/?lang=en"
+  ],
+  "note": "Kleihues confirmed (Commons Wikidata infobox; 1986 competition win). Year 1994 kept: archiweb gives construction 1992-1994 and the building won the BDA prize in 1994, though Kleihues's own site gives realisation 1992-1995. Architectuul (via search) describes an 11-storey tower, a steel cube on a gneiss stone cube, next to a five-storey triangular glass building; the turning sheet-metal sail ('cock's comb') is confirmed. 'Gridded' and 'triangular plot' were replaced with sourced details."
+ },
+ {
+  "id": "academy-of-arts-pariser-platz",
+  "verdict": "fixed",
+  "features": "An all-glass front on Pariser Platz, defying the square's design rules, opening onto the old academy halls behind.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+   "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
+   "https://www.baunetzwissen.de/fassade/objekte/kultur-bildung/akademie-der-kuenste-in-berlin-70588",
+   "https://berlin.de/mauer/en/sites/other-key-sites/pariser-platz-and-brandenburg-gate/academy-of-the-arts-at-pariser-platz-4-402879.en.php"
+  ],
+  "note": "Behnisch with Werner Durth and 2005 (completed April 2005) confirmed by Baunetz Wissen via search, which also says the glass front broke the site's 'critical reconstruction' design statute and that Ernst von Ihne's old exhibition halls sit behind it. The sources speak of the design statute rather than a stone rule, so 'stone rules' became 'design rules'."
  }
 ]

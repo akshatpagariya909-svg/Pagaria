@@ -178,5 +178,17 @@
    "https://architecturalrecord.com/articles/16555-in-south-london-witherford-watson-mann-offers-a-clever-take-on-the-almshouse-typology"
   ],
   "note": "Wikipedia lists \"2023: Appleby Blue Almshouse, Southwark\" among WWM works; 2025 Stirling Prize. Sources: 57 flats for over-65s, blue-to-brown brick, 40 x 8 m planted courtyard by Grant Associates, walkways on each level overlooking it lined with oak-framed screens."
+ },
+ {
+  "id": "weald-and-downland-gridshell",
+  "verdict": "fixed",
+  "features": "Three-domed lattice of thin green oak laths, shaped like a peanut shell, over a sunken artefact store.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weald_and_Downland_Gridshell",
+   "https://www.building.co.uk/focus/conservation-piece/6601.article",
+   "https://www.burohappold.com/projects/weald-downland-gridshell/",
+   "https://www.ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/the-weald-and-downland-gridshell"
+  ],
+  "note": "Architect, engineer and 2002 confirmed by Wikipedia. Building magazine: three rounded peaks likened to a triple peanut shell; double layer of 50 x 35 mm green oak laths. Buro Happold: workshop on top of a sunken concrete store; ICE calls it an artefact store. Changed \"archive sunk into the chalk slope\" to the sourced wording."
  }
 ]
