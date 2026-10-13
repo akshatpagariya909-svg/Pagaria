@@ -1,6 +1,6 @@
 # Books report
 
-603 of 947 books have a cover.
+665 of 1053 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -323,104 +323,137 @@
 | Biomimicry: Innovation Inspired by Nature (Janine M. Benyus) | no result by this author with this title among 12 results |
 | African Traditional Architecture: An Historical and Geographical Perspective (Susan Denyer) | no result by this author with this title among 2 results |
 | The Chinese House: Craft, Symbol, and the Folk Tradition (Ronald G. Knapp) | no result by this author with this title among 14 results |
-| Structure and Architecture (Angus J. Macdonald) | id 13560269 |
 | John Nash: Architect to King George IV (John Summerson) | 1 matching results, none with a cover |
-| The Art and Architecture of Ancient Egypt (William Stevenson Smith) | id 1161742 |
-| Town Planning in Practice (Raymond Unwin) | id 1911084 |
 | Megalopolis: The Urbanized Northeastern Seaboard of the United States (Jean Gottmann) | 1 matching results, none with a cover |
-| Social Justice and the City (David Harvey) | id 8720427 |
-| Communitas: Means of Livelihood and Ways of Life (Paul Goodman, Percival Goodman) | id 6985882 |
-| The Conscience of the Eye: The Design and Social Life of Cities (Richard Sennett) | id 248647 |
-| The Gothic Cathedral: Origins of Gothic Architecture and the Medieval Concept of Order (Otto von Simson) | id 9285007 |
-| Practice: Architecture, Technique and Representation (Stan Allen) | id 4899694 |
 | Architecture and Revolution: Contemporary Perspectives on Central and Eastern Europe (Neil Leach) | no result by this author with this title among 12 results |
-| Bernini (Howard Hibbard) | id 7991821 |
 | Structure in Architecture: The Building of Buildings (Mario Salvadori, Robert Heller) | no result by this author with this title among 16 results |
-| Rural Essays (Andrew Jackson Downing) | id 2493832 |
-| The Ideal City: Its Architectural Evolution in Europe (Helen Rosenau) | id 4275554 |
-| The Italian Townscape (Ivor de Wolfe) | id 14914398 |
-| Toward New Towns for America (Clarence S. Stein) | id 7145184 |
-| The Highway and the City (Lewis Mumford) | id 1171064 |
-| A Treatise on the Theory and Practice of Landscape Gardening, Adapted to North America (Andrew Jackson Downing) | id 5708211 |
 | The Living House: An Anthropology of Architecture in South-East Asia (Roxana Waterson) | no result by this author with this title among 10 results |
-| Understanding Architecture: An Introduction to Architecture and Architectural History (Hazel Conway, Rowan Roenisch) | isbn 0415320593 |
-| A History of the Gothic Revival (Charles Locke Eastlake) | id 9004846 |
 | Daylighting in Architecture: A European Reference Book (Nick Baker, Andrea Fanchiotti, Koen Steemers) | no result by this author with this title among 9 results |
-| An Introduction to English Mediaeval Architecture (Hugh Braun) | id 14989431 |
-| Architecture Now! (Philip Jodidio) | id 1029708 |
 | Modern Architecture: The Architecture of Democracy (Vincent Scully) | 2 matching results, none with a cover |
-| Surrealism and Architecture (Thomas Mical) | id 4242635 |
-| Expressionist Architecture (Wolfgang Pehnt) | id 9704346 (loose title match: "Expressionist architecture in drawings") |
 | Sir John Vanbrugh: Architect and Dramatist, 1664–1726 (Laurence Whistler) | 4 matching results, none with a cover |
-| Home and Garden (Gertrude Jekyll) | id 11093590 |
-| Frederick Law Olmsted, Landscape Architect, 1822–1903 (Frederick Law Olmsted Jr., Theodora Kimball) | id 5565053 (loose title match: "Frederick Law Olmsted, landscape architect, 1822-1903") |
-| Heavenly Mansions and Other Essays on Architecture (John Summerson) | id 249641 |
-| The Nature and Aesthetics of Design (David Pye) | id 1348949 |
 | Community Architecture: How People Are Creating Their Own Environment (Nick Wates, Charles Knevitt) | no result by this author with this title among 12 results |
 | Responsive Environments: A Manual for Designers (Ian Bentley, Alan Alcock, Paul Murrain, Sue McGlynn, Graham Smith) | no result by this author with this title among 12 results |
-| The Language of Space (Bryan Lawson) | id 493572 |
-| An Encyclopaedia of Cottage, Farm and Villa Architecture and Furniture (John Claudius Loudon) | id 9546045 |
-| Garden Ornament (Gertrude Jekyll) | id 1663748 |
-| More Craftsman Homes (Gustav Stickley) | id 309720 (loose title match: "More Craftsman Homes") |
 | Urban Design: The American Experience (Jon Lang) | no result by this author with this title among 14 results |
 | Convivial Urban Spaces: Creating Effective Public Places (Henry Shaftoe) | no result by this author with this title among 1 results |
-| Continuous Productive Urban Landscapes (Andre Viljoen) | id 1401002 |
-| Cities and Natural Process (Michael Hough) | id 1205451 |
-| The Limits of the City (Murray Bookchin) | id 707928 (loose title match: "The Limits of the City (Harper Torchbooks; Tb1944)") |
 | From Garden Cities to New Towns: Campaigning for Town and Country Planning, 1899–1946 (Dennis Hardy) | no result by this author with this title among 1 results |
 | Small Change: About the Art of Practice and the Limits of Planning in Cities (Nabeel Hamdi) | 1 matching results, none with a cover |
-| Ancient Town-Planning (Francis John Haverfield) | id 6260714 |
 | Sociable Cities: The Legacy of Ebenezer Howard (Peter Hall, Colin Ward) | no result by this author with this title among 2 results |
 | Rethinking the Informal City: Critical Perspectives from Latin America (Felipe Hernández, Peter Kellett, Lea Allen) | no result by this author with this title among 1 results |
-| Garden-Craft Old and New (John Dando Sedding) | id 5856259 |
-| Garden Design (Sylvia Crowe) | id 921277 |
-| How to Lay Out a Garden (Edward Kemp) | id 10885055 |
-| Italian Gardens of the Renaissance (J. C. Shepherd, G. A. Jellicoe) | isbn 0856708682 |
-| Observations on Modern Gardening (Thomas Whately) | id 5909852 |
-| A History of Gardening in England (Alicia Amherst) | id 7083072 |
-| The Planting Design Handbook (Nick Robinson) | id 1410119 |
-| Dictionary of Islamic Architecture (Andrew Petersen) | id 3763224 |
-| The Construction of Gothic Cathedrals (John Fitchen) | id 140732 |
-| Form in Gothic (Wilhelm Worringer) | id 9295110 |
-| Art and Architecture in Italy, 1600 to 1750 (Rudolf Wittkower) | id 4574832 |
-| The Architecture of Madness: Insane Asylums in the United States (Carla Yanni) | id 1551494 |
-| Developments in Structural Form (Rowland Mainstone) | id 13694236 |
 | Structure Systems (Heino Engel) | 1 matching results, none with a cover |
 | Une maison – un palais (Le Corbusier) | 4 matching results, none with a cover |
-| The Great Rebuildings of Tudor and Stuart England (Colin Platt) | id 2056384 |
-| California's Architectural Frontier (Harold Kirker) | id 7149271 |
-| Greene & Greene: Architecture as a Fine Art (Randell L. Makinson) | id 674061 (loose title match: "Greene and Greene Architecture As a Fine Art (Greene & Greene)") |
-| Key Buildings of the Twentieth Century (David Dunster) | id 4620707 |
-| Capability Brown (Dorothy Stroud) | id 8471436 |
-| Ideas and Integrities (R. Buckminster Fuller) | id 12992911 (loose title match: "Ideas and integrities") |
-| Five California Architects (Esther McCoy) | id 4470079 |
-| Hawksmoor (Kerry Downes) | id 4404723 |
 | Speer: Hitler's Architect (Martin Kitchen) | no result by this author with this title among 11 results |
-| Smart Materials and Technologies in Architecture (Michelle Addington, Daniel Schodek) | id 8720223 |
-| Algorithmic Architecture (Kostas Terzidis) | id 14683978 |
-| Digital Drawing for Landscape Architecture (Bradley Cantrell, Wes Michaels) | id 12439710 |
-| Inquiry by Design (John Zeisel) | id 4359645 |
-| Domestic Architecture of the American Colonies and of the Early Republic (Fiske Kimball) | id 8253402 |
-| Constructing a Sense of Place: Architecture and the Zionist Discourse (Haim Yacobi) | id 1410351 (loose title match: "Constructing a Sense of Place") |
-| China's Emerging Cities: The Making of New Urbanism (Fulong Wu) | id 7852377 (loose title match: "Chinas Emerging Cities The Making Of New Urbanism") |
-| Indigenous Modernities: Negotiating Architecture and Urbanism (Jyoti Hosagrahar) | isbn 0415323762 |
-| Napoleon III and the Rebuilding of Paris (David H. Pinkney) | id 12859788 |
-| Urban Land Use Planning (F. Stuart Chapin Jr.) | id 4438164 |
-| Public Housing in Europe and America (J. S. Fuerst) | id 4508317 |
-| Arcology: The City in the Image of Man (Paolo Soleri) | id 6252617 |
-| City, Class and Power (Manuel Castells) | id 8198202 |
-| The Fractured Metropolis (Jonathan Barnett) | id 49836 |
-| Modern Architecture in Brazil (Henrique E. Mindlin) | id 10787697 |
-| Modern Architecture in Mexico (Max Cetto) | id 7008621 |
 | The Japanese House: A Tradition for Contemporary Architecture (Heinrich Engel) | no result by this author with this title among 11 results |
-| The Japanese House and Garden (Tetsuro Yoshida) | id 13503268 |
 | Persian Architecture: The Triumph of Form and Color (Arthur Upham Pope) | no result by this author with this title among 18 results |
 | Lutyens and the Edwardians (Roderick Gradidge) | no result by this author with this title among 1 results |
 | Concrete Concept: Brutalist Buildings Around the World (Christopher Beanland) | no result by this author with this title among 10 results |
-| Atlas of Brutalist Architecture (Phaidon Editors) | id 8839037 |
 | Parametricism 2.0: Rethinking Architecture's Agenda for the 21st Century (Patrik Schumacher) | no result by this author with this title among 1 results |
 | Manufacturing Material Effects: Rethinking Design and Making in Architecture (Branko Kolarevic, Kevin Klinger) | 1 matching results, none with a cover |
-| Scripting Cultures: Architectural Design and Programming (Mark Burry) | id 7601131 |
+| Sustainable Cities (Graham Haughton, Colin Hunter) | id 3907511 |
+| The Historic Urban Landscape: Managing Heritage in an Urban Century (Francesco Bandarin, Ron van Oers) | no result by this author with this title among 9 results |
+| Urban Spaces in Japan: Cultural and Social Perspectives (Christoph Brumann, Evelyn Schulz) | no result by this author with this title among 2 results |
+| Modernism and the Spirit of the City (Iain Boyd Whyte) | id 12711006 |
+| The Evolving Arab City: Tradition, Modernity and Urban Development (Yasser Elsheshtawy) | no result by this author with this title among 3 results |
+| Urban Dynamics (Jay W. Forrester) | id 5405176 |
+| The Greening of the Cities (David Nicholson-Lord) | id 1346307 |
+| Rural by Design: Maintaining Small Town Character (Randall Arendt) | no result by this author with this title among 4 results |
+| Urban Transformations: Power, People and Urban Design (Ian Bentley) | no result by this author with this title among 10 results |
+| Shaping the City: Studies in History, Theory and Urban Design (Rodolphe el-Khoury, Edward Robbins) | no result by this author with this title among 10 results |
+| The City of Man (Christopher Tunnard) | id 14930934 |
+| The Urban Design Reader (Michael Larice, Elizabeth Macdonald) | id 13032098 |
+| Adapting Cities to Climate Change: Understanding and Addressing the Development Challenges (Jane Bicknell, David Dodman, David Satterthwaite) | no result by this author with this title among 4 results |
+| Landscapes of Memory and Experience (Jan Birksted) | id 1224854 |
+| A History of Garden Design (Derek Clifford) | id 6714365 |
+| An Introduction to Landscape Architecture (Michael Laurie) | olid OL5208456M |
+| Routledge Companion to Landscape Studies (Peter Howard, Ian Thompson, Emma Waterton) | id 13461941 |
+| Landscape Architectural Graphic Standards (Leonard J. Hopper) | id 12439752 |
+| An Introduction to the Study of Landscape Design (Henry Vincent Hubbard, Theodora Kimball) | id 5716495 |
+| Landscape Planning: Environmental Applications (William M. Marsh) | id 8445212 |
+| A Description of the New York Central Park (Clarence Cook) | id 5922560 |
+| Vernacular Architecture and Regional Design: Cultural Process and Environmental Response (Kingston Heath) | no result by this author with this title among 2 results |
+| English Cottages and Farmhouses (Olive Cook, Edwin Smith) | id 8449280 |
+| Form Follows Fun: Modernism and Modernity in British Pleasure Architecture (Bruce Peter) | isbn 041542819X (loose title match: "FORM FOLLOWS FUN: MODERNISM AND MODERNITY IN BRITISH PLEASURE ARCHITECTURE, 1925-1940") |
+| Mapping Modernity in Shanghai: Space, Gender, and Visual Culture in the Sojourners' City, 1853–98 (Samuel Y. Liang) | no result by this author with this title among 3 results |
+| Ethics and the Built Environment (Warwick Fox) | id 1211522 |
+| Universe of Stone: Chartres Cathedral and the Triumph of the Medieval Mind (Philip Ball) | id 8369791 |
+| Archigram: Architecture without Architecture (Simon Sadler) | no result by this author with this title among 10 results |
+| Earls of Creation (James Lees-Milne) | id 11623452 |
+| Housing and Dwelling: Perspectives on Modern Domestic Architecture (Barbara Miller Lane) | no result by this author with this title among 12 results |
+| Ornament: The Politics of Architecture and Subjectivity (Antoine Picon) | no result by this author with this title among 12 results |
+| Santiago Calatrava: The Poetics of Movement (Alexander Tzonis) | id 3865860 (loose title match: "Movement, structure, and the work of Santiago Calatrava") |
+| Architecture: Nineteenth and Twentieth Centuries (Henry-Russell Hitchcock) | id 9303359 |
+| New Directions in Japanese Architecture (Robin Boyd) | id 9310580 |
+| Modern Architecture in Finland (Asko Salokorpi) | id 13517054 |
+| Minaret Building and Apprenticeship in Yemen (Trevor Marchand) | id 1344145 |
+| An Encyclopaedia of Architecture, Historical, Theoretical, and Practical (Joseph Gwilt) | 1 matching results, none with a cover |
+| Architecture and Its Ethical Dilemmas (Nicholas Ray) | id 4258571 |
+| The Architect of Desire: Beauty and Danger in the Stanford White Family (Suzannah Lessard) | no result by this author with this title among 3 results |
+| Humanitarian Architecture (Esther Charlesworth) | id 12681960 |
+| Skyscraper (Karl Sabbagh) | id 4094725 |
+| Critical Architecture (Jane Rendell, Jonathan Hill, Murray Fraser, Mark Dorrian) | id 13237629 |
+| Vandalism (Colin Ward) | id 4516579 |
+| Narrating Architecture: A Retrospective Anthology (James Madge, Andrew Peckham) | no result by this author with this title among 2 results |
+| Allure of the Incomplete, Imperfect, and Impermanent: Designing and Appreciating Architecture as Nature (Rumiko Handa) | no result by this author with this title among 1 results |
+| Design in Architecture: Architecture and the Human Sciences (Geoffrey Broadbent) | no result by this author with this title among 19 results |
+| Studies in Art, Architecture and Design (Nikolaus Pevsner) | id 6649592 |
+| Period Houses and Their Details (Colin Amery) | id 1399330 |
+| Conversations with Form: A Workbook for Students of Architecture (N. John Habraken, Alexander Teicher) | no result by this author with this title among 10 results |
+| Modern Color/Modern Architecture: Amédée Ozenfant and the genealogy of color in modern architecture (William W. Braham) | no result by this author with this title among 9 results |
+| Architecture in Motion: The History and Development of Portable Building (Robert Kronenburg) | id 299992 (loose title match: "Houses in motion") |
+| American Architecture: A History (Leland M. Roth) | id 4942996 (loose title match: "A concise history of American architecture") |
+| Architectural Shades and Shadows (Henry McGoodwin) | id 5559377 |
+| The Art of Sound Building (William Halfpenny, Batty Langley) | id 11764388 |
+| The Emergence of the Interior: Architecture, Modernity, Domesticity (Charles Rice) | id 12586315 (loose title match: "EMERGENCE OF THE INTERIOR: ARCHITECTURE, MODERNITY, DOMESTICITY") |
+| The Gentleman's House (Robert Kerr) | id 5822510 |
+| Homes Fit for Heroes: The Politics and Architecture of Early State Housing in Britain (Mark Swenarton) | no result by this author with this title among 8 results |
+| Negotiating Domesticity: Spatial Productions of Gender in Modern Architecture (Hilde Heynen, Gülsüm Baydar) | id 1217270 |
+| Pirate Modernity: Delhi's Media Urbanism (Ravi Sundaram) | id 14506883 (loose title match: "Pirate Modernity - Delhi’s Media Urbanism") |
+| Planning Singapore: From Plan to Implementation (Belinda Yuen) | no result by this author with this title among 17 results |
+| Urban Development and New Towns in the Third World (Alain Jacquemin) | id 2597010 |
+| New City Spaces (Jan Gehl, Lars Gemzøe) | 1 matching results, none with a cover |
+| Ekistics: An Introduction to the Science of Human Settlements (Constantinos A. Doxiadis) | no result by this author with this title among 15 results |
+| Collaborative Planning: Shaping Places in Fragmented Societies (Patsy Healey) | no result by this author with this title among 14 results |
+| Man-Made America: Chaos or Control? (Christopher Tunnard, Boris Pushkarev) | id 9316231 |
+| Urban Space (Rob Krier) | 1 matching results, none with a cover |
+| Wacker's Manual of the Plan of Chicago (Walter D. Moody) | 1 matching results, none with a cover |
+| Companion to Urban Design (Tridib Banerjee, Anastasia Loukaitou-Sideris) | id 9287596 |
+| The Fundamentalist City? Religiosity and the Remaking of Urban Space (Nezar AlSayyad, Mejgan Massoumi) | no result by this author with this title among 1 results |
+| Aquatecture: Architecture and Water (Anthony Wylson) | no result by this author with this title among 4 results |
+| Childhood's Domain: Play and Place in Child Development (Robin C. Moore) | no result by this author with this title among 3 results |
+| Introducing Urban Design: Interventions and Responses (Clara Greed, Marion Roberts) | id 2522428 (loose title match: "Introducing Urban Design") |
+| Future Forms and Design for Sustainable Cities (Mike Jenks, Nicola Dempsey) | id 13266549 |
+| River.Space.Design: Planning Strategies, Methods and Projects for Urban Rivers (Martin Prominski, Antje Stokman, Susanne Zeller, Daniel Stimberg, Hinnerk Voermanek) | no result by this author with this title among 1 results |
+| Cities Without Suburbs (David Rusk) | id 720406 |
+| Compact Cities: Sustainable Urban Forms for Developing Countries (Mike Jenks, Rod Burgess) | no result by this author with this title among 10 results |
+| City Development: Studies in Disintegration and Renewal (Lewis Mumford) | id 4507059 |
+| Low Carbon Cities: Transforming Urban Systems (Steffen Lehmann) | no result by this author with this title among 10 results |
+| The Compact City: A Sustainable Urban Form? (Mike Jenks, Elizabeth Burton, Katie Williams) | no result by this author with this title among 11 results |
+| The Art of Beautifying Suburban Home Grounds of Small Extent (Frank J. Scott) | id 7008022 |
+| Built from Below: British Architecture and the Vernacular (Peter Guillery) | no result by this author with this title among 1 results |
+| Design Activism: Beautiful Strangeness for a Sustainable World (Alastair Fuad-Luke) | no result by this author with this title among 10 results |
+| Integral Sustainable Design: Transformative Perspectives (Mark DeKay) | id 14388438 (loose title match: "Integral sustainable design") |
+| New Directions in Sustainable Design (Adrian Parr, Michael Zaretsky) | id 9649286 |
+| Building with Bamboo: Design and Technology of a Sustainable Architecture (Gernot Minke) | no result by this author with this title among 5 results |
+| Architecture in a Climate of Change (Peter F. Smith) | id 493581 |
+| Colonial Modernities: Building, Dwelling and Architecture in British India and Ceylon (Vikramaditya Prakash, Peter Scriver) | no result by this author with this title among 11 results |
+| Architecture and the Welfare State (Mark Swenarton, Tom Avermaete, Dirk van den Heuvel) | id 13341862 |
+| Integral Urbanism (Nan Ellin) | 1 matching results, none with a cover |
+| This Is Not Architecture: Media Constructions (Kester Rattenbury) | id 5364575 (loose title match: "This is not architecture") |
+| Architecture and the Politics of Gender in Early Modern Europe (Helen Hills) | id 1409330 |
+| Dublin, 1660–1860 (Maurice Craig) | no result by this author with this title among 5 results |
+| Tracing Modernity: Manifestations of the Modern in Architecture and the City (Mari Hvattum, Christian Hermansen) | no result by this author with this title among 10 results |
+| Islamic Architecture and Its Decoration, A.D. 800–1500 (Derek Hill, Oleg Grabar) | id 10994456 (loose title match: "Islamic architecture and its decoration, A.D. 800-1500") |
+| Gothic Architecture, Improved by Rules and Proportions (Batty Langley) | id 11763642 |
+| Classical Architecture: An Introduction to Its Vocabulary and Essentials (James Stevens Curl) | no result by this author with this title among 13 results |
+| Sympathy of Things: Ruskin and the Ecology of Design (Lars Spuybroek) | no result by this author with this title among 1 results |
+| Architects on Architecture: New Directions in America (Paul Heyer) | 1 matching results, none with a cover |
+| Changing Ideals in Modern Architecture, 1750–1950 (Peter Collins) | id 1457334 (loose title match: "Changing ideals in modern architecture, 1750-1950") |
+| The Necessity of Artifice (Joseph Rykwert) | id 8519168 |
+| Modern Architecture in England (Henry-Russell Hitchcock, Catherine Bauer) | id 5040141 |
+| The Details of Modern Architecture (Edward R. Ford) | id 149791 |
+| Sources of Modern Architecture: A Critical Bibliography (Dennis Sharp) | id 5379316 (loose title match: "Sources of modern architecture") |
+| Frank Lloyd Wright (Vincent Scully) | id 6756351 |
+| Architecture and Spectacle: A Critique (Gevork Hartoonian) | id 13482685 (loose title match: "Architecture and spectacle") |
+| Built in Boston: City and Suburb (Douglass Shand-Tucci) | no result by this author with this title among 3 results |
 
 ## No cover yet
 
@@ -770,3 +803,47 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - concrete-concept-brutalist-buildings-around-the-world: Concrete Concept: Brutalist Buildings Around the World (Christopher Beanland)
 - parametricism-2-0-rethinking-architecture-s-agenda-for-the-2: Parametricism 2.0: Rethinking Architecture's Agenda for the 21st Century (Patrik Schumacher)
 - manufacturing-material-effects-rethinking-design-and-making: Manufacturing Material Effects: Rethinking Design and Making in Architecture (Branko Kolarevic, Kevin Klinger)
+- the-historic-urban-landscape-managing-heritage-in-an-urban-c: The Historic Urban Landscape: Managing Heritage in an Urban Century (Francesco Bandarin, Ron van Oers)
+- urban-spaces-in-japan-cultural-and-social-perspectives: Urban Spaces in Japan: Cultural and Social Perspectives (Christoph Brumann, Evelyn Schulz)
+- the-evolving-arab-city-tradition-modernity-and-urban-develop: The Evolving Arab City: Tradition, Modernity and Urban Development (Yasser Elsheshtawy)
+- rural-by-design-maintaining-small-town-character: Rural by Design: Maintaining Small Town Character (Randall Arendt)
+- urban-transformations-power-people-and-urban-design: Urban Transformations: Power, People and Urban Design (Ian Bentley)
+- shaping-the-city-studies-in-history-theory-and-urban-design: Shaping the City: Studies in History, Theory and Urban Design (Rodolphe el-Khoury, Edward Robbins)
+- adapting-cities-to-climate-change-understanding-and-addressi: Adapting Cities to Climate Change: Understanding and Addressing the Development Challenges (Jane Bicknell, David Dodman, David Satterthwaite)
+- vernacular-architecture-and-regional-design-cultural-process: Vernacular Architecture and Regional Design: Cultural Process and Environmental Response (Kingston Heath)
+- mapping-modernity-in-shanghai-space-gender-and-visual-cultur: Mapping Modernity in Shanghai: Space, Gender, and Visual Culture in the Sojourners' City, 1853–98 (Samuel Y. Liang)
+- archigram-architecture-without-architecture: Archigram: Architecture without Architecture (Simon Sadler)
+- housing-and-dwelling-perspectives-on-modern-domestic-archite: Housing and Dwelling: Perspectives on Modern Domestic Architecture (Barbara Miller Lane)
+- ornament-the-politics-of-architecture-and-subjectivity: Ornament: The Politics of Architecture and Subjectivity (Antoine Picon)
+- an-encyclopaedia-of-architecture-historical-theoretical-and: An Encyclopaedia of Architecture, Historical, Theoretical, and Practical (Joseph Gwilt)
+- the-architect-of-desire-beauty-and-danger-in-the-stanford-wh: The Architect of Desire: Beauty and Danger in the Stanford White Family (Suzannah Lessard)
+- narrating-architecture-a-retrospective-anthology: Narrating Architecture: A Retrospective Anthology (James Madge, Andrew Peckham)
+- allure-of-the-incomplete-imperfect-and-impermanent-designing: Allure of the Incomplete, Imperfect, and Impermanent: Designing and Appreciating Architecture as Nature (Rumiko Handa)
+- design-in-architecture-architecture-and-the-human-sciences: Design in Architecture: Architecture and the Human Sciences (Geoffrey Broadbent)
+- conversations-with-form-a-workbook-for-students-of-architect: Conversations with Form: A Workbook for Students of Architecture (N. John Habraken, Alexander Teicher)
+- modern-color-modern-architecture-amedee-ozenfant-and-the-gen: Modern Color/Modern Architecture: Amédée Ozenfant and the genealogy of color in modern architecture (William W. Braham)
+- homes-fit-for-heroes-the-politics-and-architecture-of-early: Homes Fit for Heroes: The Politics and Architecture of Early State Housing in Britain (Mark Swenarton)
+- planning-singapore-from-plan-to-implementation: Planning Singapore: From Plan to Implementation (Belinda Yuen)
+- new-city-spaces: New City Spaces (Jan Gehl, Lars Gemzøe)
+- ekistics-an-introduction-to-the-science-of-human-settlements: Ekistics: An Introduction to the Science of Human Settlements (Constantinos A. Doxiadis)
+- collaborative-planning-shaping-places-in-fragmented-societie: Collaborative Planning: Shaping Places in Fragmented Societies (Patsy Healey)
+- urban-space: Urban Space (Rob Krier)
+- wacker-s-manual-of-the-plan-of-chicago: Wacker's Manual of the Plan of Chicago (Walter D. Moody)
+- the-fundamentalist-city-religiosity-and-the-remaking-of-urba: The Fundamentalist City? Religiosity and the Remaking of Urban Space (Nezar AlSayyad, Mejgan Massoumi)
+- aquatecture-architecture-and-water: Aquatecture: Architecture and Water (Anthony Wylson)
+- childhood-s-domain-play-and-place-in-child-development: Childhood's Domain: Play and Place in Child Development (Robin C. Moore)
+- river-space-design-planning-strategies-methods-and-projects: River.Space.Design: Planning Strategies, Methods and Projects for Urban Rivers (Martin Prominski, Antje Stokman, Susanne Zeller, Daniel Stimberg, Hinnerk Voermanek)
+- compact-cities-sustainable-urban-forms-for-developing-countr: Compact Cities: Sustainable Urban Forms for Developing Countries (Mike Jenks, Rod Burgess)
+- low-carbon-cities-transforming-urban-systems: Low Carbon Cities: Transforming Urban Systems (Steffen Lehmann)
+- the-compact-city-a-sustainable-urban-form: The Compact City: A Sustainable Urban Form? (Mike Jenks, Elizabeth Burton, Katie Williams)
+- built-from-below-british-architecture-and-the-vernacular: Built from Below: British Architecture and the Vernacular (Peter Guillery)
+- design-activism-beautiful-strangeness-for-a-sustainable-worl: Design Activism: Beautiful Strangeness for a Sustainable World (Alastair Fuad-Luke)
+- building-with-bamboo-design-and-technology-of-a-sustainable: Building with Bamboo: Design and Technology of a Sustainable Architecture (Gernot Minke)
+- colonial-modernities-building-dwelling-and-architecture-in-b: Colonial Modernities: Building, Dwelling and Architecture in British India and Ceylon (Vikramaditya Prakash, Peter Scriver)
+- integral-urbanism: Integral Urbanism (Nan Ellin)
+- dublin-16601860: Dublin, 1660–1860 (Maurice Craig)
+- tracing-modernity-manifestations-of-the-modern-in-architectu: Tracing Modernity: Manifestations of the Modern in Architecture and the City (Mari Hvattum, Christian Hermansen)
+- classical-architecture-an-introduction-to-its-vocabulary-and: Classical Architecture: An Introduction to Its Vocabulary and Essentials (James Stevens Curl)
+- sympathy-of-things-ruskin-and-the-ecology-of-design: Sympathy of Things: Ruskin and the Ecology of Design (Lars Spuybroek)
+- architects-on-architecture-new-directions-in-america: Architects on Architecture: New Directions in America (Paul Heyer)
+- built-in-boston-city-and-suburb: Built in Boston: City and Suburb (Douglass Shand-Tucci)
