@@ -78,7 +78,7 @@ def main():
                 if v != u:
                     time.sleep(1)
                 if len(t) > 400:
-                    saved.append(v + '\n\n' + t[:8000])
+                    saved.append(v + '\n\n' + t)
         if saved:
             (OUT / f'{year}.txt').write_text('\n\n=====\n\n'.join(saved) + '\n', encoding='utf-8')
             report.append(f'{year} {" & ".join(e["laureates"])}: {len(saved)} page(s), ' + ', '.join(x.split(chr(10))[0] for x in saved))

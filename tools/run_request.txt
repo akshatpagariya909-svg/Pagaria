@@ -1,2 +1,2 @@
 python -u tools/fetch_pritzker.py
-Save each Pritzker jury citation, now following the Citation links of older years.
+Save each Pritzker jury citation, full page text this time.
