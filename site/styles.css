@@ -544,3 +544,15 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
   .btn.play-btn { padding: 0 9px; gap: 4px; font-size: 13px; letter-spacing: -.01em; }
   .play-menu { width: min(290px, calc(100vw - 24px)); }
 }
+
+/* "About this wall", after the feed: what the site is and the most looked-up buildings, for readers and search engines. */
+.about-wall { max-width: 72ch; margin: 24px auto 0; padding: 24px 20px calc(110px + env(safe-area-inset-bottom, 0px)); border-top: 1px solid var(--hair); color: var(--graphite); font: 400 13px/1.7 var(--mono); }
+.about-wall h2, .about-wall h3 { margin: 0 0 8px; font: 500 11px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink); }
+.about-wall h3 { margin-top: 18px; }
+.about-wall p { margin: 0; }
+.about-wall ol { margin: 0; padding-left: 1.4em; columns: 2; column-gap: 24px; }
+.about-wall li { margin: 0 0 4px; break-inside: avoid; }
+.about-wall a { color: var(--ink); }
+.about-wall a:hover { color: var(--red); }
+.about-wall small { color: var(--graphite); }
+.feed { padding-bottom: 0; }
