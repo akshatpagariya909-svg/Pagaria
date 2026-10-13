@@ -9278,5 +9278,1210 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "modern-khmer-cities",
+  "title": "Modern Khmer Cities",
+  "by": "Vann Molyvann",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Cities",
+  "why": "Vann Molyvann on the history and future of Cambodia's cities.",
+  "tags": [
+   "Southeast Asia",
+   "Cities"
+  ],
+  "architects": [
+   "Vann Molyvann"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "composition-contrast-complexity",
+  "title": "Composition, Contrast, Complexity",
+  "by": "Francine Houben",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Theory",
+  "why": "Francine Houben of Mecanoo on the ideas behind the firm's buildings.",
+  "tags": [
+   "Contemporary"
+  ],
+  "architects": [
+   "Mecanoo"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "terunobu-fujimori-architect",
+  "title": "Terunobu Fujimori: Architect",
+  "by": "Michael Buhrs and Hannes Rössler (editors)",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Monographs",
+  "why": "A monograph on Terunobu Fujimori's handmade tea houses and buildings.",
+  "tags": [
+   "Japan",
+   "Timber"
+  ],
+  "architects": [
+   "Terunobu Fujimori"
+  ],
+  "buildings": [
+   "jinchokan-moriya-historical-museum"
+  ]
+ },
+ {
+  "id": "gordon-bunshaft-of-skidmore-owings-merrill",
+  "title": "Gordon Bunshaft of Skidmore, Owings & Merrill",
+  "by": "Carol Herselle Krinsky",
+  "year": "1988",
+  "y": 1988,
+  "shelf": "Monographs",
+  "why": "A study of SOM's design partner Gordon Bunshaft and his buildings.",
+  "tags": [
+   "Modernism",
+   "Skyscrapers"
+  ],
+  "architects": [
+   "SOM",
+   "Skidmore",
+   "Owings & Merrill",
+   "Gordon Bunshaft",
+   "Gordon Bunshaft (SOM)"
+  ],
+  "buildings": [
+   "lever-house",
+   "beinecke-rare-book-manuscript-library"
+  ]
+ },
+ {
+  "id": "the-spaces-in-between-an-architect-s-journey",
+  "title": "The Spaces in Between: An Architect's Journey",
+  "by": "Nathaniel Alexander Owings",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Monographs",
+  "why": "The memoir of SOM co-founder Nathaniel Owings.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "SOM",
+   "Skidmore",
+   "Owings & Merrill"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "bruce-graham-of-som",
+  "title": "Bruce Graham of SOM",
+  "by": "Stanley Tigerman (introduction)",
+  "year": "1989",
+  "y": 1989,
+  "shelf": "Monographs",
+  "why": "A monograph on SOM's Chicago partner Bruce Graham and his towers.",
+  "tags": [
+   "Skyscrapers",
+   "Structure"
+  ],
+  "architects": [
+   "SOM",
+   "Skidmore",
+   "Owings & Merrill",
+   "Bruce Graham"
+  ],
+  "buildings": [
+   "john-hancock-center"
+  ]
+ },
+ {
+  "id": "city-building-nine-planning-principles-for-the-twenty-first",
+  "title": "City Building: Nine Planning Principles for the Twenty-First Century",
+  "by": "John Lund Kriken",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Cities",
+  "why": "An SOM planner's nine principles for designing cities.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [
+   "SOM",
+   "Skidmore",
+   "Owings & Merrill"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "sears-tower-a-building-book",
+  "title": "Sears Tower: A Building Book",
+  "by": "Jay Pridmore",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Monographs",
+  "why": "A short history of how Chicago's Sears (Willis) Tower was designed and built.",
+  "tags": [
+   "Skyscrapers",
+   "Structure"
+  ],
+  "architects": [
+   "SOM",
+   "Skidmore",
+   "Owings & Merrill",
+   "Fazlur Khan"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "mckim-mead-white-architects",
+  "title": "McKim, Mead & White, Architects",
+  "by": "Leland M. Roth",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Monographs",
+  "why": "The standard history of the firm McKim, Mead & White.",
+  "tags": [
+   "Beaux-Arts"
+  ],
+  "architects": [
+   "McKim",
+   "Mead & White"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-child-the-city-and-the-artist",
+  "title": "The Child, the City and the Artist",
+  "by": "Aldo van Eyck",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "Aldo van Eyck's long essay from 1962 on the city, children and play, first published in 2008.",
+  "tags": [
+   "Cities",
+   "Structuralism"
+  ],
+  "architects": [
+   "Aldo van Eyck"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "urban-utopias-in-the-twentieth-century-ebenezer-howard-frank",
+  "title": "Urban Utopias in the Twentieth Century: Ebenezer Howard, Frank Lloyd Wright, and Le Corbusier",
+  "by": "Robert Fishman",
+  "year": "1977",
+  "y": 1977,
+  "shelf": "Cities",
+  "why": "Compares three ideal cities: the Garden City, Broadacre City and the Radiant City.",
+  "tags": [
+   "Cities",
+   "Utopia"
+  ],
+  "architects": [
+   "Le Corbusier",
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "alvar-aalto-mccarter",
+  "title": "Alvar Aalto",
+  "by": "Robert McCarter",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Monographs",
+  "why": "Robert McCarter's study of Alvar Aalto's buildings.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Alvar Aalto"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "from-basel-herzog-de-meuron",
+  "title": "From Basel: Herzog & de Meuron",
+  "by": "Jean-François Chevrier",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Monographs",
+  "why": "Essays on Herzog & de Meuron and their home city of Basel.",
+  "tags": [
+   "Contemporary"
+  ],
+  "architects": [
+   "Herzog & de Meuron"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "adolf-loos-on-trial",
+  "title": "Adolf Loos on Trial",
+  "by": "Christopher Long",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "History",
+  "why": "The story of Adolf Loos's 1928 trial in Vienna and its effect on his life.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "essays-on-adolf-loos",
+  "title": "Essays on Adolf Loos",
+  "by": "Christopher Long",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Theory",
+  "why": "Essays on Adolf Loos's buildings, interiors and writing.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "cemeteries-of-the-great-war-by-sir-edwin-lutyens",
+  "title": "Cemeteries of the Great War by Sir Edwin Lutyens",
+  "by": "Jeroen Geurst",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Monographs",
+  "why": "A study of the First World War cemeteries Edwin Lutyens designed in France and Belgium.",
+  "tags": [
+   "Memorials",
+   "Landscape"
+  ],
+  "architects": [
+   "Edwin Lutyens"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "building-the-modern-world-albert-kahn-in-detroit",
+  "title": "Building the Modern World: Albert Kahn in Detroit",
+  "by": "Michael H. Hodges",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "Monographs",
+  "why": "A life of Albert Kahn, architect of Detroit's car factories.",
+  "tags": [
+   "Industry",
+   "Modernism"
+  ],
+  "architects": [
+   "Albert Kahn"
+  ],
+  "buildings": [
+   "fisher-building"
+  ]
+ },
+ {
+  "id": "the-antiquities-of-athens",
+  "title": "The Antiquities of Athens",
+  "by": "James Stuart and Nicholas Revett",
+  "year": "1762",
+  "y": 1762,
+  "shelf": "Free to read",
+  "why": "Measured drawings of the ancient buildings of Athens that started the Greek Revival.",
+  "tags": [
+   "Classicism",
+   "Greece"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-formal-garden-in-england",
+  "title": "The Formal Garden in England",
+  "by": "Reginald Blomfield",
+  "year": "1892",
+  "y": 1892,
+  "shelf": "Free to read",
+  "why": "A history of the formal English garden and an argument for it.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-james-stirling-and-his-partners-james-go",
+  "title": "The Architecture of James Stirling and His Partners James Gowan and Michael Wilford",
+  "by": "Geoffrey H. Baker",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Monographs",
+  "why": "An analysis of James Stirling's buildings with his two partners.",
+  "tags": [
+   "Brutalism",
+   "Postmodernism"
+  ],
+  "architects": [
+   "James Stirling",
+   "Michael Wilford"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "viiva-linjen-the-line",
+  "title": "Viiva = Linjen = The Line",
+  "by": "Alvar Aalto",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Drawing",
+  "why": "Original drawings from the Alvar Aalto archive.",
+  "tags": [
+   "Drawing"
+  ],
+  "architects": [
+   "Alvar Aalto"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "gothic-architecture-and-scholasticism",
+  "title": "Gothic Architecture and Scholasticism",
+  "by": "Erwin Panofsky",
+  "year": "1951",
+  "y": 1951,
+  "shelf": "History",
+  "why": "Panofsky's essay linking Gothic cathedrals to medieval scholastic thought.",
+  "tags": [
+   "Gothic",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "houses-and-people-of-japan",
+  "title": "Houses and People of Japan",
+  "by": "Bruno Taut",
+  "year": "1937",
+  "y": 1937,
+  "shelf": "History",
+  "why": "Bruno Taut's study of Japanese houses and daily life, written in Japan.",
+  "tags": [
+   "Japan",
+   "Houses"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "a-text-book-of-the-history-of-architecture",
+  "title": "A Text-Book of the History of Architecture",
+  "by": "A. D. F. Hamlin",
+  "year": "1896",
+  "y": 1896,
+  "shelf": "Free to read",
+  "why": "A short history of world architecture written for students.",
+  "tags": [
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "cities-in-evolution",
+  "title": "Cities in Evolution",
+  "by": "Patrick Geddes",
+  "year": "1915",
+  "y": 1915,
+  "shelf": "Cities",
+  "why": "Patrick Geddes's founding book of regional and town planning.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-cohen",
+  "title": "Le Corbusier",
+  "by": "Jean-Louis Cohen",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Monographs",
+  "why": "Jean-Louis Cohen's short introduction to Le Corbusier's life and work.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "shaping-neighbourhoods-a-guide-for-health-sustainability-and",
+  "title": "Shaping Neighbourhoods: A Guide for Health, Sustainability and Vitality",
+  "by": "Hugh Barton, Marcus Grant and Richard Guise",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Cities",
+  "why": "A guide to planning healthy, sustainable neighbourhoods.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "dominique-perrault-architect",
+  "title": "Dominique Perrault, Architect",
+  "by": "Dominique Perrault",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Monographs",
+  "why": "A monograph on Dominique Perrault, architect of the French National Library.",
+  "tags": [
+   "Contemporary"
+  ],
+  "architects": [
+   "Dominique Perrault"
+  ],
+  "buildings": [
+   "bibliotheque-nationale-de-france"
+  ]
+ },
+ {
+  "id": "the-education-of-a-gardener",
+  "title": "The Education of a Gardener",
+  "by": "Russell Page",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Landscape",
+  "why": "The garden designer Russell Page on his life and craft.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-illustrated-handbook-of-architecture",
+  "title": "The Illustrated Handbook of Architecture",
+  "by": "James Fergusson",
+  "year": "1855",
+  "y": 1855,
+  "shelf": "Free to read",
+  "why": "A Victorian survey of architecture in all countries.",
+  "tags": [
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-pyramids-of-egypt",
+  "title": "The Pyramids of Egypt",
+  "by": "I. E. S. Edwards",
+  "year": "1947",
+  "y": 1947,
+  "shelf": "History",
+  "why": "A classic account of how and why the Egyptian pyramids were built.",
+  "tags": [
+   "Egypt",
+   "Ancient"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "out-of-the-clouds-wolf-d-prix-sketches-19672020",
+  "title": "Out of the Clouds: Wolf D. Prix Sketches 1967–2020",
+  "by": "Wolf D. Prix",
+  "year": "2022",
+  "y": 2022,
+  "shelf": "Drawing",
+  "why": "Sketches by Wolf D. Prix of Coop Himmelb(l)au.",
+  "tags": [
+   "Drawing",
+   "Deconstructivism"
+  ],
+  "architects": [
+   "Coop Himmelb(l)au"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "le-corbusier-beton-brut-and-ineffable-space-19401965",
+  "title": "Le Corbusier: Béton Brut and Ineffable Space, 1940–1965",
+  "by": "Roberto Gargiani and Anna Rosellini",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Construction",
+  "why": "How Le Corbusier used raw concrete in his late buildings.",
+  "tags": [
+   "Concrete",
+   "Brutalism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": [
+   "unite-dhabitation",
+   "sainte-marie-de-la-tourette"
+  ]
+ },
+ {
+  "id": "precisions-on-the-present-state-of-architecture-and-city-pla",
+  "title": "Precisions on the Present State of Architecture and City Planning",
+  "by": "Le Corbusier",
+  "year": "1930",
+  "y": 1930,
+  "shelf": "Theory",
+  "why": "Le Corbusier's lectures in Buenos Aires in 1929.",
+  "tags": [
+   "Cities",
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "mvrdv-buildings",
+  "title": "MVRDV Buildings",
+  "by": "MVRDV",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Monographs",
+  "why": "MVRDV's built work, project by project.",
+  "tags": [
+   "Contemporary"
+  ],
+  "architects": [
+   "MVRDV"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "carlo-scarpa-drawings-for-the-brion-family-cemetery",
+  "title": "Carlo Scarpa: Drawings for the Brion Family Cemetery",
+  "by": "Carlo Scarpa",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Drawing",
+  "why": "Carlo Scarpa's design drawings for the Brion tomb.",
+  "tags": [
+   "Drawing",
+   "Memorials"
+  ],
+  "architects": [
+   "Carlo Scarpa"
+  ],
+  "buildings": [
+   "brion-cemetery"
+  ]
+ },
+ {
+  "id": "adolf-loos-das-werk-des-architekten",
+  "title": "Adolf Loos: Das Werk des Architekten",
+  "by": "Heinrich Kulka",
+  "year": "1931",
+  "y": 1931,
+  "shelf": "Monographs",
+  "why": "The first monograph on Adolf Loos, made with Loos himself.",
+  "tags": [
+   "Modernism"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "collected-papers-on-acoustics",
+  "title": "Collected Papers on Acoustics",
+  "by": "Wallace Clement Sabine",
+  "year": "1922",
+  "y": 1922,
+  "shelf": "Construction",
+  "why": "The founding papers of architectural acoustics.",
+  "tags": [
+   "Acoustics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "room-acoustics",
+  "title": "Room Acoustics",
+  "by": "Heinrich Kuttruff",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Construction",
+  "why": "A standard textbook on sound in rooms and halls.",
+  "tags": [
+   "Acoustics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-writings-of-josep-lluis-sert",
+  "title": "The Writings of Josep Lluís Sert",
+  "by": "Eric Mumford (editor)",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Theory",
+  "why": "Josep Lluís Sert's essays on urban design and architecture.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [
+   "Josep Lluís Sert"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "writings-on-architecture",
+  "title": "Writings on Architecture",
+  "by": "Paul Rudolph",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "Paul Rudolph's essays and talks.",
+  "tags": [
+   "Brutalism"
+  ],
+  "architects": [
+   "Paul Rudolph"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-freedom-of-the-architect",
+  "title": "The Freedom of the Architect",
+  "by": "Rafael Moneo",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Theory",
+  "why": "Rafael Moneo's lecture on the architect's freedom and its limits.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [
+   "Rafael Moneo"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-athens-charter",
+  "title": "The Athens Charter",
+  "by": "Le Corbusier",
+  "year": "1943",
+  "y": 1943,
+  "shelf": "Manifestos",
+  "why": "Le Corbusier's version of the CIAM principles for the functional city.",
+  "tags": [
+   "Cities",
+   "Modernism"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-vertical-village-individual-informal-intense",
+  "title": "The Vertical Village: Individual, Informal, Intense",
+  "by": "MVRDV",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Cities",
+  "why": "MVRDV's study of informal, individual housing stacked into dense cities.",
+  "tags": [
+   "Cities",
+   "Housing"
+  ],
+  "architects": [
+   "MVRDV"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "compression",
+  "title": "Compression",
+  "by": "Steven Holl",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Theory",
+  "why": "Steven Holl's short essays and watercolours.",
+  "tags": [
+   "Phenomenology"
+  ],
+  "architects": [
+   "Steven Holl"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "neues-museum-berlin",
+  "title": "Neues Museum Berlin",
+  "by": "David Chipperfield, Candida Höfer and Rik Nys",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Monographs",
+  "why": "The restoration of Berlin's Neues Museum by David Chipperfield.",
+  "tags": [
+   "Reuse",
+   "Museums"
+  ],
+  "architects": [
+   "David Chipperfield"
+  ],
+  "buildings": [
+   "neues-museum"
+  ]
+ },
+ {
+  "id": "a-language-and-a-theme-the-architecture-of-denys-lasdun-part",
+  "title": "A Language and a Theme: The Architecture of Denys Lasdun & Partners",
+  "by": "Denys Lasdun and Partners",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "Monographs",
+  "why": "Denys Lasdun's buildings and his ideas of strata and urban landscape.",
+  "tags": [
+   "Brutalism"
+  ],
+  "architects": [
+   "Denys Lasdun"
+  ],
+  "buildings": [
+   "royal-national-theatre"
+  ]
+ },
+ {
+  "id": "the-uses-of-disorder-personal-identity-and-city-life",
+  "title": "The Uses of Disorder: Personal Identity and City Life",
+  "by": "Richard Sennett",
+  "year": "1970",
+  "y": 1970,
+  "shelf": "Cities",
+  "why": "Richard Sennett argues that cities need some disorder to be good places to live.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "postmodernism-or-the-cultural-logic-of-late-capitalism",
+  "title": "Postmodernism, or, the Cultural Logic of Late Capitalism",
+  "by": "Fredric Jameson",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "Theory",
+  "why": "Fredric Jameson's theory of postmodern culture, with a famous reading of a Los Angeles hotel.",
+  "tags": [
+   "Postmodernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "canon-of-the-five-orders-of-architecture",
+  "title": "Canon of the Five Orders of Architecture",
+  "by": "Giacomo Barozzi da Vignola",
+  "year": "1562",
+  "y": 1562,
+  "shelf": "Free to read",
+  "why": "Vignola's rules for the five classical orders, used in schools for centuries.",
+  "tags": [
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "how-designers-think",
+  "title": "How Designers Think",
+  "by": "Bryan Lawson",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "Theory",
+  "why": "A study of the design process and how architects solve problems.",
+  "tags": [
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "american-building-the-forces-that-shape-it",
+  "title": "American Building: The Forces That Shape It",
+  "by": "James Marston Fitch",
+  "year": "1947",
+  "y": 1947,
+  "shelf": "History",
+  "why": "A history of American building through technology and climate.",
+  "tags": [
+   "History",
+   "Climate"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-regeneration-in-the-uk",
+  "title": "Urban Regeneration in the UK",
+  "by": "Andrew Tallon",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Cities",
+  "why": "A textbook on regenerating British cities since 1945.",
+  "tags": [
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-singular-objects-of-architecture",
+  "title": "The Singular Objects of Architecture",
+  "by": "Jean Baudrillard and Jean Nouvel",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Theory",
+  "why": "Conversations between the philosopher Jean Baudrillard and Jean Nouvel.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [
+   "Jean Nouvel"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "geschichte-meines-lebens",
+  "title": "Geschichte meines Lebens",
+  "by": "Henry van de Velde",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Monographs",
+  "why": "Henry van de Velde's autobiography (in German).",
+  "tags": [
+   "Art Nouveau"
+  ],
+  "architects": [
+   "Henry van de Velde"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "bauhausbauten-dessau",
+  "title": "Bauhausbauten Dessau",
+  "by": "Walter Gropius",
+  "year": "1930",
+  "y": 1930,
+  "shelf": "Monographs",
+  "why": "Gropius's Bauhaus Book on the school buildings and masters' houses in Dessau.",
+  "tags": [
+   "Bauhaus"
+  ],
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": [
+   "bauhaus-dessau"
+  ]
+ },
+ {
+  "id": "hans-poelzig-in-breslau",
+  "title": "Hans Poelzig in Breslau",
+  "by": "Jerzy Ilkosz and Beate Störtkuhl (editors)",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Monographs",
+  "why": "Hans Poelzig's buildings and teaching in Breslau, 1900–1916 (in German).",
+  "tags": [
+   "Expressionism"
+  ],
+  "architects": [
+   "Hans Poelzig"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "a-world-history-of-architecture",
+  "title": "A World History of Architecture",
+  "by": "Marian Moffett, Michael Fazio and Lawrence Wodehouse",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Essentials",
+  "why": "A textbook history of architecture across the world.",
+  "tags": [
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-from-prehistory-to-postmodernity",
+  "title": "Architecture: From Prehistory to Postmodernity",
+  "by": "Marvin Trachtenberg and Isabelle Hyman",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Essentials",
+  "why": "A survey of Western architecture from the first buildings to postmodernism.",
+  "tags": [
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "understanding-architecture-its-elements-history-and-meaning",
+  "title": "Understanding Architecture: Its Elements, History, and Meaning",
+  "by": "Leland M. Roth",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Essentials",
+  "why": "An introduction to how buildings work and what they mean, with a history.",
+  "tags": [
+   "History",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "how-architecture-works-a-humanist-s-toolkit",
+  "title": "How Architecture Works: A Humanist's Toolkit",
+  "by": "Witold Rybczynski",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Essentials",
+  "why": "A plain guide to how to look at and judge buildings.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-language-of-architecture-26-principles-every-architect-s",
+  "title": "The Language of Architecture: 26 Principles Every Architect Should Know",
+  "by": "Andrea Simitch and Val Warke",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Essentials",
+  "why": "Twenty-six basic ideas of architectural design, each with examples.",
+  "tags": [
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "why-we-build",
+  "title": "Why We Build",
+  "by": "Rowan Moore",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Essentials",
+  "why": "Rowan Moore on the desires and motives behind buildings.",
+  "tags": [
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "graphic-thinking-for-architects-and-designers",
+  "title": "Graphic Thinking for Architects and Designers",
+  "by": "Paul Laseau",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "Drawing",
+  "why": "How to use quick sketches and diagrams to think through designs.",
+  "tags": [
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-ideas-a-hand-drawn-approach-for-better-design",
+  "title": "Drawing Ideas: A Hand-Drawn Approach for Better Design",
+  "by": "Mark Baskinger and William Bardel",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Drawing",
+  "why": "A course in drawing by hand to develop design ideas.",
+  "tags": [
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-rsvp-cycles-creative-processes-in-the-human-environment",
+  "title": "The RSVP Cycles: Creative Processes in the Human Environment",
+  "by": "Lawrence Halprin",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Landscape",
+  "why": "Lawrence Halprin's method for scoring design and group work.",
+  "tags": [
+   "Landscape",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-and-memory",
+  "title": "Landscape and Memory",
+  "by": "Simon Schama",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "Landscape",
+  "why": "How forests, rivers and mountains shaped Western culture and memory.",
+  "tags": [
+   "Landscape",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-japanese-garden",
+  "title": "The Japanese Garden",
+  "by": "Sophie Walker",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Landscape",
+  "why": "A history of the Japanese garden, from temples to contemporary designers.",
+  "tags": [
+   "Japan",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sakuteiki-visions-of-the-japanese-garden",
+  "title": "Sakuteiki: Visions of the Japanese Garden",
+  "by": "Jirō Takei and Marc P. Keane",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Landscape",
+  "why": "A translation of the oldest Japanese garden-making manual, with commentary.",
+  "tags": [
+   "Japan",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "projective-ecologies",
+  "title": "Projective Ecologies",
+  "by": "Chris Reed and Nina-Marie Lister (editors)",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Landscape",
+  "why": "Essays on ecology as a basis for landscape design.",
+  "tags": [
+   "Landscape",
+   "Ecology"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ecological-urbanism",
+  "title": "Ecological Urbanism",
+  "by": "Mohsen Mostafavi and Gareth Doherty (editors)",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Cities",
+  "why": "A large collection of essays and projects on cities and ecology.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-for-living",
+  "title": "Landscape for Living",
+  "by": "Garrett Eckbo",
+  "year": "1950",
+  "y": 1950,
+  "shelf": "Landscape",
+  "why": "Garrett Eckbo's case for modern landscape design for everyday life.",
+  "tags": [
+   "Landscape",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "gardens-are-for-people",
+  "title": "Gardens Are for People",
+  "by": "Thomas D. Church",
+  "year": "1955",
+  "y": 1955,
+  "shelf": "Landscape",
+  "why": "Thomas Church on designing gardens for how families live.",
+  "tags": [
+   "Gardens",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "room-outside-a-new-approach-to-garden-design",
+  "title": "Room Outside: A New Approach to Garden Design",
+  "by": "John Brookes",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Landscape",
+  "why": "John Brookes's idea of the garden as an outdoor room.",
+  "tags": [
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "daylighting-architecture-and-lighting-design",
+  "title": "Daylighting: Architecture and Lighting Design",
+  "by": "Peter Tregenza and Michael Wilson",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Construction",
+  "why": "How to design buildings for natural light.",
+  "tags": [
+   "Light",
+   "Climate"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
