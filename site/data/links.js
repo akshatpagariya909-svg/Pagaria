@@ -468,6 +468,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Aalto_Theatre"
  },
+ "aalto-university-undergraduate-centre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.aalto.fi/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13206.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.18611&mlon=24.82861#map=17/60.18611/24.82861"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Aalto_University"
+ },
  "aarhus-city-hall": {
   "links": [
    {
@@ -864,6 +884,31 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "akureyrarkirkja": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://akirkja.is/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/22189.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20043477"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=65.67984&mlon=-18.09097#map=17/65.67984/-18.09097"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Akureyrarkirkja"
+ },
  "al-azhar-park": {
   "links": [
    {
@@ -1207,6 +1252,36 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Alvar_Aalto_Cultural_Centre"
  },
+ "alvar-aalto-museum-jyvaskyla": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/784104/ad-classics-jyvaskyla-university-building-alvar-aalto"
+   },
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/alvar-aalto-studio-and-home/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.alvaraalto.fi/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/310359-mks-architetti-alvar-aalto-museum-shop"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=62.23380&mlon=25.73130#map=17/62.23380/25.73130"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Alvar_Aalto_Museum"
+ },
  "amarbayasgalant-monastery": {
   "links": [
    {
@@ -1280,6 +1355,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Amorepacific_Corporation"
+ },
+ "amos-rex": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/900928/amos-rex-jkmm-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://amosrex.fi/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/399841-jkmm-architects-tuomas-uusheimo-angel-gil-hannu-rytky-mika-huisman-amos-rex"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.16833&mlon=24.93722#map=17/60.16833/24.93722"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Amos_Rex"
  },
  "amsterdam-orphanage-burgerweeshuis": {
   "links": [
@@ -1498,6 +1598,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+ },
+ "aore-nagaoka": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ao-re.jp/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=37.44639&mlon=138.85111#map=17/37.44639/138.85111"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/City_Hall_Plaza_Aore_Nagaoka"
  },
  "apollo-pavilion": {
   "links": [
@@ -8668,6 +8783,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Copenhagen_Opera_House"
  },
+ "copenhagen-police-headquarters": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.67060&mlon=12.57200#map=17/55.67060/12.57200"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Copenhagen_Police_Headquarters"
+ },
  "copenhill": {
   "links": [
    {
@@ -9362,6 +9487,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "deichman-bjorvika": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.deichman.no"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.90871&mlon=10.75247#map=17/59.90871/10.75247"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Oslo_Public_Library"
+ },
  "delta-shelter": {
   "links": [
    {
@@ -9376,6 +9516,21 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "den-bla-planet": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://denblaaplanet.dk"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.63800&mlon=12.65600#map=17/55.63800/12.65600"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Aquarium_Denmark"
  },
  "dentsu-building-caretta-shiodome": {
   "links": [
@@ -9807,6 +9962,36 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Doha_Tower"
+ },
+ "dokk1": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/644920/dokk1-schmidt-hammer-lassen-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://dokk1.dk/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/292281-schmidt-hammer-lassen-architects-dokk1"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/78338.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.15354&mlon=10.21417#map=17/56.15354/10.21417"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Dokk1"
  },
  "dome-of-soltaniyeh": {
   "links": [
@@ -10563,6 +10748,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Embassy_of_Belgium%2C_New_Delhi"
  },
+ "embassy-of-kuwait-tokyo": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/embassy-of-kuwait-in-tokyo/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://kuwait-embassy.or.jp/"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Embassy_of_Kuwait%2C_Tokyo"
+ },
  "emerson-college-los-angeles": {
   "links": [
    {
@@ -10601,6 +10801,16 @@ window.LINKS = {
  "engel-house-tel-aviv": {
   "links": [],
   "wiki": null
+ },
+ "enso-gutzeit-headquarters": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.storaenso.com/"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stora_Enso"
  },
  "entebbe-children-s-surgical-hospital": {
   "links": [
@@ -11434,6 +11644,21 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "filmhuset-stockholm": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.filminstitutet.se"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.34000&mlon=18.10333#map=17/59.34000/18.10333"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Swedish_Film_Institute"
  },
  "final-wooden-house": {
   "links": [
@@ -13222,6 +13447,25 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "gothenburg-concert-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.gso.se"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=57.69669&mlon=11.97858#map=17/57.69669/11.97858"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gothenburg_Concert_Hall"
+ },
+ "gothenburg-law-courts-extension": {
+  "links": [],
+  "wiki": null
+ },
  "government-complex-sejong": {
   "links": [
    {
@@ -13489,6 +13733,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Grande_Hotel_of_Ouro_Preto"
+ },
+ "granship": {
+  "links": [],
+  "wiki": null
  },
  "great-hall-of-the-people": {
   "links": [
@@ -13845,6 +14093,10 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "gunma-music-center": {
+  "links": [],
+  "wiki": null
+ },
  "gustavianum": {
   "links": [
    {
@@ -14165,6 +14417,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Harbin_Grand_Theatre"
  },
+ "harlanda-church": {
+  "links": [],
+  "wiki": null
+ },
  "harold-holt-swimming-centre": {
   "links": [
    {
@@ -14469,6 +14725,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Helix_Bridge"
  },
+ "helsingborg-concert-hall": {
+  "links": [],
+  "wiki": null
+ },
  "helsinki-central-library-oodi": {
   "links": [
    {
@@ -14553,6 +14813,56 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Helsinki_Music_Centre"
+ },
+ "helsinki-olympic-stadium": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/950755/helsinki-olympic-stadium-k2s-architects-plus-architects-nrt"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.stadion.fi/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/3148.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20022675"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.18689&mlon=24.92606#map=17/60.18689/24.92606"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Helsinki_Olympic_Stadium"
+ },
+ "henie-onstad-kunstsenter": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.hok.no/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/44090.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.88878&mlon=10.55293#map=17/59.88878/10.55293"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Henie_Onstad_Kunstsenter"
  },
  "herbert-f-johnson-museum-of-art": {
   "links": [
@@ -15037,6 +15347,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hollyhock_House"
  },
+ "holmenkollbakken": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/786967/ad-classics-bergisel-ski-jump-zaha-hadid-architects-innsbruck-austria"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.96259&mlon=10.66678#map=17/59.96259/10.66678"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Holmenkollen_Ski_Museum"
+ },
  "holyoke-center-smith-campus-center": {
   "links": [
    {
@@ -15186,6 +15511,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Horizon_Apartments"
+ },
+ "hornbaekhus": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/19331.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.68960&mlon=12.54040#map=17/55.68960/12.54040"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hornb%C3%A6khus"
  },
  "horta-house": {
   "links": [
@@ -15410,6 +15750,10 @@ window.LINKS = {
   "wiki": "https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel"
  },
  "hotel-thermal-karlovy-vary": {
+  "links": [],
+  "wiki": null
+ },
+ "hotel-tokoen": {
   "links": [],
   "wiki": null
  },
@@ -16054,6 +16398,21 @@ window.LINKS = {
     "kind": "Drawings & photos",
     "site": "ArchDaily",
     "url": "https://www.archdaily.com/340374/icditke-research-pavilion-university-of-stuttgart-faculty-of-architecture-and-urban-planning"
+   }
+  ],
+  "wiki": null
+ },
+ "icefjord-centre-ilulissat": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1003808/kangiata-illorsua-ilulissat-icefjord-center-dorte-mandrup"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/448600-dorte-mandrup-adam-mork-icefjord-centre-in-greenland"
    }
   ],
   "wiki": null
@@ -17469,6 +17828,36 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Juscelino_Kubitschek_bridge"
  },
+ "kabukiza": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.kabuki-za.co.jp/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/27883.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.66972&mlon=139.76806#map=17/35.66972/139.76806"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kabuki-za"
+ },
+ "kadokawa-culture-museum": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/959162/kadokawa-culture-museum-kengo-kuma-and-associates-plus-kajima-design"
+   }
+  ],
+  "wiki": null
+ },
  "kaedi-regional-hospital": {
   "links": [
    {
@@ -17778,6 +18167,26 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "kasumigaseki-building": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.kasumigaseki36.com/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20042579"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.67128&mlon=139.74721#map=17/35.67128/139.74721"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kasumigaseki_Building"
+ },
  "katsura-imperial-villa": {
   "links": [
    {
@@ -17940,6 +18349,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Keeling_House"
+ },
+ "kela-main-office": {
+  "links": [],
+  "wiki": null
  },
  "kempegowda-international-airport-terminal-2": {
   "links": [
@@ -18365,6 +18778,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "kirjatalo-academic-bookstore": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5304.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.16786&mlon=24.94356#map=17/60.16786/24.94356"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kirjatalo"
+ },
  "kiro-san-observatory": {
   "links": [],
   "wiki": null
@@ -18584,6 +19012,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kolumba"
  },
+ "komazawa-olympic-park-control-tower": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.tef.or.jp/kopgp/gym/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.62483&mlon=139.66076#map=17/35.62483/139.66076"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Komazawa_Gymnasium"
+ },
  "komtar": {
   "links": [
    {
@@ -18698,6 +19141,16 @@ window.LINKS = {
     "kind": "Drawings & photos",
     "site": "ArchDaily",
     "url": "https://www.archdaily.com/941738/krushi-bhawan-studio-lotus"
+   }
+  ],
+  "wiki": null
+ },
+ "kth-school-of-architecture": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/314548-tham-videgard-ake-e-son-lindman-kth-school-of-architecture"
    }
   ],
   "wiki": null
@@ -19076,6 +19529,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kunstmuseum_Stuttgart"
  },
+ "kuokkala-church": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/72755/kuokkala-church-lassila-hirvilammi"
+   }
+  ],
+  "wiki": null
+ },
  "kurashiki-city-art-museum-former-city-hall": {
   "links": [
    {
@@ -19094,6 +19557,10 @@ window.LINKS = {
     "url": "https://www.openstreetmap.org/?mlat=34.59469&mlon=133.76894#map=17/34.59469/133.76894"
    }
   ],
+  "wiki": null
+ },
+ "kurashiki-ivy-square": {
+  "links": [],
   "wiki": null
  },
  "kurilpa-bridge": {
@@ -19300,6 +19767,31 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "kyoto-tower": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.keihanhotels-resorts.co.jp/kyoto-tower/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/27887.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20005308"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=34.98750&mlon=135.75917#map=17/34.98750/135.75917"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kyoto_Tower"
  },
  "kyungdong-presbyterian-church": {
   "links": [],
@@ -20244,6 +20736,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Li%C3%A8ge-Guillemins_railway_station"
  },
+ "lieksa-church": {
+  "links": [],
+  "wiki": null
+ },
  "lilla-bommen": {
   "links": [
    {
@@ -20447,6 +20943,10 @@ window.LINKS = {
     "url": "https://www.openstreetmap.org/?mlat=38.69400&mlon=-9.23430#map=17/38.69400/-9.23430"
    }
   ],
+  "wiki": null
+ },
+ "lister-county-courthouse": {
+  "links": [],
   "wiki": null
  },
  "liverpool-metropolitan-cathedral": {
@@ -20903,6 +21403,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lovell_House"
  },
+ "loyly-helsinki": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/790432/loyly-avanto-architects"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/322517-avanto-architects-kuvio-marc-goodwin-loyly"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.15192&mlon=24.93011#map=17/60.15192/24.93011"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/L%C3%B6yly"
+ },
  "luce-memorial-chapel": {
   "links": [
    {
@@ -20952,6 +21472,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/LUMA_Arles"
+ },
+ "lund-konsthall": {
+  "links": [],
+  "wiki": null
  },
  "lunuganga": {
   "links": [
@@ -21607,6 +22131,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/MALBA"
+ },
+ "malmo-konsthall": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/malmoe-konsthall/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.konsthall.malmo.se/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/310246-white-arkitekter-hanns-joosten-st-johannesplan-the-konsthall-square-in-malmo"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.59556&mlon=12.99889#map=17/55.59556/12.99889"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Malm%C3%B6_Konsthall"
  },
  "mambo-bogota": {
   "links": [],
@@ -22428,6 +22977,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Tic_Tac"
  },
+ "meguro-city-office": {
+  "links": [],
+  "wiki": null
+ },
  "meiso-no-mori": {
   "links": [],
   "wiki": null
@@ -23242,6 +23795,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/MIT_Chapel"
  },
+ "miyagi-stadium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.mspf.jp/grande21/index.php?action=sisetu_shoukai_stadium"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20003435"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=38.33539&mlon=140.95042#map=17/38.33539/140.95042"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Miyagi_Stadium"
+ },
  "mjostarnet": {
   "links": [
    {
@@ -23391,6 +23964,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Moderna_Museet"
+ },
+ "moderna-museet-malmo": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/55428/moderna-museet-malmo-tham-videgard-arkitekter"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.modernamuseet.se/malmo/sv/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/129616-tham-videgard-ake-e-son-lindman-moderna-museet-malmo"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.60460&mlon=13.00960#map=17/55.60460/13.00960"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Moderna_Museet_Malm%C3%B6"
  },
  "moesgaard-museum": {
   "links": [
@@ -23771,6 +24369,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Most_SNP"
+ },
+ "mount-fuji-world-heritage-centre": {
+  "links": [],
+  "wiki": null
  },
  "mountain-dwellings": {
   "links": [
@@ -24794,6 +25396,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art%2C_Warsaw"
  },
+ "museum-of-modern-art-kamakura": {
+  "links": [],
+  "wiki": null
+ },
  "museum-of-modern-art-rio-de-janeiro": {
   "links": [
    {
@@ -25138,6 +25744,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Nagasaki_Prefectural_Art_Museum"
+ },
+ "nagi-moca": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.town.nagi.okayama.jp/moca/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/412.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.12394&mlon=134.17494#map=17/35.12394/134.17494"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nagi_Museum_of_Contemporary_Art"
  },
  "nagoya-city-art-museum": {
   "links": [
@@ -25935,6 +26561,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/National_Museum_of_Ghana"
+ },
+ "national-museum-of-japanese-history": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.rekihaku.ac.jp/index.html"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.72450&mlon=140.21908#map=17/35.72450/140.21908"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Museum_of_Japanese_History"
  },
  "national-museum-of-modern-art-kyoto": {
   "links": [
@@ -26893,9 +27534,44 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Ningbo_Museum"
  },
+ "nippon-budokan": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.nipponbudokan.or.jp"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20028489"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.69333&mlon=139.75000#map=17/35.69333/139.75000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nippon_Budokan"
+ },
  "nira-house": {
   "links": [],
   "wiki": null
+ },
+ "nissay-theatre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.nissaytheatre.or.jp/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.67315&mlon=139.75842#map=17/35.67315/139.75842"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nissay_Theatre"
  },
  "niteroi-contemporary-art-museum": {
   "links": [
@@ -26947,6 +27623,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/No_1_Poultry"
  },
+ "noa-building": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.65933&mlon=139.74258#map=17/35.65933/139.74258"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/NOA_building"
+ },
  "nobel-peace-center": {
   "links": [
    {
@@ -26981,6 +27667,21 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "nordic-house-torshavn": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://hotelforoyar.fo/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=62.02210&mlon=-6.78460#map=17/62.02210/-6.78460"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nordic_House_in_the_Faroe_Islands"
  },
  "nordic-pavilion": {
   "links": [
@@ -27295,6 +27996,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/OCBC_Centre"
  },
+ "odate-jukai-dome": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.jukaidome.com/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/7821.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=40.29242&mlon=140.58675#map=17/40.29242/140.58675"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nipro_Hachiko_Dome"
+ },
  "odunpazar-modern-museum": {
   "links": [
    {
@@ -27453,6 +28174,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Omotesando_Hills"
+ },
+ "onagawa-station": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/631067/jr-onagawa-station-shigeru-ban-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=388"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=38.44675&mlon=141.44397#map=17/38.44675/141.44397"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Onagawa_Station"
  },
  "onassis-stegi": {
   "links": [
@@ -27663,6 +28404,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Orange_Cube"
+ },
+ "orestad-gymnasium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.oerestadgym.dk/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.63170&mlon=12.58140#map=17/55.63170/12.58140"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/%C3%98restad_Gymnasium"
  },
  "orgues-de-flandre": {
   "links": [
@@ -30130,6 +30886,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "powerhouse-brattorkaia": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/924325/powerhouse-brattorkaia-snohetta"
+   }
+  ],
+  "wiki": null
+ },
  "ppg-place": {
   "links": [
    {
@@ -30274,6 +31040,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Price_Tower"
+ },
+ "prince-kyoto-takaragaike": {
+  "links": [],
+  "wiki": null
  },
  "prudential-house-warsaw": {
   "links": [
@@ -30915,6 +31685,26 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "reykjavik-city-hall": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/427649/city-hall-of-plomodiern-studio-02"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/11528.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=64.14583&mlon=-21.94222#map=17/64.14583/-21.94222"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Town_Hall"
+ },
  "ricola-europe-mulhouse": {
   "links": [],
   "wiki": null
@@ -30958,6 +31748,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House"
+ },
+ "riksbank-building-stockholm": {
+  "links": [],
+  "wiki": null
  },
  "ring-of-remembrance": {
   "links": [
@@ -31963,6 +32757,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Saitama_Prefectural_University"
  },
+ "sakaide-artificial-ground": {
+  "links": [],
+  "wiki": null
+ },
  "sakamoto-ryoma-memorial-museum": {
   "links": [
    {
@@ -32361,6 +33159,21 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "sanomatalo": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/44825.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.17244&mlon=24.93783#map=17/60.17244/24.93783"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sanomatalo"
+ },
  "sansad-bhavan-old-parliament-house": {
   "links": [
    {
@@ -32580,6 +33393,10 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "sayamaike-historical-museum": {
+  "links": [],
+  "wiki": null
+ },
  "saynatsalo-town-hall": {
   "links": [
    {
@@ -32784,6 +33601,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "sdu-campus-kolding": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/590576/sdu-campus-kolding-henning-larsen-architects"
+   }
+  ],
+  "wiki": null
+ },
  "sea-organ": {
   "links": [
    {
@@ -32948,6 +33775,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Seema_Malaka"
+ },
+ "seinajoki-city-hall": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5366.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=62.78670&mlon=22.84170#map=17/62.78670/22.84170"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sein%C3%A4joki_City_Hall"
  },
  "selfridges-birmingham": {
   "links": [
@@ -33566,6 +34408,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Shinjuku_NS_Building"
  },
+ "shinjuku-park-tower": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.shinjukuparktower.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.68564&mlon=139.69095#map=17/35.68564/139.69095"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Shinjuku_Park_Tower"
+ },
+ "shiroiya-hotel": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/951093/shiroiya-hotel-sou-fujimoto-architects"
+   }
+  ],
+  "wiki": null
+ },
  "shizuoka-press-and-broadcasting-center": {
   "links": [
    {
@@ -33590,6 +34457,14 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Shizuoka_Press_and_Broadcasting_Center"
+ },
+ "shonandai-cultural-center": {
+  "links": [],
+  "wiki": null
+ },
+ "shoto-museum-of-art": {
+  "links": [],
+  "wiki": null
  },
  "shri-ram-centre": {
   "links": [],
@@ -33679,6 +34554,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "sibelius-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.sibeliustalo.fi/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20018793"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.99500&mlon=25.65111#map=17/60.99500/25.65111"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sibelius_Hall"
  },
  "sidney-myer-music-bowl": {
   "links": [
@@ -34011,6 +34906,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Society_Hill_Towers"
  },
+ "soholm-row-houses": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/435.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.77465&mlon=12.59089#map=17/55.77465/12.59089"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/S%C3%B8holm_Row_Houses"
+ },
  "solar-do-unhao": {
   "links": [
    {
@@ -34262,6 +35172,25 @@ window.LINKS = {
   "wiki": "https://en.wikipedia.org/wiki/Johann_K%C3%B6nig_%28art_dealer%29"
  },
  "st-anna-duren": {
+  "links": [],
+  "wiki": null
+ },
+ "st-hallvard-church-oslo": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://sthallvard.katolsk.no/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.91270&mlon=10.76910#map=17/59.91270/10.76910"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/St._Hallvard%27s_Church_and_Monastery"
+ },
+ "st-henrys-ecumenical-art-chapel": {
   "links": [],
   "wiki": null
  },
@@ -34682,6 +35611,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/London_Stansted_Airport"
  },
+ "starbucks-dazaifu": {
+  "links": [],
+  "wiki": null
+ },
  "stata-center": {
   "links": [
    {
@@ -34852,6 +35785,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center"
  },
+ "stegastein-viewpoint": {
+  "links": [],
+  "wiki": null
+ },
  "steilneset-memorial": {
   "links": [
    {
@@ -34896,6 +35833,51 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "stockholm-city-hall": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/stockholm-city-hall/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://international.stockholm.se/the-city-hall/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20023387"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.32750&mlon=18.05472#map=17/59.32750/18.05472"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stockholm_City_Hall"
+ },
+ "stockholm-concert-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.konserthuset.se/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/429437-aix-arkitekter-stockholm-concert-hall"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.33500&mlon=18.06333#map=17/59.33500/18.06333"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stockholm_Concert_Hall"
  },
  "stockholm-public-library": {
   "links": [
@@ -35576,6 +36558,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal"
  },
+ "takanawa-gateway-station": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=1750"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.63550&mlon=139.74070#map=17/35.63550/139.74070"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Takanawa_Gateway_Station"
+ },
  "takasugi-an": {
   "links": [
    {
@@ -35751,6 +36748,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Tate_Modern"
+ },
+ "tautra-mariakloster": {
+  "links": [],
+  "wiki": null
  },
  "tbilisi-archaeological-museum": {
   "links": [],
@@ -36586,6 +37587,16 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "the-twist-kistefos": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/925106/the-twist-museum-big"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Twist"
  },
  "theatre-des-champs-elysees": {
   "links": [
@@ -37605,6 +38616,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Toyo_Ito_Museum_of_Architecture%2C_Imabari"
  },
+ "toyoda-auditorium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.nagoya-u.ac.jp"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.15250&mlon=136.96861#map=17/35.15250/136.96861"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Nagoya_University"
+ },
  "toyota-municipal-museum-of-art": {
   "links": [
    {
@@ -37624,6 +38650,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Toyota_Municipal_Museum_of_Art"
+ },
+ "toyota-stadium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.toyota-stadium.co.jp/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/11383.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20004264"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.08444&mlon=137.17083#map=17/35.08444/137.17083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Toyota_Stadium_%28Japan%29"
  },
  "transparent-factory": {
   "links": [
@@ -37958,6 +39009,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Umeda_Sky_Building"
  },
+ "under-restaurant": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://under.no/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=58.04081&mlon=7.15431#map=17/58.04081/7.15431"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Under_%28restaurant%29"
+ },
  "unesco-headquarters": {
   "links": [
    {
@@ -38106,6 +39172,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/United_Nations_Secretariat_Building"
  },
+ "united-nations-university": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://unu.edu/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.66237&mlon=139.70836#map=17/35.66237/139.70836"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/United_Nations_University"
+ },
  "united-states-holocaust-memorial-museum": {
   "links": [
    {
@@ -38175,6 +39256,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Unity_Temple"
+ },
+ "universeum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.universeum.se"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20027109"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=57.69556&mlon=11.98917#map=17/57.69556/11.98917"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Universeum"
  },
  "universita-luigi-bocconi-building": {
   "links": [
@@ -38829,6 +39930,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Vietnam_National_Convention_Center"
+ },
+ "viikki-church": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/953750/viikki-church-jkmm-architects"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.23333&mlon=25.03361#map=17/60.23333/25.03361"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Viikki_Church"
  },
  "viipuri-library": {
   "links": [
@@ -39529,6 +40645,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/W_Abu_Dhabi_%E2%80%93_Yas_Island"
+ },
+ "wadden-sea-centre": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1038881/wadden-sea-world-heritage-center-dorte-mandrup"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.vadehavscentret.dk/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/336837-dorte-mandrup-adam-mork-the-new-danish-wadden-sea-centre"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.29569&mlon=8.66916#map=17/55.29569/8.66916"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Wadden_Sea_Centre"
  },
  "wainwright-building": {
   "links": [
@@ -40464,6 +41605,16 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "yatsushiro-municipal-museum": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/347211/ad-classics-yatsushiro-municipal-museum-toyo-ito"
+   }
+  ],
+  "wiki": null
+ },
  "yekaterinburg-circus": {
   "links": [
    {
@@ -40593,6 +41744,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Art_Museum_Z33"
+ },
+ "za-koenji": {
+  "links": [],
+  "wiki": null
  },
  "zaryadye-park": {
   "links": [
