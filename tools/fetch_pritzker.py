@@ -8,6 +8,8 @@ tools/pritzker_found.json, finds the prize's own pages for each year (its sitema
 writes the text of the page that holds the jury citation to tools/pritzker_citations/<year>.txt, with its URL on
 the first line. tools/pritzker_citations/report.txt says what was found for each year. The line shown on the site
 is then copied from these files by hand into tools/pritzker_found.json (line, citation_url).
+The page texts are the prize's own words: once the lines are chosen, delete them (git rm tools/pritzker_citations/[12]*.txt)
+and keep only report.txt, so the repository doesn't republish them.
 """
 import html, json, re, time, unicodedata, urllib.request
 from pathlib import Path

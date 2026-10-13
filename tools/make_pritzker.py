@@ -9,8 +9,8 @@ from the prize's own site and checked by hand (the line is copied word for word 
 
 The site finds a winner by name, so each entry gets `keys`: every way the wall writes that winner. These are the
 winner's own names and firm, the names of portraits in site/data/architects.js, and the names in by lines, when
-they carry the winner's surname and the first name (or its initial). "B. V. Doshi" matches Balkrishna Doshi; a
-different Doshi does not. Run it again after the buildings or portraits change.
+they carry the winner's surname and the first name (or its initial). "B. V. Doshi" matches Balkrishna Doshi, "Álvaro
+Siza" Álvaro Siza Vieira; a different Doshi does not. Run it again after the buildings or portraits change.
 """
 import argparse, json, re, unicodedata
 from pathlib import Path
@@ -34,6 +34,8 @@ def same_person(laureate, name):
     if not lw or not nw or len(nw) > len(lw) + 2:  # "Richard Rogers Partnership" yes; a long by line no
         return False
     if set(lw) <= set(nw):
+        return True
+    if len(nw) >= 2 and set(nw) <= set(lw):  # a shorter form: "Álvaro Siza" for Álvaro Siza Vieira, "Francis Kéré"
         return True
     return lw[-1] in nw and nw[0][0] == lw[0][0] and nw[-1] == lw[-1]
 
