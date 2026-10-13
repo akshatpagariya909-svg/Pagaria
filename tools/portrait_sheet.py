@@ -2,7 +2,7 @@
 
   python -u tools/portrait_sheet.py
 
-Reads tools/portraits_found.json (see tools/portraits_BRIEF.md), downloads a 300px thumbnail of
+Reads tools/portraits_found*.json and tools/firms_found.json (see tools/portraits_BRIEF.md, tools/firms_BRIEF.md), downloads a 300px thumbnail of
 each "found" file from Commons and writes tools/portraits_found.jpg, numbered in file order.
 Runs on GitHub Actions (tools/run_request.txt), since the sandbox can't reach Wikimedia.
 """
@@ -27,7 +27,14 @@ def thumb(title):
 
 
 def main():
-    found = [x for x in json.loads((ROOT / 'tools' / 'portraits_found.json').read_text(encoding='utf-8')) if x['status'] == 'found']
+    found = []  # every face found by hand: portraits_found*.json, and firms_found.json's together photos and founders
+    for f in [ROOT / 'tools' / 'portraits_found.json'] + sorted((ROOT / 'tools').glob('portraits_found_*.json')):
+        found += [x for x in json.loads(f.read_text(encoding='utf-8')) if x['status'] == 'found']
+    firms = ROOT / 'tools' / 'firms_found.json'
+    for x in json.loads(firms.read_text(encoding='utf-8')) if firms.exists() else []:
+        if x.get('together'):
+            found.append({'name': x['firm'] + ' (together)', 'file': x['together']['file']})
+        found += [{'name': n, 'file': v['file']} for n, v in (x.get('portraits') or {}).items()]
     W, H, cols = 260, 330, 6
     sheet = Image.new('RGB', (W * cols, H * ((len(found) + cols - 1) // cols)), 'white')
     d = ImageDraw.Draw(sheet)

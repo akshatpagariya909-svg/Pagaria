@@ -1,0 +1,691 @@
+[
+ {
+  "firm": "Herzog & de Meuron",
+  "founders": [
+   "Jacques Herzog",
+   "Pierre de Meuron"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+  "together": null,
+  "portraits": {
+   "Pierre de Meuron": {
+    "file": "File:Pierre de Meuron HdM.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Loremipsumdolorsit123",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Pierre_de_Meuron_HdM.jpg"
+   }
+  },
+  "note": "Description: 'Swiss architect Pierre de Meuron in 2025', category Pierre de Meuron, 4000x5333. Alternative: File:31. ISC-Symposium-Pierre de Meuron-HSGN 028-01578.jpg (CC BY-SA 4.0, St. Gallen Symposium, 1400x2100, description names him). No photo of both together found (Commons searches and categories only give buildings and lecture photos of Herzog)."
+ },
+ {
+  "firm": "SOM",
+  "founders": [
+   "Louis Skidmore",
+   "Nathaniel A. Owings",
+   "John O. Merrill"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Skidmore,_Owings_%26_Merrill",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: founded 1936 by Skidmore and Owings; Merrill joined 1939 (infobox lists him as a founder). The English Wikipedia pages for all three use files named Louis Skidmore.jpg, Nathaniel A. Owings.jpg, John O. Merrill.jpg, but these do not exist on Commons (local en.wikipedia uploads, licence not verified as free), and Commons categories for the three people are empty. So none passed. A reviewer could check the en.wikipedia file pages for public-domain status."
+ },
+ {
+  "firm": "SANAA",
+  "founders": [
+   "Kazuyo Sejima",
+   "Ryue Nishizawa"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/SANAA",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1995 by Sejima and Nishizawa. Commons has no portrait of Nishizawa (his category and file searches only return Teshima Art Museum photos) and no photo of the two together."
+ },
+ {
+  "firm": "MVRDV",
+  "founders": [
+   "Winy Maas",
+   "Jacob van Rijs",
+   "Nathalie de Vries"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/MVRDV",
+  "together": null,
+  "portraits": {
+   "Jacob van Rijs": {
+    "file": "File:Jacob van Rijs.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Bastiaan van der Sluis",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Jacob_van_Rijs.jpg"
+   }
+  },
+  "note": "Founders source not re-fetched for the exact sentence; the three names are the well-known founders and match our list - reviewer may confirm. Van Rijs file: description 'in 2008', category Jacob van Rijs, 1280x937 (landscape, check the crop shows a clear single face). Nathalie de Vries: Commons category empty, no portrait found. No photo of all three together; MVRDV Commons category holds only buildings and a logo."
+ },
+ {
+  "firm": "gmp",
+  "founders": [
+   "Meinhard von Gerkan",
+   "Volkwin Marg"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Meinhard_von_Gerkan",
+  "together": null,
+  "portraits": {},
+  "note": "Founders taken from our list; source page not checked for an exact sentence (the Wikipedia pageimage for von Gerkan is a photo of Berlin Hauptbahnhof). Commons categories for von Gerkan and Marg are empty and file searches return only buildings. No portraits."
+ },
+ {
+  "firm": "3XN",
+  "founders": [
+   "Kim Herforth Nielsen",
+   "Hans Peter Svendler Nielsen",
+   "Lars Frank Nielsen"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/3XN",
+  "together": null,
+  "portraits": {},
+  "note": "Our list had only Kim Herforth Nielsen; Wikipedia (via fetch summary) names three founders, firm first called Nielsen, Nielsen & Nielsen, founded 1986 in Aarhus. Commons search for Kim Herforth Nielsen returns only buildings; no portraits found for any of the three."
+ },
+ {
+  "firm": "Snøhetta",
+  "founders": [
+   "Kjetil Trædal Thorsen",
+   "Craig Dykers"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Craig_Edward_Dykers",
+  "together": null,
+  "portraits": {
+   "Craig Dykers": {
+    "file": "File:Craig Dykers (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kkupfers",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Craig_Dykers_(cropped).jpg"
+   }
+  },
+  "note": "Founders not verified from a firm page in this pass (Wikipedia page for Snøhetta not fetched); list kept as given. Dykers file: category Craig Dykers, 2384x2304, also in 'Black and white portrait photographs of men', tagged GFDL plus CC BY-SA 3.0 (CC BY-SA acceptable). No together photo checked beyond category lookup."
+ },
+ {
+  "firm": "Coop Himmelb",
+  "founders": [
+   "Wolf D. Prix",
+   "Helmut Swiczinsky",
+   "Michael Holzer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au",
+  "together": null,
+  "portraits": {
+   "Helmut Swiczinsky": {
+    "file": "File:2010 Helmut Swiczinsky.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Adam wehsely-swiczinsky",
+    "evidence": "https://commons.wikimedia.org/wiki/File:2010_Helmut_Swiczinsky.jpg"
+   }
+  },
+  "note": "Firm string is Coop Himmelblau (founded 1968 in Vienna by Prix, Swiczinsky and Holzer; our list had only Prix). Swiczinsky file: description 'Helmut Swiczinsky 2010', category Helmut Swiczinsky, 5184x3456 landscape. Wolf D. Prix: only a video on Commons, no still portrait found. Michael Holzer: nothing on Commons. No together photo."
+ },
+ {
+  "firm": "RCR Arquitectes",
+  "founders": [
+   "Rafael Aranda",
+   "Carme Pigem",
+   "Ramon Vilalta"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1988 in Olot. Doubtful, left out: File:Rafael Aranda.jpg (CC BY 2.0, Maritza Rios / Secretaria de Cultura CDMX, 3300x2200, evidence https://commons.wikimedia.org/wiki/File:Rafael_Aranda.jpg) - the description is about an RCR exhibition opening and names all three architects plus a culture secretary, so it does not state who is pictured; needs an eye check. File:RCR Joao Cepeda.jpg shows Aranda with another person (not usable). No Vilalta image found."
+ },
+ {
+  "firm": "WOHA",
+  "founders": [
+   "Wong Mun Summ",
+   "Richard Hassell"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/WOHA",
+  "together": {
+   "file": "File:Richard Hassell and Wong Mun Summ.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Ayeemm Cabales",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Richard_Hassell_and_Wong_Mun_Summ.jpg",
+   "shows": "left to right: Richard Hassell, Wong Mun Summ (per the Wikipedia caption); 800x469, so the long side is short - check quality"
+  },
+  "portraits": {},
+  "note": "Wikipedia: 'Established in 1994 by Wong Mun Summ and Richard Hassell.' The together photo is the only free image of either; no single portraits found."
+ },
+ {
+  "firm": "Grafton Architects",
+  "founders": [
+   "Yvonne Farrell",
+   "Shelley McNamara"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Shelley_McNamara",
+  "together": null,
+  "portraits": {
+   "Shelley McNamara": {
+    "file": "File:Shelly mcnamara 2013.jpg",
+    "license": "CC BY 3.0",
+    "author": "Designboom",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Shelly_mcnamara_2013.jpg"
+   }
+  },
+  "note": "Founders list kept from our data (founded 1978 by the two; Grafton page not fetched). McNamara file description: 'Shelly McNamara of Grafton Architects in 2013', 603x583 (small, above 300). No together photo checked beyond categories."
+ },
+ {
+  "firm": "Schmidt Hammer Lassen",
+  "founders": [
+   "Morten Schmidt",
+   "Bjarne Hammer",
+   "John F. Lassen"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Schmidt_Hammer_Lassen",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: 'established in 1986 by Morten Schmidt, Bjarne Hammer and John F. Lassen' in Aarhus. No Commons portraits found for any; File:Schmidt Hammer Lassen.jpg is the logo."
+ },
+ {
+  "firm": "Richard Rogers Partnership",
+  "founders": [
+   "Richard Rogers"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Richard_Rogers",
+  "together": null,
+  "portraits": {
+   "Richard Rogers": {
+    "file": "File:Richard Rogers - Portrait 2008 (3x4 cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "Andrew Zuckerman",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Richard_Rogers_-_Portrait_2008_(3x4_cropped).jpg"
+   }
+  },
+  "note": "Wikipedia says the 1977 partnership was founded by Rogers with Marco Goldschmied, Mike Davies and John Young; only Rogers listed (not checked for portraits of the others). Portrait 812x1077, description 'Richard Rogers - Portrait 2008', category Richard Rogers; cropped copy is also the Wikipedia infobox image. Licence is CC BY 2.0 (not 4.0)."
+ },
+ {
+  "firm": "McKim, Mead",
+  "founders": [
+   "Charles Follen McKim",
+   "William Rutherford Mead",
+   "Stanford White"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/McKim,_Mead_%26_White",
+  "together": {
+   "file": "File:McKim, Mead and White.jpg",
+   "license": "Public domain",
+   "author": "Unknown author",
+   "evidence": "https://commons.wikimedia.org/wiki/File:McKim,_Mead_and_White.jpg",
+   "shows": "group photo of Charles Follen McKim, William Rutherford Mead and Stanford White (order not stated)"
+  },
+  "portraits": {
+   "William Rutherford Mead": {
+    "file": "File:Portrait of William Rutherford Mead.jpg",
+    "license": "Public domain",
+    "author": "De W. C. Ward (1912)",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Portrait_of_William_Rutherford_Mead.jpg"
+   },
+   "Stanford White": {
+    "file": "File:Portrait of Stanford White.jpg",
+    "license": "Public domain",
+    "author": "Gertrude Kasebier",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Portrait_of_Stanford_White.jpg"
+   }
+  },
+  "note": "Wikipedia: founded 1877 by McKim and Mead with William Bigelow; White joined 1879 but is called a founding partner. Together photo is only 550x404 (short side 404, ok) and low resolution; a larger PD alternative with McKim, Mead(typo 'Wead') and White is File:Mr. Wead, Mr. McKim and Mr. White.jpg (1547x1033, Arthur Hewitt, PD) but its categories omit Mead and its caption says 'the Late Mr. White' so it may be a composite/drawing; not chosen. McKim already has a face (skipped). Mead alt: File:William Rutherford Mead.jpg (332x457, PD, Lippincott)."
+ },
+ {
+  "firm": "Nieto Sobejano",
+  "founders": [
+   "Fuensanta Nieto",
+   "Enrique Sobejano"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Nieto_Sobejano_Arquitectos",
+  "together": {
+   "file": "File:Fuensanta Nieto and Enrique Sobejano at Columbia GSAPP 01.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "GSAPPstudent",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Fuensanta_Nieto_and_Enrique_Sobejano_at_Columbia_GSAPP_01.jpg",
+   "shows": "Fuensanta Nieto and Enrique Sobejano at Columbia GSAPP (26 Sept 2016); left-right not stated"
+  },
+  "portraits": {
+   "Enrique Sobejano": {
+    "file": "File:EnriqueSobejano.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Nieto Sobejano Arquitectos",
+    "evidence": "https://commons.wikimedia.org/wiki/File:EnriqueSobejano.jpg"
+   }
+  },
+  "note": "Founded 1984. DOUBTFUL: I could not view images. Together file is 5760x3840 lecture photo; the sibling file 'Fuensanta Nieto, Enrique Sobejano, and Eric Bunge at Columbia GSAPP.jpg' suggests a third person may be in frame in one version; the crop 'File:Fuensanta Nieto (cropped).jpg' (708x898, CC BY-SA 4.0, same description naming both) may be the cleaner two-person choice. Needs a look by eye. Sobejano portrait: description is only 'EnriqueSobejano' (name only, uploaded by his own firm), 1942x2953; confirm by eye. Medal crops of Sobejano are CC BY 3.0 but only 239px wide, rejected. Fuensanta Nieto already has a face (skipped)."
+ },
+ {
+  "firm": "J. Mayer H.",
+  "founders": [
+   "Jürgen Mayer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Mayer",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: founded 1996 in Berlin, led by Jürgen Mayer H.; it does not explicitly name a founder and Santer/Schneider joined 2014 as partners (not founders). No Commons category for him and no portrait file found by search ('Jürgen Mayer architect', 'Mayer H. Metropol Parasol'); Wikipedia page has no portrait. Wikidata was unreachable so P18 not checked."
+ },
+ {
+  "firm": "Sauerbruch Hutton",
+  "founders": [
+   "Matthias Sauerbruch",
+   "Louisa Hutton"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1989 in London; Wikipedia calls them 'both founders' (Juan Lucas Young is a partner since 1999, not a founder). Commons categories Matthias Sauerbruch, Louisa Hutton and Sauerbruch Hutton hold no portrait files; searches found only buildings. Wikidata unreachable so P18 not checked."
+ },
+ {
+  "firm": "Denton Corker Marshall",
+  "founders": [
+   "John Denton",
+   "Bill Corker",
+   "Barrie Marshall"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Denton_Corker_Marshall",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1972 in Melbourne. Commons category has only a logo and a building photo; searches for the founders found nothing. No Wikipedia pages for Corker or Marshall."
+ },
+ {
+  "firm": "Behnisch Architekten",
+  "founders": [
+   "Stefan Behnisch"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1989 by Stefan Behnisch (son of Günter Behnisch, whose earlier firm Behnisch & Partner is a different practice). No Commons category or portrait found for Stefan Behnisch (search returned only an unrelated politician, Günther Brendle-Behnisch, which was ignored)."
+ },
+ {
+  "firm": "Ashton Raggatt McDougall",
+  "founders": [
+   "Stephen Ashton",
+   "Howard Raggatt",
+   "Ian McDougall"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Ashton_Raggatt_McDougall",
+  "together": null,
+  "portraits": {},
+  "note": "Founded Melbourne 1988. Commons category (4 files, all buildings) and name searches found no portraits. Our own list of founders was empty; filled from Wikipedia."
+ },
+ {
+  "firm": "Diller Scofidio",
+  "founders": [
+   "Elizabeth Diller",
+   "Ricardo Scofidio"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Diller_Scofidio_%2B_Renfro",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1981 by Diller and Scofidio (Renfro joined 1997, Gilmartin 2015). No free photo of the two together and no Scofidio portrait found on Commons (no Scofidio category; search returned one unrelated file). Diller already has a face (skipped)."
+ },
+ {
+  "firm": "HOK",
+  "founders": [
+   "George Hellmuth",
+   "Gyo Obata",
+   "George Kassabaum"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/HOK_(firm)",
+  "together": {
+   "file": "File:HOK founders 1956.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Serotta07",
+   "evidence": "https://commons.wikimedia.org/wiki/File:HOK_founders_1956.jpg",
+   "shows": "George Hellmuth, Gyo Obata and George Kassabaum in the Welek Fabrics Building, St. Louis, 1956 (black and white; order not stated)"
+  },
+  "portraits": {
+   "Gyo Obata": {
+    "file": "File:Gyo Obata in 2005.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Serotta07",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Gyo_Obata_in_2005.jpg"
+   }
+  },
+  "note": "Founded 1955, St. Louis. FLAG: face_now 'Peter Eisenman' is wrong; he is not a HOK founder, so all three founders need faces. Hellmuth and Kassabaum: crops 'File:George Hellmuth, HOK 1956.jpg' (495x502) and 'File:George Kassabaum, HOK 1956.jpg' (608x592) exist, CC BY-SA 3.0, Serotta07, but their descriptions name all three men (the group caption), so which face is which rests on the file name only; left out as doubtful, reviewer could check by eye against the founders photo. Also 'File:Gyo Obata, HOK 1956.jpg' (491x497) similar; the 2005 portrait is the safer choice."
+ },
+ {
+  "firm": "Future Systems",
+  "founders": [
+   "Jan Kaplický",
+   "David Nixon"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Future_Systems",
+  "together": null,
+  "portraits": {},
+  "note": "Founded London 1979 (Wikipedia). Amanda Levete joined later and is not a founder. Commons Jan Kaplický category/search has no portrait (only graves, farewell event and group-event photos; 'Farewell for Jan Kaplický.jpg' is a PD funeral photo, not a portrait). Nothing for David Nixon. Wikidata unreachable so P18 not checked."
+ },
+ {
+  "firm": "Kevin Roche John Dinkeloo",
+  "founders": [
+   "Kevin Roche",
+   "John Dinkeloo"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Kevin_Roche_John_Dinkeloo_and_Associates",
+  "together": {
+   "file": "File:Kevin Roche and John Dinkeloo 1967.tif",
+   "license": "CC BY-SA 4.0",
+   "author": "Unknown author (VRTS permission confirmed)",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Kevin_Roche_and_John_Dinkeloo_1967.tif",
+   "shows": "Kevin Roche and John Dinkeloo, 1967 (order not stated)"
+  },
+  "portraits": {
+   "Kevin Roche": {
+    "file": "File:Kevin Roche Pritzker portrait 1982.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Unknown author (VRTS permission confirmed)",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Kevin_Roche_Pritzker_portrait_1982.jpg"
+   },
+   "John Dinkeloo": {
+    "file": "File:John Dinkeloo by Richard Knight.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Unknown author",
+    "evidence": "https://commons.wikimedia.org/wiki/File:John_Dinkeloo_by_Richard_Knight.jpg"
+   }
+  },
+  "note": "Founded 1966 (Wikipedia), replacing Eero Saarinen & Associates. Together file is a .tif 4813x6020 (portrait orientation); the site will need a JPG conversion and it was not viewed by eye. Our founders list was empty; filled from Wikipedia. Dinkeloo author is 'Unknown author' with CC BY-SA 4.0, credit line may need checking."
+ },
+ {
+  "firm": "O'Donnell",
+  "founders": [
+   "Sheila O'Donnell",
+   "John Tuomey"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/O%27Donnell_%26_Tuomey",
+  "together": null,
+  "portraits": {},
+  "note": "Firm is O'Donnell + Tuomey, founded Dublin 1988. Commons has no category or file of either person (file searches and categories empty); Wikipedia pages for both have no portrait. Nothing found."
+ },
+ {
+  "firm": "Van den Broek en Bakema",
+  "founders": [
+   "Jo van den Broek",
+   "Jaap Bakema"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Van_den_Broek_%26_Bakema",
+  "together": null,
+  "portraits": {
+   "Jo van den Broek": {
+    "file": "File:Portret van prof. ir. J.H. van den Broek, 1968.jpg",
+    "license": "CC0",
+    "author": "Ary Groeneveld (Stadsarchief Rotterdam)",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Portret_van_prof._ir._J.H._van_den_Broek,_1968.jpg"
+   },
+   "Jaap Bakema": {
+    "file": "File:Jaap Bakema 1966.jpg",
+    "license": "CC BY-SA 3.0 nl",
+    "author": "Ron Kroon for Anefo (Nationaal Archief)",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Jaap_Bakema_1966.jpg"
+   }
+  },
+  "note": "Wikipedia: Van den Broek's earlier firm (Brinkman and Van den Broek) renamed Van den Broek en Bakema in 1951 after Bakema joined in 1948; Jan Brinkman died 1949 and is not listed. Van den Broek portrait is 735x1102 (Commons category Jo van den Broek, B&W-suitable); Bakema 876x1088 (category Jaap Bakema, description names Bakema). No together photo found: file searches returned only buildings. Spot check: Bakema file not viewed by eye; Van den Broek not viewed by eye."
+ },
+ {
+  "firm": "Bates Smart",
+  "founders": [
+   "Joseph Reed"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Bates_Smart",
+  "together": null,
+  "portraits": {
+   "Joseph Reed": {
+    "file": "File:Joseph Read ca.1870-90.jpeg",
+    "license": "Public domain",
+    "author": "John William Lindt (1845-1926), State Library of Victoria",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Joseph_Read_ca.1870-90.jpeg"
+   }
+  },
+  "note": "Bates Smart article: Joseph Reed founded the firm in 1853 (infobox also lists E. A. Bates, C. P. Smart, W. O. McCutcheon, who joined later; not treated as founders). File name misspells 'Read' but description says 'Portrait of architect Joseph Read', category Joseph Reed, and it is the infobox image of en.wikipedia Joseph_Reed_(architect) (Q6286523). 530x662, 19th-century photo."
+ },
+ {
+  "firm": "Tezuka Architects",
+  "founders": [
+   "Takaharu Tezuka",
+   "Yui Tezuka"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
+  "together": null,
+  "portraits": {},
+  "note": "Founded Tokyo 1994 by the couple. Commons categories for both are empty and file searches return nothing relevant; no free portrait found."
+ },
+ {
+  "firm": "Tham & Videgård",
+  "founders": [
+   "Bolle Tham",
+   "Martin Videgård"
+  ],
+  "founders_source": "https://www.gessato.com/creative/tham-videgard-arkitekter/",
+  "together": {
+   "file": "File:Bolle Tham and Martin Videgård.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Åke E:son Lindman",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Bolle_Tham_and_Martin_Videgård.jpg",
+   "shows": "Bolle Tham and Martin Videgård (left-to-right order not stated); 1080x1458, description 'Bolle Tham and Martin Videgård, porträtt', category Tham & Videgård Arkitekter"
+  },
+  "portraits": {},
+  "note": "Founded Stockholm 1999 by both (several web sources agree). Together photo not viewed by eye (only metadata), reviewer should check order and quality. Individual portraits not searched as the pair photo exists."
+ },
+ {
+  "firm": "RMJM",
+  "founders": [
+   "Robert Matthew",
+   "Stirrat Johnson-Marshall"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/RMJM",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1956 (Edinburgh/London). Commons categories for both are empty; file searches found only documents and buildings. Wikipedia articles (Robert_Matthew, Stirrat_Johnson-Marshall) show no portrait filename. Nothing found."
+ },
+ {
+  "firm": "Massimiliano and Doriana Fuksas",
+  "founders": [
+   "Massimiliano Fuksas",
+   "Doriana Fuksas"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Massimiliano_Fuksas",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: from 1985 he works in partnership with Doriana Mandrelli (Fuksas). Massimiliano already has a face. Commons category Doriana Fuksas is empty, searches only return buildings; no Doriana portrait or couple photo found."
+ },
+ {
+  "firm": "Věra and Vladimír Machonin",
+  "founders": [
+   "Vladimír Machonin",
+   "Věra Machoninová"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/V%C4%9Bra_Machoninov%C3%A1",
+  "together": null,
+  "portraits": {},
+  "note": "Married couple who worked together (Hotel Thermal, Kotva, Berlin embassy); Atelier Alfa. Commons categories for both are empty (only buildings); Wikipedia page has no portrait. Nothing found."
+ },
+ {
+  "firm": "Aires Mateus",
+  "founders": [
+   "Manuel Aires Mateus",
+   "Francisco Aires Mateus"
+  ],
+  "founders_source": "https://www.gessato.com/creative/aires-mateus/",
+  "together": null,
+  "portraits": {
+   "Manuel Aires Mateus": {
+    "file": "File:Manuel Aires Mateus IMG 1210.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Manuelvbotelho",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Manuel_Aires_Mateus_IMG_1210.jpg"
+   }
+  },
+  "note": "Brothers, practice started Lisbon 1988 (web sources; no Wikipedia article found). Manuel photo 900x600, viewed by eye: single smiling man, face clearly visible, in three-quarter profile, colour with grey background; description 'Manuel Aires Mateus', category Manuel Aires Mateus (identification rests on the uploader's description). Francisco: Commons category empty, nothing found. No together photo."
+ },
+ {
+  "firm": "Buro Happold",
+  "founders": [
+   "Edmund Happold"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Buro_Happold",
+  "together": null,
+  "portraits": {},
+  "note": "Founded Bath 1976 by Sir Edmund (Ted) Happold with seven colleagues (colleagues unnamed in sources). No Commons category or portrait of Happold found; Wikipedia article shows no portrait."
+ },
+ {
+  "firm": "Caruso St John",
+  "founders": [
+   "Adam Caruso",
+   "Peter St John"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Caruso_St_John",
+  "together": null,
+  "portraits": {
+   "Adam Caruso": {
+    "file": "File:Adam Caruso at the Caruso St John Lecture at Columbia GSAPP (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "GSAPPstudent",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Adam_Caruso_at_the_Caruso_St_John_Lecture_at_Columbia_GSAPP_(cropped).jpg"
+   }
+  },
+  "note": "Founded 1990. Caruso portrait viewed by eye: single man, face clear, striped shirt, one raised hand in frame, lecture setting; 2154x1141. Description and category (Adam Caruso) name him. Peter St John: no Commons category or file found."
+ },
+ {
+  "firm": "Cruz y Ortiz",
+  "founders": [
+   "Antonio Cruz",
+   "Antonio Ortiz"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Cruz_y_Ortiz",
+  "together": {
+   "file": "File:Antonio Cruz en Antonio Ortiz.jpg",
+   "license": "CC0",
+   "author": "Rijksvastgoedbedrijf",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Antonio_Cruz_en_Antonio_Ortiz.jpg",
+   "shows": "Two men standing side by side behind a white balustrade in a white-walled room; title and category Cruz y Ortiz name both; left-to-right order not stated"
+  },
+  "portraits": {},
+  "note": "Doubtful quality: only 432x308 (short side just over 300) and faces are small. Viewed by eye; the two are the only subjects. Start 1971 (some sources say 1974). Individual portraits: Commons categories Antonio Cruz Villalón and Antonio Ortiz García are empty."
+ },
+ {
+  "firm": "Fender Katsalidis",
+  "founders": [
+   "Karl Fender",
+   "Nonda Katsalidis"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Fender_Katsalidis",
+  "together": null,
+  "portraits": {},
+  "note": "Commons searches (names, Category:Nonda Katsalidis empty) found no portrait or joint photo. Only files naming Katsalidis are building photos (Argus Centre, Eureka Tower)."
+ },
+ {
+  "firm": "Heneghan Peng",
+  "founders": [
+   "Róisín Heneghan",
+   "Shih-Fu Peng"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Heneghan_Peng_Architects",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1999. No Commons files found for either founder (name searches and categories empty; no Wikidata image)."
+ },
+ {
+  "firm": "KWK Promes",
+  "founders": [
+   "Robert Konieczny"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Robert_Konieczny",
+  "together": null,
+  "portraits": {
+   "Robert Konieczny": {
+    "file": "File:2024.01.09. Robert Konieczny in Warsaw Poland.jpg",
+    "license": "CC BY 4.0",
+    "author": "Mariusz Kubik (User:Kmarius)",
+    "evidence": "https://commons.wikimedia.org/wiki/File:2024.01.09._Robert_Konieczny_in_Warsaw_Poland.jpg"
+   }
+  },
+  "note": "Wikipedia: Konieczny founded KWK Promes in 1999, no co-founders named. File is 3273x5184, description names him and category is Category:Robert Konieczny. Not viewed by eye (sandbox cannot load images); reviewer should check it is a single clear face. Alternative: File:Robert Konieczny 2010.JPG (CC BY-SA 3.0, Golman, 1200x904, lecture)."
+ },
+ {
+  "firm": "Peddle Thorp",
+  "founders": [
+   "James Peddle",
+   "Samuel George Thorp"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/PTW_Architects",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: founded Sydney 1889 by James Peddle; Thorp partner 1912; H. Ernest Walker joined 1924 (infobox lists all three as founders; Walker not included because the firm name here is Peddle Thorp). No portraits found on Commons by name search."
+ },
+ {
+  "firm": "Samper y Cía.",
+  "founders": [],
+  "founders_source": "https://en.wikipedia.org/wiki/Avianca_Building",
+  "together": null,
+  "portraits": {},
+  "note": "No source names the founders of Samper y Cía. Avianca Building credited to Esguerra, Sáenz, Urdaneta, Samper y Cía; Germán Samper Gnecco is the lead architect (partner and design director from 1958), but not shown as founder. Category:Germán Samper empty on Commons; no portrait checked."
+ },
+ {
+  "firm": "Stanton Williams",
+  "founders": [
+   "Alan Stanton",
+   "Paul Williams"
+  ],
+  "founders_source": "https://www.archilovers.com/teams/119512/stanton-williams.html",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 1985 by Alan Stanton and Paul Williams (firm profile via search; English Wikipedia names no founders). Commons name searches and Category:Stanton Williams show only building photos. No portraits."
+ },
+ {
+  "firm": "Wandel Hoefer Lorch",
+  "founders": [
+   "Rena Wandel-Hoefer",
+   "Andrea Wandel",
+   "Wolfgang Lorch"
+  ],
+  "founders_source": "https://piwi.wiesbaden.de/dokument/v/1916974",
+  "together": null,
+  "portraits": {
+   "Wolfgang Lorch": {
+    "file": "File:Grundsteinlegung MiQua-7014.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Raimond Spekking",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Grundsteinlegung_MiQua-7014.jpg"
+   }
+  },
+  "note": "DOUBTFUL. Wiesbaden city document: joint office since 1990 of Andrea Wandel, Wolfgang Lorch and Rena Wandel-Hoefer (typo 'Andreas Hoefer' in source); Hoefer left 2008; Lorch's own profile says he founded Wandel Lorch Architekten in 1993, so founder list is uncertain. Lorch file (5676x3193) is a wide event shot of him giving a speech at a foundation-stone ceremony; description and category Wolfgang Lorch name him, but it needs a tight crop and a by-eye check (not viewed). Other Category:Wolfgang Lorch files show him with politicians, so avoid. No free portrait of Wandel or Wandel-Hoefer found."
+ },
+ {
+  "firm": "Witherford Watson Mann",
+  "founders": [
+   "Stephen Witherford",
+   "Christopher Watson",
+   "William Mann"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Witherford_Watson_Mann",
+  "together": null,
+  "portraits": {},
+  "note": "Founded 2001 (also confirmed by Metalocus/Domus per search). Commons searches and Category:Witherford Watson Mann (empty) found no portraits or joint photo."
+ },
+ {
+  "firm": "Kallmann McKinnell",
+  "founders": [
+   "Gerhard Kallmann",
+   "Michael McKinnell",
+   "Edward Knowles"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Kallmann_McKinnell_%26_Wood",
+  "together": null,
+  "portraits": {},
+  "note": "Wikipedia: founded 1962 as Kallmann McKinnell & Knowles by Kallmann, McKinnell and Edward Knowles; Wood joined 1965. Commons categories for Kallmann and McKinnell are empty; only Boston City Hall photo appears. No portraits."
+ },
+ {
+  "firm": "Behnisch, Behnisch",
+  "founders": [
+   "Günter Behnisch",
+   "Stefan Behnisch"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+  "together": null,
+  "portraits": {
+   "Günter Behnisch": {
+    "file": "File:Bonn, Bundesbauten, Günter Behnisch erzählt, 1991.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "AUTOR.4200",
+    "evidence": "https://commons.wikimedia.org/wiki/File:Bonn,_Bundesbauten,_G%C3%BCnter_Behnisch_erz%C3%A4hlt,_1991.jpg"
+   }
+  },
+  "note": "DOUBTFUL. Wikipedia says Behnisch Architekten was founded 1989 by Stefan Behnisch alone (son of Günter, whose Behnisch & Partner dates earlier); both kept as the todo lists them. Günter file is 1604x1068, only in Category:Günter Behnisch, description is just the title ('Behnisch tells'); not viewed by eye, so reviewer must confirm single clear face. Other files in that category show him with Frei Otto (skip). Nothing for Stefan on Commons."
+ }
+]

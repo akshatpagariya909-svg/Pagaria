@@ -1,2 +1,2 @@
 python -u tools/fetch_portraits.py
-Architect portraits again: founders found by hand (Zaha Hadid for Zaha Hadid Architects) were dropped by a bug, now fixed.
+Architect portraits again, adding 51 faces found by the Sonnet chats (reviewed by eye) and their sourced firm founders.

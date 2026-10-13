@@ -1,51 +1,252 @@
 {
  "_note": "Firms on the wall and their founders, whose portrait stands in for the firm (the owner's choice). Keys are matched inside the by line, ignoring case and accents; founders are in order, and the first with a free portrait is shown. Used by tools/fetch_portraits.py.",
- "Foster + Partners": ["Norman Foster"],
- "Foster and Partners": ["Norman Foster"],
- "Zaha Hadid Architects": ["Zaha Hadid"],
- "OMA": ["Rem Koolhaas"],
- "BIG": ["Bjarke Ingels"],
- "SANAA": ["Kazuyo Sejima", "Ryue Nishizawa"],
- "SOM": ["Louis Skidmore", "Nathaniel A. Owings", "John O. Merrill"],
- "Skidmore, Owings": ["Louis Skidmore", "Nathaniel A. Owings", "John O. Merrill"],
- "MVRDV": ["Winy Maas", "Jacob van Rijs", "Nathalie de Vries"],
- "WOHA": ["Wong Mun Summ", "Richard Hassell"],
- "3XN": ["Kim Herforth Nielsen"],
- "Grafton Architects": ["Yvonne Farrell", "Shelley McNamara"],
- "Henning Larsen": ["Henning Larsen"],
- "David Chipperfield Architects": ["David Chipperfield"],
- "McKim, Mead": ["Charles Follen McKim", "William Rutherford Mead", "Stanford White"],
- "Nieto Sobejano": ["Fuensanta Nieto", "Enrique Sobejano"],
- "Heatherwick Studio": ["Thomas Heatherwick"],
- "Rogers Stirk Harbour": ["Richard Rogers"],
- "Pei Cobb Freed": ["I. M. Pei"],
- "MAD Architects": ["Ma Yansong"],
- "Safdie Architects": ["Moshe Safdie"],
- "Adjaye Associates": ["David Adjaye"],
- "Tezuka Architects": ["Takaharu Tezuka", "Yui Tezuka"],
- "J. Mayer H.": ["Jürgen Mayer"],
- "Tham & Videgård": ["Bolle Tham", "Martin Videgård"],
- "Herzog & de Meuron": ["Jacques Herzog", "Pierre de Meuron"],
- "Snøhetta": ["Kjetil Trædal Thorsen", "Craig Dykers"],
- "Snohetta": ["Kjetil Trædal Thorsen", "Craig Dykers"],
- "Coop Himmelb": ["Wolf D. Prix"],
- "RCR Arquitectes": ["Rafael Aranda", "Carme Pigem", "Ramon Vilalta"],
- "Diller Scofidio": ["Elizabeth Diller", "Ricardo Scofidio"],
- "Sauerbruch Hutton": ["Matthias Sauerbruch", "Louisa Hutton"],
- "Morphosis": ["Thom Mayne"],
- "Denton Corker Marshall": ["John Denton", "Bill Corker", "Barrie Marshall"],
- "Schmidt Hammer Lassen": ["Morten Schmidt", "Bjarne Hammer", "John F. Lassen"],
- "Arup": ["Ove Arup"],
- "HOK": ["Gyo Obata", "George Hellmuth", "George Kassabaum"],
- "Hellmuth, Obata": ["Gyo Obata", "George Hellmuth", "George Kassabaum"],
- "gmp": ["Meinhard von Gerkan", "Volkwin Marg"],
- "von Gerkan, Marg": ["Meinhard von Gerkan", "Volkwin Marg"],
- "RMJM": ["Robert Matthew", "Stirrat Johnson-Marshall"],
- "Kallmann McKinnell": ["Gerhard Kallmann", "Michael McKinnell"],
- "Massimiliano and Doriana Fuksas": ["Massimiliano Fuksas", "Doriana Fuksas"],
- "Věra and Vladimír Machonin": ["Vladimír Machonin", "Věra Machoninová"],
- "Gehry Partners": ["Frank Gehry"],
- "Behnisch & Partner": ["Günter Behnisch"],
- "Behnisch, Behnisch": ["Günter Behnisch", "Stefan Behnisch"],
- "Behnisch Architekten": ["Stefan Behnisch"]
+ "Foster + Partners": [
+  "Norman Foster"
+ ],
+ "Foster and Partners": [
+  "Norman Foster"
+ ],
+ "Zaha Hadid Architects": [
+  "Zaha Hadid"
+ ],
+ "OMA": [
+  "Rem Koolhaas"
+ ],
+ "BIG": [
+  "Bjarke Ingels"
+ ],
+ "SANAA": [
+  "Kazuyo Sejima",
+  "Ryue Nishizawa"
+ ],
+ "SOM": [
+  "Louis Skidmore",
+  "Nathaniel A. Owings",
+  "John O. Merrill"
+ ],
+ "Skidmore, Owings": [
+  "Louis Skidmore",
+  "Nathaniel A. Owings",
+  "John O. Merrill"
+ ],
+ "MVRDV": [
+  "Winy Maas",
+  "Jacob van Rijs",
+  "Nathalie de Vries"
+ ],
+ "WOHA": [
+  "Wong Mun Summ",
+  "Richard Hassell"
+ ],
+ "3XN": [
+  "Kim Herforth Nielsen",
+  "Hans Peter Svendler Nielsen",
+  "Lars Frank Nielsen"
+ ],
+ "Grafton Architects": [
+  "Yvonne Farrell",
+  "Shelley McNamara"
+ ],
+ "Henning Larsen": [
+  "Henning Larsen"
+ ],
+ "David Chipperfield Architects": [
+  "David Chipperfield"
+ ],
+ "McKim, Mead": [
+  "Charles Follen McKim",
+  "William Rutherford Mead",
+  "Stanford White"
+ ],
+ "Nieto Sobejano": [
+  "Fuensanta Nieto",
+  "Enrique Sobejano"
+ ],
+ "Heatherwick Studio": [
+  "Thomas Heatherwick"
+ ],
+ "Rogers Stirk Harbour": [
+  "Richard Rogers"
+ ],
+ "Pei Cobb Freed": [
+  "I. M. Pei"
+ ],
+ "MAD Architects": [
+  "Ma Yansong"
+ ],
+ "Safdie Architects": [
+  "Moshe Safdie"
+ ],
+ "Adjaye Associates": [
+  "David Adjaye"
+ ],
+ "Tezuka Architects": [
+  "Takaharu Tezuka",
+  "Yui Tezuka"
+ ],
+ "J. Mayer H.": [
+  "Jürgen Mayer"
+ ],
+ "Tham & Videgård": [
+  "Bolle Tham",
+  "Martin Videgård"
+ ],
+ "Herzog & de Meuron": [
+  "Jacques Herzog",
+  "Pierre de Meuron"
+ ],
+ "Snøhetta": [
+  "Kjetil Trædal Thorsen",
+  "Craig Dykers"
+ ],
+ "Snohetta": [
+  "Kjetil Trædal Thorsen",
+  "Craig Dykers"
+ ],
+ "Coop Himmelb": [
+  "Wolf D. Prix",
+  "Helmut Swiczinsky",
+  "Michael Holzer"
+ ],
+ "RCR Arquitectes": [
+  "Rafael Aranda",
+  "Carme Pigem",
+  "Ramon Vilalta"
+ ],
+ "Diller Scofidio": [
+  "Elizabeth Diller",
+  "Ricardo Scofidio"
+ ],
+ "Sauerbruch Hutton": [
+  "Matthias Sauerbruch",
+  "Louisa Hutton"
+ ],
+ "Morphosis": [
+  "Thom Mayne"
+ ],
+ "Denton Corker Marshall": [
+  "John Denton",
+  "Bill Corker",
+  "Barrie Marshall"
+ ],
+ "Schmidt Hammer Lassen": [
+  "Morten Schmidt",
+  "Bjarne Hammer",
+  "John F. Lassen"
+ ],
+ "Arup": [
+  "Ove Arup"
+ ],
+ "HOK": [
+  "George Hellmuth",
+  "Gyo Obata",
+  "George Kassabaum"
+ ],
+ "Hellmuth, Obata": [
+  "Gyo Obata",
+  "George Hellmuth",
+  "George Kassabaum"
+ ],
+ "gmp": [
+  "Meinhard von Gerkan",
+  "Volkwin Marg"
+ ],
+ "von Gerkan, Marg": [
+  "Meinhard von Gerkan",
+  "Volkwin Marg"
+ ],
+ "RMJM": [
+  "Robert Matthew",
+  "Stirrat Johnson-Marshall"
+ ],
+ "Kallmann McKinnell": [
+  "Gerhard Kallmann",
+  "Michael McKinnell",
+  "Edward Knowles"
+ ],
+ "Massimiliano and Doriana Fuksas": [
+  "Massimiliano Fuksas",
+  "Doriana Fuksas"
+ ],
+ "Věra and Vladimír Machonin": [
+  "Vladimír Machonin",
+  "Věra Machoninová"
+ ],
+ "Gehry Partners": [
+  "Frank Gehry"
+ ],
+ "Behnisch & Partner": [
+  "Günter Behnisch"
+ ],
+ "Behnisch, Behnisch": [
+  "Günter Behnisch",
+  "Stefan Behnisch"
+ ],
+ "Behnisch Architekten": [
+  "Stefan Behnisch"
+ ],
+ "Richard Rogers Partnership": [
+  "Richard Rogers"
+ ],
+ "Ashton Raggatt McDougall": [
+  "Stephen Ashton",
+  "Howard Raggatt",
+  "Ian McDougall"
+ ],
+ "Future Systems": [
+  "Jan Kaplický",
+  "David Nixon"
+ ],
+ "Kevin Roche John Dinkeloo": [
+  "Kevin Roche",
+  "John Dinkeloo"
+ ],
+ "O'Donnell": [
+  "Sheila O'Donnell",
+  "John Tuomey"
+ ],
+ "Van den Broek en Bakema": [
+  "Jo van den Broek",
+  "Jaap Bakema"
+ ],
+ "Aires Mateus": [
+  "Manuel Aires Mateus",
+  "Francisco Aires Mateus"
+ ],
+ "Buro Happold": [
+  "Edmund Happold"
+ ],
+ "Caruso St John": [
+  "Adam Caruso",
+  "Peter St John"
+ ],
+ "Cruz y Ortiz": [
+  "Antonio Cruz",
+  "Antonio Ortiz"
+ ],
+ "Fender Katsalidis": [
+  "Karl Fender",
+  "Nonda Katsalidis"
+ ],
+ "Heneghan Peng": [
+  "Róisín Heneghan",
+  "Shih-Fu Peng"
+ ],
+ "KWK Promes": [
+  "Robert Konieczny"
+ ],
+ "Stanton Williams": [
+  "Alan Stanton",
+  "Paul Williams"
+ ],
+ "Wandel Hoefer Lorch": [
+  "Rena Wandel-Hoefer",
+  "Andrea Wandel",
+  "Wolfgang Lorch"
+ ],
+ "Witherford Watson Mann": [
+  "Stephen Witherford",
+  "Christopher Watson",
+  "William Mann"
+ ]
 }
