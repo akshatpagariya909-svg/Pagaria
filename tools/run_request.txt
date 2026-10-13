@@ -1,2 +1,2 @@
-python -u tools/portrait_sheet.py
-Contact sheet of every face the Sonnet chats found (portraits parts 1-3 and firms), for review by eye. Second try.
+python -u tools/fetch_portraits.py
+Architect portraits again, adding 51 faces found by the Sonnet chats (reviewed by eye) and their sourced firm founders.
