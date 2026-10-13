@@ -1,0 +1,895 @@
+[
+ {
+  "id": "aalto-university-undergraduate-centre",
+  "name": "Aalto University Undergraduate Centre (Otaniemi main building)",
+  "by": "Alvar Aalto",
+  "city": "Espoo",
+  "cc": "FI",
+  "year": "1966",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Red-brick campus hall whose fan-shaped main auditorium rises like an outdoor amphitheatre over the square.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Aalto University Undergraduate Centre",
+  "photos": [
+   {
+    "file": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2020).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aalto University Undergraduate Centre, Otaniemi, Espoo (January 2017).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aalto University undergraduate centre on a sunny afternoon in June 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works",
+   "https://en.wikipedia.org/wiki/Otaniemi"
+  ],
+  "note": "Built as the main building of the Helsinki University of Technology; Wikipedia's list of works dates it 1953–1967, the Aalto literature usually gives 1966."
+ },
+ {
+  "id": "kirjatalo-academic-bookstore",
+  "name": "Academic Bookstore (Kirjatalo)",
+  "by": "Alvar Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1969",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Double height",
+   "Facade as skin"
+  ],
+  "features": "Copper-clad bookshop whose three-storey hall is lit by crystal-like prismatic skylights.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Kirjatalo",
+  "photos": [
+   {
+    "file": "File:Pohjoisesplanadi 39.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Uusi Kirjatalo avattiin vuonna 1969..jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works",
+   "https://en.wikipedia.org/wiki/Academic_Bookstore"
+  ],
+  "note": "Only two usable exterior photos: a 2007 street view and a 1969 black-and-white night view. The category also has a CC0 interior of the skylit hall (File:Bokhuset Helsingfors.jpg) if an interior is wanted."
+ },
+ {
+  "id": "alvar-aalto-museum-jyvaskyla",
+  "name": "Alvar Aalto Museum",
+  "by": "Alvar Aalto",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": "1973",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "White-tiled ribbed walls, a top-lit wavy exhibition hall and a small pool at the foot of the ridge.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Alvar Aalto Museum Jyväskylä",
+  "photos": [
+   {
+    "file": "File:Alvar Aalto museum 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alvar Aalto -museo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alvar Aalto museum before reconstruction.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alvar_Aalto_Museum",
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works"
+  ],
+  "note": ""
+ },
+ {
+  "id": "amos-rex",
+  "name": "Amos Rex",
+  "by": "JKMM Architects",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Light from above",
+   "Adaptive reuse"
+  ],
+  "features": "Underground galleries beneath Lasipalatsi square, lit by tiled domes with round skylights you can climb on.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Amos Rex",
+  "photos": [
+   {
+    "file": "File:Amos Rex aukio.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amos Rex outside 001 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amos Rex outside 001 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amos_Rex"
+  ],
+  "note": ""
+ },
+ {
+  "id": "den-bla-planet",
+  "name": "Den Blå Planet (National Aquarium Denmark)",
+  "by": "3XN",
+  "city": "Kastrup",
+  "cc": "DK",
+  "year": "2013",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Whirlpool plan: aluminium-shingled arms curl out from a central foyer, with a pool at the entrance.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Den Blå Planet",
+  "photos": [
+   {
+    "file": "File:Blue Planet (Copenhagen).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blue Planet Aquarium Copenhagen).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den Blå Planet, Kastrup (East Face - 01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Aquarium_Denmark"
+  ],
+  "note": ""
+ },
+ {
+  "id": "copenhagen-police-headquarters",
+  "name": "Copenhagen Police Headquarters (Politigården)",
+  "by": "Hack Kampmann, Aage Rafn",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "1924",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Severe Nordic-classical block on a triangular plan wrapped around a great round colonnaded courtyard.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Københavns Politigård",
+  "photos": [
+   {
+    "file": "File:20190917 Politigarden Kobenhavn (48835420686).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190917 Politigarden Kobenhavn (48835592462).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Hack Kampmann - Politigården +2.jpg",
+    "kind": "Plan",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Hack Kampmann - Politikgården.jpg",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Copenhagen_Police_Headquarters"
+  ],
+  "note": "Nordic Classicism (Wikipedia). Extras are Kampmann's own plan and watercolour, both public domain."
+ },
+ {
+  "id": "enso-gutzeit-headquarters",
+  "name": "Enso-Gutzeit Headquarters (Stora Enso)",
+  "by": "Alvar Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1962",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Carrara-marble grid of recessed windows on the harbour, sized to sit between the cathedral and the old town.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Stora Enso headquarters",
+  "photos": [
+   {
+    "file": "File:Stora Enso headquars Helsinki Finland 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Enso - Marit Henrikssson.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stora Enso headquarters.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stora_Enso_headquarters",
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works"
+  ],
+  "note": ""
+ },
+ {
+  "id": "filmhuset-stockholm",
+  "name": "Filmhuset",
+  "by": "Peter Celsing",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1971",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Exposed-concrete film house shaped like a camera, its cast walls patterned like film strips.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Filmhuset",
+  "photos": [
+   {
+    "file": "File:Filmhuset 2009b.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Filmhuset 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Filmhuset 2009d.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Celsing",
+   "https://en.wikipedia.org/wiki/Swedish_Film_Institute"
+  ],
+  "note": "Home of the Swedish Film Institute, Gärdet."
+ },
+ {
+  "id": "henie-onstad-kunstsenter",
+  "name": "Henie Onstad Kunstsenter",
+  "by": "Jon Eikvar, Sven Erik Engebretsen",
+  "city": "Bærum",
+  "cc": "NO",
+  "year": "1968",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "Low concrete art centre stepping over a wooded headland on the Oslofjord.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Henie Onstad kunstsenter",
+  "photos": [
+   {
+    "file": "File:Henie Onstad Hovik 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Henie Onstad Hövikodden IMG 8023.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Henie Onstad Center Norway.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henie_Onstad_Kunstsenter"
+  ],
+  "note": "At Høvikodden, about 10 km south-west of Oslo."
+ },
+ {
+  "id": "holmenkollbakken",
+  "name": "Holmenkollbakken ski jump",
+  "by": "JDS Architects",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "One continuous steel in-run cantilevered off the hill, wrapped in a mesh skin and lit at night over Oslo.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Holmenkollbakken",
+  "photos": [
+   {
+    "file": "File:19-08-25-Oslo Holmenkollenbakken-RalfR.jpg",
+    "license": "CC BY-SA 1.0 fi",
+    "seen": true
+   },
+   {
+    "file": "File:3 The Holmenkollen ski jump.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2016 Biathlon World Championships 2016-03-13 (26527375186).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Holmenkollbakken"
+  ],
+  "note": "The jump was rebuilt to JDS's design for the 2011 World Ski Championships; earlier jumps stood on the site since 1892."
+ },
+ {
+  "id": "moderna-museet-malmo",
+  "name": "Moderna Museet Malmö",
+  "by": "Tham & Videgård Arkitekter",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": "2009",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Colour",
+   "Facade as skin"
+  ],
+  "features": "A 1901 brick power station extended with an orange-red annex clad in perforated metal.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Moderna museet Malmö",
+  "photos": [
+   {
+    "file": "File:Moderna Museet Malmö.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moderna malmo 1.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Moderna museet Malmo 20130915 004 (9768289441).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moderna_Museet_Malm%C3%B6"
+  ],
+  "note": ""
+ },
+ {
+  "id": "malmo-konsthall",
+  "name": "Malmö Konsthall",
+  "by": "Klas Anshelm",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": "1975",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Free plan",
+   "Detail"
+  ],
+  "features": "One large flexible hall with a wooden floor under long glass roof lanterns, behind a plain street wall.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Malmö konsthall",
+  "photos": [
+   {
+    "file": "File:Klas Anshelm's Malmö Konsthall Exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Klas Anshelm 1974 Malmö konsthall 00.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malm%C3%B6_Konsthall",
+   "https://commons.wikimedia.org/wiki/Category:Malm%C3%B6_konsthall"
+  ],
+  "note": "The two exterior photos are near-identical 2005 street views; the category also has good interior views of the top-lit hall."
+ },
+ {
+  "id": "sanomatalo",
+  "name": "Sanomatalo",
+  "by": "Jan Söderlund, Antti-Matti Siikala",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1999",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Helsinki's first all-glass building: a newspaper house with public commercial floors at street level.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Sanomatalo",
+  "photos": [
+   {
+    "file": "File:Sanomatalo Helsinki.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Citizens' Square Helsinki Sanomatalo Pride Flags 2020-09-12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sanomatalo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "seinajoki-city-hall",
+  "name": "Seinäjoki City Hall",
+  "by": "Alvar Aalto",
+  "city": "Seinäjoki",
+  "cc": "FI",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "Council chamber clad in dark-blue tiles, reached by grass-and-timber steps climbing the slope.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Seinäjoki City Hall",
+  "photos": [
+   {
+    "file": "File:Seinajoki City Hall upper entrance.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Seinäjoki City Hall 20180925.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Seinäjoki City Hall 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seinäjoki_City_Hall",
+   "https://en.wikipedia.org/wiki/List_of_Alvar_Aalto%27s_works"
+  ],
+  "note": "Part of the Aalto Centre with the church, library, theatre and state offices; the original building dates 1959–1965 (annex 1973–74)."
+ },
+ {
+  "id": "sibelius-hall",
+  "name": "Sibelius Hall",
+  "by": "Kimmo Lintula, Hannu Tikka",
+  "city": "Lahti",
+  "cc": "FI",
+  "year": "2000",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Water"
+  ],
+  "features": "Glulam timber concert hall in a glass box, joined to an old brick factory on the shore of Lake Vesijärvi.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Sibelius hall",
+  "photos": [
+   {
+    "file": "File:Sibelius hall Lahti.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sibelius Hall northwestern side.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sibelius hall and lake Vesijärvi.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sibelius_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "soholm-row-houses",
+  "name": "Søholm Row Houses",
+  "by": "Arne Jacobsen",
+  "city": "Klampenborg",
+  "cc": "DK",
+  "year": "1950",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Section",
+   "Light from above"
+  ],
+  "features": "Staggered yellow-brick row houses with mono-pitched roofs and high clerestory windows.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Søholm (Strandvejen)",
+  "photos": [
+   {
+    "file": "File:Arne jacobsen, Søholm I, 1946-1950.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jacobsen Søholm I houses.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jacobsen Søholm II houses.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/S%C3%B8holm_Row_Houses"
+  ],
+  "note": "Søholm I (1946–1950) was the first phase; Jacobsen lived in one of its houses. Photo 3 shows the later Søholm II row."
+ },
+ {
+  "id": "stegastein-viewpoint",
+  "name": "Stegastein Viewpoint",
+  "by": "Todd Saunders, Tommie Wilhelmsen",
+  "city": "Aurland",
+  "cc": "NO",
+  "year": "2006",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "A 30 m pine-and-steel walkway that leaps out from the hillside and stops in mid-air over the Aurlandsfjord.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Stegastein",
+  "photos": [
+   {
+    "file": "File:Norwegia-82.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Norwegia-83.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2023-07-05-Stegastein-6849.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stegastein"
+  ],
+  "note": "Part of the Norwegian Scenic Routes programme. Year from the architects' published date (2006); Wikipedia gives no year."
+ },
+ {
+  "id": "stockholm-city-hall",
+  "name": "Stockholm City Hall",
+  "by": "Ragnar Östberg",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1923",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Water"
+  ],
+  "features": "Dark-red brick palace on the water with a 106 m tower, open courtyard and arcade to the lake.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Stockholm City Hall",
+  "photos": [
+   {
+    "file": "File:Stockholm Sweden Stadshuset-02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:00 5245 Stockholm - Central Bridge, Town Hall tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stockholm_City_Hall"
+  ],
+  "note": "National Romanticism, the starting point of Nordic modern architecture; photos are in Category:Exterior of Stockholm City Hall."
+ },
+ {
+  "id": "viikki-church",
+  "name": "Viikki Church",
+  "by": "JKMM Architects (Samuli Miettinen)",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Almost all timber: spruce frame and interior, double-shingled aspen walls above a dry-stone base.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Viikki Church",
+  "photos": [
+   {
+    "file": "File:Viikki Church in Latokartano, Viikki, Helsinki, Finland, 2022 July - 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Viikin Kirkko - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Viikin Kirkko Agronominkatu - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viikki_Church"
+  ],
+  "note": ""
+ },
+ {
+  "id": "harlanda-church",
+  "name": "Härlanda Church",
+  "by": "Peter Celsing",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "1958",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Heavy brick church and parish buildings round a lawn, with a free-standing brick bell tower.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Härlanda kyrka",
+  "photos": [
+   {
+    "file": "File:Härlanda Kyrka, Gothenburg, Sweden 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Härlanda Kyrka, Gothenburg, Sweden 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Härlanda Kyrka med klockstapel, Gothenburg, Sweden.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Celsing",
+   "https://commons.wikimedia.org/wiki/Category:H%C3%A4rlanda_kyrka"
+  ],
+  "note": "No English Wikipedia article; the church is listed in the Peter Celsing article. Photos are 1300 px wide (CC BY 4.0)."
+ },
+ {
+  "id": "universeum",
+  "name": "Universeum",
+  "by": "Gert Wingårdh",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Steel & glass"
+  ],
+  "features": "Science centre and aquarium built down a rocky slope, its glass and timber halls stepping with the hill.",
+  "award": "Nordic modernism",
+  "status": "photo",
+  "commons_category": "Category:Universeum",
+  "photos": [
+   {
+    "file": "File:Goteborg Universeum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gothenburg IMG 3104 universeum liseberg.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Universeum",
+   "https://en.wikipedia.org/wiki/Gert_Wing%C3%A5rdh"
+  ],
+  "note": "The two usable exterior photos both show the street side with Liseberg behind; the category has few building views."
+ }
+]

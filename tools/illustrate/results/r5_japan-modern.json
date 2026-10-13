@@ -459,5 +459,146 @@
    "https://www.maki-and-associates.co.jp/projects/KKB?lang=en"
   ],
   "note": null
+ },
+ {
+  "id": "nissay-theatre",
+  "name": "Nissay Theatre (Nippon Life Hibiya Building)",
+  "by": "Togo Murano",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Stone-clad block facing Hibiya Park; inside, a hall with no straight lines and 20,000 pearl shells overhead.",
+  "award": "Japanese modernism: Togo Murano",
+  "status": "photo",
+  "commons_category": "Category:Nissay Theatre",
+  "photos": [
+   {
+    "file": "File:Nissay Theatre 2012.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2360x1700"
+   },
+   {
+    "file": "File:Nissay-Theatre-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1600x1067"
+   },
+   {
+    "file": "File:Nippon Life Insurance Company (Nihon Seimei Hibiya Bldg.).jpg",
+    "license": "Public domain",
+    "seen": true,
+    "size": "2000x1500"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nissay_Theatre"
+  ],
+  "note": "Built 1960-63 for Nippon Life's 70th anniversary; opened 1963. Wikipedia does not name the facade stone, so the features line keeps to stone-clad (as the photos show)."
+ },
+ {
+  "id": "odate-jukai-dome",
+  "name": "Odate Jukai Dome",
+  "by": "Toyo Ito",
+  "city": "Odate",
+  "cc": "JP",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Climate response"
+  ],
+  "features": "Egg-shaped dome of about 25,000 Akita cedar members under a double Teflon membrane that sheds snow.",
+  "award": "Japanese contemporary: Toyo Ito",
+  "status": "photo",
+  "commons_category": "Category:Odate Jukai Dome",
+  "photos": [
+   {
+    "file": "File:Nipro Hachiko Dome 2017 C.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4334x2889"
+   },
+   {
+    "file": "File:Odate Jukai Dome 20181202.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5184x3888"
+   },
+   {
+    "file": "File:Odate Jukai Dome1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2762x2040"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nipro_Hachiko_Dome",
+   "https://web-japan.org/atlas/architecture/arc04.html",
+   "https://www.architectmagazine.com/?p=151841"
+  ],
+  "note": "Now called Nipro Hachiko Dome. About 178 x 157 m in plan, 52 m high. Sources call the timber Akita cedar or Akita cypress."
+ },
+ {
+  "id": "sayamaike-historical-museum",
+  "name": "Osaka Prefectural Sayamaike Museum",
+  "by": "Tadao Ando",
+  "city": "Osakasayama",
+  "cc": "JP",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Exposed concrete",
+   "Promenade"
+  ],
+  "features": "Concrete courts of water: visitors pass beneath a wall of falling water to reach a hall cut through the old dam.",
+  "award": "Japanese contemporary: Tadao Ando public works",
+  "status": "photo",
+  "commons_category": "Category:Osaka Prefectural Sayamaike Museum",
+  "photos": [
+   {
+    "file": "File:Osaka Prefectural Sayamaike Museum1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1884x1146"
+   },
+   {
+    "file": "File:Osaka Prefectural Sayamaike Museum10.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1280x720"
+   },
+   {
+    "file": "File:Osaka Prefectural Sayamaike Museum12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1280x720"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://nihonmono.jp/en/article/29435/",
+   "https://thespaces.com/andy-donohoe-photographs-the-concrete-curves-of-tadao-andos-sayamaike-museum/"
+  ],
+  "note": "Displays a section of the ancient Sayamaike reservoir dam. Two photos are 1280x720 (the only good views of the water court)."
  }
 ]
