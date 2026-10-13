@@ -1,2 +1,2 @@
-python -u tools/portrait_sheet.py
-Contact sheet of the portraits the Sonnet trial found (written to tools/ this time).
+python -u tools/fetch_portraits.py
+Architect portraits again, adding the 14 found by hand in the Sonnet trial (reviewed by eye: all correct).
