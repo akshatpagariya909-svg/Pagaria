@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Guess the building? · Discover Architecture</title>
+<meta name="description" content="Guess the building: five buildings a day, the same for everyone, or Endless until you miss one. For architecture students.">
+<meta property="og:site_name" content="Discover Architecture">
+<meta property="og:title" content="Guess the building?">
+<meta property="og:description" content="Five buildings a day, the same for everyone. Or Endless: how many in a row?">
+<meta property="og:image" content="../og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="play.css?v=221474ab">
+</head>
+<body>
+<header class="pbar">
+  <a class="mark" href="../">Discover<br><span class="accent">Architecture.</span></a>
+  <div class="mode" role="group" aria-label="Which game">
+    <button type="button" id="gDaily" aria-pressed="true">Daily five</button><span class="mode-line" aria-hidden="true"></span><button type="button" id="gEndless" aria-pressed="false">Endless</button>
+  </div>
+  <a class="back" href="../" aria-label="Back to the wall"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg><span>Back to the wall</span></a>
+</header>
+<main id="game" class="game" aria-live="polite"></main>
+<script src="../data/buildings.js?v=63975555"></script>
+<script src="play.js?v=21e78fe7"></script>
+</body>
+</html>

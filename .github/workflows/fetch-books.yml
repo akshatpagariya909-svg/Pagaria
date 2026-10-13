@@ -1,0 +1,42 @@
+# Finds book covers on Open Library on GitHub's servers (open internet) and commits them back.
+# Trigger: change tools/books_request.txt on the books branch, or run it by hand from the Actions tab.
+# The first line of tools/books_request.txt may hold arguments, for example "--only thinking-architecture" or "--force".
+name: Fetch book covers
+on:
+  push:
+    branches: ['claude/determined-wozniak-162nu7', 'claude/books']
+    paths: ['tools/books_request.txt', 'tools/books_seed.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-books
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Run the books tool
+        # First line "python -u tools/<books script>.py ..." runs that script; otherwise it holds arguments for the cover fetcher.
+        run: |
+          FIRST=$(head -n1 tools/books_request.txt)
+          case "$FIRST" in
+            "python -u tools/harvest_books.py"*|"python -u tools/fetch_books.py"*) $FIRST ;;
+            *) ARGS=$(echo "$FIRST" | grep '^--' || true); python -u tools/fetch_books.py $ARGS ;;
+          esac
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A site tools
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Book covers from Open Library"
+          git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+          git push

@@ -95,6 +95,23 @@ def load(src):
         yield code, label, g, ring
 
 
+def unwrap(pts):
+    """Keep a ring on one side of the 180° line (Russia, Fiji): otherwise its edge is drawn
+    straight back across the whole map. Points pushed past ±180 are held on the map's edge."""
+    out, prev = [], None
+    for lon, lat in pts:
+        if prev is not None:
+            while lon - prev > 180:
+                lon -= 360
+            while prev - lon > 180:
+                lon += 360
+        prev = lon
+        out.append((lon, lat))
+    mid = sum(p[0] for p in out) / len(out)  # a ring that starts just across the line belongs on the other side
+    shift = -360 if mid > 180 else 360 if mid < -180 else 0
+    return [(max(-180, min(180, lon + shift)), lat) for lon, lat in out]
+
+
 def shapes(src):
     """Projected, simplified paths, bounding boxes and raw centres per country code."""
     paths, boxes, centres, labels = {}, {}, {}, {}
@@ -105,8 +122,11 @@ def shapes(src):
         xs, ys = [], []
         for poly in polys:
             for r in poly:
+                pts = unwrap(ring(r))
+                if code == 'FR' and sum(p[0] for p in pts) / len(pts) < -30:
+                    continue  # French Guiana: keep France's shape to Europe, so it isn't painted with it
                 out = []
-                for lon, lat in ring(r):
+                for lon, lat in pts:
                     px, py = project(lon, lat)
                     if out and abs(px - out[-1][0]) < MIN_STEP and abs(py - out[-1][1]) < MIN_STEP:
                         continue
