@@ -47,3 +47,4 @@ park-hotel-shanghai  # lead photo didn't show the building (Oct 13 review)
 conservatorio-nacional-de-musica  # lead photo didn't show the building (Oct 13 review)
 plaza-de-mercado-girardot  # lead photo didn't show the building (Oct 13 review)
 ivar-aasen-centre  # lead photo didn't show the building (Oct 13 review)
+miyakonojo-civic-hall  # demolished 2019-20; waiting on the owner's call on lost buildings

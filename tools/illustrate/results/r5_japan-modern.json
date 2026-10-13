@@ -62,7 +62,7 @@
    "Geometry"
   ],
   "features": "Row of storehouse-like roofs; materials rise from stone to tile to aluminium round an empty circular plaza.",
-  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "award": "Japanese modernism: Kisho Kurokawa (Metabolist)",
   "status": "photo",
   "commons_category": "Category:Hiroshima City Museum of Contemporary Art",
   "photos": [
@@ -334,7 +334,7 @@
    "Steel & glass"
   ],
   "features": "A glass entrance hall set inside a deep concrete grid frame, opening the museum into Kitaurawa Park.",
-  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "award": "Japanese modernism: Kisho Kurokawa (Metabolist)",
   "status": "photo",
   "commons_category": "Category:Museum of Modern Art, Saitama",
   "photos": [
@@ -382,7 +382,7 @@
    "Light from above"
   ],
   "features": "Kept below the height of the park's trees; galleries lie underground, lit by a sunken garden.",
-  "award": "Japanese modernism: Metabolism (Kisho Kurokawa)",
+  "award": "Japanese modernism: Kisho Kurokawa (Metabolist)",
   "status": "photo",
   "commons_category": "Category:Nagoya City Art Museum",
   "photos": [
@@ -743,5 +743,1531 @@
    "https://jal.japantravel.com/chiba/national-museum-of-japanese-history/63743"
   ],
   "note": "Building dated 1980 by Ashihara's office; the museum opened 16 March 1983. The features line is drawn from the photos (forecourt and entrance canopy); no source describes the design in detail."
+ },
+ {
+  "id": "shinjuku-park-tower",
+  "name": "Shinjuku Park Tower",
+  "by": "Kenzo Tange",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1994",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Three linked towers of 52, 47 and 41 storeys stepping down in height, each topped by a glazed pyramid.",
+  "award": "Japanese modernism: late Kenzo Tange",
+  "status": "photo",
+  "commons_category": "Category:Shinjuku Park Tower",
+  "photos": [
+   {
+    "file": "File:Shinjuku Park Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1972x2760"
+   },
+   {
+    "file": "File:Shinjuku Park Tower, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2119x3178"
+   },
+   {
+    "file": "File:Shinjuku Park Tower 2018 from MetGovBld.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "3182x5657"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shinjuku_Park_Tower"
+  ],
+  "note": "235 m tall. The Park Hyatt Tokyo occupies the top floors. The three pointed roofs are named in a Commons file description; Wikipedia only says three connected blocks."
+ },
+ {
+  "id": "embassy-of-kuwait-tokyo",
+  "name": "Embassy of Kuwait, Tokyo",
+  "by": "Kenzo Tange",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1970",
+  "type": "Civic",
+  "movement": "Metabolism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Megastructure"
+  ],
+  "features": "Block-like concrete volumes stacked asymmetrically round a raised courtyard: chancery below, residence above.",
+  "award": "Japanese modernism: Metabolism (Kenzo Tange)",
+  "status": "photo",
+  "commons_category": "Category:Kuwait Embassy building in Tokyo",
+  "photos": [
+   {
+    "file": "File:Embassy of Kuwait in Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5184x3888"
+   },
+   {
+    "file": "File:Embassy of Kuwait, Tokyo 0196.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1536x1024"
+   },
+   {
+    "file": "File:Embassy of Kuwait, Tokyo 0194.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1536x1024"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Embassy_of_Kuwait,_Tokyo",
+   "https://www.sosbrutalism.org/cms/18876237",
+   "https://architecture-tokyo.com/2016/08/22/1970-embassy-of-kuwait-kenzo-tange/",
+   "https://japanpropertycentral.com/2017/10/09"
+  ],
+  "note": "Seven storeys. A 2017 plan to rebuild it was reported; SOS Brutalism says it still stands and is in use."
+ },
+ {
+  "id": "komazawa-olympic-park-control-tower",
+  "name": "Komazawa Olympic Park Control Tower and Gymnasium",
+  "by": "Yoshinobu Ashihara",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "A 50 m concrete tower of stacked slab tiers, a modern pagoda, rising from a raised plaza beside the gymnasium.",
+  "award": "Japanese modernism: 1964 Tokyo Olympics",
+  "status": "photo",
+  "commons_category": "Category:Olympic Memorial Tower (Komazawa Olympic Park)",
+  "photos": [
+   {
+    "file": "File:Komazawa Gymnasium & Control Tower 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2500x2000"
+   },
+   {
+    "file": "File:Komazawa olympic park 2025 June 15 various 09.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "3858x5244"
+   },
+   {
+    "file": "File:Komazawa Olympic Park (26466018789).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "5760x3840"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Komazawa_Gymnasium",
+   "https://metropolisjapan.com/heartlands-tokyos-original-olympic-legacy-lives-on-at-komazawa/",
+   "https://www.tokyoweekender.com/2021/07/tokyo-1964-2021-tokyo-olympic-venues-worth-visit/"
+  ],
+  "note": "Built for the 1964 Olympics (wrestling in the gymnasium). Wikipedia credits Ashihara with both gymnasium and tower; one blog credits the tower to Masachika Murata, so authorship of the tower is not fully settled. Category:Komazawa Gymnasium mixes in photos of the later indoor ball-games hall (the arched building), so photos were taken from the tower category, where the first file shows both."
+ },
+ {
+  "id": "miyagi-stadium",
+  "name": "Miyagi Stadium",
+  "by": "Hitoshi Abe",
+  "city": "Rifu",
+  "cc": "JP",
+  "year": "2000",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "features": "Stadium turned into a hill in the landscape, under a crescent roof recalling Date Masamune's helmet.",
+  "award": "Japanese contemporary: Hitoshi Abe",
+  "status": "photo",
+  "commons_category": "Category:Miyagi Stadium",
+  "photos": [
+   {
+    "file": "File:MiyagiStadium2007-4-29.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1600x1200"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miyagi_Stadium",
+   "https://www.designboom.com/interviews/hitoshi-abe-designboom-interview/"
+  ],
+  "note": "Only one usable exterior photo (1600x1200); other files are interior views of the stands, which also show the crescent roof. A cropped copy exists (File:MiyagiStadium2007-4-29 cropped.jpg). 2002 World Cup venue."
+ },
+ {
+  "id": "toyota-stadium",
+  "name": "Toyota Stadium",
+  "by": "Kisho Kurokawa",
+  "city": "Toyota",
+  "cc": "JP",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Curved roofs hung by cables from four giant masts, so no columns block the view; massive concrete piers below.",
+  "award": "Japanese modernism: Kisho Kurokawa (Metabolist)",
+  "status": "photo",
+  "commons_category": "Category:Toyota Stadium",
+  "photos": [
+   {
+    "file": "File:Toyota Stadium - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2272x1704"
+   },
+   {
+    "file": "File:豊田スタジアム - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true,
+    "size": "3360x2260"
+   },
+   {
+    "file": "File:2019 Rugby World Cup01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toyota_Stadium_(Japan)",
+   "https://stadiumdb.com/stadiums/jpn/toyota_stadium",
+   "https://www.building.co.uk/focus/covered-in-glory/1018429.article"
+  ],
+  "note": "Engineered with Arup Japan. Its retractable membrane roof has been fixed since 2015 and was to be replaced by a fixed canopy."
+ },
+ {
+  "id": "noa-building",
+  "name": "NOA Building",
+  "by": "Seiichi Shirai",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "A near-windowless dark oval tower rising from a low red-brick drum: 15 storeys of office.",
+  "award": "Japanese modernism: Seiichi Shirai",
+  "status": "photo",
+  "commons_category": "Category:Noa Building",
+  "photos": [
+   {
+    "file": "File:NOA Building.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "4000x6000"
+   },
+   {
+    "file": "File:NOA Building (1974) (6933733620).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true,
+    "size": "2560x1714"
+   },
+   {
+    "file": "File:Noa Building.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3000x4000"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/NOA_building",
+   "https://architecture-tokyo.com/2016/09/17/1974-noa-building-seiichi-shirai/"
+  ],
+  "note": "61.75 m. Sources disagree on the cladding of the oval upper part (copper per Wikipedia, steel per Architecture Tokyo), so the features line says dark only."
+ },
+ {
+  "id": "united-nations-university",
+  "name": "United Nations University Headquarters",
+  "by": "Kenzo Tange",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1992",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Symmetrical stepped tower on Aoyama-dori, narrowing like a ziggurat to a pointed glass top, with a front plaza.",
+  "award": "Japanese modernism: late Kenzo Tange",
+  "status": "photo",
+  "commons_category": "Category:United Nations University Headquarters Building",
+  "photos": [
+   {
+    "file": "File:United Nations University 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2104x2500"
+   },
+   {
+    "file": "File:United Nations University Headquarters Building 20241020.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "6598x4399"
+   },
+   {
+    "file": "File:UN University @ Aoyama Dori @ Shibuya (9535617479).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "3648x2736"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_Nations_University"
+  ],
+  "note": "Handed over by the Japanese government on 30 June 1992; inaugurated 17 February 1993. Wikipedia names Tange but does not describe the form: the features line is from the photos."
+ },
+ {
+  "id": "onagawa-station",
+  "name": "Onagawa Station",
+  "by": "Shigeru Ban",
+  "city": "Onagawa",
+  "cc": "JP",
+  "year": "2015",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Tensile structure",
+   "Community"
+  ],
+  "features": "White membrane roof like a seabird's spread wings over a timber lattice; a public hot-spring bath upstairs.",
+  "award": "Japanese contemporary: Shigeru Ban",
+  "status": "photo",
+  "commons_category": "Category:Onagawa Station",
+  "photos": [
+   {
+    "file": "File:JR East Onagawa Station building, Miyagi Pref 20240420.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "6000x4000"
+   },
+   {
+    "file": "File:JR East Onagawa Station building, Miyagi Pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "6000x4000"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://shigerubanarchitects.com/works/cultural/onagawa-station/",
+   "https://www.architectmagazine.com/technology/detail/onagawa-stations-lattice-roof_o",
+   "https://gov-online.go.jp/eng/publicity/book/hlj/html/202202/202202_03_en.html"
+  ],
+  "note": "Rebuilt after the 2011 tsunami, inland and on raised ground. Bath tiles painted by Hiroshi Senju. The two chosen photos are near-identical front views; the rest of the category is mostly platform and sign shots."
+ },
+ {
+  "id": "sakaide-artificial-ground",
+  "name": "Sakaide Artificial Ground",
+  "by": "Masato Otaka",
+  "city": "Sakaide",
+  "cc": "JP",
+  "year": "1968",
+  "type": "Housing",
+  "movement": "Metabolism",
+  "concepts": [
+   "Megastructure",
+   "Public space",
+   "Section"
+  ],
+  "features": "A concrete deck 6 to 9 m up carries public housing and a new ground; shops, halls and parking sit beneath.",
+  "award": "Japanese modernism: Metabolism (Masato Otaka)",
+  "status": "photo",
+  "commons_category": "Category:Sakaide Artificial Ground",
+  "photos": [
+   {
+    "file": "File:Sakaide Artificial Ground 2021-08 ac (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5949x3956"
+   },
+   {
+    "file": "File:Sakaide Artificial Ground 2021-08 ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "6002x3991"
+   },
+   {
+    "file": "File:Sakaidejinkoutochi 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3648x2736"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.centrepompidou.fr/en/ressources/oeuvre/cpg4pqx",
+   "https://artscape.jp/artscape/eng/focus/1702_02.html",
+   "https://www.jstage.jst.go.jp/browse/aija/82/737/_contents/-char/en"
+  ],
+  "note": "Built in phases 1963-1978 (1968 is the date of the Pompidou model and first phase). Partly deteriorating; residents are ageing."
+ },
+ {
+  "id": "shonandai-cultural-center",
+  "name": "Shonandai Cultural Center",
+  "by": "Itsuko Hasegawa",
+  "city": "Fujisawa",
+  "cc": "JP",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Architecture as second nature: halls buried below a plaza of cosmic spheres, small metal roofs and a stream.",
+  "award": "Japanese contemporary: Itsuko Hasegawa",
+  "status": "photo",
+  "commons_category": "Category:Shonandai Culture Center",
+  "photos": [
+   {
+    "file": "File:Shonandai Culture Center 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "3264x2448"
+   },
+   {
+    "file": "File:Shonandai Culture Center 201909-2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4201x3150"
+   },
+   {
+    "file": "File:01-SHONANDAI-Fujisawa-10336.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "3183x1928"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_08_140-1",
+   "https://www.cca.qc.ca/en/articles/76367/an-architect-who-works-with-citizens",
+   "https://awarewomenartists.com/en/artiste/itsuko-hasegawa/"
+  ],
+  "note": "First public competition in Japan won by a woman architect; designed with residents' participation."
+ },
+ {
+  "id": "shoto-museum-of-art",
+  "name": "Shoto Museum of Art",
+  "by": "Seiichi Shirai",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1980",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Water"
+  ],
+  "features": "Curved wall of rough Korean granite under a bronze-louvred eave; galleries round a deep light well with fountains.",
+  "award": "Japanese modernism: Seiichi Shirai",
+  "status": "photo",
+  "commons_category": "Category:Shoto Museum of Art",
+  "photos": [
+   {
+    "file": "File:Shoto Museum of Art 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3129x2105"
+   },
+   {
+    "file": "File:渋谷区立松濤美術館.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "3539x2654"
+   },
+   {
+    "file": "File:Shoto-museum.JPG",
+    "license": "CC BY 2.5",
+    "seen": true,
+    "size": "3264x2448"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://shoto-museum.jp/en/aboutthemuseum/outline",
+   "https://architecture-tokyo.com/2017/02/11/1980-shoto-museum-of-art-seiichi-shirai/"
+  ],
+  "note": "Completed May 1980, opened October 1981. Height limit of 10 m, so two floors are underground."
+ },
+ {
+  "id": "takanawa-gateway-station",
+  "name": "Takanawa Gateway Station",
+  "by": "Kengo Kuma",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2020",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Folded, origami-like roof of steel and laminated timber under a translucent membrane, like shoji screens.",
+  "award": "Japanese contemporary: Kengo Kuma",
+  "status": "photo",
+  "commons_category": "Category:Takanawa Gateway Station",
+  "photos": [
+   {
+    "file": "File:Fully opened Takanawa Gateway Station 03.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "3648x2736"
+   },
+   {
+    "file": "File:Fully opened Takanawa Gateway Station 01.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "3648x2736"
+   },
+   {
+    "file": "File:Fully opened Takanawa Gateway Station 02.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "3648x2736"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.architecturalrecord.com/articles/15251-takanawa-gateway-station-by-kengo-kuma-and-associates",
+   "https://spoon-tamago.com/kengo-kuma-takanawa-gateway-station/",
+   "https://decn.co.jp/?p=113079"
+  ],
+  "note": "Opened March 2020 on the Yamanote Line; photos are from the full opening of the surrounding district."
+ },
+ {
+  "id": "gunma-music-center",
+  "name": "Gunma Music Center",
+  "by": "Antonin Raymond",
+  "city": "Takasaki",
+  "cc": "JP",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Thin folded-plate concrete roof and walls zigzag over the hall, funded partly by citizens' donations.",
+  "award": "Japanese modernism: Antonin Raymond",
+  "status": "photo",
+  "commons_category": "Category:Gunma Music Center",
+  "photos": [
+   {
+    "file": "File:Gunma Music Center 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3006x2124"
+   },
+   {
+    "file": "File:群馬音楽センター.jpg",
+    "license": "Public domain",
+    "seen": true,
+    "size": "2816x2112"
+   },
+   {
+    "file": "File:Gunma Music Center (18738032345).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true,
+    "size": "6000x4000"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.johnbarrarchitect.com/post/do-co-mo-mo-japan-13-gunma-music-centre-antonin-raymond",
+   "https://journal.rikumo.com/journal/the-work-of-antonin-raymond"
+  ],
+  "note": "Co-designed with Ladislav Rado. Built on the site of Takasaki Castle. Raymond was Czech-American, working in Japan."
+ },
+ {
+  "id": "kasumigaseki-building",
+  "name": "Kasumigaseki Building",
+  "by": "Yamashita Sekkei with Mitsui Fudosan",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Japan's first modern skyscraper, 36 floors on a flexible steel frame built to ride out earthquakes.",
+  "award": "Japanese modernism: first skyscraper",
+  "status": "photo",
+  "commons_category": "Category:Kasumigaseki Building",
+  "photos": [
+   {
+    "file": "File:Kasumigaseki building - Nov 21 2019 various 16 02 25 344000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:Kasumigaseki building - Nov 21 2019 various 16 02 20 011000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   },
+   {
+    "file": "File:Kasumigaseki building - Nov 21 2019 various 16 02 30 766000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "3940x4648"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kasumigaseki_Building",
+   "https://www.yamashitasekkei.co.jp/en/project/%E9%9C%9E%E3%81%8C%E9%96%A2%E3%83%93%E3%83%AB/",
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_08_114-0"
+  ],
+  "note": "147 m. Flexible structure by Kiyoshi Muto; made possible by the end of the 31 m height limit. Wikipedia lists Kajima as architect; Yamashita Sekkei and Shinkenchiku credit Yamashita (Kajima built it)."
+ },
+ {
+  "id": "kabukiza",
+  "name": "Kabuki-za (2013)",
+  "by": "Kengo Kuma",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2013",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Megastructure",
+   "Detail"
+  ],
+  "features": "The old theatre face rebuilt with its karahafu gables and reused stone and ornament, an office tower rising behind.",
+  "award": "Japanese contemporary: Kengo Kuma",
+  "status": "photo",
+  "commons_category": "Category:Kabuki-za (2013-)",
+  "photos": [
+   {
+    "file": "File:Kabuki-za Theatre 2013 1125.jpg",
+    "license": "Public domain",
+    "seen": true,
+    "size": "3200x2400"
+   },
+   {
+    "file": "File:2019 Kabuki-za.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2500x1579"
+   },
+   {
+    "file": "File:Kabukiza-corner-march4-2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "11760x7488"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kabuki-za",
+   "https://mjd.co.jp/en/insights/52670",
+   "https://mjd.co.jp/en/projects/28243"
+  ],
+  "note": "Fifth Kabuki-za, reopened April 2013; the tower (Kabukiza Tower, 29 floors) bridges over the column-free theatre. Designed with Mitsubishi Jisho Sekkei. It continues the look of Isoya Yoshida's 1950s rebuild."
+ },
+ {
+  "id": "yatsushiro-municipal-museum",
+  "name": "Yatsushiro Municipal Museum",
+  "by": "Toyo Ito",
+  "city": "Yatsushiro",
+  "cc": "JP",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Galleries hidden under a grassy mound; above, light billowing roofs and a floating half-cylinder store.",
+  "award": "Japanese contemporary: Toyo Ito",
+  "status": "photo",
+  "commons_category": "Category:Yatsushiro Municipal Museum",
+  "photos": [
+   {
+    "file": "File:Yatsushiro Municipal Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2500x2000"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archdaily.com/347211/ad-classics-yatsushiro-municipal-museum-toyo-ito",
+   "https://www.pref.kumamoto.jp/uploaded/attachment/42837.pdf",
+   "https://archiweb.cz/en/b/mestske-muzeum-yatsushiro"
+  ],
+  "note": "Kumamoto Artpolis project. Only one photo on Commons (2500x2000, CC BY-SA 3.0). The mound was raised because high groundwater ruled out a basement."
+ },
+ {
+  "id": "inter-university-seminar-house",
+  "name": "Inter-University Seminar House",
+  "by": "Takamasa Yoshizaka (Atelier U)",
+  "city": "Hachioji",
+  "cc": "JP",
+  "year": "1965",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Main hall is an inverted concrete pyramid driven into the hillside; seminar and lodging huts scatter over the slope.",
+  "award": "Japanese modernism: Takamasa Yoshizaka",
+  "status": "photo",
+  "commons_category": "Category:Inter-University Seminar House",
+  "photos": [
+   {
+    "file": "File:2018 Inter-University Seminar House 11.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2500x1766"
+   },
+   {
+    "file": "File:2018 Inter-University Seminar House 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2500x2131"
+   },
+   {
+    "file": "File:Inter-University Seminar House Main building 20140603-01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true,
+    "size": "6000x5338"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Model of Inter-University Seminar House 20140605.jpg",
+    "kind": "Model",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://tokyofox.net/2019/02/19/hidden-treasures-along-the-keio-line-6-inter-university-seminar-house/",
+   "https://www.dezeen.com/2026/10/03/brutalist-asia-book-roundup/amp/",
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka"
+  ],
+  "note": "Yoshizaka worked for Le Corbusier 1950-52. The main hall is a Tokyo-selected historic building. Commons also has good photos of the auditorium, library and unit houses."
+ },
+ {
+  "id": "athenee-francais",
+  "name": "Athénée Français",
+  "by": "Takamasa Yoshizaka (Atelier U)",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Exposed concrete"
+  ],
+  "features": "French language school whose walls, in deep purple and pink, carry small relief marks and rise to a tower.",
+  "award": "Japanese modernism: Takamasa Yoshizaka",
+  "status": "photo",
+  "commons_category": "Category:Athénée Français",
+  "photos": [
+   {
+    "file": "File:Athénée Français - Tokyo - DSC04852.JPG",
+    "license": "CC0",
+    "seen": true,
+    "size": "5472x3648"
+   },
+   {
+    "file": "File:Athenee Francais.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2240x2800"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://www.bunka.go.jp/nama/global/eng/archivalcollections/yosizaka/index.html"
+  ],
+  "note": "Wikipedia dates it 1962; Yoshizaka's archive dates the project 1960-81 (extensions). Won an AIJ Prize. No written source describes the facade, so the features line follows the two photos; worth checking before use."
+ },
+ {
+  "id": "museum-of-modern-art-kamakura",
+  "name": "Museum of Modern Art, Kamakura (Kamakura Bunkakan Tsurugaoka Museum)",
+  "by": "Junzo Sakakura",
+  "city": "Kamakura",
+  "cc": "JP",
+  "year": "1951",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Water",
+   "Courtyard"
+  ],
+  "features": "Light box of galleries on slender pilotis reaching over Heike Pond, round a central courtyard.",
+  "award": "Japanese modernism: Junzo Sakakura",
+  "status": "photo",
+  "commons_category": "Category:The Museum of Modern Art, Kamakura",
+  "photos": [
+   {
+    "file": "File:Tsurugaoka Museum, Kamakura, -29 november 2025 14：42.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "5712x4284"
+   },
+   {
+    "file": "File:The Museum of Modern Art, Kamakura 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2970x2160"
+   },
+   {
+    "file": "File:Kanagawa kenritsu kindai bijutukan.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "1024x768"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Modern_Art,_Kamakura_%26_Hayama",
+   "https://www.moma.pref.kanagawa.jp/en/about-us/architecture/kamakura/",
+   "https://www.johnbarrarchitect.com/post/2018/01/21/moma-kamakura-the-last-japanese-building"
+  ],
+  "note": "Japan's first public museum of modern art. The museum left in 2016; the building passed to Tsurugaoka Hachimangu and reopened as Kamakura Bunkakan Tsurugaoka Museum. Important Cultural Property; DOCOMOMO Japan."
+ },
+ {
+  "id": "meguro-city-office",
+  "name": "Meguro City Office (former Chiyoda Life Insurance HQ)",
+  "by": "Togo Murano",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1966",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Courtyard",
+   "Adaptive reuse"
+  ],
+  "features": "Long office blocks screened by modular cast-aluminium louvres, wrapped round a sunken Japanese garden.",
+  "award": "Japanese modernism: Togo Murano",
+  "status": "photo",
+  "commons_category": "Category:Meguro City Office",
+  "photos": [
+   {
+    "file": "File:Meguro City Office.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2500x2000"
+   },
+   {
+    "file": "File:Meguro, Tokyo City Office.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architecture-tokyo.com/2016/08/16/1966-meguro-ward-office-former-chiyoda-life-insurance-building-togo-murano/",
+   "https://mmat.jp/en/event/archive/2020/20200509-175.html"
+  ],
+  "note": "Built as Chiyoda Life Insurance headquarters; converted to the city office with minimal changes in 2003. Interiors (stairs, tea house) are notable."
+ },
+ {
+  "id": "nippon-budokan",
+  "name": "Nippon Budokan",
+  "by": "Mamoru Yamada",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "Octagonal hall modelled on the Yumedono of Horyu-ji, its sweeping roof meant to recall Mount Fuji, topped by a giboshi.",
+  "award": "Japanese modernism: 1964 Tokyo Olympics",
+  "status": "photo",
+  "commons_category": "Category:Nippon Budokan",
+  "photos": [
+   {
+    "file": "File:Nippon Budokan 20190406.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5184x3456"
+   },
+   {
+    "file": "File:Nippon Budokan - 2024 feb 16 various 04 29 06 786000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "6426x3866"
+   },
+   {
+    "file": "File:Nippon Budokan - sunny day - Nov 12 2021 various.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "7566x3796"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nippon_Budokan",
+   "https://muza-chan.net/japan/index.php/blog/japanese-architecture-nippon-budokan",
+   "https://architecture-tokyo.com/2016/08/13/1964-nippon-budokan-mamoru-yamada/"
+  ],
+  "note": "Built for judo at the 1964 Olympics (October 1963 to September 1964). Criticised at the time as too traditional, next to Yamada's modernist Kyoto Tower."
+ },
+ {
+  "id": "kyoto-tower",
+  "name": "Kyoto Tower",
+  "by": "Mamoru Yamada",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": "1964",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "A white candle of welded steel rings and plate, no lattice, standing on a nine-storey hotel block by Kyoto Station.",
+  "award": "Japanese modernism: Mamoru Yamada",
+  "status": "photo",
+  "commons_category": "Category:Kyoto Tower",
+  "photos": [
+   {
+    "file": "File:Kyoto Tower 2023-12 ac (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "3725x4966"
+   },
+   {
+    "file": "File:Kyoto Tower 20150919.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2383x3177"
+   },
+   {
+    "file": "File:Kyoto Kyoto Tower 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2563x3780"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyoto_Tower"
+  ],
+  "note": "131 m to the spire; observation deck at 100 m. Structural advice from Makoto Tanahashi. Controversial in its day in historic Kyoto."
+ },
+ {
+  "id": "toyoda-auditorium",
+  "name": "Toyoda Auditorium, Nagoya University",
+  "by": "Fumihiko Maki",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": "1960",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "A concrete frame with modules set into it, opening as a deep gateway onto the campus lawn.",
+  "award": "Japanese modernism: Fumihiko Maki",
+  "status": "photo",
+  "commons_category": "Category:Toyoda Auditorium of Nagoya University",
+  "photos": [
+   {
+    "file": "File:Toyota Auditorium of Nagoya University.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "4162x1710"
+   },
+   {
+    "file": "File:Toyoda Auditorium of Nagoya University 2006.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   },
+   {
+    "file": "File:名古屋大学の豊田講堂(20210718).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "3264x2448"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.nagoya-u.ac.jp/news/2013-3-20.html",
+   "https://www.johnbarrarchitect.com/post/2019/08/29/docomomojapan10-toyoda-hall-fumihiko-maki",
+   "https://data.shinkenchiku.online/en/articles/SK_2008_07_110-0"
+  ],
+  "note": "Gift of Toyota to the university, 1960. Restored and extended by Maki in 2008; Registered Tangible Cultural Property 2011, the first so registered in its designer's lifetime."
+ },
+ {
+  "id": "granship",
+  "name": "Shizuoka Convention and Arts Center (Granship)",
+  "by": "Arata Isozaki",
+  "city": "Shizuoka",
+  "cc": "JP",
+  "year": "1998",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "A great hull-shaped hall clad in dark scale-like stone, with a glazed, arched bow and a tower behind.",
+  "award": "Japanese contemporary: Arata Isozaki",
+  "status": "photo",
+  "commons_category": "Category:Shizuoka Convention & Arts Center",
+  "photos": [
+   {
+    "file": "File:Granship Facade.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2832x2128"
+   },
+   {
+    "file": "File:Shizuoka Konferenzzentrum Granship 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4379x2191"
+   },
+   {
+    "file": "File:Shizuoka Konferenzzentrum Granship 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4496x2850"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.archinform.net/projekte/28606.htm",
+   "https://www.catalan-architects.com/en/projects/view/shizuoka-convention-and-arts-center-granship"
+  ],
+  "note": "Isozaki's largest project at the time: large hall (concerts and sport), drama hall, convention area. No written source describes the form; the features line follows the photos, and a Commons file names the cladding as Lugo green phyllite."
+ },
+ {
+  "id": "nagi-moca",
+  "name": "Nagi Museum of Contemporary Art",
+  "by": "Arata Isozaki",
+  "city": "Nagi",
+  "cc": "JP",
+  "year": "1994",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Three galleries, Sun, Moon and Earth, each built around one permanent artwork and set to its orientation.",
+  "award": "Japanese contemporary: Arata Isozaki",
+  "status": "photo",
+  "commons_category": "Category:Nagi Museum Of Contemporary Art",
+  "photos": [
+   {
+    "file": "File:Nagi MOCA.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2048x1536"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.okayama-japan.jp/en/spot/10696",
+   "https://www.reversibledestiny.org/ubiquitous-site-nagis-ryoanji-architectural-body/",
+   "https://www.japanvisitor.com/japan-museums/nagimoca"
+  ],
+  "note": "Sun: tilted cylinder by Arakawa and Madeline Gins; Moon: Kazuo Okazaki, a straight wall and shallow arc aimed at the autumn moon; Earth: Aiko Miyawaki. Only one Commons photo (2048x1536)."
+ },
+ {
+  "id": "mount-fuji-world-heritage-centre",
+  "name": "Mt. Fuji World Heritage Centre, Shizuoka",
+  "by": "Shigeru Ban",
+  "city": "Fujinomiya",
+  "cc": "JP",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Water",
+   "Geometry"
+  ],
+  "features": "Inverted cone of hinoki timber lattice over a pool, whose reflection completes the shape of Mount Fuji.",
+  "award": "Japanese contemporary: Shigeru Ban",
+  "status": "photo",
+  "commons_category": "Category:Mt.Fuji World Heritage Centre, Shizuoka",
+  "photos": [
+   {
+    "file": "File:Mt.Fuji World Heritage Centre,Shizuoka.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "6000x4000"
+   },
+   {
+    "file": "File:Mt.Fuji World Heritage Centre 20220724a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4290x3000"
+   },
+   {
+    "file": "File:Mt.Fuji World Heritage Centre, Shizuoka 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5472x3648"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architizer.com/blog/practice/materials/fujisan-world-heritage-center/",
+   "https://www.swedishwood.com/publications/wood-magazine/2018-2/en-spegling-av-berget/",
+   "https://galeriemagazine.com/shigeru-ban-mt-fuji/"
+  ],
+  "note": "Opened December 2017. A 193 m spiral ramp climbs inside the cone; steel truss shell clad in local cypress."
+ },
+ {
+  "id": "za-koenji",
+  "name": "Za-Koenji Public Theatre",
+  "by": "Toyo Ito",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Tent-like dark steel-plate concrete shell, its roof carved by cones and cylinders, pricked with small glazed portholes.",
+  "award": "Japanese contemporary: Toyo Ito",
+  "status": "photo",
+  "commons_category": "Category:Suginami Art Center",
+  "photos": [
+   {
+    "file": "File:Za koenji.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "2500x1702"
+   },
+   {
+    "file": "File:20140415 za-kouenji2.jpg",
+    "license": "Public domain",
+    "seen": true,
+    "size": "4128x3096"
+   },
+   {
+    "file": "File:ZA-Koenji, Suginami 座・高円寺 Jun 28, 2026.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "3648x2432"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architectuul.com/architecture/za-koenji-public-theatre",
+   "https://architecture-tokyo.com/2017/07/10/2009-za-koenji-public-theatre-toyo-ito/",
+   "https://www.iconeye.com/?p=4078"
+  ],
+  "note": "Suginami Art Center is the Commons category name. Sources give 2008 or 2009 for completion; opened May 2009."
+ },
+ {
+  "id": "aore-nagaoka",
+  "name": "Aore Nagaoka City Hall",
+  "by": "Kengo Kuma",
+  "city": "Nagaoka",
+  "cc": "JP",
+  "year": "2012",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Timber",
+   "Community"
+  ],
+  "features": "City hall and arena round a covered earth-floored plaza, the nakadoma, walled in chequered wood and solar panels.",
+  "award": "Japanese contemporary: Kengo Kuma",
+  "status": "photo",
+  "commons_category": "Category:Ao-re Nagaoka",
+  "photos": [
+   {
+    "file": "File:Ao-re Nagaoka 20140430.jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "2560x1920"
+   },
+   {
+    "file": "File:Ao-re Nagaoka 20120801 01.jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "1920x1434"
+   },
+   {
+    "file": "File:Ao-re Nagaoka 2018.09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "4128x3096"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.belgium-architects.com/nl/kengo-kuma-and-associates-tokyo/project/nagaoka-city-hall-aore",
+   "https://american-architects.com/en/kengo-kuma-and-associates-tokyo/project/nagaoka-city-hall-aore"
+  ],
+  "note": "Brings the city hall back to the town centre beside the station. The plaza floor uses tataki, a traditional rammed-earth finish."
+ },
+ {
+  "id": "starbucks-dazaifu",
+  "name": "Starbucks Coffee, Dazaifu Tenmangu Omotesando",
+  "by": "Kengo Kuma",
+  "city": "Dazaifu",
+  "cc": "JP",
+  "year": "2011",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "About 2,000 slim cedar sticks woven diagonally, four meeting at each joint, fill a narrow shopfront.",
+  "award": "Japanese contemporary: Kengo Kuma",
+  "status": "photo",
+  "commons_category": "Category:Starbucks Coffee Dazaifutenmangu Omotesando Store",
+  "photos": [
+   {
+    "file": "File:Dazaifu-sutaba.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3256x2438"
+   },
+   {
+    "file": "File:スターバックス 太宰府天満宮表参道店 (31824610824).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true,
+    "size": "4912x3264"
+   },
+   {
+    "file": "File:Starbucks Coffee Dazaifutenmangu Omotesando Store-3.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "4032x3024"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2012/02/23/starbucks-coffee-at-dazaifu-tenman-gu-by-kengo-kuma-and-associates/amp/",
+   "https://japanpropertycentral.com/2011/12/kengo-kuma-designs-starbucks-store",
+   "https://en.japantravel.com/article/starbucks-dazaifu-by-kengo-kuma/21567"
+  ],
+  "note": "A small shop on the approach to Dazaifu Tenmangu shrine; opened December 2011. Sticks 6 cm square, 1.3 to 4 m long."
+ },
+ {
+  "id": "prince-kyoto-takaragaike",
+  "name": "The Prince Kyoto Takaragaike (Kyoto Takaragaike Prince Hotel)",
+  "by": "Togo Murano",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": "1986",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Ring-shaped hotel: 310 rooms along one corridor round a garden court, the rounded tiers stepping back.",
+  "award": "Japanese modernism: Togo Murano",
+  "status": "photo",
+  "commons_category": "Category:The Prince Kyoto Takaragaike",
+  "photos": [
+   {
+    "file": "File:The Prince Kyoto Takaragaike 20211018-002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5439x3626"
+   },
+   {
+    "file": "File:宝ヶ池プリンスホテル.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "2304x1728"
+   },
+   {
+    "file": "File:The Prince Kyoto Takaragaike 20211018-001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "5714x3809"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.princehotels.com/kyoto/promotion/togomuranotour/",
+   "https://www.haveagood-holiday.com/en/articles/the-prince-kyoto-takaragaike-40th-anniversary-architecture-stay-plan"
+  ],
+  "note": "One of Murano's last works (he died in 1984; opened October 1986). Sources are mainly the hotel's own pages."
+ },
+ {
+  "id": "japan-pavilion-venice",
+  "name": "Japan Pavilion, Venice Biennale",
+  "by": "Takamasa Yoshizaka",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1956",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Square gallery box raised on four massive pilotis, one per side; a floor opening and glass-block ceiling bring light.",
+  "award": "Japanese modernism: Takamasa Yoshizaka",
+  "status": "unsure",
+  "commons_category": "Category:Venice Biennale pavilions (Japan)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Japanese_pavilion",
+   "https://www.archiweb.cz/en/b/japonsky-pavilon",
+   "https://venezia-biennale-japan.jpf.go.jp/e/about"
+  ],
+  "note": "No usable exterior photo: the category holds an installation view, a signboard, and File:Japanese pavilion at the Venice biennial.jpg (1200x1800, CC BY-SA 3.0), which shows only one corner under a tree. Italy has no freedom of panorama for buildings and Yoshizaka died in 1980, so photos may be deleted. Not drawn: sources give the raised box on four pilotis, but I could not pin down the facade pattern, the entrance stair or the sloping ground well enough. Restored under Toyo Ito in 2014. Co-author Juichi Otake per archiweb."
+ },
+ {
+  "id": "hotel-tokoen",
+  "name": "Hotel Tokoen",
+  "by": "Kiyonori Kikutake",
+  "city": "Yonago",
+  "cc": "JP",
+  "year": "1964",
+  "type": "Hospitality",
+  "movement": "Metabolism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Planting"
+  ],
+  "features": "Concrete columns and beams read as a torii; upper floors hang from 7th-floor beams over an open garden floor.",
+  "award": "Japanese modernism: Metabolism (Kiyonori Kikutake)",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:KIKUTAKE-hotel-Tokoen-1400.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "2906x2133"
+   },
+   {
+    "file": "File:KIKUTAKE Yonago-5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1036x1528"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.ana.co.jp/en/sg/japan-travel-planner/travel-to-japanese-architecture/detail16/",
+   "https://monocle.com/magazine/the-escapist/2017/do-not-disturb"
+  ],
+  "note": "No Commons category; both files were found by search (described as Kikutake, Hotel Tokoen, 1964). The second is 1036x1528, which is under 1200px on its long side but over 800. Gardens and bathhouse by sculptor Masayuki Nagare. At Kaike Onsen."
+ },
+ {
+  "id": "miyakonojo-civic-hall",
+  "name": "Miyakonojo Civic Hall",
+  "by": "Kiyonori Kikutake",
+  "city": "Miyakonojo",
+  "cc": "JP",
+  "year": "1966",
+  "type": "Civic",
+  "movement": "Metabolism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Exposed concrete"
+  ],
+  "features": "Hall roofed by a great fan of steel ribs rising from a concrete base; a Metabolist landmark, demolished 2019-20.",
+  "award": "Japanese modernism: Metabolism (Kiyonori Kikutake)",
+  "status": "photo",
+  "commons_category": "Category:Miyakonojo Civic Hall",
+  "photos": [
+   {
+    "file": "File:Miyakonojo civic Hall.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true,
+    "size": "3072x2304"
+   },
+   {
+    "file": "File:Kikutake Miyakonojo-1979.jpg",
+    "license": "CC0",
+    "seen": true,
+    "size": "3030x1825"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://japanpropertycentral.com/2019/06/miyazaki-metabolist-hall-to-be-demolished",
+   "https://www.tobunken.go.jp/materials/?p=2398066",
+   "https://en.wikipedia.org/wiki/Kiyonori_Kikutake"
+  ],
+  "note": "Demolished 2019-2020 after closing in 2007 (most residents polled agreed); 3D-scanned before demolition. The fan-of-ribs description follows the photos; written sources do not describe the roof. Include only if the wall takes lost buildings."
+ },
+ {
+  "id": "shiroiya-hotel",
+  "name": "Shiroiya Hotel",
+  "by": "Sou Fujimoto",
+  "city": "Maebashi",
+  "cc": "JP",
+  "year": "2020",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "A renovated 1970s hotel paired with a new Green Tower: a grassy mound planted with shrubs and trees.",
+  "award": "Japanese contemporary: Sou Fujimoto",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Shiroiya Hotel.jpg",
+    "license": "CC BY 4.0",
+    "seen": true,
+    "size": "2000x1500"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://spoon-tamago.com/sou-fujimoto-shiroiya-hotel-maebashi/",
+   "https://www.baunetzwissen.de/stadt--und-dachbegruenung/objekte/wohnen/umbau-und-erweiterung-shiroiya-hotel-in-maebashi-8224706",
+   "https://design-anthology.com/story/shiroiya-hotel"
+  ],
+  "note": "Only one Commons file (2000x1500, CC BY 4.0, from the north, showing the Green Tower), found by search; there is no category. Artist rooms and an atrium work by Leandro Erlich are inside the Heritage Tower."
  }
 ]
