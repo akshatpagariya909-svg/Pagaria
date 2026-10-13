@@ -21,3 +21,11 @@ Follow `BRIEF2.md` exactly (Commons check, drawing language, facts from `vocab.j
 
 Results: `tools/illustrate/results/r3_<award>.json`; drawings: `tools/illustrate/svg/<id>.svg`.
 Don't edit anything outside `tools/illustrate/`; no commits, no pushes.
+
+## Two hard rules (added 13 October after round 6)
+
+- **No personal data in requests.** Use a generic User-Agent such as `DiscoverArchitecture/1.0 (research)`.
+  Never put the owner's name, email or any account detail in a request, header or file.
+- **Only sourced facts.** `by`, `year` and the `features` line must each be supported by a source you
+  read (Wikipedia, a Commons file or category page, an official or press page). Don't write features
+  from memory or from what a photo seems to show. If you can't source them, leave the building out.
