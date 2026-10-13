@@ -17625,16 +17625,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13120429W",
-  "isbn": "9780343722753",
-  "olYear": 1851,
   "cover": {
    "thumb": "images/books/die-vier-elemente-der-baukunst.webp",
    "src": "https://covers.openlibrary.org/b/id/6011127-L.jpg",
    "w": 300,
    "h": 500,
    "source": "https://openlibrary.org/works/OL13120429W"
-  }
+  },
+  "ol": "OL13120429W",
+  "isbn": "9780343722753",
+  "olYear": 1851
  },
  {
   "id": "der-stil-in-den-technischen-und-tektonischen-kunsten",
@@ -17650,15 +17650,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2847154W",
-  "olYear": 1878,
   "cover": {
    "thumb": "images/books/der-stil-in-den-technischen-und-tektonischen-kunsten.webp",
    "src": "https://covers.openlibrary.org/b/id/6489438-L.jpg",
    "w": 340,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2847154W"
-  }
+  },
+  "ol": "OL2847154W",
+  "olYear": 1878
  },
  {
   "id": "italian-gardens",
@@ -17674,16 +17674,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1959139W",
-  "isbn": "9780881922738",
-  "olYear": 1893,
   "cover": {
    "thumb": "images/books/italian-gardens.webp",
    "src": "https://covers.openlibrary.org/b/id/5571335-L.jpg",
    "w": 310,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1959139W"
-  }
+  },
+  "ol": "OL1959139W",
+  "isbn": "9780881922738",
+  "olYear": 1893
  },
  {
   "id": "rural-architecture",
@@ -17699,16 +17699,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL9807011W",
-  "isbn": "0343950758",
-  "olYear": 1852,
   "cover": {
    "thumb": "images/books/rural-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/2895710-L.jpg",
    "w": 313,
    "h": 500,
    "source": "https://openlibrary.org/works/OL9807011W"
-  }
+  },
+  "ol": "OL9807011W",
+  "isbn": "0343950758",
+  "olYear": 1852
  },
  {
   "id": "supports-an-alternative-to-mass-housing",
@@ -17724,16 +17724,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2687301W",
-  "isbn": "9780367857370",
-  "olYear": 1972,
   "cover": {
    "thumb": "images/books/supports-an-alternative-to-mass-housing.webp",
    "src": "https://covers.openlibrary.org/b/id/921934-L.jpg",
    "w": 302,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2687301W"
-  }
+  },
+  "ol": "OL2687301W",
+  "isbn": "9780367857370",
+  "olYear": 1972
  },
  {
   "id": "a-history-of-egyptian-architecture",
@@ -17749,16 +17749,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1352017W",
-  "isbn": "1854170538",
-  "olYear": 1954,
   "cover": {
    "thumb": "images/books/a-history-of-egyptian-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/5166134-L.jpg",
    "w": 128,
    "h": 183,
    "source": "https://openlibrary.org/works/OL1352017W"
-  }
+  },
+  "ol": "OL1352017W",
+  "isbn": "1854170538",
+  "olYear": 1954
  },
  {
   "id": "development-and-character-of-gothic-architecture",
@@ -17789,15 +17789,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1106509W",
-  "olYear": 1865,
   "cover": {
    "thumb": "images/books/some-account-of-gothic-architecture-in-spain.webp",
    "src": "https://covers.openlibrary.org/b/id/6095268-L.jpg",
    "w": 305,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1106509W"
-  }
+  },
+  "ol": "OL1106509W",
+  "olYear": 1865
  },
  {
   "id": "london-the-unique-city",
@@ -17813,15 +17813,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17979221W",
-  "olYear": 1934,
   "cover": {
    "thumb": "images/books/london-the-unique-city.webp",
    "src": "https://covers.openlibrary.org/b/id/10273556-L.jpg",
    "w": 316,
    "h": 500,
    "source": "https://openlibrary.org/works/OL17979221W"
-  }
+  },
+  "ol": "OL17979221W",
+  "olYear": 1934
  },
  {
   "id": "american-architecture-and-urbanism",
@@ -17837,16 +17837,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL113809W",
-  "isbn": "9781595341808",
-  "olYear": 1969,
   "cover": {
    "thumb": "images/books/american-architecture-and-urbanism.webp",
    "src": "https://covers.openlibrary.org/b/id/6382582-L.jpg",
    "w": 434,
    "h": 500,
    "source": "https://openlibrary.org/works/OL113809W"
-  }
+  },
+  "ol": "OL113809W",
+  "isbn": "9781595341808",
+  "olYear": 1969
  },
  {
   "id": "architecture-of-regionalism-in-the-age-of-globalization-peak",
@@ -17877,16 +17877,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13763379W",
-  "isbn": "1135871906",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/housing-design-handbook-a-guide-to-good-practice.webp",
    "src": "https://covers.openlibrary.org/b/id/13235856-L.jpg",
    "w": 398,
    "h": 500,
    "source": "https://openlibrary.org/works/OL13763379W"
-  }
+  },
+  "ol": "OL13763379W",
+  "isbn": "1135871906",
+  "olYear": 2009
  },
  {
   "id": "making-people-friendly-towns",
@@ -17902,16 +17902,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL222254W",
-  "isbn": "9780203469521",
-  "olYear": 1992,
   "cover": {
    "thumb": "images/books/making-people-friendly-towns.webp",
    "src": "https://covers.openlibrary.org/b/id/266122-L.jpg",
    "w": 499,
    "h": 500,
    "source": "https://openlibrary.org/works/OL222254W"
-  }
+  },
+  "ol": "OL222254W",
+  "isbn": "9780203469521",
+  "olYear": 1992
  },
  {
   "id": "andrea-palladio",
@@ -17929,16 +17929,16 @@ window.BOOKS = [
    "Andrea Palladio"
   ],
   "buildings": [],
-  "ol": "OL2819012W",
-  "isbn": "0847811506",
-  "olYear": 1973,
   "cover": {
    "thumb": "images/books/andrea-palladio.webp",
    "src": "https://covers.openlibrary.org/b/id/8519308-L.jpg",
    "w": 361,
    "h": 400,
    "source": "https://openlibrary.org/works/OL2819012W"
-  }
+  },
+  "ol": "OL2819012W",
+  "isbn": "0847811506",
+  "olYear": 1973
  },
  {
   "id": "the-modern-house",
@@ -17954,15 +17954,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL7428848W",
-  "olYear": 1934,
   "cover": {
    "thumb": "images/books/the-modern-house.webp",
    "src": "https://covers.openlibrary.org/b/id/15019089-L.jpg",
    "w": 366,
    "h": 500,
    "source": "https://openlibrary.org/works/OL7428848W"
-  }
+  },
+  "ol": "OL7428848W",
+  "olYear": 1934
  },
  {
   "id": "the-dissertation-an-architecture-student-s-handbook",
@@ -17978,16 +17978,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5745939W",
-  "isbn": "1317746953",
-  "olYear": 2000,
   "cover": {
    "thumb": "images/books/the-dissertation-an-architecture-student-s-handbook.webp",
    "src": "https://covers.openlibrary.org/b/id/493519-L.jpg",
    "w": 303,
    "h": 475,
    "source": "https://openlibrary.org/works/OL5745939W"
-  }
+  },
+  "ol": "OL5745939W",
+  "isbn": "1317746953",
+  "olYear": 2000
  },
  {
   "id": "the-urban-pattern-city-planning-and-design",
@@ -18033,16 +18033,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL19069698W",
-  "isbn": "3034608721",
-  "olYear": 2012,
   "cover": {
    "thumb": "images/books/building-with-earth-design-and-technology-of-a-sustainable-a.webp",
    "src": "https://covers.openlibrary.org/b/id/8383794-L.jpg",
    "w": 390,
    "h": 500,
    "source": "https://openlibrary.org/works/OL19069698W"
-  }
+  },
+  "ol": "OL19069698W",
+  "isbn": "3034608721",
+  "olYear": 2012
  },
  {
   "id": "the-american-house-carpenter",
@@ -18058,15 +18058,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5660547W",
-  "olYear": 1844,
   "cover": {
    "thumb": "images/books/the-american-house-carpenter.webp",
    "src": "https://covers.openlibrary.org/b/id/5651223-L.jpg",
    "w": 308,
    "h": 500,
    "source": "https://openlibrary.org/works/OL5660547W"
-  }
+  },
+  "ol": "OL5660547W",
+  "olYear": 1844
  },
  {
   "id": "specimens-of-gothic-architecture",
@@ -18082,15 +18082,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4972967W",
-  "olYear": 1821,
   "cover": {
    "thumb": "images/books/specimens-of-gothic-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/6097537-L.jpg",
    "w": 372,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4972967W"
-  }
+  },
+  "ol": "OL4972967W",
+  "olYear": 1821
  },
  {
   "id": "the-analysis-of-ornament",
@@ -18106,16 +18106,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5454573W",
-  "isbn": "9781104020019",
-  "olYear": 1856,
   "cover": {
    "thumb": "images/books/the-analysis-of-ornament.webp",
    "src": "https://covers.openlibrary.org/b/id/11760899-L.jpg",
    "w": 292,
    "h": 500,
    "source": "https://openlibrary.org/works/OL5454573W"
-  }
+  },
+  "ol": "OL5454573W",
+  "isbn": "9781104020019",
+  "olYear": 1856
  },
  {
   "id": "the-builder-s-jewel",
@@ -18131,15 +18131,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL110285W",
-  "olYear": 1741,
   "cover": {
    "thumb": "images/books/the-builder-s-jewel.webp",
    "src": "https://covers.openlibrary.org/b/id/14889489-L.jpg",
    "w": 356,
    "h": 500,
    "source": "https://openlibrary.org/works/OL110285W"
-  }
+  },
+  "ol": "OL110285W",
+  "olYear": 1741
  },
  {
   "id": "practical-architecture-or-a-sure-guide-to-the-true-working-a",
@@ -18155,16 +18155,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4826986W",
-  "isbn": "1379854784",
-  "olYear": 1724,
   "cover": {
    "thumb": "images/books/practical-architecture-or-a-sure-guide-to-the-true-working-a.webp",
    "src": "https://covers.openlibrary.org/b/id/7031746-L.jpg",
    "w": 297,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4826986W"
-  }
+  },
+  "ol": "OL4826986W",
+  "isbn": "1379854784",
+  "olYear": 1724
  },
  {
   "id": "the-art-and-architecture-of-the-ancient-orient",
@@ -18180,16 +18180,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1141020W",
-  "isbn": "0140561072",
-  "olYear": 1954,
   "cover": {
    "thumb": "images/books/the-art-and-architecture-of-the-ancient-orient.webp",
    "src": "https://covers.openlibrary.org/b/id/160161-L.jpg",
    "w": 326,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1141020W"
-  }
+  },
+  "ol": "OL1141020W",
+  "isbn": "0140561072",
+  "olYear": 1954
  },
  {
   "id": "the-architecture-of-frank-lloyd-wright-a-complete-catalog",
@@ -18207,16 +18207,16 @@ window.BOOKS = [
    "Frank Lloyd Wright"
   ],
   "buildings": [],
-  "ol": "OL3939700W",
-  "isbn": "0262190974",
-  "olYear": 1974,
   "cover": {
    "thumb": "images/books/the-architecture-of-frank-lloyd-wright-a-complete-catalog.webp",
    "src": "https://covers.openlibrary.org/b/id/4430798-L.jpg",
    "w": 128,
    "h": 209,
    "source": "https://openlibrary.org/works/OL3939700W"
-  }
+  },
+  "ol": "OL3939700W",
+  "isbn": "0262190974",
+  "olYear": 1974
  },
  {
   "id": "construction-detailing-for-landscape-and-garden-design",
@@ -18232,16 +18232,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL21127839W",
-  "isbn": "9781315681962",
-  "olYear": 2016,
   "cover": {
    "thumb": "images/books/construction-detailing-for-landscape-and-garden-design.webp",
    "src": "https://covers.openlibrary.org/b/id/13200945-L.jpg",
    "w": 384,
    "h": 500,
    "source": "https://openlibrary.org/works/OL21127839W"
-  }
+  },
+  "ol": "OL21127839W",
+  "isbn": "9781315681962",
+  "olYear": 2016
  },
  {
   "id": "lighting-by-design",
@@ -18257,16 +18257,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL8467156W",
-  "isbn": "1138169382",
-  "olYear": 2003,
   "cover": {
    "thumb": "images/books/lighting-by-design.webp",
    "src": "https://covers.openlibrary.org/b/id/1400779-L.jpg",
    "w": 369,
    "h": 500,
    "source": "https://openlibrary.org/works/OL8467156W"
-  }
+  },
+  "ol": "OL8467156W",
+  "isbn": "1138169382",
+  "olYear": 2003
  },
  {
   "id": "space-planning-basics",
@@ -18282,16 +18282,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17406545W",
-  "isbn": "1118152298",
-  "olYear": 2009,
   "cover": {
    "thumb": "images/books/space-planning-basics.webp",
    "src": "https://covers.openlibrary.org/b/id/7515930-L.jpg",
    "w": 400,
    "h": 301,
    "source": "https://openlibrary.org/works/OL17406545W"
-  }
+  },
+  "ol": "OL17406545W",
+  "isbn": "1118152298",
+  "olYear": 2009
  },
  {
   "id": "victorian-comfort-a-social-history-of-design-from-18301900",
@@ -18307,16 +18307,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1189698W",
-  "isbn": "9781014923790",
-  "olYear": 1961,
   "cover": {
    "thumb": "images/books/victorian-comfort-a-social-history-of-design-from-18301900.webp",
    "src": "https://covers.openlibrary.org/b/id/8951040-L.jpg",
    "w": 346,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1189698W"
-  }
+  },
+  "ol": "OL1189698W",
+  "isbn": "9781014923790",
+  "olYear": 1961
  },
  {
   "id": "the-fortified-house-in-scotland",
@@ -18332,16 +18332,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL10569321W",
-  "isbn": "0901824429",
-  "olYear": 1962,
   "cover": {
    "thumb": "images/books/the-fortified-house-in-scotland.webp",
    "src": "https://covers.openlibrary.org/b/id/12584506-L.jpg",
    "w": 307,
    "h": 500,
    "source": "https://openlibrary.org/works/OL10569321W"
-  }
+  },
+  "ol": "OL10569321W",
+  "isbn": "0901824429",
+  "olYear": 1962
  },
  {
   "id": "tiryns",
@@ -18357,16 +18357,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1176333W",
-  "isbn": "0405089325",
-  "olYear": 1885,
   "cover": {
    "thumb": "images/books/tiryns.webp",
    "src": "https://covers.openlibrary.org/b/id/5926489-L.jpg",
    "w": 317,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1176333W"
-  }
+  },
+  "ol": "OL1176333W",
+  "isbn": "0405089325",
+  "olYear": 1885
  },
  {
   "id": "house-x",
@@ -18384,16 +18384,16 @@ window.BOOKS = [
    "Peter Eisenman"
   ],
   "buildings": [],
-  "ol": "OL18290073W",
-  "isbn": "0847803465",
-  "olYear": 1982,
   "cover": {
    "thumb": "images/books/house-x.webp",
    "src": "https://covers.openlibrary.org/b/olid/OL4118027M-L.jpg",
    "w": 496,
    "h": 500,
    "source": "https://openlibrary.org/works/OL18290073W"
-  }
+  },
+  "ol": "OL18290073W",
+  "isbn": "0847803465",
+  "olYear": 1982
  },
  {
   "id": "nine-chains-to-the-moon",
@@ -18411,16 +18411,16 @@ window.BOOKS = [
    "Buckminster Fuller"
   ],
   "buildings": [],
-  "ol": "OL4109898W",
-  "isbn": "0385011490",
-  "olYear": 1938,
   "cover": {
    "thumb": "images/books/nine-chains-to-the-moon.webp",
    "src": "https://covers.openlibrary.org/b/id/6747811-L.jpg",
    "w": 302,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4109898W"
-  }
+  },
+  "ol": "OL4109898W",
+  "isbn": "0385011490",
+  "olYear": 1938
  },
  {
   "id": "critical-path",
@@ -18438,16 +18438,16 @@ window.BOOKS = [
    "Buckminster Fuller"
   ],
   "buildings": [],
-  "ol": "OL4109893W",
-  "isbn": "0312174888",
-  "olYear": 1981,
   "cover": {
    "thumb": "images/books/critical-path.webp",
    "src": "https://covers.openlibrary.org/b/id/174693-L.jpg",
    "w": 312,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4109893W"
-  }
+  },
+  "ol": "OL4109893W",
+  "isbn": "0312174888",
+  "olYear": 1981
  },
  {
   "id": "mutations",
@@ -18463,16 +18463,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL18204959W",
-  "isbn": "9788495273512",
-  "olYear": 2000,
   "cover": {
    "thumb": "images/books/mutations.webp",
    "src": "https://covers.openlibrary.org/b/id/1048553-L.jpg",
    "w": 378,
    "h": 500,
    "source": "https://openlibrary.org/works/OL18204959W"
-  }
+  },
+  "ol": "OL18204959W",
+  "isbn": "9788495273512",
+  "olYear": 2000
  },
  {
   "id": "david-adjaye-houses-recycling-reconfiguring-rebuilding",
@@ -18554,16 +18554,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL16963958W",
-  "isbn": "0511839472",
-  "olYear": 1989,
   "cover": {
    "thumb": "images/books/the-social-logic-of-space.webp",
    "src": "https://covers.openlibrary.org/b/id/335227-L.jpg",
    "w": 333,
    "h": 475,
    "source": "https://openlibrary.org/works/OL16963958W"
-  }
+  },
+  "ol": "OL16963958W",
+  "isbn": "0511839472",
+  "olYear": 1989
  },
  {
   "id": "space-is-the-machine",
@@ -18579,16 +18579,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2929208W",
-  "isbn": "9781511697767",
-  "olYear": 1996,
   "cover": {
    "thumb": "images/books/space-is-the-machine.webp",
    "src": "https://covers.openlibrary.org/b/id/4659592-L.jpg",
    "w": 128,
    "h": 165,
    "source": "https://openlibrary.org/works/OL2929208W"
-  }
+  },
+  "ol": "OL2929208W",
+  "isbn": "9781511697767",
+  "olYear": 1996
  },
  {
   "id": "architecture-theory-since-1968",
@@ -18604,16 +18604,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL18836615W",
-  "isbn": "9780585456645",
-  "olYear": 1998,
   "cover": {
    "thumb": "images/books/architecture-theory-since-1968.webp",
    "src": "https://covers.openlibrary.org/b/id/13243069-L.jpg",
    "w": 347,
    "h": 500,
    "source": "https://openlibrary.org/works/OL18836615W"
-  }
+  },
+  "ol": "OL18836615W",
+  "isbn": "9780585456645",
+  "olYear": 1998
  },
  {
   "id": "theories-and-manifestoes-of-contemporary-architecture",
@@ -18629,16 +18629,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL27974280W",
-  "isbn": "9781119995647",
-  "olYear": 1997,
   "cover": {
    "thumb": "images/books/theories-and-manifestoes-of-contemporary-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/307611-L.jpg",
    "w": 335,
    "h": 475,
    "source": "https://openlibrary.org/works/OL27974280W"
-  }
+  },
+  "ol": "OL27974280W",
+  "isbn": "9781119995647",
+  "olYear": 1997
  },
  {
   "id": "megastructure-urban-futures-of-the-recent-past",
@@ -18669,16 +18669,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL18293871W",
-  "isbn": "9780415278201",
-  "olYear": 2003,
   "cover": {
    "thumb": "images/books/architecture-in-the-digital-age-design-and-manufacturing.webp",
    "src": "https://covers.openlibrary.org/b/id/1213672-L.jpg",
    "w": 500,
    "h": 500,
    "source": "https://openlibrary.org/works/OL18293871W"
-  }
+  },
+  "ol": "OL18293871W",
+  "isbn": "9780415278201",
+  "olYear": 2003
  },
  {
   "id": "folding-in-architecture",
@@ -18694,16 +18694,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL849339W",
-  "isbn": "9780470092187",
-  "olYear": 1993,
   "cover": {
    "thumb": "images/books/folding-in-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/1239283-L.jpg",
    "w": 414,
    "h": 500,
    "source": "https://openlibrary.org/works/OL849339W"
-  }
+  },
+  "ol": "OL849339W",
+  "isbn": "9780470092187",
+  "olYear": 1993
  },
  {
   "id": "animate-form",
@@ -18719,16 +18719,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL849338W",
-  "isbn": "1568980833",
-  "olYear": 1999,
   "cover": {
    "thumb": "images/books/animate-form.webp",
    "src": "https://covers.openlibrary.org/b/id/812513-L.jpg",
    "w": 345,
    "h": 475,
    "source": "https://openlibrary.org/works/OL849338W"
-  }
+  },
+  "ol": "OL849338W",
+  "isbn": "1568980833",
+  "olYear": 1999
  },
  {
   "id": "the-alphabet-and-the-algorithm",
@@ -18744,16 +18744,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL16986746W",
-  "isbn": "9780262296694",
-  "olYear": 2011,
   "cover": {
    "thumb": "images/books/the-alphabet-and-the-algorithm.webp",
    "src": "https://covers.openlibrary.org/b/id/8126114-L.jpg",
    "w": 336,
    "h": 500,
    "source": "https://openlibrary.org/works/OL16986746W"
-  }
+  },
+  "ol": "OL16986746W",
+  "isbn": "9780262296694",
+  "olYear": 2011
  },
  {
   "id": "the-second-digital-turn-design-beyond-intelligence",
@@ -18784,16 +18784,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17391250W",
-  "isbn": "047066570X",
-  "olYear": 2011,
   "cover": {
    "thumb": "images/books/computational-design-thinking.webp",
    "src": "https://covers.openlibrary.org/b/id/7485401-L.jpg",
    "w": 275,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17391250W"
-  }
+  },
+  "ol": "OL17391250W",
+  "isbn": "047066570X",
+  "olYear": 2011
  },
  {
   "id": "material-computation-higher-integration-in-morphogenetic-des",
@@ -18856,16 +18856,16 @@ window.BOOKS = [
    "Frei Otto"
   ],
   "buildings": [],
-  "ol": "OL18926099W",
-  "isbn": "0262650053",
-  "olYear": 1973,
   "cover": {
    "thumb": "images/books/tensile-structures.webp",
    "src": "https://covers.openlibrary.org/b/id/4506724-L.jpg",
    "w": 128,
    "h": 169,
    "source": "https://openlibrary.org/works/OL18926099W"
-  }
+  },
+  "ol": "OL18926099W",
+  "isbn": "0262650053",
+  "olYear": 1973
  },
  {
   "id": "biomimicry-innovation-inspired-by-nature",
@@ -18896,16 +18896,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3524542W",
-  "isbn": "1118129342",
-  "olYear": 1984,
   "cover": {
    "thumb": "images/books/visual-notes-for-architects-and-designers.webp",
    "src": "https://covers.openlibrary.org/b/id/4279810-L.jpg",
    "w": 128,
    "h": 183,
    "source": "https://openlibrary.org/works/OL3524542W"
-  }
+  },
+  "ol": "OL3524542W",
+  "isbn": "1118129342",
+  "olYear": 1984
  },
  {
   "id": "housing-as-if-people-mattered",
@@ -18921,16 +18921,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL20986105W",
-  "isbn": "9780520908796",
-  "olYear": 1988,
   "cover": {
    "thumb": "images/books/housing-as-if-people-mattered.webp",
    "src": "https://covers.openlibrary.org/b/id/1265324-L.jpg",
    "w": 500,
    "h": 350,
    "source": "https://openlibrary.org/works/OL20986105W"
-  }
+  },
+  "ol": "OL20986105W",
+  "isbn": "9780520908796",
+  "olYear": 1988
  },
  {
   "id": "house-form-and-culture",
@@ -18946,16 +18946,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4445627W",
-  "isbn": "0133956733",
-  "olYear": 1969,
   "cover": {
    "thumb": "images/books/house-form-and-culture.webp",
    "src": "https://covers.openlibrary.org/b/id/6513286-L.jpg",
    "w": 318,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4445627W"
-  }
+  },
+  "ol": "OL4445627W",
+  "isbn": "0133956733",
+  "olYear": 1969
  },
  {
   "id": "the-meaning-of-the-built-environment",
@@ -18971,16 +18971,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4445626W",
-  "isbn": "0816511764",
-  "olYear": 1982,
   "cover": {
    "thumb": "images/books/the-meaning-of-the-built-environment.webp",
    "src": "https://covers.openlibrary.org/b/id/4025282-L.jpg",
    "w": 128,
    "h": 199,
    "source": "https://openlibrary.org/works/OL4445626W"
-  }
+  },
+  "ol": "OL4445626W",
+  "isbn": "0816511764",
+  "olYear": 1982
  },
  {
   "id": "defensible-space",
@@ -18996,16 +18996,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2584153W",
-  "isbn": "0851391362",
-  "olYear": 1972,
   "cover": {
    "thumb": "images/books/defensible-space.webp",
    "src": "https://covers.openlibrary.org/b/id/6486461-L.jpg",
    "w": 327,
    "h": 500,
    "source": "https://openlibrary.org/works/OL2584153W"
-  }
+  },
+  "ol": "OL2584153W",
+  "isbn": "0851391362",
+  "olYear": 1972
  },
  {
   "id": "african-traditional-architecture-an-historical-and-geographi",
@@ -19038,15 +19038,15 @@ window.BOOKS = [
    "Maxwell Fry"
   ],
   "buildings": [],
-  "ol": "OL11933382W",
-  "olYear": 1956,
   "cover": {
    "thumb": "images/books/tropical-architecture-in-the-humid-zone.webp",
    "src": "https://covers.openlibrary.org/b/id/14903657-L.jpg",
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL11933382W"
-  }
+  },
+  "ol": "OL11933382W",
+  "olYear": 1956
  },
  {
   "id": "dwellings-the-vernacular-house-world-wide",
@@ -19062,16 +19062,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13612248W",
-  "isbn": "0714842028",
-  "olYear": 2002,
   "cover": {
    "thumb": "images/books/dwellings-the-vernacular-house-world-wide.webp",
    "src": "https://covers.openlibrary.org/b/id/12672705-L.jpg",
    "w": 431,
    "h": 500,
    "source": "https://openlibrary.org/works/OL13612248W"
-  }
+  },
+  "ol": "OL13612248W",
+  "isbn": "0714842028",
+  "olYear": 2002
  },
  {
   "id": "shelter-and-society",
@@ -19087,16 +19087,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1849984W",
-  "isbn": "0214667960",
-  "olYear": 1969,
   "cover": {
    "thumb": "images/books/shelter-and-society.webp",
    "src": "https://covers.openlibrary.org/b/id/9568092-L.jpg",
    "w": 462,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1849984W"
-  }
+  },
+  "ol": "OL1849984W",
+  "isbn": "0214667960",
+  "olYear": 1969
  },
  {
   "id": "the-chinese-house-craft-symbol-and-the-folk-tradition",
@@ -19127,16 +19127,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1887402W",
-  "isbn": "9780824820756",
-  "olYear": 1999,
   "cover": {
    "thumb": "images/books/china-s-old-dwellings.webp",
    "src": "https://covers.openlibrary.org/b/isbn/9780824820756-L.jpg",
    "w": 391,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1887402W"
-  }
+  },
+  "ol": "OL1887402W",
+  "isbn": "9780824820756",
+  "olYear": 1999
  },
  {
   "id": "the-formation-of-islamic-art",
@@ -19152,16 +19152,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL2490703W",
-  "isbn": "0300015054",
-  "olYear": 1973,
   "cover": {
    "thumb": "images/books/the-formation-of-islamic-art.webp",
    "src": "https://covers.openlibrary.org/b/id/159533-L.jpg",
    "w": 335,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2490703W"
-  }
+  },
+  "ol": "OL2490703W",
+  "isbn": "0300015054",
+  "olYear": 1973
  },
  {
   "id": "the-architecture-of-luis-barragan",
@@ -19179,16 +19179,16 @@ window.BOOKS = [
    "Luis Barragán"
   ],
   "buildings": [],
-  "ol": "OL831250W",
-  "isbn": "0870702343",
-  "olYear": 1976,
   "cover": {
    "thumb": "images/books/the-architecture-of-luis-barragan.webp",
    "src": "https://covers.openlibrary.org/b/id/4470356-L.jpg",
    "w": 128,
    "h": 165,
    "source": "https://openlibrary.org/works/OL831250W"
-  }
+  },
+  "ol": "OL831250W",
+  "isbn": "0870702343",
+  "olYear": 1976
  },
  {
   "id": "colour-schemes-for-the-flower-garden",
@@ -19204,16 +19204,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL35813W",
-  "isbn": "0711204853",
-  "olYear": 1914,
   "cover": {
    "thumb": "images/books/colour-schemes-for-the-flower-garden.webp",
    "src": "https://covers.openlibrary.org/b/id/4276538-L.jpg",
    "w": 128,
    "h": 190,
    "source": "https://openlibrary.org/works/OL35813W"
-  }
+  },
+  "ol": "OL35813W",
+  "isbn": "0711204853",
+  "olYear": 1914
  },
  {
   "id": "wood-and-garden",
@@ -19229,15 +19229,2210 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL12584135W",
-  "isbn": "1499628544",
-  "olYear": 2011,
   "cover": {
    "thumb": "images/books/wood-and-garden.webp",
    "src": "https://covers.openlibrary.org/b/id/11078182-L.jpg",
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL12584135W"
+  },
+  "ol": "OL12584135W",
+  "isbn": "1499628544",
+  "olYear": 2011
+ },
+ {
+  "id": "structure-and-architecture",
+  "title": "Structure and Architecture",
+  "by": "Angus J. Macdonald",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Construction",
+  "why": "A short introduction to how structure shapes architecture.",
+  "tags": [
+   "Structure",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL21144449W",
+  "isbn": "9781136361425",
+  "olYear": 2007,
+  "cover": {
+   "thumb": "images/books/structure-and-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/13560269-L.jpg",
+   "w": 387,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL21144449W"
+  }
+ },
+ {
+  "id": "john-nash-architect-to-king-george-iv",
+  "title": "John Nash: Architect to King George IV",
+  "by": "John Summerson",
+  "year": "1935",
+  "y": 1935,
+  "shelf": "Monographs",
+  "why": "Summerson's life of John Nash, the architect of Regency London.",
+  "tags": [
+   "Classicism",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-and-architecture-of-ancient-egypt",
+  "title": "The Art and Architecture of Ancient Egypt",
+  "by": "William Stevenson Smith",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "History",
+  "why": "A survey of Egyptian building and art in the Pelican History of Art.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1237636W",
+  "isbn": "9780300077155",
+  "olYear": 1958,
+  "cover": {
+   "thumb": "images/books/the-art-and-architecture-of-ancient-egypt.webp",
+   "src": "https://covers.openlibrary.org/b/id/1161742-L.jpg",
+   "w": 352,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL1237636W"
+  }
+ },
+ {
+  "id": "town-planning-in-practice",
+  "title": "Town Planning in Practice",
+  "by": "Raymond Unwin",
+  "year": "1909",
+  "y": 1909,
+  "shelf": "Cities",
+  "why": "Unwin's introduction to the art of designing cities, towns and suburbs.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL239085W",
+  "isbn": "9781568980041",
+  "olYear": 1909,
+  "cover": {
+   "thumb": "images/books/town-planning-in-practice.webp",
+   "src": "https://covers.openlibrary.org/b/id/1911084-L.jpg",
+   "w": 338,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL239085W"
+  }
+ },
+ {
+  "id": "megalopolis-the-urbanized-northeastern-seaboard-of-the-unite",
+  "title": "Megalopolis: The Urbanized Northeastern Seaboard of the United States",
+  "by": "Jean Gottmann",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "Cities",
+  "why": "Gottmann's study of the chain of cities from Boston to Washington.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "social-justice-and-the-city",
+  "title": "Social Justice and the City",
+  "by": "David Harvey",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Cities",
+  "why": "Harvey on how cities shape inequality and justice.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL3232636W",
+  "isbn": "9780820334035",
+  "olYear": 1973,
+  "cover": {
+   "thumb": "images/books/social-justice-and-the-city.webp",
+   "src": "https://covers.openlibrary.org/b/id/8720427-L.jpg",
+   "w": 500,
+   "h": 386,
+   "source": "https://openlibrary.org/works/OL3232636W"
+  }
+ },
+ {
+  "id": "communitas-means-of-livelihood-and-ways-of-life",
+  "title": "Communitas: Means of Livelihood and Ways of Life",
+  "by": "Paul Goodman, Percival Goodman",
+  "year": "1947",
+  "y": 1947,
+  "shelf": "Cities",
+  "why": "Three plans for community design, by two brothers, an architect and a writer.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL4439219W",
+  "isbn": "9783926176592",
+  "olYear": 1947,
+  "cover": {
+   "thumb": "images/books/communitas-means-of-livelihood-and-ways-of-life.webp",
+   "src": "https://covers.openlibrary.org/b/id/6985882-L.jpg",
+   "w": 289,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL4439219W"
+  }
+ },
+ {
+  "id": "the-conscience-of-the-eye-the-design-and-social-life-of-citi",
+  "title": "The Conscience of the Eye: The Design and Social Life of Cities",
+  "by": "Richard Sennett",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Cities",
+  "why": "Sennett on how city design affects social life.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1870881W",
+  "isbn": "9780393346497",
+  "olYear": 1990,
+  "cover": {
+   "thumb": "images/books/the-conscience-of-the-eye-the-design-and-social-life-of-citi.webp",
+   "src": "https://covers.openlibrary.org/b/id/248647-L.jpg",
+   "w": 311,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL1870881W"
+  }
+ },
+ {
+  "id": "the-gothic-cathedral-origins-of-gothic-architecture-and-the",
+  "title": "The Gothic Cathedral: Origins of Gothic Architecture and the Medieval Concept of Order",
+  "by": "Otto von Simson",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "History",
+  "why": "A study of the ideas of light and order behind the Gothic cathedral.",
+  "tags": [
+   "Gothic",
+   "Religious"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2524140W",
+  "olYear": 1956,
+  "cover": {
+   "thumb": "images/books/the-gothic-cathedral-origins-of-gothic-architecture-and-the.webp",
+   "src": "https://covers.openlibrary.org/b/id/9285007-L.jpg",
+   "w": 321,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL2524140W"
+  }
+ },
+ {
+  "id": "practice-architecture-technique-and-representation",
+  "title": "Practice: Architecture, Technique and Representation",
+  "by": "Stan Allen",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Theory",
+  "why": "Essays by Stan Allen on how architects work and what drawings do.",
+  "tags": [
+   "Theory",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1958894W",
+  "isbn": "9057010720",
+  "olYear": 2000,
+  "cover": {
+   "thumb": "images/books/practice-architecture-technique-and-representation.webp",
+   "src": "https://covers.openlibrary.org/b/id/4899694-L.jpg",
+   "w": 128,
+   "h": 186,
+   "source": "https://openlibrary.org/works/OL1958894W"
+  }
+ },
+ {
+  "id": "architecture-and-revolution-contemporary-perspectives-on-cen",
+  "title": "Architecture and Revolution: Contemporary Perspectives on Central and Eastern Europe",
+  "by": "Neil Leach",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "History",
+  "why": "Essays on architecture and politics in Central and Eastern Europe after 1989.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bernini",
+  "title": "Bernini",
+  "by": "Howard Hibbard",
+  "year": "1965",
+  "y": 1965,
+  "shelf": "Monographs",
+  "why": "A monograph on the sculptor and architect Gian Lorenzo Bernini.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL4407742W",
+  "isbn": "0140207015",
+  "olYear": 1965,
+  "cover": {
+   "thumb": "images/books/bernini.webp",
+   "src": "https://covers.openlibrary.org/b/id/7991821-L.jpg",
+   "w": 307,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL4407742W"
+  }
+ },
+ {
+  "id": "structure-in-architecture-the-building-of-buildings",
+  "title": "Structure in Architecture: The Building of Buildings",
+  "by": "Mario Salvadori, Robert Heller",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Construction",
+  "why": "A plain-language introduction to structure for architects.",
+  "tags": [
+   "Structure",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "rural-essays",
+  "title": "Rural Essays",
+  "by": "Andrew Jackson Downing",
+  "year": "1853",
+  "y": 1853,
+  "shelf": "Free to read",
+  "why": "Downing's essays on country houses, gardens and taste.",
+  "tags": [
+   "Landscape",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1471542W",
+  "isbn": "0548180954",
+  "olYear": 1853,
+  "cover": {
+   "thumb": "images/books/rural-essays.webp",
+   "src": "https://covers.openlibrary.org/b/id/2493832-L.jpg",
+   "w": 333,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1471542W"
+  }
+ },
+ {
+  "id": "the-ideal-city-its-architectural-evolution-in-europe",
+  "title": "The Ideal City: Its Architectural Evolution in Europe",
+  "by": "Helen Rosenau",
+  "year": "1959",
+  "y": 1959,
+  "shelf": "Cities",
+  "why": "A history of ideal city plans in Europe, from antiquity onward.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5904072W",
+  "isbn": "9781135676469",
+  "olYear": 1959,
+  "cover": {
+   "thumb": "images/books/the-ideal-city-its-architectural-evolution-in-europe.webp",
+   "src": "https://covers.openlibrary.org/b/id/4275554-L.jpg",
+   "w": 128,
+   "h": 190,
+   "source": "https://openlibrary.org/works/OL5904072W"
+  }
+ },
+ {
+  "id": "the-italian-townscape",
+  "title": "The Italian Townscape",
+  "by": "Ivor de Wolfe",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Cities",
+  "why": "A study of Italian towns and their public spaces.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL7155000W",
+  "isbn": "0807603503",
+  "olYear": 1963,
+  "cover": {
+   "thumb": "images/books/the-italian-townscape.webp",
+   "src": "https://covers.openlibrary.org/b/id/14914398-L.jpg",
+   "w": 368,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL7155000W"
+  }
+ },
+ {
+  "id": "toward-new-towns-for-america",
+  "title": "Toward New Towns for America",
+  "by": "Clarence S. Stein",
+  "year": "1951",
+  "y": 1951,
+  "shelf": "Cities",
+  "why": "Stein's account of planned communities such as Radburn.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1312540W",
+  "isbn": "0262690098",
+  "olYear": 1951,
+  "cover": {
+   "thumb": "images/books/toward-new-towns-for-america.webp",
+   "src": "https://covers.openlibrary.org/b/id/7145184-L.jpg",
+   "w": 341,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1312540W"
+  }
+ },
+ {
+  "id": "the-highway-and-the-city",
+  "title": "The Highway and the City",
+  "by": "Lewis Mumford",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Cities",
+  "why": "Essays by Mumford on cities, roads and planning.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1879247W",
+  "isbn": "0313227470",
+  "olYear": 1963,
+  "cover": {
+   "thumb": "images/books/the-highway-and-the-city.webp",
+   "src": "https://covers.openlibrary.org/b/id/1171064-L.jpg",
+   "w": 320,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL1879247W"
+  }
+ },
+ {
+  "id": "a-treatise-on-the-theory-and-practice-of-landscape-gardening",
+  "title": "A Treatise on the Theory and Practice of Landscape Gardening, Adapted to North America",
+  "by": "Andrew Jackson Downing",
+  "year": "1841",
+  "y": 1841,
+  "shelf": "Free to read",
+  "why": "The first major American book on landscape gardening.",
+  "tags": [
+   "Landscape",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1471541W",
+  "olYear": 1841,
+  "cover": {
+   "thumb": "images/books/a-treatise-on-the-theory-and-practice-of-landscape-gardening.webp",
+   "src": "https://covers.openlibrary.org/b/id/5708211-L.jpg",
+   "w": 292,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1471541W"
+  }
+ },
+ {
+  "id": "the-living-house-an-anthropology-of-architecture-in-south-ea",
+  "title": "The Living House: An Anthropology of Architecture in South-East Asia",
+  "by": "Roxana Waterson",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "History",
+  "why": "A study of houses in Southeast Asia and the lives built around them.",
+  "tags": [
+   "Southeast Asia",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "understanding-architecture-an-introduction-to-architecture-a",
+  "title": "Understanding Architecture: An Introduction to Architecture and Architectural History",
+  "by": "Hazel Conway, Rowan Roenisch",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Essentials",
+  "why": "A short introduction to reading buildings and architectural history.",
+  "tags": [
+   "History",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL13635600W",
+  "isbn": "0415320593",
+  "cover": {
+   "thumb": "images/books/understanding-architecture-an-introduction-to-architecture-a.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/0415320593-L.jpg",
+   "w": 333,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL13635600W"
+  }
+ },
+ {
+  "id": "a-history-of-the-gothic-revival",
+  "title": "A History of the Gothic Revival",
+  "by": "Charles Locke Eastlake",
+  "year": "1872",
+  "y": 1872,
+  "shelf": "Free to read",
+  "why": "A Victorian history of the Gothic Revival in Britain.",
+  "tags": [
+   "Gothic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL20340103W",
+  "isbn": "1139343998",
+  "olYear": 1970,
+  "cover": {
+   "thumb": "images/books/a-history-of-the-gothic-revival.webp",
+   "src": "https://covers.openlibrary.org/b/id/9004846-L.jpg",
+   "w": 338,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL20340103W"
+  }
+ },
+ {
+  "id": "daylighting-in-architecture-a-european-reference-book",
+  "title": "Daylighting in Architecture: A European Reference Book",
+  "by": "Nick Baker, Andrea Fanchiotti, Koen Steemers",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Construction",
+  "why": "A reference on daylight in buildings, with design methods and case studies.",
+  "tags": [
+   "Light",
+   "Climate"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-introduction-to-english-mediaeval-architecture",
+  "title": "An Introduction to English Mediaeval Architecture",
+  "by": "Hugh Braun",
+  "year": "1951",
+  "y": 1951,
+  "shelf": "History",
+  "why": "A survey of English medieval building from Saxon to late Gothic.",
+  "tags": [
+   "Gothic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1240161W",
+  "isbn": "0571083315",
+  "olYear": 1951,
+  "cover": {
+   "thumb": "images/books/an-introduction-to-english-mediaeval-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/14989431-L.jpg",
+   "w": 291,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1240161W"
+  }
+ },
+ {
+  "id": "architecture-now",
+  "title": "Architecture Now!",
+  "by": "Philip Jodidio",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Essentials",
+  "why": "A Taschen survey of recent buildings by contemporary architects.",
+  "tags": [
+   "Contemporary",
+   "Survey"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL895067W",
+  "isbn": "3822860654",
+  "olYear": 2001,
+  "cover": {
+   "thumb": "images/books/architecture-now.webp",
+   "src": "https://covers.openlibrary.org/b/id/1029708-L.jpg",
+   "w": 340,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL895067W"
+  }
+ },
+ {
+  "id": "modern-architecture-the-architecture-of-democracy",
+  "title": "Modern Architecture: The Architecture of Democracy",
+  "by": "Vincent Scully",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "History",
+  "why": "A short history of modern architecture by Scully.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "surrealism-and-architecture",
+  "title": "Surrealism and Architecture",
+  "by": "Thomas Mical",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Theory",
+  "why": "Essays on the links between Surrealism and architecture.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL18220288W",
+  "isbn": "9780415325196",
+  "olYear": 2004,
+  "cover": {
+   "thumb": "images/books/surrealism-and-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/4242635-L.jpg",
+   "w": 128,
+   "h": 198,
+   "source": "https://openlibrary.org/works/OL18220288W"
+  }
+ },
+ {
+  "id": "expressionist-architecture",
+  "title": "Expressionist Architecture",
+  "by": "Wolfgang Pehnt",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "History",
+  "why": "A history of Expressionist architecture in Germany and beyond.",
+  "tags": [
+   "Expressionism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL16525293W",
+  "isbn": "0442273843",
+  "olYear": 1985,
+  "cover": {
+   "thumb": "images/books/expressionist-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/9704346-L.jpg",
+   "w": 392,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL16525293W"
+  }
+ },
+ {
+  "id": "sir-john-vanbrugh-architect-and-dramatist-16641726",
+  "title": "Sir John Vanbrugh: Architect and Dramatist, 1664–1726",
+  "by": "Laurence Whistler",
+  "year": "1938",
+  "y": 1938,
+  "shelf": "Monographs",
+  "why": "A life of John Vanbrugh, the architect of Blenheim Palace.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "home-and-garden",
+  "title": "Home and Garden",
+  "by": "Gertrude Jekyll",
+  "year": "1900",
+  "y": 1900,
+  "shelf": "Free to read",
+  "why": "Gertrude Jekyll's notes on houses and gardens.",
+  "tags": [
+   "Gardens",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL24480962W",
+  "isbn": "9780353501072",
+  "olYear": 2011,
+  "cover": {
+   "thumb": "images/books/home-and-garden.webp",
+   "src": "https://covers.openlibrary.org/b/id/11093590-L.jpg",
+   "w": 315,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL24480962W"
+  }
+ },
+ {
+  "id": "frederick-law-olmsted-landscape-architect-18221903",
+  "title": "Frederick Law Olmsted, Landscape Architect, 1822–1903",
+  "by": "Frederick Law Olmsted Jr., Theodora Kimball",
+  "year": "1922",
+  "y": 1922,
+  "shelf": "Landscape",
+  "why": "Olmsted's letters and papers, edited by his son and Theodora Kimball.",
+  "tags": [
+   "Landscape",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1619608W",
+  "olYear": 1922,
+  "cover": {
+   "thumb": "images/books/frederick-law-olmsted-landscape-architect-18221903.webp",
+   "src": "https://covers.openlibrary.org/b/id/5565053-L.jpg",
+   "w": 328,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1619608W"
+  }
+ },
+ {
+  "id": "heavenly-mansions-and-other-essays-on-architecture",
+  "title": "Heavenly Mansions and Other Essays on Architecture",
+  "by": "John Summerson",
+  "year": "1949",
+  "y": 1949,
+  "shelf": "Theory",
+  "why": "Essays on architecture by John Summerson.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1958660W",
+  "isbn": "0404202497",
+  "olYear": 1948,
+  "cover": {
+   "thumb": "images/books/heavenly-mansions-and-other-essays-on-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/249641-L.jpg",
+   "w": 320,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL1958660W"
+  }
+ },
+ {
+  "id": "the-nature-and-aesthetics-of-design",
+  "title": "The Nature and Aesthetics of Design",
+  "by": "David Pye",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "Theory",
+  "why": "Pye on how things are designed and made.",
+  "tags": [
+   "Design",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL6621279W",
+  "isbn": "9780214203756",
+  "olYear": 1978,
+  "cover": {
+   "thumb": "images/books/the-nature-and-aesthetics-of-design.webp",
+   "src": "https://covers.openlibrary.org/b/id/1348949-L.jpg",
+   "w": 375,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL6621279W"
+  }
+ },
+ {
+  "id": "community-architecture-how-people-are-creating-their-own-env",
+  "title": "Community Architecture: How People Are Creating Their Own Environment",
+  "by": "Nick Wates, Charles Knevitt",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "Cities",
+  "why": "A book on community-led design and building in Britain.",
+  "tags": [
+   "Housing",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "responsive-environments-a-manual-for-designers",
+  "title": "Responsive Environments: A Manual for Designers",
+  "by": "Ian Bentley, Alan Alcock, Paul Murrain, Sue McGlynn, Graham Smith",
+  "year": "1985",
+  "y": 1985,
+  "shelf": "Cities",
+  "why": "A manual on designing urban places that give people choice.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-language-of-space",
+  "title": "The Language of Space",
+  "by": "Bryan Lawson",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Theory",
+  "why": "Lawson on how people sense and use architectural space.",
+  "tags": [
+   "Perception",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2084629W",
+  "isbn": "1136389288",
+  "olYear": 2001,
+  "cover": {
+   "thumb": "images/books/the-language-of-space.webp",
+   "src": "https://covers.openlibrary.org/b/id/493572-L.jpg",
+   "w": 333,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL2084629W"
+  }
+ },
+ {
+  "id": "an-encyclopaedia-of-cottage-farm-and-villa-architecture-and",
+  "title": "An Encyclopaedia of Cottage, Farm and Villa Architecture and Furniture",
+  "by": "John Claudius Loudon",
+  "year": "1833",
+  "y": 1833,
+  "shelf": "Free to read",
+  "why": "A large nineteenth-century handbook of cottage, farm and villa designs.",
+  "tags": [
+   "Houses",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL244969W",
+  "olYear": 1833,
+  "cover": {
+   "thumb": "images/books/an-encyclopaedia-of-cottage-farm-and-villa-architecture-and.webp",
+   "src": "https://covers.openlibrary.org/b/id/9546045-L.jpg",
+   "w": 286,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL244969W"
+  }
+ },
+ {
+  "id": "garden-ornament",
+  "title": "Garden Ornament",
+  "by": "Gertrude Jekyll",
+  "year": "1918",
+  "y": 1918,
+  "shelf": "Free to read",
+  "why": "Jekyll on garden structures, steps, fountains and ornament.",
+  "tags": [
+   "Gardens",
+   "Ornament"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL35810W",
+  "isbn": "9780907462163",
+  "olYear": 1918,
+  "cover": {
+   "thumb": "images/books/garden-ornament.webp",
+   "src": "https://covers.openlibrary.org/b/id/1663748-L.jpg",
+   "w": 328,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL35810W"
+  }
+ },
+ {
+  "id": "more-craftsman-homes",
+  "title": "More Craftsman Homes",
+  "by": "Gustav Stickley",
+  "year": "1912",
+  "y": 1912,
+  "shelf": "Free to read",
+  "why": "Stickley's floor plans and illustrations for Craftsman houses.",
+  "tags": [
+   "Houses",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL3744299W",
+  "isbn": "9780344352584",
+  "olYear": 1912,
+  "cover": {
+   "thumb": "images/books/more-craftsman-homes.webp",
+   "src": "https://covers.openlibrary.org/b/id/309720-L.jpg",
+   "w": 348,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL3744299W"
+  }
+ },
+ {
+  "id": "urban-design-the-american-experience",
+  "title": "Urban Design: The American Experience",
+  "by": "Jon Lang",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Cities",
+  "why": "A history and theory of urban design in the United States.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "convivial-urban-spaces-creating-effective-public-places",
+  "title": "Convivial Urban Spaces: Creating Effective Public Places",
+  "by": "Henry Shaftoe",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Cities",
+  "why": "A guide to what makes public spaces work.",
+  "tags": [
+   "Public space",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "continuous-productive-urban-landscapes",
+  "title": "Continuous Productive Urban Landscapes",
+  "by": "Andre Viljoen",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Landscape",
+  "why": "A design guide to growing food in cities.",
+  "tags": [
+   "Landscape",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL8467274W",
+  "isbn": "9781136414299",
+  "olYear": 2005,
+  "cover": {
+   "thumb": "images/books/continuous-productive-urban-landscapes.webp",
+   "src": "https://covers.openlibrary.org/b/id/1401002-L.jpg",
+   "w": 383,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL8467274W"
+  }
+ },
+ {
+  "id": "cities-and-natural-process",
+  "title": "Cities and Natural Process",
+  "by": "Michael Hough",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "Landscape",
+  "why": "Hough on designing cities with natural processes.",
+  "tags": [
+   "Landscape",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL651092W",
+  "isbn": "9780415298551",
+  "olYear": 1995,
+  "cover": {
+   "thumb": "images/books/cities-and-natural-process.webp",
+   "src": "https://covers.openlibrary.org/b/id/1205451-L.jpg",
+   "w": 411,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL651092W"
+  }
+ },
+ {
+  "id": "the-limits-of-the-city",
+  "title": "The Limits of the City",
+  "by": "Murray Bookchin",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Cities",
+  "why": "Bookchin on the history of the city and its social limits.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2422715W",
+  "isbn": "9780061319440",
+  "olYear": 1973,
+  "cover": {
+   "thumb": "images/books/the-limits-of-the-city.webp",
+   "src": "https://covers.openlibrary.org/b/id/707928-L.jpg",
+   "w": 304,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL2422715W"
+  }
+ },
+ {
+  "id": "from-garden-cities-to-new-towns-campaigning-for-town-and-cou",
+  "title": "From Garden Cities to New Towns: Campaigning for Town and Country Planning, 1899–1946",
+  "by": "Dennis Hardy",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "Cities",
+  "why": "A history of the British garden city and new town movement.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "small-change-about-the-art-of-practice-and-the-limits-of-pla",
+  "title": "Small Change: About the Art of Practice and the Limits of Planning in Cities",
+  "by": "Nabeel Hamdi",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Cities",
+  "why": "Hamdi's account of small-scale ways of improving informal settlements.",
+  "tags": [
+   "Cities",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ancient-town-planning",
+  "title": "Ancient Town-Planning",
+  "by": "Francis John Haverfield",
+  "year": "1913",
+  "y": 1913,
+  "shelf": "Free to read",
+  "why": "A short history of town planning in the ancient world.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL4874573W",
+  "isbn": "9781421942315",
+  "olYear": 1913,
+  "cover": {
+   "thumb": "images/books/ancient-town-planning.webp",
+   "src": "https://covers.openlibrary.org/b/id/6260714-L.jpg",
+   "w": 293,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL4874573W"
+  }
+ },
+ {
+  "id": "sociable-cities-the-legacy-of-ebenezer-howard",
+  "title": "Sociable Cities: The Legacy of Ebenezer Howard",
+  "by": "Peter Hall, Colin Ward",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Cities",
+  "why": "A reassessment of Ebenezer Howard's garden city idea.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "rethinking-the-informal-city-critical-perspectives-from-lati",
+  "title": "Rethinking the Informal City: Critical Perspectives from Latin America",
+  "by": "Felipe Hernández, Peter Kellett, Lea Allen",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Cities",
+  "why": "Essays on informal settlements in Latin American cities.",
+  "tags": [
+   "Latin America",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "garden-craft-old-and-new",
+  "title": "Garden-Craft Old and New",
+  "by": "John Dando Sedding",
+  "year": "1891",
+  "y": 1891,
+  "shelf": "Free to read",
+  "why": "Sedding's arguments for the formal garden.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL6907579W",
+  "olYear": 1891,
+  "cover": {
+   "thumb": "images/books/garden-craft-old-and-new.webp",
+   "src": "https://covers.openlibrary.org/b/id/5856259-L.jpg",
+   "w": 289,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL6907579W"
+  }
+ },
+ {
+  "id": "garden-design",
+  "title": "Garden Design",
+  "by": "Sylvia Crowe",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "Landscape",
+  "why": "Sylvia Crowe on the principles of garden design.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL3689812W",
+  "isbn": "9781870673082",
+  "olYear": 1958,
+  "cover": {
+   "thumb": "images/books/garden-design.webp",
+   "src": "https://covers.openlibrary.org/b/id/921277-L.jpg",
+   "w": 371,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL3689812W"
+  }
+ },
+ {
+  "id": "how-to-lay-out-a-garden",
+  "title": "How to Lay Out a Garden",
+  "by": "Edward Kemp",
+  "year": "1858",
+  "y": 1858,
+  "shelf": "Free to read",
+  "why": "A Victorian guide to planning gardens and grounds.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL24358439W",
+  "isbn": "9780342095797",
+  "olYear": 1894,
+  "cover": {
+   "thumb": "images/books/how-to-lay-out-a-garden.webp",
+   "src": "https://covers.openlibrary.org/b/id/10885055-L.jpg",
+   "w": 333,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL24358439W"
+  }
+ },
+ {
+  "id": "italian-gardens-of-the-renaissance",
+  "title": "Italian Gardens of the Renaissance",
+  "by": "J. C. Shepherd, G. A. Jellicoe",
+  "year": "1925",
+  "y": 1925,
+  "shelf": "Landscape",
+  "why": "Measured drawings and photographs of Italian Renaissance gardens.",
+  "tags": [
+   "Gardens",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL10427061W",
+  "isbn": "0856708682",
+  "olYear": 1925,
+  "cover": {
+   "thumb": "images/books/italian-gardens-of-the-renaissance.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/0856708682-L.jpg",
+   "w": 355,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL10427061W"
+  }
+ },
+ {
+  "id": "observations-on-modern-gardening",
+  "title": "Observations on Modern Gardening",
+  "by": "Thomas Whately",
+  "year": "1770",
+  "y": 1770,
+  "shelf": "Free to read",
+  "why": "An eighteenth-century book on English landscape gardens.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL6576399W",
+  "isbn": "0344284220",
+  "olYear": 1771,
+  "cover": {
+   "thumb": "images/books/observations-on-modern-gardening.webp",
+   "src": "https://covers.openlibrary.org/b/id/5909852-L.jpg",
+   "w": 285,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL6576399W"
+  }
+ },
+ {
+  "id": "a-history-of-gardening-in-england",
+  "title": "A History of Gardening in England",
+  "by": "Alicia Amherst",
+  "year": "1895",
+  "y": 1895,
+  "shelf": "Free to read",
+  "why": "A history of English gardens from early times.",
+  "tags": [
+   "Gardens",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1091136W",
+  "olYear": 1895,
+  "cover": {
+   "thumb": "images/books/a-history-of-gardening-in-england.webp",
+   "src": "https://covers.openlibrary.org/b/id/7083072-L.jpg",
+   "w": 306,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1091136W"
+  }
+ },
+ {
+  "id": "the-planting-design-handbook",
+  "title": "The Planting Design Handbook",
+  "by": "Nick Robinson",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Landscape",
+  "why": "A guide to designing with plants.",
+  "tags": [
+   "Landscape",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL7800305W",
+  "isbn": "0754677168",
+  "olYear": 1992,
+  "cover": {
+   "thumb": "images/books/the-planting-design-handbook.webp",
+   "src": "https://covers.openlibrary.org/b/id/1410119-L.jpg",
+   "w": 326,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL7800305W"
+  }
+ },
+ {
+  "id": "dictionary-of-islamic-architecture",
+  "title": "Dictionary of Islamic Architecture",
+  "by": "Andrew Petersen",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Essentials",
+  "why": "An A-to-Z reference on Islamic buildings, terms and sites.",
+  "tags": [
+   "Islamic",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2376365W",
+  "isbn": "128032385X",
+  "olYear": 1996,
+  "cover": {
+   "thumb": "images/books/dictionary-of-islamic-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/3763224-L.jpg",
+   "w": 128,
+   "h": 169,
+   "source": "https://openlibrary.org/works/OL2376365W"
+  }
+ },
+ {
+  "id": "the-construction-of-gothic-cathedrals",
+  "title": "The Construction of Gothic Cathedrals",
+  "by": "John Fitchen",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "Construction",
+  "why": "A study of how medieval builders raised Gothic vaults.",
+  "tags": [
+   "Gothic",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5262991W",
+  "isbn": "9780198171348",
+  "olYear": 1961,
+  "cover": {
+   "thumb": "images/books/the-construction-of-gothic-cathedrals.webp",
+   "src": "https://covers.openlibrary.org/b/id/140732-L.jpg",
+   "w": 312,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL5262991W"
+  }
+ },
+ {
+  "id": "form-in-gothic",
+  "title": "Form in Gothic",
+  "by": "Wilhelm Worringer",
+  "year": "1911",
+  "y": 1911,
+  "shelf": "Theory",
+  "why": "Worringer's essay on the spirit of Gothic form.",
+  "tags": [
+   "Gothic",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2660643W",
+  "olYear": 1927,
+  "cover": {
+   "thumb": "images/books/form-in-gothic.webp",
+   "src": "https://covers.openlibrary.org/b/id/9295110-L.jpg",
+   "w": 300,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL2660643W"
+  }
+ },
+ {
+  "id": "art-and-architecture-in-italy-1600-to-1750",
+  "title": "Art and Architecture in Italy, 1600 to 1750",
+  "by": "Rudolf Wittkower",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "History",
+  "why": "A survey of Italian Baroque art and architecture.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1995258W",
+  "isbn": "9780140560169",
+  "olYear": 1958,
+  "cover": {
+   "thumb": "images/books/art-and-architecture-in-italy-1600-to-1750.webp",
+   "src": "https://covers.openlibrary.org/b/id/4574832-L.jpg",
+   "w": 128,
+   "h": 182,
+   "source": "https://openlibrary.org/works/OL1995258W"
+  }
+ },
+ {
+  "id": "the-architecture-of-madness-insane-asylums-in-the-united-sta",
+  "title": "The Architecture of Madness: Insane Asylums in the United States",
+  "by": "Carla Yanni",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "History",
+  "why": "A history of asylum design in the United States.",
+  "tags": [
+   "History",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL8396583W",
+  "isbn": "0816649405",
+  "olYear": 2007,
+  "cover": {
+   "thumb": "images/books/the-architecture-of-madness-insane-asylums-in-the-united-sta.webp",
+   "src": "https://covers.openlibrary.org/b/id/1551494-L.jpg",
+   "w": 418,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL8396583W"
+  }
+ },
+ {
+  "id": "developments-in-structural-form",
+  "title": "Developments in Structural Form",
+  "by": "Rowland Mainstone",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Construction",
+  "why": "A history of structural form from ancient to modern times.",
+  "tags": [
+   "Structure",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL10459678W",
+  "isbn": "1135143005",
+  "olYear": 1975,
+  "cover": {
+   "thumb": "images/books/developments-in-structural-form.webp",
+   "src": "https://covers.openlibrary.org/b/id/13694236-L.jpg",
+   "w": 384,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL10459678W"
+  }
+ },
+ {
+  "id": "structure-systems",
+  "title": "Structure Systems",
+  "by": "Heino Engel",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Construction",
+  "why": "A visual classification of structural systems for architects.",
+  "tags": [
+   "Structure",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "une-maison-un-palais",
+  "title": "Une maison – un palais",
+  "by": "Le Corbusier",
+  "year": "1928",
+  "y": 1928,
+  "shelf": "Manifestos",
+  "why": "Le Corbusier's essay comparing a house with a palace and the search for an architectural unity.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-great-rebuildings-of-tudor-and-stuart-england",
+  "title": "The Great Rebuildings of Tudor and Stuart England",
+  "by": "Colin Platt",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "History",
+  "why": "A study of English houses rebuilt in the sixteenth and seventeenth centuries.",
+  "tags": [
+   "History",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2467690W",
+  "isbn": "1857283163",
+  "olYear": 1994,
+  "cover": {
+   "thumb": "images/books/the-great-rebuildings-of-tudor-and-stuart-england.webp",
+   "src": "https://covers.openlibrary.org/b/id/2056384-L.jpg",
+   "w": 333,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL2467690W"
+  }
+ },
+ {
+  "id": "california-s-architectural-frontier",
+  "title": "California's Architectural Frontier",
+  "by": "Harold Kirker",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "History",
+  "why": "A history of style and tradition in nineteenth-century California architecture.",
+  "tags": [
+   "History",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL4129597W",
+  "isbn": "9780879050115",
+  "olYear": 1960,
+  "cover": {
+   "thumb": "images/books/california-s-architectural-frontier.webp",
+   "src": "https://covers.openlibrary.org/b/id/7149271-L.jpg",
+   "w": 330,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL4129597W"
+  }
+ },
+ {
+  "id": "greene-greene-architecture-as-a-fine-art",
+  "title": "Greene & Greene: Architecture as a Fine Art",
+  "by": "Randell L. Makinson",
+  "year": "1977",
+  "y": 1977,
+  "shelf": "Monographs",
+  "why": "A study of the Greene brothers and their craftsman houses.",
+  "tags": [
+   "Houses",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2735810W",
+  "isbn": "0879051264",
+  "olYear": 1977,
+  "cover": {
+   "thumb": "images/books/greene-greene-architecture-as-a-fine-art.webp",
+   "src": "https://covers.openlibrary.org/b/id/674061-L.jpg",
+   "w": 473,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL2735810W"
+  }
+ },
+ {
+  "id": "key-buildings-of-the-twentieth-century",
+  "title": "Key Buildings of the Twentieth Century",
+  "by": "David Dunster",
+  "year": "1985",
+  "y": 1985,
+  "shelf": "Essentials",
+  "why": "Drawings and notes on important twentieth-century buildings.",
+  "tags": [
+   "Modernism",
+   "Precedent study"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5114510W",
+  "isbn": "9780408500296",
+  "olYear": 1985,
+  "cover": {
+   "thumb": "images/books/key-buildings-of-the-twentieth-century.webp",
+   "src": "https://covers.openlibrary.org/b/id/4620707-L.jpg",
+   "w": 128,
+   "h": 185,
+   "source": "https://openlibrary.org/works/OL5114510W"
+  }
+ },
+ {
+  "id": "capability-brown",
+  "title": "Capability Brown",
+  "by": "Dorothy Stroud",
+  "year": "1950",
+  "y": 1950,
+  "shelf": "Landscape",
+  "why": "A life of Lancelot Brown, the English landscape gardener.",
+  "tags": [
+   "Landscape",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL1422779W",
+  "isbn": "9780571102679",
+  "olYear": 1950,
+  "cover": {
+   "thumb": "images/books/capability-brown.webp",
+   "src": "https://covers.openlibrary.org/b/id/8471436-L.jpg",
+   "w": 379,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL1422779W"
+  }
+ },
+ {
+  "id": "ideas-and-integrities",
+  "title": "Ideas and Integrities",
+  "by": "R. Buckminster Fuller",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Manifestos",
+  "why": "Fuller's autobiographical study of his ideas.",
+  "tags": [
+   "Theory",
+   "Structure"
+  ],
+  "architects": [
+   "Buckminster Fuller"
+  ],
+  "buildings": [],
+  "ol": "OL4109896W",
+  "isbn": "9780020926306",
+  "olYear": 1963,
+  "cover": {
+   "thumb": "images/books/ideas-and-integrities.webp",
+   "src": "https://covers.openlibrary.org/b/id/12992911-L.jpg",
+   "w": 330,
+   "h": 499,
+   "source": "https://openlibrary.org/works/OL4109896W"
+  }
+ },
+ {
+  "id": "five-california-architects",
+  "title": "Five California Architects",
+  "by": "Esther McCoy",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "History",
+  "why": "Esther McCoy's study of five architects of early California modernism.",
+  "tags": [
+   "Modernism",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5598790W",
+  "isbn": "9780275717209",
+  "olYear": 1960,
+  "cover": {
+   "thumb": "images/books/five-california-architects.webp",
+   "src": "https://covers.openlibrary.org/b/id/4470079-L.jpg",
+   "w": 128,
+   "h": 163,
+   "source": "https://openlibrary.org/works/OL5598790W"
+  }
+ },
+ {
+  "id": "hawksmoor",
+  "title": "Hawksmoor",
+  "by": "Kerry Downes",
+  "year": "1959",
+  "y": 1959,
+  "shelf": "Monographs",
+  "why": "A monograph on Nicholas Hawksmoor.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL4498093W",
+  "isbn": "0262040603",
+  "olYear": 1959,
+  "cover": {
+   "thumb": "images/books/hawksmoor.webp",
+   "src": "https://covers.openlibrary.org/b/id/4404723-L.jpg",
+   "w": 128,
+   "h": 171,
+   "source": "https://openlibrary.org/works/OL4498093W"
+  }
+ },
+ {
+  "id": "speer-hitler-s-architect",
+  "title": "Speer: Hitler's Architect",
+  "by": "Martin Kitchen",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Monographs",
+  "why": "A biography of Albert Speer and his buildings.",
+  "tags": [
+   "History",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "smart-materials-and-technologies-in-architecture",
+  "title": "Smart Materials and Technologies in Architecture",
+  "by": "Michelle Addington, Daniel Schodek",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Construction",
+  "why": "A guide to smart materials and their uses in buildings.",
+  "tags": [
+   "Materials",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL12404563W",
+  "isbn": "0080480950",
+  "olYear": 2004,
+  "cover": {
+   "thumb": "images/books/smart-materials-and-technologies-in-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/8720223-L.jpg",
+   "w": 385,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL12404563W"
+  }
+ },
+ {
+  "id": "algorithmic-architecture",
+  "title": "Algorithmic Architecture",
+  "by": "Kostas Terzidis",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Theory",
+  "why": "Terzidis on using algorithms in architectural design.",
+  "tags": [
+   "Contemporary",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL21289315W",
+  "isbn": "9781136430077",
+  "olYear": 2006,
+  "cover": {
+   "thumb": "images/books/algorithmic-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/14683978-L.jpg",
+   "w": 264,
+   "h": 400,
+   "source": "https://openlibrary.org/works/OL21289315W"
+  }
+ },
+ {
+  "id": "digital-drawing-for-landscape-architecture",
+  "title": "Digital Drawing for Landscape Architecture",
+  "by": "Bradley Cantrell, Wes Michaels",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Drawing",
+  "why": "A guide to digital drawing methods for landscape architects.",
+  "tags": [
+   "Landscape",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL19995412W",
+  "isbn": "1282548506",
+  "olYear": 2010,
+  "cover": {
+   "thumb": "images/books/digital-drawing-for-landscape-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/12439710-L.jpg",
+   "w": 328,
+   "h": 400,
+   "source": "https://openlibrary.org/works/OL19995412W"
+  }
+ },
+ {
+  "id": "inquiry-by-design",
+  "title": "Inquiry by Design",
+  "by": "John Zeisel",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Theory",
+  "why": "A guide to using research in architectural design.",
+  "tags": [
+   "Design",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5147065W",
+  "isbn": "0393731847",
+  "olYear": 1980,
+  "cover": {
+   "thumb": "images/books/inquiry-by-design.webp",
+   "src": "https://covers.openlibrary.org/b/id/4359645-L.jpg",
+   "w": 128,
+   "h": 196,
+   "source": "https://openlibrary.org/works/OL5147065W"
+  }
+ },
+ {
+  "id": "domestic-architecture-of-the-american-colonies-and-of-the-ea",
+  "title": "Domestic Architecture of the American Colonies and of the Early Republic",
+  "by": "Fiske Kimball",
+  "year": "1922",
+  "y": 1922,
+  "shelf": "Free to read",
+  "why": "Fiske Kimball's survey of colonial and early republic houses.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL17925957W",
+  "isbn": "0344331350",
+  "olYear": 1922,
+  "cover": {
+   "thumb": "images/books/domestic-architecture-of-the-american-colonies-and-of-the-ea.webp",
+   "src": "https://covers.openlibrary.org/b/id/8253402-L.jpg",
+   "w": 357,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL17925957W"
+  }
+ },
+ {
+  "id": "constructing-a-sense-of-place-architecture-and-the-zionist-d",
+  "title": "Constructing a Sense of Place: Architecture and the Zionist Discourse",
+  "by": "Haim Yacobi",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "History",
+  "why": "A study of architecture and national identity in Israel.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL9214027W",
+  "isbn": "1315259532",
+  "olYear": 2004,
+  "cover": {
+   "thumb": "images/books/constructing-a-sense-of-place-architecture-and-the-zionist-d.webp",
+   "src": "https://covers.openlibrary.org/b/id/1410351-L.jpg",
+   "w": 310,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL9214027W"
+  }
+ },
+ {
+  "id": "china-s-emerging-cities-the-making-of-new-urbanism",
+  "title": "China's Emerging Cities: The Making of New Urbanism",
+  "by": "Fulong Wu",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Cities",
+  "why": "Essays on the growth of Chinese cities since the 1990s.",
+  "tags": [
+   "China",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL17575705W",
+  "isbn": "0415590434",
+  "olYear": 2010,
+  "cover": {
+   "thumb": "images/books/china-s-emerging-cities-the-making-of-new-urbanism.webp",
+   "src": "https://covers.openlibrary.org/b/id/7852377-L.jpg",
+   "w": 300,
+   "h": 400,
+   "source": "https://openlibrary.org/works/OL17575705W"
+  }
+ },
+ {
+  "id": "indigenous-modernities-negotiating-architecture-and-urbanism",
+  "title": "Indigenous Modernities: Negotiating Architecture and Urbanism",
+  "by": "Jyoti Hosagrahar",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "India",
+  "why": "A study of how Indian cities and homes met modernism, with Delhi as a case.",
+  "tags": [
+   "India",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL13640091W",
+  "isbn": "0415323762",
+  "cover": {
+   "thumb": "images/books/indigenous-modernities-negotiating-architecture-and-urbanism.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/0415323762-L.jpg",
+   "w": 128,
+   "h": 188,
+   "source": "https://openlibrary.org/works/OL13640091W"
+  }
+ },
+ {
+  "id": "napoleon-iii-and-the-rebuilding-of-paris",
+  "title": "Napoleon III and the Rebuilding of Paris",
+  "by": "David H. Pinkney",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "Cities",
+  "why": "A history of Haussmann's rebuilding of Paris.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5114757W",
+  "isbn": "9780691273471",
+  "olYear": 1958,
+  "cover": {
+   "thumb": "images/books/napoleon-iii-and-the-rebuilding-of-paris.webp",
+   "src": "https://covers.openlibrary.org/b/id/12859788-L.jpg",
+   "w": 296,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL5114757W"
+  }
+ },
+ {
+  "id": "urban-land-use-planning",
+  "title": "Urban Land Use Planning",
+  "by": "F. Stuart Chapin Jr.",
+  "year": "1957",
+  "y": 1957,
+  "shelf": "Cities",
+  "why": "A standard textbook on land use planning.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL6809766W",
+  "isbn": "0252005805",
+  "olYear": 1957,
+  "cover": {
+   "thumb": "images/books/urban-land-use-planning.webp",
+   "src": "https://covers.openlibrary.org/b/id/4438164-L.jpg",
+   "w": 128,
+   "h": 182,
+   "source": "https://openlibrary.org/works/OL6809766W"
+  }
+ },
+ {
+  "id": "public-housing-in-europe-and-america",
+  "title": "Public Housing in Europe and America",
+  "by": "J. S. Fuerst",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "Cities",
+  "why": "A comparison of public housing in Europe and America.",
+  "tags": [
+   "Housing",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL7054277W",
+  "isbn": "9781000297928",
+  "olYear": 1974,
+  "cover": {
+   "thumb": "images/books/public-housing-in-europe-and-america.webp",
+   "src": "https://covers.openlibrary.org/b/id/4508317-L.jpg",
+   "w": 128,
+   "h": 207,
+   "source": "https://openlibrary.org/works/OL7054277W"
+  }
+ },
+ {
+  "id": "arcology-the-city-in-the-image-of-man",
+  "title": "Arcology: The City in the Image of Man",
+  "by": "Paolo Soleri",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Manifestos",
+  "why": "Paolo Soleri's drawings and ideas for dense cities that combine architecture and ecology.",
+  "tags": [
+   "Cities",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL5102802W",
+  "isbn": "0927015153",
+  "olYear": 1969,
+  "cover": {
+   "thumb": "images/books/arcology-the-city-in-the-image-of-man.webp",
+   "src": "https://covers.openlibrary.org/b/id/6252617-L.jpg",
+   "w": 500,
+   "h": 390,
+   "source": "https://openlibrary.org/works/OL5102802W"
+  }
+ },
+ {
+  "id": "city-class-and-power",
+  "title": "City, Class and Power",
+  "by": "Manuel Castells",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "Cities",
+  "why": "Castells on cities, social class and politics.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL2678263W",
+  "isbn": "9781349279234",
+  "olYear": 1978,
+  "cover": {
+   "thumb": "images/books/city-class-and-power.webp",
+   "src": "https://covers.openlibrary.org/b/id/8198202-L.jpg",
+   "w": 280,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL2678263W"
+  }
+ },
+ {
+  "id": "the-fractured-metropolis",
+  "title": "The Fractured Metropolis",
+  "by": "Jonathan Barnett",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "Cities",
+  "why": "Barnett on repairing sprawling American metropolitan areas.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL3516557W",
+  "isbn": "9780429492822",
+  "olYear": 1995,
+  "cover": {
+   "thumb": "images/books/the-fractured-metropolis.webp",
+   "src": "https://covers.openlibrary.org/b/id/49836-L.jpg",
+   "w": 324,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL3516557W"
+  }
+ },
+ {
+  "id": "modern-architecture-in-brazil",
+  "title": "Modern Architecture in Brazil",
+  "by": "Henrique E. Mindlin",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "History",
+  "why": "A survey of Brazil's modern buildings by a Brazilian architect.",
+  "tags": [
+   "Latin America",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL7509051W",
+  "olYear": 1956,
+  "cover": {
+   "thumb": "images/books/modern-architecture-in-brazil.webp",
+   "src": "https://covers.openlibrary.org/b/id/10787697-L.jpg",
+   "w": 348,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL7509051W"
+  }
+ },
+ {
+  "id": "modern-architecture-in-mexico",
+  "title": "Modern Architecture in Mexico",
+  "by": "Max Cetto",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "History",
+  "why": "A survey of modern Mexican buildings by an architect who worked there.",
+  "tags": [
+   "Latin America",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL181351W",
+  "olYear": 1961,
+  "cover": {
+   "thumb": "images/books/modern-architecture-in-mexico.webp",
+   "src": "https://covers.openlibrary.org/b/id/7008621-L.jpg",
+   "w": 397,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL181351W"
+  }
+ },
+ {
+  "id": "the-japanese-house-a-tradition-for-contemporary-architecture",
+  "title": "The Japanese House: A Tradition for Contemporary Architecture",
+  "by": "Heinrich Engel",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "History",
+  "why": "A study of the Japanese house and what it offers modern building.",
+  "tags": [
+   "Japan",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-japanese-house-and-garden",
+  "title": "The Japanese House and Garden",
+  "by": "Tetsuro Yoshida",
+  "year": "1955",
+  "y": 1955,
+  "shelf": "History",
+  "why": "Yoshida's illustrated guide to Japanese houses and gardens.",
+  "tags": [
+   "Japan",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL11902937W",
+  "isbn": "0269025219",
+  "olYear": 1955,
+  "cover": {
+   "thumb": "images/books/the-japanese-house-and-garden.webp",
+   "src": "https://covers.openlibrary.org/b/id/13503268-L.jpg",
+   "w": 350,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL11902937W"
+  }
+ },
+ {
+  "id": "persian-architecture-the-triumph-of-form-and-color",
+  "title": "Persian Architecture: The Triumph of Form and Color",
+  "by": "Arthur Upham Pope",
+  "year": "1965",
+  "y": 1965,
+  "shelf": "History",
+  "why": "A survey of Persian architecture with photographs and plans.",
+  "tags": [
+   "Islamic",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "lutyens-and-the-edwardians",
+  "title": "Lutyens and the Edwardians",
+  "by": "Roderick Gradidge",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Monographs",
+  "why": "A study of Edwin Lutyens and his early patrons.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [
+   "Edwin Lutyens"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "concrete-concept-brutalist-buildings-around-the-world",
+  "title": "Concrete Concept: Brutalist Buildings Around the World",
+  "by": "Christopher Beanland",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "History",
+  "why": "A photographic tour of brutalist buildings around the world.",
+  "tags": [
+   "Brutalism",
+   "Concrete"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "atlas-of-brutalist-architecture",
+  "title": "Atlas of Brutalist Architecture",
+  "by": "Phaidon Editors",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "History",
+  "why": "A Phaidon survey of brutalist buildings.",
+  "tags": [
+   "Brutalism",
+   "Survey"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL20190111W",
+  "isbn": "071487566X",
+  "olYear": 2018,
+  "cover": {
+   "thumb": "images/books/atlas-of-brutalist-architecture.webp",
+   "src": "https://covers.openlibrary.org/b/id/8839037-L.jpg",
+   "w": 346,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL20190111W"
+  }
+ },
+ {
+  "id": "parametricism-2-0-rethinking-architecture-s-agenda-for-the-2",
+  "title": "Parametricism 2.0: Rethinking Architecture's Agenda for the 21st Century",
+  "by": "Patrik Schumacher",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Theory",
+  "why": "An Architectural Design issue edited by Patrik Schumacher on parametricism.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "manufacturing-material-effects-rethinking-design-and-making",
+  "title": "Manufacturing Material Effects: Rethinking Design and Making in Architecture",
+  "by": "Branko Kolarevic, Kevin Klinger",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Construction",
+  "why": "Essays on digital fabrication and material effects in architecture.",
+  "tags": [
+   "Contemporary",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "scripting-cultures-architectural-design-and-programming",
+  "title": "Scripting Cultures: Architectural Design and Programming",
+  "by": "Mark Burry",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "Burry on how architects came to design by programming.",
+  "tags": [
+   "Contemporary",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": [],
+  "ol": "OL17449443W",
+  "isbn": "9780470746424",
+  "olYear": 2011,
+  "cover": {
+   "thumb": "images/books/scripting-cultures-architectural-design-and-programming.webp",
+   "src": "https://covers.openlibrary.org/b/id/7601131-L.jpg",
+   "w": 308,
+   "h": 400,
+   "source": "https://openlibrary.org/works/OL17449443W"
   }
  }
 ];
