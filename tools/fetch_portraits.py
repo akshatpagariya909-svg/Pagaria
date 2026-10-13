@@ -16,6 +16,9 @@ Portraits found by hand go in tools/portraits_manual.json ({"name in the by line
 "File:...jpg"}); their licence is checked here like any other. Architects still without a
 free portrait are listed in tools/portraits_gaps.md, most buildings first.
 
+A firm (Foster + Partners, OMA, SANAA...) shows its founder's portrait, as the owner chose: the
+firms and their founders are in tools/portraits_founders.json.
+
 The photos are not copied into the site: the page loads a small thumbnail straight
 from upload.wikimedia.org, like the later buildings' photos.
 
@@ -38,6 +41,7 @@ OUT = ROOT / 'site' / 'data' / 'architects.js'
 REPORT = ROOT / 'tools' / 'portraits_report.txt'
 MANUAL = ROOT / 'tools' / 'portraits_manual.json'
 GAPS = ROOT / 'tools' / 'portraits_gaps.md'
+FOUNDERS = ROOT / 'tools' / 'portraits_founders.json'
 HUMAN = 'Q5'
 # architect, landscape architect, engineer, civil / structural engineer, urban planner, designer, interior designer
 TRADES = {'Q42973', 'Q2815948', 'Q81096', 'Q13582652', 'Q2305987', 'Q131062', 'Q5322166', 'Q2133309'}
@@ -112,6 +116,17 @@ def named(name, by):
     return any(len(words(n)) >= 2 and set(words(n)) <= w for n in names(by))
 
 
+def firms_in(by, founders):
+    """(position, firm) for each firm in tools/portraits_founders.json named in this by line. All-capital
+    names (OMA, BIG, SOM) must match exactly, as a whole word, so OMA never matches Oman."""
+    out = []
+    for f in founders:
+        m = re.search(r'(?<!\w)' + re.escape(f) + r'(?!\w)', by, 0 if f.isupper() else re.I)
+        if m:
+            out.append((m.start(), f))
+    return out
+
+
 def is_person(ent):
     return HUMAN in claim_ids(ent, 'P31')
 
@@ -154,8 +169,24 @@ def main():
     people = entities([a for ids in arch_of.values() for a in ids], 'labels|claims')
     def label(q):
         return people.get(q, {}).get('labels', {}).get('en', {}).get('value', '')
-    found = {}
+    founders = {k: v for k, v in json.loads(FOUNDERS.read_text(encoding='utf-8')).items() if not k.startswith('_')} if FOUNDERS.exists() else {}
+    manual = json.loads(MANUAL.read_text(encoding='utf-8')) if MANUAL.exists() else {}
+    found, founder_at = {}, {}  # founder_at[building][qid]: where in the by line their firm is named
     for b in buildings:
+        for at, f in firms_in(b['by'], founders):
+            for k, n in enumerate(founders[f]):
+                if n in manual:
+                    q = 'manual:' + n
+                else:
+                    if n not in found:
+                        found[n] = search_person(n)
+                        report.append(f"founder {n} ({f}): {found[n][0] or 'no architect of that name'}")
+                    q, e = found[n]
+                    if not q:
+                        continue
+                    people.setdefault(q, e)
+                    arch_of.setdefault(b['id'], []).append(q)
+                founder_at.setdefault(b['id'], {}).setdefault(q, at + k / 100)
         hit = {n for q in arch_of.get(b['id'], []) if is_person(people.get(q, {})) for n in names(b['by']) if named(label(q), n)}
         for n in names(b['by']):
             if n in hit or len(words(n)) < 2:
@@ -172,7 +203,6 @@ def main():
         imgs = claim_ids(e, 'P18')
         if imgs:
             files[q] = imgs[0]
-    manual = json.loads(MANUAL.read_text(encoding='utf-8')) if MANUAL.exists() else {}
     for n, f in manual.items():  # found by hand: keyed by the name as the by line writes it
         files['manual:' + n] = f.replace('File:', '').replace('_', ' ')
 
@@ -199,6 +229,9 @@ def main():
         keep = []
         for q in dict.fromkeys(arch_of.get(b['id'], [])):
             name = label(q)
+            if q in founder_at.get(b['id'], {}):
+                keep.append(q)  # the founder of a firm in the by line
+                continue
             if not name or not named(name, b['by']):
                 report.append(f"skip    {b['id']}: {q} {name!r} is not in {b['by']!r}")
                 continue
@@ -206,12 +239,17 @@ def main():
                 report.append(f"skip    {b['id']}: {q} {name!r} is a firm, not a person")
                 continue
             keep.append(q)
-        for n in names(b['by']):
+        for n in names(b['by']) + [m[5:] for m in founder_at.get(b['id'], {}) if m.startswith('manual:')]:
             if n in manual and 'manual:' + n not in keep:
                 people['manual:' + n] = {'labels': {'en': {'value': n}}}
                 keep.append('manual:' + n)
-        order = names(b['by'])  # the by line's order, so the first architect's face comes first
-        keep.sort(key=lambda q: next((i for i, n in enumerate(order) if named(label(q), n)), len(order)))
+        by = b['by']  # the by line's order, so the first architect's face comes first
+
+        def at(q):
+            if q in founder_at.get(b['id'], {}):
+                return founder_at[b['id']][q]
+            return min([by.find(n) for n in names(by) if named(label(q), n)] or [len(by)])
+        keep.sort(key=at)
         for q in keep:
             if q in out_people:
                 continue
@@ -234,7 +272,11 @@ def main():
     count = {}
     for b in buildings:  # names on the wall still without a free portrait, most buildings first
         faces = [out_people[q]['name'] for q in out_buildings.get(b['id'], []) if out_people[q].get('thumb')]
+        firm_faces = any(out_people[q].get('thumb') for q in out_buildings.get(b['id'], []) if q in founder_at.get(b['id'], {}))
+        firm_text = fold(' '.join(f for _, f in firms_in(b['by'], founders)))
         for n in names(b['by']):
+            if firm_faces and fold(n) in firm_text:
+                continue  # the firm shows its founder
             if not any(named(f, n) for f in faces):
                 count.setdefault(n, []).append(b['name'])
     G = ['# Architects without a free portrait yet', '', 'Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings first; '

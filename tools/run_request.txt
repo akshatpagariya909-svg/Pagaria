@@ -1,2 +1,2 @@
 python -u tools/fetch_portraits.py
-Architect portraits for all buildings, with fuller name matching and a direct name lookup (asked for by the owner after batch 6).
+Architect portraits again, now with founders standing in for firms (the owner chose founders).
