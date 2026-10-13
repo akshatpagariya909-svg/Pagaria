@@ -1,2 +1,2 @@
-python -u tools/fetch_logos.py
-Fetch each Go deeper site's own icon into site/images/logos/ (asked for by the owner via the Design chat).
+python -u tools/fetch_portraits.py
+Architect portraits for all buildings, with fuller name matching and a direct name lookup (asked for by the owner after batch 6).
