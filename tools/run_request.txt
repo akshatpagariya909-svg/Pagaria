@@ -1,2 +1,2 @@
 python -u tools/fetch_portraits.py
-Architect portraits again, adding the 14 found by hand in the Sonnet trial (reviewed by eye: all correct).
+Architect portraits again: founders found by hand (Zaha Hadid for Zaha Hadid Architects) were dropped by a bug, now fixed.

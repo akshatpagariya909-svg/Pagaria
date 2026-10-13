@@ -239,7 +239,7 @@ def main():
                 report.append(f"skip    {b['id']}: {q} {name!r} is a firm, not a person")
                 continue
             keep.append(q)
-        for n in names(b['by']) + [m[5:] for m in founder_at.get(b['id'], {}) if m.startswith('manual:')]:
+        for n in names(b['by']) + [m[len('manual:'):] for m in founder_at.get(b['id'], {}) if m.startswith('manual:')]:
             if n in manual and 'manual:' + n not in keep:
                 people['manual:' + n] = {'labels': {'en': {'value': n}}}
                 keep.append('manual:' + n)
