@@ -316,5 +316,297 @@
    "https://berlin.de/mauer/en/sites/other-key-sites/pariser-platz-and-brandenburg-gate/academy-of-the-arts-at-pariser-platz-4-402879.en.php"
   ],
   "note": "Behnisch with Werner Durth and 2005 (completed April 2005) confirmed by Baunetz Wissen via search, which also says the glass front broke the site's 'critical reconstruction' design statute and that Ernst von Ihne's old exhibition halls sit behind it. The sources speak of the design statute rather than a stone rule, so 'stone rules' became 'design rules'."
+ },
+ {
+  "id": "swiss-embassy-berlin",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diener_%26_Diener",
+   "https://www.dienerdiener.ch/en/project/extension-swiss-embassy",
+   "https://www.swissinfo.ch/eng/controversial-new-swiss-embassy-opens-in-berlin/2028614",
+   "https://www.archiweb.cz/en/b/svycarske-velvyslanectvi"
+  ],
+  "note": "Diener & Diener, 1995-2000 confirmed (Wikipedia). Search results confirm the concrete cube annex beside the old palace, built by Friedrich Hitzig in 1870-71 as a city palace in the Alsenviertel and the only building left standing there after 1945. Helmut Federle is credited as artistic collaborator (Archiweb)."
+ },
+ {
+  "id": "axel-springer-campus",
+  "verdict": "fixed",
+  "features": "Office cube split by a diagonal 'valley' of terraced floors: a 45 m atrium seen through a faceted glass wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+   "https://en.wikipedia.org/wiki/Axel_Springer_SE",
+   "https://www.dezeen.com/2020/10/13/axel-springer-building-campus-berlin-oma/amp/"
+  ],
+  "note": "OMA/Rem Koolhaas and 2020 (completed October 2020) confirmed by Wikipedia. Dezeen (via search) describes a diagonal atrium enclosed in faceted glass and a 'valley' of ten cascading terraced floors forming a 45 m atrium. 'Dark glass' was unsourced and removed."
+ },
+ {
+  "id": "berlin-hauptbahnhof",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Hauptbahnhof"
+  ],
+  "note": "Von Gerkan (gmp won the 1993 competition) and 2006 (opened 26 May 2006) confirmed. Wikipedia describes a crossing station: an east-west upper platform hall under an arched glass roof, eight underground north-south tracks below, and two towers whose bridging segments were lowered over the roof in 2005 to carry later office space. The line stands as written."
+ },
+ {
+  "id": "adac-headquarters",
+  "verdict": "fixed",
+  "features": "93 m tower on a rounded, amoeba-like base; its glass skin is a mosaic of 22 colours led by ADAC yellow.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ADAC_Headquarters",
+   "https://inspiration.detail.de/adac-headquarters-in-munich-112960.html"
+  ],
+  "note": "Sauerbruch Hutton (competition won 2004; they left the project in 2009 with 90% of planning done) and 93 m confirmed. Year 2011 kept: Wikipedia says built 2006-2011, handed over December 2011, opened March 2012. Wikipedia confirms the amoeba-shaped five-storey base and 22 colours on 1,152 facade elements chosen from the client's brand colour; Detail says ADAC yellow predominates. 'Yellow and blue' was not supported (blue appears in no source), so it was changed."
+ },
+ {
+  "id": "kunstmuseum-bonn",
+  "verdict": "fixed",
+  "features": "Exposed-concrete galleries with a big roofed outdoor area on slim round columns, behind a tall 13 m wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Bonn",
+   "https://www.baukunst-nrw.de/en/projects/Staedtisches-Kunstmuseum--293.htm",
+   "https://kulturkenner.de/artikel/kunstmuseum-bonn?locale=en"
+  ],
+  "note": "BJSS (Axel Schultes) with Jürgen Pleuser and 1992 confirmed by Wikipedia. Baukunst NRW (via search) describes an exposed-concrete volume closed on three sides, a roofed outdoor area with monumental slim round pillars, and a 13 m wall that runs beyond the building to form a courtyard. 'Pale', a 'vast thin roof' and the forecourt shared with the Kunsthalle were not confirmed and were removed."
+ },
+ {
+  "id": "marco-polo-tower",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+   "https://commons.wikimedia.org/wiki/Category:Marco-Polo-Tower",
+   "https://architizer.com/projects/marco-polo-tower/",
+   "https://german-architects.com/nl/projects/view/marco-polo-residential-tower"
+  ],
+  "note": "Behnisch Architekten and 2010 confirmed (Wikipedia projects list; 55 m in Commons infobox). Project pages (via search) say each of the 17 levels is turned a few degrees, and the overhanging terraces shade the recessed facades below so no separate sunshades are needed, which supports the line as written."
+ },
+ {
+  "id": "wu-library-learning-center",
+  "verdict": "fixed",
+  "features": "Walls leaning at 35 degrees and a massive black volume cantilevered at an angle over the campus plaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zaha_Hadid",
+   "https://en.wikipedia.org/wiki/Vienna_University_of_Economics_and_Business"
+  ],
+  "note": "Zaha Hadid and 2013 (2008-2013; the campus opened September 2013) confirmed. Wikipedia: walls sloping at 35 degrees and a massive black volume cantilevered at an angle over the plaza, with a canyon-like interior. 'Striated' and 'glazed reading room' are not in the sources and were removed."
+ },
+ {
+  "id": "gasometer-b-vienna",
+  "verdict": "fixed",
+  "features": "An 1890s brick gasholder turned into flats, with a curved 22-storey 'shield' of new apartments set beside it.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gasometer,_Vienna",
+   "https://coop-himmelblau.at/projects/apartment-building-gasometer-b/",
+   "https://architectuul.com/architecture/gasometer-b"
+  ],
+  "note": "Coop Himmelb(l)au for Gasometer B and 2001 (opened 30 October 2001; gasholders built 1896-1899) confirmed by Wikipedia. The architects' project page and Architectuul (via search) name the addition the 'shield', a 22-storey bent-shaped building with a north-facing glass facade, also holding a student hostel. Sources describe it as attached/in front rather than 'leaning against' the drum, so the wording was adjusted."
+ },
+ {
+  "id": "loisium-langenlois",
+  "verdict": "fixed",
+  "features": "Aluminium-clad cube sliced by window cuts that trace the old wine cellar tunnels, which visitors walk into.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Loisium",
+   "https://www.stevenholl.com/project/loisium-visitor-center/",
+   "https://www.building.co.uk/buildings/crisp-and-complex/1031986.article",
+   "https://glossary.wein-plus.eu/loisium"
+  ],
+  "note": "Steven Holl (Commons Wikidata infobox) and 2003 (opened 20 September 2003; Holl's page gives 2001-2003) confirmed. Holl's page and Building (via search) say the 24 x 24 x 17 m box is cut and sliced from the geometry of the historic vaults, clad in aluminium, with window cuts that map the tunnels above ground; visitors reach the vaults by a path from the building. 'Among the vineyards' was dropped as unsourced."
+ },
+ {
+  "id": "kaufhaus-tyrol",
+  "verdict": "fixed",
+  "features": "Store front in three slightly angled sections of deep-set columns in white stone-aggregate concrete.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Kaufhaus_Tyrol",
+   "https://davidchipperfield.com/projects/kaufhaus-tyrol-department-store",
+   "https://www.hering-group.com/en/products-services/architectural-concrete/references/kaufhaus-tyrol-innsbruck/"
+  ],
+  "note": "Chipperfield with Dieter Mathoi and opening 4 March 2010 from the Commons Wikidata infobox. Chipperfield's page (via search) describes three facade sections at a slight incline to each other following the street's irregular growth, and colonnade-like columns with deep reveals; Hering describes white precast concrete with natural stone aggregate. The facade is precast concrete rather than stone, so 'stone-framed bays' was reworded."
+ },
+ {
+  "id": "wiener-stadthalle",
+  "verdict": "fixed",
+  "features": "Austria's largest indoor arena, its roof held up by a tension band above raking grandstand supports.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiener_Stadthalle",
+   "https://www.vienna.at/99-jaehriger-baumeister-der-wiener-stadthalle-wie-man-sieht-steht-die-halle-noch-immer/5823068",
+   "https://world-architects.com/de/projects/view/wiener-stadthalle"
+  ],
+  "note": "Roland Rainer and 1958 (built 1953-1958; main Hall D opened 21 June 1958) confirmed; Wikipedia calls Hall D Austria's largest indoor arena. The builder Viktor Hauswirth (vienna.at, via search) describes a roof held by a tension band, and a 2018 article mentions the main hall's inclined grandstand supports. The 'glazed foyer' was not confirmed and was removed."
+ },
+ {
+  "id": "murinsel-graz",
+  "verdict": "fixed",
+  "features": "A 47 m shell-shaped island floating in the Mur, with a café and an amphitheatre, linked to both banks by footbridges.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murinsel"
+  ],
+  "note": "Vito Acconci and 2003 (European Capital of Culture) confirmed. Wikipedia now also supports the programme: a café and playground under a twisted dome, an amphitheatre at the centre of the platform, and two footbridges; it is 47 m long and shaped like a giant sea shell. 'Steel-and-glass' is not in the article and was removed."
+ },
+ {
+  "id": "werkraum-haus-andelsbuch",
+  "verdict": "fixed",
+  "features": "Showroom for the Bregenzerwald craftsmen's guild: one big roof on slim pillars over a glass-walled hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Werkraum_Bregenzerwald",
+   "https://commons.wikimedia.org/wiki/Category:Werkraum_Haus",
+   "https://www.werkraum.at/en/the-building/about-the-building",
+   "https://www.vorarlberg.travel/en/werkraumhaus/",
+   "https://designboom.com/?p=135280"
+  ],
+  "note": "Peter Zumthor and 2013 confirmed by Werkraum's own site and Vorarlberg tourism (via search). Sources describe a large roof resting on 14 narrow pillars over a 700 m2 glass-walled hall where the landscape flows through. 'Dark' (from the photos) replaced with the sourced 'on slim pillars'."
+ },
+ {
+  "id": "lifecycle-tower-one",
+  "verdict": "fixed",
+  "features": "Eight-storey timber high-rise prototype: prefab timber-concrete floors round a concrete core, raised in eight days.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:LifeCycle_Tower",
+   "https://www.detail.de/de_en/a-resource-saving-synergy-hybrid-timber-constructions-for-high-rise-buildings-16460",
+   "https://www.creativeaustria.at/en/2009/02/19/vorarlberger-holzarchitektur/",
+   "https://www.vol.at/lct-one-weltweit-erstes-holz-hybrid-hochhaus-wird-in-dornbirn-eroeffnet/3402689"
+  ],
+  "note": "Hermann Kaufmann and 2012 (completed summer 2012; Commons gives inception 2011) confirmed. Detail and Creative Austria (via search): prototype of a timber high-rise system built by Cree (Rhomberg), prefabricated timber modules round an in-situ concrete core, timber-concrete composite slabs, eight storeys erected by five workers in eight days. Line reworded to these sourced facts."
+ },
+ {
+  "id": "building-2226-lustenau",
+  "verdict": "fixed",
+  "features": "Cube with 76 cm brick walls that stays at 22-26 °C with no heating, cooling or mechanical ventilation.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:B%C3%BCrogeb%C3%A4ude_2226",
+   "https://www.ace-cae.eu/activities/eu-funded-projects/connect-arch/20-projects-architectural-projects-against-climate-change/2226/",
+   "https://domusweb.it/en/news/2014/12/10/baumschlager_eberle_2226.amp.html",
+   "https://www.archiweb.cz/en/n/foreign/administrativni-budova-v-lustenau-od-baumschlager-eberle"
+  ],
+  "note": "Baumschlager Eberle and 2013 (in use since July 2013) confirmed via search. Sources confirm no heating, cooling or mechanical ventilation, the 22-26 C range that gives the name, and thick brick walls (38 cm load-bearing plus 38 cm insulating brick, about 76 cm), with sensor-controlled window vents. 'White' and 'deep, tall reveals' came from photos only and were removed. Photo licences still worth a glance, as noted earlier."
+ },
+ {
+  "id": "fiore-di-pietra",
+  "verdict": "fixed",
+  "features": "Octagonal summit restaurant of stone-banded 'petal' towers joined by glazing, on the edge of a sheer drop.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monte_Generoso",
+   "https://www.theplan.it/eng/architettura/fiore-di-pietra",
+   "https://www.stone-ideas.com/56751/mario-botta-carves-a-stone-flower-fiore-di-pietra-in-lofty-1-700-m-height-on-the-monte-generoso/",
+   "https://www.thelocal.com/20170330/in-pics-mario-botta-inaugurates-latest-creation-in-switzerland"
+  ],
+  "note": "Mario Botta and 2017 (inaugurated 29 March 2017) confirmed by Wikipedia. The Plan and Stone-Ideas (via search): an octagonal plan of five-storey 'petal' towers that bulge out and close again, clad in horizontal stone bands, joined by large glazed areas, on a plateau above a 300-400 m precipice. 'Around a glazed core' was not quite what the sources say, so the line was reworded."
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "verdict": "fixed",
+  "features": "Public pools organised along one long walkway that runs from the town to the Ticino riverbank.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aurelio_Galfetti",
+   "https://commons.wikimedia.org/wiki/Category:Bagno_Pubblico,_Bellinzona",
+   "https://api3.geo.admin.ch/featureattachments/ch.babs.kulturgueter/PDF/kgs_09029_gsk-i.pdf",
+   "https://www.usi.ch/en/feeds/13885"
+  ],
+  "note": "Galfetti, Ruchat-Roncati and Trümpy (1967 competition) confirmed. Year 1970 kept: officially inaugurated 1 August 1970 (partial opening 1969); the last section of the walkway, reaching the river, was built the following year. The Swiss heritage inventory (via search) describes the long walkway linking the city with the river embankment as the organising axis. 'Raised', 'concrete' and 'under' were not stated in the sources reached and were removed."
+ },
+ {
+  "id": "palestra-losone",
+  "verdict": "fixed",
+  "features": "Concrete sports hall walled by a continuous rhythm of solid piers and gaps, leaving the hall inside clear.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Livio_Vacchini",
+   "https://commons.wikimedia.org/wiki/File:Ticino_Losone_Palestra_Vacchini_02.jpg",
+   "https://divisare.com/projects/310986-studio-vacchini-architetti-simone-bossi-palestra-di-losone-switzerland",
+   "https://arquitecturaviva.com/articulos/livio-vacchini",
+   "https://www.epfl.ch/campus/art-culture/museum-exhibitions/archizoom/?p=16795"
+  ],
+  "note": "Vacchini and 1997 confirmed (Arquitectura Viva: multipurpose gym, Losone, 1997; Swiss concrete prize 1997; Commons: built 1995-1997 after a 1990 competition). Divisare (via search) describes a reinforced-concrete reworking of the dolmen system, structure and architecture as one, solid and void alternating continuously around the hall, and an interior free of obstacles. That the piers carry the roof is implied but not stated, so the line avoids it."
+ },
+ {
+  "id": "biblioteca-cantonale-lugano",
+  "verdict": "fixed",
+  "features": "Ticino's key modernist work, in Parco Ciani: an L-plan library with a windowless, Bauhaus-inspired book-stack wing.",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Biblioteca_cantonale_di_Lugano_(edificio)",
+   "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/biblioteche/biblioteca-cantonale.html",
+   "https://www.sbt.ti.ch/fileadmin/sbt/LUBC/Documenti/BCLu_ValoreArchitettonico.pdf"
+  ],
+  "note": "Rino and Carlo Tami confirmed (Commons Wikidata infobox; won a 1936 competition). Year 1942 kept: Wikidata gives 1942, Lugano city says built in 1941, and a search source gives the 1942 inauguration. The city calls it the most significant example of architectural modernism in Ticino; the library's own document (via search) describes an L-plan whose north book-stack wing, inspired by Gropius's Bauhaus, is windowless with a corridor lit by a glass grid. The 'closed reading hall' and 'light loggia' were not confirmed and were removed."
+ },
+ {
+  "id": "swiss-national-museum-extension",
+  "verdict": "fixed",
+  "features": "Zigzag wing in tuff-tinted concrete with porthole windows, rising in a chevron to open the old courtyard to the park.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swiss_National_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Landesmuseum_Z%C3%BCrich_Extension",
+   "https://architecturalrecord.com/articles/11966-extension-of-the-swiss-national-museum",
+   "https://bestarchitects.de/en/gewinner/2018/oeffentliche-bauten/christ-gantenbein.php"
+  ],
+  "note": "Christ & Gantenbein and 2016 (opened summer 2016; dates given as 1 or 31 August) confirmed via search. Architectural Record: board-formed concrete, porthole windows as the only openings, a zigzag connector rising like a chevron to give the courtyard access to the park; Best Architects: tuff aggregate to match the old facade. 'Huge triangular gateway' was not in the sources and was replaced."
+ },
+ {
+  "id": "frauenmuseum-hittisau",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hittisau_Women%27s_Museum",
+   "https://www.vorarlberg.travel/en/?p=19017",
+   "https://www.creativeaustria.at/en/2016/12/02/frauenmuseum-hittisau/",
+   "https://commons.wikimedia.org/wiki/Category:Frauenmuseum_Hittisau"
+  ],
+  "note": "cukrowicz nachbaur and 2000 confirmed by Vorarlberg tourism's architecture listing (via search), which describes a wooden cuboid of untreated silver fir that seems to float above the fire station's concrete, steel and glass base and opens to the village centre through a large glass front. The line stands as written. There is an English Wikipedia article (Hittisau Women's Museum) to add as a source."
+ },
+ {
+  "id": "bus-stop-krumbach",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/BUS:STOP_Krumbach",
+   "https://domusweb.it/en/design/2014/06/17/bus_stop_krumbach_.amp.html",
+   "https://creativeaustria.at/en/2020/03/16/busstop-krumbach-vorarlberg"
+  ],
+  "note": "Wikipedia confirms the seven stops, each international architect paired with a local partner architect, and that the designs were made and installed by local architects, local craftsmen and the Krumbach community. Year 2014 now supported: Domus (June 2014) reports the seven shelters erected and in use that spring, and Creative Austria says they were built in 2014. (The architects' fee was a week's holiday in the Bregenzerwald.)"
+ },
+ {
+  "id": "museum-liner-appenzell",
+  "verdict": "fixed",
+  "features": "Galleries under a saw-tooth of gables of varying height, roof and walls clad in overlapping stainless-steel sheets.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigon/Guyer",
+   "https://www.gigon-guyer.ch/en/project/kunstmuseum-appenzell-en/",
+   "https://www.e-architect.com/switzerland/museum-liner-appenzell"
+  ],
+  "note": "Gigon/Guyer and 1998 (1996-1998) confirmed. The architects' page (via search) describes gabled exhibition rooms of varying height forming a zigzag/saw-tooth profile, and overlapping sandblasted stainless steel sheets on roof and facades, recalling Appenzell's shingled facades. 'Chrome steel' (Chromstahl) is the German term for stainless steel; changed to the plainer 'stainless steel'."
+ },
+ {
+  "id": "featherston-house",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Featherston_House"
+  ],
+  "note": "Robin Boyd (Romberg & Boyd), designed 1967, completed 1969 per Wikipedia. The article supports the line: full glass walls overlooking the bush, a garden at ground floor, platforms placed off the central chimney, and the house described as a tree house. (The student drawings flagged earlier still need a check before use.)"
+ },
+ {
+  "id": "dixon-street-flats",
+  "verdict": "fixed",
+  "features": "Ten-storey concrete slab of 115 state flats, the archetype of New Zealand's modernist apartment blocks.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dixon_Street_Flats",
+   "https://nzhistory.govt.nz/media/photo/dixon-street-flats-wellington"
+  ],
+  "note": "Gordon Wilson and 1944 (completed 1944; officially opened 4 September 1943) confirmed by Wikipedia, which also gives ten storeys, 115 one-bedroom flats and 'archetype of Modernist apartment blocks in New Zealand'. NZHistory (via search) says monolithic reinforced concrete. 'Long access balconies' came from photos only and was removed. Note: the flats were boarded up by 2024 and sold to Taranaki Whānui in 2025."
+ },
+ {
+  "id": "sky-tower-auckland",
+  "verdict": "fixed",
+  "features": "328 m concrete telecom and observation tower whose shaft stands on eight legs, with a revolving restaurant at 190 m.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)"
+  ],
+  "note": "Gordon Moller of Craig Craig Moller and 1997 (completed 1997; casino complex 1994-1997) confirmed. Wikipedia: 328 m, high-performance reinforced concrete, a 12 m shaft supported on eight 'legs', New Zealand's only revolving restaurant at 190 m. 'Splayed' came from photos only and was replaced with the sourced 'eight legs'."
+ },
+ {
+  "id": "turanga-christchurch",
+  "verdict": "fixed",
+  "features": "Post-earthquake central library on Cathedral Square, partly wrapped in a golden screen inspired by the Port Hills.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/T%C5%ABranga",
+   "https://www.dezeen.com/2018/10/18/schmidt-hammer-lassen-architectus-christchurch-central-library-architecture/"
+  ],
+  "note": "Architectus with Schmidt Hammer Lassen and 2018 (opened 12 October 2018) confirmed by Wikipedia, which says the design is inspired by the golden hues of the Port Hills; Dezeen (via search) says it is partially covered by a golden facade screen. 'Tall folded fins' came from photos only and was replaced with the sourced wording."
  }
 ]

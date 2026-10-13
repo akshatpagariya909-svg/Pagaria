@@ -190,5 +190,258 @@
    "https://www.ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/the-weald-and-downland-gridshell"
   ],
   "note": "Architect, engineer and 2002 confirmed by Wikipedia. Building magazine: three rounded peaks likened to a triple peanut shell; double layer of 50 x 35 mm green oak laths. Buro Happold: workshop on top of a sunken concrete store; ICE calls it an artefact store. Changed \"archive sunk into the chalk slope\" to the sourced wording."
+ },
+ {
+  "id": "bharat-bhavan",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bharat_Bhavan",
+   "https://www.archdaily.com/791942/ad-classics-bharat-bhavan-charles-correa",
+   "https://udcsa.gsd.harvard.edu/projects/25"
+  ],
+  "note": "Wikipedia: Correa, inaugurated 13 Feb 1982, faces the Upper Lake, includes the open-air amphitheatre (Bahirang). ArchDaily AD Classics and Harvard GSD (via search): terraces and sunken courtyards stepping down the slope to the lake. Line now sourced."
+ },
+ {
+  "id": "makoko-floating-school",
+  "verdict": "fixed",
+  "features": "10 m timber A-frame on about 250 plastic barrels: play deck, louvred classrooms, open-air classroom on top.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makoko_Floating_School",
+   "https://www.dezeen.com/2014/03/25/makoko-floating-school-nigeria-nle/"
+  ],
+  "note": "Wikipedia: Kunlé Adeyemi (NLÉ), 2013; timber A-frame, playground below, classrooms with adjustable louvres, open-air classroom on the roof, about 250 plastic barrels; collapsed June 2016. Dezeen gives 10 m height. Only change: the top level is an open-air classroom, not a workshop."
+ },
+ {
+  "id": "grand-theatre-de-rabat",
+  "verdict": "fixed",
+  "features": "Sweeping curved shell on the Bou Regreg riverbank, with a muqarnas-faceted 1,821-seat hall and outdoor amphitheatre.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Theatre_of_Rabat"
+  ],
+  "note": "Wikipedia (now titled Royal Theatre of Rabat, renamed from Grand Theatre): Zaha Hadid with ZHA, completed 2021, 1,821-seat main hall with muqarnas-inspired faceted surfaces, outdoor amphitheatre, on the left bank of the Bou Regreg. Only change: \"white\" swapped for \"curved\", since the article names curved GRC surfaces but not the colour. The owner may want the name updated to Royal Theatre of Rabat."
+ },
+ {
+  "id": "nid-d-abeille-casablanca",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carri%C3%A8res_Centrales",
+   "https://www.centrepompidou.fr/es/ressources/oeuvre/ck75e4",
+   "https://fr.le360.ma/culture/casa-des-sites-une-memoire-ep6-lepopee-de-hay-mohammadi-de-la-carriere-centrale-a-lutopie-urbaine_YO4HOG55YVDJ5MSZUCT22ER7CY/"
+  ],
+  "note": "Wikipedia credits Candilis, Woods and Josic (designed 1952), and says residents named the block Nid d Abeille for its honeycomb look; Le360/Casamémoire name Bodiansky, Candilis and Woods in the 1950s. The Pompidou drawing (\"Nid d abeille R+4, étages pairs et impairs\") is dated 1953 and supports five levels with alternating floors. No firm completion date was found: 1953 is the drawing date and Wikipedia gives 1952 for the design, so keep 1953 only as the design/drawing year."
+ },
+ {
+  "id": "hotel-el-aurassi",
+  "verdict": "fixed",
+  "features": "Long 14-storey hotel slab of 455 rooms on raised ground overlooking the Bay of Algiers.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Architecture_of_Algeria",
+   "https://en.wikipedia.org/wiki/Timeline_of_Algiers",
+   "https://en.wikipedia.org/wiki/Luigi_Moretti",
+   "https://www.livetheworld.com/activities/algeria/hotel-el-aurassi"
+  ],
+  "note": "Wikipedia Architecture of Algeria lists El Aurassi Hotel (Luigi Moretti, 1975); Timeline of Algiers: in business 1975. A travel listing gives 14 storeys, 455 rooms and 31 suites, and says Moretti died before completion. Booking sites list garden-view rooms, so \"every room facing the sea\" is wrong and is removed; \"stacked podiums\" not sourced. \"Long slab\" is what the photos show."
+ },
+ {
+  "id": "notre-dame-de-lourdes-casablanca",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre-Dame_de_Lourdes_Church_(Casablanca)",
+   "https://www.aaa.com/tripcanvas/attraction/eglise-notre-dame-de-lourdes-VA16871",
+   "https://www.lonelyplanet.fr/poi/maroc-coteatlantiquemaroccg-notre-dame-de-lourdes"
+  ],
+  "note": "Wikipedia: built 1954 by Achille Dangleterre with engineer Gaston Zimmer; Gabriel Loire stained glass; long concrete entrance. Travel guides (via search) describe a tall white concrete facade, a vaulted concrete ceiling and about 800 m2 of Loire glass. Lonely Planet France gives 1956, a minority date."
+ },
+ {
+  "id": "rabindra-bhavan-delhi",
+  "verdict": "fixed",
+  "features": "Home of three national arts academies: a Y-shaped four-storey block shaded by rows of concrete sunshades.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)",
+   "https://architexturez.net/node/123710",
+   "https://www.vice.com/en/article/buildings-of-delhi/",
+   "https://dome.mit.edu/handle/1721.3/60614?show=full"
+  ],
+  "note": "Wikipedia: Habib Rahman, 1961 (or 1963), houses the Lalit Kala, Sangeet Natak and Sahitya academies; built for the Tagore centenary (1961). Architexturez: administrative, exhibition and theatre blocks; the administrative block is Y-shaped, four storeys, windows shaded by RCC sunshades in two continuous rows. \"Canopy of white concrete arches\" was from photos and not found in a source, so removed."
+ },
+ {
+  "id": "palika-kendra",
+  "verdict": "fixed",
+  "features": "21-storey, 91 m concrete tower on a curved base, one of Delhi's few brutalist buildings.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palika_Kendra",
+   "https://momove.docomomo.com/items/browse?tags=India"
+  ],
+  "note": "Wikipedia: Kuldip Singh and Mahendra Raj, inaugurated 1984, 21 storeys, 91 m, among the few Brutalist structures in Delhi. Docomomo describes \"a soaring, expressive concrete structure with a curved base\". Reworded \"base flares out in a great curve\" and \"landmark\" to the sourced wording."
+ },
+ {
+  "id": "mortonhall-crematorium",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mortonhall_Crematorium"
+  ],
+  "note": "Wikipedia: Spence, Glover and Ferguson (Basil Spence), opened 1967, set in mature woodland; walls of white calcined flint aggregate concrete blocks, tall angled fins, tall glazed slit windows. Every part of the line is sourced."
+ },
+ {
+  "id": "cultural-center-of-the-philippines",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Center_of_the_Philippines"
+  ],
+  "note": "Wikipedia: Tanghalang Pambansa (National Theater) designed by Leandro Locsin, opened 8 Sept 1969, CCP headquarters, on a reclaimed site along Roxas Boulevard. Line is sourced, though thin on design; no source description of the form was reached."
+ },
+ {
+  "id": "villa-stein-de-monzie",
+  "verdict": "ok",
+  "sources": [
+   "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-stein-de-monzie-villa-les-terrasses-france-1926-1928/",
+   "https://en.wikipedia.org/wiki/Villa_Stein",
+   "https://monumentum.fr/monument-historique/pa00088160/vaucresson-villa-stein"
+  ],
+  "note": "Fondation Le Corbusier (via search): Le Corbusier and Pierre Jeanneret, 1926-28, delivered 1928; plastered reinforced-concrete box with facades set out by regulating lines, strip windows, awning over the entrance door and balcony over the service door. \"White\" is the plaster finish; fine."
+ },
+ {
+  "id": "conjunto-nacional",
+  "verdict": "fixed",
+  "year": "1958",
+  "features": "A whole block on Avenida Paulista: low shopping arcade with a roof terrace under a 25-storey slab of flats.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)",
+   "https://skyscraperpage.com/b10952",
+   "https://www.oasejournal.nl/en/Downloads/52836222c79eb3b5f50006ab/OASE%2071%20-%207%20Sampa%20s%20solids.pdf",
+   "https://www.guiadasemana.com.br/sao-paulo/arte/estabelecimento/conjunto-nacional"
+  ],
+  "note": "David Libeskind (Brazilian, not Daniel) confirmed. Dates disagree: Wikipedia infobox 1952-1956, but its own history says the design was modified in the late 1950s; SkyscraperPage gives 1954-1958 and a São Paulo guide gives inauguration 1958, so 1958 is better supported. Wikipedia: shopping gallery fills the block, apartments in the vertical part; OASE: 25-level slab over the base, whose roof once held a restaurant with a small park (now other uses), so \"roof garden\" softened to \"roof terrace\"."
+ },
+ {
+  "id": "plaza-cubierta-ucv",
+  "verdict": "fixed",
+  "year": "1954",
+  "features": "Covered plaza made as an open museum: perforated walls, gaps in the roof and ramps among murals and sculpture.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_City_of_Caracas"
+  ],
+  "note": "Wikipedia: Villanueva; the Plaza Cubierta was inaugurated with the Aula Magna on 2 March 1954 (so 1954, not 1953); an indoor-outdoor \"open museum\" with perforated walls, sections of open roof and ramps. The artist list (Léger, Vasarely, Arp, Calder, Manaure) is campus-wide in Wikipedia and Calder is inside the Aula Magna, so the names were dropped rather than tie them all to this plaza; \"free-form concrete canopies\" also not in the source."
+ },
+ {
+  "id": "centro-simon-bolivar",
+  "verdict": "fixed",
+  "features": "Twin 103 m towers rising from two parallel wings raised on stilts, with Avenida Bolívar passing beneath.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Sim%C3%B3n_Bol%C3%ADvar_Towers",
+   "https://www.archdaily.com/es/02-324879/feliz-cumpleanos-cipriano-dominguez",
+   "https://guiaccs.com/?p=1011"
+  ],
+  "note": "Wikipedia: Cipriano Domínguez (infobox), begun 1948, opened 6 Dec 1954; twin towers 103 m rising from two parallel wings on stilts, Bolívar Avenue passes underneath. Floor count differs (32 Wikipedia, 28 guiaccs) so left out. \"Government\" towers not stated in the article, so replaced with sourced detail."
+ },
+ {
+  "id": "museo-de-bellas-artes-caracas",
+  "verdict": "fixed",
+  "features": "Villanueva's last building: a six-storey concrete annex of column-free galleries beside his 1938 museum.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Bellas_Artes_(Caracas)",
+   "https://www.sosbrutalism.org/cms/18801965",
+   "https://eldiario.com/2020/02/20/celebrando-al-museo-de-bellas-artes-un-tesoro-cultural-en-caracas/"
+  ],
+  "note": "Wikipedia: both buildings by Villanueva, a 1930s neoclassical one and a 1970s brutalist one. SOS Brutalism: annex dated 1976 (with Oscar Carmona), the last building Villanueva built; precast tensioned concrete, column-free exhibition rooms; gardens meant to extend Parque Los Caobos. Old building inaugurated 20 Feb 1938 (El Diario). Six storeys from a Lonely Planet listing. \"Stacked galleries\" reworded to sourced terms."
+ },
+ {
+  "id": "edificio-panamericano",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Panamericano",
+   "https://aroundus.com/p/4234930-edificio-panamericano",
+   "https://www.architectmagazine.com/design/urbanism-planning/the-well-worn-modernism-of-montevideo_o"
+  ],
+  "note": "Wikipedia: designed and built by Raúl A. Sichero Bouret; double-height V-shaped supports; on the coast opposite the Port of Buceo. Construction started 1960 (Wikipedia infobox), completed 1964 (aroundus). Architect magazine: sails over its site on V-shaped columns."
+ },
+ {
+  "id": "facultad-de-arquitectura-udelar",
+  "verdict": "fixed",
+  "features": "Architecture school built round a large central patio with a pond and amphitheatre, classrooms in galleries around it.",
+  "sources": [
+   "https://mvdaudiovisual.montevideo.gub.uy/en/node/107",
+   "https://impo.com.uy/bases/resoluciones/655-2000",
+   "https://en.wikipedia.org/wiki/Rom%C3%A1n_Fresnedo_Siri"
+  ],
+  "note": "Montevideo film office page and the 2000 monument decree: Fresnedo Siri with Mario Muccinelli, competition 1938, inaugurated 1946; the great central patio structures the building, with a pond and amphitheatre and classrooms in surrounding galleries. \"Stone-clad wings\" and \"long glazed front\" not found in a source, so removed."
+ },
+ {
+  "id": "torres-de-tajamar",
+  "verdict": "fixed",
+  "features": "Four apartment towers, A to D, of 28, 10, 19 and 15 floors, between Avenida Providencia and Avenida Andrés Bello.",
+  "sources": [
+   "https://www.theclinic.cl/2026/10/10/columna-de-rita-cox-torres-de-tajamar-60-anos-de-arquitectura-iconica-y-un-gran-barrio/",
+   "https://www.archdaily.com/es/tag/luis-prieto-vial",
+   "https://archivospatrimoniales.uc.cl/handle/123456789/4279?show=full"
+  ],
+  "note": "ArchDaily credits Luis Prieto Vial and BVCH (Bresciani, Valdés, Castillo, Huidobro) and gives inauguration 1967; UC archive has plans dated 1963-64 and a 1965 construction clipping, so 1967 is the completion and the Wikidata 1962-64 is not supported. Tower heights (28, 10, 19, 15 floors, about 387 flats) and location from The Clinic (Oct 2026). \"Beside Parque Uruguay\" not found in a source, replaced."
+ },
+ {
+  "id": "mambo-bogota",
+  "verdict": "fixed",
+  "features": "Salmona's exposed-brick museum: four floors joined by a central stair, lit by large windows and skylights.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Bogot%C3%A1",
+   "https://ant.culturarecreacionydeporte.gov.co/sites/default/files/convocatorias_cartillas_y_anexos/ficha_tecnica_mambo_1.pdf",
+   "https://cambiocolombia.com/cultura/la-historia-del-mambo-es-tan-importante-como-dificil-y-heroica"
+  ],
+  "note": "Year 1985 kept: IDARTES fact sheet and Cambio say the first stage opened 1979 and the building was completed (second stage opened) in 1985. Wikipedia: Salmona, four floors joined by a central staircase, exposed brick, large windows and skylights. Only \"angled rooms\" was unsourced, so removed."
+ },
+ {
+  "id": "edificio-petroperu",
+  "verdict": "fixed",
+  "by": "Daniel Arana Ríos, Walter Weberhofer",
+  "features": "22-storey brutalist headquarters of the state oil company, won in a 1970s competition, with a helipad on top.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Petroper%C3%BA",
+   "https://online.flippingbook.com/view/807394747/106-107/",
+   "https://www.archdaily.com/es/tag/arquitectura-peruana"
+  ],
+  "note": "Wikipedia: designed by Daniel Arana Ríos and Walter Weberhofer, winning entry in a competition under Velasco Alvarado in the early 1970s, inaugurated 1973 (built 1969-73 per search summary); 22 floors, three basements, helipad, brutalist. Added Arana Ríos to the credit. \"Dark tower\" and \"stepped, cantilevered base\" came from photos and are not in a source, so removed."
+ },
+ {
+  "id": "biblioteca-luis-angel-arango",
+  "verdict": "fixed",
+  "features": "Central bank's public library, opened 1958 and extended in stages over two city blocks; concrete-domed newspaper hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library",
+   "https://en.wikipedia.org/wiki/Rafael_Esguerra",
+   "https://www.archdaily.com/1004773/architecture-classics-luis-angel-arango-library-german-samper",
+   "https://publicaciones.banrepcultural.org/index.php/bmo/article/download/21730/21851/42924"
+  ],
+  "note": "Wikipedia: Esguerra Sáenz Urdaneta Samper, first modern section opened 1958 (inaugurated 20 Feb 1958), later expansions (1965, and 1990 by Álvaro Rivera Realpe), two whole blocks; Rafael Esguerra article credits the concrete dome of the Hemeroteca. \"Stone-clad\" and \"projecting upper floor screened by slats\" not found in a source, so replaced."
+ },
+ {
+  "id": "fredensborg-houses",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fredensborg_Houses"
+  ],
+  "note": "Wikipedia (History and architecture section): completed in 1963; courtyard houses on a slope, each with a view over a green slope, gardens enclosed by outer walls. All parts sourced."
+ },
+ {
+  "id": "opera-village-laongo",
+  "verdict": "fixed",
+  "features": "Village of school, health centre and houses on a laterite plateau, begun in 2010 with Christoph Schlingensief.",
+  "sources": [
+   "https://kerearchitecture.com/work/building/opera-village",
+   "https://www.studiomatrx.org/guides/opera-village",
+   "https://theculturetrip.com/africa/articles/a-burkinab-opera-village-in-the-desert",
+   "https://architecturalrecord.com/articles/5925-center-for-health-care-and-social-promotion"
+  ],
+  "note": "Work began early 2010 (foundation stone 2010); the primary school opened in autumn 2011 (Culture Trip 8 Oct, Studio Matrx Nov), so 2011 stands as the school opening; the health centre followed (dated 2010-14). Kéré with the late Schlingensief; site is the laterite plateau at Laongo, about 30 km from Ouagadougou. \"Local brick and earth, deep-set windows and shading roofs\" were from the photos and sources conflict on roofs (Architectural Record says the clinic has no overhang), so removed."
+ },
+ {
+  "id": "temple-street-parking-garage",
+  "verdict": "fixed",
+  "features": "Long concrete car park for 1,280 cars on arched double columns, bridging George Street, with shops below.",
+  "sources": [
+   "https://sah-archipedia.org/node/83400",
+   "https://paulrudolph.institute/195901-temple-street-parking-garage",
+   "https://www.newhavenindependent.org/article/new_exhibit_rehabilitates_paul_rudolph",
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)"
+  ],
+  "note": "SAH Archipedia: Paul Rudolph, 1959-1963 (restored 2002); reinforced-concrete, two blocks long, bridges George Street, 1,280 cars, ground-floor shops; arches likened to a Roman aqueduct, balustrade broken at the double columns. \"Tree-like columns\" not in a source, so reworded."
  }
 ]
