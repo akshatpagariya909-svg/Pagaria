@@ -490,5 +490,255 @@
   "author": "",
   "evidence": "",
   "note": "firm/practice"
+ },
+ {
+  "name": "Blanca Lleó",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> members, en.wikipedia page. Only Mirador building and Faro de Nules photos; category empty; no en.wikipedia page."
+ },
+ {
+  "name": "Bogdan Bogdanović",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search results are basketball player Bogdan Bogdanović (same-name trap) or monuments; Category:Bogdan Bogdanović has 3 files (Mostar cemetery, Aleja streljanih rodoljuba, Vlasotince war monument), no portrait; enwiki 'Bogdan Bogdanović (architect)' exists but has no free pageimage."
+ },
+ {
+  "name": "Boris Artyushin",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. 0 search hits, no category, no enwiki page (Latin spelling only; Cyrillic not checked)."
+ },
+ {
+  "name": "Branimir Ganović",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. 0 search hits, no category, no enwiki page."
+ },
+ {
+  "name": "Branko Zezelj",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search only finds 'Građevinska tehnička škola Branko Žeželj' school photos; no category; no enwiki page."
+ },
+ {
+  "name": "Brasil Arquitetura",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "firm/practice"
+ },
+ {
+  "name": "Brian Lewis",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category:Brian Lewis is the racing driver Brian Lewis, 2nd Baron Essendon (same-name trap, NOT the Australian architect); search finds nothing for the architect; enwiki 'Brian Lewis' no pageimage."
+ },
+ {
+  "name": "Brit Andresen",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search returns only Burrell Collection photos; Category:Brit Andresen has 0 files (1 subcat: Burrell Collection); enwiki page exists, no pageimage."
+ },
+ {
+  "name": "Bruce Graham",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Candidates seen: 'Bruce Graham & Fazlur Khan (34809847521).jpg' (CC BY 2.0, in cat 'Graves at Graceland Cemetery' - evidently a grave photo, not a portrait) and 'Graves of Fazlur Rahman Khan and Bruce John Graham'; 'Bruce Graham (3376994949).jpg' is an ice hockey photo (wrong person). enwiki 'Bruce Graham' has no pageimage. Doubtful only in that I did not look at the pixels of the first file."
+ },
+ {
+  "name": "Bruno Morassutti",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category has 3 Paolo Monti photos of clocks/furniture, no portrait; no enwiki page."
+ },
+ {
+  "name": "Buckminster Fuller",
+  "status": "found",
+  "wikidata": "",
+  "file": "File:BuckminsterFuller1.jpg",
+  "license": "CC BY 3.0",
+  "author": "Dan Lindsay (en:User:Edgy01)",
+  "evidence": "https://commons.wikimedia.org/wiki/File:BuckminsterFuller1.jpg",
+  "note": "422x551; description names him, category Buckminster Fuller"
+ },
+ {
+  "name": "C. F. Murphy",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "firm/practice"
+ },
+ {
+  "name": "Cai Xianyu",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search irrelevant (Chinese book PDFs); no category; no enwiki page."
+ },
+ {
+  "name": "Cameron Chisholm Nicol",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "firm/practice"
+ },
+ {
+  "name": "Carl von Hasenauer",
+  "status": "found",
+  "wikidata": "",
+  "file": "File:Karl-von-Hasenauer-1880.jpg",
+  "license": "Public domain",
+  "author": "Unknown author",
+  "evidence": "https://commons.wikimedia.org/wiki/File:Karl-von-Hasenauer-1880.jpg",
+  "note": "482x503, c.1880 photo, category Carl von Hasenauer. Alternative: File:Carl von Hasenauer 001.JPG (324x386 PD)"
+ },
+ {
+  "name": "Carlfried Mutschler",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category has 3 files: shop-window/church photos and Mutschler-grab.JPG (a grave); no portrait; no enwiki page."
+ },
+ {
+  "name": "Carlo Aymonino",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search/category (10 files) are all buildings, drawings, projects; enwiki pageimage is Monte Amiata housing (building). No portrait."
+ },
+ {
+  "name": "Carlo Mollino",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category has 11 files, all furniture/race car; search gives furniture and Rifugio Carlo Mollino; enwiki page exists with no free pageimage. No portrait."
+ },
+ {
+  "name": "Carlo Ratti Associati",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "firm/practice"
+ },
+ {
+  "name": "Carlo Tami",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search irrelevant libretti; 'Tami Brüder, Brutarchitekt.jpg' is the Lugano library building; Category:Carlo Tami 0 files (subcat Sacro Cuore church); no enwiki page."
+ },
+ {
+  "name": "Carlos Arniches",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. SAME-NAME TRAP: Category:Carlos Arniches and enwiki 'Carlos Arniches' (Carlos_Arniches_2.jpg, Carlos_Arniches.jpg) are the playwright Carlos Arniches Barrera (1866-1943), NOT the architect Carlos Arniches Moltó (Hipódromo de la Zarzuela). Search 'Carlos Arniches Moltó' finds only buildings (Albergue de Carretera, Marquesina Torroja) and playwright items. No architect portrait."
+ },
+ {
+  "name": "Carlos Cascaldi",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Only Edifício Louveira / FAU-USP building photos; no category; no enwiki page."
+ },
+ {
+  "name": "Carlos Zapata",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. SAME-NAME TRAP: Category:Carlos Zapata is Argentine politician Carlos Raúl Zapata (3 files); search also gives footballer/artisan; the architect (Bitexco) has no portrait; enwiki page exists but pageimage is Cooper Square Hotel (building)."
+ },
+ {
+  "name": "Cassiano Branco",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category 2 files and search are all buildings (Coliseu, Eden, Hotel Vitória, Chapitô); enwiki pageimage Coliseu do Porto. No portrait."
+ },
+ {
+  "name": "Cathy Hawley",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search returned only unrelated PDFs/videos; no category; no enwiki page."
  }
 ]
