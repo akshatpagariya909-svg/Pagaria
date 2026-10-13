@@ -1,4 +1,4 @@
-2123 of 2604 buildings matched; 1018 architects, 533 with a free portrait.
+2144 of 2604 buildings matched; 1032 architects, 547 with a free portrait.
 
 search  villa-savoye: Q940746
 search  unite-dhabitation: Q1412364
@@ -1299,11 +1299,11 @@ name    Giancarlo Mazzanti: Q5879264
 name    Jorge Romero Gutiérrez: no architect of that name
 name    Dirk Bornhorst: Q96057945
 name    J. L. Gleave: Q10308595
-founder Zaha Hadid (Zaha Hadid Architects): Q47780
 name    Ming imperial builders: no architect of that name
 name    Wang Xianchen: no architect of that name
 name    Ron Phillips: Q106713582
 name    Alan Fitch: Q106691674
+name    Zaha Hadid Architects: no architect of that name
 name    Bio-architecture Formosana: no architect of that name
 name    ARC Studio Architecture: no architect of that name
 name    Kisho Kurokawa: Q358502
@@ -1603,6 +1603,7 @@ name    Émile Aillaud: Q274877
 name    Ricardo Bofill: Q316413
 name    Taller de Arquitectura: no architect of that name
 name    Jean Renaudie: Q3088355
+name    Zaha Hadid: Q47780
 name    Solange Fabião: no architect of that name
 name    Marcel Breuer: Q57588
 name    Bernard Tschumi: Q123966

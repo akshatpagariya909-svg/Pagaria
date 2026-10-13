@@ -153,6 +153,13 @@ window.ARCHITECTS = {
    "license": "CC BY-SA 3.0",
    "credit": "Dipz99"
   },
+  "manual:B. V. Doshi": {
+   "name": "B. V. Doshi",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Balkrishna_Doshi.JPG/250px-Balkrishna_Doshi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Balkrishna_Doshi.JPG",
+   "license": "CC BY-SA 3.0",
+   "credit": "Sanyam Bahga"
+  },
   "Q1380014": {
    "name": "Laurie Baker",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Backer.jpg/250px-Backer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -163,12 +170,26 @@ window.ARCHITECTS = {
   "Q3610582": {
    "name": "Geoffrey Bawa"
   },
+  "manual:Hassan Fathy": {
+   "name": "Hassan Fathy",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Hassan_Fathy_in_Cairo_%28cropped%29.jpg/250px-Hassan_Fathy_in_Cairo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Hassan_Fathy_in_Cairo_(cropped).jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Dimitri Papadimos personal archive with his son Ioannis D.Papadimos"
+  },
   "Q99416": {
    "name": "Diébédo Francis Kéré",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Francis_Kere%2C_2019.jpg/250px-Francis_Kere%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Francis_Kere,_2019.jpg",
    "license": "CC BY-SA 3.0",
    "credit": "Astrid Eckert"
+  },
+  "manual:Álvaro Siza": {
+   "name": "Álvaro Siza",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Siza_Vieira_2015_IMG_0401.jpg/250px-Siza_Vieira_2015_IMG_0401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Siza_Vieira_2015_IMG_0401.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Manuelvbotelho"
   },
   "Q51137": {
    "name": "Carlo Scarpa",
@@ -190,6 +211,13 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Wang-Shu_Taipei.jpg",
    "license": "CC BY 2.0",
    "credit": "Hsieh_Ying-Chun_and_Wang-Shu.jpg: Movez\nderivative work: ELEKHHT"
+  },
+  "manual:Alejandro Aravena": {
+   "name": "Alejandro Aravena",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg/250px-Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Premio_Abd%C3%B3n_Cifuentes_2015_-_Alejandro_Aravena_01.jpg",
+   "license": "CC BY 3.0",
+   "credit": "Centro de Políticas Públicas UC"
   },
   "Q208220": {
    "name": "Tadao Ando",
@@ -214,6 +242,13 @@ window.ARCHITECTS = {
   },
   "Q369645": {
    "name": "Ryue Nishizawa"
+  },
+  "manual:Junya Ishigami": {
+   "name": "Junya Ishigami",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Junya_Ishigami.jpg/250px-Junya_Ishigami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Junya_Ishigami.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Nils Freyermuth"
   },
   "Q3133614": {
    "name": "Sou Fujimoto",
@@ -246,6 +281,13 @@ window.ARCHITECTS = {
   "Q47780": {
    "name": "Zaha Hadid"
   },
+  "manual:Zaha Hadid": {
+   "name": "Zaha Hadid",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Zaha_Hadid_-_Presentation_%27What_is_new%3F%27_%28cropped%29.jpg/250px-Zaha_Hadid_-_Presentation_%27What_is_new%3F%27_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Zaha_Hadid_-_Presentation_%27What_is_new%3F%27_(cropped).jpg",
+   "license": "CC BY 2.0",
+   "credit": "Columbia GSAPP"
+  },
   "Q180374": {
    "name": "Frank Gehry",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Frank_Gehry%2C_Viljo_Revell_Centenary_reception%2C_2010_%28S2311_fl2969_it0089%29_%28cropped%29.jpg/250px-Frank_Gehry%2C_Viljo_Revell_Centenary_reception%2C_2010_%28S2311_fl2969_it0089%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -262,6 +304,13 @@ window.ARCHITECTS = {
   },
   "Q3174960": {
    "name": "Pierre de Meuron",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg/250px-31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "St. Gallen Symposium"
+  },
+  "manual:de Meuron": {
+   "name": "de Meuron",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg/250px-31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:31._ISC-Symposium-Pierre_de_Meuron-HSGN_028-01578.jpg",
    "license": "CC BY-SA 4.0",
@@ -480,6 +529,13 @@ window.ARCHITECTS = {
   },
   "Q64412": {
    "name": "Frei Otto"
+  },
+  "manual:Frei Otto": {
+   "name": "Frei Otto",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/OttoFrei.jpg/250px-OttoFrei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:OttoFrei.jpg",
+   "license": "CC BY 4.0",
+   "credit": "ThinkTech Hawaii"
   },
   "Q451141": {
    "name": "Steven Holl",
@@ -1226,6 +1282,13 @@ window.ARCHITECTS = {
   "Q1904319": {
    "name": "Martin Kremmer"
   },
+  "manual:Fritz Höger": {
+   "name": "Fritz Höger",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fritz-hoeger-in-menschen-der-zeit-s103.jpg/250px-Fritz-hoeger-in-menschen-der-zeit-s103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Fritz-hoeger-in-menschen-der-zeit-s103.jpg",
+   "license": "Public domain",
+   "credit": "Max Halberstadt (1882-1940)"
+  },
   "Q78884": {
    "name": "Hans Hollein",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Hans_Hollein%2C_Architect%2C_Designer.jpg/250px-Hans_Hollein%2C_Architect%2C_Designer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1547,6 +1610,13 @@ window.ARCHITECTS = {
   },
   "Q76734": {
    "name": "Hans Poelzig"
+  },
+  "manual:Hans Poelzig": {
+   "name": "Hans Poelzig",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hans_Poelzig%2C_1927.jpg/250px-Hans_Poelzig%2C_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Hans_Poelzig,_1927.jpg",
+   "license": "Public domain",
+   "credit": "Alexander Binder"
   },
   "Q65803": {
    "name": "Egon Eiermann",
@@ -1920,6 +1990,13 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Edwin_Lutyens.jpg",
    "license": "Public domain",
    "credit": "Weaver, Lawrence, 1876-1930"
+  },
+  "manual:Houshang Seyhoun": {
+   "name": "Houshang Seyhoun",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Seyhoon_Houshang_%28cropped%29.jpg/250px-Seyhoon_Houshang_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Seyhoon_Houshang_(cropped).jpg",
+   "license": "Public domain",
+   "credit": "VOA Persian Interview"
   },
   "Q40744953": {
    "name": "Kerry Clare"
@@ -3154,6 +3231,13 @@ window.ARCHITECTS = {
   "Q11526580": {
    "name": "Takamitsu Azuma"
   },
+  "manual:Charles-Édouard Jeanneret": {
+   "name": "Charles-Édouard Jeanneret",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Le_Corbusier_%281964%29.jpg/250px-Le_Corbusier_%281964%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_(1964).jpg",
+   "license": "CC0",
+   "credit": "Joop van Bilsen for Anefo"
+  },
   "Q1625324": {
    "name": "Pierre Koenig"
   },
@@ -3930,6 +4014,13 @@ window.ARCHITECTS = {
    "license": "CC BY-SA 3.0",
    "credit": "CarlesMartin"
   },
+  "manual:Adrian Smith": {
+   "name": "Adrian Smith",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Adrian_Smith_crop.jpg/250px-Adrian_Smith_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Adrian_Smith_crop.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Goyaforya"
+  },
   "Q7400013": {
    "name": "Saif Ul Haque",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Saif_Ul_Haque_%285804490484%29.jpg/250px-Saif_Ul_Haque_%285804490484%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3970,6 +4061,13 @@ window.ARCHITECTS = {
   },
   "Q132988850": {
    "name": "Liu Jiakun"
+  },
+  "manual:Liu Jiakun": {
+   "name": "Liu Jiakun",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Liu_Jiakun_20260718.jpg/250px-Liu_Jiakun_20260718.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Liu_Jiakun_20260718.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Huangchinhsu"
   },
   "Q28151402": {
    "name": "Frida Escobedo",
@@ -5322,6 +5420,15 @@ window.ARCHITECTS = {
   "gandhi-smarak-sangrahalaya": [
    "Q699145"
   ],
+  "cept-university": [
+   "manual:B. V. Doshi"
+  ],
+  "sangath": [
+   "manual:B. V. Doshi"
+  ],
+  "aranya-low-cost-housing": [
+   "manual:B. V. Doshi"
+  ],
   "kanchanjunga-apartments": [
    "Q699145"
   ],
@@ -5334,8 +5441,14 @@ window.ARCHITECTS = {
   "heritance-kandalama": [
    "Q3610582"
   ],
+  "new-gourna-village": [
+   "manual:Hassan Fathy"
+  ],
   "gando-primary-school": [
    "Q99416"
+  ],
+  "leca-swimming-pools": [
+   "manual:Álvaro Siza"
   ],
   "can-lis": [
    "Q180398"
@@ -5358,6 +5471,9 @@ window.ARCHITECTS = {
   "ningbo-history-museum": [
    "Q336620"
   ],
+  "quinta-monroy": [
+   "manual:Alejandro Aravena"
+  ],
   "row-house-in-sumiyoshi": [
    "Q208220"
   ],
@@ -5373,6 +5489,9 @@ window.ARCHITECTS = {
   ],
   "moriyama-house": [
    "Q369645"
+  ],
+  "kait-workshop": [
+   "manual:Junya Ishigami"
   ],
   "teshima-art-museum": [
    "Q369645"
@@ -5391,14 +5510,16 @@ window.ARCHITECTS = {
    "Q104898"
   ],
   "vitra-fire-station": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "guggenheim-bilbao": [
    "Q180374"
   ],
   "tate-modern": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "jewish-museum-berlin": [
    "Q154538"
@@ -5411,7 +5532,8 @@ window.ARCHITECTS = {
   ],
   "beijing-national-stadium": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "oslo-opera-house": [
    "Q1813434",
@@ -5425,19 +5547,22 @@ window.ARCHITECTS = {
   ],
   "elbphilharmonie": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "louvre-abu-dhabi": [
    "Q214317"
   ],
   "maxxi": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "metropol-parasol": [
    "Q85218"
   ],
   "heydar-aliyev-center": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "high-line": [
    "Q1225543",
@@ -5503,7 +5628,8 @@ window.ARCHITECTS = {
    "Q57481"
   ],
   "guangzhou-opera-house": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "scottish-parliament-building": [
    "Q723669",
@@ -5522,10 +5648,12 @@ window.ARCHITECTS = {
    "Q220944"
   ],
   "dongdaemun-design-plaza": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "phaeno-science-center": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "national-congress-of-brazil": [
    "Q134165"
@@ -5572,7 +5700,8 @@ window.ARCHITECTS = {
   ],
   "munich-olympic-stadium": [
    "Q60694",
-   "Q64412"
+   "Q64412",
+   "manual:Frei Otto"
   ],
   "kiasma": [
    "Q451141"
@@ -5686,7 +5815,8 @@ window.ARCHITECTS = {
   ],
   "caixaforum-madrid": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "fondation-maeght": [
    "Q467712"
@@ -5721,7 +5851,8 @@ window.ARCHITECTS = {
    "Q312831"
   ],
   "portugal-pavilion": [
-   "Q251365"
+   "Q251365",
+   "manual:Álvaro Siza"
   ],
   "national-museum-of-roman-art": [
    "Q311692"
@@ -5745,7 +5876,8 @@ window.ARCHITECTS = {
    "Q316413"
   ],
   "serralves-museum-of-contemporary-art": [
-   "Q251365"
+   "Q251365",
+   "manual:Álvaro Siza"
   ],
   "stockholm-public-library": [
    "Q312070"
@@ -6063,7 +6195,8 @@ window.ARCHITECTS = {
   ],
   "tai-kwun": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "luce-memorial-chapel": [
    "Q46868",
@@ -6167,7 +6300,8 @@ window.ARCHITECTS = {
    "Q467712"
   ],
   "boa-nova-tea-house": [
-   "Q251365"
+   "Q251365",
+   "manual:Álvaro Siza"
   ],
   "casa-del-fascio": [
    "Q458653"
@@ -6188,6 +6322,9 @@ window.ARCHITECTS = {
   "zollverein-shaft-xii": [
    "Q111145",
    "Q1904319"
+  ],
+  "chilehaus": [
+   "manual:Fritz Höger"
   ],
   "neues-museum": [
    "Q707020"
@@ -6322,7 +6459,8 @@ window.ARCHITECTS = {
    "Q6248544"
   ],
   "tuwaiq-palace": [
-   "Q64412"
+   "Q64412",
+   "manual:Frei Otto"
   ],
   "al-shaheed-monument": [
    "Q391835"
@@ -6394,7 +6532,8 @@ window.ARCHITECTS = {
   ],
   "allianz-arena": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "european-central-bank": [
    "Q114444"
@@ -6407,7 +6546,8 @@ window.ARCHITECTS = {
   ],
   "56-leonard-street": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "doha-tower": [
    "Q214317"
@@ -6446,7 +6586,8 @@ window.ARCHITECTS = {
    "Q220944"
   ],
   "london-aquatics-centre": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "iac-building": [
    "Q180374"
@@ -6752,7 +6893,8 @@ window.ARCHITECTS = {
    "Q85669"
   ],
   "ig-farben-building": [
-   "Q76734"
+   "Q76734",
+   "manual:Hans Poelzig"
   ],
   "kaiser-wilhelm-memorial-church": [
    "Q65803"
@@ -7000,6 +7142,9 @@ window.ARCHITECTS = {
   "rashtrapati-bhavan": [
    "Q378157"
   ],
+  "omar-khayyam-mausoleum": [
+   "manual:Houshang Seyhoun"
+  ],
   "pearl-river-tower": [
    "Q6688185",
    "Q6969466",
@@ -7112,9 +7257,6 @@ window.ARCHITECTS = {
   "hong-kong-city-hall": [
    "Q106713582",
    "Q106691674"
-  ],
-  "morpheus-hotel": [
-   "Q47780"
   ],
   "lanyang-museum": [
    "Q6437314"
@@ -7231,9 +7373,6 @@ window.ARCHITECTS = {
    "Q6998032",
    "Q231371"
   ],
-  "king-abdullah-petroleum-studies-and-research-center": [
-   "Q47780"
-  ],
   "burj-al-arab": [
    "Q1335131"
   ],
@@ -7242,6 +7381,9 @@ window.ARCHITECTS = {
   ],
   "le-corbusier-gymnasium": [
    "Q4724"
+  ],
+  "new-baris": [
+   "manual:Hassan Fathy"
   ],
   "university-of-constantine": [
    "Q134165"
@@ -7282,7 +7424,8 @@ window.ARCHITECTS = {
    "Q311692"
   ],
   "nanjing-international-youth-cultural-centre": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "convention-centre-dublin": [
    "Q332610"
@@ -7294,7 +7437,8 @@ window.ARCHITECTS = {
    "Q251365"
   ],
   "generali-tower": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "sanctuary-of-meritxell": [
    "Q316413"
@@ -7304,7 +7448,8 @@ window.ARCHITECTS = {
   ],
   "roche-tower-bau-1": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "place-ville-marie": [
    "Q46868",
@@ -7355,7 +7500,8 @@ window.ARCHITECTS = {
   ],
   "matmut-atlantique": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "king-saud-mosque": [
    "Q4664731"
@@ -7647,6 +7793,9 @@ window.ARCHITECTS = {
   "capital-gate": [
    "Q3658496",
    "Q18559869"
+  ],
+  "avicenna-mausoleum": [
+   "manual:Houshang Seyhoun"
   ],
   "museo-de-arte-de-ponce": [
    "Q3048508"
@@ -8265,7 +8414,8 @@ window.ARCHITECTS = {
   ],
   "meret-oppenheim-hochhaus": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "palace-of-nations": [
    "Q3130450",
@@ -8286,7 +8436,8 @@ window.ARCHITECTS = {
   ],
   "tea-tenerife-espacio-de-las-artes": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "paustian-house": [
    "Q180398"
@@ -8317,7 +8468,8 @@ window.ARCHITECTS = {
   ],
   "de-young-museum": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "high-museum-of-art": [
    "Q159612"
@@ -8333,7 +8485,8 @@ window.ARCHITECTS = {
   ],
   "m": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "rock-and-roll-hall-of-fame": [
    "Q46868"
@@ -8426,7 +8579,8 @@ window.ARCHITECTS = {
   ],
   "japan-pavilion-expo-2000": [
    "Q526725",
-   "Q64412"
+   "Q64412",
+   "manual:Frei Otto"
   ],
   "sanatorium-purkersdorf": [
    "Q84250"
@@ -8435,7 +8589,8 @@ window.ARCHITECTS = {
    "Q167073"
   ],
   "rosenthal-center-for-contemporary-art": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "galeries-lafayette-berlin": [
    "Q214317"
@@ -8509,9 +8664,11 @@ window.ARCHITECTS = {
    "Q82840"
   ],
   "bmw-central-building": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "villa-schwob-villa-turque": [
+   "manual:Charles-Édouard Jeanneret",
    "Q4724"
   ],
   "maison-louis-carre": [
@@ -8538,7 +8695,8 @@ window.ARCHITECTS = {
   ],
   "ikmz-library-btu-cottbus": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "bakhmetevsky-bus-garage": [
    "Q930",
@@ -8570,7 +8728,8 @@ window.ARCHITECTS = {
    "Q1277977"
   ],
   "haus-des-rundfunks": [
-   "Q76734"
+   "Q76734",
+   "manual:Hans Poelzig"
   ],
   "mausebunker": [
    "Q110141344"
@@ -8706,6 +8865,9 @@ window.ARCHITECTS = {
   "hotel-guimard": [
    "Q316422"
   ],
+  "anzeiger-hochhaus": [
+   "manual:Fritz Höger"
+  ],
   "dutch-pavilion-venice-biennale": [
    "Q160435"
   ],
@@ -8800,9 +8962,6 @@ window.ARCHITECTS = {
   "mcgraw-hill-building": [
    "Q745903"
   ],
-  "eli-and-edythe-broad-art-museum": [
-   "Q47780"
-  ],
   "cathedral-of-christ-the-light": [
    "Q5181559",
    "Q6688185",
@@ -8896,6 +9055,7 @@ window.ARCHITECTS = {
    "Q3297694"
   ],
   "maison-blanche": [
+   "manual:Charles-Édouard Jeanneret",
    "Q4724"
   ],
   "green-building-mit-building-54": [
@@ -8926,6 +9086,7 @@ window.ARCHITECTS = {
    "Q597895"
   ],
   "villa-fallet": [
+   "manual:Charles-Édouard Jeanneret",
    "Q95369490",
    "Q4724"
   ],
@@ -8936,7 +9097,8 @@ window.ARCHITECTS = {
    "Q1704937"
   ],
   "four-domes-pavilion": [
-   "Q76734"
+   "Q76734",
+   "manual:Hans Poelzig"
   ],
   "watari-museum-of-contemporary-art-watari-um": [
    "Q122363"
@@ -9200,7 +9362,8 @@ window.ARCHITECTS = {
   ],
   "roche-tower-2": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "the-lowry": [
    "Q326737"
@@ -9322,6 +9485,9 @@ window.ARCHITECTS = {
    "Q16151248",
    "Q21132821"
   ],
+  "anacleto-angelini-innovation-center": [
+   "manual:Alejandro Aravena"
+  ],
   "children-s-memorial-yad-vashem": [
    "Q220944"
   ],
@@ -9396,7 +9562,8 @@ window.ARCHITECTS = {
   ],
   "national-library-of-israel": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "teatro-oficina": [
    "Q272400"
@@ -9664,6 +9831,9 @@ window.ARCHITECTS = {
   "basilica-of-sainte-anne-du-congo": [
    "Q3438934"
   ],
+  "tomb-of-nader-shah": [
+   "manual:Houshang Seyhoun"
+  ],
   "el-colegio-de-mexico": [
    "Q723981",
    "Q330720"
@@ -9695,6 +9865,9 @@ window.ARCHITECTS = {
   "ewha-campus-complex": [
    "Q504358"
   ],
+  "faculty-of-architecture-university-of-porto": [
+   "manual:Álvaro Siza"
+  ],
   "fuji-kindergarten": [
    "Q11496991",
    "Q11496979"
@@ -9703,7 +9876,8 @@ window.ARCHITECTS = {
    "Q49744"
   ],
   "ibere-camargo-foundation": [
-   "Q251365"
+   "Q251365",
+   "manual:Álvaro Siza"
   ],
   "kaze-no-oka-crematorium": [
    "Q312827"
@@ -9734,6 +9908,7 @@ window.ARCHITECTS = {
   ],
   "multihalle-mannheim": [
    "Q64412",
+   "manual:Frei Otto",
    "Q1041680"
   ],
   "national-commercial-bank": [
@@ -9777,6 +9952,9 @@ window.ARCHITECTS = {
   "takasugi-an": [
    "Q3134309"
   ],
+  "uc-innovation-center-anacleto-angelini": [
+   "manual:Alejandro Aravena"
+  ],
   "vidhan-bhavan": [
    "Q699145"
   ],
@@ -9796,18 +9974,22 @@ window.ARCHITECTS = {
   "23-de-enero-superblocks": [
    "Q1043186"
   ],
+  "al-wasl-plaza": [
+   "manual:Adrian Smith"
+  ],
   "arcadia-education-project": [
    "Q7400013"
+  ],
+  "art-biotop-water-garden": [
+   "manual:Junya Ishigami"
   ],
   "aero-habitat": [
    "Q15450940"
   ],
-  "bee-ah-headquarters": [
-   "Q47780"
-  ],
   "beirut-terraces": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "bolgatanga-library": [
    "Q2278518"
@@ -9867,7 +10049,8 @@ window.ARCHITECTS = {
    "Q330274"
   ],
   "hu-huishan-memorial": [
-   "Q132988850"
+   "Q132988850",
+   "manual:Liu Jiakun"
   ],
   "hyogo-children-s-museum": [
    "Q208220"
@@ -9904,6 +10087,9 @@ window.ARCHITECTS = {
   "mestizo-restaurant": [
    "Q12220731"
   ],
+  "monterrey-housing": [
+   "manual:Alejandro Aravena"
+  ],
   "naoshima-ferry-terminal": [
    "Q253350",
    "Q369645"
@@ -9913,6 +10099,7 @@ window.ARCHITECTS = {
    "Q5180916"
   ],
   "nur-alem": [
+   "manual:Adrian Smith",
    "Q104885618"
   ],
   "oberrealta-chapel": [
@@ -9955,6 +10142,9 @@ window.ARCHITECTS = {
   "sheraton-grand-doha": [
    "Q1859204"
   ],
+  "siamese-towers": [
+   "manual:Alejandro Aravena"
+  ],
   "skopje-telecommunications-centre": [
    "Q3083426"
   ],
@@ -9995,6 +10185,9 @@ window.ARCHITECTS = {
   "vertical-courtyard-apartments": [
    "Q336620"
   ],
+  "villa-verde-housing": [
+   "manual:Alejandro Aravena"
+  ],
   "xylem": [
    "Q99416"
   ],
@@ -10031,10 +10224,12 @@ window.ARCHITECTS = {
   ],
   "ricola-europe-mulhouse": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "hoenheim-nord-terminus": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "villa-mediterranee": [
    "Q352709"
@@ -10050,7 +10245,8 @@ window.ARCHITECTS = {
   ],
   "rue-des-suisses-housing": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "frac-provence-alpes-cote-d-azur": [
    "Q725462"
@@ -10205,7 +10401,8 @@ window.ARCHITECTS = {
   ],
   "fondazione-feltrinelli": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "talponia": [
    "Q3938821",
@@ -10387,13 +10584,11 @@ window.ARCHITECTS = {
    "Q1791191"
   ],
   "sheikh-zayed-bridge": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "dubai-world-trade-centre": [
    "Q64020424"
-  ],
-  "the-opus": [
-   "Q47780"
   ],
   "house-of-wisdom-sharjah": [
    "Q104898"
@@ -10645,6 +10840,15 @@ window.ARCHITECTS = {
    "Q159619",
    "Q326737"
   ],
+  "bouca-housing": [
+   "manual:Álvaro Siza"
+  ],
+  "malagueira-housing": [
+   "manual:Álvaro Siza"
+  ],
+  "santa-maria-church-marco-de-canaveses": [
+   "manual:Álvaro Siza"
+  ],
   "casa-das-mudas": [
    "Q10346542"
   ],
@@ -10660,6 +10864,9 @@ window.ARCHITECTS = {
   ],
   "netherlands-embassy-berlin": [
    "Q232364"
+  ],
+  "banco-borges-e-irmao": [
+   "manual:Álvaro Siza"
   ],
   "palau-municipal-d-esports-de-badalona": [
    "Q12174873",
@@ -10706,7 +10913,8 @@ window.ARCHITECTS = {
   ],
   "laban-dance-centre": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "bloomberg-london": [
    "Q104898"
@@ -10744,7 +10952,8 @@ window.ARCHITECTS = {
   ],
   "blavatnik-school-of-government": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "british-library": [
    "Q240826"
@@ -10798,6 +11007,7 @@ window.ARCHITECTS = {
    "Q3610582"
   ],
   "premabhai-hall": [
+   "manual:B. V. Doshi",
    "Q112114892"
   ],
   "pakistan-secretariat-islamabad": [
@@ -11091,6 +11301,9 @@ window.ARCHITECTS = {
   "quartier-schutzenstrasse": [
    "Q322953"
   ],
+  "cgac-santiago": [
+   "manual:Álvaro Siza"
+  ],
   "lvmh-tower": [
    "Q312838"
   ],
@@ -11117,7 +11330,8 @@ window.ARCHITECTS = {
   ],
   "prada-aoyama": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "fredensborg-houses": [
    "Q180398"
@@ -11148,7 +11362,8 @@ window.ARCHITECTS = {
    "Q333585"
   ],
   "tanzbrunnen-cologne": [
-   "Q64412"
+   "Q64412",
+   "manual:Frei Otto"
   ],
   "crematorium-hofheide": [
    "Q6096991",
@@ -11169,7 +11384,8 @@ window.ARCHITECTS = {
    "Q707020"
   ],
   "west-village-chengdu": [
-   "Q132988850"
+   "Q132988850",
+   "manual:Liu Jiakun"
   ],
   "vik-winery": [
    "Q12220731",
@@ -11183,7 +11399,8 @@ window.ARCHITECTS = {
   ],
   "dominus-winery": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "emerson-college-los-angeles": [
    "Q312847"
@@ -11224,7 +11441,8 @@ window.ARCHITECTS = {
   ],
   "university-childrens-hospital-zurich": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "belarusian-memorial-chapel": [
    "Q38195164"
@@ -11631,9 +11849,6 @@ window.ARCHITECTS = {
   "sheraton-huzhou-hot-spring-resort": [
    "Q8048959"
   ],
-  "beijing-daxing-airport-terminal": [
-   "Q47780"
-  ],
   "shenzhen-stock-exchange": [
    "Q232364"
   ],
@@ -11708,7 +11923,8 @@ window.ARCHITECTS = {
   ],
   "schaulager": [
    "Q2745982",
-   "Q3174960"
+   "Q3174960",
+   "manual:de Meuron"
   ],
   "monte-rosa-hut": [
    "Q493748"
@@ -11782,9 +11998,6 @@ window.ARCHITECTS = {
   ],
   "marco-polo-tower": [
    "Q5477935"
-  ],
-  "wu-library-learning-center": [
-   "Q47780"
   ],
   "gasometer-b-vienna": [
    "Q114444"
@@ -11871,6 +12084,12 @@ window.ARCHITECTS = {
   ],
   "pavilion-of-knowledge": [
    "Q6298223"
+  ],
+  "nadir-afonso-museum": [
+   "manual:Álvaro Siza"
+  ],
+  "setubal-school-of-education": [
+   "manual:Álvaro Siza"
   ],
   "amoreiras-towers": [
    "Q1130393"

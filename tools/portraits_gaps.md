@@ -7,9 +7,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Zaha Hadid Architects | 23 | Galaxy SOHO |
 | Associates | 21 | Knights of Columbus Building |
 | Partners | 15 | 122 Leadenhall Street |
-| Zaha Hadid | 13 | Vitra Fire Station |
 | SOM | 10 | Beinecke Rare Book & Manuscript Library |
-| Álvaro Siza | 9 | Leça Swimming Pools |
 | Jørn Utzon | 8 | Sydney Opera House |
 | Kunio Maekawa | 8 | Tokyo Bunka Kaikan |
 | Geoffrey Bawa | 7 | Heritance Kandalama |
@@ -17,14 +15,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Nikken Sekkei | 7 | Tokyo Skytree |
 | Rogelio Salmona | 7 | Torres del Parque |
 | 3XN | 6 | Muziekgebouw aan 't IJ |
-| Alejandro Aravena | 6 | Quinta Monroy |
 | Coop Himmelbau | 6 | BMW Welt |
 | Mahendra Raj | 6 | Sardar Vallabhbhai Patel Stadium |
 | Michael Wilford | 6 | Esplanade - Theatres on the Bay |
 | Ricardo Legorreta | 6 | Museo de Arte Contemporáneo de Monterrey |
 | team | 6 | Civic Center of Lima |
 | Behnisch | 5 | Munich Olympic Stadium |
-| Frei Otto | 5 | Munich Olympic Stadium |
 | Kiyonori Kikutake | 5 | Edo-Tokyo Museum |
 | Merrill | 5 | Al Hamra Tower |
 | Owings | 5 | Al Hamra Tower |
@@ -39,7 +35,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Architectus | 4 | Queen Elizabeth II Courts of Law |
 | Arthur Erickson | 4 | Museum of Anthropology at UBC |
 | Ashton Raggatt McDougall | 4 | RMIT Storey Hall |
-| B. V. Doshi | 4 | CEPT University |
 | Behnisch Architekten | 4 | Ozeaneum |
 | Denton Corker Marshall | 4 | Melbourne Museum |
 | Elemental | 4 | Quinta Monroy |
@@ -61,17 +56,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Basil Spence | 3 | Coventry Cathedral |
 | Berthold Lubetkin | 3 | Highpoint I |
 | Brinkman | 3 | Van Nelle Factory |
-| Charles-Édouard Jeanneret | 3 | Villa Schwob (Villa Turque) |
 | Future Systems | 3 | Museo Enzo Ferrari |
 | Gigon | 3 | Prime Tower |
 | Guyer | 3 | Prime Tower |
 | Günther Domenig | 3 | Documentation Center Nazi Party Rally Grounds |
-| Hans Poelzig | 3 | IG Farben Building |
 | Hassell | 3 | Adelaide Festival Centre |
 | Helmut Jahn | 3 | Messeturm |
 | Henry N. Cobb | 3 | John Hancock Tower |
 | Hiroshi Hara | 3 | Kyoto Station Building |
-| Houshang Seyhoun | 3 | Omar Khayyam Mausoleum |
 | John Andrews | 3 | CN Tower |
 | Jorn Utzon | 3 | Kuwait National Assembly |
 | Josef Paul Kleihues | 3 | Hamburger Bahnhof |
@@ -99,7 +91,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | gmp Architekten | 3 | Hanoi Museum |
 | ALA Architects | 2 | Helsinki Central Library Oodi |
 | Abdol Aziz Farmanfarmaian | 2 | Carpet Museum of Iran |
-| Adrian Smith | 2 | Al Wasl Plaza |
 | Aires Mateus | 2 | Centro de Artes de Sines |
 | Alejandro de la Sota | 2 | Gimnasio Maravillas |
 | Amateur Architecture Studio | 2 | Vertical Courtyard Apartments |
@@ -128,14 +119,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Esguerra | 2 | Avianca Building |
 | Fender Katsalidis | 2 | Museum of Old and New Art |
 | Fernando Távora | 2 | Pousada de Santa Marinha |
-| Fritz Höger | 2 | Chilehaus |
 | Gantenbein | 2 | Kunstmuseum Basel, New Building |
 | Gesellius | 2 | Hvitträsk |
 | Gilbert Stanley Underwood | 2 | Timberline Lodge |
 | Goris | 2 | De Krook |
 | Grachya Poghosyan | 2 | Rossiya Cinema |
 | Guðjón Samúelsson | 2 | Hallgrímskirkja |
-| Hassan Fathy | 2 | New Gourna Village |
 | Heneghan Peng | 2 | Palestinian Museum |
 | Herreros | 2 | Woermann Tower |
 | Holabird | 2 | Palmolive Building |
@@ -149,13 +138,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | John Lautner | 2 | Sheats-Goldstein Residence |
 | John Wardle Architects | 2 | Melbourne School of Design (Glyn Davis Building) |
 | Juha Leiviskä | 2 | Männistö Church |
-| Junya Ishigami | 2 | KAIT Workshop |
 | KWK Promes | 2 | PLATO Contemporary Art Gallery |
 | Kamran Diba | 2 | Tehran Museum of Contemporary Art |
 | Karl Schwanzer | 2 | Belvedere 21 |
 | Leonid Ukhobotov | 2 | Hotel Kazakhstan |
 | Lindgren | 2 | Hvitträsk |
-| Liu Jiakun | 2 | Hu Huishan Memorial |
 | Lyons | 2 | Paula Fox Melanoma and Cancer Centre |
 | Mahoney | 2 | Christchurch Town Hall |
 | Mamoru Yamada | 2 | Nippon Budokan |
