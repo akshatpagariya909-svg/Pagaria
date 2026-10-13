@@ -553,6 +553,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "accordia-cambridge": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.19050&mlon=0.12800#map=17/52.19050/0.12800"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Accordia"
+ },
  "aceh-tsunami-museum": {
   "links": [
    {
@@ -1169,6 +1179,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Alvar_Aalto_Cultural_Centre"
  },
+ "amarbayasgalant-monastery": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.48000&mlon=105.08500#map=17/49.48000/105.08500"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Amarbayasgalant_Monastery"
+ },
  "amdavad-ni-gufa": {
   "links": [
    {
@@ -1188,6 +1208,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Amdavad_ni_Gufa"
+ },
+ "american-air-museum-duxford": {
+  "links": [],
+  "wiki": null
  },
  "amon-carter-museum-of-american-art": {
   "links": [
@@ -1363,6 +1387,10 @@ window.LINKS = {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Antigone"
  },
+ "antinori-nel-chianti-classico": {
+  "links": [],
+  "wiki": null
+ },
  "antwerp-law-courts": {
   "links": [
    {
@@ -1442,6 +1470,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Aomori_Museum_of_Art"
+ },
+ "appleby-blue-almshouse": {
+  "links": [],
+  "wiki": null
  },
  "aqua-tower": {
   "links": [
@@ -1602,6 +1634,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Arctic_Cathedral"
  },
+ "argo-contemporary-art-museum": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/979255/argo-contemporary-art-museum-and-cultural-centre-ahmadreza-schricker-architecture-north-asa-north"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.69917&mlon=51.42153#map=17/35.69917/51.42153"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Argo_Factory"
+ },
  "ariston-club": {
   "links": [
    {
@@ -1661,6 +1708,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/ARoS_Aarhus_Kunstmuseum"
+ },
+ "arquipelago-contemporary-arts-centre": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/597622/arquipelago-nil-contemporary-arts-centre-menos-e-mais-arquitectos-joao-mendes-ribeiro-arquitecto"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/281773-joao-mendes-ribeiro-menos-e-mais-arquitectos-jose-campos-the-arquipelago-contemporary-arts-centre"
+   }
+  ],
+  "wiki": null
  },
  "art-biotop-water-garden": {
   "links": [
@@ -1894,6 +1956,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Aspire_Tower"
+ },
+ "astley-castle": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/234777-witherford-watson-mann-architects-helene-binet-philip-vile-astley-castle-renovation"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.50240&mlon=-1.54240#map=17/52.50240/-1.54240"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Astley_Castle"
  },
  "astrup-fearnley-museum": {
   "links": [
@@ -2720,6 +2797,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Balfron_Tower"
  },
+ "banco-borges-e-irmao": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Borges"
+ },
  "bangkok-art-and-culture-centre": {
   "links": [
    {
@@ -2835,6 +2916,46 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "banyuwangi-international-airport": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/466812-andramatin-mario-wibowo-banyuwangi-international-airport"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-8.31060&mlon=114.34018#map=17/-8.31060/114.34018"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Banyuwangi_Airport"
+ },
+ "barajas-airport-terminal-4": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/805964/madrid-barajas-airport-terminal-4-estudio-lamela-plus-richard-rogers-partnership"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.aena.es/en/adolfo-suarez-madrid-barajas.html"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/10001042"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=40.47222&mlon=-3.56083#map=17/40.47222/-3.56083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Madrid%E2%80%93Barajas_Airport"
+ },
  "barbican-centre": {
   "links": [
    {
@@ -2934,6 +3055,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Barcelona_Pavilion"
+ },
+ "barnes-foundation-philadelphia": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/238238/the-barnes-foundation-building-tod-williams-billie-tsien"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.barnesfoundation.org/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/315156-tod-williams-billie-tsien-architects-michael-moran-the-barnes-foundation"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.96064&mlon=-75.17281#map=17/39.96064/-75.17281"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Barnes_Foundation"
  },
  "basilica-of-our-lady-of-altagracia": {
   "links": [
@@ -3065,6 +3211,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Basilica_of_the_Most_Holy_Trinity_%28F%C3%A1tima%29"
  },
+ "basketbar": {
+  "links": [],
+  "wiki": null
+ },
  "bat-yam-city-hall": {
   "links": [
    {
@@ -3179,6 +3329,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Baiterek_%28monument%29"
+ },
+ "bedzed": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/15163.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20018911"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.38208&mlon=-0.15602#map=17/51.38208/-0.15602"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/BedZED"
  },
  "bee-ah-headquarters": {
   "links": [
@@ -3655,6 +3825,36 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Beurs_van_Berlage"
  },
+ "bhong-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=28.42306&mlon=69.91139#map=17/28.42306/69.91139"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Bhong_Mosque"
+ },
+ "biblioteca-gabriel-garcia-marquez": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1000198/gabriel-garcia-marquez-library-suma-arquitectura"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://ajuntament.barcelona.cat/biblioteques/bibgarciamarquez"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.41722&mlon=2.20000#map=17/41.41722/2.20000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Biblioteca_Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+ },
  "bibliotheca-alexandrina": {
   "links": [
    {
@@ -3810,6 +4010,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Biomuseo"
  },
+ "bishop-edward-king-chapel": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/611186/bishop-edward-king-chapel-niall-mclaughlin-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.rcc.ac.uk/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/298768-niall-mclaughlin-naaro-bishop-edward-king-chapel-oxford"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.72410&mlon=-1.13430#map=17/51.72410/-1.13430"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Bishop_Edward_King_Chapel"
+ },
  "bitexco-financial-tower": {
   "links": [
    {
@@ -3850,6 +4075,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Black_Diamond_%28library%29"
  },
+ "blavatnik-school-of-government": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/783390/blavatnik-school-of-government-herzog-and-de-meuron"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.bsg.ox.ac.uk"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.75930&mlon=-1.26464#map=17/51.75930/-1.26464"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Blavatnik_School_of_Government"
+ },
  "bloch-building-nelson-atkins-museum-of-art": {
   "links": [
    {
@@ -3874,6 +4119,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art"
+ },
+ "bloomberg-london": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/882263/bloombergs-european-hq-foster-plus-partners"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.51250&mlon=-0.09090#map=17/51.51250/-0.09090"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Bloomberg_London"
  },
  "blue-building-athens": {
   "links": [
@@ -4194,6 +4454,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Boston_Central_Library"
  },
+ "bouca-housing": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/399751-alvaro-siza-vieira-orlando-naj-oleari-bouca-saal-social-housing-project"
+   }
+  ],
+  "wiki": null
+ },
  "boutique-monaco": {
   "links": [
    {
@@ -4307,6 +4577,35 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Brion_tomb"
+ },
+ "british-council-new-delhi": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/British_Council%2C_India"
+ },
+ "british-library": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://bl.uk"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/14951.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20018908"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.52944&mlon=-0.12694#map=17/51.52944/-0.12694"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/British_Library"
  },
  "brucke-museum": {
   "links": [
@@ -4487,6 +4786,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Burrell_Collection"
+ },
+ "burton-barr-central-library": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/7342.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=33.46250&mlon=-112.07300#map=17/33.46250/-112.07300"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Burton_Barr_Central_Library"
  },
  "busan-cinema-center": {
   "links": [
@@ -4856,6 +5170,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters"
+ },
+ "cambridge-central-mosque": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.cambridgecentralmosque.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.19731&mlon=0.15240#map=17/52.19731/0.15240"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cambridge_Central_Mosque"
  },
  "camino-real-hotel-mexico-city": {
   "links": [
@@ -5390,6 +5719,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Casa_das_Hist%C3%B3rias_Paula_Rego"
  },
+ "casa-das-mudas": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/179031/flashback-arts-centre-casa-das-mudas-paulo-david"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/17750-paulo-david-fernando-guerra-fg-sg-arts-centre-casa-das-mudas"
+   }
+  ],
+  "wiki": null
+ },
  "casa-de-blas": {
   "links": [
    {
@@ -5444,6 +5788,16 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "casa-do-baile": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-19.85447&mlon=-43.96997#map=17/-19.85447/-43.96997"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Casa_do_Baile"
  },
  "casa-fuster": {
   "links": [
@@ -5939,6 +6293,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/CCTV_Headquarters"
  },
+ "cdg-terminal-1": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.parisaeroport.fr/fr/passagers/roissy-charles-de-gaulle"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/10000122"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.00972&mlon=2.54778#map=17/49.00972/2.54778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport"
+ },
  "cedar-rock-walter-house": {
   "links": [
    {
@@ -6018,6 +6392,31 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "central-european-university-budapest": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/873568/central-european-university-odonnell-plus-tuomey-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ceu.hu"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/347400-o-donnell-tuomey-architects-tamas-bujnovszky-central-european-university"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=48.17397&mlon=16.38850#map=17/48.17397/16.38850"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Central_European_University"
  },
  "central-library-unam": {
   "links": [
@@ -6666,6 +7065,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters"
  },
+ "chinggis-khaan-statue-complex": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.80808&mlon=107.52981#map=17/47.80808/107.52981"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan"
+ },
  "chorsu-bazaar": {
   "links": [
    {
@@ -7135,6 +7544,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Cinema_Impero"
  },
+ "ciniba-katowice": {
+  "links": [],
+  "wiki": null
+ },
  "cite-de-l-ocean-et-du-surf": {
   "links": [
    {
@@ -7488,6 +7901,10 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "collegio-del-colle-urbino": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Colle_di_Val_d%27Elsa"
+ },
  "cologne-central-mosque": {
   "links": [
    {
@@ -7542,6 +7959,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Commerzbank_Tower"
+ },
+ "commonwealth-building-portland": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/9278.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20029058"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.52089&mlon=-122.67754#map=17/45.52089/-122.67754"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Commonwealth_Building_%28Portland%2C_Oregon%29"
  },
  "concertgebouw": {
   "links": [
@@ -7743,6 +8180,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Amager_Bakke"
  },
+ "coppelia-ice-cream-parlour": {
+  "links": [],
+  "wiki": null
+ },
  "corpus-christi-church-aachen": {
   "links": [],
   "wiki": null
@@ -7753,6 +8194,16 @@ window.LINKS = {
     "kind": "Photo essays",
     "site": "Divisare",
     "url": "https://divisare.com/projects/298384-mario-fiorentino-alessandro-guida-il-corviale"
+   }
+  ],
+  "wiki": null
+ },
+ "cosmic-rays-pavilion": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/158000/ad-classics-cosmic-rays-pavilion-felix-candela"
    }
   ],
   "wiki": null
@@ -7786,6 +8237,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Coventry_Cathedral"
+ },
+ "crow-island-school": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1053832/prado-arquitectos-will-design-the-renovation-of-the-only-school-on-mocha-island-chile"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/32707.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.10056&mlon=-87.74583#map=17/42.10056/-87.74583"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Crow_Island_School"
  },
  "crucible-theatre": {
   "links": [
@@ -8279,6 +8750,30 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/De_Young_Museum"
  },
+ "deere-and-company-headquarters": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.deere.com/en_US/attractions/worldhq/index.html"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/821.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.47667&mlon=-90.42639#map=17/41.47667/-90.42639"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+ },
+ "deflat-kleiburg": {
+  "links": [],
+  "wiki": null
+ },
  "delta-shelter": {
   "links": [
    {
@@ -8303,6 +8798,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Dentsu_Building"
+ },
+ "denver-art-museum-hamilton-building": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://denverartmuseum.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.73719&mlon=-104.98935#map=17/39.73719/-104.98935"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Denver_Art_Museum"
  },
  "depot-boijmans-van-beuningen": {
   "links": [
@@ -8403,6 +8913,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Design_Museum_Holon"
+ },
+ "design-research-building": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Design_Research_%28store%29"
  },
  "deutsche-bank-place": {
   "links": [
@@ -9323,6 +9837,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Entebbe_Children%27s_Surgical_Hospital"
  },
+ "entrepreneurship-development-institute": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ediindia.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=23.11333&mlon=72.62917#map=17/23.11333/72.62917"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Entrepreneurship_Development_Institute_of_India"
+ },
+ "erdene-zuu": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.20167&mlon=102.84333#map=17/47.20167/102.84333"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery"
+ },
  "espaces-d-abraxas": {
   "links": [
    {
@@ -9537,6 +10076,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Everson_Museum_of_Art"
  },
+ "everyman-theatre-liverpool": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/504031/everyman-theatre-haworth-tompkins"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.everymanplayhouse.com/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/256499-haworth-tompkins-architects-helene-binet-philip-vile-everyman-theatre"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=53.40300&mlon=-2.96922#map=17/53.40300/-2.96922"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Everyman_Theatre%2C_Liverpool"
+ },
  "evoluon": {
   "links": [
    {
@@ -9605,6 +10169,21 @@ window.LINKS = {
  "ewha-campus-complex": {
   "links": [],
   "wiki": null
+ },
+ "exchange-house-broadgate": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.broadgate.co.uk/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.51900&mlon=-0.08350#map=17/51.51900/-0.08350"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Broadgate"
  },
  "faculty-of-architecture-university-of-porto": {
   "links": [],
@@ -9713,6 +10292,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Fallingwater"
+ },
+ "faneuil-hall-marketplace": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/33033.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20010405"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.36000&mlon=-71.05500#map=17/42.36000/-71.05500"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Quincy_Market"
  },
  "farnsworth-house": {
   "links": [
@@ -10152,6 +10751,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Flamengo_Park"
  },
+ "florey-building-oxford": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/155430/ad-classics-florey-building-james-stirling"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1641.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.75072&mlon=-1.24314#map=17/51.75072/-1.24314"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Florey_Building"
+ },
  "florya-ataturk-marine-mansion": {
   "links": [
    {
@@ -10231,6 +10850,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Tanghalang_Francisco_Balagtas"
  },
+ "fondation-avicenne": {
+  "links": [],
+  "wiki": null
+ },
  "fondation-beyeler": {
   "links": [
    {
@@ -10280,6 +10903,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Fondation_Cartier_pour_l%27Art_Contemporain"
+ },
+ "fondation-jerome-seydoux-pathe": {
+  "links": [],
+  "wiki": null
  },
  "fondation-louis-vuitton": {
   "links": [
@@ -10485,6 +11112,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Four_Seasons_Centre"
+ },
+ "frac-nord-pas-de-calais": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/251178-lacaton-vassal-architectes-philippe-ruault-frac-nord-pas-de-calais-dunkerque-france"
+   }
+  ],
+  "wiki": null
  },
  "frac-provence-alpes-cote-d-azur": {
   "links": [
@@ -11036,6 +11673,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Gate_of_Europe"
  },
+ "gateshead-millennium-bridge": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/11735.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20001254"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=54.96944&mlon=-1.59972#map=17/54.96944/-1.59972"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gateshead_Millennium_Bridge"
+ },
  "gateway-arch": {
   "links": [
    {
@@ -11524,6 +12181,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Golconde_Dormitory"
  },
+ "goldsmith-street": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Goldsmith_Prize_for_Investigative_Reporting"
+ },
  "gosplan-garage": {
   "links": [
    {
@@ -11951,6 +12612,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Gro%C3%9Fmarkthalle"
+ },
+ "groot-klimmendaal": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/126290/rehabilitation-centre-groot-klimmendaal-koen-van-velsen"
+   }
+  ],
+  "wiki": null
  },
  "gropius-house": {
   "links": [
@@ -12477,6 +13148,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "hassan-ii-bridge": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/229975-marc-mimram-hassan-ii-bridge"
+   }
+  ],
+  "wiki": null
+ },
  "hassan-ii-mosque": {
   "links": [
    {
@@ -12496,6 +13177,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hassan_II_Mosque"
+ },
+ "hastings-pier": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/876788/hastings-pier-drmm"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/349643-drmm-hastings-pier"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.85220&mlon=0.57264#map=17/50.85220/0.57264"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hastings_Pier"
  },
  "haus-der-kulturen-der-welt-kongresshalle": {
   "links": [
@@ -12556,6 +13257,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "haystack-mountain-school-of-crafts": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/53803.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.18820&mlon=-68.58405#map=17/44.18820/-68.58405"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Haystack_Mountain_School_of_Crafts"
+ },
  "hayward-gallery": {
   "links": [
    {
@@ -12615,6 +13331,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hector_Pieterson_Museum"
+ },
+ "hedge-house-wijlre": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.96030&mlon=-70.66780#map=17/41.96030/-70.66780"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Plymouth_Antiquarian_House"
  },
  "hedmark-museum": {
   "links": [
@@ -13061,6 +13787,46 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hirshhorn_Museum_and_Sculpture_Garden"
  },
+ "historial-de-la-grande-guerre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.historial.fr"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1465.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.92917&mlon=2.93083#map=17/49.92917/2.93083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Museum_of_the_Great_War"
+ },
+ "history-faculty-cambridge": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.law.cam.ac.uk"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2346.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.20170&mlon=0.10960#map=17/52.20170/0.10960"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Faculty_of_Law%2C_University_of_Cambridge"
+ },
  "ho-chi-minh-mausoleum": {
   "links": [
    {
@@ -13458,6 +14224,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hotel_Unique"
+ },
+ "hotel-uzbekistan": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.gov.uz/en"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.00000&mlon=66.00000#map=17/41.00000/66.00000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Uzbekistan"
  },
  "hotel-van-eetvelde": {
   "links": [
@@ -14610,6 +15391,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Ise_Shrine"
  },
+ "islamic-cemetery-altach": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/269407/islamic-cemetery-in-altach-bernardo-bader"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/220917-bernardo-bader-islamic-cemetery-altach"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.34583&mlon=9.66389#map=17/47.34583/9.66389"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Islamic_Cemetery_in_Altach"
+ },
  "isokon-building": {
   "links": [
    {
@@ -14798,6 +15599,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House"
+ },
+ "jahad-metro-plaza": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1033623/jahad-metro-plaza-ka-architecture-studio-mohammad-khavarian"
+   }
+  ],
+  "wiki": null
  },
  "james-a-farley-building-moynihan-train-hall": {
   "links": [
@@ -15347,6 +16158,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Juscelino_Kubitschek_bridge"
  },
+ "kaedi-regional-hospital": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=16.15043&mlon=-13.50673#map=17/16.15043/-13.50673"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ka%C3%A9di_Regional_Hospital"
+ },
  "kafd-metro-station": {
   "links": [
    {
@@ -15517,6 +16338,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "kannikegarden-ribe": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/804321/kannikegarden-lundgaard-and-tranberg-architects"
+   }
+  ],
+  "wiki": null
+ },
  "kanyon": {
   "links": [
    {
@@ -15631,6 +16462,51 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Katuaq"
+ },
+ "katyn-museum-warsaw": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/806405/katyn-museum-bbgk-architekci"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.muzeumkatynskie.pl/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/336751-bbgk-architekci-piotr-krajewski-katyn-museum-in-warsaw"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.26101&mlon=21.00469#map=17/52.26101/21.00469"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Katy%C5%84_Museum"
+ },
+ "kauchuk-factory-club": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/9859.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20027742"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.73571&mlon=37.57414#map=17/55.73571/37.57414"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kauchuk_Factory_Club"
  },
  "kaufmann-desert-house": {
   "links": [
@@ -16304,6 +17180,10 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "koudougou-central-market": {
+  "links": [],
+  "wiki": null
+ },
  "kpn-tower": {
   "links": [
    {
@@ -16649,6 +17529,30 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kunstmuseum_Liechtenstein"
  },
+ "kunstmuseum-moritzburg-extension": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/132838/moritzburg-museum-extension-nieto-sobejano-arquitectos"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.kunstmuseum-moritzburg.de/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.48651&mlon=11.96371#map=17/51.48651/11.96371"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kunstmuseum_Moritzburg_Halle_%28Saale%29"
+ },
+ "kunstmuseum-ravensburg": {
+  "links": [],
+  "wiki": null
+ },
  "kunstmuseum-stuttgart": {
   "links": [
    {
@@ -16764,6 +17668,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kuwait_Towers"
  },
+ "kuwait-water-towers": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/kuwait-water-towers/"
+   },
+   {
+    "kind": "Archive",
+    "site": "Archnet",
+    "url": "https://archnet.org/sites/135"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=29.32944&mlon=47.98444#map=17/29.32944/47.98444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kuwait_Water_Towers"
+ },
  "kwame-nkrumah-mausoleum": {
   "links": [
    {
@@ -16773,6 +17697,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park"
+ },
+ "kyiv-crematorium": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.41531&mlon=30.50411#map=17/50.41531/30.50411"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Wall_of_Memory_%28Ukraine%29"
  },
  "kyoto-concert-hall": {
   "links": [
@@ -16993,6 +17927,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/L%27Oceanogr%C3%A0fic"
  },
+ "la-borda": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/922184/la-borda-lacol"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/427215-lacol-lluc-miralles-la-borda-cooperative-housing"
+   }
+  ],
+  "wiki": null
+ },
  "la-collina-omihachiman": {
   "links": [],
   "wiki": null
@@ -17119,6 +18068,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/La_Tallera"
+ },
+ "laban-dance-centre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.trinitylaban.ac.uk/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/12168.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.48000&mlon=-0.01000#map=17/51.48000/-0.01000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Trinity_Laban_Conservatoire_of_Music_and_Dance"
  },
  "lahti-town-hall": {
   "links": [
@@ -17313,6 +18282,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lasalle_College_of_the_Arts"
+ },
+ "lascaux-iv": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/332963-snohetta-sra-architectes-duncan-lewis-scape-architecture-luc-boegly-sergio-grazia-lascaux-iv-caves-museum"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.05377&mlon=1.17096#map=17/45.05377/1.17096"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lascaux"
  },
  "lasipalatsi": {
   "links": [
@@ -17607,6 +18591,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lever_House"
  },
+ "lewis-glucksman-gallery": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://glucksman.org"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.89474&mlon=-8.49032#map=17/51.89474/-8.49032"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lewis_Glucksman_Gallery"
+ },
  "library-of-birmingham": {
   "links": [
    {
@@ -17751,6 +18750,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "lille-langebro": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/923081/lille-langebro-cycle-and-pedestrian-bridge-wilkinsoneyre"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20078152"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=55.67103&mlon=12.57984#map=17/55.67103/12.57984"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lille_Langebro"
  },
  "linked-hybrid": {
   "links": [
@@ -18090,6 +19109,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Looshaus"
+ },
+ "lords-media-centre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.lords.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.52940&mlon=-0.17270#map=17/51.52940/-0.17270"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lord%27s"
  },
  "los-manantiales-restaurant": {
   "links": [
@@ -18451,6 +19485,56 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Macao_Science_Center"
  },
+ "madinat-al-zahra-museum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.museosdeandalucia.es/web/conjuntoarqueologicomadinatalzahra"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=37.88608&mlon=-4.86779#map=17/37.88608/-4.86779"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Madinat_al-Zahra"
+ },
+ "maggies-centre-london": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/640901/steven-holl-breaks-ground-on-maggie-s-centre-barts-in-london"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.maggies.org"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Maggie%27s"
+ },
+ "magna-science-adventure-centre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.visitmagna.co.uk"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/14947.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=53.41950&mlon=-1.38835#map=17/53.41950/-1.38835"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Magna_Science_Adventure_Centre"
+ },
  "magney-house": {
   "links": [],
   "wiki": null
@@ -18489,6 +19573,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "maison-de-la-radio": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.maisondelaradio.fr"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20008906"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=48.85256&mlon=2.27803#map=17/48.85256/2.27803"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Maison_de_la_Radio_et_de_la_Musique"
  },
  "maison-de-verre": {
   "links": [
@@ -18730,6 +19834,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Maisons_Jaoul"
  },
+ "majara-residence": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Majara_Residence"
+ },
  "majolikahaus": {
   "links": [
    {
@@ -18774,6 +19882,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Makuhari_Messe"
+ },
+ "malagueira-housing": {
+  "links": [],
+  "wiki": null
  },
  "malaysian-houses-of-parliament": {
   "links": [
@@ -19464,6 +20576,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Mazar-e-Quaid"
  },
+ "mbaru-niang-wae-rebo": {
+  "links": [],
+  "wiki": null
+ },
  "mccormick-tribune-campus-center": {
   "links": [
    {
@@ -19951,6 +21067,26 @@ window.LINKS = {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Brutalist_architecture"
  },
+ "michael-lee-chin-crystal": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.rom.on.ca"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20043484"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.66757&mlon=-79.39468#map=17/43.66757/-79.39468"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum"
+ },
  "michenzani-blocks": {
   "links": [],
   "wiki": null
@@ -20404,6 +21540,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Moderna_Museet"
  },
+ "moesgaard-museum": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/590484/moesgaard-museum-henning-larsen-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.moesgaardmuseum.dk"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.08885&mlon=10.22354#map=17/56.08885/10.22354"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Moesgaard_Museum"
+ },
  "mole-antonelliana": {
   "links": [
    {
@@ -20443,6 +21599,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Monte_Amiata_Housing"
+ },
+ "monterey-bay-aquarium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.montereybayaquarium.org/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/15183.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20030808"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=36.61825&mlon=-121.90148#map=17/36.61825/-121.90148"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Monterey_Bay_Aquarium"
  },
  "monterrey-housing": {
   "links": [
@@ -20598,6 +21779,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Morpheus_%28hotel%29"
+ },
+ "mortensrud-church": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://kirken.no/nb-NO/fellesrad/kirkeneioslo/menigheter/klemetsrud-og-mortensrud/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/15292.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.84668&mlon=10.83230#map=17/59.84668/10.83230"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Mortensrud_Church"
  },
  "morton-h-meyerson-symphony-center": {
   "links": [
@@ -20849,6 +22050,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Munkegaard_School"
  },
+ "musac": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.musac.es/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/6085.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.60639&mlon=-5.58278#map=17/42.60639/-5.58278"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Castilla_y_Le%C3%B3n"
+ },
  "muse-science-museum": {
   "links": [
    {
@@ -20863,6 +22084,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "musee-arles-antique": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.arles-antique.cg13.fr/mdaa_cg13/root/index.htm"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1462.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.67250&mlon=4.61639#map=17/43.67250/4.61639"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Arles_antique"
  },
  "musee-d-orsay": {
   "links": [
@@ -21103,6 +22344,36 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Quimbaya_Museum"
+ },
+ "museo-enzo-ferrari": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/253958/enzo-ferrari-museum-future-systems"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.ferrari.com/it-IT/museums/enzo-ferrari-modena"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/193955-future-systems-jan-kaplicky-shiro-studio-andrea-morgante-oscar-ferrari-museo-enzo-ferrari"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20066074"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.65216&mlon=10.93620#map=17/44.65216/10.93620"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Museo_Casa_Enzo_Ferrari"
  },
  "museo-experimental-el-eco": {
   "links": [
@@ -22967,6 +24238,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Naturalis_Biodiversity_Center"
  },
+ "navez-social-housing": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/804755/5-social-housing-units-in-navez-msa-v-plus"
+   }
+  ],
+  "wiki": null
+ },
  "nebraska-state-capitol": {
   "links": [
    {
@@ -23036,6 +24317,41 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/NEMO_%28museum%29"
+ },
+ "netherlands-embassy-berlin": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/netherlands-embassy-in-berlin/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.nederlandwereldwijd.nl/landen/duitsland/over-ons/ambassade-in-berlijn"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Embassy_of_the_Netherlands%2C_Berlin"
+ },
+ "netherlands-institute-for-sound-and-vision": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.beeldengeluid.nl/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/17895.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.23556&mlon=5.17306#map=17/52.23556/5.17306"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision"
  },
  "netherlands-pavilion-expo-2000": {
   "links": [
@@ -23157,9 +24473,39 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Neues_Museum"
  },
+ "neurosciences-institute-la-jolla": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.nsi.edu/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13230.htm"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/The_Neurosciences_Institute"
+ },
  "neviges-pilgrimage-church": {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Marian_pilgrimage_of_Neviges"
+ },
+ "new-art-gallery-walsall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.thenewartgallerywalsall.org.uk/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.58567&mlon=-1.98591#map=17/52.58567/-1.98591"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/The_New_Art_Gallery_Walsall"
  },
  "new-baris": {
   "links": [
@@ -23184,6 +24530,31 @@ window.LINKS = {
  "new-gourna-village": {
   "links": [],
   "wiki": null
+ },
+ "new-library-magdalene-college": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/986471/new-library-magdalene-college-niall-mclaughlin-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.magd.cam.ac.uk/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/459864-niall-mclaughlin-nick-kane-magdalene-college-library"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.21028&mlon=0.11611#map=17/52.21028/0.11611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Magdalene_College%2C_Cambridge"
  },
  "new-museum": {
   "links": [
@@ -23374,6 +24745,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/The_New_York_Times_Building"
+ },
+ "newport-street-gallery": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.newportstreetgallery.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.49330&mlon=-0.11700#map=17/51.49330/-0.11700"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Newport_Street_Gallery"
  },
  "nezu-museum": {
   "links": [
@@ -23981,6 +25367,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/28_Liberty_Street"
  },
+ "one-zaabeel": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.onezaabeel.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=25.22808&mlon=55.29078#map=17/25.22808/55.29078"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/One_Za%27abeel"
+ },
  "one57": {
   "links": [
    {
@@ -24115,6 +25516,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Orange_Cube"
+ },
+ "orgues-de-flandre": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/372881-martin-van-trek-lorenzo-zandri-orgues-de-flandre"
+   }
+  ],
+  "wiki": null
  },
  "orquideorama-medellin-botanical-garden": {
   "links": [
@@ -24669,6 +26080,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Palacio_Salvo"
  },
+ "palais-des-expositions-charleroi": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1041635/charleroi-palais-des-expositions-agwa-plus-architecten-jan-de-vylder-inge-vinck"
+   }
+  ],
+  "wiki": null
+ },
  "palais-garnier": {
   "links": [
    {
@@ -24768,6 +26189,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell"
+ },
+ "palau-municipal-d-esports-de-badalona": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/8174.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.44241&mlon=2.23214#map=17/41.44241/2.23214"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Palau_Municipal_d%27Esports_de_Badalona"
  },
  "palau-sant-jordi": {
   "links": [
@@ -25567,6 +27003,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Pearl_River_Tower"
  },
+ "peckham-library": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.southwark.gov.uk/info/200062/libraries"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/8894.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20004866"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.47430&mlon=-0.06933#map=17/51.47430/-0.06933"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Peckham_Library"
+ },
  "pedregulho-housing": {
   "links": [
    {
@@ -26162,6 +27623,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Galileo_Galilei_Planetarium"
  },
+ "plato-ostrava": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1015028/plato-contemporary-art-gallery-kwk-promes"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/495431-robert-konieczny-kwk-promes-juliusz-sokolowski-jakub-certowicz-plato-contemporary-art-gallery"
+   }
+  ],
+  "wiki": null
+ },
  "pointe-a-calliere-museum": {
   "links": [
    {
@@ -26366,6 +27842,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "pousada-santa-maria-do-bouro": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/768833/santa-maria-do-bouro-convent-eduardo-souto-de-moura-plus-humberto-vieira"
+   }
+  ],
+  "wiki": null
+ },
  "ppg-place": {
   "links": [
    {
@@ -26426,6 +27912,31 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "price-tower": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/124191/ad-classics-price-tower-frank-lloyd-wright"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1040.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20002378"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=36.74750&mlon=-95.97611#map=17/36.74750/-95.97611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Price_Tower"
+ },
  "psfs-building": {
   "links": [
    {
@@ -26450,6 +27961,46 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/PSFS_Building"
+ },
+ "puente-de-la-mujer": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13822.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20003311"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-34.60794&mlon=-58.36491#map=17/-34.60794/-58.36491"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Puente_de_la_Mujer"
+ },
+ "pulitzer-arts-foundation": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.pulitzerarts.org"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/11476.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=38.64040&mlon=-90.23440#map=17/38.64040/-90.23440"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pulitzer_Arts_Foundation"
  },
  "punakha-dzong": {
   "links": [
@@ -26934,6 +28485,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House"
  },
+ "ring-of-remembrance": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.39960&mlon=2.72000#map=17/50.39960/2.72000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/L%27Anneau_de_la_m%C3%A9moire"
+ },
  "riverside-museum": {
   "links": [
    {
@@ -26958,6 +28519,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Riverside_Museum"
+ },
+ "rivesaltes-memorial": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.80800&mlon=2.89000#map=17/42.80800/2.89000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Camp_de_Rivesaltes"
  },
  "rmit-storey-hall": {
   "links": [
@@ -27351,6 +28922,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Row_House_in_Sumiyoshi"
  },
+ "royal-academy-for-nature-conservation": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/789514/royal-academy-for-nature-conservation-khammash-architects"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.rscn.org.jo/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/318534-ammar-khammash-cemal-emden-royal-academy-for-nature-conservation"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Royal_Society_for_the_Conservation_of_Nature"
+ },
  "royal-albert-hall": {
   "links": [
    {
@@ -27630,6 +29221,56 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sainsbury_Centre_for_Visual_Arts"
  },
+ "sainsbury-laboratory-cambridge": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/154728/sainsbury-laboratory-stanton-williams"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.tsl.ac.uk/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/175686-stanton-williams-hufton-crow-sainsbury-laboratory"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.62219&mlon=1.22290#map=17/52.62219/1.22290"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sainsbury_Laboratory"
+ },
+ "sainsbury-wing-national-gallery": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.nationalgallery.org.uk"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/8194.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20061589"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.50889&mlon=-0.12833#map=17/51.50889/-0.12833"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Gallery"
+ },
  "saint-benedict-chapel": {
   "links": [
    {
@@ -27893,6 +29534,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "san-antonio-central-library": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://mysapl.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=29.43250&mlon=-98.49280#map=17/29.43250/-98.49280"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/San_Antonio_Public_Library"
+ },
  "san-cataldo-cemetery": {
   "links": [
    {
@@ -28042,6 +29698,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/San_Miguel_Corporation"
+ },
+ "san-telmo-museum-extension": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.santelmomuseoa.com/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/168143-nieto-sobejano-arquitectos-fernando-alda-san-telmo-museum-extension"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.32477&mlon=-1.98530#map=17/43.32477/-1.98530"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/San_Telmo_Museoa"
  },
  "sanatorium-purkersdorf": {
   "links": [
@@ -28228,6 +29904,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Santa_Maria_Assunta%2C_Riola_di_Vergato"
  },
+ "santa-maria-church-marco-de-canaveses": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/112535/ad-classics-santa-maria-church-de-canaveses-alvaro-siza"
+   }
+  ],
+  "wiki": null
+ },
  "santa-maria-da-feira-municipal-market": {
   "links": [],
   "wiki": null
@@ -28331,6 +30017,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sava_Centar"
+ },
+ "saw-swee-hock-student-centre": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/555540/lse-saw-hock-student-centre-o-donnell-tuomey-architects"
+   }
+  ],
+  "wiki": null
  },
  "saynatsalo-town-hall": {
   "links": [
@@ -28662,6 +30358,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Secretariat_Building%2C_Chandigarh"
  },
+ "selfridges-birmingham": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/15104.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20017215"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.47780&mlon=-1.89226#map=17/52.47780/-1.89226"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Selfridges_Birmingham"
+ },
  "selimiye-mosque": {
   "links": [
    {
@@ -28737,6 +30453,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sendai_Mediatheque"
  },
+ "senedd-cardiff": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://senedd.wales/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.46361&mlon=-3.16250#map=17/51.46361/-3.16250"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Senedd"
+ },
  "seonyudo-park": {
   "links": [
    {
@@ -28746,6 +30477,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Seonyudo%2C_Seoul"
+ },
+ "seoul-arts-center": {
+  "links": [],
+  "wiki": null
  },
  "seoul-city-hall": {
   "links": [
@@ -28781,6 +30516,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Seoullo_7017"
+ },
+ "serefudin-white-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.98525&mlon=18.18022#map=17/43.98525/18.18022"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/%C5%A0erefudin%27s_White_Mosque"
  },
  "serralves-museum-of-contemporary-art": {
   "links": [
@@ -29361,6 +31106,26 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "simmons-hall-mit": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.simmons.edu/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/380930-steven-holl-architects-xavier-de-jaureguiberry-simmons-hall-mit"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.33980&mlon=-71.10020#map=17/42.33980/-71.10020"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Simmons_University"
+ },
  "simon-fraser-university": {
   "links": [
    {
@@ -29395,6 +31160,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Simose_Art_Museum"
+ },
+ "sines-arts-centre": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/285621-manuel-aires-mateus-daniel-malhao-centro-de-artes-de-sines"
+   }
+  ],
+  "wiki": null
  },
  "singapore-conference-hall": {
   "links": [
@@ -30118,6 +31893,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Stadium_974"
  },
+ "stadshal-ghent": {
+  "links": [],
+  "wiki": null
+ },
  "stadsschouwburg-utrecht": {
   "links": [
    {
@@ -30139,6 +31918,16 @@ window.LINKS = {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=52.09306&mlon=5.12722#map=17/52.09306/5.12722"
+   }
+  ],
+  "wiki": null
+ },
+ "stadthaus-scharnhauser-park": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/91011-j-mayer-h-david-franck-townhall-scharnhauser-park"
    }
   ],
   "wiki": null
@@ -30477,6 +32266,10 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "stormen-bodo": {
+  "links": [],
+  "wiki": null
+ },
  "studio-aalto": {
   "links": [
    {
@@ -30506,6 +32299,25 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Studio_Aalto"
+ },
+ "study-pavilion-tu-braunschweig": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/1001360/study-pavilion-tu-braunschweig-gustav-dusing-plus-max-hacke"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/496609-gustav-dusing-buro-hacke-leonhard-clemens-lemmart-iwan-baan-study-pavilion-on-the-campus-of-the-technical-university-of-braunschweig"
+   }
+  ],
+  "wiki": null
+ },
+ "stuttgart-music-school": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/Cologne_school_%28music%29"
  },
  "stuttgart-tv-tower": {
   "links": [
@@ -31187,6 +32999,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "tbilisi-public-service-hall": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/792131/tbilisi-public-service-hall-studio-fuksas"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/222835-studio-fuksas-moreno-maggi-tbilisi-public-service-hall"
+   }
+  ],
+  "wiki": null
+ },
  "te-papa-tongarewa": {
   "links": [
    {
@@ -31336,6 +33163,31 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "teatro-regio-turin": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.teatroregio.torino.it/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/372602-carlo-mollino-maxime-galati-fourcade-teatro-regio-torino"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/23484.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.07056&mlon=7.68778#map=17/45.07056/7.68778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Teatro_Regio_%28Turin%29"
  },
  "teatro-regional-del-biobio": {
   "links": [
@@ -31531,6 +33383,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "terrassenhaus-berlin": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/513933-muck-petzet-architekten-bplus-xyz-b-erica-overmeer-terrassenhaus-berlin-lobe-block"
+   }
+  ],
+  "wiki": null
+ },
  "teshima-art-museum": {
   "links": [
    {
@@ -31600,6 +33462,25 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/The_Bow_%28skyscraper%29"
  },
+ "the-box-culver-city": {
+  "links": [],
+  "wiki": null
+ },
+ "the-datai-langkawi": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.thedatai.com/langkawi/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=6.42253&mlon=99.67042#map=17/6.42253/99.67042"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Datai_Langkawi"
+ },
  "the-egg-beirut": {
   "links": [
    {
@@ -31649,6 +33530,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/The_Glasshouse%2C_Gateshead"
+ },
+ "the-hepworth-wakefield": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://hepworthwakefield.org/"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/213438-david-chipperfield-architects-hufton-crow-hepworth-wakefield-gallery"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=53.67600&mlon=-1.49100#map=17/53.67600/-1.49100"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/The_Hepworth_Wakefield"
  },
  "the-hive-nanyang-technological-university": {
   "links": [
@@ -32049,6 +33950,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Omotesand%C5%8D"
+ },
+ "toho-gakuen-school-of-music": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.tohomusic.ac.jp/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.65972&mlon=139.58361#map=17/35.65972/139.58361"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
  },
  "tokyo-big-sight": {
   "links": [
@@ -33128,6 +35044,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Umeda_Sky_Building"
  },
+ "unesco-headquarters": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://en.unesco.org/about-us/unesco-house"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2183.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/10000590"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=48.84940&mlon=2.30611#map=17/48.84940/2.30611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/UNESCO_Headquarters"
+ },
  "unidad-vecinal-portales": {
   "links": [
    {
@@ -33341,6 +35282,21 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "universiti-teknologi-petronas": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.utp.edu.my/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=4.38639&mlon=100.97972#map=17/4.38639/100.97972"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Universiti_Teknologi_Petronas"
  },
  "university-of-constantine": {
   "links": [
@@ -33731,6 +35687,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Trade_Fair_Palace"
+ },
+ "velodrom-berlin": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/4448.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20004135"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.53083&mlon=13.45083#map=17/52.53083/13.45083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Velodrom_%28Berlin%29"
  },
  "vertical-courtyard-apartments": {
   "links": [
@@ -34643,6 +36619,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Dulles_International_Airport_Main_Terminal"
  },
+ "washington-metro": {
+  "links": [],
+  "wiki": "https://en.wikipedia.org/wiki/List_of_Washington_Metro_stations"
+ },
  "wat-xieng-thong": {
   "links": [
    {
@@ -34676,6 +36656,36 @@ window.LINKS = {
  "water-temple-honpuku-ji": {
   "links": [],
   "wiki": null
+ },
+ "waterloo-international": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2325.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.50297&mlon=-0.11481#map=17/51.50297/-0.11481"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Waterloo_International_railway_station"
+ },
+ "weald-and-downland-gridshell": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/10669.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.90690&mlon=-0.75611#map=17/50.90690/-0.75611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Weald_and_Downland_Gridshell"
  },
  "weesperflat": {
   "links": [
@@ -34861,6 +36871,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Wexner_Center_for_the_Arts"
+ },
+ "weyerhaeuser-headquarters": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.29690&mlon=-122.29870#map=17/47.29690/-122.29870"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Weyerhaeuser_Corporate_Headquarters"
  },
  "white-house-moscow": {
   "links": [
@@ -35152,6 +37172,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Wrigley_Building"
  },
+ "wzb-berlin-social-science-center": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.wzb.eu/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5912.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.50640&mlon=13.36580#map=17/52.50640/13.36580"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/WZB_Berlin_Social_Science_Center"
+ },
  "xenia-hotel-mykonos": {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Xenia_%28hotel%29"
@@ -35165,6 +37205,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Xylem"
+ },
+ "yaama-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.35958&mlon=5.49922#map=17/14.35958/5.49922"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Yamma_Mosque"
  },
  "yad-kennedy": {
   "links": [
@@ -35395,6 +37445,26 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "z33-hasselt": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.z33.be"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/427156-francesca-torzo-gion-balthasar-von-albertini-z33-house-for-contemporary-art-design-and-architecture"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.93174&mlon=5.34013#map=17/50.93174/5.34013"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Art_Museum_Z33"
+ },
  "zaryadye-park": {
   "links": [
    {
@@ -35469,6 +37539,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa"
+ },
+ "zenith-strasbourg": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/2782/zenith-strasbourg-massimiliano-fuksas"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.zenith-strasbourg.fr"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20027231"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=48.59321&mlon=7.68712#map=17/48.59321/7.68712"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Z%C3%A9nith_de_Strasbourg"
  },
  "zizkov-television-tower": {
   "links": [
