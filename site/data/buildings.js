@@ -209677,7 +209677,59 @@ window.BUILDINGS = [
   "commons": "Category:Cables Wynd House",
   "lead": "File:Cables Wynd House - geograph.org.uk - 7891459.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Cables_Wynd_House_-_geograph.org.uk_-_7891459.jpg/1280px-Cables_Wynd_House_-_geograph.org.uk_-_7891459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cables-wynd-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Richard Webb",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cables_Wynd_House_-_geograph.org.uk_-_7891459.jpg",
+    "file": "File:Cables Wynd House - geograph.org.uk - 7891459.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Tower_Block_UK_photo_sc_1141852.png/1280px-Tower_Block_UK_photo_sc_1141852.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cables-wynd-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Miles Glendinning",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Block_UK_photo_sc_1141852.png",
+    "file": "File:Tower Block UK photo sc 1141852.png"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cables_Wynd_House_-_5249075063.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/cables-wynd-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Cables Wynd House, also known as the Banana Flats, in Leith, Scotland",
+    "credit": "itmpa",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cables_Wynd_House_-_5249075063.jpg",
+    "file": "File:Cables Wynd House - 5249075063.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cables_Wynd_House_%285249678930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/cables-wynd-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tom Parnell  from Scottish Borders, Scotland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cables_Wynd_House_(5249678930).jpg",
+    "file": "File:Cables Wynd House (5249678930).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "preston-bus-station",
@@ -209701,7 +209753,83 @@ window.BUILDINGS = [
   "commons": "Category:Preston bus station",
   "lead": "File:Preston Bus Station 20200226.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Preston_Bus_Station_20200226.jpg/1280px-Preston_Bus_Station_20200226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/0.webp",
+    "w": 1280,
+    "h": 501,
+    "kind": "Exterior",
+    "caption": "Exterior · Preston bus station after redevelopment, with the new concourse replacing the western bus bays",
+    "credit": "Bruce Lamberton",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Preston_Bus_Station_20200226.jpg",
+    "file": "File:Preston Bus Station 20200226.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Preston_bus_station_%2851231516817%29.jpg/1280px-Preston_bus_station_%2851231516817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Preston_bus_station_(51231516817).jpg",
+    "file": "File:Preston bus station (51231516817).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Preston_Bus_Station_-_geograph.org.uk_-_5218179.jpg/1280px-Preston_Bus_Station_-_geograph.org.uk_-_5218179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/2.webp",
+    "w": 1280,
+    "h": 843,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matt Harrop",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Preston_Bus_Station_-_geograph.org.uk_-_5218179.jpg",
+    "file": "File:Preston Bus Station - geograph.org.uk - 5218179.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Preston_bus_station_in_2010.jpg/1280px-Preston_bus_station_in_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 963,
+    "kind": "Exterior",
+    "caption": "Exterior · Preston bus station , Lancashire, England",
+    "credit": "Timbobkiller",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Preston_bus_station_in_2010.jpg",
+    "file": "File:Preston bus station in 2010.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Stagecoach_Preston_T601_JBA.jpg/1280px-Stagecoach_Preston_T601_JBA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · T601 JBA",
+    "credit": "Ed Webster",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stagecoach_Preston_T601_JBA.jpg",
+    "file": "File:Stagecoach Preston T601 JBA.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Inside_Preston_Bus_Station_-_geograph.org.uk_-_7354274.jpg/1280px-Inside_Preston_Bus_Station_-_geograph.org.uk_-_7354274.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/preston-bus-station/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inside Preston Bus Station",
+    "credit": "Stephen McKay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Preston_Bus_Station_-_geograph.org.uk_-_7354274.jpg",
+    "file": "File:Inside Preston Bus Station - geograph.org.uk - 7354274.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "apollo-pavilion",
@@ -209725,7 +209853,35 @@ window.BUILDINGS = [
   "commons": "Category:Apollo Pavilion",
   "lead": "File:Apollo pavilion.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Apollo_pavilion.jpg/1280px-Apollo_pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/apollo-pavilion/thumbs/0.webp",
+    "w": 1280,
+    "h": 624,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Picnicin",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Apollo_pavilion.jpg",
+    "file": "File:Apollo pavilion.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Peterlee_-_Apollo_Pavilion.jpg/1280px-Peterlee_-_Apollo_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/apollo-pavilion/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peterlee_-_Apollo_Pavilion.jpg",
+    "file": "File:Peterlee - Apollo Pavilion.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kingsgate-bridge",
@@ -209749,7 +209905,83 @@ window.BUILDINGS = [
   "commons": "Category:Kingsgate Bridge",
   "lead": "File:Kingsgate Footbridge, Durham - geograph.org.uk - 8241528.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Kingsgate_Footbridge%2C_Durham_-_geograph.org.uk_-_8241528.jpg/1280px-Kingsgate_Footbridge%2C_Durham_-_geograph.org.uk_-_8241528.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 950,
+    "kind": "Exterior",
+    "caption": "Exterior · Kingsgate Footbridge, Durham",
+    "credit": "Neil Theasby",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingsgate_Footbridge,_Durham_-_geograph.org.uk_-_8241528.jpg",
+    "file": "File:Kingsgate Footbridge, Durham - geograph.org.uk - 8241528.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kingsgate_Bridge_%2851216965604%29.jpg/1280px-Kingsgate_Bridge_%2851216965604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Superb 1960s bridge over the River Wear in Durham",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingsgate_Bridge_(51216965604).jpg",
+    "file": "File:Kingsgate Bridge (51216965604).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Kingsgate_Bridge_%2851216193656%29.jpg/1280px-Kingsgate_Bridge_%2851216193656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Superb 1960s bridge over the River Wear in Durham",
+    "credit": "Alex Liivet  from Chester, United Kingdom",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingsgate_Bridge_(51216193656).jpg",
+    "file": "File:Kingsgate Bridge (51216193656).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Dunelm_House_%26_Kingsgate_Bridge.jpg/1280px-Dunelm_House_%26_Kingsgate_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Kingsgate bridge in front of Dunelm House in Durham , England",
+    "credit": "Tom Parnell",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunelm_House_%26_Kingsgate_Bridge.jpg",
+    "file": "File:Dunelm House & Kingsgate Bridge.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kingsgate_Bridge_-_detail_of_expansion_joint_on_deck_balustrade.jpg/1280px-Kingsgate_Bridge_-_detail_of_expansion_joint_on_deck_balustrade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Tom Parnell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingsgate_Bridge_-_detail_of_expansion_joint_on_deck_balustrade.jpg",
+    "file": "File:Kingsgate Bridge - detail of expansion joint on deck balustrade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Kingsgate_Bridge_-_view_from_W.jpg/1280px-Kingsgate_Bridge_-_view_from_W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingsgate-bridge/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Tom Parnell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingsgate_Bridge_-_view_from_W.jpg",
+    "file": "File:Kingsgate Bridge - view from W.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dior-omotesando",
@@ -209773,7 +210005,71 @@ window.BUILDINGS = [
   "commons": "Category:Dior Omotesando",
   "lead": "File:Christian Dior Omotesando Tokyo 2016.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Christian_Dior_Omotesando_Tokyo_2016.jpg/1280px-Christian_Dior_Omotesando_Tokyo_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dior-omotesando/thumbs/0.webp",
+    "w": 886,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Christian_Dior_Omotesando_Tokyo_2016.jpg",
+    "file": "File:Christian Dior Omotesando Tokyo 2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Dior_store_%40_Omote-Sando_%40_Aoyama_%289515749819%29.jpg/1280px-Dior_store_%40_Omote-Sando_%40_Aoyama_%289515749819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dior-omotesando/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Dior store @ Omote-Sando @ Aoyama",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dior_store_@_Omote-Sando_@_Aoyama_(9515749819).jpg",
+    "file": "File:Dior store @ Omote-Sando @ Aoyama (9515749819).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Le_magasin_Dior_Omotesando_%28Tokyo%29_%2842066222724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/dior-omotesando/thumbs/2.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · L'immeuble Dior sur la rue Omotesando a été conçu par l'agence SANAA en 2003",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_magasin_Dior_Omotesando_(Tokyo)_(42066222724).jpg",
+    "file": "File:Le magasin Dior Omotesando (Tokyo) (42066222724).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dior_store_%40_Omote-sando_%289235298951%29.jpg/1280px-Dior_store_%40_Omote-sando_%289235298951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dior-omotesando/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Dior store @ Omote-sando",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dior_store_@_Omote-sando_(9235298951).jpg",
+    "file": "File:Dior store @ Omote-sando (9235298951).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Omotesando_-_panoramio_%282%29.jpg/1280px-Omotesando_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dior-omotesando/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Omotesando",
+    "credit": "kcomiida",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Omotesando_-_panoramio_(2).jpg",
+    "file": "File:Omotesando - panoramio (2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "media-tic",
@@ -209797,7 +210093,83 @@ window.BUILDINGS = [
   "commons": "Category:Cibernàrium-Edificio MediaTIC",
   "lead": "File:Media-TIC.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Media-TIC.JPG/1280px-Media-TIC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificio Media-TIC (2010), de Enric Ruiz Geli",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Media-TIC.JPG",
+    "file": "File:Media-TIC.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Edificio_Media-TIC._Enric_Ruiz_Geli.jpg/1280px-Edificio_Media-TIC._Enric_Ruiz_Geli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/1.webp",
+    "w": 1280,
+    "h": 1031,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificio Media-TIC",
+    "credit": "Victoriano Javier Tornel García  from Barcelona, España",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_Media-TIC._Enric_Ruiz_Geli.jpg",
+    "file": "File:Edificio Media-TIC. Enric Ruiz Geli.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Barcelona_-_panoramio_%28572%29.jpg/1280px-Barcelona_-_panoramio_%28572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · barcelona",
+    "credit": "Gerardo nuñez",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_panoramio_(572).jpg",
+    "file": "File:Barcelona - panoramio (572).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Media-TIC.jpg/1280px-Media-TIC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Facade of the Media-TIC building in Barcelona Photos from Barcelona from May 2018",
+    "credit": "Chris Koerner  from St. Louis, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Media-TIC.jpg",
+    "file": "File:Media-TIC.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Detalle_fachada_sur-este_del_edificio_media-tic.jpg/1280px-Detalle_fachada_sur-este_del_edificio_media-tic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Detalle fachada sur-este del edificio media-tic",
+    "credit": "Cxerti",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detalle_fachada_sur-este_del_edificio_media-tic.jpg",
+    "file": "File:Detalle fachada sur-este del edificio media-tic.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/37_Edifici_Media-TIC%2C_c._Sancho_de_%C3%81vila.JPG/1280px-37_Edifici_Media-TIC%2C_c._Sancho_de_%C3%81vila.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/media-tic/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Edifici Media-TIC, c",
+    "credit": "Enfo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:37_Edifici_Media-TIC,_c._Sancho_de_%C3%81vila.JPG",
+    "file": "File:37 Edifici Media-TIC, c. Sancho de Ávila.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lochal",
@@ -209821,7 +210193,83 @@ window.BUILDINGS = [
   "commons": "Category:Bibliotheek LocHal",
   "lead": "File:Exterieur aanzicht Bibliotheek LocHal Tilburg, april 2019.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Exterieur_aanzicht_Bibliotheek_LocHal_Tilburg%2C_april_2019.jpg/1280px-Exterieur_aanzicht_Bibliotheek_LocHal_Tilburg%2C_april_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "OlafJanssen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterieur_aanzicht_Bibliotheek_LocHal_Tilburg,_april_2019.jpg",
+    "file": "File:Exterieur aanzicht Bibliotheek LocHal Tilburg, april 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/LocHal_Tilburg_P1360238.jpg/1280px-LocHal_Tilburg_P1360238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Zicht op een deel van de buitenzijde van de LocHal Tilburg",
+    "credit": "G.Lanting",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LocHal_Tilburg_P1360238.jpg",
+    "file": "File:LocHal Tilburg P1360238.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Bibliotheek_Tilburg_in_de_LocHal_1.jpg/1280px-Bibliotheek_Tilburg_in_de_LocHal_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Bibliotheek Tilburg in de LocHal net na de opening op 2 januari 2019",
+    "credit": "HT-boek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliotheek_Tilburg_in_de_LocHal_1.jpg",
+    "file": "File:Bibliotheek Tilburg in de LocHal 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bibliotheek_Tilburg_in_de_LocHal_3.jpg/1280px-Bibliotheek_Tilburg_in_de_LocHal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/3.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Bibliotheek Tilburg in de LocHal net na de opening op 2 januari 2019",
+    "credit": "HT-boek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliotheek_Tilburg_in_de_LocHal_3.jpg",
+    "file": "File:Bibliotheek Tilburg in de LocHal 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/LocHal_20190606_-_09.jpg/1280px-LocHal_20190606_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the LocHal in Tilburg, Netherlands",
+    "credit": "Magere Hein",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LocHal_20190606_-_09.jpg",
+    "file": "File:LocHal 20190606 - 09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/LocHal_20190606_-_08.jpg/1280px-LocHal_20190606_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lochal/thumbs/5.webp",
+    "w": 1280,
+    "h": 868,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the LocHal in Tilburg, Netherlands",
+    "credit": "Magere Hein",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LocHal_20190606_-_08.jpg",
+    "file": "File:LocHal 20190606 - 08.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dornbusch-church",
@@ -209845,7 +210293,47 @@ window.BUILDINGS = [
   "commons": "Category:Dornbuschkirche (Frankfurt am Main)",
   "lead": "File:Dornbuschkirche Frankfurt.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Dornbuschkirche_Frankfurt.JPG/1280px-Dornbuschkirche_Frankfurt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dornbusch-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gaki64",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dornbuschkirche_Frankfurt.JPG",
+    "file": "File:Dornbuschkirche Frankfurt.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/CK_Dornbuschkirche_schraeg_rechts_ents%C3%A4ttigt.jpg/1280px-CK_Dornbuschkirche_schraeg_rechts_ents%C3%A4ttigt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dornbusch-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 1007,
+    "kind": "Exterior",
+    "caption": "Exterior · Dornbuschkirche with forecourt_CK Meixner Schlüter Wendt Architekten",
+    "credit": "Archifotokraneburg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CK_Dornbuschkirche_schraeg_rechts_ents%C3%A4ttigt.jpg",
+    "file": "File:CK Dornbuschkirche schraeg rechts entsättigt.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Dornbuschkirche_Frankfurt_Innen.JPG/1280px-Dornbuschkirche_Frankfurt_Innen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dornbusch-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Gaki64",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dornbuschkirche_Frankfurt_Innen.JPG",
+    "file": "File:Dornbuschkirche Frankfurt Innen.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "unilever-haus-hamburg",
@@ -209869,7 +210357,97 @@ window.BUILDINGS = [
   "commons": "Category:Unilever-Haus (Hamburg)",
   "lead": "File:Unilever-Haus, Strandkai, Hamburg-9198.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Unilever-Haus%2C_Strandkai%2C_Hamburg-9198.jpg/1280px-Unilever-Haus%2C_Strandkai%2C_Hamburg-9198.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Unilever-Haus/New Work Harbour, Strandkai, Hamburg",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unilever-Haus,_Strandkai,_Hamburg-9198.jpg",
+    "file": "File:Unilever-Haus, Strandkai, Hamburg-9198.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Blick_auf_das_Unilever-Geb%C3%A4ude_1.JPG/1280px-Blick_auf_das_Unilever-Geb%C3%A4ude_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/1.webp",
+    "w": 1280,
+    "h": 902,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bärwinkel,Klaus",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blick_auf_das_Unilever-Geb%C3%A4ude_1.JPG",
+    "file": "File:Blick auf das Unilever-Gebäude 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Am_Kamerunkai%2C_Unilever%2C_WPAhoi%2C_Hamburg_%28P1080284%29.jpg/1280px-Am_Kamerunkai%2C_Unilever%2C_WPAhoi%2C_Hamburg_%28P1080284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Marco Polo Tower and Unilever building in HafenCity, Hamburg",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Am_Kamerunkai,_Unilever,_WPAhoi,_Hamburg_(P1080284).jpg",
+    "file": "File:Am Kamerunkai, Unilever, WPAhoi, Hamburg (P1080284).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hamburg-20110317-0013-Hafen-cor.jpg/1280px-Hamburg-20110317-0013-Hafen-cor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hamburg Unilever-Gebäude",
+    "credit": "Mbdortmund",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamburg-20110317-0013-Hafen-cor.jpg",
+    "file": "File:Hamburg-20110317-0013-Hafen-cor.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Phb_dt_8310_Unileverhaus.jpg/1280px-Phb_dt_8310_Unileverhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Hamburg , Blick aus dem Fesselballon Highflyer, Unileverhaus",
+    "credit": "Dirtsc",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phb_dt_8310_Unileverhaus.jpg",
+    "file": "File:Phb dt 8310 Unileverhaus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2013-06-08_Projekt_Hei%C3%9Fluftballon_-_Highflyer_DSCF7727.jpg/1280px-2013-06-08_Projekt_Hei%C3%9Fluftballon_-_Highflyer_DSCF7727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/5.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Context",
+    "caption": "Context · Projekt Heißluftballon",
+    "credit": "Martina Nolte",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:2013-06-08_Projekt_Hei%C3%9Fluftballon_-_Highflyer_DSCF7727.jpg",
+    "file": "File:2013-06-08 Projekt Heißluftballon - Highflyer DSCF7727.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/HafenCity_Quartier_Strandkai.jpg/1280px-HafenCity_Quartier_Strandkai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unilever-haus-hamburg/thumbs/6.webp",
+    "w": 1280,
+    "h": 924,
+    "kind": "Model",
+    "caption": "Model · Modell des Quartiers Strandkai in der HafenCity in Hamburg",
+    "credit": "HC_Strandkai_1.JPG :  MissyWegner  \n derivative work:  Flor!an",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:HafenCity_Quartier_Strandkai.jpg",
+    "file": "File:HafenCity Quartier Strandkai.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "city-of-justice-barcelona",
@@ -209893,7 +210471,73 @@ window.BUILDINGS = [
   "commons": "Category:Ciutat de la Justícia de Barcelona i l'Hospitalet de Llobregat",
   "lead": "File:David Chipperfield Barcelona 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/David_Chipperfield_Barcelona_1.jpg/1280px-David_Chipperfield_Barcelona_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-of-justice-barcelona/thumbs/0.webp",
+    "w": 1280,
+    "h": 1158,
+    "kind": "Exterior",
+    "caption": "Exterior · City of Justice in Barcelona by David Chipperfield Architects and b720 arquitectos",
+    "credit": "KovacsDaniel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Chipperfield_Barcelona_1.jpg",
+    "file": "File:David Chipperfield Barcelona 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ciutat_de_la_Just%C3%ADcia_Hospitalet.jpg/1280px-Ciutat_de_la_Just%C3%ADcia_Hospitalet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-of-justice-barcelona/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Ciutat de la Justícia",
+    "credit": "Dgripsgrp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciutat_de_la_Just%C3%ADcia_Hospitalet.jpg",
+    "file": "File:Ciutat de la Justícia Hospitalet.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Barcelona_City_of_Justice.JPG/1280px-Barcelona_City_of_Justice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-of-justice-barcelona/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona City of Justice",
+    "credit": "Jørgen Løken ( Løken )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_City_of_Justice.JPG",
+    "file": "File:Barcelona City of Justice.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/David_Chipperfield_Barcelona_2.jpg/1280px-David_Chipperfield_Barcelona_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-of-justice-barcelona/thumbs/3.webp",
+    "w": 1280,
+    "h": 1193,
+    "kind": "Exterior",
+    "caption": "Exterior · City of Justice in Barcelona by David Chipperfield Architects and b720 arquitectos",
+    "credit": "KovacsDaniel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Chipperfield_Barcelona_2.jpg",
+    "file": "File:David Chipperfield Barcelona 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/44_Pl%C3%A0nol_de_la_Ciutat_de_la_Just%C3%ADcia_%28l%27Hospitalet_de_Llobregat%29%2C_a_l%27interior_de_l%27edifici_E.jpg/1280px-44_Pl%C3%A0nol_de_la_Ciutat_de_la_Just%C3%ADcia_%28l%27Hospitalet_de_Llobregat%29%2C_a_l%27interior_de_l%27edifici_E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-of-justice-barcelona/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Plan",
+    "caption": "Plan · Plànol de la Ciutat de la Justícia (l'Hospitalet de Llobregat), a l'interior de l'edifici E",
+    "credit": "Enric",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:44_Pl%C3%A0nol_de_la_Ciutat_de_la_Just%C3%ADcia_(l%27Hospitalet_de_Llobregat),_a_l%27interior_de_l%27edifici_E.jpg",
+    "file": "File:44 Plànol de la Ciutat de la Justícia (l'Hospitalet de Llobregat), a l'interior de l'edifici E.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "quay-quarter-tower",
@@ -209917,7 +210561,83 @@ window.BUILDINGS = [
   "commons": "Category:Quay Quarter Tower",
   "lead": "File:New AMP building 001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/New_AMP_building_001.jpg/1280px-New_AMP_building_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · New AMP building, Sydney, with Customs House in foreground",
+    "credit": "Sardaka",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_AMP_building_001.jpg",
+    "file": "File:New AMP building 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Quay_Quarter_Tower_-_Circular_Quay.jpg/1280px-Quay_Quarter_Tower_-_Circular_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sydney",
+    "credit": "kbcool",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quay_Quarter_Tower_-_Circular_Quay.jpg",
+    "file": "File:Quay Quarter Tower - Circular Quay.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sydney_Quay_Quarter_Tower_seen_from_Pitt_Street.jpg/1280px-Sydney_Quay_Quarter_Tower_seen_from_Pitt_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Quay Quarter Tower seen from Pitt Street, Sydney, New South Wales, Australia",
+    "credit": "Ymblanter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Quay_Quarter_Tower_seen_from_Pitt_Street.jpg",
+    "file": "File:Sydney Quay Quarter Tower seen from Pitt Street.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Quay_Quarter_Tower%2C_Sydney%2C_2023%2C_01.jpg/1280px-Quay_Quarter_Tower%2C_Sydney%2C_2023%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Quay Quarter Tower, Sydney, 2023",
+    "credit": "Kgbo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quay_Quarter_Tower,_Sydney,_2023,_01.jpg",
+    "file": "File:Quay Quarter Tower, Sydney, 2023, 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_02.jpg/1280px-Quay_Quarter_Tower%2C_Governor_Phillip_Tower%2C_Sydney%2C_2023%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/4.webp",
+    "w": 864,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023",
+    "credit": "Kgbo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quay_Quarter_Tower,_Governor_Phillip_Tower,_Sydney,_2023,_02.jpg",
+    "file": "File:Quay Quarter Tower, Governor Phillip Tower, Sydney, 2023, 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Circular_Quay123.jpg/1280px-Circular_Quay123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quay-quarter-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Circular Quay Sydney",
+    "credit": "MDRX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Circular_Quay123.jpg",
+    "file": "File:Circular Quay123.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "aviva-stadium",
@@ -209941,7 +210661,97 @@ window.BUILDINGS = [
   "commons": "Category:Aviva Stadium",
   "lead": "File:Aviva Stadium - panoramio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Aviva_Stadium_-_panoramio.jpg/1280px-Aviva_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 737,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "William Murphy",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviva_Stadium_-_panoramio.jpg",
+    "file": "File:Aviva Stadium - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Aviva_Stadium_Dublin.jpg/1280px-Aviva_Stadium_Dublin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Aviva Stadium in Dublin",
+    "credit": "Alicia Fagerving",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviva_Stadium_Dublin.jpg",
+    "file": "File:Aviva Stadium Dublin.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Aviva_Stadium%2C_Lansdowne_Road%2C_Dublin_%282024%29.jpg/1280px-Aviva_Stadium%2C_Lansdowne_Road%2C_Dublin_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance to Aviva Stadium next to Lansdowne Road DART rail station",
+    "credit": "Darren J. Prior",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviva_Stadium,_Lansdowne_Road,_Dublin_(2024).jpg",
+    "file": "File:Aviva Stadium, Lansdowne Road, Dublin (2024).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Aviva_Stadium_-_Lansdowne_Road_%28Dublin%29_-_panoramio_%281%29.jpg/1280px-Aviva_Stadium_-_Lansdowne_Road_%28Dublin%29_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Aviva Stadium - Lansdowne Road (Dublin)",
+    "credit": "William Murphy",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviva_Stadium_-_Lansdowne_Road_(Dublin)_-_panoramio_(1).jpg",
+    "file": "File:Aviva Stadium - Lansdowne Road (Dublin) - panoramio (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Inside_View_Of_The_Aviva_Stadium_%285436719763%29.jpg/1280px-Inside_View_Of_The_Aviva_Stadium_%285436719763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "William Murphy  from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_View_Of_The_Aviva_Stadium_(5436719763).jpg",
+    "file": "File:Inside View Of The Aviva Stadium (5436719763).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Inside_View_Of_The_Aviva_Stadium_%285436725039%29.jpg/1280px-Inside_View_Of_The_Aviva_Stadium_%285436725039%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "William Murphy  from Dublin, Ireland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_View_Of_The_Aviva_Stadium_(5436725039).jpg",
+    "file": "File:Inside View Of The Aviva Stadium (5436725039).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/The_Singing_Section._Aviva_Stadium._Ireland_v_Andorra._-_panoramio.jpg/1280px-The_Singing_Section._Aviva_Stadium._Ireland_v_Andorra._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aviva-stadium/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Section",
+    "caption": "Section · The Singing Section",
+    "credit": "Robin Pollard",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Singing_Section._Aviva_Stadium._Ireland_v_Andorra._-_panoramio.jpg",
+    "file": "File:The Singing Section. Aviva Stadium. Ireland v Andorra. - panoramio.jpg"
+   }
+  ],
+  "has": [
+   "Section"
+  ],
+  "gv": 3
  },
  {
   "id": "max-aicher-arena",
@@ -209965,7 +210775,59 @@ window.BUILDINGS = [
   "commons": "Category:Eisstadion Inzell",
   "lead": "File:Max Aicher Arena (Inzell, GER).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Max_Aicher_Arena_%28Inzell%2C_GER%29.jpg/1280px-Max_Aicher_Arena_%28Inzell%2C_GER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/max-aicher-arena/thumbs/0.webp",
+    "w": 1280,
+    "h": 864,
+    "kind": "Exterior",
+    "caption": "Exterior · Inzell, speed skating rink: the Max Aicher Arena",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Max_Aicher_Arena_(Inzell,_GER).jpg",
+    "file": "File:Max Aicher Arena (Inzell, GER).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Inzell%2C_de_Max_Aicher_Arena_foto7_2017-08-05_12.39.jpg/1280px-Inzell%2C_de_Max_Aicher_Arena_foto7_2017-08-05_12.39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/max-aicher-arena/thumbs/1.webp",
+    "w": 1280,
+    "h": 828,
+    "kind": "Exterior",
+    "caption": "Exterior · Inzell, speed skating rink: the Max Aicher Arena",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inzell,_de_Max_Aicher_Arena_foto7_2017-08-05_12.39.jpg",
+    "file": "File:Inzell, de Max Aicher Arena foto7 2017-08-05 12.39.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg/1280px-2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/max-aicher-arena/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Isiwal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_FIM_Ice_Speedway_Gladiators_World_Championship_-_GP_7_Niedermaier-5563.jpg",
+    "file": "File:2018 FIM Ice Speedway Gladiators World Championship - GP 7 Niedermaier-5563.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2018_FIM_Ice_Speedway_Gladiators_World_Championship_Inzell_Niedermaier-5563.jpg/1280px-2018_FIM_Ice_Speedway_Gladiators_World_Championship_Inzell_Niedermaier-5563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/max-aicher-arena/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Isiwal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_FIM_Ice_Speedway_Gladiators_World_Championship_Inzell_Niedermaier-5563.jpg",
+    "file": "File:2018 FIM Ice Speedway Gladiators World Championship Inzell Niedermaier-5563.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kurilpa-bridge",
@@ -209989,7 +210851,83 @@ window.BUILDINGS = [
   "commons": "Category:Kurilpa Bridge",
   "lead": "File:AUS Brisbane, Central Business District, Kurilpa Bridge 002.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/AUS_Brisbane%2C_Central_Business_District%2C_Kurilpa_Bridge_002.jpg/1280px-AUS_Brisbane%2C_Central_Business_District%2C_Kurilpa_Bridge_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Im Central Business District, Brisbane, Queensland, Australien",
+    "credit": "-wuppertaler",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AUS_Brisbane,_Central_Business_District,_Kurilpa_Bridge_002.jpg",
+    "file": "File:AUS Brisbane, Central Business District, Kurilpa Bridge 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Brisbane%27s_Kurilpa_Bridge%2C_the_day_before_it_opened._%284044806684%29.jpg/1280px-Brisbane%27s_Kurilpa_Bridge%2C_the_day_before_it_opened._%284044806684%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 846,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jan Smith  from Brisbane, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brisbane%27s_Kurilpa_Bridge,_the_day_before_it_opened._(4044806684).jpg",
+    "file": "File:Brisbane's Kurilpa Bridge, the day before it opened. (4044806684).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/KP_Kurilpa_Bridge_IMG_2990_%284122888404%29.jpg/1280px-KP_Kurilpa_Bridge_IMG_2990_%284122888404%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Excrescences on the bridge",
+    "credit": "Margaret Donald  from Sydney, Australia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KP_Kurilpa_Bridge_IMG_2990_(4122888404).jpg",
+    "file": "File:KP Kurilpa Bridge IMG 2990 (4122888404).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kirilpa_Bridge_%2831406988353%29.jpg/1280px-Kirilpa_Bridge_%2831406988353%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Brisbane",
+    "credit": "Rob Deutscher  from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirilpa_Bridge_(31406988353).jpg",
+    "file": "File:Kirilpa Bridge (31406988353).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Kuripla_Bridge_handrails_South_Brisbane_Reach_Brisbane_River_P1150680.jpg/1280px-Kuripla_Bridge_handrails_South_Brisbane_Reach_Brisbane_River_P1150680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "John Robert McPherson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuripla_Bridge_handrails_South_Brisbane_Reach_Brisbane_River_P1150680.jpg",
+    "file": "File:Kuripla Bridge handrails South Brisbane Reach Brisbane River P1150680.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Kurilpa_Bridge%2C_Queensland_Gallery_of_Modern_Art_seen_from_level_35%2C_2024%2C_02.jpg/1280px-Kurilpa_Bridge%2C_Queensland_Gallery_of_Modern_Art_seen_from_level_35%2C_2024%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kurilpa-bridge/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Kurilpa Bridge, Queensland Gallery of Modern Art seen from level 35, 2024",
+    "credit": "Kgbo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kurilpa_Bridge,_Queensland_Gallery_of_Modern_Art_seen_from_level_35,_2024,_02.jpg",
+    "file": "File:Kurilpa Bridge, Queensland Gallery of Modern Art seen from level 35, 2024, 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "royal-childrens-hospital-melbourne",
@@ -210013,7 +210951,83 @@ window.BUILDINGS = [
   "commons": "Category:Royal Children's Hospital, Melbourne",
   "lead": "File:The Royal Children's Hospital, Melbourne.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Royal_Children%27s_Hospital%2C_Melbourne.jpg/1280px-The_Royal_Children%27s_Hospital%2C_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Photo of the front of The Royal Children's Hospital, Melbourne",
+    "credit": "Whatmov",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Royal_Children%27s_Hospital,_Melbourne.jpg",
+    "file": "File:The Royal Children's Hospital, Melbourne.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Royal_Children%27s_Hospital_as_seen_from_Royal_Park_Melbourne.jpg/1280px-The_Royal_Children%27s_Hospital_as_seen_from_Royal_Park_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The Royal Children's Hospital as seen from Royal Park Melbourne",
+    "credit": "Bob Tan",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Royal_Children%27s_Hospital_as_seen_from_Royal_Park_Melbourne.jpg",
+    "file": "File:The Royal Children's Hospital as seen from Royal Park Melbourne.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Royal-Childrens-Hospital-Melbourne.JPG/1280px-Royal-Childrens-Hospital-Melbourne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rhys McCaig Digital Camera",
+    "credit": "The original uploader was  Two stripe  at  English Wikipedia .",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal-Childrens-Hospital-Melbourne.JPG",
+    "file": "File:Royal-Childrens-Hospital-Melbourne.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/New_Royal_Children%27s_Hospital%2C_December_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/3.webp",
+    "w": 1200,
+    "h": 800,
+    "kind": "Exterior",
+    "caption": "Exterior · Picture of Royal Children's Hospital",
+    "credit": "Montmorencyvictoria",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Royal_Children%27s_Hospital,_December_2011.jpg",
+    "file": "File:New Royal Children's Hospital, December 2011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Royal_Childrens_Hospital-Flemington_Rd_%28North_Melbourne%29.jpg/1280px-Royal_Childrens_Hospital-Flemington_Rd_%28North_Melbourne%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/4.webp",
+    "w": 1280,
+    "h": 368,
+    "kind": "Exterior",
+    "caption": "Exterior · Royal Childrens Hospital/Flemington Rd (North Melbourne) (tram stop in Melbourne, Australia)",
+    "credit": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Childrens_Hospital-Flemington_Rd_(North_Melbourne).jpg",
+    "file": "File:Royal Childrens Hospital-Flemington Rd (North Melbourne).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Royal_Children%27s_Hospital_Atrium_Melbourne.jpg/1280px-Royal_Children%27s_Hospital_Atrium_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-childrens-hospital-melbourne/thumbs/5.webp",
+    "w": 1280,
+    "h": 973,
+    "kind": "Interior",
+    "caption": "Interior · Royal Children's Hospital, Melbourne",
+    "credit": "a.canvas.of.light  from Melbourne, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Children%27s_Hospital_Atrium_Melbourne.jpg",
+    "file": "File:Royal Children's Hospital Atrium Melbourne.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "victoria-tower-kista",
@@ -210037,7 +211051,59 @@ window.BUILDINGS = [
   "commons": "Category:Victoria tower Kista",
   "lead": "File:Victoria tower August 2014.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Victoria_tower_August_2014.jpg/1280px-Victoria_tower_August_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-tower-kista/thumbs/0.webp",
+    "w": 816,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria tower, Kista (Stockholm)",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_tower_August_2014.jpg",
+    "file": "File:Victoria tower August 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Victoria_tower_2011a.jpg/1280px-Victoria_tower_2011a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-tower-kista/thumbs/1.webp",
+    "w": 1280,
+    "h": 824,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria Tower , Kista 2011-03-25",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_tower_2011a.jpg",
+    "file": "File:Victoria tower 2011a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Victoria_tower_October_2015_01.jpg/1280px-Victoria_tower_October_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-tower-kista/thumbs/2.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria tower, Kista (Stockholm)",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_tower_October_2015_01.jpg",
+    "file": "File:Victoria tower October 2015 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kistavictoriahotelnr1_Publish.jpg/1280px-Kistavictoriahotelnr1_Publish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-tower-kista/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria Tower in Kista north of Stockholm",
+    "credit": "Brorsson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kistavictoriahotelnr1_Publish.jpg",
+    "file": "File:Kistavictoriahotelnr1 Publish.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "maersk-tower",
@@ -210061,7 +211127,71 @@ window.BUILDINGS = [
   "commons": "Category:Mærsk Tårnet",
   "lead": "File:20170817 Maersktarnet Kobenhavn N8B0113 (37062192095).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/20170817_Maersktarnet_Kobenhavn_N8B0113_%2837062192095%29.jpg/1280px-20170817_Maersktarnet_Kobenhavn_N8B0113_%2837062192095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maersk-tower/thumbs/0.webp",
+    "w": 1280,
+    "h": 881,
+    "kind": "Exterior",
+    "caption": "Exterior · Mærsk tårnet, Københavns Universitet",
+    "credit": "Jenny Andersson /  News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20170817_Maersktarnet_Kobenhavn_N8B0113_(37062192095).jpg",
+    "file": "File:20170817 Maersktarnet Kobenhavn N8B0113 (37062192095).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/M%C3%A6rsk_Tower_01.jpg/1280px-M%C3%A6rsk_Tower_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maersk-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mærsk Tower in Copenhagen, Denmark",
+    "credit": "Ramblersen2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A6rsk_Tower_01.jpg",
+    "file": "File:Mærsk Tower 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/M%C3%A6rsk_Tower_from_N%C3%B8rre_All%C3%A9.jpg/1280px-M%C3%A6rsk_Tower_from_N%C3%B8rre_All%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maersk-tower/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mærsk Tower, part of the Panum Institute, in Copenhagen, Denmark",
+    "credit": "Ramblersen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A6rsk_Tower_from_N%C3%B8rre_All%C3%A9.jpg",
+    "file": "File:Mærsk Tower from Nørre Allé.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/M%C3%A6rsk_Tower_02.jpg/1280px-M%C3%A6rsk_Tower_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maersk-tower/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mærsk Tower in Copenhagen, Denmark",
+    "credit": "Ramblersen2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%A6rsk_Tower_02.jpg",
+    "file": "File:Mærsk Tower 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Blegdamsvej_12.jpg/1280px-Blegdamsvej_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maersk-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The street Blegdamsvej in Nørrebro in Copenhagen",
+    "credit": "Leif Jørgensen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blegdamsvej_12.jpg",
+    "file": "File:Blegdamsvej 12.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "daikanyama-t-site",
@@ -210085,7 +211215,83 @@ window.BUILDINGS = [
   "commons": "Category:Daikanyama T-Site",
   "lead": "File:Daikanyama T-SITE 2016-04-04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Daikanyama_T-SITE_2016-04-04.jpg/1280px-Daikanyama_T-SITE_2016-04-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/0.webp",
+    "w": 1280,
+    "h": 868,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jonathan Lin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daikanyama_T-SITE_2016-04-04.jpg",
+    "file": "File:Daikanyama T-SITE 2016-04-04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tsutaya-1.JPG/1280px-Tsutaya-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "江戸村のとくぞう  (Edomura no Tokuzo)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsutaya-1.JPG",
+    "file": "File:Tsutaya-1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Daikanyama_T-Site_%2852501525886%29.jpg/1280px-Daikanyama_T-Site_%2852501525886%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daikanyama_T-Site_(52501525886).jpg",
+    "file": "File:Daikanyama T-Site (52501525886).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tsutaya_Books_Daikanyama.jpg/1280px-Tsutaya_Books_Daikanyama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/3.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Tsutaya Books Daikanyama (bookstore in Tokyo)",
+    "credit": "Syced",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsutaya_Books_Daikanyama.jpg",
+    "file": "File:Tsutaya Books Daikanyama.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%E4%BB%A3%E5%AE%98%E5%B1%B1_%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97_%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_%2851778654064%29.jpg/1280px-%E4%BB%A3%E5%AE%98%E5%B1%B1_%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97_%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_%2851778654064%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Tatsuo Yamashita  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%BB%A3%E5%AE%98%E5%B1%B1_%E8%94%A6%E5%B1%8B%E6%9B%B8%E5%BA%97_%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8_(51778654064).jpg",
+    "file": "File:代官山 蔦屋書店 シェアラウンジ (51778654064).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E6%98%9F%E5%B7%B4%E5%85%8B_%2811539180884%29.jpg/1280px-%E6%98%9F%E5%B7%B4%E5%85%8B_%2811539180884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/daikanyama-t-site/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Richard, enjoy my life!  from 台北市, ROC Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%98%9F%E5%B7%B4%E5%85%8B_(11539180884).jpg",
+    "file": "File:星巴克 (11539180884).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dialogue-centre-przelomy",
@@ -210109,7 +211315,35 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Szczecin Centrum Dialogu Przelomy (dron).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Szczecin_Centrum_Dialogu_Przelomy_%28dron%29.jpg/1280px-Szczecin_Centrum_Dialogu_Przelomy_%28dron%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dialogue-centre-przelomy/thumbs/0.webp",
+    "w": 1280,
+    "h": 770,
+    "kind": "Exterior",
+    "caption": "Exterior · Centrum Dialogu \"Przełomy\" w Szczecinie",
+    "credit": "Kapitel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Szczecin_Centrum_Dialogu_Przelomy_(dron).jpg",
+    "file": "File:Szczecin Centrum Dialogu Przelomy (dron).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Szczecin_CD_Przelomy_%284%29.jpg/1280px-Szczecin_CD_Przelomy_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dialogue-centre-przelomy/thumbs/1.webp",
+    "w": 1280,
+    "h": 656,
+    "kind": "Exterior",
+    "caption": "Exterior · Budynek Centrum Dialogu \"Przełomy\" w Szczecinie",
+    "credit": "Kapitel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Szczecin_CD_Przelomy_(4).jpg",
+    "file": "File:Szczecin CD Przelomy (4).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "surat-diamond-bourse",
@@ -210133,7 +211367,35 @@ window.BUILDINGS = [
   "commons": "Category:Surat Diamond Bourse",
   "lead": "File:Surat Diamond Bourse Aerial View.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Surat_Diamond_Bourse_Aerial_View.jpg/1280px-Surat_Diamond_Bourse_Aerial_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/surat-diamond-bourse/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Surat Diamond Bourse Image",
+    "credit": "VaishP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Surat_Diamond_Bourse_Aerial_View.jpg",
+    "file": "File:Surat Diamond Bourse Aerial View.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Surat_Diamond_Bourse_Courts.jpg/1280px-Surat_Diamond_Bourse_Courts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/surat-diamond-bourse/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Surat Diamond Bourse Landscape - Panchtatva Courts",
+    "credit": "VaishP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Surat_Diamond_Bourse_Courts.jpg",
+    "file": "File:Surat Diamond Bourse Courts.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "qatar-faculty-of-islamic-studies",
@@ -210157,7 +211419,23 @@ window.BUILDINGS = [
   "commons": "Category:Qatar Faculty of Islamic Studies",
   "lead": "File:QFIs.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Qatar_Faculty_of_Islamic_Studies_under_construction_in_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/qatar-faculty-of-islamic-studies/thumbs/0.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Qatar Faculty of Islamic Studies under construction in Education City in 2014",
+    "credit": "Alex Sergeev (www.asergeev.com)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Qatar_Faculty_of_Islamic_Studies_under_construction_in_2014.jpg",
+    "file": "File:Qatar Faculty of Islamic Studies under construction in 2014.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "arena-zagreb",
@@ -210181,7 +211459,83 @@ window.BUILDINGS = [
   "commons": "Category:Arena Zagreb",
   "lead": "File:Arena Zagreb (Matjaž Mirt) - Flickr.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Arena_Zagreb_%28Matja%C5%BE_Mirt%29_-_Flickr.jpg/1280px-Arena_Zagreb_%28Matja%C5%BE_Mirt%29_-_Flickr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/0.webp",
+    "w": 1280,
+    "h": 946,
+    "kind": "Exterior",
+    "caption": "Exterior · The famous and aesthetic arena of Zagreb",
+    "credit": "Matjaž Mirt",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Zagreb_(Matja%C5%BE_Mirt)_-_Flickr.jpg",
+    "file": "File:Arena Zagreb (Matjaž Mirt) - Flickr.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Arena_Zagreb.jpg/1280px-Arena_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/1.webp",
+    "w": 1280,
+    "h": 788,
+    "kind": "Exterior",
+    "caption": "Exterior · Zagreb, Croatia",
+    "credit": "Sharon Hahn Darlin",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Zagreb.jpg",
+    "file": "File:Arena Zagreb.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Zagreb_Arena.jpg/1280px-Zagreb_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Storm is coming at the Arena",
+    "credit": "Miloš Vujčić",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zagreb_Arena.jpg",
+    "file": "File:Zagreb Arena.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Arena_Zagreb_-_akcija_rukometa%C5%A1a_RK_Zagreba_u_utakmici_s_HC_Barcelonom_%2825.09.2025.%29.jpg/1280px-Arena_Zagreb_-_akcija_rukometa%C5%A1a_RK_Zagreba_u_utakmici_s_HC_Barcelonom_%2825.09.2025.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Zagreb Arena,Croatia,on 25.September 2025 -handballers of RK Zagreb in action against HC Barcelona",
+    "credit": "Silverije",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Zagreb_-_akcija_rukometa%C5%A1a_RK_Zagreba_u_utakmici_s_HC_Barcelonom_(25.09.2025.).jpg",
+    "file": "File:Arena Zagreb - akcija rukometaša RK Zagreba u utakmici s HC Barcelonom (25.09.2025.).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Arena_Zagreb_-_publika_na_rukometnoj_utakmici_RK_Zagreba_protiv_HC_Barcelone_%2825.09.2025.%29.jpg/1280px-Arena_Zagreb_-_publika_na_rukometnoj_utakmici_RK_Zagreba_protiv_HC_Barcelone_%2825.09.2025.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Zagreb Arena,Croatia,on 25.September 2025 -audience at RK Zagreb v",
+    "credit": "Silverije",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Zagreb_-_publika_na_rukometnoj_utakmici_RK_Zagreba_protiv_HC_Barcelone_(25.09.2025.).jpg",
+    "file": "File:Arena Zagreb - publika na rukometnoj utakmici RK Zagreba protiv HC Barcelone (25.09.2025.).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arena_Zagreb_-_rukometa%C5%A1i_Aalborg_H%C3%A5ndbolda_pred_po%C4%8Detak_utakmice_s_RK_Zagrebom_%2818.09.2024.%29.jpg/1280px-Arena_Zagreb_-_rukometa%C5%A1i_Aalborg_H%C3%A5ndbolda_pred_po%C4%8Detak_utakmice_s_RK_Zagrebom_%2818.09.2024.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arena-zagreb/thumbs/5.webp",
+    "w": 1280,
+    "h": 928,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Silverije",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Zagreb_-_rukometa%C5%A1i_Aalborg_H%C3%A5ndbolda_pred_po%C4%8Detak_utakmice_s_RK_Zagrebom_(18.09.2024.).jpg",
+    "file": "File:Arena Zagreb - rukometaši Aalborg Håndbolda pred početak utakmice s RK Zagrebom (18.09.2024.).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museo-memoria-y-tolerancia",
@@ -210205,7 +211559,83 @@ window.BUILDINGS = [
   "commons": "Category:Museo Memoria y Tolerancia",
   "lead": "File:Museo Memoria y Tolerancia 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Museo_Memoria_y_Tolerancia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/0.webp",
+    "w": 1200,
+    "h": 600,
+    "kind": "Exterior",
+    "caption": "Exterior · Vista exterior del Museo Memoria y Tolerancia",
+    "credit": "Museo Memoria y Tolerancia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Memoria_y_Tolerancia_2.jpg",
+    "file": "File:Museo Memoria y Tolerancia 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Mus%C3%A9e_M%C3%A9moire_et_Tol%C3%A9rance_-_Mexico.jpg/1280px-Mus%C3%A9e_M%C3%A9moire_et_Tol%C3%A9rance_-_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Musée Mémoire et Tolérance - Mexico",
+    "credit": "Benoît Prieur",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_M%C3%A9moire_et_Tol%C3%A9rance_-_Mexico.jpg",
+    "file": "File:Musée Mémoire et Tolérance - Mexico.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/MuseoMemoriaToleranciaConferencia_ohs01.jpg/1280px-MuseoMemoriaToleranciaConferencia_ohs01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo memoria y tolerancia",
+    "credit": "PetrohsW",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MuseoMemoriaToleranciaConferencia_ohs01.jpg",
+    "file": "File:MuseoMemoriaToleranciaConferencia ohs01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/MuseoMemoriaToleranciaConferencia_ohs02.jpg/1280px-MuseoMemoriaToleranciaConferencia_ohs02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Conferencia sobre la SS",
+    "credit": "PetrohsW",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MuseoMemoriaToleranciaConferencia_ohs02.jpg",
+    "file": "File:MuseoMemoriaToleranciaConferencia ohs02.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/El_Potencial_Perdido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/4.webp",
+    "w": 1200,
+    "h": 600,
+    "kind": "Interior",
+    "caption": "Interior · Detalle del interior del cubo de Jan Hendrix",
+    "credit": "Museo Memoria y Tolerancia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Potencial_Perdido.jpg",
+    "file": "File:El Potencial Perdido.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Museo_Memoria_y_Tolerancia_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/museo-memoria-y-tolerancia/thumbs/5.webp",
+    "w": 1200,
+    "h": 600,
+    "kind": "Interior",
+    "caption": "Interior · Vista interior del Museo Memoria y Tolerancia",
+    "credit": "Museo Memoria y Tolerancia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Memoria_y_Tolerancia_3.jpg",
+    "file": "File:Museo Memoria y Tolerancia 3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "us-bank-stadium",
@@ -210229,7 +211659,83 @@ window.BUILDINGS = [
   "commons": "Category:U.S. Bank Stadium",
   "lead": "File:US Bank Stadium - West Facade.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Bank_Stadium_-_West_Facade.jpg/1280px-US_Bank_Stadium_-_West_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Detail",
+    "caption": "Detail · US Bank Stadium as seen from the west",
+    "credit": "Darb02",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Bank_Stadium_-_West_Facade.jpg",
+    "file": "File:US Bank Stadium - West Facade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/U.S._Bank_Stadium.jpg/1280px-U.S._Bank_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · US bank stadium seen from the air on August 6th 2021",
+    "credit": "Lectrician2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:U.S._Bank_Stadium.jpg",
+    "file": "File:U.S. Bank Stadium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/DSC09256_%2839231127230%29.jpg/1280px-DSC09256_%2839231127230%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Greg Gjerdingen  from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC09256_(39231127230).jpg",
+    "file": "File:DSC09256 (39231127230).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Looking_South-US_Bank_Stadium.jpg/1280px-Looking_South-US_Bank_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/3.webp",
+    "w": 1280,
+    "h": 619,
+    "kind": "Exterior",
+    "caption": "Exterior · Looking South-US Bank Stadium Scrimmage Vikings vs",
+    "credit": "Myotus",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Looking_South-US_Bank_Stadium.jpg",
+    "file": "File:Looking South-US Bank Stadium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Minneapolis_April_2025_18_%28U.S._Bank_Stadium%29.jpg/1280px-Minneapolis_April_2025_18_%28U.S._Bank_Stadium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · U.S",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_April_2025_18_(U.S._Bank_Stadium).jpg",
+    "file": "File:Minneapolis April 2025 18 (U.S. Bank Stadium).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/51st_Annual_O%27Reilly_Auto_Parts_World_of_Wheels%2C_US_Bank_Stadium.jpg/1280px-51st_Annual_O%27Reilly_Auto_Parts_World_of_Wheels%2C_US_Bank_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/us-bank-stadium/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · 51st Annual O'Reilly Auto Parts World of Wheels US Bank Stadium 401 Chicago Avenue Minneapolis Minnesota",
+    "credit": "Greg Gjerdingen  from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:51st_Annual_O%27Reilly_Auto_Parts_World_of_Wheels,_US_Bank_Stadium.jpg",
+    "file": "File:51st Annual O'Reilly Auto Parts World of Wheels, US Bank Stadium.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tkts-booth-times-square",
@@ -210253,7 +211759,83 @@ window.BUILDINGS = [
   "commons": "Category:TKTS Booth",
   "lead": "File:TKTS - Times Square, New York, NY, USA - August 19, 2015 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/TKTS_-_Times_Square%2C_New_York%2C_NY%2C_USA_-_August_19%2C_2015_01.jpg/1280px-TKTS_-_Times_Square%2C_New_York%2C_NY%2C_USA_-_August_19%2C_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/0.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Context",
+    "caption": "Context · TKTS Booth - Times Square, New York, NY, USA",
+    "credit": "Giorgio Galeotti",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TKTS_-_Times_Square,_New_York,_NY,_USA_-_August_19,_2015_01.jpg",
+    "file": "File:TKTS - Times Square, New York, NY, USA - August 19, 2015 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/TKTS_red_stairs_jeh.JPG/1280px-TKTS_red_stairs_jeh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/1.webp",
+    "w": 1280,
+    "h": 944,
+    "kind": "Interior",
+    "caption": "Interior · Looking north at red stairs of en:TKTS booth on a sunny early afternoon",
+    "credit": "Jim.henderson",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:TKTS_red_stairs_jeh.JPG",
+    "file": "File:TKTS red stairs jeh.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Times_Square_New_York_%2811600844266%29.jpg/1280px-Times_Square_New_York_%2811600844266%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Times Square New York",
+    "credit": "Mack Male  from Edmonton, AB, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Times_Square_New_York_(11600844266).jpg",
+    "file": "File:Times Square New York (11600844266).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Times_Square_New_York_%2811599403435%29.jpg/1280px-Times_Square_New_York_%2811599403435%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Times Square New York",
+    "credit": "Mack Male  from Edmonton, AB, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Times_Square_New_York_(11599403435).jpg",
+    "file": "File:Times Square New York (11599403435).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Times_Square%2C_New_York_City%2C_20231003_1232_1916.jpg/1280px-Times_Square%2C_New_York_City%2C_20231003_1232_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Times Square, Manhattan, New York",
+    "credit": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Times_Square,_New_York_City,_20231003_1232_1916.jpg",
+    "file": "File:Times Square, New York City, 20231003 1232 1916.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/NASA_Mars_Perseverance_Live_at_One_Times_Square_%28NHQ202102180103%29.jpg/1280px-NASA_Mars_Perseverance_Live_at_One_Times_Square_%28NHQ202102180103%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tkts-booth-times-square/thumbs/5.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "NASA Headquarters / NASA/Emma Howells",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA_Mars_Perseverance_Live_at_One_Times_Square_(NHQ202102180103).jpg",
+    "file": "File:NASA Mars Perseverance Live at One Times Square (NHQ202102180103).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "scale-lane-bridge",
@@ -210277,7 +211859,83 @@ window.BUILDINGS = [
   "commons": "Category:Scale Lane Bridge, Kingston upon Hull",
   "lead": "File:Scale Lane Bridge Span Overview, Kingston upon Hull Feb25.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Scale_Lane_Bridge_Span_Overview%2C_Kingston_upon_Hull_Feb25.jpg/1280px-Scale_Lane_Bridge_Span_Overview%2C_Kingston_upon_Hull_Feb25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scale-lane-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hullian111",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scale_Lane_Bridge_Span_Overview,_Kingston_upon_Hull_Feb25.jpg",
+    "file": "File:Scale Lane Bridge Span Overview, Kingston upon Hull Feb25.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Scale_Lane_Bridge_-_geograph.org.uk_-_3895813.jpg/1280px-Scale_Lane_Bridge_-_geograph.org.uk_-_3895813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scale-lane-bridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Malcolm Sandilands",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scale_Lane_Bridge_-_geograph.org.uk_-_3895813.jpg",
+    "file": "File:Scale Lane Bridge - geograph.org.uk - 3895813.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Scale_Lane_Bridge_-_geograph.org.uk_-_3894765.jpg/1280px-Scale_Lane_Bridge_-_geograph.org.uk_-_3894765.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scale-lane-bridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Malcolm Sandilands",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scale_Lane_Bridge_-_geograph.org.uk_-_3894765.jpg",
+    "file": "File:Scale Lane Bridge - geograph.org.uk - 3894765.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Scale_lane_bridge_under_construction.jpg/1280px-Scale_lane_bridge_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scale-lane-bridge/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This file was uploaded with Commonist ",
+    "credit": "User:Imagaril",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scale_lane_bridge_under_construction.jpg",
+    "file": "File:Scale lane bridge under construction.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fish_sculpture_at_Scale_Lane_Foot_Bridge_-_geograph.org.uk_-_4800115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/scale-lane-bridge/thumbs/4.webp",
+    "w": 1200,
+    "h": 799,
+    "kind": "Detail",
+    "caption": "Detail · Fish sculpture at Scale Lane Foot Bridge",
+    "credit": "Ian S",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fish_sculpture_at_Scale_Lane_Foot_Bridge_-_geograph.org.uk_-_4800115.jpg",
+    "file": "File:Fish sculpture at Scale Lane Foot Bridge - geograph.org.uk - 4800115.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Fishtrail.jpg/1280px-Fishtrail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scale-lane-bridge/thumbs/5.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Eel",
+    "credit": "Segundonome",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fishtrail.jpg",
+    "file": "File:Fishtrail.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-jakarta-amsterdam",
@@ -210301,7 +211959,71 @@ window.BUILDINGS = [
   "commons": "Category:Javakade 766, Amsterdam",
   "lead": "File:Javakade 766 (4).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Javakade_766_%284%29.jpg/1280px-Javakade_766_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-jakarta-amsterdam/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Noordoostgevel van Javakade 766, Amsterdam",
+    "credit": "Ceescamel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Javakade_766_(4).jpg",
+    "file": "File:Javakade 766 (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Amsterdam%2C_Hotel_Jakarta_%28cropped%29.jpg/1280px-Amsterdam%2C_Hotel_Jakarta_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-jakarta-amsterdam/thumbs/1.webp",
+    "w": 984,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · South elevation Hotel Jakarta, Java-eiland, Amsterdam, the Netherlands",
+    "credit": "Ainali",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Hotel_Jakarta_(cropped).jpg",
+    "file": "File:Amsterdam, Hotel Jakarta (cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2023_Amsterdam%2C_Hotel_Jakarta_%2801%29.jpg/1280px-2023_Amsterdam%2C_Hotel_Jakarta_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-jakarta-amsterdam/thumbs/2.webp",
+    "w": 1280,
+    "h": 698,
+    "kind": "Exterior",
+    "caption": "Exterior · Hotel Jakarta aan de Javakade op het Java-eiland, Oostelijk Havengebied, Amsterdam",
+    "credit": "Kleon3",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Amsterdam,_Hotel_Jakarta_(01).jpg",
+    "file": "File:2023 Amsterdam, Hotel Jakarta (01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Brug_2000_in_2019_%2824%29.jpg/1280px-Brug_2000_in_2019_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-jakarta-amsterdam/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Toerit van Brug 2000, Jan Schaeferbrug met rechts Hotel Jakarta",
+    "credit": "Ceescamel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brug_2000_in_2019_(24).jpg",
+    "file": "File:Brug 2000 in 2019 (24).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2023_Amsterdam%2C_Hotel_Jakarta_%2802%29.jpg/1280px-2023_Amsterdam%2C_Hotel_Jakarta_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-jakarta-amsterdam/thumbs/4.webp",
+    "w": 1280,
+    "h": 819,
+    "kind": "Interior",
+    "caption": "Interior · Botanische tuin van Hotel Jakarta op het Java-eiland, Oostelijk Havengebied, Amsterdam",
+    "credit": "Kleon3",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Amsterdam,_Hotel_Jakarta_(02).jpg",
+    "file": "File:2023 Amsterdam, Hotel Jakarta (02).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ravenscar-house-museum",
@@ -210325,7 +212047,23 @@ window.BUILDINGS = [
   "commons": "Category:Ravenscar House Museum",
   "lead": "File:Ravenscar House Museum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ravenscar_House_Museum.jpg/1280px-Ravenscar_House_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ravenscar-house-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 551,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Quilt Phase",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ravenscar_House_Museum.jpg",
+    "file": "File:Ravenscar House Museum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "university-childrens-hospital-zurich",
@@ -210386,7 +212124,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Nbf osaki building 2014.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Nbf_osaki_building_2014.jpg/1280px-Nbf_osaki_building_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sony-city-osaki/thumbs/0.webp",
+    "w": 1280,
+    "h": 868,
+    "kind": "Exterior",
+    "caption": "Exterior · A photo of NBF Osaki Building(former SONY City Osaki)Osaki,Shinagawa-ku,Tokyo,Japan",
+    "credit": "Kentin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nbf_osaki_building_2014.jpg",
+    "file": "File:Nbf osaki building 2014.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "belarusian-memorial-chapel",
@@ -210410,7 +212164,83 @@ window.BUILDINGS = [
   "commons": "Category:Belarusian Church, London N12",
   "lead": "File:Belarusian Memorial Chapel, North Finchley, July 2023.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Belarusian_Memorial_Chapel%2C_North_Finchley%2C_July_2023.jpg/1280px-Belarusian_Memorial_Chapel%2C_North_Finchley%2C_July_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Belarusian Memorial Chapel, North Finchley, July 2023",
+    "credit": "No Swan So Fine",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belarusian_Memorial_Chapel,_North_Finchley,_July_2023.jpg",
+    "file": "File:Belarusian Memorial Chapel, North Finchley, July 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People_%282016-11-24%29.jpg/1280px-Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People_%282016-11-24%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Nieszczarda2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People_(2016-11-24).jpg",
+    "file": "File:Church of St Cyril of Turau and All the Patron Saints of the Belarusian People (2016-11-24).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Belarusian_Church_of_London.jpg/1280px-Belarusian_Church_of_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/2.webp",
+    "w": 1227,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Belarusian Church of London",
+    "credit": "Aleksandrs Čaičics",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belarusian_Church_of_London.jpg",
+    "file": "File:Belarusian Church of London.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Vera_Rich_Memorial_London_Church.jpg/1280px-Vera_Rich_Memorial_London_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/3.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ihar Ivanou",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vera_Rich_Memorial_London_Church.jpg",
+    "file": "File:Vera Rich Memorial London Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People.jpg/1280px-Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/4.webp",
+    "w": 1280,
+    "h": 920,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nieszczarda2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_St_Cyril_of_Turau_and_All_the_Patron_Saints_of_the_Belarusian_People.jpg",
+    "file": "File:Church of St Cyril of Turau and All the Patron Saints of the Belarusian People.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Belarusian_Church_of_London_Interiors_1.jpg/1280px-Belarusian_Church_of_London_Interiors_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/belarusian-memorial-chapel/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interiors of the Belarusian Church of London",
+    "credit": "Aleksandrs Čaičics",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belarusian_Church_of_London_Interiors_1.jpg",
+    "file": "File:Belarusian Church of London Interiors 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "central-saint-martins-granary",
@@ -210434,7 +212264,83 @@ window.BUILDINGS = [
   "commons": "Category:The Granary, King's Cross Central",
   "lead": "File:University of the Arts, London - geograph.org.uk - 3378403.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/University_of_the_Arts%2C_London_-_geograph.org.uk_-_3378403.jpg/1280px-University_of_the_Arts%2C_London_-_geograph.org.uk_-_3378403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · University of the Arts, London",
+    "credit": "Peter Trimming",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_the_Arts,_London_-_geograph.org.uk_-_3378403.jpg",
+    "file": "File:University of the Arts, London - geograph.org.uk - 3378403.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Granary.jpg/1280px-The_Granary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Stefan Wolmarans",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Granary.jpg",
+    "file": "File:The Granary.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/London%2C_Camden%2C_Granary_Square_%28101%29.jpg/1280px-London%2C_Camden%2C_Granary_Square_%28101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · London, Camden, Fountain at Granary Square near King's Cross",
+    "credit": "GilPe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London,_Camden,_Granary_Square_(101).jpg",
+    "file": "File:London, Camden, Granary Square (101).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/London%2C_Camden%2C_Granary_Square_%28102%29.jpg/1280px-London%2C_Camden%2C_Granary_Square_%28102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · London, Camden, Fountain at Granary Square near King's Cross",
+    "credit": "GilPe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London,_Camden,_Granary_Square_(102).jpg",
+    "file": "File:London, Camden, Granary Square (102).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Granary_Square_Aston_Martin_0631.JPG/1280px-Granary_Square_Aston_Martin_0631.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · 1935 Aston Martin Mk II convertible, chassis and engine numbers C5/557/L, in Granary Square, London NW1",
+    "credit": "Photograph by  Clem Rutter, Rochester, Kent.  ( www.clemrutter.net ).",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Granary_Square_Aston_Martin_0631.JPG",
+    "file": "File:Granary Square Aston Martin 0631.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Granary_Building_at_night_2024-03-09.jpg/1280px-Granary_Building_at_night_2024-03-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-martins-granary/thumbs/5.webp",
+    "w": 1151,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · 2024-03-09",
+    "credit": "Matt Brown",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Granary_Building_at_night_2024-03-09.jpg",
+    "file": "File:Granary Building at night 2024-03-09.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "victoria-gate-leeds",
@@ -210458,7 +212364,83 @@ window.BUILDINGS = [
   "commons": "Category:Victoria Gate, Leeds",
   "lead": "File:Victoria Gate seen across St. Peter's Street, Leeds (13th December 2018).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Victoria_Gate_seen_across_St._Peter%27s_Street%2C_Leeds_%2813th_December_2018%29.jpg/1280px-Victoria_Gate_seen_across_St._Peter%27s_Street%2C_Leeds_%2813th_December_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Victoria Gate seen across St",
+    "credit": "Mtaylor848",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Gate_seen_across_St._Peter%27s_Street,_Leeds_(13th_December_2018).jpg",
+    "file": "File:Victoria Gate seen across St. Peter's Street, Leeds (13th December 2018).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Looking_across_Vicar_Lane%2C_to_Victoria_Gate%2C_Leeds_%2814th_November_2018%29.jpg/1280px-Looking_across_Vicar_Lane%2C_to_Victoria_Gate%2C_Leeds_%2814th_November_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Looking across Vicar Lane, to Victoria Gate, Leeds, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Looking_across_Vicar_Lane,_to_Victoria_Gate,_Leeds_(14th_November_2018).jpg",
+    "file": "File:Looking across Vicar Lane, to Victoria Gate, Leeds (14th November 2018).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Victoria_Gate_-_30178005210.jpg/1280px-Victoria_Gate_-_30178005210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Leeds",
+    "credit": "Tim Green",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Gate_-_30178005210.jpg",
+    "file": "File:Victoria Gate - 30178005210.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/LEEDS_2023_base_in_Victoria_Gate%2C_a_shopping_centre_in_Leeds._As_You_Are_by_Abel_Selacoe_started_from_this_temporary_office.jpg/1280px-LEEDS_2023_base_in_Victoria_Gate%2C_a_shopping_centre_in_Leeds._As_You_Are_by_Abel_Selacoe_started_from_this_temporary_office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/3.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · LEEDS 2023 base in Victoria Gate, a shopping centre in Leeds",
+    "credit": "Lajmmoore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LEEDS_2023_base_in_Victoria_Gate,_a_shopping_centre_in_Leeds._As_You_Are_by_Abel_Selacoe_started_from_this_temporary_office.jpg",
+    "file": "File:LEEDS 2023 base in Victoria Gate, a shopping centre in Leeds. As You Are by Abel Selacoe started from this temporary office.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Victoria_Gate_Flickr_2016.jpg/1280px-Victoria_Gate_Flickr_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/4.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Leeds",
+    "credit": "Tim Green",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Gate_Flickr_2016.jpg",
+    "file": "File:Victoria Gate Flickr 2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Interior_of_Victoria_Gate%2C_Leeds_%2814th_November_2018%29_001.jpg/1280px-Interior_of_Victoria_Gate%2C_Leeds_%2814th_November_2018%29_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-gate-leeds/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Victoria Gate, Leeds, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Victoria_Gate,_Leeds_(14th_November_2018)_001.jpg",
+    "file": "File:Interior of Victoria Gate, Leeds (14th November 2018) 001.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "quzhou-stadium",
@@ -210519,7 +212501,83 @@ window.BUILDINGS = [
   "commons": "Category:Sara Kulturhus",
   "lead": "File:Sara Kulturhus juli 2021.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Sara_Kulturhus_juli_2021.jpg/1280px-Sara_Kulturhus_juli_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/0.webp",
+    "w": 1038,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sara Kulturhus i juli 2021",
+    "credit": "Spisen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sara_Kulturhus_juli_2021.jpg",
+    "file": "File:Sara Kulturhus juli 2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sara_Kulturhus.jpg/1280px-Sara_Kulturhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/1.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sara Kulturhus under Skellefteå Pride Februari 2022",
+    "credit": "Papmeister",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sara_Kulturhus.jpg",
+    "file": "File:Sara Kulturhus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Sara_Kulturhus_november_2019.jpg/1280px-Sara_Kulturhus_november_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Sara Kulturhus under konstruktion i november 2019",
+    "credit": "Spisen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sara_Kulturhus_november_2019.jpg",
+    "file": "File:Sara Kulturhus november 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/M%C3%B6jligheternas_torg_och_Sara.jpg/1280px-M%C3%B6jligheternas_torg_och_Sara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/3.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Vy från RiksCity-huset över Möjligheternas torg och tomten där Sara kulturhus byggs",
+    "credit": "Enar Nordvik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:M%C3%B6jligheternas_torg_och_Sara.jpg",
+    "file": "File:Möjligheternas torg och Sara.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Vila%26Famna.jpg/1280px-Vila%26Famna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Stina Wirséns och Klara Wirsén Suchowiaks skulpturer Vila & Famna som placerats utanför Sara kulturhus",
+    "credit": "NnieAndersson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vila%26Famna.jpg",
+    "file": "File:Vila&Famna.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Vila_och_Famna.jpg/1280px-Vila_och_Famna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sara-kulturhus/thumbs/5.webp",
+    "w": 1280,
+    "h": 753,
+    "kind": "Detail",
+    "caption": "Detail · Stina Wirséns och Klara Wirsén Suchowiaks skulpturer Vila & Famna som placerats utanför Sara kulturhus",
+    "credit": "NnieAndersson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vila_och_Famna.jpg",
+    "file": "File:Vila och Famna.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "forskaren-stockholm",
@@ -210540,10 +212598,86 @@ window.BUILDINGS = [
   ],
   "study": "Round life-science building of stacked floor rings wrapped in slim vertical fins, around a shared atrium.",
   "qid": null,
-  "commons": null,
+  "commons": "Category:Forskaren (building)",
   "lead": "File:Kvarteret Forskaren Hagastaden juli 2022.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kvarteret_Forskaren_Hagastaden_juli_2022.jpg/1280px-Kvarteret_Forskaren_Hagastaden_juli_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/0.webp",
+    "w": 1280,
+    "h": 867,
+    "kind": "Exterior",
+    "caption": "Exterior · Kvarteret Forskaren, Hagastaden, Stockholm i juli 2022",
+    "credit": "Johannes Scherman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kvarteret_Forskaren_Hagastaden_juli_2022.jpg",
+    "file": "File:Kvarteret Forskaren Hagastaden juli 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Forskaren_April_2025_01.jpg/1280px-Forskaren_April_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/1.webp",
+    "w": 1200,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Forskaren life science centre building in Stockholm, Sweden",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forskaren_April_2025_01.jpg",
+    "file": "File:Forskaren April 2025 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Forskaren_April_2025_02.jpg/1280px-Forskaren_April_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Forskaren life science centre building in Stockholm, Sweden",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forskaren_April_2025_02.jpg",
+    "file": "File:Forskaren April 2025 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Forskaren_01_by_Hagaplan_Stockholm-Solna_June_2024.jpg/1280px-Forskaren_01_by_Hagaplan_Stockholm-Solna_June_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/3.webp",
+    "w": 1280,
+    "h": 993,
+    "kind": "Exterior",
+    "caption": "Exterior · Forskaren life science centre in Stockholm/Solna in Sweden",
+    "credit": "Sinikka Halme",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forskaren_01_by_Hagaplan_Stockholm-Solna_June_2024.jpg",
+    "file": "File:Forskaren 01 by Hagaplan Stockholm-Solna June 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Forskaren_interior_03.jpg/1280px-Forskaren_interior_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Forskaren life science centre in Stockholm/Solna in Sweden",
+    "credit": "Sinikka Halme",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forskaren_interior_03.jpg",
+    "file": "File:Forskaren interior 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Forskaren_interior_04.jpg/1280px-Forskaren_interior_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forskaren-stockholm/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Forskaren life science centre in Stockholm/Solna in Sweden",
+    "credit": "Sinikka Halme",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Forskaren_interior_04.jpg",
+    "file": "File:Forskaren interior 04.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "paula-fox-melanoma-and-cancer-centre",
@@ -210567,6 +212701,22 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Paula Fox melanoma centre.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Paula_Fox_melanoma_centre.jpg/1280px-Paula_Fox_melanoma_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/paula-fox-melanoma-and-cancer-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · The Paula Fox Melanoma and Cancer Centre",
+    "credit": "ZonkaWonka",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Paula_Fox_melanoma_centre.jpg",
+    "file": "File:Paula Fox melanoma centre.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
