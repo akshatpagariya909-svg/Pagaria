@@ -34,3 +34,6 @@ general-motors-technical-center  # lead photo still didn't show the building (Oc
 philip-merrill-environmental-center  # lead photo still didn't show the building (Oct 13 review)
 evelyn-grace-academy  # lead photo still didn't show the building (Oct 13 review)
 children-village-canuana  # drawing too generic to read as the building (Oct 13 review)
+corbusierhaus-berlin  # duplicate: already on the wall as unite-d-habitation-berlin
+edificio-esther-sao-paulo  # duplicate of edificio-esther (round 4 Latin America)
+palazzo-mondadori  # duplicate of mondadori-palace (round 4 Pritzker)
