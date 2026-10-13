@@ -196810,7 +196810,7 @@ window.BUILDINGS = [
  {
   "id": "grand-theatre-de-rabat",
   "n": 2086,
-  "name": "Grand Théâtre de Rabat",
+  "name": "Royal Theatre of Rabat",
   "by": "Zaha Hadid Architects",
   "place": "Rabat, MA",
   "year": "2021",
