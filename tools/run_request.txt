@@ -1,2 +1,2 @@
 python -u tools/fetch_pritzker.py
-Save each Pritzker jury citation from the prize site, to choose the medal card lines by hand.
+Save each Pritzker jury citation, now following the Citation links of older years.

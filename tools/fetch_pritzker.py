@@ -59,22 +59,31 @@ def main():
     report = [f'{len(urls)} pages found on {SITE}', '']
     for e in found:
         year, surnames = str(e['year']), [slug(n).split('-')[-1] for n in e['laureates']]
-        cands = [u for u in urls if year in u or any(s and s in u.lower() for s in surnames)]
-        cands.sort(key=lambda u: (('citation' not in u.lower() and 'jury' not in u.lower()), len(u)))
-        best = None
-        for u in cands[:8]:
-            t = text(get(u))
+        cands = [u for u in urls if re.search(r'/laureates/[^/]*' + year, u) or any(s and s in u.lower() for s in surnames)]
+        cands += [SITE + '/laureates/' + year] + [SITE + '/laureates/' + slug(n) for n in e['laureates']]
+        cands = list(dict.fromkeys(cands))
+        saved, seen = [], set()
+        for u in cands[:6]:  # a laureate page; older years keep the citation on a page it links to
+            page = get(u)
             time.sleep(1)
-            i = max(t.lower().find('jury citation'), t.lower().find('citation'))
-            if i >= 0 and any(s in slug(t).replace('-', ' ') for s in surnames):
-                best = (u, t[i:i + 9000])
-                if 'jury citation' in t.lower():
-                    break
-        if best:
-            (OUT / f'{year}.txt').write_text(best[0] + '\n\n' + best[1] + '\n', encoding='utf-8')
-            report.append(f'{year} {" & ".join(e["laureates"])}: {best[0]}')
+            if not page or not any(s in slug(text(page)).replace('-', ' ') for s in surnames):
+                continue
+            subs = [h if h.startswith('http') else SITE + h for h in re.findall(r'href="([^"#?]+)"[^>]*>(?:(?!</a>).)*?citation', page, re.I | re.S)]
+            subs += [h if h.startswith('http') else SITE + h for h in re.findall(r'href="([^"#?]*citation[^"#?]*)"', page, re.I)]
+            for v in [u] + list(dict.fromkeys(subs))[:3]:
+                if v in seen:
+                    continue
+                seen.add(v)
+                t = text(page if v == u else get(v))
+                if v != u:
+                    time.sleep(1)
+                if len(t) > 400:
+                    saved.append(v + '\n\n' + t[:8000])
+        if saved:
+            (OUT / f'{year}.txt').write_text('\n\n=====\n\n'.join(saved) + '\n', encoding='utf-8')
+            report.append(f'{year} {" & ".join(e["laureates"])}: {len(saved)} page(s), ' + ', '.join(x.split(chr(10))[0] for x in saved))
         else:
-            report.append(f'{year} {" & ".join(e["laureates"])}: no citation found (tried {len(cands)} pages: {", ".join(cands[:4])})')
+            report.append(f'{year} {" & ".join(e["laureates"])}: no citation found (tried {", ".join(cands[:4])})')
         print(report[-1])
     (OUT / 'report.txt').write_text('\n'.join(report) + '\n', encoding='utf-8')
 
