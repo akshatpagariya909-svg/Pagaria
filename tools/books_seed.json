@@ -15458,5 +15458,1597 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "sustainable-cities",
+  "title": "Sustainable Cities",
+  "by": "Graham Haughton, Colin Hunter",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Cities",
+  "why": "A study of what makes a city sustainable and how planning can help.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-historic-urban-landscape-managing-heritage-in-an-urban-c",
+  "title": "The Historic Urban Landscape: Managing Heritage in an Urban Century",
+  "by": "Francesco Bandarin, Ron van Oers",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Cities",
+  "why": "On how to manage and conserve historic cities as they grow.",
+  "tags": [
+   "Heritage",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-spaces-in-japan-cultural-and-social-perspectives",
+  "title": "Urban Spaces in Japan: Cultural and Social Perspectives",
+  "by": "Christoph Brumann, Evelyn Schulz",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Cities",
+  "why": "Essays on how Japanese cities are built and lived in.",
+  "tags": [
+   "Japan",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modernism-and-the-spirit-of-the-city",
+  "title": "Modernism and the Spirit of the City",
+  "by": "Iain Boyd Whyte",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Cities",
+  "why": "Essays on modern architecture and the city.",
+  "tags": [
+   "Modernism",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-evolving-arab-city-tradition-modernity-and-urban-develop",
+  "title": "The Evolving Arab City: Tradition, Modernity and Urban Development",
+  "by": "Yasser Elsheshtawy",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Cities",
+  "why": "Essays on how Arab cities are changing.",
+  "tags": [
+   "Islamic",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-dynamics",
+  "title": "Urban Dynamics",
+  "by": "Jay W. Forrester",
+  "year": "1969",
+  "y": 1969,
+  "shelf": "Cities",
+  "why": "Forrester's computer model of how a city grows and declines.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-greening-of-the-cities",
+  "title": "The Greening of the Cities",
+  "by": "David Nicholson-Lord",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "Cities",
+  "why": "A look at bringing nature back into the city.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "rural-by-design-maintaining-small-town-character",
+  "title": "Rural by Design: Maintaining Small Town Character",
+  "by": "Randall Arendt",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Cities",
+  "why": "A guide to planning small towns and rural land.",
+  "tags": [
+   "Planning",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-transformations-power-people-and-urban-design",
+  "title": "Urban Transformations: Power, People and Urban Design",
+  "by": "Ian Bentley",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Cities",
+  "why": "Bentley on how urban design can give people more say over their places.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "shaping-the-city-studies-in-history-theory-and-urban-design",
+  "title": "Shaping the City: Studies in History, Theory and Urban Design",
+  "by": "Rodolphe el-Khoury, Edward Robbins",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Cities",
+  "why": "Essays on the history and theory of urban design.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-city-of-man",
+  "title": "The City of Man",
+  "by": "Christopher Tunnard",
+  "year": "1953",
+  "y": 1953,
+  "shelf": "Cities",
+  "why": "A history of cities and an argument for their planning.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-urban-design-reader",
+  "title": "The Urban Design Reader",
+  "by": "Michael Larice, Elizabeth Macdonald",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Cities",
+  "why": "A collection of key writings on urban design.",
+  "tags": [
+   "Cities",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "adapting-cities-to-climate-change-understanding-and-addressi",
+  "title": "Adapting Cities to Climate Change: Understanding and Addressing the Development Challenges",
+  "by": "Jane Bicknell, David Dodman, David Satterthwaite",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Cities",
+  "why": "Essays on how cities can adapt to climate change.",
+  "tags": [
+   "Climate",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscapes-of-memory-and-experience",
+  "title": "Landscapes of Memory and Experience",
+  "by": "Jan Birksted",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Landscape",
+  "why": "Essays on how people remember and experience landscape.",
+  "tags": [
+   "Landscape",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-history-of-garden-design",
+  "title": "A History of Garden Design",
+  "by": "Derek Clifford",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Landscape",
+  "why": "A history of garden design in Europe.",
+  "tags": [
+   "Gardens",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-introduction-to-landscape-architecture",
+  "title": "An Introduction to Landscape Architecture",
+  "by": "Michael Laurie",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Landscape",
+  "why": "A short introduction to the profession of landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "routledge-companion-to-landscape-studies",
+  "title": "Routledge Companion to Landscape Studies",
+  "by": "Peter Howard, Ian Thompson, Emma Waterton",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Landscape",
+  "why": "A set of essays surveying landscape studies.",
+  "tags": [
+   "Landscape",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-architectural-graphic-standards",
+  "title": "Landscape Architectural Graphic Standards",
+  "by": "Leonard J. Hopper",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Landscape",
+  "why": "A reference of standards and drawings for landscape architects.",
+  "tags": [
+   "Landscape",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-introduction-to-the-study-of-landscape-design",
+  "title": "An Introduction to the Study of Landscape Design",
+  "by": "Henry Vincent Hubbard, Theodora Kimball",
+  "year": "1917",
+  "y": 1917,
+  "shelf": "Free to read",
+  "why": "An early American textbook on landscape design.",
+  "tags": [
+   "Landscape",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-planning-environmental-applications",
+  "title": "Landscape Planning: Environmental Applications",
+  "by": "William M. Marsh",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Landscape",
+  "why": "A textbook on planning land use around the environment.",
+  "tags": [
+   "Landscape",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-description-of-the-new-york-central-park",
+  "title": "A Description of the New York Central Park",
+  "by": "Clarence Cook",
+  "year": "1869",
+  "y": 1869,
+  "shelf": "Free to read",
+  "why": "A nineteenth-century account of Central Park in New York.",
+  "tags": [
+   "Landscape",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "vernacular-architecture-and-regional-design-cultural-process",
+  "title": "Vernacular Architecture and Regional Design: Cultural Process and Environmental Response",
+  "by": "Kingston Heath",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Theory",
+  "why": "On how local culture and environment shape vernacular building.",
+  "tags": [
+   "Vernacular",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "english-cottages-and-farmhouses",
+  "title": "English Cottages and Farmhouses",
+  "by": "Olive Cook, Edwin Smith",
+  "year": "1954",
+  "y": 1954,
+  "shelf": "History",
+  "why": "A photographic survey of English cottages and farmhouses.",
+  "tags": [
+   "Vernacular",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "form-follows-fun-modernism-and-modernity-in-british-pleasure",
+  "title": "Form Follows Fun: Modernism and Modernity in British Pleasure Architecture",
+  "by": "Bruce Peter",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "History",
+  "why": "A history of British pleasure buildings and their modernism.",
+  "tags": [
+   "History",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "mapping-modernity-in-shanghai-space-gender-and-visual-cultur",
+  "title": "Mapping Modernity in Shanghai: Space, Gender, and Visual Culture in the Sojourners' City, 1853–98",
+  "by": "Samuel Y. Liang",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "History",
+  "why": "A study of the space and visual culture of nineteenth-century Shanghai.",
+  "tags": [
+   "China",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ethics-and-the-built-environment",
+  "title": "Ethics and the Built Environment",
+  "by": "Warwick Fox",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Theory",
+  "why": "Essays on ethical questions in architecture and the built environment.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "universe-of-stone-chartres-cathedral-and-the-triumph-of-the",
+  "title": "Universe of Stone: Chartres Cathedral and the Triumph of the Medieval Mind",
+  "by": "Philip Ball",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "History",
+  "why": "A history of Chartres Cathedral and the ideas that built it.",
+  "tags": [
+   "Gothic",
+   "Religious"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "archigram-architecture-without-architecture",
+  "title": "Archigram: Architecture without Architecture",
+  "by": "Simon Sadler",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "History",
+  "why": "A history of the British group Archigram and its ideas.",
+  "tags": [
+   "Contemporary",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "earls-of-creation",
+  "title": "Earls of Creation",
+  "by": "James Lees-Milne",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "History",
+  "why": "Lees-Milne on five English patrons of architecture.",
+  "tags": [
+   "History",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "housing-and-dwelling-perspectives-on-modern-domestic-archite",
+  "title": "Housing and Dwelling: Perspectives on Modern Domestic Architecture",
+  "by": "Barbara Miller Lane",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "History",
+  "why": "A reader of writings on modern housing and the home.",
+  "tags": [
+   "Housing",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ornament-the-politics-of-architecture-and-subjectivity",
+  "title": "Ornament: The Politics of Architecture and Subjectivity",
+  "by": "Antoine Picon",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Theory",
+  "why": "Picon on the meaning of ornament in architecture.",
+  "tags": [
+   "Ornament",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "santiago-calatrava-the-poetics-of-movement",
+  "title": "Santiago Calatrava: The Poetics of Movement",
+  "by": "Alexander Tzonis",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Monographs",
+  "why": "A study of Santiago Calatrava's moving structures.",
+  "tags": [
+   "Structure",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-nineteenth-and-twentieth-centuries",
+  "title": "Architecture: Nineteenth and Twentieth Centuries",
+  "by": "Henry-Russell Hitchcock",
+  "year": "1958",
+  "y": 1958,
+  "shelf": "History",
+  "why": "A Pelican History of Art survey of modern architecture.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-directions-in-japanese-architecture",
+  "title": "New Directions in Japanese Architecture",
+  "by": "Robin Boyd",
+  "year": "1968",
+  "y": 1968,
+  "shelf": "History",
+  "why": "A short survey of Japanese architects of the 1960s.",
+  "tags": [
+   "Japan",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modern-architecture-in-finland",
+  "title": "Modern Architecture in Finland",
+  "by": "Asko Salokorpi",
+  "year": "1970",
+  "y": 1970,
+  "shelf": "History",
+  "why": "A survey of modern Finnish buildings.",
+  "tags": [
+   "Regionalism",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "minaret-building-and-apprenticeship-in-yemen",
+  "title": "Minaret Building and Apprenticeship in Yemen",
+  "by": "Trevor Marchand",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "An anthropologist's study of how master builders in Yemen learn and work.",
+  "tags": [
+   "Islamic",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-encyclopaedia-of-architecture-historical-theoretical-and",
+  "title": "An Encyclopaedia of Architecture, Historical, Theoretical, and Practical",
+  "by": "Joseph Gwilt",
+  "year": "1842",
+  "y": 1842,
+  "shelf": "Free to read",
+  "why": "A large nineteenth-century reference on architecture.",
+  "tags": [
+   "Reference",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-its-ethical-dilemmas",
+  "title": "Architecture and Its Ethical Dilemmas",
+  "by": "Nicholas Ray",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Theory",
+  "why": "Essays on the ethical choices architects face.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architect-of-desire-beauty-and-danger-in-the-stanford-wh",
+  "title": "The Architect of Desire: Beauty and Danger in the Stanford White Family",
+  "by": "Suzannah Lessard",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Monographs",
+  "why": "A family memoir of the architect Stanford White.",
+  "tags": [
+   "History",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "humanitarian-architecture",
+  "title": "Humanitarian Architecture",
+  "by": "Esther Charlesworth",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On architects' work in disaster relief and humanitarian settings.",
+  "tags": [
+   "Housing",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "skyscraper",
+  "title": "Skyscraper",
+  "by": "Karl Sabbagh",
+  "year": "1989",
+  "y": 1989,
+  "shelf": "History",
+  "why": "A book on the building of a skyscraper.",
+  "tags": [
+   "Skyscrapers",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "critical-architecture",
+  "title": "Critical Architecture",
+  "by": "Jane Rendell, Jonathan Hill, Murray Fraser, Mark Dorrian",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "Essays on critical practice in architecture.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "vandalism",
+  "title": "Vandalism",
+  "by": "Colin Ward",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Cities",
+  "why": "Essays on why buildings and places get damaged.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "narrating-architecture-a-retrospective-anthology",
+  "title": "Narrating Architecture: A Retrospective Anthology",
+  "by": "James Madge, Andrew Peckham",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Theory",
+  "why": "A collection of narrative writing about architecture.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "allure-of-the-incomplete-imperfect-and-impermanent-designing",
+  "title": "Allure of the Incomplete, Imperfect, and Impermanent: Designing and Appreciating Architecture as Nature",
+  "by": "Rumiko Handa",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "On wabi-sabi and the beauty of the unfinished in architecture.",
+  "tags": [
+   "Japan",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-in-architecture-architecture-and-the-human-sciences",
+  "title": "Design in Architecture: Architecture and the Human Sciences",
+  "by": "Geoffrey Broadbent",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Theory",
+  "why": "Broadbent on design methods and the human sciences.",
+  "tags": [
+   "Theory",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "studies-in-art-architecture-and-design",
+  "title": "Studies in Art, Architecture and Design",
+  "by": "Nikolaus Pevsner",
+  "year": "1968",
+  "y": 1968,
+  "shelf": "History",
+  "why": "Two volumes of Pevsner's essays on art, architecture and design.",
+  "tags": [
+   "History",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "period-houses-and-their-details",
+  "title": "Period Houses and Their Details",
+  "by": "Colin Amery",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "Construction",
+  "why": "A guide to the details of British period houses.",
+  "tags": [
+   "Houses",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "conversations-with-form-a-workbook-for-students-of-architect",
+  "title": "Conversations with Form: A Workbook for Students of Architecture",
+  "by": "N. John Habraken, Alexander Teicher",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Theory",
+  "why": "Habraken's workbook on the elements of architectural form.",
+  "tags": [
+   "Theory",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modern-color-modern-architecture-amedee-ozenfant-and-the-gen",
+  "title": "Modern Color/Modern Architecture: Amédée Ozenfant and the genealogy of color in modern architecture",
+  "by": "William W. Braham",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Theory",
+  "why": "A study of colour in modern architecture and Ozenfant's ideas.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-in-motion-the-history-and-development-of-portab",
+  "title": "Architecture in Motion: The History and Development of Portable Building",
+  "by": "Robert Kronenburg",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "History",
+  "why": "A history of portable and transportable buildings.",
+  "tags": [
+   "History",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "american-architecture-a-history",
+  "title": "American Architecture: A History",
+  "by": "Leland M. Roth",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "A survey of American architecture from the first settlements to the present.",
+  "tags": [
+   "History",
+   "Survey"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-shades-and-shadows",
+  "title": "Architectural Shades and Shadows",
+  "by": "Henry McGoodwin",
+  "year": "1904",
+  "y": 1904,
+  "shelf": "Free to read",
+  "why": "An early textbook on casting shadows in architectural drawing.",
+  "tags": [
+   "Drawing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-of-sound-building",
+  "title": "The Art of Sound Building",
+  "by": "William Halfpenny, Batty Langley",
+  "year": "1725",
+  "y": 1725,
+  "shelf": "Free to read",
+  "why": "An early eighteenth-century builder's guide with geometry for carpenters and masons.",
+  "tags": [
+   "Construction",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-emergence-of-the-interior-architecture-modernity-domesti",
+  "title": "The Emergence of the Interior: Architecture, Modernity, Domesticity",
+  "by": "Charles Rice",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "A history of how the interior became a subject of architecture.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-gentleman-s-house",
+  "title": "The Gentleman's House",
+  "by": "Robert Kerr",
+  "year": "1864",
+  "y": 1864,
+  "shelf": "Free to read",
+  "why": "A Victorian guide to planning the English country house.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "homes-fit-for-heroes-the-politics-and-architecture-of-early",
+  "title": "Homes Fit for Heroes: The Politics and Architecture of Early State Housing in Britain",
+  "by": "Mark Swenarton",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Cities",
+  "why": "A history of British council housing after the First World War.",
+  "tags": [
+   "Housing",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "negotiating-domesticity-spatial-productions-of-gender-in-mod",
+  "title": "Negotiating Domesticity: Spatial Productions of Gender in Modern Architecture",
+  "by": "Hilde Heynen, Gülsüm Baydar",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Theory",
+  "why": "Essays on gender and the home in modern architecture.",
+  "tags": [
+   "Housing",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "pirate-modernity-delhi-s-media-urbanism",
+  "title": "Pirate Modernity: Delhi's Media Urbanism",
+  "by": "Ravi Sundaram",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "India",
+  "why": "On Delhi's informal urban culture and its media.",
+  "tags": [
+   "India",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "planning-singapore-from-plan-to-implementation",
+  "title": "Planning Singapore: From Plan to Implementation",
+  "by": "Belinda Yuen",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Cities",
+  "why": "Essays on how Singapore plans its city.",
+  "tags": [
+   "Southeast Asia",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-development-and-new-towns-in-the-third-world",
+  "title": "Urban Development and New Towns in the Third World",
+  "by": "Alain Jacquemin",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Cities",
+  "why": "Lessons from new towns in developing countries.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-city-spaces",
+  "title": "New City Spaces",
+  "by": "Jan Gehl, Lars Gemzøe",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Cities",
+  "why": "Gehl's survey of new public spaces in European cities.",
+  "tags": [
+   "Public space",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ekistics-an-introduction-to-the-science-of-human-settlements",
+  "title": "Ekistics: An Introduction to the Science of Human Settlements",
+  "by": "Constantinos A. Doxiadis",
+  "year": "1968",
+  "y": 1968,
+  "shelf": "Cities",
+  "why": "Doxiadis's science of human settlements.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "collaborative-planning-shaping-places-in-fragmented-societie",
+  "title": "Collaborative Planning: Shaping Places in Fragmented Societies",
+  "by": "Patsy Healey",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Cities",
+  "why": "Healey's theory of planning through collaboration.",
+  "tags": [
+   "Planning",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "man-made-america-chaos-or-control",
+  "title": "Man-Made America: Chaos or Control?",
+  "by": "Christopher Tunnard, Boris Pushkarev",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Cities",
+  "why": "A study of the American built landscape and how to plan it.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-space",
+  "title": "Urban Space",
+  "by": "Rob Krier",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Cities",
+  "why": "Krier's drawn study of the squares and streets of European towns.",
+  "tags": [
+   "Cities",
+   "Public space"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "wacker-s-manual-of-the-plan-of-chicago",
+  "title": "Wacker's Manual of the Plan of Chicago",
+  "by": "Walter D. Moody",
+  "year": "1911",
+  "y": 1911,
+  "shelf": "Free to read",
+  "why": "A schoolbook explaining the 1909 Plan of Chicago.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "companion-to-urban-design",
+  "title": "Companion to Urban Design",
+  "by": "Tridib Banerjee, Anastasia Loukaitou-Sideris",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "A collection of essays surveying urban design.",
+  "tags": [
+   "Cities",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-fundamentalist-city-religiosity-and-the-remaking-of-urba",
+  "title": "The Fundamentalist City? Religiosity and the Remaking of Urban Space",
+  "by": "Nezar AlSayyad, Mejgan Massoumi",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Cities",
+  "why": "Essays on religion and the shaping of urban space.",
+  "tags": [
+   "Islamic",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "aquatecture-architecture-and-water",
+  "title": "Aquatecture: Architecture and Water",
+  "by": "Anthony Wylson",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Landscape",
+  "why": "A survey of architecture and water.",
+  "tags": [
+   "Landscape",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "childhood-s-domain-play-and-place-in-child-development",
+  "title": "Childhood's Domain: Play and Place in Child Development",
+  "by": "Robin C. Moore",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Landscape",
+  "why": "Moore's study of children's places and play.",
+  "tags": [
+   "Public space",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "introducing-urban-design-interventions-and-responses",
+  "title": "Introducing Urban Design: Interventions and Responses",
+  "by": "Clara Greed, Marion Roberts",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Cities",
+  "why": "An introduction to urban design with case studies.",
+  "tags": [
+   "Cities",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "future-forms-and-design-for-sustainable-cities",
+  "title": "Future Forms and Design for Sustainable Cities",
+  "by": "Mike Jenks, Nicola Dempsey",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Cities",
+  "why": "Essays on the physical form of sustainable cities.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "river-space-design-planning-strategies-methods-and-projects",
+  "title": "River.Space.Design: Planning Strategies, Methods and Projects for Urban Rivers",
+  "by": "Martin Prominski, Antje Stokman, Susanne Zeller, Daniel Stimberg, Hinnerk Voermanek",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Landscape",
+  "why": "A guide to designing urban rivers with case studies.",
+  "tags": [
+   "Landscape",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "cities-without-suburbs",
+  "title": "Cities Without Suburbs",
+  "by": "David Rusk",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Cities",
+  "why": "Rusk on city growth and metropolitan government.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "compact-cities-sustainable-urban-forms-for-developing-countr",
+  "title": "Compact Cities: Sustainable Urban Forms for Developing Countries",
+  "by": "Mike Jenks, Rod Burgess",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Cities",
+  "why": "Essays on compact cities in the developing world.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "city-development-studies-in-disintegration-and-renewal",
+  "title": "City Development: Studies in Disintegration and Renewal",
+  "by": "Lewis Mumford",
+  "year": "1945",
+  "y": 1945,
+  "shelf": "Cities",
+  "why": "Mumford's essays on how cities decline and are renewed.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "low-carbon-cities-transforming-urban-systems",
+  "title": "Low Carbon Cities: Transforming Urban Systems",
+  "by": "Steffen Lehmann",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "On how cities can reduce their carbon emissions.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-compact-city-a-sustainable-urban-form",
+  "title": "The Compact City: A Sustainable Urban Form?",
+  "by": "Mike Jenks, Elizabeth Burton, Katie Williams",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Cities",
+  "why": "Essays on whether compact cities are sustainable.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-of-beautifying-suburban-home-grounds-of-small-extent",
+  "title": "The Art of Beautifying Suburban Home Grounds of Small Extent",
+  "by": "Frank J. Scott",
+  "year": "1870",
+  "y": 1870,
+  "shelf": "Free to read",
+  "why": "A nineteenth-century American guide to laying out small gardens.",
+  "tags": [
+   "Gardens",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "built-from-below-british-architecture-and-the-vernacular",
+  "title": "Built from Below: British Architecture and the Vernacular",
+  "by": "Peter Guillery",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "History",
+  "why": "Essays on British vernacular architecture.",
+  "tags": [
+   "Vernacular",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-activism-beautiful-strangeness-for-a-sustainable-worl",
+  "title": "Design Activism: Beautiful Strangeness for a Sustainable World",
+  "by": "Alastair Fuad-Luke",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Theory",
+  "why": "A book on design as a tool for social and environmental change.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "integral-sustainable-design-transformative-perspectives",
+  "title": "Integral Sustainable Design: Transformative Perspectives",
+  "by": "Mark DeKay",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "DeKay on integrating many views into sustainable design.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-directions-in-sustainable-design",
+  "title": "New Directions in Sustainable Design",
+  "by": "Adrian Parr, Michael Zaretsky",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Theory",
+  "why": "Essays on new ideas in sustainable design.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-with-bamboo-design-and-technology-of-a-sustainable",
+  "title": "Building with Bamboo: Design and Technology of a Sustainable Architecture",
+  "by": "Gernot Minke",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Construction",
+  "why": "A design and construction guide to building with bamboo.",
+  "tags": [
+   "Materials",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-in-a-climate-of-change",
+  "title": "Architecture in a Climate of Change",
+  "by": "Peter F. Smith",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Construction",
+  "why": "A guide to designing buildings for a changing climate.",
+  "tags": [
+   "Climate",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "colonial-modernities-building-dwelling-and-architecture-in-b",
+  "title": "Colonial Modernities: Building, Dwelling and Architecture in British India and Ceylon",
+  "by": "Vikramaditya Prakash, Peter Scriver",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "India",
+  "why": "Essays on colonial building and living in British India and Ceylon.",
+  "tags": [
+   "India",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-the-welfare-state",
+  "title": "Architecture and the Welfare State",
+  "by": "Mark Swenarton, Tom Avermaete, Dirk van den Heuvel",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "History",
+  "why": "Essays on the architecture of the postwar welfare state.",
+  "tags": [
+   "Housing",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "integral-urbanism",
+  "title": "Integral Urbanism",
+  "by": "Nan Ellin",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Cities",
+  "why": "Ellin on a new approach to urbanism.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "this-is-not-architecture-media-constructions",
+  "title": "This Is Not Architecture: Media Constructions",
+  "by": "Kester Rattenbury",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Theory",
+  "why": "Essays on how media portray architecture.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-the-politics-of-gender-in-early-modern-euro",
+  "title": "Architecture and the Politics of Gender in Early Modern Europe",
+  "by": "Helen Hills",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "History",
+  "why": "Essays on gender and architecture in early modern Europe.",
+  "tags": [
+   "History",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "dublin-16601860",
+  "title": "Dublin, 1660–1860",
+  "by": "Maurice Craig",
+  "year": "1952",
+  "y": 1952,
+  "shelf": "History",
+  "why": "A social and architectural history of Dublin.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "tracing-modernity-manifestations-of-the-modern-in-architectu",
+  "title": "Tracing Modernity: Manifestations of the Modern in Architecture and the City",
+  "by": "Mari Hvattum, Christian Hermansen",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Theory",
+  "why": "Essays on modernity in architecture and the city.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "islamic-architecture-and-its-decoration-a-d-8001500",
+  "title": "Islamic Architecture and Its Decoration, A.D. 800–1500",
+  "by": "Derek Hill, Oleg Grabar",
+  "year": "1964",
+  "y": 1964,
+  "shelf": "History",
+  "why": "A photographic survey of Islamic buildings and their decoration.",
+  "tags": [
+   "Islamic",
+   "Ornament"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "gothic-architecture-improved-by-rules-and-proportions",
+  "title": "Gothic Architecture, Improved by Rules and Proportions",
+  "by": "Batty Langley",
+  "year": "1742",
+  "y": 1742,
+  "shelf": "Free to read",
+  "why": "Langley's rules for building in the Gothic style.",
+  "tags": [
+   "Gothic",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "classical-architecture-an-introduction-to-its-vocabulary-and",
+  "title": "Classical Architecture: An Introduction to Its Vocabulary and Essentials",
+  "by": "James Stevens Curl",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Essentials",
+  "why": "An illustrated guide to the classical vocabulary of architecture.",
+  "tags": [
+   "Classicism",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sympathy-of-things-ruskin-and-the-ecology-of-design",
+  "title": "Sympathy of Things: Ruskin and the Ecology of Design",
+  "by": "Lars Spuybroek",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "Spuybroek on Ruskin and Gothic ideas for digital design.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architects-on-architecture-new-directions-in-america",
+  "title": "Architects on Architecture: New Directions in America",
+  "by": "Paul Heyer",
+  "year": "1966",
+  "y": 1966,
+  "shelf": "Theory",
+  "why": "Interviews and statements by American architects of the 1960s.",
+  "tags": [
+   "Theory",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "changing-ideals-in-modern-architecture-17501950",
+  "title": "Changing Ideals in Modern Architecture, 1750–1950",
+  "by": "Peter Collins",
+  "year": "1965",
+  "y": 1965,
+  "shelf": "Theory",
+  "why": "Collins on the ideas that shaped modern architecture.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-necessity-of-artifice",
+  "title": "The Necessity of Artifice",
+  "by": "Joseph Rykwert",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "Theory",
+  "why": "Rykwert's essays on architecture and its roots.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modern-architecture-in-england",
+  "title": "Modern Architecture in England",
+  "by": "Henry-Russell Hitchcock, Catherine Bauer",
+  "year": "1937",
+  "y": 1937,
+  "shelf": "History",
+  "why": "The Museum of Modern Art catalogue of modern architecture in England.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-details-of-modern-architecture",
+  "title": "The Details of Modern Architecture",
+  "by": "Edward R. Ford",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Construction",
+  "why": "A history of how modern architects solved details.",
+  "tags": [
+   "Details",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sources-of-modern-architecture-a-critical-bibliography",
+  "title": "Sources of Modern Architecture: A Critical Bibliography",
+  "by": "Dennis Sharp",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Essentials",
+  "why": "A critical reading list on modern architecture.",
+  "tags": [
+   "Reference",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "frank-lloyd-wright",
+  "title": "Frank Lloyd Wright",
+  "by": "Vincent Scully",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "Monographs",
+  "why": "A short book on Frank Lloyd Wright in the Masters of World Architecture series.",
+  "tags": [
+   "Organic",
+   "Houses"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-spectacle-a-critique",
+  "title": "Architecture and Spectacle: A Critique",
+  "by": "Gevork Hartoonian",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Theory",
+  "why": "A critique of architecture as spectacle.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "built-in-boston-city-and-suburb",
+  "title": "Built in Boston: City and Suburb",
+  "by": "Douglass Shand-Tucci",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "History",
+  "why": "A history of Boston's architecture.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
