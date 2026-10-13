@@ -7249,14 +7249,19 @@ window.ARCHITECTS = {
    "Q11394499"
   ],
   "galaxy-soho": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "jockey-club-innovation-tower": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "hong-kong-city-hall": [
    "Q106713582",
    "Q106691674"
+  ],
+  "morpheus-hotel": [
+   "manual:Zaha Hadid"
   ],
   "lanyang-museum": [
    "Q6437314"
@@ -7372,6 +7377,9 @@ window.ARCHITECTS = {
   "bat-yam-city-hall": [
    "Q6998032",
    "Q231371"
+  ],
+  "king-abdullah-petroleum-studies-and-research-center": [
+   "manual:Zaha Hadid"
   ],
   "burj-al-arab": [
    "Q1335131"
@@ -7932,7 +7940,8 @@ window.ARCHITECTS = {
    "Q104898"
   ],
   "port-house": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "beth-sholom-synagogue": [
    "Q5604"
@@ -7958,7 +7967,8 @@ window.ARCHITECTS = {
    "Q723343"
   ],
   "riverside-museum": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "stadio-san-nicola": [
    "Q190148"
@@ -8019,7 +8029,8 @@ window.ARCHITECTS = {
    "Q4724"
   ],
   "hungerburgbahn-stations": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "martin-luther-king-jr-memorial-library": [
    "Q41508"
@@ -8163,7 +8174,8 @@ window.ARCHITECTS = {
    "Q151794"
   ],
   "salerno-maritime-terminal": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "bordeaux-law-courts": [
    "Q237412"
@@ -8279,7 +8291,8 @@ window.ARCHITECTS = {
    "Q317135"
   ],
   "al-janoub-stadium": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "state-farm-stadium": [
    "Q317164",
@@ -8314,7 +8327,8 @@ window.ARCHITECTS = {
    "Q358502"
   ],
   "wangjing-soho": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "flame-towers": [
    "Q6318224",
@@ -8378,7 +8392,8 @@ window.ARCHITECTS = {
    "Q312827"
   ],
   "spittelau-viaducts-housing": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "adler-planetarium": [
    "Q19476130"
@@ -8475,7 +8490,8 @@ window.ARCHITECTS = {
    "Q159612"
   ],
   "bergisel-ski-jump": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "sony-center": [
    "Q77311"
@@ -8962,6 +8978,9 @@ window.ARCHITECTS = {
   "mcgraw-hill-building": [
    "Q745903"
   ],
+  "eli-and-edythe-broad-art-museum": [
+   "manual:Zaha Hadid"
+  ],
   "cathedral-of-christ-the-light": [
    "Q5181559",
    "Q6688185",
@@ -9042,7 +9061,8 @@ window.ARCHITECTS = {
    "Q125242739"
   ],
   "messner-mountain-museum-corones": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "sant-antoni-joan-oliver-library": [
    "Q6096991",
@@ -9778,7 +9798,8 @@ window.ARCHITECTS = {
    "Q2126990"
   ],
   "kafd-metro-station": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "gipsoteca-canoviana": [
    "Q51137"
@@ -9985,6 +10006,9 @@ window.ARCHITECTS = {
   ],
   "aero-habitat": [
    "Q15450940"
+  ],
+  "bee-ah-headquarters": [
+   "manual:Zaha Hadid"
   ],
   "beirut-terraces": [
    "Q2745982",
@@ -10590,6 +10614,9 @@ window.ARCHITECTS = {
   "dubai-world-trade-centre": [
    "Q64020424"
   ],
+  "the-opus": [
+   "manual:Zaha Hadid"
+  ],
   "house-of-wisdom-sharjah": [
    "Q104898"
   ],
@@ -10641,7 +10668,8 @@ window.ARCHITECTS = {
    "Q2821326"
   ],
   "dominion-tower": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "moscow-school-of-management-skolkovo": [
    "Q1173530"
@@ -10992,7 +11020,8 @@ window.ARCHITECTS = {
    "Q4673974"
   ],
   "grand-theatre-de-rabat": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "nid-d-abeille-casablanca": [
    "Q364280"
@@ -11337,7 +11366,8 @@ window.ARCHITECTS = {
    "Q180398"
   ],
   "pierresvives": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "european-court-of-human-rights-building": [
    "Q237412"
@@ -11841,13 +11871,17 @@ window.ARCHITECTS = {
    "Q8048959"
   ],
   "leeza-soho": [
-   "Q47780"
+   "Q47780",
+   "manual:Zaha Hadid"
   ],
   "ningbo-museum-of-art": [
    "Q336620"
   ],
   "sheraton-huzhou-hot-spring-resort": [
    "Q8048959"
+  ],
+  "beijing-daxing-airport-terminal": [
+   "manual:Zaha Hadid"
   ],
   "shenzhen-stock-exchange": [
    "Q232364"
@@ -11998,6 +12032,9 @@ window.ARCHITECTS = {
   ],
   "marco-polo-tower": [
    "Q5477935"
+  ],
+  "wu-library-learning-center": [
+   "manual:Zaha Hadid"
   ],
   "gasometer-b-vienna": [
    "Q114444"

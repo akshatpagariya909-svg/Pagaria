@@ -4,7 +4,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 
 | Name | Buildings | For example |
 |---|---|---|
-| Zaha Hadid Architects | 23 | Galaxy SOHO |
 | Associates | 21 | Knights of Columbus Building |
 | Partners | 15 | 122 Leadenhall Street |
 | SOM | 10 | Beinecke Rare Book & Manuscript Library |
