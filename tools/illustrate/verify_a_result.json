@@ -552,5 +552,27 @@
    "https://en.wikipedia.org/wiki/Arena_Zagreb"
   ],
   "note": "Wikipedia: UPI-2M (with Decathlon, Athens, as consultant), built 20 July 2007 to 15 Dec 2008; 86 massive curved concrete columns form a ribbed exterior like a white oval shell; roof suspended on cables over a 110 m span; WAF 2009 Structural Design of the Year. \"Bend outward at the top\" not stated, so replaced with sourced detail."
+ },
+ {
+  "id": "museo-memoria-y-tolerancia",
+  "verdict": "fixed",
+  "features": "Seven-level concrete and steel museum facing the Alameda, wrapped round an atrium with a floating Children's Memorial.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Memory_and_Tolerance_Museum",
+   "https://www.archiweb.cz/en/b/muzeum-vzpominek-a-tolerance-museo-memoria-y-tolerancia",
+   "https://aasarchitecture.com/2013/03/museum-of-memory-and-tolerance-by-arditti-rdt-architects/",
+   "https://expansion.mx/obras/2010/10/11/museo-de-memoria-y-tolerancia-llega-a-df"
+  ],
+  "note": "Arditti + RDT Arquitectos confirmed; project 2004, completed 2010, opened 18 Oct 2010 (Wikipedia: established 2010). Seven levels in reinforced concrete and steel, opposite the Alameda, main volume wraps a \"floating\" Children's Memorial in the atrium. \"Heavy stone volumes cut by tall glazed openings\" not found in a source, so replaced."
+ },
+ {
+  "id": "hotel-jakarta-amsterdam",
+  "verdict": "ok",
+  "sources": [
+   "https://www.search.nl/works/hotel-jakarta/",
+   "https://www.baunetzwissen.de/nachhaltig-bauen/objekte/wohnen/hotel-jakarta-in-amsterdam-6437788",
+   "https://architizer.com/projects/hotel-jakarta/"
+  ],
+  "note": "SeARCH project page: built 2013-2018 for WestCord on Java-eiland; 30 m load-bearing timber structure with 176 prefabricated rooms; central atrium holds a subtropical garden planned with the Hortus Botanicus. Baunetz calls it a steel, timber and glass hybrid, so \"timber-framed\" is fair."
  }
 ]
