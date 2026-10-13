@@ -1323,5 +1323,272 @@
    "https://en.wikipedia.org/wiki/Barnes_Foundation"
   ],
   "note": "The main category is mostly paintings; building photos are the MyWikiBiz files."
+ },
+ {
+  "id": "velodrom-berlin",
+  "name": "Velodrom and Swimming Hall, Berlin",
+  "by": "Dominique Perrault",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "A round velodrome and a long pool hall sunk into an orchard, only their flat metal-mesh roofs showing.",
+  "award": "Praemium Imperiale 2015 (Dominique Perrault)",
+  "status": "photo",
+  "commons_category": "Category:Velodrom (Berlin)",
+  "photos": [
+   {
+    "file": "File:Velodrom Außenansicht - Luftaufnahme.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin - Velodrom - oben.jpg",
+    "license": "Attribution",
+    "seen": true
+   },
+   {
+    "file": "File:SSE Berlin Südansicht (2010).jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Velodrom"
+  ],
+  "note": "The aerial (1172x830) is the one that shows the form; it passes the 800px rule only. 'Berlin - Velodrom - oben' shows the orchard over the roof. SSE = the swimming hall (Schwimm- und Sprunghalle) next door."
+ },
+ {
+  "id": "neurosciences-institute-la-jolla",
+  "name": "The Neurosciences Institute",
+  "by": "Tod Williams Billie Tsien Architects",
+  "city": "La Jolla",
+  "cc": "US",
+  "year": "1995",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Exposed concrete",
+   "Promenade"
+  ],
+  "features": "Research buildings arranged as a small 'monastery' around a sunken plaza, with ramps, stairs and outdoor rooms.",
+  "award": "Praemium Imperiale 2019 (Tod Williams and Billie Tsien)",
+  "status": "photo",
+  "commons_category": "Category:Neurosciences Institute",
+  "photos": [
+   {
+    "file": "File:Neurosciences Institute01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neurosciences Institute at Sunset.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Neurosciences Institute02.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neurosciences_Institute"
+  ],
+  "note": "The institute closed in 2012; the buildings are now used by Scripps Research. File:Neurosciences Institute.jpg is just the sign."
+ },
+ {
+  "id": "moesgaard-museum",
+  "name": "Moesgaard Museum",
+  "by": "Henning Larsen Architects",
+  "city": "Aarhus",
+  "cc": "DK",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Section"
+  ],
+  "features": "A wedge-shaped museum whose sloping grass roof rises out of the land and doubles as a public hill.",
+  "award": "Praemium Imperiale 2012 (Henning Larsen)",
+  "status": "photo",
+  "commons_category": "Category:Moesgård Museum",
+  "photos": [
+   {
+    "file": "File:MoMu 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moesgård Museum, New building1.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moesgård Museum photographed by drone.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moesgaard_Museum"
+  ],
+  "note": "Completed in 2014, the year after Henning Larsen's death; designed by his firm."
+ },
+ {
+  "id": "pousada-santa-maria-do-bouro",
+  "name": "Pousada Santa Maria do Bouro",
+  "by": "Eduardo Souto de Moura",
+  "city": "Amares",
+  "cc": "PT",
+  "year": "1997",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Detail"
+  ],
+  "features": "A ruined monastery made into a hotel: the stone walls are kept, with flat new roofs and frameless glass set inside.",
+  "award": "Praemium Imperiale 2025 (Eduardo Souto de Moura)",
+  "status": "photo",
+  "commons_category": "Category:Convento de Santa Maria do Bouro",
+  "photos": [
+   {
+    "file": "File:O mosteiro.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:IMGP6572 - Convento de Santa Maria do Bouro à noite.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Esplanada da Pousada.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura"
+  ],
+  "note": "The night photo shows the church front, which is not Souto de Moura's; O mosteiro shows the converted monastery wing. Best photos for students would show the roof gardens and the new glazing; not checked in detail."
+ },
+ {
+  "id": "san-telmo-museum-extension",
+  "name": "San Telmo Museum extension",
+  "by": "Nieto Sobejano Arquitectos",
+  "city": "San Sebastián",
+  "cc": "ES",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "A new wing slid between a 16th-century convent and Mount Urgull, wrapped in perforated metal that plants grow over.",
+  "award": "Alvar Aalto Medal 2015 (Fuensanta Nieto and Enrique Sobejano)",
+  "status": "photo",
+  "commons_category": "Category:Museum and Monastery of San Telmo (STM)",
+  "photos": [
+   {
+    "file": "File:Museo San Telmo.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Telmo_Museoa"
+  ],
+  "note": "Only one clear exterior of the extension found (with the old building on the left); File:San telmo urgull.jpg is a detail looking toward the sea. Category has 64 files, most interiors and exhibits."
+ },
+ {
+  "id": "san-antonio-central-library",
+  "name": "San Antonio Central Library",
+  "by": "Ricardo Legorreta with Sprinkle Robey Architects and Johnson-Dempsey & Associates",
+  "city": "San Antonio",
+  "cc": "US",
+  "year": "1995",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "features": "Six storeys in 'Enchilada Red' with cut-away volumes and a bright yellow atrium at the centre.",
+  "award": "Praemium Imperiale 2011 (Ricardo Legorreta)",
+  "status": "photo",
+  "commons_category": "Category:San Antonio Public Library",
+  "photos": [
+   {
+    "file": "File:Central Library II (48874533928).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:San Antonio Central Library.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Antonio_Public_Library"
+  ],
+  "note": null
+ },
+ {
+  "id": "yarlung-tsangpo-boat-terminal",
+  "name": "Yarlung Tsangpo Boat Terminal",
+  "by": "ZAO/standardarchitecture (Zhang Ke)",
+  "city": "Nyingchi",
+  "cc": "CN",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Promenade",
+   "Landscape"
+  ],
+  "features": "Ramps of local stone, laid by Tibetan masons, wind round old poplars to a cantilever over the river.",
+  "award": "Alvar Aalto Medal 2017 (Zhang Ke)",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://divisare.com/projects/302480-zao-standardarchitecture-chen-su-wang-ziling-yarlung-tsangpo-river-terminal (via search summary)",
+   "https://architecturalrecord.com/articles/6369-standardarchitecture (via search summary)"
+  ],
+  "note": "No Commons photos. Sources agree on stone walls and roofs, ramps rising from the water around large poplar trees and ending in a cantilever over the river (one calls it a gently rising wedge), but none of the pages could be opened from the sandbox and the ramp geometry isn't clear enough to draw. 430 m2, near Pai town, Nyingchi (Linzhi), Tibet."
  }
 ]
