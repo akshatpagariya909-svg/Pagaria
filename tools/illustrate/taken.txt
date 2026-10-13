@@ -35,6 +35,7 @@ Aarhus City Hall | Arne Jacobsen, Erik Moller | Aarhus, DK
 Abbey of St. Benedictusberg | Dom Hans van der Laan | Vaals, NL
 Abrahamic Family House | Adjaye Associates | Abu Dhabi, AE
 Academy of Arts, Hanseatenweg | Werner Düttmann | Berlin, DE
+Accordia | Feilden Clegg Bradley Studios, Alison Brooks Architects, Maccreanor Lavington | Cambridge, GB
 Aceh Tsunami Museum | Ridwan Kamil | Banda Aceh, ID
 Acropolis Museum | Bernard Tschumi | Athens, GR
 Acropolis and Philopappou Hill Paths |  | , 
@@ -69,12 +70,14 @@ Alioune Diop University Teaching and Research Unit |  | ,
 Alioune Diop University Teaching and Research Unit | IDOM | Bambey, SN
 Alisher Navoi Opera and Ballet Theatre | Alexey Shchusev | Tashkent, UZ
 Allen Lambert Galleria, Brookfield Place | Santiago Calatrava | Toronto, CA
+Alliance Franco-Sénégalaise, Kaolack | Patrick Dujarric | Kaolack, SN
 Allianz Arena | Herzog & de Meuron | Munich, DE
 Altare della Patria | Giuseppe Sacconi | Rome, IT
 Alte Nationalgalerie | Friedrich August Stüler | Berlin, DE
 Alvar Aalto Cultural Centre | Alvar Aalto | Wolfsburg, DE
 Amarbayasgalant Monastery | Qing imperial builders | Selenge, MN
 Amdavad ni Gufa | Balkrishna Doshi | Ahmedabad, IN
+American Air Museum, Duxford | Foster + Partners | Duxford, GB
 Amon Carter Museum of American Art | Philip Johnson | Fort Worth, US
 Amorepacific Headquarters | David Chipperfield Architects | Seoul, KR
 Amsterdam Orphanage (Burgerweeshuis) | Aldo van Eyck | Amsterdam, NL
@@ -88,10 +91,12 @@ Angkor Wat | Khmer builders | Siem Reap, KH
 Anitkabir | Emin Onat, Orhan Arda | Ankara, TR
 Ankara Railway Station | Şekip Akalın | Ankara, TR
 Antigone | Ricardo Bofill, Taller de Arquitectura | Montpellier, FR
+Antinori nel Chianti Classico Winery | Archea Associati (Marco Casamonti) | Bargino, IT
 Antwerp Law Courts | Richard Rogers Partnership | Antwerp, BE
 Anzac Memorial | Bruce Dellit | Sydney, AU
 Anzeiger-Hochhaus | Fritz Höger | Hanover, DE
 Aomori Museum of Art | Jun Aoki | Aomori, JP
+Appleby Blue Almshouse | Witherford Watson Mann | London, GB
 Aqua Tower | Jeanne Gang | Chicago, US
 Ara Pacis Museum | Richard Meier | Rome, IT
 Aranya Low Cost Housing | B. V. Doshi | Indore, IN
@@ -101,10 +106,12 @@ Arcadia Education Project | Saif Ul Haque | South Kanarchar, BD
 ArcelorMittal Orbit | Anish Kapoor, Cecil Balmond | London, GB
 Archaeological Museum of Ioannina | Aris Konstantinidis | Ioannina, GR
 Arctic Cathedral | Jan Inge Hovig | Tromso, NO
+Argo Contemporary Art Museum | Ahmadreza Schricker Architecture North (ASA North) | Tehran, IR
 Ariston Club | Marcel Breuer | Mar del Plata, AR
 Arken Museum of Contemporary Art | Søren Robert Lund | Ishøj, DK
 Arko Art Center | Kim Swoo-geun | Seoul, KR
 Armenian Genocide Memorial | Arthur Tarkhanyan, Sashur Kalashyan | Yerevan, AM
+Arquipélago Contemporary Arts Centre | Menos é Mais Arquitectos, João Mendes Ribeiro | Ribeira Grande, PT
 Art Biotop Water Garden |  | , 
 Art Biotop Water Garden | Junya Ishigami | Nasu, JP
 Art Gallery of Alberta | Randall Stout | Edmonton, CA
@@ -124,6 +131,7 @@ Asian Games Village |  | ,
 Asian Games Village | Raj Rewal | New Delhi, IN
 Asilo Sant'Elia | Giuseppe Terragni | Como, IT
 Aspire Tower (The Torch Doha) | Hadi Simaan, AREP | Doha, QA
+Astley Castle | Witherford Watson Mann | Astley, Warwickshire, GB
 Astrup Fearnley Museum | Renzo Piano | Oslo, NO
 Atatürk Cultural Center | Murat Tabanlioglu | Istanbul, TR
 Atatürk Library | Sedad Hakkı Eldem | Istanbul, TR
@@ -180,11 +188,13 @@ Baitul Mukarram | Abdulhusein M. Thariani | Dhaka, BD
 Baker House | Alvar Aalto | Cambridge, US
 Bakhmetevsky Bus Garage | Konstantin Melnikov with Vladimir Shukhov | Moscow, RU
 Baku Crystal Hall | gmp Architekten (von Gerkan, Marg and Partners) | Baku, AZ
+Baldwin Hills Village (Village Green) | Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein | Los Angeles, US
 Balfron Tower | Erno Goldfinger | London, GB
 Ball-Eastaway House | Glenn Murcutt | Glenorie, AU
 Bamboo Wing |  | , 
 Bamboo Wing | Vo Trong Nghia | Phuc Yen, VN
 Banca Popolare di Verona | Carlo Scarpa, Arrigo Rudi | Verona, IT
+Banco Borges & Irmão | Álvaro Siza | Vila do Conde, PT
 Bangju Church | Itami Jun | Seogwipo, KR
 Bangkok Art and Culture Centre | Robert G. Boughey & Associates | Bangkok, TH
 Bank of America Tower | Cookfox | New York, US
@@ -192,9 +202,11 @@ Bank of China Tower | I. M. Pei | Hong Kong, HK
 Bank of Georgia headquarters | George Chakhava | Tbilisi, GE
 Bank of London and South America | Clorindo Testa, SEPRA | Buenos Aires, AR
 Bankinter Building | Rafael Moneo and Ramón Bescós | Madrid, ES
+Banyuwangi International Airport | Andra Matin | Banyuwangi, ID
 Barbican Centre | Chamberlin, Powell and Bon | London, GB
 Barbican Estate | Chamberlin, Powell and Bon | London, UK
 Barcelona Pavilion | Mies van der Rohe, Lilly Reich | Barcelona, ES
+Barnes Foundation | Tod Williams Billie Tsien Architects | Philadelphia, US
 Basilica of Our Lady of Altagracia | Pierre Dupre, Andre Dunoyer de Segonzac | Higuey, DO
 Basilica of Our Lady of Guadalupe | Pedro Ramirez Vazquez | Mexico City, MX
 Basilica of Our Lady of Peace of Yamoussoukro | Pierre Fakhoury | Yamoussoukro, CI
@@ -202,12 +214,14 @@ Basilica of Sainte-Anne du Congo | Roger Erell | Brazzaville, CG
 Basilica of St. Pius X | Pierre Vago, Eugene Freyssinet | Lourdes, FR
 Basilica of the Annunciation | Giovanni Muzio | Nazareth, IL
 Basilica of the Holy Trinity | Alexandros Tombazis | Fátima, PT
+BasketBar | NL Architects | Utrecht, NL
 Bat Yam City Hall | Alfred Neumann, Zvi Hecker | Bat Yam, IL
 Bata Shoe Museum | Raymond Moriyama | Toronto, CA
 Bauhaus Dessau | Walter Gropius | Dessau, DE
 Bauhaus-Archiv | Walter Gropius, Alex Cvijanovic | Berlin, DE
 Bavinger House | Bruce Goff | Norman, US
 Bayterek Tower | Akmurza Rustembekov | Astana, KZ
+BedZED | Bill Dunster Architects | London, GB
 Bee'ah Headquarters |  | , 
 Bee'ah Headquarters | Zaha Hadid Architects | Sharjah, AE
 Beehive | Basil Spence | Wellington, NZ
@@ -237,6 +251,8 @@ Berlin State Library (Haus Potsdamer Straße) | Hans Scharoun | Berlin, DE
 Berliner Philharmonie | Hans Scharoun | Berlin, DE
 Beth Sholom Synagogue | Frank Lloyd Wright | Elkins Park, US
 Beurs van Berlage | Hendrik Petrus Berlage | Amsterdam, NL
+Bhong Mosque | Rais Ghazi Mohammad (patron) with local craftsmen | Bhong, PK
+Biblioteca Gabriel García Márquez | SUMA Arquitectura | Barcelona, ES
 Bibliotheca Alexandrina | Snohetta | Alexandria, EG
 Bibliothèque Alexis de Tocqueville | OMA | Caen, FR
 Bibliothèque nationale de France | Dominique Perrault | Paris, FR
@@ -245,9 +261,12 @@ Bihar Museum | Maki and Associates, Opolis | Patna, IN
 Bildmuseet | Henning Larsen Architects | Umeå, SE
 Binoculars Building | Frank Gehry with Claes Oldenburg and Coosje van Bruggen | Los Angeles, US
 Biomuseo | Frank Gehry | Panama City, PA
+Bishop Edward King Chapel | Niall McLaughlin Architects | Cuddesdon, GB
 Bitexco Financial Tower | Carlos Zapata | Ho Chi Minh City, VN
 Black Diamond | Schmidt Hammer Lassen | Copenhagen, DK
+Blavatnik School of Government | Herzog & de Meuron | Oxford, GB
 Bloch Building, Nelson-Atkins Museum of Art | Steven Holl | Kansas City, US
+Bloomberg London | Foster + Partners | London, GB
 Blue Building (Blue Condominium) | Kyriakos Panagiotakos | Athens, GR
 Boa Nova Tea House | Álvaro Siza | Leça da Palmeira, PT
 Bocconi University Urban Campus | SANAA | Milan, IT
@@ -266,6 +285,7 @@ Bosco Verticale | Stefano Boeri | Milan, IT
 Boston City Hall | Kallmann McKinnell & Knowles | Boston, US
 Boston Public Library, McKim Building | McKim, Mead & White | Boston, US
 Boutique Monaco | Mass Studies (Minsuk Cho) | Seoul, KR
+Bouça Social Housing | Álvaro Siza | Porto, PT
 Braga Municipal Stadium | Eduardo Souto de Moura | Braga, PT
 Brazilian Museum of Sculpture (MuBE) |  | , 
 Brazilian Museum of Sculpture (MuBE) | Paulo Mendes da Rocha | São Paulo, BR
@@ -277,6 +297,7 @@ Bridge of Peace | Michele De Lucchi | Tbilisi, GE
 Brion Cemetery | Carlo Scarpa | San Vito d'Altivole, IT
 British Council, New Delhi |  | , 
 British Council, New Delhi | Charles Correa | New Delhi, IN
+British Library | Colin St John Wilson, MJ Long | London, GB
 Bruder Klaus Field Chapel | Peter Zumthor | Mechernich, DE
 Brussels-Central Station | Victor Horta, Maxime Brunfaut | Brussels, BE
 Brücke Museum | Werner Düttmann | Berlin, DE
@@ -284,7 +305,9 @@ Bundeskunsthalle | Gustav Peichl | Bonn, DE
 Burj Al Arab | Tom Wright, Atkins | Dubai, AE
 Burj Khalifa | SOM | Dubai, AE
 Burkina Institute of Technology | Diébédo Francis Kéré | Koudougou, BF
+Burntwood School | Allford Hall Monaghan Morris | London, GB
 Burrell Collection | Barry Gasson, John Meunier and Brit Andresen | Glasgow, GB
+Burton Barr Central Library | Will Bruder | Phoenix, US
 Busan Cinema Center | Coop Himmelb(l)au | Busan, KR
 Busáras | Michael Scott | Dublin, IE
 Butaro District Hospital | MASS Design Group | Butaro, RW
@@ -310,6 +333,7 @@ Calgary Central Library | Snøhetta, DIALOG | Calgary, CA
 California Academy of Sciences | Renzo Piano | San Francisco, US
 Calouste Gulbenkian Museum | Ruy Athouguia, Pedro Cid, Alberto Pessoa | Lisbon, PT
 Caltrans District 7 Headquarters | Morphosis, Thom Mayne | Los Angeles, US
+Cambridge Central Mosque | Marks Barfield Architects | Cambridge, GB
 Camino Real Hotel, Mexico City |  | , 
 Camino Real Hotel, Mexico City | Ricardo Legorreta | Mexico City, MX
 Can Feliz | Jørn Utzon | Santanyí, ES
@@ -353,6 +377,7 @@ Casa Giuliani-Frigerio | Giuseppe Terragni | Como, IT
 Casa Kalmann | Luigi Snozzi | Brione sopra Minusio, CH
 Casa Klotz | Mathias Klotz | Tongoy, CL
 Casa Luis Barragán | Luis Barragán | Mexico City, MX
+Casa Luz | Arquitectura-G | Cilleros, ES
 Casa Malaparte | Adalberto Libera and Curzio Malaparte | Capri, IT
 Casa Milà | Antoni Gaudi | Barcelona, ES
 Casa Modernista | Gregori Warchavchik | São Paulo, BR
@@ -367,6 +392,7 @@ Casa alle Zattere | Ignazio Gardella | Venice, IT
 Casa da Música | OMA | Porto, PT
 Casa das Canoas | Oscar Niemeyer | Rio de Janeiro, BR
 Casa das Histórias Paula Rego | Eduardo Souto de Moura | Cascais, PT
+Casa das Mudas Art Centre | Paulo David | Calheta, PT
 Casa de Huéspedes Ilustres de Colombia |  | , 
 Casa de Huéspedes Ilustres de Colombia | Rogelio Salmona | Cartagena, CO
 Casa de Vidro | Lina Bo Bardi | São Paulo, BR
@@ -389,8 +415,10 @@ Cedar Rock (Walter House) | Frank Lloyd Wright | Quasqueton, US
 Centennial Hall | Max Berg | Wroclaw, PL
 Centennial Hall, Tokyo Institute of Technology | Kazuo Shinohara | Tokyo, JP
 Centraal Beheer | Herman Hertzberger | Apeldoorn, NL
+Central European University | O'Donnell + Tuomey | Budapest, HU
 Central Library (UNAM) | Juan O'Gorman, Gustavo Saavedra, Juan Martínez de Velasco | Mexico City, MX
 Central Market | Jean Desbois, Louis Chauchon | Phnom Penh, KH
+Central Market, Koudougou | Laurent Séchaud | Koudougou, BF
 Central Research Institute of Robotics and Technical Cybernetics | Stanislav Savin, Boris Artyushin | Saint Petersburg, RU
 Centre Pompidou | Renzo Piano, Richard Rogers | Paris, FR
 Centre Pompidou-Metz | Shigeru Ban, Jean de Gastines | Metz, FR
@@ -404,6 +432,7 @@ Centro Cultural Gabriela Mistral | Cristian Fernandez Eyzaguirre | Santiago, CL
 Centro Cultural de Cali | Rogelio Salmona | Cali, CO
 Centro Urbano Presidente Alemán | Mario Pani | Mexico City, MX
 Centro de Arte Moderna Gulbenkian | Leslie Martin | Lisbon, PT
+Centro de Artes de Sines | Aires Mateus | Sines, PT
 Centrosoyuz Building | Le Corbusier | Moscow, RU
 Century Plaza Towers | Minoru Yamasaki | Los Angeles, US
 Ceramic Park Mino | Arata Isozaki | Tajimi, JP
@@ -422,6 +451,7 @@ Chichu Art Museum | Tadao Ando | Naoshima, JP
 Chiesa Madre di Gibellina | Ludovico Quaroni | Gibellina, IT
 Chiesa del Santo Volto | Mario Botta | Turin, IT
 Chikatsu Asuka Museum | Tadao Ando | Kanan, JP
+Children Village | Aleph Zero, Rosenbaum | Formoso do Araguaia, BR
 Children's Centre for Psychiatric Rehabilitation |  | , 
 Children's Centre for Psychiatric Rehabilitation | Sou Fujimoto | Date, JP
 Children's Memorial, Yad Vashem | Moshe Safdie | Jerusalem, IL
@@ -484,12 +514,14 @@ Club Táchira | Fruto Vivas, with Eduardo Torroja | Caracas, VE
 Co-Cathedral of the Great Mother of God (Gran Madre di Dio) | Gio Ponti | Taranto, IT
 Coconut Palace | Francisco Manosa | Pasay, PH
 Colección de Arte Amalia Lacroze de Fortabat | Rafael Viñoly | Buenos Aires, AR
+Collage House | Bosch.Capdeferro Arquitectures | Girona, ES
 Collegio del Colle | Giancarlo De Carlo | Urbino, IT
 Cologne Central Mosque | Paul Bohm | Cologne, DE
 Columbus Lighthouse | J. L. Gleave | Santo Domingo Este, DO
 Commerzbank Tower | Foster and Partners | Frankfurt, DE
 Concertgebouw | Adolf Leonard van Gendt | Amsterdam, NL
 Concord Pavilion | Frank Gehry | Concord, US
+Concrete at Alserkal Avenue | OMA (Iyad Alsaka) | Dubai, AE
 Constance Perkins House | Richard Neutra | Pasadena, US
 Constitutional Court of South Africa | OMM Design Workshop, Urban Solutions | Johannesburg, ZA
 Contemporary Jewish Museum | Daniel Libeskind | San Francisco, US
@@ -506,8 +538,10 @@ Corpus Christi Church, Aachen | Rudolf Schwarz | Aachen, DE
 Corviale | Mario Fiorentino | Rome, IT
 Cosmic Rays Pavilion |  | , 
 Cosmic Rays Pavilion | Félix Candela, Jorge González Reyna | Mexico City, MX
+Courtyard Houses, Agadir | Jean-François Zevaco | Agadir, MA
 Coventry Cathedral | Basil Spence | Coventry, GB
 Creek Vean | Team 4 (Norman Foster, Wendy Cheesman, Richard Rogers, Su Brumwell) | Feock, GB
+Crow Island School | Perkins, Wheeler & Will with Eliel and Eero Saarinen | Winnetka, US
 Crucible Theatre | RHWL | Sheffield, GB
 Crypt of Colonia Guell | Antoni Gaudi | Santa Coloma de Cervello, ES
 Crystal Bridges Museum of American Art | Safdie Architects | Bentonville, US
@@ -542,13 +576,17 @@ De Kunstlinie | SANAA | Almere, NL
 De La Warr Pavilion | Erich Mendelsohn, Serge Chermayeff | Bexhill-on-Sea, GB
 De Rotterdam | OMA | Rotterdam, NL
 De Vonk | J. J. P. Oud | Noordwijkerhout, NL
+DeFlat Kleiburg | NL Architects, XVW architectuur | Amsterdam, NL
+Deere & Company Administrative Center | Eero Saarinen and Associates | Moline, US
 Delta Shelter | Tom Kundig (Olson Kundig) | Mazama, US
 Dentsu Building (Caretta Shiodome) | Jean Nouvel | Tokyo, JP
+Department of Mathematics, Faculty of Mathematics and Physics | Bevk Perović arhitekti | Ljubljana, SI
 Depot Boijmans van Beuningen | MVRDV | Rotterdam, NL
 Derzhprom | Sergei Serafimov, Samuel Kravets | Kharkiv, UA
 Des Moines Art Center | Eliel Saarinen, I. M. Pei and Richard Meier | Des Moines, US
 Design Museum Holon | Ron Arad | Holon, IL
 Design Museum | John Pawson, OMA | London, GB
+Design Research Building | Benjamin Thompson & Associates | Cambridge, US
 Deutsche Bank Place | Foster + Partners | Sydney, AU
 Deutsche Oper Berlin | Fritz Bornemann | Berlin, DE
 Dhahran Air Terminal | Minoru Yamasaki | Dhahran, SA
@@ -607,7 +645,10 @@ Embassy of Belgium, New Delhi |  | ,
 Embassy of Belgium, New Delhi | Satish Gujral | New Delhi, IN
 Emirates Towers | Hazel Wong | Dubai, AE
 Ena de Silva House | Geoffrey Bawa | Colombo, LK
+Enrico Fermi School | BDR bureau | Turin, IT
 Entebbe Children's Surgical Hospital | Renzo Piano | Entebbe, UG
+Entrepreneurship Development Institute of India | Bimal Hasmukh Patel | Ahmedabad, IN
+Equitable Building (Commonwealth Building) | Pietro Belluschi | Portland, US
 Erdene Zuu Monastery | Abtai Sain Khan | Kharkhorin, MN
 Espaces d'Abraxas | Ricardo Bofill | Noisy-le-Grand, FR
 Esplanade - Theatres on the Bay | DP Architects, Michael Wilford | Singapore, SG
@@ -618,11 +659,14 @@ European Central Bank | Coop Himmelb(l)au | Frankfurt, DE
 European Investment Bank | Ingenhoven Architects | Luxembourg, LU
 European Solidarity Centre | Fort Architekci | Gdańsk, PL
 Euskalduna Conference Centre and Concert Hall | Federico Soriano and Dolores Palacios | Bilbao, ES
+Evelyn Grace Academy | Zaha Hadid Architects | London, GB
 Everson Museum of Art | I. M. Pei | Syracuse, US
+Everyman Theatre | Haworth Tompkins | Liverpool, GB
 Evoluon | Louis Kalff, Leo de Bever | Eindhoven, NL
 Evolution Tower | RMJM | Moscow, RU
 Ewha Campus Complex |  | , 
 Ewha Campus Complex | Dominique Perrault | Seoul, KR
+Exchange House, Broadgate | Skidmore, Owings & Merrill | London, GB
 FAU-USP Building | Vilanova Artigas | São Paulo, BR
 FOCSA Building | Ernesto Gómez Sampera, Martín Domínguez Esteban | Havana, CU
 FRAC Nord-Pas de Calais |  | , 
@@ -638,6 +682,7 @@ Faculty of Languages, History and Geography | Bruno Taut | Ankara, TR
 Fagus Factory | Walter Gropius, Adolf Meyer | Alfeld, DE
 Faisal Mosque | Vedat Dalokay | Islamabad, PK
 Fallingwater | Frank Lloyd Wright | Mill Run, US
+Faneuil Hall Marketplace (Quincy Market) | Benjamin Thompson & Associates (renovation); Alexander Parris (1826 market) | Boston, US
 Farming Kindergarten |  | , 
 Farming Kindergarten | Vo Trong Nghia | Bien Hoa, VN
 Farnsworth House | Mies van der Rohe | Plano, US
@@ -660,9 +705,11 @@ Firenze Santa Maria Novella Station | Giovanni Michelucci | Florence, IT
 Fisher Building | Albert Kahn | Detroit, US
 Fisher Center for the Performing Arts | Frank Gehry | Annandale-on-Hudson, US
 Fisher House | Louis Kahn | Hatboro, US
+Fisterra Cemetery | César Portela | Fisterra, ES
 Fix Brewery (National Museum of Contemporary Art) | Takis Zenetos | Athens, GR
 Flame Towers | HOK | Baku, AZ
 Flamengo Park | Roberto Burle Marx, Affonso Eduardo Reidy | Rio de Janeiro, BR
+Florey Building | James Stirling | Oxford, GB
 Florya Atatürk Marine Mansion | Seyfi Arkan | Istanbul, TR
 Flower Kiosk, Malmö Eastern Cemetery |  | , 
 Flower Kiosk, Malmö Eastern Cemetery | Sigurd Lewerentz | Malmö, SE
@@ -686,6 +733,7 @@ Fountain Place | Henry N. Cobb (Pei Cobb Freed & Partners) | Dallas, US
 Four Domes Pavilion | Hans Poelzig | Wrocław, PL
 Four Seasons Centre for the Performing Arts | Diamond Schmitt Architects | Toronto, CA
 Franklin D. Roosevelt Four Freedoms Park | Louis Kahn | New York, US
+Frederic C. Hamilton Building, Denver Art Museum | Studio Daniel Libeskind with Davis Partnership | Denver, US
 Freedom Center (Jayu Center) | Kim Swoo-geun | Seoul, KR
 Freer Gallery of Art | Charles A. Platt | Washington, D.C., US
 French Communist Party Headquarters | Oscar Niemeyer | Paris, FR
@@ -720,6 +768,7 @@ Gallery of Modern Art | Kerry Clare, Lindsay Clare | Brisbane, AU
 Gandhi Bhawan | Pierre Jeanneret | Chandigarh, IN
 Gandhi Smarak Sangrahalaya | Charles Correa | Ahmedabad, IN
 Gando Primary School | Diébédo Francis Kéré | Gando, BF
+Gaoligong Museum of Handcraft Paper | TAO (Hua Li) | Tengchong, CN
 Garage Museum of Contemporary Art | OMA | Moscow, RU
 Garage with Chauffeur's Flat | Gerrit Rietveld | Utrecht, NL
 Garden & House | Ryue Nishizawa | Tokyo, JP
@@ -729,6 +778,7 @@ Gare do Oriente | Santiago Calatrava | Lisbon, PT
 Gartenstadt Falkenberg | Bruno Taut | Berlin, DE
 Gas Natural Building | Enric Miralles, Benedetta Tagliabue | Barcelona, ES
 Gate of Europe | Philip Johnson, John Burgee | Madrid, ES
+Gateshead Millennium Bridge | WilkinsonEyre, Gifford | Gateshead, GB
 Gateway Arch | Eero Saarinen | St. Louis, US
 Gavina Showroom | Carlo Scarpa | Bologna, IT
 Gehry Residence | Frank Gehry | Santa Monica, US
@@ -737,6 +787,7 @@ Geisel Library | William Pereira | San Diego, US
 Gemini Residence | MVRDV | Copenhagen, DK
 Gen-an | Osamu Ishiyama | None, JP
 General Archive of the Nation | Rogelio Salmona | Bogota, CO
+General Motors Technical Center | Eero Saarinen and Associates with Smith, Hinchman & Grylls | Warren, US
 Generali Tower | Zaha Hadid | Milan, IT
 Genex Tower | Mihajlo Mitrović | Belgrade, RS
 Genova San Giorgio Bridge | Renzo Piano | Genoa, IT
@@ -755,6 +806,7 @@ Glass House, Seopjikoji | Tadao Ando | Seogwipo, KR
 Glass Pavilion, Toledo Museum of Art | SANAA | Toledo, US
 Goetheanum | Rudolf Steiner | Dornach, CH
 Golconde | Antonin Raymond, George Nakashima | Puducherry, IN
+Goldsmith Street | Mikhail Riches with Cathy Hawley | Norwich, GB
 Gosplan Garage | Konstantin Melnikov | Moscow, RU
 Gosstrakh Apartments | Moisei Ginzburg | Moscow, RU
 Government Complex Sejong | Haeahn Architecture | Sejong, KR
@@ -781,6 +833,7 @@ Green Building (MIT Building 54) | I. M. Pei | Cambridge, US
 Green School Bali |  | , 
 Green School Bali | IBUKU | Sibang Kaja, ID
 Grieg Hall | Knud Munk | Bergen, NO
+Groot Klimmendaal Rehabilitation Centre | Koen van Velsen | Arnhem, NL
 Gropius House | Walter Gropius | Lincoln, US
 Großes Festspielhaus | Clemens Holzmeister | Salzburg, AT
 Großmarkthalle | Martin Elsaesser | Frankfurt, DE
@@ -794,6 +847,7 @@ Gustavianum | Olof Rudbeck | Uppsala, SE
 Gustavo Capanema Palace | Lúcio Costa, Oscar Niemeyer | Rio de Janeiro, BR
 Guthrie Theater | Ateliers Jean Nouvel | Minneapolis, US
 Gwathmey Residence and Studio | Charles Gwathmey | Amagansett, US
+Gymnasium, Koprivnica | Studio UP | Koprivnica, HR
 HSBC Main Building | Norman Foster | Hong Kong
 Haas House | Hans Hollein | Vienna, AT
 Habitat 67 | Moshe Safdie | Montréal, CA
@@ -810,15 +864,19 @@ Hans Otto Theater | Gottfried Böhm | Potsdam, DE
 Hanselmann House | Michael Graves | Fort Wayne, US
 Harbin Opera House | MAD Architects | Harbin, CN
 Harpa | Henning Larsen Architects, Olafur Eliasson | Reykjavik, IS
+Hassan II Bridge | Marc Mimram | Rabat, MA
 Hassan II Mosque | Michel Pinseau | Casablanca, MA
+Hastings Pier | dRMM | Hastings, GB
 Haus Gugalun | Peter Zumthor | Versam, CH
 Haus der Kulturen der Welt (Kongresshalle) | Hugh Stubbins | Berlin, DE
 Haus der Kunst | Paul Ludwig Troost | Munich, DE
 Haus des Rundfunks | Hans Poelzig | Berlin, DE
+Haystack Mountain School of Crafts | Edward Larrabee Barnes | Deer Isle, US
 Hayward Gallery | Ron Herron, Warren Chalk | London, GB
 Healy Guest House (Cocoon House) | Paul Rudolph and Ralph Twitchell | Sarasota, US
 Hearst Castle | Julia Morgan | San Simeon, US
 Hector Pieterson Museum | Mashabane Rose Associates | Soweto, ZA
+Hedge House | Wiel Arets | Wijlre, NL
 Hedmark Museum | Sverre Fehn | Hamar, NO
 Helix Bridge | Cox Architecture, Architects 61, Arup | Singapore, SG
 Helsinki Central Library Oodi | ALA Architects | Helsinki, FI
@@ -846,6 +904,7 @@ Hipodromo do Cristal | Roman Fresnedo Siri | Porto Alegre, BR
 Hiroshima Peace Memorial Museum | Kenzo Tange | Hiroshima, JP
 Hirshhorn Museum and Sculpture Garden | Gordon Bunshaft (SOM) | Washington, D.C., US
 Historial de la Grande Guerre | Henri Ciriani | Péronne, FR
+History Faculty Building, Cambridge | James Stirling | Cambridge, GB
 Ho Chi Minh Mausoleum | Garol Isakovich | Hanoi, VN
 Hochhaus an der Weberwiese | Hermann Henselmann | Berlin, DE
 Hoenheim-Nord Tram Terminus | Zaha Hadid | Hoenheim, FR
@@ -948,6 +1007,7 @@ Institute of Contemporary Art, Boston | Diller Scofidio + Renfro | Boston, US
 Institute of Foreign Languages |  | , 
 Institute of Foreign Languages | Vann Molyvann | Phnom Penh, KH
 Instituto Moreira Salles Paulista | Andrade Morettin Arquitetos | São Paulo, BR
+Intercontinental Hotel and Conference Centre, Mecca | Rolf Gutbrod, Frei Otto | Mecca, SA
 International Congress Centre | JEMS Architekci | Katowice, PL
 International House of Japan | Kunio Maekawa, Junzo Sakakura and Junzo Yoshimura | Tokyo, JP
 International Museum of Horology | Pierre Zoelly, Georges-Jacques Haefeli | La Chaux-de-Fonds, CH
@@ -956,6 +1016,7 @@ Inujima Seirensho Art Museum | Hiroshi Sambuichi | Inujima, JP
 Isabella Stewart Gardner Museum | Willard T. Sears | Boston, US
 Isbjerget | CEBRA, JDS | Aarhus, DK
 Ise Grand Shrine | Shinto shrine carpenters | Ise, JP
+Islamic Cemetery Altach | Bernardo Bader | Altach, AT
 Isokon Building | Wells Coates | London, GB
 Israel Goldstein Synagogue | David Resnick, Heinrich Rau | Jerusalem, IL
 Israel Museum | Alfred Mansfeld and Dora Gad | Jerusalem, IL
@@ -969,6 +1030,8 @@ Izvestia Building | Grigory Barkhin, Mikhail Barkhin | Moscow, RU
 Jachthuis Sint Hubertus | Hendrik Petrus Berlage | Otterlo, NL
 Jacob K. Javits Convention Center | I. M. Pei & Partners (James Ingo Freed) | New York, US
 Jacobs II House (Solar Hemicycle) | Frank Lloyd Wright | Middleton, US
+Jacoby Studios | David Chipperfield Architects Berlin | Paderborn, DE
+Jahad Metro Plaza | KA Architecture Studio | Tehran, IR
 Jameel Arts Centre |  | , 
 Jameel Arts Centre | Serie Architects | Dubai, AE
 James A. Farley Building (Moynihan Train Hall) | McKim, Mead & White; SOM (train hall) | New York City, US
@@ -1000,6 +1063,7 @@ Joensuu Town Hall | Eliel Saarinen | Joensuu, FI
 John F. Kennedy Presidential Library and Museum | I. M. Pei | Boston, US
 John Hancock Center | Bruce Graham, Fazlur Khan | Chicago, US
 John Hancock Tower | Henry N. Cobb | Boston, US
+John Morden Centre, Morden College | Mæ | London, GB
 Johnson Wax Headquarters | Frank Lloyd Wright | Racine, US
 Joieria Roca | Josep Lluís Sert | Barcelona, ES
 Jongmyo Shrine | Joseon builders | Seoul, KR
@@ -1022,12 +1086,14 @@ Kaknas Tower | Hans Borgstrom, Bengt Lindroos | Stockholm, SE
 Kala Academy | Charles Correa | Panaji, IN
 Kaleva Church | Reima Pietila, Raili Pietila | Tampere, FI
 Kamalapur railway station | Robert Boughey, Daniel Dunham | Dhaka, BD
+Kamanar Secondary School | Dawoffice | Thionck Essyl, SN
 Kamppi Chapel | K2S Architects | Helsinki, FI
 Kampung Admiralty |  | , 
 Kampung Admiralty | WOHA | Singapore, SG
 Kampung Kali Code |  | , 
 Kampung Kali Code | Y. B. Mangunwijaya | Yogyakarta, ID
 Kanchanjunga Apartments | Charles Correa | Mumbai, IN
+Kannikegården | Lundgaard & Tranberg | Ribe, DK
 Kantana Institute |  | , 
 Kantana Institute | Boonserm Premthada | Nakhon Pathom, TH
 Kanyon | Jerde Partnership, Tabanlıoğlu Architects | Istanbul, TR
@@ -1039,12 +1105,15 @@ Kasungu Maternity Waiting Village |  | ,
 Kasungu Maternity Waiting Village | MASS Design Group | Kasungu, MW
 Katsura Imperial Villa | Prince Toshihito and Toshitada | Kyoto, JP
 Katuaq | Schmidt Hammer Lassen | Nuuk, GL
+Katyń Museum | BBGK Architekci | Warsaw, PL
 Kauchuk Factory Club | Konstantin Melnikov | Moscow, RU
 Kaufmann Desert House | Richard Neutra | Palm Springs, US
+Kaufmann Holz Distribution Centre | Florian Nagler | Bobingen, DE
 Kavanagh building | Sanchez, Lagos & de la Torre | Buenos Aires, AR
 Kazakhstan Central Concert Hall | Manfredi Nicoletti | Astana, KZ
 Kaze-no-Oka Crematorium |  | , 
 Kaze-no-Oka Crematorium | Fumihiko Maki | Nakatsu, JP
+Kaédi Regional Hospital | Fabrizio Carola, ADAUA | Kaédi, MR
 Keeling House | Denys Lasdun | London, GB
 Kempegowda International Airport Terminal 2 | Skidmore, Owings & Merrill | Bengaluru, IN
 Ken Domon Museum of Photography | Yoshio Taniguchi | Sakata, JP
@@ -1052,6 +1121,7 @@ Kennedy Center | Edward Durell Stone | Washington, US
 Kentuck Knob | Frank Lloyd Wright | Chalk Hill, US
 Kenyatta International Convention Centre | Karl Henrik Nostvik | Nairobi, KE
 Khan Shatyr Entertainment Center | Foster + Partners | Astana, KZ
+Khudi Bari | Marina Tabassum Architects | Various locations, BD
 Kiasma | Steven Holl | Helsinki, FI
 Kidosaki House | Tadao Ando | Tokyo, JP
 Kigali Convention Centre | Roland Dieterle | Kigali, RW
@@ -1094,12 +1164,15 @@ Kunsthalle Bielefeld | Philip Johnson | Bielefeld, DE
 Kunsthaus Bregenz | Peter Zumthor | Bregenz, AT
 Kunsthaus Graz | Peter Cook, Colin Fournier | Graz, AT
 Kunstmuseum Liechtenstein | Morger & Degelo, Christian Kerez | Vaduz, LI
+Kunstmuseum Moritzburg extension | Nieto Sobejano Arquitectos | Halle, DE
+Kunstmuseum Ravensburg | Lederer Ragnarsdóttir Oei | Ravensburg, DE
 Kunstmuseum Stuttgart | Hascher Jehle Architektur | Stuttgart, DE
 Kurashiki City Art Museum (former City Hall) | Kenzō Tange | Kurashiki, JP
 Kursaal | Rafael Moneo | San Sebastián, ES
 Kuwait National Assembly | Jorn Utzon | Kuwait City, KW
 Kuwait National Museum | Michel Écochard | Kuwait City, KW
 Kuwait Towers | Sune Lindstrom, Malene Bjorn | Kuwait City, KW
+Kuwait Water Towers | Sune Lindström, VBB | Kuwait City, KW
 Kwame Nkrumah Mausoleum | Don Arthur | Accra, GH
 Kyiv Crematorium (Park of Memory) | Avraham Miletsky, Ada Rybachuk, Volodymyr Melnychenko | Kyiv, UA
 Kyobo Tower | Mario Botta | Seoul, KR
@@ -1119,6 +1192,7 @@ L'Àgora | Santiago Calatrava | Valencia, ES
 L. D. Institute of Indology | Balkrishna Doshi | Ahmedabad, IN
 LASALLE College of the Arts | RSP Architects Planners & Engineers | Singapore, SG
 LUMA Arles Tower | Frank Gehry | Arles, FR
+La Borda | Lacol | Barcelona, ES
 La Collina Omihachiman |  | , 
 La Collina Omihachiman | Terunobu Fujimori | Omihachiman, JP
 La Congiunta | Peter Märkli | Giornico, CH
@@ -1132,6 +1206,7 @@ La Scala | Giuseppe Piermarini | Milan, IT
 La Seine Musicale | Shigeru Ban | Boulogne-Billancourt, FR
 La Tallera |  | , 
 La Tallera | Frida Escobedo | Cuernavaca, MX
+Laban Dance Centre | Herzog & de Meuron | London, GB
 Lahti Town Hall | Eliel Saarinen | Lahti, FI
 Lake Point Tower | Schipporeit-Heinrich | Chicago, US
 Lakeuden Risti Church | Alvar Aalto | Seinajoki, FI
@@ -1165,14 +1240,17 @@ Les Orgues de Flandre | Martin Schulz van Treeck | Paris, FR
 Leutschenbach School |  | , 
 Leutschenbach School | Christian Kerez | Zurich, CH
 Lever House | Gordon Bunshaft, SOM | New York, US
+Lewis Glucksman Gallery | O'Donnell + Tuomey | Cork, IE
 Leão que Ri (Smiling Lion) |  | , 
 Leão que Ri (Smiling Lion) | Pancho Guedes | Maputo, MZ
 Leça Swimming Pools | Álvaro Siza | Matosinhos, PT
+Lianzhou Museum of Photography | O-office Architects | Lianzhou, CN
 Library of Birmingham | Mecanoo | Birmingham, GB
 Liederhalle | Rolf Gutbrod and Adolf Abel | Stuttgart, DE
 Lilla Bommen | Ralph Erskine | Gothenburg, SE
 Lille Cathedral | Charles Leroy; west front by Pierre-Louis Carlier | Lille, FR
 Lille Grand Palais | OMA | Lille, FR
+Lille Langebro | WilkinsonEyre, Urban Agency | Copenhagen, DK
 Linked Hybrid | Steven Holl | Beijing, CN
 Linnahall | Raine Karp | Tallinn, EE
 Lippo Centre | Paul Rudolph | Hong Kong, HK
@@ -1190,6 +1268,7 @@ London Eye | Marks Barfield | London, GB
 London Velodrome | Hopkins Architects | London, GB
 Long Museum West Bund | Atelier Deshaus | Shanghai, CN
 Looshaus | Adolf Loos | Vienna, AT
+Lord's Media Centre | Future Systems (Jan Kaplický, Amanda Levete) | London, GB
 Los Manantiales Restaurant |  | , 
 Los Manantiales Restaurant | Félix Candela | Mexico City, MX
 Lotus House | Kengo Kuma | None, JP
@@ -1223,8 +1302,13 @@ METU Faculty of Architecture | Altuğ Çinici, Behruz Çinici | Ankara, TR
 MIT Chapel | Eero Saarinen | Cambridge, US
 MLC Centre | Harry Seidler | Sydney, AU
 MO Museum | Studio Libeskind | Vilnius, LT
+MUSAC, Museum of Contemporary Art of Castilla y León | Mansilla + Tuñón | León, ES
 MUSE Science Museum | Renzo Piano Building Workshop | Trento, IT
 Macao Science Center | Pei Partnership Architects | Macau, MO
+Madinat al-Zahra Museum | Nieto Sobejano Arquitectos | Córdoba, ES
+Madrid-Barajas Airport Terminal 4 | Richard Rogers Partnership, Estudio Lamela | Madrid, ES
+Maggie's Centre London | Rogers Stirk Harbour + Partners | London, GB
+Magna Science Adventure Centre | Wilkinson Eyre | Rotherham, GB
 Magney House |  | , 
 Magney House | Glenn Murcutt | Bingie Point, AU
 Maison Blanche | Charles-Édouard Jeanneret (Le Corbusier) | La Chaux-de-Fonds, CH
@@ -1241,6 +1325,7 @@ Maison du Brésil | Le Corbusier and Lúcio Costa | Paris, FR
 Maison du Peuple, Clichy | Beaudouin & Lods with Jean Prouvé | Clichy, FR
 Maison à Bordeaux | OMA, Rem Koolhaas | Floirac, FR
 Maisons Jaoul | Le Corbusier | Neuilly-sur-Seine, FR
+Majara Residence | ZAV Architects | Hormuz Island, IR
 Majolikahaus | Otto Wagner | Vienna, AT
 Makuhari Messe | Fumihiko Maki | Chiba, JP
 Malaysian Houses of Parliament | William Ivor Shipley | Kuala Lumpur, MY
@@ -1277,10 +1362,12 @@ Mausoleum of Baba Taher | Mohsen Foroughi | Hamadan, IR
 Max Liebling House | Dov Karmi | Tel Aviv, IL
 Mayakovskaya Station | Alexey Dushkin | Moscow, RU
 Mazar-e-Quaid | Yahya Merchant | Karachi, PK
+Mbaru Niang, Wae Rebo | Yori Antar with the Wae Rebo community | Wae Rebo, ID
 McCormick Tribune Campus Center | OMA / Rem Koolhaas | Chicago, US
 McGraw-Hill Building | Raymond Hood | New York City, US
 McGregor Memorial Conference Center | Minoru Yamasaki | Detroit, US
 McLaren Technology Centre | Foster + Partners | Woking, GB
+Medical Centre, Mopti | André Ravéreau | Mopti, ML
 Melnikov House | Konstantin Melnikov | Moscow, RU
 Memorial to the Deportees, Yad Vashem | Moshe Safdie | Jerusalem, IL
 Memorial to the Murdered Jews of Europe | Peter Eisenman | Berlin, DE
@@ -1304,8 +1391,10 @@ Metropol Parasol | J. Mayer H. | Seville, ES
 Metropolitan Cathedral of Managua | Ricardo Legorreta | Managua, NI
 Metropolitan Cathedral of Rio de Janeiro | Edgar de Oliveira da Fonseca | Rio de Janeiro, BR
 Metso Library | Reima Pietilä, Raili Pietilä | Tampere, FI
+Michael Lee-Chin Crystal, Royal Ontario Museum | Studio Daniel Libeskind | Toronto, CA
 Michenzani Blocks |  | , 
 Michenzani Blocks | Hubert Scholz | Zanzibar City, TZ
+Micro Yuan'er Children's Library and Art Centre | ZAO/standardarchitecture (Zhang Ke) | Beijing, CN
 Microlibrary Taman Bima |  | , 
 Microlibrary Taman Bima | SHAU | Bandung, ID
 Miguel Ángel Asturias National Theatre | Efraín Recinos | Guatemala City, GT
@@ -1332,8 +1421,11 @@ Mjostarnet | Voll Arkitekter | Brumunddal, NO
 Mode Gakuen Cocoon Tower | Tange Associates | Tokyo, JP
 Modern Art Museum of Fort Worth | Tadao Ando | Fort Worth, US
 Moderna Museet | Rafael Moneo | Stockholm, SE
+Modulus Matrix: 85 Social Housing in Cornellà | Peris + Toral Arquitectes | Cornellà de Llobregat, ES
+Moesgaard Museum | Henning Larsen Architects | Aarhus, DK
 Mole Antonelliana | Alessandro Antonelli | Turin, IT
 Monte Amiata Housing (Gallaratese) | Carlo Aymonino and Aldo Rossi | Milan, IT
+Monterey Bay Aquarium | EHDD (Esherick Homsey Dodge & Davis) | Monterey, US
 Monterrey Housing |  | , 
 Monterrey Housing | Alejandro Aravena, Elemental | Santa Catarina, MX
 Montevideo | Mecanoo | Rotterdam, NL
@@ -1343,12 +1435,15 @@ Montreal Olympic Stadium | Roger Taillibert | Montreal, CA
 Monument to the Battle of the Nations | Bruno Schmitz | Leipzig, DE
 Monument to the Unknown Soldier (1959) | Rifat Chadirji | Baghdad, IQ
 Moriyama House | Ryue Nishizawa | Tokyo, JP
+Morocco Pavilion, Expo 2020 Dubai | Oualalou + Choi | Dubai, AE
 Morpheus Hotel | Zaha Hadid Architects | Macau, MO
+Mortensrud Church | Jensen & Skodvin | Oslo, NO
 Morton H. Meyerson Symphony Center | I. M. Pei | Dallas, US
 Moscow School of Management Skolkovo | Adjaye Associates | Moscow, RU
 Moscow State University Main Building | Lev Rudnev | Moscow, RU
 Moses Mabhida Stadium | gmp Architects | Durban, ZA
 Mosque-Madrasa of Sultan Hassan | Muhammad ibn Baylik al-Muhsini | Cairo, EG
+Moulmein Rise | WOHA | Singapore, SG
 Mountain Dwellings | BIG | Copenhagen, DK
 MuBE – Brazilian Museum of Sculpture | Paulo Mendes da Rocha | São Paulo, BR
 MuCEM | Rudy Ricciotti | Marseille, FR
@@ -1411,6 +1506,7 @@ Musée de la civilisation | Moshe Safdie | Quebec City, CA
 Musée des Confluences | Coop Himmelb(l)au | Lyon, FR
 Musée du quai Branly | Jean Nouvel | Paris, FR
 Musée départemental Arles antique | Henri Ciriani | Arles, FR
+Muttrah Fish Market | Snøhetta | Muttrah, OM
 Muuratsalo Experimental House | Alvar Aalto | Jyväskylä, FI
 Muziekcentrum Vredenburg | Herman Hertzberger | Utrecht, NL
 Muziekgebouw aan 't IJ | 3XN | Amsterdam, NL
@@ -1420,9 +1516,11 @@ Mäntyniemi | Reima Pietilä, Raili Pietilä | Helsinki, FI
 Märkisches Museum | Ludwig Hoffmann | Berlin, DE
 Mäusebunker | Gerd and Magdalena Hänska | Berlin, DE
 Möbius House | UNStudio (Ben van Berkel) | Het Gooi, NL
+NAVEZ, 5 social housing units | MSA, V+ | Brussels, BE
 NEMO Science Museum | Renzo Piano Building Workshop | Amsterdam, NL
 Nagasaki National Peace Memorial Hall | Akira Kuryu | Nagasaki, JP
 Nagasaki Prefectural Art Museum | Kengo Kuma | Nagasaki, JP
+Nail Çakırhan Residence | Nail Çakırhan | Akyaka, TR
 Nakagawa-machi Bato Hiroshige Museum | Kengo Kuma | Nakagawa, JP
 Nakagin Capsule Tower | Kisho Kurokawa | Tokyo, JP
 Naked House | Shigeru Ban | Kawagoe, JP
@@ -1488,6 +1586,8 @@ Naturalis Biodiversity Center | Neutelings Riedijk | Leiden, NL
 Nebraska State Capitol | Bertram Goodhue | Lincoln, US
 Negev Brigade Monument | Dani Karavan | Beersheba, IL
 Nemausus | Jean Nouvel | Nîmes, FR
+Netherlands Embassy, Berlin | OMA, Rem Koolhaas | Berlin, DE
+Netherlands Institute for Sound and Vision | Neutelings Riedijk Architecten | Hilversum, NL
 Netherlands Pavilion, Expo 2000 | MVRDV | Hanover, DE
 Neue Nationalgalerie | Mies van der Rohe | Berlin, DE
 Neue Pinakothek | Alexander von Branca | Munich, DE
@@ -1497,6 +1597,7 @@ Neviges Pilgrimage Church |  | ,
 Neviges Pilgrimage Church | Gottfried Böhm | Velbert, DE
 New Baris | Hassan Fathy | Kharga Oasis, EG
 New Gourna Village | Hassan Fathy | Luxor, EG
+New Library, Magdalene College | Niall McLaughlin Architects | Cambridge, GB
 New Museum | Kazuyo Sejima, Ryue Nishizawa | New York, US
 New Orleans Tower | Alvaro Siza | Rotterdam, NL
 New Synagogue Dresden | Wandel Hoefer Lorch + Hirsch | Dresden, DE
@@ -1505,6 +1606,7 @@ New Town Hall, Munich | Georg von Hauberrisser | Munich, DE
 New World Center | Frank Gehry | Miami Beach, US
 New York State Capitol | Thomas Fuller, Leopold Eidlitz, H. H. Richardson, Isaac Perry | Albany, US
 New York Times Building | Renzo Piano | New York, US
+Newport Street Gallery | Caruso St John | London, GB
 Newton Suites |  | , 
 Newton Suites | WOHA | Singapore, SG
 Nezu Museum | Kengo Kuma | Tokyo, JP
@@ -1570,6 +1672,7 @@ Oslo Opera House | Snøhetta | Oslo, NO
 Ostankino Tower | Nikolai Nikitin | Moscow, RU
 Otaniemi Chapel | Kaija Siren, Heikki Siren | Espoo, FI
 Ozeaneum | Behnisch Architekten | Stralsund, DE
+PLATO Contemporary Art Gallery | KWK Promes (Robert Konieczny) | Ostrava, CZ
 POLIN Museum of the History of Polish Jews | Lahdelma & Mahlamäki | Warsaw, PL
 PPG Place | Philip Johnson and John Burgee | Pittsburgh, US
 PREVI Experimental Housing |  | , 
@@ -1597,7 +1700,9 @@ Palacio de Bellas Artes | Adamo Boari, Federico Mariscal | Mexico City, MX
 Palacio de los Deportes | Felix Candela | Mexico City, MX
 Palais Bulles | Antti Lovag | Théoule-sur-Mer, FR
 Palais Garnier | Charles Garnier | Paris, FR
+Palais des Expositions (Grand Palais), Charleroi | AgwA, architecten jan de vylder inge vinck | Charleroi, BE
 Palau Güell | Antoni Gaudí | Barcelona, ES
+Palau Municipal d'Esports de Badalona | Esteve Bonell, Francesc Rius | Badalona, ES
 Palau Sant Jordi | Arata Isozaki | Barcelona, ES
 Palau de la Música Catalana | Lluis Domenech i Montaner | Barcelona, ES
 Palau de les Arts Reina Sofia | Santiago Calatrava | Valencia, ES
@@ -1662,6 +1767,7 @@ Pearl Palace | William Wesley Peters | Karaj, IR
 Pearl River Tower | SOM | Guangzhou, CN
 Pearling Path Visitor Centre |  | , 
 Pearling Path Visitor Centre | Valerio Olgiati | Muharraq, BH
+Peckham Library | Alsop & Störmer | London, GB
 Pedregulho Housing | Affonso Eduardo Reidy | Rio de Janeiro, BR
 Pennsylvania State Capitol | Joseph Miller Huston | Harrisburg, US
 Pennzoil Place | Philip Johnson and John Burgee | Houston, US
@@ -1678,6 +1784,7 @@ Philadelphia City Hall | John McArthur Jr. | Philadelphia, US
 Philadelphia Museum of Art | Horace Trumbauer; Zantzinger, Borie and Medary | Philadelphia, US
 Philharmonie Luxembourg | Christian de Portzamparc | Luxembourg, LU
 Philharmonie de Paris | Ateliers Jean Nouvel | Paris, FR
+Philip Merrill Environmental Center | SmithGroup | Annapolis, US
 Philippine International Convention Center | Leandro Locsin | Pasay, PH
 Phillips Exeter Academy Library | Louis Kahn | Exeter, US
 Pierre Lassonde Pavilion | OMA (Shohei Shigematsu) with Provencher_Roy | Quebec City, CA
@@ -1703,6 +1810,7 @@ Portugal Pavilion | Álvaro Siza | Lisbon, PT
 Potato Head Beach Club |  | , 
 Potato Head Beach Club | Andra Matin | Seminyak, ID
 Poundbury | Léon Krier | Dorchester, GB
+Pousada Santa Maria do Bouro | Eduardo Souto de Moura | Amares, PT
 Pousada de Santa Marinha | Fernando Távora | Guimarães, PT
 Prada Transformer | OMA | Seoul, KR
 Prado Museum extension | Rafael Moneo | Madrid, ES
@@ -1710,7 +1818,9 @@ Praxis (Taller de Arquitectura Agustín Hernández) | Agustín Hernández | Mexi
 Praça das Artes | Brasil Arquitetura | São Paulo, BR
 Praça do Patriarca Canopy |  | , 
 Praça do Patriarca Canopy | Paulo Mendes da Rocha | São Paulo, BR
+Price Tower | Frank Lloyd Wright | Bartlesville, US
 Puente de la Mujer | Santiago Calatrava | Buenos Aires, AR
+Pulitzer Arts Foundation | Tadao Ando | St. Louis, US
 Punakha Dzong | Zhabdrung Ngawang Namgyal | Punakha, BT
 Qasr Al Hokm Justice Palace and Grand Mosque |  | , 
 Qasr Al Hokm Justice Palace and Grand Mosque | Rasem Badran | Riyadh, SA
@@ -1724,6 +1834,7 @@ Quezon Memorial Shrine | Federico Ilustre | Quezon City, PH
 Quinta Monroy | Alejandro Aravena, Elemental | Iquique, CL
 Quinta da Conceição Tennis Pavilion |  | , 
 Quinta da Conceição Tennis Pavilion | Fernando Távora | Matosinhos, PT
+Quinta da Malagueira | Álvaro Siza | Évora, PT
 RMIT Storey Hall | Ashton Raggatt McDougall | Melbourne, AU
 Rachid Karami International Fair | Oscar Niemeyer | Tripoli, LB
 Radio City Music Hall | Edward Durell Stone and Donald Deskey | New York, US
@@ -1733,21 +1844,26 @@ Ramses Wissa Wassef Art Centre |  | ,
 Ramses Wissa Wassef Art Centre | Ramses Wissa Wassef | Harrania, EG
 Rani ki Vav | Chaulukya builders | Patan, IN
 Rashtrapati Bhavan | Edwin Lutyens | New Delhi, IN
+Rebirth of the Convent Saint-François | Amelia Tavella Architectes | Sainte-Lucie-de-Tallano, FR
 Recoleta Cultural Center | Clorindo Testa, Jacques Bedel | Buenos Aires, AR
 Red Banner Textile Factory | Erich Mendelsohn | Saint Petersburg, RU
 Red City Hall (Rotes Rathaus) | Hermann Friedrich Waesemann | Berlin, DE
+Reggio School | Andrés Jaque / Office for Political Innovation | Madrid, ES
 Regional Market, Dandaji |  | , 
 Regional Market, Dandaji | Atelier Masomi, Mariam Kamara, Yasaman Esmaili | Dandaji, NE
 Registan | Timurid and Shaybanid builders | Samarkand, UZ
 Reichstag | Norman Foster | Berlin, DE
 Reina Sofía Museum Extension | Jean Nouvel | Madrid, ES
 Renault Distribution Centre | Foster + Partners | Swindon, GB
+Renovation of Niemeyer Guest House | East Architecture Studio (Nicolas Fayad, Charles Kettaneh) | Tripoli, LB
 Renzo Piano Building Workshop, Punta Nave | Renzo Piano | Genoa, IT
 Retti Candle Shop | Hans Hollein | Vienna, AT
 Ricola Europe Production and Storage Building | Herzog & de Meuron | Mulhouse, FR
 Rietveld Schröder House | Gerrit Rietveld | Utrecht, NL
 Rike Park Music Theatre and Exhibition Hall | Massimiliano and Doriana Fuksas | Tbilisi, GE
+Ring of Remembrance (L'Anneau de la Mémoire) | Philippe Prost | Ablain-Saint-Nazaire, FR
 Riverside Museum | Zaha Hadid Architects | Glasgow, GB
+Rivesaltes Camp Memorial | Rudy Ricciotti | Rivesaltes, FR
 Robarts Library | Mathers & Haldenby | Toronto, CA
 Robert C. Weaver Federal Building | Marcel Breuer | Washington, D.C., US
 Robie House | Frank Lloyd Wright | Chicago, US
@@ -1770,12 +1886,14 @@ Rossiya Cinema | Spartak Kndeghtsyan, Artur Tarkhanyan, Grachya Poghosyan | Yere
 Rothko Chapel | Philip Johnson, Howard Barnstone | Houston, US
 Rovaniemi Library | Alvar Aalto | Rovaniemi, FI
 Row House in Sumiyoshi | Tadao Ando | Osaka, JP
+Royal Academy for Nature Conservation | Ammar Khammash | Ajloun, JO
 Royal Albert Hall | Francis Fowke and Henry Y. D. Scott | London, GB
 Royal College of Physicians | Denys Lasdun | London, GB
 Royal Danish Playhouse | Lundgaard & Tranberg | Copenhagen, DK
 Royal Exhibition Building | Joseph Reed | Melbourne, AU
 Royal Festival Hall | Leslie Martin, Robert Matthew | London, GB
 Royal National Theatre | Denys Lasdun | London, GB
+Royal Netherlands Embassy, Addis Ababa | Dick van Gameren, Bjarne Mastenbroek | Addis Ababa, ET
 Rue des Suisses Housing | Herzog & de Meuron | Paris, FR
 Rufer House | Adolf Loos | Vienna, AT
 Rusakov Workers' Club | Konstantin Melnikov | Moscow, RU
@@ -1795,6 +1913,8 @@ Sacred Heart Cathedral, Casablanca | Paul Tournon | Casablanca, MA
 Sagrada Familia | Antoni Gaudi | Barcelona, ES
 Sagrada Família schools | Antoni Gaudi | Barcelona, ES
 Sainsbury Centre for Visual Arts | Norman Foster | Norwich, GB
+Sainsbury Laboratory | Stanton Williams | Cambridge, GB
+Sainsbury Wing, National Gallery | Venturi, Scott Brown and Associates | London, GB
 Saint Benedict Chapel | Peter Zumthor | Sumvitg, CH
 Saint Boniface Cathedral | Etienne Gaboury | Winnipeg, CA
 Saint Louis Art Museum, East Building | David Chipperfield Architects | St. Louis, US
@@ -1809,9 +1929,11 @@ Sakamoto Ryōma Memorial Museum | Workshop (Hiroshi and Akiko Takahashi) | Kōch
 Salam Centre for Cardiac Surgery |  | , 
 Salam Centre for Cardiac Surgery | Studio Tamassociati | Khartoum, SD
 Salerno Maritime Terminal | Zaha Hadid Architects | Salerno, IT
+Salinger House | Jimmy Lim | Kajang, MY
 Salk Institute | Louis Kahn | La Jolla, US
 Salto Bus Terminal | Eladio Dieste | Salto, UY
 Salyut Hotel | Avraham Miletsky | Kyiv, UA
+San Antonio Central Library | Ricardo Legorreta with Sprinkle Robey Architects and Johnson-Dempsey & Associates | San Antonio, US
 San Cataldo Cemetery |  | , 
 San Cataldo Cemetery | Aldo Rossi, Gianni Braghieri | Modena, IT
 San Francesco al Fopponino | Gio Ponti | Milan, IT
@@ -1822,6 +1944,7 @@ San Francisco Museum of Modern Art | Mario Botta | San Francisco, US
 San José City Hall | Richard Meier | San Jose, US
 San Miguel Corporation Building |  | , 
 San Miguel Corporation Building | Mañosa & Partners | Mandaluyong, PH
+San Telmo Museum extension | Nieto Sobejano Arquitectos | San Sebastián, ES
 Sanatorium Purkersdorf | Josef Hoffmann | Purkersdorf, AT
 Sancaklar Mosque | Emre Arolat | Istanbul, TR
 Sanctuary of Meritxell | Ricardo Bofill | Canillo, AD
@@ -1833,6 +1956,7 @@ Sant Antoni-Joan Oliver Library | RCR Arquitectes | Barcelona, ES
 Santa Caterina Market |  | , 
 Santa Caterina Market | Enric Miralles, Benedetta Tagliabue | Barcelona, ES
 Santa Maria Assunta, Riola | Alvar Aalto | Riola, IT
+Santa Maria Church, Marco de Canaveses | Álvaro Siza | Marco de Canaveses, PT
 Santa Maria Immacolata, Longarone | Giovanni Michelucci | Longarone, IT
 Santa Maria da Feira Municipal Market |  | , 
 Santa Maria da Feira Municipal Market | Fernando Távora | Santa Maria da Feira, PT
@@ -1843,10 +1967,13 @@ Sarah Kubitschek Hospital Salvador | João Filgueiras Lima (Lelé) | Salvador, B
 Sardar Vallabhbhai Patel Stadium | Charles Correa, Mahendra Raj | Ahmedabad, IN
 Sarpi Border Checkpoint | J. Mayer H. Architects | Sarpi, GE
 Sava Centar | Stojan Maksimović | Belgrade, RS
+Saw Swee Hock Student Centre, LSE | O'Donnell + Tuomey | London, GB
 Scharoun Theatre Wolfsburg | Hans Scharoun | Wolfsburg, DE
 Schindler House | Rudolph Schindler | West Hollywood, US
 Schocken Library | Erich Mendelsohn | Jerusalem, IL
+School Canteen, Montbrun-Bocage | BAST (Bureau Architectures Sans Titre) | Montbrun-Bocage, FR
 School of the Arts, Singapore | WOHA | Singapore, SG
+Scientific Information Centre and Academic Library (CINiBA) | HS99 | Katowice, PL
 Scotland Street School | Charles Rennie Mackintosh | Glasgow, GB
 Scottish Parliament Building | Enric Miralles, Benedetta Tagliabue | Edinburgh, GB
 Sea Organ | Nikola Bašić | Zadar, HR
@@ -1856,9 +1983,11 @@ Seattle Central Library | OMA | Seattle, US
 Secession Building | Joseph Maria Olbrich | Vienna, AT
 Second Artigas House (Residência Vilanova Artigas II) | Vilanova Artigas | São Paulo, BR
 Secretariat Building | Le Corbusier | Chandigarh, IN
+Selfridges Building, Birmingham | Future Systems (Jan Kaplický, Amanda Levete) | Birmingham, GB
 Selimiye Mosque | Mimar Sinan | Edirne, TR
 Semperoper | Gottfried Semper | Dresden, DE
 Sendai Mediatheque | Toyo Ito | Sendai, JP
+Senedd | Richard Rogers Partnership | Cardiff, GB
 Seonyudo Park | Seoahn Total Landscape (Jung Young-sun), Joh Sung-yong | Seoul, KR
 Seoul Arts Center Opera House | Kim Seok-chul | Seoul, KR
 Seoul City Hall | Yoo Kerl (iArc) | Seoul, KR
@@ -1905,6 +2034,7 @@ Siedlung Halen | Atelier 5 | Kirchlindach, CH
 Signal Box Auf dem Wolf |  | , 
 Signal Box Auf dem Wolf | Herzog & de Meuron | Basel, CH
 Silver Hut | Toyo Ito | Imabari, JP
+Simmons Hall, MIT | Steven Holl Architects | Cambridge, US
 Simon Fraser University | Arthur Erickson, Geoffrey Massey | Burnaby, CA
 Simose Art Museum | Shigeru Ban | Otake, JP
 Simpson-Lee House | Glenn Murcutt | Mount Wilson, AU
@@ -1959,7 +2089,9 @@ Stacking Green | Vo Trong Nghia | Ho Chi Minh City, VN
 Stadio Artemio Franchi | Pier Luigi Nervi | Florence, IT
 Stadio San Nicola | Renzo Piano Building Workshop | Bari, IT
 Stadium 974 | Fenwick Iribarren Architects | Doha, QA
+Stadshal (Market Hall), Ghent | Robbrecht en Daem, Marie-José Van Hee | Ghent, BE
 Stadsschouwburg Utrecht | Willem Marinus Dudok | Utrecht, NL
+Stadthaus Scharnhauser Park | J. Mayer H. | Ostfildern, DE
 Stadthaus Ulm | Richard Meier | Ulm, DE
 Stahl House (Case Study House #22) | Pierre Koenig | Los Angeles, US
 Standard Bank Centre | Hubert Petschnigg | Johannesburg, ZA
@@ -1979,9 +2111,12 @@ Stockholm Public Library | Gunnar Asplund | Stockholm, SE
 Stoclet Palace | Josef Hoffmann | Brussels, BE
 Stone Garden | Lina Ghotmeh | Beirut, LB
 Stone Museum (Stone Plaza) | Kengo Kuma | Nasu, JP
+Stormen Concert Hall and Library | DRDH Architects | Bodø, NO
 Strelka Institute | None | Moscow, RU
 Stretto House | Steven Holl | Dallas, US
 Studio Aalto | Alvar Aalto | Helsinki, FI
+Study Pavilion, TU Braunschweig | Gustav Düsing, Max Hacke | Braunschweig, DE
+Stuttgart Music School (Musikhochschule) | James Stirling, Michael Wilford and Associates | Stuttgart, DE
 Stuttgart TV Tower | Fritz Leonhardt | Stuttgart, DE
 Sultan Qaboos Grand Mosque | Mohammed Saleh Makiya, Quad Design | Muscat, OM
 Sumida Hokusai Museum | Kazuyo Sejima | Tokyo, JP
@@ -2054,14 +2189,18 @@ Termas Geométricas |  | ,
 Termas Geométricas | Germán del Sol | Coñaripe, CL
 Terneuzen City Hall | Van den Broek en Bakema | Terneuzen, NL
 Terra, the Sustainability Pavilion | Grimshaw | Dubai, AE
+Terrassenhaus Berlin / Lobe Block | Brandlhuber+ Emde, Burlon and Muck Petzet Architekten | Berlin, DE
 Teshima Art Museum | Ryue Nishizawa, Rei Naito | Teshima, JP
 Thammasat University Rooftop Farm |  | , 
 Thammasat University Rooftop Farm | LANDPROCESS | Pathum Thani, TH
 The Atheneum | Richard Meier | New Harmony, US
 The Bow | Foster + Partners | Calgary, CA
+The Box (Conjunctive Points) | Eric Owen Moss Architects | Culver City, US
+The Datai Langkawi | Kerry Hill with Akitek Jururancang | Langkawi, MY
 The Egg (Beirut City Center) | Joseph Philippe Karam | Beirut, LB
 The Gateway | I. M. Pei | Singapore, SG
 The Glasshouse | Foster and Partners | Gateshead, GB
+The Hepworth Wakefield | David Chipperfield Architects | Wakefield, GB
 The Hive, Nanyang Technological University |  | , 
 The Hive, Nanyang Technological University | Heatherwick Studio | Singapore, SG
 The Index |  | , 
@@ -2073,7 +2212,10 @@ The Met | WOHA | Bangkok, TH
 The Morgan Library & Museum | McKim, Mead & White | New York, US
 The Museum Hotel Antakya |  | , 
 The Museum Hotel Antakya | Emre Arolat Architecture | Antakya, TR
+The Neurosciences Institute | Tod Williams Billie Tsien Architects | La Jolla, US
+The New Art Gallery Walsall | Caruso St John | Walsall, GB
 The Opus | Zaha Hadid Architects | Dubai, AE
+The Railway Farm (La Ferme du Rail) | Grand Huit | Paris, FR
 The Shard | Renzo Piano | London, GB
 The Smiling Lion | Pancho Guedes | Maputo, MZ
 Therme Vals | Peter Zumthor | Vals, CH
@@ -2085,9 +2227,11 @@ Thyssen-Bornemisza Museum | Rafael Moneo | Madrid, ES
 Théâtre des Champs-Élysées | Auguste Perret | Paris, FR
 Tietgenkollegiet | Lundgaard & Tranberg | Copenhagen, DK
 Timberline Lodge | W. I. Turner and Gilbert Stanley Underwood (WPA) | Government Camp, US
+Tinggården | Tegnestuen Vandkunsten | Herfølge, DK
 Toba Sea-Folk Museum | Hiroshi Naito | Toba, JP
 Tod's Omotesando Building |  | , 
 Tod's Omotesando Building | Toyo Ito | Tokyo, JP
+Toho Gakuen School of Music | Nikken Sekkei | Chofu, JP
 Tokyo Apartment | Sou Fujimoto | Tokyo, JP
 Tokyo Big Sight | AXS Satow | Tokyo, JP
 Tokyo Bunka Kaikan | Kunio Maekawa | Tokyo, JP
@@ -2173,6 +2317,7 @@ United States Supreme Court Building | Cass Gilbert | Washington, D.C., US
 Unity Temple | Frank Lloyd Wright | Oak Park, US
 Unité d'Habitation | Le Corbusier | Marseille, FR
 Universita Luigi Bocconi Building | Grafton Architects | Milan, IT
+Universiti Teknologi Petronas | Foster + Partners | Seri Iskandar, MY
 University of Constantine | Oscar Niemeyer | Constantine, DZ
 University of Global Health Equity |  | , 
 University of Global Health Equity | MASS Design Group | Butaro, RW
@@ -2192,12 +2337,14 @@ Vakko Fashion Center | REX | Istanbul, TR
 Van Gogh Museum | Gerrit Rietveld | Amsterdam, NL
 Van Nelle Factory | Brinkman & Van der Vlugt | Rotterdam, NL
 Vancouver House | BIG | Vancouver, CA
+Vanke Center (Horizontal Skyscraper) | Steven Holl Architects | Shenzhen, CN
 Vanna Venturi House | Robert Venturi | Philadelphia, US
 Vasconcelos Library | Alberto Kalach | Mexico City, MX
 Vaven | White Arkitekter, Snohetta | Umea, SE
 Vele di Scampia | Franz Di Salvo | Naples, IT
 Veles e Vents | David Chipperfield | Valencia, ES
 Veletržní palác | Oldřich Tyl, Josef Fuchs | Prague, CZ
+Velodrom and Swimming Hall, Berlin | Dominique Perrault | Berlin, DE
 Vertical Courtyard Apartments |  | , 
 Vertical Courtyard Apartments | Wang Shu, Amateur Architecture Studio | Hangzhou, CN
 Via 57 West | BIG | New York, US
@@ -2239,6 +2386,7 @@ Villa Verde Housing | Alejandro Aravena, Elemental | Constitución, CL
 Villa dall'Ava | OMA, Rem Koolhaas | Saint-Cloud, FR
 Vilnius Palace of Concerts and Sports | Eduardas Chlomauskas | Vilnius, LT
 Virgilio Barco Library | Rogelio Salmona | Bogotá, CO
+Vision Pakistan | DB Studios (Mohammad Saifullah Siddiqui) | Islamabad, PK
 Vitra Design Museum | Frank Gehry | Weil am Rhein, DE
 Vitra Fire Station | Zaha Hadid | Weil am Rhein, DE
 VivoCity | Toyo Ito | Singapore, SG
@@ -2246,6 +2394,7 @@ Volontariat Homes for Homeless Children |  | ,
 Volontariat Homes for Homeless Children | Anupama Kundoo | Pondicherry, IN
 Voortrekker Monument | Gerard Moerdijk | Pretoria, ZA
 W Abu Dhabi – Yas Island | Asymptote Architecture | Abu Dhabi, AE
+WZB Berlin Social Science Center | James Stirling, Michael Wilford and Associates | Berlin, DE
 Wainwright Building | Louis Sullivan | St. Louis, US
 Walden 7 | Ricardo Bofill | Sant Just Desvern, ES
 Wales Millennium Centre | Jonathan Adams | Cardiff, GB
@@ -2257,11 +2406,15 @@ Walsh Street House (Boyd House II) | Robin Boyd | Melbourne, AU
 Walt Disney Concert Hall | Frank Gehry | Los Angeles, US
 Wangjing SOHO | Zaha Hadid Architects | Beijing, CN
 Washington Dulles Airport Terminal | Eero Saarinen | Chantilly, US
+Washington Metro stations | Harry Weese | Washington, US
+Wasit Wetland Centre | X-Architects | Sharjah, AE
 Wat Xieng Thong | Lao builders | Luang Prabang, LA
 Watari Museum of Contemporary Art (Watari-um) | Mario Botta | Tokyo, JP
 Water Temple (Honpuku-ji) |  | , 
 Water Temple (Honpuku-ji) | Tadao Ando | Awaji, JP
 Water/Glass | Kengo Kuma | Atami, JP
+Waterloo International | Nicholas Grimshaw & Partners | London, GB
+Weald and Downland Gridshell | Edward Cullinan Architects, Buro Happold | Singleton, GB
 Weekend House, Anavyssos | Aris Konstantinidis | Anavyssos, GR
 Weesperflat | Herman Hertzberger | Amsterdam, NL
 Weisman Art Museum | Frank Gehry | Minneapolis, US
@@ -2273,8 +2426,10 @@ Wembley Stadium | Foster + Partners | London, GB
 Wencun Village |  | , 
 Wencun Village | Wang Shu, Amateur Architecture Studio | Hangzhou, CN
 West Japan General Exhibition Center | Arata Isozaki | Kitakyushu, JP
+West Wusutu Village Community Centre | Zhang Pengju, Inner Mongolian Grand Architecture Design | Hohhot, CN
 Westmount Square | Ludwig Mies van der Rohe | Montreal, CA
 Wexner Center for the Arts | Peter Eisenman | Columbus, US
+Weyerhaeuser Corporate Headquarters | Skidmore, Owings & Merrill (Edward Charles Bassett), with Sasaki, Walker and Associates | Federal Way, US
 White House (Moscow) | Dmitry Chechulin | Moscow, RU
 White U | Toyo Ito | Tokyo, JP
 Whitney Museum of American Art | Renzo Piano Building Workshop | New York, US
@@ -2287,6 +2442,7 @@ Wohnpark Alt-Erlaa | Harry Glück | Vienna, AT
 Wohnstadt Carl Legien | Bruno Taut, Franz Hillinger | Berlin, DE
 Women's Opportunity Center |  | , 
 Women's Opportunity Center | Sharon Davis Design | Kayonza, RW
+Wonder Cabinet | AAU Anastas | Bethlehem, PS
 Woodland Cemetery |  | , 
 Woodland Cemetery | Gunnar Asplund, Sigurd Lewerentz | Stockholm, SE
 Woolworth Building | Cass Gilbert | New York, US
@@ -2297,6 +2453,7 @@ Wrigley Building | Graham, Anderson, Probst & White | Chicago, US
 Xenia Hotel, Mykonos | Aris Konstantinidis | Mykonos, GR
 Xylem |  | , 
 Xylem | Diébédo Francis Kéré | Fishtail, US
+Yaama Mosque | El Hadji Falké Barmou | Yaama, NE
 Yad Kennedy | David Resnick | Jerusalem, IL
 Yad Vashem Holocaust History Museum | Moshe Safdie | Jerusalem, IL
 Yale Art and Architecture Building | Paul Rudolph | New Haven, US
@@ -2305,6 +2462,7 @@ Yamanashi Press and Broadcasting Center |  | ,
 Yamanashi Press and Broadcasting Center | Kenzo Tange | Kofu, JP
 Yamanashi Press and Broadcasting Centre | Kenzō Tange | Kofu, JP
 Yangdeok Cathedral | Kim Swoo-geun | Changwon, KR
+Yarlung Tsangpo Boat Terminal | ZAO/standardarchitecture (Zhang Ke) | Nyingchi, CN
 Yekaterinburg Circus | Nikolai Nikitin | Yekaterinburg, RU
 Yerevan Cascade | Jim Torosyan | Yerevan, AM
 Yokohama Museum of Art | Kenzō Tange | Yokohama, JP
@@ -2313,6 +2471,7 @@ Yoyogi National Gymnasium | Kenzo Tange | Tokyo, JP
 Yugoslav Ministry of Defence (Generalstab) | Nikola Dobrovic | Belgrade, RS
 Yusuhara Wooden Bridge Museum |  | , 
 Yusuhara Wooden Bridge Museum | Kengo Kuma | Yusuhara, JP
+Z33 House for Contemporary Art, Design and Architecture | Francesca Torzo | Hasselt, BE
 ZIL Palace of Culture | Vesnin brothers | Moscow, RU
 Zanussi Offices | Gino Valle | Porcia, IT
 Zaryadye Park | Diller Scofidio + Renfro | Moscow, RU
@@ -2325,6 +2484,7 @@ Zonnestraal Sanatorium | Jan Duiker, Bernard Bijvoet | Hilversum, NL
 Zorlu Center | Emre Arolat, Tabanlioglu Architects | Istanbul, TR
 Zuev Workers' Club | Ilya Golosov | Moscow, RU
 Zvartnots Airport Old Terminal | Artur Tarkhanyan, Spartak Khachikyan, Levon Cherkezyan, Zhorzh Shekhlyan | Yerevan, AM
+Zénith de Strasbourg | Massimiliano and Doriana Fuksas | Eckbolsheim, FR
 de Young Museum | Herzog & de Meuron | San Francisco, US
 parc de la Villette | Bernard Tschumi | Paris, FR
 wNw Bar |  | , 
@@ -2336,4 +2496,5 @@ wNw Bar | Vo Trong Nghia | Thu Dau Mot, VN
 İpekyol Textile Factory | Emre Arolat | Edirne, TR
 İstanbul Modern | Renzo Piano | Istanbul, TR
 Şakirin Mosque | Husrev Tayla | Istanbul, TR
+Šerefudin's White Mosque | Zlatko Ugljen | Visoko, BA
 Žižkov Television Tower | Václav Aulický | Prague, CZ
