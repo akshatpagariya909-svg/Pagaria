@@ -740,5 +740,215 @@
   "author": "",
   "evidence": "",
   "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search returned only unrelated PDFs/videos; no category; no enwiki page."
+ },
+ {
+  "name": "Cecil Balmond",
+  "status": "found",
+  "wikidata": "",
+  "file": "File:Balmond.jpg",
+  "license": "CC BY 4.0",
+  "author": "MK Balmond",
+  "evidence": "https://commons.wikimedia.org/wiki/File:Balmond.jpg",
+  "note": "719x1038, description 'Balmond in 2017', category Cecil Balmond"
+ },
+ {
+  "name": "Charles Evans Hughes III",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Category (3 files) and search contain only 1916 family group photos of the Hughes family with the person as a child among 9; no individual portrait; enwiki pageimage 'Charles_E._Hughes_and_family_1916.jpg' is a group photo. Rejected."
+ },
+ {
+  "name": "Charlotte Frank",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search finds only a Stolperstein for a different Charlotte Frank (wrong person) and the Berlin Chancellery building; Category:Charlotte Frank has 0 files (5 subcats); enwiki pageimage Kanzler21a.jpg (building)."
+ },
+ {
+  "name": "Chen Chi-kwan",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search (English and Chinese 陳其寬) gives only Tunghai University / Luce Chapel buildings; Category:Chen Chi-kwan 0 files (1 subcat); enwiki pageimage THU_Luce_Memorial_Chapel.jpg (building)."
+ },
+ {
+  "name": "Chen Deng'ao",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. 0 hits in both searches; no category; no enwiki page."
+ },
+ {
+  "name": "Chen Zhi",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search 'Chen Zhi', 'Chen Zhi architect Shanghai' and Chinese '陈植 建筑师' return only unrelated items; no category (Chen Zhi / Chen Zhi (architect)); enwiki 'Chen Zhi' exists (may be disambiguation) with no pageimage."
+ },
+ {
+  "name": "Cheng Taining",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Only National Theatre of Ghana and Ningbo montage (buildings); Chinese search '程泰宁 建筑师' no portrait; Category:Cheng Taining 0 files (4 building subcats); enwiki pageimage is National Theatre of Ghana."
+ },
+ {
+  "name": "Choi Moon-gyu",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search irrelevant (Korean politics PDFs / HK sign); no category; no enwiki page."
+ },
+ {
+  "name": "Choi Ropiha",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "firm/practice"
+ },
+ {
+  "name": "Christophe Hutin",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search only returns Edmond Lay buildings and OCR books; no category; no enwiki page."
+ },
+ {
+  "name": "Cino Calcaprina",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. 0 hits; no category; no enwiki page."
+ },
+ {
+  "name": "Cipriano Domínguez",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search only unrelated PDFs (Cipriano Castro etc.); no category; no enwiki page."
+ },
+ {
+  "name": "Claude Bucher",
+  "status": "none",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "Checked Commons file search '<name>' and '<name> architect', Category:<name> (files+subcats), en.wikipedia pageimage. Search only unrelated (Strasbourg street sign, bûcher books); no category; no enwiki page."
+ },
+ {
+  "name": "Claude Parent",
+  "status": "found",
+  "wikidata": "",
+  "file": "File:Claude Parent 1980s © Chloé Parent.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Chloé Parent",
+  "evidence": "https://commons.wikimedia.org/wiki/File:Claude_Parent_1980s_©_Chloé_Parent.jpg",
+  "note": "1848x1361, VRTS permission confirmed, category Claude Parent"
+ },
+ {
+  "name": "Colin Fournier",
+  "status": "none",
+  "note": "Commons search 'Colin Fournier' and '... architect': only Kunsthaus Graz photos and unrelated Fournier items; Category:Colin Fournier empty/missing; en.wikipedia page exists (Q5145102, British architect 1944-2024) but has no infobox image."
+ },
+ {
+  "name": "Colin Madigan",
+  "status": "none",
+  "note": "Commons searches 'Colin Madigan' and '... architect': only National Gallery photo and unrelated Madigans; Category:Colin Madigan missing; en.wikipedia page exists (Q5145318) with no image."
+ },
+ {
+  "name": "Conrad Gargett Lyons",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "practice, not a person"
+ },
+ {
+  "name": "Constantinos Doxiadis",
+  "status": "none",
+  "note": "Searches 'Constantinos Doxiadis' (+architect): only 'Doxiadisekistics2.jpg' (194x260 diagram, CC BY-SA, not a portrait), Apostolos Doxiadis (different person), TSC Dhaka. Category:Constantinos Doxiadis missing; category search shows only Apostolos Doxiadis / Doxiadis (surname). en.wikipedia page exists, no pageimage."
+ },
+ {
+  "name": "Coosje van Bruggen",
+  "status": "none",
+  "note": "Searches (+architect) return only sculptures by Oldenburg & van Bruggen; Category:Coosje van Bruggen has 5 files, all artworks/plaque/skyline, no portrait. en.wikipedia page exists, no pageimage."
+ },
+ {
+  "name": "Craig Craig Moller",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "practice, not a person"
+ },
+ {
+  "name": "Craig W. Hartman",
+  "status": "none",
+  "note": "Searches 'Craig W. Hartman', 'Craig Hartman architect': only Cathedral of Christ the Light photos and unrelated Hartmans; Category missing; en.wikipedia page exists, no pageimage."
+ },
+ {
+  "name": "Cristian Fernandez Eyzaguirre",
+  "status": "none",
+  "note": "Commons searches: 0 relevant hits; category missing; en.wikipedia page does not exist."
+ },
+ {
+  "name": "Cristián Undurraga",
+  "status": "none",
+  "note": "Commons searches: only Santuario del Padre Hurtado building photos and unrelated; Category missing; en.wikipedia page exists (Cristián Undurraga) with no pageimage."
+ },
+ {
+  "name": "Cukrowicz Nachbaur",
+  "status": "firm",
+  "wikidata": "",
+  "file": "",
+  "license": "",
+  "author": "",
+  "evidence": "",
+  "note": "practice, not a person"
+ },
+ {
+  "name": "D. Erdenebileg",
+  "status": "none",
+  "note": "Commons searches 'D. Erdenebileg' and 'Erdenebileg architect': 0 hits; category missing; no en.wikipedia page."
  }
 ]
