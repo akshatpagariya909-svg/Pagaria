@@ -1,0 +1,185 @@
+[
+ {
+  "id": "cables-wynd-house",
+  "name": "Cables Wynd House",
+  "by": "Alison & Hutchison & Partners",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1965",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Geometry"
+  ],
+  "features": "The 'Banana Flats': a long curved slab of 212 deck-access flats over ten storeys in Leith; Category A listed.",
+  "award": "Brutalism survey",
+  "status": "photo",
+  "commons_category": "Category:Cables Wynd House",
+  "photos": [
+   {
+    "file": "File:Cables Wynd House - geograph.org.uk - 7891459.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tower Block UK photo sc 1141852.png",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cables Wynd House - 5249075063.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cables Wynd House (5249678930).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cables_Wynd_House",
+   "https://en.wikipedia.org/wiki/List_of_brutalist_structures"
+  ],
+  "note": "Built 1962-65; Category A listed in 2017."
+ },
+ {
+  "id": "preston-bus-station",
+  "name": "Preston Bus Station",
+  "by": "Building Design Partnership (Keith Ingham, Charles Wilson) with Ove Arup & Partners",
+  "city": "Preston",
+  "cc": "GB",
+  "year": "1969",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "features": "Bus station under a five-storey car park whose curved concrete balconies run the full length; Grade II.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Preston bus station",
+  "photos": [
+   {
+    "file": "File:Preston Bus Station 20200226.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston bus station (51231516817).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston Bus Station - geograph.org.uk - 5218179.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Preston bus station in 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_bus_station"
+  ],
+  "note": "Arup chose the curved balcony fronts because flat finishes cost too much. Listed Grade II in 2013."
+ },
+ {
+  "id": "apollo-pavilion",
+  "name": "Apollo Pavilion",
+  "by": "Victor Pasmore",
+  "city": "Peterlee",
+  "cc": "GB",
+  "year": "1969",
+  "type": "Pavilion",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "Walk-through sculpture of white in-situ concrete planes bridging a small lake in a new town; Grade II*.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Apollo Pavilion",
+  "photos": [
+   {
+    "file": "File:Apollo pavilion.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Peterlee - Apollo Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Apollo_Pavilion"
+  ],
+  "note": "Only two files reach 1200px; the rest of the category is 1024px geograph images."
+ },
+ {
+  "id": "kingsgate-bridge",
+  "name": "Kingsgate Bridge",
+  "by": "Ove Arup",
+  "city": "Durham",
+  "cc": "GB",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Concrete footbridge on V-shaped legs, built as two halves along the banks and swung 90° to meet; Grade I.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Kingsgate Bridge",
+  "photos": [
+   {
+    "file": "File:Kingsgate Footbridge, Durham - geograph.org.uk - 8241528.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kingsgate Bridge (51216965604).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kingsgate Bridge (51216193656).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Dunelm House & Kingsgate Bridge.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kingsgate_Bridge"
+  ],
+  "note": "Arup's own favourite work; it sits next to Dunelm House (fourth photo shows both)."
+ }
+]

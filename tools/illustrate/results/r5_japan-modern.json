@@ -1,0 +1,50 @@
+[
+ {
+  "id": "dior-omotesando",
+  "name": "Dior Omotesando",
+  "by": "SANAA (Kazuyo Sejima and Ryue Nishizawa)",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2003",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "Clear glass skin over wavy translucent acrylic; floors of varied height read as white bands.",
+  "award": "Japanese contemporary: SANAA",
+  "status": "photo",
+  "commons_category": "Category:Dior Omotesando",
+  "photos": [
+   {
+    "file": "File:Christian Dior Omotesando Tokyo 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true,
+    "size": "1500x2369"
+   },
+   {
+    "file": "File:Dior store @ Omote-Sando @ Aoyama (9515749819).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "2736x3648"
+   },
+   {
+    "file": "File:Le magasin Dior Omotesando (Tokyo) (42066222724).jpg",
+    "license": "CC BY 2.0",
+    "seen": true,
+    "size": "1067x1600"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architecture-tokyo.com/tag/sanaa/",
+   "https://www.dezeen.com/2014/11/16/sanaa-dior-omotesando-store-peter-marino-interior-refit/",
+   "https://www.archiweb.cz/en/b/dior-omotesando"
+  ],
+  "note": "Flagship store; SANAA designed the shell, interiors were later refitted by Peter Marino (2014)."
+ }
+]

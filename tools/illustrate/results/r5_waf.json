@@ -1,0 +1,1297 @@
+[
+ {
+  "id": "media-tic",
+  "name": "Media-TIC",
+  "by": "Enric Ruiz-Geli (Cloud 9)",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "2010",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Structure as expression"
+  ],
+  "features": "Steel-framed cube wrapped in inflatable ETFE cushions that shade the offices from the sun.",
+  "award": "World Architecture Festival: World Building of the Year 2011",
+  "status": "photo",
+  "commons_category": "Category:Cibernàrium-Edificio MediaTIC",
+  "photos": [
+   {
+    "file": "File:Media-TIC.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio Media-TIC. Enric Ruiz Geli.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - panoramio (572).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Media-TIC.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Sustainable_architecture_in_Barcelona"
+  ],
+  "note": "No English Wikipedia article; year 2010 is from memory (it won WAF 2011). Fourth photo is a close-up of the ETFE cushions."
+ },
+ {
+  "id": "lochal",
+  "name": "LocHal",
+  "by": "Civic Architects, Braaksma & Roos, Inside Outside (Petra Blaisse)",
+  "city": "Tilburg",
+  "cc": "NL",
+  "year": "2019",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "1932 locomotive shed turned public library; huge movable textile screens divide the vast hall.",
+  "award": "World Architecture Festival: World Building of the Year 2019",
+  "status": "photo",
+  "commons_category": "Category:Bibliotheek LocHal",
+  "photos": [
+   {
+    "file": "File:Exterieur aanzicht Bibliotheek LocHal Tilburg, april 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:LocHal Tilburg P1360238.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://divisare.com/projects/417039-civic-architects-braaksma-roos-architectenbureau-inside-outside-petra-blaisse-mecanoo-stijn-bollaert-ossip-van-duivenbode-lochal-in-tilburg",
+   "https://www.dezeen.com/2019/02/27/lochal-public-library-civic-architects/"
+  ],
+  "note": "Officially opened January 2019 (some sources say 2018). Mecanoo designed the library interior. Second photo has a construction fence in front."
+ },
+ {
+  "id": "dornbusch-church",
+  "name": "Dornbusch Church",
+  "by": "Meixner Schlüter Wendt",
+  "city": "Frankfurt am Main",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "A 1960s church partly demolished and closed with a new folded wall; the lost part is traced on the plaza.",
+  "award": "World Architecture Festival 2008: Religion category winner",
+  "status": "photo",
+  "commons_category": "Category:Dornbuschkirche (Frankfurt am Main)",
+  "photos": [
+   {
+    "file": "File:Dornbuschkirche Frankfurt.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CK Dornbuschkirche schraeg rechts entsättigt.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.meixner-schlueter-wendt.de/en/projects/dornbusch-church/",
+   "https://en.wikipedia.org/wiki/Meixner_Schl%C3%BCter_Wendt_Architekten"
+  ],
+  "note": "Firm's site gives completion 2005 (Wikipedia: 2004-2006). The traced outline is visible as lines in the paving in the second photo; check wording if unsure."
+ },
+ {
+  "id": "unilever-haus-hamburg",
+  "name": "Unilever-Haus",
+  "by": "Behnisch Architekten",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "2009",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "Offices around a tall open atrium, wrapped in a loose ETFE foil skin against the harbour wind.",
+  "award": "World Architecture Festival 2009: Office category winner",
+  "status": "photo",
+  "commons_category": "Category:Unilever-Haus (Hamburg)",
+  "photos": [
+   {
+    "file": "File:Unilever-Haus, Strandkai, Hamburg-9198.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blick auf das Unilever-Gebäude 1.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Facts from memory (Behnisch, HafenCity, 2009, ETFE outer skin, central atrium open to the public at ground level). Second photo is a distant view from the Elbe with the Elbphilharmonie."
+ },
+ {
+  "id": "city-of-justice-barcelona",
+  "name": "City of Justice",
+  "by": "David Chipperfield Architects, b720 Fermín Vázquez Arquitectos",
+  "city": "Barcelona / L'Hospitalet de Llobregat",
+  "cc": "ES",
+  "year": "2009",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Colour",
+   "Exposed concrete"
+  ],
+  "features": "Courts in separate tall blocks of tinted concrete in different colours, linked by a shared low base.",
+  "award": "World Architecture Festival 2010: Civic & Community category winner",
+  "status": "photo",
+  "commons_category": "Category:Ciutat de la Justícia de Barcelona i l'Hospitalet de Llobregat",
+  "photos": [
+   {
+    "file": "File:David Chipperfield Barcelona 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ciutat de la Justícia Hospitalet.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "No English Wikipedia article. Commons has dozens more photos of each block (files 33-56 by one author, CC BY 4.0)."
+ },
+ {
+  "id": "quay-quarter-tower",
+  "name": "Quay Quarter Tower",
+  "by": "3XN with BVN",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "2022",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "A 1970s office tower kept and grown: its core reused, wrapped in five shifted, stacked glass boxes.",
+  "award": "World Architecture Festival: World Building of the Year 2022",
+  "status": "photo",
+  "commons_category": "Category:Quay Quarter Tower",
+  "photos": [
+   {
+    "file": "File:New AMP building 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Quay Quarter Tower - Circular Quay.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sydney Quay Quarter Tower seen from Pitt Street.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Quay_Quarter_Tower"
+  ],
+  "note": "Upcycled AMP Centre (1976). Many 2023 photos in the category show it with Governor Phillip Tower."
+ },
+ {
+  "id": "aviva-stadium",
+  "name": "Aviva Stadium",
+  "by": "Populous with Scott Tallon Walker",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Bowl that drops low on one side to spare neighbours' light, wrapped in a rippling skin of clear louvres.",
+  "award": "World Architecture Festival 2010: Sport category winner",
+  "status": "photo",
+  "commons_category": "Category:Aviva Stadium",
+  "photos": [
+   {
+    "file": "File:Aviva Stadium - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aviva Stadium Dublin.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aviva Stadium, Lansdowne Road, Dublin (2024).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Aviva_Stadium"
+  ],
+  "note": "Third photo is the glazed entrance close up."
+ },
+ {
+  "id": "max-aicher-arena",
+  "name": "Max Aicher Arena",
+  "by": "Behnisch Architekten with Pohl Architekten",
+  "city": "Inzell",
+  "cc": "DE",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Climate response"
+  ],
+  "features": "Low, flat-arched roof spans the whole speed-skating oval with no inner columns, lit by rooflights.",
+  "award": "World Architecture Festival 2011: Sport category winner",
+  "status": "photo",
+  "commons_category": "Category:Eisstadion Inzell",
+  "photos": [
+   {
+    "file": "File:Max Aicher Arena (Inzell, GER).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inzell, de Max Aicher Arena foto7 2017-08-05 12.39.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners",
+   "https://en.wikipedia.org/wiki/Max_Aicher_Arena"
+  ],
+  "note": "Covered 400 m speed-skating oval. Column-free span and rooflights from memory and the interior photo File:Evo2 Max-Aicher-Arena.jpg (CC BY-SA 4.0), which shows the inside well. Pohl Architekten co-credit from memory; check."
+ },
+ {
+  "id": "kurilpa-bridge",
+  "name": "Kurilpa Bridge",
+  "by": "Cox Rayner Architects with Arup",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "2009",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Tensegrity footbridge: masts and cables at scattered angles hold the deck and its small shade canopies.",
+  "award": "World Architecture Festival 2011: Transport category winner",
+  "status": "photo",
+  "commons_category": "Category:Kurilpa Bridge",
+  "photos": [
+   {
+    "file": "File:AUS Brisbane, Central Business District, Kurilpa Bridge 002.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brisbane's Kurilpa Bridge, the day before it opened. (4044806684).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:KP Kurilpa Bridge IMG 2990 (4122888404).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Kurilpa_Bridge"
+  ],
+  "note": "Second photo is a black-and-white silhouette; third a close-up of masts and canopies."
+ },
+ {
+  "id": "royal-childrens-hospital-melbourne",
+  "name": "Royal Children's Hospital",
+  "by": "Billard Leece Partnership and Bates Smart",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2011",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Landscape",
+   "Human comfort"
+  ],
+  "features": "Curving ward blocks with coloured leaf-like fins look over Royal Park; a tall street-like atrium inside.",
+  "award": "World Architecture Festival 2012: Health category winner",
+  "status": "photo",
+  "commons_category": "Category:Royal Children's Hospital, Melbourne",
+  "photos": [
+   {
+    "file": "File:The Royal Children's Hospital, Melbourne.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Royal Children's Hospital as seen from Royal Park Melbourne.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Royal_Children%27s_Hospital,_Melbourne"
+  ],
+  "note": "Second photo is a high view from the park. File:Royal-Childrens-Hospital-Melbourne.JPG seems to show older buildings, so skip it. Interior: File:Royal Children's Hospital Atrium Melbourne.jpg (CC BY 2.0)."
+ },
+ {
+  "id": "victoria-tower-kista",
+  "name": "Victoria Tower",
+  "by": "Wingårdh Arkitektkontor",
+  "city": "Stockholm (Kista)",
+  "cc": "SE",
+  "year": "2011",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Slim hotel tower clad in faceted glass triangles that scatter the sky, with a notch cut near the top.",
+  "award": "World Architecture Festival 2012: Hotel & Leisure category winner",
+  "status": "photo",
+  "commons_category": "Category:Victoria tower Kista",
+  "photos": [
+   {
+    "file": "File:Victoria tower August 2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Victoria tower 2011a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Victoria_Tower_(Stockholm)"
+  ],
+  "note": "Second photo is a facade close-up. File:Victoria Tower Kista 2.jpg shows it under construction."
+ },
+ {
+  "id": "maersk-tower",
+  "name": "Maersk Tower",
+  "by": "C.F. Møller Architects",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "2017",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Public space"
+  ],
+  "features": "Research tower on a low landscaped base, wrapped in copper shutters that move with the sun.",
+  "award": "World Architecture Festival 2017: Higher Education & Research category winner",
+  "status": "photo",
+  "commons_category": "Category:Mærsk Tårnet",
+  "photos": [
+   {
+    "file": "File:20170817 Maersktarnet Kobenhavn N8B0113 (37062192095).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mærsk Tower 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mærsk Tower from Nørre Allé.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Maersk_Tower"
+  ],
+  "note": "University of Copenhagen Panum extension."
+ },
+ {
+  "id": "daikanyama-t-site",
+  "name": "Daikanyama T-Site",
+  "by": "Klein Dytham Architecture",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Cluster",
+   "Promenade"
+  ],
+  "features": "Three low bookshop pavilions linked by a walkway, skinned in a lattice of interlocking white Ts.",
+  "award": "World Architecture Festival 2012: Shopping category winner",
+  "status": "photo",
+  "commons_category": "Category:Daikanyama T-Site",
+  "photos": [
+   {
+    "file": "File:Daikanyama T-SITE 2016-04-04.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tsutaya-1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "note": "Tsutaya Books. Type: no retail type in vocab, so Culture & sport; change if preferred. First photo is a dusk view of two pavilions; the T lattice reads better in the second."
+ },
+ {
+  "id": "dialogue-centre-przelomy",
+  "name": "Dialogue Centre Przełomy",
+  "by": "KWK Promes (Robert Konieczny)",
+  "city": "Szczecin",
+  "cc": "PL",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "History museum hidden under a city square whose paving rises into slopes; a hard-edged pavilion marks one corner.",
+  "award": "World Architecture Festival: World Building of the Year 2016",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Szczecin Centrum Dialogu Przelomy (dron).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Szczecin CD Przelomy (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "No dedicated Commons category found (files sit in Category:Museums in Szczecin and others). First photo is a drone view showing the whole square; second shows the pavilion. Branch of the National Museum in Szczecin."
+ },
+ {
+  "id": "surat-diamond-bourse",
+  "name": "Surat Diamond Bourse",
+  "by": "Morphogenesis",
+  "city": "Surat",
+  "cc": "IN",
+  "year": "2023",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Climate response",
+   "Courtyard"
+  ],
+  "features": "Nine 15-storey office towers joined by a central spine, with landscaped courts between them.",
+  "award": "World Architecture Festival 2023: Office category winner",
+  "status": "photo",
+  "commons_category": "Category:Surat Diamond Bourse",
+  "photos": [
+   {
+    "file": "File:Surat Diamond Bourse Aerial View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Surat Diamond Bourse Courts.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Surat_Diamond_Bourse"
+  ],
+  "note": "Only aerial photos (drone views, the second straight down on the courts); no ground-level view on Commons. Often called the world's largest office building."
+ },
+ {
+  "id": "qatar-faculty-of-islamic-studies",
+  "name": "Qatar Faculty of Islamic Studies",
+  "by": "Mangera Yvars Architects",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2015",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Faculty and mosque raised on columns, marked by two tall white minarets carved with calligraphy.",
+  "award": "World Architecture Festival 2015: Religion category winner",
+  "status": "photo",
+  "commons_category": "Category:Qatar Faculty of Islamic Studies",
+  "photos": [
+   {
+    "file": "File:QFIs.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Qatar foundation mosque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Qatar_Faculty_of_Islamic_Studies"
+  ],
+  "note": "Only ~1125px photos, mostly of the minarets (pass the 800px rule). Qatar has no freedom of panorama, so these files could be deleted from Commons; a drawing would be a backup. Now part of Hamad Bin Khalifa University, Education City."
+ },
+ {
+  "id": "arena-zagreb",
+  "name": "Arena Zagreb",
+  "by": "UPI-2M",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Oval arena wrapped in a ring of tall, curved white ribs that bend outward at the top.",
+  "award": "World Architecture Festival 2009/10: Structural Design (Spans) winner",
+  "status": "photo",
+  "commons_category": "Category:Arena Zagreb",
+  "photos": [
+   {
+    "file": "File:Arena Zagreb (Matjaž Mirt) - Flickr.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arena Zagreb.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zagreb Arena.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Arena_Zagreb"
+  ],
+  "note": "WAF lists it under the Structural Design (Spans) awards; check the year on the WAF page. Third photo shows only one end under a storm sky."
+ },
+ {
+  "id": "museo-memoria-y-tolerancia",
+  "name": "Museum of Memory and Tolerance",
+  "by": "Arditti + RDT Arquitectos",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Heavy stone and concrete volumes on the Alameda, cut by tall glazed openings.",
+  "award": "World Architecture Festival: Culture category winner",
+  "status": "photo",
+  "commons_category": "Category:Museo Memoria y Tolerancia",
+  "photos": [
+   {
+    "file": "File:Museo Memoria y Tolerancia 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Memoria y Tolerancia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Museo_Memoria_y_Tolerancia"
+  ],
+  "note": "Photos are 1200px, donated by the museum. Architect and year from memory (Arditti + RDT, opened 2010); WAF page lists it as a Culture winner without the year clearly shown, check."
+ },
+ {
+  "id": "us-bank-stadium",
+  "name": "U.S. Bank Stadium",
+  "by": "HKS",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "2016",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Sharp prow and steep clear ETFE roof that sheds snow; a glass wall with giant pivoting doors.",
+  "award": "World Architecture Festival 2017: Sport category winner",
+  "status": "photo",
+  "commons_category": "Category:U.S. Bank Stadium",
+  "photos": [
+   {
+    "file": "File:US Bank Stadium - West Facade.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:U.S. Bank Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/U.S._Bank_Stadium"
+  ],
+  "note": "Second photo is a drone view showing the roof and the plaza."
+ },
+ {
+  "id": "tkts-booth-times-square",
+  "name": "TKTS Booth, Father Duffy Square",
+  "by": "Choi Ropiha, Perkins Eastman, PKSB Architects",
+  "city": "New York City",
+  "cc": "US",
+  "year": "2008",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Ticket booth under a flight of glowing red glass steps that doubles as seating over Times Square.",
+  "award": "World Architecture Festival 2009: New & Old category winner",
+  "status": "photo",
+  "commons_category": "Category:TKTS Booth",
+  "photos": [
+   {
+    "file": "File:TKTS - Times Square, New York, NY, USA - August 19, 2015 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TKTS red stairs jeh.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Duffy_Square"
+  ],
+  "note": "Competition concept by Choi Ropiha (Sydney), 1999; structural glass stair. Type could also be Pavilion."
+ },
+ {
+  "id": "scale-lane-bridge",
+  "name": "Scale Lane Bridge",
+  "by": "McDowell+Benedetti",
+  "city": "Kingston upon Hull",
+  "cc": "GB",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Swing footbridge that people can stay on while it pivots to let boats pass; its drum sits on the bank.",
+  "award": "World Architecture Festival 2014: Transport category winner",
+  "status": "photo",
+  "commons_category": "Category:Scale Lane Bridge, Kingston upon Hull",
+  "photos": [
+   {
+    "file": "File:Scale Lane Bridge Span Overview, Kingston upon Hull Feb25.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Scale Lane Bridge - geograph.org.uk - 3895813.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Scale_Lane_Bridge"
+  ],
+  "note": "The first photo shows the drum end from the plaza, the second the span from the river side."
+ },
+ {
+  "id": "hotel-jakarta-amsterdam",
+  "name": "Hotel Jakarta",
+  "by": "SeARCH",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2018",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Planting",
+   "Water"
+  ],
+  "features": "Timber-framed hotel on the tip of Java Island, built around a glass-roofed subtropical garden.",
+  "award": "World Architecture Festival 2018: Hotel & Leisure category winner",
+  "status": "photo",
+  "commons_category": "Category:Javakade 766, Amsterdam",
+  "photos": [
+   {
+    "file": "File:Javakade 766 (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam, Hotel Jakarta (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023 Amsterdam, Hotel Jakarta (01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Commons category is named after the address. Interior garden: File:2023 Amsterdam, Hotel Jakarta (02).jpg. Timber structure from memory (timber above a concrete base); check."
+ },
+ {
+  "id": "ravenscar-house-museum",
+  "name": "Ravenscar House Museum",
+  "by": "Patterson Associates",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Courtyard",
+   "Sculptural form"
+  ],
+  "features": "House museum of folded precast-concrete volumes, its rooms laid out like a home around a courtyard.",
+  "award": "World Architecture Festival 2023: Culture category winner",
+  "status": "photo",
+  "commons_category": "Category:Ravenscar House Museum",
+  "photos": [
+   {
+    "file": "File:Ravenscar House Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival",
+   "https://en.wikipedia.org/wiki/Ravenscar_House_Museum"
+  ],
+  "note": "Only one photo (4032x1737), a clear street view. Opened November 2021 (from memory)."
+ },
+ {
+  "id": "university-childrens-hospital-zurich",
+  "name": "University Children's Hospital Zurich",
+  "by": "Herzog & de Meuron",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2024",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "Low three-storey hospital laid out like a town of streets and courtyards; patient rooms are wooden cottages on top.",
+  "award": "Dezeen Awards 2025: Architecture Project of the Year",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Schematic long elevation: two timber-screened lower floors with the row of patient-room cottages, each with its own roof pitch, along the top floor.",
+  "after": null,
+  "sources": [
+   "https://www.herzogdemeuron.com/focus/hospitals-texts",
+   "https://www.dezeen.com/2024/10/13/herzog-de-meuron-university-childrens-hospital/",
+   "https://www.bdcnetwork.com/building-sector-reports/healthcare-facilities/news/55235400/herzog-de-meuron-completes-switzerlands-largest-childrens-hospital"
+  ],
+  "note": "No photos on Commons yet (Switzerland has freedom of panorama, so a new upload is likely). Sources: 114 top-floor rooms, each a wooden cottage with its own roof of varying slope; three storeys; courtyards. The drawing is schematic: cottage count, windows and facade rhythm are simplified, and the separate research and teaching building is left out. The Dezeen 2025 win comes from a secondary source (Aspire Metro)."
+ },
+ {
+  "id": "sony-city-osaki",
+  "name": "Sony City Osaki (NBF Osaki Building)",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Office slab whose long face is lined with porous ceramic louvre pipes that cool the air by evaporating rainwater.",
+  "award": "World Architecture Festival 2012: Production, Energy & Recycling category winner",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Nbf osaki building 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "note": "Only one photo (3648px), a low view of the louvred facade with the Sony sign still on top. Renamed NBF Osaki Building after Sony sold it. 'BioSkin' facade details from memory."
+ },
+ {
+  "id": "belarusian-memorial-chapel",
+  "name": "Belarusian Memorial Chapel",
+  "by": "Spheron Architects (Tszwai So)",
+  "city": "London",
+  "cc": "GB",
+  "year": "2017",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Community"
+  ],
+  "features": "Small oak chapel recalling Belarus's wooden churches, with a shingled dome on a slender tower.",
+  "award": "World Architecture Festival 2018: Religion category winner",
+  "status": "photo",
+  "commons_category": "Category:Belarusian Church, London N12",
+  "photos": [
+   {
+    "file": "File:Belarusian Memorial Chapel, North Finchley, July 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Church of St Cyril of Turau and All the Patron Saints of the Belarusian People (2016-11-24).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belarusian Church of London.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Church of St Cyril of Turau, North Finchley; memorial to the victims of Chernobyl. Materials from memory and the photos; check 'oak'."
+ },
+ {
+  "id": "central-saint-martins-granary",
+  "name": "Central Saint Martins, Granary Building",
+  "by": "Stanton Williams",
+  "city": "London",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Light from above"
+  ],
+  "features": "An 1850s granary and its sheds turned into an art school, joined by a long top-lit internal street.",
+  "award": "World Architecture Festival 2012: Higher Education & Research category winner",
+  "status": "photo",
+  "commons_category": "Category:The Granary, King's Cross Central",
+  "photos": [
+   {
+    "file": "File:University of the Arts, London - geograph.org.uk - 3378403.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Granary.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "note": "The award is for Stanton Williams' conversion and new building behind the 1852 granary (Lewis Cubitt). The photos show the historic front; the new internal street is File:Central St Martins Art School 0802.jpg (CC BY-SA 4.0), worth adding."
+ },
+ {
+  "id": "victoria-gate-leeds",
+  "name": "Victoria Gate",
+  "by": "ACME",
+  "city": "Leeds",
+  "cc": "GB",
+  "year": "2016",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Department store wrapped in interwoven fins that echo Leeds textiles, beside a glass-roofed arcade.",
+  "award": "World Architecture Festival 2017: Shopping category winner",
+  "status": "photo",
+  "commons_category": "Category:Victoria Gate, Leeds",
+  "photos": [
+   {
+    "file": "File:Victoria Gate seen across St. Peter's Street, Leeds (13th December 2018).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": "Shopping centre (no retail type in vocab, so Public space). Category has ~60 more photos, mostly 1280px geograph views of the development. Textile reference is from memory; check."
+ },
+ {
+  "id": "quzhou-stadium",
+  "name": "Quzhou Stadium",
+  "by": "MAD Architects",
+  "city": "Quzhou",
+  "cc": "CN",
+  "year": "2022",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Tensile structure",
+   "Sculptural form"
+  ],
+  "features": "Stadium half-buried under grassy mounds shaped like nearby ridges, under a floating white membrane ring roof.",
+  "award": "World Architecture Festival 2023: Sport category winner",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Side elevation: grass-covered earth mounds in front, the thin halo-like PTFE canopy floating above on slender supports.",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quzhou_Stadium",
+   "https://www.dezeen.com/2022/10/05/mad-quzhou-stadium-worlds-largest-earth-sheltered-buildings/",
+   "https://newatlas.com/architecture/quzhou-stadium-mad/"
+  ],
+  "note": "No photos on Commons. Sources: 30,000 seats, 250 m PTFE canopy described as a halo or floating cloud on nine pillars, earth-sheltered with sloped grassy facades echoing mountain ridges. The drawing is schematic: mound profile, canopy thickness and number of visible supports are not taken from a measured drawing. Wikipedia carries an unverified-text banner and gives opening as both 2021 and 2022; Dezeen reported completion in October 2022."
+ },
+ {
+  "id": "holy-redeemer-church-las-chumberas",
+  "name": "Holy Redeemer Church and Community Centre, Las Chumberas",
+  "by": "Menis Arquitectos (Fernando Menis)",
+  "city": "San Cristóbal de La Laguna",
+  "cc": "ES",
+  "year": "2022",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Earth & local material"
+  ],
+  "features": "Four massive concrete blocks like split rocks rise from a dug-out crater; picón stone in the chipped concrete.",
+  "award": "World Architecture Festival: World Building of the Year 2025",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.e-architect.com/spain/the-holy-redeemer-church-of-las-chumberas-spain",
+   "https://www.metalocus.es/en/news/international-prize-sacred-architecture-2024-las-chumberas-church-fernando-menis",
+   "https://www.timeout.com/news/this-spanish-church-has-officially-been-crowned-world-building-of-the-year-in-2025-here-it-is-in-pictures-120325"
+  ],
+  "note": "No photos on Commons (Spain has freedom of panorama, so an upload would be allowed). Not drawn: sources say four massive fractured concrete volumes on a steep slope, but I couldn't establish their individual shapes and heights from text. Completion year: designboom covered it as complete in March 2022; check. Long-running project (Menis started it in the 2000s)."
+ },
+ {
+  "id": "santa-maria-goretti-mormanno",
+  "name": "Santa Maria Goretti Church",
+  "by": "Mario Cucinella Architects",
+  "city": "Mormanno",
+  "cc": "IT",
+  "year": "2021",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "White concrete church on a four-leaf-clover plan of rising cylinders, lit from above through skylights.",
+  "award": "World Architecture Festival 2023: Religion category winner",
+  "status": "unsure",
+  "commons_category": "Category:Santa Maria Goretti (Mormanno)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.mcarchitects.it/en/projects/santa-maria-goretti-church",
+   "https://www.dezeen.com/?p=1748936"
+  ],
+  "note": "The Commons category exists but holds no files (Italy has no freedom of panorama). Not drawn: sources give the clover plan, white concrete cylinders with a flat roof and skylights, and a parish centre with a scalloped green roof, but not the relative heights of the lobes. A good drawing candidate if the owner finds a reference elevation."
+ },
+ {
+  "id": "sara-kulturhus",
+  "name": "Sara Kulturhus",
+  "by": "White Arkitekter",
+  "city": "Skellefteå",
+  "cc": "SE",
+  "year": "2021",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Prefabrication",
+   "Modular"
+  ],
+  "features": "Culture centre and 20-storey hotel tower built in timber, with prefabricated wood modules stacked inside a glass skin.",
+  "award": "World Architecture Festival 2022: Culture category winner",
+  "status": "photo",
+  "commons_category": "Category:Sara Kulturhus",
+  "photos": [
+   {
+    "file": "File:Sara Kulturhus juli 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sara Kulturhus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sara_Cultural_Centre",
+   "https://www.theplan.it/eng/whats_on/waf-2022-vincitori-prime-20-categorie"
+  ],
+  "note": "Second photo is at night with the tower lit in colours. Earlier files in the category show construction (useful as extras: exposed timber frame). Hotel is The Wood Hotel; storey count from memory, check."
+ },
+ {
+  "id": "forskaren-stockholm",
+  "name": "Forskaren",
+  "by": "3XN",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "2022",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "Round life-science building of stacked floor rings wrapped in slim vertical fins, around a shared atrium.",
+  "award": "World Architecture Festival 2024: Office category winner",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kvarteret Forskaren Hagastaden juli 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://designdekko.com/news/day-one-winners-of-waf-2024-international-architectural-awards-announced"
+  ],
+  "note": "Files are named 'Kvarteret Forskaren, Hagastaden' (no own category found). Some April 2022 files show it under construction; 'Norra tornen och kvarteret Forskaren ... oktober 2022' files show it finished from further away. Atrium detail is from memory; check."
+ },
+ {
+  "id": "paula-fox-melanoma-and-cancer-centre",
+  "name": "Paula Fox Melanoma and Cancer Centre",
+  "by": "Lyons",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2023",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Human comfort"
+  ],
+  "features": "Two rounded glass towers that pull apart at the top, rising from a sweeping white entrance canopy.",
+  "award": "World Architecture Festival 2024: Health category winner",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paula Fox melanoma centre.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://designdekko.com/news/world-architecture-festival-2024-day-two-winners-of-international-architectural-awards-announced"
+  ],
+  "note": "Only one photo (3024px square, public domain), a clear street view. At Alfred Hospital, Prahran; year from memory (opened 2023), check."
+ }
+]

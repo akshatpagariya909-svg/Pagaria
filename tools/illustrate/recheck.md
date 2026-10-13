@@ -67,3 +67,13 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | General Motors Technical Center | Eero Saarinen and Associates with Smith, Hinchman & Grylls | Warren, US |
 | Philip Merrill Environmental Center | SmithGroup | Annapolis, US |
 | Evelyn Grace Academy | Zaha Hadid Architects | London, GB |
+| Hôtel Ivoire | Heinz Fenchel, Thomas Leitersdorf, William Pereira | Abidjan, CI |
+| Indian Institute of Forest Management | Anant Raje | Bhopal, IN |
+| Parliament House, Islamabad | Edward Durell Stone | Islamabad, PK |
+| Open Air School (Openluchtschool) | Jan Duiker, Bernard Bijvoet | Amsterdam, NL |
+| Unité d'Habitation, Rezé (Maison Radieuse) | Le Corbusier | Rezé, FR |
+| Kanagawa Prefectural Music Hall and Library | Kunio Maekawa | Yokohama, JP |
+| Park Hotel Shanghai | László Hudec | Shanghai, CN |
+| National Conservatory of Music, Mexico | Mario Pani | Mexico City, MX |
+| Girardot Market Hall (Plaza de Mercado de Girardot) | Leopoldo Rother | Girardot, CO |
+| Ivar Aasen Centre (Ivar Aasen-tunet) | Sverre Fehn | Ørsta, NO |
