@@ -47,7 +47,7 @@ FOUNDERS = ROOT / 'tools' / 'portraits_founders.json'
 HUMAN = 'Q5'
 # architect, landscape architect, engineer, civil / structural engineer, urban planner, designer, interior designer
 TRADES = {'Q42973', 'Q2815948', 'Q81096', 'Q13582652', 'Q2305987', 'Q131062', 'Q5322166', 'Q2133309'}
-UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://discoverarchitecture.github.io/; portraits)'}
+UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://findgreatarchitecture.com/; portraits)'}
 FREE = re.compile(r'^(public domain|pd\b|cc0|cc[ -]by(-sa)?[ -]?\d|cc[ -]by(-sa)?$|attribution)', re.I)
 NOT_FREE = re.compile(r'\b(nc|nd)\b|noncommercial|no ?deriv', re.I)
 

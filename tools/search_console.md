@@ -7,7 +7,7 @@ nothing from them, so the numbers live in your account.
 
 1. Go to https://search.google.com/search-console and sign in with a Google account you'll keep.
 2. Choose **URL prefix** (not Domain) and enter exactly:
-   `https://discoverarchitecture.github.io/`
+   `https://findgreatarchitecture.com/`
 3. Under verification methods pick **HTML tag**. Google shows a line like
    `<meta name="google-site-verification" content="abc123…">`.
    Paste that whole line into a chat with Claude: it goes into `site/index.html` just below `<meta name="viewport">`,

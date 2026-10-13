@@ -19,4 +19,4 @@ A wall of 100 buildings you wander instead of search. Each tile shows one free i
 1. In the repo, open Settings → Pages and set Source to GitHub Actions.
 2. Merge this branch into `main`.
 
-The site then appears at `https://discoverarchitecture.github.io/`.
+The site then appears at `https://findgreatarchitecture.com/`.

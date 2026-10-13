@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / 'site'
-BASE = os.environ.get('SITE_URL', 'https://discoverarchitecture.github.io/')
+BASE = os.environ.get('SITE_URL', 'https://findgreatarchitecture.com/')
 NAME = 'Discover Architecture'
 
 COUNTRY = {
