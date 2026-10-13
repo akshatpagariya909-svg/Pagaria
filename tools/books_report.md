@@ -1,6 +1,6 @@
 # Books report
 
-292 of 457 books have a cover.
+432 of 695 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -96,154 +96,65 @@
 | Recovering Landscape: Essays in Contemporary Landscape Architecture (James Corner (editor)) | no result by this author with this title among 10 results |
 | The Trade Fair Palace in Prague (Miroslav Masák, Rostislav Švácha and Jindřich Vybíral) | 1 matching results, none with a cover |
 | Morphosis: Buildings and Projects (Thom Mayne) | 1 matching results, none with a cover |
-| Modulor 2 (Le Corbusier) | id 9734999 |
-| Towards Universality: Le Corbusier, Mies and De Stijl (Richard Padovan) | id 8431763 |
 | Lived-In Architecture: Le Corbusier's Pessac Revisited (Philippe Boudon) | no result by this author with this title among 10 results |
-| The Master Builders (Peter Blake) | id 249181 |
-| Christian de Portzamparc (Christian de Portzamparc and Jacques Lucan) | id 3799248 |
 | Le Corbusier: Elements of a Synthesis (Stanislaus von Moos) | no result by this author with this title among 19 results |
-| Enric Miralles (Enric Miralles and Benedetta Tagliabue) | id 932377 |
-| The Radiant City (Le Corbusier) | id 15141487 (loose title match: "The radiant city") |
-| Renzo Piano Building Workshop: Complete Works (Peter Buchanan) | id 4673581 (loose title match: "Renzo Piano Building Workshop") |
-| Eero Saarinen on His Work (Eero Saarinen, edited by Aline B. Saarinen) | id 10180042 |
-| Louis I. Kahn (Vincent Scully) | id 9704520 |
 | Henry van de Velde: Architect and Designer of Art Nouveau (Thomas Föhl) | no result by this author with this title among 15 results |
-| Ausgeführte Bauten und Entwürfe (The Wasmuth Portfolio) (Frank Lloyd Wright) | id 643640 (loose title match: "Ausgeführte Bauten und Entwürfe") |
-| The Works in Architecture of Robert and James Adam (Robert Adam and James Adam) | id 1257513 |
-| Georgian London (John Summerson) | id 12782392 |
-| A Testament (Frank Lloyd Wright) | id 13456557 |
 | Skidmore, Owings & Merrill: Architecture and Urbanism 1973–1983 (Albert Bush-Brown) | no result by this author with this title among 12 results |
-| Le Corbusier and the Tragic View of Architecture (Charles Jencks) | olid OL5474589M |
-| Harry Seidler (Harry Seidler) | id 2074423 |
-| Mies van der Rohe (Philip Johnson) | id 15017367 |
-| Paulo Mendes da Rocha (Paulo Mendes da Rocha) | id 644244 |
-| Italian Villas and Their Gardens (Edith Wharton) | id 8277196 |
-| The Construction of Buildings (R. Barry) | id 5090013 |
 | Modern Architecture: Being the Kahn Lectures for 1930 (Frank Lloyd Wright) | no result by this author with this title among 22 results |
-| The Le Corbusier Guide (Deborah Gans) | id 1911211 |
-| Le Corbusier: An Analysis of Form (Geoffrey H. Baker) | isbn 9780419161202 |
 | Raumplan versus Plan Libre: Adolf Loos and Le Corbusier (Max Risselada (editor)) | no result by this author with this title among 5 results |
-| An Organic Architecture: The Architecture of Democracy (Frank Lloyd Wright) | id 13691890 (loose title match: "An organic architecture") |
-| An Attempt to Discriminate the Styles of Architecture in England (Thomas Rickman) | id 5706986 |
-| Mies in Berlin (Terence Riley and Barry Bergdoll (editors)) | isbn 9780870706950 |
-| Le Corbusier (Kenneth Frampton) | id 3144682 |
-| Frank Lloyd Wright Drawings (Bruce Brooks Pfeiffer) | id 597614 |
-| For Everyone a Garden (Moshe Safdie) | id 9814037 |
 | Building Desire: On the Barcelona Pavilion (George Dodds) | no result by this author with this title among 12 results |
-| A Monograph of the Work of McKim, Mead & White, 1879–1915 (McKim, Mead & White) | id 4378995 (loose title match: "A monograph of the work of McKim, Mead & White, 1879-1915") |
-| Drawings for a Living Architecture (Frank Lloyd Wright) | id 6962645 |
 | Engineering Architecture: The Vision of Fazlur R. Khan (Yasmin Sabina Khan) | no result by this author with this title among 10 results |
 | Le Corbusier in America: Travels in the Land of the Timid (Mardges Bacon) | no result by this author with this title among 2 results |
-| The Colours of Light (Tadao Ando and Richard Pare) | id 453565 |
 | Le Corbusier Before Le Corbusier (Stanislaus von Moos and Arthur Rüegg (editors)) | no result by this author with this title among 3 results |
-| Essential Le Corbusier: L'Esprit Nouveau Articles (Le Corbusier) | id 1400348 |
-| On Foster... Foster On (David Jenkins (editor)) | id 12185467 |
-| Building the Getty (Richard Meier) | id 225360 |
 | Snøhetta (Snøhetta) | no result by this author with this title among 10 results |
 | How to Build a House (Histoire d'une maison) (Eugène-Emmanuel Viollet-le-Duc) | 2 matching results, none with a cover |
-| Architecture Spoken (Steven Holl) | id 14441280 |
-| Intercultural Architecture: The Philosophy of Symbiosis (Kisho Kurokawa) | id 8547034 |
-| Aalto and America (Stanford Anderson, Gail Fenske and David Fixler (editors)) | id 12738933 |
-| Aircraft (Le Corbusier) | id 13712081 |
-| Stretto House (Steven Holl) | id 6391987 |
-| The Chapel of St. Ignatius (Steven Holl) | id 812599 |
 | Garden City Mega City: Rethinking Cities for the Age of Global Warming (WOHA) | no result by this author with this title among 3 results |
-| Combinatory Urbanism (Thom Mayne) | id 13782424 |
-| Lincoln Center Inside Out (Diller Scofidio + Renfro) | id 13215964 |
 | Architecture of Skidmore, Owings & Merrill, 1950–1962 (Henry-Russell Hitchcock (introduction)) | 2 matching results, none with a cover |
 | Representing Landscapes: A Visual Collection of Landscape Architectural Drawings (Nadia Amoroso (editor)) | no result by this author with this title among 10 results |
-| The City After the Automobile (Moshe Safdie with Wendy Kohn) | id 299368 |
 | Amerika: Bilderbuch eines Architekten (Erich Mendelsohn) | no result by this author with this title among 20 results |
-| Gio Ponti (Ugo La Pietra) | id 9162206 |
-| Hans Hollein (Hans Hollein) | id 5293028 |
-| The Architecture of Arthur Erickson (Arthur Erickson) | isbn 9780500091951 |
-| Clorindo Testa (Clorindo Testa) | id 2285808 |
-| Concerning Town Planning (Le Corbusier) | id 9303653 |
-| Genius and the Mobocracy (Frank Lloyd Wright) | id 9282874 |
 | Nurturing Dreams: Collected Essays on Architecture and the City (Fumihiko Maki) | no result by this author with this title among 8 results |
 | Marcel Breuer: Buildings and Projects 1921–1961 (Cranston Jones) | 1 matching results, none with a cover |
 | Bauhaus 1919–1928 (Herbert Bayer, Walter Gropius and Ise Gropius (editors)) | no result by this author with this title among 11 results |
-| Lina Bo Bardi (Instituto Lina Bo e P. M. Bardi) | id 13288586 |
-| Ricardo Bofill (Ricardo Bofill) | id 9162051 |
 | The Works of Affonso Eduardo Reidy (Klaus Franck) | 1 matching results, none with a cover |
-| Guimard (Hector Guimard) | id 4861695 |
-| History of the Modern Styles of Architecture (James Fergusson) | id 5956049 |
 | Nature and Space: Aalto and Le Corbusier (Sarah Menin and Flora Samuel) | no result by this author with this title among 10 results |
-| The Villas of Le Corbusier, 1920–1930 (Tim Benton) | id 13218403 (loose title match: "The villas of Le Corbusier, 1920-1930") |
-| Le Corbusier and the Mystique of the USSR (Jean-Louis Cohen) | id 13611574 (loose title match: "Le Corbusier and the mystique of the USSR") |
-| Le Corbusier's Formative Years (H. Allen Brooks) | id 1147302 |
 | Sacred Concrete: The Churches of Le Corbusier (Flora Samuel and Inge Linder-Gaillard) | no result by this author with this title among 1 results |
 | Tower and Office: From Modernist Theory to Contemporary Practice (Iñaki Ábalos and Juan Herreros) | no result by this author with this title among 10 results |
 | Chandigarh's Le Corbusier: The Struggle for Modernity in Postcolonial India (Vikramaditya Prakash) | no result by this author with this title among 12 results |
-| Frank Lloyd Wright: Collected Writings (Bruce Brooks Pfeiffer (editor)) | id 4766496 (loose title match: "Coll Writings V 1FL Wright (Frank Lloyd Wright Collected Writings)") |
 | Commerzbank Frankfurt: Prototype for an Ecological High-Rise (Colin Davies and Ian Lambot) | no result by this author with this title among 2 results |
 | Louis I. Kahn: The Library at Phillips Exeter Academy (Glenn E. Wiggins) | no result by this author with this title among 11 results |
 | Jerusalem: The Future of the Past (Moshe Safdie) | no result by this author with this title among 20 results |
 | Mies van der Rohe: The Villas and Country Houses (Wolf Tegethoff) | no result by this author with this title among 18 results |
-| Mies van der Rohe at Work (Peter Carter) | id 453790 |
 | Architects of Fortune: Mies van der Rohe and the Third Reich (Elaine S. Hochman) | no result by this author with this title among 8 results |
-| Tugendhat House: Ludwig Mies van der Rohe (Daniela Hammer-Tugendhat, Ivo Hammer and Wolf Tegethoff) | id 13904143 |
-| Mies (Detlef Mertins) | id 8494325 |
-| Rebuilding the Reichstag (Norman Foster) | id 675200 |
-| Aldo van Eyck (Herman Hertzberger, Addie van Roijen-Wortmann and Francis Strauven) | id 4220672 |
 | Apollo in the Democracy: The Cultural Obligation of the Architect (Walter Gropius) | no result by this author with this title among 2 results |
-| Lunuganga (Geoffrey Bawa) | id 3358297 |
-| The Life and Times of Charles Follen McKim (Charles Moore) | id 13284605 |
-| The Houses of McKim, Mead & White (Samuel G. White) | id 643553 |
 | In Search of a Soul: Designing and Realizing the New Canadian War Museum (Raymond Moriyama) | no result by this author with this title among 10 results |
-| A Treatise on Civil Architecture (William Chambers) | id 6103934 |
-| Urban Design: Street and Square (Cliff Moughtin) | isbn 0750657170 |
-| Hypnerotomachia Poliphili (Francesco Colonna) | id 316875 |
-| Le Corbusier in Detail (Flora Samuel) | id 8686450 |
 | Le Corbusier, the Noble Savage: Toward an Archaeology of Modernism (Adolf Max Vogt) | no result by this author with this title among 1 results |
-| The Chapel at Ronchamp (Le Corbusier) | id 9283790 |
-| The Decorative Art of Today (Le Corbusier) | id 8520449 |
 | Sketches (Alvar Aalto, edited by Göran Schildt) | 2 matching results, none with a cover |
 | The Contemporary Tea House: Japan's Top Architects Redefine a Tradition (Arata Isozaki, Tadao Ando and Terunobu Fujimori) | no result by this author with this title among 1 results |
 | Power into Art: Creating the Tate Modern, Bankside (Karl Sabbagh) | no result by this author with this title among 2 results |
 | The Great Court and the British Museum (Robert Anderson) | no result by this author with this title among 5 results |
 | Five Architects: Eisenman, Graves, Gwathmey, Hejduk, Meier (Peter Eisenman and others) | no result by this author with this title among 11 results |
 | Yad Vashem: Moshe Safdie, the Architecture of Memory (Moshe Safdie) | 1 matching results, none with a cover |
-| Mies in America (Phyllis Lambert (editor)) | id 597512 |
-| Auguste Perret (Karla Britton) | id 1352933 |
-| Victor Horta (Franco Borsi and Paolo Portoghesi) | id 8519335 |
 | Melnikov: Solo Architect in a Mass Society (S. Frederick Starr) | 1 matching results, none with a cover |
-| The Rietveld Schröder House (Paul Overy, Lenneke Büller, Frank den Oudsten and Bertus Mulder) | id 9932917 |
-| Denys Lasdun (William J. R. Curtis) | id 453795 |
 | The Architecture of Ricardo Legorreta (Wayne Attoe) | 1 matching results, none with a cover |
 | Philip Johnson/John Burgee: Architecture 1979–1985 (Carleton Knight III) | no result by this author with this title among 5 results |
-| Maekawa Kunio and the Emergence of Japanese Modernist Architecture (Jonathan M. Reynolds) | id 326299 |
-| The Architecture of Yoshio Taniguchi (Yoshio Taniguchi) | id 1533991 |
 | Kevin Roche: Architecture as Environment (Eeva-Liisa Pelkonen) | no result by this author with this title among 11 results |
 | Primitive Future (Sou Fujimoto) | 1 matching results, none with a cover |
-| Industriekultur: Peter Behrens and the AEG, 1907–1914 (Tilmann Buddensieg) | id 8233742 (loose title match: "Industriekultur, Peter Behrens and the AEG, 1907-14") |
 | Building Cambodia: New Khmer Architecture 1953–1970 (Helen Grant Ross and Darryl Leon Collins) | no result by this author with this title among 10 results |
 | Reima Pietilä: Architecture, Context and Modernism (Malcolm Quantrill) | 1 matching results, none with a cover |
-| The Age of Sinan: Architectural Culture in the Ottoman Empire (Gülru Necipoğlu) | isbn 1861892446 (loose title match: "AGE OF SINAN: ARCHITECTURAL CULTURE IN THE OTTOMAN EMPIRE") |
-| Ernő Goldfinger: The Life of an Architect (Nigel Warburton) | isbn 0415258537 |
 | Barbican: Penthouse over the City (David Heathcote) | no result by this author with this title among 10 results |
-| The Charged Void: Architecture (Alison and Peter Smithson) | id 841290 |
 | Michael Graves: Buildings and Projects 1966–1981 (Karen Vogel Wheeler, Peter Arnell and Ted Bickford (editors)) | no result by this author with this title among 12 results |
 | Josef Hoffmann: The Architectural Work (Eduard F. Sekler) | no result by this author with this title among 12 results |
-| R. M. Schindler (Judith Sheine) | id 453802 |
 | Giuseppe Terragni: Transformations, Decompositions, Critiques (Peter Eisenman) | no result by this author with this title among 13 results |
 | Indian Summer: Lutyens, Baker, and Imperial Delhi (Robert Grant Irving) | no result by this author with this title among 15 results |
 | Eladio Dieste: Innovation in Structural Art (Stanford Anderson (editor)) | no result by this author with this title among 8 results |
 | Candela: The Shell Builder (Colin Faber) | 1 matching results, none with a cover |
 | Roberto Burle Marx: The Unnatural Art of the Garden (William Howard Adams) | no result by this author with this title among 11 results |
-| Operating Manual for Spaceship Earth (R. Buckminster Fuller) | id 689663 |
 | Elemental: Incremental Housing and Participatory Design Manual (Alejandro Aravena and Andrés Iacobelli) | no result by this author with this title among 13 results |
 | Imagining the House (Wang Shu) | no result by this author with this title among 12 results |
 | Reveal: Studio Gang Architects (Jeanne Gang) | no result by this author with this title among 13 results |
 | The Green Skyscraper: The Basis for Designing Sustainable Intensive Buildings (Ken Yeang) | no result by this author with this title among 1 results |
-| Louis Sullivan: Prophet of Modern Architecture (Hugh Morrison) | id 251655 |
-| The Architecture of H. H. Richardson and His Times (Henry-Russell Hitchcock) | id 14912159 |
-| Gunnar Asplund (Peter Blundell Jones) | id 453844 |
 | Jože Plečnik, Architect: 1872–1957 (Damjan Prelovšek) | no result by this author with this title among 11 results |
-| Jean Prouvé: Complete Works (Peter Sulzer) | id 3246739 (loose title match: "Jean Prouvé - Oeuvre complète / Complete works") |
 | Pierre Chareau: Architect and Craftsman 1883–1950 (Marc Vellay and Kenneth Frampton) | no result by this author with this title among 11 results |
-| Soane: The Making of an Architect (Pierre de la Ruffinière du Prey) | id 13091437 (loose title match: "John Soane, the making of an architect") |
-| Palladio (James S. Ackerman) | id 5413255 |
 | The Pantheon: Design, Meaning, and Progeny (William L. MacDonald) | no result by this author with this title among 18 results |
 | Antonin Raymond: An Autobiography (Antonin Raymond) | 2 matching results, none with a cover |
 | Another Scale of Architecture (Junya Ishigami) | no result by this author with this title among 1 results |
@@ -254,16 +165,145 @@
 | Architecture in India Since 1990 (Rahul Mehrotra) | no result by this author with this title among 0 results |
 | Bombay: The Cities Within (Sharada Dwivedi and Rahul Mehrotra) | no result by this author with this title among 19 results |
 | The Steps to Water: The Ancient Stepwells of India (Morna Livingston) | no result by this author with this title among 7 results |
-| African Modernism: The Architecture of Independence (Manuel Herz (editor)) | id 8425967 (loose title match: "African Modernism: The Architecture of Independence. Ghana, Senegal, Côte d'Ivoire, Kenya, Zambia") |
-| Latin America in Construction: Architecture 1955–1980 (Barry Bergdoll, Carlos Eduardo Comas, Jorge Francisco Liernur and Patricio del Real) | id 7912631 (loose title match: "Latin America in construction") |
 | Modern Architecture in Latin America: Art, Technology, and Utopia (Luis E. Carranza and Fernando Luiz Lara) | no result by this author with this title among 4 results |
 | Tropical Architecture: Critical Regionalism in the Age of Globalization (Alexander Tzonis, Liane Lefaivre and Bruno Stagno (editors)) | no result by this author with this title among 10 results |
-| Chinese Architecture (Nancy S. Steinhardt (editor)) | id 9265783 |
 | The Chinese Garden: History, Art and Architecture (Maggie Keswick) | no result by this author with this title among 12 results |
-| Islamic Architecture in Cairo: An Introduction (Doris Behrens-Abouseif) | id 5000639 (loose title match: "Islamic architecture in Cairo") |
-| The Ecology of Building Materials (Bjørn Berge) | id 1400044 |
-| Regenerative Design for Sustainable Development (John Tillman Lyle) | id 1248606 |
 | The Projective Cast: Architecture and Its Three Geometries (Robin Evans) | no result by this author with this title among 8 results |
+| Jørn Utzon Logbook Vol. I: The Courtyard Houses (Jørn Utzon) | no result by this author with this title among 1 results |
+| The Terragni Atlas: Built Architectures (Attilio Terragni, Daniel Libeskind and Paolo Rosselli) | no result by this author with this title among 1 results |
+| Stone and Feather: Steven Holl Architects/Nelson-Atkins Museum Expansion (Jeffrey Kipnis) | no result by this author with this title among 8 results |
+| Sun and Shadow: The Philosophy of an Architect (Marcel Breuer) | no result by this author with this title among 14 results |
+| Mastering McKim's Plan: Columbia's First Century on Morningside Heights (Barry Bergdoll) | no result by this author with this title among 2 results |
+| On the Wings of Modernism: The United States Air Force Academy (Robert Allan Nauman) | no result by this author with this title among 4 results |
+| Aldo van Eyck: Works (Vincent Ligtelijn (editor)) | no result by this author with this title among 12 results |
+| Conversations with I. M. Pei: Light Is the Key (Gero von Boehm) | no result by this author with this title among 2 results |
+| Santiago Calatrava's Creative Process (Alexander Tzonis) | no result by this author with this title among 4 results |
+| The Solitude of Buildings (Rafael Moneo) | 2 matching results, none with a cover |
+| Introduction to Architectural Science: The Basis of Sustainable Design (Steven V. Szokolay) | no result by this author with this title among 5 results |
+| Mies Reconsidered: His Career, Legacy, and Disciples (John Zukowsky (editor)) | no result by this author with this title among 3 results |
+| Le Corbusier: Chandigarh and the Modern City (Hasan-Uddin Khan, Julian Beinart and Charles Correa) | no result by this author with this title among 11 results |
+| Modernity and Community: Architecture in the Islamic World (Kenneth Frampton, Charles Correa and David Robson) | 1 matching results, none with a cover |
+| Peter Zumthor 1985–2013: Buildings and Projects (Thomas Durisch (editor)) | no result by this author with this title among 2 results |
+| Kazuyo Sejima + Ryue Nishizawa: SANAA (Yuko Hasegawa) | 1 matching results, none with a cover |
+| A Japanese Constellation: Toyo Ito, SANAA, and Beyond (Pedro Gadanho (editor)) | no result by this author with this title among 1 results |
+| Russia, Europe, America: An Architectural Cross-Section (Erich Mendelsohn) | no result by this author with this title among 11 results |
+| Urban Hopes: Made in China by Steven Holl (Steven Holl) | no result by this author with this title among 11 results |
+| Snøhetta Works (Snøhetta) | no result by this author with this title among 6 results |
+| Hassan Fathy (J. M. Richards, Ismail Serageldin and Darl Rastorfer) | 3 matching results, none with a cover |
+| Afritecture: Building Social Change (Andres Lepik (editor)) | no result by this author with this title among 1 results |
+| Vistara: The Architecture of India (Carmen Kagal (editor)) | no result by this author with this title among 10 results |
+| The Hindu Temple: An Introduction to Its Meaning and Forms (George Michell) | no result by this author with this title among 18 results |
+| Taj Mahal: The Illumined Tomb (Wayne E. Begley and Z. A. Desai) | no result by this author with this title among 10 results |
+| The Sense of Unity: The Sufi Tradition in Persian Architecture (Nader Ardalan and Laleh Bakhtiar) | no result by this author with this title among 5 results |
+| Rethinking the Skyscraper: The Complete Architecture of Ken Yeang (Robert Powell) | no result by this author with this title among 2 results |
+| The Modernist City: An Anthropological Critique of Brasília (James Holston) | no result by this author with this title among 9 results |
+| Luis Barragán: The Quiet Revolution (Federica Zanco (editor)) | no result by this author with this title among 16 results |
+| Gardens and the Picturesque: Studies in the History of Landscape Architecture (John Dixon Hunt) | no result by this author with this title among 12 results |
+| Landscape Design: A Cultural and Architectural History (Elizabeth Barlow Rogers) | no result by this author with this title among 13 results |
+| Energy and Form: An Ecological Approach to Urban Growth (Ralph L. Knowles) | no result by this author with this title among 11 results |
+| Paper Architecture: New Projects from the Soviet Union (Heinrich Klotz (editor)) | no result by this author with this title among 10 results |
+| The Spaces in Between: An Architect's Journey (Nathaniel Alexander Owings) | no result by this author with this title among 12 results |
+| Bruce Graham of SOM (Stanley Tigerman (introduction)) | 1 matching results, none with a cover |
+| City Building: Nine Planning Principles for the Twenty-First Century (John Lund Kriken) | no result by this author with this title among 10 results |
+| Sears Tower: A Building Book (Jay Pridmore) | no result by this author with this title among 10 results |
+| Urban Utopias in the Twentieth Century: Ebenezer Howard, Frank Lloyd Wright, and Le Corbusier (Robert Fishman) | no result by this author with this title among 1 results |
+| Alvar Aalto (Robert McCarter) | no result by this author with this title among 12 results |
+| From Basel: Herzog & de Meuron (Jean-François Chevrier) | 1 matching results, none with a cover |
+| Essays on Adolf Loos (Christopher Long) | 1 matching results, none with a cover |
+| Building the Modern World: Albert Kahn in Detroit (Michael H. Hodges) | no result by this author with this title among 15 results |
+| The Architecture of James Stirling and His Partners James Gowan and Michael Wilford (Geoffrey H. Baker) | 1 matching results, none with a cover |
+| Houses and People of Japan (Bruno Taut) | 3 matching results, none with a cover |
+| Shaping Neighbourhoods: A Guide for Health, Sustainability and Vitality (Hugh Barton, Marcus Grant and Richard Guise) | no result by this author with this title among 2 results |
+| Out of the Clouds: Wolf D. Prix Sketches 1967–2020 (Wolf D. Prix) | 1 matching results, none with a cover |
+| Le Corbusier: Béton Brut and Ineffable Space, 1940–1965 (Roberto Gargiani and Anna Rosellini) | no result by this author with this title among 14 results |
+| MVRDV Buildings (MVRDV) | 1 matching results, none with a cover |
+| Carlo Scarpa: Drawings for the Brion Family Cemetery (Carlo Scarpa) | 1 matching results, none with a cover |
+| Adolf Loos: Das Werk des Architekten (Heinrich Kulka) | no result by this author with this title among 12 results |
+| The Writings of Josep Lluís Sert (Eric Mumford (editor)) | no result by this author with this title among 0 results |
+| Writings on Architecture (Paul Rudolph) | 1 matching results, none with a cover |
+| The Vertical Village: Individual, Informal, Intense (MVRDV) | no result by this author with this title among 1 results |
+| Compression (Steven Holl) | 1 matching results, none with a cover |
+| Neues Museum Berlin (David Chipperfield, Candida Höfer and Rik Nys) | 1 matching results, none with a cover |
+| A Language and a Theme: The Architecture of Denys Lasdun & Partners (Denys Lasdun and Partners) | no result by this author with this title among 9 results |
+| American Building: The Forces That Shape It (James Marston Fitch) | 1 matching results, none with a cover |
+| Hans Poelzig in Breslau (Jerzy Ilkosz and Beate Störtkuhl (editors)) | no result by this author with this title among 1 results |
+| Understanding Architecture: Its Elements, History, and Meaning (Leland M. Roth) | no result by this author with this title among 18 results |
+| The Language of Architecture: 26 Principles Every Architect Should Know (Andrea Simitch and Val Warke) | no result by this author with this title among 10 results |
+| Drawing Ideas: A Hand-Drawn Approach for Better Design (Mark Baskinger and William Bardel) | no result by this author with this title among 10 results |
+| The RSVP Cycles: Creative Processes in the Human Environment (Lawrence Halprin) | no result by this author with this title among 2 results |
+| Gardens Are for People (Thomas D. Church) | 2 matching results, none with a cover |
+| Room Outside: A New Approach to Garden Design (John Brookes) | no result by this author with this title among 17 results |
+| Daylighting: Architecture and Lighting Design (Peter Tregenza and Michael Wilson) | no result by this author with this title among 12 results |
+| Villas and Cottages (Calvert Vaux) | id 6275765 |
+| Community and Privacy: Toward a New Architecture of Humanism (Serge Chermayeff and Christopher Alexander) | no result by this author with this title among 10 results |
+| Stadia: A Design and Development Guide (Geraint John and Rod Sheard) | id 9844085 |
+| English Romanesque Architecture (Alfred Clapham) | id 14954726 |
+| The Architecture of Humanism: A Study in the History of Taste (Geoffrey Scott) | 1 matching results, none with a cover |
+| Intentions in Architecture (Christian Norberg-Schulz) | id 2182890 |
+| Sustainable Construction: Green Building Design and Delivery (Charles J. Kibert) | no result by this author with this title among 16 results |
+| House (Tracy Kidder) | id 6780470 |
+| The Power Broker: Robert Moses and the Fall of New York (Robert A. Caro) | id 253659 |
+| Urban and Regional Planning (Peter Hall) | id 13892600 |
+| The Life-Work of the American Architect Frank Lloyd Wright (H. Th. Wijdeveld (editor)) | id 10988024 |
+| Concrete: The Vision of a New Architecture (Peter Collins) | id 9897188 |
+| Structures (Pier Luigi Nervi) | 6 matching results, none with a cover |
+| Vision in Motion (László Moholy-Nagy) | id 9472489 |
+| Portuguese Architecture (Walter Crum Watson) | id 2505444 |
+| Otto Wagner 1841–1918: The Expanding City, the Beginning of Modern Architecture (Heinz Geretsegger and Max Peintner) | no result by this author with this title among 8 results |
+| The Professional Practice of Architectural Working Drawings (Osamu A. Wakita and Richard M. Linde) | id 3878078 |
+| The Five Books of Architecture (Sebastiano Serlio) | id 309768 |
+| Greek Architecture (A. W. Lawrence) | id 3821618 |
+| Working Drawings Handbook (Keith Styles) | id 493697 |
+| The City Reader (Richard T. LeGates and Frederic Stout (editors)) | id 266764 |
+| Frank Lloyd Wright on Architecture: Selected Writings 1894–1940 (Frederick Gutheim (editor)) | id 14964667 (loose title match: "Frank Lloyd Wright on Architecture Selected Writings 1894-1940 Edited With an Introduction By Frederick Gutheim") |
+| Broken Glass: Mies van der Rohe, Edith Farnsworth, and the Fight Over a Modernist Masterpiece (Alex Beam) | no result by this author with this title among 11 results |
+| Three Lectures on Architecture (Erich Mendelsohn) | 1 matching results, none with a cover |
+| The Architects Collaborative 1945–1965 (Walter Gropius and others) | 2 matching results, none with a cover |
+| Modern Construction Handbook (Andrew Watts) | id 2197612 |
+| The High Cost of Free Parking (Donald C. Shoup) | id 931442 |
+| The Gothic Revival: An Essay in the History of Taste (Kenneth Clark) | 3 matching results, none with a cover |
+| The City and Country Builder's and Workman's Treasury of Designs (Batty Langley) | id 6311698 |
+| Town and Country Planning in the UK (Barry Cullingworth) | id 12625199 |
+| Landscape Architect's Pocket Book (Siobhan Vernon, Rachel Tennant and Nicola Garmory) | id 12909675 |
+| The Sustainable Urban Development Reader (Stephen M. Wheeler and Timothy Beatley (editors)) | id 5488084 |
+| Fire from First Principles: A Design Guide to Building Fire Safety (Paul Stollard and John Abrahams) | no result by this author with this title among 5 results |
+| The Beauties of Modern Architecture (Minard Lafever) | id 6025974 |
+| Details of Elizabethan Architecture (Henry Shaw) | id 11859197 |
+| Lost New York (Nathan Silver) | id 4278378 |
+| On Restoration (Eugène-Emmanuel Viollet-le-Duc) | id 10878613 |
+| The Modern Builder's Guide (Minard Lafever) | id 11141458 |
+| Anglo-Saxon Architecture (H. M. Taylor and Joan Taylor) | id 8455406 |
+| Inigo Jones (John Summerson) | id 6771642 |
+| The Architecture of Country Houses (A. J. Downing) | id 308840 |
+| Creation Is a Patient Search (Le Corbusier) | 1 matching results, none with a cover |
+| The Four Routes (Le Corbusier) | 4 matching results, none with a cover |
+| Le Corbusier Sketchbooks (Le Corbusier) | isbn 0262030780 |
+| Le Corbusier Talks with Students (Le Corbusier) | id 812610 |
+| Looking at City Planning (Le Corbusier) | 2 matching results, none with a cover |
+| The Marseilles Block (Le Corbusier) | 2 matching results, none with a cover |
+| My Work (Le Corbusier) | 2 matching results, none with a cover |
+| The Story of the Tower: The Tree That Escaped the Crowded Forest (Frank Lloyd Wright) | no result by this author with this title among 12 results |
+| OMA/Rem Koolhaas: A Critical Reader (Christophe Van Gerrewey (editor)) | 2 matching results, none with a cover |
+| Mies van der Rohe: Barcelona Pavilion (Ignasi de Solà-Morales, Cristian Cirici and Fernando Ramos) | 1 matching results, none with a cover |
+| Utzon's Own Houses (Jørn Utzon) | 1 matching results, none with a cover |
+| Counterpoint: Daniel Libeskind in Conversation with Paul Goldberger (Daniel Libeskind and Paul Goldberger) | no result by this author with this title among 12 results |
+| Haus eines Kunstfreundes (Charles Rennie Mackintosh) | 1 matching results, none with a cover |
+| Buildings, Projects, Structures 1953–1963 (Pier Luigi Nervi) | 1 matching results, none with a cover |
+| Modern Architecture (Bruno Taut) | 3 matching results, none with a cover |
+| Die Stadtkrone (Bruno Taut) | 4 matching results, none with a cover |
+| James Stirling: Buildings & Projects 1950–1974 (James Stirling) | no result by this author with this title among 19 results |
+| Life and Human Habitat (Richard Neutra) | 2 matching results, none with a cover |
+| Houses, Interiors and Projects (Harry Seidler) | 2 matching results, none with a cover |
+| Architecture in an Age of Scepticism (Denys Lasdun (editor)) | 3 matching results, none with a cover |
+| MAN transFORMS: Aspects of Design (Hans Hollein) | no result by this author with this title among 17 results |
+| Diller Scofidio + Renfro: Architecture after Images (Edward Dimendberg) | no result by this author with this title among 7 results |
+| Programs and Manifestoes on 20th-Century Architecture (Ulrich Conrads (editor)) | id 151235 |
+| Archigram (Peter Cook (editor)) | id 13729451 |
+| Superstudio: Life Without Objects (Peter Lang and William Menking) | no result by this author with this title among 10 results |
+| The Metropolis of Tomorrow (Hugh Ferriss) | id 702562 |
+| Stones of Empire: The Buildings of the Raj (Jan Morris with Simon Winchester) | id 116957 |
+| Splendours of the Raj: British Architecture in India, 1660 to 1947 (Philip Davies) | no result by this author with this title among 3 results |
+| Mughal Architecture: An Outline of Its History and Development (1526–1858) (Ebba Koch) | no result by this author with this title among 14 results |
 
 ## No cover yet
 
@@ -434,3 +474,101 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - tropical-architecture-critical-regionalism-in-the-age-of-glo: Tropical Architecture: Critical Regionalism in the Age of Globalization (Alexander Tzonis, Liane Lefaivre and Bruno Stagno (editors))
 - the-chinese-garden-history-art-and-architecture: The Chinese Garden: History, Art and Architecture (Maggie Keswick)
 - the-projective-cast-architecture-and-its-three-geometries: The Projective Cast: Architecture and Its Three Geometries (Robin Evans)
+- jrn-utzon-logbook-vol-i-the-courtyard-houses: Jørn Utzon Logbook Vol. I: The Courtyard Houses (Jørn Utzon)
+- the-terragni-atlas-built-architectures: The Terragni Atlas: Built Architectures (Attilio Terragni, Daniel Libeskind and Paolo Rosselli)
+- stone-and-feather-steven-holl-architects-nelson-atkins-museu: Stone and Feather: Steven Holl Architects/Nelson-Atkins Museum Expansion (Jeffrey Kipnis)
+- sun-and-shadow-the-philosophy-of-an-architect: Sun and Shadow: The Philosophy of an Architect (Marcel Breuer)
+- mastering-mckim-s-plan-columbia-s-first-century-on-morningsi: Mastering McKim's Plan: Columbia's First Century on Morningside Heights (Barry Bergdoll)
+- on-the-wings-of-modernism-the-united-states-air-force-academ: On the Wings of Modernism: The United States Air Force Academy (Robert Allan Nauman)
+- aldo-van-eyck-works: Aldo van Eyck: Works (Vincent Ligtelijn (editor))
+- conversations-with-i-m-pei-light-is-the-key: Conversations with I. M. Pei: Light Is the Key (Gero von Boehm)
+- santiago-calatrava-s-creative-process: Santiago Calatrava's Creative Process (Alexander Tzonis)
+- the-solitude-of-buildings: The Solitude of Buildings (Rafael Moneo)
+- introduction-to-architectural-science-the-basis-of-sustainab: Introduction to Architectural Science: The Basis of Sustainable Design (Steven V. Szokolay)
+- mies-reconsidered-his-career-legacy-and-disciples: Mies Reconsidered: His Career, Legacy, and Disciples (John Zukowsky (editor))
+- le-corbusier-chandigarh-and-the-modern-city: Le Corbusier: Chandigarh and the Modern City (Hasan-Uddin Khan, Julian Beinart and Charles Correa)
+- modernity-and-community-architecture-in-the-islamic-world: Modernity and Community: Architecture in the Islamic World (Kenneth Frampton, Charles Correa and David Robson)
+- peter-zumthor-19852013-buildings-and-projects: Peter Zumthor 1985–2013: Buildings and Projects (Thomas Durisch (editor))
+- kazuyo-sejima-ryue-nishizawa-sanaa: Kazuyo Sejima + Ryue Nishizawa: SANAA (Yuko Hasegawa)
+- a-japanese-constellation-toyo-ito-sanaa-and-beyond: A Japanese Constellation: Toyo Ito, SANAA, and Beyond (Pedro Gadanho (editor))
+- russia-europe-america-an-architectural-cross-section: Russia, Europe, America: An Architectural Cross-Section (Erich Mendelsohn)
+- urban-hopes-made-in-china-by-steven-holl: Urban Hopes: Made in China by Steven Holl (Steven Holl)
+- snhetta-works: Snøhetta Works (Snøhetta)
+- hassan-fathy: Hassan Fathy (J. M. Richards, Ismail Serageldin and Darl Rastorfer)
+- afritecture-building-social-change: Afritecture: Building Social Change (Andres Lepik (editor))
+- vistara-the-architecture-of-india: Vistara: The Architecture of India (Carmen Kagal (editor))
+- the-hindu-temple-an-introduction-to-its-meaning-and-forms: The Hindu Temple: An Introduction to Its Meaning and Forms (George Michell)
+- taj-mahal-the-illumined-tomb: Taj Mahal: The Illumined Tomb (Wayne E. Begley and Z. A. Desai)
+- the-sense-of-unity-the-sufi-tradition-in-persian-architectur: The Sense of Unity: The Sufi Tradition in Persian Architecture (Nader Ardalan and Laleh Bakhtiar)
+- rethinking-the-skyscraper-the-complete-architecture-of-ken-y: Rethinking the Skyscraper: The Complete Architecture of Ken Yeang (Robert Powell)
+- the-modernist-city-an-anthropological-critique-of-brasilia: The Modernist City: An Anthropological Critique of Brasília (James Holston)
+- luis-barragan-the-quiet-revolution: Luis Barragán: The Quiet Revolution (Federica Zanco (editor))
+- gardens-and-the-picturesque-studies-in-the-history-of-landsc: Gardens and the Picturesque: Studies in the History of Landscape Architecture (John Dixon Hunt)
+- landscape-design-a-cultural-and-architectural-history: Landscape Design: A Cultural and Architectural History (Elizabeth Barlow Rogers)
+- energy-and-form-an-ecological-approach-to-urban-growth: Energy and Form: An Ecological Approach to Urban Growth (Ralph L. Knowles)
+- paper-architecture-new-projects-from-the-soviet-union: Paper Architecture: New Projects from the Soviet Union (Heinrich Klotz (editor))
+- the-spaces-in-between-an-architect-s-journey: The Spaces in Between: An Architect's Journey (Nathaniel Alexander Owings)
+- bruce-graham-of-som: Bruce Graham of SOM (Stanley Tigerman (introduction))
+- city-building-nine-planning-principles-for-the-twenty-first: City Building: Nine Planning Principles for the Twenty-First Century (John Lund Kriken)
+- sears-tower-a-building-book: Sears Tower: A Building Book (Jay Pridmore)
+- urban-utopias-in-the-twentieth-century-ebenezer-howard-frank: Urban Utopias in the Twentieth Century: Ebenezer Howard, Frank Lloyd Wright, and Le Corbusier (Robert Fishman)
+- alvar-aalto-mccarter: Alvar Aalto (Robert McCarter)
+- from-basel-herzog-de-meuron: From Basel: Herzog & de Meuron (Jean-François Chevrier)
+- essays-on-adolf-loos: Essays on Adolf Loos (Christopher Long)
+- building-the-modern-world-albert-kahn-in-detroit: Building the Modern World: Albert Kahn in Detroit (Michael H. Hodges)
+- the-architecture-of-james-stirling-and-his-partners-james-go: The Architecture of James Stirling and His Partners James Gowan and Michael Wilford (Geoffrey H. Baker)
+- houses-and-people-of-japan: Houses and People of Japan (Bruno Taut)
+- shaping-neighbourhoods-a-guide-for-health-sustainability-and: Shaping Neighbourhoods: A Guide for Health, Sustainability and Vitality (Hugh Barton, Marcus Grant and Richard Guise)
+- out-of-the-clouds-wolf-d-prix-sketches-19672020: Out of the Clouds: Wolf D. Prix Sketches 1967–2020 (Wolf D. Prix)
+- le-corbusier-beton-brut-and-ineffable-space-19401965: Le Corbusier: Béton Brut and Ineffable Space, 1940–1965 (Roberto Gargiani and Anna Rosellini)
+- mvrdv-buildings: MVRDV Buildings (MVRDV)
+- carlo-scarpa-drawings-for-the-brion-family-cemetery: Carlo Scarpa: Drawings for the Brion Family Cemetery (Carlo Scarpa)
+- adolf-loos-das-werk-des-architekten: Adolf Loos: Das Werk des Architekten (Heinrich Kulka)
+- the-writings-of-josep-lluis-sert: The Writings of Josep Lluís Sert (Eric Mumford (editor))
+- writings-on-architecture: Writings on Architecture (Paul Rudolph)
+- the-vertical-village-individual-informal-intense: The Vertical Village: Individual, Informal, Intense (MVRDV)
+- compression: Compression (Steven Holl)
+- neues-museum-berlin: Neues Museum Berlin (David Chipperfield, Candida Höfer and Rik Nys)
+- a-language-and-a-theme-the-architecture-of-denys-lasdun-part: A Language and a Theme: The Architecture of Denys Lasdun & Partners (Denys Lasdun and Partners)
+- american-building-the-forces-that-shape-it: American Building: The Forces That Shape It (James Marston Fitch)
+- hans-poelzig-in-breslau: Hans Poelzig in Breslau (Jerzy Ilkosz and Beate Störtkuhl (editors))
+- understanding-architecture-its-elements-history-and-meaning: Understanding Architecture: Its Elements, History, and Meaning (Leland M. Roth)
+- the-language-of-architecture-26-principles-every-architect-s: The Language of Architecture: 26 Principles Every Architect Should Know (Andrea Simitch and Val Warke)
+- drawing-ideas-a-hand-drawn-approach-for-better-design: Drawing Ideas: A Hand-Drawn Approach for Better Design (Mark Baskinger and William Bardel)
+- the-rsvp-cycles-creative-processes-in-the-human-environment: The RSVP Cycles: Creative Processes in the Human Environment (Lawrence Halprin)
+- gardens-are-for-people: Gardens Are for People (Thomas D. Church)
+- room-outside-a-new-approach-to-garden-design: Room Outside: A New Approach to Garden Design (John Brookes)
+- daylighting-architecture-and-lighting-design: Daylighting: Architecture and Lighting Design (Peter Tregenza and Michael Wilson)
+- community-and-privacy-toward-a-new-architecture-of-humanism: Community and Privacy: Toward a New Architecture of Humanism (Serge Chermayeff and Christopher Alexander)
+- the-architecture-of-humanism-a-study-in-the-history-of-taste: The Architecture of Humanism: A Study in the History of Taste (Geoffrey Scott)
+- sustainable-construction-green-building-design-and-delivery: Sustainable Construction: Green Building Design and Delivery (Charles J. Kibert)
+- structures: Structures (Pier Luigi Nervi)
+- otto-wagner-18411918-the-expanding-city-the-beginning-of-mod: Otto Wagner 1841–1918: The Expanding City, the Beginning of Modern Architecture (Heinz Geretsegger and Max Peintner)
+- broken-glass-mies-van-der-rohe-edith-farnsworth-and-the-figh: Broken Glass: Mies van der Rohe, Edith Farnsworth, and the Fight Over a Modernist Masterpiece (Alex Beam)
+- three-lectures-on-architecture: Three Lectures on Architecture (Erich Mendelsohn)
+- the-architects-collaborative-19451965: The Architects Collaborative 1945–1965 (Walter Gropius and others)
+- the-gothic-revival-an-essay-in-the-history-of-taste: The Gothic Revival: An Essay in the History of Taste (Kenneth Clark)
+- fire-from-first-principles-a-design-guide-to-building-fire-s: Fire from First Principles: A Design Guide to Building Fire Safety (Paul Stollard and John Abrahams)
+- creation-is-a-patient-search: Creation Is a Patient Search (Le Corbusier)
+- the-four-routes: The Four Routes (Le Corbusier)
+- looking-at-city-planning: Looking at City Planning (Le Corbusier)
+- the-marseilles-block: The Marseilles Block (Le Corbusier)
+- my-work: My Work (Le Corbusier)
+- the-story-of-the-tower-the-tree-that-escaped-the-crowded-for: The Story of the Tower: The Tree That Escaped the Crowded Forest (Frank Lloyd Wright)
+- oma-rem-koolhaas-a-critical-reader: OMA/Rem Koolhaas: A Critical Reader (Christophe Van Gerrewey (editor))
+- mies-van-der-rohe-barcelona-pavilion: Mies van der Rohe: Barcelona Pavilion (Ignasi de Solà-Morales, Cristian Cirici and Fernando Ramos)
+- utzon-s-own-houses: Utzon's Own Houses (Jørn Utzon)
+- counterpoint-daniel-libeskind-in-conversation-with-paul-gold: Counterpoint: Daniel Libeskind in Conversation with Paul Goldberger (Daniel Libeskind and Paul Goldberger)
+- haus-eines-kunstfreundes: Haus eines Kunstfreundes (Charles Rennie Mackintosh)
+- buildings-projects-structures-19531963: Buildings, Projects, Structures 1953–1963 (Pier Luigi Nervi)
+- modern-architecture-taut: Modern Architecture (Bruno Taut)
+- die-stadtkrone: Die Stadtkrone (Bruno Taut)
+- james-stirling-buildings-projects-19501974: James Stirling: Buildings & Projects 1950–1974 (James Stirling)
+- life-and-human-habitat: Life and Human Habitat (Richard Neutra)
+- houses-interiors-and-projects: Houses, Interiors and Projects (Harry Seidler)
+- architecture-in-an-age-of-scepticism: Architecture in an Age of Scepticism (Denys Lasdun (editor))
+- man-transforms-aspects-of-design: MAN transFORMS: Aspects of Design (Hans Hollein)
+- diller-scofidio-renfro-architecture-after-images: Diller Scofidio + Renfro: Architecture after Images (Edward Dimendberg)
+- superstudio-life-without-objects: Superstudio: Life Without Objects (Peter Lang and William Menking)
+- splendours-of-the-raj-british-architecture-in-india-1660-to: Splendours of the Raj: British Architecture in India, 1660 to 1947 (Philip Davies)
+- mughal-architecture-an-outline-of-its-history-and-developmen: Mughal Architecture: An Outline of Its History and Development (1526–1858) (Ebba Koch)
