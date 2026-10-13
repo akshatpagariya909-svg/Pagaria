@@ -380,5 +380,519 @@
    "https://sah.org/2025/07/18/sah-opposes-proposed-demolition-of-the-kagawa-prefectural-gymnasium/"
   ],
   "note": "Known as the 'ship gym'. Closed since 2014; the prefecture began a demolition tender in August 2025 and campaigners sought an injunction, so it may be demolished. No Commons category; second photo is an old black-and-white view. File:香川県体育館.jpg (1129px) is credited to the builder, so I left it out."
+ },
+ {
+  "id": "stata-center",
+  "name": "Ray and Maria Stata Center (MIT Building 32)",
+  "by": "Frank Gehry",
+  "city": "Cambridge, Massachusetts",
+  "cc": "US",
+  "year": "2004",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Facade as skin"
+  ],
+  "features": "Leaning towers in brick, steel and coloured panels, crowded together like a small hill town.",
+  "award": "Pritzker laureate: Frank Gehry",
+  "status": "photo",
+  "commons_category": "Category:Stata Center (MIT Building 32)",
+  "photos": [
+   {
+    "file": "File:2017 Stata Center (MIT Building 32) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MIT 32 - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2017 Stata Center (MIT Building 32) 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stata_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "quartier-schutzenstrasse",
+  "name": "Quartier Schützenstraße",
+  "by": "Aldo Rossi",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1998",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "One city block split into many narrow, brightly coloured facades around inner courtyards.",
+  "award": "Pritzker laureate: Aldo Rossi",
+  "status": "photo",
+  "commons_category": "Category:Quartier Schützenstraße",
+  "photos": [
+   {
+    "file": "File:Berlin - Schützenquartier.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin - Schützenquartier (2).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Quartier-Schuetzenstr-Aldo-Rossi-Berlin-Mitte-Ansicht-Charlottenstr-Ecke-Zimmerstr-Aufnahme-August-2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aldo_Rossi"
+  ],
+  "note": "Rossi's Wikipedia works list gives 1994–1998. Offices, flats and shops. Rossi died in 1997, before completion."
+ },
+ {
+  "id": "franklin-court",
+  "name": "Franklin Court",
+  "by": "Venturi and Rauch (Robert Venturi, Denise Scott Brown)",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1976",
+  "type": "Memorial",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Void",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "White steel 'ghost' frames trace Franklin's vanished house and print shop above an underground museum.",
+  "award": "Pritzker laureate: Robert Venturi",
+  "status": "photo",
+  "commons_category": "Category:Franklin Court, Philadelphia",
+  "photos": [
+   {
+    "file": "File:The large white steel frame in the foreground marks the location and size of Benjamin Franklin's home in Franklin Court (3d00c6b9-155d-451f-67cb-cdfa110dc69e).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Benjamin Franklin House Outline.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Franklin Court - July 2009 - Sarah Stierch 03.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Independence National Historical Park Franklin Court Ghost Structure.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franklin_Court"
+  ],
+  "note": "Fourth photo is a black-and-white aerial view. Also an aerial 1980 photo (public domain) with a printed caption under it."
+ },
+ {
+  "id": "cgac-santiago",
+  "name": "Galician Centre of Contemporary Art (CGAC)",
+  "by": "Álvaro Siza",
+  "city": "Santiago de Compostela",
+  "cc": "ES",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Promenade",
+   "Light from above"
+  ],
+  "features": "Granite-clad wedges beside a convent, with a deep cut-away entrance porch and a roof terrace over the old town.",
+  "award": "Pritzker laureate: Alvaro Siza",
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Centro Galego de Arte Contemporánea",
+  "photos": [
+   {
+    "file": "File:CGAC Santiago de Compostela.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centro Galego de Arte Contemporánea 2015.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Santiago de Compostela (39601963544).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Galego_de_Arte_Contempor%C3%A1nea"
+  ],
+  "note": "Wikipedia: designed from 1988, built 1993–94, opened 1993."
+ },
+ {
+  "id": "lvmh-tower",
+  "name": "LVMH Tower",
+  "by": "Christian de Portzamparc",
+  "city": "New York City",
+  "cc": "US",
+  "year": "1999",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "24-storey tower of folded, faceted glass on 57th Street, set against its masonry neighbours.",
+  "award": "Pritzker laureate: Christian de Portzamparc",
+  "status": "photo",
+  "commons_category": "Category:LVMH Tower",
+  "photos": [
+   {
+    "file": "File:LVMH Tower (55283755508).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:E 57 St Nov 2021 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:57th St Madison Av td 14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/LVMH_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hill-of-the-buddha",
+  "name": "Hill of the Buddha",
+  "by": "Tadao Ando",
+  "city": "Sapporo",
+  "cc": "JP",
+  "year": "2015",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Light from above"
+  ],
+  "features": "A 13.5 m Buddha ringed by a lavender-planted hill; only its head shows until you enter by a tunnel.",
+  "award": "Pritzker laureate: Tadao Ando",
+  "status": "photo",
+  "commons_category": "Category:Hill of the Buddha",
+  "photos": [
+   {
+    "file": "File:Hill of the Buddha, Makomanai Takino Cemetery 1 - Jul 11, 2020.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hill_of_the_Buddha"
+  ],
+  "note": "Only one exterior photo (entrance and water court with the hill behind). File:頭大仏（2024）.jpg (CC BY-SA 4.0) shows the Buddha inside the open rotunda, a good second image if interiors are allowed."
+ },
+ {
+  "id": "murcia-town-hall-extension",
+  "name": "Murcia Town Hall Extension",
+  "by": "Rafael Moneo",
+  "city": "Murcia",
+  "cc": "ES",
+  "year": "1998",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Sandstone facade of irregular piers and openings, like a musical score, facing the cathedral square.",
+  "award": "Pritzker laureate: Rafael Moneo",
+  "status": "photo",
+  "commons_category": "Category:Town Hall Extension, Murcia",
+  "photos": [
+   {
+    "file": "File:Murcia CathedralSquare1.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Ayuntamiento desde la Catedral 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moneoren Eraikina Murtzian - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Moneo",
+   "https://en.wikipedia.org/wiki/Cardinal_Belluga_Square",
+   "https://rafaelmoneo.com/en/projects/murcia-city-hall/",
+   "https://www.archinform.net/quellen/29370.htm"
+  ],
+  "note": "Built 1991–98 (Moneo's site, archINFORM). No door onto the square; entered from the side."
+ },
+ {
+  "id": "ivar-aasen-centre",
+  "name": "Ivar Aasen Centre (Ivar Aasen-tunet)",
+  "by": "Sverre Fehn",
+  "city": "Ørsta",
+  "cc": "NO",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Section"
+  ],
+  "features": "Low museum dug into the hillside, marked by tall sloping concrete wedges rising from the slope.",
+  "award": "Pritzker laureate: Sverre Fehn",
+  "status": "photo",
+  "commons_category": "Category:Ivar Aasen-tunet",
+  "photos": [
+   {
+    "file": "File:Ivar Aasen-tunet.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivar Aasen-tunet5887.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivar Aasen-tunet5888.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sverre_Fehn"
+  ],
+  "note": "Second and third photos are distant views across the meadow; the first is a close-up of one concrete wedge."
+ },
+ {
+  "id": "kansai-airport-terminal-1",
+  "name": "Kansai International Airport Terminal 1",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Izumisano, Osaka",
+  "cc": "JP",
+  "year": "1994",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "1.7 km terminal under one curved, wing-like steel roof, on an artificial island in Osaka Bay.",
+  "award": "Pritzker laureate: Renzo Piano",
+  "status": "photo",
+  "commons_category": "Category:Kansai International Airport Terminal 1",
+  "photos": [
+   {
+    "file": "File:関空第1ターミナル全景 - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kansai Airport terminal 1 ,from the top of observation hall \"sky view\" (16041786233).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Osaka Kansai Int'l Airport Terminal1 (17567741930).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kansai_International_Airport"
+  ],
+  "note": "Photos are airside views with aircraft in front."
+ },
+ {
+  "id": "zentrum-paul-klee",
+  "name": "Zentrum Paul Klee",
+  "by": "Renzo Piano Building Workshop",
+  "city": "Bern",
+  "cc": "CH",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Three steel-ribbed waves rising out of the fields, for galleries, archive and a children's studio.",
+  "award": "Pritzker laureate: Renzo Piano",
+  "status": "photo",
+  "commons_category": "Category:Zentrum Paul Klee",
+  "photos": [
+   {
+    "file": "File:Zentrum Paul Klee, Bern - ch.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Le centre Paul Klee (Berne, Suisse) (42656872475).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bern ZentrumPaulKlee.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zentrum_Paul_Klee"
+  ],
+  "note": "The best exterior photos are found by file search, not in the category itself (which is mostly 2017 garden shots)."
+ },
+ {
+  "id": "hong-kong-airport-terminal-1",
+  "name": "Hong Kong International Airport Terminal 1",
+  "by": "Foster + Partners",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1998",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Modular"
+  ],
+  "features": "Vast terminal under a repeated run of light steel barrel-vaulted roof shells that let daylight in.",
+  "award": "Pritzker laureate: Norman Foster",
+  "status": "photo",
+  "commons_category": "Category:Hong Kong International Airport Terminal 1",
+  "photos": [
+   {
+    "file": "File:HKG terminal 2013-08-17.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aeropuerto de Hong Kong, 2013-08-13, DD 05.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Letiště Chek Lap Kok, Hongkong.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport"
+  ],
+  "note": "Third photo is an aerial view from a plane."
+ },
+ {
+  "id": "apple-park",
+  "name": "Apple Park",
+  "by": "Foster + Partners",
+  "city": "Cupertino",
+  "cc": "US",
+  "year": "2017",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Four-storey ring of curved glass with white floor canopies, around a planted central courtyard.",
+  "award": "Pritzker laureate: Norman Foster",
+  "status": "photo",
+  "commons_category": "Category:Apple Park",
+  "photos": [
+   {
+    "file": "File:Apple Park Outer.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Apple Park - October 2018 - 8804.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Apple spaceship under construction.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Apple_Park"
+  ],
+  "note": "Private campus: most public views are from the street through trees. Third photo shows it under construction."
  }
 ]
