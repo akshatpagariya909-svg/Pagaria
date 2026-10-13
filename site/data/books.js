@@ -15889,16 +15889,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1415154W",
-  "isbn": "9780226002408",
-  "olYear": 1961,
   "cover": {
    "thumb": "images/books/the-architecture-of-michelangelo.webp",
    "src": "https://covers.openlibrary.org/b/id/139448-L.jpg",
    "w": 313,
    "h": 475,
    "source": "https://openlibrary.org/works/OL1415154W"
-  }
+  },
+  "ol": "OL1415154W",
+  "isbn": "9780226002408",
+  "olYear": 1961
  },
  {
   "id": "the-earth-the-temple-and-the-gods-greek-sacred-architecture",
@@ -15929,23 +15929,23 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL16008607W",
-  "isbn": "1283072475",
-  "olYear": 2008,
   "cover": {
    "thumb": "images/books/bim-handbook.webp",
    "src": "https://covers.openlibrary.org/b/id/2424228-L.jpg",
    "w": 383,
    "h": 500,
    "source": "https://openlibrary.org/works/OL16008607W"
-  }
+  },
+  "ol": "OL16008607W",
+  "isbn": "1283072475",
+  "olYear": 2008
  },
  {
   "id": "giving-preservation-a-history",
   "title": "Giving Preservation a History",
   "by": "Max Page, Randall Mason",
-  "year": "2003",
-  "y": 2003,
+  "year": "2004",
+  "y": 2004,
   "shelf": "History",
   "why": "Essays on how the practice of preserving buildings began and changed.",
   "tags": [
@@ -15954,16 +15954,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL18866317W",
-  "isbn": "0429398891",
-  "olYear": 2003,
   "cover": {
    "thumb": "images/books/giving-preservation-a-history.webp",
    "src": "https://covers.openlibrary.org/b/id/12441959-L.jpg",
    "w": 261,
    "h": 400,
    "source": "https://openlibrary.org/works/OL18866317W"
-  }
+  },
+  "ol": "OL18866317W",
+  "isbn": "0429398891",
+  "olYear": 2003
  },
  {
   "id": "framing-places-mediating-power-in-built-form",
@@ -15979,16 +15979,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1944499W",
-  "isbn": "1280334592",
-  "olYear": 1999,
   "cover": {
    "thumb": "images/books/framing-places-mediating-power-in-built-form.webp",
    "src": "https://covers.openlibrary.org/b/id/3735301-L.jpg",
    "w": 128,
    "h": 181,
    "source": "https://openlibrary.org/works/OL1944499W"
-  }
+  },
+  "ol": "OL1944499W",
+  "isbn": "1280334592",
+  "olYear": 1999
  },
  {
   "id": "art-and-architecture-in-france-1500-to-1700",
@@ -16004,16 +16004,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1174922W",
-  "isbn": "9780140561043",
-  "olYear": 1953,
   "cover": {
    "thumb": "images/books/art-and-architecture-in-france-1500-to-1700.webp",
    "src": "https://covers.openlibrary.org/b/id/4574813-L.jpg",
    "w": 128,
    "h": 179,
    "source": "https://openlibrary.org/works/OL1174922W"
-  }
+  },
+  "ol": "OL1174922W",
+  "isbn": "9780140561043",
+  "olYear": 1953
  },
  {
   "id": "brick-and-marble-in-the-middle-ages-notes-of-tours-in-the-no",
@@ -16029,15 +16029,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL13118548W",
-  "olYear": 1874,
   "cover": {
    "thumb": "images/books/brick-and-marble-in-the-middle-ages-notes-of-tours-in-the-no.webp",
    "src": "https://covers.openlibrary.org/b/id/6009383-L.jpg",
    "w": 309,
    "h": 500,
    "source": "https://openlibrary.org/works/OL13118548W"
-  }
+  },
+  "ol": "OL13118548W",
+  "olYear": 1874
  },
  {
   "id": "the-classical-orders-of-architecture",
@@ -16053,16 +16053,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL5114637W",
-  "isbn": "9780851397795",
-  "olYear": 1985,
   "cover": {
    "thumb": "images/books/the-classical-orders-of-architecture.webp",
    "src": "https://covers.openlibrary.org/b/isbn/0750661240-L.jpg",
    "w": 376,
    "h": 500,
    "source": "https://openlibrary.org/works/OL5114637W"
-  }
+  },
+  "ol": "OL5114637W",
+  "isbn": "9780851397795",
+  "olYear": 1985
  },
  {
   "id": "hovels-to-high-rise-state-housing-in-europe-since-1850",
@@ -16095,16 +16095,16 @@ window.BOOKS = [
    "Oscar Niemeyer"
   ],
   "buildings": [],
-  "ol": "OL175129W",
-  "isbn": "1258367645",
-  "olYear": 1950,
   "cover": {
    "thumb": "images/books/the-work-of-oscar-niemeyer.webp",
    "src": "https://covers.openlibrary.org/b/id/13771817-L.jpg",
    "w": 369,
    "h": 500,
    "source": "https://openlibrary.org/works/OL175129W"
-  }
+  },
+  "ol": "OL175129W",
+  "isbn": "1258367645",
+  "olYear": 1950
  },
  {
   "id": "two-lectures-on-architecture",
@@ -16139,16 +16139,16 @@ window.BOOKS = [
    "Zaha Hadid"
   ],
   "buildings": [],
-  "ol": "OL17435975W",
-  "isbn": "050034289X",
-  "olYear": 2013,
   "cover": {
    "thumb": "images/books/the-complete-zaha-hadid.webp",
    "src": "https://covers.openlibrary.org/b/id/7574268-L.jpg",
    "w": 343,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17435975W"
-  }
+  },
+  "ol": "OL17435975W",
+  "isbn": "050034289X",
+  "olYear": 2013
  },
  {
   "id": "planetary-architecture-two",
@@ -16198,16 +16198,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL3090802W",
-  "isbn": "9780273402862",
-  "olYear": 1963,
   "cover": {
    "thumb": "images/books/foundation-design-and-construction.webp",
    "src": "https://covers.openlibrary.org/b/id/4639363-L.jpg",
    "w": 128,
    "h": 206,
    "source": "https://openlibrary.org/works/OL3090802W"
-  }
+  },
+  "ol": "OL3090802W",
+  "isbn": "9780273402862",
+  "olYear": 1963
  },
  {
   "id": "construction-project-management",
@@ -16223,16 +16223,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL548533W",
-  "isbn": "9780471161028",
-  "olYear": 1972,
   "cover": {
    "thumb": "images/books/construction-project-management.webp",
    "src": "https://covers.openlibrary.org/b/id/4522429-L.jpg",
    "w": 128,
    "h": 196,
    "source": "https://openlibrary.org/works/OL548533W"
-  }
+  },
+  "ol": "OL548533W",
+  "isbn": "9780471161028",
+  "olYear": 1972
  },
  {
   "id": "a-handbook-of-greek-and-roman-architecture",
@@ -16248,15 +16248,15 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL34581344W",
-  "olYear": 1929,
   "cover": {
    "thumb": "images/books/a-handbook-of-greek-and-roman-architecture.webp",
    "src": "https://covers.openlibrary.org/b/id/14975499-L.jpg",
    "w": 305,
    "h": 500,
    "source": "https://openlibrary.org/works/OL34581344W"
-  }
+  },
+  "ol": "OL34581344W",
+  "olYear": 1929
  },
  {
   "id": "the-cathedrals-of-northern-france",
@@ -16272,16 +16272,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL214549W",
-  "isbn": "1432622420",
-  "olYear": 1900,
   "cover": {
    "thumb": "images/books/the-cathedrals-of-northern-france.webp",
    "src": "https://covers.openlibrary.org/b/id/5667232-L.jpg",
    "w": 303,
    "h": 500,
    "source": "https://openlibrary.org/works/OL214549W"
-  }
+  },
+  "ol": "OL214549W",
+  "isbn": "1432622420",
+  "olYear": 1900
  },
  {
   "id": "denkmaeler-aus-aegypten-und-aethiopien",
@@ -16297,16 +16297,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL6121595W",
-  "isbn": "0543968790",
-  "olYear": 1849,
   "cover": {
    "thumb": "images/books/denkmaeler-aus-aegypten-und-aethiopien.webp",
    "src": "https://covers.openlibrary.org/b/id/2479446-L.jpg",
    "w": 318,
    "h": 500,
    "source": "https://openlibrary.org/works/OL6121595W"
-  }
+  },
+  "ol": "OL6121595W",
+  "isbn": "0543968790",
+  "olYear": 1849
  },
  {
   "id": "houses-and-house-life-of-the-american-aborigines",
@@ -16322,16 +16322,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL1621345W",
-  "isbn": "9781404374331",
-  "olYear": 1881,
   "cover": {
    "thumb": "images/books/houses-and-house-life-of-the-american-aborigines.webp",
    "src": "https://covers.openlibrary.org/b/id/6232203-L.jpg",
    "w": 385,
    "h": 500,
    "source": "https://openlibrary.org/works/OL1621345W"
-  }
+  },
+  "ol": "OL1621345W",
+  "isbn": "9781404374331",
+  "olYear": 1881
  },
  {
   "id": "the-architect",
@@ -16347,16 +16347,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL105660W",
-  "isbn": "9780306707995",
-  "olYear": 1847,
   "cover": {
    "thumb": "images/books/the-architect.webp",
    "src": "https://covers.openlibrary.org/b/id/11061513-L.jpg",
    "w": 315,
    "h": 500,
    "source": "https://openlibrary.org/works/OL105660W"
-  }
+  },
+  "ol": "OL105660W",
+  "isbn": "9780306707995",
+  "olYear": 1847
  },
  {
   "id": "new-architecture-in-africa",
@@ -16402,16 +16402,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL17723532W",
-  "isbn": "9780890969014",
-  "olYear": 2000,
   "cover": {
    "thumb": "images/books/latin-american-architecture-six-voices.webp",
    "src": "https://covers.openlibrary.org/b/id/1648294-L.jpg",
    "w": 357,
    "h": 475,
    "source": "https://openlibrary.org/works/OL17723532W"
-  }
+  },
+  "ol": "OL17723532W",
+  "isbn": "9780890969014",
+  "olYear": 2000
  },
  {
   "id": "a-pictorial-history-of-chinese-architecture",
@@ -16429,31 +16429,6 @@ window.BOOKS = [
   "buildings": []
  },
  {
-  "id": "sun-wind-and-light-architectural-design-strategies",
-  "title": "Sun, Wind, and Light: Architectural Design Strategies",
-  "by": "G. Z. Brown, Mark DeKay",
-  "year": "2001",
-  "y": 2001,
-  "shelf": "Construction",
-  "why": "A design guide to using sun, wind and daylight in buildings.",
-  "tags": [
-   "Climate",
-   "Sustainability"
-  ],
-  "architects": [],
-  "buildings": [],
-  "ol": "OL13593989W",
-  "isbn": "9780471820635",
-  "olYear": 1985,
-  "cover": {
-   "thumb": "images/books/sun-wind-and-light-architectural-design-strategies.webp",
-   "src": "https://covers.openlibrary.org/b/isbn/9780471820635-L.jpg",
-   "w": 475,
-   "h": 359,
-   "source": "https://openlibrary.org/works/OL13593989W"
-  }
- },
- {
   "id": "rendering-with-pen-and-ink",
   "title": "Rendering with Pen and Ink",
   "by": "Robert W. Gill",
@@ -16467,16 +16442,16 @@ window.BOOKS = [
   ],
   "architects": [],
   "buildings": [],
-  "ol": "OL4488329W",
-  "isbn": "0500680264",
-  "olYear": 1973,
   "cover": {
    "thumb": "images/books/rendering-with-pen-and-ink.webp",
    "src": "https://covers.openlibrary.org/b/id/8449796-L.jpg",
    "w": 321,
    "h": 475,
    "source": "https://openlibrary.org/works/OL4488329W"
-  }
+  },
+  "ol": "OL4488329W",
+  "isbn": "0500680264",
+  "olYear": 1973
  },
  {
   "id": "colonial-modern-aesthetics-of-the-past-rebellions-for-the-fu",

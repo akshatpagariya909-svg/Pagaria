@@ -1,6 +1,6 @@
 # Books report
 
-451 of 725 books have a cover.
+450 of 724 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -267,33 +267,14 @@
 | Superstudio: Life Without Objects (Peter Lang and William Menking) | no result by this author with this title among 10 results |
 | Splendours of the Raj: British Architecture in India, 1660 to 1947 (Philip Davies) | no result by this author with this title among 3 results |
 | Mughal Architecture: An Outline of Its History and Development (1526–1858) (Ebba Koch) | no result by this author with this title among 14 results |
-| The Architecture of Michelangelo (James S. Ackerman) | id 139448 |
 | The Earth, the Temple, and the Gods: Greek Sacred Architecture (Vincent Scully) | 1 matching results, none with a cover |
-| BIM Handbook (Chuck Eastman, Paul Teicholz, Rafael Sacks, Kathleen Liston) | id 2424228 |
-| Giving Preservation a History (Max Page, Randall Mason) | id 12441959 |
-| Framing Places: Mediating Power in Built Form (Kim Dovey) | id 3735301 |
-| Art and Architecture in France, 1500 to 1700 (Anthony Blunt) | id 4574813 |
-| Brick and Marble in the Middle Ages: Notes of Tours in the North of Italy (George Edmund Street) | id 6009383 (loose title match: "Brick and marble in the middle ages: notes of a tour in the north of Italy") |
-| The Classical Orders of Architecture (Robert Chitham) | isbn 0750661240 |
 | Hovels to High Rise: State Housing in Europe since 1850 (Anne Power) | no result by this author with this title among 2 results |
-| The Work of Oscar Niemeyer (Stamo Papadaki) | id 13771817 |
 | Two Lectures on Architecture (Frank Lloyd Wright) | 1 matching results, none with a cover |
-| The Complete Zaha Hadid (Aaron Betsky) | id 7574268 |
 | Planetary Architecture Two (Zaha Hadid) | 1 matching results, none with a cover |
 | Remarks on 21 Works (Rafael Moneo) | 1 matching results, none with a cover |
-| Foundation Design and Construction (M. J. Tomlinson) | id 4639363 |
-| Construction Project Management (Richard H. Clough) | id 4522429 |
-| A Handbook of Greek and Roman Architecture (D. S. Robertson) | id 14975499 |
-| The Cathedrals of Northern France (T. Francis Bumpus) | id 5667232 |
-| Denkmaeler aus Aegypten und Aethiopien (Carl Richard Lepsius) | id 2479446 |
-| Houses and House-Life of the American Aborigines (Lewis Henry Morgan) | id 6232203 |
-| The Architect (William H. Ranlett) | id 11061513 |
 | New Architecture in Africa (Udo Kultermann) | 1 matching results, none with a cover |
 | A Genealogy of Tropical Architecture: Colonial Networks, Nature and Technoscience (Jiat-Hwee Chang) | no result by this author with this title among 0 results |
-| Latin American Architecture: Six Voices (Malcolm Quantrill) | id 1648294 |
 | A Pictorial History of Chinese Architecture (Liang Sicheng) | 1 matching results, none with a cover |
-| Sun, Wind, and Light: Architectural Design Strategies (G. Z. Brown, Mark DeKay) | isbn 9780471820635 |
-| Rendering with Pen and Ink (Robert W. Gill) | id 8449796 |
 | Colonial Modern: Aesthetics of the Past, Rebellions for the Future (Tom Avermaete, Serhat Karakayali, Marion von Osten) | no result by this author with this title among 11 results |
 | Landscape as Urbanism: A General Theory (Charles Waldheim) | no result by this author with this title among 7 results |
 | Sustainable Urbanism: Urban Design with Nature (Douglas Farr) | no result by this author with this title among 12 results |
