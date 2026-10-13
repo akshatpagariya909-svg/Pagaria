@@ -1,4 +1,4 @@
-2151 of 2604 buildings matched; 1032 architects, 547 with a free portrait.
+2198 of 2604 buildings matched; 1090 architects, 591 with a free portrait.
 
 search  villa-savoye: Q940746
 search  unite-dhabitation: Q1412364
@@ -1096,6 +1096,7 @@ name    George Nakashima: Q52431
 name    Louis Kahn: Q210134
 founder Gerhard Kallmann (Kallmann McKinnell): Q1504907
 founder Michael McKinnell (Kallmann McKinnell): Q6832740
+founder Edward Knowles (Kallmann McKinnell): no architect of that name
 name    Kallmann McKinnell: no architect of that name
 name    Vilanova Artigas: Q1791191
 name    Lina Bo Bardi: Q272400
@@ -1116,10 +1117,9 @@ name    Junya Ishigami: Q3070853
 name    Rei Naito: no architect of that name
 name    Sou Fujimoto: Q3133614
 founder Jacques Herzog (Herzog & de Meuron): Q2745982
-founder Pierre de Meuron (Herzog & de Meuron): Q3174960
+name    de Meuron: no architect of that name
 founder Rem Koolhaas (OMA): Q232364
 founder Kjetil Trædal Thorsen (Snøhetta): Q1813434
-founder Craig Dykers (Snøhetta): Q5180916
 founder Bjarke Ingels (BIG): Q429817
 founder Jürgen Mayer (J. Mayer H.): Q85218
 name    J. Mayer H.: Q85218
@@ -1151,7 +1151,6 @@ name    Warren Chalk: Q18593565
 name    Jorgen Bo: no architect of that name
 name    Ruy Athouguia: no architect of that name
 founder Yvonne Farrell (Grafton Architects): Q16151248
-founder Shelley McNamara (Grafton Architects): Q21132821
 name    Grafton Architects: no architect of that name
 name    Buckminster Fuller: Q102289
 name    Hariri Pontarini Architects: no architect of that name
@@ -1209,7 +1208,6 @@ name    Martin Kremmer: Q1904319
 name    Fritz Höger: Q77380
 name    David Chipperfield: Q707020
 founder Winy Maas (MVRDV): Q1356269
-founder Jacob van Rijs (MVRDV): Q225927
 founder Nathalie de Vries (MVRDV): Q469961
 name    Dorell Ghotmeh Tane: no architect of that name
 name    Barozzi Veiga: no architect of that name
@@ -1224,9 +1222,12 @@ name    Payette Associates: no architect of that name
 name    Ali Akbar Isfahani: Q29508194
 name    Turgut Cansever: Q6028416
 name    Ertur Yener: Q6059061
+founder Róisín Heneghan (Heneghan Peng): Q21689250
+founder Shih-Fu Peng (Heneghan Peng): no architect of that name
 name    Heneghan Peng: no architect of that name
 name    Oscar Niemeyer: Q134165
 name    Fazlur Rahman Khan: Q62918
+founder Edmund Happold (Buro Happold): Q5339538
 name    Frei Otto: Q64412
 name    Buro Happold: no architect of that name
 name    Saman Kamal: no architect of that name
@@ -1241,9 +1242,9 @@ name    OMM Design Workshop: no architect of that name
 name    Urban Solutions: no architect of that name
 name    Shaybanid builders: no architect of that name
 founder Wolf D. Prix (Coop Himmelb): Q114444
+founder Michael Holzer (Coop Himmelb): no architect of that name
 name    Coop Himmelbau: no architect of that name
 name    Paul Bohm: Q98909
-founder Richard Rogers (Rogers Stirk Harbour): Q237412
 name    Rogers Stirk Harbour: no architect of that name
 name    Alex Cvijanovic: Q25804017
 name    Howard Barnstone: Q17194320
@@ -1282,6 +1283,8 @@ name    Andrea Bruno: Q3615549
 name    Houshang Seyhoun: Q5898542
 name    Donovan Hill: no architect of that name
 name    Peddle Thorp: no architect of that name
+founder Karl Fender (Fender Katsalidis): no architect of that name
+founder Nonda Katsalidis (Fender Katsalidis): Q7049251
 name    Fender Katsalidis: no architect of that name
 name    Diego Rivera: no architect of that name
 name    Juan O'Gorman: no architect of that name
@@ -1308,6 +1311,9 @@ name    Bio-architecture Formosana: no architect of that name
 name    ARC Studio Architecture: no architect of that name
 name    Kisho Kurokawa: Q358502
 name    Tao Gofers: no architect of that name
+founder Stephen Ashton (Ashton Raggatt McDougall): no architect of that name
+founder Howard Raggatt (Ashton Raggatt McDougall): Q5920699
+founder Ian McDougall (Ashton Raggatt McDougall): Q105534415
 name    Ashton Raggatt McDougall: no architect of that name
 name    Louise Bourgeois: no architect of that name
 name    Gunnar Birkerts: Q1554720
@@ -1335,6 +1341,8 @@ name    Lassina Minta: no architect of that name
 name    Giuseppe Pettazzi: Q5565500
 name    John Burgee: Q5590225
 founder Kim Herforth Nielsen (3XN): Q6408718
+founder Hans Peter Svendler Nielsen (3XN): Q12315512
+founder Lars Frank Nielsen (3XN): Q124361485
 name    Tabanlioglu Architects: no architect of that name
 founder Rafael Aranda (RCR Arquitectes): Q6096991
 founder Carme Pigem (RCR Arquitectes): Q5752340
@@ -1392,7 +1400,6 @@ name    Walter Gropius: Q61071
 name    William Burnet Tuthill: Q8019589
 name    Willard T. Sears: Q5481957
 name    Ellerbe Becket: no architect of that name
-founder Gyo Obata (HOK): Q6318224
 founder George Hellmuth (HOK): Q83689124
 founder George Kassabaum (HOK): Q98885250
 name    HOK Sport: no architect of that name
@@ -1409,8 +1416,6 @@ founder Stefan Behnisch (Behnisch Architekten): Q5477935
 name    Behnisch Architekten: no architect of that name
 name    Ludwig Hoffmann: no architect of that name
 founder Charles Follen McKim (McKim, Mead): Q657848
-founder William Rutherford Mead (McKim, Mead): Q362550
-founder Stanford White (McKim, Mead): Q572735
 name    Adalberto Libera: Q348036
 name    Walter Maria Förderer: Q125160
 name    Charles-Édouard Jeanneret: no architect of that name
@@ -1441,6 +1446,8 @@ name    H. H. Richardson: Q723234
 name    Isaac Perry: Q15458175
 name    LPR Architects: no architect of that name
 name    Bea Betz: Q94763652
+founder Rena Wandel-Hoefer (Wandel Hoefer Lorch): Q55797175
+founder Andrea Wandel (Wandel Hoefer Lorch): Q55713900
 name    Wandel Hoefer Lorch: no architect of that name
 name    Jacques Hulot: no architect of that name
 name    Henri Rapin: no architect of that name
@@ -1710,7 +1717,6 @@ name    Alar Kotli: Q434946
 name    Henno Sepmann: Q1462841
 name    Uno Tölpus: Q16407509
 founder Fuensanta Nieto (Nieto Sobejano): Q19902909
-founder Enrique Sobejano (Nieto Sobejano): Q15808152
 name    Nieto Sobejano Arquitectos: no architect of that name
 name    Levon Cherkezyan: no architect of that name
 name    Zhorzh Shekhlyan: no architect of that name
@@ -1729,6 +1735,8 @@ name    Mohsen Foroughi: Q5951051
 name    Heydar Ghiai: Q277444
 name    Martin Schulz van Treeck: Q15063028
 name    Carlo Mollino: Q378757
+founder Jan Kaplický (Future Systems): Q555682
+founder David Nixon (Future Systems): Q121078386
 name    Future Systems: no architect of that name
 name    Andrea Morgante: no architect of that name
 name    Kim Seok-chul: no architect of that name
@@ -1773,14 +1781,16 @@ name    Max Hacke: Q133333189
 name    architecten jan de vylder inge vinck: no architect of that name
 name    SUMA Arquitectura: no architect of that name
 name    BBGK Architekci: no architect of that name
-name    O'Donnell: no architect of that name
+founder Sheila O'Donnell (O'Donnell): Q7493124
+founder John Tuomey (O'Donnell): Q55402648
 name    Lederer Ragnarsdóttir Oei: no architect of that name
 name    Robbrecht en Daem: no architect of that name
 name    Marie-José Van Hee: Q19474223
-name    Aires Mateus: no architect of that name
+founder Francisco Aires Mateus (Aires Mateus): Q107567335
 name    Neutelings Riedijk Architecten: no architect of that name
 name    Koen van Velsen: Q16152018
 name    Francesca Torzo: Q104714705
+founder Robert Konieczny (KWK Promes): Q600187
 name    KWK Promes: no architect of that name
 name    Muck Petzet Architekten: no architect of that name
 name    Archea Associati: no architect of that name
@@ -1790,8 +1800,14 @@ name    Feilden Clegg Bradley Studios: no architect of that name
 name    Alison Brooks Architects: no architect of that name
 name    Maccreanor Lavington: no architect of that name
 name    Wilkinson Eyre: no architect of that name
+founder Alan Stanton (Stanton Williams): Q23680531
+founder Paul Williams (Stanton Williams): no architect of that name
 name    Stanton Williams: no architect of that name
+founder Stephen Witherford (Witherford Watson Mann): no architect of that name
+founder Christopher Watson (Witherford Watson Mann): no architect of that name
+founder William Mann (Witherford Watson Mann): no architect of that name
 name    Witherford Watson Mann: no architect of that name
+founder Peter St John (Caruso St John): Q94356783
 name    Caruso St John: no architect of that name
 name    Haworth Tompkins: no architect of that name
 name    Eduardo Souto de Moura: Q312831
@@ -2057,6 +2073,8 @@ name    Vorarlberg partner architects: no architect of that name
 name    Francisco Javier Sáenz de Oiza: Q2450186
 name    Joaquín Casariego: Q23901166
 name    Elsa Guerra: no architect of that name
+founder Antonio Cruz (Cruz y Ortiz): no architect of that name
+founder Antonio Ortiz (Cruz y Ortiz): no architect of that name
 name    Cruz y Ortiz: no architect of that name
 name    Antoni Bonet i Castellana: Q8201037
 name    Fernando Higueras: Q5444762
@@ -2077,7 +2095,6 @@ name    Robin Boyd: Q7352265
 name    Guymer Bailey Architects: no architect of that name
 name    Johnson Pilton Walker: no architect of that name
 name    John Wardle Architects: no architect of that name
-name    Nonda Katsalidis: Q7049251
 name    Woods Bagot: no architect of that name
 name    Conrad Gargett Lyons: no architect of that name
 name    Athfield Architects: no architect of that name
@@ -2196,6 +2213,7 @@ skip    museum-of-anthropology-at-ubc: Q126485620 'Nick Milkovich' is not in 'Ar
 skip    vasconcelos-library: Q1710616 'Juan Palomar Verea' is not in 'Alberto Kalach'
 skip    louisiana-museum-of-modern-art: Q1431813 'Jørgen Bo' is not in 'Jorgen Bo, Vilhelm Wohlert'
 skip    calouste-gulbenkian-museum: Q10365271 'Rui Jervis Atouguia' is not in 'Ruy Athouguia, Pedro Cid, Alberto Pessoa'
+skip    universita-luigi-bocconi-building: Q21132821 'Shelley McNamara' is not in 'Grafton Architects'
 skip    montreal-biosphere: Q102289 '' is not in 'Buckminster Fuller, Shoji Sadao'
 skip    baha-i-temple-of-south-america: Q16192736 'Siamak Hariri' is not in 'Hariri Pontarini Architects'
 skip    manitoba-hydro-place: Q6335683 'KPMB Architects' is a firm, not a person
@@ -2233,6 +2251,7 @@ skip    van-nelle-factory: Q708333 'Mart Stam' is not in 'Brinkman & Van der Vlu
 skip    centraal-beheer: Q125661694 'Architectuurstudio Herman Hertzberger' is a firm, not a person
 skip    educatorium: Q2015762 'Office for Metropolitan Architecture' is not in 'OMA'
 skip    wozoco: Q932801 'MVRDV' is a firm, not a person
+skip    wozoco: Q225927 'Jacob van Rijs' is not in 'MVRDV'
 skip    copenhill: Q2481701 'BIG' is a firm, not a person
 skip    jested-tower: Q16163393 'SIAL' is not in 'Karel Hubáček'
 skip    jested-tower: Q12043165 'Otakar Binar' is not in 'Karel Hubáček'
@@ -2266,6 +2285,7 @@ skip    european-central-bank: Q867205 'Coop Himmelb(l)au' is a firm, not a pers
 skip    56-leonard-street: Q308776 'Herzog & de Meuron' is a firm, not a person
 skip    library-of-birmingham: Q2009000 'Francine Houben' is not in 'Mecanoo'
 skip    library-of-birmingham: Q6804385 'Mecanoo' is a firm, not a person
+skip    122-leadenhall-street: Q237412 'Richard Rogers' is not in 'Rogers Stirk Harbour + Partners'
 skip    van-gogh-museum: Q358502 'Kisho Kurokawa' is not in 'Gerrit Rietveld'
 skip    van-gogh-museum: Q29109825 'Rietveld, Van Dillen & Van Tricht' is not in 'Gerrit Rietveld'
 skip    van-gogh-museum: Q1982791 'Hans van Heeswijk' is not in 'Gerrit Rietveld'
@@ -2289,6 +2309,7 @@ skip    kogod-courtyard-national-portrait-gallery: Q956665 'Robert Mills' is not
 skip    espaces-d-abraxas: Q7174697 'Peter Hodgkinson' is not in 'Ricardo Bofill'
 skip    vancouver-house: Q2481701 'BIG' is a firm, not a person
 skip    l-oceanografic-restaurant: Q168482 'Santiago Calatrava' is not in 'Félix Candela'
+skip    markthal: Q225927 'Jacob van Rijs' is not in 'MVRDV'
 skip    markthal: Q932801 'MVRDV' is a firm, not a person
 skip    art-tower-mito: Q59186430 '' is not in 'Arata Isozaki'
 skip    royal-danish-playhouse: Q6704138 'Lundgaard & Tranberg' is a firm, not a person
@@ -2330,7 +2351,6 @@ skip    hundertwasserhaus: Q88916 'Peter Pelikan' is not in 'Friedensreich Hunde
 skip    liverpool-metropolitan-cathedral: Q378157 'Edwin Lutyens' is not in 'Frederick Gibberd'
 skip    allen-lambert-galleria-brookfield-place: Q905224 'B+H Architects' is not in 'Santiago Calatrava'
 skip    grand-egyptian-museum: Q5714154 'Heneghan Peng' is a firm, not a person
-skip    grand-egyptian-museum: Q21689250 'Roisin Heneghan' is not in 'Heneghan Peng'
 skip    reina-sofia-museum-extension: Q2454966 'Francesco Sabatini' is not in 'Jean Nouvel'
 skip    petronas-towers: Q29561372 'Adamson Associates' is not in 'Cesar Pelli'
 skip    ostankino-tower: Q31366893 'Leonid Batalov' is not in 'Nikolai Nikitin'
@@ -2658,6 +2678,7 @@ skip    cafe-de-unie: Q3119822 'Carel Weeber' is not in 'J. J. P. Oud'
 skip    douaumont-ossuary: Q56676176 'Jacques Hardy' is not in 'Léon Azéma, Max Edrei and Jacques Hulot'
 skip    tokyo-metropolitan-teien-art-museum: Q11369636 'Kume Sekkei' is not in 'Yōkichi Gondō with Henri Rapin'
 skip    palazzo-dell-arte-triennale-di-milano: Q31033707 'Gualtiero Galmanini' is not in 'Giovanni Muzio'
+skip    utec-university-campus: Q21132821 'Shelley McNamara' is not in 'Grafton Architects'
 skip    anacleto-angelini-innovation-center: Q3609433 'Alejandro Alavena' is not in 'Alejandro Aravena (Elemental)'
 skip    diego-rivera-and-frida-kahlo-house-studio: Q1378325 "Juan O'Gormann" is not in "Juan O'Gorman"
 skip    taj-mahal: Q2551253 'Ahmad Lahori' is not in 'Ustad Ahmad Lahauri'
@@ -2725,6 +2746,7 @@ skip    palace-of-the-republic-almaty: Q2588540 'Wolf-Rüdiger Eisentraut' is no
 skip    palace-of-the-republic-almaty: Q973099 'Manfred Prasser' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
 skip    palace-of-the-republic-almaty: Q106144370 'Heinz Aust' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
 skip    palace-of-the-republic-almaty: Q115689100 'Karl-Ernst Swora' is not in 'Nikolai Ripinsky, Leonid Ukhobotov and team'
+skip    arvo-part-centre: Q15808152 'Enrique Sobejano' is not in 'Nieto Sobejano Arquitectos'
 skip    mo-museum: Q154538 'Daniel Libeskind' is not in 'Studio Libeskind'
 skip    robotics-institute-saint-petersburg: Q109490124 '' is not in 'Stanislav Savin, Boris Artyushin'
 skip    lascaux-iv: Q511335 'Snøhetta' is a firm, not a person
