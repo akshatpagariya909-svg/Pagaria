@@ -845,5 +845,99 @@
    "https://berlin.museum-digital.de/pdf/object/132715.pdf?lang=en"
   ],
   "note": "Built 1973-80 by DEGEWO; listed 2017/18. First photo shows the motorway entering the tunnel under the building. Finished in painted render rather than bare concrete, so 'Brutalism' is a loose fit (megastructure)."
+ },
+ {
+  "id": "marl-town-hall",
+  "name": "Marl Town Hall",
+  "by": "Van den Broek en Bakema",
+  "city": "Marl",
+  "cc": "DE",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "Germany's first suspended towers: floors hung from the top of concrete cores, beside a council hall with a folded roof.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Rathaus Marl",
+  "photos": [
+   {
+    "file": "File:Rathaus Marl total.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus-Marl-08-2017a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus Marl2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rathaus-Marl-08-2017b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://bigbeautifulbuildings.de/en/objects/rathaus-marl",
+   "https://baukunst-nrw.de/en/projects/Rathaus-Marl--253.htm",
+   "https://www.sosbrutalism.org/cms/16271739"
+  ],
+  "note": "Competition 1957/58, built 1960-67; two of four planned towers were built. In the SOS Brutalism database."
+ },
+ {
+  "id": "rudo-eastern-city-gate",
+  "name": "Eastern City Gate (Rudo)",
+  "by": "Vera Ćirković (architect), Milutin Jerotijević (engineer)",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1976",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Three 28-storey, 85 m housing towers with stepped, tapering profiles, marking the road into Belgrade from the east.",
+  "award": "SOS Brutalism",
+  "status": "photo",
+  "commons_category": "Category:Eastern Gate of Belgrade",
+  "photos": [
+   {
+    "file": "File:Источна капија Београда.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20241019 133548 Eastern Gate of Belgrade.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Источна капија и димњак топлани Коњарник.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eastern_City_Gate",
+   "https://sosbrutalism.org/cms/15963887"
+  ],
+  "note": "Built 1973-76. Partner of the Western City Gate (Genex Tower, already on the wall)."
  }
 ]
