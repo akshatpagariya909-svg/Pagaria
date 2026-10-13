@@ -1537,9 +1537,13 @@
   "commons_category": "Category:Gaddafi Stadium",
   "photos": [
    {
-    "file": "File:Gaddafi stadium farrah 1.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:Gaddafi Stadium (Lahore).jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
+   },
+   {
+    "file": "File:Gaddafi stadium farrah 1.jpg",
+    "license": "CC BY-SA 4.0"
    }
   ],
   "extras": [],
@@ -1548,6 +1552,44 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Gaddafi_Stadium"
   ],
-  "note": "Original 1959 stadium by Murat-Khan (also architect of Minar-e-Pakistan, on the wall); the brick-and-arch exterior students study is Dada's 1995-96 renovation. Seen photo shows the brick entrance front with arches (4000x3000)."
+  "note": "Original 1959 stadium by Murat-Khan (also architect of Minar-e-Pakistan, on the wall); the brick-and-arch exterior is Dada's 1995-96 renovation. Seen photo (1280x960) shows the brick entrance front with arches; the 4000x3000 file is unseen."
+ },
+ {
+  "id": "mausoleum-of-mohammed-v",
+  "name": "Mausoleum of Mohammed V",
+  "by": "Eric Vo Toan",
+  "city": "Rabat",
+  "cc": "MA",
+  "year": "1971",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Detail"
+  ],
+  "features": "White-marble cube on a raised platform under a green pyramid roof, with horseshoe-arch porticos and carved sebka.",
+  "award": "Moroccan architecture after independence",
+  "status": "photo",
+  "commons_category": "Category:Mausoleum of Mohammed V",
+  "photos": [
+   {
+    "file": "File:Mausoleum of Mohammed V 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Morocco - Mausoleum of Mohammed V.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mausoleum_of_Mohammed_V"
+  ],
+  "note": "Built 1961-71 in reinforced concrete faced with marble. Wikipedia gives the architect as both Cong Vo Toan and Eric Vo Toan. A traditional-style modern building, not modernist; include only if the owner wants post-independence monuments. 40+ free photos."
  }
 ]

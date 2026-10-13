@@ -1442,5 +1442,215 @@
    "https://en.wikipedia.org/wiki/Ministry_of_Public_Works_Building"
   ],
   "note": "The Evita portraits (by Alejandro Marmo) were added in 2011. Argentina has no freedom of panorama for artworks; the portraits are a recent artwork, so a deletion request is possible."
+ },
+ {
+  "id": "torres-de-tajamar",
+  "name": "Torres de Tajamar",
+  "by": "Luis Prieto Vial with Bresciani, Valdés, Castillo, Huidobro",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1967",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Modular",
+   "Public space"
+  ],
+  "features": "Four tall apartment slabs (towers A–D) set in gardens beside Parque Uruguay in Providencia.",
+  "award": "Latin American modernism 1930–1980: Chilean modern housing (BVCH, see Unidad Vecinal Portales)",
+  "status": "photo",
+  "commons_category": "Category:Torres de Tajamar",
+  "photos": [
+   {
+    "file": "File:Torres de Tajamar, Providencia, Santiago 20230311 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torres de Tajamar - Torre A.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torres de Tajamar en 2025 2.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torres de Tajamar - Torres C y D.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Torres_de_Tajamar"
+  ],
+  "note": "Wikidata says built 1962–64; the Commons category says 1967. 'Santiago's first high-rise housing' is a loose claim: soften or check. Four towers (A–D) per file names."
+ },
+ {
+  "id": "templo-votivo-de-maipu",
+  "name": "Votive Temple of Maipú",
+  "by": "Juan Martínez Gutiérrez",
+  "city": "Maipú, Santiago",
+  "cc": "CL",
+  "year": "1974",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "Huge concrete basilica with a 63 m stepped belfry, built over 30 years beside the ruined 1818 chapel.",
+  "award": "Latin American modernism 1930–1980: Chile's national shrine",
+  "status": "photo",
+  "commons_category": "Category:Templo Votivo de Maipú",
+  "photos": [
+   {
+    "file": "File:Basílica de Maipú con forma arquitectónica que imita virgen María con capa.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basílica Nacional de Maipú.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Votive_Temple_of_Maip%C3%BA"
+  ],
+  "note": "Designed 1948, inaugurated 24 October 1974. One Commons file name says the form imitates the Virgin in her cape; Wikipedia doesn't say so, so I left it out."
+ },
+ {
+  "id": "mambo-bogota",
+  "name": "Museo de Arte Moderno de Bogotá (MAMBO)",
+  "by": "Rogelio Salmona",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1985",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Promenade",
+   "Light from above"
+  ],
+  "features": "Salmona's brick museum: four floors of angled rooms on a central stair, lit by large windows and skylights.",
+  "award": "Latin American modernism 1930–1980: key work of Rogelio Salmona",
+  "status": "photo",
+  "commons_category": "Category:Museo de Arte Moderno de Bogotá",
+  "photos": [
+   {
+    "file": "File:Bogotá exterior Museo de Arte Moderno MAMBO.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo de Arte Moderno de Bogotá - MAMBO 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MAMBO Norte.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Bogot%C3%A1"
+  ],
+  "note": "Wikipedia says designed 1985 without a completion date; other sources give 1979 for the first phase. Check the year before publishing."
+ },
+ {
+  "id": "edificio-avianca",
+  "name": "Avianca Building",
+  "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía., with Ricaurte Prieto Carrizosa",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1969",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "40-storey office tower on Parque Santander, Colombia's tallest building when finished in 1969.",
+  "award": "Latin American modernism 1930–1980: Bogotá's modern skyline (Germán Samper's firm)",
+  "status": "photo",
+  "commons_category": "Category:Edificio Avianca",
+  "photos": [
+   {
+    "file": "File:2019 Bogotá - Torre Avianca.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Avianca desde Eje Ambiental con cra 8.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio Avianca.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avianca_Building"
+  ],
+  "note": "161 m. Survived a 1973 fire that burned floors 14–37."
+ },
+ {
+  "id": "edificio-petroperu",
+  "name": "Petroperú Building",
+  "by": "Walter Weberhofer",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "features": "Dark office tower rising from a stepped, cantilevered concrete base: the state oil company's brutalist HQ.",
+  "award": "Latin American modernism 1930–1980: MoMA 'Latin America in Construction' era Lima",
+  "status": "photo",
+  "commons_category": "Category:Edificio Petroperú",
+  "photos": [
+   {
+    "file": "File:Edificiopetroperu.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio Petroperú.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Edificio_Petroper%C3%BA"
+  ],
+  "note": "Weak photos: the first is a grey-sky view (1200×1600); the second is at night among other towers. 'EdificioPetroPeru.jpg' is a better daytime view but only 1152 px wide. Features line is from the photos; check before use."
  }
 ]
