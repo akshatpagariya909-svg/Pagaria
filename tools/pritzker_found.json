@@ -1,0 +1,489 @@
+[
+ {
+  "year": 1979,
+  "laureates": [
+   "Philip Johnson"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1980,
+  "laureates": [
+   "Luis Barragán"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1981,
+  "laureates": [
+   "James Stirling"
+  ],
+  "firm": null,
+  "citation_url": "https://www.pritzkerprize.com/laureates/1981",
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1982,
+  "laureates": [
+   "Kevin Roche"
+  ],
+  "firm": null,
+  "citation_url": "https://www.pritzkerprize.com/laureates/1982",
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1983,
+  "laureates": [
+   "I. M. Pei"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1984,
+  "laureates": [
+   "Richard Meier"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1985,
+  "laureates": [
+   "Hans Hollein"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1986,
+  "laureates": [
+   "Gottfried Böhm"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1987,
+  "laureates": [
+   "Kenzō Tange"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1988,
+  "laureates": [
+   "Gordon Bunshaft",
+   "Oscar Niemeyer"
+  ],
+  "firm": null,
+  "citation_url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null. Shared; Niemeyer's page URL not verified."
+ },
+ {
+  "year": 1989,
+  "laureates": [
+   "Frank Gehry"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1990,
+  "laureates": [
+   "Aldo Rossi"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1991,
+  "laureates": [
+   "Robert Venturi"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1992,
+  "laureates": [
+   "Álvaro Siza Vieira"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1993,
+  "laureates": [
+   "Fumihiko Maki"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1994,
+  "laureates": [
+   "Christian de Portzamparc"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1995,
+  "laureates": [
+   "Tadao Ando"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1996,
+  "laureates": [
+   "Rafael Moneo"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1997,
+  "laureates": [
+   "Sverre Fehn"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1998,
+  "laureates": [
+   "Renzo Piano"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 1999,
+  "laureates": [
+   "Norman Foster"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2000,
+  "laureates": [
+   "Rem Koolhaas"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2001,
+  "laureates": [
+   "Jacques Herzog",
+   "Pierre de Meuron"
+  ],
+  "firm": "Herzog & de Meuron",
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2002,
+  "laureates": [
+   "Glenn Murcutt"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2003,
+  "laureates": [
+   "Jørn Utzon"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2004,
+  "laureates": [
+   "Zaha Hadid"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2005,
+  "laureates": [
+   "Thom Mayne"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2006,
+  "laureates": [
+   "Paulo Mendes da Rocha"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2007,
+  "laureates": [
+   "Richard Rogers"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2008,
+  "laureates": [
+   "Jean Nouvel"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2009,
+  "laureates": [
+   "Peter Zumthor"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2010,
+  "laureates": [
+   "Kazuyo Sejima",
+   "Ryue Nishizawa"
+  ],
+  "firm": "SANAA",
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2011,
+  "laureates": [
+   "Eduardo Souto de Moura"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2012,
+  "laureates": [
+   "Wang Shu"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2013,
+  "laureates": [
+   "Toyo Ito"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2014,
+  "laureates": [
+   "Shigeru Ban"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2015,
+  "laureates": [
+   "Frei Otto"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null. Posthumous award."
+ },
+ {
+  "year": 2016,
+  "laureates": [
+   "Alejandro Aravena"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2017,
+  "laureates": [
+   "Rafael Aranda",
+   "Carme Pigem",
+   "Ramon Vilalta"
+  ],
+  "firm": "RCR Arquitectes",
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2018,
+  "laureates": [
+   "Balkrishna Doshi"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null. Prize may write the name as 'Balkrishna Doshi' (Wikipedia: B. V. Doshi); check."
+ },
+ {
+  "year": 2019,
+  "laureates": [
+   "Arata Isozaki"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2020,
+  "laureates": [
+   "Yvonne Farrell",
+   "Shelley McNamara"
+  ],
+  "firm": "Grafton Architects",
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2021,
+  "laureates": [
+   "Anne Lacaton",
+   "Jean-Philippe Vassal"
+  ],
+  "firm": "Lacaton & Vassal",
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2022,
+  "laureates": [
+   "Diébédo Francis Kéré"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2023,
+  "laureates": [
+   "David Chipperfield"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2024,
+  "laureates": [
+   "Riken Yamamoto"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2025,
+  "laureates": [
+   "Liu Jiakun"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null."
+ },
+ {
+  "year": 2026,
+  "laureates": [
+   "Smiljan Radić Clarke"
+  ],
+  "firm": null,
+  "citation_url": null,
+  "line": null,
+  "note": "Names/year from English Wikipedia only. pritzkerprize.com unreachable from WebFetch (DNS failure), so citation not opened; line left null. Seen only on Wikipedia; confirm on the prize site."
+ }
+]
