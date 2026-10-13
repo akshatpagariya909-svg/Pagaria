@@ -56,6 +56,7 @@ Work is split into separate chats, one per workstream, each on its own branch wi
 | Game | `claude/game` | "Play · Daily five" and its share card |
 | Design | `claude/design` | New artboards on the design canvas |
 
+- Who does what in data collection (owner's choice, Oct 2026): **Sonnet** chats do the high-volume work that follows a brief and is checked afterwards (Commons searches for photos, drawings and portraits; gathering facts with sources; running tools, merging and rebuilding). **Opus** chats do the judgement: choosing buildings, line drawings, the final yes or no on covers and portraits by eye, fact checks where sources disagree, briefs, quality flags and merges. A Sonnet chat works on its own branch and changes only its results file; Opus reviews before anything reaches `site/`. Briefs: `tools/illustrate/BRIEF*.md`, `tools/portraits_BRIEF.md`.
 - Keep each change small and focused; open a pull request, check it on the live site after merging, then move on.
 - Before building something visual that the owner hasn't seen, put it on the design canvas first.
 - Check the site at phone width (about 400px) as well as desktop before opening a pull request.
