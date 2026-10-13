@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Architect portraits again, now with founders standing in for firms (the owner chose founders).
+python -u tools/portrait_sheet.py
+Contact sheet of the portraits the Sonnet trial found, for review by eye.
