@@ -2395,5 +2395,325 @@
    "https://en.wikipedia.org/wiki/Rookery_Building"
   ],
   "note": ""
+ },
+ {
+  "id": "harold-washington-library-center",
+  "name": "Harold Washington Library Center",
+  "by": "Hammond, Beeby and Babka",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1991",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Postmodernist central library of about 756,000 sq ft of work space, opened 1991.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Harold Washington Library, Chicago, Illinois (9181548762).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harold_Washington_Library_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "1111-lincoln-road",
+  "name": "1111 Lincoln Road",
+  "by": "Herzog & de Meuron",
+  "city": "Miami Beach",
+  "cc": "US",
+  "year": "2010",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Double height",
+   "Light & shadow"
+  ],
+  "features": "Parking garage for about 300 cars with an unusual open form; opened 2010.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:1111 Lincoln Road at night.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1111_Lincoln_Road"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hyatt-regency-atlanta",
+  "name": "Hyatt Regency Atlanta",
+  "by": "John Portman & Associates",
+  "city": "Atlanta",
+  "cc": "US",
+  "year": "1967",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Void",
+   "Double height",
+   "Circulation"
+  ],
+  "features": "Portman's 22-storey atrium design, hugely influential on hotel design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hyatt-regency-atlanta-side.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyatt_Regency_Atlanta"
+  ],
+  "note": ""
+ },
+ {
+  "id": "harvard-graduate-center",
+  "name": "Harvard Graduate Center",
+  "by": "The Architects Collaborative",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1950",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Community"
+  ],
+  "features": "The \"Gropius Complex\", designed 1948: the first modern building on Harvard's campus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Story Hall, Harvard University, Cambridge MA.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvard_Graduate_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ingalls-rink",
+  "name": "David S. Ingalls Rink",
+  "by": "Eero Saarinen",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1958",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Vault"
+  ],
+  "features": "Yale's hockey rink, nicknamed \"The Whale\", with a ceiling up to 75 feet high.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ingalls Rink Highsmith.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ingalls_Rink"
+  ],
+  "note": ""
+ },
+ {
+  "id": "north-christian-church-columbus",
+  "name": "North Christian Church",
+  "by": "Eero Saarinen",
+  "city": "Columbus",
+  "cc": "US",
+  "year": "1964",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "192-foot-tall church with interiors by Alexander Girard and landscape by Dan Kiley.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NorthChristianChurch.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/North_Christian_Church"
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-deere-world-headquarters",
+  "name": "John Deere World Headquarters",
+  "by": "Eero Saarinen",
+  "city": "Moline",
+  "cc": "US",
+  "year": "1964",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Corporate headquarters opened in 1964; won the AIA Twenty-five Year Award.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:John Deere World Headquarters 04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+  ],
+  "note": ""
+ },
+ {
+  "id": "j-s-dorton-arena",
+  "name": "J. S. Dorton Arena",
+  "by": "Maciej Nowicki & William Henley Deitrick",
+  "city": "Raleigh",
+  "cc": "US",
+  "year": "1952",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "The first structure in the world to use a cable-supported roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Dorton Arena West Side.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/J._S._Dorton_Arena"
+  ],
+  "note": ""
+ },
+ {
+  "id": "sarasota-high-school",
+  "name": "Sarasota High School",
+  "by": "Paul Rudolph",
+  "city": "Sarasota",
+  "cc": "US",
+  "year": "1959",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Public high school by Paul Rudolph, built 1958–59.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sarasota High School Addition (Paul Rudolph, Architect, FAIA).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarasota_High_School"
+  ],
+  "note": ""
+ },
+ {
+  "id": "wingspread",
+  "name": "Wingspread (Herbert F. Johnson House)",
+  "by": "Frank Lloyd Wright",
+  "city": "Wind Point",
+  "cc": "US",
+  "year": "1939",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Brick"
+  ],
+  "features": "One of Wright's largest houses at 14,000 sq ft; he called it his last Prairie house.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:WingspreadFrankLloydWrightKenoshaWisconsin.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wingspread"
+  ],
+  "note": ""
  }
 ]
