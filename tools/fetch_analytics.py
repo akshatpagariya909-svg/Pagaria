@@ -9,7 +9,7 @@ Fails loudly (non-zero exit) on any problem, so a broken job is never mistaken f
 
     GOATCOUNTER_TOKEN=... python3 tools/fetch_analytics.py --out /tmp/analytics
 """
-import argparse, csv, datetime as dt, json, os, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, csv, datetime as dt, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 
 CODE = os.environ.get('GOATCOUNTER_CODE', 'akshatpagaria')
 API = os.environ.get('GOATCOUNTER_API') or f'https://{CODE}.goatcounter.com/api/v0'  # the override is for tests
@@ -22,7 +22,7 @@ SECTIONS = {  # name in latest.json -> endpoint
 def get(path, **params):
     url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
-                                               'Accept': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
+                                               'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
     for attempt in range(5):
         try:
             with urllib.request.urlopen(req, timeout=40) as r:
@@ -31,12 +31,20 @@ def get(path, **params):
             if e.code in (429, 500, 502, 503, 504) and attempt < 4:
                 time.sleep(min(int(e.headers.get('Retry-After') or 5 * (attempt + 1)), 60))
                 continue
-            raise SystemExit(f'GoatCounter said {e.code} for {path}: {e.read()[:300].decode("utf8", "replace")}')
+            raise SystemExit(f'GoatCounter said {e.code} for {path}: {short(e.read())}')
         except urllib.error.URLError as e:
             if attempt < 4:
                 time.sleep(5 * (attempt + 1))
                 continue
             raise SystemExit(f'Could not reach GoatCounter for {path}: {e}')
+
+
+def short(body):
+    """An error body as one short plain line (GoatCounter answers some errors with a whole HTML page)."""
+    text = body[:4000].decode('utf8', 'replace')
+    title = re.search(r'<title>(.*?)</title>', text, re.S)
+    text = re.sub(r'<style.*?</style>|<[^>]+>', ' ', text, flags=re.S)
+    return ((title.group(1) + ' | ') if title else '') + ' '.join(text.split())[:200]
 
 
 def day_visits(entry):
@@ -53,6 +61,11 @@ def main():
     if not os.environ.get('GOATCOUNTER_TOKEN'):
         raise SystemExit('GOATCOUNTER_TOKEN is not set. Create a read-only key in GoatCounter (Settings, API) and add it as a repository secret.')
     os.makedirs(args.out, exist_ok=True)
+    try:  # a check of the key itself, to make any later failure easier to read (never fatal)
+        me = get('me')
+        print('Key check:', json.dumps({k: me.get(k) for k in ('token',)} if isinstance(me, dict) else me)[:300])
+    except SystemExit as e:
+        print('Key check failed:', e)
     today = dt.datetime.now(dt.timezone.utc).date()
     stamp = lambda d: d.strftime('%Y-%m-%dT00:00:00Z')
 
