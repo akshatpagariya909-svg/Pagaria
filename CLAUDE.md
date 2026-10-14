@@ -60,6 +60,8 @@ Books pipeline (books branch): `tools/harvest_books.py` collects candidates from
 
 Visitor numbers: `site/analytics.js` loads GoatCounter (site code `akshatpagaria`; dashboard https://akshatpagaria.goatcounter.com). `.github/workflows/analytics.yml` runs `tools/fetch_analytics.py` every day at 03:17 UTC and saves `daily.csv` (day, visits) and `latest.json` (pages, referrers, browsers, systems, locations, last 30 days) on the `analytics-data` branch, never on `main`. It needs the repository secret `GOATCOUNTER_TOKEN` (a read-only key from GoatCounter Settings, API). A failed run means the numbers are stale, not zero: check the Actions tab.
 
+Photo rescue (owner's request, 14 Oct 2026): every 300 buildings added, a Sonnet routine (`trig_01SirPgUTotJxVHZ4Esn3Xpr`; runs daily at 06:07 UTC and stops at once unless `python tools/photo_rescue.py due` says DUE) looks again on Commons for buildings held back for want of a photo of the building itself, following `tools/photo_rescue/BRIEF.md`, and pushes `tools/illustrate/results/rescue_<date>.json` to `claude/photo-rescue`. The data-collection chat checks those photos by eye, takes accepted buildings out of `tools/illustrate/rejected.txt`, and runs the usual pipeline.
+
 Wrong links found by hand go in `tools/link_blocklist.txt` (building | url); `tools/clean_links.py` re-checks existing links without searching again.
 
 Key scripts: `fetch_images.py` (photos, with `tools/image_choices.json` for hand-picked galleries), `find_links.py` (ArchDaily, WikiArquitectura, Divisare, official sites, maps), `harvest.py` / `select_1000.py` / `resolve_list.py` / `merge_1000.py` (growing the list to 1,000), `photo_gaps.py` (writes `tools/photo_gaps.md`, the buildings still short of free photos).
