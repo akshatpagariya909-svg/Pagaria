@@ -264921,7 +264921,59 @@ window.BUILDINGS = [
   "commons": "Category:Burnside Hall",
   "lead": "File:Burnside Hall 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Burnside_Hall_01.jpg/1280px-Burnside_Hall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/burnside-hall/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Burnside Hall is a thirteen-floor building on downtown campus of McGill University in Montreal",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burnside_Hall_01.jpg",
+    "file": "File:Burnside Hall 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Burnside_Hall_02.jpg/1280px-Burnside_Hall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/burnside-hall/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Burnside Hall is a thirteen-floor building on downtown campus of McGill University in Montreal",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burnside_Hall_02.jpg",
+    "file": "File:Burnside Hall 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/McGill_University_downtown_campus_August_2017_01.jpg/1280px-McGill_University_downtown_campus_August_2017_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/burnside-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Interior",
+    "caption": "Interior · View from McGill University downtown campus towards downtown Montreal",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:McGill_University_downtown_campus_August_2017_01.jpg",
+    "file": "File:McGill University downtown campus August 2017 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Roddick_Gates_%28McGill_University%29_2005-09-02.jpg/1280px-Roddick_Gates_%28McGill_University%29_2005-09-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/burnside-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The main gates, called Roddick Gates, of McGill University, Montreal ",
+    "credit": "No machine-readable author provided.  Gene.arboit  assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roddick_Gates_(McGill_University)_2005-09-02.jpg",
+    "file": "File:Roddick Gates (McGill University) 2005-09-02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "confederation-centre-of-the-arts",
@@ -264945,7 +264997,83 @@ window.BUILDINGS = [
   "commons": "Category:Confederation Centre of the Arts",
   "lead": "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Confederation_Centre_of_the_Art_in_Prince_Edward_Island_%28November_2023%29.jpg/1280px-Confederation_Centre_of_the_Art_in_Prince_Edward_Island_%28November_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Northern side of the Confederation Centre of the Art, Charlottetown, Canada",
+    "credit": "Daeva Trạc",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confederation_Centre_of_the_Art_in_Prince_Edward_Island_(November_2023).jpg",
+    "file": "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Confederation_Centre_Public_Library_In_Prince_Edward_Island_%28November_2023%29.jpg/1280px-Confederation_Centre_Public_Library_In_Prince_Edward_Island_%28November_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A library located on the Southern complex of the Confederation Centre of the Arts, Charlottetown, Canada",
+    "credit": "Daeva Trạc",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confederation_Centre_Public_Library_In_Prince_Edward_Island_(November_2023).jpg",
+    "file": "File:Confederation Centre Public Library In Prince Edward Island (November 2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Confederation_Centre_of_the_Arts_-_Courtyard.jpg/1280px-Confederation_Centre_of_the_Arts_-_Courtyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/2.webp",
+    "w": 1280,
+    "h": 876,
+    "kind": "Exterior",
+    "caption": "Exterior · Courtyard, Confederation Centre of the Arts, Charlottetown, Prince Edward Island, Canada",
+    "credit": "P. Hughes",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confederation_Centre_of_the_Arts_-_Courtyard.jpg",
+    "file": "File:Confederation Centre of the Arts - Courtyard.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seth_Dominion_Models.jpg/1280px-Seth_Dominion_Models.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Charles Paul Hoffman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seth_Dominion_Models.jpg",
+    "file": "File:Seth Dominion Models.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Memorial_Hall%2C_Confederation_Centre_of_the_Arts_%2843244805971%29.jpg/1280px-Memorial_Hall%2C_Confederation_Centre_of_the_Arts_%2843244805971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · July 5, 2018",
+    "credit": "Larry  from Charlottetown, PEI, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memorial_Hall,_Confederation_Centre_of_the_Arts_(43244805971).jpg",
+    "file": "File:Memorial Hall, Confederation Centre of the Arts (43244805971).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Confederation_Centre_sculpture.jpg/1280px-Confederation_Centre_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confederation-centre-of-the-arts/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · A sculpture in front of the Confederation Centre of the Arts in Charlottetown, Prince Edward Island",
+    "credit": "Doug Kerr",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confederation_Centre_sculpture.jpg",
+    "file": "File:Confederation Centre sculpture.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "macmillan-bloedel-building",
@@ -264969,7 +265097,35 @@ window.BUILDINGS = [
   "commons": "Category:MacMillan Bloedel Building",
   "lead": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0773.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0773.JPG/1280px-MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0773.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macmillan-bloedel-building/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · MacMillan Bloedel Building 1075 West Georgia Street, Vancouver, British Columbia, Canada building rear",
+    "credit": "Unixandthings",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0773.JPG",
+    "file": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0773.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0774.JPG/1280px-MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0774.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/macmillan-bloedel-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · MacMillan Bloedel Building 1075 West Georgia Street, Vancouver, British Columbia, Canada building rear",
+    "credit": "Unixandthings",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MacMillan_Bloedel_Building_1075_West_Georgia_Vancouver_BC_CA_IM2_0774.JPG",
+    "file": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0774.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "maison-de-radio-canada",
@@ -264993,7 +265149,97 @@ window.BUILDINGS = [
   "commons": "Category:Maison Radio-Canada",
   "lead": "File:Maison Radio-Canada.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Maison_Radio-Canada.jpg/1280px-Maison_Radio-Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · sky scraper house of radio Canada (105 m high) in the the left behind its seen the Church of St",
+    "credit": "Felix55kerstan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maison_Radio-Canada.jpg",
+    "file": "File:Maison Radio-Canada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Maison_de_Radio-Canada%2C_Montr%C3%A9al%2C_South_view_20170410_1.jpg/1280px-Maison_de_Radio-Canada%2C_Montr%C3%A9al%2C_South_view_20170410_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/1.webp",
+    "w": 810,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A south view of the Maison de Radio-Canada, Montréal",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maison_de_Radio-Canada,_Montr%C3%A9al,_South_view_20170410_1.jpg",
+    "file": "File:Maison de Radio-Canada, Montréal, South view 20170410 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%C3%89difice_de_Radio-Canada_%C3%A0_Montr%C3%A9al.JPG/1280px-%C3%89difice_de_Radio-Canada_%C3%A0_Montr%C3%A9al.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Édifice de la Société Radio-Canada (SRC) à Montréal ",
+    "credit": "Khayman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%89difice_de_Radio-Canada_%C3%A0_Montr%C3%A9al.JPG",
+    "file": "File:Édifice de Radio-Canada à Montréal.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Boulevard_Ren%C3%A9-L%C3%A9vesque_Est_Montr%C3%A9al_Canada.jpg/1280px-Boulevard_Ren%C3%A9-L%C3%A9vesque_Est_Montr%C3%A9al_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Montréal",
+    "credit": "abdallahh  from Montréal, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boulevard_Ren%C3%A9-L%C3%A9vesque_Est_Montr%C3%A9al_Canada.jpg",
+    "file": "File:Boulevard René-Lévesque Est Montréal Canada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/CBC_House_in_demolition_Montreal.jpg/1280px-CBC_House_in_demolition_Montreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Maison de Radio-Canada in demolition, April 2026",
+    "credit": "JustYou80",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CBC_House_in_demolition_Montreal.jpg",
+    "file": "File:CBC House in demolition Montreal.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_two_buildings_of_the_Canadian_Broadcasting_Corporation_in_Montreal.jpg/1280px-The_two_buildings_of_the_Canadian_Broadcasting_Corporation_in_Montreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maison-de-radio-canada/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · The two buildings of the Canadian Broadcasting Corporation in Montreal, Quebec",
+    "credit": "Lëa-Kim Châteauneuf",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_two_buildings_of_the_Canadian_Broadcasting_Corporation_in_Montreal.jpg",
+    "file": "File:The two buildings of the Canadian Broadcasting Corporation in Montreal.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Station_v%C3%A9lo-partage_Ren%C3%A9-L%C3%A9vesque_et_Beaudry_En_arri%C3%A8re-plan%2C_La_Maison_de_Radio-Canada_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/maison-de-radio-canada/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Station vélo-partage René-Lévesque et Beaudry En arrière-plan: La Maison de Radio-Canada",
+    "credit": "Yanik Crépeau",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Station_v%C3%A9lo-partage_Ren%C3%A9-L%C3%A9vesque_et_Beaudry_En_arri%C3%A8re-plan,_La_Maison_de_Radio-Canada_-_panoramio.jpg",
+    "file": "File:Station vélo-partage René-Lévesque et Beaudry En arrière-plan, La Maison de Radio-Canada - panoramio.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "lester-b-pearson-building",
@@ -265017,7 +265263,83 @@ window.BUILDINGS = [
   "commons": "Category:Lester B. Pearson Building",
   "lead": "File:Lester B. Pearson Building in 2026.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lester_B._Pearson_Building_in_2026.jpg/1280px-Lester_B._Pearson_Building_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Lester B",
+    "credit": "Hayden Soloviev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_Building_in_2026.jpg",
+    "file": "File:Lester B. Pearson Building in 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/125_Sussex_Drive_-_04.jpg/1280px-125_Sussex_Drive_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Lester B",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:125_Sussex_Drive_-_04.jpg",
+    "file": "File:125 Sussex Drive - 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/125_Sussex_Drive_-_05.jpg/1280px-125_Sussex_Drive_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Lester B",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:125_Sussex_Drive_-_05.jpg",
+    "file": "File:125 Sussex Drive - 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Lester_B._Pearson_Building.JPG/1280px-Lester_B._Pearson_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Lester B",
+    "credit": "Óðinn",
+    "license": "CC BY-SA 2.5 ca",
+    "source": "https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_Building.JPG",
+    "file": "File:Lester B. Pearson Building.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Edificacaoottawa7.jpg/1280px-Edificacaoottawa7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificação em Ottawa",
+    "credit": "Andrevruas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificacaoottawa7.jpg",
+    "file": "File:Edificacaoottawa7.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Edificacaoottawa9.jpg/1280px-Edificacaoottawa9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lester-b-pearson-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificação em Ottawa",
+    "credit": "Andrevruas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificacaoottawa9.jpg",
+    "file": "File:Edificacaoottawa9.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "theatre-maisonneuve",
@@ -265041,7 +265363,71 @@ window.BUILDINGS = [
   "commons": "Category:Théâtre Maisonneuve",
   "lead": "File:Théâtre Maisonneuve.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Th%C3%A9%C3%A2tre_Maisonneuve.jpg/1280px-Th%C3%A9%C3%A2tre_Maisonneuve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-maisonneuve/thumbs/0.webp",
+    "w": 1280,
+    "h": 676,
+    "kind": "Exterior",
+    "caption": "Exterior · Maisonneuve Theatre, Place des arts, end of 1960's, in Montreal, Quebec",
+    "credit": "Guerinf",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_Maisonneuve.jpg",
+    "file": "File:Théâtre Maisonneuve.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Th%C3%A9%C3%A2treMaisonneuve.jpg/1280px-Th%C3%A9%C3%A2treMaisonneuve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-maisonneuve/thumbs/1.webp",
+    "w": 1280,
+    "h": 826,
+    "kind": "Context",
+    "caption": "Context · Théâtre Maisonneuve, à la Place des Arts",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2treMaisonneuve.jpg",
+    "file": "File:ThéâtreMaisonneuve.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau%2C_9X-MTL-%2C_2015_%2818206362179%29.jpg/1280px-Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau%2C_9X-MTL-%2C_2015_%2818206362179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-maisonneuve/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "art_inthecity  from Montréal, CA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau,_9X-MTL-,_2015_(18206362179).jpg",
+    "file": "File:Gabriel Poirier-Galarneau et Vincent Bilodeau, 9X-MTL-, 2015 (18206362179).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/L%C3%BCz_Studio%2C_Fascinoscope%2C_2015_%2816372469696%29.jpg/1280px-L%C3%BCz_Studio%2C_Fascinoscope%2C_2015_%2816372469696%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-maisonneuve/thumbs/3.webp",
+    "w": 1280,
+    "h": 818,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "art_inthecity  from Montréal, CA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCz_Studio,_Fascinoscope,_2015_(16372469696).jpg",
+    "file": "File:Lüz Studio, Fascinoscope, 2015 (16372469696).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau%2C_9X-MTL-%2C_2015_%2818206363309%29.jpg/1280px-Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau%2C_9X-MTL-%2C_2015_%2818206363309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-maisonneuve/thumbs/4.webp",
+    "w": 1280,
+    "h": 881,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "art_inthecity  from Montréal, CA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gabriel_Poirier-Galarneau_et_Vincent_Bilodeau,_9X-MTL-,_2015_(18206363309).jpg",
+    "file": "File:Gabriel Poirier-Galarneau et Vincent Bilodeau, 9X-MTL-, 2015 (18206363309).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "roy-thomson-hall",
@@ -265065,7 +265451,59 @@ window.BUILDINGS = [
   "commons": "Category:Roy Thomson Hall",
   "lead": "File:Roy Thomson Hall, Toronto, Ontario, 2025-08-25.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Roy_Thomson_Hall%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg/1280px-Roy_Thomson_Hall%2C_Toronto%2C_Ontario%2C_2025-08-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roy-thomson-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 1216,
+    "kind": "Interior",
+    "caption": "Interior · Roy Thomson Hall, Toronto, Ontario, 2025-08-25",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roy_Thomson_Hall,_Toronto,_Ontario,_2025-08-25.jpg",
+    "file": "File:Roy Thomson Hall, Toronto, Ontario, 2025-08-25.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Roy_Thompson_Hall%2C_2015_05_05_%281%29.jpg/1280px-Roy_Thompson_Hall%2C_2015_05_05_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roy-thomson-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Roy Thompson Hall, 2015 05 05 (1).JPG",
+    "credit": "OldYorkGuy",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Roy_Thompson_Hall,_2015_05_05_(1).jpg",
+    "file": "File:Roy Thompson Hall, 2015 05 05 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Roy_Thompson_Hall%2C_2015_05_05_%283%29.jpg/1280px-Roy_Thompson_Hall%2C_2015_05_05_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roy-thomson-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Roy Thompson Hall, 2015 05 05 (3).JPG",
+    "credit": "OldYorkGuy",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Roy_Thompson_Hall,_2015_05_05_(3).jpg",
+    "file": "File:Roy Thompson Hall, 2015 05 05 (3).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Roy_Thomson_Hall_Toronto.jpg/1280px-Roy_Thomson_Hall_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roy-thomson-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Roy Thomson Hall Toronto, Ontario",
+    "credit": "Benson Kua  from Toronto, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roy_Thomson_Hall_Toronto.jpg",
+    "file": "File:Roy Thomson Hall Toronto.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "remai-modern",
@@ -265089,7 +265527,83 @@ window.BUILDINGS = [
   "commons": "Category:Remai Modern",
   "lead": "File:Remai Art Gallery Exterior (42300899864).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Remai_Art_Gallery_Exterior_%2842300899864%29.jpg/1280px-Remai_Art_Gallery_Exterior_%2842300899864%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Remai Art Gallery Exterior",
+    "credit": "daryl_mitchell  from Saskatoon, Saskatchewan, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Remai_Art_Gallery_Exterior_(42300899864).jpg",
+    "file": "File:Remai Art Gallery Exterior (42300899864).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Remai_Modern_Art_Gallery.jpg/1280px-Remai_Modern_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Remai Modern Art Gallery of Saskatchewan in August 2017, two months before its grand opening",
+    "credit": "Drm310",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Remai_Modern_Art_Gallery.jpg",
+    "file": "File:Remai Modern Art Gallery.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Remai_Modern_Art_Gallery_of_Saskatchewan.jpg/1280px-Remai_Modern_Art_Gallery_of_Saskatchewan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Remai Modern Art Gallery of Saskatchewan under construction in Saskatoon, Saskatchewan",
+    "credit": "Jmc881",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Remai_Modern_Art_Gallery_of_Saskatchewan.jpg",
+    "file": "File:Remai Modern Art Gallery of Saskatchewan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Art_Gallery_Fireplace_%2842118019965%29.jpg/1280px-Art_Gallery_Fireplace_%2842118019965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Art Gallery Fireplace",
+    "credit": "daryl_mitchell  from Saskatoon, Saskatchewan, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Gallery_Fireplace_(42118019965).jpg",
+    "file": "File:Art Gallery Fireplace (42118019965).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Atrium_Fireplace_%2828318850458%29.jpg/1280px-Atrium_Fireplace_%2828318850458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Atrium Fireplace",
+    "credit": "daryl_mitchell  from Saskatoon, Saskatchewan, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atrium_Fireplace_(28318850458).jpg",
+    "file": "File:Atrium Fireplace (28318850458).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/JEH_MacDonald_Logs_on_the_Gatineau.jpg/1280px-JEH_MacDonald_Logs_on_the_Gatineau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/remai-modern/thumbs/5.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "J. E. H. MacDonald",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:JEH_MacDonald_Logs_on_the_Gatineau.jpg",
+    "file": "File:JEH MacDonald Logs on the Gatineau.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "halifax-central-library",
@@ -265113,7 +265627,59 @@ window.BUILDINGS = [
   "commons": "Category:Halifax Central Library",
   "lead": "File:Central library, Halifax - geograph.org.uk - 4781238.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Central_library%2C_Halifax_-_geograph.org.uk_-_4781238.jpg/1280px-Central_library%2C_Halifax_-_geograph.org.uk_-_4781238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/halifax-central-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Central library, Halifax",
+    "credit": "stalked",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_library,_Halifax_-_geograph.org.uk_-_4781238.jpg",
+    "file": "File:Central library, Halifax - geograph.org.uk - 4781238.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Halifax_central_library.jpg/1280px-Halifax_central_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/halifax-central-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Halifax central library, Halifax, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Halifax_central_library.jpg",
+    "file": "File:Halifax central library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Trinity_Sixth_Form_Academy%2C_Market_Street%2C_Halifax%2C_West_Yorkshire_%2811th_February_2023%29.jpg/1280px-Trinity_Sixth_Form_Academy%2C_Market_Street%2C_Halifax%2C_West_Yorkshire_%2811th_February_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/halifax-central-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Trinity Sixth Form Academy, Market Street, Halifax, West Yorkshire",
+    "credit": "Mtaylor848",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trinity_Sixth_Form_Academy,_Market_Street,_Halifax,_West_Yorkshire_(11th_February_2023).jpg",
+    "file": "File:Trinity Sixth Form Academy, Market Street, Halifax, West Yorkshire (11th February 2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Northgate%2C_Halifax_with_storm_brewing_-_geograph.org.uk_-_46951.jpg/1280px-Northgate%2C_Halifax_with_storm_brewing_-_geograph.org.uk_-_46951.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/halifax-central-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Northgate, Halifax with storm brewing",
+    "credit": "Phil Champion",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Northgate,_Halifax_with_storm_brewing_-_geograph.org.uk_-_46951.jpg",
+    "file": "File:Northgate, Halifax with storm brewing - geograph.org.uk - 46951.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "grande-bibliotheque",
@@ -265137,7 +265703,83 @@ window.BUILDINGS = [
   "commons": "Category:Grande Bibliothèque",
   "lead": "File:Grande Bibliotheque - 011.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Grande_Bibliotheque_-_011.jpg/1280px-Grande_Bibliotheque_-_011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jeangagnon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grande_Bibliotheque_-_011.jpg",
+    "file": "File:Grande Bibliotheque - 011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Espace_jeunes%2C_Grande_Biblioth%C3%A8que%2C_November_3%2C_2022.jpg/1280px-Espace_jeunes%2C_Grande_Biblioth%C3%A8que%2C_November_3%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Espace jeunes, Grande Bibliothèque",
+    "credit": "D. Benjamin Miller",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Espace_jeunes,_Grande_Biblioth%C3%A8que,_November_3,_2022.jpg",
+    "file": "File:Espace jeunes, Grande Bibliothèque, November 3, 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Postes_d%27emprunt%2C_Grande_Biblioth%C3%A8que%2C_4th_floor%2C_Nov_03_2022.jpg/1280px-Postes_d%27emprunt%2C_Grande_Biblioth%C3%A8que%2C_4th_floor%2C_Nov_03_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Postes d'emprunt, Grand Bibliothèque, 4th floor",
+    "credit": "D. Benjamin Miller",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Postes_d%27emprunt,_Grande_Biblioth%C3%A8que,_4th_floor,_Nov_03_2022.jpg",
+    "file": "File:Postes d'emprunt, Grande Bibliothèque, 4th floor, Nov 03 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Staline_livres.JPG/1280px-Staline_livres.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · French and English books about Stalin at the Bibliothèque et Archives nationales du Québec",
+    "credit": "Ashoola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Staline_livres.JPG",
+    "file": "File:Staline livres.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Grande_Bibliotheque_17.JPG/1280px-Grande_Bibliotheque_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · La Grande Bibliothèque , 475, boulevard De Maisonneuve Est, Montréal Escaliers vus du hall d'entrée",
+    "credit": "Jeangagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grande_Bibliotheque_17.JPG",
+    "file": "File:Grande Bibliotheque 17.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Entrance_corridor%2C_Grande_Biblioth%C3%A8que%2C_May_28%2C_2023.jpg/1280px-Entrance_corridor%2C_Grande_Biblioth%C3%A8que%2C_May_28%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-bibliotheque/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Entrance corridor, Grande Bibliothèque",
+    "credit": "D. Benjamin Miller",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_corridor,_Grande_Biblioth%C3%A8que,_May_28,_2023.jpg",
+    "file": "File:Entrance corridor, Grande Bibliothèque, May 28, 2023.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mississauga-civic-centre",
@@ -265161,7 +265803,83 @@ window.BUILDINGS = [
   "commons": "Category:Mississauga Civic Centre",
   "lead": "File:Mississauga Civic Centre (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mississauga_Civic_Centre_%281%29.jpg/1280px-Mississauga_Civic_Centre_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 716,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ian Muttoo  from Mississauga, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mississauga_Civic_Centre_(1).jpg",
+    "file": "File:Mississauga Civic Centre (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Mississauga_Civic_Centre%2C_May_16_2026_%2802%29.jpg/1280px-Mississauga_Civic_Centre%2C_May_16_2026_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Mississauga Civic Centre, located in the Mississauga City Centre",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mississauga_Civic_Centre,_May_16_2026_(02).jpg",
+    "file": "File:Mississauga Civic Centre, May 16 2026 (02).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Anviddipu_arayankavu_-_panoramio_%2829%29.jpg/1280px-Anviddipu_arayankavu_-_panoramio_%2829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · anviddipu arayankavu",
+    "credit": "Dipu TR",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anviddipu_arayankavu_-_panoramio_(29).jpg",
+    "file": "File:Anviddipu arayankavu - panoramio (29).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Great_Stair_%283954124573%29.jpg/1280px-Great_Stair_%283954124573%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/3.webp",
+    "w": 872,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Mississauga Civic Centre, Doors Open",
+    "credit": "Ian Muttoo  from Mississauga, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Stair_(3954124573).jpg",
+    "file": "File:Great Stair (3954124573).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Mississauga_City_Hall_2021.jpg/1280px-Mississauga_City_Hall_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Mississauga City Hall",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mississauga_City_Hall_2021.jpg",
+    "file": "File:Mississauga City Hall 2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Council_Chamber_%283948764293%29.jpg/1280px-Council_Chamber_%283948764293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mississauga-civic-centre/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Detail",
+    "caption": "Detail · Mississauga Civic Centre @ Doors Open 2009",
+    "credit": "Ian Muttoo  from Mississauga, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Council_Chamber_(3948764293).jpg",
+    "file": "File:Council Chamber (3948764293).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "igloo-church-inuvik",
@@ -265185,7 +265903,83 @@ window.BUILDINGS = [
   "commons": "Category:Our Lady Of Victory Church (Inuvik)",
   "lead": "File:Our Lady of Victory Church, Inuvik, NT, in late-evening sunlight.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT%2C_in_late-evening_sunlight.jpg/1280px-Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT%2C_in_late-evening_sunlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/0.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Victory_Church,_Inuvik,_NT,_in_late-evening_sunlight.jpg",
+    "file": "File:Our Lady of Victory Church, Inuvik, NT, in late-evening sunlight.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT_-_2.jpg/1280px-Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/1.webp",
+    "w": 1280,
+    "h": 928,
+    "kind": "Exterior",
+    "caption": "Exterior · Straight-on front view of Our Lady of Victory Church , Inuvik , NT, Canada, in 9:30 p.m",
+    "credit": "Daniel Case  (original image)  W.carter  (processing from raw file))",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Victory_Church,_Inuvik,_NT_-_2.jpg",
+    "file": "File:Our Lady of Victory Church, Inuvik, NT - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Front_view_of_Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT.jpg/1280px-Front_view_of_Our_Lady_of_Victory_Church%2C_Inuvik%2C_NT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/2.webp",
+    "w": 1280,
+    "h": 1033,
+    "kind": "Exterior",
+    "caption": "Exterior · Straight-on front view of Our Lady of Victory Church , Inuvik , NT, Canada, in 9:30 p.m",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Our_Lady_of_Victory_Church,_Inuvik,_NT.jpg",
+    "file": "File:Front view of Our Lady of Victory Church, Inuvik, NT.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Our_Lady_of_Victory_church.jpg/1280px-Our_Lady_of_Victory_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/3.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · aka Igloo Church",
+    "credit": "EightyOneImages",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Victory_church.jpg",
+    "file": "File:Our Lady of Victory church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada_-_05.jpg/1280px-Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Our Lady of Victory - Igloo-Shaped Church - Inuvik - Northwest Territories - Canada - 05",
+    "credit": "Adam Jones, Ph.D.",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada_-_05.jpg",
+    "file": "File:Our Lady of Victory - Igloo-Shaped Church - Inuvik - Northwest Territories - Canada - 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Crucifix_with_Igloo_Base_-_Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada.jpg/1280px-Crucifix_with_Igloo_Base_-_Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/igloo-church-inuvik/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Crucifix with Igloo Base - Our Lady of Victory - Igloo-Shaped Church - Inuvik - Northwest Territories - Canada",
+    "credit": "Adam Jones, Ph.D.",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Crucifix_with_Igloo_Base_-_Our_Lady_of_Victory_-_Igloo-Shaped_Church_-_Inuvik_-_Northwest_Territories_-_Canada.jpg",
+    "file": "File:Crucifix with Igloo Base - Our Lady of Victory - Igloo-Shaped Church - Inuvik - Northwest Territories - Canada.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "supreme-court-of-canada-building",
@@ -265209,7 +266003,83 @@ window.BUILDINGS = [
   "commons": "Category:Supreme Court of Canada Building",
   "lead": "File:DSC02755 - Supreme Court of Canada (43079299850).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/DSC02755_-_Supreme_Court_of_Canada_%2843079299850%29.jpg/1280px-DSC02755_-_Supreme_Court_of_Canada_%2843079299850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 866,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC02755_-_Supreme_Court_of_Canada_(43079299850).jpg",
+    "file": "File:DSC02755 - Supreme Court of Canada (43079299850).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/DSC02758_-_Supreme_Court_of_Canada_%2844891560021%29.jpg/1280px-DSC02758_-_Supreme_Court_of_Canada_%2844891560021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 860,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC02758_-_Supreme_Court_of_Canada_(44891560021).jpg",
+    "file": "File:DSC02758 - Supreme Court of Canada (44891560021).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Supreme_Court_of_Canada_front_view_October_2018.jpg/1280px-Supreme_Court_of_Canada_front_view_October_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Supreme Court of Canada front view in October 2018",
+    "credit": "Jon Kolbert",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Canada_front_view_October_2018.jpg",
+    "file": "File:Supreme Court of Canada front view October 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ottawa_-_ON_-_Oberster_Gerichtshof_von_Kanada.jpg/1280px-Ottawa_-_ON_-_Oberster_Gerichtshof_von_Kanada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 833,
+    "kind": "Exterior",
+    "caption": "Exterior · Ottawa: Supreme Court of Canada",
+    "credit": "Wladyslaw",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ottawa_-_ON_-_Oberster_Gerichtshof_von_Kanada.jpg",
+    "file": "File:Ottawa - ON - Oberster Gerichtshof von Kanada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_Nine.jpg/1280px-The_Nine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 819,
+    "kind": "Interior",
+    "caption": "Interior · The highest court in the land",
+    "credit": "Jamie McCaffrey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Nine.jpg",
+    "file": "File:The Nine.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Supreme_Court_of_Canada_Entrance_Hall_%2854578271951%29.jpg/1280px-Supreme_Court_of_Canada_Entrance_Hall_%2854578271951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/supreme-court-of-canada-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Supreme Court of Canada Entrance Hall",
+    "credit": "Max Bates",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Canada_Entrance_Hall_(54578271951).jpg",
+    "file": "File:Supreme Court of Canada Entrance Hall (54578271951).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "edmonton-city-hall",
@@ -265233,7 +266103,59 @@ window.BUILDINGS = [
   "commons": "Category:Edmonton City Hall",
   "lead": "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Edmonton_City_Hall%2C_Edmonton%2C_Alberta%2C_2026-09-27_02.jpg/1280px-Edmonton_City_Hall%2C_Edmonton%2C_Alberta%2C_2026-09-27_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edmonton-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Interior",
+    "caption": "Interior · Edmonton City Hall, Edmonton, Alberta, 2026-09-27; south face",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edmonton_City_Hall,_Edmonton,_Alberta,_2026-09-27_02.jpg",
+    "file": "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/City_Hall_%2822568764194%29.jpg/1280px-City_Hall_%2822568764194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edmonton-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · City Hall",
+    "credit": "Mack Male  from Edmonton, AB, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_Hall_(22568764194).jpg",
+    "file": "File:City Hall (22568764194).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/City_Hall_%2851631843571%29.jpg/1280px-City_Hall_%2851631843571%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edmonton-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · City Hall",
+    "credit": "Mack Male  from Edmonton, AB, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_Hall_(51631843571).jpg",
+    "file": "File:City Hall (51631843571).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Edmonton_City_Hall%2C_Edmonton%2C_Alberta%2C_2026-09-27_04.jpg/1280px-Edmonton_City_Hall%2C_Edmonton%2C_Alberta%2C_2026-09-27_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edmonton-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · Edmonton City Hall, Edmonton, Alberta, 2026-09-27; detail of clock",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edmonton_City_Hall,_Edmonton,_Alberta,_2026-09-27_04.jpg",
+    "file": "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 04.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "peace-bridge-calgary",
@@ -265257,7 +266179,83 @@ window.BUILDINGS = [
   "commons": "Category:Peace Bridge (Calgary)",
   "lead": "File:Calgary Peace Bridge during the day May 2012.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Calgary_Peace_Bridge_during_the_day_May_2012.jpg/1280px-Calgary_Peace_Bridge_during_the_day_May_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/0.webp",
+    "w": 1280,
+    "h": 464,
+    "kind": "Exterior",
+    "caption": "Exterior · www.wilsonhui.com/ Olympus E-3 15351 x 5569 Printable @ 300 DPI in 51\" x 18\" size",
+    "credit": "Calgary Reviews  from Calgary, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_Peace_Bridge_during_the_day_May_2012.jpg",
+    "file": "File:Calgary Peace Bridge during the day May 2012.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bow_River_and_Peace_Bridge%2C_Calgary_20240819_1.jpg/1280px-Bow_River_and_Peace_Bridge%2C_Calgary_20240819_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/1.webp",
+    "w": 1280,
+    "h": 829,
+    "kind": "Exterior",
+    "caption": "Exterior · A remote view of Bow River and Peace Bridge in Calgary",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bow_River_and_Peace_Bridge,_Calgary_20240819_1.jpg",
+    "file": "File:Bow River and Peace Bridge, Calgary 20240819 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Peace_Bridge%2C_Calgary%2C_south_view_20240818_1.jpg/1280px-Peace_Bridge%2C_Calgary%2C_south_view_20240818_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/2.webp",
+    "w": 1280,
+    "h": 799,
+    "kind": "Exterior",
+    "caption": "Exterior · A south view of Peace Bridge, Calgary",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_Bridge,_Calgary,_south_view_20240818_1.jpg",
+    "file": "File:Peace Bridge, Calgary, south view 20240818 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%27Peace_Bridge%27_Over_the_Bow_River_--_Calgary_Alberta_%28CA%29_September_2019_%2850090625463%29.jpg/1280px-%27Peace_Bridge%27_Over_the_Bow_River_--_Calgary_Alberta_%28CA%29_September_2019_%2850090625463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/3.webp",
+    "w": 1280,
+    "h": 797,
+    "kind": "Exterior",
+    "caption": "Exterior · Peace Bridge accommodates people walking and cycling across the Bow River in Calgary, Alberta, Canada",
+    "credit": "Ron Cogswell  from Arlington, Virginia, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%27Peace_Bridge%27_Over_the_Bow_River_--_Calgary_Alberta_(CA)_September_2019_(50090625463).jpg",
+    "file": "File:'Peace Bridge' Over the Bow River -- Calgary Alberta (CA) September 2019 (50090625463).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Peace_bridge_pano.jpg/1280px-Peace_bridge_pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/4.webp",
+    "w": 1280,
+    "h": 342,
+    "kind": "Interior",
+    "caption": "Interior · A panoramic photo of the interior of the Peace Bridge",
+    "credit": "People talking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_bridge_pano.jpg",
+    "file": "File:Peace bridge pano.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Peace_Bridge%2C_Calgary%2C_north_view_20240818_1.jpg/1280px-Peace_Bridge%2C_Calgary%2C_north_view_20240818_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peace-bridge-calgary/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · A north view of Peace Bridge, as seen from Bow River Pathway",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_Bridge,_Calgary,_north_view_20240818_1.jpg",
+    "file": "File:Peace Bridge, Calgary, north view 20240818 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "monumento-a-la-revolucion",
@@ -265281,7 +266279,110 @@ window.BUILDINGS = [
   "commons": "Category:Monumento a la Revolución (México)",
   "lead": "File:Monumento a la revolucion2020.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Monumento_a_la_revolucion2020.jpg/1280px-Monumento_a_la_revolucion2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/0.webp",
+    "w": 905,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Carlos Valenzuela",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monumento_a_la_revolucion2020.jpg",
+    "file": "File:Monumento a la revolucion2020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Frente_al_Monumento_a_la_Revoluci%C3%B3n.JPG/1280px-Frente_al_Monumento_a_la_Revoluci%C3%B3n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Yemile Girón",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frente_al_Monumento_a_la_Revoluci%C3%B3n.JPG",
+    "file": "File:Frente al Monumento a la Revolución.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/MonumenotALaRevoluci%C3%B3n201708p1.jpg/1280px-MonumenotALaRevoluci%C3%B3n201708p1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/2.webp",
+    "w": 1280,
+    "h": 1290,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Carlos Valenzuela",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MonumenotALaRevoluci%C3%B3n201708p1.jpg",
+    "file": "File:MonumenotALaRevolución201708p1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/LGBT_Mexico_City_Pride_2025_Revolucion_Monument.jpg/1280px-LGBT_Mexico_City_Pride_2025_Revolucion_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Photograph released as part of Wikimedia LGBT+'s effort to give visibility to relevant LGBT+ content",
+    "credit": "Omar David Sandoval Sida",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LGBT_Mexico_City_Pride_2025_Revolucion_Monument.jpg",
+    "file": "File:LGBT Mexico City Pride 2025 Revolucion Monument.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Interior_y_Cupula_del_Monumento_a_la_Revolucion.JPG/1280px-Interior_y_Cupula_del_Monumento_a_la_Revolucion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Xolotl",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_y_Cupula_del_Monumento_a_la_Revolucion.JPG",
+    "file": "File:Interior y Cupula del Monumento a la Revolucion.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Infrastructure_%2829341448166%29.jpg/1280px-Infrastructure_%2829341448166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/5.webp",
+    "w": 932,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Climbing to the top of the Monumento a la Revolución in Mexico City",
+    "credit": "Los Paseos  from Earth",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Infrastructure_(29341448166).jpg",
+    "file": "File:Infrastructure (29341448166).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Maqueta_del_Monumento_a_la_Revoluci%C3%B3n.jpg/1280px-Maqueta_del_Monumento_a_la_Revoluci%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Ale.49paez",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maqueta_del_Monumento_a_la_Revoluci%C3%B3n.jpg",
+    "file": "File:Maqueta del Monumento a la Revolución.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dibujo_del_proyecto_original_del_Palacio_Legislativo_de_la_Ciudad_de_M%C3%A9xico.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/monumento-a-la-revolucion/thumbs/7.webp",
+    "w": 960,
+    "h": 720,
+    "kind": "Drawing",
+    "caption": "Drawing · Dibujo original del proyecto ganador para construir la nueva sede del congreso a principios del S",
+    "credit": "Luicheto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dibujo_del_proyecto_original_del_Palacio_Legislativo_de_la_Ciudad_de_M%C3%A9xico.JPG",
+    "file": "File:Dibujo del proyecto original del Palacio Legislativo de la Ciudad de México.JPG"
+   }
+  ],
+  "has": [
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "torre-del-reformador",
@@ -265305,7 +266406,83 @@ window.BUILDINGS = [
   "commons": "Category:Torre del Reformador, Guatemala",
   "lead": "File:Torre del Reformador Fabriccio Díaz.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg/1280px-Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/0.webp",
+    "w": 1085,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre del Reformador de Guatemala por Fabriccio Díaz",
+    "credit": "Fabriccio Díaz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_Fabriccio_D%C3%ADaz.jpg",
+    "file": "File:Torre del Reformador Fabriccio Díaz.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Torre_del_Reformador_-_Ciudad_de_Guatemala.jpg/1280px-Torre_del_Reformador_-_Ciudad_de_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/1.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre del Reformador - Ciudad de Guatemala",
+    "credit": "Josué Goge",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_-_Ciudad_de_Guatemala.jpg",
+    "file": "File:Torre del Reformador - Ciudad de Guatemala.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Torre_del_Reformador_Fabriccio_D%C3%ADaz_%28Cropped%29.jpg/1280px-Torre_del_Reformador_Fabriccio_D%C3%ADaz_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/2.webp",
+    "w": 1122,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Guatemala City",
+    "credit": "Fabriccio Díaz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador_Fabriccio_D%C3%ADaz_(Cropped).jpg",
+    "file": "File:Torre del Reformador Fabriccio Díaz (Cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Torre_del_Reformador%2C_Guatemala_de_noche.jpg/1280px-Torre_del_Reformador%2C_Guatemala_de_noche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre del Reformador, Guatemala",
+    "credit": "Josué Goge",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador,_Guatemala_de_noche.jpg",
+    "file": "File:Torre del Reformador, Guatemala de noche.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Torre_del_Reformador.jpg/1280px-Torre_del_Reformador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Context",
+    "caption": "Context · Torre del Reformador, Ciudad de Guatemala",
+    "credit": "Francisco Sandoval",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_del_Reformador.jpg",
+    "file": "File:Torre del Reformador.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/7a_Avenida_-_Torre_del_Reformador.jpg/1280px-7a_Avenida_-_Torre_del_Reformador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-del-reformador/thumbs/5.webp",
+    "w": 630,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Guatemala City",
+    "credit": "Rene Hernandez",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:7a_Avenida_-_Torre_del_Reformador.jpg",
+    "file": "File:7a Avenida - Torre del Reformador.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "capitolio-de-puerto-rico",
@@ -265329,7 +266506,83 @@ window.BUILDINGS = [
   "commons": "Category:Capitol of Puerto Rico",
   "lead": "File:Capitolio de Puerto Rico (28755163211).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Capitolio_de_Puerto_Rico_%2828755163211%29.jpg/1280px-Capitolio_de_Puerto_Rico_%2828755163211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Front (north) façade of Capitol of Puerto Rico overlooking the North Atlantic Ocean",
+    "credit": "Brad Clinesmith  from Wilkes-Barre, PA, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitolio_de_Puerto_Rico_(28755163211).jpg",
+    "file": "File:Capitolio de Puerto Rico (28755163211).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dome_of_Capitol_of_Puerto_Rico.jpg/1280px-Dome_of_Capitol_of_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Dome of Capitol of Puerto Rico, 2025",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dome_of_Capitol_of_Puerto_Rico.jpg",
+    "file": "File:Dome of Capitol of Puerto Rico.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Capitolio_de_Puerto_Rico.jpg/1280px-El_Capitolio_de_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/2.webp",
+    "w": 1280,
+    "h": 871,
+    "kind": "Exterior",
+    "caption": "Exterior · El Capitolio de Puerto Rico",
+    "credit": "Nheitjan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Capitolio_de_Puerto_Rico.jpg",
+    "file": "File:El Capitolio de Puerto Rico.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Capitol_of_Puerto_Rico_at_dusk.jpg/1280px-Capitol_of_Puerto_Rico_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Rear (south) façade of Capitol of Puerto Rico overlooking San Juan Bay at dusk with flags at half mast",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitol_of_Puerto_Rico_at_dusk.jpg",
+    "file": "File:Capitol of Puerto Rico at dusk.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/West_vestibule_stairs_in_Capitol_of_Puerto_Rico.jpg/1280px-West_vestibule_stairs_in_Capitol_of_Puerto_Rico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · West vestibule stairs in Capitol of Puerto Rico, 2016",
+    "credit": "123 Chroma Pixels",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:West_vestibule_stairs_in_Capitol_of_Puerto_Rico.jpg",
+    "file": "File:West vestibule stairs in Capitol of Puerto Rico.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Capitol_of_Puerto_Rico_second_floor_landing.JPG/1280px-Capitol_of_Puerto_Rico_second_floor_landing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitolio-de-puerto-rico/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Second floor landing of Capitol of Puerto Rico",
+    "credit": "Thief12  (Carlo Giovannetti)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capitol_of_Puerto_Rico_second_floor_landing.JPG",
+    "file": "File:Capitol of Puerto Rico second floor landing.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-nacional-de-cuba",
@@ -265353,7 +266606,110 @@ window.BUILDINGS = [
   "commons": "Category:Hotel Nacional de Cuba",
   "lead": "File:Отель Nacional de Cuba - panoramio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%D0%9E%D1%82%D0%B5%D0%BB%D1%8C_Nacional_de_Cuba_-_panoramio.jpg/1280px-%D0%9E%D1%82%D0%B5%D0%BB%D1%8C_Nacional_de_Cuba_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/0.webp",
+    "w": 1280,
+    "h": 754,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Сергей Марцынюк",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9E%D1%82%D0%B5%D0%BB%D1%8C_Nacional_de_Cuba_-_panoramio.jpg",
+    "file": "File:Отель Nacional de Cuba - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Hotel_Nacional%2C_Havana%2C_Cuba_LCCN2010638840.jpg/1280px-The_Hotel_Nacional%2C_Havana%2C_Cuba_LCCN2010638840.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: The Hotel Nacional, Havana, Cuba Physical description: 1 photograph : digital, TIFF file, color",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Hotel_Nacional,_Havana,_Cuba_LCCN2010638840.jpg",
+    "file": "File:The Hotel Nacional, Havana, Cuba LCCN2010638840.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hotel_Nacional_%2833014186833%29.jpg/1280px-Hotel_Nacional_%2833014186833%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/2.webp",
+    "w": 1010,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Hotel Nacional",
+    "credit": "Antonio Schubert  from Rio de Janeiro, Brasil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Nacional_(33014186833).jpg",
+    "file": "File:Hotel Nacional (33014186833).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cuba%2C_Havana%2C_Sunset_over_Hotel_Nacional.jpg/1280px-Cuba%2C_Havana%2C_Sunset_over_Hotel_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Cuba, Havana, Sunset over Hotel Nacional, 2014",
+    "credit": "LukaszKatlewa",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cuba,_Havana,_Sunset_over_Hotel_Nacional.jpg",
+    "file": "File:Cuba, Havana, Sunset over Hotel Nacional.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Havana_National_Hotel_Corridor_%283203427681%29.jpg/1280px-Havana_National_Hotel_Corridor_%283203427681%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Havana National Hotel Corridor",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Havana_National_Hotel_Corridor_(3203427681).jpg",
+    "file": "File:Havana National Hotel Corridor (3203427681).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/CubaNationalHotel02.JPG/1280px-CubaNationalHotel02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A tiled wall in the Hotel Nacional de Cuba, Havana",
+    "credit": "Gerardo Noriega",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CubaNationalHotel02.JPG",
+    "file": "File:CubaNationalHotel02.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Hotel_Nacional_de_Cuba_Floor_Plan_Measure.png/1280px-Hotel_Nacional_de_Cuba_Floor_Plan_Measure.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/6.webp",
+    "w": 1280,
+    "h": 716,
+    "kind": "Plan",
+    "caption": "Plan · Hotel Nacional de Cuba_Floor Plan_Measure",
+    "credit": "Osvaldo valdes 165443",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Nacional_de_Cuba_Floor_Plan_Measure.png",
+    "file": "File:Hotel Nacional de Cuba Floor Plan Measure.png"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wurlitzer_1015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/hotel-nacional-de-cuba/thumbs/7.webp",
+    "w": 486,
+    "h": 910,
+    "kind": "Model",
+    "caption": "Model · Reproduction Wurlitzer 1015 Jukebox in the Hotel Nacional de Cuba, Havana",
+    "credit": "Jongleur100",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wurlitzer_1015.jpg",
+    "file": "File:Wurlitzer 1015.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "gran-teatro-de-la-habana",
@@ -265377,7 +266733,83 @@ window.BUILDINGS = [
   "commons": "Category:Gran Teatro de La Habana",
   "lead": "File:Gran Teatro de La Habana (23488369999).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Gran_Teatro_de_La_Habana_%2823488369999%29.jpg/1280px-Gran_Teatro_de_La_Habana_%2823488369999%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/0.webp",
+    "w": 1280,
+    "h": 862,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Antonio Schubert  from Rio de Janeiro, Brasil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gran_Teatro_de_La_Habana_(23488369999).jpg",
+    "file": "File:Gran Teatro de La Habana (23488369999).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gran_Teatro_de_La_Habana.jpg/1280px-Gran_Teatro_de_La_Habana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Marc-Lautenbacher",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gran_Teatro_de_La_Habana.jpg",
+    "file": "File:Gran Teatro de La Habana.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/La_Habana_%2820526221605%29.jpg/1280px-La_Habana_%2820526221605%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/2.webp",
+    "w": 1280,
+    "h": 1032,
+    "kind": "Exterior",
+    "caption": "Exterior · La Habana",
+    "credit": "Antonio Schubert  from Rio de Janeiro, Brasil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Habana_(20526221605).jpg",
+    "file": "File:La Habana (20526221605).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Habana_%2822223814142%29.jpg/1280px-La_Habana_%2822223814142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/3.webp",
+    "w": 1280,
+    "h": 862,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Antonio Schubert  from Rio de Janeiro, Brasil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Habana_(22223814142).jpg",
+    "file": "File:La Habana (22223814142).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Detalle_Gran_Teatro_de_La_Habana_%22Alicia_Alonso%E2%80%9C_2.jpg/1280px-Detalle_Gran_Teatro_de_La_Habana_%22Alicia_Alonso%E2%80%9C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Knomrm",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detalle_Gran_Teatro_de_La_Habana_%22Alicia_Alonso%E2%80%9C_2.jpg",
+    "file": "File:Detalle Gran Teatro de La Habana \"Alicia Alonso“ 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Gran_Theatre_ceiling_%283215208213%29.jpg/1280px-Gran_Theatre_ceiling_%283215208213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gran-teatro-de-la-habana/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Gran Theatre ceiling",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gran_Theatre_ceiling_(3215208213).jpg",
+    "file": "File:Gran Theatre ceiling (3215208213).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "saint-josephs-oratory",
@@ -265401,7 +266833,97 @@ window.BUILDINGS = [
   "commons": "Category:Saint Joseph's Oratory of Mount-Royal",
   "lead": "File:Oratoire St-Joseph 2016 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Oratoire_St-Joseph_2016_2.jpg/1280px-Oratoire_St-Joseph_2016_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/0.webp",
+    "w": 899,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Oratoire Saint-Joseph 2016",
+    "credit": "Fred.bergeron",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oratoire_St-Joseph_2016_2.jpg",
+    "file": "File:Oratoire St-Joseph 2016 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Oratoire_St-Joseph_2016.jpg/1280px-Oratoire_St-Joseph_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/1.webp",
+    "w": 899,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Saint Joseph's Oratory of Montreal (2016)",
+    "credit": "Frédéric Bergeron",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oratoire_St-Joseph_2016.jpg",
+    "file": "File:Oratoire St-Joseph 2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Dome_%40_Oratoire_Saint-Joseph_du_Mont-Royal_%40_Mount_Royal_%40_Montreal_%2830380813336%29.jpg/1280px-Dome_%40_Oratoire_Saint-Joseph_du_Mont-Royal_%40_Mount_Royal_%40_Montreal_%2830380813336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Dome @ Oratoire Saint-Joseph du Mont-Royal @ Mount Royal @ Montreal",
+    "credit": "Guilhem Vellut  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dome_@_Oratoire_Saint-Joseph_du_Mont-Royal_@_Mount_Royal_@_Montreal_(30380813336).jpg",
+    "file": "File:Dome @ Oratoire Saint-Joseph du Mont-Royal @ Mount Royal @ Montreal (30380813336).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Saint_Joseph%27s_Oratory_Montreal_April_2017_001.jpg/1280px-Saint_Joseph%27s_Oratory_Montreal_April_2017_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/3.webp",
+    "w": 1280,
+    "h": 711,
+    "kind": "Exterior",
+    "caption": "Exterior · Saint Joseph's Oratory , Montréal ",
+    "credit": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Joseph%27s_Oratory_Montreal_April_2017_001.jpg",
+    "file": "File:Saint Joseph's Oratory Montreal April 2017 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Beside_the_Tombeau_du_frere_Andree.jpg/1280px-Beside_the_Tombeau_du_frere_Andree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/4.webp",
+    "w": 863,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Beside the Tombeau du frère André at Saint Joseph's Oratory ( Oratoire Saint-Joseph du Mont-Royal )",
+    "credit": "Acarpentier",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beside_the_Tombeau_du_frere_Andree.jpg",
+    "file": "File:Beside the Tombeau du frere Andree.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Stairs_for_pilgrims_%40_Oratoire_Saint-Joseph_du_Mont-Royal_%40_Mount_Royal_%40_Montreal_%2830120103160%29.jpg/1280px-Stairs_for_pilgrims_%40_Oratoire_Saint-Joseph_du_Mont-Royal_%40_Mount_Royal_%40_Montreal_%2830120103160%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Stairs for pilgrims @ Oratoire Saint-Joseph du Mont-Royal @ Mount Royal @ Montreal",
+    "credit": "Guilhem Vellut  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairs_for_pilgrims_@_Oratoire_Saint-Joseph_du_Mont-Royal_@_Mount_Royal_@_Montreal_(30120103160).jpg",
+    "file": "File:Stairs for pilgrims @ Oratoire Saint-Joseph du Mont-Royal @ Mount Royal @ Montreal (30120103160).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Church_model_%288347640403%29.jpg/1280px-Church_model_%288347640403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-josephs-oratory/thumbs/6.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Model",
+    "caption": "Model · An elaborate model of the Oratoire of St",
+    "credit": "shankar s.  from sharjah, united arab emirates",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_model_(8347640403).jpg",
+    "file": "File:Church model (8347640403).jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "chateau-frontenac",
@@ -265425,7 +266947,97 @@ window.BUILDINGS = [
   "commons": "Category:Château Frontenac",
   "lead": "File:Chateau Frontenac viewed from a park in Quebec City.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Chateau_Frontenac_from_a_street_in_Old_Quebec.jpg/1280px-Chateau_Frontenac_from_a_street_in_Old_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/0.webp",
+    "w": 1280,
+    "h": 865,
+    "kind": "Context",
+    "caption": "Context · The Château Frontenac from a street of Vieux-Québec",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac_from_a_street_in_Old_Quebec.jpg",
+    "file": "File:Chateau Frontenac from a street in Old Quebec.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Tower_of_the_Chateau_Frontenac_in_Quebec_City.jpg/1280px-Tower_of_the_Chateau_Frontenac_in_Quebec_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The central tower of the Château Frontenac, added in 1924 to plans by William Sutherland Maxwell",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_of_the_Chateau_Frontenac_in_Quebec_City.jpg",
+    "file": "File:Tower of the Chateau Frontenac in Quebec City.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Fairmont_Le_Ch%C3%A2teau_Frontenac_in_Quebec_City_%28September_2023%29.jpg/1280px-Fairmont_Le_Ch%C3%A2teau_Frontenac_in_Quebec_City_%28September_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Fairmont Le Château Frontenac in Quebec City (September 2023)",
+    "credit": "Daeva Trạc",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac_in_Quebec_City_(September_2023).jpg",
+    "file": "File:Fairmont Le Château Frontenac in Quebec City (September 2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Frontenac_Hotel%2C_Quebec_ville%2C_downtown_007.jpg/1280px-Frontenac_Hotel%2C_Quebec_ville%2C_downtown_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/3.webp",
+    "w": 1280,
+    "h": 763,
+    "kind": "Interior",
+    "caption": "Interior · Lobby of the Frontenac Hotel, Quebec ville, downtown",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frontenac_Hotel,_Quebec_ville,_downtown_007.jpg",
+    "file": "File:Frontenac Hotel, Quebec ville, downtown 007.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Dr._James_F._Grant%2C_ship%27s_surgeon%2C_fixing_up_Gordon_G._Davidson%2C_survivor_of_EMPRESS_OF_IRELAND%2C_in_Hotel_Frontenac_at_Quebec_LCCN2014696146_%28cropped%29.jpg/1280px-Dr._James_F._Grant%2C_ship%27s_surgeon%2C_fixing_up_Gordon_G._Davidson%2C_survivor_of_EMPRESS_OF_IRELAND%2C_in_Hotel_Frontenac_at_Quebec_LCCN2014696146_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/4.webp",
+    "w": 1280,
+    "h": 891,
+    "kind": "Interior",
+    "caption": "Interior · Title: Dr",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._James_F._Grant,_ship%27s_surgeon,_fixing_up_Gordon_G._Davidson,_survivor_of_EMPRESS_OF_IRELAND,_in_Hotel_Frontenac_at_Quebec_LCCN2014696146_(cropped).jpg",
+    "file": "File:Dr. James F. Grant, ship's surgeon, fixing up Gordon G. Davidson, survivor of EMPRESS OF IRELAND, in Hotel Frontenac at Quebec LCCN2014696146 (cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Dr._James_F._Grant%2C_ship%27s_surgeon%2C_fixing_up_Gordon_G._Davidson%2C_survivor_of_EMPRESS_OF_IRELAND%2C_in_Hotel_Frontenac_at_Quebec_LCCN2014696146.jpg/1280px-Dr._James_F._Grant%2C_ship%27s_surgeon%2C_fixing_up_Gordon_G._Davidson%2C_survivor_of_EMPRESS_OF_IRELAND%2C_in_Hotel_Frontenac_at_Quebec_LCCN2014696146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/5.webp",
+    "w": 1280,
+    "h": 933,
+    "kind": "Interior",
+    "caption": "Interior · Title: Dr",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._James_F._Grant,_ship%27s_surgeon,_fixing_up_Gordon_G._Davidson,_survivor_of_EMPRESS_OF_IRELAND,_in_Hotel_Frontenac_at_Quebec_LCCN2014696146.jpg",
+    "file": "File:Dr. James F. Grant, ship's surgeon, fixing up Gordon G. Davidson, survivor of EMPRESS OF IRELAND, in Hotel Frontenac at Quebec LCCN2014696146.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Chateau_Frontenac_main_floor_plan%2C_with_proposals_for_rebuilding_and_enlarging_after_the_1926_fire_-_reprinted_in_Grand_Hotels%2C_Reality_and_Illusion_by_Elaine_Denby_-_DSC03845.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chateau-frontenac/thumbs/6.webp",
+    "w": 1093,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac_main_floor_plan,_with_proposals_for_rebuilding_and_enlarging_after_the_1926_fire_-_reprinted_in_Grand_Hotels,_Reality_and_Illusion_by_Elaine_Denby_-_DSC03845.jpg",
+    "file": "File:Chateau Frontenac main floor plan, with proposals for rebuilding and enlarging after the 1926 fire - reprinted in Grand Hotels, Reality and Illusion by Elaine Denby - DSC03845.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "union-station-toronto",
@@ -265449,7 +267061,83 @@ window.BUILDINGS = [
   "commons": "Category:Union Station (Toronto)",
   "lead": "File:Union Station York East Teamway, January 6 2026.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Union_Station_York_East_Teamway%2C_January_6_2026.jpg/1280px-Union_Station_York_East_Teamway%2C_January_6_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The York East Teamway at Toronto Union Station",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Station_York_East_Teamway,_January_6_2026.jpg",
+    "file": "File:Union Station York East Teamway, January 6 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Union_Station%2C_Toronto%2C_Ontario%2C_2025-08-25_10.jpg/1280px-Union_Station%2C_Toronto%2C_Ontario%2C_2025-08-25_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/1.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · Union Station, Toronto, Ontario, 2025-08-25; detail of panel over entry to Via Rail Hall",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Station,_Toronto,_Ontario,_2025-08-25_10.jpg",
+    "file": "File:Union Station, Toronto, Ontario, 2025-08-25 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Front_of_Union_Station_in_Toronto%2C_April_3_2026.jpg/1280px-Front_of_Union_Station_in_Toronto%2C_April_3_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/2.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior · Front facade and main entrance of Union Station in Toronto",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_of_Union_Station_in_Toronto,_April_3_2026.jpg",
+    "file": "File:Front of Union Station in Toronto, April 3 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Reconstructing_the_east_facade_of_Toronto%27s_Union_Station%2C_2017_04_19_-a_%2833999821852%29.jpg/1280px-Reconstructing_the_east_facade_of_Toronto%27s_Union_Station%2C_2017_04_19_-a_%2833999821852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Reconstructing the east facade of Toronto's Union Station, 2017 04 19 -a",
+    "credit": "booledozer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reconstructing_the_east_facade_of_Toronto%27s_Union_Station,_2017_04_19_-a_(33999821852).jpg",
+    "file": "File:Reconstructing the east facade of Toronto's Union Station, 2017 04 19 -a (33999821852).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Reconstructing_the_east_facade_of_Toronto%27s_Union_Station%2C_2017_04_19_-b_%2833999783852%29.jpg/1280px-Reconstructing_the_east_facade_of_Toronto%27s_Union_Station%2C_2017_04_19_-b_%2833999783852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Reconstructing the east facade of Toronto's Union Station, 2017 04 19 -b",
+    "credit": "booledozer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reconstructing_the_east_facade_of_Toronto%27s_Union_Station,_2017_04_19_-b_(33999783852).jpg",
+    "file": "File:Reconstructing the east facade of Toronto's Union Station, 2017 04 19 -b (33999783852).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Union_Station%2C_Toronto%2C_Ontario%2C_2025-08-25_14.jpg/1280px-Union_Station%2C_Toronto%2C_Ontario%2C_2025-08-25_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/union-station-toronto/thumbs/5.webp",
+    "w": 1280,
+    "h": 989,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Station,_Toronto,_Ontario,_2025-08-25_14.jpg",
+    "file": "File:Union Station, Toronto, Ontario, 2025-08-25 14.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "old-city-hall-toronto",
@@ -265473,7 +267161,86 @@ window.BUILDINGS = [
   "commons": "Category:Old City Hall, Toronto",
   "lead": "File:Frontal view of Old City Hall in Toronto.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Frontal_view_of_Old_City_Hall_in_Toronto.jpg/1280px-Frontal_view_of_Old_City_Hall_in_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/0.webp",
+    "w": 1280,
+    "h": 901,
+    "kind": "Interior",
+    "caption": "Interior · Frontal view of the Old City Hall in Toronto, ON",
+    "credit": "DenSchub",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frontal_view_of_Old_City_Hall_in_Toronto.jpg",
+    "file": "File:Frontal view of Old City Hall in Toronto.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/DSC09167_-_Old_City_Hall_%2837049794672%29.jpg/1280px-DSC09167_-_Old_City_Hall_%2837049794672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/1.webp",
+    "w": 947,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Old City Hall is a civic building and court house",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC09167_-_Old_City_Hall_(37049794672).jpg",
+    "file": "File:DSC09167 - Old City Hall (37049794672).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Old_City_Hall_%2818846792740%29.jpg/1280px-Old_City_Hall_%2818846792740%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/2.webp",
+    "w": 1000,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Toronto's old city hall in Toronto, Ontario, Canada",
+    "credit": "Ryan Quick  from Greenbelt, MD, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_City_Hall_(18846792740).jpg",
+    "file": "File:Old City Hall (18846792740).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Toronto_August_2017_04.jpg/1280px-Toronto_August_2017_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/3.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · Toronto financial district and the old city hall",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_August_2017_04.jpg",
+    "file": "File:Toronto August 2017 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Municipal_and_County_Buildings_Toronto_July_1887.jpg/1280px-Municipal_and_County_Buildings_Toronto_July_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/4.webp",
+    "w": 1280,
+    "h": 1299,
+    "kind": "Elevation",
+    "caption": "Elevation · Architectural rendering of \"Municipal & County Buildings\" in Toronto",
+    "credit": "E.J. Lennox",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Municipal_and_County_Buildings_Toronto_July_1887.jpg",
+    "file": "File:Municipal and County Buildings Toronto July 1887.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Proposed_Victoria_Square_Toronto.JPG/1280px-Proposed_Victoria_Square_Toronto.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/old-city-hall-toronto/thumbs/5.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Unknown author Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Proposed_Victoria_Square_Toronto.JPG",
+    "file": "File:Proposed Victoria Square Toronto.JPG"
+   }
+  ],
+  "has": [
+   "Elevation",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "quebec-parliament-building",
@@ -265497,7 +267264,83 @@ window.BUILDINGS = [
   "commons": "Category:Parliament Building of Quebec",
   "lead": "File:Assemblée nationale du Québec, Canada.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Parliament Building of Quebec , in Quebec City, Canada, home to the National Assembly of Quebec",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale_du_Qu%C3%A9bec,_Canada.jpg",
+    "file": "File:Assemblée nationale du Québec, Canada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.jpg/1280px-Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 752,
+    "kind": "Exterior",
+    "caption": "Exterior · Assemblée nationale du Québec , Quebec City, Canada",
+    "credit": "Wilfredor",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale_du_Qu%C3%A9bec.jpg",
+    "file": "File:Assemblée nationale du Québec.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Demonstration_against_the_health_emergency_in_front_of_the_Parliament_Building_of_Quebec.jpg/1280px-Demonstration_against_the_health_emergency_in_front_of_the_Parliament_Building_of_Quebec.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 800,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wilfredor",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Demonstration_against_the_health_emergency_in_front_of_the_Parliament_Building_of_Quebec.jpg",
+    "file": "File:Demonstration against the health emergency in front of the Parliament Building of Quebec.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Drapeau_du_Quebec.JPG/1280px-Drapeau_du_Quebec.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/3.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A photo of the flag of the province of Quebec floating over the Parliament Building in Quebec City",
+    "credit": "Letartean",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Drapeau_du_Quebec.JPG",
+    "file": "File:Drapeau du Quebec.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Corridor%2C_Quebec_Parliament_01.jpg/1280px-Corridor%2C_Quebec_Parliament_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Corridor, Quebec Parliament Building, 1045, Des Parlementaires Street, Quebec City, Quebec, Canada",
+    "credit": "Thomas1313",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor,_Quebec_Parliament_01.jpg",
+    "file": "File:Corridor, Quebec Parliament 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Corridor%2C_Quebec_Parliament_02.jpg/1280px-Corridor%2C_Quebec_Parliament_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/quebec-parliament-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Corridor, Quebec Parliament Building, 1045, Des Parlementaires Street, Quebec City, Quebec, Canada",
+    "credit": "Thomas1313",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corridor,_Quebec_Parliament_02.jpg",
+    "file": "File:Corridor, Quebec Parliament 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "centre-block-ottawa",
@@ -265521,7 +267364,97 @@ window.BUILDINGS = [
   "commons": "Category:Centre Block",
   "lead": "File:Parliament Hill - Ottawa, Ontario, Canada - Ca. July 1990.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Parliament_Hill_-_Ottawa%2C_Ontario%2C_Canada_-_Ca._July_1990.jpg/1280px-Parliament_Hill_-_Ottawa%2C_Ontario%2C_Canada_-_Ca._July_1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Parliament Hill - Ottawa, Ontario, Canada",
+    "credit": "Giorgio Galeotti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_-_Ottawa,_Ontario,_Canada_-_Ca._July_1990.jpg",
+    "file": "File:Parliament Hill - Ottawa, Ontario, Canada - Ca. July 1990.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Centre_Block_and_Library_of_Parliament%2C_Ottawa%2C_West_view_20170422_2.jpg/1280px-Centre_Block_and_Library_of_Parliament%2C_Ottawa%2C_West_view_20170422_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/1.webp",
+    "w": 1194,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A west view of Centre Block and the Library of Parliament, Ottawa, Ontario",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_Block_and_Library_of_Parliament,_Ottawa,_West_view_20170422_2.jpg",
+    "file": "File:Centre Block and Library of Parliament, Ottawa, West view 20170422 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/A_gate_of_Canadian_parliament.jpg/1280px-A_gate_of_Canadian_parliament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Not sure if it is really functioning as a door",
+    "credit": "損齋",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_gate_of_Canadian_parliament.jpg",
+    "file": "File:A gate of Canadian parliament.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Centre_Block_and_Library_of_Parliament%2C_Ottawa%2C_West_view_20170422_1.jpg/1280px-Centre_Block_and_Library_of_Parliament%2C_Ottawa%2C_West_view_20170422_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/3.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Exterior",
+    "caption": "Exterior · A west view of Centre Block and the Library of Parliament, Ottawa, Ontario",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_Block_and_Library_of_Parliament,_Ottawa,_West_view_20170422_1.jpg",
+    "file": "File:Centre Block and Library of Parliament, Ottawa, West view 20170422 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Among_the_Trees.jpg/1280px-Among_the_Trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Centre Block, Parliament Hill, Ottawa, Canada",
+    "credit": "Owen Byrne",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Among_the_Trees.jpg",
+    "file": "File:Among the Trees.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Centre_Block_%2815918255195%29.jpg/1280px-Centre_Block_%2815918255195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centre-block-ottawa/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Ottawa - Parliament of Canada Licensing: flickr@tonywebster.com",
+    "credit": "Tony Webster  from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_Block_(15918255195).jpg",
+    "file": "File:Centre Block (15918255195).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Model_of_the_Centre_Block_of_Parliament_Buildings_-_Ottawa%2C_Ontario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/centre-block-ottawa/thumbs/6.webp",
+    "w": 1000,
+    "h": 604,
+    "kind": "Model",
+    "caption": "Model · Pre-construction mockup/model of the then future Centre Block of Parliament Buildings, Ottawa, Ontario",
+    "credit": "Unknown Unknown   for Government of Canada",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Centre_Block_of_Parliament_Buildings_-_Ottawa,_Ontario.jpg",
+    "file": "File:Model of the Centre Block of Parliament Buildings - Ottawa, Ontario.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "rogers-centre",
@@ -265545,7 +267478,83 @@ window.BUILDINGS = [
   "commons": "Category:Rogers Centre",
   "lead": "File:Rogers Centre, Home of the Toronto Blue Jays.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Rogers_Centre%2C_Home_of_the_Toronto_Blue_Jays.jpg/1280px-Rogers_Centre%2C_Home_of_the_Toronto_Blue_Jays.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 564,
+    "kind": "Exterior",
+    "caption": "Exterior · Rogers Centre, Home of the Toronto Blue Jays",
+    "credit": "MountainSeekerII",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Centre,_Home_of_the_Toronto_Blue_Jays.jpg",
+    "file": "File:Rogers Centre, Home of the Toronto Blue Jays.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Rogers_Centre.jpg/1280px-Rogers_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Rogers Centre at Toronto",
+    "credit": "Fabian Roudra Baroi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Centre.jpg",
+    "file": "File:Rogers Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/CN_Tower_and_the_Rogers_Centre.jpg/1280px-CN_Tower_and_the_Rogers_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A view of CN Tower",
+    "credit": "Maksim Sokolov (maxergon.com)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CN_Tower_and_the_Rogers_Centre.jpg",
+    "file": "File:CN Tower and the Rogers Centre.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/ON_-_Rogers_Centre_Toronto.jpg/1280px-ON_-_Rogers_Centre_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 834,
+    "kind": "Exterior",
+    "caption": "Exterior · Rogers Centre, Toronto",
+    "credit": "Taxiarchos228",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:ON_-_Rogers_Centre_Toronto.jpg",
+    "file": "File:ON - Rogers Centre Toronto.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rogers_Center-restitched.jpg/1280px-Rogers_Center-restitched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/4.webp",
+    "w": 939,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a stitch made from three photos",
+    "credit": "MarcusObal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Center-restitched.jpg",
+    "file": "File:Rogers Center-restitched.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Rogers_Center_%2820734209835%29.jpg/1280px-Rogers_Center_%2820734209835%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rogers-centre/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Hockey Hall of Fame - Toronto, Ontario (Canada)",
+    "credit": "Evan Delshaw",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Center_(20734209835).jpg",
+    "file": "File:Rogers Center (20734209835).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "calgary-city-hall",
@@ -265569,7 +267578,71 @@ window.BUILDINGS = [
   "commons": "Category:Calgary City Hall",
   "lead": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Calgary_City_Hall%2C_Calgary%2C_Alberta%2C_2025-07-14_04.jpg/1280px-Calgary_City_Hall%2C_Calgary%2C_Alberta%2C_2025-07-14_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/calgary-city-hall/thumbs/0.webp",
+    "w": 1211,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Calgary City Hall, Calgary, Alberta, 2025-07-14",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_City_Hall,_Calgary,_Alberta,_2025-07-14_04.jpg",
+    "file": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Calgary_City_Hall%2C_Calgary%2C_Alberta%2C_2025-07-14_08.jpg/1280px-Calgary_City_Hall%2C_Calgary%2C_Alberta%2C_2025-07-14_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/calgary-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Calgary City Hall, Calgary, Alberta, 2025-07-14; keystone with coat of arms and year",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_City_Hall,_Calgary,_Alberta,_2025-07-14_08.jpg",
+    "file": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Calgary_City_Hall.jpg/1280px-Calgary_City_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/calgary-city-hall/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · calgary city hall from across the street",
+    "credit": "Taiwanesetoast888",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_City_Hall.jpg",
+    "file": "File:Calgary City Hall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Calgary_City_Hall_Olympic_Plaza_downtown.jpg/1280px-Calgary_City_Hall_Olympic_Plaza_downtown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/calgary-city-hall/thumbs/3.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Calgary City Hall Olympic Plaza downtown",
+    "credit": "Alberta Authentic",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_City_Hall_Olympic_Plaza_downtown.jpg",
+    "file": "File:Calgary City Hall Olympic Plaza downtown.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Calgary_Police_Officers_and_Firefighters_Tribute_Plaza%2C_Calgary%2C_Alberta%2C_2025-07-14_01.jpg/1280px-Calgary_Police_Officers_and_Firefighters_Tribute_Plaza%2C_Calgary%2C_Alberta%2C_2025-07-14_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/calgary-city-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Calgary Police Officers and Firefighters Tribute Plaza, Calgary, Alberta, 2025-07-14",
+    "credit": "Chris Woodrich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calgary_Police_Officers_and_Firefighters_Tribute_Plaza,_Calgary,_Alberta,_2025-07-14_01.jpg",
+    "file": "File:Calgary Police Officers and Firefighters Tribute Plaza, Calgary, Alberta, 2025-07-14 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "william-g-davis-building",
@@ -265593,7 +267666,83 @@ window.BUILDINGS = [
   "commons": "Category:William G. Davis Building",
   "lead": "File:William G. Davis Building.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/William_G._Davis_Building.jpg/1280px-William_G._Davis_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/william-g-davis-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · William G",
+    "credit": "Sarbjit Bahga",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_G._Davis_Building.jpg",
+    "file": "File:William G. Davis Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/William_G._Davis_Building_2026_%282%29.jpg/1280px-William_G._Davis_Building_2026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/william-g-davis-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · William G",
+    "credit": "Kevin Miller",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:William_G._Davis_Building_2026_(2).jpg",
+    "file": "File:William G. Davis Building 2026 (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/University_of_Toronto_Mississauga_Terrence_Donnelly_Health_Sciences_Complex_2024.jpg/1280px-University_of_Toronto_Mississauga_Terrence_Donnelly_Health_Sciences_Complex_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/william-g-davis-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · University of Toronto Mississauga",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_Mississauga_Terrence_Donnelly_Health_Sciences_Complex_2024.jpg",
+    "file": "File:University of Toronto Mississauga Terrence Donnelly Health Sciences Complex 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/University_of_Toronto_Mississauga_New_Science_Building_2024.jpg/1280px-University_of_Toronto_Mississauga_New_Science_Building_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/william-g-davis-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · University of Toronto Mississauga New Science Building",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_Mississauga_New_Science_Building_2024.jpg",
+    "file": "File:University of Toronto Mississauga New Science Building 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/William_G._Davis_Building_Atrium_2024.jpg/1280px-William_G._Davis_Building_Atrium_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/william-g-davis-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · University of Toronto Mississauga William G",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_G._Davis_Building_Atrium_2024.jpg",
+    "file": "File:William G. Davis Building Atrium 2024.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/University_of_Toronto_at_Mississauga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/william-g-davis-building/thumbs/5.webp",
+    "w": 1247,
+    "h": 772,
+    "kind": "Interior",
+    "caption": "Interior · University of Toronto, Mississauga Campus sikander 20:19, Jun 23, 2005 (UTC)",
+    "credit": "Siqbal  at  English Wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_at_Mississauga.JPG",
+    "file": "File:University of Toronto at Mississauga.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hamilton-city-hall",
@@ -265617,7 +267766,59 @@ window.BUILDINGS = [
   "commons": "Category:Hamilton City Hall",
   "lead": "File:Hamilton City Hall in Hamilton, Ontario, from Commonwealth Square.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamilton_City_Hall_in_Hamilton%2C_Ontario%2C_from_Commonwealth_Square.jpg/1280px-Hamilton_City_Hall_in_Hamilton%2C_Ontario%2C_from_Commonwealth_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hamilton-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 842,
+    "kind": "Interior",
+    "caption": "Interior · Hamilton City Hall, 71 Main Street West, Hamilton, Ontario, viewed from Commonwealth Square",
+    "credit": "User:Saforrest",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamilton_City_Hall_in_Hamilton,_Ontario,_from_Commonwealth_Square.jpg",
+    "file": "File:Hamilton City Hall in Hamilton, Ontario, from Commonwealth Square.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamilton_City_Hall_in_Hamilton%2C_Ontario.jpg/1280px-Hamilton_City_Hall_in_Hamilton%2C_Ontario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hamilton-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 890,
+    "kind": "Interior",
+    "caption": "Interior · Hamilton City Hall, 71 Main Street West, Hamilton, Ontario",
+    "credit": "User:Saforrest",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamilton_City_Hall_in_Hamilton,_Ontario.jpg",
+    "file": "File:Hamilton City Hall in Hamilton, Ontario.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hamilton_City_Hall.JPG/1280px-Hamilton_City_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hamilton-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Hamilton City Hall, Hamilton , Canada",
+    "credit": "Nhl4hamilton   |   Chit-Chat",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamilton_City_Hall.JPG",
+    "file": "File:Hamilton City Hall.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SgroJuly42018Coleman.jpg/1280px-SgroJuly42018Coleman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hamilton-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · 2018 Hamilton, Ontario Mayoral Candidate Vito Sgro registering to run for office at Hamilton City Hall",
+    "credit": "Joey Coleman",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SgroJuly42018Coleman.jpg",
+    "file": "File:SgroJuly42018Coleman.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "plaza-de-las-tres-culturas",
@@ -265641,7 +267842,59 @@ window.BUILDINGS = [
   "commons": "Category:Plaza de las Tres Culturas, Tlatelolco",
   "lead": "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Danzantes_en_la_Plaza_de_las_Tres_Culturas%2C_Tlatelolco.jpg/1280px-Danzantes_en_la_Plaza_de_las_Tres_Culturas%2C_Tlatelolco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plaza-de-las-tres-culturas/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Danzantes en la Plaza de las Tres Culturas, Tlatelolco, Ciudad de México",
+    "credit": "Juan Carlos Fonseca Mata",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Danzantes_en_la_Plaza_de_las_Tres_Culturas,_Tlatelolco.jpg",
+    "file": "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Danzas_prehisp%C3%A1nicas_en_la_Plaza_de_las_Tres_Culturas_-_Nonoalco_Tlatelolco%2C_Ciudad_de_M%C3%A9xico.jpg/1280px-Danzas_prehisp%C3%A1nicas_en_la_Plaza_de_las_Tres_Culturas_-_Nonoalco_Tlatelolco%2C_Ciudad_de_M%C3%A9xico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plaza-de-las-tres-culturas/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Juan Carlos Fonseca Mata",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Danzas_prehisp%C3%A1nicas_en_la_Plaza_de_las_Tres_Culturas_-_Nonoalco_Tlatelolco,_Ciudad_de_M%C3%A9xico.jpg",
+    "file": "File:Danzas prehispánicas en la Plaza de las Tres Culturas - Nonoalco Tlatelolco, Ciudad de México.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Plaza_de_las_Tres_Culturas_y_Edificio_Chihuahua.jpg/1280px-Plaza_de_las_Tres_Culturas_y_Edificio_Chihuahua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plaza-de-las-tres-culturas/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_las_Tres_Culturas_y_Edificio_Chihuahua.jpg",
+    "file": "File:Plaza de las Tres Culturas y Edificio Chihuahua.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Plaza_de_las_Tres_Culturas_-_2.JPG/1280px-Plaza_de_las_Tres_Culturas_-_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plaza-de-las-tres-culturas/thumbs/3.webp",
+    "w": 1280,
+    "h": 859,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "ProtoplasmaKid",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_las_Tres_Culturas_-_2.JPG",
+    "file": "File:Plaza de las Tres Culturas - 2.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "teatro-nacional-de-panama",
@@ -265665,7 +267918,83 @@ window.BUILDINGS = [
   "commons": "Category:National Theatre of Panama",
   "lead": "File:Teatro Nacional de Panamá.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Teatro_Nacional_de_Panam%C3%A1.jpg/1280px-Teatro_Nacional_de_Panam%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/0.webp",
+    "w": 1280,
+    "h": 913,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "ADelBarrioB",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_de_Panam%C3%A1.jpg",
+    "file": "File:Teatro Nacional de Panamá.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Teatro_Nacional_-.jpg/1280px-Teatro_Nacional_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "Joseph vasquez alen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_-.jpg",
+    "file": "File:Teatro Nacional -.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/National_Theater_in_the_Old_Town_of_panama_City.jpg/1280px-National_Theater_in_the_Old_Town_of_panama_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "Gualberto107",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theater_in_the_Old_Town_of_panama_City.jpg",
+    "file": "File:National Theater in the Old Town of panama City.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Balcones_cerca_del_Teatro_Nacional.jpg/1280px-Balcones_cerca_del_Teatro_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "Peppopalomino",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Balcones_cerca_del_Teatro_Nacional.jpg",
+    "file": "File:Balcones cerca del Teatro Nacional.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Teatro_Nacional%2C_foto_4_alexis_gondola.jpg/1280px-Teatro_Nacional%2C_foto_4_alexis_gondola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/4.webp",
+    "w": 870,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "Alexisgondola17",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional,_foto_4_alexis_gondola.jpg",
+    "file": "File:Teatro Nacional, foto 4 alexis gondola.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Teatro_Nacional%2C_foto_4.JPG/1280px-Teatro_Nacional%2C_foto_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/teatro-nacional-de-panama/thumbs/5.webp",
+    "w": 870,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a picture of the panamanian cultural heritage monument with the ID",
+    "credit": "Alexisgondola17",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional,_foto_4.JPG",
+    "file": "File:Teatro Nacional, foto 4.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toronto-reference-library",
@@ -265689,6 +268018,82 @@ window.BUILDINGS = [
   "commons": "Category:Toronto Reference Library",
   "lead": "File:Toronto Reference Library Exterior, July 29 2026.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Toronto_Reference_Library_Exterior%2C_July_29_2026.jpg/1280px-Toronto_Reference_Library_Exterior%2C_July_29_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Exterior view of the Toronto Reference Library along Yonge Street",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_Reference_Library_Exterior,_July_29_2026.jpg",
+    "file": "File:Toronto Reference Library Exterior, July 29 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Toronto_Reference_Library%2C_June_24_2025_%2802%29.jpg/1280px-Toronto_Reference_Library%2C_June_24_2025_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · The Toronto Reference Library located on Yonge Street",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_Reference_Library,_June_24_2025_(02).jpg",
+    "file": "File:Toronto Reference Library, June 24 2025 (02).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Toronto_Reference_Library%2C_October_10_2025.jpg/1280px-Toronto_Reference_Library%2C_October_10_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Front façade of the Toronto Reference Library",
+    "credit": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_Reference_Library,_October_10_2025.jpg",
+    "file": "File:Toronto Reference Library, October 10 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/TorontoReferenceLibrary8.jpg/1280px-TorontoReferenceLibrary8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Raysonho @ Open Grid Scheduler / Grid Engine",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:TorontoReferenceLibrary8.jpg",
+    "file": "File:TorontoReferenceLibrary8.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Toronto_Reference_Library_%2801618%292.jpg/1280px-Toronto_Reference_Library_%2801618%292.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 1308,
+    "kind": "Interior",
+    "caption": "Interior · Toronto Reference Library viewed from the top floor",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_Reference_Library_(01618)2.jpg",
+    "file": "File:Toronto Reference Library (01618)2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Toronto_public_library_atrium.jpg/1280px-Toronto_public_library_atrium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toronto-reference-library/thumbs/5.webp",
+    "w": 968,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Rubenquidam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_public_library_atrium.jpg",
+    "file": "File:Toronto public library atrium.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
