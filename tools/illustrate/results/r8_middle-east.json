@@ -1321,5 +1321,350 @@
    "https://en.wikipedia.org/wiki/Mausoleum_of_Omar_Khayy%C3%A1m"
   ],
   "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description is only a wiki link; identity rests on the article lead."
+ },
+ {
+  "id": "tomb-of-avicenna",
+  "name": "Tomb of Avicenna",
+  "by": "Hooshang Seyhoun",
+  "city": "Hamadan",
+  "cc": "IR",
+  "year": "1954",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Spindle-shaped 28 m tower inspired by the Ziyarid-era Kavus Tower; complex has a library and small museum.",
+  "status": "photo",
+  "commons_category": "Category:Avicenna Mausoleum",
+  "photos": [
+   {
+    "file": "File:1آرامگاه_بوعلی‌سینا.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Avicenna"
+  ],
+  "note": "Photo from the building's own category (file name 'Avicenna mausoleum'); not viewed. Years: infobox 1953, dedicated May 1954. Article's lead image was not retrieved."
+ },
+ {
+  "id": "baghdad-central-station",
+  "name": "Baghdad Central Station",
+  "by": "J. M. Wilson",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1953",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "Domed station designed by a Scot who had assisted Lutyens in New Delhi; four platforms.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:مبنى_محطة_القطار_العالمية_.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baghdad_Central_Station"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description: recent exterior photo of the station. Movement 'Modernism' is a guess (article gives no style); reviewer may prefer another. Built 1948-1953."
+ },
+ {
+  "id": "atarim-square",
+  "name": "Atarim Square",
+  "by": "Yaakov Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1975",
+  "type": "Public space",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Brutalist square built from 1971; lower level holds parking and a gas station.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 45059 Atarim square.JPG",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atarim_Square"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; year is the June 1975 inauguration."
+ },
+ {
+  "id": "hecht-synagogue-jerusalem",
+  "name": "Hecht Synagogue",
+  "by": "Ram Karmi",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1981",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Built of Jerusalem stone with a women's section on the gallery floor, on the Mount Scopus campus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Mount Skopus BW 4.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hecht_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Skopusberg, Hecht Synagoge'."
+ },
+ {
+  "id": "metzudat-zeev",
+  "name": "Metzudat Ze'ev (Beit Jabotinsky)",
+  "by": "Mordechai Ben-Horin",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1963",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "At 60 m it was one of Tel Aviv's tallest buildings on completion; home of the Likud party.",
+  "status": "photo",
+  "commons_category": "Category:Metzudat Ze'ev",
+  "photos": [
+   {
+    "file": "File:Metzudat Ze'ev.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:110271 tel aviv - beit jabotinsky PikiWiki Israel.png",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Metzudat Zeev 20.02.2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metzudat_Ze%27ev"
+  ],
+  "note": "Files from the building's own Commons category; descriptions name Metzudat Ze'ev / Beit Jabotinsky. Wikipedia lead image is only 525px. Ordinary type (office) but a listed brutalist landmark."
+ },
+ {
+  "id": "mivtachim-sanitarium",
+  "name": "Mivtachim Sanitarium (ELMA Arts Complex and Hotel)",
+  "by": "Yaakov Rechter",
+  "city": "Zikhron Ya'akov",
+  "cc": "IL",
+  "year": "1969",
+  "type": "Health",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Brutalist retreat for workers, designed 1966 and completed 1969; later reopened as the ELMA hotel.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Elma Arts Complex and Hotel west2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mivtachim_Sanitarium"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'West view of the Elma Arts Complex and Hotel' (same building)."
+ },
+ {
+  "id": "yachin-house-tel-aviv",
+  "name": "Yachin House",
+  "by": "Arieh Sharon and Benjamin Idelson",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1962",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Exposed concrete"
+  ],
+  "features": "Modernist block of 16 floors built in 1962 and renovated 2002-2003.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beit Yachin P1150072.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yachin_House"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Beit Yachin, Tel Aviv'. Ordinary type (office); listed in Category:Brutalist architecture in Israel."
+ },
+ {
+  "id": "habima-theatre",
+  "name": "Habima Theatre",
+  "by": "Ram Karmi (redesign)",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Double height",
+   "Detail"
+  ],
+  "features": "National theatre of Israel; four auditoriums rebuilt in a redesign that reopened in 2012.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Habima Theatre (8099263575).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Habima Theatre in Tel Aviv (FL62658089).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Habima_Theatre"
+  ],
+  "note": "Files found by Commons search 'Habima Theatre'; titles and descriptions name the theatre. Year = reopening; Karmi is the redesign architect (original building not credited in the article text read). Lead image filename garbled in fetch so not used."
+ },
+ {
+  "id": "heichal-hatarbut-tel-aviv",
+  "name": "Heichal HaTarbut (Charles Bronfman Auditorium)",
+  "by": "Dov Karmi, Ze'ev Rechter and Yaakov Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1957",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Largest concert hall in Tel Aviv; opened October 1957 at Habima Square.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Charles Bronfman Auditorium at Habima Square (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Heichal Hatarbut Tel Aviv.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+  ],
+  "note": "Article title 'Heichal HaTarbut'; Commons search results with titles/descriptions naming the auditorium and Habima Square. Year = opening."
+ },
+ {
+  "id": "great-synagogue-tel-aviv",
+  "name": "Great Synagogue",
+  "by": "Yehuda Magidovitch",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1926",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Light from above",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Art Deco synagogue with a large dome and stained glass windows.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:109567 tel aviv - the great synagogue PikiWiki Israel.png",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:99483 the great synagogue in tel aviv PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Great_Synagogue_(Tel_Aviv)"
+  ],
+  "note": "Commons search 'Great Synagogue Tel Aviv Allenby'; titles/descriptions name it. Article is inconsistent: lead says completed 1926, history section says 1925."
  }
 ]
