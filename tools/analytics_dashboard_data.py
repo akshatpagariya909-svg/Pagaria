@@ -4,7 +4,8 @@ small tables the visitor dashboard reads. Plain reshaping, no calculation beyond
 
     python3 tools/analytics_dashboard_data.py --src <folder with daily.csv + latest.json> --out <folder>
 
-Writes into --out: daily.csv, breakdowns.json, pages.json, opened.json, status.json
+Writes into --out: daily.csv, breakdowns.json, pages.json, status.json
+(Buildings and books opened are rows of breakdowns.json with group 'Opened': a file with no rows cannot be loaded by the dashboard.)
 """
 import argparse, csv, json, os
 
@@ -42,22 +43,19 @@ def main():
         add('Browser', r.get('name') or r['id'], r['count'])
     for r in sec['locations']['stats']:
         add('Country', r.get('name') or r['id'], r['count'])
-    json.dump(rows, open(os.path.join(a.out, 'breakdowns.json'), 'w'), indent=1)
-
-    pages, opened = [], []
+    pages = []
     for h in sec['pages'].get('hits') or []:
         if h.get('event'):
             kind, _, key = h['path'].partition('/')
             if kind in ('building', 'book'):
-                opened.append({'path': h['path'], 'kind': 'Book' if kind == 'book' else 'Building', 'name': h.get('title') or key, 'opens': int(h['count'])})
+                add('Opened', ('Book: ' if kind == 'book' else '') + (h.get('title') or key), h['count'])
         else:
             pages.append({'path': h['path'], 'title': h.get('title') or '', 'visits': int(h['count'])})
     pages.sort(key=lambda r: -r['visits'])
-    opened.sort(key=lambda r: -r['opens'])
+    json.dump(rows, open(os.path.join(a.out, 'breakdowns.json'), 'w'), indent=1)
     json.dump(pages, open(os.path.join(a.out, 'pages.json'), 'w'), indent=1)
-    json.dump(opened, open(os.path.join(a.out, 'opened.json'), 'w'), indent=1)
     json.dump([{'fetched_at': latest['fetched_at'], 'visits_30d': latest.get('visits_30d')}], open(os.path.join(a.out, 'status.json'), 'w'), indent=1)
-    print(f'{len(rows)} breakdown rows, {len(pages)} pages, {len(opened)} opened buildings/books')
+    print(f'{len(rows)} breakdown rows ({sum(1 for r in rows if r["group"] == "Opened")} opened buildings/books), {len(pages)} pages')
 
 
 if __name__ == '__main__':
