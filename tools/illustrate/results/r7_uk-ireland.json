@@ -786,5 +786,397 @@
    "https://commons.wikimedia.org/wiki/Category:Central Plaza, Dublin"
   ],
   "note": ""
+ },
+ {
+  "id": "spire-of-dublin",
+  "name": "Spire of Dublin",
+  "by": "Ian Ritchie Architects",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "2003",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Eight hollow stainless steel cone sections, with two tuned mass dampers inside.",
+  "status": "photo",
+  "commons_category": "Category:The Spire of Dublin",
+  "photos": [
+   {
+    "file": "File:Dublin Spire of Dublin 1.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Dublin Spire of Dublin 2.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Dublin The Spire.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spire_of_Dublin",
+   "https://commons.wikimedia.org/wiki/Category:The Spire of Dublin"
+  ],
+  "note": ""
+ },
+ {
+  "id": "custom-house-dublin",
+  "name": "The Custom House",
+  "by": "James Gandon",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1791",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Four facades with coats of arms and sculpture by Edward Smyth; darker Irish limestone dome.",
+  "status": "photo",
+  "commons_category": "Category:Dublin Custom House",
+  "photos": [
+   {
+    "file": "File:Custom House CF.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2015-9780 - Custom House Dublin.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Custom House (6546133521).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Custom_House",
+   "https://commons.wikimedia.org/wiki/Category:Dublin Custom House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "central-hall-university-of-york",
+  "name": "Central Hall, University of York",
+  "by": "Robert Matthew, Johnson-Marshall & Partners (design by John Speight)",
+  "city": "York",
+  "cc": "GB",
+  "year": "1968",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Landscape"
+  ],
+  "features": "Brutalist examination and lecture hall whose cantilevers let it stand out gently from its surroundings.",
+  "status": "photo",
+  "commons_category": "Category:Central Hall, University of York",
+  "photos": [
+   {
+    "file": "File:Central Hall (University of York).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Central Hall - geograph.org.uk - 8375766.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Hall,_University_of_York",
+   "https://commons.wikimedia.org/wiki/Category:Central_Hall,_University_of_York"
+  ],
+  "note": "Geograph file is 4096px; check it shows the exterior from the lake."
+ },
+ {
+  "id": "golden-lane-estate",
+  "name": "Golden Lane Estate",
+  "by": "Chamberlin, Powell and Bon",
+  "city": "London",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Cluster",
+   "Courtyard"
+  ],
+  "features": "1950s council housing complex with maisonette blocks faced in primary-colour panels and a 16-storey tower.",
+  "status": "photo",
+  "commons_category": "Category:Golden Lane Estate",
+  "photos": [
+   {
+    "file": "File:Golden Lane Estate 2025-06-19.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Golden Lane Estate Basterfield House.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bowater House, Golden Lane Estate, London.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Golden Lane Estate colours.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+   "https://commons.wikimedia.org/wiki/Category:Golden_Lane_Estate"
+  ],
+  "note": "Pick by eye; first completed 1962, first phase 1957."
+ },
+ {
+  "id": "bevin-court",
+  "name": "Bevin Court",
+  "by": "Berthold Lubetkin (Tecton); completed with Francis Skinner and Douglas Carr Bailey",
+  "city": "London",
+  "cc": "GB",
+  "year": "1954",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Circulation",
+   "Detail"
+  ],
+  "features": "Housing block with a constructivist staircase as its social centre and prefabricated floor and wall parts.",
+  "status": "photo",
+  "commons_category": "Category:Bevin Court",
+  "photos": [
+   {
+    "file": "File:Bevin exterior.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Bevin Court (3318001105).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bevin Court - 2025-11-02.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bevin_Court",
+   "https://commons.wikimedia.org/wiki/Category:Bevin_Court"
+  ],
+  "note": ""
+ },
+ {
+  "id": "us-embassy-london-nine-elms",
+  "name": "Embassy of the United States, London (Nine Elms)",
+  "by": "KieranTimberlake",
+  "city": "London",
+  "cc": "GB",
+  "year": "2017",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Water"
+  ],
+  "features": "Crystalline cube with a semi-circular pond on one side, set in extensive public green space.",
+  "status": "photo",
+  "commons_category": "Category:Embassy of the United States in London",
+  "photos": [
+   {
+    "file": "File:Embassy of the United States of America (51793689171).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_London",
+   "https://commons.wikimedia.org/wiki/Category:Embassy_of_the_United_States_in_London"
+  ],
+  "note": "Only one plausible free exterior photo found (category mixes older embassy and unrelated files); verify it shows the Nine Elms building."
+ },
+ {
+  "id": "southwark-tube-station",
+  "name": "Southwark tube station",
+  "by": "Richard MacCormac (MacCormac Jamieson Prichard)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "Jubilee line station whose upper concourse is the centrepiece, with a 40 m glass wall of 660 blue glass pieces.",
+  "status": "photo",
+  "commons_category": "Category:Southwark tube station",
+  "photos": [
+   {
+    "file": "File:Southwark tube station 2026-05-14.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Southwark station entrance, July 2024.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Southwark station building.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southwark_tube_station",
+   "https://commons.wikimedia.org/wiki/Category:Southwark_tube_station"
+  ],
+  "note": ""
+ },
+ {
+  "id": "senate-house-london",
+  "name": "Senate House, London",
+  "by": "Charles Holden",
+  "city": "London",
+  "cc": "GB",
+  "year": "1937",
+  "type": "Education",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Structure as expression"
+  ],
+  "features": "19-floor, 64 m administrative tower of load-bearing brick faced with Portland stone.",
+  "status": "photo",
+  "commons_category": "Category:Senate House, University of London",
+  "photos": [
+   {
+    "file": "File:Exterior of Senate House IMG 1211.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Northern Side of Senate House, Bloomsbury.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Exterior of Senate House IMG 1218.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Senate_House,_London",
+   "https://commons.wikimedia.org/wiki/Category:Senate_House,_University_of_London"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kettles-yard",
+  "name": "Kettle's Yard",
+  "by": "Leslie Martin (1970 extension); Jamie Fobert (2018)",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "1970",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Cottages converted into a house kept as the Edes left it, with a 1970 gallery extension in contrasting modernist style.",
+  "status": "photo",
+  "commons_category": "Category:Kettle's Yard",
+  "photos": [
+   {
+    "file": "File:Kettle's Yard, Cambridge - geograph.org.uk - 5905716.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Kettle's Yard.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:KettlesYard.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kettle's_Yard",
+   "https://commons.wikimedia.org/wiki/Category:Kettle's_Yard"
+  ],
+  "note": "Year is the extension; original house conversion has no year in the article. Check photos show the building not street."
+ },
+ {
+  "id": "surbiton-railway-station",
+  "name": "Surbiton railway station",
+  "by": "James Robb Scott (Southern Railway)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1937",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Circulation",
+   "Detail"
+  ],
+  "features": "Art deco station buildings of 1937 with two island platforms under Southern Railway canopies.",
+  "status": "photo",
+  "commons_category": "Category:Surbiton railway station",
+  "photos": [
+   {
+    "file": "File:2018 at Surbiton station - the main buildings.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Inter-war concrete modern, Surbiton station - geograph.org.uk - 4823484.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Surbiton Railway Station - geograph.org.uk - 4333283.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Surbiton_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Surbiton_railway_station"
+  ],
+  "note": "2018 files are 1366px wide."
  }
 ]
