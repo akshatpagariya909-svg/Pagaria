@@ -23073,5 +23073,1377 @@
   "buildings": [
    "isokon-building"
   ]
+ },
+ {
+  "id": "topophilia-and-topophobia-reflections-on-twentieth-century-h",
+  "title": "Topophilia and Topophobia: Reflections on Twentieth-Century Human Habitat",
+  "by": "Xing Ruan, Paul Hogben",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "Essays on how people have felt about places in the twentieth century.",
+  "tags": [
+   "Theory",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "intimate-metropolis-urban-subjects-in-the-modern-city",
+  "title": "Intimate Metropolis: Urban Subjects in the Modern City",
+  "by": "Vittoria Di Palma, Diana Periton, Marina Lathouri",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Cities",
+  "why": "Essays on private life and the public city in modern times.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "venturi-scott-brown-associates-buildings-and-projects-198619",
+  "title": "Venturi, Scott Brown & Associates: Buildings and Projects 1986–1998",
+  "by": "Stanislaus von Moos",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Monographs",
+  "why": "A survey of the later work of Venturi, Scott Brown and Associates.",
+  "tags": [
+   "Postmodernism",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "hundertwasser-architecture-for-a-more-human-architecture-in",
+  "title": "Hundertwasser Architecture: For a More Human Architecture in Harmony with Nature",
+  "by": "Friedensreich Hundertwasser",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Monographs",
+  "why": "Hundertwasser's buildings and his arguments for a more human architecture.",
+  "tags": [
+   "Organic",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-or-techno-utopia-politics-after-modernism",
+  "title": "Architecture or Techno-Utopia: Politics After Modernism",
+  "by": "Felicity D. Scott",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "Scott on architecture and politics in the 1960s and 1970s.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-urban-housing",
+  "title": "New Urban Housing",
+  "by": "Hilary French",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Cities",
+  "why": "A survey of new urban housing projects.",
+  "tags": [
+   "Housing",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "technology-and-place-sustainable-architecture-and-the-bluepr",
+  "title": "Technology and Place: Sustainable Architecture and the Blueprints of Ecology",
+  "by": "Steven A. Moore",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Theory",
+  "why": "Moore on technology, place and sustainable architecture.",
+  "tags": [
+   "Sustainability",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "minimum",
+  "title": "Minimum",
+  "by": "John Pawson",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Theory",
+  "why": "John Pawson's book on minimal buildings and objects.",
+  "tags": [
+   "Contemporary",
+   "Perception"
+  ],
+  "architects": [
+   "John Pawson"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "mies-van-der-rohe-s-farnsworth-house",
+  "title": "Mies van der Rohe's Farnsworth House",
+  "by": "Paul Clemence",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Monographs",
+  "why": "A photographic study of the Farnsworth House.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [
+   "Mies van der Rohe"
+  ],
+  "buildings": [
+   "farnsworth-house"
+  ]
+ },
+ {
+  "id": "architecture-and-nihilism-on-the-philosophy-of-modern-archit",
+  "title": "Architecture and Nihilism: On the Philosophy of Modern Architecture",
+  "by": "Massimo Cacciari",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Theory",
+  "why": "Cacciari on modern architecture and the philosophy of the metropolis.",
+  "tags": [
+   "Theory",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modern-architecture-18511919",
+  "title": "Modern Architecture 1851–1919",
+  "by": "Kenneth Frampton",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "History",
+  "why": "Frampton's history of modern architecture from 1851 to 1919.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modern-architecture-19201945",
+  "title": "Modern Architecture 1920–1945",
+  "by": "Kenneth Frampton",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "History",
+  "why": "Frampton's history of modern architecture from 1920 to 1945.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-china-architecture",
+  "title": "New China Architecture",
+  "by": "Xing Ruan",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "History",
+  "why": "A survey of new architecture in China.",
+  "tags": [
+   "China",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "integrated-design-in-contemporary-architecture",
+  "title": "Integrated Design in Contemporary Architecture",
+  "by": "Kiel Moe",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Theory",
+  "why": "Moe on integrating energy, structure and form in design.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "constructions",
+  "title": "Constructions",
+  "by": "John Rajchman",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Theory",
+  "why": "Rajchman on philosophy and architecture.",
+  "tags": [
+   "Theory",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "essays-in-architectural-criticism-modern-architecture-and-hi",
+  "title": "Essays in Architectural Criticism: Modern Architecture and Historical Change",
+  "by": "Alan Colquhoun",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "Theory",
+  "why": "Essays on modern architecture and its history by Alan Colquhoun.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "frank-lloyd-wright-versus-america-the-1930s",
+  "title": "Frank Lloyd Wright Versus America: The 1930s",
+  "by": "Donald Leslie Johnson",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "A study of Wright's work and reputation in the 1930s.",
+  "tags": [
+   "Organic",
+   "History"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-richard-rogers",
+  "title": "The Architecture of Richard Rogers",
+  "by": "Deyan Sudjic",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Monographs",
+  "why": "A survey of Richard Rogers's buildings.",
+  "tags": [
+   "High-tech",
+   "Contemporary"
+  ],
+  "architects": [
+   "Richard Rogers"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "eco-tech-sustainable-architecture-and-high-technology",
+  "title": "Eco-Tech: Sustainable Architecture and High Technology",
+  "by": "Catherine Slessor",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Theory",
+  "why": "A survey of high-tech sustainable buildings.",
+  "tags": [
+   "Sustainability",
+   "High-tech"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "city-transformed-urban-architecture-at-the-beginning-of-the",
+  "title": "City Transformed: Urban Architecture at the Beginning of the 21st Century",
+  "by": "Kenneth Powell",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Cities",
+  "why": "A survey of new urban architecture around 2000.",
+  "tags": [
+   "Cities",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "after-the-city",
+  "title": "After the City",
+  "by": "Lars Lerup",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Cities",
+  "why": "Lerup on the sprawling city and how to read it.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "airports-a-century-of-architecture",
+  "title": "Airports: A Century of Architecture",
+  "by": "Hugh Pearman",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "History",
+  "why": "A history of airport architecture.",
+  "tags": [
+   "History",
+   "Structure"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-in-china-henry-k-murphy-s-adaptive-architecture-191",
+  "title": "Building in China: Henry K. Murphy's \"Adaptive Architecture,\" 1914–1935",
+  "by": "Jeffrey W. Cody",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "A study of the American architect Henry Murphy's buildings in China.",
+  "tags": [
+   "China",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "h-h-richardson-complete-architectural-works",
+  "title": "H. H. Richardson: Complete Architectural Works",
+  "by": "Jeffrey Karl Ochsner",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "Monographs",
+  "why": "A catalogue of the buildings of H. H. Richardson.",
+  "tags": [
+   "History",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "india-modern-traditions-of-innovation-in-contemporary-archit",
+  "title": "India Modern: Traditions of Innovation in Contemporary Architecture",
+  "by": "Herbert Ypma",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "India",
+  "why": "A survey of modern Indian architecture and design.",
+  "tags": [
+   "India",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-failure-of-modern-architecture",
+  "title": "The Failure of Modern Architecture",
+  "by": "Brent C. Brolin",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "Theory",
+  "why": "A critique of modern architecture.",
+  "tags": [
+   "Modernism",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "transformations-in-modern-architecture",
+  "title": "Transformations in Modern Architecture",
+  "by": "Arthur Drexler",
+  "year": "1979",
+  "y": 1979,
+  "shelf": "History",
+  "why": "A Museum of Modern Art book on changes in modern architecture.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-tropical-asian-house",
+  "title": "The Tropical Asian House",
+  "by": "Robert Powell",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Monographs",
+  "why": "A survey of houses in tropical Asia.",
+  "tags": [
+   "Tropical",
+   "Southeast Asia"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-thinking",
+  "title": "Design Thinking",
+  "by": "Peter G. Rowe",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "Theory",
+  "why": "Rowe on how architects and urban designers think.",
+  "tags": [
+   "Design",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architectural-uncanny-essays-in-the-modern-unhomely",
+  "title": "The Architectural Uncanny: Essays in the Modern Unhomely",
+  "by": "Anthony Vidler",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Theory",
+  "why": "Vidler's essays on the uncanny in modern architecture.",
+  "tags": [
+   "Theory",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "next-generation-architecture-folds-blobs-and-boxes",
+  "title": "Next Generation Architecture: Folds, Blobs, and Boxes",
+  "by": "Joseph Rosa",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Theory",
+  "why": "A survey of new digital and formal architecture.",
+  "tags": [
+   "Contemporary",
+   "Deconstructivism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "frank-lloyd-wright-architecture-and-space",
+  "title": "Frank Lloyd Wright: Architecture and Space",
+  "by": "Peter Blake",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "Monographs",
+  "why": "A short book on Wright's architecture by Peter Blake.",
+  "tags": [
+   "Organic",
+   "Houses"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "in-the-nature-of-materials-the-buildings-of-frank-lloyd-wrig",
+  "title": "In the Nature of Materials: The Buildings of Frank Lloyd Wright, 1887–1941",
+  "by": "Henry-Russell Hitchcock",
+  "year": "1942",
+  "y": 1942,
+  "shelf": "Monographs",
+  "why": "Hitchcock's survey of Wright's buildings to 1941.",
+  "tags": [
+   "Organic",
+   "Materials"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "team-10-in-search-of-a-utopia-of-the-present-195381",
+  "title": "Team 10: In Search of a Utopia of the Present, 1953–81",
+  "by": "Max Risselada, Dirk van den Heuvel",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "History",
+  "why": "A history of the Team 10 group and its ideas.",
+  "tags": [
+   "Structuralism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "alvar-aalto-a-critical-study",
+  "title": "Alvar Aalto: A Critical Study",
+  "by": "Malcolm Quantrill",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Monographs",
+  "why": "A critical study of Alvar Aalto's work.",
+  "tags": [
+   "Modernism",
+   "Regionalism"
+  ],
+  "architects": [
+   "Alvar Aalto"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "fabricate-making-digital-architecture",
+  "title": "Fabricate: Making Digital Architecture",
+  "by": "Bob Sheil, Ruairi Glynn",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Construction",
+  "why": "A collection of projects on digital fabrication in architecture.",
+  "tags": [
+   "Contemporary",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "urban-design",
+  "title": "Urban Design",
+  "by": "Alex Krieger, William S. Saunders",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Cities",
+  "why": "Essays on the practice of urban design.",
+  "tags": [
+   "Cities",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "friedrich-gilly-essays-on-architecture-17961799",
+  "title": "Friedrich Gilly: Essays on Architecture 1796–1799",
+  "by": "Friedrich Gilly",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Theory",
+  "why": "The essays of the young Prussian architect Friedrich Gilly.",
+  "tags": [
+   "Classicism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "jewish-identity-in-contemporary-architecture",
+  "title": "Jewish Identity in Contemporary Architecture",
+  "by": "Angeli Sachs, Edward van Voolen",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Theory",
+  "why": "A catalogue on Jewish buildings and identity in contemporary architecture.",
+  "tags": [
+   "Religious",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "materials-form-and-architecture",
+  "title": "Materials, Form and Architecture",
+  "by": "Richard Weston",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Construction",
+  "why": "Weston on how materials shape architecture.",
+  "tags": [
+   "Materials",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "louis-i-kahn-complete-work-19351974",
+  "title": "Louis I. Kahn: Complete Work 1935–1974",
+  "by": "Heinz Ronner, Sharad Jhaveri",
+  "year": "1977",
+  "y": 1977,
+  "shelf": "Monographs",
+  "why": "A catalogue of Louis Kahn's complete work.",
+  "tags": [
+   "Modernism",
+   "Light"
+  ],
+  "architects": [
+   "Louis Kahn"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "age-of-the-masters-a-personal-view-of-modern-architecture",
+  "title": "Age of the Masters: A Personal View of Modern Architecture",
+  "by": "Reyner Banham",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "History",
+  "why": "Banham's personal view of the great modern architects.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-the-great-pyramid",
+  "title": "Building the Great Pyramid",
+  "by": "Kevin Jackson, Jonathan Stamp",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "History",
+  "why": "An account of how the Great Pyramid may have been built.",
+  "tags": [
+   "Historic precedent",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "early-christian-and-byzantine-architecture",
+  "title": "Early Christian and Byzantine Architecture",
+  "by": "Richard Krautheimer",
+  "year": "1965",
+  "y": 1965,
+  "shelf": "History",
+  "why": "Krautheimer's history of Early Christian and Byzantine buildings.",
+  "tags": [
+   "Religious",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "age-of-spectacle-adventures-in-architecture-and-the-21st-cen",
+  "title": "Age of Spectacle: Adventures in Architecture and the 21st-Century City",
+  "by": "Tom Dyckhoff",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Cities",
+  "why": "Dyckhoff on spectacle in contemporary architecture.",
+  "tags": [
+   "Cities",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscapes-of-communism-a-history-through-buildings",
+  "title": "Landscapes of Communism: A History Through Buildings",
+  "by": "Owen Hatherley",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "A tour of communist-era buildings and places.",
+  "tags": [
+   "History",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "shadow-makers-a-cultural-history-of-shadows-in-architecture",
+  "title": "Shadow-Makers: A Cultural History of Shadows in Architecture",
+  "by": "Stephen Kite, Adam Sharr",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Theory",
+  "why": "A cultural history of shadow in architecture.",
+  "tags": [
+   "Light",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-theory-volume-i-an-anthology-from-vitruvius-to",
+  "title": "Architectural Theory: Volume I – An Anthology from Vitruvius to 1870",
+  "by": "Harry Francis Mallgrave",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Theory",
+  "why": "An anthology of architectural theory from Vitruvius to 1870.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-third-rome-192243-the-making-of-a-fascist-capital",
+  "title": "The Third Rome, 1922–43: The Making of a Fascist Capital",
+  "by": "Aristotle Kallis",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "A history of Fascist Rome's planning and building.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "women-and-the-making-of-the-modern-house-a-social-and-archit",
+  "title": "Women and the Making of the Modern House: A Social and Architectural History",
+  "by": "Alice T. Friedman",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "History",
+  "why": "A study of women clients and the modern house.",
+  "tags": [
+   "Houses",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sketches-from-japan",
+  "title": "Sketches from Japan",
+  "by": "Francis D. K. Ching",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "Drawing",
+  "why": "Francis Ching's travel sketches of Japan.",
+  "tags": [
+   "Drawing",
+   "Japan"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-and-perceiving-life-drawing-for-students-of-architec",
+  "title": "Drawing and Perceiving: Life Drawing for Students of Architecture and Design",
+  "by": "Douglas Cooper",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Drawing",
+  "why": "A guide to drawing and perception for design students.",
+  "tags": [
+   "Drawing",
+   "Perception"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "leon-krier-houses-palaces-cities",
+  "title": "Léon Krier: Houses, Palaces, Cities",
+  "by": "Léon Krier",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Monographs",
+  "why": "Drawings and writings by Léon Krier.",
+  "tags": [
+   "Classicism",
+   "Cities"
+  ],
+  "architects": [
+   "Léon Krier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "measured-drawing-for-architects",
+  "title": "Measured Drawing for Architects",
+  "by": "Robert Chitham",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "Drawing",
+  "why": "A guide to measured survey and drawing of buildings.",
+  "tags": [
+   "Drawing",
+   "Heritage"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "shades-and-shadows",
+  "title": "Shades and Shadows",
+  "by": "William R. Ware",
+  "year": "1912",
+  "y": 1912,
+  "shelf": "Free to read",
+  "why": "An early textbook on shades and shadows in architectural drawing.",
+  "tags": [
+   "Drawing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "hopkins-the-work-of-michael-hopkins-and-partners",
+  "title": "Hopkins: The Work of Michael Hopkins and Partners",
+  "by": "Colin Davies",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Monographs",
+  "why": "A survey of the work of Michael Hopkins and Partners.",
+  "tags": [
+   "High-tech",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-for-landscape-architecture-sketch-to-screen-to-site",
+  "title": "Drawing for Landscape Architecture: Sketch to Screen to Site",
+  "by": "Edward Hutchison",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Drawing",
+  "why": "A guide to drawing for landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "100-contemporary-architects-drawings-and-sketches",
+  "title": "100 Contemporary Architects: Drawings and Sketches",
+  "by": "Bill Lacy",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "Drawing",
+  "why": "Drawings and sketches by a hundred contemporary architects.",
+  "tags": [
+   "Drawing",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-thinking-confronting-an-electronic-age",
+  "title": "Drawing/Thinking: Confronting an Electronic Age",
+  "by": "Marc Treib",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Drawing",
+  "why": "Essays on drawing as a way of thinking.",
+  "tags": [
+   "Drawing",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-study-of-architectural-design",
+  "title": "The Study of Architectural Design",
+  "by": "John F. Harbeson",
+  "year": "1926",
+  "y": 1926,
+  "shelf": "Essentials",
+  "why": "A classic Beaux-Arts guide to studying architectural design.",
+  "tags": [
+   "Design basics",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architects-handbook",
+  "title": "The Architects' Handbook",
+  "by": "Quentin Pickard",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Essentials",
+  "why": "A handbook of architectural data for designers.",
+  "tags": [
+   "Reference",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-detailing-function-constructibility-aesthetics",
+  "title": "Architectural Detailing: Function, Constructibility, Aesthetics",
+  "by": "Edward Allen, Patrick Rand",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Construction",
+  "why": "A guide to detailing buildings.",
+  "tags": [
+   "Details",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "marion-mahony-griffin-drawing-the-form-of-nature",
+  "title": "Marion Mahony Griffin: Drawing the Form of Nature",
+  "by": "Debora Wood",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Monographs",
+  "why": "A study of the drawings of the architect Marion Mahony Griffin.",
+  "tags": [
+   "Drawing",
+   "Organic"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "digital-workflows-in-architecture-designassemblyindustry",
+  "title": "Digital Workflows in Architecture: Design–Assembly–Industry",
+  "by": "Scott Marble",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Construction",
+  "why": "On digital workflows linking design, assembly and industry.",
+  "tags": [
+   "Contemporary",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "digital-fabrication-in-architecture",
+  "title": "Digital Fabrication in Architecture",
+  "by": "Nick Dunn",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Construction",
+  "why": "A guide to digital fabrication in architecture.",
+  "tags": [
+   "Contemporary",
+   "Materials"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-for-urban-design",
+  "title": "Drawing for Urban Design",
+  "by": "Lorraine Farrelly",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Drawing",
+  "why": "A guide to drawing for urban design.",
+  "tags": [
+   "Drawing",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-of-architectural-illustration",
+  "title": "The Art of Architectural Illustration",
+  "by": "Gordon Grice",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Drawing",
+  "why": "A survey of architectural illustration.",
+  "tags": [
+   "Drawing",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "gamble-house-greene-greene",
+  "title": "Gamble House: Greene & Greene",
+  "by": "Edward R. Bosley",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Monographs",
+  "why": "A study of Greene & Greene's Gamble House.",
+  "tags": [
+   "Houses",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "houses-of-the-hamptons-18801930",
+  "title": "Houses of the Hamptons, 1880–1930",
+  "by": "Gary Lawrance, Anne Surchin",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "History",
+  "why": "A history of the houses of the Hamptons.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "paradise-by-design-the-work-of-bill-bensley",
+  "title": "Paradise by Design: The Work of Bill Bensley",
+  "by": "Bill Bensley",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Monographs",
+  "why": "The hotels and gardens of Bill Bensley in Southeast Asia.",
+  "tags": [
+   "Southeast Asia",
+   "Tropical"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "imagining-the-turkish-house-collective-visions-of-home",
+  "title": "Imagining the Turkish House: Collective Visions of Home",
+  "by": "Carel Bertram",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "History",
+  "why": "A study of the Turkish house as an idea.",
+  "tags": [
+   "Islamic",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bertram-goodhue-his-life-and-residential-architecture",
+  "title": "Bertram Goodhue: His Life and Residential Architecture",
+  "by": "Romy Wyllie",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Monographs",
+  "why": "A study of Bertram Goodhue and his houses.",
+  "tags": [
+   "Gothic",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": [
+   "nebraska-state-capitol"
+  ]
+ },
+ {
+  "id": "the-japanese-house-architecture-and-interiors",
+  "title": "The Japanese House: Architecture and Interiors",
+  "by": "Alexandra Black",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "History",
+  "why": "A survey of Japanese houses and interiors.",
+  "tags": [
+   "Japan",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "yin-yu-tang-the-architecture-and-daily-life-of-a-chinese-hou",
+  "title": "Yin Yu Tang: The Architecture and Daily Life of a Chinese House",
+  "by": "Nancy Berliner",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "History",
+  "why": "A study of an eighteenth-century Chinese house and its family.",
+  "tags": [
+   "China",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "experimental-houses",
+  "title": "Experimental Houses",
+  "by": "Nicolas Pople",
+  "year": "2000",
+  "y": 2000,
+  "shelf": "History",
+  "why": "A survey of experimental houses.",
+  "tags": [
+   "Houses",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "scotland-s-traditional-houses",
+  "title": "Scotland's Traditional Houses",
+  "by": "Elizabeth Beaton",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "History",
+  "why": "A guide to Scotland's traditional houses.",
+  "tags": [
+   "Vernacular",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "houses-architects-live-in",
+  "title": "Houses Architects Live In",
+  "by": "Barbara Plumb",
+  "year": "1977",
+  "y": 1977,
+  "shelf": "History",
+  "why": "A look at the houses architects have built for themselves.",
+  "tags": [
+   "Houses",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "dutch-houses-in-the-hudson-valley-before-1776",
+  "title": "Dutch Houses in the Hudson Valley Before 1776",
+  "by": "Helen Wilkinson Reynolds",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "Free to read",
+  "why": "A survey of Dutch colonial houses in the Hudson Valley.",
+  "tags": [
+   "Houses",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-polite-tourist-four-centuries-of-country-house-visiting",
+  "title": "The Polite Tourist: Four Centuries of Country House Visiting",
+  "by": "Adrian Tinniswood",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "History",
+  "why": "A history of visiting country houses.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-art-deco-house-avant-garde-houses-of-the-1930s",
+  "title": "The Art Deco House: Avant-Garde Houses of the 1930s",
+  "by": "Adrian Tinniswood",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "History",
+  "why": "A survey of 1930s houses in the Art Deco and modern style.",
+  "tags": [
+   "Houses",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "houses-villas-and-palaces-in-the-roman-world",
+  "title": "Houses, Villas, and Palaces in the Roman World",
+  "by": "Alexander G. McKay",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "History",
+  "why": "A survey of Roman domestic architecture.",
+  "tags": [
+   "Historic precedent",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "great-houses-of-ireland",
+  "title": "Great Houses of Ireland",
+  "by": "Hugh Montgomery-Massingberd",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "History",
+  "why": "A survey of Ireland's great houses.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "modernism-and-the-architecture-of-private-life",
+  "title": "Modernism and the Architecture of Private Life",
+  "by": "Victoria Rosner",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Theory",
+  "why": "Rosner on the private home in modernism.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bali-houses-new-indonesian-architecture",
+  "title": "Bali Houses: New Indonesian Architecture",
+  "by": "Gianni Francione",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "History",
+  "why": "A survey of contemporary houses in Bali.",
+  "tags": [
+   "Southeast Asia",
+   "Tropical"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "new-japanese-house-ritual-and-anti-ritual-patterns-of-dwelli",
+  "title": "New Japanese House: Ritual and Anti-Ritual Patterns of Dwelling",
+  "by": "Chris Fawcett",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "History",
+  "why": "Fawcett on patterns of dwelling in Japanese houses.",
+  "tags": [
+   "Japan",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "isms-understanding-architecture",
+  "title": "Isms: Understanding Architecture",
+  "by": "Jeremy Melvin",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Essentials",
+  "why": "A guide to the styles and movements of architecture.",
+  "tags": [
+   "History",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-roman-villa-a-historical-introduction",
+  "title": "The Roman Villa: A Historical Introduction",
+  "by": "John Percival",
+  "year": "1976",
+  "y": 1976,
+  "shelf": "History",
+  "why": "An introduction to the Roman villa.",
+  "tags": [
+   "Historic precedent",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-australian-house-homes-of-the-colonial-era",
+  "title": "The Australian House: Homes of the Colonial Era",
+  "by": "Balwant Saini",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "History",
+  "why": "A history of the Australian colonial house.",
+  "tags": [
+   "Houses",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-last-country-houses",
+  "title": "The Last Country Houses",
+  "by": "Clive Aslet",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "History",
+  "why": "A study of English country houses built after 1890.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "estancias-the-great-houses-and-ranches-of-argentina",
+  "title": "Estancias: The Great Houses and Ranches of Argentina",
+  "by": "María Sáenz Quesada",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "History",
+  "why": "A survey of the estancia houses of Argentina.",
+  "tags": [
+   "Latin America",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
