@@ -893,5 +893,337 @@
    "https://en.wikipedia.org/wiki/Royal_Greenhouses_of_Laeken"
   ],
   "note": ""
+ },
+ {
+  "id": "m-museum-leuven",
+  "name": "M – Museum Leuven",
+  "by": "Stéphane Beel",
+  "city": "Leuven",
+  "cc": "BE",
+  "year": "2009",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Adaptive reuse",
+   "Detail"
+  ],
+  "features": "Beel's design joins historical features and sleek contemporary architecture around a courtyard.",
+  "status": "photo",
+  "commons_category": "Category:M Leuven",
+  "photos": [
+   {
+    "file": "File:20091015 leuven museum1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20091015 leuven museum2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20091017 leuven museumM02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20091017 leuven museumM05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/M_–_Museum_Leuven"
+  ],
+  "note": ""
+ },
+ {
+  "id": "leuven-town-hall",
+  "name": "Leuven Town Hall",
+  "by": "Sulpitius van Vorst, Jan Keldermans II, Matheus de Layens",
+  "city": "Leuven",
+  "cc": "BE",
+  "year": "1469",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Late-Gothic, built 1439-69: lace-like ornament, a steep roof with four tiers of dormers and octagonal corner turrets.",
+  "status": "photo",
+  "commons_category": "Category:Town hall of Leuven",
+  "photos": [
+   {
+    "file": "File:20091015 leuven stadhuis3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20091017 leuven stadhuis01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:42150 - België - Leuven - Stadhuis - 00.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:42150 - België - Leuven - Stadhuis - 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leuven_Town_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "royal-museum-central-africa-tervuren",
+  "name": "Royal Museum for Central Africa (AfricaMuseum)",
+  "by": "Charles Girault (2018 renovation: Stéphane Beel Architects)",
+  "city": "Tervuren",
+  "cc": "BE",
+  "year": "1910",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Landscape"
+  ],
+  "features": "Neoclassical 'palace' reminiscent of the Petit Palais, with large gardens extending into the Tervuren Forest.",
+  "status": "photo",
+  "commons_category": "Category:Royal Museum for Central Africa",
+  "photos": [
+   {
+    "file": "File:AfricaMuseum in Tervuren (Belgium).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Africamuseum Tervuren.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa"
+  ],
+  "note": ""
+ },
+ {
+  "id": "grand-theatre-luxembourg",
+  "name": "Grand Théâtre de Luxembourg",
+  "by": "Alain Bourbonnais",
+  "city": "Luxembourg City",
+  "cc": "LU",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Won by competition in 1958; its distinctive 1960s architecture was kept through the 2002-03 renovation.",
+  "status": "photo",
+  "commons_category": "Category:Grand théâtre de la ville de Luxembourg",
+  "photos": [
+   {
+    "file": "File:Luxembourg, fontaine parvis Grand Théâtre (blurred).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ville de Luxembourg 11.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Luxemburg Grand Theatre 3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Théâtre_de_Luxembourg"
+  ],
+  "note": ""
+ },
+ {
+  "id": "museum-de-fundatie-zwolle",
+  "name": "Museum de Fundatie",
+  "by": "Bierman Henket architecten (extension); Eduard Louis de Coninck (1841 court building)",
+  "city": "Zwolle",
+  "cc": "NL",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Egg-shaped extension on the roof of the neoclassical former Palace of Justice (1838-41).",
+  "status": "photo",
+  "commons_category": "Category:Museum de Fundatie",
+  "photos": [
+   {
+    "file": "File:Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming - Zwolle - View from the tower towards the southeast - De Fundatie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_de_Fundatie"
+  ],
+  "note": "Only one clear exterior (aerial) found in the Commons category."
+ },
+ {
+  "id": "tuschinski-theatre-amsterdam",
+  "name": "Tuschinski Theatre",
+  "by": "Hijman Louis de Jong",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1921",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Façade blends Art Deco, Art Nouveau, Jugendstil and Amsterdam School styles; two towers flank the western front.",
+  "status": "photo",
+  "commons_category": "Category:Tuschinski Theater",
+  "photos": [
+   {
+    "file": "File:Tuschinski Theater-Amsterdam-2025-msu-9137.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Het Tuschinski Theater aan de grotendeels lege Reguliersbreestraat tijdens de coronacrisis (2021) 2.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tuschinski_Theatre",
+   "https://en.wikipedia.org/wiki/Tuschinski_Theater"
+  ],
+  "note": "Architect from the article infobox; the article body does not name him."
+ },
+ {
+  "id": "eye-filmmuseum-amsterdam",
+  "name": "Eye Filmmuseum",
+  "by": "Delugan Meissl Associated Architects",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Building on the IJ waterfront holding two gallery spaces and four cinemas; opened 2012.",
+  "status": "photo",
+  "commons_category": "Category:EYE Film Institute Netherlands",
+  "photos": [
+   {
+    "file": "File:Amsterdam 10.04.2012 - panoramio (11).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:A'DAM Tower and EYE Film Institute Netherlands.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aert van Nes tour boat (ENI 02010878), Holland International, Amsterdam-9210.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/EYE_Institut_Filmmuseum"
+  ],
+  "note": "Photos are distant views across the IJ; all exterior."
+ },
+ {
+  "id": "cauchie-house-brussels",
+  "name": "Cauchie House",
+  "by": "Paul Cauchie",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1905",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Narrow Art Nouveau town house on a 6 m wide plot; the façade is covered in allegorical sgraffito decoration.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bruxelles - Maison Cauchie (2).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cauchie House (DSC 3001).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison Cauchie, Rues des Francs - Franken-straat 5, pic2.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Maison Cauchie (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cauchie_House"
+  ],
+  "note": ""
  }
 ]
