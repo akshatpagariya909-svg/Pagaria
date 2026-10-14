@@ -9,7 +9,7 @@ Each rescue round looks again for photos.
 1. Run `python3 tools/photo_rescue.py due`. If it prints `NOT DUE`, stop there and do nothing else.
 2. Run `python3 tools/photo_rescue.py todo` and open `tools/photo_rescue/todo.json`.
    Never-tried buildings come first.
-3. Take the **first 60**. For each one, search Wikimedia Commons (WebFetch reaches commons.wikimedia.org
+3. Take the **first 60**. Keep the round under about 45 minutes: Commons rate-limits, so pace the queries, and if time runs out, finish with the buildings done so far (the rest stay untried and come first next round). For each one, search Wikimedia Commons (WebFetch reaches commons.wikimedia.org
    and en.wikipedia.org):
    - Check the building's own Commons category and its Wikipedia article's images, in any language.
      Then try a Commons search for its name and city.
