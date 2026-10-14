@@ -19,13 +19,11 @@ def main():
     os.makedirs(a.out, exist_ok=True)
     latest = json.load(open(os.path.join(a.src, 'latest.json')))
     sec = latest['sections']
-    until = latest['fetched_at'][:10]  # never show a day later than the day the numbers were fetched
     with open(os.path.join(a.src, 'daily.csv'), newline='') as f, open(os.path.join(a.out, 'daily.csv'), 'w', newline='') as g:
         w = csv.writer(g)
         w.writerow(['day', 'visits'])
         for r in csv.DictReader(f):
-            if r['day'] <= until:
-                w.writerow([r['day'], r['visits']])
+            w.writerow([r['day'], r['visits']])
 
     rows = []
     def add(group, name, visits):
