@@ -1,5 +1,41 @@
 [
  {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 7, second batch: 155 buildings from the USA, Eastern Europe, Benelux and Southeast Asia",
+  "pr": "34"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 7: about 320 new buildings from the UK, Ireland, France, Italy, the USA, Canada and Mexico",
+  "pr": "33"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Fetch visitor numbers from GoatCounter every day",
+  "pr": "32"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Design",
+  "what": "Find Great Architecture: new name, new type, quieter top bar, map beside the architect",
+  "pr": "30"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Count visitors with GoatCounter",
+  "pr": "25"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Dashboard: today's plan per chat",
+  "pr": "29"
+ },
+ {
   "date": "2026-10-13",
   "workstream": "Data collection",
   "what": "Progress dashboard: the script that feeds it, and how each chat refreshes it",

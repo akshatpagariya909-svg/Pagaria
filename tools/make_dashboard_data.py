@@ -115,7 +115,9 @@ def main():
         last = days[day]
 
     log = []
-    for block in git('log', '--first-parent', 'main', '--merges', '--format=%cI%x1f%s%x1f%b%x1e').split('\x1e'):
+    # the remote's main when there is one: a local main branch is often left behind
+    base = 'origin/main' if subprocess.run(['git', 'rev-parse', '-q', '--verify', 'origin/main'], cwd=ROOT, capture_output=True).returncode == 0 else 'main'
+    for block in git('log', '--first-parent', base, '--merges', '--format=%cI%x1f%s%x1f%b%x1e').split('\x1e'):
         if not block.strip():
             continue
         when, subject, body = (block.strip().split('\x1f') + ['', ''])[:3]
