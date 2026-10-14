@@ -1,20 +1,20 @@
 [
  {
-  "buildings": 3076,
-  "with_photo": 3001,
+  "buildings": 3310,
+  "with_photo": 3235,
   "drawing_cover": 74,
-  "with_links": 2782,
-  "links": 7419,
+  "with_links": 3007,
+  "links": 7804,
   "portraits": 591,
   "with_face": 1670,
-  "pritzker_buildings": 638,
-  "plans": 139,
-  "sections": 49,
-  "sketches": 92,
-  "models": 210,
-  "study_images": 490,
-  "with_study": 392,
+  "pritzker_buildings": 640,
+  "plans": 147,
+  "sections": 57,
+  "sketches": 97,
+  "models": 217,
+  "study_images": 518,
+  "with_study": 414,
   "books": 695,
-  "updated": "2026-10-14T11:34Z"
+  "updated": "2026-10-14T15:06Z"
  }
 ]
