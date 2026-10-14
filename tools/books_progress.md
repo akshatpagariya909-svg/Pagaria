@@ -2,17 +2,17 @@
 
 | | |
 |---|---|
-| Books on the shelf | 1394 |
-| Buildings on the wall with at least one book | 875 of 1603 |
-| Buildings named in a book | 144 |
+| Books on the shelf | 1423 |
+| Buildings on the wall with at least one book | 882 of 1603 |
+| Buildings named in a book | 154 |
 | Architects with a book | 204 |
-| Candidates reviewed | 4920 of 16341 |
+| Candidates reviewed | 5320 of 16341 |
 
 ## By shelf
 
-- Monographs: 284
-- History: 236
-- Theory: 225
+- Monographs: 301
+- History: 245
+- Theory: 228
 - Cities: 156
 - Free to read: 115
 - Construction: 109

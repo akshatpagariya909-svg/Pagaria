@@ -22215,5 +22215,529 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "reframing-the-alhambra-architecture-poetry-textiles-and-cour",
+  "title": "Reframing the Alhambra: Architecture, Poetry, Textiles and Court Ceremonial",
+  "by": "Olga Bush",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "History",
+  "why": "A study of how the Alhambra's architecture, poetry and textiles worked together.",
+  "tags": [
+   "Islamic",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [
+   "alhambra"
+  ]
+ },
+ {
+  "id": "as-found-the-discovery-of-the-ordinary",
+  "title": "As Found: The Discovery of the Ordinary",
+  "by": "Claude Lichtenstein, Thomas Schregenberger",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Theory",
+  "why": "Essays on the 'as found' idea of Alison and Peter Smithson and their circle.",
+  "tags": [
+   "Brutalism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "contribution-a-une-theorie-de-l-architecture",
+  "title": "Contribution à une théorie de l'architecture",
+  "by": "Auguste Perret",
+  "year": "1952",
+  "y": 1952,
+  "shelf": "Theory",
+  "why": "Auguste Perret's statement of his ideas on architecture and construction.",
+  "tags": [
+   "Concrete",
+   "Theory"
+  ],
+  "architects": [
+   "Auguste Perret"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "briefe-eines-architekten",
+  "title": "Briefe eines Architekten",
+  "by": "Erich Mendelsohn",
+  "year": "1961",
+  "y": 1961,
+  "shelf": "Monographs",
+  "why": "Letters from Erich Mendelsohn to his wife, edited by Oskar Beyer.",
+  "tags": [
+   "Expressionism",
+   "Modernism"
+  ],
+  "architects": [
+   "Erich Mendelsohn"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "russland-europa-amerika-ein-architektonischer-querschnitt",
+  "title": "Russland, Europa, Amerika: Ein architektonischer Querschnitt",
+  "by": "Erich Mendelsohn",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "History",
+  "why": "Mendelsohn's travel account and survey of architecture in Russia, Europe and America.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [
+   "Erich Mendelsohn"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "fallingwater-a-frank-lloyd-wright-country-house",
+  "title": "Fallingwater: A Frank Lloyd Wright Country House",
+  "by": "Edgar Kaufmann Jr.",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Monographs",
+  "why": "Edgar Kaufmann Jr.'s account of the house his family commissioned from Wright.",
+  "tags": [
+   "Organic",
+   "Houses"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": [
+   "fallingwater"
+  ]
+ },
+ {
+  "id": "fallingwater-frank-lloyd-wright-s-romance-with-nature",
+  "title": "Fallingwater: Frank Lloyd Wright's Romance with Nature",
+  "by": "Lynda S. Waggoner",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Monographs",
+  "why": "A photographic book on Fallingwater and its setting.",
+  "tags": [
+   "Organic",
+   "Houses"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": [
+   "fallingwater"
+  ]
+ },
+ {
+  "id": "sydney-opera-house-jrn-utzon",
+  "title": "Sydney Opera House: Jørn Utzon",
+  "by": "Philip Drew",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "Monographs",
+  "why": "A Phaidon study of the design and building of the Sydney Opera House.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Jørn Utzon"
+  ],
+  "buildings": [
+   "sydney-opera-house"
+  ]
+ },
+ {
+  "id": "jrn-utzon-and-the-sydney-opera-house",
+  "title": "Jørn Utzon and the Sydney Opera House",
+  "by": "Françoise Fromonot",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Monographs",
+  "why": "A history of the design and building of the Sydney Opera House.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Jørn Utzon"
+  ],
+  "buildings": [
+   "sydney-opera-house"
+  ]
+ },
+ {
+  "id": "guggenheim-museum-bilbao",
+  "title": "Guggenheim Museum Bilbao",
+  "by": "Coosje van Bruggen",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Monographs",
+  "why": "A book on the design and building of Frank Gehry's Bilbao museum.",
+  "tags": [
+   "Deconstructivism",
+   "Museums"
+  ],
+  "architects": [
+   "Frank Gehry"
+  ],
+  "buildings": [
+   "guggenheim-bilbao"
+  ]
+ },
+ {
+  "id": "building-seagram",
+  "title": "Building Seagram",
+  "by": "Phyllis Lambert",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Monographs",
+  "why": "Phyllis Lambert's account of commissioning the Seagram Building.",
+  "tags": [
+   "Modernism",
+   "Skyscrapers"
+  ],
+  "architects": [
+   "Mies van der Rohe"
+  ],
+  "buildings": [
+   "seagram-building"
+  ]
+ },
+ {
+  "id": "the-villa-savoye",
+  "title": "The Villa Savoye",
+  "by": "Jacques Sbriglio",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Monographs",
+  "why": "A study of Le Corbusier's Villa Savoye.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": [
+   "villa-savoye"
+  ]
+ },
+ {
+  "id": "carlo-scarpa-and-castelvecchio",
+  "title": "Carlo Scarpa and Castelvecchio",
+  "by": "Richard Murphy",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "A close study of Carlo Scarpa's work at the Castelvecchio in Verona.",
+  "tags": [
+   "Details",
+   "Museums"
+  ],
+  "architects": [
+   "Carlo Scarpa"
+  ],
+  "buildings": [
+   "castelvecchio-museum"
+  ]
+ },
+ {
+  "id": "the-making-of-beaubourg-a-building-biography-of-the-centre-p",
+  "title": "The Making of Beaubourg: A Building Biography of the Centre Pompidou, Paris",
+  "by": "Nathan Silver",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Monographs",
+  "why": "A history of how the Centre Pompidou was designed and built.",
+  "tags": [
+   "High-tech",
+   "Museums"
+  ],
+  "architects": [
+   "Renzo Piano",
+   "Richard Rogers"
+  ],
+  "buildings": [
+   "centre-pompidou"
+  ]
+ },
+ {
+  "id": "daniel-libeskind-jewish-museum-berlin",
+  "title": "Daniel Libeskind: Jewish Museum Berlin",
+  "by": "Daniel Libeskind",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Monographs",
+  "why": "Libeskind's book on the Jewish Museum Berlin.",
+  "tags": [
+   "Deconstructivism",
+   "Museums"
+  ],
+  "architects": [
+   "Daniel Libeskind"
+  ],
+  "buildings": [
+   "jewish-museum-berlin"
+  ]
+ },
+ {
+  "id": "the-art-museums-of-louis-i-kahn",
+  "title": "The Art Museums of Louis I. Kahn",
+  "by": "Patricia Cummings Loud",
+  "year": "1989",
+  "y": 1989,
+  "shelf": "Monographs",
+  "why": "A study of Kahn's Kimbell Art Museum and Yale Center for British Art.",
+  "tags": [
+   "Modernism",
+   "Light"
+  ],
+  "architects": [
+   "Louis Kahn"
+  ],
+  "buildings": [
+   "kimbell-art-museum",
+   "yale-center-for-british-art"
+  ]
+ },
+ {
+  "id": "villa-mairea-alvar-aalto",
+  "title": "Villa Mairea: Alvar Aalto",
+  "by": "Richard Weston",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Monographs",
+  "why": "A Phaidon study of Aalto's Villa Mairea.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [
+   "Alvar Aalto"
+  ],
+  "buildings": [
+   "villa-mairea"
+  ]
+ },
+ {
+  "id": "frank-lloyd-wright-and-the-johnson-wax-buildings",
+  "title": "Frank Lloyd Wright and the Johnson Wax Buildings",
+  "by": "Jonathan Lipman",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Monographs",
+  "why": "A study of Wright's Johnson Wax Administration Building and Research Tower.",
+  "tags": [
+   "Organic",
+   "Structure"
+  ],
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": [
+   "johnson-wax-headquarters"
+  ]
+ },
+ {
+  "id": "the-eiffel-tower-and-other-mythologies",
+  "title": "The Eiffel Tower and Other Mythologies",
+  "by": "Roland Barthes",
+  "year": "1979",
+  "y": 1979,
+  "shelf": "Theory",
+  "why": "Barthes's essay on the Eiffel Tower, with photographs by André Martin.",
+  "tags": [
+   "Structure",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": [
+   "eiffel-tower"
+  ]
+ },
+ {
+  "id": "the-tallest-tower-eiffel-and-the-belle-epoque",
+  "title": "The Tallest Tower: Eiffel and the Belle Epoque",
+  "by": "Joseph Harriss",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "History",
+  "why": "A history of the building of the Eiffel Tower.",
+  "tags": [
+   "Structure",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "eiffel-tower"
+  ]
+ },
+ {
+  "id": "the-dessau-bauhaus-building-19261999",
+  "title": "The Dessau Bauhaus Building 1926–1999",
+  "by": "Margret Kentgens-Craig",
+  "year": "1998",
+  "y": 1998,
+  "shelf": "Monographs",
+  "why": "A history of Gropius's Bauhaus building at Dessau.",
+  "tags": [
+   "Bauhaus",
+   "Modernism"
+  ],
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": [
+   "bauhaus-dessau"
+  ]
+ },
+ {
+  "id": "sinan-architect-of-suleyman-the-magnificent-and-the-ottoman",
+  "title": "Sinan: Architect of Suleyman the Magnificent and the Ottoman Golden Age",
+  "by": "Arthur Stratton",
+  "year": "1972",
+  "y": 1972,
+  "shelf": "Monographs",
+  "why": "A study of the Ottoman architect Sinan and his mosques.",
+  "tags": [
+   "Islamic",
+   "Historic precedent"
+  ],
+  "architects": [
+   "Mimar Sinan"
+  ],
+  "buildings": [
+   "suleymaniye-mosque",
+   "selimiye-mosque"
+  ]
+ },
+ {
+  "id": "angkor-and-the-khmer-civilization",
+  "title": "Angkor and the Khmer Civilization",
+  "by": "Michael D. Coe",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "History",
+  "why": "A history of the Khmer Empire and Angkor.",
+  "tags": [
+   "Southeast Asia",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [
+   "angkor-wat"
+  ]
+ },
+ {
+  "id": "the-civilization-of-angkor",
+  "title": "The Civilization of Angkor",
+  "by": "Charles Higham",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "An archaeologist's history of Angkor.",
+  "tags": [
+   "Southeast Asia",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [
+   "angkor-wat"
+  ]
+ },
+ {
+  "id": "angkor-heart-of-an-asian-empire",
+  "title": "Angkor: Heart of an Asian Empire",
+  "by": "Bruno Dagens",
+  "year": "1995",
+  "y": 1995,
+  "shelf": "History",
+  "why": "A history and tour of Angkor.",
+  "tags": [
+   "Southeast Asia",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": [
+   "angkor-wat"
+  ]
+ },
+ {
+  "id": "borobudur",
+  "title": "Borobudur",
+  "by": "Jacques Dumarçay",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "History",
+  "why": "A study of the Buddhist monument of Borobudur in Java.",
+  "tags": [
+   "Southeast Asia",
+   "Religious"
+  ],
+  "architects": [],
+  "buildings": [
+   "borobudur"
+  ]
+ },
+ {
+  "id": "the-masons-of-djenne",
+  "title": "The Masons of Djenné",
+  "by": "Trevor H. J. Marchand",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "History",
+  "why": "An anthropologist's study of the masons who build and renew the Great Mosque of Djenné.",
+  "tags": [
+   "Africa",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": [
+   "great-mosque-of-djenne"
+  ]
+ },
+ {
+  "id": "the-chrysler-building-creating-a-new-york-icon-day-by-day",
+  "title": "The Chrysler Building: Creating a New York Icon Day by Day",
+  "by": "David Stravitz",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Monographs",
+  "why": "A day-by-day record of the building of the Chrysler Building.",
+  "tags": [
+   "Skyscrapers",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "chrysler-building"
+  ]
+ },
+ {
+  "id": "the-chicago-tribune-tower-competition-skyscraper-design-and",
+  "title": "The Chicago Tribune Tower Competition: Skyscraper Design and Cultural Change in the 1920s",
+  "by": "Katherine Solomonson",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "A history of the 1922 Chicago Tribune Tower competition.",
+  "tags": [
+   "Skyscrapers",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "tribune-tower"
+  ]
  }
 ]
