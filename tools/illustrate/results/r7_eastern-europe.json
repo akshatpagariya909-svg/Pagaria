@@ -1980,5 +1980,263 @@
    "https://en.wikipedia.org/wiki/Cibona_Tower"
   ],
   "note": ""
+ },
+ {
+  "id": "mehmed-pasa-sokolovic-bridge-visegrad",
+  "name": "Mehmed Paša Sokolović Bridge",
+  "by": "Mimar Sinan",
+  "city": "Višegrad",
+  "cc": "BA",
+  "year": "1577",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Water",
+   "Geometry"
+  ],
+  "features": "179.5 m stone bridge over the Drina, completed 1577 by Sinan for the Grand Vizier Mehmed Paša Sokolović; UNESCO-listed.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Mehmed Paša Sokolović Bridge in Višegrad",
+  "photos": [
+   {
+    "file": "File:2011-04-08 14-23-21 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2011-04-08 13-56-14 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2011-04-08 14-26-16 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mehmed_Paša_Sokolović_Bridge"
+  ],
+  "note": ""
+ },
+ {
+  "id": "croatian-national-theatre-zagreb",
+  "name": "Croatian National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1895",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Landmark theatre with a bright yellow façade by the Viennese firm Fellner & Helmer; built 1894–95.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Croatian National Theater in Zagreb",
+  "photos": [
+   {
+    "file": "File:20130609 in Zagreb 08.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20130609 in Zagreb 14.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chorvatské Národní Divadlo, srpen 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Croatian_National_Theatre_in_Zagreb"
+  ],
+  "note": "Contract signed January 1894; completed by 1 October 1895."
+ },
+ {
+  "id": "ivan-vazov-national-theatre-sofia",
+  "name": "Ivan Vazov National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1906",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Neoclassical theatre by Fellner & Helmer, finished 1906; burned in 1923 and rebuilt in 1929 by Martin Dülfer.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Ivan Vazov National Theatre",
+  "photos": [
+   {
+    "file": "File:Ivan Vazov National Theater, Sofia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivan-Vazov-National-Theatre-Sofia.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivan Vazov National Theatre december.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Vazov_National_Theatre"
+  ],
+  "note": "Opened 3 January 1907; façade is on the 50-lev banknote."
+ },
+ {
+  "id": "peles-castle-sinaia",
+  "name": "Peleș Castle",
+  "by": "Johannes Schultz",
+  "city": "Sinaia",
+  "cc": "RO",
+  "year": "1883",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Neo-Renaissance alpine palace by Johannes Schultz; Karel Liman added the towers in 1893–1914, including the 66 m main tower.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Peleș Castle",
+  "photos": [
+   {
+    "file": "File:\"Castelul Peles\".JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140628 Peleş Castle 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ansamblul Castelului Peleș, oraș Sinaia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peleș_Castle"
+  ],
+  "note": "Completed 1883 for King Carol I."
+ },
+ {
+  "id": "latvian-academy-of-sciences-riga",
+  "name": "Latvian Academy of Sciences",
+  "by": "Osvalds Tīlmanis, Vaidelotis Apsītis, Kārlis Plūksne",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1961",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "108 m Stalin-era skyscraper, the first in Latvia, built 1951–61 and decorated with Latvian folk ornament; a cousin of Moscow State University.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Latvian Academy of Sciences (building)",
+  "photos": [
+   {
+    "file": "File:Academy of Sciences, Latvia, May 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akadēmijas laukums 1, Latvijas zinātņu akadēmija, Rīga, Latvia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Across the Daugava (30003550646).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Latvian_Academy_of_Sciences"
+  ],
+  "note": "Photos 7 and 6 are distant skyline views; photo 5 is a close-up of the tower."
+ },
+ {
+  "id": "olympic-stadium-wroclaw",
+  "name": "Olympic Stadium, Wrocław (Schlesierkampfbahn)",
+  "by": "Richard Konwiarz",
+  "city": "Wrocław",
+  "cc": "PL",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Brick stadium with a clock tower, built 1926–28 as the Silesian Arena; Konwiarz won an art-competition bronze for it in 1932.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Olympic Stadium in Wrocław",
+  "photos": [
+   {
+    "file": "File:598708 Wrocław stadion olimpijski 02.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:598713 Wrocław stadion olimpijski, wieża zegarowa 02.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:598708 Wrocław stadion olimpijski 01.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Stadium_(Wrocław)"
+  ],
+  "note": "Never an Olympic site despite the name; rebuilt after wartime damage."
  }
 ]
