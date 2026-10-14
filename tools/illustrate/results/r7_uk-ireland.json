@@ -2726,5 +2726,405 @@
    "https://commons.wikimedia.org/wiki/Category:Saïd_Business_School"
   ],
   "note": "Wikipedia states no architectural features; features line is minimal; concepts are guesses to verify"
+ },
+ {
+  "id": "weston-library-oxford",
+  "name": "Weston Library",
+  "by": "Giles Gilbert Scott (1940); WilkinsonEyre (2015 interior)",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1940",
+  "type": "Library",
+  "movement": "Art Deco",
+  "concepts": [
+   "Section",
+   "Stone",
+   "Adaptive reuse"
+  ],
+  "features": "Scott's New Bodleian: deep stacks behind elevations no higher than their neighbours; 11-storey bookstack.",
+  "status": "photo",
+  "commons_category": "Category:Weston Library, Oxford",
+  "photos": [
+   {
+    "file": "File:Weston Library Exterior by John Cairns 20.3.15-27.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Weston Library exterior on Broad Street by John Cairns 6.7.15-121.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The Weston Library, Oxford - geograph.org.uk - 3240048.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weston_Library",
+   "https://commons.wikimedia.org/wiki/Category:Weston_Library,_Oxford"
+  ],
+  "note": "Year 1940 is the original building; reopened as Weston 2015. Movement Art Deco from a Commons file title only"
+ },
+ {
+  "id": "beetham-tower-manchester",
+  "name": "Beetham Tower",
+  "by": "SimpsonHaugh and Partners (Ian Simpson)",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "2006",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "One of the thinnest skyscrapers in the world, 10:1 height-to-width ratio; roof-level glass blade.",
+  "status": "photo",
+  "commons_category": "Category:Beetham Tower, Manchester",
+  "photos": [
+   {
+    "file": "File:Beetham Tower (51151660529).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Beetham Tower - geograph.org.uk - 4335103.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Beetham Tower - Manchester - geograph.org.uk - 2070592.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beetham_Tower,_Manchester",
+   "https://commons.wikimedia.org/wiki/Category:Beetham_Tower,_Manchester"
+  ],
+  "note": ""
+ },
+ {
+  "id": "manchester-civil-justice-centre",
+  "name": "Manchester Civil Justice Centre",
+  "by": "Denton Corker Marshall",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "2007",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Cantilevered 'fingers' at each end and a suspended glass wall, the largest in Europe.",
+  "status": "photo",
+  "commons_category": "Category:Manchester Civil Justice Centre",
+  "photos": [
+   {
+    "file": "File:Civil Justice Centre 2014.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Civil Justice Centre glass facade.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Manchester Civil Justice Centre - geograph.org.uk - 4979931.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_Civil_Justice_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Manchester_Civil_Justice_Centre"
+  ],
+  "note": ""
+ },
+ {
+  "id": "royal-liver-building",
+  "name": "Royal Liver Building",
+  "by": "Walter Aubrey Thomas",
+  "city": "Liverpool",
+  "cc": "GB",
+  "year": "1911",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Crowned by a pair of clock towers; an early reinforced-concrete building.",
+  "status": "photo",
+  "commons_category": "Category:Royal Liver Building",
+  "photos": [
+   {
+    "file": "File:2013- The Royal Liver Building, Liverpool, England, UK ( Ank Kumar ) 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Liver building from across river with ship in foreground.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Iconic Royal Liver Building.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Liver_Building",
+   "https://commons.wikimedia.org/wiki/Category:Royal_Liver_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "the-iron-bridge",
+  "name": "The Iron Bridge",
+  "by": "Thomas Farnolls Pritchard",
+  "city": "Ironbridge, Shropshire",
+  "cc": "GB",
+  "year": "1779",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Section",
+   "Detail"
+  ],
+  "features": "First major bridge in the world made of cast iron; five cast-iron ribs, 100 ft 6 in span.",
+  "status": "photo",
+  "commons_category": "Category:The Iron Bridge",
+  "photos": [
+   {
+    "file": "File:Cropped in of The Iron Bridge in 2014.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Iron Bridge (28956231660).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bridge of Iron - geograph.org.uk - 2514868.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Iron_Bridge",
+   "https://commons.wikimedia.org/wiki/Category:The_Iron_Bridge"
+  ],
+  "note": ""
+ },
+ {
+  "id": "red-house-bexleyheath",
+  "name": "Red House",
+  "by": "Philip Webb and William Morris",
+  "city": "London",
+  "cc": "GB",
+  "year": "1860",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "L-shaped plan with a high-pitched red tile roof; windows placed to suit the rooms, not symmetry.",
+  "status": "photo",
+  "commons_category": "Category:Red House, Bexleyheath",
+  "photos": [
+   {
+    "file": "File:Philip Webb's Red House in Upton.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:1064203 II RED HOUSE, RED HOUSE LANE, E side Bexley London 20250612 0001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:1064203 II RED HOUSE, RED HOUSE LANE, E side Bexley London 20250612 0002.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_House,_Bexleyheath",
+   "https://commons.wikimedia.org/wiki/Category:Red_House,_Bexleyheath"
+  ],
+  "note": "infobox says 1859, text says completed 1860"
+ },
+ {
+  "id": "wollaton-hall",
+  "name": "Wollaton Hall",
+  "by": "Robert Smythson (attributed)",
+  "city": "Nottingham",
+  "cc": "GB",
+  "year": "1588",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Elizabethan prodigy house with exuberant decoration, built around a central three-storey hall.",
+  "status": "photo",
+  "commons_category": "Category:Wollaton Hall",
+  "photos": [
+   {
+    "file": "File:A view of Wollaton Hall west front from the south-west, Nottingham, England.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:A view of Wollaton Hall west front, Nottingham, England.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Front of Wollaton Hall, Nottingham.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wollaton_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Wollaton_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "our-dynamic-earth-edinburgh",
+  "name": "Dynamic Earth",
+  "by": "Michael Hopkins and Partners",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Tensile structure",
+   "Adaptive reuse",
+   "Structure as expression"
+  ],
+  "features": "Steel mast-supported membrane over a steel skeleton; keeps the old Abbey Brewery wall.",
+  "status": "photo",
+  "commons_category": "Category:Our Dynamic Earth",
+  "photos": [
+   {
+    "file": "File:Centre Our Dynamic Earth Édimbourg 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Edinburgh , Dynamic Earth - geograph.org.uk - 4960196.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Dynamic Earth Centre 1 (4530928275).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dynamic_Earth_(Edinburgh)",
+   "https://commons.wikimedia.org/wiki/Category:Our_Dynamic_Earth"
+  ],
+  "note": ""
+ },
+ {
+  "id": "glasgow-university-library",
+  "name": "Glasgow University Library",
+  "by": "William Whitfield",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "1968",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Brutalist, clad in precast concrete flint-aggregate panels; towers recall San Gimignano.",
+  "status": "photo",
+  "commons_category": "Category:Glasgow University Library",
+  "photos": [
+   {
+    "file": "File:Glasgow University Library, Scotland, UK.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Glasgow University, Library, Glasgow, Scotland, UK.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:The Library, University of Glasgow - geograph.org.uk - 3459632.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glasgow_University_Library",
+   "https://commons.wikimedia.org/wiki/Category:Glasgow_University_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "queens-cross-church-glasgow",
+  "name": "Queen's Cross Church",
+  "by": "Charles Rennie Mackintosh",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "1899",
+  "type": "Religious",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Vault"
+  ],
+  "features": "Timber-lined barrel-vaulted nave roof; pulpit carved in Mackintosh designs.",
+  "status": "photo",
+  "commons_category": "Category:Queen's Cross Church, Glasgow",
+  "photos": [
+   {
+    "file": "File:Glasgow City - Queen's Cross Church - 2026-09-08 05-39-19 001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Glasgow, Queen's Cross Church - geograph.org.uk - 3334277.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Queen's Cross Church Glasgow (37290206716).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queen's_Cross_Church,_Glasgow",
+   "https://commons.wikimedia.org/wiki/Category:Queen's_Cross_Church,_Glasgow"
+  ],
+  "note": ""
  }
 ]
