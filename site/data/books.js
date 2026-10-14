@@ -30976,16 +30976,16 @@ window.BOOKS = [
   "buildings": [
    "sydney-opera-house"
   ],
-  "ol": "OL2478156W",
-  "isbn": "9780714832975",
-  "olYear": 1995,
   "cover": {
    "thumb": "images/books/sydney-opera-house-jrn-utzon.webp",
    "src": "https://covers.openlibrary.org/b/id/8494295-L.jpg",
    "w": 500,
    "h": 375,
    "source": "https://openlibrary.org/works/OL2478156W"
-  }
+  },
+  "ol": "OL2478156W",
+  "isbn": "9780714832975",
+  "olYear": 1995
  },
  {
   "id": "jrn-utzon-and-the-sydney-opera-house",
@@ -31005,16 +31005,16 @@ window.BOOKS = [
   "buildings": [
    "sydney-opera-house"
   ],
-  "ol": "OL19255821W",
-  "isbn": "9783927258723",
-  "olYear": 1998,
   "cover": {
    "thumb": "images/books/jrn-utzon-and-the-sydney-opera-house.webp",
    "src": "https://covers.openlibrary.org/b/isbn/9783927258723-L.jpg",
    "w": 364,
    "h": 475,
    "source": "https://openlibrary.org/works/OL19255821W"
-  }
+  },
+  "ol": "OL19255821W",
+  "isbn": "9783927258723",
+  "olYear": 1998
  },
  {
   "id": "guggenheim-museum-bilbao",
@@ -31053,16 +31053,16 @@ window.BOOKS = [
   "buildings": [
    "seagram-building"
   ],
-  "ol": "OL17575278W",
-  "isbn": "9780300167672",
-  "olYear": 2013,
   "cover": {
    "thumb": "images/books/building-seagram.webp",
    "src": "https://covers.openlibrary.org/b/id/7851528-L.jpg",
    "w": 280,
    "h": 400,
    "source": "https://openlibrary.org/works/OL17575278W"
-  }
+  },
+  "ol": "OL17575278W",
+  "isbn": "9780300167672",
+  "olYear": 2013
  },
  {
   "id": "the-villa-savoye",
@@ -31101,16 +31101,16 @@ window.BOOKS = [
   "buildings": [
    "castelvecchio-museum"
   ],
-  "ol": "OL4788406W",
-  "isbn": "9788877430687",
-  "olYear": 1990,
   "cover": {
    "thumb": "images/books/carlo-scarpa-and-castelvecchio.webp",
    "src": "https://covers.openlibrary.org/b/id/13060431-L.jpg",
    "w": 388,
    "h": 500,
    "source": "https://openlibrary.org/works/OL4788406W"
-  }
+  },
+  "ol": "OL4788406W",
+  "isbn": "9788877430687",
+  "olYear": 1990
  },
  {
   "id": "the-making-of-beaubourg-a-building-biography-of-the-centre-p",
@@ -31170,16 +31170,16 @@ window.BOOKS = [
    "kimbell-art-museum",
    "yale-center-for-british-art"
   ],
-  "ol": "OL4806466W",
-  "isbn": "9780822309895",
-  "olYear": 1989,
   "cover": {
    "thumb": "images/books/the-art-museums-of-louis-i-kahn.webp",
    "src": "https://covers.openlibrary.org/b/id/4096862-L.jpg",
    "w": 128,
    "h": 166,
    "source": "https://openlibrary.org/works/OL4806466W"
-  }
+  },
+  "ol": "OL4806466W",
+  "isbn": "9780822309895",
+  "olYear": 1989
  },
  {
   "id": "villa-mairea-alvar-aalto",
@@ -31199,16 +31199,16 @@ window.BOOKS = [
   "buildings": [
    "villa-mairea"
   ],
-  "ol": "OL3166763W",
-  "isbn": "0714842168",
-  "olYear": 2002,
   "cover": {
    "thumb": "images/books/villa-mairea-alvar-aalto.webp",
    "src": "https://covers.openlibrary.org/b/id/453967-L.jpg",
    "w": 180,
    "h": 180,
    "source": "https://openlibrary.org/works/OL3166763W"
-  }
+  },
+  "ol": "OL3166763W",
+  "isbn": "0714842168",
+  "olYear": 2002
  },
  {
   "id": "frank-lloyd-wright-and-the-johnson-wax-buildings",
@@ -31228,16 +31228,16 @@ window.BOOKS = [
   "buildings": [
    "johnson-wax-headquarters"
   ],
-  "ol": "OL4301942W",
-  "isbn": "9780486427485",
-  "olYear": 1986,
   "cover": {
    "thumb": "images/books/frank-lloyd-wright-and-the-johnson-wax-buildings.webp",
    "src": "https://covers.openlibrary.org/b/id/4766502-L.jpg",
    "w": 128,
    "h": 152,
    "source": "https://openlibrary.org/works/OL4301942W"
-  }
+  },
+  "ol": "OL4301942W",
+  "isbn": "9780486427485",
+  "olYear": 1986
  },
  {
   "id": "the-eiffel-tower-and-other-mythologies",
@@ -31291,16 +31291,16 @@ window.BOOKS = [
   "buildings": [
    "bauhaus-dessau"
   ],
-  "ol": "OL9093489W",
-  "isbn": "9783764352905",
-  "olYear": 1998,
   "cover": {
    "thumb": "images/books/the-dessau-bauhaus-building-19261999.webp",
    "src": "https://covers.openlibrary.org/b/id/1024232-L.jpg",
    "w": 417,
    "h": 475,
    "source": "https://openlibrary.org/works/OL9093489W"
-  }
+  },
+  "ol": "OL9093489W",
+  "isbn": "9783764352905",
+  "olYear": 1998
  },
  {
   "id": "sinan-architect-of-suleyman-the-magnificent-and-the-ottoman",
@@ -31338,16 +31338,16 @@ window.BOOKS = [
   "buildings": [
    "angkor-wat"
   ],
-  "ol": "OL526725W",
-  "isbn": "0500052107",
-  "olYear": 2003,
   "cover": {
    "thumb": "images/books/angkor-and-the-khmer-civilization.webp",
    "src": "https://covers.openlibrary.org/b/id/316825-L.jpg",
    "w": 319,
    "h": 475,
    "source": "https://openlibrary.org/works/OL526725W"
-  }
+  },
+  "ol": "OL526725W",
+  "isbn": "0500052107",
+  "olYear": 2003
  },
  {
   "id": "the-civilization-of-angkor",
@@ -31365,16 +31365,16 @@ window.BOOKS = [
   "buildings": [
    "angkor-wat"
   ],
-  "ol": "OL2308209W",
-  "isbn": "0297824570",
-  "olYear": 2001,
   "cover": {
    "thumb": "images/books/the-civilization-of-angkor.webp",
    "src": "https://covers.openlibrary.org/b/id/327309-L.jpg",
    "w": 338,
    "h": 475,
    "source": "https://openlibrary.org/works/OL2308209W"
-  }
+  },
+  "ol": "OL2308209W",
+  "isbn": "0297824570",
+  "olYear": 2001
  },
  {
   "id": "angkor-heart-of-an-asian-empire",
@@ -31392,16 +31392,16 @@ window.BOOKS = [
   "buildings": [
    "angkor-wat"
   ],
-  "ol": "OL3543617W",
-  "isbn": "0810928019",
-  "olYear": 1995,
   "cover": {
    "thumb": "images/books/angkor-heart-of-an-asian-empire.webp",
    "src": "https://covers.openlibrary.org/b/id/596233-L.jpg",
    "w": 320,
    "h": 475,
    "source": "https://openlibrary.org/works/OL3543617W"
-  }
+  },
+  "ol": "OL3543617W",
+  "isbn": "0810928019",
+  "olYear": 1995
  },
  {
   "id": "borobudur",
@@ -31419,16 +31419,16 @@ window.BOOKS = [
   "buildings": [
    "borobudur"
   ],
-  "ol": "OL2675135W",
-  "isbn": "0195885503",
-  "olYear": 1978,
   "cover": {
    "thumb": "images/books/borobudur.webp",
    "src": "https://covers.openlibrary.org/b/id/4442571-L.jpg",
    "w": 128,
    "h": 194,
    "source": "https://openlibrary.org/works/OL2675135W"
-  }
+  },
+  "ol": "OL2675135W",
+  "isbn": "0195885503",
+  "olYear": 1978
  },
  {
   "id": "the-masons-of-djenne",
@@ -31480,5 +31480,399 @@ window.BOOKS = [
   "buildings": [
    "tribune-tower"
   ]
+ },
+ {
+  "id": "die-grostadt-eine-studie-uber-diese",
+  "title": "Die Großstadt: Eine Studie über diese",
+  "by": "Otto Wagner",
+  "year": "1911",
+  "y": 1911,
+  "shelf": "Manifestos",
+  "why": "Otto Wagner's study of the modern metropolis and how it should grow.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [
+   "Otto Wagner"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "einige-skizzen-projekte-und-ausgefuhrte-bauwerke",
+  "title": "Einige Skizzen, Projekte und ausgeführte Bauwerke",
+  "by": "Otto Wagner",
+  "year": "1892",
+  "y": 1892,
+  "shelf": "Drawing",
+  "why": "Otto Wagner's folio of sketches, projects and built works.",
+  "tags": [
+   "Drawing",
+   "Art Nouveau"
+  ],
+  "architects": [
+   "Otto Wagner"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "kunstgewerbliche-laienpredigten",
+  "title": "Kunstgewerbliche Laienpredigten",
+  "by": "Henry van de Velde",
+  "year": "1902",
+  "y": 1902,
+  "shelf": "Manifestos",
+  "why": "Henry van de Velde's lay sermons on the applied arts and the new style.",
+  "tags": [
+   "Art Nouveau",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "die-drei-sunden-wider-die-schonheit",
+  "title": "Die drei Sünden wider die Schönheit",
+  "by": "Henry van de Velde",
+  "year": "1918",
+  "y": 1918,
+  "shelf": "Manifestos",
+  "why": "Van de Velde's essay on three sins against beauty.",
+  "tags": [
+   "Art Nouveau",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bruno-taut-18801938",
+  "title": "Bruno Taut 1880–1938",
+  "by": "Kurt Junghanns",
+  "year": "1970",
+  "y": 1970,
+  "shelf": "Monographs",
+  "why": "A monograph on Bruno Taut's architecture and housing.",
+  "tags": [
+   "Expressionism",
+   "Housing"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": [],
+  "ol": "OL2300572W",
+  "isbn": "3363006748",
+  "olYear": 1970,
+  "cover": {
+   "thumb": "images/books/bruno-taut-18801938.webp",
+   "src": "https://covers.openlibrary.org/b/isbn/3363006748-L.jpg",
+   "w": 373,
+   "h": 475,
+   "source": "https://openlibrary.org/works/OL2300572W"
+  }
+ },
+ {
+  "id": "grundlinien-der-architektur-japans",
+  "title": "Grundlinien der Architektur Japans",
+  "by": "Bruno Taut",
+  "year": "1936",
+  "y": 1936,
+  "shelf": "History",
+  "why": "Taut's outline of Japanese architecture.",
+  "tags": [
+   "Japan",
+   "Historic precedent"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "ex-oriente-lux",
+  "title": "Ex Oriente Lux",
+  "by": "Bruno Taut",
+  "year": "1919",
+  "y": 1919,
+  "shelf": "Manifestos",
+  "why": "An essay by Bruno Taut calling for a new architecture inspired by the East.",
+  "tags": [
+   "Expressionism",
+   "Theory"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "architekturlehre",
+  "title": "Architekturlehre",
+  "by": "Bruno Taut",
+  "year": "1938",
+  "y": 1938,
+  "shelf": "Theory",
+  "why": "Bruno Taut's lectures on the principles of architecture.",
+  "tags": [
+   "Theory",
+   "Design basics"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "scienza-o-arte-del-costruire",
+  "title": "Scienza o arte del costruire?",
+  "by": "Pier Luigi Nervi",
+  "year": "1945",
+  "y": 1945,
+  "shelf": "Construction",
+  "why": "Nervi's essay asking whether building is a science or an art.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Pier Luigi Nervi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "samtliche-schriften",
+  "title": "Sämtliche Schriften",
+  "by": "Adolf Loos",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Manifestos",
+  "why": "The collected writings of Adolf Loos.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "ins-leere-gesprochen",
+  "title": "Ins Leere gesprochen",
+  "by": "Adolf Loos",
+  "year": "1921",
+  "y": 1921,
+  "shelf": "Manifestos",
+  "why": "Loos's early essays against ornament and for modern living, written in 1897–1900.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": [],
+  "ol": "OL824441W",
+  "isbn": "9783853670361",
+  "olYear": 1921,
+  "cover": {
+   "thumb": "images/books/ins-leere-gesprochen.webp",
+   "src": "https://covers.openlibrary.org/b/id/1032919-L.jpg",
+   "w": 302,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL824441W"
+  }
+ },
+ {
+  "id": "trotzdem",
+  "title": "Trotzdem",
+  "by": "Adolf Loos",
+  "year": "1931",
+  "y": 1931,
+  "shelf": "Manifestos",
+  "why": "Loos's essays of 1900–1930, including Ornament and Crime.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": [],
+  "ol": "OL824442W",
+  "isbn": "9783853670378",
+  "olYear": 1982,
+  "cover": {
+   "thumb": "images/books/trotzdem.webp",
+   "src": "https://covers.openlibrary.org/b/id/4241585-L.jpg",
+   "w": 128,
+   "h": 205,
+   "source": "https://openlibrary.org/works/OL824442W"
+  }
+ },
+ {
+  "id": "espacio-y-vida",
+  "title": "Espacio y vida",
+  "by": "Ricardo Bofill",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "Ricardo Bofill on his architecture and city projects.",
+  "tags": [
+   "Postmodernism",
+   "Housing"
+  ],
+  "architects": [
+   "Ricardo Bofill"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "apollo-in-der-demokratie",
+  "title": "Apollo in der Demokratie",
+  "by": "Walter Gropius",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Theory",
+  "why": "Walter Gropius's essays on architecture and society in a democracy.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "tempos-de-grossura-o-design-no-impasse",
+  "title": "Tempos de grossura: o design no impasse",
+  "by": "Lina Bo Bardi",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Theory",
+  "why": "Lina Bo Bardi's essays on design in Brazil.",
+  "tags": [
+   "Latin America",
+   "Design"
+  ],
+  "architects": [
+   "Lina Bo Bardi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "voir-ecrire",
+  "title": "Voir, écrire",
+  "by": "Christian de Portzamparc",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Theory",
+  "why": "Christian de Portzamparc on seeing and writing about architecture.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-ludwig-wittgenstein-a-documentation",
+  "title": "The Architecture of Ludwig Wittgenstein: A Documentation",
+  "by": "Bernhard Leitner",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Monographs",
+  "why": "A documentation of the house Ludwig Wittgenstein designed in Vienna.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "wittgenstein-house"
+  ],
+  "ol": "OL5922720W",
+  "isbn": "0814749682",
+  "olYear": 1973,
+  "cover": {
+   "thumb": "images/books/the-architecture-of-ludwig-wittgenstein-a-documentation.webp",
+   "src": "https://covers.openlibrary.org/b/id/4872042-L.jpg",
+   "w": 128,
+   "h": 171,
+   "source": "https://openlibrary.org/works/OL5922720W"
+  }
+ },
+ {
+  "id": "ludwig-wittgenstein-architect",
+  "title": "Ludwig Wittgenstein, Architect",
+  "by": "Paul Wijdeveld",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Monographs",
+  "why": "A study of Wittgenstein's house for his sister in Vienna.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "wittgenstein-house"
+  ],
+  "ol": "OL3927780W",
+  "isbn": "050034129X",
+  "olYear": 1994,
+  "cover": {
+   "thumb": "images/books/ludwig-wittgenstein-architect.webp",
+   "src": "https://covers.openlibrary.org/b/id/8147298-L.jpg",
+   "w": 260,
+   "h": 330,
+   "source": "https://openlibrary.org/works/OL3927780W"
+  }
+ },
+ {
+  "id": "phoenix-at-coventry-the-building-of-a-cathedral",
+  "title": "Phoenix at Coventry: The Building of a Cathedral",
+  "by": "Basil Spence",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Monographs",
+  "why": "Basil Spence's own account of building Coventry Cathedral.",
+  "tags": [
+   "Religious",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": [
+   "coventry-cathedral"
+  ]
+ },
+ {
+  "id": "isokon-and-the-bauhaus-in-britain",
+  "title": "Isokon and the Bauhaus in Britain",
+  "by": "Leyla Daybelge, Magnus Englund",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "History",
+  "why": "A history of the Isokon building in London and its Bauhaus link.",
+  "tags": [
+   "Modernism",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": [
+   "isokon-building"
+  ],
+  "ol": "OL21195238W",
+  "isbn": "1849945985",
+  "olYear": 2019,
+  "cover": {
+   "thumb": "images/books/isokon-and-the-bauhaus-in-britain.webp",
+   "src": "https://covers.openlibrary.org/b/id/13885055-L.jpg",
+   "w": 384,
+   "h": 500,
+   "source": "https://openlibrary.org/works/OL21195238W"
+  }
  }
 ];

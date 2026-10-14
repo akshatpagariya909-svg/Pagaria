@@ -1,6 +1,6 @@
 # Books report
 
-882 of 1423 books have a cover.
+888 of 1443 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -535,28 +535,36 @@
 | Russland, Europa, Amerika: Ein architektonischer Querschnitt (Erich Mendelsohn) | no result by this author with this title among 2 results |
 | Fallingwater: A Frank Lloyd Wright Country House (Edgar Kaufmann Jr.) | no result by this author with this title among 11 results |
 | Fallingwater: Frank Lloyd Wright's Romance with Nature (Lynda S. Waggoner) | no result by this author with this title among 10 results |
-| Sydney Opera House: Jørn Utzon (Philip Drew) | id 8494295 (loose title match: "Sydney Opera House") |
-| Jørn Utzon and the Sydney Opera House (Françoise Fromonot) | isbn 9783927258723 (loose title match: "Jorn Utzon : the Sydney Opera House") |
 | Guggenheim Museum Bilbao (Coosje van Bruggen) | no result by this author with this title among 9 results |
-| Building Seagram (Phyllis Lambert) | id 7851528 |
 | The Villa Savoye (Jacques Sbriglio) | 1 matching results, none with a cover |
-| Carlo Scarpa and Castelvecchio (Richard Murphy) | id 13060431 (loose title match: "Carlo Scarpa and the Castelvecchio") |
 | The Making of Beaubourg: A Building Biography of the Centre Pompidou, Paris (Nathan Silver) | no result by this author with this title among 1 results |
 | Daniel Libeskind: Jewish Museum Berlin (Daniel Libeskind) | no result by this author with this title among 20 results |
-| The Art Museums of Louis I. Kahn (Patricia Cummings Loud) | id 4096862 |
-| Villa Mairea: Alvar Aalto (Richard Weston) | id 453967 |
-| Frank Lloyd Wright and the Johnson Wax Buildings (Jonathan Lipman) | id 4766502 |
 | The Eiffel Tower and Other Mythologies (Roland Barthes) | 5 matching results, none with a cover |
 | The Tallest Tower: Eiffel and the Belle Epoque (Joseph Harriss) | no result by this author with this title among 6 results |
-| The Dessau Bauhaus Building 1926–1999 (Margret Kentgens-Craig) | id 1024232 (loose title match: "The Dessau Bauhaus Building 1926-1999") |
 | Sinan: Architect of Suleyman the Magnificent and the Ottoman Golden Age (Arthur Stratton) | no result by this author with this title among 10 results |
-| Angkor and the Khmer Civilization (Michael D. Coe) | id 316825 (loose title match: "Angkor and the Khmer Civilization (Ancient Peoples and Places)") |
-| The Civilization of Angkor (Charles Higham) | id 327309 |
-| Angkor: Heart of an Asian Empire (Bruno Dagens) | id 596233 |
-| Borobudur (Jacques Dumarçay) | id 4442571 |
 | The Masons of Djenné (Trevor H. J. Marchand) | 1 matching results, none with a cover |
 | The Chrysler Building: Creating a New York Icon Day by Day (David Stravitz) | no result by this author with this title among 10 results |
 | The Chicago Tribune Tower Competition: Skyscraper Design and Cultural Change in the 1920s (Katherine Solomonson) | no result by this author with this title among 3 results |
+| Die Großstadt: Eine Studie über diese (Otto Wagner) | no result by this author with this title among 10 results |
+| Einige Skizzen, Projekte und ausgeführte Bauwerke (Otto Wagner) | 1 matching results, none with a cover |
+| Kunstgewerbliche Laienpredigten (Henry van de Velde) | 1 matching results, none with a cover |
+| Die drei Sünden wider die Schönheit (Henry van de Velde) | 1 matching results, none with a cover |
+| Bruno Taut 1880–1938 (Kurt Junghanns) | isbn 3363006748 (loose title match: "Bruno Taut, 1880-1938") |
+| Grundlinien der Architektur Japans (Bruno Taut) | 2 matching results, none with a cover |
+| Ex Oriente Lux (Bruno Taut) | 1 matching results, none with a cover |
+| Architekturlehre (Bruno Taut) | 1 matching results, none with a cover |
+| Scienza o arte del costruire? (Pier Luigi Nervi) | 2 matching results, none with a cover |
+| Sämtliche Schriften (Adolf Loos) | 1 matching results, none with a cover |
+| Ins Leere gesprochen (Adolf Loos) | id 1032919 (loose title match: "Ins Leere gesprochen, 1897-1900") |
+| Trotzdem (Adolf Loos) | id 4241585 (loose title match: "Trotzdem, 1900-1930") |
+| Espacio y vida (Ricardo Bofill) | 1 matching results, none with a cover |
+| Apollo in der Demokratie (Walter Gropius) | 1 matching results, none with a cover |
+| Tempos de grossura: o design no impasse (Lina Bo Bardi) | no result by this author with this title among 1 results |
+| Voir, écrire (Christian de Portzamparc) | 1 matching results, none with a cover |
+| The Architecture of Ludwig Wittgenstein: A Documentation (Bernhard Leitner) | id 4872042 (loose title match: "The architecture of Ludwig Wittgenstein") |
+| Ludwig Wittgenstein, Architect (Paul Wijdeveld) | id 8147298 |
+| Phoenix at Coventry: The Building of a Cathedral (Basil Spence) | 1 matching results, none with a cover |
+| Isokon and the Bauhaus in Britain (Leyla Daybelge, Magnus Englund) | id 13885055 |
 
 ## No cover yet
 
@@ -1103,3 +1111,17 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - the-masons-of-djenne: The Masons of Djenné (Trevor H. J. Marchand)
 - the-chrysler-building-creating-a-new-york-icon-day-by-day: The Chrysler Building: Creating a New York Icon Day by Day (David Stravitz)
 - the-chicago-tribune-tower-competition-skyscraper-design-and: The Chicago Tribune Tower Competition: Skyscraper Design and Cultural Change in the 1920s (Katherine Solomonson)
+- die-grostadt-eine-studie-uber-diese: Die Großstadt: Eine Studie über diese (Otto Wagner)
+- einige-skizzen-projekte-und-ausgefuhrte-bauwerke: Einige Skizzen, Projekte und ausgeführte Bauwerke (Otto Wagner)
+- kunstgewerbliche-laienpredigten: Kunstgewerbliche Laienpredigten (Henry van de Velde)
+- die-drei-sunden-wider-die-schonheit: Die drei Sünden wider die Schönheit (Henry van de Velde)
+- grundlinien-der-architektur-japans: Grundlinien der Architektur Japans (Bruno Taut)
+- ex-oriente-lux: Ex Oriente Lux (Bruno Taut)
+- architekturlehre: Architekturlehre (Bruno Taut)
+- scienza-o-arte-del-costruire: Scienza o arte del costruire? (Pier Luigi Nervi)
+- samtliche-schriften: Sämtliche Schriften (Adolf Loos)
+- espacio-y-vida: Espacio y vida (Ricardo Bofill)
+- apollo-in-der-demokratie: Apollo in der Demokratie (Walter Gropius)
+- tempos-de-grossura-o-design-no-impasse: Tempos de grossura: o design no impasse (Lina Bo Bardi)
+- voir-ecrire: Voir, écrire (Christian de Portzamparc)
+- phoenix-at-coventry-the-building-of-a-cathedral: Phoenix at Coventry: The Building of a Cathedral (Basil Spence)
