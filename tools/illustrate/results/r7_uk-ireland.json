@@ -1,0 +1,398 @@
+[
+ {
+  "id": "20-fenchurch-street",
+  "name": "20 Fenchurch Street",
+  "by": "Rafael Viñoly",
+  "city": "London",
+  "cc": "GB",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Planting",
+   "Steel & glass"
+  ],
+  "features": "Top-heavy form that bursts upward and outward, with a sky garden at the top.",
+  "status": "photo",
+  "commons_category": "Category:20 Fenchurch Street, London",
+  "photos": [
+   {
+    "file": "File:20 Fenchurch St (Walkie-Talkie building) from Rood Ln, London, UK - Diliff.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:20 Fenchurch Street from street level.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:20 Fenchurch Street from Lime Street Passage, London.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/20_Fenchurch_Street",
+   "https://commons.wikimedia.org/wiki/Category:20 Fenchurch Street, London"
+  ],
+  "note": ""
+ },
+ {
+  "id": "denys-wilkinson-building",
+  "name": "Denys Wilkinson Building",
+  "by": "Philip Dowson (Arup)",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1967",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Large fan-shaped superstructure built to house a Van de Graaff generator.",
+  "status": "photo",
+  "commons_category": "Category:Denys Wilkinson Building",
+  "photos": [
+   {
+    "file": "File:Denys Wilkinson Building - geograph.org.uk - 8240272.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Denys Wilkinson Building, Banbury Road, Oxford, October 2021.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Denys Wilkinson Building, University of Oxford - Banbury Road.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denys_Wilkinson_Building",
+   "https://commons.wikimedia.org/wiki/Category:Denys Wilkinson Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "renold-building",
+  "name": "Renold Building",
+  "by": "W. A. Gibbon (Cruickshank and Seward)",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "Large glass-sided stair tower, and a two-level entrance hall with a Victor Pasmore mural.",
+  "status": "photo",
+  "commons_category": "Category:Renold Building",
+  "photos": [
+   {
+    "file": "File:Renold Building.jpg",
+    "license": "CC BY 2.5"
+   },
+   {
+    "file": "File:RenoldBuilding2014.jpeg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Renold Building, University of Manchester North Campus - geograph.org.uk - 6347599.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Renold_Building",
+   "https://commons.wikimedia.org/wiki/Category:Renold Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "battersea-power-station",
+  "name": "Battersea Power Station",
+  "by": "J. Theo Halliday and Giles Gilbert Scott",
+  "city": "London",
+  "cc": "GB",
+  "year": "1955",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Adaptive reuse"
+  ],
+  "features": "One of the world's largest brick buildings, with original Art Deco interior fittings.",
+  "status": "photo",
+  "commons_category": "Category:Battersea Power Station",
+  "photos": [
+   {
+    "file": "File:Battersea Power Station 2025-05-22.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Battersea Power Station 2026-03-09.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Battersea Power Station from River Thames Wandsworth London England 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Battersea_Power_Station",
+   "https://commons.wikimedia.org/wiki/Category:Battersea Power Station"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kensal-house",
+  "name": "Kensal House",
+  "by": "Maxwell Fry",
+  "city": "London",
+  "cc": "GB",
+  "year": "1937",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Geometry",
+   "Courtyard"
+  ],
+  "features": "Two curved blocks of 68 housing association flats.",
+  "status": "photo",
+  "commons_category": "Category:Kensal House, Ladbroke Grove",
+  "photos": [
+   {
+    "file": "File:Kensal House, Ladbroke Grove (geograph 4854156).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Kensal House, Ladbroke Grove.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kensal_House",
+   "https://commons.wikimedia.org/wiki/Category:Kensal House, Ladbroke Grove"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kings-cross-station",
+  "name": "King's Cross station",
+  "by": "Lewis Cubitt; John McAslan (2012 concourse)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1852",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Two great arched train sheds and a clock tower; 2012 concourse has a semi-circular roof.",
+  "status": "photo",
+  "commons_category": "Category:London King's Cross railway station",
+  "photos": [
+   {
+    "file": "File:London King's Cross Railway Station (NHLE Code 1078328) (April 2016) (1).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:London King's Cross Railway Station (NHLE Code 1078328) (April 2016) (2).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:At London 2025 969.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/London_King's_Cross_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:London King's Cross railway station"
+  ],
+  "note": ""
+ },
+ {
+  "id": "jubilee-pool-penzance",
+  "name": "Jubilee Pool",
+  "by": "Frank Latham",
+  "city": "Penzance",
+  "cc": "GB",
+  "year": "1935",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Cubist-inspired lido, reportedly influenced by the shape of a seagull in flight.",
+  "status": "photo",
+  "commons_category": "Category:Jubilee Pool",
+  "photos": [
+   {
+    "file": "File:Jubilee Pool - general view from N.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Jubilee Pool (6293).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Flags at Jubilee Pool (6286).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jubilee_Pool",
+   "https://commons.wikimedia.org/wiki/Category:Jubilee Pool"
+  ],
+  "note": ""
+ },
+ {
+  "id": "st-catherines-college-oxford",
+  "name": "St Catherine's College, Oxford",
+  "by": "Arne Jacobsen",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Brick",
+   "Water"
+  ],
+  "features": "Modern materials set in a traditional Oxford college layout around a quadrangle.",
+  "status": "photo",
+  "commons_category": "Category:St Catherine's College, Oxford",
+  "photos": [
+   {
+    "file": "File:St Catherine's College - geograph.org.uk - 7499133.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:St Catherine's College - geograph.org.uk - 7499426.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:The entrance to St Catherine's College, Oxford - geograph.org.uk - 4732277.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St_Catherine's_College,_Oxford",
+   "https://commons.wikimedia.org/wiki/Category:St Catherine's College, Oxford"
+  ],
+  "note": ""
+ },
+ {
+  "id": "robinson-college-cambridge",
+  "name": "Robinson College",
+  "by": "Andy MacMillan and Isi Metzstein (Gillespie, Kidd & Coia)",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "1981",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Landscape"
+  ],
+  "features": "Built in handmade red bricks, with a large asymmetrical stained glass wall in the chapel.",
+  "status": "photo",
+  "commons_category": "Category:Robinson College, Cambridge",
+  "photos": [
+   {
+    "file": "File:Robinson College - geograph.org.uk - 5613517.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Robinson College - geograph.org.uk - 8116027.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Robinson College Fascade.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robinson_College,_Cambridge",
+   "https://commons.wikimedia.org/wiki/Category:Robinson College, Cambridge"
+  ],
+  "note": "year = formal opening 1981; article gives no completion year"
+ },
+ {
+  "id": "dudley-zoo",
+  "name": "Dudley Zoo",
+  "by": "Berthold Lubetkin and Tecton (engineer Ove Arup)",
+  "city": "Dudley",
+  "cc": "GB",
+  "year": "1937",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Pre-stressed reinforced concrete gave curved structures and projecting platforms; cages avoided.",
+  "status": "photo",
+  "commons_category": "Category:Dudley Zoo",
+  "photos": [
+   {
+    "file": "File:Dudley Zoo, West Midlands, England-8March2011 (1).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Dudley Zoo -inside the main gates-11Oct2009.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Dudley Zoo former Brown Bear Pit 2 (5511573983).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dudley_Zoo",
+   "https://commons.wikimedia.org/wiki/Category:Dudley Zoo"
+  ],
+  "note": "filenames not confirmed to show Tecton buildings; reviewer check"
+ }
+]
