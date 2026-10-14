@@ -18688,5 +18688,1602 @@
   ],
   "architects": [],
   "buildings": []
+ },
+ {
+  "id": "routledge-companion-to-women-in-architecture",
+  "title": "Routledge Companion to Women in Architecture",
+  "by": "Anna Sokolina",
+  "year": "2021",
+  "y": 2021,
+  "shelf": "History",
+  "why": "A collection of essays on women's work in architecture.",
+  "tags": [
+   "History",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "claude-nicolas-ledoux-architecture-and-social-reform-at-the",
+  "title": "Claude-Nicolas Ledoux: Architecture and Social Reform at the End of the Ancien Régime",
+  "by": "Anthony Vidler",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "Vidler's study of Ledoux, his buildings and his utopian city of Chaux.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "syntax-of-landscape-the-landscape-architecture-of-peter-latz",
+  "title": "Syntax of Landscape: The Landscape Architecture of Peter Latz and Partners",
+  "by": "Udo Weilacher",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Landscape",
+  "why": "A study of the landscape work of Peter Latz and his partners.",
+  "tags": [
+   "Landscape",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "gadamer-for-architects",
+  "title": "Gadamer for Architects",
+  "by": "Paul Kidder",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Theory",
+  "why": "An introduction to Gadamer's thought for architects.",
+  "tags": [
+   "Phenomenology",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-portfolio-and-the-diagram-architecture-discourse-and-mod",
+  "title": "The Portfolio and the Diagram: Architecture, Discourse, and Modernity in America",
+  "by": "Hyungmin Pai",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Theory",
+  "why": "A history of how American architects have used drawing and diagram.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-product-models-computer-environments-supporting-des",
+  "title": "Building Product Models: Computer Environments Supporting Design and Construction",
+  "by": "Charles M. Eastman",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Construction",
+  "why": "Eastman on the computer models behind building information modelling.",
+  "tags": [
+   "Construction",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sociology-and-architectural-design",
+  "title": "Sociology and Architectural Design",
+  "by": "John Zeisel",
+  "year": "1975",
+  "y": 1975,
+  "shelf": "Theory",
+  "why": "How social research can inform architectural design.",
+  "tags": [
+   "Design",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "integrated-buildings-the-systems-basis-of-architecture",
+  "title": "Integrated Buildings: The Systems Basis of Architecture",
+  "by": "Leonard R. Bachman",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Construction",
+  "why": "On how building systems work together in architecture.",
+  "tags": [
+   "Design basics",
+   "Climate"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "atrium-buildings-development-and-design",
+  "title": "Atrium Buildings: Development and Design",
+  "by": "Richard Saxon",
+  "year": "1983",
+  "y": 1983,
+  "shelf": "Construction",
+  "why": "A guide to the design of buildings with an atrium.",
+  "tags": [
+   "Light",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "poetics-of-architecture-theory-of-design",
+  "title": "Poetics of Architecture: Theory of Design",
+  "by": "Anthony C. Antoniades",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Theory",
+  "why": "A theory of architectural design and its poetic side.",
+  "tags": [
+   "Theory",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "light-wind-and-structure-the-mystery-of-the-master-builders",
+  "title": "Light, Wind, and Structure: The Mystery of the Master Builders",
+  "by": "Robert Mark",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Construction",
+  "why": "Mark on how Gothic and other master builders tested structures.",
+  "tags": [
+   "Structure",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "fundamentals-of-architecture",
+  "title": "Fundamentals of Architecture",
+  "by": "Lorraine Farrelly",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Essentials",
+  "why": "A short introduction to the elements of architecture.",
+  "tags": [
+   "Design basics",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "roof-construction-manual-pitched-roofs",
+  "title": "Roof Construction Manual: Pitched Roofs",
+  "by": "Eberhard Schunck, Hans Jochen Oster, Rainer Barthel, Kurt Kiessl",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Construction",
+  "why": "A detailed manual on the design and construction of pitched roofs.",
+  "tags": [
+   "Details",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "elements-of-architecture-from-form-to-place",
+  "title": "Elements of Architecture: From Form to Place",
+  "by": "Pierre von Meiss",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Theory",
+  "why": "An introduction to form, space and place in architecture.",
+  "tags": [
+   "Theory",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "towards-a-non-oppressive-environment",
+  "title": "Towards a Non-Oppressive Environment",
+  "by": "Alexander Tzonis",
+  "year": "1972",
+  "y": 1972,
+  "shelf": "Theory",
+  "why": "An essay on designing environments that do not constrain their users.",
+  "tags": [
+   "Theory",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "building-information-modeling-bim-in-current-and-future-prac",
+  "title": "Building Information Modeling: BIM in Current and Future Practice",
+  "by": "Karen Kensek, Douglas Noble",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Construction",
+  "why": "Essays on how building information modelling is used and where it is heading.",
+  "tags": [
+   "Construction",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "design-research-in-architecture-an-overview",
+  "title": "Design Research in Architecture: An Overview",
+  "by": "Murray Fraser",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Theory",
+  "why": "Essays on design research in architecture.",
+  "tags": [
+   "Theory",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectural-drawing",
+  "title": "Architectural Drawing",
+  "by": "David Dernie",
+  "year": "2010",
+  "y": 2010,
+  "shelf": "Drawing",
+  "why": "A guide to architectural drawing and its uses.",
+  "tags": [
+   "Drawing",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "floor-plan-manual-housing",
+  "title": "Floor Plan Manual: Housing",
+  "by": "Oliver Heckmann, Friederike Schneider",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Essentials",
+  "why": "A collection of housing plans from many countries, drawn to a common scale.",
+  "tags": [
+   "Housing",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "practical-poetics-in-architecture",
+  "title": "Practical Poetics in Architecture",
+  "by": "Leon van Schaik",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Theory",
+  "why": "Van Schaik on how architects develop a personal approach to their work.",
+  "tags": [
+   "Theory",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "move",
+  "title": "Move",
+  "by": "Ben van Berkel, Caroline Bos",
+  "year": "1999",
+  "y": 1999,
+  "shelf": "Theory",
+  "why": "A three-volume UNStudio book on technique, effects and imaging.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-and-embodiment-the-implications-of-the-new-scie",
+  "title": "Architecture and Embodiment: The Implications of the New Sciences and Humanities for Design",
+  "by": "Harry Francis Mallgrave",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Theory",
+  "why": "Mallgrave on how the body and brain shape the experience of architecture.",
+  "tags": [
+   "Perception",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "alvar-aalto-and-the-future-of-architecture",
+  "title": "Alvar Aalto and the Future of Architecture",
+  "by": "Robert Cody, Angel Ayón Mondeja",
+  "year": "2022",
+  "y": 2022,
+  "shelf": "Monographs",
+  "why": "Essays on Alvar Aalto and what his work offers architecture today.",
+  "tags": [
+   "Modernism",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "plagued-by-fire-the-dreams-and-furies-of-frank-lloyd-wright",
+  "title": "Plagued by Fire: The Dreams and Furies of Frank Lloyd Wright",
+  "by": "Paul Hendrickson",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "Monographs",
+  "why": "A biography of Frank Lloyd Wright, built around the fires and deaths at Taliesin.",
+  "tags": [
+   "Organic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-social-project-housing-postwar-france",
+  "title": "The Social Project: Housing Postwar France",
+  "by": "Kenny Cupers",
+  "year": "2014",
+  "y": 2014,
+  "shelf": "Cities",
+  "why": "A history of the postwar French housing estates and the ideas behind them.",
+  "tags": [
+   "Housing",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ornamental-drawing-and-architectural-design",
+  "title": "Ornamental Drawing and Architectural Design",
+  "by": "Robert Scott Burn",
+  "year": "1857",
+  "y": 1857,
+  "shelf": "Free to read",
+  "why": "A Victorian guide to ornamental drawing for architectural design.",
+  "tags": [
+   "Drawing",
+   "Ornament"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "representing-landscape-architecture",
+  "title": "Representing Landscape Architecture",
+  "by": "Marc Treib",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Landscape",
+  "why": "Essays on how landscape architects draw and show their work.",
+  "tags": [
+   "Landscape",
+   "Drawing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "drawing-architecture-and-the-urban",
+  "title": "Drawing Architecture and the Urban",
+  "by": "Sam Jacoby",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Drawing",
+  "why": "Essays on drawing in architecture and urban design.",
+  "tags": [
+   "Drawing",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-young-carpenter-s-assistant",
+  "title": "The Young Carpenter's Assistant",
+  "by": "Owen Biddle",
+  "year": "1805",
+  "y": 1805,
+  "shelf": "Free to read",
+  "why": "An early American builder's guide to the classical orders and carpentry.",
+  "tags": [
+   "Construction",
+   "Classicism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "woodward-s-architecture-landscape-gardening-and-rural-art",
+  "title": "Woodward's Architecture, Landscape Gardening, and Rural Art",
+  "by": "George E. Woodward",
+  "year": "1867",
+  "y": 1867,
+  "shelf": "Free to read",
+  "why": "A Victorian American pattern book of houses, grounds and rural buildings.",
+  "tags": [
+   "Houses",
+   "Landscape"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "american-houses-a-field-guide-to-the-architecture-of-the-hom",
+  "title": "American Houses: A Field Guide to the Architecture of the Home",
+  "by": "Gerald L. Foster",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Essentials",
+  "why": "A field guide to American house styles.",
+  "tags": [
+   "Houses",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-field-guide-to-american-houses",
+  "title": "A Field Guide to American Houses",
+  "by": "Virginia McAlester, Lee McAlester",
+  "year": "1984",
+  "y": 1984,
+  "shelf": "Essentials",
+  "why": "A guide to identifying American house styles.",
+  "tags": [
+   "Houses",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-anatomy-of-architecture-ontology-and-metaphor-in-batamma",
+  "title": "The Anatomy of Architecture: Ontology and Metaphor in Batammaliba Architectural Expression",
+  "by": "Suzanne Preston Blier",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "History",
+  "why": "A study of the houses of the Batammaliba of Togo and Benin and what they mean.",
+  "tags": [
+   "Africa",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "village-and-farm-cottages",
+  "title": "Village and Farm Cottages",
+  "by": "Henry W. Cleaveland, William Backus, Samuel D. Backus",
+  "year": "1856",
+  "y": 1856,
+  "shelf": "Free to read",
+  "why": "A nineteenth-century American pattern book of village and farm cottages.",
+  "tags": [
+   "Houses",
+   "Vernacular"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "japanese-detail-architecture",
+  "title": "Japanese Detail: Architecture",
+  "by": "Sadao Hibi",
+  "year": "1989",
+  "y": 1989,
+  "shelf": "Construction",
+  "why": "A photographic record of details in Japanese architecture.",
+  "tags": [
+   "Japan",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "three-centuries-of-architectural-craftsmanship",
+  "title": "Three Centuries of Architectural Craftsmanship",
+  "by": "Colin Amery",
+  "year": "1977",
+  "y": 1977,
+  "shelf": "History",
+  "why": "A survey of English architectural craftsmanship over three centuries.",
+  "tags": [
+   "Craft",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "recent-english-domestic-architecture",
+  "title": "Recent English Domestic Architecture",
+  "by": "Mervyn Macartney",
+  "year": "1908",
+  "y": 1908,
+  "shelf": "Free to read",
+  "why": "A collection of English houses built around 1900.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-manor-houses-of-england",
+  "title": "The Manor Houses of England",
+  "by": "P. H. Ditchfield",
+  "year": "1910",
+  "y": 1910,
+  "shelf": "Free to read",
+  "why": "A tour of English manor houses.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "traditional-buildings-of-britain-an-introduction-to-vernacul",
+  "title": "Traditional Buildings of Britain: An Introduction to Vernacular Architecture",
+  "by": "R. W. Brunskill",
+  "year": "1981",
+  "y": 1981,
+  "shelf": "History",
+  "why": "An introduction to British vernacular building.",
+  "tags": [
+   "Vernacular",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "houses-and-gardens-by-e-l-lutyens",
+  "title": "Houses and Gardens by E. L. Lutyens",
+  "by": "Lawrence Weaver",
+  "year": "1913",
+  "y": 1913,
+  "shelf": "Monographs",
+  "why": "Lawrence Weaver's survey of Lutyens's houses and gardens.",
+  "tags": [
+   "Classicism",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "australia-s-home-its-origins-builders-and-occupiers",
+  "title": "Australia's Home: Its Origins, Builders and Occupiers",
+  "by": "Robin Boyd",
+  "year": "1952",
+  "y": 1952,
+  "shelf": "History",
+  "why": "Robin Boyd's history of the Australian house.",
+  "tags": [
+   "Houses",
+   "Regionalism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-modern-steel-house",
+  "title": "The Modern Steel House",
+  "by": "Neil Jackson",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "History",
+  "why": "A history of steel-framed houses.",
+  "tags": [
+   "Houses",
+   "Structure"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-field-guide-to-american-architecture",
+  "title": "A Field Guide to American Architecture",
+  "by": "Carole Rifkind",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "Essentials",
+  "why": "A guide to American building styles and their details.",
+  "tags": [
+   "Reference",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-house-a-machine-for-living-in",
+  "title": "The House: A Machine for Living In",
+  "by": "Anthony Bertram",
+  "year": "1935",
+  "y": 1935,
+  "shelf": "History",
+  "why": "An English argument for modern housing in the 1930s.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "prefab-modern",
+  "title": "Prefab Modern",
+  "by": "Jill Herbers",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "History",
+  "why": "A survey of modern prefabricated houses.",
+  "tags": [
+   "Housing",
+   "Construction"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "samoan-house-building-cooking-and-tattooing",
+  "title": "Samoan House Building, Cooking, and Tattooing",
+  "by": "E. S. Craighill Handy",
+  "year": "1924",
+  "y": 1924,
+  "shelf": "Free to read",
+  "why": "An early ethnographic account of Samoan house building.",
+  "tags": [
+   "Vernacular",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "high-victorian-design",
+  "title": "High Victorian Design",
+  "by": "Simon Jervis",
+  "year": "1974",
+  "y": 1974,
+  "shelf": "History",
+  "why": "A survey of High Victorian design.",
+  "tags": [
+   "History",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "an-essay-on-the-picturesque-as-compared-with-the-sublime-and",
+  "title": "An Essay on the Picturesque as Compared with the Sublime and the Beautiful",
+  "by": "Uvedale Price",
+  "year": "1794",
+  "y": 1794,
+  "shelf": "Free to read",
+  "why": "Price's essay on the picturesque in landscape and gardens.",
+  "tags": [
+   "Landscape",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-english-landscape-in-the-twentieth-century",
+  "title": "The English Landscape in the Twentieth Century",
+  "by": "Trevor Rowley",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "Landscape",
+  "why": "A history of change in the English countryside in the twentieth century.",
+  "tags": [
+   "Landscape",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-gardening",
+  "title": "Landscape-Gardening",
+  "by": "O. C. Simonds",
+  "year": "1920",
+  "y": 1920,
+  "shelf": "Free to read",
+  "why": "An early American book on landscape gardening.",
+  "tags": [
+   "Landscape",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "men-and-gardens",
+  "title": "Men and Gardens",
+  "by": "Nan Fairbrother",
+  "year": "1956",
+  "y": 1956,
+  "shelf": "Landscape",
+  "why": "A book on why people make gardens.",
+  "tags": [
+   "Gardens",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "earthscape-the-art-of-shaping-land",
+  "title": "Earthscape: The Art of Shaping Land",
+  "by": "John Ormsbee Simonds",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "Landscape",
+  "why": "Simonds on shaping land in landscape design.",
+  "tags": [
+   "Landscape",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "arts-and-crafts-gardens",
+  "title": "Arts and Crafts Gardens",
+  "by": "Wendy Hitchmough",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Landscape",
+  "why": "A survey of Arts and Crafts gardens.",
+  "tags": [
+   "Gardens",
+   "Craft"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "constructing-landscape-materials-techniques-structural-compo",
+  "title": "Constructing Landscape: Materials, Techniques, Structural Components",
+  "by": "Astrid Zimmermann",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Construction",
+  "why": "A manual on the construction of landscape.",
+  "tags": [
+   "Landscape",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sun-dials-and-roses-of-yesterday",
+  "title": "Sun Dials and Roses of Yesterday",
+  "by": "Alice Morse Earle",
+  "year": "1902",
+  "y": 1902,
+  "shelf": "Free to read",
+  "why": "A history of old-fashioned gardens, sundials and roses.",
+  "tags": [
+   "Gardens",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-gardens-of-roberto-burle-marx",
+  "title": "The Gardens of Roberto Burle Marx",
+  "by": "Sima Eliovson",
+  "year": "1991",
+  "y": 1991,
+  "shelf": "Landscape",
+  "why": "A survey of the gardens of Roberto Burle Marx.",
+  "tags": [
+   "Landscape",
+   "Latin America"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "overgrown-practices-between-landscape-architecture-and-garde",
+  "title": "Overgrown: Practices Between Landscape Architecture and Gardening",
+  "by": "Julian Raxworthy",
+  "year": "2018",
+  "y": 2018,
+  "shelf": "Landscape",
+  "why": "On the links between gardening and landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "landscape-architecture-and-digital-technologies-re-conceptua",
+  "title": "Landscape Architecture and Digital Technologies: Re-conceptualising Design and Making",
+  "by": "Jillian Walliss, Heike Rahmann",
+  "year": "2016",
+  "y": 2016,
+  "shelf": "Landscape",
+  "why": "On how digital tools have changed landscape architecture.",
+  "tags": [
+   "Landscape",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "women-modernity-and-landscape-architecture",
+  "title": "Women, Modernity, and Landscape Architecture",
+  "by": "Sonja Dümpelmann, John Beardsley",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "Landscape",
+  "why": "Essays on women landscape architects of the twentieth century.",
+  "tags": [
+   "Landscape",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "land-and-landscape",
+  "title": "Land and Landscape",
+  "by": "Brenda Colvin",
+  "year": "1947",
+  "y": 1947,
+  "shelf": "Landscape",
+  "why": "Brenda Colvin's book on landscape in the planning of Britain.",
+  "tags": [
+   "Landscape",
+   "Planning"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sustainable-energy-landscapes-designing-planning-and-develop",
+  "title": "Sustainable Energy Landscapes: Designing, Planning, and Development",
+  "by": "Sven Stremke, Andy Van den Dobbelsteen",
+  "year": "2012",
+  "y": 2012,
+  "shelf": "Landscape",
+  "why": "On how landscape design can plan for renewable energy.",
+  "tags": [
+   "Landscape",
+   "Sustainability"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "capability-brown-the-story-of-a-master-gardener",
+  "title": "Capability Brown: The Story of a Master Gardener",
+  "by": "Thomas Hinde",
+  "year": "1986",
+  "y": 1986,
+  "shelf": "Landscape",
+  "why": "A life of Lancelot Brown.",
+  "tags": [
+   "Landscape",
+   "Gardens"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "italian-villas-and-gardens",
+  "title": "Italian Villas and Gardens",
+  "by": "Paul van der Ree, Gerrit Smienk, Clemens Steenbergen",
+  "year": "1992",
+  "y": 1992,
+  "shelf": "Landscape",
+  "why": "A study of Italian villa gardens, with plans and sections.",
+  "tags": [
+   "Gardens",
+   "Historic precedent"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "beyond-bawa-modern-masters-in-tropical-asia",
+  "title": "Beyond Bawa: Modern Masters in Tropical Asia",
+  "by": "David Robson",
+  "year": "2008",
+  "y": 2008,
+  "shelf": "Monographs",
+  "why": "A survey of Asian architects working in the tropical tradition of Geoffrey Bawa.",
+  "tags": [
+   "Tropical",
+   "Southeast Asia"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "working-toward-sustainability-ethical-decision-making-in-a-t",
+  "title": "Working Toward Sustainability: Ethical Decision Making in a Technological World",
+  "by": "Charles J. Kibert",
+  "year": "2011",
+  "y": 2011,
+  "shelf": "Theory",
+  "why": "On the ethics of sustainability in building and technology.",
+  "tags": [
+   "Sustainability",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-integrative-design-guide-to-green-building-redefining-th",
+  "title": "The Integrative Design Guide to Green Building: Redefining the Practice of Sustainability",
+  "by": "Bill Reed",
+  "year": "2009",
+  "y": 2009,
+  "shelf": "Construction",
+  "why": "A guide to integrated design for green buildings.",
+  "tags": [
+   "Sustainability",
+   "Design"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "sustainable-built-environments",
+  "title": "Sustainable Built Environments",
+  "by": "Vivian Loftness, Dagmar Haase",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Construction",
+  "why": "A reference on sustainable buildings and cities.",
+  "tags": [
+   "Sustainability",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "life-in-the-english-country-house-a-social-and-architectural",
+  "title": "Life in the English Country House: A Social and Architectural History",
+  "by": "Mark Girouard",
+  "year": "1978",
+  "y": 1978,
+  "shelf": "History",
+  "why": "Girouard's social history of the English country house.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "ornaments-of-the-metropolis-siegfried-kracauer-and-modern-ur",
+  "title": "Ornaments of the Metropolis: Siegfried Kracauer and Modern Urban Culture",
+  "by": "Henrik Reeh",
+  "year": "2004",
+  "y": 2004,
+  "shelf": "Theory",
+  "why": "On Kracauer's writing on the modern city.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "reconstructing-architecture-critical-discourses-and-social-p",
+  "title": "Reconstructing Architecture: Critical Discourses and Social Practices",
+  "by": "Thomas A. Dutton, Lian Hurst Mann",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "Theory",
+  "why": "Essays on critical theory in architecture.",
+  "tags": [
+   "Theory",
+   "Criticism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "american-architects-and-the-single-family-home",
+  "title": "American Architects and the Single-Family Home",
+  "by": "Lisa M. Tucker",
+  "year": "2015",
+  "y": 2015,
+  "shelf": "History",
+  "why": "A history of American architects' work on the single-family house.",
+  "tags": [
+   "Houses",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "memory-palace-a-book-of-lost-interiors",
+  "title": "Memory Palace: A Book of Lost Interiors",
+  "by": "Edward Hollis",
+  "year": "2013",
+  "y": 2013,
+  "shelf": "Theory",
+  "why": "On lost rooms and the memory of interiors.",
+  "tags": [
+   "History",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-strip-las-vegas-and-the-architecture-of-the-american-dre",
+  "title": "The Strip: Las Vegas and the Architecture of the American Dream",
+  "by": "Stefan Al",
+  "year": "2017",
+  "y": 2017,
+  "shelf": "Cities",
+  "why": "A history of the Las Vegas Strip and its buildings.",
+  "tags": [
+   "Cities",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-walled-arab-city-in-literature-architecture-and-history",
+  "title": "The Walled Arab City in Literature, Architecture and History",
+  "by": "Susan Slyomovics",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "History",
+  "why": "Essays on the walled Arab city.",
+  "tags": [
+   "Islamic",
+   "Cities"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-organizational-complex-architecture-media-and-corporate",
+  "title": "The Organizational Complex: Architecture, Media, and Corporate Space",
+  "by": "Reinhold Martin",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Theory",
+  "why": "On postwar corporate architecture and the culture of organisation.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "fortress-america-gated-communities-in-the-united-states",
+  "title": "Fortress America: Gated Communities in the United States",
+  "by": "Edward J. Blakely, Mary Gail Snyder",
+  "year": "1997",
+  "y": 1997,
+  "shelf": "Cities",
+  "why": "A study of gated communities in the United States.",
+  "tags": [
+   "Cities",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architecture-mysticism-and-myth",
+  "title": "Architecture, Mysticism and Myth",
+  "by": "W. R. Lethaby",
+  "year": "1891",
+  "y": 1891,
+  "shelf": "Free to read",
+  "why": "Lethaby's essays on the symbolism of early architecture.",
+  "tags": [
+   "Theory",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "islamic-monuments-in-cairo-a-practical-guide",
+  "title": "Islamic Monuments in Cairo: A Practical Guide",
+  "by": "Caroline Williams",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Essentials",
+  "why": "A guide to the monuments of Islamic Cairo.",
+  "tags": [
+   "Islamic",
+   "Reference"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "history-of-mughal-architecture",
+  "title": "History of Mughal Architecture",
+  "by": "R. Nath",
+  "year": "1982",
+  "y": 1982,
+  "shelf": "India",
+  "why": "A multi-volume history of Mughal architecture.",
+  "tags": [
+   "India",
+   "Islamic"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-manual-of-gothic-mouldings",
+  "title": "A Manual of Gothic Mouldings",
+  "by": "F. A. Paley",
+  "year": "1845",
+  "y": 1845,
+  "shelf": "Free to read",
+  "why": "A Victorian manual of Gothic mouldings.",
+  "tags": [
+   "Gothic",
+   "Details"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-gothic-literary-sources-and-interpretations-through-eigh",
+  "title": "The Gothic: Literary Sources and Interpretations Through Eight Centuries",
+  "by": "Paul Frankl",
+  "year": "1960",
+  "y": 1960,
+  "shelf": "History",
+  "why": "Frankl's anthology of writings on Gothic architecture.",
+  "tags": [
+   "Gothic",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "a-short-history-of-renaissance-architecture-in-england-15001",
+  "title": "A Short History of Renaissance Architecture in England, 1500–1800",
+  "by": "Reginald Blomfield",
+  "year": "1900",
+  "y": 1900,
+  "shelf": "Free to read",
+  "why": "Blomfield's short history of English Renaissance architecture.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "renaissance-architecture",
+  "title": "Renaissance Architecture",
+  "by": "Peter Murray",
+  "year": "1971",
+  "y": 1971,
+  "shelf": "History",
+  "why": "A short survey of Renaissance architecture in Italy and beyond.",
+  "tags": [
+   "Classicism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "material-matters-architecture-and-material-practice",
+  "title": "Material Matters: Architecture and Material Practice",
+  "by": "Katie Lloyd Thomas",
+  "year": "2007",
+  "y": 2007,
+  "shelf": "Theory",
+  "why": "Essays on materials in architectural thought and practice.",
+  "tags": [
+   "Materials",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "harwell-hamilton-harris",
+  "title": "Harwell Hamilton Harris",
+  "by": "Lisa Germany",
+  "year": "1985",
+  "y": 1985,
+  "shelf": "Monographs",
+  "why": "A monograph on the Californian architect Harwell Hamilton Harris.",
+  "tags": [
+   "Modernism",
+   "Houses"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "photographing-buildings-inside-and-out",
+  "title": "Photographing Buildings Inside and Out",
+  "by": "Norman McGrath",
+  "year": "1987",
+  "y": 1987,
+  "shelf": "Drawing",
+  "why": "A guide to architectural photography.",
+  "tags": [
+   "Craft",
+   "Design basics"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "almanach-d-architecture-moderne",
+  "title": "Almanach d'architecture moderne",
+  "by": "Le Corbusier",
+  "year": "1925",
+  "y": 1925,
+  "shelf": "Manifestos",
+  "why": "A short book of Le Corbusier's essays and projects from L'Esprit Nouveau.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "l-art-decoratif-d-aujourd-hui",
+  "title": "L'art décoratif d'aujourd'hui",
+  "by": "Le Corbusier",
+  "year": "1925",
+  "y": 1925,
+  "shelf": "Manifestos",
+  "why": "Le Corbusier's essays against decorative art and for standard objects.",
+  "tags": [
+   "Modernism",
+   "Design"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "le-voyage-d-orient",
+  "title": "Le Voyage d'Orient",
+  "by": "Le Corbusier",
+  "year": "1966",
+  "y": 1966,
+  "shelf": "Monographs",
+  "why": "Le Corbusier's journal of his 1911 journey to the East.",
+  "tags": [
+   "Modernism",
+   "Historic precedent"
+  ],
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "der-schopferische-sinn-der-krise",
+  "title": "Der schöpferische Sinn der Krise",
+  "by": "Erich Mendelsohn",
+  "year": "1932",
+  "y": 1932,
+  "shelf": "Theory",
+  "why": "An essay by Mendelsohn on crisis as a creative force in architecture.",
+  "tags": [
+   "Theory",
+   "Modernism"
+  ],
+  "architects": [
+   "Erich Mendelsohn"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "les-formules-de-la-beaute-architectonique-moderne",
+  "title": "Les formules de la beauté architectonique moderne",
+  "by": "Henry van de Velde",
+  "year": "1923",
+  "y": 1923,
+  "shelf": "Theory",
+  "why": "Van de Velde's essay on the principles of modern architectural beauty.",
+  "tags": [
+   "Art Nouveau",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "die-neue-baukunst-in-europa-und-amerika",
+  "title": "Die neue Baukunst in Europa und Amerika",
+  "by": "Bruno Taut",
+  "year": "1929",
+  "y": 1929,
+  "shelf": "History",
+  "why": "Taut's survey of new architecture in Europe and America.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "der-weltbaumeister",
+  "title": "Der Weltbaumeister",
+  "by": "Bruno Taut",
+  "year": "1920",
+  "y": 1920,
+  "shelf": "Manifestos",
+  "why": "Taut's architectural play for symphony, a visionary text.",
+  "tags": [
+   "Expressionism",
+   "Theory"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "die-auflosung-der-stadte",
+  "title": "Die Auflösung der Städte",
+  "by": "Bruno Taut",
+  "year": "1920",
+  "y": 1920,
+  "shelf": "Manifestos",
+  "why": "Taut's vision of dissolving cities into small communities.",
+  "tags": [
+   "Expressionism",
+   "Cities"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "nippon-mit-europaischen-augen-gesehen",
+  "title": "Nippon mit europäischen Augen gesehen",
+  "by": "Bruno Taut",
+  "year": "1934",
+  "y": 1934,
+  "shelf": "History",
+  "why": "Taut's account of Japan seen through European eyes.",
+  "tags": [
+   "Japan",
+   "Perception"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "fruhlicht-19201922",
+  "title": "Frühlicht 1920–1922",
+  "by": "Bruno Taut",
+  "year": "1963",
+  "y": 1963,
+  "shelf": "Manifestos",
+  "why": "The journal Taut edited in the years after the First World War.",
+  "tags": [
+   "Expressionism",
+   "Theory"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "die-neue-wohnung-die-frau-als-schopferin",
+  "title": "Die neue Wohnung: Die Frau als Schöpferin",
+  "by": "Bruno Taut",
+  "year": "1924",
+  "y": 1924,
+  "shelf": "Manifestos",
+  "why": "Taut's book on the new dwelling and women's role in creating it.",
+  "tags": [
+   "Housing",
+   "Theory"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "wie-baut-amerika",
+  "title": "Wie baut Amerika?",
+  "by": "Richard Neutra",
+  "year": "1927",
+  "y": 1927,
+  "shelf": "History",
+  "why": "Neutra's account of how America builds.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [
+   "Richard Neutra"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "modern-movements-in-architecture",
+  "title": "Modern Movements in Architecture",
+  "by": "Charles Jencks",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "History",
+  "why": "Jencks's survey of the many strands of modern architecture.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "architectures-of-time-toward-a-theory-of-the-event-in-modern",
+  "title": "Architectures of Time: Toward a Theory of the Event in Modernist Culture",
+  "by": "Sanford Kwinter",
+  "year": "2001",
+  "y": 2001,
+  "shelf": "Theory",
+  "why": "Kwinter on time and event in modern art and architecture.",
+  "tags": [
+   "Theory",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "philip-webb-pioneer-of-arts-and-crafts-architecture",
+  "title": "Philip Webb: Pioneer of Arts and Crafts Architecture",
+  "by": "Sheila Kirk",
+  "year": "2005",
+  "y": 2005,
+  "shelf": "Monographs",
+  "why": "A life of the Arts and Crafts architect Philip Webb.",
+  "tags": [
+   "Craft",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "quantum-city",
+  "title": "Quantum City",
+  "by": "Ayssar Arida",
+  "year": "2002",
+  "y": 2002,
+  "shelf": "Theory",
+  "why": "On how quantum ideas might shape the idea of the city.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "miami-architecture-of-the-tropics",
+  "title": "Miami: Architecture of the Tropics",
+  "by": "Beth Dunlop",
+  "year": "1996",
+  "y": 1996,
+  "shelf": "History",
+  "why": "A history of Miami's architecture.",
+  "tags": [
+   "Tropical",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "california-crazy-roadside-vernacular",
+  "title": "California Crazy: Roadside Vernacular",
+  "by": "Jim Heimann, Rip Georges",
+  "year": "1980",
+  "y": 1980,
+  "shelf": "History",
+  "why": "A photographic survey of California's roadside architecture.",
+  "tags": [
+   "Vernacular",
+   "History"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "21st-century-house",
+  "title": "21st Century House",
+  "by": "Jonathan Bell",
+  "year": "2006",
+  "y": 2006,
+  "shelf": "History",
+  "why": "A survey of new houses from the early 2000s.",
+  "tags": [
+   "Houses",
+   "Contemporary"
+  ],
+  "architects": [],
+  "buildings": []
  }
 ]
