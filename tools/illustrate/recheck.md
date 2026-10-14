@@ -105,3 +105,20 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Wedding Palace | Victor Djorbenadze, Vazha Orbeladze | Tbilisi, GE |
 | Troy Museum | Yalın Mimarlık | Çanakkale, TR |
 | Visvesvaraya Centre (VV Towers) | Charles Correa | Bengaluru, IN |
+| EDSA Shrine | Francisco Mañosa | Quezon City, PH |
+| Lehmbruck Museum | Manfred Lehmbruck | Duisburg, DE |
+| L. D. Institute of Indology | Balkrishna Doshi | Ahmedabad, IN |
+| Al-Irsyad Mosque | Ridwan Kamil | Padalarang, ID |
+| Porsche Museum | Delugan Meissl Associated Architects | Stuttgart, DE |
+| Garden of Fine Arts, Kyoto | Tadao Ando | Kyoto, JP |
+| Al Janoub Stadium | Zaha Hadid Architects | Al Wakrah, QA |
+| Museum Tinguely | Mario Botta | Basel, CH |
+| Faculty of Fine Arts, University of Dhaka | Muzharul Islam | Dhaka, BD |
+| Town House, Kingston University | Grafton Architects | Kingston upon Thames, GB |
+| Suvarnabhumi Airport | Murphy/Jahn | Samut Prakan, TH |
+| Lille Grand Palais | OMA | Lille, FR |
+| Cultural Center of the Philippines (Tanghalang Pambansa) | Leandro Locsin | Pasay, PH |
+| W Abu Dhabi – Yas Island | Asymptote Architecture | Abu Dhabi, AE |
+| Opéra Bastille | Carlos Ott | Paris, FR |
+| Kröller-Müller Museum | Henry van de Velde | Otterlo, NL |
+| Abrahamic Family House | Adjaye Associates | Abu Dhabi, AE |

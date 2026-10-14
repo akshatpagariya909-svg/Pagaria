@@ -39,7 +39,8 @@ rules. The changes for these rounds:
 8. **Look at every photo before you pick it.** Several round 7 chats chose photos from file names when
    thumbnails were rate-limited, and some galleries showed other buildings, people, signs or artworks. If a
    thumbnail doesn't load, wait and retry, or leave the photo out; never pick by file name alone. The lead
-   photo is the outside of this building, in daylight, the whole building where possible.
+   photo is the outside of this building, in daylight, the whole building where possible, with no people as
+   its subject (no crowds, events, portraits, artworks or signs). Gallery photos follow the same rule.
 
 ## Output
 
