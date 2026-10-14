@@ -1,0 +1,452 @@
+[
+ {
+  "id": "groninger-museum",
+  "name": "Groninger Museum",
+  "by": "Alessandro Mendini, Philippe Starck, Coop Himmelb(l)au",
+  "city": "Groningen",
+  "cc": "NL",
+  "year": "1994",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Pavilions by Starck (silver cylinder), Mendini (yellow tower) and Coop Himmelb(l)au (pale blue deconstructivist space).",
+  "status": "photo",
+  "commons_category": "Category:Groninger Museum",
+  "photos": [
+   {
+    "file": "File:Groningen, Groninger Museum vanaf de westkant IMG 4247 2023-04-02 18.01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Groningen, Groninger Museum vanaf de westkant IMG 4271 2023-04-02 19.24.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Groningen, het Groninger Museum positie2 foto9 2015-03-22 12.33.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Groningen Groninger Museum 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Groninger_Museum"
+  ],
+  "note": ""
+ },
+ {
+  "id": "erasmus-bridge-rotterdam",
+  "name": "Erasmus Bridge",
+  "by": "Ben van Berkel (UNStudio)",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "1996",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "features": "802 m cable-stayed and bascule bridge; Ben van Berkel's design has one backward-leaning pylon.",
+  "status": "photo",
+  "commons_category": "Category:Erasmus bridge",
+  "photos": [
+   {
+    "file": "File:0 8562 Rotterdam - Erasmusbrücke.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:206 Rotterdam bridge.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Container ship passing under the Erasmus Bridge @ Harbour Tour @ Spido @ Rotterdam (30267548430).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beautiful Brige - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erasmusbrug"
+  ],
+  "note": "Photos picked by eye from category 'Erasmus bridge'."
+ },
+ {
+  "id": "kunstmuseum-den-haag",
+  "name": "Kunstmuseum Den Haag (Gemeentemuseum)",
+  "by": "Hendrik Petrus Berlage",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": "1935",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Berlage's last museum, built 1931-35 around water in everyday brickwork instead of marble or granite.",
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Den Haag",
+  "photos": [
+   {
+    "file": "File:Kunstmuseum Den Haag.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den Haag-Scheveningen, het Kunstmuseum (noordelijke deel) IMG 6089 2024-11-04 14.35.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den Haag-Scheveningen, het Kunstmuseum (zuidelijke deel) IMG 6100 2024-11-04 14.45.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Den_Haag"
+  ],
+  "note": ""
+ },
+ {
+  "id": "het-nieuwe-instituut-rotterdam",
+  "name": "Het Nieuwe Instituut",
+  "by": "Jo Coenen",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Archive, exhibition spaces and Sonneveld House set around a pond and small park; opened 1993.",
+  "status": "photo",
+  "commons_category": "Category:Het Nieuwe Instituut",
+  "photos": [
+   {
+    "file": "File:Architectuurinstituut Rotterdam, the Netherlands 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:GraphyArchy - Wikipedia 00230.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dijkzigt, Rotterdam, Netherlands - panoramio (24).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dijkzigt, Rotterdam, Netherlands - panoramio (46).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Het_Nieuwe_Instituut"
+  ],
+  "note": ""
+ },
+ {
+  "id": "lijnbaan-rotterdam",
+  "name": "Lijnbaan",
+  "by": "Van den Broek & Bakema",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "1953",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Circulation",
+   "Promenade"
+  ],
+  "features": "Described as Europe's first purpose-built pedestrian shopping street, built to rebuild Rotterdam after 1940.",
+  "status": "photo",
+  "commons_category": "Category:Lijnbaan, Rotterdam",
+  "photos": [
+   {
+    "file": "File:Rotterdam lijnbaan50-52.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam lijnbaan.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam lijnbaan76-94.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam lijnbaan77-91.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lijnbaan"
+  ],
+  "note": ""
+ },
+ {
+  "id": "timmerhuis-rotterdam",
+  "name": "Timmerhuis",
+  "by": "OMA, with J.R.A. Koops (1953 building)",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "2015",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Cluster",
+   "Facade as skin"
+  ],
+  "features": "OMA's contemporary building combined with J.R.A. Koops's post-war reconstruction architecture of 1950-53.",
+  "status": "photo",
+  "commons_category": "Category:Timmerhuis (Rotterdam)",
+  "photos": [
+   {
+    "file": "File:Rotterdam - Timmerhuis (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Timmerhuis - Rotterdam - from corner Raamplein-Haagseveer.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Timmerhuis - Rotterdam 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam - Timmerhuis (2).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timmerhuis"
+  ],
+  "note": ""
+ },
+ {
+  "id": "glaspaleis-heerlen",
+  "name": "Glaspaleis (Schunck)",
+  "by": "Frits Peutz",
+  "city": "Heerlen",
+  "cc": "NL",
+  "year": "1935",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Free-standing glass covers three sides and is part of the natural climate control; a Nieuwe Bouwen department store.",
+  "status": "photo",
+  "commons_category": "Category:Glaspaleis",
+  "photos": [
+   {
+    "file": "File:Glaspaleis front-east.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Glaspaleis front-west.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Glaspaleis Heerlen 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Exterieur overzicht glaspaleis - Heerlen - 20001045 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glaspaleis"
+  ],
+  "note": ""
+ },
+ {
+  "id": "peace-palace-the-hague",
+  "name": "Peace Palace",
+  "by": "Louis M. Cordonnier",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Neo-Renaissance courthouse chosen from 216 entries in a 1905 competition; funded by Andrew Carnegie.",
+  "status": "photo",
+  "commons_category": "Category:Peace Palace",
+  "photos": [
+   {
+    "file": "File:(NLD-South Holland) Vredespaleis 2025-06-05.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den Haag 18 51 40 204000.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Internationaal strafhof den haag.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peace_Palace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "royal-palace-amsterdam",
+  "name": "Royal Palace of Amsterdam",
+  "by": "Jacob van Campen",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1655",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Built as Amsterdam's city hall on 13,659 wooden piles; Van Campen took charge of the design in 1648.",
+  "status": "photo",
+  "commons_category": "Category:Royal Palace of Amsterdam",
+  "photos": [
+   {
+    "file": "File:Royal Palace, Amsterdam (25674891383).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Royal Palace, Amsterdam (33246354178).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Royal Palace, Amsterdam (7474827354).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam Royal Palace (9837332155).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
+  ],
+  "note": ""
+ },
+ {
+  "id": "lovink-pumping-station",
+  "name": "H. J. Lovink Pumping Station",
+  "by": "Dirk Roosenburg",
+  "city": "Biddinghuizen",
+  "cc": "NL",
+  "year": "1956",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Three rectangular blocks in a concrete frame with steel-framed windows; main entrance under a diagonal projection.",
+  "status": "photo",
+  "commons_category": "Category:Gemaal Lovink",
+  "photos": [
+   {
+    "file": "File:Gemaal Lovink.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Betonbalustrade op het dak - Harderwijk - 20382376 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/H._J._Lovink_Pumping_Station"
+  ],
+  "note": ""
+ }
+]
