@@ -14446,12 +14446,20 @@
   "add": [
    "File:Burnside Hall 01.jpg",
    "File:Burnside Hall 02.jpg"
+  ],
+  "skip": [
+   "File:McGill University downtown campus August 2017 01.jpg"
   ]
  },
  "confederation-centre-of-the-arts": {
   "category": "Category:Confederation Centre of the Arts",
   "add": [
    "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg"
+  ],
+  "skip": [
+   "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg",
+   "File:Seth Dominion Models.jpg",
+   "File:Confederation Centre sculpture.jpg"
   ]
  },
  "macmillan-bloedel-building": {
@@ -14468,6 +14476,9 @@
    "File:Maison Radio-Canada.jpg",
    "File:Maison de Radio-Canada, Montréal, South view 20170410 1.jpg",
    "File:Édifice de Radio-Canada à Montréal.JPG"
+  ],
+  "skip": [
+   "File:Boulevard René-Lévesque Est Montréal Canada.jpg"
   ]
  },
  "lester-b-pearson-building": {
@@ -14499,6 +14510,10 @@
    "File:Remai Art Gallery Exterior (42300899864).jpg",
    "File:Under the Remai Modern Overhang (46784056024).jpg",
    "File:Remai Modern Art Gallery.jpg"
+  ],
+  "skip": [
+   "File:Art Gallery Fireplace (42118019965).jpg",
+   "File:JEH MacDonald Logs on the Gatineau.jpg"
   ]
  },
  "halifax-central-library": {
@@ -14506,6 +14521,9 @@
   "add": [
    "File:Central library, Halifax - geograph.org.uk - 4781238.jpg",
    "File:Halifax central library.jpg"
+  ],
+  "skip": [
+   "File:Northgate, Halifax with storm brewing - geograph.org.uk - 46951.jpg"
   ]
  },
  "grande-bibliotheque": {
@@ -14514,6 +14532,11 @@
    "File:Grande Bibliotheque - 011.jpg",
    "File:Grande Bibliotheque - 012.jpg",
    "File:Grande Bibliotheque - 015.jpg"
+  ],
+  "skip": [
+   "File:Espace jeunes, Grande Bibliothèque, November 3, 2022.jpg",
+   "File:Postes d'emprunt, Grande Bibliothèque, 4th floor, Nov 03 2022.jpg",
+   "File:Staline livres.JPG"
   ]
  },
  "mississauga-civic-centre": {
@@ -14522,6 +14545,10 @@
    "File:Mississauga Civic Centre (1).jpg",
    "File:Mississauga Civic Centre, May 16 2026 (02).jpg",
    "File:Mississauga Civic Centre (1426444452).jpg"
+  ],
+  "skip": [
+   "File:Great Stair (3954124573).jpg",
+   "File:Council Chamber (3948764293).jpg"
   ]
  },
  "igloo-church-inuvik": {
@@ -14530,6 +14557,9 @@
    "File:Our Lady of Victory Church, Inuvik, NT, in late-evening sunlight.jpg",
    "File:Our Lady of Victory Church, Inuvik, NT - 2.jpg",
    "File:Front view of Our Lady of Victory Church, Inuvik, NT.jpg"
+  ],
+  "skip": [
+   "File:Crucifix with Igloo Base - Our Lady of Victory - Igloo-Shaped Church - Inuvik - Northwest Territories - Canada.jpg"
   ]
  },
  "supreme-court-of-canada-building": {
@@ -14546,11 +14576,19 @@
    "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 02.jpg",
    "File:City Hall (22568764194).jpg",
    "File:City Hall (51631843571).jpg"
+  ],
+  "skip": [
+   "File:City Hall (22568764194).jpg",
+   "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 04.jpg"
   ]
  },
  "peace-bridge-calgary": {
   "category": "Category:Peace Bridge (Calgary)",
   "add": [
+   "File:Calgary Peace Bridge during the day May 2012.jpg",
+   "File:Bow River and Peace Bridge, Calgary 20240819 1.jpg"
+  ],
+  "skip": [
    "File:Calgary Peace Bridge during the day May 2012.jpg",
    "File:Bow River and Peace Bridge, Calgary 20240819 1.jpg"
   ]
@@ -14561,6 +14599,11 @@
    "File:Monumento a la revolucion2020.jpg",
    "File:Frente al Monumento a la Revolución.JPG",
    "File:MonumenotALaRevolución201708p1.jpg"
+  ],
+  "skip": [
+   "File:LGBT Mexico City Pride 2025 Revolucion Monument.jpg",
+   "File:Interior y Cupula del Monumento a la Revolucion.JPG",
+   "File:Infrastructure (29341448166).jpg"
   ]
  },
  "torre-del-reformador": {
@@ -14568,6 +14611,10 @@
   "add": [
    "File:Torre del Reformador Fabriccio Díaz.jpg",
    "File:Torre del Reformador - Ciudad de Guatemala.jpg"
+  ],
+  "skip": [
+   "File:Torre del Reformador, Guatemala de noche.jpg",
+   "File:7a Avenida - Torre del Reformador.jpg"
   ]
  },
  "capitolio-de-puerto-rico": {
@@ -14584,6 +14631,12 @@
    "File:Отель Nacional de Cuba - panoramio.jpg",
    "File:The Hotel Nacional, Havana, Cuba LCCN2010638840.jpg",
    "File:Hotel Nacional (33014186833).jpg"
+  ],
+  "skip": [
+   "File:Hotel Nacional (33014186833).jpg",
+   "File:Cuba, Havana, Sunset over Hotel Nacional.jpg",
+   "File:CubaNationalHotel02.JPG",
+   "File:Wurlitzer 1015.jpg"
   ]
  },
  "gran-teatro-de-la-habana": {
@@ -14592,6 +14645,9 @@
    "File:Gran Teatro de La Habana (23488369999).jpg",
    "File:Gran Teatro de La Habana (36421118383).jpg",
    "File:Gran Teatro de La Habana.jpg"
+  ],
+  "skip": [
+   "File:La Habana (20526221605).jpg"
   ]
  },
  "saint-josephs-oratory": {
@@ -14608,6 +14664,10 @@
    "File:Chateau Frontenac viewed from a park in Quebec City.jpg",
    "File:Chateau Frontenac from a street in Old Quebec.jpg",
    "File:Tower of the Chateau Frontenac in Quebec City.jpg"
+  ],
+  "skip": [
+   "File:Dr. James F. Grant, ship's surgeon, fixing up Gordon G. Davidson, survivor of EMPRESS OF IRELAND, in Hotel Frontenac at Quebec LCCN2014696146 (cropped).jpg",
+   "File:Dr. James F. Grant, ship's surgeon, fixing up Gordon G. Davidson, survivor of EMPRESS OF IRELAND, in Hotel Frontenac at Quebec LCCN2014696146.jpg"
   ]
  },
  "union-station-toronto": {
@@ -14623,6 +14683,9 @@
    "File:Frontal view of Old City Hall in Toronto.jpg",
    "File:DSC09167 - Old City Hall (37049794672).jpg",
    "File:Old City Hall (18846792740).jpg"
+  ],
+  "skip": [
+   "File:Toronto August 2017 04.jpg"
   ]
  },
  "quebec-parliament-building": {
@@ -14631,6 +14694,12 @@
    "File:Assemblée nationale du Québec, Canada.jpg",
    "File:Assemblée nationale du Québec.jpg",
    "File:Demonstration against the health emergency in front of the Parliament Building of Quebec.jpg"
+  ],
+  "skip": [
+   "File:Demonstration against the health emergency in front of the Parliament Building of Quebec.jpg",
+   "File:Drapeau du Quebec.JPG",
+   "File:Corridor, Quebec Parliament 01.jpg",
+   "File:Corridor, Quebec Parliament 02.jpg"
   ]
  },
  "centre-block-ottawa": {
@@ -14647,6 +14716,9 @@
    "File:Rogers Centre, Home of the Toronto Blue Jays.jpg",
    "File:Rogers Centre.jpg",
    "File:CN Tower and the Rogers Centre.jpg"
+  ],
+  "skip": [
+   "File:Rogers Center (20734209835).jpg"
   ]
  },
  "calgary-city-hall": {
@@ -14655,6 +14727,10 @@
    "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 04.jpg",
    "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 08.jpg",
    "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 10.jpg"
+  ],
+  "skip": [
+   "File:Calgary City Hall Olympic Plaza downtown.jpg",
+   "File:Calgary Police Officers and Firefighters Tribute Plaza, Calgary, Alberta, 2025-07-14 01.jpg"
   ]
  },
  "william-g-davis-building": {
@@ -14671,11 +14747,18 @@
    "File:Hamilton City Hall in Hamilton, Ontario, from Commonwealth Square.jpg",
    "File:Hamilton City Hall in Hamilton, Ontario.jpg",
    "File:Hamilton City Hall.JPG"
+  ],
+  "skip": [
+   "File:SgroJuly42018Coleman.jpg"
   ]
  },
  "plaza-de-las-tres-culturas": {
   "category": "Category:Plaza de las Tres Culturas, Tlatelolco",
   "add": [
+   "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg",
+   "File:Danzas prehispánicas en la Plaza de las Tres Culturas - Nonoalco Tlatelolco, Ciudad de México.jpg"
+  ],
+  "skip": [
    "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg",
    "File:Danzas prehispánicas en la Plaza de las Tres Culturas - Nonoalco Tlatelolco, Ciudad de México.jpg"
   ]
