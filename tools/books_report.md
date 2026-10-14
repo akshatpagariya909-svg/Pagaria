@@ -1,6 +1,6 @@
 # Books report
 
-888 of 1443 books have a cover.
+936 of 1533 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -549,22 +549,106 @@
 | Einige Skizzen, Projekte und ausgeführte Bauwerke (Otto Wagner) | 1 matching results, none with a cover |
 | Kunstgewerbliche Laienpredigten (Henry van de Velde) | 1 matching results, none with a cover |
 | Die drei Sünden wider die Schönheit (Henry van de Velde) | 1 matching results, none with a cover |
-| Bruno Taut 1880–1938 (Kurt Junghanns) | isbn 3363006748 (loose title match: "Bruno Taut, 1880-1938") |
 | Grundlinien der Architektur Japans (Bruno Taut) | 2 matching results, none with a cover |
 | Ex Oriente Lux (Bruno Taut) | 1 matching results, none with a cover |
 | Architekturlehre (Bruno Taut) | 1 matching results, none with a cover |
 | Scienza o arte del costruire? (Pier Luigi Nervi) | 2 matching results, none with a cover |
 | Sämtliche Schriften (Adolf Loos) | 1 matching results, none with a cover |
-| Ins Leere gesprochen (Adolf Loos) | id 1032919 (loose title match: "Ins Leere gesprochen, 1897-1900") |
-| Trotzdem (Adolf Loos) | id 4241585 (loose title match: "Trotzdem, 1900-1930") |
 | Espacio y vida (Ricardo Bofill) | 1 matching results, none with a cover |
 | Apollo in der Demokratie (Walter Gropius) | 1 matching results, none with a cover |
 | Tempos de grossura: o design no impasse (Lina Bo Bardi) | no result by this author with this title among 1 results |
 | Voir, écrire (Christian de Portzamparc) | 1 matching results, none with a cover |
-| The Architecture of Ludwig Wittgenstein: A Documentation (Bernhard Leitner) | id 4872042 (loose title match: "The architecture of Ludwig Wittgenstein") |
-| Ludwig Wittgenstein, Architect (Paul Wijdeveld) | id 8147298 |
 | Phoenix at Coventry: The Building of a Cathedral (Basil Spence) | 1 matching results, none with a cover |
-| Isokon and the Bauhaus in Britain (Leyla Daybelge, Magnus Englund) | id 13885055 |
+| Topophilia and Topophobia: Reflections on Twentieth-Century Human Habitat (Xing Ruan, Paul Hogben) | no result by this author with this title among 2 results |
+| Intimate Metropolis: Urban Subjects in the Modern City (Vittoria Di Palma, Diana Periton, Marina Lathouri) | no result by this author with this title among 4 results |
+| Venturi, Scott Brown & Associates: Buildings and Projects 1986–1998 (Stanislaus von Moos) | no result by this author with this title among 8 results |
+| Hundertwasser Architecture: For a More Human Architecture in Harmony with Nature (Friedensreich Hundertwasser) | no result by this author with this title among 14 results |
+| Architecture or Techno-Utopia: Politics After Modernism (Felicity D. Scott) | no result by this author with this title among 1 results |
+| New Urban Housing (Hilary French) | id 162810 |
+| Technology and Place: Sustainable Architecture and the Blueprints of Ecology (Steven A. Moore) | no result by this author with this title among 18 results |
+| Minimum (John Pawson) | id 453538 |
+| Mies van der Rohe's Farnsworth House (Paul Clemence) | id 1440331 |
+| Architecture and Nihilism: On the Philosophy of Modern Architecture (Massimo Cacciari) | id 160082 |
+| Modern Architecture 1851–1919 (Kenneth Frampton) | id 13028448 (loose title match: "Modern architecture 1851-1919") |
+| Modern Architecture 1920–1945 (Kenneth Frampton) | no result by this author with this title among 1 results |
+| New China Architecture (Xing Ruan) | id 560712 |
+| Integrated Design in Contemporary Architecture (Kiel Moe) | id 2919608 |
+| Constructions (John Rajchman) | id 152369 |
+| Essays in Architectural Criticism: Modern Architecture and Historical Change (Alan Colquhoun) | no result by this author with this title among 4 results |
+| Frank Lloyd Wright Versus America: The 1930s (Donald Leslie Johnson) | id 2342567 (loose title match: "Frank Lloyd Wright versus America") |
+| The Architecture of Richard Rogers (Deyan Sudjic) | id 3891272 |
+| Eco-Tech: Sustainable Architecture and High Technology (Catherine Slessor) | no result by this author with this title among 10 results |
+| City Transformed: Urban Architecture at the Beginning of the 21st Century (Kenneth Powell) | no result by this author with this title among 13 results |
+| After the City (Lars Lerup) | id 150220 |
+| Airports: A Century of Architecture (Hugh Pearman) | isbn 9781856693561 |
+| Building in China: Henry K. Murphy's "Adaptive Architecture," 1914–1935 (Jeffrey W. Cody) | no result by this author with this title among 11 results |
+| H. H. Richardson: Complete Architectural Works (Jeffrey Karl Ochsner) | id 8232570 |
+| India Modern: Traditions of Innovation in Contemporary Architecture (Herbert Ypma) | no result by this author with this title among 11 results |
+| The Failure of Modern Architecture (Brent C. Brolin) | olid OL5200410M |
+| Transformations in Modern Architecture (Arthur Drexler) | id 4403421 |
+| The Tropical Asian House (Robert Powell) | id 3776554 |
+| Design Thinking (Peter G. Rowe) | id 152354 |
+| The Architectural Uncanny: Essays in the Modern Unhomely (Anthony Vidler) | no result by this author with this title among 4 results |
+| Next Generation Architecture: Folds, Blobs, and Boxes (Joseph Rosa) | id 643970 |
+| Frank Lloyd Wright: Architecture and Space (Peter Blake) | id 7304237 |
+| In the Nature of Materials: The Buildings of Frank Lloyd Wright, 1887–1941 (Henry-Russell Hitchcock) | no result by this author with this title among 10 results |
+| Team 10: In Search of a Utopia of the Present, 1953–81 (Max Risselada, Dirk van den Heuvel) | no result by this author with this title among 11 results |
+| Alvar Aalto: A Critical Study (Malcolm Quantrill) | id 4693966 |
+| Fabricate: Making Digital Architecture (Bob Sheil, Ruairi Glynn) | no result by this author with this title among 15 results |
+| Urban Design (Alex Krieger, William S. Saunders) | id 9765877 |
+| Friedrich Gilly: Essays on Architecture 1796–1799 (Friedrich Gilly) | no result by this author with this title among 12 results |
+| Jewish Identity in Contemporary Architecture (Angeli Sachs, Edward van Voolen) | id 2241182 |
+| Materials, Form and Architecture (Richard Weston) | id 161912 |
+| Louis I. Kahn: Complete Work 1935–1974 (Heinz Ronner, Sharad Jhaveri) | 1 matching results, none with a cover |
+| Age of the Masters: A Personal View of Modern Architecture (Reyner Banham) | no result by this author with this title among 10 results |
+| Building the Great Pyramid (Kevin Jackson, Jonathan Stamp) | id 8041508 |
+| Early Christian and Byzantine Architecture (Richard Krautheimer) | id 4985610 |
+| Age of Spectacle: Adventures in Architecture and the 21st-Century City (Tom Dyckhoff) | no result by this author with this title among 10 results |
+| Landscapes of Communism: A History Through Buildings (Owen Hatherley) | id 8564186 |
+| Shadow-Makers: A Cultural History of Shadows in Architecture (Stephen Kite, Adam Sharr) | no result by this author with this title among 11 results |
+| Architectural Theory: Volume I – An Anthology from Vitruvius to 1870 (Harry Francis Mallgrave) | id 1751459 (loose title match: "Architectural Theory") |
+| The Third Rome, 1922–43: The Making of a Fascist Capital (Aristotle Kallis) | no result by this author with this title among 1 results |
+| Women and the Making of the Modern House: A Social and Architectural History (Alice T. Friedman) | no result by this author with this title among 3 results |
+| Sketches from Japan (Francis D. K. Ching) | id 2425360 |
+| Drawing and Perceiving: Life Drawing for Students of Architecture and Design (Douglas Cooper) | no result by this author with this title among 7 results |
+| Léon Krier: Houses, Palaces, Cities (Léon Krier) | id 5024174 |
+| Measured Drawing for Architects (Robert Chitham) | id 8520465 |
+| Shades and Shadows (William R. Ware) | id 6265093 |
+| Hopkins: The Work of Michael Hopkins and Partners (Colin Davies) | id 1352916 (loose title match: "Work of Michael Hopkins, The") |
+| Drawing for Landscape Architecture: Sketch to Screen to Site (Edward Hutchison) | no result by this author with this title among 4 results |
+| 100 Contemporary Architects: Drawings and Sketches (Bill Lacy) | id 3962301 (loose title match: "100 Contemporary Architects") |
+| Drawing/Thinking: Confronting an Electronic Age (Marc Treib) | id 13921654 (loose title match: "Thinking through Drawing in an Electronic Age") |
+| The Study of Architectural Design (John F. Harbeson) | id 2412959 |
+| The Architects' Handbook (Quentin Pickard) | id 1328324 |
+| Architectural Detailing: Function, Constructibility, Aesthetics (Edward Allen, Patrick Rand) | no result by this author with this title among 18 results |
+| Marion Mahony Griffin: Drawing the Form of Nature (Debora Wood) | no result by this author with this title among 4 results |
+| Digital Workflows in Architecture: Design–Assembly–Industry (Scott Marble) | id 7820322 (loose title match: "Digital Workflows in Architecture") |
+| Digital Fabrication in Architecture (Nick Dunn) | id 7518069 |
+| Drawing for Urban Design (Lorraine Farrelly) | id 7713775 |
+| The Art of Architectural Illustration (Gordon Grice) | id 13241422 |
+| Gamble House: Greene & Greene (Edward R. Bosley) | 3 matching results, none with a cover |
+| Houses of the Hamptons, 1880–1930 (Gary Lawrance, Anne Surchin) | id 1672330 (loose title match: "Houses of the Hamptons, 1880-1930") |
+| Paradise by Design: The Work of Bill Bensley (Bill Bensley) | no result by this author with this title among 6 results |
+| Imagining the Turkish House: Collective Visions of Home (Carel Bertram) | no result by this author with this title among 2 results |
+| Bertram Goodhue: His Life and Residential Architecture (Romy Wyllie) | no result by this author with this title among 10 results |
+| The Japanese House: Architecture and Interiors (Alexandra Black) | no result by this author with this title among 12 results |
+| Yin Yu Tang: The Architecture and Daily Life of a Chinese House (Nancy Berliner) | no result by this author with this title among 10 results |
+| Experimental Houses (Nicolas Pople) | id 624142 |
+| Scotland's Traditional Houses (Elizabeth Beaton) | id 79115 |
+| Houses Architects Live In (Barbara Plumb) | isbn 0670380385 |
+| Dutch Houses in the Hudson Valley Before 1776 (Helen Wilkinson Reynolds) | id 9164918 |
+| The Polite Tourist: Four Centuries of Country House Visiting (Adrian Tinniswood) | no result by this author with this title among 2 results |
+| The Art Deco House: Avant-Garde Houses of the 1930s (Adrian Tinniswood) | no result by this author with this title among 3 results |
+| Houses, Villas, and Palaces in the Roman World (Alexander G. McKay) | 1 matching results, none with a cover |
+| Great Houses of Ireland (Hugh Montgomery-Massingberd) | id 643687 |
+| Modernism and the Architecture of Private Life (Victoria Rosner) | id 4246204 |
+| Bali Houses: New Indonesian Architecture (Gianni Francione) | no result by this author with this title among 10 results |
+| New Japanese House: Ritual and Anti-Ritual Patterns of Dwelling (Chris Fawcett) | no result by this author with this title among 6 results |
+| Isms: Understanding Architecture (Jeremy Melvin) | 1 matching results, none with a cover |
+| The Roman Villa: A Historical Introduction (John Percival) | no result by this author with this title among 12 results |
+| The Australian House: Homes of the Colonial Era (Balwant Saini) | no result by this author with this title among 10 results |
+| The Last Country Houses (Clive Aslet) | id 9242227 |
+| Estancias: The Great Houses and Ranches of Argentina (María Sáenz Quesada) | no result by this author with this title among 12 results |
 
 ## No cover yet
 
@@ -1125,3 +1209,45 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - tempos-de-grossura-o-design-no-impasse: Tempos de grossura: o design no impasse (Lina Bo Bardi)
 - voir-ecrire: Voir, écrire (Christian de Portzamparc)
 - phoenix-at-coventry-the-building-of-a-cathedral: Phoenix at Coventry: The Building of a Cathedral (Basil Spence)
+- topophilia-and-topophobia-reflections-on-twentieth-century-h: Topophilia and Topophobia: Reflections on Twentieth-Century Human Habitat (Xing Ruan, Paul Hogben)
+- intimate-metropolis-urban-subjects-in-the-modern-city: Intimate Metropolis: Urban Subjects in the Modern City (Vittoria Di Palma, Diana Periton, Marina Lathouri)
+- venturi-scott-brown-associates-buildings-and-projects-198619: Venturi, Scott Brown & Associates: Buildings and Projects 1986–1998 (Stanislaus von Moos)
+- hundertwasser-architecture-for-a-more-human-architecture-in: Hundertwasser Architecture: For a More Human Architecture in Harmony with Nature (Friedensreich Hundertwasser)
+- architecture-or-techno-utopia-politics-after-modernism: Architecture or Techno-Utopia: Politics After Modernism (Felicity D. Scott)
+- technology-and-place-sustainable-architecture-and-the-bluepr: Technology and Place: Sustainable Architecture and the Blueprints of Ecology (Steven A. Moore)
+- modern-architecture-19201945: Modern Architecture 1920–1945 (Kenneth Frampton)
+- essays-in-architectural-criticism-modern-architecture-and-hi: Essays in Architectural Criticism: Modern Architecture and Historical Change (Alan Colquhoun)
+- eco-tech-sustainable-architecture-and-high-technology: Eco-Tech: Sustainable Architecture and High Technology (Catherine Slessor)
+- city-transformed-urban-architecture-at-the-beginning-of-the: City Transformed: Urban Architecture at the Beginning of the 21st Century (Kenneth Powell)
+- building-in-china-henry-k-murphy-s-adaptive-architecture-191: Building in China: Henry K. Murphy's "Adaptive Architecture," 1914–1935 (Jeffrey W. Cody)
+- india-modern-traditions-of-innovation-in-contemporary-archit: India Modern: Traditions of Innovation in Contemporary Architecture (Herbert Ypma)
+- the-architectural-uncanny-essays-in-the-modern-unhomely: The Architectural Uncanny: Essays in the Modern Unhomely (Anthony Vidler)
+- in-the-nature-of-materials-the-buildings-of-frank-lloyd-wrig: In the Nature of Materials: The Buildings of Frank Lloyd Wright, 1887–1941 (Henry-Russell Hitchcock)
+- team-10-in-search-of-a-utopia-of-the-present-195381: Team 10: In Search of a Utopia of the Present, 1953–81 (Max Risselada, Dirk van den Heuvel)
+- fabricate-making-digital-architecture: Fabricate: Making Digital Architecture (Bob Sheil, Ruairi Glynn)
+- friedrich-gilly-essays-on-architecture-17961799: Friedrich Gilly: Essays on Architecture 1796–1799 (Friedrich Gilly)
+- louis-i-kahn-complete-work-19351974: Louis I. Kahn: Complete Work 1935–1974 (Heinz Ronner, Sharad Jhaveri)
+- age-of-the-masters-a-personal-view-of-modern-architecture: Age of the Masters: A Personal View of Modern Architecture (Reyner Banham)
+- age-of-spectacle-adventures-in-architecture-and-the-21st-cen: Age of Spectacle: Adventures in Architecture and the 21st-Century City (Tom Dyckhoff)
+- shadow-makers-a-cultural-history-of-shadows-in-architecture: Shadow-Makers: A Cultural History of Shadows in Architecture (Stephen Kite, Adam Sharr)
+- the-third-rome-192243-the-making-of-a-fascist-capital: The Third Rome, 1922–43: The Making of a Fascist Capital (Aristotle Kallis)
+- women-and-the-making-of-the-modern-house-a-social-and-archit: Women and the Making of the Modern House: A Social and Architectural History (Alice T. Friedman)
+- drawing-and-perceiving-life-drawing-for-students-of-architec: Drawing and Perceiving: Life Drawing for Students of Architecture and Design (Douglas Cooper)
+- drawing-for-landscape-architecture-sketch-to-screen-to-site: Drawing for Landscape Architecture: Sketch to Screen to Site (Edward Hutchison)
+- architectural-detailing-function-constructibility-aesthetics: Architectural Detailing: Function, Constructibility, Aesthetics (Edward Allen, Patrick Rand)
+- marion-mahony-griffin-drawing-the-form-of-nature: Marion Mahony Griffin: Drawing the Form of Nature (Debora Wood)
+- gamble-house-greene-greene: Gamble House: Greene & Greene (Edward R. Bosley)
+- paradise-by-design-the-work-of-bill-bensley: Paradise by Design: The Work of Bill Bensley (Bill Bensley)
+- imagining-the-turkish-house-collective-visions-of-home: Imagining the Turkish House: Collective Visions of Home (Carel Bertram)
+- bertram-goodhue-his-life-and-residential-architecture: Bertram Goodhue: His Life and Residential Architecture (Romy Wyllie)
+- the-japanese-house-architecture-and-interiors: The Japanese House: Architecture and Interiors (Alexandra Black)
+- yin-yu-tang-the-architecture-and-daily-life-of-a-chinese-hou: Yin Yu Tang: The Architecture and Daily Life of a Chinese House (Nancy Berliner)
+- the-polite-tourist-four-centuries-of-country-house-visiting: The Polite Tourist: Four Centuries of Country House Visiting (Adrian Tinniswood)
+- the-art-deco-house-avant-garde-houses-of-the-1930s: The Art Deco House: Avant-Garde Houses of the 1930s (Adrian Tinniswood)
+- houses-villas-and-palaces-in-the-roman-world: Houses, Villas, and Palaces in the Roman World (Alexander G. McKay)
+- bali-houses-new-indonesian-architecture: Bali Houses: New Indonesian Architecture (Gianni Francione)
+- new-japanese-house-ritual-and-anti-ritual-patterns-of-dwelli: New Japanese House: Ritual and Anti-Ritual Patterns of Dwelling (Chris Fawcett)
+- isms-understanding-architecture: Isms: Understanding Architecture (Jeremy Melvin)
+- the-roman-villa-a-historical-introduction: The Roman Villa: A Historical Introduction (John Percival)
+- the-australian-house-homes-of-the-colonial-era: The Australian House: Homes of the Colonial Era (Balwant Saini)
+- estancias-the-great-houses-and-ranches-of-argentina: Estancias: The Great Houses and Ranches of Argentina (María Sáenz Quesada)
