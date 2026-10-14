@@ -1,0 +1,406 @@
+[
+ {
+  "id": "black-star-square-accra",
+  "name": "Black Star Square",
+  "by": "Theo Lawson",
+  "city": "Accra",
+  "cc": "GH",
+  "year": "1961",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Parade ground with stands for 30,000 and the Independence Arch, Liberation Day Monument and Black Star Gate.",
+  "status": "photo",
+  "commons_category": "Category:Independence Square (Ghana)",
+  "photos": [
+   {
+    "file": "File:Black Star Square.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Black Star Square, Ghana.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Black Star Square in Ghana 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Black Star Square 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Black_Star_Square"
+  ],
+  "note": "Commons category Black Star Square is empty; files are in Independence Square (Ghana). Panoramas are very wide; reviewer pick the best."
+ },
+ {
+  "id": "african-renaissance-monument-dakar",
+  "name": "African Renaissance Monument",
+  "by": "Pierre Goudiaby Atepa",
+  "city": "Dakar",
+  "cc": "SN",
+  "year": "2010",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "50 m bronze figure group of a family on a hill in Ouakam, overlooking the Atlantic.",
+  "status": "photo",
+  "commons_category": "Category:African Renaissance Monument",
+  "photos": [
+   {
+    "file": "File:Monument renaissance.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:SN-dakar-renaiss-monum-03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Statue de la renaissance vue de Ouakam.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:African Renaissance Monument (5502494604).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/African_Renaissance_Monument"
+  ],
+  "note": "Statue rather than a building; reviewer decide."
+ },
+ {
+  "id": "cathedral-church-of-christ-lagos",
+  "name": "Cathedral Church of Christ",
+  "by": "Bagan Benjamin",
+  "city": "Lagos",
+  "cc": "NG",
+  "year": "1946",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "Norman Gothic cathedral begun in 1924; oldest Anglican cathedral in the Church of Nigeria.",
+  "status": "photo",
+  "commons_category": "Category:Christ Church Cathedral, Lagos",
+  "photos": [
+   {
+    "file": "File:Front view of Cathedral Church of Christ.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cathedral Church of Christ, CMS, Lagos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cathedral-church-of-christ-lagos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cathedral-view-from-an-angle.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cathedral_Church_of_Christ,_Lagos"
+  ],
+  "note": "Architect name from infobox only; check."
+ },
+ {
+  "id": "obafemi-awolowo-university",
+  "name": "Obafemi Awolowo University",
+  "by": "Arieh Sharon",
+  "city": "Ile-Ife",
+  "cc": "NG",
+  "year": "1967",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Circulation",
+   "Landscape"
+  ],
+  "features": "Campus planned by Arieh Sharon as three communities; first buildings finished in 1967.",
+  "status": "unsure",
+  "commons_category": "Category:Obafemi Awolowo University",
+  "photos": [
+   {
+    "file": "File:A view of Faculty of Technology Building, Obafemi Awolowo University, Ile-Ife.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Another view of Faculty of Technology Building, Obafemi Awolowo University, Ile-Ife.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Obafemi_Awolowo_University"
+  ],
+  "note": "Huge category of mostly phone photos; not clear which show Sharon's buildings. Year is first-building completion. Reviewer decide or drop."
+ },
+ {
+  "id": "nigerian-national-christian-centre",
+  "name": "Nigerian National Christian Centre",
+  "by": "Darchiwork Group",
+  "city": "Abuja",
+  "cc": "NG",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Postmodern take on Neo-Gothic with a central altar that turns about every ten minutes.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nigerian_National_Christian_Centre"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "nyayo-house",
+  "name": "Nyayo House",
+  "by": "Ngotho Architects, Ministry of Public Works",
+  "city": "Nairobi",
+  "cc": "KE",
+  "year": "1983",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "84 m government tower of 27 floors at Uhuru Highway and Kenyatta Avenue; built 1979-1983.",
+  "status": "photo",
+  "commons_category": "Category:Nyayo House",
+  "photos": [
+   {
+    "file": "File:Nyayo House as seen from Uhuru Park.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nyayo House in Kenya.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nyayo_House"
+  ],
+  "note": "Government office tower (ordinary type but notable landmark; 1 of list)."
+ },
+ {
+  "id": "tintenpalast-windhoek",
+  "name": "Tintenpalast (Parliament Building)",
+  "by": "Gottlieb Redecker",
+  "city": "Windhoek",
+  "cc": "NA",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Neoclassical parliament building of regional materials, built 1912-1913 by Sander & Kock.",
+  "status": "photo",
+  "commons_category": "Category:Tintenpalast",
+  "photos": [
+   {
+    "file": "File:Windhuk Tintenpalast.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tintenpalast, Windhoek, Namibia, 2018-08-04, DD 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tintenpalast mit Garten.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parliament_Building,_Windhoek"
+  ],
+  "note": ""
+ },
+ {
+  "id": "christuskirche-windhoek",
+  "name": "Christuskirche",
+  "by": "Gottlieb Redecker",
+  "city": "Windhoek",
+  "cc": "NA",
+  "year": "1910",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Neo-Romanesque, Art Nouveau and Gothic Revival church of local quartz sandstone with Carrara marble portico.",
+  "status": "photo",
+  "commons_category": "Category:Christuskirche Windhoek",
+  "photos": [
+   {
+    "file": "File:Christuskirche - Landmark church in Windhoek, Namibia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Christuskirche am Parliament Garden, Windhoek.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christ_Church,_Windhoek"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bahai-house-of-worship-kampala",
+  "name": "Bahá'í House of Worship, Kampala",
+  "by": "Charles Mason Remey",
+  "city": "Kampala",
+  "cc": "UG",
+  "year": "1961",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "Domed temple 39 m high, with an Italian mosaic-tiled dome; stone, doors and benches from Uganda; dedicated 1961.",
+  "status": "photo",
+  "commons_category": "Category:Bahá'í House of Worship in Kampala",
+  "photos": [
+   {
+    "file": "File:Bahai temple of Uganda.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bahá'í House of Worship in Kampala.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baha'i House of Worship, Kampala, Uganda.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_House_of_Worship"
+  ],
+  "note": "Facts from general House of Worship article; check year/architect against Kampala-specific page if wanted."
+ },
+ {
+  "id": "maputo-central-railway-station",
+  "name": "Maputo Central Railway Station",
+  "by": "Mario Veiga, Alfredo Augusto Lisboa de Lima (plans); José Ferreira da Costa (dome)",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1916",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Beaux-Arts station of baked brick and cement with a copper-clad central dome rising to 51 m.",
+  "status": "photo",
+  "commons_category": "Category:Maputo train station",
+  "photos": [
+   {
+    "file": "File:Maputo, RTW 2012 (8356539341).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:CFC Station Maputo.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maputo_Central_Railway_Station"
+  ],
+  "note": "Exterior shots uncertain; reviewer check closely."
+ }
+]
