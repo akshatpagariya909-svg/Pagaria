@@ -620,6 +620,875 @@
   "note": "no free photo found of the building exterior (category is mostly museum objects)."
  },
  {
+  "id": "national-centre-for-the-performing-arts-mumbai",
+  "name": "National Centre for the Performing Arts",
+  "by": "Philip Johnson (concept), Rustom Patell",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "1985",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Concrete-frame International Style arts complex on reclaimed land at Nariman Point; concept by Philip Johnson.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jamshed Bhabha Theatre at NCPA, Mumbai.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(India)"
+  ],
+  "note": "Wikipedia: completed 1985, opened 1986; Tata Theatre opened 1982. Only the Jamshed Bhabha Theatre block seen; other photos unseen/rate-limited."
+ },
+ {
+  "id": "visvesvaraya-centre-bengaluru",
+  "name": "Visvesvaraya Centre (VV Towers)",
+  "by": "Charles Correa",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "1983",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "Two concrete towers of 22 and 12 storeys joined by a three-storey podium; Brutalist style.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Visvesvaraya Centre",
+  "photos": [
+   {
+    "file": "File:Visvesvaraya Centre Southern Face.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Visvesvaraya_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Visvesvaraya_Centre"
+  ],
+  "note": "Office type (government offices) but a Correa Brutalist key work; the only ordinary-type entry. Trees partly screen other faces."
+ },
+ {
+  "id": "st-peter-and-st-pauls-church-parumala",
+  "name": "St. Peter and St. Paul's Church, Parumala",
+  "by": "Charles Correa",
+  "city": "Parumala",
+  "cc": "IN",
+  "year": "2000",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Sculptural form"
+  ],
+  "features": "Circular plan, 39 m inner diameter, split into three segments by two 16 m chords; seats over 2,000.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Parumala Church",
+  "photos": [
+   {
+    "file": "File:Parumala Church.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Peter_and_St._Paul%27s_Church,_Parumala",
+   "https://en.wikipedia.org/wiki/Charles_Correa",
+   "https://commons.wikimedia.org/wiki/Category:Parumala_Church"
+  ],
+  "note": "Year 2000 from the Charles Correa article; church article gives 1895 for the older foundation."
+ },
+ {
+  "id": "chowdiah-memorial-hall",
+  "name": "Chowdiah Memorial Hall",
+  "by": "S. N. Murthy",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "1980",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Community"
+  ],
+  "features": "1,100-seat auditorium built in the shape of a gigantic seven-stringed violin; completed 1980.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Chowdiah Memorial Hall",
+  "photos": [
+   {
+    "file": "File:Chowdiah Memorial Hall.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chowdiah_Memorial_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Chowdiah_Memorial_Hall"
+  ],
+  "note": "Only one free exterior photo found (2816x2112), hazy light and the violin form is not obvious from this angle."
+ },
+ {
+  "id": "telangana-secretariat",
+  "name": "Dr. B.R. Ambedkar Telangana State Secretariat",
+  "by": "Ponni Concessao and Oscar Concessao (OCI Architects)",
+  "city": "Hyderabad",
+  "cc": "IN",
+  "year": "2023",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Water"
+  ],
+  "features": "Domed Indo-Saracenic-style secretariat, 265 ft tall, with 635 rooms on a 27.9-acre site.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Telangana Secretariat",
+  "photos": [
+   {
+    "file": "File:Dr. B.R. Ambedkar Telangana State Secretariat complex in Hyderabad.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telangana_Secretariat",
+   "https://commons.wikimedia.org/wiki/Category:Telangana_Secretariat"
+  ],
+  "note": "Opened 30 April 2023; main contractor Shapoorji Pallonji."
+ },
+ {
+  "id": "jehangir-art-gallery",
+  "name": "Jehangir Art Gallery",
+  "by": "Durga Bajpai",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "1952",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "One of the city's early concrete buildings, with a large wavy cantilevered entrance canopy; four exhibition halls.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Jehangir Art Gallery",
+  "photos": [
+   {
+    "file": "File:JAG From Outside.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery",
+   "https://commons.wikimedia.org/wiki/Category:Jehangir_Art_Gallery"
+  ],
+  "note": "Wikipedia credits Durga Bajpai in the Architecture section but G. M. Bhuta (citation needed) in the lead: reviewer to check."
+ },
+ {
+  "id": "valluvar-kottam",
+  "name": "Valluvar Kottam",
+  "by": "V. Ganapati Sthapati",
+  "city": "Chennai",
+  "cc": "IN",
+  "year": "1976",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "39 m granite temple-chariot monument with a Valluvar statue; Kural couplets carved around the auditorium hall.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Valluvar Kottam",
+  "photos": [
+   {
+    "file": "File:Valluvar Kottam Chariot.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Outside valluvar kottam.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valluvar_Kottam",
+   "https://commons.wikimedia.org/wiki/Category:Valluvar_Kottam"
+  ],
+  "note": ""
+ },
+ {
+  "id": "antilia-mumbai",
+  "name": "Antilia",
+  "by": "Perkins & Will",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "2010",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "27-storey, 173 m private residence, designed to withstand a magnitude-eight earthquake.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Antilia",
+  "photos": [
+   {
+    "file": "File:Antilia.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antilia_(building)"
+  ],
+  "note": "Private residence; built 2006-2010 per Wikipedia. Photo is distant and hazy but clear."
+ },
+ {
+  "id": "nita-mukesh-ambani-cultural-centre",
+  "name": "Nita Mukesh Ambani Cultural Centre",
+  "by": "TVS Design",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "2023",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Arts centre in Jio World Centre with a 2,000-seat Grand Theatre, a Studio Theatre, a Cube and a four-storey Art House.",
+  "award": "South Asia list",
+  "status": "unsure",
+  "commons_category": "Category:Nita Mukesh Ambani Cultural Centre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nita_Mukesh_Ambani_Cultural_Centre"
+  ],
+  "note": "no free photo in good light: the only file in the article and my search is a night shot with signage (File:2023-0329-nmacc-night.jpg, CC0); reviewer may check the Commons category for daylight exteriors."
+ },
+ {
+  "id": "chhatrapati-shivaji-maharaj-terminus",
+  "name": "Chhatrapati Shivaji Maharaj Terminus (Victoria Terminus)",
+  "by": "Frederick William Stevens (from an initial design by Axel Haig)",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "1888",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Indo-Saracenic and Victorian Gothic Revival railway terminus with 18 platforms; UNESCO World Heritage Site since 2004.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Chhatrapati Shivaji Maharaj Terminus",
+  "photos": [
+   {
+    "file": "File:Chhatrapati shivaji terminus, esterno 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Terminus",
+   "https://commons.wikimedia.org/wiki/Category:Chhatrapati_Shivaji_Maharaj_Terminus"
+  ],
+  "note": "Infobox gives 20 May 1888; text says completed 1887, opened to public 1888. Historic precedent #2 of 4."
+ },
+ {
+  "id": "victoria-memorial-kolkata",
+  "name": "Victoria Memorial",
+  "by": "William Emerson",
+  "city": "Kolkata",
+  "cc": "IN",
+  "year": "1921",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Indo-Saracenic memorial-museum in white Makrana marble, in 26 hectares of gardens, opened in 1921.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Victoria Memorial, Kolkata",
+  "photos": [
+   {
+    "file": "File:Kolkata Victoria Memorial South side.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Victoria Memorial Hall, Kolkata.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+  ],
+  "note": "Historic precedent #3 of 4."
+ },
+ {
+  "id": "vidhana-soudha",
+  "name": "Vidhana Soudha",
+  "by": "B. R. Manickam",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "1956",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Neo-Dravidian legislature building in Karnataka granite; four floors, 172 rooms, motto carved on the entablature.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Vidhana Soudha",
+  "photos": [
+   {
+    "file": "File:Vidhana Soudha (Bengaluru) - View of the central dome and front portico with the motto inscription.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vidhana_Soudha",
+   "https://commons.wikimedia.org/wiki/Category:Vidhana_Soudha"
+  ],
+  "note": "Photo is a close view of the central dome and portico, not the whole facade. Finished 1956 (built 1952-56)."
+ },
+ {
+  "id": "nehru-centre-mumbai",
+  "name": "Nehru Centre",
+  "by": "I. M. Kadri",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "1985",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "Cylindrical tower on a sloped, landscaped base; 1,000-seat auditorium, planetarium, exhibition galleries.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Nehru Centre",
+  "photos": [
+   {
+    "file": "File:NehruCentreWorliPrd1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nehru Centre worli mumbai.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nehru_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Nehru_Centre"
+  ],
+  "note": "Completed 1985 on a six-acre Worli site; foundation stone 1972."
+ },
+ {
+  "id": "gateway-of-india",
+  "name": "Gateway of India",
+  "by": "George Wittet",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": "1924",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "26 m yellow basalt and reinforced-concrete arch, Indo-Saracenic, drawing on 16th-century Gujarati architecture.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Gateway of India",
+  "photos": [
+   {
+    "file": "File:Gateway of india a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gateway_of_India",
+   "https://commons.wikimedia.org/wiki/Category:Gateway_of_India"
+  ],
+  "note": "Historic precedent #1 of 4. Photo is whole building in daylight but with crowds, barriers and pigeons in front; a cleaner file may exist in the category (not seen)."
+ },
+ {
+  "id": "jawaharlal-nehru-centre-for-advanced-scientific-research",
+  "name": "Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)",
+  "by": "Charles Correa",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "1995",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Jakkur campus with Correa's Buckyball structure at the Molecular Biology and Genetics Unit; inaugurated 1995.",
+  "award": "South Asia list",
+  "status": "unsure",
+  "commons_category": "Category:Jawaharlal Nehru Centre for Advanced Scientific Research",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Centre_for_Advanced_Scientific_Research",
+   "https://commons.wikimedia.org/wiki/Category:Jawaharlal_Nehru_Centre_for_Advanced_Scientific_Research"
+  ],
+  "note": "no free photo: Commons category holds only the Buckyball interior view and a gazebo; no exterior of the campus buildings."
+ },
+ {
+  "id": "anna-centenary-library",
+  "name": "Anna Centenary Library",
+  "by": "C. N. Raghavendran",
+  "city": "Chennai",
+  "cc": "IN",
+  "year": "2010",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Double height",
+   "Light from above"
+  ],
+  "features": "Nine-floor library on 8 acres holding 1.2 million books; first library building in Asia with LEED NC Gold.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Anna Centenary Library",
+  "photos": [
+   {
+    "file": "File:Anna Centenary Library Exterior.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anna_Centenary_Library",
+   "https://commons.wikimedia.org/wiki/Category:Anna_Centenary_Library"
+  ],
+  "note": "Opened 15 September 2010 per infobox."
+ },
+ {
+  "id": "ravindra-bharathi",
+  "name": "Ravindra Bharathi",
+  "by": "Mohammed Fayazuddin",
+  "city": "Hyderabad",
+  "cc": "IN",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Axis"
+  ],
+  "features": "Auditorium of about 1,000 seats built for Tagore's birth centenary; opened 1961 and renovated in 2005.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Ravindra Bharathi",
+  "photos": [
+   {
+    "file": "File:Ravindra Bharathi Auditorium, Lakdikapool.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ravindra_Bharathi",
+   "https://commons.wikimedia.org/wiki/Category:Ravindra_Bharathi"
+  ],
+  "note": "Architect name spelled Mohammed (infobox) / Mohammad (text) in the article. Movement Modernism is my reading of 1960s date, not stated by the source."
+ },
+ {
+  "id": "swaminarayan-akshardham-gandhinagar",
+  "name": "Swaminarayan Akshardham, Gandhinagar",
+  "by": "Chandrakant Sompura",
+  "city": "Gandhinagar",
+  "cc": "IN",
+  "year": "1992",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "108 ft main temple in about 6,000 tonnes of pink Rajasthan sandstone, 97 carved pillars and 17 domes; no steel used.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Akshardham Gandhinagar Gujarat.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Akshardham_(Gandhinagar)"
+  ],
+  "note": "Only photo in the article is 1140x735 (long side under 1200px); Commons category name not found, a larger file may exist. Infobox 2 Nov 1992, inaugurated 4 Nov 1992."
+ },
+ {
+  "id": "sidi-saiyyed-mosque",
+  "name": "Sidi Saiyyed Mosque",
+  "by": "Shaikh Sa'id Al-Habshi Sultani (Sidi Sa'id), builder",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1573",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Ten carved stone latticework windows (jalis); the Sidi Saiyyed Jali is an unofficial symbol of Ahmedabad.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Sidi Saiyyed Mosque",
+  "photos": [
+   {
+    "file": "File:Sidi Saiyyed Mosque, Ahmedabad.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Front view of Sidi Saiyyed Mosque, Ahmedabad.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Sidi_Saiyyed_Mosque"
+  ],
+  "note": "Historic precedent #4 of 4. Article names the builder, not an architect; built 980 AH (1572/73). The jali itself is not in the two seen photos (see Commons category)."
+ },
+ {
+  "id": "biswa-bangla-gate",
+  "name": "Biswa Bangla Gate (Kolkata Gate)",
+  "by": "Vector Designs",
+  "city": "Kolkata",
+  "cc": "IN",
+  "year": "2018",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "55 m gate: a circular viewing ring carried by two parabolic arches on four legs; about 70 tonnes of steel.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Biswa Bangla Gate",
+  "photos": [
+   {
+    "file": "File:Kolkata Gate (officially known as Biswa Bangla Gate).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Biswa_Bangla_Gate",
+   "https://commons.wikimedia.org/wiki/Category:Biswa_Bangla_Gate"
+  ],
+  "note": "Completed 27 Jan 2018, opened 2 Feb 2019. Only usable photo is a heavily saturated sunset shot; the architect is given as the firm Vector Designs."
+ },
+ {
+  "id": "mahindra-united-world-college-of-india",
+  "name": "Mahindra United World College of India",
+  "by": "Christopher Benninger",
+  "city": "Pune",
+  "cc": "IN",
+  "year": "1997",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Courtyard",
+   "Earth & local material"
+  ],
+  "features": "Hilltop campus of 'wadas' (student house clusters around courtyards) in local materials, near Mulshi Dam.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:UWC Mahindra College",
+  "photos": [
+   {
+    "file": "File:UWCMC, Towards the Academic Quad.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mahindra_United_World_College_of_India",
+   "https://commons.wikimedia.org/wiki/Category:UWC_Mahindra_College"
+  ],
+  "note": "Year is the inauguration (28 Nov 1997); the article gives no completion year. Photo 1936x1113 shows stone-clad buildings along a path, not the whole campus."
+ },
+ {
+  "id": "nandan-kolkata",
+  "name": "Nandan",
+  "by": "Bikash Naskar",
+  "city": "Kolkata",
+  "cc": "IN",
+  "year": "1985",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Community",
+   "Public space"
+  ],
+  "features": "Government film and cultural centre with three auditoria (931, 200 and 100 seats); logo designed by Satyajit Ray.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Nandan (Kolkata)",
+  "photos": [
+   {
+    "file": "File:Nandan - Kolkata 2011-01-09 0153.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nandan_(Kolkata)",
+   "https://commons.wikimedia.org/wiki/Category:Nandan_(Kolkata)"
+  ],
+  "note": "Inaugurated 2 Sept 1985. Photo is taken at dusk with people in front; other files in the category are similar or event shots. Architect is only in the infobox."
+ },
+ {
+  "id": "dakshinachitra",
+  "name": "DakshinaChitra",
+  "by": "Laurie Baker (master plan), Benny Kuriakose",
+  "city": "Chennai",
+  "cc": "IN",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Cluster",
+   "Incremental"
+  ],
+  "features": "Living-history museum of 18 relocated heritage houses; Baker's free master plan rejected a big exhibition pavilion.",
+  "award": "South Asia list",
+  "status": "unsure",
+  "commons_category": "Category:DakshinaChitra",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/DakshinaChitra",
+   "https://commons.wikimedia.org/wiki/Category:DakshinaChitra"
+  ],
+  "note": "no free photo of the museum buildings themselves: Commons files show relocated heritage houses (Kerala House, etc.), not Baker/Kuriakose architecture; reviewer to decide. Opened 14 Dec 1996."
+ },
+ {
+  "id": "calico-dome-ahmedabad",
+  "name": "Calico Dome",
+  "by": "Gautam Sarabhai and Gira Sarabhai",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "year": "1962",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Prefabrication"
+  ],
+  "features": "Five-pointed geodesic-inspired dome, described as India's first space frame structure; collapsed and under restoration.",
+  "award": "South Asia list",
+  "status": "unsure",
+  "commons_category": "Category:Calico Dome",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calico_Dome"
+  ],
+  "note": "no free photo: Wikipedia article has none and the Commons category listing returned empty; dates conflict in the article (infobox 1962, text 1963)."
+ },
+ {
+  "id": "ranga-shankara-bengaluru",
+  "name": "Ranga Shankara",
+  "by": "Sharukh Mistry",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "year": "2004",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Light & shadow",
+   "Low cost"
+  ],
+  "features": "320-seat theatre in J.P. Nagar built for about 3 crore, raised mainly through public contributions.",
+  "award": "South Asia list",
+  "status": "photo",
+  "commons_category": "Category:Ranga Shankara",
+  "photos": [
+   {
+    "file": "File:Ranga Shankara, Bangalore (2024) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ranga_Shankara",
+   "https://commons.wikimedia.org/wiki/Category:Ranga_Shankara"
+  ],
+  "note": "Opened 28 Oct 2004. Photo is the street front in daylight with festival signage in front."
+ },
+ {
+  "id": "vidyasagar-setu",
+  "name": "Vidyasagar Setu (Second Hooghly Bridge)",
+  "by": "Schlaich Bergermann & Partner",
+  "city": "Kolkata",
+  "cc": "IN",
+  "year": "1992",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Cable-stayed bridge over the Hooghly: 822.96 m long, 457.2 m main span, steel pylons 127.62 m tall.",
+  "award": "South Asia list",
+  "status": "unsure",
+  "commons_category": "Category:Vidyasagar Setu",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vidyasagar_Setu",
+   "https://commons.wikimedia.org/wiki/Category:Vidyasagar_Setu"
+  ],
+  "note": "no good photo seen: tried a deck view in cloud, a hazy deck view and a sunset silhouette (File:Vidyasagar Setu 2010.jpg); the category has 56 files, a daylight side view probably exists but was not seen. Opened 10 Oct 1992."
+ },
+ {
   "id": "bandaranaike-memorial-international-conference-hall",
   "name": "Bandaranaike Memorial International Conference Hall",
   "by": "Dai Nianci",
