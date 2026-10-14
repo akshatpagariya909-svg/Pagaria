@@ -771,5 +771,331 @@
    "https://commons.wikimedia.org/wiki/Category:Ames_Free_Library"
   ],
   "note": ""
+ },
+ {
+  "id": "austin-hall-harvard",
+  "name": "Austin Hall",
+  "by": "Henry Hobson Richardson",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1881",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "The first building purpose-built for an American law school and the first home of Harvard Law School.",
+  "status": "photo",
+  "commons_category": "Category:Austin Hall",
+  "photos": [
+   {
+    "file": "File:Austin Hall, Harvard University.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Austin_Hall_(Harvard_University)",
+   "https://commons.wikimedia.org/wiki/Category:Austin_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "billings-memorial-library",
+  "name": "Billings Memorial Library",
+  "by": "Henry Hobson Richardson",
+  "city": "Burlington",
+  "cc": "US",
+  "year": "1883",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Community"
+  ],
+  "features": "University of Vermont library, designed to resemble Richardson's Winn Library in Woburn.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:University of Vermont Billings Library.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Billings_Memorial_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "campbell-sports-center",
+  "name": "Campbell Sports Center",
+  "by": "Steven Holl Architects",
+  "city": "New York",
+  "cc": "US",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Gateway to Columbia's Baker Field: \"points on the ground, lines in space\", with external stairs and terraces.",
+  "status": "photo",
+  "commons_category": "Category:Campbell Sports Center",
+  "photos": [
+   {
+    "file": "File:Campbell Sports Center at Columbia University 218th street.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Campbell_Sports_Center",
+   "https://commons.wikimedia.org/wiki/Category:Campbell_Sports_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cleo-rogers-memorial-library",
+  "name": "Cleo Rogers Memorial Library",
+  "by": "I. M. Pei",
+  "city": "Columbus",
+  "cc": "US",
+  "year": "1969",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Public space",
+   "Courtyard"
+  ],
+  "features": "Red brick with concrete details around Library Plaza, which holds Henry Moore's sculpture Large Arch.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cleo Rogers Memorial Library and Moore Sculpture.jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cleo_Rogers_Memorial_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "converse-memorial-library",
+  "name": "Converse Memorial Library",
+  "by": "Henry Hobson Richardson",
+  "city": "Malden",
+  "cc": "US",
+  "year": "1885",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Community"
+  ],
+  "features": "Richardson library that housed the Malden Public Library from 1885 to 1996.",
+  "status": "photo",
+  "commons_category": "Category:Converse Memorial Library",
+  "photos": [
+   {
+    "file": "File:Converse Memorial Library (Malden, MA) - angle view.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Converse_Memorial_Library",
+   "https://commons.wikimedia.org/wiki/Category:Converse_Memorial_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "crawford-manor",
+  "name": "Crawford Manor",
+  "by": "Paul Rudolph",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1966",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Community"
+  ],
+  "features": "Fifteen-storey public-housing tower, a mature Rudolph work and fine local example of Brutalism.",
+  "status": "photo",
+  "commons_category": "Category:Crawford Manor",
+  "photos": [
+   {
+    "file": "File:Crawford Manor (54106345969).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crawford_Manor",
+   "https://commons.wikimedia.org/wiki/Category:Crawford_Manor"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cultural-education-center-albany",
+  "name": "New York State Cultural Education Center",
+  "by": "Harrison & Abramovitz",
+  "city": "Albany",
+  "cc": "US",
+  "year": "1978",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Structure as expression"
+  ],
+  "features": "Eleven-storey New Formalist building on Empire State Plaza housing the State Museum, Archives and Library.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NewYorkStateCulturalEducationCenter.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Education_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "davenport-public-library",
+  "name": "Davenport Public Library",
+  "by": "Edward Durell Stone",
+  "city": "Davenport",
+  "cc": "US",
+  "year": "1968",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Community"
+  ],
+  "features": "Main Library housed in a 1960s building by the architect of the Kennedy Center.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Davenport Public Library - Main Branch.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Davenport_Public_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "grant-house-cedar-rapids",
+  "name": "Douglas and Charlotte Grant House",
+  "by": "Frank Lloyd Wright",
+  "city": "Cedar Rapids",
+  "cc": "US",
+  "year": "1951",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "features": "Usonian house on 40 acres with window walls, horizontal bands of windows and natural materials.",
+  "status": "photo",
+  "commons_category": "Category:Douglas and Charlotte Grant House",
+  "photos": [
+   {
+    "file": "File:Grant Home Cedar Rapids Iowa (Frank Lloyd Wright) NW View.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House",
+   "https://commons.wikimedia.org/wiki/Category:Douglas_and_Charlotte_Grant_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hampden-county-courthouse",
+  "name": "Hampden County Courthouse",
+  "by": "Henry Hobson Richardson",
+  "city": "Springfield",
+  "cc": "US",
+  "year": "1874",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Richardson's courthouse, begun 1871 and dedicated 1874, replacing a non-fireproof 1822 courthouse.",
+  "status": "photo",
+  "commons_category": "Category:Hampden County Courthouse",
+  "photos": [
+   {
+    "file": "File:Hampden County Courthouse MA.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hampden_County_Courthouse",
+   "https://commons.wikimedia.org/wiki/Category:Hampden_County_Courthouse"
+  ],
+  "note": ""
  }
 ]
