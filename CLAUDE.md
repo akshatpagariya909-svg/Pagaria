@@ -3,7 +3,7 @@
 A wall of buildings that architecture students wander instead of search, with free photos and links that take them deeper. The owner is new to coding. Explain things plainly, show designs before building them when asked, and keep the site's own text short.
 
 - Live site: https://findgreatarchitecture.com/ (GitHub Pages, deploys from `main` when `site/**` changes)
-- Domain: findgreatarchitecture.com, bought Oct 2026 at Spaceship (the owner's account, auto-renew on). DNS there points to GitHub Pages (4 A + 4 AAAA records on @, www CNAME to discoverarchitecture.github.io, and the org's GitHub verification TXT). The custom domain is set in the repository's Settings → Pages, not a CNAME file, because the site deploys with GitHub Actions. discoverarchitecture.github.io forwards to it. The site is still called Discover Architecture; the rename to Find Great Architecture comes later.
+- Domain: findgreatarchitecture.com, bought Oct 2026 at Spaceship (the owner's account, auto-renew on). DNS there points to GitHub Pages (4 A + 4 AAAA records on @, www CNAME to discoverarchitecture.github.io, and the org's GitHub verification TXT). The custom domain is set in the repository's Settings → Pages, not a CNAME file, because the site deploys with GitHub Actions. discoverarchitecture.github.io forwards to it. The site is called **Find Great Architecture** (renamed from Discover Architecture on 14 Oct 2026).
 - Repository: https://github.com/discoverarchitecture/discoverarchitecture.github.io (moved from akshatpagariya909-svg/Pagaria in Oct 2026; the old address forwards)
 - Design canvas (all artboards and decisions): https://claude.ai/artifact/SzZZi9iaMGvAX85z3zNEDK
 - Audience: architecture students. Favour modern, contemporary and parametric work, brutalism, regionalism and a few historic precedents.
@@ -18,6 +18,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
 - Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), the chosen half of the Buildings | Books switch, and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
+- Never show exact totals of buildings or books on the site (no "2,604 buildings"); say "a huge collection" or similar (owner's rule, 14 Oct 2026). Counts per architect or per filter are fine.
 - Minimal text on the site. No invented facts: show height, floors, materials and similar only when a source gives them.
 
 ## Design decisions already made (see the canvas before changing any)

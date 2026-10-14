@@ -1,2 +1,2 @@
 python -u tools/fetch_logos.py
-Fetch the Go deeper logos again; archINFORM from its index page (asked for by the Design chat).
+Fetch the Go deeper logos again; archINFORM now asked for in English.

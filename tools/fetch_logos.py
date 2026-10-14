@@ -11,6 +11,7 @@ Needs open internet, so it runs on GitHub Actions
 import io
 import re
 import urllib.parse
+import urllib.error
 import urllib.request
 from html.parser import HTMLParser
 from pathlib import Path
@@ -20,7 +21,8 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'site' / 'images' / 'logos'
 REPORT = ROOT / 'tools' / 'logos_report.txt'
-UA = {'User-Agent': 'Mozilla/5.0 (DiscoverArchitecture/1.0; https://findgreatarchitecture.com/; logos)'}
+UA = {'User-Agent': 'Mozilla/5.0 (FindGreatArchitecture/1.0; https://findgreatarchitecture.com/; logos)',
+      'Accept': 'text/html,image/*;q=0.9,*/*;q=0.8', 'Accept-Language': 'en'}  # a language picks one version where a site offers several (archINFORM answers 300 without it)
 
 SITES = {
     'archdaily': 'https://www.archdaily.com/',
@@ -49,8 +51,13 @@ class Icons(HTMLParser):
 
 
 def get(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
-        return r.read(), r.headers.get('Content-Type', '')
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+            return r.read(), r.headers.get('Content-Type', '')
+    except urllib.error.HTTPError as e:
+        if e.code == 300 and not url.endswith('.en'):  # several language versions: take the English one
+            return get(url + '.en')
+        raise
 
 
 def score(item):
