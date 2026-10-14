@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Architect portraits again, adding 51 faces found by the Sonnet chats (reviewed by eye) and their sourced firm founders.
+python -u tools/fetch_pritzker.py
+Save each Pritzker jury citation, full page text this time.

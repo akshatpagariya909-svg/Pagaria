@@ -251,12 +251,32 @@
     for (const qid of ARCH.buildings[b.id] || []) { const p = ARCH.people[qid]; if (p && p.thumb) return p; }
     return null;
   }
+  // Pritzker Prize winners (data/pritzker.js, from the prize's own jury citations): a small gold medal on the portrait.
+  // keys are the names a winner goes by on the wall (portrait names, by-line names, the firm); the medal follows the
+  // face shown, else the first architect named.
+  const LAUREATE = new Map();
+  (window.PRITZKER || []).forEach(w => (w.keys || []).forEach(k => LAUREATE.set(fold(k), w)));
+  const laureateOf = (p, who) => (p && LAUREATE.get(fold(p.name))) || (who && LAUREATE.get(fold(who))) || null;
+  let medals = 0;
+  const coin = id => `<svg viewBox="0 0 48 48" aria-hidden="true"><defs><radialGradient id="${id}" cx="36%" cy="30%" r="80%"><stop offset="0" stop-color="#FCEBB0"/><stop offset=".5" stop-color="#D9AE45"/><stop offset="1" stop-color="#9A7322"/></radialGradient></defs>` +
+    `<circle cx="24" cy="24" r="23.5" fill="#fff"/><circle cx="24" cy="24" r="21.5" fill="url(#${id})" stroke="#7E5D17"/><circle cx="24" cy="24" r="17" fill="none" stroke="#8A671B" stroke-dasharray="1 1.5"/>` +
+    `<text x="24" y="31.2" text-anchor="middle" font-family="'Big Shoulders Display', Impact, sans-serif" font-weight="900" font-size="20" fill="#5E4410">P</text></svg>`;
+  function medalHtml(w, who, n) {
+    const id = 'medal' + (++medals), title = `Pritzker Prize ${w.year}`;
+    return `<button type="button" class="medal" aria-label="${title}" aria-expanded="false" aria-controls="${id}">${coin(id + 'a')}</button>` +
+      `<div class="medal-card" id="${id}" role="dialog" aria-label="${title}" hidden><b class="mc-title">${coin(id + 'b')}${title}</b>` +
+      (w.line ? `<p>“${esc(w.line)}”</p>` : '') +
+      `<span class="mc-links">${n > 1 ? `<button type="button" data-arch="${esc(who)}">See all ${n} buildings →</button>` : '<span></span>'}` +
+      `${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">Jury citation ↗</a>` : ''}</span></div>`;
+  }
   function bylineHtml(b) {
     const who = firstArchitect(b), p = portraitOf(b), n = byArchitect(b).length + 1;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : `<span class="face initials" aria-hidden="true">${esc(initials(who))}</span>`;
     const text = `<span class="by-text"><i>by</i><b>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
     const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
-    return (n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+    const w = laureateOf(p, who);
+    const link = n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>` + credit;
   }
   // Natural Earth projection, the same as tools/make_world.py; coords are [lat, lon].
   function project(lat, lon) {
@@ -392,6 +412,8 @@
     $('byArchAll').textContent = `All ${mine.length + 1} →`;
     $('byArchAll').dataset.arch = firstArchitect(b);
     $('byArchRel').innerHTML = relHtml(mine.slice(0, 4));
+    $('relBooks').hidden = true;
+    withBooks(() => { if (state.open === b) showRelatedBooks(b); });
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More · ' + b.type;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -405,6 +427,45 @@
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     updateStep();
+  }
+
+  /* ---------- related books in the opened building ---------- */
+  // Books about this building first, then books about its architect, then a few general books on its movement.
+  const MOVEMENT_BOOKS = 4, RELATED_MAX = 12;
+  const BROAD = new Set(['Contemporary', 'Modernism', 'Late modernism']);
+  const PLACE_TAGS = {
+    India: (b, cc) => cc === 'IN', Japan: (b, cc) => cc === 'JP', China: (b, cc) => cc === 'CN',
+    'Latin America': (b, cc) => b.region === 'Americas' && !['US', 'CA'].includes(cc),
+    Africa: b => b.region === 'Africa', 'Southeast Asia': b => b.region === 'Southeast Asia'
+  };
+  function relatedBooks(b) {
+    const out = [], add = k => { if (!out.includes(k)) out.push(k); };
+    BOOKS.filter(k => (k.buildings || []).includes(b.id)).forEach(add);
+    const names = byOf(b);
+    BOOKS.filter(k => (k.architects || []).some(a => names.includes(a))).sort((x, y) => x.y - y.y).forEach(add);
+    const words = new Set([b.type, ...(b.concepts || [])].map(fold));
+    const shared = k => (k.tags || []).filter(t => words.has(fold(t))).length;
+    // Movement books are general ones (surveys, theory); a monograph on another architect isn't related. A book about a
+    // place only suits buildings there, and the broad movements also need a shared idea or type.
+    const cc = countryOf(b), inPlace = t => !(t in PLACE_TAGS) || PLACE_TAGS[t](b, cc);
+    BOOKS.filter(k => (k.tags || []).includes(b.movement) && !(k.architects || []).length && !out.includes(k)
+        && (k.tags || []).every(inPlace) && (!BROAD.has(b.movement) || shared(k) > 0))
+      .sort((x, y) => shared(y) - shared(x) || x.y - y.y)
+      .slice(0, MOVEMENT_BOOKS).forEach(add);
+    return out.slice(0, RELATED_MAX);
+  }
+  function showRelatedBooks(b) {
+    const list = relatedBooks(b), row = $('relBooksRow');
+    $('relBooks').hidden = !list.length;
+    row.innerHTML = list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="cv">${coverHtml(k)}</span><b>${esc(k.title)}</b><small>${esc(k.year)}</small></button>`).join('');
+    row.scrollLeft = 0;
+    $('relBooksNav').hidden = list.length <= 6; // with six or fewer everything nearly fits: no arrows
+    updateBookArrows();
+  }
+  function updateBookArrows() {
+    const row = $('relBooksRow');
+    $('relBooksPrev').disabled = row.scrollLeft <= 2;
+    $('relBooksNext').disabled = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
   }
 
   /* ---------- opened book ---------- */
@@ -421,7 +482,9 @@
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : '';
     const text = `<span class="by-text"><i>by</i><b>${esc(k.by)}</b>${n ? `<span class="see">${esc(who)} on the wall: ${n} building${n > 1 ? 's' : ''} →</span>` : ''}</span>`;
     const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
-    return (n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+    const w = p ? laureateOf(p, who) : null;
+    const link = n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>` + credit;
   }
   function bookLinks(k) {
     const a = k.by.split(/,| and |\(/)[0].trim(), s = q(k.title + ' ' + a);
@@ -482,6 +545,7 @@
     $('byArchAll').dataset.arch = who || '';
     $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
     const kin = sameShelf(k);
+    $('relBooks').hidden = true;
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More on this shelf · ' + k.shelf;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -569,7 +633,11 @@
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
   $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => {
+  const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
+  $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksRow').addEventListener('scroll', updateBookArrows, { passive: true });
+  ['byArchRel', 'sameTypeRel', 'relBooksRow'].forEach(id => $(id).addEventListener('click', e => {
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));
@@ -589,6 +657,34 @@
     closeBuilding(); render(true);
   }
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
+  // The Pritzker medal: tap (or Enter) opens and closes its card; on a computer pointing at it opens it too.
+  function medalOpen(m, open) {
+    const card = m && document.getElementById(m.getAttribute('aria-controls'));
+    if (!card) return;
+    m.setAttribute('aria-expanded', open);
+    card.hidden = !open;
+  }
+  let medalTimer = 0;
+  $('byline').addEventListener('click', e => {
+    const m = e.target.closest('.medal');
+    if (m) medalOpen(m, m.getAttribute('aria-expanded') !== 'true');
+  });
+  $('byline').addEventListener('pointerover', e => {
+    const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
+    if (!m || e.pointerType !== 'mouse') return;
+    clearTimeout(medalTimer);
+    medalOpen(row.querySelector('.medal'), true);
+  });
+  $('byline').addEventListener('pointerout', e => {
+    const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
+    if (!m || e.pointerType !== 'mouse' || (e.relatedTarget && e.relatedTarget.closest && e.relatedTarget.closest('.medal, .medal-card') && row.contains(e.relatedTarget))) return;
+    medalTimer = setTimeout(() => medalOpen(row.querySelector('.medal'), false), 200);
+  });
+  document.addEventListener('click', e => { if (!e.target.closest('.by-row')) document.querySelectorAll('.medal[aria-expanded="true"]').forEach(m => medalOpen(m, false)); });
+  document.addEventListener('keydown', e => {
+    const m = document.querySelector('.medal[aria-expanded="true"]');
+    if (e.key === 'Escape' && m) { e.stopPropagation(); medalOpen(m, false); m.focus(); }
+  }, true);
   $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
   $('sameTypeAll').addEventListener('click', e => { const d = e.currentTarget.dataset; if (d.shelf) showBooks('', d.shelf); else showOnWall('', d.type); });
   $('bChips').addEventListener('click', e => {
