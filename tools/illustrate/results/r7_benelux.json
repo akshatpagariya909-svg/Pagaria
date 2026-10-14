@@ -448,5 +448,450 @@
    "https://en.wikipedia.org/wiki/H._J._Lovink_Pumping_Station"
   ],
   "note": ""
+ },
+ {
+  "id": "blauwe-theehuis-vondelpark",
+  "name": "Blauwe Theehuis",
+  "by": "H.A.J. Baanders and Jan Baanders",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1937",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Two stacked circular floors under a circular roof 'saucer'; concrete, steel and glass, with blue-painted pillars.",
+  "status": "photo",
+  "commons_category": "Category:Blauwe Theehuis",
+  "photos": [
+   {
+    "file": "File:'t Blauwe Theehuis - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Proeflokaal 't Blauwe Theehuis (55021066315).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam Proeflokaal 't Blauwe Theehuis (55047507333).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam, Vondelpark, the blue teahouse.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blauwe_Theehuis"
+  ],
+  "note": ""
+ },
+ {
+  "id": "scheepvaarthuis-amsterdam",
+  "name": "Scheepvaarthuis",
+  "by": "Johan van der Mey, with Michel de Klerk and Piet Kramer",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1916",
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Regarded as the first true Amsterdam School building; maritime symbols run through the design.",
+  "status": "photo",
+  "commons_category": "Category:Scheepvaarthuis",
+  "photos": [
+   {
+    "file": "File:2024 Grand Hotel Amrâth gf71.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024 Grand Hotel Amrâth gf69.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024 Grand Hotel Amârth entrance gf68.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024 Grand Hotel Amârth gf 66.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scheepvaarthuis"
+  ],
+  "note": ""
+ },
+ {
+  "id": "museum-aan-de-stroom-antwerp",
+  "name": "Museum aan de Stroom (MAS)",
+  "by": "Neutelings Riedijk Architects",
+  "city": "Antwerp",
+  "cc": "BE",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Promenade"
+  ],
+  "features": "60 m tower of stacked volumes clad in Indian red sandstone and curved glass panels.",
+  "status": "photo",
+  "commons_category": "Category:Museum aan de Stroom",
+  "photos": [
+   {
+    "file": "File:MAS - Museum aan de Stroom FotoThalerTamas2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MAS - Museum aan de Stroom FotoThalerTamas3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MAS - Museum aan de Stroom FotoThalerTamas1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_aan_de_Stroom"
+  ],
+  "note": "Interior views also in category; only exterior photos listed."
+ },
+ {
+  "id": "sacred-heart-basilica-koekelberg",
+  "name": "National Basilica of the Sacred Heart",
+  "by": "Albert Van Huffel (completed by Paul Rome)",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1970",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Exposed concrete"
+  ],
+  "features": "Brick and reinforced concrete, Art Deco with neo-Byzantine inspiration; green copper dome 89 m high.",
+  "status": "photo",
+  "commons_category": "Category:Basilica of the Sacred Heart (Brussels)",
+  "photos": [
+   {
+    "file": "File:1001 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1002 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basilica of Koekelberg.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:1003 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Basilica_of_the_Sacred_Heart,_Brussels"
+  ],
+  "note": ""
+ },
+ {
+  "id": "europa-building-brussels",
+  "name": "Europa building",
+  "by": "Philippe Samyn and Partners, with Studio Valle (Michel Polak's Résidence Palace)",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "2016",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "features": "Lantern-shaped multi-storey meeting-room block joined to the listed 1920s Art Deco Résidence Palace façade.",
+  "status": "photo",
+  "commons_category": "Category:Europa building",
+  "photos": [
+   {
+    "file": "File:2017-10-17-bruessel-europaviertel-Europa-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Europa building (23559441005).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Europa building (23476970611).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Europa building (23191466719).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Europa_building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "flagey-building-brussels",
+  "name": "Flagey Building (Radio House)",
+  "by": "Joseph Diongre",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1938",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Streamline Moderne 'ocean liner' style; twelve recording studios sit in two acoustic towers. Won by competition.",
+  "status": "photo",
+  "commons_category": "Category:Flagey",
+  "photos": [
+   {
+    "file": "File:Brussel Flagey 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Flagey.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Flagey building 2013-09 --19.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison de la Radio Brussels.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flagey_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "boerentoren-antwerp",
+  "name": "Boerentoren (KBC Tower)",
+  "by": "Jan Vanhoenacker, Émile Van Averbeke, Jos Smolderen",
+  "city": "Antwerp",
+  "cc": "BE",
+  "year": "1932",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "87.5 m Art Deco tower, one of Europe's first tall buildings; its roof was raised 8.3 m in 1976.",
+  "status": "photo",
+  "commons_category": "Category:Boerentoren (Antwerp)",
+  "photos": [
+   {
+    "file": "File:1920's Skyscraper - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:1920's Skyscraper in Bright Sun - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20210621 antwerpen180.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boerentoren"
+  ],
+  "note": ""
+ },
+ {
+  "id": "antwerpen-centraal-station",
+  "name": "Antwerpen-Centraal railway station",
+  "by": "Louis Delacenserie",
+  "city": "Antwerp",
+  "cc": "BE",
+  "year": "1905",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "Stone-clad terminal building of 1895-1905; the viaduct into the station is by Jan Van Asperen.",
+  "status": "photo",
+  "commons_category": "Category:Antwerp Central Station",
+  "photos": [
+   {
+    "file": "File:Bahnhof Antwerpen-Centraal.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Station Antwerpen-Centraal 2021-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antwerpen-Centraal_railway_station"
+  ],
+  "note": "Most Commons photos show the interior hall; only two exterior views listed."
+ },
+ {
+  "id": "cinquantenaire-arcade-brussels",
+  "name": "Cinquantenaire Arcade",
+  "by": "Gédéon Bordiau, Charles Girault",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1905",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Triple arch topped by a bronze quadriga; Girault replaced Bordiau's single arch but kept his quadriga.",
+  "status": "photo",
+  "commons_category": "Category:Arcade du Cinquantenaire",
+  "photos": [
+   {
+    "file": "File:2009-05-21 Arcade du Cinquantenaire.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:-2043-00890 Parc du Cinquantenaire - Arcade centrale (10).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:.. - panoramio (174).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:-2043-00890 Parc du Cinquantenaire - Arcade centrale (11).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cinquantenaire_Arcade"
+  ],
+  "note": ""
+ },
+ {
+  "id": "royal-greenhouses-laeken",
+  "name": "Royal Greenhouses of Laeken",
+  "by": "Alphonse Balat (later Henri Maquet, Charles Girault)",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1905",
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Planting",
+   "Vault"
+  ],
+  "features": "Heated greenhouses built 1874-1905 for Leopold II, including the domed 'Iron Church' greenhouse.",
+  "status": "photo",
+  "commons_category": "Category:Laeken Royal Greenhouses",
+  "photos": [
+   {
+    "file": "File:Laeken Royal Greenhouses (6).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Laeken SerreSalleAManger 953 quer.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mariage entre nature et industrie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Greenhouses_of_Laeken"
+  ],
+  "note": ""
  }
 ]
