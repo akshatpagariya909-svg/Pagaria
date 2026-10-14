@@ -1671,6 +1671,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Alton_Estate"
  },
+ "aluminaire-house": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.aluminaire.org/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=40.77650&mlon=-73.19730#map=17/40.77650/-73.19730"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Aluminaire_House"
+ },
  "alvar-aalto-cultural-centre": {
   "links": [
    {
@@ -1730,6 +1745,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Amarbayasgalant_Monastery"
+ },
+ "ambedkar-memorial-park-lucknow": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=26.84793&mlon=80.97597#map=17/26.84793/80.97597"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ambedkar_Memorial_Park"
  },
  "amdavad-ni-gufa": {
   "links": [
@@ -2018,6 +2043,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/An%C4%B1tkabir"
+ },
+ "ankara-ethnography-museum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.etnografyamuzesi.gov.tr/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.93267&mlon=32.85489#map=17/39.93267/32.85489"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ethnography_Museum_of_Ankara"
  },
  "ankara-palas": {
   "links": [
@@ -3714,6 +3754,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Baghdad_Central_Station"
  },
+ "bagno-pubblico-bellinzona": {
+  "links": [],
+  "wiki": null
+ },
  "bagsvaerd-church": {
   "links": [
    {
@@ -3952,6 +3996,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Azerbaijan_State_Academic_Opera_and_Ballet_Theater"
+ },
+ "baldwin-hills-village": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/32329.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=34.01972&mlon=-118.36083#map=17/34.01972/-118.36083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Village_Green%2C_Los_Angeles"
  },
  "balfron-tower": {
   "links": [
@@ -8612,6 +8671,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Cathedral_of_La_Plata"
+ },
+ "catedral-de-lima": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://catedraldelima.org.pe/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20019783"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-12.04647&mlon=-77.03004#map=17/-12.04647/-77.03004"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Metropolitan_Cathedral_of_Lima"
  },
  "catedral-de-talca": {
   "links": [],
