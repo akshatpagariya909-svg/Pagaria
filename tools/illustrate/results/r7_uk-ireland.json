@@ -3518,5 +3518,393 @@
    "https://commons.wikimedia.org/wiki/Category:Eltham_Palace"
   ],
   "note": "photos are of Eltham Palace generally; Opus to check they show the 1930s house wing"
+ },
+ {
+  "id": "hornsey-town-hall",
+  "name": "Hornsey Town Hall",
+  "by": "Reginald Uren",
+  "city": "London",
+  "cc": "GB",
+  "year": "1935",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Brick"
+  ],
+  "features": "Called the first major UK building built in the Modernist style, with a tall tower at the courtyard corner.",
+  "status": "photo",
+  "commons_category": "Category:Hornsey Town Hall",
+  "photos": [
+   {
+    "file": "File:Hornsey Town Hall 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hornsey Town Hall 02.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hornsey Town Hall - geograph.org.uk - 2252213.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hornsey_Town_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Hornsey_Town_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fitzwilliam-college-cambridge",
+  "name": "Fitzwilliam College",
+  "by": "Denys Lasdun",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "1963",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Cluster"
+  ],
+  "features": "Lasdun's 1963 Hall Building, Fellows' Court and Tree Court form the core of the college.",
+  "status": "photo",
+  "commons_category": "Category:Fitzwilliam College, Cambridge",
+  "photos": [
+   {
+    "file": "File:Fitzwilliam College, Cambridge.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Fitzwilliam College 2012.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fitzwilliam_College,_Cambridge",
+   "https://commons.wikimedia.org/wiki/Category:Fitzwilliam_College,_Cambridge"
+  ],
+  "note": "Lasdun buildings among later additions by others; check photos show his work"
+ },
+ {
+  "id": "shell-centre-london",
+  "name": "Shell Centre",
+  "by": "Howard Robertson and Ralph Maynard Smith",
+  "city": "London",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "A 27-storey, 107 m tower clad in Portland stone, which has weathered better than many contemporaries.",
+  "status": "photo",
+  "commons_category": "Category:Shell Centre, London",
+  "photos": [
+   {
+    "file": "File:London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2017 Lambeth - Shell Centre, London.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shell_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Shell_Centre,_London"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bridgewater-hall",
+  "name": "Bridgewater Hall",
+  "by": "RHWL",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "1996",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "The concert hall sits on 280 springs to insulate it from external sound.",
+  "status": "photo",
+  "commons_category": "Category:Bridgewater Hall, Manchester",
+  "photos": [
+   {
+    "file": "File:Bridgewater Hall 2015 001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bridgewater Hall in 2008.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bridgewater Hall, May 2020.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bridgewater_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Bridgewater_Hall,_Manchester"
+  ],
+  "note": ""
+ },
+ {
+  "id": "newcastle-civic-centre",
+  "name": "Newcastle Civic Centre",
+  "by": "George Kenyon",
+  "city": "Newcastle upon Tyne",
+  "cc": "GB",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Detail",
+   "Stone"
+  ],
+  "features": "Modern sculptures by David Wynne and abstract murals by Victor Pasmore are part of the building.",
+  "status": "photo",
+  "commons_category": "Category:Civic Centre, Newcastle upon Tyne",
+  "photos": [
+   {
+    "file": "File:Civic Centre, Newcastle upon Tyne - geograph.org.uk - 5394271.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Newcastle Civic Centre from Barras Bridge - geograph.org.uk - 7984946.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Centre civique Newcastle Tyne 14.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newcastle_Civic_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Civic_Centre,_Newcastle_upon_Tyne"
+  ],
+  "note": ""
+ },
+ {
+  "id": "turner-contemporary",
+  "name": "Turner Contemporary",
+  "by": "David Chipperfield",
+  "city": "Margate",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Water"
+  ],
+  "features": "The design features two slanted units connecting into a single building.",
+  "status": "photo",
+  "commons_category": "Category:Turner Contemporary gallery",
+  "photos": [
+   {
+    "file": "File:North side of Turner Contemporary gallery Margate Kent England.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Margate - The Turner Gallery Opening - Apr 2011.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:The Turner Contemporary - geograph.org.uk - 2367301.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Turner_Contemporary",
+   "https://commons.wikimedia.org/wiki/Category:Turner_Contemporary_gallery"
+  ],
+  "note": ""
+ },
+ {
+  "id": "chiswick-house",
+  "name": "Chiswick House",
+  "by": "Richard Boyle, 3rd Earl of Burlington",
+  "city": "London",
+  "cc": "GB",
+  "year": "1729",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "A neo-Palladian villa with a six-column Corinthian portico and a steep-pitched dome.",
+  "status": "photo",
+  "commons_category": "Category:Chiswick House",
+  "photos": [
+   {
+    "file": "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0003.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0005.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chiswick_House",
+   "https://commons.wikimedia.org/wiki/Category:Chiswick_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "palace-of-westminster",
+  "name": "Palace of Westminster",
+  "by": "Charles Barry and Augustus Pugin",
+  "city": "London",
+  "cc": "GB",
+  "year": "1876",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Perpendicular Gothic Revival style with ornate decoration, designed by a classical architect.",
+  "status": "photo",
+  "commons_category": "Category:Palace of Westminster",
+  "photos": [
+   {
+    "file": "File:Greater London - Palace of Westminster - 2025-09-23 16-24-04 001.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Houses of Parliament, Palace of Westminster - geograph.org.uk - 7935747.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:BigBen2025mbs.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+   "https://commons.wikimedia.org/wiki/Category:Palace_of_Westminster"
+  ],
+  "note": "Wikipedia infobox gives 1840-1876; Commons category name assumed from article title, search returned files"
+ },
+ {
+  "id": "royal-crescent-bath",
+  "name": "Royal Crescent",
+  "by": "John Wood the Younger",
+  "city": "Bath",
+  "cc": "GB",
+  "year": "1774",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Axis"
+  ],
+  "features": "A crescent of 30 houses with 114 Ionic columns on the first floor under a Palladian entablature.",
+  "status": "photo",
+  "commons_category": "Category:Royal Crescent",
+  "photos": [
+   {
+    "file": "File:2023-09-15 Bath Royal Crescent 05.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bath , Royal Crescent - geograph.org.uk - 6566750.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bath - Royal Crescent from east.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Crescent",
+   "https://commons.wikimedia.org/wiki/Category:Royal_Crescent"
+  ],
+  "note": ""
+ },
+ {
+  "id": "london-stadium",
+  "name": "London Stadium",
+  "by": "Populous",
+  "city": "London",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "A lightweight demountable steel and precast concrete upper tier, with a cable-supported roof.",
+  "status": "photo",
+  "commons_category": "Category:London Stadium",
+  "photos": [
+   {
+    "file": "File:London Stadium 2026-07-08.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Outside the London Stadium - geograph.org.uk - 8310738.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/London_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:London_Stadium"
+  ],
+  "note": "built 2011 as Olympic Stadium; renovated for football 2016"
  }
 ]
