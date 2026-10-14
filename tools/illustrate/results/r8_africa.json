@@ -1205,5 +1205,431 @@
    "https://en.wikipedia.org/wiki/Cairo_International_Stadium"
   ],
   "note": ""
+ },
+ {
+  "id": "egyptian-museum-cairo",
+  "name": "Egyptian Museum",
+  "by": "Marcel Dourgnon",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1902",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Circulation"
+  ],
+  "features": "Neoclassical facade; halls arranged in chronological sequence, statues on the ground floor, funerary items above.",
+  "status": "photo",
+  "commons_category": "Category:Main facade of Egyptian Museum, Cairo",
+  "photos": [
+   {
+    "file": "File:Egyptian Museum in Cairo in May 2015.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Egyptian Museum - front view with wide angle lens.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Egyptian museum cairo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Egyptian_Museum"
+  ],
+  "note": ""
+ },
+ {
+  "id": "al-rifai-mosque-cairo",
+  "name": "Al-Rifa'i Mosque",
+  "by": "Hussein Fahmi Pasha, Max Herz",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1912",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Neo-Mamluk mosque with two minarets and a dome, in stone and marble, facing the Sultan Hassan Mosque.",
+  "status": "photo",
+  "commons_category": "Category:Al-Rifa'i Mosque",
+  "photos": [
+   {
+    "file": "File:Cairo - al-Rifa'i Mosque 0033.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:مسجد الرفاعي - من الخارج.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:مسجد الرفاعي والسلطان حسن.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque"
+  ],
+  "note": ""
+ },
+ {
+  "id": "abu-al-abbas-al-mursi-mosque",
+  "name": "Abu al-Abbas al-Mursi Mosque",
+  "by": "Mario Rossi",
+  "city": "Alexandria",
+  "cc": "EG",
+  "year": "1945",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Neo-Mamluk exterior with a large central dome, four smaller domes and a 73 m minaret.",
+  "status": "photo",
+  "commons_category": "Category:Abu el-Abbas el-Mursi Mosque",
+  "photos": [
+   {
+    "file": "File:Abu al-Abbas al-Mursi Mosque Facade.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Abu el-Abbas el-Mursi Mosque in Alexandria.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mosque Abu al-Abbas al-Murs.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abu_al-Abbas_al-Mursi_Mosque"
+  ],
+  "note": "Infobox c.1943-45; article text conflicts on dates."
+ },
+ {
+  "id": "abdeen-palace-cairo",
+  "name": "Abdeen Palace",
+  "by": "Léon Rousseau",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1874",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Palace built 1863-1874, adorned with paintings and many gold-decorated clocks.",
+  "status": "photo",
+  "commons_category": "Category:Abdeen Palace",
+  "photos": [
+   {
+    "file": "File:قصر عابدين.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:قصر عابدين 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:قصر عابدين 08.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdeen_Palace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "fnb-stadium-soccer-city",
+  "name": "FNB Stadium (Soccer City)",
+  "by": "Boogertman & Partners, HOK Sport",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Shaped like a calabash, an African pot; mosaic cladding in fire and earth tones; structure by Schlaich Bergermann.",
+  "status": "photo",
+  "commons_category": "Category:Soccer City",
+  "photos": [
+   {
+    "file": "File:Soccer City Stadium, Johannesburg.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:FNB Stadium and mooifontein Arrial View - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:South Africa-Johannesburg-Nasrec road-Streetlight01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/FNB_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Soccer_City"
+  ],
+  "note": "Wikipedia gives the 2009 reconstruction; the original stadium dates from 1989."
+ },
+ {
+  "id": "cape-town-stadium",
+  "name": "Cape Town Stadium",
+  "by": "gmp Architects with Louis Karol Architects and Point Architects",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Built 2007-2009 on Green Point Common for the 2010 World Cup; designed by gmp with local firms.",
+  "status": "photo",
+  "commons_category": "Category:Cape Town Stadium",
+  "photos": [
+   {
+    "file": "File:Cape Town Stadium, Cape Town, South Africa (Unsplash).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Green Point Stadium - South Africa (4029380846).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Capetownstadium-001.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cape_Town_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Cape_Town_Stadium"
+  ],
+  "note": "Category is messy; only files named for the stadium chosen. Check lead."
+ },
+ {
+  "id": "carlton-centre-johannesburg",
+  "name": "Carlton Centre",
+  "by": "Skidmore, Owings & Merrill with W. Rhodes-Harrison, Hoffe and Partners",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "50-storey, 223 m tower in poured concrete with grey granite finish; over 46% of floor area is below ground.",
+  "status": "photo",
+  "commons_category": "Category:Carlton Centre",
+  "photos": [
+   {
+    "file": "File:Carlton Centre, South Africa (cropped).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:CCviewup1973.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Carlton Centre 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlton_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Carlton_Centre"
+  ],
+  "note": "Infobox says 1974; opened 1 Sept 1973."
+ },
+ {
+  "id": "cape-town-city-hall",
+  "name": "Cape Town City Hall",
+  "by": "Henry Austin Reid and Frederick George Green",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "year": "1905",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Edwardian city hall of honey-coloured limestone imported from Bath, with a clock tower and carillon.",
+  "status": "photo",
+  "commons_category": "Category:Cape Town City Hall",
+  "photos": [
+   {
+    "file": "File:Cape Town City Hall 2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cape Town City Hall 2014 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cape Town City hall and Grand Parade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cape_Town_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Cape_Town_City_Hall"
+  ],
+  "note": "Wikipedia infobox says 1900, text says built and opened 1905."
+ },
+ {
+  "id": "durban-city-hall",
+  "name": "Durban City Hall",
+  "by": "Stanley G. Hudson",
+  "city": "Durban",
+  "cc": "ZA",
+  "year": "1910",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Edwardian neo-baroque city hall, almost an exact replica of Belfast City Hall; built 1906-1910.",
+  "status": "photo",
+  "commons_category": "Category:Durban Town Hall",
+  "photos": [
+   {
+    "file": "File:City Hall and Francis Farewell Gardens, Durban, 9 2 407 0010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:City Hall and Francis Farewell Gardens, IV Durban 9 2 407 0010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Durban TownHall.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Durban_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Durban_Town_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "johannesburg-city-hall",
+  "name": "Johannesburg City Hall",
+  "by": "Hawkey & McKinley",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1914",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Edwardian Baroque with an Ionic portico and tower; clad in Free State freestone.",
+  "status": "photo",
+  "commons_category": "Category:City Hall, Johannesburg",
+  "photos": [
+   {
+    "file": "File:Johannesburg City Hall outside 01.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Johannesburg City Hall JHF 5110 rissik str 002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Johannesburg City Hall.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johannesburg_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:City_Hall,_Johannesburg"
+  ],
+  "note": "Opened officially 1915."
  }
 ]
