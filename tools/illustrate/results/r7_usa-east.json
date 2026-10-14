@@ -2715,5 +2715,348 @@
    "https://en.wikipedia.org/wiki/Wingspread"
   ],
   "note": ""
+ },
+ {
+  "id": "graycliff",
+  "name": "Graycliff",
+  "by": "Frank Lloyd Wright",
+  "city": "Derby",
+  "cc": "US",
+  "year": "1931",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Stone"
+  ],
+  "features": "Summer estate on a bluff above Lake Erie, designed 1926 and built 1926–31.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Graycliff.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graycliff"
+  ],
+  "note": ""
+ },
+ {
+  "id": "jacobs-first-house",
+  "name": "Herbert and Katherine Jacobs First House",
+  "by": "Frank Lloyd Wright",
+  "city": "Madison",
+  "cc": "US",
+  "year": "1937",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Single-storey, L-shaped, 1,550 sq ft house, sometimes cited as Wright's first Usonian.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jacobs First House - front.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herbert_Jacobs_First_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "pope-leighey-house",
+  "name": "Pope–Leighey House",
+  "by": "Frank Lloyd Wright",
+  "city": "Alexandria",
+  "cc": "US",
+  "year": "1941",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Human comfort"
+  ],
+  "features": "Wright house moved twice; now on the grounds of Woodlawn Plantation.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Pope-Leighey House - North east facade - HABS VA,30-FALCH,2-10.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pope-Leighey_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "phipps-conservatory",
+  "name": "Phipps Conservatory",
+  "by": "Lord & Burnham",
+  "city": "Pittsburgh",
+  "cc": "US",
+  "year": "1893",
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Planting"
+  ],
+  "features": "Glasshouse conservatory in Schenley Park, founded in 1893 by Henry Phipps Jr.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Phipps conservatory 0.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phipps_Conservatory_and_Botanical_Gardens"
+  ],
+  "note": ""
+ },
+ {
+  "id": "paul-rudolph-hall",
+  "name": "Paul Rudolph Hall (Yale Art and Architecture Building)",
+  "by": "Paul Rudolph",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1963",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Circulation"
+  ],
+  "features": "One of the earliest and best-known Brutalist buildings in the US, with over 30 floor levels.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rudolph Hall.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "highfield-house-baltimore",
+  "name": "Highfield House",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": "1964",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "High-rise condominium, outstanding International Style housing and Mies's second Baltimore building.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:HighfieldHouse 2008.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Highfield_House_Condominium"
+  ],
+  "note": "Photo is 1057x803; a larger one may exist."
+ },
+ {
+  "id": "home-federal-savings-des-moines",
+  "name": "Home Federal Savings and Loan Building",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Des Moines",
+  "cc": "US",
+  "year": "1962",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "One of the first steel-and-glass modernist buildings downtown; now the Catholic Pastoral Center.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Catholic Pastoral Center - Des Moines, Iowa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Home_Federal_Savings_and_Loan_Association_of_Des_Moines_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "one-m-t-plaza",
+  "name": "One M&T Plaza",
+  "by": "Minoru Yamasaki",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1967",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Detail"
+  ],
+  "features": "21-storey tower with white and green marble base and a 75-by-225-foot exterior plaza.",
+  "status": "photo",
+  "commons_category": "Category:One M & T Plaza",
+  "photos": [
+   {
+    "file": "File:Buffalo Exchange Street Station (16064889481).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_M&T_Plaza",
+   "https://commons.wikimedia.org/wiki/Category:One_M_&_T_Plaza"
+  ],
+  "note": ""
+ },
+ {
+  "id": "national-farmers-bank-owatonna",
+  "name": "National Farmers' Bank of Owatonna",
+  "by": "Louis Sullivan",
+  "city": "Owatonna",
+  "cc": "US",
+  "year": "1908",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Brick"
+  ],
+  "features": "Historic bank by Louis Sullivan with decorative elements by George Elmslie.",
+  "status": "photo",
+  "commons_category": "Category:National Farmer's Bank of Owatonna",
+  "photos": [
+   {
+    "file": "File:Louis H. Sullivan - Farmer's National Bank (A), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - National Farmer's Bank (C), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - National Farmer's Bank (B), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Farmers'_Bank_of_Owatonna",
+   "https://commons.wikimedia.org/wiki/Category:National_Farmer's_Bank_of_Owatonna"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bayard-condict-building",
+  "name": "Bayard–Condict Building",
+  "by": "Louis Sullivan",
+  "city": "New York",
+  "cc": "US",
+  "year": "1899",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "Sullivan's only New York building: 12 storeys, Chicago School, with a terracotta facade.",
+  "status": "photo",
+  "commons_category": "Category:Bayard-Condict Building",
+  "photos": [
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (A), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (C), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (B), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bayard–Condict_Building",
+   "https://commons.wikimedia.org/wiki/Category:Bayard-Condict_Building"
+  ],
+  "note": ""
  }
 ]
