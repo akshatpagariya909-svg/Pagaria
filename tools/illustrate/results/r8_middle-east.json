@@ -1666,5 +1666,330 @@
    "https://en.wikipedia.org/wiki/Great_Synagogue_(Tel_Aviv)"
   ],
   "note": "Commons search 'Great Synagogue Tel Aviv Allenby'; titles/descriptions name it. Article is inconsistent: lead says completed 1926, history section says 1925."
+ },
+ {
+  "id": "chords-bridge-jerusalem",
+  "name": "Chords Bridge",
+  "by": "Santiago Calatrava",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Sculptural form"
+  ],
+  "features": "Single 118 m mast holds the roadway with 66 steel cables; carries light rail and pedestrians.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Chords Bridge 5.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chords_Bridge"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article. Year = inauguration 25 June 2008."
+ },
+ {
+  "id": "shrine-of-the-bab",
+  "name": "Shrine of the Báb",
+  "by": "William Sutherland Maxwell",
+  "city": "Haifa",
+  "cc": "IL",
+  "year": "1953",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Mausoleum built in 1953 and crowned by a dome on an 18-windowed drum.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Shrine Bab North West.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_the_B%C3%A1b"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Shrine of the Báb, viewed from the northwest'."
+ },
+ {
+  "id": "church-of-all-nations",
+  "name": "Church of All Nations",
+  "by": "Antonio Barluzzi",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1924",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Vault",
+   "Detail"
+  ],
+  "features": "Six columns divide the church into three aisles under an even ceiling with no clerestory.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Church of all nations BW 7.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Church_of_All_Nations"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description names Church of all nations, Gethsemane. Year = consecration June 1924."
+ },
+ {
+  "id": "ben-gurion-airport-terminal-3",
+  "name": "Ben Gurion Airport Terminal 3",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Lod",
+  "cc": "IL",
+  "year": "2004",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "Terminal 3 has 40 gates on four concourses; vertical surfaces are clad in Jerusalem stone.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ben-gurion-airport-terminal--september-2012.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Gurion_Airport"
+  ],
+  "note": "Wikipedia lead image of the airport article; Commons description 'Overflying Ben Gurion Airport' - an aerial of the airport, NOT confirmed to show Terminal 3; check. Year = inauguration late 2004."
+ },
+ {
+  "id": "sursock-museum",
+  "name": "Sursock Museum",
+  "by": "Jean-Michel Wilmotte and Jacques Abou Khaled (extension)",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Void",
+   "Light & shadow"
+  ],
+  "features": "1912 villa expanded with four new underground floors beneath the garden; reopened 8 October 2015.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sursock house.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sursock_Museum"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Sursock Museum, Beirut'. Year = 2015 reopening."
+ },
+ {
+  "id": "mohammad-al-amin-mosque",
+  "name": "Mohammad Al-Amin Mosque",
+  "by": "Azmi Fakhoury",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2008",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "Five domes, all of light blue tiles; inaugurated in 2008.",
+  "status": "photo",
+  "commons_category": "Category:Mohammad Al-Amin Mosque",
+  "photos": [
+   {
+    "file": "File:Mohamad al amin mosque beyrouth - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Mohammad Al-Amin Mosque 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Al-Amin_Mosque"
+  ],
+  "note": "Files from the mosque's own Commons category; titles and descriptions name it. Wikipedia lead image is only 493px and shows a protest."
+ },
+ {
+  "id": "beit-beirut",
+  "name": "Beit Beirut (Barakat Building)",
+  "by": "Youssef Aftimus; Fouad Kozah (upper floors)",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1932",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Ochre Deir el Qamar limestone building; Kozah added two storeys in 1932; now a museum and cultural centre.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beit Beirut 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beit_Beirut"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'National Museum of Beirut - Beit Beirut 2019'."
+ },
+ {
+  "id": "cinema-opera-beirut",
+  "name": "Cinema Opera",
+  "by": "Bahjat Abdelnour",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1944",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Art Deco cinema inaugurated in 1944; walls have horizontal dentils and successive recesses.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ye old opera house..jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cinema_Opera_and_Ezzeddine_Building"
+  ],
+  "note": "Wikipedia lead image; Commons description 'off martyr's square, beirut' (1024px, nothing larger found). Year = inauguration November 1944."
+ },
+ {
+  "id": "royal-tank-museum-amman",
+  "name": "Royal Tank Museum",
+  "by": "Zaid Daoud",
+  "city": "Amman",
+  "cc": "JO",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Double height"
+  ],
+  "features": "A glass dome at the centre suspends a Cobra attack helicopter; inaugurated 29 January 2018.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Royal Tank Museum 20.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Tank_Museum"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Royal Tank Museum in Amman, Jordan'. Year = inauguration."
+ },
+ {
+  "id": "hayarkon-96-tel-aviv",
+  "name": "HaYarkon 96",
+  "by": "Pinchas Bieżoński",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1935",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "International Style apartment building shaped like the Hebrew letter chet around a narrow front courtyard.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:HaYarkon 96.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/HaYarkon_96"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'HaYarkon 96 Bauhaus building in 2022'."
  }
 ]
