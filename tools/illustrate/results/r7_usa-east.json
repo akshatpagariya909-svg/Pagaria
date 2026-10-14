@@ -1423,5 +1423,329 @@
    "https://en.wikipedia.org/wiki/Olivetti-Underwood_Factory"
   ],
   "note": ""
+ },
+ {
+  "id": "olympic-tower",
+  "name": "Olympic Tower",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "New York",
+  "cc": "US",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "A 51-storey mixed-use tower whose glass facade reflects St. Patrick's Cathedral.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Olympic Tower NY by David Shankbone.JPG",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "one-international-place",
+  "name": "One International Place",
+  "by": "Johnson/Burgee Architects",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1987",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A 600-foot postmodern tower linked to Two International Place by a domed winter garden.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Internationalplace.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_International_Place"
+  ],
+  "note": ""
+ },
+ {
+  "id": "guaranty-building-buffalo",
+  "name": "Guaranty Building (Prudential Building)",
+  "by": "Louis Sullivan & Dankmar Adler",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1896",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Detail"
+  ],
+  "features": "An early skyscraper and National Historic Landmark.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Guaranty (Prudential) Building, Church Street and Pearl Street, Buffalo, NY - 52674539907.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prudential_Building_(Buffalo,_New_York)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "reynolds-metals-headquarters",
+  "name": "Reynolds Metals Company International Headquarters",
+  "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+  "city": "Richmond",
+  "cc": "US",
+  "year": "1958",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "Low-rise office in a landscape by Charles F. Gillette; cited as a prototype of suburban office development.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Reynolds Headquarters.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reynolds_Metals_Company_International_Headquarters"
+  ],
+  "note": ""
+ },
+ {
+  "id": "mandel-house-bedford-hills",
+  "name": "Richard H. Mandel House",
+  "by": "Edward Durell Stone",
+  "city": "Bedford Hills",
+  "cc": "US",
+  "year": "1935",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Z-shaped International Style house with flat roof, smooth walls, projecting balconies and wide expanses of glass.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Mandel House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richard_H._Mandel_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "river-city-chicago",
+  "name": "River City",
+  "by": "Bertrand Goldberg",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1986",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Mixed-use building that shares elements with Goldberg's Marina City.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:River City 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/River_City_(building)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "rockefeller-guest-house",
+  "name": "Rockefeller Guest House",
+  "by": "Philip Johnson",
+  "city": "New York",
+  "cc": "US",
+  "year": "1950",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Courtyard",
+   "Detail"
+  ],
+  "features": "Johnson's only private residence in New York City; a dark red brick ground floor under a glass storey.",
+  "status": "photo",
+  "commons_category": "Category:Rockefeller Guest House",
+  "photos": [
+   {
+    "file": "File:Rockefeller Guest House (55273670943).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rockefeller_Guest_House",
+   "https://commons.wikimedia.org/wiki/Category:Rockefeller_Guest_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "sciences-library-brown",
+  "name": "Sciences Library (SciLi)",
+  "by": "Warner, Burns, Toan & Lunde",
+  "city": "Providence",
+  "cc": "US",
+  "year": "1971",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "A 180-foot Brutalist high-rise library at Brown University.",
+  "status": "photo",
+  "commons_category": "Category:Sciences Library (Brown University)",
+  "photos": [
+   {
+    "file": "File:Brown University Sciences Library Providence.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sciences_Library_(Brown_University)",
+   "https://commons.wikimedia.org/wiki/Category:Sciences_Library_(Brown_University)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "seventeenth-church-christ-scientist-chicago",
+  "name": "Seventeenth Church of Christ, Scientist",
+  "by": "Harry Weese",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1968",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "Circular concrete church with no traditional windows in the amphitheatre; light comes through a skylight.",
+  "status": "photo",
+  "commons_category": "Category:Seventeenth Church of Christ, Scientist (Chicago, Illinois)",
+  "photos": [
+   {
+    "file": "File:Seventeenth Church of Christ, Scientist (Chicago, Illinois).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seventeenth_Church_of_Christ,_Scientist",
+   "https://commons.wikimedia.org/wiki/Category:Seventeenth_Church_of_Christ,_Scientist_(Chicago,_Illinois)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "sever-hall",
+  "name": "Sever Hall",
+  "by": "Henry Hobson Richardson",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1878",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "A National Historic Landmark in Harvard Yard, recognised as one of Richardson's mature masterpieces.",
+  "status": "photo",
+  "commons_category": "Category:Sever Hall",
+  "photos": [
+   {
+    "file": "File:Sever Hall (Harvard University) - east facade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sever_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Sever_Hall"
+  ],
+  "note": ""
  }
 ]
