@@ -3029,5 +3029,325 @@
    "https://en.wikipedia.org/wiki/Tbilisi_Circus"
   ],
   "note": "Lead image; Commons description says the circus is seen on the hill; building is distant, check framing."
+ },
+ {
+  "id": "national-library-of-armenia",
+  "name": "National Library of Armenia",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1939",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Main building follows Tamanian's project; the 'Tamanyan style' reinterprets medieval Armenian architecture.",
+  "status": "photo",
+  "commons_category": "National Library of Armenia",
+  "photos": [
+   {
+    "file": "File:Ազգային գրադարանի գլխավոր մասնաշենքը.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Library_of_Armenia"
+  ],
+  "note": "Lead image in the library's own category; Armenian title says 'main building of the National Library'. Not viewed."
+ },
+ {
+  "id": "heydar-aliyev-palace",
+  "name": "Heydar Aliyev Palace",
+  "by": "Alish Lemberanskiy",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1972",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Double height",
+   "Geometry"
+  ],
+  "features": "Hall with about 30 stepped rows of seats for over 2,150 spectators; opened 14 December 1972.",
+  "status": "photo",
+  "commons_category": "Heydar Aliyev Palace",
+  "photos": [
+   {
+    "file": "File:Heydər Əliyev sarayı - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heydar_Aliyev_Palace"
+  ],
+  "note": "Title is Azerbaijani for 'Heydar Aliyev Palace'; article lead image is not usable. Year = opening, no completion year given. Not viewed."
+ },
+ {
+  "id": "palace-of-happiness-baku",
+  "name": "Palace of Happiness",
+  "by": "Jozef Ploszko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1912",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "Neo-Gothic palace raised in nine months as a copy of a French Gothic building.",
+  "status": "photo",
+  "commons_category": "Palace of Happiness",
+  "photos": [
+   {
+    "file": "File:Palace of Happines (Mukhtarov street).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Happiness"
+  ],
+  "note": "Lead image; in own category (Palace of Happiness). Not viewed."
+ },
+ {
+  "id": "writers-house-of-georgia",
+  "name": "Writers' House of Georgia",
+  "by": "Karl Zaar",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1905",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Courtyard"
+  ],
+  "features": "Mansion combining art nouveau with neobaroque; terrace mosaic of Villeroy and Boch tiles.",
+  "status": "photo",
+  "commons_category": "Writers' House of Georgia",
+  "photos": [
+   {
+    "file": "File:Writer's House of Georgia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Writers%27_House_of_Georgia"
+  ],
+  "note": "Lead image; description 'View of the Writer's House of Georgia from its garden' (garden side). Year: article says built 1903-1905 only. Not viewed."
+ },
+ {
+  "id": "moskva-cinema-yerevan",
+  "name": "Moscow Cinema",
+  "by": "Tiran Yerkanyan, Gevorg Kochar",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1936",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Theatre opened 12 December 1936; 1983 facade shows scenes from Soviet-Armenian films.",
+  "status": "photo",
+  "commons_category": "Moskva Cinema",
+  "photos": [
+   {
+    "file": "File:Moscow cinema in Yerevan.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moscow_Cinema"
+  ],
+  "note": "Lead image; description 'Moskva cinema theater in Yerevan'. Year = opening date. Not viewed."
+ },
+ {
+  "id": "zarya-vostoka-building",
+  "name": "Zarya Vostoka building",
+  "by": "David Chisliev",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1931",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Constructivist headquarters of the Russian-language newspaper Zarya Vostoka.",
+  "status": "photo",
+  "commons_category": "Shota Rustaveli Avenue, Tbilisi",
+  "photos": [
+   {
+    "file": "File:Zarya Vostoka building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zarya_Vostoka_building"
+  ],
+  "note": "Lead image, description names the building; portrait orientation. Article infobox says 1930, text 1931. Category is the avenue, not own. Not viewed."
+ },
+ {
+  "id": "georgian-parliament-building-tbilisi",
+  "name": "Parliament of Georgia (Rustaveli Avenue)",
+  "by": "Viktor Kokorin, Giorgi Lezhava",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1953",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Reinforced concrete clad in tufa and granite, with a monumental arcade and arch pediment.",
+  "status": "photo",
+  "commons_category": "Tbilisi Parliament Building",
+  "photos": [
+   {
+    "file": "File:Parliament building. Rustaveli Avenue, Tbilisi. Georgia's Independence Day celebrations 26.05.2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georgian_Parliament_Building_(Tbilisi)"
+  ],
+  "note": "Title names the parliament building on Rustaveli Avenue; event photo, crowds likely. Article lead is a local enwiki file. Not viewed."
+ },
+ {
+  "id": "tbilisi-city-assembly-building",
+  "name": "Tbilisi City Assembly Building",
+  "by": "Paul Stern",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1878",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Neo-Moorish 'Exotic' style from the 1878 remodel; clock tower added 1910.",
+  "status": "photo",
+  "commons_category": "Tbilisi city assembly building",
+  "photos": [
+   {
+    "file": "File:Tbscityhall.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Assembly_Building"
+  ],
+  "note": "Lead image, in own category; description links it to the City Assembly. Not viewed."
+ },
+ {
+  "id": "baku-opera-and-ballet-theatre",
+  "name": "Azerbaijan State Academic Opera and Ballet Theatre",
+  "by": "Nikolai Bayev",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1911",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Built in under ten months by three shifts of about 200 workers; opened February 1911.",
+  "status": "photo",
+  "commons_category": "Azerbaijan State Academic Opera and Ballet Theater",
+  "photos": [
+   {
+    "file": "File:Azerbaijan State Academic Opera and Ballet Theatre main façade, 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azerbaijan_State_Academic_Opera_and_Ballet_Theater"
+  ],
+  "note": "Lead image, in own category; title says main facade. Not viewed. Year = opening."
+ },
+ {
+  "id": "ismailiyya-palace",
+  "name": "Ismailiyya Palace",
+  "by": "Jozef Ploszko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Stone"
+  ],
+  "features": "Venetian Gothic palace built 1908-1913 for Musa Naghiyev.",
+  "status": "photo",
+  "commons_category": "İsmailiyye palace",
+  "photos": [
+   {
+    "file": "File:Ismailiyye palace main façade, Baku, 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
+  ],
+  "note": "Lead image, in own category; title says main facade. Not viewed."
  }
 ]
