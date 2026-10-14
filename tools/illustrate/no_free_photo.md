@@ -259,6 +259,10 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Cedro Primary School | Fernando Távora | 1960 | Vila Nova de Gaia, PT | held back in round 6 review: no clear free photo of the building |
 | Xanadu | Ricardo Bofill (Taller de Arquitectura) | 1971 | Calp, ES | held back in round 6 review: no clear free photo of the building |
 | Bolte Bridge | Denton Corker Marshall | 1999 | Melbourne, AU | a bridge, not a building (round 6 review) |
+| Audain Art Museum | Patkau Architects | 2016 | Whistler, CA | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
+| First Canadian Place | Bregman + Hamann Architects, Edward Durell Stone & Associates | 1975 | Toronto, CA | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
+| Torre Mayor | Zeidler Roberts Partnership, Adamson Associates | 2003 | Mexico City, MX | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
+| Conjunto Urbano Nonoalco Tlatelolco | Mario Pani | 1964 | Mexico City, MX | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
 | Le Mirail (Toulouse-Le Mirail) | Georges Candilis, Alexis Josic, Shadrach Woods | 1972 | Toulouse, FR | no free photo. Commons hits are 1968 archive pictures of meetings, not the buildings. |
 | Parc des Princes | Roger Taillibert | 1972 | Paris, FR | no free photo. Commons category has only archive match photos and a 2026 final; no clear exterior seen. Check Category:Parc des Princes for newer files. |
 | Unité d'habitation de Briey | Le Corbusier (managing architect André Wogenscky) | 1960 | Briey, FR | no free photo. Only a commemorative plaque on Commons. |
