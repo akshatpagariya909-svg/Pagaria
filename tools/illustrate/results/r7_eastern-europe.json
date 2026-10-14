@@ -1641,5 +1641,344 @@
    "https://en.wikipedia.org/wiki/Zagreb_Glavni_Kolodvor"
   ],
   "note": "Only one usable exterior photo (the other aerial is GFDL)."
+ },
+ {
+  "id": "telephone-palace-bucharest",
+  "name": "Telephone Palace (SART building)",
+  "by": "Edmond Van Saanen Algi",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1934",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "First major modernist building on Calea Victoriei: a steel-skeleton tower built 1931–33 and inaugurated in 1934.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Palatul Telefoanelor",
+  "photos": [
+   {
+    "file": "File:Bucharest Day 3 - Victoriei (9338447856).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 151.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telephones_Company_Building"
+  ],
+  "note": "Commons category is the street Calea Victoriei; the white tower is visible but among other buildings. Reviewer: better photo wanted. Wikipedia title: Telephones Company Building."
+ },
+ {
+  "id": "house-of-the-free-press-bucharest",
+  "name": "House of the Free Press (Casa Scînteii)",
+  "by": "Horia Maicu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1956",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Stalinist socialist-realist printing house modelled on Moscow State University, built 1952–56; once the tallest building in Romania.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Casa Presei Libere",
+  "photos": [
+   {
+    "file": "File:Bucuresti, Romania. CASA PRESEI LIBERE (Fosta Casa a Scînteii )(B-II-a-A-18802) (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bucuresti, Romania. PARCUL HERASTRAU. Acum Parcul Regele Mihai I. Ambarcatiuni pe lacul Herastrau. (B-II-a-A-18802).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:DIMINEATA DE IULIE - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/House_of_the_Free_Press"
+  ],
+  "note": "Commons category found by search; check the three photos show the right building. Wikipedia says it was the tallest in the country."
+ },
+ {
+  "id": "nebotinik-ljubljana",
+  "name": "Nebotičnik",
+  "by": "Vladimir Šubic",
+  "city": "Ljubljana",
+  "cc": "SI",
+  "year": "1933",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Tower with sculpted façade and a café on the eleventh storey; construction began April 1931, opened 21 February 1933.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Nebotičnik",
+  "photos": [
+   {
+    "file": "File:Laibach (13890816600).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:4.4.13 Ljubljana 04 (8620606942).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:February 2008 in Ljubljana 29.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nebotičnik"
+  ],
+  "note": "Šubic was assisted by Ladislav Kham, Ivo Medved, Marjan Mušič and others."
+ },
+ {
+  "id": "sofia-synagogue",
+  "name": "Sofia Synagogue",
+  "by": "Friedrich Grünanger",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1909",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Brick"
+  ],
+  "features": "Largest synagogue in Southeastern Europe: Moorish and Byzantine Revival with Secession touches; opened 9 September 1909.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sofia Synagogue",
+  "photos": [
+   {
+    "file": "File:20140614 Sofia 152.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140614 Sofia 155.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2008 0330test0252.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Synagogue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "riga-radio-and-tv-tower",
+  "name": "Riga Radio and TV Tower",
+  "by": "Kims Nikuradze",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1989",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Steel tower on Zaķusala island in the Daugava, built 1979–89; three dampers hold it still in winds up to 44 m/s.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Riga Radio and TV Tower",
+  "photos": [
+   {
+    "file": "File:Daugava River and Riga Radio and Television Tower.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:16-08-31-View from Latvian Academy of Sciences building-RR2 4242.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Daugavas promenāde - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower"
+  ],
+  "note": "Photos are distant views; no close exterior in the first 8 files."
+ },
+ {
+  "id": "palace-of-culture-iasi",
+  "name": "Palace of Culture, Iași",
+  "by": "I. D. Berindei",
+  "city": "Iași",
+  "cc": "RO",
+  "year": "1925",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Steel & glass"
+  ],
+  "features": "Flamboyant Neo-Gothic palace on the old Princely Court site; despite its archaic look it was built with modern materials; completed 1925.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Iași Palace of Culture",
+  "photos": [
+   {
+    "file": "File:2020 03 14 Iași Palatul Culturii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020 04 17 Iași Palatul Culturii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:110825 Iasi (5).jpg",
+    "license": "CC BY-SA 3.0 ro",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Culture_(Iași)"
+  ],
+  "note": "Inaugurated 1926 by King Ferdinand I."
+ },
+ {
+  "id": "zagreb-mosque",
+  "name": "Zagreb Mosque",
+  "by": "Džemal Čelić, Mirza Gološ",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Mosque complex of about 10,000 m² with a 51 m minaret; the mihrab is a parabolic projection out of the wall; completed 1987.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Mosque in Zagreb",
+  "photos": [
+   {
+    "file": "File:Džamija, ZG 1335.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Džamija, ZG 1338.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Džamija, ZG 1329.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zagreb_Mosque"
+  ],
+  "note": "Largest religious building in Yugoslavia after Zagreb Cathedral at the time; photos are modest in size (1200–1600 px)."
+ },
+ {
+  "id": "cibona-tower-zagreb",
+  "name": "Cibona Tower",
+  "by": "Marijan Hržić",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1987",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Façade of dark steel, reflective glass and black granite; the rim is carried by 26 reinforced-concrete pylons; built 1987 for the Universiade.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cibona Tower",
+  "photos": [
+   {
+    "file": "File:Cibona Tower 20150912 DSC 2576.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cibona Tower 2006.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cibona Tower in winter night, Zagreb.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cibona_Tower"
+  ],
+  "note": ""
  }
 ]
