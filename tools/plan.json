@@ -1,0 +1,18 @@
+[
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "New buildings",
+  "target": 0,
+  "metric": "buildings_added",
+  "status": "paused",
+  "note": "Paused at the owner's request after round 6 (13 Oct). Resumes when the owner sets a daily target."
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "Keep the progress dashboard current",
+  "status": "done",
+  "note": "Chats refresh it after each merge; a daily run at 17:51 UTC is the safety net."
+ }
+]
