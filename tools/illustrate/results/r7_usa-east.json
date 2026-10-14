@@ -1,0 +1,432 @@
+[
+ {
+  "id": "empire-state-plaza",
+  "name": "Empire State Plaza",
+  "by": "Wallace Harrison",
+  "city": "Albany",
+  "cc": "US",
+  "year": "1976",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "State government complex built 1965–76 beside the 1899 Capitol; home to a major 1960s–70s abstract art collection.",
+  "status": "photo",
+  "commons_category": "Category:Empire State Plaza",
+  "photos": [
+   {
+    "file": "File:Empire State Plaza at sunset.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Empire Plaza from Times Union Arena parking deck, Albany, NY.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20220507 - 25 - Albany, New York - Panoramic view from the east side of Empire State Plaza.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Empire_State_Plaza",
+   "https://commons.wikimedia.org/wiki/Category:Empire_State_Plaza"
+  ],
+  "note": ""
+ },
+ {
+  "id": "first-unitarian-church-rochester",
+  "name": "First Unitarian Church of Rochester",
+  "by": "Louis Kahn",
+  "city": "Rochester",
+  "cc": "US",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Deeply folded brick walls with thin two-storey light hoods that shield the windows from direct sun.",
+  "status": "photo",
+  "commons_category": "Category:First Unitarian Church of Rochester",
+  "photos": [
+   {
+    "file": "File:Louis I. Kahn, Tempio unitario a Rochester (NY), Stati Uniti.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis I. Kahn, Tempio unitario a Rochester, Stati Uniti.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis I. Kahn, Unity Temple in Rochester (NY), United States.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Unitarian_Church_of_Rochester_(building)",
+   "https://commons.wikimedia.org/wiki/Category:First_Unitarian_Church_of_Rochester"
+  ],
+  "note": ""
+ },
+ {
+  "id": "177-huntington",
+  "name": "177 Huntington",
+  "by": "Araldo Cossutta, Pei Cobb Freed & Partners",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A 367-foot Brutalist tower on the Christian Science Plaza in Boston's Fenway.",
+  "status": "photo",
+  "commons_category": "Category:Christian Science Administration Building",
+  "photos": [
+   {
+    "file": "File:Christian Science Administration Building 177 Huntington Avenue Boston.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:177 Huntington Avenue tower (53957070555).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:2017 Prudential Skywalk - Christian Science Administration Building (SbW).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/177_Huntington",
+   "https://commons.wikimedia.org/wiki/Category:Christian_Science_Administration_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bradfield-hall-cornell",
+  "name": "Bradfield Hall",
+  "by": "Ulrich Franzen",
+  "city": "Ithaca",
+  "cc": "US",
+  "year": "1969",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Academic building on the Agricultural Quadrangle of Cornell University, opened 1969.",
+  "status": "photo",
+  "commons_category": "Category:Bradfield Hall (Cornell University)",
+  "photos": [
+   {
+    "file": "File:Bradfield Hall 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bradfield Hall 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bradfield Hall at Cornell University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bradfield_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Bradfield_Hall_(Cornell_University)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kleinhans-music-hall",
+  "name": "Kleinhans Music Hall",
+  "by": "Eliel Saarinen & Eero Saarinen",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1940",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Concert hall by father and son with two performance spaces; a National Historic Landmark for its architecture.",
+  "status": "photo",
+  "commons_category": "Category:Kleinhans Music Hall",
+  "photos": [
+   {
+    "file": "File:20190611 - 09 - Kleinhans Music Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190611 - 10 - Kleinhans Music Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kleinhans Music Hall, Symphony Circle, Front Park, Buffalo, NY - 52562866581.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kleinhans_Music_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Kleinhans_Music_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cummins-corporate-office-building",
+  "name": "Cummins Corporate Office Building",
+  "by": "Kevin Roche",
+  "city": "Columbus",
+  "cc": "US",
+  "year": "1983",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Courtyard"
+  ],
+  "features": "Built around the Cerealine Building, Cummins' first factory building, on an old railroad yard.",
+  "status": "photo",
+  "commons_category": "Category:Cummins Corporate Office Building",
+  "photos": [
+   {
+    "file": "File:Cummins Corporate Office Building - April 2008 - Holly Higgins 02.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cummins headquarters.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cummins Engines Offices - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cummins_Corporate_Office_Building",
+   "https://commons.wikimedia.org/wiki/Category:Cummins_Corporate_Office_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "harbor-towers-boston",
+  "name": "Harbor Towers",
+  "by": "Henry N. Cobb (I. M. Pei & Partners)",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1971",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "Two 40-storey residential towers on the Boston waterfront, part of the 1960s harbour revitalisation.",
+  "status": "photo",
+  "commons_category": "Category:Harbor Towers (Boston, Massachusetts)",
+  "photos": [
+   {
+    "file": "File:Harbor Towers, Boston, August 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Custom House Tower between Harbor Towers (53826014684).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Financial district of Boston.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harbor_Towers",
+   "https://commons.wikimedia.org/wiki/Category:Harbor_Towers_(Boston,_Massachusetts)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "manitoga",
+  "name": "Manitoga",
+  "by": "Russel Wright & David L. Leavitt",
+  "city": "Garrison",
+  "cc": "US",
+  "year": "1961",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Climate response"
+  ],
+  "features": "Russel Wright's home, studio and woodland garden (Dragon Rock), built 1941–61 to live in harmony with nature.",
+  "status": "photo",
+  "commons_category": "Category:Manitoga",
+  "photos": [
+   {
+    "file": "File:Manitoga 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Manitoga 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Manitoga 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manitoga",
+   "https://commons.wikimedia.org/wiki/Category:Manitoga"
+  ],
+  "note": ""
+ },
+ {
+  "id": "merck-headquarters-building",
+  "name": "Merck Headquarters Building",
+  "by": "Kevin Roche John Dinkeloo and Associates",
+  "city": "Whitehouse Station",
+  "cc": "US",
+  "year": "1990",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "Modernist corporate headquarters known for its environmentally friendly features.",
+  "status": "photo",
+  "commons_category": "Category:SAS Frösundavik Office Building",
+  "photos": [
+   {
+    "file": "File:SAS byggnad 2010c.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SAS byggnad 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SAS byggnad 2010a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Merck_Headquarters_Building",
+   "https://commons.wikimedia.org/wiki/Category:SAS_Frösundavik_Office_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "murray-d-lincoln-campus-center",
+  "name": "Murray D. Lincoln Campus Center",
+  "by": "Marcel Breuer",
+  "city": "Amherst",
+  "cc": "US",
+  "year": "1970",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "features": "A concrete high-rise with an attached parking garage; its hotel occupies floors three to seven.",
+  "status": "photo",
+  "commons_category": "Category:Murray D. Lincoln Campus Center",
+  "photos": [
+   {
+    "file": "File:Campus Center UMass 5.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Murray D. Lincoln Campus Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fine Arts Center.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center",
+   "https://commons.wikimedia.org/wiki/Category:Murray_D._Lincoln_Campus_Center"
+  ],
+  "note": ""
+ }
+]
