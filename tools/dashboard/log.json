@@ -2,6 +2,18 @@
  {
   "date": "2026-10-14",
   "workstream": "Data collection",
+  "what": "Round 8: 234 buildings from South America, the Middle East and Turkey, and South Asia",
+  "pr": "37"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Fix daily analytics fetch and count opened buildings",
+  "pr": "35"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
   "what": "Round 7, second batch: 155 buildings from the USA, Eastern Europe, Benelux and Southeast Asia",
   "pr": "34"
  },

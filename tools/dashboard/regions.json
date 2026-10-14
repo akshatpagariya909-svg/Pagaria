@@ -5,7 +5,7 @@
  },
  {
   "region": "Americas",
-  "buildings": 683
+  "buildings": 773
  },
  {
   "region": "East Asia",
@@ -13,7 +13,11 @@
  },
  {
   "region": "Middle East",
-  "buildings": 187
+  "buildings": 270
+ },
+ {
+  "region": "South Asia",
+  "buildings": 163
  },
  {
   "region": "Southeast Asia",
@@ -22,10 +26,6 @@
  {
   "region": "Oceania",
   "buildings": 104
- },
- {
-  "region": "South Asia",
-  "buildings": 102
  },
  {
   "region": "Africa",

@@ -3114,7 +3114,9 @@
    "File:Shaheed Minar.JPG"
   ],
   "skip": [
-   "File:2022-02-17 State Minister for Women and Children Affairs inaugurates Shaheed Minar at Shaheed Sheikh Fazilatunnesa Mujib Women's Training Academy Gazipur (PID-0024714).jpg"
+   "File:2022-02-17 State Minister for Women and Children Affairs inaugurates Shaheed Minar at Shaheed Sheikh Fazilatunnesa Mujib Women's Training Academy Gazipur (PID-0024714).jpg",
+   "File:2024-02-21 Floral wreath laying at symbolic Shaheed Minar Bangladesh High Commission London (PID-0010449).jpg",
+   "File:2024-02-21 Floral Wreath at Shaheed Minar, Bangladesh Embassy, Washington DC (PID-0010448).jpg"
   ]
  },
  "maison-du-bresil": {
@@ -3135,7 +3137,11 @@
  "beinecke-rare-book-manuscript-library": {
   "skip": [
    "File:Oil Pastel drawing and watercolor painting of Ericka Huggins on the witness stand.jpg",
-   "File:Beinecke MS 229, fol. 272v.jpg"
+   "File:Beinecke MS 229, fol. 272v.jpg",
+   "File:Beinecke library III.jpg"
+  ],
+  "add": [
+   "File:Beineicke Library south Highsmith.jpg"
   ]
  },
  "bank-of-china-tower": {
@@ -3345,6 +3351,9 @@
  "city-hall-london": {
   "skip": [
    "File:Millicent Fawcett miniature statue in City Hall (39965041270).jpg"
+  ],
+  "add": [
+   "File:Ayuntamiento y Shard, Londres, Inglaterra, 2014-08-11, DD 076.JPG"
   ]
  },
  "palacio-do-planalto": {
@@ -3523,7 +3532,15 @@
  },
  "leeum-samsung-museum-of-art": {
   "skip": [
-   "File:Drakee.jpg"
+   "File:Drakee.jpg",
+   "File:Leeum, Samsung Museum of Art.jpg",
+   "File:Avalokiteśvara Leeum Museum of Art.jpg",
+   "File:Bronze candlestick Leeum Museum of Art.jpg",
+   "File:Buddha Leeum Museum of Art.jpg",
+   "File:금동미륵보살반가사유상 (국보 제118호).jpg"
+  ],
+  "add": [
+   "File:Museums of Seoul - SeoulMuseums2380.jpg"
   ]
  },
  "kuala-lumpur-international-airport": {
@@ -3600,7 +3617,13 @@
  },
  "national-museum-of-anthropology": {
   "skip": [
-   "File:Detalle de la maqueta del Lítico en el Museo Nacional de Antropología.jpg"
+   "File:Detalle de la maqueta del Lítico en el Museo Nacional de Antropología.jpg",
+   "File:Guerrero Coyote de Tula en el MNA.jpg",
+   "File:Xochipilli en el Museo Nacional de Antropología, Mx.jpg",
+   "File:Great Pyramids room - Teotihuacán - National Museum of Anthropology - Mexico 2024.jpg"
+  ],
+  "add": [
+   "File:National Museum of Anthropology - Aztecs (JC) 02.JPG"
   ]
  },
  "fernsehturm-berlin": {
@@ -3886,7 +3909,12 @@
  },
  "austrian-parliament-building": {
   "skip": [
-   "File:August Eisenmenger Herodot in Olympia Skizze.jpg"
+   "File:August Eisenmenger Herodot in Olympia Skizze.jpg",
+   "File:Wien - Parlament, Tag der offenen Tür (14.1.2023).JPG",
+   "File:Gipsmodelle Wiener Historismus Hofburg-Keller 2015 Cicero Karl Sterrer.jpg"
+  ],
+  "add": [
+   "File:Parliament Building in Vienna, Austria-open day - front left close PNr°1015.jpg"
   ]
  },
  "green-building-mit-building-54": {
@@ -3941,7 +3969,11 @@
  },
  "national-space-centre": {
   "skip": [
-   "File:Model of the International Space Station.jpg"
+   "File:Model of the International Space Station.jpg",
+   "File:Pioneer statue at the National Space Centre - geograph.org.uk - 5809673.jpg"
+  ],
+  "add": [
+   "File:National Space Centre Entrance.jpg"
   ]
  },
  "contemporary-jewish-museum": {
@@ -3981,7 +4013,16 @@
  },
  "bihar-museum": {
   "skip": [
-   "File:Siraj-ud-Daula, Subedar of Bengal.jpg"
+   "File:Siraj-ud-Daula, Subedar of Bengal.jpg",
+   "File:005 Part of the Railings.jpg",
+   "File:009 Pillar, Man and Woman.jpg",
+   "File:011 Pillar, Chariot Scene.jpg",
+   "File:Theatre Hall Bihar Museum.jpg",
+   "File:Inside Bihar Museum.jpg",
+   "File:Bihar Museum Children and Wildlife Section.jpg"
+  ],
+  "add": [
+   "File:Bihar museum.jpg"
   ]
  },
  "chhatrapati-shivaji-maharaj-international-airport-terminal-2": {
@@ -4158,9 +4199,13 @@
  "multihalle-mannheim": {
   "category": "Category:Multihalle",
   "add": [
+   "File:Multihalle DachStuetzen1.jpg",
    "File:Herzogenriedpark Mannheim Multihalle.jpg",
    "File:Die Multihalle wurde zur Bundesgartenschau 1975 errichtet. - panoramio.jpg",
    "File:Multihalle - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Herzogenriedpark Mannheim Multihalle.jpg"
   ]
  },
  "musee-yves-saint-laurent-marrakech": {
@@ -4328,8 +4373,11 @@
  },
  "al-wasl-plaza": {
   "add": [
-   "File:Evening Two at the Expo (51733837998).jpg",
-   "File:PTFE mesh.jpg"
+   "File:PTFE mesh.jpg",
+   "File:Evening Two at the Expo (51733837998).jpg"
+  ],
+  "skip": [
+   "File:Evening Two at the Expo (51733837998).jpg"
   ]
  },
  "arcadia-education-project": {
@@ -4354,9 +4402,12 @@
  },
  "bolgatanga-library": {
   "add": [
-   "File:Bolgatanga1.jpg",
    "File:Bolgatanga6.jpg",
+   "File:Bolgatanga1.jpg",
    "File:Bolgatanga2.jpg"
+  ],
+  "skip": [
+   "File:Bolgatanga1.jpg"
   ]
  },
  "british-council-new-delhi": {
@@ -6251,9 +6302,12 @@
  "kazakhstan-central-concert-hall": {
   "category": "Category:Central concert hall Kazakhstan",
   "add": [
+   "File:Downtown Astana With The National Concert Hall (6246435844).jpg",
    "File:Казахстан ЦКЗ 2011 02.jpg",
-   "File:Astana-2021-10 - 28.jpg",
-   "File:Downtown Astana With The National Concert Hall (6246435844).jpg"
+   "File:Astana-2021-10 - 28.jpg"
+  ],
+  "skip": [
+   "File:Казахстан ЦКЗ 2011 02.jpg"
   ]
  },
  "ukrintei-flying-saucer": {
@@ -6408,8 +6462,8 @@
  "madinat-al-zahra-museum": {
   "category": "Category:Museo de Medina Azahara",
   "add": [
-   "File:Museo de Medina Azahara (40182199271).jpg",
-   "File:Museo de Medina Azahara (39283697065).jpg"
+   "File:Museo de Medina Azahara (39283697065).jpg",
+   "File:Museo de Medina Azahara (40182199271).jpg"
   ]
  },
  "the-datai-langkawi": {
@@ -7403,6 +7457,7 @@
  "notre-dame-de-lourdes-casablanca": {
   "category": "Category:Notre-Dame-de-Lourdes (Casablanca)",
   "add": [
+   "File:Vaulted concrete ceiling, Notre Dame of Lourdes Church (Casablanca).jpg",
    "File:Our lady of lourdes church casablanca - 334220774.jpg"
   ]
  },
@@ -7830,10 +7885,15 @@
  "edificio-carrion-madrid": {
   "category": "Category:Edificio Carrión",
   "add": [
-   "File:Edificio Carrion desde La Gran Via de Madrid (España).jpg",
    "File:Edificio Carrión 2024.jpg",
+   "File:Edificio Carrion desde La Gran Via de Madrid (España).jpg",
    "File:Edificio Carrion - Gran Via - Madrid 01.jpg",
    "File:Edificio Carrión 2007.jpg"
+  ],
+  "skip": [
+   "File:Edificio Carrion desde La Gran Via de Madrid (España).jpg",
+   "File:Edificio Carrión, placa, Madrid, España, 2015.JPG",
+   "File:Madrid - Edificio Carrión, placa.jpg"
   ]
  },
  "engel-house-tel-aviv": {
@@ -18564,6 +18624,227 @@
   ],
   "skip": [
    "File:Director Ross Hagan distribute certificate to one of the 71 trainees.jpg"
+  ]
+ },
+ "einstein-tower": {
+  "add": [
+   "File:Einstein Tower rear view.jpg"
+  ],
+  "skip": [
+   "File:Albert Einstein Science Park (84856).jpg",
+   "File:Albert.Einstein.Bueste.Einsteinturm.P1185953.jpg",
+   "File:Albert.Einstein.Bueste.Einsteinturm.P1185958.jpg",
+   "File:Skizze.Einsteinturm.Erich.Mendelsohn.P1185961.jpg"
+  ]
+ },
+ "stavros-niarchos-foundation-cultural-center": {
+  "add": [
+   "File:20240314 Athens 242.jpg"
+  ],
+  "skip": [
+   "File:Stavros Niarchos Foundation Cultural Center - 52035725472.png",
+   "File:20190513 393 athenes.jpg"
+  ]
+ },
+ "kuwait-national-assembly": {
+  "add": [
+   "File:Kuwait City Arabian Gulf Street 10.jpg"
+  ],
+  "skip": [
+   "File:Secretary Blinken Tours the Kuwaiti National Assembly and Meets with Speaker of the Kuwaiti National Assembly Marzouq Ali Mohammed Al-Ghanim (51345871621).jpg",
+   "File:Secretary Blinken Tours the Kuwaiti National Assembly and Meets with Speaker of the Kuwaiti National Assembly Marzouq Ali Mohammed Al-Ghanim (51345149997).jpg",
+   "File:صورة جوية لمبنى مجلس الامة.jpg"
+  ]
+ },
+ "aula-magna-central-university-of-venezuela": {
+  "add": [
+   "File:UCV (11).jpg"
+  ],
+  "skip": [
+   "File:Plenaria del Congreso del Frente Amplio Venezuela Libre 01.jpg",
+   "File:Plenaria del Congreso del Frente Amplio Venezuela Libre 02.jpg"
+  ]
+ },
+ "ise-grand-shrine": {
+  "add": [
+   "File:Ise Grand Shrine, Mie Prefecture; November 2016 (02).jpg"
+  ],
+  "skip": [
+   "File:Ise Grand Shrine, Mie Prefecture; November 2016 (01).jpg",
+   "File:Grand Shrine at Ise - Flickr - EL. Photography.jpg"
+  ]
+ },
+ "palazzetto-dello-sport": {
+  "add": [
+   "File:Le Palazzetto dello Sport en vue aérienne.png"
+  ],
+  "skip": [
+   "File:Wiki-concrete editathon at MAXXI, Rome, June 2025 60.jpg",
+   "File:Wiki-concrete editathon at MAXXI, Rome, June 2025 42.jpg"
+  ]
+ },
+ "sea-organ": {
+  "add": [
+   "File:Sea Organ 海鋼琴 - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Greetings to the Sun and The Sea organs at sunset,Zadar.jpg",
+   "File:Zadar - Morske Orgulje (48913834056).jpg"
+  ]
+ },
+ "tabiat-bridge": {
+  "add": [
+   "File:Tabiatbridge-section.jpg"
+  ],
+  "skip": [
+   "File:Irnb192-Teheran-Kładka dla pieszych.jpg",
+   "File:Irnb185-Teheran-Iranka.jpg",
+   "File:Irnb187-Teheran-Iranka.jpg"
+  ]
+ },
+ "tokyo-bunka-kaikan": {
+  "add": [
+   "File:Wongwt 東京文化會館 (17098044799).jpg"
+  ],
+  "skip": [
+   "File:Seiichirō Yasui - Ueno, Tokyo - DSC04964.JPG"
+  ]
+ },
+ "temple-of-heaven": {
+  "add": [
+   "File:Beijing - Temple of Heaven Park IMG 5064 Imperial Hall of Heaven.jpg"
+  ],
+  "skip": [
+   "File:2015-01-15 before the Temple of Heaven.jpg"
+  ]
+ },
+ "museum-fur-moderne-kunst": {
+  "add": [
+   "File:The Ship - Flickr - Peter.Samow.jpg"
+  ],
+  "skip": [
+   "File:Dr. Rolf Lauter, Tour through the new architecture of Museum für Moderne Kunst Frankfurt before the official opening (June 6, 1991) March 1991.jpg",
+   "File:Franz West \"Ohne Titel\" 2012 vor dem TOWERᴹᴹᴷ (Museum für Moderne Kunst) an der Gallusanlage Frankfurt (2).JPG",
+   "File:Frankfurt am Main, TOWERᴹᴹᴷ , Fritz Scholder - 2.jpg",
+   "File:Ohne Titel in 3D 1.jpg"
+  ]
+ },
+ "state-farm-stadium": {
+  "add": [
+   "File:University of Phoenix Stadium (16026049711).jpg"
+  ],
+  "skip": [
+   "File:Man's Best Friend (21465311796).jpg",
+   "File:The Big W at State Farm Stadium on January 13, 2025 (54266294906).jpg"
+  ]
+ },
+ "thomas-jefferson-building-library-of-congress": {
+  "add": [
+   "File:Reading room, Library of Congress, Washington, D.C., 1901.jpg"
+  ],
+  "skip": [
+   "File:Auto wreck, USA, 1923.jpg",
+   "File:A delegation from the Chinese Librarian Scholarly Exchange Project tours the Jefferson Building, July 15, 2024.jpg",
+   "File:Library of Congress, Wash., D.C. LCCN2014681473.jpg",
+   "File:\"Collecting Memories- Treasures from the Library of Congress,\" opened June 13, 2024 as the inaugural exhibition in the new David M. Rubenstein Treasures Gallery in the Library of Congress' Thomas Jefferson Building - 1.jpg"
+  ]
+ },
+ "messner-mountain-museum-corones": {
+  "add": [
+   "File:Messner Mountain Museum am Kronplatz.JPG"
+  ],
+  "skip": [
+   "File:Aussenfenster (MMM Corones) (06).jpg"
+  ]
+ },
+ "timberline-lodge": {
+  "add": [
+   "File:East wing 7903.jpg"
+  ],
+  "skip": [
+   "File:305 Mt Hood Nat'l Forest, Timberline Lodge skiers line uo fir 1930's ski event (36074359281).jpg"
+  ]
+ },
+ "muziekcentrum-vredenburg": {
+  "add": [
+   "File:Vredenburg 1978 - Hertzberger.jpg"
+  ],
+  "skip": [
+   "File:HUA-32973-Portret Dick te Winkel adjunct directeur van Muziekcentrum Vredenburg te Utrecht.jpg"
+  ]
+ },
+ "supreme-federal-court": {
+  "add": [
+   "File:Posse Lula 2023 (52607745493).jpg"
+  ],
+  "skip": [
+   "File:Supreme Federal Court - Statue.jpg",
+   "File:Supreme Federal Court - Justice Statue.jpg",
+   "File:Jovem Senador 2016 (31007295460).jpg",
+   "File:Regimento Interno do Supremo Tribunal Federal (Exposição).JPG"
+  ]
+ },
+ "palmach-museum": {
+  "add": [
+   "File:144060 the palmach museum in ramat aviv in front of the b PikiWiki Israel.jpg"
+  ],
+  "skip": [
+   "File:140636 palmach house - maj. gen. amos horev PikiWiki Israel.jpg",
+   "File:140637 palmach house - maj. gen. amos horev PikiWiki Israel.jpg",
+   "File:112544 beit palmach- PikiWiki Israel.jpg",
+   "File:144078 the palmach museum in ramat aviv on display PikiWiki Israel.jpg"
+  ]
+ },
+ "oscar-niemeyer-museum": {
+  "add": [
+   "File:Museu do Olho - Oscar Niemeyer - Curitiba Brasil (10146136615).jpg"
+  ],
+  "skip": [
+   "File:African Balafon in Museu Oscar Niemeyer.jpg",
+   "File:47 loyal samurai, an example of bushido in Japanese historical painting, copper engraving edition by the Tenshodo Printing Office from the Taishō period,Museu Oscar Niemeyer. Ásia, a Terra, os Homens, os Deuses 21.jpg"
+  ]
+ },
+ "museum-of-pop-culture": {
+  "add": [
+   "File:Seattle (WA, USA), Museum of Pop Culture, Fassade -- 2022 -- 1593.jpg"
+  ]
+ },
+ "neue-pinakothek": {
+  "add": [
+   "File:East side of the Neue Pinakothek.jpg"
+  ],
+  "skip": [
+   "File:Ausstellungsraum Neue Pinakothek.JPG",
+   "File:Johann Georg von Dillis - Tivoli - Neue Pinakothek - 9321.jpg",
+   "File:Moritz von Schwind - Eine Symphonie - Neue Pinakothek - WAF 1017.jpg",
+   "File:Moritz von Schwind - Der Besuch - Neue Pinakothek - 8120.jpg",
+   "File:GraphyArchy - Wikipedia 00068.jpg"
+  ]
+ },
+ "perret-tower": {
+  "add": [
+   "File:Grenoble20210726130230.jpg"
+  ],
+  "skip": [
+   "File:Expo8-Grenoble.jpg"
+  ]
+ },
+ "national-theatre-lagos": {
+  "add": [
+   "File:National Arts Theatre, Lagos.jpg"
+  ],
+  "skip": [
+   "File:Statue of woman on horse, National Theater.jpg",
+   "File:A part of the road in the surrounding of the theatre.jpg",
+   "File:A dimly lit part inside the theatre with beautiful artifacts.jpg"
+  ]
+ },
+ "open-hand-monument": {
+  "add": [
+   "File:The open palm is the very symbol of Chandigarh (30405051708).jpg"
+  ],
+  "skip": [
+   "File:Open Hand Monument.JPG"
   ]
  }
 }

@@ -15,6 +15,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 - **Free images only**: public domain, CC0, CC BY or CC BY-SA, from Wikimedia Commons. Never NC or ND. Every photo shows its credit and licence and links to its source.
 - About ten buildings have no free photos. The owner will decide later how to handle licensed photos: remind them, don't solve it alone.
+- **The main photo (the wall tile) shows the building**, never people as the subject, an event, a crowd, artworks, objects or a sign (owner's rule, 14 Oct 2026). Every new lead is checked by eye for this; a building with no such photo stays off the wall until one is found.
 - Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
 - Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), the chosen half of the Buildings | Books switch, and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
