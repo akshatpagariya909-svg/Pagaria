@@ -1,4 +1,4 @@
-/* Discover Architecture: the filter panel ("Pattern language").
+/* Find Great Architecture: the filter panel ("Pattern language").
    Six tabs: Ideas and Type as line drawings, Movement as a timeline, Location as a map, Date as decade bars,
    Architect as an A–Z of faces. One search box finds any filter. Every count is live: it says how many
    buildings you would see with that option added to your other choices.
