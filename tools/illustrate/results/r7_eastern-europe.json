@@ -1393,5 +1393,253 @@
    "https://en.wikipedia.org/wiki/Constanța_Casino"
   ],
   "note": ""
+ },
+ {
+  "id": "haludovo-palace-hotel-malinska",
+  "name": "Haludovo Palace Hotel",
+  "by": "Boris Magaš",
+  "city": "Malinska",
+  "cc": "HR",
+  "year": "1972",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "A 'hotel city': varied building types spread through the existing vegetation and linked by pedestrian routes; built 1969–72 for about 1,650 guests.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Haludovo Palace Hotel",
+  "photos": [
+   {
+    "file": "File:Haludovo palace hotel from pool 2011-08-12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haludovo Hotel Palace by architect Boris Magaš.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haludovo Hotels by architect Boris Magaš.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Haludovo"
+  ],
+  "note": "Abandoned since the 1990s. Two of the photos are black-and-white views from the 1970s."
+ },
+ {
+  "id": "christs-resurrection-church-kaunas",
+  "name": "Church of Christ's Resurrection",
+  "by": "Karolis Reisonas",
+  "city": "Kaunas",
+  "cc": "LT",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Axis"
+  ],
+  "features": "Modernist church by Karolis Reisonas chosen in a competition; walls and roof finished 1938, used as a radio factory under Soviet rule, completed 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Church of Christ's Resurrection, Kaunas",
+  "photos": [
+   {
+    "file": "File:Church of Christ's Resurrection, Kaunas, side view.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Open air uploaded 2026-05-25.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Winter in Kaunas - panoramio (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christ's_Resurrection_Basilica,_Kaunas"
+  ],
+  "note": "Consecrated 2004, finally completed 2005; roof terrace and elevator."
+ },
+ {
+  "id": "poljud-stadium-split",
+  "name": "Poljud Stadium",
+  "by": "Boris Magaš",
+  "city": "Split",
+  "cc": "HR",
+  "year": "1979",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Seashell-like stadium with a 206×47 m roof span set slightly below street grade in 60,000 m² of landscape; opened September 1979.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Gradski stadion u Poljudu",
+  "photos": [
+   {
+    "file": "File:Aerial view of Poljud Stadium in 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20130605 Split 32.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gradski stadion Poljud - Split.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Poljud_Stadium"
+  ],
+  "note": "Wikipedia credits the built design to Boris Magaš but says the 1975 competition was won by Ivan Piteša (Magaš placed third): reviewer should check attribution."
+ },
+ {
+  "id": "park-monument-bulgarian-soviet-friendship-varna",
+  "name": "Park-Monument of the Bulgarian-Soviet Friendship",
+  "by": "Kamen Goranov (with sculptors Evgeni Barumov, Alyosha Kafedzhiyski)",
+  "city": "Varna",
+  "cc": "BG",
+  "year": "1978",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Concrete memorial 23 m high and 48 m wide on Turna Tepe hill, reached by a 301-step 'Staircase of Victory'; built 1974–78.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bulgarian-Soviet friendship monument, Varna",
+  "photos": [
+   {
+    "file": "File:Park Pamjatnik - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pomnik przyjaźni bułgarsko-sowieckiej w Warnie (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bugarian-Soviet friendship monument 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Park-Monument_of_the_Bulgarian-Soviet_Friendship"
+  ],
+  "note": "Competition won in autumn 1973; inaugurated 13 Nov 1978."
+ },
+ {
+  "id": "sofia-central-station",
+  "name": "Sofia Central Station",
+  "by": "Milko Bechev (Transproekt)",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1974",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "New terminal by Transproekt under lead architect Milko Bechev, built beside the 1888 station and inaugurated 6 September 1974.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sofia Central Railway Station",
+  "photos": [
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 36.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 37.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 09.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Central_Station"
+  ],
+  "note": "One of 30 buildings renewed for the 30th anniversary of the 1944 coup; old building demolished April 1974."
+ },
+ {
+  "id": "zagreb-glavni-kolodvor",
+  "name": "Zagreb Glavni Kolodvor (Main Station)",
+  "by": "Ferenc Pfaff",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1892",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Neoclassical main station, 186.5 m long, chosen from about thirty proposals and opened on 18 August 1892.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Zagreb Glavni train station",
+  "photos": [
+   {
+    "file": "File:Bahnhof Glavni Kolodvor Zagreb Building Railwaystation Zagreb.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zagreb_Glavni_Kolodvor"
+  ],
+  "note": "Only one usable exterior photo (the other aerial is GFDL)."
  }
 ]
