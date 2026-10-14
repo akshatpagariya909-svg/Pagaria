@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch3
-Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.
+python -u tools/fetch_pritzker.py
+Save each Pritzker jury citation, full page text this time.

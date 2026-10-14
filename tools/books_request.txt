@@ -1,1 +1,1 @@
-Fourth pass: skip placeholder-sized covers and try the next edition.
+Fetch covers for the new batch.

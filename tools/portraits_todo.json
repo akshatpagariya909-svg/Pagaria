@@ -1,0 +1,4067 @@
+[
+ {
+  "name": "de Meuron",
+  "buildings": 25,
+  "example": "Tate Modern"
+ },
+ {
+  "name": "Zaha Hadid",
+  "buildings": 13,
+  "example": "Vitra Fire Station"
+ },
+ {
+  "name": "Álvaro Siza",
+  "buildings": 9,
+  "example": "Leça Swimming Pools"
+ },
+ {
+  "name": "Jørn Utzon",
+  "buildings": 8,
+  "example": "Sydney Opera House"
+ },
+ {
+  "name": "Kunio Maekawa",
+  "buildings": 8,
+  "example": "Tokyo Bunka Kaikan"
+ },
+ {
+  "name": "Geoffrey Bawa",
+  "buildings": 7,
+  "example": "Heritance Kandalama"
+ },
+ {
+  "name": "Gordon Bunshaft",
+  "buildings": 7,
+  "example": "Beinecke Rare Book & Manuscript Library"
+ },
+ {
+  "name": "Rogelio Salmona",
+  "buildings": 7,
+  "example": "Torres del Parque"
+ },
+ {
+  "name": "Alejandro Aravena",
+  "buildings": 6,
+  "example": "Quinta Monroy"
+ },
+ {
+  "name": "Coop Himmelbau",
+  "buildings": 6,
+  "example": "BMW Welt"
+ },
+ {
+  "name": "Mahendra Raj",
+  "buildings": 6,
+  "example": "Sardar Vallabhbhai Patel Stadium"
+ },
+ {
+  "name": "Michael Wilford",
+  "buildings": 6,
+  "example": "Esplanade - Theatres on the Bay"
+ },
+ {
+  "name": "RCR Arquitectes",
+  "buildings": 6,
+  "example": "De Krook"
+ },
+ {
+  "name": "Ricardo Legorreta",
+  "buildings": 6,
+  "example": "Museo de Arte Contemporáneo de Monterrey"
+ },
+ {
+  "name": "Frei Otto",
+  "buildings": 5,
+  "example": "Munich Olympic Stadium"
+ },
+ {
+  "name": "Kiyonori Kikutake",
+  "buildings": 5,
+  "example": "Edo-Tokyo Museum"
+ },
+ {
+  "name": "Ryue Nishizawa",
+  "buildings": 5,
+  "example": "Moriyama House"
+ },
+ {
+  "name": "Vilanova Artigas",
+  "buildings": 5,
+  "example": "FAU-USP Building"
+ },
+ {
+  "name": "Arthur Erickson",
+  "buildings": 4,
+  "example": "Museum of Anthropology at UBC"
+ },
+ {
+  "name": "Ashton Raggatt McDougall",
+  "buildings": 4,
+  "example": "RMIT Storey Hall"
+ },
+ {
+  "name": "B. V. Doshi",
+  "buildings": 4,
+  "example": "CEPT University"
+ },
+ {
+  "name": "Denton Corker Marshall",
+  "buildings": 4,
+  "example": "Melbourne Museum"
+ },
+ {
+  "name": "Enric Miralles",
+  "buildings": 4,
+  "example": "Scottish Parliament Building"
+ },
+ {
+  "name": "Juan O'Gorman",
+  "buildings": 4,
+  "example": "Anahuacalli Museum"
+ },
+ {
+  "name": "Leandro Locsin",
+  "buildings": 4,
+  "example": "Church of the Holy Sacrifice"
+ },
+ {
+  "name": "Mario Pani",
+  "buildings": 4,
+  "example": "Centro Urbano Presidente Alemán"
+ },
+ {
+  "name": "Pietro Belluschi",
+  "buildings": 4,
+  "example": "Cathedral of Saint Mary of the Assumption"
+ },
+ {
+  "name": "Roy Grounds",
+  "buildings": 4,
+  "example": "Shine Dome"
+ },
+ {
+  "name": "Sauerbruch Hutton",
+  "buildings": 4,
+  "example": "Museum Brandhorst"
+ },
+ {
+  "name": "Schmidt Hammer Lassen",
+  "buildings": 4,
+  "example": "Black Diamond"
+ },
+ {
+  "name": "Aris Konstantinidis",
+  "buildings": 3,
+  "example": "Xenia Hotel, Mykonos"
+ },
+ {
+  "name": "Artur Tarkhanyan",
+  "buildings": 3,
+  "example": "Rossiya Cinema"
+ },
+ {
+  "name": "Basil Spence",
+  "buildings": 3,
+  "example": "Coventry Cathedral"
+ },
+ {
+  "name": "Berthold Lubetkin",
+  "buildings": 3,
+  "example": "Highpoint I"
+ },
+ {
+  "name": "Charles-Édouard Jeanneret",
+  "buildings": 3,
+  "example": "Villa Schwob (Villa Turque)"
+ },
+ {
+  "name": "Diller Scofidio",
+  "buildings": 3,
+  "example": "High Line"
+ },
+ {
+  "name": "Doriana Fuksas",
+  "buildings": 3,
+  "example": "La Nuvola (Roma Convention Center)"
+ },
+ {
+  "name": "Future Systems",
+  "buildings": 3,
+  "example": "Museo Enzo Ferrari"
+ },
+ {
+  "name": "Günther Domenig",
+  "buildings": 3,
+  "example": "Documentation Center Nazi Party Rally Grounds"
+ },
+ {
+  "name": "Hans Poelzig",
+  "buildings": 3,
+  "example": "IG Farben Building"
+ },
+ {
+  "name": "Helmut Jahn",
+  "buildings": 3,
+  "example": "Messeturm"
+ },
+ {
+  "name": "Henry N. Cobb",
+  "buildings": 3,
+  "example": "John Hancock Tower"
+ },
+ {
+  "name": "Hiroshi Hara",
+  "buildings": 3,
+  "example": "Kyoto Station Building"
+ },
+ {
+  "name": "Houshang Seyhoun",
+  "buildings": 3,
+  "example": "Omar Khayyam Mausoleum"
+ },
+ {
+  "name": "John Andrews",
+  "buildings": 3,
+  "example": "CN Tower"
+ },
+ {
+  "name": "Jorn Utzon",
+  "buildings": 3,
+  "example": "Kuwait National Assembly"
+ },
+ {
+  "name": "Josef Paul Kleihues",
+  "buildings": 3,
+  "example": "Hamburger Bahnhof"
+ },
+ {
+  "name": "Joseph Allen Stein",
+  "buildings": 3,
+  "example": "India Habitat Centre"
+ },
+ {
+  "name": "Kashef Mahboob Chowdhury",
+  "buildings": 3,
+  "example": "Friendship Centre"
+ },
+ {
+  "name": "Kazuo Shinohara",
+  "buildings": 3,
+  "example": "Centennial Hall, Tokyo Institute of Technology"
+ },
+ {
+  "name": "Kevin Roche John Dinkeloo",
+  "buildings": 3,
+  "example": "Knights of Columbus Building"
+ },
+ {
+  "name": "Nicholas Grimshaw",
+  "buildings": 3,
+  "example": "Eden Project"
+ },
+ {
+  "name": "O'Donnell",
+  "buildings": 3,
+  "example": "Saw Swee Hock Student Centre, LSE"
+ },
+ {
+  "name": "Pancho Guedes",
+  "buildings": 3,
+  "example": "Saipal Bakery"
+ },
+ {
+  "name": "Rogers Stirk Harbour",
+  "buildings": 3,
+  "example": "122 Leadenhall Street"
+ },
+ {
+  "name": "Sedad Hakkı Eldem",
+  "buildings": 3,
+  "example": "Hilton Istanbul"
+ },
+ {
+  "name": "Van den Broek en Bakema",
+  "buildings": 3,
+  "example": "Aula TU Delft"
+ },
+ {
+  "name": "Werner Düttmann",
+  "buildings": 3,
+  "example": "Brücke Museum"
+ },
+ {
+  "name": "Abdol Aziz Farmanfarmaian",
+  "buildings": 2,
+  "example": "Carpet Museum of Iran"
+ },
+ {
+  "name": "Adrian Smith",
+  "buildings": 2,
+  "example": "Al Wasl Plaza"
+ },
+ {
+  "name": "Aires Mateus",
+  "buildings": 2,
+  "example": "Centro de Artes de Sines"
+ },
+ {
+  "name": "Alejandro de la Sota",
+  "buildings": 2,
+  "example": "Gimnasio Maravillas"
+ },
+ {
+  "name": "Andra Matin",
+  "buildings": 2,
+  "example": "Potato Head Beach Club"
+ },
+ {
+  "name": "Avraham Miletsky",
+  "buildings": 2,
+  "example": "Salyut Hotel"
+ },
+ {
+  "name": "Bates Smart",
+  "buildings": 2,
+  "example": "Federation Square"
+ },
+ {
+  "name": "Bernard Zehrfuss",
+  "buildings": 2,
+  "example": "CNIT"
+ },
+ {
+  "name": "Bertram Goodhue",
+  "buildings": 2,
+  "example": "Nebraska State Capitol"
+ },
+ {
+  "name": "Bruce Goff",
+  "buildings": 2,
+  "example": "Pavilion for Japanese Art, LACMA"
+ },
+ {
+  "name": "Buro Happold",
+  "buildings": 2,
+  "example": "Tuwaiq Palace"
+ },
+ {
+  "name": "Caruso St John",
+  "buildings": 2,
+  "example": "Newport Street Gallery"
+ },
+ {
+  "name": "Cruz y Ortiz",
+  "buildings": 2,
+  "example": "Seville–Santa Justa Station"
+ },
+ {
+  "name": "Edward Larrabee Barnes",
+  "buildings": 2,
+  "example": "Dallas Museum of Art"
+ },
+ {
+  "name": "Erno Goldfinger",
+  "buildings": 2,
+  "example": "Balfron Tower"
+ },
+ {
+  "name": "Ernő Goldfinger",
+  "buildings": 2,
+  "example": "Trellick Tower"
+ },
+ {
+  "name": "Fender Katsalidis",
+  "buildings": 2,
+  "example": "Museum of Old and New Art"
+ },
+ {
+  "name": "Fernando Távora",
+  "buildings": 2,
+  "example": "Pousada de Santa Marinha"
+ },
+ {
+  "name": "Fritz Höger",
+  "buildings": 2,
+  "example": "Chilehaus"
+ },
+ {
+  "name": "Gilbert Stanley Underwood",
+  "buildings": 2,
+  "example": "Timberline Lodge"
+ },
+ {
+  "name": "Grachya Poghosyan",
+  "buildings": 2,
+  "example": "Rossiya Cinema"
+ },
+ {
+  "name": "Guðjón Samúelsson",
+  "buildings": 2,
+  "example": "Hallgrímskirkja"
+ },
+ {
+  "name": "Hassan Fathy",
+  "buildings": 2,
+  "example": "New Gourna Village"
+ },
+ {
+  "name": "Heneghan Peng",
+  "buildings": 2,
+  "example": "Palestinian Museum"
+ },
+ {
+  "name": "J. Mayer H.",
+  "buildings": 2,
+  "example": "Metropol Parasol"
+ },
+ {
+  "name": "John Lautner",
+  "buildings": 2,
+  "example": "Sheats-Goldstein Residence"
+ },
+ {
+  "name": "Juha Leiviskä",
+  "buildings": 2,
+  "example": "Männistö Church"
+ },
+ {
+  "name": "Junya Ishigami",
+  "buildings": 2,
+  "example": "KAIT Workshop"
+ },
+ {
+  "name": "KWK Promes",
+  "buildings": 2,
+  "example": "PLATO Contemporary Art Gallery"
+ },
+ {
+  "name": "Kamran Diba",
+  "buildings": 2,
+  "example": "Tehran Museum of Contemporary Art"
+ },
+ {
+  "name": "Karl Schwanzer",
+  "buildings": 2,
+  "example": "Belvedere 21"
+ },
+ {
+  "name": "Leonid Ukhobotov",
+  "buildings": 2,
+  "example": "Hotel Kazakhstan"
+ },
+ {
+  "name": "Liu Jiakun",
+  "buildings": 2,
+  "example": "Hu Huishan Memorial"
+ },
+ {
+  "name": "Mamoru Yamada",
+  "buildings": 2,
+  "example": "Nippon Budokan"
+ },
+ {
+  "name": "Manuel Valls",
+  "buildings": 2,
+  "example": "Trade Buildings"
+ },
+ {
+  "name": "Marcel Lods",
+  "buildings": 2,
+  "example": "École de plein air de Suresnes"
+ },
+ {
+  "name": "Mario Fiorentino",
+  "buildings": 2,
+  "example": "Mausoleo delle Fosse Ardeatine"
+ },
+ {
+  "name": "Mario Roberto Álvarez",
+  "buildings": 2,
+  "example": "Teatro General San Martín"
+ },
+ {
+  "name": "Maxime Brunfaut",
+  "buildings": 2,
+  "example": "Brussels-Central Station"
+ },
+ {
+  "name": "Nayyar Ali Dada",
+  "buildings": 2,
+  "example": "Alhamra Arts Council"
+ },
+ {
+  "name": "Oswald Mathias Ungers",
+  "buildings": 2,
+  "example": "Messe Torhaus"
+ },
+ {
+  "name": "Peddle Thorp",
+  "buildings": 2,
+  "example": "State Library of Queensland"
+ },
+ {
+  "name": "Pei Cobb Freed",
+  "buildings": 2,
+  "example": "Palazzo Lombardia"
+ },
+ {
+  "name": "Pierre Koenig",
+  "buildings": 2,
+  "example": "Case Study House #21 (Bailey House)"
+ },
+ {
+  "name": "Rafael Mijares",
+  "buildings": 2,
+  "example": "Museo de Arte Moderno"
+ },
+ {
+  "name": "Ralf Schüler",
+  "buildings": 2,
+  "example": "ICC Berlin"
+ },
+ {
+  "name": "Richard Rogers Partnership",
+  "buildings": 2,
+  "example": "Madrid-Barajas Airport Terminal 4"
+ },
+ {
+  "name": "Rino Levi",
+  "buildings": 2,
+  "example": "Santo André Civic Centre"
+ },
+ {
+  "name": "Robert Matthew",
+  "buildings": 2,
+  "example": "Royal Festival Hall"
+ },
+ {
+  "name": "Robin Gibson",
+  "buildings": 2,
+  "example": "Queensland Art Gallery"
+ },
+ {
+  "name": "Román Fresnedo Siri",
+  "buildings": 2,
+  "example": "Faculty of Architecture, University of the Republic"
+ },
+ {
+  "name": "Rudolf Schwarz",
+  "buildings": 2,
+  "example": "Corpus Christi Church, Aachen"
+ },
+ {
+  "name": "Samper y Cía.",
+  "buildings": 2,
+  "example": "Avianca Building"
+ },
+ {
+  "name": "Sep Ruf",
+  "buildings": 2,
+  "example": "St. Johann von Capistran"
+ },
+ {
+  "name": "Shiv Nath Prasad",
+  "buildings": 2,
+  "example": "Shri Ram Centre for Performing Arts"
+ },
+ {
+  "name": "Solano Benítez",
+  "buildings": 2,
+  "example": "Teletón Children's Rehabilitation Centre"
+ },
+ {
+  "name": "Spartak Khachikyan",
+  "buildings": 2,
+  "example": "Karen Demirchyan Sports and Concert Complex"
+ },
+ {
+  "name": "Stanton Williams",
+  "buildings": 2,
+  "example": "Sainsbury Laboratory"
+ },
+ {
+  "name": "Stephan Braunfels",
+  "buildings": 2,
+  "example": "Pinakothek der Moderne"
+ },
+ {
+  "name": "T. R. Hamzah",
+  "buildings": 2,
+  "example": "National Library Building"
+ },
+ {
+  "name": "Takamasa Yoshizaka",
+  "buildings": 2,
+  "example": "Inter-University Seminar House"
+ },
+ {
+  "name": "Takis Zenetos",
+  "buildings": 2,
+  "example": "Fix Brewery (National Museum of Contemporary Art)"
+ },
+ {
+  "name": "Todd Saunders",
+  "buildings": 2,
+  "example": "Fogo Island Inn"
+ },
+ {
+  "name": "Ursulina Schüler-Witte",
+  "buildings": 2,
+  "example": "ICC Berlin"
+ },
+ {
+  "name": "Vladimír Machonin",
+  "buildings": 2,
+  "example": "Hotel Thermal"
+ },
+ {
+  "name": "Walter Netsch",
+  "buildings": 2,
+  "example": "Cadet Chapel, US Air Force Academy"
+ },
+ {
+  "name": "Wandel Hoefer Lorch",
+  "buildings": 2,
+  "example": "New Synagogue Dresden"
+ },
+ {
+  "name": "Welton Becket",
+  "buildings": 2,
+  "example": "Capitol Records Building"
+ },
+ {
+  "name": "Witherford Watson Mann",
+  "buildings": 2,
+  "example": "Astley Castle"
+ },
+ {
+  "name": "Yang Cho-cheng",
+  "buildings": 2,
+  "example": "Chiang Kai-shek Memorial Hall"
+ },
+ {
+  "name": "Yoshinobu Ashihara",
+  "buildings": 2,
+  "example": "National Museum of Japanese History"
+ },
+ {
+  "name": "Zhang Bo",
+  "buildings": 2,
+  "example": "Great Hall of the People"
+ },
+ {
+  "name": "5th Dalai Lama",
+  "buildings": 1,
+  "example": "Potala Palace"
+ },
+ {
+  "name": "AXS Satow",
+  "buildings": 1,
+  "example": "Tokyo Big Sight"
+ },
+ {
+  "name": "Abdulhusein M. Thariani",
+  "buildings": 1,
+  "example": "Baitul Mukarram"
+ },
+ {
+  "name": "Abtai Sain Khan",
+  "buildings": 1,
+  "example": "Erdene Zuu Monastery"
+ },
+ {
+  "name": "Abu Ishaq es-Sahili",
+  "buildings": 1,
+  "example": "Djinguereber Mosque"
+ },
+ {
+  "name": "Achille Dangleterre",
+  "buildings": 1,
+  "example": "Notre-Dame-de-Lourdes, Casablanca"
+ },
+ {
+  "name": "Ada Rybachuk",
+  "buildings": 1,
+  "example": "Kyiv Crematorium (Park of Memory)"
+ },
+ {
+  "name": "Adhemar Marinho",
+  "buildings": 1,
+  "example": "Edifício Esther"
+ },
+ {
+  "name": "Adolf Abel",
+  "buildings": 1,
+  "example": "Liederhalle"
+ },
+ {
+  "name": "Adolf Leonard van Gendt",
+  "buildings": 1,
+  "example": "Concertgebouw"
+ },
+ {
+  "name": "Adolf Meyer",
+  "buildings": 1,
+  "example": "Fagus Factory"
+ },
+ {
+  "name": "Aimaro Isola",
+  "buildings": 1,
+  "example": "Talponia (Unità residenziale Ovest)"
+ },
+ {
+  "name": "Akira Kuryu",
+  "buildings": 1,
+  "example": "Nagasaki National Peace Memorial Hall"
+ },
+ {
+  "name": "Akitek Jururancang",
+  "buildings": 1,
+  "example": "The Datai Langkawi"
+ },
+ {
+  "name": "Akmurza Rustembekov",
+  "buildings": 1,
+  "example": "Bayterek Tower"
+ },
+ {
+  "name": "Alan Fitch",
+  "buildings": 1,
+  "example": "Hong Kong City Hall"
+ },
+ {
+  "name": "Alar Kotli",
+  "buildings": 1,
+  "example": "Tallinn Song Festival Stage"
+ },
+ {
+  "name": "Albert Frey",
+  "buildings": 1,
+  "example": "Frey House II"
+ },
+ {
+  "name": "Albert Kahn",
+  "buildings": 1,
+  "example": "Fisher Building"
+ },
+ {
+  "name": "Alberto Cruz",
+  "buildings": 1,
+  "example": "Ciudad Abierta"
+ },
+ {
+  "name": "Alberto Pessoa",
+  "buildings": 1,
+  "example": "Calouste Gulbenkian Museum"
+ },
+ {
+  "name": "Alcino Soutinho",
+  "buildings": 1,
+  "example": "Matosinhos Town Hall"
+ },
+ {
+  "name": "Aldo Cardelli",
+  "buildings": 1,
+  "example": "Mausoleo delle Fosse Ardeatine"
+ },
+ {
+  "name": "Aldo Spirito",
+  "buildings": 1,
+  "example": "St. Paul's Cathedral, Abidjan"
+ },
+ {
+  "name": "Alex Cvijanovic",
+  "buildings": 1,
+  "example": "Bauhaus-Archiv"
+ },
+ {
+  "name": "Alexander Popp",
+  "buildings": 1,
+  "example": "Tabakfabrik Linz"
+ },
+ {
+  "name": "Alexandre Chan",
+  "buildings": 1,
+  "example": "Juscelino Kubitschek Bridge"
+ },
+ {
+  "name": "Alexandros Tombazis",
+  "buildings": 1,
+  "example": "Basilica of the Holy Trinity"
+ },
+ {
+  "name": "Alfons Linster",
+  "buildings": 1,
+  "example": "Kranhäuser (Crane Houses)"
+ },
+ {
+  "name": "Ali Sardar Afkhami",
+  "buildings": 1,
+  "example": "City Theater of Tehran"
+ },
+ {
+  "name": "Allmann Sattler Wappner",
+  "buildings": 1,
+  "example": "Herz-Jesu-Kirche"
+ },
+ {
+  "name": "Altuğ Çinici",
+  "buildings": 1,
+  "example": "METU Faculty of Architecture"
+ },
+ {
+  "name": "Andrade Morettin Arquitetos",
+  "buildings": 1,
+  "example": "Instituto Moreira Salles Paulista"
+ },
+ {
+  "name": "Andre Dunoyer de Segonzac",
+  "buildings": 1,
+  "example": "Basilica of Our Lady of Altagracia"
+ },
+ {
+  "name": "Andre Polak",
+  "buildings": 1,
+  "example": "Atomium"
+ },
+ {
+  "name": "Andrea Morgante",
+  "buildings": 1,
+  "example": "Museo Enzo Ferrari"
+ },
+ {
+  "name": "André Bloc",
+  "buildings": 1,
+  "example": "Fondation Avicenne (Maison de l'Iran)"
+ },
+ {
+  "name": "André Godard",
+  "buildings": 1,
+  "example": "Tomb of Hafez"
+ },
+ {
+  "name": "Annibale Vitellozzi",
+  "buildings": 1,
+  "example": "Palazzetto dello Sport"
+ },
+ {
+  "name": "Antoni Bonet i Castellana",
+  "buildings": 1,
+  "example": "La Ricarda (Casa Gomis)"
+ },
+ {
+  "name": "Antoni Hajdecki",
+  "buildings": 1,
+  "example": "Bunkier Sztuki"
+ },
+ {
+  "name": "Antonin Raymond",
+  "buildings": 1,
+  "example": "Golconde"
+ },
+ {
+  "name": "Antonio Nervi",
+  "buildings": 1,
+  "example": "Stadio Flaminio"
+ },
+ {
+  "name": "Antonio Torres Torija",
+  "buildings": 1,
+  "example": "Lecumberri Palace"
+ },
+ {
+  "name": "Antti-Matti Siikala",
+  "buildings": 1,
+  "example": "Sanomatalo"
+ },
+ {
+  "name": "Araldo Cossutta",
+  "buildings": 1,
+  "example": "Christian Science Plaza"
+ },
+ {
+  "name": "Archea Associati",
+  "buildings": 1,
+  "example": "Antinori nel Chianti Classico Winery"
+ },
+ {
+  "name": "Arif Masoud",
+  "buildings": 1,
+  "example": "Pakistan Monument"
+ },
+ {
+  "name": "Armand Bartos",
+  "buildings": 1,
+  "example": "Shrine of the Book"
+ },
+ {
+  "name": "Arpád Tesár",
+  "buildings": 1,
+  "example": "Most SNP (UFO Bridge)"
+ },
+ {
+  "name": "Arroyo y Menéndez",
+  "buildings": 1,
+  "example": "Hotel Habana Libre (former Habana Hilton)"
+ },
+ {
+  "name": "Arthur Tarkhanyan",
+  "buildings": 1,
+  "example": "Armenian Genocide Memorial"
+ },
+ {
+  "name": "Augusto H. Álvarez",
+  "buildings": 1,
+  "example": "Torre Latinoamericana"
+ },
+ {
+  "name": "Augusto Pérez Palacios",
+  "buildings": 1,
+  "example": "Estadio Olímpico Universitario"
+ },
+ {
+  "name": "Austen Harrison",
+  "buildings": 1,
+  "example": "Rockefeller Museum"
+ },
+ {
+  "name": "BBGK Architekci",
+  "buildings": 1,
+  "example": "Katyń Museum"
+ },
+ {
+  "name": "Babar Hameed Chauhan",
+  "buildings": 1,
+  "example": "Masjid-e-Tooba"
+ },
+ {
+  "name": "Baharuddin Abu Kassim",
+  "buildings": 1,
+  "example": "Masjid Negara"
+ },
+ {
+  "name": "Barkow Leibinger",
+  "buildings": 1,
+  "example": "Tour Total (Jean-Monnet-Tower)"
+ },
+ {
+  "name": "Barozzi Veiga",
+  "buildings": 1,
+  "example": "Szczecin Philharmonic"
+ },
+ {
+  "name": "Barry Gasson",
+  "buildings": 1,
+  "example": "Burrell Collection"
+ },
+ {
+  "name": "Bart Prince",
+  "buildings": 1,
+  "example": "Pavilion for Japanese Art, LACMA"
+ },
+ {
+  "name": "Bashir Yellès",
+  "buildings": 1,
+  "example": "Maqam Echahid"
+ },
+ {
+  "name": "Baumschlager Eberle",
+  "buildings": 1,
+  "example": "2226 Office Building"
+ },
+ {
+  "name": "Bea Betz",
+  "buildings": 1,
+  "example": "Hypo-Haus"
+ },
+ {
+  "name": "Beda Amuli",
+  "buildings": 1,
+  "example": "Kariakoo Market"
+ },
+ {
+  "name": "Behruz Çinici",
+  "buildings": 1,
+  "example": "METU Faculty of Architecture"
+ },
+ {
+  "name": "Berg Arkitektkontor",
+  "buildings": 1,
+  "example": "Avicii Arena (Globen)"
+ },
+ {
+  "name": "Bernardo Bader",
+  "buildings": 1,
+  "example": "Islamic Cemetery Altach"
+ },
+ {
+  "name": "Bernhard Sehring",
+  "buildings": 1,
+  "example": "Staatstheater Cottbus"
+ },
+ {
+  "name": "Bertrand Goldberg",
+  "buildings": 1,
+  "example": "Marina City"
+ },
+ {
+  "name": "Billard Leece Partnership",
+  "buildings": 1,
+  "example": "Royal Children's Hospital"
+ },
+ {
+  "name": "Bimal Hasmukh Patel",
+  "buildings": 1,
+  "example": "Entrepreneurship Development Institute of India"
+ },
+ {
+  "name": "Biro 71",
+  "buildings": 1,
+  "example": "Macedonian Opera and Ballet"
+ },
+ {
+  "name": "Black Engineering",
+  "buildings": 1,
+  "example": "Maraya"
+ },
+ {
+  "name": "Blanca Lleó",
+  "buildings": 1,
+  "example": "Mirador"
+ },
+ {
+  "name": "Bogdan Bogdanović",
+  "buildings": 1,
+  "example": "Partisan Memorial Cemetery"
+ },
+ {
+  "name": "Boris Artyushin",
+  "buildings": 1,
+  "example": "Central Research Institute of Robotics and Technical Cybernetics"
+ },
+ {
+  "name": "Branimir Ganović",
+  "buildings": 1,
+  "example": "Findeco House"
+ },
+ {
+  "name": "Branko Zezelj",
+  "buildings": 1,
+  "example": "Belgrade Fair Hall 1"
+ },
+ {
+  "name": "Brasil Arquitetura",
+  "buildings": 1,
+  "example": "Praça das Artes"
+ },
+ {
+  "name": "Brian Lewis",
+  "buildings": 1,
+  "example": "University House, Australian National University"
+ },
+ {
+  "name": "Brit Andresen",
+  "buildings": 1,
+  "example": "Burrell Collection"
+ },
+ {
+  "name": "Bruce Graham",
+  "buildings": 1,
+  "example": "John Hancock Center"
+ },
+ {
+  "name": "Bruno Morassutti",
+  "buildings": 1,
+  "example": "Mater Misericordiae Church"
+ },
+ {
+  "name": "Buckminster Fuller",
+  "buildings": 1,
+  "example": "Montreal Biosphère"
+ },
+ {
+  "name": "C. F. Murphy",
+  "buildings": 1,
+  "example": "J. Edgar Hoover Building"
+ },
+ {
+  "name": "Cai Xianyu",
+  "buildings": 1,
+  "example": "Shanghai Exhibition Centre"
+ },
+ {
+  "name": "Cameron Chisholm Nicol",
+  "buildings": 1,
+  "example": "National Carillon"
+ },
+ {
+  "name": "Carl von Hasenauer",
+  "buildings": 1,
+  "example": "Natural History Museum, Vienna"
+ },
+ {
+  "name": "Carlfried Mutschler",
+  "buildings": 1,
+  "example": "Multihalle Mannheim"
+ },
+ {
+  "name": "Carlo Aymonino",
+  "buildings": 1,
+  "example": "Monte Amiata Housing (Gallaratese)"
+ },
+ {
+  "name": "Carlo Mollino",
+  "buildings": 1,
+  "example": "Teatro Regio"
+ },
+ {
+  "name": "Carlo Ratti Associati",
+  "buildings": 1,
+  "example": "CapitaSpring"
+ },
+ {
+  "name": "Carlo Tami",
+  "buildings": 1,
+  "example": "Biblioteca cantonale, Lugano"
+ },
+ {
+  "name": "Carlos Arniches",
+  "buildings": 1,
+  "example": "Zarzuela Hippodrome"
+ },
+ {
+  "name": "Carlos Cascaldi",
+  "buildings": 1,
+  "example": "Edifício Louveira"
+ },
+ {
+  "name": "Carlos Zapata",
+  "buildings": 1,
+  "example": "Bitexco Financial Tower"
+ },
+ {
+  "name": "Cassiano Branco",
+  "buildings": 1,
+  "example": "Coliseu do Porto"
+ },
+ {
+  "name": "Cathy Hawley",
+  "buildings": 1,
+  "example": "Goldsmith Street"
+ },
+ {
+  "name": "Cecil Balmond",
+  "buildings": 1,
+  "example": "ArcelorMittal Orbit"
+ },
+ {
+  "name": "Charles Evans Hughes III",
+  "buildings": 1,
+  "example": "Manufacturers Trust Company Building"
+ },
+ {
+  "name": "Charlotte Frank",
+  "buildings": 1,
+  "example": "Federal Chancellery"
+ },
+ {
+  "name": "Chen Chi-kwan",
+  "buildings": 1,
+  "example": "Luce Memorial Chapel"
+ },
+ {
+  "name": "Chen Deng'ao",
+  "buildings": 1,
+  "example": "Beijing Railway Station"
+ },
+ {
+  "name": "Chen Zhi",
+  "buildings": 1,
+  "example": "Shanghai Exhibition Centre"
+ },
+ {
+  "name": "Cheng Taining",
+  "buildings": 1,
+  "example": "National Theatre of Ghana"
+ },
+ {
+  "name": "Choi Moon-gyu",
+  "buildings": 1,
+  "example": "Ssamziegil"
+ },
+ {
+  "name": "Choi Ropiha",
+  "buildings": 1,
+  "example": "TKTS Booth, Father Duffy Square"
+ },
+ {
+  "name": "Christophe Hutin",
+  "buildings": 1,
+  "example": "Grand Parc Bordeaux Transformation"
+ },
+ {
+  "name": "Cino Calcaprina",
+  "buildings": 1,
+  "example": "Mausoleo delle Fosse Ardeatine"
+ },
+ {
+  "name": "Cipriano Domínguez",
+  "buildings": 1,
+  "example": "Centro Simón Bolívar (El Silencio Towers)"
+ },
+ {
+  "name": "Claude Bucher",
+  "buildings": 1,
+  "example": "European Court of Human Rights Building"
+ },
+ {
+  "name": "Claude Parent",
+  "buildings": 1,
+  "example": "Fondation Avicenne (Maison de l'Iran)"
+ },
+ {
+  "name": "Colin Fournier",
+  "buildings": 1,
+  "example": "Kunsthaus Graz"
+ },
+ {
+  "name": "Colin Madigan",
+  "buildings": 1,
+  "example": "National Gallery of Australia"
+ },
+ {
+  "name": "Conrad Gargett Lyons",
+  "buildings": 1,
+  "example": "Queensland Children's Hospital (former Lady Cilento Children's Hospital)"
+ },
+ {
+  "name": "Constantinos Doxiadis",
+  "buildings": 1,
+  "example": "Teacher-Student Centre, University of Dhaka"
+ },
+ {
+  "name": "Coosje van Bruggen",
+  "buildings": 1,
+  "example": "Binoculars Building"
+ },
+ {
+  "name": "Craig Craig Moller",
+  "buildings": 1,
+  "example": "Sky Tower"
+ },
+ {
+  "name": "Craig W. Hartman",
+  "buildings": 1,
+  "example": "Cathedral of Christ the Light"
+ },
+ {
+  "name": "Cristian Fernandez Eyzaguirre",
+  "buildings": 1,
+  "example": "Centro Cultural Gabriela Mistral"
+ },
+ {
+  "name": "Cristián Undurraga",
+  "buildings": 1,
+  "example": "Capilla del Retiro"
+ },
+ {
+  "name": "Cukrowicz Nachbaur",
+  "buildings": 1,
+  "example": "Frauenmuseum Hittisau"
+ },
+ {
+  "name": "D. Erdenebileg",
+  "buildings": 1,
+  "example": "Chinggis Khaan Statue Complex"
+ },
+ {
+  "name": "Dan Hanganu",
+  "buildings": 1,
+  "example": "Pointe-à-Callière Museum"
+ },
+ {
+  "name": "Daniel Arana Ríos",
+  "buildings": 1,
+  "example": "Petroperú Building"
+ },
+ {
+  "name": "Daniel Dunham",
+  "buildings": 1,
+  "example": "Kamalapur railway station"
+ },
+ {
+  "name": "Daniel Fernández-Shaw",
+  "buildings": 1,
+  "example": "Parque Central Complex"
+ },
+ {
+  "name": "Daniel Gogel",
+  "buildings": 1,
+  "example": "Institute of Hygiene and Microbiology"
+ },
+ {
+  "name": "Dar Al-Handasah",
+  "buildings": 1,
+  "example": "Al Bayt Stadium"
+ },
+ {
+  "name": "David Libeskind",
+  "buildings": 1,
+  "example": "Conjunto Nacional"
+ },
+ {
+  "name": "Davis Partnership",
+  "buildings": 1,
+  "example": "Frederic C. Hamilton Building, Denver Art Museum"
+ },
+ {
+  "name": "De Vylder Vinck Taillieu",
+  "buildings": 1,
+  "example": "BUS:STOP Krumbach"
+ },
+ {
+  "name": "Demas Nwoko",
+  "buildings": 1,
+  "example": "Dominican Chapel, Ibadan"
+ },
+ {
+  "name": "Diego Rivera",
+  "buildings": 1,
+  "example": "Anahuacalli Museum"
+ },
+ {
+  "name": "Dieter Mathoi",
+  "buildings": 1,
+  "example": "Kaufhaus Tyrol"
+ },
+ {
+  "name": "Dietrich Kunckel",
+  "buildings": 1,
+  "example": "Teresa Carreño Cultural Complex"
+ },
+ {
+  "name": "Dimitris Pikionis",
+  "buildings": 1,
+  "example": "Acropolis and Philopappou Hill Paths"
+ },
+ {
+  "name": "Dirk Bornhorst",
+  "buildings": 1,
+  "example": "El Helicoide"
+ },
+ {
+  "name": "Dolores Palacios",
+  "buildings": 1,
+  "example": "Euskalduna Conference Centre and Concert Hall"
+ },
+ {
+  "name": "Don Arthur",
+  "buildings": 1,
+  "example": "Kwame Nkrumah Mausoleum"
+ },
+ {
+  "name": "Donald Crone",
+  "buildings": 1,
+  "example": "Sydney Tower (Centrepoint Tower)"
+ },
+ {
+  "name": "Donald Deskey",
+  "buildings": 1,
+  "example": "Radio City Music Hall"
+ },
+ {
+  "name": "Donald Olsen",
+  "buildings": 1,
+  "example": "Wurster Hall"
+ },
+ {
+  "name": "Donovan Hill",
+  "buildings": 1,
+  "example": "State Library of Queensland"
+ },
+ {
+  "name": "Dorell Ghotmeh Tane",
+  "buildings": 1,
+  "example": "Estonian National Museum"
+ },
+ {
+  "name": "Duncan Lewis",
+  "buildings": 1,
+  "example": "Lascaux IV"
+ },
+ {
+  "name": "Dušan Milenković",
+  "buildings": 1,
+  "example": "Findeco House"
+ },
+ {
+  "name": "E. Fay Jones",
+  "buildings": 1,
+  "example": "Thorncrown Chapel"
+ },
+ {
+  "name": "Edgar Wisniewski",
+  "buildings": 1,
+  "example": "Berlin Musical Instrument Museum"
+ },
+ {
+  "name": "Edgar de Oliveira da Fonseca",
+  "buildings": 1,
+  "example": "Metropolitan Cathedral of Rio de Janeiro"
+ },
+ {
+  "name": "Edson Elito",
+  "buildings": 1,
+  "example": "Teatro Oficina"
+ },
+ {
+  "name": "Eduardas Chlomauskas",
+  "buildings": 1,
+  "example": "Vilnius Palace of Concerts and Sports"
+ },
+ {
+  "name": "Edwards Madigan Torzillo Briggs",
+  "buildings": 1,
+  "example": "High Court of Australia"
+ },
+ {
+  "name": "Efraín Recinos",
+  "buildings": 1,
+  "example": "Miguel Ángel Asturias National Theatre"
+ },
+ {
+  "name": "Eike Roswag",
+  "buildings": 1,
+  "example": "METI School"
+ },
+ {
+  "name": "El Hadji Falké Barmou",
+  "buildings": 1,
+  "example": "Yaama Mosque"
+ },
+ {
+  "name": "El-Ghazali Kosseiba",
+  "buildings": 1,
+  "example": "National Museum of Egyptian Civilization"
+ },
+ {
+  "name": "Ellerbe Becket",
+  "buildings": 1,
+  "example": "Kingdom Centre"
+ },
+ {
+  "name": "Elsa Guerra",
+  "buildings": 1,
+  "example": "Woermann Tower"
+ },
+ {
+  "name": "Emilio Duhart",
+  "buildings": 1,
+  "example": "ECLAC Building"
+ },
+ {
+  "name": "Emin Onat",
+  "buildings": 1,
+  "example": "Anitkabir"
+ },
+ {
+  "name": "Emmanouil Vourekas",
+  "buildings": 1,
+  "example": "Hilton Athens"
+ },
+ {
+  "name": "Enric Ruiz-Geli",
+  "buildings": 1,
+  "example": "Media-TIC"
+ },
+ {
+  "name": "Enrique Jan",
+  "buildings": 1,
+  "example": "Galileo Galilei Planetarium"
+ },
+ {
+  "name": "Enrique Luis Varela",
+  "buildings": 1,
+  "example": "José Martí Memorial"
+ },
+ {
+  "name": "Eric Vo Toan",
+  "buildings": 1,
+  "example": "Mausoleum of Mohammed V"
+ },
+ {
+  "name": "Erik Moller",
+  "buildings": 1,
+  "example": "Aarhus City Hall"
+ },
+ {
+  "name": "Ernest Grunsfeld Jr.",
+  "buildings": 1,
+  "example": "Adler Planetarium"
+ },
+ {
+  "name": "Ernesto Bruno La Padula",
+  "buildings": 1,
+  "example": "Palazzo della Civiltà Italiana"
+ },
+ {
+  "name": "Ernesto Gómez Sampera",
+  "buildings": 1,
+  "example": "FOCSA Building"
+ },
+ {
+  "name": "Ernst Otto Osswald",
+  "buildings": 1,
+  "example": "Tagblatt-Turm"
+ },
+ {
+  "name": "Ertur Yener",
+  "buildings": 1,
+  "example": "Turkish Historical Society"
+ },
+ {
+  "name": "Esteban Rodríguez-Castells",
+  "buildings": 1,
+  "example": "Bacardi Building"
+ },
+ {
+  "name": "Esteve Bonell",
+  "buildings": 1,
+  "example": "Palau Municipal d'Esports de Badalona"
+ },
+ {
+  "name": "Estudio Lamela",
+  "buildings": 1,
+  "example": "Madrid-Barajas Airport Terminal 4"
+ },
+ {
+  "name": "Etienne Gaboury",
+  "buildings": 1,
+  "example": "Saint Boniface Cathedral"
+ },
+ {
+  "name": "Eun Young Yi",
+  "buildings": 1,
+  "example": "Stuttgart City Library (Stadtbibliothek am Mailänder Platz)"
+ },
+ {
+  "name": "Ewen Wainscott",
+  "buildings": 1,
+  "example": "Aotea Centre"
+ },
+ {
+  "name": "Fabrizio Carola",
+  "buildings": 1,
+  "example": "Kaédi Regional Hospital"
+ },
+ {
+  "name": "Fazlur Rahman Khan",
+  "buildings": 1,
+  "example": "Hajj Terminal, King Abdulaziz International Airport"
+ },
+ {
+  "name": "Federico Ilustre",
+  "buildings": 1,
+  "example": "Quezon Memorial Shrine"
+ },
+ {
+  "name": "Federico Mariscal",
+  "buildings": 1,
+  "example": "Palacio de Bellas Artes"
+ },
+ {
+  "name": "Federico Soriano",
+  "buildings": 1,
+  "example": "Euskalduna Conference Centre and Concert Hall"
+ },
+ {
+  "name": "Feilden Clegg Bradley Studios",
+  "buildings": 1,
+  "example": "Accordia"
+ },
+ {
+  "name": "Fernand Pouillon",
+  "buildings": 1,
+  "example": "Diar es Saâda"
+ },
+ {
+  "name": "Fort Architekci",
+  "buildings": 1,
+  "example": "European Solidarity Centre"
+ },
+ {
+  "name": "Francesc Rius",
+  "buildings": 1,
+  "example": "Palau Municipal d'Esports de Badalona"
+ },
+ {
+  "name": "Francesca Torzo",
+  "buildings": 1,
+  "example": "Z33 House for Contemporary Art, Design and Architecture"
+ },
+ {
+  "name": "Francisco Castro",
+  "buildings": 1,
+  "example": "Beira railway station"
+ },
+ {
+  "name": "Francisco J. Serrano",
+  "buildings": 1,
+  "example": "Edificio Basurto"
+ },
+ {
+  "name": "Francisco de Asís Cabrero",
+  "buildings": 1,
+  "example": "Casa Sindical"
+ },
+ {
+  "name": "Franco Stella",
+  "buildings": 1,
+  "example": "Humboldt Forum"
+ },
+ {
+  "name": "Franz Hillinger",
+  "buildings": 1,
+  "example": "Wohnstadt Carl Legien"
+ },
+ {
+  "name": "Franz Janz",
+  "buildings": 1,
+  "example": "Azerbaijan Carpet Museum"
+ },
+ {
+  "name": "François de Cuvilliés",
+  "buildings": 1,
+  "example": "Cuvilliés Theatre"
+ },
+ {
+  "name": "Fred Lebensold",
+  "buildings": 1,
+  "example": "National Arts Centre"
+ },
+ {
+  "name": "Frederich Silaban",
+  "buildings": 1,
+  "example": "National Monument (Indonesia)"
+ },
+ {
+  "name": "Fritz Bornemann",
+  "buildings": 1,
+  "example": "Deutsche Oper Berlin"
+ },
+ {
+  "name": "Fritz Dieter",
+  "buildings": 1,
+  "example": "Fernsehturm Berlin"
+ },
+ {
+  "name": "Fritz Gerhard Mayr",
+  "buildings": 1,
+  "example": "Wotruba Church"
+ },
+ {
+  "name": "Fritz Leonhardt",
+  "buildings": 1,
+  "example": "Stuttgart TV Tower"
+ },
+ {
+  "name": "Fritz Wotruba",
+  "buildings": 1,
+  "example": "Wotruba Church"
+ },
+ {
+  "name": "Frédéric Druot",
+  "buildings": 1,
+  "example": "Grand Parc Bordeaux Transformation"
+ },
+ {
+  "name": "G. Cappa",
+  "buildings": 1,
+  "example": "Independence House"
+ },
+ {
+  "name": "Gabriel Guarda",
+  "buildings": 1,
+  "example": "Benedictine Monastery Chapel"
+ },
+ {
+  "name": "Garol Isakovich",
+  "buildings": 1,
+  "example": "Ho Chi Minh Mausoleum"
+ },
+ {
+  "name": "Gaston Zimmer",
+  "buildings": 1,
+  "example": "Notre-Dame-de-Lourdes, Casablanca"
+ },
+ {
+  "name": "Gehrdt Bornebusch",
+  "buildings": 1,
+  "example": "Herlev Hospital"
+ },
+ {
+  "name": "Georg Heinrichs",
+  "buildings": 1,
+  "example": "Schlangenbader Straße Housing (Die Schlange)"
+ },
+ {
+  "name": "George Chakhava",
+  "buildings": 1,
+  "example": "Bank of Georgia headquarters"
+ },
+ {
+  "name": "George Howe",
+  "buildings": 1,
+  "example": "PSFS Building"
+ },
+ {
+  "name": "Georges Candilis",
+  "buildings": 1,
+  "example": "Nid d'Abeille, Carrières Centrales"
+ },
+ {
+  "name": "Georges-Jacques Haefeli",
+  "buildings": 1,
+  "example": "International Museum of Horology"
+ },
+ {
+  "name": "Georgi Stoilov",
+  "buildings": 1,
+  "example": "Buzludzha Monument"
+ },
+ {
+  "name": "Gerard Moerdijk",
+  "buildings": 1,
+  "example": "Voortrekker Monument"
+ },
+ {
+  "name": "Gerard de Preu",
+  "buildings": 1,
+  "example": "Rialto Towers"
+ },
+ {
+  "name": "Germán del Sol",
+  "buildings": 1,
+  "example": "Termas Geométricas"
+ },
+ {
+  "name": "Giancarlo Mazzanti",
+  "buildings": 1,
+  "example": "Parque Biblioteca España"
+ },
+ {
+  "name": "Gianni Braghieri",
+  "buildings": 1,
+  "example": "San Cataldo Cemetery"
+ },
+ {
+  "name": "Giovanni Battista Cairati",
+  "buildings": 1,
+  "example": "Fort Jesus"
+ },
+ {
+  "name": "Giuseppe Perugini",
+  "buildings": 1,
+  "example": "Mausoleo delle Fosse Ardeatine"
+ },
+ {
+  "name": "Giuseppe Pettazzi",
+  "buildings": 1,
+  "example": "Fiat Tagliero Building"
+ },
+ {
+  "name": "Giò Forma",
+  "buildings": 1,
+  "example": "Maraya"
+ },
+ {
+  "name": "Godofredo Iommi",
+  "buildings": 1,
+  "example": "Ciudad Abierta"
+ },
+ {
+  "name": "Gordon Gill",
+  "buildings": 1,
+  "example": "Nur Alem"
+ },
+ {
+  "name": "Gordon Wilson",
+  "buildings": 1,
+  "example": "Dixon Street Flats"
+ },
+ {
+  "name": "Grigory Barkhin",
+  "buildings": 1,
+  "example": "Izvestia Building"
+ },
+ {
+  "name": "Guillaume Gillet",
+  "buildings": 1,
+  "example": "Notre-Dame de Royan"
+ },
+ {
+  "name": "Guillermo Rosell",
+  "buildings": 1,
+  "example": "Open Chapel of Lomas de Cuernavaca (Palmira Chapel)"
+ },
+ {
+  "name": "Gurgen Musheghyan",
+  "buildings": 1,
+  "example": "Karen Demirchyan Sports and Concert Complex"
+ },
+ {
+  "name": "Gustavo Saavedra",
+  "buildings": 1,
+  "example": "Central Library (UNAM)"
+ },
+ {
+  "name": "Götz Hagmüller",
+  "buildings": 1,
+  "example": "Patan Museum"
+ },
+ {
+  "name": "Günter Behnisch",
+  "buildings": 1,
+  "example": "Academy of Arts, Pariser Platz"
+ },
+ {
+  "name": "Günter Franke",
+  "buildings": 1,
+  "example": "Fernsehturm Berlin"
+ },
+ {
+  "name": "H. H. Richardson",
+  "buildings": 1,
+  "example": "New York State Capitol"
+ },
+ {
+  "name": "HOK Sport",
+  "buildings": 1,
+  "example": "State Farm Stadium"
+ },
+ {
+  "name": "Hadi Simaan",
+  "buildings": 1,
+  "example": "Aspire Tower (The Torch Doha)"
+ },
+ {
+  "name": "Han Tümertekin",
+  "buildings": 1,
+  "example": "SALT Galata"
+ },
+ {
+  "name": "Hannie van Eyck",
+  "buildings": 1,
+  "example": "Tripolis"
+ },
+ {
+  "name": "Hannu Tikka",
+  "buildings": 1,
+  "example": "Sibelius Hall"
+ },
+ {
+  "name": "Hans Kollhoff",
+  "buildings": 1,
+  "example": "Kollhoff Tower"
+ },
+ {
+  "name": "Hans Schädel",
+  "buildings": 1,
+  "example": "Maria Regina Martyrum"
+ },
+ {
+  "name": "Hans-Erich Bogatzky",
+  "buildings": 1,
+  "example": "State Council Building"
+ },
+ {
+  "name": "Harry Glück",
+  "buildings": 1,
+  "example": "Wohnpark Alt-Erlaa"
+ },
+ {
+  "name": "Harry Weese",
+  "buildings": 1,
+  "example": "Washington Metro stations"
+ },
+ {
+  "name": "Hartvig Rasmussen",
+  "buildings": 1,
+  "example": "Bahrain National Museum"
+ },
+ {
+  "name": "Hascher Jehle Architektur",
+  "buildings": 1,
+  "example": "Kunstmuseum Stuttgart"
+ },
+ {
+  "name": "Haworth Tompkins",
+  "buildings": 1,
+  "example": "Everyman Theatre"
+ },
+ {
+  "name": "Hazel Wong",
+  "buildings": 1,
+  "example": "Emirates Towers"
+ },
+ {
+  "name": "Heimo Riihimäki",
+  "buildings": 1,
+  "example": "Lasipalatsi"
+ },
+ {
+  "name": "Heinrich Straumer",
+  "buildings": 1,
+  "example": "Funkturm Berlin"
+ },
+ {
+  "name": "Heinz Tesar",
+  "buildings": 1,
+  "example": "Donau City Church"
+ },
+ {
+  "name": "Henno Sepmann",
+  "buildings": 1,
+  "example": "Tallinn Song Festival Stage"
+ },
+ {
+  "name": "Henri Rapin",
+  "buildings": 1,
+  "example": "Tokyo Metropolitan Teien Art Museum"
+ },
+ {
+  "name": "Henry Bernard",
+  "buildings": 1,
+  "example": "Maison de la Radio"
+ },
+ {
+  "name": "Henry Y. D. Scott",
+  "buildings": 1,
+  "example": "Royal Albert Hall"
+ },
+ {
+  "name": "Hermann Fehling",
+  "buildings": 1,
+  "example": "Institute of Hygiene and Microbiology"
+ },
+ {
+  "name": "Hermann Kaufmann",
+  "buildings": 1,
+  "example": "LifeCycle Tower One (LCT ONE)"
+ },
+ {
+  "name": "Hijjas Kasturi",
+  "buildings": 1,
+  "example": "Menara Tabung Haji"
+ },
+ {
+  "name": "Hiroshi Naito",
+  "buildings": 1,
+  "example": "Toba Sea-Folk Museum"
+ },
+ {
+  "name": "Hiroshi Sambuichi",
+  "buildings": 1,
+  "example": "Inujima Seirensho Art Museum"
+ },
+ {
+  "name": "Hitoshi Abe",
+  "buildings": 1,
+  "example": "Miyagi Stadium"
+ },
+ {
+  "name": "Ho Kwong Yew",
+  "buildings": 1,
+  "example": "National Museum (Malaysia)"
+ },
+ {
+  "name": "Howard Ashley",
+  "buildings": 1,
+  "example": "Masjid Negara"
+ },
+ {
+  "name": "Howard Barnstone",
+  "buildings": 1,
+  "example": "Rothko Chapel"
+ },
+ {
+  "name": "Huang Pao-yu",
+  "buildings": 1,
+  "example": "National Palace Museum"
+ },
+ {
+  "name": "Hubert Scholz",
+  "buildings": 1,
+  "example": "Michenzani Blocks"
+ },
+ {
+  "name": "Hufnagel Pütz Rafaelian",
+  "buildings": 1,
+  "example": "Museum der bildenden Künste, Leipzig"
+ },
+ {
+  "name": "Hugh Stubbins",
+  "buildings": 1,
+  "example": "Haus der Kulturen der Welt (Kongresshalle)"
+ },
+ {
+  "name": "Husrev Tayla",
+  "buildings": 1,
+  "example": "Şakirin Mosque"
+ },
+ {
+  "name": "Ian Fraser",
+  "buildings": 1,
+  "example": "King Fahd International Stadium"
+ },
+ {
+  "name": "Ibrahim M. Jaidah",
+  "buildings": 1,
+  "example": "Al Thumama Stadium"
+ },
+ {
+  "name": "Ide Kaoru",
+  "buildings": 1,
+  "example": "Zhongshan Hall (Taipei Public Hall)"
+ },
+ {
+  "name": "Ignaty Milinis",
+  "buildings": 1,
+  "example": "Narkomfin building"
+ },
+ {
+  "name": "Inside Outside",
+  "buildings": 1,
+  "example": "LocHal"
+ },
+ {
+  "name": "Ioannis Despotopoulos",
+  "buildings": 1,
+  "example": "Athens Conservatoire"
+ },
+ {
+  "name": "Ismail Fatah Al Turk",
+  "buildings": 1,
+  "example": "Al-Shaheed Monument"
+ },
+ {
+  "name": "Ismaïla Traoré",
+  "buildings": 1,
+  "example": "Great Mosque of Djenné"
+ },
+ {
+  "name": "Itsuko Hasegawa",
+  "buildings": 1,
+  "example": "Shonandai Cultural Center"
+ },
+ {
+  "name": "Ivan Antić",
+  "buildings": 1,
+  "example": "Museum of Contemporary Art, Belgrade"
+ },
+ {
+  "name": "Ivan Merport",
+  "buildings": 1,
+  "example": "Hotel Uzbekistan"
+ },
+ {
+  "name": "Ivan Slameň",
+  "buildings": 1,
+  "example": "Most SNP (UFO Bridge)"
+ },
+ {
+  "name": "Ivan Vitic",
+  "buildings": 1,
+  "example": "Kockica"
+ },
+ {
+  "name": "Ivor Smith",
+  "buildings": 1,
+  "example": "Park Hill"
+ },
+ {
+  "name": "J. Enkhjargal",
+  "buildings": 1,
+  "example": "Chinggis Khaan Statue Complex"
+ },
+ {
+  "name": "J. L. Gleave",
+  "buildings": 1,
+  "example": "Columbus Lighthouse"
+ },
+ {
+  "name": "J. Max Bond Jr.",
+  "buildings": 1,
+  "example": "Bolgatanga Library"
+ },
+ {
+  "name": "JEMS Architekci",
+  "buildings": 1,
+  "example": "International Congress Centre"
+ },
+ {
+  "name": "Jack Lynn",
+  "buildings": 1,
+  "example": "Park Hill"
+ },
+ {
+  "name": "Jacques Hulot",
+  "buildings": 1,
+  "example": "Douaumont Ossuary"
+ },
+ {
+  "name": "James Corner",
+  "buildings": 1,
+  "example": "High Line"
+ },
+ {
+  "name": "James Gowan",
+  "buildings": 1,
+  "example": "Leicester University Engineering Building"
+ },
+ {
+  "name": "James Ingo Freed",
+  "buildings": 1,
+  "example": "United States Holocaust Memorial Museum"
+ },
+ {
+  "name": "Jan Duiker",
+  "buildings": 1,
+  "example": "Zonnestraal Sanatorium"
+ },
+ {
+  "name": "Jan Inge Hovig",
+  "buildings": 1,
+  "example": "Arctic Cathedral"
+ },
+ {
+  "name": "Jan Söderlund",
+  "buildings": 1,
+  "example": "Sanomatalo"
+ },
+ {
+  "name": "Janko Konstantinov",
+  "buildings": 1,
+  "example": "Skopje Telecommunications Centre"
+ },
+ {
+  "name": "Janusz Dembek",
+  "buildings": 1,
+  "example": "Majdanek Mausoleum"
+ },
+ {
+  "name": "Jean Badovici",
+  "buildings": 1,
+  "example": "E-1027"
+ },
+ {
+  "name": "Jean Desbois",
+  "buildings": 1,
+  "example": "Central Market"
+ },
+ {
+  "name": "Jean Le Couteur",
+  "buildings": 1,
+  "example": "Sacred Heart Cathedral, Algiers"
+ },
+ {
+  "name": "Jean Polak",
+  "buildings": 1,
+  "example": "Berlaymont"
+ },
+ {
+  "name": "Jean Renaudie",
+  "buildings": 1,
+  "example": "Étoiles d'Ivry"
+ },
+ {
+  "name": "Jean de Gastines",
+  "buildings": 1,
+  "example": "Centre Pompidou-Metz"
+ },
+ {
+  "name": "Jean-Jacques Baruël",
+  "buildings": 1,
+  "example": "Kunsten Museum of Modern Art Aalborg"
+ },
+ {
+  "name": "Jean-Marie Charpentier",
+  "buildings": 1,
+  "example": "Shanghai Grand Theatre"
+ },
+ {
+  "name": "Jerde Partnership",
+  "buildings": 1,
+  "example": "Kanyon"
+ },
+ {
+  "name": "Jesús Sandoval",
+  "buildings": 1,
+  "example": "Teresa Carreño Cultural Complex"
+ },
+ {
+  "name": "Jim Thompson",
+  "buildings": 1,
+  "example": "Jim Thompson House"
+ },
+ {
+  "name": "Jim Torosyan",
+  "buildings": 1,
+  "example": "Yerevan Cascade"
+ },
+ {
+  "name": "Joan Baptista Subirana",
+  "buildings": 1,
+  "example": "Dispensario Antituberculoso"
+ },
+ {
+  "name": "Joaquín Casariego",
+  "buildings": 1,
+  "example": "Woermann Tower"
+ },
+ {
+  "name": "Joh Sung-yong",
+  "buildings": 1,
+  "example": "Seonyudo Park"
+ },
+ {
+  "name": "Johan Otto von Spreckelsen",
+  "buildings": 1,
+  "example": "Grande Arche"
+ },
+ {
+  "name": "John Crust",
+  "buildings": 1,
+  "example": "Australian War Memorial"
+ },
+ {
+  "name": "John Dinkeloo",
+  "buildings": 1,
+  "example": "Ford Foundation Building"
+ },
+ {
+  "name": "John Meunier",
+  "buildings": 1,
+  "example": "Burrell Collection"
+ },
+ {
+  "name": "John Pawson",
+  "buildings": 1,
+  "example": "Design Museum"
+ },
+ {
+  "name": "John R. Harris",
+  "buildings": 1,
+  "example": "Dubai World Trade Centre"
+ },
+ {
+  "name": "John Roberts",
+  "buildings": 1,
+  "example": "King Fahd International Stadium"
+ },
+ {
+  "name": "John Scott",
+  "buildings": 1,
+  "example": "Futuna Chapel"
+ },
+ {
+  "name": "Johnson Pilton Walker",
+  "buildings": 1,
+  "example": "National Portrait Gallery"
+ },
+ {
+  "name": "Johnson-Dempsey",
+  "buildings": 1,
+  "example": "San Antonio Central Library"
+ },
+ {
+  "name": "Johnson-Marshall",
+  "buildings": 1,
+  "example": "Royal Commonwealth Pool"
+ },
+ {
+  "name": "Jon Eikvar",
+  "buildings": 1,
+  "example": "Henie Onstad Kunstsenter"
+ },
+ {
+  "name": "Jonathan Adams",
+  "buildings": 1,
+  "example": "Wales Millennium Centre"
+ },
+ {
+  "name": "Jorge Bravo Moro",
+  "buildings": 1,
+  "example": "Estadio Olímpico Universitario"
+ },
+ {
+  "name": "Jorge Romero Gutiérrez",
+  "buildings": 1,
+  "example": "El Helicoide"
+ },
+ {
+  "name": "Jorgen Bo",
+  "buildings": 1,
+  "example": "Louisiana Museum of Modern Art"
+ },
+ {
+  "name": "Josef Frank",
+  "buildings": 1,
+  "example": "Vienna Werkbund Estate"
+ },
+ {
+  "name": "Josef Krawina",
+  "buildings": 1,
+  "example": "Hundertwasserhaus"
+ },
+ {
+  "name": "Josep Llinàs",
+  "buildings": 1,
+  "example": "Jaume Fuster Library"
+ },
+ {
+  "name": "Joseph Esherick",
+  "buildings": 1,
+  "example": "Wurster Hall"
+ },
+ {
+  "name": "Joseph Klarwein",
+  "buildings": 1,
+  "example": "Knesset"
+ },
+ {
+  "name": "Joseph Philippe Karam",
+  "buildings": 1,
+  "example": "The Egg (Beirut City Center)"
+ },
+ {
+  "name": "José Antonio Coderch",
+  "buildings": 1,
+  "example": "Casa Ugalde"
+ },
+ {
+  "name": "José Hortal",
+  "buildings": 1,
+  "example": "Ministry of Public Works Building"
+ },
+ {
+  "name": "José Lei",
+  "buildings": 1,
+  "example": "Hong Kong Cultural Centre"
+ },
+ {
+  "name": "José Oubrerie",
+  "buildings": 1,
+  "example": "Saint-Pierre, Firminy"
+ },
+ {
+  "name": "Jozef Lacko",
+  "buildings": 1,
+  "example": "Most SNP (UFO Bridge)"
+ },
+ {
+  "name": "João Luís Carrilho da Graça",
+  "buildings": 1,
+  "example": "Pavilion of Knowledge (Pavilhão do Conhecimento)"
+ },
+ {
+  "name": "João Mendes Ribeiro",
+  "buildings": 1,
+  "example": "Arquipélago Contemporary Arts Centre"
+ },
+ {
+  "name": "Juan Antonio Scasso",
+  "buildings": 1,
+  "example": "Estadio Centenario"
+ },
+ {
+  "name": "Juan Martínez Gutiérrez",
+  "buildings": 1,
+  "example": "Votive Temple of Maipú"
+ },
+ {
+  "name": "Juan Martínez de Velasco",
+  "buildings": 1,
+  "example": "Central Library (UNAM)"
+ },
+ {
+  "name": "Julio Vilamajó",
+  "buildings": 1,
+  "example": "Faculty of Engineering, University of the Republic"
+ },
+ {
+  "name": "Jun Aoki",
+  "buildings": 1,
+  "example": "Aomori Museum of Art"
+ },
+ {
+  "name": "Junzo Yoshimura",
+  "buildings": 1,
+  "example": "International House of Japan"
+ },
+ {
+  "name": "Jürgen Pleuser",
+  "buildings": 1,
+  "example": "Kunstmuseum Bonn"
+ },
+ {
+  "name": "Kallmann McKinnell",
+  "buildings": 1,
+  "example": "Boston City Hall"
+ },
+ {
+  "name": "Kamal El Kafrawi",
+  "buildings": 1,
+  "example": "Qatar University"
+ },
+ {
+  "name": "Kao Er-pan",
+  "buildings": 1,
+  "example": "Taipei Fine Arts Museum"
+ },
+ {
+  "name": "Karel Hubáček",
+  "buildings": 1,
+  "example": "Ještěd Tower"
+ },
+ {
+  "name": "Karl Ehn",
+  "buildings": 1,
+  "example": "Karl-Marx-Hof"
+ },
+ {
+  "name": "Karl Henrik Nostvik",
+  "buildings": 1,
+  "example": "Kenyatta International Convention Centre"
+ },
+ {
+  "name": "Kashef Chowdhury",
+  "buildings": 1,
+  "example": "Swadhinata Stambha"
+ },
+ {
+  "name": "Ken Yeang",
+  "buildings": 1,
+  "example": "Menara Mesiniaga"
+ },
+ {
+  "name": "Kerry Clare",
+  "buildings": 1,
+  "example": "Gallery of Modern Art"
+ },
+ {
+  "name": "Kerry Hill",
+  "buildings": 1,
+  "example": "The Datai Langkawi"
+ },
+ {
+  "name": "Kevin Borland",
+  "buildings": 1,
+  "example": "Harold Holt Memorial Swimming Centre"
+ },
+ {
+  "name": "Kim Seok-chul",
+  "buildings": 1,
+  "example": "Seoul Arts Center Opera House"
+ },
+ {
+  "name": "Kim Utzon",
+  "buildings": 1,
+  "example": "Utzon Center"
+ },
+ {
+  "name": "Kimmo Lintula",
+  "buildings": 1,
+  "example": "Sibelius Hall"
+ },
+ {
+  "name": "Klaus Detlev Krebs",
+  "buildings": 1,
+  "example": "Schlangenbader Straße Housing (Die Schlange)"
+ },
+ {
+  "name": "Knud Munk",
+  "buildings": 1,
+  "example": "Grieg Hall"
+ },
+ {
+  "name": "Koen van Velsen",
+  "buildings": 1,
+  "example": "Groot Klimmendaal Rehabilitation Centre"
+ },
+ {
+  "name": "Kohn Pedersen Fox",
+  "buildings": 1,
+  "example": "Shanghai World Financial Center"
+ },
+ {
+  "name": "Kolbrún Ragnarsdóttir",
+  "buildings": 1,
+  "example": "Nordic House in the Faroe Islands"
+ },
+ {
+  "name": "Kristine Jensen",
+  "buildings": 1,
+  "example": "Dokk1"
+ },
+ {
+  "name": "Krystyna Tołłoczko-Różyska",
+  "buildings": 1,
+  "example": "Bunkier Sztuki"
+ },
+ {
+  "name": "Kuai Xiang",
+  "buildings": 1,
+  "example": "Forbidden City"
+ },
+ {
+  "name": "Kuldip Singh",
+  "buildings": 1,
+  "example": "Palika Kendra (NDMC Building)"
+ },
+ {
+  "name": "Kyriakos Krokos",
+  "buildings": 1,
+  "example": "Museum of Byzantine Culture"
+ },
+ {
+  "name": "Kyriakos Panagiotakos",
+  "buildings": 1,
+  "example": "Blue Building (Blue Condominium)"
+ },
+ {
+  "name": "L. Benjamín Romano",
+  "buildings": 1,
+  "example": "Torre Reforma"
+ },
+ {
+  "name": "Lassila Hirvilammi",
+  "buildings": 1,
+  "example": "Kuokkala Church"
+ },
+ {
+  "name": "Lassina Minta",
+  "buildings": 1,
+  "example": "Great Mosque of Niono"
+ },
+ {
+  "name": "Laurent Séchaud",
+  "buildings": 1,
+  "example": "Central Market, Koudougou"
+ },
+ {
+  "name": "Lederer Ragnarsdóttir Oei",
+  "buildings": 1,
+  "example": "Kunstmuseum Ravensburg"
+ },
+ {
+  "name": "Leo A. Daly",
+  "buildings": 1,
+  "example": "Habib Bank Plaza"
+ },
+ {
+  "name": "Lev Novikov",
+  "buildings": 1,
+  "example": "Flying Saucer (UkrINTEI)"
+ },
+ {
+  "name": "Levon Cherkezyan",
+  "buildings": 1,
+  "example": "Zvartnots Airport Old Terminal"
+ },
+ {
+  "name": "Li Xiaodong",
+  "buildings": 1,
+  "example": "Bridge School"
+ },
+ {
+  "name": "Lim Chong Keat",
+  "buildings": 1,
+  "example": "KOMTAR"
+ },
+ {
+  "name": "Lindsay Clare",
+  "buildings": 1,
+  "example": "Gallery of Modern Art"
+ },
+ {
+  "name": "Lindsay Drake",
+  "buildings": 1,
+  "example": "National Museum of Ghana"
+ },
+ {
+  "name": "Lorenzo Boschetti",
+  "buildings": 1,
+  "example": "Palazzo Venier dei Leoni"
+ },
+ {
+  "name": "Louis Arretche",
+  "buildings": 1,
+  "example": "Church of St Joan of Arc"
+ },
+ {
+  "name": "Louis Chauchon",
+  "buildings": 1,
+  "example": "Central Market"
+ },
+ {
+  "name": "Louis Miquel",
+  "buildings": 1,
+  "example": "Aéro-Habitat"
+ },
+ {
+  "name": "Louise Bourgeois",
+  "buildings": 1,
+  "example": "Steilneset Memorial"
+ },
+ {
+  "name": "Lu Wenyu",
+  "buildings": 1,
+  "example": "BUS:STOP Krumbach"
+ },
+ {
+  "name": "Lucindo Espinosa",
+  "buildings": 1,
+  "example": "Las Lajas Sanctuary"
+ },
+ {
+  "name": "Ludovico Quaroni",
+  "buildings": 1,
+  "example": "Chiesa Madre di Gibellina"
+ },
+ {
+  "name": "Ludwig Hoffmann",
+  "buildings": 1,
+  "example": "Pergamon Museum"
+ },
+ {
+  "name": "Luis Martínez-Feduchi",
+  "buildings": 1,
+  "example": "Edificio Carrión (Edificio Capitol)"
+ },
+ {
+  "name": "Luis Moya Blanco",
+  "buildings": 1,
+  "example": "Universidad Laboral de Gijón"
+ },
+ {
+  "name": "Luis Prieto Vial",
+  "buildings": 1,
+  "example": "Torres de Tajamar"
+ },
+ {
+  "name": "Lyons Israel Ellis",
+  "buildings": 1,
+  "example": "Wyndham Court"
+ },
+ {
+  "name": "Léon Azéma",
+  "buildings": 1,
+  "example": "Douaumont Ossuary"
+ },
+ {
+  "name": "MJ Long",
+  "buildings": 1,
+  "example": "British Library"
+ },
+ {
+  "name": "MMM Roberto",
+  "buildings": 1,
+  "example": "Brazilian Press Association Building (ABI)"
+ },
+ {
+  "name": "Maccreanor Lavington",
+  "buildings": 1,
+  "example": "Accordia"
+ },
+ {
+  "name": "Macedonio Ruiz",
+  "buildings": 1,
+  "example": "Teatro General San Martín"
+ },
+ {
+  "name": "Maciej Gintowt",
+  "buildings": 1,
+  "example": "Spodek"
+ },
+ {
+  "name": "Magdalena Hänska",
+  "buildings": 1,
+  "example": "Mäusebunker"
+ },
+ {
+  "name": "Mahmoud El-Hakim",
+  "buildings": 1,
+  "example": "Nubia Museum"
+ },
+ {
+  "name": "Malene Bjorn",
+  "buildings": 1,
+  "example": "Kuwait Towers"
+ },
+ {
+  "name": "Manal Rachdi",
+  "buildings": 1,
+  "example": "L'Arbre Blanc"
+ },
+ {
+  "name": "Manfred Hermer",
+  "buildings": 1,
+  "example": "Ponte City"
+ },
+ {
+  "name": "Manfred Lehmbruck",
+  "buildings": 1,
+  "example": "Lehmbruck Museum"
+ },
+ {
+  "name": "Manuel Larrosa",
+  "buildings": 1,
+  "example": "Open Chapel of Lomas de Cuernavaca (Palmira Chapel)"
+ },
+ {
+  "name": "Manuel Monteserín",
+  "buildings": 1,
+  "example": "Kaohsiung Music Center"
+ },
+ {
+  "name": "Marcin Weinfeld",
+  "buildings": 1,
+  "example": "Prudential House"
+ },
+ {
+  "name": "Marg und Partner",
+  "buildings": 1,
+  "example": "Tegel Airport, Terminal A"
+ },
+ {
+  "name": "Marian Konieczny",
+  "buildings": 1,
+  "example": "Maqam Echahid"
+ },
+ {
+  "name": "Mario Ciampi",
+  "buildings": 1,
+  "example": "Berkeley Art Museum (original building)"
+ },
+ {
+  "name": "Mario Girona",
+  "buildings": 1,
+  "example": "Coppelia Ice Cream Parlour"
+ },
+ {
+  "name": "Mario Messina",
+  "buildings": 1,
+  "example": "Cinema Impero"
+ },
+ {
+  "name": "Mario Muccinelli",
+  "buildings": 1,
+  "example": "Faculty of Architecture, University of the Republic"
+ },
+ {
+  "name": "Mario Romano",
+  "buildings": 1,
+  "example": "Palazzo della Civiltà Italiana"
+ },
+ {
+  "name": "Marks Barfield",
+  "buildings": 1,
+  "example": "London Eye"
+ },
+ {
+  "name": "Martin Kremmer",
+  "buildings": 1,
+  "example": "Zollverein Shaft XII"
+ },
+ {
+  "name": "Martin Schulz van Treeck",
+  "buildings": 1,
+  "example": "Les Orgues de Flandre"
+ },
+ {
+  "name": "Martin Wagner",
+  "buildings": 1,
+  "example": "Hufeisensiedlung"
+ },
+ {
+  "name": "Martín Correa",
+  "buildings": 1,
+  "example": "Benedictine Monastery Chapel"
+ },
+ {
+  "name": "Masato Otaka",
+  "buildings": 1,
+  "example": "Sakaide Artificial Ground"
+ },
+ {
+  "name": "Mass Studies",
+  "buildings": 1,
+  "example": "Boutique Monaco"
+ },
+ {
+  "name": "Maurice Hindié",
+  "buildings": 1,
+  "example": "Holiday Inn Beirut"
+ },
+ {
+  "name": "Max Edrei",
+  "buildings": 1,
+  "example": "Douaumont Ossuary"
+ },
+ {
+  "name": "Max Hacke",
+  "buildings": 1,
+  "example": "Study Pavilion, TU Braunschweig"
+ },
+ {
+  "name": "Meinhard von Gerkan",
+  "buildings": 1,
+  "example": "Berlin Hauptbahnhof"
+ },
+ {
+  "name": "Meixner Schlüter Wendt",
+  "buildings": 1,
+  "example": "Dornbusch Church"
+ },
+ {
+  "name": "Michael Arad",
+  "buildings": 1,
+  "example": "National September 11 Memorial"
+ },
+ {
+  "name": "Michael Scott",
+  "buildings": 1,
+  "example": "Busáras"
+ },
+ {
+  "name": "Michel Andrault",
+  "buildings": 1,
+  "example": "Sanctuary of the Madonna of Tears"
+ },
+ {
+  "name": "Michel Pinseau",
+  "buildings": 1,
+  "example": "Hassan II Mosque"
+ },
+ {
+  "name": "Mick Pearce",
+  "buildings": 1,
+  "example": "Eastgate Centre"
+ },
+ {
+  "name": "Mieczysław Król",
+  "buildings": 1,
+  "example": "Superjednostka"
+ },
+ {
+  "name": "Miguel Rosich",
+  "buildings": 1,
+  "example": "Edificio López Serrano"
+ },
+ {
+  "name": "Mihailo Jankovic",
+  "buildings": 1,
+  "example": "Palace of Serbia"
+ },
+ {
+  "name": "Mihajlo Mitrović",
+  "buildings": 1,
+  "example": "Genex Tower"
+ },
+ {
+  "name": "Mikael Mazmanyan",
+  "buildings": 1,
+  "example": "Sevan Writers' Resort"
+ },
+ {
+  "name": "Mikhail Barkhin",
+  "buildings": 1,
+  "example": "Izvestia Building"
+ },
+ {
+  "name": "Mikhail Riches",
+  "buildings": 1,
+  "example": "Goldsmith Street"
+ },
+ {
+  "name": "Mikhail Vinogradov",
+  "buildings": 1,
+  "example": "National Library of Belarus"
+ },
+ {
+  "name": "Milorad Pantovic",
+  "buildings": 1,
+  "example": "Belgrade Fair Hall 1"
+ },
+ {
+  "name": "Milutin Jerotijević",
+  "buildings": 1,
+  "example": "Eastern City Gate (Rudo)"
+ },
+ {
+  "name": "Mitsui Fudosan",
+  "buildings": 1,
+  "example": "Kasumigaseki Building"
+ },
+ {
+  "name": "Mohammad-Reza Isfahani",
+  "buildings": 1,
+  "example": "Sheikh Lotfollah Mosque"
+ },
+ {
+  "name": "Mohammed Saleh Makiya",
+  "buildings": 1,
+  "example": "Sultan Qaboos Grand Mosque"
+ },
+ {
+  "name": "Moore Lyndon Turnbull Whitaker",
+  "buildings": 1,
+  "example": "Sea Ranch Condominium One"
+ },
+ {
+  "name": "Muhammad ibn Baylik al-Muhsini",
+  "buildings": 1,
+  "example": "Mosque-Madrasa of Sultan Hassan"
+ },
+ {
+  "name": "Murat Tabanlioglu",
+  "buildings": 1,
+  "example": "Atatürk Cultural Center"
+ },
+ {
+  "name": "Naheed Farzana",
+  "buildings": 1,
+  "example": "Liberation War Museum"
+ },
+ {
+  "name": "Neave Brown",
+  "buildings": 1,
+  "example": "Alexandra Road Estate"
+ },
+ {
+  "name": "Nek Chand",
+  "buildings": 1,
+  "example": "Rock Garden of Chandigarh"
+ },
+ {
+  "name": "Nello Aprile",
+  "buildings": 1,
+  "example": "Mausoleo delle Fosse Ardeatine"
+ },
+ {
+  "name": "Neutelings Riedijk",
+  "buildings": 1,
+  "example": "Naturalis Biodiversity Center"
+ },
+ {
+  "name": "Neutelings Riedijk Architecten",
+  "buildings": 1,
+  "example": "Netherlands Institute for Sound and Vision"
+ },
+ {
+  "name": "Ngo Viet Thu",
+  "buildings": 1,
+  "example": "Independence Palace"
+ },
+ {
+  "name": "Nicolas Esquillan",
+  "buildings": 1,
+  "example": "CNIT"
+ },
+ {
+  "name": "Nicos Valsamakis",
+  "buildings": 1,
+  "example": "Lanaras Weekend House"
+ },
+ {
+  "name": "Niilo Kokko",
+  "buildings": 1,
+  "example": "Lasipalatsi"
+ },
+ {
+  "name": "Nikolai Ripinsky",
+  "buildings": 1,
+  "example": "Palace of the Republic"
+ },
+ {
+  "name": "Nonda Katsalidis",
+  "buildings": 1,
+  "example": "Ian Potter Museum of Art"
+ },
+ {
+  "name": "Norihiko Dan",
+  "buildings": 1,
+  "example": "Xiangshan Visitor Center, Sun Moon Lake"
+ },
+ {
+  "name": "Novera Ahmed",
+  "buildings": 1,
+  "example": "Shaheed Minar, Dhaka"
+ },
+ {
+  "name": "Ola Steen",
+  "buildings": 1,
+  "example": "Nordic House in the Faroe Islands"
+ },
+ {
+  "name": "Olof Rudbeck",
+  "buildings": 1,
+  "example": "Gustavianum"
+ },
+ {
+  "name": "Orhan Arda",
+  "buildings": 1,
+  "example": "Anitkabir"
+ },
+ {
+  "name": "Osborn McCutcheon",
+  "buildings": 1,
+  "example": "ICI House (Orica House)"
+ },
+ {
+  "name": "Oskar Sosnowski",
+  "buildings": 1,
+  "example": "St. Roch's Church"
+ },
+ {
+  "name": "Owen Williams",
+  "buildings": 1,
+  "example": "Boots D10 Building"
+ },
+ {
+  "name": "Patrick Berger",
+  "buildings": 1,
+  "example": "Parc André Citroën"
+ },
+ {
+  "name": "Patrick Hodgkinson",
+  "buildings": 1,
+  "example": "Brunswick Centre"
+ },
+ {
+  "name": "Patty Hopkins",
+  "buildings": 1,
+  "example": "Hopkins House"
+ },
+ {
+  "name": "Paul Herbe",
+  "buildings": 1,
+  "example": "Sacred Heart Cathedral, Algiers"
+ },
+ {
+  "name": "Paul Ludwig Troost",
+  "buildings": 1,
+  "example": "Haus der Kunst"
+ },
+ {
+  "name": "Paul Schneider-Esleben",
+  "buildings": 1,
+  "example": "Mannesmann-Hochhaus"
+ },
+ {
+  "name": "Paul Weidner",
+  "buildings": 1,
+  "example": "Dresden Central Station"
+ },
+ {
+  "name": "Paulo David",
+  "buildings": 1,
+  "example": "Casa das Mudas Art Centre"
+ },
+ {
+  "name": "Paulo de Melo Sampaio",
+  "buildings": 1,
+  "example": "Beira railway station"
+ },
+ {
+  "name": "Pekka Vapaavuori",
+  "buildings": 1,
+  "example": "Kumu Art Museum"
+ },
+ {
+  "name": "Penelope Seidler",
+  "buildings": 1,
+  "example": "Harry and Penelope Seidler House"
+ },
+ {
+  "name": "Percy Thomas Partnership",
+  "buildings": 1,
+  "example": "Clifton Cathedral"
+ },
+ {
+  "name": "Perkins Eastman",
+  "buildings": 1,
+  "example": "TKTS Booth, Father Duffy Square"
+ },
+ {
+  "name": "Perrott Lyon Mathieson",
+  "buildings": 1,
+  "example": "Rialto Towers"
+ },
+ {
+  "name": "Peter Chermayeff",
+  "buildings": 1,
+  "example": "Lisbon Oceanarium"
+ },
+ {
+  "name": "Peter Märkli",
+  "buildings": 1,
+  "example": "La Congiunta"
+ },
+ {
+  "name": "Peter W. Soderman",
+  "buildings": 1,
+  "example": "Svalbard Global Seed Vault"
+ },
+ {
+  "name": "Peter Walker",
+  "buildings": 1,
+  "example": "National September 11 Memorial"
+ },
+ {
+  "name": "Pezo von Ellrichshausen",
+  "buildings": 1,
+  "example": "Casa Cien"
+ },
+ {
+  "name": "Phil Freelon",
+  "buildings": 1,
+  "example": "National Museum of African American History and Culture"
+ },
+ {
+  "name": "Philip Cox",
+  "buildings": 1,
+  "example": "Australian National Maritime Museum"
+ },
+ {
+  "name": "Philippe Prost",
+  "buildings": 1,
+  "example": "Ring of Remembrance (L'Anneau de la Mémoire)"
+ },
+ {
+  "name": "Pierre Bourlier",
+  "buildings": 1,
+  "example": "Aéro-Habitat"
+ },
+ {
+  "name": "Pierre Chareau",
+  "buildings": 1,
+  "example": "Maison de Verre"
+ },
+ {
+  "name": "Pierre Dupre",
+  "buildings": 1,
+  "example": "Basilica of Our Lady of Altagracia"
+ },
+ {
+  "name": "Pierre Fakhoury",
+  "buildings": 1,
+  "example": "Basilica of Our Lady of Peace of Yamoussoukro"
+ },
+ {
+  "name": "Pierre Parat",
+  "buildings": 1,
+  "example": "Sanctuary of the Madonna of Tears"
+ },
+ {
+  "name": "Pierre Vago",
+  "buildings": 1,
+  "example": "Basilica of St. Pius X"
+ },
+ {
+  "name": "Pierre Zoelly",
+  "buildings": 1,
+  "example": "International Museum of Horology"
+ },
+ {
+  "name": "Porfírio Pardal Monteiro",
+  "buildings": 1,
+  "example": "Church of Our Lady of the Rosary of Fátima"
+ },
+ {
+  "name": "Preston Scott Cohen",
+  "buildings": 1,
+  "example": "Tel Aviv Museum of Art, Herta and Paul Amir Building"
+ },
+ {
+  "name": "Prince Toshihito",
+  "buildings": 1,
+  "example": "Katsura Imperial Villa"
+ },
+ {
+  "name": "Prokopis Vassiliadis",
+  "buildings": 1,
+  "example": "Hilton Athens"
+ },
+ {
+  "name": "Qi Kang",
+  "buildings": 1,
+  "example": "Nanjing Massacre Memorial Hall"
+ },
+ {
+  "name": "R. M. Soedarsono",
+  "buildings": 1,
+  "example": "National Monument (Indonesia)"
+ },
+ {
+  "name": "Rafael Aburto",
+  "buildings": 1,
+  "example": "Casa Sindical"
+ },
+ {
+  "name": "Rafael Fernández Ruenes",
+  "buildings": 1,
+  "example": "Bacardi Building"
+ },
+ {
+  "name": "Rafi Segal",
+  "buildings": 1,
+  "example": "Palmach Museum"
+ },
+ {
+  "name": "Raine Karp",
+  "buildings": 1,
+  "example": "Linnahall"
+ },
+ {
+  "name": "Rais Ghazi Mohammad",
+  "buildings": 1,
+  "example": "Bhong Mosque"
+ },
+ {
+  "name": "Ramses Wissa Wassef",
+  "buildings": 1,
+  "example": "Ramses Wissa Wassef Art Centre"
+ },
+ {
+  "name": "Ramón Bescós",
+  "buildings": 1,
+  "example": "Bankinter Building"
+ },
+ {
+  "name": "Raúl Ferrera",
+  "buildings": 1,
+  "example": "Faro del Comercio"
+ },
+ {
+  "name": "Raúl Salinas",
+  "buildings": 1,
+  "example": "Estadio Olímpico Universitario"
+ },
+ {
+  "name": "Raúl Sichero",
+  "buildings": 1,
+  "example": "Edificio Panamericano"
+ },
+ {
+  "name": "Rei Naito",
+  "buildings": 1,
+  "example": "Teshima Art Museum"
+ },
+ {
+  "name": "René Chapallaz",
+  "buildings": 1,
+  "example": "Villa Fallet"
+ },
+ {
+  "name": "Ricardo Mira",
+  "buildings": 1,
+  "example": "Edificio López Serrano"
+ },
+ {
+  "name": "Ricardo Porro",
+  "buildings": 1,
+  "example": "National Art Schools (Escuelas Nacionales de Arte)"
+ },
+ {
+  "name": "Ricaurte Prieto Carrizosa",
+  "buildings": 1,
+  "example": "Avianca Building"
+ },
+ {
+  "name": "Richard Foster",
+  "buildings": 1,
+  "example": "New York State Pavilion"
+ },
+ {
+  "name": "Rinaldo Olivieri",
+  "buildings": 1,
+  "example": "La Pyramide"
+ },
+ {
+  "name": "Rino Tami",
+  "buildings": 1,
+  "example": "Biblioteca cantonale, Lugano"
+ },
+ {
+  "name": "Rintala Eggertsson",
+  "buildings": 1,
+  "example": "BUS:STOP Krumbach"
+ },
+ {
+  "name": "Robbrecht en Daem",
+  "buildings": 1,
+  "example": "Stadshal (Market Hall), Ghent"
+ },
+ {
+  "name": "Robert Boughey",
+  "buildings": 1,
+  "example": "Kamalapur railway station"
+ },
+ {
+  "name": "Robert G. Boughey",
+  "buildings": 1,
+  "example": "Bangkok Art and Culture Centre"
+ },
+ {
+  "name": "Robert Peck von Hartel Trethowan",
+  "buildings": 1,
+  "example": "National Museum of Australia"
+ },
+ {
+  "name": "Roberto Gabetti",
+  "buildings": 1,
+  "example": "Talponia (Unità residenziale Ovest)"
+ },
+ {
+  "name": "Roberto Gottardi",
+  "buildings": 1,
+  "example": "National Art Schools (Escuelas Nacionales de Arte)"
+ },
+ {
+  "name": "Roger Anger",
+  "buildings": 1,
+  "example": "Matrimandir"
+ },
+ {
+  "name": "Roger Erell",
+  "buildings": 1,
+  "example": "Basilica of Sainte-Anne du Congo"
+ },
+ {
+  "name": "Roland Dieterle",
+  "buildings": 1,
+  "example": "Kigali Convention Centre"
+ },
+ {
+  "name": "Roland Korn",
+  "buildings": 1,
+  "example": "State Council Building"
+ },
+ {
+  "name": "Roland Simounet",
+  "buildings": 1,
+  "example": "Musée Picasso (Hôtel Salé)"
+ },
+ {
+  "name": "Rolf Gutbrod",
+  "buildings": 1,
+  "example": "Liederhalle"
+ },
+ {
+  "name": "Roman Fresnedo Siri",
+  "buildings": 1,
+  "example": "Hipodromo do Cristal"
+ },
+ {
+  "name": "Ron Herron",
+  "buildings": 1,
+  "example": "Hayward Gallery"
+ },
+ {
+  "name": "Ron Phillips",
+  "buildings": 1,
+  "example": "Hong Kong City Hall"
+ },
+ {
+  "name": "Ronald Lu",
+  "buildings": 1,
+  "example": "Xiqu Centre"
+ },
+ {
+  "name": "Rubén Martínez",
+  "buildings": 1,
+  "example": "Iglesia El Rosario"
+ },
+ {
+  "name": "Rudolf Fontana",
+  "buildings": 1,
+  "example": "Oberrealta Chapel"
+ },
+ {
+  "name": "Rudolf Skoda",
+  "buildings": 1,
+  "example": "Gewandhaus"
+ },
+ {
+  "name": "Ruy Athouguia",
+  "buildings": 1,
+  "example": "Calouste Gulbenkian Museum"
+ },
+ {
+  "name": "Sachio Otani",
+  "buildings": 1,
+  "example": "Kyoto International Conference Center"
+ },
+ {
+  "name": "Salvador Ortega Flores",
+  "buildings": 1,
+  "example": "Rectorate Tower, UNAM"
+ },
+ {
+  "name": "Saman Kamal",
+  "buildings": 1,
+  "example": "Al-Shaheed Monument"
+ },
+ {
+  "name": "Sami Rafi",
+  "buildings": 1,
+  "example": "Unknown Soldier Memorial, Cairo"
+ },
+ {
+  "name": "Samuel Kravets",
+  "buildings": 1,
+  "example": "Derzhprom"
+ },
+ {
+  "name": "Sashur Kalashyan",
+  "buildings": 1,
+  "example": "Armenian Genocide Memorial"
+ },
+ {
+  "name": "Satish Gujral",
+  "buildings": 1,
+  "example": "Embassy of Belgium, New Delhi"
+ },
+ {
+  "name": "Sawai Jai Singh II",
+  "buildings": 1,
+  "example": "Jantar Mantar, Jaipur"
+ },
+ {
+  "name": "Schipporeit-Heinrich",
+  "buildings": 1,
+  "example": "Lake Point Tower"
+ },
+ {
+  "name": "Scott Brown",
+  "buildings": 1,
+  "example": "Sainsbury Wing, National Gallery"
+ },
+ {
+  "name": "Scott Tallon Walker",
+  "buildings": 1,
+  "example": "Aviva Stadium"
+ },
+ {
+  "name": "Sean Godsell",
+  "buildings": 1,
+  "example": "Carter/Tucker House"
+ },
+ {
+  "name": "Seoahn Total Landscape",
+  "buildings": 1,
+  "example": "Seonyudo Park"
+ },
+ {
+  "name": "Serge Chermayeff",
+  "buildings": 1,
+  "example": "De La Warr Pavilion"
+ },
+ {
+  "name": "Sergey Andreyev",
+  "buildings": 1,
+  "example": "Shanghai Exhibition Centre"
+ },
+ {
+  "name": "Sergio Musmeci",
+  "buildings": 1,
+  "example": "Ponte Musmeci (Viadotto dell'Industria)"
+ },
+ {
+  "name": "Seyfi Arkan",
+  "buildings": 1,
+  "example": "Florya Atatürk Marine Mansion"
+ },
+ {
+  "name": "Shadrach Woods",
+  "buildings": 1,
+  "example": "Nid d'Abeille, Carrières Centrales"
+ },
+ {
+  "name": "Shepley Bulfinch Richardson",
+  "buildings": 1,
+  "example": "Boston Government Service Center"
+ },
+ {
+  "name": "Shinto shrine carpenters",
+  "buildings": 1,
+  "example": "Ise Grand Shrine"
+ },
+ {
+  "name": "Shizutaro Urabe",
+  "buildings": 1,
+  "example": "Kurashiki Ivy Square"
+ },
+ {
+  "name": "Sites International",
+  "buildings": 1,
+  "example": "Al-Azhar Park"
+ },
+ {
+  "name": "Soejoedi Wirjoatmodjo",
+  "buildings": 1,
+  "example": "Indonesian Parliament Complex"
+ },
+ {
+  "name": "Solange Fabião",
+  "buildings": 1,
+  "example": "Cité de l'Océan et du Surf"
+ },
+ {
+  "name": "South African Posts",
+  "buildings": 1,
+  "example": "Hillbrow Tower (Telkom Joburg Tower)"
+ },
+ {
+  "name": "Spartak Kndeghtsyan",
+  "buildings": 1,
+  "example": "Rossiya Cinema"
+ },
+ {
+  "name": "Spyros Staikos",
+  "buildings": 1,
+  "example": "Hilton Athens"
+ },
+ {
+  "name": "Stanislav Savin",
+  "buildings": 1,
+  "example": "Central Research Institute of Robotics and Technical Cybernetics"
+ },
+ {
+  "name": "Stefan Kolchev",
+  "buildings": 1,
+  "example": "National Theatre, Lagos"
+ },
+ {
+  "name": "Stefan Kurylowicz",
+  "buildings": 1,
+  "example": "National Forum of Music"
+ },
+ {
+  "name": "Stojan Maksimović",
+  "buildings": 1,
+  "example": "Sava Centar"
+ },
+ {
+  "name": "Su Rogers",
+  "buildings": 1,
+  "example": "22 Parkside (Rogers House)"
+ },
+ {
+  "name": "Sven Erik Engebretsen",
+  "buildings": 1,
+  "example": "Henie Onstad Kunstsenter"
+ },
+ {
+  "name": "Søren Robert Lund",
+  "buildings": 1,
+  "example": "Arken Museum of Contemporary Art"
+ },
+ {
+  "name": "Tachū Naitō",
+  "buildings": 1,
+  "example": "Tokyo Tower"
+ },
+ {
+  "name": "Takamitsu Azuma",
+  "buildings": 1,
+  "example": "Tower House"
+ },
+ {
+  "name": "Tanzim Hasan Salim",
+  "buildings": 1,
+  "example": "Liberation War Museum"
+ },
+ {
+  "name": "Tao Gofers",
+  "buildings": 1,
+  "example": "Sirius Building"
+ },
+ {
+  "name": "Theo Crosby",
+  "buildings": 1,
+  "example": "Shakespeare's Globe"
+ },
+ {
+  "name": "Timo Suomalainen",
+  "buildings": 1,
+  "example": "Temppeliaukio Church"
+ },
+ {
+  "name": "Toivo Jäntti",
+  "buildings": 1,
+  "example": "Helsinki Olympic Stadium"
+ },
+ {
+  "name": "Tom Neville Wynne-Jones",
+  "buildings": 1,
+  "example": "Independence Memorial Hall"
+ },
+ {
+  "name": "Tommie Wilhelmsen",
+  "buildings": 1,
+  "example": "Stegastein Viewpoint"
+ },
+ {
+  "name": "Tomás Lugo Marcano",
+  "buildings": 1,
+  "example": "Teresa Carreño Cultural Complex"
+ },
+ {
+  "name": "Tomás Sanabria",
+  "buildings": 1,
+  "example": "Hotel Humboldt"
+ },
+ {
+  "name": "Tomás Taveira",
+  "buildings": 1,
+  "example": "Amoreiras Towers"
+ },
+ {
+  "name": "Topotek 1",
+  "buildings": 1,
+  "example": "Superkilen"
+ },
+ {
+  "name": "Tuomo Suomalainen",
+  "buildings": 1,
+  "example": "Temppeliaukio Church"
+ },
+ {
+  "name": "Turgut Cansever",
+  "buildings": 1,
+  "example": "Turkish Historical Society"
+ },
+ {
+  "name": "Ulrich Müther",
+  "buildings": 1,
+  "example": "Café Seerose"
+ },
+ {
+  "name": "University of Stuttgart",
+  "buildings": 1,
+  "example": "ICD/ITKE Research Pavilion 2012"
+ },
+ {
+  "name": "Uno Tölpus",
+  "buildings": 1,
+  "example": "Tallinn Song Festival Stage"
+ },
+ {
+  "name": "Urban Agency",
+  "buildings": 1,
+  "example": "Lille Langebro"
+ },
+ {
+  "name": "Urban Solutions",
+  "buildings": 1,
+  "example": "Constitutional Court of South Africa"
+ },
+ {
+  "name": "Ustad Ahmad Lahauri",
+  "buildings": 1,
+  "example": "Taj Mahal"
+ },
+ {
+  "name": "Vadym Hopkalo",
+  "buildings": 1,
+  "example": "Ukrainian House (former Lenin Museum)"
+ },
+ {
+  "name": "Van der Vlugt",
+  "buildings": 1,
+  "example": "Bergpolderflat"
+ },
+ {
+  "name": "Vedat Dalokay",
+  "buildings": 1,
+  "example": "Faisal Mosque"
+ },
+ {
+  "name": "Vera Ćirković",
+  "buildings": 1,
+  "example": "Eastern City Gate (Rudo)"
+ },
+ {
+  "name": "Vernon DeMars",
+  "buildings": 1,
+  "example": "Wurster Hall"
+ },
+ {
+  "name": "Vesnin brothers",
+  "buildings": 1,
+  "example": "ZIL Palace of Culture"
+ },
+ {
+  "name": "Viaplana i Piñón",
+  "buildings": 1,
+  "example": "Centre de Cultura Contemporània de Barcelona (CCCB)"
+ },
+ {
+  "name": "Vicente Eced",
+  "buildings": 1,
+  "example": "Edificio Carrión (Edificio Capitol)"
+ },
+ {
+  "name": "Victor Pasmore",
+  "buildings": 1,
+  "example": "Apollo Pavilion"
+ },
+ {
+  "name": "Victor Prus",
+  "buildings": 1,
+  "example": "Grand Théâtre de Québec"
+ },
+ {
+  "name": "Viktor Kramarenko",
+  "buildings": 1,
+  "example": "National Library of Belarus"
+ },
+ {
+  "name": "Viktor Yegerev",
+  "buildings": 1,
+  "example": "TASS Building"
+ },
+ {
+  "name": "Vilhelm Wohlert",
+  "buildings": 1,
+  "example": "Louisiana Museum of Modern Art"
+ },
+ {
+  "name": "Vittoriano Viganò",
+  "buildings": 1,
+  "example": "Istituto Marchiondi Spagliardi"
+ },
+ {
+  "name": "Vittorio Garatti",
+  "buildings": 1,
+  "example": "National Art Schools (Escuelas Nacionales de Arte)"
+ },
+ {
+  "name": "Vittorio Gigliotti",
+  "buildings": 1,
+  "example": "Casa Papanice"
+ },
+ {
+  "name": "Vladimir Azimov",
+  "buildings": 1,
+  "example": "Chorsu Bazaar"
+ },
+ {
+  "name": "Vladimir Kim",
+  "buildings": 1,
+  "example": "Hotel Kazakhstan"
+ },
+ {
+  "name": "Vladimír Dedeček",
+  "buildings": 1,
+  "example": "Slovak National Gallery Extension"
+ },
+ {
+  "name": "W. I. Turner",
+  "buildings": 1,
+  "example": "Timberline Lodge"
+ },
+ {
+  "name": "Wallace K. Harrison",
+  "buildings": 1,
+  "example": "United Nations Secretariat Building"
+ },
+ {
+  "name": "Walter Maria Förderer",
+  "buildings": 1,
+  "example": "Church of Saint-Nicolas, Hérémence"
+ },
+ {
+  "name": "Walter Weberhofer",
+  "buildings": 1,
+  "example": "Petroperú Building"
+ },
+ {
+  "name": "Wang Dingzheng",
+  "buildings": 1,
+  "example": "Shanghai Exhibition Centre"
+ },
+ {
+  "name": "Wang Xianchen",
+  "buildings": 1,
+  "example": "Humble Administrator's Garden"
+ },
+ {
+  "name": "Warren Chalk",
+  "buildings": 1,
+  "example": "Hayward Gallery"
+ },
+ {
+  "name": "Wells Coates",
+  "buildings": 1,
+  "example": "Isokon Building"
+ },
+ {
+  "name": "Wenczesław Poniż",
+  "buildings": 1,
+  "example": "Prudential House"
+ },
+ {
+  "name": "Wendy Lewin",
+  "buildings": 1,
+  "example": "Arthur and Yvonne Boyd Education Centre"
+ },
+ {
+  "name": "Wiel Arets",
+  "buildings": 1,
+  "example": "Hedge House"
+ },
+ {
+  "name": "Wiktor Tołkin",
+  "buildings": 1,
+  "example": "Majdanek Mausoleum"
+ },
+ {
+  "name": "Wilhelm Frank",
+  "buildings": 1,
+  "example": "Romeo und Julia"
+ },
+ {
+  "name": "Wilkinson Eyre",
+  "buildings": 1,
+  "example": "Magna Science Adventure Centre"
+ },
+ {
+  "name": "Will Bruder",
+  "buildings": 1,
+  "example": "Burton Barr Central Library"
+ },
+ {
+  "name": "Willard T. Sears",
+  "buildings": 1,
+  "example": "Isabella Stewart Gardner Museum"
+ },
+ {
+  "name": "William Burnet Tuthill",
+  "buildings": 1,
+  "example": "Carnegie Hall"
+ },
+ {
+  "name": "William Ivor Shipley",
+  "buildings": 1,
+  "example": "Malaysian Houses of Parliament"
+ },
+ {
+  "name": "Wingårdh Arkitektkontor",
+  "buildings": 1,
+  "example": "Victoria Tower"
+ },
+ {
+  "name": "Wolf Bertelsmann",
+  "buildings": 1,
+  "example": "Schlangenbader Straße Housing (Die Schlange)"
+ },
+ {
+  "name": "Woods Bagot",
+  "buildings": 1,
+  "example": "South Australian Health and Medical Research Institute (SAHMRI)"
+ },
+ {
+  "name": "XVW architectuur",
+  "buildings": 1,
+  "example": "DeFlat Kleiburg"
+ },
+ {
+  "name": "Xing Tonghe",
+  "buildings": 1,
+  "example": "Shanghai Museum"
+ },
+ {
+  "name": "Yahya Merchant",
+  "buildings": 1,
+  "example": "Mazar-e-Quaid"
+ },
+ {
+  "name": "Yang Tingbao",
+  "buildings": 1,
+  "example": "Beijing Railway Station"
+ },
+ {
+  "name": "Ye Xianghan",
+  "buildings": 1,
+  "example": "National Theatre of Ghana"
+ },
+ {
+  "name": "Yoo Kerl",
+  "buildings": 1,
+  "example": "Seoul City Hall"
+ },
+ {
+  "name": "Yori Antar",
+  "buildings": 1,
+  "example": "Mbaru Niang, Wae Rebo"
+ },
+ {
+  "name": "Yulian Schwarzbreim",
+  "buildings": 1,
+  "example": "House of Soviets"
+ },
+ {
+  "name": "Yuncken Freeman",
+  "buildings": 1,
+  "example": "Sidney Myer Music Bowl"
+ },
+ {
+  "name": "Yuri Ratushny",
+  "buildings": 1,
+  "example": "Hotel Kazakhstan"
+ },
+ {
+  "name": "Yusef Abdelki",
+  "buildings": 1,
+  "example": "Sheikh Zayed Grand Mosque"
+ },
+ {
+  "name": "Yōkichi Gondō",
+  "buildings": 1,
+  "example": "Tokyo Metropolitan Teien Art Museum"
+ },
+ {
+  "name": "Zaheer Haider Naqvi",
+  "buildings": 1,
+  "example": "Masjid-e-Tooba"
+ },
+ {
+  "name": "Ze'ev Rechter",
+  "buildings": 1,
+  "example": "Engel House"
+ },
+ {
+  "name": "Zhabdrung Ngawang Namgyal",
+  "buildings": 1,
+  "example": "Punakha Dzong"
+ },
+ {
+  "name": "Zhang Jinqiu",
+  "buildings": 1,
+  "example": "Shaanxi History Museum"
+ },
+ {
+  "name": "Zhorzh Shekhlyan",
+  "buildings": 1,
+  "example": "Zvartnots Airport Old Terminal"
+ },
+ {
+  "name": "Zlatko Ugljen",
+  "buildings": 1,
+  "example": "Šerefudin's White Mosque"
+ },
+ {
+  "name": "after designs by Hans Scharoun",
+  "buildings": 1,
+  "example": "Berlin Musical Instrument Museum"
+ },
+ {
+  "name": "architecten jan de vylder inge vinck",
+  "buildings": 1,
+  "example": "Palais des Expositions (Grand Palais), Charleroi"
+ },
+ {
+  "name": "conversion by Arno Brandlhuber",
+  "buildings": 1,
+  "example": "St. Agnes (König Galerie)"
+ },
+ {
+  "name": "de la Torre",
+  "buildings": 1,
+  "example": "Kavanagh building"
+ },
+ {
+  "name": "designers not credited in sources",
+  "buildings": 1,
+  "example": "Hillbrow Tower (Telkom Joburg Tower)"
+ },
+ {
+  "name": "facade by Stefan Borzęcki",
+  "buildings": 1,
+  "example": "Bunkier Sztuki"
+ },
+ {
+  "name": "garden by Dan Kiley",
+  "buildings": 1,
+  "example": "Miller House and Garden"
+ },
+ {
+  "name": "interiors by Alexander Girard",
+  "buildings": 1,
+  "example": "Miller House and Garden"
+ },
+ {
+  "name": "local master masons",
+  "buildings": 1,
+  "example": "Bhong Mosque"
+ },
+ {
+  "name": "renovation by Architekti BKPŠ",
+  "buildings": 1,
+  "example": "Slovak National Gallery Extension"
+ },
+ {
+  "name": "roof by Foster",
+  "buildings": 1,
+  "example": "Dresden Central Station"
+ },
+ {
+  "name": "steel frame by Stefan Bryła",
+  "buildings": 1,
+  "example": "Prudential House"
+ },
+ {
+  "name": "the Wae Rebo community",
+  "buildings": 1,
+  "example": "Mbaru Niang, Wae Rebo"
+ },
+ {
+  "name": "von Gerkan",
+  "buildings": 1,
+  "example": "Tegel Airport, Terminal A"
+ },
+ {
+  "name": "west front by Pierre-Louis Carlier",
+  "buildings": 1,
+  "example": "Lille Cathedral"
+ },
+ {
+  "name": "Édouard François",
+  "buildings": 1,
+  "example": "Flower Tower"
+ },
+ {
+  "name": "Émile Aillaud",
+  "buildings": 1,
+  "example": "Tours Aillaud (Tours Nuages)"
+ },
+ {
+  "name": "Şekip Akalın",
+  "buildings": 1,
+  "example": "Ankara Railway Station"
+ },
+ {
+  "name": "Štefan Svetko",
+  "buildings": 1,
+  "example": "Slovak Radio Building"
+ },
+ {
+  "name": "Štefan Ďurkovič",
+  "buildings": 1,
+  "example": "Slovak Radio Building"
+ }
+]

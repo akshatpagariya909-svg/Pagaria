@@ -1,0 +1,515 @@
+[
+ {
+  "name": "French Embassy in Seoul",
+  "by": "Kim Chung-up",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1962",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "A concrete roof with upturned eaves floats over the ambassador's office, recalling hanok rooflines.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "french-embassy-in-seoul"
+ },
+ {
+  "name": "Friendship Hospital Satkhira",
+  "by": "Kashef Mahboob Chowdhury",
+  "city": "Satkhira",
+  "cc": "BD",
+  "year": "2018",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Water",
+   "Courtyard"
+  ],
+  "features": "Brick wards set along a rain-fed canal that runs through the hospital, cooling its courtyards.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "friendship-hospital-satkhira"
+ },
+ {
+  "name": "GHESKIO Cholera Treatment Center",
+  "by": "MASS Design Group",
+  "city": "Port-au-Prince",
+  "cc": "HT",
+  "year": "2015",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Brick",
+   "Courtyard"
+  ],
+  "features": "Perforated brick screens and courtyards for cross ventilation, with water treated on site.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "gheskio-cholera-treatment-center"
+ },
+ {
+  "name": "Grand Parc Bordeaux Transformation",
+  "by": "Lacaton & Vassal, Frédéric Druot, Christophe Hutin",
+  "city": "Bordeaux",
+  "cc": "FR",
+  "year": "2016",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Prefabrication",
+   "Human comfort"
+  ],
+  "features": "Social housing blocks extended with prefabricated winter gardens and balconies added across the facades.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "grand-parc-bordeaux-transformation"
+ },
+ {
+  "name": "Halawa House",
+  "by": "Abdel-Wahed El-Wakil",
+  "city": "Agamy",
+  "cc": "EG",
+  "year": "1975",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Vault",
+   "Climate response"
+  ],
+  "features": "Courtyard house of domes and vaults built by traditional masons, with a shaded loggia facing the court.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "halawa-house"
+ },
+ {
+  "name": "Heritance Ahungalla",
+  "by": "Geoffrey Bawa",
+  "city": "Ahungalla",
+  "cc": "LK",
+  "year": "1981",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Axis"
+  ],
+  "features": "Open lobby framing a long pool that seems to run straight on into the sea.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "heritance-ahungalla"
+ },
+ {
+  "name": "Hotakubo Housing",
+  "by": "Riken Yamamoto",
+  "city": "Kumamoto",
+  "cc": "JP",
+  "year": "1991",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Community",
+   "Public space"
+  ],
+  "features": "Public housing units ring a common court that can only be entered through the dwellings.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "hotakubo-housing"
+ },
+ {
+  "name": "House & Atelier Bow-Wow",
+  "by": "Atelier Bow-Wow",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "2005",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Circulation",
+   "Double height"
+  ],
+  "features": "Narrow house of split floor levels stepping around a central stair, open to the street by big windows.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "house-atelier-bow-wow"
+ },
+ {
+  "name": "House for Trees",
+  "by": "Vo Trong Nghia",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "2014",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Cluster",
+   "Courtyard"
+  ],
+  "features": "Concrete boxes like giant plant pots with trees on their roofs, grouped around a small courtyard.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "house-for-trees"
+ },
+ {
+  "name": "House in Uehara",
+  "by": "Kazuo Shinohara",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1976",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Concrete house where massive column-and-brace forms cross the rooms like branches.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "house-in-uehara"
+ },
+ {
+  "name": "House in White",
+  "by": "Kazuo Shinohara",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1966",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Timber",
+   "Void"
+  ],
+  "features": "Square white house under a pyramidal roof, with a single cedar column standing in the main room.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "house-in-white"
+ },
+ {
+  "name": "Hu Huishan Memorial",
+  "by": "Liu Jiakun",
+  "city": "Anren",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Reclaimed material",
+   "Brick",
+   "Colour"
+  ],
+  "features": "Tent-shaped hut of bricks made from earthquake rubble, lined in pink and filled with a girl's belongings.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "hu-huishan-memorial"
+ },
+ {
+  "name": "Hukuru Miskiy",
+  "by": "Maldivian builders",
+  "city": "Malé",
+  "cc": "MV",
+  "year": "1658",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Timber"
+  ],
+  "features": "Mosque of interlocking carved coral stone blocks, with a lacquered and carved timber interior.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "hukuru-miskiy"
+ },
+ {
+  "name": "Hyogo Children's Museum",
+  "by": "Tadao Ando",
+  "city": "Himeji",
+  "cc": "JP",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Concrete pavilions linked by a long walled path past columns and water through a lakeside park.",
+  "qid": "Q11392907",
+  "keep": 2,
+  "source": "batch2_nophoto.txt",
+  "id": "hyogo-children-s-museum"
+ },
+ {
+  "name": "Institute of Foreign Languages",
+  "by": "Vann Molyvann",
+  "city": "Phnom Penh",
+  "cc": "KH",
+  "year": "1972",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Exposed concrete"
+  ],
+  "features": "Brise-soleil walls, raised blocks and shaded walkways designed for cross-ventilation in the tropics.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "institute-of-foreign-languages"
+ },
+ {
+  "name": "Issam Fares Institute",
+  "by": "Zaha Hadid Architects",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Parametric",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Circulation"
+  ],
+  "features": "A concrete volume cantilevers over existing campus paths, leaving the walkways and trees below open.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "issam-fares-institute"
+ },
+ {
+  "name": "Jameel Arts Centre",
+  "by": "Serie Architects",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Planting",
+   "Facade as skin"
+  ],
+  "features": "Galleries arranged around small desert-garden courts, clad in white panels on the Dubai Creek.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "jameel-arts-centre"
+ },
+ {
+  "name": "Jeevan Bharati Building",
+  "by": "Charles Correa",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1986",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Two red sandstone and glass blocks linked by a giant pergola that frames a plaza on Connaught Place.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "jeevan-bharati-building"
+ },
+ {
+  "name": "Jetwing Lighthouse",
+  "by": "Geoffrey Bawa",
+  "city": "Galle",
+  "cc": "LK",
+  "year": "1997",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Circulation",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Hotel on a rocky headland; its spiral stair winds round Laki Senanayake's bronze battle sculpture.",
+  "qid": "Q24883195",
+  "keep": 2,
+  "source": "batch3_nophoto.txt",
+  "id": "jetwing-lighthouse"
+ },
+ {
+  "name": "Julio Herrera y Obes Port Warehouse",
+  "by": "Eladio Dieste",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1979",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Vault",
+   "Brick",
+   "Structure as expression"
+  ],
+  "features": "Long-span Gaussian vaults of reinforced brick, waved in section, roof the dockside warehouse.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "julio-herrera-y-obes-port-warehouse"
+ },
+ {
+  "name": "KAIT Plaza",
+  "by": "Junya Ishigami",
+  "city": "Atsugi",
+  "cc": "JP",
+  "year": "2020",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Vast thin steel-plate roof sagging over open ground, pierced with rectangular openings to the sky.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "kait-plaza"
+ },
+ {
+  "name": "Kahere Eila Poultry Farming School",
+  "by": "Heikkinen-Komonen",
+  "city": "Koliagbe",
+  "cc": "GN",
+  "year": "1999",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Timber",
+   "Courtyard"
+  ],
+  "features": "Compressed earth block walls and timber screens frame shaded courts under light roofs.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "kahere-eila-poultry-farming-school"
+ },
+ {
+  "name": "Kampung Kali Code",
+  "by": "Y. B. Mangunwijaya",
+  "city": "Yogyakarta",
+  "cc": "ID",
+  "year": "1985",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Community",
+   "Low cost",
+   "Earth & local material"
+  ],
+  "features": "Riverbank houses of bamboo and timber, built and painted with residents of a squatter settlement.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "kampung-kali-code"
+ },
+ {
+  "name": "Kasungu Maternity Waiting Village",
+  "by": "MASS Design Group",
+  "city": "Kasungu",
+  "cc": "MW",
+  "year": "2015",
+  "type": "Health",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Community",
+   "Courtyard"
+  ],
+  "features": "Small houses grouped in clusters around shared courtyards, where expectant mothers wait near the hospital.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "kasungu-maternity-waiting-village"
+ },
+ {
+  "name": "Kyungdong Presbyterian Church",
+  "by": "Kim Swoo-geun",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": "1981",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "Walls of broken-faced brick fold upward around a windowless sanctuary lit from above.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "kyungdong-presbyterian-church"
+ },
+ {
+  "name": "La Collina Omihachiman",
+  "by": "Terunobu Fujimori",
+  "city": "Omihachiman",
+  "cc": "JP",
+  "year": "2014",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Planting",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Sweets shop and café buried under a sweeping roof planted with grass.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "la-collina-omihachiman"
+ },
+ {
+  "name": "La Lira Theatre Public Space",
+  "by": "RCR Arquitectes",
+  "city": "Ripoll",
+  "cc": "ES",
+  "year": "2011",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Light & shadow",
+   "Water"
+  ],
+  "features": "Open Corten steel canopy framing a public square on the site of a demolished theatre by the river.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "la-lira-theatre-public-space"
+ }
+]

@@ -1,0 +1,553 @@
+[
+ {
+  "id": "lycee-schorge",
+  "name": "Lycée Schorge",
+  "status": "photo",
+  "commons_category": "Category:Lycee Schorge",
+  "photos": [
+   {
+    "file": "File:Foto Sierd Hoekstra (5).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Foto_Sierd_Hoekstra_(5).jpg"
+  ],
+  "note": "Checked the photo by eye: front view of the eucalyptus-pole screen with the wind towers above, 1739x978. Photographer Sierd Hoekstra, permission via VRT ticket. A second file, File:Foto Sierd Hoekstra (4).jpg (919x1225, CC BY-SA 4.0), is in the same category but I did not view it."
+ },
+ {
+  "id": "metu-faculty-of-architecture",
+  "name": "METU Faculty of Architecture",
+  "status": "photo",
+  "commons_category": "Category:Middle East Technical University Faculty of Architecture",
+  "photos": [
+   {
+    "file": "File:METU ARCH.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:METU_ARCH.jpg"
+  ],
+  "note": "Checked by eye: METU ARCH.jpg (3968x2976, CC0) shows the faculty from outside, its board-marked concrete covered walkway on the campus spine. METU ARCH2.jpg and METU ARCH3.jpg (same author, CC0) not viewed. The category also has about 30 SALT Research archive photos from 1961-80 (e.g. File:METU, Faculty of Architecture (14663172139).jpg, entrance and stairs), tagged only No known copyright restrictions, which is not one of our accepted licences."
+ },
+ {
+  "id": "magney-house",
+  "name": "Magney House",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "end elevation from the east (south to the left, north to the right): the asymmetric curved V roof, low closed south wall, tall north wall under the long rising north eave, and the downpipe at the end of the valley gutter",
+  "sources": [
+   "https://www.southcoasthistory.org.au/history-stories-nsw-south-coast/magney-house-bingie-bingie",
+   "https://www.atlasofinteriors.polimi.it/2014/03/19/murcutt-magneyhouse-1984/",
+   "https://www.dezeen.com/2019/02/18/glenn-murcutt-key-projects-architecture/",
+   "https://befrontmag.com/2016/09/09/magney-house-dial-m-for-murcutt/"
+  ],
+  "note": "No photo, plan or drawing of the house on Commons (searched Magney, Bingie, Murcutt). Sources agree on a curved corrugated-steel roof that dips to a valley gutter, the valley separating the southern service strip from the larger northern living zone, a big angled north overhang over glazing with external louvres, a lower closed south wall, and one large downpipe at each end of the valley feeding underground tanks. Exact eave and valley heights are not published in what I could reach; the drawing keeps the proportions modest (about 3 m south wall, 4.6 m north wall). Worth a quick check by the owner against a photo before it goes live."
+ },
+ {
+  "id": "mapungubwe-interpretation-centre",
+  "name": "Mapungubwe Interpretation Centre",
+  "status": "photo",
+  "commons_category": "Category:Mapungubwe Museum and Interpretive Centre",
+  "photos": [
+   {
+    "file": "File:Mapungubwe, Limpopo, South Africa (20517691186).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Mapungubwe, Limpopo, South Africa (20535231612).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Mapungubwe, Limpopo, South Africa (20544018665).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Mapungubwe,_Limpopo,_South_Africa_(20517691186).jpg"
+  ],
+  "note": "About 18 CC BY 2.0 photos from the South African Tourism Flickr stream (6016x4016 and 4928x3280). Checked 20517691186 by eye: clear exterior of the stone-clad vaults and cairn domes. The others are in the same category but I did not view each one. The category named Mapungubwe Interpretation Center is empty; use the one above."
+ },
+ {
+  "id": "mater-misericordiae-church",
+  "name": "Mater Misericordiae Church",
+  "status": "photo",
+  "commons_category": "Category:Nostra Signora della Misericordia (Baranzate)",
+  "photos": [
+   {
+    "file": "File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": "front elevation of the short entrance facade: translucent panel wall (5 bays x 8 rows), clerestory band with the X-section ends of the roof beams, thin roof fascia",
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Baranzate_(MI)_-_chiesa_di_Nostra_Signora_della_Misericordia.jpg",
+   "https://commons.wikimedia.org/wiki/File:Baranzate_(MI)_-_chiesa_di_Nostra_Signora_della_Misericordia_-_interno.jpg",
+   "https://www.fondazionefavini.it/en/opere/chiesa-parrocchiale-baranzate-di-bollate/",
+   "https://www.domusweb.it/en/from-the-archive/2024/02/26/anticipating-the-architecture-of-light-the-glass-church-in-baranzate.html",
+   "https://www.lombardiabeniculturali.it/architetture900/schede/p4010-00223/"
+  ],
+  "note": "The only free exterior photo, File:Baranzate (MI) - chiesa di Nostra Signora della Misericordia.jpg (CC BY-SA 4.0), is 1024x768, below the 1200px rule, so I drew it. Proportions follow sources (about 14.3 x 28.6 m plan, 10 m high) and that frontal photo: 5 bays of 90x270 cm sandwich panels, 8 rows high, with the bow-tie beam ends in the glazed band under the roof. I left out the entrance door, the freestanding cross and the open steel bell tower beside the church, and the perimeter stone wall, which the photo does not show clearly. [Owner, Oct 2026: photos of 800px+ are used when nothing bigger exists; the drawing stays in the gallery.]",
+  "drawing_kept": true
+ },
+ {
+  "id": "minna-no-mori-gifu-media-cosmos",
+  "name": "Minna no Mori Gifu Media Cosmos",
+  "status": "photo",
+  "commons_category": "Category:Gifu Media Cosmos",
+  "photos": [
+   {
+    "file": "File:Gifu Media Cosmos exterior ac (1).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Gifu Media Cosmos exterior ac (3).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Gifu Media Cosmos 20240717 1.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Gifu_Media_Cosmos"
+  ],
+  "note": "Category has about 35 photos, including interiors of the timber lattice roof and globes (Gifu Media Cosmos 1F ac series). Exterior files chosen from their descriptions; not viewed one by one."
+ },
+ {
+  "id": "multihalle-mannheim",
+  "name": "Multihalle Mannheim",
+  "status": "photo",
+  "commons_category": "Category:Multihalle",
+  "photos": [
+   {
+    "file": "File:Herzogenriedpark Mannheim Multihalle.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Die Multihalle wurde zur Bundesgartenschau 1975 errichtet. - panoramio.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Multihalle - panoramio.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Multihalle"
+  ],
+  "note": "48 files in the category, many of the gridshell interior (Herzogenriedpark 067-100 series, Multihalle DachStuetzen). Viewed Herzogenriedpark Mannheim Multihalle.jpg (1912x1322): the white membrane-clad shells behind trees and a winter market, usable but busy; a cleaner exterior may be among the panoramio or Herzogenriedpark files."
+ },
+ {
+  "id": "musashino-art-university-library",
+  "name": "Musashino Art University Library",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Musashino_Art_University"
+  ],
+  "note": "No photo of the library on Commons: no category, and no file in Category:Musashino Art University shows it. Not drawn: the outside is a glass skin over a bookshelf grid with large cut-out openings, and I could not find a source giving its height, bay count or where the openings sit, so I can't draw a reliable elevation (most architecture sites were unreachable from here)."
+ },
+ {
+  "id": "musee-yves-saint-laurent-marrakech",
+  "name": "Musée Yves Saint Laurent Marrakech",
+  "status": "photo",
+  "commons_category": "Category:Yves Saint Laurent Museum in Marrakesh",
+  "photos": [
+   {
+    "file": "File:Architetti studio ko, museo YSL a Marrakech.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:YSL 01 Eingangsportal.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Yves_Saint_Laurent_Museum_in_Marrakesh"
+  ],
+  "note": "Viewed both. The first (4160x3120) is the street facade with the patterned brick walls and the museum name, with a visitor queue in front. The second (3024x4032) is the circular courtyard with the brick wall and the entrance plinth bearing the YSL logo; it shows a trademark logo, so prefer the first."
+ },
+ {
+  "id": "nantes-school-of-architecture",
+  "name": "Nantes School of Architecture",
+  "status": "photo",
+  "commons_category": "Category:École nationale supérieure d'architecture de Nantes",
+  "photos": [
+   {
+    "file": "File:L'école d'architecture (Nantes) (9304278276).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:%C3%89cole_nationale_sup%C3%A9rieure_d%27architecture_de_Nantes"
+  ],
+  "note": "Viewed it: 1513x1010 aerial-ish view of the school with the external ramp up to the roof terrace. Only one clear exterior; the category also has interior exhibition shots and two Sur le toit (rooftop) photos."
+ },
+ {
+  "id": "national-commercial-bank",
+  "name": "National Commercial Bank",
+  "status": "photo",
+  "commons_category": "Category:Saudi National Bank",
+  "photos": [
+   {
+    "file": "File:National commercial bank at night.JPG",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:National_commercial_bank_at_night.JPG"
+  ],
+  "note": "Viewed it: this is the Bunshaft tower (blank wall, lit cut-out sky court), but a dim, grainy night shot with parked cars, only 957x1274 (just passes 1200 on the long side). It is the only free photo found; no category for the building itself (it sits in the bank company category). If the owner finds it too poor, this tower is a good candidate for a drawing instead."
+ },
+ {
+  "id": "neviges-pilgrimage-church",
+  "name": "Neviges Pilgrimage Church",
+  "status": "photo",
+  "commons_category": "Category:Maria Königin des Friedens (Neviges)",
+  "photos": [
+   {
+    "file": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Velbert-Neviges, Löher Straße, Wallfahrtskirche von S.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Neviges Mariendom.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Maria_K%C3%B6nigin_des_Friedens_(Neviges)"
+  ],
+  "note": "Over 60 files, many exteriors; Germany has freedom of panorama. Chosen from descriptions, not viewed."
+ },
+ {
+  "id": "notre-dame-du-raincy",
+  "name": "Notre-Dame du Raincy",
+  "status": "photo",
+  "commons_category": "Category:Extérieur de l'église Notre-Dame du Raincy",
+  "photos": [
+   {
+    "file": "File:Le Raincy Notre-Dame-du-Raincy Fassade.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Église Notre-Dame Raincy 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ext%C3%A9rieur_de_l%27%C3%A9glise_Notre-Dame_du_Raincy"
+  ],
+  "note": "21 exterior files plus an interior category (Category:Intérieur de l'Église Notre-Dame du Raincy). Perret died in 1954, so the design is out of copyright in France. Chosen from descriptions, not viewed."
+ },
+ {
+  "id": "previ-experimental-housing",
+  "name": "PREVI Experimental Housing",
+  "status": "unsure",
+  "commons_category": "Category:PREVI",
+  "photos": [],
+  "extras": [
+   {
+    "file": "File:PREVI計畫模型.jpg",
+    "kind": "Model",
+    "license": "CC0"
+   }
+  ],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:PREVI"
+  ],
+  "note": "No free photo of the houses: the category holds only a health centre, a police post and an exhibition model; File:Previ San Martin de Porres 1970.jpg is public domain but 997x556 and shows the site in 1970. Not drawn: PREVI is a neighbourhood of about two dozen different house types by different teams, since heavily extended by residents, so there is no single form to draw. The model photo (4000x3000, CC0, described as James Stirling's scheme) could serve as an extra."
+ },
+ {
+  "id": "palace-of-justice-punjab-and-haryana-high-court",
+  "name": "Palace of Justice (Punjab and Haryana High Court)",
+  "status": "photo",
+  "commons_category": "Category:Punjab and Haryana High Court building",
+  "photos": [
+   {
+    "file": "File:High court building from the front.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:昌迪加爾高等法院模型.jpg",
+    "kind": "Model",
+    "license": "CC0"
+   }
+  ],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Punjab_and_Haryana_High_Court_building"
+  ],
+  "note": "Viewed it: 4096x3037 frontal view of the parasol roof and the green, yellow and red pylons across the forecourt; excellent. 34 files in the category. The model photo is 4096x1844, CC0."
+ },
+ {
+  "id": "paspels-school",
+  "name": "Paspels School",
+  "status": "photo",
+  "commons_category": "Category:Oberstufenschulhaus (Paspels)",
+  "photos": [
+   {
+    "file": "File:Schulhaus Paspels 2023.JPG",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Paspels Schulhaus1.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Paspels Schulhaus2.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Paspels+Olgiati"
+  ],
+  "note": "Described as the Oberstufenschulhaus by Olgiati; chosen from descriptions, not viewed. Only Schulhaus1 is in the category; the 2023 file (4697x3306) is uncategorised. Also small public-domain shots: File:School Paspels.jpg (1191x919) and File:PAS-02.jpg (578x450)."
+ },
+ {
+  "id": "pearl-academy-of-fashion",
+  "name": "Pearl Academy of Fashion",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://www.morphogenesis.org/projects/pearl-academy-of-fashion/",
+   "https://www.dezeen.com/2009/09/08/pearl-academy-of-fashion-by-morphogenesis/"
+  ],
+  "note": "No free photo on Commons; the only hit, File:Pearlstudents.jpg, shows students painting. Not drawn: sources agree on a rectilinear block raised over a sunken water court, wrapped by a GRC jali about 4 ft off the glazed wall, but none gives the number of storeys or the openings. The jali pattern, its defining feature, also can't be drawn in our lines-only style without dense hatching."
+ },
+ {
+  "id": "qasr-al-hokm-justice-palace-and-grand-mosque",
+  "name": "Qasr Al Hokm Justice Palace and Grand Mosque",
+  "status": "photo",
+  "commons_category": "Category:Imam Turki bin Abdullah Grand Mosque",
+  "photos": [
+   {
+    "file": "File:Deera Square and Imam Turki bin Abdullah Mosque (1).jpg",
+    "license": "CC BY 3.0 pl"
+   },
+   {
+    "file": "File:Deera Square and Imam Turki bin Abdullah Mosque (2).jpg",
+    "license": "CC BY 3.0 pl"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Imam_Turki_bin_Abdullah_Grand_Mosque"
+  ],
+  "note": "Viewed both (4000x3000): Deera Square with Badran's mosque walls, square minarets and small Najdi openings. The mosque goes by Imam Turki bin Abdullah Grand Mosque on Commons."
+ },
+ {
+  "id": "rokko-housing",
+  "name": "Rokko Housing",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rokko Housing Tadao Ando.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Rokko_Housing_Tadao_Ando.jpg"
+  ],
+  "note": "Viewed it: 3008x2000, the concrete units stepping up the wooded slope, seen from the road below. No dedicated category (it sits in Category:Buildings by Andō Tadao)."
+ },
+ {
+  "id": "san-cataldo-cemetery",
+  "name": "San Cataldo Cemetery",
+  "status": "photo",
+  "commons_category": "Category:San Cataldo Cemetery (Modena)",
+  "photos": [
+   {
+    "file": "File:Cubo di Aldo Rossi del cimitero di San Cataldo.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:San Cataldo 1.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:San Cataldo Cemetery, Modena (39491410142).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:San_Cataldo_Cemetery_(Modena)"
+  ],
+  "note": "34 files, many of Rossi's cube and ossuary ranges. Chosen from descriptions, not viewed; the category also covers the older Costa cemetery next door, so check that the chosen photo shows the Rossi part."
+ },
+ {
+  "id": "santa-caterina-market",
+  "name": "Santa Caterina Market",
+  "status": "photo",
+  "commons_category": "Category:Mercat de Santa Caterina",
+  "photos": [
+   {
+    "file": "File:410 Mercat de Santa Caterina (Barcelona), façana de l'av. Francesc Cambó.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Barcelona - Mercat de Santa Caterina.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Mercat_de_Santa_Caterina"
+  ],
+  "note": "About 70 files, including the roof (Market Roof (5832285437) (2).jpg) and several facades. Chosen from descriptions, not viewed."
+ },
+ {
+  "id": "sarah-kubitschek-hospital-salvador",
+  "name": "Sarah Kubitschek Hospital Salvador",
+  "status": "unsure",
+  "commons_category": "Category:Hospital SARAH Salvador",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Hospital_SARAH_Salvador",
+   "https://commons.wikimedia.org/wiki/File:Rede_sarah,_salvador_(3643041968).jpg"
+  ],
+  "note": "No usable exterior photo. Viewed all three files: File:RedeSarah-ba.jpg (2763x1642, CC BY-SA 3.0) is two flags against the sky with only a sliver of roof; File:Rede sarah, salvador (3643041968).jpg (2580x2112, CC BY-SA 2.0) is a close-up of one curved metal element and steps, a detail rather than the building; File:LIP e Pernambués.jpg is an aerial of a road junction. Not drawn: the curved steel shed roofs are well known, but I could not establish the layout, number of sheds or storeys of this hospital on its hillside site. The 3643041968 photo could serve as a detail image if the owner wants."
+ },
+ {
+  "id": "shushtar-new-town",
+  "name": "Shushtar New Town",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Shushtar"
+  ],
+  "note": "No photo on Commons: searches in English and Persian found nothing for the new town, only the historic city. Not drawn: it is a whole neighbourhood of brick courtyard houses and lanes rather than one building, and without plans or photos I can't draw a typical street or house faithfully."
+ },
+ {
+  "id": "signal-box-auf-dem-wolf",
+  "name": "Signal Box Auf dem Wolf",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Zentralstellwerk_SBB_Basel",
+   "https://www.herzogdemeuron.com/projects/049-signal-box-auf-dem-wolf/",
+   "https://www.moma.org/collection/works/1016"
+  ],
+  "note": "No photo of Auf dem Wolf on Commons. Category:Zentralstellwerk SBB Basel holds the later Central Signal Box (1999) by the station, which has a twisting base. Careful: File:Basel - Zentralstellwerk SBB (27016613834).jpg is described as built 1991-94, but I viewed it and it shows the twisting Central box, so it is NOT Auf dem Wolf. Not drawn: sources confirm six floors, 20 cm copper strips twisted 60 degrees at the windows and no visible floor lines, but the proportions conflict (MoMA's 1:33 model, about 105.8 x 48.6 x 30.8 cm, does not match the 286 m2 footprint in H&dM's fact sheet), and I could not confirm the plan shape."
+ },
+ {
+  "id": "social-security-complex-zeyrek",
+  "name": "Social Security Complex, Zeyrek",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Zeyrek Sosyal Sigortalar Kurumu Kompleksi.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Zeyrek SGK building.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Zeyrek SGK building2.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Zeyrek+Sosyal+Sigortalar"
+  ],
+  "note": "The first file (3466x2309) is described as Eldem's complex; the two SGK files (3264x2448) as the Zeyrek SGK service building. Not viewed. No dedicated category. There are also about 20 SALT Research archive photos (Zeyrek Social Security Complex (155…).jpg), tagged only No known copyright restrictions."
+ },
+ {
+  "id": "space-group-building",
+  "name": "Space Group Building",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Space Group Building.jpg",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Space_Group_Building.jpg"
+  ],
+  "note": "Viewed it: 1600x1067, credited to Seoul Metropolitan Government. Shows Kim Swoo-geun's dark ivy-covered brick building at left, partly behind pine trees, with the later glass extension by Jang Se-yang and the hanok at right. Usable, but Kim's brick block is not the centre of the frame. In Category:Buildings in Jongno-gu, Seoul only."
+ },
+ {
+  "id": "st-louis-lambert-international-airport-terminal-1",
+  "name": "St. Louis Lambert International Airport Terminal 1",
+  "status": "photo",
+  "commons_category": "Category:Lambert-St. Louis International Airport",
+  "photos": [
+   {
+    "file": "File:Terminal 1, St. Louis Lambert International Airport, St. Louis, MO - 52832831515.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Main Terminal, Lambert-St. Louis International Airport.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "sources": [
+   "https://commons.wikimedia.org/w/index.php?search=Terminal+1+St.+Louis+Lambert"
+  ],
+  "note": "Viewed both. The first (4032x3024, by w_lemay) is the kerbside exterior with the glazed vault ends and the control tower; the curbside canopy and cars are in front. The second (1600x1200, by Matthew Hurst) is the interior under the intersecting vaults. About 9 more w_lemay files with the same description. No category for the terminal itself."
+ }
+]

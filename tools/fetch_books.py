@@ -28,7 +28,7 @@ CHOICES = ROOT / 'tools' / 'book_choices.json'
 OUT = ROOT / 'site' / 'data' / 'books.js'
 IMG = ROOT / 'site' / 'images' / 'books'
 REPORT = ROOT / 'tools' / 'books_report.md'
-UA = 'DiscoverArchitecture/1.0 (https://akshatpagariya909-svg.github.io/Pagaria/; akshatpagariya909@gmail.com; books shelf)'
+UA = 'DiscoverArchitecture/1.0 (https://findgreatarchitecture.com/; books shelf)'
 SEARCH = 'https://openlibrary.org/search.json'
 COVER = 'https://covers.openlibrary.org/b/id/{}-L.jpg?default=false'
 COVER_BY = 'https://covers.openlibrary.org/b/{}/{}-L.jpg?default=false'  # olid or isbn

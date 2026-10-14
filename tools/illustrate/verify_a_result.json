@@ -1,0 +1,698 @@
+[
+ {
+  "id": "koudougou-central-market",
+  "verdict": "fixed",
+  "features": "Market of compressed earth blocks built as vaults, domes and arches, with a covered hall of 624 stalls.",
+  "sources": [
+   "https://the.akdn/en/architecture/project/central-market",
+   "https://www.detail.de/de_en/central-market-in-koudougou-a-participatory-project-in-earth-construction-14748",
+   "https://structurae.net/en/persons/laurent-sechaud",
+   "https://commons.wikimedia.org/wiki/File:Grand_march%C3%A9_de_Koudougou.jpg",
+   "https://en.wikipedia.org/wiki/Aga_Khan_Award_for_Architecture"
+  ],
+  "note": "2007 Aga Khan Award winner (Wikipedia). AKDN gives completion 2005 and describes compressed earth blocks forming vaults, domes and arches; Detail gives 1,155 shops in 125 buildings plus 624 stands in a 3,000 m2 hall. Structurae credits Laurent Séchaud; AKDN names the Swiss Agency for Development and Cooperation as architect, so Séchaud (SDC) is fair. Pierre Jequier not found in any source. Read via search-result summaries; the pages themselves were unreachable. Old line said rows of stalls round shaded lanes, which no source states."
+ },
+ {
+  "id": "yaama-mosque",
+  "verdict": "fixed",
+  "features": "Mud-brick prayer hall, begun 1962, later given a central dome and four corner towers, built by the whole village.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yamma_Mosque",
+   "https://the.akdn/en/architecture/project/yaama-mosque",
+   "https://hkapi.lib.cuhk.edu.hk/handle/msO8s77aBT/16295",
+   "https://whc.unesco.org/fr/listesindicatives/5042/"
+  ],
+  "note": "Architect El Hadji Falké Barmou (master mason) and completion 1982 confirmed by the AKDN project page and the 1986 award listing. Wikipedia: mud brick, built 1962 by the village, later a central dome and four corner minarets. Dropped \"banded and crowned\" (only paraphrased in AKDN, not checkable here) and kept to the plain sourced facts. UNESCO tentative list spells him Elhadj Mamoudou called Falké."
+ },
+ {
+  "id": "mbaru-niang-wae-rebo",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mbaru_Niang",
+   "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/preservation-mbaru-niang",
+   "https://www.dezeen.com/2013/05/08/preservation-of-the-mbaru-niang-by-rumah-asuh/"
+  ],
+  "note": "AKAA record (via search): architect Rumah Asuh / Yori Antar, client the Wae Rebo community, designed 2008, completed 2011, shortlisted 2013. Wikipedia: conical houses tapering upward, timber frame and lontar palm thatch, tied without nails; conserved back to seven houses. Dezeen: Antar led the work with local residents building."
+ },
+ {
+  "id": "royal-academy-for-nature-conservation",
+  "verdict": "fixed",
+  "features": "Long stone building along the cliff of an old quarry beside Ajloun forest, reached by a 30 m stone bridge.",
+  "sources": [
+   "https://the.akdn/en/architecture/project/royal-academy-nature-conservation",
+   "https://archnet.org/sites/15128",
+   "https://en.wikipedia.org/wiki/Ammar_Khammash",
+   "https://jordantimes.com/node/280628"
+  ],
+  "note": "AKDN listing (via search): Khammash Architects, designed 2009-11, completed 2014; journalism gives opening Dec 2015, so 2014 stands as completion. Built on an abandoned quarry outside the reserve, following the quarry cliff line, arrival by a 30 m stone bridge. Old line said set into the reserve, which is not quite right."
+ },
+ {
+  "id": "bhong-mosque",
+  "verdict": "fixed",
+  "by": "Rais Ghazi Mohammad (patron) with local master masons and craftsmen",
+  "features": "Village mosque built and decorated over nearly fifty years, 1932-82, by craftsmen from across Pakistan and India.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bhong_Mosque",
+   "https://the.akdn/en/architecture/project/bhong-mosque",
+   "https://archnet.org/sites/505"
+  ],
+  "note": "AKDN record (via search): client Rais Ghazi Mohammad, landlord, began it in 1932; architect listed as Local Master Masons and Craftsmen; completed 1982; craftsmen from Rajasthan, calligraphers and painters from Karachi. Wikipedia: 1932-1982, 1986 Aga Khan Award. Removed \"crowded with domes, minarets and ornament\" (from photos only)."
+ },
+ {
+  "id": "palais-des-expositions-charleroi",
+  "verdict": "fixed",
+  "features": "1950s exhibition halls kept and opened up: facades taken off so the central hall becomes a covered public foyer.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+   "https://www.dezeen.com/2026/04/16/mies-van-der-rohe-award-2026/",
+   "https://www.metalocus.es/en/news/eu-mies-2026-awards-go-two-projects-reinterpret-existing",
+   "https://www.greisch.com/en/the-grand-palais-of-charleroi-receives-the-european-union-prize-for-contemporary-architecture/",
+   "https://www.greisch.com/wp-content/uploads/2023/05/Chapex-dans-Sudpresse-20230506.pdf"
+  ],
+  "note": "2026 EUmies Award winner (Wikipedia). Architects AgwA with architecten jan de vylder inge vinck, for the City of Charleroi. Year 2024 kept: Greisch lists works 2018-2023 and a May 2023 Sudpresse piece says the end of works was planned for early 2024; no exact opening date found. Original building 1948-53 by Joseph André per Metalocus (the earlier note credited Tirou and Pinkers, unconfirmed). Sources describe facades removed while floors, stairs and roof kept, the hall opened as an urban foyer and paving turned to park; nothing found on a sunken park or open-air seating, so those are removed."
+ },
+ {
+  "id": "navez-social-housing",
+  "verdict": "fixed",
+  "year": "2015",
+  "features": "Five social flats for large families in a slim corner block at the northern entrance to Brussels.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture",
+   "https://www.metalocus.es/es/noticias/en-navez-entrada-de-bruselas-5-viviendas-sociales-por-msav",
+   "https://commons.wikimedia.org/wiki/File:Logements_Navez-Portaels.jpg",
+   "https://wbarchitectures.be/sites/default/files/2024-11/WBA_CP_MIES_AWARD_2017.doc"
+  ],
+  "note": "Architects MSA with V+ for the City of Schaerbeek; 2017 EUmies Emerging Architect prize (Wikipedia). 2016 is too late: the Brussels urban-renewal photo of the finished building is dated 8 March 2015, it won a 2015 Wallonia-Brussels public-client prize, and Metalocus gives 2015. Sources say five social flats for large families on a narrow corner plot at the northern entrance; \"white\" and \"softened, curved corners\" are not stated in any source, so removed."
+ },
+ {
+  "id": "katyn-museum-warsaw",
+  "verdict": "ok",
+  "sources": [
+   "https://www.world-architects.com/en/architecture-news/works/katyn-museum",
+   "https://www.metalocus.es/en/news/katyn-museum-bbgk-architekci",
+   "https://en.wikipedia.org/wiki/Warsaw_Citadel",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "World-architects record: BBGK Architekci (Jan Belina Brzozowski, Konrad Grabowiecki), design 2013, completed 2015; 2017 EUmies finalist. In the southern part of the Warsaw Citadel (built 1830s); architects describe a cut in the rampart with a staircase between walls about 12 m high."
+ },
+ {
+  "id": "ciniba-katowice",
+  "verdict": "fixed",
+  "features": "Seven-storey library clad in red sandstone panels with narrow windows set into the pattern, echoing campus brick.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scientific_Information_Centre_and_Academic_Library",
+   "https://www.stone-ideas.com/24985/architecture-unmistakable-and-not-to-be-overlooked/",
+   "https://culture.pl/en/node/29060",
+   "https://www.archdaily.com/284180/ciniba-hs99"
+  ],
+  "note": "Wikipedia: opened 27 Sept 2012 (official 12 Oct 2012), 7 floors; competition won by a Koszalin/Radom team (HS99). Red sandstone (Indian \"Rich Kahan Red\") cladding with windows nested in the panel pattern, colour echoing the red-brick campus, confirmed by stone-ideas and culture.pl via search. \"Two interlocking blocks\" not found in any source, so removed."
+ },
+ {
+  "id": "hedge-house-wijlre",
+  "verdict": "ok",
+  "sources": [
+   "https://www.wielaretsarchitects.com/en/projects/hedge_house/",
+   "https://bmw-art-guide.com/cities/wijlre/kasteel-wijlre-estate",
+   "https://dbnl.org/tekst/_nee003200601_01/_nee003200601_01_0058.php",
+   "https://e-architect.com/holland/hedge-house-wijlre"
+  ],
+  "note": "Wiel Arets, opened 2001 (BMW Art Guide, DBNL; e-architect gives 1998-2001). Exhibition pavilion of concrete, glass and steel with an underground gallery, in a garden compartment of Kasteel Wijlre screened by hedges."
+ },
+ {
+  "id": "stuttgart-music-school",
+  "verdict": "fixed",
+  "features": "Music school on Stuttgart's Kulturmeile, marked by a tall tower that rises over its concert hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stirling_Prize",
+   "https://en.wikipedia.org/wiki/Michael_Wilford",
+   "https://presse.stuttgart-tourist.de/_Resources/Persistent/6/c/9/8/6c9870a1fb94c80e8dab6cb03bad3a7820dee5e7/05_Architektur_in_Stuttgart.pdf",
+   "https://artikeldatenbank.ernst-und-sohn.de/artikel/bst-1995-8-neubau-musikhochschule-stuttgart-1-bauabschnitt-1502",
+   "https://www-devel.inyourpocket.com/stuttgart/musikhochschulturm_25170v"
+  ],
+  "note": "Year 1996 kept: Stuttgart tourism release lists Musikhochschule (1996) and it won the 1997 Stirling Prize; the 2002 date in Wikipedia is the second construction phase. Tower confirmed (a 1995 structural article calls it 35 m, another source 50 m, so no height given) and a guide says the concert hall forms its base. Ring balconies, portholes and the drum shape are not in any source reached, so removed."
+ },
+ {
+  "id": "stormen-bodo",
+  "verdict": "fixed",
+  "features": "Concert hall with three venues and a library as a pair; the library's reading room looks out to the harbour.",
+  "sources": [
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/RIBA-International-Awards-2016/stormen",
+   "https://architecturetoday.co.uk/?p=390181",
+   "https://www.floornature.com/drdh-architects-stormen-concert-hall-and-library-bodo-norway-12102/",
+   "https://www.e-architect.com/norway/stormen-concert-hall-and-library-bodo"
+  ],
+  "note": "Architecture Today gives completion 2014; DRDH won the 2009 competition; RIBA International Award 2016 and International Prize finalist. Sources describe two buildings as an urban ensemble, three venues in the concert hall and a library reading room with a glazed facade to the harbour. \"Pale\", \"new square\" and \"tall finned front\" were not found in sources, so removed."
+ },
+ {
+  "id": "arquipelago-contemporary-arts-centre",
+  "verdict": "fixed",
+  "features": "An 1890s basalt distillery restored and joined by two new concrete buildings for art and performance.",
+  "sources": [
+   "https://www.dezeen.com/2015/02/11/arquipelago-contemporary-arts-centre-menos-e-mais-arquitectos-joao-mendes-ribeiro/",
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/RIBA-International-Awards-2016/arquipelago-contemporary-arts-center",
+   "https://www.attitude-mag.com/en/blog/all/2015-03-28-arquipelago-centro-de-artes-contemporaneas/",
+   "https://www.e-architect.com/azores/arquipelago-contemporary-arts-centre-building"
+  ],
+  "note": "Menos é Mais with João Mendes Ribeiro confirmed. Opened 29 March 2015 (Attitude); ArchDaily gives project year 2014, so 2015 as opening is fine. RIBA: 1890s sweet-potato distillery with black basalt walls; Dezeen: an alcohol and tobacco factory. New buildings are concrete, one rendered white and one with exposed dark basalt aggregate, so \"pale concrete\" was only half right and is removed."
+ },
+ {
+  "id": "toho-gakuen-school-of-music",
+  "verdict": "fixed",
+  "features": "Concrete lesson rooms spaced apart by small courtyard-like gaps, with glass corners that let views and sound through.",
+  "sources": [
+   "https://www.metalocus.es/en/news/toho-gakuen-school-music-nikken-sekkei",
+   "https://data.shinkenchiku.online/en/projects/articles/SK_2025_09_092-1",
+   "https://amp.cnn.com/cnn/style/article/riba-toho-gakuen-school-of-music",
+   "https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-international-awards/riba-international-awards-2018/2018/toho-gakuen-school-of-music",
+   "https://en.wikipedia.org/wiki/Toho_Gakuen_School_of_Music"
+  ],
+  "note": "Nikken Sekkei, 2014 (Metalocus, AEWorldMap); RIBA International Award 2018. Sources: lesson rooms exposed to the outside with small uneven courtyard-like gaps that give acoustic separation and views; wall-type reinforced concrete; glass corners let the eye through and sound faintly into corridors. \"Stacked boxes around a courtyard\" was not quite what sources say, so reworded."
+ },
+ {
+  "id": "appleby-blue-almshouse",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Witherford_Watson_Mann",
+   "https://www.dezeen.com/2023/12/01/witherford-watson-mann-appleby-blue-older-peoples-housing-london/",
+   "https://www.ribaj.com/buildings/riba-stirling-prize-2025-shortlist-witherford-watson-mann-appleby-blue/",
+   "https://architecturalrecord.com/articles/16555-in-south-london-witherford-watson-mann-offers-a-clever-take-on-the-almshouse-typology"
+  ],
+  "note": "Wikipedia lists \"2023: Appleby Blue Almshouse, Southwark\" among WWM works; 2025 Stirling Prize. Sources: 57 flats for over-65s, blue-to-brown brick, 40 x 8 m planted courtyard by Grant Associates, walkways on each level overlooking it lined with oak-framed screens."
+ },
+ {
+  "id": "weald-and-downland-gridshell",
+  "verdict": "fixed",
+  "features": "Three-domed lattice of thin green oak laths, shaped like a peanut shell, over a sunken artefact store.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weald_and_Downland_Gridshell",
+   "https://www.building.co.uk/focus/conservation-piece/6601.article",
+   "https://www.burohappold.com/projects/weald-downland-gridshell/",
+   "https://www.ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/the-weald-and-downland-gridshell"
+  ],
+  "note": "Architect, engineer and 2002 confirmed by Wikipedia. Building magazine: three rounded peaks likened to a triple peanut shell; double layer of 50 x 35 mm green oak laths. Buro Happold: workshop on top of a sunken concrete store; ICE calls it an artefact store. Changed \"archive sunk into the chalk slope\" to the sourced wording."
+ },
+ {
+  "id": "bharat-bhavan",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bharat_Bhavan",
+   "https://www.archdaily.com/791942/ad-classics-bharat-bhavan-charles-correa",
+   "https://udcsa.gsd.harvard.edu/projects/25"
+  ],
+  "note": "Wikipedia: Correa, inaugurated 13 Feb 1982, faces the Upper Lake, includes the open-air amphitheatre (Bahirang). ArchDaily AD Classics and Harvard GSD (via search): terraces and sunken courtyards stepping down the slope to the lake. Line now sourced."
+ },
+ {
+  "id": "makoko-floating-school",
+  "verdict": "fixed",
+  "features": "10 m timber A-frame on about 250 plastic barrels: play deck, louvred classrooms, open-air classroom on top.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makoko_Floating_School",
+   "https://www.dezeen.com/2014/03/25/makoko-floating-school-nigeria-nle/"
+  ],
+  "note": "Wikipedia: Kunlé Adeyemi (NLÉ), 2013; timber A-frame, playground below, classrooms with adjustable louvres, open-air classroom on the roof, about 250 plastic barrels; collapsed June 2016. Dezeen gives 10 m height. Only change: the top level is an open-air classroom, not a workshop."
+ },
+ {
+  "id": "grand-theatre-de-rabat",
+  "verdict": "fixed",
+  "features": "Sweeping curved shell on the Bou Regreg riverbank, with a muqarnas-faceted 1,821-seat hall and outdoor amphitheatre.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Theatre_of_Rabat"
+  ],
+  "note": "Wikipedia (now titled Royal Theatre of Rabat, renamed from Grand Theatre): Zaha Hadid with ZHA, completed 2021, 1,821-seat main hall with muqarnas-inspired faceted surfaces, outdoor amphitheatre, on the left bank of the Bou Regreg. Only change: \"white\" swapped for \"curved\", since the article names curved GRC surfaces but not the colour. The owner may want the name updated to Royal Theatre of Rabat."
+ },
+ {
+  "id": "nid-d-abeille-casablanca",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carri%C3%A8res_Centrales",
+   "https://www.centrepompidou.fr/es/ressources/oeuvre/ck75e4",
+   "https://fr.le360.ma/culture/casa-des-sites-une-memoire-ep6-lepopee-de-hay-mohammadi-de-la-carriere-centrale-a-lutopie-urbaine_YO4HOG55YVDJ5MSZUCT22ER7CY/"
+  ],
+  "note": "Wikipedia credits Candilis, Woods and Josic (designed 1952), and says residents named the block Nid d Abeille for its honeycomb look; Le360/Casamémoire name Bodiansky, Candilis and Woods in the 1950s. The Pompidou drawing (\"Nid d abeille R+4, étages pairs et impairs\") is dated 1953 and supports five levels with alternating floors. No firm completion date was found: 1953 is the drawing date and Wikipedia gives 1952 for the design, so keep 1953 only as the design/drawing year."
+ },
+ {
+  "id": "hotel-el-aurassi",
+  "verdict": "fixed",
+  "features": "Long 14-storey hotel slab of 455 rooms on raised ground overlooking the Bay of Algiers.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Architecture_of_Algeria",
+   "https://en.wikipedia.org/wiki/Timeline_of_Algiers",
+   "https://en.wikipedia.org/wiki/Luigi_Moretti",
+   "https://www.livetheworld.com/activities/algeria/hotel-el-aurassi"
+  ],
+  "note": "Wikipedia Architecture of Algeria lists El Aurassi Hotel (Luigi Moretti, 1975); Timeline of Algiers: in business 1975. A travel listing gives 14 storeys, 455 rooms and 31 suites, and says Moretti died before completion. Booking sites list garden-view rooms, so \"every room facing the sea\" is wrong and is removed; \"stacked podiums\" not sourced. \"Long slab\" is what the photos show."
+ },
+ {
+  "id": "notre-dame-de-lourdes-casablanca",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre-Dame_de_Lourdes_Church_(Casablanca)",
+   "https://www.aaa.com/tripcanvas/attraction/eglise-notre-dame-de-lourdes-VA16871",
+   "https://www.lonelyplanet.fr/poi/maroc-coteatlantiquemaroccg-notre-dame-de-lourdes"
+  ],
+  "note": "Wikipedia: built 1954 by Achille Dangleterre with engineer Gaston Zimmer; Gabriel Loire stained glass; long concrete entrance. Travel guides (via search) describe a tall white concrete facade, a vaulted concrete ceiling and about 800 m2 of Loire glass. Lonely Planet France gives 1956, a minority date."
+ },
+ {
+  "id": "rabindra-bhavan-delhi",
+  "verdict": "fixed",
+  "features": "Home of three national arts academies: a Y-shaped four-storey block shaded by rows of concrete sunshades.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Habib_Rahman_(architect)",
+   "https://architexturez.net/node/123710",
+   "https://www.vice.com/en/article/buildings-of-delhi/",
+   "https://dome.mit.edu/handle/1721.3/60614?show=full"
+  ],
+  "note": "Wikipedia: Habib Rahman, 1961 (or 1963), houses the Lalit Kala, Sangeet Natak and Sahitya academies; built for the Tagore centenary (1961). Architexturez: administrative, exhibition and theatre blocks; the administrative block is Y-shaped, four storeys, windows shaded by RCC sunshades in two continuous rows. \"Canopy of white concrete arches\" was from photos and not found in a source, so removed."
+ },
+ {
+  "id": "palika-kendra",
+  "verdict": "fixed",
+  "features": "21-storey, 91 m concrete tower on a curved base, one of Delhi's few brutalist buildings.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palika_Kendra",
+   "https://momove.docomomo.com/items/browse?tags=India"
+  ],
+  "note": "Wikipedia: Kuldip Singh and Mahendra Raj, inaugurated 1984, 21 storeys, 91 m, among the few Brutalist structures in Delhi. Docomomo describes \"a soaring, expressive concrete structure with a curved base\". Reworded \"base flares out in a great curve\" and \"landmark\" to the sourced wording."
+ },
+ {
+  "id": "mortonhall-crematorium",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mortonhall_Crematorium"
+  ],
+  "note": "Wikipedia: Spence, Glover and Ferguson (Basil Spence), opened 1967, set in mature woodland; walls of white calcined flint aggregate concrete blocks, tall angled fins, tall glazed slit windows. Every part of the line is sourced."
+ },
+ {
+  "id": "cultural-center-of-the-philippines",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cultural_Center_of_the_Philippines"
+  ],
+  "note": "Wikipedia: Tanghalang Pambansa (National Theater) designed by Leandro Locsin, opened 8 Sept 1969, CCP headquarters, on a reclaimed site along Roxas Boulevard. Line is sourced, though thin on design; no source description of the form was reached."
+ },
+ {
+  "id": "villa-stein-de-monzie",
+  "verdict": "ok",
+  "sources": [
+   "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-stein-de-monzie-villa-les-terrasses-france-1926-1928/",
+   "https://en.wikipedia.org/wiki/Villa_Stein",
+   "https://monumentum.fr/monument-historique/pa00088160/vaucresson-villa-stein"
+  ],
+  "note": "Fondation Le Corbusier (via search): Le Corbusier and Pierre Jeanneret, 1926-28, delivered 1928; plastered reinforced-concrete box with facades set out by regulating lines, strip windows, awning over the entrance door and balcony over the service door. \"White\" is the plaster finish; fine."
+ },
+ {
+  "id": "conjunto-nacional",
+  "verdict": "fixed",
+  "year": "1958",
+  "features": "A whole block on Avenida Paulista: low shopping arcade with a roof terrace under a 25-storey slab of flats.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conjunto_Nacional_(S%C3%A3o_Paulo)",
+   "https://skyscraperpage.com/b10952",
+   "https://www.oasejournal.nl/en/Downloads/52836222c79eb3b5f50006ab/OASE%2071%20-%207%20Sampa%20s%20solids.pdf",
+   "https://www.guiadasemana.com.br/sao-paulo/arte/estabelecimento/conjunto-nacional"
+  ],
+  "note": "David Libeskind (Brazilian, not Daniel) confirmed. Dates disagree: Wikipedia infobox 1952-1956, but its own history says the design was modified in the late 1950s; SkyscraperPage gives 1954-1958 and a São Paulo guide gives inauguration 1958, so 1958 is better supported. Wikipedia: shopping gallery fills the block, apartments in the vertical part; OASE: 25-level slab over the base, whose roof once held a restaurant with a small park (now other uses), so \"roof garden\" softened to \"roof terrace\"."
+ },
+ {
+  "id": "plaza-cubierta-ucv",
+  "verdict": "fixed",
+  "year": "1954",
+  "features": "Covered plaza made as an open museum: perforated walls, gaps in the roof and ramps among murals and sculpture.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_City_of_Caracas"
+  ],
+  "note": "Wikipedia: Villanueva; the Plaza Cubierta was inaugurated with the Aula Magna on 2 March 1954 (so 1954, not 1953); an indoor-outdoor \"open museum\" with perforated walls, sections of open roof and ramps. The artist list (Léger, Vasarely, Arp, Calder, Manaure) is campus-wide in Wikipedia and Calder is inside the Aula Magna, so the names were dropped rather than tie them all to this plaza; \"free-form concrete canopies\" also not in the source."
+ },
+ {
+  "id": "centro-simon-bolivar",
+  "verdict": "fixed",
+  "features": "Twin 103 m towers rising from two parallel wings raised on stilts, with Avenida Bolívar passing beneath.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Sim%C3%B3n_Bol%C3%ADvar_Towers",
+   "https://www.archdaily.com/es/02-324879/feliz-cumpleanos-cipriano-dominguez",
+   "https://guiaccs.com/?p=1011"
+  ],
+  "note": "Wikipedia: Cipriano Domínguez (infobox), begun 1948, opened 6 Dec 1954; twin towers 103 m rising from two parallel wings on stilts, Bolívar Avenue passes underneath. Floor count differs (32 Wikipedia, 28 guiaccs) so left out. \"Government\" towers not stated in the article, so replaced with sourced detail."
+ },
+ {
+  "id": "museo-de-bellas-artes-caracas",
+  "verdict": "fixed",
+  "features": "Villanueva's last building: a six-storey concrete annex of column-free galleries beside his 1938 museum.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Bellas_Artes_(Caracas)",
+   "https://www.sosbrutalism.org/cms/18801965",
+   "https://eldiario.com/2020/02/20/celebrando-al-museo-de-bellas-artes-un-tesoro-cultural-en-caracas/"
+  ],
+  "note": "Wikipedia: both buildings by Villanueva, a 1930s neoclassical one and a 1970s brutalist one. SOS Brutalism: annex dated 1976 (with Oscar Carmona), the last building Villanueva built; precast tensioned concrete, column-free exhibition rooms; gardens meant to extend Parque Los Caobos. Old building inaugurated 20 Feb 1938 (El Diario). Six storeys from a Lonely Planet listing. \"Stacked galleries\" reworded to sourced terms."
+ },
+ {
+  "id": "edificio-panamericano",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Panamericano",
+   "https://aroundus.com/p/4234930-edificio-panamericano",
+   "https://www.architectmagazine.com/design/urbanism-planning/the-well-worn-modernism-of-montevideo_o"
+  ],
+  "note": "Wikipedia: designed and built by Raúl A. Sichero Bouret; double-height V-shaped supports; on the coast opposite the Port of Buceo. Construction started 1960 (Wikipedia infobox), completed 1964 (aroundus). Architect magazine: sails over its site on V-shaped columns."
+ },
+ {
+  "id": "facultad-de-arquitectura-udelar",
+  "verdict": "fixed",
+  "features": "Architecture school built round a large central patio with a pond and amphitheatre, classrooms in galleries around it.",
+  "sources": [
+   "https://mvdaudiovisual.montevideo.gub.uy/en/node/107",
+   "https://impo.com.uy/bases/resoluciones/655-2000",
+   "https://en.wikipedia.org/wiki/Rom%C3%A1n_Fresnedo_Siri"
+  ],
+  "note": "Montevideo film office page and the 2000 monument decree: Fresnedo Siri with Mario Muccinelli, competition 1938, inaugurated 1946; the great central patio structures the building, with a pond and amphitheatre and classrooms in surrounding galleries. \"Stone-clad wings\" and \"long glazed front\" not found in a source, so removed."
+ },
+ {
+  "id": "torres-de-tajamar",
+  "verdict": "fixed",
+  "features": "Four apartment towers, A to D, of 28, 10, 19 and 15 floors, between Avenida Providencia and Avenida Andrés Bello.",
+  "sources": [
+   "https://www.theclinic.cl/2026/10/10/columna-de-rita-cox-torres-de-tajamar-60-anos-de-arquitectura-iconica-y-un-gran-barrio/",
+   "https://www.archdaily.com/es/tag/luis-prieto-vial",
+   "https://archivospatrimoniales.uc.cl/handle/123456789/4279?show=full"
+  ],
+  "note": "ArchDaily credits Luis Prieto Vial and BVCH (Bresciani, Valdés, Castillo, Huidobro) and gives inauguration 1967; UC archive has plans dated 1963-64 and a 1965 construction clipping, so 1967 is the completion and the Wikidata 1962-64 is not supported. Tower heights (28, 10, 19, 15 floors, about 387 flats) and location from The Clinic (Oct 2026). \"Beside Parque Uruguay\" not found in a source, replaced."
+ },
+ {
+  "id": "mambo-bogota",
+  "verdict": "fixed",
+  "features": "Salmona's exposed-brick museum: four floors joined by a central stair, lit by large windows and skylights.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Bogot%C3%A1",
+   "https://ant.culturarecreacionydeporte.gov.co/sites/default/files/convocatorias_cartillas_y_anexos/ficha_tecnica_mambo_1.pdf",
+   "https://cambiocolombia.com/cultura/la-historia-del-mambo-es-tan-importante-como-dificil-y-heroica"
+  ],
+  "note": "Year 1985 kept: IDARTES fact sheet and Cambio say the first stage opened 1979 and the building was completed (second stage opened) in 1985. Wikipedia: Salmona, four floors joined by a central staircase, exposed brick, large windows and skylights. Only \"angled rooms\" was unsourced, so removed."
+ },
+ {
+  "id": "edificio-petroperu",
+  "verdict": "fixed",
+  "by": "Daniel Arana Ríos, Walter Weberhofer",
+  "features": "22-storey brutalist headquarters of the state oil company, won in a 1970s competition, with a helipad on top.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Petroper%C3%BA",
+   "https://online.flippingbook.com/view/807394747/106-107/",
+   "https://www.archdaily.com/es/tag/arquitectura-peruana"
+  ],
+  "note": "Wikipedia: designed by Daniel Arana Ríos and Walter Weberhofer, winning entry in a competition under Velasco Alvarado in the early 1970s, inaugurated 1973 (built 1969-73 per search summary); 22 floors, three basements, helipad, brutalist. Added Arana Ríos to the credit. \"Dark tower\" and \"stepped, cantilevered base\" came from photos and are not in a source, so removed."
+ },
+ {
+  "id": "biblioteca-luis-angel-arango",
+  "verdict": "fixed",
+  "features": "Central bank's public library, opened 1958 and extended in stages over two city blocks; concrete-domed newspaper hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Arango_Library",
+   "https://en.wikipedia.org/wiki/Rafael_Esguerra",
+   "https://www.archdaily.com/1004773/architecture-classics-luis-angel-arango-library-german-samper",
+   "https://publicaciones.banrepcultural.org/index.php/bmo/article/download/21730/21851/42924"
+  ],
+  "note": "Wikipedia: Esguerra Sáenz Urdaneta Samper, first modern section opened 1958 (inaugurated 20 Feb 1958), later expansions (1965, and 1990 by Álvaro Rivera Realpe), two whole blocks; Rafael Esguerra article credits the concrete dome of the Hemeroteca. \"Stone-clad\" and \"projecting upper floor screened by slats\" not found in a source, so replaced."
+ },
+ {
+  "id": "fredensborg-houses",
+  "verdict": "ok",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fredensborg_Houses"
+  ],
+  "note": "Wikipedia (History and architecture section): completed in 1963; courtyard houses on a slope, each with a view over a green slope, gardens enclosed by outer walls. All parts sourced."
+ },
+ {
+  "id": "opera-village-laongo",
+  "verdict": "fixed",
+  "features": "Village of school, health centre and houses on a laterite plateau, begun in 2010 with Christoph Schlingensief.",
+  "sources": [
+   "https://kerearchitecture.com/work/building/opera-village",
+   "https://www.studiomatrx.org/guides/opera-village",
+   "https://theculturetrip.com/africa/articles/a-burkinab-opera-village-in-the-desert",
+   "https://architecturalrecord.com/articles/5925-center-for-health-care-and-social-promotion"
+  ],
+  "note": "Work began early 2010 (foundation stone 2010); the primary school opened in autumn 2011 (Culture Trip 8 Oct, Studio Matrx Nov), so 2011 stands as the school opening; the health centre followed (dated 2010-14). Kéré with the late Schlingensief; site is the laterite plateau at Laongo, about 30 km from Ouagadougou. \"Local brick and earth, deep-set windows and shading roofs\" were from the photos and sources conflict on roofs (Architectural Record says the clinic has no overhang), so removed."
+ },
+ {
+  "id": "temple-street-parking-garage",
+  "verdict": "fixed",
+  "features": "Long concrete car park for 1,280 cars on arched double columns, bridging George Street, with shops below.",
+  "sources": [
+   "https://sah-archipedia.org/node/83400",
+   "https://paulrudolph.institute/195901-temple-street-parking-garage",
+   "https://www.newhavenindependent.org/article/new_exhibit_rehabilitates_paul_rudolph",
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)"
+  ],
+  "note": "SAH Archipedia: Paul Rudolph, 1959-1963 (restored 2002); reinforced-concrete, two blocks long, bridges George Street, 1,280 cars, ground-floor shops; arches likened to a Roman aqueduct, balustrade broken at the double columns. \"Tree-like columns\" not in a source, so reworded."
+ },
+ {
+  "id": "wurster-hall",
+  "verdict": "fixed",
+  "features": "Berkeley's architecture school: a raw concrete tower and wings round a courtyard, hung with 592 sunshades.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wurster_Hall",
+   "https://capitalstrategies.berkeley.edu/news/%E2%80%9C-ruin-no-regent-would-%E2%80%9D-making-bauer-wurster-hall",
+   "https://exhibits.ced.berkeley.edu/exhibits/show/finished-unfinished/a-plan-elevated"
+  ],
+  "note": "Wikipedia (CED article): Esherick, DeMars and Olsen, opened 1964, renamed Bauer Wurster Hall in 2020. UC Berkeley Capital Strategies: raw concrete (béton brut), a tower and a courtyard were early requirements, 592 sunshades in all, inspired by Le Corbusier brise-soleil. Replaced \"long wings ... deep concrete sunshades\" with sourced wording."
+ },
+ {
+  "id": "hygiene-institute-berlin",
+  "verdict": "fixed",
+  "features": "Sculptural concrete research and teaching building, listed as a key work of organic and brutalist post-war modernism.",
+  "sources": [
+   "https://www.berlin.de/landesdenkmalamt/aktuelles/kurzmeldungen/2021/institut-fuer-hygiene-und-mikrobiologie-unter-denkmalschutz-1042186.php",
+   "https://www.berlin.de/sen/kultgz/aktuelles/pressemitteilungen/2021/pressemitteilung.1042307.php",
+   "https://www.archinform.net/arch/2738.htm"
+  ],
+  "note": "Landesdenkmalamt Berlin (via search): Hermann Fehling and Daniel Gogel, 1969-74 for the Free University, listed Jan 2021; expressive sculptural forms, deliberately showcased concrete, \"important contribution to organic and brutalist post-war modernism\"; across the Teltow Canal from the Mäusebunker. Archinform gives 1966-74. \"Curving wings, outside stairs, lecture hall wedge\" were from photos and not found in a source, so removed."
+ },
+ {
+  "id": "athenee-francais-tokyo",
+  "verdict": "fixed",
+  "features": "French-language school in sculptural concrete, its walls painted a pink Yoshizaka called \"sunset over the Andes\".",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takamasa_Yoshizaka",
+   "https://visit-chiyoda.tokyo/app/spot/detail/546",
+   "https://www.bunka.go.jp/nama/global/eng/archivalcollections/yosizaka/index.html",
+   "https://tokyoartbeat.com/en/events/-/2022%2Ftakamasa-yosizaka"
+  ],
+  "note": "Wikipedia works list: 1962 Athénée Français; AIJ Prize confirmed (designboom/MOT). The national archive dates the project 1960-81 because of later additions, so 1962 is the first building. Chiyoda tourism page: the pink walls were painted to Yoshizaka colour named \"sunset sinking into the Andes\". \"Deep purple\" and \"small openings\" not found in a source, so removed."
+ },
+ {
+  "id": "national-museum-of-japanese-history",
+  "verdict": "fixed",
+  "features": "Long, low national history museum on the former grounds of Sakura Castle, where the old moat survives.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Japanese_History",
+   "https://kotobank.jp/word/%E8%8A%A6%E5%8E%9F%E7%BE%A9%E4%BF%A1-175943",
+   "https://jal.japantravel.com/chiba/national-museum-of-japanese-history/63743",
+   "https://ashihara.jp/da/html/intr0201e.htm"
+  ],
+  "note": "Ashihara confirmed (Kotobank: his 1984 Japan Art Academy Prize was for this building; Japan Travel). Wikipedia: founded 1981, opened 1983. Year 1980 rests only on Ashihara office page (unreachable here); if the wall uses opening years, use 1983. Japan Travel: on the former Sakura Castle grounds, only the moat and a bridge survive. Brick forecourt and vaulted canopy not found in a source, so removed; \"long, low\" is what the photos show."
+ },
+ {
+  "id": "united-nations-university",
+  "verdict": "fixed",
+  "features": "Symmetrical tower that steps in as it rises, set back from Aoyama-dori behind a front plaza.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_Nations_University",
+   "https://whereintokyo.com/venues/25650.html",
+   "https://unu.edu/conversation-series/unu-headquarters-building-iconic-architecture-reflection-international"
+  ],
+  "note": "Wikipedia: designed by Kenzo Tange, handed over 30 June 1992, inaugurated 17 Feb 1993; Where in Tokyo: Kenzo Tange Associates, completed 1992, on Aoyama-dori. No source describing the form was reachable, so this is a cautious line naming only what photos plainly show (symmetry, stepped profile, front plaza); \"ziggurat\" and \"pointed glass top\" dropped."
+ },
+ {
+  "id": "media-tic",
+  "verdict": "ok",
+  "sources": [
+   "https://www.worldconstructionnetwork.com/projects/media-tic",
+   "https://www.onofficemagazine.com/architecture/media-tic-building-by-cloud-9",
+   "https://www.theplan.it/eng/magazine/2010/the-plan-044-09-2010/media-tic"
+  ],
+  "note": "Cloud 9 (Enric Ruiz-Geli), inaugurated September 2010 in 22@Barcelona, ICT offices; steel frame with about 104 inflatable ETFE cushions on the sunny facades that shade the inside (World Construction Network, On Office). \"Cube\" is what photos show."
+ },
+ {
+  "id": "dornbusch-church",
+  "verdict": "fixed",
+  "features": "1960s church partly torn down and closed by a new wall keeping imprints of the old; its footprint is marked outside.",
+  "sources": [
+   "https://www.meixner-schlueter-wendt.de/en/projects/dornbusch-church/",
+   "https://meixner-schlueter-wendt.de/en/profile/",
+   "https://en.wikipedia.org/wiki/Meixner_Schl%C3%BCter_Wendt_Architekten"
+  ],
+  "note": "Architects page: 2005; the open side left by the demolition closed with a new wall of concrete and masonry that keeps the indentations and imprints of the former structure; the footprint of the demolished church marked on the plaza asphalt. \"Folded wall\" not in the source, so reworded."
+ },
+ {
+  "id": "unilever-haus-hamburg",
+  "verdict": "ok",
+  "sources": [
+   "https://behnisch.com/work/unilever-house",
+   "https://fabricarchitecturemag.com/2010/11/01/case-study-1-unileverhaus/",
+   "https://www.baunetzwissen.de/fassade/objekte/buero-verwaltung/unilever-zentrale-in-hamburg-1571241",
+   "https://www.form-tl.de/en/project/folienfassade-unilever-gebaeude-hamburg-d/"
+  ],
+  "note": "Behnisch Architekten, 2009 (competition 2006), on the Elbe in HafenCity; central daylit atrium open to the public at ground level; single-layer ETFE foil outer skin to protect the blinds from strong harbour winds (Fabric Architecture, Baunetz, formTL). Now sourced."
+ },
+ {
+  "id": "max-aicher-arena",
+  "verdict": "fixed",
+  "features": "Hall about 200 m by 90 m with no inner columns, roofing over the old outdoor speed-skating oval.",
+  "sources": [
+   "https://swiss-architects.com/de/behnisch-architekturburo/project/max-aicher-arena",
+   "https://en.wikipedia.org/wiki/Max_Aicher_Arena",
+   "https://en.wikipedia.org/wiki/List_of_World_Architecture_Festival_winners"
+  ],
+  "note": "Project profile (world-architects network): Behnisch Architekten with Pohl Architekten, planned and built 2008-2011, wide-span hall about 200 x 90 m without interior columns, new roof over the existing outdoor track for the 2011 World Single Distance Championships; WAF 2011 sport winner. Pohl co-credit confirmed. Rooflights and \"flat-arched\" not found in a source, so removed."
+ },
+ {
+  "id": "arena-zagreb",
+  "verdict": "fixed",
+  "features": "Oval arena wrapped in 86 curved white concrete ribs that hold up a cable-hung roof spanning 110 m.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arena_Zagreb"
+  ],
+  "note": "Wikipedia: UPI-2M (with Decathlon, Athens, as consultant), built 20 July 2007 to 15 Dec 2008; 86 massive curved concrete columns form a ribbed exterior like a white oval shell; roof suspended on cables over a 110 m span; WAF 2009 Structural Design of the Year. \"Bend outward at the top\" not stated, so replaced with sourced detail."
+ },
+ {
+  "id": "museo-memoria-y-tolerancia",
+  "verdict": "fixed",
+  "features": "Seven-level concrete and steel museum facing the Alameda, wrapped round an atrium with a floating Children's Memorial.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Memory_and_Tolerance_Museum",
+   "https://www.archiweb.cz/en/b/muzeum-vzpominek-a-tolerance-museo-memoria-y-tolerancia",
+   "https://aasarchitecture.com/2013/03/museum-of-memory-and-tolerance-by-arditti-rdt-architects/",
+   "https://expansion.mx/obras/2010/10/11/museo-de-memoria-y-tolerancia-llega-a-df"
+  ],
+  "note": "Arditti + RDT Arquitectos confirmed; project 2004, completed 2010, opened 18 Oct 2010 (Wikipedia: established 2010). Seven levels in reinforced concrete and steel, opposite the Alameda, main volume wraps a \"floating\" Children's Memorial in the atrium. \"Heavy stone volumes cut by tall glazed openings\" not found in a source, so replaced."
+ },
+ {
+  "id": "hotel-jakarta-amsterdam",
+  "verdict": "ok",
+  "sources": [
+   "https://www.search.nl/works/hotel-jakarta/",
+   "https://www.baunetzwissen.de/nachhaltig-bauen/objekte/wohnen/hotel-jakarta-in-amsterdam-6437788",
+   "https://architizer.com/projects/hotel-jakarta/"
+  ],
+  "note": "SeARCH project page: built 2013-2018 for WestCord on Java-eiland; 30 m load-bearing timber structure with 176 prefabricated rooms; central atrium holds a subtropical garden planned with the Hortus Botanicus. Baunetz calls it a steel, timber and glass hybrid, so \"timber-framed\" is fair."
+ },
+ {
+  "id": "ravenscar-house-museum",
+  "verdict": "fixed",
+  "features": "House museum of precast concrete faced with crushed earthquake rubble, its rooms set out like a home by a courtyard.",
+  "sources": [
+   "https://www.scoop.co.nz/stories/CU2110/S00042.htm",
+   "https://homeofarchitecture.co.nz/home-of-the-arts/",
+   "https://www.canterburymuseum.com/explore/latest-news/october-2018-start-of-work-planned-for-ravenscar-house",
+   "https://thelocalproject.com.au/articles/ravenscar-by-patterson-associates-issue-09-feature-the-local-project/"
+  ],
+  "note": "Patterson Associates; opened Monday 8 November 2021 (Scoop, Cityscape). Precast panels faced with crushed rubble from the earthquake-destroyed Scarborough house; foyer and four rooms (dining, bedroom, living, library) round a central courtyard (Canterbury Museum). \"Folded\" volumes not in a source, so replaced."
+ },
+ {
+  "id": "sony-city-osaki",
+  "verdict": "ok",
+  "sources": [
+   "https://www.archdaily.com/529486/building-skin-developed-that-could-cool-our-cities",
+   "https://materialdistrict.com/article/worlds-first-cooling-bioskin-facade/",
+   "https://www.e-architect.com/tokyo/sony-city-osaki",
+   "https://artscape.jp/report/review/author/1192004_1838,1,list1,512.html"
+  ],
+  "note": "Nikken Sekkei; completed March 2011 (artscape). BioSkin: stored roof rainwater pumped through porous ceramic pipes on the east facade (in the balcony rails), evaporating to cool the air (ArchDaily, MaterialDistrict)."
+ },
+ {
+  "id": "belarusian-memorial-chapel",
+  "verdict": "fixed",
+  "year": "2016",
+  "features": "Small timber chapel modelled on Belarus's wooden churches, cedar-shingled, a memorial to the victims of Chernobyl.",
+  "sources": [
+   "https://www.dezeen.com/2016/12/17/wooden-belarusian-memorial-chapel-dedicated-chernobyl-nuclear-disaster-spheron-architects-london-england/",
+   "https://ribaj.com/culture/remembering-chernobyl",
+   "https://www.woodawards.com/portfolio/belarusian-memorial-chapel-2/",
+   "https://nationalchurchestrust.org/node/1629"
+  ],
+  "note": "Spheron Architects (Tszwai So) confirmed. Dezeen (17 Dec 2016) already reports it complete and RIBAJ expected completion by end of 2016; 2017 is the Wood Awards year, so year changed to 2016. Wood Awards lists Douglas fir, radiata pine and western red cedar, not oak; cedar shingles. \"Oak\" and \"shingled dome on a slender tower\" removed."
+ },
+ {
+  "id": "victoria-gate-leeds",
+  "verdict": "fixed",
+  "features": "Department store in a woven-looking terracotta diagrid that recalls Leeds textiles, beside glass-roofed arcades.",
+  "sources": [
+   "https://architecturetoday.co.uk/?p=35699",
+   "https://www.ajbuildingslibrary.co.uk/projects/display/id/7924",
+   "https://www.archinect.com/acme/release/leeds-city-centre-grows-eastwards-with-the-long-awaited-opening-of-victoria-gate",
+   "https://acme.ac/blogs/projects/leeds-carpark"
+  ],
+  "note": "ACME, 2011-2016, opened 2016; WAF 2017 shopping winner. The John Lewis store has a layered terracotta diagrid likened to woven fabric and tied to Leeds textile history; the twisting aluminium fins are on the car park, not the store, so the line was corrected. Arcades have a glazed roofscape after Leeds Victorian arcades."
+ },
+ {
+  "id": "sara-kulturhus",
+  "verdict": "fixed",
+  "features": "Culture centre and 20-storey hotel tower built in timber; the hotel is stacked prefabricated CLT room modules.",
+  "sources": [
+   "https://www.dezeen.com/2021/10/08/sara-kulturhus-skelleftea-sweden-white-arkitekter/",
+   "https://www.theplan.it/eng/architecture/sara-cultural-centre-in-skellefte%C3%A5-sweden-a-magnificent-state-of-the-art-green-building",
+   "https://architectureanddesign.com.au/News/75m-Swedish-building-among-tallest-timber-towers"
+  ],
+  "note": "White Arkitekter, opened 2021 (Dezeen Oct 2021). 75 m, 20-storey hotel tower (The Wood Hotel) of prefabricated CLT volume modules stacked between two CLT lift cores; low-rise part in glulam and CLT, no load-bearing concrete. Storey count now sourced. \"Inside a glass skin\" not stated, replaced."
+ },
+ {
+  "id": "forskaren-stockholm",
+  "verdict": "fixed",
+  "year": "2024",
+  "features": "Round seven-storey life-science hub, its glass facade lined with vertical wooden slats, around a large central atrium.",
+  "sources": [
+   "https://www.dezeen.com/2024/05/09/3xn-forskaren-innovation-hub-stockholm/",
+   "https://designwanted.com/3xn-architects-forskaren/",
+   "https://www.mynewsdesk.com/se/vectura-fastigheter/pressreleases/forskaren-wins-2025-uli-europe-award-for-excellence-3418780",
+   "https://designdekko.com/news/day-one-winners-of-waf-2024-international-architectural-awards-announced"
+  ],
+  "note": "3XN for Vectura. Dezeen announced the opening in May 2024 and another source says it was fully complete in August 2024 when the last tenants moved in; Commons photos from Oct 2022 show the shell from a distance, so 2022 is too early. Circular plan, seven floors joined by a spiral stair in a large inner atrium, glass facade with vertical wooden slats (Dezeen). \"Slim fins\" were wooden slats; reworded."
+ },
+ {
+  "id": "paula-fox-melanoma-and-cancer-centre",
+  "verdict": "fixed",
+  "year": "2024",
+  "features": "Six-storey cancer centre on St Kilda Road, wrapped in a light-filtering facade veil modelled on healthy skin.",
+  "sources": [
+   "https://www.architecture.com.au/archives/awards/paula-fox-melanoma-and-cancer-centre",
+   "https://ancr.com.au/wp-content/uploads/project_gallery/paula_fox_melanoma_and_cancer_centre.pdf",
+   "https://www.kane.com.au/news/2025/mbav-excellence-in-construction-kane-wins-top-honours-for-paula-fox-melanoma-and-cancer-centre",
+   "https://urbis.com.au/projects/paula-fox-melanoma-cancer-centre"
+  ],
+  "note": "Lyons for Alfred Health, built by Kane; officially opened 19 April 2024 (construction from 2022), so 2023 changed to 2024. Sources describe one six-storey building with a facade veil based on the outer layer of skin (ANCR: skin graft). \"Two rounded glass towers pulling apart\" and \"white entrance canopy\" not found in a source, so replaced."
+ },
+ {
+  "id": "alila-villas-uluwatu",
+  "verdict": "ok",
+  "sources": [
+   "https://www.robaid.com/tech/green-architecture-alila-villas-uluwatu-eco-resort.htm",
+   "https://www.catalan-architects.com/de/woha-singapore/project/alila-villas-uluwatu",
+   "https://my.asiatatler.com/lifestyle/travel/the-suite-spot-alila-villas-uluwatu-bali-hotel-review"
+  ],
+  "note": "WOHA, opened June 2009. Sources: low terraced roofs of volcanic pumice following the clifftop slope, walls of stone from the site, reclaimed ironwood (ulin) for doors, trellises and panelling. Line is supported."
+ },
+ {
+  "id": "shanghai-suhe-mixc-world",
+  "verdict": "fixed",
+  "year": "2022",
+  "features": "Shopping centre under a park on Suzhou Creek: planted slopes step down into an \"urban valley\" to the shops.",
+  "sources": [
+   "https://world-architects.com/en/projects/view/shanghai-suhe-mixc-world",
+   "https://www.architizer.com/projects/shanghai-suhe-mixc-world",
+   "https://www.archiposition.com/?p=309447"
+  ],
+  "note": "Kokaistudios for CR Land. Archiposition gives completion October 2022, so 2021 changed to 2022 (no source for 2021 found). World-architects: shops below ground under a 42,000 m2 green site on Suzhou Creek, stepped slopes lead down from the green surface into an \"urban valley\". \"Curving\" terraces not stated, removed."
+ },
+ {
+  "id": "dalarna-media-library",
+  "verdict": "fixed",
+  "year": "2014",
+  "features": "University library clad in larch behind horizontal polished-steel slats; a spiral ramp rises round its atrium.",
+  "sources": [
+   "https://www.dezeen.com/2014/07/11/adept-dalarna-media-library-falun-sweden/",
+   "https://extranet.worldstainless.org/Files/issf/non-image-files/PDF/Built_to_Last/English/Dalarna_Media_Library_en.pdf",
+   "https://www.builderonline.com/project-gallery/dalarna-media-library/",
+   "https://divisare.com/projects/331787-adept-dalarna-media-library"
+  ],
+  "note": "ADEPT for Högskolan Dalarna; completed 2014 (Builder lists Year Completed 2014; Dezeen July 2014), so 2013 changed. Facade: horizontal polished stainless-steel lamellae over Siberian larch cladding, made with artist Jeppe Hein (ISSF); spiral ramp through a central atrium. The slats are steel, not wood, and they reflect rather than filter light, so the line was rewritten."
+ }
+]

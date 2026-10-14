@@ -1,0 +1,58 @@
+china-academy-of-art-xiangshan-campus  # lead photo didn't show the building; see recheck.md
+corniche-mosque  # lead photo didn't show the building; see recheck.md
+heritance-ahungalla  # lead photo didn't show the building; see recheck.md
+disney-ice-anaheim-ice  # lead photo didn't show the building; see recheck.md
+palais-bulles  # lead photo didn't show the building; see recheck.md
+douglas-house-harbor-springs  # lead photo didn't show the building; see recheck.md
+elrod-house  # lead photo didn't show the building; see recheck.md
+walsh-street-house  # lead photo didn't show the building; see recheck.md
+noyes-house-new-canaan  # lead photo didn't show the building; see recheck.md
+villa-girasole  # lead photo didn't show the building; see recheck.md
+teatro-del-mondo  # lead photo didn't show the building; see recheck.md
+vele-di-scampia  # lead photo didn't show the building; see recheck.md
+villa-la-saracena  # lead photo didn't show the building; see recheck.md
+banca-popolare-di-verona  # lead photo didn't show the building; see recheck.md
+ceramica-solimene  # lead photo didn't show the building; see recheck.md
+olivetti-pozzuoli  # lead photo didn't show the building; see recheck.md
+punta-nave-rpbw  # lead photo didn't show the building; see recheck.md
+house-before-house  # lead photo didn't show the building; see recheck.md
+world-peace-gate  # lead photo didn't show the building; see recheck.md
+uae-pavilion-expo-2020  # lead photo didn't show the building; see recheck.md
+dubai-frame  # lead photo didn't show the building; see recheck.md
+al-bahr-towers  # lead photo didn't show the building; see recheck.md
+sheikh-jaber-al-ahmad-cultural-centre  # lead photo didn't show the building; see recheck.md
+tbilisi-wedding-palace  # lead photo didn't show the building; see recheck.md
+druzhba-sanatorium-kurpaty  # lead photo didn't show the building; see recheck.md
+royal-netherlands-embassy-addis-ababa  # drawing too sparse to read as the building (Oct 13 review)
+fisterra-cemetery  # drawing shows 6 boxes, sources say 14 (Oct 13 review)
+leutschenbach-school  # lead photo still didn't show the building (Oct 13 review)
+tour-cma-cgm  # lead photo still didn't show the building (Oct 13 review)
+lycabettus-theatre  # lead photo still didn't show the building (Oct 13 review)
+asia-culture-center  # lead photo still didn't show the building (Oct 13 review)
+baldwin-hills-village  # lead photo still didn't show the building (Oct 13 review)
+general-motors-technical-center  # lead photo still didn't show the building (Oct 13 review)
+philip-merrill-environmental-center  # lead photo still didn't show the building (Oct 13 review)
+evelyn-grace-academy  # lead photo still didn't show the building (Oct 13 review)
+children-village-canuana  # drawing too generic to read as the building (Oct 13 review)
+corbusierhaus-berlin  # duplicate: already on the wall as unite-d-habitation-berlin
+edificio-esther-sao-paulo  # duplicate of edificio-esther (round 4 Latin America)
+palazzo-mondadori  # duplicate of mondadori-palace (round 4 Pritzker)
+hotel-ivoire  # lead photo didn't show the building (Oct 13 review)
+iifm-bhopal  # lead photo didn't show the building (Oct 13 review)
+parliament-house-islamabad  # lead photo didn't show the building (Oct 13 review)
+openluchtschool-amsterdam  # lead photo didn't show the building (Oct 13 review)
+unite-dhabitation-reze  # lead photo didn't show the building (Oct 13 review)
+kanagawa-prefectural-music-hall  # lead photo didn't show the building (Oct 13 review)
+park-hotel-shanghai  # lead photo didn't show the building (Oct 13 review)
+conservatorio-nacional-de-musica  # lead photo didn't show the building (Oct 13 review)
+plaza-de-mercado-girardot  # lead photo didn't show the building (Oct 13 review)
+ivar-aasen-centre  # lead photo didn't show the building (Oct 13 review)
+miyakonojo-civic-hall  # demolished 2019-20; waiting on the owner's call on lost buildings
+anji-bridge  # a bridge, not a building (round 6 review)
+monument-to-the-peoples-heroes  # a monument, not a building (round 6 review)
+bolte-bridge  # a bridge, not a building (round 6 review)
+job-600-accra  # fact check: architect or year not found in any source
+bagno-pubblico-bellinzona  # held back in round 6 review: no clear free photo of the building
+museum-university-navarra  # held back in round 6 review: no clear free photo of the building
+escola-do-cedro  # held back in round 6 review: no clear free photo of the building
+xanadu-calp  # held back in round 6 review: no clear free photo of the building

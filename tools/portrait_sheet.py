@@ -1,0 +1,57 @@
+"""Contact sheet of the portraits found by hand, for review by eye.
+
+  python -u tools/portrait_sheet.py
+
+Reads tools/portraits_found*.json and tools/firms_found.json (see tools/portraits_BRIEF.md, tools/firms_BRIEF.md), downloads a 300px thumbnail of
+each "found" file from Commons and writes tools/portraits_found.jpg, numbered in file order.
+Runs on GitHub Actions (tools/run_request.txt), since the sandbox can't reach Wikimedia.
+"""
+import io
+import json
+import urllib.parse
+import urllib.request
+from pathlib import Path
+from PIL import Image, ImageDraw
+
+ROOT = Path(__file__).resolve().parent.parent
+UA = {'User-Agent': 'DiscoverArchitecture/1.0 (https://findgreatarchitecture.com/; portrait review)'}
+
+
+def thumb(title):
+    q = urllib.parse.urlencode({'action': 'query', 'titles': title, 'prop': 'imageinfo', 'iiprop': 'url', 'iiurlwidth': 300, 'format': 'json'})
+    with urllib.request.urlopen(urllib.request.Request('https://commons.wikimedia.org/w/api.php?' + q, headers=UA), timeout=40) as r:
+        page = next(iter(json.load(r)['query']['pages'].values()))
+    url = page['imageinfo'][0]['thumburl']
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
+        return Image.open(io.BytesIO(r.read())).convert('RGB')
+
+
+def main():
+    found = []  # every face found by hand: portraits_found*.json, and firms_found.json's together photos and founders
+    for f in [ROOT / 'tools' / 'portraits_found.json'] + sorted((ROOT / 'tools').glob('portraits_found_*.json')):
+        found += [x for x in json.loads(f.read_text(encoding='utf-8')) if x['status'] == 'found']
+    firms = ROOT / 'tools' / 'firms_found.json'
+    for x in json.loads(firms.read_text(encoding='utf-8')) if firms.exists() else []:
+        if x.get('together'):
+            found.append({'name': x['firm'] + ' (together)', 'file': x['together']['file']})
+        found += [{'name': n, 'file': v['file']} for n, v in (x.get('portraits') or {}).items()]
+    W, H, cols = 260, 330, 6
+    sheet = Image.new('RGB', (W * cols, H * ((len(found) + cols - 1) // cols)), 'white')
+    d = ImageDraw.Draw(sheet)
+    for k, x in enumerate(found):
+        c, r = k % cols, k // cols
+        try:
+            im = thumb(x['file'])
+            im.thumbnail((W - 10, H - 40))
+            sheet.paste(im, (c * W + 5, r * H + 5))
+        except Exception as e:
+            d.text((c * W + 5, r * H + 20), f'failed: {e}'[:40], fill='red')
+        d.text((c * W + 5, r * H + H - 30), f"{k} {x['name']}"[:40], fill='black')
+    out = ROOT / 'tools' / 'portraits_found.jpg'  # the workflow commits only site/ and tools/
+    out.parent.mkdir(exist_ok=True)
+    sheet.save(out, quality=85)
+    print(f'{len(found)} portraits on {out}')
+
+
+if __name__ == '__main__':
+    main()

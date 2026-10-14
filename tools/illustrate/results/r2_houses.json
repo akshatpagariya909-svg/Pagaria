@@ -1,0 +1,1495 @@
+[
+ {
+  "id": "margaret-esherick-house",
+  "name": "Margaret Esherick House",
+  "by": "Louis Kahn",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1961",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Deep recessed window walls in a plain stucco box; wooden shutters control light and view separately.",
+  "status": "photo",
+  "commons_category": "Category:Esherick House",
+  "photos": [
+   {
+    "file": "File:Esherick House Philly A.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Esherick House Philly B.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Esherick House Philly C.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Esherick Kahn C Hill.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:MARGARET ESHERICK HOUSE, PHILADELPHIA PA.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Elevations - Margaret Esherick House, 204 Sunrise Lane, Philadelphia, Philadelphia County, PA HABS PA-6775 (sheet 2 of 4).tif",
+    "kind": "Elevation",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Details - Margaret Esherick House, 204 Sunrise Lane, Philadelphia, Philadelphia County, PA HABS PA-6775 (sheet 4 of 4).tif",
+    "kind": "Drawing",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Esherick_House",
+   "https://en.wikipedia.org/wiki/Margaret_Esherick_House"
+  ],
+  "note": "Several free exterior photos (public domain) plus HABS measured drawings."
+ },
+ {
+  "id": "frey-house-ii",
+  "name": "Frey House II",
+  "by": "Albert Frey",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1964",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Climate response"
+  ],
+  "features": "Small glass and steel box built around a boulder on the mountainside, under a sloping corrugated metal roof.",
+  "status": "photo",
+  "commons_category": "Category:Frey House II",
+  "photos": [
+   {
+    "file": "File:Albert Frey House (Palm Springs, California).jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Frey_House_II",
+   "https://en.wikipedia.org/wiki/Frey_House_II"
+  ],
+  "note": "Only one free photo (4123x2748), seen from the Museum Trail; check it reads well as a tile."
+ },
+ {
+  "id": "stahl-house",
+  "name": "Stahl House (Case Study House #22)",
+  "by": "Pierre Koenig",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1960",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Cantilever",
+   "Landscape"
+  ],
+  "features": "L-shaped steel and glass pavilion cantilevered over the Hollywood Hills, with deep flat roof overhangs.",
+  "status": "photo",
+  "commons_category": "Category:Stahl House",
+  "photos": [
+   {
+    "file": "File:Case Study House 22 (Stahl House) (49841751833).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Case Study House 22 (Stahl House) (49842291096).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Stahl House 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Stahl House 7.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Case Study House No. 22.JPG",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Julius Shulman - Case Study House 22, Arts & Architecture, June 1960 (page 15 crop 3).jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Stahl_House",
+   "https://en.wikipedia.org/wiki/Stahl_House"
+  ],
+  "note": "Many free photos, including public-domain Julius Shulman photos from Arts & Architecture (1960)."
+ },
+ {
+  "id": "hooper-house-ii",
+  "name": "Hooper House II",
+  "by": "Marcel Breuer",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": "1959",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Landscape"
+  ],
+  "features": "Long fieldstone wall with an opening through its middle into a courtyard; glass faces the landscape behind.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Livingroomwindow.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Livingroomwindow.jpg"
+  ],
+  "note": "Only one free photo (2592x1944), of the rear facade by the living room; filed under Category:Buildings by Marcel Breuer, no own category. Year 1959 from Breuer catalogues; Commons files it under 'Houses built in Maryland in 1960'."
+ },
+ {
+  "id": "douglas-house-harbor-springs",
+  "name": "Douglas House",
+  "by": "Richard Meier",
+  "city": "Harbor Springs",
+  "cc": "US",
+  "year": "1973",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Section",
+   "Promenade"
+  ],
+  "features": "White house on a steep slope to Lake Michigan, entered by a bridge at roof level; glass faces the lake.",
+  "status": "photo",
+  "commons_category": "Category:Richard Meier buildings",
+  "photos": [
+   {
+    "file": "File:Douglas House.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Section of Douglas House.jpg",
+    "kind": "Section",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Douglas_House.jpg",
+   "https://en.wikipedia.org/wiki/Douglas_House_(Harbor_Springs,_Michigan)"
+  ],
+  "note": "One free photo (1719x2183, portrait) plus a section drawing."
+ },
+ {
+  "id": "chemosphere",
+  "name": "Chemosphere (Malin Residence)",
+  "by": "John Lautner",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1960",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Octagonal house balanced on a single concrete column on a steep hillside, reached by a funicular.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:John Lautner's Chemosphere (8189866290).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:052607-001-Chemosphere.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Chemosphere 2012.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Chemosphere.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:John_Lautner%27s_Chemosphere_(8189866290).jpg"
+  ],
+  "note": "Several free exterior photos."
+ },
+ {
+  "id": "elrod-house",
+  "name": "Elrod House",
+  "by": "John Lautner",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1968",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Circular living room under a concrete roof of radiating wedges with glass between them, built into desert boulders.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:ELROD HOUSE, PALM SPRINGS, RIVERSIDE COUNTY, CA.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:ELROD_HOUSE,_PALM_SPRINGS,_RIVERSIDE_COUNTY,_CA.jpg",
+   "https://en.wikipedia.org/wiki/Elrod_House"
+  ],
+  "note": "One free photo (2784x1848); private house, check it shows the building clearly rather than just the gate."
+ },
+ {
+  "id": "upper-lawn-pavilion",
+  "name": "Upper Lawn Pavilion",
+  "by": "Alison and Peter Smithson",
+  "city": "Tisbury",
+  "cc": "GB",
+  "year": "1962",
+  "type": "House",
+  "movement": "Brutalism",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Timber"
+  ],
+  "features": "Weekend house: a timber and glass box set on and inside the old stone walls of a farm cottage.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tisbury, Font Hill Estate, Upper Lawn Pavilion (Solar Pavilion), 2010.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:The smithsons, alison and peter smithson, upper lawn pavilion, 1959-1962 (5387352719).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:The smithsons, alison and peter smithson, upper lawn pavilion, 1959-1962 (5395119654).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Tisbury,_Font_Hill_Estate,_Upper_Lawn_Pavilion_(Solar_Pavilion),_2010.jpg"
+  ],
+  "note": "Free square photos (CC BY 2.0), from Flickr. Also known as the Solar Pavilion. Movement 'Brutalism' in the sense of the Smithsons' New Brutalism."
+ },
+ {
+  "id": "bavinger-house",
+  "name": "Bavinger House",
+  "by": "Bruce Goff",
+  "city": "Norman",
+  "cc": "US",
+  "year": "1955",
+  "type": "House",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Tensile structure"
+  ],
+  "features": "Rough stone wall spiralling up around a central mast that hangs the roof by cables; demolished 2016.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bavinger Exterior.JPG",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Bavinger_Exterior.JPG",
+   "https://en.wikipedia.org/wiki/Bavinger_House"
+  ],
+  "note": "One public-domain exterior photo (3072x2304). The house was demolished in 2016. Goff's organic architecture has no exact match in the movement list; 'Expressionism' is the nearest."
+ },
+ {
+  "id": "hopkins-house",
+  "name": "Hopkins House",
+  "by": "Michael and Patty Hopkins",
+  "city": "London",
+  "cc": "GB",
+  "year": "1976",
+  "type": "House",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Prefabrication",
+   "Free plan"
+  ],
+  "features": "Two-storey steel-frame and glass box, entered by a bridge from the street at upper level; open plan inside.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hopkins House 49a Downshire Hill, Hampstead 2007-05-05.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Hopkins House (1976).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:A High-Tech House (486618815).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Hampstead , Hopkins House - geograph.org.uk - 7769329.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Hopkins_House_(1976).jpg"
+  ],
+  "note": "49a Downshire Hill, Hampstead. Several free photos."
+ },
+ {
+  "id": "dirty-house",
+  "name": "Dirty House",
+  "by": "David Adjaye",
+  "city": "London",
+  "cc": "GB",
+  "year": "2002",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Former warehouse painted dark with flush mirrored windows; a thin roof seems to float over a glazed top floor.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Dirty House (6847602590).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Dirty House reflection (32691197244).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:The_Dirty_House_(6847602590).jpg"
+  ],
+  "note": "House and studio for artists Tim Noble and Sue Webster, Chance Street. The 'reflection' file is a close-up of a window."
+ },
+ {
+  "id": "casa-ugalde",
+  "name": "Casa Ugalde",
+  "by": "José Antonio Coderch",
+  "city": "Caldes d'Estrac",
+  "cc": "ES",
+  "year": "1952",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "White walls fanned out across a hillside toward the sea, shaped around the views and existing trees.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:194 Casa Ugalde, c. Torrenova (Caldes d'Estrac).JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:194_Casa_Ugalde,_c._Torrenova_(Caldes_d%27Estrac).JPG"
+  ],
+  "note": "One free photo (1600x1200); private house, check how much of the building it shows."
+ },
+ {
+  "id": "casa-gaspar",
+  "name": "Casa Gaspar",
+  "by": "Alberto Campo Baeza",
+  "city": "Vejer de la Frontera",
+  "cc": "ES",
+  "year": "1992",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "White walled square closed to the outside; a higher central band opens to two courtyards with a pool.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Casa gaspar exterior.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Casa_gaspar_exterior.jpg"
+  ],
+  "note": "One free exterior photo (1600x1067), plus a patio photo (File:Casa gaspar patio.jpg, 697x1600, CC BY 2.0). In Zahora, municipality of Vejer de la Frontera."
+ },
+ {
+  "id": "casa-de-blas",
+  "name": "Casa De Blas",
+  "by": "Alberto Campo Baeza",
+  "city": "Sevilla la Nueva",
+  "cc": "ES",
+  "year": "2000",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Exposed concrete"
+  ],
+  "features": "A light white steel table with a glass box beneath, set on a heavy concrete podium on a hilltop.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Casa De Blas Fotógrafo- Hisao Suzuki.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Casa_De_Blas_Fot%C3%B3grafo-_Hisao_Suzuki.jpg"
+  ],
+  "note": "One photo (2730x2176) credited to photographer Hisao Suzuki and marked CC BY-SA 3.0; worth checking the licence was granted by the photographer before using."
+ },
+ {
+  "id": "das-gelbe-haus-flims",
+  "name": "Das Gelbe Haus",
+  "by": "Valerio Olgiati",
+  "city": "Flims",
+  "cc": "CH",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Old village house stripped to its stone walls, painted white, with a new roof and one central timber column inside.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Olgiati, Brutarchitekt.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Olgiati,_Brutarchitekt.jpg"
+  ],
+  "note": "Not a house but a small exhibition building in a converted village house; included as a small building. One free photo (2740x3653)."
+ },
+ {
+  "id": "villa-schreiner",
+  "name": "Villa Schreiner",
+  "by": "Sverre Fehn",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "1963",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Modular",
+   "Free plan"
+  ],
+  "features": "Low timber house on a modular grid, with Japanese-influenced post-and-beam structure and sliding walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Villa Schreiner - Oslo.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Villa_Schreiner_-_Oslo.JPG"
+  ],
+  "note": "One free photo (3264x2448)."
+ },
+ {
+  "id": "haus-gugalun",
+  "name": "Haus Gugalun",
+  "by": "Peter Zumthor",
+  "city": "Versam",
+  "cc": "CH",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Adaptive reuse",
+   "Landscape"
+  ],
+  "features": "Old log farmhouse extended into the slope with new timber rooms under one continuous gable roof.",
+  "status": "photo",
+  "commons_category": "Category:Haus Gugalun",
+  "photos": [
+   {
+    "file": "File:Haus Gugalun - Ostseite1.jpeg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Haus Gugalun – Westseite1.jpeg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Haus Gugalun - Nordseite.jpeg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Haus Gugalun, Brutarchitekt.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Haus_Gugalun"
+  ],
+  "note": "Ten free photos of all sides."
+ },
+ {
+  "id": "walsh-street-house",
+  "name": "Walsh Street House (Boyd House II)",
+  "by": "Robin Boyd",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1958",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Tensile structure",
+   "Section"
+  ],
+  "features": "Two wings across a central courtyard under one roof hung on steel cables; mostly closed to the street.",
+  "status": "photo",
+  "commons_category": "Category:Boyd House II",
+  "photos": [
+   {
+    "file": "File:Boyd house II gate.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Boyd House II section.jpg",
+    "kind": "Section",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Boyd House II img plans2.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Boyd House II img 3ddwg.jpg",
+    "kind": "Drawing",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Boyd House II img courtyard.jpg",
+    "kind": "Drawing",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Boyd_House_II"
+  ],
+  "note": "Only one exterior photo (3508x2081), described as 'Front gate at street level'; check it shows enough of the street front. If not, this is a drawing candidate. Good free plan, section and 3D drawings exist."
+ },
+ {
+  "id": "sea-ranch-condominium-one",
+  "name": "Sea Ranch Condominium One",
+  "by": "Moore Lyndon Turnbull Whitaker (MLTW)",
+  "city": "Sea Ranch",
+  "cc": "US",
+  "year": "1965",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Cluster"
+  ],
+  "features": "Ten timber-clad units clustered under steep single-pitch roofs that follow the wind-swept coastal meadow.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sea Ranch. Veduta del Condominium 1 verso l'oceano Pacifico.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Sea Ranch. Veduta con il Condominium 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Condominium One, Sea Ranch Condominiums, Sea Ranch, CA.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Condominium 1, 110-128 Sea Walk Dr., Sea Ranch, CA 7-5-2010 7-07-18 PM.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Condominium_One,_Sea_Ranch_Condominiums,_Sea_Ranch,_CA.JPG"
+  ],
+  "note": "Several free photos."
+ },
+ {
+  "id": "house-vi",
+  "name": "House VI (Frank Residence)",
+  "by": "Peter Eisenman",
+  "city": "Cornwall",
+  "cc": "US",
+  "year": "1975",
+  "type": "House",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Geometry",
+   "Section",
+   "Free plan"
+  ],
+  "features": "House generated by a grid of planes and columns; an upside-down staircase and slots cut through floors and walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:House VI in Cornwall, Connecticut. Architect Peter Eisenman.tif",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:House_VI_in_Cornwall,_Connecticut._Architect_Peter_Eisenman.tif"
+  ],
+  "note": "One photo taken in 1977 (1627x1055, TIFF), CC BY-SA 4.0. There is also File:Peter Eisenman House VI.png (1200x900, CC BY-SA 4.0) of uncertain content. Eisenman's houses are usually called post-structuralist or proto-deconstructivist; 'Deconstructivism' is the nearest in the list."
+ },
+ {
+  "id": "healy-guest-house",
+  "name": "Healy Guest House (Cocoon House)",
+  "by": "Paul Rudolph and Ralph Twitchell",
+  "city": "Sarasota",
+  "cc": "US",
+  "year": "1950",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Tensile structure",
+   "Climate response",
+   "Water"
+  ],
+  "features": "Small guest house on the bayou with a sagging roof hung like a cocoon between steel straps; louvred walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cocoon House (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cocoon House 2 (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cocoon House 3 (Paul Rudolph and Ralph Twitchell, Architects).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [
+   {
+    "file": "File:Healy Guest House (Cocoon House) - Conceptual Drawing - Paul Rudolph 1949.jpg",
+    "kind": "Sketch",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Healy Guest House (Cocoon House) - Floor Plan - Paul Rudolph, Architect.jpg",
+    "kind": "Plan",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Cocoon House - Site Plan (Paul Rudolph, Architect, FAIA).jpg",
+    "kind": "Plan",
+    "license": "Public domain"
+   }
+  ],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Cocoon_House_(Paul_Rudolph_and_Ralph_Twitchell,_Architects).jpg"
+  ],
+  "note": "Three free photos plus public-domain plans and a concept sketch. Siesta Key, Sarasota."
+ },
+ {
+  "id": "gwathmey-residence-and-studio",
+  "name": "Gwathmey Residence and Studio",
+  "by": "Charles Gwathmey",
+  "city": "Amagansett",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Timber"
+  ],
+  "features": "Two cedar-clad volumes cut from cubes and cylinders, with sharply sloped roofs and a curved stair.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://usmodernist.org/gwathmey.htm",
+   "https://www.themodernhouse.com/journal/house-of-the-day-long-island-house-by-charles-gwathmey/"
+  ],
+  "note": "No free photo on Commons. Sources describe cubes, cylinders and slanted roofs in vertical cedar, but I could not establish the exact arrangement of the cuts, curved stair and windows on each face well enough to draw it. Design 1965, completed 1966–67."
+ },
+ {
+  "id": "can-feliz",
+  "name": "Can Feliz",
+  "by": "Jørn Utzon",
+  "city": "Santanyí",
+  "cc": "ES",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Utzon's second Mallorca house: local sandstone blocks under one tiled roof, with three tall bay windows to the sea.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Can_Feliz"
+  ],
+  "note": "No free photo on Commons. Wikipedia describes three blocks under one tiled roof around a terrace, three lofty bay windows and a covered south terrace, but not enough to draw the elevation accurately. Near Portopetro / S'Horta (municipality of Santanyí; check)."
+ },
+ {
+  "id": "creek-vean",
+  "name": "Creek Vean",
+  "by": "Team 4 (Norman Foster, Wendy Cheesman, Richard Rogers, Su Brumwell)",
+  "city": "Feock",
+  "cc": "GB",
+  "year": "1966",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Promenade"
+  ],
+  "features": "Two wings stepped down a creek-side slope either side of a public stair; planted roofs let it sink into the hill.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Creek_Vean"
+  ],
+  "note": "Only free photo is File:Creek Vean House Pill Creek.jpg (531x600, CC BY-SA 2.0), below the 800px minimum. The stepped section and roof gardens are documented, but I could not pin down the creek elevation well enough to draw it. Team 4's first building."
+ },
+ {
+  "id": "hanselmann-house",
+  "name": "Hanselmann House",
+  "by": "Michael Graves",
+  "city": "Fort Wayne",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Promenade",
+   "Section"
+  ],
+  "features": "Deconstructed white cube reached by an elevated walkway through a layered front; Graves's first commission.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dwell.com/home/hanselmann-house-b287ce6c",
+   "https://inputfortwayne.com/?p=12398",
+   "https://quod.lib.umich.edu/u/ummu/x-05-03715/05_03715"
+  ],
+  "note": "No free photo found on Commons. Sources describe a deconstructed white cube, a bridge-like elevated walkway to the entrance and layered exterior spaces (double square in plan, double cube in volume), but not enough to draw each face accurately. Built 1967–71; year given as design year 1967."
+ },
+ {
+  "id": "walker-guest-house",
+  "name": "Walker Guest House",
+  "by": "Paul Rudolph",
+  "city": "Sanibel",
+  "cc": "US",
+  "year": "1953",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Modular",
+   "Timber"
+  ],
+  "features": "24-foot-square pavilion on an 8-foot grid; wooden wall panels swing up as awnings, balanced by cannonball weights.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [
+   {
+    "file": "File:Paul Rudolph - Walker Guest House Floorplan.jpg",
+    "kind": "Plan",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "view": "Elevation of one side: three 8-foot bays in the light frame, the left panel raised as an awning and the other two closed; the side panels propped out flat at roof level; the cannonball counterweights hanging at the corners.",
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walker_Guest_House",
+   "https://paulrudolph.org/project/walker-guest-house/"
+  ],
+  "note": "No free photo on Commons (only the floor plan, 919x751). Built 1952–53 on Sanibel Island; sold in 2019, dismantled and moved to California. A full-size replica was built in 2015 by the Sarasota Architectural Foundation. Cannonball weights shown schematically at the corners."
+ },
+ {
+  "id": "marie-short-house",
+  "name": "Marie Short House",
+  "by": "Glenn Murcutt",
+  "city": "Kempsey",
+  "cc": "AU",
+  "year": "1975",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Light & shadow"
+  ],
+  "features": "Two near-identical timber pavilions on stilts under curved corrugated metal roofs; louvres adjust air and light.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "End elevation of the two parallel pavilions side by side: shallow roofs with rounded ridges, louvred end walls, floors raised about a metre on stumps.",
+  "after": null,
+  "sources": [
+   "https://www.ozetecture.org/marie-short-glenn-murcutt-house",
+   "https://architectureau.com/articles/revisited-marie-short-house/",
+   "https://www.environment.nsw.gov.au/news/glenn-murcutts-ground-breaking-marie-short-farmhouse-listed-on-state-heritage-register"
+  ],
+  "note": "No free photo on Commons. Sources give 1974 or 1975; Murcutt bought and extended it in 1980. Near Kempsey (Crescent Head), NSW; on the State Heritage Register. The pavilions are offset ('slipped') in plan, which an end elevation does not show; the louvre bands are schematic."
+ },
+ {
+  "id": "delta-shelter",
+  "name": "Delta Shelter",
+  "by": "Tom Kundig (Olson Kundig)",
+  "city": "Mazama",
+  "cc": "US",
+  "year": "2005",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "Steel-clad cabin on four steel columns above a flood plain; four 10 by 18 ft steel shutters roll across to close it up.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Front elevation: the two-storey steel box raised on four columns over a small ground-floor base, one shutter rolled aside along its rails to show the glazing, the other closed.",
+  "after": null,
+  "sources": [
+   "https://olsonkundig.com/projects/delta-shelter/",
+   "https://www.dwell.com/home/delta-shelter-29a80a97",
+   "https://buildipedia.com/at-home/design-remodeling/house-of-the-month-the-versatile-delta-shelter"
+  ],
+  "note": "No free photo on Commons. About 200 sq ft footprint and about 1,000 sq ft over three levels, on a 100-year flood plain by the Methow River; shutters are human-powered. Window pattern behind the shutter is schematic."
+ },
+ {
+  "id": "smith-house-darien",
+  "name": "Smith House",
+  "by": "Richard Meier",
+  "city": "Darien",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Section"
+  ],
+  "features": "White house closed to the road, open to the water through three storeys of glass; the fireplace pushes through.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://interiordesign.net/designwire/richard-meier-reflects-on-the-50th-anniversary-of-smith-house/",
+   "https://www.dezeen.com/2018/02/26/richard-meier-1960s-smith-house-captured-new-photographs-mike-schwartz-50th-anniversary/",
+   "https://world-architects.com/en/meier-partners-new-york/project/smith-house"
+  ],
+  "note": "No free photo on Commons. Sources confirm a ramp to the entrance on the closed land side, a three-level glass enclosure on the water side and a painted brick fireplace pushing out through the mullions, but I could not confirm how the floor slabs, double-height living room and chimney sit in the water elevation, so I did not draw it (a generic glass box with a chimney would mislead)."
+ },
+ {
+  "id": "casa-rotonda-stabio",
+  "name": "Casa Rotonda",
+  "by": "Mario Botta",
+  "city": "Stabio",
+  "cc": "CH",
+  "year": "1982",
+  "type": "House",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "Three-level cylindrical house split north–south by a cut that brings daylight down from the roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stabio, Casa Medici (arch. Mario Botta 1980-82) - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 14m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 15m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Stabio 11m.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Stabio,_Casa_Medici_(arch._Mario_Botta_1980-82)_-_panoramio.jpg",
+   "https://pdfcoffee.com/casa-rotonda-mario-botta-2-pdf-free.html"
+  ],
+  "note": "On Commons the photos are titled 'Casa Medici' (the clients were Liliana and Ovidio Medici); same building, 1980–82. Don't confuse with Commons files 'Casa Rotonda 1/2.jpg', which show a different building in Corzoneso."
+ },
+ {
+  "id": "22-parkside",
+  "name": "22 Parkside (Rogers House)",
+  "by": "Richard and Su Rogers",
+  "city": "London",
+  "cc": "GB",
+  "year": "1969",
+  "type": "House",
+  "movement": "High-tech",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Modular"
+  ],
+  "features": "Steel portal frames closed by glass ends: a house and a studio either side of a garden court.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Wimbledon, Richard Rogers house, 22 Parkside.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Wimbledon,_Richard_Rogers_house,_22_Parkside.jpg"
+  ],
+  "note": "Built for Rogers's parents in Wimbledon, 1968–69. One free photo at 3500x2417; two more at 640px are too small. Don't confuse with 'File:22 Parkside, Cambridge.jpg', a different building. Facts from general knowledge of the house; check before use."
+ },
+ {
+  "id": "casa-kalmann",
+  "name": "Casa Kalmann",
+  "by": "Luigi Snozzi",
+  "city": "Brione sopra Minusio",
+  "cc": "CH",
+  "year": "1976",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "Concrete house set into a steep slope above Lake Maggiore, with a pavilion looking out over the lake.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kalmann 01m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Kalmann 03m.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Luigi Snozzi - Casa Kalman, Brutarchitekt.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Casa Kalmann14m.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:Kalmann_01m.jpg"
+  ],
+  "note": "Several free photos (1974–76, per the Commons descriptions). Spelled Kalman or Kalmann. Facts from Commons descriptions and general knowledge; check before use."
+ },
+ {
+  "id": "villa-busk",
+  "name": "Villa Busk",
+  "by": "Sverre Fehn",
+  "city": "Bamble",
+  "cc": "NO",
+  "year": "1990",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Timber"
+  ],
+  "features": "A 40 m concrete and timber wing on bedrock, linked by a glazed bridge to a four-storey tower with a pyramid roof.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Side elevation across the slope: the four-storey tower with its pyramid roof on the lower ground, the glazed diagonal-braced bridge, and the long low main wing on the rock.",
+  "after": null,
+  "sources": [
+   "https://lokalhistoriewiki.no/wiki/Villa_Busk",
+   "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0734.082.002"
+  ],
+  "note": "No free photo on Commons. On Kjønnøya, Bamble; built 1987–90; listed by Riksantikvaren in 1993. Massing follows the written description (40 m wing, four-storey tower, freestanding glazed bridge with diagonal timber structure); window patterns and the wing's roof line are left plain because no source gives them. Original drawings are in the Nasjonalmuseet collection (not free)."
+ },
+ {
+  "id": "breuer-house-ii-new-canaan",
+  "name": "Breuer House II",
+  "by": "Marcel Breuer",
+  "city": "New Canaan",
+  "cc": "US",
+  "year": "1948",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Timber",
+   "Structure as expression"
+  ],
+  "features": "Breuer's own timber house, cantilevered out from a smaller base, with a deck hung on steel cables.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NewCanaanCT MarcelBreuerHouseII.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:NewCanaanCT_MarcelBreuerHouseII.jpg"
+  ],
+  "note": "One free photo at 1024x680 (counts under the 800px rule). Built 1947–48. Facts from general knowledge of the house; the cantilever and cable-hung deck are well published but check before use."
+ },
+ {
+  "id": "noyes-house-new-canaan",
+  "name": "Noyes House",
+  "by": "Eliot Noyes",
+  "city": "New Canaan",
+  "cc": "US",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "Two long fieldstone walls with glass pavilions between them, wrapped around an open central courtyard.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NewCanaanCT NoyesHouse.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://commons.wikimedia.org/wiki/File:NewCanaanCT_NoyesHouse.jpg"
+  ],
+  "note": "One free photo at 1024x680 (counts under the 800px rule). Eliot Noyes's own house (Noyes House II). Facts from general knowledge; check before use."
+ },
+ {
+  "id": "stretto-house",
+  "name": "Stretto House",
+  "by": "Steven Holl",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1991",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Section",
+   "Light & shadow"
+  ],
+  "features": "Four concrete-block 'spatial dams' with light curved metal roofs flowing between them, beside three ponds.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.stevenholl.com/project/stretto-house",
+   "https://www.stevenholl.com/press-release/the-stretto-house-honored-with-the-25-year-award/",
+   "https://tsbyrne.com/residential/stretto-house"
+  ],
+  "note": "No free photo on Commons. Sources confirm four sections, concrete-block dams and curved lead-coated copper roofs by three ponds, but not the profile and stepping of the roofs in elevation, so I did not draw it. Dates given as 1989–91 (Holl) or 1992 (monograph); inspired by Bartók's Music for Strings, Percussion and Celesta."
+ },
+ {
+  "id": "simpson-lee-house",
+  "name": "Simpson-Lee House",
+  "by": "Glenn Murcutt",
+  "city": "Mount Wilson",
+  "cc": "AU",
+  "year": "1994",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "Single-storey steel and glass pavilions on a bush track; angled roofs collect rainwater; pool to the north.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.ozetecture.org/simpsonlee-house",
+   "https://architectureau.com/articles/simpson-lee-house/",
+   "https://www.archiweb.cz/en/b/simpson-lee-house"
+  ],
+  "note": "No free photo of this house on Commons. Careful: 'Simpson-Lee House I' on Commons (File:Simpson Lee House.jpg and the NSW heritage photos) is a different house for the same clients, by Arthur Baldwinson (1958–62). The roof angle, pavilion sizes and bridge position aren't described closely enough to draw. On the NSW State Heritage Register."
+ },
+ {
+  "id": "ball-eastaway-house",
+  "name": "Ball-Eastaway House",
+  "by": "Glenn Murcutt",
+  "city": "Glenorie",
+  "cc": "AU",
+  "year": "1983",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Steel & glass"
+  ],
+  "features": "Corrugated-iron pavilion with a gently curved roof, on slender steel columns set into a sandstone ledge.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architectureau.com/articles/Ball-Eastaway-House-by-Glenn-Murcutt/",
+   "https://thisispaper.com/mag/ball-eastaway-house-glenn-murcutt",
+   "https://www.environment.nsw.gov.au/news/glenories-ball-eastaway-house-and-setting-added-state-heritage-register"
+  ],
+  "note": "No free photo on Commons. Sources confirm the raised pavilion on steel columns over sandstone and a gently curved roof, but not which way the roof curves or how the end walls and decks look, so I did not draw it. Wilkinson Award 1984; on the NSW State Heritage Register."
+ },
+ {
+  "id": "casa-beires",
+  "name": "Casa Beires",
+  "by": "Álvaro Siza",
+  "city": "Póvoa de Varzim",
+  "cc": "PT",
+  "year": "1976",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Nicknamed the 'bomb house': a white box broken open by folded glass walls around a small courtyard.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://arquitecturaviva.com/assets/uploads/files/siza_voluntad.pdf",
+   "https://www.area-arch.it/en/?p=46417",
+   "https://www.serralves.pt/en/ciclo-serralves/0507-siza-beyond-povoa/"
+  ],
+  "note": "No free photo on Commons. Sources describe a prism broken by glassy folds around a courtyard, but not the geometry of the folds closely enough to draw. Built 1973–76 (Wikipedia's list gives 1964, probably the commission)."
+ },
+ {
+  "id": "house-with-one-wall",
+  "name": "House with One Wall",
+  "by": "Christian Kerez",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2007",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Steel & glass"
+  ],
+  "features": "Two homes split by one folded concrete wall that carries all the floors; every other wall is glass.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://www.dezeen.com/2015/03/30/house-with-one-wall-christian-kerez-zurich-building-pair-houses-concrete-partition/",
+   "https://www.gooood.cn/en/house-with-one-wall.htm"
+  ],
+  "note": "No free photo on Commons. Elongated hexagonal plan, fully glazed on all six sides, in Witikon; the wall's course changes on every floor, which I could not establish well enough to draw."
+ },
+ {
+  "id": "mobius-house",
+  "name": "Möbius House",
+  "by": "UNStudio (Ben van Berkel)",
+  "city": "Het Gooi",
+  "cc": "NL",
+  "year": "1998",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Low, elongated house whose rooms follow a Möbius loop in plan and section; concrete and glass swap roles along it.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://architecturelab.net/ad-classics-mobius-house-unstudio",
+   "https://www.archdaily.com/1012111/ad-classics-mobius-house-unstudio"
+  ],
+  "note": "No free photo on Commons. The interlocking loop of folded concrete and glass is hard to show in one elevation and sources don't give the faces in detail; not drawn."
+ },
+ {
+  "id": "number-11-colombo",
+  "name": "Number 11 (Bawa's house)",
+  "by": "Geoffrey Bawa",
+  "city": "Colombo",
+  "cc": "LK",
+  "year": "1998",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Adaptive reuse",
+   "Light & shadow"
+  ],
+  "features": "Four small bungalows on 33rd Lane joined over 40 years into one house of courtyards, with a tower of roof terraces.",
+  "status": "unsure",
+  "commons_category": "Category:Geoffrey Bawa",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/3008",
+   "https://transindus.co.uk/highlight/the-geoffrey-bawa-trust/"
+  ],
+  "note": "Inward-looking house with almost no street face. Commons has File:Eingangsbereich-Wohnhaus Geoffrey Bawa-Colombo.jpg (2000x2667, CC BY-SA 4.0, 'Entrance area at the Geoffrey Bawa Trust'); it may show the entrance rather than the outside, so check it. Year is approximate: Bawa converted it from 1958 until the late 1990s; please confirm before use."
+ },
+ {
+  "id": "ena-de-silva-house",
+  "name": "Ena de Silva House",
+  "by": "Geoffrey Bawa",
+  "city": "Colombo",
+  "cc": "LK",
+  "year": "1962",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Earth & local material",
+   "Climate response"
+  ],
+  "features": "Rooms round an inward-looking courtyard under red tile roofs on satinwood columns; Sinhalese house meets modern plan.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://archnet.org/sites/3008",
+   "https://silverkris.singaporeair.com/inspiration/arts-culture/design-architecture/geoffrey-bawas-buildings-sri-lanka"
+  ],
+  "note": "No free photo found. Built 1960–62 in Colombo; dismantled and rebuilt at Lunuganga, completed in 2016 (photos of the rebuilt house may appear under Category:Lunuganga Estate; I didn't find one named for it). Courtyard plan is hard to show in one elevation; not drawn."
+ },
+ {
+  "id": "carter-tucker-house",
+  "name": "Carter/Tucker House",
+  "by": "Sean Godsell",
+  "city": "Breamlea",
+  "cc": "AU",
+  "year": "2000",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Timber",
+   "Climate response"
+  ],
+  "features": "Three-level box set into a sand dune, screened in horizontal cedar battens that open as flaps on gas struts.",
+  "status": "drawn",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": "Long elevation: the rectangular batten-clad box set into the side of the dune, with two batten flaps raised on the living level to show the glazing behind.",
+  "after": null,
+  "sources": [
+   "https://architectureau.com/articles/commendation-for-housing/",
+   "https://bdt.degruyter.com/urban_context/remote-rural/page/10"
+  ],
+  "note": "No free photo on Commons. Weekend house and studio for a photographer: bedroom level, living level and roof deck inside braced steel portal frames with glazed walls. Overall proportions and flap positions are schematic; the batten skin and dune setting are from the sources."
+ }
+]

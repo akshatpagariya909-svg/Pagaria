@@ -1,0 +1,515 @@
+[
+ {
+  "name": "Bolgatanga Library",
+  "by": "J. Max Bond Jr.",
+  "city": "Bolgatanga",
+  "cc": "GH",
+  "year": "1966",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Light & shadow"
+  ],
+  "features": "A raised, wing-like roof and perforated block walls let breezes and filtered light into the reading rooms.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "bolgatanga-library"
+ },
+ {
+  "name": "British Council, New Delhi",
+  "by": "Charles Correa",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1992",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "An axis through layered courts; Howard Hodgkin's banyan tree in black and white stone spans the facade.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_south_resolved.json",
+  "id": "british-council-new-delhi"
+ },
+ {
+  "name": "Camino Real Hotel, Mexico City",
+  "by": "Ricardo Legorreta",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1968",
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Promenade"
+  ],
+  "features": "Magenta lattice wall screens a sequence of courtyards and pools from the street.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "camino-real-hotel-mexico-city"
+ },
+ {
+  "name": "Casa Poli",
+  "by": "Pezo von Ellrichshausen",
+  "city": "Coliumo",
+  "cc": "CL",
+  "year": "2005",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Concrete cube on a cliff whose thick hollow perimeter wall holds stairs, services and deep window bays.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "casa-poli"
+ },
+ {
+  "name": "Casa de Huéspedes Ilustres de Colombia",
+  "by": "Rogelio Salmona",
+  "city": "Cartagena",
+  "cc": "CO",
+  "year": "1981",
+  "type": "Palace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Water"
+  ],
+  "features": "Coral-stone walls, courtyards and water channels, built around the ruins of a colonial fort.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "casa-de-huespedes-ilustres-de-colombia"
+ },
+ {
+  "name": "Centre for Earth Architecture",
+  "by": "Diébédo Francis Kéré",
+  "city": "Mopti",
+  "cc": "ML",
+  "year": "2010",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Community"
+  ],
+  "features": "Compressed-earth walls and earth roofs, a modern model for building in mud beside Mopti's mosque.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "centre-for-earth-architecture"
+ },
+ {
+  "name": "Chengqi Lou (Fujian Tulou)",
+  "by": "Hakka builders",
+  "city": "Yongding",
+  "cc": "CN",
+  "year": "1709",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Earth & local material",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Concentric rings of rooms inside a thick rammed-earth outer wall around an ancestral hall.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "chengqi-lou-fujian-tulou"
+ },
+ {
+  "name": "Children's Centre for Psychiatric Rehabilitation",
+  "by": "Sou Fujimoto",
+  "city": "Date",
+  "cc": "JP",
+  "year": "2006",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Free plan",
+   "Community"
+  ],
+  "features": "Scattered white boxes set at angles, leaving nooks and alleys between rooms like a small town.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "children-s-centre-for-psychiatric-rehabilitation"
+ },
+ {
+  "name": "Children's Surgical Hospital, Entebbe",
+  "by": "Renzo Piano Building Workshop, TAMassociati",
+  "city": "Entebbe",
+  "cc": "UG",
+  "year": "2021",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Landscape"
+  ],
+  "features": "Rammed-earth walls under a floating roof of solar panels, on a site sloping to Lake Victoria.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "children-s-surgical-hospital-entebbe"
+ },
+ {
+  "name": "Church of La Medalla Milagrosa",
+  "by": "Félix Candela",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1955",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Thin hyperbolic paraboloid shells twist into columns and roof as one continuous concrete structure.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "church-of-la-medalla-milagrosa"
+ },
+ {
+  "name": "Church of Saint Peter, Durazno",
+  "by": "Eladio Dieste",
+  "city": "Durazno",
+  "cc": "UY",
+  "year": "1971",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "Reinforced-brick walls and a folded brick roof spanning the nave without columns.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "church-of-saint-peter-durazno"
+ },
+ {
+  "name": "Cine Flamingo",
+  "by": "Francisco Castro Rodrigues",
+  "city": "Lobito",
+  "cc": "AO",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Brise-soleil",
+   "Public space"
+  ],
+  "features": "An open-air cinema whose louvred concrete walls let sea breezes through while screening the light.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "cine-flamingo"
+ },
+ {
+  "name": "Ciudad Abierta",
+  "by": "Alberto Cruz, Godofredo Iommi",
+  "city": "Ritoque",
+  "cc": "CL",
+  "year": "1971",
+  "type": "Public space",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Community",
+   "Incremental"
+  ],
+  "features": "Experimental hand-built guest houses, agora and cemetery on coastal dunes, made by teachers and students.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "ciudad-abierta"
+ },
+ {
+  "name": "Coppelia Ice Cream Parlour",
+  "by": "Mario Girona",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1966",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "Raised round concrete pavilion with a radiating ribbed roof, set in a park as a public ice-cream hall.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "coppelia-ice-cream-parlour"
+ },
+ {
+  "name": "Corniche Mosque",
+  "by": "Abdel-Wahed El-Wakil",
+  "city": "Jeddah",
+  "cc": "SA",
+  "year": "1986",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Water"
+  ],
+  "features": "A small domed mosque on the seafront, built with load-bearing masonry domes and vaults.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "corniche-mosque"
+ },
+ {
+  "name": "Corpus Christi Church, Aachen",
+  "by": "Rudolf Schwarz",
+  "city": "Aachen",
+  "cc": "DE",
+  "year": "1930",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Monumentality",
+   "Void"
+  ],
+  "features": "Stark white hall with high windows and almost no ornament, beside a slender separate bell tower.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "corpus-christi-church-aachen"
+ },
+ {
+  "name": "Cosmic Rays Pavilion",
+  "by": "Félix Candela, Jorge González Reyna",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1951",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Section"
+  ],
+  "features": "Twin hyperbolic-paraboloid shells so thin they let cosmic rays through to the instruments.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "cosmic-rays-pavilion"
+ },
+ {
+  "name": "Cultural Foundation",
+  "by": "The Architects Collaborative",
+  "city": "Abu Dhabi",
+  "cc": "AE",
+  "year": "1981",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Climate response",
+   "Light & shadow"
+  ],
+  "features": "Low white blocks with arcades and shaded courtyards beside the Qasr Al Hosn fort.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "cultural-foundation"
+ },
+ {
+  "name": "Dakar International Fair",
+  "by": "Jean-François Lamoureux, Jean-Louis Marin",
+  "city": "Dakar",
+  "cc": "SN",
+  "year": "1974",
+  "type": "Pavilion",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Modular",
+   "Cluster"
+  ],
+  "features": "Exhibition pavilions composed of repeated triangular concrete modules set out on a geometric grid.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "dakar-international-fair"
+ },
+ {
+  "name": "Dano Secondary School",
+  "by": "Diébédo Francis Kéré",
+  "city": "Dano",
+  "cc": "BF",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Low cost"
+  ],
+  "features": "Laterite stone walls under a lifted metal roof, with eucalyptus screens shading the outdoor spaces.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_regions_resolved.json",
+  "id": "dano-secondary-school"
+ },
+ {
+  "name": "Darat al Funun",
+  "by": "Ammar Khammash",
+  "city": "Amman",
+  "cc": "JO",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Three 1920s houses and Byzantine ruins on a hillside converted into galleries, studios and gardens.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "darat-al-funun"
+ },
+ {
+  "name": "Dominican Chapel, Ibadan",
+  "by": "Demas Nwoko",
+  "city": "Ibadan",
+  "cc": "NG",
+  "year": "1970",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Thick walls, a shaded ambulatory and carved timber details keep the chapel cool and dim.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "dominican-chapel-ibadan"
+ },
+ {
+  "name": "Embassy of Belgium, New Delhi",
+  "by": "Satish Gujral",
+  "city": "New Delhi",
+  "cc": "IN",
+  "year": "1983",
+  "type": "Civic",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Sculpted brick and granite forms half sunk into landscaped mounds, like an excavated ruin.",
+  "qid": "Q15216557",
+  "keep": 2,
+  "source": "batch3_nophoto.txt",
+  "id": "embassy-of-belgium-new-delhi"
+ },
+ {
+  "name": "FRAC Nord-Pas de Calais",
+  "by": "Lacaton & Vassal",
+  "city": "Dunkirk",
+  "cc": "FR",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Prefabrication"
+  ],
+  "features": "Transparent twin of an old shipyard hall, clad in polycarbonate beside the preserved original hall.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "frac-nord-pas-de-calais"
+ },
+ {
+  "name": "Faculty of Engineering, University of the Republic",
+  "by": "Julio Vilamajó",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1945",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Pilotis",
+   "Landscape"
+  ],
+  "features": "Long reinforced-concrete teaching block with a raised wing over an open ground floor, facing the park.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra_resolved.json",
+  "id": "faculty-of-engineering-university-of-the-republic"
+ },
+ {
+  "name": "Final Wooden House",
+  "by": "Sou Fujimoto",
+  "city": "Kumamoto",
+  "cc": "JP",
+  "year": "2008",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Section"
+  ],
+  "features": "Hut made entirely of stacked solid cedar beams that act as floor, seat and wall at once.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "final-wooden-house"
+ },
+ {
+  "name": "Flower Kiosk, Malmö Eastern Cemetery",
+  "by": "Sigurd Lewerentz",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": "1969",
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Detail",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "Tiny concrete shed with a tilted roof and frameless glazing clipped to the outside of the walls.",
+  "qid": null,
+  "keep": 2,
+  "source": "extra3_architects_resolved.json",
+  "id": "flower-kiosk-malmo-eastern-cemetery"
+ }
+]

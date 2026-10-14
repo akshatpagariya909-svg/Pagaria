@@ -1,0 +1,152 @@
+[
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "Progress dashboard: the script that feeds it, and how each chat refreshes it",
+  "pr": "28"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "A gold medal for Pritzker Prize winners on their portraits",
+  "pr": "27"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "Related books in the opened building",
+  "pr": "26"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "591 architect portraits: faces found by hand and photos of firm founders together",
+  "pr": "24"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Domain",
+  "what": "Serve the site at findgreatarchitecture.com",
+  "pr": "23"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Search",
+  "what": "Search and new address: titles in students' words, About text on 126 buildings, discoverarchitecture.github.io",
+  "pr": "16"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "1,001 new buildings, our cover drawings, photo upgrade, 547 portraits and the new site address",
+  "pr": "20"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Game",
+  "what": "Guess the building? Daily five and Endless, and top panel A",
+  "pr": "22"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "New type, quieter top bar, \"Photos unavailable\" only once opened",
+  "pr": "17"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Wall",
+  "what": "A fresh wall on every reload, like a feed",
+  "pr": "18"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Books",
+  "what": "Books: a second wall of 130 architecture books, with covers from Open Library",
+  "pr": "15"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "World map: fix the streaks around Russia",
+  "pr": "14"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Wall",
+  "what": "Dock everywhere: keep going with Surprise me, Back, Home instead of Shuffle",
+  "pr": "13"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "Next building without closing; portraits matched to the right person",
+  "pr": "12"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "New visual filter panel, architect byline and country map",
+  "pr": "11"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Data collection",
+  "what": "Data collection: the 25 approved batch 3 buildings",
+  "pr": "10"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 3 (138 buildings from the thin regions and missing architects)",
+  "pr": "9"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 2 (305 buildings from archINFORM) and line drawings for the 10 photo-less buildings",
+  "pr": "8"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 1 (210 new buildings), quality score, Pritzker count, upright photos",
+  "pr": "7"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Game",
+  "what": "Apply the v6 look: white, sunset red, rounded corners, red hover",
+  "pr": "5"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Remove wrong \"Go deeper\" links; make updates reach visitors at once",
+  "pr": "6"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Go deeper: direct links for all 926 buildings",
+  "pr": "4"
+ },
+ {
+  "date": "2026-10-10",
+  "workstream": "Data collection",
+  "what": "Grow the wall from 100 to 926 buildings",
+  "pr": "3"
+ },
+ {
+  "date": "2026-10-09",
+  "workstream": "Data collection",
+  "what": "Student 100: galleries, ideas, scroll-down wall and direct links",
+  "pr": "2"
+ },
+ {
+  "date": "2026-10-09",
+  "workstream": "Data collection",
+  "what": "Launch Discover Architecture: wall of 100 buildings, building pages, GitHub Pages deploy",
+  "pr": "1"
+ }
+]

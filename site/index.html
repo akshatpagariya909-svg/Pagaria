@@ -3,20 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Discover Architecture</title>
-<meta name="description" content="A wall of 1,000 buildings for architecture students: wander, find precedents by idea, follow links to drawings and articles, and find the books to read.">
-<link rel="canonical" href="https://akshatpagariya909-svg.github.io/Pagaria/">
+<title>Discover Architecture · a wall of great buildings for architecture students</title>
+<meta name="description" content="A wall of thousands of buildings for architecture students, India and South Asia first: free photos with credits, key features, links to plans, sections and articles for case studies, and the books to read.">
+<link rel="canonical" href="https://findgreatarchitecture.com/">
 <meta property="og:site_name" content="Discover Architecture">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Discover Architecture">
-<meta property="og:description" content="A wall of 1,000 buildings for architecture students: wander, find precedents by idea, and follow links to drawings and articles.">
-<meta property="og:url" content="https://akshatpagariya909-svg.github.io/Pagaria/">
-<meta property="og:image" content="https://akshatpagariya909-svg.github.io/Pagaria/og.jpg">
+<meta property="og:title" content="Discover Architecture · the wall">
+<meta property="og:description" content="A wall of thousands of buildings for architecture students, India and South Asia first: free photos with credits, key features, links to plans, sections and articles for case studies, and the books to read.">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Discover Architecture", "alternateName": ["Discover Architecture · the wall", "findgreatarchitecture.com"], "url": "https://findgreatarchitecture.com/", "description": "A wall of thousands of buildings for architecture students, India and South Asia first.", "inLanguage": "en"}</script>
+<meta property="og:url" content="https://findgreatarchitecture.com/">
+<meta property="og:image" content="https://findgreatarchitecture.com/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=b3815a0a">
+<link rel="stylesheet" href="styles.css?v=0f6c017c">
 <!--
   Analytics (free): create a site at https://www.goatcounter.com, then uncomment
   and replace YOURCODE. No cookies, no consent banner needed.
@@ -28,19 +29,25 @@
   <a class="mark" href="#" id="home">Discover<br><span class="accent">Architecture.</span></a>
   <div class="bar-mid">
     <div class="mode" role="group" aria-label="Buildings or books">
-      <button type="button" id="modeBuildings" aria-pressed="true">Buildings</button>
-      <button type="button" id="modeBooks" aria-pressed="false">Books</button>
+      <button type="button" id="modeBuildings" aria-pressed="true">Buildings</button><span class="mode-line" aria-hidden="true"></span><button type="button" id="modeBooks" aria-pressed="false">Books</button>
     </div>
     <label class="search">
       <span class="sr">Search buildings, architects, cities or ideas</span>
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
       <input id="q" type="search" placeholder="Search a building, architect, city or idea…" autocomplete="off">
     </label>
-    <button type="button" class="btn ghost" id="filterBtn" aria-expanded="false" aria-controls="filters">Filter <span id="filterCount"></span></button>
+    <button type="button" class="btn ghost" id="filterBtn" aria-expanded="false" aria-controls="filters" aria-label="Filter"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span class="flabel">Filter</span> <span id="filterCount"></span></button>
   </div>
   <div class="bar-end">
     <span class="count" id="count">100 buildings</span>
     <a class="btn ghost" href="buildings/" id="allLink">All buildings</a>
+    <div class="play" id="play">
+      <button type="button" class="btn play-btn" id="playBtn" aria-haspopup="menu" aria-expanded="false" aria-controls="playMenu"><svg class="pi" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z"/></svg><span>Guess the building?</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+      <div class="play-menu" id="playMenu" role="menu" hidden>
+        <a role="menuitem" href="play/#daily"><b>Daily five</b><span>Same five for everyone. New every day.</span></a>
+        <a role="menuitem" href="play/#endless"><b>Endless</b><span>Keep going until you miss one.</span></a>
+      </div>
+    </div>
   </div>
 </header>
 <nav class="ideas" id="ideas" aria-label="Browse by idea"><div class="mode-slot" id="modeSlot"></div><div class="ideas-list" id="ideasList"></div></nav>
@@ -52,6 +59,17 @@
   <p class="more" id="more" hidden>Loading more buildings…</p>
   <p class="empty" id="empty" hidden>Nothing matches. <button type="button" id="emptyClear">Clear the search</button></p>
 </main>
+
+<!-- about:start -->
+<section class="about-wall" id="about">
+  <h2>About this wall</h2>
+  <p>Discover Architecture is a wall of 2,604 buildings for architecture students, from the modern masters to contemporary and parametric work, brutalism and regionalism, with India and South Asia first. Every building has free photos with credits, its key features, and links to plans, sections and articles for a case study. Buildings from 30 countries; <a href="buildings/">see all 2,604</a>.</p>
+  <h3>Most looked-up buildings</h3>
+  <ol><li><a href="buildings/sagrada-familia/">Sagrada Familia</a> <small>Antoni Gaudi</small></li><li><a href="buildings/burj-khalifa/">Burj Khalifa</a> <small>SOM</small></li><li><a href="buildings/taipei-101/">Taipei 101</a> <small>C. Y. Lee</small></li><li><a href="buildings/angkor-wat/">Angkor Wat</a> <small>Khmer builders</small></li><li><a href="buildings/petronas-towers/">Petronas Towers</a> <small>Cesar Pelli</small></li><li><a href="buildings/cn-tower/">CN Tower</a> <small>John Andrews</small></li><li><a href="buildings/chrysler-building/">Chrysler Building</a> <small>William Van Alen</small></li><li><a href="buildings/kuala-lumpur-international-airport/">Kuala Lumpur International Airport</a> <small>Kisho Kurokawa</small></li><li><a href="buildings/gateway-arch/">Gateway Arch</a> <small>Eero Saarinen</small></li><li><a href="buildings/lenin-s-mausoleum/">Lenin&#x27;s Mausoleum</a> <small>Alexey Shchusev</small></li><li><a href="buildings/the-shard/">The Shard</a> <small>Renzo Piano</small></li><li><a href="buildings/tokyo-skytree/">Tokyo Skytree</a> <small>Nikken Sekkei</small></li><li><a href="buildings/svalbard-global-seed-vault/">Svalbard Global Seed Vault</a> <small>Peter W. Soderman</small></li><li><a href="buildings/reichstag/">Reichstag</a> <small>Norman Foster</small></li><li><a href="buildings/burj-al-arab/">Burj Al Arab</a> <small>Tom Wright, Atkins</small></li><li><a href="buildings/grand-egyptian-museum/">Grand Egyptian Museum</a> <small>Heneghan Peng</small></li><li><a href="buildings/national-september-11-memorial/">National September 11 Memorial</a> <small>Michael Arad, Peter Walker</small></li><li><a href="buildings/shanghai-tower/">Shanghai Tower</a> <small>Gensler</small></li><li><a href="buildings/marina-bay-sands/">Marina Bay Sands</a> <small>Moshe Safdie</small></li><li><a href="buildings/london-eye/">London Eye</a> <small>Marks Barfield</small></li></ol>
+  <h3>Most looked-up in South Asia</h3>
+  <ol><li><a href="buildings/lotus-temple/">Lotus Temple</a> <small>Fariborz Sahba</small></li><li><a href="buildings/rani-ki-vav/">Rani ki Vav</a> <small>Chaulukya builders</small></li><li><a href="buildings/rashtrapati-bhavan/">Rashtrapati Bhavan</a> <small>Edwin Lutyens</small></li><li><a href="buildings/faisal-mosque/">Faisal Mosque</a> <small>Vedat Dalokay</small></li><li><a href="buildings/jantar-mantar-jaipur/">Jantar Mantar, Jaipur</a> <small>Sawai Jai Singh II</small></li><li><a href="buildings/mazar-e-quaid/">Mazar-e-Quaid</a> <small>Yahya Merchant</small></li><li><a href="buildings/iit-kanpur-academic-area/">IIT Kanpur Academic Area</a> <small>Achyut Kanvinde</small></li><li><a href="buildings/rock-garden-of-chandigarh/">Rock Garden of Chandigarh</a> <small>Nek Chand</small></li><li><a href="buildings/indian-coffee-house/">Indian Coffee House</a> <small>Laurie Baker</small></li><li><a href="buildings/sansad-bhavan-old-parliament-house/">Sansad Bhavan (Old Parliament House)</a> <small>Edwin Lutyens, Herbert Baker</small></li></ol>
+</section>
+<!-- about:end -->
 
 <div class="sheet" id="sheet" hidden>
   <button type="button" class="veil" id="veil" aria-label="Close"></button>
@@ -85,6 +103,10 @@
         <h2><span id="byArchTitle"></span><button type="button" class="all" id="byArchAll"></button></h2>
         <div class="rel" id="byArchRel"></div>
       </section>
+      <section id="relBooks" hidden>
+        <h2><span>Related books</span><span class="bk-nav" id="relBooksNav"><button type="button" id="relBooksPrev" aria-label="Earlier books"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button><button type="button" id="relBooksNext" aria-label="More books"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button></span></h2>
+        <div class="bookrow" id="relBooksRow"></div>
+      </section>
       <section id="sameType">
         <h2><span id="sameTypeTitle"></span><button type="button" class="all" id="sameTypeAll"></button></h2>
         <div class="rel" id="sameTypeRel"></div>
@@ -110,13 +132,14 @@
   <button type="button" class="go" id="surprise">Surprise me</button>
 </nav>
 
-<script src="data/buildings.js?v=1bfca465"></script>
-<script src="data/links.js?v=f72157c9"></script>
-<script src="data/architects.js?v=046f0729"></script>
+<script src="data/buildings.js?v=63975555"></script>
+<script src="data/links.js?v=c0b5c818"></script>
+<script src="data/architects.js?v=600906cd"></script>
+<script src="data/pritzker.js?v=c4aa6758"></script>
 <script src="data/filters.js?v=9e9876ee"></script>
 <script src="data/world.js?v=5709bcc2"></script>
-<script src="data/books.js?v=9acaeb87"></script>
-<script src="app.js?v=7527c7ea"></script>
+<meta name="books-data" content="data/books.js?v=3f782450">
+<script src="app.js?v=8957ac55"></script>
 <script src="filter.js?v=eeaf93fd"></script>
 </body>
 </html>

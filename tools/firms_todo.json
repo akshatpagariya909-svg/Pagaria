@@ -1,0 +1,408 @@
+[
+ {
+  "firm": "Herzog & de Meuron",
+  "founders_we_list": [
+   "Jacques Herzog",
+   "Pierre de Meuron"
+  ],
+  "buildings": 26,
+  "example": "Tate Modern",
+  "face_now": "Jacques Herzog"
+ },
+ {
+  "firm": "SOM",
+  "founders_we_list": [
+   "Louis Skidmore",
+   "Nathaniel A. Owings",
+   "John O. Merrill"
+  ],
+  "buildings": 17,
+  "example": "Beinecke Rare Book & Manuscript Library",
+  "face_now": null
+ },
+ {
+  "firm": "SANAA",
+  "founders_we_list": [
+   "Kazuyo Sejima",
+   "Ryue Nishizawa"
+  ],
+  "buildings": 11,
+  "example": "21st Century Museum of Contemporary Art, Kanazawa",
+  "face_now": "Kazuyo Sejima"
+ },
+ {
+  "firm": "MVRDV",
+  "founders_we_list": [
+   "Winy Maas",
+   "Jacob van Rijs",
+   "Nathalie de Vries"
+  ],
+  "buildings": 8,
+  "example": "WoZoCo",
+  "face_now": "Winy Maas"
+ },
+ {
+  "firm": "gmp",
+  "founders_we_list": [
+   "Meinhard von Gerkan",
+   "Volkwin Marg"
+  ],
+  "buildings": 7,
+  "example": "Tempodrom",
+  "face_now": null
+ },
+ {
+  "firm": "3XN",
+  "founders_we_list": [
+   "Kim Herforth Nielsen"
+  ],
+  "buildings": 6,
+  "example": "Muziekgebouw aan 't IJ",
+  "face_now": null
+ },
+ {
+  "firm": "Snøhetta",
+  "founders_we_list": [
+   "Kjetil Trædal Thorsen",
+   "Craig Dykers"
+  ],
+  "buildings": 6,
+  "example": "Oslo Opera House",
+  "face_now": "Kjetil Trædal Thorsen"
+ },
+ {
+  "firm": "Coop Himmelb",
+  "founders_we_list": [
+   "Wolf D. Prix"
+  ],
+  "buildings": 6,
+  "example": "BMW Welt",
+  "face_now": null
+ },
+ {
+  "firm": "RCR Arquitectes",
+  "founders_we_list": [
+   "Rafael Aranda",
+   "Carme Pigem",
+   "Ramon Vilalta"
+  ],
+  "buildings": 6,
+  "example": "De Krook",
+  "face_now": "Carme Pigem"
+ },
+ {
+  "firm": "WOHA",
+  "founders_we_list": [
+   "Wong Mun Summ",
+   "Richard Hassell"
+  ],
+  "buildings": 5,
+  "example": "The Met",
+  "face_now": null
+ },
+ {
+  "firm": "Grafton Architects",
+  "founders_we_list": [
+   "Yvonne Farrell",
+   "Shelley McNamara"
+  ],
+  "buildings": 5,
+  "example": "Universita Luigi Bocconi Building",
+  "face_now": "Yvonne Farrell"
+ },
+ {
+  "firm": "Schmidt Hammer Lassen",
+  "founders_we_list": [
+   "Morten Schmidt",
+   "Bjarne Hammer",
+   "John F. Lassen"
+  ],
+  "buildings": 5,
+  "example": "Black Diamond",
+  "face_now": null
+ },
+ {
+  "firm": "Richard Rogers Partnership",
+  "founders_we_list": [],
+  "buildings": 5,
+  "example": "Antwerp Law Courts",
+  "face_now": null
+ },
+ {
+  "firm": "McKim, Mead",
+  "founders_we_list": [
+   "Charles Follen McKim",
+   "William Rutherford Mead",
+   "Stanford White"
+  ],
+  "buildings": 4,
+  "example": "The Morgan Library & Museum",
+  "face_now": "Charles Follen McKim"
+ },
+ {
+  "firm": "Nieto Sobejano",
+  "founders_we_list": [
+   "Fuensanta Nieto",
+   "Enrique Sobejano"
+  ],
+  "buildings": 4,
+  "example": "Arvo Pärt Centre",
+  "face_now": "Fuensanta Nieto"
+ },
+ {
+  "firm": "J. Mayer H.",
+  "founders_we_list": [
+   "Jürgen Mayer"
+  ],
+  "buildings": 4,
+  "example": "Metropol Parasol",
+  "face_now": null
+ },
+ {
+  "firm": "Sauerbruch Hutton",
+  "founders_we_list": [
+   "Matthias Sauerbruch",
+   "Louisa Hutton"
+  ],
+  "buildings": 4,
+  "example": "Museum Brandhorst",
+  "face_now": null
+ },
+ {
+  "firm": "Denton Corker Marshall",
+  "founders_we_list": [
+   "John Denton",
+   "Bill Corker",
+   "Barrie Marshall"
+  ],
+  "buildings": 4,
+  "example": "Melbourne Museum",
+  "face_now": null
+ },
+ {
+  "firm": "Behnisch Architekten",
+  "founders_we_list": [
+   "Stefan Behnisch"
+  ],
+  "buildings": 4,
+  "example": "Ozeaneum",
+  "face_now": null
+ },
+ {
+  "firm": "Ashton Raggatt McDougall",
+  "founders_we_list": [],
+  "buildings": 4,
+  "example": "RMIT Storey Hall",
+  "face_now": null
+ },
+ {
+  "firm": "Diller Scofidio",
+  "founders_we_list": [
+   "Elizabeth Diller",
+   "Ricardo Scofidio"
+  ],
+  "buildings": 3,
+  "example": "High Line",
+  "face_now": "Elizabeth Diller"
+ },
+ {
+  "firm": "HOK",
+  "founders_we_list": [
+   "Gyo Obata",
+   "George Hellmuth",
+   "George Kassabaum"
+  ],
+  "buildings": 3,
+  "example": "State Farm Stadium",
+  "face_now": "Peter Eisenman"
+ },
+ {
+  "firm": "Future Systems",
+  "founders_we_list": [],
+  "buildings": 3,
+  "example": "Museo Enzo Ferrari",
+  "face_now": null
+ },
+ {
+  "firm": "Kevin Roche John Dinkeloo",
+  "founders_we_list": [],
+  "buildings": 3,
+  "example": "Knights of Columbus Building",
+  "face_now": null
+ },
+ {
+  "firm": "O'Donnell",
+  "founders_we_list": [],
+  "buildings": 3,
+  "example": "Saw Swee Hock Student Centre, LSE",
+  "face_now": null
+ },
+ {
+  "firm": "Van den Broek en Bakema",
+  "founders_we_list": [],
+  "buildings": 3,
+  "example": "Aula TU Delft",
+  "face_now": null
+ },
+ {
+  "firm": "Bates Smart",
+  "founders_we_list": [],
+  "buildings": 3,
+  "example": "Federation Square",
+  "face_now": null
+ },
+ {
+  "firm": "Tezuka Architects",
+  "founders_we_list": [
+   "Takaharu Tezuka",
+   "Yui Tezuka"
+  ],
+  "buildings": 2,
+  "example": "Fuji Kindergarten",
+  "face_now": null
+ },
+ {
+  "firm": "Tham & Videgård",
+  "founders_we_list": [
+   "Bolle Tham",
+   "Martin Videgård"
+  ],
+  "buildings": 2,
+  "example": "Moderna Museet Malmö",
+  "face_now": null
+ },
+ {
+  "firm": "RMJM",
+  "founders_we_list": [
+   "Robert Matthew",
+   "Stirrat Johnson-Marshall"
+  ],
+  "buildings": 2,
+  "example": "Capital Gate",
+  "face_now": null
+ },
+ {
+  "firm": "Massimiliano and Doriana Fuksas",
+  "founders_we_list": [
+   "Massimiliano Fuksas",
+   "Doriana Fuksas"
+  ],
+  "buildings": 2,
+  "example": "Tbilisi Public Service Hall",
+  "face_now": "Massimiliano Fuksas"
+ },
+ {
+  "firm": "Věra and Vladimír Machonin",
+  "founders_we_list": [
+   "Vladimír Machonin",
+   "Věra Machoninová"
+  ],
+  "buildings": 2,
+  "example": "Hotel Thermal",
+  "face_now": null
+ },
+ {
+  "firm": "Aires Mateus",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Centro de Artes de Sines",
+  "face_now": null
+ },
+ {
+  "firm": "Buro Happold",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Tuwaiq Palace",
+  "face_now": null
+ },
+ {
+  "firm": "Caruso St John",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Newport Street Gallery",
+  "face_now": null
+ },
+ {
+  "firm": "Cruz y Ortiz",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Seville–Santa Justa Station",
+  "face_now": null
+ },
+ {
+  "firm": "Fender Katsalidis",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Museum of Old and New Art",
+  "face_now": null
+ },
+ {
+  "firm": "Heneghan Peng",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Palestinian Museum",
+  "face_now": null
+ },
+ {
+  "firm": "KWK Promes",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "PLATO Contemporary Art Gallery",
+  "face_now": null
+ },
+ {
+  "firm": "Peddle Thorp",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "State Library of Queensland",
+  "face_now": null
+ },
+ {
+  "firm": "Samper y Cía.",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Avianca Building",
+  "face_now": null
+ },
+ {
+  "firm": "Stanton Williams",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Sainsbury Laboratory",
+  "face_now": null
+ },
+ {
+  "firm": "Wandel Hoefer Lorch",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "New Synagogue Dresden",
+  "face_now": null
+ },
+ {
+  "firm": "Witherford Watson Mann",
+  "founders_we_list": [],
+  "buildings": 2,
+  "example": "Astley Castle",
+  "face_now": null
+ },
+ {
+  "firm": "Kallmann McKinnell",
+  "founders_we_list": [
+   "Gerhard Kallmann",
+   "Michael McKinnell"
+  ],
+  "buildings": 1,
+  "example": "Boston City Hall",
+  "face_now": null
+ },
+ {
+  "firm": "Behnisch, Behnisch",
+  "founders_we_list": [
+   "Günter Behnisch",
+   "Stefan Behnisch"
+  ],
+  "buildings": 1,
+  "example": "Norddeutsche Landesbank (NORD/LB) Headquarters",
+  "face_now": null
+ }
+]
