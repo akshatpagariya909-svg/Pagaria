@@ -1097,5 +1097,331 @@
    "https://commons.wikimedia.org/wiki/Category:Hampden_County_Courthouse"
   ],
   "note": ""
+ },
+ {
+  "id": "home-building-association-bank",
+  "name": "Home Building Association Bank",
+  "by": "Louis Sullivan",
+  "city": "Newark",
+  "cc": "US",
+  "year": "1914",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "One of eight banks by Sullivan; a narrow lot made larger by building two storeys.",
+  "status": "photo",
+  "commons_category": "Category:Home Building Association Bank",
+  "photos": [
+   {
+    "file": "File:Home Building Association Company Building, 3rd Street and Main Street, Newark, OH.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Home_Building_Association_Bank",
+   "https://commons.wikimedia.org/wiki/Category:Home_Building_Association_Bank"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hubert-h-humphrey-building",
+  "name": "Hubert H. Humphrey Building",
+  "by": "Marcel Breuer",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1977",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Eight-storey Brutalist headquarters of Health and Human Services; one of Breuer's two federal buildings in Washington.",
+  "status": "photo",
+  "commons_category": "Category:Hubert H. Humphrey Building",
+  "photos": [
+   {
+    "file": "File:Hubert H. Humphrey Building, located at the foot of Capitol Hill, Washington, D.C LCCN2013634632.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hubert_H._Humphrey_Building",
+   "https://commons.wikimedia.org/wiki/Category:Hubert_H._Humphrey_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kauffman-center-performing-arts",
+  "name": "Kauffman Center for the Performing Arts",
+  "by": "Moshe Safdie",
+  "city": "Kansas City",
+  "cc": "US",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "Two halls, the 1,800-seat Muriel Kauffman Theatre and the 1,600-seat Helzberg Hall, under one shell; opened 2011.",
+  "status": "photo",
+  "commons_category": "Category:Kauffman Center for the Performing Arts",
+  "photos": [
+   {
+    "file": "File:Kauffman Center for Performing Arts 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kauffman_Center_for_the_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Kauffman_Center_for_the_Performing_Arts"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kips-bay-towers",
+  "name": "Kips Bay Towers",
+  "by": "I. M. Pei & S. J. Kessler",
+  "city": "New York",
+  "cc": "US",
+  "year": "1965",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Two 20-storey Brutalist towers with 1,118 units across three blocks, built as middle-income rental housing.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kips Bay Plaza North Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kips_Bay_Towers"
+  ],
+  "note": ""
+ },
+ {
+  "id": "manhattan-house",
+  "name": "Manhattan House",
+  "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1951",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Courtyard",
+   "Geometry"
+  ],
+  "features": "A 21-storey modern apartment building filling a whole city block, built 1949–51 for New York Life.",
+  "status": "photo",
+  "commons_category": "Category:Manhattan House Apartments",
+  "photos": [
+   {
+    "file": "File:Manhattan House 65 jeh.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manhattan_House",
+   "https://commons.wikimedia.org/wiki/Category:Manhattan_House_Apartments"
+  ],
+  "note": ""
+ },
+ {
+  "id": "munson-williams-proctor-arts-institute",
+  "name": "Munson-Williams-Proctor Arts Institute",
+  "by": "Philip Johnson",
+  "city": "Utica",
+  "cc": "US",
+  "year": "1960",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Regional art museum and performing-arts centre in Utica, designed by Philip Johnson.",
+  "status": "photo",
+  "commons_category": "Category:Munson-Williams-Proctor Arts Institute",
+  "photos": [
+   {
+    "file": "File:Munson-Williams-Proctor Arts Institute, Utica NY.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Munson-Williams-Proctor_Arts_Institute",
+   "https://commons.wikimedia.org/wiki/Category:Munson-Williams-Proctor_Arts_Institute"
+  ],
+  "note": ""
+ },
+ {
+  "id": "niagara-falls-public-library",
+  "name": "Niagara Falls Public Library",
+  "by": "Paul Rudolph",
+  "city": "Niagara Falls",
+  "cc": "US",
+  "year": "1974",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Main Library in the Earl W. Brydges Building, built 1974 by Paul Rudolph.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:20190615 - 05 - Niagara Falls Public Library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niagara_Falls_Public_Library_(New_York)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "north-shore-congregation-israel",
+  "name": "North Shore Congregation Israel",
+  "by": "Minoru Yamasaki",
+  "city": "Glencoe",
+  "cc": "US",
+  "year": "1964",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "Reform synagogue on Sheridan Road designed by Minoru Yamasaki.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:North Shore Congregation.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/North_Shore_Congregation_Israel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "oakes-ames-memorial-hall",
+  "name": "Oakes Ames Memorial Hall",
+  "by": "Henry Hobson Richardson",
+  "city": "Easton",
+  "cc": "US",
+  "year": "1881",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Richardson hall with landscaping by Frederick Law Olmsted, beside the Ames Free Library.",
+  "status": "photo",
+  "commons_category": "Category:Oakes Ames Memorial Hall",
+  "photos": [
+   {
+    "file": "File:Oakes Ames Memorial Hall (North Easton, MA) - front facade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakes_Ames_Memorial_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Oakes_Ames_Memorial_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "olivetti-underwood-factory",
+  "name": "Olivetti-Underwood Factory",
+  "by": "Louis Kahn",
+  "city": "Harrisburg",
+  "cc": "US",
+  "year": "1970",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Modular"
+  ],
+  "features": "Typewriter factory commissioned from Kahn in 1966 by Olivetti, patrons of industrial design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kahn's Olivetti factory.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivetti-Underwood_Factory"
+  ],
+  "note": ""
  }
 ]
