@@ -234,7 +234,7 @@ def describe(title, hint, meta, cats='', city=''):
 
 
 def caption(kind, meta, b):
-    d = re.sub(r'\s+', ' ', strip(meta.get('ImageDescription')))
+    d = re.sub(r'\s+', ' ', strip(meta.get('ImageDescription'))).replace('\\', '')  # some descriptions carry escaped quotes
     d = re.split(r'(?<=[.!?])\s', d)[0] if d else ''
     if not d or len(d) > 110 or re.search(r'[^\x00-ɏ]', d) or d.lower().rstrip('.') == b['name'].lower():
         return kind
