@@ -1,18 +1,50 @@
 {
- "fetched_at": "2026-10-14T13:53:54+00:00",
+ "fetched_at": "2026-10-14T20:30:29+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 8,
+ "visits_30d": 14,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 7,
+     "count": 9,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture \u00b7 a wall of great buildings for architecture students",
      "max": 2
+    },
+    {
+     "count": 1,
+     "path_id": 112095271,
+     "path": "/buildings/sakaide-artificial-ground",
+     "event": false,
+     "title": "Sakaide Artificial Ground \u2014 Masato Otaka, 1968: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112094996,
+     "path": "/buildings/templo-votivo-de-maipu",
+     "event": false,
+     "title": "Votive Temple of Maip\u00fa \u2014 Juan Mart\u00ednez Guti\u00e9rrez, 1974: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112092557,
+     "path": "/buildings/rockefeller-museum",
+     "event": false,
+     "title": "Rockefeller Museum \u2014 Austen Harrison, 1938: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112066067,
+     "path": "/buildings/villa-tugendhat",
+     "event": false,
+     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
     },
     {
      "count": 1,
@@ -23,14 +55,14 @@
      "max": 1
     }
    ],
-   "total": 8,
+   "total": 14,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 4,
+     "count": 8,
      "ref_scheme": "o"
     },
     {
@@ -38,6 +70,12 @@
      "name": "ig",
      "count": 3,
      "ref_scheme": "c"
+    },
+    {
+     "id": "Google",
+     "name": "Google",
+     "count": 2,
+     "ref_scheme": "g"
     }
    ],
    "more": false
@@ -45,14 +83,14 @@
   "browsers": {
    "stats": [
     {
-     "id": "Safari",
-     "name": "Safari",
-     "count": 5
-    },
-    {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 3
+     "count": 8
+    },
+    {
+     "id": "Safari",
+     "name": "Safari",
+     "count": 6
     }
    ],
    "more": false
@@ -62,12 +100,22 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 4
+     "count": 5
     },
     {
      "id": "macOS",
      "name": "macOS",
+     "count": 4
+    },
+    {
+     "id": "Linux",
+     "name": "Linux",
      "count": 3
+    },
+    {
+     "id": "Android",
+     "name": "Android",
+     "count": 1
     },
     {
      "id": "Windows",
@@ -85,13 +133,28 @@
      "count": 6
     },
     {
+     "id": "US",
+     "name": "United States",
+     "count": 4
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 1
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 1
+    },
+    {
      "id": "GB",
      "name": "United Kingdom",
      "count": 1
     },
     {
-     "id": "US",
-     "name": "United States",
+     "id": "NL",
+     "name": "Netherlands",
      "count": 1
     }
    ],
@@ -102,7 +165,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 4
+     "count": 6
     },
     {
      "id": "tablet",
@@ -112,7 +175,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 3
+     "count": 7
     },
     {
      "id": "desktophd",
@@ -132,7 +195,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 8
+     "count": 14
     }
    ],
    "more": false
