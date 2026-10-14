@@ -1,0 +1,422 @@
+[
+ {
+  "id": "copernicus-science-centre",
+  "name": "Copernicus Science Centre",
+  "by": "RAr-2 (Ruda Śląska)",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "Two-storey science centre on the Vistula bank with a rooftop garden, won in competition by RAr-2 in 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Centrum Nauki Kopernik",
+  "photos": [
+   {
+    "file": "File:Barka wynurzenie i centrum nauki kopernik.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centrum Nauki Kopernik - Warszawa (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Copernicus_Science_Centre"
+  ],
+  "note": "First module opened 5 Nov 2010."
+ },
+ {
+  "id": "university-of-warsaw-library",
+  "name": "University of Warsaw Library (BUW)",
+  "by": "Marek Budzyński, Zbigniew Badowski",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "1999",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Library with one of Europe's largest public roof gardens, designed by Irena Bajerska; opened 15 December 1999.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:University of Warsaw Library",
+  "photos": [
+   {
+    "file": "File:Warszawa - Biblioteka Uniwersytecka - 06.10.2025 10-03-43.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Warsaw Library - BUW - 1994-1998 - BUW (50571954423).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Warsaw University library (22572).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Warsaw_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "gdansk-shakespeare-theatre",
+  "name": "Gdańsk Shakespeare Theatre",
+  "by": "Renato Rizzi",
+  "city": "Gdańsk",
+  "cc": "PL",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Anthracite-black brick 'Black Box', massively buttressed with few openings, on the site of a 17th-century fencing-school theatre.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Shakespearean theatre in Gdańsk",
+  "photos": [
+   {
+    "file": "File:Gdańsk ulica Bogusławskiego 1 – Gdański Teatr Szekspirowski.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gdansk 2015 005.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gdansk Teatr Szekspirowski 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gdańsk_Shakespeare_Theatre"
+  ],
+  "note": "Opened September 2014; competition won January 2005."
+ },
+ {
+  "id": "museum-of-the-second-world-war-gdansk",
+  "name": "Museum of the Second World War",
+  "by": "Kwadrat",
+  "city": "Gdańsk",
+  "cc": "PL",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Competition-winning design by Gdynia studio Kwadrat: a 40 m leaning tower with a glass façade; opened 2017.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Museum of Second World War in Gdańsk",
+  "photos": [
+   {
+    "file": "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War"
+  ],
+  "note": "Competition won 2010, construction began 2012, opened to the public 23 March 2017."
+ },
+ {
+  "id": "divine-mercy-church-kalisz",
+  "name": "Divine Mercy Church",
+  "by": "Jerzy Kuźmienko, Andrzej Fajans",
+  "city": "Kalisz",
+  "cc": "PL",
+  "year": "1993",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Reinforced-concrete shell of hyperbolic paraboloids spanning the nave without columns; designed 1958, built 1977–93.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sanctuary of Divine Mercy in Kalisz",
+  "photos": [
+   {
+    "file": "File:Kalisz Sanktuarium Miłosierdzia Bożego (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kalisz Sanktuarium Miłosierdzia Bożego (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023-04-04 Kościół Miłosierdzia Bożego w Kaliszu (7).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Divine_Mercy_Church,_Kalisz"
+  ],
+  "note": "Designed after a 1958 competition; Fajans was still a student then."
+ },
+ {
+  "id": "renoma-wroclaw",
+  "name": "Renoma (Wertheim department store)",
+  "by": "Hermann Dernburg",
+  "city": "Wrocław",
+  "cc": "PL",
+  "year": "1930",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Steel-framed department store, then the largest steel-frame building in Europe, with escalators; opened April 1930.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Wertheim/Renoma department store in Wrocław",
+  "photos": [
+   {
+    "file": "File:Breslau Kaufhaus Renoma.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dom Handlowy Werthaim (Renoma) Wrocław, Polska (2025-12-28).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Breslau - Tauentzienplatz - Wertheim. 1930-1939 (75262690).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Renoma"
+  ],
+  "note": "Wertheim store in Breslau; reopened 2009 after modernisation. Third photo is a pre-war archive image (PD)."
+ },
+ {
+  "id": "villa-bilek-prague",
+  "name": "Villa Bílek",
+  "by": "František Bílek",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1911",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Brick villa and studio the sculptor Bílek designed for himself; pillars shaped like corn sheaves evoke Egyptian architecture.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bílkova vila",
+  "photos": [
+   {
+    "file": "File:Bílkova vila (06).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bílkova vila (04).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bilkovavila.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Bílek"
+  ],
+  "note": ""
+ },
+ {
+  "id": "legiobanka-prague",
+  "name": "Legiobanka (Bank of the Czechoslovak Legions)",
+  "by": "Josef Gočár",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1923",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Head office of the Legion Bank; its style gave Czech Art Deco ('rondocubism') the name 'Legiobank style'.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bank of the Czechoslovak Legions, Prague",
+  "photos": [
+   {
+    "file": "File:Bank of the Czechoslovak Legions, Prague13.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:147 Palác Archa, antic Legionářská Banka, Ulice Na Poříčí.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bank of the Czechoslovak Legions in Prague.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Legiobanka"
+  ],
+  "note": "Designed 1921; the bank moved in 1923. Third photo is public domain."
+ },
+ {
+  "id": "hotel-intercontinental-prague",
+  "name": "Hotel Intercontinental Prague (Fairmont Golden Prague)",
+  "by": "Karel Filsak",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1974",
+  "type": "Hospitality",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Brutalist riverside hotel by a team led by Karel Filsak; exposed concrete and a ceramic façade, restored in 2021–25.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hotel Intercontinental (Prague)",
+  "photos": [
+   {
+    "file": "File:2015-07 Praha (4).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190202 InteCon@Praha 2829 (47440481521).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190202 InteCon@Praha 2912 (40474610193).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fairmont_Golden_Prague_Hotel"
+  ],
+  "note": "Built 1968–74; officially opened 7 Dec 1974. Wikipedia title is Fairmont Golden Prague Hotel."
+ },
+ {
+  "id": "colonnade-bridge-piestany",
+  "name": "Colonnade Bridge (Kolonádový most)",
+  "by": "Emil Belluš",
+  "city": "Piešťany",
+  "cc": "SK",
+  "year": "1933",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Water",
+   "Promenade",
+   "Detail"
+  ],
+  "features": "Streamline Moderne colonnade bridge over the Váh, with glass engravings by Martin Benka; rebuilt and reopened in 1956.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kolonádový most",
+  "photos": [
+   {
+    "file": "File:Kolonadovy most (2022-02-14).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kolonádový most - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kolonádový most Piešťany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kolonádový_most_(Piešťany)"
+  ],
+  "note": "Designed 1930–33; destroyed in 1945 and reopened 30 Dec 1956."
+ }
+]
