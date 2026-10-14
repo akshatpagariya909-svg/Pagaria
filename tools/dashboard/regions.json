@@ -1,11 +1,11 @@
 [
  {
   "region": "Europe",
-  "buildings": 1388
+  "buildings": 1470
  },
  {
   "region": "Americas",
-  "buildings": 656
+  "buildings": 683
  },
  {
   "region": "East Asia",
@@ -16,16 +16,16 @@
   "buildings": 187
  },
  {
+  "region": "Southeast Asia",
+  "buildings": 127
+ },
+ {
   "region": "Oceania",
   "buildings": 104
  },
  {
   "region": "South Asia",
   "buildings": 102
- },
- {
-  "region": "Southeast Asia",
-  "buildings": 81
  },
  {
   "region": "Africa",

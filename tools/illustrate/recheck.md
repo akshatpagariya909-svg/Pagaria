@@ -96,3 +96,12 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Iglesia Filipina Independiente National Cathedral | Carlos D. Arguelles | Quezon City, PH |
 | Monument to the Revolution, Kozara | Dušan Džamonja | Mrakovica (Kozara), BA |
 | Pasig Revolving Tower | Edward Medina | Pasig, PH |
+| Vigyan Bhawan | R. P. Gehlote (CPWD) | New Delhi, IN |
+| Mohammed Bin Rashid Library | asp Architekten, Obermeyer Planen+Beraten, ACG Architecture Consulting Group | Dubai, AE |
+| Mathaf: Arab Museum of Modern Art | Jean-François Bodin | Doha, QA |
+| Education City Stadium | Fenwick Iribarren Architects, Pattern Design | Al Rayyan, QA |
+| Hamad International Airport | HOK | Doha, QA |
+| Abboud Building (Al-Dhakir) | Rifat Chadirji | Baghdad, IQ |
+| Wedding Palace | Victor Djorbenadze, Vazha Orbeladze | Tbilisi, GE |
+| Troy Museum | Yalın Mimarlık | Çanakkale, TR |
+| Visvesvaraya Centre (VV Towers) | Charles Correa | Bengaluru, IN |

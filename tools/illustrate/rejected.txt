@@ -117,3 +117,13 @@ capitan-luis-gonzaga-building  # round 7b review: no clear photo: a street crowd
 iglesia-filipina-independiente-national-cathedral  # round 7b review: no exterior: a flag, busts, a sign and two interiors
 blue-cross-blue-shield-building-chicago  # round 7b review: lead photo is not clearly this building; others are skyline views
 highfield-house-baltimore  # round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower
+torre-colpatria  # round 8 quality watch: ordinary commercial tower
+troy-museum  # round 8 review: no exterior photo, only galleries inside
+abboud-building  # round 8 review: no photo was fetched
+mohammed-bin-rashid-library  # round 8 review: only photo is a dark night shot
+mathaf-arab-museum-of-modern-art  # round 8 review: no photo of the building: a sculpture outside and a gallery inside
+education-city-stadium  # round 8 review: only a small photo of the crowd inside
+hamad-international-airport  # round 8 review: no clear photo: a road with the terminal far off, and a bus
+wedding-palace-tbilisi  # round 8 review: only far-off photos at dusk
+vigyan-bhawan  # round 8 review: no clear photo: an entrance crowd, an award ceremony, a lectern
+visvesvaraya-centre-bengaluru  # round 8 review: ordinary office towers; one photo shows another building
