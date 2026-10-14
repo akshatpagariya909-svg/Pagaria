@@ -1225,5 +1225,136 @@
    "https://en.wikipedia.org/wiki/Cauchie_House"
   ],
   "note": ""
+ },
+ {
+  "id": "saint-cyr-house-brussels",
+  "name": "Saint-Cyr House",
+  "by": "Gustave Strauven",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1903",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Only 4 m wide but very tall; polychrome brick façade with wrought iron that mimics vegetation.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bruxelles Maison Saint-Cyr 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles Maison Saint-Cyr 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Maison Saint-Cyr (2).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles Maison Saint-Cyr Fenster 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saint-Cyr_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "villa-empain-brussels",
+  "name": "Villa Empain",
+  "by": "Michel Polak",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1934",
+  "type": "House",
+  "movement": "Art Deco",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Stone"
+  ],
+  "features": "Art Deco villa of 1930-34: polished granite façades, an enclosed courtyard and a swimming pool.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Brussel Villa Empain 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Fondation Boghossian-Empain.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bruxelles - Fondation Boghossian-Empain (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brussel Villa Empain 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Empain"
+  ],
+  "note": ""
+ },
+ {
+  "id": "olympic-stadium-amsterdam",
+  "name": "Olympic Stadium (Olympisch Stadion)",
+  "by": "Jan Wils",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Amsterdam School stadium whose design won the 1928 Olympic gold medal in architecture; second ring added 1937.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:OS-Amsterdam.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam Olympic stadium (33460392888).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Stadium_(Amsterdam)"
+  ],
+  "note": "Only two clear exterior photos in the file search; check the second (pos 0) shows this stadium."
  }
 ]
