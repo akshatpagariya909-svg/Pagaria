@@ -227,6 +227,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Unité d'Habitation, Rezé (Maison Radieuse) | Le Corbusier | 1955 | Rezé, FR | lead photo didn't show the building (Oct 13 review) |
 | Kanagawa Prefectural Music Hall and Library | Kunio Maekawa | 1954 | Yokohama, JP | lead photo didn't show the building (Oct 13 review) |
 | Park Hotel Shanghai | László Hudec | 1934 | Shanghai, CN | lead photo didn't show the building (Oct 13 review) |
+| Cultural Center of the Philippines (Tanghalang Pambansa) | Leandro Locsin | 1969 | Pasay, PH | wall photo check, 14 Oct: no exterior: seats, a sculpture, a choir, a hall |
 | Carrières Centrales (Nid d'Abeille and Sémiramis) | ATBAT-Afrique: Georges Candilis, Shadrach Woods, Alexis Josic, under Michel Écochard | 1952 | Casablanca, MA | No Commons category and no free photo found (only a 438px CC BY-SA photo of Hay Mohammadi). The 1954 L'Architecture d'Aujourd'hui cover showing Nid d'Abeille is tagged public domain on Commons (check the tag). Wikipedia gives no storeys or facade pattern, and residents have walled in most balconies, so I did not draw it. |
 | National Conservatory of Music, Mexico | Mario Pani | 1949 | Mexico City, MX | lead photo didn't show the building (Oct 13 review) |
 | Girardot Market Hall (Plaza de Mercado de Girardot) | Leopoldo Rother | 1948 | Girardot, CO | lead photo didn't show the building (Oct 13 review) |
@@ -356,15 +357,29 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Gas Company Tower | Richard Keating; Skidmore, Owings and Merrill | 1991 | Los Angeles, US | no clear free exterior photo |
 | Wilshire Grand Center | AC Martin Partners | 2017 | Los Angeles, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Entenza House | Charles Eames, Ray Eames and Eero Saarinen | 1950 | Los Angeles, US | no free photo |
+| Obafemi Awolowo University | Arieh Sharon | 1967 | Ile-Ife, NG | Huge category of mostly phone photos; not clear which show Sharon's buildings. Year is first-building completion. Reviewer decide or drop. |
+| Nigerian National Christian Centre | Darchiwork Group | 2005 | Abuja, NG | no free photo |
+| Palais de la Nation | Marcel Lambrichs | 1960 | Kinshasa, CD | no free photo (only small or old images in category) |
+| Mohammed VI Polytechnic University | Ricardo Bofill, Elie Mouyal | 2017 | Benguerir, MA | no free photo; year is the 2017 inauguration |
+| Carlton Centre | Skidmore, Owings & Merrill with W. Rhodes-Harrison, Hoffe and Partners | 1973 | Johannesburg, ZA | round 8 quality watch: office tower chosen for height |
+| Cheongju National Museum | Kim Swoo-geun | 1987 | Cheongju, KR | no free photo: the only file in the Commons category is an interior under KOGL Type 1. The Kim Swoo-geun article dates the building 1979; the museum article says it opened in 1987. |
+| Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
 | Ankara Ethnography Museum | Arif Hikmet Koyunoğlu | 1928 | Ankara, TR | no free photo. No free photo found directly in the category (files are in per-year subcategories; not checked). Article gives no features beyond architect and dates; features line and concepts are thin. |
+| Troy Museum | Yalın Mimarlık | 2018 | Çanakkale, TR | round 8 review: no exterior photo, only galleries inside |
 | TCDD General Headquarters Building | Bedri Uçar | 1941 | Ankara, TR | no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture). |
 | Istanbul University Faculty of Arts and Sciences Building | Sedad Hakkı Eldem, Emin Halid Onat | 1944 | Istanbul, TR | no free photo. No lead image; Commons category search found nothing. Not photo-checked further. |
 | Vahdat Hall (Rudaki Hall) | Eugene Aftandilian | 1967 | Tehran, IR | no free photo: category and lead image show only concerts/interiors, nothing of the exterior |
 | Central Bank of Iraq | Dissing+Weitling | 1985 | Baghdad, IQ | no free photo: category's only photo (1024x768, CC BY 2.0) shows it as a distant backdrop to the Mustansiriya Madrasa |
+| Abboud Building (Al-Dhakir) | Rifat Chadirji | 1955 | Baghdad, IQ | round 8 review: no photo was fetched |
 | Grand Théâtre des Mille et Une Nuits | Youssef Aftimus | 1929 | Beirut, LB | no free photo: lead image only 474px aerial; no category images found. |
 | KAFD Grand Mosque | Omrania | 2017 | Riyadh, SA | no free photo: Wikipedia has no page image and Commons search for the building returned nothing. Article gives year 2017 (category says 2016). |
+| Mohammed Bin Rashid Library | asp Architekten, Obermeyer Planen+Beraten, ACG Architecture Consulting Group | 2022 | Dubai, AE | round 8 review: only photo is a dark night shot |
+| Mathaf: Arab Museum of Modern Art | Jean-François Bodin | 2010 | Doha, QA | round 8 review: no photo of the building: a sculpture outside and a gallery inside |
 | Sheikh Abdullah Al-Salem Cultural Centre | SSH | 2018 | Kuwait City, KW | no free photo: article image is a CC0 satellite view only; Commons search for exteriors found nothing. Article gives inauguration 2018, SSH 'design and engineer the building envelopes'. |
+| Education City Stadium | Fenwick Iribarren Architects, Pattern Design | 2020 | Al Rayyan, QA | round 8 review: only a small photo of the crowd inside |
 | Msheireb Museums | John McAslan | 2015 | Doha, QA | no free photo: category holds only File:Radwani House.jpg (3024x4032, CC BY-SA 4.0), one of the four houses, not the whole complex. John McAslan was project architect for renovation and additions; RIBA listed it in 2018. |
+| Hamad International Airport | HOK | 2014 | Doha, QA | round 8 review: no clear photo: a road with the terminal far off, and a bus |
+| Wedding Palace | Victor Djorbenadze, Vazha Orbeladze | 1984 | Tbilisi, GE | round 8 review: only far-off photos at dusk |
 | Vila Operária da Gamboa | Lúcio Costa, Gregori Warchavchik | 1933 | Rio de Janeiro, BR | no free photo |
 | Santos Dumont Airport | MMM Roberto (Marcelo, Milton and Mauricio Roberto) | 1945 | Rio de Janeiro, BR | no free photo; category had no files; none found by search |
 | Floralis Genérica | Eduardo Catalano | 2002 | Buenos Aires, AR | no free photo |
@@ -373,10 +388,12 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | New Cathedral of Cuenca | Juan Bautista Stiehle | 1975 | Cuenca, EC | no free photo (only a GFDL detail photo found; needs a better free photo) |
 | Torre Colpatria | Obregón Valenzuela & Cía. | 1978 | Bogotá, CO | round 8 quality watch: ordinary commercial tower |
 | Museo de Arte Contemporáneo de Caracas | Nikolajs Sidorkovs (Siso & Shaw & Associates) | 1974 | Caracas, VE | no free photo |
+| Vigyan Bhawan | R. P. Gehlote (CPWD) | 1956 | New Delhi, IN | round 8 review: no clear photo: an entrance crowd, an award ceremony, a lectern |
 | New Parliament Building | Bimal Patel (HCP Design, Planning and Management) | 2023 | New Delhi, IN | no free photo: Commons files found are all GODL-India. |
 | National War Memorial | Yogesh Chandrahasan (WeBe Design Lab) | 2019 | New Delhi, IN | no good daylight photo seen: the ones I viewed were night shots or people-filled; many CC BY-SA files exist in the category for a reviewer to check. |
 | Dr. Bhimrao Ambedkar Memorial Park | Hafeez Contractor | 2008 | Lucknow, IN | no good daylight photo seen: viewed ones were night or dusk. Many large CC BY-SA files exist in the category (about 40+) for a reviewer to check. |
 | National Museum, New Delhi | Ganesh Bhikaji Deolalikar | 1960 | New Delhi, IN | no free photo found of the building exterior (category is mostly museum objects). |
+| Visvesvaraya Centre (VV Towers) | Charles Correa | 1983 | Bengaluru, IN | round 8 review: ordinary office towers; one photo shows another building |
 | Nita Mukesh Ambani Cultural Centre | TVS Design | 2023 | Mumbai, IN | no free photo in good light: the only file in the article and my search is a night shot with signage (File:2023-0329-nmacc-night.jpg, CC0); reviewer may check the Commons category for daylight exteriors. |
 | Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) | Charles Correa | 1995 | Bengaluru, IN | no free photo: Commons category holds only the Buckyball interior view and a gazebo; no exterior of the campus buildings. |
 | DakshinaChitra | Laurie Baker (master plan), Benny Kuriakose | 1996 | Chennai, IN | no free photo of the museum buildings themselves: Commons files show relocated heritage houses (Kerala House, etc.), not Baker/Kuriakose architecture; reviewer to decide. Opened 14 Dec 1996. |
