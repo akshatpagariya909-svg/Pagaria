@@ -56,3 +56,24 @@ bagno-pubblico-bellinzona  # held back in round 6 review: no clear free photo of
 museum-university-navarra  # held back in round 6 review: no clear free photo of the building
 escola-do-cedro  # held back in round 6 review: no clear free photo of the building
 xanadu-calp  # held back in round 6 review: no clear free photo of the building
+tour-first  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-majunga  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-bretagne-nantes  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-areva  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+gioia-22-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+unicredit-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+matitone-genoa  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+heron-tower-london  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+millbank-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+rotunda-birmingham  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+beetham-tower-manchester  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+177-huntington  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+500-boylston-street  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+olympic-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+one-international-place  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+general-petroleum-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+kaiser-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+yeon-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+hotel-valley-ho  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+chase-tower-phoenix  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+wilshire-grand-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
