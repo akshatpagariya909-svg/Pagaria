@@ -3906,5 +3906,401 @@
    "https://commons.wikimedia.org/wiki/Category:London_Stadium"
   ],
   "note": "built 2011 as Olympic Stadium; renovated for football 2016"
+ },
+ {
+  "id": "falkirk-wheel",
+  "name": "Falkirk Wheel",
+  "by": "Tony Kettle (RMJM)",
+  "city": "Falkirk",
+  "cc": "GB",
+  "year": "2002",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Water",
+   "Sculptural form"
+  ],
+  "features": "The only rotating boat lift of its kind in the world, with two arms shaped like a Celtic-inspired double-headed axe.",
+  "status": "photo",
+  "commons_category": "Category:Falkirk Wheel",
+  "photos": [
+   {
+    "file": "File:2018 07 07 Schottland (38) Falkirk Wheel.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2018 07 07 Schottland (40).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2018 07 07 Schottland (42).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+   "https://commons.wikimedia.org/wiki/Category:Falkirk_Wheel"
+  ],
+  "note": "category list truncated at 40; later files not checked"
+ },
+ {
+  "id": "hill-house-helensburgh",
+  "name": "Hill House",
+  "by": "Charles Rennie Mackintosh",
+  "city": "Helensburgh",
+  "cc": "GB",
+  "year": "1904",
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "An austere, unornamented grey roughcast exterior, with interior light modulated by dark panelling and coloured glass.",
+  "status": "photo",
+  "commons_category": "Category:Hill House, Helensburgh",
+  "photos": [
+   {
+    "file": "File:Helensburgh - Hill House 01.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Helensburgh - Hill House 03.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Hill House 1 (36698087814).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hill_House,_Helensburgh",
+   "https://commons.wikimedia.org/wiki/Category:Hill_House,_Helensburgh"
+  ],
+  "note": "exterior now under the protective 'Box' mesh in recent photos; prefer 2008-era files"
+ },
+ {
+  "id": "castletown-house",
+  "name": "Castletown House",
+  "by": "Alessandro Galilei and Edward Lovett Pearce",
+  "city": "Celbridge",
+  "cc": "IE",
+  "year": "1722",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "A Palladian country house with a cantilevered Portland stone staircase and a Pompeian-style Long Gallery.",
+  "status": "photo",
+  "commons_category": "Category:Castletown House",
+  "photos": [
+   {
+    "file": "File:Castletown House.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Castletown.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Celbridge - Castletown House - 20180324102048.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Castletown_House",
+   "https://commons.wikimedia.org/wiki/Category:Castletown_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "centre-point-london",
+  "name": "Centre Point",
+  "by": "George Marsh (R. Seifert and Partners)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1966",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A 34-storey tower of precast fine-concrete segments using crushed Portland stone.",
+  "status": "photo",
+  "commons_category": "Category:Centre Point",
+  "photos": [
+   {
+    "file": "File:Centre Point (4281441823).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Centre Point - geograph.org.uk - 2660934.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:At London 2026 0166 - Centre Point.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centre_Point",
+   "https://commons.wikimedia.org/wiki/Category:Centre_Point"
+  ],
+  "note": ""
+ },
+ {
+  "id": "waterfront-hall-belfast",
+  "name": "Waterfront Hall",
+  "by": "Robinson McIlwaine",
+  "city": "Belfast",
+  "cc": "GB",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Water",
+   "Public space"
+  ],
+  "features": "A copper-coated dome and a flexible auditorium whose stalls seating can be moved to form a larger arena.",
+  "status": "photo",
+  "commons_category": "Category:Waterfront Hall, Belfast",
+  "photos": [
+   {
+    "file": "File:THE WATERFRONT HALL IN BELFAST (WITH NEW EXTENSION) - panoramio - William Murphy.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Belfast - The Waterfront Hall (5688231860).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waterfront_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Waterfront_Hall,_Belfast"
+  ],
+  "note": ""
+ },
+ {
+  "id": "arts-tower-sheffield",
+  "name": "Arts Tower",
+  "by": "Gollins, Melvin, Ward & Partners",
+  "city": "Sheffield",
+  "cc": "GB",
+  "year": "1965",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Called the most elegant university tower block of its period; 38-car paternoster lift, UK's largest surviving.",
+  "status": "photo",
+  "commons_category": "Category:The Arts Tower",
+  "photos": [
+   {
+    "file": "File:Arts Tower, Sheffield (2022).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Arts Tower, University of Sheffield, Sheffield - geograph.org.uk - 4431038.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Sheffield Arts Tower viewed from Weston Park - geograph.org.uk - 5070268.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arts_Tower",
+   "https://commons.wikimedia.org/wiki/Category:The_Arts_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "glasgow-science-centre",
+  "name": "Glasgow Science Centre",
+  "by": "Building Design Partnership (Glasgow Tower: Richard Horden)",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Science Mall evokes the canted hull of a ship; the Glasgow Tower is a freely-rotating tower.",
+  "status": "photo",
+  "commons_category": "Category:Glasgow Science Centre",
+  "photos": [
+   {
+    "file": "File:Glasgow Science Centre - geograph.org.uk - 5485104.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Glasgow Science Centre - geograph.org.uk - 3457398.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Glasgow Science Centre (15927441565).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glasgow_Science_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Glasgow_Science_Centre"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cork-county-hall",
+  "name": "County Hall, Cork",
+  "by": "Patrick McSweeney",
+  "city": "Cork",
+  "cc": "IE",
+  "year": "1968",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "17-storey council office block; its original concrete facade was replaced by louvered glass cladding.",
+  "status": "photo",
+  "commons_category": "Category:County Hall, Cork",
+  "photos": [
+   {
+    "file": "File:Cork County Hall, Cork City.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:CorkCountyHall2017.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:County Hall, Cork City (2024).jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/County_Hall,_Cork",
+   "https://commons.wikimedia.org/wiki/Category:County_Hall,_Cork"
+  ],
+  "note": "Photos show the redeveloped glass cladding, not the original concrete facade; reviewer decide."
+ },
+ {
+  "id": "tower-bridge",
+  "name": "Tower Bridge",
+  "by": "Horace Jones; John Wolfe Barry",
+  "city": "London",
+  "cc": "GB",
+  "year": "1894",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Water"
+  ],
+  "features": "Combines bascule, suspension and (until 1960) cantilever types, with central bascules that open for ships.",
+  "status": "photo",
+  "commons_category": "Category:Tower Bridge",
+  "photos": [
+   {
+    "file": "File:Tower Bridge from Pool of London River Thames London England lighter.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Tower Bridge bascules from Pool of London River Thames London England.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2009-07-21 Tower Bridge, London.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tower_Bridge",
+   "https://commons.wikimedia.org/wiki/Category:Tower_Bridge"
+  ],
+  "note": ""
+ },
+ {
+  "id": "wolfson-college-oxford",
+  "name": "Wolfson College, Oxford",
+  "by": "Powell and Moya",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1974",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Three quadrangles, including a Tree Quad built around existing trees and a River Quad with a punt harbour.",
+  "status": "photo",
+  "commons_category": "Category:Wolfson College, Oxford",
+  "photos": [
+   {
+    "file": "File:Wolfson College - geograph.org.uk - 4837270.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Wolfsonfront.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Wolfson College Oxford Hall.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolfson_College,_Oxford",
+   "https://commons.wikimedia.org/wiki/Category:Wolfson_College,_Oxford"
+  ],
+  "note": ""
  }
 ]
