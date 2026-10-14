@@ -6544,9 +6544,8 @@
   ]
  },
  "baldwin-hills-village": {
-  "category": "Category:Village Green (Los Angeles)",
+  "category": "Village Green (Los Angeles)",
   "add": [
-   "File:Village Green Photograph.jpg",
    "File:View of the Village Green.JPG",
    "File:Villagegreen-nhl.JPG",
    "File:Baldwin Hills Village, Office Building.JPG"
@@ -10798,11 +10797,11 @@
   ]
  },
  "bagno-pubblico-bellinzona": {
-  "category": "Category:Bagno Pubblico, Bellinzona",
+  "category": "Bagno Pubblico, Bellinzona",
   "add": [
-   "File:Bagno Pubblico (Bellinzona) III.jpg",
+   "File:Bagno Pubblico (Bellinzona).jpg",
    "File:Bagno Pubblico (Bellinzona) I.jpg",
-   "File:Bagno Pubblico (Bellinzona).jpg"
+   "File:Bagno Pubblico (Bellinzona) II.jpg"
   ]
  },
  "palestra-losone": {
@@ -14230,7 +14229,7 @@
   ]
  },
  "alley-theatre": {
-  "category": "Category:Alley Theatre",
+  "category": "Alley Theatre",
   "add": [
    "File:AlleyTheatreEntrance.jpg",
    "File:Houston Texas Alley Theater 2003.jpg",
@@ -19691,6 +19690,57 @@
    "File:Nihon University Casals Hall 2009.jpg",
    "File:170312 Nihon University Ochanomizu Square Building Tokyo Japan01s3.jpg",
    "File:170312 Nihon University Ochanomizu Square Building Tokyo Japan02n.jpg"
+  ]
+ },
+ "burntwood-school": {
+  "category": "Burntwood School",
+  "add": [
+   "File:Burntwood School, Wandsworth - geograph.org.uk - 3263012.jpg",
+   "File:Burntwood School - geograph.org.uk - 3800302.jpg",
+   "File:Burntwood School - geograph.org.uk - 3800307.jpg"
+  ]
+ },
+ "belgian-comic-strip-center-brussels": {
+  "category": "Belgian Centre for Comic Strip Art",
+  "add": [
+   "File:2008-02-11 in Brussels 09.jpg"
+  ]
+ },
+ "aluminaire-house": {
+  "add": [
+   "File:Aluminaire House.png"
+  ]
+ },
+ "ankara-ethnography-museum": {
+  "category": "Ethnography Museum of Ankara",
+  "add": [
+   "File:Ethnography Museum of Ankara.jpg"
+  ]
+ },
+ "catedral-de-lima": {
+  "category": "Cathedral of Lima",
+  "add": [
+   "File:Catedral de Lima durante la noche de Jueves Santo.jpg"
+  ]
+ },
+ "ambedkar-memorial-park-lucknow": {
+  "category": "Ambedkar Memorial Park",
+  "add": [
+   "File:Ambedkar Memorial Park Gate.jpg",
+   "File:Evening look of BR Ambedkar Memorial Park.jpg",
+   "File:Ambedkar Memorial park.jpg"
+  ]
+ },
+ "al-irsyad-mosque": {
+  "category": "Al-Irsyad Mosque",
+  "add": [
+   "File:Kota baru mosque, Padalarang, West Java.jpg"
+  ]
+ },
+ "al-janoub-stadium": {
+  "category": "Al Janoub Stadium",
+  "add": [
+   "File:Al Janoub.jpg"
   ]
  }
 }

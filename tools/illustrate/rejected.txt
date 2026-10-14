@@ -28,8 +28,6 @@ fisterra-cemetery  # drawing shows 6 boxes, sources say 14 (Oct 13 review)
 leutschenbach-school  # lead photo still didn't show the building (Oct 13 review)
 tour-cma-cgm  # lead photo still didn't show the building (Oct 13 review)
 lycabettus-theatre  # lead photo still didn't show the building (Oct 13 review)
-asia-culture-center  # lead photo still didn't show the building (Oct 13 review)
-baldwin-hills-village  # lead photo still didn't show the building (Oct 13 review)
 general-motors-technical-center  # lead photo still didn't show the building (Oct 13 review)
 philip-merrill-environmental-center  # lead photo still didn't show the building (Oct 13 review)
 evelyn-grace-academy  # lead photo still didn't show the building (Oct 13 review)
@@ -52,7 +50,6 @@ anji-bridge  # a bridge, not a building (round 6 review)
 monument-to-the-peoples-heroes  # a monument, not a building (round 6 review)
 bolte-bridge  # a bridge, not a building (round 6 review)
 job-600-accra  # fact check: architect or year not found in any source
-bagno-pubblico-bellinzona  # held back in round 6 review: no clear free photo of the building
 museum-university-navarra  # held back in round 6 review: no clear free photo of the building
 escola-do-cedro  # held back in round 6 review: no clear free photo of the building
 xanadu-calp  # held back in round 6 review: no clear free photo of the building
@@ -88,7 +85,6 @@ neutra-vdl-studio-and-residences  # round 7 review: duplicate of vdl-research-ho
 san-antonio-public-library  # round 7 review: duplicate of san-antonio-central-library
 palavela  # round 7 review: no exterior photo, lead is a crowd inside
 temple-emanuel-creve-coeur  # round 7 review: only photo is into the sun; the others show a different building
-alley-theatre  # round 7 review: no photo of the building: a sign, an actress, contact prints, a model plane
 natural-history-museum-of-utah  # round 7 review: no clear photo of the building: a lab, fossils, a far terrace
 st-peter-s-church  # round 7 review: duplicate of st-peter-s-church-klippan
 brazilian-museum-of-sculpture-mube  # round 7 review: duplicate of mube-brazilian-museum-of-sculpture
@@ -131,8 +127,6 @@ faculty-of-fine-arts-university-of-dhaka  # wall photo check, 14 Oct: every phot
 kroller-muller-museum  # wall photo check, 14 Oct: no photo of the museum building: sculptures, paintings and a group of people
 lille-grand-palais  # wall photo check, 14 Oct: every photo is of an event: crowds, a congress, a dancer
 opera-bastille  # wall photo check, 14 Oct: photos show a protest crowd and the July Column, not the opera
-al-janoub-stadium  # wall photo check, 14 Oct: no exterior: a crowd in the stands, a sign, a man in a locker room
-al-irsyad-mosque  # wall photo check, 14 Oct: both photos are of people in silhouette
 edsa-shrine  # wall photo check, 14 Oct: no exterior: a crowd, a plaque, a speaker, an organ and an altar
 abrahamic-family-house  # wall photo check, 14 Oct: every photo is of people inside or in front of it, or a model
 w-abu-dhabi-yas-island  # wall photo check, 14 Oct: every photo is of food

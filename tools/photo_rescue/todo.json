@@ -954,6 +954,24 @@
   "tried": []
  },
  {
+  "id": "cheongju-national-museum",
+  "name": "Cheongju National Museum",
+  "by": "Kim Swoo-geun",
+  "city": "Cheongju",
+  "cc": "KR",
+  "year": "1987",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Axis"
+  ],
+  "features": "National museum in Cheongju that opened on 30 October 1987, designed by Kim Swoo-geun.",
+  "why": "no free photo: the only file in the Commons category is an interior under KOGL Type 1. The Kim Swoo-geun article dates the building 1979; the museum article says it opened in 1987.",
+  "tried": []
+ },
+ {
   "id": "china-academy-of-art-xiangshan-campus",
   "name": "China Academy of Art, Xiangshan Campus",
   "by": "Wang Shu, Lu Wenyu",
@@ -1959,6 +1977,24 @@
   ],
   "features": "Open lobby framing a long pool that seems to run straight on into the sea.",
   "why": "lead photo didn't show the building; see recheck.md",
+  "tried": []
+ },
+ {
+  "id": "heroes-acre-windhoek",
+  "name": "Heroes' Acre",
+  "by": "Mansudae Overseas Projects",
+  "city": "Windhoek",
+  "cc": "NA",
+  "year": "2002",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Memorial on a symmetrical polygon plan with a marble obelisk, bronze statue and grandstand; opened 26 August 2002.",
+  "why": "round 8b review: no clear photo: a far hillside, dusk, and two gravestones",
   "tried": []
  },
  {
@@ -3204,6 +3240,24 @@
   "tried": []
  },
  {
+  "id": "mohammed-vi-polytechnic-university",
+  "name": "Mohammed VI Polytechnic University",
+  "by": "Ricardo Bofill, Elie Mouyal",
+  "city": "Benguerir",
+  "cc": "MA",
+  "year": "2017",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Campus of minimalist buildings in warm tones, part of the Mohammed VI Green City.",
+  "why": "no free photo; year is the 2017 inauguration",
+  "tried": []
+ },
+ {
   "id": "mopti-medical-centre",
   "name": "Medical Centre, Mopti",
   "by": "André Ravéreau",
@@ -3600,6 +3654,24 @@
   "tried": []
  },
  {
+  "id": "nigerian-national-christian-centre",
+  "name": "Nigerian National Christian Centre",
+  "by": "Darchiwork Group",
+  "city": "Abuja",
+  "cc": "NG",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Postmodern take on Neo-Gothic with a central altar that turns about every ten minutes.",
+  "why": "no free photo",
+  "tried": []
+ },
+ {
   "id": "nita-mukesh-ambani-cultural-centre",
   "name": "Nita Mukesh Ambani Cultural Centre",
   "by": "TVS Design",
@@ -3651,6 +3723,24 @@
   ],
   "features": "Raised classroom of cane, timber and thatch, built by the community with locally available materials.",
   "why": "No photo on Commons. Sources confirm a small (36 m2) one-room school: timber platform on piles, hexagonal boat-like base, cane walls and a woven palm-thatch roof, but not the roof shape or wall heights, so an elevation would be guessed.",
+  "tried": []
+ },
+ {
+  "id": "obafemi-awolowo-university",
+  "name": "Obafemi Awolowo University",
+  "by": "Arieh Sharon",
+  "city": "Ile-Ife",
+  "cc": "NG",
+  "year": "1967",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Circulation",
+   "Landscape"
+  ],
+  "features": "Campus planned by Arieh Sharon as three communities; first buildings finished in 1967.",
+  "why": "Huge category of mostly phone photos; not clear which show Sharon's buildings. Year is first-building completion. Reviewer decide or drop.",
   "tried": []
  },
  {
@@ -3795,6 +3885,24 @@
   ],
   "features": "A cluster of concrete bubbles with round windows spilling down the red rocks above the bay of Cannes.",
   "why": "lead photo didn't show the building; see recheck.md",
+  "tried": []
+ },
+ {
+  "id": "palais-de-la-nation-kinshasa",
+  "name": "Palais de la Nation",
+  "by": "Marcel Lambrichs",
+  "city": "Kinshasa",
+  "cc": "CD",
+  "year": "1960",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Classical modernist palace chosen by a 1951 competition, built from 1956, completed for Independence Day 1960.",
+  "why": "no free photo (only small or old images in category)",
   "tried": []
  },
  {
@@ -4749,6 +4857,24 @@
   ],
   "features": "Vast steel-truss roof over the terminal; concourses covered in translucent membrane panels.",
   "why": "wall photo check, 14 Oct: no exterior: a statue, maps, shops and a walkway",
+  "tried": []
+ },
+ {
+  "id": "tanabe-art-museum",
+  "name": "Tanabe Art Museum",
+  "by": "Kiyonori Kikutake",
+  "city": "Matsue",
+  "cc": "JP",
+  "year": "1979",
+  "type": "Museum",
+  "movement": "Metabolism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Tea-ceremony museum of 854 square metres in Matsue, designed by Kiyonori Kikutake.",
+  "why": "no free photo found in the Commons category (it returned no files).",
   "tried": []
  },
  {
