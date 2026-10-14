@@ -66,12 +66,14 @@ def main():
         print('Key check:', json.dumps({k: me.get(k) for k in ('token',)} if isinstance(me, dict) else me)[:300])
     except SystemExit as e:
         print('Key check failed:', e)
-    today = dt.datetime.now(dt.timezone.utc).date()
+    now = dt.datetime.now(dt.timezone.utc)
+    today = now.date()
     stamp = lambda d: d.strftime('%Y-%m-%dT00:00:00Z')
+    until = now.strftime('%Y-%m-%dT%H:%M:%SZ')  # up to this moment: GoatCounter's days follow your own time zone, which can be a day ahead of UTC
 
     # Daily visits for the last 90 days.
-    total = get('stats/total', start=stamp(today - dt.timedelta(days=89)), end=stamp(today + dt.timedelta(days=1)))
-    rows = {e['day'][:10]: day_visits(e) for e in total.get('stats') or [] if e.get('day') and e['day'][:10] <= str(today)}  # never tomorrow
+    total = get('stats/total', start=stamp(today - dt.timedelta(days=89)), end=until)
+    rows = {e['day'][:10]: day_visits(e) for e in total.get('stats') or [] if e.get('day')}
     if not rows:
         raise SystemExit('GoatCounter returned no days at all; refusing to save an empty result. Raw answer: ' + json.dumps(total)[:300])
 
@@ -80,6 +82,7 @@ def main():
     if os.path.exists(path):
         with open(path, newline='') as f:
             old = {r['day']: int(r['visits']) for r in csv.DictReader(f)}
+    old = {d: v for d, v in old.items() if d <= max(rows)}  # drops any day saved ahead of time
     old.update(rows)  # the fetched days win; earlier days stay
     with open(path, 'w', newline='') as f:
         w = csv.writer(f)
@@ -88,7 +91,7 @@ def main():
             w.writerow([d, old[d]])
 
     # The last 30 days, broken down.
-    window = {'start': stamp(today - dt.timedelta(days=29)), 'end': stamp(today + dt.timedelta(days=1))}
+    window = {'start': stamp(today - dt.timedelta(days=29)), 'end': until}
     latest = {'fetched_at': dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'), 'site': f'{CODE}.goatcounter.com',
               'window_days': 30, 'visits_30d': total.get('total'), 'sections': {}}
     for name, endpoint in SECTIONS.items():
