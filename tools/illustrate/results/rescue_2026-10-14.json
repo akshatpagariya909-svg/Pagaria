@@ -1,0 +1,386 @@
+[
+ {
+  "id": "al-irsyad-mosque",
+  "name": "Al-Irsyad Mosque",
+  "by": "Ridwan Kamil",
+  "city": "Padalarang",
+  "cc": "ID",
+  "year": "2010",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Cube of stacked blocks whose gaps spell out the shahada, filtering daylight into the hall.",
+  "status": "photo",
+  "commons_category": "Al-Irsyad Mosque",
+  "photos": [
+   {
+    "file": "File:Kota baru mosque, Padalarang, West Java.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Al-Irsyad_Mosque"
+  ]
+ },
+ {
+  "id": "al-janoub-stadium",
+  "name": "Al Janoub Stadium",
+  "by": "Zaha Hadid Architects",
+  "city": "Al Wakrah",
+  "cc": "QA",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Climate response",
+   "Parametric"
+  ],
+  "features": "Curved ribbed shell inspired by dhow hulls, with a retractable roof over a cooled seating bowl.",
+  "status": "photo",
+  "commons_category": "Al Janoub Stadium",
+  "photos": [
+   {
+    "file": "File:Al Janoub.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Al_Janoub_Stadium"
+  ]
+ },
+ {
+  "id": "alley-theatre",
+  "name": "Alley Theatre",
+  "by": "Ulrich Franzen",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1968",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Concrete Brutalist exterior with no right angles.",
+  "status": "photo",
+  "commons_category": "Alley Theatre",
+  "photos": [
+   {
+    "file": "File:AlleyTheatreEntrance.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Houston Texas Alley Theater 2003.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:AlleyHouston.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Alley_Theatre"
+  ]
+ },
+ {
+  "id": "aluminaire-house",
+  "name": "Aluminaire House",
+  "by": "A. Lawrence Kocher and Albert Frey",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1931",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Pilotis"
+  ],
+  "features": "Roughly cubic, about 1,200 sq ft, on six columns; corrugated metal over steel angles.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Aluminaire House.png",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "sources": []
+ },
+ {
+  "id": "ambedkar-memorial-park-lucknow",
+  "name": "Dr. Bhimrao Ambedkar Memorial Park",
+  "by": "Hafeez Contractor",
+  "city": "Lucknow",
+  "cc": "IN",
+  "year": "2008",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Red sandstone memorial on 108 acres; 124 elephant statues flank the entrance, with an 80-foot pyramid-type structure.",
+  "status": "photo",
+  "commons_category": "Ambedkar Memorial Park",
+  "photos": [
+   {
+    "file": "File:Ambedkar Memorial Park Gate.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Evening look of BR Ambedkar Memorial Park.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Ambedkar Memorial park.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ambedkar_Memorial_Park"
+  ]
+ },
+ {
+  "id": "ankara-ethnography-museum",
+  "name": "Ankara Ethnography Museum",
+  "by": "Arif Hikmet Koyunoğlu",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1928",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Designed by Arif Hikmet Koyunoğlu and built between 1925 and 1928.",
+  "status": "photo",
+  "commons_category": "Ethnography Museum of Ankara",
+  "photos": [
+   {
+    "file": "File:Ethnography Museum of Ankara.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Ethnography_Museum_of_Ankara"
+  ]
+ },
+ {
+  "id": "asia-culture-center",
+  "name": "Asia Culture Center",
+  "by": "Kyu Sung Woo",
+  "city": "Gwangju",
+  "cc": "KR",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Most of the complex is sunk below a public park, lit through sunken courts and skylights.",
+  "status": "photo",
+  "commons_category": "Asia Culture Center, Gwangju",
+  "photos": [
+   {
+    "file": "File:Asian culture complexp.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Asia_Culture_Center,_Gwangju"
+  ]
+ },
+ {
+  "id": "bagno-pubblico-bellinzona",
+  "name": "Bagno Pubblico, Bellinzona",
+  "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
+  "city": "Bellinzona",
+  "cc": "CH",
+  "year": "1970",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Promenade",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "Public pools organised along one long walkway that runs from the town to the Ticino riverbank.",
+  "status": "photo",
+  "commons_category": "Bagno Pubblico, Bellinzona",
+  "photos": [
+   {
+    "file": "File:Bagno Pubblico (Bellinzona).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bagno Pubblico (Bellinzona) I.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bagno Pubblico (Bellinzona) II.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Bagno_Pubblico,_Bellinzona"
+  ]
+ },
+ {
+  "id": "baldwin-hills-village",
+  "name": "Baldwin Hills Village (Village Green)",
+  "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1942",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A car-free superblock: low garden apartments face large shared greens, with garages kept to courts at the edge.",
+  "status": "photo",
+  "commons_category": "Village Green (Los Angeles)",
+  "photos": [
+   {
+    "file": "File:View of the Village Green.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": false
+   },
+   {
+    "file": "File:Villagegreen-nhl.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baldwin Hills Village, Office Building.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Village_Green_(Los_Angeles)"
+  ]
+ },
+ {
+  "id": "belgian-comic-strip-center-brussels",
+  "name": "Belgian Comic Strip Center (Magasins Waucquez)",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1906",
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "Art Nouveau fabric store of 1906, later restored as a museum of Belgian comics.",
+  "status": "photo",
+  "commons_category": "Belgian Centre for Comic Strip Art",
+  "photos": [
+   {
+    "file": "File:2008-02-11 in Brussels 09.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Belgian_Centre_for_Comic_Strip_Art"
+  ]
+ },
+ {
+  "id": "burntwood-school",
+  "name": "Burntwood School",
+  "by": "Allford Hall Monaghan Morris",
+  "city": "London",
+  "cc": "GB",
+  "year": "2014",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "New teaching blocks and halls in tall sculpted precast-concrete panels, set among the school's 1950s buildings.",
+  "status": "photo",
+  "commons_category": "Burntwood School",
+  "photos": [
+   {
+    "file": "File:Burntwood School, Wandsworth - geograph.org.uk - 3263012.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Burntwood School - geograph.org.uk - 3800302.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Burntwood School - geograph.org.uk - 3800307.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Burntwood_School"
+  ]
+ },
+ {
+  "id": "catedral-de-lima",
+  "name": "Cathedral Basilica of Lima",
+  "by": "Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1797",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Metropolitan Cathedral of Lima, completed 1797, the oldest and largest church in Peru.",
+  "status": "photo",
+  "commons_category": "Cathedral of Lima",
+  "photos": [
+   {
+    "file": "File:Catedral de Lima durante la noche de Jueves Santo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "sources": [
+   "https://commons.wikimedia.org/wiki/Category:Cathedral_of_Lima"
+  ]
+ }
+]

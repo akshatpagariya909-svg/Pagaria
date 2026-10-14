@@ -9,7 +9,7 @@ Each rescue round looks again for photos.
 1. Run `python3 tools/photo_rescue.py due`. If it prints `NOT DUE`, stop there and do nothing else.
 2. Run `python3 tools/photo_rescue.py todo` and open `tools/photo_rescue/todo.json`.
    Never-tried buildings come first.
-3. Take the **first 60**. For each one, search Wikimedia Commons (WebFetch reaches commons.wikimedia.org
+3. Take the **first 60**. Keep the round under about 45 minutes: Commons rate-limits, so pace the queries, and if time runs out, finish with the buildings done so far (the rest stay untried and come first next round). For each one, search Wikimedia Commons (WebFetch reaches commons.wikimedia.org
    and en.wikipedia.org):
    - Check the building's own Commons category and its Wikipedia article's images, in any language.
      Then try a Commons search for its name and city.
@@ -22,7 +22,7 @@ Each rescue round looks again for photos.
      Commons API says about each file instead: `action=query&prop=imageinfo|categories&iiprop=size|extmetadata`.
      Read the file's description and categories, not just its name. Skip any file whose description or categories
      mention people, portraits, events, ceremonies, concerts, exhibitions, artworks, sculptures, plaques, signs,
-     interiors of other buildings or another building's name. Prefer files described as an exterior or facade view
+     interiors of other buildings, construction sites, night shots, door signs or another building's name. (Round 1 sent lecture photos, a building site, a door sign and a man posing with a sign; all six were turned down.) Prefer files described as an exterior or facade view
      of this building, and files in "Quality images" or "Featured pictures".
      Set `"seen": false` on every photo: the data-collection chat fetches each one on GitHub Actions and checks it
      by eye before anything goes on the site.
