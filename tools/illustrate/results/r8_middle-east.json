@@ -672,5 +672,330 @@
    "https://en.wikipedia.org/wiki/Beylerbeyi_Palace"
   ],
   "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "atakule",
+  "name": "Atakule",
+  "by": "Ragıp Buluç",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1989",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Tower with a revolving restaurant that turns 360 degrees in one hour.",
+  "status": "photo",
+  "commons_category": "Category:Atakule",
+  "photos": [
+   {
+    "file": "File:Botanik Parkı ve Atakule, 2019 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Ankara Atakule tower in 2006 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atakule",
+   "https://commons.wikimedia.org/wiki/Category:Atakule"
+  ],
+  "note": "Lead image is Free Art License so not used; chosen from category (description 'Tower designed by architect Ragıp Buluç; built 1987–1989')."
+ },
+ {
+  "id": "tcdd-general-headquarters-ankara",
+  "name": "TCDD General Headquarters Building",
+  "by": "Bedri Uçar",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1941",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Wide steps to the main entrance; colonnade marble from Bilecik and Hereke matches the stone.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/TCDD_General_Headquarters_Building"
+  ],
+  "note": "no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture)."
+ },
+ {
+  "id": "gok-medrese-sivas",
+  "name": "Gök Medrese, Sivas",
+  "by": "Kaloyan",
+  "city": "Sivas",
+  "cc": "TR",
+  "year": "1271",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Stone"
+  ],
+  "features": "Two 25 m minarets flank the portal; sky-blue tiles give the 'Blue Madrasah' its name.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Gök Medrese.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gök_Medrese,_Sivas"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Gök Medrese')."
+ },
+ {
+  "id": "istanbul-university-faculty-of-arts-and-sciences",
+  "name": "Istanbul University Faculty of Arts and Sciences Building",
+  "by": "Sedad Hakkı Eldem, Emin Halid Onat",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1944",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "Stone-faced arcades and colonnades; second national era of Turkish architecture, Paul Bonatz advising.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faculty_of_Arts_and_Sciences_Building,_Istanbul_University"
+  ],
+  "note": "no free photo. No lead image; Commons category search found nothing. Not photo-checked further."
+ },
+ {
+  "id": "istanbul-grand-post-office",
+  "name": "Istanbul Grand Post Office",
+  "by": "Vedat Tek",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1909",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Light from above",
+   "Axis"
+  ],
+  "features": "Atrium topped by orange and blue glass; 16th-century classical Ottoman ornament throughout.",
+  "status": "photo",
+  "commons_category": "Category:Grand Post Office, Istanbul",
+  "photos": [
+   {
+    "file": "File:GrandPostOfficeIstanbul01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grand Post Office, Istanbul in 2024 6472.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Post_Office",
+   "https://commons.wikimedia.org/wiki/Category:Grand_Post_Office,_Istanbul"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Exterior of the Grand Post Office Building'). Article lead image is a general Istanbul view, not used."
+ },
+ {
+  "id": "istanbul-lutfi-kirdar-convention-center",
+  "name": "Istanbul Lütfi Kırdar Convention and Exhibition Center",
+  "by": "Paolo Vietti-Violi, Şinasi Şahingiray, Fazıl Aysu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1949",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Opened 1949 as the country's only indoor sports and exhibition hall; extended underground in 2009.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lütfi Kırdar Convention and Exhibition Center.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Lütfi_Kırdar_International_Convention_and_Exhibition_Center"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Main building'). Year = opening; movement is a judgement."
+ },
+ {
+  "id": "santralistanbul",
+  "name": "SantralIstanbul",
+  "by": "İhsan Bilgin, Nevzat Sayın, Emre Arolat, Han Tümertekin",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Brick"
+  ],
+  "features": "Neutral new buildings with aluminium-mesh facades beside the historic power station.",
+  "status": "photo",
+  "commons_category": "Category:Santralistanbul",
+  "photos": [
+   {
+    "file": "File:Santral istanbul ext1.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Santralistanbul building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santral%C4%B0stanbul",
+   "https://commons.wikimedia.org/wiki/Category:Santralistanbul"
+  ],
+  "note": "file in the building's own Commons category ('SantralIstanbul exterior'). Wikipedia URL read via API-style title; 'by' lists coordinating and component architects named in the article. Year = opening 2007."
+ },
+ {
+  "id": "cafera-medrese",
+  "name": "Caferağa Medrese",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1559",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Gate leads to an inner courtyard around which the learning rooms stand.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Caferaga medresseh Pano.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cafera%C4%9Fa_Medrese"
+  ],
+  "note": "lead image of the en.wikipedia article (description names Caferağa Medresseh built by Sinan)."
+ },
+ {
+  "id": "vahdat-hall",
+  "name": "Vahdat Hall (Rudaki Hall)",
+  "by": "Eugene Aftandilian",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Detail",
+   "Community"
+  ],
+  "features": "Main stage on three levels; proscenium curtain with a phoenix rising from the ashes motif.",
+  "status": "unsure",
+  "commons_category": "Category:Vahdat Hall",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vahdat_Hall"
+  ],
+  "note": "no free photo: category and lead image show only concerts/interiors, nothing of the exterior"
+ },
+ {
+  "id": "milad-tower",
+  "name": "Milad Tower",
+  "by": "Mohammad Reza Hafezi",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "2007",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "Octagonal base tied to traditional Iranian architecture; steel head of 12 floors with a revolving restaurant.",
+  "status": "photo",
+  "commons_category": "Category:Milad Tower",
+  "photos": [
+   {
+    "file": "File:Milad tower2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Milad tower in iran.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milad_Tower"
+  ],
+  "note": "Photo 1 found by Commons search, description 'Milad Tower'; photo 2 in own category (800x1253 only). Wikipedia lead image is a non-Commons en file (456x800), not used. Opened Oct 2008; 2007 = construction finished."
  }
 ]
