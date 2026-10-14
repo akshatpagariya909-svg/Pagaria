@@ -1934,5 +1934,401 @@
    "https://commons.wikimedia.org/wiki/Category:Tate_St_Ives"
   ],
   "note": "Extension by Jamie Fobert Architects opened 2017; some photos may show it"
+ },
+ {
+  "id": "baltic-centre-for-contemporary-art",
+  "name": "Baltic Centre for Contemporary Art",
+  "by": "Dominic Williams (Ellis Williams Architects)",
+  "city": "Gateshead",
+  "cc": "GB",
+  "year": "2002",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Steel & glass"
+  ],
+  "features": "Flour mill conversion keeping the brick north and south walls and glazing the east and west sides to the Tyne.",
+  "status": "photo",
+  "commons_category": "Category:Baltic Centre for Contemporary Art",
+  "photos": [
+   {
+    "file": "File:Baltic (33274682041).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Baltic Centre for Contemporary Art September 2022.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Western side of the Baltic Centre for Contemporary Art September 2022.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baltic_Centre_for_Contemporary_Art",
+   "https://commons.wikimedia.org/wiki/Category:Baltic_Centre_for_Contemporary_Art"
+  ],
+  "note": ""
+ },
+ {
+  "id": "manchester-central-library",
+  "name": "Manchester Central Library",
+  "by": "E. Vincent Harris",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "1934",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Vault"
+  ],
+  "features": "Neoclassical rotunda with a five-bay Corinthian portico loosely derived from the Pantheon, plus a domed reading room.",
+  "status": "photo",
+  "commons_category": "Category:Manchester Central Library",
+  "photos": [
+   {
+    "file": "File:Central Library - geograph.org.uk - 4284472.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Central Library, Manchester - geograph.org.uk - 7195018.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Biblioteca Central de Manchester - 1 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_Central_Library",
+   "https://commons.wikimedia.org/wiki/Category:Manchester_Central_Library"
+  ],
+  "note": "Built 1930-34 so not pre-1900; movement 'Historic precedent' is the closest vocab fit for a Neoclassical design - reviewer may prefer Modernism"
+ },
+ {
+  "id": "rotunda-birmingham",
+  "name": "Rotunda (Birmingham)",
+  "by": "James A. Roberts",
+  "city": "Birmingham",
+  "cc": "GB",
+  "year": "1965",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Cylindrical tower with a facade of 72 floor-to-ceiling glass panes, each angled 5 degrees from the next.",
+  "status": "photo",
+  "commons_category": "Category:Rotunda, Birmingham",
+  "photos": [
+   {
+    "file": "File:Rotunda, Birmingham - geograph.org.uk - 2347630.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Rotunda from High St.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Rotunda Finished 2008.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rotunda,_Birmingham",
+   "https://commons.wikimedia.org/wiki/Category:Rotunda,_Birmingham"
+  ],
+  "note": "Refurbished by Glenn Howells Architects 2004-08"
+ },
+ {
+  "id": "radcliffe-camera",
+  "name": "Radcliffe Camera",
+  "by": "James Gibbs",
+  "city": "Oxford",
+  "cc": "GB",
+  "year": "1748",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Vault"
+  ],
+  "features": "Earliest circular library in England, topped by a lanterned dome on an octagonal drum.",
+  "status": "photo",
+  "commons_category": "Category:Radcliffe Camera",
+  "photos": [
+   {
+    "file": "File:1099146 I RADCLIFFE CAMERA Oxford 20250617 0001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2019 Radcliffe Camera Oxford.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:All Souls and the Camera (4371923713).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Radcliffe_Camera",
+   "https://commons.wikimedia.org/wiki/Category:Radcliffe_Camera"
+  ],
+  "note": ""
+ },
+ {
+  "id": "glasgow-tower",
+  "name": "Glasgow Tower",
+  "by": "Richard Horden; BDP",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Aerofoil-shaped observation tower able to rotate 360 degrees into the wind.",
+  "status": "photo",
+  "commons_category": "Category:Glasgow Tower",
+  "photos": [
+   {
+    "file": "File:Glasgow Tower - Flickr - Ian D.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Glasgow Tower by Chris Collins.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Glasgow Tower from its base.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glasgow_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Glasgow_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "st-alberts-chaplaincy-edinburgh",
+  "name": "St Albert's Catholic Chaplaincy",
+  "by": "Stuart Allan (Simpson & Brown)",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "2012",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "New chapel behind the 1779 house, with an altar window giving a clear view of the garden; RIBA-honoured.",
+  "status": "photo",
+  "commons_category": "Category:St Albert's Chapel",
+  "photos": [
+   {
+    "file": "File:Chapel of St Albert the Great and rear of George Square Townhouses.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Chapel of St Albert the Great entrance.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:St Albert's Chapel (8689008166).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St_Albert%27s_Catholic_Chaplaincy,_Edinburgh",
+   "https://commons.wikimedia.org/wiki/Category:St_Albert's_Chapel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cyncoed-methodist-church",
+  "name": "Cyncoed Methodist Church",
+  "by": "Alex Gordon",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "1966",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "International Modern church of rectilinear glass and buff-coloured brick.",
+  "status": "photo",
+  "commons_category": "Category:Cyncoed Methodist Church",
+  "photos": [
+   {
+    "file": "File:Cyncoed Methodist Church, Cardiff - geograph.org.uk - 1661664.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Cyncoed Methodist Church, Cyncoed Road, March 2019 01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cyncoed_Methodist_Church",
+   "https://commons.wikimedia.org/wiki/Category:Cyncoed_Methodist_Church"
+  ],
+  "note": ""
+ },
+ {
+  "id": "national-waterfront-museum",
+  "name": "National Waterfront Museum",
+  "by": "Wilkinson Eyre",
+  "city": "Swansea",
+  "cc": "GB",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "New slate and glass building integrated with an existing Grade II listed warehouse.",
+  "status": "photo",
+  "commons_category": "Category:National Waterfront Museum",
+  "photos": [
+   {
+    "file": "File:National Waterfront Museum (19125415205).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:National Waterfront Museum.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:-SeneddSwansea (22089766394).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Waterfront_Museum",
+   "https://commons.wikimedia.org/wiki/Category:National_Waterfront_Museum"
+  ],
+  "note": "-SeneddSwansea files may show Senedd building nearby, drop if not museum"
+ },
+ {
+  "id": "titanic-belfast",
+  "name": "Titanic Belfast",
+  "by": "Eric Kuhne (CivicArts); Todd Architects",
+  "city": "Belfast",
+  "cc": "GB",
+  "year": "2012",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Angular form recalling ships' prows, clad in 3,000 silver anodised aluminium shards.",
+  "status": "photo",
+  "commons_category": "Category:Titanic Signature Building, Belfast",
+  "photos": [
+   {
+    "file": "File:Belfast Titanic Museum 19-11-2023 13-02-52.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Belfast - Titanic Quarter - Titanic Belfast - geograph.org.uk - 3699388.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Belfast Titanic Museum 19-11-2023 13-32-29.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Titanic_Belfast",
+   "https://commons.wikimedia.org/wiki/Category:Titanic_Signature_Building,_Belfast"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bord-gais-energy-theatre",
+  "name": "Bord Gais Energy Theatre",
+  "by": "Daniel Libeskind",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Ireland's largest fixed-seat theatre, 2,111 seats, designed by Libeskind for the Docklands.",
+  "status": "photo",
+  "commons_category": "Category:Bord Gáis Energy Theatre",
+  "photos": [
+   {
+    "file": "File:Bord Gáis Energy Theatre, Dublin from Sir John Rogerson's Quay.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Bord Gáis Energy Theatre, Dublin.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bord Gáis Energy Theatre (8225076312).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bord_G%C3%A1is_Energy_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Bord_Gáis_Energy_Theatre"
+  ],
+  "note": "Wikipedia gives no facade description; features line states only capacity and Libeskind"
  }
 ]
