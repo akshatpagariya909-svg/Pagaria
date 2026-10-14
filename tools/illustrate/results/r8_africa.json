@@ -806,5 +806,404 @@
    "https://en.wikipedia.org/wiki/Grande_Poste_d'Alger"
   ],
   "note": ""
+ },
+ {
+  "id": "notre-dame-d-afrique-algiers",
+  "name": "Notre-Dame d'Afrique",
+  "by": "Jean-Eugène Fromageau",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1872",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Light & shadow"
+  ],
+  "features": "Neo-Byzantine basilica on a 124 m cliff over the Bay of Algiers; choir faces southeast.",
+  "status": "photo",
+  "commons_category": "Category:Notre Dame d'Afrique",
+  "photos": [
+   {
+    "file": "File:Basilique Notre-Dame-d'Afrique 2023 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Alger-Notre-Dame-D'Afrique.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre-Dame_d'Afrique"
+  ],
+  "note": ""
+ },
+ {
+  "id": "acropolium-of-carthage",
+  "name": "Acropolium of Carthage (Cathedral of Saint Louis)",
+  "by": "Joseph Pougnet",
+  "city": "Carthage",
+  "cc": "TN",
+  "year": "1890",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Vault",
+   "Light from above"
+  ],
+  "features": "Byzantine, Gothic and Moorish styles; Latin cross plan, central cupola ringed by eight small spires.",
+  "status": "photo",
+  "commons_category": "Category:Cathedral Saint-Louis of Carthage",
+  "photos": [
+   {
+    "file": "File:Acropolium de Carthage 01.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Acropolium de Carthage(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Acropolium de Carthage from far.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Acropolium_of_Carthage"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hotel-du-lac-tunis",
+  "name": "Hôtel du Lac",
+  "by": "Raffaele Contigiani",
+  "city": "Tunis",
+  "cc": "TN",
+  "year": "1973",
+  "type": "Hospitality",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "features": "Ten-storey brutalist block of exposed concrete; inverted-pyramid form with cantilevered end stairs.",
+  "status": "photo",
+  "commons_category": "Category:Hôtel du Lac, Tunis",
+  "photos": [
+   {
+    "file": "File:Hotel du Lac in Tunis.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grand Hôtel du Lac, Tunis, Tunisia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hôtel du Lac Tunis.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hôtel_du_Lac,_Tunis"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bourguiba-mausoleum-monastir",
+  "name": "Bourguiba Mausoleum",
+  "by": "Olivier-Clément Cacoub",
+  "city": "Monastir",
+  "cc": "TN",
+  "year": "1978",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Golden dome between two green domes, flanked by two 25 m minarets at the end of a 200 m alley.",
+  "status": "photo",
+  "commons_category": "Category:Bourguiba Mausoleum",
+  "photos": [
+   {
+    "file": "File:Monastir, Bourguiba-Mausoleum.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Habib Bourguiba Mausoleum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bourguiba, mausolée (02) 11 octobre 2016.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bourguiba_mausoleum"
+  ],
+  "note": "Wikipedia gives 1963 start, 1978 opening/expansion."
+ },
+ {
+  "id": "prince-moulay-abdellah-stadium",
+  "name": "Prince Moulay Abdellah Stadium",
+  "by": "Orange Atelier, Populous",
+  "city": "Rabat",
+  "cc": "MA",
+  "year": "2025",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Rebuilt 69,500-seat stadium; roof over three stands and a facade designed to resemble palm leaves.",
+  "status": "photo",
+  "commons_category": "Category:Prince Moulay Abdellah Stadium",
+  "photos": [
+   {
+    "file": "File:Prince Moulay Abdellah Stadium, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prince_Moulay_Abdellah_Stadium"
+  ],
+  "note": "Category also holds the old 1983 stadium; reviewer must check the photo shows the new building."
+ },
+ {
+  "id": "mohammed-vi-polytechnic-university",
+  "name": "Mohammed VI Polytechnic University",
+  "by": "Ricardo Bofill, Elie Mouyal",
+  "city": "Benguerir",
+  "cc": "MA",
+  "year": "2017",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Campus of minimalist buildings in warm tones, part of the Mohammed VI Green City.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammed_VI_Polytechnic_University"
+  ],
+  "note": "no free photo; year is the 2017 inauguration"
+ },
+ {
+  "id": "baron-empain-palace",
+  "name": "Baron Empain Palace",
+  "by": "Alexandre Marcel",
+  "city": "Cairo (Heliopolis)",
+  "cc": "EG",
+  "year": "1911",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Sculptural form",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Reinforced-concrete mansion modelled on Hindu temples, richly decorated with animal motifs and statues.",
+  "status": "photo",
+  "commons_category": "Category:Baron Empain Palace",
+  "photos": [
+   {
+    "file": "File:Baron Empain palace 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baron Empain Palace in Heliopolis.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baraon Palace.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baron Empain Palace 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baron_Empain_Palace"
+  ],
+  "note": "Wikipedia lead says 1905, infobox/architecture section 1911 (built 1907-1911)."
+ },
+ {
+  "id": "mausoleum-of-aga-khan-aswan",
+  "name": "Mausoleum of Aga Khan III",
+  "by": "Farid Shafi'e",
+  "city": "Aswan",
+  "cc": "EG",
+  "year": "1960",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Central dome on an octagonal drum with arched windows, four corner domes and crenellated parapet walls.",
+  "status": "photo",
+  "commons_category": "Category:Mausoleum of Aga Khan",
+  "photos": [
+   {
+    "file": "File:Aga Khan, Aswan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Assuan Mausoleum Aga Khan III. 01.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mausoleo del Aga Khan 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aswan Aga Khan Mausoleum R03.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mausoleum_of_Aga_Khan"
+  ],
+  "note": ""
+ },
+ {
+  "id": "mogamma-cairo",
+  "name": "Mogamma",
+  "by": "Mohamed Kamal Ismail",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": "1949",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "14-storey modernist government block on Tahrir Square, practical rather than decorated; planned for about 4,000 staff.",
+  "status": "photo",
+  "commons_category": "Category:Mogamma",
+  "photos": [
+   {
+    "file": "File:Cairo Mogamma building DSCF1980.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Mogamma Cairo in May 2015.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mogamma, Tahrir Square, Cairo, Egypt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mogamma"
+  ],
+  "note": "Built 1946-1949 per article; one category says 1952."
+ },
+ {
+  "id": "cairo-international-stadium",
+  "name": "Cairo International Stadium",
+  "by": "Werner March",
+  "city": "Cairo (Nasr City)",
+  "cc": "EG",
+  "year": "1960",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Olympic-standard multi-use stadium with an all-seated capacity of 75,000.",
+  "status": "photo",
+  "commons_category": "Category:Cairo International Stadium",
+  "photos": [
+   {
+    "file": "File:Cairo International Stadium 2019.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Panorma Cairo Stadium.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cairo_International_Stadium"
+  ],
+  "note": ""
  }
 ]
