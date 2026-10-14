@@ -29,7 +29,7 @@ SITES = {
     'wikiarquitectura': 'https://en.wikiarquitectura.com/',
     'dezeen': 'https://www.dezeen.com/',
     'divisare': 'https://divisare.com/',
-    'archinform': 'https://www.archinform.net/index.htm',
+    'archinform': 'https://www.archinform.net/',
     'wikipedia': 'https://en.wikipedia.org/',
     'youtube': 'https://www.youtube.com/',
     'commons': 'https://commons.wikimedia.org/',
@@ -71,7 +71,11 @@ def main():
     report = []
     for key, home in SITES.items():
         try:
-            html, _ = get(home)
+            try:
+                html, _ = get(home)
+            except Exception as e:  # no home page: still try the usual icon addresses
+                print(f'{key}: home page failed ({e}), trying /favicon.ico')
+                html = b''
             p = Icons()
             p.feed(html.decode('utf-8', 'ignore'))
             cands = sorted(p.found, key=score, reverse=True)
