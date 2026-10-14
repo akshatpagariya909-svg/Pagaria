@@ -14785,6 +14785,9 @@
    "File:Groningen, Groninger Museum vanaf de westkant IMG 4271 2023-04-02 19.24.jpg",
    "File:Groningen, het Groninger Museum positie2 foto9 2015-03-22 12.33.jpg",
    "File:Groningen Groninger Museum 01.jpg"
+  ],
+  "skip": [
+   "File:Saskia in Bed, Rembrandt van Rijn, 1635, drawing, 14.8 by 19.1 cm, Groninger Museum.jpg"
   ]
  },
  "erasmus-bridge-rotterdam": {
@@ -14794,6 +14797,9 @@
    "File:206 Rotterdam bridge.jpg",
    "File:Container ship passing under the Erasmus Bridge @ Harbour Tour @ Spido @ Rotterdam (30267548430).jpg",
    "File:Beautiful Brige - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Rotterdam, The Netherlands (15704164853).jpg"
   ]
  },
  "kunstmuseum-den-haag": {
@@ -14802,6 +14808,9 @@
    "File:Kunstmuseum Den Haag.jpg",
    "File:Den Haag-Scheveningen, het Kunstmuseum (noordelijke deel) IMG 6089 2024-11-04 14.35.jpg",
    "File:Den Haag-Scheveningen, het Kunstmuseum (zuidelijke deel) IMG 6100 2024-11-04 14.45.jpg"
+  ],
+  "skip": [
+   "File:Den Haag - Gemeentemuseum (24950304937).jpg"
   ]
  },
  "het-nieuwe-instituut-rotterdam": {
@@ -14820,6 +14829,9 @@
    "File:Rotterdam lijnbaan.jpg",
    "File:Rotterdam lijnbaan76-94.jpg",
    "File:Rotterdam lijnbaan77-91.jpg"
+  ],
+  "skip": [
+   "File:Rotterdam kunstwerk de Trommelslager.jpg"
   ]
  },
  "timmerhuis-rotterdam": {
@@ -14829,6 +14841,9 @@
    "File:Timmerhuis - Rotterdam - from corner Raamplein-Haagseveer.jpg",
    "File:Timmerhuis - Rotterdam 01.jpg",
    "File:Rotterdam - Timmerhuis (2).jpg"
+  ],
+  "skip": [
+   "File:Luchtopname van de Kolk en omgeving met het Luchtspoor, Plan C, de Oudehaven, Nieuwehaven, Haringvliet, Boerengat en Nieuwe Maas 1927.jpg"
   ]
  },
  "glaspaleis-heerlen": {
@@ -14846,6 +14861,10 @@
    "File:(NLD-South Holland) Vredespaleis 2025-06-05.jpg",
    "File:Den Haag 18 51 40 204000.jpeg",
    "File:Internationaal strafhof den haag.jpg"
+  ],
+  "skip": [
+   "File:Peace Palace interior - DPLA - 52bee64a160698cc32fd32c4bdd706dc.jpg",
+   "File:Model of the Birthplace Andrew Carnegie.JPG"
   ]
  },
  "royal-palace-amsterdam": {
@@ -14862,6 +14881,9 @@
   "add": [
    "File:Gemaal Lovink.jpg",
    "File:Betonbalustrade op het dak - Harderwijk - 20382376 - RCE.jpg"
+  ],
+  "skip": [
+   "File:Hoogspanningsmast Veluwemeer.jpg"
   ]
  },
  "blauwe-theehuis-vondelpark": {
@@ -14871,6 +14893,10 @@
    "File:Amsterdam - Proeflokaal 't Blauwe Theehuis (55021066315).jpg",
    "File:Amsterdam Proeflokaal 't Blauwe Theehuis (55047507333).jpg",
    "File:Amsterdam, Vondelpark, the blue teahouse.jpg"
+  ],
+  "skip": [
+   "File:Bitterballen with Dijon mustard - Taproom ‘t Blauwe Theehuis 2024-11-26.jpg",
+   "File:Coffee in Taproom ‘t Blauwe Theehuis 2024-11-26.jpg"
   ]
  },
  "scheepvaarthuis-amsterdam": {
@@ -14888,6 +14914,9 @@
    "File:MAS - Museum aan de Stroom FotoThalerTamas2.jpg",
    "File:MAS - Museum aan de Stroom FotoThalerTamas3.jpg",
    "File:MAS - Museum aan de Stroom FotoThalerTamas1.jpg"
+  ],
+  "skip": [
+   "File:GATE15-MAS-022.jpg, asset hLNabouTVnieGFDaUHCbcUJ1.jpg"
   ]
  },
  "sacred-heart-basilica-koekelberg": {
@@ -14897,6 +14926,10 @@
    "File:1002 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg",
    "File:Basilica of Koekelberg.jpg",
    "File:1003 Basilica of the Sacred Heart in Brussels Photo by Giles Laurent.jpg"
+  ],
+  "skip": [
+   "File:Brussels Town Hall Tower 01.jpg",
+   "File:Brussels Town Hall Tower 03.jpg"
   ]
  },
  "europa-building-brussels": {
@@ -14906,6 +14939,9 @@
    "File:Bruxelles - Europa building (23559441005).jpg",
    "File:Bruxelles - Europa building (23476970611).jpg",
    "File:Bruxelles - Europa building (23191466719).jpg"
+  ],
+  "skip": [
+   "File:Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg"
   ]
  },
  "flagey-building-brussels": {
@@ -14923,6 +14959,10 @@
    "File:1920's Skyscraper - panoramio.jpg",
    "File:1920's Skyscraper in Bright Sun - panoramio.jpg",
    "File:20210621 antwerpen180.jpg"
+  ],
+  "skip": [
+   "File:View on Antwerpen.JPG",
+   "File:Antwerpen - Bourlaschouwburg vogelperspectief.jpg"
   ]
  },
  "antwerpen-centraal-station": {
@@ -14930,6 +14970,10 @@
   "add": [
    "File:Bahnhof Antwerpen-Centraal.jpg",
    "File:Station Antwerpen-Centraal 2021-1.jpg"
+  ],
+  "skip": [
+   "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-1.jpg",
+   "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-2.jpg"
   ]
  },
  "cinquantenaire-arcade-brussels": {
@@ -14939,6 +14983,9 @@
    "File:-2043-00890 Parc du Cinquantenaire - Arcade centrale (10).JPG",
    "File:.. - panoramio (174).jpg",
    "File:-2043-00890 Parc du Cinquantenaire - Arcade centrale (11).JPG"
+  ],
+  "skip": [
+   "File:Brüssel Parc du Cinquantenaire Kolonade NW Mosaik 201508.jpg"
   ]
  },
  "royal-greenhouses-laeken": {
@@ -14972,6 +15019,10 @@
   "add": [
    "File:AfricaMuseum in Tervuren (Belgium).jpg",
    "File:Africamuseum Tervuren.jpg"
+  ],
+  "skip": [
+   "File:Ballet Bana Mampala-Africa Museum (1) 01.jpg",
+   "File:Ballet Bana Mampala-Africa Museum (1) 03.jpg"
   ]
  },
  "grand-theatre-luxembourg": {
@@ -14980,12 +15031,19 @@
    "File:Luxembourg, fontaine parvis Grand Théâtre (blurred).jpg",
    "File:Ville de Luxembourg 11.jpg",
    "File:Luxemburg Grand Theatre 3.jpg"
+  ],
+  "skip": [
+   "File:Ville de Luxembourg 11.jpg",
+   "File:Luxembourg-ville bvd de la Foire vers rond-point Robert-Schuman.jpg"
   ]
  },
  "museum-de-fundatie-zwolle": {
   "category": "Category:Museum de Fundatie",
   "add": [
    "File:Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming - Zwolle - View from the tower towards the southeast - De Fundatie.jpg"
+  ],
+  "skip": [
+   "File:Zwolle, fontein in Stadsgracht bij Museum de Fundatie foto4 2016-06-05 10.03.jpg"
   ]
  },
  "tuschinski-theatre-amsterdam": {
@@ -14993,6 +15051,9 @@
   "add": [
    "File:Tuschinski Theater-Amsterdam-2025-msu-9137.jpg",
    "File:Het Tuschinski Theater aan de grotendeels lege Reguliersbreestraat tijdens de coronacrisis (2021) 2.jpg"
+  ],
+  "skip": [
+   "File:Abdallah Omar Mahamed.jpg"
   ]
  },
  "eye-filmmuseum-amsterdam": {
@@ -15001,6 +15062,12 @@
    "File:Amsterdam 10.04.2012 - panoramio (11).jpg",
    "File:A'DAM Tower and EYE Film Institute Netherlands.jpg",
    "File:Aert van Nes tour boat (ENI 02010878), Holland International, Amsterdam-9210.jpg"
+  ],
+  "skip": [
+   "File:Brewster Kahle bij de afsluiting van Beelden voor de Toekomst (16702797437).jpg",
+   "File:EYE Film Institute Netherland - Library and Collections building - Corridor - Overamstel, Amsterdam.JPG",
+   "File:Stanley Kubrick in EYE (7527330972).jpg",
+   "File:The War Room (Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb) (7957733438).jpg"
   ]
  },
  "cauchie-house-brussels": {
@@ -15031,6 +15098,10 @@
   "add": [
    "File:OS-Amsterdam.JPG",
    "File:Amsterdam Olympic stadium (33460392888).jpg"
+  ],
+  "skip": [
+   "File:Hockey, Olympische spelen 1928 Amsterdam, SFA001014924.jpg",
+   "File:Mirakelfeesten, Olympisch Stadion in Amsterdam, SFA001002169 01.jpg"
   ]
  },
  "silodam-amsterdam": {
@@ -15055,6 +15126,9 @@
    "File:Bratislava - Fernsehturm (c).JPG",
    "File:Bratislava - Fernsehturm (a).JPG",
    "File:Bratislava, Staré Mesto, Slavín, pohled na vysílač Kamzík.jpg"
+  ],
+  "skip": [
+   "File:BRATISLAVSKÉ VEŽE - BRATISLAVA TOWERS - panoramio (1).jpg"
   ]
  },
  "muepa-budapest": {
@@ -15063,6 +15137,9 @@
    "File:Budapest - Müpa (1).jpg",
    "File:Budapest - Müpa.jpg",
    "File:A Művészetek Palotája 2011. április 25 -én.JPG"
+  ],
+  "skip": [
+   "File:Művészetek Palotája - 2014.03.11 (10).JPG"
   ]
  },
  "puskas-arena-budapest": {
@@ -15071,6 +15148,9 @@
    "File:2022 Puskas Arena Laslovarga (11).jpg",
    "File:2022 Puskas Arena Laslovarga (3).jpg",
    "File:2022 Puskas Arena Laslovarga (10).jpg"
+  ],
+  "skip": [
+   "File:Puskás Arena 2024.jpg"
   ]
  },
  "laszlo-papp-budapest-sports-arena": {
@@ -15079,6 +15159,11 @@
    "File:Budapest, Papp László Sportaréna.jpg",
    "File:H-D 120 Fest, Ifjúságstrasse, 2023 Zugló.jpg",
    "File:Hungária Straße und Stefánia Straße Ecke 2021 Istvánmező.jpg"
+  ],
+  "skip": [
+   "File:Budapest, Papp László Aréna, 2.jpg",
+   "File:Budapest, Papp László Aréna, 3.jpg",
+   "File:Szekeres Adrien (2012).JPG"
   ]
  },
  "gyongyos-synagogue": {
@@ -15093,6 +15178,12 @@
   "category": "Category:Tallinn TV Tower",
   "add": [
    "File:Tallin TV tower.jpg"
+  ],
+  "skip": [
+   "File:Tallinna Teletorn (2).jpg",
+   "File:Tallinna Teletorn (6).jpg",
+   "File:KT-132 Tallinn 2015.jpg",
+   "File:Planta energética de Iru, Estonia, 2012-08-12, DD 01.JPG"
   ]
  },
  "grand-hotel-prishtina": {
@@ -15101,6 +15192,9 @@
    "File:1 - Grand Hotel Prishtina.jpg",
    "File:Grand Hotel 06.jpg",
    "File:Grand Hotel 07.jpg"
+  ],
+  "skip": [
+   "File:Blown out or torn down wall in Grand Hotel Pristine.jpg"
   ]
  },
  "kozara-monument-mrakovica": {
@@ -15116,6 +15210,11 @@
   "add": [
    "File:Riga 1994 - 417755911.jpg",
    "File:35152 Riga Tram at the market halls (21722704062).jpg"
+  ],
+  "skip": [
+   "File:35152 Riga Tram at the market halls (21722704062).jpg",
+   "File:Trolleybus in Riga IMG 2502 C.JPG",
+   "File:Riga trolleybus.jpg"
   ]
  },
  "zetra-olympic-hall-sarajevo": {
@@ -15124,6 +15223,9 @@
    "File:Sarajevo Olympic Hall 2.jpg",
    "File:Sarajevo Olympic Hall 1.jpg",
    "File:Sarajevo Hum View 5.jpg"
+  ],
+  "skip": [
+   "File:Zetra Olympiahalle, Sarajevo.JPG"
   ]
  },
  "vijecnica-sarajevo": {
@@ -15148,6 +15250,9 @@
    "File:Inbound1610813265688666632.jpg",
    "File:Inbound3427126484316220679.jpg",
    "File:Centralni spomenik na Kadinjači.jpg"
+  ],
+  "skip": [
+   "File:Kadinjača 060.jpg"
   ]
  },
  "freedom-monument-riga": {
@@ -15156,6 +15261,9 @@
    "File:0873 LVA Riga freedom monument SE.jpg",
    "File:0874 LVA Riga freedom monument front.jpg",
    "File:0873 LVA Riga freedom monument pedestal.jpg"
+  ],
+  "skip": [
+   "File:State visit of the U.S. President in Riga 1994.jpg"
   ]
  },
  "brothers-cemetery-riga": {
@@ -15172,6 +15280,10 @@
    "File:Building Parliment Lithuania Vilnius.jpg",
    "File:Lietuvos Respublikos Seimas (2).jpg",
    "File:Lietuvos Respublikos Seimas (4).jpg"
+  ],
+  "skip": [
+   "File:Seimas Palace, Vilnius, April 2015 (03).JPG",
+   "File:Chairman of the Supreme Council of the Republic of Lithuania Vytautas Landsbergis (Vilnius, Lithuania, 1990).jpg"
   ]
  },
  "moslavina-monument-podgaric": {
@@ -15180,6 +15292,9 @@
    "File:Spomenik ustanka naroda Moslavine.jpg",
    "File:Spomenik revoluciji-Podgaric.jpg",
    "File:Spomenik Podgaric01.jpg"
+  ],
+  "skip": [
+   "File:Spomenik Podgaric02.jpg"
   ]
  },
  "cec-palace-bucharest": {
@@ -15196,6 +15311,9 @@
    "File:20241012 162432820 Toblerone Tower in Belgrade.jpg",
    "File:Karaburma 09.jpg",
    "File:Karaburma-0701 Toblerone.jpg"
+  ],
+  "skip": [
+   "File:Karaburma-6371 Toblerone-Bogoslovje.jpg"
   ]
  },
  "administrative-palace-satu-mare": {
@@ -15212,6 +15330,9 @@
    "File:2012-09-22 Cercul Militar Național.jpg",
    "File:20140702 Bucureşti 141.jpg",
    "File:20140702 Bucureşti 144.jpg"
+  ],
+  "skip": [
+   "File:Palace of the National Military Circle Cercul Militar Național (52460226537).jpg"
   ]
  },
  "kaunas-mosque": {
@@ -15220,6 +15341,9 @@
    "File:2019. Mečetė, Kaunas.JPG",
    "File:Kaunas Mosque, May 2026 1.jpg",
    "File:Kaunas Mosque, May 2026 3.jpg"
+  ],
+  "skip": [
+   "File:Kauno mecete 2021.jpg"
   ]
  },
  "constanta-casino": {
@@ -15236,6 +15360,9 @@
    "File:Haludovo palace hotel from pool 2011-08-12.jpg",
    "File:Haludovo Hotel Palace by architect Boris Magaš.jpg",
    "File:Haludovo Hotels by architect Boris Magaš.jpg"
+  ],
+  "skip": [
+   "File:Haludovo palace hotel from pool 2011-08-12.jpg"
   ]
  },
  "christs-resurrection-church-kaunas": {
@@ -15243,6 +15370,9 @@
   "add": [
    "File:Church of Christ's Resurrection, Kaunas, side view.jpg",
    "File:Open air uploaded 2026-05-25.jpg",
+   "File:Winter in Kaunas - panoramio (2).jpg"
+  ],
+  "skip": [
    "File:Winter in Kaunas - panoramio (2).jpg"
   ]
  },
@@ -15252,6 +15382,9 @@
    "File:Aerial view of Poljud Stadium in 2024.jpg",
    "File:20130605 Split 32.jpg",
    "File:Gradski stadion Poljud - Split.jpg"
+  ],
+  "skip": [
+   "File:Tonci tartan (2).jpg"
   ]
  },
  "park-monument-bulgarian-soviet-friendship-varna": {
@@ -15260,6 +15393,9 @@
    "File:Park Pamjatnik - panoramio.jpg",
    "File:Pomnik przyjaźni bułgarsko-sowieckiej w Warnie (3).jpg",
    "File:Bugarian-Soviet friendship monument 01.jpg"
+  ],
+  "skip": [
+   "File:Варна тролей Varna 1993 Trolleybus and National Liberation monument.jpg"
   ]
  },
  "sofia-central-station": {
@@ -15268,12 +15404,21 @@
    "File:Central Railway Station Sofia 2012 PD 36.jpg",
    "File:Central Railway Station Sofia 2012 PD 37.jpg",
    "File:Central Railway Station Sofia 2012 PD 09.jpg"
+  ],
+  "skip": [
+   "File:Naves, llegada a la Estación de tren en Sofia, Bulgaria, 2011.JPG",
+   "File:Sofia north Banishora IMG 1187 central train station and ramada sofia hotel.jpg"
   ]
  },
  "zagreb-glavni-kolodvor": {
   "category": "Category:Zagreb Glavni train station",
   "add": [
    "File:Bahnhof Glavni Kolodvor Zagreb Building Railwaystation Zagreb.jpg"
+  ],
+  "skip": [
+   "File:Estación Principal de FF.CC., Zagreb, Croacia, 2014-04-20, DD 01.JPG",
+   "File:Communication board, Zagreb Glavni Kolodvor.jpg",
+   "File:Glavni kolodvor Zagreb - peroni i kolosjieci.png"
   ]
  },
  "telephone-palace-bucharest": {
@@ -15281,6 +15426,9 @@
   "add": [
    "File:Bucharest Day 3 - Victoriei (9338447856).jpg",
    "File:20140702 Bucureşti 151.jpg"
+  ],
+  "skip": [
+   "File:Palatul Telefoanelor - antennae etc.jpg"
   ]
  },
  "house-of-the-free-press-bucharest": {
@@ -15289,6 +15437,11 @@
    "File:Bucuresti, Romania. CASA PRESEI LIBERE (Fosta Casa a Scînteii )(B-II-a-A-18802) (2).jpg",
    "File:Bucuresti, Romania. PARCUL HERASTRAU. Acum Parcul Regele Mihai I. Ambarcatiuni pe lacul Herastrau. (B-II-a-A-18802).jpg",
    "File:DIMINEATA DE IULIE - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Bucuresti, Romania. PARCUL HERASTRAU. Acum Parcul Regele Mihai I. Ambarcatiuni pe lacul Herastrau. (B-II-a-A-18802).jpg",
+   "File:Soseaua Kiseleff (din Arcul de Triumf).jpg",
+   "File:Casa Presei Libere.jpg"
   ]
  },
  "nebotinik-ljubljana": {
@@ -15313,6 +15466,12 @@
    "File:Daugava River and Riga Radio and Television Tower.jpg",
    "File:16-08-31-View from Latvian Academy of Sciences building-RR2 4242.jpg",
    "File:Daugavas promenāde - panoramio (1).jpg"
+  ],
+  "skip": [
+   "File:Daugava River and Riga Radio and Television Tower.jpg",
+   "File:Riga sunset view with Radio & TV Tower.jpg",
+   "File:Daugava (Düna) in Riga - bridges.JPG",
+   "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 09.JPG"
   ]
  },
  "palace-of-culture-iasi": {
@@ -15328,6 +15487,10 @@
   "add": [
    "File:Džamija, ZG 1335.JPG",
    "File:Džamija, ZG 1338.JPG",
+   "File:Džamija, ZG 1329.JPG"
+  ],
+  "skip": [
+   "File:Džamija, ZG 1335.JPG",
    "File:Džamija, ZG 1329.JPG"
   ]
  },
@@ -15345,6 +15508,9 @@
    "File:2011-04-08 14-23-21 Вишеград.jpg",
    "File:2011-04-08 13-56-14 Вишеград.jpg",
    "File:2011-04-08 14-26-16 Вишеград.jpg"
+  ],
+  "skip": [
+   "File:Most Mehmed Pase Sokolovica.jpg"
   ]
  },
  "croatian-national-theatre-zagreb": {
@@ -15353,6 +15519,10 @@
    "File:20130609 in Zagreb 08.jpg",
    "File:20130609 in Zagreb 14.jpg",
    "File:Chorvatské Národní Divadlo, srpen 2021.jpg"
+  ],
+  "skip": [
+   "File:Sink in Croatian National Theater, Zagreb.jpg",
+   "File:Toilet in Croatian National Theater, Zagreb.jpg"
   ]
  },
  "ivan-vazov-national-theatre-sofia": {
@@ -15369,6 +15539,10 @@
    "File:\"Castelul Peles\".JPG",
    "File:20140628 Peleş Castle 01.jpg",
    "File:Ansamblul Castelului Peleș, oraș Sinaia.jpg"
+  ],
+  "skip": [
+   "File:Peleş - sculpture 1.JPG",
+   "File:Bench based on a drawing by Marie of Romania (shadows lightened).jpg"
   ]
  },
  "latvian-academy-of-sciences-riga": {
@@ -15377,6 +15551,11 @@
    "File:Academy of Sciences, Latvia, May 2024.jpg",
    "File:Akadēmijas laukums 1, Latvijas zinātņu akadēmija, Rīga, Latvia - panoramio.jpg",
    "File:Across the Daugava (30003550646).jpg"
+  ],
+  "skip": [
+   "File:Latvian Academy of Sciences illuminated by a sunset light.jpg",
+   "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 09.JPG",
+   "File:Central market seen from Latvian Academy of Sciences.jpg"
   ]
  },
  "olympic-stadium-wroclaw": {
@@ -15385,6 +15564,12 @@
    "File:598708 Wrocław stadion olimpijski 02.JPG",
    "File:598713 Wrocław stadion olimpijski, wieża zegarowa 02.JPG",
    "File:598708 Wrocław stadion olimpijski 01.JPG"
+  ],
+  "skip": [
+   "File:598708 Wrocław stadion olimpijski 01.JPG",
+   "File:The Olympic Stadium in Wrocław.jpg",
+   "File:Bartek Skrzynski Skrzynia i krasnal (Bartek Skrzynski Skrzynia and a dwarf) Wroclaw dwarf 2021 P01.jpg",
+   "File:Bartek Skrzynski Skrzynia i krasnal (Bartek Skrzynski Skrzynia and a dwarf) Wroclaw dwarf 2021 P02.jpg"
   ]
  },
  "cepelia-pavilion-warsaw": {
@@ -15400,6 +15585,9 @@
   "add": [
    "File:Hungarian State Opera House Budapest 2026.JPG",
    "File:Andrássy Christmas Lights 2025 (19).jpg"
+  ],
+  "skip": [
+   "File:Staircase opera scene from end of tour at Hungarian State Opera House, two singers closeup.jpg"
   ]
  },
  "hotel-international-prague": {
@@ -15416,6 +15604,9 @@
    "File:2023 Praha hlavní nádraží 02.jpg",
    "File:2023 Praha hlavní nádraží 03.jpg",
    "File:2023 Praha hlavní nádraží 01.jpg"
+  ],
+  "skip": [
+   "File:Praha - Hlavní Nádraží (7509713860).jpg"
   ]
  },
  "avala-tower-belgrade": {
@@ -15424,6 +15615,10 @@
    "File:Avala Tower 2.jpg",
    "File:Avala Tower amazing.jpg",
    "File:Avala 04.jpg"
+  ],
+  "skip": [
+   "File:Avalski-toranj 03.jpg",
+   "File:Beograd pogled sa Avalskog tornja.jpg"
   ]
  },
  "lords-ark-church-nowa-huta": {
@@ -15439,6 +15634,10 @@
   "add": [
    "File:Kamionek, Warsaw, Poland - panoramio (8).jpg",
    "File:Kamionek, Warsaw, Poland - panoramio (11).jpg"
+  ],
+  "skip": [
+   "File:Loża VIP Stadion Narodowy w Warszawie 2014 019.jpg",
+   "File:Kaplica wielowyznaniowa Stadion Narodowy w Warszawie.jpg"
   ]
  },
  "pearl-bank-apartments": {
@@ -15447,6 +15646,11 @@
    "File:Pearl Bank 2.jpg",
    "File:Pearl Bank Apartments, Singapore.jpg",
    "File:Pearl Bank Apartments - Flickr - jonolist.jpg"
+  ],
+  "skip": [
+   "File:Pearl Bank 2.jpg",
+   "File:One Pearl Bank construction.jpg",
+   "File:PearlBank Internal Staircase.jpg"
   ]
  },
  "sky-habitat": {
@@ -15461,6 +15665,14 @@
    "File:SG-flyer-01.jpg",
    "File:SG-flyer-02.jpg",
    "File:MajesticSingaporeFlyer.jpg"
+  ],
+  "skip": [
+   "File:SG-flyer-01.jpg",
+   "File:SG-flyer-02.jpg",
+   "File:Singapore (SG), Singapore Flyer -- 2019 -- 4472.jpg",
+   "File:Singapore (SG), Singapore Flyer -- 2019 -- 4474.jpg",
+   "File:Singapore Flyer (Flyer).jpg",
+   "File:Singapore flyer lego.jpg"
   ]
  },
  "sultan-salahuddin-abdul-aziz-shah-mosque": {
@@ -15469,6 +15681,11 @@
    "File:Sultan Salahuddin Abdul Aziz Mosque by Fairus Khafiz.jpg",
    "File:SA-masjid-sultan-salahuddin-tasik.jpg",
    "File:SultanSalahuddinMosque1.jpg"
+  ],
+  "skip": [
+   "File:Sultan Salahuddin Abdul Aziz Mosque by Fairus Khafiz.jpg",
+   "File:Sigange at Shah Alam Mosque 20250925.jpg",
+   "File:Interior Shah Alam Mosque 20250925.jpg"
   ]
  },
  "palace-of-justice-putrajaya": {
@@ -15476,6 +15693,9 @@
   "add": [
    "File:Direct view of the front of Palace of Justice, Putrajaya.jpg",
    "File:Angled view of the front of Palace of Justice, Putrajaya.jpg"
+  ],
+  "skip": [
+   "File:WANGENGLIM-1- LAMPU-OCT2015.jpg"
   ]
  },
  "tuanku-mizan-zainal-abidin-mosque": {
@@ -15491,6 +15711,10 @@
   "add": [
    "File:Kuala Lumpur Malaysia Stadium-Merdeka-01.jpg",
    "File:Kuala Lumpur Malaysia Stadium-Merdeka-03.jpg"
+  ],
+  "skip": [
+   "File:Merdeka Precinct 20260825 (18).JPG",
+   "File:StadiumMerdeka StairsAtGate4 Sep2024.jpg"
   ]
  },
  "menara-telekom": {
@@ -15498,6 +15722,11 @@
   "add": [
    "File:Kuala Lumpur. Telekom Tower. 2019-12-13 17-03-14.jpg",
    "File:Kuala Lumpur. Telekom Tower. 2019-12-08 12-02-24.jpg"
+  ],
+  "skip": [
+   "File:Kuala Lumpur. Telekom Tower. 2019-12-13 17-03-14.jpg",
+   "File:KL-Menara Telekom.JPG",
+   "File:Telekom Tower, Kuala Lumpur (View From Subang Jaya) (6740947853).jpg"
   ]
  },
  "crystal-mosque": {
@@ -15521,6 +15750,9 @@
    "File:0005512 - Hua Lamphong Station.jpg",
    "File:Bangkok Railway Station 07.23.jpg",
    "File:0026-หัวลำโพง.jpg"
+  ],
+  "skip": [
+   "File:Hua Lamphong Interior Shops Waiting Area.jpg"
   ]
  },
  "ananta-samakhom-throne-hall": {
@@ -15545,6 +15777,11 @@
    "File:Sappaya-Sapasathan (I).jpg",
    "File:Sappaya-Sapasathan 01.jpg",
    "File:Sappaya-Sapasathan (cropped).jpg"
+  ],
+  "skip": [
+   "File:Sappaya-Sapasathan 01.jpg",
+   "File:Committee meeting room No. 304.jpg",
+   "File:Committee meeting room No. 417.jpg"
   ]
  },
  "democracy-monument-bangkok": {
@@ -15553,6 +15790,9 @@
    "File:008-Democracy Monument.jpg",
    "File:009-Democracy Monument.jpg",
    "File:010-Democracy Monument.jpg"
+  ],
+  "skip": [
+   "File:Redshirts Democracy monument.jpg"
   ]
  },
  "baan-dam-museum": {
@@ -15561,6 +15801,9 @@
    "File:012 Main Building (9214520250).jpg",
    "File:Baan Dam.jpg",
    "File:001 Triple Building (9211792183).jpg"
+  ],
+  "skip": [
+   "File:028 Owl (9211672925).jpg"
   ]
  },
  "ho-chi-minh-city-hall": {
@@ -15584,6 +15827,10 @@
    "File:Ho Chi Minh City Opera House.jpg",
    "File:2023-12-10 Saigon Opera House (Nhà hát Thành phố, Sài Gòn) 01.jpg",
    "File:Another view of the Opera House (3158084517).jpg"
+  ],
+  "skip": [
+   "File:Another view of the Opera House (3158084517).jpg",
+   "File:Ópera, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG"
   ]
  },
  "hanoi-opera-house": {
@@ -15599,6 +15846,11 @@
   "add": [
    "File:Exterior view - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC03432.JPG",
    "File:Trống Đồng building, Vietnam Museum of Ethnology.jpg"
+  ],
+  "skip": [
+   "File:Exterior view - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC03432.JPG",
+   "File:Betel-nut box, shell inlaid, view 1 - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC02489.JPG",
+   "File:Betel-nut box, shell inlaid, view 2 - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC02493.JPG"
   ]
  },
  "gelora-bung-karno-stadium": {
@@ -15607,6 +15859,10 @@
    "File:BungKarno-indonoob.JPG",
    "File:Gelora Bung Karno - 2018 Asian Para Games.jpg",
    "File:Senja di Gelora Bung Karno.jpg"
+  ],
+  "skip": [
+   "File:Penutupan Para Asian Games 2018.jpg",
+   "File:Gelora Bung Karno Stadium, Interior.jpg"
   ]
  },
  "hotel-indonesia": {
@@ -15614,6 +15870,12 @@
   "add": [
    "File:Sisi belakang Hotel Indonesia - panoramio.jpg",
    "File:Malam Tanpa Kendaraan 2012-13 - Hotel Indonesia - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Malam Tanpa Kendaraan 2012-13 - Hotel Indonesia - panoramio.jpg",
+   "File:Water fountain at Bundaran Hotel Indonesia, Jakarta at dusk; January 2009.jpg",
+   "File:Busway in Bundaran HI.jpg",
+   "File:Malam Tanpa Kendaraan 2012-13 - Detail Jendela Hotel Indonesia - panoramio.jpg"
   ]
  },
  "gedung-sate": {
@@ -15621,6 +15883,9 @@
   "add": [
    "File:Gedung Sate Oktober 2024 - Rahmatdenas.jpg",
    "File:Gedung Sate (27363090551).jpg"
+  ],
+  "skip": [
+   "File:Bandung City 10.jpg"
   ]
  },
  "bandung-institute-of-technology": {
@@ -15629,6 +15894,11 @@
    "File:A2613-ITB-Aula barat.jpg",
    "File:A2613-ITB-Aula timur.jpg",
    "File:A2613-ITB-Aula barat 5.jpg"
+  ],
+  "skip": [
+   "File:Bandung Institute of Technology, Indonesia, 2019-12-03.jpg",
+   "File:Salmanmosque.jpg",
+   "File:Saraga Clock.jpg"
   ]
  },
  "savoy-homann-hotel": {
@@ -15653,6 +15923,10 @@
    "File:Cathedral of Jakarta - exterior (2025) - img 14.jpg",
    "File:Cathedral of Jakarta - exterior (2025) - img 10.jpg",
    "File:Jakarta Cathedral in 2018.jpg"
+  ],
+  "skip": [
+   "File:Jakarta Indonesia Jakarta-Cathedral-02.jpg",
+   "File:Cathedral of Jakarta - interior (2025) - img 04.jpg"
   ]
  },
  "manila-central-post-office": {
@@ -15684,6 +15958,11 @@
    "File:Manila Hotel (Ermita, Manila)(2017-06-12).jpg",
    "File:Manila Hotel (Manila; 01-01-2020).jpg",
    "File:Manila Hotel view.jpg"
+  ],
+  "skip": [
+   "File:COMELEC Chairperson George Erwin Garcia in a press briefing on voter turnout.jpg",
+   "File:Manila Hotel Interior CNE 01.jpg",
+   "File:Manila Hotel marker.jpg"
   ]
  },
  "capitan-luis-gonzaga-building": {
@@ -15705,6 +15984,9 @@
    "File:Manila city hall - front.jpg",
    "File:Manila City Hall (Side View).jpg",
    "File:Manila City Hall - South Facade (Padre Burgos cor. Taft Avenue, Ermita, Manila; 2014-10-14) (2).jpg"
+  ],
+  "skip": [
+   "File:Bajaj three-wheeler, Antonio Villegas (Aroceros) Street, 2018 (01).jpg"
   ]
  },
  "ayala-museum": {
@@ -15712,6 +15994,12 @@
   "add": [
    "File:Ayala Museum, Makati, Feb 2025 (1).jpg",
    "File:Ayala Museum, Makati, Feb 2025 (2).jpg"
+  ],
+  "skip": [
+   "File:Ayala Museum, Makati, Feb 2025 (1).jpg",
+   "File:Ayala Museum, Makati, Feb 2025 (2).jpg",
+   "File:View of the \"Intertwined Transpacific, Transcultural Philippines\" exhibit in the Ayala Museum.jpg",
+   "File:Untitled (Woman Sewing) - Isidro Ancheta.jpg"
   ]
  },
  "ust-main-building": {
@@ -15727,6 +16015,11 @@
   "add": [
    "File:Manila Cathedral at Intramuros.jpg",
    "File:Manila Cathedral at Intramuros CNE 04.jpg"
+  ],
+  "skip": [
+   "File:Heritage of the Philippines (Intramuros, Manila; 07-01-2023) 40.jpg",
+   "File:02059jfManila Cathedral Intramuros Casa Rocha Streets Landmarksfvf 12.jpg",
+   "File:02059jfManila Cathedral Intramuros Casa Rocha Streets Landmarksfvf 01.jpg"
   ]
  },
  "yangon-city-hall": {
@@ -15751,6 +16044,11 @@
    "File:Patuxai1.jpg",
    "File:Patuxai (15037844079).jpg",
    "File:2013-09-30-IMG 0320 (15677153394).jpg"
+  ],
+  "skip": [
+   "File:2013-09-30-IMG 0320 (15677153394).jpg",
+   "File:20171118 Vientiane 3220 DxO.jpg",
+   "File:Shop of the Patuxai.jpg"
   ]
  },
  "omar-ali-saifuddien-mosque": {
@@ -15765,6 +16063,12 @@
   "add": [
    "File:Entrance to the Singapore Indoor Stadium.jpg",
    "File:Singapore Indoor Stadium, Aug 07.JPG"
+  ],
+  "skip": [
+   "File:Entrance to the Singapore Indoor Stadium.jpg",
+   "File:Alex Silva vs Rene Catalan01.02-IMG 5534 (8625376462).jpg",
+   "File:Alex Silva vs Rene Catalan03.05-IMG 5580 (8625375200).jpg",
+   "File:Bashir Ahmad vs Shannon Wiratchai04.05-IMG 5384 (8624205719).jpg"
   ]
  },
  "supreme-court-of-singapore": {
@@ -15773,6 +16077,10 @@
    "File:Singapore New Supreme Court 01.jpg",
    "File:Singapore New Supreme Court 02.jpg",
    "File:Singapore New Supreme Court 04.jpg"
+  ],
+  "skip": [
+   "File:Supreme court singapore night 2010.JPG",
+   "File:1 singapore city skyline dusk panorama 2011.jpg"
   ]
  },
  "ipoh-railway-station": {
@@ -15780,6 +16088,11 @@
   "add": [
    "File:Architecture of Ipoh Train Station.jpg",
    "File:20240502 Old Ipoh Railway Station building behind new one in Ipoh, Malaysia.jpg"
+  ],
+  "skip": [
+   "File:Ipoh railway station, platform 1, wooden bench, Perak Malaysia 01.jpg",
+   "File:Ipoh Railway and Town Hall Panoramic.jpg",
+   "File:Cat in Ipoh Station (1) 20230711 (53331135302).jpg"
   ]
  },
  "jakarta-kota-railway-station": {
@@ -15788,6 +16101,11 @@
    "File:Jakarta Kota Station (2025) - img 01.jpg",
    "File:Jakarta Kota Station (2025) - img 02.jpg",
    "File:Jakarta Kota Station (2025) - img 05.jpg"
+  ],
+  "skip": [
+   "File:Jakarta Kota railway station intercity train access.jpg",
+   "File:Former Tokyo Metro 6000 Series at Jakarta Kota.jpg",
+   "File:Jakarta Kota Clock.jpg"
   ]
  },
  "kuala-lumpur-railway-station": {
@@ -15796,6 +16114,9 @@
    "File:20190822 Kuala Lumpur railway station-2.jpg",
    "File:20190822 Kuala Lumpur railway station-3.jpg",
    "File:20190822 Kuala Lumpur railway station-4.jpg"
+  ],
+  "skip": [
+   "File:A train inside Kuala Lumpur Railway Station (1).jpg"
   ]
  },
  "cathay-building": {
@@ -15804,6 +16125,9 @@
    "File:The Cathay, October 2025.jpg",
    "File:The Cathay, Singapore (2025) - img 01.jpg",
    "File:The Cathay Building.jpg"
+  ],
+  "skip": [
+   "File:The Cathay, Singapore (2025) - img 01.jpg"
   ]
  },
  "sultan-mosque-singapore": {
@@ -15812,6 +16136,9 @@
    "File:2016 Singapur, Kampong Glam, Meczet Sułtana (01).jpg",
    "File:2016 Singapur, Kampong Glam, Meczet Sułtana (02).jpg",
    "File:2016 Singapur, Kampong Glam, Meczet Sułtana (15).jpg"
+  ],
+  "skip": [
+   "File:Sultan Mosque - Singapore City Gallery \"Central Area Model\" (2025) - img 14.jpg"
   ]
  },
  "wat-rong-khun": {
@@ -15820,6 +16147,9 @@
    "File:Chiang Rai Thailand Wat-Rong-Khun-01.jpg",
    "File:Chiang Rai Thailand Wat-Rong-Khun-02.jpg",
    "File:001 General View from South (9214741246).jpg"
+  ],
+  "skip": [
+   "File:Temple blanc Wat Rong Khun 3.jpg"
   ]
  },
  "blue-cross-blue-shield-building-chicago": {
@@ -15835,6 +16165,11 @@
  "kluczynski-federal-building": {
   "add": [
    "File:Chicago Federal Center.jpg"
+  ],
+  "skip": [
+   "File:Willis Tower and Chicago skyscrapers from the Adler Planetarium Skyline Walk (52033270570).jpg",
+   "File:Skyscrapers (3521410860).jpg",
+   "File:The Flamingo (7847878660).jpg"
   ]
  },
  "reliance-building": {
@@ -15845,6 +16180,9 @@
  "richard-j-daley-center": {
   "add": [
    "File:Daley Center Chicago.jpg"
+  ],
+  "skip": [
+   "File:333 West Wacker 8 (6573431719).jpg"
   ]
  },
  "rookery-building": {
@@ -15855,6 +16193,9 @@
  "harold-washington-library-center": {
   "add": [
    "File:Harold Washington Library, Chicago, Illinois (9181548762).jpg"
+  ],
+  "skip": [
+   "File:Brian Bannon Chicago Public Library 2014.jpg"
   ]
  },
  "1111-lincoln-road": {
@@ -15880,6 +16221,9 @@
  "north-christian-church-columbus": {
   "add": [
    "File:NorthChristianChurch.jpg"
+  ],
+  "skip": [
+   "File:NORTH CHRISTIAN CHURCH - NARA - 546550.jpg"
   ]
  },
  "john-deere-world-headquarters": {
@@ -15890,6 +16234,10 @@
  "j-s-dorton-arena": {
   "add": [
    "File:Dorton Arena West Side.JPG"
+  ],
+  "skip": [
+   "File:Triangle Torch vs Lehigh Valley Steelhawks 1.jpg",
+   "File:Triangle Torch vs Lehigh Valley Steelhawks 3.jpg"
   ]
  },
  "sarasota-high-school": {
@@ -15900,16 +16248,27 @@
  "wingspread": {
   "add": [
    "File:WingspreadFrankLloydWrightKenoshaWisconsin.jpg"
+  ],
+  "skip": [
+   "File:Wingspread Interior 01.jpg"
   ]
  },
  "graycliff": {
   "add": [
    "File:Graycliff.jpg"
+  ],
+  "skip": [
+   "File:Malecki Sausage packing crate found in basement of Graycliff, Derby, New York - 20191005.jpg",
+   "File:Downtown Buffalo skyline seen distantly from Graycliff Estate, Evans, New York - 20191005.jpg",
+   "File:Frank Lloyd Wright's Graycliff House - Staircase 01.jpg"
   ]
  },
  "jacobs-first-house": {
   "add": [
    "File:Jacobs First House - front.jpg"
+  ],
+  "skip": [
+   "File:Herbert and Katherine Jacobs First House - panoramio.jpg"
   ]
  },
  "pope-leighey-house": {
@@ -15920,11 +16279,19 @@
  "phipps-conservatory": {
   "add": [
    "File:Phipps conservatory 0.JPG"
+  ],
+  "skip": [
+   "File:Pachystachys lutea, Phipps Conservatory, 2024-08-24-1.jpg",
+   "File:Pachystachys lutea, Phipps Conservatory, 2024-08-24.jpg",
+   "File:Phipps Conservatory 27.jpg"
   ]
  },
  "paul-rudolph-hall": {
   "add": [
    "File:Rudolph Hall.png"
+  ],
+  "skip": [
+   "File:Winter Boots on a Snowy balcony at the Yale School of Architecture, 2019.jpg"
   ]
  },
  "highfield-house-baltimore": {
@@ -15951,6 +16318,9 @@
    "File:Louis H. Sullivan - Bayard-Condict Building (A), New York, NY.jpg",
    "File:Louis H. Sullivan - Bayard-Condict Building (C), New York, NY.jpg",
    "File:Louis H. Sullivan - Bayard-Condict Building (B), New York, NY.jpg"
+  ],
+  "skip": [
+   "File:Sanborn Manhattan V. 3 Plate 09 publ. 1904.jpg"
   ]
  },
  "krause-music-store": {
@@ -15966,6 +16336,10 @@
    "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY.jpg",
    "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY - 52685125502.jpg",
    "File:20190609 - 13 - City Court.jpg"
+  ],
+  "skip": [
+   "File:Buffalo City Court Building time capsule.JPG",
+   "File:Erie County Hall 2012.jpg"
   ]
  },
  "george-h-fallon-federal-building": {

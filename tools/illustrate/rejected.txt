@@ -110,3 +110,10 @@ ramon-magsaysay-center  # round 7b quality watch: ordinary commercial tower, no 
 commercial-bank-and-trust-company-building  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
 merdeka-118  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
 parkview-square  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+kozara-monument-mrakovica  # round 7b review: no clear photo: far through trees, a silhouette, people in front
+manila-film-center  # round 7b review: no clear photo: column close-up, trees and a sign
+pasig-revolving-tower  # round 7b review: no photo of the building: a ceremony, a doormat, a lobby door, a roof deck
+capitan-luis-gonzaga-building  # round 7b review: no clear photo: a street crowd, a dark facade, a sign
+iglesia-filipina-independiente-national-cathedral  # round 7b review: no exterior: a flag, busts, a sign and two interiors
+blue-cross-blue-shield-building-chicago  # round 7b review: lead photo is not clearly this building; others are skyline views
+highfield-house-baltimore  # round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower

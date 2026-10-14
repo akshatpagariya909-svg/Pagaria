@@ -267698,23 +267698,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Mendini_Restaurant_at_the_Groninger_Museum,_Groningen_(2018).jpg",
     "file": "File:Mendini Restaurant at the Groninger Museum, Groningen (2018).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Saskia_in_Bed%2C_Rembrandt_van_Rijn%2C_1635%2C_drawing%2C_14.8_by_19.1_cm%2C_Groninger_Museum.jpg/1280px-Saskia_in_Bed%2C_Rembrandt_van_Rijn%2C_1635%2C_drawing%2C_14.8_by_19.1_cm%2C_Groninger_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/groninger-museum/thumbs/6.webp",
-    "w": 1280,
-    "h": 977,
-    "kind": "Drawing",
-    "caption": "Drawing · Saskia in Bed, Rembrandt van Rijn, 1635, drawing, 14.8 by 19.1 cm, Groninger Museum",
-    "credit": "Rembrandt",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Saskia_in_Bed,_Rembrandt_van_Rijn,_1635,_drawing,_14.8_by_19.1_cm,_Groninger_Museum.jpg",
-    "file": "File:Saskia in Bed, Rembrandt van Rijn, 1635, drawing, 14.8 by 19.1 cm, Groninger Museum.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -267788,18 +267774,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Brige_-_panoramio.jpg",
     "file": "File:Beautiful Brige - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Rotterdam%2C_The_Netherlands_%2815704164853%29.jpg/1280px-Rotterdam%2C_The_Netherlands_%2815704164853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/erasmus-bridge-rotterdam/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Rick Ligthelm  from Rotterdam, The Netherlands",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rotterdam,_The_Netherlands_(15704164853).jpg",
-    "file": "File:Rotterdam, The Netherlands (15704164853).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rotterdam_vanaf_Maas_04.JPG/1280px-Rotterdam_vanaf_Maas_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -267876,18 +267850,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Den_Haag-Scheveningen,_het_Kunstmuseum_(zuidelijke_deel)_IMG_6100_2024-11-04_14.45.jpg",
     "file": "File:Den Haag-Scheveningen, het Kunstmuseum (zuidelijke deel) IMG 6100 2024-11-04 14.45.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Den_Haag_-_Gemeentemuseum_%2824950304937%29.jpg/1280px-Den_Haag_-_Gemeentemuseum_%2824950304937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kunstmuseum-den-haag/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Zorgvliet | Stadhouderslaan The Gemeentemuseum Den Haag is an art museum",
-    "credit": "Fred Romero  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Den_Haag_-_Gemeentemuseum_(24950304937).jpg",
-    "file": "File:Den Haag - Gemeentemuseum (24950304937).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Zonder_titel_PK-F-K.0469%2C_PK-F-K.0468.jpg/1280px-Zonder_titel_PK-F-K.0469%2C_PK-F-K.0468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -268127,18 +268089,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:2024_Weena-Zuid,_Rotterdam_bij_Lijnbaan_(links)_richting_Karel_Doormanstraat.jpg",
     "file": "File:2024 Weena-Zuid, Rotterdam bij Lijnbaan (links) richting Karel Doormanstraat.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rotterdam_kunstwerk_de_Trommelslager.jpg/1280px-Rotterdam_kunstwerk_de_Trommelslager.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lijnbaan-rotterdam/thumbs/5.webp",
-    "w": 847,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Rotterdam, Lijnbaan",
-    "credit": "Wikifrits",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rotterdam_kunstwerk_de_Trommelslager.jpg",
-    "file": "File:Rotterdam kunstwerk de Trommelslager.jpg"
    }
   ],
   "has": [],
@@ -268193,30 +268143,6 @@ window.BUILDINGS = [
     "file": "File:Timmerhuis - Rotterdam - from corner Raamplein-Haagseveer.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Timmerhuis_-_Rotterdam_01.jpg/1280px-Timmerhuis_-_Rotterdam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/timmerhuis-rotterdam/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Timmerhuis in Rotterdam, photographed from Stadhuisstraat",
-    "credit": "Sandra Fauconnier",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Timmerhuis_-_Rotterdam_01.jpg",
-    "file": "File:Timmerhuis - Rotterdam 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rotterdam_-_Timmerhuis_%282%29.jpg/1280px-Rotterdam_-_Timmerhuis_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/timmerhuis-rotterdam/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Stadsdriehoek",
-    "credit": "Fred Romero  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rotterdam_-_Timmerhuis_(2).jpg",
-    "file": "File:Rotterdam - Timmerhuis (2).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rotterdam%2C_The_Netherlands_%2827021186462%29.jpg/1280px-Rotterdam%2C_The_Netherlands_%2827021186462%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/timmerhuis-rotterdam/thumbs/4.webp",
     "w": 1280,
@@ -268241,21 +268167,31 @@ window.BUILDINGS = [
     "file": "File:Timmerhuis met Museum Rotterdam artist impression.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Luchtopname_van_de_Kolk_en_omgeving_met_het_Luchtspoor%2C_Plan_C%2C_de_Oudehaven%2C_Nieuwehaven%2C_Haringvliet%2C_Boerengat_en_Nieuwe_Maas_1927.jpg/1280px-Luchtopname_van_de_Kolk_en_omgeving_met_het_Luchtspoor%2C_Plan_C%2C_de_Oudehaven%2C_Nieuwehaven%2C_Haringvliet%2C_Boerengat_en_Nieuwe_Maas_1927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/timmerhuis-rotterdam/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Timmerhuis_-_Rotterdam_01.jpg/1280px-Timmerhuis_-_Rotterdam_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/timmerhuis-rotterdam/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Timmerhuis in Rotterdam, photographed from Stadhuisstraat",
+    "credit": "Sandra Fauconnier",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Timmerhuis_-_Rotterdam_01.jpg",
+    "file": "File:Timmerhuis - Rotterdam 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Rotterdam_-_Timmerhuis_%282%29.jpg/1280px-Rotterdam_-_Timmerhuis_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/timmerhuis-rotterdam/thumbs/3.webp",
     "w": 1280,
-    "h": 871,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "KLM Aerocarto",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Luchtopname_van_de_Kolk_en_omgeving_met_het_Luchtspoor,_Plan_C,_de_Oudehaven,_Nieuwehaven,_Haringvliet,_Boerengat_en_Nieuwe_Maas_1927.jpg",
-    "file": "File:Luchtopname van de Kolk en omgeving met het Luchtspoor, Plan C, de Oudehaven, Nieuwehaven, Haringvliet, Boerengat en Nieuwe Maas 1927.jpg"
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Stadsdriehoek",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rotterdam_-_Timmerhuis_(2).jpg",
+    "file": "File:Rotterdam - Timmerhuis (2).jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -268431,18 +268367,6 @@ window.BUILDINGS = [
     "file": "File:La haye palais paix jardin face.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Peace_Palace_interior_-_DPLA_-_52bee64a160698cc32fd32c4bdd706dc.jpg/1280px-Peace_Palace_interior_-_DPLA_-_52bee64a160698cc32fd32c4bdd706dc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/peace-palace-the-hague/thumbs/4.webp",
-    "w": 1280,
-    "h": 1040,
-    "kind": "Interior",
-    "caption": "Interior · Paintings adorn the interior of an ornately decorated room inside the Peace Palace in The Hague",
-    "credit": "Edmund F. Arras",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Peace_Palace_interior_-_DPLA_-_52bee64a160698cc32fd32c4bdd706dc.jpg",
-    "file": "File:Peace Palace interior - DPLA - 52bee64a160698cc32fd32c4bdd706dc.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Peace_Palace_hall.jpg/1280px-Peace_Palace_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/peace-palace-the-hague/thumbs/5.webp",
     "w": 1050,
@@ -268453,23 +268377,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Peace_Palace_hall.jpg",
     "file": "File:Peace Palace hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Model_of_the_Birthplace_Andrew_Carnegie.JPG/1280px-Model_of_the_Birthplace_Andrew_Carnegie.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/peace-palace-the-hague/thumbs/6.webp",
-    "w": 1280,
-    "h": 928,
-    "kind": "Model",
-    "caption": "Model · Photographe of an object related to Het Vredespaleis in Den Haag, The Netherlands",
-    "credit": "Alf van Beem",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_of_the_Birthplace_Andrew_Carnegie.JPG",
-    "file": "File:Model of the Birthplace Andrew Carnegie.JPG"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -268635,18 +268545,6 @@ window.BUILDINGS = [
     "file": "File:Betonbalustrade op het dak - Harderwijk - 20382376 - RCE.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Hoogspanningsmast_Veluwemeer.jpg/1280px-Hoogspanningsmast_Veluwemeer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lovink-pumping-station/thumbs/2.webp",
-    "w": 1280,
-    "h": 983,
-    "kind": "Exterior",
-    "caption": "Exterior · Hoogspanningsmast op een eiland in het Veluwemeer tussen Harderwijk (industrieterrein Lorentz) en Flevoland",
-    "credit": "Apdency",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hoogspanningsmast_Veluwemeer.jpg",
-    "file": "File:Hoogspanningsmast Veluwemeer.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Interieur_met_pompen_-_Harderwijk_-_20382377_-_RCE.jpg/1280px-Interieur_met_pompen_-_Harderwijk_-_20382377_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/lovink-pumping-station/thumbs/3.webp",
     "w": 1280,
@@ -268745,30 +268643,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_the_blue_teahouse.jpg",
     "file": "File:Amsterdam, Vondelpark, the blue teahouse.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bitterballen_with_Dijon_mustard_-_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg/1280px-Bitterballen_with_Dijon_mustard_-_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blauwe-theehuis-vondelpark/thumbs/4.webp",
-    "w": 1280,
-    "h": 964,
-    "kind": "Interior",
-    "caption": "Interior · Bitterballen with Dijon mustard",
-    "credit": "Andy Li",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bitterballen_with_Dijon_mustard_-_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg",
-    "file": "File:Bitterballen with Dijon mustard - Taproom ‘t Blauwe Theehuis 2024-11-26.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Coffee_in_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg/1280px-Coffee_in_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blauwe-theehuis-vondelpark/thumbs/5.webp",
-    "w": 1054,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Latte macchiato in the front",
-    "credit": "Andy Li",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Coffee_in_Taproom_%E2%80%98t_Blauwe_Theehuis_2024-11-26.jpg",
-    "file": "File:Coffee in Taproom ‘t Blauwe Theehuis 2024-11-26.jpg"
    }
   ],
   "has": [],
@@ -268811,18 +268685,6 @@ window.BUILDINGS = [
     "file": "File:2024 Grand Hotel Amrâth gf69.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg/1280px-2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scheepvaarthuis-amsterdam/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Entrance",
-    "credit": "Gillfoto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg",
-    "file": "File:2024 Grand Hotel Amârth entrance gf68.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2024_Grand_Hotel_Am%C3%A2rth_gf_66.jpg/1280px-2024_Grand_Hotel_Am%C3%A2rth_gf_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/scheepvaarthuis-amsterdam/thumbs/2.webp",
     "w": 1127,
@@ -268845,6 +268707,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Ontwerptekening_Scheepvaarthuis_met_aanzicht_van_het_dak.jpg",
     "file": "File:Ontwerptekening Scheepvaarthuis met aanzicht van het dak.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg/1280px-2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/scheepvaarthuis-amsterdam/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Entrance",
+    "credit": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Grand_Hotel_Am%C3%A2rth_entrance_gf68.jpg",
+    "file": "File:2024 Grand Hotel Amârth entrance gf68.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Amsterdam_-_Prins_Hendrikkade_-_Binnenkant_-_Scheepvaarthuis_1913-16_%281926-28%29_by_Brothers_Van_Gendt_%28Construction%29_%26_J.M.van_der_Mey_%28Architectural_Design-_1st_%27Amsterdam_School%27_Building_in_A%27dam%29_-_Revolving_Door_Entrance_-_01.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -268933,18 +268807,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Antwerpen,_Museum_aan_de_Stroom_IMG_1080_2017-08-27_12.24.jpg",
     "file": "File:Antwerpen, Museum aan de Stroom IMG 1080 2017-08-27 12.24.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/GATE15-MAS-022.jpg%2C_asset_hLNabouTVnieGFDaUHCbcUJ1.jpg/1280px-GATE15-MAS-022.jpg%2C_asset_hLNabouTVnieGFDaUHCbcUJ1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-aan-de-stroom-antwerp/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Luc Roymans Photography",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:GATE15-MAS-022.jpg,_asset_hLNabouTVnieGFDaUHCbcUJ1.jpg",
-    "file": "File:GATE15-MAS-022.jpg, asset hLNabouTVnieGFDaUHCbcUJ1.jpg"
    }
   ],
   "has": [],
@@ -269021,30 +268883,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_Sacred_Heart.jpg",
     "file": "File:Basilica of the Sacred Heart.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Brussels_Town_Hall_Tower_01.jpg/1280px-Brussels_Town_Hall_Tower_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sacred-heart-basilica-koekelberg/thumbs/4.webp",
-    "w": 1081,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · The tower of Brussels Town hall ",
-    "credit": "Ad Meskens",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brussels_Town_Hall_Tower_01.jpg",
-    "file": "File:Brussels Town Hall Tower 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Brussels_Town_Hall_Tower_03.jpg/1280px-Brussels_Town_Hall_Tower_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sacred-heart-basilica-koekelberg/thumbs/5.webp",
-    "w": 1065,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · The tower of Brussels Town hall ",
-    "credit": "Ad Meskens",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brussels_Town_Hall_Tower_03.jpg",
-    "file": "File:Brussels Town Hall Tower 03.jpg"
    }
   ],
   "has": [],
@@ -269109,18 +268947,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_Europa_building_(23191466719).jpg",
     "file": "File:Bruxelles - Europa building (23191466719).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg/1280px-Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/europa-building-brussels/thumbs/3.webp",
-    "w": 1280,
-    "h": 895,
-    "kind": "Exterior",
-    "caption": "Exterior · Rue de la Loi, European Quarter in Brussels during civil twilight",
-    "credit": "Trougnouf (Benoit Brummer)",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Loi,_European_Quarter_in_Brussels_during_civil_twilight_(DSCF6957).jpg",
-    "file": "File:Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Interpreting_booth_Europa_building%2C_European_Union%2C_Brussels_04.jpg/1280px-Interpreting_booth_Europa_building%2C_European_Union%2C_Brussels_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -269297,30 +269123,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hochhaus-Boerentouren-Antwerpen-2012.jpg",
     "file": "File:Hochhaus-Boerentouren-Antwerpen-2012.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/View_on_Antwerpen.JPG/1280px-View_on_Antwerpen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/boerentoren-antwerp/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · View from the Museum aan de Stroom on the historic centre of Antwerp",
-    "credit": "Supercarwaar",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_on_Antwerpen.JPG",
-    "file": "File:View on Antwerpen.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Antwerpen_-_Bourlaschouwburg_vogelperspectief.jpg/1280px-Antwerpen_-_Bourlaschouwburg_vogelperspectief.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/boerentoren-antwerp/thumbs/5.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Lieven Smits",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Antwerpen_-_Bourlaschouwburg_vogelperspectief.jpg",
-    "file": "File:Antwerpen - Bourlaschouwburg vogelperspectief.jpg"
    }
   ],
   "has": [],
@@ -269397,30 +269199,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Antwerpen,_centraal_station_oeg7051_bij_het_Comics_Station_IMG_1152_2017-08-27_14.13.jpg",
     "file": "File:Antwerpen, centraal station oeg7051 bij het Comics Station IMG 1152 2017-08-27 14.13.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-1.jpg/1280px-Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/antwerpen-centraal-station/thumbs/4.webp",
-    "w": 1280,
-    "h": 1067,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Renée Kools",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-1.jpg",
-    "file": "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-2.jpg/1280px-Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/antwerpen-centraal-station/thumbs/5.webp",
-    "w": 1280,
-    "h": 1067,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Renée Kools",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-2.jpg",
-    "file": "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-2.jpg"
    }
   ],
   "has": [],
@@ -269497,18 +269275,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:-2043-00890_Parc_du_Cinquantenaire_-_Arcade_centrale_(11).JPG",
     "file": "File:-2043-00890 Parc du Cinquantenaire - Arcade centrale (11).JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Br%C3%BCssel_Parc_du_Cinquantenaire_Kolonade_NW_Mosaik_201508.jpg/1280px-Br%C3%BCssel_Parc_du_Cinquantenaire_Kolonade_NW_Mosaik_201508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinquantenaire-arcade-brussels/thumbs/4.webp",
-    "w": 1280,
-    "h": 1188,
-    "kind": "Detail",
-    "caption": "Detail · Brussels (city area): Cinquantenaire Park, northern arcade, mosaic detail; August 2015",
-    "credit": "Karlunun",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Br%C3%BCssel_Parc_du_Cinquantenaire_Kolonade_NW_Mosaik_201508.jpg",
-    "file": "File:Brüssel Parc du Cinquantenaire Kolonade NW Mosaik 201508.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Parc_Cinquantenaire_Brussels_%28221968233%29.jpeg/1280px-Parc_Cinquantenaire_Brussels_%28221968233%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -269851,30 +269617,6 @@ window.BUILDINGS = [
     "file": "File:Africamuseum Tervuren.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ballet_Bana_Mampala-Africa_Museum_%281%29_01.jpg/1280px-Ballet_Bana_Mampala-Africa_Museum_%281%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/royal-museum-central-africa-tervuren/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · *Ballet Bana Mampala (\"les enfants du terril\") , Gecamines, Lubumbashi (RDC) Musée royal de l'Afrique centrale",
-    "credit": "Ji-Elle",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ballet_Bana_Mampala-Africa_Museum_(1)_01.jpg",
-    "file": "File:Ballet Bana Mampala-Africa Museum (1) 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ballet_Bana_Mampala-Africa_Museum_%281%29_03.jpg/1280px-Ballet_Bana_Mampala-Africa_Museum_%281%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/royal-museum-central-africa-tervuren/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ji-Elle",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ballet_Bana_Mampala-Africa_Museum_(1)_03.jpg",
-    "file": "File:Ballet Bana Mampala-Africa Museum (1) 03.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pavillon_de_Stanley-Tervuren_%283%29.jpg/1280px-Pavillon_de_Stanley-Tervuren_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/royal-museum-central-africa-tervuren/thumbs/4.webp",
     "w": 1280,
@@ -269939,16 +269681,16 @@ window.BUILDINGS = [
     "file": "File:Luxembourg, fontaine parvis Grand Théâtre (blurred).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ville_de_Luxembourg_11.jpg/1280px-Ville_de_Luxembourg_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-luxembourg/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Luxemburg_Grand_Theatre_4.jpg/1280px-Luxemburg_Grand_Theatre_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-theatre-luxembourg/thumbs/4.webp",
     "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Ville de Luxembourg",
-    "credit": "Christian Alexander Tietgen",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ville_de_Luxembourg_11.jpg",
-    "file": "File:Ville de Luxembourg 11.jpg"
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Grand théâtre de la ville de Luxembourg Foyer",
+    "credit": "Photo: Andreas Praefcke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxemburg_Grand_Theatre_4.jpg",
+    "file": "File:Luxemburg Grand Theatre 4.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Luxemburg_Grand_Theatre_3.jpg/1280px-Luxemburg_Grand_Theatre_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -269961,30 +269703,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Luxemburg_Grand_Theatre_3.jpg",
     "file": "File:Luxemburg Grand Theatre 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Luxembourg-ville_bvd_de_la_Foire_vers_rond-point_Robert-Schuman.jpg/1280px-Luxembourg-ville_bvd_de_la_Foire_vers_rond-point_Robert-Schuman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-luxembourg/thumbs/3.webp",
-    "w": 1280,
-    "h": 645,
-    "kind": "Exterior",
-    "caption": "Exterior · Luxembourg City, boulevard de la Foire looking towards the roundabout Robert-Schuman",
-    "credit": "Cayambe",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg-ville_bvd_de_la_Foire_vers_rond-point_Robert-Schuman.jpg",
-    "file": "File:Luxembourg-ville bvd de la Foire vers rond-point Robert-Schuman.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Luxemburg_Grand_Theatre_4.jpg/1280px-Luxemburg_Grand_Theatre_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-luxembourg/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Grand théâtre de la ville de Luxembourg Foyer",
-    "credit": "Photo: Andreas Praefcke",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Luxemburg_Grand_Theatre_4.jpg",
-    "file": "File:Luxemburg Grand Theatre 4.jpg"
    }
   ],
   "has": [],
@@ -270037,18 +269755,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Zwolle,_Museum_de_Fundatie_RM41563_met_de_Peperbus_RM41765_op_de_achtergrond_foto4_2016-06-05_12.18.jpg",
     "file": "File:Zwolle, Museum de Fundatie RM41563 met de Peperbus RM41765 op de achtergrond foto4 2016-06-05 12.18.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Zwolle%2C_fontein_in_Stadsgracht_bij_Museum_de_Fundatie_foto4_2016-06-05_10.03.jpg/1280px-Zwolle%2C_fontein_in_Stadsgracht_bij_Museum_de_Fundatie_foto4_2016-06-05_10.03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-de-fundatie-zwolle/thumbs/2.webp",
-    "w": 1280,
-    "h": 782,
-    "kind": "Exterior",
-    "caption": "Exterior · Zwolle, fontain in canal near Museum de Fundatie",
-    "credit": "Michielverbeek",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Zwolle,_fontein_in_Stadsgracht_bij_Museum_de_Fundatie_foto4_2016-06-05_10.03.jpg",
-    "file": "File:Zwolle, fontein in Stadsgracht bij Museum de Fundatie foto4 2016-06-05 10.03.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_de_Fundatie_hnapel_038.jpg/1280px-Museum_de_Fundatie_hnapel_038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -270151,18 +269857,6 @@ window.BUILDINGS = [
     "file": "File:Tuschinski Theater 2894.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Abdallah_Omar_Mahamed.jpg/1280px-Abdallah_Omar_Mahamed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tuschinski-theatre-amsterdam/thumbs/3.webp",
-    "w": 1120,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Abdallah Omar Mahamed attending the final screening of Mocro Maffia at the Tuschinski Theatre",
-    "credit": "Gorinchem01833",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Abdallah_Omar_Mahamed.jpg",
-    "file": "File:Abdallah Omar Mahamed.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Stadsarchief_Amsterdam%2C_Afb_ANWH00231000001.jpg/1280px-Stadsarchief_Amsterdam%2C_Afb_ANWH00231000001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tuschinski-theatre-amsterdam/thumbs/4.webp",
     "w": 1280,
@@ -270249,59 +269943,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Aert_van_Nes_tour_boat_(ENI_02010878),_Holland_International,_Amsterdam-9210.jpg",
     "file": "File:Aert van Nes tour boat (ENI 02010878), Holland International, Amsterdam-9210.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Brewster_Kahle_bij_de_afsluiting_van_Beelden_voor_de_Toekomst_%2816702797437%29.jpg/1280px-Brewster_Kahle_bij_de_afsluiting_van_Beelden_voor_de_Toekomst_%2816702797437%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eye-filmmuseum-amsterdam/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Op maandag 23 maart vond de afsluiting plaats van het project Beelden voor de Toekomst",
-    "credit": "Sebastiaan ter Burg  from Utrecht, The Netherlands",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brewster_Kahle_bij_de_afsluiting_van_Beelden_voor_de_Toekomst_(16702797437).jpg",
-    "file": "File:Brewster Kahle bij de afsluiting van Beelden voor de Toekomst (16702797437).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/EYE_Film_Institute_Netherland_-_Library_and_Collections_building_-_Corridor_-_Overamstel%2C_Amsterdam.JPG/1280px-EYE_Film_Institute_Netherland_-_Library_and_Collections_building_-_Corridor_-_Overamstel%2C_Amsterdam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eye-filmmuseum-amsterdam/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Corridor second floor at the EYE Film Institute Netherlands, Dependency Collections, Overamstel, Amsterdam",
-    "credit": "Hansmuller",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:EYE_Film_Institute_Netherland_-_Library_and_Collections_building_-_Corridor_-_Overamstel,_Amsterdam.JPG",
-    "file": "File:EYE Film Institute Netherland - Library and Collections building - Corridor - Overamstel, Amsterdam.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Stanley_Kubrick_in_EYE_%287527330972%29.jpg/1280px-Stanley_Kubrick_in_EYE_%287527330972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eye-filmmuseum-amsterdam/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Detail",
-    "caption": "Detail · Helicopter model from the film Full Metal Jacket by en:Stanley Kubrick ",
-    "credit": "FaceMePLS  from The Hague, The Netherlands",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stanley_Kubrick_in_EYE_(7527330972).jpg",
-    "file": "File:Stanley Kubrick in EYE (7527330972).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/The_War_Room_%28Dr._Strangelove_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb%29_%287957733438%29.jpg/1280px-The_War_Room_%28Dr._Strangelove_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb%29_%287957733438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eye-filmmuseum-amsterdam/thumbs/6.webp",
-    "w": 1280,
-    "h": 905,
-    "kind": "Model",
-    "caption": "Model · Stanley Kubrick exhibit at EYE Filminstitut Netherlands, Amsterdam",
-    "credit": "Marcel Oosterwijk  from Amsterdam, The Netherlands",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_War_Room_(Dr._Strangelove_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb)_(7957733438).jpg",
-    "file": "File:The War Room (Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb) (7957733438).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -270453,18 +270097,6 @@ window.BUILDINGS = [
     "file": "File:Bruxelles - Maison Saint-Cyr (2).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg/1280px-Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saint-cyr-house-brussels/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Window of St",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg",
-    "file": "File:Bruxelles Maison Saint-Cyr Fenster 1.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Maison_Saint-Cyr_%28DSCF7558%29.jpg/1280px-Maison_Saint-Cyr_%28DSCF7558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/saint-cyr-house-brussels/thumbs/3.webp",
     "w": 869,
@@ -270487,6 +270119,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:BRUXELLES,_square_Ambiorix,_11_-_Maison_Saint-Cyr_-_BADEAUX_(4).jpg",
     "file": "File:BRUXELLES, square Ambiorix, 11 - Maison Saint-Cyr - BADEAUX (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg/1280px-Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-cyr-house-brussels/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Window of St",
+    "credit": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bruxelles_Maison_Saint-Cyr_Fenster_1.jpg",
+    "file": "File:Bruxelles Maison Saint-Cyr Fenster 1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bruxelles_Maison_Saint-Cyr_Fenster_3.jpg/1280px-Bruxelles_Maison_Saint-Cyr_Fenster_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -270651,30 +270295,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Olympic_stadium_(33460392888).jpg",
     "file": "File:Amsterdam Olympic stadium (33460392888).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Hockey%2C_Olympische_spelen_1928_Amsterdam%2C_SFA001014924.jpg/1280px-Hockey%2C_Olympische_spelen_1928_Amsterdam%2C_SFA001014924.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-amsterdam/thumbs/2.webp",
-    "w": 1280,
-    "h": 977,
-    "kind": "Exterior",
-    "caption": "Exterior · Omschrijving: Hockey, Olympische spelen 1928 Amsterdam ",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Hockey,_Olympische_spelen_1928_Amsterdam,_SFA001014924.jpg",
-    "file": "File:Hockey, Olympische spelen 1928 Amsterdam, SFA001014924.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mirakelfeesten%2C_Olympisch_Stadion_in_Amsterdam%2C_SFA001002169_01.jpg/1280px-Mirakelfeesten%2C_Olympisch_Stadion_in_Amsterdam%2C_SFA001002169_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-amsterdam/thumbs/3.webp",
-    "w": 1280,
-    "h": 963,
-    "kind": "Exterior",
-    "caption": "Exterior · Omschrijving: Mirakelfeesten, [Olympisch] Stadion in Amsterdam",
-    "credit": "Wiel van der Randen",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Mirakelfeesten,_Olympisch_Stadion_in_Amsterdam,_SFA001002169_01.jpg",
-    "file": "File:Mirakelfeesten, Olympisch Stadion in Amsterdam, SFA001002169 01.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Exterieur_WESTZIJDE%2C_ENTREE_NAAR_FOYERS_EN_KANTOREN_-_Amsterdam_-_20279177_-_RCE.jpg/1280px-Exterieur_WESTZIJDE%2C_ENTREE_NAAR_FOYERS_EN_KANTOREN_-_Amsterdam_-_20279177_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -270883,18 +270503,6 @@ window.BUILDINGS = [
     "file": "File:Bratislava - Fernsehturm (a).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bratislava%2C_Star%C3%A9_Mesto%2C_Slav%C3%ADn%2C_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg/1280px-Bratislava%2C_Star%C3%A9_Mesto%2C_Slav%C3%ADn%2C_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kamzik-tv-tower-bratislava/thumbs/2.webp",
-    "w": 737,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Kamzík tower in Bratislava, seen from Slavín memorial",
-    "credit": "I would appreciate  being notified  if you use my work outside Wikimedia.\nMore of my work can be fou",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bratislava,_Star%C3%A9_Mesto,_Slav%C3%ADn,_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg",
-    "file": "File:Bratislava, Staré Mesto, Slavín, pohled na vysílač Kamzík.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kamz%C3%ADk_TV_Tpwer_2018_1.jpg/1280px-Kamz%C3%ADk_TV_Tpwer_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kamzik-tv-tower-bratislava/thumbs/3.webp",
     "w": 1070,
@@ -270919,16 +270527,16 @@ window.BUILDINGS = [
     "file": "File:R.1975, televizní věž Kamzík.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/BRATISLAVSK%C3%89_VE%C5%BDE_-_BRATISLAVA_TOWERS_-_panoramio_%281%29.jpg/1280px-BRATISLAVSK%C3%89_VE%C5%BDE_-_BRATISLAVA_TOWERS_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kamzik-tv-tower-bratislava/thumbs/5.webp",
-    "w": 1280,
-    "h": 719,
-    "kind": "Interior",
-    "caption": "Interior · BRATISLAVSKÉ VEŽE - BRATISLAVA TOWERS",
-    "credit": "ANDREJ NEUHERZ",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bratislava%2C_Star%C3%A9_Mesto%2C_Slav%C3%ADn%2C_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg/1280px-Bratislava%2C_Star%C3%A9_Mesto%2C_Slav%C3%ADn%2C_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kamzik-tv-tower-bratislava/thumbs/2.webp",
+    "w": 737,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Kamzík tower in Bratislava, seen from Slavín memorial",
+    "credit": "I would appreciate  being notified  if you use my work outside Wikimedia.\nMore of my work can be fou",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:BRATISLAVSK%C3%89_VE%C5%BDE_-_BRATISLAVA_TOWERS_-_panoramio_(1).jpg",
-    "file": "File:BRATISLAVSKÉ VEŽE - BRATISLAVA TOWERS - panoramio (1).jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Bratislava,_Star%C3%A9_Mesto,_Slav%C3%ADn,_pohled_na_vys%C3%ADla%C4%8D_Kamz%C3%ADk.jpg",
+    "file": "File:Bratislava, Staré Mesto, Slavín, pohled na vysílač Kamzík.jpg"
    }
   ],
   "has": [],
@@ -270971,18 +270579,6 @@ window.BUILDINGS = [
     "file": "File:Budapest - Müpa (1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Budapest_-_M%C3%BCpa.jpg/1280px-Budapest_-_M%C3%BCpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muepa-budapest/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Ferencváros",
-    "credit": "Fred Romero  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Budapest_-_M%C3%BCpa.jpg",
-    "file": "File:Budapest - Müpa.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/A_M%C5%B1v%C3%A9szetek_Palot%C3%A1ja_2011._%C3%A1prilis_25_-%C3%A9n.JPG/1280px-A_M%C5%B1v%C3%A9szetek_Palot%C3%A1ja_2011._%C3%A1prilis_25_-%C3%A9n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/muepa-budapest/thumbs/2.webp",
     "w": 1280,
@@ -270995,16 +270591,16 @@ window.BUILDINGS = [
     "file": "File:A Művészetek Palotája 2011. április 25 -én.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/M%C5%B1v%C3%A9szetek_Palot%C3%A1ja_-_2014.03.11_%2810%29.JPG/1280px-M%C5%B1v%C3%A9szetek_Palot%C3%A1ja_-_2014.03.11_%2810%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muepa-budapest/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Budapest_-_M%C3%BCpa.jpg/1280px-Budapest_-_M%C3%BCpa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muepa-budapest/thumbs/1.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · A felvétel 2014",
-    "credit": "Derzsi Elekes Andor",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:M%C5%B1v%C3%A9szetek_Palot%C3%A1ja_-_2014.03.11_(10).JPG",
-    "file": "File:Művészetek Palotája - 2014.03.11 (10).JPG"
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Ferencváros",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest_-_M%C3%BCpa.jpg",
+    "file": "File:Budapest - Müpa.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Budapest_Palace_of_Arts_R01.jpg/1280px-Budapest_Palace_of_Arts_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -271081,18 +270677,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:2022_Puskas_Arena_Laslovarga_(10).jpg",
     "file": "File:2022 Puskas Arena Laslovarga (10).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pusk%C3%A1s_Arena_2024.jpg/1280px-Pusk%C3%A1s_Arena_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/puskas-arena-budapest/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · View of Puskás Arena from Sas-hegy hill, Budapest, Hungary",
-    "credit": "VargaA",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pusk%C3%A1s_Arena_2024.jpg",
-    "file": "File:Puskás Arena 2024.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pusk%C3%A1s_Ar%C3%A9na_%282%29.jpg/1280px-Pusk%C3%A1s_Ar%C3%A9na_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -271193,42 +270777,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hung%C3%A1ria_Stra%C3%9Fe_und_Stef%C3%A1nia_Stra%C3%9Fe_Ecke_2021_Istv%C3%A1nmez%C5%91.jpg",
     "file": "File:Hungária Straße und Stefánia Straße Ecke 2021 Istvánmező.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Budapest%2C_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na%2C_2.jpg/1280px-Budapest%2C_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/laszlo-papp-budapest-sports-arena/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Budapest, Papp László Aréna",
-    "credit": "Christo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na,_2.jpg",
-    "file": "File:Budapest, Papp László Aréna, 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Budapest%2C_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na%2C_3.jpg/1280px-Budapest%2C_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/laszlo-papp-budapest-sports-arena/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Budapest, Papp László Aréna",
-    "credit": "Christo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_Papp_L%C3%A1szl%C3%B3_Ar%C3%A9na,_3.jpg",
-    "file": "File:Budapest, Papp László Aréna, 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Szekeres_Adrien_%282012%29.JPG/1280px-Szekeres_Adrien_%282012%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/laszlo-papp-budapest-sports-arena/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Szekeres Adrien a Papp László Budapest Sportarénában 2012",
-    "credit": "Temesvári Gergely",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Szekeres_Adrien_(2012).JPG",
-    "file": "File:Szekeres Adrien (2012).JPG"
    }
   ],
   "has": [],
@@ -271371,30 +270919,6 @@ window.BUILDINGS = [
     "file": "File:Tallin TV tower.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Tallinna_Teletorn_%282%29.jpg/1280px-Tallinna_Teletorn_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tallinn-tv-tower/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Tallinna TW Tower",
-    "credit": "Erko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tallinna_Teletorn_(2).jpg",
-    "file": "File:Tallinna Teletorn (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Tallinna_Teletorn_%286%29.jpg/1280px-Tallinna_Teletorn_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tallinn-tv-tower/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Tallinna TW Tower",
-    "credit": "Erko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tallinna_Teletorn_(6).jpg",
-    "file": "File:Tallinna Teletorn (6).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tallinn_TV_Tower_01.jpg/1280px-Tallinn_TV_Tower_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tallinn-tv-tower/thumbs/3.webp",
     "w": 933,
@@ -271407,18 +270931,6 @@ window.BUILDINGS = [
     "file": "File:Tallinn TV Tower 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/KT-132_Tallinn_2015.jpg/1280px-KT-132_Tallinn_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tallinn-tv-tower/thumbs/4.webp",
-    "w": 1280,
-    "h": 959,
-    "kind": "Interior",
-    "caption": "Interior · KT-132 Soviet television camera (displayed in the Tallinn TV tower)",
-    "credit": "VargaA",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:KT-132_Tallinn_2015.jpg",
-    "file": "File:KT-132 Tallinn 2015.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Tallinn_TV_Tower_inside.jpg/1280px-Tallinn_TV_Tower_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tallinn-tv-tower/thumbs/5.webp",
     "w": 1280,
@@ -271429,23 +270941,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tallinn_TV_Tower_inside.jpg",
     "file": "File:Tallinn TV Tower inside.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Planta_energ%C3%A9tica_de_Iru%2C_Estonia%2C_2012-08-12%2C_DD_01.JPG/1280px-Planta_energ%C3%A9tica_de_Iru%2C_Estonia%2C_2012-08-12%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tallinn-tv-tower/thumbs/6.webp",
-    "w": 1280,
-    "h": 507,
-    "kind": "Plan",
-    "caption": "Plan · Power plant in Iru, Estonia",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Planta_energ%C3%A9tica_de_Iru,_Estonia,_2012-08-12,_DD_01.JPG",
-    "file": "File:Planta energética de Iru, Estonia, 2012-08-12, DD 01.JPG"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -271531,94 +271029,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Abandoned_Hotel_Room_in_Grand_Hotel_Pristine.jpg",
     "file": "File:Abandoned Hotel Room in Grand Hotel Pristine.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Blown_out_or_torn_down_wall_in_Grand_Hotel_Pristine.jpg/1280px-Blown_out_or_torn_down_wall_in_Grand_Hotel_Pristine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-hotel-prishtina/thumbs/5.webp",
-    "w": 1054,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Destroyed room wall looking over street",
-    "credit": "BugLikely",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blown_out_or_torn_down_wall_in_Grand_Hotel_Pristine.jpg",
-    "file": "File:Blown out or torn down wall in Grand Hotel Pristine.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "kozara-monument-mrakovica",
-  "n": 2962,
-  "name": "Monument to the Revolution, Kozara",
-  "by": "Dušan Džamonja",
-  "place": "Mrakovica (Kozara), BA",
-  "year": "1972",
-  "y": 1972,
-  "type": "Memorial",
-  "movement": "Brutalism",
-  "region": "Europe",
-  "era": "1970–1990",
-  "concepts": [
-   "Exposed concrete",
-   "Sculptural form",
-   "Light & shadow"
-  ],
-  "study": "Cylinder of twenty vertical concrete segments; Džamonja called it an interplay of light and darkness.",
-  "qid": null,
-  "commons": "Category:Monument to the Revolution (Kozara)",
-  "lead": "File:Поглед на споменик, Национални парк Козара.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%9F%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BD%D0%B0_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%2C_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0.jpg/1280px-%D0%9F%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BD%D0%B0_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%2C_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kozara-monument-mrakovica/thumbs/0.webp",
-    "w": 1004,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · This image was uploaded as part of Trace of Soul 2020 ",
-    "credit": "Malesevic Darija",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4_%D0%BD%D0%B0_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA,_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0.jpg",
-    "file": "File:Поглед на споменик, Национални парк Козара.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/NP002_-_6.jpg/1280px-NP002_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kozara-monument-mrakovica/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · This image was uploaded as part of Trace of Soul 2020 ",
-    "credit": "elektronak",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NP002_-_6.jpg",
-    "file": "File:NP002 - 6.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/NP002_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%E2%80%9E%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0%227.jpg/1280px-NP002_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%E2%80%9E%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0%227.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kozara-monument-mrakovica/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Aleksandramaricphotography",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NP002_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B0%D1%80%D0%BA_%E2%80%9E%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B0%227.jpg",
-    "file": "File:NP002 Национални парк „Козара\"7.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Monument_to_the_Revolution_Mrakovica_Kozara.jpg/1280px-Monument_to_the_Revolution_Mrakovica_Kozara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kozara-monument-mrakovica/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Monument to the Revolution Mrakovica Kozara",
-    "credit": "Tamara Tica",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Revolution_Mrakovica_Kozara.jpg",
-    "file": "File:Monument to the Revolution Mrakovica Kozara.jpg"
    }
   ],
   "has": [],
@@ -271626,7 +271036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riga-central-market",
-  "n": 2963,
+  "n": 2962,
   "name": "Riga Central Market",
   "by": "Pāvils Dreijmanis, P. Pavlovs",
   "place": "Riga, LV",
@@ -271661,18 +271071,6 @@ window.BUILDINGS = [
     "file": "File:Riga 1994 - 417755911.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/35152_Riga_Tram_at_the_market_halls_%2821722704062%29.jpg/1280px-35152_Riga_Tram_at_the_market_halls_%2821722704062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-central-market/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · 35152 Riga Tram at the market halls,, route 7 to Rusekla iela",
-    "credit": "Sludge G",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:35152_Riga_Tram_at_the_market_halls_(21722704062).jpg",
-    "file": "File:35152 Riga Tram at the market halls (21722704062).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sp%C4%AB%C4%B7eru_iela_1.jpg/1280px-Sp%C4%AB%C4%B7eru_iela_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/riga-central-market/thumbs/2.webp",
     "w": 1280,
@@ -271685,18 +271083,6 @@ window.BUILDINGS = [
     "file": "File:Spīķeru iela 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Trolleybus_in_Riga_IMG_2502_C.JPG/1280px-Trolleybus_in_Riga_IMG_2502_C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-central-market/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Trolleybus in Riga, Latvia",
-    "credit": "Anneli Salo",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Trolleybus_in_Riga_IMG_2502_C.JPG",
-    "file": "File:Trolleybus in Riga IMG 2502 C.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Gaizi%C5%86a_iela_%285%29.jpg/1280px-Gaizi%C5%86a_iela_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/riga-central-market/thumbs/4.webp",
     "w": 1280,
@@ -271707,18 +271093,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gaizi%C5%86a_iela_(5).jpg",
     "file": "File:Gaiziņa iela (5).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riga_trolleybus.jpg/1280px-Riga_trolleybus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-central-market/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Tagged with Latvia, Riga, trolleybus",
-    "credit": "Fredrik Rubensson",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Riga_trolleybus.jpg",
-    "file": "File:Riga trolleybus.jpg"
    }
   ],
   "has": [],
@@ -271726,7 +271100,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zetra-olympic-hall-sarajevo",
-  "n": 2964,
+  "n": 2963,
   "name": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
   "by": "Lidumil Alikalfić, Dušan Đapa",
   "place": "Sarajevo, BA",
@@ -271783,18 +271157,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sarajevo_Hum_View_5.jpg",
     "file": "File:Sarajevo Hum View 5.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Zetra_Olympiahalle%2C_Sarajevo.JPG/1280px-Zetra_Olympiahalle%2C_Sarajevo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zetra-olympic-hall-sarajevo/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Blick in die Zetra Olympiahalle (Sarajevo)",
-    "credit": "HH981",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Zetra_Olympiahalle,_Sarajevo.JPG",
-    "file": "File:Zetra Olympiahalle, Sarajevo.JPG"
    }
   ],
   "has": [],
@@ -271802,7 +271164,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vijecnica-sarajevo",
-  "n": 2965,
+  "n": 2964,
   "name": "Vijećnica (Sarajevo City Hall)",
   "by": "Alexander Wittek, Ćiril Iveković",
   "place": "Sarajevo, BA",
@@ -271878,7 +271240,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stari-most-mostar",
-  "n": 2966,
+  "n": 2965,
   "name": "Stari Most (Old Bridge)",
   "by": "Mimar Hayruddin",
   "place": "Mostar, BA",
@@ -271978,7 +271340,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kadinjaca-memorial-complex",
-  "n": 2967,
+  "n": 2966,
   "name": "Kadinjača Memorial Complex",
   "by": "Miodrag Živković, Aleksandar Đokić",
   "place": "Kadinjača (Užice), RS",
@@ -272047,28 +271409,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Memorial_complex_Kadinjaca.jpg",
     "file": "File:Memorial complex Kadinjaca.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Kadinja%C4%8Da_060.jpg/1280px-Kadinja%C4%8Da_060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kadinjaca-memorial-complex/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Spomen kompleks Kadinjača",
-    "credit": "Ванилица",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kadinja%C4%8Da_060.jpg",
-    "file": "File:Kadinjača 060.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "freedom-monument-riga",
-  "n": 2968,
+  "n": 2967,
   "name": "Freedom Monument",
   "by": "Kārlis Zāle, Ernests Štālbergs",
   "place": "Riga, LV",
@@ -272139,18 +271487,6 @@ window.BUILDINGS = [
     "file": "File:Freedom Monument (Brivibas Piemineklis).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/State_visit_of_the_U.S._President_in_Riga_1994.jpg/1280px-State_visit_of_the_U.S._President_in_Riga_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/freedom-monument-riga/thumbs/4.webp",
-    "w": 1280,
-    "h": 866,
-    "kind": "Interior",
-    "caption": "Interior · First time in history an U.S",
-    "credit": "Jens-Olaf",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:State_visit_of_the_U.S._President_in_Riga_1994.jpg",
-    "file": "File:State visit of the U.S. President in Riga 1994.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Freedom_Monument_Latvia_04.jpg/1280px-Freedom_Monument_Latvia_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/freedom-monument-riga/thumbs/5.webp",
     "w": 933,
@@ -272195,7 +271531,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brothers-cemetery-riga",
-  "n": 2969,
+  "n": 2968,
   "name": "Brothers' Cemetery",
   "by": "Kārlis Zāle, Pēteris Feders, Aleksandrs Birzenieks, P. Kundziņš",
   "place": "Riga, LV",
@@ -272283,7 +271619,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seimas-palace-vilnius",
-  "n": 2970,
+  "n": 2969,
   "name": "Seimas Palace",
   "by": "Algimantas Nasvytis, Vytautas Nasvytis",
   "place": "Vilnius, LT",
@@ -272342,18 +271678,6 @@ window.BUILDINGS = [
     "file": "File:Lietuvos Respublikos Seimas (4).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Seimas_Palace%2C_Vilnius%2C_April_2015_%2803%29.JPG/1280px-Seimas_Palace%2C_Vilnius%2C_April_2015_%2803%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/seimas-palace-vilnius/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Seimas Palace, Gediminas Avenue, Vilnius, Lithuania, April 2015",
-    "credit": "Ardfern",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Seimas_Palace,_Vilnius,_April_2015_(03).JPG",
-    "file": "File:Seimas Palace, Vilnius, April 2015 (03).JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Seimas_barricades_2.jpg/1280px-Seimas_barricades_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/seimas-palace-vilnius/thumbs/4.webp",
     "w": 1280,
@@ -272364,18 +271688,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Seimas_barricades_2.jpg",
     "file": "File:Seimas barricades 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chairman_of_the_Supreme_Council_of_the_Republic_of_Lithuania_Vytautas_Landsbergis_%28Vilnius%2C_Lithuania%2C_1990%29.jpg/1280px-Chairman_of_the_Supreme_Council_of_the_Republic_of_Lithuania_Vytautas_Landsbergis_%28Vilnius%2C_Lithuania%2C_1990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/seimas-palace-vilnius/thumbs/5.webp",
-    "w": 1280,
-    "h": 837,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Photographer Eugenijus Masevičius. Lithuanian Central State Archives.",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chairman_of_the_Supreme_Council_of_the_Republic_of_Lithuania_Vytautas_Landsbergis_(Vilnius,_Lithuania,_1990).jpg",
-    "file": "File:Chairman of the Supreme Council of the Republic of Lithuania Vytautas Landsbergis (Vilnius, Lithuania, 1990).jpg"
    }
   ],
   "has": [],
@@ -272383,7 +271695,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moslavina-monument-podgaric",
-  "n": 2971,
+  "n": 2970,
   "name": "Monument to the Revolution of the People of Moslavina",
   "by": "Dušan Džamonja",
   "place": "Podgarić, HR",
@@ -272440,18 +271752,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Spomenik_Podgaric01.jpg",
     "file": "File:Spomenik Podgaric01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Spomenik_Podgaric02.jpg/1280px-Spomenik_Podgaric02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/moslavina-monument-podgaric/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Spomen-ploča na grobnici pred spomenikom revolucije u Podgariću",
-    "credit": "Plamen  at  Serbian Wikipedia",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Spomenik_Podgaric02.jpg",
-    "file": "File:Spomenik Podgaric02.jpg"
    }
   ],
   "has": [],
@@ -272459,7 +271759,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cec-palace-bucharest",
-  "n": 2972,
+  "n": 2971,
   "name": "CEC Palace",
   "by": "Paul Gottereau, Ion Socolescu",
   "place": "Bucharest, RO",
@@ -272559,7 +271859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toblerone-karaburma-belgrade",
-  "n": 2973,
+  "n": 2972,
   "name": "Toblerone Tower (Karaburma)",
   "by": "Risto Šekerinski",
   "place": "Belgrade, RS",
@@ -272616,18 +271916,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Karaburma-0701_Toblerone.jpg",
     "file": "File:Karaburma-0701 Toblerone.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Karaburma-6371_Toblerone-Bogoslovje.jpg/1280px-Karaburma-6371_Toblerone-Bogoslovje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/toblerone-karaburma-belgrade/thumbs/3.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Stebunik",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Karaburma-6371_Toblerone-Bogoslovje.jpg",
-    "file": "File:Karaburma-6371 Toblerone-Bogoslovje.jpg"
    }
   ],
   "has": [],
@@ -272635,7 +271923,7 @@ window.BUILDINGS = [
  },
  {
   "id": "administrative-palace-satu-mare",
-  "n": 2974,
+  "n": 2973,
   "name": "Administrative Palace, Satu Mare",
   "by": "Nicolae Porumbescu (with Ludovic Gyüre)",
   "place": "Satu Mare, RO",
@@ -272711,7 +271999,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-military-circle-bucharest",
-  "n": 2975,
+  "n": 2974,
   "name": "National Military Circle (Cercul Militar Național)",
   "by": "Dimitrie Maimarolu",
   "place": "Bucharest, RO",
@@ -272782,18 +272070,6 @@ window.BUILDINGS = [
     "file": "File:Palacio del Círculo Nacional Militar, Bucarest, Rumanía, 2016-05-29, DD 66.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Palace_of_the_National_Military_Circle_Cercul_Militar_Na%C8%9Bional_%2852460226537%29.jpg/1280px-Palace_of_the_National_Military_Circle_Cercul_Militar_Na%C8%9Bional_%2852460226537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-military-circle-bucharest/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "George M. Groutas  from Limassol, Cyprus, Cyprus",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_the_National_Military_Circle_Cercul_Militar_Na%C8%9Bional_(52460226537).jpg",
-    "file": "File:Palace of the National Military Circle Cercul Militar Național (52460226537).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Palace_of_the_National_Military_Circle_Cercul_Militar_Na%C8%9Bional_%2852460226822%29.jpg/1280px-Palace_of_the_National_Military_Circle_Cercul_Militar_Na%C8%9Bional_%2852460226822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-military-circle-bucharest/thumbs/5.webp",
     "w": 1280,
@@ -272811,7 +272087,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaunas-mosque",
-  "n": 2976,
+  "n": 2975,
   "name": "Kaunas Mosque",
   "by": "Vaclovas Michnevičius, Adolfas Netyksas",
   "place": "Kaunas, LT",
@@ -272870,18 +272146,6 @@ window.BUILDINGS = [
     "file": "File:Kaunas Mosque, May 2026 3.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kauno_mecete_2021.jpg/1280px-Kauno_mecete_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kaunas-mosque/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "user:CD",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kauno_mecete_2021.jpg",
-    "file": "File:Kauno mecete 2021.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaunas%2C_me%C4%8Det%C4%97._I%C5%A1_antro_auk%C5%A1to.jpg/1280px-Kaunas%2C_me%C4%8Det%C4%97._I%C5%A1_antro_auk%C5%A1to.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kaunas-mosque/thumbs/4.webp",
     "w": 1280,
@@ -272911,7 +272175,7 @@ window.BUILDINGS = [
  },
  {
   "id": "constanta-casino",
-  "n": 2977,
+  "n": 2976,
   "name": "Constanța Casino",
   "by": "Daniel Renard",
   "place": "Constanța, RO",
@@ -273011,7 +272275,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haludovo-palace-hotel-malinska",
-  "n": 2978,
+  "n": 2977,
   "name": "Haludovo Palace Hotel",
   "by": "Boris Magaš",
   "place": "Malinska, HR",
@@ -273033,18 +272297,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Haludovo_palace_hotel_from_pool_2011-08-12.jpg/1280px-Haludovo_palace_hotel_from_pool_2011-08-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/haludovo-palace-hotel-malinska/thumbs/0.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Haludovo Palace Hotel ruin as seen from pool area",
-    "credit": "Thorsten Schroeteler",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Haludovo_palace_hotel_from_pool_2011-08-12.jpg",
-    "file": "File:Haludovo palace hotel from pool 2011-08-12.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Haludovo_Hotel_Palace_by_architect_Boris_Maga%C5%A1.jpg/1280px-Haludovo_Hotel_Palace_by_architect_Boris_Maga%C5%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/haludovo-palace-hotel-malinska/thumbs/1.webp",
@@ -273111,7 +272363,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christs-resurrection-church-kaunas",
-  "n": 2979,
+  "n": 2978,
   "name": "Church of Christ's Resurrection",
   "by": "Karolis Reisonas",
   "place": "Kaunas, LT",
@@ -273158,18 +272410,6 @@ window.BUILDINGS = [
     "file": "File:Open air uploaded 2026-05-25.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Winter_in_Kaunas_-_panoramio_%282%29.jpg/1280px-Winter_in_Kaunas_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christs-resurrection-church-kaunas/thumbs/2.webp",
-    "w": 1280,
-    "h": 858,
-    "kind": "Exterior",
-    "caption": "Exterior · winter in Kaunas",
-    "credit": "Laima Gūtmane (simka…",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winter_in_Kaunas_-_panoramio_(2).jpg",
-    "file": "File:Winter in Kaunas - panoramio (2).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1._Prisik%C4%97limo_ba%C5%BEny%C4%8Dia._Koply%C4%8Dios_interjeras.JPG/1280px-1._Prisik%C4%97limo_ba%C5%BEny%C4%8Dia._Koply%C4%8Dios_interjeras.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/christs-resurrection-church-kaunas/thumbs/3.webp",
     "w": 1280,
@@ -273211,7 +272451,7 @@ window.BUILDINGS = [
  },
  {
   "id": "poljud-stadium-split",
-  "n": 2980,
+  "n": 2979,
   "name": "Poljud Stadium",
   "by": "Boris Magaš",
   "place": "Split, HR",
@@ -273282,18 +272522,6 @@ window.BUILDINGS = [
     "file": "File:Poljud Stadium with the Kozjak Mountains in the distance.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Tonci_tartan_%282%29.jpg/1280px-Tonci_tartan_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/poljud-stadium-split/thumbs/4.webp",
-    "w": 1280,
-    "h": 620,
-    "kind": "Exterior",
-    "caption": "Exterior · Poljud 1987",
-    "credit": "Kpk84",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tonci_tartan_(2).jpg",
-    "file": "File:Tonci tartan (2).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Inside_Poljud_Stadium%2C_home_of_HNK_Hajduk_Split_FC.jpg/1280px-Inside_Poljud_Stadium%2C_home_of_HNK_Hajduk_Split_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/poljud-stadium-split/thumbs/5.webp",
     "w": 1280,
@@ -273311,7 +272539,7 @@ window.BUILDINGS = [
  },
  {
   "id": "park-monument-bulgarian-soviet-friendship-varna",
-  "n": 2981,
+  "n": 2980,
   "name": "Park-Monument of the Bulgarian-Soviet Friendship",
   "by": "Kamen Goranov (with sculptors Evgeni Barumov, Alyosha Kafedzhiyski)",
   "place": "Varna, BG",
@@ -273358,18 +272586,6 @@ window.BUILDINGS = [
     "file": "File:Pomnik przyjaźni bułgarsko-sowieckiej w Warnie (3).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bugarian-Soviet_friendship_monument_01.jpg/1280px-Bugarian-Soviet_friendship_monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/park-monument-bulgarian-soviet-friendship-varna/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Bugarian-Soviet friendship monument in Varna",
-    "credit": "Alicia Fagerving",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bugarian-Soviet_friendship_monument_01.jpg",
-    "file": "File:Bugarian-Soviet friendship monument 01.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/%D0%9F%D0%B0%D0%BC%D0%B5%D1%82%D0%BD%D0%B8%D0%BA%D0%B0.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/park-monument-bulgarian-soviet-friendship-varna/thumbs/3.webp",
     "w": 1226,
@@ -273382,16 +272598,16 @@ window.BUILDINGS = [
     "file": "File:Паметника.png"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/%D0%92%D0%B0%D1%80%D0%BD%D0%B0_%D1%82%D1%80%D0%BE%D0%BB%D0%B5%D0%B9_Varna_1993_Trolleybus_and_National_Liberation_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/park-monument-bulgarian-soviet-friendship-varna/thumbs/4.webp",
-    "w": 937,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Felix O",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D1%80%D0%BD%D0%B0_%D1%82%D1%80%D0%BE%D0%BB%D0%B5%D0%B9_Varna_1993_Trolleybus_and_National_Liberation_monument.jpg",
-    "file": "File:Варна тролей Varna 1993 Trolleybus and National Liberation monument.jpg"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bugarian-Soviet_friendship_monument_01.jpg/1280px-Bugarian-Soviet_friendship_monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/park-monument-bulgarian-soviet-friendship-varna/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Bugarian-Soviet friendship monument in Varna",
+    "credit": "Alicia Fagerving",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bugarian-Soviet_friendship_monument_01.jpg",
+    "file": "File:Bugarian-Soviet friendship monument 01.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Bugarian-Soviet_friendship_monument_00.jpg/1280px-Bugarian-Soviet_friendship_monument_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -273411,7 +272627,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sofia-central-station",
-  "n": 2982,
+  "n": 2981,
   "name": "Sofia Central Station",
   "by": "Milko Bechev (Transproekt)",
   "place": "Sofia, BG",
@@ -273480,30 +272696,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Platforms_of_Central_Railway_Station_Sofia_2012_PD_10.jpg",
     "file": "File:Platforms of Central Railway Station Sofia 2012 PD 10.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Naves%2C_llegada_a_la_Estaci%C3%B3n_de_tren_en_Sofia%2C_Bulgaria%2C_2011.JPG/1280px-Naves%2C_llegada_a_la_Estaci%C3%B3n_de_tren_en_Sofia%2C_Bulgaria%2C_2011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sofia-central-station/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Naves, llegada a la Estación de tren en Sofia, Bulgaria, 2011",
-    "credit": "Benjamín Núñez González",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Naves,_llegada_a_la_Estaci%C3%B3n_de_tren_en_Sofia,_Bulgaria,_2011.JPG",
-    "file": "File:Naves, llegada a la Estación de tren en Sofia, Bulgaria, 2011.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sofia_north_Banishora_IMG_1187_central_train_station_and_ramada_sofia_hotel.jpg/1280px-Sofia_north_Banishora_IMG_1187_central_train_station_and_ramada_sofia_hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sofia-central-station/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Aerial view of the quarters of Serika, and Banishora, in north-Central Sofia",
-    "credit": "Bjoertvedt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sofia_north_Banishora_IMG_1187_central_train_station_and_ramada_sofia_hotel.jpg",
-    "file": "File:Sofia north Banishora IMG 1187 central train station and ramada sofia hotel.jpg"
    }
   ],
   "has": [],
@@ -273511,7 +272703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zagreb-glavni-kolodvor",
-  "n": 2983,
+  "n": 2982,
   "name": "Zagreb Glavni Kolodvor (Main Station)",
   "by": "Ferenc Pfaff",
   "place": "Zagreb, HR",
@@ -273544,42 +272736,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bahnhof_Glavni_Kolodvor_Zagreb_Building_Railwaystation_Zagreb.jpg",
     "file": "File:Bahnhof Glavni Kolodvor Zagreb Building Railwaystation Zagreb.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Estaci%C3%B3n_Principal_de_FF.CC.%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_01.JPG/1280px-Estaci%C3%B3n_Principal_de_FF.CC.%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zagreb-glavni-kolodvor/thumbs/1.webp",
-    "w": 1280,
-    "h": 797,
-    "kind": "Exterior",
-    "caption": "Exterior · Main Railway Station, Zagreb, Croatia",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Principal_de_FF.CC.,_Zagreb,_Croacia,_2014-04-20,_DD_01.JPG",
-    "file": "File:Estación Principal de FF.CC., Zagreb, Croacia, 2014-04-20, DD 01.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Communication_board%2C_Zagreb_Glavni_Kolodvor.jpg/1280px-Communication_board%2C_Zagreb_Glavni_Kolodvor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zagreb-glavni-kolodvor/thumbs/2.webp",
-    "w": 1280,
-    "h": 591,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Mnalis",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Communication_board,_Zagreb_Glavni_Kolodvor.jpg",
-    "file": "File:Communication board, Zagreb Glavni Kolodvor.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Glavni_kolodvor_Zagreb_-_peroni_i_kolosjieci.png/1280px-Glavni_kolodvor_Zagreb_-_peroni_i_kolosjieci.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zagreb-glavni-kolodvor/thumbs/3.webp",
-    "w": 1280,
-    "h": 770,
-    "kind": "Exterior",
-    "caption": "Exterior · Grafički prikaz perona i kolosijeka na Glavnom kolodvoru u Zagrebu",
-    "credit": "TheFlag",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glavni_kolodvor_Zagreb_-_peroni_i_kolosjieci.png",
-    "file": "File:Glavni kolodvor Zagreb - peroni i kolosjieci.png"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Estaci%C3%B3n_Principal_de_FF.CC.%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_02.JPG/1280px-Estaci%C3%B3n_Principal_de_FF.CC.%2C_Zagreb%2C_Croacia%2C_2014-04-20%2C_DD_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -273625,7 +272781,7 @@ window.BUILDINGS = [
  },
  {
   "id": "telephone-palace-bucharest",
-  "n": 2984,
+  "n": 2983,
   "name": "Telephone Palace (SART building)",
   "by": "Edmond Van Saanen Algi",
   "place": "Bucharest, RO",
@@ -273672,18 +272828,6 @@ window.BUILDINGS = [
     "file": "File:20140702 Bucureşti 151.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Palatul_Telefoanelor_-_antennae_etc.jpg/1280px-Palatul_Telefoanelor_-_antennae_etc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/telephone-palace-bucharest/thumbs/2.webp",
-    "w": 945,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Antennae and satellite dishes atop Palatul Telefoanelor, Bucharest, Romania",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palatul_Telefoanelor_-_antennae_etc.jpg",
-    "file": "File:Palatul Telefoanelor - antennae etc.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bucharest_Day_3_-_Victoriei_%289335677397%29.jpg/1280px-Bucharest_Day_3_-_Victoriei_%289335677397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/telephone-palace-bucharest/thumbs/3.webp",
     "w": 1280,
@@ -273725,7 +272869,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-the-free-press-bucharest",
-  "n": 2985,
+  "n": 2984,
   "name": "House of the Free Press (Casa Scînteii)",
   "by": "Horia Maicu",
   "place": "Bucharest, RO",
@@ -273760,18 +272904,6 @@ window.BUILDINGS = [
     "file": "File:Bucuresti, Romania. CASA PRESEI LIBERE (Fosta Casa a Scînteii )(B-II-a-A-18802) (2).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bucuresti%2C_Romania._PARCUL_HERASTRAU._Acum_Parcul_Regele_Mihai_I._Ambarcatiuni_pe_lacul_Herastrau._%28B-II-a-A-18802%29.jpg/1280px-Bucuresti%2C_Romania._PARCUL_HERASTRAU._Acum_Parcul_Regele_Mihai_I._Ambarcatiuni_pe_lacul_Herastrau._%28B-II-a-A-18802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/house-of-the-free-press-bucharest/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Bucuresti, Romania",
-    "credit": "Britchi Mirela",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bucuresti,_Romania._PARCUL_HERASTRAU._Acum_Parcul_Regele_Mihai_I._Ambarcatiuni_pe_lacul_Herastrau._(B-II-a-A-18802).jpg",
-    "file": "File:Bucuresti, Romania. PARCUL HERASTRAU. Acum Parcul Regele Mihai I. Ambarcatiuni pe lacul Herastrau. (B-II-a-A-18802).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/DIMINEATA_DE_IULIE_-_panoramio.jpg/1280px-DIMINEATA_DE_IULIE_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/house-of-the-free-press-bucharest/thumbs/2.webp",
     "w": 1280,
@@ -273794,30 +272926,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Twin_Towers_and_House_of_Press.jpg",
     "file": "File:Twin Towers and House of Press.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Soseaua_Kiseleff_%28din_Arcul_de_Triumf%29.jpg/1280px-Soseaua_Kiseleff_%28din_Arcul_de_Triumf%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/house-of-the-free-press-bucharest/thumbs/4.webp",
-    "w": 789,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Kiseleff Road and Casa Presei Libere (seen from Arcul de Triumf )",
-    "credit": "Iulian  from Bucharest, Romania",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Soseaua_Kiseleff_(din_Arcul_de_Triumf).jpg",
-    "file": "File:Soseaua Kiseleff (din Arcul de Triumf).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Casa_Presei_Libere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/house-of-the-free-press-bucharest/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · View from the Triumph Arch with the Kiseleff Boulevard and Casa Presei Libere of Bucharest",
-    "credit": "Nicubunu",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casa_Presei_Libere.jpg",
-    "file": "File:Casa Presei Libere.jpg"
    }
   ],
   "has": [],
@@ -273825,7 +272933,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nebotinik-ljubljana",
-  "n": 2986,
+  "n": 2985,
   "name": "Nebotičnik",
   "by": "Vladimir Šubic",
   "place": "Ljubljana, SI",
@@ -273925,7 +273033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sofia-synagogue",
-  "n": 2987,
+  "n": 2986,
   "name": "Sofia Synagogue",
   "by": "Friedrich Grünanger",
   "place": "Sofia, BG",
@@ -274025,7 +273133,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riga-radio-and-tv-tower",
-  "n": 2988,
+  "n": 2987,
   "name": "Riga Radio and TV Tower",
   "by": "Kims Nikuradze",
   "place": "Riga, LV",
@@ -274047,18 +273155,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Daugava_River_and_Riga_Radio_and_Television_Tower.jpg/1280px-Daugava_River_and_Riga_Radio_and_Television_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-radio-and-tv-tower/thumbs/0.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Daugava River and Riga Radio and Television Tower",
-    "credit": "Tim Adams",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Daugava_River_and_Riga_Radio_and_Television_Tower.jpg",
-    "file": "File:Daugava River and Riga Radio and Television Tower.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/16-08-31-View_from_Latvian_Academy_of_Sciences_building-RR2_4242.jpg/1280px-16-08-31-View_from_Latvian_Academy_of_Sciences_building-RR2_4242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/riga-radio-and-tv-tower/thumbs/1.webp",
@@ -274082,42 +273178,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Daugavas_promen%C4%81de_-_panoramio_(1).jpg",
     "file": "File:Daugavas promenāde - panoramio (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Riga_sunset_view_with_Radio_%26_TV_Tower.jpg/1280px-Riga_sunset_view_with_Radio_%26_TV_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-radio-and-tv-tower/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Riga Radio & TV Tower in front of a dramatic sky",
-    "credit": "Michael Kuhn",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Riga_sunset_view_with_Radio_%26_TV_Tower.jpg",
-    "file": "File:Riga sunset view with Radio & TV Tower.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Daugava_%28D%C3%BCna%29_in_Riga_-_bridges.JPG/1280px-Daugava_%28D%C3%BCna%29_in_Riga_-_bridges.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-radio-and-tv-tower/thumbs/4.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Daugava in Riga",
-    "credit": "Pudelek  (Marcin Szala)",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Daugava_(D%C3%BCna)_in_Riga_-_bridges.JPG",
-    "file": "File:Daugava (Düna) in Riga - bridges.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_09.JPG/1280px-Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/riga-radio-and-tv-tower/thumbs/5.webp",
-    "w": 1280,
-    "h": 858,
-    "kind": "Interior",
-    "caption": "Interior · View of Riga from St",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vistas_desde_la_iglesia_de_San_Pedro,_Riga,_Letonia,_2012-08-07,_DD_09.JPG",
-    "file": "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 09.JPG"
    }
   ],
   "has": [],
@@ -274125,7 +273185,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-culture-iasi",
-  "n": 2989,
+  "n": 2988,
   "name": "Palace of Culture, Iași",
   "by": "I. D. Berindei",
   "place": "Iași, RO",
@@ -274225,7 +273285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zagreb-mosque",
-  "n": 2990,
+  "n": 2989,
   "name": "Zagreb Mosque",
   "by": "Džemal Čelić, Mirza Gološ",
   "place": "Zagreb, HR",
@@ -274247,30 +273307,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/D%C5%BEamija%2C_ZG_1335.JPG/960px-D%C5%BEamija%2C_ZG_1335.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zagreb-mosque/thumbs/0.webp",
-    "w": 960,
-    "h": 1280,
-    "kind": "Exterior",
-    "caption": "Exterior · Mosque and islamic center in Zagreb",
-    "credit": "Quahadi       Añtó    09:17, 12 April 2013 (UTC)",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:D%C5%BEamija,_ZG_1335.JPG",
-    "file": "File:Džamija, ZG 1335.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/D%C5%BEamija%2C_ZG_1329.JPG/1280px-D%C5%BEamija%2C_ZG_1329.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zagreb-mosque/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Mosque and islamic center in Zagreb",
-    "credit": "Quahadi       Añtó    09:16, 12 April 2013 (UTC)",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:D%C5%BEamija,_ZG_1329.JPG",
-    "file": "File:Džamija, ZG 1329.JPG"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Zagreba%C4%8Dka_d%C5%BEamija_%281987.%29_01.jpg/1280px-Zagreba%C4%8Dka_d%C5%BEamija_%281987.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/zagreb-mosque/thumbs/2.webp",
@@ -274301,7 +273337,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cibona-tower-zagreb",
-  "n": 2991,
+  "n": 2990,
   "name": "Cibona Tower",
   "by": "Marijan Hržić",
   "place": "Zagreb, HR",
@@ -274401,7 +273437,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mehmed-pasa-sokolovic-bridge-visegrad",
-  "n": 2992,
+  "n": 2991,
   "name": "Mehmed Paša Sokolović Bridge",
   "by": "Mimar Sinan",
   "place": "Višegrad, BA",
@@ -274472,18 +273508,6 @@ window.BUILDINGS = [
     "file": "File:Mehmed Paša Sokolović Bridge, Višegrad 2.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Most_Mehmed_Pase_Sokolovica.jpg/1280px-Most_Mehmed_Pase_Sokolovica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mehmed-pasa-sokolovic-bridge-visegrad/thumbs/4.webp",
-    "w": 1280,
-    "h": 661,
-    "kind": "Context",
-    "caption": "Context · Most Mehmed-paše Sokolovića je povijesni most u Višegradu, preko rijeke Drine u istočnoj Bosni i Hercegovini",
-    "credit": "Ceca Novakovic",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Most_Mehmed_Pase_Sokolovica.jpg",
-    "file": "File:Most Mehmed Pase Sokolovica.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Panorama_%C4%87uprija_na_Drini.jpg/1280px-Panorama_%C4%87uprija_na_Drini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mehmed-pasa-sokolovic-bridge-visegrad/thumbs/5.webp",
     "w": 1280,
@@ -274501,7 +273525,7 @@ window.BUILDINGS = [
  },
  {
   "id": "croatian-national-theatre-zagreb",
-  "n": 2993,
+  "n": 2992,
   "name": "Croatian National Theatre",
   "by": "Fellner & Helmer",
   "place": "Zagreb, HR",
@@ -274572,30 +273596,6 @@ window.BUILDINGS = [
     "file": "File:Teatro Nacional, Zagreb, Croacia, 2014-04-20, DD 01.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Sink_in_Croatian_National_Theater%2C_Zagreb.jpg/1280px-Sink_in_Croatian_National_Theater%2C_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/croatian-national-theatre-zagreb/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · A sink in Croatian National Theater, Zagreb, Croatia",
-    "credit": "Bernard Gagnon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sink_in_Croatian_National_Theater,_Zagreb.jpg",
-    "file": "File:Sink in Croatian National Theater, Zagreb.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Toilet_in_Croatian_National_Theater%2C_Zagreb.jpg/1280px-Toilet_in_Croatian_National_Theater%2C_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/croatian-national-theatre-zagreb/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · A toilet in Croatian National Theater, Zagreb, Croatia",
-    "credit": "Bernard Gagnon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Toilet_in_Croatian_National_Theater,_Zagreb.jpg",
-    "file": "File:Toilet in Croatian National Theater, Zagreb.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/LEGO_HNK_Zagreb.JPG/1280px-LEGO_HNK_Zagreb.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/croatian-national-theatre-zagreb/thumbs/6.webp",
     "w": 1280,
@@ -274615,7 +273615,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ivan-vazov-national-theatre-sofia",
-  "n": 2994,
+  "n": 2993,
   "name": "Ivan Vazov National Theatre",
   "by": "Fellner & Helmer",
   "place": "Sofia, BG",
@@ -274742,7 +273742,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peles-castle-sinaia",
-  "n": 2995,
+  "n": 2994,
   "name": "Peleș Castle",
   "by": "Johannes Schultz",
   "place": "Sinaia, RO",
@@ -274823,40 +273823,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chateau_Peles_porte.jpg",
     "file": "File:Chateau Peles porte.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Pele%C5%9F_-_sculpture_1.JPG/1280px-Pele%C5%9F_-_sculpture_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/peles-castle-sinaia/thumbs/5.webp",
-    "w": 991,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Castle Peleş - sculpture",
-    "credit": "Pudelek  (Marcin Szala)",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pele%C5%9F_-_sculpture_1.JPG",
-    "file": "File:Peleş - sculpture 1.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bench_based_on_a_drawing_by_Marie_of_Romania_%28shadows_lightened%29.jpg/1280px-Bench_based_on_a_drawing_by_Marie_of_Romania_%28shadows_lightened%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/peles-castle-sinaia/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bench_based_on_a_drawing_by_Marie_of_Romania_(shadows_lightened).jpg",
-    "file": "File:Bench based on a drawing by Marie of Romania (shadows lightened).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "latvian-academy-of-sciences-riga",
-  "n": 2996,
+  "n": 2995,
   "name": "Latvian Academy of Sciences",
   "by": "Osvalds Tīlmanis, Vaidelotis Apsītis, Kārlis Plūksne",
   "place": "Riga, LV",
@@ -274913,42 +273887,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Across_the_Daugava_(30003550646).jpg",
     "file": "File:Across the Daugava (30003550646).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Latvian_Academy_of_Sciences_illuminated_by_a_sunset_light.jpg/1280px-Latvian_Academy_of_Sciences_illuminated_by_a_sunset_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/latvian-academy-of-sciences-riga/thumbs/3.webp",
-    "w": 1280,
-    "h": 1024,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of cultural heritage monument of Latvia number",
-    "credit": "Dace Kundrate",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Latvian_Academy_of_Sciences_illuminated_by_a_sunset_light.jpg",
-    "file": "File:Latvian Academy of Sciences illuminated by a sunset light.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_09.JPG/1280px-Vistas_desde_la_iglesia_de_San_Pedro%2C_Riga%2C_Letonia%2C_2012-08-07%2C_DD_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/latvian-academy-of-sciences-riga/thumbs/4.webp",
-    "w": 1280,
-    "h": 858,
-    "kind": "Interior",
-    "caption": "Interior · View of Riga from St",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vistas_desde_la_iglesia_de_San_Pedro,_Riga,_Letonia,_2012-08-07,_DD_09.JPG",
-    "file": "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 09.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Central_market_seen_from_Latvian_Academy_of_Sciences.jpg/1280px-Central_market_seen_from_Latvian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/latvian-academy-of-sciences-riga/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · View of the Central market from the Latvian Academy of Sciences building",
-    "credit": "Averater",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Central_market_seen_from_Latvian_Academy_of_Sciences.jpg",
-    "file": "File:Central market seen from Latvian Academy of Sciences.jpg"
    }
   ],
   "has": [],
@@ -274956,7 +273894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-stadium-wroclaw",
-  "n": 2997,
+  "n": 2996,
   "name": "Olympic Stadium, Wrocław (Schlesierkampfbahn)",
   "by": "Richard Konwiarz",
   "place": "Wrocław, PL",
@@ -275001,54 +273939,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0 pl",
     "source": "https://commons.wikimedia.org/wiki/File:598713_Wroc%C5%82aw_stadion_olimpijski,_wie%C5%BCa_zegarowa_02.JPG",
     "file": "File:598713 Wrocław stadion olimpijski, wieża zegarowa 02.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/598708_Wroc%C5%82aw_stadion_olimpijski_01.JPG/1280px-598708_Wroc%C5%82aw_stadion_olimpijski_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-wroclaw/thumbs/2.webp",
-    "w": 1280,
-    "h": 493,
-    "kind": "Exterior",
-    "caption": "Exterior · Wrocław, stadion, 1926-1938",
-    "credit": "Dawid Galus",
-    "license": "CC BY-SA 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:598708_Wroc%C5%82aw_stadion_olimpijski_01.JPG",
-    "file": "File:598708 Wrocław stadion olimpijski 01.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Olympic_Stadium_in_Wroc%C5%82aw.jpg/1280px-The_Olympic_Stadium_in_Wroc%C5%82aw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-wroclaw/thumbs/3.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Exterior",
-    "caption": "Exterior · The Olympic Stadium in Wrocław",
-    "credit": "Robert von Oliva (naruciakk)",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Olympic_Stadium_in_Wroc%C5%82aw.jpg",
-    "file": "File:The Olympic Stadium in Wrocław.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bartek_Skrzynski_Skrzynia_i_krasnal_%28Bartek_Skrzynski_Skrzynia_and_a_dwarf%29_Wroclaw_dwarf_2021_P01.jpg/1280px-Bartek_Skrzynski_Skrzynia_i_krasnal_%28Bartek_Skrzynski_Skrzynia_and_a_dwarf%29_Wroclaw_dwarf_2021_P01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-wroclaw/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Fallaner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bartek_Skrzynski_Skrzynia_i_krasnal_(Bartek_Skrzynski_Skrzynia_and_a_dwarf)_Wroclaw_dwarf_2021_P01.jpg",
-    "file": "File:Bartek Skrzynski Skrzynia i krasnal (Bartek Skrzynski Skrzynia and a dwarf) Wroclaw dwarf 2021 P01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bartek_Skrzynski_Skrzynia_i_krasnal_%28Bartek_Skrzynski_Skrzynia_and_a_dwarf%29_Wroclaw_dwarf_2021_P02.jpg/1280px-Bartek_Skrzynski_Skrzynia_i_krasnal_%28Bartek_Skrzynski_Skrzynia_and_a_dwarf%29_Wroclaw_dwarf_2021_P02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-stadium-wroclaw/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Fallaner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bartek_Skrzynski_Skrzynia_i_krasnal_(Bartek_Skrzynski_Skrzynia_and_a_dwarf)_Wroclaw_dwarf_2021_P02.jpg",
-    "file": "File:Bartek Skrzynski Skrzynia i krasnal (Bartek Skrzynski Skrzynia and a dwarf) Wroclaw dwarf 2021 P02.jpg"
    }
   ],
   "has": [],
@@ -275056,7 +273946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cepelia-pavilion-warsaw",
-  "n": 2998,
+  "n": 2997,
   "name": "Cepelia Pavilion",
   "by": "Zygmunt Stępiński, Andrzej Milewski, Aleksander Haweman",
   "place": "Warsaw, PL",
@@ -275144,7 +274034,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hungarian-state-opera-house-budapest",
-  "n": 2999,
+  "n": 2998,
   "name": "Hungarian State Opera House",
   "by": "Miklós Ybl",
   "place": "Budapest, HU",
@@ -275227,18 +274117,6 @@ window.BUILDINGS = [
     "file": "File:Budapest, Opera, 108.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Staircase_opera_scene_from_end_of_tour_at_Hungarian_State_Opera_House%2C_two_singers_closeup.jpg/1280px-Staircase_opera_scene_from_end_of_tour_at_Hungarian_State_Opera_House%2C_two_singers_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hungarian-state-opera-house-budapest/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Jonathan Schilling",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Staircase_opera_scene_from_end_of_tour_at_Hungarian_State_Opera_House,_two_singers_closeup.jpg",
-    "file": "File:Staircase opera scene from end of tour at Hungarian State Opera House, two singers closeup.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Meyers_b15_s0624a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/hungarian-state-opera-house-budapest/thumbs/6.webp",
     "w": 800,
@@ -275258,7 +274136,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-international-prague",
-  "n": 3000,
+  "n": 2999,
   "name": "Grand Hotel International Prague",
   "by": "František Jeřábek",
   "place": "Prague, CZ",
@@ -275291,18 +274169,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Dejvice_-_Hotel_Crowne_Plaza_Prague.jpg",
     "file": "File:Dejvice - Hotel Crowne Plaza Prague.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg/1280px-Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-international-prague/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Hotel International Prague, Praha-Dejvice",
-    "credit": "Matěj Baťha",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg",
-    "file": "File:Dejvice - Hotel Crowne Plaza Prague 1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Prague_Hotel_International-20140525-RM-083242.jpg/1280px-Prague_Hotel_International-20140525-RM-083242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -275351,6 +274217,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Praha_-_Hotel_International_Prague_-_Gobelin_Depicting_The_Stalin_Statue_on_Letn%C3%A1.jpg",
     "file": "File:Praha - Hotel International Prague - Gobelin Depicting The Stalin Statue on Letná.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg/1280px-Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-international-prague/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Hotel International Prague, Praha-Dejvice",
+    "credit": "Matěj Baťha",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Dejvice_-_Hotel_Crowne_Plaza_Prague_1.jpg",
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague 1.jpg"
    }
   ],
   "has": [],
@@ -275358,7 +274236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "praha-hlavni-nadrazi",
-  "n": 3001,
+  "n": 3000,
   "name": "Praha hlavní nádraží (Prague Main Station)",
   "by": "Josef Fanta",
   "place": "Prague, CZ",
@@ -275439,18 +274317,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Platform_hall_of_Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_2026.JPG",
     "file": "File:Platform hall of Praha hlavní nádraží 2026.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Praha_-_Hlavn%C3%AD_N%C3%A1dra%C5%BE%C3%AD_%287509713860%29.jpg/1280px-Praha_-_Hlavn%C3%AD_N%C3%A1dra%C5%BE%C3%AD_%287509713860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/praha-hlavni-nadrazi/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Praha - Hlavní Nádraží",
-    "credit": "IngolfBLN",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Praha_-_Hlavn%C3%AD_N%C3%A1dra%C5%BE%C3%AD_(7509713860).jpg",
-    "file": "File:Praha - Hlavní Nádraží (7509713860).jpg"
    }
   ],
   "has": [],
@@ -275458,7 +274324,7 @@ window.BUILDINGS = [
  },
  {
   "id": "avala-tower-belgrade",
-  "n": 3002,
+  "n": 3001,
   "name": "Avala Tower",
   "by": "Uglješa Bogunović, Slobodan Janjić",
   "place": "Belgrade, RS",
@@ -275527,30 +274393,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Avalski-toranj_01.jpg",
     "file": "File:Avalski-toranj 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Avalski-toranj_03.jpg/1280px-Avalski-toranj_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/avala-tower-belgrade/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Context",
-    "caption": "Context · TV tower on Avala, Belgrade",
-    "credit": "Miomir Magdevski",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Avalski-toranj_03.jpg",
-    "file": "File:Avalski-toranj 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Beograd_pogled_sa_Avalskog_tornja.jpg/1280px-Beograd_pogled_sa_Avalskog_tornja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/avala-tower-belgrade/thumbs/5.webp",
-    "w": 1280,
-    "h": 736,
-    "kind": "Context",
-    "caption": "Context · Panorama of Belgrade from Avala tower",
-    "credit": "Miomir Magdevski",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Beograd_pogled_sa_Avalskog_tornja.jpg",
-    "file": "File:Beograd pogled sa Avalskog tornja.jpg"
    }
   ],
   "has": [],
@@ -275558,7 +274400,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lords-ark-church-nowa-huta",
-  "n": 3003,
+  "n": 3002,
   "name": "Church of Our Lady Queen of Poland (Lord's Ark)",
   "by": "Wojciech Pietrzyk",
   "place": "Kraków (Nowa Huta), PL",
@@ -275658,7 +274500,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-stadium-warsaw",
-  "n": 3004,
+  "n": 3003,
   "name": "National Stadium (PGE Narodowy)",
   "by": "gmp Architects von Gerkan, Marg and Partners with JSK Architects",
   "place": "Warsaw, PL",
@@ -275727,30 +274569,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kazimierz_G%C3%B3rski_National_Stadium,_2026,_Warsaw_Poland.jpg",
     "file": "File:Kazimierz Górski National Stadium, 2026, Warsaw Poland.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Lo%C5%BCa_VIP_Stadion_Narodowy_w_Warszawie_2014_019.jpg/1280px-Lo%C5%BCa_VIP_Stadion_Narodowy_w_Warszawie_2014_019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-stadium-warsaw/thumbs/4.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Interior",
-    "caption": "Interior · Jedna z lóż VIP na Stadionie Narodowym w Warszawie",
-    "credit": "Adrian Grycuk",
-    "license": "CC BY-SA 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:Lo%C5%BCa_VIP_Stadion_Narodowy_w_Warszawie_2014_019.jpg",
-    "file": "File:Loża VIP Stadion Narodowy w Warszawie 2014 019.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Kaplica_wielowyznaniowa_Stadion_Narodowy_w_Warszawie.jpg/1280px-Kaplica_wielowyznaniowa_Stadion_Narodowy_w_Warszawie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-stadium-warsaw/thumbs/5.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Interior",
-    "caption": "Interior · Multifaith chapel at the National Stadium in Warsaw",
-    "credit": "Adrian Grycuk",
-    "license": "CC BY-SA 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:Kaplica_wielowyznaniowa_Stadion_Narodowy_w_Warszawie.jpg",
-    "file": "File:Kaplica wielowyznaniowa Stadion Narodowy w Warszawie.jpg"
    }
   ],
   "has": [],
@@ -275758,7 +274576,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pearl-bank-apartments",
-  "n": 3005,
+  "n": 3004,
   "name": "Pearl Bank Apartments",
   "by": "Tan Cheng Siong (Archurban Architects Planners)",
   "place": "Singapore, SG",
@@ -275780,18 +274598,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Pearl_Bank_2.jpg/1280px-Pearl_Bank_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pearl-bank-apartments/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Pearl Bank building in Singapore",
-    "credit": "Aatu Dorochenko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pearl_Bank_2.jpg",
-    "file": "File:Pearl Bank 2.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Pearl_Bank_Apartments%2C_Singapore.jpg/1280px-Pearl_Bank_Apartments%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pearl-bank-apartments/thumbs/1.webp",
@@ -275817,18 +274623,6 @@ window.BUILDINGS = [
     "file": "File:Pearl Bank Apartments - Flickr - jonolist.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/One_Pearl_Bank_construction.jpg/1280px-One_Pearl_Bank_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pearl-bank-apartments/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · One Pearl Bank construction",
-    "credit": "Aaaatu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:One_Pearl_Bank_construction.jpg",
-    "file": "File:One Pearl Bank construction.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/PearlBank_Interior_01.jpg/1280px-PearlBank_Interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pearl-bank-apartments/thumbs/4.webp",
     "w": 1280,
@@ -275839,18 +274633,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:PearlBank_Interior_01.jpg",
     "file": "File:PearlBank Interior 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/PearlBank_Internal_Staircase.jpg/1280px-PearlBank_Internal_Staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pearl-bank-apartments/thumbs/5.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior · View of internal staircase in a 3BR apartment in Pearl Bank Apartments, Singapore",
-    "credit": "Jpatokal",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:PearlBank_Internal_Staircase.jpg",
-    "file": "File:PearlBank Internal Staircase.jpg"
    }
   ],
   "has": [],
@@ -275858,7 +274640,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sky-habitat",
-  "n": 3006,
+  "n": 3005,
   "name": "Sky Habitat",
   "by": "Moshe Safdie",
   "place": "Singapore, SG",
@@ -275910,7 +274692,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singapore-flyer",
-  "n": 3007,
+  "n": 3006,
   "name": "Singapore Flyer",
   "by": "Kisho Kurokawa Architects & Associates with DP Architects",
   "place": "Singapore, SG",
@@ -275933,30 +274715,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/SG-flyer-01.jpg/1280px-SG-flyer-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/0.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Balou46",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SG-flyer-01.jpg",
-    "file": "File:SG-flyer-01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/SG-flyer-02.jpg/1280px-SG-flyer-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/1.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Balou46",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SG-flyer-02.jpg",
-    "file": "File:SG-flyer-02.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/MajesticSingaporeFlyer.jpg/1280px-MajesticSingaporeFlyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/singapore-flyer/thumbs/2.webp",
     "w": 1050,
@@ -275967,64 +274725,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:MajesticSingaporeFlyer.jpg",
     "file": "File:MajesticSingaporeFlyer.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4472.jpg/1280px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4472.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Singapore Flyer , Singapore",
-    "credit": "Dietmar Rabich",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Singapore_Flyer_--_2019_--_4472.jpg",
-    "file": "File:Singapore (SG), Singapore Flyer -- 2019 -- 4472.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4474.jpg/1280px-Singapore_%28SG%29%2C_Singapore_Flyer_--_2019_--_4474.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/4.webp",
-    "w": 926,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Singapore Flyer , Singapore",
-    "credit": "Dietmar Rabich",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_Singapore_Flyer_--_2019_--_4474.jpg",
-    "file": "File:Singapore (SG), Singapore Flyer -- 2019 -- 4474.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Singapore_Flyer_%28Flyer%29.jpg/1280px-Singapore_Flyer_%28Flyer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · The Singapore Flyer the largest observation wheel in Asia",
-    "credit": "Apple11111",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Flyer_(Flyer).jpg",
-    "file": "File:Singapore Flyer (Flyer).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Singapore_flyer_lego.jpg/1280px-Singapore_flyer_lego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-flyer/thumbs/6.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Model",
-    "caption": "Model · Miniature model of region near Singapore Flyer and Fullerton Hotel (Singapore) at Miniland, Legoland Malaysia",
-    "credit": "ProjectManhattan",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Singapore_flyer_lego.jpg",
-    "file": "File:Singapore flyer lego.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "sultan-salahuddin-abdul-aziz-shah-mosque",
-  "n": 3008,
+  "n": 3007,
   "name": "Sultan Salahuddin Abdul Aziz Shah Mosque (Blue Mosque)",
   "by": "Baharuddin Abu Kassim",
   "place": "Shah Alam, MY",
@@ -276046,18 +274754,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sultan_Salahuddin_Abdul_Aziz_Mosque_by_Fairus_Khafiz.jpg/1280px-Sultan_Salahuddin_Abdul_Aziz_Mosque_by_Fairus_Khafiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sultan-salahuddin-abdul-aziz-shah-mosque/thumbs/0.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of a monument in Malaysia, identified by ID",
-    "credit": "Fairuskhafiz",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sultan_Salahuddin_Abdul_Aziz_Mosque_by_Fairus_Khafiz.jpg",
-    "file": "File:Sultan Salahuddin Abdul Aziz Mosque by Fairus Khafiz.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/SA-masjid-sultan-salahuddin-tasik.jpg/1280px-SA-masjid-sultan-salahuddin-tasik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sultan-salahuddin-abdul-aziz-shah-mosque/thumbs/1.webp",
@@ -276083,30 +274779,6 @@ window.BUILDINGS = [
     "file": "File:SultanSalahuddinMosque1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sigange_at_Shah_Alam_Mosque_20250925.jpg/1280px-Sigange_at_Shah_Alam_Mosque_20250925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sultan-salahuddin-abdul-aziz-shah-mosque/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Sigange at Shah Alam Mosque",
-    "credit": "Rulwarih",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sigange_at_Shah_Alam_Mosque_20250925.jpg",
-    "file": "File:Sigange at Shah Alam Mosque 20250925.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Interior_Shah_Alam_Mosque_20250925.jpg/1280px-Interior_Shah_Alam_Mosque_20250925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sultan-salahuddin-abdul-aziz-shah-mosque/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Interior Shah Alam Mosque during Yaasin recitation",
-    "credit": "Rulwarih",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Interior_Shah_Alam_Mosque_20250925.jpg",
-    "file": "File:Interior Shah Alam Mosque 20250925.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Interior_of_Sultan_Salahuddin_Abdul_Aziz_Mosque.jpg/1280px-Interior_of_Sultan_Salahuddin_Abdul_Aziz_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sultan-salahuddin-abdul-aziz-shah-mosque/thumbs/5.webp",
     "w": 1280,
@@ -276124,7 +274796,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-justice-putrajaya",
-  "n": 3009,
+  "n": 3008,
   "name": "Palace of Justice, Putrajaya",
   "by": "AR Ahmad Rozi A Wahab (aQidea Architect)",
   "place": "Putrajaya, MY",
@@ -276205,18 +274877,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Justice_at_night.jpg",
     "file": "File:Palace of Justice at night.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/WANGENGLIM-1-_LAMPU-OCT2015.jpg/1280px-WANGENGLIM-1-_LAMPU-OCT2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-justice-putrajaya/thumbs/5.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Context",
-    "caption": "Context · This is a photo of a monument in Malaysia, identified by ID",
-    "credit": "Wangenglim",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WANGENGLIM-1-_LAMPU-OCT2015.jpg",
-    "file": "File:WANGENGLIM-1- LAMPU-OCT2015.jpg"
    }
   ],
   "has": [],
@@ -276224,7 +274884,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tuanku-mizan-zainal-abidin-mosque",
-  "n": 3010,
+  "n": 3009,
   "name": "Tuanku Mizan Zainal Abidin Mosque (Iron Mosque)",
   "by": "Nik Arshad Nik Mohammed",
   "place": "Putrajaya, MY",
@@ -276324,7 +274984,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadium-merdeka",
-  "n": 3011,
+  "n": 3010,
   "name": "Stadium Merdeka",
   "by": "Stanley Edward Jewkes (Public Works Department)",
   "place": "Kuala Lumpur, MY",
@@ -276371,18 +275031,6 @@ window.BUILDINGS = [
     "file": "File:Kuala Lumpur Malaysia Stadium-Merdeka-03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Merdeka_Precinct_20260825_%2818%29.JPG/1280px-Merdeka_Precinct_20260825_%2818%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadium-merdeka/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ahmad Ali Karim",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Merdeka_Precinct_20260825_(18).JPG",
-    "file": "File:Merdeka Precinct 20260825 (18).JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Merdeka_Precinct_20260825_%2819%29.JPG/1280px-Merdeka_Precinct_20260825_%2819%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stadium-merdeka/thumbs/3.webp",
     "w": 1280,
@@ -276393,18 +275041,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Merdeka_Precinct_20260825_(19).JPG",
     "file": "File:Merdeka Precinct 20260825 (19).JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/StadiumMerdeka_StairsAtGate4_Sep2024.jpg/1280px-StadiumMerdeka_StairsAtGate4_Sep2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadium-merdeka/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Stairs at Gate 4, Stadium Merdeka",
-    "credit": "Fazley01",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:StadiumMerdeka_StairsAtGate4_Sep2024.jpg",
-    "file": "File:StadiumMerdeka StairsAtGate4 Sep2024.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/StadiumMerdeka_Grandstand_Sep2024_2.jpg/1280px-StadiumMerdeka_Grandstand_Sep2024_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -276424,7 +275060,7 @@ window.BUILDINGS = [
  },
  {
   "id": "menara-telekom",
-  "n": 3012,
+  "n": 3011,
   "name": "Menara Telekom (Telekom Tower)",
   "by": "Hijjas Kasturi Associates",
   "place": "Kuala Lumpur, MY",
@@ -276446,18 +275082,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Kuala_Lumpur._Telekom_Tower._2019-12-13_17-03-14.jpg/1280px-Kuala_Lumpur._Telekom_Tower._2019-12-13_17-03-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/menara-telekom/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Shesmax",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-13_17-03-14.jpg",
-    "file": "File:Kuala Lumpur. Telekom Tower. 2019-12-13 17-03-14.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg/1280px-Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/menara-telekom/thumbs/1.webp",
@@ -276493,30 +275117,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Telekom_Tower._2019-12-08_12-02-33_(4to3).jpg",
     "file": "File:Kuala Lumpur. Telekom Tower. 2019-12-08 12-02-33 (4to3).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/KL-Menara_Telekom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/menara-telekom/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Menara Telekom in Kuala Lumpur at dusk, as seen from The Gardens at Mid Valley City",
-    "credit": "Azreey",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:KL-Menara_Telekom.JPG",
-    "file": "File:KL-Menara Telekom.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Telekom_Tower%2C_Kuala_Lumpur_%28View_From_Subang_Jaya%29_%286740947853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/menara-telekom/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Jason Thien  from Kota Kinabalu, Malaysia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Telekom_Tower,_Kuala_Lumpur_(View_From_Subang_Jaya)_(6740947853).jpg",
-    "file": "File:Telekom Tower, Kuala Lumpur (View From Subang Jaya) (6740947853).jpg"
    }
   ],
   "has": [],
@@ -276524,7 +275124,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crystal-mosque",
-  "n": 3013,
+  "n": 3012,
   "name": "Crystal Mosque (Masjid Kristal)",
   "by": "Sanderson Design Group and AHS Architects",
   "place": "Kuala Terengganu, MY",
@@ -276624,7 +275224,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sultan-abdul-samad-building",
-  "n": 3014,
+  "n": 3013,
   "name": "Sultan Abdul Samad Building",
   "by": "A. C. Norman, R. A. J. Bidwell and A. B. Hubback",
   "place": "Kuala Lumpur, MY",
@@ -276738,7 +275338,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hua-lamphong-railway-station",
-  "n": 3015,
+  "n": 3014,
   "name": "Hua Lamphong Railway Station",
   "by": "Mario Tamagno and Annibale Rigotti",
   "place": "Bangkok, TH",
@@ -276819,18 +275419,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_-_Bangkok_Railway_Station_(I).jpg",
     "file": "File:Interior - Bangkok Railway Station (I).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hua_Lamphong_Interior_Shops_Waiting_Area.jpg/1280px-Hua_Lamphong_Interior_Shops_Waiting_Area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hua-lamphong-railway-station/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Hua Lamphong train station, interior main hall, waiting area and shops",
-    "credit": "Alexander Klink",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hua_Lamphong_Interior_Shops_Waiting_Area.jpg",
-    "file": "File:Hua Lamphong Interior Shops Waiting Area.jpg"
    }
   ],
   "has": [],
@@ -276838,7 +275426,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ananta-samakhom-throne-hall",
-  "n": 3016,
+  "n": 3015,
   "name": "Ananta Samakhom Throne Hall",
   "by": "Mario Tamagno and Annibale Rigotti",
   "place": "Bangkok, TH",
@@ -276928,7 +275516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sala-chalermkrung-royal-theatre",
-  "n": 3017,
+  "n": 3016,
   "name": "Sala Chalermkrung Royal Theatre",
   "by": "Prince Samaichaloem Kridakorn",
   "place": "Bangkok, TH",
@@ -277004,7 +275592,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sappaya-sapasathan",
-  "n": 3018,
+  "n": 3017,
   "name": "Sappaya-Sapasathan (Thai Parliament)",
   "by": "Theerapol Niyom",
   "place": "Bangkok, TH",
@@ -277039,18 +275627,6 @@ window.BUILDINGS = [
     "file": "File:Sappaya-Sapasathan (I).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Sappaya-Sapasathan_01.jpg/1280px-Sappaya-Sapasathan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sappaya-sapasathan/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Sappaya-Sapasathan",
-    "credit": "Gunofficial1998",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sappaya-Sapasathan_01.jpg",
-    "file": "File:Sappaya-Sapasathan 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sappaya-Sapasathan_%28cropped%29.jpg/1280px-Sappaya-Sapasathan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sappaya-sapasathan/thumbs/2.webp",
     "w": 1280,
@@ -277073,30 +275649,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sappaya-Sapasathan_Pano_(I).jpg",
     "file": "File:Sappaya-Sapasathan Pano (I).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Committee_meeting_room_No._304.jpg/1280px-Committee_meeting_room_No._304.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sappaya-sapasathan/thumbs/4.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior · Committee meeting room No",
-    "credit": "This Photo was taken by    Adirach Toumlamoon   .\n \n Feel free to use any of my images, but please m",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Committee_meeting_room_No._304.jpg",
-    "file": "File:Committee meeting room No. 304.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Committee_meeting_room_No._417.jpg/1280px-Committee_meeting_room_No._417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sappaya-sapasathan/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior · Committee meeting room No",
-    "credit": "This Photo was taken by    Adirach Toumlamoon   .\n \n Feel free to use any of my images, but please m",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Committee_meeting_room_No._417.jpg",
-    "file": "File:Committee meeting room No. 417.jpg"
    }
   ],
   "has": [],
@@ -277104,7 +275656,7 @@ window.BUILDINGS = [
  },
  {
   "id": "democracy-monument-bangkok",
-  "n": 3019,
+  "n": 3018,
   "name": "Democracy Monument",
   "by": "Mom Luang Phum Malakul and Chitrasen Aphaiwong",
   "place": "Bangkok, TH",
@@ -277175,18 +275727,6 @@ window.BUILDINGS = [
     "file": "File:2016 Bangkok, Dystrykt Phra Nakhon, Pomnik Demokracji (05).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Redshirts_Democracy_monument.jpg/1280px-Redshirts_Democracy_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/democracy-monument-bangkok/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Redshirts at Democracy monument",
-    "credit": "K.rol2007",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Redshirts_Democracy_monument.jpg",
-    "file": "File:Redshirts Democracy monument.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Democracy_Monument_at_night%2C_BKK.jpg/1280px-Democracy_Monument_at_night%2C_BKK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/democracy-monument-bangkok/thumbs/5.webp",
     "w": 1280,
@@ -277204,7 +275744,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baan-dam-museum",
-  "n": 3020,
+  "n": 3019,
   "name": "Baan Dam Museum (Black House)",
   "by": "Thawan Duchanee",
   "place": "Chiang Rai, TH",
@@ -277285,18 +275825,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Black_House_Museum_(Baan_Dam),_Chiang_Rai,_hall.jpg",
     "file": "File:Black House Museum (Baan Dam), Chiang Rai, hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/028_Owl_%289211672925%29.jpg/1280px-028_Owl_%289211672925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baan-dam-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · 28 Owl, Black House, Chiang Rai",
-    "credit": "Photo Dharma  from Sadao, Thailand",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:028_Owl_(9211672925).jpg",
-    "file": "File:028 Owl (9211672925).jpg"
    }
   ],
   "has": [],
@@ -277304,7 +275832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ho-chi-minh-city-hall",
-  "n": 3021,
+  "n": 3020,
   "name": "Ho Chi Minh City Hall",
   "by": "Fernand Gardès",
   "place": "Ho Chi Minh City, VN",
@@ -277339,18 +275867,6 @@ window.BUILDINGS = [
     "file": "File:20190923 Ho Chi Minh City Hall-1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/20190923_Ho_Chi_Minh_City_Hall-8.jpg/1280px-20190923_Ho_Chi_Minh_City_Hall-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ho-chi-minh-city-hall/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · The Ho Chi Minh City Hall in Vietnam",
-    "credit": "Balon Greyjoy",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:20190923_Ho_Chi_Minh_City_Hall-8.jpg",
-    "file": "File:20190923 Ho Chi Minh City Hall-8.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ho_Chi_Minh_city_parc_Saigon_%2839543927211%29.jpg/1280px-Ho_Chi_Minh_city_parc_Saigon_%2839543927211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ho-chi-minh-city-hall/thumbs/2.webp",
     "w": 1280,
@@ -277373,6 +275889,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Saigon,_Vietnam_(49579813692).jpg",
     "file": "File:Ho Chi Minh City, Saigon, Vietnam (49579813692).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/20190923_Ho_Chi_Minh_City_Hall-8.jpg/1280px-20190923_Ho_Chi_Minh_City_Hall-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ho-chi-minh-city-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Ho Chi Minh City Hall in Vietnam",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190923_Ho_Chi_Minh_City_Hall-8.jpg",
+    "file": "File:20190923 Ho Chi Minh City Hall-8.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ayuntamiento%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG/1280px-Ayuntamiento%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -277404,7 +275932,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saigon-central-post-office",
-  "n": 3022,
+  "n": 3021,
   "name": "Saigon Central Post Office",
   "by": "Alfred Foulhoux",
   "place": "Ho Chi Minh City, VN",
@@ -277504,7 +276032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saigon-opera-house",
-  "n": 3023,
+  "n": 3022,
   "name": "Saigon Opera House",
   "by": "Félix Olivier",
   "place": "Ho Chi Minh City, VN",
@@ -277551,30 +276079,6 @@ window.BUILDINGS = [
     "file": "File:2023-12-10 Saigon Opera House (Nhà hát Thành phố, Sài Gòn) 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Another_view_of_the_Opera_House_%283158084517%29.jpg/1280px-Another_view_of_the_Opera_House_%283158084517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saigon-opera-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Another view of the Opera House",
-    "credit": "Yun Huang Yong  from Harbord, Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Another_view_of_the_Opera_House_(3158084517).jpg",
-    "file": "File:Another view of the Opera House (3158084517).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/1280px-%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saigon-opera-house/thumbs/3.webp",
-    "w": 1280,
-    "h": 783,
-    "kind": "Exterior",
-    "caption": "Exterior · Opera house, Ho Chi Minh City, Vietnam",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%C3%93pera,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG",
-    "file": "File:Ópera, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_06.JPG/1280px-%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/saigon-opera-house/thumbs/4.webp",
     "w": 1280,
@@ -277604,7 +276108,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hanoi-opera-house",
-  "n": 3024,
+  "n": 3023,
   "name": "Hanoi Opera House",
   "by": "François Lagisquet, Broyer and Victorin Harlay",
   "place": "Hanoi, VN",
@@ -277718,7 +276222,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vietnam-museum-of-ethnology",
-  "n": 3025,
+  "n": 3024,
   "name": "Vietnam Museum of Ethnology",
   "by": "Ha Duc Linh (exhibition building); Véronique Dollfus (interiors)",
   "place": "Hanoi, VN",
@@ -277741,18 +276245,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Exterior_view_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03432.JPG/1280px-Exterior_view_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03432.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vietnam-museum-of-ethnology/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Exhibit at the Vietnam Museum of Ethnology - Hanoi, Vietnam",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_view_-_Vietnam_Museum_of_Ethnology_-_Hanoi,_Vietnam_-_DSC03432.JPG",
-    "file": "File:Exterior view - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC03432.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Tr%E1%BB%91ng_%C4%90%E1%BB%93ng_building%2C_Vietnam_Museum_of_Ethnology.jpg/1280px-Tr%E1%BB%91ng_%C4%90%E1%BB%93ng_building%2C_Vietnam_Museum_of_Ethnology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vietnam-museum-of-ethnology/thumbs/1.webp",
     "w": 1280,
@@ -277763,30 +276255,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tr%E1%BB%91ng_%C4%90%E1%BB%93ng_building,_Vietnam_Museum_of_Ethnology.jpg",
     "file": "File:Trống Đồng building, Vietnam Museum of Ethnology.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Betel-nut_box%2C_shell_inlaid%2C_view_1_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02489.JPG/1280px-Betel-nut_box%2C_shell_inlaid%2C_view_1_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02489.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vietnam-museum-of-ethnology/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Exhibit in the Vietnam Museum of Ethnology - Hanoi, Vietnam",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Betel-nut_box,_shell_inlaid,_view_1_-_Vietnam_Museum_of_Ethnology_-_Hanoi,_Vietnam_-_DSC02489.JPG",
-    "file": "File:Betel-nut box, shell inlaid, view 1 - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC02489.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Betel-nut_box%2C_shell_inlaid%2C_view_2_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02493.JPG/1280px-Betel-nut_box%2C_shell_inlaid%2C_view_2_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02493.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vietnam-museum-of-ethnology/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Exhibit in the Vietnam Museum of Ethnology - Hanoi, Vietnam",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Betel-nut_box,_shell_inlaid,_view_2_-_Vietnam_Museum_of_Ethnology_-_Hanoi,_Vietnam_-_DSC02493.JPG",
-    "file": "File:Betel-nut box, shell inlaid, view 2 - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC02493.JPG"
    }
   ],
   "has": [],
@@ -277794,7 +276262,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gelora-bung-karno-stadium",
-  "n": 3026,
+  "n": 3025,
   "name": "Gelora Bung Karno Stadium",
   "by": "Friedrich Silaban",
   "place": "Jakarta, ID",
@@ -277853,18 +276321,6 @@ window.BUILDINGS = [
     "file": "File:Senja di Gelora Bung Karno.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Penutupan_Para_Asian_Games_2018.jpg/1280px-Penutupan_Para_Asian_Games_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gelora-bung-karno-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Opening of 2018 Asian Para Games at Gelora Bung Karno , Jakarta",
-    "credit": "RaiyaniM",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Penutupan_Para_Asian_Games_2018.jpg",
-    "file": "File:Penutupan Para Asian Games 2018.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Gelora_Bung_Karno_Main_Stadium_VIP_and_VVIP_Tribune.jpg/1280px-Gelora_Bung_Karno_Main_Stadium_VIP_and_VVIP_Tribune.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/gelora-bung-karno-stadium/thumbs/4.webp",
     "w": 1280,
@@ -277875,18 +276331,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Main_Stadium_VIP_and_VVIP_Tribune.jpg",
     "file": "File:Gelora Bung Karno Main Stadium VIP and VVIP Tribune.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gelora_Bung_Karno_Stadium%2C_Interior.jpg/1280px-Gelora_Bung_Karno_Stadium%2C_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gelora-bung-karno-stadium/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The interior of Gelora Bung Karno Stadium main lobby on west side of the stadium, Jakarta , Indonesia ",
-    "credit": "Gunawan Kartapranata",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gelora_Bung_Karno_Stadium,_Interior.jpg",
-    "file": "File:Gelora Bung Karno Stadium, Interior.jpg"
    }
   ],
   "has": [],
@@ -277894,7 +276338,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-indonesia",
-  "n": 3027,
+  "n": 3026,
   "name": "Hotel Indonesia",
   "by": "Abel Sorensen and Wendy Becker",
   "place": "Jakarta, ID",
@@ -277929,18 +276373,6 @@ window.BUILDINGS = [
     "file": "File:Sisi belakang Hotel Indonesia - panoramio.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Malam_Tanpa_Kendaraan_2012-13_-_Hotel_Indonesia_-_panoramio.jpg/1280px-Malam_Tanpa_Kendaraan_2012-13_-_Hotel_Indonesia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-indonesia/thumbs/1.webp",
-    "w": 1280,
-    "h": 739,
-    "kind": "Exterior",
-    "caption": "Exterior · Malam Tanpa Kendaraan 2012-13 - Hotel Indonesia",
-    "credit": "musnahterinjak",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Malam_Tanpa_Kendaraan_2012-13_-_Hotel_Indonesia_-_panoramio.jpg",
-    "file": "File:Malam Tanpa Kendaraan 2012-13 - Hotel Indonesia - panoramio.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Indonesie%2C_straat_met_moderne_gebouwen_Djakarta%2C_Djalan_Thamrin_met_%28vlnr%29_h%2C_Bestanddeelnr_924-8279.jpg/1280px-Indonesie%2C_straat_met_moderne_gebouwen_Djakarta%2C_Djalan_Thamrin_met_%28vlnr%29_h%2C_Bestanddeelnr_924-8279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hotel-indonesia/thumbs/2.webp",
     "w": 1280,
@@ -277951,42 +276383,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Indonesie,_straat_met_moderne_gebouwen_Djakarta,_Djalan_Thamrin_met_(vlnr)_h,_Bestanddeelnr_924-8279.jpg",
     "file": "File:Indonesie, straat met moderne gebouwen Djakarta, Djalan Thamrin met (vlnr) h, Bestanddeelnr 924-8279.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Water_fountain_at_Bundaran_Hotel_Indonesia%2C_Jakarta_at_dusk%3B_January_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/hotel-indonesia/thumbs/3.webp",
-    "w": 1233,
-    "h": 814,
-    "kind": "Exterior",
-    "caption": "Exterior · Bundaran Hotel Indonesia, Jakarta at dusk",
-    "credit": "Thrillseekr",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Water_fountain_at_Bundaran_Hotel_Indonesia,_Jakarta_at_dusk;_January_2009.jpg",
-    "file": "File:Water fountain at Bundaran Hotel Indonesia, Jakarta at dusk; January 2009.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Busway_in_Bundaran_HI.jpg/1280px-Busway_in_Bundaran_HI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-indonesia/thumbs/4.webp",
-    "w": 1280,
-    "h": 765,
-    "kind": "Interior",
-    "caption": "Interior · Transjakarta is a method of public transport in Jakarta",
-    "credit": "Om khonjin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Busway_in_Bundaran_HI.jpg",
-    "file": "File:Busway in Bundaran HI.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Malam_Tanpa_Kendaraan_2012-13_-_Detail_Jendela_Hotel_Indonesia_-_panoramio.jpg/1280px-Malam_Tanpa_Kendaraan_2012-13_-_Detail_Jendela_Hotel_Indonesia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-indonesia/thumbs/5.webp",
-    "w": 1280,
-    "h": 499,
-    "kind": "Detail",
-    "caption": "Detail · Malam Tanpa Kendaraan 2012-13 - Detail Jendela Hotel Indonesia",
-    "credit": "musnahterinjak",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Malam_Tanpa_Kendaraan_2012-13_-_Detail_Jendela_Hotel_Indonesia_-_panoramio.jpg",
-    "file": "File:Malam Tanpa Kendaraan 2012-13 - Detail Jendela Hotel Indonesia - panoramio.jpg"
    }
   ],
   "has": [],
@@ -277994,7 +276390,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gedung-sate",
-  "n": 3028,
+  "n": 3027,
   "name": "Gedung Sate",
   "by": "J. Gerber",
   "place": "Bandung, ID",
@@ -278063,18 +276459,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bew%C3%B6lktes_Bandung_-_das_Satay-Geb%C3%A4ude_(2025)_-_Bild_02.jpg",
     "file": "File:Bewölktes Bandung - das Satay-Gebäude (2025) - Bild 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Bandung_City_10.jpg/1280px-Bandung_City_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gedung-sate/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Context",
-    "caption": "Context · Bandung City West Java Indonesia",
-    "credit": "Cep Budhi Darma",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bandung_City_10.jpg",
-    "file": "File:Bandung City 10.jpg"
    }
   ],
   "has": [],
@@ -278082,7 +276466,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bandung-institute-of-technology",
-  "n": 3029,
+  "n": 3028,
   "name": "Bandung Institute of Technology (Aula Barat and Aula Timur)",
   "by": "Henri Maclaine Pont",
   "place": "Bandung, ID",
@@ -278139,42 +276523,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Aula_van_het_I.T.B._complex,_voormalige_Technische_Hogeschool_-_20652996_-_RCE.jpg",
     "file": "File:Aula van het I.T.B. complex, voormalige Technische Hogeschool - 20652996 - RCE.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bandung_Institute_of_Technology%2C_Indonesia%2C_2019-12-03.jpg/1280px-Bandung_Institute_of_Technology%2C_Indonesia%2C_2019-12-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bandung-institute-of-technology/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Alankang",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bandung_Institute_of_Technology,_Indonesia,_2019-12-03.jpg",
-    "file": "File:Bandung Institute of Technology, Indonesia, 2019-12-03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Salmanmosque.jpg/1280px-Salmanmosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bandung-institute-of-technology/thumbs/4.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Salman Mosque on the campus of the Bandung Insitute of Technology",
-    "credit": "Anwibisana",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Salmanmosque.jpg",
-    "file": "File:Salmanmosque.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Saraga_Clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/bandung-institute-of-technology/thumbs/5.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · A digital clock inside Sarana Olahraga Ganesha (SARAGA), Bandung Institute of Technology",
-    "credit": "NFarras",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Saraga_Clock.jpg",
-    "file": "File:Saraga Clock.jpg"
    }
   ],
   "has": [],
@@ -278182,7 +276530,7 @@ window.BUILDINGS = [
  },
  {
   "id": "savoy-homann-hotel",
-  "n": 3030,
+  "n": 3029,
   "name": "Savoy Homann Hotel",
   "by": "Albert Aalbers",
   "place": "Bandung, ID",
@@ -278282,7 +276630,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lawang-sewu",
-  "n": 3031,
+  "n": 3030,
   "name": "Lawang Sewu",
   "by": "Cosman Citroen (J.F. Klinkhamer and B.J. Ouëndag)",
   "place": "Semarang, ID",
@@ -278396,7 +276744,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jakarta-cathedral",
-  "n": 3032,
+  "n": 3031,
   "name": "Jakarta Cathedral",
   "by": "Antonius Dijkmans and Marius Hulswit",
   "place": "Jakarta, ID",
@@ -278455,18 +276803,6 @@ window.BUILDINGS = [
     "file": "File:Jakarta Cathedral in 2018.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jakarta_Indonesia_Jakarta-Cathedral-02.jpg/1280px-Jakarta_Indonesia_Jakarta-Cathedral-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jakarta-cathedral/thumbs/3.webp",
-    "w": 1280,
-    "h": 989,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "CEphoto, Uwe Aranas",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Jakarta-Cathedral-02.jpg",
-    "file": "File:Jakarta Indonesia Jakarta-Cathedral-02.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Jakarta_Indonesia_Jakarta-Cathedral-03.jpg/1280px-Jakarta_Indonesia_Jakarta-Cathedral-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jakarta-cathedral/thumbs/4.webp",
     "w": 933,
@@ -278477,18 +276813,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Jakarta_Indonesia_Jakarta-Cathedral-03.jpg",
     "file": "File:Jakarta Indonesia Jakarta-Cathedral-03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Cathedral_of_Jakarta_-_interior_%282025%29_-_img_04.jpg/1280px-Cathedral_of_Jakarta_-_interior_%282025%29_-_img_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jakarta-cathedral/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Interior of Jakarta Cathedral",
-    "credit": "Chainwit.",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Jakarta_-_interior_(2025)_-_img_04.jpg",
-    "file": "File:Cathedral of Jakarta - interior (2025) - img 04.jpg"
    }
   ],
   "has": [],
@@ -278496,7 +276820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-central-post-office",
-  "n": 3033,
+  "n": 3032,
   "name": "Manila Central Post Office",
   "by": "Juan M. Arellano, Tomás Mapúa and Ralph Doane",
   "place": "Manila, PH",
@@ -278609,160 +276933,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "manila-film-center",
-  "n": 3034,
-  "name": "Manila Film Center",
-  "by": "Froilan Hong",
-  "place": "Manila, PH",
-  "year": "1982",
-  "y": 1982,
-  "type": "Culture & sport",
-  "movement": "Brutalism",
-  "region": "Southeast Asia",
-  "era": "1970–1990",
-  "concepts": [
-   "Exposed concrete",
-   "Monumentality",
-   "Structure as expression"
-  ],
-  "study": "Brutalist cinema complex; its foundation rests on more than 900 piles reaching bedrock about 120 feet down.",
-  "qid": null,
-  "commons": "Category:Manila Film Center",
-  "lead": "File:Manila Film Center at Sunset.JPG",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Manila_Film_Center_at_Sunset.JPG/1280px-Manila_Film_Center_at_Sunset.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-film-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · Sunset at Manila Film Center",
-    "credit": "Ramiltibayan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manila_Film_Center_at_Sunset.JPG",
-    "file": "File:Manila Film Center at Sunset.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/MFCjf0021_02.JPG/1280px-MFCjf0021_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-film-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ramon FVelasquez",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:MFCjf0021_02.JPG",
-    "file": "File:MFCjf0021 02.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/MFCjf0021_03.JPG/1280px-MFCjf0021_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-film-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ramon FVelasquez",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:MFCjf0021_03.JPG",
-    "file": "File:MFCjf0021 03.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/MetroManilajf0040_01.JPG/1280px-MetroManilajf0040_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-film-center/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ramon FVelasquez",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:MetroManilajf0040_01.JPG",
-    "file": "File:MetroManilajf0040 01.JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "pasig-revolving-tower",
-  "n": 3035,
-  "name": "Pasig Revolving Tower",
-  "by": "Edward Medina",
-  "place": "Pasig, PH",
-  "year": "1974",
-  "y": 1974,
-  "type": "Infrastructure",
-  "movement": "Brutalism",
-  "region": "Southeast Asia",
-  "era": "1970–1990",
-  "concepts": [
-   "Exposed concrete",
-   "Structure as expression",
-   "Geometry"
-  ],
-  "study": "Brutalist tower with a restaurant platform on the 11th floor that turns about once every 1 hour 15 minutes.",
-  "qid": null,
-  "commons": "Category:Pasig Revolving Tower",
-  "lead": "File:Pasig Revolving Tower Reopening (31181211411).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Pasig_Revolving_Tower_Reopening_%2831181211411%29.jpg/1280px-Pasig_Revolving_Tower_Reopening_%2831181211411%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pasig-revolving-tower/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Pasig Revolving Tower reopening",
-    "credit": "jayagonoyxyz  from Pasig, Philippines",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pasig_Revolving_Tower_Reopening_(31181211411).jpg",
-    "file": "File:Pasig Revolving Tower Reopening (31181211411).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_17.jpg/1280px-04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pasig-revolving-tower/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Judgefloro",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_17.jpg",
-    "file": "File:04234jfPasig City Revolving Tower Mega Market Vargas Bridge Riverfvf 17.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_18.jpg/1280px-04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pasig-revolving-tower/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Judgefloro",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:04234jfPasig_City_Revolving_Tower_Mega_Market_Vargas_Bridge_Riverfvf_18.jpg",
-    "file": "File:04234jfPasig City Revolving Tower Mega Market Vargas Bridge Riverfvf 18.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Pasig_Revolving_Tower_Reopening_%2831259924616%29.jpg/1280px-Pasig_Revolving_Tower_Reopening_%2831259924616%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pasig-revolving-tower/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "jayagonoyxyz  from Pasig, Philippines",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pasig_Revolving_Tower_Reopening_(31259924616).jpg",
-    "file": "File:Pasig Revolving Tower Reopening (31259924616).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "manila-hotel",
-  "n": 3036,
+  "n": 3033,
   "name": "Manila Hotel",
   "by": "William E. Parsons",
   "place": "Manila, PH",
@@ -278819,206 +276991,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Manila_Hotel_view.jpg",
     "file": "File:Manila Hotel view.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/COMELEC_Chairperson_George_Erwin_Garcia_in_a_press_briefing_on_voter_turnout.jpg/1280px-COMELEC_Chairperson_George_Erwin_Garcia_in_a_press_briefing_on_voter_turnout.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-hotel/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · RECORD VOTER TURNOUT",
-    "credit": "Yancy Lim for the Philippine News Agency",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:COMELEC_Chairperson_George_Erwin_Garcia_in_a_press_briefing_on_voter_turnout.jpg",
-    "file": "File:COMELEC Chairperson George Erwin Garcia in a press briefing on voter turnout.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Manila_Hotel_Interior_CNE_01.jpg/1280px-Manila_Hotel_Interior_CNE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-hotel/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Manila Hotel interior",
-    "credit": "CNEcija12345",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manila_Hotel_Interior_CNE_01.jpg",
-    "file": "File:Manila Hotel Interior CNE 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Manila_Hotel_marker.jpg/1280px-Manila_Hotel_marker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-hotel/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The Heritage interior Manila Hote",
-    "credit": "CNEcija12345",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manila_Hotel_marker.jpg",
-    "file": "File:Manila Hotel marker.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "capitan-luis-gonzaga-building",
-  "n": 3037,
-  "name": "Capitan Luis Gonzaga Building",
-  "by": "Pablo Antonio",
-  "place": "Manila, PH",
-  "year": "1953",
-  "y": 1953,
-  "type": "Office & tower",
-  "movement": "Modernism",
-  "region": "Southeast Asia",
-  "era": "1945–1970",
-  "concepts": [
-   "Brise-soleil",
-   "Climate response",
-   "Facade as skin"
-  ],
-  "study": "Double sunshades against sun and rain; staggered half-storey vertical fins and slab overhangs on each floor.",
-  "qid": null,
-  "commons": "Category:Capitan Luis Gonzaga Building",
-  "lead": "File:Exterior of Capitan Luis Gonzaga from Rizal Avenue.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Exterior_of_Capitan_Luis_Gonzaga_from_Rizal_Avenue.jpg/1280px-Exterior_of_Capitan_Luis_Gonzaga_from_Rizal_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/capitan-luis-gonzaga-building/thumbs/0.webp",
-    "w": 931,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Exterior of Capitan Luis Gonzaga from Rizal Avenue showing the brise-soleil",
-    "credit": "Fmgverzon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Capitan_Luis_Gonzaga_from_Rizal_Avenue.jpg",
-    "file": "File:Exterior of Capitan Luis Gonzaga from Rizal Avenue.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Brise-Soleil_of_Capitan_Luis_Gonzaga_Building.jpg/1280px-Brise-Soleil_of_Capitan_Luis_Gonzaga_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/capitan-luis-gonzaga-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · Alternating pattern of brise-soleil in the facade of Capitan Luis Gonzaga Building",
-    "credit": "Fmgverzon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brise-Soleil_of_Capitan_Luis_Gonzaga_Building.jpg",
-    "file": "File:Brise-Soleil of Capitan Luis Gonzaga Building.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Capital_Luis_Gonzaga_Building_Name_Signage.jpg/1280px-Capital_Luis_Gonzaga_Building_Name_Signage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/capitan-luis-gonzaga-building/thumbs/2.webp",
-    "w": 1280,
-    "h": 690,
-    "kind": "Detail",
-    "caption": "Detail · Metal signage of Capitan Luis Gonzaga Building located at the top of the doorway",
-    "credit": "Fmgverzon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Capital_Luis_Gonzaga_Building_Name_Signage.jpg",
-    "file": "File:Capital Luis Gonzaga Building Name Signage.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "iglesia-filipina-independiente-national-cathedral",
-  "n": 3038,
-  "name": "Iglesia Filipina Independiente National Cathedral",
-  "by": "Carlos D. Arguelles",
-  "place": "Quezon City, PH",
-  "year": "1969",
-  "y": 1969,
-  "type": "Religious",
-  "movement": "Modernism",
-  "region": "Southeast Asia",
-  "era": "1945–1970",
-  "concepts": [
-   "Geometry",
-   "Colour",
-   "Monumentality"
-  ],
-  "study": "Modernist cathedral carrying the national flag, colours and motifs in its sanctuary.",
-  "qid": null,
-  "commons": "Category:Iglesia Filipina Independiente National Cathedral",
-  "lead": "File:04902jfCathedral Holy Child Aglipayan Manila Taft Avenue Manilafvf 01.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/04902jfCathedral_Holy_Child_Aglipayan_Manila_Taft_Avenue_Manilafvf_01.jpg/1280px-04902jfCathedral_Holy_Child_Aglipayan_Manila_Taft_Avenue_Manilafvf_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Judgefloro",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:04902jfCathedral_Holy_Child_Aglipayan_Manila_Taft_Avenue_Manilafvf_01.jpg",
-    "file": "File:04902jfCathedral Holy Child Aglipayan Manila Taft Avenue Manilafvf 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Exterior_Iglesia_Filipina_Independiente_National_Cathedral_01.jpg/1280px-Exterior_Iglesia_Filipina_Independiente_National_Cathedral_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Exterior of Iglesia Filipina Independiente National Cathedral",
-    "credit": "Video13",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_Iglesia_Filipina_Independiente_National_Cathedral_01.jpg",
-    "file": "File:Exterior Iglesia Filipina Independiente National Cathedral 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Exterior_Iglesia_Filipina_Independiente_National_Cathedral_02.jpg/1280px-Exterior_Iglesia_Filipina_Independiente_National_Cathedral_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Exterior of Iglesia Filipina Independiente National Cathedral",
-    "credit": "Video13",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_Iglesia_Filipina_Independiente_National_Cathedral_02.jpg",
-    "file": "File:Exterior Iglesia Filipina Independiente National Cathedral 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cathedral_facade_1.JPG/1280px-Cathedral_facade_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · facade",
-    "credit": "Urbanroamer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_facade_1.JPG",
-    "file": "File:Cathedral facade 1.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Baptistry_of_the_Aglipayan_Cathedral_on_Taft_Avenue%2C_Manila.jpg/1280px-Baptistry_of_the_Aglipayan_Cathedral_on_Taft_Avenue%2C_Manila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · cathedral baptistry",
-    "credit": "Urbanroamer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Baptistry_of_the_Aglipayan_Cathedral_on_Taft_Avenue,_Manila.jpg",
-    "file": "File:Baptistry of the Aglipayan Cathedral on Taft Avenue, Manila.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cathedral_interior.JPG/1280px-Cathedral_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iglesia-filipina-independiente-national-cathedral/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · cathedral interior",
-    "credit": "Urbanroamer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_interior.JPG",
-    "file": "File:Cathedral interior.JPG"
    }
   ],
   "has": [],
@@ -279026,7 +276998,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-city-hall",
-  "n": 3039,
+  "n": 3034,
   "name": "Manila City Hall",
   "by": "Antonio M. Toledo",
   "place": "Manila, PH",
@@ -279083,18 +277055,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Manila_City_Hall_-_South_Facade_(Padre_Burgos_cor._Taft_Avenue,_Ermita,_Manila;_2014-10-14)_(2).jpg",
     "file": "File:Manila City Hall - South Facade (Padre Burgos cor. Taft Avenue, Ermita, Manila; 2014-10-14) (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bajaj_three-wheeler%2C_Antonio_Villegas_%28Aroceros%29_Street%2C_2018_%2801%29.jpg/1280px-Bajaj_three-wheeler%2C_Antonio_Villegas_%28Aroceros%29_Street%2C_2018_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-city-hall/thumbs/3.webp",
-    "w": 934,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Bahnfrend",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bajaj_three-wheeler,_Antonio_Villegas_(Aroceros)_Street,_2018_(01).jpg",
-    "file": "File:Bajaj three-wheeler, Antonio Villegas (Aroceros) Street, 2018 (01).jpg"
    }
   ],
   "has": [],
@@ -279102,7 +277062,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ayala-museum",
-  "n": 3040,
+  "n": 3035,
   "name": "Ayala Museum",
   "by": "Leandro Y. Locsin Jr.",
   "place": "Makati, PH",
@@ -279124,42 +277084,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Ayala_Museum%2C_Makati%2C_Feb_2025_%281%29.jpg/1280px-Ayala_Museum%2C_Makati%2C_Feb_2025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ayala-museum/thumbs/0.webp",
-    "w": 1280,
-    "h": 964,
-    "kind": "Exterior",
-    "caption": "Exterior · Ayala Museum, Makati, Feb 2025 (1)",
-    "credit": "Ralff Nestor Nacor",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(1).jpg",
-    "file": "File:Ayala Museum, Makati, Feb 2025 (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Ayala_Museum%2C_Makati%2C_Feb_2025_%282%29.jpg/1280px-Ayala_Museum%2C_Makati%2C_Feb_2025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ayala-museum/thumbs/1.webp",
-    "w": 1280,
-    "h": 964,
-    "kind": "Exterior",
-    "caption": "Exterior · Ayala Museum, Makati, Feb 2025 (2)",
-    "credit": "Ralff Nestor Nacor",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(2).jpg",
-    "file": "File:Ayala Museum, Makati, Feb 2025 (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/View_of_the_%22Intertwined_Transpacific%2C_Transcultural_Philippines%22_exhibit_in_the_Ayala_Museum.jpg/1280px-View_of_the_%22Intertwined_Transpacific%2C_Transcultural_Philippines%22_exhibit_in_the_Ayala_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ayala-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "EyeTrick",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_%22Intertwined_Transpacific,_Transcultural_Philippines%22_exhibit_in_the_Ayala_Museum.jpg",
-    "file": "File:View of the \"Intertwined Transpacific, Transcultural Philippines\" exhibit in the Ayala Museum.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/The_DIary_of_Tetsuya_Noda_at_the_Ayala_Museum.jpg/1280px-The_DIary_of_Tetsuya_Noda_at_the_Ayala_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ayala-museum/thumbs/3.webp",
@@ -279183,18 +277107,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_lobby,_May_2024.jpg",
     "file": "File:Ayala Museum lobby, May 2024.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Untitled_%28Woman_Sewing%29_-_Isidro_Ancheta.jpg/1280px-Untitled_%28Woman_Sewing%29_-_Isidro_Ancheta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ayala-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 779,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "EyeTrick",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Untitled_(Woman_Sewing)_-_Isidro_Ancheta.jpg",
-    "file": "File:Untitled (Woman Sewing) - Isidro Ancheta.jpg"
    }
   ],
   "has": [],
@@ -279202,7 +277114,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ust-main-building",
-  "n": 3041,
+  "n": 3036,
   "name": "University of Santo Tomas Main Building",
   "by": "Roque Ruaño",
   "place": "Manila, PH",
@@ -279302,7 +277214,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manila-cathedral",
-  "n": 3042,
+  "n": 3037,
   "name": "Manila Cathedral",
   "by": "Fernando Ocampo",
   "place": "Manila, PH",
@@ -279359,42 +277271,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Heritage_of_the_Philippines_(Intramuros,_Manila;_07-01-2023)_35.jpg",
     "file": "File:Heritage of the Philippines (Intramuros, Manila; 07-01-2023) 35.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Heritage_of_the_Philippines_%28Intramuros%2C_Manila%3B_07-01-2023%29_40.jpg/1280px-Heritage_of_the_Philippines_%28Intramuros%2C_Manila%3B_07-01-2023%29_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-cathedral/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Manila Cathedral",
-    "credit": "E911a",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heritage_of_the_Philippines_(Intramuros,_Manila;_07-01-2023)_40.jpg",
-    "file": "File:Heritage of the Philippines (Intramuros, Manila; 07-01-2023) 40.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_12.jpg/1280px-02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-cathedral/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Judgefloro",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_12.jpg",
-    "file": "File:02059jfManila Cathedral Intramuros Casa Rocha Streets Landmarksfvf 12.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_01.jpg/1280px-02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manila-cathedral/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Judgefloro",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:02059jfManila_Cathedral_Intramuros_Casa_Rocha_Streets_Landmarksfvf_01.jpg",
-    "file": "File:02059jfManila Cathedral Intramuros Casa Rocha Streets Landmarksfvf 01.jpg"
    }
   ],
   "has": [],
@@ -279402,7 +277278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yangon-city-hall",
-  "n": 3043,
+  "n": 3038,
   "name": "Yangon City Hall",
   "by": "U Tin",
   "place": "Yangon, MM",
@@ -279478,7 +277354,7 @@ window.BUILDINGS = [
  },
  {
   "id": "high-court-building-yangon",
-  "n": 3044,
+  "n": 3039,
   "name": "Yangon High Court Building",
   "by": "James Ransome",
   "place": "Yangon, MM",
@@ -279578,7 +277454,7 @@ window.BUILDINGS = [
  },
  {
   "id": "patuxai",
-  "n": 3045,
+  "n": 3040,
   "name": "Patuxai",
   "by": "Tham Sayasithsena",
   "place": "Vientiane, LA",
@@ -279625,42 +277501,6 @@ window.BUILDINGS = [
     "file": "File:Patuxai (15037844079).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/2013-09-30-IMG_0320_%2815677153394%29.jpg/1280px-2013-09-30-IMG_0320_%2815677153394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/patuxai/thumbs/2.webp",
-    "w": 1280,
-    "h": 719,
-    "kind": "Exterior",
-    "caption": "Exterior · 2013-09-30-IMG_0320",
-    "credit": "Felix Stahlberg",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2013-09-30-IMG_0320_(15677153394).jpg",
-    "file": "File:2013-09-30-IMG 0320 (15677153394).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/20171118_Vientiane_3220_DxO.jpg/1280px-20171118_Vientiane_3220_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/patuxai/thumbs/3.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior · Vientiane, viewed from Patuxai Gate",
-    "credit": "Jakub Hałun",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20171118_Vientiane_3220_DxO.jpg",
-    "file": "File:20171118 Vientiane 3220 DxO.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Shop_of_the_Patuxai.jpg/1280px-Shop_of_the_Patuxai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/patuxai/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Souvenir shop located inside the Patuxai",
-    "credit": "Christophe95",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Shop_of_the_Patuxai.jpg",
-    "file": "File:Shop of the Patuxai.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/From_inside_of_Patuxay.jpg/1280px-From_inside_of_Patuxay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/patuxai/thumbs/5.webp",
     "w": 1280,
@@ -279678,7 +277518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "omar-ali-saifuddien-mosque",
-  "n": 3046,
+  "n": 3041,
   "name": "Omar Ali Saifuddien Mosque",
   "by": "Rudolfo Nolli with Booty Edwards & Partners",
   "place": "Bandar Seri Begawan, BN",
@@ -279778,7 +277618,7 @@ window.BUILDINGS = [
  },
  {
   "id": "singapore-indoor-stadium",
-  "n": 3047,
+  "n": 3042,
   "name": "Singapore Indoor Stadium",
   "by": "Kenzo Tange with Raglan Squire & Partners",
   "place": "Singapore, SG",
@@ -279801,18 +277641,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Entrance_to_the_Singapore_Indoor_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/singapore-indoor-stadium/thumbs/0.webp",
-    "w": 1260,
-    "h": 1260,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "William Cho",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Singapore_Indoor_Stadium.jpg",
-    "file": "File:Entrance to the Singapore Indoor Stadium.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Singapore_Indoor_Stadium%2C_Aug_07.JPG/1280px-Singapore_Indoor_Stadium%2C_Aug_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/singapore-indoor-stadium/thumbs/1.webp",
     "w": 1280,
@@ -279823,42 +277651,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Singapore_Indoor_Stadium,_Aug_07.JPG",
     "file": "File:Singapore Indoor Stadium, Aug 07.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Alex_Silva_vs_Rene_Catalan01.02-IMG_5534_%288625376462%29.jpg/1280px-Alex_Silva_vs_Rene_Catalan01.02-IMG_5534_%288625376462%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-indoor-stadium/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ONE Fighting Championship 2013 Singapore - Alex Silva vs Rene Catalan",
-    "credit": "SUPERADRIANME",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alex_Silva_vs_Rene_Catalan01.02-IMG_5534_(8625376462).jpg",
-    "file": "File:Alex Silva vs Rene Catalan01.02-IMG 5534 (8625376462).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Alex_Silva_vs_Rene_Catalan03.05-IMG_5580_%288625375200%29.jpg/1280px-Alex_Silva_vs_Rene_Catalan03.05-IMG_5580_%288625375200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-indoor-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · ONE Fighting Championship 2013 Singapore - Alex Silva vs Rene Catalan",
-    "credit": "SUPERADRIANME",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alex_Silva_vs_Rene_Catalan03.05-IMG_5580_(8625375200).jpg",
-    "file": "File:Alex Silva vs Rene Catalan03.05-IMG 5580 (8625375200).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bashir_Ahmad_vs_Shannon_Wiratchai04.05-IMG_5384_%288624205719%29.jpg/1280px-Bashir_Ahmad_vs_Shannon_Wiratchai04.05-IMG_5384_%288624205719%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/singapore-indoor-stadium/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ONE Fighting Championship 2013 Singapore - Bashir Ahmad vs Shannon Wiratchai",
-    "credit": "SUPERADRIANME",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bashir_Ahmad_vs_Shannon_Wiratchai04.05-IMG_5384_(8624205719).jpg",
-    "file": "File:Bashir Ahmad vs Shannon Wiratchai04.05-IMG 5384 (8624205719).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg/1280px-Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -279878,7 +277670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-singapore",
-  "n": 3048,
+  "n": 3043,
   "name": "Supreme Court of Singapore",
   "by": "Foster + Partners with CPG Corporation",
   "place": "Singapore, SG",
@@ -279947,30 +277739,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tribunal_Supremo,_Singapur,_2023-08-18,_DD_20.jpg",
     "file": "File:Tribunal Supremo, Singapur, 2023-08-18, DD 20.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Supreme_court_singapore_night_2010.JPG/1280px-Supreme_court_singapore_night_2010.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/supreme-court-of-singapore/thumbs/4.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Chensiyuan .",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Supreme_court_singapore_night_2010.JPG",
-    "file": "File:Supreme court singapore night 2010.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/1_singapore_city_skyline_dusk_panorama_2011.jpg/1280px-1_singapore_city_skyline_dusk_panorama_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/supreme-court-of-singapore/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior · Skyline of Boat Quay in Singapore ",
-    "credit": "chenisyuan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1_singapore_city_skyline_dusk_panorama_2011.jpg",
-    "file": "File:1 singapore city skyline dusk panorama 2011.jpg"
    }
   ],
   "has": [],
@@ -279978,7 +277746,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ipoh-railway-station",
-  "n": 3049,
+  "n": 3044,
   "name": "Ipoh Railway Station",
   "by": "Arthur Benison Hubback",
   "place": "Ipoh, MY",
@@ -280035,42 +277803,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ipoh_railway_station_2024,_Perak_Malaysia_07.jpg",
     "file": "File:Ipoh railway station 2024, Perak Malaysia 07.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Ipoh_railway_station%2C_platform_1%2C_wooden_bench%2C_Perak_Malaysia_01.jpg/1280px-Ipoh_railway_station%2C_platform_1%2C_wooden_bench%2C_Perak_Malaysia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ipoh-railway-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of a monument in Malaysia, identified by ID",
-    "credit": "FBilula",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ipoh_railway_station,_platform_1,_wooden_bench,_Perak_Malaysia_01.jpg",
-    "file": "File:Ipoh railway station, platform 1, wooden bench, Perak Malaysia 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Ipoh_Railway_and_Town_Hall_Panoramic.jpg/1280px-Ipoh_Railway_and_Town_Hall_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ipoh-railway-station/thumbs/4.webp",
-    "w": 1280,
-    "h": 110,
-    "kind": "Interior",
-    "caption": "Interior · Wide panoramic view of Ipoh Railway Station and Town Hall",
-    "credit": "Michael",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ipoh_Railway_and_Town_Hall_Panoramic.jpg",
-    "file": "File:Ipoh Railway and Town Hall Panoramic.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Cat_in_Ipoh_Station_%281%29_20230711_%2853331135302%29.jpg/1280px-Cat_in_Ipoh_Station_%281%29_20230711_%2853331135302%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ipoh-railway-station/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Cat in Ipoh Station (1) 20230711",
-    "credit": "Takeshi Aida  from Hong Kong, Hong Kong",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cat_in_Ipoh_Station_(1)_20230711_(53331135302).jpg",
-    "file": "File:Cat in Ipoh Station (1) 20230711 (53331135302).jpg"
    }
   ],
   "has": [],
@@ -280078,7 +277810,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jakarta-kota-railway-station",
-  "n": 3050,
+  "n": 3045,
   "name": "Jakarta Kota Station",
   "by": "Frans Johan Louwrens Ghijsels",
   "place": "Jakarta, ID",
@@ -280125,42 +277857,6 @@ window.BUILDINGS = [
     "file": "File:Jakarta Kota Station (2025) - img 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakarta_Kota_railway_station_intercity_train_access.jpg/1280px-Jakarta_Kota_railway_station_intercity_train_access.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jakarta-kota-railway-station/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Irvan Cahyo N",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jakarta_Kota_railway_station_intercity_train_access.jpg",
-    "file": "File:Jakarta Kota railway station intercity train access.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Former_Tokyo_Metro_6000_Series_at_Jakarta_Kota.jpg/1280px-Former_Tokyo_Metro_6000_Series_at_Jakarta_Kota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jakarta-kota-railway-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · The former Tokyo Metro Chiyoda Line 6000 series - set 6106F at Jakarta Kota Station",
-    "credit": "Raffi Arasy",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Former_Tokyo_Metro_6000_Series_at_Jakarta_Kota.jpg",
-    "file": "File:Former Tokyo Metro 6000 Series at Jakarta Kota.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jakarta_Kota_Clock.jpg/1280px-Jakarta_Kota_Clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jakarta-kota-railway-station/thumbs/4.webp",
-    "w": 786,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Old Colonial Clock inside Jakarta Kota Train Station , West Jakarta , Indonesia",
-    "credit": "Afrogindahood",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jakarta_Kota_Clock.jpg",
-    "file": "File:Jakarta Kota Clock.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Inside_Jakarta_Kota_Station.jpg/1280px-Inside_Jakarta_Kota_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jakarta-kota-railway-station/thumbs/5.webp",
     "w": 1280,
@@ -280178,7 +277874,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuala-lumpur-railway-station",
-  "n": 3051,
+  "n": 3046,
   "name": "Kuala Lumpur Railway Station",
   "by": "Arthur Benison Hubback",
   "place": "Kuala Lumpur, MY",
@@ -280259,18 +277955,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stasiun_Kuala_Lumpur_Dalam.jpg",
     "file": "File:Stasiun Kuala Lumpur Dalam.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_train_inside_Kuala_Lumpur_Railway_Station_%281%29.jpg/1280px-A_train_inside_Kuala_Lumpur_Railway_Station_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kuala-lumpur-railway-station/thumbs/5.webp",
-    "w": 788,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · A train inside Kuala Lumpur Railway Station",
-    "credit": "Sam Hidayat",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_train_inside_Kuala_Lumpur_Railway_Station_(1).jpg",
-    "file": "File:A train inside Kuala Lumpur Railway Station (1).jpg"
    }
   ],
   "has": [],
@@ -280278,7 +277962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cathay-building",
-  "n": 3052,
+  "n": 3047,
   "name": "Cathay Building",
   "by": "Frank W. Brewer (Arbenz and Brewer)",
   "place": "Singapore, SG",
@@ -280311,18 +277995,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Cathay,_October_2025.jpg",
     "file": "File:The Cathay, October 2025.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/The_Cathay%2C_Singapore_%282025%29_-_img_01.jpg/1280px-The_Cathay%2C_Singapore_%282025%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cathay-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Cathay, Singapore",
-    "credit": "Chainwit.",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Cathay,_Singapore_(2025)_-_img_01.jpg",
-    "file": "File:The Cathay, Singapore (2025) - img 01.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/The_Cathay_Building.jpg/1280px-The_Cathay_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -280378,7 +278050,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sultan-mosque-singapore",
-  "n": 3053,
+  "n": 3048,
   "name": "Sultan Mosque",
   "by": "Denis Santry (Swan & Maclaren)",
   "place": "Singapore, SG",
@@ -280471,28 +278143,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Masjid_Sultan.jpg",
     "file": "File:Masjid Sultan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Sultan_Mosque_-_Singapore_City_Gallery_%22Central_Area_Model%22_%282025%29_-_img_14.jpg/1280px-Sultan_Mosque_-_Singapore_City_Gallery_%22Central_Area_Model%22_%282025%29_-_img_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sultan-mosque-singapore/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Sultan Mosque, Central Area Model of Singapore City Gallery",
-    "credit": "Chainwit.",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sultan_Mosque_-_Singapore_City_Gallery_%22Central_Area_Model%22_(2025)_-_img_14.jpg",
-    "file": "File:Sultan Mosque - Singapore City Gallery \"Central Area Model\" (2025) - img 14.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "wat-rong-khun",
-  "n": 3054,
+  "n": 3049,
   "name": "Wat Rong Khun (White Temple)",
   "by": "Chalermchai Kositpipat",
   "place": "Chiang Rai, TH",
@@ -280539,18 +278197,6 @@ window.BUILDINGS = [
     "file": "File:Chiang Rai Thailand Wat-Rong-Khun-02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/001_General_View_from_South_%289214741246%29.jpg/1280px-001_General_View_from_South_%289214741246%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wat-rong-khun/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · 01 General View from South, White Temple, Chiang Rai",
-    "credit": "Photo Dharma  from Sadao, Thailand",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:001_General_View_from_South_(9214741246).jpg",
-    "file": "File:001 General View from South (9214741246).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg/1280px-Chiang_Rai_-_Wat_Rong_Khun_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B9%88%E0%B8%99_%282026%29_-_img_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wat-rong-khun/thumbs/3.webp",
     "w": 1280,
@@ -280575,116 +278221,16 @@ window.BUILDINGS = [
     "file": "File:White Temple from the dark side 001.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Temple_blanc_Wat_Rong_Khun_3.jpg/1280px-Temple_blanc_Wat_Rong_Khun_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wat-rong-khun/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/001_General_View_from_South_%289214741246%29.jpg/1280px-001_General_View_from_South_%289214741246%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-rong-khun/thumbs/2.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Salle d'exposition consacrée au dieu à tête d'éléphant Ganesh (Ganesh Exhibition Hall), bâtiment doré",
-    "credit": "Welcome to Thailand",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Temple_blanc_Wat_Rong_Khun_3.jpg",
-    "file": "File:Temple blanc Wat Rong Khun 3.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "blue-cross-blue-shield-building-chicago",
-  "n": 3055,
-  "name": "Blue Cross-Blue Shield Building",
-  "by": "C. F. Murphy Associates",
-  "place": "Chicago, US",
-  "year": "1968",
-  "y": 1968,
-  "type": "Office & tower",
-  "movement": "Brutalism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Exposed concrete",
-   "Facade as skin",
-   "Geometry"
-  ],
-  "study": "Brutalist headquarters at 55 West Wacker Drive in the Loop, opened 1968.",
-  "qid": null,
-  "commons": "Category:55 West Wacker",
-  "lead": "File:55 West Wacker Drive by Matthew Bisanz.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/55_West_Wacker_Drive_by_Matthew_Bisanz.jpg/1280px-55_West_Wacker_Drive_by_Matthew_Bisanz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/0.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · 55 West Wacker Drive in Chicago, IL",
-    "credit": "Matthew Bisanz",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:55_West_Wacker_Drive_by_Matthew_Bisanz.jpg",
-    "file": "File:55 West Wacker Drive by Matthew Bisanz.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_01.jpg/1280px-Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · View westward along the Chicago River in downtown Chicago, Illinois, during blue hour",
-    "credit": "NorbertNagel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Leo_Burnett_Building,_55_and_77_West_Wacker_and_OneEleven,_Chicago_-_01.jpg",
-    "file": "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_02.jpg/1280px-Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/2.webp",
-    "w": 872,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · View westward along the Chicago River in downtown Chicago, Illinois, during blue hour",
-    "credit": "NorbertNagel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Leo_Burnett_Building,_55_and_77_West_Wacker_and_OneEleven,_Chicago_-_02.jpg",
-    "file": "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Chicago_%2835493095940%29.jpg/1280px-Chicago_%2835493095940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Chicago",
-    "credit": "Mack Male  from Edmonton, AB, Canada",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chicago_(35493095940).jpg",
-    "file": "File:Chicago (35493095940).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_River_night_3.jpg/1280px-Chicago_River_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
     "kind": "Context",
-    "caption": "Context · Chicago River at night",
-    "credit": "Daniel Schwen",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chicago_River_night_3.jpg",
-    "file": "File:Chicago River night 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Wells_Street_Bridge.jpg/1280px-Wells_Street_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blue-cross-blue-shield-building-chicago/thumbs/5.webp",
-    "w": 1280,
-    "h": 913,
-    "kind": "Context",
-    "caption": "Context · Wells Street Bridge in Chicago",
-    "credit": "Daniel Schwen",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wells_Street_Bridge.jpg",
-    "file": "File:Wells Street Bridge.jpg"
+    "caption": "Context · 01 General View from South, White Temple, Chiang Rai",
+    "credit": "Photo Dharma  from Sadao, Thailand",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:001_General_View_from_South_(9214741246).jpg",
+    "file": "File:001 General View from South (9214741246).jpg"
    }
   ],
   "has": [],
@@ -280692,7 +278238,7 @@ window.BUILDINGS = [
  },
  {
   "id": "inland-steel-building",
-  "n": 3056,
+  "n": 3050,
   "name": "Inland Steel Building",
   "by": "Bruce Graham & Walter Netsch (Skidmore, Owings & Merrill)",
   "place": "Chicago, US",
@@ -280792,7 +278338,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kluczynski-federal-building",
-  "n": 3057,
+  "n": 3051,
   "name": "John C. Kluczynski Federal Building",
   "by": "Ludwig Mies van der Rohe",
   "place": "Chicago, US",
@@ -280849,42 +278395,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Federal_Center_20180613_(19).jpg",
     "file": "File:Federal Center 20180613 (19).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Willis_Tower_and_Chicago_skyscrapers_from_the_Adler_Planetarium_Skyline_Walk_%2852033270570%29.jpg/1280px-Willis_Tower_and_Chicago_skyscrapers_from_the_Adler_Planetarium_Skyline_Walk_%2852033270570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kluczynski-federal-building/thumbs/3.webp",
-    "w": 1280,
-    "h": 800,
-    "kind": "Interior",
-    "caption": "Interior · Taken from near East Solidarity Drive on Northerly Island, Chicago, IL",
-    "credit": "Chris Rycroft  from Cambridge, Massachusetts, United States",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Willis_Tower_and_Chicago_skyscrapers_from_the_Adler_Planetarium_Skyline_Walk_(52033270570).jpg",
-    "file": "File:Willis Tower and Chicago skyscrapers from the Adler Planetarium Skyline Walk (52033270570).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Skyscrapers_%283521410860%29.jpg/1280px-Skyscrapers_%283521410860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kluczynski-federal-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Alex Ford  from Raleigh, NC, USA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_(3521410860).jpg",
-    "file": "File:Skyscrapers (3521410860).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/The_Flamingo_%287847878660%29.jpg/1280px-The_Flamingo_%287847878660%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kluczynski-federal-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Another famous Chicago sculpture",
-    "credit": "Marlin Keesler  from Streamwood, IL",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Flamingo_(7847878660).jpg",
-    "file": "File:The Flamingo (7847878660).jpg"
    }
   ],
   "has": [],
@@ -280892,7 +278402,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reliance-building",
-  "n": 3058,
+  "n": 3052,
   "name": "Reliance Building",
   "by": "John Root & Charles B. Atwood",
   "place": "Chicago, US",
@@ -280980,7 +278490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "richard-j-daley-center",
-  "n": 3059,
+  "n": 3053,
   "name": "Richard J. Daley Center",
   "by": "Jacques Brownson (C. F. Murphy Associates)",
   "place": "Chicago, US",
@@ -281061,18 +278571,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chicago_Pedway_Daley_Center_(52301283123).jpg",
     "file": "File:Chicago Pedway Daley Center (52301283123).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/333_West_Wacker_8_%286573431719%29.jpg/1280px-333_West_Wacker_8_%286573431719%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/richard-j-daley-center/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Closeup of the southeast view",
-    "credit": "Jaysin Trevino  from Evanston, IL, US",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:333_West_Wacker_8_(6573431719).jpg",
-    "file": "File:333 West Wacker 8 (6573431719).jpg"
    }
   ],
   "has": [],
@@ -281080,7 +278578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rookery-building",
-  "n": 3060,
+  "n": 3054,
   "name": "Rookery Building",
   "by": "Burnham & Root",
   "place": "Chicago, US",
@@ -281180,7 +278678,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harold-washington-library-center",
-  "n": 3061,
+  "n": 3055,
   "name": "Harold Washington Library Center",
   "by": "Hammond, Beeby and Babka",
   "place": "Chicago, US",
@@ -281225,18 +278723,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Harold_Washington_Library_-_Chicago_Public_Library_(51574883428).jpg",
     "file": "File:Harold Washington Library - Chicago Public Library (51574883428).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Brian_Bannon_Chicago_Public_Library_2014.jpg/1280px-Brian_Bannon_Chicago_Public_Library_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/harold-washington-library-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Juggernautco",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brian_Bannon_Chicago_Public_Library_2014.jpg",
-    "file": "File:Brian Bannon Chicago Public Library 2014.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Harold_Washington_Library_-_Entrance_%2851575567205%29.jpg/1280px-Harold_Washington_Library_-_Entrance_%2851575567205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -281294,7 +278780,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1111-lincoln-road",
-  "n": 3062,
+  "n": 3056,
   "name": "1111 Lincoln Road",
   "by": "Herzog & de Meuron",
   "place": "Miami Beach, US",
@@ -281394,7 +278880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyatt-regency-atlanta",
-  "n": 3063,
+  "n": 3057,
   "name": "Hyatt Regency Atlanta",
   "by": "John Portman & Associates",
   "place": "Atlanta, US",
@@ -281494,7 +278980,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harvard-graduate-center",
-  "n": 3064,
+  "n": 3058,
   "name": "Harvard Graduate Center",
   "by": "The Architects Collaborative",
   "place": "Cambridge, US",
@@ -281534,7 +279020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ingalls-rink",
-  "n": 3065,
+  "n": 3059,
   "name": "David S. Ingalls Rink",
   "by": "Eero Saarinen",
   "place": "New Haven, US",
@@ -281648,7 +279134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "north-christian-church-columbus",
-  "n": 3066,
+  "n": 3060,
   "name": "North Christian Church",
   "by": "Eero Saarinen",
   "place": "Columbus, US",
@@ -281719,18 +279205,6 @@ window.BUILDINGS = [
     "file": "File:The Sanctuary North Christian Church, Columbus, Indiana.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NORTH_CHRISTIAN_CHURCH_-_NARA_-_546550.jpg/1280px-NORTH_CHRISTIAN_CHURCH_-_NARA_-_546550.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/north-christian-church-columbus/thumbs/4.webp",
-    "w": 1280,
-    "h": 861,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Declan Haun",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:NORTH_CHRISTIAN_CHURCH_-_NARA_-_546550.jpg",
-    "file": "File:NORTH CHRISTIAN CHURCH - NARA - 546550.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Columbus_-_North_Christian_Church_-_20191105124634.jpg/1280px-Columbus_-_North_Christian_Church_-_20191105124634.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/north-christian-church-columbus/thumbs/5.webp",
     "w": 935,
@@ -281748,7 +279222,7 @@ window.BUILDINGS = [
  },
  {
   "id": "john-deere-world-headquarters",
-  "n": 3067,
+  "n": 3061,
   "name": "John Deere World Headquarters",
   "by": "Eero Saarinen",
   "place": "Moline, US",
@@ -281824,7 +279298,7 @@ window.BUILDINGS = [
  },
  {
   "id": "j-s-dorton-arena",
-  "n": 3068,
+  "n": 3062,
   "name": "J. S. Dorton Arena",
   "by": "Maciej Nowicki & William Henley Deitrick",
   "place": "Raleigh, US",
@@ -281893,30 +279367,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Dorton_Arena,_State_Fairgrounds,_Raleigh,_NC_(27892928877).jpg",
     "file": "File:Dorton Arena, State Fairgrounds, Raleigh, NC (27892928877).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Triangle_Torch_vs_Lehigh_Valley_Steelhawks_1.jpg/1280px-Triangle_Torch_vs_Lehigh_Valley_Steelhawks_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/j-s-dorton-arena/thumbs/4.webp",
-    "w": 1280,
-    "h": 721,
-    "kind": "Detail",
-    "caption": "Detail · Triangle Thunder vs",
-    "credit": "Jayron32",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Triangle_Torch_vs_Lehigh_Valley_Steelhawks_1.jpg",
-    "file": "File:Triangle Torch vs Lehigh Valley Steelhawks 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Triangle_Torch_vs_Lehigh_Valley_Steelhawks_3.jpg/1280px-Triangle_Torch_vs_Lehigh_Valley_Steelhawks_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/j-s-dorton-arena/thumbs/5.webp",
-    "w": 1280,
-    "h": 721,
-    "kind": "Detail",
-    "caption": "Detail · Triangle Thunder vs",
-    "credit": "Jayron32",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Triangle_Torch_vs_Lehigh_Valley_Steelhawks_3.jpg",
-    "file": "File:Triangle Torch vs Lehigh Valley Steelhawks 3.jpg"
    }
   ],
   "has": [],
@@ -281924,7 +279374,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sarasota-high-school",
-  "n": 3069,
+  "n": 3063,
   "name": "Sarasota High School",
   "by": "Paul Rudolph",
   "place": "Sarasota, US",
@@ -282000,7 +279450,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wingspread",
-  "n": 3070,
+  "n": 3064,
   "name": "Wingspread (Herbert F. Johnson House)",
   "by": "Frank Lloyd Wright",
   "place": "Wind Point, US",
@@ -282081,18 +279531,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Herbert_F._Johnson,_Jr.,_Wingspread,_residence_in_Racine,_Wisconsin._LOC_gsc.5a03875.jpg",
     "file": "File:Herbert F. Johnson, Jr., Wingspread, residence in Racine, Wisconsin. LOC gsc.5a03875.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Wingspread_Interior_01.jpg/1280px-Wingspread_Interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wingspread/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Im Herbert F",
-    "credit": "Stilfehler",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wingspread_Interior_01.jpg",
-    "file": "File:Wingspread Interior 01.jpg"
    }
   ],
   "has": [],
@@ -282100,7 +279538,7 @@ window.BUILDINGS = [
  },
  {
   "id": "graycliff",
-  "n": 3071,
+  "n": 3065,
   "name": "Graycliff",
   "by": "Frank Lloyd Wright",
   "place": "Derby, US",
@@ -282135,18 +279573,6 @@ window.BUILDINGS = [
     "file": "File:Graycliff.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Malecki_Sausage_packing_crate_found_in_basement_of_Graycliff%2C_Derby%2C_New_York_-_20191005.jpg/1280px-Malecki_Sausage_packing_crate_found_in_basement_of_Graycliff%2C_Derby%2C_New_York_-_20191005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/graycliff/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Andre Carrotflower",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Malecki_Sausage_packing_crate_found_in_basement_of_Graycliff,_Derby,_New_York_-_20191005.jpg",
-    "file": "File:Malecki Sausage packing crate found in basement of Graycliff, Derby, New York - 20191005.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/South_Terrace%2C_Graycliff.jpg/1280px-South_Terrace%2C_Graycliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/graycliff/thumbs/2.webp",
     "w": 1050,
@@ -282157,30 +279583,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:South_Terrace,_Graycliff.jpg",
     "file": "File:South Terrace, Graycliff.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Downtown_Buffalo_skyline_seen_distantly_from_Graycliff_Estate%2C_Evans%2C_New_York_-_20191005.jpg/1280px-Downtown_Buffalo_skyline_seen_distantly_from_Graycliff_Estate%2C_Evans%2C_New_York_-_20191005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/graycliff/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Andre Carrotflower",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Downtown_Buffalo_skyline_seen_distantly_from_Graycliff_Estate,_Evans,_New_York_-_20191005.jpg",
-    "file": "File:Downtown Buffalo skyline seen distantly from Graycliff Estate, Evans, New York - 20191005.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Frank_Lloyd_Wright%27s_Graycliff_House_-_Staircase_01.jpg/1280px-Frank_Lloyd_Wright%27s_Graycliff_House_-_Staircase_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/graycliff/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Frank Lloyd Wright's Graycliff House - Staircase 01",
-    "credit": "Wiki.cullin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright%27s_Graycliff_House_-_Staircase_01.jpg",
-    "file": "File:Frank Lloyd Wright's Graycliff House - Staircase 01.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Lake_thru_house_07_low_res.jpg/1280px-Lake_thru_house_07_low_res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -282200,7 +279602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacobs-first-house",
-  "n": 3072,
+  "n": 3066,
   "name": "Herbert and Katherine Jacobs First House",
   "by": "Frank Lloyd Wright",
   "place": "Madison, US",
@@ -282259,18 +279661,6 @@ window.BUILDINGS = [
     "file": "File:Rear, Herbert A Jacobs House, Madison WI, USA (1 of 1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Herbert_and_Katherine_Jacobs_First_House_-_panoramio.jpg/1280px-Herbert_and_Katherine_Jacobs_First_House_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jacobs-first-house/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Corey Coyle",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Herbert_and_Katherine_Jacobs_First_House_-_panoramio.jpg",
-    "file": "File:Herbert and Katherine Jacobs First House - panoramio.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Jacobs_First_House_-_bedroom_02.jpg/1280px-Jacobs_First_House_-_bedroom_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jacobs-first-house/thumbs/4.webp",
     "w": 1280,
@@ -282300,7 +279690,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pope-leighey-house",
-  "n": 3073,
+  "n": 3067,
   "name": "Pope–Leighey House",
   "by": "Frank Lloyd Wright",
   "place": "Alexandria, US",
@@ -282400,7 +279790,7 @@ window.BUILDINGS = [
  },
  {
   "id": "phipps-conservatory",
-  "n": 3074,
+  "n": 3068,
   "name": "Phipps Conservatory",
   "by": "Lord & Burnham",
   "place": "Pittsburgh, US",
@@ -282435,30 +279825,6 @@ window.BUILDINGS = [
     "file": "File:Phipps conservatory 0.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Pachystachys_lutea%2C_Phipps_Conservatory%2C_2024-08-24-1.jpg/1280px-Pachystachys_lutea%2C_Phipps_Conservatory%2C_2024-08-24-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/phipps-conservatory/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Golden Shrimp Plant ( Pachystachys lutea ) in Phipps Conservatory, Pittsburgh",
-    "credit": "Cbaile19",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pachystachys_lutea,_Phipps_Conservatory,_2024-08-24-1.jpg",
-    "file": "File:Pachystachys lutea, Phipps Conservatory, 2024-08-24-1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pachystachys_lutea%2C_Phipps_Conservatory%2C_2024-08-24.jpg/1280px-Pachystachys_lutea%2C_Phipps_Conservatory%2C_2024-08-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/phipps-conservatory/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Golden Shrimp Plant ( Pachystachys lutea ) in Phipps Conservatory, Pittsburgh",
-    "credit": "Cbaile19",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pachystachys_lutea,_Phipps_Conservatory,_2024-08-24.jpg",
-    "file": "File:Pachystachys lutea, Phipps Conservatory, 2024-08-24.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Phipps_Conservatory_winter_2015_Broderie_Room.jpg/1280px-Phipps_Conservatory_winter_2015_Broderie_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/phipps-conservatory/thumbs/3.webp",
     "w": 1280,
@@ -282481,18 +279847,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Phipps_Conservatory_East_Room_with_Japanese_Garden_exhibit.jpg",
     "file": "File:Phipps Conservatory East Room with Japanese Garden exhibit.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Phipps_Conservatory_27.jpg/1280px-Phipps_Conservatory_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/phipps-conservatory/thumbs/5.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Detail",
-    "caption": "Detail · The outdoor food garden at the Phipps Conservatory",
-    "credit": "Dllu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Phipps_Conservatory_27.jpg",
-    "file": "File:Phipps Conservatory 27.jpg"
    }
   ],
   "has": [],
@@ -282500,7 +279854,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paul-rudolph-hall",
-  "n": 3075,
+  "n": 3069,
   "name": "Paul Rudolph Hall (Yale Art and Architecture Building)",
   "by": "Paul Rudolph",
   "place": "New Haven, US",
@@ -282583,18 +279937,6 @@ window.BUILDINGS = [
     "file": "File:Rudolph Hall Review Pit.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Winter_Boots_on_a_Snowy_balcony_at_the_Yale_School_of_Architecture%2C_2019.jpg/1280px-Winter_Boots_on_a_Snowy_balcony_at_the_Yale_School_of_Architecture%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/paul-rudolph-hall/thumbs/5.webp",
-    "w": 1104,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Winter Boots on a Snowy balcony at the Yale School of Architecture, 2019",
-    "credit": "RukshanV",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Winter_Boots_on_a_Snowy_balcony_at_the_Yale_School_of_Architecture,_2019.jpg",
-    "file": "File:Winter Boots on a Snowy balcony at the Yale School of Architecture, 2019.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Presentation_Space_with_Architectural_Model%2C_Yale_School_of_Architecture%2C_2018.jpg/1280px-Presentation_Space_with_Architectural_Model%2C_Yale_School_of_Architecture%2C_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/paul-rudolph-hall/thumbs/6.webp",
     "w": 1280,
@@ -282613,108 +279955,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "highfield-house-baltimore",
-  "n": 3076,
-  "name": "Highfield House",
-  "by": "Ludwig Mies van der Rohe",
-  "place": "Baltimore, US",
-  "year": "1964",
-  "y": 1964,
-  "type": "Housing",
-  "movement": "Modernism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Structure as expression",
-   "Steel & glass",
-   "Geometry"
-  ],
-  "study": "High-rise condominium, outstanding International Style housing and Mies's second Baltimore building.",
-  "qid": null,
-  "commons": "Category:Uppingham School",
-  "lead": "File:HighfieldHouse 2008.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Uppingham_buildings_%28geograph_7144508%29.jpg/1280px-Uppingham_buildings_%28geograph_7144508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Uppingham buildings",
-    "credit": "Michael Dibb",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Uppingham_buildings_(geograph_7144508).jpg",
-    "file": "File:Uppingham buildings (geograph 7144508).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Uppingham_buildings_%28geograph_7144511%29.jpg/1280px-Uppingham_buildings_%28geograph_7144511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Uppingham buildings",
-    "credit": "Michael Dibb",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Uppingham_buildings_(geograph_7144511).jpg",
-    "file": "File:Uppingham buildings (geograph 7144511).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Upper_Pavilion_-_geograph.org.uk_-_5969774.jpg/1280px-The_Upper_Pavilion_-_geograph.org.uk_-_5969774.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/2.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · The Upper Pavilion",
-    "credit": "Tim Heaton",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Upper_Pavilion_-_geograph.org.uk_-_5969774.jpg",
-    "file": "File:The Upper Pavilion - geograph.org.uk - 5969774.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Uppingham_Theatre%2C_Stockerston_Road%2C_Uppingham_-_geograph.org.uk_-_5883573.jpg/1280px-Uppingham_Theatre%2C_Stockerston_Road%2C_Uppingham_-_geograph.org.uk_-_5883573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Uppingham Theatre, Stockerston Road, Uppingham",
-    "credit": "Tim Heaton",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Uppingham_Theatre,_Stockerston_Road,_Uppingham_-_geograph.org.uk_-_5883573.jpg",
-    "file": "File:Uppingham Theatre, Stockerston Road, Uppingham - geograph.org.uk - 5883573.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Uppingham_School_%282%29_%28geograph_7145600%29.jpg/1280px-Uppingham_School_%282%29_%28geograph_7145600%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Uppingham School [2]",
-    "credit": "Michael Dibb",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Uppingham_School_(2)_(geograph_7145600).jpg",
-    "file": "File:Uppingham School (2) (geograph 7145600).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/The_old_schoolroom_-_geograph.org.uk_-_3447144.jpg/1280px-The_old_schoolroom_-_geograph.org.uk_-_3447144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/highfield-house-baltimore/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · The old schoolroom",
-    "credit": "John M",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_old_schoolroom_-_geograph.org.uk_-_3447144.jpg",
-    "file": "File:The old schoolroom - geograph.org.uk - 3447144.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "home-federal-savings-des-moines",
-  "n": 3077,
+  "n": 3070,
   "name": "Home Federal Savings and Loan Building",
   "by": "Ludwig Mies van der Rohe",
   "place": "Des Moines, US",
@@ -282754,7 +279996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-farmers-bank-owatonna",
-  "n": 3078,
+  "n": 3071,
   "name": "National Farmers' Bank of Owatonna",
   "by": "Louis Sullivan",
   "place": "Owatonna, US",
@@ -282789,18 +280031,6 @@ window.BUILDINGS = [
     "file": "File:Louis H. Sullivan - Farmer's National Bank (A), Owatonna, MN.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Louis_H._Sullivan_-_National_Farmer%27s_Bank_%28C%29%2C_Owatonna%2C_MN.jpg/1280px-Louis_H._Sullivan_-_National_Farmer%27s_Bank_%28C%29%2C_Owatonna%2C_MN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-farmers-bank-owatonna/thumbs/1.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Detail",
-    "caption": "Detail · Built in 1908",
-    "credit": "Bmzuckerman",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Louis_H._Sullivan_-_National_Farmer%27s_Bank_(C),_Owatonna,_MN.jpg",
-    "file": "File:Louis H. Sullivan - National Farmer's Bank (C), Owatonna, MN.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Louis_H._Sullivan_-_National_Farmer%27s_Bank_Interior_%28A%29%2C_Owatonna%2C_MN.jpg/1280px-Louis_H._Sullivan_-_National_Farmer%27s_Bank_Interior_%28A%29%2C_Owatonna%2C_MN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-farmers-bank-owatonna/thumbs/2.webp",
     "w": 1280,
@@ -282811,6 +280041,18 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Louis_H._Sullivan_-_National_Farmer%27s_Bank_Interior_(A),_Owatonna,_MN.jpg",
     "file": "File:Louis H. Sullivan - National Farmer's Bank Interior (A), Owatonna, MN.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Louis_H._Sullivan_-_National_Farmer%27s_Bank_%28C%29%2C_Owatonna%2C_MN.jpg/1280px-Louis_H._Sullivan_-_National_Farmer%27s_Bank_%28C%29%2C_Owatonna%2C_MN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-farmers-bank-owatonna/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Detail",
+    "caption": "Detail · Built in 1908",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_H._Sullivan_-_National_Farmer%27s_Bank_(C),_Owatonna,_MN.jpg",
+    "file": "File:Louis H. Sullivan - National Farmer's Bank (C), Owatonna, MN.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/WestFaceDetail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -282842,7 +280084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bayard-condict-building",
-  "n": 3079,
+  "n": 3072,
   "name": "Bayard–Condict Building",
   "by": "Louis Sullivan",
   "place": "New York, US",
@@ -282913,18 +280155,6 @@ window.BUILDINGS = [
     "file": "File:NoHo Jun 2023 50.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sanborn_Manhattan_V._3_Plate_09_publ._1904.jpg/1280px-Sanborn_Manhattan_V._3_Plate_09_publ._1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bayard-condict-building/thumbs/4.webp",
-    "w": 945,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Plate 9 from: Insurance Maps of the City of New York Borough of Manhattan",
-    "credit": "Sanborn Map Company",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Sanborn_Manhattan_V._3_Plate_09_publ._1904.jpg",
-    "file": "File:Sanborn Manhattan V. 3 Plate 09 publ. 1904.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bayard-Condict_Building_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/bayard-condict-building/thumbs/5.webp",
     "w": 1065,
@@ -282942,7 +280172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "krause-music-store",
-  "n": 3080,
+  "n": 3073,
   "name": "Krause Music Store",
   "by": "Louis Sullivan (facade)",
   "place": "Chicago, US",
@@ -283030,7 +280260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "buffalo-city-court-building",
-  "n": 3081,
+  "n": 3074,
   "name": "Buffalo City Court Building",
   "by": "Pfohl, Roberts and Biggie",
   "place": "Buffalo, US",
@@ -283077,18 +280307,6 @@ window.BUILDINGS = [
     "file": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY - 52685125502.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20190609_-_13_-_City_Court.jpg/1280px-20190609_-_13_-_City_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buffalo-city-court-building/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Frank A",
-    "credit": "Andre Carrotflower",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20190609_-_13_-_City_Court.jpg",
-    "file": "File:20190609 - 13 - City Court.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Buffalo_City_Court_Building.JPG/1280px-Buffalo_City_Court_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/buffalo-city-court-building/thumbs/3.webp",
     "w": 1050,
@@ -283101,28 +280319,16 @@ window.BUILDINGS = [
     "file": "File:Buffalo City Court Building.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Buffalo_City_Court_Building_time_capsule.JPG/1280px-Buffalo_City_Court_Building_time_capsule.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buffalo-city-court-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · A Time Capsule tomb outside of the Buffalo City Court Building",
-    "credit": "Fortunate4now",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Buffalo_City_Court_Building_time_capsule.JPG",
-    "file": "File:Buffalo City Court Building time capsule.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Erie_County_Hall_2012.jpg/1280px-Erie_County_Hall_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buffalo-city-court-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · County and City Hall",
-    "credit": "Cfiume",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Erie_County_Hall_2012.jpg",
-    "file": "File:Erie County Hall 2012.jpg"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/20190609_-_13_-_City_Court.jpg/1280px-20190609_-_13_-_City_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buffalo-city-court-building/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Frank A",
+    "credit": "Andre Carrotflower",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190609_-_13_-_City_Court.jpg",
+    "file": "File:20190609 - 13 - City Court.jpg"
    }
   ],
   "has": [],
@@ -283130,7 +280336,7 @@ window.BUILDINGS = [
  },
  {
   "id": "george-h-fallon-federal-building",
-  "n": 3082,
+  "n": 3075,
   "name": "George H. Fallon Federal Office Building",
   "by": "Fisher, Nes, Campbell and Associates",
   "place": "Baltimore, US",
@@ -283182,7 +280388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "strom-thurmond-federal-building",
-  "n": 3083,
+  "n": 3076,
   "name": "Strom Thurmond Federal Building and U.S. Courthouse",
   "by": "Marcel Breuer",
   "place": "Columbia, US",
@@ -283217,18 +280423,6 @@ window.BUILDINGS = [
     "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395729926.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Strom_Thurmond_Federal_Building_and_United_States_Courthouse%2C_Assembly_Street_and_Laurel_Street%2C_Columbia%2C_SC_-_53394801007.jpg/1280px-Strom_Thurmond_Federal_Building_and_United_States_Courthouse%2C_Assembly_Street_and_Laurel_Street%2C_Columbia%2C_SC_-_53394801007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/strom-thurmond-federal-building/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "w_lemay",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Strom_Thurmond_Federal_Building_and_United_States_Courthouse,_Assembly_Street_and_Laurel_Street,_Columbia,_SC_-_53394801007.jpg",
-    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53394801007.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/U.S._Courthouse%2C_Columbia%2C_South_Carolina.jpg/1280px-U.S._Courthouse%2C_Columbia%2C_South_Carolina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/strom-thurmond-federal-building/thumbs/2.webp",
     "w": 1280,
@@ -283251,6 +280445,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:PXL_20210228_132941217.jpg",
     "file": "File:PXL 20210228 132941217.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Strom_Thurmond_Federal_Building_and_United_States_Courthouse%2C_Assembly_Street_and_Laurel_Street%2C_Columbia%2C_SC_-_53394801007.jpg/1280px-Strom_Thurmond_Federal_Building_and_United_States_Courthouse%2C_Assembly_Street_and_Laurel_Street%2C_Columbia%2C_SC_-_53394801007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/strom-thurmond-federal-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Strom_Thurmond_Federal_Building_and_United_States_Courthouse,_Assembly_Street_and_Laurel_Street,_Columbia,_SC_-_53394801007.jpg",
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53394801007.jpg"
    }
   ],
   "has": [],

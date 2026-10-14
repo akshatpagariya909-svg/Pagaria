@@ -89,3 +89,10 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Temple Emanuel | William Bernoudy | Creve Coeur, US |
 | Alley Theatre | Ulrich Franzen | Houston, US |
 | Natural History Museum of Utah | Ennead Architects and GSBS | Salt Lake City, US |
+| Blue Cross-Blue Shield Building | C. F. Murphy Associates | Chicago, US |
+| Manila Film Center | Froilan Hong | Manila, PH |
+| Highfield House | Ludwig Mies van der Rohe | Baltimore, US |
+| Capitan Luis Gonzaga Building | Pablo Antonio | Manila, PH |
+| Iglesia Filipina Independiente National Cathedral | Carlos D. Arguelles | Quezon City, PH |
+| Monument to the Revolution, Kozara | Dušan Džamonja | Mrakovica (Kozara), BA |
+| Pasig Revolving Tower | Edward Medina | Pasig, PH |
