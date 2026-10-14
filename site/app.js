@@ -202,7 +202,7 @@
     addBatch();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('allLink').dataset.tip = `A collection of ${TOTAL.toLocaleString('en')} buildings`;
+    $('allLink').dataset.tip = 'A huge, growing collection of buildings';
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
@@ -586,7 +586,7 @@
     };
     fill($('sPrev'), list[i - 1], 'Previous');
     fill($('sNext'), list[i + 1], 'Next');
-    $('sPos').textContent = `${(i + 1).toLocaleString('en')} of ${list.length.toLocaleString('en')}`;
+    $('sPos').textContent = ''; // no totals on the site
   }
   function stepBuilding(dir) {
     const f = feedState, i = state.open ? f.list.indexOf(state.open) : -1, b = f.list[i + dir];

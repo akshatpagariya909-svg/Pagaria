@@ -159,12 +159,13 @@ HEAD = """<!doctype html>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}pages.css?v={css_v}">
+<script src="{up}analytics.js"></script>
 {extra}
 </head>
 <body>
 <header class="top">
   <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
-  <nav><a class="all" href="{up}buildings/" data-tip="A collection of {total} buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
+  <nav><a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
 
@@ -181,7 +182,7 @@ GALLERY_JS = """<script>
 
 FOOT = """<footer class="foot">
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
-  <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All {total} buildings</a></p>
+  <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
 </footer>
 <nav class="dock" aria-label="Browse">
   <a href="{up}">Home</a>
@@ -213,10 +214,10 @@ def home_block(items):
     row = lambda b: f'<li><a href="buildings/{b["id"]}/">{e(b["name"])}</a> <small>{e(b["place"].split(",")[0] if anonymous(b) else b["by"])}</small></li>'
     return (f'<section class="about-wall" id="about">\n'
             f'  <h2>About this wall</h2>\n'
-            f'  <p>Find Great Architecture is a wall of {TOTAL} buildings for architecture students, from the modern masters to '
+            f'  <p>Find Great Architecture is a huge, growing wall of buildings for architecture students, from the modern masters to '
             f'contemporary and parametric work, brutalism and regionalism, with India and South Asia first. Every building has '
             f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
-            f'Buildings from {len(places)} countries; <a href="buildings/">see all {TOTAL}</a>.</p>\n'
+            f'Buildings from all over the world; <a href="buildings/">see them all A–Z</a>.</p>\n'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'  <h3>Most looked-up in South Asia</h3>\n  <ol>{"".join(row(b) for b in south)}</ol>\n'
             f'</section>')
@@ -274,14 +275,14 @@ def building_page(b, items):
 def index_page(items):
     up = '../'
     url = BASE + 'buildings/'
-    desc = f'All {TOTAL} buildings on Find Great Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
-    head = HEAD.format(title=f'All {TOTAL} buildings · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
-                       ogtitle=f'All {TOTAL} buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
+    desc = f'Every building on Find Great Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
+    head = HEAD.format(title=f'All buildings A–Z · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
+                       ogtitle='All buildings A–Z', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(
         f'<a href="{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
         f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>'
         for x in sorted(items, key=lambda x: x['name'].lower()))
-    body = f'<main class="index"><h1>All {TOTAL} buildings</h1><p class="lede">{e(desc)}</p><div class="grid">{rows}</div></main>\n'
+    body = f'<main class="index"><h1>All buildings</h1><p class="lede">{e(desc)}</p><div class="grid">{rows}</div></main>\n'
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
 
