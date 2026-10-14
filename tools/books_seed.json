@@ -22739,5 +22739,339 @@
   "buildings": [
    "tribune-tower"
   ]
+ },
+ {
+  "id": "die-grostadt-eine-studie-uber-diese",
+  "title": "Die Großstadt: Eine Studie über diese",
+  "by": "Otto Wagner",
+  "year": "1911",
+  "y": 1911,
+  "shelf": "Manifestos",
+  "why": "Otto Wagner's study of the modern metropolis and how it should grow.",
+  "tags": [
+   "Cities",
+   "Theory"
+  ],
+  "architects": [
+   "Otto Wagner"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "einige-skizzen-projekte-und-ausgefuhrte-bauwerke",
+  "title": "Einige Skizzen, Projekte und ausgeführte Bauwerke",
+  "by": "Otto Wagner",
+  "year": "1892",
+  "y": 1892,
+  "shelf": "Drawing",
+  "why": "Otto Wagner's folio of sketches, projects and built works.",
+  "tags": [
+   "Drawing",
+   "Art Nouveau"
+  ],
+  "architects": [
+   "Otto Wagner"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "kunstgewerbliche-laienpredigten",
+  "title": "Kunstgewerbliche Laienpredigten",
+  "by": "Henry van de Velde",
+  "year": "1902",
+  "y": 1902,
+  "shelf": "Manifestos",
+  "why": "Henry van de Velde's lay sermons on the applied arts and the new style.",
+  "tags": [
+   "Art Nouveau",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "die-drei-sunden-wider-die-schonheit",
+  "title": "Die drei Sünden wider die Schönheit",
+  "by": "Henry van de Velde",
+  "year": "1918",
+  "y": 1918,
+  "shelf": "Manifestos",
+  "why": "Van de Velde's essay on three sins against beauty.",
+  "tags": [
+   "Art Nouveau",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "bruno-taut-18801938",
+  "title": "Bruno Taut 1880–1938",
+  "by": "Kurt Junghanns",
+  "year": "1970",
+  "y": 1970,
+  "shelf": "Monographs",
+  "why": "A monograph on Bruno Taut's architecture and housing.",
+  "tags": [
+   "Expressionism",
+   "Housing"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "grundlinien-der-architektur-japans",
+  "title": "Grundlinien der Architektur Japans",
+  "by": "Bruno Taut",
+  "year": "1936",
+  "y": 1936,
+  "shelf": "History",
+  "why": "Taut's outline of Japanese architecture.",
+  "tags": [
+   "Japan",
+   "Historic precedent"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "ex-oriente-lux",
+  "title": "Ex Oriente Lux",
+  "by": "Bruno Taut",
+  "year": "1919",
+  "y": 1919,
+  "shelf": "Manifestos",
+  "why": "An essay by Bruno Taut calling for a new architecture inspired by the East.",
+  "tags": [
+   "Expressionism",
+   "Theory"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "architekturlehre",
+  "title": "Architekturlehre",
+  "by": "Bruno Taut",
+  "year": "1938",
+  "y": 1938,
+  "shelf": "Theory",
+  "why": "Bruno Taut's lectures on the principles of architecture.",
+  "tags": [
+   "Theory",
+   "Design basics"
+  ],
+  "architects": [
+   "Bruno Taut"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "scienza-o-arte-del-costruire",
+  "title": "Scienza o arte del costruire?",
+  "by": "Pier Luigi Nervi",
+  "year": "1945",
+  "y": 1945,
+  "shelf": "Construction",
+  "why": "Nervi's essay asking whether building is a science or an art.",
+  "tags": [
+   "Structure",
+   "Concrete"
+  ],
+  "architects": [
+   "Pier Luigi Nervi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "samtliche-schriften",
+  "title": "Sämtliche Schriften",
+  "by": "Adolf Loos",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Manifestos",
+  "why": "The collected writings of Adolf Loos.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "ins-leere-gesprochen",
+  "title": "Ins Leere gesprochen",
+  "by": "Adolf Loos",
+  "year": "1921",
+  "y": 1921,
+  "shelf": "Manifestos",
+  "why": "Loos's early essays against ornament and for modern living, written in 1897–1900.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "trotzdem",
+  "title": "Trotzdem",
+  "by": "Adolf Loos",
+  "year": "1931",
+  "y": 1931,
+  "shelf": "Manifestos",
+  "why": "Loos's essays of 1900–1930, including Ornament and Crime.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Adolf Loos"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "espacio-y-vida",
+  "title": "Espacio y vida",
+  "by": "Ricardo Bofill",
+  "year": "1990",
+  "y": 1990,
+  "shelf": "Monographs",
+  "why": "Ricardo Bofill on his architecture and city projects.",
+  "tags": [
+   "Postmodernism",
+   "Housing"
+  ],
+  "architects": [
+   "Ricardo Bofill"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "apollo-in-der-demokratie",
+  "title": "Apollo in der Demokratie",
+  "by": "Walter Gropius",
+  "year": "1967",
+  "y": 1967,
+  "shelf": "Theory",
+  "why": "Walter Gropius's essays on architecture and society in a democracy.",
+  "tags": [
+   "Modernism",
+   "Theory"
+  ],
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "tempos-de-grossura-o-design-no-impasse",
+  "title": "Tempos de grossura: o design no impasse",
+  "by": "Lina Bo Bardi",
+  "year": "1994",
+  "y": 1994,
+  "shelf": "Theory",
+  "why": "Lina Bo Bardi's essays on design in Brazil.",
+  "tags": [
+   "Latin America",
+   "Design"
+  ],
+  "architects": [
+   "Lina Bo Bardi"
+  ],
+  "buildings": []
+ },
+ {
+  "id": "voir-ecrire",
+  "title": "Voir, écrire",
+  "by": "Christian de Portzamparc",
+  "year": "2003",
+  "y": 2003,
+  "shelf": "Theory",
+  "why": "Christian de Portzamparc on seeing and writing about architecture.",
+  "tags": [
+   "Contemporary",
+   "Theory"
+  ],
+  "architects": [],
+  "buildings": []
+ },
+ {
+  "id": "the-architecture-of-ludwig-wittgenstein-a-documentation",
+  "title": "The Architecture of Ludwig Wittgenstein: A Documentation",
+  "by": "Bernhard Leitner",
+  "year": "1973",
+  "y": 1973,
+  "shelf": "Monographs",
+  "why": "A documentation of the house Ludwig Wittgenstein designed in Vienna.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "wittgenstein-house"
+  ]
+ },
+ {
+  "id": "ludwig-wittgenstein-architect",
+  "title": "Ludwig Wittgenstein, Architect",
+  "by": "Paul Wijdeveld",
+  "year": "1993",
+  "y": 1993,
+  "shelf": "Monographs",
+  "why": "A study of Wittgenstein's house for his sister in Vienna.",
+  "tags": [
+   "Modernism",
+   "History"
+  ],
+  "architects": [],
+  "buildings": [
+   "wittgenstein-house"
+  ]
+ },
+ {
+  "id": "phoenix-at-coventry-the-building-of-a-cathedral",
+  "title": "Phoenix at Coventry: The Building of a Cathedral",
+  "by": "Basil Spence",
+  "year": "1962",
+  "y": 1962,
+  "shelf": "Monographs",
+  "why": "Basil Spence's own account of building Coventry Cathedral.",
+  "tags": [
+   "Religious",
+   "Modernism"
+  ],
+  "architects": [],
+  "buildings": [
+   "coventry-cathedral"
+  ]
+ },
+ {
+  "id": "isokon-and-the-bauhaus-in-britain",
+  "title": "Isokon and the Bauhaus in Britain",
+  "by": "Leyla Daybelge, Magnus Englund",
+  "year": "2019",
+  "y": 2019,
+  "shelf": "History",
+  "why": "A history of the Isokon building in London and its Bauhaus link.",
+  "tags": [
+   "Modernism",
+   "Housing"
+  ],
+  "architects": [],
+  "buildings": [
+   "isokon-building"
+  ]
  }
 ]
