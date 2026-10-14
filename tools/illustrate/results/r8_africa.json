@@ -1631,5 +1631,253 @@
    "https://commons.wikimedia.org/wiki/Category:City_Hall,_Johannesburg"
   ],
   "note": "Opened officially 1915."
+ },
+ {
+  "id": "nelson-mandela-bay-stadium",
+  "name": "Nelson Mandela Bay Stadium",
+  "by": "Architectural Design Associates, Dominic Bonnesse Architects",
+  "city": "Gqeberha",
+  "cc": "ZA",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Roof of white PTFE membrane 'petals' like a flower, nicknamed The Protea; 46,000 permanent seats.",
+  "status": "photo",
+  "commons_category": "Category:Nelson Mandela Bay Stadium",
+  "photos": [
+   {
+    "file": "File:Western side of the Nelson Mandela Bay Stadium February 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nelson Mandela Bay Stadium .jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nelson Mandela Stadium in Port Elizabeth.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Nelson_Mandela_Bay_Stadium"
+  ],
+  "note": "Construction 2007-2009; official opening 28 Feb 2010."
+ },
+ {
+  "id": "nelson-mandela-bridge-johannesburg",
+  "name": "Nelson Mandela Bridge",
+  "by": "Dissing+Weitling",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "2003",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "284 m bridge with two pylons (42 m and 27 m), crossing 42 railway lines; lit in rainbow colours at night.",
+  "status": "photo",
+  "commons_category": "Category:Nelson Mandela Bridge",
+  "photos": [
+   {
+    "file": "File:South Africa-Johannesburg-Nelson Mandela Bridge001.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Mandela Bridge, Johannesburg, Gauteng, South Africa.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nelson Mandela Bridge (4678585173).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nelson_Mandela_Bridge",
+   "https://commons.wikimedia.org/wiki/Category:Nelson_Mandela_Bridge"
+  ],
+  "note": "Wikipedia calls it a suspension bridge."
+ },
+ {
+  "id": "johannesburg-art-gallery",
+  "name": "Johannesburg Art Gallery",
+  "by": "Edwin Lutyens, Robert Howden",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1915",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Designed by Lutyens with 15 exhibition halls and sculpture gardens; built not entirely to his plans.",
+  "status": "photo",
+  "commons_category": "Category:Johannesburg Art Gallery",
+  "photos": [
+   {
+    "file": "File:Jhb Art Gallery 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:9 2 228 0069-Art Gallery-Johannesburg-s.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johannesburg_Art_Gallery",
+   "https://commons.wikimedia.org/wiki/Category:Johannesburg_Art_Gallery"
+  ],
+  "note": "Category has no file names saying exterior; reviewer check both."
+ },
+ {
+  "id": "rand-club-johannesburg",
+  "name": "Rand Club",
+  "by": "Leck & Emley",
+  "city": "Johannesburg",
+  "cc": "ZA",
+  "year": "1904",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Double height",
+   "Light from above"
+  ],
+  "features": "Edwardian neo-baroque clubhouse of 1902-1904 with a rusticated base, Doric porticoes and a mosaic-domed staircase.",
+  "status": "photo",
+  "commons_category": "Category:Rand Club, Johannesburg",
+  "photos": [
+   {
+    "file": "File:00000-Rand Club-Johannesburg-s.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:JHB MARS Rand Club cnr Loveday, commissioner, fox str, stno 1173 004008.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rand_Club",
+   "https://commons.wikimedia.org/wiki/Category:Rand_Club,_Johannesburg"
+  ],
+  "note": "Clubhouse; type Civic is nearest. Reviewer check photos."
+ },
+ {
+  "id": "rhodes-memorial",
+  "name": "Rhodes Memorial",
+  "by": "Herbert Baker",
+  "city": "Cape Town",
+  "cc": "ZA",
+  "year": "1912",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Greek-temple-style memorial of Cape granite on Devil's Peak, reached by 49 steps.",
+  "status": "photo",
+  "commons_category": "Category:Rhodes Memorial",
+  "photos": [
+   {
+    "file": "File:Rhodes Memorial - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cecil Rhodes Memorial.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Rhodes Memorial (11209941775).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhodes_Memorial",
+   "https://commons.wikimedia.org/wiki/Category:Rhodes_Memorial"
+  ],
+  "note": "Contested colonial monument; reviewer decide."
+ },
+ {
+  "id": "pretoria-railway-station",
+  "name": "Pretoria Railway Station",
+  "by": "Herbert Baker",
+  "city": "Pretoria",
+  "cc": "ZA",
+  "year": "1910",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Baker's first public building, replacing an 1892 station; roof restored after a 2001 fire.",
+  "status": "photo",
+  "commons_category": "Category:Pretoria railway station",
+  "photos": [
+   {
+    "file": "File:Railway Station Scheiding Street Pretoria 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Pretoria Railway Station-001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bf.Pretoria.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pretoria_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Pretoria_railway_station"
+  ],
+  "note": "Candidate photos chosen from names; check they show the building."
  }
 ]
