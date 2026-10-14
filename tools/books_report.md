@@ -1,6 +1,6 @@
 # Books report
 
-1102 of 1798 books have a cover.
+1141 of 1888 books have a cover.
 
 | Book | Result |
 |---|---|
@@ -651,139 +651,145 @@
 | Carlo Scarpa: Theory, Design, Projects (Maria Antonietta Crippa) | no result by this author with this title among 10 results |
 | Art and Architecture in the Islamic Tradition: Aesthetics, Politics and Desire in Early Islam (Mohammad Hamdouni Alami) | no result by this author with this title among 1 results |
 | The Search for a Style: Country Life and Architecture 1897–1935 (John Cornforth) | no result by this author with this title among 2 results |
-| Roman Architecture (Frank Sear) | id 565445 |
 | Modernity and Its Other: A Post-Script to Contemporary Architecture (Gevork Hartoonian) | no result by this author with this title among 10 results |
 | The Persistence of the Classical: Essays on Architecture Presented to David Watkin (Frank Salmon) | no result by this author with this title among 2 results |
-| Anatomy of the Architectural Book (André Tavares) | id 14440182 |
-| The Other Tradition of Modern Architecture: The Uncompleted Project (Colin St John Wilson) | id 905565 (loose title match: "The Other Tradition of Modern Architecture") |
-| Housing Problems: Writing and Architecture in Goethe, Walser, Musil, and Kafka (Susan Bernstein) | id 2640335 (loose title match: "Housing Problems: Writing and Architecture in Goethe, Walpole, Freud, and Heidegger (Meridian: Crossing Aesthetics)") |
-| Adolf Loos (Ralf Bock) | id 1049444 |
-| Filipino Style (Rene Javellana) | id 2293762 |
-| Collected Essays in Architectural Criticism (Alan Colquhoun) | id 3049911 |
-| Modernity and the Classical Tradition: Architectural Essays 1980–1987 (Alan Colquhoun) | id 4063449 (loose title match: "Modernity and the Classical Tradition") |
 | Architecture in Context: Fitting New Buildings with Old (Brent C. Brolin) | no result by this author with this title among 10 results |
-| Neoclassical Architecture in Greece (Manos Biris, Maro Kardamitsi-Adami) | id 1650089 |
 | Architecture in Existing Fabric: Planning, Design, Building (Johannes Cramer, Stefan Breitling) | no result by this author with this title among 2 results |
 | Architecture of Migration: The Dadaab Refugee Camps and Humanitarian Settlement (Anooradha Iyer Siddiqi) | no result by this author with this title among 7 results |
-| The History of History in American Schools of Architecture, 1865–1975 (Gwendolyn Wright, Janet Parks) | id 924278 (loose title match: "The history of history in American schools of architecture, 1865-1975") |
 | The Topkapı Scroll: Geometry and Ornament in Islamic Architecture (Gülru Necipoğlu) | no result by this author with this title among 1 results |
 | Rise of the Modern Hospital: An Architectural History of Health and Healing, 1870–1940 (Jeanne Kisacky) | no result by this author with this title among 1 results |
-| Now I Sit Me Down: From Klismos to Plastic Chair (Witold Rybczynski) | id 8861559 |
 | Manhattan Atmospheres: Architecture, the Interior Environment, and Urban Crisis (David Gissen) | no result by this author with this title among 1 results |
 | Lancelot 'Capability' Brown, 1716–1783: The Omnipotent Magician (Jane Brown) | no result by this author with this title among 1 results |
 | Exit to Tomorrow: World's Fair Architecture, Design, Fashion 1933–2005 (Andrew Garn) | no result by this author with this title among 1 results |
 | The Built, the Unbuilt and the Unbuildable: In Pursuit of Architectural Meaning (Robert Harbison) | 1 matching results, none with a cover |
 | Thirteen Ways: Theoretical Investigations in Architecture (Robert Harbison) | no result by this author with this title among 10 results |
 | Key Contemporary Buildings: Plans, Sections and Elevations (Rob Gregory) | no result by this author with this title among 2 results |
-| The Great Perspectivists (Gavin Stamp) | olid OL16271964M |
-| The Palladians (John Harris) | id 8519170 |
-| Key Buildings of the Twentieth Century: Plans, Sections and Elevations (Richard Weston) | id 2055572 (loose title match: "PLANS, SECTIONS AND ELEVATIONS: KEY BUILDINGS OF THE TWENTIETH CENTURY") |
-| Artists' Impressions in Architectural Design (Bob Giddings, Ian Rowe) | id 1224931 |
-| The Making of the Royal Pavilion, Brighton (John Morley) | id 651144 |
-| Digital Dreams: Architecture and the New Alchemic Technologies (Neil Spiller) | id 2103953 |
 | Ground-Up City: Play as a Design Tool (Liane Lefaivre) | no result by this author with this title among 2 results |
 | Slavery in the City: Architecture and Landscapes of Urban Slavery in North America (Clifton Ellis, Rebecca Ginsburg) | no result by this author with this title among 10 results |
-| Public Places – Urban Spaces: The Dimensions of Urban Design (Matthew Carmona, Tim Heath, Taner Oc, Steve Tiesdell) | id 493405 (loose title match: "Public places-urban spaces") |
 | Of States and Cities: The Partitioning of Urban Space (Peter Marcuse, Ronald van Kempen) | no result by this author with this title among 15 results |
-| Time-Saver Standards for Urban Design (Donald Watson, Alan Plattus, Robert Shibley) | id 55845 |
-| The Architectural Heritage of the Malay World: The Traditional House (Mohamad Tajuddin Mohamad Rasdi) | id 3713384 (loose title match: "The architectural heritage of the Malay world") |
-| Java Style (Peter Schoppert) | id 315702 |
-| Vernacular Architecture (Henry Glassie) | id 148352 (loose title match: "Vernacular Architecture (Material Culture)") |
-| Perspectives in Vernacular Architecture, III (Thomas Carter, Bernard L. Herman) | id 14584439 (loose title match: "Perspectives in Vernacular Architecture, III (Perspectives in Vernacular Architecture)") |
-| Perspectives in Vernacular Architecture, IV (Thomas Carter, Bernard L. Herman) | id 13016414 (loose title match: "Perspectives in Vernacular Architecture, IV (Perspectives in Vernacular Architecture)") |
-| Traditional Architecture of Thatta (Yasmeen Lari) | id 12746457 |
 | American Adobes: Rural Houses of Northern New Mexico (Beverley Spears) | no result by this author with this title among 2 results |
 | Homeplace: The Social Use and Meaning of the Folk Dwelling in Southwestern North Carolina (Michael Ann Williams) | no result by this author with this title among 14 results |
-| Himalayan Architecture (Ronald M. Bernier) | id 637533 |
-| Kentucky Folk Architecture (William Lynwood Montell, Michael Lynn Morse) | id 4448496 |
-| England's Thousand Best Churches (Simon Jenkins) | id 452280 |
-| George Devey, Architect, 1820–1886 (Jill Allibone) | id 3985834 (loose title match: "George Devey architect, 1820-1886") |
-| A Visual Dictionary of Chinese Architecture (Qinghua Guo) | id 923483 |
-| House Decoration in Nubia (Marian Wenzel) | id 5402385 |
-| Houses of the Welsh Countryside (Peter Smith) | id 8369961 |
-| The French Farmhouse (Elsie Burch Donald) | id 4738362 |
-| Housing in Medieval and Post-Medieval Greece (Eleftherios Sigalos) | id 4266752 |
 | Shelter in Saudi Arabia (Kaizer Talib) | 1 matching results, none with a cover |
 | Sir Edwin Lutyens: Country Houses (Daniel O'Neill) | 1 matching results, none with a cover |
-| Art of Building in Yemen (Fernando Varanda) | id 4327228 |
 | Indigenous Architecture in Borneo: Traditional Patterns and New Developments (Borneo Research Council) | no result by this author with this title among 2 results |
 | Arabic-Islamic Cities: Building and Planning Principles (Besim S. Hakim) | no result by this author with this title among 8 results |
-| African Traditional Architecture: A Study of the Housing and Settlement Patterns of Rural Africa North of the Equator (Kaj Blegvad Andersen) | id 13861998 (loose title match: "African traditional architecture") |
-| Memoirs Engraved in Stone (Diala Khasawneh) | id 13527930 |
-| Traditional Domestic Architecture of the Arab Region (Friedrich Ragette) | id 2259174 |
 | Irish Countryside Buildings: Everyday Architecture in the Rural Landscape (Patrick Shaffrey, Maura Shaffrey) | no result by this author with this title among 2 results |
-| Historic Farm Buildings (Jeremy Lake) | id 13088742 |
 | Families and Farmhouses in Nineteenth-Century America: Vernacular Design and Social Change (Sally McMurry) | no result by this author with this title among 2 results |
 | Hausa Architecture (J. C. Moughtin) | 2 matching results, none with a cover |
-| Architecture 70/80 in Switzerland (Werner Blaser) | isbn 3764312238 |
-| China's Sacred Sites (Shun-xun Nan) | id 2680998 |
-| The Architecture of Life and Death in Borneo (Robert L. Winzeler) | id 1567769 |
-| Nubian Architecture (Omar M. El-Hakim) | id 13231056 |
-| English Farmhouses (R. J. Brown) | id 1345772 |
-| Houses (R. W. Brunskill) | id 11647833 |
-| House Home Family: Living and Being Chinese (Ronald G. Knapp, Kai-Yin Lo) | id 1567935 |
-| Scottish Architecture (Miles Glendinning) | id 316143 |
-| Vernacular Mud Brick Architecture in the Dakhleh Oasis, Egypt (Wolfgang Schijns) | id 10704519 (loose title match: "Vernacular mud brick architecture in the Dakhleh Oasis, Egypt and the design of the Dakhleh Training and Archaeological Conservation Centre") |
-| The Art of Japanese Architecture (David Young, Michiko Young) | id 1519499 (loose title match: "Art of Japanese Architecture") |
-| The Wooden Architecture of Russia (A. V. Opolovnikov, E. V. Opolovnikova) | id 8490026 |
 | The Chesapeake House: Architectural Investigation by Colonial Williamsburg (Cary Carson, Carl R. Lounsbury) | no result by this author with this title among 10 results |
-| Homes in Cold Places (Alan James) | id 8351024 |
-| Homes in Hot Places (Alan James) | id 8268770 |
-| Chinese Vernacular Dwellings (Deqi Shan) | id 12950889 |
-| John Nash and the Village Picturesque (Nigel Temple) | id 4373425 |
 | "Portuguese" Style and Luso-African Identity: Precolonial Senegambia, Sixteenth–Nineteenth Centuries (Peter Mark) | no result by this author with this title among 3 results |
-| Encyclopedia of Vernacular Architecture of the World (Paul Oliver) | id 8461410 |
 | Sustainable Architecture and Urbanism: Design, Technology, Tools (Dominique Gauzin-Müller) | no result by this author with this title among 10 results |
-| The Philosophy of Sustainable Design (Jason F. McLennan) | id 740781 |
-| Ecological Architecture: A Critical History (James Steele) | id 317032 |
 | The Selective Environment: An Approach to Environmentally Responsive Architecture (Dean Hawkes) | no result by this author with this title among 10 results |
-| Green Building Products (Alex Wilson, Mark Piepkorn) | id 2670698 |
-| The HOK Guidebook to Sustainable Design (Sandra Mendler, William Odell) | id 306373 |
 | Toward a New Regionalism: Environmental Architecture in the Pacific Northwest (David E. Miller) | no result by this author with this title among 19 results |
 | Ten Shades of Green: Architecture and the Natural World (Peter Buchanan) | no result by this author with this title among 3 results |
 | Green Architecture: Advanced Technologies and Materials (Osman Attmann) | no result by this author with this title among 10 results |
 | The Green House: New Directions in Sustainable Architecture (Alanna Stang, Christopher Hawthorne) | no result by this author with this title among 11 results |
-| Passive Solar Architecture Pocket Reference (David Thorpe) | id 8880157 |
 | Last Futures: Nature, Technology and the End of Architecture (Douglas Murphy) | no result by this author with this title among 15 results |
 | Sustainability at the Cutting Edge: Emerging Technologies for Low Energy Buildings (Peter F. Smith) | no result by this author with this title among 5 results |
-| Design of Straw Bale Buildings: The State of the Art (Bruce King) | id 742185 |
 | How to Thrive in the Next Economy: Designing Tomorrow's World Today (John Thackara) | no result by this author with this title among 1 results |
-| Adapting Cities to Sea Level Rise: Green and Gray Strategies (Stefan Al) | id 8817490 (loose title match: "Adapting Cities to Sea Level Rise") |
 | Resilient Cities: Responding to Peak Oil and Climate Change (Peter Newman, Timothy Beatley, Heather Boyer) | no result by this author with this title among 12 results |
 | Sustainable Architecture in Vorarlberg: Energy Efficiency and Ecological Design (Ulrich Dangel) | no result by this author with this title among 1 results |
-| The Green Guide to Specification: An Environmental Profiling System for Building Materials and Components (Jane Anderson, David Shiers) | id 1329188 |
-| The Japanese Influence in America (Clay Lancaster) | id 14992877 |
 | House and Home in Modern Japan: Architecture, Domestic Space, and Bourgeois Culture, 1880–1930 (Jordan Sand) | no result by this author with this title among 3 results |
 | The Japanese House: Architecture and Life After 1945 (Pippo Ciorra, Florence Ostende) | no result by this author with this title among 10 results |
-| Studies in Persian Art and Architecture (Bernard O'Kane) | id 1054599 |
-| The Transformation of Islamic Art During the Sunni Revival (Yasser Tabbaa) | id 5313269 |
-| Islamic Art and Architecture (Robert Hillenbrand) | id 316082 |
 | Post-Islamic Classicism: A Visual Essay on the Architecture of Mohamed Makiya (Kanan Makiya) | no result by this author with this title among 3 results |
-| Moorish Architecture in Andalusia (Marianne Barrucand, Achim Bednorz) | id 13872240 |
-| A Gazetteer of Buildings in Muslim Palestine (Andrew Petersen) | id 128478 |
-| The Great Mosque of Isfahan (Oleg Grabar) | id 8499179 |
-| Islamic Spain (Godfrey Goodwin) | id 11656859 |
-| Indo-Islamic Architecture (Ziyaud-Din A. Desai) | id 8192335 |
 | Early Islamic Architecture of the Desert: A Bedouin Station in Eastern Jordan (S. W. Helms) | no result by this author with this title among 2 results |
 | Sinan: Architect of Suleyman the Magnificent (Hans G. Egli) | no result by this author with this title among 10 results |
 | The Skyscraper and the City: The Woolworth Building and the Making of Modern New York (Gail Fenske) | no result by this author with this title among 6 results |
-| Gothic Art in Ireland, 1169–1550: Enduring Vitality (Colum Hourihane) | isbn 0300094353 (loose title match: "Gothic art in Ireland, 1169-1550") |
-| Abbot Suger and Saint-Denis: A Symposium (Paula Lieber Gerson) | id 13764294 (loose title match: "Abbot Suger and Saint-Denis") |
 | Gothic Arches, Latin Crosses: Anti-Catholicism and American Church Designs in the Nineteenth Century (Ryan K. Smith) | no result by this author with this title among 1 results |
-| Bombay Gothic (Christopher W. London) | id 1046284 |
-| The Construction of Lombard and Gothic Vaults (Arthur Kingsley Porter) | id 11315242 |
-| Notre-Dame de Paris (Alain Erlande-Brandenburg) | id 596063 |
-| In Search of the Unknown in Medieval Architecture (John James) | id 13521285 |
 | Gothic Architecture (Louis Grodecki) | 2 matching results, none with a cover |
-| Chartres (Gordon Strachan) | id 653835 |
-| Architecture and Sculpture in Ireland 1150–1350 (Roger Stalley) | id 8368171 (loose title match: "Architecture and sculpture in Ireland, 1150-1350") |
-| Experiments in Gothic Structure (Robert Mark) | id 4269867 |
-| The Year 1300 and the Creation of a New European Architecture (Alexandra Gajewski, Zoë Opačić) | id 13631984 |
 | Architecture and Language: Constructing Identity in European Architecture c.1000–c.1650 (Georgia Clarke, Paul Crossley) | no result by this author with this title among 13 results |
 | Chartres: Sources and Literary Interpretation (Jan van der Meulen) | no result by this author with this title among 20 results |
 | Fan Vaulting: A Study of Form, Technology, and Meaning (Walter C. Leedy) | no result by this author with this title among 3 results |
-| Artistic Integration in Gothic Buildings (Virginia Chieffo Raguin, Kathryn Brush, Peter Draper) | id 3838992 |
-| High Victorian Gothic: A Study in Associationism (George L. Hersey) | id 9762891 (loose title match: "High Victorian Gothic") |
+| Toledo Cathedral: Building Histories in Medieval Castile (Tom Nickson) | no result by this author with this title among 9 results |
+| Medieval Architecture, Medieval Learning: Builders and Masters in the Age of Romanesque and Gothic (Charles M. Radding, William W. Clark) | no result by this author with this title among 1 results |
+| Ruskin and Viollet-le-Duc: Englishness and Frenchness in the Appreciation of Gothic Architecture (Nikolaus Pevsner) | no result by this author with this title among 1 results |
+| Classical Architecture: A Complete Handbook (Robert Adam) | no result by this author with this title among 19 results |
+| The Lost Meaning of Classical Architecture: Speculations on Ornament from Vitruvius to Venturi (George L. Hersey) | no result by this author with this title among 1 results |
+| The Renaissance Palace in Florence: Magnificence and Splendour in Fifteenth-Century Italy (James R. Lindow) | no result by this author with this title among 2 results |
+| Architecture of the Renaissance: From Brunelleschi to Palladio (Leonardo Benevolo) | no result by this author with this title among 11 results |
+| Palladio's Venice: Architecture and Society in a Renaissance Republic (Tracy E. Cooper) | id 162452 |
+| Formal Design in Renaissance Architecture: From Brunelleschi to Palladio (Michele Furnari) | no result by this author with this title among 1 results |
+| The Theatres of Inigo Jones and John Webb (John Orrell) | id 8726894 |
+| Italian Architecture of the 16th Century (Colin Rowe, Leon Satkowski) | id 812716 |
+| The Character of Renaissance Architecture (Charles Herbert Moore) | id 5574914 (loose title match: "Character of renaissance architecture") |
+| Architecture in Italy 1500–1600 (Wolfgang Lotz) | id 160160 (loose title match: "Architecture in Italy, 1500-1600") |
+| Ancient English Houses, 1240–1612 (Christopher Simon Sykes) | id 9902385 (loose title match: "Ancient English houses, 1240-1612") |
+| The Scottish Chateau: The Country House of Renaissance Scotland (Charles McKean) | no result by this author with this title among 3 results |
+| Jacopo Sansovino: Architecture and Patronage in Renaissance Venice (Deborah Howard) | no result by this author with this title among 11 results |
+| Key Monuments of the Italian Renaissance (Laurie Schneider Adams) | 1 matching results, none with a cover |
+| The Making of the English Country House, 1500–1640 (Malcolm Airs) | 1 matching results, none with a cover |
+| Paper Palaces: The Rise of the Renaissance Architectural Treatise (Vaughan Hart, Peter Hicks) | no result by this author with this title among 11 results |
+| The Ten Books of Architecture: The 1755 Leoni Edition (Leon Battista Alberti) | id 11208130 (loose title match: "The architecture of Leon Batista Alberti. In ten books. Of painting. In three books. And of statuary. In one book. Translated into Italian by Cosimo Bartoli. And into English by James Leoni, ... Illustrated with seventy-five copper-plates, engraved by Mr. Picart. In one volume") |
+| The Palladian Landscape: Geographical Change and Its Cultural Representations in Sixteenth-Century Italy (Denis Cosgrove) | no result by this author with this title among 1 results |
+| Building: 3000 Years of Design, Engineering and Construction (Bill Addis) | isbn 0714841463 |
+| Innovative Surface Structures: Technology and Applications (Martin Bechthold) | id 2414934 (loose title match: "Innovative surface structures") |
+| The Architecture of the Classical Interior (Steven W. Semes) | id 251706 |
+| The Genius of Robert Adam: His Interiors (Eileen Harris) | id 161118 |
+| Frank Lloyd Wright Interiors and Furniture (Thomas A. Heinz) | isbn 9781854902955 (loose title match: "Frank Lloyd Wright") |
+| John Soane, Architect: Master of Space and Light (Margaret Richardson, MaryAnne Stevens) | no result by this author with this title among 8 results |
+| Domesticity and Consumer Culture in Iran: Interior Revolutions of the Modern Era (Pamela Karimi) | no result by this author with this title among 2 results |
+| Neoclassicism in the North: Swedish Furniture and Interiors 1770–1850 (Håkan Groth) | no result by this author with this title among 6 results |
+| Domestic Space: Reading the Nineteenth-Century Interior (Inga Bryden, Janet Floyd) | no result by this author with this title among 10 results |
+| Living Under the Crescent Moon: Domestic Culture in the Arab World (Mateo Kries, Alexander von Vegesack) | no result by this author with this title among 1 results |
+| American Vernacular Interior Architecture, 1870–1940 (Jan Jennings, Herbert Gottfried) | id 4004452 (loose title match: "American vernacular interior architecture, 1870-1940") |
+| The De Stijl Environment (Nancy J. Troy) | id 12847695 |
+| Peter Smithson: Conversations with Students (Peter Smithson) | no result by this author with this title among 16 results |
+| Reyner Banham Revisited (Richard J. Williams) | id 14794088 |
+| Unité d'Habitation, Marseilles (David Jenkins) | id 8494264 |
+| Josef Frank: Life and Work (Christopher Long) | no result by this author with this title among 15 results |
+| Berthold Lubetkin (John Allan) | id 2059132 |
+| The Minimum Dwelling (Karel Teige) | id 150814 |
+| Asmara: Africa's Secret Modernist City (Edward Denison, Guang Yu Ren, Naigzy Gebremedhin) | no result by this author with this title among 12 results |
+| A New History of Modern Architecture (Colin Davies) | 1 matching results, none with a cover |
+| Forgotten Modern: California Houses 1940–1970 (Alan Hess) | no result by this author with this title among 12 results |
+| Googie: Fifties Coffee Shop Architecture (Alan Hess) | no result by this author with this title among 10 results |
+| Scharoun (Eberhard Syring, Jörg C. Kirschenmann) | id 2244808 |
+| Inventing American Modernism: Joseph Hudnut, Walter Gropius, and the Bauhaus Legacy at Harvard (Jill E. Pearlman) | no result by this author with this title among 6 results |
+| Britain: Modern Architectures in History (Alan Powers) | isbn 9781861892812 |
+| The Modern Movement in Architecture: Selections from the DOCOMOMO Registers (Dennis Sharp, Catherine Cooke) | no result by this author with this title among 11 results |
+| Form Follows Libido: Architecture and Richard Neutra in a Psychoanalytic Culture (Sylvia Lavin) | no result by this author with this title among 1 results |
+| The Struggle for Modernism: Architecture, Landscape Architecture, and City Planning at Harvard (Anthony Alofsin) | no result by this author with this title among 10 results |
+| MiMo: Miami Modern Revealed (Eric P. Nash, Randall C. Robinson) | no result by this author with this title among 11 results |
+| John McAndrew's Modernist Vision: The Wellesley College Years (Mardges Bacon) | no result by this author with this title among 1 results |
+| Gropius: The Man Who Built the Bauhaus (Fiona MacCarthy) | no result by this author with this title among 12 results |
+| Improvised Cities: Architecture, Urbanization, and Innovation in Peru (Helen Gyger) | no result by this author with this title among 3 results |
+| Dream Houses: The Edwardian Ideal (Roderick Gradidge) | id 8484159 |
+| The Forbidden City (Gilles Béguin, Dominique Morel) | id 596245 |
+| The Prince, the Architects and New Wave Monarchy (Charles Jencks) | isbn 9780847810109 |
+| Why Architecture Matters: Lessons from Chicago (Blair Kamin) | id 141495 |
+| On Span and Space: Exploring Structures in Architecture (Bjørn N. Sandaker) | no result by this author with this title among 4 results |
+| Summerson & Hitchcock: Centenary Essays on Architectural Historiography (Frank Salmon) | no result by this author with this title among 1 results |
+| Arthur Erickson: Critical Works (Nicholas Olsberg, Ricardo L. Castro) | no result by this author with this title among 10 results |
+| Architecture and Its Interpretation: A Study of Expressive Systems in Architecture (Juan Pablo Bonta) | no result by this author with this title among 5 results |
+| Writing About Architecture: Mastering the Language of Buildings and Cities (Alexandra Lange) | no result by this author with this title among 1 results |
+| Nothing Less Than Literal: Architecture After Minimalism (Mark Linder) | no result by this author with this title among 2 results |
+| The Architecture of Bart Prince: A Pragmatics of Place (Christopher Curtis Mead) | id 1195764 |
+| Architecture of the Everyday (Steven Harris, Deborah Berke) | id 812533 |
+| Purcell & Elmslie: Prairie Progressive Architects (David Gebhard) | 2 matching results, none with a cover |
+| Proportional Systems in the History of Architecture (Maarten Delbeke, Samuel Huigen) | id 9162256 |
+| Eileen Gray (Caroline Constant, Wilfried Wang) | id 453796 |
+| Talking to Architects: Ten Lectures (Colin Ward) | no result by this author with this title among 3 results |
+| Building-Art: Modern Architecture Under Cultural Construction (Joseph Masheck) | no result by this author with this title among 11 results |
+| Visions of Wright (Farrell Grehan) | id 619369 |
+| The Early Louis Sullivan Building Photographs (Crombie Taylor) | id 1707644 |
+| The Chateaux of France (Marcus Binney) | id 13230066 |
+| Walter Burley Griffin in America (Walter Burley Griffin) | id 1151243 |
+| The Synagogue (H. A. Meek) | id 453464 |
+| Photography, Modern Architecture and Design: The Alexandre Georges Archives (Antoine Baudin) | no result by this author with this title among 1 results |
+| Tropical Architecture: Sustainable and Humane Building in Africa, Latin America, and South-East Asia (Wolfgang Lauber) | no result by this author with this title among 11 results |
+| Follies and Pleasure Pavilions (George Mott, Sally Sample Aall) | id 12960406 |
+| American Houses: A Guide to the Architecture of the Home (Philip Langdon) | no result by this author with this title among 16 results |
+| Architecture and Its Image: Four Centuries of Architectural Representation (Eve Blau, Edward Kaufman) | no result by this author with this title among 1 results |
+| The Chinese City (Weiping Wu, Piper Gaubatz) | id 12595723 |
+| Miami Modern Metropolis: Paradise and Paradox in Midcentury Architecture and Planning (Allan T. Shulman) | id 7696156 |
+| Otto Wagner, Adolf Loos, and the Road to Modern Architecture (Werner Oechslin) | id 350249 |
+| Writing the Modern City: Literature, Architecture, Modernity (Sarah Edwards, Jonathan Charley) | no result by this author with this title among 11 results |
+| Cognitive Architecture: From Biopolitics to Noopolitics (Deborah Hauptmann, Warren Neidich) | no result by this author with this title among 11 results |
+| Socrates' Ancestor: An Essay on Architectural Beginnings (Indra Kagis McEwen) | no result by this author with this title among 2 results |
+| Gnostic Architecture (Eric Owen Moss) | id 841272 |
+| Prospects for an Ethics of Architecture (William M. Taylor, Michael P. Levine) | id 7612405 |
+| The Good Life: A Guided Visit to the Houses of Modernity (Iñaki Ábalos) | no result by this author with this title among 13 results |
+| On the Ruins of Babel: Architectural Metaphor in German Thought (Daniel L. Purdy) | no result by this author with this title among 2 results |
 
 ## No cover yet
 
@@ -1485,3 +1491,54 @@ Add an ISBN, an Open Library work id or a cover id for these in tools/book_choic
 - architecture-and-language-constructing-identity-in-european: Architecture and Language: Constructing Identity in European Architecture c.1000–c.1650 (Georgia Clarke, Paul Crossley)
 - chartres-sources-and-literary-interpretation: Chartres: Sources and Literary Interpretation (Jan van der Meulen)
 - fan-vaulting-a-study-of-form-technology-and-meaning: Fan Vaulting: A Study of Form, Technology, and Meaning (Walter C. Leedy)
+- toledo-cathedral-building-histories-in-medieval-castile: Toledo Cathedral: Building Histories in Medieval Castile (Tom Nickson)
+- medieval-architecture-medieval-learning-builders-and-masters: Medieval Architecture, Medieval Learning: Builders and Masters in the Age of Romanesque and Gothic (Charles M. Radding, William W. Clark)
+- ruskin-and-viollet-le-duc-englishness-and-frenchness-in-the: Ruskin and Viollet-le-Duc: Englishness and Frenchness in the Appreciation of Gothic Architecture (Nikolaus Pevsner)
+- classical-architecture-a-complete-handbook: Classical Architecture: A Complete Handbook (Robert Adam)
+- the-lost-meaning-of-classical-architecture-speculations-on-o: The Lost Meaning of Classical Architecture: Speculations on Ornament from Vitruvius to Venturi (George L. Hersey)
+- the-renaissance-palace-in-florence-magnificence-and-splendou: The Renaissance Palace in Florence: Magnificence and Splendour in Fifteenth-Century Italy (James R. Lindow)
+- architecture-of-the-renaissance-from-brunelleschi-to-palladi: Architecture of the Renaissance: From Brunelleschi to Palladio (Leonardo Benevolo)
+- formal-design-in-renaissance-architecture-from-brunelleschi: Formal Design in Renaissance Architecture: From Brunelleschi to Palladio (Michele Furnari)
+- the-scottish-chateau-the-country-house-of-renaissance-scotla: The Scottish Chateau: The Country House of Renaissance Scotland (Charles McKean)
+- jacopo-sansovino-architecture-and-patronage-in-renaissance-v: Jacopo Sansovino: Architecture and Patronage in Renaissance Venice (Deborah Howard)
+- key-monuments-of-the-italian-renaissance: Key Monuments of the Italian Renaissance (Laurie Schneider Adams)
+- the-making-of-the-english-country-house-15001640: The Making of the English Country House, 1500–1640 (Malcolm Airs)
+- paper-palaces-the-rise-of-the-renaissance-architectural-trea: Paper Palaces: The Rise of the Renaissance Architectural Treatise (Vaughan Hart, Peter Hicks)
+- the-palladian-landscape-geographical-change-and-its-cultural: The Palladian Landscape: Geographical Change and Its Cultural Representations in Sixteenth-Century Italy (Denis Cosgrove)
+- john-soane-architect-master-of-space-and-light: John Soane, Architect: Master of Space and Light (Margaret Richardson, MaryAnne Stevens)
+- domesticity-and-consumer-culture-in-iran-interior-revolution: Domesticity and Consumer Culture in Iran: Interior Revolutions of the Modern Era (Pamela Karimi)
+- neoclassicism-in-the-north-swedish-furniture-and-interiors-1: Neoclassicism in the North: Swedish Furniture and Interiors 1770–1850 (Håkan Groth)
+- domestic-space-reading-the-nineteenth-century-interior: Domestic Space: Reading the Nineteenth-Century Interior (Inga Bryden, Janet Floyd)
+- living-under-the-crescent-moon-domestic-culture-in-the-arab: Living Under the Crescent Moon: Domestic Culture in the Arab World (Mateo Kries, Alexander von Vegesack)
+- peter-smithson-conversations-with-students: Peter Smithson: Conversations with Students (Peter Smithson)
+- josef-frank-life-and-work: Josef Frank: Life and Work (Christopher Long)
+- asmara-africa-s-secret-modernist-city: Asmara: Africa's Secret Modernist City (Edward Denison, Guang Yu Ren, Naigzy Gebremedhin)
+- a-new-history-of-modern-architecture: A New History of Modern Architecture (Colin Davies)
+- forgotten-modern-california-houses-19401970: Forgotten Modern: California Houses 1940–1970 (Alan Hess)
+- googie-fifties-coffee-shop-architecture: Googie: Fifties Coffee Shop Architecture (Alan Hess)
+- inventing-american-modernism-joseph-hudnut-walter-gropius-an: Inventing American Modernism: Joseph Hudnut, Walter Gropius, and the Bauhaus Legacy at Harvard (Jill E. Pearlman)
+- the-modern-movement-in-architecture-selections-from-the-doco: The Modern Movement in Architecture: Selections from the DOCOMOMO Registers (Dennis Sharp, Catherine Cooke)
+- form-follows-libido-architecture-and-richard-neutra-in-a-psy: Form Follows Libido: Architecture and Richard Neutra in a Psychoanalytic Culture (Sylvia Lavin)
+- the-struggle-for-modernism-architecture-landscape-architectu: The Struggle for Modernism: Architecture, Landscape Architecture, and City Planning at Harvard (Anthony Alofsin)
+- mimo-miami-modern-revealed: MiMo: Miami Modern Revealed (Eric P. Nash, Randall C. Robinson)
+- john-mcandrew-s-modernist-vision-the-wellesley-college-years: John McAndrew's Modernist Vision: The Wellesley College Years (Mardges Bacon)
+- gropius-the-man-who-built-the-bauhaus: Gropius: The Man Who Built the Bauhaus (Fiona MacCarthy)
+- improvised-cities-architecture-urbanization-and-innovation-i: Improvised Cities: Architecture, Urbanization, and Innovation in Peru (Helen Gyger)
+- on-span-and-space-exploring-structures-in-architecture: On Span and Space: Exploring Structures in Architecture (Bjørn N. Sandaker)
+- summerson-hitchcock-centenary-essays-on-architectural-histor: Summerson & Hitchcock: Centenary Essays on Architectural Historiography (Frank Salmon)
+- arthur-erickson-critical-works: Arthur Erickson: Critical Works (Nicholas Olsberg, Ricardo L. Castro)
+- architecture-and-its-interpretation-a-study-of-expressive-sy: Architecture and Its Interpretation: A Study of Expressive Systems in Architecture (Juan Pablo Bonta)
+- writing-about-architecture-mastering-the-language-of-buildin: Writing About Architecture: Mastering the Language of Buildings and Cities (Alexandra Lange)
+- nothing-less-than-literal-architecture-after-minimalism: Nothing Less Than Literal: Architecture After Minimalism (Mark Linder)
+- purcell-elmslie-prairie-progressive-architects: Purcell & Elmslie: Prairie Progressive Architects (David Gebhard)
+- talking-to-architects-ten-lectures: Talking to Architects: Ten Lectures (Colin Ward)
+- building-art-modern-architecture-under-cultural-construction: Building-Art: Modern Architecture Under Cultural Construction (Joseph Masheck)
+- photography-modern-architecture-and-design-the-alexandre-geo: Photography, Modern Architecture and Design: The Alexandre Georges Archives (Antoine Baudin)
+- tropical-architecture-sustainable-and-humane-building-in-afr: Tropical Architecture: Sustainable and Humane Building in Africa, Latin America, and South-East Asia (Wolfgang Lauber)
+- american-houses-a-guide-to-the-architecture-of-the-home: American Houses: A Guide to the Architecture of the Home (Philip Langdon)
+- architecture-and-its-image-four-centuries-of-architectural-r: Architecture and Its Image: Four Centuries of Architectural Representation (Eve Blau, Edward Kaufman)
+- writing-the-modern-city-literature-architecture-modernity: Writing the Modern City: Literature, Architecture, Modernity (Sarah Edwards, Jonathan Charley)
+- cognitive-architecture-from-biopolitics-to-noopolitics: Cognitive Architecture: From Biopolitics to Noopolitics (Deborah Hauptmann, Warren Neidich)
+- socrates-ancestor-an-essay-on-architectural-beginnings: Socrates' Ancestor: An Essay on Architectural Beginnings (Indra Kagis McEwen)
+- the-good-life-a-guided-visit-to-the-houses-of-modernity: The Good Life: A Guided Visit to the Houses of Modernity (Iñaki Ábalos)
+- on-the-ruins-of-babel-architectural-metaphor-in-german-thoug: On the Ruins of Babel: Architectural Metaphor in German Thought (Daniel L. Purdy)
