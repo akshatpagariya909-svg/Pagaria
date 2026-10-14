@@ -823,5 +823,420 @@
    "https://commons.wikimedia.org/wiki/Category:Hanoi_Opera_House"
   ],
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "landmark-81",
+  "name": "Landmark 81",
+  "by": "Atkins",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "2018",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Neo-futurist tower partly inspired by a bundle of bamboo sticks, a symbol of strength in Vietnamese culture.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Landmark 81",
+  "photos": [
+   {
+    "file": "File:Landmark 81 (1).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Landmark 81 (3).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Landmark 81 (32099609868) (4to3).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Landmark_81",
+   "https://commons.wikimedia.org/wiki/Category:Landmark_81"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "vietnam-museum-of-ethnology",
+  "name": "Vietnam Museum of Ethnology",
+  "by": "Ha Duc Linh (exhibition building); Véronique Dollfus (interiors)",
+  "city": "Hanoi",
+  "cc": "VN",
+  "year": "1997",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Courtyard"
+  ],
+  "features": "Main exhibition building shaped like a Dong Son drum; the second building, opened 2013, is kite-shaped.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Vietnam Museum of Ethnology",
+  "photos": [
+   {
+    "file": "File:Exterior view - Vietnam Museum of Ethnology - Hanoi, Vietnam - DSC03432.JPG",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Trống Đồng building, Vietnam Museum of Ethnology.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vietnam_Museum_of_Ethnology",
+   "https://commons.wikimedia.org/wiki/Category:Vietnam_Museum_of_Ethnology"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "gelora-bung-karno-stadium",
+  "name": "Gelora Bung Karno Stadium",
+  "by": "Friedrich Silaban",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "1962",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "Large ring-shaped roof facade (temu gelang) that shades spectators; the world's first circular-roof football stadium.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Gelora Bung Karno Stadium",
+  "photos": [
+   {
+    "file": "File:BungKarno-indonoob.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Gelora Bung Karno - 2018 Asian Para Games.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Senja di Gelora Bung Karno.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gelora_Bung_Karno_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Gelora_Bung_Karno_Stadium"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "hotel-indonesia",
+  "name": "Hotel Indonesia",
+  "by": "Abel Sorensen and Wendy Becker",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "1962",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Free plan",
+   "Detail"
+  ],
+  "features": "International Style hotel of a 16-storey Ramayana Wing and an 8-storey Ganesha Wing.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Hotel Indonesia",
+  "photos": [
+   {
+    "file": "File:Sisi belakang Hotel Indonesia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Malam Tanpa Kendaraan 2012-13 - Hotel Indonesia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Indonesia",
+   "https://commons.wikimedia.org/wiki/Category:Hotel_Indonesia"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "gedung-sate",
+  "name": "Gedung Sate",
+  "by": "J. Gerber",
+  "city": "Bandung",
+  "cc": "ID",
+  "year": "1924",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Neoclassical with Hindu-Buddhist motifs; central pinnacle shaped like a satay skewer with six spheres.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Gedung Sate",
+  "photos": [
+   {
+    "file": "File:Gedung Sate Oktober 2024 - Rahmatdenas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gedung Sate (27363090551).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gedung_Sate",
+   "https://commons.wikimedia.org/wiki/Category:Gedung_Sate"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "bandung-institute-of-technology",
+  "name": "Bandung Institute of Technology (Aula Barat and Aula Timur)",
+  "by": "Henri Maclaine Pont",
+  "city": "Bandung",
+  "cc": "ID",
+  "year": "1920",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Earth & local material"
+  ],
+  "features": "Designed 1918, opened 1920; blends Indonesian vernacular architecture with modern elements.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Bandung Institute of Technology",
+  "photos": [
+   {
+    "file": "File:A2613-ITB-Aula barat.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:A2613-ITB-Aula timur.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:A2613-ITB-Aula barat 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bandung_Institute_of_Technology",
+   "https://commons.wikimedia.org/wiki/Category:Bandung_Institute_of_Technology"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "savoy-homann-hotel",
+  "name": "Savoy Homann Hotel",
+  "by": "Albert Aalbers",
+  "city": "Bandung",
+  "cc": "ID",
+  "year": "1939",
+  "type": "Hospitality",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Curved, streamlined Art Deco exterior and interior.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Hotel Savoy Homann",
+  "photos": [
+   {
+    "file": "File:Bandung - Hotel Savoy Homann (2025) - img 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bandung - Hotel Savoy Homann (2025) - img 03.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bandung - Hotel Savoy Homann (2025) - img 05.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Savoy_Homann",
+   "https://commons.wikimedia.org/wiki/Category:Hotel_Savoy_Homann"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "lawang-sewu",
+  "name": "Lawang Sewu",
+  "by": "Cosman Citroen (J.F. Klinkhamer and B.J. Ouëndag)",
+  "city": "Semarang",
+  "cc": "ID",
+  "year": "1919",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Circulation"
+  ],
+  "features": "Large stained-glass windows and a grand central staircase; complex completed 1919.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Lawang Sewu",
+  "photos": [
+   {
+    "file": "File:Lawang Sewu in Semarang City.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Lawang Sewu Semarang Indonesia 2.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Lawang sewu (2013).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lawang_Sewu",
+   "https://commons.wikimedia.org/wiki/Category:Lawang_Sewu"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "jakarta-cathedral",
+  "name": "Jakarta Cathedral",
+  "by": "Antonius Dijkmans and Marius Hulswit",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "1901",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Vault",
+   "Detail"
+  ],
+  "features": "Neo-Gothic cruciform plan with three spires, including two 60 m towers at the entrance.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Jakarta Cathedral",
+  "photos": [
+   {
+    "file": "File:Cathedral of Jakarta - exterior (2025) - img 14.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cathedral of Jakarta - exterior (2025) - img 10.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jakarta Cathedral in 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakarta_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Jakarta_Cathedral"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "wisma-46",
+  "name": "Wisma 46",
+  "by": "Zeidler Roberts Partnership and DP Architects",
+  "city": "Jakarta",
+  "cc": "ID",
+  "year": "1996",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Curved, pen-like form covered in square-patterned glass, flanked by hollow square concrete walls.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Wisma 46",
+  "photos": [
+   {
+    "file": "File:Wisma 46 (Januari 2025).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wisma_46",
+   "https://commons.wikimedia.org/wiki/Category:Wisma_46"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  }
 ]
