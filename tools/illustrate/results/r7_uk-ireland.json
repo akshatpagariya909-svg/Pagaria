@@ -1542,5 +1542,397 @@
    "https://commons.wikimedia.org/wiki/Category:Peace_Bridge_(Foyle)"
   ],
   "note": ""
+ },
+ {
+  "id": "aras-an-uachtarain",
+  "name": "Áras an Uachtaráin",
+  "by": "Nathaniel Clements",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1751",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Official residence of the President of Ireland with a garden-front portico said to have inspired the White House.",
+  "status": "photo",
+  "commons_category": "Category:Áras an Uachtaráin",
+  "photos": [
+   {
+    "file": "File:Aras as uachtarain.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Presidential Palace in Dublin - panoramio.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Dublin-14-Praesidentenpalais-2017-gje.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%81ras_an_Uachtar%C3%A1in",
+   "https://commons.wikimedia.org/wiki/Category:Áras_an_Uachtaráin"
+  ],
+  "note": "Completed c.1751-1757; later work by Francis Johnston, Jacob Owen, Decimus Burton."
+ },
+ {
+  "id": "chichester-festival-theatre",
+  "name": "Chichester Festival Theatre",
+  "by": "Philip Powell and Hidalgo Moya",
+  "city": "Chichester",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Grade II* listed Brutalist theatre set in Oaklands Park.",
+  "status": "photo",
+  "commons_category": "Category:Chichester Festival Theatre",
+  "photos": [
+   {
+    "file": "File:Chichester Festival Theatre, Sussex - geograph.org.uk - 1760414.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Chichester Festival Theatre - geograph.org.uk - 2033784.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Chichester Festival Theatre - geograph.org.uk - 2726581.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chichester_Festival_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Chichester_Festival_Theatre"
+  ],
+  "note": "Wikipedia gives no feature description beyond listing and Brutalist category"
+ },
+ {
+  "id": "heron-tower-london",
+  "name": "Heron Tower (110 Bishopsgate)",
+  "by": "Kohn Pedersen Fox",
+  "city": "London",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Double height",
+   "Facade as skin"
+  ],
+  "features": "Office tower with a 70,000-litre fish tank in the lobby and a sky bar and restaurant on floors 38-40.",
+  "status": "photo",
+  "commons_category": "Category:Heron Tower",
+  "photos": [
+   {
+    "file": "File:Bishopsgate Heron Tower City of London England 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Heron Tower from Bishopsgate.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Bishopsgate Heron Tower City of London England 04.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heron_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Heron_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "eden-court-theatre",
+  "name": "Eden Court Theatre",
+  "by": "Law Dunbar Naismith; Page\\Park Architects (2007)",
+  "city": "Inverness",
+  "cc": "GB",
+  "year": "1976",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Facade as skin"
+  ],
+  "features": "1976 theatre that incorporated the Gothic Bishop's Palace; 2007 extension added a second auditorium.",
+  "status": "photo",
+  "commons_category": "Category:Eden Court Theatre",
+  "photos": [
+   {
+    "file": "File:Eden Court Theatre (4860116209).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Eden Court Theatre extension (4860147497).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Eden Court Theatre Inverness Scotland.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eden_Court_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Eden_Court_Theatre"
+  ],
+  "note": "Photos named extension/new may be 2007 work"
+ },
+ {
+  "id": "broadcasting-house-london",
+  "name": "Broadcasting House",
+  "by": "George Val Myer and Raymond McGrath",
+  "city": "London",
+  "cc": "GB",
+  "year": "1932",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Art Deco headquarters of the BBC, Portland stone over a steel frame, with a windowless brick core for studios.",
+  "status": "photo",
+  "commons_category": "Category:Broadcasting House, London",
+  "photos": [
+   {
+    "file": "File:BBC Broadcasting House (4743719598).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:BBC Broadcasting House Portland Place.jpg",
+    "license": "CC BY 2.5"
+   },
+   {
+    "file": "File:BBC Broadcasting House, London, July 2013.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Broadcasting_House",
+   "https://commons.wikimedia.org/wiki/Category:Broadcasting_House,_London"
+  ],
+  "note": "Check category name on Commons; files from Category:Broadcasting House, London; includes new wing in some photos"
+ },
+ {
+  "id": "gorilla-house-london-zoo",
+  "name": "Gorilla House, London Zoo",
+  "by": "Berthold Lubetkin (Tecton)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1933",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "White cylindrical drum in 10 cm reinforced concrete, with a rotating semi-circular top-hung screen.",
+  "status": "photo",
+  "commons_category": "Category:Gorilla House (London Zoo)",
+  "photos": [
+   {
+    "file": "File:Old Gorilla House London Zoo.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gorilla_House",
+   "https://commons.wikimedia.org/wiki/Category:Gorilla_House_(London_Zoo)"
+  ],
+  "note": "Only one clear exterior; EH1357402 file (CC BY-SA 3.0) is titled for chimps breeding colony, unverified"
+ },
+ {
+  "id": "spa-green-estate",
+  "name": "Spa Green Estate",
+  "by": "Berthold Lubetkin (Tecton / Skinner, Bailey & Lubetkin)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1949",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Public housing with egg-crate concrete box-frame construction and aerodynamic wind-roofs.",
+  "status": "photo",
+  "commons_category": "Category:Spa Green Estate",
+  "photos": [
+   {
+    "file": "File:Lubetkin Spa Green from park.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Lubetkin Spa Green Wells balcony facade.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Lubetkin Spa Green Wells wind roof, distant St Paul's.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spa_Green_Estate",
+   "https://commons.wikimedia.org/wiki/Category:Spa_Green_Estate"
+  ],
+  "note": ""
+ },
+ {
+  "id": "cambridge-university-library",
+  "name": "Cambridge University Library",
+  "by": "Giles Gilbert Scott",
+  "city": "Cambridge",
+  "cc": "GB",
+  "year": "1934",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Academic library with a distinctive front-facing tower, resembling Scott's industrial architecture.",
+  "status": "photo",
+  "commons_category": "Category:Cambridge University Library",
+  "photos": [
+   {
+    "file": "File:Cambridge-University-Library.jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:CamUniLibrary.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Cambridge - Cambridge University Library - 1326.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cambridge_University_Library",
+   "https://commons.wikimedia.org/wiki/Category:Cambridge_University_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "millbank-tower",
+  "name": "Millbank Tower",
+  "by": "Ronald Ward & Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1963",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Grade II listed 1963 office tower; Pevsner called it one of few London towers to win affection.",
+  "status": "photo",
+  "commons_category": "Category:Millbank Tower",
+  "photos": [
+   {
+    "file": "File:2008-05-27-Millbank-Tower-London.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Millbank Tower (12570305354).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:London - Millbank Tower - geograph.org.uk - 5250809.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Millbank_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Millbank_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "tate-st-ives",
+  "name": "Tate St Ives",
+  "by": "Eldred Evans and David Shalev",
+  "city": "St Ives",
+  "cc": "GB",
+  "year": "1993",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Landscape"
+  ],
+  "features": "Gallery above Porthmeor Beach with a central rotunda, styled after the site's former gasworks.",
+  "status": "photo",
+  "commons_category": "Category:Tate St Ives",
+  "photos": [
+   {
+    "file": "File:Porthmeor Beach and Tate St Ives (6658).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Tate St Ives - geograph.org.uk - 5982311.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Tate gallery St-Ives.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tate_St_Ives",
+   "https://commons.wikimedia.org/wiki/Category:Tate_St_Ives"
+  ],
+  "note": "Extension by Jamie Fobert Architects opened 2017; some photos may show it"
  }
 ]
