@@ -71,7 +71,7 @@ def main():
 
     # Daily visits for the last 90 days.
     total = get('stats/total', start=stamp(today - dt.timedelta(days=89)), end=stamp(today + dt.timedelta(days=1)))
-    rows = {e['day'][:10]: day_visits(e) for e in total.get('stats') or [] if e.get('day')}
+    rows = {e['day'][:10]: day_visits(e) for e in total.get('stats') or [] if e.get('day') and e['day'][:10] <= str(today)}  # never tomorrow
     if not rows:
         raise SystemExit('GoatCounter returned no days at all; refusing to save an empty result. Raw answer: ' + json.dumps(total)[:300])
 
@@ -93,7 +93,10 @@ def main():
               'window_days': 30, 'visits_30d': total.get('total'), 'sections': {}}
     for name, endpoint in SECTIONS.items():
         time.sleep(1)  # stay well inside GoatCounter's rate limit
-        latest['sections'][name] = get(endpoint, limit=50, **window)
+        data = get(endpoint, limit=100, **window)
+        for h in data.get('hits') or []:  # the per-hour counts of every page are not needed here
+            h.pop('stats', None)
+        latest['sections'][name] = data
     with open(os.path.join(args.out, 'latest.json'), 'w') as f:
         json.dump(latest, f, indent=1)
 
