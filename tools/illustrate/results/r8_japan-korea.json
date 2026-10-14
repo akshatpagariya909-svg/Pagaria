@@ -1058,5 +1058,149 @@
    "https://commons.wikimedia.org/wiki/Category:Hiroshi_Senju_Museum_Karuizawa"
   ],
   "note": "No English Wikipedia article found; architect, year and place from the Ryue Nishizawa article's works list."
+ },
+ {
+  "id": "tokyo-metropolitan-theatre",
+  "name": "Tokyo Metropolitan Theatre",
+  "by": "Yoshinobu Ashihara",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Concert hall of 1,999 seats and a playhouse of 834; the hall organ has two facades and can turn.",
+  "status": "photo",
+  "commons_category": "Category:Tokyo Metropolitan Theatre",
+  "photos": [
+   {
+    "file": "File:Wongwt 東京藝術劇場 (17076815207).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Ikebukuro-Tokyo---2024-05 108.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Ikebukuro tokyo metropolitan theatre (48978401922).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Tokyo_Metropolitan_Theatre"
+  ],
+  "note": "Architect and 1990 opening from the theatre article."
+ },
+ {
+  "id": "okayama-symphony-hall",
+  "name": "Okayama Symphony Hall",
+  "by": "Yoshinobu Ashihara",
+  "city": "Okayama",
+  "cc": "JP",
+  "year": "1991",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Concert hall of 2,001 seats, with acoustic design by Nagata Acoustics.",
+  "status": "photo",
+  "commons_category": "Category:Okayama Symphony Hall",
+  "photos": [
+   {
+    "file": "File:Okayama symphony hall01s3s3300.jpg",
+    "license": "CC BY 2.5"
+   },
+   {
+    "file": "File:Okayama symphony hall01n3200.jpg",
+    "license": "CC BY 2.5"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Okayama_Symphony_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Okayama_Symphony_Hall"
+  ],
+  "note": "Architect and 1991 opening from the hall article."
+ },
+ {
+  "id": "echigo-matsunoyama-museum-of-natural-science",
+  "name": "Echigo-Matsunoyama Museum of Natural Science (Kyororo)",
+  "by": "Tezuka Architects",
+  "city": "Tokamachi",
+  "cc": "JP",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Natural science museum noted by The Architectural Review in 2004; a Tezuka Architects work of 2003.",
+  "status": "photo",
+  "commons_category": "Category:Echigo-Matsunoyama Museum of Natural Science",
+  "photos": [
+   {
+    "file": "File:越後松之山森の学校 キョロロ1.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
+   "https://commons.wikimedia.org/wiki/Category:Echigo-Matsunoyama_Museum_of_Natural_Science"
+  ],
+  "note": "No English Wikipedia article found; architect, year and award from the Takaharu Tezuka article. City (Tokamachi) is not stated in the sources read. Only one clear exterior photo."
+ },
+ {
+  "id": "kanazawa-umimirai-library",
+  "name": "Kanazawa Umimirai Library",
+  "by": "Kazumi Kudo and Hiroshi Horiba",
+  "city": "Kanazawa",
+  "cc": "JP",
+  "year": "2011",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Concrete skin punctured by some 6,000 small circular glass blocks in a triangular array.",
+  "status": "photo",
+  "commons_category": "Category:Kanazawa Umimirai Library",
+  "photos": [
+   {
+    "file": "File:Kanazawa Umimirai Library exterior ac (2).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Kanazawa Umimirai Library exterior ac (5).jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kanazawa_Umimirai_Library",
+   "https://commons.wikimedia.org/wiki/Category:Kanazawa_Umimirai_Library"
+  ],
+  "note": ""
  }
 ]
