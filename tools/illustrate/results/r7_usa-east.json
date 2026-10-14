@@ -2074,5 +2074,134 @@
    "https://commons.wikimedia.org/wiki/Category:W._E._B._Du_Bois_Library"
   ],
   "note": ""
+ },
+ {
+  "id": "w-r-grace-building",
+  "name": "W. R. Grace Building",
+  "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Skyscraper overlooking Bryant Park and the New York Public Library's main branch.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:W.R Grace Building viewed from Empire State Building, around 1 pm.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/W._R._Grace_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "watergate-complex",
+  "name": "Watergate Complex",
+  "by": "Luigi Moretti, with Milton Fischer",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1971",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Six buildings of apartments, a hotel and offices on ten acres, built 1963–71.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Watergate complex, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Watergate_complex"
+  ],
+  "note": ""
+ },
+ {
+  "id": "wiesner-building-mit",
+  "name": "Wiesner Building (MIT Media Lab)",
+  "by": "I. M. Pei & Partners",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1985",
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Geometry"
+  ],
+  "features": "Box-like building with a gridded skin of white modular metal panels; exterior designed with artist Kenneth Noland.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2017 Wiesner Building (MIT Building E14), 20 Ames Street, Cambridge, Massachusetts.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiesner_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "winn-memorial-library",
+  "name": "Winn Memorial Library",
+  "by": "Henry Hobson Richardson",
+  "city": "Woburn",
+  "cc": "US",
+  "year": "1879",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Community"
+  ],
+  "features": "Romanesque Revival library built 1876–79 and now a National Historic Landmark.",
+  "status": "photo",
+  "commons_category": "Category:Winn Memorial Library",
+  "photos": [
+   {
+    "file": "File:Woburn, Massachusetts, Library with statue of Benjamin Thompson.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Winn_Memorial_Library",
+   "https://commons.wikimedia.org/wiki/Category:Winn_Memorial_Library"
+  ],
+  "note": ""
  }
 ]
