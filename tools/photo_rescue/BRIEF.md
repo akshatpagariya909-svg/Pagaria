@@ -22,7 +22,7 @@ Each rescue round looks again for photos.
      Commons API says about each file instead: `action=query&prop=imageinfo|categories&iiprop=size|extmetadata`.
      Read the file's description and categories, not just its name. Skip any file whose description or categories
      mention people, portraits, events, ceremonies, concerts, exhibitions, artworks, sculptures, plaques, signs,
-     interiors of other buildings or another building's name. Prefer files described as an exterior or facade view
+     interiors of other buildings, construction sites, night shots, door signs or another building's name. (Round 1 sent lecture photos, a building site, a door sign and a man posing with a sign; all six were turned down.) Prefer files described as an exterior or facade view
      of this building, and files in "Quality images" or "Featured pictures".
      Set `"seen": false` on every photo: the data-collection chat fetches each one on GitHub Actions and checks it
      by eye before anything goes on the site.

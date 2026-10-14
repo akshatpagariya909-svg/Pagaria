@@ -6549,6 +6549,9 @@
    "File:View of the Village Green.JPG",
    "File:Villagegreen-nhl.JPG",
    "File:Baldwin Hills Village, Office Building.JPG"
+  ],
+  "skip": [
+   "File:Villagegreen-nhl.JPG"
   ]
  },
  "commonwealth-building-portland": {
@@ -10799,9 +10802,9 @@
  "bagno-pubblico-bellinzona": {
   "category": "Bagno Pubblico, Bellinzona",
   "add": [
+   "File:Bagno Pubblico (Bellinzona) II.jpg",
    "File:Bagno Pubblico (Bellinzona).jpg",
-   "File:Bagno Pubblico (Bellinzona) I.jpg",
-   "File:Bagno Pubblico (Bellinzona) II.jpg"
+   "File:Bagno Pubblico (Bellinzona) I.jpg"
   ]
  },
  "palestra-losone": {
@@ -19726,8 +19729,11 @@
  "ambedkar-memorial-park-lucknow": {
   "category": "Ambedkar Memorial Park",
   "add": [
-   "File:Ambedkar Memorial Park Gate.jpg",
    "File:Evening look of BR Ambedkar Memorial Park.jpg",
+   "File:Ambedkar Memorial Park Gate.jpg",
+   "File:Ambedkar Memorial park.jpg"
+  ],
+  "skip": [
    "File:Ambedkar Memorial park.jpg"
   ]
  },

@@ -300487,96 +300487,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "asia-culture-center",
-  "n": 3375,
-  "name": "Asia Culture Center",
-  "by": "Kyu Sung Woo",
-  "place": "Gwangju, KR",
-  "year": "2015",
-  "y": 2015,
-  "type": "Culture & sport",
-  "movement": "Contemporary",
-  "region": "East Asia",
-  "era": "2005–today",
-  "concepts": [
-   "Landscape",
-   "Light from above",
-   "Public space"
-  ],
-  "study": "Most of the complex is sunk below a public park, lit through sunken courts and skylights.",
-  "qid": null,
-  "commons": "Category:Asia Culture Center, Gwangju",
-  "lead": "File:-include red, 75x16m 1,200㎡(2017) GRAYCODE, jiiiiin.png",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/-include_red%2C_75x16m_1%2C200%E3%8E%A1%282017%29_GRAYCODE%2C_jiiiiin.png/1280px--include_red%2C_75x16m_1%2C200%E3%8E%A1%282017%29_GRAYCODE%2C_jiiiiin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 575,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "GRAYCODE, jiiiiin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:-include_red,_75x16m_1,200%E3%8E%A1(2017)_GRAYCODE,_jiiiiin.png",
-    "file": "File:-include red, 75x16m 1,200㎡(2017) GRAYCODE, jiiiiin.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg/1280px-ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ACC Young-generation Culture Forum Edit-a-ton",
-    "credit": "Trainholic",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_Edit-a-ton_1.jpg",
-    "file": "File:ACC Young-generation Culture Forum Edit-a-ton 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg/1280px-ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · ACC Young-generation Culture Forum Edit-a-ton",
-    "credit": "Trainholic",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_Edit-a-ton_2.jpg",
-    "file": "File:ACC Young-generation Culture Forum Edit-a-ton 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/ACC_Young-generation_Culture_Forum_1.jpg/1280px-ACC_Young-generation_Culture_Forum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Neoalpha",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_1.jpg",
-    "file": "File:ACC Young-generation Culture Forum 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/ACC_Young-generation_Culture_Forum_2.jpg/1280px-ACC_Young-generation_Culture_Forum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/asia-culture-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Neoalpha",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Young-generation_Culture_Forum_2.jpg",
-    "file": "File:ACC Young-generation Culture Forum 2.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "baldwin-hills-village",
-  "n": 3376,
+  "n": 3375,
   "name": "Baldwin Hills Village (Village Green)",
   "by": "Reginald D. Johnson; Wilson, Merrill & Alexander; Clarence S. Stein",
   "place": "Los Angeles, US",
@@ -300611,18 +300523,6 @@ window.BUILDINGS = [
     "file": "File:View of the Village Green.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Villagegreen-nhl.JPG/1280px-Villagegreen-nhl.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baldwin-hills-village/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Village Green neighborhood, Los Angeles, CA",
-    "credit": "en:User:Jengod",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Villagegreen-nhl.JPG",
-    "file": "File:Villagegreen-nhl.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Baldwin_Hills_Village%2C_Office_Building.JPG/1280px-Baldwin_Hills_Village%2C_Office_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/baldwin-hills-village/thumbs/2.webp",
     "w": 1280,
@@ -300639,72 +300539,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "burntwood-school",
-  "n": 3377,
-  "name": "Burntwood School",
-  "by": "Allford Hall Monaghan Morris",
-  "place": "London, GB",
-  "year": "2014",
-  "y": 2014,
-  "type": "Education",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Prefabrication",
-   "Facade as skin",
-   "Colour"
-  ],
-  "study": "New teaching blocks and halls in tall sculpted precast-concrete panels, set among the school's 1950s buildings.",
-  "qid": null,
-  "commons": "Burntwood School",
-  "lead": "File:Burntwood School, Wandsworth - geograph.org.uk - 3263012.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Burntwood_School%2C_Wandsworth_-_geograph.org.uk_-_3263012.jpg/1280px-Burntwood_School%2C_Wandsworth_-_geograph.org.uk_-_3263012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/burntwood-school/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Burntwood School, Wandsworth",
-    "credit": "David Anstiss",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Burntwood_School,_Wandsworth_-_geograph.org.uk_-_3263012.jpg",
-    "file": "File:Burntwood School, Wandsworth - geograph.org.uk - 3263012.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Burntwood_School_-_geograph.org.uk_-_3800302.jpg/1280px-Burntwood_School_-_geograph.org.uk_-_3800302.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/burntwood-school/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Kenneth Medlycott",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Burntwood_School_-_geograph.org.uk_-_3800302.jpg",
-    "file": "File:Burntwood School - geograph.org.uk - 3800302.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Burntwood_School_-_geograph.org.uk_-_3800307.jpg/1280px-Burntwood_School_-_geograph.org.uk_-_3800307.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/burntwood-school/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Kenneth Medlycott",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Burntwood_School_-_geograph.org.uk_-_3800307.jpg",
-    "file": "File:Burntwood School - geograph.org.uk - 3800307.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "bagno-pubblico-bellinzona",
-  "n": 3378,
+  "n": 3376,
   "name": "Bagno Pubblico, Bellinzona",
   "by": "Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy",
   "place": "Bellinzona, CH",
@@ -300722,10 +300558,22 @@ window.BUILDINGS = [
   "study": "Public pools organised along one long walkway that runs from the town to the Ticino riverbank.",
   "qid": null,
   "commons": "Bagno Pubblico, Bellinzona",
-  "lead": "File:Bagno Pubblico (Bellinzona).jpg",
+  "lead": "Bagno Pubblico (Bellinzona) II.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bagno_Pubblico_%28Bellinzona%29_II.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bagno-pubblico-bellinzona/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Complesso immerso nel verde su una superficie totale di ca",
+    "credit": "WPestana",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona)_II.jpg",
+    "file": "File:Bagno Pubblico (Bellinzona) II.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Bagno_Pubblico_%28Bellinzona%29.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bagno-pubblico-bellinzona/thumbs/0.webp",
@@ -300749,58 +300597,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona)_I.jpg",
     "file": "File:Bagno Pubblico (Bellinzona) I.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bagno_Pubblico_%28Bellinzona%29_II.jpg/1280px-Bagno_Pubblico_%28Bellinzona%29_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bagno-pubblico-bellinzona/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Complesso immerso nel verde su una superficie totale di ca",
-    "credit": "WPestana",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bagno_Pubblico_(Bellinzona)_II.jpg",
-    "file": "File:Bagno Pubblico (Bellinzona) II.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "belgian-comic-strip-center-brussels",
-  "n": 3379,
-  "name": "Belgian Comic Strip Center (Magasins Waucquez)",
-  "by": "Victor Horta",
-  "place": "Brussels, BE",
-  "year": "1906",
-  "y": 1906,
-  "type": "Museum",
-  "movement": "Art Nouveau",
-  "region": "Europe",
-  "era": "1900–1945",
-  "concepts": [
-   "Adaptive reuse",
-   "Steel & glass",
-   "Detail"
-  ],
-  "study": "Art Nouveau fabric store of 1906, later restored as a museum of Belgian comics.",
-  "qid": null,
-  "commons": "Belgian Centre for Comic Strip Art",
-  "lead": "File:2008-02-11 in Brussels 09.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2008-02-11_in_Brussels_09.jpg/1280px-2008-02-11_in_Brussels_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/belgian-comic-strip-center-brussels/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Belgian Centre for Comic Strip Art",
-    "credit": "Szilas",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2008-02-11_in_Brussels_09.jpg",
-    "file": "File:2008-02-11 in Brussels 09.jpg"
    }
   ],
   "has": [],
@@ -300808,7 +300604,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aluminaire-house",
-  "n": 3380,
+  "n": 3377,
   "name": "Aluminaire House",
   "by": "A. Lawrence Kocher and Albert Frey",
   "place": "Palm Springs, US",
@@ -300847,48 +300643,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "alley-theatre",
-  "n": 3381,
-  "name": "Alley Theatre",
-  "by": "Ulrich Franzen",
-  "place": "Houston, US",
-  "year": "1968",
-  "y": 1968,
-  "type": "Culture & sport",
-  "movement": "Brutalism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Exposed concrete",
-   "Sculptural form",
-   "Geometry"
-  ],
-  "study": "Concrete Brutalist exterior with no right angles.",
-  "qid": null,
-  "commons": "Alley Theatre",
-  "lead": "File:AlleyTheatreEntrance.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/AlleyTheatreEntrance.jpg/1280px-AlleyTheatreEntrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alley-theatre/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Entrance to the Alley Theatre",
-    "credit": "WhisperToMe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:AlleyTheatreEntrance.jpg",
-    "file": "File:AlleyTheatreEntrance.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "ankara-ethnography-museum",
-  "n": 3382,
+  "n": 3378,
   "name": "Ankara Ethnography Museum",
   "by": "Arif Hikmet Koyunoğlu",
   "place": "Ankara, TR",
@@ -300928,7 +300684,7 @@ window.BUILDINGS = [
  },
  {
   "id": "catedral-de-lima",
-  "n": 3383,
+  "n": 3379,
   "name": "Cathedral Basilica of Lima",
   "by": "Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro",
   "place": "Lima, PE",
@@ -300968,7 +300724,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ambedkar-memorial-park-lucknow",
-  "n": 3384,
+  "n": 3380,
   "name": "Dr. Bhimrao Ambedkar Memorial Park",
   "by": "Hafeez Contractor",
   "place": "Lucknow, IN",
@@ -300986,22 +300742,10 @@ window.BUILDINGS = [
   "study": "Red sandstone memorial on 108 acres; 124 elephant statues flank the entrance, with an 80-foot pyramid-type structure.",
   "qid": null,
   "commons": "Ambedkar Memorial Park",
-  "lead": "File:Ambedkar Memorial Park Gate.jpg",
+  "lead": "Evening look of BR Ambedkar Memorial Park.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ambedkar_Memorial_Park_Gate.jpg/1280px-Ambedkar_Memorial_Park_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/0.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · This is the view of the gate for the central building present inside Ambedkar Memorial Park, Lucknow",
-    "credit": "SamuelDutta",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ambedkar_Memorial_Park_Gate.jpg",
-    "file": "File:Ambedkar Memorial Park Gate.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Evening_look_of_BR_Ambedkar_Memorial_Park.jpg/1280px-Evening_look_of_BR_Ambedkar_Memorial_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/1.webp",
@@ -301015,96 +300759,16 @@ window.BUILDINGS = [
     "file": "File:Evening look of BR Ambedkar Memorial Park.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ambedkar_Memorial_park.jpg/1280px-Ambedkar_Memorial_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/2.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of ASI monument number",
-    "credit": "Dheeraj666",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ambedkar_Memorial_park.jpg",
-    "file": "File:Ambedkar Memorial park.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "al-irsyad-mosque",
-  "n": 3385,
-  "name": "Al-Irsyad Mosque",
-  "by": "Ridwan Kamil",
-  "place": "Padalarang, ID",
-  "year": "2010",
-  "y": 2010,
-  "type": "Religious",
-  "movement": "Contemporary",
-  "region": "Southeast Asia",
-  "era": "2005–today",
-  "concepts": [
-   "Geometry",
-   "Light & shadow",
-   "Facade as skin"
-  ],
-  "study": "Cube of stacked blocks whose gaps spell out the shahada, filtering daylight into the hall.",
-  "qid": null,
-  "commons": "Al-Irsyad Mosque",
-  "lead": "File:Kota baru mosque, Padalarang, West Java.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Kota_baru_mosque%2C_Padalarang%2C_West_Java.jpg/1280px-Kota_baru_mosque%2C_Padalarang%2C_West_Java.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/al-irsyad-mosque/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Kota baru mosque, Padalarang, West Java",
-    "credit": "Andi3583",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kota_baru_mosque,_Padalarang,_West_Java.jpg",
-    "file": "File:Kota baru mosque, Padalarang, West Java.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "al-janoub-stadium",
-  "n": 3386,
-  "name": "Al Janoub Stadium",
-  "by": "Zaha Hadid Architects",
-  "place": "Al Wakrah, QA",
-  "year": "2019",
-  "y": 2019,
-  "type": "Culture & sport",
-  "movement": "Parametric",
-  "region": "Middle East",
-  "era": "2005–today",
-  "concepts": [
-   "Sculptural form",
-   "Climate response",
-   "Parametric"
-  ],
-  "study": "Curved ribbed shell inspired by dhow hulls, with a retractable roof over a cooled seating bowl.",
-  "qid": null,
-  "commons": "Al Janoub Stadium",
-  "lead": "File:Al Janoub.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Al_Janoub.jpg/1280px-Al_Janoub.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/al-janoub-stadium/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Stadion Al Janoub in Al Wakrah",
-    "credit": "Nydegger Markus",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Al_Janoub.jpg",
-    "file": "File:Al Janoub.jpg"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ambedkar_Memorial_Park_Gate.jpg/1280px-Ambedkar_Memorial_Park_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ambedkar-memorial-park-lucknow/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is the view of the gate for the central building present inside Ambedkar Memorial Park, Lucknow",
+    "credit": "SamuelDutta",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ambedkar_Memorial_Park_Gate.jpg",
+    "file": "File:Ambedkar Memorial Park Gate.jpg"
    }
   ],
   "has": [],
