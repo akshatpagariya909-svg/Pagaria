@@ -3126,5 +3126,397 @@
    "https://commons.wikimedia.org/wiki/Category:Queen's_Cross_Church,_Glasgow"
   ],
   "note": ""
+ },
+ {
+  "id": "pierhead-building-cardiff",
+  "name": "Pierhead Building",
+  "by": "William Frame",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "1897",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Highly ornamental clock tower; exterior finished in glazed terracotta blocks.",
+  "status": "photo",
+  "commons_category": "Category:Pierhead Building",
+  "photos": [
+   {
+    "file": "File:Bute Docks Company building, Cardiff Docks, South Wales.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Caerdydd - Adeilad y Pierhead 20180708-01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cardiff , Pierhead Building - geograph.org.uk - 4227927.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pierhead_Building",
+   "https://commons.wikimedia.org/wiki/Category:Pierhead_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ulster-museum-belfast",
+  "name": "Ulster Museum",
+  "by": "Francis Pym (extension); James Cumming Wynne (original, 1929)",
+  "city": "Belfast",
+  "cc": "GB",
+  "year": "1972",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Sculptural form"
+  ],
+  "features": "Brutalist extension with great cubic projections and cantilevers.",
+  "status": "photo",
+  "commons_category": "Category:Ulster Museum",
+  "photos": [
+   {
+    "file": "File:Belfast - Botanic Gardens 20230227 Ulster Museum.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Ulster Museum (45055847344).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Ulster Museum (44867686355).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ulster_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Ulster_Museum"
+  ],
+  "note": "Wikipedia says 'until alteration' it was NI's most important Brutalism; check photos show the Pym extension"
+ },
+ {
+  "id": "casino-at-marino",
+  "name": "Casino at Marino",
+  "by": "William Chambers",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1775",
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Greek Cross plan; looks single-roomed but holds 16 rooms over three floors.",
+  "status": "photo",
+  "commons_category": "Category:Casino at Marino",
+  "photos": [
+   {
+    "file": "File:Casino at Marino, May 2015.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Casino Marino Dublin.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Casino Marino Front.JPG",
+    "license": "CC BY 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casino_at_Marino",
+   "https://commons.wikimedia.org/wiki/Category:Casino_at_Marino"
+  ],
+  "note": ""
+ },
+ {
+  "id": "knock-basilica",
+  "name": "Knock Basilica",
+  "by": "Daithi Hanly (with Louis J Brennan, Brian Brennan)",
+  "city": "Knock",
+  "cc": "IE",
+  "year": "1976",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Designed in a modern style in concrete.",
+  "status": "photo",
+  "commons_category": "Category:Basilica of Our Lady, Queen of Ireland (Knock)",
+  "photos": [
+   {
+    "file": "File:Knock Basilica 16 July 2017.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Knock Basilica Church.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:PM Photography and A&D Wejcherts Architects Knock Basilica Exterior.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Knock_Basilica",
+   "https://commons.wikimedia.org/wiki/Category:Basilica_of_Our_Lady,_Queen_of_Ireland_(Knock)"
+  ],
+  "note": "Wikipedia gives little architectural detail; concepts to verify"
+ },
+ {
+  "id": "liberty-hall-dublin",
+  "name": "Liberty Hall",
+  "by": "Desmond Rea O'Kelly",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1965",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Ireland's first tall building, in International Style; Dublin's fifth tallest.",
+  "status": "photo",
+  "commons_category": "Category:Liberty Hall, Dublin",
+  "photos": [
+   {
+    "file": "File:Dublin - Liberty Hall - 20220728172601.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Dublin - Liberty Hall - 20081213140315.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:LIBERTY HALL (SIPTU HEADQUARTERS)-147013.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liberty_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Liberty_Hall,_Dublin"
+  ],
+  "note": ""
+ },
+ {
+  "id": "churchill-gardens-estate",
+  "name": "Churchill Gardens Estate",
+  "by": "Powell & Moya (Philip Powell, Hidalgo Moya)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1962",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Prefabrication",
+   "Cluster"
+  ],
+  "features": "Nine-to-eleven storey slabs among seven-storey blocks; glass-faced accumulator tower for district heating.",
+  "status": "photo",
+  "commons_category": "Category:Churchill Gardens, London",
+  "photos": [
+   {
+    "file": "File:Churchill Gardens Estate, Pimlico 2025-05-03.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Pimlico , Churchill Gardens Estate - geograph.org.uk - 7406026.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Churchill_Gardens",
+   "https://commons.wikimedia.org/wiki/Category:Churchill_Gardens,_London"
+  ],
+  "note": "Prefabrication concept unsourced; replace if unsure"
+ },
+ {
+  "id": "dawsons-heights",
+  "name": "Dawson's Heights",
+  "by": "Kate Macintosh",
+  "city": "London",
+  "cc": "GB",
+  "year": "1972",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Described as reminiscent of a ziggurat, with massing evoking ancient cities and Italian hill towns.",
+  "status": "photo",
+  "commons_category": "Category:Dawson Heights",
+  "photos": [
+   {
+    "file": "File:Dawson's Heights.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Dawsons-Heights-East-Dulwich-South-London-2008.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Dawson's Heights seen from Dawson's Hill - geograph.org.uk - 5407257.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dawson's_Heights",
+   "https://commons.wikimedia.org/wiki/Category:Dawson_Heights"
+  ],
+  "note": ""
+ },
+ {
+  "id": "lys-kernow",
+  "name": "Lys Kernow (New County Hall)",
+  "by": "Francis Kenneth Hicklin and Alan Groves",
+  "city": "Truro",
+  "cc": "GB",
+  "year": "1966",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Geometry"
+  ],
+  "features": "A three-storey square concrete-framed Brutalist block with a council chamber cantilevered out on the east side.",
+  "status": "photo",
+  "commons_category": "Category:New County Hall, Truro",
+  "photos": [
+   {
+    "file": "File:New County Hall 2019.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Lys Kernow 2023.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lys_Kernow",
+   "https://commons.wikimedia.org/wiki/Category:New_County_Hall,_Truro"
+  ],
+  "note": ""
+ },
+ {
+  "id": "66-portland-place-riba",
+  "name": "RIBA Headquarters (66 Portland Place)",
+  "by": "George Grey Wornum",
+  "city": "London",
+  "cc": "GB",
+  "year": "1934",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Stone"
+  ],
+  "features": "Art Deco elements show in the bronze doors, architectural motifs and the trans-storey main window.",
+  "status": "photo",
+  "commons_category": "Category:Royal Institute of British Architects (building)",
+  "photos": [
+   {
+    "file": "File:RIBA 66 Portland Place.jpg",
+    "license": "CC BY 2.5"
+   },
+   {
+    "file": "File:Royal Institute of British Architects March 2016.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:RIBA London.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/66_Portland_Place",
+   "https://commons.wikimedia.org/wiki/Category:Royal_Institute_of_British_Architects_(building)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "eltham-palace-courtauld-house",
+  "name": "Eltham Palace (Courtauld house)",
+  "by": "Seely & Paget",
+  "city": "London",
+  "cc": "GB",
+  "year": "1935",
+  "type": "House",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "features": "1930s house joined to a medieval great hall, with Art Deco interiors called a masterpiece of modern design.",
+  "status": "photo",
+  "commons_category": "Category:Eltham Palace",
+  "photos": [
+   {
+    "file": "File:Eltham Palace - London (4979953470).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Eltham Palace - London (4979958868).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eltham_Palace",
+   "https://commons.wikimedia.org/wiki/Category:Eltham_Palace"
+  ],
+  "note": "photos are of Eltham Palace generally; Opus to check they show the 1930s house wing"
  }
 ]
