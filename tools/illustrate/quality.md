@@ -55,3 +55,17 @@ For the next round: the brief should ask Southeast Asian and other skyline-heavy
 | Ordinary types | 21 of 276 (8%) as proposed | fine, down from 23%: the brief change worked |
 
 Galleries are still the weak spot: 348 off-topic pictures (tourists, plaques, other buildings, one gallery of the Empire State Building) taken out by eye.
+
+## Round 8, second batch (14 Oct 2026): Africa, Japan and Korea
+
+89 proposals from two Sonnet chats (the Africa chat picked from Commons categories without seeing thumbnails).
+
+| Signal | Number | Level |
+|---|---|---|
+| Leads held back in photo review | 1 of 82 (1%): Heroes' Acre, Windhoek | fine |
+| No free photo | 6 of 89 (7%) | fine |
+| Already on the wall | 0 | fine |
+| Facts failing the source check | 1 of 81, every building checked (1%): Daejeon science museum year 1984 → 1990, corrected. The first random 25 showed 4%, over the warning level, so the whole batch was checked. | fine |
+| Ordinary types | 3 of 89 (3%); Carlton Centre held back | fine |
+
+110 off-topic gallery pictures out; 26 buildings got a better lead from their own gallery.
