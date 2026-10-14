@@ -2,24 +2,24 @@
 
 | | |
 |---|---|
-| Books on the shelf | 1798 |
+| Books on the shelf | 1888 |
 | Buildings on the wall with at least one book | 888 of 1603 |
 | Buildings named in a book | 159 |
 | Architects with a book | 206 |
-| Candidates reviewed | 6920 of 16341 |
+| Candidates reviewed | 7320 of 16341 |
 
 ## By shelf
 
-- History: 406
-- Monographs: 339
-- Theory: 291
-- Cities: 175
-- Construction: 137
-- Free to read: 125
-- Landscape: 111
-- Drawing: 65
+- History: 441
+- Monographs: 358
+- Theory: 312
+- Cities: 178
+- Construction: 140
+- Free to read: 126
+- Landscape: 112
+- Drawing: 67
+- Essentials: 58
 - Manifestos: 55
-- Essentials: 53
 - India: 41
 
 ## Architects with four or more buildings and no book yet
