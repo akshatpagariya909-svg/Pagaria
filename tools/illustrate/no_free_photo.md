@@ -253,5 +253,71 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | The Chapel | a21studio | 2014 | Ho Chi Minh City, VN | No photos on Commons. Not drawn: sources describe materials (reused steel frame and sheets, a tree-shaped steel column, three layers of printed fabric) but not the outer form. Year 2014 is the award year; completion may be 2013. |
 | Monument to the People's Heroes | Liang Sicheng, Lin Huiyin | 1958 | Beijing, CN | a monument, not a building (round 6 review) |
 | Anji Bridge (Zhaozhou Bridge) | Li Chun | 605 | Zhao County, CN | a bridge, not a building (round 6 review) |
+| Bagno Pubblico, Bellinzona | Aurelio Galfetti, Flora Ruchat-Roncati and Ivo Trümpy | 1970 | Bellinzona, CH | held back in round 6 review: no clear free photo of the building |
 | Rooftop Remodeling Falkestrasse | Coop Himmelb(l)au | 1988 | Vienna, AT | No free photo: the Commons category exists but is empty, and searches found none (Austria has freedom of panorama, so this is an upload gap, and the rooftop is hard to see from the street). Not drawn: the form is a complex 3D tangle that an elevation would misrepresent. Wikipedia: design began 1983, construction ended late 1988; 90 m2 conference room for a law firm; 'a parasitic structure'. A key early deconstructivist work, shown in MoMA's 1988 exhibition (general knowledge). |
+| Museum of the University of Navarra | Rafael Moneo | 2015 | Pamplona, ES | held back in round 6 review: no clear free photo of the building |
+| Cedro Primary School | Fernando Távora | 1960 | Vila Nova de Gaia, PT | held back in round 6 review: no clear free photo of the building |
+| Xanadu | Ricardo Bofill (Taller de Arquitectura) | 1971 | Calp, ES | held back in round 6 review: no clear free photo of the building |
 | Bolte Bridge | Denton Corker Marshall | 1999 | Melbourne, AU | a bridge, not a building (round 6 review) |
+| Audain Art Museum | Patkau Architects | 2016 | Whistler, CA | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
+| First Canadian Place | Bregman + Hamann Architects, Edward Durell Stone & Associates | 1975 | Toronto, CA | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
+| Torre Mayor | Zeidler Roberts Partnership, Adamson Associates | 2003 | Mexico City, MX | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
+| Conjunto Urbano Nonoalco Tlatelolco | Mario Pani | 1964 | Mexico City, MX | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
+| Le Mirail (Toulouse-Le Mirail) | Georges Candilis, Alexis Josic, Shadrach Woods | 1972 | Toulouse, FR | no free photo. Commons hits are 1968 archive pictures of meetings, not the buildings. |
+| Parc des Princes | Roger Taillibert | 1972 | Paris, FR | no free photo. Commons category has only archive match photos and a 2026 final; no clear exterior seen. Check Category:Parc des Princes for newer files. |
+| Unité d'habitation de Briey | Le Corbusier (managing architect André Wogenscky) | 1960 | Briey, FR | no free photo. Only a commemorative plaque on Commons. |
+| Musée Unterlinden extension | Herzog & de Meuron | 2015 | Colmar, FR | no free photo. Commons hits are artworks and the old baths annex; no clear photo of the new building found. |
+| Tour First | Michel Stenzel, Pierre Dufau, Jean-Pierre Dacbert; KPF (2011 refit) | 1974 | La Défense, FR | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Tour Majunga | Jean-Paul Viguier | 2014 | La Défense, FR | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Tour Bretagne | Claude Devorsine (engineer Marcel André) | 1976 | Nantes, FR | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Tour Areva (Tour Framatome) | Skidmore, Owings & Merrill; Roger Saubot, François Jullien | 1974 | La Défense, FR | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Cœur Défense | Jean-Paul Viguier | 2001 | La Défense, FR | no free photo |
+| Musée d'arts de Nantes | Stanton Williams (2017 extension) | 2017 | Nantes, FR | no free photo found in one search; retry with category Musée d'arts de Nantes. |
+| Villaggio ENI, Borca di Cadore | Edoardo Gellner | 1963 | Corte di Cadore, IT | no free photo |
+| Gioia 22 | Pelli Clarke & Partners | 2021 | Milan, IT | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| UniCredit Tower | César Pelli | 2011 | Milan, IT | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Matitone (WTC Genoa) | Skidmore, Owings & Merrill; Mario Lanata; Andrea Messina | 1992 | Genoa, IT | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Rocca di Frassinello winery | Renzo Piano | 2007 | Gavorrano, IT | no free photo |
+| Heron Tower (110 Bishopsgate) | Kohn Pedersen Fox | 2011 | London, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Millbank Tower | Ronald Ward & Partners | 1963 | London, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Rotunda (Birmingham) | James A. Roberts | 1965 | Birmingham, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Beetham Tower | SimpsonHaugh and Partners (Ian Simpson) | 2006 | Manchester, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Kirkcaldy Town House | David Carr and William Howard | 1956 | Kirkcaldy, GB | no free photo: large files carry licence 'Attribution' (unclear, check by hand), geograph ones only 1024px |
+| Pier Arts Centre | Reiach & Hall Architects | 2007 | Stromness, GB | no free photo found: no Commons category under that name; 1979 conversion architect not named |
+| Castle Howard | John Vanbrugh (with Nicholas Hawksmoor) | 1811 | Henderskelfe, North Yorkshire, GB | no free photo confirmed: category files listed were lakes/gardens/parterres by filename (e.g. '1001059 Castle Howard, South Lake Henderskelfe 20240522 0407.jpg', CC BY-SA 4.0, may show the house); year 1811 is completion of Long Gallery decoration, construction began 1701 |
+| Seamus Heaney HomePlace | W&M Given Architects | 2016 | Bellaghy, GB | no free photo found (no Commons category located) |
+| Trinity College Old Library | Thomas Burgh | 1732 | Dublin, IE | no free photo (category held only an interior) |
+| Queen's House | Inigo Jones | 1635 | London, GB | Only one large free file seems to show the exterior (a colonnade); other exterior file is 1024px. Needs eye check or a Commons search. |
+| Westminster tube station (Jubilee line) | Michael Hopkins & Partners | 1999 | London, GB | interior mostly; only one candidate, entrance photos small or unclear; Opus to check |
+| 177 Huntington | Araldo Cossutta, Pei Cobb Freed & Partners | 1972 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| 500 Boylston Street | Johnson/Burgee Architects | 1989 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Olympic Tower | Skidmore, Owings & Merrill | 1974 | New York, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Aluminaire House | A. Lawrence Kocher and Albert Frey | 1931 | Palm Springs, US | no free photo; Commons category Aluminaire House empty |
+| Coachella Valley Savings No. 1 | E. Stewart Williams | 1955 | Palm Springs, US | no free photo; Commons category not found |
+| General Petroleum Building | Walter Wurdeman and Welton Becket | 1949 | Los Angeles, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Hangover House | William Alexander Levy | 1938 | Laguna Beach, US | no free photo; Commons category empty |
+| Kaiser Center | Welton Becket & Associates | 1960 | Oakland, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Kappe Residence | Raymond Kappe | 1967 | Los Angeles, US | no free photo; Commons category empty |
+| Thousand Oaks Civic Arts Plaza | Antoine Predock | 1994 | Thousand Oaks, US | only 2 files, neither clearly the building exterior; no free photo |
+| Valley Music Theater | Thomas Wayne Lindsey (Hawkins and Lindsey) | 1963 | Los Angeles, US | no free photo; demolished 2007 |
+| Volcano House (California) | Harold James Bissner Jr. | 1969 | Newberry Springs, US | no free photo |
+| Von Sternberg House | Richard Neutra | 1935 | Los Angeles, US | no free photo; demolished 1972 |
+| Hope Residence | John Lautner | 1979 | Palm Springs, US | no free photo (no Commons category found) |
+| Kronish House | Richard Neutra | 1955 | Beverly Hills, US | no free photo (category empty) |
+| Japan Center (San Francisco) | Minoru Yamasaki | 1968 | San Francisco, US | Category (also tried Japan Center, San Francisco) has no files clearly of the complex |
+| Houston Bar Center Building | Eugene William Slater | 1966 | Houston, US | Only one free photo (Houston Bar Center.jpg, 2061x2403, CC BY-SA 4.0); not enough |
+| Marathon Oil Tower | Pierce Goodwin Alexander & Linville | 1983 | Houston, US | no free photo (category empty) |
+| Republic Center | Harrison & Abramovitz | 1954 | Dallas, US | Complex of three towers (1954/1964/1980); only 2 free photos, tower unclear |
+| Corrigan Tower | Wyatt C. Hedrick | 1952 | Dallas, US | no free photo (no Commons category) |
+| Yeon Building | Reid & Reid | 1911 | Portland, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Hotel Valley Ho | Edward L. Varney | 1956 | Scottsdale, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Painted Desert Community Complex | Richard Neutra and Robert Alexander | 1965 | Petrified Forest National Park, US | no free photo: only one courtyard file (PEFO headquarters courtyard.jpg, CC BY-SA 3.0, 4253x2730) available; arguably not exterior-clear |
+| Chase Tower | Welton Becket and Associates | 1972 | Phoenix, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Arizona Cancer Center Chapel | Paolo Soleri | 1986 | Tucson, US | no free photo: no Commons category linked and title-named category empty |
+| Brooks Tower | Max Ratner | 1968 | Denver, US | no free photo: no Commons category found; title category empty |
+| Seattle Art Museum | Robert Venturi (Venturi, Scott Brown and Associates) | 1991 | Seattle, US | no clear free exterior photo |
+| Edris House | E. Stewart Williams | 1954 | Palm Springs, US | no free photo |
+| Gas Company Tower | Richard Keating; Skidmore, Owings and Merrill | 1991 | Los Angeles, US | no clear free exterior photo |
+| Wilshire Grand Center | AC Martin Partners | 2017 | Los Angeles, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Entenza House | Charles Eames, Ray Eames and Eero Saarinen | 1950 | Los Angeles, US | no free photo |

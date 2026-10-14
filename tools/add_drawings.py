@@ -27,7 +27,7 @@ def main():
             continue
         rel = f"images/{b['id']}/drawing.svg"
         b['images'] = [{'src': rel, 'thumb': rel, 'w': 400, 'h': 260, 'kind': 'Drawing', 'caption': 'Drawing, not a photo',
-                        'credit': 'Drawing: Discover Architecture', 'license': 'CC BY 4.0', 'source': None}]
+                        'credit': 'Drawing: Find Great Architecture', 'license': 'CC BY 4.0', 'source': None}]
         added.append(b['name'])
     save(head, items)
     print(f'{len(added)} drawings added: ' + ', '.join(added))

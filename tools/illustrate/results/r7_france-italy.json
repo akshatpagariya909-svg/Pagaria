@@ -1,0 +1,3130 @@
+[
+ {
+  "id": "hotel-de-ville-le-havre",
+  "name": "Hôtel de Ville, Le Havre",
+  "by": "Auguste Perret (completed by Jacques Tournant)",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": "1958",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "70 m, 18-storey reinforced-concrete tower at one end of a 143 m block with a 15-bay colonnaded facade.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hôtel de Ville du Havre (54869965992).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hôtel de Ville du Havre (53893881495).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Le Havre Place Hôtel de Ville R01.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Havre_City_Hall",
+   "https://en.wikipedia.org/wiki/Auguste_Perret"
+  ],
+  "note": "Photos found by search, not in a dedicated category; R01 is a square view, check it shows the building.",
+  "seen": false
+ },
+ {
+  "id": "muma-le-havre",
+  "name": "MuMa (Musée d'art moderne André Malraux)",
+  "by": "Guy Lagneau, Michel Weill, Jean Dimitrijevic; louvres by Jean Prouvé",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": "1961",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Glass-and-steel box on a concrete pad facing the sea; roof louvres by Prouvé control the daylight.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:MuMA, Le Havre.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Le Havre - MuMa Musée d'art moderne André Malraux (39142543755).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Le musée d'art moderne André Malraux (Le Havre) (51487304038).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_Moderne_Andr%C3%A9_Malraux"
+  ],
+  "note": "Search results; many other MuMa files are paintings, avoid those.",
+  "seen": false
+ },
+ {
+  "id": "la-grande-borne",
+  "name": "La Grande Borne",
+  "by": "Émile Aillaud",
+  "city": "Grigny",
+  "cc": "FR",
+  "year": "1971",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Community"
+  ],
+  "features": "Curved serpentine blocks built 1964-71, with colourful, irregularly shaped public spaces residents can identify with.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Quartier Grande Borne - Grigny (FR91) - 2026-01-11 - 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Quartier Grande Borne - Grigny (FR91) - 2026-01-11 - 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:GrandeBorneEcoleBuffle.jpg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%89mile_Aillaud",
+   "https://en.wikipedia.org/wiki/La_Grande_Borne"
+  ],
+  "note": "Several 2024 and 2026 photos of the quarter plus older 1600x1200 ones (Ecole Buffle, Place de l'Oeuf, Petits Pas).",
+  "seen": false
+ },
+ {
+  "id": "cite-fruges-pessac",
+  "name": "Cité Frugès (Quartiers Modernes Frugès)",
+  "by": "Le Corbusier, Pierre Jeanneret",
+  "city": "Pessac",
+  "cc": "FR",
+  "year": "1926",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "51 houses of five types (135 planned), with panels painted brown, blue, yellow and jade green; Unesco-listed 2016.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cite Fruges .jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quartiers_Modernes_Frug%C3%A8s"
+  ],
+  "note": "Only one usable free file found (2101x759, wide crop, name has a space before .jpg); more may exist under another category name.",
+  "seen": false
+ },
+ {
+  "id": "ville-nouvelle-du-mirail",
+  "name": "Le Mirail (Toulouse-Le Mirail)",
+  "by": "Georges Candilis, Alexis Josic, Shadrach Woods",
+  "city": "Toulouse",
+  "cc": "FR",
+  "year": "1972",
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Megastructure",
+   "Circulation",
+   "Community"
+  ],
+  "features": "New quarter designed from 1962 by Candilis-Josic-Woods and finished 1972, built to about two thirds of the plan.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Mirail"
+  ],
+  "note": "no free photo. Commons hits are 1968 archive pictures of meetings, not the buildings.",
+  "seen": false
+ },
+ {
+  "id": "tour-montparnasse",
+  "name": "Tour Montparnasse",
+  "by": "Eugène Beaudouin, Urbain Cassan, Louis de Hoÿm de Marien",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "210 m glass-and-steel tower on 56 concrete piles sunk 70 m, with a concrete shield protecting the Metro below.",
+  "status": "photo",
+  "commons_category": "Category:Tour Montparnasse",
+  "photos": [
+   {
+    "file": "File:Tour Montparnasse 20250513.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Montparnasse Tower seen from the Jardin du Luxembourg 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Tour Montparnasse @ Paris (23379715554).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_Montparnasse"
+  ],
+  "note": "Own category Category:Tour Montparnasse; year 1973 (Wikipedia gives 1972/1973).",
+  "seen": false
+ },
+ {
+  "id": "stade-de-france",
+  "name": "Stade de France",
+  "by": "Michel Macary, Aymeric Zublena, Michel Regembal, Claude Constantini",
+  "city": "Saint-Denis",
+  "cc": "FR",
+  "year": "1998",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Elliptical roof of about six hectares and 13,000 t; a movable stand retracts to uncover the athletics track.",
+  "status": "photo",
+  "commons_category": "Category:Stade de France",
+  "photos": [
+   {
+    "file": "File:Stade de France (48109548381).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Stade de France tour (48097673993).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_de_France"
+  ],
+  "note": "Own category Category:Stade de France holds mostly match photos; these two are generic-titled, reviewer must check they show the exterior.",
+  "seen": false
+ },
+ {
+  "id": "parc-des-princes",
+  "name": "Parc des Princes",
+  "by": "Roger Taillibert",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1972",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "features": "Rebuilt 1972 with futuristic lines and suspended concrete stands; four covered stands seat 47,929.",
+  "status": "unsure",
+  "commons_category": "Category:Parc des Princes",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parc_des_Princes"
+  ],
+  "note": "no free photo. Commons category has only archive match photos and a 2026 final; no clear exterior seen. Check Category:Parc des Princes for newer files.",
+  "seen": false
+ },
+ {
+  "id": "accor-arena-bercy",
+  "name": "Accor Arena (Palais omnisports de Paris-Bercy)",
+  "by": "Andrault & Parat, Jean Prouvé, Aydin Guvan",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1984",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "Pyramid-shaped arena whose sloping walls are covered with lawn; seats about 7,000 to 20,300.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:AccorHotels Arena @ Bercy @ Paris (27157316713).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Palais Omnisports de Paris-Bercy 01.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Palais Omnisports de Paris-Bercy in Paris.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Accor_Arena"
+  ],
+  "note": "Search results; several more exterior files exist.",
+  "seen": false
+ },
+ {
+  "id": "ministere-des-finances-bercy",
+  "name": "Ministère de l'Économie et des Finances (Bercy)",
+  "by": "Paul Chemetov, Borja Huidobro",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1989",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Colbert building meets the Seine at a right angle, partly in the river, on two 70 m arches.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paris - Ministère de l'Économie et des Finances & Pont de Bercy (23219016895).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Paris - Ministère de l'Économie et des Finances (22824880527).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Paris - Ministère de l'Économie et des Finances (23192896446).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances",
+   "https://en.wikipedia.org/wiki/Ministry_of_Economy_and_Finance_(France)"
+  ],
+  "note": "All 5184x3456 Flickr files; movement label is my judgement, not in source. Completion 1989 = staff moved in.",
+  "seen": false
+ },
+ {
+  "id": "cite-des-sciences-et-de-l-industrie",
+  "name": "Cité des Sciences et de l'Industrie",
+  "by": "Adrien Fainsilber",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1986",
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "Wraps the steel trusses of an unfinished abattoir hall; three 32 m glass Serres have no frames or fins.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cité des Sciences et de l'Industrie, La Villette, Paris - France (63392).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris (28853466272).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Back of the Cité des sciences et de l'industrie 4.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cit%C3%A9_des_Sciences_et_de_l%27Industrie"
+  ],
+  "note": "Many more files exist.",
+  "seen": false
+ },
+ {
+  "id": "palais-de-tokyo",
+  "name": "Palais de Tokyo",
+  "by": "André Aubert, Marcel Dastugue, Paul Viard",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1937",
+  "type": "Museum",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Adaptive reuse"
+  ],
+  "features": "1937 Art Deco palace for modern art; Lacaton & Vassal overhauled and expanded it in 2012.",
+  "status": "photo",
+  "commons_category": "Category:Palais de Tokyo",
+  "photos": [
+   {
+    "file": "File:Palais de Tokyo et sa fontaine au printemps.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Palais de Tokyo @ Paris (31028565970).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palais_de_Tokyo"
+  ],
+  "note": "Own category Category:Palais de Tokyo.",
+  "seen": false
+ },
+ {
+  "id": "palais-de-chaillot",
+  "name": "Palais de Chaillot",
+  "by": "Louis-Hippolyte Boileau, Jacques Carlu, Léon Azéma",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1937",
+  "type": "Museum",
+  "movement": "Art Deco",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Two curved wings around a terrace that opens a view to the Eiffel Tower; facades carry Paul Valéry inscriptions.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palais de Chaillot from the Jardins du Trocadéro.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Palais de Chaillot (July 2022).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Paris le palais de Chaillot au Trocadéro.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palais_de_Chaillot"
+  ],
+  "note": "Search results; many files.",
+  "seen": false
+ },
+ {
+  "id": "mobilier-national-paris",
+  "name": "Mobilier National",
+  "by": "Auguste Perret",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1937",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Perret's 1937 home of the state furniture workshops: concrete used with classical symmetry and proportion.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (01).jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (02).jpg",
+    "license": "Public domain"
+   },
+   {
+    "file": "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (03).jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auguste_Perret",
+   "https://en.wikipedia.org/wiki/Mobilier_National"
+  ],
+  "note": "Wikipedia only gives Perret and 1937 and the general concrete/classical remark, no description of this building; features line is weak, upgrade from a better source. Also check PD licence claim on 2024 photos.",
+  "seen": false
+ },
+ {
+  "id": "bourse-de-commerce-pinault-collection",
+  "name": "Bourse de Commerce (Pinault Collection)",
+  "by": "Tadao Ando (conversion of Henri Blondel's 1889 building)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Ando set a 30 ft-high concrete cylinder inside the 18th-century rotunda, under its copper-clad iron dome.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51271877176).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51272095538).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bourse_de_Commerce_(Paris)"
+  ],
+  "note": "These two may be interiors of the conversion (titles do not say); reviewer to check, exterior may need a different file. Opened May 2021.",
+  "seen": false
+ },
+ {
+  "id": "station-f-halle-freyssinet",
+  "name": "Station F (Halle Freyssinet)",
+  "by": "Eugène Freyssinet (conversion: Wilmotte & Associés)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1929",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "1929 rail freight depot by Freyssinet, turned into a startup campus of about 34,000 m² in 2017.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Halle Freyssinet, Paris 13e.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Halle Freyssinet - Station F - Outside.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Station_F"
+  ],
+  "note": "Wikipedia gives no description of the concrete vaults, so features line stays on facts it states.",
+  "seen": false
+ },
+ {
+  "id": "passerelle-simone-de-beauvoir",
+  "name": "Passerelle Simone-de-Beauvoir",
+  "by": "Dietmar Feichtinger Architectes",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2006",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "features": "304 m footbridge with a lens-shaped steel central span 106 m long and 650 t.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Passerelle Simone-de-Beauvoir @ Seine @ Paris (28410220012).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Passerelle Simone de Beauvoir, Paris 2 December 2006.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Passerelle Simone-de-Beauvoir.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Passerelle_Simone-de-Beauvoir"
+  ],
+  "note": "Many Flickr files at 5472x3648.",
+  "seen": false
+ },
+ {
+  "id": "halle-tony-garnier",
+  "name": "Halle Tony Garnier",
+  "by": "Tony Garnier",
+  "city": "Lyon",
+  "cc": "FR",
+  "year": "1914",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Steel roof truss on ball-and-socket joints leaves the 80 x 210 m former cattle hall free of columns.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lyon 7e - Halle Tony Garnier, façade sud.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Lyon 7e - Halle Tony Garnier, bâtiment central au nord.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Halle Tony Garnier - Façade, côté gauche.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Halle_Tony_Garnier"
+  ],
+  "note": "Wikipedia gives conflicting dates (completed 1914; market inaugurated 1928). Many CC0 files.",
+  "seen": false
+ },
+ {
+  "id": "hotel-du-departement-bouches-du-rhone",
+  "name": "Hôtel du Département des Bouches-du-Rhône (Le Grand Bleu)",
+  "by": "Will Alsop, Jan Störmer (Alsop & Störmer)",
+  "city": "Marseille",
+  "cc": "FR",
+  "year": "1994",
+  "type": "Civic",
+  "movement": "High-tech",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Blue-glass 'Grand Bleu' with a 'skin of art' by Brian Clarke, on X-shaped concrete pilotis; 80,000 m².",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hôtel du département marseille1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hôtel du département marseille2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hotel du département -2015b.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hôtel_du_département_des_Bouches-du-Rhône"
+  ],
+  "note": "Photos found by search.",
+  "seen": false
+ },
+ {
+  "id": "unite-d-habitation-briey",
+  "name": "Unité d'habitation de Briey",
+  "by": "Le Corbusier (managing architect André Wogenscky)",
+  "city": "Briey",
+  "cc": "FR",
+  "year": "1960",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Circulation",
+   "Community",
+   "Modular"
+  ],
+  "features": "339 duplex flats across 17 floors with six internal streets; built 1959-60.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation_of_Briey"
+  ],
+  "note": "no free photo. Only a commemorative plaque on Commons.",
+  "seen": false
+ },
+ {
+  "id": "unite-d-habitation-firminy-vert",
+  "name": "Unité d'habitation, Firminy-Vert",
+  "by": "Le Corbusier (completed by André Wogenscky)",
+  "city": "Firminy",
+  "cc": "FR",
+  "year": "1967",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Circulation",
+   "Community",
+   "Modular"
+  ],
+  "features": "414 duplex flats over 17 levels on seven interior streets; 130 m long, 21 m wide, 51 m high.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Unité d`habitation, Fiminiy Vert, 1997.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Unité d'habitation in Firminy-Vert, 1997.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation_of_Firminy-Vert"
+  ],
+  "note": "1997 photos; the first file name has a backtick, copy exactly.",
+  "seen": false
+ },
+ {
+  "id": "usine-claude-et-duval",
+  "name": "Usine Claude et Duval",
+  "by": "Le Corbusier",
+  "city": "Saint-Dié-des-Vosges",
+  "cc": "FR",
+  "year": "1951",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Brise-soleil",
+   "Geometry"
+  ],
+  "features": "Le Corbusier's only factory: reinforced concrete on stilts, with a roof terrace and a hung sunshade screen.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Manufacture Claude-et-Duval à Saint-Dié-des-Vosges.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Usine_Claude_et_Duval"
+  ],
+  "note": "Single usable photo (6944x9280). Construction ended 1951, factory opened 1952. First use of the Modulor.",
+  "seen": false
+ },
+ {
+  "id": "musee-unterlinden-extension",
+  "name": "Musée Unterlinden extension",
+  "by": "Herzog & de Meuron",
+  "city": "Colmar",
+  "cc": "FR",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Circulation",
+   "Void"
+  ],
+  "features": "New exhibition building plus the old municipal baths, linked to the old museum by underground rooms.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unterlinden_Museum"
+  ],
+  "note": "no free photo. Commons hits are artworks and the old baths annex; no clear photo of the new building found.",
+  "seen": false
+ },
+ {
+  "id": "tour-first",
+  "name": "Tour First",
+  "by": "Michel Stenzel, Pierre Dufau, Jean-Pierre Dacbert; KPF (2011 refit)",
+  "city": "La Défense",
+  "cc": "FR",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Three-pointed star plan from 1974, re-skinned and raised to 231 m by KPF in 2007-2011.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tourfirst240309.jpg",
+    "license": "CC BY 3.0"
+   },
+   {
+    "file": "File:Tours First et Saint-Gobain (42975144462).jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_First"
+  ],
+  "note": "Commons category Tour First lists few clear photos; second photo also shows Tour Saint-Gobain."
+ },
+ {
+  "id": "saint-christophe-de-javel",
+  "name": "Saint-Christophe de Javel",
+  "by": "Charles-Henri Besnard",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1930",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Exposed concrete",
+   "Prefabrication",
+   "Vault"
+  ],
+  "features": "Reinforced-concrete church with cast-cement ornament and slim concrete columns echoing Gothic arcades.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Église Saint-Christophe-de-Javel.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Eglise Saint Christophe de Javel @ Paris 15 (32270740404).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Église Saint-Christophe-de-Javel 1.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saint-Christophe-de-Javel,_Paris"
+  ],
+  "note": "Flickr set by same author has many photos; some may be interior."
+ },
+ {
+  "id": "bibliotheque-sainte-genevieve",
+  "name": "Bibliothèque Sainte-Geneviève",
+  "by": "Henri Labrouste",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1850",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "Upper-floor reading room with slender cast-iron columns carrying iron arches, left visible.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paris Bibliothèque Sainte-Geneviève facade.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bibliothèque Sainte-Geneviève, façade.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Façade de la Bibliothèque Sainte-Geneviève, sud-est.JPG",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve"
+  ],
+  "note": "Many facade photos exist (PD file also: Bibliothèque Sainte-Geneviève Facade.jpg, 1534x2433)."
+ },
+ {
+  "id": "notre-dame-de-toute-grace-assy",
+  "name": "Notre-Dame-de-Toute-Grâce du Plateau d'Assy",
+  "by": "Maurice Novarina",
+  "city": "Passy (Plateau d'Assy)",
+  "cc": "FR",
+  "year": "1946",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Alpine church facing Mont Blanc, decorated by Léger, Chagall, Bonnard, Matisse and others.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Passy Église Notre-Dame-de-Toute-Grace sur Plateau d'Assy Extérieur Clocher 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Eglise Plateau d'Assy.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Passy Église Notre-Dame-de-Toute-Grace sur Plateau d'Assy Extérieur Clocher 2.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Notre-Dame_de_Toute_Gr%C3%A2ce_du_Plateau_d%27Assy"
+  ],
+  "note": "Built 1937-46, consecrated 1950. Check the first photo is not interior-only."
+ },
+ {
+  "id": "viaduc-de-garabit",
+  "name": "Garabit Viaduct",
+  "by": "Gustave Eiffel, Maurice Koechlin",
+  "city": "Ruynes-en-Margeride",
+  "cc": "FR",
+  "year": "1884",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Wrought-iron parabolic arch, 165 m main span, 124 m above the Truyère river.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:00 0510 Viaduc de Garabit - Département Cantal, Frankreich.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:00 0523 Viaduc de Garabit - Département Cantal.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garabit_viaduct"
+  ],
+  "note": ""
+ },
+ {
+  "id": "le-cent-quatre",
+  "name": "Le CentQuatre",
+  "by": "Édouard Delebarre de Bay and Godon (1874); Atelier Novembre (2008)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Former municipal undertaker's hall in cast iron, glass and brick, reopened as an arts centre in 2008.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Cent Quatre @ Paris (28037023873).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Cent Quatre, Paris 21 November 2010 001.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Cent Quatre @ Paris (28546460652).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cent_Quatre"
+  ],
+  "note": "Some may be interior views; verify."
+ },
+ {
+  "id": "tour-majunga",
+  "name": "Tour Majunga",
+  "by": "Jean-Paul Viguier",
+  "city": "La Défense",
+  "cc": "FR",
+  "year": "2014",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "194 m tower of three adjoining planes with a loggia on every floor and sky gardens.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tour Majunga - 2014-02-18 - IMG 4539.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Tour Majunga 7 février 2013.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tour Majunga - 2012-12-12 - IMG 3845.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_Majunga"
+  ],
+  "note": ""
+ },
+ {
+  "id": "grande-halle-de-la-villette",
+  "name": "Grande halle de la Villette",
+  "by": "Jules de Mérindol, Louis-Adolphe Janvier; Bernard Reichen, Philippe Robert (1985)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "1867",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "250 x 85 m cast-iron and glass cattle hall, restored in 1985 as a cultural centre.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Grande halle de la Villette, Paris 12 March 2016 002.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Grande halle de La Villette, 2010-05-18 01.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Grande halle de la Villette, Paris 12 March 2016.jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grande_halle_de_la_Villette"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hotel-de-ville-boulogne-billancourt",
+  "name": "Hôtel de Ville de Boulogne-Billancourt",
+  "by": "Tony Garnier, Jacques Debat-Ponsan",
+  "city": "Boulogne-Billancourt",
+  "cc": "FR",
+  "year": "1934",
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Reinforced-concrete Art Deco town hall with a 19-bay symmetrical front and a 65 m guichets hall.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hôtel Ville Boulogne Billancourt 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hôtel Ville Boulogne Billancourt 3.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Hôtel Ville - Boulogne-Billancourt (FR92) - 2023-09-02 - 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Boulogne-Billancourt"
+  ],
+  "note": "Tower not mentioned in source; none claimed."
+ },
+ {
+  "id": "tour-bretagne-nantes",
+  "name": "Tour Bretagne",
+  "by": "Claude Devorsine (engineer Marcel André)",
+  "city": "Nantes",
+  "cc": "FR",
+  "year": "1976",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "144 m, 37-floor tower with a restaurant on the 32nd floor; third-tallest in France outside Paris.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tour Bretagne 10 janv 2015.JPG",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Tour-bretagne-50.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Tour Bretagne august 2012.jpeg",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_Bretagne"
+  ],
+  "note": ""
+ },
+ {
+  "id": "stade-velodrome-marseille",
+  "name": "Stade Vélodrome",
+  "by": "Henri Ploquin; SCAU (2014 roof)",
+  "city": "Marseille",
+  "cc": "FR",
+  "year": "1937",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "1937 stadium rebuilt for Euro 2016 with a new roof; capacity about 67,000.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Marseille Vélodrome 1.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Marseille Vélodrome 2.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Stade Vélodrome Marseille France.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome"
+  ],
+  "note": "Original 1937; 2014 SCAU rebuild is the notable design."
+ },
+ {
+  "id": "tour-areva",
+  "name": "Tour Areva (Tour Framatome)",
+  "by": "Skidmore, Owings & Merrill; Roger Saubot, François Jullien",
+  "city": "La Défense",
+  "cc": "FR",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Black 178 m square-prism tower, clad in dark granite with darkened windows.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tour Areva and newer building, La Défense, Paris.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_Areva"
+  ],
+  "note": "Single photo; shared frame with a newer tower."
+ },
+ {
+  "id": "coeur-defense",
+  "name": "Cœur Défense",
+  "by": "Jean-Paul Viguier",
+  "city": "La Défense",
+  "cc": "FR",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Two 161 m towers offset so sunlight reaches all parts, rounded white cladding with automatic blinds.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/C%C5%93ur_D%C3%A9fense"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "pont-de-normandie",
+  "name": "Pont de Normandie",
+  "by": "Michel Virlogeux, Charles Lavigne, François Doyelle",
+  "city": "Le Havre / Honfleur",
+  "cc": "FR",
+  "year": "1995",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Landscape"
+  ],
+  "features": "856 m cable-stayed main span between concrete A-frame pylons 214 m tall; longest of its kind at opening.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Le Pont de Normandie depuis Honfleur.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Pont De Normandie.jpg",
+    "license": "CC BY 4.0"
+   },
+   {
+    "file": "File:Pont de Normandie (septembre 2000) - 1.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pont_de_Normandie"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bourse-de-commerce-pinault",
+  "name": "Bourse de Commerce - Pinault Collection",
+  "by": "Henri Blondel (1889 rebuild); Tadao Ando (2021 conversion)",
+  "city": "Paris",
+  "cc": "FR",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Light from above"
+  ],
+  "features": "18th-century rotunda reopened in 2021 with a Tadao Ando concrete cylinder inside it as main gallery.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bourse de commerce de Paris.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51271877176).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51272095538).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bourse_de_Commerce_(Paris)"
+  ],
+  "note": "Later two are likely interior; check first photo is the exterior."
+ },
+ {
+  "id": "tour-hekla",
+  "name": "Tour Hekla",
+  "by": "Jean Nouvel",
+  "city": "La Défense",
+  "cc": "FR",
+  "year": "2022",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "220 m, 48-floor tower with over 76,000 m2 of offices and six environmental certifications.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tour Hekla (43153097560).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Tour Hekla (44965769281).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Photo tour Hekla 09.2021.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tour_Hekla"
+  ],
+  "note": ""
+ },
+ {
+  "id": "musee-des-beaux-arts-de-nantes",
+  "name": "Musée d'arts de Nantes",
+  "by": "Stanton Williams (2017 extension)",
+  "city": "Nantes",
+  "cc": "FR",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Courtyard"
+  ],
+  "features": "2017 extension raised the museum from 11,400 to 17,000 m2, with a 180-seat auditorium in the patio.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Nantes"
+  ],
+  "note": "no free photo found in one search; retry with category Musée d'arts de Nantes."
+ },
+ {
+  "id": "villa-arson",
+  "name": "Villa Arson",
+  "by": "Michel Marot",
+  "city": "Nice",
+  "cc": "FR",
+  "year": "1970",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Courtyard"
+  ],
+  "features": "Hillside art school and centre of about 23,000 m2 built around courtyards, terraces and gardens facing the Riviera.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Les terrasses de la villa Arson (Nice) (5954199627).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:L'entrée de la villa Arson (Nice) (5954762236).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Villa Arson - ancien batiment.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "seen": false,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Arson"
+  ],
+  "note": "Brutalism label from my knowledge, not from the source page; reviewer may change movement."
+ },
+ {
+  "id": "roma-termini",
+  "name": "Roma Termini",
+  "by": "Leo Calini, Eugenio Montuori",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1950",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Public space"
+  ],
+  "features": "Long glazed hall under a concrete roof shaped as a flattened arch, with a cantilevered entrance canopy.",
+  "status": "photo",
+  "commons_category": "Category:Roma Termini railway station",
+  "photos": [
+   {
+    "file": "File:1958 Stazione Termini Roma Maurice Luyten.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:1991-04-XX Italien Rom Stazione Roma Termini a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roma_Termini_railway_station"
+  ],
+  "note": "Luyten 1958 photo captioned 'Rome station square'; 1991 file unchecked by eye, reviewer should confirm facade view."
+ },
+ {
+  "id": "stadio-dei-marmi",
+  "name": "Stadio dei Marmi",
+  "by": "Enrico Del Debbio",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1932",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Plain white marble stadium ringed by sixty 4 m Carrara marble athlete statues by 24 sculptors.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stadio dei Marmi (cropped).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stadio dei Marmi e Palazzo della Farnesina (34393342414).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stadio Olimpico e Stadio dei Marmi.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadio_dei_Marmi"
+  ],
+  "note": "Opened 1932 per en.wikipedia (a category tag says 1928)."
+ },
+ {
+  "id": "santi-pietro-e-paolo-eur",
+  "name": "Santi Pietro e Paolo, EUR",
+  "by": "Arnaldo Foschini",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Brick"
+  ],
+  "features": "Greek-cross plan echoing Michelangelo's St Peter's: a brick cube with four pylons and a tiled dome.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Santi Petro e Paolo a Via Ostiense, Jul 21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Roma EUR Basilica santi Pietro e Paolo.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Basilica dei Santi Pietro e Paolo.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santi_Pietro_e_Paolo_a_Via_Ostiense"
+  ],
+  "note": "Wikipedia style label is 'Simplified Neoclassicism'."
+ },
+ {
+  "id": "villa-necchi-campiglio",
+  "name": "Villa Necchi Campiglio",
+  "by": "Piero Portaluppi",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "1935",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Planting",
+   "Detail"
+  ],
+  "features": "Rationalist villa in a walled garden, with Milan's first private heated swimming pool and a glazed winter garden.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Villa Necchi Campiglio 20220818-174847.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Villa necchi campiglio, esterno 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Villa necchi campiglio, esterno, piscina 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Necchi_Campiglio"
+  ],
+  "note": ""
+ },
+ {
+  "id": "torre-galfa",
+  "name": "Torre Galfa",
+  "by": "Melchiorre Bega",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "1959",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "109 m tower on a rectangular plan; concrete frame almost hidden behind a glass and aluminium curtain wall.",
+  "status": "photo",
+  "commons_category": "Category:Torre Galfa (Milan)",
+  "photos": [
+   {
+    "file": "File:Milano - torre Galfa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Milano - torre Galfa - 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_Galfa"
+  ],
+  "note": ""
+ },
+ {
+  "id": "palazzo-di-giustizia-milano",
+  "name": "Palazzo di Giustizia, Milan",
+  "by": "Marcello Piacentini",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "1940",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Reinforced-concrete courthouse with a restrained exterior, a 61 m corner tower and art by Sironi and Melotti.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Il Palazzo di Giustizia di Milano, sede del Tribunale, opera di Marcello Piacentini.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_Courthouse"
+  ],
+  "note": ""
+ },
+ {
+  "id": "museo-della-civilta-romana",
+  "name": "Museo della Civiltà Romana",
+  "by": "Pietro Ascheri, Domenico Bernardini, Cesare Pascoletti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1955",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "EUR museum holding Gismondi's 1:250 plaster model of Imperial Rome and casts of Trajan's Column reliefs.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Roma 2011 08 22 Museo Civiltà Romana colonnato fronte.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_della_Civilt%C3%A0_Romana"
+  ],
+  "note": "Wikipedia gives 1952 (infobox) vs 1955 (categories); designed 1939-41. Photo shows colonnade front; reviewer check."
+ },
+ {
+  "id": "nuovo-villaggio-matteotti",
+  "name": "Nuovo Villaggio Matteotti",
+  "by": "Giancarlo De Carlo",
+  "city": "Terni",
+  "cc": "IT",
+  "year": "1974",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Community",
+   "Exposed concrete",
+   "Cluster"
+  ],
+  "features": "Concrete housing designed with residents: terraced gardens and separate car and pedestrian paths linked by footbridges.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Villaggio Matteotti (Terni) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Giancarlo de carlo, villaggio matteotti, 1969-74, giardini 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Giancarlo de carlo, villaggio matteotti, 1969-74, 13.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Giancarlo de carlo, villaggio matteotti, 1969-74, scale 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nuovo_Villaggio_Matteotti"
+  ],
+  "note": "Built 1969-74; only about a quarter of the plan was built."
+ },
+ {
+  "id": "lingotto",
+  "name": "Lingotto",
+  "by": "Giacomo Matté-Trucco",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "1923",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Circulation",
+   "Adaptive reuse"
+  ],
+  "features": "Five-storey Fiat factory where cars rose through the building to a rooftop test track reached by spiral ramps.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2026-06-13-Lingotto.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fiat Lingotto Rooftop Racetrack 3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:2026-06-13-Lingotto-Rampe.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lingotto"
+  ],
+  "note": "Converted by Renzo Piano 1989."
+ },
+ {
+  "id": "palavela",
+  "name": "Palavela",
+  "by": "Annibale Rigotti, Giorgio Rigotti",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Vault"
+  ],
+  "features": "Arena 130 m in diameter with a distinctive roof, built 1959-61 and renovated by Gae Aulenti in 2005.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Torino Palavela.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palavela"
+  ],
+  "note": "Only exterior found is 800x600; others are interior or Paolo Monti 1961 (1280px) - reviewer decide."
+ },
+ {
+  "id": "santa-maria-consolatrice-al-tiburtino",
+  "name": "Santa Maria Consolatrice al Tiburtino",
+  "by": "Tullio Rossi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1945",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Brick",
+   "Light & shadow"
+  ],
+  "features": "Minimalist parish church begun in 1942 and consecrated in 1945, on Piazza Santa Maria Consolatrice.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Roma, chiesa di Santa Maria Consolatrice - Facciata.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santa_Maria_Consolatrice_al_Tiburtino"
+  ],
+  "note": "Brief lists Rossi as architect; features paraphrase en.wikipedia only."
+ },
+ {
+  "id": "sacrario-militare-di-redipuglia",
+  "name": "Sacrario Militare di Redipuglia",
+  "by": "Giovanni Greppi",
+  "city": "Redipuglia (Fogliano Redipuglia)",
+  "cc": "IT",
+  "year": "1938",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Stepped terraces of 22 platforms holding 39,857 named soldiers, each frieze reading 'Presente', crowned by a chapel.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sacrario militare di Redipuglia 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sacrario militare di Redipuglia (novembre 2013).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sacrario militare di Redipuglia 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Redipuglia_War_Memorial"
+  ],
+  "note": "Built 1935-38, opened 18 Sept 1938."
+ },
+ {
+  "id": "palazzo-della-farnesina",
+  "name": "Palazzo della Farnesina",
+  "by": "Enrico Del Debbio, Arnaldo Foschini, Vittorio Ballio Morpurgo",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1959",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Nine-storey travertine-faced ministry with over 1,300 rooms, about 169 m wide; designed 1935, finished 1959.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palazzo della Farnesina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palazzo della Farnesina, Zentrale des Außenministeriums in Rom, 2025.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:La Farnesina Roma DSC00418.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palazzo_della_Farnesina"
+  ],
+  "note": ""
+ },
+ {
+  "id": "stadio-renato-dall-ara",
+  "name": "Stadio Renato Dall'Ara",
+  "by": "Giulio Ulisse Arata",
+  "city": "Bologna",
+  "cc": "IT",
+  "year": "1927",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "features": "Opened as Stadio Littoriale; stands built into the architecture, later a 1990 steel frame and cantilevered roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bologna, Stadio Renato Dall'Ara.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stadio Dall'Ara.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stadio Renato Dall'Ara 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara"
+  ],
+  "note": "Opened 1927; extended for 1990 World Cup."
+ },
+ {
+  "id": "stazione-di-venezia-santa-lucia",
+  "name": "Stazione di Venezia Santa Lucia",
+  "by": "Angiolo Mazzoni, Virgilio Vallot, Paul Perilli",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1952",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Low, wide rationalist station facing the Grand Canal, with Venetian lions on the flanks and 15 internal platforms.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stazione di Venezia Santa Lucia 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stazione di Venezia Santa Lucia 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Venezia Santa Lucia railway station.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venezia_Santa_Lucia_railway_station"
+  ],
+  "note": ""
+ },
+ {
+  "id": "palazzo-del-cinema-venezia",
+  "name": "Palazzo del Cinema, Venice Lido",
+  "by": "Luigi Quagliata",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1937",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Rationalist festival palace of 1937 with a 1,000-seat Sala Grande; partly extended in 1952 with a forepart and arena.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palazzo del Cinema (Lido di Venezia) 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palazzo del Cinema (Lido di Venezia) 29 11 2022 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palazzo del Cinema (Venezia) 2021 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palazzo_del_Cinema_di_Venezia"
+  ],
+  "note": "Inaugurated 10 Aug 1937. Reviewer: confirm the files show the building, not red-carpet crowds."
+ },
+ {
+  "id": "fondazione-querini-stampalia",
+  "name": "Fondazione Querini Stampalia (Scarpa ground floor and garden)",
+  "by": "Carlo Scarpa",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1963",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Water",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Scarpa's ground floor, entrance bridge, courtyard garden with Deluigi mosaic and fountain, in a historic palazzo.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 04.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 05.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fondazione_Querini_Stampalia",
+   "https://en.wikipedia.org/wiki/Carlo_Scarpa"
+  ],
+  "note": "Scarpa work 1961-63 per en.wikipedia Carlo Scarpa. Files are ground floor and garden (some interior)."
+ },
+ {
+  "id": "venezuela-pavilion-venice",
+  "name": "Venezuela Pavilion, Venice Biennale",
+  "by": "Carlo Scarpa",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "1956",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Exposed concrete"
+  ],
+  "features": "Small national pavilion in the Giardini designed by Carlo Scarpa in 1954-56.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Le pavillon du Vénézuela (Biennale de Venise 2019) (48094271267).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlo_Scarpa"
+  ],
+  "note": "Features line thin: en.wikipedia gives only dates and architect; concepts are a guess - reviewer verify or drop. Photo title only, not viewed."
+ },
+ {
+  "id": "villaggio-eni-borca-di-cadore",
+  "name": "Villaggio ENI, Borca di Cadore",
+  "by": "Edoardo Gellner",
+  "city": "Corte di Cadore",
+  "cc": "IT",
+  "year": "1963",
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Cluster",
+   "Community"
+  ],
+  "features": "About 270 houses, a hotel, campsite and children's colony spread over 200 ha on the slopes of Monte Antelao.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Corte_di_Cadore"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "stazione-di-milano-centrale",
+  "name": "Milano Centrale",
+  "by": "Ulisse Stacchini",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "1931",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "200 m facade and a 72 m high vault, with steel canopies 341 m long over 24 platforms; Liberty and Art Deco blend.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Facciata della Stazione Centrale di Milano nel 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Facciata Stazione Centrale di Milano.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Milan CentralStation 016 4294.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milano_Centrale_railway_station"
+  ],
+  "note": "Won 1912 competition; opened 1 July 1931."
+ },
+ {
+  "id": "stadio-olimpico-roma",
+  "name": "Stadio Olimpico",
+  "by": "Luigi Moretti, Carlo Valle, Annibale Vitellozzi",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "1953",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "1990 roof: a Teflon-coated fibreglass membrane hung from 88 radial cables between steel rings on 12 pillars.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stadio Olimpico 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stadio Olimpico e Stadio dei Marmi.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stadio_Olimpico"
+  ],
+  "note": "Postwar stadium opened 17 May 1953 (built 1928-53; Del Debbio 1928, Moretti 1933-37, Vitellozzi/Valle 1951-53); roof by Vitellozzi/Clerici 1990."
+ },
+ {
+  "id": "mediopadana-station",
+  "name": "Reggio Emilia AV Mediopadana station",
+  "by": "Santiago Calatrava",
+  "city": "Reggio Emilia",
+  "cc": "IT",
+  "year": "2013",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Calatrava's high-speed station on the Milan-Bologna line, with two side platforms.",
+  "status": "photo",
+  "commons_category": "Category:Reggio Emilia AV Mediopadana train station",
+  "photos": [
+   {
+    "file": "File:Reggio Emilia AV Mediopadana railway station in 2026.12.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Reggio Emilia AV Mediopadana railway station in 2026.11.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Reggio Emilia AV Mediopadana railway station in 2026.16.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reggio_Emilia_AV_Mediopadana_railway_station"
+  ],
+  "note": "Large CC0 set (2026) all titled as the station exterior views; many more in category. Wikipedia article gives little design detail, so features line is thin; a reviewer could add one from Calatrava's own site."
+ },
+ {
+  "id": "ponte-della-costituzione",
+  "name": "Ponte della Costituzione",
+  "by": "Santiago Calatrava",
+  "city": "Venice",
+  "cc": "IT",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Arched truss bridge over the Grand Canal: 180 m radius, 79.72 m longest span, 7.04 m clearance at high tide.",
+  "status": "photo",
+  "commons_category": "Category:Ponte della Costituzione",
+  "photos": [
+   {
+    "file": "File:Ponte della Costituzione 06 2017 2606.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Veduta del ponte della Costituzione a Venezia.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Ponte della Costituzione.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ponte_della_Costituzione"
+  ],
+  "note": ""
+ },
+ {
+  "id": "roma-tiburtina-station",
+  "name": "Roma Tiburtina station",
+  "by": "Paolo Desideri",
+  "city": "Rome",
+  "cc": "IT",
+  "year": "2011",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Structure as expression"
+  ],
+  "features": "Glazed bridge-station 240 m long and 50 m wide, suspended 9 m above ground, with 29 escalators and 52 lifts.",
+  "status": "photo",
+  "commons_category": "Category:Roma Tiburtina train station",
+  "photos": [
+   {
+    "file": "File:2013-06-15 Roma Stazione FS Tiburtina.jpg",
+    "license": "CC BY-SA 3.0 it",
+    "seen": false
+   },
+   {
+    "file": "File:Nuova Stazione Tiburtina - Roma (12388669925).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Roma Stazione Tiburtina - Italia (12368179965).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roma_Tiburtina_railway_station"
+  ],
+  "note": "Flickr series (CC BY-SA 2.0, 4288x3216) not individually checked; pick best by eye."
+ },
+ {
+  "id": "intesa-sanpaolo-skyscraper",
+  "name": "Intesa Sanpaolo Skyscraper",
+  "by": "Renzo Piano",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "2015",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "167 m bioclimatic tower, naturally ventilated, with south-facade photovoltaics and a rooftop greenhouse restaurant.",
+  "status": "photo",
+  "commons_category": "Category:Intesa Sanpaolo Building",
+  "photos": [
+   {
+    "file": "File:Grattacielo Intesa Sanpaolo Torino.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Intesa Sanpaolo Building Turin 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grattacielo Intesa Sanpaolo dal Colle della Maddalena.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grattacielo_Intesa_Sanpaolo"
+  ],
+  "note": "Wikipedia says construction completed December 2014; reviewer may prefer 2014."
+ },
+ {
+  "id": "gioia-22-tower",
+  "name": "Gioia 22",
+  "by": "Pelli Clarke & Partners",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2021",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "121 m tower with over 6,000 m2 of photovoltaic panels, cutting energy need by about three quarters.",
+  "status": "photo",
+  "commons_category": "Category:Torre Gioia 22",
+  "photos": [
+   {
+    "file": "File:Torre Gioia 22 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Scheggia Gioia 22.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gioia_22_Tower"
+  ],
+  "note": "Only two photos over 1200px on the long side; both portrait."
+ },
+ {
+  "id": "unicredit-tower",
+  "name": "UniCredit Tower",
+  "by": "César Pelli",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2011",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "33 floors and 238 m including a spire covered in LEDs; stands at the Piazza Gae Aulenti end of Porta Nuova.",
+  "status": "photo",
+  "commons_category": "Category:UniCredit Tower (Milan)",
+  "photos": [
+   {
+    "file": "File:Porta Garibaldi & UniCredit tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:TorreUnicreditdalGiardinoMalgeri.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Torre Unicredit, Porta Garibaldi, Milano - César Pelli.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UniCredit_Tower"
+  ],
+  "note": "CHECK features: Wikipedia extract gave 33 floors, 238 m with spire, 80.5 m LED spire; line above says 231 m and 'Italy tallest' - not verified, rewrite from the article before use."
+ },
+ {
+  "id": "napoli-afragola-station",
+  "name": "Napoli Afragola station",
+  "by": "Zaha Hadid",
+  "city": "Afragola",
+  "cc": "IT",
+  "year": "2017",
+  "type": "Infrastructure",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Circulation"
+  ],
+  "features": "Four-level, 25 m bridge building over four tracks, with a 20,000 m2 concourse.",
+  "status": "photo",
+  "commons_category": "Category:Napoli Afragola train station",
+  "photos": [
+   {
+    "file": "File:Stazione alta velocita, Zaha Hadid, Napoli Afragola.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stazione Afragola.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Stazione-Napoli-Afragola.webp",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Napoli_Afragola_railway_station"
+  ],
+  "note": "Only three files in category. Wikipedia text: 'four-level, 25 m bridge over four tracks'."
+ },
+ {
+  "id": "museion-bolzano",
+  "name": "Museion",
+  "by": "KSV Krüger Schuberth Vandreike",
+  "city": "Bolzano",
+  "cc": "IT",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Prism 54 m long, 25 m high, 23 m wide, with transparent front and rear facades linking two parts of the city.",
+  "status": "photo",
+  "commons_category": "Category:Museion (Bolzano)",
+  "photos": [
+   {
+    "file": "File:Museion - Lato Talvera (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Museion (Bolzano) Bozen msu-2811-.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:BozenMuseionWestansicht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museion"
+  ],
+  "note": "Wikipedia says 'rectangular prism'; word 'glass' is inferred, drop if strict."
+ },
+ {
+  "id": "allianz-tower-milan",
+  "name": "Allianz Tower (Il Dritto)",
+  "by": "Arata Isozaki, Andrea Maffei",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2015",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Fifty floors from eight six-storey modules, with a slightly curved triple-glass facade and panoramic lifts.",
+  "status": "photo",
+  "commons_category": "Category:Allianz Tower",
+  "photos": [
+   {
+    "file": "File:Torre Isozaki Milano.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Allianz Tower - CityLife a Milano.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Torre Isozaki.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allianz_Tower"
+  ],
+  "note": "Name clashes with Barcelona's Torre Allianz; id has -milan. Heights conflict in Wikipedia, so none given."
+ },
+ {
+  "id": "centro-direzionale-napoli",
+  "name": "Centro Direzionale di Napoli",
+  "by": "Kenzo Tange",
+  "city": "Naples",
+  "cc": "IT",
+  "year": "1995",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Megastructure",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Tower district on about 110 ha of former industrial land; the tallest is the 129 m Telecom Italia tower.",
+  "status": "photo",
+  "commons_category": "Category:Centro direzionale (Naples)",
+  "photos": [
+   {
+    "file": "File:Centro Direzionale di Napoli.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Direzionale - Napoli.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Direzionale.JPG",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_direzionale_di_Napoli"
+  ],
+  "note": "Wikipedia: 'first skyscraper cluster in Italy or southern Europe' - phrase hedged; features trimmed."
+ },
+ {
+  "id": "madre-museum-naples",
+  "name": "MADRE Museum",
+  "by": "Álvaro Siza",
+  "city": "Naples",
+  "cc": "IT",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "features": "Siza adapted the Palazzo Donnaregina over four floors; a roof terrace carries Paladino's sculpture Cavallo.",
+  "status": "photo",
+  "commons_category": "Category:Museo d'arte contemporanea Donnaregina (Naples)",
+  "photos": [
+   {
+    "file": "File:Museo Madre,.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Napoli - Museo d'arte contemporanea Donnaregina - 2024-09-03 23-43-51 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_d'Arte_Contemporanea_Donnaregina"
+  ],
+  "note": "CHECK PHOTOS FIRST: descriptions are only 'Museo Madre'; may be interior or courtyard."
+ },
+ {
+  "id": "juventus-stadium",
+  "name": "Juventus Stadium",
+  "by": "Hernando Suárez, Gino Zavanella, Giorgetto Giugiaro",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Reclaimed material"
+  ],
+  "features": "41,689 seats; foundations reuse about 40,000 m3 of recycled concrete from the old Stadio delle Alpi.",
+  "status": "photo",
+  "commons_category": "Category:Juventus Stadium",
+  "photos": [
+   {
+    "file": "File:Allianz Stadium dal Colle della Maddalena.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Juvar1.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Juventus v Real Madrid, Champions League, Stadium, Turin, 2013 (cropped).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juventus_Stadium"
+  ],
+  "note": "Wikipedia also credits Giorgetto Giugiaro; match-day photos show crowd, choose by eye."
+ },
+ {
+  "id": "aquarium-of-genoa",
+  "name": "Aquarium of Genoa",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "1992",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Promenade",
+   "Public space"
+  ],
+  "features": "Built for Expo '92 on the old port; 70 tanks hold about 6 million litres of water.",
+  "status": "photo",
+  "commons_category": "Category:Aquarium of Genoa",
+  "photos": [
+   {
+    "file": "File:Aquarium of Genoa in 2021.01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aquarium of Genoa (50571642603).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Genova Porto Antico Biosfera e Acquario.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aquarium_of_Genoa"
+  ],
+  "note": "Wikipedia: infobox 1992, public opening Oct 1993."
+ },
+ {
+  "id": "biosphere-genoa",
+  "name": "Biosphere (Bigo)",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "2001",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "Glass-and-steel sphere 20 m across weighing 60 tonnes, with movable sails that shade it from the sun.",
+  "status": "photo",
+  "commons_category": "Category:Biosphere of Genoa",
+  "photos": [
+   {
+    "file": "File:Genova Porto Antico Biosfera e Acquario 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Genova - Biosfera - 2025-09-17 10-09-52 001.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Genova - Biosfera - 2024-09-13 16-43-54 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Biosphere_(Genoa)"
+  ],
+  "note": "Wikipedia: built 2001, inaugurated 19 Jan 2002; exact article title 'Biosphere (Genoa)'."
+ },
+ {
+  "id": "matitone-genoa",
+  "name": "Matitone (WTC Genoa)",
+  "by": "Skidmore, Owings & Merrill; Mario Lanata; Andrea Messina",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": "1992",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "109 m, 26 floors; granite and green-glass strips under a copper pyramid roof.",
+  "status": "photo",
+  "commons_category": "Category:Matitone",
+  "photos": [
+   {
+    "file": "File:Porto di Genova, Matitone, vista.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Matitone, Genova, notte.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Matitone visto dall'acquario.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matitone"
+  ],
+  "note": "Wikipedia: built 1987-1990, inaugurated 1992; year 1992 used. Category is mostly harbour views, pick by eye."
+ },
+ {
+  "id": "teatro-degli-arcimboldi",
+  "name": "Teatro degli Arcimboldi",
+  "by": "Vittorio Gregotti",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "2002",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Section",
+   "Double height"
+  ],
+  "features": "Fan-shaped, 2,375-seat theatre inside a converted Pirelli factory in Bicocca.",
+  "status": "photo",
+  "commons_category": "Category:Teatro degli Arcimboldi",
+  "photos": [
+   {
+    "file": "File:Teatro degli Arcimboldi esterno.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Teatro_degli_Arcimboldi"
+  ],
+  "note": "Only one usable exterior photo (2774x2554); Wikipedia also lists Mario Botta and Elisabetta Fabbri."
+ },
+ {
+  "id": "casino-di-campione",
+  "name": "Casinò di Campione",
+  "by": "Mario Botta",
+  "city": "Campione d'Italia",
+  "cc": "IT",
+  "year": "2007",
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "Angular volume of over 55,000 m2 on nine floors, lit red at night; three underground car-park levels.",
+  "status": "photo",
+  "commons_category": "Category:Casinò di Campione",
+  "photos": [
+   {
+    "file": "File:Casinò di Campione d'Italia 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casinò di Campione d'Italia 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casino Campione d'Italia veduta.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casin%C3%B2_di_Campione"
+  ],
+  "note": "Italian exclave in Switzerland. Hospitality type used for the casino."
+ },
+ {
+  "id": "palasport-olimpico-turin",
+  "name": "Palasport Olimpico (Pala Alpitour)",
+  "by": "Arata Isozaki",
+  "city": "Turin",
+  "cc": "IT",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Section"
+  ],
+  "features": "Steel-and-glass arena about 200 m long; the base is 183 x 100 m and two of its four levels are underground.",
+  "status": "photo",
+  "commons_category": "Category:Palasport Olimpico (Turin)",
+  "photos": [
+   {
+    "file": "File:PalaIsozaki.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Pala Alpitour July 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inalpi_Arena"
+  ],
+  "note": "Few exterior photos; PalaIsozaki 1600x1200, July 2016 1600x625 (wide strip). Wikipedia lists Maffei, Maggiora, Brizio with Isozaki."
+ },
+ {
+  "id": "centro-pecci-prato",
+  "name": "Centro per l'arte contemporanea Luigi Pecci",
+  "by": "Italo Gamberini, Maurice Nio",
+  "city": "Prato",
+  "cc": "IT",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "1988 museum with a 2016 U-shaped extension adding 3,000 m2 of galleries and an 800-seat amphitheatre.",
+  "status": "photo",
+  "commons_category": "Category:Centro per l'Arte Contemporanea Luigi Pecci",
+  "photos": [
+   {
+    "file": "File:Architettura esterna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Esterno centro Pecci.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Congiunzione parte vecchia e nuova.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_per_l%27arte_contemporanea_Luigi_Pecci"
+  ],
+  "note": "Year is the 2016 extension; original building 1988 by Gamberini. Many more Pecci images exist."
+ },
+ {
+  "id": "rocca-di-frassinello",
+  "name": "Rocca di Frassinello winery",
+  "by": "Renzo Piano",
+  "city": "Gavorrano",
+  "cc": "IT",
+  "year": "2007",
+  "type": "Workplace",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Colour",
+   "Section"
+  ],
+  "features": "Red-plastered winery evoking a Maremma fortress, with a barrel cave arranged on steps like an amphitheatre.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rocca_di_Frassinello"
+  ],
+  "note": "no free photo"
+ }
+]
