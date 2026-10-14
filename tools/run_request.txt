@@ -1,2 +1,2 @@
-python -u tools/fetch_pritzker.py
-Save each Pritzker jury citation, full page text this time.
+python -u tools/fetch_logos.py
+Fetch the Go deeper logos again; archINFORM from its index page (asked for by the Design chat).
