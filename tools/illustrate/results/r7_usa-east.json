@@ -2203,5 +2203,1022 @@
    "https://commons.wikimedia.org/wiki/Category:Winn_Memorial_Library"
   ],
   "note": ""
+ },
+ {
+  "id": "blue-cross-blue-shield-building-chicago",
+  "name": "Blue Cross-Blue Shield Building",
+  "by": "C. F. Murphy Associates",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Brutalist headquarters at 55 West Wacker Drive in the Loop, opened 1968.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:55 West Wacker Drive by Matthew Bisanz.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Cross-Blue_Shield_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "inland-steel-building",
+  "name": "Inland Steel Building",
+  "by": "Bruce Graham & Walter Netsch (Skidmore, Owings & Merrill)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1958",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "332-foot International Style tower, one of the first Loop skyscrapers after World War II.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Inland Steel Building 2007 05 21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inland_Steel_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kluczynski-federal-building",
+  "name": "John C. Kluczynski Federal Building",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "45-storey tower completing the Federal Center, with Mies's post office and plaza.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Chicago Federal Center.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kluczynski_Federal_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "reliance-building",
+  "name": "Reliance Building",
+  "by": "John Root & Charles B. Atwood",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1895",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "The first skyscraper with large plate-glass windows over most of its surface.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Reliance Building in September 2015.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reliance_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "richard-j-daley-center",
+  "name": "Richard J. Daley Center",
+  "by": "Jacques Brownson (C. F. Murphy Associates)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Modernist courthouse tower beside an open granite plaza used for gatherings.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Daley Center Chicago.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richard_J._Daley_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "rookery-building",
+  "name": "Rookery Building",
+  "by": "Burnham & Root",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1888",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "Considered the oldest standing high-rise in Chicago; load-bearing exterior walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Rookery, Chicago, IL.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rookery_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "harold-washington-library-center",
+  "name": "Harold Washington Library Center",
+  "by": "Hammond, Beeby and Babka",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1991",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Postmodernist central library of about 756,000 sq ft of work space, opened 1991.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Harold Washington Library, Chicago, Illinois (9181548762).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harold_Washington_Library_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "1111-lincoln-road",
+  "name": "1111 Lincoln Road",
+  "by": "Herzog & de Meuron",
+  "city": "Miami Beach",
+  "cc": "US",
+  "year": "2010",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Double height",
+   "Light & shadow"
+  ],
+  "features": "Parking garage for about 300 cars with an unusual open form; opened 2010.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:1111 Lincoln Road at night.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/1111_Lincoln_Road"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hyatt-regency-atlanta",
+  "name": "Hyatt Regency Atlanta",
+  "by": "John Portman & Associates",
+  "city": "Atlanta",
+  "cc": "US",
+  "year": "1967",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Void",
+   "Double height",
+   "Circulation"
+  ],
+  "features": "Portman's 22-storey atrium design, hugely influential on hotel design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hyatt-regency-atlanta-side.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyatt_Regency_Atlanta"
+  ],
+  "note": ""
+ },
+ {
+  "id": "harvard-graduate-center",
+  "name": "Harvard Graduate Center",
+  "by": "The Architects Collaborative",
+  "city": "Cambridge",
+  "cc": "US",
+  "year": "1950",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Community"
+  ],
+  "features": "The \"Gropius Complex\", designed 1948: the first modern building on Harvard's campus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Story Hall, Harvard University, Cambridge MA.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvard_Graduate_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ingalls-rink",
+  "name": "David S. Ingalls Rink",
+  "by": "Eero Saarinen",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1958",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Vault"
+  ],
+  "features": "Yale's hockey rink, nicknamed \"The Whale\", with a ceiling up to 75 feet high.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ingalls Rink Highsmith.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ingalls_Rink"
+  ],
+  "note": ""
+ },
+ {
+  "id": "north-christian-church-columbus",
+  "name": "North Christian Church",
+  "by": "Eero Saarinen",
+  "city": "Columbus",
+  "cc": "US",
+  "year": "1964",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "192-foot-tall church with interiors by Alexander Girard and landscape by Dan Kiley.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:NorthChristianChurch.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/North_Christian_Church"
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-deere-world-headquarters",
+  "name": "John Deere World Headquarters",
+  "by": "Eero Saarinen",
+  "city": "Moline",
+  "cc": "US",
+  "year": "1964",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Corporate headquarters opened in 1964; won the AIA Twenty-five Year Award.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:John Deere World Headquarters 04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+  ],
+  "note": ""
+ },
+ {
+  "id": "j-s-dorton-arena",
+  "name": "J. S. Dorton Arena",
+  "by": "Maciej Nowicki & William Henley Deitrick",
+  "city": "Raleigh",
+  "cc": "US",
+  "year": "1952",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "The first structure in the world to use a cable-supported roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Dorton Arena West Side.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/J._S._Dorton_Arena"
+  ],
+  "note": ""
+ },
+ {
+  "id": "sarasota-high-school",
+  "name": "Sarasota High School",
+  "by": "Paul Rudolph",
+  "city": "Sarasota",
+  "cc": "US",
+  "year": "1959",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Public high school by Paul Rudolph, built 1958–59.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sarasota High School Addition (Paul Rudolph, Architect, FAIA).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarasota_High_School"
+  ],
+  "note": ""
+ },
+ {
+  "id": "wingspread",
+  "name": "Wingspread (Herbert F. Johnson House)",
+  "by": "Frank Lloyd Wright",
+  "city": "Wind Point",
+  "cc": "US",
+  "year": "1939",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Brick"
+  ],
+  "features": "One of Wright's largest houses at 14,000 sq ft; he called it his last Prairie house.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:WingspreadFrankLloydWrightKenoshaWisconsin.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wingspread"
+  ],
+  "note": ""
+ },
+ {
+  "id": "graycliff",
+  "name": "Graycliff",
+  "by": "Frank Lloyd Wright",
+  "city": "Derby",
+  "cc": "US",
+  "year": "1931",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Climate response",
+   "Stone"
+  ],
+  "features": "Summer estate on a bluff above Lake Erie, designed 1926 and built 1926–31.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Graycliff.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Graycliff"
+  ],
+  "note": ""
+ },
+ {
+  "id": "jacobs-first-house",
+  "name": "Herbert and Katherine Jacobs First House",
+  "by": "Frank Lloyd Wright",
+  "city": "Madison",
+  "cc": "US",
+  "year": "1937",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Single-storey, L-shaped, 1,550 sq ft house, sometimes cited as Wright's first Usonian.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jacobs First House - front.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herbert_Jacobs_First_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "pope-leighey-house",
+  "name": "Pope–Leighey House",
+  "by": "Frank Lloyd Wright",
+  "city": "Alexandria",
+  "cc": "US",
+  "year": "1941",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Human comfort"
+  ],
+  "features": "Wright house moved twice; now on the grounds of Woodlawn Plantation.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Pope-Leighey House - North east facade - HABS VA,30-FALCH,2-10.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pope-Leighey_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "phipps-conservatory",
+  "name": "Phipps Conservatory",
+  "by": "Lord & Burnham",
+  "city": "Pittsburgh",
+  "cc": "US",
+  "year": "1893",
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Planting"
+  ],
+  "features": "Glasshouse conservatory in Schenley Park, founded in 1893 by Henry Phipps Jr.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Phipps conservatory 0.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phipps_Conservatory_and_Botanical_Gardens"
+  ],
+  "note": ""
+ },
+ {
+  "id": "paul-rudolph-hall",
+  "name": "Paul Rudolph Hall (Yale Art and Architecture Building)",
+  "by": "Paul Rudolph",
+  "city": "New Haven",
+  "cc": "US",
+  "year": "1963",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Section",
+   "Circulation"
+  ],
+  "features": "One of the earliest and best-known Brutalist buildings in the US, with over 30 floor levels.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rudolph Hall.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Rudolph_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "highfield-house-baltimore",
+  "name": "Highfield House",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": "1964",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "High-rise condominium, outstanding International Style housing and Mies's second Baltimore building.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:HighfieldHouse 2008.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Highfield_House_Condominium"
+  ],
+  "note": "Photo is 1057x803; a larger one may exist."
+ },
+ {
+  "id": "home-federal-savings-des-moines",
+  "name": "Home Federal Savings and Loan Building",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Des Moines",
+  "cc": "US",
+  "year": "1962",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "One of the first steel-and-glass modernist buildings downtown; now the Catholic Pastoral Center.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Catholic Pastoral Center - Des Moines, Iowa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Home_Federal_Savings_and_Loan_Association_of_Des_Moines_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "one-m-t-plaza",
+  "name": "One M&T Plaza",
+  "by": "Minoru Yamasaki",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1967",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Detail"
+  ],
+  "features": "21-storey tower with white and green marble base and a 75-by-225-foot exterior plaza.",
+  "status": "photo",
+  "commons_category": "Category:One M & T Plaza",
+  "photos": [
+   {
+    "file": "File:Buffalo Exchange Street Station (16064889481).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_M&T_Plaza",
+   "https://commons.wikimedia.org/wiki/Category:One_M_&_T_Plaza"
+  ],
+  "note": ""
+ },
+ {
+  "id": "national-farmers-bank-owatonna",
+  "name": "National Farmers' Bank of Owatonna",
+  "by": "Louis Sullivan",
+  "city": "Owatonna",
+  "cc": "US",
+  "year": "1908",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Brick"
+  ],
+  "features": "Historic bank by Louis Sullivan with decorative elements by George Elmslie.",
+  "status": "photo",
+  "commons_category": "Category:National Farmer's Bank of Owatonna",
+  "photos": [
+   {
+    "file": "File:Louis H. Sullivan - Farmer's National Bank (A), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - National Farmer's Bank (C), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - National Farmer's Bank (B), Owatonna, MN.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Farmers'_Bank_of_Owatonna",
+   "https://commons.wikimedia.org/wiki/Category:National_Farmer's_Bank_of_Owatonna"
+  ],
+  "note": ""
+ },
+ {
+  "id": "bayard-condict-building",
+  "name": "Bayard–Condict Building",
+  "by": "Louis Sullivan",
+  "city": "New York",
+  "cc": "US",
+  "year": "1899",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "Sullivan's only New York building: 12 storeys, Chicago School, with a terracotta facade.",
+  "status": "photo",
+  "commons_category": "Category:Bayard-Condict Building",
+  "photos": [
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (A), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (C), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Louis H. Sullivan - Bayard-Condict Building (B), New York, NY.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bayard–Condict_Building",
+   "https://commons.wikimedia.org/wiki/Category:Bayard-Condict_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "krause-music-store",
+  "name": "Krause Music Store",
+  "by": "Louis Sullivan (facade)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1922",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Sullivan's last building, with plant-like curving forms framing the picture window.",
+  "status": "photo",
+  "commons_category": "Category:Krause Music Store",
+  "photos": [
+   {
+    "file": "File:Krause Music Store - 52529944623.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Krause Music Store - 52529812683.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Krause_Music_Store",
+   "https://commons.wikimedia.org/wiki/Category:Krause_Music_Store"
+  ],
+  "note": ""
+ },
+ {
+  "id": "buffalo-city-court-building",
+  "name": "Buffalo City Court Building",
+  "by": "Pfohl, Roberts and Biggie",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Ten-storey courthouse on Niagara Square, next to Buffalo City Hall.",
+  "status": "photo",
+  "commons_category": "Category:Buffalo City Court Building",
+  "photos": [
+   {
+    "file": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY - 52685125502.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190609 - 13 - City Court.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Buffalo_City_Court_Building",
+   "https://commons.wikimedia.org/wiki/Category:Buffalo_City_Court_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "george-h-fallon-federal-building",
+  "name": "George H. Fallon Federal Office Building",
+  "by": "Fisher, Nes, Campbell and Associates",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "17-storey International Style tower clad in Minnesota granite, part of Charles Center.",
+  "status": "photo",
+  "commons_category": "Category:George H. Fallon Federal Building",
+  "photos": [
+   {
+    "file": "File:Entrance, George H. Fallon Federal Building (1967), 31-45 Hopkins Plaza, Baltimore, MD 21201 (41656161592).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:George H. Fallon Federal Building (1967), 31-45 Hopkins Plaza, Baltimore, MD 21201 (41656159112).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_H._Fallon_Federal_Office_Building",
+   "https://commons.wikimedia.org/wiki/Category:George_H._Fallon_Federal_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "strom-thurmond-federal-building",
+  "name": "Strom Thurmond Federal Building and U.S. Courthouse",
+  "by": "Marcel Breuer",
+  "city": "Columbia",
+  "cc": "US",
+  "year": "1979",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Monolithic office tower paired with a long, low courthouse; recessed windows with protruding hoods.",
+  "status": "photo",
+  "commons_category": "Category:Strom Thurmond Federal Building",
+  "photos": [
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395729926.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395919863.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53394801007.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Strom_Thurmond_Federal_Building_and_United_States_Courthouse",
+   "https://commons.wikimedia.org/wiki/Category:Strom_Thurmond_Federal_Building"
+  ],
+  "note": ""
  }
 ]

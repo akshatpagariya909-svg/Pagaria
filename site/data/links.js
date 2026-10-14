@@ -40,6 +40,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/11_Diagonal_Street"
  },
+ "1111-lincoln-road": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/59266/1111-lincoln-road-herzog-de-meuron"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/129362-herzog-de-meuron-nelson-garrido-1111-lincoln-road"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=25.79073&mlon=-80.14104#map=17/25.79073/-80.14104"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/1111_Lincoln_Road"
+ },
  "122-leadenhall-street": {
   "links": [
    {
@@ -869,6 +889,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Adler_Planetarium"
+ },
+ "administrative-palace-satu-mare": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.78884&mlon=22.87308#map=17/47.78884/22.87308"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Administrative_Palace%2C_Satu_Mare"
  },
  "advanced-engineering-building-uq": {
   "links": [
@@ -1764,6 +1794,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Ananda_Temple"
  },
+ "ananta-samakhom-throne-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.parliament.go.th"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.77160&mlon=100.51311#map=17/13.77160/100.51311"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ananta_Samakhom_Throne_Hall"
+ },
  "andrew-melville-hall": {
   "links": [
    {
@@ -1861,6 +1906,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Palace_of_Justice%2C_Antwerp"
+ },
+ "antwerpen-centraal-station": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.belgiantrain.be/nl/station-information/antwerpen/antwerpen-centraal"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.21694&mlon=4.42111#map=17/51.21694/4.42111"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Antwerpen-Centraal_railway_station"
  },
  "anzac-memorial": {
   "links": [
@@ -3106,6 +3166,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Autrique_House"
  },
+ "avala-tower-belgrade": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20006008"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.69583&mlon=20.51444#map=17/44.69583/20.51444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Avala_Tower"
+ },
  "avicenna-mausoleum": {
   "links": [
    {
@@ -3196,6 +3271,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Axel_Springer_SE"
  },
+ "ayala-museum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.ayalamuseum.org"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.55360&mlon=121.02300#map=17/14.55360/121.02300"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ayala_Museum"
+ },
  "azadi-stadium": {
   "links": [
    {
@@ -3255,6 +3345,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Azerbaijan_Carpet_Museum"
+ },
+ "baan-dam-museum": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=19.99210&mlon=99.86070#map=17/19.99210/99.86070"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Baan_Dam_Museum"
  },
  "babyn-yar-synagogue": {
   "links": [
@@ -3583,6 +3683,10 @@ window.LINKS = {
  "banco-borges-e-irmao": {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Borges"
+ },
+ "bandung-institute-of-technology": {
+  "links": [],
+  "wiki": null
  },
  "bangkok-art-and-culture-centre": {
   "links": [
@@ -4137,6 +4241,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Bavinger_House"
+ },
+ "bayard-condict-building": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13319.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20029583"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=40.72639&mlon=-73.99500#map=17/40.72639/-73.99500"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Bayard%E2%80%93Condict_Building"
  },
  "bayterek-tower": {
   "links": [
@@ -5209,6 +5333,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Black_Diamond_%28library%29"
  },
+ "blauwe-theehuis-vondelpark": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.35882&mlon=4.87258#map=17/52.35882/4.87258"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Blauwe_Theehuis"
+ },
  "blavatnik-school-of-government": {
   "links": [
    {
@@ -5497,6 +5631,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Boekentoren"
+ },
+ "boerentoren-antwerp": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20023363"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.21864&mlon=4.40408#map=17/51.21864/4.40408"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Boerentoren"
  },
  "bolgatanga-library": {
   "links": [],
@@ -5915,6 +6064,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Broadcasting_House"
  },
+ "brothers-cemetery-riga": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.98889&mlon=24.14278#map=17/56.98889/24.14278"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Brothers%27_Cemetery"
+ },
  "brucke-museum": {
   "links": [
    {
@@ -5994,6 +6153,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/BT_Tower"
+ },
+ "buffalo-city-court-building": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.88560&mlon=-78.87930#map=17/42.88560/-78.87930"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Buffalo_City_Court_Building"
  },
  "building-2226-lustenau": {
   "links": [
@@ -7707,6 +7876,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Catetinho"
  },
+ "cathay-building": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.29931&mlon=103.84800#map=17/1.29931/103.84800"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cathay_Building"
+ },
  "cathedral-of-brasilia": {
   "links": [
    {
@@ -7852,6 +8031,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_%28San_Francisco%29"
  },
+ "cauchie-house-brussels": {
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/cauchie-house/"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.cauchie.be"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.83837&mlon=4.39533#map=17/50.83837/4.39533"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cauchie_House"
+ },
  "cayan-tower": {
   "links": [
    {
@@ -7936,6 +8135,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Paris_Charles_de_Gaulle_Airport"
+ },
+ "cec-palace-bucharest": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.43200&mlon=26.09650#map=17/44.43200/26.09650"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/CEC_Palace"
  },
  "cedar-rock-walter-house": {
   "links": [
@@ -8485,6 +8694,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Century_Plaza_Towers"
+ },
+ "cepelia-pavilion-warsaw": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.22895&mlon=21.01162#map=17/52.22895/21.01162"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cepelia_Pavilion"
  },
  "cept-university": {
   "links": [
@@ -9113,6 +9332,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Christian_Science_Plaza"
  },
+ "christs-resurrection-church-kaunas": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.prisikelimas.lt/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=54.90264&mlon=23.91692#map=17/54.90264/23.91692"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Christ%27s_Resurrection_Basilica%2C_Kaunas"
+ },
  "chrysler-building": {
   "links": [
    {
@@ -9486,6 +9720,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Churchill_Gardens"
  },
+ "cibona-tower-zagreb": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20033280"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.80306&mlon=15.96389#map=17/45.80306/15.96389"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cibona_Tower"
+ },
  "cidade-das-artes": {
   "links": [
    {
@@ -9559,6 +9808,21 @@ window.LINKS = {
  "ciniba-katowice": {
   "links": [],
   "wiki": null
+ },
+ "cinquantenaire-arcade-brussels": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20014488"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.84055&mlon=4.39299#map=17/50.84055/4.39299"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Cinquantenaire_Arcade"
  },
  "cite-de-l-ocean-et-du-surf": {
   "links": [
@@ -10272,6 +10536,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Constance_Perkins_House"
  },
+ "constanta-casino": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20047634"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.17050&mlon=28.66350#map=17/44.17050/28.66350"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Constan%C8%9Ba_Casino"
+ },
  "constitutional-court-of-south-africa": {
   "links": [
    {
@@ -10575,6 +10854,26 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "croatian-national-theatre-zagreb": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.hnk.hr/hr/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/52440.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.80950&mlon=15.97000#map=17/45.80950/15.97000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Croatian_National_Theatre%2C_Zagreb"
+ },
  "crow-island-school": {
   "links": [
    {
@@ -10689,6 +10988,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Christ_Cathedral_%28Garden_Grove%2C_California%29"
+ },
+ "crystal-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=5.32228&mlon=103.12066#map=17/5.32228/103.12066"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Crystal_Mosque"
  },
  "cuadra-san-cristobal": {
   "links": [
@@ -11305,6 +11614,16 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "democracy-monument-bangkok": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.75667&mlon=100.50167#map=17/13.75667/100.50167"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Democracy_Monument"
  },
  "den-bla-planet": {
   "links": [
@@ -12855,6 +13174,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Entrepreneurship_Development_Institute_of_India"
  },
+ "erasmus-bridge-rotterdam": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5854.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20000267"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.90864&mlon=4.48654#map=17/51.90864/4.48654"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Erasmusbrug"
+ },
  "erdene-zuu": {
   "links": [
    {
@@ -13078,6 +13417,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Eureka_Tower"
+ },
+ "europa-building-brussels": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20072791"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.84250&mlon=4.38083#map=17/50.84250/4.38083"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Europa_building"
  },
  "european-central-bank": {
   "links": [
@@ -13312,6 +13666,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Broadgate"
+ },
+ "eye-filmmuseum-amsterdam": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.eyefilm.nl/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.38441&mlon=4.90059#map=17/52.38441/4.90059"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/EYE_Institut_Filmmuseum"
  },
  "facultad-de-arquitectura-udelar": {
   "links": [],
@@ -13982,6 +14351,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "flagey-building-brussels": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.82687&mlon=4.37313#map=17/50.82687/4.37313"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Flagey_Building"
+ },
  "flame-towers": {
   "links": [
    {
@@ -14566,6 +14945,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Fredensborg_Houses"
+ },
+ "freedom-monument-riga": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.95156&mlon=24.11322#map=17/56.95156/24.11322"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Freedom_Monument"
  },
  "freer-gallery-of-art": {
   "links": [
@@ -15261,6 +15650,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Gda%C5%84sk_Shakespeare_Theatre"
  },
+ "gedung-sate": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.90246&mlon=107.61873#map=17/-6.90246/107.61873"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gedung_Sate"
+ },
  "geelong-library-and-heritage-centre": {
   "links": [
    {
@@ -15331,6 +15730,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Geisel_Library"
  },
+ "gelora-bung-karno-stadium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.gelorabungkarno.co.id/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20036560"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.21858&mlon=106.80251#map=17/-6.21858/106.80251"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gelora_Bung_Karno_Stadium"
+ },
  "gemini-residence": {
   "links": [
    {
@@ -15400,6 +15819,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Western_City_Gate"
+ },
+ "george-h-fallon-federal-building": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.28806&mlon=-76.61750#map=17/39.28806/-76.61750"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/George_H._Fallon_Federal_Office_Building"
  },
  "german-embassy-saint-petersburg": {
   "links": [
@@ -15703,6 +16132,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Glaspalast_Sindelfingen"
+ },
+ "glaspaleis-heerlen": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.88792&mlon=5.97934#map=17/50.88792/5.97934"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Schunck"
  },
  "glass-house": {
   "links": [
@@ -16034,6 +16473,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum"
  },
+ "grand-hotel-prishtina": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.66005&mlon=21.15949#map=17/42.66005/21.15949"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Grand_Hotel_Prishtina"
+ },
  "grand-hotel-taipei": {
   "links": [
    {
@@ -16153,6 +16602,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Royal_Theatre_of_Rabat"
  },
+ "grand-theatre-luxembourg": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.theatres.lu"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=49.61787&mlon=6.12788#map=17/49.61787/6.12788"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_de_Luxembourg"
+ },
  "grande-arche": {
   "links": [
    {
@@ -16256,6 +16720,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Douglas_and_Charlotte_Grant_House"
+ },
+ "graycliff": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://experiencegraycliff.org"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13392.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.71338&mlon=-78.97290#map=17/42.71338/-78.97290"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Graycliff"
  },
  "great-bamboo-wall-house": {
   "links": [
@@ -16431,6 +16915,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Gro%C3%9Fmarkthalle"
+ },
+ "groninger-museum": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.groningermuseum.nl"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/383794-philippe-starck-atelier-mendini-coop-himmelb-l-au-wolf-d-prix-partner-groninger-museum"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=53.21194&mlon=6.56556#map=17/53.21194/6.56556"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Groninger_Museum"
  },
  "groot-klimmendaal": {
   "links": [
@@ -16741,6 +17245,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Guthrie_Theater"
  },
+ "gyongyos-synagogue": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.78359&mlon=19.92247#map=17/47.78359/19.92247"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gy%C3%B6ngy%C3%B6s_Synagogue"
+ },
  "haas-house": {
   "links": [
    {
@@ -16971,6 +17485,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hallidie_Building"
  },
+ "haludovo-palace-hotel-malinska": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.hoteli-haludovo.hr/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.13111&mlon=14.52778#map=17/45.13111/14.52778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Haludovo_Palace_Hotel"
+ },
  "hamburger-bahnhof": {
   "links": [
    {
@@ -17051,6 +17580,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hanoi_Museum"
  },
+ "hanoi-opera-house": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://hanoioperahouse.org.vn/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=21.02417&mlon=105.85778#map=17/21.02417/105.85778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hanoi_Opera_House"
+ },
  "hans-otto-theater": {
   "links": [
    {
@@ -17120,6 +17664,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Harold_Holt_Memorial_Swimming_Centre"
  },
+ "harold-washington-library-center": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20040066"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.87630&mlon=-87.62820#map=17/41.87630/-87.62820"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Harold_Washington_Library"
+ },
  "harpa": {
   "links": [
    {
@@ -17169,6 +17728,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Harry_and_Penelope_Seidler_House"
+ },
+ "harvard-graduate-center": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2942.htm"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Harvard_Graduate_Center"
  },
  "hassan-ii-bridge": {
   "links": [
@@ -17673,6 +18242,21 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "het-nieuwe-instituut-rotterdam": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://nieuweinstituut.nl/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.91459&mlon=4.47093#map=17/51.91459/4.47093"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Het_Nieuwe_Instituut"
+ },
  "het-schip": {
   "links": [
    {
@@ -17717,6 +18301,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center"
+ },
+ "high-court-building-yangon": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=16.77313&mlon=96.16093#map=17/16.77313/96.16093"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/High_Court_Building_%28Yangon%29"
  },
  "high-court-of-australia": {
   "links": [
@@ -18017,6 +18611,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Faculty_of_Law%2C_University_of_Cambridge"
  },
+ "ho-chi-minh-city-hall": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20033241"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=10.77647&mlon=106.70097#map=17/10.77647/106.70097"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Hall"
+ },
  "ho-chi-minh-mausoleum": {
   "links": [
    {
@@ -18155,6 +18764,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Home_Building_Association_Bank"
+ },
+ "home-federal-savings-des-moines": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.58803&mlon=-93.62578#map=17/41.58803/-93.62578"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Home_Federal_Savings_and_Loan_Association_of_Des_Moines_Building"
  },
  "hong-kong-airport-terminal-1": {
   "links": [
@@ -18578,6 +19197,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Humboldt_Hotel"
  },
+ "hotel-indonesia": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.kempinski.com/en/jakarta/hotel-indonesia/welcome/?cmp=ext+campaigns+KIJKT1"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.19561&mlon=106.82226#map=17/-6.19561/106.82226"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hotel_Indonesia"
+ },
  "hotel-intercontinental-prague": {
   "links": [
    {
@@ -18592,6 +19226,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Fairmont_Golden_Prague_Hotel"
+ },
+ "hotel-international-prague": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.internationalprague.com/index.html"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.10919&mlon=14.39331#map=17/50.10919/14.39331"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Grand_Hotel_International_Prague"
  },
  "hotel-jakarta-amsterdam": {
   "links": [
@@ -18864,6 +19513,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/House_of_the_Black_Madonna"
  },
+ "house-of-the-free-press-bucharest": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20035000"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.48093&mlon=26.07121#map=17/44.48093/26.07121"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/House_of_the_Free_Press"
+ },
  "house-of-wisdom-sharjah": {
   "links": [
    {
@@ -18932,6 +19596,16 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "hua-lamphong-railway-station": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.73890&mlon=100.51670#map=17/13.73890/100.51670"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hua_Lamphong_railway_station"
  },
  "hubert-h-humphrey-building": {
   "links": [
@@ -19127,6 +19801,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building"
  },
+ "hungarian-state-opera-house-budapest": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.opera.hu/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/13686.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.50278&mlon=19.05833#map=17/47.50278/19.05833"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hungarian_State_Opera_House"
+ },
  "hungerburgbahn-stations": {
   "links": [
    {
@@ -19161,6 +19855,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Hvittr%C3%A4sk"
+ },
+ "hyatt-regency-atlanta": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://atlanta.regency.hyatt.com/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1610.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20025177"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=33.76146&mlon=-84.38684#map=17/33.76146/-84.38684"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hyatt_Regency_Atlanta"
  },
  "hyatt-regency-san-francisco": {
   "links": [
@@ -19840,6 +20559,46 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "ingalls-rink": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/157708/ad-classics-david-s-ingalls-skating-rink-eero-saarinen"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/826.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20000129"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.31655&mlon=-72.92504#map=17/41.31655/-72.92504"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ingalls_Rink"
+ },
+ "inland-steel-building": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2878.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.88083&mlon=-87.62861#map=17/41.88083/-87.62861"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Inland_Steel_Building"
+ },
  "institut-du-monde-arabe": {
   "links": [
    {
@@ -20080,6 +20839,21 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "ipoh-railway-station": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/334371/under-the-cloud-railway-station-proposal-arthur-kupreychuk"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=4.59722&mlon=101.07333#map=17/4.59722/101.07333"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ipoh_railway_station"
+ },
  "isabella-stewart-gardner-museum": {
   "links": [
    {
@@ -20280,6 +21054,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/King_Abdulaziz_Center_for_World_Culture"
  },
+ "ivan-vazov-national-theatre-sofia": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://nationaltheatre.bg/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/22556.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.69417&mlon=23.32656#map=17/42.69417/23.32656"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ivan_Vazov_National_Theatre"
+ },
  "izvestia-building": {
   "links": [],
   "wiki": null
@@ -20293,6 +21087,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/J._Edgar_Hoover_Building"
+ },
+ "j-s-dorton-arena": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2157.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=35.79361&mlon=-78.71000#map=17/35.79361/-78.71000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Dorton_Arena"
  },
  "jachthuis-sint-hubertus": {
   "links": [
@@ -20354,6 +21163,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Javits_Center"
  },
+ "jacobs-first-house": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.usonia1.com"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/8027.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.05861&mlon=-89.44167#map=17/43.05861/-89.44167"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_First_House"
+ },
  "jacobs-ii-house-solar-hemicycle": {
   "links": [
    {
@@ -20398,6 +21227,41 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "jakarta-cathedral": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.katedraljakarta.or.id/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20036562"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.16925&mlon=106.83312#map=17/-6.16925/106.83312"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Jakarta_Cathedral"
+ },
+ "jakarta-kota-railway-station": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20036564"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.13758&mlon=106.81463#map=17/-6.13758/106.81463"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Jakarta_Kota_railway_station"
  },
  "james-a-farley-building-moynihan-train-hall": {
   "links": [
@@ -20787,6 +21651,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Joensuu_City_Hall"
  },
+ "john-deere-world-headquarters": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.deere.com/en_US/attractions/worldhq/index.html"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/821.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.47667&mlon=-90.42639#map=17/41.47667/-90.42639"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters"
+ },
  "john-f-kennedy-presidential-library-and-museum": {
   "links": [
    {
@@ -21017,6 +21901,10 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kabuki-za"
  },
+ "kadinjaca-memorial-complex": {
+  "links": [],
+  "wiki": null
+ },
  "kadokawa-culture-museum": {
   "links": [
    {
@@ -21200,6 +22088,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kamppi_Chapel"
+ },
+ "kamzik-tv-tower-bratislava": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=48.18250&mlon=17.09444#map=17/48.18250/17.09444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kamz%C3%ADk_TV_Tower"
  },
  "kanchanjunga-apartments": {
   "links": [
@@ -21527,6 +22425,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kaunas_Central_Post_Office"
+ },
+ "kaunas-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=54.89417&mlon=23.92806#map=17/54.89417/23.92806"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kaunas_Mosque"
  },
  "kavanagh-building": {
   "links": [
@@ -22234,6 +23142,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kleinhans_Music_Hall"
  },
+ "kluczynski-federal-building": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20038277"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.87840&mlon=-87.62990#map=17/41.87840/-87.62990"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kluczynski_Federal_Building"
+ },
  "knesset": {
   "links": [
    {
@@ -22496,6 +23419,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "krause-music-store": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/29679.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.96528&mlon=-87.68611#map=17/41.96528/-87.68611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Krause_Music_Store"
+ },
  "kresge-auditorium": {
   "links": [
    {
@@ -22595,6 +23533,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport"
+ },
+ "kuala-lumpur-railway-station": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=3.13944&mlon=101.69333#map=17/3.13944/101.69333"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur_railway_station"
  },
  "kulturhuset": {
   "links": [
@@ -22900,6 +23848,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Kunstmuseum_Bonn"
+ },
+ "kunstmuseum-den-haag": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.gemeentemuseum.nl"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.08972&mlon=4.28056#map=17/52.08972/4.28056"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Kunstmuseum_Den_Haag"
  },
  "kunstmuseum-liechtenstein": {
   "links": [
@@ -23844,6 +24807,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lasipalatsi"
  },
+ "laszlo-papp-budapest-sports-arena": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://budapestarena.hu"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20006302"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.50194&mlon=19.10539#map=17/47.50194/19.10539"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Papp_Budapest_Sports_Arena"
+ },
  "latin-america-memorial": {
   "links": [
    {
@@ -23858,6 +24841,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Latin_America_Memorial"
+ },
+ "latvian-academy-of-sciences-riga": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.lza.lv"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.94333&mlon=24.12194#map=17/56.94333/24.12194"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Latvian_Academy_of_Sciences"
+ },
+ "lawang-sewu": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.98393&mlon=110.41056#map=17/-6.98393/110.41056"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lawang_Sewu"
  },
  "le-cent-quatre": {
   "links": [],
@@ -24165,6 +25173,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lester_B._Pearson_Building"
  },
+ "leuven-town-hall": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/7506.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.87889&mlon=4.70111#map=17/50.87889/4.70111"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Leuven_Town_Hall"
+ },
  "lever-house": {
   "links": [
    {
@@ -24317,6 +25340,21 @@ window.LINKS = {
  "lifecycle-tower-one": {
   "links": [],
   "wiki": null
+ },
+ "lijnbaan-rotterdam": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5443.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.92111&mlon=4.47667#map=17/51.92111/4.47667"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Lijnbaan"
  },
  "lilla-bommen": {
   "links": [
@@ -24870,6 +25908,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Looshaus"
  },
+ "lords-ark-church-nowa-huta": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.arkapana.pl/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.08500&mlon=20.02911#map=17/50.08500/20.02911"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Church_of_Our_Lady_Queen_of_Poland%2C_Krak%C3%B3w"
+ },
  "lords-media-centre": {
   "links": [
    {
@@ -25089,6 +26142,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Lovell_House"
+ },
+ "lovink-pumping-station": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.37111&mlon=5.61500#map=17/52.37111/5.61500"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/H._J._Lovink_Pumping_Station"
  },
  "loyly-helsinki": {
   "links": [
@@ -25338,6 +26401,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/M%2B"
+ },
+ "m-museum-leuven": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.mleuven.be/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.87889&mlon=4.70444#map=17/50.87889/4.70444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/M_%E2%80%93_Museum_Leuven"
  },
  "macao-science-center": {
   "links": [
@@ -26001,6 +27079,61 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Manhattan_Municipal_Building"
+ },
+ "manila-cathedral": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://manilacathedral.com.ph/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.59147&mlon=120.97356#map=17/14.59147/120.97356"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Manila_Cathedral"
+ },
+ "manila-central-post-office": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.59550&mlon=120.97910#map=17/14.59550/120.97910"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Manila_Central_Post_Office"
+ },
+ "manila-city-hall": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20040541"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.58979&mlon=120.98162#map=17/14.58979/120.98162"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Manila_City_Hall"
+ },
+ "manila-hotel": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.manila-hotel.com.ph/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.58333&mlon=120.97389#map=17/14.58333/120.97389"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Manila_Hotel"
  },
  "manila-metropolitan-theater": {
   "links": [
@@ -26856,6 +27989,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "mehmed-pasa-sokolovic-bridge-visegrad": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/76210.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.78248&mlon=19.28794#map=17/43.78248/19.28794"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Mehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge"
+ },
  "meiso-no-mori": {
   "links": [],
   "wiki": null
@@ -27022,6 +28170,21 @@ window.LINKS = {
  "menara-tabung-haji": {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/Tabung_Haji_Tower"
+ },
+ "menara-telekom": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20003517"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=3.11583&mlon=101.66611#map=17/3.11583/101.66611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Telekom_Tower"
  },
  "menara-umno": {
   "links": [],
@@ -28388,6 +29551,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium"
  },
+ "moslavina-monument-podgaric": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.64081&mlon=16.77786#map=17/45.64081/16.77786"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Monument_to_the_Revolution_of_the_people_of_Moslavina"
+ },
  "mosque-madrasa-of-sultan-hassan": {
   "links": [
    {
@@ -28501,6 +29674,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/MUDAM"
+ },
+ "muepa-budapest": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.mupa.hu/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20017912"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.46944&mlon=19.07167#map=17/47.46944/19.07167"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/M%C3%BCpa_Budapest"
  },
  "multihalle-mannheim": {
   "links": [
@@ -29197,6 +30390,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Museu_de_les_Ci%C3%A8ncies_Pr%C3%ADncipe_Felipe"
  },
+ "museum-aan-de-stroom-antwerp": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://mas.be"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/384786-neutelings-riedijk-architects-mario-ferrara-mas-i-museum-aan-de-stroom"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.22892&mlon=4.40467#map=17/51.22892/4.40467"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Museum_aan_de_Stroom"
+ },
  "museum-abteiberg": {
   "links": [
    {
@@ -29246,6 +30459,26 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Museum_Brandhorst"
+ },
+ "museum-de-fundatie-zwolle": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/458073/museum-de-fundatie-bierman-henket-architecten"
+   },
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.museumdefundatie.nl/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.51019&mlon=6.09128#map=17/52.51019/6.09128"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Museum_de_Fundatie"
  },
  "museum-der-bildenden-kuenste-leipzig": {
   "links": [
@@ -30464,6 +31697,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/National_Handicrafts_and_Handlooms_Museum"
  },
+ "national-farmers-bank-owatonna": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/2011.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.08510&mlon=-93.22575#map=17/44.08510/-93.22575"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/National_Farmers%27_Bank_of_Owatonna"
+ },
  "national-forum-of-music": {
   "links": [
    {
@@ -30746,6 +31994,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/National_Library_of_Latvia"
+ },
+ "national-military-circle-bucharest": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.43508&mlon=26.09714#map=17/44.43508/26.09714"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Palace_of_the_National_Military_Circle"
  },
  "national-monument-indonesia": {
   "links": [
@@ -31227,6 +32485,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/National_Stadium%2C_Singapore"
  },
+ "national-stadium-warsaw": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://stadionnarodowy.org.pl"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20049546"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.23944&mlon=21.04556#map=17/52.23944/21.04556"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stadion_Narodowy"
+ },
  "national-taichung-theater": {
   "links": [
    {
@@ -31356,6 +32634,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "nebotinik-ljubljana": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.neboticnik.si/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20022684"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=46.05319&mlon=14.50361#map=17/46.05319/14.50361"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Neboti%C4%8Dnik"
  },
  "nebraska-state-capitol": {
   "links": [
@@ -32178,6 +33476,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Nordic_pavilion"
  },
+ "north-christian-church-columbus": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/544843/ad-classics-north-christian-church-eero-saarinen"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5735.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20058104"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=39.22972&mlon=-85.91611#map=17/39.22972/-85.91611"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/North_Christian_Church"
+ },
  "north-shore-congregation-israel": {
   "links": [
    {
@@ -32516,6 +33839,10 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "oba-central-library-amsterdam": {
+  "links": [],
+  "wiki": null
+ },
  "oberrealta-chapel": {
   "links": [
    {
@@ -32775,6 +34102,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park"
  },
+ "olympic-stadium-amsterdam": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://olympischstadion.nl"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/5899.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.34342&mlon=4.85419#map=17/52.34342/4.85419"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Olympic_Stadium_%28Amsterdam%29"
+ },
  "olympic-stadium-ciudad-universitaria-de-caracas": {
   "links": [
    {
@@ -32789,6 +34136,31 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "olympic-stadium-wroclaw": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.11944&mlon=17.09667#map=17/51.11944/17.09667"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Olympic_Stadium_%28Wroc%C5%82aw%29"
+ },
+ "omar-ali-saifuddien-mosque": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20008418"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=4.88958&mlon=114.93914#map=17/4.88958/114.93914"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_Mosque"
  },
  "omar-khayyam-mausoleum": {
   "links": [
@@ -33553,6 +34925,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science"
  },
+ "palace-of-culture-iasi": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://palatulculturii.ro"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.15739&mlon=27.58695#map=17/47.15739/27.58695"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Palace_of_Culture_%28Ia%C8%99i%29"
+ },
  "palace-of-culture-zil": {
   "links": [],
   "wiki": null
@@ -33591,6 +34978,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Punjab_and_Haryana_High_Court"
+ },
+ "palace-of-justice-putrajaya": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=2.91705&mlon=101.68379#map=17/2.91705/101.68379"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Palace_of_Justice%2C_Putrajaya"
  },
  "palace-of-nations": {
   "links": [
@@ -34607,6 +36004,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "park-monument-bulgarian-soviet-friendship-varna": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.21905&mlon=27.94902#map=17/43.21905/27.94902"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Park-Monument_of_the_Bulgarian-Soviet_Friendship"
+ },
  "parker-center": {
   "links": [
    {
@@ -34801,6 +36208,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Patan_Museum"
  },
+ "patuxai": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=17.97056&mlon=102.61861#map=17/17.97056/102.61861"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Patuxai"
+ },
  "paul-loebe-house": {
   "links": [
    {
@@ -34815,6 +36232,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Paul_L%C3%B6be_House"
+ },
+ "paul-rudolph-hall": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.architecture.yale.edu/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.30850&mlon=-72.93153#map=17/41.30850/-72.93153"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Yale_School_of_Architecture"
  },
  "paul-vi-audience-hall": {
   "links": [
@@ -35018,6 +36450,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Peace_Hotel"
  },
+ "peace-palace-the-hague": {
+  "links": [
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20052293"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.08660&mlon=4.29550#map=17/52.08660/4.29550"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Peace_Palace"
+ },
  "peak-tower": {
   "links": [
    {
@@ -35037,6 +36484,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Peak_Tower"
+ },
+ "pearl-bank-apartments": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/157679/ad-classics-pearl-bank-apartments-tan-cheng-siong"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.28317&mlon=103.84000#map=17/1.28317/103.84000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pearl_Bank_Apartments"
  },
  "pearl-palace": {
   "links": [
@@ -35112,6 +36574,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Pedregulho_Housing_Complex"
+ },
+ "peles-castle-sinaia": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://peles.ro/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.35972&mlon=25.54278#map=17/45.35972/25.54278"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
  },
  "penguin-pool-london-zoo": {
   "links": [
@@ -35508,6 +36985,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Phillips_Exeter_Academy_Library"
  },
+ "phipps-conservatory": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.phipps.conservatory.org/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/28247.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=40.43890&mlon=-79.94770#map=17/40.43890/-79.94770"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Phipps_Conservatory_and_Botanical_Gardens"
+ },
  "pierhead-building-cardiff": {
   "links": [
    {
@@ -35842,6 +37339,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews"
  },
+ "poljud-stadium-split": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/14265.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20033154"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.51944&mlon=16.43167#map=17/43.51944/16.43167"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stadion_Poljud"
+ },
  "ponte-city": {
   "links": [
    {
@@ -35890,6 +37407,21 @@ window.LINKS = {
  "ponte-musmeci": {
   "links": [],
   "wiki": null
+ },
+ "pope-leighey-house": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/8858.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=38.71940&mlon=-77.13600#map=17/38.71940/-77.13600"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pope%E2%80%93Leighey_House"
  },
  "porsche-museum": {
   "links": [
@@ -36176,6 +37708,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "praha-hlavni-nadrazi": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.08306&mlon=14.43583#map=17/50.08306/14.43583"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD"
+ },
  "premabhai-hall": {
   "links": [
    {
@@ -36349,6 +37891,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Punakha_Dzong"
+ },
+ "puskas-arena-budapest": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=47.50303&mlon=19.09793#map=17/47.50303/19.09793"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Pusk%C3%A1s_Ar%C3%A9na"
  },
  "qantas-house-sydney": {
   "links": [
@@ -37006,6 +38558,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa"
  },
+ "reliance-building": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/6462.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/2"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.88278&mlon=-87.62778#map=17/41.88278/-87.62778"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Reliance_Building"
+ },
  "remai-modern": {
   "links": [
    {
@@ -37155,6 +38727,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Rialto_Towers"
  },
+ "richard-j-daley-center": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/624.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20038243"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.88390&mlon=-87.63020#map=17/41.88390/-87.63020"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Richard_J._Daley_Center"
+ },
  "richards-medical-research-laboratories": {
   "links": [
    {
@@ -37218,6 +38810,46 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House"
+ },
+ "riga-central-market": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/28189.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.94400&mlon=24.11600#map=17/56.94400/24.11600"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Riga_Central_Market"
+ },
+ "riga-radio-and-tv-tower": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.tvtornis.lv/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/52231.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20012026"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=56.92389&mlon=24.13694#map=17/56.92389/24.13694"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower"
  },
  "riksbank-building-stockholm": {
   "links": [],
@@ -37679,6 +39311,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Green_roof"
  },
+ "rookery-building": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/7284.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=41.87908&mlon=-87.63211#map=17/41.87908/-87.63211"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Rookery_Building"
+ },
  "rose-seidler-house": {
   "links": [
    {
@@ -37989,6 +39636,31 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Royal_Festival_Hall"
  },
+ "royal-greenhouses-laeken": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.koninklijke-serres-royales.be/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/521.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20058418"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.88833&mlon=4.36028#map=17/50.88833/4.36028"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Royal_Greenhouses_of_Laeken"
+ },
  "royal-liver-building": {
   "links": [
    {
@@ -38009,6 +39681,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Royal_Liver_Building"
  },
+ "royal-museum-central-africa-tervuren": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.africamuseum.be"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.83089&mlon=4.51850#map=17/50.83089/4.51850"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa"
+ },
  "royal-national-theatre": {
   "links": [
    {
@@ -38028,6 +39715,31 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Royal_National_Theatre"
+ },
+ "royal-palace-amsterdam": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.paleisamsterdam.nl/en/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/4843.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20058204"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.37317&mlon=4.89136#map=17/52.37317/4.89136"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
  },
  "royal-pavilion-brighton": {
   "links": [
@@ -38157,6 +39869,26 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "sacred-heart-basilica-koekelberg": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.basilicakoekelberg.be"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/26537.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.86667&mlon=4.31722#map=17/50.86667/4.31722"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Basilica_of_the_Sacred_Heart%2C_Brussels"
+ },
  "sacred-heart-cathedral-algiers": {
   "links": [
    {
@@ -38256,6 +39988,36 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sa%C3%AFd_Business_School"
+ },
+ "saigon-central-post-office": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=10.78000&mlon=106.70000#map=17/10.78000/106.70000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Saigon_Central_Post_Office"
+ },
+ "saigon-opera-house": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://hbso.org.vn/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20033242"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=10.77639&mlon=106.70278#map=17/10.77639/106.70278"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Opera_House"
  },
  "sainsbury-centre-for-visual-arts": {
   "links": [
@@ -38381,6 +40143,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Saint-Christophe-de-Javel%2C_Paris"
+ },
+ "saint-cyr-house-brussels": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/6895.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.84781&mlon=4.38398#map=17/50.84781/4.38398"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Saint-Cyr_House"
  },
  "saint-josephs-oratory": {
   "links": [
@@ -38549,6 +40326,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/%C5%9Eakirin_Mosque"
+ },
+ "sala-chalermkrung-royal-theatre": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.salachalermkrung.com"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.74667&mlon=100.50000#map=17/13.74667/100.50000"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sala_Chalermkrung_Royal_Theatre"
  },
  "salamanca-congress-centre": {
   "links": [],
@@ -39116,6 +40908,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "sappaya-sapasathan": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=13.79581&mlon=100.51744#map=17/13.79581/100.51744"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sappaya-Sapasathan"
+ },
  "sapporo-dome": {
   "links": [
    {
@@ -39145,6 +40947,26 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "sarasota-high-school": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.sarasotacountyschools.net/schools/sarasotahigh/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/36467.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=27.32519&mlon=-82.52775#map=17/27.32519/-82.52775"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sarasota_High_School"
  },
  "sardar-vallabhbhai-patel-stadium": {
   "links": [
@@ -39215,6 +41037,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sava_Centar"
+ },
+ "savoy-homann-hotel": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.savoyhomannbandung.com/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=-6.92211&mlon=107.61036#map=17/-6.92211/107.61036"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Hotel_Savoy_Homann"
  },
  "saw-swee-hock-student-centre": {
   "links": [
@@ -39319,6 +41156,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Schaulager"
+ },
+ "scheepvaarthuis-amsterdam": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/3206.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.37436&mlon=4.90411#map=17/52.37436/4.90411"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Scheepvaarthuis"
  },
  "schindler-house": {
   "links": [
@@ -39673,6 +41525,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Seema_Malaka"
+ },
+ "seimas-palace-vilnius": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=54.69111&mlon=25.26194#map=17/54.69111/25.26194"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Seimas_Palace"
  },
  "seinajoki-city-hall": {
   "links": [
@@ -40737,6 +42599,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Halen_Estate"
  },
+ "silodam-amsterdam": {
+  "links": [
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/312071-mvrdv-rob-t-hart-photography-silodam"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.39222&mlon=4.89056#map=17/52.39222/4.89056"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Silodam"
+ },
  "silver-hut": {
   "links": [
    {
@@ -40847,6 +42724,41 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Singapore_Conference_Hall"
  },
+ "singapore-flyer": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.singaporeflyer.com.sg/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20025741"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.28939&mlon=103.86322#map=17/1.28939/103.86322"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Singapore_Flyer"
+ },
+ "singapore-indoor-stadium": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.sportshub.com.sg/indoor-stadium"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.30056&mlon=103.87444#map=17/1.30056/103.87444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium"
+ },
  "sir-john-soane-s-museum": {
   "links": [
    {
@@ -40950,6 +42862,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Skovshoved_Petrol_Station"
+ },
+ "sky-habitat": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/781936/sky-habitat-singapore-moshe-safdie"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.35240&mlon=103.84930#map=17/1.35240/103.84930"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sky_Habitat"
  },
  "sky-house": {
   "links": [],
@@ -41092,6 +43019,36 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Society_Hill_Towers"
+ },
+ "sofia-central-station": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.71213&mlon=23.32112#map=17/42.71213/23.32112"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sofia_Central_Station"
+ },
+ "sofia-synagogue": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.sofiasynagogue.com/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20035863"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.70028&mlon=23.32101#map=17/42.70028/23.32101"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sofia_Synagogue"
  },
  "soholm-row-houses": {
   "links": [
@@ -41939,6 +43896,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Stadium_974"
  },
+ "stadium-merdeka": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=3.13909&mlon=101.70058#map=17/3.13909/101.70058"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Independence_Stadium_%28Malaysia%29"
+ },
  "stadshal-ghent": {
   "links": [],
   "wiki": null
@@ -42066,6 +44033,26 @@ window.LINKS = {
  "starbucks-dazaifu": {
   "links": [],
   "wiki": null
+ },
+ "stari-most-mostar": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/11119.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20000259"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.33728&mlon=17.81503#map=17/43.33728/17.81503"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Stari_Most"
  },
  "stata-center": {
   "links": [
@@ -42444,6 +44431,21 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "strom-thurmond-federal-building": {
+  "links": [
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/78319.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=34.01630&mlon=-80.93840#map=17/34.01630/-80.93840"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Strom_Thurmond_Federal_Building_and_United_States_Courthouse"
+ },
  "studio-aalto": {
   "links": [
    {
@@ -42557,6 +44559,36 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque"
  },
+ "sultan-abdul-samad-building": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://bsas.com.my/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=3.14861&mlon=101.69444#map=17/3.14861/101.69444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sultan_Abdul_Samad_Building"
+ },
+ "sultan-mosque-singapore": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://sultanmosque.sg/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.30214&mlon=103.85900#map=17/1.30214/103.85900"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sultan_Mosque"
+ },
  "sultan-qaboos-grand-mosque": {
   "links": [
    {
@@ -42571,6 +44603,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Sultan_Qaboos_Grand_Mosque"
+ },
+ "sultan-salahuddin-abdul-aziz-shah-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=3.07861&mlon=101.52056#map=17/3.07861/101.52056"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Sultan_Salahuddin_Abdul_Aziz_Mosque"
  },
  "sumida-hokusai-museum": {
   "links": [
@@ -42756,6 +44798,31 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "supreme-court-of-singapore": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.supremecourt.gov.sg"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/14021.htm"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20014644"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=1.29056&mlon=103.85056#map=17/1.29056/103.85056"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Supreme_Court_of_Singapore"
  },
  "supreme-federal-court": {
   "links": [
@@ -43381,6 +45448,26 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "tallinn-tv-tower": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.teletorn.ee/"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20007611"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=59.47111&mlon=24.88750#map=17/59.47111/24.88750"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Tallinn_TV_Tower"
+ },
  "talponia": {
   "links": [],
   "wiki": null
@@ -43865,6 +45952,10 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Tel_Aviv_Museum_of_Art"
+ },
+ "telephone-palace-bucharest": {
+  "links": [],
+  "wiki": null
  },
  "teleton-children-s-rehabilitation-centre": {
   "links": [],
@@ -44802,6 +46893,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Timberline_Lodge"
  },
+ "timmerhuis-rotterdam": {
+  "links": [
+   {
+    "kind": "Drawings & photos",
+    "site": "ArchDaily",
+    "url": "https://www.archdaily.com/778654/timmerhuis-oma"
+   },
+   {
+    "kind": "Photo essays",
+    "site": "Divisare",
+    "url": "https://divisare.com/projects/316074-oma-sebastian-van-damme-timmerhuis"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=51.92264&mlon=4.48128#map=17/51.92264/4.48128"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Timmerhuis"
+ },
  "titanic-belfast": {
   "links": [
    {
@@ -44851,6 +46962,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Toba_Sea-Folk_Museum"
+ },
+ "toblerone-karaburma-belgrade": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=44.81547&mlon=20.49091#map=17/44.81547/20.49091"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Toblerone%2C_Karaburma"
  },
  "tod-s-omotesando-building": {
   "links": [
@@ -46053,6 +48174,16 @@ window.LINKS = {
   ],
   "wiki": null
  },
+ "tuanku-mizan-zainal-abidin-mosque": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=2.91931&mlon=101.68092#map=17/2.91931/101.68092"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Tuanku_Mizan_Zainal_Abidin_Mosque"
+ },
  "tulou-collective-housing": {
   "links": [
    {
@@ -46142,6 +48273,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Turun_Sanomat"
+ },
+ "tuschinski-theatre-amsterdam": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.pathe.nl/tuschinski"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=52.36611&mlon=4.89444#map=17/52.36611/4.89444"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Tuschinski_Theatre"
  },
  "tuwaiq-palace": {
   "links": [
@@ -46903,6 +49049,16 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Usine_Claude_et_Duval"
  },
+ "ust-main-building": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=14.61028&mlon=120.98917#map=17/14.61028/120.98917"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/University_of_Santo_Tomas_Main_Building"
+ },
  "utec-university-campus": {
   "links": [
    {
@@ -47397,6 +49553,21 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Vienna_State_Opera"
  },
+ "vietnam-museum-of-ethnology": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.vme.org.vn/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=21.04060&mlon=105.79900#map=17/21.04060/105.79900"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Vietnam_Museum_of_Ethnology"
+ },
  "vietnam-national-convention-center": {
   "links": [
    {
@@ -47461,6 +49632,21 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Vyborg_Library"
+ },
+ "vijecnica-sarajevo": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.vijecnica.ba/"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.85912&mlon=18.43323#map=17/43.85912/18.43323"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Vije%C4%87nica"
  },
  "vik-winery": {
   "links": [
@@ -47580,6 +49766,16 @@ window.LINKS = {
    }
   ],
   "wiki": null
+ },
+ "villa-empain-brussels": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=50.80750&mlon=4.38431#map=17/50.80750/4.38431"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Villa_Empain"
  },
  "villa-esche": {
   "links": [
@@ -48445,6 +50641,21 @@ window.LINKS = {
   "links": [],
   "wiki": "https://en.wikipedia.org/wiki/List_of_Washington_Metro_stations"
  },
+ "wat-rong-khun": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.วัดร่องขุ่น.com"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=19.82424&mlon=99.76329#map=17/19.82424/99.76329"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Wat_Rong_Khun"
+ },
  "wat-xieng-thong": {
   "links": [
    {
@@ -48978,6 +51189,26 @@ window.LINKS = {
   ],
   "wiki": "https://en.wikipedia.org/wiki/Willow_Tearooms"
  },
+ "wingspread": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.wingspread.com/"
+   },
+   {
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/1020.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=42.78038&mlon=-87.77076#map=17/42.78038/-87.77076"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Wingspread"
+ },
  "winn-memorial-library": {
   "links": [
    {
@@ -49496,6 +51727,16 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "yangon-city-hall": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=16.77500&mlon=96.15970#map=17/16.77500/96.15970"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Yangon_City_Hall"
+ },
  "yatsushiro-municipal-museum": {
   "links": [
    {
@@ -49660,6 +51901,31 @@ window.LINKS = {
   "links": [],
   "wiki": null
  },
+ "zagreb-glavni-kolodvor": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.80444&mlon=15.97870#map=17/45.80444/15.97870"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Zagreb_Glavni_kolodvor"
+ },
+ "zagreb-mosque": {
+  "links": [
+   {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.islamska-zajednica.hr/index.php"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=45.79122&mlon=16.01153#map=17/45.79122/16.01153"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Zagreb_Mosque"
+ },
  "zaryadye-park": {
   "links": [
    {
@@ -49798,6 +52064,16 @@ window.LINKS = {
    }
   ],
   "wiki": "https://en.wikipedia.org/wiki/Zentrum_Paul_Klee"
+ },
+ "zetra-olympic-hall-sarajevo": {
+  "links": [
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=43.87181&mlon=18.40956#map=17/43.87181/18.40956"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch_Olympic_Hall"
  },
  "zhongshan-hall-taipei": {
   "links": [
