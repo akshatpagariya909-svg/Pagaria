@@ -418,5 +418,507 @@
    "https://en.wikipedia.org/wiki/Kolonádový_most_(Piešťany)"
   ],
   "note": "Designed 1930–33; destroyed in 1945 and reopened 30 Dec 1956."
+ },
+ {
+  "id": "kamzik-tv-tower-bratislava",
+  "name": "Kamzík TV Tower",
+  "by": "Stanislav Májek, Jakub Tomašák, Juraj Kozák, Milan Jurica, Ján Privitzer",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": "1975",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Transmission tower on Kamzík hill, built in 1975 to replace an earlier mast; designed by a team of five architects.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kamzík TV Tower",
+  "photos": [
+   {
+    "file": "File:Bratislava - Fernsehturm (c).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava - Fernsehturm (a).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava, Staré Mesto, Slavín, pohled na vysílač Kamzík.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kamzík_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "muepa-budapest",
+  "name": "Müpa Budapest (Palace of Arts)",
+  "by": "Zoboki, Demeter and Partners",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Concert hall and museum complex whose Bartók National Concert Hall is 25 m high, 25 m wide and 52 m long; opened March 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Müpa Budapest",
+  "photos": [
+   {
+    "file": "File:Budapest - Müpa (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Budapest - Müpa.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:A Művészetek Palotája 2011. április 25 -én.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Müpa_Budapest"
+  ],
+  "note": "Named Palace of Arts between 2005 and 2015; Wikipedia spells the office Zoboky, Demeter and Partners."
+ },
+ {
+  "id": "puskas-arena-budapest",
+  "name": "Puskás Aréna",
+  "by": "György Skardelli",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "National stadium by György Skardelli on the site of the old Puskás stadium; built 2017–19, opened with Hungary–Uruguay.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Puskás Aréna",
+  "photos": [
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (11).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puskás_Aréna"
+  ],
+  "note": "Opened 15 Nov 2019."
+ },
+ {
+  "id": "laszlo-papp-budapest-sports-arena",
+  "name": "László Papp Budapest Sports Arena",
+  "by": "György Skardelli (KÖZTI)",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2003",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Indoor arena rebuilt in 18 months after the 1999 fire; about 2,300 tons of steel structure and 50,000 tons of concrete.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:László Papp Budapest Sports Arena",
+  "photos": [
+   {
+    "file": "File:Budapest, Papp László Sportaréna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:H-D 120 Fest, Ifjúságstrasse, 2023 Zugló.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hungária Straße und Stefánia Straße Ecke 2021 Istvánmező.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/László_Papp_Budapest_Sports_Arena",
+   "https://en.wikipedia.org/wiki/Puskás_Aréna"
+  ],
+  "note": "Opened 13 March 2003; designer named in the Puskás Aréna article, firm KÖZTI in the infobox."
+ },
+ {
+  "id": "gyongyos-synagogue",
+  "name": "Gyöngyös Synagogue",
+  "by": "Lipót Baumhorn",
+  "city": "Gyöngyös",
+  "cc": "HU",
+  "year": "1930",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Large domed synagogue by Lipót Baumhorn, an eclectic mix of Art Deco and Moorish Revival; slated in 2014 to become a cultural centre.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Gyöngyös Synagogue",
+  "photos": [
+   {
+    "file": "File:Synagogue. Listed ID -1799. (S). - Vármegye Rd., Gyöngyös, Hungary.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue. Listed ID -1799. (SW). - Vármegye Rd., Gyöngyös.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue. Listed ID -1799. (N). - Vármegye Rd., Gyöngyös, Hungary.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gyöngyös_Synagogue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "tallinn-tv-tower",
+  "name": "Tallinn TV Tower",
+  "by": "David Baziladze, Juri Sinis",
+  "city": "Tallinn",
+  "cc": "EE",
+  "year": "1980",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "313 m tower of 50 cm reinforced-concrete rings built for the 1980 Olympic regatta; observation deck at 170 m.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Tallinn TV Tower",
+  "photos": [
+   {
+    "file": "File:Tallin TV tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tallinn_TV_Tower"
+  ],
+  "note": "Inaugurated 11 July 1980; only one usable exterior photo found in the category so far."
+ },
+ {
+  "id": "grand-hotel-prishtina",
+  "name": "Grand Hotel Prishtina",
+  "by": "Bashkim Fehmiu, Dragan Kovačević, Miša Jevremović",
+  "city": "Pristina",
+  "cc": "XK",
+  "year": "1978",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "13-storey, 350-room hotel built 1974–78; designed by Bashkim Fehmiu with two Belgrade architects.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Grand Hotel, Pristina",
+  "photos": [
+   {
+    "file": "File:1 - Grand Hotel Prishtina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_Prishtina"
+  ],
+  "note": "Wikipedia gives 350 rooms in the lead and 360 in the history section."
+ },
+ {
+  "id": "kozara-monument-mrakovica",
+  "name": "Monument to the Revolution, Kozara",
+  "by": "Dušan Džamonja",
+  "city": "Mrakovica (Kozara)",
+  "cc": "BA",
+  "year": "1972",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Cylinder of twenty vertical concrete segments, deep-set pillars and hollows that Džamonja called an interplay of light and darkness.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Monument to the Revolution (Kozara)",
+  "photos": [
+   {
+    "file": "File:Поглед на споменик, Национални парк Козара.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NP002 - 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NP002 Национални парк „Козара\"7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_Revolution_(Kozara)"
+  ],
+  "note": "Project won first prize; initiative 1969, completed 1972. Sculptor-designed memorial; Wikipedia credits Džamonja alone."
+ },
+ {
+  "id": "riga-central-market",
+  "name": "Riga Central Market",
+  "by": "Pāvils Dreijmanis, P. Pavlovs",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1930",
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Reclaimed material",
+   "Vault",
+   "Structure as expression"
+  ],
+  "features": "Five market pavilions built from the upper parts of German Zeppelin hangars, with Neoclassical and Art Deco touches; built 1924–30.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Central Market hall in Riga",
+  "photos": [
+   {
+    "file": "File:Riga 1994 - 417755911.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:35152 Riga Tram at the market halls (21722704062).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_Central_Market"
+  ],
+  "note": "Part of the UNESCO-listed Old Riga since 1998; photos are modest, a reviewer may want better ones."
+ },
+ {
+  "id": "zetra-olympic-hall-sarajevo",
+  "name": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
+  "by": "Lidumil Alikalfić, Dušan Đapa",
+  "city": "Sarajevo",
+  "cc": "BA",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Angular hall with a copper roof, built 1981–82 for the 1984 Winter Olympics; rebuilt after the war and finished in 1999.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Olympic Hall Juan Antonio Samaranch",
+  "photos": [
+   {
+    "file": "File:Sarajevo Olympic Hall 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sarajevo Olympic Hall 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sarajevo Hum View 5.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch_Olympic_Hall"
+  ],
+  "note": "Architects from the Wikipedia infobox; opened 14 Feb 1982."
+ },
+ {
+  "id": "vijecnica-sarajevo",
+  "name": "Vijećnica (Sarajevo City Hall)",
+  "by": "Alexander Wittek, Ćiril Iveković",
+  "city": "Sarajevo",
+  "cc": "BA",
+  "year": "1894",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Pseudo-Moorish city hall begun by Alexander Wittek and finished by Ćiril Iveković; now the National Library, reopened 2014.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Town hall in Sarajevo",
+  "photos": [
+   {
+    "file": "File:20230918 120615 September 2023 in Sarajevo.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:201408 balcani 740 (15053558569).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Sarajevo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vijećnica"
+  ],
+  "note": "Built 1892–94, formally opened 20 April 1896; first designed in 1891 by Karel Pařík. Gutted in 1992, rebuilt, reopened 17 July 2014."
+ },
+ {
+  "id": "stari-most-mostar",
+  "name": "Stari Most (Old Bridge)",
+  "by": "Mimar Hayruddin",
+  "city": "Mostar",
+  "cc": "BA",
+  "year": "1566",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Water",
+   "Geometry"
+  ],
+  "features": "Single-arch stone Ottoman bridge by Mimar Hayruddin, a student of Sinan; rebuilt and reopened on 23 July 2004.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Stari Most",
+  "photos": [
+   {
+    "file": "File:20230919 120231 September 2023 in Bosnia and Herzegovina.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Mostar (3789117448).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mostar (2680701296).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stari_Most"
+  ],
+  "note": "Built 1557–66; destroyed 1993 and reconstructed."
  }
 ]
