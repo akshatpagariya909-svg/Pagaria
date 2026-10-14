@@ -920,5 +920,478 @@
    "https://en.wikipedia.org/wiki/Stari_Most"
   ],
   "note": "Built 1557–66; destroyed 1993 and reconstructed."
+ },
+ {
+  "id": "kadinjaca-memorial-complex",
+  "name": "Kadinjača Memorial Complex",
+  "by": "Miodrag Živković, Aleksandar Đokić",
+  "city": "Kadinjača (Užice)",
+  "cc": "RS",
+  "year": "1979",
+  "type": "Memorial",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Memorial complex built 1952–79; the 1979 expansion by sculptor Miodrag Živković and architect Aleksandar Đokić gave it its present form.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kadinjača",
+  "photos": [
+   {
+    "file": "File:Inbound1610813265688666632.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inbound3427126484316220679.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centralni spomenik na Kadinjači.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kadinjača"
+  ],
+  "note": "Opened by Tito on 23 Sept 1979."
+ },
+ {
+  "id": "freedom-monument-riga",
+  "name": "Freedom Monument",
+  "by": "Kārlis Zāle, Ernests Štālbergs",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1935",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "42 m monument of granite, travertine and copper: stacked blocks under a 19 m travertine column bearing the figure of Liberty.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Freedom monument (Riga)",
+  "photos": [
+   {
+    "file": "File:0873 LVA Riga freedom monument SE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:0874 LVA Riga freedom monument front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:0873 LVA Riga freedom monument pedestal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freedom_Monument_(Riga)"
+  ],
+  "note": "Zāle designed it as sculptor; Štālbergs was supervising architect. Construction began 18 Nov 1931, unveiled 1935."
+ },
+ {
+  "id": "brothers-cemetery-riga",
+  "name": "Brothers' Cemetery",
+  "by": "Kārlis Zāle, Pēteris Feders, Aleksandrs Birzenieks, P. Kundziņš",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1936",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Military cemetery and national monument built 1924–36 to designs by sculptor Kārlis Zāle and several architects; landscape by Andrejs Zeidaks.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Brāļu kapi, Riga",
+  "photos": [
+   {
+    "file": "File:Bralu kapi (11).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bralu kapi (10).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:033-18 Рига.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brothers'_Cemetery_(Riga)"
+  ],
+  "note": "Third photo is a black-and-white scan of the gate."
+ },
+ {
+  "id": "seimas-palace-vilnius",
+  "name": "Seimas Palace",
+  "by": "Algimantas Nasvytis, Vytautas Nasvytis",
+  "city": "Vilnius",
+  "cc": "LT",
+  "year": "1980",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Parliament complex whose main building has a square plan, by the brothers Algimantas and Vytautas Nasvytis; first part finished 1980.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Seimas Palace",
+  "photos": [
+   {
+    "file": "File:Building Parliment Lithuania Vilnius.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Lietuvos Respublikos Seimas (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lietuvos Respublikos Seimas (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seimas_Palace"
+  ],
+  "note": "New Parliament Hall opened 10 Sept 2007."
+ },
+ {
+  "id": "moslavina-monument-podgaric",
+  "name": "Monument to the Revolution of the People of Moslavina",
+  "by": "Dušan Džamonja",
+  "city": "Podgarić",
+  "cc": "HR",
+  "year": "1967",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "About 10 m high and 20 m long: a stylised sun with two asymmetric wings, inspired by the goddess Nike and set into the landscape.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Monument to the Revolution, Podgarić",
+  "photos": [
+   {
+    "file": "File:Spomenik ustanka naroda Moslavine.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Spomenik revoluciji-Podgaric.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Spomenik Podgaric01.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_Revolution_of_the_people_of_Moslavina"
+  ],
+  "note": "Dedicated by Tito in 1967. Sculptor-designed memorial."
+ },
+ {
+  "id": "cec-palace-bucharest",
+  "name": "CEC Palace",
+  "by": "Paul Gottereau, Ion Socolescu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1900",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Steel & glass"
+  ],
+  "features": "Eclectic bank headquarters on Calea Victoriei topped by a glass and metal dome; designed by Gottereau, built 1897–1900 under Socolescu.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:CEC Palace, Bucharest",
+  "photos": [
+   {
+    "file": "File:20140702 Bucureşti 122.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20230426.Ansichten von Bukarest.-051.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20230426.Ansichten von Bukarest.-032.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CEC_Palace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "toblerone-karaburma-belgrade",
+  "name": "Toblerone Tower (Karaburma)",
+  "by": "Risto Šekerinski",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1963",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Residential tower on a hexagonal base in prestressed reinforced concrete, built 1960–63; it won an architectural design award.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Toblerone Tower",
+  "photos": [
+   {
+    "file": "File:20241012 162432820 Toblerone Tower in Belgrade.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Karaburma 09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Karaburma-0701 Toblerone.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toblerone,_Karaburma"
+  ],
+  "note": "Nicknamed after the chocolate bar."
+ },
+ {
+  "id": "administrative-palace-satu-mare",
+  "name": "Administrative Palace, Satu Mare",
+  "by": "Nicolae Porumbescu (with Ludovic Gyüre)",
+  "city": "Satu Mare",
+  "cc": "RO",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Brutalist administrative palace built 1972–84 to designs by Nicolae Porumbescu of Iași, assisted by Ludovic Gyüre of Satu Mare.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Administrative palace (Satu Mare)",
+  "photos": [
+   {
+    "file": "File:Az új központ - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:RO SM Satu Mare Administrative palace.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palatul administrativ Satu Mare.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Administrative_Palace,_Satu_Mare"
+  ],
+  "note": "More than 1,000 workers; stands about 80 m from the Someș river."
+ },
+ {
+  "id": "national-military-circle-bucharest",
+  "name": "National Military Circle (Cercul Militar Național)",
+  "by": "Dimitrie Maimarolu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Detail"
+  ],
+  "features": "French neoclassical palace built 1911 to plans by Dimitrie Maimarolu with engineers Anghel Saligny and Elie Radu; inaugurated 1923.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cercul Militar Național",
+  "photos": [
+   {
+    "file": "File:2012-09-22 Cercul Militar Național.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 141.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 144.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Military_Circle"
+  ],
+  "note": "Wikipedia article title is Palace of the National Military Circle."
+ },
+ {
+  "id": "kaunas-mosque",
+  "name": "Kaunas Mosque",
+  "by": "Vaclovas Michnevičius, Adolfas Netyksas",
+  "city": "Kaunas",
+  "cc": "LT",
+  "year": "1933",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Only brick mosque in Lithuania and the Baltic states, a modernist reading of Islamic forms; built 1930–33 on the site of a wooden mosque.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kaunas Mosque",
+  "photos": [
+   {
+    "file": "File:2019. Mečetė, Kaunas.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaunas Mosque, May 2026 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaunas Mosque, May 2026 3.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaunas_Mosque"
+  ],
+  "note": ""
+ },
+ {
+  "id": "constanta-casino",
+  "name": "Constanța Casino",
+  "by": "Daniel Renard",
+  "city": "Constanța",
+  "cc": "RO",
+  "year": "1910",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Water"
+  ],
+  "features": "Art Nouveau casino on the Black Sea waterfront, built to plans by Daniel Renard and inaugurated in August 1910; reopened May 2025.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Constanța Casino",
+  "photos": [
+   {
+    "file": "File:2019 Cazino CT-II-m-A-02801 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casino Constantza - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Art Nouveau Cazino Complex - Constanta - Romania.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Constanța_Casino"
+  ],
+  "note": ""
  }
 ]
