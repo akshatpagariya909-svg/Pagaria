@@ -2322,5 +2322,372 @@
    "https://commons.wikimedia.org/wiki/Category:Mohammed_Bin_Rashid_Library"
   ],
   "note": "Only file (4000x6000, portrait) in the building's own category; description 'Mohammed bin Rashid Library'. Not viewed. Wikipedia lead image of the same name is not on Commons under that title. Opened 16 Jun 2022; check whether lectern shape reads from this photo."
+ },
+ {
+  "id": "carnegie-mellon-university-in-qatar",
+  "name": "Carnegie Mellon University in Qatar",
+  "by": "Legorreta + Legorreta",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Circulation"
+  ],
+  "features": "Classrooms and labs separated by courtyards; library and dining around a central atrium.",
+  "status": "photo",
+  "commons_category": "Carnegie Mellon University in Qatar",
+  "photos": [
+   {
+    "file": "File:Backyard of Carnegie Mellon University in Qatar.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Steps in Carnegie Mellon University campus in Qatar.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cmuq-atrium.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_in_Qatar",
+   "https://commons.wikimedia.org/wiki/Category:Carnegie_Mellon_University_in_Qatar"
+  ],
+  "note": "Identity from Commons descriptions in the building's own category. Not viewed. Photos are only 1647x1094 for exteriors; first is a courtyard/fountain, not a full facade; lead image on Wikipedia is not on Commons. Year 2008 = occupancy began Aug 2008 (article gives no completion year)."
+ },
+ {
+  "id": "king-faisal-mosque-sharjah",
+  "name": "King Faisal Mosque, Sharjah",
+  "by": "Abdul-Rahman Abdul-Hafidh Al-Junaidi",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Axis"
+  ],
+  "features": "One dome and two 70 m minarets; capacity 16,670 worshippers.",
+  "status": "photo",
+  "commons_category": "King Faisal Mosque Sharjah",
+  "photos": [
+   {
+    "file": "File:King Faisal Mosque Front View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Full View of King Faisal Mosque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Left Side View of King Faisal Mosque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Faisal_Mosque,_Sharjah",
+   "https://commons.wikimedia.org/wiki/Category:King_Faisal_Mosque_Sharjah"
+  ],
+  "note": "First file is the Wikipedia lead image; others from the building's own category with matching descriptions. Not viewed."
+ },
+ {
+  "id": "mathaf-arab-museum-of-modern-art",
+  "name": "Mathaf: Arab Museum of Modern Art",
+  "by": "Jean-François Bodin",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Void",
+   "Circulation"
+  ],
+  "features": "Former school converted into a museum around an atrium; seven permanent galleries upstairs.",
+  "status": "photo",
+  "commons_category": "Mathaf: Arab Museum of Modern Art",
+  "photos": [
+   {
+    "file": "File:Near the entrance to Mathaf Museum in Fereej Al Zaeem.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mathaf Arab Museum of Modern Art at Education City.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathaf:_Arab_Museum_of_Modern_Art",
+   "https://commons.wikimedia.org/wiki/Category:Mathaf:_Arab_Museum_of_Modern_Art"
+  ],
+  "note": "First is Wikipedia lead image (2048x1536, CC BY-SA 4.0), described 'Entrance area near Mathaf Museum' so may not show the whole building; second described as exterior view but only 1443x958. Not viewed. Year = museum opening 2010."
+ },
+ {
+  "id": "bab-al-bahrain",
+  "name": "Bab Al Bahrain",
+  "by": "Charles Belgrave",
+  "city": "Manama",
+  "cc": "BH",
+  "year": "1949",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Large central arch over a road, the entrance to Manama souq, flanked by two pedestrian arches.",
+  "status": "photo",
+  "commons_category": "Bab Al Bahrain",
+  "photos": [
+   {
+    "file": "File:Bab Al Bahrain, Manama, Baréin, 2024-08-18, DD 72.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manama Bab al-Bahrain 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bab_Al_Bahrain",
+   "https://commons.wikimedia.org/wiki/Category:Bab_Al_Bahrain"
+  ],
+  "note": "Lead image of the article and a second file from the building's own category, both described 'Bab Al Bahrain, Manama, Bahrain'. Not viewed. Belgrave was British adviser to the emir, not a trained architect per the article; check whether to credit him."
+ },
+ {
+  "id": "deira-clocktower",
+  "name": "Deira Clocktower",
+  "by": "Otto Bullard, Ziki Homsi",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1965",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Clock tower built in 1965 as a symbol of Dubai, at a roundabout where major routes met.",
+  "status": "photo",
+  "commons_category": "The clock tower (Dubai)",
+  "photos": [
+   {
+    "file": "File:Deira clock tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Deira Clock Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Deira Clocktower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deira_Clocktower",
+   "https://commons.wikimedia.org/wiki/Category:The_clock_tower_(Dubai)"
+  ],
+  "note": "Files from the Commons category 'The clock tower (Dubai)' with descriptions naming the Deira Clock Tower. Not viewed. Small monument; reviewer may judge it too minor. Movement is a judgement call (article gives none)."
+ },
+ {
+  "id": "riyadh-tv-tower",
+  "name": "Riyadh TV Tower",
+  "by": "Maurice Novarina, Patrici Novarina-Adete",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "1982",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "170 m television tower, Saudi Arabia's tallest structure until 2000.",
+  "status": "photo",
+  "commons_category": "Riyadh TV Tower",
+  "photos": [
+   {
+    "file": "File:Riyadh TV Tower.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Riyadh TV Tower at the Saudi Broadcasting Authority Headquarters (2026).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riyadh_TV_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Riyadh_TV_Tower"
+  ],
+  "note": "Lead image and another file from the building's own category; both portrait. Not viewed. Article spells second architect 'Patrici'; category conflicts on year (1978 vs article 1982). Movement is a judgement call. Tall-structure only; reviewer may drop."
+ },
+ {
+  "id": "sheikh-abdullah-al-salem-cultural-centre",
+  "name": "Sheikh Abdullah Al-Salem Cultural Centre",
+  "by": "SSH",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Five museums linked by glazed wings and a central canopy spine, on an 18-hectare site.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheikh_Abdullah_Al-Salem_Cultural_Centre"
+  ],
+  "note": "no free photo: article image is a CC0 satellite view only; Commons search for exteriors found nothing. Article gives inauguration 2018, SSH 'design and engineer the building envelopes'."
+ },
+ {
+  "id": "education-city-stadium",
+  "name": "Education City Stadium",
+  "by": "Fenwick Iribarren Architects, Pattern Design",
+  "city": "Al Rayyan",
+  "cc": "QA",
+  "year": "2020",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "'Diamond in the Desert'; 20 percent green materials and a five-star GSAS rating.",
+  "status": "photo",
+  "commons_category": "Education City Stadium",
+  "photos": [
+   {
+    "file": "File:Education city stadium 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Education_City_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Education_City_Stadium"
+  ],
+  "note": "Only one usable file: described as the stadium during the 2022 World Cup; 4032x1293 panorama, so a wide crop. Not viewed. Other category photos show a person or are mis-described aerials. Wikipedia lead image is not on Commons. Article names Pattern Design as lead design architect."
+ },
+ {
+  "id": "msheireb-museums",
+  "name": "Msheireb Museums",
+  "by": "John McAslan",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Detail"
+  ],
+  "features": "Four heritage houses renovated and extended; art project uses objects recovered during demolition.",
+  "status": "unsure",
+  "commons_category": "Msheireb Museums",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Msheireb_Museums",
+   "https://commons.wikimedia.org/wiki/Category:Msheireb_Museums"
+  ],
+  "note": "no free photo: category holds only File:Radwani House.jpg (3024x4032, CC BY-SA 4.0), one of the four houses, not the whole complex. John McAslan was project architect for renovation and additions; RIBA listed it in 2018."
+ },
+ {
+  "id": "hamad-international-airport",
+  "name": "Hamad International Airport",
+  "by": "HOK",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "Oasis-themed terminal with wave-style roofs and a water-droplet-inspired mosque dome.",
+  "status": "photo",
+  "commons_category": "Hamad International Airport",
+  "photos": [
+   {
+    "file": "File:Hamad International Airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:QAT Doha, Hamad International Airport 001.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamad_International_Airport",
+   "https://commons.wikimedia.org/wiki/Category:Hamad_International_Airport"
+  ],
+  "note": "Files from the building's own category with matching descriptions; wikipedia lead image is only 612x408. Not viewed; may show apron or interior. Year = passenger operations began 30 Apr 2014."
  }
 ]
