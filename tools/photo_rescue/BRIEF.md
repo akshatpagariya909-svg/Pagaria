@@ -18,12 +18,19 @@ Each rescue round looks again for photos.
      - It is at least 1200px on its long side, or 800px if nothing bigger exists.
      - It clearly shows **this building**, with the outside first.
      - **No people are its subject**: no crowds, events, portraits, artworks, signs or plaques.
-   - Look at each thumbnail before you choose it (Commons imageinfo with `iiurlwidth=640`). Never pick by file name alone.
+   - This routine's sandbox cannot load Wikimedia images (thumb.wikimedia.org is blocked), so choose from what the
+     Commons API says about each file instead: `action=query&prop=imageinfo|categories&iiprop=size|extmetadata`.
+     Read the file's description and categories, not just its name. Skip any file whose description or categories
+     mention people, portraits, events, ceremonies, concerts, exhibitions, artworks, sculptures, plaques, signs,
+     interiors of other buildings or another building's name. Prefer files described as an exterior or facade view
+     of this building, and files in "Quality images" or "Featured pictures".
+     Set `"seen": false` on every photo: the data-collection chat fetches each one on GitHub Actions and checks it
+     by eye before anything goes on the site.
    - Pick 2 to 4 photos, with the best exterior first, and give the building's `commons_category`.
 4. Write `tools/illustrate/results/rescue_<YYYY-MM-DD>.json`. It is a list in the results format
    (see `tools/illustrate/BRIEF2.md`).
    - For a building **with** photos, copy its facts (`id, name, by, city, cc, year, type, movement, concepts, features`)
-     from todo.json unchanged. Then add `"status": "photo"`, `"commons_category"` and `"photos": [{"file", "license", "seen": true}]`.
+     from todo.json unchanged. Then add `"status": "photo"`, `"commons_category"` and `"photos": [{"file", "license", "seen": false}]`.
      Also add `"sources"` with the pages you used.
    - For a building with **no** usable photo, leave it out of the results file. Add today's date to its list in
      `tools/photo_rescue/tried.json` (`{"<id>": ["YYYY-MM-DD", ...]}`), so the next round tries others first.
