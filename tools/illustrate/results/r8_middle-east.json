@@ -997,5 +997,329 @@
    "https://en.wikipedia.org/wiki/Milad_Tower"
   ],
   "note": "Photo 1 found by Commons search, description 'Milad Tower'; photo 2 in own category (800x1253 only). Wikipedia lead image is a non-Commons en file (456x800), not used. Opened Oct 2008; 2007 = construction finished."
+ },
+ {
+  "id": "tomb-of-ferdowsi",
+  "name": "Tomb of Ferdowsi",
+  "by": "Haj Hossein Lurzadeh; Karim Taherzadeh",
+  "city": "Tus",
+  "cc": "IR",
+  "year": "1934",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Achaemenid-style tomb: a cubical upper structure with four pillars around it, on a wide base.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tomb-of-Ferdowsi_آرامگاه-فردوسی_Davoud-Davoudi_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Ferdowsi"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Article says Lurzadeh designed it originally, present design credited mainly to Taherzadeh; 1934 = year permanent tomb was erected. Hooshang Seyhoun's later design is not covered in the part I read."
+ },
+ {
+  "id": "tomb-of-saadi",
+  "name": "Tomb of Saadi",
+  "by": "Mohsen Foroughi",
+  "city": "Shiraz",
+  "cc": "IR",
+  "year": "1952",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Eight brown stone pillars at the front; octagonal interior with marble walls and a blue arch.",
+  "status": "photo",
+  "commons_category": "Category:Mausoleum of Saadi Shirazi",
+  "photos": [
+   {
+    "file": "File:سعدیه_20160629_170530.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aramgah-e Sa'di, Shiraz 002 (3887689364).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Saadi"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Photo 2 is from the building's own category, description 'Aramgah-e Sa'di'."
+ },
+ {
+  "id": "national-museum-of-iran",
+  "name": "National Museum of Iran (Iran Bastan Museum)",
+  "by": "André Godard, Maxime Siroux",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1937",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Brick building of about 11,000 sq m with a design influenced by Sassanid vaults, notably Taq Kasra.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Národní_muzeum_Íránu.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Iran"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description names the museum. Opened 1937."
+ },
+ {
+  "id": "nasir-al-mulk-mosque",
+  "name": "Nasir al-Mulk Mosque",
+  "by": "Mohammad Hasan-e-Memar",
+  "city": "Shiraz",
+  "cc": "IR",
+  "year": "1888",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Extensive stained glass in the facade; 'Panj Kase' (five concaved) design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Nasir_ol_Molk_Mosque_(31233739431).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nasir_al-Mulk_Mosque"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description names the mosque. Article calls it Nasir al-Mulk Mosque (title Nasir-ol-Molk Mosque)."
+ },
+ {
+  "id": "golestan-palace",
+  "name": "Golestan Palace",
+  "by": "Haji Abolhassan Mimar Navai",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1865",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Mirror-work Brilliant Hall and a Windcatcher Mansion with traditional windcatchers.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palais_du_Golestan,_Téhéran_(5).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golestan_Palace"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Article: palace rebuilt to its current form in 1865 by Mimar Navai; Edifice of the Sun begun 1865, finished two years later; Mirror Hall by Sanie ol Molk. Complex has no single completion year."
+ },
+ {
+  "id": "university-of-baghdad",
+  "name": "University of Baghdad (Jadriyah campus)",
+  "by": "Walter Gropius, Louis McMillen",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1960",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Modular",
+   "Landscape"
+  ],
+  "features": "Gropius master plan for a new campus with engineering and liberal arts schools for 6,000 students.",
+  "status": "photo",
+  "commons_category": "Category:University of Baghdad",
+  "photos": [
+   {
+    "file": "File:Baghdad University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:برج_جامعة_بغداد.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Baghdad"
+  ],
+  "note": "CHECK FIRST: category is the whole university and has no description naming Gropius's buildings; photo 1 has no description, photo 2 is the university tower from the Karkh side. Not confirmed these show Gropius-era buildings. Article says 'Gropius, Louis McMillen and Robert McMillah', built 1959-60 (Gropius template: 1957-1960)."
+ },
+ {
+  "id": "central-bank-of-iraq",
+  "name": "Central Bank of Iraq",
+  "by": "Dissing+Weitling",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1985",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Cubical reinforced-concrete building clad in marble, few outer openings, organised around an inner courtyard.",
+  "status": "unsure",
+  "commons_category": "Category:Central Bank of Iraq",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Bank_of_Iraq"
+  ],
+  "note": "no free photo: category's only photo (1024x768, CC BY 2.0) shows it as a distant backdrop to the Mustansiriya Madrasa"
+ },
+ {
+  "id": "republican-palace-baghdad",
+  "name": "Republican Palace, Baghdad",
+  "by": "J. Brian Cooper",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1958",
+  "type": "Palace",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Modernist palace first designed as a central domed section with two wings; fountain in front part of original design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Republican_Palace,_Baghdad,_Iraq.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Republican_Palace,_Baghdad"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Year conflict in article: infobox 1958, lead 'early 1960s'. Later additions under Saddam Hussein, so photo may show the expanded building."
+ },
+ {
+  "id": "abboud-building",
+  "name": "Abboud Building (Al-Dhakir)",
+  "by": "Rifat Chadirji",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1955",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Unusual cylindrical form and bright white colour, a modernist nod to its surroundings and the past.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:عمارة_الذكير_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abboud_Building"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Only 715x933 (below 1200); no larger free file found by search. Commons description 'Al-Dhakir Building, Abboud Building'."
+ },
+ {
+  "id": "mausoleum-of-omar-khayyam",
+  "name": "Mausoleum of Omar Khayyam",
+  "by": "Hooshang Seyhoun",
+  "city": "Nishapur",
+  "cc": "IR",
+  "year": "1963",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Stone"
+  ],
+  "features": "White marble monument with a star-shaped opening to the sky and calligraphic tiles of Khayyam's poems.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Omar_Khayyam_Mausoleum_254.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mausoleum_of_Omar_Khayy%C3%A1m"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description is only a wiki link; identity rests on the article lead."
  }
 ]
