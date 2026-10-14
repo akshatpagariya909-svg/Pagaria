@@ -2238,5 +2238,301 @@
    "https://en.wikipedia.org/wiki/Olympic_Stadium_(Wrocław)"
   ],
   "note": "Never an Olympic site despite the name; rebuilt after wartime damage."
+ },
+ {
+  "id": "cepelia-pavilion-warsaw",
+  "name": "Cepelia Pavilion",
+  "by": "Zygmunt Stępiński, Andrzej Milewski, Aleksander Haweman",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "1966",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Detail"
+  ],
+  "features": "Modernist store pavilion whose façade was first covered in turquoise ceramic tiles, each with its own geometric pattern by Stanisław Kucharski.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cepelia building in Warsaw",
+  "photos": [
+   {
+    "file": "File:Pawilon Cepelii od strony zachodniej 2021.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Pawilon Cepelii w Warszawie 2023.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Pawilon Cepelii w Warszawie 2025.jpg",
+    "license": "CC BY 3.0 pl",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cepelia_Pavilion"
+  ],
+  "note": "Opened 1966; heritage-listed 2017/2019; renovated 2024 (metal panels replaced the lost tiles). Photos show the 2019–2025 state."
+ },
+ {
+  "id": "hungarian-state-opera-house-budapest",
+  "name": "Hungarian State Opera House",
+  "by": "Miklós Ybl",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "1884",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Opera house on Andrássy Avenue designed by Miklós Ybl; construction began 1875, opened 27 September 1884.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hungarian State Opera House",
+  "photos": [
+   {
+    "file": "File:Hungarian State Opera House Budapest 2026.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Andrássy Christmas Lights 2025 (19).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hungarian_State_Opera_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hotel-international-prague",
+  "name": "Grand Hotel International Prague",
+  "by": "František Jeřábek",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1956",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Socialist-realist tower hotel built 1952–56 as a military hotel (Hotel Družba) by František Jeřábek; much of the original interior artwork survives.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hotel International Prague",
+  "photos": [
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague 2.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague 1.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_International_Prague"
+  ],
+  "note": "Now the Crowne Plaza. Cultural monument since 2000; first photos in the Commons category are 1–2 MP exteriors."
+ },
+ {
+  "id": "praha-hlavni-nadrazi",
+  "name": "Praha hlavní nádraží (Prague Main Station)",
+  "by": "Josef Fanta",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Steel & glass",
+   "Vault",
+   "Facade as skin"
+  ],
+  "features": "Art Nouveau station building by Josef Fanta, built 1901–09; the steel train hall by Marjanko and Kornfeld spans two naves of 33.3 m.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Praha hlavní nádraží",
+  "photos": [
+   {
+    "file": "File:2023 Praha hlavní nádraží 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023 Praha hlavní nádraží 03.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023 Praha hlavní nádraží 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Praha_hlavní_nádraží"
+  ],
+  "note": "Station hall roofed 1905–06; the 1970s concourse by Josef Danda is not covered here."
+ },
+ {
+  "id": "warsaw-spire",
+  "name": "Warsaw Spire",
+  "by": "Jaspers-Eyers Architects (with Projekt Polsko-Belgijska Pracownia Architektury)",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2016",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "220 m tower with a hyperboloid glass façade, two 55 m companion blocks and a landscaped plaza with water features.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Warsaw Spire",
+  "photos": [
+   {
+    "file": "File:2022 Warszawa widok z PKiN na Warsaw Spire, 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 Warsaw Spire, 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 Warsaw Spire, 3.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warsaw_Spire"
+  ],
+  "note": "Opened May 2016. Photos 0 and 2 were taken while the cranes were still up."
+ },
+ {
+  "id": "varso-tower-warsaw",
+  "name": "Varso Tower",
+  "by": "Foster + Partners",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2022",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "310 m tower, the tallest building in the EU, with two companion buildings on a 1.72 ha plot; topped out February 2021, completed September 2022.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Varso",
+  "photos": [
+   {
+    "file": "File:09-05-2022 Warszawa Varso od strony Śródmieścia.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:09-05-2022 Warszawa Varso od strony Śródmieścia (cropped).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:09-05-2022 Warszawa Varso z PKiN, wierzchołek, 2.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Varso"
+  ],
+  "note": "Observation deck opened September 2025."
+ },
+ {
+  "id": "avala-tower-belgrade",
+  "name": "Avala Tower",
+  "by": "Uglješa Bogunović, Slobodan Janjić",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1965",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "204.68 m transmission tower on Mount Avala, finished 1965, destroyed in 1999 and reconstructed; reopened April 2010.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Avala TV Tower",
+  "photos": [
+   {
+    "file": "File:Avala Tower 2.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Avala Tower amazing.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Avala 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avala_Tower"
+  ],
+  "note": "The tower standing today is the 2009 reconstruction of the 1965 original."
  }
 ]
