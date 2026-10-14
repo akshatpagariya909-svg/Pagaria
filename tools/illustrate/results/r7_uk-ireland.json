@@ -394,5 +394,397 @@
    "https://commons.wikimedia.org/wiki/Category:Dudley Zoo"
   ],
   "note": "filenames not confirmed to show Tecton buildings; reviewer check"
+ },
+ {
+  "id": "pallant-house-gallery",
+  "name": "Pallant House Gallery",
+  "by": "Colin St John Wilson and MJ Long (2006 extension)",
+  "city": "Chichester",
+  "cc": "GB",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Adaptive reuse",
+   "Courtyard"
+  ],
+  "features": "Believed the first UK art gallery heated and cooled by a geothermal system.",
+  "status": "photo",
+  "commons_category": "Category:Pallant House Gallery",
+  "photos": [
+   {
+    "file": "File:Pallant House Gallery, Chichester 2 - 53995775682.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Pallant House Gallery - 53996906063.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Pallant House Gallery, Chichester - geograph.org.uk - 4938104.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pallant_House_Gallery",
+   "https://commons.wikimedia.org/wiki/Category:Pallant House Gallery"
+  ],
+  "note": ""
+ },
+ {
+  "id": "the-whitworth",
+  "name": "The Whitworth",
+  "by": "MUMA (2015 extension); J. W. Beaumont (original)",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Gallery wings are joined by a glass promenade.",
+  "status": "photo",
+  "commons_category": "Category:Whitworth Art Gallery",
+  "photos": [
+   {
+    "file": "File:The Whitworth Art Gallery in Manchester - 50140147328.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:The Whitworth Art Gallery - geograph.org.uk - 2545283.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:The Extension, The Whitworth, University of Manchester - geograph.org.uk - 7974648.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Whitworth",
+   "https://commons.wikimedia.org/wiki/Category:Whitworth Art Gallery"
+  ],
+  "note": ""
+ },
+ {
+  "id": "embassy-of-denmark-london",
+  "name": "Embassy of Denmark, London",
+  "by": "Arne Jacobsen (completed by Dissing+Weitling)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1977",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Called a stark architectural grid of grey modernism, with a geometric concrete mural by Ole Schwalbe.",
+  "status": "photo",
+  "commons_category": "Category:Danish Embassy building in London",
+  "photos": [
+   {
+    "file": "File:Danish Embassy, London.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Embassy of Denmark in London.jpg",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Royal Danish Embassy, Sloane Street (1969-1977) - geograph.org.uk - 3143575.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Embassy_of_Denmark,_London",
+   "https://commons.wikimedia.org/wiki/Category:Danish Embassy building in London"
+  ],
+  "note": ""
+ },
+ {
+  "id": "palm-house-kew-gardens",
+  "name": "Palm House, Kew Gardens",
+  "by": "Decimus Burton and Richard Turner",
+  "city": "London",
+  "cc": "GB",
+  "year": "1848",
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Planting"
+  ],
+  "features": "Described as the first large-scale structural use of wrought iron, with an upper walkway.",
+  "status": "photo",
+  "commons_category": "Category:Kew Gardens Palm House",
+  "photos": [
+   {
+    "file": "File:1262670 I THE PALM HOUSE, ROYAL BOTANIC GARDENS KEW, KEW GREEN, RICHMOND UPON THAMES, TW9 3AB London 20250618 0001.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:2002-05-Palm-House-Kew-Gardens.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:A view of The Palm House, Kew Gardens - geograph.org.uk - 5936771.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palm_House,_Kew_Gardens",
+   "https://commons.wikimedia.org/wiki/Category:Kew Gardens Palm House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "royal-pavilion-brighton",
+  "name": "Royal Pavilion",
+  "by": "John Nash",
+  "city": "Brighton",
+  "cc": "GB",
+  "year": "1823",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Bulbous domes and chhatri-topped minarets.",
+  "status": "photo",
+  "commons_category": "Category:Royal Pavilion, Brighton",
+  "photos": [
+   {
+    "file": "File:Royal Pavilion, Brighton (General View from East) (March 2022).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Royal Pavilion, Brighton (Onion Dome) (March 2022).jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Royal Pavilion, Brighton.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Pavilion",
+   "https://commons.wikimedia.org/wiki/Category:Royal Pavilion, Brighton"
+  ],
+  "note": ""
+ },
+ {
+  "id": "scottish-poetry-library",
+  "name": "Scottish Poetry Library",
+  "by": "Malcolm Fraser Architects",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Described as a poem in glass and stone; on Prospect's 2005 list of 100 best modern Scottish buildings.",
+  "status": "photo",
+  "commons_category": "Category:Scottish Poetry Library",
+  "photos": [
+   {
+    "file": "File:Scottish Poetry Library - geograph.org.uk - 7990145.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Scottish Poetry Library.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Scottish Poetry Library 2013.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scottish_Poetry_Library",
+   "https://commons.wikimedia.org/wiki/Category:Scottish Poetry Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "broadcasting-house-cardiff",
+  "name": "Broadcasting House, Cardiff",
+  "by": "Dale Owen",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "1966",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Section"
+  ],
+  "features": "Low-rise studio block and administration tower on a concrete frame allowing large glazed areas.",
+  "status": "photo",
+  "commons_category": "Category:Broadcasting House, Cardiff",
+  "photos": [
+   {
+    "file": "File:Broadcasting House, Cardiff.jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Broadcasting House, Cardiff 5 Oct 2021 (3).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Broadcasting House, Cardiff.3.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Broadcasting_House,_Cardiff",
+   "https://commons.wikimedia.org/wiki/Category:Broadcasting House, Cardiff"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hugh-owen-library",
+  "name": "Hugh Owen Library",
+  "by": "Dale Owen (Sir Percy Thomas and Son)",
+  "city": "Aberystwyth",
+  "cc": "GB",
+  "year": "1976",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Section",
+   "Detail"
+  ],
+  "features": "Three flat-roofed blocks stepped up three to four storeys, linked by ribbon windows.",
+  "status": "photo",
+  "commons_category": "Category:Hugh Owen Library",
+  "photos": [
+   {
+    "file": "File:Hugh Owen Library.jpg",
+    "license": "CC0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugh_Owen_Library",
+   "https://commons.wikimedia.org/wiki/Category:Hugh Owen Library"
+  ],
+  "note": "only one good photo found"
+ },
+ {
+  "id": "st-davids-hall-cardiff",
+  "name": "St David's Hall",
+  "by": "Seymour Harris Partnership",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Called complex late brutalism by Building Design, with open foyers.",
+  "status": "photo",
+  "commons_category": "Category:St David's Hall",
+  "photos": [
+   {
+    "file": "File:St David's Hall (geograph 7470493).jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:St Davids Hall, The Hayes, Cardiff.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:St David's Hall by night. 22 October 2014.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St_David's_Hall",
+   "https://commons.wikimedia.org/wiki/Category:St David's Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "central-bank-of-ireland-dublin",
+  "name": "Central Bank of Ireland, Dame Street",
+  "by": "Sam Stephenson (Stephenson Gibney & Associates)",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1978",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Section"
+  ],
+  "features": "Ireland's only suspended structure building, eight floors hanging from central concrete cores.",
+  "status": "photo",
+  "commons_category": "Category:Central Plaza, Dublin",
+  "photos": [
+   {
+    "file": "File:Central Bank of Ireland.JPG",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Central Plaza (former Central Bank), Dame Street.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Central Bank Of Ireland - external structure.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Bank_of_Ireland_building",
+   "https://commons.wikimedia.org/wiki/Category:Central Plaza, Dublin"
+  ],
+  "note": ""
  }
 ]
