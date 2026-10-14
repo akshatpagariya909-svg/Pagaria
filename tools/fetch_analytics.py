@@ -80,6 +80,7 @@ def main():
     if os.path.exists(path):
         with open(path, newline='') as f:
             old = {r['day']: int(r['visits']) for r in csv.DictReader(f)}
+    old = {d: v for d, v in old.items() if d <= str(today)}  # drops any day saved ahead of time
     old.update(rows)  # the fetched days win; earlier days stay
     with open(path, 'w', newline='') as f:
         w = csv.writer(f)
