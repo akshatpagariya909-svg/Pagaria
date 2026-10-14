@@ -201,12 +201,12 @@
         <span class="kicker">Today's five, done</span>
         <h1>${s.score} points</h1>
         <p class="rank">${esc(rank)}</p>
-        <div class="card-share"><b>Discover Architecture<br>Daily five · ${esc(t.label)}</b><span class="sq">${squares}</span><span>${s.score} pts · ${correct}/5</span></div>
+        <div class="card-share"><b>Find Great Architecture<br>Daily five · ${esc(t.label)}</b><span class="sq">${squares}</span><span>${s.score} pts · ${correct}/5</span></div>
         <div class="row"><button type="button" class="go" id="share">Share result</button><a class="ghost" href="#endless">Try Endless</a></div>
         <p class="small">A new five in ${Math.floor(mins / 60)} h ${mins % 60} min. Days in a row ${st.days} · best ${st.best} points.</p>
       </div>
       <div class="recap"><h2>Explore today's five</h2>${qs.map((q, k) => recapRow(q, s.results[k])).join('')}</div></section>`;
-    $('share').onclick = () => share('Discover Architecture · Daily five · ' + t.label + '\n' + squares + '  ' + s.score + ' pts', $('share'));
+    $('share').onclick = () => share('Find Great Architecture · Daily five · ' + t.label + '\n' + squares + '  ' + s.score + ' pts', $('share'));
     loadRecapThumbs();
   }
   function recapRow(q, ok) {
@@ -285,13 +285,13 @@
         ${g.newBest ? '<span class="badge"><i></i>New personal best</span>' : `<span class="kicker">Run over · best ${st.best}</span>`}
         <h1>${run} in a row</h1>
         <p class="rank">Missed on ${esc(missed.name)} (${esc(MODES[g.q.mode].toLowerCase())}).</p>
-        <div class="card-share"><b>Discover Architecture<br>Endless</b><span class="sq wrap">${squares}</span><span>${run} in a row · best ${st.best}</span></div>
+        <div class="card-share"><b>Find Great Architecture<br>Endless</b><span class="sq wrap">${squares}</span><span>${run} in a row · best ${st.best}</span></div>
         <div class="row"><button type="button" class="go" id="again">Start again</button><button type="button" class="ghost" id="share">Share</button></div>
         <p class="small"><a href="#daily">Or play today's Daily five</a></p>
       </div>
       <div class="recap"><h2>This run's buildings</h2>${qs.map((q, k) => recapRow(q, oks[k])).join('')}</div></section>`;
     $('again').onclick = () => { startEndless(true); window.scrollTo(0, 0); };
-    $('share').onclick = () => share('Discover Architecture · Endless\n' + squares + '  ' + run + ' in a row', $('share'));
+    $('share').onclick = () => share('Find Great Architecture · Endless\n' + squares + '  ' + run + ' in a row', $('share'));
     loadRecapThumbs();
   }
 
@@ -309,7 +309,7 @@
     const endless = location.hash === '#endless';
     $('gDaily').setAttribute('aria-pressed', !endless);
     $('gEndless').setAttribute('aria-pressed', endless);
-    document.title = (endless ? 'Endless' : 'Daily five') + ' · Guess the building? · Discover Architecture';
+    document.title = (endless ? 'Endless' : 'Daily five') + ' · Guess the building? · Find Great Architecture';
     if (endless) startEndless(false); else startDaily();
   }
   $('gDaily').onclick = () => { if (location.hash !== '#daily') location.hash = 'daily'; else route(); };

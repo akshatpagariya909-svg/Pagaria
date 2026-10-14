@@ -1,4 +1,4 @@
-/* Discover Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
+/* Find Great Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
    Plain JavaScript, no build step. Data comes from data/buildings.js (window.BUILDINGS). */
 (() => {
   'use strict';
@@ -202,7 +202,7 @@
     addBatch();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('allLink').dataset.tip = `A collection of ${TOTAL.toLocaleString('en')} buildings`;
+    $('allLink').dataset.tip = 'A huge, growing collection of buildings';
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
@@ -272,7 +272,7 @@
   function bylineHtml(b) {
     const who = firstArchitect(b), p = portraitOf(b), n = byArchitect(b).length + 1;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : `<span class="face initials" aria-hidden="true">${esc(initials(who))}</span>`;
-    const text = `<span class="by-text"><i>by</i><b>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
+    const text = `<span class="by-text"><i>by</i><b${b.by.length > 28 || b.by.split(/[\s-]/).some(w => w.length > 10) ? ' class="long"' : ''}>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
     const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
     const w = laureateOf(p, who);
     const link = n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
@@ -586,7 +586,7 @@
     };
     fill($('sPrev'), list[i - 1], 'Previous');
     fill($('sNext'), list[i + 1], 'Next');
-    $('sPos').textContent = `${(i + 1).toLocaleString('en')} of ${list.length.toLocaleString('en')}`;
+    $('sPos').textContent = ''; // no totals on the site
   }
   function stepBuilding(dir) {
     const f = feedState, i = state.open ? f.list.indexOf(state.open) : -1, b = f.list[i + dir];
