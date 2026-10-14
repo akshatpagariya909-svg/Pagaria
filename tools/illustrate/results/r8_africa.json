@@ -402,5 +402,409 @@
    "https://en.wikipedia.org/wiki/Maputo_Central_Railway_Station"
   ],
   "note": "Exterior shots uncertain; reviewer check closely."
+ },
+ {
+  "id": "casa-de-ferro-maputo",
+  "name": "Casa de Ferro (Iron House)",
+  "by": "Joseph Danly",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1892",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Prefabrication",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Prefabricated house on a wrought-iron frame clad in embossed iron panels; assembled in Maputo in 1892.",
+  "status": "photo",
+  "commons_category": "Category:Casa de Ferro",
+  "photos": [
+   {
+    "file": "File:Casa de Ferro (40661105322).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Iron house in maputo 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa de Ferro (2994242617).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casa_de_Ferro"
+  ],
+  "note": ""
+ },
+ {
+  "id": "heroes-acre-windhoek",
+  "name": "Heroes' Acre",
+  "by": "Mansudae Overseas Projects",
+  "city": "Windhoek",
+  "cc": "NA",
+  "year": "2002",
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Memorial on a symmetrical polygon plan with a marble obelisk, bronze statue and grandstand; opened 26 August 2002.",
+  "status": "photo",
+  "commons_category": "Category:Heroes Acre (Namibia)",
+  "photos": [
+   {
+    "file": "File:Heldenacker Namibia Vogelperspektive. 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Laika ac Heroe's Acre (8407798482).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heroes%27_Acre_(Namibia)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "maputo-city-hall",
+  "name": "Maputo City Hall (Conselho Municipal)",
+  "by": "Carlos César dos Santos",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1947",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Neoclassical town hall with a 65 m facade on Independence Square; 1938 competition, built 1941-1947.",
+  "status": "photo",
+  "commons_category": "Category:Conselho Municipal de Maputo",
+  "photos": [
+   {
+    "file": "File:Conselho Municipal de Maputo frente.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Maputo City Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Conselho Municipal Maputo (22096153185).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maputo_City_Hall"
+  ],
+  "note": ""
+ },
+ {
+  "id": "maputo-cathedral",
+  "name": "Maputo Cathedral",
+  "by": "Marcial Simões de Freitas e Costa",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": "1944",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "61 m concrete and cement cathedral on Independence Square, designed pro bono by a railway engineer; completed 1944.",
+  "status": "photo",
+  "commons_category": "Category:Sé Catedral de Maputo",
+  "photos": [
+   {
+    "file": "File:Catedral de Maputo Front View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cathedral of maputo 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sé Catedral de Maputo (3911472999).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_the_Immaculate_Conception,_Maputo"
+  ],
+  "note": ""
+ },
+ {
+  "id": "palais-de-la-nation-kinshasa",
+  "name": "Palais de la Nation",
+  "by": "Marcel Lambrichs",
+  "city": "Kinshasa",
+  "cc": "CD",
+  "year": "1960",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Classical modernist palace chosen by a 1951 competition, built from 1956, completed for Independence Day 1960.",
+  "status": "unsure",
+  "commons_category": "Category:Palais de la Nation (Kinshasa)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palais_de_la_Nation_(Kinshasa)"
+  ],
+  "note": "no free photo (only small or old images in category)"
+ },
+ {
+  "id": "christ-church-cathedral-zanzibar",
+  "name": "Christ Church Cathedral",
+  "by": "Edward Steere (design contributor)",
+  "city": "Zanzibar",
+  "cc": "TZ",
+  "year": "1879",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Coral-stone cathedral with a concrete barrel-vault roof, mixing Perpendicular Gothic and Islamic details.",
+  "status": "photo",
+  "commons_category": "Category:Christ Church, Zanzibar",
+  "photos": [
+   {
+    "file": "File:Anglican cathedral in Stone Town, Zanzibar.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Anglican Church in stone town.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Anglican Christ Church in Zanzibar.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christ_Church_Cathedral,_Zanzibar"
+  ],
+  "note": "Bishop Steere contributed to the design; no professional architect named by Wikipedia. Reviewer may drop."
+ },
+ {
+  "id": "alte-feste-windhoek",
+  "name": "Alte Feste",
+  "by": "Curt von François",
+  "city": "Windhoek",
+  "cc": "NA",
+  "year": "1915",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Fort with an inner courtyard, high walls and four towers; the oldest surviving building in Windhoek.",
+  "status": "photo",
+  "commons_category": "Category:Alte Feste",
+  "photos": [
+   {
+    "file": "File:Windhuk Alte Feste 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Windhuk Alte Feste Platte.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Alte Feste Windhoek (Aussenansicht).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alte_Feste"
+  ],
+  "note": "Year is final layout; foundation stone 1890."
+ },
+ {
+  "id": "st-george-cathedral-addis-ababa",
+  "name": "St. George's Cathedral",
+  "by": "Sebastiano Castagna",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "year": "1911",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Octagonal cathedral by an Italian engineer, called a European reading of Ethiopian church design in a 1938 guide.",
+  "status": "photo",
+  "commons_category": "Category:St. George's Cathedral in Addis Ababa",
+  "photos": [
+   {
+    "file": "File:Addis abeba, cattedrale di san giorgio, esterno 01.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Addis abeba, cattedrale di san giorgio, esterno 06.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:St Giyorgis external view.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._George%27s_Cathedral,_Addis_Ababa"
+  ],
+  "note": "Wikipedia gives 1911 in text but a 1896 category; check."
+ },
+ {
+  "id": "munyonyo-martyrs-shrine",
+  "name": "Munyonyo Martyrs' Shrine",
+  "by": "Robert Sseremba",
+  "city": "Kampala",
+  "cc": "UG",
+  "year": "2016",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Church shrine seating 1,600, up to 47 m high, completed 2016 and consecrated 28 October 2017.",
+  "status": "photo",
+  "commons_category": "Category:Munyonyo Martyrs Shrine",
+  "photos": [
+   {
+    "file": "File:Munyonyo Martyrdom Front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Munyonyo Martyrs Shrine Church.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Munyonyo Martyrs Shrine.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Munyonyo_Martyrs%27_Shrine"
+  ],
+  "note": ""
+ },
+ {
+  "id": "grande-poste-d-alger",
+  "name": "Grande Poste d'Alger",
+  "by": "Jules Voinot, Marius Toudoire",
+  "city": "Algiers",
+  "cc": "DZ",
+  "year": "1910",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "features": "Neo-Moorish central post office, Algeria's largest; arcaded facade; a museum since 2015.",
+  "status": "photo",
+  "commons_category": "Category:Grande Poste d'Alger",
+  "photos": [
+   {
+    "file": "File:Alger Grande Poste.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:La Grande Poste d'Alger.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:La Grande Poste Alger.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Alger-Grande-Poste-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grande_Poste_d'Alger"
+  ],
+  "note": ""
  }
 ]
