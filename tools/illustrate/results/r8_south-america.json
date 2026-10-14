@@ -1,0 +1,3852 @@
+[
+ {
+  "id": "martinelli-building",
+  "name": "Martinelli Building",
+  "by": "Vilmos (William) Fillinger",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1929",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Brazil's first skyscraper; largest concrete-framed building in the world when it opened.",
+  "status": "photo",
+  "commons_category": "Category:Edifício Martinelli",
+  "photos": [
+   {
+    "file": "File:Building in São Paulo 06.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Ed. Martinelli (4106150239).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martinelli_Building",
+   "https://commons.wikimedia.org/wiki/Category:Edifício_Martinelli"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; second photo is 1000x1504 (under 1200px)"
+ },
+ {
+  "id": "mineirao-stadium",
+  "name": "Mineirão",
+  "by": "Eduardo Mendes Guimarães Júnior, Caspar Garreto",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": "1965",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "Pseudo-elliptical concrete superstructure, tested first as a scale 'mini-Mineirão' section.",
+  "status": "photo",
+  "commons_category": "Category:Mineirão",
+  "photos": [
+   {
+    "file": "File:Estadio Mineirao - Belo Horizonte - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Estádio do Mineirão - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Estádio do Mineirão em outubro de 2025 (71362).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mineirão",
+   "https://commons.wikimedia.org/wiki/Category:Mineirão"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "maracana-stadium",
+  "name": "Maracanã Stadium",
+  "by": "Waldir Ramos, Raphael Galvão, Miguel Feldman, Oscar Valdetaro, Pedro Paulo B. Bastos, Orlando Azevedo, Antônio Dias Carneiro",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1950",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Opened in 1950 and then the world's largest stadium; construction was only finished in 1965.",
+  "status": "photo",
+  "commons_category": "Category:Estádio do Maracanã",
+  "photos": [
+   {
+    "file": "File:Fachada Estádio do Maracanã.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Estádio do Maracanã structure.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2010-12-15-Maracana-Central.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maracanã_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Estádio_do_Maracanã"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is the 1950 opening; article says finished 1965"
+ },
+ {
+  "id": "estadio-nacional-mane-garrincha",
+  "name": "Estádio Nacional Mané Garrincha",
+  "by": "Ícaro de Castro Mello",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1974",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Built 1972-1974 and rebuilt 2010-2013, becoming Brazil's second-largest stadium.",
+  "status": "photo",
+  "commons_category": "Category:Estádio Nacional de Brasília",
+  "photos": [
+   {
+    "file": "File:Estádio Nacional de Brasília Mané Garrincha - Brasília 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gigante de concreto.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brasilia Stadium - June 2013.jpg",
+    "license": "CC BY 3.0 br",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Estádio_Nacional_Mané_Garrincha",
+   "https://commons.wikimedia.org/wiki/Category:Estádio_Nacional_de_Brasília"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "teatro-amazonas",
+  "name": "Teatro Amazonas",
+  "by": "Celestial Sacardim",
+  "city": "Manaus",
+  "cc": "BR",
+  "year": "1896",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Opera house whose dome is covered in 36,000 ceramic tiles in Brazil's national colours.",
+  "status": "photo",
+  "commons_category": "Category:Teatro Amazonas",
+  "photos": [
+   {
+    "file": "File:AnaClaudiaJatahy Teatro Amazonas Manaus AM (41107560852).jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Frente do teatro Amazonas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frente do teatro Amazonas com árvores.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Teatro_Amazonas",
+   "https://commons.wikimedia.org/wiki/Category:Teatro_Amazonas"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is the 31 Dec 1896 inauguration"
+ },
+ {
+  "id": "estacao-julio-prestes",
+  "name": "Júlio Prestes Station",
+  "by": "Cristiano Stockler das Neves, Samuel das Neves",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1938",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "Terminal inspired by New York's Grand Central and Pennsylvania stations, with a French garden inside.",
+  "status": "photo",
+  "commons_category": "Category:Estação Júlio Prestes",
+  "photos": [
+   {
+    "file": "File:At Estação Júlio Prestes 2018 190.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:At Estação Júlio Prestes 2018 191.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Júlio_Prestes_Station",
+   "https://commons.wikimedia.org/wiki/Category:Estação_Júlio_Prestes"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; very wide panoramas; likely exterior but unverified"
+ },
+ {
+  "id": "cathedral-of-maringa",
+  "name": "Cathedral of Maringá",
+  "by": "José Augusto Bellucci",
+  "city": "Maringá",
+  "cc": "BR",
+  "year": "1972",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Cone-shaped, 124 m tall, reportedly inspired by Sputnik; among the tallest churches in the Americas.",
+  "status": "photo",
+  "commons_category": "Category:Cathedral of Maringá",
+  "photos": [
+   {
+    "file": "File:Maringa Cathedral 11 2012 4628.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Pôr-do-sol na esplanada da Catedral de Maringá.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cathedral_of_Maringá",
+   "https://commons.wikimedia.org/wiki/Category:Cathedral_of_Maringá"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; night shots in metadata; sunset one preferred; check for a daylight exterior"
+ },
+ {
+  "id": "centro-cultural-sao-paulo",
+  "name": "Centro Cultural São Paulo",
+  "by": "Eurico Prado Lopes, Luiz Benedito de Castro Telles",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Free plan",
+   "Public space"
+  ],
+  "features": "Horizontal reinforced-concrete and steel structure with large fluid interior spaces; opened 1982.",
+  "status": "photo",
+  "commons_category": "Category:Centro Cultural São Paulo",
+  "photos": [
+   {
+    "file": "File:CCSP 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:CCSP 002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:CCSP 007.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Cultural_São_Paulo",
+   "https://commons.wikimedia.org/wiki/Category:Centro_Cultural_São_Paulo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; descriptions say external views"
+ },
+ {
+  "id": "petrobras-headquarters-edise",
+  "name": "Petrobras Headquarters (Edise)",
+  "by": "Roberto Luís Gandolfi",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Climate response"
+  ],
+  "features": "29-storey brutalist block whose façade spaces link indoor and outdoor areas and shade the sun.",
+  "status": "photo",
+  "commons_category": "",
+  "photos": [
+   {
+    "file": "File:Edifício da Petrobras (3194760383).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edifício da Petrobras (3194763829).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Petrobras_Headquarters"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; article gives 1972 and 1974 for completion; no dedicated Commons category found"
+ },
+ {
+  "id": "teatro-vila-velha",
+  "name": "Teatro Vila Velha",
+  "by": "Silvio Robatto",
+  "city": "Salvador",
+  "cc": "BR",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Modern-style theatre contrasting with the neoclassical buildings of the nearby Passeio Público.",
+  "status": "photo",
+  "commons_category": "Category:Teatro Vila Velha",
+  "photos": [
+   {
+    "file": "File:Teatro Vila Velha Salvador Bahia 2018-0128.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Teatro Vila Velha Salvador Bahia 2018-0131.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vila_Velha_Theater",
+   "https://commons.wikimedia.org/wiki/Category:Teatro_Vila_Velha"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "vila-operaria-da-gamboa",
+  "name": "Vila Operária da Gamboa",
+  "by": "Lúcio Costa, Gregori Warchavchik",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1933",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Low cost",
+   "Community",
+   "Geometry"
+  ],
+  "features": "Considered the first modernist building in Brazil for low-income residents.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vila_Operária_da_Gamboa"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "centro-de-exposicoes-centro-administrativo-da-bahia",
+  "name": "Centro de Exposições do Centro Administrativo da Bahia",
+  "by": "João Filgueiras Lima (Lelé)",
+  "city": "Salvador",
+  "cc": "BR",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Structure as expression"
+  ],
+  "features": "52 m concrete building held about 5 m above the ground by cables from two side towers.",
+  "status": "photo",
+  "commons_category": "Category:Centro de Exposições do Centro Administrativo da Bahia",
+  "photos": [
+   {
+    "file": "File:Centro de exposições do centro administrativo da bahia (49035703483).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro de exposições do centro administrativo da bahia (49035706848).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro de exposições do centro administrativo da bahia (49035700298).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_de_Exposições_do_Centro_Administrativo_da_Bahia",
+   "https://commons.wikimedia.org/wiki/Category:Centro_de_Exposições_do_Centro_Administrativo_da_Bahia"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; descriptions do not state the view; check exterior"
+ },
+ {
+  "id": "monument-to-the-dead-of-world-war-ii",
+  "name": "Monument to the Dead of World War II",
+  "by": "Marcos Konder Netto, Hélio Ribas Marinho",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1960",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Monumentality"
+  ],
+  "features": "31 m abstract concrete portal sculpture, with a glass-bottomed pool above the mausoleum.",
+  "status": "photo",
+  "commons_category": "Category:Monumento Nacional aos Mortos da Segunda Guerra Mundial",
+  "photos": [
+   {
+    "file": "File:Monumento Nacional aos Mortos da Segunda Guerra Mundial, Rio de Janeiro.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Monument to the Dead of World War II and surrounding.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Monumento aos Mortos da Segunda Guerra Mundial 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_Dead_of_World_War_II",
+   "https://commons.wikimedia.org/wiki/Category:Monumento_Nacional_aos_Mortos_da_Segunda_Guerra_Mundial"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; Wikipedia names architects 'Mark Netto Konder and Helio Ribas Marinho'"
+ },
+ {
+  "id": "mercado-municipal-de-sao-paulo",
+  "name": "Municipal Market of São Paulo",
+  "by": "Francisco Ramos de Azevedo, Felisberto Ranzini",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1933",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "Market hall with 72 stained-glass pieces in 32 panels showing local food production; inaugurated 1933.",
+  "status": "photo",
+  "commons_category": "Category:Mercado Municipal de São Paulo",
+  "photos": [
+   {
+    "file": "File:Arquitetura Mercado Municipal (477222472).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Arquitetura Mercado Municipal (477222558).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Municipal_Market_of_São_Paulo",
+   "https://commons.wikimedia.org/wiki/Category:Mercado_Municipal_de_São_Paulo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; title-only picks; may show interior; year is 1933 inauguration"
+ },
+ {
+  "id": "matarazzo-building-sao-paulo",
+  "name": "Matarazzo Building (São Paulo City Hall)",
+  "by": "Marcello Piacentini",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1939",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Italian rationalist design resembling Art Deco; now São Paulo's city hall.",
+  "status": "photo",
+  "commons_category": "Category:Edifício Matarazzo",
+  "photos": [
+   {
+    "file": "File:Edifício Matarazzo 2026.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matarazzo_Building",
+   "https://commons.wikimedia.org/wiki/Category:Edifício_Matarazzo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palace-of-justice-sao-paulo",
+  "name": "Palace of Justice of São Paulo",
+  "by": "Francisco Ramos de Azevedo, Ricardo Severo, Arnaldo Villares",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1933",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "One of Brazil's first buildings with a metal structure, mixing baroque and neoclassical elements.",
+  "status": "photo",
+  "commons_category": "Category:Palácio da Justiça (São Paulo)",
+  "photos": [
+   {
+    "file": "File:Palácio da Justiça de São Paulo 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fachada do Palácio da Justiça SP.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Justice_of_São_Paulo",
+   "https://commons.wikimedia.org/wiki/Category:Palácio_da_Justiça_(São_Paulo)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; photos found by file search, not in the category listing"
+ },
+ {
+  "id": "anhembi-sambadrome",
+  "name": "Anhembi Sambadrome",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1996",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "530 m processional track with a structural, flood-proof concrete floor.",
+  "status": "photo",
+  "commons_category": "Category:Sambódromo do Anhembi",
+  "photos": [
+   {
+    "file": "File:Sambódromo do Anhembi 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sambódromo do Anhembi visto do Tietê - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anhembi_Sambadrome",
+   "https://commons.wikimedia.org/wiki/Category:Sambódromo_do_Anhembi"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is 12 Feb 1996 full completion"
+ },
+ {
+  "id": "brasilia-planetarium",
+  "name": "Brasília Planetarium",
+  "by": "Sérgio Bernardes",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1974",
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Brutalist concrete building like a flying saucer, with sixteen faces for the compass points.",
+  "status": "photo",
+  "commons_category": "Category:Planetário de Brasília",
+  "photos": [
+   {
+    "file": "File:Planetariobsb.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Planetário de Brasília 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brasília_Planetarium",
+   "https://commons.wikimedia.org/wiki/Category:Planetário_de_Brasília"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is the 15 March 1974 inauguration"
+ },
+ {
+  "id": "ulysses-guimaraes-convention-center",
+  "name": "Ulysses Guimarães Convention Center",
+  "by": "Sérgio Bernardes",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1979",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Built 1973-1979; its north wing holds a Master Auditorium for more than 3,000 people.",
+  "status": "photo",
+  "commons_category": "Category:Centro de Convenções Ulysses Guimarães",
+  "photos": [
+   {
+    "file": "File:Centro de Convenções Ulysses Guimarães - Brasília 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro de Convencoes Ulysses Guimaraes.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ulysses_Guimarães_Convention_Center",
+   "https://commons.wikimedia.org/wiki/Category:Centro_de_Convenções_Ulysses_Guimarães"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "nilson-nelson-gymnasium",
+  "name": "Nilson Nelson Gymnasium",
+  "by": "Cláudio Cianciarullo, Ícaro de Castro Mello, Eduardo de Castro Mello",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Double height"
+  ],
+  "features": "Indoor arena opened in 1973; a 2008 renovation cut capacity from 24,286 to 11,105 seats.",
+  "status": "photo",
+  "commons_category": "Category:Ginásio Nilson Nelson",
+  "photos": [
+   {
+    "file": "File:Brasília - Estádios Mané Garrincha e Nilson Nelson.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nilson_Nelson_Gymnasium",
+   "https://commons.wikimedia.org/wiki/Category:Ginásio_Nilson_Nelson"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; only candidate shows both stadiums; check"
+ },
+ {
+  "id": "estadio-do-pacaembu",
+  "name": "Pacaembu Stadium",
+  "by": "Escritório Técnico Ramos de Azevedo - Severo e Villares",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1940",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Art Deco stadium built 1938-1940 and listed by CONDEPHAAT in 1998.",
+  "status": "photo",
+  "commons_category": "Category:Estádio do Pacaembu",
+  "photos": [
+   {
+    "file": "File:Entrada do Estádio do Pacaembu.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Entrada do Paca.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pacaembu_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Estádio_do_Pacaembu"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; entrance views; check"
+ },
+ {
+  "id": "arena-da-amazonia",
+  "name": "Arena da Amazônia",
+  "by": "Gerkan, Marg and Partners (gmp)",
+  "city": "Manaus",
+  "cc": "BR",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Climate response"
+  ],
+  "features": "Metal exterior meant to evoke the straw baskets made in the Amazon region.",
+  "status": "photo",
+  "commons_category": "",
+  "photos": [
+   {
+    "file": "File:Arena da Amazônia (Aerial View).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Amazonia Arena.jpg",
+    "license": "CC BY 3.0 br",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arena_da_Amazônia"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; no dedicated category found; photos by file search"
+ },
+ {
+  "id": "theatro-municipal-de-sao-paulo",
+  "name": "Theatro Municipal de São Paulo",
+  "by": "Ramos de Azevedo, Cláudio Rossi, Domiziano Rossi",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1911",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Modelled on the Palais Garnier; venue of the 1922 Week of Modern Art.",
+  "status": "photo",
+  "commons_category": "Category:Theatro Municipal de São Paulo",
+  "photos": [
+   {
+    "file": "File:Theatro Municipal (São Paulo) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Em frente ao Teatro Municipal (24815488348).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Theatro_Municipal_(São_Paulo)",
+   "https://commons.wikimedia.org/wiki/Category:Theatro_Municipal_de_São_Paulo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "theatro-municipal-do-rio-de-janeiro",
+  "name": "Theatro Municipal do Rio de Janeiro",
+  "by": "Francisco de Oliveira Passos",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1909",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Eclectic Paris Opera-inspired design; outer walls carry names of classic European and Brazilian artists.",
+  "status": "photo",
+  "commons_category": "Category:Theatro Municipal do Rio de Janeiro",
+  "photos": [
+   {
+    "file": "File:Theatro Municipal do Rio de Janeiro, fachada.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fachada do Teatro Municipal, Acervo do Instituto Moreira Salles.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Theatro_Municipal_(Rio_de_Janeiro)",
+   "https://commons.wikimedia.org/wiki/Category:Theatro_Municipal_do_Rio_de_Janeiro"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; photos by file search; second is a historic photo"
+ },
+ {
+  "id": "theatro-da-paz",
+  "name": "Theatro da Paz",
+  "by": "José Tibúrcio Pereira Magalhães",
+  "city": "Belém",
+  "cc": "BR",
+  "year": "1874",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Neoclassical theatre with columned patios on each side and horseshoe-shaped seating.",
+  "status": "photo",
+  "commons_category": "Category:Theatro da Paz",
+  "photos": [
+   {
+    "file": "File:Belem-TeatroPaz1.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Por outra perspectiva.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Theatro_da_Paz",
+   "https://commons.wikimedia.org/wiki/Category:Theatro_da_Paz"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is when construction finished; opened 1878"
+ },
+ {
+  "id": "santos-dumont-airport",
+  "name": "Santos Dumont Airport",
+  "by": "MMM Roberto (Marcelo, Milton and Mauricio Roberto)",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1945",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Original terminal inspired by Paris-Le Bourget; a Brazilian national landmark since 1998.",
+  "status": "unsure",
+  "commons_category": "Category:Aeroporto Santos Dumont",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santos_Dumont_Airport",
+   "https://commons.wikimedia.org/wiki/Category:Aeroporto_Santos_Dumont"
+  ],
+  "note": "no free photo; category had no files; none found by search"
+ },
+ {
+  "id": "arena-fonte-nova",
+  "name": "Arena Fonte Nova",
+  "by": "Marc Duwe, Claas Schulitz",
+  "city": "Salvador",
+  "cc": "BR",
+  "year": "2013",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Roof covering all seats, on a lightweight metal structure with a PTFE membrane.",
+  "status": "photo",
+  "commons_category": "Category:Arena Fonte Nova",
+  "photos": [
+   {
+    "file": "File:EstadioForteNova.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Arena Fonte Nova, with lake.jpg",
+    "license": "CC BY 3.0 br",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arena_Fonte_Nova",
+   "https://commons.wikimedia.org/wiki/Category:Arena_Fonte_Nova"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is the 7 April 2013 opening"
+ },
+ {
+  "id": "estacao-da-luz",
+  "name": "Estação da Luz",
+  "by": "Charles Henry Driver",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": "1901",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Prefabrication",
+   "Structure as expression"
+  ],
+  "features": "Prefabricated structure made in Scotland, assembled in Glasgow, then re-erected in São Paulo.",
+  "status": "photo",
+  "commons_category": "Category:Estação da Luz",
+  "photos": [
+   {
+    "file": "File:Entrance - Luz - Train Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2023-01-07 Estação da Luz.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Estação_da_Luz",
+   "https://commons.wikimedia.org/wiki/Category:Estação_da_Luz"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "paco-imperial",
+  "name": "Paço Imperial",
+  "by": "José Fernandes Pinto Alpoim",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1743",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Public space"
+  ],
+  "features": "Colonial palace with a Baroque portal of Portuguese marble.",
+  "status": "photo",
+  "commons_category": "Category:Paço Imperial",
+  "photos": [
+   {
+    "file": "File:Vista da fachada lateral do Paço Imperial.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Paço Imperial ao entardecer.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Paço Imperial. Rio de Janeiro (1).jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paço_Imperial",
+   "https://commons.wikimedia.org/wiki/Category:Paço_Imperial"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "sao-bento-monastery-rio",
+  "name": "São Bento Monastery",
+  "by": "Francisco Frias de Mesquita, José Fernandes Pinto Alpoim",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1671",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Mannerist church with gold-leaf interior; primary example of Portuguese colonial architecture.",
+  "status": "photo",
+  "commons_category": "Category:Mosteiro de São Bento (Rio de Janeiro)",
+  "photos": [
+   {
+    "file": "File:Fachada Mosteiro de São Bento.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fachada da Igreja de São Bento.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Rio-SaoBentoMonastery1.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mosteiro_de_São_Bento_(Rio_de_Janeiro)",
+   "https://commons.wikimedia.org/wiki/Category:Mosteiro_de_São_Bento_(Rio_de_Janeiro)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; year is the church (1671); annex 1755"
+ },
+ {
+  "id": "national-library-of-brazil",
+  "name": "National Library of Brazil",
+  "by": "Sousa Aguiar",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "1910",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Eclectic neoclassical and Art Nouveau design with ornaments by Eliseu Visconti.",
+  "status": "photo",
+  "commons_category": "",
+  "photos": [
+   {
+    "file": "File:Fachada Biblioteca Nacional.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fachada Biblioteca Nacional Reformada.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Library_of_Brazil"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye; photos by file search; descriptions generic, check it is Rio"
+ },
+ {
+  "id": "palacio-de-aguas-corrientes",
+  "name": "Palacio de Aguas Corrientes",
+  "by": "Olaf Boye",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1894",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Water-pumping palace covered in about 300,000 majolica tiles.",
+  "status": "photo",
+  "commons_category": "Category:Palacio de Aguas Corrientes, Buenos Aires",
+  "photos": [
+   {
+    "file": "File:Aguas Corrientes-full-HDR.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aguas Corrientes-2011-TM.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aguas Corrientes (calle Riobamba).JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palacio_de_Aguas_Corrientes",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_de_Aguas_Corrientes,_Buenos_Aires"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "monumento-a-la-bandera-rosario",
+  "name": "National Flag Memorial",
+  "by": "Alejandro Bustillo, Ángel Guido",
+  "city": "Rosario",
+  "cc": "AR",
+  "year": "1957",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Memorial on the Paraná riverbank, main site of Argentina's Flag Day.",
+  "status": "photo",
+  "commons_category": "Category:National Flag Memorial",
+  "photos": [
+   {
+    "file": "File:Día soleado con banderas en el monumento de Rosario.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Banderas flamean en el monumento.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:332568 1895071395708 1470233949 o Monumento Nacional a la Bandera.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Flag_Memorial",
+   "https://commons.wikimedia.org/wiki/Category:National_Flag_Memorial"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "usina-del-arte",
+  "name": "Usina del Arte",
+  "by": "Giovanni Chiogna",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1916",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Community"
+  ],
+  "features": "Former power plant in La Boca reopened in 2012 as a cultural centre.",
+  "status": "photo",
+  "commons_category": "Category:Usina del Arte",
+  "photos": [
+   {
+    "file": "File:Usina del Arte 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Usina del Arte.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Usina de la Música - La Boca, Buenos Aires.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Usina_del_Arte",
+   "https://commons.wikimedia.org/wiki/Category:Usina_del_Arte"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "antel-tower-montevideo",
+  "name": "Torre de las Telecomunicaciones (Antel Tower)",
+  "by": "Carlos Ott",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "2002",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Tallest skyscraper in Uruguay, 157.6 m, headquarters of Antel.",
+  "status": "photo",
+  "commons_category": "Category:Torre de las Comunicaciones",
+  "photos": [
+   {
+    "file": "File:2016 Montevideo Torre de las Telecomunicaciones.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Uruguay Torre de las Telecomunicaciones Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Complejo Torre de las Telecomunicaciones y logo de Antel.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antel_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Torre_de_las_Comunicaciones"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "laguna-garzon-bridge",
+  "name": "Laguna Garzón Bridge",
+  "by": "Rafael Viñoly",
+  "city": "Laguna Garzón",
+  "cc": "UY",
+  "year": "2015",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Circular bridge that replaced a small ferry across Laguna Garzón.",
+  "status": "photo",
+  "commons_category": "Category:Laguna Garzon Bridge",
+  "photos": [
+   {
+    "file": "File:Sky WEfest 003.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Iconic Uruguayan Bridge Over Lake Garzón Architect Rafael Viñoly 201229-0140-jikatu (50778963876).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Iconic Uruguayan Bridge Over Lake Garzón Architect Rafael Viñoly 201229-0141-jikatu (50778202278).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laguna_Garz%C3%B3n_Bridge",
+   "https://commons.wikimedia.org/wiki/Category:Laguna_Garzon_Bridge"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "carrasco-airport-terminal",
+  "name": "Carrasco International Airport",
+  "by": "Rafael Viñoly",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "2009",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Light from above",
+   "Structure as expression"
+  ],
+  "features": "New terminal with separate arrivals and departures floors and a top-floor viewing area.",
+  "status": "photo",
+  "commons_category": "Category:Carrasco International Airport",
+  "photos": [
+   {
+    "file": "File:CarrascoAirport20260119.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carrasco_International_Airport",
+   "https://commons.wikimedia.org/wiki/Category:Carrasco_International_Airport"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "casapueblo",
+  "name": "Casapueblo",
+  "by": "Carlos Páez Vilaró",
+  "city": "Punta Ballena",
+  "cc": "UY",
+  "year": "1960",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Sculptural form",
+   "Incremental",
+   "Light & shadow"
+  ],
+  "features": "Habitable sculpture built without formal plans over decades on the Punta Ballena coast.",
+  "status": "photo",
+  "commons_category": "Category:Casapueblo",
+  "photos": [
+   {
+    "file": "File:Casa Pueblo, Punta Ballena.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa Pueblo, Uruguay.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa Pueblo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casapueblo",
+   "https://commons.wikimedia.org/wiki/Category:Casapueblo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-legislativo-montevideo",
+  "name": "Palacio Legislativo",
+  "by": "Vittorio Meano, Gaetano Moretti",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1925",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Seat of Uruguay's parliament, inaugurated 1925 and a National Historic Monument.",
+  "status": "photo",
+  "commons_category": "Category:Palacio Legislativo, Uruguay",
+  "photos": [
+   {
+    "file": "File:2016 Fachada del Palacio Legislativo de Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 edificio del Palacio Legislativo. Montevido, Uruguay.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Avenida de Las Leyes con el Palacio Legislativo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Legislative_Palace_of_Uruguay",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_Legislativo,_Uruguay"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-lapido",
+  "name": "Edificio Lapido (Palacio Lapido)",
+  "by": "Juan Aubriot",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1933",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Art Deco tower on 18 de Julio Avenue, a National Heritage Site since 1989.",
+  "status": "photo",
+  "commons_category": "Category:Palacio Lapido",
+  "photos": [
+   {
+    "file": "File:2016 Palacio de la Tribuna Popular o Edificio Lapido en Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Montevideo Palacio de la Tribuna Popular Edificio Lapido.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Torre del diario La Tribuna Popular - Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Lapido",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_Lapido"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "teatro-solis",
+  "name": "Teatro Solís",
+  "by": "Carlo Zucchi, Francisco Xavier Garmendia, Víctor Rabú",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1856",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Montevideo's historic theatre by Plaza Independencia, reconstructed in 2004.",
+  "status": "photo",
+  "commons_category": "Category:Teatro Solís (Montevideo)",
+  "photos": [
+   {
+    "file": "File:2016 fachada del Teatro Solís de Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fachada del Teatro Solís.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sol%C3%ADs_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Teatro_Solís_(Montevideo)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-de-lopez-asuncion",
+  "name": "Palacio de los López",
+  "by": "Alonso Taylor",
+  "city": "Asunción",
+  "cc": "PY",
+  "year": "1867",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "Seat of government above Asunción Bay, substantially completed by 1867.",
+  "status": "photo",
+  "commons_category": "Category:Palacio de los López",
+  "photos": [
+   {
+    "file": "File:Palacio de los Lopez, Asunción PAR(1).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Palacio de los Lopez, Asunción PAR.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Gran Palacio Nacional de Paraguay.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palacio_de_los_L%C3%B3pez",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_de_los_López"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "panteon-nacional-de-los-heroes",
+  "name": "Panteón Nacional de los Héroes",
+  "by": "Alejandro Ravizza",
+  "city": "Asunción",
+  "cc": "PY",
+  "year": "1936",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "State mausoleum in central Asunción, inaugurated 12 October 1936.",
+  "status": "photo",
+  "commons_category": "Category:Panteón Nacional de los Héroes",
+  "photos": [
+   {
+    "file": "File:ASUNCION PANTEON NACIONAL DE LOS HÉROES.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:National Pantheon of the Heroes, Asunción, Paraguay.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pante%C3%B3n_Nacional_de_los_H%C3%A9roes",
+   "https://commons.wikimedia.org/wiki/Category:Panteón_Nacional_de_los_Héroes"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "torre-monumental",
+  "name": "Torre Monumental",
+  "by": "Ambrose Poynter",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1916",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Brick",
+   "Axis"
+  ],
+  "features": "Clock tower given by the British community for the 1910 centennial, inaugurated 1916.",
+  "status": "photo",
+  "commons_category": "Category:Torre Monumental, Buenos Aires",
+  "photos": [
+   {
+    "file": "File:IVN Torre Monumental.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:J31 594 Torre Monumental.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2019 Buenos Aires - Torre Monumental.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_Monumental",
+   "https://commons.wikimedia.org/wiki/Category:Torre_Monumental,_Buenos_Aires"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "estadio-monumental-buenos-aires",
+  "name": "Estadio Monumental",
+  "by": "José Aslan, Héctor Ezcurra",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1938",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "River Plate stadium, built 1936-38 and opened with a crowd of about 70,000.",
+  "status": "photo",
+  "commons_category": "Category:Estadio Monumental (Buenos Aires)",
+  "photos": [
+   {
+    "file": "File:Cancha de River desde Río de la Plata 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Estadio Antonio Vespucio Liberti, Buenos Aires, Argentina (46511339261).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Estadio de River Plate desde la Av. Lugones.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti",
+   "https://commons.wikimedia.org/wiki/Category:Estadio_Monumental_(Buenos_Aires)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "edificio-comega",
+  "name": "Edificio Comega",
+  "by": "Alfred Joselevich, Enrique Douillet",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1933",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Stone"
+  ],
+  "features": "First reinforced-concrete skyscraper in Argentina, clad in travertine.",
+  "status": "photo",
+  "commons_category": "Category:Comega building",
+  "photos": [
+   {
+    "file": "File:Edificio COMEGA.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Comega.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edificio Comega PB.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Comega_Building",
+   "https://commons.wikimedia.org/wiki/Category:Comega_building"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "retiro-bus-station",
+  "name": "Retiro Bus Station",
+  "by": "Fernando Serra, Jorge Valera, Raúl Petrucci",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1983",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Circulation",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "Bus terminal nearly 400 m long with 75 gates.",
+  "status": "photo",
+  "commons_category": "Category:Retiro bus station, Buenos Aires",
+  "photos": [
+   {
+    "file": "File:Acceso a la Terminal de Omnibus de Retiro, Avenida Antártida Argentina.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Terminal de Ómnibus de Retiro (entrada vehicular).jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Retiro_bus_station",
+   "https://commons.wikimedia.org/wiki/Category:Retiro_bus_station,_Buenos_Aires"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "floralis-generica",
+  "name": "Floralis Genérica",
+  "by": "Eduardo Catalano",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "2002",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Geometry"
+  ],
+  "features": "Giant steel flower whose petals open in the morning and close at sunset.",
+  "status": "unsure",
+  "commons_category": "Category:Floralis Genérica",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Floralis_Gen%C3%A9rica",
+   "https://commons.wikimedia.org/wiki/Category:Floralis_Genérica"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "edificio-libertador",
+  "name": "Edificio Libertador",
+  "by": "Carlos Pibernat, Enrique Lopardo, Néstor Pastrana, Héctor Campini",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1943",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "War Ministry building, built 1938-43, linked by tunnels to the presidential offices.",
+  "status": "photo",
+  "commons_category": "Category:Edificio Libertador",
+  "photos": [
+   {
+    "file": "File:Edificio Libertador 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edificio Libertador Avenida Paseo Colon.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Libertador_Building",
+   "https://commons.wikimedia.org/wiki/Category:Edificio_Libertador"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "catedral-de-la-plata",
+  "name": "La Plata Cathedral",
+  "by": "Pedro Benoit, Ernesto Meyer, Emilio Coutaret",
+  "city": "La Plata",
+  "cc": "AR",
+  "year": "1999",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "Neo-Gothic cathedral with towers about 112 m high, finished in 1999.",
+  "status": "photo",
+  "commons_category": "Category:Catedral de La Plata (Argentina)",
+  "photos": [
+   {
+    "file": "File:Apóstol Pórtico de entrada Catedral La Plata.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:20090808-32-Catedral.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/La_Plata_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_de_La_Plata_(Argentina)"
+  ],
+  "note": "only two usable photos; exterior view of 20090808-32-Catedral not confirmed; please check by eye"
+ },
+ {
+  "id": "iglesia-san-carlos-borromeo-montevideo",
+  "name": "San Carlos Borromeo y Nuestra Señora de la Asunción",
+  "by": "Juan Pablo Terra, with Eladio Dieste (structure)",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1956",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Structure as expression",
+   "Exposed concrete"
+  ],
+  "features": "Parabolic reinforced-concrete church in the Prado, structure by Eladio Dieste.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Carlos_Borromeo_y_Nuestra_Se%C3%B1ora_de_la_Asunci%C3%B3n,_Montevideo"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "palacio-municipal-montevideo",
+  "name": "Palacio Municipal de Montevideo (Intendencia)",
+  "by": "Mauricio Cravotto",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1941",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "City hall on 18 de Julio Avenue, cut from a planned 114 m to 78 m.",
+  "status": "photo",
+  "commons_category": "Category:Palacio Municipal de Montevideo",
+  "photos": [
+   {
+    "file": "File:2016 edificio de la Intendencia de Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Uruguay edificio de la Intendencia de Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2016 Palacio Municipal Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/City_Hall_of_Montevideo",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_Municipal_de_Montevideo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "torre-espacial-buenos-aires",
+  "name": "Torre Espacial",
+  "by": "Peter Totter, Wilhelm Dietrich, Peter Wader",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1981",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Telecommunications tower with observation decks at 120, 124 and 176 m.",
+  "status": "photo",
+  "commons_category": "Category:Torre Espacial",
+  "photos": [
+   {
+    "file": "File:Firme y de pie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gigante espacial.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Escape vertical.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_Espacial",
+   "https://commons.wikimedia.org/wiki/Category:Torre_Espacial"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-de-justicia-buenos-aires",
+  "name": "Palacio de Justicia (Palacio de Tribunales)",
+  "by": "Norbert Maillart",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1942",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Law courts on Plaza Lavalle, a National Historic Monument since 1999.",
+  "status": "photo",
+  "commons_category": "Category:Palacio de Tribunales, Buenos Aires",
+  "photos": [
+   {
+    "file": "File:J34 573 Plaza Lavalle, Palacio de Justicia.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": false
+   },
+   {
+    "file": "File:Palacio de Tribunales Plaza Lavalle.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Justice_of_the_Argentine_Nation",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_de_Tribunales,_Buenos_Aires"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-municipal-buenos-aires",
+  "name": "Palacio Municipal de Buenos Aires",
+  "by": "Juan Antonio Buschiazzo",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1914",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "City hall on Avenida de Mayo, original 1892 building with a 1914 annex.",
+  "status": "photo",
+  "commons_category": "Category:Palacio Municipal de Buenos Aires",
+  "photos": [
+   {
+    "file": "File:Buenos Aires City Hall Summer afternoon.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Antiguo Palacio del Poder Ejecutivo de la Ciudad Autónoma de Buenos Aires.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Buenos_Aires_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_Municipal_de_Buenos_Aires"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "centro-cultural-kirchner",
+  "name": "Centro Cultural Kirchner",
+  "by": "Norbert Maillart; conversion by Enrique, Federico and Nicolás Bares",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Former central post office, converted to a cultural centre that opened in 2015.",
+  "status": "photo",
+  "commons_category": "Category:Palacio Libertad (Buenos Aires)",
+  "photos": [
+   {
+    "file": "File:Centro Cultural Kirchner Facade.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Cultural Nestor Kirchner Argentina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Buenos Aires Centrum Kirchner.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner_Cultural_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_Libertad_(Buenos_Aires)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "centro-cultural-general-san-martin",
+  "name": "Centro Cultural General San Martín",
+  "by": "Mario Roberto Álvarez",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Geometry"
+  ],
+  "features": "Cultural complex built 1962-73 near Corrientes Avenue.",
+  "status": "photo",
+  "commons_category": "Category:Centro Cultural General San Martín",
+  "photos": [
+   {
+    "file": "File:Centro Cultural General San Martín.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Cultural San Martin Entrance.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Mart%C3%ADn",
+   "https://commons.wikimedia.org/wiki/Category:Centro_Cultural_General_San_Martín"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "hotel-casino-carrasco",
+  "name": "Hotel Carrasco",
+  "by": "Gastón Mallet, Jacques Dunant",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": "1921",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Seafront hotel and casino inaugurated in 1921, where Einstein stayed in 1925.",
+  "status": "photo",
+  "commons_category": "Category:Hotel Carrasco",
+  "photos": [
+   {
+    "file": "File:Renovado hotel y casino carrasco.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hotel Carrasco, Montevideo - 20130114 (001).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Casino_Carrasco",
+   "https://commons.wikimedia.org/wiki/Category:Hotel_Carrasco"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "museo-de-la-memoria-y-los-derechos-humanos",
+  "name": "Museo de la Memoria y los Derechos Humanos",
+  "by": "Estudio América",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Community"
+  ],
+  "features": "Santiago museum for victims of abuses under Pinochet's 1973-1990 government, opened 2010.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Museo de la Memoria y los Derechos Humanos",
+  "photos": [
+   {
+    "file": "File:Museo de la Memoria y los Derechos Humanos.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Museo de la memoria.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_de_la_Memoria_y_los_Derechos_Humanos",
+   "https://commons.wikimedia.org/wiki/Category:Museo_de_la_Memoria_y_los_Derechos_Humanos"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "teatro-del-lago",
+  "name": "Teatro del Lago",
+  "by": "Gerardo Köster, Gustavo Greene (Amercanda)",
+  "city": "Frutillar",
+  "cc": "CL",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Sculptural form"
+  ],
+  "features": "Theatre and concert hall on the shore of Lake Llanquihue with a 1,178-seat main hall, opened 2010.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Teatro del Lago",
+  "photos": [
+   {
+    "file": "File:Frutillar -Teatro del Lago exterior f01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frutillar -Teatro del Lago exterior f02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frutillar-Theatro-del-Lago-1030909.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Teatro_del_Lago",
+   "https://commons.wikimedia.org/wiki/Category:Teatro_del_Lago"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "estacion-mapocho",
+  "name": "Estación Mapocho",
+  "by": "Emilio Jecquier",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1913",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Steel & glass",
+   "Vault",
+   "Adaptive reuse"
+  ],
+  "features": "Railway station opened 1913, refitted as a cultural center since 1994.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Centro Cultural Estación Mapocho",
+  "photos": [
+   {
+    "file": "File:2017 Santiago de Chile - Estación Mapocho y río Mapocho desde la avenida Santa María.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Cultural Estación Mapocho, Santiago 20200203 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Estaci%C3%B3n_Mapocho",
+   "https://commons.wikimedia.org/wiki/Category:Centro_Cultural_Estación_Mapocho"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "teatro-municipal-de-santiago",
+  "name": "Teatro Municipal de Santiago",
+  "by": "Claudio Brunet des Baines, Lucien Hénault",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1857",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Santiago's main opera house, inaugurated 1857 and rebuilt after an 1870 fire, completed 1873.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Teatro Municipal de Santiago",
+  "photos": [
+   {
+    "file": "File:2017 Santiago de Chile - Teatro Municipal de Santiago.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frontis Teatro Municipal de Santiago.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Teatro_Municipal_(Santiago)",
+   "https://commons.wikimedia.org/wiki/Category:Teatro_Municipal_de_Santiago"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-de-la-moneda",
+  "name": "Palacio de La Moneda",
+  "by": "Joaquín Toesca",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1805",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Seat of the president of Chile, completed 1805 to designs by Joaquín Toesca.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Palacio de La Moneda",
+  "photos": [
+   {
+    "file": "File:Chile-02538 - La Moneda Presidential Palace (49033041206).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa de la moneda de santiago de chile.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palacio_de_La_Moneda",
+   "https://commons.wikimedia.org/wiki/Category:Palacio_de_La_Moneda"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "museo-nacional-de-bellas-artes-santiago",
+  "name": "Museo Nacional de Bellas Artes",
+  "by": "Émile Jéquier",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1910",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Light from above"
+  ],
+  "features": "Beaux-arts museum designed by Émile Jéquier, inaugurated 21 September 1910.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Museo Nacional de Bellas Artes, Chile",
+  "photos": [
+   {
+    "file": "File:Chilean National Museum of Fine Arts 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frontis del Museo Nacional de Bellas Artes.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museo_Nacional_de_Bellas_Artes_(Chile)",
+   "https://commons.wikimedia.org/wiki/Category:Museo_Nacional_de_Bellas_Artes,_Chile"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "centro-cultural-la-moneda",
+  "name": "Centro Cultural Palacio de La Moneda",
+  "by": "Cristián Undurraga, Ana Luisa Devés",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Cultural centre beneath Plaza de la Ciudadanía on the south side of La Moneda, built 2004-2006.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Centro Cultural La Moneda",
+  "photos": [
+   {
+    "file": "File:Centro Cultural La Moneda 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Cultural La Moneda 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centro Cultural La Moneda 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Cultural_La_Moneda",
+   "https://commons.wikimedia.org/wiki/Category:Centro_Cultural_La_Moneda"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "basilica-del-salvador",
+  "name": "Basílica del Salvador",
+  "by": "Teodoro Burchard",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": "1932",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Neo-Gothic brick basilica, designed by Teodoro Burchard and completed in 1932; damaged in 1985 and 2010.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Basílica del Salvador",
+  "photos": [
+   {
+    "file": "File:Fachada Basilica del Salvador.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Basílica del Salvador, Santiago 20230816.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Basílica del Salvador 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Salvador",
+   "https://commons.wikimedia.org/wiki/Category:Basílica_del_Salvador"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "basilica-del-voto-nacional",
+  "name": "Basílica del Voto Nacional",
+  "by": "Emilio Tarlier",
+  "city": "Quito",
+  "cc": "EC",
+  "year": "1988",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "Neo-Gothic basilica up to 83 m high, consecrated 1988, with a viewing platform and the National Pantheon in its crypt.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Basílica del Voto Nacional",
+  "photos": [
+   {
+    "file": "File:Basilica del Voto Nacional.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Basilica de Voto Natcional, Quito, Ecuador.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Voto_Nacional",
+   "https://commons.wikimedia.org/wiki/Category:Basílica_del_Voto_Nacional"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "catedral-de-temuco",
+  "name": "Catedral de San José de Temuco",
+  "by": "Gerardo Rendel",
+  "city": "Temuco",
+  "cc": "CL",
+  "year": "1991",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Modernist cathedral completed 1991, replacing a church that collapsed in the 1960 earthquake.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Catedral de San José, Temuco",
+  "photos": [
+   {
+    "file": "File:Catedral de Temuco.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Temuco - Iglesia Catedral de Temuco.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Joseph_Cathedral,_Temuco",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_de_San_José,_Temuco"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "catedral-de-chillan",
+  "name": "Catedral de Chillán",
+  "by": "Hernán Larraín Errázuriz",
+  "city": "Chillán",
+  "cc": "CL",
+  "year": "1950",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Catholic cathedral in the centre of Chillán designed by Hernán Larraín Errázuriz.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Catedral de Chillán",
+  "photos": [
+   {
+    "file": "File:Catedral de Chillán - tarde.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Catedral de Chillán, tarde de otoño 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Bartholomew_Cathedral,_Chill%C3%A1n",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_de_Chillán"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye. Doubt: Wikipedia says work 'culminated in 1950'; the cathedral may be a later build, check year"
+ },
+ {
+  "id": "catedral-de-talca",
+  "name": "Catedral de San Agustín de Talca",
+  "by": "Ramón Venegas",
+  "city": "Talca",
+  "cc": "CL",
+  "year": "1954",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Catholic cathedral on Talca's Plaza de Armas, consecrated 30 September 1954.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Catedral de San Agustín, Talca",
+  "photos": [
+   {
+    "file": "File:Catedral de San Agustín, Talca, 2018-02-14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Augustine_Cathedral,_Talca",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_de_San_Agustín,_Talca"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye. Doubt: movement not stated by source"
+ },
+ {
+  "id": "catedral-de-lima",
+  "name": "Cathedral Basilica of Lima",
+  "by": "Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1797",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Metropolitan Cathedral of Lima, completed 1797, the oldest and largest church in Peru.",
+  "award": "Andean west survey",
+  "status": "unsure",
+  "commons_category": "Category:Cathedral of Lima",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lima_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Cathedral_of_Lima"
+  ],
+  "note": "no free photo (only a night photo found)"
+ },
+ {
+  "id": "edificio-atlas-lima",
+  "name": "Edificio Atlas",
+  "by": "Walter Weberhofer, José Álvarez Calderón",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1955",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Eleven-storey tower clad in glass and aluminium, built 1955 and honoured with a municipal award that year.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Edificio Atlas, Lima",
+  "photos": [
+   {
+    "file": "File:Edificio Atlas en Lima 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edificio Atlas en Lima 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edificio Atlas en Lima 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlas_Building,_Lima",
+   "https://commons.wikimedia.org/wiki/Category:Edificio_Atlas,_Lima"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "museo-de-arte-de-lima",
+  "name": "Museo de Arte de Lima (Palacio de la Exposición)",
+  "by": "Antonio Leonardi",
+  "city": "Lima",
+  "cc": "PE",
+  "year": "1871",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Public space"
+  ],
+  "features": "Exhibition palace on Colón Avenue built 1870-1871 and inaugurated 1872, now the Lima art museum.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Museo de Arte de Lima",
+  "photos": [
+   {
+    "file": "File:Fachada del Museo de Arte de Lima - Por Nina Gavancho.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2017 Lima - Museo de Arte de Lima - MALI.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_the_Exhibition",
+   "https://commons.wikimedia.org/wiki/Category:Museo_de_Arte_de_Lima"
+  ],
+  "note": "Museum use is from Commons file names; Wikipedia page is 'Palace of the Exhibition'. Check category name"
+ },
+ {
+  "id": "catedral-del-cusco",
+  "name": "Cusco Cathedral",
+  "by": "Juan Miguel de Veramendi, Juan Correa, Miguel Gutiérrez Sencio, Francisco Becerra",
+  "city": "Cusco",
+  "cc": "PE",
+  "year": "1654",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Main temple of Cusco and seat of its archdiocese, completed 1654.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Cathedral of Cusco",
+  "photos": [
+   {
+    "file": "File:Cusco Cathedral 1.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cusco_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Cathedral_of_Cusco"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; size not verified; please check by eye"
+ },
+ {
+  "id": "new-cathedral-of-cuenca",
+  "name": "New Cathedral of Cuenca",
+  "by": "Juan Bautista Stiehle",
+  "city": "Cuenca",
+  "cc": "EC",
+  "year": "1975",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Mainly Romanesque Revival cathedral begun in the 1880s and completed 1975, planned by friar Juan Bautista Stiehle.",
+  "award": "Andean west survey",
+  "status": "unsure",
+  "commons_category": "Category:Catedral de la Inmaculada Concepción",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Cathedral_of_Cuenca",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_de_la_Inmaculada_Concepción"
+  ],
+  "note": "no free photo (only a GFDL detail photo found; needs a better free photo)"
+ },
+ {
+  "id": "catedral-metropolitana-de-quito",
+  "name": "Catedral Metropolitana de Quito",
+  "by": "Antonio García",
+  "city": "Quito",
+  "cc": "EC",
+  "year": "1799",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Catholic cathedral in Quito designed by military engineer Antonio García, completed 1799.",
+  "award": "Andean west survey",
+  "status": "photo",
+  "commons_category": "Category:Catedral Metropolitana (Quito)",
+  "photos": [
+   {
+    "file": "File:(Catedral Metropolitana, Quito) exterior. pic. a1a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:(Catedral Metropolitana, Quito) exterior. pic. aa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metropolitan_Cathedral_of_Quito",
+   "https://commons.wikimedia.org/wiki/Category:Catedral_Metropolitana_(Quito)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "parque-explora",
+  "name": "Parque Explora",
+  "by": "Alejandro Echeverri",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "2008",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Interactive science museum in Medellín, opened in 2008.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Parque Explora (Medellín, Colombia).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Parque Explora-exterior.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Parque Explora. from Metrostation Universidad, Medellín.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parque_Explora"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "salt-cathedral-of-zipaquira",
+  "name": "Salt Cathedral of Zipaquirá",
+  "by": "Roswell Garavito Pearl",
+  "city": "Zipaquirá",
+  "cc": "CO",
+  "year": "1995",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Vault",
+   "Light & shadow"
+  ],
+  "features": "Underground church in a salt mine tunnel about 200 m deep, inaugurated 1995.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Catedral de Sal 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Catedral de Sal de Zipaquirá 02.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Catedral de Sal de Zipaquirá (5790430407).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "torre-colpatria",
+  "name": "Torre Colpatria",
+  "by": "Obregón Valenzuela & Cía.",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1978",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Bogotá skyscraper, Colombia's tallest building from 1978 until 2007.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2021 Bogotá - Torre Colpatria.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2018 Bogotá la torre Colpatria desde la Avenida 26.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bogota Colpatria av. 26.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_Colpatria"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "coltejer-building",
+  "name": "Coltejer Building",
+  "by": "Raúl Fajardo, Aníbal Saldarriaga, Germán Samper, Jorge Manjarres",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Medellín tower built for the Coltejer textile company, completed 1972.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2018 Torre Coltejer en contrapicado.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edificio Coltejer- Medellin.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Medellín edificio Coltejer.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coltejer_Building"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "rafael-uribe-uribe-palace-of-culture",
+  "name": "Rafael Uribe Uribe Palace of Culture",
+  "by": "Agustín Goovaerts",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "1937",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Gothic Revival public building in Medellín, built 1925-1937, now a national monument.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palacio de la Cultura Rafael Uribe Uribe 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palacio de la cultura Rafael Uribe Uribe.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palacio de la Cultura Rafael Uribe Uribe desde el Museo de Antioquia.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Uribe_Uribe_Palace_of_Culture"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "san-javier-library-park",
+  "name": "San Javier Library Park",
+  "by": "Javier Vera",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "2006",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "One of Medellín's ten library parks, in the San Javier area; opened December 2006.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Biblioteca San Javier-fachada Occidental-Medellin.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Javier_Library"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "belen-library-park",
+  "name": "Belén Library Park",
+  "by": "Hiroshi Naito",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "2008",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Library park in Comuna 16 of Medellín, opened March 2008.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Biblioteca Belen(1)-Medellin.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Belen(10)-Medellin.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Belen(11)-Medellin.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bethlehem_Library"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "leon-de-greiff-library-park",
+  "name": "León de Greiff Library Park",
+  "by": "Giancarlo Mazzanti",
+  "city": "Medellín",
+  "cc": "CO",
+  "year": "2007",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Library park by Giancarlo Mazzanti in Medellín, opened February 2007.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Biblioteca Leon de Greiff-Exterior-Medellin.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Leon de Greiff-Exterior2-Medellin.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Leon de Greiff-Exterior3-Medellin.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leon_de_Greiff_Library"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "national-capitol-of-colombia",
+  "name": "National Capitol of Colombia",
+  "by": "Thomas Reed",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1926",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Neoclassical seat of Colombian government on Bogotá's Plaza de Bolívar, completed 1926.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Capitolio Nacional Bogotá.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bogota - Capitolio Nacional.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Capitolio Nacional de Colombia (Bogotá) 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Capitol_of_Colombia"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "castillo-san-felipe-de-barajas",
+  "name": "Castillo San Felipe de Barajas",
+  "by": "Antonio de Arévalo",
+  "city": "Cartagena",
+  "cc": "CO",
+  "year": "1767",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Spanish colonial fortress above Cartagena, built 1639-1767.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Castillo San Felipe de Barajas, Cartagena 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Castillo San Felipe de Barajas, Cartagena 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Castillo San Felipe de Barajas, Cartagena 08.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "primatial-cathedral-of-bogota",
+  "name": "Primatial Cathedral of Bogotá",
+  "by": "Domingo de Petrés",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1823",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Neoclassical cathedral on Plaza de Bolívar, completed 1823.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2021 Bogotá - Catedral Primada de Colombia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Catedral Primada de Colombia, Centro de Bogotá.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Catedral Primada de Colombia a.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Primatial_Cathedral_of_Bogot%C3%A1"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "puente-de-occidente",
+  "name": "Puente de Occidente",
+  "by": "José María Villa",
+  "city": "Santa Fe de Antioquia",
+  "cc": "CO",
+  "year": "1895",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Suspension bridge over the Cauca River, 291 m long, opened 1895.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Puente de occidente (3148205468).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Puente de occidente en santa fe de antioquia.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Puente de occidente-a.JPG",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puente_de_Occidente"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "casa-de-narino",
+  "name": "Casa de Nariño",
+  "by": "Gastón Lelarge and Julián Lombana",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1908",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Presidential palace of Colombia in Bogotá, completed 1908.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Casa de Nariño.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa de Nariño y Vigilantes.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Casa de Nariño Bogotá abril 2017.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casa_de_Nari%C3%B1o"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "monserrate-sanctuary",
+  "name": "Monserrate Sanctuary",
+  "by": "Domingo de Petrés",
+  "city": "Bogotá",
+  "cc": "CO",
+  "year": "1899",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Hilltop sanctuary above Bogotá, completed 1899.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:2019 Bogotá - Iglesia de Monserrate.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2018 Bogotá - Iglesia de Monserrate desde Germania.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monserrate_Sanctuary"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "poliedro-de-caracas",
+  "name": "Poliedro de Caracas",
+  "by": "Thomas C. Howard (Synergetics)",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1974",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Indoor arena under a geodesic dome, finished 1974.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Poliedro de Caracas, La Rinconada, Coche, Caracas, Venezuela octubre 2024 (2).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Poliedro de Caracas, La Rinconada, Coche, Caracas, Venezuela octubre 2024 (3).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Poliedro de Caracas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Poliedro_de_Caracas"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "central-library-ucv",
+  "name": "Central Library, Central University of Venezuela",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1953",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Main library of the Central University of Venezuela, inaugurated 1953.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Biblioteca Central de la UCV Caracas Venezuela 2024 (1).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Central de la UCV Caracas Venezuela 2024 (2).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Biblioteca Central de la UCV Caracas, Venezuela 2023 (3).jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Library_(Central_University_of_Venezuela)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "clock-tower-ucv",
+  "name": "Clock Tower, Central University of Venezuela",
+  "by": "Carlos Raúl Villanueva with Juan Otaola Paván",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1954",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "features": "25 m prestressed concrete clock tower with three twisted columns.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Torre del Reloj de la UCV, Caracas, Venezuela 2023 (1).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Torre del Reloj de la UCV, Caracas, Venezuela 2023 (3).jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:UCV 2015-000 Reloj de la UCV.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clock_Tower_(Central_University_of_Venezuela)"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "national-library-of-venezuela",
+  "name": "National Library of Venezuela",
+  "by": "Tomás Sanabria",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1989",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Brutalist national library in Caracas, designed 1981-1989.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:National Library of Venezuela building 1.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   },
+   {
+    "file": "File:National Library of Venezuela building 2.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   },
+   {
+    "file": "File:National Library of Venezuela building 4.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Library_of_Venezuela"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "torre-de-david",
+  "name": "Torre de David (Centro Financiero Confinanzas)",
+  "by": "Enrique Gómez and Associates",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1994",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Incremental",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Unfinished Caracas tower, construction halted in 1994.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Torre de David - Centro Financiero Confinanzas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centro_Financiero_Confinanzas"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "palacio-federal-legislativo",
+  "name": "Palacio Federal Legislativo",
+  "by": "Luciano Urdaneta Vargas and Juan Hurtado Manrique",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1877",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "Venezuelan legislature in Caracas' historic centre, completed 1877.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palacio Federal Legislativo de Venezuela.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Arco oeste del Palacio Federal Legislativo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palacio_Federal_Legislativo"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "general-rafael-urdaneta-bridge",
+  "name": "General Rafael Urdaneta Bridge",
+  "by": "Riccardo Morandi",
+  "city": "Maracaibo",
+  "cc": "VE",
+  "year": "1962",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Water"
+  ],
+  "features": "Prestressed concrete bridge over Lake Maracaibo, completed 1962.",
+  "award": "Colombia/Venezuela survey",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rafael Urdaneta Bridge 3.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Puente General Rafael Urdaneta.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:General Rafael Urdaneta Bridge view from the lake to Cabimas side.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/General_Rafael_Urdaneta_Bridge"
+  ],
+  "note": "photos picked from Commons metadata, not looked at; please check by eye"
+ },
+ {
+  "id": "museum-of-contemporary-art-of-caracas",
+  "name": "Museo de Arte Contemporáneo de Caracas",
+  "by": "Nikolajs Sidorkovs (Siso & Shaw & Associates)",
+  "city": "Caracas",
+  "cc": "VE",
+  "year": "1974",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Circulation"
+  ],
+  "features": "Contemporary art museum in Caracas, opened 1974.",
+  "award": "Colombia/Venezuela survey",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_of_Caracas"
+  ],
+  "note": "no free photo"
+ }
+]

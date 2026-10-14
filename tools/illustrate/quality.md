@@ -41,3 +41,31 @@ Galleries: about 370 off-topic pictures (people, signs, artworks, street views, 
 | Ordinary types | 43 of 184 (23%) as proposed, Southeast Asia about 30%; 17% after 15 generic towers were held back | **warned**, and rising (21% → 23%) |
 
 For the next round: the brief should ask Southeast Asian and other skyline-heavy themes for fewer office towers, and the photo check should open the Commons category, not only file names (the Southeast Asia and Manila chats could not see thumbnails).
+
+## Round 8, first batch (14 Oct 2026): South America, Middle East and Turkey, South Asia
+
+276 proposals from three Sonnet chats, under the round 8 brief (few ordinary types, photos seen, not picked by name).
+
+| Signal | Number | Level |
+|---|---|---|
+| Leads held back in photo review | 9 of 243 (4%): Troy Museum, Abboud Building, Mohammed Bin Rashid Library, Mathaf, Education City Stadium, Hamad Airport, Tbilisi Wedding Palace, Vigyan Bhawan, Visvesvaraya Centre | fine, level with round 7b |
+| No free photo | 30 of 276 (11%), South Asia 18% | fine |
+| Already on the wall | 2 of 276 (1%): Tomb of Avicenna, NCPA Mumbai | fine |
+| Facts failing the source check | 0 of 40 checked at random | fine |
+| Ordinary types | 21 of 276 (8%) as proposed | fine, down from 23%: the brief change worked |
+
+Galleries are still the weak spot: 348 off-topic pictures (tourists, plaques, other buildings, one gallery of the Empire State Building) taken out by eye.
+
+## Round 8, second batch (14 Oct 2026): Africa, Japan and Korea
+
+89 proposals from two Sonnet chats (the Africa chat picked from Commons categories without seeing thumbnails).
+
+| Signal | Number | Level |
+|---|---|---|
+| Leads held back in photo review | 1 of 82 (1%): Heroes' Acre, Windhoek | fine |
+| No free photo | 6 of 89 (7%) | fine |
+| Already on the wall | 0 | fine |
+| Facts failing the source check | 1 of 81, every building checked (1%): Daejeon science museum year 1984 → 1990, corrected. The first random 25 showed 4%, over the warning level, so the whole batch was checked. | fine |
+| Ordinary types | 3 of 89 (3%); Carlton Centre held back | fine |
+
+110 off-topic gallery pictures out; 26 buildings got a better lead from their own gallery.
