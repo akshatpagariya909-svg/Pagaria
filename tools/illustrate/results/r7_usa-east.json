@@ -428,5 +428,348 @@
    "https://commons.wikimedia.org/wiki/Category:Murray_D._Lincoln_Campus_Center"
   ],
   "note": ""
+ },
+ {
+  "id": "american-republic-insurance-headquarters",
+  "name": "American Republic Insurance Company Headquarters",
+  "by": "Gordon Bunshaft",
+  "city": "Des Moines",
+  "cc": "US",
+  "year": "1965",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Insurance headquarters completed in 1965; listed on the National Register of Historic Places in 2015.",
+  "status": "photo",
+  "commons_category": "Category:American Enterprise Group Building",
+  "photos": [
+   {
+    "file": "File:American Enterprise Group Building - Des Moines.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:American Enterprise Group (Des Moines).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/American_Republic_Insurance_Company_Headquarters_Building",
+   "https://commons.wikimedia.org/wiki/Category:American_Enterprise_Group_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "one-woodward-avenue",
+  "name": "One Woodward Avenue",
+  "by": "Minoru Yamasaki",
+  "city": "Detroit",
+  "cc": "US",
+  "year": "1962",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "A 28-storey International Style tower overlooking Hart Plaza and the riverfront.",
+  "status": "photo",
+  "commons_category": "Category:One Woodward Avenue",
+  "photos": [
+   {
+    "file": "File:One Woodward Avenue from Windsor, Ontario, 2025-07-30.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:OneWoodwardTOP.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/One_Woodward_Avenue",
+   "https://commons.wikimedia.org/wiki/Category:One_Woodward_Avenue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "power-center-ann-arbor",
+  "name": "Power Center for the Performing Arts",
+  "by": "Kevin Roche John Dinkeloo and Associates",
+  "city": "Ann Arbor",
+  "cc": "US",
+  "year": "1971",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light & shadow",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Proscenium-stage theatre on the University of Michigan's central campus, opened 1971.",
+  "status": "photo",
+  "commons_category": "Category:Power Center for the Performing Arts",
+  "photos": [
+   {
+    "file": "File:Power Center for the Performing Arts at Night, University of Michigan, Ann Arbor, Michigan - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Power_Center_for_the_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Power_Center_for_the_Performing_Arts"
+  ],
+  "note": ""
+ },
+ {
+  "id": "richards-medical-research-laboratories",
+  "name": "Richards Medical Research Laboratories",
+  "by": "Louis Kahn",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": "1960",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Prefabrication",
+   "Cluster"
+  ],
+  "features": "Laboratory towers around a central service tower, with brick shafts for stairs and ducts and exposed precast structure.",
+  "status": "photo",
+  "commons_category": "Category:Richards Medical Research Laboratories",
+  "photos": [
+   {
+    "file": "File:RnG labs Tower tops.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:RnG labs R corner.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richards_Medical_Research_Laboratories",
+   "https://commons.wikimedia.org/wiki/Category:Richards_Medical_Research_Laboratories"
+  ],
+  "note": ""
+ },
+ {
+  "id": "140-broadway",
+  "name": "140 Broadway",
+  "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+  "city": "New York",
+  "cc": "US",
+  "year": "1967",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "A 51-storey International Style tower with a smooth black facade and Isamu Noguchi's Cube sculpture at its entrance.",
+  "status": "photo",
+  "commons_category": "Category:140 Broadway",
+  "photos": [
+   {
+    "file": "File:140 Broadway 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/140_Broadway",
+   "https://commons.wikimedia.org/wiki/Category:140_Broadway"
+  ],
+  "note": ""
+ },
+ {
+  "id": "500-boylston-street",
+  "name": "500 Boylston Street",
+  "by": "Johnson/Burgee Architects",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1989",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "1.3-million-square-foot postmodern block next to Trinity Church in Back Bay.",
+  "status": "photo",
+  "commons_category": "Category:500 Boylston Street",
+  "photos": [
+   {
+    "file": "File:500boylston8938vert.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/500_Boylston_Street",
+   "https://commons.wikimedia.org/wiki/Category:500_Boylston_Street"
+  ],
+  "note": ""
+ },
+ {
+  "id": "alden-dow-house-and-studio",
+  "name": "Alden B. Dow Home and Studio",
+  "by": "Alden B. Dow",
+  "city": "Midland",
+  "cc": "US",
+  "year": "1936",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Home and studio of the architect, who was associated with Frank Lloyd Wright.",
+  "status": "photo",
+  "commons_category": "Category:Alden Dow House and Studio",
+  "photos": [
+   {
+    "file": "File:Alden Dow House.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alden_Dow_House_and_Studio",
+   "https://commons.wikimedia.org/wiki/Category:Alden_Dow_House_and_Studio"
+  ],
+  "note": ""
+ },
+ {
+  "id": "alfonse-damato-courthouse",
+  "name": "Alfonse M. D'Amato United States Courthouse",
+  "by": "Richard Meier",
+  "city": "Central Islip",
+  "cc": "US",
+  "year": "2000",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Federal courthouse for the Eastern District of New York at 100 Federal Plaza.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Damato-courthouse.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alfonse_M._D'Amato_United_States_Courthouse"
+  ],
+  "note": ""
+ },
+ {
+  "id": "allegheny-county-courthouse",
+  "name": "Allegheny County Courthouse",
+  "by": "Henry Hobson Richardson",
+  "city": "Pittsburgh",
+  "cc": "US",
+  "year": "1888",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Vault"
+  ],
+  "features": "Among the finest Romanesque Revival buildings; Richardson called it his \"great achievement\".",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Allegheny County Courthouse, 2025-05-24-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allegheny_County_Courthouse"
+  ],
+  "note": ""
+ },
+ {
+  "id": "ames-free-library",
+  "name": "Ames Free Library",
+  "by": "Henry Hobson Richardson",
+  "city": "Easton",
+  "cc": "US",
+  "year": "1883",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Community"
+  ],
+  "features": "Richardson library beside his Oakes Ames Memorial Hall in North Easton.",
+  "status": "photo",
+  "commons_category": "Category:Ames Free Library",
+  "photos": [
+   {
+    "file": "File:Ames Free Library (North Easton, MA) - oblique view.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ames_Free_Library",
+   "https://commons.wikimedia.org/wiki/Category:Ames_Free_Library"
+  ],
+  "note": ""
  }
 ]
