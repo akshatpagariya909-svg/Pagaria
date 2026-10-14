@@ -1991,5 +1991,336 @@
    "https://en.wikipedia.org/wiki/HaYarkon_96"
   ],
   "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'HaYarkon 96 Bauhaus building in 2022'."
+ },
+ {
+  "id": "national-institutions-house-jerusalem",
+  "name": "Jewish National Institutions House",
+  "by": "Yohanan Ratner",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "Administrative complex whose windows recall the slits in the Old City walls; second storey finished 1936.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:TheJewishNationalInstitutionsHouseJerusalemMay062023 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Institutions_House"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'The Jewish National Institutions House, Jerusalem'. Year = second storey completed (first-phase date not given)."
+ },
+ {
+  "id": "jerusalem-great-synagogue",
+  "name": "Jerusalem Great Synagogue",
+  "by": "Alexander Friedman",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Sanctuary seats 850 men and 550 women; inaugurated on Tu B'Av 1982.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Great Synagogue.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerusalem_Great_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article. Year = inauguration."
+ },
+ {
+  "id": "hechal-yehuda-synagogue",
+  "name": "Hechal Yehuda Synagogue",
+  "by": "Yitzhak Toledano",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1980",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "North bare concrete facade decorated with bas-reliefs of traditional Jewish motifs and symbols.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 7107 salonikis synagogue in tel aviv.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hechal_Yehuda_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article (Saloniki synagogue, Tel Aviv, matches the Hechal Yehuda congregation); check."
+ },
+ {
+  "id": "yitzhak-rabin-center",
+  "name": "Yitzhak Rabin Center",
+  "by": "Moshe Safdie",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Section"
+  ],
+  "features": "Sits on a hill with a panoramic view of Yarkon Park and Tel Aviv; inaugurated November 2005.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:מרכז יצחק רבין מכיוון החניה מדרום.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yitzhak_Rabin_Center"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; filename (Hebrew) may be mis-transcribed by the fetch tool, verify exact string. Year = inauguration."
+ },
+ {
+  "id": "jerusalem-theatre",
+  "name": "Jerusalem Theatre",
+  "by": "Michael Nadler, Shulamit Nadler and Shmuel Bixson",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1971",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Stone",
+   "Sculptural form"
+  ],
+  "features": "Combines sculptural exposed concrete with traditional Jerusalem stone construction; opened 1971.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Jerusalem Center for the Performing Arts.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerusalem_Theatre"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'The Jerusalem Center for the Performing Arts'. Architects named as competition winners."
+ },
+ {
+  "id": "grand-theatre-des-mille-et-une-nuits-beirut",
+  "name": "Grand Théâtre des Mille et Une Nuits",
+  "by": "Youssef Aftimus",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1929",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Double height",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Horseshoe-shaped auditorium with 630 seats; opened in 1929.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_des_Mille_et_Une_Nuits"
+  ],
+  "note": "no free photo: lead image only 474px aerial; no category images found."
+ },
+ {
+  "id": "jumeirah-mosque",
+  "name": "Jumeirah Mosque",
+  "by": "Abd al-Muʿizz Husayn, Muhammad al-Mahdi Hegazy",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1979",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Courtyard"
+  ],
+  "features": "Sandstone mosque with deep-relief minarets and dome; hypostyle prayer hall around a central dome.",
+  "status": "photo",
+  "commons_category": "Jumeirah Mosque",
+  "photos": [
+   {
+    "file": "File:Jumeirah Mosque Front View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jumeirah Mosque Full View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jumeirah Mosque 3.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jumeirah_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Jumeirah_Mosque"
+  ],
+  "note": "Identity from Commons category and file descriptions ('Front view of Jumeirah Mosque'); en.wikipedia lead image Jumeira_Mosque_Dubai.jpg (CC BY-SA 3.0, 1600x1200) is a fallback. Not viewed."
+ },
+ {
+  "id": "kafd-grand-mosque",
+  "name": "KAFD Grand Mosque",
+  "by": "Omrania",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2017",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Desert-rose form; 2.8 m structural skin carries all loads, giving a column-free hall with sun-shading geometry.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/KAFD_Grand_Mosque"
+  ],
+  "note": "no free photo: Wikipedia has no page image and Commons search for the building returned nothing. Article gives year 2017 (category says 2016)."
+ },
+ {
+  "id": "kaust-campus",
+  "name": "King Abdullah University of Science and Technology (KAUST) campus",
+  "by": "HOK",
+  "city": "Thuwal",
+  "cc": "SA",
+  "year": "2009",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "HOK master plan with wind towers and solar panels; world's largest LEED Platinum campus.",
+  "status": "photo",
+  "commons_category": "King Abdullah University of Science and Technology",
+  "photos": [
+   {
+    "file": "File:KAUST academic building and beacon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:KAUST campus 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:KAUST administrative building.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology",
+   "https://commons.wikimedia.org/wiki/Category:King_Abdullah_University_of_Science_and_Technology"
+  ],
+  "note": "Identity from filename plus Commons description in the building's own category ('A KAUST academic building', 'KAUST campus in January 2013'). Not viewed. Year 2009 is the inauguration (23 Sep 2009); article gives no completion year. Campus not a single building."
+ },
+ {
+  "id": "mohammed-bin-rashid-library",
+  "name": "Mohammed Bin Rashid Library",
+  "by": "asp Architekten, Obermeyer Planen+Beraten, ACG Architecture Consulting Group",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2022",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Seven-storey library shaped like an open book on a lectern.",
+  "status": "photo",
+  "commons_category": "Mohammed Bin Rashid Library",
+  "photos": [
+   {
+    "file": "File:Mohammed bin Rashid Library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammed_Bin_Rashid_Library",
+   "https://commons.wikimedia.org/wiki/Category:Mohammed_Bin_Rashid_Library"
+  ],
+  "note": "Only file (4000x6000, portrait) in the building's own category; description 'Mohammed bin Rashid Library'. Not viewed. Wikipedia lead image of the same name is not on Commons under that title. Opened 16 Jun 2022; check whether lectern shape reads from this photo."
  }
 ]
