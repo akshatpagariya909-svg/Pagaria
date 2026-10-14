@@ -81,3 +81,11 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Museum of the University of Navarra | Rafael Moneo | Pamplona, ES |
 | Cedro Primary School | Fernando Távora | Vila Nova de Gaia, PT |
 | Xanadu | Ricardo Bofill (Taller de Arquitectura) | Calp, ES |
+| Cité Frugès (Quartiers Modernes Frugès) | Le Corbusier, Pierre Jeanneret | Pessac, FR |
+| Unité d'habitation, Firminy-Vert | Le Corbusier (completed by André Wogenscky) | Firminy, FR |
+| Pont de Normandie | Michel Virlogeux, Charles Lavigne, François Doyelle | Le Havre / Honfleur, FR |
+| Tour Hekla | Jean Nouvel | La Défense, FR |
+| Palavela | Annibale Rigotti, Giorgio Rigotti | Turin, IT |
+| Temple Emanuel | William Bernoudy | Creve Coeur, US |
+| Alley Theatre | Ulrich Franzen | Houston, US |
+| Natural History Museum of Utah | Ennead Architects and GSBS | Salt Lake City, US |

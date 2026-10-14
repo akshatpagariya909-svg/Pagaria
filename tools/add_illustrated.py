@@ -56,10 +56,13 @@ def main():
     head, items = load()
     have = {fold(b['name']) for b in items} | {b.get('qid') for b in items if b.get('qid')}
     ids = {b['id'] for b in items}
+    same = lambda cat, year: (str(cat or '').replace('Category:', '').strip().lower(), str(year)[:4])
+    have_cat = {same(b['commons'], b['year']) for b in items if b.get('commons')}  # the same building under another name
     added, fetch, left = [], [], []
     for i, c in cands.items():
         r = results.get(i, {'status': 'unsure', 'note': 'not checked yet'})
-        if fold(c['name']) in have or (c.get('qid') and c['qid'] in have):
+        if i in ids or fold(c['name']) in have or (c.get('qid') and c['qid'] in have) \
+                or (r.get('commons_category') and same(r['commons_category'], c['year']) in have_cat):
             continue
         svg = IL / 'svg' / f'{i}.svg'
         if i in rejected or r['status'] not in ('drawn', 'photo') or (r['status'] == 'drawn' and not svg.exists()):
@@ -96,6 +99,8 @@ def main():
         items.append(b)
         ids.add(i)
         have.add(fold(c['name']))
+        if b.get('commons'):
+            have_cat.add(same(b['commons'], b['year']))
         added.append((b, r['status']))
     cov = IL / 'covers.txt'  # buildings already on the wall that get our drawing as the cover, photos after it
     covers = {l.split('#')[0].strip() for l in cov.read_text(encoding='utf-8').splitlines()} - {''} if cov.exists() else set()

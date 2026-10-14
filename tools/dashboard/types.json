@@ -1,70 +1,70 @@
 [
  {
   "type": "Museum",
-  "buildings": 503
+  "buildings": 531
  },
  {
   "type": "Culture & sport",
-  "buildings": 344
+  "buildings": 393
  },
  {
   "type": "Office & tower",
-  "buildings": 238
+  "buildings": 261
  },
  {
   "type": "Religious",
-  "buildings": 213
+  "buildings": 235
  },
  {
   "type": "Housing",
-  "buildings": 205
- },
- {
-  "type": "House",
-  "buildings": 172
+  "buildings": 222
  },
  {
   "type": "Civic",
-  "buildings": 159
+  "buildings": 202
+ },
+ {
+  "type": "House",
+  "buildings": 190
  },
  {
   "type": "Education",
-  "buildings": 154
+  "buildings": 176
  },
  {
   "type": "Infrastructure",
-  "buildings": 129
+  "buildings": 154
  },
  {
   "type": "Workplace",
-  "buildings": 117
- },
- {
-  "type": "Hospitality",
-  "buildings": 82
+  "buildings": 136
  },
  {
   "type": "Library",
-  "buildings": 80
+  "buildings": 105
+ },
+ {
+  "type": "Hospitality",
+  "buildings": 89
  },
  {
   "type": "Memorial",
-  "buildings": 76
+  "buildings": 79
  },
  {
   "type": "Public space",
-  "buildings": 62
+  "buildings": 68
  },
  {
   "type": "Pavilion",
-  "buildings": 33
+  "buildings": 37
  },
  {
   "type": "Health",
-  "buildings": 27
+  "buildings": 28
  },
  {
   "type": "Palace",
-  "buildings": 10
+  "buildings": 15
  }
 ]

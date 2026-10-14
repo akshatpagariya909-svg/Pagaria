@@ -79,3 +79,19 @@ chase-tower-phoenix  # round 7 quality watch: ordinary commercial tower or hotel
 wilshire-grand-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
 first-canadian-place  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
 torre-mayor  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+cite-fruges-pessac  # round 7 review: only photo is a street sign
+unite-d-habitation-firminy-vert  # round 7 review: lead shows only the roof terrace, others are landscape
+pont-de-normandie  # round 7 review: no photo shows the bridge clearly
+bourse-de-commerce-pinault-collection  # round 7 review: duplicate of bourse-de-commerce-pinault
+tour-hekla  # round 7 review: photos show it under construction
+neutra-vdl-studio-and-residences  # round 7 review: duplicate of vdl-research-house
+san-antonio-public-library  # round 7 review: duplicate of san-antonio-central-library
+palavela  # round 7 review: no exterior photo, lead is a crowd inside
+temple-emanuel-creve-coeur  # round 7 review: only photo is into the sun; the others show a different building
+alley-theatre  # round 7 review: no photo of the building: a sign, an actress, contact prints, a model plane
+natural-history-museum-of-utah  # round 7 review: no clear photo of the building: a lab, fossils, a far terrace
+st-peter-s-church  # round 7 review: duplicate of st-peter-s-church-klippan
+brazilian-museum-of-sculpture-mube  # round 7 review: duplicate of mube-brazilian-museum-of-sculpture
+uc-innovation-center-anacleto-angelini  # round 7 review: duplicate of anacleto-angelini-innovation-center
+yamanashi-press-and-broadcasting-center  # round 7 review: duplicate of yamanashi-press-and-broadcasting-centre
+leao-que-ri-smiling-lion  # round 7 review: duplicate of the-smiling-lion

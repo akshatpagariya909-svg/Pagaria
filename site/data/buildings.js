@@ -160212,108 +160212,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "brazilian-museum-of-sculpture-mube",
-  "n": 1607,
-  "name": "Brazilian Museum of Sculpture (MuBE)",
-  "by": "Paulo Mendes da Rocha",
-  "place": "São Paulo, BR",
-  "year": "1995",
-  "y": 1995,
-  "type": "Museum",
-  "movement": "Brutalism",
-  "region": "Americas",
-  "era": "1990–2005",
-  "concepts": [
-   "Structure as expression",
-   "Landscape",
-   "Exposed concrete"
-  ],
-  "study": "A single 60-metre concrete beam shades a plaza over galleries sunk into the sloping garden site.",
-  "qid": null,
-  "commons": "Category:Museu Brasileiro da Escultura",
-  "lead": "File:Museu Brasileiro da Escultura (MuBE), Paulo Mendes da Rocha (5877755063).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Museu_Brasileiro_da_Escultura_%28MuBE%29%2C_Paulo_Mendes_da_Rocha_%285877755063%29.jpg/1280px-Museu_Brasileiro_da_Escultura_%28MuBE%29%2C_Paulo_Mendes_da_Rocha_%285877755063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Avenida Europa, 218, Jardim Europa",
-    "credit": "Arte Fora do Museu",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Museu_Brasileiro_da_Escultura_(MuBE),_Paulo_Mendes_da_Rocha_(5877755063).jpg",
-    "file": "File:Museu Brasileiro da Escultura (MuBE), Paulo Mendes da Rocha (5877755063).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Museu_Brasileiro_da_Escultura_%28MuBE%29%2C_Paulo_Mendes_da_Rocha_%285878309120%29.jpg/1280px-Museu_Brasileiro_da_Escultura_%28MuBE%29%2C_Paulo_Mendes_da_Rocha_%285878309120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Avenida Europa, 218, Jardim Europa",
-    "credit": "Arte Fora do Museu",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Museu_Brasileiro_da_Escultura_(MuBE),_Paulo_Mendes_da_Rocha_(5878309120).jpg",
-    "file": "File:Museu Brasileiro da Escultura (MuBE), Paulo Mendes da Rocha (5878309120).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paulo_Mendes_da_Rocha%2C_Museu_Brasileiro_da_Escultura_%28MuBE%29._%286642077617%29.jpg/1280px-Paulo_Mendes_da_Rocha%2C_Museu_Brasileiro_da_Escultura_%28MuBE%29._%286642077617%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "paulisson miura  from Cuiabá, Brasil",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paulo_Mendes_da_Rocha,_Museu_Brasileiro_da_Escultura_(MuBE)._(6642077617).jpg",
-    "file": "File:Paulo Mendes da Rocha, Museu Brasileiro da Escultura (MuBE). (6642077617).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Museu_Brasileiro_da_Escultura.jpg/1280px-Museu_Brasileiro_da_Escultura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Gabigeraldelli",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Museu_Brasileiro_da_Escultura.jpg",
-    "file": "File:Museu Brasileiro da Escultura.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%C3%81rea_interna%2C_MuBE.jpg/1280px-%C3%81rea_interna%2C_MuBE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Área interna do Museu Brasileiro da Escultura com obras da exposição de Paulo Mendes da Rocha",
-    "credit": "Ghiraldini",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%C3%81rea_interna,_MuBE.jpg",
-    "file": "File:Área interna, MuBE.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Paulo_mendes_da_rocha%2C_sao_paulo_april_2006_%28493990086%29.jpg/1280px-Paulo_mendes_da_rocha%2C_sao_paulo_april_2006_%28493990086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brazilian-museum-of-sculpture-mube/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "seier+seier",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paulo_mendes_da_rocha,_sao_paulo_april_2006_(493990086).jpg",
-    "file": "File:Paulo mendes da rocha, sao paulo april 2006 (493990086).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "bridge-school",
-  "n": 1608,
+  "n": 1607,
   "name": "Bridge School",
   "by": "Li Xiaodong",
   "place": "Xiashi, CN",
@@ -160353,7 +160253,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-bianchi",
-  "n": 1609,
+  "n": 1608,
   "name": "Casa Bianchi",
   "by": "Mario Botta",
   "place": "Riva San Vitale, CH",
@@ -160393,7 +160293,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eclac-building",
-  "n": 1610,
+  "n": 1609,
   "name": "ECLAC Building",
   "by": "Emilio Duhart",
   "place": "Santiago, CL",
@@ -160495,7 +160395,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ewha-campus-complex",
-  "n": 1611,
+  "n": 1610,
   "name": "Ewha Campus Complex",
   "by": "Dominique Perrault",
   "place": "Seoul, KR",
@@ -160535,7 +160435,7 @@ window.BUILDINGS = [
  },
  {
   "id": "faculty-of-architecture-university-of-porto",
-  "n": 1612,
+  "n": 1611,
   "name": "Faculty of Architecture, University of Porto",
   "by": "Álvaro Siza",
   "place": "Porto, PT",
@@ -160623,7 +160523,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fuji-kindergarten",
-  "n": 1613,
+  "n": 1612,
   "name": "Fuji Kindergarten",
   "by": "Tezuka Architects",
   "place": "Tachikawa, JP",
@@ -160663,7 +160563,7 @@ window.BUILDINGS = [
  },
  {
   "id": "horta-house",
-  "n": 1614,
+  "n": 1613,
   "name": "Horta House",
   "by": "Victor Horta",
   "place": "Brussels, BE",
@@ -160777,7 +160677,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ibere-camargo-foundation",
-  "n": 1615,
+  "n": 1614,
   "name": "Iberê Camargo Foundation",
   "by": "Álvaro Siza",
   "place": "Porto Alegre, BR",
@@ -160877,7 +160777,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaze-no-oka-crematorium",
-  "n": 1616,
+  "n": 1615,
   "name": "Kaze-no-Oka Crematorium",
   "by": "Fumihiko Maki",
   "place": "Nakatsu, JP",
@@ -160917,7 +160817,7 @@ window.BUILDINGS = [
  },
  {
   "id": "leicester-university-engineering-building",
-  "n": 1617,
+  "n": 1616,
   "name": "Leicester University Engineering Building",
   "by": "James Stirling, James Gowan",
   "place": "Leicester, GB",
@@ -161005,7 +160905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "los-manantiales-restaurant",
-  "n": 1618,
+  "n": 1617,
   "name": "Los Manantiales Restaurant",
   "by": "Félix Candela",
   "place": "Mexico City, MX",
@@ -161057,7 +160957,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lycee-schorge",
-  "n": 1619,
+  "n": 1618,
   "name": "Lycée Schorge",
   "by": "Diébédo Francis Kéré",
   "place": "Koudougou, BF",
@@ -161109,7 +161009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "metu-faculty-of-architecture",
-  "n": 1620,
+  "n": 1619,
   "name": "METU Faculty of Architecture",
   "by": "Altuğ Çinici, Behruz Çinici",
   "place": "Ankara, TR",
@@ -161185,7 +161085,7 @@ window.BUILDINGS = [
  },
  {
   "id": "magney-house",
-  "n": 1621,
+  "n": 1620,
   "name": "Magney House",
   "by": "Glenn Murcutt",
   "place": "Bingie Point, AU",
@@ -161225,7 +161125,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mapungubwe-interpretation-centre",
-  "n": 1622,
+  "n": 1621,
   "name": "Mapungubwe Interpretation Centre",
   "by": "Peter Rich Architects",
   "place": "Mapungubwe National Park, ZA",
@@ -161277,7 +161177,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mater-misericordiae-church",
-  "n": 1623,
+  "n": 1622,
   "name": "Mater Misericordiae Church",
   "by": "Angelo Mangiarotti, Bruno Morassutti",
   "place": "Baranzate, IT",
@@ -161343,7 +161243,7 @@ window.BUILDINGS = [
  },
  {
   "id": "minna-no-mori-gifu-media-cosmos",
-  "n": 1624,
+  "n": 1623,
   "name": "Minna no Mori Gifu Media Cosmos",
   "by": "Toyo Ito",
   "place": "Gifu, JP",
@@ -161443,7 +161343,7 @@ window.BUILDINGS = [
  },
  {
   "id": "multihalle-mannheim",
-  "n": 1625,
+  "n": 1624,
   "name": "Multihalle Mannheim",
   "by": "Frei Otto, Carlfried Mutschler",
   "place": "Mannheim, DE",
@@ -161543,7 +161443,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musee-yves-saint-laurent-marrakech",
-  "n": 1626,
+  "n": 1625,
   "name": "Musée Yves Saint Laurent Marrakech",
   "by": "Studio KO",
   "place": "Marrakesh, MA",
@@ -161631,7 +161531,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nantes-school-of-architecture",
-  "n": 1627,
+  "n": 1626,
   "name": "Nantes School of Architecture",
   "by": "Lacaton & Vassal",
   "place": "Nantes, FR",
@@ -161719,7 +161619,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-commercial-bank",
-  "n": 1628,
+  "n": 1627,
   "name": "National Commercial Bank",
   "by": "Gordon Bunshaft",
   "place": "Jeddah, SA",
@@ -161759,7 +161659,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neviges-pilgrimage-church",
-  "n": 1629,
+  "n": 1628,
   "name": "Neviges Pilgrimage Church",
   "by": "Gottfried Böhm",
   "place": "Velbert, DE",
@@ -161859,7 +161759,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-du-raincy",
-  "n": 1630,
+  "n": 1629,
   "name": "Notre-Dame du Raincy",
   "by": "Auguste Perret",
   "place": "Le Raincy, FR",
@@ -161935,7 +161835,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-justice-punjab-and-haryana-high-court",
-  "n": 1631,
+  "n": 1630,
   "name": "Palace of Justice (Punjab and Haryana High Court)",
   "by": "Le Corbusier",
   "place": "Chandigarh, IN",
@@ -162049,7 +161949,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paspels-school",
-  "n": 1632,
+  "n": 1631,
   "name": "Paspels School",
   "by": "Valerio Olgiati",
   "place": "Paspels, CH",
@@ -162125,7 +162025,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qasr-al-hokm-justice-palace-and-grand-mosque",
-  "n": 1633,
+  "n": 1632,
   "name": "Qasr Al Hokm Justice Palace and Grand Mosque",
   "by": "Rasem Badran",
   "place": "Riyadh, SA",
@@ -162177,7 +162077,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rokko-housing",
-  "n": 1634,
+  "n": 1633,
   "name": "Rokko Housing",
   "by": "Tadao Ando",
   "place": "Kobe, JP",
@@ -162217,7 +162117,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-cataldo-cemetery",
-  "n": 1635,
+  "n": 1634,
   "name": "San Cataldo Cemetery",
   "by": "Aldo Rossi, Gianni Braghieri",
   "place": "Modena, IT",
@@ -162305,7 +162205,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-caterina-market",
-  "n": 1636,
+  "n": 1635,
   "name": "Santa Caterina Market",
   "by": "Enric Miralles, Benedetta Tagliabue",
   "place": "Barcelona, ES",
@@ -162405,7 +162305,7 @@ window.BUILDINGS = [
  },
  {
   "id": "social-security-complex-zeyrek",
-  "n": 1637,
+  "n": 1636,
   "name": "Social Security Complex, Zeyrek",
   "by": "Sedad Hakkı Eldem",
   "place": "Istanbul, TR",
@@ -162469,7 +162369,7 @@ window.BUILDINGS = [
  },
  {
   "id": "space-group-building",
-  "n": 1638,
+  "n": 1637,
   "name": "Space Group Building",
   "by": "Kim Swoo-geun",
   "place": "Seoul, KR",
@@ -162571,7 +162471,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-louis-lambert-international-airport-terminal-1",
-  "n": 1639,
+  "n": 1638,
   "name": "St. Louis Lambert International Airport Terminal 1",
   "by": "Hellmuth, Yamasaki & Leinweber",
   "place": "St. Louis, US",
@@ -162684,108 +162584,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "st-peter-s-church",
-  "n": 1640,
-  "name": "St. Peter's Church",
-  "by": "Sigurd Lewerentz",
-  "place": "Klippan, SE",
-  "year": "1966",
-  "y": 1966,
-  "type": "Religious",
-  "movement": "Modernism",
-  "region": "Europe",
-  "era": "1945–1970",
-  "concepts": [
-   "Brick",
-   "Light & shadow",
-   "Detail"
-  ],
-  "study": "Dark church built of uncut bricks with wide mortar joints, around a rusted steel T-shaped column.",
-  "qid": null,
-  "commons": "Category:Sankt Petri kyrka, Klippan",
-  "lead": "File:Lewerentz St Petri kyrka Klikppan.JPG",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lewerentz_St_Petri_kyrka_Klikppan.JPG/1280px-Lewerentz_St_Petri_kyrka_Klikppan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/0.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · S:t Petri Church, Klippan, Sweden",
-    "credit": "Boberger . Photo: Bengt Oberger",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lewerentz_St_Petri_kyrka_Klikppan.JPG",
-    "file": "File:Lewerentz St Petri kyrka Klikppan.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sigurd_lewerentz%2C_klippan_august_2005_%28528310993%29.jpg/1280px-Sigurd_lewerentz%2C_klippan_august_2005_%28528310993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/1.webp",
-    "w": 1280,
-    "h": 894,
-    "kind": "Exterior",
-    "caption": "Exterior · st petri church, klippan, sweden architect sigurd lewerentz 1962-1966",
-    "credit": "seier+seier",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sigurd_lewerentz,_klippan_august_2005_(528310993).jpg",
-    "file": "File:Sigurd lewerentz, klippan august 2005 (528310993).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Brutalisme_vs._nyrokoko_Skt._Petri_Kirke_Klippan.jpg/1280px-Brutalisme_vs._nyrokoko_Skt._Petri_Kirke_Klippan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Eksteriør fra Sankt Petri Kirke i Klippan, Skåne, Sverige",
-    "credit": "Orf3us",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brutalisme_vs._nyrokoko_Skt._Petri_Kirke_Klippan.jpg",
-    "file": "File:Brutalisme vs. nyrokoko Skt. Petri Kirke Klippan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/St_Petri_kyrka_entre.JPG/1280px-St_Petri_kyrka_entre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/3.webp",
-    "w": 1280,
-    "h": 859,
-    "kind": "Exterior",
-    "caption": "Exterior · S:t Petri kyrka i Klippan, ett mästerverk av Sigurd Lewerentz",
-    "credit": "Ulla Ebelin",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:St_Petri_kyrka_entre.JPG",
-    "file": "File:St Petri kyrka entre.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Alteret_i_Skt._Petri_Kirke_i_Klippan.jpg/1280px-Alteret_i_Skt._Petri_Kirke_i_Klippan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Alteret i Sankt Petri kyrka, Klippan, Skåne, Sverige",
-    "credit": "Orf3us",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alteret_i_Skt._Petri_Kirke_i_Klippan.jpg",
-    "file": "File:Alteret i Skt. Petri Kirke i Klippan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pr%C3%A6dikestolen_i_Sankt_Petri_Kirke_i_Klippan.jpg/1280px-Pr%C3%A6dikestolen_i_Sankt_Petri_Kirke_i_Klippan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-peter-s-church/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Prædikestolen i Skt",
-    "credit": "Orf3us",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pr%C3%A6dikestolen_i_Sankt_Petri_Kirke_i_Klippan.jpg",
-    "file": "File:Prædikestolen i Sankt Petri Kirke i Klippan.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "takasugi-an",
-  "n": 1641,
+  "n": 1639,
   "name": "Takasugi-an",
   "by": "Terunobu Fujimori",
   "place": "Chino, JP",
@@ -162848,84 +162648,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "uc-innovation-center-anacleto-angelini",
-  "n": 1642,
-  "name": "UC Innovation Center Anacleto Angelini",
-  "by": "Alejandro Aravena, Elemental",
-  "place": "Santiago, CL",
-  "year": "2014",
-  "y": 2014,
-  "type": "Education",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "2005–today",
-  "concepts": [
-   "Climate response",
-   "Exposed concrete",
-   "Void"
-  ],
-  "study": "Massive concrete shell with deep-set openings keeps out western sun, glazing set back around a hollow atrium.",
-  "qid": null,
-  "commons": "Category:Centro de Innovación UC Anacleto Angelini",
-  "lead": "File:Centro de Innovación UC Anacleto Angelini, Campus San Joaquín PUC, Macul, Santiago 20241108.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Centro_de_Innovaci%C3%B3n_UC_Anacleto_Angelini%2C_Campus_San_Joaqu%C3%ADn_PUC%2C_Macul%2C_Santiago_20241108.jpg/1280px-Centro_de_Innovaci%C3%B3n_UC_Anacleto_Angelini%2C_Campus_San_Joaqu%C3%ADn_PUC%2C_Macul%2C_Santiago_20241108.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/uc-innovation-center-anacleto-angelini/thumbs/0.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Centro de Innovación UC Anacleto Angelini, Campus San Joaquín PUC, Macul, Santiago",
-    "credit": "Carlos Figueroa Rojas",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Centro_de_Innovaci%C3%B3n_UC_Anacleto_Angelini,_Campus_San_Joaqu%C3%ADn_PUC,_Macul,_Santiago_20241108.jpg",
-    "file": "File:Centro de Innovación UC Anacleto Angelini, Campus San Joaquín PUC, Macul, Santiago 20241108.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Edificio_Anacleto_Angelini.jpg/1280px-Edificio_Anacleto_Angelini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/uc-innovation-center-anacleto-angelini/thumbs/1.webp",
-    "w": 966,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · edificio Anacleto 2015-09-29 18.33.06",
-    "credit": "Vmorande",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Edificio_Anacleto_Angelini.jpg",
-    "file": "File:Edificio Anacleto Angelini.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Entrada_de_San_Joqu%C3%ADn.jpg/1280px-Entrada_de_San_Joqu%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/uc-innovation-center-anacleto-angelini/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Entrada de la UC",
-    "credit": "Tommy Boy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Entrada_de_San_Joqu%C3%ADn.jpg",
-    "file": "File:Entrada de San Joquín.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/San_Joaqu%C3%ADn_fachada.jpg/1280px-San_Joaqu%C3%ADn_fachada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/uc-innovation-center-anacleto-angelini/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · San Joaquín (estación del Metro de Santiago, Chile)",
-    "credit": "Tommy Boy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:San_Joaqu%C3%ADn_fachada.jpg",
-    "file": "File:San Joaquín fachada.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "vidhan-bhavan",
-  "n": 1643,
+  "n": 1640,
   "name": "Vidhan Bhavan",
   "by": "Charles Correa",
   "place": "Bhopal, IN",
@@ -162965,7 +162689,7 @@ window.BUILDINGS = [
  },
  {
   "id": "water-temple-honpuku-ji",
-  "n": 1644,
+  "n": 1641,
   "name": "Water Temple (Honpuku-ji)",
   "by": "Tadao Ando",
   "place": "Awaji, JP",
@@ -163055,7 +162779,7 @@ window.BUILDINGS = [
  },
  {
   "id": "woodland-cemetery",
-  "n": 1645,
+  "n": 1642,
   "name": "Woodland Cemetery",
   "by": "Gunnar Asplund, Sigurd Lewerentz",
   "place": "Stockholm, SE",
@@ -163154,108 +162878,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "yamanashi-press-and-broadcasting-center",
-  "n": 1646,
-  "name": "Yamanashi Press and Broadcasting Center",
-  "by": "Kenzo Tange",
-  "place": "Kofu, JP",
-  "year": "1966",
-  "y": 1966,
-  "type": "Office & tower",
-  "movement": "Metabolism",
-  "region": "East Asia",
-  "era": "1945–1970",
-  "concepts": [
-   "Megastructure",
-   "Modular",
-   "Circulation"
-  ],
-  "study": "Sixteen cylindrical service shafts carry office floors bridged between them, leaving gaps for growth.",
-  "qid": null,
-  "commons": "Category:Yamanashi Broadcasting and Press Centre",
-  "lead": "File:Yamanashi Broadcasting and Press Centre.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Yamanashi_Broadcasting_and_Press_Centre.jpg/1280px-Yamanashi_Broadcasting_and_Press_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Yamanashi Broadcasting and Press Centre",
-    "credit": "さかおり",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Yamanashi_Broadcasting_and_Press_Centre.jpg",
-    "file": "File:Yamanashi Broadcasting and Press Centre.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Yamanashi_Broadcasting_and_Press_Centre_2.jpg/1280px-Yamanashi_Broadcasting_and_Press_Centre_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 845,
-    "kind": "Exterior",
-    "caption": "Exterior · Yamanashi Broadcasting and Press Centre",
-    "credit": "hasano_jp",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Yamanashi_Broadcasting_and_Press_Centre_2.jpg",
-    "file": "File:Yamanashi Broadcasting and Press Centre 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%E5%B1%B1%E6%A2%A8%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8_-_panoramio.jpg/1280px-%E5%B1%B1%E6%A2%A8%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "hasano_jp",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E6%A2%A8%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8_-_panoramio.jpg",
-    "file": "File:山梨文化会館 - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Interaction_between_architecture_and_electricity_in_Kofu%2C_Yamanashi%2C_Japan.jpg/1280px-Interaction_between_architecture_and_electricity_in_Kofu%2C_Yamanashi%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/3.webp",
-    "w": 928,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Odd Roar Aalborg",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Interaction_between_architecture_and_electricity_in_Kofu,_Yamanashi,_Japan.jpg",
-    "file": "File:Interaction between architecture and electricity in Kofu, Yamanashi, Japan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kofu_new_north_station_view.JPG/1280px-Kofu_new_north_station_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Halowand",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Kofu_new_north_station_view.JPG",
-    "file": "File:Kofu new north station view.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/View_from_site_of_Kofu_Castle_%28Northwest%29.JPG/1280px-View_from_site_of_Kofu_Castle_%28Northwest%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamanashi-press-and-broadcasting-center/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "そらみみ",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_from_site_of_Kofu_Castle_(Northwest).JPG",
-    "file": "File:View from site of Kofu Castle (Northwest).JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "zarzuela-hippodrome",
-  "n": 1647,
+  "n": 1643,
   "name": "Zarzuela Hippodrome",
   "by": "Eduardo Torroja, Carlos Arniches",
   "place": "Madrid, ES",
@@ -163307,7 +162931,7 @@ window.BUILDINGS = [
  },
  {
   "id": "23-de-enero-superblocks",
-  "n": 1648,
+  "n": 1644,
   "name": "23 de Enero Superblocks",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -163421,7 +163045,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-wasl-plaza",
-  "n": 1649,
+  "n": 1645,
   "name": "Al Wasl Plaza",
   "by": "Adrian Smith + Gordon Gill Architecture",
   "place": "Dubai, AE",
@@ -163473,7 +163097,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arcadia-education-project",
-  "n": 1650,
+  "n": 1646,
   "name": "Arcadia Education Project",
   "by": "Saif Ul Haque",
   "place": "South Kanarchar, BD",
@@ -163513,7 +163137,7 @@ window.BUILDINGS = [
  },
  {
   "id": "art-biotop-water-garden",
-  "n": 1651,
+  "n": 1647,
   "name": "Art Biotop Water Garden",
   "by": "Junya Ishigami",
   "place": "Nasu, JP",
@@ -163565,7 +163189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aero-habitat",
-  "n": 1652,
+  "n": 1648,
   "name": "Aéro-Habitat",
   "by": "Louis Miquel, Pierre Bourlier",
   "place": "Algiers, DZ",
@@ -163617,7 +163241,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bee-ah-headquarters",
-  "n": 1653,
+  "n": 1649,
   "name": "Bee'ah Headquarters",
   "by": "Zaha Hadid Architects",
   "place": "Sharjah, AE",
@@ -163657,7 +163281,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beirut-terraces",
-  "n": 1654,
+  "n": 1650,
   "name": "Beirut Terraces",
   "by": "Herzog & de Meuron",
   "place": "Beirut, LB",
@@ -163697,7 +163321,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bolgatanga-library",
-  "n": 1655,
+  "n": 1651,
   "name": "Bolgatanga Library",
   "by": "J. Max Bond Jr.",
   "place": "Bolgatanga, GH",
@@ -163749,7 +163373,7 @@ window.BUILDINGS = [
  },
  {
   "id": "camino-real-hotel-mexico-city",
-  "n": 1656,
+  "n": 1652,
   "name": "Camino Real Hotel, Mexico City",
   "by": "Ricardo Legorreta",
   "place": "Mexico City, MX",
@@ -163825,7 +163449,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-for-earth-architecture",
-  "n": 1657,
+  "n": 1653,
   "name": "Centre for Earth Architecture",
   "by": "Diébédo Francis Kéré",
   "place": "Mopti, ML",
@@ -163925,7 +163549,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chengqi-lou-fujian-tulou",
-  "n": 1658,
+  "n": 1654,
   "name": "Chengqi Lou (Fujian Tulou)",
   "by": "Hakka builders",
   "place": "Yongding, CN",
@@ -164025,7 +163649,7 @@ window.BUILDINGS = [
  },
  {
   "id": "children-s-surgical-hospital-entebbe",
-  "n": 1659,
+  "n": 1655,
   "name": "Children's Surgical Hospital, Entebbe",
   "by": "Renzo Piano Building Workshop, TAMassociati",
   "place": "Entebbe, UG",
@@ -164065,7 +163689,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-la-medalla-milagrosa",
-  "n": 1660,
+  "n": 1656,
   "name": "Church of La Medalla Milagrosa",
   "by": "Félix Candela",
   "place": "Mexico City, MX",
@@ -164165,7 +163789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-saint-peter-durazno",
-  "n": 1661,
+  "n": 1657,
   "name": "Church of Saint Peter, Durazno",
   "by": "Eladio Dieste",
   "place": "Durazno, UY",
@@ -164265,7 +163889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ciudad-abierta",
-  "n": 1662,
+  "n": 1658,
   "name": "Ciudad Abierta",
   "by": "Alberto Cruz, Godofredo Iommi",
   "place": "Ritoque, CL",
@@ -164365,7 +163989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "corpus-christi-church-aachen",
-  "n": 1663,
+  "n": 1659,
   "name": "Corpus Christi Church, Aachen",
   "by": "Rudolf Schwarz",
   "place": "Aachen, DE",
@@ -164480,7 +164104,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dano-secondary-school",
-  "n": 1664,
+  "n": 1660,
   "name": "Dano Secondary School",
   "by": "Diébédo Francis Kéré",
   "place": "Dano, BF",
@@ -164520,7 +164144,7 @@ window.BUILDINGS = [
  },
  {
   "id": "darat-al-funun",
-  "n": 1665,
+  "n": 1661,
   "name": "Darat al Funun",
   "by": "Ammar Khammash",
   "place": "Amman, JO",
@@ -164622,7 +164246,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dominican-chapel-ibadan",
-  "n": 1666,
+  "n": 1662,
   "name": "Dominican Chapel, Ibadan",
   "by": "Demas Nwoko",
   "place": "Ibadan, NG",
@@ -164686,7 +164310,7 @@ window.BUILDINGS = [
  },
  {
   "id": "embassy-of-belgium-new-delhi",
-  "n": 1667,
+  "n": 1663,
   "name": "Embassy of Belgium, New Delhi",
   "by": "Satish Gujral",
   "place": "New Delhi, IN",
@@ -164726,7 +164350,7 @@ window.BUILDINGS = [
  },
  {
   "id": "faculty-of-engineering-university-of-the-republic",
-  "n": 1668,
+  "n": 1664,
   "name": "Faculty of Engineering, University of the Republic",
   "by": "Julio Vilamajó",
   "place": "Montevideo, UY",
@@ -164826,7 +164450,7 @@ window.BUILDINGS = [
  },
  {
   "id": "final-wooden-house",
-  "n": 1669,
+  "n": 1665,
   "name": "Final Wooden House",
   "by": "Sou Fujimoto",
   "place": "Kumamoto, JP",
@@ -164866,7 +164490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "flower-kiosk-malmo-eastern-cemetery",
-  "n": 1670,
+  "n": 1666,
   "name": "Flower Kiosk, Malmö Eastern Cemetery",
   "by": "Sigurd Lewerentz",
   "place": "Malmö, SE",
@@ -164942,7 +164566,7 @@ window.BUILDINGS = [
  },
  {
   "id": "friendship-hospital-satkhira",
-  "n": 1671,
+  "n": 1667,
   "name": "Friendship Hospital Satkhira",
   "by": "Kashef Mahboob Chowdhury",
   "place": "Satkhira, BD",
@@ -165006,7 +164630,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-parc-bordeaux-transformation",
-  "n": 1672,
+  "n": 1668,
   "name": "Grand Parc Bordeaux Transformation",
   "by": "Lacaton & Vassal, Frédéric Druot, Christophe Hutin",
   "place": "Bordeaux, FR",
@@ -165046,7 +164670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotakubo-housing",
-  "n": 1673,
+  "n": 1669,
   "name": "Hotakubo Housing",
   "by": "Riken Yamamoto",
   "place": "Kumamoto, JP",
@@ -165086,7 +164710,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-in-white",
-  "n": 1674,
+  "n": 1670,
   "name": "House in White",
   "by": "Kazuo Shinohara",
   "place": "Tokyo, JP",
@@ -165126,7 +164750,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hu-huishan-memorial",
-  "n": 1675,
+  "n": 1671,
   "name": "Hu Huishan Memorial",
   "by": "Liu Jiakun",
   "place": "Anren, CN",
@@ -165178,7 +164802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hukuru-miskiy",
-  "n": 1676,
+  "n": 1672,
   "name": "Hukuru Miskiy",
   "by": "Maldivian builders",
   "place": "Malé, MV",
@@ -165278,7 +164902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyogo-children-s-museum",
-  "n": 1677,
+  "n": 1673,
   "name": "Hyogo Children's Museum",
   "by": "Tadao Ando",
   "place": "Himeji, JP",
@@ -165344,7 +164968,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-of-foreign-languages",
-  "n": 1678,
+  "n": 1674,
   "name": "Institute of Foreign Languages",
   "by": "Vann Molyvann",
   "place": "Phnom Penh, KH",
@@ -165408,7 +165032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jeevan-bharati-building",
-  "n": 1679,
+  "n": 1675,
   "name": "Jeevan Bharati Building",
   "by": "Charles Correa",
   "place": "New Delhi, IN",
@@ -165448,7 +165072,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jetwing-lighthouse",
-  "n": 1680,
+  "n": 1676,
   "name": "Jetwing Lighthouse",
   "by": "Geoffrey Bawa",
   "place": "Galle, LK",
@@ -165502,7 +165126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kyungdong-presbyterian-church",
-  "n": 1681,
+  "n": 1677,
   "name": "Kyungdong Presbyterian Church",
   "by": "Kim Swoo-geun",
   "place": "Seoul, KR",
@@ -165542,7 +165166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-collina-omihachiman",
-  "n": 1682,
+  "n": 1678,
   "name": "La Collina Omihachiman",
   "by": "Terunobu Fujimori",
   "place": "Omihachiman, JP",
@@ -165594,7 +165218,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-lira-theatre-public-space",
-  "n": 1683,
+  "n": 1679,
   "name": "La Lira Theatre Public Space",
   "by": "RCR Arquitectes",
   "place": "Ripoll, ES",
@@ -165670,7 +165294,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-tallera",
-  "n": 1684,
+  "n": 1680,
   "name": "La Tallera",
   "by": "Frida Escobedo",
   "place": "Cuernavaca, MX",
@@ -165721,84 +165345,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "leao-que-ri-smiling-lion",
-  "n": 1685,
-  "name": "Leão que Ri (Smiling Lion)",
-  "by": "Pancho Guedes",
-  "place": "Maputo, MZ",
-  "year": "1958",
-  "y": 1958,
-  "type": "Housing",
-  "movement": "Expressionism",
-  "region": "Africa",
-  "era": "1945–1970",
-  "concepts": [
-   "Sculptural form",
-   "Exposed concrete",
-   "Colour"
-  ],
-  "study": "An apartment block with jagged concrete forms, toothed parapets and sculpted balconies.",
-  "qid": null,
-  "commons": "Category:O Leão Que Ri (Maputo)",
-  "lead": "File:O Leão Que Ri building Maputo.JPG",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/O_Le%C3%A3o_Que_Ri_building_Maputo.JPG/1280px-O_Le%C3%A3o_Que_Ri_building_Maputo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leao-que-ri-smiling-lion/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · O Leão Que Ri building, Maputo, Mozambique",
-    "credit": "Jcornelius",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_building_Maputo.JPG",
-    "file": "File:O Leão Que Ri building Maputo.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/O_Leao_que_Ri_Panoramio.jpg/1280px-O_Leao_que_Ri_Panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leao-que-ri-smiling-lion/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Smiling Lion building, Maputo, Mozambique",
-    "credit": "Tadpolefarm  from panoramio.com",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:O_Leao_que_Ri_Panoramio.jpg",
-    "file": "File:O Leao que Ri Panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG/1280px-O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leao-que-ri-smiling-lion/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Detail at the façade of the O Leão Que Ri building, Maputo, Mozambique",
-    "credit": "Jcornelius",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_detail_Maputo.JPG",
-    "file": "File:O Leão Que Ri detail Maputo.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG/1280px-O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/leao-que-ri-smiling-lion/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Statue at the O Leão Que Ri building, Maputo, Mozambique",
-    "credit": "Jcornelius",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:O_Le%C3%A3o_Que_Ri_Maputo_statue.JPG",
-    "file": "File:O Leão Que Ri Maputo statue.JPG"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "menara-tabung-haji",
-  "n": 1686,
+  "n": 1681,
   "name": "Menara Tabung Haji",
   "by": "Hijjas Kasturi",
   "place": "Kuala Lumpur, MY",
@@ -165850,7 +165398,7 @@ window.BUILDINGS = [
  },
  {
   "id": "menara-umno",
-  "n": 1687,
+  "n": 1682,
   "name": "Menara UMNO",
   "by": "T. R. Hamzah & Yeang",
   "place": "George Town, MY",
@@ -165938,7 +165486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mestizo-restaurant",
-  "n": 1688,
+  "n": 1683,
   "name": "Mestizo Restaurant",
   "by": "Smiljan Radić",
   "place": "Santiago, CL",
@@ -166014,7 +165562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "michenzani-blocks",
-  "n": 1689,
+  "n": 1684,
   "name": "Michenzani Blocks",
   "by": "Hubert Scholz",
   "place": "Zanzibar City, TZ",
@@ -166054,7 +165602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "microlibrary-taman-bima",
-  "n": 1690,
+  "n": 1685,
   "name": "Microlibrary Taman Bima",
   "by": "SHAU",
   "place": "Bandung, ID",
@@ -166094,7 +165642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monterrey-housing",
-  "n": 1691,
+  "n": 1686,
   "name": "Monterrey Housing",
   "by": "Alejandro Aravena, Elemental",
   "place": "Santa Catarina, MX",
@@ -166134,7 +165682,7 @@ window.BUILDINGS = [
  },
  {
   "id": "naoshima-ferry-terminal",
-  "n": 1692,
+  "n": 1687,
   "name": "Naoshima Ferry Terminal",
   "by": "SANAA",
   "place": "Naoshima, JP",
@@ -166210,7 +165758,7 @@ window.BUILDINGS = [
  },
  {
   "id": "norwegian-wild-reindeer-pavilion",
-  "n": 1693,
+  "n": 1688,
   "name": "Norwegian Wild Reindeer Pavilion",
   "by": "Snøhetta",
   "place": "Hjerkinn, NO",
@@ -166286,7 +165834,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nur-alem",
-  "n": 1694,
+  "n": 1689,
   "name": "Nur Alem",
   "by": "Adrian Smith + Gordon Gill",
   "place": "Astana, KZ",
@@ -166326,7 +165874,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oberrealta-chapel",
-  "n": 1695,
+  "n": 1690,
   "name": "Oberrealta Chapel",
   "by": "Christian Kerez, Rudolf Fontana",
   "place": "Cazis, CH",
@@ -166414,7 +165962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oita-prefectural-library-art-plaza",
-  "n": 1696,
+  "n": 1691,
   "name": "Oita Prefectural Library (Art Plaza)",
   "by": "Arata Isozaki",
   "place": "Oita, JP",
@@ -166466,7 +166014,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paks-catholic-church",
-  "n": 1697,
+  "n": 1692,
   "name": "Paks Catholic Church",
   "by": "Imre Makovecz",
   "place": "Paks, HU",
@@ -166566,7 +166114,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmyra-house",
-  "n": 1698,
+  "n": 1693,
   "name": "Palmyra House",
   "by": "Studio Mumbai, Bijoy Jain",
   "place": "Alibag, IN",
@@ -166606,7 +166154,7 @@ window.BUILDINGS = [
  },
  {
   "id": "potato-head-beach-club",
-  "n": 1699,
+  "n": 1694,
   "name": "Potato Head Beach Club",
   "by": "Andra Matin",
   "place": "Seminyak, ID",
@@ -166658,7 +166206,7 @@ window.BUILDINGS = [
  },
  {
   "id": "praca-do-patriarca-canopy",
-  "n": 1700,
+  "n": 1695,
   "name": "Praça do Patriarca Canopy",
   "by": "Paulo Mendes da Rocha",
   "place": "São Paulo, BR",
@@ -166736,7 +166284,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ramses-wissa-wassef-art-centre",
-  "n": 1701,
+  "n": 1696,
   "name": "Ramses Wissa Wassef Art Centre",
   "by": "Ramses Wissa Wassef",
   "place": "Harrania, EG",
@@ -166812,7 +166360,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-peter-chapel-campos-do-jordao",
-  "n": 1702,
+  "n": 1697,
   "name": "Saint Peter Chapel, Campos do Jordão",
   "by": "Paulo Mendes da Rocha",
   "place": "Campos do Jordão, BR",
@@ -166864,7 +166412,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-francisco-federal-building",
-  "n": 1703,
+  "n": 1698,
   "name": "San Francisco Federal Building",
   "by": "Morphosis",
   "place": "San Francisco, US",
@@ -166964,7 +166512,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-miguel-corporation-building",
-  "n": 1704,
+  "n": 1699,
   "name": "San Miguel Corporation Building",
   "by": "Mañosa & Partners",
   "place": "Mandaluyong, PH",
@@ -167052,7 +166600,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-da-feira-municipal-market",
-  "n": 1705,
+  "n": 1700,
   "name": "Santa Maria da Feira Municipal Market",
   "by": "Fernando Távora",
   "place": "Santa Maria da Feira, PT",
@@ -167104,7 +166652,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sevan-writers-resort",
-  "n": 1706,
+  "n": 1701,
   "name": "Sevan Writers' Resort",
   "by": "Gevorg Kochar, Mikael Mazmanyan",
   "place": "Sevan, AM",
@@ -167206,7 +166754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sharifi-ha-house",
-  "n": 1707,
+  "n": 1702,
   "name": "Sharifi-ha House",
   "by": "Next Office, Alireza Taghaboni",
   "place": "Tehran, IR",
@@ -167246,7 +166794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheraton-grand-doha",
-  "n": 1708,
+  "n": 1703,
   "name": "Sheraton Grand Doha",
   "by": "William Pereira",
   "place": "Doha, QA",
@@ -167346,7 +166894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "siamese-towers",
-  "n": 1709,
+  "n": 1704,
   "name": "Siamese Towers",
   "by": "Alejandro Aravena",
   "place": "Santiago, CL",
@@ -167434,7 +166982,7 @@ window.BUILDINGS = [
  },
  {
   "id": "skopje-telecommunications-centre",
-  "n": 1710,
+  "n": 1705,
   "name": "Skopje Telecommunications Centre",
   "by": "Janko Konstantinov",
   "place": "Skopje, MK",
@@ -167510,7 +167058,7 @@ window.BUILDINGS = [
  },
  {
   "id": "soulages-museum",
-  "n": 1711,
+  "n": 1706,
   "name": "Soulages Museum",
   "by": "RCR Arquitectes",
   "place": "Rodez, FR",
@@ -167586,7 +167134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-anna-duren",
-  "n": 1712,
+  "n": 1707,
   "name": "St. Anna, Düren",
   "by": "Rudolf Schwarz",
   "place": "Düren, DE",
@@ -167700,7 +167248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "surgical-clinic-and-health-centre",
-  "n": 1713,
+  "n": 1708,
   "name": "Surgical Clinic and Health Centre",
   "by": "Diébédo Francis Kéré",
   "place": "Léo, BF",
@@ -167752,7 +167300,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swiss-national-park-visitor-centre",
-  "n": 1714,
+  "n": 1709,
   "name": "Swiss National Park Visitor Centre",
   "by": "Valerio Olgiati",
   "place": "Zernez, CH",
@@ -167840,7 +167388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teleton-children-s-rehabilitation-centre",
-  "n": 1715,
+  "n": 1710,
   "name": "Teletón Children's Rehabilitation Centre",
   "by": "Solano Benítez",
   "place": "Asunción, PY",
@@ -167892,7 +167440,7 @@ window.BUILDINGS = [
  },
  {
   "id": "termas-geometricas",
-  "n": 1716,
+  "n": 1711,
   "name": "Termas Geométricas",
   "by": "Germán del Sol",
   "place": "Coñaripe, CL",
@@ -167968,7 +167516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thammasat-university-rooftop-farm",
-  "n": 1717,
+  "n": 1712,
   "name": "Thammasat University Rooftop Farm",
   "by": "LANDPROCESS",
   "place": "Pathum Thani, TH",
@@ -168044,7 +167592,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-hive-nanyang-technological-university",
-  "n": 1718,
+  "n": 1713,
   "name": "The Hive, Nanyang Technological University",
   "by": "Heatherwick Studio",
   "place": "Singapore, SG",
@@ -168144,7 +167692,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-museum-hotel-antakya",
-  "n": 1719,
+  "n": 1714,
   "name": "The Museum Hotel Antakya",
   "by": "Emre Arolat Architecture",
   "place": "Antakya, TR",
@@ -168220,7 +167768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tod-s-omotesando-building",
-  "n": 1720,
+  "n": 1715,
   "name": "Tod's Omotesando Building",
   "by": "Toyo Ito",
   "place": "Tokyo, JP",
@@ -168284,7 +167832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tossols-basil-athletics-track",
-  "n": 1721,
+  "n": 1716,
   "name": "Tossols-Basil Athletics Track",
   "by": "RCR Arquitectes",
   "place": "Olot, ES",
@@ -168360,7 +167908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tulou-collective-housing",
-  "n": 1722,
+  "n": 1717,
   "name": "Tulou Collective Housing",
   "by": "Urbanus",
   "place": "Guangzhou, CN",
@@ -168400,7 +167948,7 @@ window.BUILDINGS = [
  },
  {
   "id": "umbrella-house-kasa-no-ie",
-  "n": 1723,
+  "n": 1718,
   "name": "Umbrella House (Kasa no Ie)",
   "by": "Kazuo Shinohara",
   "place": "Weil am Rhein, DE",
@@ -168476,7 +168024,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unidad-vecinal-portales",
-  "n": 1724,
+  "n": 1719,
   "name": "Unidad Vecinal Portales",
   "by": "Bresciani, Valdés, Castillo, Huidobro",
   "place": "Santiago, CL",
@@ -168564,7 +168112,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vertical-courtyard-apartments",
-  "n": 1725,
+  "n": 1720,
   "name": "Vertical Courtyard Apartments",
   "by": "Wang Shu, Amateur Architecture Studio",
   "place": "Hangzhou, CN",
@@ -168664,7 +168212,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-verde-housing",
-  "n": 1726,
+  "n": 1721,
   "name": "Villa Verde Housing",
   "by": "Alejandro Aravena, Elemental",
   "place": "Constitución, CL",
@@ -168704,7 +168252,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xylem",
-  "n": 1727,
+  "n": 1722,
   "name": "Xylem",
   "by": "Diébédo Francis Kéré",
   "place": "Fishtail, US",
@@ -168744,7 +168292,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wnw-bar",
-  "n": 1728,
+  "n": 1723,
   "name": "wNw Bar",
   "by": "Vo Trong Nghia",
   "place": "Thu Dau Mot, VN",
@@ -168844,7 +168392,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kumano-kodo-nakahechi-museum-of-art",
-  "n": 1729,
+  "n": 1724,
   "name": "Kumano Kodo Nakahechi Museum of Art",
   "by": "SANAA",
   "place": "Tanabe, JP",
@@ -168884,7 +168432,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-index",
-  "n": 1730,
+  "n": 1725,
   "name": "The Index",
   "by": "Foster + Partners",
   "place": "Dubai, AE",
@@ -168936,7 +168484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-a-bordeaux",
-  "n": 1731,
+  "n": 1726,
   "name": "Maison à Bordeaux",
   "by": "OMA, Rem Koolhaas",
   "place": "Floirac, FR",
@@ -169000,7 +168548,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bibliotheque-alexis-de-tocqueville",
-  "n": 1732,
+  "n": 1727,
   "name": "Bibliothèque Alexis de Tocqueville",
   "by": "OMA",
   "place": "Caen, FR",
@@ -169088,7 +168636,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tours-aillaud",
-  "n": 1733,
+  "n": 1728,
   "name": "Tours Aillaud (Tours Nuages)",
   "by": "Émile Aillaud",
   "place": "Nanterre, FR",
@@ -169152,7 +168700,7 @@ window.BUILDINGS = [
  },
  {
   "id": "choux-de-creteil",
-  "n": 1734,
+  "n": 1729,
   "name": "Choux de Créteil",
   "by": "Gérard Grandval",
   "place": "Créteil, FR",
@@ -169240,7 +168788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arcades-du-lac",
-  "n": 1735,
+  "n": 1730,
   "name": "Les Arcades du Lac",
   "by": "Ricardo Bofill, Taller de Arquitectura",
   "place": "Montigny-le-Bretonneux, FR",
@@ -169328,7 +168876,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antigone-montpellier",
-  "n": 1736,
+  "n": 1731,
   "name": "Antigone",
   "by": "Ricardo Bofill, Taller de Arquitectura",
   "place": "Montpellier, FR",
@@ -169455,7 +169003,7 @@ window.BUILDINGS = [
  },
  {
   "id": "etoiles-d-ivry",
-  "n": 1737,
+  "n": 1732,
   "name": "Étoiles d'Ivry",
   "by": "Jean Renaudie",
   "place": "Ivry-sur-Seine, FR",
@@ -169531,7 +169079,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ricola-europe-mulhouse",
-  "n": 1738,
+  "n": 1733,
   "name": "Ricola Europe Production and Storage Building",
   "by": "Herzog & de Meuron",
   "place": "Mulhouse, FR",
@@ -169571,7 +169119,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hoenheim-nord-terminus",
-  "n": 1739,
+  "n": 1734,
   "name": "Hoenheim-Nord Tram Terminus",
   "by": "Zaha Hadid",
   "place": "Hoenheim, FR",
@@ -169623,7 +169171,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-mediterranee",
-  "n": 1740,
+  "n": 1735,
   "name": "Villa Méditerranée",
   "by": "Stefano Boeri",
   "place": "Marseille, FR",
@@ -169723,7 +169271,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cite-de-l-ocean-et-du-surf",
-  "n": 1741,
+  "n": 1736,
   "name": "Cité de l'Océan et du Surf",
   "by": "Steven Holl Architects with Solange Fabião",
   "place": "Biarritz, FR",
@@ -169763,7 +169311,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ibm-la-gaude",
-  "n": 1742,
+  "n": 1737,
   "name": "IBM Research Centre, La Gaude",
   "by": "Marcel Breuer",
   "place": "La Gaude, FR",
@@ -169803,7 +169351,7 @@ window.BUILDINGS = [
  },
  {
   "id": "le-fresnoy",
-  "n": 1743,
+  "n": 1738,
   "name": "Le Fresnoy",
   "by": "Bernard Tschumi",
   "place": "Tourcoing, FR",
@@ -169855,7 +169403,7 @@ window.BUILDINGS = [
  },
  {
   "id": "orange-cube",
-  "n": 1744,
+  "n": 1739,
   "name": "Orange Cube",
   "by": "Jakob + MacFarlane",
   "place": "Lyon, FR",
@@ -169943,7 +169491,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rue-des-suisses-housing",
-  "n": 1745,
+  "n": 1740,
   "name": "Rue des Suisses Housing",
   "by": "Herzog & de Meuron",
   "place": "Paris, FR",
@@ -169983,7 +169531,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frac-provence-alpes-cote-d-azur",
-  "n": 1746,
+  "n": 1741,
   "name": "FRAC Provence-Alpes-Côte d'Azur",
   "by": "Kengo Kuma",
   "place": "Marseille, FR",
@@ -170035,7 +169583,7 @@ window.BUILDINGS = [
  },
  {
   "id": "luma-arles-tower",
-  "n": 1747,
+  "n": 1742,
   "name": "LUMA Arles Tower",
   "by": "Frank Gehry",
   "place": "Arles, FR",
@@ -170135,7 +169683,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musee-jean-cocteau-menton",
-  "n": 1748,
+  "n": 1743,
   "name": "Musée Jean Cocteau, Séverin Wunderman Collection",
   "by": "Rudy Ricciotti",
   "place": "Menton, FR",
@@ -170223,7 +169771,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-dall-ava",
-  "n": 1749,
+  "n": 1744,
   "name": "Villa dall'Ava",
   "by": "OMA, Rem Koolhaas",
   "place": "Saint-Cloud, FR",
@@ -170277,7 +169825,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavillon-noir",
-  "n": 1750,
+  "n": 1745,
   "name": "Pavillon Noir",
   "by": "Rudy Ricciotti",
   "place": "Aix-en-Provence, FR",
@@ -170365,7 +169913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musee-de-la-romanite",
-  "n": 1751,
+  "n": 1746,
   "name": "Musée de la Romanité",
   "by": "Elizabeth de Portzamparc",
   "place": "Nîmes, FR",
@@ -170492,7 +170040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "le-volcan-le-havre",
-  "n": 1752,
+  "n": 1747,
   "name": "Le Volcan",
   "by": "Oscar Niemeyer",
   "place": "Le Havre, FR",
@@ -170592,7 +170140,7 @@ window.BUILDINGS = [
  },
  {
   "id": "carre-d-art",
-  "n": 1753,
+  "n": 1748,
   "name": "Carré d'Art",
   "by": "Foster + Partners",
   "place": "Nîmes, FR",
@@ -170632,7 +170180,7 @@ window.BUILDINGS = [
  },
  {
   "id": "flower-tower",
-  "n": 1754,
+  "n": 1749,
   "name": "Flower Tower",
   "by": "Édouard François",
   "place": "Paris, FR",
@@ -170672,7 +170220,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cap-ferret-house",
-  "n": 1755,
+  "n": 1750,
   "name": "House in Cap Ferret",
   "by": "Lacaton & Vassal",
   "place": "Lège-Cap-Ferret, FR",
@@ -170712,7 +170260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "opera-de-lyon",
-  "n": 1756,
+  "n": 1751,
   "name": "Opéra de Lyon",
   "by": "Jean Nouvel",
   "place": "Lyon, FR",
@@ -170839,7 +170387,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lyon-saint-exupery-station",
-  "n": 1757,
+  "n": 1752,
   "name": "Lyon-Saint-Exupéry TGV Station",
   "by": "Santiago Calatrava",
   "place": "Colombier-Saugnieu, FR",
@@ -170939,7 +170487,7 @@ window.BUILDINGS = [
  },
  {
   "id": "margaret-esherick-house",
-  "n": 1758,
+  "n": 1753,
   "name": "Margaret Esherick House",
   "by": "Louis Kahn",
   "place": "Philadelphia, US",
@@ -171015,7 +170563,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frey-house-ii",
-  "n": 1759,
+  "n": 1754,
   "name": "Frey House II",
   "by": "Albert Frey",
   "place": "Palm Springs, US",
@@ -171055,7 +170603,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stahl-house",
-  "n": 1760,
+  "n": 1755,
   "name": "Stahl House (Case Study House #22)",
   "by": "Pierre Koenig",
   "place": "Los Angeles, US",
@@ -171155,7 +170703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hooper-house-ii",
-  "n": 1761,
+  "n": 1756,
   "name": "Hooper House II",
   "by": "Marcel Breuer",
   "place": "Baltimore, US",
@@ -171195,7 +170743,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chemosphere",
-  "n": 1762,
+  "n": 1757,
   "name": "Chemosphere (Malin Residence)",
   "by": "John Lautner",
   "place": "Los Angeles, US",
@@ -171271,7 +170819,7 @@ window.BUILDINGS = [
  },
  {
   "id": "upper-lawn-pavilion",
-  "n": 1763,
+  "n": 1758,
   "name": "Upper Lawn Pavilion",
   "by": "Alison and Peter Smithson",
   "place": "Tisbury, GB",
@@ -171335,7 +170883,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bavinger-house",
-  "n": 1764,
+  "n": 1759,
   "name": "Bavinger House",
   "by": "Bruce Goff",
   "place": "Norman, US",
@@ -171375,7 +170923,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hopkins-house",
-  "n": 1765,
+  "n": 1760,
   "name": "Hopkins House",
   "by": "Michael and Patty Hopkins",
   "place": "London, GB",
@@ -171475,7 +171023,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dirty-house",
-  "n": 1766,
+  "n": 1761,
   "name": "Dirty House",
   "by": "David Adjaye",
   "place": "London, GB",
@@ -171551,7 +171099,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-ugalde",
-  "n": 1767,
+  "n": 1762,
   "name": "Casa Ugalde",
   "by": "José Antonio Coderch",
   "place": "Caldes d'Estrac, ES",
@@ -171591,7 +171139,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-gaspar",
-  "n": 1768,
+  "n": 1763,
   "name": "Casa Gaspar",
   "by": "Alberto Campo Baeza",
   "place": "Vejer de la Frontera, ES",
@@ -171667,7 +171215,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-blas",
-  "n": 1769,
+  "n": 1764,
   "name": "Casa De Blas",
   "by": "Alberto Campo Baeza",
   "place": "Sevilla la Nueva, ES",
@@ -171743,7 +171291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "das-gelbe-haus-flims",
-  "n": 1770,
+  "n": 1765,
   "name": "Das Gelbe Haus",
   "by": "Valerio Olgiati",
   "place": "Flims, CH",
@@ -171831,7 +171379,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-schreiner",
-  "n": 1771,
+  "n": 1766,
   "name": "Villa Schreiner",
   "by": "Sverre Fehn",
   "place": "Oslo, NO",
@@ -171871,7 +171419,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-gugalun",
-  "n": 1772,
+  "n": 1767,
   "name": "Haus Gugalun",
   "by": "Peter Zumthor",
   "place": "Versam, CH",
@@ -171947,7 +171495,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sea-ranch-condominium-one",
-  "n": 1773,
+  "n": 1768,
   "name": "Sea Ranch Condominium One",
   "by": "Moore Lyndon Turnbull Whitaker (MLTW)",
   "place": "Sea Ranch, US",
@@ -172023,7 +171571,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-vi",
-  "n": 1774,
+  "n": 1769,
   "name": "House VI (Frank Residence)",
   "by": "Peter Eisenman",
   "place": "Cornwall, US",
@@ -172063,7 +171611,7 @@ window.BUILDINGS = [
  },
  {
   "id": "healy-guest-house",
-  "n": 1775,
+  "n": 1770,
   "name": "Healy Guest House (Cocoon House)",
   "by": "Paul Rudolph and Ralph Twitchell",
   "place": "Sarasota, US",
@@ -172166,7 +171714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "walker-guest-house",
-  "n": 1776,
+  "n": 1771,
   "name": "Walker Guest House",
   "by": "Paul Rudolph",
   "place": "Sanibel, US",
@@ -172220,7 +171768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marie-short-house",
-  "n": 1777,
+  "n": 1772,
   "name": "Marie Short House",
   "by": "Glenn Murcutt",
   "place": "Kempsey, AU",
@@ -172260,7 +171808,7 @@ window.BUILDINGS = [
  },
  {
   "id": "delta-shelter",
-  "n": 1778,
+  "n": 1773,
   "name": "Delta Shelter",
   "by": "Tom Kundig (Olson Kundig)",
   "place": "Mazama, US",
@@ -172300,7 +171848,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-rotonda-stabio",
-  "n": 1779,
+  "n": 1774,
   "name": "Casa Rotonda",
   "by": "Mario Botta",
   "place": "Stabio, CH",
@@ -172376,7 +171924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "22-parkside",
-  "n": 1780,
+  "n": 1775,
   "name": "22 Parkside (Rogers House)",
   "by": "Richard and Su Rogers",
   "place": "London, GB",
@@ -172416,7 +171964,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-kalmann",
-  "n": 1781,
+  "n": 1776,
   "name": "Casa Kalmann",
   "by": "Luigi Snozzi",
   "place": "Brione sopra Minusio, CH",
@@ -172492,7 +172040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-busk",
-  "n": 1782,
+  "n": 1777,
   "name": "Villa Busk",
   "by": "Sverre Fehn",
   "place": "Bamble, NO",
@@ -172532,7 +172080,7 @@ window.BUILDINGS = [
  },
  {
   "id": "breuer-house-ii-new-canaan",
-  "n": 1783,
+  "n": 1778,
   "name": "Breuer House II",
   "by": "Marcel Breuer",
   "place": "New Canaan, US",
@@ -172572,7 +172120,7 @@ window.BUILDINGS = [
  },
  {
   "id": "carter-tucker-house",
-  "n": 1784,
+  "n": 1779,
   "name": "Carter/Tucker House",
   "by": "Sean Godsell",
   "place": "Breamlea, AU",
@@ -172612,7 +172160,7 @@ window.BUILDINGS = [
  },
  {
   "id": "novocomum",
-  "n": 1785,
+  "n": 1780,
   "name": "Novocomum",
   "by": "Giuseppe Terragni",
   "place": "Como, IT",
@@ -172688,7 +172236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-rustici",
-  "n": 1786,
+  "n": 1781,
   "name": "Casa Rustici",
   "by": "Giuseppe Terragni, Pietro Lingeri",
   "place": "Milan, IT",
@@ -172740,7 +172288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-artemio-franchi",
-  "n": 1787,
+  "n": 1782,
   "name": "Stadio Artemio Franchi",
   "by": "Pier Luigi Nervi",
   "place": "Florence, IT",
@@ -172840,7 +172388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-dei-congressi-eur",
-  "n": 1788,
+  "n": 1783,
   "name": "Palazzo dei Congressi",
   "by": "Adalberto Libera",
   "place": "Rome, IT",
@@ -172940,7 +172488,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleo-delle-fosse-ardeatine",
-  "n": 1789,
+  "n": 1784,
   "name": "Mausoleo delle Fosse Ardeatine",
   "by": "Mario Fiorentino, Giuseppe Perugini, Nello Aprile, Cino Calcaprina, Aldo Cardelli",
   "place": "Rome, IT",
@@ -173040,7 +172588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-alle-zattere",
-  "n": 1790,
+  "n": 1785,
   "name": "Casa alle Zattere",
   "by": "Ignazio Gardella",
   "place": "Venice, IT",
@@ -173116,7 +172664,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiesa-madre-di-gibellina",
-  "n": 1791,
+  "n": 1786,
   "name": "Chiesa Madre di Gibellina",
   "by": "Ludovico Quaroni",
   "place": "Gibellina, IT",
@@ -173192,7 +172740,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-assunta-riola",
-  "n": 1792,
+  "n": 1787,
   "name": "Santa Maria Assunta, Riola",
   "by": "Alvar Aalto",
   "place": "Riola, IT",
@@ -173292,7 +172840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-rinascente-piazza-fiume",
-  "n": 1793,
+  "n": 1788,
   "name": "La Rinascente, Piazza Fiume",
   "by": "Franco Albini, Franca Helg",
   "place": "Rome, IT",
@@ -173392,7 +172940,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ponte-musmeci",
-  "n": 1794,
+  "n": 1789,
   "name": "Ponte Musmeci (Viadotto dell'Industria)",
   "by": "Sergio Musmeci",
   "place": "Potenza, IT",
@@ -173492,7 +173040,7 @@ window.BUILDINGS = [
  },
  {
   "id": "corviale",
-  "n": 1795,
+  "n": 1790,
   "name": "Corviale",
   "by": "Mario Fiorentino",
   "place": "Rome, IT",
@@ -173580,7 +173128,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-nuvola-eur",
-  "n": 1796,
+  "n": 1791,
   "name": "La Nuvola (Roma Convention Center)",
   "by": "Massimiliano Fuksas, Doriana Fuksas",
   "place": "Rome, IT",
@@ -173668,7 +173216,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ponte-genova-san-giorgio",
-  "n": 1797,
+  "n": 1792,
   "name": "Genova San Giorgio Bridge",
   "by": "Renzo Piano",
   "place": "Genoa, IT",
@@ -173756,7 +173304,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondazione-feltrinelli",
-  "n": 1798,
+  "n": 1793,
   "name": "Fondazione Giangiacomo Feltrinelli",
   "by": "Herzog & de Meuron",
   "place": "Milan, IT",
@@ -173796,7 +173344,7 @@ window.BUILDINGS = [
  },
  {
   "id": "talponia",
-  "n": 1799,
+  "n": 1794,
   "name": "Talponia (Unità residenziale Ovest)",
   "by": "Roberto Gabetti, Aimaro Isola",
   "place": "Ivrea, IT",
@@ -173860,7 +173408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiesa-di-longarone",
-  "n": 1800,
+  "n": 1795,
   "name": "Santa Maria Immacolata, Longarone",
   "by": "Giovanni Michelucci",
   "place": "Longarone, IT",
@@ -173900,7 +173448,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xenia-hotel-mykonos",
-  "n": 1801,
+  "n": 1796,
   "name": "Xenia Hotel, Mykonos",
   "by": "Aris Konstantinidis",
   "place": "Mykonos, GR",
@@ -174002,7 +173550,7 @@ window.BUILDINGS = [
  },
  {
   "id": "archaeological-museum-of-ioannina",
-  "n": 1802,
+  "n": 1797,
   "name": "Archaeological Museum of Ioannina",
   "by": "Aris Konstantinidis",
   "place": "Ioannina, GR",
@@ -174078,7 +173626,7 @@ window.BUILDINGS = [
  },
  {
   "id": "athens-conservatoire",
-  "n": 1803,
+  "n": 1798,
   "name": "Athens Conservatoire",
   "by": "Ioannis Despotopoulos",
   "place": "Athens, GR",
@@ -174178,7 +173726,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hilton-athens",
-  "n": 1804,
+  "n": 1799,
   "name": "Hilton Athens",
   "by": "Prokopis Vassiliadis, Emmanouil Vourekas, Spyros Staikos",
   "place": "Athens, GR",
@@ -174278,7 +173826,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-byzantine-culture",
-  "n": 1805,
+  "n": 1800,
   "name": "Museum of Byzantine Culture",
   "by": "Kyriakos Krokos",
   "place": "Thessaloniki, GR",
@@ -174378,7 +173926,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blue-building-athens",
-  "n": 1806,
+  "n": 1801,
   "name": "Blue Building (Blue Condominium)",
   "by": "Kyriakos Panagiotakos",
   "place": "Athens, GR",
@@ -174478,7 +174026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-del-girasole",
-  "n": 1807,
+  "n": 1802,
   "name": "Casa del Girasole",
   "by": "Luigi Moretti",
   "place": "Rome, IT",
@@ -174530,7 +174078,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scuola-fagnano-olona",
-  "n": 1808,
+  "n": 1803,
   "name": "Elementary School, Fagnano Olona",
   "by": "Aldo Rossi",
   "place": "Fagnano Olona, IT",
@@ -174644,7 +174192,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-papanice",
-  "n": 1809,
+  "n": 1804,
   "name": "Casa Papanice",
   "by": "Paolo Portoghesi, Vittorio Gigliotti",
   "place": "Rome, IT",
@@ -174720,7 +174268,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cartiera-burgo-mantova",
-  "n": 1810,
+  "n": 1805,
   "name": "Cartiera Burgo",
   "by": "Pier Luigi Nervi",
   "place": "Mantua, IT",
@@ -174760,7 +174308,7 @@ window.BUILDINGS = [
  },
  {
   "id": "konstantinidis-weekend-house-anavyssos",
-  "n": 1811,
+  "n": 1806,
   "name": "Weekend House, Anavyssos",
   "by": "Aris Konstantinidis",
   "place": "Anavyssos, GR",
@@ -174800,7 +174348,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lanaras-weekend-house",
-  "n": 1812,
+  "n": 1807,
   "name": "Lanaras Weekend House",
   "by": "Nicos Valsamakis",
   "place": "Anavyssos, GR",
@@ -174840,7 +174388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "onassis-stegi",
-  "n": 1813,
+  "n": 1808,
   "name": "Onassis Stegi",
   "by": "Architecture-Studio",
   "place": "Athens, GR",
@@ -174880,7 +174428,7 @@ window.BUILDINGS = [
  },
  {
   "id": "agios-dimitrios-circular-school",
-  "n": 1814,
+  "n": 1809,
   "name": "Circular School, Agios Dimitrios",
   "by": "Takis Zenetos",
   "place": "Athens, GR",
@@ -174920,7 +174468,7 @@ window.BUILDINGS = [
  },
  {
   "id": "4x4-house",
-  "n": 1815,
+  "n": 1810,
   "name": "4x4 House",
   "by": "Tadao Ando",
   "place": "Kobe, JP",
@@ -174960,7 +174508,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sky-house",
-  "n": 1816,
+  "n": 1811,
   "name": "Sky House",
   "by": "Kiyonori Kikutake",
   "place": "Tokyo, JP",
@@ -175060,7 +174608,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tower-of-winds",
-  "n": 1817,
+  "n": 1812,
   "name": "Tower of Winds",
   "by": "Toyo Ito",
   "place": "Yokohama, JP",
@@ -175112,7 +174660,7 @@ window.BUILDINGS = [
  },
  {
   "id": "silver-hut",
-  "n": 1818,
+  "n": 1813,
   "name": "Silver Hut",
   "by": "Toyo Ito",
   "place": "Imabari, JP",
@@ -175200,7 +174748,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-n",
-  "n": 1819,
+  "n": 1814,
   "name": "House N",
   "by": "Sou Fujimoto",
   "place": "Oita, JP",
@@ -175240,7 +174788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gc-prostho-museum",
-  "n": 1820,
+  "n": 1815,
   "name": "GC Prostho Museum Research Center",
   "by": "Kengo Kuma",
   "place": "Kasugai, JP",
@@ -175292,7 +174840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sunnyhills-minami-aoyama",
-  "n": 1821,
+  "n": 1816,
   "name": "SunnyHills at Minami-Aoyama",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -175368,7 +174916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stone-museum",
-  "n": 1822,
+  "n": 1817,
   "name": "Stone Museum (Stone Plaza)",
   "by": "Kengo Kuma",
   "place": "Nasu, JP",
@@ -175446,7 +174994,7 @@ window.BUILDINGS = [
  },
  {
   "id": "curtain-wall-house",
-  "n": 1823,
+  "n": 1818,
   "name": "Curtain Wall House",
   "by": "Shigeru Ban",
   "place": "Tokyo, JP",
@@ -175546,7 +175094,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gifu-kitagata-apartment",
-  "n": 1824,
+  "n": 1819,
   "name": "Gifu Kitagata Apartment",
   "by": "Kazuyo Sejima",
   "place": "Motosu, JP",
@@ -175586,7 +175134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kiro-san-observatory",
-  "n": 1825,
+  "n": 1820,
   "name": "Kiro-san Observatory",
   "by": "Kengo Kuma",
   "place": "Imabari, JP",
@@ -175686,7 +175234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nira-house",
-  "n": 1826,
+  "n": 1821,
   "name": "Nira House (Leek House)",
   "by": "Terunobu Fujimori",
   "place": "Machida, JP",
@@ -175726,7 +175274,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wall-less-house",
-  "n": 1827,
+  "n": 1822,
   "name": "Wall-less House",
   "by": "Shigeru Ban",
   "place": "Karuizawa, JP",
@@ -175766,7 +175314,7 @@ window.BUILDINGS = [
  },
  {
   "id": "garden-and-house",
-  "n": 1828,
+  "n": 1823,
   "name": "Garden & House",
   "by": "Ryue Nishizawa",
   "place": "Tokyo, JP",
@@ -175806,7 +175354,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paper-house",
-  "n": 1829,
+  "n": 1824,
   "name": "Paper House",
   "by": "Shigeru Ban",
   "place": "Yamanakako, JP",
@@ -175846,7 +175394,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roof-house",
-  "n": 1830,
+  "n": 1825,
   "name": "Roof House",
   "by": "Tezuka Architects",
   "place": "Hadano, JP",
@@ -175886,7 +175434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-kunio-maekawa",
-  "n": 1831,
+  "n": 1826,
   "name": "House of Kunio Maekawa",
   "by": "Kunio Maekawa",
   "place": "Koganei, JP",
@@ -175986,7 +175534,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seoul-olympic-stadium",
-  "n": 1832,
+  "n": 1827,
   "name": "Seoul Olympic Stadium",
   "by": "Kim Swoo-geun",
   "place": "Seoul, KR",
@@ -176086,7 +175634,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boutique-monaco",
-  "n": 1833,
+  "n": 1828,
   "name": "Boutique Monaco",
   "by": "Mass Studies (Minsuk Cho)",
   "place": "Seoul, KR",
@@ -176138,7 +175686,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seoul-city-hall",
-  "n": 1834,
+  "n": 1829,
   "name": "Seoul City Hall",
   "by": "Yoo Kerl (iArc)",
   "place": "Seoul, KR",
@@ -176214,7 +175762,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sewoon-sangga",
-  "n": 1835,
+  "n": 1830,
   "name": "Sewoon Sangga",
   "by": "Kim Swoo-geun",
   "place": "Seoul, KR",
@@ -176254,7 +175802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yangdeok-cathedral",
-  "n": 1836,
+  "n": 1831,
   "name": "Yangdeok Cathedral",
   "by": "Kim Swoo-geun",
   "place": "Changwon, KR",
@@ -176306,7 +175854,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amorepacific-headquarters",
-  "n": 1837,
+  "n": 1832,
   "name": "Amorepacific Headquarters",
   "by": "David Chipperfield Architects",
   "place": "Seoul, KR",
@@ -176406,7 +175954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "government-complex-sejong",
-  "n": 1838,
+  "n": 1833,
   "name": "Government Complex Sejong",
   "by": "Haeahn Architecture",
   "place": "Sejong, KR",
@@ -176494,7 +176042,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ssamziegil",
-  "n": 1839,
+  "n": 1834,
   "name": "Ssamziegil",
   "by": "Choi Moon-gyu (Gaa Architects)",
   "place": "Seoul, KR",
@@ -176546,7 +176094,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seonyudo-park",
-  "n": 1840,
+  "n": 1835,
   "name": "Seonyudo Park",
   "by": "Seoahn Total Landscape (Jung Young-sun), Joh Sung-yong",
   "place": "Seoul, KR",
@@ -176634,7 +176182,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mmca-seoul",
-  "n": 1841,
+  "n": 1836,
   "name": "National Museum of Modern and Contemporary Art, Seoul",
   "by": "mpART Architects (Min Hyun-jun)",
   "place": "Seoul, KR",
@@ -176734,7 +176282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "byeongsan-seowon",
-  "n": 1842,
+  "n": 1837,
   "name": "Byeongsan Seowon",
   "by": "Joseon builders",
   "place": "Andong, KR",
@@ -176810,7 +176358,7 @@ window.BUILDINGS = [
  },
  {
   "id": "janggyeong-panjeon",
-  "n": 1843,
+  "n": 1838,
   "name": "Janggyeong Panjeon, Haeinsa",
   "by": "Joseon builders",
   "place": "Hapcheon, KR",
@@ -176874,7 +176422,7 @@ window.BUILDINGS = [
  },
  {
   "id": "buseoksa-muryangsujeon",
-  "n": 1844,
+  "n": 1839,
   "name": "Muryangsujeon, Buseoksa",
   "by": "Goryeo builders",
   "place": "Yeongju, KR",
@@ -176974,7 +176522,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glass-house-jeju",
-  "n": 1845,
+  "n": 1840,
   "name": "Glass House, Seopjikoji",
   "by": "Tadao Ando",
   "place": "Seogwipo, KR",
@@ -177026,7 +176574,7 @@ window.BUILDINGS = [
  },
  {
   "id": "galleria-department-store-seoul",
-  "n": 1846,
+  "n": 1841,
   "name": "Galleria Department Store (West)",
   "by": "UNStudio",
   "place": "Seoul, KR",
@@ -177066,7 +176614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "urban-hive",
-  "n": 1847,
+  "n": 1842,
   "name": "Urban Hive",
   "by": "Archium (Kim In-cheurl)",
   "place": "Seoul, KR",
@@ -177106,7 +176654,7 @@ window.BUILDINGS = [
  },
  {
   "id": "snu-museum-of-art",
-  "n": 1848,
+  "n": 1843,
   "name": "Seoul National University Museum of Art",
   "by": "OMA (Rem Koolhaas)",
   "place": "Seoul, KR",
@@ -177146,7 +176694,7 @@ window.BUILDINGS = [
  },
  {
   "id": "planetario-galileo-galilei",
-  "n": 1849,
+  "n": 1844,
   "name": "Galileo Galilei Planetarium",
   "by": "Enrique Jan",
   "place": "Buenos Aires, AR",
@@ -177246,7 +176794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coleccion-fortabat",
-  "n": 1850,
+  "n": 1845,
   "name": "Colección de Arte Amalia Lacroze de Fortabat",
   "by": "Rafael Viñoly",
   "place": "Buenos Aires, AR",
@@ -177346,7 +176894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malba",
-  "n": 1851,
+  "n": 1846,
   "name": "MALBA, Museo de Arte Latinoamericano de Buenos Aires",
   "by": "AFT Arquitectos (Atelman, Fourcade, Tapia)",
   "place": "Buenos Aires, AR",
@@ -177446,7 +176994,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-unique",
-  "n": 1852,
+  "n": 1847,
   "name": "Hotel Unique",
   "by": "Ruy Ohtake",
   "place": "São Paulo, BR",
@@ -177546,7 +177094,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-serra-dourada",
-  "n": 1853,
+  "n": 1848,
   "name": "Serra Dourada Stadium",
   "by": "Paulo Mendes da Rocha",
   "place": "Goiânia, BR",
@@ -177622,7 +177170,7 @@ window.BUILDINGS = [
  },
  {
   "id": "faro-del-comercio",
-  "n": 1854,
+  "n": 1849,
   "name": "Faro del Comercio",
   "by": "Luis Barragán, Raúl Ferrera",
   "place": "Monterrey, MX",
@@ -177722,7 +177270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capilla-del-retiro",
-  "n": 1855,
+  "n": 1850,
   "name": "Capilla del Retiro",
   "by": "Cristián Undurraga",
   "place": "Auco, Los Andes, CL",
@@ -177774,7 +177322,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-jesus-soto",
-  "n": 1856,
+  "n": 1851,
   "name": "Jesús Soto Museum of Modern Art",
   "by": "Carlos Raúl Villanueva",
   "place": "Ciudad Bolívar, VE",
@@ -177874,7 +177422,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-del-oro-quimbaya",
-  "n": 1857,
+  "n": 1852,
   "name": "Museo del Oro Quimbaya",
   "by": "Rogelio Salmona",
   "place": "Armenia, CO",
@@ -177938,7 +177486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unilever-paraguay",
-  "n": 1858,
+  "n": 1853,
   "name": "Unilever Offices, Paraguay",
   "by": "Solano Benítez",
   "place": "Villa Elisa, PY",
@@ -177978,7 +177526,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hospital-naval-buenos-aires",
-  "n": 1859,
+  "n": 1854,
   "name": "Hospital Naval Pedro Mallo",
   "by": "Clorindo Testa",
   "place": "Buenos Aires, AR",
@@ -178054,7 +177602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-art-schools-havana",
-  "n": 1860,
+  "n": 1855,
   "name": "National Art Schools (Escuelas Nacionales de Arte)",
   "by": "Ricardo Porro, Vittorio Garatti, Roberto Gottardi",
   "place": "Havana, CU",
@@ -178142,7 +177690,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rodoviaria-de-jau",
-  "n": 1861,
+  "n": 1856,
   "name": "Jaú Bus Station",
   "by": "Vilanova Artigas",
   "place": "Jaú, BR",
@@ -178206,7 +177754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-civico-santa-rosa",
-  "n": 1862,
+  "n": 1857,
   "name": "La Pampa Civic Centre (Casa de Gobierno)",
   "by": "Clorindo Testa",
   "place": "Santa Rosa, AR",
@@ -178246,7 +177794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bacardi-bottling-plant",
-  "n": 1863,
+  "n": 1858,
   "name": "Bacardi Bottling Plant",
   "by": "Félix Candela",
   "place": "Cuautitlán, MX",
@@ -178288,7 +177836,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-butanta",
-  "n": 1864,
+  "n": 1859,
   "name": "Casa no Butantã (Paulo Mendes da Rocha House)",
   "by": "Paulo Mendes da Rocha",
   "place": "São Paulo, BR",
@@ -178328,7 +177876,7 @@ window.BUILDINGS = [
  },
  {
   "id": "loja-forma",
-  "n": 1865,
+  "n": 1860,
   "name": "Forma Furniture Showroom",
   "by": "Paulo Mendes da Rocha",
   "place": "São Paulo, BR",
@@ -178368,7 +177916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-cien",
-  "n": 1866,
+  "n": 1861,
   "name": "Casa Cien",
   "by": "Pezo von Ellrichshausen",
   "place": "Concepción, CL",
@@ -178408,7 +177956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-klotz",
-  "n": 1867,
+  "n": 1862,
   "name": "Casa Klotz",
   "by": "Mathias Klotz",
   "place": "Tongoy, CL",
@@ -178448,7 +177996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capilla-lomas-de-cuernavaca",
-  "n": 1868,
+  "n": 1863,
   "name": "Open Chapel of Lomas de Cuernavaca (Palmira Chapel)",
   "by": "Félix Candela, with Guillermo Rosell and Manuel Larrosa",
   "place": "Cuernavaca, MX",
@@ -178488,7 +178036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-louveira",
-  "n": 1869,
+  "n": 1864,
   "name": "Edifício Louveira",
   "by": "Vilanova Artigas, Carlos Cascaldi",
   "place": "São Paulo, BR",
@@ -178564,7 +178112,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-artigas-1949",
-  "n": 1870,
+  "n": 1865,
   "name": "Second Artigas House (Residência Vilanova Artigas II)",
   "by": "Vilanova Artigas",
   "place": "São Paulo, BR",
@@ -178616,7 +178164,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aldar-headquarters",
-  "n": 1871,
+  "n": 1866,
   "name": "Aldar Headquarters",
   "by": "MZ Architects",
   "place": "Abu Dhabi, AE",
@@ -178656,7 +178204,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheikh-zayed-bridge",
-  "n": 1872,
+  "n": 1867,
   "name": "Sheikh Zayed Bridge",
   "by": "Zaha Hadid",
   "place": "Abu Dhabi, AE",
@@ -178720,7 +178268,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dubai-world-trade-centre",
-  "n": 1873,
+  "n": 1868,
   "name": "Dubai World Trade Centre",
   "by": "John R. Harris",
   "place": "Dubai, AE",
@@ -178820,7 +178368,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-opus",
-  "n": 1874,
+  "n": 1869,
   "name": "The Opus",
   "by": "Zaha Hadid Architects",
   "place": "Dubai, AE",
@@ -178860,7 +178408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-wisdom-sharjah",
-  "n": 1875,
+  "n": 1870,
   "name": "House of Wisdom",
   "by": "Foster + Partners",
   "place": "Sharjah, AE",
@@ -178900,7 +178448,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aspire-tower",
-  "n": 1876,
+  "n": 1871,
   "name": "Aspire Tower (The Torch Doha)",
   "by": "Hadi Simaan, AREP",
   "place": "Doha, QA",
@@ -178940,7 +178488,7 @@ window.BUILDINGS = [
  },
  {
   "id": "emirates-towers",
-  "n": 1877,
+  "n": 1872,
   "name": "Emirates Towers",
   "by": "Hazel Wong",
   "place": "Dubai, AE",
@@ -179040,7 +178588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-thumama-stadium",
-  "n": 1878,
+  "n": 1873,
   "name": "Al Thumama Stadium",
   "by": "Ibrahim M. Jaidah, Arab Engineering Bureau",
   "place": "Doha, QA",
@@ -179104,7 +178652,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadium-974",
-  "n": 1879,
+  "n": 1874,
   "name": "Stadium 974",
   "by": "Fenwick Iribarren Architects",
   "place": "Doha, QA",
@@ -179144,7 +178692,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lusail-stadium",
-  "n": 1880,
+  "n": 1875,
   "name": "Lusail Stadium",
   "by": "Foster + Partners, Populous",
   "place": "Lusail, QA",
@@ -179244,7 +178792,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-bayt-stadium",
-  "n": 1881,
+  "n": 1876,
   "name": "Al Bayt Stadium",
   "by": "Dar Al-Handasah",
   "place": "Al Khor, QA",
@@ -179296,7 +178844,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qatar-university",
-  "n": 1882,
+  "n": 1877,
   "name": "Qatar University",
   "by": "Kamal El Kafrawi",
   "place": "Doha, QA",
@@ -179372,7 +178920,7 @@ window.BUILDINGS = [
  },
  {
   "id": "king-fahd-international-stadium",
-  "n": 1883,
+  "n": 1878,
   "name": "King Fahd International Stadium",
   "by": "Ian Fraser, John Roberts & Partners",
   "place": "Riyadh, SA",
@@ -179460,7 +179008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "king-khalid-international-airport",
-  "n": 1884,
+  "n": 1879,
   "name": "King Khalid International Airport",
   "by": "HOK",
   "place": "Riyadh, SA",
@@ -179560,7 +179108,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maraya",
-  "n": 1885,
+  "n": 1880,
   "name": "Maraya",
   "by": "Giò Forma, Black Engineering",
   "place": "AlUla, SA",
@@ -179612,7 +179160,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-mosque-kuwait",
-  "n": 1886,
+  "n": 1881,
   "name": "Grand Mosque of Kuwait",
   "by": "Mohamed Makiya",
   "place": "Kuwait City, KW",
@@ -179712,7 +179260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queen-alia-international-airport",
-  "n": 1887,
+  "n": 1882,
   "name": "Queen Alia International Airport",
   "by": "Foster + Partners",
   "place": "Amman, JO",
@@ -179812,7 +179360,7 @@ window.BUILDINGS = [
  },
  {
   "id": "feynan-ecolodge",
-  "n": 1888,
+  "n": 1883,
   "name": "Feynan Ecolodge",
   "by": "Ammar Khammash",
   "place": "Wadi Feynan, JO",
@@ -179888,7 +179436,7 @@ window.BUILDINGS = [
  },
  {
   "id": "holiday-inn-beirut",
-  "n": 1889,
+  "n": 1884,
   "name": "Holiday Inn Beirut",
   "by": "André Wogenscky, Maurice Hindié",
   "place": "Beirut, LB",
@@ -179976,7 +179524,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-egg-beirut",
-  "n": 1890,
+  "n": 1885,
   "name": "The Egg (Beirut City Center)",
   "by": "Joseph Philippe Karam",
   "place": "Beirut, LB",
@@ -180076,7 +179624,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monument-to-the-unknown-soldier-baghdad-1959",
-  "n": 1891,
+  "n": 1886,
   "name": "Monument to the Unknown Soldier (1959)",
   "by": "Rifat Chadirji",
   "place": "Baghdad, IQ",
@@ -180128,7 +179676,7 @@ window.BUILDINGS = [
  },
  {
   "id": "federation-of-industries-building",
-  "n": 1892,
+  "n": 1887,
   "name": "Federation of Industries Building",
   "by": "Rifat Chadirji",
   "place": "Baghdad, IQ",
@@ -180180,7 +179728,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zayed-national-museum",
-  "n": 1893,
+  "n": 1888,
   "name": "Zayed National Museum",
   "by": "Foster + Partners",
   "place": "Abu Dhabi, AE",
@@ -180256,7 +179804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dhahran-air-terminal",
-  "n": 1894,
+  "n": 1889,
   "name": "Dhahran Air Terminal",
   "by": "Minoru Yamasaki",
   "place": "Dhahran, SA",
@@ -180344,7 +179892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cairo-opera-house",
-  "n": 1895,
+  "n": 1890,
   "name": "Cairo Opera House",
   "by": "Nikken Sekkei",
   "place": "Cairo, EG",
@@ -180444,7 +179992,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-egyptian-civilization",
-  "n": 1896,
+  "n": 1891,
   "name": "National Museum of Egyptian Civilization",
   "by": "El-Ghazali Kosseiba",
   "place": "Cairo, EG",
@@ -180544,7 +180092,7 @@ window.BUILDINGS = [
  },
  {
   "id": "azadi-stadium",
-  "n": 1897,
+  "n": 1892,
   "name": "Azadi Stadium",
   "by": "Abdol Aziz Farmanfarmaian",
   "place": "Tehran, IR",
@@ -180634,7 +180182,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-culture-zil",
-  "n": 1898,
+  "n": 1893,
   "name": "ZIL Palace of Culture",
   "by": "Vesnin brothers",
   "place": "Moscow, RU",
@@ -180734,7 +180282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dominion-tower",
-  "n": 1899,
+  "n": 1894,
   "name": "Dominion Tower",
   "by": "Zaha Hadid Architects",
   "place": "Moscow, RU",
@@ -180822,7 +180370,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moscow-school-of-management-skolkovo",
-  "n": 1900,
+  "n": 1895,
   "name": "Moscow School of Management Skolkovo",
   "by": "Adjaye Associates",
   "place": "Moscow, RU",
@@ -180898,7 +180446,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ges-2",
-  "n": 1901,
+  "n": 1896,
   "name": "GES-2 House of Culture",
   "by": "Renzo Piano Building Workshop",
   "place": "Moscow, RU",
@@ -180998,7 +180546,7 @@ window.BUILDINGS = [
  },
  {
   "id": "izvestia-building",
-  "n": 1902,
+  "n": 1897,
   "name": "Izvestia Building",
   "by": "Grigory Barkhin, Mikhail Barkhin",
   "place": "Moscow, RU",
@@ -181098,7 +180646,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dnieper-hydroelectric-station",
-  "n": 1903,
+  "n": 1898,
   "name": "Dnieper Hydroelectric Station",
   "by": "Viktor Vesnin, Nikolai Kolli and team",
   "place": "Zaporizhzhia, UA",
@@ -181198,7 +180746,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ukrainian-house-kyiv",
-  "n": 1904,
+  "n": 1899,
   "name": "Ukrainian House (former Lenin Museum)",
   "by": "Vadym Hopkalo and team",
   "place": "Kyiv, UA",
@@ -181298,7 +180846,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sarpi-border-checkpoint",
-  "n": 1905,
+  "n": 1900,
   "name": "Sarpi Border Checkpoint",
   "by": "J. Mayer H. Architects",
   "place": "Sarpi, GE",
@@ -181398,7 +180946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rossiya-cinema-yerevan",
-  "n": 1906,
+  "n": 1901,
   "name": "Rossiya Cinema",
   "by": "Spartak Kndeghtsyan, Artur Tarkhanyan, Grachya Poghosyan",
   "place": "Yerevan, AM",
@@ -181498,7 +181046,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karen-demirchyan-complex",
-  "n": 1907,
+  "n": 1902,
   "name": "Karen Demirchyan Sports and Concert Complex",
   "by": "Gurgen Musheghyan, Artur Tarkhanyan, Spartak Khachikyan, Grachya Poghosyan",
   "place": "Yerevan, AM",
@@ -181598,7 +181146,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baku-crystal-hall",
-  "n": 1908,
+  "n": 1903,
   "name": "Baku Crystal Hall",
   "by": "gmp Architekten (von Gerkan, Marg and Partners)",
   "place": "Baku, AZ",
@@ -181698,7 +181246,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-kazakhstan",
-  "n": 1909,
+  "n": 1904,
   "name": "Hotel Kazakhstan",
   "by": "Yuri Ratushny, Leonid Ukhobotov, Vladimir Kim",
   "place": "Almaty, KZ",
@@ -181786,7 +181334,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bayterek-tower",
-  "n": 1910,
+  "n": 1905,
   "name": "Bayterek Tower",
   "by": "Akmurza Rustembekov",
   "place": "Astana, KZ",
@@ -181886,7 +181434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kazakhstan-central-concert-hall",
-  "n": 1911,
+  "n": 1906,
   "name": "Kazakhstan Central Concert Hall",
   "by": "Manfredi Nicoletti",
   "place": "Astana, KZ",
@@ -181962,7 +181510,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ukrintei-flying-saucer",
-  "n": 1912,
+  "n": 1907,
   "name": "Flying Saucer (UkrINTEI)",
   "by": "Florian Yuriev, Lev Novikov",
   "place": "Kyiv, UA",
@@ -182014,7 +181562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salyut-hotel",
-  "n": 1913,
+  "n": 1908,
   "name": "Salyut Hotel",
   "by": "Avraham Miletsky",
   "place": "Kyiv, UA",
@@ -182090,7 +181638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-the-republic-almaty",
-  "n": 1914,
+  "n": 1909,
   "name": "Palace of the Republic",
   "by": "Nikolai Ripinsky, Leonid Ukhobotov and team",
   "place": "Almaty, KZ",
@@ -182166,7 +181714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chorsu-bazaar",
-  "n": 1915,
+  "n": 1910,
   "name": "Chorsu Bazaar",
   "by": "Vladimir Azimov and team",
   "place": "Tashkent, UZ",
@@ -182280,7 +181828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kumu-art-museum",
-  "n": 1916,
+  "n": 1911,
   "name": "Kumu Art Museum",
   "by": "Pekka Vapaavuori",
   "place": "Tallinn, EE",
@@ -182368,7 +181916,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tallinn-song-festival-stage",
-  "n": 1917,
+  "n": 1912,
   "name": "Tallinn Song Festival Stage",
   "by": "Alar Kotli, Henno Sepmann, Uno Tölpus",
   "place": "Tallinn, EE",
@@ -182456,7 +182004,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arvo-part-centre",
-  "n": 1918,
+  "n": 1913,
   "name": "Arvo Pärt Centre",
   "by": "Nieto Sobejano Arquitectos",
   "place": "Laulasmaa, EE",
@@ -182508,7 +182056,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zvartnots-airport-old-terminal",
-  "n": 1919,
+  "n": 1914,
   "name": "Zvartnots Airport Old Terminal",
   "by": "Artur Tarkhanyan, Spartak Khachikyan, Levon Cherkezyan, Zhorzh Shekhlyan",
   "place": "Yerevan, AM",
@@ -182572,7 +182120,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mestia-queen-tamar-airport",
-  "n": 1920,
+  "n": 1915,
   "name": "Queen Tamar Airport",
   "by": "J. Mayer H. Architects",
   "place": "Mestia, GE",
@@ -182672,7 +182220,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mo-museum",
-  "n": 1921,
+  "n": 1916,
   "name": "MO Museum",
   "by": "Studio Libeskind",
   "place": "Vilnius, LT",
@@ -182760,7 +182308,7 @@ window.BUILDINGS = [
  },
  {
   "id": "robotics-institute-saint-petersburg",
-  "n": 1922,
+  "n": 1917,
   "name": "Central Research Institute of Robotics and Technical Cybernetics",
   "by": "Stanislav Savin, Boris Artyushin",
   "place": "Saint Petersburg, RU",
@@ -182860,7 +182408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tbilisi-archaeological-museum",
-  "n": 1923,
+  "n": 1918,
   "name": "Tbilisi Archaeological Museum",
   "by": "Shota Kavlashvili",
   "place": "Tbilisi, GE",
@@ -182900,7 +182448,7 @@ window.BUILDINGS = [
  },
  {
   "id": "babyn-yar-synagogue",
-  "n": 1924,
+  "n": 1919,
   "name": "Babyn Yar Symbolic Synagogue",
   "by": "Manuel Herz Architects",
   "place": "Kyiv, UA",
@@ -182952,7 +182500,7 @@ window.BUILDINGS = [
  },
  {
   "id": "government-house-almaty",
-  "n": 1925,
+  "n": 1920,
   "name": "Government House of the Kazakh ASSR (now KBTU)",
   "by": "Moisei Ginzburg",
   "place": "Almaty, KZ",
@@ -183052,7 +182600,7 @@ window.BUILDINGS = [
  },
  {
   "id": "british-council-new-delhi",
-  "n": 1926,
+  "n": 1921,
   "name": "British Council, New Delhi",
   "by": "Charles Correa",
   "place": "New Delhi, IN",
@@ -183104,7 +182652,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coppelia-ice-cream-parlour",
-  "n": 1927,
+  "n": 1922,
   "name": "Coppelia Ice Cream Parlour",
   "by": "Mario Girona",
   "place": "Havana, CU",
@@ -183180,7 +182728,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cosmic-rays-pavilion",
-  "n": 1928,
+  "n": 1923,
   "name": "Cosmic Rays Pavilion",
   "by": "Félix Candela, Jorge González Reyna",
   "place": "Mexico City, MX",
@@ -183244,7 +182792,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frac-nord-pas-de-calais",
-  "n": 1929,
+  "n": 1924,
   "name": "FRAC Nord-Pas de Calais",
   "by": "Lacaton & Vassal",
   "place": "Dunkirk, FR",
@@ -183344,7 +182892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cdg-terminal-1",
-  "n": 1930,
+  "n": 1925,
   "name": "Paris-Charles de Gaulle Airport Terminal 1",
   "by": "Paul Andreu",
   "place": "Roissy-en-France, FR",
@@ -183444,7 +182992,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lascaux-iv",
-  "n": 1931,
+  "n": 1926,
   "name": "Lascaux IV",
   "by": "Snøhetta with Duncan Lewis",
   "place": "Montignac, FR",
@@ -183520,7 +183068,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musee-arles-antique",
-  "n": 1932,
+  "n": 1927,
   "name": "Musée départemental Arles antique",
   "by": "Henri Ciriani",
   "place": "Arles, FR",
@@ -183647,7 +183195,7 @@ window.BUILDINGS = [
  },
  {
   "id": "historial-de-la-grande-guerre",
-  "n": 1933,
+  "n": 1928,
   "name": "Historial de la Grande Guerre",
   "by": "Henri Ciriani",
   "place": "Péronne, FR",
@@ -183747,7 +183295,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondation-avicenne",
-  "n": 1934,
+  "n": 1929,
   "name": "Fondation Avicenne (Maison de l'Iran)",
   "by": "Claude Parent, André Bloc, Mohsen Foroughi, Heydar Ghiai",
   "place": "Paris, FR",
@@ -183835,7 +183383,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unesco-headquarters",
-  "n": 1935,
+  "n": 1930,
   "name": "UNESCO Headquarters",
   "by": "Marcel Breuer, Pier Luigi Nervi, Bernard Zehrfuss",
   "place": "Paris, FR",
@@ -183935,7 +183483,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-de-la-radio",
-  "n": 1936,
+  "n": 1931,
   "name": "Maison de la Radio",
   "by": "Henry Bernard",
   "place": "Paris, FR",
@@ -184035,7 +183583,7 @@ window.BUILDINGS = [
  },
  {
   "id": "orgues-de-flandre",
-  "n": 1937,
+  "n": 1932,
   "name": "Les Orgues de Flandre",
   "by": "Martin Schulz van Treeck",
   "place": "Paris, FR",
@@ -184135,7 +183683,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondation-jerome-seydoux-pathe",
-  "n": 1938,
+  "n": 1933,
   "name": "Fondation Jérôme Seydoux-Pathé",
   "by": "Renzo Piano Building Workshop",
   "place": "Paris, FR",
@@ -184211,7 +183759,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-regio-turin",
-  "n": 1939,
+  "n": 1934,
   "name": "Teatro Regio",
   "by": "Carlo Mollino",
   "place": "Turin, IT",
@@ -184338,7 +183886,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-enzo-ferrari",
-  "n": 1940,
+  "n": 1935,
   "name": "Museo Enzo Ferrari",
   "by": "Future Systems (Jan Kaplický), Andrea Morgante",
   "place": "Modena, IT",
@@ -184414,7 +183962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "collegio-del-colle-urbino",
-  "n": 1941,
+  "n": 1936,
   "name": "Collegio del Colle",
   "by": "Giancarlo De Carlo",
   "place": "Urbino, IT",
@@ -184490,7 +184038,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seoul-arts-center",
-  "n": 1942,
+  "n": 1937,
   "name": "Seoul Arts Center Opera House",
   "by": "Kim Seok-chul",
   "place": "Seoul, KR",
@@ -184578,7 +184126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "erdene-zuu",
-  "n": 1943,
+  "n": 1938,
   "name": "Erdene Zuu Monastery",
   "by": "Abtai Sain Khan",
   "place": "Kharkhorin, MN",
@@ -184678,7 +184226,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amarbayasgalant-monastery",
-  "n": 1944,
+  "n": 1939,
   "name": "Amarbayasgalant Monastery",
   "by": "Qing imperial builders",
   "place": "Selenge, MN",
@@ -184792,7 +184340,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chinggis-khaan-statue-complex",
-  "n": 1945,
+  "n": 1940,
   "name": "Chinggis Khaan Statue Complex",
   "by": "J. Enkhjargal, D. Erdenebileg",
   "place": "Tsonjin Boldog, MN",
@@ -184892,7 +184440,7 @@ window.BUILDINGS = [
  },
  {
   "id": "puente-de-la-mujer",
-  "n": 1946,
+  "n": 1941,
   "name": "Puente de la Mujer",
   "by": "Santiago Calatrava",
   "place": "Buenos Aires, AR",
@@ -184992,7 +184540,7 @@ window.BUILDINGS = [
  },
  {
   "id": "one-zaabeel",
-  "n": 1947,
+  "n": 1942,
   "name": "One Za'abeel",
   "by": "Nikken Sekkei",
   "place": "Dubai, AE",
@@ -185044,7 +184592,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kauchuk-factory-club",
-  "n": 1948,
+  "n": 1943,
   "name": "Kauchuk Factory Club",
   "by": "Konstantin Melnikov",
   "place": "Moscow, RU",
@@ -185144,7 +184692,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kyiv-crematorium",
-  "n": 1949,
+  "n": 1944,
   "name": "Kyiv Crematorium (Park of Memory)",
   "by": "Avraham Miletsky, Ada Rybachuk, Volodymyr Melnychenko",
   "place": "Kyiv, UA",
@@ -185220,7 +184768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tbilisi-public-service-hall",
-  "n": 1950,
+  "n": 1945,
   "name": "Tbilisi Public Service Hall",
   "by": "Massimiliano and Doriana Fuksas",
   "place": "Tbilisi, GE",
@@ -185296,7 +184844,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-uzbekistan",
-  "n": 1951,
+  "n": 1946,
   "name": "Hotel Uzbekistan",
   "by": "Ivan Merport and team",
   "place": "Tashkent, UZ",
@@ -185396,7 +184944,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuwait-water-towers",
-  "n": 1952,
+  "n": 1947,
   "name": "Kuwait Water Towers",
   "by": "Sune Lindström, VBB",
   "place": "Kuwait City, KW",
@@ -185472,7 +185020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "serefudin-white-mosque",
-  "n": 1953,
+  "n": 1948,
   "name": "Šerefudin's White Mosque",
   "by": "Zlatko Ugljen",
   "place": "Visoko, BA",
@@ -185548,7 +185096,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universiti-teknologi-petronas",
-  "n": 1954,
+  "n": 1949,
   "name": "Universiti Teknologi Petronas",
   "by": "Foster + Partners",
   "place": "Seri Iskandar, MY",
@@ -185648,7 +185196,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hassan-ii-bridge",
-  "n": 1955,
+  "n": 1950,
   "name": "Hassan II Bridge",
   "by": "Marc Mimram",
   "place": "Rabat, MA",
@@ -185748,7 +185296,7 @@ window.BUILDINGS = [
  },
  {
   "id": "islamic-cemetery-altach",
-  "n": 1956,
+  "n": 1951,
   "name": "Islamic Cemetery Altach",
   "by": "Bernardo Bader",
   "place": "Altach, AT",
@@ -185848,7 +185396,7 @@ window.BUILDINGS = [
  },
  {
   "id": "madinat-al-zahra-museum",
-  "n": 1957,
+  "n": 1952,
   "name": "Madinat al-Zahra Museum",
   "by": "Nieto Sobejano Arquitectos",
   "place": "Córdoba, ES",
@@ -185962,7 +185510,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-datai-langkawi",
-  "n": 1958,
+  "n": 1953,
   "name": "The Datai Langkawi",
   "by": "Kerry Hill with Akitek Jururancang",
   "place": "Langkawi, MY",
@@ -186062,7 +185610,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaedi-regional-hospital",
-  "n": 1959,
+  "n": 1954,
   "name": "Kaédi Regional Hospital",
   "by": "Fabrizio Carola, ADAUA",
   "place": "Kaédi, MR",
@@ -186126,7 +185674,7 @@ window.BUILDINGS = [
  },
  {
   "id": "majara-residence",
-  "n": 1960,
+  "n": 1955,
   "name": "Majara Residence",
   "by": "ZAV Architects",
   "place": "Hormuz Island, IR",
@@ -186178,7 +185726,7 @@ window.BUILDINGS = [
  },
  {
   "id": "banyuwangi-international-airport",
-  "n": 1961,
+  "n": 1956,
   "name": "Banyuwangi International Airport",
   "by": "Andra Matin",
   "place": "Banyuwangi, ID",
@@ -186242,7 +185790,7 @@ window.BUILDINGS = [
  },
  {
   "id": "argo-contemporary-art-museum",
-  "n": 1962,
+  "n": 1957,
   "name": "Argo Contemporary Art Museum",
   "by": "Ahmadreza Schricker Architecture North (ASA North)",
   "place": "Tehran, IR",
@@ -186342,7 +185890,7 @@ window.BUILDINGS = [
  },
  {
   "id": "koudougou-central-market",
-  "n": 1963,
+  "n": 1958,
   "name": "Central Market, Koudougou",
   "by": "Laurent Séchaud",
   "place": "Koudougou, BF",
@@ -186406,7 +185954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jahad-metro-plaza",
-  "n": 1964,
+  "n": 1959,
   "name": "Jahad Metro Plaza",
   "by": "KA Architecture Studio",
   "place": "Tehran, IR",
@@ -186470,7 +186018,7 @@ window.BUILDINGS = [
  },
  {
   "id": "entrepreneurship-development-institute",
-  "n": 1965,
+  "n": 1960,
   "name": "Entrepreneurship Development Institute of India",
   "by": "Bimal Hasmukh Patel",
   "place": "Ahmedabad, IN",
@@ -186558,7 +186106,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yaama-mosque",
-  "n": 1966,
+  "n": 1961,
   "name": "Yaama Mosque",
   "by": "El Hadji Falké Barmou",
   "place": "Yaama, NE",
@@ -186598,7 +186146,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mbaru-niang-wae-rebo",
-  "n": 1967,
+  "n": 1962,
   "name": "Mbaru Niang, Wae Rebo",
   "by": "Yori Antar with the Wae Rebo community",
   "place": "Wae Rebo, ID",
@@ -186686,7 +186234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-academy-for-nature-conservation",
-  "n": 1968,
+  "n": 1963,
   "name": "Royal Academy for Nature Conservation",
   "by": "Ammar Khammash",
   "place": "Ajloun, JO",
@@ -186786,7 +186334,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bhong-mosque",
-  "n": 1969,
+  "n": 1964,
   "name": "Bhong Mosque",
   "by": "Rais Ghazi Mohammad (patron) with local master masons and craftsmen",
   "place": "Bhong, PK",
@@ -186886,7 +186434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crow-island-school",
-  "n": 1970,
+  "n": 1965,
   "name": "Crow Island School",
   "by": "Perkins, Wheeler & Will with Eliel and Eero Saarinen",
   "place": "Winnetka, US",
@@ -186938,7 +186486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "commonwealth-building-portland",
-  "n": 1971,
+  "n": 1966,
   "name": "Equitable Building (Commonwealth Building)",
   "by": "Pietro Belluschi",
   "place": "Portland, US",
@@ -187038,7 +186586,7 @@ window.BUILDINGS = [
  },
  {
   "id": "price-tower",
-  "n": 1972,
+  "n": 1967,
   "name": "Price Tower",
   "by": "Frank Lloyd Wright",
   "place": "Bartlesville, US",
@@ -187165,7 +186713,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deere-and-company-headquarters",
-  "n": 1973,
+  "n": 1968,
   "name": "Deere & Company Administrative Center",
   "by": "Eero Saarinen and Associates",
   "place": "Moline, US",
@@ -187241,7 +186789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weyerhaeuser-headquarters",
-  "n": 1974,
+  "n": 1969,
   "name": "Weyerhaeuser Corporate Headquarters",
   "by": "Skidmore, Owings & Merrill (Edward Charles Bassett), with Sasaki, Walker and Associates",
   "place": "Federal Way, US",
@@ -187341,7 +186889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "exchange-house-broadgate",
-  "n": 1975,
+  "n": 1970,
   "name": "Exchange House, Broadgate",
   "by": "Skidmore, Owings & Merrill",
   "place": "London, GB",
@@ -187441,7 +186989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sainsbury-wing-national-gallery",
-  "n": 1976,
+  "n": 1971,
   "name": "Sainsbury Wing, National Gallery",
   "by": "Venturi, Scott Brown and Associates",
   "place": "London, GB",
@@ -187541,7 +187089,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burton-barr-central-library",
-  "n": 1977,
+  "n": 1972,
   "name": "Burton Barr Central Library",
   "by": "Will Bruder",
   "place": "Phoenix, US",
@@ -187617,7 +187165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monterey-bay-aquarium",
-  "n": 1978,
+  "n": 1973,
   "name": "Monterey Bay Aquarium",
   "by": "EHDD (Esherick Homsey Dodge & Davis)",
   "place": "Monterey, US",
@@ -187717,7 +187265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "design-research-building",
-  "n": 1979,
+  "n": 1974,
   "name": "Design Research Building",
   "by": "Benjamin Thompson & Associates",
   "place": "Cambridge, US",
@@ -187817,7 +187365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "faneuil-hall-marketplace",
-  "n": 1980,
+  "n": 1975,
   "name": "Faneuil Hall Marketplace (Quincy Market)",
   "by": "Benjamin Thompson & Associates (renovation); Alexander Parris (1826 market)",
   "place": "Boston, US",
@@ -187917,7 +187465,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-box-culver-city",
-  "n": 1981,
+  "n": 1976,
   "name": "The Box (Conjunctive Points)",
   "by": "Eric Owen Moss Architects",
   "place": "Culver City, US",
@@ -187981,7 +187529,7 @@ window.BUILDINGS = [
  },
  {
   "id": "washington-metro",
-  "n": 1982,
+  "n": 1977,
   "name": "Washington Metro stations",
   "by": "Harry Weese",
   "place": "Washington, US",
@@ -188081,7 +187629,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haystack-mountain-school-of-crafts",
-  "n": 1983,
+  "n": 1978,
   "name": "Haystack Mountain School of Crafts",
   "by": "Edward Larrabee Barnes",
   "place": "Deer Isle, US",
@@ -188121,7 +187669,7 @@ window.BUILDINGS = [
  },
  {
   "id": "history-faculty-cambridge",
-  "n": 1984,
+  "n": 1979,
   "name": "History Faculty Building, Cambridge",
   "by": "James Stirling",
   "place": "Cambridge, GB",
@@ -188221,7 +187769,7 @@ window.BUILDINGS = [
  },
  {
   "id": "florey-building-oxford",
-  "n": 1985,
+  "n": 1980,
   "name": "Florey Building",
   "by": "James Stirling",
   "place": "Oxford, GB",
@@ -188309,7 +187857,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wzb-berlin-social-science-center",
-  "n": 1986,
+  "n": 1981,
   "name": "WZB Berlin Social Science Center",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "Berlin, DE",
@@ -188409,7 +187957,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bouca-housing",
-  "n": 1987,
+  "n": 1982,
   "name": "Bouça Social Housing",
   "by": "Álvaro Siza",
   "place": "Porto, PT",
@@ -188509,7 +188057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malagueira-housing",
-  "n": 1988,
+  "n": 1983,
   "name": "Quinta da Malagueira",
   "by": "Álvaro Siza",
   "place": "Évora, PT",
@@ -188549,7 +188097,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-church-marco-de-canaveses",
-  "n": 1989,
+  "n": 1984,
   "name": "Santa Maria Church, Marco de Canaveses",
   "by": "Álvaro Siza",
   "place": "Marco de Canaveses, PT",
@@ -188649,7 +188197,7 @@ window.BUILDINGS = [
  },
  {
   "id": "simmons-hall-mit",
-  "n": 1990,
+  "n": 1985,
   "name": "Simmons Hall, MIT",
   "by": "Steven Holl Architects",
   "place": "Cambridge, US",
@@ -188725,7 +188273,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-das-mudas",
-  "n": 1991,
+  "n": 1986,
   "name": "Casa das Mudas Art Centre",
   "by": "Paulo David",
   "place": "Calheta, PT",
@@ -188825,7 +188373,7 @@ window.BUILDINGS = [
  },
  {
   "id": "michael-lee-chin-crystal",
-  "n": 1992,
+  "n": 1987,
   "name": "Michael Lee-Chin Crystal, Royal Ontario Museum",
   "by": "Studio Daniel Libeskind",
   "place": "Toronto, CA",
@@ -188925,7 +188473,7 @@ window.BUILDINGS = [
  },
  {
   "id": "denver-art-museum-hamilton-building",
-  "n": 1993,
+  "n": 1988,
   "name": "Frederic C. Hamilton Building, Denver Art Museum",
   "by": "Studio Daniel Libeskind with Davis Partnership",
   "place": "Denver, US",
@@ -189025,7 +188573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pulitzer-arts-foundation",
-  "n": 1994,
+  "n": 1989,
   "name": "Pulitzer Arts Foundation",
   "by": "Tadao Ando",
   "place": "St. Louis, US",
@@ -189113,7 +188661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-moritzburg-extension",
-  "n": 1995,
+  "n": 1990,
   "name": "Kunstmuseum Moritzburg extension",
   "by": "Nieto Sobejano Arquitectos",
   "place": "Halle, DE",
@@ -189227,7 +188775,7 @@ window.BUILDINGS = [
  },
  {
   "id": "barnes-foundation-philadelphia",
-  "n": 1996,
+  "n": 1991,
   "name": "Barnes Foundation",
   "by": "Tod Williams Billie Tsien Architects",
   "place": "Philadelphia, US",
@@ -189341,7 +188889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waterloo-international",
-  "n": 1997,
+  "n": 1992,
   "name": "Waterloo International",
   "by": "Nicholas Grimshaw & Partners",
   "place": "London, GB",
@@ -189441,7 +188989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "netherlands-embassy-berlin",
-  "n": 1998,
+  "n": 1993,
   "name": "Netherlands Embassy, Berlin",
   "by": "OMA, Rem Koolhaas",
   "place": "Berlin, DE",
@@ -189541,7 +189089,7 @@ window.BUILDINGS = [
  },
  {
   "id": "musac",
-  "n": 1999,
+  "n": 1994,
   "name": "MUSAC, Museum of Contemporary Art of Castilla y León",
   "by": "Mansilla + Tuñón",
   "place": "León, ES",
@@ -189655,7 +189203,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deflat-kleiburg",
-  "n": 2000,
+  "n": 1995,
   "name": "DeFlat Kleiburg",
   "by": "NL Architects, XVW architectuur",
   "place": "Amsterdam, NL",
@@ -189755,7 +189303,7 @@ window.BUILDINGS = [
  },
  {
   "id": "banco-borges-e-irmao",
-  "n": 2001,
+  "n": 1996,
   "name": "Banco Borges & Irmão",
   "by": "Álvaro Siza",
   "place": "Vila do Conde, PT",
@@ -189807,7 +189355,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palau-municipal-d-esports-de-badalona",
-  "n": 2002,
+  "n": 1997,
   "name": "Palau Municipal d'Esports de Badalona",
   "by": "Esteve Bonell, Francesc Rius",
   "place": "Badalona, ES",
@@ -189883,7 +189431,7 @@ window.BUILDINGS = [
  },
  {
   "id": "study-pavilion-tu-braunschweig",
-  "n": 2003,
+  "n": 1998,
   "name": "Study Pavilion, TU Braunschweig",
   "by": "Gustav Düsing, Max Hacke",
   "place": "Braunschweig, DE",
@@ -189947,7 +189495,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palais-des-expositions-charleroi",
-  "n": 2004,
+  "n": 1999,
   "name": "Palais des Expositions (Grand Palais), Charleroi",
   "by": "AgwA, architecten jan de vylder inge vinck",
   "place": "Charleroi, BE",
@@ -190047,7 +189595,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadthaus-scharnhauser-park",
-  "n": 2005,
+  "n": 2000,
   "name": "Stadthaus Scharnhauser Park",
   "by": "J. Mayer H.",
   "place": "Ostfildern, DE",
@@ -190099,7 +189647,7 @@ window.BUILDINGS = [
  },
  {
   "id": "basketbar",
-  "n": 2006,
+  "n": 2001,
   "name": "BasketBar",
   "by": "NL Architects",
   "place": "Utrecht, NL",
@@ -190139,7 +189687,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-borda",
-  "n": 2007,
+  "n": 2002,
   "name": "La Borda",
   "by": "Lacol",
   "place": "Barcelona, ES",
@@ -190241,7 +189789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-gabriel-garcia-marquez",
-  "n": 2008,
+  "n": 2003,
   "name": "Biblioteca Gabriel García Márquez",
   "by": "SUMA Arquitectura",
   "place": "Barcelona, ES",
@@ -190341,7 +189889,7 @@ window.BUILDINGS = [
  },
  {
   "id": "navez-social-housing",
-  "n": 2009,
+  "n": 2004,
   "name": "NAVEZ, 5 social housing units",
   "by": "MSA, V+",
   "place": "Brussels, BE",
@@ -190393,7 +189941,7 @@ window.BUILDINGS = [
  },
  {
   "id": "selfridges-birmingham",
-  "n": 2010,
+  "n": 2005,
   "name": "Selfridges Building, Birmingham",
   "by": "Future Systems (Jan Kaplický, Amanda Levete)",
   "place": "Birmingham, GB",
@@ -190493,7 +190041,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zenith-strasbourg",
-  "n": 2011,
+  "n": 2006,
   "name": "Zénith de Strasbourg",
   "by": "Massimiliano and Doriana Fuksas",
   "place": "Eckbolsheim, FR",
@@ -190593,7 +190141,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rivesaltes-memorial",
-  "n": 2012,
+  "n": 2007,
   "name": "Rivesaltes Camp Memorial",
   "by": "Rudy Ricciotti",
   "place": "Rivesaltes, FR",
@@ -190669,7 +190217,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kannikegarden-ribe",
-  "n": 2013,
+  "n": 2008,
   "name": "Kannikegården",
   "by": "Lundgaard & Tranberg",
   "place": "Ribe, DK",
@@ -190769,7 +190317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "katyn-museum-warsaw",
-  "n": 2014,
+  "n": 2009,
   "name": "Katyń Museum",
   "by": "BBGK Architekci",
   "place": "Warsaw, PL",
@@ -190869,7 +190417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saw-swee-hock-student-centre",
-  "n": 2015,
+  "n": 2010,
   "name": "Saw Swee Hock Student Centre, LSE",
   "by": "O'Donnell + Tuomey",
   "place": "London, GB",
@@ -190945,7 +190493,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-ravensburg",
-  "n": 2016,
+  "n": 2011,
   "name": "Kunstmuseum Ravensburg",
   "by": "Lederer Ragnarsdóttir Oei",
   "place": "Ravensburg, DE",
@@ -191045,7 +190593,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ciniba-katowice",
-  "n": 2017,
+  "n": 2012,
   "name": "Scientific Information Centre and Academic Library (CINiBA)",
   "by": "HS99",
   "place": "Katowice, PL",
@@ -191145,7 +190693,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadshal-ghent",
-  "n": 2018,
+  "n": 2013,
   "name": "Stadshal (Market Hall), Ghent",
   "by": "Robbrecht en Daem, Marie-José Van Hee",
   "place": "Ghent, BE",
@@ -191245,7 +190793,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sines-arts-centre",
-  "n": 2019,
+  "n": 2014,
   "name": "Centro de Artes de Sines",
   "by": "Aires Mateus",
   "place": "Sines, PT",
@@ -191321,7 +190869,7 @@ window.BUILDINGS = [
  },
  {
   "id": "netherlands-institute-for-sound-and-vision",
-  "n": 2020,
+  "n": 2015,
   "name": "Netherlands Institute for Sound and Vision",
   "by": "Neutelings Riedijk Architecten",
   "place": "Hilversum, NL",
@@ -191435,7 +190983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "groot-klimmendaal",
-  "n": 2021,
+  "n": 2016,
   "name": "Groot Klimmendaal Rehabilitation Centre",
   "by": "Koen van Velsen",
   "place": "Arnhem, NL",
@@ -191487,7 +191035,7 @@ window.BUILDINGS = [
  },
  {
   "id": "z33-hasselt",
-  "n": 2022,
+  "n": 2017,
   "name": "Z33 House for Contemporary Art, Design and Architecture",
   "by": "Francesca Torzo",
   "place": "Hasselt, BE",
@@ -191587,7 +191135,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plato-ostrava",
-  "n": 2023,
+  "n": 2018,
   "name": "PLATO Contemporary Art Gallery",
   "by": "KWK Promes (Robert Konieczny)",
   "place": "Ostrava, CZ",
@@ -191675,7 +191223,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mortensrud-church",
-  "n": 2024,
+  "n": 2019,
   "name": "Mortensrud Church",
   "by": "Jensen & Skodvin",
   "place": "Oslo, NO",
@@ -191775,7 +191323,7 @@ window.BUILDINGS = [
  },
  {
   "id": "terrassenhaus-berlin",
-  "n": 2025,
+  "n": 2020,
   "name": "Terrassenhaus Berlin / Lobe Block",
   "by": "Brandlhuber+ Emde, Burlon and Muck Petzet Architekten",
   "place": "Berlin, DE",
@@ -191815,7 +191363,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hedge-house-wijlre",
-  "n": 2026,
+  "n": 2021,
   "name": "Hedge House",
   "by": "Wiel Arets",
   "place": "Wijlre, NL",
@@ -191879,7 +191427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "antinori-nel-chianti-classico",
-  "n": 2027,
+  "n": 2022,
   "name": "Antinori nel Chianti Classico Winery",
   "by": "Archea Associati (Marco Casamonti)",
   "place": "Bargino, IT",
@@ -191919,7 +191467,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peckham-library",
-  "n": 2028,
+  "n": 2023,
   "name": "Peckham Library",
   "by": "Alsop & Störmer",
   "place": "London, GB",
@@ -192019,7 +191567,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lords-media-centre",
-  "n": 2029,
+  "n": 2024,
   "name": "Lord's Media Centre",
   "by": "Future Systems (Jan Kaplický, Amanda Levete)",
   "place": "London, GB",
@@ -192119,7 +191667,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stuttgart-music-school",
-  "n": 2030,
+  "n": 2025,
   "name": "Stuttgart Music School (Musikhochschule)",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "Stuttgart, DE",
@@ -192207,7 +191755,7 @@ window.BUILDINGS = [
  },
  {
   "id": "american-air-museum-duxford",
-  "n": 2031,
+  "n": 2026,
   "name": "American Air Museum, Duxford",
   "by": "Foster + Partners",
   "place": "Duxford, GB",
@@ -192295,7 +191843,7 @@ window.BUILDINGS = [
  },
  {
   "id": "laban-dance-centre",
-  "n": 2032,
+  "n": 2027,
   "name": "Laban Dance Centre",
   "by": "Herzog & de Meuron",
   "place": "London, GB",
@@ -192395,7 +191943,7 @@ window.BUILDINGS = [
  },
  {
   "id": "barajas-airport-terminal-4",
-  "n": 2033,
+  "n": 2028,
   "name": "Madrid-Barajas Airport Terminal 4",
   "by": "Richard Rogers Partnership, Estudio Lamela",
   "place": "Madrid, ES",
@@ -192495,7 +192043,7 @@ window.BUILDINGS = [
  },
  {
   "id": "accordia-cambridge",
-  "n": 2034,
+  "n": 2029,
   "name": "Accordia",
   "by": "Feilden Clegg Bradley Studios, Alison Brooks Architects, Maccreanor Lavington",
   "place": "Cambridge, GB",
@@ -192583,7 +192131,7 @@ window.BUILDINGS = [
  },
  {
   "id": "magna-science-adventure-centre",
-  "n": 2035,
+  "n": 2030,
   "name": "Magna Science Adventure Centre",
   "by": "Wilkinson Eyre",
   "place": "Rotherham, GB",
@@ -192659,7 +192207,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sainsbury-laboratory-cambridge",
-  "n": 2036,
+  "n": 2031,
   "name": "Sainsbury Laboratory",
   "by": "Stanton Williams",
   "place": "Cambridge, GB",
@@ -192735,7 +192283,7 @@ window.BUILDINGS = [
  },
  {
   "id": "astley-castle",
-  "n": 2037,
+  "n": 2032,
   "name": "Astley Castle",
   "by": "Witherford Watson Mann",
   "place": "Astley, Warwickshire, GB",
@@ -192835,7 +192383,7 @@ window.BUILDINGS = [
  },
  {
   "id": "newport-street-gallery",
-  "n": 2038,
+  "n": 2033,
   "name": "Newport Street Gallery",
   "by": "Caruso St John",
   "place": "London, GB",
@@ -192911,7 +192459,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bloomberg-london",
-  "n": 2039,
+  "n": 2034,
   "name": "Bloomberg London",
   "by": "Foster + Partners",
   "place": "London, GB",
@@ -193025,7 +192573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "everyman-theatre-liverpool",
-  "n": 2040,
+  "n": 2035,
   "name": "Everyman Theatre",
   "by": "Haworth Tompkins",
   "place": "Liverpool, GB",
@@ -193125,7 +192673,7 @@ window.BUILDINGS = [
  },
  {
   "id": "velodrom-berlin",
-  "n": 2041,
+  "n": 2036,
   "name": "Velodrom and Swimming Hall, Berlin",
   "by": "Dominique Perrault",
   "place": "Berlin, DE",
@@ -193239,7 +192787,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neurosciences-institute-la-jolla",
-  "n": 2042,
+  "n": 2037,
   "name": "The Neurosciences Institute",
   "by": "Tod Williams Billie Tsien Architects",
   "place": "La Jolla, US",
@@ -193327,7 +192875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moesgaard-museum",
-  "n": 2043,
+  "n": 2038,
   "name": "Moesgaard Museum",
   "by": "Henning Larsen Architects",
   "place": "Aarhus, DK",
@@ -193441,7 +192989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pousada-santa-maria-do-bouro",
-  "n": 2044,
+  "n": 2039,
   "name": "Pousada Santa Maria do Bouro",
   "by": "Eduardo Souto de Moura",
   "place": "Amares, PT",
@@ -193541,7 +193089,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-telmo-museum-extension",
-  "n": 2045,
+  "n": 2040,
   "name": "San Telmo Museum extension",
   "by": "Nieto Sobejano Arquitectos",
   "place": "San Sebastián, ES",
@@ -193641,7 +193189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "san-antonio-central-library",
-  "n": 2046,
+  "n": 2041,
   "name": "San Antonio Central Library",
   "by": "Ricardo Legorreta with Sprinkle Robey Architects and Johnson-Dempsey & Associates",
   "place": "San Antonio, US",
@@ -193729,7 +193277,7 @@ window.BUILDINGS = [
  },
  {
   "id": "goldsmith-street",
-  "n": 2047,
+  "n": 2042,
   "name": "Goldsmith Street",
   "by": "Mikhail Riches with Cathy Hawley",
   "place": "Norwich, GB",
@@ -193781,7 +193329,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-library-magdalene-college",
-  "n": 2048,
+  "n": 2043,
   "name": "New Library, Magdalene College",
   "by": "Niall McLaughlin Architects",
   "place": "Cambridge, GB",
@@ -193857,7 +193405,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gateshead-millennium-bridge",
-  "n": 2049,
+  "n": 2044,
   "name": "Gateshead Millennium Bridge",
   "by": "WilkinsonEyre, Gifford",
   "place": "Gateshead, GB",
@@ -193957,7 +193505,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stormen-bodo",
-  "n": 2050,
+  "n": 2045,
   "name": "Stormen Concert Hall and Library",
   "by": "DRDH Architects",
   "place": "Bodø, NO",
@@ -194057,7 +193605,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arquipelago-contemporary-arts-centre",
-  "n": 2051,
+  "n": 2046,
   "name": "Arquipélago Contemporary Arts Centre",
   "by": "Menos é Mais Arquitectos, João Mendes Ribeiro",
   "place": "Ribeira Grande, PT",
@@ -194097,7 +193645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toho-gakuen-school-of-music",
-  "n": 2052,
+  "n": 2047,
   "name": "Toho Gakuen School of Music",
   "by": "Nikken Sekkei",
   "place": "Chofu, JP",
@@ -194173,7 +193721,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lille-langebro",
-  "n": 2053,
+  "n": 2048,
   "name": "Lille Langebro",
   "by": "WilkinsonEyre, Urban Agency",
   "place": "Copenhagen, DK",
@@ -194249,7 +193797,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hastings-pier",
-  "n": 2054,
+  "n": 2049,
   "name": "Hastings Pier",
   "by": "dRMM",
   "place": "Hastings, GB",
@@ -194349,7 +193897,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ring-of-remembrance",
-  "n": 2055,
+  "n": 2050,
   "name": "Ring of Remembrance (L'Anneau de la Mémoire)",
   "by": "Philippe Prost",
   "place": "Ablain-Saint-Nazaire, FR",
@@ -194449,7 +193997,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-european-university-budapest",
-  "n": 2056,
+  "n": 2051,
   "name": "Central European University",
   "by": "O'Donnell + Tuomey",
   "place": "Budapest, HU",
@@ -194537,7 +194085,7 @@ window.BUILDINGS = [
  },
  {
   "id": "appleby-blue-almshouse",
-  "n": 2057,
+  "n": 2052,
   "name": "Appleby Blue Almshouse",
   "by": "Witherford Watson Mann",
   "place": "London, GB",
@@ -194577,7 +194125,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bedzed",
-  "n": 2058,
+  "n": 2053,
   "name": "BedZED",
   "by": "Bill Dunster Architects",
   "place": "London, GB",
@@ -194677,7 +194225,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-art-gallery-walsall",
-  "n": 2059,
+  "n": 2054,
   "name": "The New Art Gallery Walsall",
   "by": "Caruso St John",
   "place": "Walsall, GB",
@@ -194791,7 +194339,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lewis-glucksman-gallery",
-  "n": 2060,
+  "n": 2055,
   "name": "Lewis Glucksman Gallery",
   "by": "O'Donnell + Tuomey",
   "place": "Cork, IE",
@@ -194867,7 +194415,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maggies-centre-london",
-  "n": 2061,
+  "n": 2056,
   "name": "Maggie's Centre London",
   "by": "Rogers Stirk Harbour + Partners",
   "place": "London, GB",
@@ -194907,7 +194455,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weald-and-downland-gridshell",
-  "n": 2062,
+  "n": 2057,
   "name": "Weald and Downland Gridshell",
   "by": "Edward Cullinan Architects, Buro Happold",
   "place": "Singleton, GB",
@@ -194947,7 +194495,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bishop-edward-king-chapel",
-  "n": 2063,
+  "n": 2058,
   "name": "Bishop Edward King Chapel",
   "by": "Niall McLaughlin Architects",
   "place": "Cuddesdon, GB",
@@ -194999,7 +194547,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-hepworth-wakefield",
-  "n": 2064,
+  "n": 2059,
   "name": "The Hepworth Wakefield",
   "by": "David Chipperfield Architects",
   "place": "Wakefield, GB",
@@ -195113,7 +194661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blavatnik-school-of-government",
-  "n": 2065,
+  "n": 2060,
   "name": "Blavatnik School of Government",
   "by": "Herzog & de Meuron",
   "place": "Oxford, GB",
@@ -195213,7 +194761,7 @@ window.BUILDINGS = [
  },
  {
   "id": "senedd-cardiff",
-  "n": 2066,
+  "n": 2061,
   "name": "Senedd",
   "by": "Richard Rogers Partnership",
   "place": "Cardiff, GB",
@@ -195313,7 +194861,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cambridge-central-mosque",
-  "n": 2067,
+  "n": 2062,
   "name": "Cambridge Central Mosque",
   "by": "Marks Barfield Architects",
   "place": "Cambridge, GB",
@@ -195413,7 +194961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "british-library",
-  "n": 2068,
+  "n": 2063,
   "name": "British Library",
   "by": "Colin St John Wilson, MJ Long",
   "place": "London, GB",
@@ -195553,7 +195101,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-do-baile",
-  "n": 2069,
+  "n": 2064,
   "name": "Casa do Baile (Pampulha Dance Hall)",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -195641,7 +195189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "independence-arch-accra",
-  "n": 2070,
+  "n": 2065,
   "name": "Independence Arch",
   "by": "Ghana Public Works Department",
   "place": "Accra, GH",
@@ -195717,7 +195265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-ghana",
-  "n": 2071,
+  "n": 2066,
   "name": "National Museum of Ghana",
   "by": "Denys Lasdun, Lindsay Drake",
   "place": "Accra, GH",
@@ -195805,7 +195353,7 @@ window.BUILDINGS = [
  },
  {
   "id": "findeco-house",
-  "n": 2072,
+  "n": 2067,
   "name": "Findeco House",
   "by": "Dušan Milenković, Branimir Ganović",
   "place": "Lusaka, ZM",
@@ -195893,7 +195441,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cocoa-house-ibadan",
-  "n": 2073,
+  "n": 2068,
   "name": "Cocoa House",
   "by": "The Plan Group (West Africa)",
   "place": "Ibadan, NG",
@@ -195981,7 +195529,7 @@ window.BUILDINGS = [
  },
  {
   "id": "independence-house-lagos",
-  "n": 2074,
+  "n": 2069,
   "name": "Independence House",
   "by": "G. Cappa",
   "place": "Lagos, NG",
@@ -196021,7 +195569,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hall-of-nations",
-  "n": 2075,
+  "n": 2070,
   "name": "Hall of Nations",
   "by": "Raj Rewal, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -196097,7 +195645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bharat-bhavan",
-  "n": 2076,
+  "n": 2071,
   "name": "Bharat Bhavan",
   "by": "Charles Correa",
   "place": "Bhopal, IN",
@@ -196197,7 +195745,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shri-ram-centre",
-  "n": 2077,
+  "n": 2072,
   "name": "Shri Ram Centre for Performing Arts",
   "by": "Shiv Nath Prasad, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -196237,7 +195785,7 @@ window.BUILDINGS = [
  },
  {
   "id": "india-international-centre",
-  "n": 2078,
+  "n": 2073,
   "name": "India International Centre",
   "by": "Joseph Allen Stein",
   "place": "New Delhi, IN",
@@ -196313,7 +195861,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-institute-of-immunology",
-  "n": 2079,
+  "n": 2074,
   "name": "National Institute of Immunology",
   "by": "Raj Rewal",
   "place": "New Delhi, IN",
@@ -196413,7 +195961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seema-malaka",
-  "n": 2080,
+  "n": 2075,
   "name": "Seema Malaka",
   "by": "Geoffrey Bawa",
   "place": "Colombo, LK",
@@ -196501,7 +196049,7 @@ window.BUILDINGS = [
  },
  {
   "id": "masjid-e-tooba",
-  "n": 2081,
+  "n": 2076,
   "name": "Masjid-e-Tooba",
   "by": "Babar Hameed Chauhan, Zaheer Haider Naqvi",
   "place": "Karachi, PK",
@@ -196577,7 +196125,7 @@ window.BUILDINGS = [
  },
  {
   "id": "habib-bank-plaza",
-  "n": 2082,
+  "n": 2077,
   "name": "Habib Bank Plaza",
   "by": "Leo A. Daly",
   "place": "Karachi, PK",
@@ -196629,7 +196177,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tsc-dhaka-university",
-  "n": 2083,
+  "n": 2078,
   "name": "Teacher-Student Centre, University of Dhaka",
   "by": "Constantinos Doxiadis",
   "place": "Dhaka, BD",
@@ -196729,7 +196277,7 @@ window.BUILDINGS = [
  },
  {
   "id": "makoko-floating-school",
-  "n": 2084,
+  "n": 2079,
   "name": "Makoko Floating School",
   "by": "Kunlé Adeyemi (NLÉ)",
   "place": "Lagos, NG",
@@ -196769,7 +196317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "atira-ahmedabad",
-  "n": 2085,
+  "n": 2080,
   "name": "ATIRA (Ahmedabad Textile Industry's Research Association)",
   "by": "Achyut Kanvinde",
   "place": "Ahmedabad, IN",
@@ -196809,7 +196357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-theatre-de-rabat",
-  "n": 2086,
+  "n": 2081,
   "name": "Royal Theatre of Rabat",
   "by": "Zaha Hadid Architects",
   "place": "Rabat, MA",
@@ -196885,7 +196433,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nid-d-abeille-casablanca",
-  "n": 2087,
+  "n": 2082,
   "name": "Nid d'Abeille, Carrières Centrales",
   "by": "Georges Candilis, Shadrach Woods (ATBAT-Afrique)",
   "place": "Casablanca, MA",
@@ -196938,7 +196486,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-el-aurassi",
-  "n": 2088,
+  "n": 2083,
   "name": "Hôtel El Aurassi",
   "by": "Luigi Moretti",
   "place": "Algiers, DZ",
@@ -197014,7 +196562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-de-lourdes-casablanca",
-  "n": 2089,
+  "n": 2084,
   "name": "Notre-Dame-de-Lourdes, Casablanca",
   "by": "Achille Dangleterre, Gaston Zimmer",
   "place": "Casablanca, MA",
@@ -197102,7 +196650,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-of-ghana",
-  "n": 2090,
+  "n": 2085,
   "name": "National Theatre of Ghana",
   "by": "Cheng Taining, Ye Xianghan",
   "place": "Accra, GH",
@@ -197202,7 +196750,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bentota-beach-hotel",
-  "n": 2091,
+  "n": 2086,
   "name": "Bentota Beach Hotel",
   "by": "Geoffrey Bawa",
   "place": "Bentota, LK",
@@ -197242,7 +196790,7 @@ window.BUILDINGS = [
  },
  {
   "id": "premabhai-hall",
-  "n": 2092,
+  "n": 2087,
   "name": "Premabhai Hall",
   "by": "B. V. Doshi, Mahendra Raj",
   "place": "Ahmedabad, IN",
@@ -197282,7 +196830,7 @@ window.BUILDINGS = [
  },
  {
   "id": "krushi-bhawan",
-  "n": 2093,
+  "n": 2088,
   "name": "Krushi Bhawan",
   "by": "Studio Lotus",
   "place": "Bhubaneswar, IN",
@@ -197322,7 +196870,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liberation-war-museum-dhaka",
-  "n": 2094,
+  "n": 2089,
   "name": "Liberation War Museum",
   "by": "Tanzim Hasan Salim, Naheed Farzana",
   "place": "Dhaka, BD",
@@ -197398,7 +196946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pakistan-secretariat-islamabad",
-  "n": 2095,
+  "n": 2090,
   "name": "Pakistan Secretariat",
   "by": "Gio Ponti",
   "place": "Islamabad, PK",
@@ -197474,7 +197022,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rabindra-bhavan-delhi",
-  "n": 2096,
+  "n": 2091,
   "name": "Rabindra Bhavan",
   "by": "Habib Rahman",
   "place": "New Delhi, IN",
@@ -197550,7 +197098,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palika-kendra",
-  "n": 2097,
+  "n": 2092,
   "name": "Palika Kendra (NDMC Building)",
   "by": "Kuldip Singh, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -197626,7 +197174,7 @@ window.BUILDINGS = [
  },
  {
   "id": "akbar-bhawan",
-  "n": 2098,
+  "n": 2093,
   "name": "Akbar Bhawan (Akbar Hotel)",
   "by": "Shiv Nath Prasad, Mahendra Raj",
   "place": "New Delhi, IN",
@@ -197678,7 +197226,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gaddafi-stadium",
-  "n": 2099,
+  "n": 2094,
   "name": "Gaddafi Stadium",
   "by": "Nasreddin Murat-Khan; Nayyar Ali Dada (1996 redesign)",
   "place": "Lahore, PK",
@@ -197766,7 +197314,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-mohammed-v",
-  "n": 2100,
+  "n": 2095,
   "name": "Mausoleum of Mohammed V",
   "by": "Eric Vo Toan",
   "place": "Rabat, MA",
@@ -197866,7 +197414,7 @@ window.BUILDINGS = [
  },
  {
   "id": "highpoint-i",
-  "n": 2101,
+  "n": 2096,
   "name": "Highpoint I",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -197954,7 +197502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "penguin-pool-london-zoo",
-  "n": 2102,
+  "n": 2097,
   "name": "Penguin Pool, London Zoo",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -198054,7 +197602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "finsbury-health-centre",
-  "n": 2103,
+  "n": 2098,
   "name": "Finsbury Health Centre",
   "by": "Berthold Lubetkin and Tecton",
   "place": "London, GB",
@@ -198142,7 +197690,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boots-d10-building",
-  "n": 2104,
+  "n": 2099,
   "name": "Boots D10 Building",
   "by": "Owen Williams",
   "place": "Beeston, Nottingham, GB",
@@ -198182,7 +197730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "economist-building",
-  "n": 2105,
+  "n": 2100,
   "name": "The Economist Building",
   "by": "Alison and Peter Smithson",
   "place": "London, GB",
@@ -198258,7 +197806,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alton-west-estate",
-  "n": 2106,
+  "n": 2101,
   "name": "Alton West Estate",
   "by": "London County Council Architects Department (Colin Lucas, Bill Howell and others)",
   "place": "London, GB",
@@ -198358,7 +197906,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-peters-seminary-cardross",
-  "n": 2107,
+  "n": 2102,
   "name": "St Peter's Seminary",
   "by": "Gillespie, Kidd & Coia (Isi Metzstein, Andy MacMillan)",
   "place": "Cardross, GB",
@@ -198458,7 +198006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mortonhall-crematorium",
-  "n": 2108,
+  "n": 2103,
   "name": "Mortonhall Crematorium",
   "by": "Basil Spence, Glover & Ferguson",
   "place": "Edinburgh, GB",
@@ -198534,7 +198082,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-commonwealth-pool",
-  "n": 2109,
+  "n": 2104,
   "name": "Royal Commonwealth Pool",
   "by": "Robert Matthew, Johnson-Marshall and Partners (John Richards)",
   "place": "Edinburgh, GB",
@@ -198622,7 +198170,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ecole-de-plein-air-suresnes",
-  "n": 2110,
+  "n": 2105,
   "name": "École de plein air de Suresnes",
   "by": "Eugène Beaudouin and Marcel Lods",
   "place": "Suresnes, FR",
@@ -198722,7 +198270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sonneveld-house",
-  "n": 2111,
+  "n": 2106,
   "name": "Sonneveld House",
   "by": "Brinkman & Van der Vlugt",
   "place": "Rotterdam, NL",
@@ -198836,7 +198384,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bergpolderflat",
-  "n": 2112,
+  "n": 2107,
   "name": "Bergpolderflat",
   "by": "Willem van Tijen, with Brinkman & Van der Vlugt",
   "place": "Rotterdam, NL",
@@ -198924,7 +198472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kiefhoek",
-  "n": 2113,
+  "n": 2108,
   "name": "Kiefhoek",
   "by": "J. J. P. Oud",
   "place": "Rotterdam, NL",
@@ -199012,7 +198560,7 @@ window.BUILDINGS = [
  },
  {
   "id": "papaverhof",
-  "n": 2114,
+  "n": 2109,
   "name": "Papaverhof",
   "by": "Jan Wils",
   "place": "The Hague, NL",
@@ -199100,7 +198648,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaufhaus-schocken-chemnitz",
-  "n": 2115,
+  "n": 2110,
   "name": "Schocken Department Store, Chemnitz",
   "by": "Erich Mendelsohn",
   "place": "Chemnitz, DE",
@@ -199214,7 +198762,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-lange-haus-esters",
-  "n": 2116,
+  "n": 2111,
   "name": "Haus Lange and Haus Esters",
   "by": "Ludwig Mies van der Rohe",
   "place": "Krefeld, DE",
@@ -199329,7 +198877,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bata-skyscraper-zlin",
-  "n": 2117,
+  "n": 2112,
   "name": "Baťa's Skyscraper (Building 21)",
   "by": "Vladimír Karfík",
   "place": "Zlín, CZ",
@@ -199443,7 +198991,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-avion-brno",
-  "n": 2118,
+  "n": 2113,
   "name": "Hotel Avion",
   "by": "Bohuslav Fuchs",
   "place": "Brno, CZ",
@@ -199543,7 +199091,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stiassni",
-  "n": 2119,
+  "n": 2114,
   "name": "Villa Stiassni",
   "by": "Ernst Wiesner",
   "place": "Brno, CZ",
@@ -199643,7 +199191,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prudential-house-warsaw",
-  "n": 2120,
+  "n": 2115,
   "name": "Prudential House",
   "by": "Marcin Weinfeld; steel frame by Stefan Bryła and Wenczesław Poniż",
   "place": "Warsaw, PL",
@@ -199743,7 +199291,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaunas-central-post-office",
-  "n": 2121,
+  "n": 2116,
   "name": "Kaunas Central Post Office",
   "by": "Feliksas Vizbaras",
   "place": "Kaunas, LT",
@@ -199843,7 +199391,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-contemporary-art-belgrade",
-  "n": 2122,
+  "n": 2117,
   "name": "Museum of Contemporary Art, Belgrade",
   "by": "Ivan Antić and Ivanka Raspopović",
   "place": "Belgrade, RS",
@@ -199943,7 +199491,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bigz-building",
-  "n": 2123,
+  "n": 2118,
   "name": "BIGZ Building",
   "by": "Dragiša Brašovan",
   "place": "Belgrade, RS",
@@ -200007,7 +199555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "resurrection-chapel-turku",
-  "n": 2124,
+  "n": 2119,
   "name": "Resurrection Chapel",
   "by": "Erik Bryggman",
   "place": "Turku, FI",
@@ -200107,7 +199655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turun-sanomat-building",
-  "n": 2125,
+  "n": 2120,
   "name": "Turun Sanomat Building",
   "by": "Alvar Aalto",
   "place": "Turku, FI",
@@ -200183,7 +199731,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rautatalo",
-  "n": 2126,
+  "n": 2121,
   "name": "Rautatalo",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -200283,7 +199831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tapiola-church",
-  "n": 2127,
+  "n": 2122,
   "name": "Tapiola Church",
   "by": "Aarno Ruusuvuori",
   "place": "Espoo, FI",
@@ -200359,7 +199907,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sunila-pulp-mill",
-  "n": 2128,
+  "n": 2123,
   "name": "Sunila Pulp Mill and Housing",
   "by": "Alvar Aalto",
   "place": "Kotka, FI",
@@ -200435,7 +199983,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bellavista-klampenborg",
-  "n": 2129,
+  "n": 2124,
   "name": "Bellavista",
   "by": "Arne Jacobsen",
   "place": "Klampenborg, DK",
@@ -200535,7 +200083,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stenersen",
-  "n": 2130,
+  "n": 2125,
   "name": "Villa Stenersen",
   "by": "Arne Korsmo",
   "place": "Oslo, NO",
@@ -200635,7 +200183,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ekebergrestauranten",
-  "n": 2131,
+  "n": 2126,
   "name": "Ekeberg Restaurant",
   "by": "Lars Backer",
   "place": "Oslo, NO",
@@ -200725,7 +200273,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sanatorium-joseph-lemaire",
-  "n": 2132,
+  "n": 2127,
   "name": "Sanatorium Joseph Lemaire",
   "by": "Maxime Brunfaut",
   "place": "Overijse, BE",
@@ -200801,7 +200349,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkbundsiedlung-neubuhl",
-  "n": 2133,
+  "n": 2128,
   "name": "Werkbundsiedlung Neubühl",
   "by": "Haefeli, Moser, Steiger, Hubacher, Roth, Artaria and Schmidt",
   "place": "Zurich, CH",
@@ -200877,7 +200425,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkbundsiedlung-wien",
-  "n": 2134,
+  "n": 2129,
   "name": "Vienna Werkbund Estate",
   "by": "Josef Frank (plan) with about 30 architects incl. Loos, Rietveld, Neutra, Hoffmann",
   "place": "Vienna, AT",
@@ -200965,7 +200513,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bloco-das-aguas-livres",
-  "n": 2135,
+  "n": 2130,
   "name": "Bloco das Águas Livres",
   "by": "Nuno Teotónio Pereira and Bartolomeu Costa Cabral",
   "place": "Lisbon, PT",
@@ -201029,7 +200577,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gobierno-civil-tarragona",
-  "n": 2136,
+  "n": 2131,
   "name": "Gobierno Civil de Tarragona",
   "by": "Alejandro de la Sota",
   "place": "Tarragona, ES",
@@ -201081,7 +200629,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cite-de-la-muette",
-  "n": 2137,
+  "n": 2132,
   "name": "Cité de la Muette",
   "by": "Eugène Beaudouin and Marcel Lods",
   "place": "Drancy, FR",
@@ -201181,7 +200729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-della-civilta-italiana",
-  "n": 2138,
+  "n": 2133,
   "name": "Palazzo della Civiltà Italiana",
   "by": "Giovanni Guerrini, Ernesto Bruno La Padula, Mario Romano",
   "place": "Rome, IT",
@@ -201295,7 +200843,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-flaminio",
-  "n": 2139,
+  "n": 2134,
   "name": "Stadio Flaminio",
   "by": "Pier Luigi Nervi and Antonio Nervi",
   "place": "Rome, IT",
@@ -201371,7 +200919,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dispensario-antituberculoso-barcelona",
-  "n": 2140,
+  "n": 2135,
   "name": "Dispensario Antituberculoso",
   "by": "Josep Lluís Sert, Josep Torres Clavé, Joan Baptista Subirana (GATCPAC)",
   "place": "Barcelona, ES",
@@ -201447,7 +200995,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-carrion-madrid",
-  "n": 2141,
+  "n": 2136,
   "name": "Edificio Carrión (Edificio Capitol)",
   "by": "Luis Martínez-Feduchi and Vicente Eced",
   "place": "Madrid, ES",
@@ -201561,7 +201109,7 @@ window.BUILDINGS = [
  },
  {
   "id": "engel-house-tel-aviv",
-  "n": 2142,
+  "n": 2137,
   "name": "Engel House",
   "by": "Ze'ev Rechter",
   "place": "Tel Aviv, IL",
@@ -201661,7 +201209,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cultural-center-of-the-philippines",
-  "n": 2143,
+  "n": 2138,
   "name": "Cultural Center of the Philippines (Tanghalang Pambansa)",
   "by": "Leandro Locsin",
   "place": "Pasay, PH",
@@ -201737,7 +201285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lovell-health-house",
-  "n": 2144,
+  "n": 2139,
   "name": "Lovell Health House",
   "by": "Richard Neutra",
   "place": "Los Angeles, US",
@@ -201813,7 +201361,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miller-house-columbus",
-  "n": 2145,
+  "n": 2140,
   "name": "Miller House and Garden",
   "by": "Eero Saarinen; garden by Dan Kiley; interiors by Alexander Girard",
   "place": "Columbus, Indiana, US",
@@ -201913,7 +201461,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manufacturers-trust-company-building",
-  "n": 2146,
+  "n": 2141,
   "name": "Manufacturers Trust Company Building",
   "by": "Gordon Bunshaft and Charles Evans Hughes III (SOM)",
   "place": "New York, US",
@@ -202013,7 +201561,7 @@ window.BUILDINGS = [
  },
  {
   "id": "first-christian-church-columbus",
-  "n": 2147,
+  "n": 2142,
   "name": "First Christian Church",
   "by": "Eliel Saarinen",
   "place": "Columbus, Indiana, US",
@@ -202113,7 +201661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-stein-de-monzie",
-  "n": 2148,
+  "n": 2143,
   "name": "Villa Stein-de Monzie (Les Terrasses)",
   "by": "Le Corbusier and Pierre Jeanneret",
   "place": "Vaucresson (Garches), FR",
@@ -202179,7 +201727,7 @@ window.BUILDINGS = [
  },
  {
   "id": "e-1027",
-  "n": 2149,
+  "n": 2144,
   "name": "E-1027",
   "by": "Eileen Gray and Jean Badovici",
   "place": "Roquebrune-Cap-Martin, FR",
@@ -202219,7 +201767,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iate-tenis-clube-pampulha",
-  "n": 2150,
+  "n": 2145,
   "name": "Iate Tênis Clube, Pampulha",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -202295,7 +201843,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oca-ibirapuera",
-  "n": 2151,
+  "n": 2146,
   "name": "Oca, Ibirapuera Park",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -202395,7 +201943,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavilhao-da-bienal",
-  "n": 2152,
+  "n": 2147,
   "name": "Bienal Pavilion (Pavilhão Ciccillo Matarazzo)",
   "by": "Oscar Niemeyer",
   "place": "São Paulo, BR",
@@ -202495,7 +202043,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-hotel-ouro-preto",
-  "n": 2153,
+  "n": 2148,
   "name": "Grande Hotel de Ouro Preto",
   "by": "Oscar Niemeyer",
   "place": "Ouro Preto, BR",
@@ -202595,7 +202143,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-tv-brasilia",
-  "n": 2154,
+  "n": 2149,
   "name": "Brasília TV Tower",
   "by": "Lúcio Costa",
   "place": "Brasília, BR",
@@ -202709,7 +202257,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-do-morumbi",
-  "n": 2155,
+  "n": 2150,
   "name": "Morumbi Stadium (Estádio Cícero Pompeu de Toledo)",
   "by": "Vilanova Artigas",
   "place": "São Paulo, BR",
@@ -202809,7 +202357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "conjunto-nacional",
-  "n": 2156,
+  "n": 2151,
   "name": "Conjunto Nacional",
   "by": "David Libeskind",
   "place": "São Paulo, BR",
@@ -202909,7 +202457,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-esther",
-  "n": 2157,
+  "n": 2152,
   "name": "Edifício Esther",
   "by": "Álvaro Vital Brazil, Adhemar Marinho",
   "place": "São Paulo, BR",
@@ -203009,7 +202557,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abi-building",
-  "n": 2158,
+  "n": 2153,
   "name": "Brazilian Press Association Building (ABI)",
   "by": "MMM Roberto (Marcelo and Milton Roberto)",
   "place": "Rio de Janeiro, BR",
@@ -203073,7 +202621,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-cultura-artistica",
-  "n": 2159,
+  "n": 2154,
   "name": "Teatro Cultura Artística",
   "by": "Rino Levi",
   "place": "São Paulo, BR",
@@ -203173,7 +202721,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museu-das-missoes",
-  "n": 2160,
+  "n": 2155,
   "name": "Museu das Missões",
   "by": "Lúcio Costa",
   "place": "São Miguel das Missões, BR",
@@ -203261,7 +202809,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rodoviaria-do-plano-piloto",
-  "n": 2161,
+  "n": 2156,
   "name": "Brasília Bus Station (Rodoviária do Plano Piloto)",
   "by": "Lúcio Costa",
   "place": "Brasília, BR",
@@ -203327,7 +202875,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palacio-da-justica-brasilia",
-  "n": 2162,
+  "n": 2157,
   "name": "Palácio da Justiça (Ministry of Justice), Brasília",
   "by": "Oscar Niemeyer",
   "place": "Brasília, BR",
@@ -203427,7 +202975,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-niemeyer-bh",
-  "n": 2163,
+  "n": 2158,
   "name": "Edifício Niemeyer",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -203527,7 +203075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "conjunto-jk-belo-horizonte",
-  "n": 2164,
+  "n": 2159,
   "name": "Conjunto JK (Conjunto Governador Kubitschek)",
   "by": "Oscar Niemeyer",
   "place": "Belo Horizonte, BR",
@@ -203615,7 +203163,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-olimpico-universitario",
-  "n": 2165,
+  "n": 2160,
   "name": "Estadio Olímpico Universitario",
   "by": "Augusto Pérez Palacios, Raúl Salinas, Jorge Bravo Moro",
   "place": "Mexico City, MX",
@@ -203742,7 +203290,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-de-rectoria-unam",
-  "n": 2166,
+  "n": 2161,
   "name": "Rectorate Tower, UNAM",
   "by": "Mario Pani, Enrique del Moral, Salvador Ortega Flores",
   "place": "Mexico City, MX",
@@ -203842,7 +203390,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-insignia",
-  "n": 2167,
+  "n": 2162,
   "name": "Torre Insignia (Banobras Tower)",
   "by": "Mario Pani",
   "place": "Mexico City, MX",
@@ -203942,7 +203490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-azteca",
-  "n": 2168,
+  "n": 2163,
   "name": "Estadio Azteca",
   "by": "Pedro Ramírez Vázquez, Rafael Mijares",
   "place": "Mexico City, MX",
@@ -204042,7 +203590,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-ogorman-1929",
-  "n": 2169,
+  "n": 2164,
   "name": "Casa O'Gorman 1929 (Cecil O'Gorman House)",
   "by": "Juan O'Gorman",
   "place": "Mexico City, MX",
@@ -204082,7 +203630,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-basurto",
-  "n": 2170,
+  "n": 2165,
   "name": "Edificio Basurto",
   "by": "Francisco J. Serrano",
   "place": "Mexico City, MX",
@@ -204146,7 +203694,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plaza-cubierta-ucv",
-  "n": 2171,
+  "n": 2166,
   "name": "Covered Plaza, University City of Caracas",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -204260,7 +203808,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-simon-bolivar",
-  "n": 2172,
+  "n": 2167,
   "name": "Centro Simón Bolívar (El Silencio Towers)",
   "by": "Cipriano Domínguez",
   "place": "Caracas, VE",
@@ -204360,7 +203908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parque-central-caracas",
-  "n": 2173,
+  "n": 2168,
   "name": "Parque Central Complex",
   "by": "Daniel Fernández-Shaw (Siso, Shaw & Asociados)",
   "place": "Caracas, VE",
@@ -204460,7 +204008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-planchart",
-  "n": 2174,
+  "n": 2169,
   "name": "Villa Planchart (Quinta El Cerrito)",
   "by": "Gio Ponti",
   "place": "Caracas, VE",
@@ -204512,7 +204060,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-de-bellas-artes-caracas",
-  "n": 2175,
+  "n": 2170,
   "name": "Museo de Bellas Artes de Caracas (1976 building)",
   "by": "Carlos Raúl Villanueva",
   "place": "Caracas, VE",
@@ -204564,7 +204112,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-panamericano",
-  "n": 2176,
+  "n": 2171,
   "name": "Edificio Panamericano",
   "by": "Raúl Sichero",
   "place": "Montevideo, UY",
@@ -204664,7 +204212,7 @@ window.BUILDINGS = [
  },
  {
   "id": "facultad-de-arquitectura-udelar",
-  "n": 2177,
+  "n": 2172,
   "name": "Faculty of Architecture, University of the Republic",
   "by": "Román Fresnedo Siri, Mario Muccinelli",
   "place": "Montevideo, UY",
@@ -204764,7 +204312,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paho-headquarters",
-  "n": 2178,
+  "n": 2173,
   "name": "Pan American Health Organization Headquarters",
   "by": "Román Fresnedo Siri",
   "place": "Washington, D.C., US",
@@ -204864,7 +204412,7 @@ window.BUILDINGS = [
  },
  {
   "id": "estadio-centenario",
-  "n": 2179,
+  "n": 2174,
   "name": "Estadio Centenario",
   "by": "Juan Antonio Scasso",
   "place": "Montevideo, UY",
@@ -204978,7 +204526,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ministerio-de-obras-publicas-buenos-aires",
-  "n": 2180,
+  "n": 2175,
   "name": "Ministry of Public Works Building",
   "by": "José Hortal",
   "place": "Buenos Aires, AR",
@@ -205105,7 +204653,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torres-de-tajamar",
-  "n": 2181,
+  "n": 2176,
   "name": "Torres de Tajamar",
   "by": "Luis Prieto Vial with Bresciani, Valdés, Castillo, Huidobro",
   "place": "Santiago, CL",
@@ -205205,7 +204753,7 @@ window.BUILDINGS = [
  },
  {
   "id": "templo-votivo-de-maipu",
-  "n": 2182,
+  "n": 2177,
   "name": "Votive Temple of Maipú",
   "by": "Juan Martínez Gutiérrez",
   "place": "Maipú, Santiago, CL",
@@ -205332,7 +204880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mambo-bogota",
-  "n": 2183,
+  "n": 2178,
   "name": "Museo de Arte Moderno de Bogotá (MAMBO)",
   "by": "Rogelio Salmona",
   "place": "Bogotá, CO",
@@ -205432,7 +204980,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-avianca",
-  "n": 2184,
+  "n": 2179,
   "name": "Avianca Building",
   "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía., with Ricaurte Prieto Carrizosa",
   "place": "Bogotá, CO",
@@ -205508,7 +205056,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-petroperu",
-  "n": 2185,
+  "n": 2180,
   "name": "Petroperú Building",
   "by": "Daniel Arana Ríos, Walter Weberhofer",
   "place": "Lima, PE",
@@ -205608,7 +205156,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-lopez-serrano",
-  "n": 2186,
+  "n": 2181,
   "name": "Edificio López Serrano",
   "by": "Ricardo Mira, Miguel Rosich",
   "place": "Havana, CU",
@@ -205722,7 +205270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-habana-libre",
-  "n": 2187,
+  "n": 2182,
   "name": "Hotel Habana Libre (former Habana Hilton)",
   "by": "Welton Becket & Associates, with Arroyo y Menéndez",
   "place": "Havana, CU",
@@ -205836,7 +205384,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-luis-angel-arango",
-  "n": 2188,
+  "n": 2183,
   "name": "Biblioteca Luis Ángel Arango",
   "by": "Esguerra, Sáenz, Urdaneta, Samper y Cía.",
   "place": "Bogotá, CO",
@@ -205936,7 +205484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-york-state-pavilion",
-  "n": 2189,
+  "n": 2184,
   "name": "New York State Pavilion",
   "by": "Philip Johnson and Richard Foster",
   "place": "New York City, US",
@@ -206036,7 +205584,7 @@ window.BUILDINGS = [
  },
  {
   "id": "no-1-poultry",
-  "n": 2190,
+  "n": 2185,
   "name": "No 1 Poultry",
   "by": "James Stirling, Michael Wilford and Associates",
   "place": "London, GB",
@@ -206136,7 +205684,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-pyramids-indianapolis",
-  "n": 2191,
+  "n": 2186,
   "name": "The Pyramids (College Life Insurance)",
   "by": "Kevin Roche John Dinkeloo and Associates",
   "place": "Indianapolis, US",
@@ -206212,7 +205760,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dallas-city-hall",
-  "n": 2192,
+  "n": 2187,
   "name": "Dallas City Hall",
   "by": "I. M. Pei",
   "place": "Dallas, US",
@@ -206288,7 +205836,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macba-barcelona",
-  "n": 2193,
+  "n": 2188,
   "name": "Barcelona Museum of Contemporary Art (MACBA)",
   "by": "Richard Meier",
   "place": "Barcelona, ES",
@@ -206388,7 +205936,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bensberg-town-hall",
-  "n": 2194,
+  "n": 2189,
   "name": "Bensberg Town Hall",
   "by": "Gottfried Böhm",
   "place": "Bergisch Gladbach, DE",
@@ -206488,7 +206036,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mondadori-palace",
-  "n": 2195,
+  "n": 2190,
   "name": "Mondadori Palace",
   "by": "Oscar Niemeyer",
   "place": "Segrate, IT",
@@ -206552,7 +206100,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kagawa-prefectural-gymnasium",
-  "n": 2196,
+  "n": 2191,
   "name": "Kagawa Prefectural Gymnasium",
   "by": "Kenzō Tange",
   "place": "Takamatsu, JP",
@@ -206616,7 +206164,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stata-center",
-  "n": 2197,
+  "n": 2192,
   "name": "Ray and Maria Stata Center (MIT Building 32)",
   "by": "Frank Gehry",
   "place": "Cambridge, Massachusetts, US",
@@ -206716,7 +206264,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quartier-schutzenstrasse",
-  "n": 2198,
+  "n": 2193,
   "name": "Quartier Schützenstraße",
   "by": "Aldo Rossi",
   "place": "Berlin, DE",
@@ -206830,7 +206378,7 @@ window.BUILDINGS = [
  },
  {
   "id": "franklin-court",
-  "n": 2199,
+  "n": 2194,
   "name": "Franklin Court",
   "by": "Venturi and Rauch (Robert Venturi, Denise Scott Brown)",
   "place": "Philadelphia, US",
@@ -206930,7 +206478,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cgac-santiago",
-  "n": 2200,
+  "n": 2195,
   "name": "Galician Centre of Contemporary Art (CGAC)",
   "by": "Álvaro Siza",
   "place": "Santiago de Compostela, ES",
@@ -207006,7 +206554,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lvmh-tower",
-  "n": 2201,
+  "n": 2196,
   "name": "LVMH Tower",
   "by": "Christian de Portzamparc",
   "place": "New York City, US",
@@ -207106,7 +206654,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hill-of-the-buddha",
-  "n": 2202,
+  "n": 2197,
   "name": "Hill of the Buddha",
   "by": "Tadao Ando",
   "place": "Sapporo, JP",
@@ -207158,7 +206706,7 @@ window.BUILDINGS = [
  },
  {
   "id": "murcia-town-hall-extension",
-  "n": 2203,
+  "n": 2198,
   "name": "Murcia Town Hall Extension",
   "by": "Rafael Moneo",
   "place": "Murcia, ES",
@@ -207234,7 +206782,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kansai-airport-terminal-1",
-  "n": 2204,
+  "n": 2199,
   "name": "Kansai International Airport Terminal 1",
   "by": "Renzo Piano Building Workshop",
   "place": "Izumisano, Osaka, JP",
@@ -207334,7 +206882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zentrum-paul-klee",
-  "n": 2205,
+  "n": 2200,
   "name": "Zentrum Paul Klee",
   "by": "Renzo Piano Building Workshop",
   "place": "Bern, CH",
@@ -207461,7 +207009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-airport-terminal-1",
-  "n": 2206,
+  "n": 2201,
   "name": "Hong Kong International Airport Terminal 1",
   "by": "Foster + Partners",
   "place": "Hong Kong, HK",
@@ -207561,7 +207109,7 @@ window.BUILDINGS = [
  },
  {
   "id": "apple-park",
-  "n": 2207,
+  "n": 2202,
   "name": "Apple Park",
   "by": "Foster + Partners",
   "place": "Cupertino, US",
@@ -207661,7 +207209,7 @@ window.BUILDINGS = [
  },
  {
   "id": "milstein-hall",
-  "n": 2208,
+  "n": 2203,
   "name": "Milstein Hall, Cornell University",
   "by": "OMA (Rem Koolhaas, Shohei Shigematsu)",
   "place": "Ithaca, US",
@@ -207737,7 +207285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prada-aoyama",
-  "n": 2209,
+  "n": 2204,
   "name": "Prada Aoyama",
   "by": "Herzog & de Meuron",
   "place": "Tokyo, JP",
@@ -207837,7 +207385,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fredensborg-houses",
-  "n": 2210,
+  "n": 2205,
   "name": "Fredensborg Houses",
   "by": "Jørn Utzon",
   "place": "Fredensborg, DK",
@@ -207913,7 +207461,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pierresvives",
-  "n": 2211,
+  "n": 2206,
   "name": "Pierresvives",
   "by": "Zaha Hadid Architects",
   "place": "Montpellier, FR",
@@ -208001,7 +207549,7 @@ window.BUILDINGS = [
  },
  {
   "id": "european-court-of-human-rights-building",
-  "n": 2212,
+  "n": 2207,
   "name": "European Court of Human Rights Building",
   "by": "Richard Rogers Partnership with Claude Bucher",
   "place": "Strasbourg, FR",
@@ -208101,7 +207649,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kkl-luzern",
-  "n": 2213,
+  "n": 2208,
   "name": "Lucerne Culture and Congress Centre (KKL)",
   "by": "Ateliers Jean Nouvel",
   "place": "Lucerne, CH",
@@ -208201,7 +207749,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shelters-roman-ruins-chur",
-  "n": 2214,
+  "n": 2209,
   "name": "Shelters for the Roman Ruins, Chur",
   "by": "Peter Zumthor",
   "place": "Chur, CH",
@@ -208277,7 +207825,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zollverein-school",
-  "n": 2215,
+  "n": 2210,
   "name": "Zollverein School of Management and Design",
   "by": "SANAA (Kazuyo Sejima, Ryue Nishizawa)",
   "place": "Essen, DE",
@@ -208365,7 +207913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burgo-tower",
-  "n": 2216,
+  "n": 2211,
   "name": "Burgo Tower",
   "by": "Eduardo Souto de Moura",
   "place": "Porto, PT",
@@ -208465,7 +208013,7 @@ window.BUILDINGS = [
  },
  {
   "id": "meiso-no-mori",
-  "n": 2217,
+  "n": 2212,
   "name": "Meiso no Mori Municipal Funeral Hall",
   "by": "Toyo Ito",
   "place": "Kakamigahara, JP",
@@ -208517,7 +208065,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaohsiung-national-stadium",
-  "n": 2218,
+  "n": 2213,
   "name": "National Stadium, Kaohsiung (World Games Stadium)",
   "by": "Toyo Ito",
   "place": "Kaohsiung, TW",
@@ -208617,7 +208165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swatch-headquarters",
-  "n": 2219,
+  "n": 2214,
   "name": "Swatch Headquarters, Biel",
   "by": "Shigeru Ban Architects",
   "place": "Biel/Bienne, CH",
@@ -208717,7 +208265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tanzbrunnen-cologne",
-  "n": 2220,
+  "n": 2215,
   "name": "Tanzbrunnen (Star Wave Tent)",
   "by": "Frei Otto",
   "place": "Cologne, DE",
@@ -208793,7 +208341,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crematorium-hofheide",
-  "n": 2221,
+  "n": 2216,
   "name": "Crematorium Hofheide",
   "by": "RCR Arquitectes with Coussée & Goris",
   "place": "Holsbeek, BE",
@@ -208869,7 +208417,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nara-centennial-hall",
-  "n": 2222,
+  "n": 2217,
   "name": "Nara Centennial Hall",
   "by": "Arata Isozaki",
   "place": "Nara, JP",
@@ -208945,7 +208493,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marshall-building-lse",
-  "n": 2223,
+  "n": 2218,
   "name": "Marshall Building, London School of Economics",
   "by": "Grafton Architects (Yvonne Farrell, Shelley McNamara)",
   "place": "London, GB",
@@ -209021,7 +208569,7 @@ window.BUILDINGS = [
  },
  {
   "id": "opera-village-laongo",
-  "n": 2224,
+  "n": 2219,
   "name": "Opera Village (Operndorf Afrika)",
   "by": "Diébédo Francis Kéré",
   "place": "Laongo, BF",
@@ -209073,7 +208621,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunsthaus-zurich-extension",
-  "n": 2225,
+  "n": 2220,
   "name": "Kunsthaus Zürich Extension",
   "by": "David Chipperfield Architects",
   "place": "Zurich, CH",
@@ -209161,7 +208709,7 @@ window.BUILDINGS = [
  },
  {
   "id": "west-village-chengdu",
-  "n": 2226,
+  "n": 2221,
   "name": "West Village (Basis Yard)",
   "by": "Liu Jiakun (Jiakun Architects)",
   "place": "Chengdu, CN",
@@ -209225,7 +208773,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vik-winery",
-  "n": 2227,
+  "n": 2222,
   "name": "Viña Vik Winery",
   "by": "Smiljan Radić with Loreto Lyon",
   "place": "Millahue, CL",
@@ -209313,7 +208861,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fujisawa-municipal-gymnasium",
-  "n": 2228,
+  "n": 2223,
   "name": "Fujisawa Municipal Gymnasium (Akibadai)",
   "by": "Fumihiko Maki",
   "place": "Fujisawa, JP",
@@ -209365,7 +208913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-circle-zurich-airport",
-  "n": 2229,
+  "n": 2224,
   "name": "The Circle, Zurich Airport",
   "by": "Riken Yamamoto",
   "place": "Kloten, CH",
@@ -209479,7 +209027,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dominus-winery",
-  "n": 2230,
+  "n": 2225,
   "name": "Dominus Winery",
   "by": "Herzog & de Meuron",
   "place": "Yountville, US",
@@ -209519,7 +209067,7 @@ window.BUILDINGS = [
  },
  {
   "id": "emerson-college-los-angeles",
-  "n": 2231,
+  "n": 2226,
   "name": "Emerson College Los Angeles",
   "by": "Morphosis (Thom Mayne)",
   "place": "Los Angeles, US",
@@ -209633,7 +209181,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vulcania",
-  "n": 2232,
+  "n": 2227,
   "name": "Vulcania",
   "by": "Hans Hollein",
   "place": "Saint-Ours-les-Roches, FR",
@@ -209733,7 +209281,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinematheque-francaise",
-  "n": 2233,
+  "n": 2228,
   "name": "Cinémathèque française (former American Center)",
   "by": "Frank Gehry",
   "place": "Paris, FR",
@@ -209833,7 +209381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cables-wynd-house",
-  "n": 2234,
+  "n": 2229,
   "name": "Cables Wynd House",
   "by": "Alison & Hutchison & Partners",
   "place": "Edinburgh, GB",
@@ -209909,7 +209457,7 @@ window.BUILDINGS = [
  },
  {
   "id": "preston-bus-station",
-  "n": 2235,
+  "n": 2230,
   "name": "Preston Bus Station",
   "by": "Building Design Partnership (Keith Ingham, Charles Wilson) with Ove Arup & Partners",
   "place": "Preston, GB",
@@ -210009,7 +209557,7 @@ window.BUILDINGS = [
  },
  {
   "id": "apollo-pavilion",
-  "n": 2236,
+  "n": 2231,
   "name": "Apollo Pavilion",
   "by": "Victor Pasmore",
   "place": "Peterlee, GB",
@@ -210061,7 +209609,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kingsgate-bridge",
-  "n": 2237,
+  "n": 2232,
   "name": "Kingsgate Bridge",
   "by": "Ove Arup",
   "place": "Durham, GB",
@@ -210161,7 +209709,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dior-omotesando",
-  "n": 2238,
+  "n": 2233,
   "name": "Dior Omotesando",
   "by": "SANAA (Kazuyo Sejima and Ryue Nishizawa)",
   "place": "Tokyo, JP",
@@ -210249,7 +209797,7 @@ window.BUILDINGS = [
  },
  {
   "id": "media-tic",
-  "n": 2239,
+  "n": 2234,
   "name": "Media-TIC",
   "by": "Enric Ruiz-Geli (Cloud 9)",
   "place": "Barcelona, ES",
@@ -210349,7 +209897,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lochal",
-  "n": 2240,
+  "n": 2235,
   "name": "LocHal",
   "by": "Civic Architects, Braaksma & Roos, Inside Outside (Petra Blaisse)",
   "place": "Tilburg, NL",
@@ -210449,7 +209997,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dornbusch-church",
-  "n": 2241,
+  "n": 2236,
   "name": "Dornbusch Church",
   "by": "Meixner Schlüter Wendt",
   "place": "Frankfurt am Main, DE",
@@ -210513,7 +210061,7 @@ window.BUILDINGS = [
  },
  {
   "id": "unilever-haus-hamburg",
-  "n": 2242,
+  "n": 2237,
   "name": "Unilever-Haus",
   "by": "Behnisch Architekten",
   "place": "Hamburg, DE",
@@ -210627,7 +210175,7 @@ window.BUILDINGS = [
  },
  {
   "id": "city-of-justice-barcelona",
-  "n": 2243,
+  "n": 2238,
   "name": "City of Justice",
   "by": "David Chipperfield Architects, b720 Fermín Vázquez Arquitectos",
   "place": "Barcelona / L'Hospitalet de Llobregat, ES",
@@ -210717,7 +210265,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quay-quarter-tower",
-  "n": 2244,
+  "n": 2239,
   "name": "Quay Quarter Tower",
   "by": "3XN with BVN",
   "place": "Sydney, AU",
@@ -210817,7 +210365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aviva-stadium",
-  "n": 2245,
+  "n": 2240,
   "name": "Aviva Stadium",
   "by": "Populous with Scott Tallon Walker",
   "place": "Dublin, IE",
@@ -210931,7 +210479,7 @@ window.BUILDINGS = [
  },
  {
   "id": "max-aicher-arena",
-  "n": 2246,
+  "n": 2241,
   "name": "Max Aicher Arena",
   "by": "Behnisch Architekten with Pohl Architekten",
   "place": "Inzell, DE",
@@ -211007,7 +210555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kurilpa-bridge",
-  "n": 2247,
+  "n": 2242,
   "name": "Kurilpa Bridge",
   "by": "Cox Rayner Architects with Arup",
   "place": "Brisbane, AU",
@@ -211107,7 +210655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-childrens-hospital-melbourne",
-  "n": 2248,
+  "n": 2243,
   "name": "Royal Children's Hospital",
   "by": "Billard Leece Partnership and Bates Smart",
   "place": "Melbourne, AU",
@@ -211207,7 +210755,7 @@ window.BUILDINGS = [
  },
  {
   "id": "victoria-tower-kista",
-  "n": 2249,
+  "n": 2244,
   "name": "Victoria Tower",
   "by": "Wingårdh Arkitektkontor",
   "place": "Stockholm (Kista), SE",
@@ -211283,7 +210831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maersk-tower",
-  "n": 2250,
+  "n": 2245,
   "name": "Maersk Tower",
   "by": "C.F. Møller Architects",
   "place": "Copenhagen, DK",
@@ -211371,7 +210919,7 @@ window.BUILDINGS = [
  },
  {
   "id": "daikanyama-t-site",
-  "n": 2251,
+  "n": 2246,
   "name": "Daikanyama T-Site",
   "by": "Klein Dytham Architecture",
   "place": "Tokyo, JP",
@@ -211471,7 +211019,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dialogue-centre-przelomy",
-  "n": 2252,
+  "n": 2247,
   "name": "Dialogue Centre Przełomy",
   "by": "KWK Promes (Robert Konieczny)",
   "place": "Szczecin, PL",
@@ -211523,7 +211071,7 @@ window.BUILDINGS = [
  },
  {
   "id": "surat-diamond-bourse",
-  "n": 2253,
+  "n": 2248,
   "name": "Surat Diamond Bourse",
   "by": "Morphogenesis",
   "place": "Surat, IN",
@@ -211575,7 +211123,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qatar-faculty-of-islamic-studies",
-  "n": 2254,
+  "n": 2249,
   "name": "Qatar Faculty of Islamic Studies",
   "by": "Mangera Yvars Architects",
   "place": "Doha, QA",
@@ -211615,7 +211163,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arena-zagreb",
-  "n": 2255,
+  "n": 2250,
   "name": "Arena Zagreb",
   "by": "UPI-2M",
   "place": "Zagreb, HR",
@@ -211715,7 +211263,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-memoria-y-tolerancia",
-  "n": 2256,
+  "n": 2251,
   "name": "Museum of Memory and Tolerance",
   "by": "Arditti + RDT Arquitectos",
   "place": "Mexico City, MX",
@@ -211815,7 +211363,7 @@ window.BUILDINGS = [
  },
  {
   "id": "us-bank-stadium",
-  "n": 2257,
+  "n": 2252,
   "name": "U.S. Bank Stadium",
   "by": "HKS",
   "place": "Minneapolis, US",
@@ -211915,7 +211463,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tkts-booth-times-square",
-  "n": 2258,
+  "n": 2253,
   "name": "TKTS Booth, Father Duffy Square",
   "by": "Choi Ropiha, Perkins Eastman, PKSB Architects",
   "place": "New York City, US",
@@ -212015,7 +211563,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scale-lane-bridge",
-  "n": 2259,
+  "n": 2254,
   "name": "Scale Lane Bridge",
   "by": "McDowell+Benedetti",
   "place": "Kingston upon Hull, GB",
@@ -212115,7 +211663,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-jakarta-amsterdam",
-  "n": 2260,
+  "n": 2255,
   "name": "Hotel Jakarta",
   "by": "SeARCH",
   "place": "Amsterdam, NL",
@@ -212203,7 +211751,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ravenscar-house-museum",
-  "n": 2261,
+  "n": 2256,
   "name": "Ravenscar House Museum",
   "by": "Patterson Associates",
   "place": "Christchurch, NZ",
@@ -212243,7 +211791,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-childrens-hospital-zurich",
-  "n": 2262,
+  "n": 2257,
   "name": "University Children's Hospital Zurich",
   "by": "Herzog & de Meuron",
   "place": "Zurich, CH",
@@ -212283,7 +211831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sony-city-osaki",
-  "n": 2263,
+  "n": 2258,
   "name": "Sony City Osaki (NBF Osaki Building)",
   "by": "Nikken Sekkei",
   "place": "Tokyo, JP",
@@ -212323,7 +211871,7 @@ window.BUILDINGS = [
  },
  {
   "id": "belarusian-memorial-chapel",
-  "n": 2264,
+  "n": 2259,
   "name": "Belarusian Memorial Chapel",
   "by": "Spheron Architects (Tszwai So)",
   "place": "London, GB",
@@ -212423,7 +211971,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-saint-martins-granary",
-  "n": 2265,
+  "n": 2260,
   "name": "Central Saint Martins, Granary Building",
   "by": "Stanton Williams",
   "place": "London, GB",
@@ -212523,7 +212071,7 @@ window.BUILDINGS = [
  },
  {
   "id": "victoria-gate-leeds",
-  "n": 2266,
+  "n": 2261,
   "name": "Victoria Gate",
   "by": "ACME",
   "place": "Leeds, GB",
@@ -212623,7 +212171,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quzhou-stadium",
-  "n": 2267,
+  "n": 2262,
   "name": "Quzhou Stadium",
   "by": "MAD Architects",
   "place": "Quzhou, CN",
@@ -212663,7 +212211,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sara-kulturhus",
-  "n": 2268,
+  "n": 2263,
   "name": "Sara Kulturhus",
   "by": "White Arkitekter",
   "place": "Skellefteå, SE",
@@ -212763,7 +212311,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forskaren-stockholm",
-  "n": 2269,
+  "n": 2264,
   "name": "Forskaren",
   "by": "3XN",
   "place": "Stockholm, SE",
@@ -212863,7 +212411,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paula-fox-melanoma-and-cancer-centre",
-  "n": 2270,
+  "n": 2265,
   "name": "Paula Fox Melanoma and Cancer Centre",
   "by": "Lyons",
   "place": "Melbourne, AU",
@@ -212903,7 +212451,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queen-elizabeth-hall",
-  "n": 2271,
+  "n": 2266,
   "name": "Queen Elizabeth Hall",
   "by": "GLC Architects (Hubert Bennett, Jack Whittle, F. G. West, Geoffrey Horsefall)",
   "place": "London, GB",
@@ -212979,7 +212527,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brunswick-centre",
-  "n": 2272,
+  "n": 2267,
   "name": "Brunswick Centre",
   "by": "Patrick Hodgkinson",
   "place": "London, GB",
@@ -213079,7 +212627,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dunelm-house",
-  "n": 2273,
+  "n": 2268,
   "name": "Dunelm House",
   "by": "Architects' Co-Partnership (Richard Raines, Michael Powers) with Ove Arup",
   "place": "Durham, GB",
@@ -213155,7 +212703,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-of-education-london",
-  "n": 2274,
+  "n": 2269,
   "name": "Institute of Education",
   "by": "Denys Lasdun",
   "place": "London, GB",
@@ -213255,7 +212803,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wyndham-court",
-  "n": 2275,
+  "n": 2270,
   "name": "Wyndham Court",
   "by": "Lyons Israel Ellis (E. D. Lyons, Frank Linden, Aubrey Hume)",
   "place": "Southampton, GB",
@@ -213355,7 +212903,7 @@ window.BUILDINGS = [
  },
  {
   "id": "uea-ziggurats",
-  "n": 2276,
+  "n": 2271,
   "name": "University of East Anglia Ziggurats (Norfolk and Suffolk Terraces)",
   "by": "Denys Lasdun",
   "place": "Norwich, GB",
@@ -213443,7 +212991,7 @@ window.BUILDINGS = [
  },
  {
   "id": "boston-government-service-center",
-  "n": 2277,
+  "n": 2272,
   "name": "Boston Government Service Center",
   "by": "Paul Rudolph (coordinating architect), with Desmond & Lord and Shepley Bulfinch Richardson and Abbott",
   "place": "Boston, US",
@@ -213557,7 +213105,7 @@ window.BUILDINGS = [
  },
  {
   "id": "j-edgar-hoover-building",
-  "n": 2278,
+  "n": 2273,
   "name": "J. Edgar Hoover Building",
   "by": "C. F. Murphy and Associates (Stanislaw Z. Gladych)",
   "place": "Washington, D.C., US",
@@ -213657,7 +213205,7 @@ window.BUILDINGS = [
  },
  {
   "id": "temple-street-parking-garage",
-  "n": 2279,
+  "n": 2274,
   "name": "Temple Street Parking Garage",
   "by": "Paul Rudolph",
   "place": "New Haven, US",
@@ -213733,7 +213281,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wurster-hall",
-  "n": 2280,
+  "n": 2275,
   "name": "Wurster Hall",
   "by": "Joseph Esherick, Vernon DeMars, Donald Olsen",
   "place": "Berkeley, US",
@@ -213809,7 +213357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christian-science-plaza",
-  "n": 2281,
+  "n": 2276,
   "name": "Christian Science Plaza",
   "by": "Araldo Cossutta (I. M. Pei & Associates)",
   "place": "Boston, US",
@@ -213909,7 +213457,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hygiene-institute-berlin",
-  "n": 2282,
+  "n": 2277,
   "name": "Institute of Hygiene and Microbiology",
   "by": "Hermann Fehling, Daniel Gogel (Fehling+Gogel)",
   "place": "Berlin, DE",
@@ -213997,7 +213545,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-agnes-berlin",
-  "n": 2283,
+  "n": 2278,
   "name": "St. Agnes (König Galerie)",
   "by": "Werner Düttmann; conversion by Arno Brandlhuber",
   "place": "Berlin, DE",
@@ -214073,7 +213621,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schlangenbader-strasse",
-  "n": 2284,
+  "n": 2279,
   "name": "Schlangenbader Straße Housing (Die Schlange)",
   "by": "Georg Heinrichs, Wolf Bertelsmann, Gerhard and Klaus Detlev Krebs",
   "place": "Berlin, DE",
@@ -214173,7 +213721,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marl-town-hall",
-  "n": 2285,
+  "n": 2280,
   "name": "Marl Town Hall",
   "by": "Van den Broek en Bakema",
   "place": "Marl, DE",
@@ -214273,7 +213821,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rudo-eastern-city-gate",
-  "n": 2286,
+  "n": 2281,
   "name": "Eastern City Gate (Rudo)",
   "by": "Vera Ćirković (architect), Milutin Jerotijević (engineer)",
   "place": "Belgrade, RS",
@@ -214373,7 +213921,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macedonian-opera-and-ballet",
-  "n": 2287,
+  "n": 2282,
   "name": "Macedonian Opera and Ballet",
   "by": "Biro 71 (Štefan Kacin, Jurij Princes, Bogdan Spindler, Marjan Uršič)",
   "place": "Skopje, MK",
@@ -214461,7 +214009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ruhr-university-bochum",
-  "n": 2288,
+  "n": 2283,
   "name": "Ruhr University Bochum",
   "by": "Hentrich, Petschnigg & Partner (Helmut Hentrich)",
   "place": "Bochum, DE",
@@ -214561,7 +214109,7 @@ window.BUILDINGS = [
  },
  {
   "id": "goce-delcev-dormitory",
-  "n": 2289,
+  "n": 2284,
   "name": "Goce Delčev Student Dormitory",
   "by": "Georgi Konstantinovski",
   "place": "Skopje, MK",
@@ -214649,7 +214197,7 @@ window.BUILDINGS = [
  },
  {
   "id": "house-of-soviets-kaliningrad",
-  "n": 2290,
+  "n": 2285,
   "name": "House of Soviets",
   "by": "Yulian Schwarzbreim (TsNIIEP)",
   "place": "Kaliningrad, RU",
@@ -214749,7 +214297,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-thermal-karlovy-vary",
-  "n": 2291,
+  "n": 2286,
   "name": "Hotel Thermal",
   "by": "Věra and Vladimír Machonin",
   "place": "Karlovy Vary, CZ",
@@ -214849,7 +214397,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tass-building-moscow",
-  "n": 2292,
+  "n": 2287,
   "name": "TASS Building",
   "by": "Viktor Yegerev",
   "place": "Moscow, RU",
@@ -214937,7 +214485,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kotva-department-store",
-  "n": 2293,
+  "n": 2288,
   "name": "Kotva Department Store",
   "by": "Věra and Vladimír Machonin",
   "place": "Prague, CZ",
@@ -215025,7 +214573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "superjednostka",
-  "n": 2294,
+  "n": 2289,
   "name": "Superjednostka",
   "by": "Mieczysław Król",
   "place": "Katowice, PL",
@@ -215125,7 +214673,7 @@ window.BUILDINGS = [
  },
  {
   "id": "inter-university-seminar-house",
-  "n": 2295,
+  "n": 2290,
   "name": "Inter-University Seminar House",
   "by": "Takamasa Yoshizaka (Atelier U)",
   "place": "Hachiōji, JP",
@@ -215225,7 +214773,7 @@ window.BUILDINGS = [
  },
  {
   "id": "athenee-francais-tokyo",
-  "n": 2296,
+  "n": 2291,
   "name": "Athénée Français",
   "by": "Takamasa Yoshizaka",
   "place": "Tokyo, JP",
@@ -215289,7 +214837,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bunkier-sztuki",
-  "n": 2297,
+  "n": 2292,
   "name": "Bunkier Sztuki",
   "by": "Krystyna Tołłoczko-Różyska; facade by Stefan Borzęcki and Antoni Hajdecki",
   "place": "Kraków, PL",
@@ -215377,7 +214925,7 @@ window.BUILDINGS = [
  },
  {
   "id": "imabari-city-hall",
-  "n": 2298,
+  "n": 2293,
   "name": "Imabari City Hall",
   "by": "Kenzō Tange",
   "place": "Imabari, JP",
@@ -215453,7 +215001,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harold-holt-swimming-centre",
-  "n": 2299,
+  "n": 2294,
   "name": "Harold Holt Memorial Swimming Centre",
   "by": "Kevin Borland and Daryl Jackson",
   "place": "Melbourne, AU",
@@ -215541,7 +215089,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queensland-art-gallery",
-  "n": 2300,
+  "n": 2295,
   "name": "Queensland Art Gallery",
   "by": "Robin Gibson",
   "place": "Brisbane, AU",
@@ -215641,7 +215189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cameron-offices",
-  "n": 2301,
+  "n": 2296,
   "name": "Cameron Offices",
   "by": "John Andrews",
   "place": "Canberra, AU",
@@ -215741,7 +215289,7 @@ window.BUILDINGS = [
  },
  {
   "id": "golden-mile-complex",
-  "n": 2302,
+  "n": 2297,
   "name": "Golden Mile Complex",
   "by": "Design Partnership (Gan Eng Oon, William Lim, Tay Kheng Soon)",
   "place": "Singapore, SG",
@@ -215843,7 +215391,7 @@ window.BUILDINGS = [
  },
  {
   "id": "regenstein-library",
-  "n": 2303,
+  "n": 2298,
   "name": "Joseph Regenstein Library",
   "by": "Walter Netsch (Skidmore, Owings & Merrill)",
   "place": "Chicago, US",
@@ -215943,7 +215491,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scarborough-college-andrews-building",
-  "n": 2304,
+  "n": 2299,
   "name": "Scarborough College (Andrews Building)",
   "by": "John Andrews",
   "place": "Toronto, CA",
@@ -216043,7 +215591,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miami-marine-stadium",
-  "n": 2305,
+  "n": 2300,
   "name": "Miami Marine Stadium",
   "by": "Hilario Candela",
   "place": "Miami, US",
@@ -216083,7 +215631,7 @@ window.BUILDINGS = [
  },
  {
   "id": "slovak-national-gallery-extension",
-  "n": 2306,
+  "n": 2301,
   "name": "Slovak National Gallery Extension",
   "by": "Vladimír Dedeček; renovation by Architekti BKPŠ",
   "place": "Bratislava, SK",
@@ -216183,7 +215731,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-hall-lethbridge",
-  "n": 2307,
+  "n": 2302,
   "name": "University Hall, University of Lethbridge",
   "by": "Arthur Erickson",
   "place": "Lethbridge, CA",
@@ -216259,7 +215807,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-arts-centre-ottawa",
-  "n": 2308,
+  "n": 2303,
   "name": "National Arts Centre",
   "by": "Fred Lebensold (ARCOP)",
   "place": "Ottawa, CA",
@@ -216359,7 +215907,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hillbrow-tower",
-  "n": 2309,
+  "n": 2304,
   "name": "Hillbrow Tower (Telkom Joburg Tower)",
   "by": "South African Posts & Telecommunications (client); designers not credited in sources",
   "place": "Johannesburg, ZA",
@@ -216459,7 +216007,7 @@ window.BUILDINGS = [
  },
  {
   "id": "most-snp-bratislava",
-  "n": 2310,
+  "n": 2305,
   "name": "Most SNP (UFO Bridge)",
   "by": "Arpád Tesár, Jozef Lacko, Ivan Slameň",
   "place": "Bratislava, SK",
@@ -216586,7 +216134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-carillon-canberra",
-  "n": 2311,
+  "n": 2306,
   "name": "National Carillon",
   "by": "Cameron Chisholm Nicol (Don Ho)",
   "place": "Canberra, AU",
@@ -216686,7 +216234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "majdanek-mausoleum",
-  "n": 2312,
+  "n": 2307,
   "name": "Majdanek Mausoleum",
   "by": "Wiktor Tołkin, Janusz Dembek",
   "place": "Lublin, PL",
@@ -216774,7 +216322,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hiroshima-moca",
-  "n": 2313,
+  "n": 2308,
   "name": "Hiroshima City Museum of Contemporary Art",
   "by": "Kisho Kurokawa",
   "place": "Hiroshima, JP",
@@ -216874,7 +216422,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirishima-concert-hall",
-  "n": 2314,
+  "n": 2309,
   "name": "Kirishima International Concert Hall (Miyama Conseru)",
   "by": "Fumihiko Maki",
   "place": "Kirishima, JP",
@@ -216950,7 +216498,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kumamoto-prefectural-museum-of-art",
-  "n": 2315,
+  "n": 2310,
   "name": "Kumamoto Prefectural Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Kumamoto, JP",
@@ -217038,7 +216586,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lee-ufan-museum",
-  "n": 2316,
+  "n": 2311,
   "name": "Lee Ufan Museum",
   "by": "Tadao Ando",
   "place": "Naoshima, JP",
@@ -217126,7 +216674,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matsumoto-performing-arts-centre",
-  "n": 2317,
+  "n": 2312,
   "name": "Matsumoto Performing Arts Centre",
   "by": "Toyo Ito",
   "place": "Matsumoto, JP",
@@ -217202,7 +216750,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mikimoto-ginza-2",
-  "n": 2318,
+  "n": 2313,
   "name": "Mikimoto Ginza 2",
   "by": "Toyo Ito",
   "place": "Tokyo, JP",
@@ -217278,7 +216826,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-modern-art-saitama",
-  "n": 2319,
+  "n": 2314,
   "name": "Museum of Modern Art, Saitama",
   "by": "Kisho Kurokawa",
   "place": "Saitama, JP",
@@ -217354,7 +216902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nagoya-city-art-museum",
-  "n": 2320,
+  "n": 2315,
   "name": "Nagoya City Art Museum",
   "by": "Kisho Kurokawa",
   "place": "Nagoya, JP",
@@ -217442,7 +216990,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-modern-art-kyoto",
-  "n": 2321,
+  "n": 2316,
   "name": "National Museum of Modern Art, Kyoto",
   "by": "Fumihiko Maki",
   "place": "Kyoto, JP",
@@ -217542,7 +217090,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alila-villas-uluwatu",
-  "n": 2322,
+  "n": 2317,
   "name": "Alila Villas Uluwatu",
   "by": "WOHA",
   "place": "Uluwatu, Bali, ID",
@@ -217618,7 +217166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-suhe-mixc-world",
-  "n": 2323,
+  "n": 2318,
   "name": "Shanghai Suhe MixC World",
   "by": "Kokaistudios",
   "place": "Shanghai, CN",
@@ -217658,7 +217206,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dalarna-media-library",
-  "n": 2324,
+  "n": 2319,
   "name": "Dalarna Media Library",
   "by": "ADEPT",
   "place": "Falun, SE",
@@ -217734,7 +217282,7 @@ window.BUILDINGS = [
  },
  {
   "id": "london-bridge-station-redevelopment",
-  "n": 2325,
+  "n": 2320,
   "name": "London Bridge Station",
   "by": "Grimshaw",
   "place": "London, GB",
@@ -217874,7 +217422,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lanserhof-sylt",
-  "n": 2326,
+  "n": 2321,
   "name": "Lanserhof Sylt",
   "by": "ingenhoven associates",
   "place": "List auf Sylt, DE",
@@ -217914,7 +217462,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nissay-theatre",
-  "n": 2327,
+  "n": 2322,
   "name": "Nissay Theatre (Nippon Life Hibiya Building)",
   "by": "Togo Murano",
   "place": "Tokyo, JP",
@@ -218014,7 +217562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "odate-jukai-dome",
-  "n": 2328,
+  "n": 2323,
   "name": "Odate Jukai Dome",
   "by": "Toyo Ito",
   "place": "Odate, JP",
@@ -218114,7 +217662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sayamaike-historical-museum",
-  "n": 2329,
+  "n": 2324,
   "name": "Osaka Prefectural Sayamaike Museum",
   "by": "Tadao Ando",
   "place": "Osakasayama, JP",
@@ -218190,7 +217738,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kadokawa-culture-museum",
-  "n": 2330,
+  "n": 2325,
   "name": "Kadokawa Culture Museum",
   "by": "Kengo Kuma",
   "place": "Tokorozawa, JP",
@@ -218290,7 +217838,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kurashiki-ivy-square",
-  "n": 2331,
+  "n": 2326,
   "name": "Kurashiki Ivy Square",
   "by": "Shizutaro Urabe",
   "place": "Kurashiki, JP",
@@ -218390,7 +217938,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-japanese-history",
-  "n": 2332,
+  "n": 2327,
   "name": "National Museum of Japanese History",
   "by": "Yoshinobu Ashihara",
   "place": "Sakura, JP",
@@ -218490,7 +218038,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shinjuku-park-tower",
-  "n": 2333,
+  "n": 2328,
   "name": "Shinjuku Park Tower",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -218590,7 +218138,7 @@ window.BUILDINGS = [
  },
  {
   "id": "embassy-of-kuwait-tokyo",
-  "n": 2334,
+  "n": 2329,
   "name": "Embassy of Kuwait, Tokyo",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -218666,7 +218214,7 @@ window.BUILDINGS = [
  },
  {
   "id": "komazawa-olympic-park-control-tower",
-  "n": 2335,
+  "n": 2330,
   "name": "Komazawa Olympic Park Control Tower and Gymnasium",
   "by": "Yoshinobu Ashihara",
   "place": "Tokyo, JP",
@@ -218754,7 +218302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-stadium",
-  "n": 2336,
+  "n": 2331,
   "name": "Miyagi Stadium",
   "by": "Hitoshi Abe",
   "place": "Rifu, JP",
@@ -218830,7 +218378,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toyota-stadium",
-  "n": 2337,
+  "n": 2332,
   "name": "Toyota Stadium",
   "by": "Kisho Kurokawa",
   "place": "Toyota, JP",
@@ -218918,7 +218466,7 @@ window.BUILDINGS = [
  },
  {
   "id": "noa-building",
-  "n": 2338,
+  "n": 2333,
   "name": "NOA Building",
   "by": "Seiichi Shirai",
   "place": "Tokyo, JP",
@@ -218994,7 +218542,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-nations-university",
-  "n": 2339,
+  "n": 2334,
   "name": "United Nations University Headquarters",
   "by": "Kenzo Tange",
   "place": "Tokyo, JP",
@@ -219094,7 +218642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "onagawa-station",
-  "n": 2340,
+  "n": 2335,
   "name": "Onagawa Station",
   "by": "Shigeru Ban",
   "place": "Onagawa, JP",
@@ -219182,7 +218730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sakaide-artificial-ground",
-  "n": 2341,
+  "n": 2336,
   "name": "Sakaide Artificial Ground",
   "by": "Masato Otaka",
   "place": "Sakaide, JP",
@@ -219258,7 +218806,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shonandai-cultural-center",
-  "n": 2342,
+  "n": 2337,
   "name": "Shonandai Cultural Center",
   "by": "Itsuko Hasegawa",
   "place": "Fujisawa, JP",
@@ -219334,7 +218882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shoto-museum-of-art",
-  "n": 2343,
+  "n": 2338,
   "name": "Shoto Museum of Art",
   "by": "Seiichi Shirai",
   "place": "Tokyo, JP",
@@ -219410,7 +218958,7 @@ window.BUILDINGS = [
  },
  {
   "id": "takanawa-gateway-station",
-  "n": 2344,
+  "n": 2339,
   "name": "Takanawa Gateway Station",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -219510,7 +219058,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gunma-music-center",
-  "n": 2345,
+  "n": 2340,
   "name": "Gunma Music Center",
   "by": "Antonin Raymond",
   "place": "Takasaki, JP",
@@ -219586,7 +219134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kasumigaseki-building",
-  "n": 2346,
+  "n": 2341,
   "name": "Kasumigaseki Building",
   "by": "Yamashita Sekkei with Mitsui Fudosan",
   "place": "Tokyo, JP",
@@ -219662,7 +219210,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kabukiza",
-  "n": 2347,
+  "n": 2342,
   "name": "Kabuki-za (2013)",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -219762,7 +219310,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yatsushiro-municipal-museum",
-  "n": 2348,
+  "n": 2343,
   "name": "Yatsushiro Municipal Museum",
   "by": "Toyo Ito",
   "place": "Yatsushiro, JP",
@@ -219802,7 +219350,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-modern-art-kamakura",
-  "n": 2349,
+  "n": 2344,
   "name": "Museum of Modern Art, Kamakura (Kamakura Bunkakan Tsurugaoka Museum)",
   "by": "Junzo Sakakura",
   "place": "Kamakura, JP",
@@ -219890,7 +219438,7 @@ window.BUILDINGS = [
  },
  {
   "id": "meguro-city-office",
-  "n": 2350,
+  "n": 2345,
   "name": "Meguro City Office (former Chiyoda Life Insurance HQ)",
   "by": "Togo Murano",
   "place": "Tokyo, JP",
@@ -219954,7 +219502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nippon-budokan",
-  "n": 2351,
+  "n": 2346,
   "name": "Nippon Budokan",
   "by": "Mamoru Yamada",
   "place": "Tokyo, JP",
@@ -220054,7 +219602,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kyoto-tower",
-  "n": 2352,
+  "n": 2347,
   "name": "Kyoto Tower",
   "by": "Mamoru Yamada",
   "place": "Kyoto, JP",
@@ -220154,7 +219702,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toyoda-auditorium",
-  "n": 2353,
+  "n": 2348,
   "name": "Toyoda Auditorium, Nagoya University",
   "by": "Fumihiko Maki",
   "place": "Nagoya, JP",
@@ -220230,7 +219778,7 @@ window.BUILDINGS = [
  },
  {
   "id": "granship",
-  "n": 2354,
+  "n": 2349,
   "name": "Shizuoka Convention and Arts Center (Granship)",
   "by": "Arata Isozaki",
   "place": "Shizuoka, JP",
@@ -220306,7 +219854,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nagi-moca",
-  "n": 2355,
+  "n": 2350,
   "name": "Nagi Museum of Contemporary Art",
   "by": "Arata Isozaki",
   "place": "Nagi, JP",
@@ -220358,7 +219906,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mount-fuji-world-heritage-centre",
-  "n": 2356,
+  "n": 2351,
   "name": "Mt. Fuji World Heritage Centre, Shizuoka",
   "by": "Shigeru Ban",
   "place": "Fujinomiya, JP",
@@ -220458,7 +220006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "za-koenji",
-  "n": 2357,
+  "n": 2352,
   "name": "Za-Koenji Public Theatre",
   "by": "Toyo Ito",
   "place": "Tokyo, JP",
@@ -220534,7 +220082,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aore-nagaoka",
-  "n": 2358,
+  "n": 2353,
   "name": "Aore Nagaoka City Hall",
   "by": "Kengo Kuma",
   "place": "Nagaoka, JP",
@@ -220634,7 +220182,7 @@ window.BUILDINGS = [
  },
  {
   "id": "starbucks-dazaifu",
-  "n": 2359,
+  "n": 2354,
   "name": "Starbucks Coffee, Dazaifu Tenmangu Omotesando",
   "by": "Kengo Kuma",
   "place": "Dazaifu, JP",
@@ -220722,7 +220270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prince-kyoto-takaragaike",
-  "n": 2360,
+  "n": 2355,
   "name": "The Prince Kyoto Takaragaike (Kyoto Takaragaike Prince Hotel)",
   "by": "Togo Murano",
   "place": "Kyoto, JP",
@@ -220798,7 +220346,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-tokoen",
-  "n": 2361,
+  "n": 2356,
   "name": "Hotel Tokoen",
   "by": "Kiyonori Kikutake",
   "place": "Yonago, JP",
@@ -220850,7 +220398,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shiroiya-hotel",
-  "n": 2362,
+  "n": 2357,
   "name": "Shiroiya Hotel",
   "by": "Sou Fujimoto",
   "place": "Maebashi, JP",
@@ -220890,7 +220438,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aalto-university-undergraduate-centre",
-  "n": 2363,
+  "n": 2358,
   "name": "Aalto University Undergraduate Centre (Otaniemi main building)",
   "by": "Alvar Aalto",
   "place": "Espoo, FI",
@@ -220990,7 +220538,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirjatalo-academic-bookstore",
-  "n": 2364,
+  "n": 2359,
   "name": "Academic Bookstore (Kirjatalo)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -221090,7 +220638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alvar-aalto-museum-jyvaskyla",
-  "n": 2365,
+  "n": 2360,
   "name": "Alvar Aalto Museum",
   "by": "Alvar Aalto",
   "place": "Jyväskylä, FI",
@@ -221166,7 +220714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amos-rex",
-  "n": 2366,
+  "n": 2361,
   "name": "Amos Rex",
   "by": "JKMM Architects",
   "place": "Helsinki, FI",
@@ -221280,7 +220828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "den-bla-planet",
-  "n": 2367,
+  "n": 2362,
   "name": "Den Blå Planet (National Aquarium Denmark)",
   "by": "3XN",
   "place": "Kastrup, DK",
@@ -221380,7 +220928,7 @@ window.BUILDINGS = [
  },
  {
   "id": "copenhagen-police-headquarters",
-  "n": 2368,
+  "n": 2363,
   "name": "Copenhagen Police Headquarters (Politigården)",
   "by": "Hack Kampmann, Aage Rafn",
   "place": "Copenhagen, DK",
@@ -221480,7 +221028,7 @@ window.BUILDINGS = [
  },
  {
   "id": "enso-gutzeit-headquarters",
-  "n": 2369,
+  "n": 2364,
   "name": "Enso-Gutzeit Headquarters (Stora Enso)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -221580,7 +221128,7 @@ window.BUILDINGS = [
  },
  {
   "id": "filmhuset-stockholm",
-  "n": 2370,
+  "n": 2365,
   "name": "Filmhuset",
   "by": "Peter Celsing",
   "place": "Stockholm, SE",
@@ -221656,7 +221204,7 @@ window.BUILDINGS = [
  },
  {
   "id": "henie-onstad-kunstsenter",
-  "n": 2371,
+  "n": 2366,
   "name": "Henie Onstad Kunstsenter",
   "by": "Jon Eikvar, Sven Erik Engebretsen",
   "place": "Bærum, NO",
@@ -221756,7 +221304,7 @@ window.BUILDINGS = [
  },
  {
   "id": "holmenkollbakken",
-  "n": 2372,
+  "n": 2367,
   "name": "Holmenkollbakken ski jump",
   "by": "JDS Architects",
   "place": "Oslo, NO",
@@ -221856,7 +221404,7 @@ window.BUILDINGS = [
  },
  {
   "id": "moderna-museet-malmo",
-  "n": 2373,
+  "n": 2368,
   "name": "Moderna Museet Malmö",
   "by": "Tham & Videgård Arkitekter",
   "place": "Malmö, SE",
@@ -221932,7 +221480,7 @@ window.BUILDINGS = [
  },
  {
   "id": "malmo-konsthall",
-  "n": 2374,
+  "n": 2369,
   "name": "Malmö Konsthall",
   "by": "Klas Anshelm",
   "place": "Malmö, SE",
@@ -222008,7 +221556,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sanomatalo",
-  "n": 2375,
+  "n": 2370,
   "name": "Sanomatalo",
   "by": "Jan Söderlund, Antti-Matti Siikala",
   "place": "Helsinki, FI",
@@ -222108,7 +221656,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seinajoki-city-hall",
-  "n": 2376,
+  "n": 2371,
   "name": "Seinäjoki City Hall",
   "by": "Alvar Aalto",
   "place": "Seinäjoki, FI",
@@ -222184,7 +221732,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sibelius-hall",
-  "n": 2377,
+  "n": 2372,
   "name": "Sibelius Hall",
   "by": "Kimmo Lintula, Hannu Tikka",
   "place": "Lahti, FI",
@@ -222272,7 +221820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "soholm-row-houses",
-  "n": 2378,
+  "n": 2373,
   "name": "Søholm Row Houses",
   "by": "Arne Jacobsen",
   "place": "Klampenborg, DK",
@@ -222336,7 +221884,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stegastein-viewpoint",
-  "n": 2379,
+  "n": 2374,
   "name": "Stegastein Viewpoint",
   "by": "Todd Saunders, Tommie Wilhelmsen",
   "place": "Aurland, NO",
@@ -222436,7 +221984,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stockholm-city-hall",
-  "n": 2380,
+  "n": 2375,
   "name": "Stockholm City Hall",
   "by": "Ragnar Östberg",
   "place": "Stockholm, SE",
@@ -222552,7 +222100,7 @@ window.BUILDINGS = [
  },
  {
   "id": "viikki-church",
-  "n": 2381,
+  "n": 2376,
   "name": "Viikki Church",
   "by": "JKMM Architects (Samuli Miettinen)",
   "place": "Helsinki, FI",
@@ -222652,7 +222200,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harlanda-church",
-  "n": 2382,
+  "n": 2377,
   "name": "Härlanda Church",
   "by": "Peter Celsing",
   "place": "Gothenburg, SE",
@@ -222740,7 +222288,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universeum",
-  "n": 2383,
+  "n": 2378,
   "name": "Universeum",
   "by": "Gert Wingårdh",
   "place": "Gothenburg, SE",
@@ -222840,7 +222388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsinki-olympic-stadium",
-  "n": 2384,
+  "n": 2379,
   "name": "Helsinki Olympic Stadium",
   "by": "Yrjö Lindegren, Toivo Jäntti",
   "place": "Helsinki, FI",
@@ -222940,7 +222488,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsingborg-concert-hall",
-  "n": 2385,
+  "n": 2380,
   "name": "Helsingborg Concert Hall",
   "by": "Sven Markelius",
   "place": "Helsingborg, SE",
@@ -223040,7 +222588,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuokkala-church",
-  "n": 2386,
+  "n": 2381,
   "name": "Kuokkala Church",
   "by": "Lassila Hirvilammi (Anssi Lassila, Teemu Hirvilammi, Jani Jansson)",
   "place": "Jyväskylä, FI",
@@ -223116,7 +222664,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lieksa-church",
-  "n": 2387,
+  "n": 2382,
   "name": "Lieksa Church",
   "by": "Reima Pietilä, Raili Pietilä",
   "place": "Lieksa, FI",
@@ -223216,7 +222764,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lister-county-courthouse",
-  "n": 2388,
+  "n": 2383,
   "name": "Lister County Courthouse",
   "by": "Gunnar Asplund",
   "place": "Sölvesborg, SE",
@@ -223292,7 +222840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "loyly-helsinki",
-  "n": 2389,
+  "n": 2384,
   "name": "Löyly",
   "by": "Avanto Architects",
   "place": "Helsinki, FI",
@@ -223392,7 +222940,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lund-konsthall",
-  "n": 2390,
+  "n": 2385,
   "name": "Lund Konsthall",
   "by": "Klas Anshelm",
   "place": "Lund, SE",
@@ -223468,7 +223016,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riksbank-building-stockholm",
-  "n": 2391,
+  "n": 2386,
   "name": "Sveriges Riksbank Building",
   "by": "Peter Celsing",
   "place": "Stockholm, SE",
@@ -223568,7 +223116,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-henrys-ecumenical-art-chapel",
-  "n": 2392,
+  "n": 2387,
   "name": "St. Henry's Ecumenical Art Chapel",
   "by": "Sanaksenaho Architects (Matti Sanaksenaho)",
   "place": "Turku, FI",
@@ -223668,7 +223216,7 @@ window.BUILDINGS = [
  },
  {
   "id": "akureyrarkirkja",
-  "n": 2393,
+  "n": 2388,
   "name": "Akureyrarkirkja",
   "by": "Guðjón Samúelsson",
   "place": "Akureyri, IS",
@@ -223756,7 +223304,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deichman-bjorvika",
-  "n": 2394,
+  "n": 2389,
   "name": "Deichman Bjørvika (Oslo Public Library)",
   "by": "Lundhagem, Atelier Oslo",
   "place": "Oslo, NO",
@@ -223856,7 +223404,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dokk1",
-  "n": 2395,
+  "n": 2390,
   "name": "Dokk1",
   "by": "Schmidt Hammer Lassen Architects, Kristine Jensen",
   "place": "Aarhus, DK",
@@ -223956,7 +223504,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gothenburg-concert-hall",
-  "n": 2396,
+  "n": 2391,
   "name": "Gothenburg Concert Hall",
   "by": "Nils Einar Eriksson",
   "place": "Gothenburg, SE",
@@ -224056,7 +223604,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gothenburg-law-courts-extension",
-  "n": 2397,
+  "n": 2392,
   "name": "Gothenburg Law Courts Extension",
   "by": "Gunnar Asplund",
   "place": "Gothenburg, SE",
@@ -224156,7 +223704,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hornbaekhus",
-  "n": 2398,
+  "n": 2393,
   "name": "Hornbækhus",
   "by": "Kay Fisker",
   "place": "Copenhagen, DK",
@@ -224256,7 +223804,7 @@ window.BUILDINGS = [
  },
  {
   "id": "orestad-gymnasium",
-  "n": 2399,
+  "n": 2394,
   "name": "Ørestad Gymnasium",
   "by": "3XN",
   "place": "Copenhagen, DK",
@@ -224320,7 +223868,7 @@ window.BUILDINGS = [
  },
  {
   "id": "icefjord-centre-ilulissat",
-  "n": 2400,
+  "n": 2395,
   "name": "Ilulissat Icefjord Centre",
   "by": "Dorte Mandrup",
   "place": "Ilulissat, GL",
@@ -224372,7 +223920,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nordic-house-torshavn",
-  "n": 2401,
+  "n": 2396,
   "name": "Nordic House in the Faroe Islands",
   "by": "Ola Steen, Kolbrún Ragnarsdóttir",
   "place": "Tórshavn, FO",
@@ -224460,7 +224008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "powerhouse-brattorkaia",
-  "n": 2402,
+  "n": 2397,
   "name": "Powerhouse Brattørkaia",
   "by": "Snøhetta",
   "place": "Trondheim, NO",
@@ -224536,7 +224084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reykjavik-city-hall",
-  "n": 2403,
+  "n": 2398,
   "name": "Reykjavík City Hall",
   "by": "Studio Granda",
   "place": "Reykjavík, IS",
@@ -224626,7 +224174,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sdu-campus-kolding",
-  "n": 2404,
+  "n": 2399,
   "name": "SDU Campus Kolding",
   "by": "Henning Larsen Architects",
   "place": "Kolding, DK",
@@ -224726,7 +224274,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-hallvard-church-oslo",
-  "n": 2405,
+  "n": 2400,
   "name": "St. Hallvard Church and Monastery",
   "by": "Lund & Slaatto (Kjell Lund, Nils Slaatto)",
   "place": "Oslo, NO",
@@ -224826,7 +224374,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stockholm-concert-hall",
-  "n": 2406,
+  "n": 2401,
   "name": "Stockholm Concert Hall",
   "by": "Ivar Tengbom",
   "place": "Stockholm, SE",
@@ -224953,7 +224501,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tautra-mariakloster",
-  "n": 2407,
+  "n": 2402,
   "name": "Tautra Mariakloster (convent)",
   "by": "Jensen & Skodvin",
   "place": "Frosta, NO",
@@ -225067,7 +224615,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-twist-kistefos",
-  "n": 2408,
+  "n": 2403,
   "name": "The Twist",
   "by": "BIG (Bjarke Ingels Group)",
   "place": "Jevnaker, NO",
@@ -225167,7 +224715,7 @@ window.BUILDINGS = [
  },
  {
   "id": "under-restaurant",
-  "n": 2409,
+  "n": 2404,
   "name": "Under",
   "by": "Snøhetta",
   "place": "Lindesnes, NO",
@@ -225243,7 +224791,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wadden-sea-centre",
-  "n": 2410,
+  "n": 2405,
   "name": "Wadden Sea Centre",
   "by": "Dorte Mandrup",
   "place": "Vester Vedsted, DK",
@@ -225343,7 +224891,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kela-main-office",
-  "n": 2411,
+  "n": 2406,
   "name": "Kela Main Office (National Pensions Institute)",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -225395,7 +224943,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kth-school-of-architecture",
-  "n": 2412,
+  "n": 2407,
   "name": "KTH School of Architecture",
   "by": "Tham & Videgård Arkitekter",
   "place": "Stockholm, SE",
@@ -225471,7 +225019,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fragrant-hill-hotel",
-  "n": 2413,
+  "n": 2408,
   "name": "Fragrant Hill Hotel",
   "by": "I. M. Pei",
   "place": "Beijing, CN",
@@ -225571,7 +225119,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-mausoleum",
-  "n": 2414,
+  "n": 2409,
   "name": "Sun Yat-sen Mausoleum",
   "by": "Lü Yanzhi",
   "place": "Nanjing, CN",
@@ -225659,7 +225207,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiang-kai-shek-memorial-hall",
-  "n": 2415,
+  "n": 2410,
   "name": "Chiang Kai-shek Memorial Hall",
   "by": "Yang Cho-cheng",
   "place": "Taipei, TW",
@@ -225749,7 +225297,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-memorial-hall-taipei",
-  "n": 2416,
+  "n": 2411,
   "name": "National Dr. Sun Yat-sen Memorial Hall",
   "by": "Wang Da-hong",
   "place": "Taipei, TW",
@@ -225825,7 +225373,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-yat-sen-memorial-hall-guangzhou",
-  "n": 2417,
+  "n": 2412,
   "name": "Sun Yat-sen Memorial Hall, Guangzhou",
   "by": "Lü Yanzhi",
   "place": "Guangzhou, CN",
@@ -225901,7 +225449,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cultural-palace-of-nationalities",
-  "n": 2418,
+  "n": 2413,
   "name": "Cultural Palace of Nationalities",
   "by": "Zhang Bo",
   "place": "Beijing, CN",
@@ -225989,7 +225537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-palace-museum-taipei",
-  "n": 2419,
+  "n": 2414,
   "name": "National Palace Museum",
   "by": "Huang Pao-yu",
   "place": "Taipei, TW",
@@ -226089,7 +225637,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ordos-museum",
-  "n": 2420,
+  "n": 2415,
   "name": "Ordos Museum",
   "by": "MAD Architects (Ma Yansong)",
   "place": "Ordos, CN",
@@ -226165,7 +225713,7 @@ window.BUILDINGS = [
  },
  {
   "id": "leeza-soho",
-  "n": 2421,
+  "n": 2416,
   "name": "Leeza SOHO",
   "by": "Zaha Hadid Architects",
   "place": "Beijing, CN",
@@ -226265,7 +225813,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-hotel-sassoon-house",
-  "n": 2422,
+  "n": 2417,
   "name": "Peace Hotel (Sassoon House)",
   "by": "Palmer and Turner",
   "place": "Shanghai, CN",
@@ -226365,7 +225913,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ningbo-museum-of-art",
-  "n": 2423,
+  "n": 2418,
   "name": "Ningbo Museum of Art",
   "by": "Wang Shu, Amateur Architecture Studio",
   "place": "Ningbo, CN",
@@ -226441,7 +225989,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sheraton-huzhou-hot-spring-resort",
-  "n": 2424,
+  "n": 2419,
   "name": "Sheraton Huzhou Hot Spring Resort",
   "by": "MAD Architects (Ma Yansong)",
   "place": "Huzhou, CN",
@@ -226517,7 +226065,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-daxing-airport-terminal",
-  "n": 2425,
+  "n": 2420,
   "name": "Beijing Daxing International Airport Terminal",
   "by": "Zaha Hadid Architects, ADPI",
   "place": "Beijing, CN",
@@ -226569,7 +226117,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shenzhen-stock-exchange",
-  "n": 2426,
+  "n": 2421,
   "name": "Shenzhen Stock Exchange",
   "by": "OMA",
   "place": "Shenzhen, CN",
@@ -226683,7 +226231,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-government-complex-tamar",
-  "n": 2427,
+  "n": 2422,
   "name": "Central Government Complex, Tamar",
   "by": "Rocco Yim (Rocco Design Architects)",
   "place": "Hong Kong, HK",
@@ -226783,7 +226331,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jardine-house",
-  "n": 2428,
+  "n": 2423,
   "name": "Jardine House",
   "by": "Palmer and Turner",
   "place": "Hong Kong, HK",
@@ -226897,7 +226445,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xiqu-centre",
-  "n": 2429,
+  "n": 2424,
   "name": "Xiqu Centre",
   "by": "Revery Architecture, Ronald Lu and Partners",
   "place": "Hong Kong, HK",
@@ -226999,7 +226547,7 @@ window.BUILDINGS = [
  },
  {
   "id": "great-bamboo-wall-house",
-  "n": 2430,
+  "n": 2425,
   "name": "Great (Bamboo) Wall House",
   "by": "Kengo Kuma",
   "place": "Beijing, CN",
@@ -227087,7 +226635,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-cultural-centre",
-  "n": 2431,
+  "n": 2426,
   "name": "Hong Kong Cultural Centre",
   "by": "José Lei (Architectural Services Department)",
   "place": "Hong Kong, HK",
@@ -227187,7 +226735,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-design-institute",
-  "n": 2432,
+  "n": 2427,
   "name": "Hong Kong Design Institute",
   "by": "Coldefy & Associés (CAAU)",
   "place": "Hong Kong, HK",
@@ -227301,7 +226849,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oriental-pearl-tower",
-  "n": 2433,
+  "n": 2428,
   "name": "Oriental Pearl Tower",
   "by": "East China Architectural Design Institute",
   "place": "Shanghai, CN",
@@ -227401,7 +226949,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaohsiung-music-center",
-  "n": 2434,
+  "n": 2429,
   "name": "Kaohsiung Music Center",
   "by": "Manuel Monteserín (MADE IN Architects)",
   "place": "Kaohsiung, TW",
@@ -227501,7 +227049,7 @@ window.BUILDINGS = [
  },
  {
   "id": "water-moon-monastery",
-  "n": 2435,
+  "n": 2430,
   "name": "Water-Moon Monastery (Nung Chan Monastery)",
   "by": "Kris Yao",
   "place": "Taipei, TW",
@@ -227589,7 +227137,7 @@ window.BUILDINGS = [
  },
  {
   "id": "taipei-music-center",
-  "n": 2436,
+  "n": 2431,
   "name": "Taipei Music Center",
   "by": "Reiser + Umemoto (RUR Architecture)",
   "place": "Taipei, TW",
@@ -227629,7 +227177,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shaanxi-history-museum",
-  "n": 2437,
+  "n": 2432,
   "name": "Shaanxi History Museum",
   "by": "Zhang Jinqiu",
   "place": "Xi'an, CN",
@@ -227729,7 +227277,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-museum",
-  "n": 2438,
+  "n": 2433,
   "name": "Shanghai Museum",
   "by": "Xing Tonghe",
   "place": "Shanghai, CN",
@@ -227829,7 +227377,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1000-trees-shanghai",
-  "n": 2439,
+  "n": 2434,
   "name": "1000 Trees",
   "by": "Heatherwick Studio",
   "place": "Shanghai, CN",
@@ -227917,7 +227465,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-capital-airport-terminal-3",
-  "n": 2440,
+  "n": 2435,
   "name": "Beijing Capital International Airport Terminal 3",
   "by": "Foster + Partners, NACO, Arup",
   "place": "Beijing, CN",
@@ -228017,7 +227565,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tianjin-binhai-library",
-  "n": 2441,
+  "n": 2436,
   "name": "Tianjin Binhai Library",
   "by": "MVRDV, Tianjin Urban Planning and Design Institute",
   "place": "Tianjin, CN",
@@ -228057,7 +227605,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beijing-railway-station",
-  "n": 2442,
+  "n": 2437,
   "name": "Beijing Railway Station",
   "by": "Yang Tingbao, Chen Deng'ao",
   "place": "Beijing, CN",
@@ -228169,7 +227717,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pagoda-of-fogong-temple",
-  "n": 2443,
+  "n": 2438,
   "name": "Pagoda of Fogong Temple (Yingxian Wooden Pagoda)",
   "by": "Liao dynasty builders",
   "place": "Yingxian, CN",
@@ -228283,7 +227831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tao-zhu-yin-yuan",
-  "n": 2444,
+  "n": 2439,
   "name": "Tao Zhu Yin Yuan",
   "by": "Vincent Callebaut",
   "place": "Taipei, TW",
@@ -228383,7 +227931,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wah-fu-estate",
-  "n": 2445,
+  "n": 2440,
   "name": "Wah Fu Estate",
   "by": "Donald Liao",
   "place": "Hong Kong, HK",
@@ -228497,7 +228045,7 @@ window.BUILDINGS = [
  },
  {
   "id": "xiangshan-visitor-center",
-  "n": 2446,
+  "n": 2441,
   "name": "Xiangshan Visitor Center, Sun Moon Lake",
   "by": "Norihiko Dan",
   "place": "Yuchi, Nantou, TW",
@@ -228585,7 +228133,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zhongshan-hall-taipei",
-  "n": 2447,
+  "n": 2442,
   "name": "Zhongshan Hall (Taipei Public Hall)",
   "by": "Ide Kaoru",
   "place": "Taipei, TW",
@@ -228661,7 +228209,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hong-kong-coliseum",
-  "n": 2448,
+  "n": 2443,
   "name": "Hong Kong Coliseum",
   "by": "Pau Shiu-hung (Architectural Services Department)",
   "place": "Hong Kong, HK",
@@ -228749,7 +228297,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grand-hotel-taipei",
-  "n": 2449,
+  "n": 2444,
   "name": "Grand Hotel Taipei",
   "by": "Yang Cho-cheng",
   "place": "Taipei, TW",
@@ -228849,7 +228397,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-exhibition-centre",
-  "n": 2450,
+  "n": 2445,
   "name": "Shanghai Exhibition Centre",
   "by": "Sergey Andreyev, Chen Zhi, Wang Dingzheng, Cai Xianyu",
   "place": "Shanghai, CN",
@@ -228949,7 +228497,7 @@ window.BUILDINGS = [
  },
  {
   "id": "taipei-fine-arts-museum",
-  "n": 2451,
+  "n": 2446,
   "name": "Taipei Fine Arts Museum",
   "by": "Kao Er-pan",
   "place": "Taipei, TW",
@@ -229049,7 +228597,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shenzhen-baoan-airport-terminal-3",
-  "n": 2452,
+  "n": 2447,
   "name": "Shenzhen Bao'an International Airport Terminal 3",
   "by": "Studio Fuksas",
   "place": "Shenzhen, CN",
@@ -229149,7 +228697,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shanghai-oriental-art-center",
-  "n": 2453,
+  "n": 2448,
   "name": "Shanghai Oriental Art Center",
   "by": "Paul Andreu",
   "place": "Shanghai, CN",
@@ -229249,7 +228797,7 @@ window.BUILDINGS = [
  },
  {
   "id": "foguang-temple-east-hall",
-  "n": 2454,
+  "n": 2449,
   "name": "East Hall of Foguang Temple",
   "by": "Tang dynasty builders (monk Yuancheng)",
   "place": "Wutai, CN",
@@ -229325,7 +228873,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ntu-college-of-social-sciences",
-  "n": 2455,
+  "n": 2450,
   "name": "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)",
   "by": "Toyo Ito",
   "place": "Taipei, TW",
@@ -229425,7 +228973,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forbidden-city",
-  "n": 2456,
+  "n": 2451,
   "name": "Forbidden City",
   "by": "Kuai Xiang (Ming imperial builders)",
   "place": "Beijing, CN",
@@ -229540,7 +229088,7 @@ window.BUILDINGS = [
  },
  {
   "id": "potala-palace",
-  "n": 2457,
+  "n": 2452,
   "name": "Potala Palace",
   "by": "5th Dalai Lama (commissioned)",
   "place": "Lhasa, CN",
@@ -229654,7 +229202,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prime-tower",
-  "n": 2458,
+  "n": 2453,
   "name": "Prime Tower",
   "by": "Gigon/Guyer",
   "place": "Zurich, CH",
@@ -229754,7 +229302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirchner-museum-davos",
-  "n": 2459,
+  "n": 2454,
   "name": "Kirchner Museum Davos",
   "by": "Gigon/Guyer",
   "place": "Davos, CH",
@@ -229854,7 +229402,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toni-areal",
-  "n": 2460,
+  "n": 2455,
   "name": "Toni-Areal",
   "by": "EM2N",
   "place": "Zurich, CH",
@@ -229954,7 +229502,7 @@ window.BUILDINGS = [
  },
  {
   "id": "german-maritime-museum",
-  "n": 2461,
+  "n": 2456,
   "name": "German Maritime Museum (Scharoun building)",
   "by": "Hans Scharoun",
   "place": "Bremerhaven, DE",
@@ -230056,7 +229604,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berlin-musical-instrument-museum",
-  "n": 2462,
+  "n": 2457,
   "name": "Berlin Musical Instrument Museum",
   "by": "Edgar Wisniewski, after designs by Hans Scharoun",
   "place": "Berlin, DE",
@@ -230132,7 +229680,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kanzlerbungalow",
-  "n": 2463,
+  "n": 2458,
   "name": "Kanzlerbungalow",
   "by": "Sep Ruf",
   "place": "Bonn, DE",
@@ -230232,7 +229780,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bundestag-plenary-building-bonn",
-  "n": 2464,
+  "n": 2459,
   "name": "Plenary Building of the Bundestag, Bonn",
   "by": "Behnisch & Partner (Günter Behnisch)",
   "place": "Bonn, DE",
@@ -230332,7 +229880,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-basel-new-building",
-  "n": 2465,
+  "n": 2460,
   "name": "Kunstmuseum Basel, New Building",
   "by": "Christ & Gantenbein",
   "place": "Basel, CH",
@@ -230422,7 +229970,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schaulager",
-  "n": 2466,
+  "n": 2461,
   "name": "Schaulager",
   "by": "Herzog & de Meuron",
   "place": "Münchenstein, CH",
@@ -230510,7 +230058,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monte-rosa-hut",
-  "n": 2467,
+  "n": 2462,
   "name": "New Monte Rosa Hut",
   "by": "Andrea Deplazes (ETH Zurich)",
   "place": "Zermatt, CH",
@@ -230610,7 +230158,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deutsches-architekturmuseum",
-  "n": 2468,
+  "n": 2463,
   "name": "Deutsches Architekturmuseum (DAM)",
   "by": "Oswald Mathias Ungers",
   "place": "Frankfurt, DE",
@@ -230724,7 +230272,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-brandhorst",
-  "n": 2469,
+  "n": 2464,
   "name": "Museum Brandhorst",
   "by": "Sauerbruch Hutton",
   "place": "Munich, DE",
@@ -230824,7 +230372,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gsw-headquarters",
-  "n": 2470,
+  "n": 2465,
   "name": "GSW Headquarters",
   "by": "Sauerbruch Hutton",
   "place": "Berlin, DE",
@@ -230912,7 +230460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "german-environment-agency-dessau",
-  "n": 2471,
+  "n": 2466,
   "name": "German Environment Agency (Umweltbundesamt), Dessau",
   "by": "Sauerbruch Hutton",
   "place": "Dessau-Roßlau, DE",
@@ -230988,7 +230536,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacob-and-wilhelm-grimm-centre",
-  "n": 2472,
+  "n": 2467,
   "name": "Jacob and Wilhelm Grimm Centre",
   "by": "Max Dudler",
   "place": "Berlin, DE",
@@ -231088,7 +230636,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tour-total-berlin",
-  "n": 2473,
+  "n": 2468,
   "name": "Tour Total (Jean-Monnet-Tower)",
   "by": "Barkow Leibinger",
   "place": "Berlin, DE",
@@ -231176,7 +230724,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tegel-airport-terminal-a",
-  "n": 2474,
+  "n": 2469,
   "name": "Tegel Airport, Terminal A",
   "by": "von Gerkan, Marg und Partner (gmp)",
   "place": "Berlin, DE",
@@ -231276,7 +230824,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stuttgart-city-library",
-  "n": 2475,
+  "n": 2470,
   "name": "Stuttgart City Library (Stadtbibliothek am Mailänder Platz)",
   "by": "Eun Young Yi",
   "place": "Stuttgart, DE",
@@ -231376,7 +230924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paul-loebe-house",
-  "n": 2476,
+  "n": 2471,
   "name": "Paul Löbe House",
   "by": "Stephan Braunfels",
   "place": "Berlin, DE",
@@ -231476,7 +231024,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kranhaeuser-cologne",
-  "n": 2477,
+  "n": 2472,
   "name": "Kranhäuser (Crane Houses)",
   "by": "Alfons Linster and Hadi Teherani (BRT Architekten)",
   "place": "Cologne, DE",
@@ -231576,7 +231124,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neuer-zollhof",
-  "n": 2478,
+  "n": 2473,
   "name": "Neuer Zollhof",
   "by": "Frank Gehry",
   "place": "Düsseldorf, DE",
@@ -231676,7 +231224,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-der-bildenden-kuenste-leipzig",
-  "n": 2479,
+  "n": 2474,
   "name": "Museum der bildenden Künste, Leipzig",
   "by": "Hufnagel Pütz Rafaelian (Karl Hufnagel, Peter Pütz, Michael Rafaelian)",
   "place": "Leipzig, DE",
@@ -231776,7 +231324,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ohel-jakob-synagogue",
-  "n": 2480,
+  "n": 2475,
   "name": "Ohel Jakob Synagogue",
   "by": "Wandel Hoefer Lorch (Rena Wandel-Hoefer, Wolfgang Lorch)",
   "place": "Munich, DE",
@@ -231864,7 +231412,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kant-dreieck",
-  "n": 2481,
+  "n": 2476,
   "name": "Kant-Dreieck",
   "by": "Josef Paul Kleihues",
   "place": "Berlin, DE",
@@ -231964,7 +231512,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zueblin-haus",
-  "n": 2482,
+  "n": 2477,
   "name": "Züblin-Haus",
   "by": "Gottfried Böhm with Dörte Gatermann",
   "place": "Stuttgart, DE",
@@ -232064,7 +231612,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nord-lb-hanover",
-  "n": 2483,
+  "n": 2478,
   "name": "Norddeutsche Landesbank (NORD/LB) Headquarters",
   "by": "Behnisch, Behnisch & Partner",
   "place": "Hanover, DE",
@@ -232140,7 +231688,7 @@ window.BUILDINGS = [
  },
  {
   "id": "academy-of-arts-pariser-platz",
-  "n": 2484,
+  "n": 2479,
   "name": "Academy of Arts, Pariser Platz",
   "by": "Günter Behnisch with Werner Durth (Behnisch & Partner)",
   "place": "Berlin, DE",
@@ -232240,7 +231788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bmw-headquarters",
-  "n": 2485,
+  "n": 2480,
   "name": "BMW Headquarters (BMW Tower) and BMW Museum",
   "by": "Karl Schwanzer",
   "place": "Munich, DE",
@@ -232328,7 +231876,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swiss-embassy-berlin",
-  "n": 2486,
+  "n": 2481,
   "name": "Swiss Embassy, Berlin (extension)",
   "by": "Diener & Diener",
   "place": "Berlin, DE",
@@ -232404,7 +231952,7 @@ window.BUILDINGS = [
  },
  {
   "id": "axel-springer-campus",
-  "n": 2487,
+  "n": 2482,
   "name": "Axel Springer Campus",
   "by": "OMA (Rem Koolhaas)",
   "place": "Berlin, DE",
@@ -232480,7 +232028,7 @@ window.BUILDINGS = [
  },
  {
   "id": "berlin-hauptbahnhof",
-  "n": 2488,
+  "n": 2483,
   "name": "Berlin Hauptbahnhof",
   "by": "Meinhard von Gerkan (gmp, von Gerkan, Marg and Partners)",
   "place": "Berlin, DE",
@@ -232594,7 +232142,7 @@ window.BUILDINGS = [
  },
  {
   "id": "adac-headquarters",
-  "n": 2489,
+  "n": 2484,
   "name": "ADAC Headquarters",
   "by": "Sauerbruch Hutton",
   "place": "Munich, DE",
@@ -232694,7 +232242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-bonn",
-  "n": 2490,
+  "n": 2485,
   "name": "Kunstmuseum Bonn",
   "by": "Axel Schultes (BJSS) with Jürgen Pleuser",
   "place": "Bonn, DE",
@@ -232794,7 +232342,7 @@ window.BUILDINGS = [
  },
  {
   "id": "marco-polo-tower",
-  "n": 2491,
+  "n": 2486,
   "name": "Marco Polo Tower",
   "by": "Behnisch Architekten",
   "place": "Hamburg, DE",
@@ -232870,7 +232418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wu-library-learning-center",
-  "n": 2492,
+  "n": 2487,
   "name": "Library and Learning Center, Vienna University of Economics",
   "by": "Zaha Hadid Architects",
   "place": "Vienna, AT",
@@ -232970,7 +232518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gasometer-b-vienna",
-  "n": 2493,
+  "n": 2488,
   "name": "Gasometer B, Vienna",
   "by": "Coop Himmelb(l)au",
   "place": "Vienna, AT",
@@ -233058,7 +232606,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zentralsparkasse-favoriten",
-  "n": 2494,
+  "n": 2489,
   "name": "Zentralsparkasse Branch, Favoritenstrasse",
   "by": "Günther Domenig",
   "place": "Vienna, AT",
@@ -233158,7 +232706,7 @@ window.BUILDINGS = [
  },
  {
   "id": "loisium-langenlois",
-  "n": 2495,
+  "n": 2490,
   "name": "Loisium Wine World",
   "by": "Steven Holl",
   "place": "Langenlois, AT",
@@ -233234,7 +232782,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kaufhaus-tyrol",
-  "n": 2496,
+  "n": 2491,
   "name": "Kaufhaus Tyrol",
   "by": "David Chipperfield with Dieter Mathoi",
   "place": "Innsbruck, AT",
@@ -233334,7 +232882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lentos-kunstmuseum-linz",
-  "n": 2497,
+  "n": 2492,
   "name": "Lentos Art Museum",
   "by": "Weber & Hofer",
   "place": "Linz, AT",
@@ -233448,7 +232996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wiener-stadthalle",
-  "n": 2498,
+  "n": 2493,
   "name": "Wiener Stadthalle",
   "by": "Roland Rainer",
   "place": "Vienna, AT",
@@ -233526,7 +233074,7 @@ window.BUILDINGS = [
  },
  {
   "id": "murinsel-graz",
-  "n": 2499,
+  "n": 2494,
   "name": "Murinsel",
   "by": "Vito Acconci",
   "place": "Graz, AT",
@@ -233640,7 +233188,7 @@ window.BUILDINGS = [
  },
  {
   "id": "werkraum-haus-andelsbuch",
-  "n": 2500,
+  "n": 2495,
   "name": "Werkraum Haus",
   "by": "Peter Zumthor",
   "place": "Andelsbuch, AT",
@@ -233692,7 +233240,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lifecycle-tower-one",
-  "n": 2501,
+  "n": 2496,
   "name": "LifeCycle Tower One (LCT ONE)",
   "by": "Hermann Kaufmann",
   "place": "Dornbirn, AT",
@@ -233756,7 +233304,7 @@ window.BUILDINGS = [
  },
  {
   "id": "building-2226-lustenau",
-  "n": 2502,
+  "n": 2497,
   "name": "2226 Office Building",
   "by": "Baumschlager Eberle",
   "place": "Lustenau, AT",
@@ -233832,7 +233380,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fiore-di-pietra",
-  "n": 2503,
+  "n": 2498,
   "name": "Fiore di pietra",
   "by": "Mario Botta",
   "place": "Monte Generoso, CH",
@@ -233908,7 +233456,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palestra-losone",
-  "n": 2504,
+  "n": 2499,
   "name": "Palestra (Gymnasium), Losone",
   "by": "Livio Vacchini",
   "place": "Losone, CH",
@@ -233972,7 +233520,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-cantonale-lugano",
-  "n": 2505,
+  "n": 2500,
   "name": "Biblioteca cantonale, Lugano",
   "by": "Rino Tami and Carlo Tami",
   "place": "Lugano, CH",
@@ -234072,7 +233620,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swiss-national-museum-extension",
-  "n": 2506,
+  "n": 2501,
   "name": "Swiss National Museum, Extension",
   "by": "Christ & Gantenbein",
   "place": "Zurich, CH",
@@ -234172,7 +233720,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frauenmuseum-hittisau",
-  "n": 2507,
+  "n": 2502,
   "name": "Frauenmuseum Hittisau",
   "by": "Cukrowicz Nachbaur",
   "place": "Hittisau, AT",
@@ -234236,7 +233784,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bus-stop-krumbach",
-  "n": 2508,
+  "n": 2503,
   "name": "BUS:STOP Krumbach",
   "by": "Sou Fujimoto, Ensamble Studio, Wang Shu and Lu Wenyu, Smiljan Radić, Rintala Eggertsson, Alexander Brodsky, De Vylder Vinck Taillieu, with Vorarlberg partner architects",
   "place": "Krumbach, AT",
@@ -234312,7 +233860,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-liner-appenzell",
-  "n": 2509,
+  "n": 2504,
   "name": "Museum Liner (Kunstmuseum Appenzell)",
   "by": "Gigon/Guyer",
   "place": "Appenzell, CH",
@@ -234364,7 +233912,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-bbva-madrid",
-  "n": 2510,
+  "n": 2505,
   "name": "Torre BBVA (Castellana 81)",
   "by": "Francisco Javier Sáenz de Oiza",
   "place": "Madrid, ES",
@@ -234464,7 +234012,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pilar-joan-miro-foundation",
-  "n": 2511,
+  "n": 2506,
   "name": "Fundació Pilar i Joan Miró, Moneo Building",
   "by": "Rafael Moneo",
   "place": "Palma, ES",
@@ -234552,7 +234100,7 @@ window.BUILDINGS = [
  },
  {
   "id": "studio-sert-palma",
-  "n": 2512,
+  "n": 2507,
   "name": "Joan Miró's Studio (Taller Sert)",
   "by": "Josep Lluís Sert",
   "place": "Palma, ES",
@@ -234652,7 +234200,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-muralla-roja",
-  "n": 2513,
+  "n": 2508,
   "name": "La Muralla Roja",
   "by": "Ricardo Bofill (Taller de Arquitectura)",
   "place": "Calp, ES",
@@ -234728,7 +234276,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torres-de-colon",
-  "n": 2514,
+  "n": 2509,
   "name": "Torres de Colón",
   "by": "Antonio Lamela",
   "place": "Madrid, ES",
@@ -234842,7 +234390,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caja-granada",
-  "n": 2515,
+  "n": 2510,
   "name": "Caja Granada Headquarters",
   "by": "Alberto Campo Baeza",
   "place": "Granada, ES",
@@ -234942,7 +234490,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-memoria-andalucia",
-  "n": 2516,
+  "n": 2511,
   "name": "Museum of Memory of Andalusia (MA)",
   "by": "Alberto Campo Baeza",
   "place": "Granada, ES",
@@ -235018,7 +234566,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gallery-royal-collections",
-  "n": 2517,
+  "n": 2512,
   "name": "Royal Collections Gallery",
   "by": "Mansilla + Tuñón (Luis Moreno Mansilla, Emilio Tuñón)",
   "place": "Madrid, ES",
@@ -235118,7 +234666,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museu-belles-arts-castello",
-  "n": 2518,
+  "n": 2513,
   "name": "Museu de Belles Arts de Castelló",
   "by": "Mansilla + Tuñón",
   "place": "Castellón de la Plana, ES",
@@ -235182,7 +234730,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auditorio-ciudad-de-leon",
-  "n": 2519,
+  "n": 2514,
   "name": "Auditorio Ciudad de León",
   "by": "Mansilla + Tuñón",
   "place": "León, ES",
@@ -235258,7 +234806,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-woermann",
-  "n": 2520,
+  "n": 2515,
   "name": "Woermann Tower",
   "by": "Ábalos & Herreros, with Joaquín Casariego and Elsa Guerra",
   "place": "Las Palmas de Gran Canaria, ES",
@@ -235346,7 +234894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "usera-library",
-  "n": 2521,
+  "n": 2516,
   "name": "Usera Public Library (José Hierro)",
   "by": "Ábalos & Herreros",
   "place": "Madrid, ES",
@@ -235398,7 +234946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-justa-station",
-  "n": 2522,
+  "n": 2517,
   "name": "Seville–Santa Justa Station",
   "by": "Cruz y Ortiz",
   "place": "Seville, ES",
@@ -235498,7 +235046,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alamillo-bridge",
-  "n": 2523,
+  "n": 2518,
   "name": "Alamillo Bridge",
   "by": "Santiago Calatrava",
   "place": "Seville, ES",
@@ -235598,7 +235146,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-ricarda",
-  "n": 2524,
+  "n": 2519,
   "name": "La Ricarda (Casa Gomis)",
   "by": "Antoni Bonet i Castellana",
   "place": "El Prat de Llobregat, ES",
@@ -235698,7 +235246,7 @@ window.BUILDINGS = [
  },
  {
   "id": "badajoz-congress-centre",
-  "n": 2525,
+  "n": 2520,
   "name": "Badajoz Congress Centre (Manuel Rojas)",
   "by": "SelgasCano (José Selgas, Lucía Cano)",
   "place": "Badajoz, ES",
@@ -235786,7 +235334,7 @@ window.BUILDINGS = [
  },
  {
   "id": "el-batel-cartagena",
-  "n": 2526,
+  "n": 2521,
   "name": "El Batel Auditorium and Congress Centre",
   "by": "SelgasCano (José Selgas, Lucía Cano)",
   "place": "Cartagena, ES",
@@ -235886,7 +235434,7 @@ window.BUILDINGS = [
  },
  {
   "id": "corona-de-espinas",
-  "n": 2527,
+  "n": 2522,
   "name": "Spanish Cultural Heritage Institute (\"Corona de Espinas\")",
   "by": "Fernando Higueras and Antonio Miró",
   "place": "Madrid, ES",
@@ -235986,7 +235534,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arqua-cartagena",
-  "n": 2528,
+  "n": 2523,
   "name": "National Museum of Underwater Archaeology (ARQVA)",
   "by": "Guillermo Vázquez Consuegra",
   "place": "Cartagena, ES",
@@ -236062,7 +235610,7 @@ window.BUILDINGS = [
  },
  {
   "id": "trade-buildings-barcelona",
-  "n": 2529,
+  "n": 2524,
   "name": "Trade Buildings",
   "by": "Josep Antoni Coderch and Manuel Valls",
   "place": "Barcelona, ES",
@@ -236138,7 +235686,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biblioteca-jaume-fuster",
-  "n": 2530,
+  "n": 2525,
   "name": "Jaume Fuster Library",
   "by": "Josep Llinàs (with Joan Vera)",
   "place": "Barcelona, ES",
@@ -236238,7 +235786,7 @@ window.BUILDINGS = [
  },
  {
   "id": "caixaforum-zaragoza",
-  "n": 2531,
+  "n": 2526,
   "name": "CaixaForum Zaragoza",
   "by": "Carme Pinós",
   "place": "Zaragoza, ES",
@@ -236314,7 +235862,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pavilion-of-knowledge",
-  "n": 2532,
+  "n": 2527,
   "name": "Pavilion of Knowledge (Pavilhão do Conhecimento)",
   "by": "João Luís Carrilho da Graça",
   "place": "Lisbon, PT",
@@ -236414,7 +235962,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nadir-afonso-museum",
-  "n": 2533,
+  "n": 2528,
   "name": "Nadir Afonso Contemporary Art Museum",
   "by": "Álvaro Siza",
   "place": "Chaves, PT",
@@ -236466,7 +236014,7 @@ window.BUILDINGS = [
  },
  {
   "id": "setubal-school-of-education",
-  "n": 2534,
+  "n": 2529,
   "name": "Setúbal School of Education",
   "by": "Álvaro Siza",
   "place": "Setúbal, PT",
@@ -236542,7 +236090,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edp-headquarters-lisbon",
-  "n": 2535,
+  "n": 2530,
   "name": "EDP Headquarters",
   "by": "Aires Mateus (Manuel and Francisco Aires Mateus)",
   "place": "Lisbon, PT",
@@ -236630,7 +236178,7 @@ window.BUILDINGS = [
  },
  {
   "id": "amoreiras-towers",
-  "n": 2536,
+  "n": 2531,
   "name": "Amoreiras Towers",
   "by": "Tomás Taveira",
   "place": "Lisbon, PT",
@@ -236730,7 +236278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nossa-senhora-fatima-lisbon",
-  "n": 2537,
+  "n": 2532,
   "name": "Church of Our Lady of the Rosary of Fátima",
   "by": "Porfírio Pardal Monteiro",
   "place": "Lisbon, PT",
@@ -236830,7 +236378,7 @@ window.BUILDINGS = [
  },
  {
   "id": "matosinhos-town-hall",
-  "n": 2538,
+  "n": 2533,
   "name": "Matosinhos Town Hall",
   "by": "Alcino Soutinho",
   "place": "Matosinhos, PT",
@@ -236906,7 +236454,7 @@ window.BUILDINGS = [
  },
  {
   "id": "coliseu-do-porto",
-  "n": 2539,
+  "n": 2534,
   "name": "Coliseu do Porto",
   "by": "Cassiano Branco",
   "place": "Porto, PT",
@@ -237006,7 +236554,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wanda-metropolitano",
-  "n": 2540,
+  "n": 2535,
   "name": "Metropolitano Stadium",
   "by": "Cruz y Ortiz",
   "place": "Madrid, ES",
@@ -237108,7 +236656,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universidad-laboral-gijon",
-  "n": 2541,
+  "n": 2536,
   "name": "Universidad Laboral de Gijón",
   "by": "Luis Moya Blanco",
   "place": "Gijón, ES",
@@ -237184,7 +236732,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bilbao-metro-fosteritos",
-  "n": 2542,
+  "n": 2537,
   "name": "Bilbao Metro entrances (\"Fosteritos\")",
   "by": "Foster + Partners",
   "place": "Bilbao, ES",
@@ -237284,7 +236832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-la-marina-barcelona",
-  "n": 2543,
+  "n": 2538,
   "name": "Casa de la Marina (Barceloneta housing)",
   "by": "Josep Antoni Coderch and Manuel Valls",
   "place": "Barcelona, ES",
@@ -237360,7 +236908,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edificio-girasol",
-  "n": 2544,
+  "n": 2539,
   "name": "Edificio Girasol",
   "by": "Josep Antoni Coderch",
   "place": "Madrid, ES",
@@ -237460,7 +237008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bac-de-roda-bridge",
-  "n": 2545,
+  "n": 2540,
   "name": "Bac de Roda Bridge",
   "by": "Santiago Calatrava",
   "place": "Barcelona, ES",
@@ -237548,7 +237096,7 @@ window.BUILDINGS = [
  },
  {
   "id": "altamira-museum",
-  "n": 2546,
+  "n": 2541,
   "name": "National Museum and Research Center of Altamira",
   "by": "Juan Navarro Baldeweg",
   "place": "Santillana del Mar, ES",
@@ -237624,7 +237172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salamanca-congress-centre",
-  "n": 2547,
+  "n": 2542,
   "name": "Castile and León Congress and Exhibition Centre",
   "by": "Juan Navarro Baldeweg",
   "place": "Salamanca, ES",
@@ -237700,7 +237248,7 @@ window.BUILDINGS = [
  },
  {
   "id": "deusto-library",
-  "n": 2548,
+  "n": 2543,
   "name": "University of Deusto Library",
   "by": "Rafael Moneo",
   "place": "Bilbao, ES",
@@ -237800,7 +237348,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-de-las-flores",
-  "n": 2549,
+  "n": 2544,
   "name": "Casa de las Flores",
   "by": "Secundino Zuazo",
   "place": "Madrid, ES",
@@ -237888,7 +237436,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casa-sindical-madrid",
-  "n": 2550,
+  "n": 2545,
   "name": "Casa Sindical",
   "by": "Francisco de Asís Cabrero and Rafael Aburto",
   "place": "Madrid, ES",
@@ -237990,7 +237538,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zubizuri",
-  "n": 2551,
+  "n": 2546,
   "name": "Zubizuri",
   "by": "Santiago Calatrava",
   "place": "Bilbao, ES",
@@ -238090,7 +237638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "la-fabrica-bofill",
-  "n": 2552,
+  "n": 2547,
   "name": "La Fábrica",
   "by": "Ricardo Bofill (Taller de Arquitectura)",
   "place": "Sant Just Desvern, ES",
@@ -238154,7 +237702,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blues-point-tower",
-  "n": 2553,
+  "n": 2548,
   "name": "Blues Point Tower",
   "by": "Harry Seidler",
   "place": "Sydney, AU",
@@ -238254,7 +237802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grosvenor-place-sydney",
-  "n": 2554,
+  "n": 2549,
   "name": "Grosvenor Place",
   "by": "Harry Seidler & Associates",
   "place": "Sydney, AU",
@@ -238354,7 +237902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aami-park",
-  "n": 2555,
+  "n": 2550,
   "name": "AAMI Park (Melbourne Rectangular Stadium)",
   "by": "Cox Architecture",
   "place": "Melbourne, AU",
@@ -238454,7 +238002,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qv1-perth",
-  "n": 2556,
+  "n": 2551,
   "name": "QV1",
   "by": "Harry Seidler & Associates",
   "place": "Perth, AU",
@@ -238554,7 +238102,7 @@ window.BUILDINGS = [
  },
  {
   "id": "featherston-house",
-  "n": 2557,
+  "n": 2552,
   "name": "Featherston House",
   "by": "Robin Boyd (Romberg & Boyd)",
   "place": "Ivanhoe, Melbourne, AU",
@@ -238618,7 +238166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "riverside-centre-brisbane",
-  "n": 2558,
+  "n": 2553,
   "name": "Riverside Centre",
   "by": "Harry Seidler & Associates",
   "place": "Brisbane, AU",
@@ -238718,7 +238266,7 @@ window.BUILDINGS = [
  },
  {
   "id": "domain-park-flats",
-  "n": 2559,
+  "n": 2554,
   "name": "Domain Park Flats",
   "by": "Robin Boyd",
   "place": "South Yarra, Melbourne, AU",
@@ -238770,7 +238318,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qeii-courts-of-law-brisbane",
-  "n": 2560,
+  "n": 2555,
   "name": "Queen Elizabeth II Courts of Law",
   "by": "Architectus with Guymer Bailey Architects",
   "place": "Brisbane, AU",
@@ -238870,7 +238418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-portrait-gallery-canberra",
-  "n": 2561,
+  "n": 2556,
   "name": "National Portrait Gallery",
   "by": "Johnson Pilton Walker",
   "place": "Canberra, AU",
@@ -238946,7 +238494,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rmit-design-hub",
-  "n": 2562,
+  "n": 2557,
   "name": "RMIT Design Hub",
   "by": "Sean Godsell Architects with Peddle Thorp",
   "place": "Melbourne, AU",
@@ -239046,7 +238594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swanston-academic-building",
-  "n": 2563,
+  "n": 2558,
   "name": "Swanston Academic Building (RMIT Building 80)",
   "by": "Lyons",
   "place": "Melbourne, AU",
@@ -239134,7 +238682,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-school-of-design",
-  "n": 2564,
+  "n": 2559,
   "name": "Melbourne School of Design (Glyn Davis Building)",
   "by": "John Wardle Architects with NADAAA",
   "place": "Melbourne, AU",
@@ -239210,7 +238758,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ian-potter-museum-of-art",
-  "n": 2565,
+  "n": 2560,
   "name": "Ian Potter Museum of Art",
   "by": "Nonda Katsalidis (Katsalidis Architects)",
   "place": "Melbourne, AU",
@@ -239298,7 +238846,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sahmri",
-  "n": 2566,
+  "n": 2561,
   "name": "South Australian Health and Medical Research Institute (SAHMRI)",
   "by": "Woods Bagot",
   "place": "Adelaide, AU",
@@ -239386,7 +238934,7 @@ window.BUILDINGS = [
  },
  {
   "id": "institute-for-marine-and-antarctic-studies",
-  "n": 2567,
+  "n": 2562,
   "name": "Institute for Marine and Antarctic Studies",
   "by": "John Wardle Architects with Terroir",
   "place": "Hobart, AU",
@@ -239438,7 +238986,7 @@ window.BUILDINGS = [
  },
  {
   "id": "queensland-childrens-hospital",
-  "n": 2568,
+  "n": 2563,
   "name": "Queensland Children's Hospital (former Lady Cilento Children's Hospital)",
   "by": "Conrad Gargett Lyons",
   "place": "Brisbane, AU",
@@ -239538,7 +239086,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wellington-central-library",
-  "n": 2569,
+  "n": 2564,
   "name": "Wellington Central Library (Te Matapihi)",
   "by": "Athfield Architects (Ian Athfield)",
   "place": "Wellington, NZ",
@@ -239626,7 +239174,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palmerston-north-city-library",
-  "n": 2570,
+  "n": 2565,
   "name": "Palmerston North City Library",
   "by": "Ian Athfield (Athfield Architects)",
   "place": "Palmerston North, NZ",
@@ -239726,7 +239274,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sydney-modern",
-  "n": 2571,
+  "n": 2566,
   "name": "Art Gallery of New South Wales, North Building (Sydney Modern, Naala Nura)",
   "by": "SANAA with Architectus",
   "place": "Sydney, AU",
@@ -239826,7 +239374,7 @@ window.BUILDINGS = [
  },
  {
   "id": "geelong-library-and-heritage-centre",
-  "n": 2572,
+  "n": 2567,
   "name": "Geelong Library and Heritage Centre",
   "by": "ARM Architecture",
   "place": "Geelong, AU",
@@ -239914,7 +239462,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-recital-centre",
-  "n": 2573,
+  "n": 2568,
   "name": "Melbourne Recital Centre",
   "by": "Ashton Raggatt McDougall (ARM Architecture)",
   "place": "Melbourne, AU",
@@ -240014,7 +239562,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dorset-street-flats",
-  "n": 2574,
+  "n": 2569,
   "name": "Dorset Street Flats",
   "by": "Miles Warren",
   "place": "Christchurch, NZ",
@@ -240066,7 +239614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-museum-of-australia",
-  "n": 2575,
+  "n": 2570,
   "name": "National Museum of Australia",
   "by": "Ashton Raggatt McDougall with Robert Peck von Hartel Trethowan",
   "place": "Canberra, AU",
@@ -240166,7 +239714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-museum",
-  "n": 2576,
+  "n": 2571,
   "name": "Melbourne Museum",
   "by": "Denton Corker Marshall",
   "place": "Melbourne, AU",
@@ -240230,7 +239778,7 @@ window.BUILDINGS = [
  },
  {
   "id": "michael-fowler-centre",
-  "n": 2577,
+  "n": 2572,
   "name": "Michael Fowler Centre",
   "by": "Warren and Mahoney (Miles Warren, Maurice Mahoney)",
   "place": "Wellington, NZ",
@@ -240330,7 +239878,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympic-park-station-sydney",
-  "n": 2578,
+  "n": 2573,
   "name": "Olympic Park Station",
   "by": "Hassell",
   "place": "Sydney, AU",
@@ -240406,7 +239954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dixon-street-flats",
-  "n": 2579,
+  "n": 2574,
   "name": "Dixon Street Flats",
   "by": "Gordon Wilson (Department of Housing Construction)",
   "place": "Wellington, NZ",
@@ -240458,7 +240006,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melbourne-exhibition-centre",
-  "n": 2580,
+  "n": 2575,
   "name": "Melbourne Exhibition Centre ('Jeff's Shed')",
   "by": "Denton Corker Marshall",
   "place": "Melbourne, AU",
@@ -240558,7 +240106,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sky-tower-auckland",
-  "n": 2581,
+  "n": 2576,
   "name": "Sky Tower",
   "by": "Craig Craig Moller",
   "place": "Auckland, NZ",
@@ -240658,7 +240206,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aotea-centre",
-  "n": 2582,
+  "n": 2577,
   "name": "Aotea Centre",
   "by": "Ewen Wainscott (Auckland City Architect)",
   "place": "Auckland, NZ",
@@ -240746,7 +240294,7 @@ window.BUILDINGS = [
  },
  {
   "id": "governor-phillip-tower",
-  "n": 2583,
+  "n": 2578,
   "name": "Governor Phillip Tower",
   "by": "Denton Corker Marshall",
   "place": "Sydney, AU",
@@ -240834,7 +240382,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turanga-christchurch",
-  "n": 2584,
+  "n": 2579,
   "name": "Tūranga (Christchurch Central Library)",
   "by": "Architectus with Schmidt Hammer Lassen",
   "place": "Christchurch, NZ",
@@ -240936,7 +240484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-sydney",
-  "n": 2585,
+  "n": 2580,
   "name": "Museum of Sydney",
   "by": "Denton Corker Marshall",
   "place": "Sydney, AU",
@@ -241036,7 +240584,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-house-anu",
-  "n": 2586,
+  "n": 2581,
   "name": "University House, Australian National University",
   "by": "Brian Lewis",
   "place": "Canberra, AU",
@@ -241136,7 +240684,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christchurch-art-gallery",
-  "n": 2587,
+  "n": 2582,
   "name": "Christchurch Art Gallery Te Puna o Waiwhetū",
   "by": "Buchan Group",
   "place": "Christchurch, NZ",
@@ -241236,7 +240784,7 @@ window.BUILDINGS = [
  },
  {
   "id": "adam-art-gallery",
-  "n": 2588,
+  "n": 2583,
   "name": "Adam Art Gallery Te Pātaka Toi",
   "by": "Ian Athfield (Athfield Architects)",
   "place": "Wellington, NZ",
@@ -241300,7 +240848,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ici-house-melbourne",
-  "n": 2589,
+  "n": 2584,
   "name": "ICI House (Orica House)",
   "by": "Osborn McCutcheon (Bates Smart McCutcheon)",
   "place": "Melbourne, AU",
@@ -241376,7 +240924,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qantas-house-sydney",
-  "n": 2590,
+  "n": 2585,
   "name": "Qantas House (No. 1 Chifley Square)",
   "by": "Rudder, Littlemore & Rudder",
   "place": "Sydney, AU",
@@ -241416,7 +240964,7 @@ window.BUILDINGS = [
  },
  {
   "id": "advanced-engineering-building-uq",
-  "n": 2591,
+  "n": 2586,
   "name": "Advanced Engineering Building, University of Queensland",
   "by": "Richard Kirk Architect and Hassell",
   "place": "Brisbane, AU",
@@ -241516,7 +241064,7 @@ window.BUILDINGS = [
  },
  {
   "id": "green-square-library",
-  "n": 2592,
+  "n": 2587,
   "name": "Green Square Library and Plaza",
   "by": "Studio Hollenstein with Stewart Architecture",
   "place": "Sydney, AU",
@@ -241592,7 +241140,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-library-of-australia",
-  "n": 2593,
+  "n": 2588,
   "name": "National Library of Australia",
   "by": "Bunning and Madden (Walter Bunning)",
   "place": "Canberra, AU",
@@ -241680,7 +241228,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eureka-tower",
-  "n": 2594,
+  "n": 2589,
   "name": "Eureka Tower",
   "by": "Fender Katsalidis",
   "place": "Melbourne, AU",
@@ -241794,7 +241342,7 @@ window.BUILDINGS = [
  },
  {
   "id": "qpac-brisbane",
-  "n": 2595,
+  "n": 2590,
   "name": "Queensland Performing Arts Centre (QPAC)",
   "by": "Robin Gibson",
   "place": "Brisbane, AU",
@@ -241894,7 +241442,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harry-and-penelope-seidler-house",
-  "n": 2596,
+  "n": 2591,
   "name": "Harry and Penelope Seidler House",
   "by": "Harry and Penelope Seidler",
   "place": "Killara, Sydney, AU",
@@ -241996,7 +241544,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rialto-towers",
-  "n": 2597,
+  "n": 2592,
   "name": "Rialto Towers",
   "by": "Gerard de Preu and Partners with Perrott Lyon Mathieson",
   "place": "Melbourne, AU",
@@ -242096,7 +241644,7 @@ window.BUILDINGS = [
  },
  {
   "id": "te-uru-gallery",
-  "n": 2598,
+  "n": 2593,
   "name": "Te Uru Waitākere Contemporary Gallery",
   "by": "Mitchell & Stout Architects (Julie Stout)",
   "place": "Titirangi, Auckland, NZ",
@@ -242172,7 +241720,7 @@ window.BUILDINGS = [
  },
  {
   "id": "1-bligh-street",
-  "n": 2599,
+  "n": 2594,
   "name": "1 Bligh Street",
   "by": "Ingenhoven Architects with Architectus",
   "place": "Sydney, AU",
@@ -242248,7 +241796,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sydney-tower",
-  "n": 2600,
+  "n": 2595,
   "name": "Sydney Tower (Centrepoint Tower)",
   "by": "Donald Crone & Associates",
   "place": "Sydney, AU",
@@ -242348,7 +241896,7 @@ window.BUILDINGS = [
  },
  {
   "id": "southern-cross-station",
-  "n": 2601,
+  "n": 2596,
   "name": "Southern Cross Station",
   "by": "Grimshaw Architects with Jackson Architecture",
   "place": "Melbourne, AU",
@@ -242448,7 +241996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roy-grounds-house",
-  "n": 2602,
+  "n": 2597,
   "name": "Roy Grounds House",
   "by": "Roy Grounds",
   "place": "Toorak, Melbourne, AU",
@@ -242512,7 +242060,7 @@ window.BUILDINGS = [
  },
  {
   "id": "napier-street-housing",
-  "n": 2603,
+  "n": 2598,
   "name": "Napier Street Housing",
   "by": "Kerstin Thompson Architects",
   "place": "Fitzroy, Melbourne, AU",
@@ -242578,7 +242126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "forsyth-barr-stadium",
-  "n": 2604,
+  "n": 2599,
   "name": "Forsyth Barr Stadium",
   "by": "Populous and Jasmax",
   "place": "Dunedin, NZ",
@@ -242665,84 +242213,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "grand-theatre-de-rabat",
-  "n": 2605,
-  "name": "Grand Théâtre de Rabat",
-  "by": "Zaha Hadid Architects",
-  "place": "Rabat, MA",
-  "year": "2021",
-  "y": 2021,
-  "type": "Culture & sport",
-  "movement": "Parametric",
-  "region": "Africa",
-  "era": "2005–today",
-  "concepts": [
-   "Sculptural form",
-   "Landscape",
-   "Parametric"
-  ],
-  "study": "Sweeping curved shell on the Bou Regreg riverbank, with a muqarnas-faceted 1,821-seat hall and outdoor amphitheatre.",
-  "qid": null,
-  "commons": "Category:Grand Theatre of Rabat",
-  "lead": "File:Grand Théatre Rabat.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Grand_Th%C3%A9atre_Rabat.jpg/1280px-Grand_Th%C3%A9atre_Rabat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-de-rabat/thumbs/0.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Grand Théatre Rabat",
-    "credit": "Taha ahha",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Th%C3%A9atre_Rabat.jpg",
-    "file": "File:Grand Théatre Rabat.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hadid_Grand_Theatre_de_Rabat_2026.jpg/1280px-Hadid_Grand_Theatre_de_Rabat_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-de-rabat/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Grand Théatre de Rabat, Avril 2026.jpg",
-    "credit": "Steffen Wurzel",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hadid_Grand_Theatre_de_Rabat_2026.jpg",
-    "file": "File:Hadid Grand Theatre de Rabat 2026.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg/1280px-Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-de-rabat/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · le grand théâtre national de Rabat en construction en juin 2019",
-    "credit": "XDurang",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg",
-    "file": "File:Le grand théâtre national de Rabat.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Grand_Theatre_Rabat_under_construction.jpg/1280px-Grand_Theatre_Rabat_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-theatre-de-rabat/thumbs/3.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior · The Grand Théatre is a large theatre building under construction in the city of Rabat, Morocco",
-    "credit": "Steven Lek",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Theatre_Rabat_under_construction.jpg",
-    "file": "File:Grand Theatre Rabat under construction.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "copernicus-science-centre",
-  "n": 2606,
+  "n": 2600,
   "name": "Copernicus Science Centre",
   "by": "RAr-2 (Ruda Śląska)",
   "place": "Warsaw, PL",
@@ -242811,52 +242283,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Centrum_Kopernik_w_Warszawie_(1).JPG",
     "file": "File:Centrum Kopernik w Warszawie (1).JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bar_samoobs%C5%82ugiwy_Centrum_Nauki_Kopernik_w_Warszawie.jpg/1280px-Bar_samoobs%C5%82ugiwy_Centrum_Nauki_Kopernik_w_Warszawie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/copernicus-science-centre/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · Bar samoobsługowy w Centrum Nauki Kopernik w Warszawie",
-    "credit": "Adrian Grycuk",
-    "license": "CC BY-SA 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:Bar_samoobs%C5%82ugiwy_Centrum_Nauki_Kopernik_w_Warszawie.jpg",
-    "file": "File:Bar samoobsługiwy Centrum Nauki Kopernik w Warszawie.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Copernicus_Science_Center%2C_Warsaw.JPG/1280px-Copernicus_Science_Center%2C_Warsaw.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/copernicus-science-centre/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · inside",
-    "credit": "World3000",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Copernicus_Science_Center,_Warsaw.JPG",
-    "file": "File:Copernicus Science Center, Warsaw.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Seasons_model_Copernicus_Science_Center.jpg/1280px-Seasons_model_Copernicus_Science_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/copernicus-science-centre/thumbs/6.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Model",
-    "caption": "Model · Exhibit showing how seasons are changing, Copernicus Science Centre in Warsaw",
-    "credit": "Klarqa",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Seasons_model_Copernicus_Science_Center.jpg",
-    "file": "File:Seasons model Copernicus Science Center.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "university-of-warsaw-library",
-  "n": 2607,
+  "n": 2601,
   "name": "University of Warsaw Library (BUW)",
   "by": "Marek Budzyński, Zbigniew Badowski",
   "place": "Warsaw, PL",
@@ -242925,41 +242359,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:University_of_Warsaw_Library_-_BUW_-_1994-1998_(50571956733).jpg",
     "file": "File:University of Warsaw Library - BUW - 1994-1998 (50571956733).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Plan_Kana%C5%82u_Augustowskiego.jpg/1280px-Plan_Kana%C5%82u_Augustowskiego.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/university-of-warsaw-library/thumbs/4.webp",
-    "w": 1280,
-    "h": 1122,
-    "kind": "Plan",
-    "caption": "Plan · Plan Kanału Augustowskiego",
-    "credit": "Wydawca nieznany",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Plan_Kana%C5%82u_Augustowskiego.jpg",
-    "file": "File:Plan Kanału Augustowskiego.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blaise_Nicolas_Le_Sueur_-_Frauenakt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/university-of-warsaw-library/thumbs/5.webp",
-    "w": 473,
-    "h": 720,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Blaise Nicholas Le Sueur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Blaise_Nicolas_Le_Sueur_-_Frauenakt.jpg",
-    "file": "File:Blaise Nicolas Le Sueur - Frauenakt.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "gdansk-shakespeare-theatre",
-  "n": 2608,
+  "n": 2602,
   "name": "Gdańsk Shakespeare Theatre",
   "by": "Renato Rizzi",
   "place": "Gdańsk, PL",
@@ -243040,18 +242447,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gda%C5%84ski_Teatr_Szekspirowski_%E2%80%93_widownia.JPG",
     "file": "File:Gdański Teatr Szekspirowski – widownia.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Poland._Gda%C5%84sk_006.JPG/1280px-Poland._Gda%C5%84sk_006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gdansk-shakespeare-theatre/thumbs/5.webp",
-    "w": 1280,
-    "h": 911,
-    "kind": "Detail",
-    "caption": "Detail · Poland, Gdańsk",
-    "credit": "Albertyanks  - Albert Jankowski",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Poland._Gda%C5%84sk_006.JPG",
-    "file": "File:Poland. Gdańsk 006.JPG"
    }
   ],
   "has": [],
@@ -243059,7 +242454,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-the-second-world-war-gdansk",
-  "n": 2609,
+  "n": 2603,
   "name": "Museum of the Second World War",
   "by": "Kwadrat",
   "place": "Gdańsk, PL",
@@ -243128,30 +242523,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gdansk_Muzeum_IIWS_31.jpg",
     "file": "File:Gdansk Muzeum IIWS 31.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025d.jpg/1280px-Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-the-second-world-war-gdansk/thumbs/4.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior · Museum of the Second World War in Gdańsk",
-    "credit": "Adrian Grycuk",
-    "license": "CC BY 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025d.jpg",
-    "file": "File:Museum of the Second World War in Gdańsk 2025d.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025a.jpg/1280px-Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-the-second-world-war-gdansk/thumbs/5.webp",
-    "w": 1280,
-    "h": 896,
-    "kind": "Interior",
-    "caption": "Interior · Museum of the Second World War in Gdańsk",
-    "credit": "Adrian Grycuk",
-    "license": "CC BY 3.0 pl",
-    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Second_World_War_in_Gda%C5%84sk_2025a.jpg",
-    "file": "File:Museum of the Second World War in Gdańsk 2025a.jpg"
    }
   ],
   "has": [],
@@ -243159,7 +242530,7 @@ window.BUILDINGS = [
  },
  {
   "id": "divine-mercy-church-kalisz",
-  "n": 2610,
+  "n": 2604,
   "name": "Divine Mercy Church",
   "by": "Jerzy Kuźmienko, Andrzej Fajans",
   "place": "Kalisz, PL",
@@ -243235,7 +242606,7 @@ window.BUILDINGS = [
  },
  {
   "id": "renoma-wroclaw",
-  "n": 2611,
+  "n": 2605,
   "name": "Renoma (Wertheim department store)",
   "by": "Hermann Dernburg",
   "place": "Wrocław, PL",
@@ -243335,7 +242706,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-bilek-prague",
-  "n": 2612,
+  "n": 2606,
   "name": "Villa Bílek",
   "by": "František Bílek",
   "place": "Prague, CZ",
@@ -243404,30 +242775,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Bilkovavila2.jpg",
     "file": "File:Bilkovavila2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Chotkova_a_Badeniho%2C_z_l%C3%A1vky_%2802%29.jpg/1280px-Chotkova_a_Badeniho%2C_z_l%C3%A1vky_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-bilek-prague/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Prague - Hradčany , Czechia ",
-    "credit": "ŠJů",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chotkova_a_Badeniho,_z_l%C3%A1vky_(02).jpg",
-    "file": "File:Chotkova a Badeniho, z lávky (02).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chotkova%2C_k%C5%99i%C5%BEovatka_a_B%C3%ADlkova_vila.jpg/1280px-Chotkova%2C_k%C5%99i%C5%BEovatka_a_B%C3%ADlkova_vila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-bilek-prague/thumbs/5.webp",
-    "w": 1280,
-    "h": 931,
-    "kind": "Context",
-    "caption": "Context · Prague - Hradčany , Czechia ",
-    "credit": "ŠJů",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chotkova,_k%C5%99i%C5%BEovatka_a_B%C3%ADlkova_vila.jpg",
-    "file": "File:Chotkova, křižovatka a Bílkova vila.jpg"
    }
   ],
   "has": [],
@@ -243435,7 +242782,7 @@ window.BUILDINGS = [
  },
  {
   "id": "legiobanka-prague",
-  "n": 2613,
+  "n": 2607,
   "name": "Legiobanka (Bank of the Czechoslovak Legions)",
   "by": "Josef Gočár",
   "place": "Prague, CZ",
@@ -243535,7 +242882,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-intercontinental-prague",
-  "n": 2614,
+  "n": 2608,
   "name": "Hotel Intercontinental Prague (Fairmont Golden Prague)",
   "by": "Karel Filsak",
   "place": "Prague, CZ",
@@ -243580,54 +242927,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:20190202_InteCon@Praha_2912_(40474610193).jpg",
     "file": "File:20190202 InteCon@Praha 2912 (40474610193).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Plakette_des_Intercontinental_%28Prague%29.JPG/1280px-Plakette_des_Intercontinental_%28Prague%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-intercontinental-prague/thumbs/2.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Die Plakette des Hotels Intercontinental in Prag",
-    "credit": "High Contrast",
-    "license": "CC BY 3.0 de",
-    "source": "https://commons.wikimedia.org/wiki/File:Plakette_des_Intercontinental_(Prague).JPG",
-    "file": "File:Plakette des Intercontinental (Prague).JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hotel_InterContinental_Praha.jpg/1280px-Hotel_InterContinental_Praha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-intercontinental-prague/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Hotel InterContinental Praha (hotel v Praze)",
-    "credit": "Aktron",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hotel_InterContinental_Praha.jpg",
-    "file": "File:Hotel InterContinental Praha.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Praha%2C_Pa%C5%99%C3%AD%C5%BEsk%C3%A1%2C_Hotel_InterContinental_Praha%2C_sklen%C4%9Bn%C3%A1_kostka.jpg/1280px-Praha%2C_Pa%C5%99%C3%AD%C5%BEsk%C3%A1%2C_Hotel_InterContinental_Praha%2C_sklen%C4%9Bn%C3%A1_kostka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-intercontinental-prague/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Hotel InterContinental Praha (hotel v Praze)",
-    "credit": "Aktron",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Praha,_Pa%C5%99%C3%AD%C5%BEsk%C3%A1,_Hotel_InterContinental_Praha,_sklen%C4%9Bn%C3%A1_kostka.jpg",
-    "file": "File:Praha, Pařížská, Hotel InterContinental Praha, skleněná kostka.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/20190202_InteCon%40Praha_2821_%2847387507672%29.jpg/1280px-20190202_InteCon%40Praha_2821_%2847387507672%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-intercontinental-prague/thumbs/5.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · 20190202_InteCon@Praha_2821",
-    "credit": "Ray Swi-hymn  from Sijhih-Taipei, Taiwan",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20190202_InteCon@Praha_2821_(47387507672).jpg",
-    "file": "File:20190202 InteCon@Praha 2821 (47387507672).jpg"
    }
   ],
   "has": [],
@@ -243635,7 +242934,7 @@ window.BUILDINGS = [
  },
  {
   "id": "colonnade-bridge-piestany",
-  "n": 2615,
+  "n": 2609,
   "name": "Colonnade Bridge (Kolonádový most)",
   "by": "Emil Belluš",
   "place": "Piešťany, SK",
@@ -243682,30 +242981,6 @@ window.BUILDINGS = [
     "file": "File:Kolonádový most - panoramio (1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kolon%C3%A1dov%C3%BD_most_Pie%C5%A1%C5%A5any.jpg/1280px-Kolon%C3%A1dov%C3%BD_most_Pie%C5%A1%C5%A5any.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/colonnade-bridge-piestany/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Kolonádový most Piešťany",
-    "credit": "Akul59",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kolon%C3%A1dov%C3%BD_most_Pie%C5%A1%C5%A5any.jpg",
-    "file": "File:Kolonádový most Piešťany.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Kolon%C3%A1dov%C3%BD_most_v_Pie%C5%A1%C5%A5anoch.jpg/1280px-Kolon%C3%A1dov%C3%BD_most_v_Pie%C5%A1%C5%A5anoch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/colonnade-bridge-piestany/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Kolonádový most v Piešťanoch",
-    "credit": "Akul59",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kolon%C3%A1dov%C3%BD_most_v_Pie%C5%A1%C5%A5anoch.jpg",
-    "file": "File:Kolonádový most v Piešťanoch.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kolon%C3%A1dov%C3%BD_most%2C_Pie%C5%A1%C5%A5any_22_Slovakia_5.jpg/1280px-Kolon%C3%A1dov%C3%BD_most%2C_Pie%C5%A1%C5%A5any_22_Slovakia_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/colonnade-bridge-piestany/thumbs/4.webp",
     "w": 1280,
@@ -243735,7 +243010,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-de-ville-le-havre",
-  "n": 2616,
+  "n": 2610,
   "name": "Hôtel de Ville, Le Havre",
   "by": "Auguste Perret (completed by Jacques Tournant)",
   "place": "Le Havre, FR",
@@ -243780,64 +243055,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Le_Havre_Place_H%C3%B4tel_de_Ville_R01.jpg",
     "file": "File:Le Havre Place Hôtel de Ville R01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Tramway-place-de-l%27Hotel-de-ville-du-Havre-DSC_0871.jpg/1280px-Tramway-place-de-l%27Hotel-de-ville-du-Havre-DSC_0871.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-le-havre/thumbs/2.webp",
-    "w": 1280,
-    "h": 759,
-    "kind": "Interior",
-    "caption": "Interior · Tramway in place de l'Hotel de ville, Le Havre, Seine Maritime, France",
-    "credit": "Pline",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tramway-place-de-l%27Hotel-de-ville-du-Havre-DSC_0871.jpg",
-    "file": "File:Tramway-place-de-l'Hotel-de-ville-du-Havre-DSC 0871.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Le_Havre_-_76600_-_2024.07.07_-_Halte-cr%C3%A8che_%C2%AB_Les_petits_Paris_%C2%BB_%28dessins_sur_la_vitre_pour_les_Jeux_olympiques_de_Paris_2024%29_%C2%A9_Anthony_Levrot.jpg/1280px-Le_Havre_-_76600_-_2024.07.07_-_Halte-cr%C3%A8che_%C2%AB_Les_petits_Paris_%C2%BB_%28dessins_sur_la_vitre_pour_les_Jeux_olympiques_de_Paris_2024%29_%C2%A9_Anthony_Levrot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-le-havre/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Anthony Levrot",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Le_Havre_-_76600_-_2024.07.07_-_Halte-cr%C3%A8che_%C2%AB_Les_petits_Paris_%C2%BB_(dessins_sur_la_vitre_pour_les_Jeux_olympiques_de_Paris_2024)_%C2%A9_Anthony_Levrot.jpg",
-    "file": "File:Le Havre - 76600 - 2024.07.07 - Halte-crèche « Les petits Paris » (dessins sur la vitre pour les Jeux olympiques de Paris 2024) © Anthony Levrot.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soldats_ayant_re%C3%A7u_une_d%C3%A9coration_-_devant_l%27h%C3%B4tel_de_ville_du_Havre_-_A._M._No%C3%ABl_-_btv1b10594968p.jpg/1280px-Soldats_ayant_re%C3%A7u_une_d%C3%A9coration_-_devant_l%27h%C3%B4tel_de_ville_du_Havre_-_A._M._No%C3%ABl_-_btv1b10594968p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-le-havre/thumbs/4.webp",
-    "w": 1280,
-    "h": 924,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Noël, Michel Arthur Georges (1859-....). Photographe",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Soldats_ayant_re%C3%A7u_une_d%C3%A9coration_-_devant_l%27h%C3%B4tel_de_ville_du_Havre_-_A._M._No%C3%ABl_-_btv1b10594968p.jpg",
-    "file": "File:Soldats ayant reçu une décoration - devant l'hôtel de ville du Havre - A. M. Noël - btv1b10594968p.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Maquette_pour_un_calendrier_pour_le_journal_%22Le_Petit_Havre%22_repr%C3%A9sentant_l%27h%C3%B4tel_de_ville_-_btv1b10122019p.jpg/1280px-Maquette_pour_un_calendrier_pour_le_journal_%22Le_Petit_Havre%22_repr%C3%A9sentant_l%27h%C3%B4tel_de_ville_-_btv1b10122019p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-le-havre/thumbs/5.webp",
-    "w": 1280,
-    "h": 947,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Rivière, Prosper. Illustrateur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquette_pour_un_calendrier_pour_le_journal_%22Le_Petit_Havre%22_repr%C3%A9sentant_l%27h%C3%B4tel_de_ville_-_btv1b10122019p.jpg",
-    "file": "File:Maquette pour un calendrier pour le journal \"Le Petit Havre\" représentant l'hôtel de ville - btv1b10122019p.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "muma-le-havre",
-  "n": 2617,
+  "n": 2611,
   "name": "MuMa (Musée d'art moderne André Malraux)",
   "by": "Guy Lagneau, Michel Weill, Jean Dimitrijevic; louvres by Jean Prouvé",
   "place": "Le Havre, FR",
@@ -243884,18 +243109,6 @@ window.BUILDINGS = [
     "file": "File:Le Havre - MuMa Musée d'art moderne André Malraux (39142543755).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%28Le_Havre%29_%2851487304038%29.jpg/1280px-Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%28Le_Havre%29_%2851487304038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muma-le-havre/thumbs/2.webp",
-    "w": 1280,
-    "h": 711,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Jean-Pierre Dalbéra",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_(Le_Havre)_(51487304038).jpg",
-    "file": "File:Le musée d'art moderne André Malraux (Le Havre) (51487304038).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Le_Havre_-_MuMa_Mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%2839314074814%29.jpg/1280px-Le_Havre_-_MuMa_Mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%2839314074814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/muma-le-havre/thumbs/3.webp",
     "w": 1280,
@@ -243932,26 +243145,24 @@ window.BUILDINGS = [
     "file": "File:Le Havre - Musée des beaux-arts - Intérieur 10.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/%28Albi%29_Cheval_de_selle_-_Edgar_Degas_-_Mus%C3%A9e_d%27Art_moderne_Andr%C3%A9_Malraux.jpg/1280px-%28Albi%29_Cheval_de_selle_-_Edgar_Degas_-_Mus%C3%A9e_d%27Art_moderne_Andr%C3%A9_Malraux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/muma-le-havre/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%28Le_Havre%29_%2851487304038%29.jpg/1280px-Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_%28Le_Havre%29_%2851487304038%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muma-le-havre/thumbs/2.webp",
     "w": 1280,
-    "h": 812,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Didier Descouens",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:(Albi)_Cheval_de_selle_-_Edgar_Degas_-_Mus%C3%A9e_d%27Art_moderne_Andr%C3%A9_Malraux.jpg",
-    "file": "File:(Albi) Cheval de selle - Edgar Degas - Musée d'Art moderne André Malraux.jpg"
+    "h": 711,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_d%27art_moderne_Andr%C3%A9_Malraux_(Le_Havre)_(51487304038).jpg",
+    "file": "File:Le musée d'art moderne André Malraux (Le Havre) (51487304038).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "la-grande-borne",
-  "n": 2618,
+  "n": 2612,
   "name": "La Grande Borne",
   "by": "Émile Aillaud",
   "place": "Grigny, FR",
@@ -244050,48 +243261,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "cite-fruges-pessac",
-  "n": 2619,
-  "name": "Cité Frugès (Quartiers Modernes Frugès)",
-  "by": "Le Corbusier, Pierre Jeanneret",
-  "place": "Pessac, FR",
-  "year": "1926",
-  "y": 1926,
-  "type": "Housing",
-  "movement": "Modernism",
-  "region": "Europe",
-  "era": "1900–1945",
-  "concepts": [
-   "Colour",
-   "Geometry",
-   "Detail"
-  ],
-  "study": "51 houses of five types (135 planned), with panels painted brown, blue, yellow and jade green; Unesco-listed 2016.",
-  "qid": null,
-  "commons": "Category:Cité Frugès de Pessac",
-  "lead": "File:Cite Fruges .jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cite_Fruges_.jpg/1280px-Cite_Fruges_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cite-fruges-pessac/thumbs/0.webp",
-    "w": 1280,
-    "h": 462,
-    "kind": "Exterior",
-    "caption": "Exterior · Panneau indicateur de la cité à Pessac",
-    "credit": "DeuxPlusQuatre",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cite_Fruges_.jpg",
-    "file": "File:Cite Fruges .jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "tour-montparnasse",
-  "n": 2620,
+  "n": 2613,
   "name": "Tour Montparnasse",
   "by": "Eugène Beaudouin, Urbain Cassan, Louis de Hoÿm de Marien",
   "place": "Paris, FR",
@@ -244126,30 +243297,6 @@ window.BUILDINGS = [
     "file": "File:Tour Montparnasse 20250513.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg/1280px-Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-montparnasse/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Montparnasse Tower seen from the Jardin du Luxembourg in Paris, France",
-    "credit": "DiscoA340",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg",
-    "file": "File:Montparnasse Tower seen from the Jardin du Luxembourg 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Tour_Montparnasse_%40_Paris_%2823379715554%29.jpg/1280px-Tour_Montparnasse_%40_Paris_%2823379715554%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-montparnasse/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Tour Montparnasse @ Paris",
-    "credit": "Guilhem Vellut  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tour_Montparnasse_@_Paris_(23379715554).jpg",
-    "file": "File:Tour Montparnasse @ Paris (23379715554).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Gare_de_Paris-Montparnasse_DSC_1465_%2849633330101%29.jpg/1280px-Gare_de_Paris-Montparnasse_DSC_1465_%2849633330101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tour-montparnasse/thumbs/3.webp",
     "w": 1050,
@@ -244174,38 +243321,24 @@ window.BUILDINGS = [
     "file": "File:Montparnasse (33934468703).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Montparnasse_%40_Paris_%2823712821420%29.jpg/1280px-Montparnasse_%40_Paris_%2823712821420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-montparnasse/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Montparnasse @ Paris",
-    "credit": "Guilhem Vellut  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Montparnasse_@_Paris_(23712821420).jpg",
-    "file": "File:Montparnasse @ Paris (23712821420).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Tallest_buildings_in_Paris_-_comparison_graph.png/1280px-Tallest_buildings_in_Paris_-_comparison_graph.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-montparnasse/thumbs/6.webp",
-    "w": 1280,
-    "h": 438,
-    "kind": "Drawing",
-    "caption": "Drawing · The silhouettes of the most famous and tallest building in Paris",
-    "credit": "Gabgabri",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tallest_buildings_in_Paris_-_comparison_graph.png",
-    "file": "File:Tallest buildings in Paris - comparison graph.png"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg/1280px-Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tour-montparnasse/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Montparnasse Tower seen from the Jardin du Luxembourg in Paris, France",
+    "credit": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Montparnasse_Tower_seen_from_the_Jardin_du_Luxembourg_2.jpg",
+    "file": "File:Montparnasse Tower seen from the Jardin du Luxembourg 2.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "stade-de-france",
-  "n": 2621,
+  "n": 2614,
   "name": "Stade de France",
   "by": "Michel Macary, Aymeric Zublena, Michel Regembal, Claude Constantini",
   "place": "Saint-Denis, FR",
@@ -244240,42 +243373,6 @@ window.BUILDINGS = [
     "file": "File:Stade de France (48109548381).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Stade_de_France_tour_%2848097673993%29.jpg/1280px-Stade_de_France_tour_%2848097673993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-de-france/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Stade de France tour",
-    "credit": "Daniel  from Glasgow, United Kingdom",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stade_de_France_tour_(48097673993).jpg",
-    "file": "File:Stade de France tour (48097673993).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pose_du_dernier_troncon_de_la_toiture_du_stade_de_france.jpg/1280px-Pose_du_dernier_troncon_de_la_toiture_du_stade_de_france.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-de-france/thumbs/2.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Exterior",
-    "caption": "Exterior · Matthias Gattwinkel was engineer at this time at the Stade de France",
-    "credit": "Gattwinkel",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Pose_du_dernier_troncon_de_la_toiture_du_stade_de_france.jpg",
-    "file": "File:Pose du dernier troncon de la toiture du stade de france.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Stade_de_France_%40_Parc_d%C3%A9partemental_Georges-Valbon_01.jpg/1280px-Stade_de_France_%40_Parc_d%C3%A9partemental_Georges-Valbon_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-de-france/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Le stade de France depuis le parc départemental Georges-Valbon, La Courneuve, Seine-Saint-Denis, France",
-    "credit": "Rémih",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stade_de_France_@_Parc_d%C3%A9partemental_Georges-Valbon_01.jpg",
-    "file": "File:Stade de France @ Parc départemental Georges-Valbon 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/CAO_St-Denis_-_Travaux_-Vue_g%C3%A9n%C3%A9rale_SDF%2C_passerelle%2C_CAO_-_PANO_20230920_160409%281%29.jpg/1280px-CAO_St-Denis_-_Travaux_-Vue_g%C3%A9n%C3%A9rale_SDF%2C_passerelle%2C_CAO_-_PANO_20230920_160409%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stade-de-france/thumbs/4.webp",
     "w": 1280,
@@ -244300,6 +243397,18 @@ window.BUILDINGS = [
     "file": "File:Stade de France @ Saint-Denis (28359861273).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Stade_de_France_tour_%2848097673993%29.jpg/1280px-Stade_de_France_tour_%2848097673993%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stade-de-france/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Stade de France tour",
+    "credit": "Daniel  from Glasgow, United Kingdom",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stade_de_France_tour_(48097673993).jpg",
+    "file": "File:Stade de France tour (48097673993).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Le_Stade_de_France_lors_de_la_finale_de_la_Coupe_de_la_Ligue_2015_-_2016.jpg/1280px-Le_Stade_de_France_lors_de_la_finale_de_la_Coupe_de_la_Ligue_2015_-_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stade-de-france/thumbs/6.webp",
     "w": 1280,
@@ -244310,29 +243419,16 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Le_Stade_de_France_lors_de_la_finale_de_la_Coupe_de_la_Ligue_2015_-_2016.jpg",
     "file": "File:Le Stade de France lors de la finale de la Coupe de la Ligue 2015 - 2016.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pose_premi%C3%A8re_pierre_Stade_de_France_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/stade-de-france/thumbs/7.webp",
-    "w": 1280,
-    "h": 862,
-    "kind": "Model",
-    "caption": "Model · French Prime Minister Alain Juppé looking at a model of the Stade de France in 1995",
-    "credit": "Archives nationales",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pose_premi%C3%A8re_pierre_Stade_de_France_1995.jpg",
-    "file": "File:Pose première pierre Stade de France 1995.jpg"
    }
   ],
   "has": [
-   "Section",
-   "Model"
+   "Section"
   ],
   "gv": 3
  },
  {
   "id": "accor-arena-bercy",
-  "n": 2622,
+  "n": 2615,
   "name": "Accor Arena (Palais omnisports de Paris-Bercy)",
   "by": "Andrault & Parat, Jean Prouvé, Aydin Guvan",
   "place": "Paris, FR",
@@ -244413,18 +243509,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Palais_Omnisports_Paris_Bercy_-_Paris_XII_(FR75)_-_2025-05-17_-_1.jpg",
     "file": "File:Intérieur Palais Omnisports Paris Bercy - Paris XII (FR75) - 2025-05-17 - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Int%C3%A9rieur_Arena_Bercy_-_Paris_XII_%28FR75%29_-_2024-08-31_-_1.jpg/1280px-Int%C3%A9rieur_Arena_Bercy_-_Paris_XII_%28FR75%29_-_2024-08-31_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/accor-arena-bercy/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Intérieur de l'Arena Bercy, Paris",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Arena_Bercy_-_Paris_XII_(FR75)_-_2024-08-31_-_1.jpg",
-    "file": "File:Intérieur Arena Bercy - Paris XII (FR75) - 2024-08-31 - 1.jpg"
    }
   ],
   "has": [],
@@ -244432,7 +243516,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ministere-des-finances-bercy",
-  "n": 2623,
+  "n": 2616,
   "name": "Ministère de l'Économie et des Finances (Bercy)",
   "by": "Paul Chemetov, Borja Huidobro",
   "place": "Paris, FR",
@@ -244479,30 +243563,6 @@ window.BUILDINGS = [
     "file": "File:Paris - Ministère de l'Économie et des Finances (22824880527).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_39.jpg/1280px-Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ministere-des-finances-bercy/thumbs/2.webp",
-    "w": 886,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "exemples gravés géométriquement par MM. Normand, Hibon, Thierry, Olivier, etc.,",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Bury_-_Mod%C3%A8les_de_serrurerie_-_planche_39.jpg",
-    "file": "File:Bury - Modèles de serrurerie - planche 39.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Vues_de_Paris_Rue_de_Rivoli_Minist%C3%A8res_des_Finances_et_de_la_Marine._Paris_Mus%C3%A9es_20230620160417.jpg/1280px-Vues_de_Paris_Rue_de_Rivoli_Minist%C3%A8res_des_Finances_et_de_la_Marine._Paris_Mus%C3%A9es_20230620160417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ministere-des-finances-bercy/thumbs/3.webp",
-    "w": 1280,
-    "h": 1054,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Benoist, Philippe (Genève, en 1813 - en 1905), dessinateur-lithographe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vues_de_Paris_Rue_de_Rivoli_Minist%C3%A8res_des_Finances_et_de_la_Marine._Paris_Mus%C3%A9es_20230620160417.jpg",
-    "file": "File:Vues de Paris Rue de Rivoli Ministères des Finances et de la Marine. Paris Musées 20230620160417.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ecole_nationale_des_Finances_publiques_-_Clermont-Ferrand_2.jpg/1280px-Ecole_nationale_des_Finances_publiques_-_Clermont-Ferrand_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ministere-des-finances-bercy/thumbs/4.webp",
     "w": 1280,
@@ -244513,53 +243573,14 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ecole_nationale_des_Finances_publiques_-_Clermont-Ferrand_2.jpg",
     "file": "File:Ecole nationale des Finances publiques - Clermont-Ferrand 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dome_Painting_inside_the_Monnaie_de_Paris.jpg/1280px-Dome_Painting_inside_the_Monnaie_de_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ministere-des-finances-bercy/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Dome Painting inside the Monnaie de Paris in France",
-    "credit": "DiscoA340",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dome_Painting_inside_the_Monnaie_de_Paris.jpg",
-    "file": "File:Dome Painting inside the Monnaie de Paris.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Copie_manuscrite%2C_certifi%C3%A9e_conforme_par_l%27administrateur_des_contributions_directes%2C_du_plan_%C3%A9tabli_en_1822_de_l%27H%C3%B4tel_du_Minist%C3%A8re_des_Finances_construit_sur_un_terrain_situ%C3%A9_entre_les_rues_de_Rivoli..._-_btv1b53260457b.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ministere-des-finances-bercy/thumbs/6.webp",
-    "w": 1280,
-    "h": 914,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Bibliothèque nationale de France",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Copie_manuscrite,_certifi%C3%A9e_conforme_par_l%27administrateur_des_contributions_directes,_du_plan_%C3%A9tabli_en_1822_de_l%27H%C3%B4tel_du_Minist%C3%A8re_des_Finances_construit_sur_un_terrain_situ%C3%A9_entre_les_rues_de_Rivoli..._-_btv1b53260457b.jpg",
-    "file": "File:Copie manuscrite, certifiée conforme par l'administrateur des contributions directes, du plan établi en 1822 de l'Hôtel du Ministère des Finances construit sur un terrain situé entre les rues de Rivoli... - btv1b53260457b.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Minist%C3%A8re_des_Finances_-_Cour_d%27honneur_-_br%C3%BBl%C3%A9_en_1871_et_construit_sur_l%27emplacement_du_Couvent_des_Feuillants_-_dessin_-_Augustus_Charles_Pugin_-_btv1b103026549.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ministere-des-finances-bercy/thumbs/7.webp",
-    "w": 1280,
-    "h": 904,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Pugin, Augustus Charles (1762-1832). Dessinateur",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_des_Finances_-_Cour_d%27honneur_-_br%C3%BBl%C3%A9_en_1871_et_construit_sur_l%27emplacement_du_Couvent_des_Feuillants_-_dessin_-_Augustus_Charles_Pugin_-_btv1b103026549.jpg",
-    "file": "File:Ministère des Finances - Cour d'honneur - brûlé en 1871 et construit sur l'emplacement du Couvent des Feuillants - dessin - Augustus Charles Pugin - btv1b103026549.jpg"
    }
   ],
-  "has": [
-   "Plan",
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "cite-des-sciences-et-de-l-industrie",
-  "n": 2624,
+  "n": 2617,
   "name": "Cité des Sciences et de l'Industrie",
   "by": "Adrien Fainsilber",
   "place": "Paris, FR",
@@ -244592,18 +243613,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_des_Sciences_et_de_l%27Industrie,_La_Villette,_Paris_-_France_(63392).jpg",
     "file": "File:Cité des Sciences et de l'Industrie, La Villette, Paris - France (63392).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cit%C3%A9_des_Sciences_et_de_l%27Industrie_%40_Parc_de_La_Villette_%40_Paris_%2828853466272%29.jpg/1280px-Cit%C3%A9_des_Sciences_et_de_l%27Industrie_%40_Parc_de_La_Villette_%40_Paris_%2828853466272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cite-des-sciences-et-de-l-industrie/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris",
-    "credit": "Guilhem Vellut  from Paris, France",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_des_Sciences_et_de_l%27Industrie_@_Parc_de_La_Villette_@_Paris_(28853466272).jpg",
-    "file": "File:Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris (28853466272).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Back_of_the_Cit%C3%A9_des_sciences_et_de_l%27industrie_4.jpg/1280px-Back_of_the_Cit%C3%A9_des_sciences_et_de_l%27industrie_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -244642,6 +243651,18 @@ window.BUILDINGS = [
     "file": "File:Cité des Sciences @ La Villette @ Paris (33549562400).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cit%C3%A9_des_Sciences_et_de_l%27Industrie_%40_Parc_de_La_Villette_%40_Paris_%2828853466272%29.jpg/1280px-Cit%C3%A9_des_Sciences_et_de_l%27Industrie_%40_Parc_de_La_Villette_%40_Paris_%2828853466272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cite-des-sciences-et-de-l-industrie/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris",
+    "credit": "Guilhem Vellut  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_des_Sciences_et_de_l%27Industrie_@_Parc_de_La_Villette_@_Paris_(28853466272).jpg",
+    "file": "File:Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris (28853466272).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/B_-_N.jpg/1280px-B_-_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cite-des-sciences-et-de-l-industrie/thumbs/5.webp",
     "w": 1280,
@@ -244652,28 +243673,14 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:B_-_N.jpg",
     "file": "File:B - N.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Cit%C3%A9_des_Sciences_et_de_lIndustrie_11%2C_November_18%2C_2012.jpg/1280px-Cit%C3%A9_des_Sciences_et_de_lIndustrie_11%2C_November_18%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cite-des-sciences-et-de-l-industrie/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Andreas Hobi  from Chur, Switzerland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_des_Sciences_et_de_lIndustrie_11,_November_18,_2012.jpg",
-    "file": "File:Cité des Sciences et de lIndustrie 11, November 18, 2012.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "palais-de-tokyo",
-  "n": 2625,
+  "n": 2618,
   "name": "Palais de Tokyo",
   "by": "André Aubert, Marcel Dastugue, Paul Viard",
   "place": "Paris, FR",
@@ -244718,18 +243725,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Palais_de_Tokyo_@_Paris_(31028565970).jpg",
     "file": "File:Palais de Tokyo @ Paris (31028565970).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Palais_de_Tokyo_and_Passerelle_Debilly%2C_Paris_6_March_2015.jpg/1280px-Palais_de_Tokyo_and_Passerelle_Debilly%2C_Paris_6_March_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-de-tokyo/thumbs/2.webp",
-    "w": 1280,
-    "h": 699,
-    "kind": "Exterior",
-    "caption": "Exterior · Palais de Tokyo and Passerelle Debilly, Paris",
-    "credit": "Ana Paula Hirama",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_de_Tokyo_and_Passerelle_Debilly,_Paris_6_March_2015.jpg",
-    "file": "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/La_Elle_2024%2C_Ren%C3%A9e_Levi.jpg/1280px-La_Elle_2024%2C_Ren%C3%A9e_Levi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -244800,7 +243795,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palais-de-chaillot",
-  "n": 2626,
+  "n": 2619,
   "name": "Palais de Chaillot",
   "by": "Louis-Hippolyte Boileau, Jacques Carlu, Léon Azéma",
   "place": "Paris, FR",
@@ -244871,18 +243866,6 @@ window.BUILDINGS = [
     "file": "File:Palais de Chaillot (01).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Stairs_%2829592941504%29.jpg/1280px-Stairs_%2829592941504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palais-de-chaillot/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Paris",
-    "credit": "James Petts  from London, England",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stairs_(29592941504).jpg",
-    "file": "File:Stairs (29592941504).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/The_massive_stairs_leading_to_the_Esplanade_du_Trocad%C3%A9ro-10239790464.jpg/1280px-The_massive_stairs_leading_to_the_Esplanade_du_Trocad%C3%A9ro-10239790464.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-de-chaillot/thumbs/5.webp",
     "w": 1280,
@@ -244900,7 +243883,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mobilier-national-paris",
-  "n": 2627,
+  "n": 2620,
   "name": "Mobilier National",
   "by": "Auguste Perret",
   "place": "Paris, FR",
@@ -244969,118 +243952,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Paris_13e_Rue_Berbier-du-Mets_Mobilier_national_801.jpg",
     "file": "File:Paris 13e Rue Berbier-du-Mets Mobilier national 801.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Sculpture_de_chien_-_Andr%C3%A9_Abbal_-_Mobilier_national_-_2024_%2802%29.jpg/1280px-Sculpture_de_chien_-_Andr%C3%A9_Abbal_-_Mobilier_national_-_2024_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mobilier-national-paris/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Titlutin",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Sculpture_de_chien_-_Andr%C3%A9_Abbal_-_Mobilier_national_-_2024_(02).jpg",
-    "file": "File:Sculpture de chien - André Abbal - Mobilier national - 2024 (02).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "bourse-de-commerce-pinault-collection",
-  "n": 2628,
-  "name": "Bourse de Commerce (Pinault Collection)",
-  "by": "Tadao Ando (conversion of Henri Blondel's 1889 building)",
-  "place": "Paris, FR",
-  "year": "2021",
-  "y": 2021,
-  "type": "Museum",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Adaptive reuse",
-   "Geometry",
-   "Light from above"
-  ],
-  "study": "Ando set a 30 ft-high concrete cylinder inside the 18th-century rotunda, under its copper-clad iron dome.",
-  "qid": null,
-  "commons": "Category:François Pinault",
-  "lead": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51271877176).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_%28Paris%29_%2851271877176%29.jpg/1280px-La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_%28Paris%29_%2851271877176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/0.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Jean-Pierre Dalbéra",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_(Paris)_(51271877176).jpg",
-    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51271877176).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_%28Paris%29_%2851272095538%29.jpg/1280px-La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_%28Paris%29_%2851272095538%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Jean-Pierre Dalbéra",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Bourse_de_commerce_transform%C3%A9e_par_Tadao_Ando_(Paris)_(51272095538).jpg",
-    "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51272095538).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fran%C3%A7ois_Pinault_Stade_rennais_-_Le_Havre_AC_20150708_44.jpg/1280px-Fran%C3%A7ois_Pinault_Stade_rennais_-_Le_Havre_AC_20150708_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/2.webp",
-    "w": 1171,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "S. Plaine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Pinault_Stade_rennais_-_Le_Havre_AC_20150708_44.jpg",
-    "file": "File:François Pinault Stade rennais - Le Havre AC 20150708 44.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_Les_Pinault_2.jpg/1280px-Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_Les_Pinault_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/3.webp",
-    "w": 1280,
-    "h": 802,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "S. Plaine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stade_rennais_vs_USM_Alger,_July_16th_2016_-_Les_Pinault_2.jpg",
-    "file": "File:Stade rennais vs USM Alger, July 16th 2016 - Les Pinault 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_Les_Pinault_1.jpg/1280px-Stade_rennais_vs_USM_Alger%2C_July_16th_2016_-_Les_Pinault_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/4.webp",
-    "w": 1280,
-    "h": 945,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "S. Plaine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stade_rennais_vs_USM_Alger,_July_16th_2016_-_Les_Pinault_1.jpg",
-    "file": "File:Stade rennais vs USM Alger, July 16th 2016 - Les Pinault 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Marc-Antoine_L%C3%A9val_et_Fran%C3%A7ois_Pinault_au_bal_jaune_en_2007.JPG/1280px-Marc-Antoine_L%C3%A9val_et_Fran%C3%A7ois_Pinault_au_bal_jaune_en_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault-collection/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Marc-Antoine Léval et François Pinault at the bal jaune party 2007",
-    "credit": "Marc-Antoine Léval",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marc-Antoine_L%C3%A9val_et_Fran%C3%A7ois_Pinault_au_bal_jaune_en_2007.JPG",
-    "file": "File:Marc-Antoine Léval et François Pinault au bal jaune en 2007.JPG"
    }
   ],
   "has": [],
@@ -245088,7 +243959,7 @@ window.BUILDINGS = [
  },
  {
   "id": "station-f-halle-freyssinet",
-  "n": 2629,
+  "n": 2621,
   "name": "Station F (Halle Freyssinet)",
   "by": "Eugène Freyssinet (conversion: Wilmotte & Associés)",
   "place": "Paris, FR",
@@ -245135,18 +244006,6 @@ window.BUILDINGS = [
     "file": "File:Halle Freyssinet - Station F - Outside.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Jeff_Koons%E2%80%99_artwork_%E2%80%98Play-Doh%E2%80%99%2C_created_in_2014_-_2026-05-05.jpg/1280px-Jeff_Koons%E2%80%99_artwork_%E2%80%98Play-Doh%E2%80%99%2C_created_in_2014_-_2026-05-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/station-f-halle-freyssinet/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Bretwa",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jeff_Koons%E2%80%99_artwork_%E2%80%98Play-Doh%E2%80%99,_created_in_2014_-_2026-05-05.jpg",
-    "file": "File:Jeff Koons’ artwork ‘Play-Doh’, created in 2014 - 2026-05-05.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/HEC_Paris_Incubator.jpg/1280px-HEC_Paris_Incubator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/station-f-halle-freyssinet/thumbs/3.webp",
     "w": 1280,
@@ -245188,7 +244047,7 @@ window.BUILDINGS = [
  },
  {
   "id": "passerelle-simone-de-beauvoir",
-  "n": 2630,
+  "n": 2622,
   "name": "Passerelle Simone-de-Beauvoir",
   "by": "Dietmar Feichtinger Architectes",
   "place": "Paris, FR",
@@ -245221,18 +244080,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Passerelle_Simone-de-Beauvoir_@_Seine_@_Paris_(28410220012).jpg",
     "file": "File:Passerelle Simone-de-Beauvoir @ Seine @ Paris (28410220012).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Passerelle_Simone_de_Beauvoir%2C_Paris_2_December_2006.jpg/1280px-Passerelle_Simone_de_Beauvoir%2C_Paris_2_December_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/passerelle-simone-de-beauvoir/thumbs/1.webp",
-    "w": 1280,
-    "h": 640,
-    "kind": "Context",
-    "caption": "Context · Passerelle Simone de Beauvoir, Paris",
-    "credit": "Alexandre Duret-Lutz  from Paris, France",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_Simone_de_Beauvoir,_Paris_2_December_2006.jpg",
-    "file": "File:Passerelle Simone de Beauvoir, Paris 2 December 2006.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Passerelle_Simone-de-Beauvoir.jpg/1280px-Passerelle_Simone-de-Beauvoir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -245271,16 +244118,16 @@ window.BUILDINGS = [
     "file": "File:Passerelle Simone-de-Beauvoir & site François Mitterrand de la BnF – Paris 13ᵉ.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Graffiti_On_The_Passerelle_Simone-de-Beauvoir_Over_The_Seine_-_Paris_2013.jpg/1280px-Graffiti_On_The_Passerelle_Simone-de-Beauvoir_Over_The_Seine_-_Paris_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/passerelle-simone-de-beauvoir/thumbs/5.webp",
-    "w": 1160,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Graffiti On The Passerelle Simone-de-Beauvoir Over The Seine, Paris",
-    "credit": "Jim Linwood  from London",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Graffiti_On_The_Passerelle_Simone-de-Beauvoir_Over_The_Seine_-_Paris_2013.jpg",
-    "file": "File:Graffiti On The Passerelle Simone-de-Beauvoir Over The Seine - Paris 2013.jpg"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Passerelle_Simone_de_Beauvoir%2C_Paris_2_December_2006.jpg/1280px-Passerelle_Simone_de_Beauvoir%2C_Paris_2_December_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-simone-de-beauvoir/thumbs/1.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Context",
+    "caption": "Context · Passerelle Simone de Beauvoir, Paris",
+    "credit": "Alexandre Duret-Lutz  from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_Simone_de_Beauvoir,_Paris_2_December_2006.jpg",
+    "file": "File:Passerelle Simone de Beauvoir, Paris 2 December 2006.jpg"
    }
   ],
   "has": [],
@@ -245288,7 +244135,7 @@ window.BUILDINGS = [
  },
  {
   "id": "halle-tony-garnier",
-  "n": 2631,
+  "n": 2623,
   "name": "Halle Tony Garnier",
   "by": "Tony Garnier",
   "place": "Lyon, FR",
@@ -245388,7 +244235,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-du-departement-bouches-du-rhone",
-  "n": 2632,
+  "n": 2624,
   "name": "Hôtel du Département des Bouches-du-Rhône (Le Grand Bleu)",
   "by": "Will Alsop, Jan Störmer (Alsop & Störmer)",
   "place": "Marseille, FR",
@@ -245451,108 +244298,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "unite-d-habitation-firminy-vert",
-  "n": 2633,
-  "name": "Unité d'habitation, Firminy-Vert",
-  "by": "Le Corbusier (completed by André Wogenscky)",
-  "place": "Firminy, FR",
-  "year": "1967",
-  "y": 1967,
-  "type": "Housing",
-  "movement": "Modernism",
-  "region": "Europe",
-  "era": "1945–1970",
-  "concepts": [
-   "Circulation",
-   "Community",
-   "Modular"
-  ],
-  "study": "414 duplex flats over 17 levels on seven interior streets; 130 m long, 21 m wide, 51 m high.",
-  "qid": null,
-  "commons": "Category:Unité d'habitation de Firminy-Vert",
-  "lead": "File:Unité d`habitation, Fiminiy Vert, 1997.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Unit%C3%A9_d%60habitation%2C_Fiminiy_Vert%2C_1997.jpg/1280px-Unit%C3%A9_d%60habitation%2C_Fiminiy_Vert%2C_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/0.webp",
-    "w": 1280,
-    "h": 826,
-    "kind": "Context",
-    "caption": "Context · Roof Garden of the Unité in Firminy Vert with students of the University of Applied Sciences, Cologne, Germany",
-    "credit": "Peter Christian Riemann",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Unit%C3%A9_d%60habitation,_Fiminiy_Vert,_1997.jpg",
-    "file": "File:Unité d`habitation, Fiminiy Vert, 1997.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Unit%C3%A9_d%27habitation_in_Firminy-Vert%2C_1997.jpg/1280px-Unit%C3%A9_d%27habitation_in_Firminy-Vert%2C_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/1.webp",
-    "w": 1222,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Students of the Cologne University of Applied Sciences on the \"roof garden\" of the Unité",
-    "credit": "Peter Christian Riemann",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Unit%C3%A9_d%27habitation_in_Firminy-Vert,_1997.jpg",
-    "file": "File:Unité d'habitation in Firminy-Vert, 1997.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Perthuiset_Corbusier_V.jpg/1280px-Perthuiset_Corbusier_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/2.webp",
-    "w": 926,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Hélène Rival \n \n \n   Camera location     45° 24′ 42.17″ N, 4° 14′ 42.18″ E             View this and",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Perthuiset_Corbusier_V.jpg",
-    "file": "File:Perthuiset Corbusier V.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Perthuiset_Corbusier_C.jpg/1280px-Perthuiset_Corbusier_C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/3.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Hélène Rival \n \n \n   Camera location     45° 24′ 42.07″ N, 4° 14′ 42.46″ E             View this and",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Perthuiset_Corbusier_C.jpg",
-    "file": "File:Perthuiset Corbusier C.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/UniteHabitationFirminyVert-019.jpg/1280px-UniteHabitationFirminyVert-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Unité d'habitation de Firminy-Vert (architecte : Le Corbusier)",
-    "credit": "La Source Numérique",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:UniteHabitationFirminyVert-019.jpg",
-    "file": "File:UniteHabitationFirminyVert-019.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/UniteHabitationFirminyVert-020.jpg/1280px-UniteHabitationFirminyVert-020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/unite-d-habitation-firminy-vert/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Unité d'habitation de Firminy-Vert (architecte : Le Corbusier) (jardin)",
-    "credit": "La Source Numérique",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:UniteHabitationFirminyVert-020.jpg",
-    "file": "File:UniteHabitationFirminyVert-020.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "usine-claude-et-duval",
-  "n": 2634,
+  "n": 2625,
   "name": "Usine Claude et Duval",
   "by": "Le Corbusier",
   "place": "Saint-Dié-des-Vosges, FR",
@@ -245592,7 +244339,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-christophe-de-javel",
-  "n": 2635,
+  "n": 2626,
   "name": "Saint-Christophe de Javel",
   "by": "Charles-Henri Besnard",
   "place": "Paris, FR",
@@ -245651,18 +244398,6 @@ window.BUILDINGS = [
     "file": "File:Église Saint-Christophe-de-Javel 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/24-7-32%2C_b%C3%A9n%C3%A9diction_des_motos_%C3%A0_l%27%C3%A9glise_Saint-Christophe_de_Javel_%28devant_Mgr_Cr%C3%A9pin%29_-_btv1b53257694h.jpg/1280px-24-7-32%2C_b%C3%A9n%C3%A9diction_des_motos_%C3%A0_l%27%C3%A9glise_Saint-Christophe_de_Javel_%28devant_Mgr_Cr%C3%A9pin%29_-_btv1b53257694h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/saint-christophe-de-javel/thumbs/3.webp",
-    "w": 1280,
-    "h": 921,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Agence Rol. Agence photographique (commanditaire)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:24-7-32,_b%C3%A9n%C3%A9diction_des_motos_%C3%A0_l%27%C3%A9glise_Saint-Christophe_de_Javel_(devant_Mgr_Cr%C3%A9pin)_-_btv1b53257694h.jpg",
-    "file": "File:24-7-32, bénédiction des motos à l'église Saint-Christophe de Javel (devant Mgr Crépin) - btv1b53257694h.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bapstismal_font_%40_Saint_Christophe_de_Javel_%40_Paris_15_%2833115722015%29.jpg/1280px-Bapstismal_font_%40_Saint_Christophe_de_Javel_%40_Paris_15_%2833115722015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/saint-christophe-de-javel/thumbs/4.webp",
     "w": 1280,
@@ -245692,7 +244427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bibliotheque-sainte-genevieve",
-  "n": 2636,
+  "n": 2627,
   "name": "Bibliothèque Sainte-Geneviève",
   "by": "Henri Labrouste",
   "place": "Paris, FR",
@@ -245749,30 +244484,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_de_la_Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve,_sud-est.JPG",
     "file": "File:Façade de la Bibliothèque Sainte-Geneviève, sud-est.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1%2C_G.19701%282%29.jpg/1280px-A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1%2C_G.19701%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/3.webp",
-    "w": 1078,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Vernier, Charles (23–04–1813 - 02–08–1892), dessinateur-lithographe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1,_G.19701(2).jpg",
-    "file": "File:A la bibliothèque Ste Geneviève. 1, G.19701(2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%281%29.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event 1",
-    "credit": "User:Piyanist",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_(1).jpg",
-    "file": "File:Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event (1).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2810%29.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -245832,7 +244543,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-de-toute-grace-assy",
-  "n": 2637,
+  "n": 2628,
   "name": "Notre-Dame-de-Toute-Grâce du Plateau d'Assy",
   "by": "Maurice Novarina",
   "place": "Passy (Plateau d'Assy), FR",
@@ -245908,7 +244619,7 @@ window.BUILDINGS = [
  },
  {
   "id": "viaduc-de-garabit",
-  "n": 2638,
+  "n": 2629,
   "name": "Garabit Viaduct",
   "by": "Gustave Eiffel, Maurice Koechlin",
   "place": "Ruynes-en-Margeride, FR",
@@ -245955,18 +244666,6 @@ window.BUILDINGS = [
     "file": "File:00 0523 Viaduc de Garabit - Département Cantal.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg/1280px-00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/viaduc-de-garabit/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "W. Bulach",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal,_Frankreich.jpg",
-    "file": "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Garabit.jpg/1280px-Garabit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/viaduc-de-garabit/thumbs/3.webp",
     "w": 1280,
@@ -246003,6 +244702,18 @@ window.BUILDINGS = [
     "file": "File:Garabit-Viadukt (93).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg/1280px-00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viaduc-de-garabit/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal,_Frankreich.jpg",
+    "file": "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Viaduc_de_Garabit_Planche_13_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_13_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/viaduc-de-garabit/thumbs/6.webp",
     "w": 1280,
@@ -246022,7 +244733,7 @@ window.BUILDINGS = [
  },
  {
   "id": "le-cent-quatre",
-  "n": 2639,
+  "n": 2630,
   "name": "Le CentQuatre",
   "by": "Édouard Delebarre de Bay and Godon (1874); Atelier Novembre (2008)",
   "place": "Paris, FR",
@@ -246086,7 +244797,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-halle-de-la-villette",
-  "n": 2640,
+  "n": 2631,
   "name": "Grande halle de la Villette",
   "by": "Jules de Mérindol, Louis-Adolphe Janvier; Bernard Reichen, Philippe Robert (1985)",
   "place": "Paris, FR",
@@ -246186,7 +244897,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-de-ville-boulogne-billancourt",
-  "n": 2641,
+  "n": 2632,
   "name": "Hôtel de Ville de Boulogne-Billancourt",
   "by": "Tony Garnier, Jacques Debat-Ponsan",
   "place": "Boulogne-Billancourt, FR",
@@ -246243,42 +244954,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Ville_-_Boulogne-Billancourt_(FR92)_-_2023-09-02_-_1.jpg",
     "file": "File:Hôtel Ville - Boulogne-Billancourt (FR92) - 2023-09-02 - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mercedes-Benz_Citaro_C2_n%C2%B06836_%28RATP_-_Ligne_389%29_-_%28Boulogne-Billancourt_-_FR92%29_-_06-04-2024.jpg/1280px-Mercedes-Benz_Citaro_C2_n%C2%B06836_%28RATP_-_Ligne_389%29_-_%28Boulogne-Billancourt_-_FR92%29_-_06-04-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-boulogne-billancourt/thumbs/3.webp",
-    "w": 1280,
-    "h": 731,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Manchesterunited1234",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Citaro_C2_n%C2%B06836_(RATP_-_Ligne_389)_-_(Boulogne-Billancourt_-_FR92)_-_06-04-2024.jpg",
-    "file": "File:Mercedes-Benz Citaro C2 n°6836 (RATP - Ligne 389) - (Boulogne-Billancourt - FR92) - 06-04-2024.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mercedes-Benz_Citaro_Facelift_n%C2%B06617_%28RATP_-_Ligne_389%29_-_%28H%C3%B4tel_de_Ville_de_Boulogne-Billancourt%2C_Avenue_Andr%C3%A9-Morizet%29_-_%28Boulogne-Billancourt%2C_FR92%29_-_08-02-2025_2.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-boulogne-billancourt/thumbs/4.webp",
-    "w": 1280,
-    "h": 728,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Manchesterunited1234",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Citaro_Facelift_n%C2%B06617_(RATP_-_Ligne_389)_-_(H%C3%B4tel_de_Ville_de_Boulogne-Billancourt,_Avenue_Andr%C3%A9-Morizet)_-_(Boulogne-Billancourt,_FR92)_-_08-02-2025_2.jpg",
-    "file": "File:Mercedes-Benz Citaro Facelift n°6617 (RATP - Ligne 389) - (Hôtel de Ville de Boulogne-Billancourt, Avenue André-Morizet) - (Boulogne-Billancourt, FR92) - 08-02-2025 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Mercedes-Benz_Citaro_Facelift_n%C2%B06617_%28RATP_-_Ligne_389%29_-_%28H%C3%B4tel_de_Ville_de_Boulogne-Billancourt%2C_Avenue_Andr%C3%A9-Morizet%29_-_%28Boulogne-Billancourt%2C_FR92%29_-_08-02-2025_1.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hotel-de-ville-boulogne-billancourt/thumbs/5.webp",
-    "w": 1280,
-    "h": 776,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Manchesterunited1234",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Citaro_Facelift_n%C2%B06617_(RATP_-_Ligne_389)_-_(H%C3%B4tel_de_Ville_de_Boulogne-Billancourt,_Avenue_Andr%C3%A9-Morizet)_-_(Boulogne-Billancourt,_FR92)_-_08-02-2025_1.jpg",
-    "file": "File:Mercedes-Benz Citaro Facelift n°6617 (RATP - Ligne 389) - (Hôtel de Ville de Boulogne-Billancourt, Avenue André-Morizet) - (Boulogne-Billancourt, FR92) - 08-02-2025 1.jpg"
    }
   ],
   "has": [],
@@ -246286,7 +244961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stade-velodrome-marseille",
-  "n": 2642,
+  "n": 2633,
   "name": "Stade Vélodrome",
   "by": "Henri Ploquin; SCAU (2014 roof)",
   "place": "Marseille, FR",
@@ -246309,30 +244984,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Marseille_V%C3%A9lodrome_1.jpg/1280px-Marseille_V%C3%A9lodrome_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-velodrome-marseille/thumbs/0.webp",
-    "w": 1280,
-    "h": 847,
-    "kind": "Exterior",
-    "caption": "Exterior · Vélodrome Stadium, Marseille, Department of Bouches-du-Rhône, Region of Provence-Alpes-Côte d'Azur, France",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marseille_V%C3%A9lodrome_1.jpg",
-    "file": "File:Marseille Vélodrome 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Marseille_V%C3%A9lodrome_2.jpg/1280px-Marseille_V%C3%A9lodrome_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-velodrome-marseille/thumbs/1.webp",
-    "w": 1280,
-    "h": 873,
-    "kind": "Exterior",
-    "caption": "Exterior · Vélodrome Stadium, Marseille, Department of Bouches-du-Rhône, Region of Provence-Alpes-Côte d'Azur, France",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marseille_V%C3%A9lodrome_2.jpg",
-    "file": "File:Marseille Vélodrome 2.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Stade_V%C3%A9lodrome_Marseille_France.jpg/1280px-Stade_V%C3%A9lodrome_Marseille_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stade-velodrome-marseille/thumbs/2.webp",
     "w": 1280,
@@ -246343,30 +244994,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stade_V%C3%A9lodrome_Marseille_France.jpg",
     "file": "File:Stade Vélodrome Marseille France.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Psenatore.jpg/1280px-Psenatore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-velodrome-marseille/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Place Senatore et Allée Ray-Grassi - quartier du Vélodrome (Marseille)",
-    "credit": "XDurang",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Psenatore.jpg",
-    "file": "File:Psenatore.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Supporters_marseillais_lors_de_PSG_1-3_OM.jpg/1280px-Supporters_marseillais_lors_de_PSG_1-3_OM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stade-velodrome-marseille/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "PSGMAG.NET",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Supporters_marseillais_lors_de_PSG_1-3_OM.jpg",
-    "file": "File:Supporters marseillais lors de PSG 1-3 OM.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Stade_V%C3%A9lodrome_closeup.jpg/1280px-Stade_V%C3%A9lodrome_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -246399,108 +245026,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "pont-de-normandie",
-  "n": 2643,
-  "name": "Pont de Normandie",
-  "by": "Michel Virlogeux, Charles Lavigne, François Doyelle",
-  "place": "Le Havre / Honfleur, FR",
-  "year": "1995",
-  "y": 1995,
-  "type": "Infrastructure",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "1990–2005",
-  "concepts": [
-   "Structure as expression",
-   "Tensile structure",
-   "Landscape"
-  ],
-  "study": "856 m cable-stayed main span between concrete A-frame pylons 214 m tall; longest of its kind at opening.",
-  "qid": null,
-  "commons": "Category:Pont de Normandie",
-  "lead": "File:Le Pont de Normandie depuis Honfleur.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Le_Pont_de_Normandie_depuis_Honfleur.jpg/1280px-Le_Pont_de_Normandie_depuis_Honfleur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/0.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Vue du Pont de Normandie depuis la promenade le long du Jardin des Personnalités, à Honfleur",
-    "credit": "Korido",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Le_Pont_de_Normandie_depuis_Honfleur.jpg",
-    "file": "File:Le Pont de Normandie depuis Honfleur.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pont_De_Normandie.jpg/1280px-Pont_De_Normandie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/1.webp",
-    "w": 1280,
-    "h": 779,
-    "kind": "Exterior",
-    "caption": "Exterior · bridge cable Normandy France Virlogeux",
-    "credit": "Ribouldingue986",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pont_De_Normandie.jpg",
-    "file": "File:Pont De Normandie.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Pont_de_Normandie_%28septembre_2000%29_-_1.jpg/1280px-Pont_de_Normandie_%28septembre_2000%29_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/2.webp",
-    "w": 1280,
-    "h": 797,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "AntonyB",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pont_de_Normandie_(septembre_2000)_-_1.jpg",
-    "file": "File:Pont de Normandie (septembre 2000) - 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/20220524.Port_of_Honfleur-Seine-M%C3%BCndung.-012.jpg/1280px-20220524.Port_of_Honfleur-Seine-M%C3%BCndung.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Port of Honfleur-Seine-Mündung",
-    "credit": "Bybbisch94, Christian Gebhardt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20220524.Port_of_Honfleur-Seine-M%C3%BCndung.-012.jpg",
-    "file": "File:20220524.Port of Honfleur-Seine-Mündung.-012.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/View_from_pont_de_Normandie.jpg/1280px-View_from_pont_de_Normandie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Avi1111  dr. avishai teicher",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_from_pont_de_Normandie.jpg",
-    "file": "File:View from pont de Normandie.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Pont_de_Normandie_River_Seine_View.jpg/1280px-Pont_de_Normandie_River_Seine_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pont-de-normandie/thumbs/5.webp",
-    "w": 1280,
-    "h": 847,
-    "kind": "Context",
-    "caption": "Context · View from the Pont de Normandie of the river Seine, Normandy, France",
-    "credit": "Raintheone",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pont_de_Normandie_River_Seine_View.jpg",
-    "file": "File:Pont de Normandie River Seine View.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "bourse-de-commerce-pinault",
-  "n": 2644,
+  "n": 2634,
   "name": "Bourse de Commerce - Pinault Collection",
   "by": "Henri Blondel (1889 rebuild); Tadao Ando (2021 conversion)",
   "place": "Paris, FR",
@@ -246559,30 +245086,6 @@ window.BUILDINGS = [
     "file": "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51272095538).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bourse_de_commerce%2C_Paris%2C_installation.jpg/1280px-Bourse_de_commerce%2C_Paris%2C_installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Bourse de commerce, Paris, installation with a grand piano being played and balloons in fish shapes",
-    "credit": "Gerda Arendt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bourse_de_commerce,_Paris,_installation.jpg",
-    "file": "File:Bourse de commerce, Paris, installation.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Sega_Bodega_2025.jpg/1280px-Sega_Bodega_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourse-de-commerce-pinault/thumbs/4.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Exterior",
-    "caption": "Exterior · Sega Bodega",
-    "credit": "Ryan.UA",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sega_Bodega_2025.jpg",
-    "file": "File:Sega Bodega 2025.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/David_Hammons_%C3%A0_la_Bourse_de_commerce_%28Paris%29_%2851271344067%29.jpg/1280px-David_Hammons_%C3%A0_la_Bourse_de_commerce_%28Paris%29_%2851271344067%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bourse-de-commerce-pinault/thumbs/5.webp",
     "w": 1280,
@@ -246599,84 +245102,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "tour-hekla",
-  "n": 2645,
-  "name": "Tour Hekla",
-  "by": "Jean Nouvel",
-  "place": "La Défense, FR",
-  "year": "2022",
-  "y": 2022,
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "2005–today",
-  "concepts": [
-   "Geometry",
-   "Climate response",
-   "Facade as skin"
-  ],
-  "study": "220 m, 48-floor tower with over 76,000 m2 of offices and six environmental certifications.",
-  "qid": null,
-  "commons": "Category:Tour Hekla",
-  "lead": "File:Tour Hekla (43153097560).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tour_Hekla_%2843153097560%29.jpg/1280px-Tour_Hekla_%2843153097560%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-hekla/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · La Défense",
-    "credit": "Arthur Weidmann",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tour_Hekla_(43153097560).jpg",
-    "file": "File:Tour Hekla (43153097560).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tour_Hekla_%2844965769281%29.jpg/1280px-Tour_Hekla_%2844965769281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-hekla/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · La Défense",
-    "credit": "Arthur Weidmann",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tour_Hekla_(44965769281).jpg",
-    "file": "File:Tour Hekla (44965769281).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Photo_tour_Hekla_09.2021.jpg/1280px-Photo_tour_Hekla_09.2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-hekla/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Tour Hekla en construction, septembre 2021, quartier de la Défense",
-    "credit": "TheElderDog",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Photo_tour_Hekla_09.2021.jpg",
-    "file": "File:Photo tour Hekla 09.2021.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Tour_Hekla_-_07_Septembre_2021.jpg/1280px-Tour_Hekla_-_07_Septembre_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tour-hekla/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Tour Hekla - 07 Septembre 2021",
-    "credit": "Mathieujs",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tour_Hekla_-_07_Septembre_2021.jpg",
-    "file": "File:Tour Hekla - 07 Septembre 2021.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "villa-arson",
-  "n": 2646,
+  "n": 2635,
   "name": "Villa Arson",
   "by": "Michel Marot",
   "place": "Nice, FR",
@@ -246721,76 +245148,14 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Villa_Arson_-_ancien_batiment.jpg",
     "file": "File:Villa Arson - ancien batiment.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Explication_de_l%27historique_de_la_Villa_Arson_durant_les_journ%C3%A9es_du_Patrimoine_2009.jpg/1280px-Explication_de_l%27historique_de_la_Villa_Arson_durant_les_journ%C3%A9es_du_Patrimoine_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-arson/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · Talk about the history of the Villa Arson (Nice, France) during the European Heritage Days ",
-    "credit": "Zil",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Explication_de_l%27historique_de_la_Villa_Arson_durant_les_journ%C3%A9es_du_Patrimoine_2009.jpg",
-    "file": "File:Explication de l'historique de la Villa Arson durant les journées du Patrimoine 2009.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/La_Villa_Arson_%28A._Mossa%29.jpg/1280px-La_Villa_Arson_%28A._Mossa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-arson/thumbs/3.webp",
-    "w": 1280,
-    "h": 802,
-    "kind": "Exterior",
-    "caption": "Exterior · La Villa Arson vers 1865 (Fonds de la Bibliothèque du Chevalier de Cessole, Nice)",
-    "credit": "Urbain Garin de Cocconato",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Villa_Arson_(A._Mossa).jpg",
-    "file": "File:La Villa Arson (A. Mossa).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Le_monast%C3%A8re_et_la_Villa_Arson_%C3%A0_Saint-Barth%C3%A9l%C3%A9my_%28Jacques_GUIAUD%29.jpg/1280px-Le_monast%C3%A8re_et_la_Villa_Arson_%C3%A0_Saint-Barth%C3%A9l%C3%A9my_%28Jacques_GUIAUD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-arson/thumbs/4.webp",
-    "w": 1280,
-    "h": 778,
-    "kind": "Exterior",
-    "caption": "Exterior · Le monastère et la villa Arson à Saint-Barthélémy, 1855, Jacques GUIAUD (Aquarelle 16cm x 26,5cm)",
-    "credit": "Jacques GUIAUD",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Le_monast%C3%A8re_et_la_Villa_Arson_%C3%A0_Saint-Barth%C3%A9l%C3%A9my_(Jacques_GUIAUD).jpg",
-    "file": "File:Le monastère et la Villa Arson à Saint-Barthélémy (Jacques GUIAUD).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Magnolia_-_Villa_Arson_-_2.jpg/1280px-Magnolia_-_Villa_Arson_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-arson/thumbs/5.webp",
-    "w": 886,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · Magnolia grandiflora - Villa Arson",
-    "credit": "Zil",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Magnolia_-_Villa_Arson_-_2.jpg",
-    "file": "File:Magnolia - Villa Arson - 2.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Villa_Arson_atelier_dessin_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/villa-arson/thumbs/6.webp",
-    "w": 1000,
-    "h": 661,
-    "kind": "Drawing",
-    "caption": "Drawing · Atelier dessin",
-    "credit": "Maunier",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Villa_Arson_atelier_dessin_2.jpg",
-    "file": "File:Villa Arson atelier dessin 2.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "roma-termini",
-  "n": 2647,
+  "n": 2636,
   "name": "Roma Termini",
   "by": "Leo Calini, Eugenio Montuori",
   "place": "Rome, IT",
@@ -246890,7 +245255,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-dei-marmi",
-  "n": 2648,
+  "n": 2637,
   "name": "Stadio dei Marmi",
   "by": "Enrico Del Debbio",
   "place": "Rome, IT",
@@ -246912,42 +245277,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Stadio_dei_Marmi_%28cropped%29.jpg/1280px-Stadio_dei_Marmi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-dei-marmi/thumbs/0.webp",
-    "w": 1280,
-    "h": 640,
-    "kind": "Context",
-    "caption": "Context · Stadio dei Marmi, Rome, Italy",
-    "credit": "Original:    Messapi  /  Derivative work:    Danyele",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadio_dei_Marmi_(cropped).jpg",
-    "file": "File:Stadio dei Marmi (cropped).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Stadio_dei_Marmi_e_Palazzo_della_Farnesina_%2834393342414%29.jpg/1280px-Stadio_dei_Marmi_e_Palazzo_della_Farnesina_%2834393342414%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-dei-marmi/thumbs/1.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Stadio dei Marmi e Palazzo della Farnesina",
-    "credit": "Simone Ramella  from Roma, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadio_dei_Marmi_e_Palazzo_della_Farnesina_(34393342414).jpg",
-    "file": "File:Stadio dei Marmi e Palazzo della Farnesina (34393342414).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Stadio_Olimpico_e_Stadio_dei_Marmi.jpg/1280px-Stadio_Olimpico_e_Stadio_dei_Marmi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-dei-marmi/thumbs/2.webp",
-    "w": 1280,
-    "h": 983,
-    "kind": "Context",
-    "caption": "Context · Stadio Olimpico (Background) and Stadio dei Marmi (foreground) in Rome",
-    "credit": "Messapi",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_e_Stadio_dei_Marmi.jpg",
-    "file": "File:Stadio Olimpico e Stadio dei Marmi.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Stadio_Olimpico_%28Rome%29_in_2018.14.jpg/1280px-Stadio_Olimpico_%28Rome%29_in_2018.14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stadio-dei-marmi/thumbs/3.webp",
@@ -246971,18 +245300,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_(Rome)_in_2018.25.jpg",
     "file": "File:Stadio Olimpico (Rome) in 2018.25.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stadio_dei_Marmi_e_Palazzo_della_Farnesina_%2834428689913%29.jpg/1280px-Stadio_dei_Marmi_e_Palazzo_della_Farnesina_%2834428689913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-dei-marmi/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Stadio dei Marmi e Palazzo della Farnesina",
-    "credit": "Simone Ramella  from Roma, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadio_dei_Marmi_e_Palazzo_della_Farnesina_(34428689913).jpg",
-    "file": "File:Stadio dei Marmi e Palazzo della Farnesina (34428689913).jpg"
    }
   ],
   "has": [],
@@ -246990,7 +245307,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santi-pietro-e-paolo-eur",
-  "n": 2649,
+  "n": 2638,
   "name": "Santi Pietro e Paolo, EUR",
   "by": "Arnaldo Foschini",
   "place": "Rome, IT",
@@ -247059,30 +245376,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Basilica_dei_Santi_Pietro_e_Paolo_in_2018.03.jpg",
     "file": "File:Basilica dei Santi Pietro e Paolo in 2018.03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Roma%2C_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_destra.jpg/1280px-Roma%2C_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_destra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santi-pietro-e-paolo-eur/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Ambone di destra",
-    "credit": "Pufui PcPifpef",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roma,_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_destra.jpg",
-    "file": "File:Roma, basilica dei Santi Pietro e Paolo - Ambone di destra.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Roma%2C_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_sinistra.jpg/1280px-Roma%2C_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_sinistra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santi-pietro-e-paolo-eur/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Ambone di sinistra",
-    "credit": "Pufui PcPifpef",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roma,_basilica_dei_Santi_Pietro_e_Paolo_-_Ambone_di_sinistra.jpg",
-    "file": "File:Roma, basilica dei Santi Pietro e Paolo - Ambone di sinistra.jpg"
    }
   ],
   "has": [],
@@ -247090,7 +245383,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-necchi-campiglio",
-  "n": 2650,
+  "n": 2639,
   "name": "Villa Necchi Campiglio",
   "by": "Piero Portaluppi",
   "place": "Milan, IT",
@@ -247183,28 +245476,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Villa_Necchi_Campiglio_-_dining.jpg",
     "file": "File:Villa Necchi Campiglio - dining.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Pianta-in-villa-necchi-milano.jpg/1280px-Pianta-in-villa-necchi-milano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/villa-necchi-campiglio/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · This plant with blue leafs is in the garden of \"Villa Necchi\", in Milano (Italia)",
-    "credit": "Alepuzio",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pianta-in-villa-necchi-milano.jpg",
-    "file": "File:Pianta-in-villa-necchi-milano.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "torre-galfa",
-  "n": 2651,
+  "n": 2640,
   "name": "Torre Galfa",
   "by": "Melchiorre Bega",
   "place": "Milan, IT",
@@ -247304,7 +245583,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-di-giustizia-milano",
-  "n": 2652,
+  "n": 2641,
   "name": "Palazzo di Giustizia, Milan",
   "by": "Marcello Piacentini",
   "place": "Milan, IT",
@@ -247351,30 +245630,6 @@ window.BUILDINGS = [
     "file": "File:Oltre la porta del Palazzo di Giustizia.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Libero_andreotti%2C_bozzetto_per_la_giustizia_per_il_palazzo_della_giustizia_di_milano%2C_1932_ca._01.jpg/1280px-Libero_andreotti%2C_bozzetto_per_la_giustizia_per_il_palazzo_della_giustizia_di_milano%2C_1932_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palazzo-di-giustizia-milano/thumbs/2.webp",
-    "w": 775,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Gipsoteca Libero Andreotti",
-    "credit": "Sailko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Libero_andreotti,_bozzetto_per_la_giustizia_per_il_palazzo_della_giustizia_di_milano,_1932_ca._01.jpg",
-    "file": "File:Libero andreotti, bozzetto per la giustizia per il palazzo della giustizia di milano, 1932 ca. 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Libero_andreotti%2C_la_giustizia%2C_per_il_palazzo_della_giustizia_di_milano%2C_02.jpg/1280px-Libero_andreotti%2C_la_giustizia%2C_per_il_palazzo_della_giustizia_di_milano%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palazzo-di-giustizia-milano/thumbs/3.webp",
-    "w": 809,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Gipsoteca Libero Andreotti",
-    "credit": "Sailko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Libero_andreotti,_la_giustizia,_per_il_palazzo_della_giustizia_di_milano,_02.jpg",
-    "file": "File:Libero andreotti, la giustizia, per il palazzo della giustizia di milano, 02.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Tribunale_ingresso_saloni_aule.png/1280px-Tribunale_ingresso_saloni_aule.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palazzo-di-giustizia-milano/thumbs/4.webp",
     "w": 1280,
@@ -247392,7 +245647,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museo-della-civilta-romana",
-  "n": 2653,
+  "n": 2642,
   "name": "Museo della Civiltà Romana",
   "by": "Pietro Ascheri, Domenico Bernardini, Cesare Pascoletti",
   "place": "Rome, IT",
@@ -247425,30 +245680,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Roma_2011_08_22_Museo_Civilt%C3%A0_Romana_colonnato_fronte.jpg",
     "file": "File:Roma 2011 08 22 Museo Civiltà Romana colonnato fronte.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Antinous_of_the_Museo_Gregoriano_Egizio_%28cast%29%2C_Roman%2C_late_Hadrianic_age%2C_from_the_Museo_della_Civilta_Romana%2C_MCR_2422_-_on_exhibit_in_the_Musei_Capitolini_-_Rome%2C_Italy_-_DSC06145.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-della-civilta-romana/thumbs/1.webp",
-    "w": 905,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Daderot",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Antinous_of_the_Museo_Gregoriano_Egizio_(cast),_Roman,_late_Hadrianic_age,_from_the_Museo_della_Civilta_Romana,_MCR_2422_-_on_exhibit_in_the_Musei_Capitolini_-_Rome,_Italy_-_DSC06145.jpg",
-    "file": "File:Antinous of the Museo Gregoriano Egizio (cast), Roman, late Hadrianic age, from the Museo della Civilta Romana, MCR 2422 - on exhibit in the Musei Capitolini - Rome, Italy - DSC06145.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Museos_Capitolinos%2C_Roma%2C_Italia%2C_2022-09-16%2C_DD_67.jpg/1280px-Museos_Capitolinos%2C_Roma%2C_Italia%2C_2022-09-16%2C_DD_67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-della-civilta-romana/thumbs/2.webp",
-    "w": 730,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Musei Capitolini, Rome, Italy",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Museos_Capitolinos,_Roma,_Italia,_2022-09-16,_DD_67.jpg",
-    "file": "File:Museos Capitolinos, Roma, Italia, 2022-09-16, DD 67.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Roma_-_Museo_della_civilt%C3%A0_romana_-_2026-09-14_16-40-22_001.jpg/1280px-Roma_-_Museo_della_civilt%C3%A0_romana_-_2026-09-14_16-40-22_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -247485,29 +245716,16 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Model_of_imperial_Rome,_Area_of_the_Velian_Hill_and_the_Valley_of_the_Colosseum_in_I._Gismondi%27s_large_1987_model_of_Rome,_Museo_della_Civita_Romana_(13841003315).jpg",
     "file": "File:Model of imperial Rome, Area of the Velian Hill and the Valley of the Colosseum in I. Gismondi's large 1987 model of Rome, Museo della Civita Romana (13841003315).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domiziano_Imperatore_Odio_e_Amore_20220924_154542_%2852389529734%29.jpg/1280px-Domiziano_Imperatore_Odio_e_Amore_20220924_154542_%2852389529734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museo-della-civilta-romana/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · 20220924_154542",
-    "credit": "Jamie Heath",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Domiziano_Imperatore_Odio_e_Amore_20220924_154542_(52389529734).jpg",
-    "file": "File:Domiziano Imperatore Odio e Amore 20220924 154542 (52389529734).jpg"
    }
   ],
   "has": [
-   "Model",
-   "Drawing"
+   "Model"
   ],
   "gv": 3
  },
  {
   "id": "nuovo-villaggio-matteotti",
-  "n": 2654,
+  "n": 2643,
   "name": "Nuovo Villaggio Matteotti",
   "by": "Giancarlo De Carlo",
   "place": "Terni, IT",
@@ -247529,18 +245747,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Villaggio_Matteotti_%28Terni%29_01.jpg/1280px-Villaggio_Matteotti_%28Terni%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nuovo-villaggio-matteotti/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Villaggio Matteotti",
-    "credit": "Mongolo1984",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Villaggio_Matteotti_(Terni)_01.jpg",
-    "file": "File:Villaggio Matteotti (Terni) 01.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Giancarlo_de_carlo%2C_villaggio_matteotti%2C_1969-74%2C_giardini_01.jpg/1280px-Giancarlo_de_carlo%2C_villaggio_matteotti%2C_1969-74%2C_giardini_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nuovo-villaggio-matteotti/thumbs/1.webp",
@@ -247583,7 +245789,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lingotto",
-  "n": 2655,
+  "n": 2644,
   "name": "Lingotto",
   "by": "Giacomo Matté-Trucco",
   "place": "Turin, IT",
@@ -247628,130 +245834,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fiat_Lingotto_Rooftop_Racetrack_3.jpg",
     "file": "File:Fiat Lingotto Rooftop Racetrack 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2026-06-13-Lingotto-Rampe.jpg/1280px-2026-06-13-Lingotto-Rampe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lingotto/thumbs/2.webp",
-    "w": 1280,
-    "h": 927,
-    "kind": "Exterior",
-    "caption": "Exterior · Ehemaliges Fiat-Fabrikgebäude in Turin-Lingotto",
-    "credit": "Gunnar Klack",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026-06-13-Lingotto-Rampe.jpg",
-    "file": "File:2026-06-13-Lingotto-Rampe.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Stazione_Lingotto.jpg/1280px-Stazione_Lingotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lingotto/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Binari Stazione Lingotto",
-    "credit": "Pmk58",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stazione_Lingotto.jpg",
-    "file": "File:Stazione Lingotto.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "palavela",
-  "n": 2656,
-  "name": "Palavela",
-  "by": "Annibale Rigotti, Giorgio Rigotti",
-  "place": "Turin, IT",
-  "year": "1961",
-  "y": 1961,
-  "type": "Culture & sport",
-  "movement": "Modernism",
-  "region": "Europe",
-  "era": "1945–1970",
-  "concepts": [
-   "Structure as expression",
-   "Geometry",
-   "Vault"
-  ],
-  "study": "Arena 130 m in diameter with a distinctive roof, built 1959-61 and renovated by Gae Aulenti in 2005.",
-  "qid": null,
-  "commons": "Category:Palazzo a Vela",
-  "lead": "File:Torino Palavela.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2026_Men%27s_European_Volleyball_Championship_-_Italy_vs_Finland_-_Torino%2C_Palavela%2C_23.09.2026_-_452.jpg/1280px-2026_Men%27s_European_Volleyball_Championship_-_Italy_vs_Finland_-_Torino%2C_Palavela%2C_23.09.2026_-_452.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Dispe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026_Men%27s_European_Volleyball_Championship_-_Italy_vs_Finland_-_Torino,_Palavela,_23.09.2026_-_452.jpg",
-    "file": "File:2026 Men's European Volleyball Championship - Italy vs Finland - Torino, Palavela, 23.09.2026 - 452.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Figure_Skating_Grand_Prix_Final_66_%2852564490200%29.jpg/1280px-2022_Figure_Skating_Grand_Prix_Final_66_%2852564490200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/1.webp",
-    "w": 1280,
-    "h": 719,
-    "kind": "Exterior",
-    "caption": "Exterior · Public Domain Photos from the 2022 Figure Skating Grand Prix Final held in Torino Italy",
-    "credit": "Chika Ezechi",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:2022_Figure_Skating_Grand_Prix_Final_66_(52564490200).jpg",
-    "file": "File:2022 Figure Skating Grand Prix Final 66 (52564490200).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_ladies_singles_medal_ceremonies_2019_12_08_2667.jpg/1280px-2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_ladies_singles_medal_ceremonies_2019_12_08_2667.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Luu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_ladies_singles_medal_ceremonies_2019_12_08_2667.jpg",
-    "file": "File:2019–2020 Grand Prix of Figure Skating Final ladies singles medal ceremonies 2019 12 08 2667.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_men%27s_singles_medal_ceremonies_2019_12_07_2355.jpg/1280px-2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_men%27s_singles_medal_ceremonies_2019_12_07_2355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Luu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2019%E2%80%932020_Grand_Prix_of_Figure_Skating_Final_men%27s_singles_medal_ceremonies_2019_12_07_2355.jpg",
-    "file": "File:2019–2020 Grand Prix of Figure Skating Final men's singles medal ceremonies 2019 12 07 2355.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Palavela-Interno.jpg/1280px-Palavela-Interno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/4.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Palavela-Interno.jpg",
-    "file": "File:Palavela-Interno.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2026_Men%27s_European_Volleyball_Championship_-_Belgium_vs_Slovenia_-_Torino%2C_Palavela%2C_23.09.2026_-_101.jpg/1280px-2026_Men%27s_European_Volleyball_Championship_-_Belgium_vs_Slovenia_-_Torino%2C_Palavela%2C_23.09.2026_-_101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palavela/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Dispe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026_Men%27s_European_Volleyball_Championship_-_Belgium_vs_Slovenia_-_Torino,_Palavela,_23.09.2026_-_101.jpg",
-    "file": "File:2026 Men's European Volleyball Championship - Belgium vs Slovenia - Torino, Palavela, 23.09.2026 - 101.jpg"
    }
   ],
   "has": [],
@@ -247759,7 +245841,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-maria-consolatrice-al-tiburtino",
-  "n": 2657,
+  "n": 2645,
   "name": "Santa Maria Consolatrice al Tiburtino",
   "by": "Tullio Rossi",
   "place": "Rome, IT",
@@ -247823,7 +245905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sacrario-militare-di-redipuglia",
-  "n": 2658,
+  "n": 2646,
   "name": "Sacrario Militare di Redipuglia",
   "by": "Giovanni Greppi",
   "place": "Redipuglia (Fogliano Redipuglia), IT",
@@ -247887,7 +245969,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-della-farnesina",
-  "n": 2659,
+  "n": 2647,
   "name": "Palazzo della Farnesina",
   "by": "Enrico Del Debbio, Arnaldo Foschini, Vittorio Ballio Morpurgo",
   "place": "Rome, IT",
@@ -247934,18 +246016,6 @@ window.BUILDINGS = [
     "file": "File:Palazzo della Farnesina, Zentrale des Außenministeriums in Rom, 2025.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/La_Farnesina_Roma_DSC00418.JPG/1280px-La_Farnesina_Roma_DSC00418.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palazzo-della-farnesina/thumbs/2.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Headquarters of the Ministry of External - Rome - Italy",
-    "credit": "Gianni o O",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Farnesina_Roma_DSC00418.JPG",
-    "file": "File:La Farnesina Roma DSC00418.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/La_Farnesina_Roma_01_DSC00419.JPG/1280px-La_Farnesina_Roma_01_DSC00419.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palazzo-della-farnesina/thumbs/3.webp",
     "w": 1280,
@@ -247963,7 +246033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-renato-dall-ara",
-  "n": 2660,
+  "n": 2648,
   "name": "Stadio Renato Dall'Ara",
   "by": "Giulio Ulisse Arata",
   "place": "Bologna, IT",
@@ -247985,18 +246055,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Bologna%2C_Stadio_Renato_Dall%27Ara.jpg/1280px-Bologna%2C_Stadio_Renato_Dall%27Ara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-renato-dall-ara/thumbs/0.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Context",
-    "caption": "Context · Bologna, Italy",
-    "credit": "Palickap",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bologna,_Stadio_Renato_Dall%27Ara.jpg",
-    "file": "File:Bologna, Stadio Renato Dall'Ara.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadio_Dall%27Ara.jpg/1280px-Stadio_Dall%27Ara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stadio-renato-dall-ara/thumbs/1.webp",
@@ -248022,18 +246080,6 @@ window.BUILDINGS = [
     "file": "File:Stadio Renato Dall'Ara 2019.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Serie_A_1975-10-05_Bologna_v_Torino_-_Paolo_Pulici.jpg/1280px-Serie_A_1975-10-05_Bologna_v_Torino_-_Paolo_Pulici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-renato-dall-ara/thumbs/3.webp",
-    "w": 1133,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Bologne (Italy), Communal Stadium, October 5, 1975",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Serie_A_1975-10-05_Bologna_v_Torino_-_Paolo_Pulici.jpg",
-    "file": "File:Serie A 1975-10-05 Bologna v Torino - Paolo Pulici.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Stadio_Dall%27Ara_01-02-2020.jpg/1280px-Stadio_Dall%27Ara_01-02-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stadio-renato-dall-ara/thumbs/4.webp",
     "w": 1280,
@@ -248044,18 +246090,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Dall%27Ara_01-02-2020.jpg",
     "file": "File:Stadio Dall'Ara 01-02-2020.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/1974%E2%80%9375_Bologna_FC_-_Eraldo_Pecci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/stadio-renato-dall-ara/thumbs/5.webp",
-    "w": 660,
-    "h": 1234,
-    "kind": "Interior",
-    "caption": "Interior · Italian footballer Eraldo Pecci with Bologna F.C",
-    "credit": "Unknown author Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:1974%E2%80%9375_Bologna_FC_-_Eraldo_Pecci.jpg",
-    "file": "File:1974–75 Bologna FC - Eraldo Pecci.jpg"
    }
   ],
   "has": [],
@@ -248063,7 +246097,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stazione-di-venezia-santa-lucia",
-  "n": 2661,
+  "n": 2649,
   "name": "Stazione di Venezia Santa Lucia",
   "by": "Angiolo Mazzoni, Virgilio Vallot, Paul Perilli",
   "place": "Venice, IT",
@@ -248096,18 +246130,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stazione_di_Venezia_Santa_Lucia_2024.jpg",
     "file": "File:Stazione di Venezia Santa Lucia 2024.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Stazione_di_Venezia_Santa_Lucia_1.jpg/1280px-Stazione_di_Venezia_Santa_Lucia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stazione-di-venezia-santa-lucia/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Venice, Santa Lucia station, access hall to platforms on the left",
-    "credit": "Armin Kleiner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stazione_di_Venezia_Santa_Lucia_1.jpg",
-    "file": "File:Stazione di Venezia Santa Lucia 1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Venezia_Santa_Lucia_railway_station.jpg/1280px-Venezia_Santa_Lucia_railway_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -248146,6 +246168,18 @@ window.BUILDINGS = [
     "file": "File:Vaporetto Canal Grande stazione Santa Lucia Venezia.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Stazione_di_Venezia_Santa_Lucia_1.jpg/1280px-Stazione_di_Venezia_Santa_Lucia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stazione-di-venezia-santa-lucia/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Venice, Santa Lucia station, access hall to platforms on the left",
+    "credit": "Armin Kleiner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stazione_di_Venezia_Santa_Lucia_1.jpg",
+    "file": "File:Stazione di Venezia Santa Lucia 1.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Venezia_Santa_Lusia_%E5%A8%81%E5%B0%BC%E6%96%AF%E8%81%96%E9%9C%B2%E8%A5%BF%E4%BA%9E%E8%BB%8A%E7%AB%99_-_panoramio.jpg/1280px-Venezia_Santa_Lusia_%E5%A8%81%E5%B0%BC%E6%96%AF%E8%81%96%E9%9C%B2%E8%A5%BF%E4%BA%9E%E8%BB%8A%E7%AB%99_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stazione-di-venezia-santa-lucia/thumbs/5.webp",
     "w": 1280,
@@ -248163,7 +246197,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palazzo-del-cinema-venezia",
-  "n": 2662,
+  "n": 2650,
   "name": "Palazzo del Cinema, Venice Lido",
   "by": "Luigi Quagliata",
   "place": "Venice, IT",
@@ -248239,7 +246273,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fondazione-querini-stampalia",
-  "n": 2663,
+  "n": 2651,
   "name": "Fondazione Querini Stampalia (Scarpa ground floor and garden)",
   "by": "Carlo Scarpa",
   "place": "Venice, IT",
@@ -248284,18 +246318,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Palazzo_querini_stampalia,_piano_terra_e_giardino_di_carlo_scarpa_04.JPG",
     "file": "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 04.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Murano%2C_lampadario_rezzonico%2C_1870_ca._01.JPG/1280px-Murano%2C_lampadario_rezzonico%2C_1870_ca._01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fondazione-querini-stampalia/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Pinacoteca Querini Stampalia (Venice)",
-    "credit": "Sailko",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Murano,_lampadario_rezzonico,_1870_ca._01.JPG",
-    "file": "File:Murano, lampadario rezzonico, 1870 ca. 01.JPG"
    }
   ],
   "has": [],
@@ -248303,7 +246325,7 @@ window.BUILDINGS = [
  },
  {
   "id": "venezuela-pavilion-venice",
-  "n": 2664,
+  "n": 2652,
   "name": "Venezuela Pavilion, Venice Biennale",
   "by": "Carlo Scarpa",
   "place": "Venice, IT",
@@ -248350,30 +246372,6 @@ window.BUILDINGS = [
     "file": "File:Sotoportego e calle de le Acque Venezia.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Jorge_Tacla_Venice_Emergency_Pavilion_Installation.jpg/1280px-Jorge_Tacla_Venice_Emergency_Pavilion_Installation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/venezuela-pavilion-venice/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Installation of Jorge Tacla's paintings at the 55 Venice Bienal",
-    "credit": "Jorgetacla1",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jorge_Tacla_Venice_Emergency_Pavilion_Installation.jpg",
-    "file": "File:Jorge Tacla Venice Emergency Pavilion Installation.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Karole_Vail_at_Venice_Architecture_Biennale_2025.jpg/1280px-Karole_Vail_at_Venice_Architecture_Biennale_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/venezuela-pavilion-venice/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "LucaFazPhoto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Karole_Vail_at_Venice_Architecture_Biennale_2025.jpg",
-    "file": "File:Karole Vail at Venice Architecture Biennale 2025.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Studio_Venezia_Xavier_Veilhan_2.jpg/1280px-Studio_Venezia_Xavier_Veilhan_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/venezuela-pavilion-venice/thumbs/4.webp",
     "w": 934,
@@ -248384,40 +246382,14 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Studio_Venezia_Xavier_Veilhan_2.jpg",
     "file": "File:Studio Venezia Xavier Veilhan 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rindon_Johnson.jpg/1280px-Rindon_Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/venezuela-pavilion-venice/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Sebastian Hessel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rindon_Johnson.jpg",
-    "file": "File:Rindon Johnson.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maciej_Maslowski_-_Appointment_to_the_post_of_commissioner_of_Polish_Section_of_Biennale_Exposition%2C_Venice%2C_5_April_1948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/venezuela-pavilion-venice/thumbs/6.webp",
-    "w": 1239,
-    "h": 902,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Ministerstwo Kultury i Sztuki",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Maciej_Maslowski_-_Appointment_to_the_post_of_commissioner_of_Polish_Section_of_Biennale_Exposition,_Venice,_5_April_1948.jpg",
-    "file": "File:Maciej Maslowski - Appointment to the post of commissioner of Polish Section of Biennale Exposition, Venice, 5 April 1948.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "stazione-di-milano-centrale",
-  "n": 2665,
+  "n": 2653,
   "name": "Milano Centrale",
   "by": "Ulisse Stacchini",
   "place": "Milan, IT",
@@ -248517,7 +246489,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stadio-olimpico-roma",
-  "n": 2666,
+  "n": 2654,
   "name": "Stadio Olimpico",
   "by": "Luigi Moretti, Carlo Valle, Annibale Vitellozzi",
   "place": "Rome, IT",
@@ -248550,18 +246522,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg",
     "file": "File:Stadio Olimpico 2024.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Stadio_Olimpico_e_Stadio_dei_Marmi.jpg/1280px-Stadio_Olimpico_e_Stadio_dei_Marmi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stadio-olimpico-roma/thumbs/1.webp",
-    "w": 1280,
-    "h": 983,
-    "kind": "Context",
-    "caption": "Context · Stadio Olimpico (Background) and Stadio dei Marmi (foreground) in Rome",
-    "credit": "Messapi",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_e_Stadio_dei_Marmi.jpg",
-    "file": "File:Stadio Olimpico e Stadio dei Marmi.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/2024_European_Athletics_Championships_%E2%80%93_Stadio_Olimpico.jpg/1280px-2024_European_Athletics_Championships_%E2%80%93_Stadio_Olimpico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -248610,6 +246570,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2009.jpg",
     "file": "File:Stadio Olimpico 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Stadio_Olimpico_e_Stadio_dei_Marmi.jpg/1280px-Stadio_Olimpico_e_Stadio_dei_Marmi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadio-olimpico-roma/thumbs/1.webp",
+    "w": 1280,
+    "h": 983,
+    "kind": "Context",
+    "caption": "Context · Stadio Olimpico (Background) and Stadio dei Marmi (foreground) in Rome",
+    "credit": "Messapi",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_e_Stadio_dei_Marmi.jpg",
+    "file": "File:Stadio Olimpico e Stadio dei Marmi.jpg"
    }
   ],
   "has": [],
@@ -248617,7 +246589,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mediopadana-station",
-  "n": 2667,
+  "n": 2655,
   "name": "Reggio Emilia AV Mediopadana station",
   "by": "Santiago Calatrava",
   "place": "Reggio Emilia, IT",
@@ -248705,7 +246677,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ponte-della-costituzione",
-  "n": 2668,
+  "n": 2656,
   "name": "Ponte della Costituzione",
   "by": "Santiago Calatrava",
   "place": "Venice, IT",
@@ -248752,18 +246724,6 @@ window.BUILDINGS = [
     "file": "File:Veduta del ponte della Costituzione a Venezia.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ponte_della_Costituzione.JPG/1280px-Ponte_della_Costituzione.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ponte-della-costituzione/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Ponte della Costituzione in Venice, which connects the railwaystation with Piazzale Roma",
-    "credit": "Christoph Radtke",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ponte_della_Costituzione.JPG",
-    "file": "File:Ponte della Costituzione.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Venezia_Ponte_della_Costituzione_in_2019.jpg/1280px-Venezia_Ponte_della_Costituzione_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ponte-della-costituzione/thumbs/3.webp",
     "w": 1280,
@@ -248798,6 +246758,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ponte_della_Costituzione_Detailansicht.jpg",
     "file": "File:Ponte della Costituzione Detailansicht.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Ponte_della_Costituzione.JPG/1280px-Ponte_della_Costituzione.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ponte-della-costituzione/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Ponte della Costituzione in Venice, which connects the railwaystation with Piazzale Roma",
+    "credit": "Christoph Radtke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ponte_della_Costituzione.JPG",
+    "file": "File:Ponte della Costituzione.JPG"
    }
   ],
   "has": [],
@@ -248805,7 +246777,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roma-tiburtina-station",
-  "n": 2669,
+  "n": 2657,
   "name": "Roma Tiburtina station",
   "by": "Paolo Desideri",
   "place": "Rome, IT",
@@ -248864,30 +246836,6 @@ window.BUILDINGS = [
     "file": "File:Roma Stazione Tiburtina - Italia (12368179965).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/202612_Roma_Tiburtina_train_station_01.jpg/1280px-202612_Roma_Tiburtina_train_station_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/roma-tiburtina-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Roma Tiburtina train station",
-    "credit": "Jonashtand",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:202612_Roma_Tiburtina_train_station_01.jpg",
-    "file": "File:202612 Roma Tiburtina train station 01.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Roma%2C_Stazione_di_Roma_Tiburtina_-_collegamento_con_la_metropolitana_12-12-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/roma-tiburtina-station/thumbs/4.webp",
-    "w": 960,
-    "h": 1280,
-    "kind": "Interior",
-    "caption": "Interior · Roma, Stazione di Roma Tiburtina - collegamento con la linea B della metropolitana",
-    "credit": "Gregorovius",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roma,_Stazione_di_Roma_Tiburtina_-_collegamento_con_la_metropolitana_12-12-11.jpg",
-    "file": "File:Roma, Stazione di Roma Tiburtina - collegamento con la metropolitana 12-12-11.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/NW_Roma_Tiburtina_Italy_Sep23_A7C_07950.jpg/1280px-NW_Roma_Tiburtina_Italy_Sep23_A7C_07950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/roma-tiburtina-station/thumbs/5.webp",
     "w": 1280,
@@ -248905,7 +246853,7 @@ window.BUILDINGS = [
  },
  {
   "id": "intesa-sanpaolo-skyscraper",
-  "n": 2670,
+  "n": 2658,
   "name": "Intesa Sanpaolo Skyscraper",
   "by": "Renzo Piano",
   "place": "Turin, IT",
@@ -248938,18 +246886,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Grattacielo_Intesa_Sanpaolo_Torino.jpg",
     "file": "File:Grattacielo Intesa Sanpaolo Torino.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Intesa_Sanpaolo_Building_Turin_03.jpg/1280px-Intesa_Sanpaolo_Building_Turin_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/intesa-sanpaolo-skyscraper/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · View of Turin from the Intesa Sanpaolo Building",
-    "credit": "Incola",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Intesa_Sanpaolo_Building_Turin_03.jpg",
-    "file": "File:Intesa Sanpaolo Building Turin 03.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Grattacielo_Intesa_Sanpaolo_dal_Colle_della_Maddalena.jpg/1280px-Grattacielo_Intesa_Sanpaolo_dal_Colle_della_Maddalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -248986,18 +246922,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Torino_-_Grattacielo_Intesa_Sanpaolo.jpg",
     "file": "File:Torino - Grattacielo Intesa Sanpaolo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Intesa_Sanpaolo_Building_Turin_02.jpg/1280px-Intesa_Sanpaolo_Building_Turin_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/intesa-sanpaolo-skyscraper/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · View of Turin from the Intesa Sanpaolo Building",
-    "credit": "Incola",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Intesa_Sanpaolo_Building_Turin_02.jpg",
-    "file": "File:Intesa Sanpaolo Building Turin 02.jpg"
    }
   ],
   "has": [],
@@ -249005,7 +246929,7 @@ window.BUILDINGS = [
  },
  {
   "id": "napoli-afragola-station",
-  "n": 2671,
+  "n": 2659,
   "name": "Napoli Afragola station",
   "by": "Zaha Hadid",
   "place": "Afragola, IT",
@@ -249057,7 +246981,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museion-bolzano",
-  "n": 2672,
+  "n": 2660,
   "name": "Museion",
   "by": "KSV Krüger Schuberth Vandreike",
   "place": "Bolzano, IT",
@@ -249133,7 +247057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "allianz-tower-milan",
-  "n": 2673,
+  "n": 2661,
   "name": "Allianz Tower (Il Dritto)",
   "by": "Arata Isozaki, Andrea Maffei",
   "place": "Milan, IT",
@@ -249190,18 +247114,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Torre_Isozaki.JPG",
     "file": "File:Torre Isozaki.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Arco_della_Pace_vs_City_Life.jpg/1280px-Arco_della_Pace_vs_City_Life.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/allianz-tower-milan/thumbs/3.webp",
-    "w": 931,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Arco della Pace dal Parco Sempione, in contrasto con il grattacielo Allianz in una giornata di fine estate",
-    "credit": "Giuliana Berti",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Arco_della_Pace_vs_City_Life.jpg",
-    "file": "File:Arco della Pace vs City Life.jpg"
    }
   ],
   "has": [],
@@ -249209,7 +247121,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-direzionale-napoli",
-  "n": 2674,
+  "n": 2662,
   "name": "Centro Direzionale di Napoli",
   "by": "Kenzo Tange",
   "place": "Naples, IT",
@@ -249256,18 +247168,6 @@ window.BUILDINGS = [
     "file": "File:Centro Direzionale - Napoli.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Centro_Direzionale.JPG/1280px-Centro_Direzionale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centro-direzionale-napoli/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Centro Direzionale",
-    "credit": "Mischa004",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Centro_Direzionale.JPG",
-    "file": "File:Centro Direzionale.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Come_la_Grande_Mela.jpg/1280px-Come_la_Grande_Mela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/centro-direzionale-napoli/thumbs/3.webp",
     "w": 1280,
@@ -249278,18 +247178,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Come_la_Grande_Mela.jpg",
     "file": "File:Come la Grande Mela.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Napoli_from_Castel_Sant%27Elmo.jpg/1280px-Napoli_from_Castel_Sant%27Elmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centro-direzionale-napoli/thumbs/4.webp",
-    "w": 923,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Karl Newell & Andrew Littlewood  from Sheffield, United Kingdom",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Napoli_from_Castel_Sant%27Elmo.jpg",
-    "file": "File:Napoli from Castel Sant'Elmo.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Skyline_Napoli.jpg/1280px-Skyline_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -249309,7 +247197,7 @@ window.BUILDINGS = [
  },
  {
   "id": "madre-museum-naples",
-  "n": 2675,
+  "n": 2663,
   "name": "MADRE Museum",
   "by": "Álvaro Siza",
   "place": "Naples, IT",
@@ -249378,18 +247266,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Naples_Madre_cour_int.JPG",
     "file": "File:Naples Madre cour int.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%22Untitled_%28bench%29%22_-_marble_sculpture_%282009%29_by_Domenico_Bianchi_%28born_1955%29_-_Museum_%22MADRE%22_in_Naples_%2832017740918%29.jpg/1280px-%22Untitled_%28bench%29%22_-_marble_sculpture_%282009%29_by_Domenico_Bianchi_%28born_1955%29_-_Museum_%22MADRE%22_in_Naples_%2832017740918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/madre-museum-naples/thumbs/4.webp",
-    "w": 1280,
-    "h": 934,
-    "kind": "Detail",
-    "caption": "Detail · \"Untitled (bench)\" - marble sculpture (2009) by Domenico Bianchi (born 1955) - Museum \"MADRE\" in Naples",
-    "credit": "Carlo Raso  from Naples, Italy",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:%22Untitled_(bench)%22_-_marble_sculpture_(2009)_by_Domenico_Bianchi_(born_1955)_-_Museum_%22MADRE%22_in_Naples_(32017740918).jpg",
-    "file": "File:\"Untitled (bench)\" - marble sculpture (2009) by Domenico Bianchi (born 1955) - Museum \"MADRE\" in Naples (32017740918).jpg"
    }
   ],
   "has": [],
@@ -249397,7 +247273,7 @@ window.BUILDINGS = [
  },
  {
   "id": "juventus-stadium",
-  "n": 2676,
+  "n": 2664,
   "name": "Juventus Stadium",
   "by": "Hernando Suárez, Gino Zavanella, Giorgetto Giugiaro",
   "place": "Turin, IT",
@@ -249420,30 +247296,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Allianz_Stadium_dal_Colle_della_Maddalena.jpg/1280px-Allianz_Stadium_dal_Colle_della_Maddalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/juventus-stadium/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Vista dello stadio con i 2 piloni evidenti",
-    "credit": "Matteo Aresca 05",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Allianz_Stadium_dal_Colle_della_Maddalena.jpg",
-    "file": "File:Allianz Stadium dal Colle della Maddalena.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Juvar1.JPG/1280px-Juvar1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/juventus-stadium/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Julien Bertrand",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Juvar1.JPG",
-    "file": "File:Juvar1.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Juventus_v_Real_Madrid%2C_Champions_League%2C_Stadium%2C_Turin%2C_2013_%28cropped%29.jpg/1280px-Juventus_v_Real_Madrid%2C_Champions_League%2C_Stadium%2C_Turin%2C_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/juventus-stadium/thumbs/2.webp",
     "w": 1280,
@@ -249454,42 +247306,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Juventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013_(cropped).jpg",
     "file": "File:Juventus v Real Madrid, Champions League, Stadium, Turin, 2013 (cropped).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ingresso_J_Museum.jpg/1280px-Ingresso_J_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/juventus-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Ingresso del J-Museum (Juventus Museum) di Torino",
-    "credit": "Pmk58",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ingresso_J_Museum.jpg",
-    "file": "File:Ingresso J Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Heysel_Memorial_at_the_Juventus_Museum.jpg/1280px-Heysel_Memorial_at_the_Juventus_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/juventus-stadium/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Memoriale della strage dell'Heysel all'interno dello Juventus Museum di Torino (Italia)",
-    "credit": "Anonimo8428",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heysel_Memorial_at_the_Juventus_Museum.jpg",
-    "file": "File:Heysel Memorial at the Juventus Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Juventus_Museum_-_Trophy_Room.jpg/1280px-Juventus_Museum_-_Trophy_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/juventus-stadium/thumbs/5.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Interior",
-    "caption": "Interior · A partial view inside the J-Museum Trophy Room",
-    "credit": "Evelyn Hill  from Rome, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Juventus_Museum_-_Trophy_Room.jpg",
-    "file": "File:Juventus Museum - Trophy Room.jpg"
    }
   ],
   "has": [],
@@ -249497,7 +247313,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aquarium-of-genoa",
-  "n": 2677,
+  "n": 2665,
   "name": "Aquarium of Genoa",
   "by": "Renzo Piano",
   "place": "Genoa, IT",
@@ -249544,18 +247360,6 @@ window.BUILDINGS = [
     "file": "File:Aquarium of Genoa (50571642603).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Genova_Porto_Antico_Biosfera_e_Acquario.jpg/1280px-Genova_Porto_Antico_Biosfera_e_Acquario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aquarium-of-genoa/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Genova, Porto Antico, biosfera e acquario",
-    "credit": "Bbruno",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genova_Porto_Antico_Biosfera_e_Acquario.jpg",
-    "file": "File:Genova Porto Antico Biosfera e Acquario.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Dolphins_Genua_2014.JPG/1280px-Dolphins_Genua_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/aquarium-of-genoa/thumbs/3.webp",
     "w": 927,
@@ -249566,30 +247370,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dolphins_Genua_2014.JPG",
     "file": "File:Dolphins Genua 2014.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Aquarium_of_Genoa_%2850571641998%29.jpg/1280px-Aquarium_of_Genoa_%2850571641998%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aquarium-of-genoa/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Kent Wang  from Barcelona, Spain",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_of_Genoa_(50571641998).jpg",
-    "file": "File:Aquarium of Genoa (50571641998).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Aquarium_Genua_2014.JPG/1280px-Aquarium_Genua_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aquarium-of-genoa/thumbs/5.webp",
-    "w": 927,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Aquarium van Genua, 2014",
-    "credit": "Steven Lek",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_Genua_2014.JPG",
-    "file": "File:Aquarium Genua 2014.JPG"
    }
   ],
   "has": [],
@@ -249597,7 +247377,7 @@ window.BUILDINGS = [
  },
  {
   "id": "biosphere-genoa",
-  "n": 2678,
+  "n": 2666,
   "name": "Biosphere (Bigo)",
   "by": "Renzo Piano",
   "place": "Genoa, IT",
@@ -249620,30 +247400,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Genova_Porto_Antico_Biosfera_e_Acquario_01.jpg/1280px-Genova_Porto_Antico_Biosfera_e_Acquario_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/biosphere-genoa/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Genova, Porto Antico, biosfera e acquario",
-    "credit": "Bbruno",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genova_Porto_Antico_Biosfera_e_Acquario_01.jpg",
-    "file": "File:Genova Porto Antico Biosfera e Acquario 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Genova_-_Biosfera_-_2025-09-17_10-09-52_001.jpeg/1280px-Genova_-_Biosfera_-_2025-09-17_10-09-52_001.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/biosphere-genoa/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Biosfera al tramonto",
-    "credit": "Picapelletto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genova_-_Biosfera_-_2025-09-17_10-09-52_001.jpeg",
-    "file": "File:Genova - Biosfera - 2025-09-17 10-09-52 001.jpeg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Genova_-_Biosfera_-_2024-09-13_16-43-54_001.JPG/1280px-Genova_-_Biosfera_-_2024-09-13_16-43-54_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/biosphere-genoa/thumbs/2.webp",
     "w": 1280,
@@ -249654,18 +247410,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Genova_-_Biosfera_-_2024-09-13_16-43-54_001.JPG",
     "file": "File:Genova - Biosfera - 2024-09-13 16-43-54 001.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Genova_Porto_Antico_Biosfera_e_Acquario.jpg/1280px-Genova_Porto_Antico_Biosfera_e_Acquario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/biosphere-genoa/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Genova, Porto Antico, biosfera e acquario",
-    "credit": "Bbruno",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genova_Porto_Antico_Biosfera_e_Acquario.jpg",
-    "file": "File:Genova Porto Antico Biosfera e Acquario.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Porto_Genova_0180.JPG/1280px-Porto_Genova_0180.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -249685,7 +247429,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-degli-arcimboldi",
-  "n": 2679,
+  "n": 2667,
   "name": "Teatro degli Arcimboldi",
   "by": "Vittorio Gregotti",
   "place": "Milan, IT",
@@ -249730,42 +247474,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:TeatroArcimboldi.jpg",
     "file": "File:TeatroArcimboldi.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Marillion_at_Teatro_degli_Arcimboldi%2C_Milan_-_October_4th%2C_2017.jpg/1280px-Marillion_at_Teatro_degli_Arcimboldi%2C_Milan_-_October_4th%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/teatro-degli-arcimboldi/thumbs/2.webp",
-    "w": 1280,
-    "h": 719,
-    "kind": "Interior",
-    "caption": "Interior · Marillion live at Teatro degli Arcimboldi in Milan on October 4th, 2017",
-    "credit": "SuperVirtual",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Marillion_at_Teatro_degli_Arcimboldi,_Milan_-_October_4th,_2017.jpg",
-    "file": "File:Marillion at Teatro degli Arcimboldi, Milan - October 4th, 2017.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/20.IX_Book_of_Longing.jpg/1280px-20.IX_Book_of_Longing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/teatro-degli-arcimboldi/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Milano, Teatro degli Arcimboldi",
-    "credit": "MITO SettembreMusica",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20.IX_Book_of_Longing.jpg",
-    "file": "File:20.IX Book of Longing.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Philip_Glass_20.IX_Book_of_Longing.jpg/1280px-Philip_Glass_20.IX_Book_of_Longing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/teatro-degli-arcimboldi/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Milano, Teatro degli Arcimboldi",
-    "credit": "MITO SettembreMusica",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Philip_Glass_20.IX_Book_of_Longing.jpg",
-    "file": "File:Philip Glass 20.IX Book of Longing.jpg"
    }
   ],
   "has": [],
@@ -249773,7 +247481,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casino-di-campione",
-  "n": 2680,
+  "n": 2668,
   "name": "Casinò di Campione",
   "by": "Mario Botta",
   "place": "Campione d'Italia, IT",
@@ -249832,18 +247540,6 @@ window.BUILDINGS = [
     "file": "File:Casino Campione d'Italia veduta.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Campione_d%27Italia_-_Casin%C3%B2_di_Campione_-_2026-09-22_10-33-35_001.jpg/1280px-Campione_d%27Italia_-_Casin%C3%B2_di_Campione_-_2026-09-22_10-33-35_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casino-di-campione/thumbs/3.webp",
-    "w": 1280,
-    "h": 688,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Maurizio_Moro5153",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Campione_d%27Italia_-_Casin%C3%B2_di_Campione_-_2026-09-22_10-33-35_001.jpg",
-    "file": "File:Campione d'Italia - Casinò di Campione - 2026-09-22 10-33-35 001.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Campione_d%27Italia_03.jpg/1280px-Campione_d%27Italia_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casino-di-campione/thumbs/4.webp",
     "w": 1280,
@@ -249861,7 +247557,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palasport-olimpico-turin",
-  "n": 2681,
+  "n": 2669,
   "name": "Palasport Olimpico (Pala Alpitour)",
   "by": "Arata Isozaki",
   "place": "Turin, IT",
@@ -249949,7 +247645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centro-pecci-prato",
-  "n": 2682,
+  "n": 2670,
   "name": "Centro per l'arte contemporanea Luigi Pecci",
   "by": "Italo Gamberini, Maurice Nio",
   "place": "Prato, IT",
@@ -250049,7 +247745,7 @@ window.BUILDINGS = [
  },
  {
   "id": "20-fenchurch-street",
-  "n": 2683,
+  "n": 2671,
   "name": "20 Fenchurch Street",
   "by": "Rafael Viñoly",
   "place": "London, GB",
@@ -250082,30 +247778,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:20_Fenchurch_St_(Walkie-Talkie_building)_from_Rood_Ln,_London,_UK_-_Diliff.jpg",
     "file": "File:20 Fenchurch St (Walkie-Talkie building) from Rood Ln, London, UK - Diliff.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/20_Fenchurch_Street_from_street_level.JPG/1280px-20_Fenchurch_Street_from_street_level.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/20-fenchurch-street/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · 20 Fenchurch Street viewed from the square right in front of it",
-    "credit": "Victor Lopes",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20_Fenchurch_Street_from_street_level.JPG",
-    "file": "File:20 Fenchurch Street from street level.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/20_Fenchurch_Street_from_Lime_Street_Passage%2C_London.JPG/1280px-20_Fenchurch_Street_from_Lime_Street_Passage%2C_London.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/20-fenchurch-street/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · London",
-    "credit": "Philafrenzy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20_Fenchurch_Street_from_Lime_Street_Passage,_London.JPG",
-    "file": "File:20 Fenchurch Street from Lime Street Passage, London.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lloyd%27s_Building_-_Atrium_11th_floor_looking_at_the_Walkie-Talkie.jpg/1280px-Lloyd%27s_Building_-_Atrium_11th_floor_looking_at_the_Walkie-Talkie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -250144,6 +247816,30 @@ window.BUILDINGS = [
     "file": "File:Near the London Bridge is a bit closely.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/20_Fenchurch_Street_from_street_level.JPG/1280px-20_Fenchurch_Street_from_street_level.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/20-fenchurch-street/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · 20 Fenchurch Street viewed from the square right in front of it",
+    "credit": "Victor Lopes",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20_Fenchurch_Street_from_street_level.JPG",
+    "file": "File:20 Fenchurch Street from street level.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/20_Fenchurch_Street_from_Lime_Street_Passage%2C_London.JPG/1280px-20_Fenchurch_Street_from_Lime_Street_Passage%2C_London.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/20-fenchurch-street/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · London",
+    "credit": "Philafrenzy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20_Fenchurch_Street_from_Lime_Street_Passage,_London.JPG",
+    "file": "File:20 Fenchurch Street from Lime Street Passage, London.JPG"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/20_Fenchurch_Street_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/20-fenchurch-street/thumbs/6.webp",
     "w": 768,
@@ -250163,7 +247859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "denys-wilkinson-building",
-  "n": 2684,
+  "n": 2672,
   "name": "Denys Wilkinson Building",
   "by": "Philip Dowson (Arup)",
   "place": "Oxford, GB",
@@ -250251,7 +247947,7 @@ window.BUILDINGS = [
  },
  {
   "id": "renold-building",
-  "n": 2685,
+  "n": 2673,
   "name": "Renold Building",
   "by": "W. A. Gibbon (Cruickshank and Seward)",
   "place": "Manchester, GB",
@@ -250327,7 +248023,7 @@ window.BUILDINGS = [
  },
  {
   "id": "battersea-power-station",
-  "n": 2686,
+  "n": 2674,
   "name": "Battersea Power Station",
   "by": "J. Theo Halliday and Giles Gilbert Scott",
   "place": "London, GB",
@@ -250386,18 +248082,6 @@ window.BUILDINGS = [
     "file": "File:Battersea Power Station Electric Boulevard - 2025-08-21.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Battersea_Power_Station_Electric_Boulevard_-_54735853522.jpg/1280px-Battersea_Power_Station_Electric_Boulevard_-_54735853522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/battersea-power-station/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "www.mgaylard.co.uk and thanks for looking",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_Electric_Boulevard_-_54735853522.jpg",
-    "file": "File:Battersea Power Station Electric Boulevard - 54735853522.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Battersea_Power_Station_interior_-_2026-03-09.jpg/1280px-Battersea_Power_Station_interior_-_2026-03-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/battersea-power-station/thumbs/4.webp",
     "w": 933,
@@ -250420,28 +248104,14 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_interior_2026-03-09.jpg",
     "file": "File:Battersea Power Station interior 2026-03-09.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Lego_model_of_Battersea_Power_Station_2025-08-21.jpg/1280px-Lego_model_of_Battersea_Power_Station_2025-08-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/battersea-power-station/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "www.mgaylard.co.uk and thanks for looking",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lego_model_of_Battersea_Power_Station_2025-08-21.jpg",
-    "file": "File:Lego model of Battersea Power Station 2025-08-21.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "kensal-house",
-  "n": 2687,
+  "n": 2675,
   "name": "Kensal House",
   "by": "Maxwell Fry",
   "place": "London, GB",
@@ -250493,7 +248163,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kings-cross-station",
-  "n": 2688,
+  "n": 2676,
   "name": "King's Cross station",
   "by": "Lewis Cubitt; John McAslan (2012 concourse)",
   "place": "London, GB",
@@ -250586,28 +248256,14 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:London_King%27s_Cross_railway_station_interior_view.jpg",
     "file": "File:London King's Cross railway station interior view.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Model_railway_at_King%27s_Cross_2025-11-30.jpg/1280px-Model_railway_at_King%27s_Cross_2025-11-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kings-cross-station/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Model railway at King's Cross",
-    "credit": "Matt Brown",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_railway_at_King%27s_Cross_2025-11-30.jpg",
-    "file": "File:Model railway at King's Cross 2025-11-30.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "jubilee-pool-penzance",
-  "n": 2689,
+  "n": 2677,
   "name": "Jubilee Pool",
   "by": "Frank Latham",
   "place": "Penzance, GB",
@@ -250654,18 +248310,6 @@ window.BUILDINGS = [
     "file": "File:Jubilee Pool (6293).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Flags_at_Jubilee_Pool_%286286%29.jpg/1280px-Flags_at_Jubilee_Pool_%286286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jubilee-pool-penzance/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Flags at Jubilee Pool",
-    "credit": "Nilfanion",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flags_at_Jubilee_Pool_(6286).jpg",
-    "file": "File:Flags at Jubilee Pool (6286).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Penzance_-_Jubilee_Pool_-_20170707205500.jpg/1280px-Penzance_-_Jubilee_Pool_-_20170707205500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/jubilee-pool-penzance/thumbs/3.webp",
     "w": 1280,
@@ -250676,18 +248320,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Penzance_-_Jubilee_Pool_-_20170707205500.jpg",
     "file": "File:Penzance - Jubilee Pool - 20170707205500.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Jubilee_Pool%2C_Penzance_-_geograph.org.uk_-_4562434.jpg/1280px-The_Jubilee_Pool%2C_Penzance_-_geograph.org.uk_-_4562434.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/jubilee-pool-penzance/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Jubilee Pool, Penzance",
-    "credit": "John Lucas",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Jubilee_Pool,_Penzance_-_geograph.org.uk_-_4562434.jpg",
-    "file": "File:The Jubilee Pool, Penzance - geograph.org.uk - 4562434.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Jubilee_Pool_-_view_from_N.jpg/1280px-Jubilee_Pool_-_view_from_N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -250707,7 +248339,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-catherines-college-oxford",
-  "n": 2690,
+  "n": 2678,
   "name": "St Catherine's College, Oxford",
   "by": "Arne Jacobsen",
   "place": "Oxford, GB",
@@ -250754,18 +248386,6 @@ window.BUILDINGS = [
     "file": "File:St Catherine's College - geograph.org.uk - 7499426.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/The_entrance_to_St_Catherine%27s_College%2C_Oxford_-_geograph.org.uk_-_4732277.jpg/1280px-The_entrance_to_St_Catherine%27s_College%2C_Oxford_-_geograph.org.uk_-_4732277.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-catherines-college-oxford/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The entrance to St Catherine's College, Oxford",
-    "credit": "Marathon",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_entrance_to_St_Catherine%27s_College,_Oxford_-_geograph.org.uk_-_4732277.jpg",
-    "file": "File:The entrance to St Catherine's College, Oxford - geograph.org.uk - 4732277.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Arne_jacobsen%2C_st._catherine%27s_college%2C_oxford_10_%285023104207%29.jpg/1280px-Arne_jacobsen%2C_st._catherine%27s_college%2C_oxford_10_%285023104207%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/st-catherines-college-oxford/thumbs/3.webp",
     "w": 1280,
@@ -250807,7 +248427,7 @@ window.BUILDINGS = [
  },
  {
   "id": "robinson-college-cambridge",
-  "n": 2691,
+  "n": 2679,
   "name": "Robinson College",
   "by": "Andy MacMillan and Isi Metzstein (Gillespie, Kidd & Coia)",
   "place": "Cambridge, GB",
@@ -250866,18 +248486,6 @@ window.BUILDINGS = [
     "file": "File:Robinson College Fascade.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Robinson_College_Chapel_choir_cushions_%284767457882%29.jpg/1280px-Robinson_College_Chapel_choir_cushions_%284767457882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/robinson-college-cambridge/thumbs/3.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · www.robinson.cam.ac.uk/chapel/",
-    "credit": "Tim Regan  from Cambridge, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Robinson_College_Chapel_choir_cushions_(4767457882).jpg",
-    "file": "File:Robinson College Chapel choir cushions (4767457882).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Robinson_College_Chapel_choir_Piper_stained_glass_window%2C_%22Light_of_the_World%22_%284767594568%29.jpg/1280px-Robinson_College_Chapel_choir_Piper_stained_glass_window%2C_%22Light_of_the_World%22_%284767594568%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/robinson-college-cambridge/thumbs/4.webp",
     "w": 787,
@@ -250888,18 +248496,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Robinson_College_Chapel_choir_Piper_stained_glass_window,_%22Light_of_the_World%22_(4767594568).jpg",
     "file": "File:Robinson College Chapel choir Piper stained glass window, \"Light of the World\" (4767594568).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Robinson_College_Chapel_door_%284766950169%29.jpg/1280px-Robinson_College_Chapel_door_%284766950169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/robinson-college-cambridge/thumbs/5.webp",
-    "w": 786,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · www.robinson.cam.ac.uk/chapel/",
-    "credit": "Tim Regan  from Cambridge, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Robinson_College_Chapel_door_(4766950169).jpg",
-    "file": "File:Robinson College Chapel door (4766950169).jpg"
    }
   ],
   "has": [],
@@ -250907,7 +248503,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dudley-zoo",
-  "n": 2692,
+  "n": 2680,
   "name": "Dudley Zoo",
   "by": "Berthold Lubetkin and Tecton (engineer Ove Arup)",
   "place": "Dudley, GB",
@@ -250940,18 +248536,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dudley_Zoo,_West_Midlands,_England-8March2011_(1).jpg",
     "file": "File:Dudley Zoo, West Midlands, England-8March2011 (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg/1280px-Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dudley-zoo/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Inside the main gates at Dudley Zoo, Dudley, West Midlands, England",
-    "credit": "Bodacea",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg",
-    "file": "File:Dudley Zoo -inside the main gates-11Oct2009.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Dudley_Zoo_former_Brown_Bear_Pit_2_%285511573983%29.jpg/1280px-Dudley_Zoo_former_Brown_Bear_Pit_2_%285511573983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -250988,6 +248572,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dudley_Zoo,_West_Midlands,_England_-education_centre-8March2011.jpg",
     "file": "File:Dudley Zoo, West Midlands, England -education centre-8March2011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg/1280px-Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dudley-zoo/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside the main gates at Dudley Zoo, Dudley, West Midlands, England",
+    "credit": "Bodacea",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dudley_Zoo_-inside_the_main_gates-11Oct2009.jpg",
+    "file": "File:Dudley Zoo -inside the main gates-11Oct2009.jpg"
    }
   ],
   "has": [],
@@ -250995,7 +248591,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pallant-house-gallery",
-  "n": 2693,
+  "n": 2681,
   "name": "Pallant House Gallery",
   "by": "Colin St John Wilson and MJ Long (2006 extension)",
   "place": "Chichester, GB",
@@ -251076,40 +248672,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chichester,_Georgian_red_brick_at_the_crossroads_of_the_Pallants_-_geograph.org.uk_-_4329863.jpg",
     "file": "File:Chichester, Georgian red brick at the crossroads of the Pallants - geograph.org.uk - 4329863.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spencer_Gore_%281878-1914%29_-_The_Garden_Path%2C_Garth_House_-_CHCPH_0265_-_Pallant_House_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/pallant-house-gallery/thumbs/5.webp",
-    "w": 1200,
-    "h": 938,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Spencer Gore",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Spencer_Gore_(1878-1914)_-_The_Garden_Path,_Garth_House_-_CHCPH_0265_-_Pallant_House_Gallery.jpg",
-    "file": "File:Spencer Gore (1878-1914) - The Garden Path, Garth House - CHCPH 0265 - Pallant House Gallery.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Model_Sitting_in_an_Armchair%2C_Styling_Her_Hair_by_%C3%89douard_Vuillard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/pallant-house-gallery/thumbs/6.webp",
-    "w": 711,
-    "h": 640,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Édouard Vuillard",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_Sitting_in_an_Armchair,_Styling_Her_Hair_by_%C3%89douard_Vuillard.jpg",
-    "file": "File:Model Sitting in an Armchair, Styling Her Hair by Édouard Vuillard.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "the-whitworth",
-  "n": 2694,
+  "n": 2682,
   "name": "The Whitworth",
   "by": "MUMA (2015 extension); J. W. Beaumont (original)",
   "place": "Manchester, GB",
@@ -251202,28 +248772,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Staircase_in_Whitworth_Art_Gallery_-_geograph.org.uk_-_4518477.jpg",
     "file": "File:Staircase in Whitworth Art Gallery - geograph.org.uk - 4518477.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Dante_Gabriel_Rossetti_-_Mrs._William_Morris_%281870_circa%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/the-whitworth/thumbs/6.webp",
-    "w": 900,
-    "h": 635,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Dante Gabriel Rossetti",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Mrs._William_Morris_(1870_circa).jpg",
-    "file": "File:Dante Gabriel Rossetti - Mrs. William Morris (1870 circa).jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "embassy-of-denmark-london",
-  "n": 2695,
+  "n": 2683,
   "name": "Embassy of Denmark, London",
   "by": "Arne Jacobsen (completed by Dissing+Weitling)",
   "place": "London, GB",
@@ -251258,6 +248814,18 @@ window.BUILDINGS = [
     "file": "File:Danish Embassy, London.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Embassy_of_Denmark_%28London%2C_UK_-_June_2008%29.jpg/1280px-Embassy_of_Denmark_%28London%2C_UK_-_June_2008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/embassy-of-denmark-london/thumbs/3.webp",
+    "w": 1280,
+    "h": 927,
+    "kind": "Exterior",
+    "caption": "Exterior · Embassy of Denmark in London, taken by Barney Jenkins in June, 2008",
+    "credit": "en:User:Barney Jenkins",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Denmark_(London,_UK_-_June_2008).jpg",
+    "file": "File:Embassy of Denmark (London, UK - June 2008).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Embassy_of_Denmark_in_London.jpg/1280px-Embassy_of_Denmark_in_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/embassy-of-denmark-london/thumbs/1.webp",
     "w": 1280,
@@ -251280,18 +248848,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Royal_Danish_Embassy,_Sloane_Street_(1969-1977)_-_geograph.org.uk_-_3143575.jpg",
     "file": "File:Royal Danish Embassy, Sloane Street (1969-1977) - geograph.org.uk - 3143575.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Embassy_of_Denmark_%28London%2C_UK_-_June_2008%29.jpg/1280px-Embassy_of_Denmark_%28London%2C_UK_-_June_2008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/embassy-of-denmark-london/thumbs/3.webp",
-    "w": 1280,
-    "h": 927,
-    "kind": "Exterior",
-    "caption": "Exterior · Embassy of Denmark in London, taken by Barney Jenkins in June, 2008",
-    "credit": "en:User:Barney Jenkins",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_Denmark_(London,_UK_-_June_2008).jpg",
-    "file": "File:Embassy of Denmark (London, UK - June 2008).jpg"
    }
   ],
   "has": [],
@@ -251299,7 +248855,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-house-kew-gardens",
-  "n": 2696,
+  "n": 2684,
   "name": "Palm House, Kew Gardens",
   "by": "Decimus Burton and Richard Turner",
   "place": "London, GB",
@@ -251334,30 +248890,6 @@ window.BUILDINGS = [
     "file": "File:1262670 I THE PALM HOUSE, ROYAL BOTANIC GARDENS KEW, KEW GREEN, RICHMOND UPON THAMES, TW9 3AB London 20250618 0001.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/A_view_of_The_Palm_House%2C_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg/1280px-A_view_of_The_Palm_House%2C_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-house-kew-gardens/thumbs/1.webp",
-    "w": 1280,
-    "h": 892,
-    "kind": "Context",
-    "caption": "Context · A view of The Palm House, Kew Gardens",
-    "credit": "Neil Theasby",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_view_of_The_Palm_House,_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg",
-    "file": "File:A view of The Palm House, Kew Gardens - geograph.org.uk - 5936771.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bromeliad%2C_hothouse%2C_Kew_Gardens.jpg/1280px-Bromeliad%2C_hothouse%2C_Kew_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-house-kew-gardens/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Flowering orchid as epiphyte, Kew Gardens Palm House",
-    "credit": "Fæ",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bromeliad,_hothouse,_Kew_Gardens.jpg",
-    "file": "File:Bromeliad, hothouse, Kew Gardens.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Entry_Door_to_the_Palm_House_at_Kew_Gardens%2C_London._Interior_view_2018-10-22.jpg/1280px-Entry_Door_to_the_Palm_House_at_Kew_Gardens%2C_London._Interior_view_2018-10-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palm-house-kew-gardens/thumbs/3.webp",
     "w": 933,
@@ -251370,28 +248902,16 @@ window.BUILDINGS = [
     "file": "File:Entry Door to the Palm House at Kew Gardens, London. Interior view 2018-10-22.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Floor_grilles_in_Kew_Gardens_Palm_House_2025-05-14.jpg/1280px-Floor_grilles_in_Kew_Gardens_Palm_House_2025-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-house-kew-gardens/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/A_view_of_The_Palm_House%2C_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg/1280px-A_view_of_The_Palm_House%2C_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palm-house-kew-gardens/thumbs/1.webp",
     "w": 1280,
-    "h": 964,
-    "kind": "Interior",
-    "caption": "Interior · floor grilles in Kew Gardens Palm House",
-    "credit": "Andy Li",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Floor_grilles_in_Kew_Gardens_Palm_House_2025-05-14.jpg",
-    "file": "File:Floor grilles in Kew Gardens Palm House 2025-05-14.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bamboo_at_Palm_House_-_geograph.org.uk_-_6195435.jpg/1280px-Bamboo_at_Palm_House_-_geograph.org.uk_-_6195435.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-house-kew-gardens/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Bamboo at Palm House",
-    "credit": "Oast House Archive",
+    "h": 892,
+    "kind": "Context",
+    "caption": "Context · A view of The Palm House, Kew Gardens",
+    "credit": "Neil Theasby",
     "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bamboo_at_Palm_House_-_geograph.org.uk_-_6195435.jpg",
-    "file": "File:Bamboo at Palm House - geograph.org.uk - 6195435.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_of_The_Palm_House,_Kew_Gardens_-_geograph.org.uk_-_5936771.jpg",
+    "file": "File:A view of The Palm House, Kew Gardens - geograph.org.uk - 5936771.jpg"
    }
   ],
   "has": [],
@@ -251399,7 +248919,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-pavilion-brighton",
-  "n": 2697,
+  "n": 2685,
   "name": "Royal Pavilion",
   "by": "John Nash",
   "place": "Brighton, GB",
@@ -251513,7 +249033,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scottish-poetry-library",
-  "n": 2698,
+  "n": 2686,
   "name": "Scottish Poetry Library",
   "by": "Malcolm Fraser Architects",
   "place": "Edinburgh, GB",
@@ -251535,18 +249055,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Scottish_Poetry_Library_-_geograph.org.uk_-_7990145.jpg/1280px-Scottish_Poetry_Library_-_geograph.org.uk_-_7990145.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scottish-poetry-library/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Richard Webb",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Scottish_Poetry_Library_-_geograph.org.uk_-_7990145.jpg",
-    "file": "File:Scottish Poetry Library - geograph.org.uk - 7990145.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Scottish_Poetry_Library.jpg/1280px-Scottish_Poetry_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/scottish-poetry-library/thumbs/1.webp",
@@ -251589,7 +249097,7 @@ window.BUILDINGS = [
  },
  {
   "id": "broadcasting-house-cardiff",
-  "n": 2699,
+  "n": 2687,
   "name": "Broadcasting House, Cardiff",
   "by": "Dale Owen",
   "place": "Cardiff, GB",
@@ -251665,7 +249173,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hugh-owen-library",
-  "n": 2700,
+  "n": 2688,
   "name": "Hugh Owen Library",
   "by": "Dale Owen (Sir Percy Thomas and Son)",
   "place": "Aberystwyth, GB",
@@ -251698,18 +249206,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Hugh_Owen_Library.jpg",
     "file": "File:Hugh Owen Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/15th_February_2015_%2816353688539%29.jpg/1280px-15th_February_2015_%2816353688539%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hugh-owen-library/thumbs/1.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · I was thinking earlier that this building could charge me rent, I spend so much time in it",
-    "credit": "danielfigfoz",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:15th_February_2015_(16353688539).jpg",
-    "file": "File:15th February 2015 (16353688539).jpg"
    }
   ],
   "has": [],
@@ -251717,7 +249213,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-davids-hall-cardiff",
-  "n": 2701,
+  "n": 2689,
   "name": "St David's Hall",
   "by": "Seymour Harris Partnership",
   "place": "Cardiff, GB",
@@ -251793,7 +249289,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-bank-of-ireland-dublin",
-  "n": 2702,
+  "n": 2690,
   "name": "Central Bank of Ireland, Dame Street",
   "by": "Sam Stephenson (Stephenson Gibney & Associates)",
   "place": "Dublin, IE",
@@ -251845,7 +249341,7 @@ window.BUILDINGS = [
  },
  {
   "id": "spire-of-dublin",
-  "n": 2703,
+  "n": 2691,
   "name": "Spire of Dublin",
   "by": "Ian Ritchie Architects",
   "place": "Dublin, IE",
@@ -251902,42 +249398,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Dublin_The_Spire.JPG",
     "file": "File:Dublin The Spire.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ireland_Dublin_O%27Connel%27s_Monument_BW_2025-09-15_14-33-29.jpg/1280px-Ireland_Dublin_O%27Connel%27s_Monument_BW_2025-09-15_14-33-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/spire-of-dublin/thumbs/3.webp",
-    "w": 872,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Ireland, Dublin, O'Connell's Monument with The Spire in the background",
-    "credit": "Berthold Werner",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ireland_Dublin_O%27Connel%27s_Monument_BW_2025-09-15_14-33-29.jpg",
-    "file": "File:Ireland Dublin O'Connel's Monument BW 2025-09-15 14-33-29.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Liberty_Hall_Spire_and_Custom_House_brighter.jpg/1280px-Liberty_Hall_Spire_and_Custom_House_brighter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/spire-of-dublin/thumbs/4.webp",
-    "w": 1280,
-    "h": 1157,
-    "kind": "Interior",
-    "caption": "Interior · Liberty Hall, Spire of Dublin, and Custom House, taken from George's Quay",
-    "credit": "Jnestorius . Modified by  Trounce",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Liberty_Hall_Spire_and_Custom_House_brighter.jpg",
-    "file": "File:Liberty Hall Spire and Custom House brighter.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Liberty_Hall_Spire_and_Custom_House.jpg/1280px-Liberty_Hall_Spire_and_Custom_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/spire-of-dublin/thumbs/5.webp",
-    "w": 1280,
-    "h": 1157,
-    "kind": "Interior",
-    "caption": "Interior · Liberty Hall, Spire of Dublin, and Custom House, taken from George's Quay",
-    "credit": "Jnestorius",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Liberty_Hall_Spire_and_Custom_House.jpg",
-    "file": "File:Liberty Hall Spire and Custom House.jpg"
    }
   ],
   "has": [],
@@ -251945,7 +249405,7 @@ window.BUILDINGS = [
  },
  {
   "id": "custom-house-dublin",
-  "n": 2704,
+  "n": 2692,
   "name": "The Custom House",
   "by": "James Gandon",
   "place": "Dublin, IE",
@@ -252045,7 +249505,7 @@ window.BUILDINGS = [
  },
  {
   "id": "central-hall-university-of-york",
-  "n": 2705,
+  "n": 2693,
   "name": "Central Hall, University of York",
   "by": "Robert Matthew, Johnson-Marshall & Partners (design by John Speight)",
   "place": "York, GB",
@@ -252121,7 +249581,7 @@ window.BUILDINGS = [
  },
  {
   "id": "golden-lane-estate",
-  "n": 2706,
+  "n": 2694,
   "name": "Golden Lane Estate",
   "by": "Chamberlin, Powell and Bon",
   "place": "London, GB",
@@ -252190,30 +249650,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Golden_Lane_Estate_colours.jpg",
     "file": "File:Golden Lane Estate colours.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Barbican_from_Great_Arthur_Hall.jpg/1280px-The_Barbican_from_Great_Arthur_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/golden-lane-estate/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The Barbican Estate (1959-79) by Chamberlain, Powell and Bon",
-    "credit": "Steve Cadman",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Barbican_from_Great_Arthur_Hall.jpg",
-    "file": "File:The Barbican from Great Arthur Hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Golden_Lane_Community_Hall.jpg/1280px-Golden_Lane_Community_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/golden-lane-estate/thumbs/5.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "secretlondon123",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Golden_Lane_Community_Hall.jpg",
-    "file": "File:Golden Lane Community Hall.jpg"
    }
   ],
   "has": [],
@@ -252221,7 +249657,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bevin-court",
-  "n": 2707,
+  "n": 2695,
   "name": "Bevin Court",
   "by": "Berthold Lubetkin (Tecton); completed with Francis Skinner and Douglas Carr Bailey",
   "place": "London, GB",
@@ -252256,18 +249692,6 @@ window.BUILDINGS = [
     "file": "File:Bevin exterior.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bevin_Court_%283318001105%29.jpg/1280px-Bevin_Court_%283318001105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bevin-court/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Steve Cadman  from London, U.K.",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bevin_Court_(3318001105).jpg",
-    "file": "File:Bevin Court (3318001105).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Bevin_Court_-_2025-11-02.jpg/1280px-Bevin_Court_-_2025-11-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bevin-court/thumbs/2.webp",
     "w": 1050,
@@ -252290,6 +249714,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Peter_yates_mural_bevin_court.jpg",
     "file": "File:Peter yates mural bevin court.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bevin_Court_%283318001105%29.jpg/1280px-Bevin_Court_%283318001105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bevin-court/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Steve Cadman  from London, U.K.",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bevin_Court_(3318001105).jpg",
+    "file": "File:Bevin Court (3318001105).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bevin_Court_Stair.jpg/1280px-Bevin_Court_Stair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -252321,7 +249757,7 @@ window.BUILDINGS = [
  },
  {
   "id": "us-embassy-london-nine-elms",
-  "n": 2708,
+  "n": 2696,
   "name": "Embassy of the United States, London (Nine Elms)",
   "by": "KieranTimberlake",
   "place": "London, GB",
@@ -252343,54 +249779,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Embassy_of_the_United_States_of_America_%2851793689171%29.jpg/1280px-Embassy_of_the_United_States_of_America_%2851793689171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/us-embassy-london-nine-elms/thumbs/0.webp",
-    "w": 1280,
-    "h": 763,
-    "kind": "Exterior",
-    "caption": "Exterior · Embassy of the United States of America",
-    "credit": "Mark  from Brighton",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Embassy_of_the_United_States_of_America_(51793689171).jpg",
-    "file": "File:Embassy of the United States of America (51793689171).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/The_Commandant%2C_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_%289736884%29.jpg/1280px-The_Commandant%2C_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_%289736884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/us-embassy-london-nine-elms/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The 39th Commandant of the Marine Corps, Gen",
-    "credit": "U.S. Marine Corp photo by Cpl.  Juaquin Greaves",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Commandant,_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_(9736884).jpg",
-    "file": "File:The Commandant, Gen Eric M Smith visits London Detachment Marine Security Guards (9736884).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Commandant%2C_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_%289736893%29.jpg/1280px-The_Commandant%2C_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_%289736893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/us-embassy-london-nine-elms/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The 39th Commandant of the Marine Corps, Gen",
-    "credit": "U.S. Marine Corp photo by Cpl.  Juaquin Greaves",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Commandant,_Gen_Eric_M_Smith_visits_London_Detachment_Marine_Security_Guards_(9736893).jpg",
-    "file": "File:The Commandant, Gen Eric M Smith visits London Detachment Marine Security Guards (9736893).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Culinary_Common_Ground_Sept_2019_01.jpg/1280px-Culinary_Common_Ground_Sept_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/us-embassy-london-nine-elms/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Chef Mary Sue Milliken (Border Grill Restaurant) and Chef Fergus Henderson (St",
-    "credit": "U.S. Embassy London",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Culinary_Common_Ground_Sept_2019_01.jpg",
-    "file": "File:Culinary Common Ground Sept 2019 01.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/US_Embassy_London_2018_%2826358175848%29.jpg/1280px-US_Embassy_London_2018_%2826358175848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/us-embassy-london-nine-elms/thumbs/4.webp",
@@ -252421,7 +249809,7 @@ window.BUILDINGS = [
  },
  {
   "id": "southwark-tube-station",
-  "n": 2709,
+  "n": 2697,
   "name": "Southwark tube station",
   "by": "Richard MacCormac (MacCormac Jamieson Prichard)",
   "place": "London, GB",
@@ -252521,7 +249909,7 @@ window.BUILDINGS = [
  },
  {
   "id": "senate-house-london",
-  "n": 2710,
+  "n": 2698,
   "name": "Senate House, London",
   "by": "Charles Holden",
   "place": "London, GB",
@@ -252544,18 +249932,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Exterior_of_Senate_House_IMG_1211.JPG/1280px-Exterior_of_Senate_House_IMG_1211.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-house-london/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Senate House, University of London, London",
-    "credit": "Deror_avi",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Senate_House_IMG_1211.JPG",
-    "file": "File:Exterior of Senate House IMG 1211.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Northern_Side_of_Senate_House%2C_Bloomsbury.jpg/1280px-Northern_Side_of_Senate_House%2C_Bloomsbury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/senate-house-london/thumbs/1.webp",
     "w": 1280,
@@ -252566,54 +249942,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Northern_Side_of_Senate_House,_Bloomsbury.jpg",
     "file": "File:Northern Side of Senate House, Bloomsbury.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Exterior_of_Senate_House_IMG_1218.JPG/1280px-Exterior_of_Senate_House_IMG_1218.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-house-london/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Senate House, University of London, London",
-    "credit": "Deror_avi",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Senate_House_IMG_1218.JPG",
-    "file": "File:Exterior of Senate House IMG 1218.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Senate_House%2C_London_University_-_51365073598.jpg/1280px-Senate_House%2C_London_University_-_51365073598.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-house-london/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "amandabhslater",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Senate_House,_London_University_-_51365073598.jpg",
-    "file": "File:Senate House, London University - 51365073598.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/WCCWiki1.jpg/1280px-WCCWiki1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-house-london/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Women in Classical Studies editathon at Senate House, London",
-    "credit": "Jwslubbock",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WCCWiki1.jpg",
-    "file": "File:WCCWiki1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/WCCWiki10.jpg/1280px-WCCWiki10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-house-london/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Women in Classical Studies editathon at Senate House, London",
-    "credit": "Jwslubbock",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WCCWiki10.jpg",
-    "file": "File:WCCWiki10.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Charles_Holden%27s_plan_for_University_of_London.jpg/1280px-Charles_Holden%27s_plan_for_University_of_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -252648,7 +249976,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kettles-yard",
-  "n": 2711,
+  "n": 2699,
   "name": "Kettle's Yard",
   "by": "Leslie Martin (1970 extension); Jamie Fobert (2018)",
   "place": "Cambridge, GB",
@@ -252719,18 +250047,6 @@ window.BUILDINGS = [
     "file": "File:Antony Gormley, Kettle's Yard, Cambridge , Co-ordinate IV, 2018 - photo 3 - geograph.org.uk - 5894304.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Cambridge_3000_33.jpg/1280px-Cambridge_3000_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kettles-yard/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Cambridge",
-    "credit": "FrDr",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cambridge_3000_33.jpg",
-    "file": "File:Cambridge 3000 33.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Castle_Street%2C_Cambridge._-_geograph.org.uk_-_5905322.jpg/1280px-Castle_Street%2C_Cambridge._-_geograph.org.uk_-_5905322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kettles-yard/thumbs/5.webp",
     "w": 1280,
@@ -252748,7 +250064,7 @@ window.BUILDINGS = [
  },
  {
   "id": "surbiton-railway-station",
-  "n": 2712,
+  "n": 2700,
   "name": "Surbiton railway station",
   "by": "James Robb Scott (Southern Railway)",
   "place": "London, GB",
@@ -252807,18 +250123,6 @@ window.BUILDINGS = [
     "file": "File:Surbiton Railway Station - geograph.org.uk - 4333283.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/69002_with_LU_4-TC_unit_and_73109_on_The_Branch_Line_Society%2C_The_Jurassic_Crompton_working_1Z34_London_Waterloo_to_Swanage_passes_Surbiton_090524_%2853712629110%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/surbiton-railway-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Foulger Rail Photos  from Basingstoke, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:69002_with_LU_4-TC_unit_and_73109_on_The_Branch_Line_Society,_The_Jurassic_Crompton_working_1Z34_London_Waterloo_to_Swanage_passes_Surbiton_090524_(53712629110).jpg",
-    "file": "File:69002 with LU 4-TC unit and 73109 on The Branch Line Society, The Jurassic Crompton working 1Z34 London Waterloo to Swanage passes Surbiton 090524 (53712629110).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Surbiton_station_booking_hall.jpg/1280px-Surbiton_station_booking_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/surbiton-railway-station/thumbs/4.webp",
     "w": 1052,
@@ -252848,7 +250152,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liverpool-cathedral",
-  "n": 2713,
+  "n": 2701,
   "name": "Liverpool Cathedral",
   "by": "Giles Gilbert Scott (completed by Frederick Thomas)",
   "place": "Liverpool, GB",
@@ -252907,18 +250211,6 @@ window.BUILDINGS = [
     "file": "File:Liverpool Anglican Cathedral (2016-01-09 18.01.37 by Bob Edwards - 24251564426).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/ACC_Liverpool_from_the_Mersey_2018-1.jpg/1280px-ACC_Liverpool_from_the_Mersey_2018-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liverpool-cathedral/thumbs/3.webp",
-    "w": 1280,
-    "h": 705,
-    "kind": "Exterior",
-    "caption": "Exterior · The ACC convention centre on the north bank of the Mersey from the Royal Iris; mid afternoon in winter",
-    "credit": "Rodhullandemu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:ACC_Liverpool_from_the_Mersey_2018-1.jpg",
-    "file": "File:ACC Liverpool from the Mersey 2018-1.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Anglican_Cathedral_Church_of_Christ_HDR.jpg/1280px-Anglican_Cathedral_Church_of_Christ_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/liverpool-cathedral/thumbs/4.webp",
     "w": 932,
@@ -252931,18 +250223,6 @@ window.BUILDINGS = [
     "file": "File:Anglican Cathedral Church of Christ HDR.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Day_2-_Candles_at_Liverpool_Cathedral_%288387296309%29.jpg/1280px-Day_2-_Candles_at_Liverpool_Cathedral_%288387296309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liverpool-cathedral/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Takashi Hososhima  from Tokyo, Japan",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Day_2-_Candles_at_Liverpool_Cathedral_(8387296309).jpg",
-    "file": "File:Day 2- Candles at Liverpool Cathedral (8387296309).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Liverpool_Cathedral_%28west_elevation%29_-_geograph.org.uk_-_6208647.jpg/1280px-Liverpool_Cathedral_%28west_elevation%29_-_geograph.org.uk_-_6208647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/liverpool-cathedral/thumbs/6.webp",
     "w": 1280,
@@ -252953,29 +250233,16 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Liverpool_Cathedral_(west_elevation)_-_geograph.org.uk_-_6208647.jpg",
     "file": "File:Liverpool Cathedral (west elevation) - geograph.org.uk - 6208647.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Reilly-Liverpool-Cathedral-1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/liverpool-cathedral/thumbs/7.webp",
-    "w": 1000,
-    "h": 1267,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "w:Charles Herbert Reilly  (1874–1948)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Reilly-Liverpool-Cathedral-1902.jpg",
-    "file": "File:Reilly-Liverpool-Cathedral-1902.jpg"
    }
   ],
   "has": [
-   "Elevation",
-   "Drawing"
+   "Elevation"
   ],
   "gv": 3
  },
  {
   "id": "portmeirion",
-  "n": 2714,
+  "n": 2702,
   "name": "Portmeirion",
   "by": "Clough Williams-Ellis",
   "place": "Penrhyndeudraeth, GB",
@@ -253020,54 +250287,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Looking_towards_Portmeirion_-_geograph.org.uk_-_7280020.jpg",
     "file": "File:Looking towards Portmeirion - geograph.org.uk - 7280020.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Portmeirion_%2829497964783%29.jpg/1280px-Portmeirion_%2829497964783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/portmeirion/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Tom Parnell  from Scottish Borders, Scotland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Portmeirion_(29497964783).jpg",
-    "file": "File:Portmeirion (29497964783).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Portmeirion_%2829498007703%29.jpg/1280px-Portmeirion_%2829498007703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/portmeirion/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Sea-front Terrace, 1926",
-    "credit": "Tom Parnell  from Scottish Borders, Scotland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Portmeirion_(29498007703).jpg",
-    "file": "File:Portmeirion (29498007703).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Cannon_in_Portmeirion_%287775%29.jpg/1280px-Cannon_in_Portmeirion_%287775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/portmeirion/thumbs/4.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Detail",
-    "caption": "Detail · Cannon in Portmeirion",
-    "credit": "Nilfanion",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cannon_in_Portmeirion_(7775).jpg",
-    "file": "File:Cannon in Portmeirion (7775).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/IMGP7983_%2843801526215%29.jpg/1280px-IMGP7983_%2843801526215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/portmeirion/thumbs/5.webp",
-    "w": 1280,
-    "h": 918,
-    "kind": "Context",
-    "caption": "Context · Looking down on the Italianate village of Portmeirion from the gardens overlooking the village",
-    "credit": "Matt Buck  from London, United Kingdom",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:IMGP7983_(43801526215).jpg",
-    "file": "File:IMGP7983 (43801526215).jpg"
    }
   ],
   "has": [],
@@ -253075,7 +250294,7 @@ window.BUILDINGS = [
  },
  {
   "id": "blenheim-palace",
-  "n": 2715,
+  "n": 2703,
   "name": "Blenheim Palace",
   "by": "John Vanbrugh (assisted by Nicholas Hawksmoor)",
   "place": "Woodstock, GB",
@@ -253122,18 +250341,6 @@ window.BUILDINGS = [
     "file": "File:Blenheim - Blenheim Palace - 20210417122813.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Bleinham_Palace_1980.jpg/1280px-Bleinham_Palace_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/blenheim-palace/thumbs/2.webp",
-    "w": 1280,
-    "h": 846,
-    "kind": "Interior",
-    "caption": "Interior · Bleinham Palace 1980",
-    "credit": "Johnckarnes",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bleinham_Palace_1980.jpg",
-    "file": "File:Bleinham Palace 1980.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Blenheim_Palace_from_the_Water_Terraces_October_2016.jpg/1280px-Blenheim_Palace_from_the_Water_Terraces_October_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/blenheim-palace/thumbs/3.webp",
     "w": 1280,
@@ -253156,6 +250363,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace_facade_October_2016.jpg",
     "file": "File:Blenheim Palace facade October 2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Bleinham_Palace_1980.jpg/1280px-Bleinham_Palace_1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blenheim-palace/thumbs/2.webp",
+    "w": 1280,
+    "h": 846,
+    "kind": "Interior",
+    "caption": "Interior · Bleinham Palace 1980",
+    "credit": "Johnckarnes",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bleinham_Palace_1980.jpg",
+    "file": "File:Bleinham Palace 1980.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ai_Weiwei_at_Blenheim_Palace.jpg/1280px-Ai_Weiwei_at_Blenheim_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -253189,7 +250408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-pancras-railway-station",
-  "n": 2716,
+  "n": 2704,
   "name": "St Pancras railway station",
   "by": "William Henry Barlow (train shed)",
   "place": "London, GB",
@@ -253289,7 +250508,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castell-coch",
-  "n": 2717,
+  "n": 2705,
   "name": "Castell Coch",
   "by": "William Burges (completed by Richard Pullan)",
   "place": "Cardiff, GB",
@@ -253348,18 +250567,6 @@ window.BUILDINGS = [
     "file": "File:Castell Coch - geograph.org.uk - 6802382.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Castell_Coch%2C_Entrance_ramp_-_geograph.org.uk_-_6914584.jpg/1280px-Castell_Coch%2C_Entrance_ramp_-_geograph.org.uk_-_6914584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/castell-coch/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Castell Coch: Entrance ramp",
-    "credit": "Michael Garlick",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Castell_Coch,_Entrance_ramp_-_geograph.org.uk_-_6914584.jpg",
-    "file": "File:Castell Coch, Entrance ramp - geograph.org.uk - 6914584.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Castell_Coch%2C_The_Kitchen_Tower_-_geograph.org.uk_-_6914570.jpg/1280px-Castell_Coch%2C_The_Kitchen_Tower_-_geograph.org.uk_-_6914570.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/castell-coch/thumbs/4.webp",
     "w": 933,
@@ -253370,18 +250577,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Castell_Coch,_The_Kitchen_Tower_-_geograph.org.uk_-_6914570.jpg",
     "file": "File:Castell Coch, The Kitchen Tower - geograph.org.uk - 6914570.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Castell_Coch%2C_The_Cellar_-_geograph.org.uk_-_6915676.jpg/1280px-Castell_Coch%2C_The_Cellar_-_geograph.org.uk_-_6915676.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/castell-coch/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Castell Coch: The Cellar",
-    "credit": "Michael Garlick",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Castell_Coch,_The_Cellar_-_geograph.org.uk_-_6915676.jpg",
-    "file": "File:Castell Coch, The Cellar - geograph.org.uk - 6915676.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Maqueta_castell_coch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -253403,7 +250598,7 @@ window.BUILDINGS = [
  },
  {
   "id": "livingstone-tower-glasgow",
-  "n": 2718,
+  "n": 2706,
   "name": "Livingstone Tower",
   "by": "Covell, Matthews & Partners",
   "place": "Glasgow, GB",
@@ -253479,7 +250674,7 @@ window.BUILDINGS = [
  },
  {
   "id": "scottish-storytelling-centre",
-  "n": 2719,
+  "n": 2707,
   "name": "Scottish Storytelling Centre",
   "by": "Malcolm Fraser Architects",
   "place": "Edinburgh, GB",
@@ -253512,42 +250707,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Scottish-Storytelling-Centre_2014-07-17~_MG_0036.jpg",
     "file": "File:Scottish-Storytelling-Centre 2014-07-17~ MG 0036.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Book_Week_Scotland_2014_%2815250063763%29.jpg/1280px-Book_Week_Scotland_2014_%2815250063763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scottish-storytelling-centre/thumbs/1.webp",
-    "w": 1280,
-    "h": 836,
-    "kind": "Exterior",
-    "caption": "Exterior · Fiona Hyslop - Culture, Europe and External Affairs Secretary",
-    "credit": "Scottish Government",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Book_Week_Scotland_2014_(15250063763).jpg",
-    "file": "File:Book Week Scotland 2014 (15250063763).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Book_Week_Scotland_2014_%2815683944337%29.jpg/1280px-Book_Week_Scotland_2014_%2815683944337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scottish-storytelling-centre/thumbs/2.webp",
-    "w": 858,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · (L-R) Fiona Hyslop - Culture, Europe and External Affairs Secretary Lucy Jones - Artist",
-    "credit": "Scottish Government",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Book_Week_Scotland_2014_(15683944337).jpg",
-    "file": "File:Book Week Scotland 2014 (15683944337).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Netherbow_Port_%284540627857%29.jpg/1280px-Netherbow_Port_%284540627857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/scottish-storytelling-centre/thumbs/3.webp",
-    "w": 1280,
-    "h": 1159,
-    "kind": "Exterior",
-    "caption": "Exterior · Plaque on the wall of the Scottish Storytelling Centre",
-    "credit": "Tony Hisgett  from Birmingham, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Netherbow_Port_(4540627857).jpg",
-    "file": "File:Netherbow Port (4540627857).jpg"
    }
   ],
   "has": [],
@@ -253555,7 +250714,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lyric-theatre-belfast",
-  "n": 2720,
+  "n": 2708,
   "name": "Lyric Theatre, Belfast",
   "by": "O'Donnell & Tuomey",
   "place": "Belfast, GB",
@@ -253588,66 +250747,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Lyric_Theatre_-_geograph.org.uk_-_3522487.jpg",
     "file": "File:The Lyric Theatre - geograph.org.uk - 3522487.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sam_McCready.jpg/1280px-Sam_McCready.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lyric-theatre-belfast/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Sam McCready at Lyric Theatre, Belfast, 2017",
-    "credit": "Petre lee",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sam_McCready.jpg",
-    "file": "File:Sam McCready.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Liam_Neeson_and_James_Nesbitt.jpg/1280px-Liam_Neeson_and_James_Nesbitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lyric-theatre-belfast/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Liam Neeson and James Nesbitt at the closing of the Lyric Theatre Belfast",
-    "credit": "fluterirl",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Liam_Neeson_and_James_Nesbitt.jpg",
-    "file": "File:Liam Neeson and James Nesbitt.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/LiamNeesonJan08.jpg/1280px-LiamNeesonJan08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lyric-theatre-belfast/thumbs/3.webp",
-    "w": 897,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Liam Neeson at the closing of the Lyric Theatre Belfast",
-    "credit": "fluterirl",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:LiamNeesonJan08.jpg",
-    "file": "File:LiamNeesonJan08.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Belfast_%28473%29%2C_October_2009.JPG/1280px-Belfast_%28473%29%2C_October_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lyric-theatre-belfast/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Ardfern",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Belfast_(473),_October_2009.JPG",
-    "file": "File:Belfast (473), October 2009.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lyric_Theatre%2C_Belfast%2C_May_2010_%2801%29.JPG/1280px-Lyric_Theatre%2C_Belfast%2C_May_2010_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lyric-theatre-belfast/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Ardfern",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lyric_Theatre,_Belfast,_May_2010_(01).JPG",
-    "file": "File:Lyric Theatre, Belfast, May 2010 (01).JPG"
    }
   ],
   "has": [],
@@ -253655,7 +250754,7 @@ window.BUILDINGS = [
  },
  {
   "id": "swansea-civic-centre",
-  "n": 2721,
+  "n": 2709,
   "name": "Swansea Civic Centre",
   "by": "C. W. Quick (West Glamorgan County Architects Department)",
   "place": "Swansea, GB",
@@ -253712,18 +250811,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Civic_Centre,_Swansea,_detail_of_south_facade.jpg",
     "file": "File:Civic Centre, Swansea, detail of south facade.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Civic_Centre%2C_Swansea%2C_detail_of_south_facade_with_blue_plaque.jpg/1280px-Civic_Centre%2C_Swansea%2C_detail_of_south_facade_with_blue_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/swansea-civic-centre/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Civic Centre, Swansea, detail of south facade with blue plaque to Ann Julia Hatton",
-    "credit": "Vouliagmeni",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Civic_Centre,_Swansea,_detail_of_south_facade_with_blue_plaque.jpg",
-    "file": "File:Civic Centre, Swansea, detail of south facade with blue plaque.jpg"
    }
   ],
   "has": [],
@@ -253731,7 +250818,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-bridge-derry",
-  "n": 2722,
+  "n": 2710,
   "name": "Peace Bridge (Foyle)",
   "by": "AECOM and Wilkinson Eyre",
   "place": "Derry, GB",
@@ -253831,7 +250918,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aras-an-uachtarain",
-  "n": 2723,
+  "n": 2711,
   "name": "Áras an Uachtaráin",
   "by": "Nathaniel Clements",
   "place": "Dublin, IE",
@@ -253902,30 +250989,6 @@ window.BUILDINGS = [
     "file": "File:Áras an Uachtaráin 2010.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Barack_Obama_and_Mary_McAleese_2011.jpg/1280px-Barack_Obama_and_Mary_McAleese_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aras-an-uachtarain/thumbs/4.webp",
-    "w": 1280,
-    "h": 865,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Pete Souza  (Official  White House  Photographer)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Barack_Obama_and_Mary_McAleese_2011.jpg",
-    "file": "File:Barack Obama and Mary McAleese 2011.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Barack_Obama_and_Mary_McAleese_2011_larger.jpg/1280px-Barack_Obama_and_Mary_McAleese_2011_larger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aras-an-uachtarain/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · President Barack Obama and First Lady Michelle Obama talk with Irish President Mary McAleese and Dr",
-    "credit": "Official White House Photo by Pete Souza",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Barack_Obama_and_Mary_McAleese_2011_larger.jpg",
-    "file": "File:Barack Obama and Mary McAleese 2011 larger.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Ph%C5%93nix_Park%2C_Dublin._Grand_entrance_to_the_Vice-Regal_Lodge%2C_1835_%28IA_jstor-30003010%29_%28page_1_crop%29.jpg/1280px-The_Ph%C5%93nix_Park%2C_Dublin._Grand_entrance_to_the_Vice-Regal_Lodge%2C_1835_%28IA_jstor-30003010%29_%28page_1_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/aras-an-uachtarain/thumbs/6.webp",
     "w": 1280,
@@ -253945,7 +251008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chichester-festival-theatre",
-  "n": 2724,
+  "n": 2712,
   "name": "Chichester Festival Theatre",
   "by": "Philip Powell and Hidalgo Moya",
   "place": "Chichester, GB",
@@ -254002,42 +251065,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chichester_Festival_Theatre_-_geograph.org.uk_-_2726581.jpg",
     "file": "File:Chichester Festival Theatre - geograph.org.uk - 2726581.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/SpartacusStatue_Chichester.jpg/1280px-SpartacusStatue_Chichester.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chichester-festival-theatre/thumbs/3.webp",
-    "w": 875,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Statue of a dancer by Tom Merrifield (1984) depicting Spartacus outside the Festival Theatre, Chichester",
-    "credit": "Martinvl",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SpartacusStatue_Chichester.jpg",
-    "file": "File:SpartacusStatue Chichester.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Spartacus_Sculpture%2C_Chichester_Theatre_-_geograph.org.uk_-_3615492.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/chichester-festival-theatre/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Spartacus Sculpture, Chichester Theatre",
-    "credit": "Paul Gillett",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Spartacus_Sculpture,_Chichester_Theatre_-_geograph.org.uk_-_3615492.jpg",
-    "file": "File:Spartacus Sculpture, Chichester Theatre - geograph.org.uk - 3615492.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Anna_Podlesnaya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/chichester-festival-theatre/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Anna Podlesnaya poses for photographs at the stage door of the Chichester Festival Theatre",
-    "credit": "Scillystuff  at  English Wikipedia",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Anna_Podlesnaya.jpg",
-    "file": "File:Anna Podlesnaya.jpg"
    }
   ],
   "has": [],
@@ -254045,7 +251072,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eden-court-theatre",
-  "n": 2725,
+  "n": 2713,
   "name": "Eden Court Theatre",
   "by": "Law Dunbar Naismith; Page\\Park Architects (2007)",
   "place": "Inverness, GB",
@@ -254145,7 +251172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "broadcasting-house-london",
-  "n": 2726,
+  "n": 2714,
   "name": "Broadcasting House",
   "by": "George Val Myer and Raymond McGrath",
   "place": "London, GB",
@@ -254226,18 +251253,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Main_Newsroom,_BBC_Broadcasting_House,_London.png",
     "file": "File:Main Newsroom, BBC Broadcasting House, London.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BBC_Speakerthon_13.JPG/1280px-BBC_Speakerthon_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/broadcasting-house-london/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · BBC Speakerthon, Broadcasting House, London, 18 Jan 2014",
-    "credit": "Edwardx",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:BBC_Speakerthon_13.JPG",
-    "file": "File:BBC Speakerthon 13.JPG"
    }
   ],
   "has": [],
@@ -254245,7 +251260,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gorilla-house-london-zoo",
-  "n": 2727,
+  "n": 2715,
   "name": "Gorilla House, London Zoo",
   "by": "Berthold Lubetkin (Tecton)",
   "place": "London, GB",
@@ -254297,7 +251312,7 @@ window.BUILDINGS = [
  },
  {
   "id": "spa-green-estate",
-  "n": 2728,
+  "n": 2716,
   "name": "Spa Green Estate",
   "by": "Berthold Lubetkin (Tecton / Skinner, Bailey & Lubetkin)",
   "place": "London, GB",
@@ -254319,18 +251334,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Lubetkin_Spa_Green_from_park.jpg/1280px-Lubetkin_Spa_Green_from_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/spa-green-estate/thumbs/0.webp",
-    "w": 1280,
-    "h": 875,
-    "kind": "Exterior",
-    "caption": "Exterior · Spa Green park, with war memorial, flanks the approach to Spa Green Estate",
-    "credit": "Grantham9",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lubetkin_Spa_Green_from_park.jpg",
-    "file": "File:Lubetkin Spa Green from park.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Spa_Green_Estate_%283318038673%29.jpg/1280px-Spa_Green_Estate_%283318038673%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/spa-green-estate/thumbs/1.webp",
@@ -254411,7 +251414,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cambridge-university-library",
-  "n": 2729,
+  "n": 2717,
   "name": "Cambridge University Library",
   "by": "Giles Gilbert Scott",
   "place": "Cambridge, GB",
@@ -254458,18 +251461,6 @@ window.BUILDINGS = [
     "file": "File:CamUniLibrary.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Cambridge_-_Cambridge_University_Library_-_1326.jpg/1280px-Cambridge_-_Cambridge_University_Library_-_1326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cambridge-university-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · University of Cambridge Library",
-    "credit": "Jorge Royan",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cambridge_-_Cambridge_University_Library_-_1326.jpg",
-    "file": "File:Cambridge - Cambridge University Library - 1326.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Forbes_Mellon_Library.jpg/1280px-Forbes_Mellon_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cambridge-university-library/thumbs/3.webp",
     "w": 1280,
@@ -254480,30 +251471,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Forbes_Mellon_Library.jpg",
     "file": "File:Forbes Mellon Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Book_bollards_outside_Cambridge_University_Library_-_geograph.org.uk_-_4196933.jpg/1280px-Book_bollards_outside_Cambridge_University_Library_-_geograph.org.uk_-_4196933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cambridge-university-library/thumbs/4.webp",
-    "w": 1280,
-    "h": 956,
-    "kind": "Detail",
-    "caption": "Detail · Book bollards outside Cambridge University Library",
-    "credit": "Michael Behrend",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Book_bollards_outside_Cambridge_University_Library_-_geograph.org.uk_-_4196933.jpg",
-    "file": "File:Book bollards outside Cambridge University Library - geograph.org.uk - 4196933.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bronze_book_bollards_in_front_of_Cambridge_University_Library.jpg/1280px-Bronze_book_bollards_in_front_of_Cambridge_University_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cambridge-university-library/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · One of 14 bronze book bollards in front of Cambridge University Library, England (UK)",
-    "credit": "Vysotsky",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bronze_book_bollards_in_front_of_Cambridge_University_Library.jpg",
-    "file": "File:Bronze book bollards in front of Cambridge University Library.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Phone_box_planter%2C_University_Library%2C_Cambridge.jpg/1280px-Phone_box_planter%2C_University_Library%2C_Cambridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -254525,7 +251492,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tate-st-ives",
-  "n": 2730,
+  "n": 2718,
   "name": "Tate St Ives",
   "by": "Eldred Evans and David Shalev",
   "place": "St Ives, GB",
@@ -254572,18 +251539,6 @@ window.BUILDINGS = [
     "file": "File:Tate St Ives - geograph.org.uk - 5982311.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Tate_gallery_St-Ives.jpg/1280px-Tate_gallery_St-Ives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tate-st-ives/thumbs/2.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · The Tate Gallery at St-Ives",
-    "credit": "Ucred",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tate_gallery_St-Ives.jpg",
-    "file": "File:Tate gallery St-Ives.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tate_St_Ives_%286647%29.jpg/1280px-Tate_St_Ives_%286647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tate-st-ives/thumbs/3.webp",
     "w": 1280,
@@ -254596,16 +251551,16 @@ window.BUILDINGS = [
     "file": "File:Tate St Ives (6647).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Back_of_Tate_St_Ives.jpg/1280px-Back_of_Tate_St_Ives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tate-st-ives/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Tate_gallery_St-Ives.jpg/1280px-Tate_gallery_St-Ives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tate-st-ives/thumbs/2.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Back of Tate St Ives, St Ives, Cornwall",
-    "credit": "Gazamp",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Back_of_Tate_St_Ives.jpg",
-    "file": "File:Back of Tate St Ives.jpg"
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · The Tate Gallery at St-Ives",
+    "credit": "Ucred",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tate_gallery_St-Ives.jpg",
+    "file": "File:Tate gallery St-Ives.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tate_St_Ives_staircase.jpg/1280px-Tate_St_Ives_staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -254625,7 +251580,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baltic-centre-for-contemporary-art",
-  "n": 2731,
+  "n": 2719,
   "name": "Baltic Centre for Contemporary Art",
   "by": "Dominic Williams (Ellis Williams Architects)",
   "place": "Gateshead, GB",
@@ -254706,18 +251661,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stairwell_at_Baltic_Arts_Centre_(geograph_3635134).jpg",
     "file": "File:Stairwell at Baltic Arts Centre (geograph 3635134).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Baltic_Closeup%2C_Gateshead_%28geograph_1792866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/baltic-centre-for-contemporary-art/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Baltic Closeup, Gateshead",
-    "credit": "Paul Buckingham",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Baltic_Closeup,_Gateshead_(geograph_1792866).jpg",
-    "file": "File:Baltic Closeup, Gateshead (geograph 1792866).jpg"
    }
   ],
   "has": [],
@@ -254725,7 +251668,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manchester-central-library",
-  "n": 2732,
+  "n": 2720,
   "name": "Manchester Central Library",
   "by": "E. Vincent Harris",
   "place": "Manchester, GB",
@@ -254825,7 +251768,7 @@ window.BUILDINGS = [
  },
  {
   "id": "radcliffe-camera",
-  "n": 2733,
+  "n": 2721,
   "name": "Radcliffe Camera",
   "by": "James Gibbs",
   "place": "Oxford, GB",
@@ -254896,18 +251839,6 @@ window.BUILDINGS = [
     "file": "File:Radcliffe Camera Oxford 2018 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bodleian_Old_Library_and_Radcliffe_Camera_dome_from_the_Upper_Reading_Room%2C_Bodleian_Library.jpg/1280px-Bodleian_Old_Library_and_Radcliffe_Camera_dome_from_the_Upper_Reading_Room%2C_Bodleian_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/radcliffe-camera/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Locolates",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bodleian_Old_Library_and_Radcliffe_Camera_dome_from_the_Upper_Reading_Room,_Bodleian_Library.jpg",
-    "file": "File:Bodleian Old Library and Radcliffe Camera dome from the Upper Reading Room, Bodleian Library.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Upper_Camera_reading_room%2C_Radcliffe_Camera%2C_Oxford%2C_October_2022_%281%29.jpg/1280px-Upper_Camera_reading_room%2C_Radcliffe_Camera%2C_Oxford%2C_October_2022_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/radcliffe-camera/thumbs/5.webp",
     "w": 1050,
@@ -254939,7 +251870,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-tower",
-  "n": 2734,
+  "n": 2722,
   "name": "Glasgow Tower",
   "by": "Richard Horden; BDP",
   "place": "Glasgow, GB",
@@ -254961,18 +251892,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Glasgow_Tower_-_Flickr_-_Ian_D.jpg/1280px-Glasgow_Tower_-_Flickr_-_Ian_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-tower/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Foggy day in Glasgow",
-    "credit": "Ian Dick  from Glasgow, UK",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Glasgow_Tower_-_Flickr_-_Ian_D.jpg",
-    "file": "File:Glasgow Tower - Flickr - Ian D.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Glasgow_Tower_by_Chris_Collins.jpg/1280px-Glasgow_Tower_by_Chris_Collins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/glasgow-tower/thumbs/1.webp",
@@ -255039,7 +251958,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-alberts-chaplaincy-edinburgh",
-  "n": 2735,
+  "n": 2723,
   "name": "St Albert's Catholic Chaplaincy",
   "by": "Stuart Allan (Simpson & Brown)",
   "place": "Edinburgh, GB",
@@ -255139,7 +252058,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cyncoed-methodist-church",
-  "n": 2736,
+  "n": 2724,
   "name": "Cyncoed Methodist Church",
   "by": "Alex Gordon",
   "place": "Cardiff, GB",
@@ -255203,7 +252122,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-waterfront-museum",
-  "n": 2737,
+  "n": 2725,
   "name": "National Waterfront Museum",
   "by": "Wilkinson Eyre",
   "place": "Swansea, GB",
@@ -255226,18 +252145,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/National_Waterfront_Museum.jpg/1280px-National_Waterfront_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-waterfront-museum/thumbs/0.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · National Waterfront Museum in Swansea",
-    "credit": "Tiia Monto",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Waterfront_Museum.jpg",
-    "file": "File:National Waterfront Museum.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/-SeneddSwansea_%2822089766394%29.jpg/1280px--SeneddSwansea_%2822089766394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-waterfront-museum/thumbs/1.webp",
     "w": 1280,
@@ -255248,18 +252155,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:-SeneddSwansea_(22089766394).jpg",
     "file": "File:-SeneddSwansea (22089766394).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Canning_1954.jpg/1280px-Canning_1954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-waterfront-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The Canning boat (built in 1954) in National Waterfront Museum in Swansea",
-    "credit": "Tiia Monto",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Canning_1954.jpg",
-    "file": "File:Canning 1954.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/NWM_20190924_134139_%2848787753947%29.jpg/1280px-NWM_20190924_134139_%2848787753947%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -255303,7 +252198,7 @@ window.BUILDINGS = [
  },
  {
   "id": "titanic-belfast",
-  "n": 2738,
+  "n": 2726,
   "name": "Titanic Belfast",
   "by": "Eric Kuhne (CivicArts); Todd Architects",
   "place": "Belfast, GB",
@@ -255326,18 +252221,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Belfast_Titanic_Museum_19-11-2023_13-02-52.jpg/1280px-Belfast_Titanic_Museum_19-11-2023_13-02-52.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/titanic-belfast/thumbs/0.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Belfast Titanic Museum 19-11-2023 13-02-52",
-    "credit": "Paul Hermans",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Belfast_Titanic_Museum_19-11-2023_13-02-52.jpg",
-    "file": "File:Belfast Titanic Museum 19-11-2023 13-02-52.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Belfast_-_Titanic_Quarter_-_Titanic_Belfast_-_geograph.org.uk_-_3699388.jpg/1280px-Belfast_-_Titanic_Quarter_-_Titanic_Belfast_-_geograph.org.uk_-_3699388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/titanic-belfast/thumbs/1.webp",
     "w": 1280,
@@ -255348,30 +252231,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Belfast_-_Titanic_Quarter_-_Titanic_Belfast_-_geograph.org.uk_-_3699388.jpg",
     "file": "File:Belfast - Titanic Quarter - Titanic Belfast - geograph.org.uk - 3699388.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Belfast_Titanic_Museum_19-11-2023_13-32-29.jpg/1280px-Belfast_Titanic_Museum_19-11-2023_13-32-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/titanic-belfast/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Belfast Titanic Museum 19-11-2023 13-32-29",
-    "credit": "Paul Hermans",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Belfast_Titanic_Museum_19-11-2023_13-32-29.jpg",
-    "file": "File:Belfast Titanic Museum 19-11-2023 13-32-29.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Exteriors-Titanic-Hotel-Belfast_%2823924037268%29.jpg/1280px-Exteriors-Titanic-Hotel-Belfast_%2823924037268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/titanic-belfast/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Image credit Gareth O'Cathain",
-    "credit": "Titanic Belfast",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exteriors-Titanic-Hotel-Belfast_(23924037268).jpg",
-    "file": "File:Exteriors-Titanic-Hotel-Belfast (23924037268).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Bedroom-Titanic-Hotel-Belfast-Titanic-view_%2833737308865%29.jpg/1280px-Bedroom-Titanic-Hotel-Belfast-Titanic-view_%2833737308865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -255403,7 +252262,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bord-gais-energy-theatre",
-  "n": 2739,
+  "n": 2727,
   "name": "Bord Gais Energy Theatre",
   "by": "Daniel Libeskind",
   "place": "Dublin, IE",
@@ -255450,30 +252309,6 @@ window.BUILDINGS = [
     "file": "File:Bord Gáis Energy Theatre, Dublin.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bord_G%C3%A1is_Energy_Theatre_%288225076312%29.jpg/1280px-Bord_G%C3%A1is_Energy_Theatre_%288225076312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bord-gais-energy-theatre/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Bord Gáis Energy Theatre in Dublin at night",
-    "credit": "Miguel Mendez  from Malahide, Ireland",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bord_G%C3%A1is_Energy_Theatre_(8225076312).jpg",
-    "file": "File:Bord Gáis Energy Theatre (8225076312).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Gerry_Ryan_2010.jpg/1280px-Gerry_Ryan_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bord-gais-energy-theatre/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · w:Gerry Ryan (left) at the opening of the w:Grand Canal Theatre in March 2010",
-    "credit": "William Murphy",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gerry_Ryan_2010.jpg",
-    "file": "File:Gerry Ryan 2010.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Marker_Hotel.jpg/1280px-Marker_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bord-gais-energy-theatre/thumbs/4.webp",
     "w": 1280,
@@ -255496,6 +252331,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Bord_Gais_Theatre_TEDxDublin.jpg",
     "file": "File:Bord Gais Theatre TEDxDublin.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bord_G%C3%A1is_Energy_Theatre_%288225076312%29.jpg/1280px-Bord_G%C3%A1is_Energy_Theatre_%288225076312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bord-gais-energy-theatre/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Bord Gáis Energy Theatre in Dublin at night",
+    "credit": "Miguel Mendez  from Malahide, Ireland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bord_G%C3%A1is_Energy_Theatre_(8225076312).jpg",
+    "file": "File:Bord Gáis Energy Theatre (8225076312).jpg"
    }
   ],
   "has": [],
@@ -255503,7 +252350,7 @@ window.BUILDINGS = [
  },
  {
   "id": "four-courts-dublin",
-  "n": 2740,
+  "n": 2728,
   "name": "Four Courts",
   "by": "Thomas Cooley; James Gandon",
   "place": "Dublin, IE",
@@ -255574,30 +252421,6 @@ window.BUILDINGS = [
     "file": "File:Four Courts (41365826684).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Great_War_Plaque%2C_Four_Courts_Dublin.jpg/1280px-Great_War_Plaque%2C_Four_Courts_Dublin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/four-courts-dublin/thumbs/4.webp",
-    "w": 1163,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Osioni",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Great_War_Plaque,_Four_Courts_Dublin.jpg",
-    "file": "File:Great War Plaque, Four Courts Dublin.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Four_Courts_Moses.jpg/1280px-Four_Courts_Moses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/four-courts-dublin/thumbs/5.webp",
-    "w": 1163,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Sculpture of Moses at the [Four Courts]], Dublin by Edward_Smyth_(sculptor)",
-    "credit": "FrankFlanagan",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Four_Courts_Moses.jpg",
-    "file": "File:Four Courts Moses.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/DV405_no.195_The_four_courts%2C_Dublin.png/1280px-DV405_no.195_The_four_courts%2C_Dublin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/four-courts-dublin/thumbs/6.webp",
     "w": 1280,
@@ -255617,7 +252440,7 @@ window.BUILDINGS = [
  },
  {
   "id": "galway-cathedral",
-  "n": 2741,
+  "n": 2729,
   "name": "Galway Cathedral",
   "by": "John J. Robinson",
   "place": "Galway, IE",
@@ -255731,7 +252554,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-st-aengus-burt",
-  "n": 2742,
+  "n": 2730,
   "name": "Church of St Aengus, Burt",
   "by": "Liam McCormick",
   "place": "Burt, IE",
@@ -255788,18 +252611,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:St_Aegus_Chapel_-_panoramio.jpg",
     "file": "File:St Aegus Chapel - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/St_Aegus_Chapel_-_panoramio_%281%29.jpg/1280px-St_Aegus_Chapel_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/church-of-st-aengus-burt/thumbs/3.webp",
-    "w": 1280,
-    "h": 891,
-    "kind": "Exterior",
-    "caption": "Exterior · St Aegus Chapel",
-    "credit": "dan kearney",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:St_Aegus_Chapel_-_panoramio_(1).jpg",
-    "file": "File:St Aegus Chapel - panoramio (1).jpg"
    }
   ],
   "has": [],
@@ -255807,7 +252618,7 @@ window.BUILDINGS = [
  },
  {
   "id": "churchill-college-cambridge",
-  "n": 2743,
+  "n": 2731,
   "name": "Churchill College",
   "by": "Richard Sheppard, Robson & Partners",
   "place": "Cambridge, GB",
@@ -255888,18 +252699,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wolfson_Hall,_Bracken_Library_And_Bevin_Rooms_Churchill_College.jpg",
     "file": "File:Wolfson Hall, Bracken Library And Bevin Rooms Churchill College.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Churchill_College%2C_Cambridge_university.jpg/1280px-Churchill_College%2C_Cambridge_university.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/churchill-college-cambridge/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Churchill College, University of Cambridge, England (UK)",
-    "credit": "Vysotsky",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Churchill_College,_Cambridge_university.jpg",
-    "file": "File:Churchill College, Cambridge university.jpg"
    }
   ],
   "has": [],
@@ -255907,7 +252706,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lillington-gardens",
-  "n": 2744,
+  "n": 2732,
   "name": "Lillington Gardens",
   "by": "Darbourne & Darke (Roger Westman, John Darbourne, Geoffrey Darke)",
   "place": "London, GB",
@@ -255942,18 +252741,6 @@ window.BUILDINGS = [
     "file": "File:Goodyer House, Lillington Gardens, Moreton Street, Pimlico, October 2022.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thorndike_House%2C_Lillington_Gardens%2C_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022_02.jpg/1280px-Thorndike_House%2C_Lillington_Gardens%2C_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lillington-gardens/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "No Swan So Fine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Thorndike_House,_Lillington_Gardens,_Vauxhall_Bridge_Road,_Pimlico,_October_2022_02.jpg",
-    "file": "File:Thorndike House, Lillington Gardens, Vauxhall Bridge Road, Pimlico, October 2022 02.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Charlwood_House%2C_Westminster.jpg/1280px-Charlwood_House%2C_Westminster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/lillington-gardens/thumbs/2.webp",
     "w": 1280,
@@ -255964,6 +252751,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Charlwood_House,_Westminster.jpg",
     "file": "File:Charlwood House, Westminster.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thorndike_House%2C_Lillington_Gardens%2C_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022_02.jpg/1280px-Thorndike_House%2C_Lillington_Gardens%2C_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lillington-gardens/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "No Swan So Fine",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thorndike_House,_Lillington_Gardens,_Vauxhall_Bridge_Road,_Pimlico,_October_2022_02.jpg",
+    "file": "File:Thorndike House, Lillington Gardens, Vauxhall Bridge Road, Pimlico, October 2022 02.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Henry_Wise_House%2C_Lillington_Gardens%2C_53_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022.jpg/1280px-Henry_Wise_House%2C_Lillington_Gardens%2C_53_Vauxhall_Bridge_Road%2C_Pimlico%2C_October_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -256007,7 +252806,7 @@ window.BUILDINGS = [
  },
  {
   "id": "daily-express-building-london",
-  "n": 2745,
+  "n": 2733,
   "name": "Daily Express Building",
   "by": "Ellis & Clarke (structure by Owen Williams)",
   "place": "London, GB",
@@ -256107,7 +252906,7 @@ window.BUILDINGS = [
  },
  {
   "id": "heathrow-terminal-5",
-  "n": 2746,
+  "n": 2734,
   "name": "Heathrow Terminal 5",
   "by": "Richard Rogers Partnership",
   "place": "London, GB",
@@ -256130,18 +252929,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/A_glimpse_of_Terminal_5%2C_Heathrow%2C_Sept._2010_-_Flickr_-_PhillipC.jpg/1280px-A_glimpse_of_Terminal_5%2C_Heathrow%2C_Sept._2010_-_Flickr_-_PhillipC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heathrow-terminal-5/thumbs/0.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Context",
-    "caption": "Context · Departing for Glasgow on a BMI A320",
-    "credit": "Phillip Capper  from Wellington, New Zealand",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_glimpse_of_Terminal_5,_Heathrow,_Sept._2010_-_Flickr_-_PhillipC.jpg",
-    "file": "File:A glimpse of Terminal 5, Heathrow, Sept. 2010 - Flickr - PhillipC.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/BA_Terminal_Heathrow_%286212176972%29.jpg/1280px-BA_Terminal_Heathrow_%286212176972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/heathrow-terminal-5/thumbs/1.webp",
     "w": 1280,
@@ -256152,18 +252939,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:BA_Terminal_Heathrow_(6212176972).jpg",
     "file": "File:BA Terminal Heathrow (6212176972).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/British_Airways_jet_at_London_Heathrow_Terminal_5.jpg/1280px-British_Airways_jet_at_London_Heathrow_Terminal_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heathrow-terminal-5/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · In London, United Kingdom",
-    "credit": "chris.rycroft",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:British_Airways_jet_at_London_Heathrow_Terminal_5.jpg",
-    "file": "File:British Airways jet at London Heathrow Terminal 5.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Heathrow_Airport_T5_during_the_coronavirus_outbreak_-_geograph.org.uk_-_6458272.jpg/1280px-Heathrow_Airport_T5_during_the_coronavirus_outbreak_-_geograph.org.uk_-_6458272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -256207,7 +252982,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sun-house-frognal",
-  "n": 2747,
+  "n": 2735,
   "name": "Sun House",
   "by": "Maxwell Fry",
   "place": "London, GB",
@@ -256307,7 +253082,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cranbrook-estate-london",
-  "n": 2748,
+  "n": 2736,
   "name": "Cranbrook Estate",
   "by": "Berthold Lubetkin (with Francis Skinner, Douglas Bailey)",
   "place": "London, GB",
@@ -256329,30 +253104,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cranbrook_Estate_01.jpg/1280px-Cranbrook_Estate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cranbrook-estate-london/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "LoopZilla",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cranbrook_Estate_01.jpg",
-    "file": "File:Cranbrook Estate 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Cranbrook_Estate_06.jpg/1280px-Cranbrook_Estate_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cranbrook-estate-london/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "LoopZilla",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cranbrook_Estate_06.jpg",
-    "file": "File:Cranbrook Estate 06.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cranbrook_Estate_London_E2.jpg/1280px-Cranbrook_Estate_London_E2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cranbrook-estate-london/thumbs/2.webp",
@@ -256383,7 +253134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "said-business-school",
-  "n": 2749,
+  "n": 2737,
   "name": "Saïd Business School",
   "by": "Edward Jones and Jeremy Dixon",
   "place": "Oxford, GB",
@@ -256464,18 +253215,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Classroom_in_Oxford.jpg",
     "file": "File:Classroom in Oxford.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sculpture_-_Sa%C3%AFd_Business_School_-_geograph.org.uk_-_8239084.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/said-business-school/thumbs/5.webp",
-    "w": 935,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Sculpture - Saïd Business School",
-    "credit": "Philip Halling",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sculpture_-_Sa%C3%AFd_Business_School_-_geograph.org.uk_-_8239084.jpg",
-    "file": "File:Sculpture - Saïd Business School - geograph.org.uk - 8239084.jpg"
    }
   ],
   "has": [],
@@ -256483,7 +253222,7 @@ window.BUILDINGS = [
  },
  {
   "id": "weston-library-oxford",
-  "n": 2750,
+  "n": 2738,
   "name": "Weston Library",
   "by": "Giles Gilbert Scott (1940); WilkinsonEyre (2015 interior)",
   "place": "Oxford, GB",
@@ -256516,18 +253255,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Weston_Library_Exterior_by_John_Cairns_20.3.15-27.jpg",
     "file": "File:Weston Library Exterior by John Cairns 20.3.15-27.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg/1280px-Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/weston-library-oxford/thumbs/1.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "John Cairns photography , work commissioned by the Bodleian Libraries",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg",
-    "file": "File:Weston Library exterior on Broad Street by John Cairns 6.7.15-121.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_Weston_Library%2C_Oxford_-_geograph.org.uk_-_3240048.jpg/1280px-The_Weston_Library%2C_Oxford_-_geograph.org.uk_-_3240048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -256576,6 +253303,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:1390596_II_NEW_BODLEIAN_LIBRARY_Oxford_20250617_0003.jpg",
     "file": "File:1390596 II NEW BODLEIAN LIBRARY Oxford 20250617 0003.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg/1280px-Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/weston-library-oxford/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "John Cairns photography , work commissioned by the Bodleian Libraries",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Weston_Library_exterior_on_Broad_Street_by_John_Cairns_6.7.15-121.jpg",
+    "file": "File:Weston Library exterior on Broad Street by John Cairns 6.7.15-121.jpg"
    }
   ],
   "has": [],
@@ -256583,7 +253322,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manchester-civil-justice-centre",
-  "n": 2751,
+  "n": 2739,
   "name": "Manchester Civil Justice Centre",
   "by": "Denton Corker Marshall",
   "place": "Manchester, GB",
@@ -256671,7 +253410,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-liver-building",
-  "n": 2752,
+  "n": 2740,
   "name": "Royal Liver Building",
   "by": "Walter Aubrey Thomas",
   "place": "Liverpool, GB",
@@ -256771,7 +253510,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-iron-bridge",
-  "n": 2753,
+  "n": 2741,
   "name": "The Iron Bridge",
   "by": "Thomas Farnolls Pritchard",
   "place": "Ironbridge, Shropshire, GB",
@@ -256842,18 +253581,6 @@ window.BUILDINGS = [
     "file": "File:Sunset at Ironbridge.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Iron_Bridge%2C_diorama%2C_Museum_of_the_Gorge%2C_Ironbridge.jpg/1280px-The_Iron_Bridge%2C_diorama%2C_Museum_of_the_Gorge%2C_Ironbridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/the-iron-bridge/thumbs/4.webp",
-    "w": 1280,
-    "h": 784,
-    "kind": "Interior",
-    "caption": "Interior · The Ironbridge Gorge diorama inside the Museum of the Gorge, Ironbridge",
-    "credit": "Andy Dingley",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Iron_Bridge,_diorama,_Museum_of_the_Gorge,_Ironbridge.jpg",
-    "file": "File:The Iron Bridge, diorama, Museum of the Gorge, Ironbridge.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Y_Pont_Haearn_a_bwthynnod_yn_Bower_Yard_Benthall.jpg/1280px-Y_Pont_Haearn_a_bwthynnod_yn_Bower_Yard_Benthall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/the-iron-bridge/thumbs/5.webp",
     "w": 1280,
@@ -256871,7 +253598,7 @@ window.BUILDINGS = [
  },
  {
   "id": "red-house-bexleyheath",
-  "n": 2754,
+  "n": 2742,
   "name": "Red House",
   "by": "Philip Webb and William Morris",
   "place": "London, GB",
@@ -256930,18 +253657,6 @@ window.BUILDINGS = [
     "file": "File:Red House home of William Morris.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1064203_II_RED_HOUSE%2C_RED_HOUSE_LANE%2C_interior%2C_first_floor_Bexley_London_20250612_0001.jpg/1280px-1064203_II_RED_HOUSE%2C_RED_HOUSE_LANE%2C_interior%2C_first_floor_Bexley_London_20250612_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/red-house-bexleyheath/thumbs/3.webp",
-    "w": 1280,
-    "h": 834,
-    "kind": "Interior",
-    "caption": "Interior · London: RED HOUSE, RED HOUSE LANE, interior, first floor Bexley",
-    "credit": "Tilman2007",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1064203_II_RED_HOUSE,_RED_HOUSE_LANE,_interior,_first_floor_Bexley_London_20250612_0001.jpg",
-    "file": "File:1064203 II RED HOUSE, RED HOUSE LANE, interior, first floor Bexley London 20250612 0001.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1064203_II_RED_HOUSE%2C_RED_HOUSE_LANE%2C_interior%2C_first_floor_Bexley_London_20250612_0002.jpg/1280px-1064203_II_RED_HOUSE%2C_RED_HOUSE_LANE%2C_interior%2C_first_floor_Bexley_London_20250612_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/red-house-bexleyheath/thumbs/4.webp",
     "w": 1280,
@@ -256998,7 +253713,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wollaton-hall",
-  "n": 2755,
+  "n": 2743,
   "name": "Wollaton Hall",
   "by": "Robert Smythson (attributed)",
   "place": "Nottingham, GB",
@@ -257114,7 +253829,7 @@ window.BUILDINGS = [
  },
  {
   "id": "our-dynamic-earth-edinburgh",
-  "n": 2756,
+  "n": 2744,
   "name": "Dynamic Earth",
   "by": "Michael Hopkins and Partners",
   "place": "Edinburgh, GB",
@@ -257136,30 +253851,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Centre_Our_Dynamic_Earth_%C3%89dimbourg_1.jpg/1280px-Centre_Our_Dynamic_Earth_%C3%89dimbourg_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/our-dynamic-earth-edinburgh/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Centre Our Dynamic Earth, Édimbourg",
-    "credit": "Chabe01",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Centre_Our_Dynamic_Earth_%C3%89dimbourg_1.jpg",
-    "file": "File:Centre Our Dynamic Earth Édimbourg 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Edinburgh_%2C_Dynamic_Earth_-_geograph.org.uk_-_4960196.jpg/1280px-Edinburgh_%2C_Dynamic_Earth_-_geograph.org.uk_-_4960196.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/our-dynamic-earth-edinburgh/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Edinburgh : Dynamic Earth",
-    "credit": "Lewis Clarke",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_,_Dynamic_Earth_-_geograph.org.uk_-_4960196.jpg",
-    "file": "File:Edinburgh , Dynamic Earth - geograph.org.uk - 4960196.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Dynamic_Earth_Centre_1_%284530928275%29.jpg/1280px-Dynamic_Earth_Centre_1_%284530928275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/our-dynamic-earth-edinburgh/thumbs/2.webp",
@@ -257183,18 +253874,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_,_Dynamic_Earth_-_geograph.org.uk_-_4960199.jpg",
     "file": "File:Edinburgh , Dynamic Earth - geograph.org.uk - 4960199.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Scottish_Parliament_and_Dynamic_Earth_%2823922538351%29.jpg/1280px-Scottish_Parliament_and_Dynamic_Earth_%2823922538351%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/our-dynamic-earth-edinburgh/thumbs/4.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Context",
-    "caption": "Context · seen from the Radical Road",
-    "credit": "marsupium photography",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_and_Dynamic_Earth_(23922538351).jpg",
-    "file": "File:Scottish Parliament and Dynamic Earth (23922538351).jpg"
    }
   ],
   "has": [],
@@ -257202,7 +253881,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-university-library",
-  "n": 2757,
+  "n": 2745,
   "name": "Glasgow University Library",
   "by": "William Whitfield",
   "place": "Glasgow, GB",
@@ -257271,40 +253950,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:GlasgowUniHunterian2017.jpg",
     "file": "File:GlasgowUniHunterian2017.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/GlasgowDhruvaMistry2017.jpg/1280px-GlasgowDhruvaMistry2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-university-library/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Diagram of an Object ",
-    "credit": "Vysotsky",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:GlasgowDhruvaMistry2017.jpg",
-    "file": "File:GlasgowDhruvaMistry2017.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MS_Hunter_252_f._70r_%28detail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/glasgow-university-library/thumbs/5.webp",
-    "w": 937,
-    "h": 945,
-    "kind": "Model",
-    "caption": "Model · Miniature illustrating tale 30 of the Cent Nouvelles nouvelles (Tale of the three friars)",
-    "credit": "Flemish? illuminator",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:MS_Hunter_252_f._70r_(detail).jpg",
-    "file": "File:MS Hunter 252 f. 70r (detail).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "queens-cross-church-glasgow",
-  "n": 2758,
+  "n": 2746,
   "name": "Queen's Cross Church",
   "by": "Charles Rennie Mackintosh",
   "place": "Glasgow, GB",
@@ -257404,7 +254057,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pierhead-building-cardiff",
-  "n": 2759,
+  "n": 2747,
   "name": "Pierhead Building",
   "by": "William Frame",
   "place": "Cardiff, GB",
@@ -257504,7 +254157,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ulster-museum-belfast",
-  "n": 2760,
+  "n": 2748,
   "name": "Ulster Museum",
   "by": "Francis Pym (extension); James Cumming Wynne (original, 1929)",
   "place": "Belfast, GB",
@@ -257551,18 +254204,6 @@ window.BUILDINGS = [
     "file": "File:Ulster Museum (44867686355).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ulster_Museum_In_Belfast_Photographed_By_Infomatique_-_panoramio.jpg/1280px-Ulster_Museum_In_Belfast_Photographed_By_Infomatique_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/ulster-museum-belfast/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Ulster Museum In Belfast Photographed By Infomatique",
-    "credit": "William Murphy",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ulster_Museum_In_Belfast_Photographed_By_Infomatique_-_panoramio.jpg",
-    "file": "File:Ulster Museum In Belfast Photographed By Infomatique - panoramio.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Atrium%2C_Ulster_Museum_-_geograph.org.uk_-_7826941.jpg/1280px-Atrium%2C_Ulster_Museum_-_geograph.org.uk_-_7826941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ulster-museum-belfast/thumbs/3.webp",
     "w": 1144,
@@ -257604,7 +254245,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casino-at-marino",
-  "n": 2761,
+  "n": 2749,
   "name": "Casino at Marino",
   "by": "William Chambers",
   "place": "Dublin, IE",
@@ -257663,18 +254304,6 @@ window.BUILDINGS = [
     "file": "File:Casino Marino Front.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Casino_Marino_dog%27s_gravestone.jpg/1280px-Casino_Marino_dog%27s_gravestone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casino-at-marino/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Casino Marino dog's gravestone",
-    "credit": "Sheila1988",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casino_Marino_dog%27s_gravestone.jpg",
-    "file": "File:Casino Marino dog's gravestone.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Designs_for_Two_Chimney-pieces_in_Lord_Viscount_Charlemont%27s_Casino_at_Marino%2C_Dublin_MET_DP805619.jpg/1280px-Designs_for_Two_Chimney-pieces_in_Lord_Viscount_Charlemont%27s_Casino_at_Marino%2C_Dublin_MET_DP805619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casino-at-marino/thumbs/4.webp",
     "w": 1008,
@@ -257685,40 +254314,14 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Designs_for_Two_Chimney-pieces_in_Lord_Viscount_Charlemont%27s_Casino_at_Marino,_Dublin_MET_DP805619.jpg",
     "file": "File:Designs for Two Chimney-pieces in Lord Viscount Charlemont's Casino at Marino, Dublin MET DP805619.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Casino_Marino_tour_guide.jpg/1280px-Casino_Marino_tour_guide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casino-at-marino/thumbs/5.webp",
-    "w": 934,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Casino Marino Demesne",
-    "credit": "Dawn.goto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casino_Marino_tour_guide.jpg",
-    "file": "File:Casino Marino tour guide.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Thomas_Leeson_Scrase_Rowbotham_-_The_Charlemont_Album%2C_An_Album_containing_12_drawings_of_Casino_at_Marino%2C_Dublin_-_B1977.14.294_-_Yale_Center_for_British_Art.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casino-at-marino/thumbs/6.webp",
-    "w": 1087,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Thomas Leeson Scrase Rowbotham",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Thomas_Leeson_Scrase_Rowbotham_-_The_Charlemont_Album,_An_Album_containing_12_drawings_of_Casino_at_Marino,_Dublin_-_B1977.14.294_-_Yale_Center_for_British_Art.jpg",
-    "file": "File:Thomas Leeson Scrase Rowbotham - The Charlemont Album, An Album containing 12 drawings of Casino at Marino, Dublin - B1977.14.294 - Yale Center for British Art.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "knock-basilica",
-  "n": 2762,
+  "n": 2750,
   "name": "Knock Basilica",
   "by": "Daithi Hanly (with Louis J Brennan, Brian Brennan)",
   "place": "Knock, IE",
@@ -257777,18 +254380,6 @@ window.BUILDINGS = [
     "file": "File:PM Photography and A&D Wejcherts Architects Knock Basilica Exterior.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Chapel_Of_Reconciliation_Candles_and_Mosaic.jpg/1280px-Chapel_Of_Reconciliation_Candles_and_Mosaic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/knock-basilica/thumbs/3.webp",
-    "w": 1280,
-    "h": 785,
-    "kind": "Exterior",
-    "caption": "Exterior · Mosaic in Chapel of Reconciliation, Knock Shrine",
-    "credit": "Michael McLaughlin Photography",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chapel_Of_Reconciliation_Candles_and_Mosaic.jpg",
-    "file": "File:Chapel Of Reconciliation Candles and Mosaic.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Basilica_of_Our_Lady%2C_Queen_of_Ireland_%28Interior%2901.jpg/1280px-Basilica_of_Our_Lady%2C_Queen_of_Ireland_%28Interior%2901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/knock-basilica/thumbs/4.webp",
     "w": 1280,
@@ -257799,18 +254390,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Our_Lady,_Queen_of_Ireland_(Interior)01.jpg",
     "file": "File:Basilica of Our Lady, Queen of Ireland (Interior)01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Basilica_of_Our_Lady%2C_Queen_of_Ireland_%28Interior%2902.jpg/1280px-Basilica_of_Our_Lady%2C_Queen_of_Ireland_%28Interior%2902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/knock-basilica/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "FredSeiller",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Our_Lady,_Queen_of_Ireland_(Interior)02.jpg",
-    "file": "File:Basilica of Our Lady, Queen of Ireland (Interior)02.jpg"
    }
   ],
   "has": [],
@@ -257818,7 +254397,7 @@ window.BUILDINGS = [
  },
  {
   "id": "liberty-hall-dublin",
-  "n": 2763,
+  "n": 2751,
   "name": "Liberty Hall",
   "by": "Desmond Rea O'Kelly",
   "place": "Dublin, IE",
@@ -257841,30 +254420,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Dublin_-_Liberty_Hall_-_20220728172601.jpg/1280px-Dublin_-_Liberty_Hall_-_20220728172601.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liberty-hall-dublin/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Dublin, Liberty Hall",
-    "credit": "Smirkybec",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dublin_-_Liberty_Hall_-_20220728172601.jpg",
-    "file": "File:Dublin - Liberty Hall - 20220728172601.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dublin_-_Liberty_Hall_-_20081213140315.jpg/1280px-Dublin_-_Liberty_Hall_-_20081213140315.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liberty-hall-dublin/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Dublin, Liberty Hall",
-    "credit": "KevForkan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dublin_-_Liberty_Hall_-_20081213140315.jpg",
-    "file": "File:Dublin - Liberty Hall - 20081213140315.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/LIBERTY_HALL_%28SIPTU_HEADQUARTERS%29-147013.jpg/1280px-LIBERTY_HALL_%28SIPTU_HEADQUARTERS%29-147013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/liberty-hall-dublin/thumbs/2.webp",
     "w": 1280,
@@ -257875,18 +254430,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:LIBERTY_HALL_(SIPTU_HEADQUARTERS)-147013.jpg",
     "file": "File:LIBERTY HALL (SIPTU HEADQUARTERS)-147013.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/EASTER_WEEKEND_IN_DUBLIN_%28LIBERTY_HALL_CELEBRATING_THE_100th._ANNIVERSARY_OF_THE_1916_EASTER_RISING%29-112703_%2826006137556%29.jpg/1280px-EASTER_WEEKEND_IN_DUBLIN_%28LIBERTY_HALL_CELEBRATING_THE_100th._ANNIVERSARY_OF_THE_1916_EASTER_RISING%29-112703_%2826006137556%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/liberty-hall-dublin/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · The tall building is Liberty Hall",
-    "credit": "William Murphy  from Dublin, Ireland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:EASTER_WEEKEND_IN_DUBLIN_(LIBERTY_HALL_CELEBRATING_THE_100th._ANNIVERSARY_OF_THE_1916_EASTER_RISING)-112703_(26006137556).jpg",
-    "file": "File:EASTER WEEKEND IN DUBLIN (LIBERTY HALL CELEBRATING THE 100th. ANNIVERSARY OF THE 1916 EASTER RISING)-112703 (26006137556).jpg"
    }
   ],
   "has": [],
@@ -257894,7 +254437,7 @@ window.BUILDINGS = [
  },
  {
   "id": "churchill-gardens-estate",
-  "n": 2764,
+  "n": 2752,
   "name": "Churchill Gardens Estate",
   "by": "Powell & Moya (Philip Powell, Hidalgo Moya)",
   "place": "London, GB",
@@ -257929,42 +254472,6 @@ window.BUILDINGS = [
     "file": "File:Churchill Gardens Estate, Pimlico 2025-05-03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg/1280px-2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/churchill-gardens-estate/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Churchill Gardens, Pimlico, London, Foto 2008",
-    "credit": "Gunnar Klack",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg",
-    "file": "File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Control_panel_at_the_PDHU.jpg/1280px-Control_panel_at_the_PDHU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/churchill-gardens-estate/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Control panel at the Pimlico District Heating Undertaking",
-    "credit": "Tom Morris",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Control_panel_at_the_PDHU.jpg",
-    "file": "File:Control panel at the PDHU.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Heat_pipes_under_the_Thames_at_the_Pimlico_District_Heating_Undertaking_pump_house.jpg/1280px-Heat_pipes_under_the_Thames_at_the_Pimlico_District_Heating_Undertaking_pump_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/churchill-gardens-estate/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The Pimlico District Heating Undertaking is Britain's first district heating system",
-    "credit": "Tom Morris",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heat_pipes_under_the_Thames_at_the_Pimlico_District_Heating_Undertaking_pump_house.jpg",
-    "file": "File:Heat pipes under the Thames at the Pimlico District Heating Undertaking pump house.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Church_Hall_Annexe%2C_Churchill_Gardens%2C_Pimlico_-_geograph.org.uk_-_2235216.jpg/1280px-Church_Hall_Annexe%2C_Churchill_Gardens%2C_Pimlico_-_geograph.org.uk_-_2235216.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/churchill-gardens-estate/thumbs/4.webp",
     "w": 1280,
@@ -257975,6 +254482,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Church_Hall_Annexe,_Churchill_Gardens,_Pimlico_-_geograph.org.uk_-_2235216.jpg",
     "file": "File:Church Hall Annexe, Churchill Gardens, Pimlico - geograph.org.uk - 2235216.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg/1280px-2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/churchill-gardens-estate/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Churchill Gardens, Pimlico, London, Foto 2008",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg",
+    "file": "File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg"
    }
   ],
   "has": [],
@@ -257982,7 +254501,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dawsons-heights",
-  "n": 2765,
+  "n": 2753,
   "name": "Dawson's Heights",
   "by": "Kate Macintosh",
   "place": "London, GB",
@@ -258029,18 +254548,6 @@ window.BUILDINGS = [
     "file": "File:Dawsons-Heights-East-Dulwich-South-London-2008.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg/1280px-Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dawsons-heights/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Dawson's Heights seen from Dawson's Hill",
-    "credit": "Marathon",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg",
-    "file": "File:Dawson's Heights seen from Dawson's Hill - geograph.org.uk - 5407257.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Dawsons_Heights_1973_viewed_from_Overhill_Rd._Photographer_Robert_Kirkman_FSAI_02.jpg/1280px-Dawsons_Heights_1973_viewed_from_Overhill_Rd._Photographer_Robert_Kirkman_FSAI_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/dawsons-heights/thumbs/3.webp",
     "w": 1280,
@@ -258065,16 +254572,16 @@ window.BUILDINGS = [
     "file": "File:Dawsons Heights 1973 viewed from Overhill Rd. Photographer Robert Kirkman FSAI 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tower_Block_UK_photo_l39-05.jpg/1280px-Tower_Block_UK_photo_l39-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/dawsons-heights/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg/1280px-Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dawsons-heights/thumbs/2.webp",
     "w": 1280,
-    "h": 867,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Miles Glendinning",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tower_Block_UK_photo_l39-05.jpg",
-    "file": "File:Tower Block UK photo l39-05.jpg"
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Dawson's Heights seen from Dawson's Hill",
+    "credit": "Marathon",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dawson%27s_Heights_seen_from_Dawson%27s_Hill_-_geograph.org.uk_-_5407257.jpg",
+    "file": "File:Dawson's Heights seen from Dawson's Hill - geograph.org.uk - 5407257.jpg"
    }
   ],
   "has": [],
@@ -258082,7 +254589,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lys-kernow",
-  "n": 2766,
+  "n": 2754,
   "name": "Lys Kernow (New County Hall)",
   "by": "Francis Kenneth Hicklin and Alan Groves",
   "place": "Truro, GB",
@@ -258134,7 +254641,7 @@ window.BUILDINGS = [
  },
  {
   "id": "66-portland-place-riba",
-  "n": 2767,
+  "n": 2755,
   "name": "RIBA Headquarters (66 Portland Place)",
   "by": "George Grey Wornum",
   "place": "London, GB",
@@ -258234,7 +254741,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eltham-palace-courtauld-house",
-  "n": 2768,
+  "n": 2756,
   "name": "Eltham Palace (Courtauld house)",
   "by": "Seely & Paget",
   "place": "London, GB",
@@ -258281,18 +254788,6 @@ window.BUILDINGS = [
     "file": "File:Eltham Palace - London (4979958868).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1218900_I_WALLS_OF_INNER_COURTYARD_TO_ELTHAM_PALACE%2C_WITH_CHAMBERS_ADJOINING%2C_COURT_YARD%2C_E_side_Greenwich_London_20250610_0001.jpg/1280px-1218900_I_WALLS_OF_INNER_COURTYARD_TO_ELTHAM_PALACE%2C_WITH_CHAMBERS_ADJOINING%2C_COURT_YARD%2C_E_side_Greenwich_London_20250610_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eltham-palace-courtauld-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 836,
-    "kind": "Exterior",
-    "caption": "Exterior · London: WALLS OF INNER COURTYARD TO ELTHAM PALACE, WITH CHAMBERS ADJOINING, COURT YARD, E side Greenwich",
-    "credit": "Tilman2007",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1218900_I_WALLS_OF_INNER_COURTYARD_TO_ELTHAM_PALACE,_WITH_CHAMBERS_ADJOINING,_COURT_YARD,_E_side_Greenwich_London_20250610_0001.jpg",
-    "file": "File:1218900 I WALLS OF INNER COURTYARD TO ELTHAM PALACE, WITH CHAMBERS ADJOINING, COURT YARD, E side Greenwich London 20250610 0001.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Caf%C3%A9_on_the_lawn%2C_Eltham_Palace_-_geograph.org.uk_-_7751895.jpg/1280px-Caf%C3%A9_on_the_lawn%2C_Eltham_Palace_-_geograph.org.uk_-_7751895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/eltham-palace-courtauld-house/thumbs/3.webp",
     "w": 1280,
@@ -258303,18 +254798,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_on_the_lawn,_Eltham_Palace_-_geograph.org.uk_-_7751895.jpg",
     "file": "File:Café on the lawn, Eltham Palace - geograph.org.uk - 7751895.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/1212906_II_Star_ELTHAM_COURT_%28ELTHAM_PALACE%29%2C_COURT_YARD%2C_Basement_Greenwich_London_20250610_0001.jpg/1280px-1212906_II_Star_ELTHAM_COURT_%28ELTHAM_PALACE%29%2C_COURT_YARD%2C_Basement_Greenwich_London_20250610_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eltham-palace-courtauld-house/thumbs/4.webp",
-    "w": 1280,
-    "h": 834,
-    "kind": "Interior",
-    "caption": "Interior · London: ELTHAM COURT (ELTHAM PALACE), COURT YARD, Basement Greenwich",
-    "credit": "Tilman2007",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1212906_II_Star_ELTHAM_COURT_(ELTHAM_PALACE),_COURT_YARD,_Basement_Greenwich_London_20250610_0001.jpg",
-    "file": "File:1212906 II Star ELTHAM COURT (ELTHAM PALACE), COURT YARD, Basement Greenwich London 20250610 0001.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/1212906_II_Star_ELTHAM_COURT_%28ELTHAM_PALACE%29%2C_COURT_YARD%2C_Basement_Greenwich_London_20250610_0002.jpg/1280px-1212906_II_Star_ELTHAM_COURT_%28ELTHAM_PALACE%29%2C_COURT_YARD%2C_Basement_Greenwich_London_20250610_0002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -258348,7 +254831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hornsey-town-hall",
-  "n": 2769,
+  "n": 2757,
   "name": "Hornsey Town Hall",
   "by": "Reginald Uren",
   "place": "London, GB",
@@ -258424,7 +254907,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fitzwilliam-college-cambridge",
-  "n": 2770,
+  "n": 2758,
   "name": "Fitzwilliam College",
   "by": "Denys Lasdun",
   "place": "Cambridge, GB",
@@ -258459,18 +254942,6 @@ window.BUILDINGS = [
     "file": "File:Fitzwilliam College, Cambridge.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Fitzwilliam_College_2012.jpg/1280px-Fitzwilliam_College_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fitzwilliam-college-cambridge/thumbs/1.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "D.Anderson",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fitzwilliam_College_2012.jpg",
-    "file": "File:Fitzwilliam College 2012.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Chapel%2C_Fitzwilliam_College_Cambridge_%2826241327381%29.png/1280px-Chapel%2C_Fitzwilliam_College_Cambridge_%2826241327381%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/fitzwilliam-college-cambridge/thumbs/2.webp",
     "w": 1280,
@@ -258481,42 +254952,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chapel,_Fitzwilliam_College_Cambridge_(26241327381).png",
     "file": "File:Chapel, Fitzwilliam College Cambridge (26241327381).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Fitzwilliam_college_grove_summer.jpg/1280px-Fitzwilliam_college_grove_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fitzwilliam-college-cambridge/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Fitz grove, Cambridge",
-    "credit": "Chan1918",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fitzwilliam_college_grove_summer.jpg",
-    "file": "File:Fitzwilliam college grove summer.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/FitzwilliamNewCourt.jpg/1280px-FitzwilliamNewCourt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fitzwilliam-college-cambridge/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Fitzwilliam College New Court",
-    "credit": "Chan1918",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:FitzwilliamNewCourt.jpg",
-    "file": "File:FitzwilliamNewCourt.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/2002_1118_171120AA.jpg/1280px-2002_1118_171120AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fitzwilliam-college-cambridge/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "SS1981  at  English Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2002_1118_171120AA.jpg",
-    "file": "File:2002 1118 171120AA.jpg"
    }
   ],
   "has": [],
@@ -258524,7 +254959,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shell-centre-london",
-  "n": 2771,
+  "n": 2759,
   "name": "Shell Centre",
   "by": "Howard Robertson and Ralph Maynard Smith",
   "place": "London, GB",
@@ -258547,30 +254982,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/London_-_Jubilee_Gardens_-_Jubilee_Walkway_-_View_East_towards_Shell_Centre_1961_by_Sir_Howard_Robertson.jpg/1280px-London_-_Jubilee_Gardens_-_Jubilee_Walkway_-_View_East_towards_Shell_Centre_1961_by_Sir_Howard_Robertson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shell-centre-london/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson",
-    "credit": "Txllxt TxllxT",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:London_-_Jubilee_Gardens_-_Jubilee_Walkway_-_View_East_towards_Shell_Centre_1961_by_Sir_Howard_Robertson.jpg",
-    "file": "File:London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2017_Lambeth_-_Shell_Centre%2C_London.jpg/1280px-2017_Lambeth_-_Shell_Centre%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shell-centre-london/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Lambeth - Shell Centre, London",
-    "credit": "Jordiferrer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2017_Lambeth_-_Shell_Centre,_London.jpg",
-    "file": "File:2017 Lambeth - Shell Centre, London.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/226_-_Shell_Centre.jpg/1280px-226_-_Shell_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/shell-centre-london/thumbs/2.webp",
     "w": 1050,
@@ -258581,42 +254992,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:226_-_Shell_Centre.jpg",
     "file": "File:226 - Shell Centre.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Shell_centre_shells_Feb_23.jpg/1280px-Shell_centre_shells_Feb_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shell-centre-london/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Former shell centre",
-    "credit": "Secretlondon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Shell_centre_shells_Feb_23.jpg",
-    "file": "File:Shell centre shells Feb 23.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/London_-_South_Bank_-_Jubilee_Walkway_-_View_South_on_Royal_National_Theatre_1976_by_Sir_Denys_Lasdun_and_Peter_Softley.jpg/1280px-London_-_South_Bank_-_Jubilee_Walkway_-_View_South_on_Royal_National_Theatre_1976_by_Sir_Denys_Lasdun_and_Peter_Softley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shell-centre-london/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Txllxt TxllxT",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:London_-_South_Bank_-_Jubilee_Walkway_-_View_South_on_Royal_National_Theatre_1976_by_Sir_Denys_Lasdun_and_Peter_Softley.jpg",
-    "file": "File:London - South Bank - Jubilee Walkway - View South on Royal National Theatre 1976 by Sir Denys Lasdun and Peter Softley.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/06_2023_London_Eye_seen_from_the_West_IMG_7512.jpg/1280px-06_2023_London_Eye_seen_from_the_West_IMG_7512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shell-centre-london/thumbs/5.webp",
-    "w": 1280,
-    "h": 841,
-    "kind": "Interior",
-    "caption": "Interior · London Eye seen from the West in June 2023",
-    "credit": "Alexander-93",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:06_2023_London_Eye_seen_from_the_West_IMG_7512.jpg",
-    "file": "File:06 2023 London Eye seen from the West IMG 7512.jpg"
    }
   ],
   "has": [],
@@ -258624,7 +254999,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bridgewater-hall",
-  "n": 2772,
+  "n": 2760,
   "name": "Bridgewater Hall",
   "by": "RHWL",
   "place": "Manchester, GB",
@@ -258700,7 +255075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "newcastle-civic-centre",
-  "n": 2773,
+  "n": 2761,
   "name": "Newcastle Civic Centre",
   "by": "George Kenyon",
   "place": "Newcastle upon Tyne, GB",
@@ -258757,30 +255132,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Centre_civique_Newcastle_Tyne_14.jpg",
     "file": "File:Centre civique Newcastle Tyne 14.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/War_Memorial_and_the_Civic_Centre%2C_Newcastle_-_geograph.org.uk_-_3705594.jpg/1280px-War_Memorial_and_the_Civic_Centre%2C_Newcastle_-_geograph.org.uk_-_3705594.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/newcastle-civic-centre/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · War Memorial and the Civic Centre, Newcastle",
-    "credit": "Robert Graham",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:War_Memorial_and_the_Civic_Centre,_Newcastle_-_geograph.org.uk_-_3705594.jpg",
-    "file": "File:War Memorial and the Civic Centre, Newcastle - geograph.org.uk - 3705594.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/%27Swans_in_Flight%27%2C_Newcastle_Civic_Centre%2C_Haymarket%2C_Newcastle_Upon_Tyne_-_geograph.org.uk_-_8039901.jpg/1280px-%27Swans_in_Flight%27%2C_Newcastle_Civic_Centre%2C_Haymarket%2C_Newcastle_Upon_Tyne_-_geograph.org.uk_-_8039901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/newcastle-civic-centre/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · 'Swans in Flight', Newcastle Civic Centre, Haymarket, Newcastle Upon Tyne",
-    "credit": "Geoff Holland",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%27Swans_in_Flight%27,_Newcastle_Civic_Centre,_Haymarket,_Newcastle_Upon_Tyne_-_geograph.org.uk_-_8039901.jpg",
-    "file": "File:'Swans in Flight', Newcastle Civic Centre, Haymarket, Newcastle Upon Tyne - geograph.org.uk - 8039901.jpg"
    }
   ],
   "has": [],
@@ -258788,7 +255139,7 @@ window.BUILDINGS = [
  },
  {
   "id": "turner-contemporary",
-  "n": 2774,
+  "n": 2762,
   "name": "Turner Contemporary",
   "by": "David Chipperfield",
   "place": "Margate, GB",
@@ -258823,16 +255174,28 @@ window.BUILDINGS = [
     "file": "File:North side of Turner Contemporary gallery Margate Kent England.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg/1280px-Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turner-contemporary/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Turner_Contemporary_gallery.jpg/1280px-Turner_Contemporary_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/turner-contemporary/thumbs/3.webp",
+    "w": 1280,
+    "h": 827,
+    "kind": "Exterior",
+    "caption": "Exterior · The Turner Contemporary gallery in Margate, Kent",
+    "credit": "DeFacto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Turner_Contemporary_gallery.jpg",
+    "file": "File:Turner Contemporary gallery.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363458.jpg/1280px-The_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363458.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/turner-contemporary/thumbs/5.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Gareth Williams",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg",
-    "file": "File:Margate - The Turner Gallery Opening - Apr 2011.jpg"
+    "kind": "Exterior",
+    "caption": "Exterior · The Turner Contemporary, Margate",
+    "credit": "pam fray",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Turner_Contemporary,_Margate_-_geograph.org.uk_-_8363458.jpg",
+    "file": "File:The Turner Contemporary, Margate - geograph.org.uk - 8363458.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Turner_Contemporary_-_geograph.org.uk_-_2367301.jpg/1280px-The_Turner_Contemporary_-_geograph.org.uk_-_2367301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -258847,40 +255210,16 @@ window.BUILDINGS = [
     "file": "File:The Turner Contemporary - geograph.org.uk - 2367301.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Turner_Contemporary_gallery.jpg/1280px-Turner_Contemporary_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turner-contemporary/thumbs/3.webp",
-    "w": 1280,
-    "h": 827,
-    "kind": "Exterior",
-    "caption": "Exterior · The Turner Contemporary gallery in Margate, Kent",
-    "credit": "DeFacto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Turner_Contemporary_gallery.jpg",
-    "file": "File:Turner Contemporary gallery.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sunley_Gallery%2C_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363468.jpg/1280px-The_Sunley_Gallery%2C_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turner-contemporary/thumbs/4.webp",
-    "w": 1280,
-    "h": 939,
-    "kind": "Exterior",
-    "caption": "Exterior · The Sunley Gallery, Turner Contemporary, Margate",
-    "credit": "pam fray",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Sunley_Gallery,_Turner_Contemporary,_Margate_-_geograph.org.uk_-_8363468.jpg",
-    "file": "File:The Sunley Gallery, Turner Contemporary, Margate - geograph.org.uk - 8363468.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363458.jpg/1280px-The_Turner_Contemporary%2C_Margate_-_geograph.org.uk_-_8363458.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/turner-contemporary/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg/1280px-Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/turner-contemporary/thumbs/1.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Turner Contemporary, Margate",
-    "credit": "pam fray",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Turner_Contemporary,_Margate_-_geograph.org.uk_-_8363458.jpg",
-    "file": "File:The Turner Contemporary, Margate - geograph.org.uk - 8363458.jpg"
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Gareth Williams",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Margate_-_The_Turner_Gallery_Opening_-_Apr_2011.jpg",
+    "file": "File:Margate - The Turner Gallery Opening - Apr 2011.jpg"
    }
   ],
   "has": [],
@@ -258888,7 +255227,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chiswick-house",
-  "n": 2775,
+  "n": 2763,
   "name": "Chiswick House",
   "by": "Richard Boyle, 3rd Earl of Burlington",
   "place": "London, GB",
@@ -258933,30 +255272,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:1079607_I_CHISWICK_HOUSE_Hounslow_London_20250611_0003.jpg",
     "file": "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0003.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Across_the_bridge_%2824541226313%29.jpg/1280px-Across_the_bridge_%2824541226313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chiswick-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Chinese Lanterns display, celebrating Chinese New Year, at Chiswick House, London - Feb 2016",
-    "credit": "Winniepix",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Across_the_bridge_(24541226313).jpg",
-    "file": "File:Across the bridge (24541226313).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Peacock_displaying_%2825141725916%29.jpg/1280px-Peacock_displaying_%2825141725916%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chiswick-house/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Part of the Chinese Lanterns display, celebrating Chinese New Year, at Chiswick House, London - Feb 2016",
-    "credit": "Winniepix",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Peacock_displaying_(25141725916).jpg",
-    "file": "File:Peacock displaying (25141725916).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Chiswick_House_%2815135322338%29.jpg/1280px-Chiswick_House_%2815135322338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -259015,7 +255330,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palace-of-westminster",
-  "n": 2776,
+  "n": 2764,
   "name": "Palace of Westminster",
   "by": "Charles Barry and Augustus Pugin",
   "place": "London, GB",
@@ -259084,65 +255399,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg",
     "file": "File:At London 2025 566 - Westminster Bridge with Palace of Westminster .jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Commons_Procession_to_Lords_%28State_Opening_of_Parliament_2023%29.jpg/1280px-Commons_Procession_to_Lords_%28State_Opening_of_Parliament_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Houses of the Oireachtas",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Commons_Procession_to_Lords_(State_Opening_of_Parliament_2023).jpg",
-    "file": "File:Commons Procession to Lords (State Opening of Parliament 2023).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Jerry_Buttimer_with_Lord_Speaker_%281%29.jpg/1280px-Jerry_Buttimer_with_Lord_Speaker_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/5.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Houses of the Oireachtas",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jerry_Buttimer_with_Lord_Speaker_(1).jpg",
-    "file": "File:Jerry Buttimer with Lord Speaker (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/A_Mapp_of_the_Parish_of_St_Margarets_Westminster_taken_from_the_last_Survey_with_Corrections_%28BM_Heal%2CTopography.203%29.jpg/1280px-A_Mapp_of_the_Parish_of_St_Margarets_Westminster_taken_from_the_last_Survey_with_Corrections_%28BM_Heal%2CTopography.203%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/6.webp",
-    "w": 1280,
-    "h": 1095,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "https://www.britishmuseum.org/collection/object/P_Heal-Topography-203",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:A_Mapp_of_the_Parish_of_St_Margarets_Westminster_taken_from_the_last_Survey_with_Corrections_(BM_Heal,Topography.203).jpg",
-    "file": "File:A Mapp of the Parish of St Margarets Westminster taken from the last Survey with Corrections (BM Heal,Topography.203).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Amgueddfa_Cymru_-_Braslun_ar_gyfer_mosaig_Dewi_Sant_-_Sketch_for_the_St._David_mosaic_-_137895.jpeg/1280px-Amgueddfa_Cymru_-_Braslun_ar_gyfer_mosaig_Dewi_Sant_-_Sketch_for_the_St._David_mosaic_-_137895.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/7.webp",
-    "w": 974,
-    "h": 1400,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Edward Poynter",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Braslun_ar_gyfer_mosaig_Dewi_Sant_-_Sketch_for_the_St._David_mosaic_-_137895.jpeg",
-    "file": "File:Amgueddfa Cymru - Braslun ar gyfer mosaig Dewi Sant - Sketch for the St. David mosaic - 137895.jpeg"
    }
   ],
-  "has": [
-   "Plan",
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "royal-crescent-bath",
-  "n": 2777,
+  "n": 2765,
   "name": "Royal Crescent",
   "by": "John Wood the Younger",
   "place": "Bath, GB",
@@ -259256,7 +255520,7 @@ window.BUILDINGS = [
  },
  {
   "id": "london-stadium",
-  "n": 2778,
+  "n": 2766,
   "name": "London Stadium",
   "by": "Populous",
   "place": "London, GB",
@@ -259337,40 +255601,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:London_Stadium_panorama_picture.jpg",
     "file": "File:London Stadium panorama picture.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Football_sculpture_at_Olympic_Stadium_08112025_%281%29.jpg/1280px-Football_sculpture_at_Olympic_Stadium_08112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/london-stadium/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Football sculpture at Olympic Stadium",
-    "credit": "Timmy96",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Football_sculpture_at_Olympic_Stadium_08112025_(1).jpg",
-    "file": "File:Football sculpture at Olympic Stadium 08112025 (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hurst_model_shirt.jpg/1280px-Hurst_model_shirt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/london-stadium/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · A large model shirt bearing Hurst's name hanging at The Olympic Stadium, London",
-    "credit": "Egghead06",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hurst_model_shirt.jpg",
-    "file": "File:Hurst model shirt.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "falkirk-wheel",
-  "n": 2779,
+  "n": 2767,
   "name": "Falkirk Wheel",
   "by": "Tony Kettle (RMJM)",
   "place": "Falkirk, GB",
@@ -259429,30 +255667,6 @@ window.BUILDINGS = [
     "file": "File:2018 07 07 Schottland (42).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Falkirk_wheel_-_en_amont.jpg/1280px-Falkirk_wheel_-_en_amont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/falkirk-wheel/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · View of the upper side of Falkirk wheel , in Scotland",
-    "credit": "Eusebius",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Falkirk_wheel_-_en_amont.jpg",
-    "file": "File:Falkirk wheel - en amont.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/InsideFalkirkWheel.jpeg/1280px-InsideFalkirkWheel.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/falkirk-wheel/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · A picture from inside the Falkirk Wheel",
-    "credit": "MatthewJS",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:InsideFalkirkWheel.jpeg",
-    "file": "File:InsideFalkirkWheel.jpeg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/ViewFromInsideFalkirkWheel.jpeg/1280px-ViewFromInsideFalkirkWheel.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/falkirk-wheel/thumbs/5.webp",
     "w": 1280,
@@ -259475,29 +255689,16 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Falkirk_Wheel_upper_section_2015-08-18.jpg",
     "file": "File:Falkirk Wheel upper section 2015-08-18.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Falkirk_Wheel_Boat_Lift_%2837121947434%29.jpg/1280px-The_Falkirk_Wheel_Boat_Lift_%2837121947434%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/falkirk-wheel/thumbs/7.webp",
-    "w": 1280,
-    "h": 717,
-    "kind": "Model",
-    "caption": "Model · View from The Mini Kelpies at the top of the hill",
-    "credit": "Mike King  from Cheshire, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Falkirk_Wheel_Boat_Lift_(37121947434).jpg",
-    "file": "File:The Falkirk Wheel Boat Lift (37121947434).jpg"
    }
   ],
   "has": [
-   "Section",
-   "Model"
+   "Section"
   ],
   "gv": 3
  },
  {
   "id": "hill-house-helensburgh",
-  "n": 2780,
+  "n": 2768,
   "name": "Hill House",
   "by": "Charles Rennie Mackintosh",
   "place": "Helensburgh, GB",
@@ -259624,7 +255825,7 @@ window.BUILDINGS = [
  },
  {
   "id": "castletown-house",
-  "n": 2781,
+  "n": 2769,
   "name": "Castletown House",
   "by": "Alessandro Galilei and Edward Lovett Pearce",
   "place": "Celbridge, IE",
@@ -259647,18 +255848,6 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Castletown_House.jpg/1280px-Castletown_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/castletown-house/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Castletown House - https://en.wikipedia.org/wiki/Castletown_House",
-    "credit": "Kw220273",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Castletown_House.jpg",
-    "file": "File:Castletown House.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Castletown.jpg/1280px-Castletown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/castletown-house/thumbs/1.webp",
     "w": 1280,
@@ -259669,18 +255858,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Castletown.jpg",
     "file": "File:Castletown.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Celbridge_-_Castletown_House_-_20180324102048.jpg/1280px-Celbridge_-_Castletown_House_-_20180324102048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/castletown-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Celbridge, Castletown House",
-    "credit": "Vaishnavsachin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Celbridge_-_Castletown_House_-_20180324102048.jpg",
-    "file": "File:Celbridge - Castletown House - 20180324102048.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Castletown_House_9.jpg/1280px-Castletown_House_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -259738,7 +255915,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-point-london",
-  "n": 2782,
+  "n": 2770,
   "name": "Centre Point",
   "by": "George Marsh (R. Seifert and Partners)",
   "place": "London, GB",
@@ -259809,18 +255986,6 @@ window.BUILDINGS = [
     "file": "File:Centre Point.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Camden_skyline_%288652974865%29.jpg/1280px-Camden_skyline_%288652974865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centre-point-london/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Taken from inside the EDF Energy London Eye on Wednesday 3rd April",
-    "credit": "Mikey  from Wythenshawe, Manchester, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Camden_skyline_(8652974865).jpg",
-    "file": "File:Camden skyline (8652974865).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Dining_room_in_Centre_Point_penthouse.jpg/1280px-Dining_room_in_Centre_Point_penthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/centre-point-london/thumbs/5.webp",
     "w": 1280,
@@ -259852,7 +256017,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waterfront-hall-belfast",
-  "n": 2783,
+  "n": 2771,
   "name": "Waterfront Hall",
   "by": "Robinson McIlwaine",
   "place": "Belfast, GB",
@@ -259899,18 +256064,6 @@ window.BUILDINGS = [
     "file": "File:Belfast - The Waterfront Hall (5688231860).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Waterfront_Hall%2C_Belfast%2C_April_2015_%2801%29.JPG/1280px-Waterfront_Hall%2C_Belfast%2C_April_2015_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/waterfront-hall-belfast/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Ardfern",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Waterfront_Hall,_Belfast,_April_2015_(01).JPG",
-    "file": "File:Waterfront Hall, Belfast, April 2015 (01).JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Waterfront_Hall%2C_Belfast%2C_April_2015_%2802%29.JPG/1280px-Waterfront_Hall%2C_Belfast%2C_April_2015_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/waterfront-hall-belfast/thumbs/3.webp",
     "w": 1280,
@@ -259928,7 +256081,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arts-tower-sheffield",
-  "n": 2784,
+  "n": 2772,
   "name": "Arts Tower",
   "by": "Gollins, Melvin, Ward & Partners",
   "place": "Sheffield, GB",
@@ -259999,18 +256152,6 @@ window.BUILDINGS = [
     "file": "File:A view of The Arts Tower from Weston Park - geograph.org.uk - 5945341.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/At_the_corner_of_Mushroom_Lane%2C_Sheffield_-_geograph.org.uk_-_4431072.jpg/1280px-At_the_corner_of_Mushroom_Lane%2C_Sheffield_-_geograph.org.uk_-_4431072.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/arts-tower-sheffield/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · At the corner of Mushroom Lane, Sheffield",
-    "credit": "Nick Morris",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:At_the_corner_of_Mushroom_Lane,_Sheffield_-_geograph.org.uk_-_4431072.jpg",
-    "file": "File:At the corner of Mushroom Lane, Sheffield - geograph.org.uk - 4431072.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Front_Door_and_Steps_of_the_University_Arts_Tower%2C_Western_Bank%2C_Sheffield_-_geograph.org.uk_-_3330317.jpg/1280px-Front_Door_and_Steps_of_the_University_Arts_Tower%2C_Western_Bank%2C_Sheffield_-_geograph.org.uk_-_3330317.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/arts-tower-sheffield/thumbs/5.webp",
     "w": 1280,
@@ -260028,7 +256169,7 @@ window.BUILDINGS = [
  },
  {
   "id": "glasgow-science-centre",
-  "n": 2785,
+  "n": 2773,
   "name": "Glasgow Science Centre",
   "by": "Building Design Partnership (Glasgow Tower: Richard Horden)",
   "place": "Glasgow, GB",
@@ -260085,30 +256226,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Glasgow_Science_Centre_(15927441565).jpg",
     "file": "File:Glasgow Science Centre (15927441565).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dawn_over_Glasgow_%2848659596342%29.jpg/1280px-Dawn_over_Glasgow_%2848659596342%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-science-centre/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ian Dick  from Glasgow, UK",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dawn_over_Glasgow_(48659596342).jpg",
-    "file": "File:Dawn over Glasgow (48659596342).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/231022j_PS_Waverley_from_Glasgow_Science_Centre%2C_Hebo-Lift_10_and_Hebo-P84_at_Yorkhill_Quay.jpg/1280px-231022j_PS_Waverley_from_Glasgow_Science_Centre%2C_Hebo-Lift_10_and_Hebo-P84_at_Yorkhill_Quay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/glasgow-science-centre/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · View from the Glasgow Science Centre of PS Waverley moored at w:Pacific Quay ",
-    "credit": "dave souza",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:231022j_PS_Waverley_from_Glasgow_Science_Centre,_Hebo-Lift_10_and_Hebo-P84_at_Yorkhill_Quay.jpg",
-    "file": "File:231022j PS Waverley from Glasgow Science Centre, Hebo-Lift 10 and Hebo-P84 at Yorkhill Quay.jpg"
    }
   ],
   "has": [],
@@ -260116,7 +256233,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cork-county-hall",
-  "n": 2786,
+  "n": 2774,
   "name": "County Hall, Cork",
   "by": "Patrick McSweeney",
   "place": "Cork, IE",
@@ -260192,7 +256309,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tower-bridge",
-  "n": 2787,
+  "n": 2775,
   "name": "Tower Bridge",
   "by": "Horace Jones; John Wolfe Barry",
   "place": "London, GB",
@@ -260225,18 +256342,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_from_Pool_of_London_River_Thames_London_England_lighter.jpg",
     "file": "File:Tower Bridge from Pool of London River Thames London England lighter.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg/1280px-Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tower-bridge/thumbs/1.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Detail",
-    "caption": "Detail · Tower Bridge bascules from the Pool of London on the River Thames in London England",
-    "credit": "Acabashi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg",
-    "file": "File:Tower Bridge bascules from Pool of London River Thames London England.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2009-07-21_Tower_Bridge%2C_London.jpg/1280px-2009-07-21_Tower_Bridge%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -260287,26 +256392,24 @@ window.BUILDINGS = [
     "file": "File:City of London Buildings and Tower Bridge.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Model_Workers_-_geograph.org.uk_-_2940482.jpg/1280px-Model_Workers_-_geograph.org.uk_-_2940482.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tower-bridge/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg/1280px-Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-bridge/thumbs/1.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Model Workers",
-    "credit": "Colin Smith",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Model_Workers_-_geograph.org.uk_-_2940482.jpg",
-    "file": "File:Model Workers - geograph.org.uk - 2940482.jpg"
+    "h": 720,
+    "kind": "Detail",
+    "caption": "Detail · Tower Bridge bascules from the Pool of London on the River Thames in London England",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_bascules_from_Pool_of_London_River_Thames_London_England.jpg",
+    "file": "File:Tower Bridge bascules from Pool of London River Thames London England.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "wolfson-college-oxford",
-  "n": 2788,
+  "n": 2776,
   "name": "Wolfson College, Oxford",
   "by": "Powell and Moya",
   "place": "Oxford, GB",
@@ -260353,18 +256456,6 @@ window.BUILDINGS = [
     "file": "File:Wolfsonfront.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wolfson_College_Oxford_Hall.jpg/1280px-Wolfson_College_Oxford_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wolfson-college-oxford/thumbs/2.webp",
-    "w": 1280,
-    "h": 827,
-    "kind": "Interior",
-    "caption": "Interior · Photo of the dining hall of Wolfson College, Oxford (UK)",
-    "credit": "Mtcv",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wolfson_College_Oxford_Hall.jpg",
-    "file": "File:Wolfson College Oxford Hall.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Entrance_to_Wolfson_College_-_geograph.org.uk_-_4837278.jpg/1280px-Entrance_to_Wolfson_College_-_geograph.org.uk_-_4837278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wolfson-college-oxford/thumbs/3.webp",
     "w": 1280,
@@ -260377,16 +256468,16 @@ window.BUILDINGS = [
     "file": "File:Entrance to Wolfson College - geograph.org.uk - 4837278.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Isaac_Wolfson.jpg/1280px-Isaac_Wolfson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wolfson-college-oxford/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wolfson_College_Oxford_Hall.jpg/1280px-Wolfson_College_Oxford_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wolfson-college-oxford/thumbs/2.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Isaac Wolfson speaking at the dedication of \"Heichal Shlomo\" building in Jerusalem , 1958",
-    "credit": "Moshe Pridan",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Isaac_Wolfson.jpg",
-    "file": "File:Isaac Wolfson.jpg"
+    "h": 827,
+    "kind": "Interior",
+    "caption": "Interior · Photo of the dining hall of Wolfson College, Oxford (UK)",
+    "credit": "Mtcv",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolfson_College_Oxford_Hall.jpg",
+    "file": "File:Wolfson College Oxford Hall.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Wolfson_College_Oxford_forecourt_2011.jpg/1280px-Wolfson_College_Oxford_forecourt_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -260406,7 +256497,7 @@ window.BUILDINGS = [
  },
  {
   "id": "empire-state-plaza",
-  "n": 2789,
+  "n": 2777,
   "name": "Empire State Plaza",
   "by": "Wallace Harrison",
   "place": "Albany, US",
@@ -260439,18 +256530,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Plaza_at_sunset.jpg",
     "file": "File:Empire State Plaza at sunset.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Empire_Plaza_from_Times_Union_Arena_parking_deck%2C_Albany%2C_NY.jpg/1280px-Empire_Plaza_from_Times_Union_Arena_parking_deck%2C_Albany%2C_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/empire-state-plaza/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Daniel Case",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Empire_Plaza_from_Times_Union_Arena_parking_deck,_Albany,_NY.jpg",
-    "file": "File:Empire Plaza from Times Union Arena parking deck, Albany, NY.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Empire_State_Plaza_concourse_Agency_1_and_2_hall.jpg/1280px-Empire_State_Plaza_concourse_Agency_1_and_2_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -260489,16 +256568,16 @@ window.BUILDINGS = [
     "file": "File:Albany, NY (4426441290).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Empire_State_Plaza_concourse_capitol_building_entrance.jpg/1280px-Empire_State_Plaza_concourse_capitol_building_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/empire-state-plaza/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Empire_Plaza_from_Times_Union_Arena_parking_deck%2C_Albany%2C_NY.jpg/1280px-Empire_Plaza_from_Times_Union_Arena_parking_deck%2C_Albany%2C_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-plaza/thumbs/1.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Schvaxet",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Plaza_concourse_capitol_building_entrance.jpg",
-    "file": "File:Empire State Plaza concourse capitol building entrance.jpg"
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Empire_Plaza_from_Times_Union_Arena_parking_deck,_Albany,_NY.jpg",
+    "file": "File:Empire Plaza from Times Union Arena parking deck, Albany, NY.jpg"
    }
   ],
   "has": [],
@@ -260506,7 +256585,7 @@ window.BUILDINGS = [
  },
  {
   "id": "first-unitarian-church-rochester",
-  "n": 2790,
+  "n": 2778,
   "name": "First Unitarian Church of Rochester",
   "by": "Louis Kahn",
   "place": "Rochester, US",
@@ -260620,7 +256699,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bradfield-hall-cornell",
-  "n": 2791,
+  "n": 2779,
   "name": "Bradfield Hall",
   "by": "Ulrich Franzen",
   "place": "Ithaca, US",
@@ -260684,7 +256763,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kleinhans-music-hall",
-  "n": 2792,
+  "n": 2780,
   "name": "Kleinhans Music Hall",
   "by": "Eliel Saarinen & Eero Saarinen",
   "place": "Buffalo, US",
@@ -260760,7 +256839,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cummins-corporate-office-building",
-  "n": 2793,
+  "n": 2781,
   "name": "Cummins Corporate Office Building",
   "by": "Kevin Roche",
   "place": "Columbus, US",
@@ -260807,18 +256886,6 @@ window.BUILDINGS = [
     "file": "File:Cummins headquarters.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Cummins_Engines_Offices_-_panoramio.jpg/1280px-Cummins_Engines_Offices_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cummins-corporate-office-building/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Cummins Engines Offices",
-    "credit": "joelbeeb",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cummins_Engines_Offices_-_panoramio.jpg",
-    "file": "File:Cummins Engines Offices - panoramio.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Cummins%2C_Inc.%2C_Headquarters_Building_in_Columbus%2C_Indiana.jpg/1280px-Cummins%2C_Inc.%2C_Headquarters_Building_in_Columbus%2C_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cummins-corporate-office-building/thumbs/3.webp",
     "w": 1280,
@@ -260843,16 +256910,16 @@ window.BUILDINGS = [
     "file": "File:Cumminshqcolumbusview.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/INTERIOR_OF_CUMMINS_CORPORATE_OFFICES_-_NARA_-_546475.jpg/1280px-INTERIOR_OF_CUMMINS_CORPORATE_OFFICES_-_NARA_-_546475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cummins-corporate-office-building/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Cummins_Engines_Offices_-_panoramio.jpg/1280px-Cummins_Engines_Offices_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cummins-corporate-office-building/thumbs/2.webp",
     "w": 1280,
-    "h": 872,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Declan Haun",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:INTERIOR_OF_CUMMINS_CORPORATE_OFFICES_-_NARA_-_546475.jpg",
-    "file": "File:INTERIOR OF CUMMINS CORPORATE OFFICES - NARA - 546475.jpg"
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Cummins Engines Offices",
+    "credit": "joelbeeb",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cummins_Engines_Offices_-_panoramio.jpg",
+    "file": "File:Cummins Engines Offices - panoramio.jpg"
    }
   ],
   "has": [],
@@ -260860,7 +256927,7 @@ window.BUILDINGS = [
  },
  {
   "id": "harbor-towers-boston",
-  "n": 2794,
+  "n": 2782,
   "name": "Harbor Towers",
   "by": "Henry N. Cobb (I. M. Pei & Partners)",
   "place": "Boston, US",
@@ -260907,18 +256974,6 @@ window.BUILDINGS = [
     "file": "File:Custom House Tower between Harbor Towers (53826014684).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Financial_district_of_Boston.jpg/1280px-Financial_district_of_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/harbor-towers-boston/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Sathiya raj",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Financial_district_of_Boston.jpg",
-    "file": "File:Financial district of Boston.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Harbor_Towers_%2854960820443%29.jpg/1280px-Harbor_Towers_%2854960820443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/harbor-towers-boston/thumbs/3.webp",
     "w": 1280,
@@ -260943,6 +256998,18 @@ window.BUILDINGS = [
     "file": "File:USA-Old Northern Avenue Bridge.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Financial_district_of_Boston.jpg/1280px-Financial_district_of_Boston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/harbor-towers-boston/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Sathiya raj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Financial_district_of_Boston.jpg",
+    "file": "File:Financial district of Boston.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Boston_skyline_from_East_Boston_November_2016_panorama_1.jpg/1280px-Boston_skyline_from_East_Boston_November_2016_panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/harbor-towers-boston/thumbs/5.webp",
     "w": 1280,
@@ -260960,7 +257027,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manitoga",
-  "n": 2795,
+  "n": 2783,
   "name": "Manitoga",
   "by": "Russel Wright & David L. Leavitt",
   "place": "Garrison, US",
@@ -261005,52 +257072,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Manitoga_04.jpg",
     "file": "File:Manitoga 04.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Manitoga_rock.jpg/1280px-Manitoga_rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoga/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Fern on rock in Manitoga",
-    "credit": "Gerda Arendt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manitoga_rock.jpg",
-    "file": "File:Manitoga rock.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Manitoga_viewpoint.jpg/1280px-Manitoga_viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoga/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Manitoga viewpoint to other side of the Hudson river",
-    "credit": "Gerda Arendt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manitoga_viewpoint.jpg",
-    "file": "File:Manitoga viewpoint.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mocha_coffee_set%2C_Model_90073%2C_designed_by_Russel_Wright%2C_Chase_Brass_%26_Copper_Company%2C_Waterbury_CT%2C_1935-1938%2C_chrome-plated_brass%2C_Catalin_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne%2C_Germany_-_DSC09549.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manitoga/thumbs/4.webp",
-    "w": 1108,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mocha_coffee_set,_Model_90073,_designed_by_Russel_Wright,_Chase_Brass_%26_Copper_Company,_Waterbury_CT,_1935-1938,_chrome-plated_brass,_Catalin_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne,_Germany_-_DSC09549.jpg",
-    "file": "File:Mocha coffee set, Model 90073, designed by Russel Wright, Chase Brass & Copper Company, Waterbury CT, 1935-1938, chrome-plated brass, Catalin - Museum für Angewandte Kunst Köln - Cologne, Germany - DSC09549.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "merck-headquarters-building",
-  "n": 2796,
+  "n": 2784,
   "name": "Merck Headquarters Building",
   "by": "Kevin Roche John Dinkeloo and Associates",
   "place": "Whitehouse Station, US",
@@ -261126,7 +257155,7 @@ window.BUILDINGS = [
  },
  {
   "id": "murray-d-lincoln-campus-center",
-  "n": 2797,
+  "n": 2785,
   "name": "Murray D. Lincoln Campus Center",
   "by": "Marcel Breuer",
   "place": "Amherst, US",
@@ -261171,54 +257200,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Murray_D._Lincoln_Campus_Center.jpg",
     "file": "File:Murray D. Lincoln Campus Center.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fine_Arts_Center.jpg/1280px-Fine_Arts_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/murray-d-lincoln-campus-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The Fine Arts Center at the University of Massachusetts Amherst ",
-    "credit": "Ktr101",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fine_Arts_Center.jpg",
-    "file": "File:Fine Arts Center.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/W.E.B._DuBois_Library.jpg/1280px-W.E.B._DuBois_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/murray-d-lincoln-campus-center/thumbs/3.webp",
-    "w": 732,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · The W.E.B",
-    "credit": "Ktr101",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:W.E.B._DuBois_Library.jpg",
-    "file": "File:W.E.B. DuBois Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/University_of_Massachusetts_at_Amherst_view_from_library_12.JPG/1280px-University_of_Massachusetts_at_Amherst_view_from_library_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/murray-d-lincoln-campus-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · View from a top floor of the DuBois library at the University of Massachusetts, Amherst, of surrounding area",
-    "credit": "Tomwsulcer",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:University_of_Massachusetts_at_Amherst_view_from_library_12.JPG",
-    "file": "File:University of Massachusetts at Amherst view from library 12.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/University_of_Massachusetts_at_Amherst_view_from_library_11.JPG/1280px-University_of_Massachusetts_at_Amherst_view_from_library_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/murray-d-lincoln-campus-center/thumbs/5.webp",
-    "w": 1280,
-    "h": 980,
-    "kind": "Context",
-    "caption": "Context · View from a top floor of the DuBois library at the University of Massachusetts, Amherst, of surrounding area",
-    "credit": "Tomwsulcer",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:University_of_Massachusetts_at_Amherst_view_from_library_11.JPG",
-    "file": "File:University of Massachusetts at Amherst view from library 11.JPG"
    }
   ],
   "has": [],
@@ -261226,7 +257207,7 @@ window.BUILDINGS = [
  },
  {
   "id": "american-republic-insurance-headquarters",
-  "n": 2798,
+  "n": 2786,
   "name": "American Republic Insurance Company Headquarters",
   "by": "Gordon Bunshaft",
   "place": "Des Moines, US",
@@ -261290,7 +257271,7 @@ window.BUILDINGS = [
  },
  {
   "id": "one-woodward-avenue",
-  "n": 2799,
+  "n": 2787,
   "name": "One Woodward Avenue",
   "by": "Minoru Yamasaki",
   "place": "Detroit, US",
@@ -261325,18 +257306,6 @@ window.BUILDINGS = [
     "file": "File:One Woodward Avenue from Windsor, Ontario, 2025-07-30.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/OneWoodwardTOP.jpg/1280px-OneWoodwardTOP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/one-woodward-avenue/thumbs/1.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Detail",
-    "caption": "Detail · Detail of top of One Woodward Ave",
-    "credit": "Coreyfein01",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:OneWoodwardTOP.jpg",
-    "file": "File:OneWoodwardTOP.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/One_Woodward_Avenue%2C_Detroit%2C_Michigan%2C_2025-08-01.jpg/1280px-One_Woodward_Avenue%2C_Detroit%2C_Michigan%2C_2025-08-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/one-woodward-avenue/thumbs/2.webp",
     "w": 830,
@@ -261347,18 +257316,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:One_Woodward_Avenue,_Detroit,_Michigan,_2025-08-01.jpg",
     "file": "File:One Woodward Avenue, Detroit, Michigan, 2025-08-01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/GuardianSkyBridge.png/1280px-GuardianSkyBridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/one-woodward-avenue/thumbs/3.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Exterior",
-    "caption": "Exterior · Pedestrian Bridge Between Between One Woodward and the Guardian Building",
-    "credit": "Coreyfein01",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:GuardianSkyBridge.png",
-    "file": "File:GuardianSkyBridge.png"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Michigan_-_One_Woodward_Avenue_-_20180820231001.jpg/1280px-Michigan_-_One_Woodward_Avenue_-_20180820231001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -261383,6 +257340,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:One_Woodward_Building_lobby_sculpture_Detroit.jpg",
     "file": "File:One Woodward Building lobby sculpture Detroit.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/OneWoodwardTOP.jpg/1280px-OneWoodwardTOP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-woodward-avenue/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Detail",
+    "caption": "Detail · Detail of top of One Woodward Ave",
+    "credit": "Coreyfein01",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:OneWoodwardTOP.jpg",
+    "file": "File:OneWoodwardTOP.jpg"
    }
   ],
   "has": [],
@@ -261390,7 +257359,7 @@ window.BUILDINGS = [
  },
  {
   "id": "power-center-ann-arbor",
-  "n": 2800,
+  "n": 2788,
   "name": "Power Center for the Performing Arts",
   "by": "Kevin Roche John Dinkeloo and Associates",
   "place": "Ann Arbor, US",
@@ -261425,30 +257394,6 @@ window.BUILDINGS = [
     "file": "File:Power Center for the Performing Arts at Night, University of Michigan, Ann Arbor, Michigan - panoramio.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Helen_Hayes_and_Walter_Kerr_in_Ann_Arbor.jpg/1280px-Helen_Hayes_and_Walter_Kerr_in_Ann_Arbor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/power-center-ann-arbor/thumbs/1.webp",
-    "w": 1280,
-    "h": 942,
-    "kind": "Exterior",
-    "caption": "Exterior · Helen Hayes and Walter Kerr at the grand opening celebration for the Power Center in Ann Arbor, Michigan",
-    "credit": "Unidentified ( Michiganensian  is the University of Michigan yearbook published by University of Mic",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Helen_Hayes_and_Walter_Kerr_in_Ann_Arbor.jpg",
-    "file": "File:Helen Hayes and Walter Kerr in Ann Arbor.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Walter_Kerr_cropped.jpg/1280px-Walter_Kerr_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/power-center-ann-arbor/thumbs/2.webp",
-    "w": 1094,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Walter Kerr at the grand opening celebration for the Power Center in Ann Arbor, Michigan",
-    "credit": "Unidentified (Michiganensian is the University of Michigan yearbook published by University of Michi",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Walter_Kerr_cropped.jpg",
-    "file": "File:Walter Kerr cropped.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/University_of_Michigan_August_2013_135_%28Power_Center_for_the_Performing_Arts%29.jpg/1280px-University_of_Michigan_August_2013_135_%28Power_Center_for_the_Performing_Arts%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/power-center-ann-arbor/thumbs/3.webp",
     "w": 1280,
@@ -261459,18 +257404,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:University_of_Michigan_August_2013_135_(Power_Center_for_the_Performing_Arts).jpg",
     "file": "File:University of Michigan August 2013 135 (Power Center for the Performing Arts).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Helen_Hayes_in_Ann_Arbor_%28cropped%29.jpg/1280px-Helen_Hayes_in_Ann_Arbor_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/power-center-ann-arbor/thumbs/4.webp",
-    "w": 1088,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Helen Hayes at the grand opening celebration for the Power Center in Ann Arbor, Michigan",
-    "credit": "Unidentified ( Michiganensian  is the University of Michigan yearbook published by University of Mic",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Helen_Hayes_in_Ann_Arbor_(cropped).jpg",
-    "file": "File:Helen Hayes in Ann Arbor (cropped).jpg"
    }
   ],
   "has": [],
@@ -261478,7 +257411,7 @@ window.BUILDINGS = [
  },
  {
   "id": "richards-medical-research-laboratories",
-  "n": 2801,
+  "n": 2789,
   "name": "Richards Medical Research Laboratories",
   "by": "Louis Kahn",
   "place": "Philadelphia, US",
@@ -261578,7 +257511,7 @@ window.BUILDINGS = [
  },
  {
   "id": "140-broadway",
-  "n": 2802,
+  "n": 2790,
   "name": "140 Broadway",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -261637,30 +257570,6 @@ window.BUILDINGS = [
     "file": "File:Fisheye on Broadway at Cedar, NYC (17079709885).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Lower_Manhattan_from_Staten_Island_Ferry_Jan_2006.jpg/1280px-Lower_Manhattan_from_Staten_Island_Ferry_Jan_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/140-broadway/thumbs/3.webp",
-    "w": 1280,
-    "h": 302,
-    "kind": "Interior",
-    "caption": "Interior · A panorama of Lower Manhattan as viewed from the Staten Island Ferry",
-    "credit": "Diliff",
-    "license": "CC BY 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Staten_Island_Ferry_Jan_2006.jpg",
-    "file": "File:Lower Manhattan from Staten Island Ferry Jan 2006.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Aerial_photo_of_WTC_groundzero.jpg/1280px-Aerial_photo_of_WTC_groundzero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/140-broadway/thumbs/4.webp",
-    "w": 1280,
-    "h": 1235,
-    "kind": "Interior",
-    "caption": "Interior · Image taken by NOAA's Cessna Citation Jet on Sept",
-    "credit": "NOAA",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photo_of_WTC_groundzero.jpg",
-    "file": "File:Aerial photo of WTC groundzero.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Cedar_Street_Between_Marine_Midland_Building_and_Equitable_Building_%287237036170%29.jpg/1280px-Cedar_Street_Between_Marine_Midland_Building_and_Equitable_Building_%287237036170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/140-broadway/thumbs/5.webp",
     "w": 1050,
@@ -261678,7 +257587,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alden-dow-house-and-studio",
-  "n": 2803,
+  "n": 2791,
   "name": "Alden B. Dow Home and Studio",
   "by": "Alden B. Dow",
   "place": "Midland, US",
@@ -261742,7 +257651,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alfonse-damato-courthouse",
-  "n": 2804,
+  "n": 2792,
   "name": "Alfonse M. D'Amato United States Courthouse",
   "by": "Richard Meier",
   "place": "Central Islip, US",
@@ -261782,7 +257691,7 @@ window.BUILDINGS = [
  },
  {
   "id": "allegheny-county-courthouse",
-  "n": 2805,
+  "n": 2793,
   "name": "Allegheny County Courthouse",
   "by": "Henry Hobson Richardson",
   "place": "Pittsburgh, US",
@@ -261882,7 +257791,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ames-free-library",
-  "n": 2806,
+  "n": 2794,
   "name": "Ames Free Library",
   "by": "Henry Hobson Richardson",
   "place": "Easton, US",
@@ -261982,7 +257891,7 @@ window.BUILDINGS = [
  },
  {
   "id": "austin-hall-harvard",
-  "n": 2807,
+  "n": 2795,
   "name": "Austin Hall",
   "by": "Henry Hobson Richardson",
   "place": "Cambridge, US",
@@ -262058,7 +257967,7 @@ window.BUILDINGS = [
  },
  {
   "id": "billings-memorial-library",
-  "n": 2808,
+  "n": 2796,
   "name": "Billings Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Burlington, US",
@@ -262158,7 +258067,7 @@ window.BUILDINGS = [
  },
  {
   "id": "campbell-sports-center",
-  "n": 2809,
+  "n": 2797,
   "name": "Campbell Sports Center",
   "by": "Steven Holl Architects",
   "place": "New York, US",
@@ -262234,7 +258143,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cleo-rogers-memorial-library",
-  "n": 2810,
+  "n": 2798,
   "name": "Cleo Rogers Memorial Library",
   "by": "I. M. Pei",
   "place": "Columbus, US",
@@ -262281,18 +258190,6 @@ window.BUILDINGS = [
     "file": "File:CLEO ROGERS MEMORIAL LIBRARY - NARA - 546504.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ROGERS_MEMORIAL_LIBRARY%2C_WITH_OLD_IRWIN_FAMILY_HOME_IN_BACKGROUND_-_NARA_-_546488.jpg/1280px-ROGERS_MEMORIAL_LIBRARY%2C_WITH_OLD_IRWIN_FAMILY_HOME_IN_BACKGROUND_-_NARA_-_546488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cleo-rogers-memorial-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 870,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Declan Haun",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:ROGERS_MEMORIAL_LIBRARY,_WITH_OLD_IRWIN_FAMILY_HOME_IN_BACKGROUND_-_NARA_-_546488.jpg",
-    "file": "File:ROGERS MEMORIAL LIBRARY, WITH OLD IRWIN FAMILY HOME IN BACKGROUND - NARA - 546488.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Library_at_Columbus%2C_Indiana.jpg/1280px-The_Library_at_Columbus%2C_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cleo-rogers-memorial-library/thumbs/3.webp",
     "w": 1280,
@@ -262334,7 +258231,7 @@ window.BUILDINGS = [
  },
  {
   "id": "converse-memorial-library",
-  "n": 2811,
+  "n": 2799,
   "name": "Converse Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Malden, US",
@@ -262412,7 +258309,7 @@ window.BUILDINGS = [
  },
  {
   "id": "crawford-manor",
-  "n": 2812,
+  "n": 2800,
   "name": "Crawford Manor",
   "by": "Paul Rudolph",
   "place": "New Haven, US",
@@ -262488,7 +258385,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cultural-education-center-albany",
-  "n": 2813,
+  "n": 2801,
   "name": "New York State Cultural Education Center",
   "by": "Harrison & Abramovitz",
   "place": "Albany, US",
@@ -262547,30 +258444,6 @@ window.BUILDINGS = [
     "file": "File:New York State Museum, Albany.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hall_of_Vertebrate_Paleontology%2C_New_York_State_Museum%2C_postcard_%28back%29.jpg/1280px-Hall_of_Vertebrate_Paleontology%2C_New_York_State_Museum%2C_postcard_%28back%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cultural-education-center-albany/thumbs/3.webp",
-    "w": 1280,
-    "h": 832,
-    "kind": "Interior",
-    "caption": "Interior · Backside of postcard showing Mastodon at the New York State Museum",
-    "credit": "C. W. Hughes & Co.",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Vertebrate_Paleontology,_New_York_State_Museum,_postcard_(back).jpg",
-    "file": "File:Hall of Vertebrate Paleontology, New York State Museum, postcard (back).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Carousel_Band_Organ_Wurlitzer_%28Cultural_Education_Center%2C_NY%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/cultural-education-center-albany/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Carousel Band Organ Wurlitzer @ Cultural Education Center, NY",
-    "credit": "April Younglove",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Carousel_Band_Organ_Wurlitzer_(Cultural_Education_Center,_NY).jpg",
-    "file": "File:Carousel Band Organ Wurlitzer (Cultural Education Center, NY).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Albany%2C_NY_%284426431900%29.jpg/1280px-Albany%2C_NY_%284426431900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cultural-education-center-albany/thumbs/5.webp",
     "w": 1280,
@@ -262588,7 +258461,7 @@ window.BUILDINGS = [
  },
  {
   "id": "davenport-public-library",
-  "n": 2814,
+  "n": 2802,
   "name": "Davenport Public Library",
   "by": "Edward Durell Stone",
   "place": "Davenport, US",
@@ -262623,18 +258496,6 @@ window.BUILDINGS = [
     "file": "File:Davenport Public Library - Main Branch.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Carnegie_Library_building%2C_Davenport%2C_Iowa_-_D._A._Gregg._LCCN2007685857.jpg/1280px-Carnegie_Library_building%2C_Davenport%2C_Iowa_-_D._A._Gregg._LCCN2007685857.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/davenport-public-library/thumbs/1.webp",
-    "w": 1280,
-    "h": 786,
-    "kind": "Exterior",
-    "caption": "Exterior · Title: Carnegie Library building, Davenport, Iowa / D",
-    "credit": "Gregg, D. A. (David A.), artist; Kiessling, Calvin, architect",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Carnegie_Library_building,_Davenport,_Iowa_-_D._A._Gregg._LCCN2007685857.jpg",
-    "file": "File:Carnegie Library building, Davenport, Iowa - D. A. Gregg. LCCN2007685857.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/DPL_Eastern_02.jpg/1280px-DPL_Eastern_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/davenport-public-library/thumbs/2.webp",
     "w": 1280,
@@ -262657,28 +258518,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Davenport,_Iowa_Library.jpg",
     "file": "File:Davenport, Iowa Library.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Public_Library%2C_Davenport%2C_Iowa_LCCN2007686628.jpg/1280px-Public_Library%2C_Davenport%2C_Iowa_LCCN2007686628.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/davenport-public-library/thumbs/4.webp",
-    "w": 1280,
-    "h": 982,
-    "kind": "Plan",
-    "caption": "Plan · Title: Public Library, Davenport, Iowa Abstract/medium: 1 photographic print : stat",
-    "credit": "Kiessling, Calvin, architect",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Public_Library,_Davenport,_Iowa_LCCN2007686628.jpg",
-    "file": "File:Public Library, Davenport, Iowa LCCN2007686628.jpg"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "grant-house-cedar-rapids",
-  "n": 2815,
+  "n": 2803,
   "name": "Douglas and Charlotte Grant House",
   "by": "Frank Lloyd Wright",
   "place": "Cedar Rapids, US",
@@ -262730,7 +258577,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hampden-county-courthouse",
-  "n": 2816,
+  "n": 2804,
   "name": "Hampden County Courthouse",
   "by": "Henry Hobson Richardson",
   "place": "Springfield, US",
@@ -262799,30 +258646,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Courthouse_tower_-_panoramio.jpg",
     "file": "File:Courthouse tower - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Court_house%2C_Hall_of_Records_and_Institute_for_Savings%2C_Springfield%2C_Mass_%2861521%29.jpg/1280px-Court_house%2C_Hall_of_Records_and_Institute_for_Savings%2C_Springfield%2C_Mass_%2861521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hampden-county-courthouse/thumbs/4.webp",
-    "w": 1280,
-    "h": 824,
-    "kind": "Interior",
-    "caption": "Interior · Title: Court house, Hall of Records and Institute for Savings, Springfield, Mass",
-    "credit": "Published by The Springfield News Co. Tichnor Bros. Inc., Boston, Mass.",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Court_house,_Hall_of_Records_and_Institute_for_Savings,_Springfield,_Mass_(61521).jpg",
-    "file": "File:Court house, Hall of Records and Institute for Savings, Springfield, Mass (61521).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/McKinley_Monument_by_Philip_Martiny_-_Springfield%2C_MA_-_DSC03273.JPG/1280px-McKinley_Monument_by_Philip_Martiny_-_Springfield%2C_MA_-_DSC03273.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hampden-county-courthouse/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:McKinley_Monument_by_Philip_Martiny_-_Springfield,_MA_-_DSC03273.JPG",
-    "file": "File:McKinley Monument by Philip Martiny - Springfield, MA - DSC03273.JPG"
    }
   ],
   "has": [],
@@ -262830,7 +258653,7 @@ window.BUILDINGS = [
  },
  {
   "id": "home-building-association-bank",
-  "n": 2817,
+  "n": 2805,
   "name": "Home Building Association Bank",
   "by": "Louis Sullivan",
   "place": "Newark, US",
@@ -262930,7 +258753,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hubert-h-humphrey-building",
-  "n": 2818,
+  "n": 2806,
   "name": "Hubert H. Humphrey Building",
   "by": "Marcel Breuer",
   "place": "Washington, D.C., US",
@@ -263030,7 +258853,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kauffman-center-performing-arts",
-  "n": 2819,
+  "n": 2807,
   "name": "Kauffman Center for the Performing Arts",
   "by": "Moshe Safdie",
   "place": "Kansas City, US",
@@ -263063,18 +258886,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kauffman_Center_for_Performing_Arts_2.jpg",
     "file": "File:Kauffman Center for Performing Arts 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Kauffman_Center_%2832733798086%29.jpg/1280px-Kauffman_Center_%2832733798086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kauffman-center-performing-arts/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Kasnsas City, MO",
-    "credit": "Matthew Endersbe  from Kansas City , United states",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kauffman_Center_(32733798086).jpg",
-    "file": "File:Kauffman Center (32733798086).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Kauffman_Center_for_Performing_Arts.jpg/1280px-Kauffman_Center_for_Performing_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -263130,7 +258941,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kips-bay-towers",
-  "n": 2820,
+  "n": 2808,
   "name": "Kips Bay Towers",
   "by": "I. M. Pei & S. J. Kessler",
   "place": "New York, US",
@@ -263194,7 +259005,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manhattan-house",
-  "n": 2821,
+  "n": 2809,
   "name": "Manhattan House",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -263227,30 +259038,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Manhattan_House_65_jeh.JPG",
     "file": "File:Manhattan House 65 jeh.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Bromley_Manhattan_Plate_107_publ._1930.jpg/1280px-Bromley_Manhattan_Plate_107_publ._1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manhattan-house/thumbs/1.webp",
-    "w": 1280,
-    "h": 881,
-    "kind": "Exterior",
-    "caption": "Exterior · Plate 107 from: Land Book of the Borough of Manhattan City of New York",
-    "credit": "G. W. Bromley & Co.",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Bromley_Manhattan_Plate_107_publ._1930.jpg",
-    "file": "File:Bromley Manhattan Plate 107 publ. 1930.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bromley_Manhattan_Plate_107_publ._1955%E2%80%9356.jpg/1280px-Bromley_Manhattan_Plate_107_publ._1955%E2%80%9356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manhattan-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 880,
-    "kind": "Exterior",
-    "caption": "Exterior · Plate 107 from: Manhattan Land Book of the City of New York",
-    "credit": "G. W. Bromley & Co.",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Bromley_Manhattan_Plate_107_publ._1955%E2%80%9356.jpg",
-    "file": "File:Bromley Manhattan Plate 107 publ. 1955–56.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Manhattan_House_Apartments_Feb_2023_01.jpg/1280px-Manhattan_House_Apartments_Feb_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -263294,7 +259081,7 @@ window.BUILDINGS = [
  },
  {
   "id": "munson-williams-proctor-arts-institute",
-  "n": 2822,
+  "n": 2810,
   "name": "Munson-Williams-Proctor Arts Institute",
   "by": "Philip Johnson",
   "place": "Utica, US",
@@ -263329,42 +259116,6 @@ window.BUILDINGS = [
     "file": "File:Munson-Williams-Proctor Arts Institute, Utica NY.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Still_Life_with_Steak_Raphaelle_Peale%2C_1816-1817.JPG/1280px-Still_Life_with_Steak_Raphaelle_Peale%2C_1816-1817.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munson-williams-proctor-arts-institute/thumbs/1.webp",
-    "w": 1280,
-    "h": 859,
-    "kind": "Exterior",
-    "caption": "Exterior · Still Life with Steak by Raphaelle Peale, oil on panel, Munson-Williams-Proctor Arts Institute",
-    "credit": "Raphaelle Peale",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Still_Life_with_Steak_Raphaelle_Peale,_1816-1817.JPG",
-    "file": "File:Still Life with Steak Raphaelle Peale, 1816-1817.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Whistler_-_The_Sea_at_Pourville_%28No._2%29%2C_near_Dieppe%2C_France_%281899%29_y519.jpg/1280px-Whistler_-_The_Sea_at_Pourville_%28No._2%29%2C_near_Dieppe%2C_France_%281899%29_y519.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munson-williams-proctor-arts-institute/thumbs/2.webp",
-    "w": 1280,
-    "h": 744,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "James McNeill Whistler",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Whistler_-_The_Sea_at_Pourville_(No._2),_near_Dieppe,_France_(1899)_y519.jpg",
-    "file": "File:Whistler - The Sea at Pourville (No. 2), near Dieppe, France (1899) y519.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fountain_Elms_in_Utica_New_York_taken_09302012.JPG/1280px-Fountain_Elms_in_Utica_New_York_taken_09302012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munson-williams-proctor-arts-institute/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Fountain Elms",
-    "credit": "KrisBellino",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fountain_Elms_in_Utica_New_York_taken_09302012.JPG",
-    "file": "File:Fountain Elms in Utica New York taken 09302012.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Interior_of_the_Munson-Williams-Proctor_Arts_Institute.jpg/1280px-Interior_of_the_Munson-Williams-Proctor_Arts_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/munson-williams-proctor-arts-institute/thumbs/4.webp",
     "w": 1280,
@@ -263382,7 +259133,7 @@ window.BUILDINGS = [
  },
  {
   "id": "niagara-falls-public-library",
-  "n": 2823,
+  "n": 2811,
   "name": "Niagara Falls Public Library",
   "by": "Paul Rudolph",
   "place": "Niagara Falls, US",
@@ -263429,30 +259180,6 @@ window.BUILDINGS = [
     "file": "File:Back entrance of Stamford Community Centre Library.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008_%282%29.jpg/1280px-Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 1119,
-    "kind": "Exterior",
-    "caption": "Exterior · Niagara Falls Carnegie Library-Niagara Falls-Ontario",
-    "credit": "Mhsheikholeslami",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008_(2).jpg",
-    "file": "File:Niagara Falls Carnegie Library-Niagara Falls-Ontario-HPC9744-20221008 (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008.jpg/1280px-Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/niagara-falls-public-library/thumbs/3.webp",
-    "w": 1280,
-    "h": 1011,
-    "kind": "Exterior",
-    "caption": "Exterior · Niagara Falls Carnegie Library-Niagara Falls-Ontario",
-    "credit": "Mhsheikholeslami",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_Carnegie_Library-Niagara_Falls-Ontario-HPC9744-20221008.jpg",
-    "file": "File:Niagara Falls Carnegie Library-Niagara Falls-Ontario-HPC9744-20221008.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Inside_MacBain_Community_Centre_library.jpg/1280px-Inside_MacBain_Community_Centre_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/niagara-falls-public-library/thumbs/4.webp",
     "w": 1280,
@@ -263482,7 +259209,7 @@ window.BUILDINGS = [
  },
  {
   "id": "north-shore-congregation-israel",
-  "n": 2824,
+  "n": 2812,
   "name": "North Shore Congregation Israel",
   "by": "Minoru Yamasaki",
   "place": "Glencoe, US",
@@ -263522,7 +259249,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oakes-ames-memorial-hall",
-  "n": 2825,
+  "n": 2813,
   "name": "Oakes Ames Memorial Hall",
   "by": "Henry Hobson Richardson",
   "place": "Easton, US",
@@ -263598,7 +259325,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olivetti-underwood-factory",
-  "n": 2826,
+  "n": 2814,
   "name": "Olivetti-Underwood Factory",
   "by": "Louis Kahn",
   "place": "Harrisburg, US",
@@ -263638,7 +259365,7 @@ window.BUILDINGS = [
  },
  {
   "id": "guaranty-building-buffalo",
-  "n": 2827,
+  "n": 2815,
   "name": "Guaranty Building (Prudential Building)",
   "by": "Louis Sullivan & Dankmar Adler",
   "place": "Buffalo, US",
@@ -263752,7 +259479,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reynolds-metals-headquarters",
-  "n": 2828,
+  "n": 2816,
   "name": "Reynolds Metals Company International Headquarters",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "Richmond, US",
@@ -263792,7 +259519,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mandel-house-bedford-hills",
-  "n": 2829,
+  "n": 2817,
   "name": "Richard H. Mandel House",
   "by": "Edward Durell Stone",
   "place": "Bedford Hills, US",
@@ -263832,7 +259559,7 @@ window.BUILDINGS = [
  },
  {
   "id": "river-city-chicago",
-  "n": 2830,
+  "n": 2818,
   "name": "River City",
   "by": "Bertrand Goldberg",
   "place": "Chicago, US",
@@ -263903,18 +259630,6 @@ window.BUILDINGS = [
     "file": "File:River City and the Moon.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chicago_as_seen_from_a_commercial_flight_03.JPG/1280px-Chicago_as_seen_from_a_commercial_flight_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/river-city-chicago/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Seen from a commercial flight over Chicago",
-    "credit": "User:Piotrus",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Chicago_as_seen_from_a_commercial_flight_03.JPG",
-    "file": "File:Chicago as seen from a commercial flight 03.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chicago_-_River_City_-_02.jpg/1280px-Chicago_-_River_City_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/river-city-chicago/thumbs/5.webp",
     "w": 1280,
@@ -263932,7 +259647,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rockefeller-guest-house",
-  "n": 2831,
+  "n": 2819,
   "name": "Rockefeller Guest House",
   "by": "Philip Johnson",
   "place": "New York, US",
@@ -264020,7 +259735,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sciences-library-brown",
-  "n": 2832,
+  "n": 2820,
   "name": "Sciences Library (SciLi)",
   "by": "Warner, Burns, Toan & Lunde",
   "place": "Providence, US",
@@ -264067,18 +259782,6 @@ window.BUILDINGS = [
     "file": "File:2021 Brown University, Sciences Library.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Providence_looking_north_from_Brown_University_Sciences_Library.jpg/1280px-Providence_looking_north_from_Brown_University_Sciences_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sciences-library-brown/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · A view of Providence from the north side of the 13th floor of the Sciences Library at Brown University",
-    "credit": "4300streetcar",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Providence_looking_north_from_Brown_University_Sciences_Library.jpg",
-    "file": "File:Providence looking north from Brown University Sciences Library.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Brown_University_Science_Library.jpg/1280px-Brown_University_Science_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sciences-library-brown/thumbs/3.webp",
     "w": 1280,
@@ -264120,7 +259823,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seventeenth-church-christ-scientist-chicago",
-  "n": 2833,
+  "n": 2821,
   "name": "Seventeenth Church of Christ, Scientist",
   "by": "Harry Weese",
   "place": "Chicago, US",
@@ -264220,7 +259923,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sever-hall",
-  "n": 2834,
+  "n": 2822,
   "name": "Sever Hall",
   "by": "Henry Hobson Richardson",
   "place": "Cambridge, US",
@@ -264277,94 +259980,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:H._H._Richardson_-_Cambridge,_MA_-_Sever_Hall,_Harvard_University_(B).jpg",
     "file": "File:H. H. Richardson - Cambridge, MA - Sever Hall, Harvard University (B).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Harvard_Yard%2C_February_2022_3.jpg/1280px-Harvard_Yard%2C_February_2022_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sever-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 640,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Sdkb",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Harvard_Yard,_February_2022_3.jpg",
-    "file": "File:Harvard Yard, February 2022 3.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "temple-emanuel-creve-coeur",
-  "n": 2835,
-  "name": "Temple Emanuel",
-  "by": "William Bernoudy",
-  "place": "Creve Coeur, US",
-  "year": "1962",
-  "y": 1962,
-  "type": "Religious",
-  "movement": "Modernism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Sculptural form",
-   "Geometry",
-   "Light from above"
-  ],
-  "study": "Reform synagogue notable for its size and its unique Modernist architecture.",
-  "qid": null,
-  "commons": "Category:Temple Emanuel (Pueblo, Colorado)",
-  "lead": "File:Temple Emanuel (Creve Coeur, Missouri) 2.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Temple_Emanuel_%28Creve_Coeur%2C_Missouri%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/temple-emanuel-creve-coeur/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Temple Emanuel, 2018",
-    "credit": "LittleT889",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Temple_Emanuel_(Creve_Coeur,_Missouri)_2.jpg",
-    "file": "File:Temple Emanuel (Creve Coeur, Missouri) 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Temple_Emanuel_%28Pueblo%2C_Colorado%29_%287479539432%29.jpg/1280px-Temple_Emanuel_%28Pueblo%2C_Colorado%29_%287479539432%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/temple-emanuel-creve-coeur/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · 1325 N",
-    "credit": "Jeffrey Beall  from Colorado, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Temple_Emanuel_(Pueblo,_Colorado)_(7479539432).jpg",
-    "file": "File:Temple Emanuel (Pueblo, Colorado) (7479539432).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Temple_Emanuel_%28Pueblo%2C_Colorado%29.JPG/1280px-Temple_Emanuel_%28Pueblo%2C_Colorado%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/temple-emanuel-creve-coeur/thumbs/2.webp",
-    "w": 1280,
-    "h": 954,
-    "kind": "Exterior",
-    "caption": "Exterior · Temple Emanuel, located at 1325 North Grand Avenue in Pueblo, Colorado",
-    "credit": "Jeffrey Beall",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Temple_Emanuel_(Pueblo,_Colorado).JPG",
-    "file": "File:Temple Emanuel (Pueblo, Colorado).JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jacob_M._Giles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/temple-emanuel-creve-coeur/thumbs/3.webp",
-    "w": 908,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Jacob M",
-    "credit": "\"History of Colorado, V. 3\" (1918), by ed. Wilbur Fiske Stone, pg. 213 \n \n https://archive.org/detai",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Jacob_M._Giles.png",
-    "file": "File:Jacob M. Giles.png"
    }
   ],
   "has": [],
@@ -264372,7 +259987,7 @@ window.BUILDINGS = [
  },
  {
   "id": "terrace-plaza-hotel",
-  "n": 2836,
+  "n": 2823,
   "name": "Terrace Plaza Hotel",
   "by": "Skidmore, Owings & Merrill",
   "place": "Cincinnati, US",
@@ -264431,18 +260046,6 @@ window.BUILDINGS = [
     "file": "File:Skyline dining room, Terrace Plaza Hotel, Cincinnati, Ohio (79213).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Exterior_of_Gourmet_Room_of_the_Terrace_Plaza_Hotel.jpg/1280px-Exterior_of_Gourmet_Room_of_the_Terrace_Plaza_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/terrace-plaza-hotel/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Unknown author Unknown author",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Gourmet_Room_of_the_Terrace_Plaza_Hotel.jpg",
-    "file": "File:Exterior of Gourmet Room of the Terrace Plaza Hotel.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Terrace_Plaza_Hotel%2C_Cincinnati%2C_Ohio_%2878795%29.jpg/1280px-Terrace_Plaza_Hotel%2C_Cincinnati%2C_Ohio_%2878795%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/terrace-plaza-hotel/thumbs/4.webp",
     "w": 892,
@@ -264472,7 +260075,7 @@ window.BUILDINGS = [
  },
  {
   "id": "class-of-1959-chapel",
-  "n": 2837,
+  "n": 2824,
   "name": "Class of 1959 Chapel",
   "by": "Moshe Safdie",
   "place": "Boston, US",
@@ -264541,30 +260144,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:1959chapelexterior2.JPG",
     "file": "File:1959chapelexterior2.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/1959chapelceiling.JPG/1280px-1959chapelceiling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/class-of-1959-chapel/thumbs/4.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Detail",
-    "caption": "Detail · Class of 1959 chapel, Harvard",
-    "credit": "No machine-readable author provided.  Dsmack  assumed (based on copyright claims).",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1959chapelceiling.JPG",
-    "file": "File:1959chapelceiling.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/1959chapelgardenfromtop.JPG/1280px-1959chapelgardenfromtop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/class-of-1959-chapel/thumbs/5.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Context",
-    "caption": "Context · Class of 1959 chapel, Harvard",
-    "credit": "No machine-readable author provided.  Dsmack  assumed (based on copyright claims).",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1959chapelgardenfromtop.JPG",
-    "file": "File:1959chapelgardenfromtop.JPG"
    }
   ],
   "has": [],
@@ -264572,7 +260151,7 @@ window.BUILDINGS = [
  },
  {
   "id": "the-republic-newspaper-office",
-  "n": 2838,
+  "n": 2825,
   "name": "The Republic Newspaper Office",
   "by": "Myron Goldsmith (Skidmore, Owings & Merrill)",
   "place": "Columbus, US",
@@ -264619,18 +260198,6 @@ window.BUILDINGS = [
     "file": "File:Republic Building, Columbus.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/THE_REPUBLIC_%28LOCAL_NEWSPAPER%29%2C_BUILT_IN_1971_-_NARA_-_546543.jpg/1280px-THE_REPUBLIC_%28LOCAL_NEWSPAPER%29%2C_BUILT_IN_1971_-_NARA_-_546543.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/the-republic-newspaper-office/thumbs/2.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Declan Haun",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:THE_REPUBLIC_(LOCAL_NEWSPAPER),_BUILT_IN_1971_-_NARA_-_546543.jpg",
-    "file": "File:THE REPUBLIC (LOCAL NEWSPAPER), BUILT IN 1971 - NARA - 546543.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Former_Republic_newspaper_office%2C_Don_Nissen.jpg/1280px-Former_Republic_newspaper_office%2C_Don_Nissen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/the-republic-newspaper-office/thumbs/3.webp",
     "w": 1280,
@@ -264653,18 +260220,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Republic_Building_Columbus.jpg",
     "file": "File:Republic Building Columbus.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Republic_Newspaper_Office_Building%2C_Columbus%2C_Indiana.jpg/1280px-Republic_Newspaper_Office_Building%2C_Columbus%2C_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/the-republic-newspaper-office/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · It's a long glass-fronted building that formerly housed the Republic Newspaper in Columbus, Indiana",
-    "credit": "born1945",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Republic_Newspaper_Office_Building,_Columbus,_Indiana.jpg",
-    "file": "File:Republic Newspaper Office Building, Columbus, Indiana.jpg"
    }
   ],
   "has": [],
@@ -264672,7 +260227,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thomas-crane-public-library",
-  "n": 2839,
+  "n": 2826,
   "name": "Thomas Crane Public Library",
   "by": "Henry Hobson Richardson",
   "place": "Quincy, US",
@@ -264765,28 +260320,14 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Thomas_Crane_Library,_Quincy,_Mass_(71930).jpg",
     "file": "File:Thomas Crane Library, Quincy, Mass (71930).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Thomas_Crane_Public_Library_%28CBT_section%29%3B_Quincy%2C_MA%3B_east_side%3B_2011-06-05.JPG/1280px-Thomas_Crane_Public_Library_%28CBT_section%29%3B_Quincy%2C_MA%3B_east_side%3B_2011-06-05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/thomas-crane-public-library/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Section",
-    "caption": "Section · The east side of the CBT section of the Thomas Crane Public Library ",
-    "credit": "Emw",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Thomas_Crane_Public_Library_(CBT_section);_Quincy,_MA;_east_side;_2011-06-05.JPG",
-    "file": "File:Thomas Crane Public Library (CBT section); Quincy, MA; east side; 2011-06-05.JPG"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "unitarian-universalist-church-arlington",
-  "n": 2840,
+  "n": 2827,
   "name": "Unitarian Universalist Church of Arlington",
   "by": "Charles M. Goodman",
   "place": "Arlington, US",
@@ -264850,7 +260391,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-states-institute-of-peace-headquarters",
-  "n": 2841,
+  "n": 2828,
   "name": "United States Institute of Peace Headquarters",
   "by": "Moshe Safdie",
   "place": "Washington, D.C., US",
@@ -264950,7 +260491,7 @@ window.BUILDINGS = [
  },
  {
   "id": "united-states-tax-court-building",
-  "n": 2842,
+  "n": 2829,
   "name": "United States Tax Court Building",
   "by": "Victor A. Lundy",
   "place": "Washington, D.C., US",
@@ -264985,18 +260526,6 @@ window.BUILDINGS = [
     "file": "File:Tax Court by Matthew Bisanz.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/United_States_Tax_Court_Building_11.jpg/1280px-United_States_Tax_Court_Building_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/united-states-tax-court-building/thumbs/1.webp",
-    "w": 1090,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Carol Highsmith",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:United_States_Tax_Court_Building_11.jpg",
-    "file": "File:United States Tax Court Building 11.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/United_States_Tax_Court_%2853839144047%29.jpg/1280px-United_States_Tax_Court_%2853839144047%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/united-states-tax-court-building/thumbs/2.webp",
     "w": 1280,
@@ -265026,7 +260555,7 @@ window.BUILDINGS = [
  },
  {
   "id": "van-allen-building",
-  "n": 2843,
+  "n": 2830,
   "name": "Van Allen Building",
   "by": "Louis Sullivan",
   "place": "Clinton, US",
@@ -265126,7 +260655,7 @@ window.BUILDINGS = [
  },
  {
   "id": "w-e-b-du-bois-library",
-  "n": 2844,
+  "n": 2831,
   "name": "W. E. B. Du Bois Library",
   "by": "Edward Durell Stone",
   "place": "Amherst, US",
@@ -265226,7 +260755,7 @@ window.BUILDINGS = [
  },
  {
   "id": "w-r-grace-building",
-  "n": 2845,
+  "n": 2832,
   "name": "W. R. Grace Building",
   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
   "place": "New York, US",
@@ -265295,30 +260824,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:View_of_W_R_Grace_Building.JPG",
     "file": "File:View of W R Grace Building.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_photograph_of_Midtown_Manhattan_%26_Bryant_Park-2008%2C07.jpg/1280px-Aerial_photograph_of_Midtown_Manhattan_%26_Bryant_Park-2008%2C07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/w-r-grace-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Bryant Park, Manhattan, New York City, USA",
-    "credit": "Sonja Pieper  from Karlsruhe, Germany",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Midtown_Manhattan_%26_Bryant_Park-2008,07.jpg",
-    "file": "File:Aerial photograph of Midtown Manhattan & Bryant Park-2008,07.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/West_42nd_Street_-_Bryant_Park_%28buildings%29.jpg/1280px-West_42nd_Street_-_Bryant_Park_%28buildings%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/w-r-grace-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 887,
-    "kind": "Interior",
-    "caption": "Interior · Aerial view of Manhattan, New York City, between Fifth and Sixth Avenues, looking south from 42nd Street",
-    "credit": "Sonja Pieper  from Karlsruhe, Germany",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:West_42nd_Street_-_Bryant_Park_(buildings).jpg",
-    "file": "File:West 42nd Street - Bryant Park (buildings).jpg"
    }
   ],
   "has": [],
@@ -265326,7 +260831,7 @@ window.BUILDINGS = [
  },
  {
   "id": "watergate-complex",
-  "n": 2846,
+  "n": 2833,
   "name": "Watergate Complex",
   "by": "Luigi Moretti, with Milton Fischer",
   "place": "Washington, D.C., US",
@@ -265348,18 +260853,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Watergate_complex%2C_2025.jpg/1280px-Watergate_complex%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/watergate-complex/thumbs/0.webp",
-    "w": 1280,
-    "h": 914,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "PRRfan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Watergate_complex,_2025.jpg",
-    "file": "File:Watergate complex, 2025.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2009_07_26_-_7938-7940_-_Washington_DC_-_Watergate.jpg/1280px-2009_07_26_-_7938-7940_-_Washington_DC_-_Watergate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/watergate-complex/thumbs/1.webp",
@@ -265419,28 +260912,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Watergate_Complex_interior.JPG",
     "file": "File:Watergate Complex interior.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_23_of_36%29.png/1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_23_of_36%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/watergate-complex/thumbs/6.webp",
-    "w": 1280,
-    "h": 994,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Related names:\n \n  Olmsted, F L; Partridge, William B; Langden, James G; Jeffers, Thomas; Payne, Irv",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_23_of_36).png",
-    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 23 of 36).png"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "wiesner-building-mit",
-  "n": 2847,
+  "n": 2834,
   "name": "Wiesner Building (MIT Media Lab)",
   "by": "I. M. Pei & Partners",
   "place": "Cambridge, US",
@@ -265540,7 +261019,7 @@ window.BUILDINGS = [
  },
  {
   "id": "winn-memorial-library",
-  "n": 2848,
+  "n": 2835,
   "name": "Winn Memorial Library",
   "by": "Henry Hobson Richardson",
   "place": "Woburn, US",
@@ -265654,7 +261133,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arthur-and-mona-hofmann-house",
-  "n": 2849,
+  "n": 2836,
   "name": "Arthur and Mona Hofmann House",
   "by": "Richard Neutra, with Otto Winkler",
   "place": "Hillsborough, US",
@@ -265706,7 +261185,7 @@ window.BUILDINGS = [
  },
  {
   "id": "butterfly-house-carmel",
-  "n": 2850,
+  "n": 2837,
   "name": "Butterfly House",
   "by": "Francis W. Wynkoop",
   "place": "Carmel-by-the-Sea, US",
@@ -265741,18 +261220,6 @@ window.BUILDINGS = [
     "file": "File:Butterfly House in Carmel Point.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Butterfly_House_landscape_view.jpg/1280px-Butterfly_House_landscape_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/butterfly-house-carmel/thumbs/1.webp",
-    "w": 1280,
-    "h": 807,
-    "kind": "Context",
-    "caption": "Context · Photograph of the Butterfly House landscape view, Carmel-by-the-Sea, California, USA",
-    "credit": "Gregory Ford Henderson",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Butterfly_House_landscape_view.jpg",
-    "file": "File:Butterfly House landscape view.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Carmel_Point_Butterfly_House.jpg/1280px-Carmel_Point_Butterfly_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/butterfly-house-carmel/thumbs/2.webp",
     "w": 1280,
@@ -265775,6 +261242,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:California_-_Carmel_Beach_-_NARA_-_543336.jpg",
     "file": "File:California - Carmel Beach - NARA - 543336.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Butterfly_House_landscape_view.jpg/1280px-Butterfly_House_landscape_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/butterfly-house-carmel/thumbs/1.webp",
+    "w": 1280,
+    "h": 807,
+    "kind": "Context",
+    "caption": "Context · Photograph of the Butterfly House landscape view, Carmel-by-the-Sea, California, USA",
+    "credit": "Gregory Ford Henderson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Butterfly_House_landscape_view.jpg",
+    "file": "File:Butterfly House landscape view.jpg"
    }
   ],
   "has": [],
@@ -265782,7 +261261,7 @@ window.BUILDINGS = [
  },
  {
   "id": "charles-e-young-research-library",
-  "n": 2851,
+  "n": 2838,
   "name": "Charles E. Young Research Library",
   "by": "A. Quincy Jones and Frederick Earl Emmons",
   "place": "Los Angeles, US",
@@ -265822,7 +261301,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chet-holifield-federal-building",
-  "n": 2852,
+  "n": 2839,
   "name": "Chet Holifield Federal Building",
   "by": "William L. Pereira",
   "place": "Laguna Niguel, US",
@@ -265898,7 +261377,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cinerama-dome",
-  "n": 2853,
+  "n": 2840,
   "name": "Cinerama Dome",
   "by": "Pierre Cabrol and Welton Becket & Associates",
   "place": "Los Angeles, US",
@@ -265957,30 +261436,6 @@ window.BUILDINGS = [
     "file": "File:Cinerama Dome.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/CedricEntertainerMarch04.jpg/1280px-CedricEntertainerMarch04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinerama-dome/thumbs/3.webp",
-    "w": 983,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Bert Sanchez at  https://www.flickr.com/photos/18046403@N03/",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:CedricEntertainerMarch04.jpg",
-    "file": "File:CedricEntertainerMarch04.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cinerama_Dome%2C_interior%2C_Los_Angeles_%28July_2019%29_2.jpg/1280px-Cinerama_Dome%2C_interior%2C_Los_Angeles_%28July_2019%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cinerama-dome/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Front lobby of the Cinerama Dome in Los Angeles as seen from the second floor in July 2019",
-    "credit": "BriefEdits",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cinerama_Dome,_interior,_Los_Angeles_(July_2019)_2.jpg",
-    "file": "File:Cinerama Dome, interior, Los Angeles (July 2019) 2.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Arclight_Hollywood%2C_interior%2C_Los_Angeles_%28July_2019%29_1.jpg/1280px-Arclight_Hollywood%2C_interior%2C_Los_Angeles_%28July_2019%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cinerama-dome/thumbs/5.webp",
     "w": 1280,
@@ -265998,7 +261453,7 @@ window.BUILDINGS = [
  },
  {
   "id": "evans-hall-uc-berkeley",
-  "n": 2854,
+  "n": 2841,
   "name": "Evans Hall",
   "by": "Gardner Dailey",
   "place": "Berkeley, US",
@@ -266074,7 +261529,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hallidie-building",
-  "n": 2855,
+  "n": 2842,
   "name": "Hallidie Building",
   "by": "Willis Polk",
   "place": "San Francisco, US",
@@ -266188,7 +261643,7 @@ window.BUILDINGS = [
  },
  {
   "id": "horatio-west-court",
-  "n": 2856,
+  "n": 2843,
   "name": "Horatio West Court",
   "by": "Irving Gill",
   "place": "Santa Monica, US",
@@ -266276,7 +261731,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyatt-regency-san-francisco",
-  "n": 2857,
+  "n": 2844,
   "name": "Hyatt Regency San Francisco",
   "by": "John Portman & Associates",
   "place": "San Francisco, US",
@@ -266298,18 +261753,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2015-07_Hyatt_Regency_San_Francisco.jpg/1280px-2015-07_Hyatt_Regency_San_Francisco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hyatt-regency-san-francisco/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Nemo bis",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2015-07_Hyatt_Regency_San_Francisco.jpg",
-    "file": "File:2015-07 Hyatt Regency San Francisco.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hyatt_Regency_San_Francisco_%28110103874%29.jpg/1280px-Hyatt_Regency_San_Francisco_%28110103874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hyatt-regency-san-francisco/thumbs/1.webp",
@@ -266347,18 +261790,6 @@ window.BUILDINGS = [
     "file": "File:Hyatt Regency San Francisco - DSC06456.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hyatt_Regency_San_Francisco_-_DSC06460.jpg/1280px-Hyatt_Regency_San_Francisco_-_DSC06460.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hyatt-regency-san-francisco/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Hyatt Regency San Francisco - San Francisco, California, USA",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hyatt_Regency_San_Francisco_-_DSC06460.jpg",
-    "file": "File:Hyatt Regency San Francisco - DSC06460.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Hyatt_Regency_San_Francisco_atrium_with_Eclipse_sculpture_2026_dllu.jpg/1280px-Hyatt_Regency_San_Francisco_atrium_with_Eclipse_sculpture_2026_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hyatt-regency-san-francisco/thumbs/5.webp",
     "w": 1280,
@@ -266376,7 +261807,7 @@ window.BUILDINGS = [
  },
  {
   "id": "los-angeles-county-hall-of-records",
-  "n": 2858,
+  "n": 2845,
   "name": "Los Angeles County Hall of Records",
   "by": "Richard Neutra and Robert Alexander",
   "place": "Los Angeles, US",
@@ -266421,30 +261852,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Records_at_Night.JPG",
     "file": "File:Hall of Records at Night.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Los_Angeles_City_Hall_20.jpg/1280px-Los_Angeles_City_Hall_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/los-angeles-county-hall-of-records/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · A view of Los Angeles City Hall",
-    "credit": "Visitor7",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_20.jpg",
-    "file": "File:Los Angeles City Hall 20.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Los_Angeles_City_Hall_20_%28cropped%29.jpg/1280px-Los_Angeles_City_Hall_20_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/los-angeles-county-hall-of-records/thumbs/3.webp",
-    "w": 1218,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · A view of Los Angeles City Hall",
-    "credit": "Visitor7",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_20_(cropped).jpg",
-    "file": "File:Los Angeles City Hall 20 (cropped).jpg"
    }
   ],
   "has": [],
@@ -266452,7 +261859,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mark-taper-forum",
-  "n": 2859,
+  "n": 2846,
   "name": "Mark Taper Forum",
   "by": "Welton Becket and Associates",
   "place": "Los Angeles, US",
@@ -266511,30 +261918,6 @@ window.BUILDINGS = [
     "file": "File:Mtf day 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/JonesClayburghOthello1971.jpg/1280px-JonesClayburghOthello1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mark-taper-forum/thumbs/3.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Kathleen Ballard, Los Angeles Times",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:JonesClayburghOthello1971.jpg",
-    "file": "File:JonesClayburghOthello1971.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Amazed_%284776702915%29.jpg/1280px-Amazed_%284776702915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mark-taper-forum/thumbs/4.webp",
-    "w": 1280,
-    "h": 1024,
-    "kind": "Interior",
-    "caption": "Interior · Music Center, Down Town Los Angeles",
-    "credit": "Prayitno / Thank you for (12 millions +) view  from Los Angeles, USA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Amazed_(4776702915).jpg",
-    "file": "File:Amazed (4776702915).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Dorothy_Chandler_Pavilion-8428342779.jpg/1280px-Dorothy_Chandler_Pavilion-8428342779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mark-taper-forum/thumbs/5.webp",
     "w": 1280,
@@ -266551,108 +261934,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "neutra-vdl-studio-and-residences",
-  "n": 2860,
-  "name": "Neutra VDL Studio and Residences",
-  "by": "Richard Neutra and Dion Neutra",
-  "place": "Los Angeles, US",
-  "year": "1932",
-  "y": 1932,
-  "type": "House",
-  "movement": "Modernism",
-  "region": "Americas",
-  "era": "1900–1945",
-  "concepts": [
-   "Light & shadow",
-   "Courtyard",
-   "Human comfort"
-  ],
-  "study": "Glass walls open onto patio gardens; small rooms around an open staircase.",
-  "qid": null,
-  "commons": "Category:Neutra VDL Studio and Residences",
-  "lead": "File:Neutra VDL Research House II.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Neutra_VDL_Research_House_II.jpg/1280px-Neutra_VDL_Research_House_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Neutra VDL Research House II",
-    "credit": "Kyle Magnuson  from Los Angeles, United States",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Neutra_VDL_Research_House_II.jpg",
-    "file": "File:Neutra VDL Research House II.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Richard_and_Dion_Neutra_VDL_Research_House_II%2C_2300_Silver_Lake_Blvd._Silver_Lake_5097.jpg/1280px-Richard_and_Dion_Neutra_VDL_Research_House_II%2C_2300_Silver_Lake_Blvd._Silver_Lake_5097.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Front facade, Richard and Dion Neutra VDL Research House II , 2300 Silver Lake Blvd",
-    "credit": "MikeJiroch",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Richard_and_Dion_Neutra_VDL_Research_House_II,_2300_Silver_Lake_Blvd._Silver_Lake_5097.jpg",
-    "file": "File:Richard and Dion Neutra VDL Research House II, 2300 Silver Lake Blvd. Silver Lake 5097.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Neutra_VDL-Studio-and-Residences-03.jpg/1280px-Neutra_VDL-Studio-and-Residences-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · View from Silver Lake Boulevard",
-    "credit": "DavidHartwell",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Neutra_VDL-Studio-and-Residences-03.jpg",
-    "file": "File:Neutra VDL-Studio-and-Residences-03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_back_side_of_the_Richard_and_Dion_Neutra_VDL_Research_House_II%2C_2300_Silver_Lake_Blvd._Silver_Lake_5232.jpg/1280px-The_back_side_of_the_Richard_and_Dion_Neutra_VDL_Research_House_II%2C_2300_Silver_Lake_Blvd._Silver_Lake_5232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Rear facade, Richard and Dion Neutra VDL Research House II , 2300 Silver Lake Blvd",
-    "credit": "MikeJiroch",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_back_side_of_the_Richard_and_Dion_Neutra_VDL_Research_House_II,_2300_Silver_Lake_Blvd._Silver_Lake_5232.jpg",
-    "file": "File:The back side of the Richard and Dion Neutra VDL Research House II, 2300 Silver Lake Blvd. Silver Lake 5232.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Neutra_VDL_bench_shelf.jpg/1280px-Neutra_VDL_bench_shelf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Neutra VDL",
-    "credit": "Daniel Kim  from los angeles, united states",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Neutra_VDL_bench_shelf.jpg",
-    "file": "File:Neutra VDL bench shelf.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Neutra_VDL-Studio-and-Residences-07.jpg/1280px-Neutra_VDL-Studio-and-Residences-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/neutra-vdl-studio-and-residences/thumbs/5.webp",
-    "w": 932,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Living Room",
-    "credit": "DavidHartwell",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Neutra_VDL-Studio-and-Residences-07.jpg",
-    "file": "File:Neutra VDL-Studio-and-Residences-07.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "pacific-design-center",
-  "n": 2861,
+  "n": 2847,
   "name": "Pacific Design Center",
   "by": "César Pelli",
   "place": "West Hollywood, US",
@@ -266752,7 +262035,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-springs-aerial-tramway",
-  "n": 2862,
+  "n": 2848,
   "name": "Palm Springs Aerial Tramway",
   "by": "Albert Frey, John Porter Clark and Robson Chambers (Valley Station); E. Stewart Williams (Mountain Station)",
   "place": "Palm Springs, US",
@@ -266774,42 +262057,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Palm_Springs_Tramway_6_March_1996_-_04.jpg/1280px-Palm_Springs_Tramway_6_March_1996_-_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-springs-aerial-tramway/thumbs/0.webp",
-    "w": 1280,
-    "h": 881,
-    "kind": "Context",
-    "caption": "Context · Palm Springs Tramway 6 March 1996",
-    "credit": "Infrogmation of New Orleans",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palm_Springs_Tramway_6_March_1996_-_04.jpg",
-    "file": "File:Palm Springs Tramway 6 March 1996 - 04.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Dry_wash_area%2C_Palm_Springs_Aerial_Tramway.jpg/1280px-Dry_wash_area%2C_Palm_Springs_Aerial_Tramway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-springs-aerial-tramway/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · \"River of rocks below the tram car",
-    "credit": "Raymond Shobe , Palm Springs, California, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dry_wash_area,_Palm_Springs_Aerial_Tramway.jpg",
-    "file": "File:Dry wash area, Palm Springs Aerial Tramway.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Palm_Springs_Tramway_Mountain_Top_View_March_1996_05.jpg/1280px-Palm_Springs_Tramway_Mountain_Top_View_March_1996_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-springs-aerial-tramway/thumbs/2.webp",
-    "w": 909,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · View from atop Palm Springs tramway",
-    "credit": "Infrogmation",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Palm_Springs_Tramway_Mountain_Top_View_March_1996_05.jpg",
-    "file": "File:Palm Springs Tramway Mountain Top View March 1996 05.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/We%27ve_got_to_stop_meeting_like_this%2C_Palm_Springs_Aerial_Tramway%2C_CA_2015_%2826151516883%29.jpg/1280px-We%27ve_got_to_stop_meeting_like_this%2C_Palm_Springs_Aerial_Tramway%2C_CA_2015_%2826151516883%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palm-springs-aerial-tramway/thumbs/3.webp",
@@ -266840,7 +262087,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-springs-art-museum",
-  "n": 2863,
+  "n": 2849,
   "name": "Palm Springs Art Museum",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -266940,7 +262187,7 @@ window.BUILDINGS = [
  },
  {
   "id": "parker-center",
-  "n": 2864,
+  "n": 2850,
   "name": "Parker Center",
   "by": "Welton Becket & Associates; J.E. Stanton",
   "place": "Los Angeles, US",
@@ -266980,7 +262227,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pearlman-mountain-cabin",
-  "n": 2865,
+  "n": 2851,
   "name": "Pearlman Mountain Cabin",
   "by": "John Lautner",
   "place": "Idyllwild, US",
@@ -267080,7 +262327,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-monica-civic-auditorium",
-  "n": 2866,
+  "n": 2852,
   "name": "Santa Monica Civic Auditorium",
   "by": "Welton Becket & Associates",
   "place": "Santa Monica, US",
@@ -267125,76 +262372,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Civic_Auditorium_entrance_pavilion_2023_September.jpg",
     "file": "File:Santa Monica Civic Auditorium entrance pavilion 2023 September.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Gregory_Peck%2C_Annabella%2C_Sidney_Poitier%2C_and_Anne_Bancroft.jpg/1280px-Gregory_Peck%2C_Annabella%2C_Sidney_Poitier%2C_and_Anne_Bancroft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santa-monica-civic-auditorium/thumbs/2.webp",
-    "w": 1280,
-    "h": 1273,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Los Angeles Times",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gregory_Peck,_Annabella,_Sidney_Poitier,_and_Anne_Bancroft.jpg",
-    "file": "File:Gregory Peck, Annabella, Sidney Poitier, and Anne Bancroft.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Angela_Lansbury_and_Jonathan_Winters_at_the_1965_Academy_Awards.jpg/1280px-Angela_Lansbury_and_Jonathan_Winters_at_the_1965_Academy_Awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santa-monica-civic-auditorium/thumbs/3.webp",
-    "w": 1258,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Comedian Jonathan Winters and actress Angela Lansbury posing with an Oscar at the 1965 Academy Awards",
-    "credit": "John Malmin, Los Angeles Times",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Angela_Lansbury_and_Jonathan_Winters_at_the_1965_Academy_Awards.jpg",
-    "file": "File:Angela Lansbury and Jonathan Winters at the 1965 Academy Awards.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sabinov11Slovakia2.JPG/1280px-Sabinov11Slovakia2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santa-monica-civic-auditorium/thumbs/4.webp",
-    "w": 1280,
-    "h": 928,
-    "kind": "Exterior",
-    "caption": "Exterior · Mesto Sabinov",
-    "credit": "Ing. Mgr. Jozef Kotulič",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sabinov11Slovakia2.JPG",
-    "file": "File:Sabinov11Slovakia2.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Angela_Lansbury_at_the_1965_Academy_Awards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/santa-monica-civic-auditorium/thumbs/5.webp",
-    "w": 979,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Actress Angela Lansbury posing with an Oscar at the 1965 Academy Awards",
-    "credit": "John Malmin, Los Angeles Times",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Angela_Lansbury_at_the_1965_Academy_Awards.jpg",
-    "file": "File:Angela Lansbury at the 1965 Academy Awards.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Electro-Voice_Model_642_Long-Range_Microphone_%281961%29%2C_one_of_the_first_shotgun_microphones%2C_Museum_of_Making_Music.jpg/1280px-Electro-Voice_Model_642_Long-Range_Microphone_%281961%29%2C_one_of_the_first_shotgun_microphones%2C_Museum_of_Making_Music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santa-monica-civic-auditorium/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Electro-Voice Model 642 Microphone, 1961, in the Museum of Making Music",
-    "credit": "doryfour",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Electro-Voice_Model_642_Long-Range_Microphone_(1961),_one_of_the_first_shotgun_microphones,_Museum_of_Making_Music.jpg",
-    "file": "File:Electro-Voice Model 642 Long-Range Microphone (1961), one of the first shotgun microphones, Museum of Making Music.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "sinai-temple-los-angeles",
-  "n": 2867,
+  "n": 2853,
   "name": "Sinai Temple (Los Angeles)",
   "by": "Sidney Eisenshtat; Mehrdad Yazdani with Dworsky Associates (1998 expansion)",
   "place": "Los Angeles, US",
@@ -267239,18 +262424,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Back_of_the_Sinai_Temple,_Westwood,_Los_Angeles.JPG",
     "file": "File:Back of the Sinai Temple, Westwood, Los Angeles.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Simi_Valley_Green_Burial_Park-_Teva.jpg/1280px-Simi_Valley_Green_Burial_Park-_Teva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sinai-temple-los-angeles/thumbs/2.webp",
-    "w": 1280,
-    "h": 865,
-    "kind": "Exterior",
-    "caption": "Exterior · A snapshot of Mount Sinai's Certified Green Burial Park located at their Simi Valley location",
-    "credit": "Acarvalymsmp",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Simi_Valley_Green_Burial_Park-_Teva.jpg",
-    "file": "File:Simi Valley Green Burial Park- Teva.jpg"
    }
   ],
   "has": [],
@@ -267258,7 +262431,7 @@ window.BUILDINGS = [
  },
  {
   "id": "smud-headquarters-building",
-  "n": 2868,
+  "n": 2854,
   "name": "SMUD Headquarters Building",
   "by": "Dreyfuss & Blackford",
   "place": "Sacramento, US",
@@ -267327,18 +262500,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:SMUD_Headquarters_Building_Signage.jpg",
     "file": "File:SMUD Headquarters Building Signage.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/SMUD_Headquarters_Building_Signage_Detail.jpg/1280px-SMUD_Headquarters_Building_Signage_Detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/smud-headquarters-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Asilvero",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SMUD_Headquarters_Building_Signage_Detail.jpg",
-    "file": "File:SMUD Headquarters Building Signage Detail.jpg"
    }
   ],
   "has": [],
@@ -267346,7 +262507,7 @@ window.BUILDINGS = [
  },
  {
   "id": "television-city",
-  "n": 2869,
+  "n": 2855,
   "name": "Television City",
   "by": "William Pereira and Charles Luckman (Pereira & Luckman)",
   "place": "Los Angeles, US",
@@ -267398,7 +262559,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theme-building",
-  "n": 2870,
+  "n": 2856,
   "name": "Theme Building",
   "by": "Pereira & Luckman (William Pereira and Charles Luckman), with Paul Williams and Welton Becket",
   "place": "Los Angeles, US",
@@ -267467,30 +262628,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:LAX_USO_(4030885).jpeg",
     "file": "File:LAX USO (4030885).jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ariel_View_of_Memorial_%2810818529095%29.jpg/1280px-Ariel_View_of_Memorial_%2810818529095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/theme-building/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Sam Howzit",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ariel_View_of_Memorial_(10818529095).jpg",
-    "file": "File:Ariel View of Memorial (10818529095).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bar_detail_at_Encounter_Restaurant_%26_Bar_at_Los_Angeles_International_Airport_%2811300449105%29.jpg/1280px-Bar_detail_at_Encounter_Restaurant_%26_Bar_at_Los_Angeles_International_Airport_%2811300449105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/theme-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · A detail of the bar at Encounter Restaurant & Bar at Los Angeles International Airport",
-    "credit": "Sam Howzit",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bar_detail_at_Encounter_Restaurant_%26_Bar_at_Los_Angeles_International_Airport_(11300449105).jpg",
-    "file": "File:Bar detail at Encounter Restaurant & Bar at Los Angeles International Airport (11300449105).jpg"
    }
   ],
   "has": [],
@@ -267498,7 +262635,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tramway-gas-station",
-  "n": 2871,
+  "n": 2857,
   "name": "Tramway Gas Station",
   "by": "Albert Frey and Robson C. Chambers",
   "place": "Palm Springs, US",
@@ -267574,7 +262711,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wayfarers-chapel",
-  "n": 2872,
+  "n": 2858,
   "name": "Wayfarers Chapel",
   "by": "Lloyd Wright",
   "place": "Rancho Palos Verdes, US",
@@ -267674,7 +262811,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yerba-buena-center-for-the-arts",
-  "n": 2873,
+  "n": 2859,
   "name": "Yerba Buena Center for the Arts",
   "by": "Fumihiko Maki (Galleries and Forum); James Stewart Polshek and Todd Schliemann (Theater)",
   "place": "San Francisco, US",
@@ -267707,30 +262844,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Yerba_Buena_Center_for_the_Arts,_exterior,_from_Yerba_Buena_Gardens,_San_Francisco_(May_2013).jpg",
     "file": "File:Yerba Buena Center for the Arts, exterior, from Yerba Buena Gardens, San Francisco (May 2013).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/YBCA_Novellus_Theater_west_side_1.JPG/1280px-YBCA_Novellus_Theater_west_side_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yerba-buena-center-for-the-arts/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "BrokenSphere",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:YBCA_Novellus_Theater_west_side_1.JPG",
-    "file": "File:YBCA Novellus Theater west side 1.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/YBCA_iPad_2_event.jpg/1280px-YBCA_iPad_2_event.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yerba-buena-center-for-the-arts/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Press prepares for Apple iPad 2 event at Yerba Buena Center for the Arts",
-    "credit": "Robert Scoble",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:YBCA_iPad_2_event.jpg",
-    "file": "File:YBCA iPad 2 event.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/YBCA_iPad_2_preparation.jpg/1280px-YBCA_iPad_2_preparation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -267767,6 +262880,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Yerba_Buena_Center_for_the_Arts,_San_Francisco_(2013)_-_1.JPG",
     "file": "File:Yerba Buena Center for the Arts, San Francisco (2013) - 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/YBCA_Novellus_Theater_west_side_1.JPG/1280px-YBCA_Novellus_Theater_west_side_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yerba-buena-center-for-the-arts/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "BrokenSphere",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:YBCA_Novellus_Theater_west_side_1.JPG",
+    "file": "File:YBCA Novellus Theater west side 1.JPG"
    }
   ],
   "has": [],
@@ -267774,7 +262899,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zellerbach-hall",
-  "n": 2874,
+  "n": 2860,
   "name": "Zellerbach Hall",
   "by": "Vernon DeMars",
   "place": "Berkeley, US",
@@ -267850,7 +262975,7 @@ window.BUILDINGS = [
  },
  {
   "id": "koerner-house",
-  "n": 2875,
+  "n": 2861,
   "name": "Koerner House",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -267883,18 +263008,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Koerner_House_01.jpg",
     "file": "File:Koerner House 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Koerner_House_02.jpg/1280px-Koerner_House_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/koerner-house/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Farragutful",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Koerner_House_02.jpg",
-    "file": "File:Koerner House 02.jpg"
    }
   ],
   "has": [],
@@ -267902,7 +263015,7 @@ window.BUILDINGS = [
  },
  {
   "id": "palm-springs-unified-school-district-educational-administrative-center",
-  "n": 2876,
+  "n": 2862,
   "name": "Palm Springs Unified School District Educational Administrative Center",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -267937,18 +263050,6 @@ window.BUILDINGS = [
     "file": "File:Palm Springs Unified School District Educational Administrative Center.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/PS_Unified_School_District_58.jpg/1280px-PS_Unified_School_District_58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palm-springs-unified-school-district-educational-administrative-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Gillfoto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:PS_Unified_School_District_58.jpg",
-    "file": "File:PS Unified School District 58.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/PS_Unified_School_District_59.jpg/1280px-PS_Unified_School_District_59.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palm-springs-unified-school-district-educational-administrative-center/thumbs/2.webp",
     "w": 1280,
@@ -267959,6 +263060,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:PS_Unified_School_District_59.jpg",
     "file": "File:PS Unified School District 59.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/PS_Unified_School_District_58.jpg/1280px-PS_Unified_School_District_58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palm-springs-unified-school-district-educational-administrative-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PS_Unified_School_District_58.jpg",
+    "file": "File:PS Unified School District 58.jpg"
    }
   ],
   "has": [],
@@ -267966,7 +263079,7 @@ window.BUILDINGS = [
  },
  {
   "id": "santa-fe-federal-savings-and-loan-association",
-  "n": 2877,
+  "n": 2863,
   "name": "Santa Fe Federal Savings and Loan Association",
   "by": "E. Stewart Williams",
   "place": "Palm Springs, US",
@@ -267988,18 +263101,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Edwards_Harris_Pavilion.jpg/1280px-Edwards_Harris_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/santa-fe-federal-savings-and-loan-association/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Future home of the Edwards Harris Pavilion in Palm Springs, California",
-    "credit": "Visitor7",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Edwards_Harris_Pavilion.jpg",
-    "file": "File:Edwards Harris Pavilion.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Palm_Springs_Art_Museum_Architecture_%26_Design_Centerr-Edwards_Harris_Pavilion_01.jpg/1280px-Palm_Springs_Art_Museum_Architecture_%26_Design_Centerr-Edwards_Harris_Pavilion_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/santa-fe-federal-savings-and-loan-association/thumbs/1.webp",
@@ -268053,98 +263154,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "alley-theatre",
-  "n": 2878,
-  "name": "Alley Theatre",
-  "by": "Ulrich Franzen",
-  "place": "Houston, US",
-  "year": "1968",
-  "y": 1968,
-  "type": "Culture & sport",
-  "movement": "Brutalism",
-  "region": "Americas",
-  "era": "1945–1970",
-  "concepts": [
-   "Exposed concrete",
-   "Sculptural form",
-   "Geometry"
-  ],
-  "study": "Concrete Brutalist exterior with no right angles.",
-  "qid": null,
-  "commons": "Category:Alley Theatre",
-  "lead": "File:AlleyTheatreEntrance.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/AlleyTheatreEntrance.jpg/1280px-AlleyTheatreEntrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alley-theatre/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Entrance to the Alley Theatre",
-    "credit": "WhisperToMe",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:AlleyTheatreEntrance.jpg",
-    "file": "File:AlleyTheatreEntrance.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Alley_J%26H.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/alley-theatre/thumbs/1.webp",
-    "w": 877,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Jimdas2012",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alley_J%26H.jpg",
-    "file": "File:Alley J&H.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_B1883_NLGRF_photo_contact_sheet_%281976-10-15%29%28Gerald_Ford_Library%29.jpg/1280px-Ford_B1883_NLGRF_photo_contact_sheet_%281976-10-15%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alley-theatre/thumbs/2.webp",
-    "w": 1081,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "David Hume Kennerly",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ford_B1883_NLGRF_photo_contact_sheet_(1976-10-15)(Gerald_Ford_Library).jpg",
-    "file": "File:Ford B1883 NLGRF photo contact sheet (1976-10-15)(Gerald Ford Library).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Ford_B1881_NLGRF_photo_contact_sheet_%281976-10-15%29%28Gerald_Ford_Library%29.jpg/1280px-Ford_B1881_NLGRF_photo_contact_sheet_%281976-10-15%29%28Gerald_Ford_Library%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alley-theatre/thumbs/3.webp",
-    "w": 1085,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "White House Photographic Office  (WHPO) - Schumacher",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Ford_B1881_NLGRF_photo_contact_sheet_(1976-10-15)(Gerald_Ford_Library).jpg",
-    "file": "File:Ford B1881 NLGRF photo contact sheet (1976-10-15)(Gerald Ford Library).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jimmy_Carter_Library_and_Museum_57.JPG/1280px-Jimmy_Carter_Library_and_Museum_57.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alley-theatre/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Jimmy Carter Library and Museum",
-    "credit": "User:Piotrus",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter_Library_and_Museum_57.JPG",
-    "file": "File:Jimmy Carter Library and Museum 57.JPG"
-   }
-  ],
-  "has": [
-   "Model"
-  ],
-  "gv": 3
- },
- {
   "id": "austin-city-hall",
-  "n": 2879,
+  "n": 2864,
   "name": "Austin City Hall",
   "by": "Antoine Predock; Cotera + Reed Architects",
   "place": "Austin, US",
@@ -268220,7 +263231,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reunion-tower",
-  "n": 2880,
+  "n": 2865,
   "name": "Reunion Tower",
   "by": "Welton Becket & Associates",
   "place": "Dallas, US",
@@ -268253,18 +263264,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Reunion_Tower,_Dallas,_Texas.jpg",
     "file": "File:Reunion Tower, Dallas, Texas.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Reunion_Tower_Dallas_Texas_Closeup_2017.jpg/1280px-Reunion_Tower_Dallas_Texas_Closeup_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/reunion-tower/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Closeup picture of the Reunion Tower in Dallas Texas",
-    "credit": "Robert Kixmiller",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reunion_Tower_Dallas_Texas_Closeup_2017.jpg",
-    "file": "File:Reunion Tower Dallas Texas Closeup 2017.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Reunion_tower_dallas.jpg/1280px-Reunion_tower_dallas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -268303,104 +263302,16 @@ window.BUILDINGS = [
     "file": "File:Reunion Tower - Hyatt Regency.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/View_of_Dallas_City_Hall_from_Reunion_Tower_August_2015_14.jpg/1280px-View_of_Dallas_City_Hall_from_Reunion_Tower_August_2015_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/reunion-tower/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · A view of Dallas City Hall from the GeO-Deck of Reunion Tower in Dallas , Texas ( United States )",
-    "credit": "Michael Barera",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_Dallas_City_Hall_from_Reunion_Tower_August_2015_14.jpg",
-    "file": "File:View of Dallas City Hall from Reunion Tower August 2015 14.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "san-antonio-public-library",
-  "n": 2881,
-  "name": "San Antonio Public Library",
-  "by": "Ricardo Legorreta; Sprinkle Robey Architects; Johnson-Dempsey & Associates",
-  "place": "San Antonio, US",
-  "year": "1995",
-  "y": 1995,
-  "type": "Library",
-  "movement": "Regionalism",
-  "region": "Americas",
-  "era": "1990–2005",
-  "concepts": [
-   "Colour",
-   "Light & shadow",
-   "Double height"
-  ],
-  "study": "Bright yellow multi-storey atrium; exterior in 'Enchilada Red'.",
-  "qid": null,
-  "commons": "Category:San Antonio Public Library",
-  "lead": "File:Central Library II (48874533928).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Central_Library_II_%2848874533928%29.jpg/1280px-Central_Library_II_%2848874533928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-antonio-public-library/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Reunion_Tower_Dallas_Texas_Closeup_2017.jpg/1280px-Reunion_Tower_Dallas_Texas_Closeup_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reunion-tower/thumbs/1.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Central Library II",
-    "credit": "Eden, Janine and Jim  from New York City",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Central_Library_II_(48874533928).jpg",
-    "file": "File:Central Library II (48874533928).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/SAPL4.jpg/1280px-SAPL4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-antonio-public-library/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Zereshk",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAPL4.jpg",
-    "file": "File:SAPL4.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/SAPL5.jpg/1280px-SAPL5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-antonio-public-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Zereshk",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SAPL5.jpg",
-    "file": "File:SAPL5.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Downtown%2C_San_Antonio%2C_United_States_%28Unsplash%29.jpg/1280px-Downtown%2C_San_Antonio%2C_United_States_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-antonio-public-library/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Downtown, San Antonio, United States",
-    "credit": "January Smith  january01smith",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Downtown,_San_Antonio,_United_States_(Unsplash).jpg",
-    "file": "File:Downtown, San Antonio, United States (Unsplash).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/US_Navy_051105-N-5006P-025_Navy_Recruiter%2C_Electrician%27s_Mate_2nd_Class_Adam_Tobias%2C_reads_the_book_Dino_Sailors_to_a_group_of_young_children_at_the_main_branch_of_the_San_Antonio_Public_Library.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-antonio-public-library/thumbs/4.webp",
-    "w": 1280,
-    "h": 862,
     "kind": "Detail",
-    "caption": "Detail · San Antonio, Texas (Nov",
-    "credit": "U.S. Navy photo by Journalist 1st Class Erin Perez",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:US_Navy_051105-N-5006P-025_Navy_Recruiter,_Electrician%27s_Mate_2nd_Class_Adam_Tobias,_reads_the_book_Dino_Sailors_to_a_group_of_young_children_at_the_main_branch_of_the_San_Antonio_Public_Library.jpg",
-    "file": "File:US Navy 051105-N-5006P-025 Navy Recruiter, Electrician's Mate 2nd Class Adam Tobias, reads the book Dino Sailors to a group of young children at the main branch of the San Antonio Public Library.jpg"
+    "caption": "Detail · Closeup picture of the Reunion Tower in Dallas Texas",
+    "credit": "Robert Kixmiller",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reunion_Tower_Dallas_Texas_Closeup_2017.jpg",
+    "file": "File:Reunion Tower Dallas Texas Closeup 2017.jpg"
    }
   ],
   "has": [],
@@ -268408,7 +263319,7 @@ window.BUILDINGS = [
  },
  {
   "id": "thanks-giving-square",
-  "n": 2882,
+  "n": 2866,
   "name": "Thanks-Giving Square",
   "by": "Philip Johnson",
   "place": "Dallas, US",
@@ -268430,30 +263341,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Dallas_Thanks-Giving_Square_01.jpg/1280px-Dallas_Thanks-Giving_Square_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/thanks-giving-square/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Thanks-giving Square, downtown Dallas, Texas",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Thanks-Giving_Square_01.jpg",
-    "file": "File:Dallas Thanks-Giving Square 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Dallas_Thanks-Giving_Square_02.jpg/1280px-Dallas_Thanks-Giving_Square_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/thanks-giving-square/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Thanks-giving Square, downtown Dallas, Texas",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Thanks-Giving_Square_02.jpg",
-    "file": "File:Dallas Thanks-Giving Square 02.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dallas_Chapel_of_Thanksgiving_2008_a.jpg/1280px-Dallas_Chapel_of_Thanksgiving_2008_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/thanks-giving-square/thumbs/2.webp",
@@ -268484,7 +263371,7 @@ window.BUILDINGS = [
  },
  {
   "id": "freeway-park",
-  "n": 2883,
+  "n": 2867,
   "name": "Freeway Park",
   "by": "Lawrence Halprin & Associates (Angela Danadjieva)",
   "place": "Seattle, US",
@@ -268531,42 +263418,6 @@ window.BUILDINGS = [
     "file": "File:Freeway Park canyon.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Freeway_Park_Seattle_26.jpg/1280px-Freeway_Park_Seattle_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/freeway-park/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Freeway_Park_Seattle_26.jpg",
-    "file": "File:Freeway Park Seattle 26.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Freeway_Park_%2B3EV.JPG/1280px-Freeway_Park_%2B3EV.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/freeway-park/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · One of three exposures used to create File:Freeway Park.jpg ",
-    "credit": "Dllu",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Freeway_Park_%2B3EV.JPG",
-    "file": "File:Freeway Park +3EV.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Paul_Pigott_Corridor%2C_Freeway_Park%2C_Seattle_01.jpg/1280px-Paul_Pigott_Corridor%2C_Freeway_Park%2C_Seattle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/freeway-park/thumbs/4.webp",
-    "w": 930,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Paul Piggott Corridor, Freeway Park, leading from First Hill to Downtown, Seattle, Washington",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paul_Pigott_Corridor,_Freeway_Park,_Seattle_01.jpg",
-    "file": "File:Paul Pigott Corridor, Freeway Park, Seattle 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Seattle_Freeway_Park_20.jpg/1280px-Seattle_Freeway_Park_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/freeway-park/thumbs/5.webp",
     "w": 1280,
@@ -268579,26 +263430,24 @@ window.BUILDINGS = [
     "file": "File:Seattle Freeway Park 20.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/James_Webb_Telescope_DC.jpg/1280px-James_Webb_Telescope_DC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/freeway-park/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Freeway_Park_Seattle_26.jpg/1280px-Freeway_Park_Seattle_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freeway-park/thumbs/2.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:James_Webb_Telescope_DC.jpg",
-    "file": "File:James Webb Telescope DC.jpg"
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freeway_Park_Seattle_26.jpg",
+    "file": "File:Freeway Park Seattle 26.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "kingdome",
-  "n": 2884,
+  "n": 2868,
   "name": "Kingdome",
   "by": "Naramore, Skilling & Praeger",
   "place": "Seattle, US",
@@ -268633,18 +263482,6 @@ window.BUILDINGS = [
     "file": "File:Kingdome across parking lot in 1996.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kingdome_and_skyline%2C_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg/1280px-Kingdome_and_skyline%2C_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kingdome/thumbs/1.webp",
-    "w": 1280,
-    "h": 855,
-    "kind": "Context",
-    "caption": "Context · Kingdome and Seattle skyline circa 1985",
-    "credit": "Seattle Municipal Archives  from Seattle, WA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kingdome_and_skyline,_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg",
-    "file": "File:Kingdome and skyline, circa 1985 - Flickr - Seattle Municipal Archives.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kingdome_under_construction_-_1975.jpg/1280px-Kingdome_under_construction_-_1975.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kingdome/thumbs/2.webp",
     "w": 1280,
@@ -268657,30 +263494,6 @@ window.BUILDINGS = [
     "file": "File:Kingdome under construction - 1975.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Kingdome_usage%2C_1980_%2832523178267%29.jpg/1280px-Kingdome_usage%2C_1980_%2832523178267%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kingdome/thumbs/3.webp",
-    "w": 1082,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Breakdown of attendance at the Kingdome, Seattle, Washington, U.S., 1980",
-    "credit": "Seattle Municipal Archives  from Seattle, WA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kingdome_usage,_1980_(32523178267).jpg",
-    "file": "File:Kingdome usage, 1980 (32523178267).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Norm_and_Constance_Rice_at_Mariners_game%2C_1990_%2852420212352%29.jpg/1280px-Norm_and_Constance_Rice_at_Mariners_game%2C_1990_%2852420212352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kingdome/thumbs/4.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Seattle Municipal Archives  from Seattle, WA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Norm_and_Constance_Rice_at_Mariners_game,_1990_(52420212352).jpg",
-    "file": "File:Norm and Constance Rice at Mariners game, 1990 (52420212352).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/10_inside_kindome.jpg/1280px-10_inside_kindome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kingdome/thumbs/5.webp",
     "w": 1280,
@@ -268691,6 +263504,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:10_inside_kindome.jpg",
     "file": "File:10 inside kindome.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kingdome_and_skyline%2C_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg/1280px-Kingdome_and_skyline%2C_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kingdome/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Context",
+    "caption": "Context · Kingdome and Seattle skyline circa 1985",
+    "credit": "Seattle Municipal Archives  from Seattle, WA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kingdome_and_skyline,_circa_1985_-_Flickr_-_Seattle_Municipal_Archives.jpg",
+    "file": "File:Kingdome and skyline, circa 1985 - Flickr - Seattle Municipal Archives.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/MOHAI_-_Kingdome_model_-_raw.jpg/1280px-MOHAI_-_Kingdome_model_-_raw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -268712,7 +263537,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tacoma-dome",
-  "n": 2885,
+  "n": 2869,
   "name": "Tacoma Dome",
   "by": "Jim McGranahan and Lyn Messenger",
   "place": "Tacoma, US",
@@ -268734,18 +263559,6 @@ window.BUILDINGS = [
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Tacoma_Dome_2497.jpg/1280px-Tacoma_Dome_2497.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tacoma-dome/thumbs/0.webp",
-    "w": 1280,
-    "h": 835,
-    "kind": "Exterior",
-    "caption": "Exterior · Tacoma Dome from Interstate 5",
-    "credit": "Chris Light",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tacoma_Dome_2497.jpg",
-    "file": "File:Tacoma Dome 2497.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tacoma_Dome_from_Interstate_5.jpg/1280px-Tacoma_Dome_from_Interstate_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tacoma-dome/thumbs/1.webp",
@@ -268769,42 +263582,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tacoma_Dome_1.JPG",
     "file": "File:Tacoma Dome 1.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_%2849550852368%29.jpg/1280px-2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_%2849550852368%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tacoma-dome/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · 2020--17 February--Bernie Sanders rally in the Tacoma Dome",
-    "credit": "Phil Venditti  from University Place, Washington, USA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_(49550852368).jpg",
-    "file": "File:2020--17 February--Bernie Sanders rally in the Tacoma Dome (49550852368).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_%2849551364666%29.jpg/1280px-2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_%2849551364666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tacoma-dome/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · 2020--17 February--Bernie Sanders rally in the Tacoma Dome",
-    "credit": "Phil Venditti  from University Place, Washington, USA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2020--17_February--Bernie_Sanders_rally_in_the_Tacoma_Dome_(49551364666).jpg",
-    "file": "File:2020--17 February--Bernie Sanders rally in the Tacoma Dome (49551364666).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Tacoma_Link_Skoda_10T_car_at_Tacoma_Dome_station_%282008%29.jpg/1280px-Tacoma_Link_Skoda_10T_car_at_Tacoma_Dome_station_%282008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tacoma-dome/thumbs/5.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Steve Morgan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tacoma_Link_Skoda_10T_car_at_Tacoma_Dome_station_(2008).jpg",
-    "file": "File:Tacoma Link Skoda 10T car at Tacoma Dome station (2008).jpg"
    }
   ],
   "has": [],
@@ -268812,7 +263589,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aubrey-r-watzek-house",
-  "n": 2886,
+  "n": 2870,
   "name": "Aubrey R. Watzek House",
   "by": "John Yeon",
   "place": "Portland, US",
@@ -268876,7 +263653,7 @@ window.BUILDINGS = [
  },
  {
   "id": "eugene-city-hall",
-  "n": 2887,
+  "n": 2871,
   "name": "Eugene City Hall",
   "by": "Stafford, Morin, and Longwood",
   "place": "Eugene, US",
@@ -268952,7 +263729,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chapel-of-the-holy-cross",
-  "n": 2888,
+  "n": 2872,
   "name": "Chapel of the Holy Cross",
   "by": "August K. Strotz and Richard Hein (Anshen & Allen)",
   "place": "Sedona, US",
@@ -268985,18 +263762,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Holy_Cross_From_Below.jpg",
     "file": "File:Chapel of the Holy Cross From Below.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Red_Rock_Scenic_Byway_-_Chapel_of_the_Holy_Cross_-_NARA_-_7721229.jpg/1280px-Red_Rock_Scenic_Byway_-_Chapel_of_the_Holy_Cross_-_NARA_-_7721229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chapel-of-the-holy-cross/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Unknown author Unknown author  or not provided",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Red_Rock_Scenic_Byway_-_Chapel_of_the_Holy_Cross_-_NARA_-_7721229.jpg",
-    "file": "File:Red Rock Scenic Byway - Chapel of the Holy Cross - NARA - 7721229.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Chapel_of_the_Holy_Cross%2C_Sedona%2C_AZ.jpg/1280px-Chapel_of_the_Holy_Cross%2C_Sedona%2C_AZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -269033,18 +263798,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Holy_Cross-1.jpg",
     "file": "File:Chapel of the Holy Cross-1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Birth_of_Christ%2C_Chapel_of_the_Holy_Cross.jpg/1280px-Birth_of_Christ%2C_Chapel_of_the_Holy_Cross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chapel-of-the-holy-cross/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · Statue of the Birth of Christ at the Chapel of the Holy Cross",
-    "credit": "Srikar  Devaguptapu",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Birth_of_Christ,_Chapel_of_the_Holy_Cross.jpg",
-    "file": "File:Birth of Christ, Chapel of the Holy Cross.jpg"
    }
   ],
   "has": [],
@@ -269052,7 +263805,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tempe-municipal-building",
-  "n": 2889,
+  "n": 2873,
   "name": "Tempe Municipal Building",
   "by": "Rolf Osland, Michael Goodwin, and Kemper Goodwin",
   "place": "Tempe, US",
@@ -269111,18 +263864,6 @@ window.BUILDINGS = [
     "file": "File:Tempe Municipal Building-3.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Tempe_City_Hall_-_Tempe%2C_AZ.JPG/1280px-Tempe_City_Hall_-_Tempe%2C_AZ.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tempe-municipal-building/thumbs/3.webp",
-    "w": 1280,
-    "h": 884,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Daderot",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Tempe_City_Hall_-_Tempe,_AZ.JPG",
-    "file": "File:Tempe City Hall - Tempe, AZ.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Rathaus_Tempe.jpg/1280px-Rathaus_Tempe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tempe-municipal-building/thumbs/4.webp",
     "w": 1280,
@@ -269133,6 +263874,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Rathaus_Tempe.jpg",
     "file": "File:Rathaus Tempe.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Tempe_City_Hall_-_Tempe%2C_AZ.JPG/1280px-Tempe_City_Hall_-_Tempe%2C_AZ.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tempe-municipal-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 884,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tempe_City_Hall_-_Tempe,_AZ.JPG",
+    "file": "File:Tempe City Hall - Tempe, AZ.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tempe_City_Hall%2C_Michael_Goodwin%2C_Architect%2C_2013_-_panoramio.jpg/1280px-Tempe_City_Hall%2C_Michael_Goodwin%2C_Architect%2C_2013_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -269152,7 +263905,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dennis-chavez-federal-building",
-  "n": 2890,
+  "n": 2874,
   "name": "Dennis Chavez Federal Building",
   "by": "Flatow, Moore, Bryan, and Fairburn",
   "place": "Albuquerque, US",
@@ -269204,7 +263957,7 @@ window.BUILDINGS = [
  },
  {
   "id": "albuquerque-main-library",
-  "n": 2891,
+  "n": 2875,
   "name": "Albuquerque Main Library",
   "by": "George Pearl (Stevens, Mallory, Pearl and Campbell)",
   "place": "Albuquerque, US",
@@ -269256,7 +264009,7 @@ window.BUILDINGS = [
  },
  {
   "id": "solar-building-albuquerque",
-  "n": 2892,
+  "n": 2876,
   "name": "Solar Building",
   "by": "Stanley & Wright",
   "place": "Albuquerque, US",
@@ -269320,7 +264073,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hoffmantown-baptist-church",
-  "n": 2893,
+  "n": 2877,
   "name": "Hoffmantown Baptist Church",
   "by": "Kruger, Lake and Henderson",
   "place": "Albuquerque, US",
@@ -269360,7 +264113,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bullitt-center",
-  "n": 2894,
+  "n": 2878,
   "name": "Bullitt Center",
   "by": "Miller Hull",
   "place": "Seattle, US",
@@ -269395,42 +264148,6 @@ window.BUILDINGS = [
     "file": "File:Seattle - Bullitt Center 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Bullitt_Center_under_construction.jpg/1280px-Bullitt_Center_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bullitt-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 844,
-    "kind": "Exterior",
-    "caption": "Exterior · Bullitt Center under construction",
-    "credit": "Dennis Bratland",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bullitt_Center_under_construction.jpg",
-    "file": "File:Bullitt Center under construction.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Bullitt_Center%2C_Seattle_under_construction_October_25%2C_2011.jpg/1280px-Bullitt_Center%2C_Seattle_under_construction_October_25%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bullitt-center/thumbs/2.webp",
-    "w": 1046,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Bullitt Center under construction, taken on October 25, 2011",
-    "credit": "erocsid",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bullitt_Center,_Seattle_under_construction_October_25,_2011.jpg",
-    "file": "File:Bullitt Center, Seattle under construction October 25, 2011.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Seattle_in_Dec._2022_-_004.jpg/1280px-Seattle_in_Dec._2022_-_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bullitt-center/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Seattle",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Seattle_in_Dec._2022_-_004.jpg",
-    "file": "File:Seattle in Dec. 2022 - 004.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Seattle_-_Bullitt_Center_interior_01.jpg/1280px-Seattle_-_Bullitt_Center_interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bullitt-center/thumbs/4.webp",
     "w": 1280,
@@ -269460,7 +264177,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fort-worth-water-gardens",
-  "n": 2895,
+  "n": 2879,
   "name": "Fort Worth Water Gardens",
   "by": "Philip Johnson and John Burgee",
   "place": "Fort Worth, US",
@@ -269495,18 +264212,6 @@ window.BUILDINGS = [
     "file": "File:Fort Worth Water Gardens June 2016 6 (Active Pool).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fort_Worth_Water_Gardens_June_2016_2_%28Quiet_Pool%29.jpg/1280px-Fort_Worth_Water_Gardens_June_2016_2_%28Quiet_Pool%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fort-worth-water-gardens/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · The Quiet Pool at the Fort Worth Water Gardens in Fort Worth , Texas ( United States )",
-    "credit": "Michael Barera",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Water_Gardens_June_2016_2_(Quiet_Pool).jpg",
-    "file": "File:Fort Worth Water Gardens June 2016 2 (Quiet Pool).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Fort_Worth_Water_Gardens_05.jpg/1280px-Fort_Worth_Water_Gardens_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/fort-worth-water-gardens/thumbs/2.webp",
     "w": 1050,
@@ -269529,6 +264234,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Water_Gardens_(228688247).jpeg",
     "file": "File:Fort Worth Water Gardens (228688247).jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fort_Worth_Water_Gardens_June_2016_2_%28Quiet_Pool%29.jpg/1280px-Fort_Worth_Water_Gardens_June_2016_2_%28Quiet_Pool%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fort-worth-water-gardens/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · The Quiet Pool at the Fort Worth Water Gardens in Fort Worth , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_Water_Gardens_June_2016_2_(Quiet_Pool).jpg",
+    "file": "File:Fort Worth Water Gardens June 2016 2 (Quiet Pool).jpg"
    }
   ],
   "has": [],
@@ -269536,7 +264253,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nasher-sculpture-center",
-  "n": 2896,
+  "n": 2880,
   "name": "Nasher Sculpture Center",
   "by": "Renzo Piano; Peter Walker (garden)",
   "place": "Dallas, US",
@@ -269583,18 +264300,6 @@ window.BUILDINGS = [
     "file": "File:Nasher Sculpture Center August 2017 8.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Turrell%27s_Tending_%28Blue%29_destroyed.jpg/1280px-Turrell%27s_Tending_%28Blue%29_destroyed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nasher-sculpture-center/thumbs/2.webp",
-    "w": 930,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Turrell%27s_Tending_(Blue)_destroyed.jpg",
-    "file": "File:Turrell's Tending (Blue) destroyed.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Nasher_Sculpture_Center_August_2017_3_%28Nasher_Garden%29.jpg/1280px-Nasher_Sculpture_Center_August_2017_3_%28Nasher_Garden%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nasher-sculpture-center/thumbs/3.webp",
     "w": 1280,
@@ -269612,7 +264317,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wyly-theatre",
-  "n": 2897,
+  "n": 2881,
   "name": "Dee and Charles Wyly Theatre",
   "by": "Joshua Prince-Ramus and Rem Koolhaas (REX | OMA)",
   "place": "Dallas, US",
@@ -269647,18 +264352,6 @@ window.BUILDINGS = [
     "file": "File:Dallas Wyly Theatre 03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Dallas_Wyly_Theatre_from_Winspear_Opera.jpg/1280px-Dallas_Wyly_Theatre_from_Winspear_Opera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wyly-theatre/thumbs/1.webp",
-    "w": 1280,
-    "h": 1015,
-    "kind": "Context",
-    "caption": "Context · Wyly Theatre, Dallas, Texas (seen from Winspear Opera House)",
-    "credit": "Photo: Andreas Praefcke",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Wyly_Theatre_from_Winspear_Opera.jpg",
-    "file": "File:Dallas Wyly Theatre from Winspear Opera.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Distant_view_of_the_Dee_and_Charles_Wyly_Theatre_%28edited%29.jpg/1280px-Distant_view_of_the_Dee_and_Charles_Wyly_Theatre_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wyly-theatre/thumbs/2.webp",
     "w": 1280,
@@ -269671,30 +264364,6 @@ window.BUILDINGS = [
     "file": "File:Distant view of the Dee and Charles Wyly Theatre (edited).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dallas_Center_for_the_Performing_Arts_under_construction_01.jpg/1280px-Dallas_Center_for_the_Performing_Arts_under_construction_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wyly-theatre/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Center_for_the_Performing_Arts_under_construction_01.jpg",
-    "file": "File:Dallas Center for the Performing Arts under construction 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Dallas_Center_for_the_Performing_Arts_under_construction_02.jpg/1280px-Dallas_Center_for_the_Performing_Arts_under_construction_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wyly-theatre/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Center_for_the_Performing_Arts_under_construction_02.jpg",
-    "file": "File:Dallas Center for the Performing Arts under construction 02.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Wyly_foyer_green.jpg/1280px-Wyly_foyer_green.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wyly-theatre/thumbs/5.webp",
     "w": 1280,
@@ -269705,6 +264374,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Wyly_foyer_green.jpg",
     "file": "File:Wyly foyer green.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Dallas_Wyly_Theatre_from_Winspear_Opera.jpg/1280px-Dallas_Wyly_Theatre_from_Winspear_Opera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wyly-theatre/thumbs/1.webp",
+    "w": 1280,
+    "h": 1015,
+    "kind": "Context",
+    "caption": "Context · Wyly Theatre, Dallas, Texas (seen from Winspear Opera House)",
+    "credit": "Photo: Andreas Praefcke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Wyly_Theatre_from_Winspear_Opera.jpg",
+    "file": "File:Dallas Wyly Theatre from Winspear Opera.jpg"
    }
   ],
   "has": [],
@@ -269712,7 +264393,7 @@ window.BUILDINGS = [
  },
  {
   "id": "clyfford-still-museum",
-  "n": 2898,
+  "n": 2882,
   "name": "Clyfford Still Museum",
   "by": "Allied Works Architecture (Brad Cloepfil)",
   "place": "Denver, US",
@@ -269775,108 +264456,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "natural-history-museum-of-utah",
-  "n": 2899,
-  "name": "Natural History Museum of Utah",
-  "by": "Ennead Architects and GSBS",
-  "place": "Salt Lake City, US",
-  "year": "2011",
-  "y": 2011,
-  "type": "Museum",
-  "movement": "Contemporary",
-  "region": "Americas",
-  "era": "2005–today",
-  "concepts": [
-   "Landscape",
-   "Sculptural form",
-   "Earth & local material"
-  ],
-  "study": "Rio Tinto Center, about 163,000 sq ft on a 17-acre campus in the Wasatch foothills.",
-  "qid": null,
-  "commons": "Category:Natural History Museum of Utah",
-  "lead": "File:Natural History Museum of Utah (6882555822).jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Natural_History_Museum_of_Utah_%286882555822%29.jpg/1280px-Natural_History_Museum_of_Utah_%286882555822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/0.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "InSapphoWeTrust  from Los Angeles, California, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_of_Utah_(6882555822).jpg",
-    "file": "File:Natural History Museum of Utah (6882555822).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Walkway_approach.jpg/1280px-Walkway_approach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/1.webp",
-    "w": 1280,
-    "h": 428,
-    "kind": "Exterior",
-    "caption": "Exterior · Walk of Ages at the Natural History Museum of Utah",
-    "credit": "Chris Light",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Walkway_approach.jpg",
-    "file": "File:Walkway approach.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Heliobatis_radians%2C_Lincoln_County%2C_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07176.JPG/1280px-Heliobatis_radians%2C_Lincoln_County%2C_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07176.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Heliobatis radians fossil specimen in the Natural History Museum of Utah, Salt Lake City, Utah, USA",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heliobatis_radians,_Lincoln_County,_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07176.JPG",
-    "file": "File:Heliobatis radians, Lincoln County, Wyoming - Natural History Museum of Utah - DSC07176.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Priscacara_serrata%2C_Lincoln_County%2C_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07172.JPG/1280px-Priscacara_serrata%2C_Lincoln_County%2C_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07172.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Fossil specimen ( Priscacara serrata ) in the Natural History Museum of Utah, Salt Lake City, Utah, USA",
-    "credit": "Daderot",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Priscacara_serrata,_Lincoln_County,_Wyoming_-_Natural_History_Museum_of_Utah_-_DSC07172.JPG",
-    "file": "File:Priscacara serrata, Lincoln County, Wyoming - Natural History Museum of Utah - DSC07172.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Utah_Museum_of_Natural_History.jpg/1280px-Utah_Museum_of_Natural_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/4.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior · Dinosaur display inside the Utah Natural History Museum",
-    "credit": "Scott Catron",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Utah_Museum_of_Natural_History.jpg",
-    "file": "File:Utah Museum of Natural History.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Falcarius_chest_region_salt_lake_city.jpg/1280px-Falcarius_chest_region_salt_lake_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/natural-history-museum-of-utah/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Jens Lallensack",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Falcarius_chest_region_salt_lake_city.jpg",
-    "file": "File:Falcarius chest region salt lake city.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "olympic-sculpture-park",
-  "n": 2900,
+  "n": 2883,
   "name": "Olympic Sculpture Park",
   "by": "Weiss/Manfredi",
   "place": "Seattle, US",
@@ -269911,18 +264492,6 @@ window.BUILDINGS = [
     "file": "File:Olympic Sculpture Park Seattle seen from waterfront.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Olympic_sculpture_park_0442.JPG/1280px-Olympic_sculpture_park_0442.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/olympic-sculpture-park/thumbs/1.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Detail",
-    "caption": "Detail · Olympic Sculpture Park Seattle, WA 09.2008",
-    "credit": "Ronincmc",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Olympic_sculpture_park_0442.JPG",
-    "file": "File:Olympic sculpture park 0442.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Stairway_olympic_sculpture_park_0455.JPG/1280px-Stairway_olympic_sculpture_park_0455.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/olympic-sculpture-park/thumbs/2.webp",
     "w": 1280,
@@ -269933,6 +264502,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stairway_olympic_sculpture_park_0455.JPG",
     "file": "File:Stairway olympic sculpture park 0455.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Olympic_sculpture_park_0442.JPG/1280px-Olympic_sculpture_park_0442.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-sculpture-park/thumbs/1.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Detail",
+    "caption": "Detail · Olympic Sculpture Park Seattle, WA 09.2008",
+    "credit": "Ronincmc",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympic_sculpture_park_0442.JPG",
+    "file": "File:Olympic sculpture park 0442.JPG"
    }
   ],
   "has": [],
@@ -269940,7 +264521,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oregon-convention-center",
-  "n": 2901,
+  "n": 2884,
   "name": "Oregon Convention Center",
   "by": "Zimmer Gunsul Frasca Architects (ZGF)",
   "place": "Portland, US",
@@ -269999,18 +264580,6 @@ window.BUILDINGS = [
     "file": "File:Portland July 2017 04 (Oregon Convention Center).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Stir_Bistro_%2834341456951%29.jpg/1280px-Stir_Bistro_%2834341456951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/oregon-convention-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · Stir Bistro @ Oregon Convention Center, Portland, Oregon, USA",
-    "credit": "Oregon Convention Center",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stir_Bistro_(34341456951).jpg",
-    "file": "File:Stir Bistro (34341456951).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Wizard_World_2017_%2832419309093%29.jpg/1280px-Wizard_World_2017_%2832419309093%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/oregon-convention-center/thumbs/4.webp",
     "w": 1280,
@@ -270021,18 +264590,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wizard_World_2017_(32419309093).jpg",
     "file": "File:Wizard World 2017 (32419309093).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Portland%2C_Oregon_%28August_27%2C_2022%29_-_131.jpg/1280px-Portland%2C_Oregon_%28August_27%2C_2022%29_-_131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/oregon-convention-center/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Portland, Oregon",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland,_Oregon_(August_27,_2022)_-_131.jpg",
-    "file": "File:Portland, Oregon (August 27, 2022) - 131.jpg"
    }
   ],
   "has": [],
@@ -270040,7 +264597,7 @@ window.BUILDINGS = [
  },
  {
   "id": "benaroya-hall",
-  "n": 2902,
+  "n": 2885,
   "name": "Benaroya Hall",
   "by": "LMN Architects",
   "place": "Seattle, US",
@@ -270087,42 +264644,6 @@ window.BUILDINGS = [
     "file": "File:Benaroya Hall, Seattle, Washington, USA cropped.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Benaroya_Hall_at_night_01.jpg/1280px-Benaroya_Hall_at_night_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/benaroya-hall/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Benaroya_Hall_at_night_01.jpg",
-    "file": "File:Benaroya Hall at night 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Heading_to_the_OMF_%285272502944%29.jpg/1280px-Heading_to_the_OMF_%285272502944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/benaroya-hall/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Running out of service through the tunnel to the OMF, making all stops with normal dwell times",
-    "credit": "Atomic Taco  from Seattle, WA, USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heading_to_the_OMF_(5272502944).jpg",
-    "file": "File:Heading to the OMF (5272502944).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/October_2023%2C_Seattle%2C_Washington%2C_US_-_08.jpg/1280px-October_2023%2C_Seattle%2C_Washington%2C_US_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/benaroya-hall/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · October 2023, Seattle, Washington",
-    "credit": "Another Believer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:October_2023,_Seattle,_Washington,_US_-_08.jpg",
-    "file": "File:October 2023, Seattle, Washington, US - 08.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Garden_of_Remembrance_%28Seattle%29.jpg/1280px-Garden_of_Remembrance_%28Seattle%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/benaroya-hall/thumbs/5.webp",
     "w": 1280,
@@ -270140,7 +264661,7 @@ window.BUILDINGS = [
  },
  {
   "id": "henry-art-gallery",
-  "n": 2903,
+  "n": 2886,
   "name": "Henry Art Gallery",
   "by": "Bebb and Gould; Gwathmey Siegel & Associates (expansion)",
   "place": "Seattle, US",
@@ -270199,30 +264720,6 @@ window.BUILDINGS = [
     "file": "File:HAG2.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Town_Crier%2C_v.14%2C_no.50%2C_Dec._13%2C_1919_-_DPLA_-_b3e081ab5d8cda5882572e98ef821dd8_%28page_31%29.jpg/1280px-The_Town_Crier%2C_v.14%2C_no.50%2C_Dec._13%2C_1919_-_DPLA_-_b3e081ab5d8cda5882572e98ef821dd8_%28page_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/henry-art-gallery/thumbs/3.webp",
-    "w": 975,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Annual Christmas number",
-    "credit": "Wood & Reber, Inc",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Town_Crier,_v.14,_no.50,_Dec._13,_1919_-_DPLA_-_b3e081ab5d8cda5882572e98ef821dd8_(page_31).jpg",
-    "file": "File:The Town Crier, v.14, no.50, Dec. 13, 1919 - DPLA - b3e081ab5d8cda5882572e98ef821dd8 (page 31).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Stranger_Genius_2006_02A.jpg/1280px-Stranger_Genius_2006_02A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/henry-art-gallery/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stranger_Genius_2006_02A.jpg",
-    "file": "File:Stranger Genius 2006 02A.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Stranger_Genius_2006_05.jpg/1280px-Stranger_Genius_2006_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/henry-art-gallery/thumbs/5.webp",
     "w": 1280,
@@ -270240,7 +264737,7 @@ window.BUILDINGS = [
  },
  {
   "id": "norton-simon-museum",
-  "n": 2904,
+  "n": 2887,
   "name": "Norton Simon Museum",
   "by": "Thornton Ladd and John Kelsey (Ladd & Kelsey)",
   "place": "Pasadena, US",
@@ -270299,18 +264796,6 @@ window.BUILDINGS = [
     "file": "File:Norton Simon Museum Pasadena CA (51081778692).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Gold_of_Ophir_roses%2C_Carmelita%2C_Pasadena-LCCN2008678185.jpg/1280px-Gold_of_Ophir_roses%2C_Carmelita%2C_Pasadena-LCCN2008678185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/norton-simon-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 966,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Library of Congress\n \n  ''Catalog:''  http://lccn.loc.gov/2008678185",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Gold_of_Ophir_roses,_Carmelita,_Pasadena-LCCN2008678185.jpg",
-    "file": "File:Gold of Ophir roses, Carmelita, Pasadena-LCCN2008678185.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Asian_sculpture_gallery_-_Norton_Simon_Museum_-_Pasadena%2C_CA_-_DSC03542.jpg/1280px-Asian_sculpture_gallery_-_Norton_Simon_Museum_-_Pasadena%2C_CA_-_DSC03542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/norton-simon-museum/thumbs/4.webp",
     "w": 1280,
@@ -270340,7 +264825,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jacobs-medical-center",
-  "n": 2905,
+  "n": 2888,
   "name": "Jacobs Medical Center",
   "by": "CannonDesign",
   "place": "La Jolla, US",
@@ -270416,7 +264901,7 @@ window.BUILDINGS = [
  },
  {
   "id": "burnside-hall",
-  "n": 2906,
+  "n": 2889,
   "name": "Burnside Hall",
   "by": "Marshall, Merrett and Associates",
   "place": "Montréal, CA",
@@ -270440,7 +264925,7 @@ window.BUILDINGS = [
  },
  {
   "id": "confederation-centre-of-the-arts",
-  "n": 2907,
+  "n": 2890,
   "name": "Confederation Centre of the Arts",
   "by": "Ray Affleck, Hazen Sise, Dimitri Dimakopoulos (Arcop)",
   "place": "Charlottetown, CA",
@@ -270464,7 +264949,7 @@ window.BUILDINGS = [
  },
  {
   "id": "macmillan-bloedel-building",
-  "n": 2908,
+  "n": 2891,
   "name": "MacMillan Bloedel Building",
   "by": "Arthur Erickson (Erickson/Massey Architects)",
   "place": "Vancouver, CA",
@@ -270488,7 +264973,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maison-de-radio-canada",
-  "n": 2909,
+  "n": 2892,
   "name": "Maison de Radio-Canada",
   "by": "Tore Björnstad",
   "place": "Montréal, CA",
@@ -270512,7 +264997,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lester-b-pearson-building",
-  "n": 2910,
+  "n": 2893,
   "name": "Lester B. Pearson Building",
   "by": "WZMH Architects",
   "place": "Ottawa, CA",
@@ -270536,7 +265021,7 @@ window.BUILDINGS = [
  },
  {
   "id": "theatre-maisonneuve",
-  "n": 2911,
+  "n": 2894,
   "name": "Théâtre Maisonneuve",
   "by": "David & Boulva",
   "place": "Montréal, CA",
@@ -270560,7 +265045,7 @@ window.BUILDINGS = [
  },
  {
   "id": "roy-thomson-hall",
-  "n": 2912,
+  "n": 2895,
   "name": "Roy Thomson Hall",
   "by": "Arthur Erickson, Mathers and Haldenby",
   "place": "Toronto, CA",
@@ -270584,7 +265069,7 @@ window.BUILDINGS = [
  },
  {
   "id": "remai-modern",
-  "n": 2913,
+  "n": 2896,
   "name": "Remai Modern",
   "by": "Bruce Kuwabara (KPMB Architects) with Architecture49",
   "place": "Saskatoon, CA",
@@ -270608,7 +265093,7 @@ window.BUILDINGS = [
  },
  {
   "id": "halifax-central-library",
-  "n": 2914,
+  "n": 2897,
   "name": "Halifax Central Library",
   "by": "Schmidt Hammer Lassen with Fowler Bauld & Mitchell",
   "place": "Halifax, CA",
@@ -270632,7 +265117,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-bibliotheque",
-  "n": 2915,
+  "n": 2898,
   "name": "Grande Bibliothèque",
   "by": "Patkau Architects with Croft-Pelletier",
   "place": "Montréal, CA",
@@ -270656,7 +265141,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mississauga-civic-centre",
-  "n": 2916,
+  "n": 2899,
   "name": "Mississauga Civic Centre",
   "by": "Jones and Kirkland",
   "place": "Mississauga, CA",
@@ -270680,7 +265165,7 @@ window.BUILDINGS = [
  },
  {
   "id": "igloo-church-inuvik",
-  "n": 2917,
+  "n": 2900,
   "name": "Our Lady of Victory Church (Igloo Church)",
   "by": "Maurice Larocque",
   "place": "Inuvik, CA",
@@ -270704,7 +265189,7 @@ window.BUILDINGS = [
  },
  {
   "id": "supreme-court-of-canada-building",
-  "n": 2918,
+  "n": 2901,
   "name": "Supreme Court of Canada Building",
   "by": "Ernest Cormier",
   "place": "Ottawa, CA",
@@ -270728,7 +265213,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edmonton-city-hall",
-  "n": 2919,
+  "n": 2902,
   "name": "Edmonton City Hall",
   "by": "Dub Architects",
   "place": "Edmonton, CA",
@@ -270752,7 +265237,7 @@ window.BUILDINGS = [
  },
  {
   "id": "peace-bridge-calgary",
-  "n": 2920,
+  "n": 2903,
   "name": "Peace Bridge",
   "by": "Santiago Calatrava",
   "place": "Calgary, CA",
@@ -270776,7 +265261,7 @@ window.BUILDINGS = [
  },
  {
   "id": "monumento-a-la-revolucion",
-  "n": 2921,
+  "n": 2904,
   "name": "Monumento a la Revolución",
   "by": "Émile Bénard, Carlos Obregón Santacilia",
   "place": "Mexico City, MX",
@@ -270800,7 +265285,7 @@ window.BUILDINGS = [
  },
  {
   "id": "torre-del-reformador",
-  "n": 2922,
+  "n": 2905,
   "name": "Torre del Reformador",
   "by": "Arturo Bickford",
   "place": "Guatemala City, GT",
@@ -270824,7 +265309,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capitolio-de-puerto-rico",
-  "n": 2923,
+  "n": 2906,
   "name": "Capitol of Puerto Rico",
   "by": "Rafael Carmoega",
   "place": "San Juan, PR",
@@ -270848,7 +265333,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-nacional-de-cuba",
-  "n": 2924,
+  "n": 2907,
   "name": "Hotel Nacional de Cuba",
   "by": "McKim, Mead and White",
   "place": "Havana, CU",
@@ -270872,7 +265357,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gran-teatro-de-la-habana",
-  "n": 2925,
+  "n": 2908,
   "name": "Gran Teatro de La Habana",
   "by": "Paul Belau",
   "place": "Havana, CU",
@@ -270896,7 +265381,7 @@ window.BUILDINGS = [
  },
  {
   "id": "saint-josephs-oratory",
-  "n": 2926,
+  "n": 2909,
   "name": "Saint Joseph's Oratory",
   "by": "Dalbé Viau, Alphonse Venne, Lucien Parent, Dom Paul Bellot",
   "place": "Montréal, CA",
@@ -270920,7 +265405,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chateau-frontenac",
-  "n": 2927,
+  "n": 2910,
   "name": "Château Frontenac",
   "by": "Bruce Price",
   "place": "Quebec City, CA",
@@ -270944,7 +265429,7 @@ window.BUILDINGS = [
  },
  {
   "id": "union-station-toronto",
-  "n": 2928,
+  "n": 2911,
   "name": "Union Station",
   "by": "Ross and Macdonald",
   "place": "Toronto, CA",
@@ -270968,7 +265453,7 @@ window.BUILDINGS = [
  },
  {
   "id": "old-city-hall-toronto",
-  "n": 2929,
+  "n": 2912,
   "name": "Old City Hall",
   "by": "E. J. Lennox",
   "place": "Toronto, CA",
@@ -270992,7 +265477,7 @@ window.BUILDINGS = [
  },
  {
   "id": "quebec-parliament-building",
-  "n": 2930,
+  "n": 2913,
   "name": "Parliament Building of Quebec",
   "by": "Eugène-Étienne Taché",
   "place": "Quebec City, CA",
@@ -271016,7 +265501,7 @@ window.BUILDINGS = [
  },
  {
   "id": "centre-block-ottawa",
-  "n": 2931,
+  "n": 2914,
   "name": "Centre Block",
   "by": "John A. Pearson, Jean-Omer Marchand",
   "place": "Ottawa, CA",
@@ -271040,7 +265525,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rogers-centre",
-  "n": 2932,
+  "n": 2915,
   "name": "Rogers Centre",
   "by": "Rod Robbie (Robbie Adjeleian NORR Consortium)",
   "place": "Toronto, CA",
@@ -271064,7 +265549,7 @@ window.BUILDINGS = [
  },
  {
   "id": "calgary-city-hall",
-  "n": 2933,
+  "n": 2916,
   "name": "Calgary City Hall",
   "by": "William M. Dodd",
   "place": "Calgary, CA",
@@ -271088,7 +265573,7 @@ window.BUILDINGS = [
  },
  {
   "id": "william-g-davis-building",
-  "n": 2934,
+  "n": 2917,
   "name": "William G. Davis Building",
   "by": "Raymond Moriyama",
   "place": "Mississauga, CA",
@@ -271112,7 +265597,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hamilton-city-hall",
-  "n": 2935,
+  "n": 2918,
   "name": "Hamilton City Hall",
   "by": "Stanley Roscoe",
   "place": "Hamilton, CA",
@@ -271136,7 +265621,7 @@ window.BUILDINGS = [
  },
  {
   "id": "plaza-de-las-tres-culturas",
-  "n": 2936,
+  "n": 2919,
   "name": "Plaza de las Tres Culturas",
   "by": "Mario Pani",
   "place": "Mexico City, MX",
@@ -271160,7 +265645,7 @@ window.BUILDINGS = [
  },
  {
   "id": "teatro-nacional-de-panama",
-  "n": 2937,
+  "n": 2920,
   "name": "National Theatre of Panama",
   "by": "Genaro Ruggieri",
   "place": "Panama City, PA",
@@ -271184,7 +265669,7 @@ window.BUILDINGS = [
  },
  {
   "id": "toronto-reference-library",
-  "n": 2938,
+  "n": 2921,
   "name": "Toronto Reference Library",
   "by": "Raymond Moriyama",
   "place": "Toronto, CA",

@@ -11620,6 +11620,11 @@
   "add": [
    "File:Barka wynurzenie i centrum nauki kopernik.jpg",
    "File:Centrum Nauki Kopernik - Warszawa (1).jpg"
+  ],
+  "skip": [
+   "File:Bar samoobsługiwy Centrum Nauki Kopernik w Warszawie.jpg",
+   "File:Copernicus Science Center, Warsaw.JPG",
+   "File:Seasons model Copernicus Science Center.jpg"
   ]
  },
  "university-of-warsaw-library": {
@@ -11628,6 +11633,10 @@
    "File:Warszawa - Biblioteka Uniwersytecka - 06.10.2025 10-03-43.jpg",
    "File:University of Warsaw Library - BUW - 1994-1998 - BUW (50571954423).jpg",
    "File:Warsaw University library (22572).jpg"
+  ],
+  "skip": [
+   "File:Plan Kanału Augustowskiego.jpg",
+   "File:Blaise Nicolas Le Sueur - Frauenakt.jpg"
   ]
  },
  "gdansk-shakespeare-theatre": {
@@ -11636,6 +11645,9 @@
    "File:Gdańsk ulica Bogusławskiego 1 – Gdański Teatr Szekspirowski.JPG",
    "File:Gdansk 2015 005.jpg",
    "File:Gdansk Teatr Szekspirowski 2.jpg"
+  ],
+  "skip": [
+   "File:Poland. Gdańsk 006.JPG"
   ]
  },
  "museum-of-the-second-world-war-gdansk": {
@@ -11643,6 +11655,10 @@
   "add": [
    "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (1).jpg",
    "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (2).jpg"
+  ],
+  "skip": [
+   "File:Museum of the Second World War in Gdańsk 2025d.jpg",
+   "File:Museum of the Second World War in Gdańsk 2025a.jpg"
   ]
  },
  "divine-mercy-church-kalisz": {
@@ -11667,6 +11683,10 @@
    "File:Bílkova vila (06).jpg",
    "File:Bílkova vila (04).jpg",
    "File:Bilkovavila.jpg"
+  ],
+  "skip": [
+   "File:Chotkova a Badeniho, z lávky (02).jpg",
+   "File:Chotkova, křižovatka a Bílkova vila.jpg"
   ]
  },
  "legiobanka-prague": {
@@ -11683,6 +11703,12 @@
    "File:2015-07 Praha (4).jpg",
    "File:20190202 InteCon@Praha 2829 (47440481521).jpg",
    "File:20190202 InteCon@Praha 2912 (40474610193).jpg"
+  ],
+  "skip": [
+   "File:Plakette des Intercontinental (Prague).JPG",
+   "File:Hotel InterContinental Praha.jpg",
+   "File:Praha, Pařížská, Hotel InterContinental Praha, skleněná kostka.jpg",
+   "File:20190202 InteCon@Praha 2821 (47387507672).jpg"
   ]
  },
  "colonnade-bridge-piestany": {
@@ -11691,6 +11717,10 @@
    "File:Kolonadovy most (2022-02-14).jpg",
    "File:Kolonádový most - panoramio (1).jpg",
    "File:Kolonádový most Piešťany.jpg"
+  ],
+  "skip": [
+   "File:Kolonádový most Piešťany.jpg",
+   "File:Kolonádový most v Piešťanoch.jpg"
   ]
  },
  "hotel-de-ville-le-havre": {
@@ -11698,6 +11728,12 @@
    "File:Hôtel de Ville du Havre (54869965992).jpg",
    "File:Hôtel de Ville du Havre (53893881495).jpg",
    "File:Le Havre Place Hôtel de Ville R01.jpg"
+  ],
+  "skip": [
+   "File:Tramway-place-de-l'Hotel-de-ville-du-Havre-DSC 0871.jpg",
+   "File:Le Havre - 76600 - 2024.07.07 - Halte-crèche « Les petits Paris » (dessins sur la vitre pour les Jeux olympiques de Paris 2024) © Anthony Levrot.jpg",
+   "File:Soldats ayant reçu une décoration - devant l'hôtel de ville du Havre - A. M. Noël - btv1b10594968p.jpg",
+   "File:Maquette pour un calendrier pour le journal \"Le Petit Havre\" représentant l'hôtel de ville - btv1b10122019p.jpg"
   ]
  },
  "muma-le-havre": {
@@ -11705,6 +11741,9 @@
    "File:MuMA, Le Havre.jpg",
    "File:Le Havre - MuMa Musée d'art moderne André Malraux (39142543755).jpg",
    "File:Le musée d'art moderne André Malraux (Le Havre) (51487304038).jpg"
+  ],
+  "skip": [
+   "File:(Albi) Cheval de selle - Edgar Degas - Musée d'Art moderne André Malraux.jpg"
   ]
  },
  "la-grande-borne": {
@@ -11725,6 +11764,11 @@
    "File:Tour Montparnasse 20250513.jpg",
    "File:Montparnasse Tower seen from the Jardin du Luxembourg 2.jpg",
    "File:Tour Montparnasse @ Paris (23379715554).jpg"
+  ],
+  "skip": [
+   "File:Tour Montparnasse @ Paris (23379715554).jpg",
+   "File:Montparnasse @ Paris (23712821420).jpg",
+   "File:Tallest buildings in Paris - comparison graph.png"
   ]
  },
  "stade-de-france": {
@@ -11732,6 +11776,11 @@
   "add": [
    "File:Stade de France (48109548381).jpg",
    "File:Stade de France tour (48097673993).jpg"
+  ],
+  "skip": [
+   "File:Pose du dernier troncon de la toiture du stade de france.jpg",
+   "File:Stade de France @ Parc départemental Georges-Valbon 01.jpg",
+   "File:Pose première pierre Stade de France 1995.jpg"
   ]
  },
  "accor-arena-bercy": {
@@ -11739,6 +11788,9 @@
    "File:AccorHotels Arena @ Bercy @ Paris (27157316713).jpg",
    "File:Palais Omnisports de Paris-Bercy 01.jpg",
    "File:Palais Omnisports de Paris-Bercy in Paris.jpg"
+  ],
+  "skip": [
+   "File:Intérieur Arena Bercy - Paris XII (FR75) - 2024-08-31 - 1.jpg"
   ]
  },
  "ministere-des-finances-bercy": {
@@ -11746,6 +11798,13 @@
    "File:Paris - Ministère de l'Économie et des Finances & Pont de Bercy (23219016895).jpg",
    "File:Paris - Ministère de l'Économie et des Finances (22824880527).jpg",
    "File:Paris - Ministère de l'Économie et des Finances (23192896446).jpg"
+  ],
+  "skip": [
+   "File:Bury - Modèles de serrurerie - planche 39.jpg",
+   "File:Vues de Paris Rue de Rivoli Ministères des Finances et de la Marine. Paris Musées 20230620160417.jpg",
+   "File:Dome Painting inside the Monnaie de Paris.jpg",
+   "File:Copie manuscrite, certifiée conforme par l'administrateur des contributions directes, du plan établi en 1822 de l'Hôtel du Ministère des Finances construit sur un terrain situé entre les rues de Rivoli... - btv1b53260457b.jpg",
+   "File:Ministère des Finances - Cour d'honneur - brûlé en 1871 et construit sur l'emplacement du Couvent des Feuillants - dessin - Augustus Charles Pugin - btv1b103026549.jpg"
   ]
  },
  "cite-des-sciences-et-de-l-industrie": {
@@ -11753,6 +11812,9 @@
    "File:Cité des Sciences et de l'Industrie, La Villette, Paris - France (63392).jpg",
    "File:Cité des Sciences et de l'Industrie @ Parc de La Villette @ Paris (28853466272).jpg",
    "File:Back of the Cité des sciences et de l'industrie 4.jpg"
+  ],
+  "skip": [
+   "File:Cité des Sciences et de lIndustrie 11, November 18, 2012.jpg"
   ]
  },
  "palais-de-tokyo": {
@@ -11761,6 +11823,9 @@
    "File:Palais de Tokyo et sa fontaine au printemps.jpg",
    "File:Palais de Tokyo @ Paris (31028565970).jpg",
    "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg"
+  ],
+  "skip": [
+   "File:Palais de Tokyo and Passerelle Debilly, Paris 6 March 2015.jpg"
   ]
  },
  "palais-de-chaillot": {
@@ -11768,6 +11833,9 @@
    "File:Palais de Chaillot from the Jardins du Trocadéro.jpg",
    "File:Palais de Chaillot (July 2022).jpg",
    "File:Paris le palais de Chaillot au Trocadéro.jpg"
+  ],
+  "skip": [
+   "File:Stairs (29592941504).jpg"
   ]
  },
  "mobilier-national-paris": {
@@ -11775,6 +11843,9 @@
    "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (01).jpg",
    "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (02).jpg",
    "File:Siège du Mobilier national - rue Berbier-du-Mets - 2024 (03).jpg"
+  ],
+  "skip": [
+   "File:Sculpture de chien - André Abbal - Mobilier national - 2024 (02).jpg"
   ]
  },
  "bourse-de-commerce-pinault-collection": {
@@ -11787,6 +11858,9 @@
   "add": [
    "File:Halle Freyssinet, Paris 13e.jpg",
    "File:Halle Freyssinet - Station F - Outside.jpg"
+  ],
+  "skip": [
+   "File:Jeff Koons’ artwork ‘Play-Doh’, created in 2014 - 2026-05-05.jpg"
   ]
  },
  "passerelle-simone-de-beauvoir": {
@@ -11794,6 +11868,9 @@
    "File:Passerelle Simone-de-Beauvoir @ Seine @ Paris (28410220012).jpg",
    "File:Passerelle Simone de Beauvoir, Paris 2 December 2006.jpg",
    "File:Passerelle Simone-de-Beauvoir.jpg"
+  ],
+  "skip": [
+   "File:Graffiti On The Passerelle Simone-de-Beauvoir Over The Seine - Paris 2013.jpg"
   ]
  },
  "halle-tony-garnier": {
@@ -11826,6 +11903,9 @@
    "File:Église Saint-Christophe-de-Javel.jpg",
    "File:Eglise Saint Christophe de Javel @ Paris 15 (32270740404).jpg",
    "File:Église Saint-Christophe-de-Javel 1.jpg"
+  ],
+  "skip": [
+   "File:24-7-32, bénédiction des motos à l'église Saint-Christophe de Javel (devant Mgr Crépin) - btv1b53257694h.jpg"
   ]
  },
  "bibliotheque-sainte-genevieve": {
@@ -11833,6 +11913,10 @@
    "File:Paris Bibliothèque Sainte-Geneviève facade.jpg",
    "File:Bibliothèque Sainte-Geneviève, façade.jpg",
    "File:Façade de la Bibliothèque Sainte-Geneviève, sud-est.JPG"
+  ],
+  "skip": [
+   "File:A la bibliothèque Ste Geneviève. 1, G.19701(2).jpg",
+   "File:Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event (1).jpg"
   ]
  },
  "notre-dame-de-toute-grace-assy": {
@@ -11868,6 +11952,11 @@
    "File:Hôtel Ville Boulogne Billancourt 2.jpg",
    "File:Hôtel Ville Boulogne Billancourt 3.jpg",
    "File:Hôtel Ville - Boulogne-Billancourt (FR92) - 2023-09-02 - 1.jpg"
+  ],
+  "skip": [
+   "File:Mercedes-Benz Citaro C2 n°6836 (RATP - Ligne 389) - (Boulogne-Billancourt - FR92) - 06-04-2024.jpg",
+   "File:Mercedes-Benz Citaro Facelift n°6617 (RATP - Ligne 389) - (Hôtel de Ville de Boulogne-Billancourt, Avenue André-Morizet) - (Boulogne-Billancourt, FR92) - 08-02-2025 2.jpg",
+   "File:Mercedes-Benz Citaro Facelift n°6617 (RATP - Ligne 389) - (Hôtel de Ville de Boulogne-Billancourt, Avenue André-Morizet) - (Boulogne-Billancourt, FR92) - 08-02-2025 1.jpg"
   ]
  },
  "stade-velodrome-marseille": {
@@ -11875,6 +11964,12 @@
    "File:Marseille Vélodrome 1.jpg",
    "File:Marseille Vélodrome 2.jpg",
    "File:Stade Vélodrome Marseille France.jpg"
+  ],
+  "skip": [
+   "File:Marseille Vélodrome 1.jpg",
+   "File:Marseille Vélodrome 2.jpg",
+   "File:Psenatore.jpg",
+   "File:Supporters marseillais lors de PSG 1-3 OM.jpg"
   ]
  },
  "pont-de-normandie": {
@@ -11889,6 +11984,10 @@
    "File:Bourse de commerce de Paris.jpg",
    "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51271877176).jpg",
    "File:La Bourse de commerce transformée par Tadao Ando (Paris) (51272095538).jpg"
+  ],
+  "skip": [
+   "File:Bourse de commerce, Paris, installation.jpg",
+   "File:Sega Bodega 2025.jpg"
   ]
  },
  "tour-hekla": {
@@ -11903,6 +12002,13 @@
    "File:Les terrasses de la villa Arson (Nice) (5954199627).jpg",
    "File:L'entrée de la villa Arson (Nice) (5954762236).jpg",
    "File:Villa Arson - ancien batiment.jpg"
+  ],
+  "skip": [
+   "File:Explication de l'historique de la Villa Arson durant les journées du Patrimoine 2009.jpg",
+   "File:La Villa Arson (A. Mossa).jpg",
+   "File:Le monastère et la Villa Arson à Saint-Barthélémy (Jacques GUIAUD).jpg",
+   "File:Magnolia - Villa Arson - 2.jpg",
+   "File:Villa Arson atelier dessin 2.jpg"
   ]
  },
  "roma-termini": {
@@ -11917,6 +12023,12 @@
    "File:Stadio dei Marmi (cropped).jpg",
    "File:Stadio dei Marmi e Palazzo della Farnesina (34393342414).jpg",
    "File:Stadio Olimpico e Stadio dei Marmi.jpg"
+  ],
+  "skip": [
+   "File:Stadio dei Marmi (cropped).jpg",
+   "File:Stadio dei Marmi e Palazzo della Farnesina (34393342414).jpg",
+   "File:Stadio Olimpico e Stadio dei Marmi.jpg",
+   "File:Stadio dei Marmi e Palazzo della Farnesina (34428689913).jpg"
   ]
  },
  "santi-pietro-e-paolo-eur": {
@@ -11924,6 +12036,10 @@
    "File:Santi Petro e Paolo a Via Ostiense, Jul 21.jpg",
    "File:Roma EUR Basilica santi Pietro e Paolo.jpg",
    "File:Basilica dei Santi Pietro e Paolo.jpeg"
+  ],
+  "skip": [
+   "File:Roma, basilica dei Santi Pietro e Paolo - Ambone di destra.jpg",
+   "File:Roma, basilica dei Santi Pietro e Paolo - Ambone di sinistra.jpg"
   ]
  },
  "villa-necchi-campiglio": {
@@ -11931,6 +12047,9 @@
    "File:Villa Necchi Campiglio 20220818-174847.jpg",
    "File:Villa necchi campiglio, esterno 01.jpg",
    "File:Villa necchi campiglio, esterno, piscina 01.jpg"
+  ],
+  "skip": [
+   "File:Pianta-in-villa-necchi-milano.jpg"
   ]
  },
  "torre-galfa": {
@@ -11943,11 +12062,20 @@
  "palazzo-di-giustizia-milano": {
   "add": [
    "File:Il Palazzo di Giustizia di Milano, sede del Tribunale, opera di Marcello Piacentini.jpg"
+  ],
+  "skip": [
+   "File:Libero andreotti, bozzetto per la giustizia per il palazzo della giustizia di milano, 1932 ca. 01.jpg",
+   "File:Libero andreotti, la giustizia, per il palazzo della giustizia di milano, 02.jpg"
   ]
  },
  "museo-della-civilta-romana": {
   "add": [
    "File:Roma 2011 08 22 Museo Civiltà Romana colonnato fronte.jpg"
+  ],
+  "skip": [
+   "File:Antinous of the Museo Gregoriano Egizio (cast), Roman, late Hadrianic age, from the Museo della Civilta Romana, MCR 2422 - on exhibit in the Musei Capitolini - Rome, Italy - DSC06145.jpg",
+   "File:Museos Capitolinos, Roma, Italia, 2022-09-16, DD 67.jpg",
+   "File:Domiziano Imperatore Odio e Amore 20220924 154542 (52389529734).jpg"
   ]
  },
  "nuovo-villaggio-matteotti": {
@@ -11956,6 +12084,9 @@
    "File:Giancarlo de carlo, villaggio matteotti, 1969-74, giardini 01.jpg",
    "File:Giancarlo de carlo, villaggio matteotti, 1969-74, 13.jpg",
    "File:Giancarlo de carlo, villaggio matteotti, 1969-74, scale 07.jpg"
+  ],
+  "skip": [
+   "File:Villaggio Matteotti (Terni) 01.jpg"
   ]
  },
  "lingotto": {
@@ -11963,6 +12094,10 @@
    "File:2026-06-13-Lingotto.jpg",
    "File:Fiat Lingotto Rooftop Racetrack 3.jpg",
    "File:2026-06-13-Lingotto-Rampe.jpg"
+  ],
+  "skip": [
+   "File:2026-06-13-Lingotto-Rampe.jpg",
+   "File:Stazione Lingotto.jpg"
   ]
  },
  "palavela": {
@@ -11987,6 +12122,9 @@
    "File:Palazzo della Farnesina.jpg",
    "File:Palazzo della Farnesina, Zentrale des Außenministeriums in Rom, 2025.jpg",
    "File:La Farnesina Roma DSC00418.JPG"
+  ],
+  "skip": [
+   "File:La Farnesina Roma DSC00418.JPG"
   ]
  },
  "stadio-renato-dall-ara": {
@@ -11994,6 +12132,11 @@
    "File:Bologna, Stadio Renato Dall'Ara.jpg",
    "File:Stadio Dall'Ara.jpg",
    "File:Stadio Renato Dall'Ara 2019.jpg"
+  ],
+  "skip": [
+   "File:Bologna, Stadio Renato Dall'Ara.jpg",
+   "File:Serie A 1975-10-05 Bologna v Torino - Paolo Pulici.jpg",
+   "File:1974–75 Bologna FC - Eraldo Pecci.jpg"
   ]
  },
  "stazione-di-venezia-santa-lucia": {
@@ -12015,11 +12158,20 @@
    "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 01.jpg",
    "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 04.JPG",
    "File:Palazzo querini stampalia, piano terra e giardino di carlo scarpa 05.jpg"
+  ],
+  "skip": [
+   "File:Murano, lampadario rezzonico, 1870 ca. 01.JPG"
   ]
  },
  "venezuela-pavilion-venice": {
   "add": [
    "File:Le pavillon du Vénézuela (Biennale de Venise 2019) (48094271267).jpg"
+  ],
+  "skip": [
+   "File:Jorge Tacla Venice Emergency Pavilion Installation.jpg",
+   "File:Karole Vail at Venice Architecture Biennale 2025.jpg",
+   "File:Rindon Johnson.jpg",
+   "File:Maciej Maslowski - Appointment to the post of commissioner of Polish Section of Biennale Exposition, Venice, 5 April 1948.jpg"
   ]
  },
  "stazione-di-milano-centrale": {
@@ -12057,6 +12209,10 @@
    "File:2013-06-15 Roma Stazione FS Tiburtina.jpg",
    "File:Nuova Stazione Tiburtina - Roma (12388669925).jpg",
    "File:Roma Stazione Tiburtina - Italia (12368179965).jpg"
+  ],
+  "skip": [
+   "File:202612 Roma Tiburtina train station 01.jpg",
+   "File:Roma, Stazione di Roma Tiburtina - collegamento con la metropolitana 12-12-11.jpg"
   ]
  },
  "intesa-sanpaolo-skyscraper": {
@@ -12065,6 +12221,10 @@
    "File:Grattacielo Intesa Sanpaolo Torino.jpg",
    "File:Intesa Sanpaolo Building Turin 03.jpg",
    "File:Grattacielo Intesa Sanpaolo dal Colle della Maddalena.jpg"
+  ],
+  "skip": [
+   "File:Intesa Sanpaolo Building Turin 03.jpg",
+   "File:Intesa Sanpaolo Building Turin 02.jpg"
   ]
  },
  "napoli-afragola-station": {
@@ -12089,6 +12249,9 @@
    "File:Torre Isozaki Milano.jpg",
    "File:Allianz Tower - CityLife a Milano.jpg",
    "File:Torre Isozaki.JPG"
+  ],
+  "skip": [
+   "File:Arco della Pace vs City Life.jpg"
   ]
  },
  "centro-direzionale-napoli": {
@@ -12097,6 +12260,10 @@
    "File:Centro Direzionale di Napoli.jpg",
    "File:Centro Direzionale - Napoli.jpg",
    "File:Centro Direzionale.JPG"
+  ],
+  "skip": [
+   "File:Centro Direzionale.JPG",
+   "File:Napoli from Castel Sant'Elmo.jpg"
   ]
  },
  "madre-museum-naples": {
@@ -12104,6 +12271,9 @@
   "add": [
    "File:Museo Madre,.jpg",
    "File:Napoli - Museo d'arte contemporanea Donnaregina - 2024-09-03 23-43-51 001.JPG"
+  ],
+  "skip": [
+   "File:\"Untitled (bench)\" - marble sculpture (2009) by Domenico Bianchi (born 1955) - Museum \"MADRE\" in Naples (32017740918).jpg"
   ]
  },
  "juventus-stadium": {
@@ -12112,6 +12282,13 @@
    "File:Allianz Stadium dal Colle della Maddalena.jpg",
    "File:Juvar1.JPG",
    "File:Juventus v Real Madrid, Champions League, Stadium, Turin, 2013 (cropped).jpg"
+  ],
+  "skip": [
+   "File:Allianz Stadium dal Colle della Maddalena.jpg",
+   "File:Juvar1.JPG",
+   "File:Ingresso J Museum.jpg",
+   "File:Heysel Memorial at the Juventus Museum.jpg",
+   "File:Juventus Museum - Trophy Room.jpg"
   ]
  },
  "aquarium-of-genoa": {
@@ -12120,6 +12297,11 @@
    "File:Aquarium of Genoa in 2021.01.jpg",
    "File:Aquarium of Genoa (50571642603).jpg",
    "File:Genova Porto Antico Biosfera e Acquario.jpg"
+  ],
+  "skip": [
+   "File:Genova Porto Antico Biosfera e Acquario.jpg",
+   "File:Aquarium of Genoa (50571641998).jpg",
+   "File:Aquarium Genua 2014.JPG"
   ]
  },
  "biosphere-genoa": {
@@ -12128,12 +12310,22 @@
    "File:Genova Porto Antico Biosfera e Acquario 01.jpg",
    "File:Genova - Biosfera - 2025-09-17 10-09-52 001.jpeg",
    "File:Genova - Biosfera - 2024-09-13 16-43-54 001.JPG"
+  ],
+  "skip": [
+   "File:Genova Porto Antico Biosfera e Acquario 01.jpg",
+   "File:Genova - Biosfera - 2025-09-17 10-09-52 001.jpeg",
+   "File:Genova Porto Antico Biosfera e Acquario.jpg"
   ]
  },
  "teatro-degli-arcimboldi": {
   "category": "Category:Teatro degli Arcimboldi",
   "add": [
    "File:Teatro degli Arcimboldi esterno.jpg"
+  ],
+  "skip": [
+   "File:Marillion at Teatro degli Arcimboldi, Milan - October 4th, 2017.jpg",
+   "File:20.IX Book of Longing.jpg",
+   "File:Philip Glass 20.IX Book of Longing.jpg"
   ]
  },
  "casino-di-campione": {
@@ -12142,6 +12334,9 @@
    "File:Casinò di Campione d'Italia 2.jpg",
    "File:Casinò di Campione d'Italia 3.jpg",
    "File:Casino Campione d'Italia veduta.jpg"
+  ],
+  "skip": [
+   "File:Campione d'Italia - Casinò di Campione - 2026-09-22 10-33-35 001.jpg"
   ]
  },
  "palasport-olimpico-turin": {
@@ -12189,6 +12384,10 @@
    "File:Battersea Power Station 2025-05-22.jpg",
    "File:Battersea Power Station 2026-03-09.jpg",
    "File:Battersea Power Station from River Thames Wandsworth London England 01.jpg"
+  ],
+  "skip": [
+   "File:Battersea Power Station Electric Boulevard - 54735853522.jpg",
+   "File:Lego model of Battersea Power Station 2025-08-21.jpg"
   ]
  },
  "kensal-house": {
@@ -12204,6 +12403,9 @@
    "File:London King's Cross Railway Station (NHLE Code 1078328) (April 2016) (1).jpg",
    "File:London King's Cross Railway Station (NHLE Code 1078328) (April 2016) (2).jpg",
    "File:At London 2025 969.jpg"
+  ],
+  "skip": [
+   "File:Model railway at King's Cross 2025-11-30.jpg"
   ]
  },
  "jubilee-pool-penzance": {
@@ -12212,6 +12414,10 @@
    "File:Jubilee Pool - general view from N.jpg",
    "File:Jubilee Pool (6293).jpg",
    "File:Flags at Jubilee Pool (6286).jpg"
+  ],
+  "skip": [
+   "File:Flags at Jubilee Pool (6286).jpg",
+   "File:The Jubilee Pool, Penzance - geograph.org.uk - 4562434.jpg"
   ]
  },
  "st-catherines-college-oxford": {
@@ -12219,6 +12425,9 @@
   "add": [
    "File:St Catherine's College - geograph.org.uk - 7499133.jpg",
    "File:St Catherine's College - geograph.org.uk - 7499426.jpg",
+   "File:The entrance to St Catherine's College, Oxford - geograph.org.uk - 4732277.jpg"
+  ],
+  "skip": [
    "File:The entrance to St Catherine's College, Oxford - geograph.org.uk - 4732277.jpg"
   ]
  },
@@ -12228,6 +12437,10 @@
    "File:Robinson College - geograph.org.uk - 5613517.jpg",
    "File:Robinson College - geograph.org.uk - 8116027.jpg",
    "File:Robinson College Fascade.JPG"
+  ],
+  "skip": [
+   "File:Robinson College Chapel choir cushions (4767457882).jpg",
+   "File:Robinson College Chapel door (4766950169).jpg"
   ]
  },
  "dudley-zoo": {
@@ -12244,6 +12457,10 @@
    "File:Pallant House Gallery, Chichester 2 - 53995775682.jpg",
    "File:Pallant House Gallery - 53996906063.jpg",
    "File:Pallant House Gallery, Chichester - geograph.org.uk - 4938104.jpg"
+  ],
+  "skip": [
+   "File:Spencer Gore (1878-1914) - The Garden Path, Garth House - CHCPH 0265 - Pallant House Gallery.jpg",
+   "File:Model Sitting in an Armchair, Styling Her Hair by Édouard Vuillard.jpg"
   ]
  },
  "the-whitworth": {
@@ -12252,6 +12469,9 @@
    "File:The Whitworth Art Gallery in Manchester - 50140147328.jpg",
    "File:The Whitworth Art Gallery - geograph.org.uk - 2545283.jpg",
    "File:The Extension, The Whitworth, University of Manchester - geograph.org.uk - 7974648.jpg"
+  ],
+  "skip": [
+   "File:Dante Gabriel Rossetti - Mrs. William Morris (1870 circa).jpg"
   ]
  },
  "embassy-of-denmark-london": {
@@ -12268,6 +12488,11 @@
    "File:1262670 I THE PALM HOUSE, ROYAL BOTANIC GARDENS KEW, KEW GREEN, RICHMOND UPON THAMES, TW9 3AB London 20250618 0001.jpg",
    "File:2002-05-Palm-House-Kew-Gardens.jpg",
    "File:A view of The Palm House, Kew Gardens - geograph.org.uk - 5936771.jpg"
+  ],
+  "skip": [
+   "File:Bromeliad, hothouse, Kew Gardens.jpg",
+   "File:Floor grilles in Kew Gardens Palm House 2025-05-14.jpg",
+   "File:Bamboo at Palm House - geograph.org.uk - 6195435.jpg"
   ]
  },
  "royal-pavilion-brighton": {
@@ -12284,6 +12509,9 @@
    "File:Scottish Poetry Library - geograph.org.uk - 7990145.jpg",
    "File:Scottish Poetry Library.jpg",
    "File:Scottish Poetry Library 2013.JPG"
+  ],
+  "skip": [
+   "File:Scottish Poetry Library - geograph.org.uk - 7990145.jpg"
   ]
  },
  "broadcasting-house-cardiff": {
@@ -12298,6 +12526,9 @@
   "category": "Category:Hugh Owen Library",
   "add": [
    "File:Hugh Owen Library.jpg"
+  ],
+  "skip": [
+   "File:15th February 2015 (16353688539).jpg"
   ]
  },
  "st-davids-hall-cardiff": {
@@ -12322,6 +12553,11 @@
    "File:Dublin Spire of Dublin 1.jpg",
    "File:Dublin Spire of Dublin 2.jpg",
    "File:Dublin The Spire.JPG"
+  ],
+  "skip": [
+   "File:Ireland Dublin O'Connel's Monument BW 2025-09-15 14-33-29.jpg",
+   "File:Liberty Hall Spire and Custom House brighter.jpg",
+   "File:Liberty Hall Spire and Custom House.jpg"
   ]
  },
  "custom-house-dublin": {
@@ -12346,6 +12582,10 @@
    "File:Golden Lane Estate Basterfield House.jpg",
    "File:Bowater House, Golden Lane Estate, London.jpg",
    "File:Golden Lane Estate colours.jpg"
+  ],
+  "skip": [
+   "File:The Barbican from Great Arthur Hall.jpg",
+   "File:Golden Lane Community Hall.jpg"
   ]
  },
  "bevin-court": {
@@ -12360,6 +12600,12 @@
   "category": "Category:Embassy of the United States in London",
   "add": [
    "File:Embassy of the United States of America (51793689171).jpg"
+  ],
+  "skip": [
+   "File:Embassy of the United States of America (51793689171).jpg",
+   "File:The Commandant, Gen Eric M Smith visits London Detachment Marine Security Guards (9736884).jpg",
+   "File:The Commandant, Gen Eric M Smith visits London Detachment Marine Security Guards (9736893).jpg",
+   "File:Culinary Common Ground Sept 2019 01.jpg"
   ]
  },
  "southwark-tube-station": {
@@ -12376,6 +12622,13 @@
    "File:Exterior of Senate House IMG 1211.JPG",
    "File:Northern Side of Senate House, Bloomsbury.jpg",
    "File:Exterior of Senate House IMG 1218.JPG"
+  ],
+  "skip": [
+   "File:Exterior of Senate House IMG 1211.JPG",
+   "File:Exterior of Senate House IMG 1218.JPG",
+   "File:Senate House, London University - 51365073598.jpg",
+   "File:WCCWiki1.jpg",
+   "File:WCCWiki10.jpg"
   ]
  },
  "kettles-yard": {
@@ -12384,6 +12637,9 @@
    "File:Kettle's Yard, Cambridge - geograph.org.uk - 5905716.jpg",
    "File:Kettle's Yard.JPG",
    "File:KettlesYard.jpg"
+  ],
+  "skip": [
+   "File:Cambridge 3000 33.jpg"
   ]
  },
  "surbiton-railway-station": {
@@ -12392,6 +12648,9 @@
    "File:2018 at Surbiton station - the main buildings.JPG",
    "File:Inter-war concrete modern, Surbiton station - geograph.org.uk - 4823484.jpg",
    "File:Surbiton Railway Station - geograph.org.uk - 4333283.jpg"
+  ],
+  "skip": [
+   "File:69002 with LU 4-TC unit and 73109 on The Branch Line Society, The Jurassic Crompton working 1Z34 London Waterloo to Swanage passes Surbiton 090524 (53712629110).jpg"
   ]
  },
  "liverpool-cathedral": {
@@ -12400,12 +12659,23 @@
    "File:Cathedral Church of Christ in Liverpool September 2014.JPG",
    "File:Anglican Cathedral - geograph.org.uk - 5455045.jpg",
    "File:Liverpool Anglican Cathedral (2016-01-09 18.01.37 by Bob Edwards - 24251564426).jpg"
+  ],
+  "skip": [
+   "File:ACC Liverpool from the Mersey 2018-1.jpg",
+   "File:Day 2- Candles at Liverpool Cathedral (8387296309).jpg",
+   "File:Reilly-Liverpool-Cathedral-1902.jpg"
   ]
  },
  "portmeirion": {
   "category": "Category:Portmeirion",
   "add": [
    "File:A corner of Portmeirion, Wales (49798996653).jpg"
+  ],
+  "skip": [
+   "File:Portmeirion (29497964783).jpg",
+   "File:Portmeirion (29498007703).jpg",
+   "File:Cannon in Portmeirion (7775).jpg",
+   "File:IMGP7983 (43801526215).jpg"
   ]
  },
  "blenheim-palace": {
@@ -12428,6 +12698,10 @@
    "File:Castell Coch (4547).jpg",
    "File:Castell Coch (4548).jpg",
    "File:Castell Coch (1) - geograph.org.uk - 7360154.jpg"
+  ],
+  "skip": [
+   "File:Castell Coch, Entrance ramp - geograph.org.uk - 6914584.jpg",
+   "File:Castell Coch, The Cellar - geograph.org.uk - 6915676.jpg"
   ]
  },
  "livingstone-tower-glasgow": {
@@ -12442,12 +12716,24 @@
   "category": "Category:Scottish Storytelling Centre",
   "add": [
    "File:Scottish-Storytelling-Centre 2014-07-17~ MG 0036.jpg"
+  ],
+  "skip": [
+   "File:Book Week Scotland 2014 (15250063763).jpg",
+   "File:Book Week Scotland 2014 (15683944337).jpg",
+   "File:Netherbow Port (4540627857).jpg"
   ]
  },
  "lyric-theatre-belfast": {
   "category": "Category:Lyric Theatre, Belfast",
   "add": [
    "File:The Lyric Theatre - geograph.org.uk - 3522487.jpg"
+  ],
+  "skip": [
+   "File:Sam McCready.jpg",
+   "File:Liam Neeson and James Nesbitt.jpg",
+   "File:LiamNeesonJan08.jpg",
+   "File:Belfast (473), October 2009.JPG",
+   "File:Lyric Theatre, Belfast, May 2010 (01).JPG"
   ]
  },
  "swansea-civic-centre": {
@@ -12455,6 +12741,9 @@
   "add": [
    "File:Civic Centre, Swansea, view of south facade.jpg",
    "File:Swansea county hall.jpg"
+  ],
+  "skip": [
+   "File:Civic Centre, Swansea, detail of south facade with blue plaque.jpg"
   ]
  },
  "peace-bridge-derry": {
@@ -12471,6 +12760,10 @@
    "File:Aras as uachtarain.jpg",
    "File:Presidential Palace in Dublin - panoramio.jpg",
    "File:Dublin-14-Praesidentenpalais-2017-gje.jpg"
+  ],
+  "skip": [
+   "File:Barack Obama and Mary McAleese 2011.jpg",
+   "File:Barack Obama and Mary McAleese 2011 larger.jpg"
   ]
  },
  "chichester-festival-theatre": {
@@ -12479,6 +12772,11 @@
    "File:Chichester Festival Theatre, Sussex - geograph.org.uk - 1760414.jpg",
    "File:Chichester Festival Theatre - geograph.org.uk - 2033784.jpg",
    "File:Chichester Festival Theatre - geograph.org.uk - 2726581.jpg"
+  ],
+  "skip": [
+   "File:SpartacusStatue Chichester.jpg",
+   "File:Spartacus Sculpture, Chichester Theatre - geograph.org.uk - 3615492.jpg",
+   "File:Anna Podlesnaya.jpg"
   ]
  },
  "eden-court-theatre": {
@@ -12495,6 +12793,9 @@
    "File:BBC Broadcasting House (4743719598).jpg",
    "File:BBC Broadcasting House Portland Place.jpg",
    "File:BBC Broadcasting House, London, July 2013.JPG"
+  ],
+  "skip": [
+   "File:BBC Speakerthon 13.JPG"
   ]
  },
  "gorilla-house-london-zoo": {
@@ -12509,6 +12810,9 @@
    "File:Lubetkin Spa Green from park.jpg",
    "File:Lubetkin Spa Green Wells balcony facade.jpg",
    "File:Lubetkin Spa Green Wells wind roof, distant St Paul's.jpg"
+  ],
+  "skip": [
+   "File:Lubetkin Spa Green from park.jpg"
   ]
  },
  "cambridge-university-library": {
@@ -12517,6 +12821,11 @@
    "File:Cambridge-University-Library.jpg",
    "File:CamUniLibrary.JPG",
    "File:Cambridge - Cambridge University Library - 1326.jpg"
+  ],
+  "skip": [
+   "File:Cambridge - Cambridge University Library - 1326.jpg",
+   "File:Book bollards outside Cambridge University Library - geograph.org.uk - 4196933.jpg",
+   "File:Bronze book bollards in front of Cambridge University Library.jpg"
   ]
  },
  "tate-st-ives": {
@@ -12525,6 +12834,9 @@
    "File:Porthmeor Beach and Tate St Ives (6658).jpg",
    "File:Tate St Ives - geograph.org.uk - 5982311.jpg",
    "File:Tate gallery St-Ives.jpg"
+  ],
+  "skip": [
+   "File:Back of Tate St Ives.jpg"
   ]
  },
  "baltic-centre-for-contemporary-art": {
@@ -12533,6 +12845,9 @@
    "File:Baltic (33274682041).jpg",
    "File:Baltic Centre for Contemporary Art September 2022.jpg",
    "File:Western side of the Baltic Centre for Contemporary Art September 2022.jpg"
+  ],
+  "skip": [
+   "File:Baltic Closeup, Gateshead (geograph 1792866).jpg"
   ]
  },
  "manchester-central-library": {
@@ -12549,6 +12864,9 @@
    "File:1099146 I RADCLIFFE CAMERA Oxford 20250617 0001.jpg",
    "File:2019 Radcliffe Camera Oxford.jpg",
    "File:All Souls and the Camera (4371923713).jpg"
+  ],
+  "skip": [
+   "File:Bodleian Old Library and Radcliffe Camera dome from the Upper Reading Room, Bodleian Library.jpg"
   ]
  },
  "glasgow-tower": {
@@ -12557,6 +12875,9 @@
    "File:Glasgow Tower - Flickr - Ian D.jpg",
    "File:Glasgow Tower by Chris Collins.jpg",
    "File:Glasgow Tower from its base.jpg"
+  ],
+  "skip": [
+   "File:Glasgow Tower - Flickr - Ian D.jpg"
   ]
  },
  "st-alberts-chaplaincy-edinburgh": {
@@ -12580,6 +12901,10 @@
    "File:National Waterfront Museum (19125415205).jpg",
    "File:National Waterfront Museum.jpg",
    "File:-SeneddSwansea (22089766394).jpg"
+  ],
+  "skip": [
+   "File:National Waterfront Museum.jpg",
+   "File:Canning 1954.jpg"
   ]
  },
  "titanic-belfast": {
@@ -12588,6 +12913,11 @@
    "File:Belfast Titanic Museum 19-11-2023 13-02-52.jpg",
    "File:Belfast - Titanic Quarter - Titanic Belfast - geograph.org.uk - 3699388.jpg",
    "File:Belfast Titanic Museum 19-11-2023 13-32-29.jpg"
+  ],
+  "skip": [
+   "File:Belfast Titanic Museum 19-11-2023 13-02-52.jpg",
+   "File:Belfast Titanic Museum 19-11-2023 13-32-29.jpg",
+   "File:Exteriors-Titanic-Hotel-Belfast (23924037268).jpg"
   ]
  },
  "bord-gais-energy-theatre": {
@@ -12596,6 +12926,9 @@
    "File:Bord Gáis Energy Theatre, Dublin from Sir John Rogerson's Quay.jpg",
    "File:Bord Gáis Energy Theatre, Dublin.jpg",
    "File:Bord Gáis Energy Theatre (8225076312).jpg"
+  ],
+  "skip": [
+   "File:Gerry Ryan 2010.jpg"
   ]
  },
  "four-courts-dublin": {
@@ -12604,6 +12937,10 @@
    "File:Dublin Four Courts 01.jpg",
    "File:427 Four Courts, Dublin.jpg",
    "File:Dublin - Four Courts - 20140611183246.jpg"
+  ],
+  "skip": [
+   "File:Great War Plaque, Four Courts Dublin.jpg",
+   "File:Four Courts Moses.jpg"
   ]
  },
  "galway-cathedral": {
@@ -12620,6 +12957,9 @@
    "File:St Aengus (Burt Chapel).jpg",
    "File:Burt Catholic Church - geograph.org.uk - 5509775.jpg",
    "File:St Aegus Chapel - panoramio.jpg"
+  ],
+  "skip": [
+   "File:St Aegus Chapel - panoramio (1).jpg"
   ]
  },
  "churchill-college-cambridge": {
@@ -12628,6 +12968,9 @@
    "File:Central Buildings Churchill College.jpg",
    "File:Churchill College from Madingley Road.jpg",
    "File:3 Linked Residential Courts Due West Of Central Buildings Churchill College.jpg"
+  ],
+  "skip": [
+   "File:Churchill College, Cambridge university.jpg"
   ]
  },
  "lillington-gardens": {
@@ -12651,6 +12994,10 @@
   "add": [
    "File:A glimpse of Terminal 5, Heathrow, Sept. 2010 - Flickr - PhillipC.jpg",
    "File:BA Terminal Heathrow (6212176972).jpg"
+  ],
+  "skip": [
+   "File:A glimpse of Terminal 5, Heathrow, Sept. 2010 - Flickr - PhillipC.jpg",
+   "File:British Airways jet at London Heathrow Terminal 5.jpg"
   ]
  },
  "sun-house-frognal": {
@@ -12667,6 +13014,10 @@
    "File:Cranbrook Estate 01.jpg",
    "File:Cranbrook Estate 06.jpg",
    "File:Cranbrook Estate 07.jpg"
+  ],
+  "skip": [
+   "File:Cranbrook Estate 01.jpg",
+   "File:Cranbrook Estate 06.jpg"
   ]
  },
  "said-business-school": {
@@ -12675,6 +13026,9 @@
    "File:Oxford , Saïd Business School - geograph.org.uk - 4060501.jpg",
    "File:Saïd Business School - geograph.org.uk - 7930131.jpg",
    "File:Saïd Business School, Oxford - geograph.org.uk - 7007948.jpg"
+  ],
+  "skip": [
+   "File:Sculpture - Saïd Business School - geograph.org.uk - 8239084.jpg"
   ]
  },
  "weston-library-oxford": {
@@ -12707,6 +13061,9 @@
    "File:Cropped in of The Iron Bridge in 2014.jpg",
    "File:Iron Bridge (28956231660).jpg",
    "File:Bridge of Iron - geograph.org.uk - 2514868.jpg"
+  ],
+  "skip": [
+   "File:The Iron Bridge, diorama, Museum of the Gorge, Ironbridge.jpg"
   ]
  },
  "red-house-bexleyheath": {
@@ -12715,6 +13072,9 @@
    "File:Philip Webb's Red House in Upton.jpg",
    "File:1064203 II RED HOUSE, RED HOUSE LANE, E side Bexley London 20250612 0001.jpg",
    "File:1064203 II RED HOUSE, RED HOUSE LANE, E side Bexley London 20250612 0002.jpg"
+  ],
+  "skip": [
+   "File:1064203 II RED HOUSE, RED HOUSE LANE, interior, first floor Bexley London 20250612 0001.jpg"
   ]
  },
  "wollaton-hall": {
@@ -12731,6 +13091,11 @@
    "File:Centre Our Dynamic Earth Édimbourg 1.jpg",
    "File:Edinburgh , Dynamic Earth - geograph.org.uk - 4960196.jpg",
    "File:Dynamic Earth Centre 1 (4530928275).jpg"
+  ],
+  "skip": [
+   "File:Centre Our Dynamic Earth Édimbourg 1.jpg",
+   "File:Edinburgh , Dynamic Earth - geograph.org.uk - 4960196.jpg",
+   "File:Scottish Parliament and Dynamic Earth (23922538351).jpg"
   ]
  },
  "glasgow-university-library": {
@@ -12739,6 +13104,10 @@
    "File:Glasgow University Library, Scotland, UK.jpg",
    "File:Glasgow University, Library, Glasgow, Scotland, UK.jpg",
    "File:The Library, University of Glasgow - geograph.org.uk - 3459632.jpg"
+  ],
+  "skip": [
+   "File:GlasgowDhruvaMistry2017.jpg",
+   "File:MS Hunter 252 f. 70r (detail).jpg"
   ]
  },
  "queens-cross-church-glasgow": {
@@ -12763,6 +13132,9 @@
    "File:Belfast - Botanic Gardens 20230227 Ulster Museum.jpg",
    "File:Ulster Museum (45055847344).jpg",
    "File:Ulster Museum (44867686355).jpg"
+  ],
+  "skip": [
+   "File:Ulster Museum In Belfast Photographed By Infomatique - panoramio.jpg"
   ]
  },
  "casino-at-marino": {
@@ -12771,6 +13143,11 @@
    "File:Casino at Marino, May 2015.jpg",
    "File:Casino Marino Dublin.jpg",
    "File:Casino Marino Front.JPG"
+  ],
+  "skip": [
+   "File:Casino Marino dog's gravestone.jpg",
+   "File:Casino Marino tour guide.jpg",
+   "File:Thomas Leeson Scrase Rowbotham - The Charlemont Album, An Album containing 12 drawings of Casino at Marino, Dublin - B1977.14.294 - Yale Center for British Art.jpg"
   ]
  },
  "knock-basilica": {
@@ -12779,6 +13156,10 @@
    "File:Knock Basilica 16 July 2017.jpg",
    "File:Knock Basilica Church.jpg",
    "File:PM Photography and A&D Wejcherts Architects Knock Basilica Exterior.jpg"
+  ],
+  "skip": [
+   "File:Chapel Of Reconciliation Candles and Mosaic.jpg",
+   "File:Basilica of Our Lady, Queen of Ireland (Interior)02.jpg"
   ]
  },
  "liberty-hall-dublin": {
@@ -12787,6 +13168,11 @@
    "File:Dublin - Liberty Hall - 20220728172601.jpg",
    "File:Dublin - Liberty Hall - 20081213140315.jpg",
    "File:LIBERTY HALL (SIPTU HEADQUARTERS)-147013.jpg"
+  ],
+  "skip": [
+   "File:Dublin - Liberty Hall - 20220728172601.jpg",
+   "File:Dublin - Liberty Hall - 20081213140315.jpg",
+   "File:EASTER WEEKEND IN DUBLIN (LIBERTY HALL CELEBRATING THE 100th. ANNIVERSARY OF THE 1916 EASTER RISING)-112703 (26006137556).jpg"
   ]
  },
  "churchill-gardens-estate": {
@@ -12795,6 +13181,10 @@
    "File:Churchill Gardens Estate, Pimlico 2025-05-03.jpg",
    "File:Pimlico , Churchill Gardens Estate - geograph.org.uk - 7406026.jpg",
    "File:2008-05-27-London-Churchill-Gardens-Pimlico-03.jpg"
+  ],
+  "skip": [
+   "File:Control panel at the PDHU.jpg",
+   "File:Heat pipes under the Thames at the Pimlico District Heating Undertaking pump house.jpg"
   ]
  },
  "dawsons-heights": {
@@ -12803,6 +13193,9 @@
    "File:Dawson's Heights.jpg",
    "File:Dawsons-Heights-East-Dulwich-South-London-2008.jpg",
    "File:Dawson's Heights seen from Dawson's Hill - geograph.org.uk - 5407257.jpg"
+  ],
+  "skip": [
+   "File:Tower Block UK photo l39-05.jpg"
   ]
  },
  "lys-kernow": {
@@ -12825,6 +13218,10 @@
   "add": [
    "File:Eltham Palace - London (4979953470).jpg",
    "File:Eltham Palace - London (4979958868).jpg"
+  ],
+  "skip": [
+   "File:1218900 I WALLS OF INNER COURTYARD TO ELTHAM PALACE, WITH CHAMBERS ADJOINING, COURT YARD, E side Greenwich London 20250610 0001.jpg",
+   "File:1212906 II Star ELTHAM COURT (ELTHAM PALACE), COURT YARD, Basement Greenwich London 20250610 0001.jpg"
   ]
  },
  "hornsey-town-hall": {
@@ -12840,6 +13237,12 @@
   "add": [
    "File:Fitzwilliam College, Cambridge.jpg",
    "File:Fitzwilliam College 2012.jpg"
+  ],
+  "skip": [
+   "File:Fitzwilliam College 2012.jpg",
+   "File:Fitzwilliam college grove summer.jpg",
+   "File:FitzwilliamNewCourt.jpg",
+   "File:2002 1118 171120AA.jpg"
   ]
  },
  "shell-centre-london": {
@@ -12847,6 +13250,13 @@
   "add": [
    "File:London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson.jpg",
    "File:2017 Lambeth - Shell Centre, London.jpg"
+  ],
+  "skip": [
+   "File:London - Jubilee Gardens - Jubilee Walkway - View East towards Shell Centre 1961 by Sir Howard Robertson.jpg",
+   "File:2017 Lambeth - Shell Centre, London.jpg",
+   "File:Shell centre shells Feb 23.jpg",
+   "File:London - South Bank - Jubilee Walkway - View South on Royal National Theatre 1976 by Sir Denys Lasdun and Peter Softley.jpg",
+   "File:06 2023 London Eye seen from the West IMG 7512.jpg"
   ]
  },
  "bridgewater-hall": {
@@ -12863,6 +13273,10 @@
    "File:Civic Centre, Newcastle upon Tyne - geograph.org.uk - 5394271.jpg",
    "File:Newcastle Civic Centre from Barras Bridge - geograph.org.uk - 7984946.jpg",
    "File:Centre civique Newcastle Tyne 14.jpg"
+  ],
+  "skip": [
+   "File:War Memorial and the Civic Centre, Newcastle - geograph.org.uk - 3705594.jpg",
+   "File:'Swans in Flight', Newcastle Civic Centre, Haymarket, Newcastle Upon Tyne - geograph.org.uk - 8039901.jpg"
   ]
  },
  "turner-contemporary": {
@@ -12871,6 +13285,9 @@
    "File:North side of Turner Contemporary gallery Margate Kent England.jpg",
    "File:Margate - The Turner Gallery Opening - Apr 2011.jpg",
    "File:The Turner Contemporary - geograph.org.uk - 2367301.jpg"
+  ],
+  "skip": [
+   "File:The Sunley Gallery, Turner Contemporary, Margate - geograph.org.uk - 8363468.jpg"
   ]
  },
  "chiswick-house": {
@@ -12879,6 +13296,10 @@
    "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0001.jpg",
    "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0003.jpg",
    "File:1079607 I CHISWICK HOUSE Hounslow London 20250611 0005.jpg"
+  ],
+  "skip": [
+   "File:Across the bridge (24541226313).jpg",
+   "File:Peacock displaying (25141725916).jpg"
   ]
  },
  "palace-of-westminster": {
@@ -12887,6 +13308,12 @@
    "File:Greater London - Palace of Westminster - 2025-09-23 16-24-04 001.JPG",
    "File:Houses of Parliament, Palace of Westminster - geograph.org.uk - 7935747.jpg",
    "File:BigBen2025mbs.jpg"
+  ],
+  "skip": [
+   "File:Commons Procession to Lords (State Opening of Parliament 2023).jpg",
+   "File:Jerry Buttimer with Lord Speaker (1).jpg",
+   "File:A Mapp of the Parish of St Margarets Westminster taken from the last Survey with Corrections (BM Heal,Topography.203).jpg",
+   "File:Amgueddfa Cymru - Braslun ar gyfer mosaig Dewi Sant - Sketch for the St. David mosaic - 137895.jpeg"
   ]
  },
  "royal-crescent-bath": {
@@ -12902,6 +13329,10 @@
   "add": [
    "File:London Stadium 2026-07-08.jpg",
    "File:Outside the London Stadium - geograph.org.uk - 8310738.jpg"
+  ],
+  "skip": [
+   "File:Football sculpture at Olympic Stadium 08112025 (1).jpg",
+   "File:Hurst model shirt.jpg"
   ]
  },
  "falkirk-wheel": {
@@ -12910,6 +13341,11 @@
    "File:2018 07 07 Schottland (38) Falkirk Wheel.jpg",
    "File:2018 07 07 Schottland (40).jpg",
    "File:2018 07 07 Schottland (42).jpg"
+  ],
+  "skip": [
+   "File:Falkirk wheel - en amont.jpg",
+   "File:InsideFalkirkWheel.jpeg",
+   "File:The Falkirk Wheel Boat Lift (37121947434).jpg"
   ]
  },
  "hill-house-helensburgh": {
@@ -12926,6 +13362,10 @@
    "File:Castletown House.jpg",
    "File:Castletown.jpg",
    "File:Celbridge - Castletown House - 20180324102048.jpg"
+  ],
+  "skip": [
+   "File:Castletown House.jpg",
+   "File:Celbridge - Castletown House - 20180324102048.jpg"
   ]
  },
  "centre-point-london": {
@@ -12934,6 +13374,9 @@
    "File:Centre Point (4281441823).jpg",
    "File:Centre Point - geograph.org.uk - 2660934.jpg",
    "File:At London 2026 0166 - Centre Point.jpg"
+  ],
+  "skip": [
+   "File:Camden skyline (8652974865).jpg"
   ]
  },
  "waterfront-hall-belfast": {
@@ -12941,6 +13384,9 @@
   "add": [
    "File:THE WATERFRONT HALL IN BELFAST (WITH NEW EXTENSION) - panoramio - William Murphy.jpg",
    "File:Belfast - The Waterfront Hall (5688231860).jpg"
+  ],
+  "skip": [
+   "File:Waterfront Hall, Belfast, April 2015 (01).JPG"
   ]
  },
  "arts-tower-sheffield": {
@@ -12949,6 +13395,9 @@
    "File:Arts Tower, Sheffield (2022).jpg",
    "File:Arts Tower, University of Sheffield, Sheffield - geograph.org.uk - 4431038.jpg",
    "File:Sheffield Arts Tower viewed from Weston Park - geograph.org.uk - 5070268.jpg"
+  ],
+  "skip": [
+   "File:At the corner of Mushroom Lane, Sheffield - geograph.org.uk - 4431072.jpg"
   ]
  },
  "glasgow-science-centre": {
@@ -12957,6 +13406,10 @@
    "File:Glasgow Science Centre - geograph.org.uk - 5485104.jpg",
    "File:Glasgow Science Centre - geograph.org.uk - 3457398.jpg",
    "File:Glasgow Science Centre (15927441565).jpg"
+  ],
+  "skip": [
+   "File:Dawn over Glasgow (48659596342).jpg",
+   "File:231022j PS Waverley from Glasgow Science Centre, Hebo-Lift 10 and Hebo-P84 at Yorkhill Quay.jpg"
   ]
  },
  "cork-county-hall": {
@@ -12973,6 +13426,9 @@
    "File:Tower Bridge from Pool of London River Thames London England lighter.jpg",
    "File:Tower Bridge bascules from Pool of London River Thames London England.jpg",
    "File:2009-07-21 Tower Bridge, London.jpg"
+  ],
+  "skip": [
+   "File:Model Workers - geograph.org.uk - 2940482.jpg"
   ]
  },
  "wolfson-college-oxford": {
@@ -12981,6 +13437,9 @@
    "File:Wolfson College - geograph.org.uk - 4837270.jpg",
    "File:Wolfsonfront.jpg",
    "File:Wolfson College Oxford Hall.jpg"
+  ],
+  "skip": [
+   "File:Isaac Wolfson.jpg"
   ]
  },
  "empire-state-plaza": {
@@ -12989,6 +13448,9 @@
    "File:Empire State Plaza at sunset.jpg",
    "File:Empire Plaza from Times Union Arena parking deck, Albany, NY.jpg",
    "File:20220507 - 25 - Albany, New York - Panoramic view from the east side of Empire State Plaza.jpg"
+  ],
+  "skip": [
+   "File:Empire State Plaza concourse capitol building entrance.jpg"
   ]
  },
  "first-unitarian-church-rochester": {
@@ -13021,6 +13483,9 @@
    "File:Cummins Corporate Office Building - April 2008 - Holly Higgins 02.jpg",
    "File:Cummins headquarters.jpg",
    "File:Cummins Engines Offices - panoramio.jpg"
+  ],
+  "skip": [
+   "File:INTERIOR OF CUMMINS CORPORATE OFFICES - NARA - 546475.jpg"
   ]
  },
  "harbor-towers-boston": {
@@ -13037,6 +13502,11 @@
    "File:Manitoga 02.jpg",
    "File:Manitoga 04.jpg",
    "File:Manitoga 01.jpg"
+  ],
+  "skip": [
+   "File:Manitoga rock.jpg",
+   "File:Manitoga viewpoint.jpg",
+   "File:Mocha coffee set, Model 90073, designed by Russel Wright, Chase Brass & Copper Company, Waterbury CT, 1935-1938, chrome-plated brass, Catalin - Museum für Angewandte Kunst Köln - Cologne, Germany - DSC09549.jpg"
   ]
  },
  "merck-headquarters-building": {
@@ -13053,6 +13523,12 @@
    "File:Campus Center UMass 5.JPG",
    "File:Murray D. Lincoln Campus Center.jpg",
    "File:Fine Arts Center.jpg"
+  ],
+  "skip": [
+   "File:Fine Arts Center.jpg",
+   "File:W.E.B. DuBois Library.jpg",
+   "File:University of Massachusetts at Amherst view from library 12.JPG",
+   "File:University of Massachusetts at Amherst view from library 11.JPG"
   ]
  },
  "american-republic-insurance-headquarters": {
@@ -13067,12 +13543,20 @@
   "add": [
    "File:One Woodward Avenue from Windsor, Ontario, 2025-07-30.jpg",
    "File:OneWoodwardTOP.jpg"
+  ],
+  "skip": [
+   "File:GuardianSkyBridge.png"
   ]
  },
  "power-center-ann-arbor": {
   "category": "Category:Power Center for the Performing Arts",
   "add": [
    "File:Power Center for the Performing Arts at Night, University of Michigan, Ann Arbor, Michigan - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Helen Hayes and Walter Kerr in Ann Arbor.jpg",
+   "File:Walter Kerr cropped.jpg",
+   "File:Helen Hayes in Ann Arbor (cropped).jpg"
   ]
  },
  "richards-medical-research-laboratories": {
@@ -13086,6 +13570,10 @@
   "category": "Category:140 Broadway",
   "add": [
    "File:140 Broadway 001.jpg"
+  ],
+  "skip": [
+   "File:Lower Manhattan from Staten Island Ferry Jan 2006.jpg",
+   "File:Aerial photo of WTC groundzero.jpg"
   ]
  },
  "alden-dow-house-and-studio": {
@@ -13130,6 +13618,9 @@
  "cleo-rogers-memorial-library": {
   "add": [
    "File:Cleo Rogers Memorial Library and Moore Sculpture.jpeg"
+  ],
+  "skip": [
+   "File:ROGERS MEMORIAL LIBRARY, WITH OLD IRWIN FAMILY HOME IN BACKGROUND - NARA - 546488.jpg"
   ]
  },
  "converse-memorial-library": {
@@ -13147,11 +13638,19 @@
  "cultural-education-center-albany": {
   "add": [
    "File:NewYorkStateCulturalEducationCenter.JPG"
+  ],
+  "skip": [
+   "File:Hall of Vertebrate Paleontology, New York State Museum, postcard (back).jpg",
+   "File:Carousel Band Organ Wurlitzer (Cultural Education Center, NY).jpg"
   ]
  },
  "davenport-public-library": {
   "add": [
    "File:Davenport Public Library - Main Branch.jpg"
+  ],
+  "skip": [
+   "File:Carnegie Library building, Davenport, Iowa - D. A. Gregg. LCCN2007685857.jpg",
+   "File:Public Library, Davenport, Iowa LCCN2007686628.jpg"
   ]
  },
  "grant-house-cedar-rapids": {
@@ -13164,6 +13663,10 @@
   "category": "Category:Hampden County Courthouse",
   "add": [
    "File:Hampden County Courthouse MA.jpg"
+  ],
+  "skip": [
+   "File:Court house, Hall of Records and Institute for Savings, Springfield, Mass (61521).jpg",
+   "File:McKinley Monument by Philip Martiny - Springfield, MA - DSC03273.JPG"
   ]
  },
  "home-building-association-bank": {
@@ -13182,6 +13685,9 @@
   "category": "Category:Kauffman Center for the Performing Arts",
   "add": [
    "File:Kauffman Center for Performing Arts 2.jpg"
+  ],
+  "skip": [
+   "File:Kauffman Center (32733798086).jpg"
   ]
  },
  "kips-bay-towers": {
@@ -13193,17 +13699,30 @@
   "category": "Category:Manhattan House Apartments",
   "add": [
    "File:Manhattan House 65 jeh.JPG"
+  ],
+  "skip": [
+   "File:Bromley Manhattan Plate 107 publ. 1930.jpg",
+   "File:Bromley Manhattan Plate 107 publ. 1955–56.jpg"
   ]
  },
  "munson-williams-proctor-arts-institute": {
   "category": "Category:Munson-Williams-Proctor Arts Institute",
   "add": [
    "File:Munson-Williams-Proctor Arts Institute, Utica NY.jpg"
+  ],
+  "skip": [
+   "File:Still Life with Steak Raphaelle Peale, 1816-1817.JPG",
+   "File:Whistler - The Sea at Pourville (No. 2), near Dieppe, France (1899) y519.jpg",
+   "File:Fountain Elms in Utica New York taken 09302012.JPG"
   ]
  },
  "niagara-falls-public-library": {
   "add": [
    "File:20190615 - 05 - Niagara Falls Public Library.jpg"
+  ],
+  "skip": [
+   "File:Niagara Falls Carnegie Library-Niagara Falls-Ontario-HPC9744-20221008 (2).jpg",
+   "File:Niagara Falls Carnegie Library-Niagara Falls-Ontario-HPC9744-20221008.jpg"
   ]
  },
  "north-shore-congregation-israel": {
@@ -13240,6 +13759,9 @@
  "river-city-chicago": {
   "add": [
    "File:River City 01.jpg"
+  ],
+  "skip": [
+   "File:Chicago as seen from a commercial flight 03.JPG"
   ]
  },
  "rockefeller-guest-house": {
@@ -13252,6 +13774,9 @@
   "category": "Category:Sciences Library (Brown University)",
   "add": [
    "File:Brown University Sciences Library Providence.jpg"
+  ],
+  "skip": [
+   "File:Providence looking north from Brown University Sciences Library.jpg"
   ]
  },
  "seventeenth-church-christ-scientist-chicago": {
@@ -13264,6 +13789,9 @@
   "category": "Category:Sever Hall",
   "add": [
    "File:Sever Hall (Harvard University) - east facade.JPG"
+  ],
+  "skip": [
+   "File:Harvard Yard, February 2022 3.jpg"
   ]
  },
  "temple-emanuel-creve-coeur": {
@@ -13275,23 +13803,37 @@
   "category": "Category:Terrace Plaza Hotel",
   "add": [
    "File:Terrace Plaza Hotel, Cincinnati, OH (47220500021).jpg"
+  ],
+  "skip": [
+   "File:Exterior of Gourmet Room of the Terrace Plaza Hotel.jpg"
   ]
  },
  "class-of-1959-chapel": {
   "category": "Category:Class of 1959 Chapel",
   "add": [
    "File:1959chapelexterior.JPG"
+  ],
+  "skip": [
+   "File:1959chapelceiling.JPG",
+   "File:1959chapelgardenfromtop.JPG"
   ]
  },
  "the-republic-newspaper-office": {
   "add": [
    "File:Republic offices in Columbus, side and rear.jpg"
+  ],
+  "skip": [
+   "File:THE REPUBLIC (LOCAL NEWSPAPER), BUILT IN 1971 - NARA - 546543.jpg",
+   "File:Republic Newspaper Office Building, Columbus, Indiana.jpg"
   ]
  },
  "thomas-crane-public-library": {
   "category": "Category:Thomas Crane Public Library",
   "add": [
    "File:Thomas Crane Public Library, Quincy, Massachusetts (Front view).JPG"
+  ],
+  "skip": [
+   "File:Thomas Crane Public Library (CBT section); Quincy, MA; east side; 2011-06-05.JPG"
   ]
  },
  "unitarian-universalist-church-arlington": {
@@ -13309,6 +13851,9 @@
   "category": "Category:United States Tax Court Building",
   "add": [
    "File:Tax Court by Matthew Bisanz.jpg"
+  ],
+  "skip": [
+   "File:United States Tax Court Building 11.jpg"
   ]
  },
  "van-allen-building": {
@@ -13326,11 +13871,19 @@
  "w-r-grace-building": {
   "add": [
    "File:W.R Grace Building viewed from Empire State Building, around 1 pm.jpg"
+  ],
+  "skip": [
+   "File:Aerial photograph of Midtown Manhattan & Bryant Park-2008,07.jpg",
+   "File:West 42nd Street - Bryant Park (buildings).jpg"
   ]
  },
  "watergate-complex": {
   "add": [
    "File:Watergate complex, 2025.jpg"
+  ],
+  "skip": [
+   "File:Watergate complex, 2025.jpg",
+   "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 23 of 36).png"
   ]
  },
  "wiesner-building-mit": {
@@ -13380,6 +13933,10 @@
    "File:Cinerama Dome front.jpg",
    "File:Hollywood Cinerama Dome.jpg",
    "File:Cinerama Dome.jpg"
+  ],
+  "skip": [
+   "File:CedricEntertainerMarch04.jpg",
+   "File:Cinerama Dome, interior, Los Angeles (July 2019) 2.jpg"
   ]
  },
  "evans-hall-uc-berkeley": {
@@ -13413,6 +13970,10 @@
    "File:2015-07 Hyatt Regency San Francisco.jpg",
    "File:Hyatt Regency San Francisco (110103874).jpg",
    "File:Hyatt Regency San Francisco, San Francisco, United States (Unsplash).jpg"
+  ],
+  "skip": [
+   "File:2015-07 Hyatt Regency San Francisco.jpg",
+   "File:Hyatt Regency San Francisco - DSC06460.jpg"
   ]
  },
  "los-angeles-county-hall-of-records": {
@@ -13420,6 +13981,10 @@
   "add": [
    "File:Los Angeles Hall of Records.jpg",
    "File:Hall of Records at Night.JPG"
+  ],
+  "skip": [
+   "File:Los Angeles City Hall 20.jpg",
+   "File:Los Angeles City Hall 20 (cropped).jpg"
   ]
  },
  "mark-taper-forum": {
@@ -13428,6 +13993,10 @@
    "File:LA Music Center Mark Taper Forum.jpg",
    "File:LA Mark Taper Forum exterior.jpg",
    "File:Mtf day 1.jpg"
+  ],
+  "skip": [
+   "File:JonesClayburghOthello1971.jpg",
+   "File:Amazed (4776702915).jpg"
   ]
  },
  "neutra-vdl-studio-and-residences": {
@@ -13453,6 +14022,11 @@
    "File:Palm springs aerial tramway.jpg",
    "File:Palm Springs Tramway 6 March 1996 - 04.jpg",
    "File:Dry wash area, Palm Springs Aerial Tramway.jpg"
+  ],
+  "skip": [
+   "File:Palm Springs Tramway 6 March 1996 - 04.jpg",
+   "File:Dry wash area, Palm Springs Aerial Tramway.jpg",
+   "File:Palm Springs Tramway Mountain Top View March 1996 05.jpg"
   ]
  },
  "palm-springs-art-museum": {
@@ -13482,6 +14056,13 @@
   "add": [
    "File:Santa Monica Civic Auditorium.JPG",
    "File:Santa Monica Civic Auditorium entrance pavilion 2023 September.jpg"
+  ],
+  "skip": [
+   "File:Gregory Peck, Annabella, Sidney Poitier, and Anne Bancroft.jpg",
+   "File:Angela Lansbury and Jonathan Winters at the 1965 Academy Awards.jpg",
+   "File:Sabinov11Slovakia2.JPG",
+   "File:Angela Lansbury at the 1965 Academy Awards.jpg",
+   "File:Electro-Voice Model 642 Long-Range Microphone (1961), one of the first shotgun microphones, Museum of Making Music.jpg"
   ]
  },
  "sinai-temple-los-angeles": {
@@ -13489,6 +14070,9 @@
   "add": [
    "File:Sinai Temple, Westwood, Los Angeles.JPG",
    "File:Back of the Sinai Temple, Westwood, Los Angeles.JPG"
+  ],
+  "skip": [
+   "File:Simi Valley Green Burial Park- Teva.jpg"
   ]
  },
  "smud-headquarters-building": {
@@ -13497,6 +14081,9 @@
    "File:SMUD Headquarters Building Front Facade Panorama.jpg",
    "File:SMUD HQ 1.JPG",
    "File:SMUD HQ 2.JPG"
+  ],
+  "skip": [
+   "File:SMUD Headquarters Building Signage Detail.jpg"
   ]
  },
  "television-city": {
@@ -13512,6 +14099,10 @@
    "File:Iconic LAX Theme Park Restaurant (27252068389).jpg",
    "File:LAX (a0004533) - panoramio.jpg",
    "File:Empty Theme Building in August 2018.jpg"
+  ],
+  "skip": [
+   "File:Ariel View of Memorial (10818529095).jpg",
+   "File:Bar detail at Encounter Restaurant & Bar at Los Angeles International Airport (11300449105).jpg"
   ]
  },
  "tramway-gas-station": {
@@ -13537,6 +14128,9 @@
    "File:Yerba Buena Center for the Arts, exterior, from Yerba Buena Gardens, San Francisco (May 2013).jpg",
    "File:YBCA Novellus Theater main entrance.JPG",
    "File:YBCA Novellus Theater west side 1.JPG"
+  ],
+  "skip": [
+   "File:YBCA iPad 2 event.jpg"
   ]
  },
  "zellerbach-hall": {
@@ -13550,6 +14144,9 @@
   "category": "Category:Koerner House",
   "add": [
    "File:Koerner House 01.jpg",
+   "File:Koerner House 02.jpg"
+  ],
+  "skip": [
    "File:Koerner House 02.jpg"
   ]
  },
@@ -13567,6 +14164,9 @@
    "File:Edwards Harris Pavilion.jpg",
    "File:Palm Springs Art Museum Architecture & Design Centerr-Edwards Harris Pavilion 01.jpg",
    "File:WLM EHP 3qtr.jpg"
+  ],
+  "skip": [
+   "File:Edwards Harris Pavilion.jpg"
   ]
  },
  "alley-theatre": {
@@ -13591,6 +14191,9 @@
    "File:Reunion Tower, Dallas, Texas.jpg",
    "File:Reunion Tower Dallas Texas Closeup 2017.jpg",
    "File:Reunion tower dallas.jpg"
+  ],
+  "skip": [
+   "File:View of Dallas City Hall from Reunion Tower August 2015 14.jpg"
   ]
  },
  "san-antonio-public-library": {
@@ -13607,6 +14210,10 @@
    "File:Dallas Thanks-Giving Square 01.jpg",
    "File:Dallas Thanks-Giving Square 02.jpg",
    "File:Dallas Thanks-Giving Square 04.jpg"
+  ],
+  "skip": [
+   "File:Dallas Thanks-Giving Square 01.jpg",
+   "File:Dallas Thanks-Giving Square 02.jpg"
   ]
  },
  "freeway-park": {
@@ -13615,6 +14222,11 @@
    "File:Freeway Park Seattle.jpg",
    "File:Freeway Park canyon.jpg",
    "File:Freeway Park Seattle 26.jpg"
+  ],
+  "skip": [
+   "File:Freeway Park +3EV.JPG",
+   "File:Paul Pigott Corridor, Freeway Park, Seattle 01.jpg",
+   "File:James Webb Telescope DC.jpg"
   ]
  },
  "kingdome": {
@@ -13623,6 +14235,10 @@
    "File:Kingdome across parking lot in 1996.jpg",
    "File:Kingdome and skyline, circa 1985 - Flickr - Seattle Municipal Archives.jpg",
    "File:Kingdome at night with I-90.jpg"
+  ],
+  "skip": [
+   "File:Kingdome usage, 1980 (32523178267).jpg",
+   "File:Norm and Constance Rice at Mariners game, 1990 (52420212352).jpg"
   ]
  },
  "tacoma-dome": {
@@ -13631,6 +14247,12 @@
    "File:Tacoma Dome 2497.jpg",
    "File:Tacoma Dome from Interstate 5.jpg",
    "File:Tacoma Dome 1.JPG"
+  ],
+  "skip": [
+   "File:Tacoma Dome 2497.jpg",
+   "File:2020--17 February--Bernie Sanders rally in the Tacoma Dome (49550852368).jpg",
+   "File:2020--17 February--Bernie Sanders rally in the Tacoma Dome (49551364666).jpg",
+   "File:Tacoma Link Skoda 10T car at Tacoma Dome station (2008).jpg"
   ]
  },
  "aubrey-r-watzek-house": {
@@ -13654,6 +14276,10 @@
   "add": [
    "File:Chapel of the Holy Cross From Below.jpg",
    "File:Red Rock Scenic Byway - Chapel of the Holy Cross - NARA - 7721229.jpg"
+  ],
+  "skip": [
+   "File:Red Rock Scenic Byway - Chapel of the Holy Cross - NARA - 7721229.jpg",
+   "File:Birth of Christ, Chapel of the Holy Cross.jpg"
   ]
  },
  "tempe-municipal-building": {
@@ -13698,6 +14324,11 @@
    "File:Seattle - Bullitt Center 01.jpg",
    "File:Seattle - Bullitt Center 03.jpg",
    "File:Seattle - Bullitt Center 02.jpg"
+  ],
+  "skip": [
+   "File:Bullitt Center under construction.jpg",
+   "File:Bullitt Center, Seattle under construction October 25, 2011.jpg",
+   "File:Seattle in Dec. 2022 - 004.jpg"
   ]
  },
  "fort-worth-water-gardens": {
@@ -13714,6 +14345,9 @@
    "File:Nasher Sculpture Center August 2017 1.jpg",
    "File:Nasher Sculpture Center August 2017 2.jpg",
    "File:Nasher Sculpture Center August 2017 8.jpg"
+  ],
+  "skip": [
+   "File:Turrell's Tending (Blue) destroyed.jpg"
   ]
  },
  "wyly-theatre": {
@@ -13722,6 +14356,10 @@
    "File:Dallas Wyly Theatre 03.jpg",
    "File:Dallas Wyly Theatre from Winspear Opera.jpg",
    "File:Distant view of the Dee and Charles Wyly Theatre (edited).jpg"
+  ],
+  "skip": [
+   "File:Dallas Center for the Performing Arts under construction 01.jpg",
+   "File:Dallas Center for the Performing Arts under construction 02.jpg"
   ]
  },
  "clyfford-still-museum": {
@@ -13753,6 +14391,10 @@
    "File:Exterior1 (30778316935).jpg",
    "File:Exterior2 (30741792006).jpg",
    "File:Exterior3 (30477562280).jpg"
+  ],
+  "skip": [
+   "File:Stir Bistro (34341456951).jpg",
+   "File:Portland, Oregon (August 27, 2022) - 131.jpg"
   ]
  },
  "benaroya-hall": {
@@ -13761,6 +14403,11 @@
    "File:Benaroya Hall, Seattle, Washington, USA.jpg",
    "File:Benaroya Hall, Seattle, Washington, USA cropped.jpg",
    "File:Benaroya Hall at night 01.jpg"
+  ],
+  "skip": [
+   "File:Benaroya Hall at night 01.jpg",
+   "File:Heading to the OMF (5272502944).jpg",
+   "File:October 2023, Seattle, Washington, US - 08.jpg"
   ]
  },
  "henry-art-gallery": {
@@ -13769,6 +14416,10 @@
    "File:Henry Art Gallery 01.jpg",
    "File:Henry Art Gallery at the University of Washington.jpg",
    "File:HAG2.JPG"
+  ],
+  "skip": [
+   "File:The Town Crier, v.14, no.50, Dec. 13, 1919 - DPLA - b3e081ab5d8cda5882572e98ef821dd8 (page 31).jpg",
+   "File:Stranger Genius 2006 02A.jpg"
   ]
  },
  "norton-simon-museum": {
@@ -13777,6 +14428,9 @@
    "File:Norton Simon Museum entrance 01.jpg",
    "File:Norton Simon Museum entrance 02.jpg",
    "File:Norton Simon Museum Pasadena CA (51081778692).jpg"
+  ],
+  "skip": [
+   "File:Gold of Ophir roses, Carmelita, Pasadena-LCCN2008678185.jpg"
   ]
  },
  "jacobs-medical-center": {
