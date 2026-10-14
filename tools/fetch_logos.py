@@ -27,7 +27,7 @@ SITES = {
     'wikiarquitectura': 'https://en.wikiarquitectura.com/',
     'dezeen': 'https://www.dezeen.com/',
     'divisare': 'https://divisare.com/',
-    'archinform': 'https://www.archinform.net/',
+    'archinform': 'https://www.archinform.net/index.htm',
     'wikipedia': 'https://en.wikipedia.org/',
     'youtube': 'https://www.youtube.com/',
     'commons': 'https://commons.wikimedia.org/',

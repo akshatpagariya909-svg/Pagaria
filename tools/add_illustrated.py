@@ -32,7 +32,7 @@ from merge_1000 import entry, fold  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 IL = ROOT / 'tools' / 'illustrate'
 CHOICES = ROOT / 'tools' / 'image_choices.json'
-DRAWING = {'kind': 'Drawing', 'caption': 'Drawing, not a photo', 'credit': 'Drawing: Discover Architecture',
+DRAWING = {'kind': 'Drawing', 'caption': 'Drawing, not a photo', 'credit': 'Drawing: Find Great Architecture',
            'license': 'CC BY 4.0', 'source': None, 'w': 400, 'h': 260}
 
 
@@ -76,7 +76,7 @@ def main():
             after = r.get('after')
             if after:  # drawn after one free photo: credit it; CC BY-SA covers both a BY and a BY-SA source
                 f = after.get('file') if isinstance(after, dict) else str(after).split(' (')[0]
-                b['images'][0].update(credit=f'Drawing: Discover Architecture, after {f}', license='CC BY-SA 4.0')
+                b['images'][0].update(credit=f'Drawing: Find Great Architecture, after {f}', license='CC BY-SA 4.0')
             if not args.dry_run:
                 (ROOT / 'site' / 'images' / i).mkdir(parents=True, exist_ok=True)
                 shutil.copyfile(svg, ROOT / 'site' / 'images' / i / 'drawing.svg')
