@@ -10,6 +10,10 @@ work is merged:
   regions.json   buildings per region
   types.json     buildings per type
   shelves.json   books per shelf
+  plan.json      each chat's goals for the day, from tools/plan.json: {date, workstream, goal, target?, metric?,
+                 status?, note?}. With a metric (buildings_added, buildings, with_photo, with_links, portraits,
+                 with_face, books) the dashboard shows the target against the real number; status (done, open,
+                 paused, dropped) is set by hand for goals without one.
   log.json       every pull request merged to main, newest first, with its workstream; plus the lines in
                  tools/progress_log.json (a chat adds {date, workstream, note} there for work that isn't a merge)
 
@@ -36,6 +40,32 @@ def git(*args):
 
 def js(text, start, end):
     return json.loads(text[text.index(start):text.rindex(end) + 1])
+
+
+PLAN = ROOT / 'tools' / 'plan.json'
+# What a plan line can be measured by: its value for that day (buildings added) or now (totals)
+METRICS = {
+    'buildings_added': lambda day, growth, s: next((g['added'] for g in growth if g['day'] == day), 0),
+    'buildings': lambda day, growth, s: s['buildings'],
+    'with_photo': lambda day, growth, s: s['with_photo'],
+    'with_links': lambda day, growth, s: s['with_links'],
+    'portraits': lambda day, growth, s: s['portraits'],
+    'with_face': lambda day, growth, s: s['with_face'],
+    'books': lambda day, growth, s: s['books'],
+}
+
+
+def plan_rows(growth, s):
+    """Each chat's goals for the day from tools/plan.json, with how far it got where the goal has a number."""
+    rows = []
+    for i, e in enumerate(json.loads(PLAN.read_text(encoding='utf-8')) if PLAN.exists() else []):
+        m = METRICS.get(e.get('metric') or '')
+        actual = m(e['date'], growth, s) if m else None
+        target = e.get('target')
+        rows.append({'id': f"{e['date']}-{i}", 'date': e['date'], 'workstream': e['workstream'], 'goal': e['goal'],
+                     'target': target, 'actual': actual, 'note': e.get('note', ''),
+                     'status': e.get('status') or ('done' if actual is not None and target is not None and actual >= target else 'open')})
+    return sorted(rows, key=lambda r: r['date'], reverse=True)
 
 
 def main():
@@ -99,6 +129,7 @@ def main():
         'types': [{'type': k, 'buildings': v} for k, v in Counter(b['type'] for b in buildings).most_common()],
         'shelves': [{'shelf': k, 'books': v} for k, v in Counter(b.get('shelf') or 'Other' for b in books).most_common()],
         'log': log,
+        'plan': plan_rows(growth, summary[0]),
     }
     for name, rows in out.items():
         (OUT / f'{name}.json').write_text(json.dumps(rows, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
