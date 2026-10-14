@@ -1,2 +1,2 @@
-python -u tools/fetch_pritzker.py
-Save each Pritzker jury citation, full page text this time.
+python -u tools/fetch_logos.py
+Fetch the Go deeper logos again; archINFORM falls back to its favicon when its home page answers 300 or 404.

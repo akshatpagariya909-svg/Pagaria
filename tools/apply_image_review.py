@@ -10,6 +10,9 @@ model the photo upgrade picked:
           building's "skip" list in image_choices.json so a later fetch doesn't bring it back.
   kinds   {file: kind}: a photo the fetcher mislabelled as a drawing. Its label is corrected here,
           and fetch_images.py reads the same list, so the next fetch labels it right too.
+
+It also puts each gallery back in its usual order, so positions read off a contact sheet change: turn them
+into file names (the `file` of each picture) before running it.
 """
 import json, sys
 from pathlib import Path

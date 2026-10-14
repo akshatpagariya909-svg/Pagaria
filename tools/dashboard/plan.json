@@ -4,10 +4,10 @@
   "date": "2026-10-14",
   "workstream": "Data collection",
   "goal": "New buildings",
-  "target": 0,
-  "actual": 0,
-  "note": "Paused at the owner's request after round 6 (13 Oct). Resumes when the owner sets a daily target.",
-  "status": "paused"
+  "target": 500,
+  "actual": 317,
+  "note": "Resumed at the owner's request: 500–1,000 a day. Round 7: eight Sonnet chats, about 100 each, photos reviewed by eye before they go up. Counted once merged to the live site.",
+  "status": "open"
  },
  {
   "id": "2026-10-14-1",

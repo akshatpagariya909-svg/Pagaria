@@ -56,3 +56,64 @@ bagno-pubblico-bellinzona  # held back in round 6 review: no clear free photo of
 museum-university-navarra  # held back in round 6 review: no clear free photo of the building
 escola-do-cedro  # held back in round 6 review: no clear free photo of the building
 xanadu-calp  # held back in round 6 review: no clear free photo of the building
+tour-first  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-majunga  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-bretagne-nantes  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-areva  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+gioia-22-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+unicredit-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+matitone-genoa  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+heron-tower-london  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+millbank-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+rotunda-birmingham  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+beetham-tower-manchester  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+177-huntington  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+500-boylston-street  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+olympic-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+one-international-place  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+general-petroleum-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+kaiser-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+yeon-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+hotel-valley-ho  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+chase-tower-phoenix  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+wilshire-grand-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+first-canadian-place  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+torre-mayor  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+cite-fruges-pessac  # round 7 review: only photo is a street sign
+unite-d-habitation-firminy-vert  # round 7 review: lead shows only the roof terrace, others are landscape
+pont-de-normandie  # round 7 review: no photo shows the bridge clearly
+bourse-de-commerce-pinault-collection  # round 7 review: duplicate of bourse-de-commerce-pinault
+tour-hekla  # round 7 review: photos show it under construction
+neutra-vdl-studio-and-residences  # round 7 review: duplicate of vdl-research-house
+san-antonio-public-library  # round 7 review: duplicate of san-antonio-central-library
+palavela  # round 7 review: no exterior photo, lead is a crowd inside
+temple-emanuel-creve-coeur  # round 7 review: only photo is into the sun; the others show a different building
+alley-theatre  # round 7 review: no photo of the building: a sign, an actress, contact prints, a model plane
+natural-history-museum-of-utah  # round 7 review: no clear photo of the building: a lab, fossils, a far terrace
+st-peter-s-church  # round 7 review: duplicate of st-peter-s-church-klippan
+brazilian-museum-of-sculpture-mube  # round 7 review: duplicate of mube-brazilian-museum-of-sculpture
+uc-innovation-center-anacleto-angelini  # round 7 review: duplicate of anacleto-angelini-innovation-center
+yamanashi-press-and-broadcasting-center  # round 7 review: duplicate of yamanashi-press-and-broadcasting-centre
+leao-que-ri-smiling-lion  # round 7 review: duplicate of the-smiling-lion
+one-m-t-plaza  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+warsaw-spire  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+varso-tower-warsaw  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+reflections-at-keppel-bay  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+uob-plaza  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+oue-downtown  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+guoco-tower  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+baiyoke-tower-ii  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+state-tower  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+landmark-81  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+wisma-46  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+ramon-magsaysay-center  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+commercial-bank-and-trust-company-building  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+merdeka-118  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+parkview-square  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+kozara-monument-mrakovica  # round 7b review: no clear photo: far through trees, a silhouette, people in front
+manila-film-center  # round 7b review: no clear photo: column close-up, trees and a sign
+pasig-revolving-tower  # round 7b review: no photo of the building: a ceremony, a doormat, a lobby door, a roof deck
+capitan-luis-gonzaga-building  # round 7b review: no clear photo: a street crowd, a dark facade, a sign
+iglesia-filipina-independiente-national-cathedral  # round 7b review: no exterior: a flag, busts, a sign and two interiors
+blue-cross-blue-shield-building-chicago  # round 7b review: lead photo is not clearly this building; others are skyline views
+highfield-house-baltimore  # round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower

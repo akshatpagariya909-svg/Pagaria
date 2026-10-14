@@ -1,0 +1,3237 @@
+[
+ {
+  "id": "aluminaire-house",
+  "name": "Aluminaire House",
+  "by": "A. Lawrence Kocher and Albert Frey",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1931",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Steel & glass",
+   "Pilotis"
+  ],
+  "features": "Roughly cubic, about 1,200 sq ft, on six columns; corrugated metal over steel angles.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aluminaire_House"
+  ],
+  "note": "no free photo; Commons category Aluminaire House empty"
+ },
+ {
+  "id": "arthur-and-mona-hofmann-house",
+  "name": "Arthur and Mona Hofmann House",
+  "by": "Richard Neutra, with Otto Winkler",
+  "city": "Hillsborough",
+  "cc": "US",
+  "year": "1937",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Stucco International Style house with flat overhanging roof on an irregular rectangular plan.",
+  "status": "photo",
+  "commons_category": "Category:Arthur and Mona Hofmann House (Hillsborough, California)",
+  "photos": [
+   {
+    "file": "File:Arthur and Mona Hofmann House, 1048 La Cuesta Rd., Hillsborough, CA 9-5-2011 3-14-45 PM.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Arthur and Mona Hofmann House, 1048 La Cuesta Rd., Hillsborough, CA 9-5-2011 3-15-52 PM.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_and_Mona_Hofmann_House",
+   "https://commons.wikimedia.org/wiki/Category:Arthur_and_Mona_Hofmann_House_(Hillsborough,_California)"
+  ],
+  "note": "Photos chosen from file names only, not viewed. Only 2 big exterior files."
+ },
+ {
+  "id": "butterfly-house-carmel",
+  "name": "Butterfly House",
+  "by": "Francis W. Wynkoop",
+  "city": "Carmel-by-the-Sea",
+  "cc": "US",
+  "year": "1952",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Earth & local material",
+   "Landscape"
+  ],
+  "features": "Deck cantilevered over granite at the breakers; built of pumice block to blend with the rocks.",
+  "status": "photo",
+  "commons_category": "Category:Butterfly House (Carmel Point, California)",
+  "photos": [
+   {
+    "file": "File:Butterfly House in Carmel Point.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Butterfly House landscape view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Butterfly House and rocks.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Carmel Point Butterfly House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Butterfly_House_(Carmel_Point,_California)",
+   "https://commons.wikimedia.org/wiki/Category:Butterfly_House_(Carmel_Point,_California)"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "charles-e-young-research-library",
+  "name": "Charles E. Young Research Library",
+  "by": "A. Quincy Jones and Frederick Earl Emmons",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1970",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Section"
+  ],
+  "features": "Concrete skeleton with dark glass; east half opened 1964, west half 1970.",
+  "status": "photo",
+  "commons_category": "Category:Charles E. Young Research Library",
+  "photos": [
+   {
+    "file": "File:2019 UCLA Charles E. Young Research Library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charles_E._Young_Research_Library",
+   "https://commons.wikimedia.org/wiki/Category:Charles_E._Young_Research_Library"
+  ],
+  "note": "Photos chosen from file names only, not viewed. Only one exterior file."
+ },
+ {
+  "id": "chet-holifield-federal-building",
+  "name": "Chet Holifield Federal Building",
+  "by": "William L. Pereira",
+  "city": "Laguna Niguel",
+  "cc": "US",
+  "year": "1971",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Seven-tier stepped pyramid resembling a ziggurat, with a rock moat on three sides.",
+  "status": "photo",
+  "commons_category": "Category:Chet Holifield Federal Building",
+  "photos": [
+   {
+    "file": "File:Chet Holifield Federal Building 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chet Holifield Federal Building from southwest.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chet Holifield Federal Building 2013.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building",
+   "https://commons.wikimedia.org/wiki/Category:Chet_Holifield_Federal_Building"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "cinerama-dome",
+  "name": "Cinerama Dome",
+  "by": "Pierre Cabrol and Welton Becket & Associates",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Only concrete geodesic dome in the world, built from 316 hexagonal and pentagonal pieces.",
+  "status": "photo",
+  "commons_category": "Category:Cinerama Dome",
+  "photos": [
+   {
+    "file": "File:Cinerama Dome front.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Hollywood Cinerama Dome.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cinerama Dome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cinerama_Dome",
+   "https://commons.wikimedia.org/wiki/Category:Cinerama_Dome"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "coachella-valley-savings-no-1",
+  "name": "Coachella Valley Savings No. 1",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1955",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Brise-soleil",
+   "Climate response"
+  ],
+  "features": "White cube raised on columns over covered parking; windows shaded by vertical aluminum louvers.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coachella_Valley_Savings_No._1"
+  ],
+  "note": "no free photo; Commons category not found"
+ },
+ {
+  "id": "evans-hall-uc-berkeley",
+  "name": "Evans Hall",
+  "by": "Gardner Dailey",
+  "city": "Berkeley",
+  "cc": "US",
+  "year": "1971",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Statistics, economics and maths building known for many windowless classrooms.",
+  "status": "photo",
+  "commons_category": "Category:Evans Hall (UC Berkeley)",
+  "photos": [
+   {
+    "file": "File:UC-Berkeley-020-evans-hall-college-of-engineering.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Evans hall 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Evans hall 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Evans Hall.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evans_Hall_(UC_Berkeley)",
+   "https://commons.wikimedia.org/wiki/Category:Evans_Hall_(UC_Berkeley)"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "general-petroleum-building",
+  "name": "General Petroleum Building",
+  "by": "Walter Wurdeman and Welton Becket",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1949",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "13-story Modern highrise; at dedication the largest office building in Southern California.",
+  "status": "photo",
+  "commons_category": "Category:General Petroleum Building",
+  "photos": [
+   {
+    "file": "File:General Petroleum Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:General Petroleum Building, 612 S. Flower St. Downtown Los Angeles 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:General Petroleum Building, 612 S. Flower St. Downtown Los Angeles 10.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/General_Petroleum_Building",
+   "https://commons.wikimedia.org/wiki/Category:General_Petroleum_Building"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "hangover-house",
+  "name": "Hangover House",
+  "by": "William Alexander Levy",
+  "city": "Laguna Beach",
+  "cc": "US",
+  "year": "1938",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Cantilever"
+  ],
+  "features": "Concrete-and-glass flat-roofed boxes behind a 17-foot reinforced-concrete retaining wall.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hangover_House"
+  ],
+  "note": "no free photo; Commons category empty"
+ },
+ {
+  "id": "hallidie-building",
+  "name": "Hallidie Building",
+  "by": "Willis Polk",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1918",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "One of the country's first glass curtain walls.",
+  "status": "photo",
+  "commons_category": "Category:Hallidie Building",
+  "photos": [
+   {
+    "file": "File:Hallidie Building 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hallidie Building in San Francisco dllu.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hallidie Building 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hallidie_Building",
+   "https://commons.wikimedia.org/wiki/Category:Hallidie_Building"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "horatio-west-court",
+  "name": "Horatio West Court",
+  "by": "Irving Gill",
+  "city": "Santa Monica",
+  "cc": "US",
+  "year": "1919",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Geometry"
+  ],
+  "features": "Six small attached flat-roofed cubes around a driveway; Mission Revival arched entries.",
+  "status": "photo",
+  "commons_category": "Category:Horatio West Court",
+  "photos": [
+   {
+    "file": "File:Horatio West Court 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Horatio West Court, Santa Monica.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Horatio West Court 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Horatio_West_Court",
+   "https://commons.wikimedia.org/wiki/Category:Horatio_West_Court"
+  ],
+  "note": "Photos chosen from file names only, not viewed. Year 1919 in text, infobox c.1921."
+ },
+ {
+  "id": "hyatt-regency-san-francisco",
+  "name": "Hyatt Regency San Francisco",
+  "by": "John Portman & Associates",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1973",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Double height",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Atrium lobby 107 m long, 49 m wide, 52 m high, a record for a hotel lobby.",
+  "status": "photo",
+  "commons_category": "Category:Hyatt Regency San Francisco",
+  "photos": [
+   {
+    "file": "File:2015-07 Hyatt Regency San Francisco.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hyatt Regency San Francisco (110103874).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hyatt Regency San Francisco, San Francisco, United States (Unsplash).jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyatt_Regency_San_Francisco",
+   "https://commons.wikimedia.org/wiki/Category:Hyatt_Regency_San_Francisco"
+  ],
+  "note": "Photos chosen from file names only, not viewed. Some may be interior/atrium views."
+ },
+ {
+  "id": "kaiser-center",
+  "name": "Kaiser Center",
+  "by": "Welton Becket & Associates",
+  "city": "Oakland",
+  "cc": "US",
+  "year": "1960",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Planting",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Roof garden was the first built in the US after World War II; glass and aluminum exterior.",
+  "status": "photo",
+  "commons_category": "Category:Kaiser Center",
+  "photos": [
+   {
+    "file": "File:KaiserCenter2012.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Kaiser Center, Oakland, CA.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Kaiser Center.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaiser_Center",
+   "https://commons.wikimedia.org/wiki/Category:Kaiser_Center"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "kappe-residence",
+  "name": "Kappe Residence",
+  "by": "Raymond Kappe",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1967",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Structure as expression"
+  ],
+  "features": "Six concrete towers carry a glass-and-wood house on a steep treed lot.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kappe_Residence"
+  ],
+  "note": "no free photo; Commons category empty"
+ },
+ {
+  "id": "los-angeles-county-hall-of-records",
+  "name": "Los Angeles County Hall of Records",
+  "by": "Richard Neutra and Robert Alexander",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1962",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Aluminum louvers run the height of the south face, once designed to turn with the sun.",
+  "status": "photo",
+  "commons_category": "Category:Los Angeles County Hall of Records",
+  "photos": [
+   {
+    "file": "File:Los Angeles Hall of Records.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hall of Records at Night.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Los_Angeles_County_Hall_of_Records",
+   "https://commons.wikimedia.org/wiki/Category:Los_Angeles_County_Hall_of_Records"
+  ],
+  "note": "Photos chosen from file names only, not viewed. Category mixes City Hall images; only 2 chosen."
+ },
+ {
+  "id": "mark-taper-forum",
+  "name": "Mark Taper Forum",
+  "by": "Welton Becket and Associates",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Perfectly circular, exterior drum wrapped in precast relief by Jacques Overhoff.",
+  "status": "photo",
+  "commons_category": "Category:Mark Taper Forum",
+  "photos": [
+   {
+    "file": "File:LA Music Center Mark Taper Forum.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:LA Mark Taper Forum exterior.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mtf day 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Taper_Forum",
+   "https://commons.wikimedia.org/wiki/Category:Mark_Taper_Forum"
+  ],
+  "note": "Photos chosen from file names only, not viewed."
+ },
+ {
+  "id": "neutra-vdl-studio-and-residences",
+  "name": "Neutra VDL Studio and Residences",
+  "by": "Richard Neutra and Dion Neutra",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1932",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "Glass walls open onto patio gardens; small rooms around an open staircase.",
+  "status": "photo",
+  "commons_category": "Category:Neutra VDL Studio and Residences",
+  "photos": [
+   {
+    "file": "File:Neutra VDL Research House II.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Richard and Dion Neutra VDL Research House II, 2300 Silver Lake Blvd. Silver Lake 5097.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Neutra VDL-Studio-and-Residences-03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neutra_VDL_Studio_and_Residences",
+   "https://commons.wikimedia.org/wiki/Category:Neutra_VDL_Studio_and_Residences"
+  ],
+  "note": "judged from file names only; original 1932, rebuilt 1964 after fire"
+ },
+ {
+  "id": "pacific-design-center",
+  "name": "Pacific Design Center",
+  "by": "César Pelli",
+  "city": "West Hollywood",
+  "cc": "US",
+  "year": "1975",
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Center Blue, the 'Blue Whale', is clad in bright blue glass.",
+  "status": "photo",
+  "commons_category": "Category:Pacific Design Center",
+  "photos": [
+   {
+    "file": "File:Pacific Design Center-Blue.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:PacificDesignCenter01.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Pacific Design Center-Red.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Pacific Design Center (51017775296).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pacific_Design_Center",
+   "https://commons.wikimedia.org/wiki/Category:Pacific_Design_Center"
+  ],
+  "note": "judged from file names only; Norma Merrick Sklarek also contributed"
+ },
+ {
+  "id": "palm-springs-aerial-tramway",
+  "name": "Palm Springs Aerial Tramway",
+  "by": "Albert Frey, John Porter Clark and Robson Chambers (Valley Station); E. Stewart Williams (Mountain Station)",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1963",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Section"
+  ],
+  "features": "Bridge-like Valley Station spans a gully; car floors make two full turns per ride.",
+  "status": "photo",
+  "commons_category": "Category:Palm Springs Aerial Tramway",
+  "photos": [
+   {
+    "file": "File:Palm springs aerial tramway.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palm Springs Tramway 6 March 1996 - 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dry wash area, Palm Springs Aerial Tramway.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palm_Springs_Aerial_Tramway",
+   "https://commons.wikimedia.org/wiki/Category:Palm_Springs_Aerial_Tramway"
+  ],
+  "note": "judged from file names only; 2nd/3rd uncertain, third is under 2000px"
+ },
+ {
+  "id": "palm-springs-art-museum",
+  "name": "Palm Springs Art Museum",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1976",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Light & shadow"
+  ],
+  "features": "75,000 sq ft Modernist building; listed on the National Register in 2016.",
+  "status": "photo",
+  "commons_category": "Category:Palm Springs Art Museum",
+  "photos": [
+   {
+    "file": "File:WLM Palm Springs Art Museum front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:WLM Palm Springs Art Museum Oblique view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:WLM Palm Springs Art Museum South view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palm_Springs_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Palm_Springs_Art_Museum"
+  ],
+  "note": "judged from file names only; opened Jan 1976 (formerly Desert Museum)"
+ },
+ {
+  "id": "parker-center",
+  "name": "Parker Center",
+  "by": "Welton Becket & Associates; J.E. Stanton",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1955",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Brise-soleil",
+   "Detail"
+  ],
+  "features": "Eight-story reinforced concrete; west elevation covered in ceramic tile.",
+  "status": "photo",
+  "commons_category": "Category:Parker Center (Los Angeles)",
+  "photos": [
+   {
+    "file": "File:Los Angeles Police Administration Building - 1976.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parker_Center",
+   "https://commons.wikimedia.org/wiki/Category:Parker_Center_(Los_Angeles)"
+  ],
+  "note": "only one big free photo (historic 1976); others tiny PD; demolished 2019"
+ },
+ {
+  "id": "pearlman-mountain-cabin",
+  "name": "Pearlman Mountain Cabin",
+  "by": "John Lautner",
+  "city": "Idyllwild",
+  "cc": "US",
+  "year": "1957",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Cylindrical cabin on a boulder, flat roof held by encircling tree trunks.",
+  "status": "photo",
+  "commons_category": "Category:Pearlman Cabin",
+  "photos": [
+   {
+    "file": "File:USA CA Pearlman Mountain Cabin 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:USA CA Pearlman Mountain Cabin 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:PEARLMAN MOUNTAIN CABIN IDYLLWILD RIVERSIDE COUNTY CA.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pearlman_Mountain_Cabin",
+   "https://commons.wikimedia.org/wiki/Category:Pearlman_Cabin"
+  ],
+  "note": "judged from file names only; year 1957 = construction start per article; HABS drawings exist in category"
+ },
+ {
+  "id": "santa-monica-civic-auditorium",
+  "name": "Santa Monica Civic Auditorium",
+  "by": "Welton Becket & Associates",
+  "city": "Santa Monica",
+  "cc": "US",
+  "year": "1958",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Brise-soleil",
+   "Facade as skin"
+  ],
+  "features": "Parabolic pylons carry a cantilevered canopy; main floor tilts hydraulically.",
+  "status": "photo",
+  "commons_category": "Category:Santa Monica Civic Auditorium",
+  "photos": [
+   {
+    "file": "File:Santa Monica Civic Auditorium.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Santa Monica Civic Auditorium entrance pavilion 2023 September.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santa_Monica_Civic_Auditorium",
+   "https://commons.wikimedia.org/wiki/Category:Santa_Monica_Civic_Auditorium"
+  ],
+  "note": "judged from file names only"
+ },
+ {
+  "id": "sinai-temple-los-angeles",
+  "name": "Sinai Temple (Los Angeles)",
+  "by": "Sidney Eisenshtat; Mehrdad Yazdani with Dworsky Associates (1998 expansion)",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1956",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "Striking interior marked by stained glass; design compared to Frank Lloyd Wright.",
+  "status": "photo",
+  "commons_category": "Category:Sinai Temple (Los Angeles)",
+  "photos": [
+   {
+    "file": "File:Sinai Temple, Westwood, Los Angeles.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Back of the Sinai Temple, Westwood, Los Angeles.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sinai_Temple_(Los_Angeles)",
+   "https://commons.wikimedia.org/wiki/Category:Sinai_Temple_(Los_Angeles)"
+  ],
+  "note": "judged from file names only; article inconsistent on year (1956 vs 1960)"
+ },
+ {
+  "id": "smud-headquarters-building",
+  "name": "SMUD Headquarters Building",
+  "by": "Dreyfuss & Blackford",
+  "city": "Sacramento",
+  "cc": "US",
+  "year": "1961",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "Movable aluminum louvers control temperature and light; Wayne Thiebaud tile mural.",
+  "status": "photo",
+  "commons_category": "Category:SMUD Headquarters Building",
+  "photos": [
+   {
+    "file": "File:SMUD Headquarters Building Front Facade Panorama.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:SMUD HQ 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:SMUD HQ 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/SMUD_Headquarters_Building",
+   "https://commons.wikimedia.org/wiki/Category:SMUD_Headquarters_Building"
+  ],
+  "note": "judged from file names only"
+ },
+ {
+  "id": "television-city",
+  "name": "Television City",
+  "by": "William Pereira and Charles Luckman (Pereira & Luckman)",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1952",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Modular",
+   "Geometry",
+   "Colour"
+  ],
+  "features": "Black and white planes meet at sharp corners; colours marked expansion zones.",
+  "status": "photo",
+  "commons_category": "Category:CBS Television City",
+  "photos": [
+   {
+    "file": "File:Cbs La Studio (84226019).jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:CBS TelevisionCity02.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Television_City",
+   "https://commons.wikimedia.org/wiki/Category:CBS_Television_City"
+  ],
+  "note": "judged from file names only; few photos, neither >=2400px"
+ },
+ {
+  "id": "theme-building",
+  "name": "Theme Building",
+  "by": "Pereira & Luckman (William Pereira and Charles Luckman), with Paul Williams and Welton Becket",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "White form like a flying saucer landed on four legs; dedicated June 1961.",
+  "status": "photo",
+  "commons_category": "Category:Theme Building",
+  "photos": [
+   {
+    "file": "File:Iconic LAX Theme Park Restaurant (27252068389).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:LAX (a0004533) - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Empty Theme Building in August 2018.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Theme_Building",
+   "https://commons.wikimedia.org/wiki/Category:Theme_Building"
+  ],
+  "note": "judged from file names only; location LAX, Los Angeles"
+ },
+ {
+  "id": "thousand-oaks-civic-arts-plaza",
+  "name": "Thousand Oaks Civic Arts Plaza",
+  "by": "Antoine Predock",
+  "city": "Thousand Oaks",
+  "cc": "US",
+  "year": "1994",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Clad in Indian sandstone; anchored 22 feet underground in volcanic rock.",
+  "status": "unsure",
+  "commons_category": "Category:Civic Arts Plaza",
+  "photos": [
+   {
+    "file": "File:Thousand oaks civic arts plaza american luxury limousine.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thousand_Oaks_Civic_Arts_Plaza",
+   "https://commons.wikimedia.org/wiki/Category:Civic_Arts_Plaza"
+  ],
+  "note": "only 2 files, neither clearly the building exterior; no free photo"
+ },
+ {
+  "id": "tramway-gas-station",
+  "name": "Tramway Gas Station",
+  "by": "Albert Frey and Robson C. Chambers",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1965",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Cantilevered wedge-shaped canopy called a hyperbolic paraboloid; now a visitor center.",
+  "status": "photo",
+  "commons_category": "Category:Palm Springs Tramway Gas Station",
+  "photos": [
+   {
+    "file": "File:Palm Springs - Tramway Gas Station - 20150728120333.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palm Springs Visitor Center Sideview-(revised)2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palm Springs Tramway Gas Station1.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tramway_Gas_Station",
+   "https://commons.wikimedia.org/wiki/Category:Palm_Springs_Tramway_Gas_Station"
+  ],
+  "note": "judged from file names only; only first is >=1200 long side by far, 2nd 2897 wide, 3rd 1600"
+ },
+ {
+  "id": "valley-music-theater",
+  "name": "Valley Music Theater",
+  "by": "Thomas Wayne Lindsey (Hawkins and Lindsey)",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1963",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Concrete dome poured over a soil mound, then excavated; seated 2,865.",
+  "status": "unsure",
+  "commons_category": "Category:Valley Music Theater",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valley_Music_Theater",
+   "https://commons.wikimedia.org/wiki/Category:Valley_Music_Theater"
+  ],
+  "note": "no free photo; demolished 2007"
+ },
+ {
+  "id": "volcano-house-california",
+  "name": "Volcano House (California)",
+  "by": "Harold James Bissner Jr.",
+  "city": "Newberry Springs",
+  "cc": "US",
+  "year": "1969",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Landscape",
+   "Vault"
+  ],
+  "features": "16-sided dome house on a reinforced concrete ring atop an extinct cinder cone.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Volcano_House_(California)"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "von-sternberg-house",
+  "name": "Von Sternberg House",
+  "by": "Richard Neutra",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1935",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Mostly steel and glass exterior; separate taller garage bay for a Duesenberg.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Von_Sternberg_House"
+  ],
+  "note": "no free photo; demolished 1972"
+ },
+ {
+  "id": "wayfarers-chapel",
+  "name": "Wayfarers Chapel",
+  "by": "Lloyd Wright",
+  "city": "Rancho Palos Verdes",
+  "cc": "US",
+  "year": "1951",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "Glass enclosure lets the surrounding landscape define the sacred space; on a bluff above the Pacific.",
+  "status": "photo",
+  "commons_category": "Category:Wayfarers Chapel",
+  "photos": [
+   {
+    "file": "File:Wayfarer's Chapel.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wayfarers Chapel exterior wide Rancho Palos Verdes CA January 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wayfarers Chapel ~ Palos Verdes Peninsula.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wayfarers Chapel, Rancho Palos Verdes, United States (Unsplash).jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wayfarers_Chapel",
+   "https://commons.wikimedia.org/wiki/Category:Wayfarers_Chapel"
+  ],
+  "note": "judged from file names only; dismantled 2024"
+ },
+ {
+  "id": "yerba-buena-center-for-the-arts",
+  "name": "Yerba Buena Center for the Arts",
+  "by": "Fumihiko Maki (Galleries and Forum); James Stewart Polshek and Todd Schliemann (Theater)",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1993",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Two landmark buildings: Maki's Galleries and Forum and the Polshek and Schliemann Theater.",
+  "status": "photo",
+  "commons_category": "Category:Yerba Buena Center for the Arts",
+  "photos": [
+   {
+    "file": "File:Yerba Buena Center for the Arts, exterior, from Yerba Buena Gardens, San Francisco (May 2013).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:YBCA Novellus Theater main entrance.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:YBCA Novellus Theater west side 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yerba_Buena_Center_for_the_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Yerba Buena Center for the Arts"
+  ],
+  "note": "Year 1993 is opening year per article; judged from file names only"
+ },
+ {
+  "id": "zellerbach-hall",
+  "name": "Zellerbach Hall",
+  "by": "Vernon DeMars",
+  "city": "Berkeley",
+  "cc": "US",
+  "year": "1968",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "1,984-seat auditorium with built-in concert shell, plus a 500-seat Playhouse.",
+  "status": "photo",
+  "commons_category": "Category:Zellerbach Hall",
+  "photos": [
+   {
+    "file": "File:Berkeley Zellerbach Hall.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Zellerbach01.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zellerbach_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Zellerbach Hall"
+  ],
+  "note": "Only 2 clearly-exterior photos; judged from file names only"
+ },
+ {
+  "id": "hope-residence",
+  "name": "Hope Residence",
+  "by": "John Lautner",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1979",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Large undulating triangular roof with a central light shaft.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hope_Residence"
+  ],
+  "note": "no free photo (no Commons category found)"
+ },
+ {
+  "id": "kronish-house",
+  "name": "Kronish House",
+  "by": "Richard Neutra",
+  "city": "Beverly Hills",
+  "cc": "US",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Free plan",
+   "Geometry"
+  ],
+  "features": "Pinwheel layout with a glass-enclosed garden visible from several rooms.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kronish_House"
+  ],
+  "note": "no free photo (category empty)"
+ },
+ {
+  "id": "koerner-house",
+  "name": "Koerner House",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1955",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Climate response",
+   "Structure as expression"
+  ],
+  "features": "Post-and-beam frame, shed roof, wide eaves and large glass walls with sliding doors.",
+  "status": "photo",
+  "commons_category": "Category:Koerner House",
+  "photos": [
+   {
+    "file": "File:Koerner House 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Koerner House 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Koerner_House_(Palm_Springs,_California)",
+   "https://commons.wikimedia.org/wiki/Category:Koerner House"
+  ],
+  "note": "judged from file names only"
+ },
+ {
+  "id": "palm-springs-unified-school-district-educational-administrative-center",
+  "name": "Palm Springs Unified School District Educational Administrative Center",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1960",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Climate response",
+   "Geometry"
+  ],
+  "features": "Flat roof, deep overhangs, steel frame and large glass surfaces.",
+  "status": "photo",
+  "commons_category": "Category:Palm Springs Unified School District Educational Administrative Center",
+  "photos": [
+   {
+    "file": "File:Palm Springs Unified School District Educational Administrative Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:PS Unified School District 58.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:PS Unified School District 59.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palm_Springs_Unified_School_District_Educational_Administrative_Center",
+   "https://commons.wikimedia.org/wiki/Category:Palm Springs Unified School District Educational Administrative Center"
+  ],
+  "note": "Category found by title, not linked in article; judged from file names only"
+ },
+ {
+  "id": "santa-fe-federal-savings-and-loan-association",
+  "name": "Santa Fe Federal Savings and Loan Association",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1960",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Climate response",
+   "Light & shadow"
+  ],
+  "features": "Inspired by Mies's Barcelona Pavilion; sliding perforated metal panels control sunlight.",
+  "status": "photo",
+  "commons_category": "Category:Palm Springs Art Museum Architecture & Design Center-Edwards Harris Pavilion",
+  "photos": [
+   {
+    "file": "File:Edwards Harris Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Palm Springs Art Museum Architecture & Design Centerr-Edwards Harris Pavilion 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:WLM EHP 3qtr.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santa_Fe_Federal_Savings_and_Loan_Association",
+   "https://commons.wikimedia.org/wiki/Category:Palm Springs Art Museum Architecture & Design Center-Edwards Harris Pavilion"
+  ],
+  "note": "Now Edwards Harris Pavilion; judged from file names only"
+ },
+ {
+  "id": "japan-center-san-francisco",
+  "name": "Japan Center (San Francisco)",
+  "by": "Minoru Yamasaki",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": "1968",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Public space",
+   "Promenade",
+   "Exposed concrete"
+  ],
+  "features": "Described as Brutalist slabwork; interiors evoke narrow Japanese streets.",
+  "status": "unsure",
+  "commons_category": "Category:Japan Center (San Francisco)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Japan_Center_(San_Francisco)",
+   "https://commons.wikimedia.org/wiki/Category:Japan Center (San Francisco)"
+  ],
+  "note": "Category (also tried Japan Center, San Francisco) has no files clearly of the complex"
+ },
+ {
+  "id": "alley-theatre",
+  "name": "Alley Theatre",
+  "by": "Ulrich Franzen",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1968",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Concrete Brutalist exterior with no right angles.",
+  "status": "photo",
+  "commons_category": "Category:Alley Theatre",
+  "photos": [
+   {
+    "file": "File:AlleyTheatreEntrance.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Houston Texas Alley Theater 2003.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:AlleyHouston.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alley_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Alley Theatre"
+  ],
+  "note": "Photos below 1200px (nothing bigger exterior); judged from file names only"
+ },
+ {
+  "id": "austin-city-hall",
+  "name": "Austin City Hall",
+  "by": "Antoine Predock; Cotera + Reed Architects",
+  "city": "Austin",
+  "cc": "US",
+  "year": "2004",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Earth & local material",
+   "Reclaimed material"
+  ],
+  "features": "Designed to reflect the city's vitality; built partly with recycled materials.",
+  "status": "photo",
+  "commons_category": "Category:Austin City Hall",
+  "photos": [
+   {
+    "file": "File:Austin August 2019 30 (Austin City Hall).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Austin City Hall (54987519110).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Austin City Hall Front.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Austin_City_Hall_(Austin,_Texas)",
+   "https://commons.wikimedia.org/wiki/Category:Austin City Hall"
+  ],
+  "note": "Used Category:Austin City Hall (linked one empty); judged from file names only"
+ },
+ {
+  "id": "houston-bar-center-building",
+  "name": "Houston Bar Center Building",
+  "by": "Eugene William Slater",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1966",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Stone",
+   "Detail"
+  ],
+  "features": "1966 remodel joined two 1910s buildings into one New Formalist tower in granite and marble.",
+  "status": "unsure",
+  "commons_category": "Category:Houston Bar Center Building",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Houston_Bar_Center_Building",
+   "https://commons.wikimedia.org/wiki/Category:Houston Bar Center Building"
+  ],
+  "note": "Only one free photo (Houston Bar Center.jpg, 2061x2403, CC BY-SA 4.0); not enough"
+ },
+ {
+  "id": "marathon-oil-tower",
+  "name": "Marathon Oil Tower",
+  "by": "Pierce Goodwin Alexander & Linville",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1983",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "41-floor, 562 ft office tower in Uptown Houston.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marathon_Oil_Tower"
+  ],
+  "note": "no free photo (category empty)"
+ },
+ {
+  "id": "reunion-tower",
+  "name": "Reunion Tower",
+  "by": "Welton Becket & Associates",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1978",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "561 ft observation tower topped by a sphere with an aluminum-strut geodesic dome.",
+  "status": "photo",
+  "commons_category": "Category:Reunion Tower",
+  "photos": [
+   {
+    "file": "File:Reunion Tower, Dallas, Texas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Reunion Tower Dallas Texas Closeup 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Reunion tower dallas.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reunion_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Reunion Tower"
+  ],
+  "note": "judged from file names only"
+ },
+ {
+  "id": "san-antonio-public-library",
+  "name": "San Antonio Public Library",
+  "by": "Ricardo Legorreta; Sprinkle Robey Architects; Johnson-Dempsey & Associates",
+  "city": "San Antonio",
+  "cc": "US",
+  "year": "1995",
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Double height"
+  ],
+  "features": "Bright yellow multi-storey atrium; exterior in 'Enchilada Red'.",
+  "status": "photo",
+  "commons_category": "Category:San Antonio Public Library",
+  "photos": [
+   {
+    "file": "File:Central Library II (48874533928).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:SAPL4.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:SAPL5.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Antonio_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:San Antonio Public Library"
+  ],
+  "note": "SAPL4/5 may include interior; judged from file names only"
+ },
+ {
+  "id": "thanks-giving-square",
+  "name": "Thanks-Giving Square",
+  "by": "Philip Johnson",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1976",
+  "type": "Public space",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Water",
+   "Light from above"
+  ],
+  "features": "Sits about 15 ft below street level; chapel spiral rises 90 ft with the Glory Window.",
+  "status": "photo",
+  "commons_category": "Category:Thanks-Giving Square",
+  "photos": [
+   {
+    "file": "File:Dallas Thanks-Giving Square 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dallas Thanks-Giving Square 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dallas Thanks-Giving Square 04.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thanks-Giving_Square",
+   "https://commons.wikimedia.org/wiki/Category:Thanks-Giving Square"
+  ],
+  "note": "judged from file names only"
+ },
+ {
+  "id": "republic-center",
+  "name": "Republic Center",
+  "by": "Harrison & Abramovitz",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1954",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "Towers clad in interlocking aluminum plates bearing the bank's four-pointed star.",
+  "status": "unsure",
+  "commons_category": "Category:Republic Center (Dallas)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Republic_Center",
+   "https://commons.wikimedia.org/wiki/Category:Republic Center (Dallas)"
+  ],
+  "note": "Complex of three towers (1954/1964/1980); only 2 free photos, tower unclear"
+ },
+ {
+  "id": "corrigan-tower",
+  "name": "Corrigan Tower",
+  "by": "Wyatt C. Hedrick",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1952",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Brick"
+  ],
+  "features": "Facades of solid light-brick planes with glass ribbon windows at the northwest corner.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Corrigan_Tower"
+  ],
+  "note": "no free photo (no Commons category)"
+ },
+ {
+  "id": "freeway-park",
+  "name": "Freeway Park",
+  "by": "Lawrence Halprin & Associates (Angela Danadjieva)",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1976",
+  "type": "Public space",
+  "movement": "Brutalism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Exposed concrete"
+  ],
+  "features": "Built over Interstate 5 and a parking lot; blends brutalist architecture with greenery.",
+  "status": "photo",
+  "commons_category": "Category:Freeway Park, Seattle",
+  "photos": [
+   {
+    "file": "File:Freeway Park Seattle.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Freeway Park canyon.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Freeway Park Seattle 26.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freeway_Park",
+   "https://commons.wikimedia.org/wiki/Category:Freeway Park, Seattle"
+  ],
+  "note": "Wikipedia names Halprin's office under Danadjieva; judged from file names only"
+ },
+ {
+  "id": "kingdome",
+  "name": "Kingdome",
+  "by": "Naramore, Skilling & Praeger",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1976",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Multi-purpose stadium 660 ft wide inside; built as football stadium convertible to baseball.",
+  "status": "photo",
+  "commons_category": "Category:Kingdome",
+  "photos": [
+   {
+    "file": "File:Kingdome across parking lot in 1996.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Kingdome and skyline, circa 1985 - Flickr - Seattle Municipal Archives.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Kingdome at night with I-90.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kingdome",
+   "https://commons.wikimedia.org/wiki/Category:Kingdome"
+  ],
+  "note": "Demolished 2000; archival photos only; judged from filenames"
+ },
+ {
+  "id": "tacoma-dome",
+  "name": "Tacoma Dome",
+  "by": "Jim McGranahan and Lyn Messenger",
+  "city": "Tacoma",
+  "cc": "US",
+  "year": "1983",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Timber",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "530 ft diameter, 152 ft high; largest wooden-domed arena by volume when opened.",
+  "status": "photo",
+  "commons_category": "Category:Tacoma Dome",
+  "photos": [
+   {
+    "file": "File:Tacoma Dome 2497.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tacoma Dome from Interstate 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tacoma Dome 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tacoma_Dome",
+   "https://commons.wikimedia.org/wiki/Category:Tacoma_Dome"
+  ],
+  "note": "Judged from filenames"
+ },
+ {
+  "id": "aubrey-r-watzek-house",
+  "name": "Aubrey R. Watzek House",
+  "by": "John Yeon",
+  "city": "Portland",
+  "cc": "US",
+  "year": "1937",
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Courtyard",
+   "Landscape"
+  ],
+  "features": "Single-story gable-roofed wood-frame house in a U-shape around a central courtyard.",
+  "status": "photo",
+  "commons_category": "Category:Aubrey R. Watzek House",
+  "photos": [
+   {
+    "file": "File:Aubrey R Watzek House 1 (Portland, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aubrey R Watzek House 2 (Portland, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Watzek House Steps (Portland, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aubrey_R._Watzek_House",
+   "https://commons.wikimedia.org/wiki/Category:Aubrey_R._Watzek_House"
+  ],
+  "note": "Only 3 files; judged from filenames"
+ },
+ {
+  "id": "yeon-building",
+  "name": "Yeon Building",
+  "by": "Reid & Reid",
+  "city": "Portland",
+  "cc": "US",
+  "year": "1911",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Stone"
+  ],
+  "features": "15-story office building almost completely clad in glazed terra-cotta, with a colonnade on top floors.",
+  "status": "photo",
+  "commons_category": "Category:Yeon Building",
+  "photos": [
+   {
+    "file": "File:Yeon Building - Portland, Oregon.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Yeon Building, Portland.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Yeon Building backside - Portland, Oregon.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yeon_Building",
+   "https://commons.wikimedia.org/wiki/Category:Yeon_Building"
+  ],
+  "note": "Category also has a San Francisco-named file, avoided; judged from filenames"
+ },
+ {
+  "id": "eugene-city-hall",
+  "name": "Eugene City Hall",
+  "by": "Stafford, Morin, and Longwood",
+  "city": "Eugene",
+  "cc": "US",
+  "year": "1964",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Single-story building with central plaza and underground parking; demolished 2014-15.",
+  "status": "photo",
+  "commons_category": "Category:Eugene City Hall",
+  "photos": [
+   {
+    "file": "File:City Hall (Eugene, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Eugene City Hall in 2014.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:City Hall in Downtown Eugene, Oregon.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eugene_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Eugene_City_Hall"
+  ],
+  "note": "Demolished; judged from filenames, numbered files may include other views"
+ },
+ {
+  "id": "chapel-of-the-holy-cross",
+  "name": "Chapel of the Holy Cross",
+  "by": "August K. Strotz and Richard Hein (Anshen & Allen)",
+  "city": "Sedona",
+  "cc": "US",
+  "year": "1956",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "features": "Built into red rock buttes; roughly 90-ft iron cross is also structural, in sandblasted 1-ft concrete walls.",
+  "status": "photo",
+  "commons_category": "Category:Chapel of the Holy Cross (Sedona, Arizona)",
+  "photos": [
+   {
+    "file": "File:Chapel of the Holy Cross From Below.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Red Rock Scenic Byway - Chapel of the Holy Cross - NARA - 7721229.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_(Sedona,_Arizona)",
+   "https://commons.wikimedia.org/wiki/Category:Chapel_of_the_Holy_Cross_(Sedona,_Arizona)"
+  ],
+  "note": "Only 3 files in category; judged from filenames"
+ },
+ {
+  "id": "hotel-valley-ho",
+  "name": "Hotel Valley Ho",
+  "by": "Edward L. Varney",
+  "city": "Scottsdale",
+  "cc": "US",
+  "year": "1956",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Climate response",
+   "Colour"
+  ],
+  "features": "More than a mile of repeated V-shaped burnished red concrete forms runs along the balconies.",
+  "status": "photo",
+  "commons_category": "Category:Hotel Valley Ho",
+  "photos": [
+   {
+    "file": "File:Scottsdale-Hotel Valley Ho-1956-1.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Scottsdale-Hotel Valley Ho-1956-2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Valley Ho Hotel east wing.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Valley_Ho",
+   "https://commons.wikimedia.org/wiki/Category:Hotel_Valley_Ho"
+  ],
+  "note": "Last pick is 1024px; panoramio 'Arts Districts' files not used"
+ },
+ {
+  "id": "painted-desert-community-complex",
+  "name": "Painted Desert Community Complex",
+  "by": "Richard Neutra and Robert Alexander",
+  "city": "Petrified Forest National Park",
+  "cc": "US",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Cluster",
+   "Promenade"
+  ],
+  "features": "Buildings deliberately contrast with the natural environment; low walls and pedestrian paths organise the site.",
+  "status": "unsure",
+  "commons_category": "Category:Painted Desert Community Complex Historic District",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Painted_Desert_Community_Complex_Historic_District",
+   "https://commons.wikimedia.org/wiki/Category:Painted_Desert_Community_Complex_Historic_District"
+  ],
+  "note": "no free photo: only one courtyard file (PEFO headquarters courtyard.jpg, CC BY-SA 3.0, 4253x2730) available; arguably not exterior-clear"
+ },
+ {
+  "id": "tempe-municipal-building",
+  "name": "Tempe Municipal Building",
+  "by": "Rolf Osland, Michael Goodwin, and Kemper Goodwin",
+  "city": "Tempe",
+  "cc": "US",
+  "year": "1971",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Climate response",
+   "Sculptural form"
+  ],
+  "features": "Inverted-pyramid city hall; the shape is credited with keeping it cool in summer and warm in winter.",
+  "status": "photo",
+  "commons_category": "Category:Tempe Municipal Building",
+  "photos": [
+   {
+    "file": "File:Tempe Municipal Building-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tempe Municipal Building - Tempe, AZ -DSC06004.JPG",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Tempe Municipal Building-3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Tempe City Hall - Tempe, AZ.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tempe_Municipal_Building",
+   "https://commons.wikimedia.org/wiki/Category:Tempe_Municipal_Building"
+  ],
+  "note": "Judged from filenames"
+ },
+ {
+  "id": "chase-tower-phoenix",
+  "name": "Chase Tower",
+  "by": "Welton Becket and Associates",
+  "city": "Phoenix",
+  "cc": "US",
+  "year": "1972",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "40-story tower, tallest in Arizona (483 ft); clover-leaf footprint with a concrete elevator core stem.",
+  "status": "photo",
+  "commons_category": "Category:Chase Tower (Phoenix)",
+  "photos": [
+   {
+    "file": "File:Chase Tower PHX, night.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chase Tower, Downtown PHX 1.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chase Tower Phoenix 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chase Tower (Phoenix).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chase_Tower_(Phoenix)",
+   "https://commons.wikimedia.org/wiki/Category:Chase_Tower_(Phoenix)"
+  ],
+  "note": "Judged from filenames"
+ },
+ {
+  "id": "arizona-cancer-center-chapel",
+  "name": "Arizona Cancer Center Chapel",
+  "by": "Paolo Soleri",
+  "city": "Tucson",
+  "cc": "US",
+  "year": "1986",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Vault",
+   "Earth & local material",
+   "Detail"
+  ],
+  "features": "Sand-cast barrel-vaulted concrete ceilings with embedded botanical graphics echoing the desert.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arizona_Cancer_Center_Chapel"
+  ],
+  "note": "no free photo: no Commons category linked and title-named category empty"
+ },
+ {
+  "id": "brooks-tower",
+  "name": "Brooks Tower",
+  "by": "Max Ratner",
+  "city": "Denver",
+  "cc": "US",
+  "year": "1968",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "42-story cylindrical residential tower, shaped for panoramic views.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brooks_Tower"
+  ],
+  "note": "no free photo: no Commons category found; title category empty"
+ },
+ {
+  "id": "dennis-chavez-federal-building",
+  "name": "Dennis Chavez Federal Building",
+  "by": "Flatow, Moore, Bryan, and Fairburn",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "Steel-framed high-rise faced with polished granite; lobby uses New Mexico marble.",
+  "status": "photo",
+  "commons_category": "Category:Dennis Chavez Federal Building",
+  "photos": [
+   {
+    "file": "File:Dennis Chavez Federal Building Albuquerque 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dennis_Chavez_Federal_Building",
+   "https://commons.wikimedia.org/wiki/Category:Dennis_Chavez_Federal_Building"
+  ],
+  "note": "Only one usable exterior (others small or skyline); judged from filenames"
+ },
+ {
+  "id": "albuquerque-main-library",
+  "name": "Albuquerque Main Library",
+  "by": "George Pearl (Stevens, Mallory, Pearl and Campbell)",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": "1975",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Modular",
+   "Free plan"
+  ],
+  "features": "Concrete-framed Brutalist library in brown brick; open floors subdivided on 9-ft modules.",
+  "status": "photo",
+  "commons_category": "Category:Main Library (Albuquerque, New Mexico)",
+  "photos": [
+   {
+    "file": "File:Main Library Albuquerque 2006.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mainlibrary albuquerque.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Main_Library_(Albuquerque,_New_Mexico)",
+   "https://commons.wikimedia.org/wiki/Category:Main_Library_(Albuquerque,_New_Mexico)"
+  ],
+  "note": "Category found by Wikipedia title (none linked in article); judged from filenames"
+ },
+ {
+  "id": "solar-building-albuquerque",
+  "name": "Solar Building",
+  "by": "Stanley & Wright",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": "1956",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "World's first commercial building heated primarily by solar energy; 56 collectors on a south-facing wall.",
+  "status": "photo",
+  "commons_category": "Category:Solar Building",
+  "photos": [
+   {
+    "file": "File:Solar Building, Albuquerque NM.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Solar Building Albuquerque 2003 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Solar Building Albuquerque 2003 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Solar_Building",
+   "https://commons.wikimedia.org/wiki/Category:Solar_Building"
+  ],
+  "note": "Last two are ~1520px; judged from filenames"
+ },
+ {
+  "id": "hoffmantown-baptist-church",
+  "name": "Hoffmantown Baptist Church",
+  "by": "Kruger, Lake and Henderson",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": "1965",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "North facade has six colossal tapered pilasters; bays covered in small blue tiles.",
+  "status": "photo",
+  "commons_category": "Category:Hoffmantown Baptist Church",
+  "photos": [
+   {
+    "file": "File:Former Hoffmantown Baptist Church Albuquerque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hoffmantown_Baptist_Church",
+   "https://commons.wikimedia.org/wiki/Category:Hoffmantown_Baptist_Church"
+  ],
+  "note": "Only one file"
+ },
+ {
+  "id": "bullitt-center",
+  "name": "Bullitt Center",
+  "by": "Miller Hull",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "2012",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Human comfort"
+  ],
+  "features": "Rooftop array of 575 panels and 26 geothermal wells about 400 ft deep.",
+  "status": "photo",
+  "commons_category": "Category:Bullitt Center",
+  "photos": [
+   {
+    "file": "File:Seattle - Bullitt Center 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Seattle - Bullitt Center 03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Seattle - Bullitt Center 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bullitt_Center",
+   "https://commons.wikimedia.org/wiki/Category:Bullitt_Center"
+  ],
+  "note": "Avoided under-construction and interior files; judged from filenames"
+ },
+ {
+  "id": "fort-worth-water-gardens",
+  "name": "Fort Worth Water Gardens",
+  "by": "Philip Johnson and John Burgee",
+  "city": "Fort Worth",
+  "cc": "US",
+  "year": "1974",
+  "type": "Public space",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Water",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Active Pool sends water down 38 ft of terraces; Quiet Pool walls are covered in thin sheets of water.",
+  "status": "photo",
+  "commons_category": "Category:Fort Worth Water Gardens",
+  "photos": [
+   {
+    "file": "File:Fort Worth Water Gardens 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fort Worth Water Gardens June 2016 6 (Active Pool).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Fort Worth Water Gardens June 2016 2 (Quiet Pool).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fort_Worth_Water_Gardens",
+   "https://commons.wikimedia.org/wiki/Category:Fort_Worth_Water_Gardens"
+  ],
+  "note": "Judged from filenames"
+ },
+ {
+  "id": "nasher-sculpture-center",
+  "name": "Nasher Sculpture Center",
+  "by": "Renzo Piano; Peter Walker (garden)",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "2003",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Glass roof over galleries; garden terraces down to an open-air auditorium.",
+  "status": "photo",
+  "commons_category": "Category:Nasher Sculpture Center",
+  "photos": [
+   {
+    "file": "File:Nasher Sculpture Center August 2017 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nasher Sculpture Center August 2017 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Nasher Sculpture Center August 2017 8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nasher_Sculpture_Center",
+   "https://commons.wikimedia.org/wiki/Category:Nasher Sculpture Center"
+  ],
+  "note": "Year is the opening year per article. Picked by file name only."
+ },
+ {
+  "id": "wyly-theatre",
+  "name": "Dee and Charles Wyly Theatre",
+  "by": "Joshua Prince-Ramus and Rem Koolhaas (REX | OMA)",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Section",
+   "Void"
+  ],
+  "features": "Stacked vertical theatre; facade of anodized aluminium rods symbolising theatre curtain folds.",
+  "status": "photo",
+  "commons_category": "Category:Wyly Theatre (Dallas)",
+  "photos": [
+   {
+    "file": "File:Dallas Wyly Theatre 03.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dallas Wyly Theatre from Winspear Opera.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Distant view of the Dee and Charles Wyly Theatre (edited).jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dee_and_Charles_Wyly_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Wyly Theatre (Dallas)"
+  ],
+  "note": "By file name only."
+ },
+ {
+  "id": "clyfford-still-museum",
+  "name": "Clyfford Still Museum",
+  "by": "Allied Works Architecture (Brad Cloepfil)",
+  "city": "Denver",
+  "cc": "US",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Exposed concrete",
+   "Section"
+  ],
+  "features": "Single-artist museum with nine galleries and two outdoor terraces.",
+  "status": "photo",
+  "commons_category": "Category:Clyfford Still Museum",
+  "photos": [
+   {
+    "file": "File:Clyfford Still Museum by CSM staff.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:GlyffordStillMuseum.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:GlyffordStillMuseum1.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clyfford_Still_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Clyfford Still Museum"
+  ],
+  "note": "By file name only; exterior not verified. Concepts not from article."
+ },
+ {
+  "id": "natural-history-museum-of-utah",
+  "name": "Natural History Museum of Utah",
+  "by": "Ennead Architects and GSBS",
+  "city": "Salt Lake City",
+  "cc": "US",
+  "year": "2011",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Earth & local material"
+  ],
+  "features": "Rio Tinto Center, about 163,000 sq ft on a 17-acre campus in the Wasatch foothills.",
+  "status": "photo",
+  "commons_category": "Category:Natural History Museum of Utah",
+  "photos": [
+   {
+    "file": "File:Natural History Museum of Utah (6882555822).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Walkway approach.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Natural_History_Museum_of_Utah",
+   "https://commons.wikimedia.org/wiki/Category:Natural History Museum of Utah"
+  ],
+  "note": "Few exterior files; by file name only."
+ },
+ {
+  "id": "olympic-sculpture-park",
+  "name": "Olympic Sculpture Park",
+  "by": "Weiss/Manfredi",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "2007",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Water"
+  ],
+  "features": "Free park with indoor pavilion and a shoreline slope built with 50,000 tonnes of riprap.",
+  "status": "photo",
+  "commons_category": "Category:Olympic Sculpture Park",
+  "photos": [
+   {
+    "file": "File:Olympic Sculpture Park Seattle seen from waterfront.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Olympic Sculpture Park sunset panorama.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Olympic sculpture park 0442.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Sculpture_Park",
+   "https://commons.wikimedia.org/wiki/Category:Olympic Sculpture Park"
+  ],
+  "note": "Opened Jan 2007. By file name only."
+ },
+ {
+  "id": "oregon-convention-center",
+  "name": "Oregon Convention Center",
+  "by": "Zimmer Gunsul Frasca Architects (ZGF)",
+  "city": "Portland",
+  "cc": "US",
+  "year": "1990",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Light from above",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Twin spire towers bring light inside; ballroom of 35,000 sq ft is Portland's largest.",
+  "status": "photo",
+  "commons_category": "Category:Oregon Convention Center",
+  "photos": [
+   {
+    "file": "File:Exterior1 (30778316935).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Exterior2 (30741792006).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Exterior3 (30477562280).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oregon_Convention_Center",
+   "https://commons.wikimedia.org/wiki/Category:Oregon Convention Center"
+  ],
+  "note": "Article lead says 1989, infobox 1990. Movement is a guess."
+ },
+ {
+  "id": "seattle-art-museum",
+  "name": "Seattle Art Museum",
+  "by": "Robert Venturi (Venturi, Scott Brown and Associates)",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Circulation",
+   "Stone"
+  ],
+  "features": "Limestone-clad rectangle with a band of tile and terra cotta; main stair known as the Art Ladder.",
+  "status": "unsure",
+  "commons_category": "Category:Seattle Art Museum",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seattle_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Seattle Art Museum"
+  ],
+  "note": "no clear free exterior photo"
+ },
+ {
+  "id": "benaroya-hall",
+  "name": "Benaroya Hall",
+  "by": "LMN Architects",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1998",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Section",
+   "Public space"
+  ],
+  "features": "Performance hall rests on rubber pads isolating it from the outer shell.",
+  "status": "photo",
+  "commons_category": "Category:Benaroya Hall",
+  "photos": [
+   {
+    "file": "File:Benaroya Hall, Seattle, Washington, USA.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Benaroya Hall, Seattle, Washington, USA cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Benaroya Hall at night 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benaroya_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Benaroya Hall"
+  ],
+  "note": "Year is opening (Sept 1998). By file name only."
+ },
+ {
+  "id": "henry-art-gallery",
+  "name": "Henry Art Gallery",
+  "by": "Bebb and Gould; Gwathmey Siegel & Associates (expansion)",
+  "city": "Seattle",
+  "cc": "US",
+  "year": "1927",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Void",
+   "Courtyard"
+  ],
+  "features": "Opened 1927; 1997 expansion added a 154-seat auditorium and a Turrell Skyspace has a retractable roof.",
+  "status": "photo",
+  "commons_category": "Category:Henry Art Gallery",
+  "photos": [
+   {
+    "file": "File:Henry Art Gallery 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Henry Art Gallery at the University of Washington.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:HAG2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henry_Art_Gallery",
+   "https://commons.wikimedia.org/wiki/Category:Henry Art Gallery"
+  ],
+  "note": "Year is opening date. Movement is a guess. By file name only."
+ },
+ {
+  "id": "edris-house",
+  "name": "Edris House",
+  "by": "E. Stewart Williams",
+  "city": "Palm Springs",
+  "cc": "US",
+  "year": "1954",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Light & shadow"
+  ],
+  "features": "Mid-century modern house on a rocky outcrop, clad in wood.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edris_House"
+  ],
+  "note": "no free photo"
+ },
+ {
+  "id": "norton-simon-museum",
+  "name": "Norton Simon Museum",
+  "by": "Thornton Ladd and John Kelsey (Ladd & Kelsey)",
+  "city": "Pasadena",
+  "cc": "US",
+  "year": "1969",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Facade faced with 115,000 glazed tiles by Edith Heath on an undulating surface.",
+  "status": "photo",
+  "commons_category": "Category:Norton Simon Museum",
+  "photos": [
+   {
+    "file": "File:Norton Simon Museum entrance 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Norton Simon Museum entrance 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Norton Simon Museum Pasadena CA (51081778692).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Norton_Simon_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Norton Simon Museum"
+  ],
+  "note": "By file name only. Movement is a guess."
+ },
+ {
+  "id": "jacobs-medical-center",
+  "name": "Jacobs Medical Center",
+  "by": "CannonDesign",
+  "city": "La Jolla",
+  "cc": "US",
+  "year": "2016",
+  "type": "Health",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Human comfort"
+  ],
+  "features": "Tower of 509,500 sq ft with 245 beds; surgery pavilion has 14 operating rooms.",
+  "status": "photo",
+  "commons_category": "Category:Jacobs Medical Center",
+  "photos": [
+   {
+    "file": "File:Jacobs Medical Center southwest.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jacobs Medical Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jacobs Medical Center entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacobs_Medical_Center",
+   "https://commons.wikimedia.org/wiki/Category:Jacobs Medical Center"
+  ],
+  "note": "By file name only."
+ },
+ {
+  "id": "gas-company-tower",
+  "name": "Gas Company Tower",
+  "by": "Richard Keating; Skidmore, Owings and Merrill",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1991",
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Steel & glass",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "52-story, 749 ft office tower on Bunker Hill with 28 elevators.",
+  "status": "unsure",
+  "commons_category": "Category:Gas Company Tower",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gas_Company_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Gas Company Tower"
+  ],
+  "note": "no clear free exterior photo"
+ },
+ {
+  "id": "wilshire-grand-center",
+  "name": "Wilshire Grand Center",
+  "by": "AC Martin Partners",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "2017",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "1,100 ft mixed-use tower with a sail-shaped crown lit by LEDs at night.",
+  "status": "photo",
+  "commons_category": "Category:Wilshire Grand Center",
+  "photos": [
+   {
+    "file": "File:Wilshire Grand - February 2024 - Sarah Stierch 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wilshire Grand Center, Los Angeles (D. Jones) - Flickr.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wilshire Grand - February 2024 - Sarah Stierch 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wilshire_Grand_Center",
+   "https://commons.wikimedia.org/wiki/Category:Wilshire Grand Center"
+  ],
+  "note": "By file name only; towers are tall so long side may be height."
+ },
+ {
+  "id": "entenza-house",
+  "name": "Entenza House",
+  "by": "Charles Eames, Ray Eames and Eero Saarinen",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": "1950",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Prefabrication",
+   "Free plan"
+  ],
+  "features": "First Case Study house with a steel frame; living room about 36 ft long.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Entenza_House"
+  ],
+  "note": "no free photo"
+ }
+]
