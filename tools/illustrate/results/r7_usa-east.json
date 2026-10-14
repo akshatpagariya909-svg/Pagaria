@@ -1747,5 +1747,332 @@
    "https://commons.wikimedia.org/wiki/Category:Sever_Hall"
   ],
   "note": ""
+ },
+ {
+  "id": "temple-emanuel-creve-coeur",
+  "name": "Temple Emanuel",
+  "by": "William Bernoudy",
+  "city": "Creve Coeur",
+  "cc": "US",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Reform synagogue notable for its size and its unique Modernist architecture.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Temple Emanuel (Creve Coeur, Missouri) 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Temple_Emanuel_(Creve_Coeur,_Missouri)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "terrace-plaza-hotel",
+  "name": "Terrace Plaza Hotel",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Cincinnati",
+  "cc": "US",
+  "year": "1948",
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "An 18-storey International Style building; the lower seven floors have no exterior windows.",
+  "status": "photo",
+  "commons_category": "Category:Terrace Plaza Hotel",
+  "photos": [
+   {
+    "file": "File:Terrace Plaza Hotel, Cincinnati, OH (47220500021).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Terrace_Plaza_Hotel",
+   "https://commons.wikimedia.org/wiki/Category:Terrace_Plaza_Hotel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "class-of-1959-chapel",
+  "name": "Class of 1959 Chapel",
+  "by": "Moshe Safdie",
+  "city": "Boston",
+  "cc": "US",
+  "year": "1992",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "Non-denominational chapel at Harvard Business School, part of a master plan complementing the 1927 campus.",
+  "status": "photo",
+  "commons_category": "Category:Class of 1959 Chapel",
+  "photos": [
+   {
+    "file": "File:1959chapelexterior.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Class_of_1959_Chapel",
+   "https://commons.wikimedia.org/wiki/Category:Class_of_1959_Chapel"
+  ],
+  "note": ""
+ },
+ {
+  "id": "the-republic-newspaper-office",
+  "name": "The Republic Newspaper Office",
+  "by": "Myron Goldsmith (Skidmore, Owings & Merrill)",
+  "city": "Columbus",
+  "cc": "US",
+  "year": "1971",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Detail"
+  ],
+  "features": "One-storey steel and glass building with a thin curtain wall under a flat roof; a National Historic Landmark.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Republic offices in Columbus, side and rear.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Republic_Newspaper_Office"
+  ],
+  "note": ""
+ },
+ {
+  "id": "thomas-crane-public-library",
+  "name": "Thomas Crane Public Library",
+  "by": "Henry Hobson Richardson",
+  "city": "Quincy",
+  "cc": "US",
+  "year": "1881",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Community"
+  ],
+  "features": "Richardsonian Romanesque library funded by the Crane family as a memorial.",
+  "status": "photo",
+  "commons_category": "Category:Thomas Crane Public Library",
+  "photos": [
+   {
+    "file": "File:Thomas Crane Public Library, Quincy, Massachusetts (Front view).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_Crane_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:Thomas_Crane_Public_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "unitarian-universalist-church-arlington",
+  "name": "Unitarian Universalist Church of Arlington",
+  "by": "Charles M. Goodman",
+  "city": "Arlington",
+  "cc": "US",
+  "year": "1964",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Concrete Brutalist sanctuary designed by local architect Charles M. Goodman in 1964.",
+  "status": "photo",
+  "commons_category": "Category:Unitarian Universalist Church (Arlington, Virginia)",
+  "photos": [
+   {
+    "file": "File:Unitarian Universalist Church, Arlington, Virginia - 11.jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unitarian_Universalist_Church_of_Arlington",
+   "https://commons.wikimedia.org/wiki/Category:Unitarian_Universalist_Church_(Arlington,_Virginia)"
+  ],
+  "note": ""
+ },
+ {
+  "id": "united-states-institute-of-peace-headquarters",
+  "name": "United States Institute of Peace Headquarters",
+  "by": "Moshe Safdie",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "2011",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Environmentally friendly building near the National Mall, noted for its unique roof.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:United States Institute of Peace.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_States_Institute_of_Peace_Headquarters"
+  ],
+  "note": ""
+ },
+ {
+  "id": "united-states-tax-court-building",
+  "name": "United States Tax Court Building",
+  "by": "Victor A. Lundy",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Courthouse and landscaped plaza occupying a whole block in Judiciary Square.",
+  "status": "photo",
+  "commons_category": "Category:United States Tax Court Building",
+  "photos": [
+   {
+    "file": "File:Tax Court by Matthew Bisanz.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_States_Tax_Court_Building",
+   "https://commons.wikimedia.org/wiki/Category:United_States_Tax_Court_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "van-allen-building",
+  "name": "Van Allen Building",
+  "by": "Louis Sullivan",
+  "city": "Clinton",
+  "cc": "US",
+  "year": "1913",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Four-storey department store, a National Historic Landmark since 1976 for its architecture.",
+  "status": "photo",
+  "commons_category": "Category:Van Allen Building",
+  "photos": [
+   {
+    "file": "File:July 18, 2005 249 1.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Van_Allen_Building",
+   "https://commons.wikimedia.org/wiki/Category:Van_Allen_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "w-e-b-du-bois-library",
+  "name": "W. E. B. Du Bois Library",
+  "by": "Edward Durell Stone",
+  "city": "Amherst",
+  "cc": "US",
+  "year": "1974",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "At 28 storeys, the third-tallest library in the world.",
+  "status": "photo",
+  "commons_category": "Category:W. E. B. Du Bois Library",
+  "photos": [
+   {
+    "file": "File:UMass Amherst W.E.B. Dubois Library night 2.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/W._E._B._Du_Bois_Library",
+   "https://commons.wikimedia.org/wiki/Category:W._E._B._Du_Bois_Library"
+  ],
+  "note": ""
  }
 ]
