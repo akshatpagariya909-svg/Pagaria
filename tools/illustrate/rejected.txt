@@ -77,3 +77,5 @@ yeon-building  # round 7 quality watch: ordinary commercial tower or hotel, no s
 hotel-valley-ho  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
 chase-tower-phoenix  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
 wilshire-grand-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+first-canadian-place  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+torre-mayor  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students

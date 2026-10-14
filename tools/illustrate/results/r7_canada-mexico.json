@@ -1,0 +1,1548 @@
+[
+ {
+  "id": "burnside-hall",
+  "name": "Burnside Hall",
+  "by": "Marshall, Merrett and Associates",
+  "city": "Montréal",
+  "cc": "CA",
+  "year": "1970",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Thirteen-storey brutalist block built in 1970 for McGill's Faculty of Science.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Burnside Hall",
+  "photos": [
+   {
+    "file": "File:Burnside Hall 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Burnside Hall 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burnside_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Burnside_Hall"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "confederation-centre-of-the-arts",
+  "name": "Confederation Centre of the Arts",
+  "by": "Ray Affleck, Hazen Sise, Dimitri Dimakopoulos (Arcop)",
+  "city": "Charlottetown",
+  "cc": "CA",
+  "year": "1964",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "Cultural centre for the visual and performing arts in Charlottetown, opened 1964.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Confederation Centre of the Arts",
+  "photos": [
+   {
+    "file": "File:Confederation Centre of the Art in Prince Edward Island (November 2023).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Confederation_Centre_of_the_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Confederation_Centre_of_the_Arts"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "macmillan-bloedel-building",
+  "name": "MacMillan Bloedel Building",
+  "by": "Arthur Erickson (Erickson/Massey Architects)",
+  "city": "Vancouver",
+  "cc": "CA",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "27-storey head office conceived by Arthur Erickson in 1965; opened 13 December 1968.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:MacMillan Bloedel Building",
+  "photos": [
+   {
+    "file": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0773.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0774.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:MacMillan Bloedel Building 1075 West Georgia Vancouver BC CA IM2 0775.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/MacMillan_Bloedel_Building",
+   "https://commons.wikimedia.org/wiki/Category:MacMillan_Bloedel_Building"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "maison-de-radio-canada",
+  "name": "Maison de Radio-Canada",
+  "by": "Tore Björnstad",
+  "city": "Montréal",
+  "cc": "CA",
+  "year": "1973",
+  "type": "Workplace",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Broadcast headquarters of Radio-Canada's French-language services, completed 1973.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Maison Radio-Canada",
+  "photos": [
+   {
+    "file": "File:Maison Radio-Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Maison de Radio-Canada, Montréal, South view 20170410 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Édifice de Radio-Canada à Montréal.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maison_de_Radio-Canada",
+   "https://commons.wikimedia.org/wiki/Category:Maison_Radio-Canada"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "lester-b-pearson-building",
+  "name": "Lester B. Pearson Building",
+  "by": "WZMH Architects",
+  "city": "Ottawa",
+  "cc": "CA",
+  "year": "1973",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Office building at 125 Sussex Drive, headquarters of Global Affairs Canada; opened 1 August 1973.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Lester B. Pearson Building",
+  "photos": [
+   {
+    "file": "File:Lester B. Pearson Building in 2026.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:125 Sussex Drive - 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:125 Sussex Drive - 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lester_B._Pearson_Building",
+   "https://commons.wikimedia.org/wiki/Category:Lester_B._Pearson_Building"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "theatre-maisonneuve",
+  "name": "Théâtre Maisonneuve",
+  "by": "David & Boulva",
+  "city": "Montréal",
+  "cc": "CA",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Community"
+  ],
+  "features": "1,453-seat theatre in the Place des Arts complex, inaugurated 1967.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Théâtre Maisonneuve",
+  "photos": [
+   {
+    "file": "File:Théâtre Maisonneuve.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:ThéâtreMaisonneuve.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_Maisonneuve",
+   "https://commons.wikimedia.org/wiki/Category:Théâtre_Maisonneuve"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "audain-art-museum",
+  "name": "Audain Art Museum",
+  "by": "Patkau Architects",
+  "city": "Whistler",
+  "cc": "CA",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Section"
+  ],
+  "features": "56,000 sq ft private museum for British Columbian art in Whistler; opened 2016.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "unsure",
+  "commons_category": "Category:Audain Art Museum",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Audain_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Audain_Art_Museum"
+  ],
+  "note": "no usable free exterior photo found in the Commons category by file name; reviewer may find one"
+ },
+ {
+  "id": "roy-thomson-hall",
+  "name": "Roy Thomson Hall",
+  "by": "Arthur Erickson, Mathers and Haldenby",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Circular concert hall with a sloping, curvilinear glass exterior; opened 1982.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Roy Thomson Hall",
+  "photos": [
+   {
+    "file": "File:Roy Thomson Hall, Toronto, Ontario, 2025-08-25.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Roy Thompson Hall, 2015 05 05 (1).jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Roy Thompson Hall, 2015 05 05 (3).jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roy_Thomson_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Roy_Thomson_Hall"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "remai-modern",
+  "name": "Remai Modern",
+  "by": "Bruce Kuwabara (KPMB Architects) with Architecture49",
+  "city": "Saskatoon",
+  "cc": "CA",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "11,582 m² art museum on the South Saskatchewan River; opened October 2017.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Remai Modern",
+  "photos": [
+   {
+    "file": "File:Remai Art Gallery Exterior (42300899864).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Under the Remai Modern Overhang (46784056024).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Remai Modern Art Gallery.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Remai_Modern",
+   "https://commons.wikimedia.org/wiki/Category:Remai_Modern"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "halifax-central-library",
+  "name": "Halifax Central Library",
+  "by": "Schmidt Hammer Lassen with Fowler Bauld & Mitchell",
+  "city": "Halifax",
+  "cc": "CA",
+  "year": "2014",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Circulation",
+   "Steel & glass"
+  ],
+  "features": "Flagship public library at Spring Garden Road and Queen Street; opened December 2014.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Halifax Central Library",
+  "photos": [
+   {
+    "file": "File:Central library, Halifax - geograph.org.uk - 4781238.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Halifax central library.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Halifax_Central_Library",
+   "https://commons.wikimedia.org/wiki/Category:Halifax_Central_Library"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "grande-bibliotheque",
+  "name": "Grande Bibliothèque",
+  "by": "Patkau Architects with Croft-Pelletier",
+  "city": "Montréal",
+  "cc": "CA",
+  "year": "2005",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Public space",
+   "Timber"
+  ],
+  "features": "Quebec's national library in downtown Montréal, opened 30 April 2005.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Grande Bibliothèque",
+  "photos": [
+   {
+    "file": "File:Grande Bibliotheque - 011.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grande Bibliotheque - 012.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grande Bibliotheque - 015.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grande_Biblioth%C3%A8que",
+   "https://commons.wikimedia.org/wiki/Category:Grande_Bibliothèque"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "mississauga-civic-centre",
+  "name": "Mississauga Civic Centre",
+  "by": "Jones and Kirkland",
+  "city": "Mississauga",
+  "cc": "CA",
+  "year": "1987",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Postmodern civic complex, 92 m tall, whose design drew on farmsteads and historic city centres.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Mississauga Civic Centre",
+  "photos": [
+   {
+    "file": "File:Mississauga Civic Centre (1).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mississauga Civic Centre, May 16 2026 (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mississauga Civic Centre (1426444452).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mississauga_Civic_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Mississauga_Civic_Centre"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "first-canadian-place",
+  "name": "First Canadian Place",
+  "by": "Bregman + Hamann Architects, Edward Durell Stone & Associates",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1975",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "298 m tower, the tallest in Canada from its completion in 1975.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:First Canadian Place",
+  "photos": [
+   {
+    "file": "File:First Canadian Place Close-up, January 26 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:First Canadian Place (January 2023).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:First Canadian Place reclad 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Canadian_Place",
+   "https://commons.wikimedia.org/wiki/Category:First_Canadian_Place"
+  ],
+  "note": "Office tower included for height record."
+ },
+ {
+  "id": "igloo-church-inuvik",
+  "name": "Our Lady of Victory Church (Igloo Church)",
+  "by": "Maurice Larocque",
+  "city": "Inuvik",
+  "cc": "CA",
+  "year": "1960",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Igloo-shaped Catholic church in Inuvik, opened and consecrated 1960 after two years of construction.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Our Lady Of Victory Church (Inuvik)",
+  "photos": [
+   {
+    "file": "File:Our Lady of Victory Church, Inuvik, NT, in late-evening sunlight.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Our Lady of Victory Church, Inuvik, NT - 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Front view of Our Lady of Victory Church, Inuvik, NT.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Our_Lady_of_Victory_Church_(Inuvik)",
+   "https://commons.wikimedia.org/wiki/Category:Our_Lady_Of_Victory_Church_(Inuvik)"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "supreme-court-of-canada-building",
+  "name": "Supreme Court of Canada Building",
+  "by": "Ernest Cormier",
+  "city": "Ottawa",
+  "cc": "CA",
+  "year": "1941",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Court building on a bluff above the Ottawa River, just west of Parliament Hill.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Supreme Court of Canada Building",
+  "photos": [
+   {
+    "file": "File:DSC02755 - Supreme Court of Canada (43079299850).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:DSC02758 - Supreme Court of Canada (44891560021).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Supreme Court of Canada front view October 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Supreme_Court_of_Canada_Building",
+   "https://commons.wikimedia.org/wiki/Category:Supreme_Court_of_Canada_Building"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "edmonton-city-hall",
+  "name": "Edmonton City Hall",
+  "by": "Dub Architects",
+  "city": "Edmonton",
+  "cc": "CA",
+  "year": "1992",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Designed by Dub Architects and completed in 1992 to replace the 1957 city hall.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Edmonton City Hall",
+  "photos": [
+   {
+    "file": "File:Edmonton City Hall, Edmonton, Alberta, 2026-09-27 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:City Hall (22568764194).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:City Hall (51631843571).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edmonton_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Edmonton_City_Hall"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "peace-bridge-calgary",
+  "name": "Peace Bridge",
+  "by": "Santiago Calatrava",
+  "city": "Calgary",
+  "cc": "CA",
+  "year": "2012",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Pedestrian and cycle bridge over the Bow River, opened 24 March 2012.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Peace Bridge (Calgary)",
+  "photos": [
+   {
+    "file": "File:Calgary Peace Bridge during the day May 2012.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bow River and Peace Bridge, Calgary 20240819 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peace_Bridge_(Calgary)",
+   "https://commons.wikimedia.org/wiki/Category:Peace_Bridge_(Calgary)"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "torre-mayor",
+  "name": "Torre Mayor",
+  "by": "Zeidler Roberts Partnership, Adamson Associates",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "2003",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "225 m tower; Latin America's tallest building from 2003 to 2010.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Torre Mayor",
+  "photos": [
+   {
+    "file": "File:Torre Mayor y Torre Reforma1612.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Paseo de la Reforma Torre Reforma, Chapultepec Uno and Torre Mayor.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Torre Mayor - panoramio (5).jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_Mayor",
+   "https://commons.wikimedia.org/wiki/Category:Torre_Mayor"
+  ],
+  "note": "Office tower included because it was Latin America's tallest 2003-2010."
+ },
+ {
+  "id": "monumento-a-la-revolucion",
+  "name": "Monumento a la Revolución",
+  "by": "Émile Bénard, Carlos Obregón Santacilia",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1938",
+  "type": "Memorial",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "67 m memorial arch, the tallest triumphal arch in the world; built 1910–1938.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Monumento a la Revolución (México)",
+  "photos": [
+   {
+    "file": "File:Monumento a la revolucion2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Frente al Monumento a la Revolución.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:MonumenotALaRevolución201708p1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monumento_a_la_Revoluci%C3%B3n",
+   "https://commons.wikimedia.org/wiki/Category:Monumento_a_la_Revolución_(México)"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "torre-del-reformador",
+  "name": "Torre del Reformador",
+  "by": "Arturo Bickford",
+  "city": "Guatemala City",
+  "cc": "GT",
+  "year": "1935",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "71.85 m steel-framework tower resembling the Eiffel Tower, built 1935 for the centenary of Justo Rufino Barrios.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Torre del Reformador, Guatemala",
+  "photos": [
+   {
+    "file": "File:Torre del Reformador Fabriccio Díaz.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Torre del Reformador - Ciudad de Guatemala.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_del_Reformador",
+   "https://commons.wikimedia.org/wiki/Category:Torre_del_Reformador,_Guatemala"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "capitolio-de-puerto-rico",
+  "name": "Capitol of Puerto Rico",
+  "by": "Rafael Carmoega",
+  "city": "San Juan",
+  "cc": "PR",
+  "year": "1929",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Seat of Puerto Rico's Legislative Assembly just outside the walls of Old San Juan; completed 1929.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Capitol of Puerto Rico",
+  "photos": [
+   {
+    "file": "File:Capitolio de Puerto Rico (28755163211).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dome of Capitol of Puerto Rico.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:El Capitolio de Puerto Rico.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capitol_of_Puerto_Rico",
+   "https://commons.wikimedia.org/wiki/Category:Capitol_of_Puerto_Rico"
+  ],
+  "note": "Wikipedia infobox: Rafael Carmoega, 1929."
+ },
+ {
+  "id": "hotel-nacional-de-cuba",
+  "name": "Hotel Nacional de Cuba",
+  "by": "McKim, Mead and White",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1930",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Spanish eclectic hotel on Taganana Hill with views over the sea; opened 1930.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Hotel Nacional de Cuba",
+  "photos": [
+   {
+    "file": "File:Отель Nacional de Cuba - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Hotel Nacional, Havana, Cuba LCCN2010638840.jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Hotel Nacional (33014186833).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Nacional_de_Cuba",
+   "https://commons.wikimedia.org/wiki/Category:Hotel_Nacional_de_Cuba"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "gran-teatro-de-la-habana",
+  "name": "Gran Teatro de La Habana",
+  "by": "Paul Belau",
+  "city": "Havana",
+  "cc": "CU",
+  "year": "1914",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Home of the Cuban National Ballet on the Paseo del Prado, designed by Belgian architect Paul Belau.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Gran Teatro de La Habana",
+  "photos": [
+   {
+    "file": "File:Gran Teatro de La Habana (23488369999).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gran Teatro de La Habana (36421118383).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gran Teatro de La Habana.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gran_Teatro_de_La_Habana",
+   "https://commons.wikimedia.org/wiki/Category:Gran_Teatro_de_La_Habana"
+  ],
+  "note": "Built 1914; infobox gives opened 1915."
+ },
+ {
+  "id": "saint-josephs-oratory",
+  "name": "Saint Joseph's Oratory",
+  "by": "Dalbé Viau, Alphonse Venne, Lucien Parent, Dom Paul Bellot",
+  "city": "Montréal",
+  "cc": "CA",
+  "year": "1967",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Canada's largest church, with one of the largest church domes in the world; completed 1967.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Saint Joseph's Oratory of Mount-Royal",
+  "photos": [
+   {
+    "file": "File:Oratoire St-Joseph 2016 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Oratoire St-Joseph 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Dome @ Oratoire Saint-Joseph du Mont-Royal @ Mount Royal @ Montreal (30380813336).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saint_Joseph%27s_Oratory",
+   "https://commons.wikimedia.org/wiki/Category:Saint_Joseph's_Oratory_of_Mount-Royal"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "chateau-frontenac",
+  "name": "Château Frontenac",
+  "by": "Bruce Price",
+  "city": "Quebec City",
+  "cc": "CA",
+  "year": "1893",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Châteauesque railway hotel of 18 floors, opened 1893; National Historic Site since 1981.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Château Frontenac",
+  "photos": [
+   {
+    "file": "File:Chateau Frontenac viewed from a park in Quebec City.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Chateau Frontenac from a street in Old Quebec.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Tower of the Chateau Frontenac in Quebec City.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac",
+   "https://commons.wikimedia.org/wiki/Category:Château_Frontenac"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "union-station-toronto",
+  "name": "Union Station",
+  "by": "Ross and Macdonald",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1927",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Circulation",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Major intermodal rail hub on Front Street West, opened 1927.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Union Station (Toronto)",
+  "photos": [
+   {
+    "file": "File:Union Station York East Teamway, January 6 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Union Station, Toronto, Ontario, 2025-08-25 10.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Union_Station_(Toronto)",
+   "https://commons.wikimedia.org/wiki/Category:Union_Station_(Toronto)"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "old-city-hall-toronto",
+  "name": "Old City Hall",
+  "by": "E. J. Lennox",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1899",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Romanesque-style civic building; home of Toronto City Council from 1899 to 1966.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Old City Hall, Toronto",
+  "photos": [
+   {
+    "file": "File:Frontal view of Old City Hall in Toronto.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:DSC09167 - Old City Hall (37049794672).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Old City Hall (18846792740).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Old_City_Hall_(Toronto)",
+   "https://commons.wikimedia.org/wiki/Category:Old_City_Hall,_Toronto"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "quebec-parliament-building",
+  "name": "Parliament Building of Quebec",
+  "by": "Eugène-Étienne Taché",
+  "city": "Quebec City",
+  "cc": "CA",
+  "year": "1886",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Eight-floor Second Empire building, built 1877–1886.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Parliament Building of Quebec",
+  "photos": [
+   {
+    "file": "File:Assemblée nationale du Québec, Canada.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Assemblée nationale du Québec.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Demonstration against the health emergency in front of the Parliament Building of Quebec.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parliament_Building_(Quebec)",
+   "https://commons.wikimedia.org/wiki/Category:Parliament_Building_of_Quebec"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "centre-block-ottawa",
+  "name": "Centre Block",
+  "by": "John A. Pearson, Jean-Omer Marchand",
+  "city": "Ottawa",
+  "cc": "CA",
+  "year": "1927",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Main building on Parliament Hill, holding the House of Commons and Senate chambers.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Centre Block",
+  "photos": [
+   {
+    "file": "File:Parliament Hill - Ottawa, Ontario, Canada - Ca. July 1990.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Centre Block and Library of Parliament, Ottawa, West view 20170422 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:A gate of Canadian parliament.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centre_Block",
+   "https://commons.wikimedia.org/wiki/Category:Centre_Block"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "rogers-centre",
+  "name": "Rogers Centre",
+  "by": "Rod Robbie (Robbie Adjeleian NORR Consortium)",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Megastructure",
+   "Steel & glass"
+  ],
+  "features": "Retractable-roof stadium that opened in 1989 as SkyDome.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Rogers Centre",
+  "photos": [
+   {
+    "file": "File:Rogers Centre, Home of the Toronto Blue Jays.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Rogers Centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:CN Tower and the Rogers Centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rogers_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Rogers_Centre"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "calgary-city-hall",
+  "name": "Calgary City Hall",
+  "by": "William M. Dodd",
+  "city": "Calgary",
+  "cc": "CA",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Historic seat of Calgary City Council, completed 1911.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Calgary City Hall",
+  "photos": [
+   {
+    "file": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 08.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Calgary City Hall, Calgary, Alberta, 2025-07-14 10.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calgary_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Calgary_City_Hall"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "william-g-davis-building",
+  "name": "William G. Davis Building",
+  "by": "Raymond Moriyama",
+  "city": "Mississauga",
+  "cc": "CA",
+  "year": "1973",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Megastructure",
+   "Exposed concrete",
+   "Landscape"
+  ],
+  "features": "Brutalist single mega-structure above the Credit River valley, completed 1973 as the South Building.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:William G. Davis Building",
+  "photos": [
+   {
+    "file": "File:William G. Davis Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:William G. Davis Building 2026 (2).jpg",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:William G. Davis Building 2026.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/William_G._Davis_Building",
+   "https://commons.wikimedia.org/wiki/Category:William_G._Davis_Building"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "hamilton-city-hall",
+  "name": "Hamilton City Hall",
+  "by": "Stanley Roscoe",
+  "city": "Hamilton",
+  "cc": "CA",
+  "year": "1960",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Free plan"
+  ],
+  "features": "Eight-storey International Style city hall, officially opened 21 November 1960.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Hamilton City Hall",
+  "photos": [
+   {
+    "file": "File:Hamilton City Hall in Hamilton, Ontario, from Commonwealth Square.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hamilton City Hall in Hamilton, Ontario.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Hamilton City Hall.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamilton_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Hamilton_City_Hall"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "plaza-de-las-tres-culturas",
+  "name": "Plaza de las Tres Culturas",
+  "by": "Mario Pani",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1966",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Square in Tlatelolco joining pre-Columbian, colonial and modern buildings; completed 1966.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Plaza de las Tres Culturas, Tlatelolco",
+  "photos": [
+   {
+    "file": "File:Danzantes en la Plaza de las Tres Culturas, Tlatelolco.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Danzas prehispánicas en la Plaza de las Tres Culturas - Nonoalco Tlatelolco, Ciudad de México.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Plaza_de_las_Tres_Culturas",
+   "https://commons.wikimedia.org/wiki/Category:Plaza_de_las_Tres_Culturas,_Tlatelolco"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "tlatelolco-housing-complex",
+  "name": "Conjunto Urbano Nonoalco Tlatelolco",
+  "by": "Mario Pani",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": "1964",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Megastructure",
+   "Modular"
+  ],
+  "features": "Mexico's largest apartment complex, planned as a city within a city with its own schools, hospitals and shops.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "unsure",
+  "commons_category": "Category:Conjunto Urbano Nonoalco Tlatelolco",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conjunto_Urbano_Nonoalco_Tlatelolco",
+   "https://commons.wikimedia.org/wiki/Category:Conjunto_Urbano_Nonoalco_Tlatelolco"
+  ],
+  "note": "no usable free exterior photo found in the Commons category by file name; reviewer may find one"
+ },
+ {
+  "id": "teatro-nacional-de-panama",
+  "name": "National Theatre of Panama",
+  "by": "Genaro Ruggieri",
+  "city": "Panama City",
+  "cc": "PA",
+  "year": "1908",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Italian operetta-style theatre in the old city, opened 1 October 1908.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:National Theatre of Panama",
+  "photos": [
+   {
+    "file": "File:Teatro Nacional de Panamá.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Teatro Nacional -.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Theatre_of_Panama",
+   "https://commons.wikimedia.org/wiki/Category:National_Theatre_of_Panama"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ },
+ {
+  "id": "toronto-reference-library",
+  "name": "Toronto Reference Library",
+  "by": "Raymond Moriyama",
+  "city": "Toronto",
+  "cc": "CA",
+  "year": "1977",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Circulation",
+   "Public space"
+  ],
+  "features": "Canada's largest public reference library, opened in 1977 as the Metropolitan Toronto Reference Library.",
+  "award": "Canada/Mexico/Caribbean survey",
+  "status": "photo",
+  "commons_category": "Category:Toronto Reference Library",
+  "photos": [
+   {
+    "file": "File:Toronto Reference Library Exterior, July 29 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Toronto Reference Library, June 24 2025 (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Toronto Reference Library, October 10 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toronto_Reference_Library",
+   "https://commons.wikimedia.org/wiki/Category:Toronto_Reference_Library"
+  ],
+  "note": "Photos chosen from the Commons category by file name and size; not yet looked at (image downloads were rate-limited), so please check by eye."
+ }
+]
