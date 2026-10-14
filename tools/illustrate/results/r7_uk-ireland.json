@@ -4302,5 +4302,202 @@
    "https://commons.wikimedia.org/wiki/Category:Wolfson_College,_Oxford"
   ],
   "note": ""
+ },
+ {
+  "id": "kirkcaldy-town-house",
+  "name": "Kirkcaldy Town House",
+  "by": "David Carr and William Howard",
+  "city": "Kirkcaldy",
+  "cc": "GB",
+  "year": "1956",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Nordic-influenced clock tower depicting St Bryce, patron saint of Kirkcaldy.",
+  "status": "unsure",
+  "commons_category": "Category:Kirkcaldy Town House",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kirkcaldy_Town_House",
+   "https://commons.wikimedia.org/wiki/Category:Kirkcaldy Town House"
+  ],
+  "note": "no free photo: large files carry licence 'Attribution' (unclear, check by hand), geograph ones only 1024px"
+ },
+ {
+  "id": "pier-arts-centre",
+  "name": "Pier Arts Centre",
+  "by": "Reiach & Hall Architects",
+  "city": "Stromness",
+  "cc": "GB",
+  "year": "2007",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Former Hudson's Bay Company pier buildings extended with a new building at the harbour's edge.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pier_Arts_Centre"
+  ],
+  "note": "no free photo found: no Commons category under that name; 1979 conversion architect not named"
+ },
+ {
+  "id": "castle-howard",
+  "name": "Castle Howard",
+  "by": "John Vanbrugh (with Nicholas Hawksmoor)",
+  "city": "Henderskelfe, North Yorkshire",
+  "cc": "GB",
+  "year": "1811",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Two symmetrical wings on a north-south axis; central dome added late in the design.",
+  "status": "unsure",
+  "commons_category": "Category:Castle Howard",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Castle_Howard",
+   "https://commons.wikimedia.org/wiki/Category:Castle_Howard"
+  ],
+  "note": "no free photo confirmed: category files listed were lakes/gardens/parterres by filename (e.g. '1001059 Castle Howard, South Lake Henderskelfe 20240522 0407.jpg', CC BY-SA 4.0, may show the house); year 1811 is completion of Long Gallery decoration, construction began 1701"
+ },
+ {
+  "id": "seamus-heaney-homeplace",
+  "name": "Seamus Heaney HomePlace",
+  "by": "W&M Given Architects",
+  "city": "Bellaghy",
+  "cc": "GB",
+  "year": "2016",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Timber"
+  ],
+  "features": "Basalt stone from the old barracks wall is reused in the facade, with stone, glass and wood as the only materials.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seamus_Heaney_HomePlace"
+  ],
+  "note": "no free photo found (no Commons category located)"
+ },
+ {
+  "id": "trinity-college-old-library",
+  "name": "Trinity College Old Library",
+  "by": "Thomas Burgh",
+  "city": "Dublin",
+  "cc": "IE",
+  "year": "1732",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Axis",
+   "Stone"
+  ],
+  "features": "The Long Room is a 65-metre-long main chamber lined with marble busts.",
+  "status": "unsure",
+  "commons_category": "Category:Trinity College Library, Dublin",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Library_of_Trinity_College_Dublin",
+   "https://commons.wikimedia.org/wiki/Category:Trinity_College_Library,_Dublin"
+  ],
+  "note": "no free photo (category held only an interior)"
+ },
+ {
+  "id": "queens-house-greenwich",
+  "name": "Queen's House",
+  "by": "Inigo Jones",
+  "city": "London",
+  "cc": "GB",
+  "year": "1635",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Former royal residence with the Tulip Stairs, a self-supporting wrought-iron staircase, and the cubic Great Hall.",
+  "status": "unsure",
+  "commons_category": "Category:Queen's House",
+  "photos": [
+   {
+    "file": "File:Colonnaded Walkway, Queen's House - geograph.org.uk - 2753520.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queen's_House",
+   "https://commons.wikimedia.org/wiki/Category:Queen's_House"
+  ],
+  "note": "Only one large free file seems to show the exterior (a colonnade); other exterior file is 1024px. Needs eye check or a Commons search."
+ },
+ {
+  "id": "westminster-tube-station",
+  "name": "Westminster tube station (Jubilee line)",
+  "by": "Michael Hopkins & Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1999",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Circulation"
+  ],
+  "features": "Austere concrete and stainless steel; stacked escalator banks carried on cross-bracing across the station box.",
+  "status": "unsure",
+  "commons_category": "Category:Westminster tube station",
+  "photos": [
+   {
+    "file": "File:Internal Permanent Ground Supports in Westminster Underground Station - geograph.org.uk - 8092189.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Westminster_tube_station",
+   "https://commons.wikimedia.org/wiki/Category:Westminster_tube_station"
+  ],
+  "note": "interior mostly; only one candidate, entrance photos small or unclear; Opus to check"
  }
 ]
