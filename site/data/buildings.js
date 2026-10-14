@@ -294792,22 +294792,10 @@ window.BUILDINGS = [
   "study": "Parade ground with stands for 30,000 and the Independence Arch, Liberation Day Monument and Black Star Gate.",
   "qid": null,
   "commons": "Category:Independence Square (Ghana)",
-  "lead": "File:Black Star Square.jpg",
+  "lead": "Black Star Square, Ghana.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Black_Star_Square.jpg/1280px-Black_Star_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/black-star-square-accra/thumbs/0.webp",
-    "w": 1280,
-    "h": 617,
-    "kind": "Exterior",
-    "caption": "Exterior · A top view of the Black Star Square in Accra showing the Ohene Djan Sports Stadium",
-    "credit": "Celestinesucess",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Black_Star_Square.jpg",
-    "file": "File:Black Star Square.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Black_Star_Square%2C_Ghana.jpg/1280px-Black_Star_Square%2C_Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/black-star-square-accra/thumbs/1.webp",
@@ -294819,6 +294807,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Black_Star_Square,_Ghana.jpg",
     "file": "File:Black Star Square, Ghana.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Black_Star_Square.jpg/1280px-Black_Star_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/black-star-square-accra/thumbs/0.webp",
+    "w": 1280,
+    "h": 617,
+    "kind": "Exterior",
+    "caption": "Exterior · A top view of the Black Star Square in Accra showing the Ohene Djan Sports Stadium",
+    "credit": "Celestinesucess",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Star_Square.jpg",
+    "file": "File:Black Star Square.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Black_Star_Square_in_Ghana_4.jpg/1280px-Black_Star_Square_in_Ghana_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -294843,35 +294843,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Black_Star_Square_01.jpg",
     "file": "File:Black Star Square 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Black_star_square_troper.jpg/1280px-Black_star_square_troper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/black-star-square-accra/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Inside view of the flame trooper at the blackstar square",
-    "credit": "Kwaku Berko",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Black_star_square_troper.jpg",
-    "file": "File:Black star square troper.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/A_Section_of_Mourners_at_Aliu_Mahama_funeral.jpg/1280px-A_Section_of_Mourners_at_Aliu_Mahama_funeral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/black-star-square-accra/thumbs/5.webp",
-    "w": 1280,
-    "h": 603,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "U.S. Embassy Ghana",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:A_Section_of_Mourners_at_Aliu_Mahama_funeral.jpg",
-    "file": "File:A Section of Mourners at Aliu Mahama funeral.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -294911,18 +294885,6 @@ window.BUILDINGS = [
     "file": "File:Monument renaissance.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/SN-dakar-renaiss-monum-03.jpg/1280px-SN-dakar-renaiss-monum-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/african-renaissance-monument-dakar/thumbs/1.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior · Blick vom African Renaissance Monument",
-    "credit": "Balou46",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SN-dakar-renaiss-monum-03.jpg",
-    "file": "File:SN-dakar-renaiss-monum-03.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Statue_de_la_renaissance_vue_de_Ouakam.jpg/1280px-Statue_de_la_renaissance_vue_de_Ouakam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/african-renaissance-monument-dakar/thumbs/2.webp",
     "w": 1280,
@@ -294945,30 +294907,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:African_Renaissance_Monument_(5502494604).jpg",
     "file": "File:African Renaissance Monument (5502494604).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Monument_de_la_renaissance_africaine.jpg/1280px-Monument_de_la_renaissance_africaine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/african-renaissance-monument-dakar/thumbs/4.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Africa's got talent",
-    "credit": "Mahamat Abdramani",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Monument_de_la_renaissance_africaine.jpg",
-    "file": "File:Monument de la renaissance africaine.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/StatueDakarInside.jpg/1280px-StatueDakarInside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/african-renaissance-monument-dakar/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Inside the African Renaissance Monument in Dakar",
-    "credit": "Jjm2311",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:StatueDakarInside.jpg",
-    "file": "File:StatueDakarInside.jpg"
    }
   ],
   "has": [],
@@ -295057,18 +294995,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral,_Lagos.jpg",
     "file": "File:Christ Church Cathedral, Lagos.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Cathedral_Church_Of_Christ%2C_Marina%2C_Lagos.jpg/1280px-Cathedral_Church_Of_Christ%2C_Marina%2C_Lagos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cathedral-church-of-christ-lagos/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · This is an image of \"African people at work\" from",
-    "credit": "Yellowcrunchy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_Church_Of_Christ,_Marina,_Lagos.jpg",
-    "file": "File:Cathedral Church Of Christ, Marina, Lagos.jpg"
    }
   ],
   "has": [],
@@ -295094,22 +295020,10 @@ window.BUILDINGS = [
   "study": "84 m government tower of 27 floors at Uhuru Highway and Kenyatta Avenue; built 1979-1983.",
   "qid": null,
   "commons": "Category:Nyayo House",
-  "lead": "File:Nyayo House as seen from Uhuru Park.jpg",
+  "lead": "Nyayo House in Kenya.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nyayo_House_as_seen_from_Uhuru_Park.jpg/1280px-Nyayo_House_as_seen_from_Uhuru_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nyayo-house/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Nyayo House as seen from Uhuru Park",
-    "credit": "DesiBoy101",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nyayo_House_as_seen_from_Uhuru_Park.jpg",
-    "file": "File:Nyayo House as seen from Uhuru Park.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Nyayo_House_in_Kenya.jpg/1280px-Nyayo_House_in_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nyayo-house/thumbs/1.webp",
@@ -295123,28 +295037,16 @@ window.BUILDINGS = [
     "file": "File:Nyayo House in Kenya.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/West_Nairobi_CBD.jpg/1280px-West_Nairobi_CBD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nyayo-house/thumbs/2.webp",
-    "w": 1280,
-    "h": 717,
-    "kind": "Exterior",
-    "caption": "Exterior · Picture of the Western side of Nairobi's CBD",
-    "credit": "Dietrich Ayala",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:West_Nairobi_CBD.jpg",
-    "file": "File:West Nairobi CBD.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Nairobi_Gallery%2C_2025_%2801%29.jpg/1280px-Nairobi_Gallery%2C_2025_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nyayo-house/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nyayo_House_as_seen_from_Uhuru_Park.jpg/1280px-Nyayo_House_as_seen_from_Uhuru_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nyayo-house/thumbs/0.webp",
     "w": 1280,
     "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Nairobi Gallery",
-    "credit": "Bahnfrend",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nairobi_Gallery,_2025_(01).jpg",
-    "file": "File:Nairobi Gallery, 2025 (01).jpg"
+    "kind": "Context",
+    "caption": "Context · Nyayo House as seen from Uhuru Park",
+    "credit": "DesiBoy101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nyayo_House_as_seen_from_Uhuru_Park.jpg",
+    "file": "File:Nyayo House as seen from Uhuru Park.jpg"
    }
   ],
   "has": [],
@@ -295199,18 +295101,6 @@ window.BUILDINGS = [
     "file": "File:Tintenpalast, Windhoek, Namibia, 2018-08-04, DD 04.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tintenpalast_mit_Garten.JPG/1280px-Tintenpalast_mit_Garten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tintenpalast-windhoek/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Tintenpalast , seat of the namibiam parliament, with Parliament Gardens in the foreground",
-    "credit": "ComQuat",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tintenpalast_mit_Garten.JPG",
-    "file": "File:Tintenpalast mit Garten.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Windhoek-Parc_du_Tintenpalast.jpg/1280px-Windhoek-Parc_du_Tintenpalast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tintenpalast-windhoek/thumbs/3.webp",
     "w": 1280,
@@ -295233,6 +295123,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tintenpalast.JPG",
     "file": "File:Tintenpalast.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tintenpalast_mit_Garten.JPG/1280px-Tintenpalast_mit_Garten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tintenpalast-windhoek/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Tintenpalast , seat of the namibiam parliament, with Parliament Gardens in the foreground",
+    "credit": "ComQuat",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tintenpalast_mit_Garten.JPG",
+    "file": "File:Tintenpalast mit Garten.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Windhuk_Parliament_Gardens_%26_Tintenpalast_2.jpg/1280px-Windhuk_Parliament_Gardens_%26_Tintenpalast_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -295270,10 +295172,22 @@ window.BUILDINGS = [
   "study": "Neo-Romanesque, Art Nouveau and Gothic Revival church of local quartz sandstone with Carrara marble portico.",
   "qid": null,
   "commons": "Category:Christuskirche Windhoek",
-  "lead": "File:Christuskirche - Landmark church in Windhoek, Namibia.jpg",
+  "lead": "Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_02.jpg/1280px-Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christuskirche-windhoek/thumbs/3.webp",
+    "w": 1280,
+    "h": 823,
+    "kind": "Exterior",
+    "caption": "Exterior · Christ church or Christuskirche , Windhoek , Namibia ",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Cristo,_Windhoek,_Namibia,_2018-08-04,_DD_02.jpg",
+    "file": "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Christuskirche_-_Landmark_church_in_Windhoek%2C_Namibia.jpg/1280px-Christuskirche_-_Landmark_church_in_Windhoek%2C_Namibia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/christuskirche-windhoek/thumbs/0.webp",
@@ -295287,18 +295201,6 @@ window.BUILDINGS = [
     "file": "File:Christuskirche - Landmark church in Windhoek, Namibia.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Christuskirche_am_Parliament_Garden%2C_Windhoek.jpg/1280px-Christuskirche_am_Parliament_Garden%2C_Windhoek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christuskirche-windhoek/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · In der Nähe des Parliament Gardens befindet sich die sehenswerte Christuskirche",
-    "credit": "FrankBothe",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Christuskirche_am_Parliament_Garden,_Windhoek.jpg",
-    "file": "File:Christuskirche am Parliament Garden, Windhoek.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_01.jpg/1280px-Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/christuskirche-windhoek/thumbs/2.webp",
     "w": 1280,
@@ -295309,18 +295211,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Cristo,_Windhoek,_Namibia,_2018-08-04,_DD_01.jpg",
     "file": "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_02.jpg/1280px-Iglesia_de_Cristo%2C_Windhoek%2C_Namibia%2C_2018-08-04%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christuskirche-windhoek/thumbs/3.webp",
-    "w": 1280,
-    "h": 823,
-    "kind": "Exterior",
-    "caption": "Exterior · Christ church or Christuskirche , Windhoek , Namibia ",
-    "credit": "Diego Delso",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Cristo,_Windhoek,_Namibia,_2018-08-04,_DD_02.jpg",
-    "file": "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Windhoek_christuskirche.jpg/1280px-Windhoek_christuskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -295347,21 +295237,19 @@ window.BUILDINGS = [
     "file": "File:Fenster christuskirche-windhoek.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Foto_der_Zeichnung_%22Christuskirche_in_Windhoek%22_%28drawing_by_Elke_le_Roux%29.jpg/500px-Foto_der_Zeichnung_%22Christuskirche_in_Windhoek%22_%28drawing_by_Elke_le_Roux%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christuskirche-windhoek/thumbs/6.webp",
-    "w": 500,
-    "h": 889,
-    "kind": "Drawing",
-    "caption": "Drawing · Auktionsstück für den Launch der 21",
-    "credit": "Nikodemus Shilongo",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Christuskirche_am_Parliament_Garden%2C_Windhoek.jpg/1280px-Christuskirche_am_Parliament_Garden%2C_Windhoek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/christuskirche-windhoek/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · In der Nähe des Parliament Gardens befindet sich die sehenswerte Christuskirche",
+    "credit": "FrankBothe",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Foto_der_Zeichnung_%22Christuskirche_in_Windhoek%22_(drawing_by_Elke_le_Roux).jpg",
-    "file": "File:Foto der Zeichnung \"Christuskirche in Windhoek\" (drawing by Elke le Roux).jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Christuskirche_am_Parliament_Garden,_Windhoek.jpg",
+    "file": "File:Christuskirche am Parliament Garden, Windhoek.jpg"
    }
   ],
-  "has": [
-   "Drawing"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -295484,10 +295372,22 @@ window.BUILDINGS = [
   "study": "Beaux-Arts station of baked brick and cement with a copper-clad central dome rising to 51 m.",
   "qid": null,
   "commons": "Category:Maputo train station",
-  "lead": "File:Maputo, RTW 2012 (8356539341).jpg",
+  "lead": "The train station, Maputo.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_train_station%2C_Maputo.jpg/1280px-The_train_station%2C_Maputo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maputo-central-railway-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The train station, Maputo",
+    "credit": "Jeremy Weate  from Abuja, Nigeria",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_train_station,_Maputo.jpg",
+    "file": "File:The train station, Maputo.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Maputo%2C_RTW_2012_%288356539341%29.jpg/1280px-Maputo%2C_RTW_2012_%288356539341%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/maputo-central-railway-station/thumbs/0.webp",
@@ -295511,30 +295411,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:CFC_Station_Maputo.jpg",
     "file": "File:CFC Station Maputo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Historical_photo_exhibition_at_Maputo_Train_Station.jpg/1280px-Historical_photo_exhibition_at_Maputo_Train_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maputo-central-railway-station/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Historical photo exhibition at Maputo Train Station",
-    "credit": "Claus Wonnemann",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Historical_photo_exhibition_at_Maputo_Train_Station.jpg",
-    "file": "File:Historical photo exhibition at Maputo Train Station.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_train_station%2C_Maputo.jpg/1280px-The_train_station%2C_Maputo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maputo-central-railway-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The train station, Maputo",
-    "credit": "Jeremy Weate  from Abuja, Nigeria",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_train_station,_Maputo.jpg",
-    "file": "File:The train station, Maputo.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/View_on_Pra%C3%A7a_dos_Trabalhadores_from_Maputo_Train_Station.jpg/1280px-View_on_Pra%C3%A7a_dos_Trabalhadores_from_Maputo_Train_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -295635,94 +295511,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Iron_house_in_maputo_02.jpg",
     "file": "File:Iron house in maputo 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Casa_de_Ferro_and_Tunduru_Gardens_Gate.jpg/1280px-Casa_de_Ferro_and_Tunduru_Gardens_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-de-ferro-maputo/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Casa de Ferro (Iron House) and entrance gate to the botanical garden (Tunduru Gardens) in Maputo, Mozambique",
-    "credit": "Claus Wonnemann",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Ferro_and_Tunduru_Gardens_Gate.jpg",
-    "file": "File:Casa de Ferro and Tunduru Gardens Gate.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "heroes-acre-windhoek",
-  "n": 3303,
-  "name": "Heroes' Acre",
-  "by": "Mansudae Overseas Projects",
-  "place": "Windhoek, NA",
-  "year": "2002",
-  "y": 2002,
-  "type": "Memorial",
-  "movement": "Contemporary",
-  "region": "Africa",
-  "era": "1990–2005",
-  "concepts": [
-   "Monumentality",
-   "Axis",
-   "Geometry"
-  ],
-  "study": "Memorial on a symmetrical polygon plan with a marble obelisk, bronze statue and grandstand; opened 26 August 2002.",
-  "qid": null,
-  "commons": "Category:Heroes Acre (Namibia)",
-  "lead": "File:Heldenacker Namibia Vogelperspektive. 2017.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Heldenacker_Namibia_Vogelperspektive._2017.jpg/1280px-Heldenacker_Namibia_Vogelperspektive._2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heroes-acre-windhoek/thumbs/0.webp",
-    "w": 1280,
-    "h": 833,
-    "kind": "Context",
-    "caption": "Context · Heroes´Acre Namibia from Bird´s eye view (2017)",
-    "credit": "Olga Ernst   &   Hp.Baumeler",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heldenacker_Namibia_Vogelperspektive._2017.jpg",
-    "file": "File:Heldenacker Namibia Vogelperspektive. 2017.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Laika_ac_Heroe%27s_Acre_%288407798482%29.jpg/1280px-Laika_ac_Heroe%27s_Acre_%288407798482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heroes-acre-windhoek/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · North Korean built!",
-    "credit": "Laika ac  from USA",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Laika_ac_Heroe%27s_Acre_(8407798482).jpg",
-    "file": "File:Laika ac Heroe's Acre (8407798482).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/JohnPandeniGrave.JPG/1280px-JohnPandeniGrave.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heroes-acre-windhoek/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · John Pandeni's gravesite at the national war memorial, Heroes Acre",
-    "credit": "Thomas.macmillan",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:JohnPandeniGrave.JPG",
-    "file": "File:JohnPandeniGrave.JPG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/King_Mandume_Ya_Ndemufayo_Grave_in_Heroes%27_Acre_%28Namibia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/heroes-acre-windhoek/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Mr Data Angola",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:King_Mandume_Ya_Ndemufayo_Grave_in_Heroes%27_Acre_(Namibia).jpg",
-    "file": "File:King Mandume Ya Ndemufayo Grave in Heroes' Acre (Namibia).jpg"
    }
   ],
   "has": [],
@@ -295730,7 +295518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maputo-city-hall",
-  "n": 3304,
+  "n": 3303,
   "name": "Maputo City Hall (Conselho Municipal)",
   "by": "Carlos César dos Santos",
   "place": "Maputo, MZ",
@@ -295787,42 +295575,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Conselho_Municipal_Maputo_(22096153185).jpg",
     "file": "File:Conselho Municipal Maputo (22096153185).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Independence_Square_%287667683818%29.jpg/1280px-The_Independence_Square_%287667683818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maputo-city-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 737,
-    "kind": "Exterior",
-    "caption": "Exterior · The Independence Square in Maputo, Mozambique",
-    "credit": "Gustavo Sugahara",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Independence_Square_(7667683818).jpg",
-    "file": "File:The Independence Square (7667683818).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Catedral_de_Maputo_and_Maputo_City_Hall.jpg/1280px-Catedral_de_Maputo_and_Maputo_City_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maputo-city-hall/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Catedral de Maputo and Maputo City Hall",
-    "credit": "Claus Wonnemann",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Catedral_de_Maputo_and_Maputo_City_Hall.jpg",
-    "file": "File:Catedral de Maputo and Maputo City Hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Maputo%2C_RTW_2012_%288357562606%29.jpg/1280px-Maputo%2C_RTW_2012_%288357562606%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maputo-city-hall/thumbs/5.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Context",
-    "caption": "Context · Maputo, RTW 2012",
-    "credit": "Ana Raquel S. Hernandes  from Sao Paulo, Brazil",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maputo,_RTW_2012_(8357562606).jpg",
-    "file": "File:Maputo, RTW 2012 (8357562606).jpg"
    }
   ],
   "has": [],
@@ -295830,7 +295582,7 @@ window.BUILDINGS = [
  },
  {
   "id": "maputo-cathedral",
-  "n": 3305,
+  "n": 3304,
   "name": "Maputo Cathedral",
   "by": "Marcial Simões de Freitas e Costa",
   "place": "Maputo, MZ",
@@ -295930,7 +295682,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christ-church-cathedral-zanzibar",
-  "n": 3306,
+  "n": 3305,
   "name": "Christ Church Cathedral",
   "by": "Edward Steere (design contributor)",
   "place": "Zanzibar, TZ",
@@ -295987,64 +295739,14 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Anglican_Christ_Church_in_Zanzibar.jpg",
     "file": "File:Anglican Christ Church in Zanzibar.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Altar_Font_and_Cross_Zanzibar_Cathedral_The_Architect_Volume_39_1888.jpg/1280px-Altar_Font_and_Cross_Zanzibar_Cathedral_The_Architect_Volume_39_1888.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christ-church-cathedral-zanzibar/thumbs/3.webp",
-    "w": 1120,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Altar Font and Cross from Zanzibar Anglican Cathedral",
-    "credit": "Charles Forster Hayward (1830-1905)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Altar_Font_and_Cross_Zanzibar_Cathedral_The_Architect_Volume_39_1888.jpg",
-    "file": "File:Altar Font and Cross Zanzibar Cathedral The Architect Volume 39 1888.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/A_cross_made_as_the_history_of_Dr.Livingstone.jpg/1280px-A_cross_made_as_the_history_of_Dr.Livingstone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christ-church-cathedral-zanzibar/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Luganosamwel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_cross_made_as_the_history_of_Dr.Livingstone.jpg",
-    "file": "File:A cross made as the history of Dr.Livingstone.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Christ_Church_inside%2C_Zanzibar.jpg/1280px-Christ_Church_inside%2C_Zanzibar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christ-church-cathedral-zanzibar/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "David Berkowitz  from New York, NY, USA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Christ_Church_inside,_Zanzibar.jpg",
-    "file": "File:Christ Church inside, Zanzibar.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Stairs_to_the_choir_section_of_the_the_Anglican_Cathedral_%E2%80%93_Mkunazini.jpg/1280px-Stairs_to_the_choir_section_of_the_the_Anglican_Cathedral_%E2%80%93_Mkunazini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/christ-church-cathedral-zanzibar/thumbs/6.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Section",
-    "caption": "Section · The current condition of the building is impressive giving its age",
-    "credit": "Erasmus Kamugisha",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stairs_to_the_choir_section_of_the_the_Anglican_Cathedral_%E2%80%93_Mkunazini.jpg",
-    "file": "File:Stairs to the choir section of the the Anglican Cathedral – Mkunazini.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "alte-feste-windhoek",
-  "n": 3307,
+  "n": 3306,
   "name": "Alte Feste",
   "by": "Curt von François",
   "place": "Windhoek, NA",
@@ -296062,22 +295764,10 @@ window.BUILDINGS = [
   "study": "Fort with an inner courtyard, high walls and four towers; the oldest surviving building in Windhoek.",
   "qid": null,
   "commons": "Category:Alte Feste",
-  "lead": "File:Windhuk Alte Feste 1.jpg",
+  "lead": "Alte Feste Windhoek (Aussenansicht).jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Windhuk_Alte_Feste_Platte.jpg/1280px-Windhuk_Alte_Feste_Platte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alte-feste-windhoek/thumbs/0.webp",
-    "w": 1280,
-    "h": 979,
-    "kind": "Exterior",
-    "caption": "Exterior · Desciption Panel of the Old Fortress, Windhoek, Region of Khomas, Namibia",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Windhuk_Alte_Feste_Platte.jpg",
-    "file": "File:Windhuk Alte Feste Platte.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Feste_Windhoek_%28Aussenansicht%29.jpg/1280px-Alte_Feste_Windhoek_%28Aussenansicht%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/alte-feste-windhoek/thumbs/1.webp",
@@ -296089,54 +295779,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Alte_Feste_Windhoek_(Aussenansicht).jpg",
     "file": "File:Alte Feste Windhoek (Aussenansicht).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek1.jpg/1280px-Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alte-feste-windhoek/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Genozid-Denkmal vor der Alten Feste in Windhoek",
-    "credit": "Pemba.mpimaji",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek1.jpg",
-    "file": "File:Genozid-Denkmal vor der Alten Feste in Windhoek1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek2.jpg/1280px-Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alte-feste-windhoek/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Genozid-Denkmal vor der Alten Feste in Windhoek",
-    "credit": "Pemba.mpimaji",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Genozid-Denkmal_vor_der_Alten_Feste_in_Windhoek2.jpg",
-    "file": "File:Genozid-Denkmal vor der Alten Feste in Windhoek2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Windhuk_Alte_Feste_Innenhof_S%C3%BCdwester-Reiter_5.jpg/1280px-Windhuk_Alte_Feste_Innenhof_S%C3%BCdwester-Reiter_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alte-feste-windhoek/thumbs/4.webp",
-    "w": 1039,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Southwest Equestrian at the Courtyard of the Old Fortress, Windhoek, Region of Khomas, Namibia",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Windhuk_Alte_Feste_Innenhof_S%C3%BCdwester-Reiter_5.jpg",
-    "file": "File:Windhuk Alte Feste Innenhof Südwester-Reiter 5.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Windhuk_Independence_Memorial_Museum_Blick_auf_die_Alte_Feste_5.jpg/1280px-Windhuk_Independence_Memorial_Museum_Blick_auf_die_Alte_Feste_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/alte-feste-windhoek/thumbs/5.webp",
-    "w": 1280,
-    "h": 959,
-    "kind": "Context",
-    "caption": "Context · View from the Independence Memorial Museum to the Old Fortress, Windhoek, Region of Khomas, Namibia",
-    "credit": "Zairon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Windhuk_Independence_Memorial_Museum_Blick_auf_die_Alte_Feste_5.jpg",
-    "file": "File:Windhuk Independence Memorial Museum Blick auf die Alte Feste 5.jpg"
    }
   ],
   "has": [],
@@ -296144,7 +295786,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-george-cathedral-addis-ababa",
-  "n": 3308,
+  "n": 3307,
   "name": "St. George's Cathedral",
   "by": "Sebastiano Castagna",
   "place": "Addis Ababa, ET",
@@ -296203,18 +295845,6 @@ window.BUILDINGS = [
     "file": "File:Katedrála sv. Jiří.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/St._George%27s_Cathedral_%2824557732314%29.jpg/1280px-St._George%27s_Cathedral_%2824557732314%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-george-cathedral-addis-ababa/thumbs/3.webp",
-    "w": 1280,
-    "h": 966,
-    "kind": "Exterior",
-    "caption": "Exterior · St",
-    "credit": "Francisco Anzola  from United States",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:St._George%27s_Cathedral_(24557732314).jpg",
-    "file": "File:St. George's Cathedral (24557732314).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_3.jpg/1280px-Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/st-george-cathedral-addis-ababa/thumbs/4.webp",
     "w": 917,
@@ -296225,18 +295855,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Addis_abeba,_cattedrale_di_san_giorgio,_interno,_3.jpg",
     "file": "File:Addis abeba, cattedrale di san giorgio, interno, 3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_affreschi_degli_anni_%2750_con_storie_sacre_02.jpg/1280px-Addis_abeba%2C_cattedrale_di_san_giorgio%2C_interno%2C_affreschi_degli_anni_%2750_con_storie_sacre_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-george-cathedral-addis-ababa/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · St",
-    "credit": "Sailko",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Addis_abeba,_cattedrale_di_san_giorgio,_interno,_affreschi_degli_anni_%2750_con_storie_sacre_02.jpg",
-    "file": "File:Addis abeba, cattedrale di san giorgio, interno, affreschi degli anni '50 con storie sacre 02.jpg"
    }
   ],
   "has": [],
@@ -296244,7 +295862,7 @@ window.BUILDINGS = [
  },
  {
   "id": "munyonyo-martyrs-shrine",
-  "n": 3309,
+  "n": 3308,
   "name": "Munyonyo Martyrs' Shrine",
   "by": "Robert Sseremba",
   "place": "Kampala, UG",
@@ -296262,21 +295880,21 @@ window.BUILDINGS = [
   "study": "Church shrine seating 1,600, up to 47 m high, completed 2016 and consecrated 28 October 2017.",
   "qid": null,
   "commons": "Category:Munyonyo Martyrs Shrine",
-  "lead": "File:Munyonyo Martyrdom Front view.jpg",
+  "lead": "About 10ft Munyonyo Martyrdom.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Munyonyo_Martyrdom_Front_view.jpg/1280px-Munyonyo_Martyrdom_Front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munyonyo-martyrs-shrine/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/About_10ft_Munyonyo_Martyrdom.jpg/1280px-About_10ft_Munyonyo_Martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/munyonyo-martyrs-shrine/thumbs/3.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
     "caption": "Exterior",
     "credit": "Fiktube",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Munyonyo_Martyrdom_Front_view.jpg",
-    "file": "File:Munyonyo Martyrdom Front view.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:About_10ft_Munyonyo_Martyrdom.jpg",
+    "file": "File:About 10ft Munyonyo Martyrdom.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Munyonyo_Martyrs_Shrine_Church.jpg/1280px-Munyonyo_Martyrs_Shrine_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -296291,30 +295909,6 @@ window.BUILDINGS = [
     "file": "File:Munyonyo Martyrs Shrine Church.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Munyonyo_Martyrs_Shrine.jpg/1280px-Munyonyo_Martyrs_Shrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munyonyo-martyrs-shrine/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · St",
-    "credit": "Fiktube",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Munyonyo_Martyrs_Shrine.jpg",
-    "file": "File:Munyonyo Martyrs Shrine.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/About_10ft_Munyonyo_Martyrdom.jpg/1280px-About_10ft_Munyonyo_Martyrdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munyonyo-martyrs-shrine/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Fiktube",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:About_10ft_Munyonyo_Martyrdom.jpg",
-    "file": "File:About 10ft Munyonyo Martyrdom.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Munyonyo_Shrine_Church.jpg/1280px-Munyonyo_Shrine_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/munyonyo-martyrs-shrine/thumbs/4.webp",
     "w": 1280,
@@ -296325,18 +295919,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Munyonyo_Shrine_Church.jpg",
     "file": "File:Munyonyo Shrine Church.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Journey_for_death.jpg/1280px-Journey_for_death.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/munyonyo-martyrs-shrine/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Wulman83",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Journey_for_death.jpg",
-    "file": "File:Journey for death.jpg"
    }
   ],
   "has": [],
@@ -296344,7 +295926,7 @@ window.BUILDINGS = [
  },
  {
   "id": "grande-poste-d-alger",
-  "n": 3310,
+  "n": 3309,
   "name": "Grande Poste d'Alger",
   "by": "Jules Voinot, Marius Toudoire",
   "place": "Algiers, DZ",
@@ -296362,22 +295944,10 @@ window.BUILDINGS = [
   "study": "Neo-Moorish central post office, Algeria's largest; arcaded facade; a museum since 2015.",
   "qid": null,
   "commons": "Category:Grande Poste d'Alger",
-  "lead": "File:Alger Grande Poste.jpg",
+  "lead": "La Grande Poste d'Alger.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alger_Grande_Poste.jpg/1280px-Alger_Grande_Poste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grande-poste-d-alger/thumbs/0.webp",
-    "w": 1280,
-    "h": 833,
-    "kind": "Exterior",
-    "caption": "Exterior · Grosse Post, Algier, Algerien",
-    "credit": "Paebi",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Alger_Grande_Poste.jpg",
-    "file": "File:Alger Grande Poste.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/La_Grande_Poste_d%27Alger.jpg/1280px-La_Grande_Poste_d%27Alger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/grande-poste-d-alger/thumbs/1.webp",
@@ -296389,6 +295959,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:La_Grande_Poste_d%27Alger.jpg",
     "file": "File:La Grande Poste d'Alger.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alger_Grande_Poste.jpg/1280px-Alger_Grande_Poste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grande-poste-d-alger/thumbs/0.webp",
+    "w": 1280,
+    "h": 833,
+    "kind": "Exterior",
+    "caption": "Exterior · Grosse Post, Algier, Algerien",
+    "credit": "Paebi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alger_Grande_Poste.jpg",
+    "file": "File:Alger Grande Poste.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/La_Grande_Poste_Alger.jpg/1280px-La_Grande_Poste_Alger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -296444,7 +296026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "notre-dame-d-afrique-algiers",
-  "n": 3311,
+  "n": 3310,
   "name": "Notre-Dame d'Afrique",
   "by": "Jean-Eugène Fromageau",
   "place": "Algiers, DZ",
@@ -296462,10 +296044,22 @@ window.BUILDINGS = [
   "study": "Neo-Byzantine basilica on a 124 m cliff over the Bay of Algiers; choir faces southeast.",
   "qid": null,
   "commons": "Category:Notre Dame d'Afrique",
-  "lead": "File:Basilique Notre-Dame-d'Afrique 2023 01.jpg",
+  "lead": "Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_%2851972148806%29.jpg/1280px-Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_%2851972148806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/notre-dame-d-afrique-algiers/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "habib kaki 2  from Zeralda",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_(51972148806).jpg",
+    "file": "File:Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Basilique_Notre-Dame-d%27Afrique_2023_01.jpg/1280px-Basilique_Notre-Dame-d%27Afrique_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/notre-dame-d-afrique-algiers/thumbs/0.webp",
@@ -296489,18 +296083,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Alger-Notre-Dame-D%27Afrique.jpg",
     "file": "File:Alger-Notre-Dame-D'Afrique.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_%2851972148806%29.jpg/1280px-Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_%2851972148806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/notre-dame-d-afrique-algiers/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "habib kaki 2  from Zeralda",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Basilique_Notre_Dame_d%27Afrique_%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9_(51972148806).jpg",
-    "file": "File:Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Notre_Dame_d%27Afrique2.jpg/1280px-Notre_Dame_d%27Afrique2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -296544,7 +296126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "acropolium-of-carthage",
-  "n": 3312,
+  "n": 3311,
   "name": "Acropolium of Carthage (Cathedral of Saint Louis)",
   "by": "Joseph Pougnet",
   "place": "Carthage, TN",
@@ -296562,10 +296144,22 @@ window.BUILDINGS = [
   "study": "Byzantine, Gothic and Moorish styles; Latin cross plan, central cupola ringed by eight small spires.",
   "qid": null,
   "commons": "Category:Cathedral Saint-Louis of Carthage",
-  "lead": "File:Acropolium de Carthage 01.jpg",
+  "lead": "Acropolium.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Acropolium.jpg/1280px-Acropolium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/acropolium-of-carthage/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Acropolium in Carthage",
+    "credit": "Niels Elgaard Larsen -  (WT-en) Elgaard  at  English Wikivoyage",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acropolium.jpg",
+    "file": "File:Acropolium.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Acropolium_de_Carthage%281%29.jpg/1280px-Acropolium_de_Carthage%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/acropolium-of-carthage/thumbs/0.webp",
@@ -296589,18 +296183,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Acropolium_de_Carthage_from_far.jpg",
     "file": "File:Acropolium de Carthage from far.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Acropolium.jpg/1280px-Acropolium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/acropolium-of-carthage/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Acropolium in Carthage",
-    "credit": "Niels Elgaard Larsen -  (WT-en) Elgaard  at  English Wikivoyage",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Acropolium.jpg",
-    "file": "File:Acropolium.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/La_Cath%C3%A9drale%2C_Carthage%2C_Tunisia%2C_ca._1885.jpg/1280px-La_Cath%C3%A9drale%2C_Carthage%2C_Tunisia%2C_ca._1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -296644,7 +296226,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hotel-du-lac-tunis",
-  "n": 3313,
+  "n": 3312,
   "name": "Hôtel du Lac",
   "by": "Raffaele Contigiani",
   "place": "Tunis, TN",
@@ -296720,7 +296302,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bourguiba-mausoleum-monastir",
-  "n": 3314,
+  "n": 3313,
   "name": "Bourguiba Mausoleum",
   "by": "Olivier-Clément Cacoub",
   "place": "Monastir, TN",
@@ -296767,30 +296349,6 @@ window.BUILDINGS = [
     "file": "File:Habib Bourguiba Mausoleum.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bourguiba%2C_mausol%C3%A9e_%2802%29_11_octobre_2016.jpg/1280px-Bourguiba%2C_mausol%C3%A9e_%2802%29_11_octobre_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourguiba-mausoleum-monastir/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · À l'intérieur du mausolée de Habib Bourguiba",
-    "credit": "Habib M'henni",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bourguiba,_mausol%C3%A9e_(02)_11_octobre_2016.jpg",
-    "file": "File:Bourguiba, mausolée (02) 11 octobre 2016.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bourguiba_and_visitors.JPG/1280px-Bourguiba_and_visitors.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourguiba-mausoleum-monastir/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Tunisia's first president, Habib Bourguiba, with visitors",
-    "credit": "Thylacin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bourguiba_and_visitors.JPG",
-    "file": "File:Bourguiba and visitors.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/The_Mausoleum_of_Bourguiba.jpg/1280px-The_Mausoleum_of_Bourguiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bourguiba-mausoleum-monastir/thumbs/4.webp",
     "w": 1280,
@@ -296801,18 +296359,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Mausoleum_of_Bourguiba.jpg",
     "file": "File:The Mausoleum of Bourguiba.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Buste_Bourguiba%2C_mausol%C3%A9e_%2801%29_11_octobre_2016.jpg/1280px-Buste_Bourguiba%2C_mausol%C3%A9e_%2801%29_11_octobre_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bourguiba-mausoleum-monastir/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · À l'intérieur du mausolée de Habib Bourguiba",
-    "credit": "Habib M'henni",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Buste_Bourguiba,_mausol%C3%A9e_(01)_11_octobre_2016.jpg",
-    "file": "File:Buste Bourguiba, mausolée (01) 11 octobre 2016.jpg"
    }
   ],
   "has": [],
@@ -296820,7 +296366,7 @@ window.BUILDINGS = [
  },
  {
   "id": "prince-moulay-abdellah-stadium",
-  "n": 3315,
+  "n": 3314,
   "name": "Prince Moulay Abdellah Stadium",
   "by": "Orange Atelier, Populous",
   "place": "Rabat, MA",
@@ -296838,10 +296384,22 @@ window.BUILDINGS = [
   "study": "Rebuilt 69,500-seat stadium; roof over three stands and a facade designed to resemble palm leaves.",
   "qid": null,
   "commons": "Category:Prince Moulay Abdellah Stadium",
-  "lead": "File:Prince Moulay Abdellah Stadium, 2025.jpg",
+  "lead": "Moulay Abdellah Stadium - interior.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moulay_Abdellah_Stadium_-_interior.jpg/1280px-Moulay_Abdellah_Stadium_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prince-moulay-abdellah-stadium/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Reda benkhadra",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moulay_Abdellah_Stadium_-_interior.jpg",
+    "file": "File:Moulay Abdellah Stadium - interior.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Prince_Moulay_Abdellah_Stadium%2C_2025.jpg/1280px-Prince_Moulay_Abdellah_Stadium%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/prince-moulay-abdellah-stadium/thumbs/0.webp",
@@ -296865,42 +296423,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Moulay_Abdellah_Stadium.jpg",
     "file": "File:Moulay Abdellah Stadium.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Achraf_Hakimi_vs_Niger.jpg/1280px-Achraf_Hakimi_vs_Niger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/prince-moulay-abdellah-stadium/thumbs/2.webp",
-    "w": 1120,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Achraf Hakimi au Stade Moulay Abdellah de Rabat contre le Niger",
-    "credit": "Laloumance",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_vs_Niger.jpg",
-    "file": "File:Achraf Hakimi vs Niger.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bilal_El_Khannouss_vs_Niger.jpg/1280px-Bilal_El_Khannouss_vs_Niger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/prince-moulay-abdellah-stadium/thumbs/3.webp",
-    "w": 1120,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Laloumance",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bilal_El_Khannouss_vs_Niger.jpg",
-    "file": "File:Bilal El Khannouss vs Niger.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moulay_Abdellah_Stadium_-_interior.jpg/1280px-Moulay_Abdellah_Stadium_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/prince-moulay-abdellah-stadium/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Reda benkhadra",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Moulay_Abdellah_Stadium_-_interior.jpg",
-    "file": "File:Moulay Abdellah Stadium - interior.jpg"
    }
   ],
   "has": [],
@@ -296908,7 +296430,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baron-empain-palace",
-  "n": 3316,
+  "n": 3315,
   "name": "Baron Empain Palace",
   "by": "Alexandre Marcel",
   "place": "Cairo (Heliopolis), EG",
@@ -296926,22 +296448,10 @@ window.BUILDINGS = [
   "study": "Reinforced-concrete mansion modelled on Hindu temples, richly decorated with animal motifs and statues.",
   "qid": null,
   "commons": "Category:Baron Empain Palace",
-  "lead": "File:Baron Empain palace 2.JPG",
+  "lead": "Baron Empain Palace in Heliopolis.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Baron_Empain_palace_2.JPG/1280px-Baron_Empain_palace_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baron-empain-palace/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · This is a photo of a monument in Egypt identified by the ID",
-    "credit": "Gr8worldfromgr8god",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Baron_Empain_palace_2.JPG",
-    "file": "File:Baron Empain palace 2.JPG"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Baron_Empain_Palace_in_Heliopolis.jpg/1280px-Baron_Empain_Palace_in_Heliopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/baron-empain-palace/thumbs/1.webp",
@@ -296953,6 +296463,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Baron_Empain_Palace_in_Heliopolis.jpg",
     "file": "File:Baron Empain Palace in Heliopolis.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Baron_Empain_palace_2.JPG/1280px-Baron_Empain_palace_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/baron-empain-palace/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Egypt identified by the ID",
+    "credit": "Gr8worldfromgr8god",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baron_Empain_palace_2.JPG",
+    "file": "File:Baron Empain palace 2.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Baraon_Palace.jpg/1280px-Baraon_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -296989,18 +296511,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Baron_Empain_palace.JPG",
     "file": "File:Baron Empain palace.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Baron_Empain_Palace_Interior_01.jpg/1280px-Baron_Empain_Palace_Interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/baron-empain-palace/thumbs/5.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Empain Baronu Sarayı'nın içi",
-    "credit": "Nabbegat",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Baron_Empain_Palace_Interior_01.jpg",
-    "file": "File:Baron Empain Palace Interior 01.jpg"
    }
   ],
   "has": [],
@@ -297008,7 +296518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mausoleum-of-aga-khan-aswan",
-  "n": 3317,
+  "n": 3316,
   "name": "Mausoleum of Aga Khan III",
   "by": "Farid Shafi'e",
   "place": "Aswan, EG",
@@ -297026,33 +296536,21 @@ window.BUILDINGS = [
   "study": "Central dome on an octagonal drum with arched windows, four corner domes and crenellated parapet walls.",
   "qid": null,
   "commons": "Category:Mausoleum of Aga Khan",
-  "lead": "File:Aga Khan, Aswan.jpg",
+  "lead": "Aswan Aga Khan Mausoleum R03.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Aga_Khan%2C_Aswan.jpg/1280px-Aga_Khan%2C_Aswan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mausoleum-of-aga-khan-aswan/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Aswan_Aga_Khan_Mausoleum_R03.jpg/1280px-Aswan_Aga_Khan_Mausoleum_R03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mausoleum-of-aga-khan-aswan/thumbs/3.webp",
     "w": 1280,
-    "h": 960,
+    "h": 952,
     "kind": "Exterior",
-    "caption": "Exterior · This is a photo of a monument in Egypt identified by the ID",
-    "credit": "Sherif217",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aga_Khan,_Aswan.jpg",
-    "file": "File:Aga Khan, Aswan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Assuan_Mausoleum_Aga_Khan_III._01.JPG/1280px-Assuan_Mausoleum_Aga_Khan_III._01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mausoleum-of-aga-khan-aswan/thumbs/1.webp",
-    "w": 1280,
-    "h": 959,
-    "kind": "Interior",
-    "caption": "Interior · Blick über den Nil zur Kitchener-Insel und dem Mausoleum des Aga Khan III",
-    "credit": "Olaf Tausch",
+    "caption": "Exterior · Aswan (Egypt): the mausoleum of Aga Khan III",
+    "credit": "Marc Ryckaert ( MJJR )",
     "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Assuan_Mausoleum_Aga_Khan_III._01.JPG",
-    "file": "File:Assuan Mausoleum Aga Khan III. 01.JPG"
+    "source": "https://commons.wikimedia.org/wiki/File:Aswan_Aga_Khan_Mausoleum_R03.jpg",
+    "file": "File:Aswan Aga Khan Mausoleum R03.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mausoleo_del_Aga_Khan_01.jpg/1280px-Mausoleo_del_Aga_Khan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297065,18 +296563,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Mausoleo_del_Aga_Khan_01.jpg",
     "file": "File:Mausoleo del Aga Khan 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Aswan_Aga_Khan_Mausoleum_R03.jpg/1280px-Aswan_Aga_Khan_Mausoleum_R03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mausoleum-of-aga-khan-aswan/thumbs/3.webp",
-    "w": 1280,
-    "h": 952,
-    "kind": "Exterior",
-    "caption": "Exterior · Aswan (Egypt): the mausoleum of Aga Khan III",
-    "credit": "Marc Ryckaert ( MJJR )",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aswan_Aga_Khan_Mausoleum_R03.jpg",
-    "file": "File:Aswan Aga Khan Mausoleum R03.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Assuan_Mausoleum_Aga_Khan_III._10.JPG/1280px-Assuan_Mausoleum_Aga_Khan_III._10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297108,7 +296594,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mogamma-cairo",
-  "n": 3318,
+  "n": 3317,
   "name": "Mogamma",
   "by": "Mohamed Kamal Ismail",
   "place": "Cairo, EG",
@@ -297126,22 +296612,10 @@ window.BUILDINGS = [
   "study": "14-storey modernist government block on Tahrir Square, practical rather than decorated; planned for about 4,000 staff.",
   "qid": null,
   "commons": "Category:Mogamma",
-  "lead": "File:Cairo Mogamma building DSCF1980.jpg",
+  "lead": "The Mogamma Cairo in May 2015.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cairo_Mogamma_building_DSCF1980.jpg/1280px-Cairo_Mogamma_building_DSCF1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mogamma-cairo/thumbs/0.webp",
-    "w": 1280,
-    "h": 846,
-    "kind": "Exterior",
-    "caption": "Exterior · Mogamma building at Tahrir Square in Cairo (with the minaret of the Omar Makram Mosque on the right)",
-    "credit": "R Prazeres",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cairo_Mogamma_building_DSCF1980.jpg",
-    "file": "File:Cairo Mogamma building DSCF1980.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_Mogamma_Cairo_in_May_2015.JPG/1280px-The_Mogamma_Cairo_in_May_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mogamma-cairo/thumbs/1.webp",
@@ -297153,6 +296627,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Mogamma_Cairo_in_May_2015.JPG",
     "file": "File:The Mogamma Cairo in May 2015.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cairo_Mogamma_building_DSCF1980.jpg/1280px-Cairo_Mogamma_building_DSCF1980.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mogamma-cairo/thumbs/0.webp",
+    "w": 1280,
+    "h": 846,
+    "kind": "Exterior",
+    "caption": "Exterior · Mogamma building at Tahrir Square in Cairo (with the minaret of the Omar Makram Mosque on the right)",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_Mogamma_building_DSCF1980.jpg",
+    "file": "File:Cairo Mogamma building DSCF1980.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Mogamma%2C_Tahrir_Square%2C_Cairo%2C_Egypt.jpg/1280px-Mogamma%2C_Tahrir_Square%2C_Cairo%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297177,30 +296663,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sadat_Station_of_Cairo_Metro.JPG",
     "file": "File:Sadat Station of Cairo Metro.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Street_lights%E2%80%99_lava_glow_around_Tahrir_Square_%28Explored%29_-_Flickr_-_wikiphotographer.jpg/1280px-Street_lights%E2%80%99_lava_glow_around_Tahrir_Square_%28Explored%29_-_Flickr_-_wikiphotographer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mogamma-cairo/thumbs/4.webp",
-    "w": 1280,
-    "h": 856,
-    "kind": "Interior",
-    "caption": "Interior · I got up at 5 am that morning, when I noticed the sun rising behind the curtain of my hotel room window",
-    "credit": "wikiphotographer  from Chico, California, United States",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Street_lights%E2%80%99_lava_glow_around_Tahrir_Square_(Explored)_-_Flickr_-_wikiphotographer.jpg",
-    "file": "File:Street lights’ lava glow around Tahrir Square (Explored) - Flickr - wikiphotographer.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Tahrir_Square%2C_Cairo%2C_in_the_early_morning.jpg/1280px-Tahrir_Square%2C_Cairo%2C_in_the_early_morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mogamma-cairo/thumbs/5.webp",
-    "w": 1280,
-    "h": 856,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Frank Schulenburg",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tahrir_Square,_Cairo,_in_the_early_morning.jpg",
-    "file": "File:Tahrir Square, Cairo, in the early morning.jpg"
    }
   ],
   "has": [],
@@ -297208,7 +296670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cairo-international-stadium",
-  "n": 3319,
+  "n": 3318,
   "name": "Cairo International Stadium",
   "by": "Werner March",
   "place": "Cairo (Nasr City), EG",
@@ -297226,22 +296688,10 @@ window.BUILDINGS = [
   "study": "Olympic-standard multi-use stadium with an all-seated capacity of 75,000.",
   "qid": null,
   "commons": "Category:Cairo International Stadium",
-  "lead": "File:Cairo International Stadium 2019.jpg",
+  "lead": "Panorma Cairo Stadium.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cairo_International_Stadium_2019.jpg/1280px-Cairo_International_Stadium_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cairo-international-stadium/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Depicted place: Cairo International Stadium",
-    "credit": "Crosskimo  at  English Wikipedia",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Cairo_International_Stadium_2019.jpg",
-    "file": "File:Cairo International Stadium 2019.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Panorma_Cairo_Stadium.jpg/1280px-Panorma_Cairo_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cairo-international-stadium/thumbs/1.webp",
@@ -297265,18 +296715,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Cairo_Stadium_Afcon_u23_2019.jpg",
     "file": "File:Cairo Stadium Afcon u23 2019.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cairo_International_Stadium-gate.JPG/1280px-Cairo_International_Stadium-gate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cairo-international-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 681,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Faris knight",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cairo_International_Stadium-gate.JPG",
-    "file": "File:Cairo International Stadium-gate.JPG"
    }
   ],
   "has": [],
@@ -297284,7 +296722,7 @@ window.BUILDINGS = [
  },
  {
   "id": "egyptian-museum-cairo",
-  "n": 3320,
+  "n": 3319,
   "name": "Egyptian Museum",
   "by": "Marcel Dourgnon",
   "place": "Cairo, EG",
@@ -297302,10 +296740,22 @@ window.BUILDINGS = [
   "study": "Neoclassical facade; halls arranged in chronological sequence, statues on the ground floor, funerary items above.",
   "qid": null,
   "commons": "Category:Main facade of Egyptian Museum, Cairo",
-  "lead": "File:Egyptian Museum in Cairo in May 2015.JPG",
+  "lead": "1897 bis 1902 wurde das Ägyptische Museum in Kairo gebaut. 01.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg/1280px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/egyptian-museum-cairo/thumbs/3.webp",
+    "w": 1280,
+    "h": 1027,
+    "kind": "Exterior",
+    "caption": "Exterior · Main facade of Egyptian Museum, Cairo",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg",
+    "file": "File:1897 bis 1902 wurde das Ägyptische Museum in Kairo gebaut. 01.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Egyptian_Museum_in_Cairo_in_May_2015.JPG/1280px-Egyptian_Museum_in_Cairo_in_May_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/egyptian-museum-cairo/thumbs/0.webp",
@@ -297319,18 +296769,6 @@ window.BUILDINGS = [
     "file": "File:Egyptian Museum in Cairo in May 2015.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG/1280px-Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/egyptian-museum-cairo/thumbs/1.webp",
-    "w": 1280,
-    "h": 838,
-    "kind": "Context",
-    "caption": "Context · Egyptian Museum - front view with wide angle lens",
-    "credit": "Daniel Mayer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG",
-    "file": "File:Egyptian Museum - front view with wide angle lens.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Egyptian_museum_cairo.JPG/1280px-Egyptian_museum_cairo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/egyptian-museum-cairo/thumbs/2.webp",
     "w": 1280,
@@ -297341,18 +296779,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Egyptian_museum_cairo.JPG",
     "file": "File:Egyptian museum cairo.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg/1280px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/egyptian-museum-cairo/thumbs/3.webp",
-    "w": 1280,
-    "h": 1027,
-    "kind": "Exterior",
-    "caption": "Exterior · Main facade of Egyptian Museum, Cairo",
-    "credit": "Holger Uwe Schmitt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._01.jpg",
-    "file": "File:1897 bis 1902 wurde das Ägyptische Museum in Kairo gebaut. 01.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._02.jpg/1280px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297377,6 +296803,18 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:The_Egyptian_Museum.jpg",
     "file": "File:The Egyptian Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG/1280px-Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/egyptian-museum-cairo/thumbs/1.webp",
+    "w": 1280,
+    "h": 838,
+    "kind": "Context",
+    "caption": "Context · Egyptian Museum - front view with wide angle lens",
+    "credit": "Daniel Mayer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Egyptian_Museum_-_front_view_with_wide_angle_lens.JPG",
+    "file": "File:Egyptian Museum - front view with wide angle lens.JPG"
    }
   ],
   "has": [],
@@ -297384,7 +296822,7 @@ window.BUILDINGS = [
  },
  {
   "id": "al-rifai-mosque-cairo",
-  "n": 3321,
+  "n": 3320,
   "name": "Al-Rifa'i Mosque",
   "by": "Hussein Fahmi Pasha, Max Herz",
   "place": "Cairo, EG",
@@ -297402,10 +296840,22 @@ window.BUILDINGS = [
   "study": "Neo-Mamluk mosque with two minarets and a dome, in stone and marble, facing the Sultan Hassan Mosque.",
   "qid": null,
   "commons": "Category:Al-Rifa'i Mosque",
-  "lead": "File:Cairo - al-Rifa'i Mosque 0033.jpg",
+  "lead": "Kairo Rifai Moschee BW 1.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kairo_Rifai_Moschee_BW_1.jpg/1280px-Kairo_Rifai_Moschee_BW_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/al-rifai-mosque-cairo/thumbs/3.webp",
+    "w": 1255,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Cairo, Al-Rifa'i Mosque",
+    "credit": "Berthold Werner",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Rifai_Moschee_BW_1.jpg",
+    "file": "File:Kairo Rifai Moschee BW 1.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Cairo_-_al-Rifa%27i_Mosque_0033.jpg/1280px-Cairo_-_al-Rifa%27i_Mosque_0033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/al-rifai-mosque-cairo/thumbs/0.webp",
@@ -297429,30 +296879,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_-_%D9%85%D9%86_%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC.jpg",
     "file": "File:مسجد الرفاعي - من الخارج.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg/1280px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/al-rifai-mosque-cairo/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Mosques of Al-Rifa'i and Sultan Hassan from above Cairo Citadel",
-    "credit": "Amr F.Nagy",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg",
-    "file": "File:مسجد الرفاعي والسلطان حسن.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kairo_Rifai_Moschee_BW_1.jpg/1280px-Kairo_Rifai_Moschee_BW_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/al-rifai-mosque-cairo/thumbs/3.webp",
-    "w": 1255,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Cairo, Al-Rifa'i Mosque",
-    "credit": "Berthold Werner",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kairo_Rifai_Moschee_BW_1.jpg",
-    "file": "File:Kairo Rifai Moschee BW 1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/El_Refaei_Mosque.jpg/1280px-El_Refaei_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297479,6 +296905,18 @@ window.BUILDINGS = [
     "file": "File:Al-Rifa'i Mosque 40.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg/1280px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/al-rifai-mosque-cairo/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Mosques of Al-Rifa'i and Sultan Hassan from above Cairo Citadel",
+    "credit": "Amr F.Nagy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%AD%D8%B3%D9%86.jpg",
+    "file": "File:مسجد الرفاعي والسلطان حسن.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Al-Rifa%27i_Mosque_floor_plan.JPG/1280px-Al-Rifa%27i_Mosque_floor_plan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/al-rifai-mosque-cairo/thumbs/6.webp",
     "w": 1280,
@@ -297498,7 +296936,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abu-al-abbas-al-mursi-mosque",
-  "n": 3322,
+  "n": 3321,
   "name": "Abu al-Abbas al-Mursi Mosque",
   "by": "Mario Rossi",
   "place": "Alexandria, EG",
@@ -297531,30 +296969,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Abu_al-Abbas_al-Mursi_Mosque_Facade.jpg",
     "file": "File:Abu al-Abbas al-Mursi Mosque Facade.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg/1280px-Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/abu-al-abbas-al-mursi-mosque/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Entrance of Abu el-Abbas el-Mursi Mosque in Alexandria , Egypt ",
-    "credit": "Leonard J. DeFrancisci",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg",
-    "file": "File:Abu el-Abbas el-Mursi Mosque in Alexandria.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mosque_Abu_al-Abbas_al-Murs.jpg/1280px-Mosque_Abu_al-Abbas_al-Murs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/abu-al-abbas-al-mursi-mosque/thumbs/2.webp",
-    "w": 1280,
-    "h": 957,
-    "kind": "Exterior",
-    "caption": "Exterior · Alexandria",
-    "credit": "Den Mos 05042023",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mosque_Abu_al-Abbas_al-Murs.jpg",
-    "file": "File:Mosque Abu al-Abbas al-Murs.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Abu_el-Abbas_el-Mursi_Mosque%2C_Alexandria%2C_Egypt_%2824446626448%29.jpg/1280px-Abu_el-Abbas_el-Mursi_Mosque%2C_Alexandria%2C_Egypt_%2824446626448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297591,6 +297005,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:An_ancient_mosque.jpg",
     "file": "File:An ancient mosque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg/1280px-Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/abu-al-abbas-al-mursi-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Entrance of Abu el-Abbas el-Mursi Mosque in Alexandria , Egypt ",
+    "credit": "Leonard J. DeFrancisci",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abu_el-Abbas_el-Mursi_Mosque_in_Alexandria.jpg",
+    "file": "File:Abu el-Abbas el-Mursi Mosque in Alexandria.jpg"
    }
   ],
   "has": [],
@@ -297598,7 +297024,7 @@ window.BUILDINGS = [
  },
  {
   "id": "abdeen-palace-cairo",
-  "n": 3323,
+  "n": 3322,
   "name": "Abdeen Palace",
   "by": "Léon Rousseau",
   "place": "Cairo, EG",
@@ -297616,10 +297042,22 @@ window.BUILDINGS = [
   "study": "Palace built 1863-1874, adorned with paintings and many gold-decorated clocks.",
   "qid": null,
   "commons": "Category:Abdeen Palace",
-  "lead": "File:قصر عابدين.jpg",
+  "lead": "ركن الشاي بقصر عابدين.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg/1280px-%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/abdeen-palace-cairo/thumbs/2.webp",
+    "w": 1280,
+    "h": 878,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Waleedzizo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg",
+    "file": "File:ركن الشاي بقصر عابدين.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_05.jpg/1280px-%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/abdeen-palace-cairo/thumbs/0.webp",
@@ -297643,18 +297081,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_08.jpg",
     "file": "File:قصر عابدين 08.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg/1280px-%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/abdeen-palace-cairo/thumbs/2.webp",
-    "w": 1280,
-    "h": 878,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Waleedzizo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D8%B1%D9%83%D9%86_%D8%A7%D9%84%D8%B4%D8%A7%D9%8A_%D8%A8%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86.jpg",
-    "file": "File:ركن الشاي بقصر عابدين.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84.jpg/1280px-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D9%82%D8%B5%D8%B1_%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297698,7 +297124,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fnb-stadium-soccer-city",
-  "n": 3324,
+  "n": 3323,
   "name": "FNB Stadium (Soccer City)",
   "by": "Boogertman & Partners, HOK Sport",
   "place": "Johannesburg, ZA",
@@ -297716,46 +297142,10 @@ window.BUILDINGS = [
   "study": "Shaped like a calabash, an African pot; mosaic cladding in fire and earth tones; structure by Schlaich Bergermann.",
   "qid": null,
   "commons": "Category:Soccer City",
-  "lead": "File:Soccer City Stadium, Johannesburg.jpg",
+  "lead": "Johannesburg- Part II - Johannesburg4245.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Soccer_City_Stadium%2C_Johannesburg.jpg/1280px-Soccer_City_Stadium%2C_Johannesburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fnb-stadium-soccer-city/thumbs/0.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Exterior",
-    "caption": "Exterior · Satellite image of Soccer City stadium",
-    "credit": "Jesse Allen",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Soccer_City_Stadium,_Johannesburg.jpg",
-    "file": "File:Soccer City Stadium, Johannesburg.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg/1280px-FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fnb-stadium-soccer-city/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · FNB Stadium and mooifontein Arrial View",
-    "credit": "fading",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg",
-    "file": "File:FNB Stadium and mooifontein Arrial View - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/South_Africa-Johannesburg-Nasrec_road-Streetlight01.jpg/1280px-South_Africa-Johannesburg-Nasrec_road-Streetlight01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fnb-stadium-soccer-city/thumbs/2.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · New street light on Nasrec Road between the M1 highway and Soccer City",
-    "credit": "NJR ZA",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:South_Africa-Johannesburg-Nasrec_road-Streetlight01.jpg",
-    "file": "File:South Africa-Johannesburg-Nasrec road-Streetlight01.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Johannesburg-_Part_II_-_Johannesburg4245.jpg/1280px-Johannesburg-_Part_II_-_Johannesburg4245.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/fnb-stadium-soccer-city/thumbs/3.webp",
@@ -297769,16 +297159,16 @@ window.BUILDINGS = [
     "file": "File:Johannesburg- Part II - Johannesburg4245.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/A_la_coupe_d%27Afrique_des_Nations.jpg/1280px-A_la_coupe_d%27Afrique_des_Nations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fnb-stadium-soccer-city/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg/1280px-FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fnb-stadium-soccer-city/thumbs/1.webp",
     "w": 1280,
-    "h": 850,
+    "h": 960,
     "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Happiraphael",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_la_coupe_d%27Afrique_des_Nations.jpg",
-    "file": "File:A la coupe d'Afrique des Nations.jpg"
+    "caption": "Exterior · FNB Stadium and mooifontein Arrial View",
+    "credit": "fading",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FNB_Stadium_and_mooifontein_Arrial_View_-_panoramio.jpg",
+    "file": "File:FNB Stadium and mooifontein Arrial View - panoramio.jpg"
    }
   ],
   "has": [],
@@ -297786,7 +297176,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cape-town-stadium",
-  "n": 3325,
+  "n": 3324,
   "name": "Cape Town Stadium",
   "by": "gmp Architects with Louis Karol Architects and Point Architects",
   "place": "Cape Town, ZA",
@@ -297804,10 +297194,22 @@ window.BUILDINGS = [
   "study": "Built 2007-2009 on Green Point Common for the 2010 World Cup; designed by gmp with local firms.",
   "qid": null,
   "commons": "Category:Cape Town Stadium",
-  "lead": "File:Cape Town Stadium, Cape Town, South Africa (Unsplash).jpg",
+  "lead": "CT - V&A Waterfront and Cape Town Stadium from Signal Hill, South Africa, 2017.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill%2C_South_Africa%2C_2017.jpg/1280px-CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill%2C_South_Africa%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cape-town-stadium/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the V&A Waterfront and Cape Town Stadium from Signal Hill",
+    "credit": "Josep M. Gracia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill,_South_Africa,_2017.jpg",
+    "file": "File:CT - V&A Waterfront and Cape Town Stadium from Signal Hill, South Africa, 2017.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Cape_Town_Stadium%2C_Cape_Town%2C_South_Africa_%28Unsplash%29.jpg/1280px-Cape_Town_Stadium%2C_Cape_Town%2C_South_Africa_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/cape-town-stadium/thumbs/0.webp",
@@ -297831,30 +297233,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Green_Point_Stadium_-_South_Africa_(4029380846).jpg",
     "file": "File:Green Point Stadium - South Africa (4029380846).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Capetownstadium-001.JPG/1280px-Capetownstadium-001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cape-town-stadium/thumbs/2.webp",
-    "w": 1280,
-    "h": 863,
-    "kind": "Exterior",
-    "caption": "Exterior · Cape Town Stadium seen across Table Bay",
-    "credit": "Rute Martins of Leoa's Photography ( www.leoa.co.za )",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Capetownstadium-001.JPG",
-    "file": "File:Capetownstadium-001.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill%2C_South_Africa%2C_2017.jpg/1280px-CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill%2C_South_Africa%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cape-town-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · View of the V&A Waterfront and Cape Town Stadium from Signal Hill",
-    "credit": "Josep M. Gracia",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:CT_-_V%26A_Waterfront_and_Cape_Town_Stadium_from_Signal_Hill,_South_Africa,_2017.jpg",
-    "file": "File:CT - V&A Waterfront and Cape Town Stadium from Signal Hill, South Africa, 2017.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cape_Town_Stadium_Inside_02.jpg/1280px-Cape_Town_Stadium_Inside_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297886,7 +297264,7 @@ window.BUILDINGS = [
  },
  {
   "id": "cape-town-city-hall",
-  "n": 3326,
+  "n": 3325,
   "name": "Cape Town City Hall",
   "by": "Henry Austin Reid and Frederick George Green",
   "place": "Cape Town, ZA",
@@ -297962,7 +297340,7 @@ window.BUILDINGS = [
  },
  {
   "id": "durban-city-hall",
-  "n": 3327,
+  "n": 3326,
   "name": "Durban City Hall",
   "by": "Stanley G. Hudson",
   "place": "Durban, ZA",
@@ -297980,33 +297358,21 @@ window.BUILDINGS = [
   "study": "Edwardian neo-baroque city hall, almost an exact replica of Belfast City Hall; built 1906-1910.",
   "qid": null,
   "commons": "Category:Durban Town Hall",
-  "lead": "File:City Hall and Francis Farewell Gardens, Durban, 9 2 407 0010.jpg",
+  "lead": "Durban City Centre.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/City_Hall_and_Francis_Farewell_Gardens%2C_Durban%2C_9_2_407_0010.jpg/1280px-City_Hall_and_Francis_Farewell_Gardens%2C_Durban%2C_9_2_407_0010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/durban-city-hall/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Durban_City_Centre.jpg/1280px-Durban_City_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/durban-city-hall/thumbs/3.webp",
     "w": 1280,
-    "h": 784,
+    "h": 957,
     "kind": "Interior",
-    "caption": "Interior · City Hall and Francis Farewell Gardens, Durban,",
-    "credit": "Mariannebritsstrodl",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:City_Hall_and_Francis_Farewell_Gardens,_Durban,_9_2_407_0010.jpg",
-    "file": "File:City Hall and Francis Farewell Gardens, Durban, 9 2 407 0010.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/City_Hall_and_Francis_Farewell_Gardens%2C_IV_Durban_9_2_407_0010.jpg/1280px-City_Hall_and_Francis_Farewell_Gardens%2C_IV_Durban_9_2_407_0010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/durban-city-hall/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior · City Hall and Francis Farewell Gardens, Durban",
-    "credit": "Mariannebritsstrodl",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:City_Hall_and_Francis_Farewell_Gardens,_IV_Durban_9_2_407_0010.jpg",
-    "file": "File:City Hall and Francis Farewell Gardens, IV Durban 9 2 407 0010.jpg"
+    "caption": "Interior · Durban City Center, Durban, KwaZulu-Natal, South Africa",
+    "credit": "Khethukuthula Happyson Mbonambi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Durban_City_Centre.jpg",
+    "file": "File:Durban City Centre.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Durban_TownHall.jpg/1280px-Durban_TownHall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -298019,18 +297385,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Durban_TownHall.jpg",
     "file": "File:Durban TownHall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Durban_City_Centre.jpg/1280px-Durban_City_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/durban-city-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 957,
-    "kind": "Interior",
-    "caption": "Interior · Durban City Center, Durban, KwaZulu-Natal, South Africa",
-    "credit": "Khethukuthula Happyson Mbonambi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Durban_City_Centre.jpg",
-    "file": "File:Durban City Centre.jpg"
    }
   ],
   "has": [],
@@ -298038,7 +297392,7 @@ window.BUILDINGS = [
  },
  {
   "id": "johannesburg-city-hall",
-  "n": 3328,
+  "n": 3327,
   "name": "Johannesburg City Hall",
   "by": "Hawkey & McKinley",
   "place": "Johannesburg, ZA",
@@ -298114,7 +297468,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nelson-mandela-bay-stadium",
-  "n": 3329,
+  "n": 3328,
   "name": "Nelson Mandela Bay Stadium",
   "by": "Architectural Design Associates, Dominic Bonnesse Architects",
   "place": "Gqeberha, ZA",
@@ -298149,18 +297503,6 @@ window.BUILDINGS = [
     "file": "File:Western side of the Nelson Mandela Bay Stadium February 2025.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nelson_Mandela_Bay_Stadium_.jpg/1280px-Nelson_Mandela_Bay_Stadium_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nelson-mandela-bay-stadium/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Inside Nelson Mandela Bay Stadium",
-    "credit": "Rasmzet",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Bay_Stadium_.jpg",
-    "file": "File:Nelson Mandela Bay Stadium .jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nelson_Mandela_Stadium_in_Port_Elizabeth.jpg/1280px-Nelson_Mandela_Stadium_in_Port_Elizabeth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nelson-mandela-bay-stadium/thumbs/2.webp",
     "w": 1280,
@@ -298171,30 +297513,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Stadium_in_Port_Elizabeth.jpg",
     "file": "File:Nelson Mandela Stadium in Port Elizabeth.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelson_SouthAfrica_Mandela_Bay_Stadium-Port_Elizabeth.JPG/1280px-Nelson_SouthAfrica_Mandela_Bay_Stadium-Port_Elizabeth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nelson-mandela-bay-stadium/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Nelson Mandela Bay Stadium, Port Elizabeth",
-    "credit": "Mart Bouter",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nelson_SouthAfrica_Mandela_Bay_Stadium-Port_Elizabeth.JPG",
-    "file": "File:Nelson SouthAfrica Mandela Bay Stadium-Port Elizabeth.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nelson_Mandela_Bay_Stadium..jpg/1280px-Nelson_Mandela_Bay_Stadium..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nelson-mandela-bay-stadium/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Inside the stadium",
-    "credit": "Rasmzet",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Bay_Stadium..jpg",
-    "file": "File:Nelson Mandela Bay Stadium..jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Soccerstadium_-_panoramio.jpg/1280px-Soccerstadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -298214,7 +297532,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nelson-mandela-bridge-johannesburg",
-  "n": 3330,
+  "n": 3329,
   "name": "Nelson Mandela Bridge",
   "by": "Dissing+Weitling",
   "place": "Johannesburg, ZA",
@@ -298261,18 +297579,6 @@ window.BUILDINGS = [
     "file": "File:Mandela Bridge, Johannesburg, Gauteng, South Africa.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nelson_Mandela_Bridge_%284678585173%29.jpg/1280px-Nelson_Mandela_Bridge_%284678585173%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nelson-mandela-bridge-johannesburg/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "2010 World Cup - Shine 2010  from Johannesburg, South Africa",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_Bridge_(4678585173).jpg",
-    "file": "File:Nelson Mandela Bridge (4678585173).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nelson_Mandela_Bridge_1.jpg/1280px-Nelson_Mandela_Bridge_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nelson-mandela-bridge-johannesburg/thumbs/3.webp",
     "w": 947,
@@ -298314,7 +297620,7 @@ window.BUILDINGS = [
  },
  {
   "id": "johannesburg-art-gallery",
-  "n": 3331,
+  "n": 3330,
   "name": "Johannesburg Art Gallery",
   "by": "Edwin Lutyens, Robert Howden",
   "place": "Johannesburg, ZA",
@@ -298332,21 +297638,21 @@ window.BUILDINGS = [
   "study": "Designed by Lutyens with 15 exhibition halls and sculpture gardens; built not entirely to his plans.",
   "qid": null,
   "commons": "Category:Johannesburg Art Gallery",
-  "lead": "File:Jhb Art Gallery 1.jpg",
+  "lead": "9 2 228 0069-Art Gallery2-Johannesburg-s.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Jhb_Art_Gallery_1.jpg/1280px-Jhb_Art_Gallery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/johannesburg-art-gallery/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg/1280px-9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/johannesburg-art-gallery/thumbs/2.webp",
     "w": 1280,
-    "h": 720,
-    "kind": "Detail",
-    "caption": "Detail · Front view of the entrance to the gallery - the roof",
-    "credit": "Christo757677",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jhb_Art_Gallery_1.jpg",
-    "file": "File:Jhb Art Gallery 1.jpg"
+    "h": 1202,
+    "kind": "Exterior",
+    "caption": "Exterior · The portico and main entrance of the Johannesburg Art Gallery",
+    "credit": "Janek Szymanowski",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg",
+    "file": "File:9 2 228 0069-Art Gallery2-Johannesburg-s.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/9_2_228_0069-Art_Gallery-Johannesburg-s.jpg/1280px-9_2_228_0069-Art_Gallery-Johannesburg-s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -298361,18 +297667,6 @@ window.BUILDINGS = [
     "file": "File:9 2 228 0069-Art Gallery-Johannesburg-s.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg/1280px-9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/johannesburg-art-gallery/thumbs/2.webp",
-    "w": 1280,
-    "h": 1202,
-    "kind": "Exterior",
-    "caption": "Exterior · The portico and main entrance of the Johannesburg Art Gallery",
-    "credit": "Janek Szymanowski",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:9_2_228_0069-Art_Gallery2-Johannesburg-s.jpg",
-    "file": "File:9 2 228 0069-Art Gallery2-Johannesburg-s.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/9_2_228_0069-Art_Gallery-Johannesburg-s_%28square%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/johannesburg-art-gallery/thumbs/3.webp",
     "w": 1239,
@@ -298385,18 +297679,6 @@ window.BUILDINGS = [
     "file": "File:9 2 228 0069-Art Gallery-Johannesburg-s (square).jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alfred_Sisley_-_River_Banks_at_Veneux_-_Johannesburg_Art_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/johannesburg-art-gallery/thumbs/4.webp",
-    "w": 1280,
-    "h": 952,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Alfred Sisley",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Alfred_Sisley_-_River_Banks_at_Veneux_-_Johannesburg_Art_Gallery.jpg",
-    "file": "File:Alfred Sisley - River Banks at Veneux - Johannesburg Art Gallery.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jhb_Art_Gallery_2.jpg/1280px-Jhb_Art_Gallery_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/johannesburg-art-gallery/thumbs/5.webp",
     "w": 787,
@@ -298407,6 +297689,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Jhb_Art_Gallery_2.jpg",
     "file": "File:Jhb Art Gallery 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Jhb_Art_Gallery_1.jpg/1280px-Jhb_Art_Gallery_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/johannesburg-art-gallery/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Detail",
+    "caption": "Detail · Front view of the entrance to the gallery - the roof",
+    "credit": "Christo757677",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jhb_Art_Gallery_1.jpg",
+    "file": "File:Jhb Art Gallery 1.jpg"
    }
   ],
   "has": [],
@@ -298414,7 +297708,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rand-club-johannesburg",
-  "n": 3332,
+  "n": 3331,
   "name": "Rand Club",
   "by": "Leck & Emley",
   "place": "Johannesburg, ZA",
@@ -298459,18 +297753,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:JHB_MARS_Rand_Club_cnr_Loveday,_commissioner,_fox_str_,_stno_1173_004009.jpg",
     "file": "File:JHB MARS Rand Club cnr Loveday, commissioner, fox str , stno 1173 004009.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/JHB_MARS_Rand_Club_cnr_Loveday%2C_commissioner%2C_fox_str_%2C_stno_1173_004008.jpg/1280px-JHB_MARS_Rand_Club_cnr_Loveday%2C_commissioner%2C_fox_str_%2C_stno_1173_004008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rand-club-johannesburg/thumbs/2.webp",
-    "w": 1017,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context · The Rand club building in cnr Loveday ,Fox and commissioner streets in the city of Johannesburg",
-    "credit": "Johannesburg Heritage Foundation",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:JHB_MARS_Rand_Club_cnr_Loveday,_commissioner,_fox_str_,_stno_1173_004008.jpg",
-    "file": "File:JHB MARS Rand Club cnr Loveday, commissioner, fox str , stno 1173 004008.jpg"
    }
   ],
   "has": [],
@@ -298478,7 +297760,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rhodes-memorial",
-  "n": 3333,
+  "n": 3332,
   "name": "Rhodes Memorial",
   "by": "Herbert Baker",
   "place": "Cape Town, ZA",
@@ -298496,70 +297778,10 @@ window.BUILDINGS = [
   "study": "Greek-temple-style memorial of Cape granite on Devil's Peak, reached by 49 steps.",
   "qid": null,
   "commons": "Category:Rhodes Memorial",
-  "lead": "File:Rhodes Memorial - panoramio.jpg",
+  "lead": "Rhodes memorial view.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Rhodes_Memorial_-_panoramio.jpg/1280px-Rhodes_Memorial_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rhodes-memorial/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Lourens van Dyk",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rhodes_Memorial_-_panoramio.jpg",
-    "file": "File:Rhodes Memorial - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Cecil_Rhodes_Memorial.jpg/1280px-Cecil_Rhodes_Memorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rhodes-memorial/thumbs/1.webp",
-    "w": 1280,
-    "h": 659,
-    "kind": "Exterior",
-    "caption": "Exterior · cecil rhodes memorial",
-    "credit": "{{own}}",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cecil_Rhodes_Memorial.jpg",
-    "file": "File:Cecil Rhodes Memorial.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rhodes_Memorial_%2811209941775%29.jpg/1280px-Rhodes_Memorial_%2811209941775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rhodes-memorial/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Cape Town",
-    "credit": "Darren Glanville  from Acle, Norfolk, UK",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rhodes_Memorial_(11209941775).jpg",
-    "file": "File:Rhodes Memorial (11209941775).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Rhodes_Menorial_-_panoramio_%281%29.jpg/1280px-Rhodes_Menorial_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rhodes-memorial/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Rhodes Menorial",
-    "credit": "landagent",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rhodes_Menorial_-_panoramio_(1).jpg",
-    "file": "File:Rhodes Menorial - panoramio (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Rhodes_no_nose.JPG/1280px-Rhodes_no_nose.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rhodes-memorial/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · The 'defaced' bronze bust of Rhodes at the Rhodes Memorial , Cape Town, South Africa",
-    "credit": "Prosthetic Head",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rhodes_no_nose.JPG",
-    "file": "File:Rhodes no nose.JPG"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Rhodes_memorial_view.JPG/1280px-Rhodes_memorial_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/rhodes-memorial/thumbs/5.webp",
@@ -298578,7 +297800,7 @@ window.BUILDINGS = [
  },
  {
   "id": "pretoria-railway-station",
-  "n": 3334,
+  "n": 3333,
   "name": "Pretoria Railway Station",
   "by": "Herbert Baker",
   "place": "Pretoria, ZA",
@@ -298596,34 +297818,10 @@ window.BUILDINGS = [
   "study": "Baker's first public building, replacing an 1892 station; roof restored after a 2001 fire.",
   "qid": null,
   "commons": "Category:Pretoria railway station",
-  "lead": "File:Railway Station Scheiding Street Pretoria 001.jpg",
+  "lead": "Bf.Pretoria.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Railway_Station_Scheiding_Street_Pretoria_001.jpg/1280px-Railway_Station_Scheiding_Street_Pretoria_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pretoria-railway-station/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Railway Station Scheiding Street Pretoria",
-    "credit": "PHParsons",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Railway_Station_Scheiding_Street_Pretoria_001.jpg",
-    "file": "File:Railway Station Scheiding Street Pretoria 001.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pretoria_Railway_Station-001.jpg/1280px-Pretoria_Railway_Station-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pretoria-railway-station/thumbs/1.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Context",
-    "caption": "Context · Pretoria Railway Station, Scheiding Street, Pretoria",
-    "credit": "Leo za1",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Pretoria_Railway_Station-001.jpg",
-    "file": "File:Pretoria Railway Station-001.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf.Pretoria.jpg/1280px-Bf.Pretoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/pretoria-railway-station/thumbs/2.webp",
@@ -298637,40 +297835,16 @@ window.BUILDINGS = [
     "file": "File:Bf.Pretoria.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Beautiful_Tracks.jpg/1280px-Beautiful_Tracks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pretoria-railway-station/thumbs/3.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pretoria_Railway_Station-001.jpg/1280px-Pretoria_Railway_Station-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pretoria-railway-station/thumbs/1.webp",
     "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The train station and tracks in a station in Pretoria in South Africa",
-    "credit": "Edward Middleton",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Tracks.jpg",
-    "file": "File:Beautiful Tracks.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Coach_lever.jpg/1280px-Coach_lever.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pretoria-railway-station/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · The train station and tracks in a station in Pretoria in South Africa",
-    "credit": "Edward Middleton",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Coach_lever.jpg",
-    "file": "File:Coach lever.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/La_Guerre_Anglo_Boer_Arriv%C3%A9e_%C3%A0_Pretoria_de_prisonniers_du_train_blind%C3%A9_d%27Estcourt_%28Lord_Churchill_%C3%A0_gauche_en_casquette%29%2C_asset_K1KtfDVSMjghQpBIEhOQgV75.jpg/1280px-La_Guerre_Anglo_Boer_Arriv%C3%A9e_%C3%A0_Pretoria_de_prisonniers_du_train_blind%C3%A9_d%27Estcourt_%28Lord_Churchill_%C3%A0_gauche_en_casquette%29%2C_asset_K1KtfDVSMjghQpBIEhOQgV75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/pretoria-railway-station/thumbs/5.webp",
-    "w": 1280,
-    "h": 820,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Unknown author Unknown author",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Guerre_Anglo_Boer_Arriv%C3%A9e_%C3%A0_Pretoria_de_prisonniers_du_train_blind%C3%A9_d%27Estcourt_(Lord_Churchill_%C3%A0_gauche_en_casquette),_asset_K1KtfDVSMjghQpBIEhOQgV75.jpg",
-    "file": "File:La Guerre Anglo Boer Arrivée à Pretoria de prisonniers du train blindé d'Estcourt (Lord Churchill à gauche en casquette), asset K1KtfDVSMjghQpBIEhOQgV75.jpg"
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · Pretoria Railway Station, Scheiding Street, Pretoria",
+    "credit": "Leo za1",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pretoria_Railway_Station-001.jpg",
+    "file": "File:Pretoria Railway Station-001.jpg"
    }
   ],
   "has": [],
@@ -298678,7 +297852,7 @@ window.BUILDINGS = [
  },
  {
   "id": "buyeo-national-museum",
-  "n": 3335,
+  "n": 3334,
   "name": "Buyeo National Museum",
   "by": "Kim Swoo-geun",
   "place": "Buyeo, KR",
@@ -298711,54 +297885,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Buyeo_National_Museum_(20160719_1).png",
     "file": "File:Buyeo National Museum (20160719 1).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Buyeo_National_Museum_03_%2828142475120%29.jpg/1280px-Buyeo_National_Museum_03_%2828142475120%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buyeo-national-museum/thumbs/1.webp",
-    "w": 1280,
-    "h": 770,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Republic of  Korea  from Seoul, Republic of Korea",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Buyeo_National_Museum_03_(28142475120).jpg",
-    "file": "File:Buyeo National Museum 03 (28142475120).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Early_Iron_Age%2C_Buyeo%2C_Korea._Pottery_with_Horn-shaped_Handles._Buyeo_National_Museum.jpg/1280px-Early_Iron_Age%2C_Buyeo%2C_Korea._Pottery_with_Horn-shaped_Handles._Buyeo_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buyeo-national-museum/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Early Iron Age, Buyeo, Korea",
-    "credit": "Ismoon  (  talk  ) 20:21, 7 July 2018 (UTC)",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Buyeo,_Korea._Pottery_with_Horn-shaped_Handles._Buyeo_National_Museum.jpg",
-    "file": "File:Early Iron Age, Buyeo, Korea. Pottery with Horn-shaped Handles. Buyeo National Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Early_Iron_Age%2C_Korea._Pottery_with_Clay_Stripes._Buyeo_National_Museum.jpg/1280px-Early_Iron_Age%2C_Korea._Pottery_with_Clay_Stripes._Buyeo_National_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/buyeo-national-museum/thumbs/3.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Early Iron Age, Korea",
-    "credit": "Ismoon  (  talk  ) 21:55, 5 July 2018 (UTC)",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Early_Iron_Age,_Korea._Pottery_with_Clay_Stripes._Buyeo_National_Museum.jpg",
-    "file": "File:Early Iron Age, Korea. Pottery with Clay Stripes. Buyeo National Museum.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Trumpet-shaped_bronze_artifact_IMG_20160928_012911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/buyeo-national-museum/thumbs/4.webp",
-    "w": 1007,
-    "h": 1340,
-    "kind": "Detail",
-    "caption": "Detail · The museum label calls this a \"trumpet-shaped bronze artifact\" and describes its patterns in some detail",
-    "credit": "G41rn8",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Trumpet-shaped_bronze_artifact_IMG_20160928_012911.jpg",
-    "file": "File:Trumpet-shaped bronze artifact IMG 20160928 012911.jpg"
    }
   ],
   "has": [],
@@ -298766,7 +297892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-science-museum-daejeon",
-  "n": 3336,
+  "n": 3335,
   "name": "National Science Museum, Daejeon",
   "by": "Kim Swoo-geun",
   "place": "Daejeon, KR",
@@ -298784,22 +297910,10 @@ window.BUILDINGS = [
   "study": "Korea's national science museum in Daejeon, listed among Kim Swoo-geun's works of 1984.",
   "qid": null,
   "commons": "Category:National Science Museum, South Korea",
-  "lead": "File:National Science Museum 2021.jpg",
+  "lead": "National Science Museum 2019.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/1280px-National_Science_Museum_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-science-museum-daejeon/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · National Science Museum in Daejeon",
-    "credit": "Myeongho",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2021.jpg",
-    "file": "File:National Science Museum 2021.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/National_Science_Museum_2019.jpg/1280px-National_Science_Museum_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-science-museum-daejeon/thumbs/1.webp",
@@ -298813,16 +297927,16 @@ window.BUILDINGS = [
     "file": "File:National Science Museum 2019.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Triceratops_skeleton_at_National_Science_Museum_in_South_Korea.jpg/1280px-Triceratops_skeleton_at_National_Science_Museum_in_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-science-museum-daejeon/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/National_Science_Museum_2021.jpg/1280px-National_Science_Museum_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-science-museum-daejeon/thumbs/0.webp",
     "w": 1280,
-    "h": 1211,
+    "h": 853,
     "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Yoo Chung",
+    "caption": "Exterior · National Science Museum in Daejeon",
+    "credit": "Myeongho",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Triceratops_skeleton_at_National_Science_Museum_in_South_Korea.jpg",
-    "file": "File:Triceratops skeleton at National Science Museum in South Korea.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2021.jpg",
+    "file": "File:National Science Museum 2021.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/National_Science_Museum_%28Korea%29_from_roof_of_%EC%8B%A0%EC%84%B8%EA%B3%84_-_cropped2.jpg/1280px-National_Science_Museum_%28Korea%29_from_roof_of_%EC%8B%A0%EC%84%B8%EA%B3%84_-_cropped2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -298835,30 +297949,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_(Korea)_from_roof_of_%EC%8B%A0%EC%84%B8%EA%B3%84_-_cropped2.jpg",
     "file": "File:National Science Museum (Korea) from roof of 신세계 - cropped2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Maglev_in_Daejeon_07.jpg/1280px-Maglev_in_Daejeon_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-science-museum-daejeon/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Maglev in Daejeon",
-    "credit": "Brücke-Osteuropa",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maglev_in_Daejeon_07.jpg",
-    "file": "File:Maglev in Daejeon 07.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Maglev_in_Daejeon_08.jpg/1280px-Maglev_in_Daejeon_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-science-museum-daejeon/thumbs/5.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Interior",
-    "caption": "Interior · Maglev in Daejeon",
-    "credit": "Brücke-Osteuropa",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maglev_in_Daejeon_08.jpg",
-    "file": "File:Maglev in Daejeon 08.jpg"
    }
   ],
   "has": [],
@@ -298866,7 +297956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "japan-ukiyo-e-museum",
-  "n": 3337,
+  "n": 3336,
   "name": "Japan Ukiyo-e Museum",
   "by": "Kazuo Shinohara",
   "place": "Matsumoto, JP",
@@ -298930,7 +298020,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ehime-prefectural-science-museum",
-  "n": 3338,
+  "n": 3337,
   "name": "Ehime Prefectural Science Museum",
   "by": "Kisho Kurokawa",
   "place": "Niihama, JP",
@@ -298994,7 +298084,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamaguchi-center-for-arts-and-media",
-  "n": 3339,
+  "n": 3338,
   "name": "Yamaguchi Center for Arts and Media (YCAM)",
   "by": "Arata Isozaki",
   "place": "Yamaguchi, JP",
@@ -299082,7 +298172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iwasaki-art-museum-ibusuki",
-  "n": 3340,
+  "n": 3339,
   "name": "Iwasaki Art Museum",
   "by": "Fumihiko Maki",
   "place": "Ibusuki, JP",
@@ -299146,7 +298236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-museum-of-art",
-  "n": 3341,
+  "n": 3340,
   "name": "Miyagi Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Sendai, JP",
@@ -299164,22 +298254,10 @@ window.BUILDINGS = [
   "study": "Collection centres on Miyagi and Tohoku artists, with works by Kandinsky and Klee.",
   "qid": null,
   "commons": "Category:The Miyagi Museum of Art",
-  "lead": "File:The miyagi museum of art01s3872.jpg",
+  "lead": "The miyagi museum of art02s3872.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_miyagi_museum_of_art01s3872.jpg/1280px-The_miyagi_museum_of_art01s3872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · The Miyagi Museum of Art in Sendai , Miyagi prefecture , Japan",
-    "credit": "663highland",
-    "license": "CC BY 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:The_miyagi_museum_of_art01s3872.jpg",
-    "file": "File:The miyagi museum of art01s3872.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/The_miyagi_museum_of_art02s3872.jpg/1280px-The_miyagi_museum_of_art02s3872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/miyagi-museum-of-art/thumbs/1.webp",
@@ -299193,74 +298271,24 @@ window.BUILDINGS = [
     "file": "File:The miyagi museum of art02s3872.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Study_for_Panel_for_Edwin_R._Campbell_No._4%2C_Kandinsky_%28The_Miyagi_Museum_of_Art%29.jpg/1280px-Study_for_Panel_for_Edwin_R._Campbell_No._4%2C_Kandinsky_%28The_Miyagi_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/2.webp",
-    "w": 969,
-    "h": 1400,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_miyagi_museum_of_art01s3872.jpg/1280px-The_miyagi_museum_of_art01s3872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyagi-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
-    "caption": "Exterior · Study for Panel for Edwin R",
-    "credit": "Wassily Kandinsky  (1866–1944)",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Study_for_Panel_for_Edwin_R._Campbell_No._4,_Kandinsky_(The_Miyagi_Museum_of_Art).jpg",
-    "file": "File:Study for Panel for Edwin R. Campbell No. 4, Kandinsky (The Miyagi Museum of Art).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Before_the_Gate_of_the_Miyagi_Prefectural_Office_by_Takahashi_Yuichi.jpg/1280px-Before_the_Gate_of_the_Miyagi_Prefectural_Office_by_Takahashi_Yuichi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/3.webp",
-    "w": 1280,
-    "h": 641,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Takahashi Yuichi",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Before_the_Gate_of_the_Miyagi_Prefectural_Office_by_Takahashi_Yuichi.jpg",
-    "file": "File:Before the Gate of the Miyagi Prefectural Office by Takahashi Yuichi.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/YazakiHironobu-The_Intention_to_Kill_on_the_Street.png/1280px-YazakiHironobu-The_Intention_to_Kill_on_the_Street.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/4.webp",
-    "w": 1062,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Yazaki Hironobu",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:YazakiHironobu-The_Intention_to_Kill_on_the_Street.png",
-    "file": "File:YazakiHironobu-The Intention to Kill on the Street.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/MatsumotoShunsuke_Suburban_Landscape_1937.png/1280px-MatsumotoShunsuke_Suburban_Landscape_1937.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/5.webp",
-    "w": 1280,
-    "h": 946,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Shunsuke Matsumoto",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:MatsumotoShunsuke_Suburban_Landscape_1937.png",
-    "file": "File:MatsumotoShunsuke Suburban Landscape 1937.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/MatsumotoShunsuke_Sketch_Suburban_Landscape_ca1937.png/1280px-MatsumotoShunsuke_Sketch_Suburban_Landscape_ca1937.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/miyagi-museum-of-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 878,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Shunsuke Matsumoto",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:MatsumotoShunsuke_Sketch_Suburban_Landscape_ca1937.png",
-    "file": "File:MatsumotoShunsuke Sketch Suburban Landscape ca1937.png"
+    "caption": "Exterior · The Miyagi Museum of Art in Sendai , Miyagi prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:The_miyagi_museum_of_art01s3872.jpg",
+    "file": "File:The miyagi museum of art01s3872.jpg"
    }
   ],
-  "has": [
-   "Sketch"
-  ],
+  "has": [],
   "gv": 3
  },
  {
   "id": "national-bunraku-theatre",
-  "n": 3342,
+  "n": 3341,
   "name": "National Bunraku Theatre",
   "by": "Kisho Kurokawa",
   "place": "Osaka, JP",
@@ -299317,18 +298345,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:NATIONAL_BUNRAKU_THEATRE.jpg",
     "file": "File:NATIONAL BUNRAKU THEATRE.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/National_Bunraku_Puppet_Theatre_2004.jpg/1280px-National_Bunraku_Puppet_Theatre_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-bunraku-theatre/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · National Bunraku (Puppet) Theatre",
-    "credit": "sodai gomi",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Bunraku_Puppet_Theatre_2004.jpg",
-    "file": "File:National Bunraku Puppet Theatre 2004.jpg"
    }
   ],
   "has": [],
@@ -299336,7 +298352,7 @@ window.BUILDINGS = [
  },
  {
   "id": "osaka-international-convention-center",
-  "n": 3343,
+  "n": 3342,
   "name": "Osaka International Convention Center (Grand Cube Osaka)",
   "by": "Kisho Kurokawa",
   "place": "Osaka, JP",
@@ -299393,18 +298409,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Grand_Cube.jpg",
     "file": "File:Grand Cube.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Osaka_International_Convention_Center_-_panoramio.jpg/1280px-Osaka_International_Convention_Center_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/osaka-international-convention-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Osaka International Convention Center",
-    "credit": "Nagono",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Osaka_International_Convention_Center_-_panoramio.jpg",
-    "file": "File:Osaka International Convention Center - panoramio.jpg"
    }
   ],
   "has": [],
@@ -299412,7 +298416,7 @@ window.BUILDINGS = [
  },
  {
   "id": "fukushima-prefectural-museum-of-art",
-  "n": 3344,
+  "n": 3343,
   "name": "Fukushima Prefectural Museum of Art",
   "by": "Masato Otaka",
   "place": "Fukushima, JP",
@@ -299488,7 +298492,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gunma-prefectural-museum-of-history",
-  "n": 3345,
+  "n": 3344,
   "name": "Gunma Prefectural Museum of History",
   "by": "Masato Otaka",
   "place": "Takasaki, JP",
@@ -299533,30 +298537,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:261010_Gunma_Prefectural_Museum_of_History_Takasaki_Japan02s3.jpg",
     "file": "File:261010 Gunma Prefectural Museum of History Takasaki Japan02s3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E4%B8%8D%E5%8B%95%E5%B1%B1%E5%8F%A4%E5%A2%B3_%28%E9%AB%98%E5%B4%8E%E5%B8%82%29_%E5%87%BA%E5%9C%9F%E5%9F%B4%E8%BC%AA.JPG/1280px-%E4%B8%8D%E5%8B%95%E5%B1%B1%E5%8F%A4%E5%A2%B3_%28%E9%AB%98%E5%B4%8E%E5%B8%82%29_%E5%87%BA%E5%9C%9F%E5%9F%B4%E8%BC%AA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gunma-prefectural-museum-of-history/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Saigen Jiro",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8D%E5%8B%95%E5%B1%B1%E5%8F%A4%E5%A2%B3_(%E9%AB%98%E5%B4%8E%E5%B8%82)_%E5%87%BA%E5%9C%9F%E5%9F%B4%E8%BC%AA.JPG",
-    "file": "File:不動山古墳 (高崎市) 出土埴輪.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%E5%B1%B1%E7%8E%8B%E5%BB%83%E5%AF%BA%E8%B7%A1%E5%87%BA%E5%9C%9F_%E8%BB%92%E4%B8%B8%E7%93%A6%E3%83%BB%E6%96%87%E5%AD%97%E7%93%A6_%28%E8%A4%87%E8%A3%BD%29.JPG/1280px-%E5%B1%B1%E7%8E%8B%E5%BB%83%E5%AF%BA%E8%B7%A1%E5%87%BA%E5%9C%9F_%E8%BB%92%E4%B8%B8%E7%93%A6%E3%83%BB%E6%96%87%E5%AD%97%E7%93%A6_%28%E8%A4%87%E8%A3%BD%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gunma-prefectural-museum-of-history/thumbs/3.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Saigen Jiro",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%B1%B1%E7%8E%8B%E5%BB%83%E5%AF%BA%E8%B7%A1%E5%87%BA%E5%9C%9F_%E8%BB%92%E4%B8%B8%E7%93%A6%E3%83%BB%E6%96%87%E5%AD%97%E7%93%A6_(%E8%A4%87%E8%A3%BD).JPG",
-    "file": "File:山王廃寺跡出土 軒丸瓦・文字瓦 (複製).JPG"
    }
   ],
   "has": [],
@@ -299564,7 +298544,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-showa-memorial-museum",
-  "n": 3346,
+  "n": 3345,
   "name": "National Showa Memorial Museum",
   "by": "Kiyonori Kikutake",
   "place": "Tokyo, JP",
@@ -299652,7 +298632,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hirosaki-city-museum",
-  "n": 3347,
+  "n": 3346,
   "name": "Hirosaki City Museum",
   "by": "Kunio Maekawa",
   "place": "Hirosaki, JP",
@@ -299709,18 +298689,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hirosaki_City_Museum_20160423.jpg",
     "file": "File:Hirosaki City Museum 20160423.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%E6%B4%A5%E8%BB%BD%E7%82%BA%E4%BF%A1_-_panoramio.jpg/1280px-%E6%B4%A5%E8%BB%BD%E7%82%BA%E4%BF%A1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hirosaki-city-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "shikabane taro",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E6%B4%A5%E8%BB%BD%E7%82%BA%E4%BF%A1_-_panoramio.jpg",
-    "file": "File:津軽為信 - panoramio.jpg"
    }
   ],
   "has": [],
@@ -299728,7 +298696,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamaguchi-prefectural-museum",
-  "n": 3348,
+  "n": 3347,
   "name": "Yamaguchi Prefectural Museum",
   "by": "Junzo Sakakura",
   "place": "Yamaguchi, JP",
@@ -299773,54 +298741,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Yamaguchi_Museum_2021-08_ac.jpg",
     "file": "File:Yamaguchi Museum 2021-08 ac.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jurojin_attributed_to_Sesshu_%28Yamaguchi_Prefectural_Museum%29.jpeg/1280px-Jurojin_attributed_to_Sesshu_%28Yamaguchi_Prefectural_Museum%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamaguchi-prefectural-museum/thumbs/2.webp",
-    "w": 745,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Jurojin, attributed to Sesshu, Yamaguchi Prefectural Museum, Japan",
-    "credit": "Attributed to   Sesshū Tōyō",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Jurojin_attributed_to_Sesshu_(Yamaguchi_Prefectural_Museum).jpeg",
-    "file": "File:Jurojin attributed to Sesshu (Yamaguchi Prefectural Museum).jpeg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/S%C5%8Dgi.jpg/1280px-S%C5%8Dgi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamaguchi-prefectural-museum/thumbs/3.webp",
-    "w": 656,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Unknown",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:S%C5%8Dgi.jpg",
-    "file": "File:Sōgi.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum.jpg/1280px-Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamaguchi-prefectural-museum/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "そらみみ",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum.jpg",
-    "file": "File:Bocho Senkendo Hall in Yamaguchi Prefectural Yamaguchi Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/View_of_Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum_2.jpg/1280px-View_of_Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yamaguchi-prefectural-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "そらみみ",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_Bocho_Senkendo_Hall_in_Yamaguchi_Prefectural_Yamaguchi_Museum_2.jpg",
-    "file": "File:View of Bocho Senkendo Hall in Yamaguchi Prefectural Yamaguchi Museum 2.jpg"
    }
   ],
   "has": [],
@@ -299828,7 +298748,7 @@ window.BUILDINGS = [
  },
  {
   "id": "irie-taikichi-memorial-museum-of-photography",
-  "n": 3349,
+  "n": 3348,
   "name": "Irie Taikichi Memorial Museum of Photography",
   "by": "Kisho Kurokawa",
   "place": "Nara, JP",
@@ -299880,7 +298800,7 @@ window.BUILDINGS = [
  },
  {
   "id": "oita-stadium-big-eye",
-  "n": 3350,
+  "n": 3349,
   "name": "Oita Stadium (Big Eye)",
   "by": "Kisho Kurokawa",
   "place": "Oita, JP",
@@ -299920,7 +298840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "memorial-cathedral-for-world-peace",
-  "n": 3351,
+  "n": 3350,
   "name": "Memorial Cathedral for World Peace",
   "by": "Togo Murano",
   "place": "Hiroshima, JP",
@@ -299938,22 +298858,10 @@ window.BUILDINGS = [
   "study": "Hiroshima cathedral of 1954, listed among Togo Murano's works.",
   "qid": null,
   "commons": "Category:Memorial Cathedral for World Peace",
-  "lead": "File:Assumption of Mary Cathedral, Hiroshima.jpg",
+  "lead": "Hiroshima World Peace Memorial Cathedral.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Assumption_of_Mary_Cathedral%2C_Hiroshima.jpg/1280px-Assumption_of_Mary_Cathedral%2C_Hiroshima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/memorial-cathedral-for-world-peace/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Assumption of Mary Cathedral, Hiroshima, Japan",
-    "credit": "Uhooep",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Assumption_of_Mary_Cathedral,_Hiroshima.jpg",
-    "file": "File:Assumption of Mary Cathedral, Hiroshima.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hiroshima_World_Peace_Memorial_Cathedral.jpg/1280px-Hiroshima_World_Peace_Memorial_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/memorial-cathedral-for-world-peace/thumbs/1.webp",
@@ -299967,16 +298875,16 @@ window.BUILDINGS = [
     "file": "File:Hiroshima World Peace Memorial Cathedral.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Hiroshima_World_Peace_Memorial_Cathedral_140712.JPG/1280px-Hiroshima_World_Peace_Memorial_Cathedral_140712.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/memorial-cathedral-for-world-peace/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Assumption_of_Mary_Cathedral%2C_Hiroshima.jpg/1280px-Assumption_of_Mary_Cathedral%2C_Hiroshima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memorial-cathedral-for-world-peace/thumbs/0.webp",
     "w": 1280,
-    "h": 960,
+    "h": 853,
     "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Taisyo",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hiroshima_World_Peace_Memorial_Cathedral_140712.JPG",
-    "file": "File:Hiroshima World Peace Memorial Cathedral 140712.JPG"
+    "caption": "Exterior · Assumption of Mary Cathedral, Hiroshima, Japan",
+    "credit": "Uhooep",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Assumption_of_Mary_Cathedral,_Hiroshima.jpg",
+    "file": "File:Assumption of Mary Cathedral, Hiroshima.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Memorial_Cathedral_for_World_Peace.jpg/1280px-Memorial_Cathedral_for_World_Peace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -299996,7 +298904,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yokohama-city-hall-1959",
-  "n": 3352,
+  "n": 3351,
   "name": "Yokohama City Hall (1959 building)",
   "by": "Togo Murano",
   "place": "Yokohama, JP",
@@ -300041,54 +298949,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A7%E6%A8%AA%E6%B5%9C%E5%B8%82%E5%BA%81%E8%88%8E%E3%83%BB%E3%81%8F%E3%81%99%E3%81%AE%E3%81%8D%E5%BA%83%E5%A0%B4.jpg",
     "file": "File:旧横浜市庁舎・くすのき広場.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Basegate_Kannai.jpg/1280px-Basegate_Kannai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-city-hall-1959/thumbs/2.webp",
-    "w": 1000,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Akonnchiroll",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Basegate_Kannai.jpg",
-    "file": "File:Basegate Kannai.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_01.jpg/1280px-BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-city-hall-1959/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "NEO-NEED",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_01.jpg",
-    "file": "File:BASEGATE Yokohama Kannai - CENTRAL GATE 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_02.jpg/1280px-BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-city-hall-1959/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "NEO-NEED",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:BASEGATE_Yokohama_Kannai_-_CENTRAL_GATE_02.jpg",
-    "file": "File:BASEGATE Yokohama Kannai - CENTRAL GATE 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/BASEGATE_Yokohama_Kannai_OMO7_Yokohama.jpg/1280px-BASEGATE_Yokohama_Kannai_OMO7_Yokohama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-city-hall-1959/thumbs/5.webp",
-    "w": 1280,
-    "h": 937,
-    "kind": "Interior",
-    "caption": "Interior · BASEGATE Yokohama Kannai",
-    "credit": "KQuhen",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:BASEGATE_Yokohama_Kannai_OMO7_Yokohama.jpg",
-    "file": "File:BASEGATE Yokohama Kannai OMO7 Yokohama.jpg"
    }
   ],
   "has": [],
@@ -300096,7 +298956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yamanashi-prefectural-museum-of-art",
-  "n": 3353,
+  "n": 3352,
   "name": "Yamanashi Prefectural Museum of Art",
   "by": "Kunio Maekawa",
   "place": "Kofu, JP",
@@ -300148,7 +299008,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hashima-city-hall",
-  "n": 3354,
+  "n": 3353,
   "name": "Hashima City Hall (1959)",
   "by": "Junzo Sakakura",
   "place": "Hashima, JP",
@@ -300212,7 +299072,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okayama-prefectural-office",
-  "n": 3355,
+  "n": 3354,
   "name": "Okayama Prefectural Government Office Main Building",
   "by": "Kunio Maekawa",
   "place": "Okayama, JP",
@@ -300257,30 +299117,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Okayama_kentyou01.JPG",
     "file": "File:Okayama kentyou01.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Okayama_prefectoral_office_and_Okayama_castle.JPG/1280px-Okayama_prefectoral_office_and_Okayama_castle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okayama-prefectural-office/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Okayama prefectoral office , Okayama castle Ninomaru stone wall and Asahi river",
-    "credit": "Reggaeman",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Okayama_prefectoral_office_and_Okayama_castle.JPG",
-    "file": "File:Okayama prefectoral office and Okayama castle.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%BA%81%E3%81%AE%E7%8E%84%E9%96%A2%E5%89%8D_by_takeokahp_-_panoramio.jpg/1280px-%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%BA%81%E3%81%AE%E7%8E%84%E9%96%A2%E5%89%8D_by_takeokahp_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okayama-prefectural-office/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "takeokahp",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%BA%81%E3%81%AE%E7%8E%84%E9%96%A2%E5%89%8D_by_takeokahp_-_panoramio.jpg",
-    "file": "File:岡山県庁の玄関前 by takeokahp - panoramio.jpg"
    }
   ],
   "has": [],
@@ -300288,7 +299124,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yokohama-silk-center",
-  "n": 3356,
+  "n": 3355,
   "name": "Yokohama Silk Center",
   "by": "Junzo Sakakura",
   "place": "Yokohama, JP",
@@ -300335,18 +299171,6 @@ window.BUILDINGS = [
     "file": "File:Yokohama SilkCenter.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Yokohama_Silk_Museum_001.JPG/1280px-Yokohama_Silk_Museum_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-silk-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Yokohama",
-    "credit": "User:Piotrus",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Yokohama_Silk_Museum_001.JPG",
-    "file": "File:Yokohama Silk Museum 001.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Yokohama_Silk_Museum_002.JPG/1280px-Yokohama_Silk_Museum_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/yokohama-silk-center/thumbs/3.webp",
     "w": 1280,
@@ -300357,18 +299181,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Yokohama_Silk_Museum_002.JPG",
     "file": "File:Yokohama Silk Museum 002.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/English_House_No.1_memorial_stone%2C_Yokohama_-_details.jpg/1280px-English_House_No.1_memorial_stone%2C_Yokohama_-_details.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yokohama-silk-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 1016,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Atochi02.jpg : ryot \n derivative work:  User:Clusternote",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:English_House_No.1_memorial_stone,_Yokohama_-_details.jpg",
-    "file": "File:English House No.1 memorial stone, Yokohama - details.jpg"
    }
   ],
   "has": [],
@@ -300376,7 +299188,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kure-city-hall",
-  "n": 3357,
+  "n": 3356,
   "name": "Kure City Hall and Municipal Auditorium",
   "by": "Junzo Sakakura",
   "place": "Kure, JP",
@@ -300428,7 +299240,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shoji-ueda-museum-of-photography",
-  "n": 3358,
+  "n": 3357,
   "name": "Shoji Ueda Museum of Photography",
   "by": "Shin Takamatsu",
   "place": "Hoki, JP",
@@ -300475,18 +299287,6 @@ window.BUILDINGS = [
     "file": "File:Shoji Ueda Museum of Photography08s5.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/200_yen_Coffee_vending_machine_in_the_museum_Tottori_2007.jpg/1280px-200_yen_Coffee_vending_machine_in_the_museum_Tottori_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shoji-ueda-museum-of-photography/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · R0013637.JPG",
-    "credit": "shrk  from Osaka, JAPAN",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:200_yen_Coffee_vending_machine_in_the_museum_Tottori_2007.jpg",
-    "file": "File:200 yen Coffee vending machine in the museum Tottori 2007.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shoji_Ueda_Museum_of_Photography01bs3200.jpg/1280px-Shoji_Ueda_Museum_of_Photography01bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/shoji-ueda-museum-of-photography/thumbs/3.webp",
     "w": 1280,
@@ -300504,7 +299304,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nima-sand-museum",
-  "n": 3359,
+  "n": 3358,
   "name": "Nima Sand Museum",
   "by": "Shin Takamatsu",
   "place": "Oda, JP",
@@ -300551,18 +299351,6 @@ window.BUILDINGS = [
     "file": "File:Sandmuseum Nima.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Jumbo_Hourglass_from_Nima_Sand_Museum.jpg/1280px-Jumbo_Hourglass_from_Nima_Sand_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nima-sand-museum/thumbs/2.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · One year a total of hourglass has been exhibited in Nima Sand Museum \"sand calendar\"",
-    "credit": "ITA-ATU",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jumbo_Hourglass_from_Nima_Sand_Museum.jpg",
-    "file": "File:Jumbo Hourglass from Nima Sand Museum.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Nima_Sand_Museum_1.jpg/1280px-Nima_Sand_Museum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nima-sand-museum/thumbs/3.webp",
     "w": 1280,
@@ -300580,7 +299368,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-okinawa",
-  "n": 3360,
+  "n": 3359,
   "name": "National Theatre Okinawa",
   "by": "Shin Takamatsu",
   "place": "Urasoe, JP",
@@ -300620,7 +299408,7 @@ window.BUILDINGS = [
  },
  {
   "id": "iida-city-museum",
-  "n": 3361,
+  "n": 3360,
   "name": "Iida City Museum",
   "by": "Hiroshi Hara",
   "place": "Iida, JP",
@@ -300667,18 +299455,6 @@ window.BUILDINGS = [
     "file": "File:Iida City Museum exterior ac (2).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Iida_City_Museum_Hinatsu_Konosuke_Memorial_Museum_ac.jpg/1280px-Iida_City_Museum_Hinatsu_Konosuke_Memorial_Museum_ac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iida-city-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Asturio Cantabrio",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Iida_City_Museum_Hinatsu_Konosuke_Memorial_Museum_ac.jpg",
-    "file": "File:Iida City Museum Hinatsu Konosuke Memorial Museum ac.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Iida_bijutsuhakubutsukan.jpg/1280px-Iida_bijutsuhakubutsukan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/iida-city-museum/thumbs/3.webp",
     "w": 1280,
@@ -300701,18 +299477,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:%E9%A3%AF%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E5%8D%9A%E7%89%A9%E9%A4%A8_2014.9.10_-_panoramio_(1).jpg",
     "file": "File:飯田市美術博物館 2014.9.10 - panoramio (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Kunio_Yanagita_Memorial_Hall_1.jpg/1280px-Kunio_Yanagita_Memorial_Hall_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/iida-city-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Kunio Yanagita Memorial Hall",
-    "credit": "photo:  Qurren  (  talk  )       Taken with Canon IXY 430F (Digital IXUS 245 HS)",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kunio_Yanagita_Memorial_Hall_1.jpg",
-    "file": "File:Kunio Yanagita Memorial Hall 1.jpg"
    }
   ],
   "has": [],
@@ -300720,7 +299484,7 @@ window.BUILDINGS = [
  },
  {
   "id": "miyagi-prefectural-library",
-  "n": 3362,
+  "n": 3361,
   "name": "Miyagi Prefectural Library",
   "by": "Hiroshi Hara",
   "place": "Sendai, JP",
@@ -300808,7 +299572,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hiroshi-senju-museum-karuizawa",
-  "n": 3363,
+  "n": 3362,
   "name": "Hiroshi Senju Museum Karuizawa",
   "by": "Ryue Nishizawa",
   "place": "Karuizawa, JP",
@@ -300853,18 +299617,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:221001_Hiroshi_Senju_Museum_Karuizawa_Nagano_pref_Japan02s3.jpg",
     "file": "File:221001 Hiroshi Senju Museum Karuizawa Nagano pref Japan02s3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/KaruizawaSenju_MG_1261.jpg/1280px-KaruizawaSenju_MG_1261.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hiroshi-senju-museum-karuizawa/thumbs/2.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Chkmm",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:KaruizawaSenju_MG_1261.jpg",
-    "file": "File:KaruizawaSenju MG 1261.jpg"
    }
   ],
   "has": [],
@@ -300872,7 +299624,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tokyo-metropolitan-theatre",
-  "n": 3364,
+  "n": 3363,
   "name": "Tokyo Metropolitan Theatre",
   "by": "Yoshinobu Ashihara",
   "place": "Tokyo, JP",
@@ -300972,7 +299724,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okayama-symphony-hall",
-  "n": 3365,
+  "n": 3364,
   "name": "Okayama Symphony Hall",
   "by": "Yoshinobu Ashihara",
   "place": "Okayama, JP",
@@ -301029,18 +299781,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Okayama_Symphony_Hall_-_panoramio_(1).jpg",
     "file": "File:Okayama Symphony Hall - panoramio (1).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Okayama_Symphony_Hall_-_panoramio_%282%29.jpg/1280px-Okayama_Symphony_Hall_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okayama-symphony-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "DVMG",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Okayama_Symphony_Hall_-_panoramio_(2).jpg",
-    "file": "File:Okayama Symphony Hall - panoramio (2).jpg"
    }
   ],
   "has": [],
@@ -301048,7 +299788,7 @@ window.BUILDINGS = [
  },
  {
   "id": "echigo-matsunoyama-museum-of-natural-science",
-  "n": 3366,
+  "n": 3365,
   "name": "Echigo-Matsunoyama Museum of Natural Science (Kyororo)",
   "by": "Tezuka Architects",
   "place": "Tokamachi, JP",
@@ -301081,18 +299821,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1_%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD1.jpg",
     "file": "File:越後松之山森の学校 キョロロ1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1_%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD2.jpg/1280px-%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1_%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/echigo-matsunoyama-museum-of-natural-science/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Kentaro Ohno さん  https://www.flickr.com/photos/inucara/",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E5%BE%8C%E6%9D%BE%E4%B9%8B%E5%B1%B1%E6%A3%AE%E3%81%AE%E5%AD%A6%E6%A0%A1_%E3%82%AD%E3%83%A7%E3%83%AD%E3%83%AD2.jpg",
-    "file": "File:越後松之山森の学校 キョロロ2.jpg"
    }
   ],
   "has": [],
@@ -301100,7 +299828,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kanazawa-umimirai-library",
-  "n": 3367,
+  "n": 3366,
   "name": "Kanazawa Umimirai Library",
   "by": "Kazumi Kudo and Hiroshi Horiba",
   "place": "Kanazawa, JP",
@@ -301147,18 +299875,6 @@ window.BUILDINGS = [
     "file": "File:Umimirai Library.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kanazawa_Umimirai_Library_1F_childrens_books_corner_ac_%282%29.jpg/1280px-Kanazawa_Umimirai_Library_1F_childrens_books_corner_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kanazawa-umimirai-library/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Asturio Cantabrio",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kanazawa_Umimirai_Library_1F_childrens_books_corner_ac_(2).jpg",
-    "file": "File:Kanazawa Umimirai Library 1F childrens books corner ac (2).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Kanazawa_Umimirai_Library_1F_hall_ac.jpg/1280px-Kanazawa_Umimirai_Library_1F_hall_ac.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kanazawa-umimirai-library/thumbs/3.webp",
     "w": 1280,
@@ -301176,7 +299892,7 @@ window.BUILDINGS = [
  },
  {
   "id": "waseda-international-house-of-literature",
-  "n": 3368,
+  "n": 3367,
   "name": "Waseda International House of Literature (Haruki Murakami Library)",
   "by": "Kengo Kuma",
   "place": "Tokyo, JP",
@@ -301240,7 +299956,7 @@ window.BUILDINGS = [
  },
  {
   "id": "okinawa-prefecture-government-building",
-  "n": 3369,
+  "n": 3368,
   "name": "Okinawa Prefecture Government Building",
   "by": "Kisho Kurokawa",
   "place": "Naha, JP",
@@ -301309,30 +300025,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Okinawa_Prefectural_Assembly_Building_and_Okinawa_Prefectural_Government_Headquarters.JPG",
     "file": "File:Okinawa Prefectural Assembly Building and Okinawa Prefectural Government Headquarters.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Naha_Bus_Terminal_20120816.jpg/1280px-Naha_Bus_Terminal_20120816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okinawa-prefecture-government-building/thumbs/4.webp",
-    "w": 1280,
-    "h": 883,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Rsa",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Naha_Bus_Terminal_20120816.jpg",
-    "file": "File:Naha Bus Terminal 20120816.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/View_from_Mount_Gusuku_Naha_202012.jpg/1280px-View_from_Mount_Gusuku_Naha_202012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okinawa-prefecture-government-building/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · View from Mount Gusuku, Naha, Okinawa Prefecture, Japan",
-    "credit": "Kugel~commonswiki",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_from_Mount_Gusuku_Naha_202012.jpg",
-    "file": "File:View from Mount Gusuku Naha 202012.jpg"
    }
   ],
   "has": [],
@@ -301340,7 +300032,7 @@ window.BUILDINGS = [
  },
  {
   "id": "aichi-international-arena",
-  "n": 3370,
+  "n": 3369,
   "name": "Aichi International Arena (IG Arena)",
   "by": "Kengo Kuma",
   "place": "Nagoya, JP",
@@ -301387,18 +300079,6 @@ window.BUILDINGS = [
     "file": "File:Aichi International Arena and Entrance 4 of Meijō Kōen Station.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2026_%EC%95%84%EC%8B%9C%EC%95%88%EA%B2%8C%EC%9E%84_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%841.jpg/1280px-2026_%EC%95%84%EC%8B%9C%EC%95%88%EA%B2%8C%EC%9E%84_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/aichi-international-arena/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Trainholic",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2026_%EC%95%84%EC%8B%9C%EC%95%88%EA%B2%8C%EC%9E%84_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%841.jpg",
-    "file": "File:2026 아시안게임 현장사진1.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/NGO_Kita_c20250730_1928.jpg/1280px-NGO_Kita_c20250730_1928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/aichi-international-arena/thumbs/3.webp",
     "w": 1280,
@@ -301428,7 +300108,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yufuin-station",
-  "n": 3371,
+  "n": 3370,
   "name": "Yufuin Station",
   "by": "Arata Isozaki",
   "place": "Yufu, JP",
@@ -301463,42 +300143,6 @@ window.BUILDINGS = [
     "file": "File:Yufuin 20200921122110 (50884621981).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/JR_%E3%81%AA%E3%81%AA%E3%81%A4%E6%98%9F_Seven_Stars_in_Kyushu%2C_%E7%94%B1%E5%B8%83%E9%99%A2%E9%A7%85_%2820250128%29.jpg/1280px-JR_%E3%81%AA%E3%81%AA%E3%81%A4%E6%98%9F_Seven_Stars_in_Kyushu%2C_%E7%94%B1%E5%B8%83%E9%99%A2%E9%A7%85_%2820250128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yufuin-station/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · JR Seven Stars in Kyushu train, photographed at Yufuin Station, 28 Jan 2025",
-    "credit": "Takeshi Aida",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:JR_%E3%81%AA%E3%81%AA%E3%81%A4%E6%98%9F_Seven_Stars_in_Kyushu,_%E7%94%B1%E5%B8%83%E9%99%A2%E9%A7%85_(20250128).jpg",
-    "file": "File:JR ななつ星 Seven Stars in Kyushu, 由布院駅 (20250128).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yufuin_station_2024_1.jpg/1280px-Yufuin_station_2024_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yufuin-station/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Station Yufuin",
-    "credit": "Smiley.toerist",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Yufuin_station_2024_1.jpg",
-    "file": "File:Yufuin station 2024 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Yufuin_station_2024_2.jpg/1280px-Yufuin_station_2024_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/yufuin-station/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Station Yufuin",
-    "credit": "Smiley.toerist",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Yufuin_station_2024_2.jpg",
-    "file": "File:Yufuin station 2024 2.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Yufuin_Station_main_hall_2022-09-10.jpg/1280px-Yufuin_Station_main_hall_2022-09-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/yufuin-station/thumbs/4.webp",
     "w": 1280,
@@ -301528,7 +300172,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hibiya-public-hall",
-  "n": 3372,
+  "n": 3371,
   "name": "Hibiya Public Hall",
   "by": "Koichi Sato",
   "place": "Tokyo, JP",
@@ -301585,42 +300229,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Hibiya_Public_Hall_(2018-05-04)_01.jpg",
     "file": "File:Hibiya Public Hall (2018-05-04) 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Opening_World_Press_Photo_61_._Nagao_tijdens_toespraak%2C_Bestanddeelnr_913-0044.jpg/1280px-Opening_World_Press_Photo_61_._Nagao_tijdens_toespraak%2C_Bestanddeelnr_913-0044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hibiya-public-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 844,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Harry Pot  for  Anefo",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Opening_World_Press_Photo_61_._Nagao_tijdens_toespraak,_Bestanddeelnr_913-0044.jpg",
-    "file": "File:Opening World Press Photo 61 . Nagao tijdens toespraak, Bestanddeelnr 913-0044.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N%2C_Bestanddeelnr_913-0038.jpg/1280px-Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N%2C_Bestanddeelnr_913-0038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hibiya-public-hall/thumbs/4.webp",
-    "w": 1280,
-    "h": 1298,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Jack de Nijs  for  Anefo",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N,_Bestanddeelnr_913-0038.jpg",
-    "file": "File:Opening World Press Photo 61 . Commissaris van de Koningin Klaasesz en Yasushi N, Bestanddeelnr 913-0038.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N%2C_Bestanddeelnr_913-0036.jpg/1280px-Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N%2C_Bestanddeelnr_913-0036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hibiya-public-hall/thumbs/5.webp",
-    "w": 1280,
-    "h": 1296,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Jack de Nijs  for  Anefo",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Opening_World_Press_Photo_61_._Commissaris_van_de_Koningin_Klaasesz_en_Yasushi_N,_Bestanddeelnr_913-0036.jpg",
-    "file": "File:Opening World Press Photo 61 . Commissaris van de Koningin Klaasesz en Yasushi N, Bestanddeelnr 913-0036.jpg"
    }
   ],
   "has": [],
@@ -301628,7 +300236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sacred-heart-cathedral-yokohama",
-  "n": 3373,
+  "n": 3372,
   "name": "Sacred Heart Cathedral (Yamate Catholic Church), Yokohama",
   "by": "Jan Josef Svagr",
   "place": "Yokohama, JP",
@@ -301692,7 +300300,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seoul-anglican-cathedral",
-  "n": 3374,
+  "n": 3373,
   "name": "Seoul Anglican Cathedral",
   "by": "Arthur Stansfield Dixon",
   "place": "Seoul, KR",
@@ -301739,18 +300347,6 @@ window.BUILDINGS = [
     "file": "File:Seoul Anglican Cathedral in 2026 (1).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Seoul_Cathedral_Anglican_Church-13.jpg/1280px-Seoul_Cathedral_Anglican_Church-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/seoul-anglican-cathedral/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Gapo",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Seoul_Cathedral_Anglican_Church-13.jpg",
-    "file": "File:Seoul Cathedral Anglican Church-13.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Seoul_Cathedral_Anglican_Church-4.jpg/1280px-Seoul_Cathedral_Anglican_Church-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/seoul-anglican-cathedral/thumbs/3.webp",
     "w": 1280,
@@ -301792,7 +300388,7 @@ window.BUILDINGS = [
  },
  {
   "id": "casals-hall-ochanomizu",
-  "n": 3375,
+  "n": 3374,
   "name": "Casals Hall (Ochanomizu Square)",
   "by": "Arata Isozaki",
   "place": "Tokyo, JP",

@@ -18850,10 +18850,14 @@
  "black-star-square-accra": {
   "category": "Category:Independence Square (Ghana)",
   "add": [
-   "File:Black Star Square.jpg",
    "File:Black Star Square, Ghana.jpg",
+   "File:Black Star Square.jpg",
    "File:Black Star Square in Ghana 4.jpg",
    "File:Black Star Square 01.jpg"
+  ],
+  "skip": [
+   "File:Black star square troper.jpg",
+   "File:A Section of Mourners at Aliu Mahama funeral.jpg"
   ]
  },
  "african-renaissance-monument-dakar": {
@@ -18863,6 +18867,11 @@
    "File:SN-dakar-renaiss-monum-03.jpg",
    "File:Statue de la renaissance vue de Ouakam.jpg",
    "File:African Renaissance Monument (5502494604).jpg"
+  ],
+  "skip": [
+   "File:SN-dakar-renaiss-monum-03.jpg",
+   "File:Monument de la renaissance africaine.jpg",
+   "File:StatueDakarInside.jpg"
   ]
  },
  "cathedral-church-of-christ-lagos": {
@@ -18872,13 +18881,20 @@
    "File:Cathedral Church of Christ, CMS, Lagos.jpg",
    "File:Cathedral-church-of-christ-lagos.jpg",
    "File:Cathedral-view-from-an-angle.jpg"
+  ],
+  "skip": [
+   "File:Cathedral Church Of Christ, Marina, Lagos.jpg"
   ]
  },
  "nyayo-house": {
   "category": "Category:Nyayo House",
   "add": [
-   "File:Nyayo House as seen from Uhuru Park.jpg",
-   "File:Nyayo House in Kenya.jpg"
+   "File:Nyayo House in Kenya.jpg",
+   "File:Nyayo House as seen from Uhuru Park.jpg"
+  ],
+  "skip": [
+   "File:West Nairobi CBD.jpg",
+   "File:Nairobi Gallery, 2025 (01).jpg"
   ]
  },
  "tintenpalast-windhoek": {
@@ -18892,9 +18908,13 @@
  "christuskirche-windhoek": {
   "category": "Category:Christuskirche Windhoek",
   "add": [
+   "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 02.jpg",
    "File:Christuskirche - Landmark church in Windhoek, Namibia.jpg",
    "File:Christuskirche am Parliament Garden, Windhoek.jpg",
    "File:Iglesia de Cristo, Windhoek, Namibia, 2018-08-04, DD 01.jpg"
+  ],
+  "skip": [
+   "File:Foto der Zeichnung \"Christuskirche in Windhoek\" (drawing by Elke le Roux).jpg"
   ]
  },
  "bahai-house-of-worship-kampala": {
@@ -18908,8 +18928,12 @@
  "maputo-central-railway-station": {
   "category": "Category:Maputo train station",
   "add": [
+   "File:The train station, Maputo.jpg",
    "File:Maputo, RTW 2012 (8356539341).jpg",
    "File:CFC Station Maputo.jpg"
+  ],
+  "skip": [
+   "File:Historical photo exhibition at Maputo Train Station.jpg"
   ]
  },
  "casa-de-ferro-maputo": {
@@ -18918,6 +18942,9 @@
    "File:Casa de Ferro (40661105322).jpg",
    "File:Iron house in maputo 01.jpg",
    "File:Casa de Ferro (2994242617).jpg"
+  ],
+  "skip": [
+   "File:Casa de Ferro and Tunduru Gardens Gate.jpg"
   ]
  },
  "heroes-acre-windhoek": {
@@ -18933,6 +18960,11 @@
    "File:Conselho Municipal de Maputo frente.jpg",
    "File:Maputo City Hall.jpg",
    "File:Conselho Municipal Maputo (22096153185).jpg"
+  ],
+  "skip": [
+   "File:The Independence Square (7667683818).jpg",
+   "File:Catedral de Maputo and Maputo City Hall.jpg",
+   "File:Maputo, RTW 2012 (8357562606).jpg"
   ]
  },
  "maputo-cathedral": {
@@ -18949,14 +18981,27 @@
    "File:Anglican cathedral in Stone Town, Zanzibar.jpg",
    "File:Anglican Church in stone town.jpg",
    "File:Anglican Christ Church in Zanzibar.jpg"
+  ],
+  "skip": [
+   "File:Altar Font and Cross Zanzibar Cathedral The Architect Volume 39 1888.jpg",
+   "File:A cross made as the history of Dr.Livingstone.jpg",
+   "File:Christ Church inside, Zanzibar.jpg",
+   "File:Stairs to the choir section of the the Anglican Cathedral – Mkunazini.jpg"
   ]
  },
  "alte-feste-windhoek": {
   "category": "Category:Alte Feste",
   "add": [
+   "File:Alte Feste Windhoek (Aussenansicht).jpg",
    "File:Windhuk Alte Feste 1.jpg",
+   "File:Windhuk Alte Feste Platte.jpg"
+  ],
+  "skip": [
    "File:Windhuk Alte Feste Platte.jpg",
-   "File:Alte Feste Windhoek (Aussenansicht).jpg"
+   "File:Genozid-Denkmal vor der Alten Feste in Windhoek1.jpg",
+   "File:Genozid-Denkmal vor der Alten Feste in Windhoek2.jpg",
+   "File:Windhuk Alte Feste Innenhof Südwester-Reiter 5.jpg",
+   "File:Windhuk Independence Memorial Museum Blick auf die Alte Feste 5.jpg"
   ]
  },
  "st-george-cathedral-addis-ababa": {
@@ -18965,21 +19010,31 @@
    "File:Addis abeba, cattedrale di san giorgio, esterno 01.jpg",
    "File:Addis abeba, cattedrale di san giorgio, esterno 06.jpg",
    "File:St Giyorgis external view.JPG"
+  ],
+  "skip": [
+   "File:St. George's Cathedral (24557732314).jpg",
+   "File:Addis abeba, cattedrale di san giorgio, interno, affreschi degli anni '50 con storie sacre 02.jpg"
   ]
  },
  "munyonyo-martyrs-shrine": {
   "category": "Category:Munyonyo Martyrs Shrine",
   "add": [
+   "File:About 10ft Munyonyo Martyrdom.jpg",
    "File:Munyonyo Martyrdom Front view.jpg",
    "File:Munyonyo Martyrs Shrine Church.jpg",
    "File:Munyonyo Martyrs Shrine.jpg"
+  ],
+  "skip": [
+   "File:Munyonyo Martyrdom Front view.jpg",
+   "File:Munyonyo Martyrs Shrine.jpg",
+   "File:Journey for death.jpg"
   ]
  },
  "grande-poste-d-alger": {
   "category": "Category:Grande Poste d'Alger",
   "add": [
-   "File:Alger Grande Poste.jpg",
    "File:La Grande Poste d'Alger.jpg",
+   "File:Alger Grande Poste.jpg",
    "File:La Grande Poste Alger.jpg",
    "File:Alger-Grande-Poste-1.jpg"
   ]
@@ -18987,14 +19042,15 @@
  "notre-dame-d-afrique-algiers": {
   "category": "Category:Notre Dame d'Afrique",
   "add": [
+   "File:Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg",
    "File:Basilique Notre-Dame-d'Afrique 2023 01.jpg",
-   "File:Alger-Notre-Dame-D'Afrique.jpg",
-   "File:Basilique Notre Dame d'Afrique كنيسة السيدة الافريقية (51972148806).jpg"
+   "File:Alger-Notre-Dame-D'Afrique.jpg"
   ]
  },
  "acropolium-of-carthage": {
   "category": "Category:Cathedral Saint-Louis of Carthage",
   "add": [
+   "File:Acropolium.jpg",
    "File:Acropolium de Carthage 01.jpg",
    "File:Acropolium de Carthage(1).jpg",
    "File:Acropolium de Carthage from far.jpg"
@@ -19014,50 +19070,76 @@
    "File:Monastir, Bourguiba-Mausoleum.jpg",
    "File:Habib Bourguiba Mausoleum.jpg",
    "File:Bourguiba, mausolée (02) 11 octobre 2016.jpg"
+  ],
+  "skip": [
+   "File:Bourguiba, mausolée (02) 11 octobre 2016.jpg",
+   "File:Bourguiba and visitors.JPG",
+   "File:Buste Bourguiba, mausolée (01) 11 octobre 2016.jpg"
   ]
  },
  "prince-moulay-abdellah-stadium": {
   "category": "Category:Prince Moulay Abdellah Stadium",
   "add": [
+   "File:Moulay Abdellah Stadium - interior.jpg",
    "File:Prince Moulay Abdellah Stadium, 2025.jpg"
+  ],
+  "skip": [
+   "File:Achraf Hakimi vs Niger.jpg",
+   "File:Bilal El Khannouss vs Niger.jpg"
   ]
  },
  "baron-empain-palace": {
   "category": "Category:Baron Empain Palace",
   "add": [
-   "File:Baron Empain palace 2.JPG",
    "File:Baron Empain Palace in Heliopolis.jpg",
+   "File:Baron Empain palace 2.JPG",
    "File:Baraon Palace.jpg",
    "File:Baron Empain Palace 2025.jpg"
+  ],
+  "skip": [
+   "File:Baron Empain Palace Interior 01.jpg"
   ]
  },
  "mausoleum-of-aga-khan-aswan": {
   "category": "Category:Mausoleum of Aga Khan",
   "add": [
+   "File:Aswan Aga Khan Mausoleum R03.jpg",
    "File:Aga Khan, Aswan.jpg",
    "File:Assuan Mausoleum Aga Khan III. 01.JPG",
-   "File:Mausoleo del Aga Khan 01.jpg",
-   "File:Aswan Aga Khan Mausoleum R03.jpg"
+   "File:Mausoleo del Aga Khan 01.jpg"
+  ],
+  "skip": [
+   "File:Aga Khan, Aswan.jpg",
+   "File:Assuan Mausoleum Aga Khan III. 01.JPG"
   ]
  },
  "mogamma-cairo": {
   "category": "Category:Mogamma",
   "add": [
-   "File:Cairo Mogamma building DSCF1980.jpg",
    "File:The Mogamma Cairo in May 2015.JPG",
+   "File:Cairo Mogamma building DSCF1980.jpg",
    "File:Mogamma, Tahrir Square, Cairo, Egypt.jpg"
+  ],
+  "skip": [
+   "File:Street lights’ lava glow around Tahrir Square (Explored) - Flickr - wikiphotographer.jpg",
+   "File:Tahrir Square, Cairo, in the early morning.jpg"
   ]
  },
  "cairo-international-stadium": {
   "category": "Category:Cairo International Stadium",
   "add": [
+   "File:Panorma Cairo Stadium.jpg",
+   "File:Cairo International Stadium 2019.jpg"
+  ],
+  "skip": [
    "File:Cairo International Stadium 2019.jpg",
-   "File:Panorma Cairo Stadium.jpg"
+   "File:Cairo International Stadium-gate.JPG"
   ]
  },
  "egyptian-museum-cairo": {
   "category": "Category:Main facade of Egyptian Museum, Cairo",
   "add": [
+   "File:1897 bis 1902 wurde das Ägyptische Museum in Kairo gebaut. 01.jpg",
    "File:Egyptian Museum in Cairo in May 2015.JPG",
    "File:Egyptian Museum - front view with wide angle lens.JPG",
    "File:Egyptian museum cairo.JPG"
@@ -19066,6 +19148,7 @@
  "al-rifai-mosque-cairo": {
   "category": "Category:Al-Rifa'i Mosque",
   "add": [
+   "File:Kairo Rifai Moschee BW 1.jpg",
    "File:Cairo - al-Rifa'i Mosque 0033.jpg",
    "File:مسجد الرفاعي - من الخارج.jpg",
    "File:مسجد الرفاعي والسلطان حسن.jpg"
@@ -19077,11 +19160,15 @@
    "File:Abu al-Abbas al-Mursi Mosque Facade.jpg",
    "File:Abu el-Abbas el-Mursi Mosque in Alexandria.jpg",
    "File:Mosque Abu al-Abbas al-Murs.jpg"
+  ],
+  "skip": [
+   "File:Mosque Abu al-Abbas al-Murs.jpg"
   ]
  },
  "abdeen-palace-cairo": {
   "category": "Category:Abdeen Palace",
   "add": [
+   "File:ركن الشاي بقصر عابدين.jpg",
    "File:قصر عابدين.jpg",
    "File:قصر عابدين 05.jpg",
    "File:قصر عابدين 08.jpg"
@@ -19090,16 +19177,26 @@
  "fnb-stadium-soccer-city": {
   "category": "Category:Soccer City",
   "add": [
+   "File:Johannesburg- Part II - Johannesburg4245.jpg",
    "File:Soccer City Stadium, Johannesburg.jpg",
    "File:FNB Stadium and mooifontein Arrial View - panoramio.jpg",
    "File:South Africa-Johannesburg-Nasrec road-Streetlight01.jpg"
+  ],
+  "skip": [
+   "File:Soccer City Stadium, Johannesburg.jpg",
+   "File:South Africa-Johannesburg-Nasrec road-Streetlight01.jpg",
+   "File:A la coupe d'Afrique des Nations.jpg"
   ]
  },
  "cape-town-stadium": {
   "category": "Category:Cape Town Stadium",
   "add": [
+   "File:CT - V&A Waterfront and Cape Town Stadium from Signal Hill, South Africa, 2017.jpg",
    "File:Cape Town Stadium, Cape Town, South Africa (Unsplash).jpg",
    "File:Green Point Stadium - South Africa (4029380846).jpg",
+   "File:Capetownstadium-001.JPG"
+  ],
+  "skip": [
    "File:Capetownstadium-001.JPG"
   ]
  },
@@ -19114,9 +19211,14 @@
  "durban-city-hall": {
   "category": "Category:Durban Town Hall",
   "add": [
+   "File:Durban City Centre.jpg",
    "File:City Hall and Francis Farewell Gardens, Durban, 9 2 407 0010.jpg",
    "File:City Hall and Francis Farewell Gardens, IV Durban 9 2 407 0010.jpg",
    "File:Durban TownHall.jpg"
+  ],
+  "skip": [
+   "File:City Hall and Francis Farewell Gardens, Durban, 9 2 407 0010.jpg",
+   "File:City Hall and Francis Farewell Gardens, IV Durban 9 2 407 0010.jpg"
   ]
  },
  "johannesburg-city-hall": {
@@ -19133,6 +19235,11 @@
    "File:Western side of the Nelson Mandela Bay Stadium February 2025.jpg",
    "File:Nelson Mandela Bay Stadium .jpg",
    "File:Nelson Mandela Stadium in Port Elizabeth.jpg"
+  ],
+  "skip": [
+   "File:Nelson Mandela Bay Stadium .jpg",
+   "File:Nelson SouthAfrica Mandela Bay Stadium-Port Elizabeth.JPG",
+   "File:Nelson Mandela Bay Stadium..jpg"
   ]
  },
  "nelson-mandela-bridge-johannesburg": {
@@ -19141,13 +19248,20 @@
    "File:South Africa-Johannesburg-Nelson Mandela Bridge001.jpg",
    "File:Mandela Bridge, Johannesburg, Gauteng, South Africa.jpg",
    "File:Nelson Mandela Bridge (4678585173).jpg"
+  ],
+  "skip": [
+   "File:Nelson Mandela Bridge (4678585173).jpg"
   ]
  },
  "johannesburg-art-gallery": {
   "category": "Category:Johannesburg Art Gallery",
   "add": [
+   "File:9 2 228 0069-Art Gallery2-Johannesburg-s.jpg",
    "File:Jhb Art Gallery 1.jpg",
    "File:9 2 228 0069-Art Gallery-Johannesburg-s.jpg"
+  ],
+  "skip": [
+   "File:Alfred Sisley - River Banks at Veneux - Johannesburg Art Gallery.jpg"
   ]
  },
  "rand-club-johannesburg": {
@@ -19155,22 +19269,39 @@
   "add": [
    "File:00000-Rand Club-Johannesburg-s.jpg",
    "File:JHB MARS Rand Club cnr Loveday, commissioner, fox str, stno 1173 004008.jpg"
+  ],
+  "skip": [
+   "File:JHB MARS Rand Club cnr Loveday, commissioner, fox str , stno 1173 004008.jpg"
   ]
  },
  "rhodes-memorial": {
   "category": "Category:Rhodes Memorial",
   "add": [
+   "File:Rhodes memorial view.JPG",
    "File:Rhodes Memorial - panoramio.jpg",
    "File:Cecil Rhodes Memorial.jpg",
    "File:Rhodes Memorial (11209941775).jpg"
+  ],
+  "skip": [
+   "File:Rhodes Memorial - panoramio.jpg",
+   "File:Cecil Rhodes Memorial.jpg",
+   "File:Rhodes Memorial (11209941775).jpg",
+   "File:Rhodes Menorial - panoramio (1).jpg",
+   "File:Rhodes no nose.JPG"
   ]
  },
  "pretoria-railway-station": {
   "category": "Category:Pretoria railway station",
   "add": [
+   "File:Bf.Pretoria.jpg",
    "File:Railway Station Scheiding Street Pretoria 001.jpg",
-   "File:Pretoria Railway Station-001.jpg",
-   "File:Bf.Pretoria.jpg"
+   "File:Pretoria Railway Station-001.jpg"
+  ],
+  "skip": [
+   "File:Railway Station Scheiding Street Pretoria 001.jpg",
+   "File:Beautiful Tracks.jpg",
+   "File:Coach lever.jpg",
+   "File:La Guerre Anglo Boer Arrivée à Pretoria de prisonniers du train blindé d'Estcourt (Lord Churchill à gauche en casquette), asset K1KtfDVSMjghQpBIEhOQgV75.jpg"
   ]
  },
  "buyeo-national-museum": {
@@ -19178,13 +19309,24 @@
   "add": [
    "File:Buyeo National Museum (20160719 1).png",
    "File:Buyeo National Museum 03 (28142475120).jpg"
+  ],
+  "skip": [
+   "File:Buyeo National Museum 03 (28142475120).jpg",
+   "File:Early Iron Age, Buyeo, Korea. Pottery with Horn-shaped Handles. Buyeo National Museum.jpg",
+   "File:Early Iron Age, Korea. Pottery with Clay Stripes. Buyeo National Museum.jpg",
+   "File:Trumpet-shaped bronze artifact IMG 20160928 012911.jpg"
   ]
  },
  "national-science-museum-daejeon": {
   "category": "Category:National Science Museum, South Korea",
   "add": [
-   "File:National Science Museum 2021.jpg",
-   "File:National Science Museum 2019.jpg"
+   "File:National Science Museum 2019.jpg",
+   "File:National Science Museum 2021.jpg"
+  ],
+  "skip": [
+   "File:Triceratops skeleton at National Science Museum in South Korea.jpg",
+   "File:Maglev in Daejeon 07.jpg",
+   "File:Maglev in Daejeon 08.jpg"
   ]
  },
  "japan-ukiyo-e-museum": {
@@ -19220,8 +19362,15 @@
  "miyagi-museum-of-art": {
   "category": "Category:The Miyagi Museum of Art",
   "add": [
-   "File:The miyagi museum of art01s3872.jpg",
-   "File:The miyagi museum of art02s3872.jpg"
+   "File:The miyagi museum of art02s3872.jpg",
+   "File:The miyagi museum of art01s3872.jpg"
+  ],
+  "skip": [
+   "File:Study for Panel for Edwin R. Campbell No. 4, Kandinsky (The Miyagi Museum of Art).jpg",
+   "File:Before the Gate of the Miyagi Prefectural Office by Takahashi Yuichi.jpg",
+   "File:YazakiHironobu-The Intention to Kill on the Street.png",
+   "File:MatsumotoShunsuke Suburban Landscape 1937.png",
+   "File:MatsumotoShunsuke Sketch Suburban Landscape ca1937.png"
   ]
  },
  "national-bunraku-theatre": {
@@ -19230,6 +19379,9 @@
    "File:National Bunraku Theatre in 201408.JPG",
    "File:National Bunraku Theatre1.jpg",
    "File:NATIONAL BUNRAKU THEATRE.jpg"
+  ],
+  "skip": [
+   "File:National Bunraku Puppet Theatre 2004.jpg"
   ]
  },
  "osaka-international-convention-center": {
@@ -19238,6 +19390,9 @@
    "File:Grand Cube Osaka 20080106-001.jpg",
    "File:Grand Cube Osaka - panoramio.jpg",
    "File:Grand Cube.jpg"
+  ],
+  "skip": [
+   "File:Osaka International Convention Center - panoramio.jpg"
   ]
  },
  "fukushima-prefectural-museum-of-art": {
@@ -19253,6 +19408,10 @@
   "add": [
    "File:261010 Gunma Prefectural Museum of History Takasaki Japan01s3.jpg",
    "File:261010 Gunma Prefectural Museum of History Takasaki Japan02s3.jpg"
+  ],
+  "skip": [
+   "File:不動山古墳 (高崎市) 出土埴輪.JPG",
+   "File:山王廃寺跡出土 軒丸瓦・文字瓦 (複製).JPG"
   ]
  },
  "national-showa-memorial-museum": {
@@ -19267,6 +19426,9 @@
   "add": [
    "File:191207 Hirosaki City Museum Hirosaki Aomori pref Japan01s.jpg",
    "File:Hirosaki Municipal Museum.JPG"
+  ],
+  "skip": [
+   "File:津軽為信 - panoramio.jpg"
   ]
  },
  "yamaguchi-prefectural-museum": {
@@ -19274,6 +19436,12 @@
   "add": [
    "File:140720 Yamaguchi Museum Yamaguchi Japan01s39.jpg",
    "File:Yamaguchi Museum 2021-08 ac.jpg"
+  ],
+  "skip": [
+   "File:Jurojin attributed to Sesshu (Yamaguchi Prefectural Museum).jpeg",
+   "File:Sōgi.jpg",
+   "File:Bocho Senkendo Hall in Yamaguchi Prefectural Yamaguchi Museum.jpg",
+   "File:View of Bocho Senkendo Hall in Yamaguchi Prefectural Yamaguchi Museum 2.jpg"
   ]
  },
  "irie-taikichi-memorial-museum-of-photography": {
@@ -19292,8 +19460,11 @@
  "memorial-cathedral-for-world-peace": {
   "category": "Category:Memorial Cathedral for World Peace",
   "add": [
-   "File:Assumption of Mary Cathedral, Hiroshima.jpg",
-   "File:Hiroshima World Peace Memorial Cathedral.jpg"
+   "File:Hiroshima World Peace Memorial Cathedral.jpg",
+   "File:Assumption of Mary Cathedral, Hiroshima.jpg"
+  ],
+  "skip": [
+   "File:Hiroshima World Peace Memorial Cathedral 140712.JPG"
   ]
  },
  "yokohama-city-hall-1959": {
@@ -19301,6 +19472,12 @@
   "add": [
    "File:Yokohama City Hall 2009.jpg",
    "File:旧横浜市庁舎・くすのき広場.jpg"
+  ],
+  "skip": [
+   "File:Basegate Kannai.jpg",
+   "File:BASEGATE Yokohama Kannai - CENTRAL GATE 01.jpg",
+   "File:BASEGATE Yokohama Kannai - CENTRAL GATE 02.jpg",
+   "File:BASEGATE Yokohama Kannai OMO7 Yokohama.jpg"
   ]
  },
  "yamanashi-prefectural-museum-of-art": {
@@ -19322,6 +19499,10 @@
   "add": [
    "File:Okayama Prefectural government.JPG",
    "File:Okayama kentyou01.JPG"
+  ],
+  "skip": [
+   "File:Okayama prefectoral office and Okayama castle.JPG",
+   "File:岡山県庁の玄関前 by takeokahp - panoramio.jpg"
   ]
  },
  "yokohama-silk-center": {
@@ -19329,6 +19510,10 @@
   "add": [
    "File:Yokohama August 2014 34.JPG",
    "File:Yokohama SilkCenter.JPG"
+  ],
+  "skip": [
+   "File:Yokohama Silk Museum 001.JPG",
+   "File:English House No.1 memorial stone, Yokohama - details.jpg"
   ]
  },
  "kure-city-hall": {
@@ -19343,6 +19528,9 @@
   "add": [
    "File:Shoji Ueda Museum of Photography05bs4592.jpg",
    "File:Shoji Ueda Museum of Photography08s5.jpg"
+  ],
+  "skip": [
+   "File:200 yen Coffee vending machine in the museum Tottori 2007.jpg"
   ]
  },
  "nima-sand-museum": {
@@ -19350,6 +19538,9 @@
   "add": [
    "File:Nima Sandmuseum.jpg",
    "File:Sandmuseum Nima.jpg"
+  ],
+  "skip": [
+   "File:Jumbo Hourglass from Nima Sand Museum.jpg"
   ]
  },
  "national-theatre-okinawa": {
@@ -19364,6 +19555,10 @@
    "File:Iida City Museum exterior ac (3).jpg",
    "File:Iida City Museum exterior ac (1).jpg",
    "File:Iida City Museum exterior ac (2).jpg"
+  ],
+  "skip": [
+   "File:Iida City Museum Hinatsu Konosuke Memorial Museum ac.jpg",
+   "File:Kunio Yanagita Memorial Hall 1.jpg"
   ]
  },
  "miyagi-prefectural-library": {
@@ -19378,6 +19573,9 @@
   "add": [
    "File:221001 Hiroshi Senju Museum Karuizawa Nagano pref Japan04s3.jpg",
    "File:221001 Hiroshi Senju Museum Karuizawa Nagano pref Japan02s3.jpg"
+  ],
+  "skip": [
+   "File:KaruizawaSenju MG 1261.jpg"
   ]
  },
  "tokyo-metropolitan-theatre": {
@@ -19393,12 +19591,18 @@
   "add": [
    "File:Okayama symphony hall01s3s3300.jpg",
    "File:Okayama symphony hall01n3200.jpg"
+  ],
+  "skip": [
+   "File:Okayama Symphony Hall - panoramio (2).jpg"
   ]
  },
  "echigo-matsunoyama-museum-of-natural-science": {
   "category": "Category:Echigo-Matsunoyama Museum of Natural Science",
   "add": [
    "File:越後松之山森の学校 キョロロ1.jpg"
+  ],
+  "skip": [
+   "File:越後松之山森の学校 キョロロ2.jpg"
   ]
  },
  "kanazawa-umimirai-library": {
@@ -19406,6 +19610,9 @@
   "add": [
    "File:Kanazawa Umimirai Library exterior ac (2).jpg",
    "File:Kanazawa Umimirai Library exterior ac (5).jpg"
+  ],
+  "skip": [
+   "File:Kanazawa Umimirai Library 1F childrens books corner ac (2).jpg"
   ]
  },
  "waseda-international-house-of-literature": {
@@ -19419,6 +19626,10 @@
   "add": [
    "File:Naha Okinawa Japan Okinawa-Prefectural-Government-Headquarters-01.jpg",
    "File:Okinawa Prefectual Office 2.jpg"
+  ],
+  "skip": [
+   "File:Naha Bus Terminal 20120816.jpg",
+   "File:View from Mount Gusuku Naha 202012.jpg"
   ]
  },
  "aichi-international-arena": {
@@ -19426,6 +19637,9 @@
   "add": [
    "File:Aichi International Arena and Entrance 4 of Meijō Kōen Station - 2.jpg",
    "File:Aichi International Arena and Entrance 4 of Meijō Kōen Station.jpg"
+  ],
+  "skip": [
+   "File:2026 아시안게임 현장사진1.jpg"
   ]
  },
  "yufuin-station": {
@@ -19433,6 +19647,11 @@
   "add": [
    "File:Yufuin Station exterior 2022-09-10.jpg",
    "File:Yufuin 20200921122110 (50884621981).jpg"
+  ],
+  "skip": [
+   "File:JR ななつ星 Seven Stars in Kyushu, 由布院駅 (20250128).jpg",
+   "File:Yufuin station 2024 1.jpg",
+   "File:Yufuin station 2024 2.jpg"
   ]
  },
  "hibiya-public-hall": {
@@ -19441,6 +19660,11 @@
    "File:日比谷公会堂.jpg",
    "File:Hibiya Public Hall (2018-05-04) 02.jpg",
    "File:Hibiya Public Hall (2018-05-04) 01.jpg"
+  ],
+  "skip": [
+   "File:Opening World Press Photo 61 . Nagao tijdens toespraak, Bestanddeelnr 913-0044.jpg",
+   "File:Opening World Press Photo 61 . Commissaris van de Koningin Klaasesz en Yasushi N, Bestanddeelnr 913-0038.jpg",
+   "File:Opening World Press Photo 61 . Commissaris van de Koningin Klaasesz en Yasushi N, Bestanddeelnr 913-0036.jpg"
   ]
  },
  "sacred-heart-cathedral-yokohama": {
@@ -19456,6 +19680,9 @@
   "add": [
    "File:Seoul Anglican Cathedral in 2026 (3).jpg",
    "File:Seoul Anglican Cathedral in 2026 (1).jpg"
+  ],
+  "skip": [
+   "File:Seoul Cathedral Anglican Church-13.jpg"
   ]
  },
  "casals-hall-ochanomizu": {
