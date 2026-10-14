@@ -22,7 +22,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / 'site'
 BASE = os.environ.get('SITE_URL', 'https://findgreatarchitecture.com/')
-NAME = 'Discover Architecture'
+NAME = 'Find Great Architecture'
 
 COUNTRY = {
     'US': 'United States', 'BD': 'Bangladesh', 'IN': 'India', 'JP': 'Japan', 'ES': 'Spain', 'DE': 'Germany',
@@ -145,6 +145,8 @@ HEAD = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{title}</title>
 <meta name="description" content="{desc}">
+<link rel="icon" href="{up}favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{up}apple-touch-icon.png">
 <link rel="canonical" href="{url}">
 <meta property="og:site_name" content="{site}">
 <meta property="og:type" content="{ogtype}">
@@ -161,7 +163,7 @@ HEAD = """<!doctype html>
 </head>
 <body>
 <header class="top">
-  <a class="mark" href="{up}">Discover<br><span class="accent">Architecture.</span></a>
+  <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
   <nav><a class="all" href="{up}buildings/" data-tip="A collection of {total} buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
@@ -179,7 +181,7 @@ GALLERY_JS = """<script>
 
 FOOT = """<footer class="foot">
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
-  <p><a href="{up}">Discover Architecture</a> · <a href="{up}buildings/">All {total} buildings</a></p>
+  <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All {total} buildings</a></p>
 </footer>
 <nav class="dock" aria-label="Browse">
   <a href="{up}">Home</a>
@@ -211,7 +213,7 @@ def home_block(items):
     row = lambda b: f'<li><a href="buildings/{b["id"]}/">{e(b["name"])}</a> <small>{e(b["place"].split(",")[0] if anonymous(b) else b["by"])}</small></li>'
     return (f'<section class="about-wall" id="about">\n'
             f'  <h2>About this wall</h2>\n'
-            f'  <p>Discover Architecture is a wall of {TOTAL} buildings for architecture students, from the modern masters to '
+            f'  <p>Find Great Architecture is a wall of {TOTAL} buildings for architecture students, from the modern masters to '
             f'contemporary and parametric work, brutalism and regionalism, with India and South Asia first. Every building has '
             f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
             f'Buildings from {len(places)} countries; <a href="buildings/">see all {TOTAL}</a>.</p>\n'
@@ -272,7 +274,7 @@ def building_page(b, items):
 def index_page(items):
     up = '../'
     url = BASE + 'buildings/'
-    desc = f'All {TOTAL} buildings on Discover Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
+    desc = f'All {TOTAL} buildings on Find Great Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
     head = HEAD.format(title=f'All {TOTAL} buildings · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
                        ogtitle=f'All {TOTAL} buildings', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(
@@ -283,21 +285,70 @@ def index_page(items):
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
 
+FONTS = Path(__file__).resolve().parent / 'fonts'
+INK, RED = (17, 17, 16), (218, 58, 38)
+# Strong exterior photos for the share image; the coolest go under the name.
+OG_PICKS = ['saynatsalo-town-hall', 'phillips-exeter-academy-library', 'salk-institute', 'tate-modern', 'ningbo-history-museum', 'kimbell-art-museum']
+
+
+def redness(im):
+    """How red/brick a photo is, so red buildings stay away from the red "Architecture."."""
+    r, g, b = [sum(c) / len(c) for c in zip(*im.convert('RGB').resize((24, 16)).getdata())]
+    return r - (g + b) / 2
+
+
 def og_image(items):
-    from PIL import Image
+    """The share image: six buildings, with the name and address over a dark fade at the bottom.
+    The coolest (least red) photos go along the bottom row, under the name."""
+    from PIL import Image, ImageDraw, ImageFont
     W, H = 1200, 630
-    canvas = Image.new('RGB', (W, H), (237, 237, 233))
-    pics = [x for x in items if x.get('images') and not x['images'][0]['thumb'].endswith('.svg')]  # photos only, not drawings
-    random.Random(4).shuffle(pics)
-    cols, rows, gap = 6, 3, 6
-    cw, ch = (W - gap * (cols + 1)) // cols, (H - gap * (rows + 1)) // rows
-    for k, x in enumerate(pics[:cols * rows]):
-        im = Image.open(SITE / x['images'][0]['thumb']).convert('RGB')
+    canvas = Image.new('RGB', (W, H), INK)
+    by_id = {x['id']: x for x in items}
+    pics = [by_id[i] for i in OG_PICKS if i in by_id and by_id[i].get('images')]
+    if len(pics) < 6:  # fall back to any photos, never drawings
+        more = [x for x in items if x.get('images') and not x['images'][0]['thumb'].endswith('.svg') and x not in pics]
+        random.Random(4).shuffle(more)
+        pics += more[:6 - len(pics)]
+    ims = [Image.open(SITE / x['images'][0]['thumb']).convert('RGB') for x in pics[:6]]
+    if len([i for i in OG_PICKS if i in by_id]) < 6:  # fallback photos: warm on top, cool below
+        ims = sorted(ims, key=redness, reverse=True)[:3] + sorted(ims, key=redness)[:3]
+    cols, rows, gap = 3, 2, 6
+    cw, ch = (W - gap * (cols - 1)) // cols, (H - gap * (rows - 1)) // rows
+    for k, im in enumerate(ims):
         r = max(cw / im.width, ch / im.height)
         im = im.resize((int(im.width * r) + 1, int(im.height * r) + 1))
         left, top = (im.width - cw) // 2, (im.height - ch) // 2
-        canvas.paste(im.crop((left, top, left + cw, top + ch)), (gap + (k % cols) * (cw + gap), gap + (k // cols) * (ch + gap)))
+        canvas.paste(im.crop((left, top, left + cw, top + ch)), ((k % cols) * (cw + gap), (k // cols) * (ch + gap)))
+    fade = Image.new('L', (1, H))
+    for y in range(H):
+        t = max(0.0, (y - H * 0.36) / (H * 0.5))
+        fade.putpixel((0, y), int(255 * min(0.88, t * 1.1)))
+    canvas = Image.composite(Image.new('RGB', (W, H), (0, 0, 0)), canvas, fade.resize((W, H)))
+    d = ImageDraw.Draw(canvas)
+    big = ImageFont.truetype(str(FONTS / 'BigShouldersDisplay-Black.ttf'), 104)
+    small = ImageFont.truetype(str(FONTS / 'BarlowCondensed-SemiBold.ttf'), 30)
+    x0, base = 44, H - 40
+    d.text((x0, base - 92), 'ARCHITECTURE.', font=big, fill=RED, anchor='ls')
+    d.text((x0, base - 184), 'FIND GREAT', font=big, fill=(255, 255, 255), anchor='ls')
+    d.text((W - 44, base - 96), 'FINDGREATARCHITECTURE.COM', font=small, fill=(255, 255, 255), anchor='rs')
     canvas.save(SITE / 'og.jpg', quality=85, optimize=True)
+
+
+def icons():
+    """The tab and home-screen icon: a black F with the red full stop, on white."""
+    from PIL import Image, ImageDraw, ImageFont
+    for size, name in [(32, 'favicon.png'), (180, 'apple-touch-icon.png'), (512, 'icon-512.png')]:
+        S = size * 4
+        im = Image.new('RGB', (S, S), (255, 255, 255))
+        d = ImageDraw.Draw(im)
+        f = ImageFont.truetype(str(FONTS / 'BigShouldersDisplay-Black.ttf'), int(S * 0.86))
+        fw = d.textlength('F', font=f)
+        dw = d.textlength('.', font=f)
+        x = (S - fw - dw) / 2
+        y = S * 0.5 + f.getbbox('F')[3] * 0.5 - f.getbbox('F')[1] * 0.5
+        d.text((x, y), 'F', font=f, fill=INK, anchor='ls')
+        d.text((x + fw, y), '.', font=f, fill=RED, anchor='ls')
+        im.resize((size, size), Image.LANCZOS).save(SITE / name)
 
 
 def fingerprint(path):
@@ -345,6 +396,7 @@ def main():
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n')
+    icons()
     print(f'Built {len(items)} building pages, the index, og.jpg, sitemap.xml and robots.txt.')
 
 

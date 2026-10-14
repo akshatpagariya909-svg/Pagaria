@@ -1,4 +1,4 @@
-/* Discover Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
+/* Find Great Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
    Plain JavaScript, no build step. Data comes from data/buildings.js (window.BUILDINGS). */
 (() => {
   'use strict';
