@@ -327,5 +327,350 @@
    "https://en.wikipedia.org/wiki/Şehzade_Mosque"
   ],
   "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "rustem-pasha-mosque",
+  "name": "Rüstem Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1563",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Iznik tiles cover almost every vertical surface; plan is an octagon inscribed in a rectangle.",
+  "status": "photo",
+  "commons_category": "Category:Rüstem Pasha Mosque",
+  "photos": [
+   {
+    "file": "File:Rüstem Paşa Camii Karaköy vapurundan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rüstem_Pasha_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Rüstem_Pasha_Mosque"
+  ],
+  "note": "Exterior view from Karaköy ferry per category listing; file name reconstructed from API output, verify exact name. Lead image is only 480x640."
+ },
+ {
+  "id": "mihrimah-sultan-mosque-edirnekapi",
+  "name": "Mihrimah Sultan Mosque, Edirnekapı",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1570",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Vault"
+  ],
+  "features": "A cube topped by a half-sphere, with so many windows it is one of Sinan's lightest interiors.",
+  "status": "photo",
+  "commons_category": "Category:Mihrimah Mosque (Edirnekapı)",
+  "photos": [
+   {
+    "file": "File:Istanbul - Mesquita de Mihrimah.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mihrimah Mosque (Edirnekapı) in January 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mihrimah_Sultan_Mosque_(Edirnekapı)",
+   "https://commons.wikimedia.org/wiki/Category:Mihrimah_Mosque_(Edirnekapı)"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Whole view of the mosque' / 'Mosque exterior')."
+ },
+ {
+  "id": "divrigi-great-mosque-and-hospital",
+  "name": "Divriği Great Mosque and Hospital",
+  "by": "Khurramshāh ibn Mughīth al-Khilātī",
+  "city": "Divriği, Sivas",
+  "cc": "TR",
+  "year": "1229",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Main north portal celebrated for its dense high-relief stone carving.",
+  "status": "photo",
+  "commons_category": "Category:Divriği Great Mosque and Hospital",
+  "photos": [
+   {
+    "file": "File:Divriği Ulu Camii ve Darüşşifası 2016-05-26 19.59.14 1791825509.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sivas Divriği Cami.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Divri%C4%9Fi_Great_Mosque_and_Hospital",
+   "https://commons.wikimedia.org/wiki/Category:Divriği_Great_Mosque_and_Hospital"
+  ],
+  "note": "file in the building's own Commons category (WLM Turkey upload). Lead image is only 1024px."
+ },
+ {
+  "id": "hagia-sophia",
+  "name": "Hagia Sophia",
+  "by": "Isidore of Miletus, Anthemius of Tralles",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "537",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "One of the first buildings with a fully pendentive dome, about 33 m across after rebuilding.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hagia Sophia (228968325).jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "blue-mosque",
+  "name": "Sultan Ahmed Mosque (Blue Mosque)",
+  "by": "Sedefkar Mehmed Agha",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1617",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Central dome surrounded by four semi-domes, each flanked by three smaller ones; six minarets.",
+  "status": "photo",
+  "commons_category": "Category:Sultan Ahmed I Mosque",
+  "photos": [
+   {
+    "file": "File:Blue Mosque (Sultanahmet Mosque).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Istanbul's Blue Mosque from the courtyard.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Sultan_Ahmed_I_Mosque"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Blue Mosque'). Article lead image not available via pageimages."
+ },
+ {
+  "id": "green-mosque-bursa",
+  "name": "Green Mosque, Bursa",
+  "by": "Hacı İvaz Pasha",
+  "city": "Bursa",
+  "cc": "TR",
+  "year": "1420",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Cube-shaped two-storey building on an inverted T plan with a white marble fountain under the central dome.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bursa Yeşil Camii - Green Mosque (35).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_Mosque,_Bursa"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Green Mosque of Bursa'). Year: inscription says completed Dec 1419/Jan 1420; infobox says 1424."
+ },
+ {
+  "id": "grand-mosque-of-bursa",
+  "name": "Grand Mosque of Bursa",
+  "by": "Ali Neccar",
+  "city": "Bursa",
+  "cc": "TR",
+  "year": "1399",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Interior covered by twenty domes in four rows of five on twelve columns, with a central fountain.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:71 Bursa la Grande Moschea (Edited).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bursa"
+  ],
+  "note": "lead image of the en.wikipedia article (skyline view of the mosque)."
+ },
+ {
+  "id": "camlica-mosque",
+  "name": "Çamlıca Mosque",
+  "by": "Bahar Mızrak, Hayriye Gül Totu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2019",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Large box attached to a colonnaded courtyard, with a squat central dome and six minarets.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Camlica-2018-06-14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Çamlıca_Mosque"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Çamlıca Republic Mosque as seen from the Bosporus')."
+ },
+ {
+  "id": "troy-museum",
+  "name": "Troy Museum",
+  "by": "Yalın Mimarlık",
+  "city": "Çanakkale",
+  "cc": "TR",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Earth & local material"
+  ],
+  "features": "Four-storey cube clad in rust-coloured weathering steel, as tall as the excavation is deep.",
+  "status": "photo",
+  "commons_category": "Category:Troy Museum",
+  "photos": [
+   {
+    "file": "File:Troy Museum 0079.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Troy Museum 0002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Troy_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Troy_Museum"
+  ],
+  "note": "file in the building's own Commons category (description names the weathering-steel cube exterior). Lead image is a logo."
+ },
+ {
+  "id": "beylerbeyi-palace",
+  "name": "Beylerbeyi Palace",
+  "by": "Sarkis Balyan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1865",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Water",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Simpler than Dolmabahçe; two bathing pavilions are best seen from the Bosphorus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beylerbeyi Palace (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beylerbeyi_Palace"
+  ],
+  "note": "lead image of the en.wikipedia article."
  }
 ]
