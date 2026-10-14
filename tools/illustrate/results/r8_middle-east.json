@@ -2689,5 +2689,345 @@
    "https://commons.wikimedia.org/wiki/Category:Hamad_International_Airport"
   ],
   "note": "Files from the building's own category with matching descriptions; wikipedia lead image is only 612x408. Not viewed; may show apron or interior. Year = passenger operations began 30 Apr 2014."
+ },
+ {
+  "id": "government-house-yerevan",
+  "name": "Government House, Yerevan",
+  "by": "Alexander Tamanian, Gevorg Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1941",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Tamanian's north-west wing built 1926-29; his son Gevorg finished the rest by 1941.",
+  "status": "photo",
+  "commons_category": "Government House of Armenia",
+  "photos": [
+   {
+    "file": "File:Yerevan square by Rita W.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Yerevan, Government House, Government of Armenia, Republic Square, Armenia.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Republic_Square,_Yerevan"
+  ],
+  "note": "Lead image (Rita W.) description 'Armenian Government houses'; second file title names building. Not viewed."
+ },
+ {
+  "id": "yerevan-opera-theatre",
+  "name": "Yerevan Opera Theatre",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1953",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Opened 1933; hall finished 1939 under Tamanian's son; large-scale works ended 1953.",
+  "status": "photo",
+  "commons_category": "Exterior of Opera house of Yerevan",
+  "photos": [
+   {
+    "file": "File:Ópera, Ereván, Armenia, 2016-10-03, DD 12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yerevan_Opera_Theatre"
+  ],
+  "note": "Lead image; Commons description 'Opera house, Yerevan'. Year 1953 = end of large-scale construction per article."
+ },
+ {
+  "id": "gyumri-railway-station",
+  "name": "Gyumri railway station",
+  "by": "Rafik Yeghoyan",
+  "city": "Gyumri",
+  "cc": "AM",
+  "year": "1979",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Soviet Armenian modernist hall whose spatial composition echoes medieval Armenian architecture.",
+  "status": "photo",
+  "commons_category": "Gyumri railway station",
+  "photos": [
+   {
+    "file": "File:Gyumru erkatuxi 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gyumri_railway_station"
+  ],
+  "note": "Lead image, in the building's own Commons category (single-subject category)."
+ },
+ {
+  "id": "tbilisi-sports-palace",
+  "name": "Tbilisi Sports Palace",
+  "by": "Vladimir Aleksi-Meskhishvili, Yuri Kasradze, Temo Japaridze",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Reinforced-concrete dome about 76 m in diameter, among Europe's largest when built.",
+  "status": "photo",
+  "commons_category": "Tbilisi Sports Palace",
+  "photos": [
+   {
+    "file": "File:Sports Palace in Tbilisi - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace"
+  ],
+  "note": "Lead image; Commons description 'Sports Palace in Tbilisi'; in own category."
+ },
+ {
+  "id": "svetitskhoveli-cathedral",
+  "name": "Svetitskhoveli Cathedral",
+  "by": "Arsukidze",
+  "city": "Mtskheta",
+  "cc": "GE",
+  "year": "1029",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Cross-in-square cathedral built 1010-1029, with the dome carried on four sides.",
+  "status": "photo",
+  "commons_category": "Svetitskhoveli (exterior)",
+  "photos": [
+   {
+    "file": "File:Svetitskhoveli Cathedral 09.23 (3).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral"
+  ],
+  "note": "Lead image; description names the cathedral in Mtskheta; category is the exterior one."
+ },
+ {
+  "id": "government-house-baku",
+  "name": "Government House, Baku",
+  "by": "Lev Rudnev, Vladimir Munts",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1952",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built 1936-1952 to a design by Lev Rudnev and V. Munts; designed for 5,500 people.",
+  "status": "photo",
+  "commons_category": "Government House of Azerbaijan",
+  "photos": [
+   {
+    "file": "File:Hilton Hotel and Government House, Baku.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Governement house - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Government_House,_Baku"
+  ],
+  "note": "Both files sit in the building's Commons category; first title names it (hotel also in frame); second title is a typo of 'government house'. Article lead image is not on Commons. Not viewed; check."
+ },
+ {
+  "id": "baku-olympic-stadium",
+  "name": "Baku Olympic Stadium",
+  "by": "TOCA, Heerim, Rossetti",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Six-storey, 60 m high stadium on a 205,000 sq m footprint, completed February 2015.",
+  "status": "photo",
+  "commons_category": "Baku Olympic Stadium",
+  "photos": [
+   {
+    "file": "File:Baku Olympic Stadium.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baku Olympic Stadium2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baku_Olympic_Stadium"
+  ],
+  "note": "Titles/description name the stadium (dated 10 Oct 2015); article lead image is a local enwiki file, not used. Not viewed."
+ },
+ {
+  "id": "alphabetic-tower",
+  "name": "Alphabetic Tower",
+  "by": "CMD Ingenieros (Alberto Domingo, Carlos Lazaro)",
+  "city": "Batumi",
+  "cc": "GE",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Double helix of two bands carrying 33 letters of the Georgian alphabet.",
+  "status": "photo",
+  "commons_category": "Alphabetic Tower",
+  "photos": [
+   {
+    "file": "File:Alphabet Tower, Batumi.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alphabetic_Tower"
+  ],
+  "note": "Commons title/description name the tower. Architect credit per article is an engineering firm. Not viewed."
+ },
+ {
+  "id": "wedding-palace-tbilisi",
+  "name": "Wedding Palace",
+  "by": "Victor Djorbenadze, Vazha Orbeladze",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Blends 1920s expressionism with medieval Georgian church architecture.",
+  "status": "photo",
+  "commons_category": "Wedding Palace in Tbilisi",
+  "photos": [
+   {
+    "file": "File:تفلیس Tbilisi თბილისი 38.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:تفلیس Tbilisi თბილისი 37.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wedding_Palace_(Tbilisi)"
+  ],
+  "note": "Both files are in the building's Commons category; 38 is the article lead (cropped there). Not viewed."
+ },
+ {
+  "id": "tbilisi-circus",
+  "name": "Tbilisi Circus",
+  "by": "Nikolay Neprintsev, Vladimer Urushadze, Stepan Satunts",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1940",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Rotunda in Soviet-era Neoclassical style on a hill above Heroes' Square.",
+  "status": "photo",
+  "commons_category": "Tbilisi Circus",
+  "photos": [
+   {
+    "file": "File:Heroes Square, Tbilisi2.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Circus"
+  ],
+  "note": "Lead image; Commons description says the circus is seen on the hill; building is distant, check framing."
  }
 ]
