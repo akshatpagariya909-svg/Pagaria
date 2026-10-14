@@ -3058,5 +3058,167 @@
    "https://commons.wikimedia.org/wiki/Category:Bayard-Condict_Building"
   ],
   "note": ""
+ },
+ {
+  "id": "krause-music-store",
+  "name": "Krause Music Store",
+  "by": "Louis Sullivan (facade)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1922",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Sullivan's last building, with plant-like curving forms framing the picture window.",
+  "status": "photo",
+  "commons_category": "Category:Krause Music Store",
+  "photos": [
+   {
+    "file": "File:Krause Music Store - 52529944623.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Krause Music Store - 52529812683.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Krause_Music_Store",
+   "https://commons.wikimedia.org/wiki/Category:Krause_Music_Store"
+  ],
+  "note": ""
+ },
+ {
+  "id": "buffalo-city-court-building",
+  "name": "Buffalo City Court Building",
+  "by": "Pfohl, Roberts and Biggie",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Ten-storey courthouse on Niagara Square, next to Buffalo City Hall.",
+  "status": "photo",
+  "commons_category": "Category:Buffalo City Court Building",
+  "photos": [
+   {
+    "file": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frank A. Sedita City Court Building, Delaware Avenue and Niagara Square, Buffalo, NY - 52685125502.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190609 - 13 - City Court.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Buffalo_City_Court_Building",
+   "https://commons.wikimedia.org/wiki/Category:Buffalo_City_Court_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "george-h-fallon-federal-building",
+  "name": "George H. Fallon Federal Office Building",
+  "by": "Fisher, Nes, Campbell and Associates",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "17-storey International Style tower clad in Minnesota granite, part of Charles Center.",
+  "status": "photo",
+  "commons_category": "Category:George H. Fallon Federal Building",
+  "photos": [
+   {
+    "file": "File:Entrance, George H. Fallon Federal Building (1967), 31-45 Hopkins Plaza, Baltimore, MD 21201 (41656161592).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:George H. Fallon Federal Building (1967), 31-45 Hopkins Plaza, Baltimore, MD 21201 (41656159112).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_H._Fallon_Federal_Office_Building",
+   "https://commons.wikimedia.org/wiki/Category:George_H._Fallon_Federal_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "strom-thurmond-federal-building",
+  "name": "Strom Thurmond Federal Building and U.S. Courthouse",
+  "by": "Marcel Breuer",
+  "city": "Columbia",
+  "cc": "US",
+  "year": "1979",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Monolithic office tower paired with a long, low courthouse; recessed windows with protruding hoods.",
+  "status": "photo",
+  "commons_category": "Category:Strom Thurmond Federal Building",
+  "photos": [
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395729926.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53395919863.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Strom Thurmond Federal Building and United States Courthouse, Assembly Street and Laurel Street, Columbia, SC - 53394801007.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Strom_Thurmond_Federal_Building_and_United_States_Courthouse",
+   "https://commons.wikimedia.org/wiki/Category:Strom_Thurmond_Federal_Building"
+  ],
+  "note": ""
  }
 ]
