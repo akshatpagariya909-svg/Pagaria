@@ -1178,5 +1178,369 @@
    "https://commons.wikimedia.org/wiki/Category:Surbiton_railway_station"
   ],
   "note": "2018 files are 1366px wide."
+ },
+ {
+  "id": "liverpool-cathedral",
+  "name": "Liverpool Cathedral",
+  "by": "Giles Gilbert Scott (completed by Frederick Thomas)",
+  "city": "Liverpool",
+  "cc": "GB",
+  "year": "1978",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Vault"
+  ],
+  "features": "Gothic Revival Anglican cathedral, the longest cathedral in the world, with a very large belltower.",
+  "status": "photo",
+  "commons_category": "Category:Liverpool Anglican Cathedral",
+  "photos": [
+   {
+    "file": "File:Cathedral Church of Christ in Liverpool September 2014.JPG",
+    "license": "CC BY-SA 3.0"
+   },
+   {
+    "file": "File:Anglican Cathedral - geograph.org.uk - 5455045.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Liverpool Anglican Cathedral (2016-01-09 18.01.37 by Bob Edwards - 24251564426).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Liverpool_Anglican_Cathedral"
+  ],
+  "note": "Built 1904-1978; Gothic Revival, so movement set to Historic precedent (post-1900 though; reviewer may prefer another)."
+ },
+ {
+  "id": "portmeirion",
+  "name": "Portmeirion",
+  "by": "Clough Williams-Ellis",
+  "city": "Penrhyndeudraeth",
+  "cc": "GB",
+  "year": "1975",
+  "type": "Hospitality",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Public space",
+   "Reclaimed material"
+  ],
+  "features": "Italianate folly village of deliberately fanciful nostalgia, incorporating fragments of demolished buildings.",
+  "status": "photo",
+  "commons_category": "Category:Portmeirion",
+  "photos": [
+   {
+    "file": "File:A corner of Portmeirion, Wales (49798996653).jpg",
+    "license": "CC BY 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portmeirion",
+   "https://commons.wikimedia.org/wiki/Category:Portmeirion"
+  ],
+  "note": "Built 1925-1975. Most category files under 1200px or not buildings; only one qualifies, add more via search. Location: Gwynedd, Wales."
+ },
+ {
+  "id": "blenheim-palace",
+  "name": "Blenheim Palace",
+  "by": "John Vanbrugh (assisted by Nicholas Hawksmoor)",
+  "city": "Woodstock",
+  "cc": "GB",
+  "year": "1722",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Country house with a monumental triumphal-arch East Gate and low corner towers crowned with belvederes of massed stone.",
+  "status": "photo",
+  "commons_category": "Category:Blenheim Palace",
+  "photos": [
+   {
+    "file": "File:An exercise in English Baroque - geograph.org.uk - 2334872.jpg",
+    "license": "CC BY-SA 2.0"
+   },
+   {
+    "file": "File:Blenheim - Blenheim Palace - 20210417122813.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Bleinham Palace 1980.jpg",
+    "license": "CC BY-SA 4.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blenheim_Palace",
+   "https://commons.wikimedia.org/wiki/Category:Blenheim_Palace"
+  ],
+  "note": "Built 1705-1722. Several 2021 files unseen; first exterior pick by title only."
+ },
+ {
+  "id": "st-pancras-railway-station",
+  "name": "St Pancras railway station",
+  "by": "William Henry Barlow (train shed)",
+  "city": "London",
+  "cc": "GB",
+  "year": "1868",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Steel & glass"
+  ],
+  "features": "Wrought-iron pillars carry a single-span roof that was the largest in the world when completed.",
+  "status": "photo",
+  "commons_category": "Category:St Pancras railway station",
+  "photos": [
+   {
+    "file": "File:2018-04-25 St Pancras railway station.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/St_Pancras_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:St_Pancras_railway_station"
+  ],
+  "note": "Only part of the category listed (40 of more); title-only pick, check it is exterior. The Gothic hotel is by George Gilbert Scott (not read)."
+ },
+ {
+  "id": "castell-coch",
+  "name": "Castell Coch",
+  "by": "William Burges (completed by Richard Pullan)",
+  "city": "Cardiff",
+  "cc": "GB",
+  "year": "1891",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Colour",
+   "Detail"
+  ],
+  "features": "Gothic Revival castle rebuilt with three circular towers and elaborately decorated interiors.",
+  "status": "photo",
+  "commons_category": "Category:Castell Coch, Cardiff",
+  "photos": [
+   {
+    "file": "File:Castell Coch (4547).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Castell Coch (4548).jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Castell Coch (1) - geograph.org.uk - 7360154.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Castell_Coch",
+   "https://commons.wikimedia.org/wiki/Category:Castell_Coch,_Cardiff"
+  ],
+  "note": "Rebuilt 1875-1891; located at Tongwynlais near Cardiff."
+ },
+ {
+  "id": "livingstone-tower-glasgow",
+  "name": "Livingstone Tower",
+  "by": "Covell, Matthews & Partners",
+  "city": "Glasgow",
+  "cc": "GB",
+  "year": "1964",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Steel & glass"
+  ],
+  "features": "Curtain wall of opaque dark green glass spandrel panels framed by orange metal uprights.",
+  "status": "photo",
+  "commons_category": "Category:Livingstone Tower, Glasgow",
+  "photos": [
+   {
+    "file": "File:Livingstone tower 2024, north view.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:Livingstone Tower Sunny 03.jpg",
+    "license": "CC0"
+   },
+   {
+    "file": "File:LivTower.JPG",
+    "license": "CC BY-SA 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Livingstone_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Livingstone_Tower,_Glasgow"
+  ],
+  "note": ""
+ },
+ {
+  "id": "scottish-storytelling-centre",
+  "name": "Scottish Storytelling Centre",
+  "by": "Malcolm Fraser Architects",
+  "city": "Edinburgh",
+  "cc": "GB",
+  "year": "2006",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Community",
+   "Detail"
+  ],
+  "features": "Purpose-built storytelling centre that incorporates John Knox House.",
+  "status": "photo",
+  "commons_category": "Category:Scottish Storytelling Centre",
+  "photos": [
+   {
+    "file": "File:Scottish-Storytelling-Centre 2014-07-17~ MG 0036.jpg",
+    "license": "CC BY 3.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scottish_Storytelling_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Scottish_Storytelling_Centre"
+  ],
+  "note": "Article gives few architectural details; one qualifying photo. Reviewer may skip."
+ },
+ {
+  "id": "lyric-theatre-belfast",
+  "name": "Lyric Theatre, Belfast",
+  "by": "O'Donnell & Tuomey",
+  "city": "Belfast",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Light & shadow",
+   "Community"
+  ],
+  "features": "New theatre of about 400 seats plus a flexible studio of 120 to 170 seats.",
+  "status": "photo",
+  "commons_category": "Category:Lyric Theatre, Belfast",
+  "photos": [
+   {
+    "file": "File:The Lyric Theatre - geograph.org.uk - 3522487.jpg",
+    "license": "CC BY-SA 2.0"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lyric_Theatre,_Belfast",
+   "https://commons.wikimedia.org/wiki/Category:Lyric_Theatre,_Belfast"
+  ],
+  "note": "Article gives no architectural description; concepts guessed, not sourced - verify. May 2010 files likely show construction, excluded."
+ },
+ {
+  "id": "swansea-civic-centre",
+  "name": "Swansea Civic Centre",
+  "by": "C. W. Quick (West Glamorgan County Architects Department)",
+  "city": "Swansea",
+  "cc": "GB",
+  "year": "1982",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Brutalist county building with continuous bands of glazing between deep calcined-flint panels.",
+  "status": "photo",
+  "commons_category": "Category:Civic Centre, Swansea",
+  "photos": [
+   {
+    "file": "File:Civic Centre, Swansea, view of south facade.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Swansea county hall.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swansea_Civic_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Civic_Centre,_Swansea"
+  ],
+  "note": ""
+ },
+ {
+  "id": "peace-bridge-derry",
+  "name": "Peace Bridge (Foyle)",
+  "by": "AECOM and Wilkinson Eyre",
+  "city": "Derry",
+  "cc": "GB",
+  "year": "2011",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Asymmetrical self-anchored suspension bridge for cyclists and pedestrians, supported by two sloping pillars.",
+  "status": "photo",
+  "commons_category": "Category:Peace Bridge (Foyle)",
+  "photos": [
+   {
+    "file": "File:Peace Bridge, Derry 01.jpg",
+    "license": "CC BY-SA 4.0"
+   },
+   {
+    "file": "File:Peace Bridge River Foyle (42115616911).jpg",
+    "license": "CC BY 2.0"
+   },
+   {
+    "file": "File:Peace bridge Derry 2012.jpg",
+    "license": "Public domain"
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peace_Bridge_(Foyle)",
+   "https://commons.wikimedia.org/wiki/Category:Peace_Bridge_(Foyle)"
+  ],
+  "note": ""
  }
 ]
