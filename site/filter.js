@@ -143,7 +143,7 @@
     const want = fold(name);
     let url = '';
     for (const b of ALL) {
-      if (b.arch !== name) continue;
+      if (!b.arch.includes(name)) continue;
       for (const q of ARCH.buildings[b.id] || []) {
         const p = ARCH.people[q], got = p && fold(p.name);
         if (p && p.thumb && got && (want.includes(got) || got.includes(want))) { url = p.thumb; break; }
@@ -195,6 +195,9 @@
     const label = (k, v) => k === 'country' ? DA.countryName(v) : v;
     ['concepts', 'type', 'movement', 'region', 'country', 'arch'].forEach(k => F[k].forEach(v => chips.push(`<button type="button" class="fp-chip" data-rm="${k}" data-v="${esc(v)}" aria-label="Remove ${esc(label(k, v))}">${esc(label(k, v))} ×</button>`)));
     if (state.decades) chips.push(`<button type="button" class="fp-chip" data-rm="decades" aria-label="Remove the date range">${rangeLabel(state.decades)} ×</button>`);
+    // Words in the wall's search box narrow every count here too, so they show as a chip that can be removed.
+    const words = $('q').value.trim();
+    if (state.q && words) chips.push(`<button type="button" class="fp-chip" data-rm="q" aria-label="Remove the search ${esc(words)}">“${esc(words)}” ×</button>`);
     const hits = ALL.filter(b => DA.matches(b));
     let also = '';
     if (F.concepts.size) {
@@ -239,6 +242,7 @@
     const set = F[k];
     set.has(v) ? set.delete(v) : set.add(v);
   }
+  function clearSearch() { state.q = ''; $('q').value = ''; }
   function setRange(lo, hi) { state.decades = lo === 0 && hi === 15 ? null : [Math.min(lo, hi), Math.max(lo, hi)]; }
 
   panel.addEventListener('click', e => {
@@ -246,7 +250,7 @@
     if (!t) return;
     if (t.dataset.close != null) { DA.close(); return; }
     if (t.dataset.show != null) { DA.close(); return; }
-    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; changed(); return; }
+    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; clearSearch(); changed(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; refresh(true); panel.querySelector('.fp-body').scrollTop = 0; return; }
     if (t.dataset.letter) { ui.letter = t.dataset.letter; refresh(true); return; }
     if (t.dataset.period) { toggle('period', t.dataset.period); changed(); return; }
@@ -257,7 +261,7 @@
       else setRange(i < d[0] ? i : d[0], i > d[1] ? i : i < d[0] ? d[1] : i);
       changed(); return;
     }
-    if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
+    if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else if (t.dataset.rm === 'q') clearSearch(); else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
     if (t.dataset.k) {
       const k = t.dataset.k, v = t.dataset.v;
       if (t.classList.contains('fp-found')) {   // from the search list: add it and jump to its tab

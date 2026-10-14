@@ -31,12 +31,12 @@
   const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
   const GROUPS = [{ key: 'concepts', all: true }, { key: 'type' }, { key: 'movement' }, { key: 'region' }, { key: 'country' }, { key: 'arch' }];
-  // Fields the filter panel uses: country code, first credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
+  // Fields the filter panel uses: country code, every credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
   const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
   ALL.forEach(b => {
     const c = b.place.split(', ').pop();
     b.country = CODE_FIX[c] || c;
-    b.arch = b.by.split(',')[0].trim();
+    b.arch = b.by.split(',').map(s => s.trim());
     b.decade = b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1);
   });
 
@@ -641,12 +641,16 @@
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));
-  // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
+  // "See all" for an architect chooses them in the Architect filter, so the filter panel can still swap or add architects
+  // (a name no building credits falls back to a search); "All" for a typology filters by it.
   function showOnWall(arch, type) {
     setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     if (type) state.filters.type.add(type);
-    $('q').value = arch || ''; state.q = fold(arch || '');
+    const known = arch && ALL.some(b => b.arch.includes(arch));
+    if (known) state.filters.arch.add(arch);
+    const text = known ? '' : arch || '';
+    $('q').value = text; state.q = fold(text);
     closeBuilding(); refreshFilters(); render(true);
   }
   // The books wall, searched for a word or narrowed to one shelf.
