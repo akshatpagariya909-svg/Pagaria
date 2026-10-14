@@ -1,15 +1,15 @@
 [
  {
   "type": "Museum",
-  "buildings": 572
+  "buildings": 573
  },
  {
   "type": "Culture & sport",
-  "buildings": 473
+  "buildings": 474
  },
  {
   "type": "Religious",
-  "buildings": 307
+  "buildings": 308
  },
  {
   "type": "Office & tower",
@@ -21,11 +21,11 @@
  },
  {
   "type": "Housing",
-  "buildings": 227
+  "buildings": 228
  },
  {
   "type": "House",
-  "buildings": 201
+  "buildings": 202
  },
  {
   "type": "Infrastructure",
@@ -45,7 +45,7 @@
  },
  {
   "type": "Memorial",
-  "buildings": 105
+  "buildings": 106
  },
  {
   "type": "Hospitality",

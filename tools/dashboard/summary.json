@@ -1,10 +1,10 @@
 [
  {
-  "buildings": 3374,
-  "with_photo": 3299,
+  "buildings": 3380,
+  "with_photo": 3305,
   "drawing_cover": 74,
-  "with_links": 3056,
-  "links": 7878,
+  "with_links": 3061,
+  "links": 7888,
   "portraits": 591,
   "with_face": 1658,
   "pritzker_buildings": 640,
@@ -15,6 +15,6 @@
   "study_images": 517,
   "with_study": 414,
   "books": 695,
-  "updated": "2026-10-14T17:34Z"
+  "updated": "2026-10-14T19:41Z"
  }
 ]
