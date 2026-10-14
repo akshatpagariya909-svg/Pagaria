@@ -571,6 +571,50 @@
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  },
  {
+  "id": "hua-lamphong-railway-station",
+  "name": "Hua Lamphong Railway Station",
+  "by": "Mario Tamagno and Annibale Rigotti",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "1916",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Italian neo-Renaissance station with decorated wooden roofs and stained glass windows.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Bangkok Railway Station",
+  "photos": [
+   {
+    "file": "File:0005512 - Hua Lamphong Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Bangkok Railway Station 07.23.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:0026-หัวลำโพง.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hua_Lamphong_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Bangkok_Railway_Station"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
   "id": "ananta-samakhom-throne-hall",
   "name": "Ananta Samakhom Throne Hall",
   "by": "Mario Tamagno and Annibale Rigotti",
@@ -611,6 +655,50 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ananta_Samakhom_Throne_Hall",
    "https://commons.wikimedia.org/wiki/Category:Ananta_Samakhom_Throne_Hall"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "sala-chalermkrung-royal-theatre",
+  "name": "Sala Chalermkrung Royal Theatre",
+  "by": "Prince Samaichaloem Kridakorn",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "1933",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Detail"
+  ],
+  "features": "Modernist cinema-theatre with a neon-lit front facade billed as the largest in Asia.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Sala Chaloem Krung",
+  "photos": [
+   {
+    "file": "File:0015-Sala Chalermkrung Royal Theatre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:0015-Sala Chalermkrung Royal Theatre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sala Chaloem Krung, BKK.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sala_Chalermkrung_Royal_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Sala_Chaloem_Krung"
   ],
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  },
@@ -742,6 +830,138 @@
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  },
  {
+  "id": "democracy-monument-bangkok",
+  "name": "Democracy Monument",
+  "by": "Mom Luang Phum Malakul and Chitrasen Aphaiwong",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": "1940",
+  "type": "Memorial",
+  "movement": "Art Deco",
+  "concepts": [
+   "Axis",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Four 24 m wing-like pylons, 24 m for the date of the 1932 coup, guard the constitution.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Democracy Monument (Bangkok)",
+  "photos": [
+   {
+    "file": "File:008-Democracy Monument.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:009-Democracy Monument.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:010-Democracy Monument.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Democracy_Monument",
+   "https://commons.wikimedia.org/wiki/Category:Democracy_Monument_(Bangkok)"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "baan-dam-museum",
+  "name": "Baan Dam Museum (Black House)",
+  "by": "Thawan Duchanee",
+  "city": "Chiang Rai",
+  "cc": "TH",
+  "year": "1996",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Lanna-style buildings with steeply pitched tiered roofs mixed with unconventional contemporary structures.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Black House Museum, Chiang Rai",
+  "photos": [
+   {
+    "file": "File:012 Main Building (9214520250).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baan Dam.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:001 Triple Building (9211792183).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baan_Dam_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Black_House_Museum,_Chiang_Rai"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "ho-chi-minh-city-hall",
+  "name": "Ho Chi Minh City Hall",
+  "by": "Fernand Gardès",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "1908",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Central clock tower inspired by Paris's town hall; Corinthian columns, Renaissance, Baroque and Beaux-Arts styling.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:People's Committee Building of Ho Chi Minh City",
+  "photos": [
+   {
+    "file": "File:20190923 Ho Chi Minh City Hall-1.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:20190923 Ho Chi Minh City Hall-8.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:2024-11-16 Ho Chi Minh City Hall.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:People's_Committee_Building_of_Ho_Chi_Minh_City"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
   "id": "saigon-central-post-office",
   "name": "Saigon Central Post Office",
   "by": "Alfred Foulhoux",
@@ -777,6 +997,50 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Saigon_Central_Post_Office",
    "https://commons.wikimedia.org/wiki/Category:Saigon_Central_Post_Office"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "saigon-opera-house",
+  "name": "Saigon Opera House",
+  "by": "Félix Olivier",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "year": "1900",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Flamboyant Third Republic style, with a facade modelled on the Petit Palais in Paris.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Municipal Theatre of Ho Chi Minh City",
+  "photos": [
+   {
+    "file": "File:Ho Chi Minh City Opera House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:2023-12-10 Saigon Opera House (Nhà hát Thành phố, Sài Gòn) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Another view of the Opera House (3158084517).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Opera_House",
+   "https://commons.wikimedia.org/wiki/Category:Municipal_Theatre_of_Ho_Chi_Minh_City"
   ],
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  },
@@ -1606,6 +1870,50 @@
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  },
  {
+  "id": "ust-main-building",
+  "name": "University of Santo Tomas Main Building",
+  "by": "Roque Ruaño",
+  "city": "Manila",
+  "cc": "PH",
+  "year": "1927",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Structure as expression",
+   "Prefabrication"
+  ],
+  "features": "Built as 40 independent structures linked by pre-cast flooring, round two interior courtyards, on an 86 x 74 m plan.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Main Building (University of Santo Tomas)",
+  "photos": [
+   {
+    "file": "File:UST Main Building in 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:UST Main Building, Apr 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:A Serene View of UST Main Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Santo_Tomas_Main_Building",
+   "https://commons.wikimedia.org/wiki/Category:Main_Building_(University_of_Santo_Tomas)"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
   "id": "commercial-bank-and-trust-company-building",
   "name": "Commercial Bank and Trust Company Building",
   "by": "José María Zaragoza",
@@ -1646,6 +1954,133 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Commercial_Bank_and_Trust_Company_Building",
    "https://commons.wikimedia.org/wiki/Category:Commercial_Bank_and_Trust_Company_Building"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "manila-cathedral",
+  "name": "Manila Cathedral",
+  "by": "Fernando Ocampo",
+  "city": "Manila",
+  "cc": "PH",
+  "year": "1958",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Stone"
+  ],
+  "features": "Latin-cross plan with a Neo-Romanesque facade replicating that of the previous cathedral.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Manila Cathedral",
+  "photos": [
+   {
+    "file": "File:Manila Cathedral at Intramuros.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manila Cathedral at Intramuros CNE 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manila_Cathedral",
+   "https://commons.wikimedia.org/wiki/Category:Manila_Cathedral"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "yangon-city-hall",
+  "name": "Yangon City Hall",
+  "by": "U Tin",
+  "city": "Yangon",
+  "cc": "MM",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Axis",
+   "Timber"
+  ],
+  "features": "Syncretic blend of Burmese and European styles, with traditional tiered pyatthat roofs.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Yangon City Hall",
+  "photos": [
+   {
+    "file": "File:Impressive View of Yangon City Hall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:DSC 6351-01-01 Yangon Cityhall.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Yangon city hall - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yangon_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Yangon_City_Hall"
+  ],
+  "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
+ },
+ {
+  "id": "high-court-building-yangon",
+  "name": "Yangon High Court Building",
+  "by": "James Ransome",
+  "city": "Yangon",
+  "cc": "MM",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Red-brick Indo-Saracenic building with a clock tower.",
+  "award": "Southeast Asia list",
+  "status": "photo",
+  "commons_category": "Category:Former Burmese High Court",
+  "photos": [
+   {
+    "file": "File:High Court Burma1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:High Court building - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:02f-Former Burmese High Court (NgnL)-09794.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/High_Court_Building_(Yangon)",
+   "https://commons.wikimedia.org/wiki/Category:Former_Burmese_High_Court"
   ],
   "note": "Photos picked from the Commons category by file name and size; thumbnails could not be opened in this session, so none is marked seen."
  }
