@@ -1356,5 +1356,255 @@
    "https://en.wikipedia.org/wiki/Olympic_Stadium_(Amsterdam)"
   ],
   "note": "Only two clear exterior photos in the file search; check the second (pos 0) shows this stadium."
+ },
+ {
+  "id": "silodam-amsterdam",
+  "name": "Silodam",
+  "by": "MVRDV",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2003",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Cluster",
+   "Water"
+  ],
+  "features": "Housing and mixed-use complex on a former breakwater beside the 1890s Stone Silo; 95 homes in a container-like stack.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Amsterdam - Silodam (29669318103).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Silodam (30214297661).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Silodam (29669349363).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Silodam (30300083435).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silodam"
+  ],
+  "note": ""
+ },
+ {
+  "id": "oba-central-library-amsterdam",
+  "name": "OBA Central Library (Oosterdok)",
+  "by": "Jo Coenen",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": "2007",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Circulation",
+   "Community"
+  ],
+  "features": "Ten-floor, 28,500 m² central library beside Amsterdam Centraal, with a restaurant terrace on the seventh floor.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Amsterdam - Openbare Bibliotheek (30299606315).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Openbare Bibliotheek (30213915741).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam - Openbare Bibliotheek (30184054092).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:750-slinger OBA 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Openbare_Bibliotheek_Amsterdam"
+  ],
+  "note": "Photos show parts of the façade (close views); no full-building shot in the first 30 search results."
+ },
+ {
+  "id": "rotterdam-centraal-station",
+  "name": "Rotterdam Centraal station",
+  "by": "Team CS (Benthem Crouwel, MVSA, West 8)",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Station rebuilt from 2004 by Team CS around Station Square; opened March 2014.",
+  "status": "unsure",
+  "commons_category": "Category:Rotterdam Central station",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rotterdam_Centraal_station"
+  ],
+  "note": "no free photo: Commons category has only interior and signage shots plus one partial view."
+ },
+ {
+  "id": "wiels-brussels",
+  "name": "Wiels (Blomme building)",
+  "by": "Adrien Blomme",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1931",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Former Wielemans-Ceuppens brewery, one of few modernist industrial buildings in Belgium; art centre since 2007.",
+  "status": "unsure",
+  "commons_category": "Category:WIELS",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiels"
+  ],
+  "note": "no free photo: the Commons category holds only logos and portraits."
+ },
+ {
+  "id": "concertgebouw-bruges",
+  "name": "Concertgebouw Brugge",
+  "by": "Paul Robbrecht and Hilde Daem",
+  "city": "Bruges",
+  "cc": "BE",
+  "year": "2002",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Light & shadow"
+  ],
+  "features": "Façades of thousands of red terracotta tiles from Saint-Omer; glass Lantern Tower; built on 4,669 poles.",
+  "status": "unsure",
+  "commons_category": "Category:Concertgebouw (Brugge)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Concertgebouw,_Bruges"
+  ],
+  "note": "no free photo: category has concert-hall interiors and one wall detail only."
+ },
+ {
+  "id": "museum-boijmans-van-beuningen-1935",
+  "name": "Museum Boijmans Van Beuningen (1935 building)",
+  "by": "Adriaan van der Steur",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": "1935",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Human comfort",
+   "Circulation"
+  ],
+  "features": "Built 1931-35 by the city architect as 'a background for the artworks'.",
+  "status": "unsure",
+  "commons_category": "Category:Museum Boijmans Van Beuningen",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_Boijmans_Van_Beuningen"
+  ],
+  "note": "no usable exterior in the first 50 files of the category (artworks and documents)."
+ },
+ {
+  "id": "belgian-comic-strip-center-brussels",
+  "name": "Belgian Comic Strip Center (Magasins Waucquez)",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1906",
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "Art Nouveau fabric store of 1906, later restored as a museum of Belgian comics.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Belgian_Comic_Strip_Center"
+  ],
+  "note": "one exterior façade photo found but not confirmed to be this building; no other exterior."
+ },
+ {
+  "id": "old-england-musical-instruments-museum",
+  "name": "Old England building (Musical Instruments Museum)",
+  "by": "Paul Saintenoy",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": "1899",
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Adaptive reuse"
+  ],
+  "features": "Art Nouveau department store of girded steel and glass, now the Musical Instruments Museum.",
+  "status": "unsure",
+  "commons_category": "Category:Musical Instrument Museum, Brussels",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Musical_Instruments_Museum,_Brussels"
+  ],
+  "note": "no free exterior photo found: category files are instruments."
  }
 ]
