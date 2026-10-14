@@ -2203,5 +2203,197 @@
    "https://commons.wikimedia.org/wiki/Category:Winn_Memorial_Library"
   ],
   "note": ""
+ },
+ {
+  "id": "blue-cross-blue-shield-building-chicago",
+  "name": "Blue Cross-Blue Shield Building",
+  "by": "C. F. Murphy Associates",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Brutalist headquarters at 55 West Wacker Drive in the Loop, opened 1968.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:55 West Wacker Drive by Matthew Bisanz.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blue_Cross-Blue_Shield_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "inland-steel-building",
+  "name": "Inland Steel Building",
+  "by": "Bruce Graham & Walter Netsch (Skidmore, Owings & Merrill)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1958",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "332-foot International Style tower, one of the first Loop skyscrapers after World War II.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Inland Steel Building 2007 05 21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inland_Steel_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "kluczynski-federal-building",
+  "name": "John C. Kluczynski Federal Building",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "45-storey tower completing the Federal Center, with Mies's post office and plaza.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Chicago Federal Center.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kluczynski_Federal_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "reliance-building",
+  "name": "Reliance Building",
+  "by": "John Root & Charles B. Atwood",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1895",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "The first skyscraper with large plate-glass windows over most of its surface.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Reliance Building in September 2015.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reliance_Building"
+  ],
+  "note": ""
+ },
+ {
+  "id": "richard-j-daley-center",
+  "name": "Richard J. Daley Center",
+  "by": "Jacques Brownson (C. F. Murphy Associates)",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Modernist courthouse tower beside an open granite plaza used for gatherings.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Daley Center Chicago.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richard_J._Daley_Center"
+  ],
+  "note": ""
+ },
+ {
+  "id": "rookery-building",
+  "name": "Rookery Building",
+  "by": "Burnham & Root",
+  "city": "Chicago",
+  "cc": "US",
+  "year": "1888",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Detail"
+  ],
+  "features": "Considered the oldest standing high-rise in Chicago; load-bearing exterior walls.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Rookery, Chicago, IL.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rookery_Building"
+  ],
+  "note": ""
  }
 ]
