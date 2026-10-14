@@ -1,0 +1,331 @@
+[
+ {
+  "id": "kocatepe-mosque",
+  "name": "Kocatepe Mosque",
+  "by": "Hüsrev Tayla, M. Fatin Uluengin",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Geometry"
+  ],
+  "features": "Neo-classical Ottoman design inspired by the Selimiye Mosque, with four 88 m minarets.",
+  "status": "photo",
+  "commons_category": "Category:Kocatepe Mosque",
+  "photos": [
+   {
+    "file": "File:Ankara camii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kocatepe_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Kocatepe_Mosque"
+  ],
+  "note": "Article lead image is Free Art License so not used; only qualifying file in category, title 'Ankara camii' - confirm it is the exterior."
+ },
+ {
+  "id": "canakkale-martyrs-memorial",
+  "name": "Çanakkale Martyrs' Memorial",
+  "by": "Doğan Erginbaş, İsmail Utkular, Ertuğrul Barla",
+  "city": "Gelibolu, Çanakkale",
+  "cc": "TR",
+  "year": "1960",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Four 7.5 m square columns carry a 25 by 25 m concrete slab.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Onderkokturk-canakkale01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Çanakkale_Martyrs'_Memorial"
+  ],
+  "note": "Lead image of en.wikipedia article (description 'Gallipoli Peninsula Historical Site'). Year = opening (main structure finished 1958)."
+ },
+ {
+  "id": "ankara-ethnography-museum",
+  "name": "Ankara Ethnography Museum",
+  "by": "Arif Hikmet Koyunoğlu",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1928",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Designed by Arif Hikmet Koyunoğlu and built between 1925 and 1928.",
+  "status": "unsure",
+  "commons_category": "Category:Ethnography Museum of Ankara",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ankara_Ethnography_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Ethnography_Museum_of_Ankara"
+  ],
+  "note": "no free photo. No free photo found directly in the category (files are in per-year subcategories; not checked). Article gives no features beyond architect and dates; features line and concepts are thin."
+ },
+ {
+  "id": "ankara-palas",
+  "name": "Ankara Palas",
+  "by": "Vedat Tek, Mimar Kemaleddin",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1928",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Symmetrical two-storey building with a domed central entrance flanked by twin towers.",
+  "status": "photo",
+  "commons_category": "Category:Ankara Palas",
+  "photos": [
+   {
+    "file": "File:Ankara Palas (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ankara_Palas",
+   "https://commons.wikimedia.org/wiki/Category:Ankara_Palas"
+  ],
+  "note": "Only >=1200px file in category; description is just the title, so identity from category. Lead image is 800px."
+ },
+ {
+  "id": "istanbul-archaeology-museums",
+  "name": "Istanbul Archaeology Museums",
+  "by": "Alexandre Vallaury",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1891",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Facade inspired by the Alexander Sarcophagus and Sarcophagus of the Mourning Women.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Istanbularcheology.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "haydarpasa-terminal",
+  "name": "Haydarpaşa Terminal",
+  "by": "Otto Ritter, Helmut Conu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Water"
+  ],
+  "features": "Neo-classical station on land reclaimed from the sea, resting on 1,100 wooden piles.",
+  "status": "photo",
+  "commons_category": "Category:Haydarpaşa Terminal",
+  "photos": [
+   {
+    "file": "File:Haydarpaşa Garı.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Haydarpaşa Garı-2.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haydarpaşa_Terminal",
+   "https://commons.wikimedia.org/wiki/Category:Haydarpaşa_Terminal"
+  ],
+  "note": "file in the building's own Commons category (description 'Haydarpaşa Train Station, 2014')."
+ },
+ {
+  "id": "sirkeci-terminal",
+  "name": "Sirkeci Terminal",
+  "by": "August Jasmund",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1890",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "Orientalist terminal building with gas lighting and heating from large tile stoves.",
+  "status": "photo",
+  "commons_category": "Category:Sirkeci Terminal",
+  "photos": [
+   {
+    "file": "File:Sirkeci Terminal.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Entrance to Sirkeci train station (15766069588).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sirkeci_Terminal",
+   "https://commons.wikimedia.org/wiki/Category:Sirkeci_Terminal"
+  ],
+  "note": "file in the building's own Commons category (descriptions name Sirkeci)."
+ },
+ {
+  "id": "dolmabahce-palace",
+  "name": "Dolmabahçe Palace",
+  "by": "Garabet Balyan, Nigoğayos Balyan, Evanis Kalfa",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1853",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Water",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Eclectic Baroque, Rococo and Neoclassical design with a European two-wing plan seen from the Bosphorus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Dolmabahce Istanbul Turkey.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dolmabahçe_Palace"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Dolmabahçe Palace seen from Bosphorus')."
+ },
+ {
+  "id": "istanbul-airport",
+  "name": "Istanbul Airport",
+  "by": "Grimshaw Architects, Nordic Office of Architecture, Haptic Architects",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2018",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Control tower shaped like a tulip; first-stage terminal covers about 1.44 million square metres.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:İstanbul Yeni Havalimanı airport Dec 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Airport"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'main building'). Judgement call whether it counts as an ordinary type."
+ },
+ {
+  "id": "sehzade-mosque",
+  "name": "Şehzade Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1548",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Square plan under a central dome flanked by four half-domes; richly carved twin minarets.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sehzade camisi.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Şehzade_Mosque"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ }
+]
