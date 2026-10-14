@@ -1,0 +1,3353 @@
+[
+ {
+  "id": "kocatepe-mosque",
+  "name": "Kocatepe Mosque",
+  "by": "Hüsrev Tayla, M. Fatin Uluengin",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Geometry"
+  ],
+  "features": "Neo-classical Ottoman design inspired by the Selimiye Mosque, with four 88 m minarets.",
+  "status": "photo",
+  "commons_category": "Category:Kocatepe Mosque",
+  "photos": [
+   {
+    "file": "File:Ankara camii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kocatepe_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Kocatepe_Mosque"
+  ],
+  "note": "Article lead image is Free Art License so not used; only qualifying file in category, title 'Ankara camii' - confirm it is the exterior."
+ },
+ {
+  "id": "canakkale-martyrs-memorial",
+  "name": "Çanakkale Martyrs' Memorial",
+  "by": "Doğan Erginbaş, İsmail Utkular, Ertuğrul Barla",
+  "city": "Gelibolu, Çanakkale",
+  "cc": "TR",
+  "year": "1960",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Four 7.5 m square columns carry a 25 by 25 m concrete slab.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Onderkokturk-canakkale01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Çanakkale_Martyrs'_Memorial"
+  ],
+  "note": "Lead image of en.wikipedia article (description 'Gallipoli Peninsula Historical Site'). Year = opening (main structure finished 1958)."
+ },
+ {
+  "id": "ankara-ethnography-museum",
+  "name": "Ankara Ethnography Museum",
+  "by": "Arif Hikmet Koyunoğlu",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1928",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Designed by Arif Hikmet Koyunoğlu and built between 1925 and 1928.",
+  "status": "unsure",
+  "commons_category": "Category:Ethnography Museum of Ankara",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ankara_Ethnography_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Ethnography_Museum_of_Ankara"
+  ],
+  "note": "no free photo. No free photo found directly in the category (files are in per-year subcategories; not checked). Article gives no features beyond architect and dates; features line and concepts are thin."
+ },
+ {
+  "id": "ankara-palas",
+  "name": "Ankara Palas",
+  "by": "Vedat Tek, Mimar Kemaleddin",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1928",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Symmetrical two-storey building with a domed central entrance flanked by twin towers.",
+  "status": "photo",
+  "commons_category": "Category:Ankara Palas",
+  "photos": [
+   {
+    "file": "File:Ankara Palas (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ankara_Palas",
+   "https://commons.wikimedia.org/wiki/Category:Ankara_Palas"
+  ],
+  "note": "Only >=1200px file in category; description is just the title, so identity from category. Lead image is 800px."
+ },
+ {
+  "id": "istanbul-archaeology-museums",
+  "name": "Istanbul Archaeology Museums",
+  "by": "Alexandre Vallaury",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1891",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Facade inspired by the Alexander Sarcophagus and Sarcophagus of the Mourning Women.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Istanbularcheology.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "haydarpasa-terminal",
+  "name": "Haydarpaşa Terminal",
+  "by": "Otto Ritter, Helmut Conu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Water"
+  ],
+  "features": "Neo-classical station on land reclaimed from the sea, resting on 1,100 wooden piles.",
+  "status": "photo",
+  "commons_category": "Category:Haydarpaşa Terminal",
+  "photos": [
+   {
+    "file": "File:Haydarpaşa Garı.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Haydarpaşa Garı-2.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haydarpaşa_Terminal",
+   "https://commons.wikimedia.org/wiki/Category:Haydarpaşa_Terminal"
+  ],
+  "note": "file in the building's own Commons category (description 'Haydarpaşa Train Station, 2014')."
+ },
+ {
+  "id": "sirkeci-terminal",
+  "name": "Sirkeci Terminal",
+  "by": "August Jasmund",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1890",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "Orientalist terminal building with gas lighting and heating from large tile stoves.",
+  "status": "photo",
+  "commons_category": "Category:Sirkeci Terminal",
+  "photos": [
+   {
+    "file": "File:Sirkeci Terminal.jpg",
+    "license": "CC0",
+    "seen": false
+   },
+   {
+    "file": "File:Entrance to Sirkeci train station (15766069588).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sirkeci_Terminal",
+   "https://commons.wikimedia.org/wiki/Category:Sirkeci_Terminal"
+  ],
+  "note": "file in the building's own Commons category (descriptions name Sirkeci)."
+ },
+ {
+  "id": "dolmabahce-palace",
+  "name": "Dolmabahçe Palace",
+  "by": "Garabet Balyan, Nigoğayos Balyan, Evanis Kalfa",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1853",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Water",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Eclectic Baroque, Rococo and Neoclassical design with a European two-wing plan seen from the Bosphorus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Dolmabahce Istanbul Turkey.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dolmabahçe_Palace"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Dolmabahçe Palace seen from Bosphorus')."
+ },
+ {
+  "id": "istanbul-airport",
+  "name": "Istanbul Airport",
+  "by": "Grimshaw Architects, Nordic Office of Architecture, Haptic Architects",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2018",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Control tower shaped like a tulip; first-stage terminal covers about 1.44 million square metres.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:İstanbul Yeni Havalimanı airport Dec 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Airport"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'main building'). Judgement call whether it counts as an ordinary type."
+ },
+ {
+  "id": "sehzade-mosque",
+  "name": "Şehzade Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1548",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Square plan under a central dome flanked by four half-domes; richly carved twin minarets.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sehzade camisi.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Şehzade_Mosque"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "rustem-pasha-mosque",
+  "name": "Rüstem Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1563",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Iznik tiles cover almost every vertical surface; plan is an octagon inscribed in a rectangle.",
+  "status": "photo",
+  "commons_category": "Category:Rüstem Pasha Mosque",
+  "photos": [
+   {
+    "file": "File:Rüstem Paşa Camii Karaköy vapurundan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rüstem_Pasha_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Rüstem_Pasha_Mosque"
+  ],
+  "note": "Exterior view from Karaköy ferry per category listing; file name reconstructed from API output, verify exact name. Lead image is only 480x640."
+ },
+ {
+  "id": "mihrimah-sultan-mosque-edirnekapi",
+  "name": "Mihrimah Sultan Mosque, Edirnekapı",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1570",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Vault"
+  ],
+  "features": "A cube topped by a half-sphere, with so many windows it is one of Sinan's lightest interiors.",
+  "status": "photo",
+  "commons_category": "Category:Mihrimah Mosque (Edirnekapı)",
+  "photos": [
+   {
+    "file": "File:Istanbul - Mesquita de Mihrimah.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mihrimah Mosque (Edirnekapı) in January 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mihrimah_Sultan_Mosque_(Edirnekapı)",
+   "https://commons.wikimedia.org/wiki/Category:Mihrimah_Mosque_(Edirnekapı)"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Whole view of the mosque' / 'Mosque exterior')."
+ },
+ {
+  "id": "divrigi-great-mosque-and-hospital",
+  "name": "Divriği Great Mosque and Hospital",
+  "by": "Khurramshāh ibn Mughīth al-Khilātī",
+  "city": "Divriği, Sivas",
+  "cc": "TR",
+  "year": "1229",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Main north portal celebrated for its dense high-relief stone carving.",
+  "status": "photo",
+  "commons_category": "Category:Divriği Great Mosque and Hospital",
+  "photos": [
+   {
+    "file": "File:Divriği Ulu Camii ve Darüşşifası 2016-05-26 19.59.14 1791825509.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sivas Divriği Cami.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Divri%C4%9Fi_Great_Mosque_and_Hospital",
+   "https://commons.wikimedia.org/wiki/Category:Divriği_Great_Mosque_and_Hospital"
+  ],
+  "note": "file in the building's own Commons category (WLM Turkey upload). Lead image is only 1024px."
+ },
+ {
+  "id": "hagia-sophia",
+  "name": "Hagia Sophia",
+  "by": "Isidore of Miletus, Anthemius of Tralles",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "537",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Light from above",
+   "Monumentality"
+  ],
+  "features": "One of the first buildings with a fully pendentive dome, about 33 m across after rebuilding.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hagia Sophia (228968325).jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "blue-mosque",
+  "name": "Sultan Ahmed Mosque (Blue Mosque)",
+  "by": "Sedefkar Mehmed Agha",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1617",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Central dome surrounded by four semi-domes, each flanked by three smaller ones; six minarets.",
+  "status": "photo",
+  "commons_category": "Category:Sultan Ahmed I Mosque",
+  "photos": [
+   {
+    "file": "File:Blue Mosque (Sultanahmet Mosque).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Istanbul's Blue Mosque from the courtyard.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Sultan_Ahmed_I_Mosque"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Blue Mosque'). Article lead image not available via pageimages."
+ },
+ {
+  "id": "green-mosque-bursa",
+  "name": "Green Mosque, Bursa",
+  "by": "Hacı İvaz Pasha",
+  "city": "Bursa",
+  "cc": "TR",
+  "year": "1420",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Cube-shaped two-storey building on an inverted T plan with a white marble fountain under the central dome.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bursa Yeşil Camii - Green Mosque (35).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_Mosque,_Bursa"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Green Mosque of Bursa'). Year: inscription says completed Dec 1419/Jan 1420; infobox says 1424."
+ },
+ {
+  "id": "grand-mosque-of-bursa",
+  "name": "Grand Mosque of Bursa",
+  "by": "Ali Neccar",
+  "city": "Bursa",
+  "cc": "TR",
+  "year": "1399",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Interior covered by twenty domes in four rows of five on twelve columns, with a central fountain.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:71 Bursa la Grande Moschea (Edited).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bursa"
+  ],
+  "note": "lead image of the en.wikipedia article (skyline view of the mosque)."
+ },
+ {
+  "id": "camlica-mosque",
+  "name": "Çamlıca Mosque",
+  "by": "Bahar Mızrak, Hayriye Gül Totu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2019",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Large box attached to a colonnaded courtyard, with a squat central dome and six minarets.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Camlica-2018-06-14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Çamlıca_Mosque"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Çamlıca Republic Mosque as seen from the Bosporus')."
+ },
+ {
+  "id": "troy-museum",
+  "name": "Troy Museum",
+  "by": "Yalın Mimarlık",
+  "city": "Çanakkale",
+  "cc": "TR",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Earth & local material"
+  ],
+  "features": "Four-storey cube clad in rust-coloured weathering steel, as tall as the excavation is deep.",
+  "status": "photo",
+  "commons_category": "Category:Troy Museum",
+  "photos": [
+   {
+    "file": "File:Troy Museum 0079.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Troy Museum 0002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Troy_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Troy_Museum"
+  ],
+  "note": "file in the building's own Commons category (description names the weathering-steel cube exterior). Lead image is a logo."
+ },
+ {
+  "id": "beylerbeyi-palace",
+  "name": "Beylerbeyi Palace",
+  "by": "Sarkis Balyan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1865",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Water",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Simpler than Dolmabahçe; two bathing pavilions are best seen from the Bosphorus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beylerbeyi Palace (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beylerbeyi_Palace"
+  ],
+  "note": "lead image of the en.wikipedia article."
+ },
+ {
+  "id": "atakule",
+  "name": "Atakule",
+  "by": "Ragıp Buluç",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1989",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Tower with a revolving restaurant that turns 360 degrees in one hour.",
+  "status": "photo",
+  "commons_category": "Category:Atakule",
+  "photos": [
+   {
+    "file": "File:Botanik Parkı ve Atakule, 2019 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Ankara Atakule tower in 2006 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atakule",
+   "https://commons.wikimedia.org/wiki/Category:Atakule"
+  ],
+  "note": "Lead image is Free Art License so not used; chosen from category (description 'Tower designed by architect Ragıp Buluç; built 1987–1989')."
+ },
+ {
+  "id": "tcdd-general-headquarters-ankara",
+  "name": "TCDD General Headquarters Building",
+  "by": "Bedri Uçar",
+  "city": "Ankara",
+  "cc": "TR",
+  "year": "1941",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Wide steps to the main entrance; colonnade marble from Bilecik and Hereke matches the stone.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/TCDD_General_Headquarters_Building"
+  ],
+  "note": "no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture)."
+ },
+ {
+  "id": "gok-medrese-sivas",
+  "name": "Gök Medrese, Sivas",
+  "by": "Kaloyan",
+  "city": "Sivas",
+  "cc": "TR",
+  "year": "1271",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Stone"
+  ],
+  "features": "Two 25 m minarets flank the portal; sky-blue tiles give the 'Blue Madrasah' its name.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Gök Medrese.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gök_Medrese,_Sivas"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Gök Medrese')."
+ },
+ {
+  "id": "istanbul-university-faculty-of-arts-and-sciences",
+  "name": "Istanbul University Faculty of Arts and Sciences Building",
+  "by": "Sedad Hakkı Eldem, Emin Halid Onat",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1944",
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "Stone-faced arcades and colonnades; second national era of Turkish architecture, Paul Bonatz advising.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faculty_of_Arts_and_Sciences_Building,_Istanbul_University"
+  ],
+  "note": "no free photo. No lead image; Commons category search found nothing. Not photo-checked further."
+ },
+ {
+  "id": "istanbul-grand-post-office",
+  "name": "Istanbul Grand Post Office",
+  "by": "Vedat Tek",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1909",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Light from above",
+   "Axis"
+  ],
+  "features": "Atrium topped by orange and blue glass; 16th-century classical Ottoman ornament throughout.",
+  "status": "photo",
+  "commons_category": "Category:Grand Post Office, Istanbul",
+  "photos": [
+   {
+    "file": "File:GrandPostOfficeIstanbul01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Grand Post Office, Istanbul in 2024 6472.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Post_Office",
+   "https://commons.wikimedia.org/wiki/Category:Grand_Post_Office,_Istanbul"
+  ],
+  "note": "file in the building's own Commons category (descriptions 'Exterior of the Grand Post Office Building'). Article lead image is a general Istanbul view, not used."
+ },
+ {
+  "id": "istanbul-lutfi-kirdar-convention-center",
+  "name": "Istanbul Lütfi Kırdar Convention and Exhibition Center",
+  "by": "Paolo Vietti-Violi, Şinasi Şahingiray, Fazıl Aysu",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1949",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Opened 1949 as the country's only indoor sports and exhibition hall; extended underground in 2009.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lütfi Kırdar Convention and Exhibition Center.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istanbul_Lütfi_Kırdar_International_Convention_and_Exhibition_Center"
+  ],
+  "note": "lead image of the en.wikipedia article (description 'Main building'). Year = opening; movement is a judgement."
+ },
+ {
+  "id": "santralistanbul",
+  "name": "SantralIstanbul",
+  "by": "İhsan Bilgin, Nevzat Sayın, Emre Arolat, Han Tümertekin",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "2007",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Brick"
+  ],
+  "features": "Neutral new buildings with aluminium-mesh facades beside the historic power station.",
+  "status": "photo",
+  "commons_category": "Category:Santralistanbul",
+  "photos": [
+   {
+    "file": "File:Santral istanbul ext1.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Santralistanbul building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santral%C4%B0stanbul",
+   "https://commons.wikimedia.org/wiki/Category:Santralistanbul"
+  ],
+  "note": "file in the building's own Commons category ('SantralIstanbul exterior'). Wikipedia URL read via API-style title; 'by' lists coordinating and component architects named in the article. Year = opening 2007."
+ },
+ {
+  "id": "cafera-medrese",
+  "name": "Caferağa Medrese",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": "1559",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Gate leads to an inner courtyard around which the learning rooms stand.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Caferaga medresseh Pano.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cafera%C4%9Fa_Medrese"
+  ],
+  "note": "lead image of the en.wikipedia article (description names Caferağa Medresseh built by Sinan)."
+ },
+ {
+  "id": "vahdat-hall",
+  "name": "Vahdat Hall (Rudaki Hall)",
+  "by": "Eugene Aftandilian",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1967",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Detail",
+   "Community"
+  ],
+  "features": "Main stage on three levels; proscenium curtain with a phoenix rising from the ashes motif.",
+  "status": "unsure",
+  "commons_category": "Category:Vahdat Hall",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vahdat_Hall"
+  ],
+  "note": "no free photo: category and lead image show only concerts/interiors, nothing of the exterior"
+ },
+ {
+  "id": "milad-tower",
+  "name": "Milad Tower",
+  "by": "Mohammad Reza Hafezi",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "2007",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "Octagonal base tied to traditional Iranian architecture; steel head of 12 floors with a revolving restaurant.",
+  "status": "photo",
+  "commons_category": "Category:Milad Tower",
+  "photos": [
+   {
+    "file": "File:Milad tower2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Milad tower in iran.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milad_Tower"
+  ],
+  "note": "Photo 1 found by Commons search, description 'Milad Tower'; photo 2 in own category (800x1253 only). Wikipedia lead image is a non-Commons en file (456x800), not used. Opened Oct 2008; 2007 = construction finished."
+ },
+ {
+  "id": "tomb-of-ferdowsi",
+  "name": "Tomb of Ferdowsi",
+  "by": "Haj Hossein Lurzadeh; Karim Taherzadeh",
+  "city": "Tus",
+  "cc": "IR",
+  "year": "1934",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Achaemenid-style tomb: a cubical upper structure with four pillars around it, on a wide base.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tomb-of-Ferdowsi_آرامگاه-فردوسی_Davoud-Davoudi_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Ferdowsi"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Article says Lurzadeh designed it originally, present design credited mainly to Taherzadeh; 1934 = year permanent tomb was erected. Hooshang Seyhoun's later design is not covered in the part I read."
+ },
+ {
+  "id": "tomb-of-saadi",
+  "name": "Tomb of Saadi",
+  "by": "Mohsen Foroughi",
+  "city": "Shiraz",
+  "cc": "IR",
+  "year": "1952",
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Geometry"
+  ],
+  "features": "Eight brown stone pillars at the front; octagonal interior with marble walls and a blue arch.",
+  "status": "photo",
+  "commons_category": "Category:Mausoleum of Saadi Shirazi",
+  "photos": [
+   {
+    "file": "File:سعدیه_20160629_170530.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Aramgah-e Sa'di, Shiraz 002 (3887689364).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Saadi"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Photo 2 is from the building's own category, description 'Aramgah-e Sa'di'."
+ },
+ {
+  "id": "national-museum-of-iran",
+  "name": "National Museum of Iran (Iran Bastan Museum)",
+  "by": "André Godard, Maxime Siroux",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1937",
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Brick building of about 11,000 sq m with a design influenced by Sassanid vaults, notably Taq Kasra.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Národní_muzeum_Íránu.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_Iran"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description names the museum. Opened 1937."
+ },
+ {
+  "id": "nasir-al-mulk-mosque",
+  "name": "Nasir al-Mulk Mosque",
+  "by": "Mohammad Hasan-e-Memar",
+  "city": "Shiraz",
+  "cc": "IR",
+  "year": "1888",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Extensive stained glass in the facade; 'Panj Kase' (five concaved) design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Nasir_ol_Molk_Mosque_(31233739431).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nasir_al-Mulk_Mosque"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description names the mosque. Article calls it Nasir al-Mulk Mosque (title Nasir-ol-Molk Mosque)."
+ },
+ {
+  "id": "golestan-palace",
+  "name": "Golestan Palace",
+  "by": "Haji Abolhassan Mimar Navai",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": "1865",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Mirror-work Brilliant Hall and a Windcatcher Mansion with traditional windcatchers.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Palais_du_Golestan,_Téhéran_(5).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golestan_Palace"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Article: palace rebuilt to its current form in 1865 by Mimar Navai; Edifice of the Sun begun 1865, finished two years later; Mirror Hall by Sanie ol Molk. Complex has no single completion year."
+ },
+ {
+  "id": "university-of-baghdad",
+  "name": "University of Baghdad (Jadriyah campus)",
+  "by": "Walter Gropius, Louis McMillen",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1960",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Modular",
+   "Landscape"
+  ],
+  "features": "Gropius master plan for a new campus with engineering and liberal arts schools for 6,000 students.",
+  "status": "photo",
+  "commons_category": "Category:University of Baghdad",
+  "photos": [
+   {
+    "file": "File:Baghdad University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:برج_جامعة_بغداد.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Baghdad"
+  ],
+  "note": "CHECK FIRST: category is the whole university and has no description naming Gropius's buildings; photo 1 has no description, photo 2 is the university tower from the Karkh side. Not confirmed these show Gropius-era buildings. Article says 'Gropius, Louis McMillen and Robert McMillah', built 1959-60 (Gropius template: 1957-1960)."
+ },
+ {
+  "id": "central-bank-of-iraq",
+  "name": "Central Bank of Iraq",
+  "by": "Dissing+Weitling",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1985",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Cubical reinforced-concrete building clad in marble, few outer openings, organised around an inner courtyard.",
+  "status": "unsure",
+  "commons_category": "Category:Central Bank of Iraq",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Central_Bank_of_Iraq"
+  ],
+  "note": "no free photo: category's only photo (1024x768, CC BY 2.0) shows it as a distant backdrop to the Mustansiriya Madrasa"
+ },
+ {
+  "id": "republican-palace-baghdad",
+  "name": "Republican Palace, Baghdad",
+  "by": "J. Brian Cooper",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1958",
+  "type": "Palace",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Modernist palace first designed as a central domed section with two wings; fountain in front part of original design.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Republican_Palace,_Baghdad,_Iraq.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Republican_Palace,_Baghdad"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Year conflict in article: infobox 1958, lead 'early 1960s'. Later additions under Saddam Hussein, so photo may show the expanded building."
+ },
+ {
+  "id": "abboud-building",
+  "name": "Abboud Building (Al-Dhakir)",
+  "by": "Rifat Chadirji",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1955",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Unusual cylindrical form and bright white colour, a modernist nod to its surroundings and the past.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:عمارة_الذكير_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abboud_Building"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Only 715x933 (below 1200); no larger free file found by search. Commons description 'Al-Dhakir Building, Abboud Building'."
+ },
+ {
+  "id": "mausoleum-of-omar-khayyam",
+  "name": "Mausoleum of Omar Khayyam",
+  "by": "Hooshang Seyhoun",
+  "city": "Nishapur",
+  "cc": "IR",
+  "year": "1963",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Stone"
+  ],
+  "features": "White marble monument with a star-shaped opening to the sky and calligraphic tiles of Khayyam's poems.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Omar_Khayyam_Mausoleum_254.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mausoleum_of_Omar_Khayy%C3%A1m"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description is only a wiki link; identity rests on the article lead."
+ },
+ {
+  "id": "tomb-of-avicenna",
+  "name": "Tomb of Avicenna",
+  "by": "Hooshang Seyhoun",
+  "city": "Hamadan",
+  "cc": "IR",
+  "year": "1954",
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Spindle-shaped 28 m tower inspired by the Ziyarid-era Kavus Tower; complex has a library and small museum.",
+  "status": "photo",
+  "commons_category": "Category:Avicenna Mausoleum",
+  "photos": [
+   {
+    "file": "File:1آرامگاه_بوعلی‌سینا.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomb_of_Avicenna"
+  ],
+  "note": "Photo from the building's own category (file name 'Avicenna mausoleum'); not viewed. Years: infobox 1953, dedicated May 1954. Article's lead image was not retrieved."
+ },
+ {
+  "id": "baghdad-central-station",
+  "name": "Baghdad Central Station",
+  "by": "J. M. Wilson",
+  "city": "Baghdad",
+  "cc": "IQ",
+  "year": "1953",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "Domed station designed by a Scot who had assisted Lutyens in New Delhi; four platforms.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:مبنى_محطة_القطار_العالمية_.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baghdad_Central_Station"
+  ],
+  "note": "Identity: Wikipedia article lead image (pageimages API) and Commons description; not viewed. Commons description: recent exterior photo of the station. Movement 'Modernism' is a guess (article gives no style); reviewer may prefer another. Built 1948-1953."
+ },
+ {
+  "id": "atarim-square",
+  "name": "Atarim Square",
+  "by": "Yaakov Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1975",
+  "type": "Public space",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Brutalist square built from 1971; lower level holds parking and a gas station.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 45059 Atarim square.JPG",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atarim_Square"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; year is the June 1975 inauguration."
+ },
+ {
+  "id": "hecht-synagogue-jerusalem",
+  "name": "Hecht Synagogue",
+  "by": "Ram Karmi",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1981",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Stone",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Built of Jerusalem stone with a women's section on the gallery floor, on the Mount Scopus campus.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Mount Skopus BW 4.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hecht_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Skopusberg, Hecht Synagoge'."
+ },
+ {
+  "id": "metzudat-zeev",
+  "name": "Metzudat Ze'ev (Beit Jabotinsky)",
+  "by": "Mordechai Ben-Horin",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1963",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "At 60 m it was one of Tel Aviv's tallest buildings on completion; home of the Likud party.",
+  "status": "photo",
+  "commons_category": "Category:Metzudat Ze'ev",
+  "photos": [
+   {
+    "file": "File:Metzudat Ze'ev.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:110271 tel aviv - beit jabotinsky PikiWiki Israel.png",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Metzudat Zeev 20.02.2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metzudat_Ze%27ev"
+  ],
+  "note": "Files from the building's own Commons category; descriptions name Metzudat Ze'ev / Beit Jabotinsky. Wikipedia lead image is only 525px. Ordinary type (office) but a listed brutalist landmark."
+ },
+ {
+  "id": "mivtachim-sanitarium",
+  "name": "Mivtachim Sanitarium (ELMA Arts Complex and Hotel)",
+  "by": "Yaakov Rechter",
+  "city": "Zikhron Ya'akov",
+  "cc": "IL",
+  "year": "1969",
+  "type": "Health",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Brutalist retreat for workers, designed 1966 and completed 1969; later reopened as the ELMA hotel.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Elma Arts Complex and Hotel west2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mivtachim_Sanitarium"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'West view of the Elma Arts Complex and Hotel' (same building)."
+ },
+ {
+  "id": "yachin-house-tel-aviv",
+  "name": "Yachin House",
+  "by": "Arieh Sharon and Benjamin Idelson",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1962",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Exposed concrete"
+  ],
+  "features": "Modernist block of 16 floors built in 1962 and renovated 2002-2003.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beit Yachin P1150072.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yachin_House"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Beit Yachin, Tel Aviv'. Ordinary type (office); listed in Category:Brutalist architecture in Israel."
+ },
+ {
+  "id": "habima-theatre",
+  "name": "Habima Theatre",
+  "by": "Ram Karmi (redesign)",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Double height",
+   "Detail"
+  ],
+  "features": "National theatre of Israel; four auditoriums rebuilt in a redesign that reopened in 2012.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Habima Theatre (8099263575).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Habima Theatre in Tel Aviv (FL62658089).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Habima_Theatre"
+  ],
+  "note": "Files found by Commons search 'Habima Theatre'; titles and descriptions name the theatre. Year = reopening; Karmi is the redesign architect (original building not credited in the article text read). Lead image filename garbled in fetch so not used."
+ },
+ {
+  "id": "heichal-hatarbut-tel-aviv",
+  "name": "Heichal HaTarbut (Charles Bronfman Auditorium)",
+  "by": "Dov Karmi, Ze'ev Rechter and Yaakov Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1957",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Largest concert hall in Tel Aviv; opened October 1957 at Habima Square.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Charles Bronfman Auditorium at Habima Square (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Heichal Hatarbut Tel Aviv.JPG",
+    "license": "CC BY 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+  ],
+  "note": "Article title 'Heichal HaTarbut'; Commons search results with titles/descriptions naming the auditorium and Habima Square. Year = opening."
+ },
+ {
+  "id": "great-synagogue-tel-aviv",
+  "name": "Great Synagogue",
+  "by": "Yehuda Magidovitch",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1926",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Light from above",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Art Deco synagogue with a large dome and stained glass windows.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:109567 tel aviv - the great synagogue PikiWiki Israel.png",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:99483 the great synagogue in tel aviv PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Great_Synagogue_(Tel_Aviv)"
+  ],
+  "note": "Commons search 'Great Synagogue Tel Aviv Allenby'; titles/descriptions name it. Article is inconsistent: lead says completed 1926, history section says 1925."
+ },
+ {
+  "id": "chords-bridge-jerusalem",
+  "name": "Chords Bridge",
+  "by": "Santiago Calatrava",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Tensile structure",
+   "Sculptural form"
+  ],
+  "features": "Single 118 m mast holds the roadway with 66 steel cables; carries light rail and pedestrians.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Chords Bridge 5.JPG",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chords_Bridge"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article. Year = inauguration 25 June 2008."
+ },
+ {
+  "id": "shrine-of-the-bab",
+  "name": "Shrine of the Báb",
+  "by": "William Sutherland Maxwell",
+  "city": "Haifa",
+  "cc": "IL",
+  "year": "1953",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Geometry",
+   "Light from above"
+  ],
+  "features": "Mausoleum built in 1953 and crowned by a dome on an 18-windowed drum.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Shrine Bab North West.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_the_B%C3%A1b"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Shrine of the Báb, viewed from the northwest'."
+ },
+ {
+  "id": "church-of-all-nations",
+  "name": "Church of All Nations",
+  "by": "Antonio Barluzzi",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1924",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Vault",
+   "Detail"
+  ],
+  "features": "Six columns divide the church into three aisles under an even ceiling with no clerestory.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Church of all nations BW 7.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Church_of_All_Nations"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description names Church of all nations, Gethsemane. Year = consecration June 1924."
+ },
+ {
+  "id": "ben-gurion-airport-terminal-3",
+  "name": "Ben Gurion Airport Terminal 3",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Lod",
+  "cc": "IL",
+  "year": "2004",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Stone",
+   "Steel & glass"
+  ],
+  "features": "Terminal 3 has 40 gates on four concourses; vertical surfaces are clad in Jerusalem stone.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ben-gurion-airport-terminal--september-2012.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Gurion_Airport"
+  ],
+  "note": "Wikipedia lead image of the airport article; Commons description 'Overflying Ben Gurion Airport' - an aerial of the airport, NOT confirmed to show Terminal 3; check. Year = inauguration late 2004."
+ },
+ {
+  "id": "sursock-museum",
+  "name": "Sursock Museum",
+  "by": "Jean-Michel Wilmotte and Jacques Abou Khaled (extension)",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Void",
+   "Light & shadow"
+  ],
+  "features": "1912 villa expanded with four new underground floors beneath the garden; reopened 8 October 2015.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sursock house.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sursock_Museum"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Sursock Museum, Beirut'. Year = 2015 reopening."
+ },
+ {
+  "id": "mohammad-al-amin-mosque",
+  "name": "Mohammad Al-Amin Mosque",
+  "by": "Azmi Fakhoury",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "2008",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "Five domes, all of light blue tiles; inaugurated in 2008.",
+  "status": "photo",
+  "commons_category": "Category:Mohammad Al-Amin Mosque",
+  "photos": [
+   {
+    "file": "File:Mohamad al amin mosque beyrouth - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:The Mohammad Al-Amin Mosque 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammad_Al-Amin_Mosque"
+  ],
+  "note": "Files from the mosque's own Commons category; titles and descriptions name it. Wikipedia lead image is only 493px and shows a protest."
+ },
+ {
+  "id": "beit-beirut",
+  "name": "Beit Beirut (Barakat Building)",
+  "by": "Youssef Aftimus; Fouad Kozah (upper floors)",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1932",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "Ochre Deir el Qamar limestone building; Kozah added two storeys in 1932; now a museum and cultural centre.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Beit Beirut 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beit_Beirut"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'National Museum of Beirut - Beit Beirut 2019'."
+ },
+ {
+  "id": "cinema-opera-beirut",
+  "name": "Cinema Opera",
+  "by": "Bahjat Abdelnour",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1944",
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Art Deco cinema inaugurated in 1944; walls have horizontal dentils and successive recesses.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Ye old opera house..jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cinema_Opera_and_Ezzeddine_Building"
+  ],
+  "note": "Wikipedia lead image; Commons description 'off martyr's square, beirut' (1024px, nothing larger found). Year = inauguration November 1944."
+ },
+ {
+  "id": "royal-tank-museum-amman",
+  "name": "Royal Tank Museum",
+  "by": "Zaid Daoud",
+  "city": "Amman",
+  "cc": "JO",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Double height"
+  ],
+  "features": "A glass dome at the centre suspends a Cobra attack helicopter; inaugurated 29 January 2018.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Royal Tank Museum 20.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Tank_Museum"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'Royal Tank Museum in Amman, Jordan'. Year = inauguration."
+ },
+ {
+  "id": "hayarkon-96-tel-aviv",
+  "name": "HaYarkon 96",
+  "by": "Pinchas Bieżoński",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1935",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "International Style apartment building shaped like the Hebrew letter chet around a narrow front courtyard.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:HaYarkon 96.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/HaYarkon_96"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'HaYarkon 96 Bauhaus building in 2022'."
+ },
+ {
+  "id": "national-institutions-house-jerusalem",
+  "name": "Jewish National Institutions House",
+  "by": "Yohanan Ratner",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "Administrative complex whose windows recall the slits in the Old City walls; second storey finished 1936.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:TheJewishNationalInstitutionsHouseJerusalemMay062023 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Institutions_House"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'The Jewish National Institutions House, Jerusalem'. Year = second storey completed (first-phase date not given)."
+ },
+ {
+  "id": "jerusalem-great-synagogue",
+  "name": "Jerusalem Great Synagogue",
+  "by": "Alexander Friedman",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1982",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Sanctuary seats 850 men and 550 women; inaugurated on Tu B'Av 1982.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jerusalem Great Synagogue.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerusalem_Great_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article. Year = inauguration."
+ },
+ {
+  "id": "hechal-yehuda-synagogue",
+  "name": "Hechal Yehuda Synagogue",
+  "by": "Yitzhak Toledano",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "1980",
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "North bare concrete facade decorated with bas-reliefs of traditional Jewish motifs and symbols.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 7107 salonikis synagogue in tel aviv.jpg",
+    "license": "CC BY 2.5",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hechal_Yehuda_Synagogue"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article (Saloniki synagogue, Tel Aviv, matches the Hechal Yehuda congregation); check."
+ },
+ {
+  "id": "yitzhak-rabin-center",
+  "name": "Yitzhak Rabin Center",
+  "by": "Moshe Safdie",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "2005",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Section"
+  ],
+  "features": "Sits on a hill with a panoramic view of Yarkon Park and Tel Aviv; inaugurated November 2005.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:מרכז יצחק רבין מכיוון החניה מדרום.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yitzhak_Rabin_Center"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; filename (Hebrew) may be mis-transcribed by the fetch tool, verify exact string. Year = inauguration."
+ },
+ {
+  "id": "jerusalem-theatre",
+  "name": "Jerusalem Theatre",
+  "by": "Michael Nadler, Shulamit Nadler and Shmuel Bixson",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": "1971",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Stone",
+   "Sculptural form"
+  ],
+  "features": "Combines sculptural exposed concrete with traditional Jerusalem stone construction; opened 1971.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Jerusalem Center for the Performing Arts.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerusalem_Theatre"
+  ],
+  "note": "Identity from Wikipedia pageimages lead image for the article; Commons description 'The Jerusalem Center for the Performing Arts'. Architects named as competition winners."
+ },
+ {
+  "id": "grand-theatre-des-mille-et-une-nuits-beirut",
+  "name": "Grand Théâtre des Mille et Une Nuits",
+  "by": "Youssef Aftimus",
+  "city": "Beirut",
+  "cc": "LB",
+  "year": "1929",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Double height",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Horseshoe-shaped auditorium with 630 seats; opened in 1929.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Th%C3%A9%C3%A2tre_des_Mille_et_Une_Nuits"
+  ],
+  "note": "no free photo: lead image only 474px aerial; no category images found."
+ },
+ {
+  "id": "jumeirah-mosque",
+  "name": "Jumeirah Mosque",
+  "by": "Abd al-Muʿizz Husayn, Muhammad al-Mahdi Hegazy",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1979",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Courtyard"
+  ],
+  "features": "Sandstone mosque with deep-relief minarets and dome; hypostyle prayer hall around a central dome.",
+  "status": "photo",
+  "commons_category": "Jumeirah Mosque",
+  "photos": [
+   {
+    "file": "File:Jumeirah Mosque Front View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jumeirah Mosque Full View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Jumeirah Mosque 3.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jumeirah_Mosque",
+   "https://commons.wikimedia.org/wiki/Category:Jumeirah_Mosque"
+  ],
+  "note": "Identity from Commons category and file descriptions ('Front view of Jumeirah Mosque'); en.wikipedia lead image Jumeira_Mosque_Dubai.jpg (CC BY-SA 3.0, 1600x1200) is a fallback. Not viewed."
+ },
+ {
+  "id": "kafd-grand-mosque",
+  "name": "KAFD Grand Mosque",
+  "by": "Omrania",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "2017",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Desert-rose form; 2.8 m structural skin carries all loads, giving a column-free hall with sun-shading geometry.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/KAFD_Grand_Mosque"
+  ],
+  "note": "no free photo: Wikipedia has no page image and Commons search for the building returned nothing. Article gives year 2017 (category says 2016)."
+ },
+ {
+  "id": "kaust-campus",
+  "name": "King Abdullah University of Science and Technology (KAUST) campus",
+  "by": "HOK",
+  "city": "Thuwal",
+  "cc": "SA",
+  "year": "2009",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "HOK master plan with wind towers and solar panels; world's largest LEED Platinum campus.",
+  "status": "photo",
+  "commons_category": "King Abdullah University of Science and Technology",
+  "photos": [
+   {
+    "file": "File:KAUST academic building and beacon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:KAUST campus 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:KAUST administrative building.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Abdullah_University_of_Science_and_Technology",
+   "https://commons.wikimedia.org/wiki/Category:King_Abdullah_University_of_Science_and_Technology"
+  ],
+  "note": "Identity from filename plus Commons description in the building's own category ('A KAUST academic building', 'KAUST campus in January 2013'). Not viewed. Year 2009 is the inauguration (23 Sep 2009); article gives no completion year. Campus not a single building."
+ },
+ {
+  "id": "mohammed-bin-rashid-library",
+  "name": "Mohammed Bin Rashid Library",
+  "by": "asp Architekten, Obermeyer Planen+Beraten, ACG Architecture Consulting Group",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "2022",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Seven-storey library shaped like an open book on a lectern.",
+  "status": "photo",
+  "commons_category": "Mohammed Bin Rashid Library",
+  "photos": [
+   {
+    "file": "File:Mohammed bin Rashid Library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammed_Bin_Rashid_Library",
+   "https://commons.wikimedia.org/wiki/Category:Mohammed_Bin_Rashid_Library"
+  ],
+  "note": "Only file (4000x6000, portrait) in the building's own category; description 'Mohammed bin Rashid Library'. Not viewed. Wikipedia lead image of the same name is not on Commons under that title. Opened 16 Jun 2022; check whether lectern shape reads from this photo."
+ },
+ {
+  "id": "carnegie-mellon-university-in-qatar",
+  "name": "Carnegie Mellon University in Qatar",
+  "by": "Legorreta + Legorreta",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2008",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Light from above",
+   "Circulation"
+  ],
+  "features": "Classrooms and labs separated by courtyards; library and dining around a central atrium.",
+  "status": "photo",
+  "commons_category": "Carnegie Mellon University in Qatar",
+  "photos": [
+   {
+    "file": "File:Backyard of Carnegie Mellon University in Qatar.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Steps in Carnegie Mellon University campus in Qatar.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Cmuq-atrium.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carnegie_Mellon_University_in_Qatar",
+   "https://commons.wikimedia.org/wiki/Category:Carnegie_Mellon_University_in_Qatar"
+  ],
+  "note": "Identity from Commons descriptions in the building's own category. Not viewed. Photos are only 1647x1094 for exteriors; first is a courtyard/fountain, not a full facade; lead image on Wikipedia is not on Commons. Year 2008 = occupancy began Aug 2008 (article gives no completion year)."
+ },
+ {
+  "id": "king-faisal-mosque-sharjah",
+  "name": "King Faisal Mosque, Sharjah",
+  "by": "Abdul-Rahman Abdul-Hafidh Al-Junaidi",
+  "city": "Sharjah",
+  "cc": "AE",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Axis"
+  ],
+  "features": "One dome and two 70 m minarets; capacity 16,670 worshippers.",
+  "status": "photo",
+  "commons_category": "King Faisal Mosque Sharjah",
+  "photos": [
+   {
+    "file": "File:King Faisal Mosque Front View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Full View of King Faisal Mosque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Left Side View of King Faisal Mosque.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/King_Faisal_Mosque,_Sharjah",
+   "https://commons.wikimedia.org/wiki/Category:King_Faisal_Mosque_Sharjah"
+  ],
+  "note": "First file is the Wikipedia lead image; others from the building's own category with matching descriptions. Not viewed."
+ },
+ {
+  "id": "mathaf-arab-museum-of-modern-art",
+  "name": "Mathaf: Arab Museum of Modern Art",
+  "by": "Jean-François Bodin",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Void",
+   "Circulation"
+  ],
+  "features": "Former school converted into a museum around an atrium; seven permanent galleries upstairs.",
+  "status": "photo",
+  "commons_category": "Mathaf: Arab Museum of Modern Art",
+  "photos": [
+   {
+    "file": "File:Near the entrance to Mathaf Museum in Fereej Al Zaeem.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Mathaf Arab Museum of Modern Art at Education City.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathaf:_Arab_Museum_of_Modern_Art",
+   "https://commons.wikimedia.org/wiki/Category:Mathaf:_Arab_Museum_of_Modern_Art"
+  ],
+  "note": "First is Wikipedia lead image (2048x1536, CC BY-SA 4.0), described 'Entrance area near Mathaf Museum' so may not show the whole building; second described as exterior view but only 1443x958. Not viewed. Year = museum opening 2010."
+ },
+ {
+  "id": "bab-al-bahrain",
+  "name": "Bab Al Bahrain",
+  "by": "Charles Belgrave",
+  "city": "Manama",
+  "cc": "BH",
+  "year": "1949",
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Large central arch over a road, the entrance to Manama souq, flanked by two pedestrian arches.",
+  "status": "photo",
+  "commons_category": "Bab Al Bahrain",
+  "photos": [
+   {
+    "file": "File:Bab Al Bahrain, Manama, Baréin, 2024-08-18, DD 72.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manama Bab al-Bahrain 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bab_Al_Bahrain",
+   "https://commons.wikimedia.org/wiki/Category:Bab_Al_Bahrain"
+  ],
+  "note": "Lead image of the article and a second file from the building's own category, both described 'Bab Al Bahrain, Manama, Bahrain'. Not viewed. Belgrave was British adviser to the emir, not a trained architect per the article; check whether to credit him."
+ },
+ {
+  "id": "deira-clocktower",
+  "name": "Deira Clocktower",
+  "by": "Otto Bullard, Ziki Homsi",
+  "city": "Dubai",
+  "cc": "AE",
+  "year": "1965",
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Clock tower built in 1965 as a symbol of Dubai, at a roundabout where major routes met.",
+  "status": "photo",
+  "commons_category": "The clock tower (Dubai)",
+  "photos": [
+   {
+    "file": "File:Deira clock tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Deira Clock Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Deira Clocktower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deira_Clocktower",
+   "https://commons.wikimedia.org/wiki/Category:The_clock_tower_(Dubai)"
+  ],
+  "note": "Files from the Commons category 'The clock tower (Dubai)' with descriptions naming the Deira Clock Tower. Not viewed. Small monument; reviewer may judge it too minor. Movement is a judgement call (article gives none)."
+ },
+ {
+  "id": "riyadh-tv-tower",
+  "name": "Riyadh TV Tower",
+  "by": "Maurice Novarina, Patrici Novarina-Adete",
+  "city": "Riyadh",
+  "cc": "SA",
+  "year": "1982",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "170 m television tower, Saudi Arabia's tallest structure until 2000.",
+  "status": "photo",
+  "commons_category": "Riyadh TV Tower",
+  "photos": [
+   {
+    "file": "File:Riyadh TV Tower.JPG",
+    "license": "Public domain",
+    "seen": false
+   },
+   {
+    "file": "File:Riyadh TV Tower at the Saudi Broadcasting Authority Headquarters (2026).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riyadh_TV_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Riyadh_TV_Tower"
+  ],
+  "note": "Lead image and another file from the building's own category; both portrait. Not viewed. Article spells second architect 'Patrici'; category conflicts on year (1978 vs article 1982). Movement is a judgement call. Tall-structure only; reviewer may drop."
+ },
+ {
+  "id": "sheikh-abdullah-al-salem-cultural-centre",
+  "name": "Sheikh Abdullah Al-Salem Cultural Centre",
+  "by": "SSH",
+  "city": "Kuwait City",
+  "cc": "KW",
+  "year": "2018",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Five museums linked by glazed wings and a central canopy spine, on an 18-hectare site.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheikh_Abdullah_Al-Salem_Cultural_Centre"
+  ],
+  "note": "no free photo: article image is a CC0 satellite view only; Commons search for exteriors found nothing. Article gives inauguration 2018, SSH 'design and engineer the building envelopes'."
+ },
+ {
+  "id": "education-city-stadium",
+  "name": "Education City Stadium",
+  "by": "Fenwick Iribarren Architects, Pattern Design",
+  "city": "Al Rayyan",
+  "cc": "QA",
+  "year": "2020",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "'Diamond in the Desert'; 20 percent green materials and a five-star GSAS rating.",
+  "status": "photo",
+  "commons_category": "Education City Stadium",
+  "photos": [
+   {
+    "file": "File:Education city stadium 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Education_City_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Education_City_Stadium"
+  ],
+  "note": "Only one usable file: described as the stadium during the 2022 World Cup; 4032x1293 panorama, so a wide crop. Not viewed. Other category photos show a person or are mis-described aerials. Wikipedia lead image is not on Commons. Article names Pattern Design as lead design architect."
+ },
+ {
+  "id": "msheireb-museums",
+  "name": "Msheireb Museums",
+  "by": "John McAslan",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Detail"
+  ],
+  "features": "Four heritage houses renovated and extended; art project uses objects recovered during demolition.",
+  "status": "unsure",
+  "commons_category": "Msheireb Museums",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Msheireb_Museums",
+   "https://commons.wikimedia.org/wiki/Category:Msheireb_Museums"
+  ],
+  "note": "no free photo: category holds only File:Radwani House.jpg (3024x4032, CC BY-SA 4.0), one of the four houses, not the whole complex. John McAslan was project architect for renovation and additions; RIBA listed it in 2018."
+ },
+ {
+  "id": "hamad-international-airport",
+  "name": "Hamad International Airport",
+  "by": "HOK",
+  "city": "Doha",
+  "cc": "QA",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "Oasis-themed terminal with wave-style roofs and a water-droplet-inspired mosque dome.",
+  "status": "photo",
+  "commons_category": "Hamad International Airport",
+  "photos": [
+   {
+    "file": "File:Hamad International Airport.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:QAT Doha, Hamad International Airport 001.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamad_International_Airport",
+   "https://commons.wikimedia.org/wiki/Category:Hamad_International_Airport"
+  ],
+  "note": "Files from the building's own category with matching descriptions; wikipedia lead image is only 612x408. Not viewed; may show apron or interior. Year = passenger operations began 30 Apr 2014."
+ },
+ {
+  "id": "government-house-yerevan",
+  "name": "Government House, Yerevan",
+  "by": "Alexander Tamanian, Gevorg Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1941",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Tamanian's north-west wing built 1926-29; his son Gevorg finished the rest by 1941.",
+  "status": "photo",
+  "commons_category": "Government House of Armenia",
+  "photos": [
+   {
+    "file": "File:Yerevan square by Rita W.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Yerevan, Government House, Government of Armenia, Republic Square, Armenia.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Republic_Square,_Yerevan"
+  ],
+  "note": "Lead image (Rita W.) description 'Armenian Government houses'; second file title names building. Not viewed."
+ },
+ {
+  "id": "yerevan-opera-theatre",
+  "name": "Yerevan Opera Theatre",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1953",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Opened 1933; hall finished 1939 under Tamanian's son; large-scale works ended 1953.",
+  "status": "photo",
+  "commons_category": "Exterior of Opera house of Yerevan",
+  "photos": [
+   {
+    "file": "File:Ópera, Ereván, Armenia, 2016-10-03, DD 12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yerevan_Opera_Theatre"
+  ],
+  "note": "Lead image; Commons description 'Opera house, Yerevan'. Year 1953 = end of large-scale construction per article."
+ },
+ {
+  "id": "gyumri-railway-station",
+  "name": "Gyumri railway station",
+  "by": "Rafik Yeghoyan",
+  "city": "Gyumri",
+  "cc": "AM",
+  "year": "1979",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Stone"
+  ],
+  "features": "Soviet Armenian modernist hall whose spatial composition echoes medieval Armenian architecture.",
+  "status": "photo",
+  "commons_category": "Gyumri railway station",
+  "photos": [
+   {
+    "file": "File:Gyumru erkatuxi 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gyumri_railway_station"
+  ],
+  "note": "Lead image, in the building's own Commons category (single-subject category)."
+ },
+ {
+  "id": "tbilisi-sports-palace",
+  "name": "Tbilisi Sports Palace",
+  "by": "Vladimir Aleksi-Meskhishvili, Yuri Kasradze, Temo Japaridze",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1961",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Reinforced-concrete dome about 76 m in diameter, among Europe's largest when built.",
+  "status": "photo",
+  "commons_category": "Tbilisi Sports Palace",
+  "photos": [
+   {
+    "file": "File:Sports Palace in Tbilisi - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace"
+  ],
+  "note": "Lead image; Commons description 'Sports Palace in Tbilisi'; in own category."
+ },
+ {
+  "id": "svetitskhoveli-cathedral",
+  "name": "Svetitskhoveli Cathedral",
+  "by": "Arsukidze",
+  "city": "Mtskheta",
+  "cc": "GE",
+  "year": "1029",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Cross-in-square cathedral built 1010-1029, with the dome carried on four sides.",
+  "status": "photo",
+  "commons_category": "Svetitskhoveli (exterior)",
+  "photos": [
+   {
+    "file": "File:Svetitskhoveli Cathedral 09.23 (3).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral"
+  ],
+  "note": "Lead image; description names the cathedral in Mtskheta; category is the exterior one."
+ },
+ {
+  "id": "government-house-baku",
+  "name": "Government House, Baku",
+  "by": "Lev Rudnev, Vladimir Munts",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1952",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built 1936-1952 to a design by Lev Rudnev and V. Munts; designed for 5,500 people.",
+  "status": "photo",
+  "commons_category": "Government House of Azerbaijan",
+  "photos": [
+   {
+    "file": "File:Hilton Hotel and Government House, Baku.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Governement house - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Government_House,_Baku"
+  ],
+  "note": "Both files sit in the building's Commons category; first title names it (hotel also in frame); second title is a typo of 'government house'. Article lead image is not on Commons. Not viewed; check."
+ },
+ {
+  "id": "baku-olympic-stadium",
+  "name": "Baku Olympic Stadium",
+  "by": "TOCA, Heerim, Rossetti",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "2015",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Six-storey, 60 m high stadium on a 205,000 sq m footprint, completed February 2015.",
+  "status": "photo",
+  "commons_category": "Baku Olympic Stadium",
+  "photos": [
+   {
+    "file": "File:Baku Olympic Stadium.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baku Olympic Stadium2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baku_Olympic_Stadium"
+  ],
+  "note": "Titles/description name the stadium (dated 10 Oct 2015); article lead image is a local enwiki file, not used. Not viewed."
+ },
+ {
+  "id": "alphabetic-tower",
+  "name": "Alphabetic Tower",
+  "by": "CMD Ingenieros (Alberto Domingo, Carlos Lazaro)",
+  "city": "Batumi",
+  "cc": "GE",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Double helix of two bands carrying 33 letters of the Georgian alphabet.",
+  "status": "photo",
+  "commons_category": "Alphabetic Tower",
+  "photos": [
+   {
+    "file": "File:Alphabet Tower, Batumi.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alphabetic_Tower"
+  ],
+  "note": "Commons title/description name the tower. Architect credit per article is an engineering firm. Not viewed."
+ },
+ {
+  "id": "wedding-palace-tbilisi",
+  "name": "Wedding Palace",
+  "by": "Victor Djorbenadze, Vazha Orbeladze",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Blends 1920s expressionism with medieval Georgian church architecture.",
+  "status": "photo",
+  "commons_category": "Wedding Palace in Tbilisi",
+  "photos": [
+   {
+    "file": "File:تفلیس Tbilisi თბილისი 38.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:تفلیس Tbilisi თბილისი 37.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wedding_Palace_(Tbilisi)"
+  ],
+  "note": "Both files are in the building's Commons category; 38 is the article lead (cropped there). Not viewed."
+ },
+ {
+  "id": "tbilisi-circus",
+  "name": "Tbilisi Circus",
+  "by": "Nikolay Neprintsev, Vladimer Urushadze, Stepan Satunts",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1940",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Rotunda in Soviet-era Neoclassical style on a hill above Heroes' Square.",
+  "status": "photo",
+  "commons_category": "Tbilisi Circus",
+  "photos": [
+   {
+    "file": "File:Heroes Square, Tbilisi2.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Circus"
+  ],
+  "note": "Lead image; Commons description says the circus is seen on the hill; building is distant, check framing."
+ },
+ {
+  "id": "national-library-of-armenia",
+  "name": "National Library of Armenia",
+  "by": "Alexander Tamanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1939",
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Main building follows Tamanian's project; the 'Tamanyan style' reinterprets medieval Armenian architecture.",
+  "status": "photo",
+  "commons_category": "National Library of Armenia",
+  "photos": [
+   {
+    "file": "File:Ազգային գրադարանի գլխավոր մասնաշենքը.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Library_of_Armenia"
+  ],
+  "note": "Lead image in the library's own category; Armenian title says 'main building of the National Library'. Not viewed."
+ },
+ {
+  "id": "heydar-aliyev-palace",
+  "name": "Heydar Aliyev Palace",
+  "by": "Alish Lemberanskiy",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1972",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Double height",
+   "Geometry"
+  ],
+  "features": "Hall with about 30 stepped rows of seats for over 2,150 spectators; opened 14 December 1972.",
+  "status": "photo",
+  "commons_category": "Heydar Aliyev Palace",
+  "photos": [
+   {
+    "file": "File:Heydər Əliyev sarayı - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heydar_Aliyev_Palace"
+  ],
+  "note": "Title is Azerbaijani for 'Heydar Aliyev Palace'; article lead image is not usable. Year = opening, no completion year given. Not viewed."
+ },
+ {
+  "id": "palace-of-happiness-baku",
+  "name": "Palace of Happiness",
+  "by": "Jozef Ploszko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1912",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "Neo-Gothic palace raised in nine months as a copy of a French Gothic building.",
+  "status": "photo",
+  "commons_category": "Palace of Happiness",
+  "photos": [
+   {
+    "file": "File:Palace of Happines (Mukhtarov street).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Happiness"
+  ],
+  "note": "Lead image; in own category (Palace of Happiness). Not viewed."
+ },
+ {
+  "id": "writers-house-of-georgia",
+  "name": "Writers' House of Georgia",
+  "by": "Karl Zaar",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1905",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Courtyard"
+  ],
+  "features": "Mansion combining art nouveau with neobaroque; terrace mosaic of Villeroy and Boch tiles.",
+  "status": "photo",
+  "commons_category": "Writers' House of Georgia",
+  "photos": [
+   {
+    "file": "File:Writer's House of Georgia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Writers%27_House_of_Georgia"
+  ],
+  "note": "Lead image; description 'View of the Writer's House of Georgia from its garden' (garden side). Year: article says built 1903-1905 only. Not viewed."
+ },
+ {
+  "id": "moskva-cinema-yerevan",
+  "name": "Moscow Cinema",
+  "by": "Tiran Yerkanyan, Gevorg Kochar",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": "1936",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Theatre opened 12 December 1936; 1983 facade shows scenes from Soviet-Armenian films.",
+  "status": "photo",
+  "commons_category": "Moskva Cinema",
+  "photos": [
+   {
+    "file": "File:Moscow cinema in Yerevan.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moscow_Cinema"
+  ],
+  "note": "Lead image; description 'Moskva cinema theater in Yerevan'. Year = opening date. Not viewed."
+ },
+ {
+  "id": "zarya-vostoka-building",
+  "name": "Zarya Vostoka building",
+  "by": "David Chisliev",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1931",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Constructivist headquarters of the Russian-language newspaper Zarya Vostoka.",
+  "status": "photo",
+  "commons_category": "Shota Rustaveli Avenue, Tbilisi",
+  "photos": [
+   {
+    "file": "File:Zarya Vostoka building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zarya_Vostoka_building"
+  ],
+  "note": "Lead image, description names the building; portrait orientation. Article infobox says 1930, text 1931. Category is the avenue, not own. Not viewed."
+ },
+ {
+  "id": "georgian-parliament-building-tbilisi",
+  "name": "Parliament of Georgia (Rustaveli Avenue)",
+  "by": "Viktor Kokorin, Giorgi Lezhava",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1953",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Reinforced concrete clad in tufa and granite, with a monumental arcade and arch pediment.",
+  "status": "photo",
+  "commons_category": "Tbilisi Parliament Building",
+  "photos": [
+   {
+    "file": "File:Parliament building. Rustaveli Avenue, Tbilisi. Georgia's Independence Day celebrations 26.05.2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georgian_Parliament_Building_(Tbilisi)"
+  ],
+  "note": "Title names the parliament building on Rustaveli Avenue; event photo, crowds likely. Article lead is a local enwiki file. Not viewed."
+ },
+ {
+  "id": "tbilisi-city-assembly-building",
+  "name": "Tbilisi City Assembly Building",
+  "by": "Paul Stern",
+  "city": "Tbilisi",
+  "cc": "GE",
+  "year": "1878",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Neo-Moorish 'Exotic' style from the 1878 remodel; clock tower added 1910.",
+  "status": "photo",
+  "commons_category": "Tbilisi city assembly building",
+  "photos": [
+   {
+    "file": "File:Tbscityhall.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tbilisi_Assembly_Building"
+  ],
+  "note": "Lead image, in own category; description links it to the City Assembly. Not viewed."
+ },
+ {
+  "id": "baku-opera-and-ballet-theatre",
+  "name": "Azerbaijan State Academic Opera and Ballet Theatre",
+  "by": "Nikolai Bayev",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1911",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Built in under ten months by three shifts of about 200 workers; opened February 1911.",
+  "status": "photo",
+  "commons_category": "Azerbaijan State Academic Opera and Ballet Theater",
+  "photos": [
+   {
+    "file": "File:Azerbaijan State Academic Opera and Ballet Theatre main façade, 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azerbaijan_State_Academic_Opera_and_Ballet_Theater"
+  ],
+  "note": "Lead image, in own category; title says main facade. Not viewed. Year = opening."
+ },
+ {
+  "id": "ismailiyya-palace",
+  "name": "Ismailiyya Palace",
+  "by": "Jozef Ploszko",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": "1913",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Stone"
+  ],
+  "features": "Venetian Gothic palace built 1908-1913 for Musa Naghiyev.",
+  "status": "photo",
+  "commons_category": "İsmailiyye palace",
+  "photos": [
+   {
+    "file": "File:Ismailiyye palace main façade, Baku, 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ismailiyya_Palace"
+  ],
+  "note": "Lead image, in own category; title says main facade. Not viewed."
+ }
+]

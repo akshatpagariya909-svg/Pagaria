@@ -267,6 +267,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | First Canadian Place | Bregman + Hamann Architects, Edward Durell Stone & Associates | 1975 | Toronto, CA | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
 | Torre Mayor | Zeidler Roberts Partnership, Adamson Associates | 2003 | Mexico City, MX | round 7 quality watch: ordinary commercial tower, no source says why it matters to students |
 | Conjunto Urbano Nonoalco Tlatelolco | Mario Pani | 1964 | Mexico City, MX | no usable free exterior photo found in the Commons category by file name; reviewer may find one |
+| Monument to the Revolution, Kozara | Dušan Džamonja | 1972 | Mrakovica (Kozara), BA | round 7b review: no clear photo: far through trees, a silhouette, people in front |
 | Warsaw Spire | Jaspers-Eyers Architects (with Projekt Polsko-Belgijska Pracownia Architektury) | 2016 | Warsaw, PL | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Varso Tower | Foster + Partners | 2022 | Warsaw, PL | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Cité Frugès (Quartiers Modernes Frugès) | Le Corbusier, Pierre Jeanneret | 1926 | Pessac, FR | round 7 review: only photo is a street sign |
@@ -298,7 +299,11 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | State Tower | Rangsan Architecture (Rangsan Torsuwan) | 2001 | Bangkok, TH | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Landmark 81 | Atkins | 2018 | Ho Chi Minh City, VN | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Wisma 46 | Zeidler Roberts Partnership and DP Architects | 1996 | Jakarta, ID | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
+| Manila Film Center | Froilan Hong | 1982 | Manila, PH | round 7b review: no clear photo: column close-up, trees and a sign |
+| Pasig Revolving Tower | Edward Medina | 1974 | Pasig, PH | round 7b review: no photo of the building: a ceremony, a doormat, a lobby door, a roof deck |
 | Ramon Magsaysay Center | Alfredo J. Luz and Associates, consulting Pietro Belluschi | 1967 | Manila, PH | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
+| Capitan Luis Gonzaga Building | Pablo Antonio | 1953 | Manila, PH | round 7b review: no clear photo: a street crowd, a dark facade, a sign |
+| Iglesia Filipina Independiente National Cathedral | Carlos D. Arguelles | 1969 | Quezon City, PH | round 7b review: no exterior: a flag, busts, a sign and two interiors |
 | Commercial Bank and Trust Company Building | José María Zaragoza | 1969 | Manila, PH | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Merdeka 118 | Fender Katsalidis with RSP KL | 2023 | Kuala Lumpur, MY | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Parkview Square | James Adams with DP Architects | 2002 | Singapore, SG | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
@@ -318,6 +323,8 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Olympic Tower | Skidmore, Owings & Merrill | 1974 | New York, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Temple Emanuel | William Bernoudy | 1962 | Creve Coeur, US | round 7 review: only photo is into the sun; the others show a different building |
+| Blue Cross-Blue Shield Building | C. F. Murphy Associates | 1968 | Chicago, US | round 7b review: lead photo is not clearly this building; others are skyline views |
+| Highfield House | Ludwig Mies van der Rohe | 1964 | Baltimore, US | round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower |
 | One M&T Plaza | Minoru Yamasaki | 1967 | Buffalo, US | round 7b quality watch: ordinary commercial tower, no source says why it matters to students |
 | Aluminaire House | A. Lawrence Kocher and Albert Frey | 1931 | Palm Springs, US | no free photo; Commons category Aluminaire House empty |
 | Coachella Valley Savings No. 1 | E. Stewart Williams | 1955 | Palm Springs, US | no free photo; Commons category not found |
@@ -349,3 +356,34 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Gas Company Tower | Richard Keating; Skidmore, Owings and Merrill | 1991 | Los Angeles, US | no clear free exterior photo |
 | Wilshire Grand Center | AC Martin Partners | 2017 | Los Angeles, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Entenza House | Charles Eames, Ray Eames and Eero Saarinen | 1950 | Los Angeles, US | no free photo |
+| Ankara Ethnography Museum | Arif Hikmet Koyunoğlu | 1928 | Ankara, TR | no free photo. No free photo found directly in the category (files are in per-year subcategories; not checked). Article gives no features beyond architect and dates; features line and concepts are thin. |
+| TCDD General Headquarters Building | Bedri Uçar | 1941 | Ankara, TR | no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture). |
+| Istanbul University Faculty of Arts and Sciences Building | Sedad Hakkı Eldem, Emin Halid Onat | 1944 | Istanbul, TR | no free photo. No lead image; Commons category search found nothing. Not photo-checked further. |
+| Vahdat Hall (Rudaki Hall) | Eugene Aftandilian | 1967 | Tehran, IR | no free photo: category and lead image show only concerts/interiors, nothing of the exterior |
+| Central Bank of Iraq | Dissing+Weitling | 1985 | Baghdad, IQ | no free photo: category's only photo (1024x768, CC BY 2.0) shows it as a distant backdrop to the Mustansiriya Madrasa |
+| Grand Théâtre des Mille et Une Nuits | Youssef Aftimus | 1929 | Beirut, LB | no free photo: lead image only 474px aerial; no category images found. |
+| KAFD Grand Mosque | Omrania | 2017 | Riyadh, SA | no free photo: Wikipedia has no page image and Commons search for the building returned nothing. Article gives year 2017 (category says 2016). |
+| Sheikh Abdullah Al-Salem Cultural Centre | SSH | 2018 | Kuwait City, KW | no free photo: article image is a CC0 satellite view only; Commons search for exteriors found nothing. Article gives inauguration 2018, SSH 'design and engineer the building envelopes'. |
+| Msheireb Museums | John McAslan | 2015 | Doha, QA | no free photo: category holds only File:Radwani House.jpg (3024x4032, CC BY-SA 4.0), one of the four houses, not the whole complex. John McAslan was project architect for renovation and additions; RIBA listed it in 2018. |
+| Vila Operária da Gamboa | Lúcio Costa, Gregori Warchavchik | 1933 | Rio de Janeiro, BR | no free photo |
+| Santos Dumont Airport | MMM Roberto (Marcelo, Milton and Mauricio Roberto) | 1945 | Rio de Janeiro, BR | no free photo; category had no files; none found by search |
+| Floralis Genérica | Eduardo Catalano | 2002 | Buenos Aires, AR | no free photo |
+| San Carlos Borromeo y Nuestra Señora de la Asunción | Juan Pablo Terra, with Eladio Dieste (structure) | 1956 | Montevideo, UY | no free photo |
+| Cathedral Basilica of Lima | Francisco Becerra, Juan Martínez de Arrona, Juan Rher, Matías Maestro | 1797 | Lima, PE | no free photo (only a night photo found) |
+| New Cathedral of Cuenca | Juan Bautista Stiehle | 1975 | Cuenca, EC | no free photo (only a GFDL detail photo found; needs a better free photo) |
+| Torre Colpatria | Obregón Valenzuela & Cía. | 1978 | Bogotá, CO | round 8 quality watch: ordinary commercial tower |
+| Museo de Arte Contemporáneo de Caracas | Nikolajs Sidorkovs (Siso & Shaw & Associates) | 1974 | Caracas, VE | no free photo |
+| New Parliament Building | Bimal Patel (HCP Design, Planning and Management) | 2023 | New Delhi, IN | no free photo: Commons files found are all GODL-India. |
+| National War Memorial | Yogesh Chandrahasan (WeBe Design Lab) | 2019 | New Delhi, IN | no good daylight photo seen: the ones I viewed were night shots or people-filled; many CC BY-SA files exist in the category for a reviewer to check. |
+| Dr. Bhimrao Ambedkar Memorial Park | Hafeez Contractor | 2008 | Lucknow, IN | no good daylight photo seen: viewed ones were night or dusk. Many large CC BY-SA files exist in the category (about 40+) for a reviewer to check. |
+| National Museum, New Delhi | Ganesh Bhikaji Deolalikar | 1960 | New Delhi, IN | no free photo found of the building exterior (category is mostly museum objects). |
+| Nita Mukesh Ambani Cultural Centre | TVS Design | 2023 | Mumbai, IN | no free photo in good light: the only file in the article and my search is a night shot with signage (File:2023-0329-nmacc-night.jpg, CC0); reviewer may check the Commons category for daylight exteriors. |
+| Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) | Charles Correa | 1995 | Bengaluru, IN | no free photo: Commons category holds only the Buckyball interior view and a gazebo; no exterior of the campus buildings. |
+| DakshinaChitra | Laurie Baker (master plan), Benny Kuriakose | 1996 | Chennai, IN | no free photo of the museum buildings themselves: Commons files show relocated heritage houses (Kerala House, etc.), not Baker/Kuriakose architecture; reviewer to decide. Opened 14 Dec 1996. |
+| Calico Dome | Gautam Sarabhai and Gira Sarabhai | 1962 | Ahmedabad, IN | no free photo: Wikipedia article has none and the Commons category listing returned empty; dates conflict in the article (infobox 1962, text 1963). |
+| Vidyasagar Setu (Second Hooghly Bridge) | Schlaich Bergermann & Partner | 1992 | Kolkata, IN | no good photo seen: tried a deck view in cloud, a hazy deck view and a sunset silhouette (File:Vidyasagar Setu 2010.jpg); the category has 56 files, a daylight side view probably exists but was not seen. Opened 10 Oct 1992. |
+| Bishop's College, Colombo (Bawa classroom block) | Geoffrey Bawa (with Ulrik Plesner) | 1963 | Colombo, LK | no free photo (Commons has none; Wikipedia article has only a crest). Wikipedia says Bawa and Plesner were engaged in 1959; Bawa list gives 1960-1963. |
+| Blue Water Hotel | Geoffrey Bawa | 1998 | Wadduwa, LK | no free photo: the only file (Coconut trees and pool.jpg) shows pool and palms, not the building's exterior. |
+| Pradeep Jayewardene House | Geoffrey Bawa | 1998 | Mirissa, LK | no free photo found on Commons. |
+| Zebun Nessa Mosque | Saiqa Iqbal Meghna (Studio Morphogenesis) | 2023 | Ashulia, BD | no free photo found on Commons (searches empty). |
+| Sindh Assembly Building | Anderson & Asarpota | 1943 | Karachi, PK | no free photo (only an interior and a low-res image found) |
