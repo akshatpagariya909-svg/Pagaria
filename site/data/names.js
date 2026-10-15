@@ -97,7 +97,8 @@ window.NAMES = (() => {
   }
   function tidy(name) {
     if (SAME[name]) return SAME[name];
-    const bare = name.replace(/\s*\(.*?\)\s*/g, ' ').replace(/\s*\(.*$/, '').trim() || name;
+    // Only a bracket after a space is a note; "Coop Himmelb(l)au" keeps its own.
+    const bare = name.replace(/\s+\(.*?\)/g, ' ').replace(/\s+\(.*$/, '').replace(/\s+/g, ' ').trim() || name;
     return SAME[bare] || bare;
   }
   // How many buildings each tidied name has, before the two steps below.

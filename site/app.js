@@ -228,7 +228,6 @@
     if (atTable) drawTable();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('allLink').dataset.tip = 'A huge, growing collection of buildings';
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
@@ -295,14 +294,15 @@
       `<span class="mc-links">${n > 1 ? `<button type="button" data-arch="${esc(who)}">See all ${n} buildings →</button>` : '<span></span>'}` +
       `${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">Jury citation ↗</a>` : ''}</span></div>`;
   }
+  // The portrait's credit sits small at the very bottom of the sheet, not under the byline.
+  const portraitCredit = p => p ? `Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}` : '';
   function bylineHtml(b) {
     const who = firstArchitect(b), p = portraitOf(b), n = byArchitect(b).length + 1;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : `<span class="face initials" aria-hidden="true">${esc(initials(who))}</span>`;
     const text = `<span class="by-text"><i>by</i><b${b.by.length > 28 || b.by.split(/[\s-]/).some(w => w.length > 10) ? ' class="long"' : ''}>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
-    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
     const w = laureateOf(p, who);
     const link = n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
-    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>` + credit;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>`;
   }
   // Natural Earth projection, the same as tools/make_world.py; coords are [lat, lon].
   function project(lat, lon) {
@@ -334,8 +334,9 @@
       (here ? `<path class="here" d="${here}"/>` : '') +
       (pt && tiny ? `<circle class="ring" ${at} r="${(8 * u).toFixed(1)}"/>` : '') +
       (pt && b.coords ? `<circle class="pin" ${at} r="${(3.5 * u).toFixed(1)}"/>` : '') +
-      `</svg><span class="where-name">${esc(name)}</span>`;
+      `</svg><span class="where-name">${esc(placeName(b))} ↗</span>`;
   }
+  const placeName = b => { const city = b.place.split(',')[0], country = countryName(countryOf(b)); return city === country ? city : city + ', ' + country; };
   function mapUrl(b) {
     if (b.coords) { const [la, lo] = b.coords; return `https://www.openstreetmap.org/?mlat=${la}&mlon=${lo}#map=16/${la}/${lo}`; }
     return 'https://www.openstreetmap.org/search?query=' + q(b.name + ', ' + b.place.split(',')[0] + ', ' + countryName(countryOf(b)));
@@ -373,15 +374,17 @@
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
   // Go deeper (v14 · A): each site's own icon, cut out and printed in ink so it turns red with its cell.
-  const LOGOS = { ArchDaily: 'archdaily.png', WikiArquitectura: 'wikiarquitectura.svg', Dezeen: 'dezeen.png', Divisare: 'divisare.png', archINFORM: 'archinform.png', Wikipedia: 'wikipedia.png', YouTube: 'youtube.png', 'Wikimedia Commons': 'commons.svg', Map: 'openstreetmap.svg' };
+  // Each site's own logo (images/logos/c): in its colours where they read on white and on black, else in a mid grey,
+  // so the logos stay visible when a phone or browser turns the page dark.
+  const LOGOS = { ArchDaily: 'archdaily.png', WikiArquitectura: 'wikiarquitectura.svg', Dezeen: 'dezeen.png', Divisare: 'divisare.png', archINFORM: 'archinform.png', Wikipedia: 'wikipedia.png', YouTube: 'youtube.png', 'Wikimedia Commons': 'commons.png', Map: 'openstreetmap.png' };
   const logoOf = n => n === 'Official website' ? '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>'
-    : LOGOS[n] ? `<i class="lg" aria-hidden="true" style="--m: url(images/logos/ink/${LOGOS[n]})"></i>` : '';
-  const CORE = [['Projects & drawings', 'ArchDaily', 'archdaily.com'], ['Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'], ['News & features', 'Dezeen', 'dezeen.com']];
+    : LOGOS[n] ? `<img class="lg" src="images/logos/c/${LOGOS[n]}" alt="" aria-hidden="true">` : '';
+  // Without a verified page on one of these sites, the link opens that site's own search for the building.
+  const CORE = [['Projects & drawings', 'ArchDaily', 'https://www.archdaily.com/search/projects?q='], ['Plans & sections', 'WikiArquitectura', 'https://en.wikiarquitectura.com/?s='], ['News & features', 'Dezeen', 'https://www.dezeen.com/?s=']];
   function linksFor(b) {
     const name = b.name, city = b.place.split(',')[0], found = b.links || [];
-    const lucky = (domain) => 'https://duckduckgo.com/?q=' + q('\\ site:' + domain + ' ' + name + ' ' + b.by);
     const out = found.map((l) => [l.kind, l.site, l.url, true]);
-    for (const [k, n, domain] of CORE) if (!found.some((l) => l.site === n)) out.push([k, n, lucky(domain), false]);
+    for (const [k, n, search] of CORE) if (!found.some((l) => l.site === n)) out.push([k, n, search + q(name), false]);
     out.push(['Read', 'Wikipedia', b.wiki || 'https://en.wikipedia.org/w/index.php?search=' + q(name + ' ' + city), !!b.wiki]);
     out.push(['Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(name + ' ' + b.by + ' architecture'), true]);
     out.push(['More photos', 'Wikimedia Commons', b.commons ? 'https://commons.wikimedia.org/wiki/' + q(b.commons.replace(/ /g, '_')) : 'https://commons.wikimedia.org/w/index.php?search=' + q(name), true]);
@@ -412,29 +415,28 @@
     card.classList.remove('book');
     $('where').hidden = false; $('pageLink').hidden = false; $('shopNote').hidden = true;
     $('linksTitle').textContent = 'Go deeper';
-    $('chipsHint').textContent = 'Each opens every building that shares the idea.';
 
     $('strip').innerHTML = (b.images || []).map((im, k) =>
       `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${b.type} · ${b.movement}`;
-    kick.classList.toggle('surprise', !!surprise);
+    kick.textContent = `${b.type} · ${b.movement}`;
     $('bName').textContent = b.name;
     const city = b.place.split(',')[0], country = countryName(countryOf(b));
     $('byline').innerHTML = bylineHtml(b);
+    $('bCredits').innerHTML = portraitCredit(portraitOf(b));
     $('where').innerHTML = mapHtml(b);
     $('where').href = mapUrl(b);
     $('where').setAttribute('aria-label', `Open map: ${city === country ? city : city + ', ' + country}`);
-    $('bMeta').innerHTML = `${esc(city === country ? city : city + ', ' + country)} · ${esc(b.year)} · <a href="${esc(mapUrl(b))}" target="_blank" rel="noopener">Open map ↗</a>`;
+    $('bMeta').textContent = b.year;
     $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
     $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
       `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
 
     $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
-      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
 
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
@@ -511,10 +513,9 @@
     const n = who ? ALL.filter(x => byOf(x).includes(NAMES.canon(who))).length : 0;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : '';
     const text = `<span class="by-text"><i>by</i><b>${esc(k.by)}</b>${n ? `<span class="see">${esc(who)} on the wall: ${n} building${n > 1 ? 's' : ''} →</span>` : ''}</span>`;
-    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
     const w = p ? laureateOf(p, who) : null;
     const link = n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
-    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>` + credit;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>`;
   }
   function bookLinks(k) {
     const a = k.by.split(/,| and |\(/)[0].trim(), s = q(k.title + ' ' + a);
@@ -557,10 +558,10 @@
     card.classList.add('book');
     showCover(k);
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : [k.shelf, (k.tags || [])[0]].filter(Boolean).join(' · ');
-    kick.classList.toggle('surprise', !!surprise);
+    kick.textContent = [k.shelf, (k.tags || [])[0]].filter(Boolean).join(' · ');
     $('bName').textContent = k.title;
     $('byline').innerHTML = bylineBookHtml(k);
+    $('bCredits').innerHTML = portraitCredit((k.architects || [])[0] ? portraitByName(k.architects[0]) : null);
     $('where').hidden = true;
     $('bMeta').innerHTML = `First published ${esc(k.year)}${k.isbn ? ` · ISBN ${esc(k.isbn)}` : ''}`;
     $('bStudy').innerHTML = `<span>Why read it</span>${esc(k.why)}`;
@@ -585,7 +586,6 @@
     $('sameTypeRel').innerHTML = relBooksHtml(kin.slice(0, 3));
     $('bChips').innerHTML = `<button type="button" class="chip" data-shelf="${esc(k.shelf)}">${esc(k.shelf)} <span class="n">→</span></button>` +
       (k.tags || []).map(t => `<button type="button" class="chip quiet" data-tag="${esc(t)}">${esc(t)} <span class="n">→</span></button>`).join('');
-    $('chipsHint').textContent = 'The shelf opens the books wall; each tag searches it.';
 
     if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); }
     sheet.hidden = false;
@@ -805,7 +805,8 @@
         body.innerHTML = `<p class="cat-blurb">${esc(CATEGORIES[k].blurb)}</p><div class="cat-row">` +
           table.lists[k].map(x => `<button type="button" data-book="${esc(x.id)}" data-list="${k}">${coverOnly(x)}<b>${esc(x.title)}</b><small>${esc(x.by)}</small></button>`).join('') +
           `</div><button type="button" class="cat-arr prev" data-dir="-1" aria-label="Earlier books" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></span></button>` +
-          `<button type="button" class="cat-arr next" data-dir="1" aria-label="More books in ${esc(CATEGORIES[k].name)}" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span></button>`;
+          `<button type="button" class="cat-arr next" data-dir="1" aria-label="More books in ${esc(CATEGORIES[k].name)}" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span></button>` +
+          `<div class="cat-dots" aria-hidden="true"></div>`;
         body.querySelector('.cat-row').addEventListener('scroll', () => catArrows(body), { passive: true });
       }
       if (on) requestAnimationFrame(() => catArrows(body));
@@ -816,6 +817,12 @@
     const row = body.querySelector('.cat-row'); if (!row) return;
     body.querySelector('.prev').hidden = row.scrollLeft <= 2;
     body.querySelector('.next').hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
+    // Page dots under the row: how far along the shelf you are (at most ten, each a stretch of it); a dot jumps there.
+    const max = row.scrollWidth - row.clientWidth, dots = body.querySelector('.cat-dots');
+    const n = max > 2 ? Math.min(10, Math.ceil(row.scrollWidth / row.clientWidth)) : 0;
+    const at = n > 1 ? Math.round(row.scrollLeft / max * (n - 1)) : 0;
+    if (dots.children.length !== n) dots.innerHTML = Array.from({ length: n }, (_, i) => `<button type="button" data-dot="${i}" tabindex="-1"></button>`).join('');
+    [...dots.children].forEach((d, i) => d.classList.toggle('on', i === at));
   }
   function drawTable() {
     if (table.built) return;
@@ -833,6 +840,10 @@
       const row = t.parentElement.querySelector('.cat-row'), first = row.firstElementChild;
       const col = first ? first.getBoundingClientRect().width + parseFloat(getComputedStyle(row).columnGap || 0) : row.clientWidth / 8;
       return row.scrollBy({ left: +t.dataset.dir * col * 8, behavior: 'smooth' });
+    }
+    if (t.dataset.dot != null) { // a page dot: jump to that stretch of the shelf
+      const row = t.closest('.cat-b').querySelector('.cat-row'), n = t.parentElement.children.length;
+      return row.scrollTo({ left: +t.dataset.dot / (n - 1) * (row.scrollWidth - row.clientWidth), behavior: 'smooth' });
     }
     if (t.dataset.book) openBook(t.dataset.book, false, t, false, t.dataset.list === 'feat' ? table.five : table.lists[+t.dataset.list]);
   });
@@ -893,7 +904,6 @@
     $('modeBooks').setAttribute('aria-pressed', books);
     $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
     $('filterBtn').hidden = books;
-    $('allLink').hidden = books;
     $('feed').setAttribute('aria-label', books ? 'Books' : 'Buildings');
     toggleFilters(false);
     if (!quiet) render(true);
@@ -956,7 +966,7 @@
 
   /* ---------- start ---------- */
   window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
-    coin, medalHtml, laureate: name => laureateOf(null, name),
+    coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position

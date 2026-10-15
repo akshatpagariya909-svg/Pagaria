@@ -120,16 +120,17 @@ def related(b, items, n=6):
     return sorted((x for x in items if x['id'] != b['id']), key=score, reverse=True)[:n]
 
 
-CORE = [('Projects & drawings', 'ArchDaily', 'archdaily.com'), ('Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'),
-        ('News & features', 'Dezeen', 'dezeen.com')]
+# Without a verified page on one of these sites, the link opens that site's own search for the building.
+CORE = [('Projects & drawings', 'ArchDaily', 'https://www.archdaily.com/search/projects?q='),
+        ('Plans & sections', 'WikiArquitectura', 'https://en.wikiarquitectura.com/?s='),
+        ('News & features', 'Dezeen', 'https://www.dezeen.com/?s=')]
 
 
 def links(b):
-    """(kind, site, url, direct): verified pages from tools/find_links.py, then the core sites' top search result."""
+    """(kind, site, url, direct): verified pages from tools/find_links.py, then the core sites' own search."""
     name, city, found = b['name'], b['place'].split(',')[0], b.get('links') or []
     out = [(l['kind'], l['site'], l['url'], True) for l in found]
-    out += [(k, n, 'https://duckduckgo.com/?q=' + q(f"\\ site:{d} {name} {b['by']}"), False)
-            for k, n, d in CORE if not any(l['site'] == n for l in found)]
+    out += [(k, n, search + q(name), False) for k, n, search in CORE if not any(l['site'] == n for l in found)]
     commons = 'https://commons.wikimedia.org/wiki/' + q(b['commons'].replace(' ', '_')) if b.get('commons') else 'https://commons.wikimedia.org/w/index.php?search=' + q(name)
     return out + [
         ('Read', 'Wikipedia', b.get('wiki') or 'https://en.wikipedia.org/w/index.php?search=' + q(f'{name} {city}'), bool(b.get('wiki'))),
@@ -356,17 +357,18 @@ def redness(im):
     return r - (g + b) / 2
 
 
-# Go deeper (v14 · A): each site's own icon, cut out in ink (site/images/logos/ink), red with its cell on hover.
+# Go deeper: each site's own logo (site/images/logos/c), in its colours where they read on white and on black, else in a
+# mid grey, so the logos stay visible when a phone or browser turns the page dark.
 LOGOS = {'ArchDaily': 'archdaily.png', 'WikiArquitectura': 'wikiarquitectura.svg', 'Dezeen': 'dezeen.png', 'Divisare': 'divisare.png',
-         'archINFORM': 'archinform.png', 'Wikipedia': 'wikipedia.png', 'YouTube': 'youtube.png', 'Wikimedia Commons': 'commons.svg',
-         'Map': 'openstreetmap.svg'}
+         'archINFORM': 'archinform.png', 'Wikipedia': 'wikipedia.png', 'YouTube': 'youtube.png', 'Wikimedia Commons': 'commons.png',
+         'Map': 'openstreetmap.png'}
 GLOBE = '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>'
 
 
 def logo_html(n, up):
     if n == 'Official website':
         return GLOBE
-    return f'<i class="lg" aria-hidden="true" style="--m: url({up}images/logos/ink/{LOGOS[n]})"></i>' if n in LOGOS else ''
+    return f'<img class="lg" src="{up}images/logos/c/{LOGOS[n]}" alt="" aria-hidden="true">' if n in LOGOS else ''
 
 
 def og_image(items):
@@ -409,7 +411,8 @@ def og_image(items):
 def icons():
     """The tab and home-screen icon: a black A (for Architecture) with the red full stop, on white (v19)."""
     from PIL import Image, ImageDraw, ImageFont
-    for size, name in [(32, 'favicon.png'), (180, 'apple-touch-icon.png'), (512, 'icon-512.png')]:
+    # Google shows a site's icon in results only if it is a multiple of 48 px (48, 96, 144, 192...), so those sizes and an .ico too.
+    for size, name in [(32, 'favicon.png'), (48, 'favicon-48.png'), (96, 'favicon-96.png'), (180, 'apple-touch-icon.png'), (192, 'favicon-192.png'), (512, 'icon-512.png')]:
         S = size * 4
         im = Image.new('RGB', (S, S), (255, 255, 255))
         d = ImageDraw.Draw(im)
@@ -421,6 +424,7 @@ def icons():
         d.text((x, y), 'A', font=f, fill=INK, anchor='ls')
         d.text((x + fw, y), '.', font=f, fill=RED, anchor='ls')
         im.resize((size, size), Image.LANCZOS).save(SITE / name)
+    Image.open(SITE / 'icon-512.png').save(SITE / 'favicon.ico', sizes=[(16, 16), (32, 32), (48, 48)])
 
 
 def fingerprint(path):
@@ -433,7 +437,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'app.js', 'filter.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
