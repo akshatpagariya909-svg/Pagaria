@@ -1,4 +1,4 @@
-# Every day, pulls the site's visitor numbers from GoatCounter and saves them on the
+# Every 6 hours, pulls the site's visitor numbers from GoatCounter and saves them on the
 # `analytics-data` branch (never on main, so it never triggers a site deploy).
 # One-time setup: repo Settings -> Secrets and variables -> Actions -> New repository secret
 #   name GOATCOUNTER_TOKEN, value = a read-only key from GoatCounter (Settings -> API).
@@ -6,7 +6,7 @@
 name: Fetch analytics
 on:
   schedule:
-    - cron: '17 3 * * *'  # 03:17 UTC every day
+    - cron: '7 */6 * * *'  # 00:07, 06:07, 12:07 and 18:07 UTC; the dashboard routine runs an hour later (see tools/analytics_dashboard_data.py)
   workflow_dispatch:
 permissions:
   contents: write

@@ -7,7 +7,21 @@ small tables the visitor dashboard reads. Plain reshaping, no calculation beyond
 Writes into --out: daily.csv, breakdowns.json, pages.json, status.json
 (Buildings and books opened are rows of breakdowns.json with group 'Opened': a file with no rows cannot be loaded by the dashboard.)
 """
-import argparse, csv, json, os
+import argparse, csv, datetime as dt, json, os
+
+# The dashboard is refreshed at these UTC hours, at minute 07, one hour after each GitHub fetch (workflow analytics.yml).
+# Keep in step with the "Refresh Visitors dashboard" routine's schedule.
+REFRESH_HOURS_UTC = (1, 7, 13, 19)
+
+
+def next_refresh(now):
+    """The next scheduled refresh after `now` (UTC)."""
+    for day in (0, 1):
+        for h in REFRESH_HOURS_UTC:
+            t = (now + dt.timedelta(days=day)).replace(hour=h, minute=7, second=0, microsecond=0)
+            if t > now:
+                return t
+
 
 DEVICES = {'phone': 'Phone', 'tablet': 'Tablet', 'desktop': 'Desktop', 'desktophd': 'Large desktop', 'unknown': 'Unknown'}
 
@@ -54,7 +68,10 @@ def main():
     pages.sort(key=lambda r: -r['visits'])
     json.dump(rows, open(os.path.join(a.out, 'breakdowns.json'), 'w'), indent=1)
     json.dump(pages, open(os.path.join(a.out, 'pages.json'), 'w'), indent=1)
-    json.dump([{'fetched_at': latest['fetched_at'], 'visits_30d': latest.get('visits_30d')}], open(os.path.join(a.out, 'status.json'), 'w'), indent=1)
+    now = dt.datetime.now(dt.timezone.utc)
+    json.dump([{'fetched_at': latest['fetched_at'], 'visits_30d': latest.get('visits_30d'),
+                'refreshed_at': now.isoformat(timespec='seconds'), 'next_refresh': next_refresh(now).isoformat(timespec='seconds')}],
+              open(os.path.join(a.out, 'status.json'), 'w'), indent=1)
     print(f'{len(rows)} breakdown rows ({sum(1 for r in rows if r["group"] == "Opened")} opened buildings/books), {len(pages)} pages')
 
 
