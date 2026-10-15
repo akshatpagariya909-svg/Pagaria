@@ -18,12 +18,13 @@
 <section class="globe" id="globe" aria-label="Map of the buildings" hidden>
   <canvas id="gView"></canvas>
   <div class="g-here" id="gHere" hidden></div>
+  <div class="g-none" id="gNone" hidden>No buildings on the map match this search.</div>
   <div class="g-help" id="gHelp">Drag · pinch to zoom · tap a photo</div>
   <div class="g-zoom"><button type="button" id="gIn" aria-label="Zoom in">+</button><button type="button" id="gOut" aria-label="Zoom out">−</button></div>
   <div class="g-tip" id="gTip" hidden><span class="k" id="gtKind"></span><b id="gtName"></b><span class="m" id="gtMeta"></span><p id="gtStudy"></p></div>
   <div class="g-card" id="gCard" hidden>
-    <img id="gcImg" alt="">
-    <div class="tx"><span class="k" id="gcKind"></span><b id="gcName"></b><span class="m" id="gcMeta"></span>
+    <div class="g-ph"><div class="g-strip" id="gcStrip"></div><span class="dots" id="gcDots" aria-hidden="true"></span></div>
+    <div class="tx"><span class="k" id="gcKind"></span><b id="gcName"></b><span class="m" id="gcMeta"></span><p id="gcStudy"></p>
       <button type="button" class="open" id="gcOpen">Open the building →</button></div>
     <button type="button" class="x" id="gcX" aria-label="Close">✕</button>
   </div>
@@ -31,7 +32,7 @@
   const panel = $('globe'), view = $('gView'), ctx = view.getContext('2d');
 
   /* ---------- data: buildings with a known position, best known first ---------- */
-  let items = [], LAND = null, DETAIL = null, detailLoading = false, labels = [], ready = null;
+  let all = [], items = [], LAND = null, DETAIL = null, detailLoading = false, labels = [], ready = null;
   const thumbs = new Map(); // id -> Image, loaded only for photos on screen
   function load() {
     if (ready) return ready;
@@ -39,10 +40,11 @@
     const json = f => fetch('data/map/' + f).then(r => r.json());
     ready = Promise.all([script, json('land110.json'), json('labels.json'), json('order.json').catch(() => [])]).then(([, land, lab, order]) => {
       const rank = new Map(order.map((id, i) => [id, i]));
-      items = DA.ALL.filter(b => b.coords && b.images && b.images.length).map(b => {
+      all = DA.ALL.filter(b => b.coords && b.images && b.images.length).map(b => {
         const la = b.coords[0] * Math.PI / 180, lo = b.coords[1] * Math.PI / 180;
         return { b, lat: b.coords[0], lon: b.coords[1], vx: Math.cos(la) * Math.cos(lo), vy: Math.cos(la) * Math.sin(lo), vz: Math.sin(la), r: rank.has(b.id) ? rank.get(b.id) : 1e9 };
       }).sort((a, c) => a.r - c.r);
+      items = all.filter(it => DA.matches(it.b));
       LAND = pieces(land);
       labels = lab.map(l => { const a = l[2] * Math.PI / 180, o = l[1] * Math.PI / 180; return { name: l[0].toUpperCase(), lon: l[1], lat: l[2], size: l[3], vx: Math.cos(a) * Math.cos(o), vy: Math.cos(a) * Math.sin(o), vz: Math.sin(a) }; });
     });
@@ -188,14 +190,24 @@
     $('gCard').hidden = !it;
     if (it) {
       const b = it.b;
-      $('gcImg').src = b.images[0].thumb; $('gcKind').textContent = `${b.type} · ${b.movement}`;
-      $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b);
+      const ims = b.images.filter(im => !/drawing\.svg$/.test(im.src));
+      // every photo, side by side: swipe sideways through them; the dots say which one is showing
+      $('gcStrip').innerHTML = ims.map((im, k) => `<img src="${esc(im.thumb)}" alt="${k ? '' : esc(b.name)}" loading="${k ? 'lazy' : 'eager'}" decoding="async">`).join('');
+      $('gcStrip').scrollLeft = 0;
+      $('gcDots').innerHTML = ims.length > 1 ? ims.slice(0, 6).map((_, k) => `<i${k ? '' : ' class="on"'}></i>`).join('') : '';
+      $('gcKind').textContent = `${b.type} · ${b.movement}`;
+      $('gcName').textContent = b.name; $('gcMeta').textContent = metaOf(b); $('gcStudy').textContent = b.study || '';
     }
     dirty();
   }
   function open(it) { card(null); selected = it; dirty(); DA.open(it.b.id); }
   $('gcOpen').addEventListener('click', () => { if (selected) open(selected); });
   $('gcX').addEventListener('click', () => card(null));
+  $('gcStrip').addEventListener('scroll', () => {
+    const st = $('gcStrip'), k = Math.round(st.scrollLeft / st.clientWidth), dots = $('gcDots').children;
+    for (let j = 0; j < dots.length; j++) dots[j].classList.toggle('on', j === Math.min(k, dots.length - 1));
+  }, { passive: true });
+  $('gcStrip').addEventListener('click', () => { if (selected) open(selected); }); // tapping the photo itself opens the building
 
   /* ---------- moving: drag with a glide, pinch, wheel, double tap, + and −; a bounce at the smallest size ---------- */
   const ptrs = new Map();
@@ -227,7 +239,7 @@
       V.k = it ? (t < .5 ? k0 + (mid - k0) * d3.easeCubicOut(t * 2) : mid + (k1 - mid) * d3.easeCubicIn((t - .5) * 2)) : k0 + (k1 - k0) * e;
       clampView(); draw();
       flight = t < 1 ? requestAnimationFrame(step) : 0;
-      if (t >= 1 && it) card(it);
+      if (t >= 1 && it && !it.quiet) card(it);
     };
     flight = requestAnimationFrame(step);
   }
@@ -271,7 +283,9 @@
       const [x, y] = local(e), it = hit(x, y), now = performance.now();
       if (!it && e.pointerType === 'touch' && lastTap && now - lastTap[0] < 320 && Math.hypot(x - lastTap[1], y - lastTap[2]) < 40) { lastTap = null; fly(null, V.k * 3, [x, y]); return; }
       lastTap = [now, x, y];
-      if (it) open(it); else card(null);
+      if (!it) card(null);
+      else if (e.pointerType === 'mouse') open(it); // a computer goes straight to the building
+      else card(it); // a phone first shows a small preview: swipe its photos, then open the building
       return;
     }
     if (performance.now() - last[2] < 80 && Math.hypot(vel[0], vel[1]) > 1) {
@@ -313,7 +327,16 @@
 
   /* ---------- open and close ---------- */
   const isOpen = () => !panel.hidden;
+  // the map sits under the top bar and the ideas row, so search, filters and ideas stay in reach
+  function place() {
+    document.body.classList.remove('ideas-away');
+    const bar = document.querySelector('.bar');
+    const below = bar.getBoundingClientRect().bottom; // the ideas row floats over the top of the map
+    panel.style.top = Math.max(0, Math.round(below)) + 'px';
+  }
   async function openMap() {
+    if (DA.state.mode === 'books') return;
+    place();
     panel.hidden = false; document.body.classList.add('mapped');
     requestAnimationFrame(() => panel.classList.add('in'));
     await load();
@@ -323,14 +346,41 @@
       GRAT = d3.geoGraticule().step([15, 15]).extentMinor([[-180, -75], [180, 75]]).precision(1)();
     }
     resize();
+    $('gNone').hidden = items.length > 0;
+    if (items.length && items.length < all.length) fit();
   }
   function closeMap() {
-    panel.classList.remove('in'); document.body.classList.remove('mapped'); card(null);
+    panel.classList.remove('in'); document.body.classList.remove('mapped'); card(null); $('gNone').hidden = true;
     setTimeout(() => { if (!document.body.classList.contains('mapped')) panel.hidden = true; }, reduce() ? 0 : 320);
   }
   $('mapBtn').addEventListener('click', openMap);
   $('mapBack').addEventListener('click', closeMap);
-  addEventListener('resize', () => { if (isOpen()) resize(); });
+  addEventListener('resize', () => { if (isOpen()) { place(); resize(); } });
+  // search, filters and ideas change the wall: the map shows the same buildings and moves to fit them
+  let lastSet = '';
+  document.addEventListener('da:render', () => {
+    if (!all.length) return;
+    if (DA.state.mode === 'books') { if (isOpen()) closeMap(); return; }
+    items = all.filter(it => DA.matches(it.b));
+    const key = items.length + ':' + (items[0] ? items[0].b.id : '') + ':' + (items[items.length - 1] ? items[items.length - 1].b.id : '');
+    if (key === lastSet) return;
+    lastSet = key;
+    if (!isOpen()) return;
+    if (selected && !items.includes(selected)) card(null);
+    $('gNone').hidden = items.length > 0;
+    if (items.length && items.length < all.length) fit(); else dirty();
+  });
+  function fit() { // centre on where most of the buildings shown are, and zoom so most of them fit
+    const sample = items.slice(0, 300);
+    let seed = sample[0], most = -1;
+    for (const a of sample) { let n = 0; for (const o of sample) if (a.vx * o.vx + a.vy * o.vy + a.vz * o.vz > .94) n++; if (n > most) { most = n; seed = a; } }
+    let x = 0, y = 0, z = 0;
+    for (const o of items) if (seed.vx * o.vx + seed.vy * o.vy + seed.vz * o.vz > .8) { x += o.vx; y += o.vy; z += o.vz; }
+    const n = Math.hypot(x, y, z) || 1, c = [Math.atan2(y, x) * 180 / Math.PI, Math.asin(z / n) * 180 / Math.PI];
+    const d = items.map(it => d3.geoDistance(c, [it.lon, it.lat])).sort((a, b) => a - b), th = Math.max(.03, d[Math.floor((d.length - 1) * .75)]);
+    const k = th > 1.1 ? 1 : Math.min(60, .9 / Math.sin(th));
+    fly({ lon: c[0], lat: c[1], quiet: true }, k);
+  }
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && isOpen() && $('sheet').hidden) closeMap(); });
   // Surprise me on the map: fly to a well-known building and show the small card (the wall's own Surprise me is untouched)
   document.addEventListener('click', e => {
