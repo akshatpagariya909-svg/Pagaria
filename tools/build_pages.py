@@ -349,18 +349,18 @@ def og_image(items):
 
 
 def icons():
-    """The tab and home-screen icon: a black F with the red full stop, on white."""
+    """The tab and home-screen icon: a black A (for Architecture) with the red full stop, on white (v19)."""
     from PIL import Image, ImageDraw, ImageFont
     for size, name in [(32, 'favicon.png'), (180, 'apple-touch-icon.png'), (512, 'icon-512.png')]:
         S = size * 4
         im = Image.new('RGB', (S, S), (255, 255, 255))
         d = ImageDraw.Draw(im)
         f = ImageFont.truetype(str(FONTS / 'BigShouldersDisplay-Black.ttf'), int(S * 0.86))
-        fw = d.textlength('F', font=f)
+        fw = d.textlength('A', font=f)
         dw = d.textlength('.', font=f)
         x = (S - fw - dw) / 2
-        y = S * 0.5 + f.getbbox('F')[3] * 0.5 - f.getbbox('F')[1] * 0.5
-        d.text((x, y), 'F', font=f, fill=INK, anchor='ls')
+        y = S * 0.5 + f.getbbox('A')[3] * 0.5 - f.getbbox('A')[1] * 0.5
+        d.text((x, y), 'A', font=f, fill=INK, anchor='ls')
         d.text((x + fw, y), '.', font=f, fill=RED, anchor='ls')
         im.resize((size, size), Image.LANCZOS).save(SITE / name)
 
@@ -375,13 +375,13 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/buildings.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'app.js', 'filter.js'):
+    for name in ('styles.css', 'data/buildings.js', 'data/names.js', 'data/links.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'app.js', 'filter.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
     if play.exists():
         html = play.read_text()
-        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js')):
+        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
 
