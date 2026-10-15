@@ -30,13 +30,14 @@
   // Shop links. Put an Amazon Associates tag here once the account is live; the disclosure line then shows itself.
   const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
+  const NAMES = window.NAMES || { list: by => by.split(',').map(s => s.trim()), canon: s => s };
   const GROUPS = [{ key: 'concepts', all: true }, { key: 'type' }, { key: 'movement' }, { key: 'region' }, { key: 'country' }, { key: 'arch' }];
-  // Fields the filter panel uses: country code, first credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
+  // Fields the filter panel uses: country code, every credited architect (one name each, from data/names.js), and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
   const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
   ALL.forEach(b => {
     const c = b.place.split(', ').pop();
     b.country = CODE_FIX[c] || c;
-    b.arch = b.by.split(',')[0].trim();
+    b.arch = NAMES.list(b.by);
     b.decade = b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1);
   });
 
@@ -231,7 +232,7 @@
 
   /* ---------- opened building ---------- */
   const q = s => encodeURIComponent(s);
-  const byOf = b => b.by.split(',').map(s => s.trim());
+  const byOf = b => b.arch;
   const firstArchitect = b => byOf(b)[0];
   // Same type first by shared ideas, then a stable shuffle so each building gets a different few.
   const mix = (b, x) => ((x.n * 13 + b.n * 7) % 17) / 100;
@@ -258,7 +259,7 @@
   // keys are the names a winner goes by on the wall (portrait names, by-line names, the firm); the medal follows the
   // face shown, else the first architect named.
   const LAUREATE = new Map();
-  (window.PRITZKER || []).forEach(w => (w.keys || []).forEach(k => LAUREATE.set(fold(k), w)));
+  (window.PRITZKER || []).forEach(w => (w.keys || []).forEach(k => { LAUREATE.set(fold(k), w); LAUREATE.set(fold(NAMES.canon(k)), w); }));
   const laureateOf = (p, who) => (p && LAUREATE.get(fold(p.name))) || (who && LAUREATE.get(fold(who))) || null;
   let medals = 0;
   const coin = id => `<svg viewBox="0 0 48 48" aria-hidden="true"><defs><radialGradient id="${id}" cx="36%" cy="30%" r="80%"><stop offset="0" stop-color="#FCEBB0"/><stop offset=".5" stop-color="#D9AE45"/><stop offset="1" stop-color="#9A7322"/></radialGradient></defs>` +
@@ -445,7 +446,7 @@
     const out = [], add = k => { if (!out.includes(k)) out.push(k); };
     BOOKS.filter(k => (k.buildings || []).includes(b.id)).forEach(add);
     const names = byOf(b);
-    BOOKS.filter(k => (k.architects || []).some(a => names.includes(a))).sort((x, y) => x.y - y.y).forEach(add);
+    BOOKS.filter(k => (k.architects || []).some(a => names.includes(NAMES.canon(a)))).sort((x, y) => x.y - y.y).forEach(add);
     const words = new Set([b.type, ...(b.concepts || [])].map(fold));
     const shared = k => (k.tags || []).filter(t => words.has(fold(t))).length;
     // Movement books are general ones (surveys, theory); a monograph on another architect isn't related. A book about a
@@ -481,7 +482,7 @@
   }
   function bylineBookHtml(k) {
     const who = (k.architects || [])[0], p = who ? portraitByName(who) : null;
-    const n = who ? ALL.filter(x => byOf(x).includes(who)).length : 0;
+    const n = who ? ALL.filter(x => byOf(x).includes(NAMES.canon(who))).length : 0;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : '';
     const text = `<span class="by-text"><i>by</i><b>${esc(k.by)}</b>${n ? `<span class="see">${esc(who)} on the wall: ${n} building${n > 1 ? 's' : ''} →</span>` : ''}</span>`;
     const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
@@ -511,7 +512,7 @@
   // Buildings a book goes with: the ones it names, then everything on the wall by the architects it is about.
   function buildingsOf(k) {
     const out = (k.buildings || []).map(id => ALL.find(x => x.id === id)).filter(Boolean);
-    for (const a of k.architects || []) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
+    for (const a of (k.architects || []).map(NAMES.canon)) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
     return out;
   }
   const sameShelf = k => BOOKS.filter(x => x !== k && x.shelf === k.shelf)
@@ -646,12 +647,17 @@
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));
-  // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
+  // "See all" for an architect chooses them in the Architect filter, so the filter panel can still swap or add architects
+  // (a name no building credits falls back to a search); "All" for a typology filters by it.
   function showOnWall(arch, type) {
     setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
     if (type) state.filters.type.add(type);
-    $('q').value = arch || ''; state.q = fold(arch || '');
+    if (arch) arch = NAMES.canon(arch);
+    const known = arch && ALL.some(b => b.arch.includes(arch));
+    if (known) state.filters.arch.add(arch);
+    const text = known ? '' : arch || '';
+    $('q').value = text; state.q = fold(text);
     closeBuilding(); refreshFilters(); render(true);
   }
   // The books wall, searched for a word or narrowed to one shelf.
