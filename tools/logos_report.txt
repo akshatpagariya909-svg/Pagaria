@@ -2,7 +2,7 @@ archdaily: archdaily.png (128px)  (https://www.archdaily.com/)
 wikiarquitectura: wikiarquitectura.svg  (https://en.wikiarquitectura.com/)
 dezeen: dezeen.png (128px)  (https://www.dezeen.com/)
 divisare: divisare.png (128px)  (https://divisare.com/)
-archinform: failed, HTTP Error 300: Multiple Choices
+archinform: archinform.png (32px)  (https://www.archinform.net/)
 wikipedia: wikipedia.png (128px)  (https://en.wikipedia.org/)
 youtube: youtube.png (128px)  (https://www.youtube.com/)
 commons: commons.png (128px)  (https://commons.wikimedia.org/)

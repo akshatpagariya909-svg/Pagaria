@@ -1,0 +1,40 @@
+# Every 6 hours, pulls the site's visitor numbers from GoatCounter and saves them on the
+# `analytics-data` branch (never on main, so it never triggers a site deploy).
+# One-time setup: repo Settings -> Secrets and variables -> Actions -> New repository secret
+#   name GOATCOUNTER_TOKEN, value = a read-only key from GoatCounter (Settings -> API).
+# Check it any time: Actions tab -> "Fetch analytics" -> Run workflow.
+name: Fetch analytics
+on:
+  schedule:
+    - cron: '7 */6 * * *'  # 00:07, 06:07, 12:07 and 18:07 UTC; the dashboard routine runs an hour later (see tools/analytics_dashboard_data.py)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: analytics
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open the analytics-data branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir ../data && cd ../data
+          git init -q -b analytics-data
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin analytics-data; then git reset -q --hard FETCH_HEAD; else echo "First run: the branch will be created."; fi
+      - name: Fetch from GoatCounter
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: python3 tools/fetch_analytics.py --out ../data
+      - name: Save
+        run: |
+          cd ../data
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Analytics for $(date -u +%F)"
+          git push -q origin analytics-data

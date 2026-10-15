@@ -4,10 +4,10 @@
   "date": "2026-10-14",
   "workstream": "Data collection",
   "goal": "New buildings",
-  "target": 0,
-  "actual": 0,
-  "note": "Paused at the owner's request after round 6 (13 Oct). Resumes when the owner sets a daily target.",
-  "status": "paused"
+  "target": 500,
+  "actual": 770,
+  "note": "Resumed at the owner's request: 500–1,000 a day. Round 7: eight Sonnet chats, about 100 each, photos reviewed by eye before they go up. Counted once merged to the live site.",
+  "status": "done"
  },
  {
   "id": "2026-10-14-1",
@@ -17,6 +17,16 @@
   "target": null,
   "actual": null,
   "note": "Chats refresh it after each merge; a daily run at 17:51 UTC is the safety net.",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-14-2",
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "Round 8: five more Sonnet chats (South America, Africa, Middle East and Turkey, South Asia, Japan and Korea), to pass 500 today and start tomorrow's",
+  "target": null,
+  "actual": null,
+  "note": "Started at 11:40 UTC after round 7 merged 472. Same review by eye before anything goes up.",
   "status": "done"
  }
 ]

@@ -5,12 +5,13 @@
    - a firm of several partners keeps the firm's name (SANAA, OMA, SOM, BIG, gmp);
    - notes in brackets are dropped (Arata Isozaki (entrance) → Arata Isozaki);
    - spellings with and without accents are one name, the accented one (Antoni Gaudi → Antoni Gaudí);
-   - "A and B" counts for both when each is on the wall under their own name.
+   - "A and B" or "A & B" counts for both when each is on the wall under their own name.
    Load after data/buildings.js. Add a line to SAME when a new duplicate turns up. */
 window.NAMES = (() => {
   'use strict';
   // Credits that contain a comma but are one firm.
   const WHOLE = ['Skidmore, Owings & Merrill', 'Skidmore, Owings and Merrill', 'Chamberlin, Powell and Bon',
+    'McKim, Mead & White', 'McKim, Mead and White',
     'von Gerkan, Marg und Partner', 'von Gerkan, Marg and Partners'];
   // Another name for the same architect → the name used on the wall.
   const SAME = {
@@ -57,7 +58,24 @@ window.NAMES = (() => {
     'Josep Antoni Coderch': 'José Antonio Coderch',
     'Arthur Tarkhanyan': 'Artur Tarkhanyan',
     'Frederich Silaban': 'Friedrich Silaban',
-    'Mohamed Makiya': 'Mohammed Saleh Makiya'
+    'Mohamed Makiya': 'Mohammed Saleh Makiya',
+    'McKim, Mead and White': 'McKim, Mead & White',
+    'Kisho Kurokawa Architects & Associates': 'Kisho Kurokawa',
+    'Nayyar Ali Dada & Associates': 'Nayyar Ali Dada',
+    'Hijjas Kasturi Associates': 'Hijjas Kasturi',
+    'Eero Saarinen and Associates': 'Eero Saarinen',
+    'Arcop Associates': 'ARCOP',
+    'Neutelings Riedijk Architects': 'Neutelings Riedijk',
+    "O'Donnell & Tuomey": "O'Donnell + Tuomey",
+    'Johnson-Marshall & Partners': 'Johnson-Marshall and Partners',
+    'Mathers & Haldenby': 'Mathers and Haldenby',
+    'Powell & Moya': 'Powell and Moya',
+    'H. H. Richardson': 'Henry Hobson Richardson',
+    'Hooshang Seyhoun': 'Houshang Seyhoun',
+    'Juan Arellano': 'Juan M. Arellano',
+    'Wallace Harrison': 'Wallace K. Harrison',
+    'William L. Pereira': 'William Pereira',
+    'Ramos de Azevedo': 'Francisco Ramos de Azevedo'
   };
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
@@ -74,7 +92,7 @@ window.NAMES = (() => {
     }
     out.push(cur);
     return out.flatMap(p => p.split(/\s+with\s+/i))
-      .map(p => p.replace(/\u0001(\d+)\u0001/g, (m, i) => WHOLE[i]).replace(/^[a-z][^A-Z]*?\bby\s+/, '').trim())
+      .map(p => p.replace(/\u0001(\d+)\u0001/g, (m, i) => WHOLE[i]).trim().replace(/^[a-z][^A-Z]*?\bby\s+/, ''))
       .filter(Boolean);
   }
   function tidy(name) {
@@ -85,9 +103,9 @@ window.NAMES = (() => {
   // How many buildings each tidied name has, before the two steps below.
   const count = new Map();
   (window.BUILDINGS || []).forEach(b => parts(b.by).forEach(p => { const t = tidy(p); count.set(t, (count.get(t) || 0) + 1); }));
-  // "Le Corbusier and Pierre Jeanneret" counts for both, but only when each half is on the wall under its own name
+  // "Le Corbusier and Pierre Jeanneret" (or "&") counts for both, but only when each half is on the wall under its own name
   // ("Venturi and Rauch" and "Chamberlin, Powell and Bon" stay whole).
-  const pair = t => { const bits = t.split(/\s+and\s+/).map(tidy); return bits.length > 1 && bits.every(x => count.has(x)) ? bits : [t]; };
+  const pair = t => { const bits = t.split(/\s+(?:and|&)\s+/).map(tidy); return bits.length > 1 && bits.every(x => count.has(x)) ? bits : [t]; };
   // Accented and plain spellings: the one with more accents wins, then the one with more buildings.
   const spelling = new Map();
   const marks = s => (s.normalize('NFD').match(/[\u0300-\u036f]/g) || []).length;

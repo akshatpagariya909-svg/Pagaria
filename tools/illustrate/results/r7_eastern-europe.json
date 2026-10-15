@@ -1,0 +1,2624 @@
+[
+ {
+  "id": "copernicus-science-centre",
+  "name": "Copernicus Science Centre",
+  "by": "RAr-2 (Ruda Śląska)",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "Two-storey science centre on the Vistula bank with a rooftop garden, won in competition by RAr-2 in 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Centrum Nauki Kopernik",
+  "photos": [
+   {
+    "file": "File:Barka wynurzenie i centrum nauki kopernik.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centrum Nauki Kopernik - Warszawa (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Copernicus_Science_Centre"
+  ],
+  "note": "First module opened 5 Nov 2010."
+ },
+ {
+  "id": "university-of-warsaw-library",
+  "name": "University of Warsaw Library (BUW)",
+  "by": "Marek Budzyński, Zbigniew Badowski",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "1999",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Library with one of Europe's largest public roof gardens, designed by Irena Bajerska; opened 15 December 1999.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:University of Warsaw Library",
+  "photos": [
+   {
+    "file": "File:Warszawa - Biblioteka Uniwersytecka - 06.10.2025 10-03-43.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Warsaw Library - BUW - 1994-1998 - BUW (50571954423).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Warsaw University library (22572).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_of_Warsaw_Library"
+  ],
+  "note": ""
+ },
+ {
+  "id": "gdansk-shakespeare-theatre",
+  "name": "Gdańsk Shakespeare Theatre",
+  "by": "Renato Rizzi",
+  "city": "Gdańsk",
+  "cc": "PL",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Anthracite-black brick 'Black Box', massively buttressed with few openings, on a 17th-century fencing-school site.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Shakespearean theatre in Gdańsk",
+  "photos": [
+   {
+    "file": "File:Gdańsk ulica Bogusławskiego 1 – Gdański Teatr Szekspirowski.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gdansk 2015 005.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gdansk Teatr Szekspirowski 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gdańsk_Shakespeare_Theatre"
+  ],
+  "note": "Opened September 2014; competition won January 2005."
+ },
+ {
+  "id": "museum-of-the-second-world-war-gdansk",
+  "name": "Museum of the Second World War",
+  "by": "Kwadrat",
+  "city": "Gdańsk",
+  "cc": "PL",
+  "year": "2017",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Competition-winning design by Gdynia studio Kwadrat: a 40 m leaning tower with a glass façade; opened 2017.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Museum of Second World War in Gdańsk",
+  "photos": [
+   {
+    "file": "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2025-04 Gdańsk budynek Muzeum II Wojny Światowej (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gdansk 2023 145.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War"
+  ],
+  "note": "Competition won 2010, construction began 2012, opened to the public 23 March 2017."
+ },
+ {
+  "id": "divine-mercy-church-kalisz",
+  "name": "Divine Mercy Church",
+  "by": "Jerzy Kuźmienko, Andrzej Fajans",
+  "city": "Kalisz",
+  "cc": "PL",
+  "year": "1993",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Reinforced-concrete shell of hyperbolic paraboloids spanning the nave without columns; designed 1958, built 1977–93.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sanctuary of Divine Mercy in Kalisz",
+  "photos": [
+   {
+    "file": "File:Kalisz Sanktuarium Miłosierdzia Bożego (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kalisz Sanktuarium Miłosierdzia Bożego (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023-04-04 Kościół Miłosierdzia Bożego w Kaliszu (7).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Divine_Mercy_Church,_Kalisz"
+  ],
+  "note": "Designed after a 1958 competition; Fajans was still a student then."
+ },
+ {
+  "id": "renoma-wroclaw",
+  "name": "Renoma (Wertheim department store)",
+  "by": "Hermann Dernburg",
+  "city": "Wrocław",
+  "cc": "PL",
+  "year": "1930",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Steel-framed department store, then the largest steel-frame building in Europe, with escalators; opened April 1930.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Wertheim/Renoma department store in Wrocław",
+  "photos": [
+   {
+    "file": "File:Breslau Kaufhaus Renoma.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dom Handlowy Werthaim (Renoma) Wrocław, Polska (2025-12-28).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Breslau - Tauentzienplatz - Wertheim. 1930-1939 (75262690).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Renoma"
+  ],
+  "note": "Wertheim store in Breslau; reopened 2009 after modernisation. Third photo is a pre-war archive image (PD)."
+ },
+ {
+  "id": "villa-bilek-prague",
+  "name": "Villa Bílek",
+  "by": "František Bílek",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1911",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Brick villa-studio the sculptor designed for himself; corn-sheaf pillars evoke Egyptian architecture.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bílkova vila",
+  "photos": [
+   {
+    "file": "File:Bílkova vila (06).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bílkova vila (04).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bilkovavila.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Bílek"
+  ],
+  "note": ""
+ },
+ {
+  "id": "legiobanka-prague",
+  "name": "Legiobanka (Bank of the Czechoslovak Legions)",
+  "by": "Josef Gočár",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1923",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Head office of the Legion Bank; its style gave Czech Art Deco ('rondocubism') the name 'Legiobank style'.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bank of the Czechoslovak Legions, Prague",
+  "photos": [
+   {
+    "file": "File:Bank of the Czechoslovak Legions, Prague13.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:147 Palác Archa, antic Legionářská Banka, Ulice Na Poříčí.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bank of the Czechoslovak Legions in Prague.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Legiobanka"
+  ],
+  "note": "Designed 1921; the bank moved in 1923. Third photo is public domain."
+ },
+ {
+  "id": "hotel-intercontinental-prague",
+  "name": "Hotel Intercontinental Prague (Fairmont Golden Prague)",
+  "by": "Karel Filsak",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1974",
+  "type": "Hospitality",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Brutalist riverside hotel by a team led by Karel Filsak; exposed concrete and a ceramic façade, restored in 2021–25.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hotel Intercontinental (Prague)",
+  "photos": [
+   {
+    "file": "File:2015-07 Praha (4).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190202 InteCon@Praha 2829 (47440481521).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190202 InteCon@Praha 2912 (40474610193).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fairmont_Golden_Prague_Hotel"
+  ],
+  "note": "Built 1968–74; officially opened 7 Dec 1974. Wikipedia title is Fairmont Golden Prague Hotel."
+ },
+ {
+  "id": "colonnade-bridge-piestany",
+  "name": "Colonnade Bridge (Kolonádový most)",
+  "by": "Emil Belluš",
+  "city": "Piešťany",
+  "cc": "SK",
+  "year": "1933",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Water",
+   "Promenade",
+   "Detail"
+  ],
+  "features": "Streamline Moderne colonnade bridge over the Váh, with glass engravings by Martin Benka; rebuilt and reopened in 1956.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kolonádový most",
+  "photos": [
+   {
+    "file": "File:Kolonadovy most (2022-02-14).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kolonádový most - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kolonádový most Piešťany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kolonádový_most_(Piešťany)"
+  ],
+  "note": "Designed 1930–33; destroyed in 1945 and reopened 30 Dec 1956."
+ },
+ {
+  "id": "kamzik-tv-tower-bratislava",
+  "name": "Kamzík TV Tower",
+  "by": "Stanislav Májek, Jakub Tomašák, Juraj Kozák, Milan Jurica, Ján Privitzer",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": "1975",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Transmission tower on Kamzík hill, built in 1975 to replace an earlier mast; designed by a team of five architects.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kamzík TV Tower",
+  "photos": [
+   {
+    "file": "File:Bratislava - Fernsehturm (c).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava - Fernsehturm (a).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bratislava, Staré Mesto, Slavín, pohled na vysílač Kamzík.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kamzík_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "muepa-budapest",
+  "name": "Müpa Budapest (Palace of Arts)",
+  "by": "Zoboki, Demeter and Partners",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2005",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Concert hall and museum complex; the Bartók Hall is 25 m high, 25 m wide and 52 m long. Opened 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Müpa Budapest",
+  "photos": [
+   {
+    "file": "File:Budapest - Müpa (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Budapest - Müpa.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:A Művészetek Palotája 2011. április 25 -én.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Müpa_Budapest"
+  ],
+  "note": "Named Palace of Arts between 2005 and 2015; Wikipedia spells the office Zoboky, Demeter and Partners."
+ },
+ {
+  "id": "puskas-arena-budapest",
+  "name": "Puskás Aréna",
+  "by": "György Skardelli",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "National stadium by György Skardelli on the site of the old Puskás stadium; built 2017–19, opened with Hungary–Uruguay.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Puskás Aréna",
+  "photos": [
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (11).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Puskas Arena Laslovarga (10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puskás_Aréna"
+  ],
+  "note": "Opened 15 Nov 2019."
+ },
+ {
+  "id": "laszlo-papp-budapest-sports-arena",
+  "name": "László Papp Budapest Sports Arena",
+  "by": "György Skardelli (KÖZTI)",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "2003",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Indoor arena rebuilt in 18 months after the 1999 fire; about 2,300 tons of steel structure and 50,000 tons of concrete.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:László Papp Budapest Sports Arena",
+  "photos": [
+   {
+    "file": "File:Budapest, Papp László Sportaréna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:H-D 120 Fest, Ifjúságstrasse, 2023 Zugló.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hungária Straße und Stefánia Straße Ecke 2021 Istvánmező.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/László_Papp_Budapest_Sports_Arena",
+   "https://en.wikipedia.org/wiki/Puskás_Aréna"
+  ],
+  "note": "Opened 13 March 2003; designer named in the Puskás Aréna article, firm KÖZTI in the infobox."
+ },
+ {
+  "id": "gyongyos-synagogue",
+  "name": "Gyöngyös Synagogue",
+  "by": "Lipót Baumhorn",
+  "city": "Gyöngyös",
+  "cc": "HU",
+  "year": "1930",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Large domed synagogue by Lipót Baumhorn, mixing Art Deco and Moorish Revival; completed 1930.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Gyöngyös Synagogue",
+  "photos": [
+   {
+    "file": "File:Synagogue. Listed ID -1799. (S). - Vármegye Rd., Gyöngyös, Hungary.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue. Listed ID -1799. (SW). - Vármegye Rd., Gyöngyös.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue. Listed ID -1799. (N). - Vármegye Rd., Gyöngyös, Hungary.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gyöngyös_Synagogue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "tallinn-tv-tower",
+  "name": "Tallinn TV Tower",
+  "by": "David Baziladze, Juri Sinis",
+  "city": "Tallinn",
+  "cc": "EE",
+  "year": "1980",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "313 m tower of 50 cm reinforced-concrete rings built for the 1980 Olympic regatta; observation deck at 170 m.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Tallinn TV Tower",
+  "photos": [
+   {
+    "file": "File:Tallin TV tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tallinn_TV_Tower"
+  ],
+  "note": "Inaugurated 11 July 1980; only one usable exterior photo found in the category so far."
+ },
+ {
+  "id": "grand-hotel-prishtina",
+  "name": "Grand Hotel Prishtina",
+  "by": "Bashkim Fehmiu, Dragan Kovačević, Miša Jevremović",
+  "city": "Pristina",
+  "cc": "XK",
+  "year": "1978",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "13-storey, 350-room hotel built 1974–78; designed by Bashkim Fehmiu with two Belgrade architects.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Grand Hotel, Pristina",
+  "photos": [
+   {
+    "file": "File:1 - Grand Hotel Prishtina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Hotel 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_Prishtina"
+  ],
+  "note": "Wikipedia gives 350 rooms in the lead and 360 in the history section."
+ },
+ {
+  "id": "kozara-monument-mrakovica",
+  "name": "Monument to the Revolution, Kozara",
+  "by": "Dušan Džamonja",
+  "city": "Mrakovica (Kozara)",
+  "cc": "BA",
+  "year": "1972",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Cylinder of twenty vertical concrete segments; Džamonja called it an interplay of light and darkness.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Monument to the Revolution (Kozara)",
+  "photos": [
+   {
+    "file": "File:Поглед на споменик, Национални парк Козара.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NP002 - 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NP002 Национални парк „Козара\"7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_Revolution_(Kozara)"
+  ],
+  "note": "Project won first prize; initiative 1969, completed 1972. Sculptor-designed memorial; Wikipedia credits Džamonja alone."
+ },
+ {
+  "id": "riga-central-market",
+  "name": "Riga Central Market",
+  "by": "Pāvils Dreijmanis, P. Pavlovs",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1930",
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Reclaimed material",
+   "Vault",
+   "Structure as expression"
+  ],
+  "features": "Five pavilions made from the upper parts of German Zeppelin hangars; Neoclassical and Art Deco; 1924–30.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Central Market hall in Riga",
+  "photos": [
+   {
+    "file": "File:Riga 1994 - 417755911.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:35152 Riga Tram at the market halls (21722704062).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_Central_Market"
+  ],
+  "note": "Part of the UNESCO-listed Old Riga since 1998; photos are modest, a reviewer may want better ones."
+ },
+ {
+  "id": "zetra-olympic-hall-sarajevo",
+  "name": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
+  "by": "Lidumil Alikalfić, Dušan Đapa",
+  "city": "Sarajevo",
+  "cc": "BA",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Angular hall with a copper roof, built 1981–82 for the 1984 Winter Olympics; rebuilt after the war and finished in 1999.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Olympic Hall Juan Antonio Samaranch",
+  "photos": [
+   {
+    "file": "File:Sarajevo Olympic Hall 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sarajevo Olympic Hall 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sarajevo Hum View 5.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch_Olympic_Hall"
+  ],
+  "note": "Architects from the Wikipedia infobox; opened 14 Feb 1982."
+ },
+ {
+  "id": "vijecnica-sarajevo",
+  "name": "Vijećnica (Sarajevo City Hall)",
+  "by": "Alexander Wittek, Ćiril Iveković",
+  "city": "Sarajevo",
+  "cc": "BA",
+  "year": "1894",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Pseudo-Moorish city hall begun by Wittek, finished by Iveković; now the National Library, reopened 2014.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Town hall in Sarajevo",
+  "photos": [
+   {
+    "file": "File:20230918 120615 September 2023 in Sarajevo.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:201408 balcani 740 (15053558569).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Sarajevo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vijećnica"
+  ],
+  "note": "Built 1892–94, formally opened 20 April 1896; first designed in 1891 by Karel Pařík. Gutted in 1992, rebuilt, reopened 17 July 2014."
+ },
+ {
+  "id": "stari-most-mostar",
+  "name": "Stari Most (Old Bridge)",
+  "by": "Mimar Hayruddin",
+  "city": "Mostar",
+  "cc": "BA",
+  "year": "1566",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Water",
+   "Geometry"
+  ],
+  "features": "Single-arch stone Ottoman bridge by Mimar Hayruddin, a student of Sinan; rebuilt and reopened on 23 July 2004.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Stari Most",
+  "photos": [
+   {
+    "file": "File:20230919 120231 September 2023 in Bosnia and Herzegovina.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Mostar (3789117448).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mostar (2680701296).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stari_Most"
+  ],
+  "note": "Built 1557–66; destroyed 1993 and reconstructed."
+ },
+ {
+  "id": "kadinjaca-memorial-complex",
+  "name": "Kadinjača Memorial Complex",
+  "by": "Miodrag Živković, Aleksandar Đokić",
+  "city": "Kadinjača (Užice)",
+  "cc": "RS",
+  "year": "1979",
+  "type": "Memorial",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Memorial complex built 1952–79; the 1979 expansion by Živković and Đokić gave its present form.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kadinjača",
+  "photos": [
+   {
+    "file": "File:Inbound1610813265688666632.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inbound3427126484316220679.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centralni spomenik na Kadinjači.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kadinjača"
+  ],
+  "note": "Opened by Tito on 23 Sept 1979."
+ },
+ {
+  "id": "freedom-monument-riga",
+  "name": "Freedom Monument",
+  "by": "Kārlis Zāle, Ernests Štālbergs",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1935",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "42 m monument of granite, travertine and copper: stacked blocks under a 19 m travertine column.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Freedom monument (Riga)",
+  "photos": [
+   {
+    "file": "File:0873 LVA Riga freedom monument SE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:0874 LVA Riga freedom monument front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:0873 LVA Riga freedom monument pedestal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freedom_Monument_(Riga)"
+  ],
+  "note": "Zāle designed it as sculptor; Štālbergs was supervising architect. Construction began 18 Nov 1931, unveiled 1935."
+ },
+ {
+  "id": "brothers-cemetery-riga",
+  "name": "Brothers' Cemetery",
+  "by": "Kārlis Zāle, Pēteris Feders, Aleksandrs Birzenieks, P. Kundziņš",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1936",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Military cemetery and national monument, 1924–36, designed by sculptor Kārlis Zāle with architects.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Brāļu kapi, Riga",
+  "photos": [
+   {
+    "file": "File:Bralu kapi (11).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bralu kapi (10).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:033-18 Рига.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brothers'_Cemetery_(Riga)"
+  ],
+  "note": "Third photo is a black-and-white scan of the gate."
+ },
+ {
+  "id": "seimas-palace-vilnius",
+  "name": "Seimas Palace",
+  "by": "Algimantas Nasvytis, Vytautas Nasvytis",
+  "city": "Vilnius",
+  "cc": "LT",
+  "year": "1980",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Parliament complex with a square-plan main building by the Nasvytis brothers; first part done 1980.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Seimas Palace",
+  "photos": [
+   {
+    "file": "File:Building Parliment Lithuania Vilnius.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Lietuvos Respublikos Seimas (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lietuvos Respublikos Seimas (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seimas_Palace"
+  ],
+  "note": "New Parliament Hall opened 10 Sept 2007."
+ },
+ {
+  "id": "moslavina-monument-podgaric",
+  "name": "Monument to the Revolution of the People of Moslavina",
+  "by": "Dušan Džamonja",
+  "city": "Podgarić",
+  "cc": "HR",
+  "year": "1967",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "About 10 m high, 20 m long: a stylised sun with two asymmetric wings, inspired by Nike, set in the landscape.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Monument to the Revolution, Podgarić",
+  "photos": [
+   {
+    "file": "File:Spomenik ustanka naroda Moslavine.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Spomenik revoluciji-Podgaric.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Spomenik Podgaric01.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monument_to_the_Revolution_of_the_people_of_Moslavina"
+  ],
+  "note": "Dedicated by Tito in 1967. Sculptor-designed memorial."
+ },
+ {
+  "id": "cec-palace-bucharest",
+  "name": "CEC Palace",
+  "by": "Paul Gottereau, Ion Socolescu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1900",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Steel & glass"
+  ],
+  "features": "Eclectic bank headquarters topped by a glass and metal dome; designed by Gottereau, built 1897–1900.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:CEC Palace, Bucharest",
+  "photos": [
+   {
+    "file": "File:20140702 Bucureşti 122.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20230426.Ansichten von Bukarest.-051.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20230426.Ansichten von Bukarest.-032.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CEC_Palace"
+  ],
+  "note": ""
+ },
+ {
+  "id": "toblerone-karaburma-belgrade",
+  "name": "Toblerone Tower (Karaburma)",
+  "by": "Risto Šekerinski",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1963",
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Hexagonal-plan residential tower in prestressed concrete, built 1960–63; it won a design award.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Toblerone Tower",
+  "photos": [
+   {
+    "file": "File:20241012 162432820 Toblerone Tower in Belgrade.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Karaburma 09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Karaburma-0701 Toblerone.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toblerone,_Karaburma"
+  ],
+  "note": "Nicknamed after the chocolate bar."
+ },
+ {
+  "id": "administrative-palace-satu-mare",
+  "name": "Administrative Palace, Satu Mare",
+  "by": "Nicolae Porumbescu (with Ludovic Gyüre)",
+  "city": "Satu Mare",
+  "cc": "RO",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Brutalist administrative palace built 1972–84 by Nicolae Porumbescu, assisted by Ludovic Gyüre.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Administrative palace (Satu Mare)",
+  "photos": [
+   {
+    "file": "File:Az új központ - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:RO SM Satu Mare Administrative palace.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palatul administrativ Satu Mare.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Administrative_Palace,_Satu_Mare"
+  ],
+  "note": "More than 1,000 workers; stands about 80 m from the Someș river."
+ },
+ {
+  "id": "national-military-circle-bucharest",
+  "name": "National Military Circle (Cercul Militar Național)",
+  "by": "Dimitrie Maimarolu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Detail"
+  ],
+  "features": "French neoclassical palace built 1911 to Dimitrie Maimarolu's plans; inaugurated in 1923.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cercul Militar Național",
+  "photos": [
+   {
+    "file": "File:2012-09-22 Cercul Militar Național.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 141.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 144.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Military_Circle"
+  ],
+  "note": "Wikipedia article title is Palace of the National Military Circle."
+ },
+ {
+  "id": "kaunas-mosque",
+  "name": "Kaunas Mosque",
+  "by": "Vaclovas Michnevičius, Adolfas Netyksas",
+  "city": "Kaunas",
+  "cc": "LT",
+  "year": "1933",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Only brick mosque in Lithuania and the Baltics, a modernist take on Islamic forms; built 1930–33.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Kaunas Mosque",
+  "photos": [
+   {
+    "file": "File:2019. Mečetė, Kaunas.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaunas Mosque, May 2026 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaunas Mosque, May 2026 3.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaunas_Mosque"
+  ],
+  "note": ""
+ },
+ {
+  "id": "constanta-casino",
+  "name": "Constanța Casino",
+  "by": "Daniel Renard",
+  "city": "Constanța",
+  "cc": "RO",
+  "year": "1910",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Water"
+  ],
+  "features": "Art Nouveau casino on the Black Sea waterfront to plans by Daniel Renard; inaugurated August 1910.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Constanța Casino",
+  "photos": [
+   {
+    "file": "File:2019 Cazino CT-II-m-A-02801 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casino Constantza - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Art Nouveau Cazino Complex - Constanta - Romania.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Constanța_Casino"
+  ],
+  "note": ""
+ },
+ {
+  "id": "haludovo-palace-hotel-malinska",
+  "name": "Haludovo Palace Hotel",
+  "by": "Boris Magaš",
+  "city": "Malinska",
+  "cc": "HR",
+  "year": "1972",
+  "type": "Hospitality",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "A 'hotel city': varied building types spread through existing vegetation and linked by walkways; 1969–72.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Haludovo Palace Hotel",
+  "photos": [
+   {
+    "file": "File:Haludovo palace hotel from pool 2011-08-12.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haludovo Hotel Palace by architect Boris Magaš.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haludovo Hotels by architect Boris Magaš.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hotel_Haludovo"
+  ],
+  "note": "Abandoned since the 1990s. Two of the photos are black-and-white views from the 1970s."
+ },
+ {
+  "id": "christs-resurrection-church-kaunas",
+  "name": "Church of Christ's Resurrection",
+  "by": "Karolis Reisonas",
+  "city": "Kaunas",
+  "cc": "LT",
+  "year": "2005",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Axis"
+  ],
+  "features": "Modernist church chosen in competition; walls and roof done 1938, radio factory under Soviet rule, finished 2005.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Church of Christ's Resurrection, Kaunas",
+  "photos": [
+   {
+    "file": "File:Church of Christ's Resurrection, Kaunas, side view.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Open air uploaded 2026-05-25.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Winter in Kaunas - panoramio (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christ's_Resurrection_Basilica,_Kaunas"
+  ],
+  "note": "Consecrated 2004, finally completed 2005; roof terrace and elevator."
+ },
+ {
+  "id": "poljud-stadium-split",
+  "name": "Poljud Stadium",
+  "by": "Boris Magaš",
+  "city": "Split",
+  "cc": "HR",
+  "year": "1979",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Seashell-like stadium with a 206×47 m roof span, set below street level in landscaped grounds; opened 1979.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Gradski stadion u Poljudu",
+  "photos": [
+   {
+    "file": "File:Aerial view of Poljud Stadium in 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20130605 Split 32.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gradski stadion Poljud - Split.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Poljud_Stadium"
+  ],
+  "note": "Wikipedia credits the built design to Boris Magaš but says the 1975 competition was won by Ivan Piteša (Magaš placed third): reviewer should check attribution."
+ },
+ {
+  "id": "park-monument-bulgarian-soviet-friendship-varna",
+  "name": "Park-Monument of the Bulgarian-Soviet Friendship",
+  "by": "Kamen Goranov (with sculptors Evgeni Barumov, Alyosha Kafedzhiyski)",
+  "city": "Varna",
+  "cc": "BG",
+  "year": "1978",
+  "type": "Memorial",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Concrete memorial 23 m high and 48 m wide, reached by a 301-step 'Staircase of Victory'; built 1974–78.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Bulgarian-Soviet friendship monument, Varna",
+  "photos": [
+   {
+    "file": "File:Park Pamjatnik - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pomnik przyjaźni bułgarsko-sowieckiej w Warnie (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bugarian-Soviet friendship monument 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Park-Monument_of_the_Bulgarian-Soviet_Friendship"
+  ],
+  "note": "Competition won in autumn 1973; inaugurated 13 Nov 1978."
+ },
+ {
+  "id": "sofia-central-station",
+  "name": "Sofia Central Station",
+  "by": "Milko Bechev (Transproekt)",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1974",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Public space"
+  ],
+  "features": "New terminal by Transproekt under Milko Bechev beside the 1888 station; inaugurated 6 September 1974.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sofia Central Railway Station",
+  "photos": [
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 36.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 37.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central Railway Station Sofia 2012 PD 09.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Central_Station"
+  ],
+  "note": "One of 30 buildings renewed for the 30th anniversary of the 1944 coup; old building demolished April 1974."
+ },
+ {
+  "id": "zagreb-glavni-kolodvor",
+  "name": "Zagreb Glavni Kolodvor (Main Station)",
+  "by": "Ferenc Pfaff",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1892",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Stone",
+   "Detail"
+  ],
+  "features": "Neoclassical main station, 186.5 m long, chosen from about thirty proposals and opened on 18 August 1892.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Zagreb Glavni train station",
+  "photos": [
+   {
+    "file": "File:Bahnhof Glavni Kolodvor Zagreb Building Railwaystation Zagreb.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zagreb_Glavni_Kolodvor"
+  ],
+  "note": "Only one usable exterior photo (the other aerial is GFDL)."
+ },
+ {
+  "id": "telephone-palace-bucharest",
+  "name": "Telephone Palace (SART building)",
+  "by": "Edmond Van Saanen Algi",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1934",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "First major modernist building on Calea Victoriei: a steel-skeleton tower built 1931–33 and inaugurated in 1934.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Palatul Telefoanelor",
+  "photos": [
+   {
+    "file": "File:Bucharest Day 3 - Victoriei (9338447856).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140702 Bucureşti 151.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telephones_Company_Building"
+  ],
+  "note": "Commons category is the street Calea Victoriei; the white tower is visible but among other buildings. Reviewer: better photo wanted. Wikipedia title: Telephones Company Building."
+ },
+ {
+  "id": "house-of-the-free-press-bucharest",
+  "name": "House of the Free Press (Casa Scînteii)",
+  "by": "Horia Maicu",
+  "city": "Bucharest",
+  "cc": "RO",
+  "year": "1956",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Socialist-realist printing house modelled on Moscow State University; built 1952–56.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Casa Presei Libere",
+  "photos": [
+   {
+    "file": "File:Bucuresti, Romania. CASA PRESEI LIBERE (Fosta Casa a Scînteii )(B-II-a-A-18802) (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bucuresti, Romania. PARCUL HERASTRAU. Acum Parcul Regele Mihai I. Ambarcatiuni pe lacul Herastrau. (B-II-a-A-18802).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:DIMINEATA DE IULIE - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/House_of_the_Free_Press"
+  ],
+  "note": "Commons category found by search; check the three photos show the right building. Wikipedia says it was the tallest in the country."
+ },
+ {
+  "id": "nebotinik-ljubljana",
+  "name": "Nebotičnik",
+  "by": "Vladimir Šubic",
+  "city": "Ljubljana",
+  "cc": "SI",
+  "year": "1933",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Tower with sculpted façade and a café on the eleventh storey; construction began April 1931, opened 21 February 1933.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Nebotičnik",
+  "photos": [
+   {
+    "file": "File:Laibach (13890816600).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:4.4.13 Ljubljana 04 (8620606942).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:February 2008 in Ljubljana 29.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nebotičnik"
+  ],
+  "note": "Šubic was assisted by Ladislav Kham, Ivo Medved, Marjan Mušič and others."
+ },
+ {
+  "id": "sofia-synagogue",
+  "name": "Sofia Synagogue",
+  "by": "Friedrich Grünanger",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1909",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Brick"
+  ],
+  "features": "Largest synagogue in Southeastern Europe: Moorish and Byzantine Revival with Secession touches; opened 9 September 1909.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Sofia Synagogue",
+  "photos": [
+   {
+    "file": "File:20140614 Sofia 152.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140614 Sofia 155.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2008 0330test0252.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Synagogue"
+  ],
+  "note": ""
+ },
+ {
+  "id": "riga-radio-and-tv-tower",
+  "name": "Riga Radio and TV Tower",
+  "by": "Kims Nikuradze",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1989",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Steel tower on Zaķusala island in the Daugava, built 1979–89; three dampers hold it still in winds up to 44 m/s.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Riga Radio and TV Tower",
+  "photos": [
+   {
+    "file": "File:Daugava River and Riga Radio and Television Tower.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:16-08-31-View from Latvian Academy of Sciences building-RR2 4242.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Daugavas promenāde - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower"
+  ],
+  "note": "Photos are distant views; no close exterior in the first 8 files."
+ },
+ {
+  "id": "palace-of-culture-iasi",
+  "name": "Palace of Culture, Iași",
+  "by": "I. D. Berindei",
+  "city": "Iași",
+  "cc": "RO",
+  "year": "1925",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Steel & glass"
+  ],
+  "features": "Flamboyant Neo-Gothic palace on the old Princely Court site, built with modern materials; completed 1925.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Iași Palace of Culture",
+  "photos": [
+   {
+    "file": "File:2020 03 14 Iași Palatul Culturii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020 04 17 Iași Palatul Culturii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:110825 Iasi (5).jpg",
+    "license": "CC BY-SA 3.0 ro",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palace_of_Culture_(Iași)"
+  ],
+  "note": "Inaugurated 1926 by King Ferdinand I."
+ },
+ {
+  "id": "zagreb-mosque",
+  "name": "Zagreb Mosque",
+  "by": "Džemal Čelić, Mirza Gološ",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1987",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Mosque complex with a 51 m minaret and a mihrab shaped as a parabolic projection from the wall; 1987.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Mosque in Zagreb",
+  "photos": [
+   {
+    "file": "File:Džamija, ZG 1335.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Džamija, ZG 1338.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Džamija, ZG 1329.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zagreb_Mosque"
+  ],
+  "note": "Largest religious building in Yugoslavia after Zagreb Cathedral at the time; photos are modest in size (1200–1600 px)."
+ },
+ {
+  "id": "cibona-tower-zagreb",
+  "name": "Cibona Tower",
+  "by": "Marijan Hržić",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1987",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Steel & glass"
+  ],
+  "features": "Façade of dark steel, reflective glass and black granite; rim carried by 26 concrete pylons; built 1987.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cibona Tower",
+  "photos": [
+   {
+    "file": "File:Cibona Tower 20150912 DSC 2576.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cibona Tower 2006.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cibona Tower in winter night, Zagreb.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cibona_Tower"
+  ],
+  "note": ""
+ },
+ {
+  "id": "mehmed-pasa-sokolovic-bridge-visegrad",
+  "name": "Mehmed Paša Sokolović Bridge",
+  "by": "Mimar Sinan",
+  "city": "Višegrad",
+  "cc": "BA",
+  "year": "1577",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Water",
+   "Geometry"
+  ],
+  "features": "179.5 m stone bridge over the Drina, completed 1577 by Sinan for the Grand Vizier Mehmed Paša Sokolović; UNESCO-listed.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Mehmed Paša Sokolović Bridge in Višegrad",
+  "photos": [
+   {
+    "file": "File:2011-04-08 14-23-21 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2011-04-08 13-56-14 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2011-04-08 14-26-16 Вишеград.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mehmed_Paša_Sokolović_Bridge"
+  ],
+  "note": ""
+ },
+ {
+  "id": "croatian-national-theatre-zagreb",
+  "name": "Croatian National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": "1895",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Landmark theatre with a bright yellow façade by the Viennese firm Fellner & Helmer; built 1894–95.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Croatian National Theater in Zagreb",
+  "photos": [
+   {
+    "file": "File:20130609 in Zagreb 08.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20130609 in Zagreb 14.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chorvatské Národní Divadlo, srpen 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Croatian_National_Theatre_in_Zagreb"
+  ],
+  "note": "Contract signed January 1894; completed by 1 October 1895."
+ },
+ {
+  "id": "ivan-vazov-national-theatre-sofia",
+  "name": "Ivan Vazov National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": "1906",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Neoclassical theatre by Fellner & Helmer, finished 1906; burned in 1923 and rebuilt in 1929 by Martin Dülfer.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Ivan Vazov National Theatre",
+  "photos": [
+   {
+    "file": "File:Ivan Vazov National Theater, Sofia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivan-Vazov-National-Theatre-Sofia.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ivan Vazov National Theatre december.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Vazov_National_Theatre"
+  ],
+  "note": "Opened 3 January 1907; façade is on the 50-lev banknote."
+ },
+ {
+  "id": "peles-castle-sinaia",
+  "name": "Peleș Castle",
+  "by": "Johannes Schultz",
+  "city": "Sinaia",
+  "cc": "RO",
+  "year": "1883",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Neo-Renaissance alpine palace by Johannes Schultz; Karel Liman added the towers, incl. the 66 m main tower.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Peleș Castle",
+  "photos": [
+   {
+    "file": "File:\"Castelul Peles\".JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20140628 Peleş Castle 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ansamblul Castelului Peleș, oraș Sinaia.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peleș_Castle"
+  ],
+  "note": "Completed 1883 for King Carol I."
+ },
+ {
+  "id": "latvian-academy-of-sciences-riga",
+  "name": "Latvian Academy of Sciences",
+  "by": "Osvalds Tīlmanis, Vaidelotis Apsītis, Kārlis Plūksne",
+  "city": "Riga",
+  "cc": "LV",
+  "year": "1961",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "108 m Stalin-era skyscraper, Latvia's first, built 1951–61 with Latvian folk ornament.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Latvian Academy of Sciences (building)",
+  "photos": [
+   {
+    "file": "File:Academy of Sciences, Latvia, May 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akadēmijas laukums 1, Latvijas zinātņu akadēmija, Rīga, Latvia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Across the Daugava (30003550646).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Latvian_Academy_of_Sciences"
+  ],
+  "note": "Photos 7 and 6 are distant skyline views; photo 5 is a close-up of the tower."
+ },
+ {
+  "id": "olympic-stadium-wroclaw",
+  "name": "Olympic Stadium, Wrocław (Schlesierkampfbahn)",
+  "by": "Richard Konwiarz",
+  "city": "Wrocław",
+  "cc": "PL",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Brick stadium with a clock tower, built 1926–28 as the Silesian Arena.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Olympic Stadium in Wrocław",
+  "photos": [
+   {
+    "file": "File:598708 Wrocław stadion olimpijski 02.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:598713 Wrocław stadion olimpijski, wieża zegarowa 02.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:598708 Wrocław stadion olimpijski 01.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympic_Stadium_(Wrocław)"
+  ],
+  "note": "Never an Olympic site despite the name; rebuilt after wartime damage."
+ },
+ {
+  "id": "cepelia-pavilion-warsaw",
+  "name": "Cepelia Pavilion",
+  "by": "Zygmunt Stępiński, Andrzej Milewski, Aleksander Haweman",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "1966",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Detail"
+  ],
+  "features": "Modernist store pavilion first clad in turquoise ceramic tiles, each with a geometric pattern by Stanisław Kucharski.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Cepelia building in Warsaw",
+  "photos": [
+   {
+    "file": "File:Pawilon Cepelii od strony zachodniej 2021.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Pawilon Cepelii w Warszawie 2023.jpg",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Pawilon Cepelii w Warszawie 2025.jpg",
+    "license": "CC BY 3.0 pl",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cepelia_Pavilion"
+  ],
+  "note": "Opened 1966; heritage-listed 2017/2019; renovated 2024 (metal panels replaced the lost tiles). Photos show the 2019–2025 state."
+ },
+ {
+  "id": "hungarian-state-opera-house-budapest",
+  "name": "Hungarian State Opera House",
+  "by": "Miklós Ybl",
+  "city": "Budapest",
+  "cc": "HU",
+  "year": "1884",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Opera house on Andrássy Avenue designed by Miklós Ybl; construction began 1875, opened 27 September 1884.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hungarian State Opera House",
+  "photos": [
+   {
+    "file": "File:Hungarian State Opera House Budapest 2026.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Andrássy Christmas Lights 2025 (19).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hungarian_State_Opera_House"
+  ],
+  "note": ""
+ },
+ {
+  "id": "hotel-international-prague",
+  "name": "Grand Hotel International Prague",
+  "by": "František Jeřábek",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1956",
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Socialist-realist tower hotel built 1952–56 as a military hotel; much original interior artwork survives.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Hotel International Prague",
+  "photos": [
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague 2.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Dejvice - Hotel Crowne Plaza Prague 1.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grand_Hotel_International_Prague"
+  ],
+  "note": "Now the Crowne Plaza. Cultural monument since 2000; first photos in the Commons category are 1–2 MP exteriors."
+ },
+ {
+  "id": "praha-hlavni-nadrazi",
+  "name": "Praha hlavní nádraží (Prague Main Station)",
+  "by": "Josef Fanta",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Steel & glass",
+   "Vault",
+   "Facade as skin"
+  ],
+  "features": "Art Nouveau station by Josef Fanta, 1901–09; steel train hall by Marjanko and Kornfeld, 1905–06.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Praha hlavní nádraží",
+  "photos": [
+   {
+    "file": "File:2023 Praha hlavní nádraží 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023 Praha hlavní nádraží 03.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023 Praha hlavní nádraží 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Praha_hlavní_nádraží"
+  ],
+  "note": "Station hall roofed 1905–06; the 1970s concourse by Josef Danda is not covered here."
+ },
+ {
+  "id": "warsaw-spire",
+  "name": "Warsaw Spire",
+  "by": "Jaspers-Eyers Architects (with Projekt Polsko-Belgijska Pracownia Architektury)",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2016",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "220 m tower with a hyperboloid glass façade, two 55 m companion blocks and a landscaped plaza with water features.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Warsaw Spire",
+  "photos": [
+   {
+    "file": "File:2022 Warszawa widok z PKiN na Warsaw Spire, 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 Warsaw Spire, 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018 Warsaw Spire, 3.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warsaw_Spire"
+  ],
+  "note": "Opened May 2016. Photos 0 and 2 were taken while the cranes were still up."
+ },
+ {
+  "id": "varso-tower-warsaw",
+  "name": "Varso Tower",
+  "by": "Foster + Partners",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2022",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "310 m tower, tallest building in the EU, with two companion buildings; topped out 2021, completed 2022.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Varso",
+  "photos": [
+   {
+    "file": "File:09-05-2022 Warszawa Varso od strony Śródmieścia.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:09-05-2022 Warszawa Varso od strony Śródmieścia (cropped).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:09-05-2022 Warszawa Varso z PKiN, wierzchołek, 2.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Varso"
+  ],
+  "note": "Observation deck opened September 2025."
+ },
+ {
+  "id": "avala-tower-belgrade",
+  "name": "Avala Tower",
+  "by": "Uglješa Bogunović, Slobodan Janjić",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": "1965",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "204.68 m transmission tower on Mount Avala, finished 1965, destroyed in 1999 and reconstructed; reopened April 2010.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:Avala TV Tower",
+  "photos": [
+   {
+    "file": "File:Avala Tower 2.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Avala Tower amazing.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Avala 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avala_Tower"
+  ],
+  "note": "The tower standing today is the 2009 reconstruction of the 1965 original."
+ },
+ {
+  "id": "lords-ark-church-nowa-huta",
+  "name": "Church of Our Lady Queen of Poland (Lord's Ark)",
+  "by": "Wojciech Pietrzyk",
+  "city": "Kraków (Nowa Huta)",
+  "cc": "PL",
+  "year": "1977",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Sloping roof and 70 m crowned-cross mast recall Noah's Ark; first new church in Nowa Huta, 1967–77.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:The Lord's Ark Church of Kraków",
+  "photos": [
+   {
+    "file": "File:--Church of Our Lady the Queen of Poland (Ark of Our Lord),view from N, 1 Obroncow Krzyza street, Nowa Huta, Krakow, Poland.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arka Pana 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arka Pana, Nowa Huta's controversial first church, built 1977 (7 11 gy32) (14469229459).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lord's_Ark_Church"
+  ],
+  "note": "Wikipedia compares it to Le Corbusier's Ronchamp chapel; the community struggled for a building permit from 1952."
+ },
+ {
+  "id": "national-stadium-warsaw",
+  "name": "National Stadium (PGE Narodowy)",
+  "by": "gmp Architects von Gerkan, Marg and Partners with JSK Architects",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Tensile structure"
+  ],
+  "features": "58,580-seat stadium with a retractable PVC roof unfolding from a spire above the pitch; built 2008–11.",
+  "award": "Central & Eastern Europe",
+  "status": "photo",
+  "commons_category": "Category:National Stadium in Warsaw",
+  "photos": [
+   {
+    "file": "File:Kamionek, Warsaw, Poland - panoramio (8).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kamionek, Warsaw, Poland - panoramio (11).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/PGE_Narodowy"
+  ],
+  "note": "Finished November 2011."
+ }
+]

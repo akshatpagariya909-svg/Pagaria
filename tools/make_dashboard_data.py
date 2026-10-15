@@ -5,7 +5,8 @@
 
 Writes tools/dashboard/*.json from what is in the repository, so any chat can refresh the dashboard after its
 work is merged:
-  summary.json   one row: buildings, photos, drawings, links, portraits, Pritzker winners, books
+  summary.json   one row: buildings, photos, drawings, links, portraits, Pritzker winners, plans/sections/sketches/
+                 model photos (by each photo's label), books
   growth.json    buildings on the wall at the end of each day (by commit date, UTC)
   regions.json   buildings per region
   types.json     buildings per type
@@ -80,6 +81,9 @@ def main():
     face = lambda b: any(arch['people'].get(q, {}).get('thumb') for q in arch['buildings'].get(b['id'], []))
     drawing = lambda b: bool(b.get('images')) and b['images'][0]['src'].endswith('.svg')
     keys = {k.lower() for w in pritzker for k in w.get('keys', [])}
+    # free drawings and model photos from Commons, by the label the photo fetcher gave each (our own line drawings not counted)
+    study = lambda b, kinds: [i for i in b.get('images', []) if i.get('kind') in kinds and not i['src'].endswith('.svg')]
+    STUDY = {'plans': ('Plan',), 'sections': ('Section', 'Elevation'), 'sketches': ('Sketch', 'Drawing'), 'models': ('Model',)}
     summary = [{
         'buildings': len(buildings),
         'with_photo': sum(1 for b in buildings if b.get('images') and not drawing(b)),
@@ -90,6 +94,9 @@ def main():
         'with_face': sum(1 for b in buildings if face(b)),
         'pritzker_buildings': sum(1 for b in buildings if b['by'].split(',')[0].strip().lower() in keys or any(
             arch['people'].get(q, {}).get('name', '').lower() in keys for q in arch['buildings'].get(b['id'], []))),
+        **{k: sum(len(study(b, v)) for b in buildings) for k, v in STUDY.items()},
+        'study_images': sum(len(study(b, sum(STUDY.values(), ()))) for b in buildings),
+        'with_study': sum(1 for b in buildings if study(b, sum(STUDY.values(), ()))),
         'books': len(books),
         'updated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%MZ'),
     }]
@@ -108,7 +115,9 @@ def main():
         last = days[day]
 
     log = []
-    for block in git('log', '--first-parent', 'main', '--merges', '--format=%cI%x1f%s%x1f%b%x1e').split('\x1e'):
+    # the remote's main when there is one: a local main branch is often left behind
+    base = 'origin/main' if subprocess.run(['git', 'rev-parse', '-q', '--verify', 'origin/main'], cwd=ROOT, capture_output=True).returncode == 0 else 'main'
+    for block in git('log', '--first-parent', base, '--merges', '--format=%cI%x1f%s%x1f%b%x1e').split('\x1e'):
         if not block.strip():
             continue
         when, subject, body = (block.strip().split('\x1f') + ['', ''])[:3]
