@@ -193,7 +193,7 @@ HEAD = """<!doctype html>
 {extra}
 </head>
 <body>
-<header class="top">
+<header class="top" data-nosnippet>
   <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
   <nav><a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
@@ -210,11 +210,11 @@ GALLERY_JS = """<script>
 })();
 </script>"""
 
-FOOT = """<footer class="foot">
+FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
 </footer>
-<nav class="dock" aria-label="Browse">
+<nav class="dock" data-nosnippet aria-label="Browse">
   <a href="{up}">Home</a>
   <a class="go" href="{up}#surprise">Surprise me</a>
 </nav>
