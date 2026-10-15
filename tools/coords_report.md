@@ -328,3 +328,16 @@ Made by `tools/fetch_coords.py`. Nothing under `site/` was changed.
 - `hiroshi-senju-museum-karuizawa` Hiroshi Senju Museum Karuizawa (Karuizawa, JP)
 - `sacred-heart-cathedral-yokohama` Sacred Heart Cathedral (Yamate Catholic Church), Yokohama (Yokohama, JP)
 - `aluminaire-house` Aluminaire House (Palm Springs, US)
+
+## Review by the data-collection chat (Opus, 15 Oct 2026)
+
+- **Accepted:** 1,596 coordinates written to `site/data/buildings.js`. That is 1,593 from Wikidata plus 3 from English Wikipedia (Golconde, Heritance Kandalama, Quinta Monroy). The wall now has 3,030 of 3,316 buildings with coordinates, and 286 are missing.
+- **How the matches were checked:**
+  - Each match was compared with other wall buildings in the same city: it had to fall within 60 km of their median.
+  - Matches with no same-city reference were checked by eye; 102 were accepted.
+  - The four Columbus, Indiana buildings were right; the reference point was Columbus, Ohio.
+  - Six "country mismatches" were only UK vs GB or Hong Kong and were right: Barbican, Lloyd's, Tate Modern, Trellick Tower, Lyric Theatre and the HSBC building.
+- **Dropped:** 19 wrong matches. Most came from a building's `commons` field naming a same-name category for another building elsewhere, which had also put wrong photos in its gallery:
+  - Wrong photos removed from 7 galleries (Blue Building, Casa Gaspar, Das Gelbe Haus, Mestizo, the Robotics Institute, Sky House, Stone Museum).
+  - The wrong `commons` field removed and the corrected galleries pinned in `image_choices.json` for 11 buildings.
+  - 5 buildings held back because no photo showed them (the Beirut Cinema Opera, Halifax Central Library, the Merck headquarters, the National Institute of Immunology, and the Niagara Falls Public Library).

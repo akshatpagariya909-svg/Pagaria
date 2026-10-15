@@ -17775,5 +17775,35 @@
   "label": "",
   "name_ok": false,
   "qid": "Q118289103"
+ },
+ "golconde": {
+  "qid": null,
+  "coords": [
+   11.93813,
+   79.83404
+  ],
+  "how": "wikipedia",
+  "country_ok": null,
+  "label": "English Wikipedia coordinates"
+ },
+ "heritance-kandalama": {
+  "qid": null,
+  "coords": [
+   7.87114,
+   80.70769
+  ],
+  "how": "wikipedia",
+  "country_ok": null,
+  "label": "English Wikipedia coordinates"
+ },
+ "quinta-monroy": {
+  "qid": null,
+  "coords": [
+   -20.22972,
+   -70.13611
+  ],
+  "how": "wikipedia",
+  "country_ok": null,
+  "label": "English Wikipedia coordinates"
  }
 }

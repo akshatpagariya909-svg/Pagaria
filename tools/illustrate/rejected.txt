@@ -205,3 +205,8 @@ athens-olympic-stadium-roof  # Design chat flags 15 Oct: photos show a satellite
 grande-arche  # Design chat flags 15 Oct: no free photo shows the whole arch (France has no freedom of panorama; Commons keeps only details, steps and crowds)
 notre-dame-de-lourdes-casablanca  # Design chat flags 15 Oct: no free daylight exterior photo; the only one is dark with a crowd in front
 scuola-fagnano-olona  # Design chat flags 15 Oct: no free photo of the outside of the school (only the chimney seen through glass, and interiors)
+cinema-opera-beirut  # Coordinates check 15 Oct: every photo shows the Cinéma Opéra in Reims (wrong Commons category)
+halifax-central-library  # Coordinates check 15 Oct: every photo shows the Central Library in Halifax, England (wrong Commons category)
+merck-headquarters-building  # Coordinates check 15 Oct: every photo shows the SAS headquarters at Frösundavik, Stockholm (wrong Commons category)
+national-institute-of-immunology  # Coordinates check 15 Oct: every photo shows a Moscow children's hospital (wrong Commons category)
+niagara-falls-public-library  # Coordinates check 15 Oct: photos come from the Niagara Falls Public Library in Ontario, not Paul Rudolph's library in New York
