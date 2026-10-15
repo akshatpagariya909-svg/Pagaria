@@ -37,7 +37,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 - Goal: **cover costs first**, income later. Ads are acceptable eventually; no paywall in front of the wall.
 - Nothing is signed up for until the site reaches **1,000 visits in 30 days** (GoatCounter's `visits_30d` on the `analytics-data` branch). Remind the owner when it does.
-- Order once that happens: book affiliate links on the opened book (Bookshop.org and Amazon.in / Amazon.com) and a small "Support this site" link; ads and sponsors later. The owner signs up for accounts; Claude doesn't.
+- Order once that happens: book affiliate links on the opened book (Bookshop.org and Amazon, starting with the US and UK stores) and a small "Support this site" link; ads and sponsors later. The owner signs up for accounts; Claude doesn't.
 - GitHub Pages doesn't allow sites mainly for selling: affiliate links, donations and ads are fine, a shop is not.
 
 ## How the code is laid out
