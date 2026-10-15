@@ -216,7 +216,8 @@ def home_block(items):
             f'  <p>Find Great Architecture is a huge, growing wall of buildings for architecture students, from the modern masters to '
             f'contemporary and parametric work, brutalism and regionalism. Every building has '
             f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
-            f'Buildings from all over the world; <a href="buildings/">see them all A–Z</a>.</p>\n'
+            f'Buildings from all over the world; <a href="buildings/">see them all A–Z</a>. '
+            f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'</section>')
 
