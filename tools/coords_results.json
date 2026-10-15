@@ -1,0 +1,663 @@
+{
+ "140-broadway": {
+  "coords": [
+   40.7086,
+   -74.01
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "140 Broadway",
+  "qid": "Q1816401"
+ },
+ "arthur-and-mona-hofmann-house": {
+  "coords": [
+   37.55051,
+   -122.35044
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Arthur and Mona Hofmann House",
+  "qid": "Q100924524"
+ },
+ "capitolio-de-puerto-rico": {
+  "coords": [
+   18.46667,
+   -66.10583
+  ],
+  "country_ok": false,
+  "how": "commons",
+  "label": "Capitol of Puerto Rico",
+  "qid": "Q4212987"
+ },
+ "cathedral-of-brasilia": {
+  "coords": [
+   -15.79833,
+   -47.87556
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Cathedral of Brasília",
+  "qid": "Q201720"
+ },
+ "central-saint-martins-granary": {
+  "coords": [
+   51.53578,
+   -0.12509
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "The Granary",
+  "qid": "Q27086623"
+ },
+ "centro-cultural-kirchner": {
+  "coords": [
+   -34.60333,
+   -58.36944
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Buenos Aires Central Post Office",
+  "qid": "Q3360763"
+ },
+ "christchurch-art-gallery": {
+  "coords": [
+   -43.5306,
+   172.631
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Christchurch Art Gallery",
+  "qid": "Q5109058"
+ },
+ "embassy-of-kuwait-tokyo": {
+  "coords": [
+   35.64523,
+   139.74156
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Kuwait Embassy building",
+  "qid": "Q135552735"
+ },
+ "estacao-julio-prestes": {
+  "coords": [
+   -23.5348,
+   -46.63959
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Estação Júlio Prestes",
+  "qid": "Q3297457"
+ },
+ "falkirk-wheel": {
+  "coords": [
+   56.00028,
+   -3.84167
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Falkirk Wheel",
+  "qid": "Q99327"
+ },
+ "finsbury-health-centre": {
+  "coords": [
+   51.5249,
+   -0.1089
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Finsbury Health Centre",
+  "qid": "Q5450923"
+ },
+ "fondazione-querini-stampalia": {
+  "coords": [
+   45.43628,
+   12.34107
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Fondazione Querini Stampalia",
+  "qid": "Q3747209"
+ },
+ "frere-hall": {
+  "coords": [
+   24.8475,
+   67.03278
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Frere Hall",
+  "qid": "Q3924620"
+ },
+ "grand-hotel-taipei": {
+  "coords": [
+   25.07867,
+   121.52636
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Grand Hotel",
+  "qid": "Q712865"
+ },
+ "grande-poste-d-alger": {
+  "coords": [
+   36.77306,
+   3.05944
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Algiers Central Post Office",
+  "qid": "Q3115007"
+ },
+ "green-mosque-bursa": {
+  "coords": [
+   40.18219,
+   29.07461
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Bursa Green Mosque",
+  "qid": "Q1549086"
+ },
+ "heichal-hatarbut-tel-aviv": {
+  "coords": [
+   32.0736,
+   34.78
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Heichal HaTarbut",
+  "qid": "Q555316"
+ },
+ "house-vi": {
+  "coords": [
+   41.8327,
+   -73.3214
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "House VI",
+  "qid": "Q368771"
+ },
+ "hungarian-state-opera-house-budapest": {
+  "coords": [
+   47.50278,
+   19.05833
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Hungarian State Opera House",
+  "qid": "Q36833"
+ },
+ "iate-tenis-clube-pampulha": {
+  "coords": [
+   -19.85417,
+   -43.97569
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Iate Tênis Clube",
+  "qid": "Q29470059"
+ },
+ "ipoh-railway-station": {
+  "coords": [
+   4.59722,
+   101.07333
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Ipoh railway station",
+  "qid": "Q1101067"
+ },
+ "jacob-and-wilhelm-grimm-centre": {
+  "coords": [
+   52.5206,
+   13.3911
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Jacob-und-Wilhelm-Grimm-Zentrum",
+  "qid": "Q1525910"
+ },
+ "kagawa-prefectural-gymnasium": {
+  "coords": [
+   34.25509,
+   134.02877
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Takamatsu City Kagawa Gymnasium",
+  "qid": "Q11670420"
+ },
+ "kaunas-mosque": {
+  "coords": [
+   54.89417,
+   23.92806
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Kaunas Mosque",
+  "qid": "Q595176"
+ },
+ "kensal-house": {
+  "coords": [
+   51.525,
+   -0.21524
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Kensal House",
+  "qid": "Q17552433"
+ },
+ "loisium-langenlois": {
+  "coords": [
+   48.47591,
+   15.67567
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "LOISIUM WeinErlebnisWelt & Vinothek",
+  "qid": "Q86960240"
+ },
+ "museo-enzo-ferrari": {
+  "coords": [
+   44.65216,
+   10.9362
+  ],
+  "country_ok": true,
+  "how": "search",
+  "label": "Museo Enzo Ferrari",
+  "qid": "Q3329137",
+  "why": "architect"
+ },
+ "museu-belles-arts-castello": {
+  "coords": [
+   39.98231,
+   -0.03019
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Museu de Belles Arts de Castelló",
+  "qid": "Q5646329"
+ },
+ "nandan-kolkata": {
+  "coords": [
+   22.5421,
+   88.3455
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Nandan",
+  "qid": "Q6963179"
+ },
+ "nantes-school-of-architecture": {
+  "coords": [
+   47.207,
+   -1.55733
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Ecole nationale supérieure d'architecture",
+  "qid": "Q3578181"
+ },
+ "national-carillon-canberra": {
+  "coords": [
+   -35.2985,
+   149.142
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "National Carillon",
+  "qid": "Q494865"
+ },
+ "national-institute-of-immunology": {
+  "coords": [
+   55.65385,
+   37.49229
+  ],
+  "country_ok": false,
+  "how": "commons",
+  "label": "National Medical Research Center of Pediatric Hematology, Oncology and Immunology",
+  "qid": "Q4481780"
+ },
+ "national-library-of-brazil": {
+  "coords": [
+   -22.90972,
+   -43.1755
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "National Library of Brazil",
+  "qid": "Q948882"
+ },
+ "notre-dame-de-toute-grace-assy": {
+  "coords": [
+   45.93944,
+   6.71056
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Église Notre-Dame de Toute Grâce du Plateau d'Assy",
+  "qid": "Q3580243"
+ },
+ "oakes-ames-memorial-hall": {
+  "coords": [
+   42.06722,
+   -71.105
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Oakes Ames Memorial Hall",
+  "qid": "Q7073842"
+ },
+ "olympic-sculpture-park": {
+  "coords": [
+   47.61676,
+   -122.3553
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Olympic Sculpture Park",
+  "qid": "Q7089122"
+ },
+ "olympic-stadium-amsterdam": {
+  "coords": [
+   52.34342,
+   4.85419
+  ],
+  "country_ok": null,
+  "how": "commons",
+  "label": "Olympic Stadium",
+  "qid": "Q503319"
+ },
+ "our-dynamic-earth-edinburgh": {
+  "coords": [
+   55.9506,
+   -3.17437
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Dynamic Earth",
+  "qid": "Q3358350"
+ },
+ "parque-central-caracas": {
+  "coords": [
+   10.49831,
+   -66.90131
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Parque Central Complex",
+  "qid": "Q4388657"
+ },
+ "peace-palace-the-hague": {
+  "coords": [
+   52.0866,
+   4.2955
+  ],
+  "country_ok": null,
+  "how": "commons",
+  "label": "Peace Palace",
+  "qid": "Q834448"
+ },
+ "ponte-genova-san-giorgio": {
+  "coords": [
+   44.42583,
+   8.88889
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Genoa-Saint George viaduct",
+  "qid": "Q84709324"
+ },
+ "pope-leighey-house": {
+  "coords": [
+   38.7194,
+   -77.136
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Pope-Leighey House",
+  "qid": "Q7229144"
+ },
+ "radcliffe-camera": {
+  "coords": [
+   51.7534,
+   -1.2539
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Radcliffe Camera",
+  "qid": "Q1602700"
+ },
+ "raj-mandir-cinema": {
+  "coords": [
+   26.9155,
+   75.81016
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Raj Mandir Cinema, Jaipur",
+  "qid": "Q7285323"
+ },
+ "rautatalo": {
+  "coords": [
+   60.1684,
+   24.9434
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Rautatalo",
+  "qid": "Q11890264"
+ },
+ "renoma-wroclaw": {
+  "coords": [
+   51.10361,
+   17.03111
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Renoma",
+  "qid": "Q7313427"
+ },
+ "reykjavik-city-hall": {
+  "coords": [
+   64.14583,
+   -21.94222
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Ráðhús Reykjavíkur",
+  "qid": "Q196471"
+ },
+ "riyadh-tv-tower": {
+  "coords": [
+   24.6433,
+   46.6958
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Riyadh TV Tower",
+  "qid": "Q1407325"
+ },
+ "ruhr-university-bochum": {
+  "coords": [
+   51.44389,
+   7.26167
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Ruhr University Bochum",
+  "qid": "Q309948"
+ },
+ "saigon-central-post-office": {
+  "coords": [
+   10.78,
+   106.7
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Saigon Central Post Office",
+  "qid": "Q2227270"
+ },
+ "san-francisco-federal-building": {
+  "coords": [
+   37.77917,
+   -122.41194
+  ],
+  "country_ok": true,
+  "how": "qid",
+  "label": "San Francisco Federal Building",
+  "qid": "Q7414007"
+ },
+ "san-javier-library-park": {
+  "coords": [
+   6.25449,
+   -75.61339
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "San Javier Library",
+  "qid": "Q17087539"
+ },
+ "sancaklar-mosque": {
+  "coords": [
+   41.089,
+   28.60158
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Sancaklar mosque",
+  "qid": "Q21526905"
+ },
+ "selfridges-birmingham": {
+  "coords": [
+   52.4778,
+   -1.89226
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Selfridges Building, Birmingham",
+  "qid": "Q7448350"
+ },
+ "senate-house-london": {
+  "coords": [
+   51.521,
+   -0.1287
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Senate House",
+  "qid": "Q3478501"
+ },
+ "stockholm-city-hall": {
+  "coords": [
+   59.3275,
+   18.05472
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Stockholm City Hall",
+  "qid": "Q648483"
+ },
+ "stone-museum": {
+  "coords": [
+   40.48289,
+   -3.36441
+  ],
+  "country_ok": false,
+  "how": "commons",
+  "label": "Refugio antiaéreo de la plaza de Cervantes de Alcalá de Henares",
+  "qid": "Q141446105"
+ },
+ "swatch-headquarters": {
+  "coords": [
+   47.14405,
+   7.2609
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Headquarters of Swatch, Biel/Bienne",
+  "qid": "Q113058643"
+ },
+ "tallinn-song-festival-stage": {
+  "coords": [
+   59.44466,
+   24.8065
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Tallinn Song Festival stage",
+  "qid": "Q3742946"
+ },
+ "unilever-haus-hamburg": {
+  "coords": [
+   53.53908,
+   9.99339
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Unilever building (HafenCity)",
+  "qid": "Q2494414"
+ },
+ "universidad-laboral-gijon": {
+  "coords": [
+   43.5241,
+   -5.61351
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Universidad Laboral de Gijón",
+  "qid": "Q5196648"
+ },
+ "villa-dall-ava": {
+  "coords": [
+   48.85587,
+   2.21823
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Villa Dall'Ava",
+  "qid": "Q15713840"
+ },
+ "villa-savoye": {
+  "coords": [
+   48.92444,
+   2.02833
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Villa Savoye",
+  "qid": "Q940746"
+ },
+ "wzb-berlin-social-science-center": {
+  "coords": [
+   52.5064,
+   13.3658
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "WZB Berlin Social Science Center",
+  "qid": "Q475602"
+ },
+ "za-koenji": {
+  "coords": [
+   35.70592,
+   139.65401
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Suginami Art Center",
+  "qid": "Q11521690"
+ },
+ "zellerbach-hall": {
+  "coords": [
+   37.8689,
+   -122.261
+  ],
+  "country_ok": true,
+  "how": "commons",
+  "label": "Zellerbach Hall",
+  "qid": "Q8068797"
+ }
+}
