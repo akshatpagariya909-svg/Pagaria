@@ -139,7 +139,7 @@
     el.style.setProperty('--ar', ratioOf(b));
     el.innerHTML = `<button type="button" class="open" aria-label="${esc(b.title)}, ${esc(b.by)}, ${esc(b.year)}"><span class="cv">${coverHtml(b)}</span>` +
       `<span class="bcap"><b>${esc(b.title)}</b><span class="by">${esc(b.by)}</span><span class="r2">${esc(b.year)} · ${esc(b.shelf)}</span></span></button>`;
-    el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el));
+    el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el, false, null));
     return el;
   }
   function tileEl(b) {
@@ -201,6 +201,9 @@
     cols.style.setProperty('--n', C);
     cols.replaceChildren(...feedState.colEls);
     addBatch();
+    const atTable = state.mode === 'books' && !state.q && !state.shelf;
+    $('table').hidden = !atTable;
+    if (atTable) drawTable();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
     $('allLink').dataset.tip = 'A huge, growing collection of buildings';
@@ -489,12 +492,9 @@
   }
   function bookLinks(k) {
     const a = k.by.split(/,| and |\(/)[0].trim(), s = q(k.title + ' ' + a);
-    return [
+    return [ // two ways to get it: one to buy, one to borrow (the owner's choice, Oct 2026)
       ['Buy', 'Amazon', `https://www.${SHOP.amazon}/s?k=${s}&i=stripbooks${SHOP.tag ? '&tag=' + SHOP.tag : ''}`],
-      ['Buy', 'Bookshop.org', `https://bookshop.org/search?keywords=${s}`],
-      ['Borrow or read', 'Open Library', k.ol ? `https://openlibrary.org/works/${k.ol}` : `https://openlibrary.org/search?q=${s}`],
-      ['Find in a library', 'WorldCat', `https://search.worldcat.org/search?q=${s}`],
-      ['Preview', 'Google Books', `https://www.google.com/search?tbm=bks&q=${s}`]
+      ['Borrow or read', 'Open Library', k.ol ? `https://openlibrary.org/works/${k.ol}` : `https://openlibrary.org/search?q=${s}`]
     ];
   }
   function showCover(k) {
@@ -518,12 +518,16 @@
   const sameShelf = k => BOOKS.filter(x => x !== k && x.shelf === k.shelf)
     .sort((x, y) => (y.tags || []).filter(t => (k.tags || []).includes(t)).length - (x.tags || []).filter(t => (k.tags || []).includes(t)).length || x.y - y.y);
 
-  function openBook(id, surprise, fromEl, fromHistory) {
+  // list: what the previous and next arrows step through (a category or today's five); null for the wall's own order.
+  function openBook(id, surprise, fromEl, fromHistory, list) {
     const k = BOOKS.find(x => x.id === id);
     if (!k) return;
+    if (list !== undefined) state.stepList = list;
     if (!fromHistory && !(state.open && state.open === k)) remember(keyOf(k), surprise, !sheet.hidden);
     state.open = k; state.seen.add(keyOf(k));
-    state.lastTile = fromEl || tiles.get(keyOf(k)) || null;
+    // stepping through a list on the table: closing returns to that book on the table, not to its tile on the wall
+    const onTable = state.stepList && state.stepList.includes(k) && !$('table').hidden ? $('table').querySelector(`button[data-book="${CSS.escape(k.id)}"]`) : null;
+    state.lastTile = fromEl || onTable || tiles.get(keyOf(k)) || null;
     card.classList.add('book');
     showCover(k);
     const kick = $('bKicker');
@@ -573,8 +577,9 @@
   }
 
   // Previous and next follow the wall's own order, after filters and search.
+  const stepList = () => state.stepList && state.stepList.includes(state.open) ? state.stepList : feedState.list;
   function updateStep() {
-    const list = feedState.list, i = state.open ? list.indexOf(state.open) : -1;
+    const list = stepList(), i = state.open ? list.indexOf(state.open) : -1;
     $('step').hidden = i < 0 || list.length < 2;
     if (i < 0) return;
     const noun = state.mode === 'books' ? 'book' : 'building';
@@ -590,9 +595,9 @@
     $('sPos').textContent = ''; // no totals on the site
   }
   function stepBuilding(dir) {
-    const f = feedState, i = state.open ? f.list.indexOf(state.open) : -1, b = f.list[i + dir];
+    const f = feedState, list = stepList(), i = state.open ? list.indexOf(state.open) : -1, b = list[i + dir];
     if (i < 0 || !b) return;
-    while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
+    if (list === f.list) while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
     state.stepped = true;
     openAny(keyOf(b));
   }
@@ -601,11 +606,11 @@
   function hideSheet() {
     sheet.hidden = true;
     document.body.classList.remove('locked');
-    state.open = null;
+    state.open = null; state.stepList = null;
     updateDock();
     if (state.lastTile && state.lastTile.isConnected) {
       if (state.stepped) state.lastTile.scrollIntoView({ block: 'center' });
-      state.lastTile.querySelector('.open').focus({ preventScroll: true });
+      (state.lastTile.querySelector('.open') || state.lastTile).focus({ preventScroll: true });
     }
     state.stepped = false;
   }
@@ -703,6 +708,102 @@
     closeBuilding(); refreshFilters(); render(true);
   });
 
+  /* ---------- Books: the front table (design v18 · 05 and 06) ---------- */
+  // The Books home: five featured books a day, each with a line in its own words (data/book_lines.js), then six
+  // categories that open into two rows of covers. A book can sit in more than one category. Searching or choosing a
+  // shelf skips the table and shows the wall. A book opened here steps through the list it was opened from.
+  const CATEGORIES = [
+    { name: 'Start here', blurb: 'The first books most people are handed, in the order to read them.', keep: true,
+      has: k => k.shelf === 'Essentials' },
+    { name: 'Theory & manifestos', blurb: 'The arguments, and the replies to them.',
+      has: (k, t) => k.shelf === 'Theory' || k.shelf === 'Manifestos' || t.has('Theory') || t.has('Criticism') },
+    { name: 'Monographs', blurb: 'One architect at a time, with the drawings.', has: k => k.shelf === 'Monographs' },
+    { name: 'History & cities', blurb: 'How we got here, and how cities actually work.',
+      has: (k, t) => k.shelf === 'History' || k.shelf === 'Cities' || t.has('History') || t.has('Cities') || t.has('Survey') },
+    { name: 'Drawing & construction', blurb: 'Books that are mostly drawings, and how things are put together.',
+      has: (k, t) => k.shelf === 'Drawing' || k.shelf === 'Construction' || ['Drawing', 'Construction', 'Structure', 'Details'].some(x => t.has(x)) },
+    { name: 'Free to read', blurb: 'Out of copyright and online in full.', has: k => k.shelf === 'Free to read' }
+  ];
+  const table = { built: false, five: [], feat: 0, open: 0, lists: [] };
+  function todaysFive() {
+    const lines = window.BOOK_LINES || {}, pool = BOOKS.filter(k => lines[k.id]), d = new Date();
+    return shuffled(pool, rng(d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate())).slice(0, 5);
+  }
+  const lineSize = s => s.length <= 18 ? 'l1' : s.length <= 40 ? 'l2' : s.length <= 72 ? 'l3' : 'l4';
+  const coverOnly = k => `<span class="cv">${coverHtml(k)}</span>`;
+  function drawFeatured() {
+    const five = table.five, i = table.feat, k = five[i], el = $('feat');
+    if (!k) { el.hidden = true; return; }
+    const ln = (window.BOOK_LINES || {})[k.id];
+    el.hidden = false;
+    el.style.setProperty('--fbg', ln.bg || '#E7DFCF');
+    el.classList.toggle('dark', !!ln.dark);
+    const arrow = (d, label, path) => `<button type="button" data-feat="${d}" aria-label="${label}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="${path}"/></svg></button>`;
+    el.innerHTML =
+      `<div class="feat-top"><span class="k">Today’s featured · ${i + 1} of ${five.length}</span>` +
+      `<span class="feat-nav">${arrow(-1, 'Previous featured book', 'M15 5l-7 7 7 7')}${arrow(1, 'Next featured book', 'M9 5l7 7-7 7')}</span></div>` +
+      `<div class="feat-body"><button type="button" class="feat-main" data-book="${esc(k.id)}" data-list="feat">` +
+      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">${esc(ln.line)}</span>` +
+      `<span class="foot"><b>${esc(k.title)}</b><span class="m">${esc([k.by, k.year, k.shelf].join(' · '))}</span>` +
+      (k.why ? `<span class="why">${esc(k.why)}</span>` : '') + `<span class="go">Open the book →</span></span></button>` +
+      `<div class="also"><span class="k">Also on the table today</span><div class="also-row">` +
+      five.map((x, j) => j === i ? '' : `<button type="button" data-pick="${j}" aria-label="${esc(x.title)}, ${esc(x.by)}">${coverOnly(x)}<b>${esc(x.title)}</b></button>`).join('') +
+      `</div><span class="hint">Five books a day, picked for their first line. Tap one to put it on top.</span></div></div>`;
+  }
+  function drawCats() {
+    table.lists = CATEGORIES.map(c => {
+      const list = BOOKS.filter(k => c.has(k, new Set(k.tags || [])));
+      return c.keep ? list : list.filter(k => k.cover).concat(list.filter(k => !k.cover)); // covers first, so a row opens on pictures
+    });
+    $('cats').innerHTML = CATEGORIES.map((c, j) => table.lists[j].length ? `<div class="cat">` +
+      `<button type="button" class="cat-h" id="catH${j}" aria-expanded="false" aria-controls="catB${j}" data-cat="${j}">` +
+      `<span class="cn">${esc(c.name)}</span><span class="cb">${esc(c.blurb)}</span><span class="cc">${table.lists[j].length} books</span>` +
+      `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>` +
+      `<div class="cat-b" id="catB${j}" role="region" aria-labelledby="catH${j}" hidden></div></div>` : '').join('');
+    openCat(table.open);
+  }
+  function openCat(j) {
+    document.querySelectorAll('#cats .cat-h').forEach(h => {
+      const k = +h.dataset.cat, on = k === j, body = $('catB' + k);
+      h.setAttribute('aria-expanded', on);
+      body.hidden = !on;
+      if (on && !body.firstChild) { // a category's covers are drawn the first time it opens
+        body.innerHTML = `<p class="cat-blurb">${esc(CATEGORIES[k].blurb)}</p><div class="cat-row">` +
+          table.lists[k].map(x => `<button type="button" data-book="${esc(x.id)}" data-list="${k}">${coverOnly(x)}<b>${esc(x.title)}</b><small>${esc(x.by)}</small></button>`).join('') +
+          `</div><button type="button" class="cat-arr prev" data-dir="-1" aria-label="Earlier books" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></span></button>` +
+          `<button type="button" class="cat-arr next" data-dir="1" aria-label="More books in ${esc(CATEGORIES[k].name)}" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span></button>`;
+        body.querySelector('.cat-row').addEventListener('scroll', () => catArrows(body), { passive: true });
+      }
+      if (on) requestAnimationFrame(() => catArrows(body));
+    });
+    table.open = j;
+  }
+  function catArrows(body) {
+    const row = body.querySelector('.cat-row'); if (!row) return;
+    body.querySelector('.prev').hidden = row.scrollLeft <= 2;
+    body.querySelector('.next').hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
+  }
+  function drawTable() {
+    if (table.built) return;
+    table.built = true;
+    table.five = todaysFive();
+    drawFeatured();
+    drawCats();
+  }
+  $('table').addEventListener('click', e => {
+    const t = e.target.closest('button'); if (!t) return;
+    if (t.dataset.feat) { const n = table.five.length; table.feat = (table.feat + +t.dataset.feat + n) % n; return drawFeatured(); }
+    if (t.dataset.pick) { table.feat = +t.dataset.pick; return drawFeatured(); }
+    if (t.dataset.cat) return openCat(t.getAttribute('aria-expanded') === 'true' ? -1 : +t.dataset.cat);
+    if (t.dataset.dir) { // eight columns at a time
+      const row = t.parentElement.querySelector('.cat-row'), first = row.firstElementChild;
+      const col = first ? first.getBoundingClientRect().width + parseFloat(getComputedStyle(row).columnGap || 0) : row.clientWidth / 8;
+      return row.scrollBy({ left: +t.dataset.dir * col * 8, behavior: 'smooth' });
+    }
+    if (t.dataset.book) openBook(t.dataset.book, false, t, false, t.dataset.list === 'feat' ? table.five : table.lists[+t.dataset.list]);
+  });
+  window.addEventListener('resize', () => { const b = table.open >= 0 && $('catB' + table.open); if (b) catArrows(b); });
+
   /* ---------- search, ideas bar, filters, dock ---------- */
   let qTimer;
   $('q').addEventListener('input', e => {
@@ -759,6 +860,7 @@
     $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
     $('filterBtn').hidden = books;
     $('allLink').hidden = books;
+    $('feed').setAttribute('aria-label', books ? 'Books' : 'Buildings');
     toggleFilters(false);
     if (!quiet) render(true);
   }
