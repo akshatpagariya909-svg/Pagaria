@@ -88,12 +88,28 @@ def anonymous(b):
     return b['by'].lower().startswith('unknown')
 
 
+TITLE_MAX = 60   # Google cuts a title at about 580 px, roughly 60 characters
+DESC_MAX = 155   # and a description at about 155
+
+
 def title(b):
-    """Villa Savoye — Le Corbusier, 1931: photos, plans & sections for a case study.
-    Searches add the architect, "plan", "section", "photos" and "case study" to a building's name."""
+    """Villa Savoye — Le Corbusier, 1931: photos, plans & sections   (at most TITLE_MAX characters).
+    Searches add the architect, "plan", "section" and "photos" to a building's name, so those come first and nothing
+    is left to be cut: a longer, fuller wording is used only when it fits."""
     who = b['place'].split(',')[0] if anonymous(b) else b['by']
     what = offer(b)
-    return f"{b['name']} — {who}, {b['year']}: " + (f'{what} for a case study' if what else 'notes for a case study')
+    name, year = b['name'], b['year']
+    head = f"{name} — {who}, {year}"
+    options = ([f"{head}: {what} for a case study · {NAME}", f"{head}: {what} for a case study", f"{head}: {what}"] if what
+               else [f"{head}: notes for a case study · {NAME}", f"{head}: notes for a case study"]) + [head]
+    for o in options:
+        if len(o) <= TITLE_MAX:
+            return o
+    # A long list of architects: leave the credit out of the title (it is on the page) rather than cut a name in half.
+    for o in ([f"{name}, {year}: {what}"] if what else []) + [f"{name}, {year}", name]:
+        if len(o) <= TITLE_MAX:
+            return o
+    return name
 
 
 # How a typology reads in a sentence ("a housing complex in Mumbai"); types not listed read as themselves, lowercased.
@@ -103,13 +119,26 @@ NOUN = {'Culture & sport': 'cultural building', 'Office & tower': 'office buildi
 
 
 def summary(b):
-    who = 'by unknown builders' if anonymous(b) else f"by {b['by']}"
+    """The page description, at most DESC_MAX characters so Google shows all of it: what the building is, its key
+    features (cut at a word if they do not fit), and what the page offers."""
     noun = NOUN.get(b['type'], b['type'].lower())
     a = 'an' if noun[0] in 'aeiou' else 'a'
     verb, tail = ('was', f"; it was {GONE[b['id']]}") if b['id'] in GONE else ('is', '')
-    gives = (['free photos with credits'] if b.get('images') else []) + (['links to plans and sections'] if has_drawings(b) else [])
-    extra = ' ' + ', '.join(gives + ['notes for a case study']).capitalize() + '.'
-    return f"{b['name']} {verb} {a} {noun} in {place_full(b)} {who}, {b['year']}{tail}. Key features: {b['study']}{extra}"
+    who = 'by unknown builders' if anonymous(b) else f"by {b['by']}"
+    first = f"{b['name']} {verb} {a} {noun} in {place_full(b)} {who}, {b['year']}{tail}."
+    if len(first) > 110:  # a long credit: the architect is in the title and on the page
+        first = f"{b['name']} {verb} {a} {noun} in {place_full(b)}, {b['year']}{tail}."
+    gives = (['photos'] if b.get('images') else []) + (['plans and sections'] if has_drawings(b) else [])
+    offer_text = f" Free {', '.join(gives)}." if gives else ' Notes for a case study.'
+    label = ' Key features: '
+    study = ' '.join(b['study'].split()).rstrip('.')
+    room = DESC_MAX - len(first) - len(offer_text) - len(label) - 1  # 1 for the full stop after the features
+    if room < 25:
+        return (first + offer_text)[:DESC_MAX]
+    if len(study) > room:
+        study = study[:room - 1].rsplit(' ', 1)[0].rstrip(' ,;:-') + '…'
+        return f"{first}{label}{study}{offer_text}"
+    return f"{first}{label}{study}.{offer_text}"
 
 
 def related(b, items, n=6):
@@ -164,7 +193,7 @@ HEAD = """<!doctype html>
 {extra}
 </head>
 <body>
-<header class="top">
+<header class="top" data-nosnippet>
   <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
   <nav><a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
@@ -181,11 +210,11 @@ GALLERY_JS = """<script>
 })();
 </script>"""
 
-FOOT = """<footer class="foot">
+FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
 </footer>
-<nav class="dock" aria-label="Browse">
+<nav class="dock" data-nosnippet aria-label="Browse">
   <a href="{up}">Home</a>
   <a class="go" href="{up}#surprise">Surprise me</a>
 </nav>
@@ -295,7 +324,7 @@ def building_page(b, items):
         ld['image'] = photos
     if b.get('wiki'):
         ld['sameAs'] = b['wiki']
-    head = HEAD.format(title=e(f"{title(b)} · {NAME}"), desc=e(desc), url=e(url), site=NAME, ogtype='article',
+    head = HEAD.format(title=e(title(b)), desc=e(desc), url=e(url), site=NAME, ogtype='article',
                        ogtitle=e(f"{b['name']} — {b['by']}, {b['year']}"), image=e(og), up=up, wallhash='#' + b['id'],
                        extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
     if ims:
