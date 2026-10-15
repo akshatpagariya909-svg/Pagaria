@@ -19,24 +19,26 @@ SECTIONS = {  # name in latest.json -> endpoint
 }
 
 
-def get(path, attempts=5, timeout=40, **params):
+def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
+    """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again."""
     url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
     for attempt in range(attempts):
+        pause = waits[min(attempt, len(waits) - 1)]
         try:
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503, 504) and attempt < attempts - 1:
-                time.sleep(min(int(e.headers.get('Retry-After') or 5 * (attempt + 1)), 60))
+                time.sleep(min(int(e.headers.get('Retry-After') or pause), 120))
                 continue
             raise SystemExit(f'GoatCounter said {e.code} for {path}: {short(e.read())}')
-        except urllib.error.URLError as e:
+        except (urllib.error.URLError, OSError) as e:  # includes a reset connection and a timeout
             if attempt < attempts - 1:
-                time.sleep(5 * (attempt + 1))
+                time.sleep(pause)
                 continue
-            raise SystemExit(f'Could not reach GoatCounter for {path}: {e}')
+            raise SystemExit(f'Could not reach GoatCounter for {path} after {attempts} tries: {e}')
 
 
 def short(body):
@@ -102,7 +104,7 @@ def main():
         try:
             if time.time() - started > 300:  # GoatCounter is very slow: stop trying, the daily visits are already saved
                 raise SystemExit('out of time')
-            data = get(endpoint, attempts=2, timeout=25, limit=100, **window)
+            data = get(endpoint, attempts=2, timeout=25, waits=(20,), limit=100, **window)
         except SystemExit as e:  # the daily visits are saved above, so a failing breakdown must not lose them
             print(f'::warning::{name} could not be fetched ({e}); keeping the numbers saved earlier')
             latest['sections'][name] = prev.get(name) or {'stats': [], 'more': False}
